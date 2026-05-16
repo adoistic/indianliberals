@@ -1,0 +1,31 @@
+# CODEOWNERS for indianliberals
+# https://docs.github.com/en/repositories/managing-your-repositories-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Files listed here require approval from the designated reviewers before
+# a pull request can be merged. This is the GitHub-side enforcement of the
+# super-admin / sub-admin trust model.
+#
+# The auth proxy at apps/auth/ has the runtime allowlist enforcement. This
+# file is the git-time enforcement — together they form belt-and-braces.
+#
+# Replace <super-admin-1> and <super-admin-2> with the actual GitHub
+# usernames of super-admins. Currently:
+#   adoistic        — Adnan
+#   <ccs-username>  — eacademy@ccs.in (CCS, to be assigned during deploy)
+
+# Super-admin allowlist — root of trust. Changing this is a code change
+# that also requires a Worker redeploy.
+/apps/auth/src/super-admins.ts                @adoistic
+
+# The sub-admin allowlist — super-admins control who else can edit.
+/data/admins.json                             @adoistic
+
+# Branch-protection-sensitive config: only super-admins approve.
+/apps/auth/wrangler.toml                      @adoistic
+/.github/CODEOWNERS                           @adoistic
+
+# Content schema and routing — affect every editor's workflow, so changes
+# here also need super-admin sign-off (we can relax this if needed).
+/apps/site/src/content.config.ts              @adoistic
+/apps/site/src/layouts/                       @adoistic
+/apps/site/public/admin/config.yml            @adoistic

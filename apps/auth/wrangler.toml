@@ -1,0 +1,26 @@
+name = "indianliberals-auth"
+main = "src/index.ts"
+compatibility_date = "2026-05-01"
+
+# Routes — to be configured after Cloudflare zone is set up.
+# The proxy lives at auth.indianliberals.in. Sveltia's config.yml points
+# its `base_url` here.
+#
+# [[routes]]
+# pattern = "auth.indianliberals.in/*"
+# zone_name = "indianliberals.in"
+
+# Secrets (set via `wrangler secret put`):
+#   GITHUB_CLIENT_ID       — OAuth app client id
+#   GITHUB_CLIENT_SECRET   — OAuth app client secret
+#
+# These are intentionally NOT in env vars or in the repo — they're set
+# in the Cloudflare dashboard and injected only at runtime.
+
+[vars]
+# Public configuration. Edits to these go through the standard PR
+# process. The super-admin list is in src/super-admins.ts (also in code).
+GITHUB_REPO = "adoistic/indianliberals"
+ADMINS_PATH = "data/admins.json"
+ADMINS_CACHE_TTL_SECONDS = "60"
+ALLOWED_REDIRECT_ORIGINS = "https://indianliberals.in,http://localhost:4321"

@@ -1,0 +1,5 @@
+{
+  "_comment": "Sub-admin allowlist for the Indian Liberals CMS. Anyone listed here can log in to /admin/ and edit content. Super-admins (hardcoded in apps/auth/src/super-admins.ts) can also edit this file via Sveltia; sub-admins cannot, because branch protection on this file requires super-admin PR approval via CODEOWNERS. To add a sub-admin: a super-admin opens this file in Sveltia CMS, adds the email, saves. To remove: the same. Within 60 seconds of the change, the auth proxy's cache refreshes and the new state is enforced.",
+  "_format": "Each email must match the user's GitHub primary verified email exactly. Case is ignored. Whitespace is trimmed.",
+  "admins": []
+}
