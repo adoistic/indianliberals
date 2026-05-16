@@ -1,0 +1,139 @@
+---
+id: "what-makes-japan-tick"
+title: "WHAT MAKES JAPAN TICK: SOME LESSONS FOR INDIA"
+pubDate: "2021-12-10T00:00:00Z"
+language: "en"
+translation_status: "original"
+needs_review: true
+draft: false
+---
+
+_Scraped from [the previous WordPress site](https://indianliberals.in/content/what-makes-japan-tick/) on 2026-05-17. Needs editorial review._
+
+The following work was published as a booklet in 1988 by the Forum of Free Enterprise. Authored by Minoo R Shroff, the booklet discusses the historical development in industrial and technology spaces in Japan. Outlining Japan’s harmonious employer-employee relationships and government-market business relationship, the author focuses on some key learning areas for India.
+
+Japan is one of the oldest states dating back to the later days of the Roman Empire, well before many of the countries of Europe came into existence. In fact, the power of the Court extended as far as the southern part of Korean peninsular in the fourth century.
+
+Until the middle of last century, Japan was a very insular state. It was under Emperor Meiji in 1868 that the country broke off from the old shackles and entered a new era. This is why it is called Meiji Restoration and not Meiji Revolution. The Restoration marked the turning point between feudal and modern Japan. One aspect which clearly differentiates the Meiji Restoration from the revolutions of modern Europe and the 1911 Revolution in China is that, instead of overthrowing the traditional monarchy, it restored it to power.
+
+The Meiji Government devoted its energies for the development of industry with focus on import of advanced technologies from the west. It abolished the various feudal trappings- ranks, titles and classes, thus declaring all men equal in the eyes of law. The Government also established a modern school system with elementary education compulsory.
+
+The Second World War was indeed a most traumatic experience for Japan. It was the first experience the Japanese had of defeat by a foreign power and the occupation of their country by alien armed forces. In fact Japan’s victory over Russia in 1904 when it overwhelmed the formidable forces of the Czar by deploying submarines, was a reflection of the technological and industrial capabilities Japan had acquired at the turn of the century.
+
+PHYSICAL ENVIRONMENT
+
+Japan is a long strip of land stretching 3,000 kms. from the north to the south. It embraces every conceivable climatic zone and is subject to hostile weather conditions like typhoons, cyclones, tidal waves and earthquakes. Consequently, the people have developed an immense capacity for combating the vicissitudes of nature and in the process have acquired great survival capability.
+
+Japan has very limited arable land. In area, it is comparable to the state of Maharashtra with twice its population. However only 27% of total area is available for development, 15% being used for cultivation and 12% for industrial, commercial and domestic purposes. Naturally, land prices are prohibitive even by US and European standards. Barring water, the country has no natural resources worth the name. It has some coal deposits but the annual output is barely 18-20 million tonnes, which is sufficient to meet one fifth of its requirements. It is dependent on imports for as much as 90% of its energy needs and almost entirely for all raw materials and minerals. One third of its food requirements has to be imported, it being self-sufficient only in rice and fish.
+
+The foundation laid for heavy industries like steel, engineering and chemicals before the Second World War provided the base for massive defence build-up. It also helped Japan in deploying a reservoir of technical skills.
+
+The Allied occupation of Japan under General MacArthur led to considerable democratization of the country. The Zaibatsus which had held complete sway over practically all important economic sectors – trading, banking and manufacturing were dismantled and forced to unload their shareholdings. The Zaibatsus were also responsible for the present widely prevalent system of lifetime employment. However, its impact was totally onesided with employees committed to serve for a lifetime while the employers reserved the right to fire them.
+
+The disbanding of Zaibatsus was accompanied by major land reforms and heavy taxation, the object being to usher in a more egalitarian society. There was also a new deal for labour which made it possible for them to get organised at the same time, making it virtually impossible for, industry to dismiss them.
+
+ATTITUDE TO WORK
+
+One of the striking features of the Japanese scene is their attitude to work. For an average Japanese work takes precedence over family, leisure and other creature comforts. This characteristic emerges from the social and spiritual ethos of the people- a degree of reverence for elders and for authority which is instilled right from childhood, both at home and school. It has had a traumatic impact on many individuals creating serious psychosomatic problems. This trait, however, is changing perceptibly with growing affluence- particularly among the growing tribe of young corporate executives and professionals with large discretionary incomes.
+
+HARMONIOUS RELATIONS
+
+Japan went through serious industrial relations problems immediately after the war, but from this emerged an amazingly harmonious industrial milieu. Union-management relations in Japan are extremely cordial. There are, of course, problems and even strikes, but the interest of the enterprise is kept uppermost by the workers. They do their best to ensure that production is not lost at any cost even while striking.
+
+This understanding has been a process of evolution and has found root in the fact that the unions are worked largely at enterprise level which in turn come together under an industrial federation of labour unions. These federations are further united to form joint organisations of which there are half a dozen. The federations set the guidelines for demands to be made for improvement in wage scales, benefits and working conditions and they also decide on campaign strategies. In certain industries, negotiations are held at industry level with the representatives of both labour union federations and employers’ organisations participating. The demands made by the unions are generally moderate and reasonable and negotiations are conducted in an atmosphere of mutual trust. Unions respond very positively to the efforts made to improve productivity through automation and robotization. An average employee puts in 10%-20% more hours of work than his counterpart in the US or Europe. He has experienced his real income go up each year thus increasing his purchasing power enormously over the last two decades.
+
+As a nation Japan is wedded to the philosophy of keeping the unemployment rate as low as possible. The national unemployment rate has hovered between 2.2% to 2.9% in recent years. This has been made possible as a result of close understanding between unions and management and the perception of shared sacrifices by all, particularly during periods of business recession. ·
+
+On their part corporate managements adopt a highly enlightened approach and are known to be very sensitive to employee needs.
+
+While the welfare system run by the state is modest by US or European standards, the employers have been known to be quite generous in providing two annual paid holidays, generally of ten days each, holiday homes and payment of bi-annual bonuses which range anywhere between three and six months’ wages. The large lumpsum bonus payments inject substantial discretionary incomes and manifest themselves in increased expenditure on leisure and travel (both within the country and overseas) especially among the younger generation.
+
+The lifetime employment concept which is often referred to does still exist, though it covers less than one fourth of the total employed population and is prevalent only in the larger companies. This ensures security and stability to employees; there is, of course, no absolute guarantee against dismissal in extreme cases.
+
+The Japanese system of management lays great stress on seniority, though merit is increasingly getting greater weightage in promotions. Wage increments also taper off with age. The ·differential between the maximum and minimum salaries in Japan is less than 10 to 1, far lower than in the other industrialised countries. Besides, top executives are not eligible for bonuses, stock options or golden parachutes. Mobility is now rising particularly amongst the qualified youth especially in areas such as financial services, computer software and other hi-tech operations.
+
+The normal retirement age is 55, though this is not observed in the case of senior and top management personnel. Managers are generally not retrenched but absorbed in staff functions in the same company or provided openings in associate companies. When very senior personnel are retired, they are retained as advisors and counsellors and their advice is highly valued.
+
+One remarkable factor of the Japanese industrial scene is that the employers perceive employees as associates. This is because, whenever companies experience serious problems or go into losses, the prescription for saving on costs or retrenchment tends to cover all employees – starting from the very top.
+
+GOVERNMENT RAPPORT WITH BUSINESS
+
+Since 1955 Japan has had one party in power, the Liberal Democratic Party. The Party has four major factions representing different interest groups. However, it is basically conservative in its economic outlook and has always enjoyed the close support of like minded bureaucrats and. businessmen.
+
+Business and Government have worked in very close cooperation in Japan as integral parts of society and have not taken adverserial postures. Japan has a very strong federal organization of employers called Keidanren. This body projects unified thinking of business. It is widely respected for objectivity and enjoys close rapport with Government. In fact, it exerts an influence over public policy that business organisations in other countries can only envy. However, there is a growing feeling that it is too staid and needs to be rejuvenated in keeping with the fast changing industrial profile of the country.
+
+RESOURCES CONSERVATION
+
+In view of the total dearth of resources and its consequent vulnerability in the event of any global hostility, Japan has been obsessed with the need to conserve. Hence, while selecting technologies or manufacturing processes, Japan has always opted for those which entail minimum use of resources. This is also the reason why it has excelled in miniaturisation.
+
+Being totally devoid of petroleum resources, the five-fold hike in oil price in 1973 came as a bolt from the blue. National attention was immediately focused on exploring ways and means of how the use of energy could be minimised, the use of petroleum conserved and alternative sources of energy developed. As a consequence, Japan has now developed technologies and processes which are among the most fuel efficient in the world. The most notable success has been in the area of steel and automobiles. Japan imported 5.3 million barrels a day in 1979. In the 1979-85 plan, it was projected that it would be consuming between 6.3 and 6.9 million barrels a day in 1985 and assumed the price of crude as US$ 50 in yen equivalent terms. In actual fact, Japan’s current consumption of oil is well under 5 million barrels a day with the price ruling at US $ 13 per barrel. Consequently, the oil import bill currently is less than one half of what it was in 1980 in US $terms and much lower in Yen terms, a major contributing factor for the enormous trade surplus.
+
+SAVINGS
+
+Asians as a race are generally thrifty by temperament. However, Japan takes the cake for having recorded the highest rate of saving in the last three decades averaging over 30% of GNP with a peak of 35% in the 1960’s and 1970’s. Out of this, personal savings have been between 16% and 20% of GNP. Personal annual savings currently exceed US$ 500 billion.
+
+Banks and financial institutions are by far the largest mobilizers of savings. The reasons behind the very high rate of saving in Japan, as compared to Western Europe, and more particularly the US, are the relatively early retirement age, modest welfare facilities provided by the state, longevity and incredibly high cost of housing. Besides till March 1988, the fiscal structure had provided  considerable inducement for savings by exempting interest on deposits upto 3 million Yen anti government bonds upto Yen 3-5 million each year. This led to widespread misuse by many individuals keeping multiple accounts in different names. The deduction of interest from taxable income has since been abolished.
+
+Interest rates in Japan are among the lowest anywhere. Savers on an average get 12.5% to 3.5% on their short term investments. With the surge in savings and the removal of tax exemption on deposit interest money has been pouring into real estate and the stock market. By 1987, Japan had the highest market capitalization in the world exceeding that of the U.S.A. Currently, capitalization is reckoned to be over $3.5 trillion, representing 41% of the world market capitalization as against only 4.6% in 1970. Yields on equities are very low, the current average being 0.7%. The P/E ratio is the highest anywhere presently over 60, with the high flyers being quoted in the range of 100-150. The wide gap between Tokyo and other leading stock exchanges in regard to P/E ratio is due largely to differences in accounting, depreciation and reporting methods. The collapse in the world stock exchanges in October 1987- affected Japan the least. The current Nikkei index is near the peak touched last year( and 30% over the December 1987 level in Yen terms.
+
+It is an established fact that the stock exchanges in Japan, particularly in Tokyo, are fairly well regulated with the fluctuations not allowed move beyond a certain range on any day. For some years now, warnings have been sounded to the effect that the Tokyo Stock Exchange has become overheated and that there could be a crash. The very robust performance of the Japanese economy since last year, now being led by 5% plus domestic growth, does not indicate any such likelihood in the foreseeable future. There is always the possibility of a downward slide along the way but the underlying trend is upwards due to the strong fundamentals.
+
+PRODUCTIVITY
+
+Japan has clocked the highest productivity rates attained anywhere in a wide segment of industry. Between 1960 and 1980, an annual growth of 10 to 11% in productivity was achieved in transportation equipment, electrical machinery, steel and chemical industries. While the rate has slowed down considerably to 4% – 5% since 1980, it is still the highest in the industrial world. This has been one of the contributing factors to the surge in overall production witnessed in Japan and its tremendous capacity to compete in world markets despite substantial rise in wages and sharp appreciation of yen. In fact, the Japanese have displayed an uncanny capacity to adapt to the vastly changed economic environment in a relatively short period of time.
+
+Corporations in Japan believe in the continuous renewal of their facilities, The average period being 6 years compared to 10 or 12 years in Europe and USA. Being great sticklers for high quality and productivity, the Japanese have not hesitated to replace equipment which would be considered completely serviceworthy in other countries, if replacement ensured higher productivity and lower costs.  Industry has also gone in for extensive robotisation backed by controlled technology.
+
+TECHNOLOGY
+
+The Japanese have been prolific importers of technology and more importantly the greatest adapters. In all major areas where Japan has achieved a spectacular breakthrough in global markets the invention was made elsewhere- transistor in the US, quartz watch in Switzerland and semi-conductor in the US and Europe. However, despite the initial lead-time the inventing countries had, Japan converted these inventions into marketable products well before anybody else and managed to have enormous penetration. The Japanese have been late entrants in the realm of technology and hence their research 9 and development efforts are largely focused on the developmental angle with relatively less emphasis on pure research. Their thrust lies been on developing products for today and. tomorrow’s market place. Japan has not followed the west in accepting that successful applications of products cannot follow without first having successful basic research.
+
+Over the years, Japan has perhaps paid more money as patent royalties than any other nation in history. Competition among Japanese manufacturers is so fierce that it has created a new standard for fees paid for borrowing technology. Many of the leading manufacturers of the world have, therefore, flocked to Japan to sell their technologies. Given the surplus of capital and an amazing capacity to adapt, Japan has transformed imported technologies into products which have changed the lifestyles not only in Japan but in many other countries. The same situation has occurred in the field of quality control (QC) which, though developed in the US, was put to practical use and produced very impressive results in Japan. It has gone to such an extent that the Americans and Europeans now come to Japan to learn QC. With unquestioned zeal, Japan proceeded through its own process of trial and error, continually adding new innovations to evolve a QC system that is uniquely Japanese.
+
+FACING UP TO STRUCTURAL PROBLEMS
+
+The spectacular success achieved by Japan has been only to a limited extent export-led, though the presence of Japanese products in international markets has become so visible. Exports as a percentage of GNP have ranged between 9% and 12%, certainly much lower than the 20%-40% of NP consistently achieved by U.K., West Germany, Belgr.um, Netherlands, Switzerland and other European countries. Nevertheless, as far as the exporting industries and leading units therein are concerned, such as steel automobiles, consumer electronics, watches and cameras, the percentage has ranged anywhere between 35% to 60%. As a result of very high volumes, extensive standardisation, high productivity and cost effectiveness, exports were very profitable for most companies till 1985. The surge in the value of yen has no doubt posed considerable problems to Japanese manufacturers despite their best efforts to cut down costs and reduce margins. It has particularly hit hard the small and medium sized units. This has resulted in major strategy changes within the country. The Government partly under international pressures has been trying to stimulate the domestic economy and encourage imports. There is also the economic compulsion to do so in view of the enormous competition posed by the emerging tigers in Asia- South Korea, Taiwan, Hongkong and Singapore. Japan imports currently items like black and white television sets, calculators and fans to meet over 50% of the domestic market.
+
+As a result of the growing affluence, the Japanese are becoming avid consumers of high priced designed consumer products. These products are in great demand in major cities despite the exceedingly high mark-ups, resulting in retail prices being 2 to 3 times those ruling in the exporting countries. The Japanese are also taking to foreign travel with great gusto and have become an important force in world tourism.
+
+Japan is now looking increasingly to overseas locations for siting plants for three important reasons: to get over the quota and/or tariff barriers erected or being erected by many countries to ward off Japanese competition; to overcome the problem of rising wage cost at home and meeting stiff competition in several fields from newly industrialised countries (NICs) in South East Asia; and to be near to the market place and thus save on marketing and distribution costs.
+
+In view of the large capital surpluses, Japanese overseas investments are growing. Even so, Japan is still a relatively new entrant and the manufacture of Japanese goods overseas still accounts for only 4% of total national output as compared to 18% to 20% for US. This is projected to grow to 10% by 2000 A.D.
+
+The Japanese Constitution prohibits the country from organizing its defence forces beyond the level required for its own defence. Hence, they are termed self-defence forces. Japan’s expenditure on defence has been by far the lowest for any major country, an average of 0.8% of GNP till the current year when it is being raised to 1.0% as against 4%-7% for Western Europe and US. As a consequence, Japan has been able to channelise a much larger percentage of its savings for economic development and attain the highest level of growth in the industrialised world. However, pressures are building up for Japan to assume a larger defence burden.
+
+SOME SOCIAL ASPECTS
+
+Despite the economic heights attained by it, Japan does face several problems particularly social. While the average real earnings have increased more than four-fold since 1950, housing shortage is acute, particularly in big cities like Tokyo, conditions are very difficult in view of overcrowding. An average Japanese home is tiny (barely 500 sq. ft.) and incredibly expensive. Most employees have to commute to work daily involving 2 to 3 hours journey leading to strain on life. Indeed, one out of every three workers is treated for stress-related illness.
+
+Japan has the highest longevity with an average life expectancy of 76 for males and 78 for females. The population over 60 is fast growing and a large number of businesses have to evolve strategies to cope with the ageing work force. On the plus side, as the work force ages, employees have a great deal to offer in terms of job experience and corporate loyalty. However they lack the background and the skills required for manning business men which call for newer technologies and international competitive_ strength. Hence to cope with future requirements, businesses now recognise the need for developing managerial capabilities and readapting the same to meet the emerging challenges. Instead of hiring new business graduates, many establishments are planning to secure the required personnel through hiring of experienced mid-career employees. These people are especially sought in areas such as new project development, R and D, and overseas projects.
+
+The ageing population is making increasingly heavy demands on social welfare. Payments are expected to exceed contributions, making an increasing draft on general budgetary resources.
+
+With enormous purchasing power in the hands of younger couples, the marketing emphasis is naturally changing fast to meet the needs of the youth.
+
+There is a growing shift from saving to consumption. Household savings have been slowly declining and now account for 16% as against the peak of 23%. The younger generation is also acquiring taste for imported products including luxury automobiles, and travel. This year over 1.6 million Japanese are expected to travel overseas.
+
+The middle-aged, more particularly the college educated, constitute the growing middle class with an average annual income of$ 75,000. They are becoming more conscious of their quality of life style and what they own -a marked change from the traditional frugal ethic. The national policy to encourage domestic consumption to soak up the output of the overheated economy also supports this trend.
+
+Japan is now facing increasing competition from the NICs in South East Asia. The penetration by the NICs in the main OECD markets has increased rapidly over the last 15 years. Initially the thrust of NICs was in clothing and textiles, but now it is increasingly being felt in industries like steel, ships, cars, consumer electronics, telecommunications equipment and machine tools.
+
+LESSONS FOR INDIA
+
+Japan and India have a lot in common in two respects- high personal savings rate and abundance of human skills. However, there are several areas where we have to learn a good deal from Japan, more particularly the following:
+
+Importance of Time: To the Japanese time is money. They are extremely finicky about meeting their commitments on time. In contrast, in India, there is generally little concern for time.
+
+Work Ethos: An average Japanese takes enormous pride in his work. It is because of this that they as a nation have been able to attain high quality standards and penetrate deep into world markets. There is dire need in our country to infuse this sense of pride amongst employees at all levels.
+
+Productivity: The Japanese lay utmost emphasis on consistently attaining the highest productivity levels possible. No wonder, Japan has emerged as one of the major competitors globally. But in India, productivity has either remained stagnant or tended to decline in almost all fields barring exceptions here and there. That is why our cost structure is so high and our products are being priced out internationally despite our relatively low wage costs.
+
+Cost-Consciousness: With no natural resources worth the name, any waste is a matter of sacrilege for the Japanese. Hence every effort is made to conserve almost everything. Relatively India is a much poorer country than Japan, though it is abundantly endowed with natural resources. But that is no reason why we should be so profligate in their use, whether it be water or timber or electricity, or coal or petroleum. Even in the case of agricultural products there is enormous wastage for lack of adequate storage and preservation facilities. We need to become more alive and sensitive to conservation in the interest of ensuring speedy improvement in living standards.
+
+Industrial Relations: Although Japan has a larger industrial labour force than ours, industrial relations are quite cordial. Not more than half a million man hours are lost on an average annually as against the loss of anywhere between 30 and 40 million man hours in India. A developing country like India just cannot afford this luxury. Conscious efforts to improve industrial relations through better understanding between management and labour are of the utmost importance.
+
+Urge to Excel: As a people the Japanese have been constantly-striving to excel other countries, even themselves. This is because of the confidence gained as a result of wide acceptability of their products in almost all markets of the world. The Indians, too, had great pride in their craftsmanship once. This needs to be rekindled.
+
+To conclude, there is no doubt that, despite the current problems of adjustment, Japan will continue to forge ahead. This is because of the several innate qualities which  the nation has demonstrated over the years, the most remarkable of them being the capacity to adapt and innovate. The enormous investments made in technology development will also ensure sustained progress, though the annual growth may be relatively lower than the trend rate.
+
+Last week’s musing: THE RETREAT FROM SOCIALISM

@@ -1,0 +1,31 @@
+---
+id: "not-a-rich-peoples-lobby"
+title: "Not a Rich People’s Lobby"
+pubDate: "2020-11-16T00:00:00Z"
+language: "en"
+translation_status: "original"
+needs_review: true
+draft: false
+---
+
+_Scraped from [the previous WordPress site](https://indianliberals.in/content/not-a-rich-peoples-lobby/) on 2026-05-17. Needs editorial review._
+
+The Swatantra Party’s principles and the policies it commends are the only policies and principles that can help general welfare and national progress.
+
+The detractors of the Swatantra Party, PM Nehru included, used to dismiss it as a reactionary party serving the business interest. The party’s advocacy of pro-market policy (competition, low entry barrier, less taxation, easy regulation, etc.) were dismissed as masking the interests of the Bombay business houses. It fell upon C Rajagopalachari to lay out the difference between pro-business and pro-market policies in an article published on July 6, 1968. In the article, Rajaji laid out the need for a market-driven economy to generate prosperity for all; took dig at big businesses which had a vested interest in maintaining socialist controls; and decried the lack of nuance in the public discourse to make the distinction between freedom and cronyism.
+
+Rajaji’s advocacy of market capitalism has bearing today for a relatively liberalized but still crony and stagnant Indian economy. Produced below is the full text of the article-
+
+There can be nothing more untrue than the notion that still persists among people who ought to be better informed but who do not care to enquire, that the Swatantra Party works for rich people. The Swatantra Party works to propagate truth, to educate people who have undertaken the difficult tasks of democracy in the truth that economic progress rests on healthy competition and on the incentives that make people work for their own advantage while also serving the nation. The party works to make people see that management by Government means management by inefficient and uninterested officials or the creation of monopolies for favoured licencees who are interested in making more for themselves than for their customers or for the general public.
+
+The Swatantra Party finds some help from some moneyed individuals because it has to find it somehow. But these people give help, not to win politicians to serve their personal or group interests but because they are convinced that the economic principles advocated by the Swatantra Party are correct principles and will contribute to the national good. But there is nothing harder than to get money from wealthy folk even for a good cause which they appreciate and accept as right in principle. The Swatantra Party has learnt, as libertarians have learnt in other countries, those big businessmen cannot be relied upon as good allies in the battle against government’s encroachments. Businessmen will often advocate tariffs, import prohibitions and restrictions on competition because they think rightly or wrongly that these interventions will be in their personal interest or in the interest of their companies, and are not concerned whether they may be at the expense of the general public. Many businessmen do not realize or reflect on what the actual consequences will be of the particular measures they propose or support. They do not perceive the cumulative debilitating effects of growing restrictions on human liberty.
+
+Most often businessmen acquiesce in controls out of sheer timidity. In the capitalistic system, there is a tendency towards self-destruction. Big businessmen facing direct attack display much cowardice. Truth must and will triumph at last. But this may take far too long a time for the national economy to wait. We want success in the elections and resulting strength in the State and Central legislatures in order to hasten the victory of reality over illusion. Parliamentary democracy has made this necessary, because it is a form of government in which the relatively ill-informed get power, and in India, this takes a very acute shape. In fact, without disrespect, I may say the Government in India is nearly as illiterate in the effective sense, as the electorate is in the ordinary sense. It is Government of the illiterate by the illiterate but unfortunately not for the illiterate. The national good can be served only by those who are truly educated and are motivated not by a party or personal interests but by an ardent desire to lift the nation up from poverty and bankruptcy to solvency.
+
+Calumny has had a start and it keeps on maintaining the falsehood that the Swatantra Party is a rich men’s lobby. The rich men know where to go; they go to the party in power. “Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny.” I make bold to assert that the Swatantra Party has never once stood up for untruth or to help any single rich exploiter at the cost of justice or fair play. The Party has stood for reduction of taxes and for reduction of public expenditure. This is because such a reduction is good for the nation since it increases savings and productive investment of such savings. The Swatantra Party’s principles and the policies it commends are the only policies and principles that can help general welfare and national progress.
+
+The original text could be accessed here.
+
+IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+
+To read more about C. Rajagopalachari, click here.

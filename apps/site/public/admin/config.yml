@@ -1,25 +1,40 @@
-# Sveltia CMS configuration
-# https://github.com/sveltia/sveltia-cms
+# Sveltia CMS — Indian Liberals
 #
-# Git-based CMS. Editors sign in once with GitHub OAuth via a Cloudflare
-# Workers proxy and never see a database. Edits become commits on the
-# main branch; Cloudflare Pages redeploys automatically on push.
+# Editorial UI for indianliberals.in. Built for non-technical CCS staff.
+# Design notes:
+#   - Every field has a hint explaining what to put there
+#   - Sensible defaults are pre-filled
+#   - Technical/advanced fields are in collapsed sections
+#   - Cross-links between thinkers / works use searchable dropdowns
+#     (relation widgets), never free-typed IDs
+#
+# To add a new content kind: add a collection below. To add a new field:
+# follow the patterns shown in existing fields.
+#
+# Sveltia docs: https://github.com/sveltia/sveltia-cms
+
+# ─── Backend ─────────────────────────────────────────────────────────────
 
 backend:
   name: github
   repo: adoistic/indianliberals
   branch: main
-  # OAuth handled by a Cloudflare Workers proxy at the deployed site —
-  # set base_url + auth_endpoint when the proxy is deployed.
-  # base_url: https://indianliberals.in
-  # auth_endpoint: api/auth
+  # Sveltia goes through our OAuth proxy at auth.indianliberals.in,
+  # which enforces the email allowlist. Set base_url + auth_endpoint
+  # AFTER the Worker is deployed.
+  base_url: https://auth.indianliberals.in
+  auth_endpoint: auth
 
-# Local dev fallback — point at the filesystem instead of GitHub.
-# Run with `npm run dev` and visit /admin/ — Sveltia will use local_backend.
+# Local dev fallback: filesystem instead of GitHub. Run `npm run dev`
+# in apps/site/ and visit /admin/ to test changes against local content.
 local_backend: true
+
+# ─── Media library ───────────────────────────────────────────────────────
 
 media_folder: apps/site/public/uploads
 public_folder: /uploads
+
+# ─── Site metadata ───────────────────────────────────────────────────────
 
 site_url: https://indianliberals.in
 display_url: https://indianliberals.in
@@ -30,42 +45,117 @@ publish_mode: simple
 editor:
   preview: true
 
-# ─── Shared field fragments (Sveltia supports YAML anchors) ──────────────
+# ─── Shared field fragments ──────────────────────────────────────────────
+# YAML anchors so we DRY-out fields used across many collections.
 
 _shared:
+  - &language
+    label: "Language"
+    name: language
+    widget: select
+    default: en
+    required: true
+    hint: "What language is this content in? English is the default. Pick another only if the body text is fully in that language."
+    options:
+      - { label: "English", value: en }
+      - { label: "हिन्दी (Hindi)", value: hi }
+      - { label: "मराठी (Marathi)", value: mr }
+      - { label: "ગુજરાતી (Gujarati)", value: gu }
+      - { label: "বাংলা (Bengali)", value: bn }
+
+  - &translation_status
+    label: "Translation status"
+    name: translation_status
+    widget: select
+    default: original
+    required: true
+    hint: "Is this the original-language version, or a translation? AI translations stay hidden from search engines until a human reviews and changes this to 'human_translation'."
+    options:
+      - { label: "Original — written in this language by the author", value: original }
+      - { label: "Human translation — reviewed and approved", value: human_translation }
+      - { label: "AI translation — needs review (hidden from search)", value: ai_translation }
+      - { label: "Placeholder — needs translating (hidden from search)", value: needs_translation }
+
+  - &translations
+    label: "Translations of the same piece in other languages"
+    name: translations
+    widget: object
+    required: false
+    collapsed: true
+    hint: "If this piece exists in other languages too, link them here so search engines understand they're translations of each other. Skip if monolingual."
+    fields:
+      - { label: "English version (ID)", name: en, widget: string, required: false, hint: "The English entry's ID (filename without .md)" }
+      - { label: "Hindi version (ID)", name: hi, widget: string, required: false }
+      - { label: "Marathi version (ID)", name: mr, widget: string, required: false }
+      - { label: "Gujarati version (ID)", name: gu, widget: string, required: false }
+      - { label: "Bengali version (ID)", name: bn, widget: string, required: false }
+
   - &needs_review
-    label: "Needs review"
+    label: "Needs editorial review"
     name: needs_review
     widget: boolean
     default: false
-    hint: "True when an AI-generated field is awaiting editorial sign-off."
+    hint: "Check this if the entry has any AI-generated or imported content that hasn't been verified yet. Uncheck after you've read it and it looks right."
 
   - &draft
-    label: "Draft"
+    label: "Draft (hidden from site)"
     name: draft
     widget: boolean
     default: false
+    hint: "Check while you're still working on this. The entry won't appear on the public site until you uncheck."
 
-  - &ai_extracted_at
-    label: "AI extracted at"
-    name: extracted_at
-    widget: datetime
+  - &ai_provenance
+    label: "AI provenance (auto-filled by extraction pipeline — usually leave alone)"
+    name: ai
+    widget: object
     required: false
+    collapsed: true
+    hint: "Set automatically when content is AI-generated. You probably don't need to touch this."
+    fields:
+      - { label: "When AI extracted this", name: extracted_at, widget: datetime, required: false }
+      - { label: "Which model", name: model, widget: string, required: false, hint: "e.g. claude-opus-4-7" }
+      - { label: "Prompt version", name: prompt_version, widget: string, required: false }
 
-  - &ai_model
-    label: "AI model"
-    name: model
-    widget: string
-    required: false
-    hint: "e.g. claude-opus-4-7"
-
-# ─── Collections ─────────────────────────────────────────────────────────
+# ═════════════════════════════════════════════════════════════════════════
+# COLLECTIONS
+# ═════════════════════════════════════════════════════════════════════════
 
 collections:
-  # ───── Tier A: Thinkers ─────
+
+  # ───── Sub-admins (super-admins only — controls CMS access) ─────────────
+  # Treated as a single-file collection so super-admins edit JSON via Sveltia.
+  - name: admins
+    label: "Sub-admins (super-admins only)"
+    description: >
+      The list of email addresses authorised to log in to this CMS.
+      Only super-admins (Adnan, CCS) can edit this; if a sub-admin tries,
+      GitHub will reject the save with a permission error. Add or remove
+      a sub-admin by editing their GitHub primary email in the list below.
+      Changes take effect within ~60 seconds.
+    files:
+      - name: admins
+        label: "Sub-admin list"
+        file: data/admins.json
+        editor: { preview: false }
+        fields:
+          - label: "Sub-admin emails"
+            name: admins
+            widget: list
+            field:
+              label: "GitHub primary email"
+              name: email
+              widget: string
+              pattern: ['^[^@\s]+@[^@\s]+\.[^@\s]+$', "Must be a valid email address"]
+              hint: "Must match the user's GitHub primary verified email exactly. Case-insensitive."
+
+  # ───── Tier A: Thinkers ─────────────────────────────────────────────────
   - name: thinkers
-    label: "Thinkers"
+    label: "Thinkers — biographical profiles"
     label_singular: "Thinker"
+    description: >
+      Biographies of figures in the Indian liberal tradition.
+      Each entry is one person, with their dates, themes, organisations
+      they were part of, and a portrait. The body is the bio prose.
     folder: apps/site/src/content/thinkers
     create: true
     slug: "{{fields.id}}"
@@ -73,278 +163,379 @@ collections:
     summary: "{{name.canonical}} ({{birth_year}}–{{death_year}})"
     sortable_fields: ["name.sort", "birth_year"]
     fields:
-      - { label: "Canonical ID", name: id, widget: string, hint: "kebab-case, stable forever" }
+      - { label: "ID (slug)", name: id, widget: string, hint: "kebab-case unique identifier. Cannot be changed once set without breaking links." }
       - label: "Name"
         name: name
         widget: object
+        hint: "How this thinker is named across the site."
         fields:
-          - { label: "Canonical", name: canonical, widget: string }
-          - { label: "Full", name: full, widget: string, required: false }
-          - { label: "Sort (Last, First)", name: sort, widget: string }
-          - { label: "Also known as", name: also_known_as, widget: list, required: false, default: [] }
-          - { label: "Honorifics", name: honorifics, widget: list, required: false, default: [] }
-      - { label: "Birth year", name: birth_year, widget: number, value_type: int, required: false }
-      - { label: "Death year", name: death_year, widget: number, value_type: int, required: false, hint: "Leave empty if living" }
+          - { label: "Canonical name (how usually known)", name: canonical, widget: string, hint: "e.g. 'Rajaji', 'M. R. Pai', 'B. R. Shenoy'" }
+          - { label: "Full birth name", name: full, widget: string, required: false, hint: "e.g. 'Chakravarti Rajagopalachari', 'Mangalore Ranga Pai'" }
+          - { label: "Sort name (Last, First)", name: sort, widget: string, hint: "For alphabetisation. e.g. 'Rajagopalachari, Chakravarti'" }
+          - { label: "Also known as", name: also_known_as, widget: list, required: false, default: [], hint: "Alternate spellings or names readers might search for. One per entry." }
+          - { label: "Honorifics", name: honorifics, widget: list, required: false, default: [], hint: "Optional. e.g. 'Dr.', 'Sir', 'Acharya'." }
+      - { label: "Birth year", name: birth_year, widget: number, value_type: int, required: false, hint: "Leave blank if unknown." }
+      - { label: "Death year (blank = living)", name: death_year, widget: number, value_type: int, required: false }
       - { label: "Nationality", name: nationality, widget: string, default: "india" }
-      - label: "Tradition"
+      - label: "Tradition (their place in the liberal lineage)"
         name: tradition
         widget: select
+        hint: "Pick whichever fits best. Use 'classical_liberal' for the explicit liberal-economic lineage (Shenoy, Masani, Shroff). Use 'reformer' for pre-independence reformers (Roy, Gokhale). Use 'social_reformer' for women's-rights and caste-reform figures (Pandita Ramabai, Muthulakshmi Reddi)."
         options: [classical_liberal, reformer, nationalist_liberal, social_reformer, contemporary_liberal, international_influence]
-      - { label: "Themes", name: themes, widget: list, required: false, default: [] }
-      - { label: "Affiliations (org IDs)", name: affiliations, widget: list, required: false, default: [] }
+      - label: "Themes (multi-select)"
+        name: themes
+        widget: list
+        required: false
+        default: []
+        hint: "Pick from the controlled theme vocabulary. e.g. 'free_enterprise', 'civil_liberty', 'monetary_policy'. Underscore-separated, lowercase."
+      - label: "Affiliations (organisation IDs)"
+        name: affiliations
+        widget: relation
+        collection: organisations
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        multiple: true
+        required: false
+        hint: "Organisations this person belonged to. Type to search — pick from the dropdown. Don't type IDs by hand."
       - label: "Portrait"
         name: portrait
         widget: object
         required: false
+        collapsed: false
+        hint: "Three optional treatments. Use whichever you have."
         fields:
-          - { label: "Photo", name: photo, widget: image, required: false, media_library: { folder: "/thinkers/photos" } }
-          - { label: "Caricature", name: caricature, widget: image, required: false, media_library: { folder: "/thinkers/caricatures" } }
-          - { label: "Ring portrait", name: ring_portrait, widget: image, required: false, media_library: { folder: "/thinkers/ring-portraits" } }
-      - label: "Bio source"
+          - { label: "Photograph", name: photo, widget: image, required: false, media_library: { folder: "/thinkers/photos" }, hint: "A photograph if one exists." }
+          - { label: "Hand-drawn caricature", name: caricature, widget: image, required: false, media_library: { folder: "/thinkers/caricatures" }, hint: "The CCS-commissioned hand-drawn caricature, if one exists." }
+          - { label: "Photo with yellow ring backdrop", name: ring_portrait, widget: image, required: false, media_library: { folder: "/thinkers/ring-portraits" }, hint: "The 'photo with yellow circle' treatment used for contemporary contributors." }
+      - label: "Where the bio came from"
         name: bio_source
         widget: select
         options: [canonical, feature_article, ai_drafted, imported]
         default: canonical
-      - label: "AI provenance"
-        name: ai
-        widget: object
-        required: false
-        collapsed: true
-        fields:
-          - *ai_extracted_at
-          - *ai_model
-          - { label: "Prompt version", name: prompt_version, widget: string, required: false }
+        hint: "'canonical' = written specifically as a bio. 'feature_article' = harvested from a longer essay about them. 'ai_drafted' = generated by AI, needs review. 'imported' = brought over from the old site."
+      - *language
+      - *translation_status
+      - *translations
+      - *ai_provenance
       - *needs_review
       - *draft
-      - { label: "Bio body (Markdown)", name: body, widget: markdown }
+      - { label: "Bio body (Markdown)", name: body, widget: markdown, hint: "The actual biographical text. Markdown formatting — paragraphs, **bold**, *italic*, [links](https://example.com)." }
 
-  # ───── Tier A: Organisations ─────
+  # ───── Tier A: Organisations ────────────────────────────────────────────
   - name: organisations
-    label: "Organisations"
+    label: "Organisations — parties, societies, think tanks"
     label_singular: "Organisation"
+    description: >
+      Political parties, think tanks, reform societies, and institutions
+      referenced across the corpus. e.g. Swatantra Party, Forum of Free Enterprise.
     folder: apps/site/src/content/organisations
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     summary: "{{name.canonical}}"
     fields:
-      - { label: "Canonical ID", name: id, widget: string }
+      - { label: "ID (slug)", name: id, widget: string }
       - label: "Name"
         name: name
         widget: object
         fields:
-          - { label: "Canonical", name: canonical, widget: string }
-          - { label: "Full", name: full, widget: string, required: false }
-          - { label: "Sort", name: sort, widget: string }
+          - { label: "Canonical name", name: canonical, widget: string }
+          - { label: "Full official name", name: full, widget: string, required: false }
+          - { label: "Sort name", name: sort, widget: string }
           - { label: "Also known as", name: also_known_as, widget: list, required: false, default: [] }
-      - { label: "Founded year", name: founded_year, widget: number, value_type: int, required: false }
-      - { label: "Dissolved year", name: dissolved_year, widget: number, value_type: int, required: false }
-      - label: "Type"
+      - { label: "Year founded", name: founded_year, widget: number, value_type: int, required: false }
+      - { label: "Year dissolved (blank = still active)", name: dissolved_year, widget: number, value_type: int, required: false }
+      - label: "Type of organisation"
         name: type
         widget: select
         options: [political_party, think_tank, publisher_org, reform_society, professional_body, academic, international_network]
-      - { label: "Ideology tags", name: ideology, widget: list, required: false, default: [] }
+      - { label: "Ideology tags", name: ideology, widget: list, required: false, default: [], hint: "e.g. 'classical_liberal', 'free_market', 'social_reform'" }
+      - *language
+      - *translation_status
       - *needs_review
       - *draft
-      - { label: "Description (Markdown)", name: body, widget: markdown }
+      - { label: "Description (Markdown)", name: body, widget: markdown, hint: "What the organisation does, key dates, notable members, lineage." }
 
-  # ───── Tier A: Musings (curated excerpts) ─────
+  # ───── Tier A: Musings ──────────────────────────────────────────────────
   - name: musings
-    label: "Musings"
+    label: "Musings — curated excerpts"
     label_singular: "Musing"
+    description: >
+      Short curated excerpts from primary works. e.g. a powerful passage
+      from a Shenoy pamphlet. Use 'Opinions' instead for first-party
+      commentary written by CCS or by current contributors.
     folder: apps/site/src/content/musings
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     summary: "{{title}} — {{pubDate}}"
     fields:
-      - { label: "ID", name: id, widget: string }
-      - { label: "Title", name: title, widget: string }
-      - { label: "Publication date", name: pubDate, widget: datetime }
-      - { label: "Excerpt of (primary-work ID)", name: excerpt_of, widget: string, required: false }
-      - { label: "Author (thinker ID)", name: author, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], required: false }
+      - { label: "ID (slug)", name: id, widget: string }
+      - { label: "Title", name: title, widget: string, hint: "Headline shown in lists and at the top of the page." }
+      - { label: "Date", name: pubDate, widget: datetime, hint: "When this excerpt was first published (in the original work)." }
+      - { label: "Excerpt of (primary-work ID)", name: excerpt_of, widget: string, required: false, hint: "If this passage is excerpted from a specific work in the Primary works collection, the ID of that work. Optional." }
+      - label: "Author (thinker)"
+        name: author
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        required: false
+        hint: "The thinker who wrote it. Type to search."
       - { label: "Themes", name: themes, widget: list, required: false, default: [] }
-      - { label: "Language", name: language, widget: string, default: "en" }
+      - *language
+      - *translation_status
+      - *translations
+      - *ai_provenance
       - *needs_review
       - *draft
       - { label: "Excerpt body (Markdown)", name: body, widget: markdown }
 
-  # ───── Tier A: Opinion pieces ─────
+  # ───── Tier A: Opinions ─────────────────────────────────────────────────
   - name: opinions
-    label: "Opinions"
+    label: "Opinions — first-party essays"
     label_singular: "Opinion piece"
+    description: >
+      Original essays and feature articles written for indianliberals.in by
+      CCS Editorial Team, fellows, or contemporary contributors. Distinct
+      from Musings (excerpts) and ThePrint mirror (federated).
     folder: apps/site/src/content/opinions
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     fields:
-      - { label: "ID", name: id, widget: string }
+      - { label: "ID (slug)", name: id, widget: string }
       - { label: "Title", name: title, widget: string }
-      - { label: "Publication date", name: pubDate, widget: datetime }
-      - { label: "Author name", name: author_name, widget: string }
-      - { label: "Author (thinker ID, if catalogued)", name: author, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], required: false }
+      - { label: "Date", name: pubDate, widget: datetime }
+      - { label: "Author name (free text)", name: author_name, widget: string, hint: "How the author should be displayed. e.g. 'Vikrant Pande', 'CCS Editorial Team'." }
+      - label: "Author (thinker, if catalogued)"
+        name: author
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        required: false
+        hint: "Only fill if the author is also a catalogued thinker. Otherwise leave blank and just use 'Author name' above."
       - { label: "Themes", name: themes, widget: list, required: false, default: [] }
-      - { label: "Related works", name: related_works, widget: list, required: false, default: [] }
-      - { label: "Related thinkers", name: related_thinkers, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], multiple: true, required: false }
-      - { label: "Language", name: language, widget: string, default: "en" }
+      - { label: "Related works (IDs)", name: related_works, widget: list, required: false, default: [] }
+      - label: "Related thinkers"
+        name: related_thinkers
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        multiple: true
+        required: false
+        hint: "Other catalogued thinkers this piece references. Helps with cross-linking."
+      - *language
+      - *translation_status
+      - *translations
+      - *ai_provenance
       - *needs_review
       - *draft
       - { label: "Body (Markdown)", name: body, widget: markdown }
 
-  # ───── Tier A: Interviews ─────
+  # ───── Tier A: Interviews ───────────────────────────────────────────────
   - name: interviews
-    label: "Interviews"
+    label: "Interviews & audio/video"
     label_singular: "Interview"
+    description: >
+      Audio/video conversations, IL Explainer episodes, archival lectures.
+      Use for any entry whose primary content is a video or audio recording.
     folder: apps/site/src/content/interviews
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     fields:
-      - { label: "ID", name: id, widget: string }
+      - { label: "ID (slug)", name: id, widget: string }
       - { label: "Title", name: title, widget: string }
-      - { label: "Publication date", name: pubDate, widget: datetime }
-      - { label: "Subject (thinker ID)", name: subject, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], required: false }
-      - { label: "Subject name", name: subject_name, widget: string }
+      - { label: "Date", name: pubDate, widget: datetime }
+      - label: "Subject (thinker being interviewed/discussed)"
+        name: subject
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        required: false
+      - { label: "Subject name (free text)", name: subject_name, widget: string, hint: "If the subject isn't a catalogued thinker, type their name here." }
       - { label: "Interviewer", name: interviewer, widget: string, required: false }
-      - { label: "YouTube URL", name: youtube_url, widget: string, required: false }
-      - { label: "Transcript status", name: transcript_status, widget: select, options: [none, partial, complete], default: none }
+      - { label: "YouTube URL", name: youtube_url, widget: string, required: false, hint: "Paste the full YouTube URL. The video will embed automatically on the page." }
+      - { label: "Transcript status", name: transcript_status, widget: select, options: [none, partial, complete], default: none, hint: "How much of the audio has been transcribed in the body." }
       - { label: "Themes", name: themes, widget: list, required: false, default: [] }
+      - *language
+      - *translation_status
+      - *translations
+      - *ai_provenance
       - *needs_review
       - *draft
-      - { label: "Transcript / notes (Markdown)", name: body, widget: markdown }
+      - { label: "Transcript / notes (Markdown)", name: body, widget: markdown, hint: "Transcript if available, or just a description." }
 
-  # ───── Tier B: Primary works ─────
+  # ───── Tier B: Primary works ────────────────────────────────────────────
   - name: primary-works
-    label: "Primary works"
+    label: "Primary works — PDFs (books, pamphlets, speeches)"
     label_singular: "Primary work"
+    description: >
+      Original works in the corpus, served as PDFs with rich AI-extracted
+      metadata. This is where you catalogue a book, pamphlet, speech, or essay
+      that has its own PDF. The full text lives in the PDF; metadata + AI summary
+      lives here.
     folder: apps/site/src/content/primary-works
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     summary: "{{title.main}} ({{publication.year}})"
     fields:
-      - { label: "Canonical ID", name: id, widget: string }
-      - label: "Title"
+      - { label: "ID (slug)", name: id, widget: string }
+      - label: "Title (with optional multilingual variants)"
         name: title
         widget: object
         fields:
-          - { label: "Main", name: main, widget: string }
+          - { label: "Main title", name: main, widget: string }
           - { label: "Subtitle", name: subtitle, widget: string, required: false }
-          - { label: "Original script", name: original_script, widget: string, required: false, hint: "For Hindi/Gujarati/etc primary works" }
-          - { label: "Transliteration", name: translit, widget: string, required: false }
-          - { label: "Translation", name: translation, widget: string, required: false }
-      - label: "Work type"
+          - { label: "Title in original script", name: original_script, widget: string, required: false, hint: "For Hindi/Gujarati/Marathi/Bengali works, the title in native script. Optional but helps readers." }
+          - { label: "Romanised transliteration", name: translit, widget: string, required: false }
+          - { label: "English translation of title", name: translation, widget: string, required: false }
+      - label: "Type of work"
         name: work_type
         widget: select
         options: [book, pamphlet, speech, essay, edited_volume, occasional_paper, letter, periodical_issue]
-      - { label: "Authors (thinker IDs)", name: authors, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], multiple: true, required: false }
+      - label: "Authors (thinker IDs)"
+        name: authors
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        multiple: true
+        required: false
       - label: "Publication"
         name: publication
         widget: object
         fields:
-          - { label: "Publisher ID", name: publisher_id, widget: string, required: false }
+          - { label: "Publisher ID (if catalogued)", name: publisher_id, widget: string, required: false }
           - { label: "Publisher name (free text)", name: publisher_name, widget: string, required: false }
-          - { label: "Place", name: place, widget: string, required: false }
+          - { label: "Place of publication", name: place, widget: string, required: false }
           - { label: "Year", name: year, widget: number, value_type: int, required: false }
           - { label: "Edition", name: edition, widget: string, required: false }
           - { label: "Series", name: series, widget: string, required: false }
-          - { label: "Language", name: language, widget: string, default: "en" }
-      - label: "Provenance"
+          - { label: "Language of the work itself", name: language, widget: string, default: "en", hint: "Different from the catalog entry's language — this is what language the actual PDF text is in." }
+      - label: "Provenance — where the scan came from"
         name: provenance
         widget: object
+        collapsed: true
         fields:
-          - label: "Source"
-            name: source
-            widget: select
-            options: [ccs_archive, private_scan, source_library, unknown]
-          - label: "Scan quality"
-            name: scan_quality
-            widget: select
-            options: [good, fair, poor, unknown]
-            default: unknown
+          - { label: "Source", name: source, widget: select, options: [ccs_archive, private_scan, source_library, unknown] }
+          - { label: "Scan quality", name: scan_quality, widget: select, options: [good, fair, poor, unknown], default: unknown }
           - { label: "Notes", name: notes, widget: string, required: false }
       - label: "Rights"
         name: rights
         widget: object
         required: false
+        collapsed: true
+        hint: "Indian copyright is author + 60 years after death. Most pre-1965 works are now public domain; many post-1965 works are still under copyright but served under educational fair use."
         fields:
-          - label: "Status"
+          - label: "Rights status"
             name: status
             widget: select
             options: [public_domain, fair_use_educational, permission_granted, takedown_on_request, unknown]
-          - { label: "Public-domain year (when applicable)", name: pd_year, widget: number, value_type: int, required: false }
-          - { label: "Editorial review flag", name: editorial_review_flag, widget: boolean, default: false }
+          - { label: "Public-domain year (if applicable)", name: pd_year, widget: number, value_type: int, required: false }
+          - { label: "Editorial review flag", name: editorial_review_flag, widget: boolean, default: false, hint: "Check for borderline cases needing human sign-off before going live." }
           - { label: "Notes", name: notes, widget: text, required: false }
       - { label: "Themes", name: themes, widget: list, required: false, default: [] }
-      - { label: "Related thinkers", name: related_thinkers, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], multiple: true, required: false }
-      - { label: "PDF URL", name: pdf_url, widget: string, hint: "R2 URL — typically pdfs.indianliberals.in/works/<id>.pdf" }
-      - { label: "AI summary (150-300 words)", name: ai_summary, widget: text, required: false }
-      - { label: "AI key points", name: ai_key_points, widget: list, required: false, default: [] }
-      - label: "AI provenance"
-        name: ai
-        widget: object
+      - label: "Related thinkers"
+        name: related_thinkers
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        multiple: true
         required: false
-        collapsed: true
-        fields:
-          - *ai_extracted_at
-          - *ai_model
-          - { label: "Prompt version", name: prompt_version, widget: string, required: false }
+      - { label: "PDF URL", name: pdf_url, widget: string, hint: "The R2 URL where the PDF is served. e.g. https://pdfs.indianliberals.in/works/<id>.pdf" }
+      - { label: "AI summary (150-300 words)", name: ai_summary, widget: text, required: false }
+      - { label: "AI key points (3-5 bullets)", name: ai_key_points, widget: list, required: false, default: [] }
+      - *ai_provenance
+      - *language
+      - *translation_status
       - *needs_review
       - *draft
-      - label: "Body notes (Markdown — for editor notes, not the work text)"
-        name: body
-        widget: markdown
-        required: false
+      - { label: "Editor notes (Markdown — for editorial commentary, NOT the work text)", name: body, widget: markdown, required: false }
 
-  # ───── Tier B: Periodicals ─────
+  # ───── Tier B: Periodicals ──────────────────────────────────────────────
   - name: periodicals
-    label: "Periodicals"
+    label: "Periodicals — magazine/journal issues"
     label_singular: "Periodical issue"
+    description: >
+      Issues of periodicals — Indian Libertarian, Freedom First, etc.
+      Catalogued at the issue level; per-article extraction is future scope.
     folder: apps/site/src/content/periodicals
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     summary: "{{publication_name}} — {{issue.label}}"
     fields:
-      - { label: "Canonical ID", name: id, widget: string }
-      - { label: "Publication name", name: publication_name, widget: string, hint: "e.g. Indian Libertarian, Freedom First" }
-      - { label: "Publication slug", name: publication_slug, widget: string }
+      - { label: "ID (slug)", name: id, widget: string }
+      - { label: "Publication name", name: publication_name, widget: string, hint: "e.g. 'Indian Libertarian', 'Freedom First'" }
+      - { label: "Publication slug", name: publication_slug, widget: string, hint: "kebab-case e.g. 'indian-libertarian'" }
       - { label: "Publisher ID", name: publisher_id, widget: string, required: false }
-      - label: "Issue"
+      - label: "Issue details"
         name: issue
         widget: object
         fields:
           - { label: "Volume", name: volume, widget: string, required: false }
-          - { label: "Number", name: number, widget: string, required: false }
-          - { label: "Date", name: date, widget: datetime, required: false }
-          - { label: "Label", name: label, widget: string, required: false, hint: "Human-readable, e.g. Vol 12 No 3 (Mar 1965)" }
-      - { label: "Language", name: language, widget: string, default: "en" }
-      - { label: "Themes", name: themes, widget: list, required: false, default: [] }
+          - { label: "Issue number", name: number, widget: string, required: false }
+          - { label: "Issue date", name: date, widget: datetime, required: false }
+          - { label: "Human-readable label", name: label, widget: string, required: false, hint: "e.g. 'Vol 12 No 3 (Mar 1965)'" }
       - { label: "PDF URL", name: pdf_url, widget: string }
+      - { label: "Themes", name: themes, widget: list, required: false, default: [] }
       - { label: "AI summary", name: ai_summary, widget: text, required: false }
       - { label: "AI key points", name: ai_key_points, widget: list, required: false, default: [] }
+      - *ai_provenance
+      - *language
+      - *translation_status
       - *needs_review
       - *draft
 
-  # ───── Tier A: ThePrint mirror ─────
+  # ───── Tier A: ThePrint mirror ──────────────────────────────────────────
   - name: theprint-mirror
-    label: "ThePrint mirror"
+    label: "ThePrint mirror (federated, noindex)"
     label_singular: "ThePrint piece"
+    description: >
+      Federated mirror of ThePrint's 'Indian Liberals Matter' column.
+      Synced automatically from ThePrint's RSS feed; rarely edited by hand.
+      Search engines are told NOT to index these pages, so canonical SEO
+      weight stays with ThePrint.
     folder: apps/site/src/content/theprint-mirror
     create: true
     slug: "{{fields.id}}"
     identifier_field: id
     fields:
-      - { label: "ID", name: id, widget: string }
+      - { label: "ID (slug)", name: id, widget: string }
       - { label: "Title", name: title, widget: string }
-      - { label: "Publication date", name: pubDate, widget: datetime }
+      - { label: "Date", name: pubDate, widget: datetime }
       - { label: "Author name", name: author_name, widget: string }
-      - { label: "ThePrint URL", name: theprint_url, widget: string }
+      - { label: "Original URL on ThePrint", name: theprint_url, widget: string }
       - { label: "Themes", name: themes, widget: list, required: false, default: [] }
-      - { label: "Related thinkers", name: related_thinkers, widget: relation, collection: thinkers, search_fields: [name.canonical], value_field: id, display_fields: [name.canonical], multiple: true, required: false }
+      - label: "Related thinkers"
+        name: related_thinkers
+        widget: relation
+        collection: thinkers
+        search_fields: ["name.canonical"]
+        value_field: id
+        display_fields: ["name.canonical"]
+        multiple: true
+        required: false
       - { label: "AI summary", name: ai_summary, widget: text, required: false }
       - { label: "AI key points", name: ai_key_points, widget: list, required: false, default: [] }
-      - { label: "Hide from search engines", name: noindex, widget: boolean, default: true, hint: "On by default — ThePrint keeps SEO weight." }
+      - { label: "Hide from search engines", name: noindex, widget: boolean, default: true, hint: "Keep this checked. ThePrint owns the canonical SEO weight." }
+      - *language
+      - *translation_status
+      - *ai_provenance
       - *needs_review
       - *draft
-      - { label: "Body (Markdown mirror — for AI consumption)", name: body, widget: markdown }
+      - { label: "Body (Markdown mirror — for AI agents)", name: body, widget: markdown }
