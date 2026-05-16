@@ -1,0 +1,46 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const musings = (await getCollection("musings", (m) => !m.data.draft)).sort(
+  (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
+);
+---
+
+<BaseLayout
+  title="Musings — Indian Liberals"
+  description="Curated excerpts from the primary works of the Indian liberal tradition. Paragraph-citable, full-text searchable."
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Musings
+      </p>
+      <h1 class="text-(--color-fg) mb-4">Curated excerpts from the primary works</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Short, focused passages from books, pamphlets, and essays in the corpus — paragraph-citable, full-text searchable, linked back to the source work.
+      </p>
+    </div>
+  </section>
+  <section>
+    <div class="mx-auto max-w-3xl px-6 py-12">
+      <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
+        {musings.length} {musings.length === 1 ? "excerpt" : "excerpts"}.
+      </p>
+      <ul class="divide-y divide-(--color-border)">
+        {musings.map((m) => (
+          <li class="py-6">
+            <a href={`/musings/${m.id}/`} class="block no-underline group">
+              <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
+                {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+              </p>
+              <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
+                {m.data.title}
+              </h2>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

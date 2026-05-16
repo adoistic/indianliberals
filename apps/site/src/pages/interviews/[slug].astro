@@ -1,0 +1,44 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const interviews = await getCollection("interviews", (i) => !i.data.draft);
+  return interviews.map((i) => ({ params: { slug: i.id }, props: { i } }));
+}
+
+const { i } = Astro.props;
+const { Content } = await render(i);
+
+function youtubeEmbedSrc(url: string | undefined): string | null {
+  if (!url) return null;
+  const m = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|watch\?v=|v\/))([\w-]+)/);
+  return m ? `https://www.youtube.com/embed/${m[1]}` : null;
+}
+
+const embed = youtubeEmbedSrc(i.data.youtube_url);
+---
+
+<BaseLayout title={`${i.data.title} — Indian Liberals`}>
+  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16">
+    <header class="border-b border-(--color-border) pb-8 mb-10">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Interview · audio/video
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">{i.data.title}</h1>
+      <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
+        {new Date(i.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+      </p>
+    </header>
+
+    {embed && (
+      <div class="aspect-video mb-10 bg-black rounded overflow-hidden">
+        <iframe src={embed} title={i.data.title} class="w-full h-full" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+      </div>
+    )}
+
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700)">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

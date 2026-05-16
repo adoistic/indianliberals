@@ -1,0 +1,47 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const opinions = (await getCollection("opinions", (o) => !o.data.draft)).sort(
+  (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
+);
+---
+
+<BaseLayout
+  title="Opinions — Indian Liberals"
+  description="First-party opinion pieces and commentary from the Indian liberal tradition."
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Opinions
+      </p>
+      <h1 class="text-(--color-fg) mb-4">First-party opinion pieces</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Contemporary commentary published on Indian Liberals: feature essays, reviews of historical episodes, and reflections on figures in the tradition.
+      </p>
+    </div>
+  </section>
+  <section>
+    <div class="mx-auto max-w-3xl px-6 py-12">
+      <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
+        {opinions.length} pieces.
+      </p>
+      <ul class="divide-y divide-(--color-border)">
+        {opinions.map((o) => (
+          <li class="py-6">
+            <a href={`/opinions/${o.id}/`} class="block no-underline group">
+              <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
+                {new Date(o.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+                {o.data.author_name && o.data.author_name !== "CCS Editorial Team" && (<><span> · </span>{o.data.author_name}</>)}
+              </p>
+              <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
+                {o.data.title}
+              </h2>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</BaseLayout>

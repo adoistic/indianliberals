@@ -1,0 +1,47 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const interviews = (await getCollection("interviews", (i) => !i.data.draft)).sort(
+  (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
+);
+---
+
+<BaseLayout
+  title="Interviews & audio/video — Indian Liberals"
+  description="Interviews, IL Explainer episodes, archival lectures, and audio-visual material on figures in the Indian liberal tradition."
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Interviews · audio/video
+      </p>
+      <h1 class="text-(--color-fg) mb-4">Conversations, lectures, and explainers</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Interviews of contemporary liberals, archival lectures, and the IL Explainer series on figures in the tradition.
+      </p>
+    </div>
+  </section>
+  <section>
+    <div class="mx-auto max-w-3xl px-6 py-12">
+      <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
+        {interviews.length} entries.
+      </p>
+      <ul class="divide-y divide-(--color-border)">
+        {interviews.map((i) => (
+          <li class="py-6">
+            <a href={`/interviews/${i.id}/`} class="block no-underline group">
+              <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
+                {new Date(i.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+                {i.data.youtube_url && (<span class="ml-2 px-1.5 py-0.5 bg-(--color-saffron-100) text-(--color-saffron-700) rounded text-[10px] uppercase tracking-widest">video</span>)}
+              </p>
+              <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
+                {i.data.title}
+              </h2>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
