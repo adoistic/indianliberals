@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.yarn/
+
+# Build outputs
+dist/
+build/
+.astro/
+.svelte-kit/
+.wrangler/
+.vercel/
+.output/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+.dev.vars
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Working / scratch
+/tmp/
+*.bak
+.cache/
+
+# Commercial documents (kept out of the public repo)
+indian-liberals-rebuild-proposal*.pdf
+proposal*.pdf
+*-proposal-v*.pdf
+
+# PDF corpus — primary works are managed via R2, not git
+/content/primary-works/*.pdf
+/content/periodicals/*.pdf
+*.pdf
+!docs/**/*.pdf
+
+# Pagefind output (regenerated on build)
+/apps/site/pagefind/
+
+# Cloudflare local state
+.mf/
+.miniflare/
+wrangler.toml.bak
