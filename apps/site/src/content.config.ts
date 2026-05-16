@@ -22,6 +22,31 @@ const aiProvenance = z
   })
   .optional();
 
+// Multilingual support. Every content entry knows its own language,
+// optionally points to the original-language version (translation_of),
+// and exposes a map of all other-language versions (translations).
+// BaseLayout reads these and emits bidirectional hreflang alternates
+// per Google's multilingual SEO guidelines.
+const LANG_CODES = ['en', 'hi', 'gu', 'mr', 'bn'] as const;
+
+const i18nFields = {
+  language: z.enum(LANG_CODES).default('en'),
+  // For non-English content: ID of the original-language entry (if known)
+  translation_of: z.string().optional(),
+  // Map of <lang-code, entry-id> for every other-language version
+  // of the same intellectual content. Used to emit hreflang alternates.
+  // Must be kept consistent on BOTH sides of a translation pair.
+  translations: z.record(z.enum(LANG_CODES), z.string()).optional(),
+  // Translation provenance — controls whether the page is indexed.
+  // "original" = primary author wrote it in this language
+  // "human_translation" = trusted human translator, OK to index
+  // "ai_translation" = AI-generated, set noindex until reviewed
+  // "needs_translation" = placeholder, do not show on site
+  translation_status: z
+    .enum(['original', 'human_translation', 'ai_translation', 'needs_translation'])
+    .default('original'),
+};
+
 const rightsSchema = z
   .object({
     status: z.enum([
@@ -83,6 +108,7 @@ const thinkers = defineCollection({
     bio_source: z
       .enum(['canonical', 'feature_article', 'ai_drafted', 'imported'])
       .default('canonical'),
+    ...i18nFields,
     needs_review: z.boolean().default(false),
     ai: aiProvenance,
     // For Sveltia editorial workflow
@@ -114,6 +140,7 @@ const organisations = defineCollection({
       'international_network',
     ]),
     ideology: z.array(z.string()).default([]),
+    ...i18nFields,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),
   }),
@@ -130,7 +157,7 @@ const musings = defineCollection({
     excerpt_of: z.string().optional(), // primary-works ID
     author: reference('thinkers').optional(),
     themes: z.array(z.string()).default([]),
-    language: z.string().default('en'),
+    ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),
@@ -150,7 +177,7 @@ const opinions = defineCollection({
     themes: z.array(z.string()).default([]),
     related_works: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
-    language: z.string().default('en'),
+    ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),
@@ -171,7 +198,7 @@ const interviews = defineCollection({
     youtube_url: z.string().url().optional(),
     transcript_status: z.enum(['none', 'partial', 'complete']).default('none'),
     themes: z.array(z.string()).default([]),
-    language: z.string().default('en'),
+    ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),
@@ -251,6 +278,7 @@ const primaryWorks = defineCollection({
         }),
       )
       .default([]),
+    ...i18nFields,
     needs_review: z.boolean().default(true),
     draft: z.boolean().default(false),
   }),
@@ -291,6 +319,7 @@ const periodicals = defineCollection({
         }),
       )
       .default([]),
+    ...i18nFields,
     needs_review: z.boolean().default(true),
     draft: z.boolean().default(false),
   }),
@@ -318,6 +347,7 @@ const theprintMirror = defineCollection({
     // The mirror is HTML-blocked from search engines (so theprint.in keeps SEO weight)
     // but readable on-site and crawler-accessible to AI bots.
     noindex: z.boolean().default(true),
+    ...i18nFields,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),
   }),

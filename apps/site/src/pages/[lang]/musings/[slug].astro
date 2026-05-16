@@ -1,14 +1,25 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
-import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import {
+  hreflangAlternates,
+  shouldNoindex,
+  LOCALES,
+  DEFAULT_LOCALE,
+  type LangCode,
+} from "~/lib/i18n";
 
 export async function getStaticPaths() {
   const musings = await getCollection(
     "musings",
-    (m) => !m.data.draft && m.data.language === "en",
+    (m) => !m.data.draft && m.data.language !== DEFAULT_LOCALE,
   );
-  return musings.map((m) => ({ params: { slug: m.id }, props: { m } }));
+  return musings
+    .filter((m) => LOCALES.includes(m.data.language as LangCode))
+    .map((m) => ({
+      params: { lang: m.data.language, slug: m.id },
+      props: { m },
+    }));
 }
 
 const { m } = Astro.props;
@@ -32,14 +43,14 @@ const hreflang = hreflangAlternates(
   <article class="mx-auto max-w-3xl px-6 py-12 md:py-16">
     <header class="border-b border-(--color-border) pb-8 mb-10">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Musing · excerpt
+        Musing
       </p>
-      <h1 class="text-(--color-fg) leading-tight">{m.data.title}</h1>
+      <h1 class="text-(--color-fg) leading-tight" lang={m.data.language}>{m.data.title}</h1>
       <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
         {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
       </p>
     </header>
-    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5">
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5" lang={m.data.language}>
       <Content />
     </div>
   </article>

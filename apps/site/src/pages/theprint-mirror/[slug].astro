@@ -1,19 +1,31 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
+import { hreflangAlternates } from "~/lib/i18n";
 
 export async function getStaticPaths() {
+  // ThePrint mirror is mostly English — but we still pass language for SEO.
   const posts = await getCollection("theprint-mirror", (p) => !p.data.draft);
   return posts.map((p) => ({ params: { slug: p.id }, props: { p } }));
 }
 
 const { p } = Astro.props;
 const { Content } = await render(p);
+
+const hreflang = hreflangAlternates(
+  "theprint-mirror",
+  p.id,
+  p.data.language,
+  p.data.translations,
+  Astro.site!.origin,
+);
 ---
 
 <BaseLayout
   title={`${p.data.title} — ThePrint mirror — Indian Liberals`}
   description={`Mirror of ThePrint piece by ${p.data.author_name}, published ${new Date(p.data.pubDate).toLocaleDateString("en-IN")}.`}
+  lang={p.data.language}
+  hreflang={hreflang}
   noindex={p.data.noindex}
 >
   <article class="mx-auto max-w-3xl px-6 py-12 md:py-16">

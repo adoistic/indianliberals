@@ -2,7 +2,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
-const interviews = (await getCollection("interviews", (i) => !i.data.draft)).sort(
+const interviews = (await getCollection("interviews", (i) => !i.data.draft && i.data.language === "en")).sort(
   (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
 );
 ---

@@ -2,12 +2,25 @@
 import "~/styles/global.css";
 import Header from "~/components/Header.astro";
 import Footer from "~/components/Footer.astro";
+import { BCP47, OG_LOCALE, type LangCode } from "~/lib/i18n";
+
+interface HreflangAlternate {
+  hreflang: string;
+  href: string;
+}
 
 interface Props {
   title?: string;
   description?: string;
-  lang?: "en" | "hi" | "gu";
+  /** BCP 47-prefixed code is fine; this is the `<html lang>` value */
+  lang?: LangCode;
   noindex?: boolean;
+  /** When this page is part of a translation set, pass the bidirectional
+   *  hreflang alternates (computed via hreflangAlternates() in lib/i18n.ts).
+   *  Must include a self-referential entry and an x-default. */
+  hreflang?: HreflangAlternate[];
+  /** Override the canonical URL (defaults to the current request URL). */
+  canonical?: string;
 }
 
 const {
@@ -15,20 +28,39 @@ const {
   description = "A digital archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, and curated excerpts from the figures who built the case for liberty in modern India.",
   lang = "en",
   noindex = false,
+  hreflang = [],
+  canonical,
 } = Astro.props;
 
-const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const resolvedCanonical =
+  canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+const ogLocale = OG_LOCALE[lang as LangCode] ?? OG_LOCALE.en;
+const ogLocaleAlternates = hreflang
+  .filter((h) => h.hreflang !== "x-default" && h.hreflang !== BCP47[lang as LangCode])
+  .map((h) => h.hreflang.replace("-", "_"));
+const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
 ---
 
 <!doctype html>
-<html lang={lang}>
+<html lang={htmlLang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+
+    <!-- Canonical: self-referential per Google guidance for multilingual.
+         Each language version is canonical to itself, not to a "master". -->
+    <link rel="canonical" href={resolvedCanonical} />
+
     {noindex && <meta name="robots" content="noindex,follow" />}
+
+    <!-- hreflang alternates — bidirectional translation graph.
+         Every page in a translation set lists every other language version,
+         a self-referential entry, and an x-default. -->
+    {hreflang.map((alt) => (
+      <link rel="alternate" hreflang={alt.hreflang} href={alt.href} />
+    ))}
 
     <link rel="icon" type="image/png" sizes="32x32" href="/brand/favicon-32.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="/brand/favicon-192.png" />
@@ -38,8 +70,12 @@ const canonical = new URL(Astro.url.pathname, Astro.site).toString();
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content={canonical} />
+    <meta property="og:url" content={resolvedCanonical} />
     <meta property="og:image" content={new URL("/brand/logo.png", Astro.site)} />
+    <meta property="og:locale" content={ogLocale} />
+    {ogLocaleAlternates.map((loc) => (
+      <meta property="og:locale:alternate" content={loc} />
+    ))}
 
     <meta name="generator" content={Astro.generator} />
   </head>

@@ -11,7 +11,22 @@ export default defineConfig({
   site: 'https://indianliberals.in',
   integrations: [
     mdx(),
-    sitemap(),
+    sitemap({
+      // Emit hreflang alternates per Google's multilingual guidelines.
+      // Each URL in the sitemap gets <xhtml:link rel="alternate" hreflang="X">
+      // for every available language version. We provide the map directly so
+      // sitemap doesn't try to guess from URL structure (slugs differ per lang).
+      i18n: {
+        defaultLocale: 'en',
+        locales: {
+          en: 'en-IN',
+          hi: 'hi-IN',
+          mr: 'mr-IN',
+          bn: 'bn-IN',
+          gu: 'gu-IN',
+        },
+      },
+    }),
   ],
   vite: {
     plugins: [tailwindcss()],
@@ -22,7 +37,9 @@ export default defineConfig({
   },
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'hi', 'gu'],
+    // BCP-47 / ISO 639-1 codes. Subdirectory per language per Google's
+    // recommendation; English stays at root via prefixDefaultLocale: false.
+    locales: ['en', 'hi', 'gu', 'mr', 'bn'],
     routing: { prefixDefaultLocale: false },
   },
 });

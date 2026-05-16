@@ -1,14 +1,26 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
+import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
 
 export async function getStaticPaths() {
-  const thinkers = await getCollection("thinkers", (t) => !t.data.draft);
+  const thinkers = await getCollection(
+    "thinkers",
+    (t) => !t.data.draft && t.data.language === "en",
+  );
   return thinkers.map((t) => ({ params: { slug: t.id }, props: { t } }));
 }
 
 const { t } = Astro.props;
 const { Content } = await render(t);
+
+const hreflang = hreflangAlternates(
+  "thinkers",
+  t.id,
+  t.data.language,
+  t.data.translations,
+  Astro.site!.origin,
+);
 
 const treatment = t.data.portrait?.caricature
   ? { src: t.data.portrait.caricature, kind: "caricature" as const }
@@ -36,6 +48,9 @@ const bioSourceLabel = {
 <BaseLayout
   title={`${t.data.name.canonical} — Indian Liberals`}
   description={`Biographical profile of ${t.data.name.canonical}${datesStr ? ` (${datesStr})` : ""}.`}
+  lang={t.data.language}
+  hreflang={hreflang}
+  noindex={shouldNoindex(t.data.translation_status)}
 >
   <article class="mx-auto max-w-4xl px-6 py-12 md:py-16">
     <header class="border-b border-(--color-border) pb-10 mb-10 grid md:grid-cols-[auto_1fr] gap-8 items-start">

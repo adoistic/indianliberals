@@ -2,7 +2,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
-const thinkers = (await getCollection("thinkers", (t) => !t.data.draft)).sort(
+const thinkers = (await getCollection("thinkers", (t) => !t.data.draft && t.data.language === "en")).sort(
   (a, b) => a.data.name.sort.localeCompare(b.data.name.sort),
 );
 

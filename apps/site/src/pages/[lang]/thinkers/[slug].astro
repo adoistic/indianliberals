@@ -1,0 +1,85 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import {
+  hreflangAlternates,
+  shouldNoindex,
+  LOCALES,
+  DEFAULT_LOCALE,
+  type LangCode,
+} from "~/lib/i18n";
+
+export async function getStaticPaths() {
+  const thinkers = await getCollection(
+    "thinkers",
+    (t) => !t.data.draft && t.data.language !== DEFAULT_LOCALE,
+  );
+  return thinkers
+    .filter((t) => LOCALES.includes(t.data.language as LangCode))
+    .map((t) => ({
+      params: { lang: t.data.language, slug: t.id },
+      props: { t },
+    }));
+}
+
+const { t } = Astro.props;
+const { Content } = await render(t);
+
+const hreflang = hreflangAlternates(
+  "thinkers",
+  t.id,
+  t.data.language,
+  t.data.translations,
+  Astro.site!.origin,
+);
+
+const treatment = t.data.portrait?.caricature
+  ? { src: t.data.portrait.caricature, kind: "caricature" as const }
+  : t.data.portrait?.ring_portrait
+    ? { src: t.data.portrait.ring_portrait, kind: "ring" as const }
+    : t.data.portrait?.photo
+      ? { src: t.data.portrait.photo, kind: "photo" as const }
+      : null;
+
+const datesStr =
+  t.data.birth_year && t.data.death_year
+    ? `${t.data.birth_year}–${t.data.death_year}`
+    : t.data.birth_year
+      ? `b. ${t.data.birth_year}`
+      : "";
+---
+
+<BaseLayout
+  title={`${t.data.name.canonical} — Indian Liberals`}
+  lang={t.data.language}
+  hreflang={hreflang}
+  noindex={shouldNoindex(t.data.translation_status)}
+>
+  <article class="mx-auto max-w-4xl px-6 py-12 md:py-16">
+    <header class="border-b border-(--color-border) pb-10 mb-10 grid md:grid-cols-[auto_1fr] gap-8 items-start">
+      {treatment && (
+        <div class="w-40 md:w-48 aspect-[3/4] bg-(--color-bg-muted) rounded-sm overflow-hidden flex items-end justify-center">
+          <img
+            src={treatment.src}
+            alt={`Portrait of ${t.data.name.canonical}`}
+            width="288"
+            height="384"
+            class={treatment.kind === "ring" ? "w-full h-full object-cover" : "w-full h-full object-contain object-bottom"}
+          />
+        </div>
+      )}
+      <div>
+        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+          {t.data.tradition.replace(/_/g, " ")}
+        </p>
+        <h1 class="text-(--color-fg) leading-tight" lang={t.data.language}>{t.data.name.canonical}</h1>
+        {datesStr && (
+          <p class="text-(--color-fg-muted) font-(family-name:--font-ui) mt-3 text-base">{datesStr}</p>
+        )}
+      </div>
+    </header>
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700)" lang={t.data.language}>
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
