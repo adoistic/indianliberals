@@ -1,0 +1,250 @@
+# Authority file: organisations
+#
+# Canonical IDs for institutions referenced in the corpus — political parties,
+# think tanks, publication-bearing organisations, reform movements.
+#
+# Status: FIRST CUT (2026-05-16). Adnan to review.
+#
+# Schema (per entry):
+#   id:                kebab-case slug
+#   canonical_name:    most common modern reference
+#   full_name:         expanded official name
+#   sort_name:         for alphabetisation
+#   also_known_as:     variant names, abbreviations
+#   founded_year:      int or null
+#   dissolved_year:    int or null (null = active)
+#   type:              political_party | think_tank | publisher_org |
+#                      reform_society | professional_body | academic |
+#                      international_network
+#   ideology:          list of ideology tags
+#   note:              one or two sentences
+
+organisations:
+
+  # ============================================================
+  # CCS UNIVERSE — Client + immediate affiliates
+  # ============================================================
+
+  - id: centre-for-civil-society
+    canonical_name: "Centre for Civil Society"
+    full_name: "Centre for Civil Society"
+    sort_name: "Centre for Civil Society"
+    also_known_as:
+      - "CCS"
+      - "CCS India"
+    founded_year: 1997
+    dissolved_year: null
+    type: think_tank
+    ideology: [classical_liberal, free_market, individual_rights]
+    note: "Delhi-based classical-liberal think tank. The client and institutional steward of indianliberals.in. Founded by Parth Shah and Barun Mitra."
+
+  - id: friedrich-naumann-foundation
+    canonical_name: "Friedrich Naumann Foundation for Freedom"
+    full_name: "Friedrich-Naumann-Stiftung für die Freiheit"
+    sort_name: "Friedrich Naumann Foundation"
+    also_known_as:
+      - "FNF"
+      - "Friedrich Naumann Stiftung"
+    founded_year: 1958
+    dissolved_year: null
+    type: international_network
+    ideology: [classical_liberal, free_market]
+    note: "German political foundation associated with the Free Democratic Party. Funds liberal civil-society work globally including the Indian Liberals rebuild."
+
+  # ============================================================
+  # SWATANTRA-ERA POLITICAL & PRESS ORGANISATIONS
+  # ============================================================
+
+  - id: swatantra-party
+    canonical_name: "Swatantra Party"
+    full_name: "Swatantra Party"
+    sort_name: "Swatantra Party"
+    also_known_as:
+      - "The Swatantra Party"
+      - "Swatantra"
+    founded_year: 1959
+    dissolved_year: 1974
+    type: political_party
+    ideology: [classical_liberal, free_enterprise, individual_rights]
+    note: "Founded by Rajaji, Minoo Masani, N. G. Ranga, K. M. Munshi, and others in opposition to Nehruvian planning. Peaked as the largest opposition party after the 1967 election. Dissolved into the Bharatiya Lok Dal in 1974."
+
+  - id: indian-liberal-group
+    canonical_name: "Indian Liberal Group"
+    full_name: "Indian Liberal Group"
+    sort_name: "Indian Liberal Group"
+    also_known_as:
+      - "ILG"
+    founded_year: 1968  # [NEEDS REVIEW]
+    dissolved_year: null
+    type: think_tank
+    ideology: [classical_liberal]
+    note: "Successor organisation to the Swatantra Party's intellectual mission. Published Freedom First. Long-led by S. V. Raju."
+
+  - id: forum-of-free-enterprise
+    canonical_name: "Forum of Free Enterprise"
+    full_name: "Forum of Free Enterprise"
+    sort_name: "Forum of Free Enterprise"
+    also_known_as:
+      - "FFE"
+      - "The Forum"
+    founded_year: 1956
+    dissolved_year: null
+    type: think_tank
+    ideology: [classical_liberal, free_enterprise]
+    note: "Founded by A. D. Shroff. Mumbai-based educational organisation devoted to explaining the case for private enterprise to the Indian public. Long associated with M. R. Pai, Nani Palkhivala, and B. R. Shenoy."
+
+  - id: liberty-institute
+    canonical_name: "Liberty Institute"
+    full_name: "Liberty Institute"
+    sort_name: "Liberty Institute"
+    also_known_as: []
+    founded_year: 1996  # [NEEDS REVIEW]
+    dissolved_year: null
+    type: think_tank
+    ideology: [classical_liberal, free_market]
+    note: "Delhi-based think tank founded by Barun Mitra. Property rights, environmental policy, and economic-freedom indices."
+
+  - id: shetkari-sanghatana
+    canonical_name: "Shetkari Sanghatana"
+    full_name: "Shetkari Sanghatana"
+    sort_name: "Shetkari Sanghatana"
+    also_known_as: []
+    founded_year: 1979
+    dissolved_year: null
+    type: reform_society
+    ideology: [agrarian_liberty, free_markets]
+    note: "Farmers' organisation founded by Sharad Joshi in Maharashtra. Argued that Indian farmers were impoverished not by lack of subsidy but by extractive pricing controls and market restrictions."
+
+  - id: swatantra-bharat-paksha
+    canonical_name: "Swatantra Bharat Paksha"
+    full_name: "Swatantra Bharat Paksha"
+    sort_name: "Swatantra Bharat Paksha"
+    also_known_as:
+      - "SBP"
+    founded_year: 1994  # [NEEDS REVIEW]
+    dissolved_year: null
+    type: political_party
+    ideology: [classical_liberal, agrarian_liberty]
+    note: "Political party founded by Sharad Joshi as the electoral vehicle for the Shetkari Sanghatana's liberal-libertarian programme."
+
+  # ============================================================
+  # PRE-INDEPENDENCE REFORM SOCIETIES
+  # ============================================================
+
+  - id: brahmo-samaj
+    canonical_name: "Brahmo Samaj"
+    full_name: "Brahmo Samaj"
+    sort_name: "Brahmo Samaj"
+    also_known_as: []
+    founded_year: 1828
+    dissolved_year: null
+    type: reform_society
+    ideology: [religious_reform, social_reform]
+    note: "Religious-and-social reform movement founded by Raja Ram Mohan Roy. Monotheistic, anti-caste, pro women's education. The originating institution of the Indian liberal reformist tradition."
+
+  - id: servants-of-india-society
+    canonical_name: "Servants of India Society"
+    full_name: "Servants of India Society"
+    sort_name: "Servants of India Society"
+    also_known_as:
+      - "SIS"
+    founded_year: 1905
+    dissolved_year: null
+    type: reform_society
+    ideology: [constitutional_liberalism, gradual_reform]
+    note: "Founded by Gopal Krishna Gokhale. Trained members in constitutional politics and gradualist social reform. Gandhi's mentor-society."
+
+  - id: mukti-mission
+    canonical_name: "Mukti Mission"
+    full_name: "Ramabai Mukti Mission"
+    sort_name: "Mukti Mission"
+    also_known_as:
+      - "Pandita Ramabai Mukti Mission"
+    founded_year: 1889
+    dissolved_year: null
+    type: reform_society
+    ideology: [womens_rights, social_reform, religious_freedom]
+    note: "Mission for widows, abandoned women, and orphans, founded by Pandita Ramabai near Pune. Still operational. A pioneering institution of women's self-reliance in India."
+
+  - id: indian-national-congress
+    canonical_name: "Indian National Congress"
+    full_name: "Indian National Congress"
+    sort_name: "Indian National Congress"
+    also_known_as:
+      - "INC"
+      - "Congress"
+    founded_year: 1885
+    dissolved_year: null
+    type: political_party
+    ideology: [nationalism]  # broad-church; specific liberal phase noted in member affiliations
+    note: "India's pre-independence umbrella nationalist movement, now a political party. Many liberal figures (Gokhale, Rajaji pre-1959) operated within Congress before liberal politics split off."
+
+  # ============================================================
+  # INTERNATIONAL NETWORK
+  # ============================================================
+
+  - id: atlas-network
+    canonical_name: "Atlas Network"
+    full_name: "Atlas Network"
+    sort_name: "Atlas Network"
+    also_known_as:
+      - "Atlas Economic Research Foundation"  # historical name
+    founded_year: 1981
+    dissolved_year: null
+    type: international_network
+    ideology: [classical_liberal, free_market]
+    note: "Global network of free-market think tanks. CCS and Liberty Institute are members. Tom G. Palmer serves as Vice President for International Programs."
+
+  - id: mont-pelerin-society
+    canonical_name: "Mont Pelerin Society"
+    full_name: "Mont Pelerin Society"
+    sort_name: "Mont Pelerin Society"
+    also_known_as:
+      - "MPS"
+    founded_year: 1947
+    dissolved_year: null
+    type: international_network
+    ideology: [classical_liberal]
+    note: "Hayek-founded scholarly society of classical-liberal economists and intellectuals. B. R. Shenoy and other Indian liberals participated. The intellectual home of the international classical-liberal tradition."
+
+  # ============================================================
+  # INSTITUTIONAL AFFILIATIONS (referenced in bio_note fields)
+  # ============================================================
+
+  - id: gujarat-university
+    canonical_name: "Gujarat University"
+    full_name: "Gujarat University"
+    sort_name: "Gujarat University"
+    also_known_as: []
+    founded_year: 1949
+    dissolved_year: null
+    type: academic
+    ideology: []
+    note: "Ahmedabad-based public university. B. R. Shenoy directed its School of Social Sciences."
+
+  - id: new-india-assurance
+    canonical_name: "New India Assurance"
+    full_name: "The New India Assurance Company Ltd"
+    sort_name: "New India Assurance"
+    also_known_as: []
+    founded_year: 1919
+    dissolved_year: null
+    type: professional_body
+    ideology: []
+    note: "Insurance company co-founded by A. D. Shroff and Sir Dorab Tata. Relevant only as context for Shroff's biography."
+
+
+# ============================================================
+# CANDIDATES FOR REVIEW
+# ============================================================
+#
+#   indian_liberal_party:    # tej-bahadur-sapru's party, 1919-1948
+#   bharatiya-vidya-bhavan:  # cultural revivalist; K. M. Munshi's institution
+#   nehru-memorial-museum:   # holds papers of many figures
+#   bharatiya-lok-dal:       # what the Swatantra Party merged into in 1974
+#   confederation-of-indian-industry-cii:  # for contemporary economic context
+#   federation-of-indian-chambers-of-commerce-ficci:  # likewise
+#   raja-rammohun-roy-library-foundation:  # named for Roy
+#   the-print:               # if we model the source of the federated feed as an org
+#
+# Adnan: same as for thinkers — tick what's in, cross out what's not.

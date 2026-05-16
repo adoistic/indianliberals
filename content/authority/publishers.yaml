@@ -1,0 +1,192 @@
+# Authority file: publishers
+#
+# Canonical IDs for publishers / imprints / institutional issuers of works
+# in the corpus. Distinct from organisations.yaml — though some entities
+# (Forum of Free Enterprise) appear in both, since they BOTH advocate AND
+# publish. In those cases the publisher entry references the org entry.
+#
+# Status: FIRST CUT (2026-05-16). Adnan to review.
+#
+# Schema (per entry):
+#   id:               kebab-case slug
+#   canonical_name:   most common name
+#   full_name:        formal name
+#   sort_name:        for alphabetisation
+#   also_known_as:    variants
+#   place:            primary place of publication
+#   founded_year:     int or null
+#   ceased_year:      int or null
+#   type:             org_publisher | trade_publisher | university_press |
+#                     pamphlet_series | self_published | unknown
+#   org_ref:          organisation ID if this publisher IS an org (overlap case)
+#   note:             one sentence
+
+publishers:
+
+  # ============================================================
+  # MOVEMENT PUBLISHERS — Where most primary works originated
+  # ============================================================
+
+  - id: forum-of-free-enterprise-press
+    canonical_name: "Forum of Free Enterprise"
+    full_name: "Forum of Free Enterprise"
+    sort_name: "Forum of Free Enterprise"
+    also_known_as:
+      - "FFE"
+    place: "Bombay / Mumbai"
+    founded_year: 1956
+    ceased_year: null
+    type: org_publisher
+    org_ref: forum-of-free-enterprise
+    note: "Booklet and pamphlet series published by FFE. The single largest source of primary works in the Indian liberal canon — short, focused essays on free enterprise, taxation, planning critique."
+
+  - id: indian-liberal-group-press
+    canonical_name: "Indian Liberal Group"
+    full_name: "Indian Liberal Group"
+    sort_name: "Indian Liberal Group"
+    also_known_as:
+      - "ILG"
+    place: "Mumbai"
+    founded_year: 1968  # [NEEDS REVIEW]
+    ceased_year: null
+    type: org_publisher
+    org_ref: indian-liberal-group
+    note: "Publishes Freedom First magazine and occasional volumes. The intellectual continuation of the Swatantra Party's publishing arm."
+
+  - id: swatantra-party-press
+    canonical_name: "Swatantra Party publications"
+    full_name: "Swatantra Party publications"
+    sort_name: "Swatantra Party publications"
+    also_known_as: []
+    place: "Bombay / Madras"
+    founded_year: 1959
+    ceased_year: 1974
+    type: org_publisher
+    org_ref: swatantra-party
+    note: "Party pamphlets, manifestos, conference proceedings, and Hindu/Tamil/Marathi tracts produced during the party's electoral years."
+
+  # ============================================================
+  # TRADE PUBLISHERS — Where Indian liberal books were published commercially
+  # ============================================================
+
+  - id: bharatiya-vidya-bhavan
+    canonical_name: "Bharatiya Vidya Bhavan"
+    full_name: "Bharatiya Vidya Bhavan"
+    sort_name: "Bharatiya Vidya Bhavan"
+    also_known_as:
+      - "BVB"
+    place: "Bombay / Mumbai"
+    founded_year: 1938
+    ceased_year: null
+    type: trade_publisher
+    org_ref: null
+    note: "K. M. Munshi's cultural-revivalist institution and publisher. Published several Rajaji works and Swatantra-era books."
+
+  - id: asia-publishing-house
+    canonical_name: "Asia Publishing House"
+    full_name: "Asia Publishing House"
+    sort_name: "Asia Publishing House"
+    also_known_as: []
+    place: "Bombay"
+    founded_year: 1944  # [NEEDS REVIEW]
+    ceased_year: null
+    type: trade_publisher
+    org_ref: null
+    note: "Mid-century academic and current-affairs publisher; published several primary works by Indian liberal economists. [NEEDS REVIEW — confirm titles in corpus]"
+
+  - id: vora-and-co
+    canonical_name: "Vora & Co."
+    full_name: "Vora & Co. Publishers"
+    sort_name: "Vora & Co."
+    also_known_as:
+      - "Vora & Co"
+      - "Vora Publishers"
+    place: "Bombay"
+    founded_year: null  # [NEEDS REVIEW]
+    ceased_year: null
+    type: trade_publisher
+    org_ref: null
+    note: "Bombay-based publisher of liberal-leaning political works in the mid-twentieth century. [NEEDS REVIEW — confirm in corpus]"
+
+  - id: popular-prakashan
+    canonical_name: "Popular Prakashan"
+    full_name: "Popular Prakashan"
+    sort_name: "Popular Prakashan"
+    also_known_as: []
+    place: "Bombay / Mumbai"
+    founded_year: 1924
+    ceased_year: null
+    type: trade_publisher
+    org_ref: null
+    note: "Long-running Bombay publisher of academic and political works. Has published several Swatantra-era memoirs and economic-policy critiques."
+
+  - id: oxford-university-press-india
+    canonical_name: "Oxford University Press India"
+    full_name: "Oxford University Press (India)"
+    sort_name: "Oxford University Press India"
+    also_known_as:
+      - "OUP India"
+      - "OUP"
+    place: "New Delhi"
+    founded_year: 1912
+    ceased_year: null
+    type: university_press
+    org_ref: null
+    note: "Academic books and biographies of Indian liberal figures (e.g., Palkhivala's constitutional writings)."
+
+  - id: macmillan-india
+    canonical_name: "Macmillan India"
+    full_name: "Macmillan India Limited"
+    sort_name: "Macmillan India"
+    also_known_as:
+      - "Macmillan"
+    place: "Madras / Chennai"
+    founded_year: 1893
+    ceased_year: null
+    type: trade_publisher
+    org_ref: null
+    note: "Long-established Indian imprint; published Rajaji's writings and several Swatantra-era works."
+
+  - id: allied-publishers
+    canonical_name: "Allied Publishers"
+    full_name: "Allied Publishers Private Limited"
+    sort_name: "Allied Publishers"
+    also_known_as: []
+    place: "Bombay / Delhi"
+    founded_year: 1934
+    ceased_year: null
+    type: trade_publisher
+    org_ref: null
+    note: "Indian general publisher of mid-twentieth-century academic and political books. [NEEDS REVIEW — confirm in corpus]"
+
+  - id: unknown-publisher
+    canonical_name: "[unknown publisher]"
+    full_name: "Unknown / not on imprint"
+    sort_name: "zzz-unknown"
+    also_known_as: []
+    place: null
+    founded_year: null
+    ceased_year: null
+    type: unknown
+    org_ref: null
+    note: "Placeholder for primary works where the imprint is missing, illegible, or not yet identified. Editorial review should aim to reduce these to zero over time."
+
+
+# ============================================================
+# CANDIDATES FOR REVIEW
+# ============================================================
+#
+#   thacker-and-co:                # old Bombay liberal-leaning house
+#   wiley-eastern:                 # academic; possible Shenoy publications
+#   manohar-publishers:            # Delhi academic
+#   sage-publications-india:       # modern academic
+#   penguin-india:                 # modern trade; possible reprint imprint
+#   tata-mcgraw-hill:              # economics textbooks
+#   pearson-india:                 # ditto
+#   indian-institute-of-public-administration:  # journal / paper series
+#   commerce-publications:         # for Forum-era trade material
+#
+# Adnan: in particular, please scan your PDF corpus when you mount the
+# external drive and add any imprint names that appear on title pages but
+# aren't here. The "unknown-publisher" entry is the safety valve in the
+# meantime — it should NOT be the modal answer.

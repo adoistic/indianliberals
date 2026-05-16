@@ -22,7 +22,22 @@ It is written in this order deliberately: extraction reads first, editors read s
 
 ## Q3. Authority files (authors, publishers, organisations)
 
-*To be drafted in Phase 0 week 1. Seed list: ~30 thinkers, ~15 organisations, ~10 publishers.*
+**First-call position (2026-05-16):** pre-populate. Library practice — draft the authority file first (even if incomplete), have the LLM map extracted names against it, flag unmatched for human review. The alternative (let extraction propose free text, normalise later) is faster on day one and dramatically worse after the first 50 records.
+
+**Data lives in three YAML files:**
+- `content/authority/thinkers.yaml` — people (authors, profile subjects, contributors)
+- `content/authority/organisations.yaml` — institutions (parties, think tanks, movements)
+- `content/authority/publishers.yaml` — imprints (overlapping with organisations where an org also publishes — captured via `org_ref`)
+
+**ID rules:**
+- IDs are kebab-case slugs, immutable once committed (renaming is a migration)
+- IDs use the canonical-name form, not the formal-name form (`rajaji` not `chakravarti-rajagopalachari`)
+- For figures with strong initials-based names (`b-r-shenoy`, `m-r-pai`, `s-v-raju`) the initials form is the slug
+- Cross-references between files use the ID (e.g., a thinker's `affiliations` is a list of organisation IDs)
+
+**Coverage check (post-spike):** seeded authority files must cover ≥75% of corpus mentions in the spike — per the per-mention definition in the design doc's Phase 0 acceptance criterion (b). If the bar misses, the remediation is to expand the seed, not to lower the bar.
+
+**Status (2026-05-16):** first cut written. ~20 thinkers, ~14 organisations, ~10 publishers. Substantial NEEDS REVIEW gaps remain — see the candidates lists at the bottom of each YAML file. Adnan's pass to expand to the design-doc target (~30 thinkers, ~15 organisations, ~10 publishers) happens against the WordPress URL inventory once it's in hand.
 
 ## Q4. Theme controlled vocabulary
 

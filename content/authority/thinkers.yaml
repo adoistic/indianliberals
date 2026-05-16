@@ -1,0 +1,441 @@
+# Authority file: thinkers
+#
+# Canonical IDs for every person referenced in the Indian Liberals corpus.
+# Used by the extraction pipeline to normalise author / contributor names
+# against a controlled vocabulary, and surfaced in Sveltia CMS for editors.
+#
+# Status: FIRST CUT (2026-05-16). Adnan to review, fill gaps, correct dates.
+# Entries marked [NEEDS REVIEW] need a librarian decision before locking.
+#
+# Schema (per entry):
+#   id:             kebab-case slug, stable identifier (never changes)
+#   canonical_name: how the thinker is most commonly referred to today
+#   full_name:      birth-certificate / formal name where known
+#   sort_name:      "Last, First" for alphabetisation
+#   also_known_as:  list of variant spellings, transliterations, pen names
+#   birth_year:     int or null
+#   death_year:     int or null (null = living)
+#   nationality:    primary affiliation country
+#   tradition:      classical_liberal | reformer | nationalist_liberal |
+#                   social_reformer | contemporary_liberal | international_influence
+#   portrait:       relative paths into assets/thinkers/
+#     photo:        path or null
+#     caricature:   path or null (the hand-drawn ones)
+#   primary_themes: list of theme IDs (from themes.yaml — Q4 work, forward ref)
+#   bio_note:       one sentence on who they are
+#   affiliations:   list of organisation IDs (forward ref to organisations.yaml)
+
+thinkers:
+
+  # ============================================================
+  # FOUNDING FIGURES — Pre-independence liberal tradition
+  # ============================================================
+
+  - id: raja-ram-mohan-roy
+    canonical_name: "Raja Ram Mohan Roy"
+    full_name: "Ram Mohan Roy"
+    sort_name: "Roy, Raja Ram Mohan"
+    also_known_as:
+      - "Rammohan Roy"
+      - "Ram Mohun Roy"
+    birth_year: 1772
+    death_year: 1833
+    nationality: india
+    tradition: reformer
+    portrait:
+      photo: null
+      caricature: assets/thinkers/caricatures/raja-ram-mohan-roy.webp
+    primary_themes: [social_reform, religious_reform, womens_rights, free_press]
+    bio_note: "Bengal reformer; founder of the Brahmo Samaj. The intellectual progenitor of the Indian liberal tradition — campaigned against sati, for women's education, for free press, and for English-language modern education."
+    affiliations: [brahmo-samaj]
+
+  - id: gopal-krishna-gokhale
+    canonical_name: "Gopal Krishna Gokhale"
+    full_name: "Gopal Krishna Gokhale"
+    sort_name: "Gokhale, Gopal Krishna"
+    also_known_as:
+      - "G. K. Gokhale"
+    birth_year: 1866
+    death_year: 1915
+    nationality: india
+    tradition: nationalist_liberal
+    portrait:
+      photo: assets/thinkers/photos/gopal-krishna-gokhale.jpeg
+      caricature: null
+    primary_themes: [constitutional_liberalism, gradual_reform, free_trade, education]
+    bio_note: "Indian National Congress moderate; founder of the Servants of India Society. Gandhi's political mentor. Argued for constitutional reform and gradual self-government within the British system."
+    affiliations: [servants-of-india-society, indian-national-congress]
+
+  - id: pandita-ramabai
+    canonical_name: "Pandita Ramabai"
+    full_name: "Ramabai Sarasvati"
+    sort_name: "Ramabai, Pandita"
+    also_known_as:
+      - "Ramabai Dongre Medhavi"
+      - "Pandita Ramabai Sarasvati"
+    birth_year: 1858
+    death_year: 1922
+    nationality: india
+    tradition: social_reformer
+    portrait:
+      photo: assets/thinkers/photos/ramabai-pandita.jpg
+      caricature: null
+    primary_themes: [womens_rights, education, social_reform, religious_freedom]
+    bio_note: "Sanskrit scholar, social reformer, and pioneer in women's education. Founded the Mukti Mission for widows and abandoned women. Argued for individual liberty rooted in education and self-reliance."
+    affiliations: [mukti-mission]
+
+  # ============================================================
+  # WOMEN OF THE LIBERAL TRADITION
+  # (Proposal explicitly names these — historically under-represented;
+  #  flagged separately to ensure they don't get dropped in v1.)
+  # ============================================================
+
+  - id: mithan-tata-lam
+    canonical_name: "Mithan Tata Lam"
+    full_name: "Mithan Jamshed Lam"
+    sort_name: "Lam, Mithan Tata"
+    also_known_as:
+      - "Mithan J. Lam"
+      - "Mithan Ardeshir Tata"  # maiden name
+    birth_year: 1898
+    death_year: 1981
+    nationality: india
+    tradition: nationalist_liberal
+    portrait:
+      photo: null  # [NEEDS REVIEW] — not on the listing page; sourcing needed
+      caricature: null
+    primary_themes: [womens_rights, legal_reform, civil_liberty]
+    bio_note: "First woman barrister of the Bombay High Court (1923). Member of the Indian Liberal Group. Worked on civil-code reform and women's legal rights."
+    affiliations: [indian-liberal-group]
+
+  - id: janaki-ammal
+    canonical_name: "Janaki Ammal"
+    full_name: "Edavaleth Kakkat Janaki Ammal"
+    sort_name: "Ammal, Janaki"
+    also_known_as:
+      - "E. K. Janaki Ammal"
+    birth_year: 1897
+    death_year: 1984
+    nationality: india
+    tradition: contemporary_liberal  # [NEEDS REVIEW] — primarily a scientist; liberal in what specific sense?
+    portrait:
+      photo: null  # [NEEDS REVIEW] — sourcing needed
+      caricature: null
+    primary_themes: [scientific_freedom, womens_rights, environmentalism]
+    bio_note: "Botanist; first woman to receive a DSc from an Indian university. Director of the Botanical Survey of India. [NEEDS REVIEW] — confirm her place in the liberal tradition with CCS."
+    affiliations: []
+
+  - id: muthulakshmi-reddi
+    canonical_name: "Muthulakshmi Reddi"
+    full_name: "Muthulakshmi Reddy"
+    sort_name: "Reddi, Muthulakshmi"
+    also_known_as:
+      - "Muthulakshmi Reddy"
+      - "Dr. Muthulakshmi Reddi"
+    birth_year: 1886
+    death_year: 1968
+    nationality: india
+    tradition: social_reformer
+    portrait:
+      photo: null  # [NEEDS REVIEW] — sourcing needed
+      caricature: null
+    primary_themes: [womens_rights, social_reform, devadasi_abolition, public_health]
+    bio_note: "First woman legislator in India (Madras Legislative Council, 1927). Pioneered the abolition of the devadasi system. Founded the Adyar Cancer Institute."
+    affiliations: []
+
+  - id: sudha-r-shenoy
+    canonical_name: "Sudha R. Shenoy"
+    full_name: "Sudha Rao Shenoy"
+    sort_name: "Shenoy, Sudha R."
+    also_known_as:
+      - "Sudha Shenoy"
+    birth_year: 1943
+    death_year: 2008
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/sudha-r-shenoy.jpg
+      caricature: null
+    primary_themes: [austrian_economics, economic_liberty, monetary_theory]
+    bio_note: "Austrian-school economist. Daughter of B. R. Shenoy. Edited \"A Tiger by the Tail\" — selections from Hayek's monetary writings."
+    affiliations: [forum-of-free-enterprise]
+
+  # ============================================================
+  # CLASSICAL LIBERAL ECONOMISTS & POLITICAL FIGURES
+  # ============================================================
+
+  - id: rajaji
+    canonical_name: "Rajaji"
+    full_name: "Chakravarti Rajagopalachari"
+    sort_name: "Rajagopalachari, Chakravarti"
+    also_known_as:
+      - "C. Rajagopalachari"
+      - "C. R."
+      - "Rajagopalachari"
+    birth_year: 1878
+    death_year: 1972
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/c-rajagopalachari.jpg
+      caricature: null  # [NEEDS REVIEW] — top candidate for AI-generated caricature in style of other 4
+    primary_themes: [free_enterprise, anti_planning, individual_rights, classical_liberalism]
+    bio_note: "Founder of the Swatantra Party (1959). Last Governor-General of India. Wrote against Nehruvian planning and the License Raj; argued for free enterprise and limited government as the route to Indian prosperity."
+    affiliations: [swatantra-party, indian-national-congress]
+
+  - id: minoo-masani
+    canonical_name: "Minoo Masani"
+    full_name: "Minocher Rustom Masani"
+    sort_name: "Masani, Minoo"
+    also_known_as:
+      - "M. R. Masani"
+      - "Minocher Masani"
+    birth_year: 1905
+    death_year: 1998
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/minoo-masani.jpg
+      caricature: null  # [NEEDS REVIEW] — caricature candidate
+    primary_themes: [classical_liberalism, anti_communism, free_enterprise, parliamentary_democracy]
+    bio_note: "Co-founder of the Swatantra Party. Editor of Freedom First. Argued for liberal democracy against both Nehruvian socialism and communist totalitarianism."
+    affiliations: [swatantra-party, freedom-first, indian-liberal-group]
+
+  - id: b-r-shenoy
+    canonical_name: "B. R. Shenoy"
+    full_name: "Bellikoth Raghunath Shenoy"
+    sort_name: "Shenoy, Bellikoth Raghunath"
+    also_known_as:
+      - "Bellikoth R. Shenoy"
+      - "B.R. Shenoy"
+    birth_year: 1905
+    death_year: 1978
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/b-r-shenoy.jpg
+      caricature: null  # [NEEDS REVIEW] — strong caricature candidate; central figure
+    primary_themes: [monetary_policy, anti_planning, free_trade, austrian_economics, classical_liberalism]
+    bio_note: "Economist; only dissenter on the panel of economists reviewing the Second Five-Year Plan (1955). His \"Note of Dissent\" is a foundational document of Indian classical liberalism."
+    affiliations: [gujarat-university, forum-of-free-enterprise]
+
+  - id: nani-palkhivala
+    canonical_name: "Nani Palkhivala"
+    full_name: "Nanabhoy Ardeshir Palkhivala"
+    sort_name: "Palkhivala, Nanabhoy Ardeshir"
+    also_known_as:
+      - "N. A. Palkhivala"
+      - "Nani A. Palkhivala"
+    birth_year: 1920
+    death_year: 2002
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/nani-palkhivala.jpg
+      caricature: null  # [NEEDS REVIEW] — caricature candidate
+    primary_themes: [constitutional_liberalism, property_rights, taxation, free_enterprise]
+    bio_note: "Eminent constitutional lawyer. Argued landmark cases including Kesavananda Bharati (1973), establishing the basic-structure doctrine. His annual budget speeches at Bombay's Cricket Club of India were public intellectual events."
+    affiliations: [forum-of-free-enterprise]
+
+  - id: a-d-shroff
+    canonical_name: "A. D. Shroff"
+    full_name: "Ardeshir Darabshaw Shroff"
+    sort_name: "Shroff, Ardeshir Darabshaw"
+    also_known_as:
+      - "Ardeshir Shroff"
+    birth_year: 1899
+    death_year: 1965
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/a-d-shroff.png
+      caricature: assets/thinkers/caricatures/a-d-shroff.webp
+    primary_themes: [free_enterprise, banking, industrial_policy]
+    bio_note: "Banker and industrialist. Founder of the Forum of Free Enterprise (1956). Spent his post-business life arguing the case for private enterprise against Nehruvian planning."
+    affiliations: [forum-of-free-enterprise, new-india-assurance]
+
+  - id: m-r-pai
+    canonical_name: "M. R. Pai"
+    full_name: "Madhava Rao Pai"
+    sort_name: "Pai, Madhava Rao"
+    also_known_as:
+      - "Madhav R. Pai"
+      - "M.R. Pai"
+    birth_year: 1922
+    death_year: 2003
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/m-r-pai.jpg
+      caricature: assets/thinkers/caricatures/m-r-pai.webp
+    primary_themes: [consumer_rights, free_enterprise, banking, individual_rights]
+    bio_note: "Banker, journalist, and consumer-rights activist. Long-time General Secretary of the Forum of Free Enterprise. Wrote prolifically on the case for economic liberty."
+    affiliations: [forum-of-free-enterprise]
+
+  - id: s-v-raju
+    canonical_name: "S. V. Raju"
+    full_name: "S. V. Raju"
+    sort_name: "Raju, S. V."
+    also_known_as:
+      - "Srirangam Venkataraman Raju"  # [NEEDS REVIEW] — expansion uncertain
+    birth_year: 1934
+    death_year: 2017
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/s-v-raju-original.jpg
+      caricature: assets/thinkers/caricatures/s-v-raju.webp
+    primary_themes: [classical_liberalism, parliamentary_democracy, free_enterprise]
+    bio_note: "Long-time editor of Freedom First. General Secretary of the Indian Liberal Group. Carried the Swatantra-era liberal tradition into the post-1991 reform era."
+    affiliations: [indian-liberal-group, freedom-first, swatantra-party]
+
+  - id: d-r-pendse
+    canonical_name: "D. R. Pendse"
+    full_name: "D. R. Pendse"  # [NEEDS REVIEW] — full expansion needed
+    sort_name: "Pendse, D. R."
+    also_known_as: []
+    birth_year: null  # [NEEDS REVIEW]
+    death_year: null  # [NEEDS REVIEW]
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/d-r-pendse.png
+      caricature: null
+    primary_themes: [free_enterprise, economic_policy]
+    bio_note: "Economist associated with Tata and the Forum of Free Enterprise. [NEEDS REVIEW — fill in biographical details]"
+    affiliations: [forum-of-free-enterprise]
+
+  - id: sharad-joshi
+    canonical_name: "Sharad Joshi"
+    full_name: "Sharad Anantrao Joshi"
+    sort_name: "Joshi, Sharad Anantrao"
+    also_known_as:
+      - "Sharad A. Joshi"
+    birth_year: 1935
+    death_year: 2015
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/sharad-joshi.jpg
+      caricature: null
+    primary_themes: [agricultural_freedom, free_markets, peasant_rights, anti_license_raj]
+    bio_note: "Founder of the Shetkari Sanghatana farmers' organisation. Argued that Indian farmers were impoverished not by lack of subsidy but by anti-farmer pricing controls. Founded the Swatantra Bharat Paksha to bring his liberal-libertarian politics to the electoral arena."
+    affiliations: [shetkari-sanghatana, swatantra-bharat-paksha]
+
+  - id: sauvik-chakraverti
+    canonical_name: "Sauvik Chakraverti"
+    full_name: "Sauvik Chakraverti"
+    sort_name: "Chakraverti, Sauvik"
+    also_known_as: []
+    birth_year: 1957  # [NEEDS REVIEW]
+    death_year: 2018
+    nationality: india
+    tradition: classical_liberal
+    portrait:
+      photo: assets/thinkers/photos/sauvik-chakraverti.jpg
+      caricature: null
+    primary_themes: [austrian_economics, free_markets, anti_state, urbanism]
+    bio_note: "Free-market columnist and provocateur. Won the Bastiat Prize for journalism (2002). Wrote in Mint, The Indian Express, and his blog \"Antidote.\""
+    affiliations: []
+
+  # ============================================================
+  # CONTEMPORARY LIBERAL INTELLECTUALS
+  # ============================================================
+
+  - id: arun-shourie
+    canonical_name: "Arun Shourie"
+    full_name: "Arun Shourie"
+    sort_name: "Shourie, Arun"
+    also_known_as: []
+    birth_year: 1941
+    death_year: null  # living
+    nationality: india
+    tradition: contemporary_liberal
+    portrait:
+      photo: assets/thinkers/ring-portraits/arun-shourie.webp
+      caricature: null
+    primary_themes: [press_freedom, anti_emergency, economic_reform, judicial_reform]
+    bio_note: "Editor (The Indian Express), economist, and Union Minister for Disinvestment under Vajpayee. Investigative journalism in the Emergency and post-Emergency periods. Argued for privatisation and rule-of-law reform."
+    affiliations: []
+
+  # ============================================================
+  # INTERNATIONAL AFFILIATES
+  # (Contributors to the Indian Liberals project from outside India.)
+  # ============================================================
+
+  - id: christopher-lingle
+    canonical_name: "Christopher Lingle"
+    full_name: "Christopher Lingle"
+    sort_name: "Lingle, Christopher"
+    also_known_as: []
+    birth_year: 1949  # [NEEDS REVIEW]
+    death_year: null
+    nationality: united_states
+    tradition: international_influence
+    portrait:
+      photo: assets/thinkers/ring-portraits/christopher-lingle.webp
+      caricature: null
+    primary_themes: [free_markets, asian_economies, monetary_policy]
+    bio_note: "American economist; long-time commentator on Asian economic policy from a free-market perspective. Frequent contributor to Indian liberal publications."
+    affiliations: []
+
+  - id: tom-g-palmer
+    canonical_name: "Tom G. Palmer"
+    full_name: "Tom Gordon Palmer"
+    sort_name: "Palmer, Tom G."
+    also_known_as:
+      - "Tom Palmer"
+      - "Dr. Tom G. Palmer"
+    birth_year: 1956
+    death_year: null
+    nationality: united_states
+    tradition: international_influence
+    portrait:
+      photo: assets/thinkers/ring-portraits/tom-g-palmer.webp
+      caricature: null
+    primary_themes: [classical_liberalism, property_rights, international_liberty, atlas_network]
+    bio_note: "Vice President for International Programs at the Atlas Network. Has written extensively on classical liberalism and supported liberal think tanks worldwide, including CCS."
+    affiliations: [atlas-network]
+
+
+# ============================================================
+# CANDIDATES FOR REVIEW — Adnan to add, reject, or defer
+# ============================================================
+# Figures I'm uncertain belong in v1 but worth a librarian's call:
+#
+#   pre_independence_moderates:
+#     - dadabhai-naoroji        # Grand Old Man of India; INC moderate
+#     - pherozeshah-mehta       # Bombay moderate; lawyer
+#     - surendranath-banerjee   # Bengal moderate; INC
+#     - tej-bahadur-sapru       # Constitutional reformer; Indian Liberal Party founder
+#     - m-r-jayakar             # Indian Liberal Party; constitutional lawyer
+#     - mahadev-govind-ranade   # Servant of India Society precursor
+#     - romesh-chunder-dutt     # Economic critique of British rule
+#
+#   post_independence_liberals:
+#     - c-d-deshmukh            # First Indian RBI governor; Finance Minister
+#     - n-g-ranga               # Co-founder of Swatantra Party
+#     - piloo-mody              # Swatantra MP; humourist
+#     - k-m-munshi              # Co-founder of Swatantra Party; cultural revivalist
+#
+#   post_1991_reformers:
+#     - manmohan-singh          # 1991 reforms architect
+#     - p-v-narasimha-rao       # 1991 reforms PM
+#     - montek-singh-ahluwalia  # Reform-era economist
+#     - bibek-debroy            # Liberal economist
+#     - gurcharan-das           # Author; liberal commentator
+#     - swaminathan-aiyar       # Mint / TOI columnist
+#     - parth-shah              # CCS founder
+#     - pratap-bhanu-mehta      # Political theorist
+#
+#   international_intellectual_ancestors:
+#     - friedrich-hayek         # Major influence on B.R. Shenoy and Sudha Shenoy
+#     - milton-friedman         # Influence on Shenoy
+#     - adam-smith              # Distant intellectual ancestor
+#     - frederic-bastiat        # The Bastiat Prize (Sauvik Chakraverti won it)
+#     - james-buchanan          # Public choice tradition
+#
+# Adnan: please tick the ones that should be in v1, cross out the ones that
+# shouldn't, and add any I missed. The "scope of liberal" decision is yours
+# as librarian — I've been deliberately inclusive in this candidate list so
+# you can prune, not the other way around.
