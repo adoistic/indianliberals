@@ -1,0 +1,131 @@
+@import "tailwindcss";
+
+@import "@fontsource/source-sans-3/400.css";
+@import "@fontsource/source-sans-3/600.css";
+@import "@fontsource/source-sans-3/700.css";
+@import "@fontsource/source-serif-4/400.css";
+@import "@fontsource/source-serif-4/400-italic.css";
+@import "@fontsource/source-serif-4/600.css";
+@import "@fontsource/source-serif-4/700.css";
+@import "@fontsource/noto-serif-devanagari/400.css";
+@import "@fontsource/noto-serif-devanagari/600.css";
+@import "@fontsource/noto-serif-gujarati/400.css";
+@import "@fontsource/noto-serif-gujarati/600.css";
+
+/*
+ * Indian Liberals — design tokens
+ *
+ * Palette derived from the project's existing brand mark (the origami
+ * crane in the Indian tricolor — saffron beak, slate body, deep-green
+ * legs and wing-tip). Tokens are CSS variables so Sveltia CMS can
+ * theoretically swap them at build time without code edits.
+ *
+ * Liberty Lighthouse pattern: typography + colour as configurable
+ * tokens, with sensible scholarly defaults.
+ */
+
+@theme {
+  /* Brand palette — Indian tricolor + accents */
+  --color-saffron-50:  oklch(0.97 0.02 50);
+  --color-saffron-100: oklch(0.93 0.05 50);
+  --color-saffron-300: oklch(0.80 0.13 48);
+  --color-saffron-500: oklch(0.66 0.18 47);   /* #E8762C — crane beak */
+  --color-saffron-700: oklch(0.50 0.16 45);
+  --color-saffron-900: oklch(0.32 0.12 42);
+
+  --color-slate-50:  oklch(0.97 0.005 250);
+  --color-slate-100: oklch(0.94 0.008 250);
+  --color-slate-300: oklch(0.78 0.012 250);
+  --color-slate-500: oklch(0.55 0.015 250);   /* #5B5B5B — crane body */
+  --color-slate-700: oklch(0.38 0.012 250);
+  --color-slate-900: oklch(0.20 0.008 250);
+
+  --color-forest-50:  oklch(0.96 0.03 145);
+  --color-forest-100: oklch(0.92 0.05 145);
+  --color-forest-300: oklch(0.72 0.11 145);
+  --color-forest-500: oklch(0.51 0.13 145);   /* #2D7A3E — crane legs */
+  --color-forest-700: oklch(0.38 0.11 145);
+  --color-forest-900: oklch(0.24 0.08 145);
+
+  --color-gold-100: oklch(0.95 0.05 86);
+  --color-gold-300: oklch(0.85 0.13 86);
+  --color-gold-500: oklch(0.78 0.17 86);      /* #F2B41E — accent */
+  --color-gold-700: oklch(0.60 0.14 84);
+
+  /* Semantic surface colors */
+  --color-bg:        oklch(0.99 0.002 80);    /* off-white, faint warm */
+  --color-bg-muted:  oklch(0.97 0.005 80);
+  --color-fg:        oklch(0.20 0.01 250);    /* near-black, warm */
+  --color-fg-muted:  oklch(0.40 0.012 250);
+  --color-border:    oklch(0.88 0.008 250);
+  --color-accent:    var(--color-saffron-500);
+  --color-accent-fg: white;
+
+  /* Typography */
+  --font-display:  "Source Serif 4", "Noto Serif Devanagari", "Noto Serif Gujarati", Georgia, serif;
+  --font-body:     "Source Serif 4", "Noto Serif Devanagari", "Noto Serif Gujarati", Georgia, serif;
+  --font-ui:       "Source Sans 3", system-ui, -apple-system, sans-serif;
+  --font-mono:     ui-monospace, "SF Mono", Menlo, monospace;
+
+  /* Spacing extensions */
+  --spacing-prose: 65ch;
+}
+
+/* Base styles */
+html {
+  font-family: var(--font-body);
+  color: var(--color-fg);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--color-fg);
+}
+
+h1 { font-size: clamp(2.2rem, 4vw, 3.4rem); line-height: 1.1; letter-spacing: -0.02em; }
+h2 { font-size: clamp(1.6rem, 2.6vw, 2.1rem); line-height: 1.2; }
+h3 { font-size: clamp(1.25rem, 1.8vw, 1.45rem); line-height: 1.3; }
+h4 { font-size: 1.1rem; line-height: 1.35; }
+
+a {
+  color: var(--color-forest-700);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in oklch, var(--color-forest-700) 35%, transparent);
+  transition: text-decoration-color 180ms ease;
+}
+a:hover {
+  text-decoration-color: var(--color-forest-700);
+}
+
+/* Reusable utility — prose container at scholarly reading width */
+.prose-container {
+  max-width: var(--spacing-prose);
+  margin-inline: auto;
+}
+
+/* Indic-script blocks */
+[lang="hi"], [lang="gu"], [lang="mr"], [lang="bn"], .indic {
+  font-family: var(--font-body);
+  font-feature-settings: "kern", "liga", "calt";
+}
+
+/* Subtle focus ring */
+:focus-visible {
+  outline: 2px solid var(--color-saffron-500);
+  outline-offset: 2px;
+  border-radius: 2px;
+}

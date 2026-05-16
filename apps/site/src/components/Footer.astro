@@ -1,0 +1,42 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-(--color-border) mt-20 bg-(--color-bg-muted)">
+  <div class="mx-auto max-w-6xl px-6 py-12 grid gap-8 md:grid-cols-3 text-sm font-(family-name:--font-ui)">
+    <div>
+      <div class="flex items-center gap-3 mb-3">
+        <img src="/brand/brand-mark-crane.png" alt="" class="h-7 w-7" width="28" height="28" />
+        <span class="font-(family-name:--font-display) font-semibold text-(--color-fg)">Indian Liberals</span>
+      </div>
+      <p class="text-(--color-fg-muted) leading-relaxed">
+        An online archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, interviews, and curated excerpts from the figures who built the case for liberty in modern India.
+      </p>
+    </div>
+    <div>
+      <h2 class="font-(family-name:--font-ui) text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Maintained by</h2>
+      <p class="text-(--color-fg) font-medium mb-1">Centre for Civil Society</p>
+      <a href="https://ccs.in" class="text-(--color-fg-muted) hover:text-(--color-fg)">ccs.in</a>
+    </div>
+    <div>
+      <h2 class="font-(family-name:--font-ui) text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">In partnership with</h2>
+      <p class="text-(--color-fg) font-medium mb-1">Friedrich Naumann Foundation for Freedom</p>
+      <p class="text-(--color-fg-muted) text-xs leading-relaxed">
+        Site rebuilt by <a href="https://thothica.com" class="text-(--color-fg-muted) hover:text-(--color-fg)">Thothica</a>.
+      </p>
+    </div>
+  </div>
+  <div class="border-t border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
+      <p>© 2009–{year} Centre for Civil Society. All rights reserved.</p>
+      <nav aria-label="Footer">
+        <ul class="flex items-center gap-4">
+          <li><a href="/terms-of-use/" class="hover:text-(--color-fg)">Terms of use</a></li>
+          <li><a href="/privacy-policy/" class="hover:text-(--color-fg)">Privacy policy</a></li>
+          <li><a href="/llms.txt" class="hover:text-(--color-fg)">/llms.txt</a></li>
+          <li><a href="/AGENTS.md" class="hover:text-(--color-fg)">/AGENTS.md</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,108 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const thinkers = await getCollection("thinkers", (t) => !t.data.draft);
+  return thinkers.map((t) => ({ params: { slug: t.id }, props: { t } }));
+}
+
+const { t } = Astro.props;
+const { Content } = await render(t);
+
+const treatment = t.data.portrait?.caricature
+  ? { src: t.data.portrait.caricature, kind: "caricature" as const }
+  : t.data.portrait?.ring_portrait
+    ? { src: t.data.portrait.ring_portrait, kind: "ring" as const }
+    : t.data.portrait?.photo
+      ? { src: t.data.portrait.photo, kind: "photo" as const }
+      : null;
+
+const datesStr =
+  t.data.birth_year && t.data.death_year
+    ? `${t.data.birth_year}–${t.data.death_year}`
+    : t.data.birth_year
+      ? `b. ${t.data.birth_year}`
+      : "";
+
+const bioSourceLabel = {
+  canonical: "Canonical bio",
+  feature_article: "From feature article",
+  ai_drafted: "Draft — under review",
+  imported: "Imported from previous site",
+}[t.data.bio_source];
+---
+
+<BaseLayout
+  title={`${t.data.name.canonical} — Indian Liberals`}
+  description={`Biographical profile of ${t.data.name.canonical}${datesStr ? ` (${datesStr})` : ""}.`}
+>
+  <article class="mx-auto max-w-4xl px-6 py-12 md:py-16">
+    <header class="border-b border-(--color-border) pb-10 mb-10 grid md:grid-cols-[auto_1fr] gap-8 items-start">
+      {treatment && (
+        <div class="w-40 md:w-48 aspect-[3/4] bg-(--color-bg-muted) rounded-sm overflow-hidden flex items-end justify-center">
+          <img
+            src={treatment.src}
+            alt={`Portrait of ${t.data.name.canonical}`}
+            width="288"
+            height="384"
+            class={treatment.kind === "ring" ? "w-full h-full object-cover" : "w-full h-full object-contain object-bottom"}
+          />
+        </div>
+      )}
+      <div>
+        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+          {t.data.tradition.replace(/_/g, " ")}
+        </p>
+        <h1 class="text-(--color-fg) leading-tight">{t.data.name.canonical}</h1>
+        {t.data.name.full && t.data.name.full !== t.data.name.canonical && (
+          <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-lg mt-1">
+            {t.data.name.full}
+          </p>
+        )}
+        {datesStr && (
+          <p class="text-(--color-fg-muted) font-(family-name:--font-ui) mt-3 text-base">{datesStr}</p>
+        )}
+        {t.data.name.also_known_as.length > 0 && (
+          <p class="text-(--color-fg-muted) text-sm mt-3 font-(family-name:--font-ui)">
+            Also known as: {t.data.name.also_known_as.join(", ")}
+          </p>
+        )}
+        <p class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mt-6">
+          {bioSourceLabel}
+        </p>
+      </div>
+    </header>
+
+    <div class="prose-container">
+      <div class="text-(--color-fg) leading-relaxed [&_p]:my-5 [&_p]:text-[1.0625rem] [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted)">
+        <Content />
+      </div>
+    </div>
+
+    {(t.data.themes.length > 0 || t.data.affiliations.length > 0) && (
+      <aside class="mt-12 pt-8 border-t border-(--color-border) grid md:grid-cols-2 gap-8 font-(family-name:--font-ui) text-sm">
+        {t.data.themes.length > 0 && (
+          <div>
+            <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Themes</h2>
+            <ul class="flex flex-wrap gap-2">
+              {t.data.themes.map((th) => (
+                <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg)">{th.replace(/_/g, " ")}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {t.data.affiliations.length > 0 && (
+          <div>
+            <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Affiliations</h2>
+            <ul class="space-y-1">
+              {t.data.affiliations.map((a) => (
+                <li><a href={`/organisations/${a}/`} class="text-(--color-forest-700)">{a.replace(/-/g, " ")}</a></li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </aside>
+    )}
+  </article>
+</BaseLayout>

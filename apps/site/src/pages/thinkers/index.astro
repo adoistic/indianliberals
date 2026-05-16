@@ -1,0 +1,75 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const thinkers = (await getCollection("thinkers", (t) => !t.data.draft)).sort(
+  (a, b) => a.data.name.sort.localeCompare(b.data.name.sort),
+);
+
+const treatmentFor = (t: typeof thinkers[number]) => {
+  if (t.data.portrait?.caricature) return { src: t.data.portrait.caricature, kind: "caricature" } as const;
+  if (t.data.portrait?.ring_portrait) return { src: t.data.portrait.ring_portrait, kind: "ring" } as const;
+  if (t.data.portrait?.photo) return { src: t.data.portrait.photo, kind: "photo" } as const;
+  return null;
+};
+---
+
+<BaseLayout
+  title="Thinkers — Indian Liberals"
+  description="Biographical profiles of figures in the Indian liberal tradition, from Raja Ram Mohan Roy through the Swatantra-era classical liberals to contemporary commentators."
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Thinkers
+      </p>
+      <h1 class="text-(--color-fg) mb-4">Figures in the Indian liberal tradition</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Biographies, bibliographies, and cross-links between the people who shaped the case for individual liberty, free enterprise, and constitutional governance in modern India.
+      </p>
+    </div>
+  </section>
+  <section>
+    <div class="mx-auto max-w-6xl px-6 py-12">
+      <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
+        {thinkers.length} thinkers in the catalog.
+      </p>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
+        {thinkers.map((t) => {
+          const treatment = treatmentFor(t);
+          return (
+            <a href={`/thinkers/${t.id}/`} class="group block no-underline">
+              <div class="aspect-[3/4] bg-(--color-bg-muted) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
+                {treatment ? (
+                  <img
+                    src={treatment.src}
+                    alt=""
+                    width="240"
+                    height="320"
+                    loading="lazy"
+                    class={treatment.kind === "ring"
+                      ? "w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
+                      : "w-full h-full object-contain object-bottom group-hover:scale-[1.02] transition-transform duration-300"
+                    }
+                  />
+                ) : (
+                  <div class="w-full h-full flex items-center justify-center text-(--color-fg-muted) font-(family-name:--font-display)">
+                    <span class="text-4xl">·</span>
+                  </div>
+                )}
+              </div>
+              <h3 class="mt-3 font-(family-name:--font-display) font-semibold text-(--color-fg) leading-tight group-hover:text-(--color-saffron-700) transition-colors">
+                {t.data.name.canonical}
+              </h3>
+              {t.data.birth_year && (
+                <p class="text-sm text-(--color-fg-muted) font-(family-name:--font-ui) mt-0.5">
+                  {t.data.birth_year}–{t.data.death_year ?? ""}
+                </p>
+              )}
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

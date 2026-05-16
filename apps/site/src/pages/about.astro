@@ -1,0 +1,42 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="About — Indian Liberals"
+  description="About the Indian Liberals project: who maintains it, why it exists, and how it works."
+>
+  <article class="mx-auto max-w-3xl px-6 py-16">
+    <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+      About
+    </p>
+    <h1 class="mb-8">A modern home for the Indian liberal tradition.</h1>
+
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem]">
+      <p class="my-5">
+        Indian Liberals is a digital archive of primary works by historically significant Indian liberal thinkers, alongside thinker profiles, organisation pages, curated excerpts (&ldquo;musings&rdquo;), opinion pieces, interviews, and a federated feed from ThePrint&rsquo;s &ldquo;Indian Liberals Matter&rdquo; column.
+      </p>
+      <p class="my-5">
+        The archive is maintained by the <a href="https://ccs.in" class="text-(--color-forest-700)">Centre for Civil Society</a> in partnership with the Friedrich Naumann Foundation for Freedom. The site you are reading was rebuilt by <a href="https://thothica.com" class="text-(--color-forest-700)">Thothica</a> using the same architectural template that powers <a href="https://falsafa.ai" class="text-(--color-forest-700)">Falsafa</a> and <a href="https://libertylighthouse.ccs.in" class="text-(--color-forest-700)">Liberty Lighthouse</a>.
+      </p>
+
+      <h2 class="mt-12 mb-4 text-(--color-fg)">What you&rsquo;ll find here</h2>
+      <p class="my-5">
+        Eight content kinds, organised in two tiers. <strong>Tier A</strong> is already-clean content — musings, opinion pieces, interviews, thinker profiles, organisation pages, and the ThePrint mirror — fully searchable and paragraph-citable. <strong>Tier B</strong> is the primary-work and periodical PDFs — surfaced with rich AI-extracted metadata, summaries, and key points, with the PDF itself as the canonical reference.
+      </p>
+
+      <h2 class="mt-12 mb-4 text-(--color-fg)">For researchers and AI agents</h2>
+      <p class="my-5">
+        Every HTML page has a markdown sibling at the same URL with <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">.md</code> appended. The curated index lives at <a href="/llms.txt" class="text-(--color-forest-700)">/llms.txt</a>; the full archive (every Tier A piece in full, every Tier B summary) lives at <a href="/llms-full.txt" class="text-(--color-forest-700)">/llms-full.txt</a>. The schema, citation rules, and tier system are documented at <a href="/AGENTS.md" class="text-(--color-forest-700)">/AGENTS.md</a>.
+      </p>
+      <p class="my-5">
+        A Model Context Protocol server at <a href="https://mcp.indianliberals.in" class="text-(--color-forest-700)">mcp.indianliberals.in</a> exposes eight tools that return text and structure. The host LLM (whichever client you use) does the reasoning; the server stays simple.
+      </p>
+
+      <h2 class="mt-12 mb-4 text-(--color-fg)">Citation</h2>
+      <p class="my-5">
+        Tier A pieces carry paragraph-stable IDs of the form <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">#p-xxxxxx</code> — deep-link citable. Tier B primary-work claims should be attributed at summary-level to Indian Liberals and link directly to the PDF for the underlying source. The full citation policy is in <a href="/AGENTS.md" class="text-(--color-forest-700)">/AGENTS.md</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

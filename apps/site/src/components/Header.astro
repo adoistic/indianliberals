@@ -1,0 +1,59 @@
+---
+const nav = [
+  { label: "Thinkers", href: "/thinkers/" },
+  { label: "Primary works", href: "/primary-works/" },
+  { label: "Periodicals", href: "/periodicals/" },
+  { label: "Organisations", href: "/organisations/" },
+  { label: "Musings", href: "/musings/" },
+  { label: "Opinions", href: "/opinions/" },
+  { label: "Interviews", href: "/interviews/" },
+  { label: "About", href: "/about/" },
+];
+
+const path = Astro.url.pathname;
+---
+
+<header class="border-b border-(--color-border) bg-(--color-bg)">
+  <div class="mx-auto max-w-6xl px-6 py-5 flex items-center justify-between gap-8">
+    <a href="/" class="flex items-center gap-3 no-underline" aria-label="Indian Liberals home">
+      <img src="/brand/brand-mark-crane.png" alt="" class="h-9 w-9" width="36" height="36" />
+      <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg)">
+        Indian Liberals
+      </span>
+    </a>
+    <nav aria-label="Primary" class="hidden md:block">
+      <ul class="flex items-center gap-6 text-sm font-(family-name:--font-ui)">
+        {nav.map((item) => {
+          const active = path === item.href || (item.href !== "/" && path.startsWith(item.href));
+          return (
+            <li>
+              <a
+                href={item.href}
+                class:list={[
+                  "no-underline text-(--color-fg-muted) hover:text-(--color-fg) transition-colors",
+                  active && "text-(--color-saffron-700) font-semibold",
+                ]}
+                aria-current={active ? "page" : undefined}
+              >
+                {item.label}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </nav>
+    <details class="md:hidden relative">
+      <summary class="list-none cursor-pointer text-(--color-fg-muted) p-2">
+        <span class="sr-only">Open menu</span>
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </summary>
+      <ul class="absolute right-0 top-full mt-2 w-56 bg-(--color-bg) border border-(--color-border) rounded shadow-lg p-2 z-10">
+        {nav.map((item) => (
+          <li>
+            <a href={item.href} class="block px-3 py-2 no-underline text-(--color-fg-muted) hover:text-(--color-fg) hover:bg-(--color-bg-muted) rounded">{item.label}</a>
+          </li>
+        ))}
+      </ul>
+    </details>
+  </div>
+</header>

@@ -1,0 +1,34 @@
+{
+  "name": "@indianliberals/site",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Astro static site for indianliberals.in — the digital archive of the Indian liberal tradition.",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.6.6",
+    "@astrojs/mdx": "^4.3.6",
+    "@astrojs/rss": "^4.0.13",
+    "@astrojs/sitemap": "^3.6.0",
+    "@fontsource/source-sans-3": "^5.2.7",
+    "@fontsource/source-serif-4": "^5.2.7",
+    "@fontsource/noto-serif-devanagari": "^5.2.7",
+    "@fontsource/noto-serif-gujarati": "^5.2.7",
+    "astro": "^5.16.4",
+    "tailwindcss": "^4.1.16",
+    "@tailwindcss/vite": "^4.1.16"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "prettier": "^3.4.2",
+    "prettier-plugin-astro": "^0.14.1",
+    "typescript": "^5.7.3"
+  }
+}

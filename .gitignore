@@ -57,3 +57,7 @@ proposal*.pdf
 .mf/
 .miniflare/
 wrangler.toml.bak
+.gstack/
+
+# Internal working material (audits, drafts) — never published
+/docs/internal/
