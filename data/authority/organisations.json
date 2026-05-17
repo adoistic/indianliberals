@@ -1,0 +1,180 @@
+{
+  "_meta": {
+    "count": 21,
+    "purpose": "seed organisation list for authority file"
+  },
+  "organisations": [
+    {
+      "id": "forum-of-free-enterprise",
+      "canonical": "Forum of Free Enterprise",
+      "also_known_as": [
+        "FFE",
+        "the Forum"
+      ],
+      "founded_year": 1956,
+      "type": "think_tank"
+    },
+    {
+      "id": "swatantra-party",
+      "canonical": "Swatantra Party",
+      "also_known_as": [
+        "Swatantra"
+      ],
+      "founded_year": 1959,
+      "dissolved_year": 1974,
+      "type": "political_party"
+    },
+    {
+      "id": "indian-liberal-group",
+      "canonical": "Indian Liberal Group",
+      "also_known_as": [
+        "ILG",
+        "IL Group"
+      ],
+      "founded_year": 2000,
+      "type": "think_tank"
+    },
+    {
+      "id": "shetkari-sanghatana",
+      "canonical": "Shetkari Sanghatana",
+      "also_known_as": [
+        "Shetkari Sanghatak"
+      ],
+      "founded_year": 1979,
+      "type": "reform_society"
+    },
+    {
+      "id": "centre-for-civil-society",
+      "canonical": "Centre for Civil Society",
+      "also_known_as": [
+        "CCS"
+      ],
+      "founded_year": 1997,
+      "type": "think_tank"
+    },
+    {
+      "id": "liberty-institute",
+      "canonical": "Liberty Institute",
+      "founded_year": 1996,
+      "type": "think_tank"
+    },
+    {
+      "id": "all-india-liberal-federation",
+      "canonical": "All India Liberal Federation",
+      "also_known_as": [
+        "AILF"
+      ],
+      "type": "political_party"
+    },
+    {
+      "id": "friedrich-naumann-foundation",
+      "canonical": "Friedrich Naumann Foundation",
+      "also_known_as": [
+        "FNF",
+        "Friedrich Naumann Foundation for Freedom"
+      ],
+      "type": "international_network"
+    },
+    {
+      "id": "liberal-international",
+      "canonical": "Liberal International",
+      "founded_year": 1947,
+      "type": "international_network"
+    },
+    {
+      "id": "atlas-network",
+      "canonical": "Atlas Network",
+      "also_known_as": [
+        "Atlas Economic Research Foundation"
+      ],
+      "type": "international_network"
+    },
+    {
+      "id": "mont-pelerin-society",
+      "canonical": "Mont Pelerin Society",
+      "founded_year": 1947,
+      "type": "international_network"
+    },
+    {
+      "id": "hoover-institution",
+      "canonical": "Hoover Institution",
+      "founded_year": 1919,
+      "type": "academic"
+    },
+    {
+      "id": "indian-national-congress",
+      "canonical": "Indian National Congress",
+      "also_known_as": [
+        "Congress",
+        "INC"
+      ],
+      "founded_year": 1885,
+      "type": "political_party"
+    },
+    {
+      "id": "congress-socialist-party",
+      "canonical": "Congress Socialist Party",
+      "also_known_as": [
+        "CSP"
+      ],
+      "founded_year": 1934,
+      "dissolved_year": 1948,
+      "type": "political_party"
+    },
+    {
+      "id": "planning-commission-india",
+      "canonical": "Planning Commission of India",
+      "founded_year": 1950,
+      "dissolved_year": 2014,
+      "type": "academic"
+    },
+    {
+      "id": "indian-merchants-chamber",
+      "canonical": "Indian Merchants' Chamber",
+      "also_known_as": [
+        "IMC"
+      ],
+      "founded_year": 1907,
+      "type": "professional_body"
+    },
+    {
+      "id": "federation-of-indian-chambers-of-commerce",
+      "canonical": "Federation of Indian Chambers of Commerce and Industry",
+      "also_known_as": [
+        "FICCI"
+      ],
+      "founded_year": 1927,
+      "type": "professional_body"
+    },
+    {
+      "id": "bombay-stock-exchange",
+      "canonical": "Bombay Stock Exchange",
+      "also_known_as": [
+        "BSE"
+      ],
+      "founded_year": 1875,
+      "type": "professional_body"
+    },
+    {
+      "id": "ncaer",
+      "canonical": "National Council of Applied Economic Research",
+      "also_known_as": [
+        "NCAER"
+      ],
+      "founded_year": 1956,
+      "type": "academic"
+    },
+    {
+      "id": "tata-sons",
+      "canonical": "Tata Sons",
+      "founded_year": 1917,
+      "type": "publisher_org"
+    },
+    {
+      "id": "bharatiya-vidya-bhavan",
+      "canonical": "Bharatiya Vidya Bhavan",
+      "founded_year": 1938,
+      "type": "academic"
+    }
+  ]
+}

@@ -1,0 +1,2656 @@
+{
+  "_meta": {
+    "version": "v1-seed-2026-05-17",
+    "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
+    "counts": {
+      "total": 199,
+      "canonical": 43,
+      "high": 92,
+      "medium": 64
+    },
+    "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts."
+  },
+  "thinkers": [
+    {
+      "id": "a-ranganathan",
+      "name": {
+        "canonical": "A Ranganathan",
+        "sort": "Ranganathan, A"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "content/theprint-mirror/english-didnt-enslave-india-it-was-the-harbinger-of-a-new-creative-consciousness-a-ranganathan.md",
+        "content/theprint-mirror/jawaharlal-nehru-sc-compensation-a-ranganathan.md"
+      ]
+    },
+    {
+      "id": "a-d-shroff",
+      "name": {
+        "canonical": "A. D. Shroff",
+        "full": "Ardeshir Darabshaw Shroff",
+        "sort": "Shroff, A. D.",
+        "also_known_as": [
+          "AD Shroff",
+          "A.D. Shroff"
+        ]
+      },
+      "birth_year": 1899,
+      "death_year": 1965,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author"
+      ]
+    },
+    {
+      "id": "ad-shroff",
+      "name": {
+        "canonical": "AD Shroff",
+        "sort": "Shroff, AD"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "content/theprint-mirror/ad-shroff-socialism-free-enterprise-lessons.md",
+        "content/theprint-mirror/private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule.md",
+        "pdf-filename/forum-of-free-enterprise/free-enterprise-in-india-a-call-for leadership-by-Ad-shroff-November-8-1961.pdf",
+        "pdf-filename/forum-of-free-enterprise/free-enterprise-will-survive-as-long-as-man-survives-by-ad-shroff-december-31-1958.pdf",
+        "pdf-filename/forum-of-free-enterprise/liberty-to-trade-endangered-by-ad-shroff-january-16-1957.pdf",
+        "pdf-filename/forum-of-free-enterprise/we-are-heading-towards-a-man-made-economic-crisis-by-ad-shroff-february-23-1957.pdf"
+      ]
+    },
+    {
+      "id": "arun-shourie",
+      "name": {
+        "canonical": "Arun Shourie",
+        "full": "Arun Shourie",
+        "sort": "Shourie, Arun"
+      },
+      "birth_year": 1941,
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "b-r-shenoy",
+      "name": {
+        "canonical": "B. R. Shenoy",
+        "full": "Bellikoth Raghunath Shenoy",
+        "sort": "Shenoy, B. R.",
+        "also_known_as": [
+          "BR Shenoy",
+          "B.R. Shenoy"
+        ]
+      },
+      "birth_year": 1905,
+      "death_year": 1978,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author"
+      ]
+    },
+    {
+      "id": "br-shenoy",
+      "name": {
+        "canonical": "BR Shenoy",
+        "sort": "Shenoy, BR"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "content/theprint-mirror/planning-free-market-state-control-india-poverty-br-shenoy.md",
+        "content/theprint-mirror/social-injustice-socialist-economic-systems-br-shenoy.md"
+      ]
+    },
+    {
+      "id": "begum-rokeya",
+      "name": {
+        "canonical": "Begum Rokeya",
+        "full": "Rokeya Sakhawat Hossain",
+        "sort": "Rokeya, Begum",
+        "also_known_as": [
+          "Begum Rokeya Sakhawat Hossain",
+          "Rokeya"
+        ]
+      },
+      "birth_year": 1880,
+      "death_year": 1932,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "c-rajagopalachari",
+      "name": {
+        "canonical": "C. Rajagopalachari",
+        "full": "Chakravarti Rajagopalachari",
+        "sort": "Rajagopalachari, C.",
+        "also_known_as": [
+          "Rajaji",
+          "C.R."
+        ]
+      },
+      "birth_year": 1878,
+      "death_year": 1972,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "wp_author",
+        "content/theprint-mirror/state-control-india-progress-exploitation-c-rajagopalachari.md"
+      ]
+    },
+    {
+      "id": "christopher-lingle",
+      "name": {
+        "canonical": "Christopher Lingle",
+        "full": "Christopher Lingle",
+        "sort": "Lingle, Christopher"
+      },
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "d-r-pendse",
+      "name": {
+        "canonical": "D. R. Pendse",
+        "full": "Datta R. Pendse",
+        "sort": "Pendse, D. R.",
+        "also_known_as": [
+          "DR Pendse",
+          "D.R. Pendse"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author"
+      ]
+    },
+    {
+      "id": "muthulakshmi-reddi",
+      "name": {
+        "canonical": "Dr. Muthulakshmi Reddi",
+        "sort": "Reddi, Dr. Muthulakshmi"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "thinkers_collection"
+      ]
+    },
+    {
+      "id": "friedrich-hayek",
+      "name": {
+        "canonical": "Friedrich Hayek",
+        "full": "Friedrich August von Hayek",
+        "sort": "Hayek, Friedrich"
+      },
+      "birth_year": 1899,
+      "death_year": 1992,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "frederic-bastiat",
+      "name": {
+        "canonical": "Frédéric Bastiat",
+        "full": "Claude-Frédéric Bastiat",
+        "sort": "Bastiat, Frédéric",
+        "also_known_as": [
+          "Frederic Bastiat"
+        ]
+      },
+      "birth_year": 1801,
+      "death_year": 1850,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "g-n-lawande",
+      "name": {
+        "canonical": "G N Lawande",
+        "sort": "Lawande, G N"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "content/theprint-mirror/communism-assumptions-gn-lawande.md",
+        "content/theprint-mirror/planning-unemployment-india-five-year-plans.md",
+        "content/theprint-mirror/welfare-state-is-socially-and-economically-a-national-disaster-gn-lawande.md"
+      ]
+    },
+    {
+      "id": "gopal-krishna-gokhale",
+      "name": {
+        "canonical": "Gopal Krishna Gokhale",
+        "full": "Gopal Krishna Gokhale",
+        "sort": "Gokhale, Gopal Krishna",
+        "also_known_as": [
+          "Gokhale"
+        ]
+      },
+      "birth_year": 1866,
+      "death_year": 1915,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "hp-ranina",
+      "name": {
+        "canonical": "HP Ranina",
+        "sort": "Ranina, HP"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/a-historic-budget-by-hp-ranina-april-13-1994.pdf",
+        "pdf-filename/forum-of-free-enterprise/the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-HP-ranina-april-13-1993.pdf",
+        "pdf-filename/forum-of-free-enterprise/union-budget-1990-91-will-not-solve-economic-problems-by-hp-ranina-may-13-1990.pdf",
+        "pdf-filename/forum-of-free-enterprise/union-budget-1997-98-by-hp-ranina-march-15-1997.pdf",
+        "pdf-filename/forum-of-free-enterprise/union-budget-of-1989-90-provides-no-remedies-for-economic-ills-by-hp-ranina-april-12-1989.pdf"
+      ]
+    },
+    {
+      "id": "ishwar-chandra-vidyasagar",
+      "name": {
+        "canonical": "Ishwar Chandra Vidyasagar",
+        "full": "Ishwar Chandra Bandyopadhyay",
+        "sort": "Vidyasagar, Ishwar Chandra",
+        "also_known_as": [
+          "Vidyasagar",
+          "Ishwarchandra Vidyasagar"
+        ]
+      },
+      "birth_year": 1820,
+      "death_year": 1891,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "janaki-ammal",
+      "name": {
+        "canonical": "Janaki Ammal",
+        "full": "Edavalath Kakkat Janaki Ammal",
+        "sort": "Ammal, Janaki",
+        "also_known_as": [
+          "E.K. Janaki Ammal"
+        ]
+      },
+      "birth_year": 1897,
+      "death_year": 1984,
+      "tradition": "reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "jiban-mukhopadhyay",
+      "name": {
+        "canonical": "Jiban Mukhopadhyay",
+        "sort": "Mukhopadhyay, Jiban"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/indias-balance-of-payments-problem-by-jiban-k-mukhopadhyay-july-14-1989.pdf",
+        "pdf-filename/forum-of-free-enterprise/what-india-needs-a-perspective-by-jiban-k-mukhopadhyay-2005.pdf"
+      ]
+    },
+    {
+      "id": "lady-abala-bose",
+      "name": {
+        "canonical": "Lady Abala Bose",
+        "full": "Abala Bose",
+        "sort": "Bose, Lady Abala",
+        "also_known_as": [
+          "Abala Bose"
+        ]
+      },
+      "birth_year": 1864,
+      "death_year": 1951,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "m-r-pai",
+      "name": {
+        "canonical": "M. R. Pai",
+        "full": "Madhav Ramachandra Pai",
+        "sort": "Pai, M. R.",
+        "also_known_as": [
+          "MR Pai",
+          "M.R. Pai"
+        ]
+      },
+      "birth_year": 1930,
+      "death_year": 2003,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author"
+      ]
+    },
+    {
+      "id": "ma-sreenivasan",
+      "name": {
+        "canonical": "MA Sreenivasan",
+        "sort": "Sreenivasan, MA"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964.pdf",
+        "pdf-filename/forum-of-free-enterprise/grow-more-votes-by-ma-sreenivasan-february-8-1960.pdf",
+        "pdf-filename/forum-of-free-enterprise/milestones-and-millstones-of-planning-by-MA-Sreenivasan-January-5-1963.pdf",
+        "pdf-filename/forum-of-free-enterprise/the-juggernaut-of-avadi-by-ma-sreenivasan-1956.pdf"
+      ]
+    },
+    {
+      "id": "ma-venkata-rao",
+      "name": {
+        "canonical": "MA Venkata Rao",
+        "sort": "Rao, MA Venkata"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "content/theprint-mirror/collectivism-liberty-limited-state-ma-venkata-rao.md",
+        "content/theprint-mirror/congress-alcohol-ban-ma-venkata-rao.md",
+        "content/theprint-mirror/marxism-democratic-rights-ma-venkata-rao.md",
+        "content/theprint-mirror/russian-socialism-nehru-imagination.md",
+        "content/theprint-mirror/worker-in-socialist-society-india-ma-venkata-rao.md"
+      ]
+    },
+    {
+      "id": "mh-mody",
+      "name": {
+        "canonical": "MH Mody",
+        "sort": "Mody, MH"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "content/theprint-mirror/indian-bureaucracy-incentives-rewards.md",
+        "content/theprint-mirror/power-of-trade-unions-mh-mody.md"
+      ]
+    },
+    {
+      "id": "minoo-masani",
+      "name": {
+        "canonical": "Minoo Masani",
+        "full": "Minocher Rustom Masani",
+        "sort": "Masani, Minoo"
+      },
+      "birth_year": 1905,
+      "death_year": 1998,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author",
+        "content/theprint-mirror/free-enterprise-in-economic-life-minoo-masani.md",
+        "content/theprint-mirror/minoo-masani-liberalism-free-markets-india.md",
+        "content/theprint-mirror/minoo-masani-liberalism-vs-socialism-liberal-democracy.md",
+        "content/theprint-mirror/prices-like-water-will-find-their-own-level-controls-breed-vested-interests-minoo-masani.md",
+        "content/theprint-mirror/socialism-democracy-minoo-masani.md"
+      ]
+    },
+    {
+      "id": "mithan-tata-lam",
+      "name": {
+        "canonical": "Mithan Tata Lam",
+        "full": "Mithan Jamshed Lam",
+        "sort": "Lam, Mithan Tata",
+        "also_known_as": [
+          "Mithan Lam",
+          "Mithan Tata"
+        ]
+      },
+      "birth_year": 1898,
+      "death_year": 1981,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection"
+      ]
+    },
+    {
+      "id": "muthulakshmi-reddi-2",
+      "name": {
+        "canonical": "Muthulakshmi Reddi",
+        "full": "Muthulakshmi Reddi",
+        "sort": "Reddi, Muthulakshmi",
+        "also_known_as": [
+          "S. Muthulakshmi Reddy"
+        ]
+      },
+      "birth_year": 1886,
+      "death_year": 1968,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "na-palkhivala",
+      "name": {
+        "canonical": "NA Palkhivala",
+        "sort": "Palkhivala, NA"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/the-union-budget-1990-91-by-na-palkhivala-april-20-1990.pdf",
+        "pdf-filename/forum-of-free-enterprise/the-union-budget-1992-93-by-na-palkhivala-march-3-1992.pdf"
+      ]
+    },
+    {
+      "id": "nani-palkhivala",
+      "name": {
+        "canonical": "Nani Palkhivala",
+        "full": "Nanabhoy Ardeshir Palkhivala",
+        "sort": "Palkhivala, Nani",
+        "also_known_as": [
+          "Nani A. Palkhivala",
+          "N. A. Palkhivala"
+        ]
+      },
+      "birth_year": 1920,
+      "death_year": 2002,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author",
+        "content/theprint-mirror/india-labour-policy-competition-eastern-economies-nani-a-palkhivala.md",
+        "content/theprint-mirror/like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala.md",
+        "content/theprint-mirror/nani-palkhivala-poverty-economic-growth-liberalism.md",
+        "pdf-filename/forum-of-free-enterprise/forty-three-years-of-independence-by-nani-a-palkhivala-january-18-1991.pdf"
+      ]
+    },
+    {
+      "id": "pandita-ramabai",
+      "name": {
+        "canonical": "Pandita Ramabai",
+        "full": "Pandita Ramabai Sarasvati",
+        "sort": "Ramabai, Pandita",
+        "also_known_as": [
+          "Ramabai"
+        ]
+      },
+      "birth_year": 1858,
+      "death_year": 1922,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection"
+      ]
+    },
+    {
+      "id": "peter-bauer",
+      "name": {
+        "canonical": "Peter Bauer",
+        "full": "Peter Thomas Bauer",
+        "sort": "Bauer, Peter"
+      },
+      "birth_year": 1915,
+      "death_year": 2002,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "prof-cn-vakil",
+      "name": {
+        "canonical": "Prof CN Vakil",
+        "sort": "Vakil, Prof CN"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/some-contradictions-in-the-plan-by-prof-cn-vakil-october-30-1956.pdf",
+        "pdf-filename/forum-of-free-enterprise/the-problem-of-foreign-exchange-by-prof-cn-vakil-may-8-1961.pdf"
+      ]
+    },
+    {
+      "id": "rabindranath-tagore",
+      "name": {
+        "canonical": "Rabindranath Tagore",
+        "full": "Rabindranath Thakur",
+        "sort": "Tagore, Rabindranath",
+        "also_known_as": [
+          "Tagore"
+        ]
+      },
+      "birth_year": 1861,
+      "death_year": 1941,
+      "tradition": "reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "raja-ram-mohan-roy",
+      "name": {
+        "canonical": "Raja Ram Mohan Roy",
+        "full": "Rammohun Roy",
+        "sort": "Roy, Raja Ram Mohan",
+        "also_known_as": [
+          "Ram Mohan Roy",
+          "Rammohun Roy"
+        ]
+      },
+      "birth_year": 1772,
+      "death_year": 1833,
+      "tradition": "reformer",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection"
+      ]
+    },
+    {
+      "id": "rajaji",
+      "name": {
+        "canonical": "Rajaji",
+        "sort": "Rajaji"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "thinkers_collection"
+      ]
+    },
+    {
+      "id": "russi-mody",
+      "name": {
+        "canonical": "Russi Mody",
+        "sort": "Mody, Russi"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/What-Ails-India-By-Russi-Mody-January-15-1990.pdf",
+        "pdf-filename/forum-of-free-enterprise/spirit-of-free-enterprise-by-russi-mody-december-14-1991.pdf"
+      ]
+    },
+    {
+      "id": "s-v-raju",
+      "name": {
+        "canonical": "S. V. Raju",
+        "full": "Sundaram Venkateswaran Raju",
+        "sort": "Raju, S. V.",
+        "also_known_as": [
+          "SV Raju",
+          "S.V. Raju"
+        ]
+      },
+      "birth_year": 1933,
+      "death_year": 2015,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author"
+      ]
+    },
+    {
+      "id": "sh-batlivala",
+      "name": {
+        "canonical": "SH Batlivala",
+        "sort": "Batlivala, SH"
+      },
+      "confidence": "canonical",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/dangers-of-wealth-tax-by-sh-batlivala-may-26-1957.pdf",
+        "pdf-filename/forum-of-free-enterprise/is-socialism-the-right-path-by-sh-batlivala-december-29-1956.pdf"
+      ]
+    },
+    {
+      "id": "sauvik-chakraverti",
+      "name": {
+        "canonical": "Sauvik Chakraverti",
+        "full": "Sauvik Chakraverti",
+        "sort": "Chakraverti, Sauvik"
+      },
+      "death_year": 2017,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author",
+        "content/theprint-mirror/population-poverty-prosperity-sauvik-chakraverti.md"
+      ]
+    },
+    {
+      "id": "sharad-anantrao-joshi",
+      "name": {
+        "canonical": "Sharad Anantrao Joshi",
+        "sort": "Joshi, Sharad Anantrao"
+      },
+      "brief_bio": "Sharad Anantrao Joshi (born 1935) is the founder of Shetkari Sanghatana and Swatantra Bharat Paksha party; and has served as a Member of Parliament.",
+      "image_filename_hint": "coverimg_13_Sharad Joshi.jpg",
+      "confidence": "canonical",
+      "sources": [
+        "wp_author"
+      ]
+    },
+    {
+      "id": "sharad-joshi",
+      "name": {
+        "canonical": "Sharad Joshi",
+        "full": "Sharad Anantrao Joshi",
+        "sort": "Joshi, Sharad",
+        "also_known_as": [
+          "Sharad Anantrao Joshi"
+        ]
+      },
+      "birth_year": 1935,
+      "death_year": 2015,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "content/theprint-mirror/farmers-agitations-coimbatore-ludhiana-sharad-joshi.md",
+        "content/theprint-mirror/indian-liberalism-vedanta-nehruvian-socialism.md"
+      ]
+    },
+    {
+      "id": "sudha-r-shenoy",
+      "name": {
+        "canonical": "Sudha R. Shenoy",
+        "full": "Sudha Rabindranath Shenoy",
+        "sort": "Shenoy, Sudha R."
+      },
+      "birth_year": 1943,
+      "death_year": 2008,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "proposal",
+        "thinkers_collection",
+        "wp_author"
+      ]
+    },
+    {
+      "id": "tom-g-palmer",
+      "name": {
+        "canonical": "Tom G. Palmer",
+        "full": "Tom Gordon Palmer",
+        "sort": "Palmer, Tom G."
+      },
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "proposal"
+      ]
+    },
+    {
+      "id": "a-d-shroff-champion-of-free-enterprise",
+      "name": {
+        "canonical": "A.D. Shroff - Champion of Free Enterprise",
+        "sort": "Enterprise, A.D. Shroff - Champion of Free"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/a-d-shroff-champion-of-free-enterprise.md"
+      ]
+    },
+    {
+      "id": "ag-mulgaokar",
+      "name": {
+        "canonical": "AG Mulgaokar",
+        "sort": "Mulgaokar, AG"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/fundamental-right-to-property-ag-mulgaokar.md"
+      ]
+    },
+    {
+      "id": "an-auxiliary-for-historians-the-contribution-of-older-austrians",
+      "name": {
+        "canonical": "An Auxiliary for Historians: The Contribution of Older Austrians",
+        "sort": "Austrians, An Auxiliary for Historians: The Contribution of Older"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/an-auxiliary-for-historians-the-contribution-of-older-austrians.md"
+      ]
+    },
+    {
+      "id": "arvind-lalbhai",
+      "name": {
+        "canonical": "Arvind Lalbhai",
+        "sort": "Lalbhai, Arvind"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/inefficient-entrepreneur-anti-social-arvind-narottam-lalbhai.md"
+      ]
+    },
+    {
+      "id": "ashok-desai",
+      "name": {
+        "canonical": "Ashok Desai",
+        "sort": "Desai, Ashok"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/economic-controls-in-india-liberalisation-history.md"
+      ]
+    },
+    {
+      "id": "bp-adarkar",
+      "name": {
+        "canonical": "BP Adarkar",
+        "sort": "Adarkar, BP"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/demonetisation-black-money-bp-adarkar.md"
+      ]
+    },
+    {
+      "id": "bp-godrej",
+      "name": {
+        "canonical": "BP Godrej",
+        "sort": "Godrej, BP"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/was-indias-public-sector-born-out-of-european-envy.md"
+      ]
+    },
+    {
+      "id": "br-shenoy-a-prophet-without-honour",
+      "name": {
+        "canonical": "BR Shenoy - A Prophet Without Honour?",
+        "sort": "Honour?, BR Shenoy - A Prophet Without"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/br-shenoy-a-prophet-without-honour.md"
+      ]
+    },
+    {
+      "id": "bs-iyer",
+      "name": {
+        "canonical": "BS Iyer",
+        "sort": "Iyer, BS"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/capitalism-mass-unemployment-japan-bs-iyer.md"
+      ]
+    },
+    {
+      "id": "bs-sanyal",
+      "name": {
+        "canonical": "BS Sanyal",
+        "sort": "Sanyal, BS"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/welfarism-poverty-indian-people-bs-sanyal.md"
+      ]
+    },
+    {
+      "id": "bollywood-and-cultural-change-in-attitude",
+      "name": {
+        "canonical": "Bollywood and Cultural Change in Attitude",
+        "sort": "Attitude, Bollywood and Cultural Change in"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/bollywood-and-cultural-change-in-attitude.md"
+      ]
+    },
+    {
+      "id": "centre-for-civil-society-a-journey-in-time",
+      "name": {
+        "canonical": "Centre for Civil Society : A Journey in Time",
+        "sort": "Time, Centre for Civil Society : A Journey in"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/centre-for-civil-society-a-journey-in-time.md"
+      ]
+    },
+    {
+      "id": "chakravarti-rajagopalachari-gandhi-s-conscience-keeper",
+      "name": {
+        "canonical": "Chakravarti Rajagopalachari - Gandhi's Conscience Keeper",
+        "sort": "Keeper, Chakravarti Rajagopalachari - Gandhi's Conscience"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/chakravarti-rajagopalachari-gandhis-conscience-keeper.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-doing-business-in-india-before-1991-reforms",
+      "name": {
+        "canonical": "D R Pendse on Doing Business in India before 1991 Reforms",
+        "sort": "Reforms, D R Pendse on Doing Business in India before 1991"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-doing-business-in-india-before-1991-reforms.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-indias-open-and-prosperous-past",
+      "name": {
+        "canonical": "D R Pendse on India’s ‘Open and Prosperous Past’",
+        "sort": "Past’, D R Pendse on India’s ‘Open and Prosperous"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-indias-open-and-prosperous-past.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-liberating-india-s-entrepreneurs",
+      "name": {
+        "canonical": "D R Pendse on Liberating India s Entrepreneurs",
+        "sort": "Entrepreneurs, D R Pendse on Liberating India s"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-liberating-india-s-entrepreneurs.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-think-tanks-and-the-power-of-ideas",
+      "name": {
+        "canonical": "D R Pendse on Think Tanks and the Power of Ideas",
+        "sort": "Ideas, D R Pendse on Think Tanks and the Power of"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-think-tanks-and-the-power-of-ideas.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-his-relationship-with-jrd-tata",
+      "name": {
+        "canonical": "D R Pendse on his Relationship with JRD Tata",
+        "sort": "Tata, D R Pendse on his Relationship with JRD"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-his-relationship-with-jrd-tata.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-the-1991-crisis",
+      "name": {
+        "canonical": "D R Pendse on the 1991 Crisis",
+        "sort": "Crisis, D R Pendse on the 1991"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-the-1991-crisis.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-the-criticism-he-faced-through-his-career",
+      "name": {
+        "canonical": "D R Pendse on the Criticism he faced through his Career",
+        "sort": "Career, D R Pendse on the Criticism he faced through his"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-the-criticism-he-faced-through-his-career.md"
+      ]
+    },
+    {
+      "id": "d-r-pendse-on-the-indian-liberal-tradition",
+      "name": {
+        "canonical": "D R Pendse on the Indian Liberal Tradition",
+        "sort": "Tradition, D R Pendse on the Indian Liberal"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/d-r-pendse-on-the-indian-liberal-tradition.md"
+      ]
+    },
+    {
+      "id": "dm-kulkarni",
+      "name": {
+        "canonical": "DM Kulkarni",
+        "sort": "Kulkarni, DM"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/henry-george-single-tax-land-value-taxation.md"
+      ]
+    },
+    {
+      "id": "dn-hosali",
+      "name": {
+        "canonical": "DN Hosali",
+        "sort": "Hosali, DN"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first.md"
+      ]
+    },
+    {
+      "id": "dr-pendse",
+      "name": {
+        "canonical": "DR Pendse",
+        "sort": "Pendse, DR"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/economist-dr-pendse-cut-expenditure-budget-deficit.md"
+      ]
+    },
+    {
+      "id": "did-bollywood-liberalise-india-or-did-india-liberalise-bollywood",
+      "name": {
+        "canonical": "Did Bollywood Liberalise India or Did India Liberalise Bollywood?",
+        "sort": "Bollywood?, Did Bollywood Liberalise India or Did India Liberalise"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/did-bollywood-liberalise-india-or-did-india-liberalise-bollywood.md"
+      ]
+    },
+    {
+      "id": "economic-growth-with-social-justice",
+      "name": {
+        "canonical": "Economic Growth with Social Justice",
+        "sort": "Justice, Economic Growth with Social"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/il-explainer-ep1-br-shenoy.md"
+      ]
+    },
+    {
+      "id": "forest-departments-incentives-and-the-environment",
+      "name": {
+        "canonical": "Forest Departments, Incentives and the Environment",
+        "sort": "Environment, Forest Departments, Incentives and the"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/forest-departments-incentives-and-the-environment.md"
+      ]
+    },
+    {
+      "id": "forest-rights-act-2006-the-struggle-for-implementation-part-i",
+      "name": {
+        "canonical": "Forest Rights Act, 2006 : The Struggle for Implementation - Part I",
+        "sort": "I, Forest Rights Act, 2006 : The Struggle for Implementation - Part"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/forest-rights-act-2006-the-struggle-for-implementation-part-i.md"
+      ]
+    },
+    {
+      "id": "forest-rights-act-2006-the-struggle-for-implementation-part-ii",
+      "name": {
+        "canonical": "Forest Rights Act, 2006: The Struggle for Implementation - Part II",
+        "sort": "Part, Forest Rights Act, 2006: The Struggle for Implementation - II"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/forest-rights-act-2006-the-struggle-for-implementation-part-ii.md"
+      ]
+    },
+    {
+      "id": "free-enterprise-and-freedom",
+      "name": {
+        "canonical": "Free Enterprise and Freedom",
+        "sort": "Freedom, Free Enterprise and"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/il-explainer-ep-5-free-enterprise-and-freedom.md"
+      ]
+    },
+    {
+      "id": "g-jayachandran",
+      "name": {
+        "canonical": "G Jayachandran",
+        "sort": "Jayachandran, G"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/indian-welfarists-right-property-life-liberty.md"
+      ]
+    },
+    {
+      "id": "gd-parikh",
+      "name": {
+        "canonical": "GD Parikh",
+        "sort": "Parikh, GD"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/govt-autonomy-higher-education-institutes-gd-parikh.md"
+      ]
+    },
+    {
+      "id": "hans-raj-khanna",
+      "name": {
+        "canonical": "Hans Raj Khanna",
+        "sort": "Khanna, Hans Raj"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/dictatorship-subservient-judiciary-justice-hr-khanna.md"
+      ]
+    },
+    {
+      "id": "how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy",
+      "name": {
+        "canonical": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+        "sort": "Shenoy, How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy.md"
+      ]
+    },
+    {
+      "id": "in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia",
+      "name": {
+        "canonical": "In Conversation with Ronald Meinardus - Regional Director, FNF South Asia",
+        "sort": "Asia, In Conversation with Ronald Meinardus - Regional Director, FNF South"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia.md"
+      ]
+    },
+    {
+      "id": "india-s-greatest-liberal-gopal-krishna-gokhale",
+      "name": {
+        "canonical": "India's Greatest Liberal - Gopal Krishna Gokhale",
+        "sort": "Gokhale, India's Greatest Liberal - Gopal Krishna"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/indias-greatest-liberal-gopal-krishna-gokhale.md"
+      ]
+    },
+    {
+      "id": "india-s-transition-choice-competition-and-individual-dignity",
+      "name": {
+        "canonical": "India's Transition : Choice, Competition, and Individual Dignity",
+        "sort": "Dignity, India's Transition : Choice, Competition, and Individual"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/indias-transition-choice-competition-and-individual-dignity.md"
+      ]
+    },
+    {
+      "id": "india-s-forest-dwellers-from-owners-to-encroachers",
+      "name": {
+        "canonical": "India's forest-dwellers: From Owners to Encroachers",
+        "sort": "Encroachers, India's forest-dwellers: From Owners to"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/indias-forest-dwellers-from-owners-to-encroachers.md"
+      ]
+    },
+    {
+      "id": "indian-liberal-tradition-gp-manish",
+      "name": {
+        "canonical": "Indian Liberal Tradition - GP Manish",
+        "sort": "Manish, Indian Liberal Tradition - GP"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/indian-liberal-tradition-gp-manish.md"
+      ]
+    },
+    {
+      "id": "jagdish-bhagwati-on-milton-friedman",
+      "name": {
+        "canonical": "Jagdish Bhagwati on Milton Friedman",
+        "sort": "Friedman, Jagdish Bhagwati on Milton"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/jagdish-bhagwati-on-milton-friedman.md"
+      ]
+    },
+    {
+      "id": "kd-valicha",
+      "name": {
+        "canonical": "KD Valicha",
+        "sort": "Valicha, KD"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha.md"
+      ]
+    },
+    {
+      "id": "liberalism-and-the-challenge-of-polarisation",
+      "name": {
+        "canonical": "Liberalism and the Challenge of Polarisation",
+        "sort": "Polarisation, Liberalism and the Challenge of"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/liberalism-and-the-challenge-of-polarisation.md"
+      ]
+    },
+    {
+      "id": "liberalism-and-the-populist-challenge",
+      "name": {
+        "canonical": "Liberalism and the Populist Challenge",
+        "sort": "Challenge, Liberalism and the Populist"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/liberalism-and-the-populist-challenge.md"
+      ]
+    },
+    {
+      "id": "m-a-master",
+      "name": {
+        "canonical": "M.A. Master",
+        "sort": "Master, M.A."
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi.md"
+      ]
+    },
+    {
+      "id": "making-tax-compliance-attractive",
+      "name": {
+        "canonical": "Making Tax Compliance Attractive",
+        "sort": "Attractive, Making Tax Compliance"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/making-tax-compliance-attractive.md"
+      ]
+    },
+    {
+      "id": "minoo-masani-on-nehru-s-adoption-of-socialism-in-conversation-with-zareer-masani",
+      "name": {
+        "canonical": "Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer Masani",
+        "sort": "Masani, Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/minoo-masani-on-nehrus-adoption-of-socialism-in-conversation-with-zareer-masani.md"
+      ]
+    },
+    {
+      "id": "minoo-masani-s-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani",
+      "name": {
+        "canonical": "Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer Masani",
+        "sort": "Masani, Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/minoo-masanis-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani.md"
+      ]
+    },
+    {
+      "id": "minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise",
+      "name": {
+        "canonical": "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise",
+        "sort": "Enterprise, Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise.md"
+      ]
+    },
+    {
+      "id": "minoo-shroff-on-doing-business-in-nehru-s-india",
+      "name": {
+        "canonical": "Minoo Shroff on Doing Business in Nehru's India",
+        "sort": "India, Minoo Shroff on Doing Business in Nehru's"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/minoo-shroff-on-doing-business-in-nehrus-india.md"
+      ]
+    },
+    {
+      "id": "minoo-shroff-on-his-uncle-a-d-shroff",
+      "name": {
+        "canonical": "Minoo Shroff on His Uncle A D Shroff",
+        "sort": "Shroff, Minoo Shroff on His Uncle A D"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/minoo-shroff-on-his-uncle-a-d-shroff.md"
+      ]
+    },
+    {
+      "id": "minoo-shroff-on-nehru-welfare-and-india-s-promise",
+      "name": {
+        "canonical": "Minoo Shroff on Nehru, Welfare and India's Promise",
+        "sort": "Promise, Minoo Shroff on Nehru, Welfare and India's"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/minoo-shroff-on-nehru-welfare-and-indias-promise.md"
+      ]
+    },
+    {
+      "id": "mithan-tata-lam-an-indian-lawyer-suffragist",
+      "name": {
+        "canonical": "Mithan Tata Lam- An Indian Lawyer & Suffragist",
+        "sort": "Suffragist, Mithan Tata Lam- An Indian Lawyer &"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/mithan-tata-lam-an-indian-lawyer-and-suffragist.md"
+      ]
+    },
+    {
+      "id": "n-g-ranga-guardian-of-peasants-rights",
+      "name": {
+        "canonical": "N.G. Ranga - Guardian of Peasants' Rights",
+        "sort": "Rights, N.G. Ranga - Guardian of Peasants'"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/n-g-ranga-guardian-of-peasants-rights.md"
+      ]
+    },
+    {
+      "id": "om-prakash-kahol",
+      "name": {
+        "canonical": "Om Prakash Kahol",
+        "sort": "Kahol, Om Prakash"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/free-education-is-mere-jugglery-of-words-a-hangover-of-anti-rational-pre-partition-days.md"
+      ]
+    },
+    {
+      "id": "p-kodanda-rao",
+      "name": {
+        "canonical": "P Kodanda Rao",
+        "sort": "Rao, P Kodanda"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/hindi-imposition-constitution.md"
+      ]
+    },
+    {
+      "id": "phiroze-j-shroff",
+      "name": {
+        "canonical": "Phiroze J Shroff",
+        "sort": "Shroff, Phiroze J"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff.md"
+      ]
+    },
+    {
+      "id": "role-of-civil-society-in-the-pandemic",
+      "name": {
+        "canonical": "Role of Civil Society in the Pandemic",
+        "sort": "Pandemic, Role of Civil Society in the"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/role-of-civil-society-in-the-pandemic.md"
+      ]
+    },
+    {
+      "id": "role-of-ideology-in-india-s-liberalisation",
+      "name": {
+        "canonical": "Role of Ideology in India's Liberalisation",
+        "sort": "Liberalisation, Role of Ideology in India's"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/role-of-ideology-in-indias-liberalisation.md"
+      ]
+    },
+    {
+      "id": "s-divakara-on-nani-palkhivala-s-union-budget-commentaries",
+      "name": {
+        "canonical": "S. Divakara on Nani Palkhivala's Union Budget Commentaries",
+        "sort": "Commentaries, S. Divakara on Nani Palkhivala's Union Budget"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/s-divakara-on-nani-palkhivalas-union-budget-commentaries.md"
+      ]
+    },
+    {
+      "id": "s-divakara-on-the-forum-of-free-enterprise",
+      "name": {
+        "canonical": "S. Divakara on The Forum of Free Enterprise",
+        "sort": "Enterprise, S. Divakara on The Forum of Free"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/s-divakara-on-the-forum-of-free-enterprise.md"
+      ]
+    },
+    {
+      "id": "sachin-sen",
+      "name": {
+        "canonical": "Sachin Sen",
+        "sort": "Sen, Sachin"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/free-press-sachin-sen.md"
+      ]
+    },
+    {
+      "id": "shetkari-sanghathana-a-movement-for-freedom-part-i",
+      "name": {
+        "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part I",
+        "sort": "I, Shetkari Sanghathana : A Movement for Freedom - Part"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/shetkari-sanghathana-a-movement-for-freedom-part-i.md"
+      ]
+    },
+    {
+      "id": "shetkari-sanghathana-a-movement-for-freedom-part-ii",
+      "name": {
+        "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part II",
+        "sort": "Part, Shetkari Sanghathana : A Movement for Freedom - II"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/shetkari-sanghathana-a-movement-for-freedom-part-2.md"
+      ]
+    },
+    {
+      "id": "socialism-reconsidered",
+      "name": {
+        "canonical": "Socialism Reconsidered",
+        "sort": "Reconsidered, Socialism"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/il-explainer-ep-4-socialism-reconsidered-by-minoo-masani.md"
+      ]
+    },
+    {
+      "id": "streer-potro",
+      "name": {
+        "canonical": "Streer Potro",
+        "sort": "Potro, Streer"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/il-explainer-ep-3-streer-potro-tagore.md"
+      ]
+    },
+    {
+      "id": "sultana-s-dream",
+      "name": {
+        "canonical": "Sultana's Dream",
+        "sort": "Dream, Sultana's"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/il-explainer-ep-2-begum-rokeya.md"
+      ]
+    },
+    {
+      "id": "sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal",
+      "name": {
+        "canonical": "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal",
+        "sort": "Liberal, Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal.md"
+      ]
+    },
+    {
+      "id": "sunil-bhandare-on-enlarging-the",
+      "name": {
+        "canonical": "Sunil Bhandare on enlarging the \\",
+        "sort": "\\, Sunil Bhandare on enlarging the"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/sunil-bhandare-on-enlarging-the-constituency-of-reforms-in-india.md"
+      ]
+    },
+    {
+      "id": "sunil-bhandare-on-his-experiences-with-indian-liberal-organisations",
+      "name": {
+        "canonical": "Sunil Bhandare on his experiences with Indian liberal organisations",
+        "sort": "organisations, Sunil Bhandare on his experiences with Indian liberal"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/sunil-bhandare-on-his-experiences-with-indian-liberal-organisations.md"
+      ]
+    },
+    {
+      "id": "sunil-bhandare-on-private-enterprise-post-1991-reforms",
+      "name": {
+        "canonical": "Sunil Bhandare on private enterprise post 1991 reforms",
+        "sort": "reforms, Sunil Bhandare on private enterprise post 1991"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/sunil-bhandare-on-private-enterprise-post-1991-reforms.md"
+      ]
+    },
+    {
+      "id": "swatantra-party-india-s-first-liberal-party",
+      "name": {
+        "canonical": "Swatantra Party : India's First Liberal Party",
+        "sort": "Party, Swatantra Party : India's First Liberal"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/swatantra-party-indias-first-liberal-party.md"
+      ]
+    },
+    {
+      "id": "tahir-siddiqui",
+      "name": {
+        "canonical": "Tahir Siddiqui",
+        "sort": "Siddiqui, Tahir"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/theprint-mirror/hitlerite-vegetarianism-india-food-science-sentiment.md"
+      ]
+    },
+    {
+      "id": "the-case-against-neo-protectionism",
+      "name": {
+        "canonical": "The Case Against Neo-Protectionism",
+        "sort": "Neo-Protectionism, The Case Against"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-case-against-neo-protectionism.md"
+      ]
+    },
+    {
+      "id": "the-case-for-liberalism-in-indian-history",
+      "name": {
+        "canonical": "The Case for Liberalism in Indian History",
+        "sort": "History, The Case for Liberalism in Indian"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-case-for-liberalism-in-indian-history.md"
+      ]
+    },
+    {
+      "id": "the-challenges-for-liberal-grassroots-movements",
+      "name": {
+        "canonical": "The Challenges for Liberal Grassroots Movements",
+        "sort": "Movements, The Challenges for Liberal Grassroots"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-challenges-for-liberal-grassroots-movements.md"
+      ]
+    },
+    {
+      "id": "the-challenges-leading-to-the-forest-rights-act-2006",
+      "name": {
+        "canonical": "The Challenges leading to the Forest Rights Act, 2006",
+        "sort": "2006, The Challenges leading to the Forest Rights Act,"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-challenges-leading-to-the-forest-rights-act-2006.md"
+      ]
+    },
+    {
+      "id": "the-early-years-emergency-era-and-tryst-with-civil-services",
+      "name": {
+        "canonical": "The Early Years, Emergency Era and Tryst with Civil Services",
+        "sort": "Services, The Early Years, Emergency Era and Tryst with Civil"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-early-years-emergency-era-and-tryst-with-civil-services.md"
+      ]
+    },
+    {
+      "id": "the-future-of-liberalism-in-a-post-pandemic-world",
+      "name": {
+        "canonical": "The Future of Liberalism in a Post-Pandemic World",
+        "sort": "World, The Future of Liberalism in a Post-Pandemic"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-future-of-liberalism-in-a-post-pandemic-world.md"
+      ]
+    },
+    {
+      "id": "the-hayek-keynes-debate-1931-1971",
+      "name": {
+        "canonical": "The Hayek-Keynes Debate, 1931-1971 |",
+        "sort": "|, The Hayek-Keynes Debate, 1931-1971"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-hayek-keynes-debate-1931-1971-by-sudha-r-shenoy.md"
+      ]
+    },
+    {
+      "id": "the-hope-for-a-liberal-political-alternative",
+      "name": {
+        "canonical": "The Hope for a Liberal Political Alternative",
+        "sort": "Alternative, The Hope for a Liberal Political"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-hope-for-a-liberal-political-alternative.md"
+      ]
+    },
+    {
+      "id": "the-life-legacy-of-dr-janaki-ammal",
+      "name": {
+        "canonical": "The Life & Legacy of Dr Janaki Ammal",
+        "sort": "Ammal, The Life & Legacy of Dr Janaki"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/women-liberals-dr-janaki.md"
+      ]
+    },
+    {
+      "id": "the-life-legacy-of-lady-abala-bose",
+      "name": {
+        "canonical": "The Life & Legacy of Lady Abala Bose",
+        "sort": "Bose, The Life & Legacy of Lady Abala"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-life-legacy-of-lady-abala-bose.md"
+      ]
+    },
+    {
+      "id": "the-life-and-times-of-sharad-joshi",
+      "name": {
+        "canonical": "The Life and Times of Sharad Joshi",
+        "sort": "Joshi, The Life and Times of Sharad"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-life-and-times-of-sharad-joshi.md"
+      ]
+    },
+    {
+      "id": "the-new-global-marketplace-sudha-shenoy",
+      "name": {
+        "canonical": "The New Global Marketplace | Sudha Shenoy",
+        "sort": "Shenoy, The New Global Marketplace | Sudha"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-new-global-marketplace-sudha-shenoy.md"
+      ]
+    },
+    {
+      "id": "the-public-distribution-system-a-boon-or-a-bane",
+      "name": {
+        "canonical": "The Public Distribution System : A Boon or a Bane?",
+        "sort": "Bane?, The Public Distribution System : A Boon or a"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/public-distribution-system-boon-or-bane.md"
+      ]
+    },
+    {
+      "id": "the-relationship-between-citizen-and-state",
+      "name": {
+        "canonical": "The Relationship Between Citizen and State",
+        "sort": "State, The Relationship Between Citizen and"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-relationship-between-citizen-and-state.md"
+      ]
+    },
+    {
+      "id": "tribals-and-development-countering-the-myths",
+      "name": {
+        "canonical": "Tribals and Development: Countering the Myths",
+        "sort": "Myths, Tribals and Development: Countering the"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/tribals-and-development-countering-the-myths.md"
+      ]
+    },
+    {
+      "id": "union-budget-1992-93",
+      "name": {
+        "canonical": "Union Budget 1992-93",
+        "sort": "1992-93, Union Budget"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/union-budget-1992-1993-by-nani-palkhivala.md"
+      ]
+    },
+    {
+      "id": "vision-for-a-prosperous-india-gurcharan-das",
+      "name": {
+        "canonical": "Vision for a Prosperous India - Gurcharan Das",
+        "sort": "Das, Vision for a Prosperous India - Gurcharan"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/vision-for-a-prosperous-india-gurcharan-das.md"
+      ]
+    },
+    {
+      "id": "what-is-the-role-of-government-in-agriculture",
+      "name": {
+        "canonical": "What is the Role of Government in Agriculture?",
+        "sort": "Agriculture?, What is the Role of Government in"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/the-role-of-government-in-agriculture.md"
+      ]
+    },
+    {
+      "id": "why-are-fundamental-rights-not-amendable",
+      "name": {
+        "canonical": "Why Are Fundamental Rights Not Amendable?",
+        "sort": "Amendable?, Why Are Fundamental Rights Not"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/il-explainer-episode-6.md"
+      ]
+    },
+    {
+      "id": "why-is-it-difficult-to-de-regulate-labor-in-india",
+      "name": {
+        "canonical": "Why is it Difficult to De-regulate Labor in India?",
+        "sort": "India?, Why is it Difficult to De-regulate Labor in"
+      },
+      "confidence": "high",
+      "sources": [
+        "content/interviews/why-is-it-difficult-to-de-regulate-labor-in-india.md"
+      ]
+    },
+    {
+      "id": "ak-chandra",
+      "name": {
+        "canonical": "AK Chandra",
+        "sort": "Chandra, AK"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/public-enterprises-in-india-by-ak-chandra-august-8-1960.pdf"
+      ]
+    },
+    {
+      "id": "ak-purwar",
+      "name": {
+        "canonical": "AK Purwar",
+        "sort": "Purwar, AK"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/value-systems-in-public-service-by-ak-purwar-2003.pdf"
+      ]
+    },
+    {
+      "id": "adi-godrej",
+      "name": {
+        "canonical": "Adi Godrej",
+        "sort": "Godrej, Adi"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/corporate-governance-by-adi-a-godrej-2004.pdf"
+      ]
+    },
+    {
+      "id": "ajit-prasad-jain",
+      "name": {
+        "canonical": "Ajit Prasad Jain",
+        "sort": "Jain, Ajit Prasad"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/grave-dangers-of-state-trading-in-foodgrains-by-ajit-prasad-jain-november-2-1959.pdf"
+      ]
+    },
+    {
+      "id": "anu-aga",
+      "name": {
+        "canonical": "Anu Aga",
+        "sort": "Aga, Anu"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/embracing-csr-by-anu-a-aga-2003.pdf"
+      ]
+    },
+    {
+      "id": "azim-premji",
+      "name": {
+        "canonical": "Azim Premji",
+        "sort": "Premji, Azim"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/leading-in-turbulent-times-by-azim-premji-2003.pdf"
+      ]
+    },
+    {
+      "id": "bg-verghese",
+      "name": {
+        "canonical": "BG Verghese",
+        "sort": "Verghese, BG"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/plans-and-perspectives-by-bg-verghese-january-8-1961.pdf"
+      ]
+    },
+    {
+      "id": "bk-nehru",
+      "name": {
+        "canonical": "BK Nehru",
+        "sort": "Nehru, BK"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/transition-in-civil-services-by-bk-nehru-2000.pdf"
+      ]
+    },
+    {
+      "id": "dr-ac-shah",
+      "name": {
+        "canonical": "DR AC Shah",
+        "sort": "Shah, DR AC"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/finance-companies-agenda-for-urgent-action-by-dr-ac-shah-july-15-1997.pdf"
+      ]
+    },
+    {
+      "id": "dr-dharmendra-bhandari",
+      "name": {
+        "canonical": "DR Dharmendra Bhandari",
+        "sort": "Bhandari, DR Dharmendra"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/crisis-in-indian-banking-industry-by-dr-dharmendra-bhandari-october-15-1991.pdf"
+      ]
+    },
+    {
+      "id": "dr-gvk-rao",
+      "name": {
+        "canonical": "DR Gvk Rao",
+        "sort": "Rao, DR Gvk"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/agricultural-investment-by-dr-gvk-rao-september-14-1993.pdf"
+      ]
+    },
+    {
+      "id": "dr-ig-patel",
+      "name": {
+        "canonical": "DR IG Patel",
+        "sort": "Patel, DR IG"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/equity-in-a-global-society-by-dr-ig-patel-january-february-17-1996.pdf"
+      ]
+    },
+    {
+      "id": "dr-na-swaminathan",
+      "name": {
+        "canonical": "DR NA Swaminathan",
+        "sort": "Swaminathan, DR NA"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/food-and-environment-walking-a-tightrope-by-dr-na-swaminathan-jan-2001.pdf"
+      ]
+    },
+    {
+      "id": "dr-otto-count-lambsdroff-and-swaminathan-aiyar",
+      "name": {
+        "canonical": "DR Otto Count Lambsdroff And Swaminathan Aiyar",
+        "sort": "Aiyar, DR Otto Count Lambsdroff And Swaminathan"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/challenge-of-povert-by-dr-otto-count-lambsdroff-and-swaminathan-a-aiyar-2002.pdf"
+      ]
+    },
+    {
+      "id": "dr-png-subramanian",
+      "name": {
+        "canonical": "DR Png Subramanian",
+        "sort": "Subramanian, DR Png"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/chinese-competition-challenges-and-opportunities-by-dr-png-subramanian-2002.pdf"
+      ]
+    },
+    {
+      "id": "dr-sachin-sen",
+      "name": {
+        "canonical": "DR Sachin Sen",
+        "sort": "Sen, DR Sachin"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960.pdf"
+      ]
+    },
+    {
+      "id": "dr-skumar-jain",
+      "name": {
+        "canonical": "DR Skumar Jain",
+        "sort": "Jain, DR Skumar"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/what-is-expected-of-management-trainee-in-private-eeterprise-by-Dr-Skumar-jain-September-5-1962.pdf"
+      ]
+    },
+    {
+      "id": "dr-th-chowdhary",
+      "name": {
+        "canonical": "DR TH Chowdhary",
+        "sort": "Chowdhary, DR TH"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/bridging-diminishing-the-digital-divide-by-dr-th-chowdhary-2002.pdf"
+      ]
+    },
+    {
+      "id": "deepak-parekh",
+      "name": {
+        "canonical": "Deepak Parekh",
+        "sort": "Parekh, Deepak"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/administrators-managers-and-leadership-by-deepak-parekh-1997.pdf"
+      ]
+    },
+    {
+      "id": "dharamsey-khatau",
+      "name": {
+        "canonical": "Dharamsey Khatau",
+        "sort": "Khatau, Dharamsey"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/state-capitalism-marches-on-by-dharamsey-m-khatau-january-25-1957.pdf"
+      ]
+    },
+    {
+      "id": "dr-kk-das",
+      "name": {
+        "canonical": "Dr. KK Das",
+        "sort": "Das, Dr. KK"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr.-kk-das-may-8-1961.pdf"
+      ]
+    },
+    {
+      "id": "frank-simoes",
+      "name": {
+        "canonical": "Frank Simoes",
+        "sort": "Simoes, Frank"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/fare-forward-voyager-by-frank-simoes-may-1990.pdf"
+      ]
+    },
+    {
+      "id": "gr-parrikar-and-rg-katoti",
+      "name": {
+        "canonical": "GR Parrikar And RG Katoti",
+        "sort": "Katoti, GR Parrikar And RG"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/foreign-institutional-investors-in-india-by-gr-parrikar-and-rg-katoti-november-1994.pdf"
+      ]
+    },
+    {
+      "id": "gv-ramakrishna",
+      "name": {
+        "canonical": "GV Ramakrishna",
+        "sort": "Ramakrishna, GV"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/regulation-of-the-capital-market-and-the-role-of-sebi-by-gv-ramakrishna-may-15-1993.pdf"
+      ]
+    },
+    {
+      "id": "jj-irani",
+      "name": {
+        "canonical": "JJ Irani",
+        "sort": "Irani, JJ"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/excellence-in-industry-through-leadership-by-jj-irani-2001.pdf"
+      ]
+    },
+    {
+      "id": "jr-henshaw",
+      "name": {
+        "canonical": "JR Henshaw",
+        "sort": "Henshaw, JR"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/success-in-agriculture-through-free-enterprise-by-jr-henshaw-december-10-1964.pdf"
+      ]
+    },
+    {
+      "id": "kv-narain",
+      "name": {
+        "canonical": "KV Narain",
+        "sort": "Narain, KV"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/prosperity-through-free-enterprise-a-case-study-of-taiwan-by-kv-narain-november-9-1964.pdf"
+      ]
+    },
+    {
+      "id": "kv-subrahmanyam",
+      "name": {
+        "canonical": "KV Subrahmanyam",
+        "sort": "Subrahmanyam, KV"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960.pdf"
+      ]
+    },
+    {
+      "id": "kiran-nanda",
+      "name": {
+        "canonical": "Kiran Nanda",
+        "sort": "Nanda, Kiran"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/foreign-capital-by-kiran-nanda-december-17-1995.pdf"
+      ]
+    },
+    {
+      "id": "ma-pathan",
+      "name": {
+        "canonical": "MA Pathan",
+        "sort": "Pathan, MA"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/energy-security-policy-by-ma-pathan-2005.pdf"
+      ]
+    },
+    {
+      "id": "ma-rangoonwala",
+      "name": {
+        "canonical": "MA Rangoonwala",
+        "sort": "Rangoonwala, MA"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982.pdf"
+      ]
+    },
+    {
+      "id": "mh-moody",
+      "name": {
+        "canonical": "MH Moody",
+        "sort": "Moody, MH"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/the-new-class-in-a-state-dominated-economy-by-mh-moody-1980.pdf"
+      ]
+    },
+    {
+      "id": "mr-ad-shroff",
+      "name": {
+        "canonical": "MR AD Shroff",
+        "sort": "Shroff, MR AD"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/forum-of-free-enterprise-speech-by-mr-ad-shroff-july-25-1956.pdf"
+      ]
+    },
+    {
+      "id": "mr-anantharamakrishnan-and-cp-ramaswamy-ayyar",
+      "name": {
+        "canonical": "MR Anantharamakrishnan And CP Ramaswamy Ayyar",
+        "sort": "Ayyar, MR Anantharamakrishnan And CP Ramaswamy"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/efficiency-not-possible-in-public-undertaking-by-mr-anantharamakrishnan-and-cp-ramaswamy-ayyar-october-24-1956.pdf"
+      ]
+    },
+    {
+      "id": "mr-masani",
+      "name": {
+        "canonical": "MR Masani",
+        "sort": "Masani, MR"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/the-role-of-free-enterprise-by-mr-masani-september-21-1956.pdf"
+      ]
+    },
+    {
+      "id": "mr-mayya",
+      "name": {
+        "canonical": "MR Mayya",
+        "sort": "Mayya, MR"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/forward-trading-in-shares-by-mr-mayya-april-5-1996.pdf"
+      ]
+    },
+    {
+      "id": "maurice-strong",
+      "name": {
+        "canonical": "Maurice Strong",
+        "sort": "Strong, Maurice"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/ending-hunger-through-sustainable-development-by-maurice-f-strong-november-14-1989.pdf"
+      ]
+    },
+    {
+      "id": "milton-friedman",
+      "name": {
+        "canonical": "Milton Friedman",
+        "sort": "Friedman, Milton"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/india-needs-a-free-market-interest-rate-by-milton-friedman-may-9-1963.pdf"
+      ]
+    },
+    {
+      "id": "minoo-shroff",
+      "name": {
+        "canonical": "Minoo Shroff",
+        "sort": "Shroff, Minoo"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/joint-sector-some-issues-by-minoo-shroff-1972.pdf"
+      ]
+    },
+    {
+      "id": "minoo-shroff-and-hd-shourie",
+      "name": {
+        "canonical": "Minoo Shroff And HD Shourie",
+        "sort": "Shourie, Minoo Shroff And HD"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/good-governance-by-minoo-r-shroff-and-hd-shourie-2002.pdf"
+      ]
+    },
+    {
+      "id": "murarji-vaidya",
+      "name": {
+        "canonical": "Murarji Vaidya",
+        "sort": "Vaidya, Murarji"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/state-trading-and-democracy-by-murarji-vaidya-october-1-1956.pdf"
+      ]
+    },
+    {
+      "id": "nadir-godrej",
+      "name": {
+        "canonical": "Nadir Godrej",
+        "sort": "Godrej, Nadir"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/the-guardian-of-liberty-by-nadir-godrej-september-29-2016.pdf"
+      ]
+    },
+    {
+      "id": "nani-palkhiwala",
+      "name": {
+        "canonical": "Nani Palkhiwala",
+        "sort": "Palkhiwala, Nani"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/the-union-budget-1993-94-by-nani-a-palkhiwala-march-20-1993.pdf"
+      ]
+    },
+    {
+      "id": "narayana-aiyar",
+      "name": {
+        "canonical": "Narayana Aiyar",
+        "sort": "Aiyar, Narayana"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/limitations-of-nationalism-by-s-narayana-aiyar-december-1-1956.pdf"
+      ]
+    },
+    {
+      "id": "passing-parliamentary-select-comittee-palkhivala",
+      "name": {
+        "canonical": "Passing Parliamentary Select Comittee Palkhivala",
+        "sort": "Palkhivala, Passing Parliamentary Select Comittee"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/the-union-budget-1995-96-by-passing-parliamentary-select-comittee-n-a-palkhivala-march-21-1995.pdf"
+      ]
+    },
+    {
+      "id": "piya-mahatey",
+      "name": {
+        "canonical": "Piya Mahatey",
+        "sort": "Mahatey, Piya"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/reflections-on-global-trends-and-sustainable-development-by-piya-mahatey-2005.pdf"
+      ]
+    },
+    {
+      "id": "prof-br-shenoy",
+      "name": {
+        "canonical": "Prof BR Shenoy",
+        "sort": "Shenoy, Prof BR"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/consumer-sovereignty-leads-to-Rapid-Economic-Development-by-prof-BR-Shenoy-July-9-1962.pdf"
+      ]
+    },
+    {
+      "id": "prof-rk-amin",
+      "name": {
+        "canonical": "Prof RK Amin",
+        "sort": "Amin, Prof RK"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/some-lessons-of-a-decade-of-planning-by-prof-RK-Amin-July-7-1961.pdf"
+      ]
+    },
+    {
+      "id": "prof-shenoy",
+      "name": {
+        "canonical": "Prof Shenoy",
+        "sort": "Shenoy, Prof"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/natural-economic-growth-is-via-agriculture-and-consumer-goods-industries-by-prof-b-shenoy-august-5-1961.pdf"
+      ]
+    },
+    {
+      "id": "prof-rl-varshney",
+      "name": {
+        "canonical": "Prof. RL Varshney",
+        "sort": "Varshney, Prof. RL"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/private-enterprise-should-be-allowed-in-life-insurance-industry-by-Prof.-RL-Varshney-may-8-1962.pdf"
+      ]
+    },
+    {
+      "id": "rd-aga",
+      "name": {
+        "canonical": "RD Aga",
+        "sort": "Aga, RD"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/new-approach-to-overcome-constraints-on-private-sector-by-rd-aga-1980.pdf"
+      ]
+    },
+    {
+      "id": "sn-haji",
+      "name": {
+        "canonical": "SN Haji",
+        "sort": "Haji, SN"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/role-of-free-enterprises-by-sn-haji-october-2-1956.pdf"
+      ]
+    },
+    {
+      "id": "sp-godrej",
+      "name": {
+        "canonical": "SP Godrej",
+        "sort": "Godrej, SP"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/population-development-and-environment-by-sp-godrej-december-15-1994.pdf"
+      ]
+    },
+    {
+      "id": "ss-bhandare",
+      "name": {
+        "canonical": "SS Bhandare",
+        "sort": "Bhandare, SS"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/indian-industry-post-liberalisation-era-by-ss-bhandare-2001.pdf"
+      ]
+    },
+    {
+      "id": "ss-bhandare-and-jk-mukhopadhyay",
+      "name": {
+        "canonical": "SS Bhandare And JK Mukhopadhyay",
+        "sort": "Mukhopadhyay, SS Bhandare And JK"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/an-evaluation-of-common-minimum-programme-by-ss-bhandare-and-jk-mukhopadhyay-july-15-1996.pdf"
+      ]
+    },
+    {
+      "id": "shah-mulraj-simha",
+      "name": {
+        "canonical": "Shah Mulraj Simha",
+        "sort": "Simha, Shah Mulraj"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/stock-market-and-turmoil-lessons-for-investors-by-shah-mulraj-simha-2001.pdf"
+      ]
+    },
+    {
+      "id": "sir-homi-mody-sl-kirloskar-and-mr-ramnivas-ruia",
+      "name": {
+        "canonical": "Sir Homi Mody SL Kirloskar And MR Ramnivas Ruia",
+        "sort": "Ruia, Sir Homi Mody SL Kirloskar And MR Ramnivas"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/two-alarming-phenomena-by-sir-homi-mody-sl-kirloskar-and-mr-ramnivas-r-ruia-february-1957.pdf"
+      ]
+    },
+    {
+      "id": "spreading-enterprises-gopalakrishnan",
+      "name": {
+        "canonical": "Spreading Enterprises Gopalakrishnan",
+        "sort": "Gopalakrishnan, Spreading Enterprises"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/prosperity-beyond-our-cities-by-spreading-enterprises-r-gopalakrishnan-october-10-2007.pdf"
+      ]
+    },
+    {
+      "id": "sujata-manohar",
+      "name": {
+        "canonical": "Sujata Manohar",
+        "sort": "Manohar, Sujata"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/quotas-and-reservations-imperative-action-by-sujata-manohar-2006.pdf"
+      ]
+    },
+    {
+      "id": "thakorelal-desai",
+      "name": {
+        "canonical": "Thakorelal Desai",
+        "sort": "Desai, Thakorelal"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/role-of-private-enterprises-by-thakorelal-m-desai-september-4-1956.pdf"
+      ]
+    },
+    {
+      "id": "the-dock-by-pt-bauer",
+      "name": {
+        "canonical": "The Dock BY PT Bauer",
+        "sort": "Bauer, The Dock BY PT"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/market-by-the-dock-by-pt-bauer-january-1981.pdf"
+      ]
+    },
+    {
+      "id": "vh-pandya",
+      "name": {
+        "canonical": "VH Pandya",
+        "sort": "Pandya, VH"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/emerging-scenario-in-the-capital-markets-and-sebi-role-by-vh-pandya-august-14-1994.pdf"
+      ]
+    },
+    {
+      "id": "ww-rowstow",
+      "name": {
+        "canonical": "WW Rowstow",
+        "sort": "Rowstow, WW"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/economic-growth-in-a-free-society-by-ww-rowstow-november-5-1963.pdf"
+      ]
+    },
+    {
+      "id": "wing-commander-vijay-mahajan-alka-sen-rn-kini",
+      "name": {
+        "canonical": "Wing Commander Vijay Mahajan Alka Sen RN Kini",
+        "sort": "Kini, Wing Commander Vijay Mahajan Alka Sen RN"
+      },
+      "confidence": "medium",
+      "sources": [
+        "pdf-filename/forum-of-free-enterprise/air-travel-in-india-safety-and-service-by-wing-commander-vijay-mahajan-alka-sen-rn-kini-june-14-1990.pdf"
+      ]
+    }
+  ],
+  "byline_lookup": {
+    "minoo masani": "minoo-masani",
+    "nani palkhivala": "nani-palkhivala",
+    "nani a palkhivala": "nani-palkhivala",
+    "n a palkhivala": "nani-palkhivala",
+    "ad shroff": "a-d-shroff",
+    "hp ranina": "hp-ranina",
+    "ma venkata rao": "ma-venkata-rao",
+    "ma sreenivasan": "ma-sreenivasan",
+    "sauvik chakraverti": "sauvik-chakraverti",
+    "sharad joshi": "sharad-joshi",
+    "sharad anantrao joshi": "sharad-anantrao-joshi",
+    "a d shroff": "a-d-shroff",
+    "b r shenoy": "b-r-shenoy",
+    "br shenoy": "br-shenoy",
+    "c rajagopalachari": "c-rajagopalachari",
+    "rajaji": "rajaji",
+    "cr": "c-rajagopalachari",
+    "d r pendse": "d-r-pendse",
+    "dr pendse": "dr-pendse",
+    "g n lawande": "g-n-lawande",
+    "m r pai": "m-r-pai",
+    "mr pai": "m-r-pai",
+    "s v raju": "s-v-raju",
+    "sv raju": "s-v-raju",
+    "sudha r shenoy": "sudha-r-shenoy",
+    "a ranganathan": "a-ranganathan",
+    "jiban mukhopadhyay": "jiban-mukhopadhyay",
+    "mh mody": "mh-mody",
+    "mithan tata lam": "mithan-tata-lam",
+    "mithan lam": "mithan-tata-lam",
+    "mithan tata": "mithan-tata-lam",
+    "na palkhivala": "na-palkhivala",
+    "pandita ramabai": "pandita-ramabai",
+    "ramabai": "pandita-ramabai",
+    "prof cn vakil": "prof-cn-vakil",
+    "raja ram mohan roy": "raja-ram-mohan-roy",
+    "ram mohan roy": "raja-ram-mohan-roy",
+    "rammohun roy": "raja-ram-mohan-roy",
+    "russi mody": "russi-mody",
+    "sh batlivala": "sh-batlivala",
+    "ad shroff - champion of free enterprise": "a-d-shroff-champion-of-free-enterprise",
+    "ag mulgaokar": "ag-mulgaokar",
+    "ak chandra": "ak-chandra",
+    "ak purwar": "ak-purwar",
+    "adi godrej": "adi-godrej",
+    "ajit prasad jain": "ajit-prasad-jain",
+    "an auxiliary for historians: the contribution of older austrians": "an-auxiliary-for-historians-the-contribution-of-older-austrians",
+    "anu aga": "anu-aga",
+    "arun shourie": "arun-shourie",
+    "arvind lalbhai": "arvind-lalbhai",
+    "ashok desai": "ashok-desai",
+    "azim premji": "azim-premji",
+    "bg verghese": "bg-verghese",
+    "bk nehru": "bk-nehru",
+    "bp adarkar": "bp-adarkar",
+    "bp godrej": "bp-godrej",
+    "br shenoy - a prophet without honour?": "br-shenoy-a-prophet-without-honour",
+    "bs iyer": "bs-iyer",
+    "bs sanyal": "bs-sanyal",
+    "begum rokeya": "begum-rokeya",
+    "begum rokeya sakhawat hossain": "begum-rokeya",
+    "rokeya": "begum-rokeya",
+    "bollywood and cultural change in attitude": "bollywood-and-cultural-change-in-attitude",
+    "centre for civil society : a journey in time": "centre-for-civil-society-a-journey-in-time",
+    "chakravarti rajagopalachari - gandhi's conscience keeper": "chakravarti-rajagopalachari-gandhi-s-conscience-keeper",
+    "christopher lingle": "christopher-lingle",
+    "d r pendse on doing business in india before 1991 reforms": "d-r-pendse-on-doing-business-in-india-before-1991-reforms",
+    "d r pendse on indias open and prosperous past": "d-r-pendse-on-indias-open-and-prosperous-past",
+    "d r pendse on liberating india s entrepreneurs": "d-r-pendse-on-liberating-india-s-entrepreneurs",
+    "d r pendse on think tanks and the power of ideas": "d-r-pendse-on-think-tanks-and-the-power-of-ideas",
+    "d r pendse on his relationship with jrd tata": "d-r-pendse-on-his-relationship-with-jrd-tata",
+    "d r pendse on the 1991 crisis": "d-r-pendse-on-the-1991-crisis",
+    "d r pendse on the criticism he faced through his career": "d-r-pendse-on-the-criticism-he-faced-through-his-career",
+    "d r pendse on the indian liberal tradition": "d-r-pendse-on-the-indian-liberal-tradition",
+    "dm kulkarni": "dm-kulkarni",
+    "dn hosali": "dn-hosali",
+    "dr ac shah": "dr-ac-shah",
+    "dr dharmendra bhandari": "dr-dharmendra-bhandari",
+    "dr gvk rao": "dr-gvk-rao",
+    "dr ig patel": "dr-ig-patel",
+    "dr na swaminathan": "dr-na-swaminathan",
+    "dr otto count lambsdroff and swaminathan aiyar": "dr-otto-count-lambsdroff-and-swaminathan-aiyar",
+    "dr png subramanian": "dr-png-subramanian",
+    "dr sachin sen": "dr-sachin-sen",
+    "dr skumar jain": "dr-skumar-jain",
+    "dr th chowdhary": "dr-th-chowdhary",
+    "deepak parekh": "deepak-parekh",
+    "dharamsey khatau": "dharamsey-khatau",
+    "did bollywood liberalise india or did india liberalise bollywood?": "did-bollywood-liberalise-india-or-did-india-liberalise-bollywood",
+    "dr kk das": "dr-kk-das",
+    "dr muthulakshmi reddi": "muthulakshmi-reddi",
+    "economic growth with social justice": "economic-growth-with-social-justice",
+    "forest departments incentives and the environment": "forest-departments-incentives-and-the-environment",
+    "forest rights act 2006 : the struggle for implementation - part i": "forest-rights-act-2006-the-struggle-for-implementation-part-i",
+    "forest rights act 2006: the struggle for implementation - part ii": "forest-rights-act-2006-the-struggle-for-implementation-part-ii",
+    "frank simoes": "frank-simoes",
+    "free enterprise and freedom": "free-enterprise-and-freedom",
+    "friedrich hayek": "friedrich-hayek",
+    "frederic bastiat": "frederic-bastiat",
+    "g jayachandran": "g-jayachandran",
+    "gd parikh": "gd-parikh",
+    "gr parrikar and rg katoti": "gr-parrikar-and-rg-katoti",
+    "gv ramakrishna": "gv-ramakrishna",
+    "gopal krishna gokhale": "gopal-krishna-gokhale",
+    "gokhale": "gopal-krishna-gokhale",
+    "hans raj khanna": "hans-raj-khanna",
+    "how i stopped worrying and learned to love the trade deficit | sudha shenoy": "how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy",
+    "in conversation with ronald meinardus - regional director fnf south asia": "in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia",
+    "india's greatest liberal - gopal krishna gokhale": "india-s-greatest-liberal-gopal-krishna-gokhale",
+    "india's transition : choice competition and individual dignity": "india-s-transition-choice-competition-and-individual-dignity",
+    "india's forest-dwellers: from owners to encroachers": "india-s-forest-dwellers-from-owners-to-encroachers",
+    "indian liberal tradition - gp manish": "indian-liberal-tradition-gp-manish",
+    "ishwar chandra vidyasagar": "ishwar-chandra-vidyasagar",
+    "vidyasagar": "ishwar-chandra-vidyasagar",
+    "ishwarchandra vidyasagar": "ishwar-chandra-vidyasagar",
+    "jj irani": "jj-irani",
+    "jr henshaw": "jr-henshaw",
+    "jagdish bhagwati on milton friedman": "jagdish-bhagwati-on-milton-friedman",
+    "janaki ammal": "janaki-ammal",
+    "ek janaki ammal": "janaki-ammal",
+    "kd valicha": "kd-valicha",
+    "kv narain": "kv-narain",
+    "kv subrahmanyam": "kv-subrahmanyam",
+    "kiran nanda": "kiran-nanda",
+    "lady abala bose": "lady-abala-bose",
+    "abala bose": "lady-abala-bose",
+    "liberalism and the challenge of polarisation": "liberalism-and-the-challenge-of-polarisation",
+    "liberalism and the populist challenge": "liberalism-and-the-populist-challenge",
+    "ma master": "m-a-master",
+    "ma pathan": "ma-pathan",
+    "ma rangoonwala": "ma-rangoonwala",
+    "mh moody": "mh-moody",
+    "mr ad shroff": "mr-ad-shroff",
+    "mr anantharamakrishnan and cp ramaswamy ayyar": "mr-anantharamakrishnan-and-cp-ramaswamy-ayyar",
+    "mr masani": "mr-masani",
+    "mr mayya": "mr-mayya",
+    "making tax compliance attractive": "making-tax-compliance-attractive",
+    "maurice strong": "maurice-strong",
+    "milton friedman": "milton-friedman",
+    "minoo masani on nehru's adoption of socialism - in conversation with zareer masani": "minoo-masani-on-nehru-s-adoption-of-socialism-in-conversation-with-zareer-masani",
+    "minoo masani's disenchantment with the soviet economic model - in coversation with zareer masani": "minoo-masani-s-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani",
+    "minoo shroff": "minoo-shroff",
+    "minoo shroff and hd shourie": "minoo-shroff-and-hd-shourie",
+    "minoo shroff on a d shroff memorial trust and the forum of free enterprise": "minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise",
+    "minoo shroff on doing business in nehru's india": "minoo-shroff-on-doing-business-in-nehru-s-india",
+    "minoo shroff on his uncle a d shroff": "minoo-shroff-on-his-uncle-a-d-shroff",
+    "minoo shroff on nehru welfare and india's promise": "minoo-shroff-on-nehru-welfare-and-india-s-promise",
+    "mithan tata lam- an indian lawyer & suffragist": "mithan-tata-lam-an-indian-lawyer-suffragist",
+    "murarji vaidya": "murarji-vaidya",
+    "muthulakshmi reddi": "muthulakshmi-reddi-2",
+    "s muthulakshmi reddy": "muthulakshmi-reddi-2",
+    "ng ranga - guardian of peasants' rights": "n-g-ranga-guardian-of-peasants-rights",
+    "nadir godrej": "nadir-godrej",
+    "nani palkhiwala": "nani-palkhiwala",
+    "narayana aiyar": "narayana-aiyar",
+    "om prakash kahol": "om-prakash-kahol",
+    "p kodanda rao": "p-kodanda-rao",
+    "passing parliamentary select comittee palkhivala": "passing-parliamentary-select-comittee-palkhivala",
+    "peter bauer": "peter-bauer",
+    "phiroze j shroff": "phiroze-j-shroff",
+    "piya mahatey": "piya-mahatey",
+    "prof br shenoy": "prof-br-shenoy",
+    "prof rk amin": "prof-rk-amin",
+    "prof shenoy": "prof-shenoy",
+    "prof rl varshney": "prof-rl-varshney",
+    "rd aga": "rd-aga",
+    "rabindranath tagore": "rabindranath-tagore",
+    "tagore": "rabindranath-tagore",
+    "role of civil society in the pandemic": "role-of-civil-society-in-the-pandemic",
+    "role of ideology in india's liberalisation": "role-of-ideology-in-india-s-liberalisation",
+    "s divakara on nani palkhivala's union budget commentaries": "s-divakara-on-nani-palkhivala-s-union-budget-commentaries",
+    "s divakara on the forum of free enterprise": "s-divakara-on-the-forum-of-free-enterprise",
+    "sn haji": "sn-haji",
+    "sp godrej": "sp-godrej",
+    "ss bhandare": "ss-bhandare",
+    "ss bhandare and jk mukhopadhyay": "ss-bhandare-and-jk-mukhopadhyay",
+    "sachin sen": "sachin-sen",
+    "shah mulraj simha": "shah-mulraj-simha",
+    "shetkari sanghathana : a movement for freedom - part i": "shetkari-sanghathana-a-movement-for-freedom-part-i",
+    "shetkari sanghathana : a movement for freedom - part ii": "shetkari-sanghathana-a-movement-for-freedom-part-ii",
+    "sir homi mody sl kirloskar and mr ramnivas ruia": "sir-homi-mody-sl-kirloskar-and-mr-ramnivas-ruia",
+    "socialism reconsidered": "socialism-reconsidered",
+    "spreading enterprises gopalakrishnan": "spreading-enterprises-gopalakrishnan",
+    "streer potro": "streer-potro",
+    "sujata manohar": "sujata-manohar",
+    "sultana's dream": "sultana-s-dream",
+    "sunil bhandare on getting disillusioned with socialism and his journey to become a liberal": "sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal",
+    "sunil bhandare on enlarging the \\": "sunil-bhandare-on-enlarging-the",
+    "sunil bhandare on his experiences with indian liberal organisations": "sunil-bhandare-on-his-experiences-with-indian-liberal-organisations",
+    "sunil bhandare on private enterprise post 1991 reforms": "sunil-bhandare-on-private-enterprise-post-1991-reforms",
+    "swatantra party : india's first liberal party": "swatantra-party-india-s-first-liberal-party",
+    "tahir siddiqui": "tahir-siddiqui",
+    "thakorelal desai": "thakorelal-desai",
+    "the case against neo-protectionism": "the-case-against-neo-protectionism",
+    "the case for liberalism in indian history": "the-case-for-liberalism-in-indian-history",
+    "the challenges for liberal grassroots movements": "the-challenges-for-liberal-grassroots-movements",
+    "the challenges leading to the forest rights act 2006": "the-challenges-leading-to-the-forest-rights-act-2006",
+    "the dock by pt bauer": "the-dock-by-pt-bauer",
+    "the early years emergency era and tryst with civil services": "the-early-years-emergency-era-and-tryst-with-civil-services",
+    "the future of liberalism in a post-pandemic world": "the-future-of-liberalism-in-a-post-pandemic-world",
+    "the hayek-keynes debate 1931-1971 |": "the-hayek-keynes-debate-1931-1971",
+    "the hope for a liberal political alternative": "the-hope-for-a-liberal-political-alternative",
+    "the life & legacy of dr janaki ammal": "the-life-legacy-of-dr-janaki-ammal",
+    "the life & legacy of lady abala bose": "the-life-legacy-of-lady-abala-bose",
+    "the life and times of sharad joshi": "the-life-and-times-of-sharad-joshi",
+    "the new global marketplace | sudha shenoy": "the-new-global-marketplace-sudha-shenoy",
+    "the public distribution system : a boon or a bane?": "the-public-distribution-system-a-boon-or-a-bane",
+    "the relationship between citizen and state": "the-relationship-between-citizen-and-state",
+    "tom g palmer": "tom-g-palmer",
+    "tribals and development: countering the myths": "tribals-and-development-countering-the-myths",
+    "union budget 1992-93": "union-budget-1992-93",
+    "vh pandya": "vh-pandya",
+    "vision for a prosperous india - gurcharan das": "vision-for-a-prosperous-india-gurcharan-das",
+    "ww rowstow": "ww-rowstow",
+    "what is the role of government in agriculture?": "what-is-the-role-of-government-in-agriculture",
+    "why are fundamental rights not amendable?": "why-are-fundamental-rights-not-amendable",
+    "why is it difficult to de-regulate labor in india?": "why-is-it-difficult-to-de-regulate-labor-in-india",
+    "wing commander vijay mahajan alka sen rn kini": "wing-commander-vijay-mahajan-alka-sen-rn-kini"
+  }
+}

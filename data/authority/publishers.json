@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "count": 17,
+    "purpose": "seed publisher list for authority file"
+  },
+  "publishers": [
+    {
+      "id": "forum-of-free-enterprise",
+      "name": "Forum of Free Enterprise",
+      "place": "Bombay",
+      "linked_organisation": "forum-of-free-enterprise"
+    },
+    {
+      "id": "swatantra-party",
+      "name": "Swatantra Party",
+      "linked_organisation": "swatantra-party"
+    },
+    {
+      "id": "shetkari-sanghatana",
+      "name": "Shetkari Sanghatana",
+      "linked_organisation": "shetkari-sanghatana"
+    },
+    {
+      "id": "indian-liberal-group",
+      "name": "Indian Liberal Group",
+      "linked_organisation": "indian-liberal-group"
+    },
+    {
+      "id": "centre-for-civil-society",
+      "name": "Centre for Civil Society",
+      "place": "New Delhi",
+      "linked_organisation": "centre-for-civil-society"
+    },
+    {
+      "id": "the-indian-libertarian",
+      "name": "The Indian Libertarian",
+      "place": "Bombay",
+      "publication_type": "periodical"
+    },
+    {
+      "id": "liberal-times",
+      "name": "Liberal Times",
+      "publication_type": "periodical"
+    },
+    {
+      "id": "freedom-first",
+      "name": "Freedom First",
+      "place": "Bombay",
+      "publication_type": "periodical"
+    },
+    {
+      "id": "khoj",
+      "name": "Khoj",
+      "publication_type": "periodical"
+    },
+    {
+      "id": "swarajya",
+      "name": "Swarajya",
+      "place": "Madras",
+      "publication_type": "periodical"
+    },
+    {
+      "id": "asia-publishing-house",
+      "name": "Asia Publishing House",
+      "place": "Bombay"
+    },
+    {
+      "id": "vakils-feffer-simons",
+      "name": "Vakils, Feffer and Simons",
+      "place": "Bombay"
+    },
+    {
+      "id": "popular-prakashan",
+      "name": "Popular Prakashan",
+      "place": "Bombay"
+    },
+    {
+      "id": "macmillan-india",
+      "name": "Macmillan India"
+    },
+    {
+      "id": "oxford-university-press-india",
+      "name": "Oxford University Press India"
+    },
+    {
+      "id": "penguin-india",
+      "name": "Penguin India"
+    },
+    {
+      "id": "rupa-publications",
+      "name": "Rupa Publications",
+      "place": "Delhi"
+    }
+  ]
+}
