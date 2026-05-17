@@ -166,24 +166,39 @@ THEME_NORMALISATION_MAP: dict[str, str] = _build_theme_normalisation_map()
 
 def _normalise_theme(theme: str) -> str:
     """
-    Normalise a theme string to its canonical kebab-case form.
-    Returns the original string unchanged if it's not in the vocabulary
-    (unrecognised themes are left as-is for editorial review).
+    Normalise a theme string to kebab-case shape.
+
+    Two layers of normalisation:
+      1. CANONICAL: if the input matches a known alias of a controlled-vocab
+         theme (via THEME_NORMALISATION_MAP), return the canonical kebab form.
+      2. SHAPE: even when the theme is NOT in the controlled vocab (i.e.,
+         a new theme proposal), still enforce kebab-case shape so the v1.2
+         contract holds. snake_case → kebab-case, TitleCase → kebab-case,
+         spaces → hyphens, everything lowercased.
+
+    Only returns the original string unchanged when the input is non-string.
     """
     if not isinstance(theme, str):
         return theme
-    # Direct lookup first
+    # Layer 1: canonical alias lookup
     if theme in THEME_NORMALISATION_MAP:
         return THEME_NORMALISATION_MAP[theme]
-    # Try lowercasing
     lower = theme.lower()
     if lower in THEME_NORMALISATION_MAP:
         return THEME_NORMALISATION_MAP[lower]
-    # Try replacing underscores + spaces with hyphens, lowercase
-    kebab_attempt = lower.replace("_", "-").replace(" ", "-")
-    if kebab_attempt in THEME_VOCABULARY_CANONICAL:
-        return kebab_attempt
-    return theme  # unrecognised; leave as-is
+    # Layer 2: shape normalisation for non-canonical themes.
+    # PascalCase / TitleCase: insert hyphens between lowercase-uppercase boundaries
+    # before lowercasing, so "EconomicLiberalisation" → "economic-liberalisation".
+    import re
+    spaced = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", "-", theme)
+    shape_kebab = spaced.lower().replace("_", "-").replace(" ", "-")
+    # Collapse runs of hyphens and strip leading/trailing hyphens
+    shape_kebab = re.sub(r"-+", "-", shape_kebab).strip("-")
+    if shape_kebab in THEME_VOCABULARY_CANONICAL:
+        return shape_kebab  # rescued a canonical via shape transform
+    if shape_kebab != theme:
+        return shape_kebab  # non-canonical but now kebab-shaped (D2 contract)
+    return theme
 
 
 # ----------------------------------------------------------------------------
@@ -311,6 +326,7 @@ def validate_metadata(record: dict, *, authority_ids: set[str] | None = None) ->
     _normalise_themes_in_record(fixed, corrections)
 
     # 5c. D1 — Legacy field preservation (page_count_visible → pages_rendered migration)
+    #         + pages_total_source default (v1.3)
     physical = fixed.get("physical")
     if isinstance(physical, dict):
         if "page_count_visible" in physical and "pages_rendered" not in physical:
@@ -320,6 +336,19 @@ def validate_metadata(record: dict, *, authority_ids: set[str] | None = None) ->
                 "original": None,
                 "coerced_to": physical["page_count_visible"],
                 "rule": "D1: legacy page_count_visible promoted to pages_rendered; both retained",
+            })
+        # v1.3 — D1: pages_total_source is required. Default to "pypdfium2" when the
+        # model omits it AND pages_total has a value (the most common case — the
+        # rasterizer's count is what feeds into the prompt's TOTAL_PDF_PAGES).
+        # Fall back to "unknown" when pages_total is missing too.
+        if "pages_total_source" not in physical:
+            default_source = "pypdfium2" if physical.get("pages_total") is not None else "unknown"
+            physical["pages_total_source"] = default_source
+            corrections.append({
+                "field": "physical.pages_total_source",
+                "original": None,
+                "coerced_to": default_source,
+                "rule": "D1: pages_total_source defaulted (model omitted required field)",
             })
 
     # 5d. D10 — recommended_authority_additions: check for thinkers already in authority
@@ -338,13 +367,13 @@ def validate_metadata(record: dict, *, authority_ids: set[str] | None = None) ->
     # 7. Stamp the audit block
     if corrections:
         fixed["_validator"] = {
-            "version": "v1.2",
+            "version": "v1.3",
             "corrections": corrections,
             "ok": False,  # corrections were needed
         }
     else:
         fixed["_validator"] = {
-            "version": "v1.2",
+            "version": "v1.3",
             "corrections": [],
             "ok": True,
         }

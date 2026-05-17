@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "version": "v1.2-2026-05-17",
+    "version": "v1.3-2026-05-17",
     "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
     "counts": {
-      "total": 210,
-      "canonical": 54,
-      "high": 92,
-      "medium": 64
+      "total": 228,
+      "canonical": 59,
+      "high": 98,
+      "medium": 71
     },
     "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts."
   },
@@ -2683,6 +2683,333 @@
       "sources": [
         "corpus_mention"
       ]
+    },
+    {
+      "id": "hernando-de-soto",
+      "name": {
+        "canonical": "Hernando de Soto",
+        "full": "Hernando de Soto Polar",
+        "sort": "de Soto, Hernando",
+        "also_known_as": [
+          "de Soto"
+        ]
+      },
+      "birth_year": 1941,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "jagdish-bhagwati",
+      "name": {
+        "canonical": "Jagdish Bhagwati",
+        "full": "Jagdish Natwarlal Bhagwati",
+        "sort": "Bhagwati, Jagdish",
+        "also_known_as": [
+          "Bhagwati"
+        ]
+      },
+      "birth_year": 1934,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "joseph-stiglitz",
+      "name": {
+        "canonical": "Joseph Stiglitz",
+        "full": "Joseph Eugene Stiglitz",
+        "sort": "Stiglitz, Joseph",
+        "also_known_as": [
+          "Stiglitz",
+          "Joseph E. Stiglitz"
+        ]
+      },
+      "birth_year": 1943,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "hla-hart",
+      "name": {
+        "canonical": "H. L. A. Hart",
+        "full": "Herbert Lionel Adolphus Hart",
+        "sort": "Hart, H. L. A.",
+        "also_known_as": [
+          "HLA Hart",
+          "H.L.A. Hart"
+        ]
+      },
+      "birth_year": 1907,
+      "death_year": 1992,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "karl-polanyi",
+      "name": {
+        "canonical": "Karl Polanyi",
+        "sort": "Polanyi, Karl",
+        "also_known_as": [
+          "Polanyi"
+        ]
+      },
+      "birth_year": 1886,
+      "death_year": 1964,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "n-vittal",
+      "name": {
+        "canonical": "N. Vittal",
+        "sort": "Vittal, N.",
+        "also_known_as": [
+          "Vittal",
+          "N Vittal"
+        ]
+      },
+      "birth_year": 1938,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "s-p-sathe",
+      "name": {
+        "canonical": "S. P. Sathe",
+        "full": "Satyaranjan Purushottam Sathe",
+        "sort": "Sathe, S. P.",
+        "also_known_as": [
+          "SP Sathe",
+          "S.P. Sathe",
+          "Sathe"
+        ]
+      },
+      "birth_year": 1931,
+      "death_year": 2006,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "ajit-karnik",
+      "name": {
+        "canonical": "Ajit Karnik",
+        "sort": "Karnik, Ajit",
+        "also_known_as": [
+          "Karnik"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "r-m-mohan-rao",
+      "name": {
+        "canonical": "R. M. Mohan Rao",
+        "sort": "Mohan Rao, R. M.",
+        "also_known_as": [
+          "RM Mohan Rao",
+          "R.M. Mohan Rao"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "g-giridhar-prabhu",
+      "name": {
+        "canonical": "G. Giridhar Prabhu",
+        "sort": "Prabhu, G. Giridhar",
+        "also_known_as": [
+          "Giridhar Prabhu",
+          "G Giridhar Prabhu"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "ram-jethmalani",
+      "name": {
+        "canonical": "Ram Jethmalani",
+        "full": "Ram Boolchand Jethmalani",
+        "sort": "Jethmalani, Ram",
+        "also_known_as": [
+          "Jethmalani"
+        ]
+      },
+      "birth_year": 1923,
+      "death_year": 2019,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "a-p-j-abdul-kalam",
+      "name": {
+        "canonical": "A. P. J. Abdul Kalam",
+        "full": "Avul Pakir Jainulabdeen Abdul Kalam",
+        "sort": "Kalam, A. P. J. Abdul",
+        "also_known_as": [
+          "Abdul Kalam",
+          "Dr. Kalam",
+          "APJ Abdul Kalam",
+          "Kalam"
+        ]
+      },
+      "birth_year": 1931,
+      "death_year": 2015,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "rajendra-prasad",
+      "name": {
+        "canonical": "Rajendra Prasad",
+        "full": "Rajendra Prasad",
+        "sort": "Prasad, Rajendra",
+        "also_known_as": [
+          "Dr. Rajendra Prasad"
+        ]
+      },
+      "birth_year": 1884,
+      "death_year": 1963,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "l-k-jha",
+      "name": {
+        "canonical": "L. K. Jha",
+        "full": "Lakshmi Kant Jha",
+        "sort": "Jha, L. K.",
+        "also_known_as": [
+          "LK Jha",
+          "L.K. Jha"
+        ]
+      },
+      "birth_year": 1913,
+      "death_year": 1988,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "m-c-setalvad",
+      "name": {
+        "canonical": "M. C. Setalvad",
+        "full": "Motilal Chimanlal Setalvad",
+        "sort": "Setalvad, M. C.",
+        "also_known_as": [
+          "MC Setalvad",
+          "M.C. Setalvad",
+          "M. C. Setalwad",
+          "Setalvad",
+          "Setalwad"
+        ]
+      },
+      "birth_year": 1884,
+      "death_year": 1974,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "narasimha-rao",
+      "name": {
+        "canonical": "P. V. Narasimha Rao",
+        "full": "Pamulaparthi Venkata Narasimha Rao",
+        "sort": "Narasimha Rao, P. V.",
+        "also_known_as": [
+          "Narasimha Rao",
+          "PV Narasimha Rao",
+          "P.V. Narasimha Rao"
+        ]
+      },
+      "birth_year": 1921,
+      "death_year": 2004,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "manmohan-singh",
+      "name": {
+        "canonical": "Manmohan Singh",
+        "full": "Manmohan Singh",
+        "sort": "Singh, Manmohan",
+        "also_known_as": [
+          "Dr. Manmohan Singh"
+        ]
+      },
+      "birth_year": 1932,
+      "death_year": 2024,
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
+    },
+    {
+      "id": "atal-bihari-vajpayee",
+      "name": {
+        "canonical": "Atal Bihari Vajpayee",
+        "sort": "Vajpayee, Atal Bihari",
+        "also_known_as": [
+          "Vajpayee",
+          "A. B. Vajpayee",
+          "AB Vajpayee"
+        ]
+      },
+      "birth_year": 1924,
+      "death_year": 2018,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.4-curation-from-mangalore-bake-off"
+      ]
     }
   ],
   "byline_lookup": {
@@ -2983,6 +3310,53 @@
     "बबसहब आबडकर": "bhimrao-ambedkar",
     "भमरव आबडकर": "bhimrao-ambedkar",
     "ड बबसहब आबडकर": "bhimrao-ambedkar",
-    "भमरव रमज आबडकर": "bhimrao-ambedkar"
+    "भमरव रमज आबडकर": "bhimrao-ambedkar",
+    "hernando de soto": "hernando-de-soto",
+    "de soto": "hernando-de-soto",
+    "jagdish bhagwati": "jagdish-bhagwati",
+    "bhagwati": "jagdish-bhagwati",
+    "joseph stiglitz": "joseph-stiglitz",
+    "joseph e stiglitz": "joseph-stiglitz",
+    "stiglitz": "joseph-stiglitz",
+    "h l a hart": "hla-hart",
+    "hla hart": "hla-hart",
+    "karl polanyi": "karl-polanyi",
+    "polanyi": "karl-polanyi",
+    "n vittal": "n-vittal",
+    "vittal": "n-vittal",
+    "s p sathe": "s-p-sathe",
+    "sp sathe": "s-p-sathe",
+    "sathe": "s-p-sathe",
+    "ajit karnik": "ajit-karnik",
+    "karnik": "ajit-karnik",
+    "r m mohan rao": "r-m-mohan-rao",
+    "rm mohan rao": "r-m-mohan-rao",
+    "g giridhar prabhu": "g-giridhar-prabhu",
+    "giridhar prabhu": "g-giridhar-prabhu",
+    "ram jethmalani": "ram-jethmalani",
+    "jethmalani": "ram-jethmalani",
+    "a p j abdul kalam": "a-p-j-abdul-kalam",
+    "apj abdul kalam": "a-p-j-abdul-kalam",
+    "abdul kalam": "a-p-j-abdul-kalam",
+    "dr kalam": "a-p-j-abdul-kalam",
+    "kalam": "a-p-j-abdul-kalam",
+    "rajendra prasad": "rajendra-prasad",
+    "dr rajendra prasad": "rajendra-prasad",
+    "l k jha": "l-k-jha",
+    "lk jha": "l-k-jha",
+    "m c setalvad": "m-c-setalvad",
+    "mc setalvad": "m-c-setalvad",
+    "m c setalwad": "m-c-setalvad",
+    "setalvad": "m-c-setalvad",
+    "setalwad": "m-c-setalvad",
+    "narasimha rao": "narasimha-rao",
+    "p v narasimha rao": "narasimha-rao",
+    "pv narasimha rao": "narasimha-rao",
+    "manmohan singh": "manmohan-singh",
+    "dr manmohan singh": "manmohan-singh",
+    "atal bihari vajpayee": "atal-bihari-vajpayee",
+    "vajpayee": "atal-bihari-vajpayee",
+    "a b vajpayee": "atal-bihari-vajpayee",
+    "ab vajpayee": "atal-bihari-vajpayee"
   }
 }

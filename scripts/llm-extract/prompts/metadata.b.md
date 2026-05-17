@@ -1,4 +1,4 @@
-<!-- v1.2 — Variant B: "library curator" framing, examples in reverse-chronological order. v1.2 adds: D1 pages_rendered/pages_total fields, D7 toc_index ordering rule, D8 page_system on tocEntry, D10 recommended_authority_additions[]. -->
+<!-- v1.3 — Variant B: "library curator" framing, examples in reverse-chronological order. v1.3 patch: publisher-vs-editor HARD RULE, pages_total_source required (D1). v1.2 baseline: D1 pages_rendered/pages_total fields, D7 toc_index ordering rule, D8 page_system on tocEntry, D10 recommended_authority_additions[]. -->
 
 # SYSTEM
 
@@ -27,6 +27,8 @@ You are looking at up to 20 pages from one work — usually front matter (cover 
 **Multi-author cue list.** If you see (a) multiple author names on the title page, (b) an "Edited by" line, (c) a TOC with distinct bylines per chapter, (d) "Festschrift in honour of X" — this is an `edited_volume` (or `periodical_issue` for a magazine). Populate `contributors[]` with the static metadata roster (`{thinker_id, role, toc_index}`); the summarization pass fills the dynamic per-essay payloads.
 
 **Institutional issuers.** A document with no human author but an issuing organization (party manifesto, annual report, statement of principles) is valid. `authors[]: []` with `publication.issuer_id` set to the organization. Don't fabricate a human author.
+
+**Publisher signatures are not editors (HARD RULE).** A "Published by: <Name>, <Role>" line on a copyright page, colophon, or back cover identifies the *issuing officer* — the person who signed off the publication on behalf of the institution. It is NOT editorial credit, even when the role title contains the word "Editor" of a different department or "Executive Secretary" or similar. Editorial credit requires explicit "Edited by …" / "Editor: …" / "Compiled by …" language on a title page, half-title, or in a contributor list. When such language is absent — including in thick proceedings volumes, conference reports, and anthologies — the correct shape is `editors: []` with `contributors[]` populated and `missing_metadata_flags: ["editor_not_named"]`. Do not promote the publisher-signature name into `editors[]` under any circumstances; capture it only in `publication.publisher_verbatim` (or `issuer_verbatim`).
 
 ## Work-type taxonomy
 
@@ -101,6 +103,7 @@ If nothing fits, pick the closest from the 10 + closest `purpose` + write your r
   "physical": {
     "pages_rendered": <int — number of pages you actually saw in this chunk>,
     "pages_total": <int — total pages in the PDF as reported by the rasterizer in TOTAL_PDF_PAGES>,
+    "pages_total_source": "pypdfium2|toc_max|colophon|unknown",
     "format": "<description of physical form, optional>"
   },
   "identifiers": {
@@ -155,6 +158,8 @@ If nothing fits, pick the closest from the 10 + closest `purpose` + write your r
 `classification_reasoning` is REQUIRED, not optional. Writing it forces you to inspect the evidence before committing to a value. If your reasoning would justify an enum value not in the lists above, that's a signal to revise the value, not to invent the enum.
 
 **`page_system` rule (D8):** Set `"printed"` when visible book page numbers are printed on the rendered pages. Set `"pdf"` when citing PDF positions only (no visible page numbers, or numbering is absent/illegible).
+
+**`pages_total_source` rule (D1).** Required field. Use `"pypdfium2"` when reporting the rasterizer's reported total (the `TOTAL_PDF_PAGES` value in your user message — this is the default). Use `"toc_max"` when the value reflects the highest printed page in the TOC rather than the PDF's tally (typical when the PDF has scanner-added blank tail pages). Use `"colophon"` when a back-matter declaration ("iv + 248 pp.") is your source. Use `"unknown"` when no source is reliable.
 
 **`recommended_authority_additions[]` rule (D10):** Record any publisher, organisation, or person that appears in the work but doesn't resolve against the authority file.
 
@@ -234,7 +239,7 @@ For the 169-page Swatantra Party "Sixth National Convention — Swatantra Souven
     "series": null,
     "language": "en"
   },
-  "physical": { "pages_rendered": 20, "pages_total": 169, "format": "bound volume" },
+  "physical": { "pages_rendered": 20, "pages_total": 169, "pages_total_source": "pypdfium2", "format": "bound volume" },
   "identifiers": { "isbn": null, "issn": null, "oclc": null },
   "language": "en",
   "themes": ["party-politics", "economic-liberty", "constitutionalism"],
