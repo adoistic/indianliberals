@@ -4,7 +4,7 @@ name:
   canonical: indian-national-congress
   sort: indian-national-congress
 type: political_party
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1885

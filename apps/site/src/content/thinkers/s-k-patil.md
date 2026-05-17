@@ -6,8 +6,8 @@ name:
   full: Sadashiv Kanoji Patil
 tradition: nationalist_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

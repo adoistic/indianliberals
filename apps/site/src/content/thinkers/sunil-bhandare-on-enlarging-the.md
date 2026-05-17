@@ -5,8 +5,8 @@ name:
   sort: \, Sunil Bhandare on enlarging the
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

@@ -4,8 +4,8 @@ title:
   main: The Indian Libertarian
   subtitle: An Independent Journal of Public Affairs
 work_type: periodical_issue
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: author
     thinker: ma-venkata-rao
@@ -28,6 +28,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

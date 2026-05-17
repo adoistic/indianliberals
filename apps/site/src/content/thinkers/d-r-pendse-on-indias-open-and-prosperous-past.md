@@ -5,8 +5,8 @@ name:
   sort: Past’, D R Pendse on India’s ‘Open and Prosperous
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

@@ -6,8 +6,8 @@ name:
   full: Christopher Lingle
 tradition: international_influence
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

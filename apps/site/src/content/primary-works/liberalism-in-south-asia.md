@@ -4,8 +4,8 @@ title:
   main: Liberalism in South Asia
   subtitle: ""
 work_type: periodical_issue
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: author
     thinker: sharad-joshi
@@ -37,6 +37,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

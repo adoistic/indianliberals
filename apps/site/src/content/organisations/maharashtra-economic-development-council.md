@@ -4,7 +4,7 @@ name:
   canonical: maharashtra-economic-development-council
   sort: maharashtra-economic-development-council
 type: think_tank
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 ---

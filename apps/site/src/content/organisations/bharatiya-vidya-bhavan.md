@@ -4,7 +4,7 @@ name:
   canonical: bharatiya-vidya-bhavan
   sort: bharatiya-vidya-bhavan
 type: academic
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1938

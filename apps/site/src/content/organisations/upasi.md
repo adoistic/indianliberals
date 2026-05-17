@@ -4,7 +4,7 @@ name:
   canonical: upasi
   sort: upasi
 type: professional_body
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1893

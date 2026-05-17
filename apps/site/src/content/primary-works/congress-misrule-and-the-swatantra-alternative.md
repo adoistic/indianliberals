@@ -4,8 +4,8 @@ title:
   main: Congress Misrule and the Swatantra Alternative
   subtitle: ""
 work_type: book
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: foreword
     thinker: c-rajagopalachari
@@ -19,6 +19,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

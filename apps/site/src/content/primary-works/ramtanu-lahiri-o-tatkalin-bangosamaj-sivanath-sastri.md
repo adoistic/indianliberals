@@ -6,9 +6,9 @@ title:
   original_script: রামতনু লাহিড়ী ও তৎকালীন বঙ্গসমাজ
   translit: Ramtanu Lahiri O Tatkalin Bangosamaj
 work_type: book
-authors:[]
-editors:[]
-contributors:[]
+authors: []
+editors: []
+contributors: []
 publication:
   language: bn
   year: 1904
@@ -16,6 +16,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

@@ -5,8 +5,8 @@ name:
   sort: "I, Forest Rights Act, 2006 : The Struggle for Implementation - Part"
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

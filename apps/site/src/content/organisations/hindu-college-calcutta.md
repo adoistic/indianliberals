@@ -4,7 +4,7 @@ name:
   canonical: hindu-college-calcutta
   sort: hindu-college-calcutta
 type: academic
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1817

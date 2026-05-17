@@ -4,8 +4,8 @@ title:
   main: The Liberal Budget
   subtitle: Building An Equitable Society.
 work_type: occasional_paper
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: introduction
     thinker: s-v-raju
@@ -32,6 +32,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

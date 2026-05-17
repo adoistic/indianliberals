@@ -5,8 +5,8 @@ name:
   sort: Bollywood?, Did Bollywood Liberalise India or Did India Liberalise
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

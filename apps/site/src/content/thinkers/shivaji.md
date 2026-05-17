@@ -11,8 +11,8 @@ name:
     - छत्रपती शिवाजी महाराज
 tradition: reformer
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

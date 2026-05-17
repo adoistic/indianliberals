@@ -11,8 +11,8 @@ name:
     - माल्थस
 tradition: classical_liberal
 nationality: uk
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

@@ -5,8 +5,8 @@ name:
   sort: Enterprise, Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

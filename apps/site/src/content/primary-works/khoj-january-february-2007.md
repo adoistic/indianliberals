@@ -6,8 +6,8 @@ title:
   original_script: ખોજ — જીવન એક અવિરત ખોજ-આવિષ્કાર
   translit: Khoj — Jīvan ek avirat khoj-āviṣkār
 work_type: periodical_issue
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: editor
     thinker_unresolved: તૃષિ પારેખ
@@ -77,6 +77,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

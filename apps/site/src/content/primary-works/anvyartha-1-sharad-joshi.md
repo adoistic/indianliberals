@@ -8,8 +8,8 @@ title:
 work_type: book
 authors:
   - sharad-joshi
-editors:[]
-contributors:[]
+editors: []
+contributors: []
 publication:
   language: mr
   publisher_name: जनशक्ती वाचक चळवळ, पिनाक, २४८-समर्थनगर, औरंगाबाद-४३१००१
@@ -20,6 +20,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

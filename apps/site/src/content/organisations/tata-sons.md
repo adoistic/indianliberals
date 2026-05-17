@@ -4,7 +4,7 @@ name:
   canonical: tata-sons
   sort: tata-sons
 type: publisher_org
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1917

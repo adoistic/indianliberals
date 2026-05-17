@@ -9,8 +9,8 @@ name:
     - Madariaga
 tradition: international_influence
 nationality: spain
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

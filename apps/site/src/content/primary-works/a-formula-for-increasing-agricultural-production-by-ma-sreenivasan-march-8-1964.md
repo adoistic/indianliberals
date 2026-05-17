@@ -6,8 +6,8 @@ title:
 work_type: essay
 authors:
   - ma-sreenivasan
-editors:[]
-contributors:[]
+editors: []
+contributors: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -19,6 +19,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

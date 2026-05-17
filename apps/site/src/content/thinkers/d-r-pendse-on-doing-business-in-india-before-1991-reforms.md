@@ -5,8 +5,8 @@ name:
   sort: Reforms, D R Pendse on Doing Business in India before 1991
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

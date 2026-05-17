@@ -6,9 +6,9 @@ title:
   original_script: आंदोलन
   translit: Andolan
 work_type: book
-authors:[]
-editors:[]
-contributors:[]
+authors: []
+editors: []
+contributors: []
 publication:
   language: mr
   publisher_name: "जनशक्ती बुक्स अँण्ड पब्लिकेशन प्रा. लि., जनशक्ती वाचक चळवळ, 'पिनाक', २४४, समर्थनगर, औरंगाबाद. ४३१ ००१"
@@ -19,6 +19,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

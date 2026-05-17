@@ -5,8 +5,8 @@ name:
   sort: "Masani, Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer"
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

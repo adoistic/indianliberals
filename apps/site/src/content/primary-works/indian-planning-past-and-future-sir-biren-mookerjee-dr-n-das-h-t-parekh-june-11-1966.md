@@ -4,8 +4,8 @@ title:
   main: "INDIAN PLANNING —PAST & FUTURE"
   subtitle: ""
 work_type: edited_volume
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: author
     thinker_unresolved: Sir BIREN MOOKERJEE
@@ -27,6 +27,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

@@ -4,7 +4,7 @@ name:
   canonical: john-templeton-foundation
   sort: john-templeton-foundation
 type: international_network
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1987

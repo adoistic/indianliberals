@@ -5,8 +5,8 @@ name:
   sort: 2006, The Challenges leading to the Forest Rights Act,
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

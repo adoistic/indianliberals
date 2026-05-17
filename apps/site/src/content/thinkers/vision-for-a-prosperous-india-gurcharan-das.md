@@ -5,8 +5,8 @@ name:
   sort: Das, Vision for a Prosperous India - Gurcharan
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

@@ -4,9 +4,9 @@ title:
   main: Manifesto for Indian Liberals
   subtitle: ""
 work_type: occasional_paper
-authors:[]
-editors:[]
-contributors:[]
+authors: []
+editors: []
+contributors: []
 publication:
   language: en
   publisher_id: indian-liberal-group
@@ -17,6 +17,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

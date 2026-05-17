@@ -6,7 +6,7 @@ title:
 work_type: book
 authors:
   - b-r-shenoy
-editors:[]
+editors: []
 contributors:
   - role: editor
     thinker_unresolved: R K Amin
@@ -24,6 +24,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

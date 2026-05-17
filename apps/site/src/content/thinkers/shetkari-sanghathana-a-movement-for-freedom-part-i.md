@@ -5,8 +5,8 @@ name:
   sort: "I, Shetkari Sanghathana : A Movement for Freedom - Part"
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

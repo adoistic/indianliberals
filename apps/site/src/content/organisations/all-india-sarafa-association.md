@@ -4,7 +4,7 @@ name:
   canonical: all-india-sarafa-association
   sort: all-india-sarafa-association
 type: professional_body
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 ---

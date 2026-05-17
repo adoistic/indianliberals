@@ -5,8 +5,8 @@ name:
   sort: Ideas, D R Pendse on Think Tanks and the Power of
 tradition: contemporary_liberal
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

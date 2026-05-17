@@ -4,9 +4,9 @@ title:
   main: Sixth National Convention Swatantra Souvenirs 1973
   subtitle: ""
 work_type: edited_volume
-authors:[]
-editors:[]
-contributors:[]
+authors: []
+editors: []
+contributors: []
 publication:
   language: en
   publisher_id: swatantra-party
@@ -17,6 +17,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

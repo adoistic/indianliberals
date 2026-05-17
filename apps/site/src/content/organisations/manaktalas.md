@@ -4,7 +4,7 @@ name:
   canonical: manaktalas
   sort: manaktalas
 type: publisher_org
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 ---

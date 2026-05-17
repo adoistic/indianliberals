@@ -4,7 +4,7 @@ name:
   canonical: observer-research-foundation
   sort: observer-research-foundation
 type: think_tank
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1990

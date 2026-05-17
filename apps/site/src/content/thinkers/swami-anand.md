@@ -7,8 +7,8 @@ name:
     - સ્વામી આનંદ
 tradition: social_reformer
 nationality: india
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

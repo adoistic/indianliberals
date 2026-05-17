@@ -106,7 +106,12 @@ def _yaml_dict(d: dict, indent: int = 0) -> str:
             out.append(f"{pad}{k}:")
             out.append(_yaml_dict(v, indent + 2).rstrip())
         elif isinstance(v, list):
-            out.append(f"{pad}{k}:{_yaml_list(v, indent + 2)}")
+            if not v:
+                # Inline empty list must have a space after the colon, else
+                # YAML parsers (js-yaml in Astro) reject it as malformed.
+                out.append(f"{pad}{k}: []")
+            else:
+                out.append(f"{pad}{k}:{_yaml_list(v, indent + 2)}")
         elif v is None:
             out.append(f"{pad}{k}: null")
         elif isinstance(v, bool):

@@ -4,7 +4,7 @@ name:
   canonical: planning-commission-india
   sort: planning-commission-india
 type: academic
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1950

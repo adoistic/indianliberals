@@ -6,8 +6,8 @@ title:
   original_script: "उदारवाद : राज, समाज और बाज़ार का नया पाठ"
   translit: "Udārvād: Rāj, Samāj aur Bāzār kā Nayā Pāṭh"
 work_type: book
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: translator
     thinker_unresolved: कौशल किशोर
@@ -23,6 +23,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

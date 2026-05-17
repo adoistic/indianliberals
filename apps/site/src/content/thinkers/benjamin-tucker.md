@@ -10,8 +10,8 @@ name:
     - B. R. Tucker
 tradition: classical_liberal
 nationality: usa
-themes:[]
-affiliations:[]
+themes: []
+affiliations: []
 bio_source: imported
 needs_review: true
 draft: true

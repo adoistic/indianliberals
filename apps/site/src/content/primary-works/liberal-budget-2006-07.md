@@ -4,8 +4,8 @@ title:
   main: The Liberal Budget 2006-07
   subtitle: Right Choices Tough Decisions
 work_type: occasional_paper
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: other
     thinker: s-v-raju
@@ -21,6 +21,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.

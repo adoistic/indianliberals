@@ -4,7 +4,7 @@ name:
   canonical: bombay-stock-exchange
   sort: bombay-stock-exchange
 type: professional_body
-ideology:[]
+ideology: []
 needs_review: true
 draft: true
 founded_year: 1875

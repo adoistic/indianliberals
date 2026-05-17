@@ -4,8 +4,8 @@ title:
   main: Taking Reforms to the Poor
   subtitle: The Liberal Budget 2007-08
 work_type: occasional_paper
-authors:[]
-editors:[]
+authors: []
+editors: []
 contributors:
   - role: other
     thinker_unresolved: Mr. Sunil S. Bhandare
@@ -34,6 +34,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 rights:
+  status: takedown_on_request
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
