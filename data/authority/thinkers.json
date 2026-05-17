@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "version": "v1.4-2026-05-17",
+    "version": "v1.5-2026-05-17",
     "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
     "counts": {
-      "total": 241,
-      "canonical": 65,
-      "high": 100,
-      "medium": 76
+      "total": 426,
+      "canonical": 112,
+      "high": 177,
+      "medium": 137
     },
     "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts."
   },
@@ -665,7 +665,10 @@
       "name": {
         "canonical": "Sauvik Chakraverti",
         "full": "Sauvik Chakraverti",
-        "sort": "Chakraverti, Sauvik"
+        "sort": "Chakraverti, Sauvik",
+        "also_known_as": [
+          "सौविक चक्रवर्ती"
+        ]
       },
       "death_year": 2017,
       "tradition": "classical_liberal",
@@ -3275,7 +3278,8 @@
           "Chaudhary Charan Singh",
           "के. चरणसिंह",
           "चौधरी चरण सिंह",
-          "चरण सिंह"
+          "चरण सिंह",
+          "के. चरण सिंह"
         ]
       },
       "birth_year": 1902,
@@ -3284,6 +3288,2926 @@
       "confidence": "medium",
       "sources": [
         "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "adam-smith",
+      "name": {
+        "canonical": "Adam Smith",
+        "sort": "Smith, Adam"
+      },
+      "birth_year": 1723,
+      "death_year": 1790,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "john-stuart-mill",
+      "name": {
+        "canonical": "John Stuart Mill",
+        "sort": "Mill, John Stuart",
+        "also_known_as": [
+          "J. S. Mill",
+          "JS Mill"
+        ]
+      },
+      "birth_year": 1806,
+      "death_year": 1873,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "john-locke",
+      "name": {
+        "canonical": "John Locke",
+        "sort": "Locke, John"
+      },
+      "birth_year": 1632,
+      "death_year": 1704,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "alexis-de-tocqueville",
+      "name": {
+        "canonical": "Alexis de Tocqueville",
+        "sort": "Tocqueville, Alexis de",
+        "also_known_as": [
+          "Tocqueville"
+        ]
+      },
+      "birth_year": 1805,
+      "death_year": 1859,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ludwig-von-mises",
+      "name": {
+        "canonical": "Ludwig von Mises",
+        "sort": "Mises, Ludwig von",
+        "also_known_as": [
+          "Mises",
+          "Von Mises"
+        ]
+      },
+      "birth_year": 1881,
+      "death_year": 1973,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "margaret-thatcher",
+      "name": {
+        "canonical": "Margaret Thatcher",
+        "full": "Margaret Hilda Thatcher",
+        "sort": "Thatcher, Margaret"
+      },
+      "birth_year": 1925,
+      "death_year": 2013,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "john-kenneth-galbraith",
+      "name": {
+        "canonical": "John Kenneth Galbraith",
+        "sort": "Galbraith, John Kenneth",
+        "also_known_as": [
+          "Galbraith",
+          "Professor Galbraith",
+          "J.K. Galbraith"
+        ]
+      },
+      "birth_year": 1908,
+      "death_year": 2006,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "wilhelm-ropke",
+      "name": {
+        "canonical": "Wilhelm Röpke",
+        "sort": "Ropke, Wilhelm",
+        "also_known_as": [
+          "Wilhelm Ropke",
+          "Roepke"
+        ]
+      },
+      "birth_year": 1899,
+      "death_year": 1966,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "immanuel-kant",
+      "name": {
+        "canonical": "Immanuel Kant",
+        "sort": "Kant, Immanuel"
+      },
+      "birth_year": 1724,
+      "death_year": 1804,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "thomas-aquinas",
+      "name": {
+        "canonical": "Thomas Aquinas",
+        "sort": "Aquinas, Thomas",
+        "also_known_as": [
+          "St Thomas Aquinas",
+          "St. Thomas Aquinas"
+        ]
+      },
+      "birth_year": 1225,
+      "death_year": 1274,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "herbert-spencer",
+      "name": {
+        "canonical": "Herbert Spencer",
+        "sort": "Spencer, Herbert"
+      },
+      "birth_year": 1820,
+      "death_year": 1903,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ludwig-erhard",
+      "name": {
+        "canonical": "Ludwig Erhard",
+        "sort": "Erhard, Ludwig"
+      },
+      "birth_year": 1897,
+      "death_year": 1977,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ram-manohar-lohia",
+      "name": {
+        "canonical": "Ram Manohar Lohia",
+        "sort": "Lohia, Ram Manohar",
+        "also_known_as": [
+          "Lohia",
+          "Dr. Ram Manohar Lohia",
+          "राम मनोहर लोहिया"
+        ]
+      },
+      "birth_year": 1910,
+      "death_year": 1967,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "vinoba-bhave",
+      "name": {
+        "canonical": "Vinoba Bhave",
+        "full": "Vinayak Narahari Bhave",
+        "sort": "Bhave, Vinoba",
+        "also_known_as": [
+          "Acharya Vinoba Bhave",
+          "Vinoba",
+          "विनोबा भावे"
+        ]
+      },
+      "birth_year": 1895,
+      "death_year": 1982,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sarojini-naidu",
+      "name": {
+        "canonical": "Sarojini Naidu",
+        "sort": "Naidu, Sarojini",
+        "also_known_as": [
+          "Sarojini Devi",
+          "धीमती सरोजिनी नायडू",
+          "सरोजिनी नायडू"
+        ]
+      },
+      "birth_year": 1879,
+      "death_year": 1949,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "bibek-debroy",
+      "name": {
+        "canonical": "Bibek Debroy",
+        "sort": "Debroy, Bibek",
+        "also_known_as": [
+          "Dr. Bibek Debroy"
+        ]
+      },
+      "birth_year": 1955,
+      "death_year": 2024,
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "vijay-kelkar",
+      "name": {
+        "canonical": "Vijay Kelkar",
+        "sort": "Kelkar, Vijay",
+        "also_known_as": [
+          "Dr. Vijay Kelkar",
+          "Vijay L. Kelkar"
+        ]
+      },
+      "birth_year": 1942,
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "amartya-sen",
+      "name": {
+        "canonical": "Amartya Sen",
+        "sort": "Sen, Amartya"
+      },
+      "birth_year": 1933,
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "i-k-gujral",
+      "name": {
+        "canonical": "I. K. Gujral",
+        "full": "Inder Kumar Gujral",
+        "sort": "Gujral, I. K.",
+        "also_known_as": [
+          "Inder Gujral",
+          "Inder Kumar Gujral",
+          "IK Gujral"
+        ]
+      },
+      "birth_year": 1919,
+      "death_year": 2012,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "achyut-patwardhan",
+      "name": {
+        "canonical": "Achyut Patwardhan",
+        "sort": "Patwardhan, Achyut"
+      },
+      "birth_year": 1905,
+      "death_year": 1992,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "jrd-tata",
+      "name": {
+        "canonical": "J. R. D. Tata",
+        "full": "Jehangir Ratanji Dadabhoy Tata",
+        "sort": "Tata, J. R. D.",
+        "also_known_as": [
+          "JRD Tata",
+          "J R D Tata",
+          "JRD"
+        ]
+      },
+      "birth_year": 1904,
+      "death_year": 1993,
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "p-n-haksar",
+      "name": {
+        "canonical": "P. N. Haksar",
+        "full": "Parmeshwar Narayan Haksar",
+        "sort": "Haksar, P. N.",
+        "also_known_as": [
+          "PN Haksar",
+          "P N Haksar"
+        ]
+      },
+      "birth_year": 1913,
+      "death_year": 1998,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "p-c-mahalanobis",
+      "name": {
+        "canonical": "P. C. Mahalanobis",
+        "full": "Prasanta Chandra Mahalanobis",
+        "sort": "Mahalanobis, P. C.",
+        "also_known_as": [
+          "PC Mahalanobis",
+          "P C Mahalanobis",
+          "Prof. Mahalanobis",
+          "Mahalanobis"
+        ]
+      },
+      "birth_year": 1893,
+      "death_year": 1972,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "v-t-krishnamachari",
+      "name": {
+        "canonical": "V. T. Krishnamachari",
+        "full": "Vangal Thiruvenkatachari Krishnamachari",
+        "sort": "Krishnamachari, V. T.",
+        "also_known_as": [
+          "VT Krishnamachari",
+          "V T Krishnamachari",
+          "श्री वी. टी. कृष्णमाचारी"
+        ]
+      },
+      "birth_year": 1881,
+      "death_year": 1964,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "jyotirao-phule",
+      "name": {
+        "canonical": "Jyotirao Phule",
+        "full": "Jyotirao Govindrao Phule",
+        "sort": "Phule, Jyotirao",
+        "also_known_as": [
+          "Jyotiba Phule",
+          "Mahatma Phule",
+          "महात्मा जोतीराव फुले",
+          "जोतीराव फुले"
+        ]
+      },
+      "birth_year": 1827,
+      "death_year": 1890,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "periyar-e-v-ramasamy",
+      "name": {
+        "canonical": "Periyar E. V. Ramasamy",
+        "full": "Erode Venkatappa Ramasamy",
+        "sort": "Periyar, E. V. Ramasamy",
+        "also_known_as": [
+          "Periyar Ramaswami Naicker",
+          "Periyar",
+          "E. V. Ramaswamy"
+        ]
+      },
+      "birth_year": 1879,
+      "death_year": 1973,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "bal-gangadhar-tilak",
+      "name": {
+        "canonical": "Bal Gangadhar Tilak",
+        "sort": "Tilak, Bal Gangadhar",
+        "also_known_as": [
+          "Lokmanya Tilak",
+          "Tilak"
+        ]
+      },
+      "birth_year": 1856,
+      "death_year": 1920,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "henry-louis-vivian-derozio",
+      "name": {
+        "canonical": "Henry Louis Vivian Derozio",
+        "sort": "Derozio, Henry Louis Vivian",
+        "also_known_as": [
+          "Derozio",
+          "H. L. V. Derozio"
+        ]
+      },
+      "birth_year": 1809,
+      "death_year": 1831,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "david-hare",
+      "name": {
+        "canonical": "David Hare",
+        "sort": "Hare, David"
+      },
+      "birth_year": 1775,
+      "death_year": 1842,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "thomas-babington-macaulay",
+      "name": {
+        "canonical": "Thomas Babington Macaulay",
+        "sort": "Macaulay, Thomas Babington",
+        "also_known_as": [
+          "Macaulay",
+          "Lord Macaulay",
+          "T. B. Macaulay"
+        ]
+      },
+      "birth_year": 1800,
+      "death_year": 1859,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "william-bentinck",
+      "name": {
+        "canonical": "Lord William Bentinck",
+        "full": "Lord William Henry Cavendish-Bentinck",
+        "sort": "Bentinck, William",
+        "also_known_as": [
+          "William Bentinck",
+          "Bentinck"
+        ]
+      },
+      "birth_year": 1774,
+      "death_year": 1839,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "warren-hastings",
+      "name": {
+        "canonical": "Warren Hastings",
+        "sort": "Hastings, Warren"
+      },
+      "birth_year": 1732,
+      "death_year": 1818,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "alexander-duff",
+      "name": {
+        "canonical": "Alexander Duff",
+        "sort": "Duff, Alexander"
+      },
+      "birth_year": 1806,
+      "death_year": 1878,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "william-adam",
+      "name": {
+        "canonical": "William Adam",
+        "sort": "Adam, William"
+      },
+      "birth_year": 1796,
+      "death_year": 1881,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "dwarkanath-tagore",
+      "name": {
+        "canonical": "Dwarkanath Tagore",
+        "sort": "Tagore, Dwarkanath",
+        "also_known_as": [
+          "দ্বারকানাথ ঠাকুর"
+        ]
+      },
+      "birth_year": 1794,
+      "death_year": 1846,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "krishnamohan-bandyopadhyay",
+      "name": {
+        "canonical": "Krishna Mohan Banerjee",
+        "sort": "Banerjee, Krishna Mohan",
+        "also_known_as": [
+          "Krishnamohan Bandyopadhyay",
+          "Krishna Mohan Bandyopadhyay",
+          "কৃষ্ণমোহন বন্দ্যোপাধ্যায়"
+        ]
+      },
+      "birth_year": 1813,
+      "death_year": 1885,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "radhakanta-deb",
+      "name": {
+        "canonical": "Radhakanta Deb",
+        "sort": "Deb, Radhakanta",
+        "also_known_as": [
+          "Radhakanta Dev",
+          "Raja Radhakanta Deb",
+          "রাধাকান্ত দেব"
+        ]
+      },
+      "birth_year": 1784,
+      "death_year": 1867,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sivanath-sastri",
+      "name": {
+        "canonical": "Sivanath Sastri",
+        "sort": "Sastri, Sivanath",
+        "also_known_as": [
+          "Shivnath Shastri",
+          "শিবনাথ শাস্ত্রী"
+        ]
+      },
+      "birth_year": 1847,
+      "death_year": 1919,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ramtanu-lahiri",
+      "name": {
+        "canonical": "Ramtanu Lahiri",
+        "sort": "Lahiri, Ramtanu",
+        "also_known_as": [
+          "রামতনু লাহিড়ী"
+        ]
+      },
+      "birth_year": 1813,
+      "death_year": 1898,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "rasikkrishna-mallik",
+      "name": {
+        "canonical": "Rasikkrishna Mallik",
+        "sort": "Mallik, Rasikkrishna",
+        "also_known_as": [
+          "Rasik Krishna Mallick",
+          "রসিককৃষ্ণ মল্লিক"
+        ]
+      },
+      "birth_year": 1810,
+      "death_year": 1858,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "tarachand-chakrabarty",
+      "name": {
+        "canonical": "Tarachand Chakrabarty",
+        "sort": "Chakrabarty, Tarachand",
+        "also_known_as": [
+          "Tarachand Chakraborty",
+          "তারাচাঁদ চক্রবর্তী"
+        ]
+      },
+      "birth_year": 1804,
+      "death_year": 1855,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "parichand-mitra",
+      "name": {
+        "canonical": "Peary Chand Mitra",
+        "sort": "Mitra, Peary Chand",
+        "also_known_as": [
+          "Parichand Mitra",
+          "প্যারীচাঁদ মিত্র"
+        ]
+      },
+      "birth_year": 1814,
+      "death_year": 1883,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "narayan-mahadev-paramananda",
+      "name": {
+        "canonical": "Narayan Mahadev Paramananda",
+        "sort": "Paramananda, Narayan Mahadev"
+      },
+      "tradition": "social_reformer",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "utsavananda-vidyabagish",
+      "name": {
+        "canonical": "Utsavananda Vidyabagish",
+        "sort": "Vidyabagish, Utsavananda"
+      },
+      "tradition": "social_reformer",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "nikita-khrushchev",
+      "name": {
+        "canonical": "Nikita Khrushchev",
+        "sort": "Khrushchev, Nikita",
+        "also_known_as": [
+          "Khrushchev"
+        ]
+      },
+      "birth_year": 1894,
+      "death_year": 1971,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "gamal-abdel-nasser",
+      "name": {
+        "canonical": "Gamal Abdel Nasser",
+        "sort": "Nasser, Gamal Abdel",
+        "also_known_as": [
+          "Colonel Nasser",
+          "Nasser"
+        ]
+      },
+      "birth_year": 1918,
+      "death_year": 1970,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "mao-zedong",
+      "name": {
+        "canonical": "Mao Zedong",
+        "sort": "Mao, Zedong",
+        "also_known_as": [
+          "Mao Tse-tung",
+          "Chairman Mao"
+        ]
+      },
+      "birth_year": 1893,
+      "death_year": 1976,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "deng-xiaoping",
+      "name": {
+        "canonical": "Deng Xiaoping",
+        "sort": "Deng, Xiaoping"
+      },
+      "birth_year": 1904,
+      "death_year": 1997,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sirimavo-bandaranaike",
+      "name": {
+        "canonical": "Sirimavo Bandaranaike",
+        "sort": "Bandaranaike, Sirimavo",
+        "also_known_as": [
+          "Mrs. Sirimavo Bandaranaike",
+          "Mrs Srimavo Bandaranaike",
+          "Srimavo Bandaranaike"
+        ]
+      },
+      "birth_year": 1916,
+      "death_year": 2000,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "dudley-senanayake",
+      "name": {
+        "canonical": "Dudley Senanayake",
+        "sort": "Senanayake, Dudley"
+      },
+      "birth_year": 1911,
+      "death_year": 1973,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "john-foster-dulles",
+      "name": {
+        "canonical": "John Foster Dulles",
+        "sort": "Dulles, John Foster",
+        "also_known_as": [
+          "Mr. Dulles",
+          "Dulles"
+        ]
+      },
+      "birth_year": 1888,
+      "death_year": 1959,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "anthony-eden",
+      "name": {
+        "canonical": "Anthony Eden",
+        "sort": "Eden, Anthony",
+        "also_known_as": [
+          "Prime Minister Eden"
+        ]
+      },
+      "birth_year": 1897,
+      "death_year": 1977,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "abraham-lincoln",
+      "name": {
+        "canonical": "Abraham Lincoln",
+        "sort": "Lincoln, Abraham",
+        "also_known_as": [
+          "Lincoln",
+          "अब्राहम लिंकन"
+        ]
+      },
+      "birth_year": 1809,
+      "death_year": 1865,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "winston-churchill",
+      "name": {
+        "canonical": "Winston Churchill",
+        "sort": "Churchill, Winston"
+      },
+      "birth_year": 1874,
+      "death_year": 1965,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "joseph-stalin",
+      "name": {
+        "canonical": "Joseph Stalin",
+        "sort": "Stalin, Joseph",
+        "also_known_as": [
+          "Stalin",
+          "स्टालिन"
+        ]
+      },
+      "birth_year": 1878,
+      "death_year": 1953,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "willy-brandt",
+      "name": {
+        "canonical": "Willy Brandt",
+        "sort": "Brandt, Willy"
+      },
+      "birth_year": 1913,
+      "death_year": 1992,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "theodor-heuss",
+      "name": {
+        "canonical": "Theodor Heuss",
+        "sort": "Heuss, Theodor"
+      },
+      "birth_year": 1884,
+      "death_year": 1963,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "friedrich-naumann",
+      "name": {
+        "canonical": "Friedrich Naumann",
+        "sort": "Naumann, Friedrich"
+      },
+      "birth_year": 1860,
+      "death_year": 1919,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "albert-hirschman",
+      "name": {
+        "canonical": "Albert O. Hirschman",
+        "sort": "Hirschman, Albert O.",
+        "also_known_as": [
+          "Albert Hirschman",
+          "Hirschman",
+          "हिर्षमन"
+        ]
+      },
+      "birth_year": 1915,
+      "death_year": 2012,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "colin-clark",
+      "name": {
+        "canonical": "Colin Clark",
+        "sort": "Clark, Colin",
+        "also_known_as": [
+          "Professor Colin Clark"
+        ]
+      },
+      "birth_year": 1905,
+      "death_year": 1989,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "m-l-dantewala",
+      "name": {
+        "canonical": "M. L. Dantwala",
+        "full": "Mohanlal Lallubhai Dantwala",
+        "sort": "Dantwala, M. L.",
+        "also_known_as": [
+          "M.L. Dantewala",
+          "Dantwala",
+          "Dantewala",
+          "दांतेवाला"
+        ]
+      },
+      "birth_year": 1909,
+      "death_year": 1998,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "nicholas-kaldor",
+      "name": {
+        "canonical": "Nicholas Kaldor",
+        "sort": "Kaldor, Nicholas",
+        "also_known_as": [
+          "Kaldor"
+        ]
+      },
+      "birth_year": 1908,
+      "death_year": 1986,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ashok-mitra",
+      "name": {
+        "canonical": "Ashok Mitra",
+        "sort": "Mitra, Ashok",
+        "also_known_as": [
+          "अशोक मित्र"
+        ]
+      },
+      "birth_year": 1928,
+      "death_year": 2018,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ashok-mehta",
+      "name": {
+        "canonical": "Ashok Mehta",
+        "sort": "Mehta, Ashok",
+        "also_known_as": [
+          "अशोक मेहता"
+        ]
+      },
+      "birth_year": 1911,
+      "death_year": 1984,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "k-m-munshi",
+      "name": {
+        "canonical": "K. M. Munshi",
+        "full": "Kanaiyalal Maneklal Munshi",
+        "sort": "Munshi, K. M.",
+        "also_known_as": [
+          "Kanaiyalal Munshi",
+          "KM Munshi"
+        ]
+      },
+      "birth_year": 1887,
+      "death_year": 1971,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sarvepalli-radhakrishnan",
+      "name": {
+        "canonical": "Sarvepalli Radhakrishnan",
+        "sort": "Radhakrishnan, Sarvepalli",
+        "also_known_as": [
+          "S. Radhakrishnan",
+          "Professor S. Radhakrishnan",
+          "Dr. Radhakrishnan"
+        ]
+      },
+      "birth_year": 1888,
+      "death_year": 1975,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "j-b-kripalani",
+      "name": {
+        "canonical": "Acharya J. B. Kripalani",
+        "full": "Jivatram Bhagwandas Kripalani",
+        "sort": "Kripalani, J. B.",
+        "also_known_as": [
+          "Acharya Kripalani",
+          "Kripalani",
+          "J. B. Kripalani"
+        ]
+      },
+      "birth_year": 1888,
+      "death_year": 1982,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "morarji-desai",
+      "name": {
+        "canonical": "Morarji Desai",
+        "sort": "Desai, Morarji"
+      },
+      "birth_year": 1896,
+      "death_year": 1995,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "lal-bahadur-shastri",
+      "name": {
+        "canonical": "Lal Bahadur Shastri",
+        "sort": "Shastri, Lal Bahadur",
+        "also_known_as": [
+          "लालबहादूर शास्त्री",
+          "Shastri"
+        ]
+      },
+      "birth_year": 1904,
+      "death_year": 1966,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "maulana-abul-kalam-azad",
+      "name": {
+        "canonical": "Maulana Abul Kalam Azad",
+        "sort": "Azad, Maulana Abul Kalam",
+        "also_known_as": [
+          "Maulana Abdul Kalam Azad",
+          "Maulana Azad"
+        ]
+      },
+      "birth_year": 1888,
+      "death_year": 1958,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "vijaya-lakshmi-pandit",
+      "name": {
+        "canonical": "Vijaya Lakshmi Pandit",
+        "sort": "Pandit, Vijaya Lakshmi",
+        "also_known_as": [
+          "Mrs. Vijayalaxmi Pandit",
+          "Vijayalaxmi Pandit"
+        ]
+      },
+      "birth_year": 1900,
+      "death_year": 1990,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "chintaman-deshmukh",
+      "name": {
+        "canonical": "C. D. Deshmukh",
+        "full": "Chintaman Dwarkanath Deshmukh",
+        "sort": "Deshmukh, C. D.",
+        "also_known_as": [
+          "CD Deshmukh",
+          "C. C. Deshmukh",
+          "Chintaman Deshmukh"
+        ]
+      },
+      "birth_year": 1896,
+      "death_year": 1982,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "h-m-patel",
+      "name": {
+        "canonical": "H. M. Patel",
+        "full": "Hirubhai Mulljibhai Patel",
+        "sort": "Patel, H. M.",
+        "also_known_as": [
+          "HM Patel"
+        ]
+      },
+      "birth_year": 1904,
+      "death_year": 1993,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "s-k-patil",
+      "name": {
+        "canonical": "S. K. Patil",
+        "full": "Sadashiv Kanoji Patil",
+        "sort": "Patil, S. K."
+      },
+      "birth_year": 1900,
+      "death_year": 1981,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "k-d-malaviya",
+      "name": {
+        "canonical": "K. D. Malaviya",
+        "full": "Keshav Deva Malaviya",
+        "sort": "Malaviya, K. D."
+      },
+      "birth_year": 1904,
+      "death_year": 1981,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "v-k-r-v-rao",
+      "name": {
+        "canonical": "V. K. R. V. Rao",
+        "full": "Vijayendra Kasturi Ranga Varadaraja Rao",
+        "sort": "Rao, V. K. R. V.",
+        "also_known_as": [
+          "VKRV Rao",
+          "के॰ के॰ आर॰ वी॰ राव"
+        ]
+      },
+      "birth_year": 1908,
+      "death_year": 1991,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "d-v-gundappa",
+      "name": {
+        "canonical": "D. V. Gundappa",
+        "sort": "Gundappa, D. V.",
+        "also_known_as": [
+          "DVG",
+          "D.V.Gundappa"
+        ]
+      },
+      "birth_year": 1887,
+      "death_year": 1975,
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "khasa-subba-rau",
+      "name": {
+        "canonical": "Khasa Subba Rau",
+        "sort": "Rau, Khasa Subba"
+      },
+      "birth_year": 1896,
+      "death_year": 1961,
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "humayun-kabir",
+      "name": {
+        "canonical": "Humayun Kabir",
+        "sort": "Kabir, Humayun"
+      },
+      "birth_year": 1906,
+      "death_year": 1969,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "h-t-parekh",
+      "name": {
+        "canonical": "H. T. Parekh",
+        "full": "Hasmukhbhai Thakordas Parekh",
+        "sort": "Parekh, H. T.",
+        "also_known_as": [
+          "Mr. H. T. PAREKH",
+          "HT Parekh"
+        ]
+      },
+      "birth_year": 1911,
+      "death_year": 1994,
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "n-das",
+      "name": {
+        "canonical": "N. Das",
+        "sort": "Das, N.",
+        "also_known_as": [
+          "Dr. N. DAS, I.C.S. (Retd.)",
+          "Dr. N. DAS I.C.S. (Retd.)"
+        ]
+      },
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "j-m-lobo-prabhu",
+      "name": {
+        "canonical": "J. M. Lobo Prabhu",
+        "full": "Joachim Magdalene Lobo Prabhu",
+        "sort": "Lobo Prabhu, J. M.",
+        "also_known_as": [
+          "J. M. Lobo Prabhu I.C.S. (Retd.)",
+          "Lobo Prabhu"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "louella-lobo-prabhu",
+      "name": {
+        "canonical": "Louella Lobo Prabhu",
+        "sort": "Lobo Prabhu, Louella",
+        "also_known_as": [
+          "Mme Louella Lobo Prabhu"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "eugene-black",
+      "name": {
+        "canonical": "Eugene R. Black Sr.",
+        "sort": "Black, Eugene R.",
+        "also_known_as": [
+          "Eugene Black"
+        ]
+      },
+      "birth_year": 1898,
+      "death_year": 1992,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17",
+        "Recurrent FFE epigraph subject (7 PDFs); editorial: confirm canonical-vs-high tier"
+      ]
+    },
+    {
+      "id": "biren-mookerjee",
+      "name": {
+        "canonical": "Sir Biren Mookerjee",
+        "sort": "Mookerjee, Biren",
+        "also_known_as": [
+          "Sir BIREN MOOKERJEE",
+          "Biren Mookerjee"
+        ]
+      },
+      "birth_year": 1899,
+      "death_year": 1982,
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "b-s-mahajan",
+      "name": {
+        "canonical": "B. S. Mahajan",
+        "sort": "Mahajan, B. S.",
+        "also_known_as": [
+          "BS Mahajan"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ila-bhatt",
+      "name": {
+        "canonical": "Ela Bhatt",
+        "full": "Ela Ramesh Bhatt",
+        "sort": "Bhatt, Ela",
+        "also_known_as": [
+          "Ela R. Bhatt",
+          "Ila R. Bhatt",
+          "Ila Bhatt",
+          "ઇલા ર. ભટ્ટ",
+          "ઈલા ર. ભટ્ટ"
+        ]
+      },
+      "birth_year": 1933,
+      "death_year": 2022,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "s-chandrasekhar",
+      "name": {
+        "canonical": "S. Chandrasekhar",
+        "full": "Sripati Chandrasekhar",
+        "sort": "Chandrasekhar, S.",
+        "also_known_as": [
+          "Sripati Chandrasekhar"
+        ]
+      },
+      "birth_year": 1918,
+      "death_year": 2001,
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "milovan-djilas",
+      "name": {
+        "canonical": "Milovan Djilas",
+        "sort": "Djilas, Milovan"
+      },
+      "birth_year": 1911,
+      "death_year": 1995,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "k-f-rustomji",
+      "name": {
+        "canonical": "K. F. Rustomji",
+        "full": "Khusro Faramurz Rustamji",
+        "sort": "Rustomji, K. F.",
+        "also_known_as": [
+          "KF Rustomji",
+          "Rustamji"
+        ]
+      },
+      "birth_year": 1916,
+      "death_year": 2003,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ramdas-rear-admiral",
+      "name": {
+        "canonical": "L. Ramdas",
+        "full": "Laxminarayan Ramdas",
+        "sort": "Ramdas, L.",
+        "also_known_as": [
+          "Admiral Ramdas (retd.)",
+          "Admiral L. Ramdas",
+          "Ramdas"
+        ]
+      },
+      "birth_year": 1933,
+      "death_year": 2024,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "lalita-ramdas",
+      "name": {
+        "canonical": "Lalita Ramdas",
+        "sort": "Ramdas, Lalita"
+      },
+      "birth_year": 1942,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "usha-mehta",
+      "name": {
+        "canonical": "Usha Mehta",
+        "sort": "Mehta, Usha",
+        "also_known_as": [
+          "Dr. Usha Mehta"
+        ]
+      },
+      "birth_year": 1920,
+      "death_year": 2000,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "r-a-jahagirdar",
+      "name": {
+        "canonical": "R. A. Jahagirdar",
+        "sort": "Jahagirdar, R. A.",
+        "also_known_as": [
+          "Justice R. A. Jahagirdar (retd.)",
+          "Justice Jahagirdar"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "indumati-parikh",
+      "name": {
+        "canonical": "Indumati Parikh",
+        "sort": "Parikh, Indumati"
+      },
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "maneesha-tikekar",
+      "name": {
+        "canonical": "Maneesha Tikekar",
+        "sort": "Tikekar, Maneesha",
+        "also_known_as": [
+          "Dr. Maneesha Tikekar"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "e-dsouza",
+      "name": {
+        "canonical": "Eric D'Souza",
+        "sort": "D'Souza, Eric",
+        "also_known_as": [
+          "Maj.Gen. (retd.) E. D'souza",
+          "Maj. Gen. E. D'Souza"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sadanand-varde",
+      "name": {
+        "canonical": "Sadanand Varde",
+        "sort": "Varde, Sadanand"
+      },
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "a-solomon",
+      "name": {
+        "canonical": "A. Solomon",
+        "sort": "Solomon, A."
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "anupam-mehta",
+      "name": {
+        "canonical": "Anupam Mehta",
+        "sort": "Mehta, Anupam"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "yashawant-bhide",
+      "name": {
+        "canonical": "Yashawant Bhide",
+        "sort": "Bhide, Yashawant",
+        "also_known_as": [
+          "Prof. Yashawant Bhide"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "g-b-nagporewalla",
+      "name": {
+        "canonical": "G. B. Nagporewalla",
+        "sort": "Nagporewalla, G. B.",
+        "also_known_as": [
+          "Dr. G. B. Nagporewalla"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "malini-karakal",
+      "name": {
+        "canonical": "Malini Karakal",
+        "sort": "Karakal, Malini"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "mangesh-kulkarni",
+      "name": {
+        "canonical": "Mangesh Kulkarni",
+        "sort": "Kulkarni, Mangesh"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ms-seetha",
+      "name": {
+        "canonical": "Seetha",
+        "sort": "Seetha",
+        "also_known_as": [
+          "Ms. Seetha"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "hubertus-von-welck",
+      "name": {
+        "canonical": "Hubertus von Welck",
+        "sort": "Welck, Hubertus von"
+      },
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "detmar-doering",
+      "name": {
+        "canonical": "Detmar Doering",
+        "sort": "Doering, Detmar",
+        "also_known_as": [
+          "Dr. Detmar Doering"
+        ]
+      },
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "jurgen-axer",
+      "name": {
+        "canonical": "Jürgen Axer",
+        "sort": "Axer, Jurgen",
+        "also_known_as": [
+          "Dr. Jürgen Axer",
+          "Dr. Jurgen Axer"
+        ]
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "rene-klaff",
+      "name": {
+        "canonical": "René Klaff",
+        "sort": "Klaff, Rene",
+        "also_known_as": [
+          "Dr. René Klaff"
+        ]
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "siegfried-herzog",
+      "name": {
+        "canonical": "Siegfried Herzog",
+        "sort": "Herzog, Siegfried"
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "erhard-haubold",
+      "name": {
+        "canonical": "Erhard Haubold",
+        "sort": "Haubold, Erhard"
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "chanaka-amaratunga",
+      "name": {
+        "canonical": "Chanaka Amaratunga",
+        "sort": "Amaratunga, Chanaka",
+        "also_known_as": [
+          "Dr. Chanaka Amaratunga"
+        ]
+      },
+      "birth_year": 1958,
+      "death_year": 1996,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "matt-ridley",
+      "name": {
+        "canonical": "Matt Ridley",
+        "sort": "Ridley, Matt"
+      },
+      "birth_year": 1958,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ken-schoolland",
+      "name": {
+        "canonical": "Ken Schoolland",
+        "sort": "Schoolland, Ken",
+        "also_known_as": [
+          "Ken Schooland"
+        ]
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "bernard-iddings-bell",
+      "name": {
+        "canonical": "Bernard Iddings Bell",
+        "sort": "Bell, Bernard Iddings"
+      },
+      "birth_year": 1886,
+      "death_year": 1958,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ralph-borsodi",
+      "name": {
+        "canonical": "Ralph Borsodi",
+        "sort": "Borsodi, Ralph"
+      },
+      "birth_year": 1886,
+      "death_year": 1977,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "franz-oppenheimer",
+      "name": {
+        "canonical": "Franz Oppenheimer",
+        "sort": "Oppenheimer, Franz"
+      },
+      "birth_year": 1864,
+      "death_year": 1943,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sunil-bhandare",
+      "name": {
+        "canonical": "Sunil S. Bhandare",
+        "sort": "Bhandare, Sunil S.",
+        "also_known_as": [
+          "Mr. Sunil S. Bhandare",
+          "Sunil Bhandare"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "c-s-deshpande",
+      "name": {
+        "canonical": "C. S. Deshpande",
+        "sort": "Deshpande, C. S.",
+        "also_known_as": [
+          "Dr. C. S. Deshpande",
+          "Dr.C.S.Deshpande"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "arvind-deshpande",
+      "name": {
+        "canonical": "Arvind Deshpande",
+        "sort": "Deshpande, Arvind",
+        "also_known_as": [
+          "Mr. Arvind Deshpande"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "narayan-varma",
+      "name": {
+        "canonical": "Narayan K. Varma",
+        "sort": "Varma, Narayan K.",
+        "also_known_as": [
+          "Mr. Narayan Varma",
+          "Narayan Varma"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "kishor-karia",
+      "name": {
+        "canonical": "Kishor B. Karia",
+        "sort": "Karia, Kishor B.",
+        "also_known_as": [
+          "Mr. Kishor B. Karia",
+          "Kishor Karia"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "jayraj-sheth",
+      "name": {
+        "canonical": "Jayraj Sheth",
+        "sort": "Sheth, Jayraj"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sharad-bailur",
+      "name": {
+        "canonical": "Sharad Bailur",
+        "sort": "Bailur, Sharad"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "r-g-katoti",
+      "name": {
+        "canonical": "R. G. Katoti",
+        "sort": "Katoti, R. G.",
+        "also_known_as": [
+          "Mr. R. G. Katoti"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "mangesh-soman",
+      "name": {
+        "canonical": "Mangesh Soman",
+        "sort": "Soman, Mangesh",
+        "also_known_as": [
+          "Mr. Mangesh Soman"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sanjay-panse",
+      "name": {
+        "canonical": "Sanjay Panse",
+        "sort": "Panse, Sanjay",
+        "also_known_as": [
+          "Mr. Sanjay Panse",
+          "Mr.Sanjay Panse"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "m-n-tholal",
+      "name": {
+        "canonical": "M. N. Tholal",
+        "sort": "Tholal, M. N."
+      },
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "d-m-kulkarni-libertarian",
+      "name": {
+        "canonical": "D. M. Kulkarni (Indian Libertarian)",
+        "sort": "Kulkarni, D. M."
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17",
+        "Editorial note: distinct from existing `dm-kulkarni` entry; confirm in Phase 0.3 cluster collapse"
+      ]
+    },
+    {
+      "id": "geeta-lal",
+      "name": {
+        "canonical": "Geeta Lal",
+        "sort": "Lal, Geeta"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ambrish-mehta",
+      "name": {
+        "canonical": "Ambrish Mehta",
+        "sort": "Mehta, Ambrish",
+        "also_known_as": [
+          "અંબરીષ મહેતા"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "rajesh-mishra",
+      "name": {
+        "canonical": "Rajesh Mishra",
+        "sort": "Mishra, Rajesh",
+        "also_known_as": [
+          "રાજેશ મિશ્રા"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "anil-patel",
+      "name": {
+        "canonical": "Anil Patel",
+        "sort": "Patel, Anil",
+        "also_known_as": [
+          "અનિલ પટેલ"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ashwin-karia",
+      "name": {
+        "canonical": "Ashwin Karia",
+        "sort": "Karia, Ashwin",
+        "also_known_as": [
+          "અશ્વિન કારીઆ"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "trupti-parekh",
+      "name": {
+        "canonical": "Trupti Parekh",
+        "sort": "Parekh, Trupti",
+        "also_known_as": [
+          "તૃપ્તિ પારેખ",
+          "તૃષિ પારેખ"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "suresh-parikh",
+      "name": {
+        "canonical": "Suresh Parikh",
+        "sort": "Parikh, Suresh",
+        "also_known_as": [
+          "સુરેશ પરીખ"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "himanshi-shelat",
+      "name": {
+        "canonical": "Himanshi Shelat",
+        "sort": "Shelat, Himanshi",
+        "also_known_as": [
+          "હિમાંશી શેલત"
+        ]
+      },
+      "birth_year": 1947,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "dankesh-oza",
+      "name": {
+        "canonical": "Dankesh Oza",
+        "sort": "Oza, Dankesh",
+        "also_known_as": [
+          "ડંકેશ ઓઝા"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "mukesh-adenwala",
+      "name": {
+        "canonical": "Mukesh Adenwala",
+        "sort": "Adenwala, Mukesh"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "shrikant-umrikar",
+      "name": {
+        "canonical": "Shrikant Umrikar",
+        "full": "Shrikant Anant Umrikar",
+        "sort": "Umrikar, Shrikant",
+        "also_known_as": [
+          "श्रीकांत उमरीकर",
+          "श्रीकांत अनंत उमरीकर",
+          "Shreekant Umarkar"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "anant-umrikar",
+      "name": {
+        "canonical": "Anant Umrikar",
+        "sort": "Umrikar, Anant",
+        "also_known_as": [
+          "अनंत उमरीकर"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "vijay-jawandhia",
+      "name": {
+        "canonical": "Vijay Jawandhia",
+        "sort": "Jawandhia, Vijay",
+        "also_known_as": [
+          "विजय जावंधिया"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "kaushal-kishor",
+      "name": {
+        "canonical": "Kaushal Kishor",
+        "sort": "Kishor, Kaushal",
+        "also_known_as": [
+          "कौशल किशोर"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "v-p-sinha",
+      "name": {
+        "canonical": "V. P. Sinha",
+        "sort": "Sinha, V. P.",
+        "also_known_as": [
+          "वी. पी. सिन्हा"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "parth-shah",
+      "name": {
+        "canonical": "Parth J. Shah",
+        "sort": "Shah, Parth J.",
+        "also_known_as": [
+          "Parth J Shah",
+          "Parth Shah",
+          "Dr. Parth J. Shah",
+          "डॉ. पार्थ जे. शाह"
+        ]
+      },
+      "birth_year": 1962,
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "r-k-amin",
+      "name": {
+        "canonical": "R. K. Amin",
+        "sort": "Amin, R. K.",
+        "also_known_as": [
+          "R K Amin",
+          "RK Amin"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17",
+        "Editorial note: distinct from `prof-rk-amin` already in authority — collapse in Phase 0.3"
+      ]
+    },
+    {
+      "id": "indira-rajaraman",
+      "name": {
+        "canonical": "Indira Rajaraman",
+        "sort": "Rajaraman, Indira",
+        "also_known_as": [
+          "Dr. Indira Rajaraman"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "abhay-pethe",
+      "name": {
+        "canonical": "Abhay Pethe",
+        "sort": "Pethe, Abhay",
+        "also_known_as": [
+          "Dr. Abhay Pethe"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "c-rangarajan",
+      "name": {
+        "canonical": "C. Rangarajan",
+        "sort": "Rangarajan, C.",
+        "also_known_as": [
+          "Dr. C. Rangarajan"
+        ]
+      },
+      "birth_year": 1932,
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "d-k-srivastava",
+      "name": {
+        "canonical": "D. K. Srivastava",
+        "sort": "Srivastava, D. K.",
+        "also_known_as": [
+          "Dr. D.K. Srivastava"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "j-k-dhairyawan",
+      "name": {
+        "canonical": "J. K. Dhairyawan",
+        "sort": "Dhairyawan, J. K."
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "kishore-valicha",
+      "name": {
+        "canonical": "Kishore Valicha",
+        "sort": "Valicha, Kishore"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ajit-bhattacharjea",
+      "name": {
+        "canonical": "Ajit Bhattacharjea",
+        "sort": "Bhattacharjea, Ajit"
+      },
+      "birth_year": 1924,
+      "death_year": 2011,
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "kusum-shrestha",
+      "name": {
+        "canonical": "Kusum Shrestha",
+        "sort": "Shrestha, Kusum"
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "fazal-ur-rahman",
+      "name": {
+        "canonical": "Fazal-ur-Rahman",
+        "sort": "Rahman, Fazal-ur-"
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "v-vijayatunga",
+      "name": {
+        "canonical": "V. Vijayatunga",
+        "sort": "Vijayatunga, V.",
+        "also_known_as": [
+          "J. Vijayatunga"
+        ]
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "k-sreeramamurty",
+      "name": {
+        "canonical": "K. Sreeramamurty",
+        "sort": "Sreeramamurty, K."
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "a-d-cohen",
+      "name": {
+        "canonical": "A. D. Cohen",
+        "sort": "Cohen, A. D."
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "t-subbaya-shetty",
+      "name": {
+        "canonical": "T. Subbaya Shetty",
+        "sort": "Shetty, T. Subbaya"
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "claret-dsouza",
+      "name": {
+        "canonical": "Claret D'Souza",
+        "sort": "D'Souza, Claret"
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ashok-v-desai",
+      "name": {
+        "canonical": "Ashok V. Desai",
+        "sort": "Desai, Ashok V.",
+        "also_known_as": [
+          "Dr. Ashok V. Desai",
+          "Dr. Ashok Desai",
+          "Ashok Desai"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17",
+        "Editorial: confirm collapse with existing `ashok-desai` entry"
+      ]
+    },
+    {
+      "id": "b-k-nehru",
+      "name": {
+        "canonical": "B. K. Nehru",
+        "full": "Braj Kumar Nehru",
+        "sort": "Nehru, B. K.",
+        "also_known_as": [
+          "BK Nehru"
+        ]
+      },
+      "birth_year": 1909,
+      "death_year": 2001,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17",
+        "Editorial: distinct from existing `bk-nehru` short-form entry — keep both for now, collapse in 0.3"
+      ]
+    },
+    {
+      "id": "ruth-benedict",
+      "name": {
+        "canonical": "Ruth Benedict",
+        "sort": "Benedict, Ruth"
+      },
+      "birth_year": 1887,
+      "death_year": 1948,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "aldous-huxley",
+      "name": {
+        "canonical": "Aldous Huxley",
+        "sort": "Huxley, Aldous"
+      },
+      "birth_year": 1894,
+      "death_year": 1963,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson",
+      "name": {
+        "canonical": "Ralph Waldo Emerson",
+        "sort": "Emerson, Ralph Waldo"
+      },
+      "birth_year": 1803,
+      "death_year": 1882,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "bernard-shaw",
+      "name": {
+        "canonical": "George Bernard Shaw",
+        "sort": "Shaw, George Bernard",
+        "also_known_as": [
+          "Bernard Shaw"
+        ]
+      },
+      "birth_year": 1856,
+      "death_year": 1950,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "robert-mcnamara",
+      "name": {
+        "canonical": "Robert McNamara",
+        "sort": "McNamara, Robert"
+      },
+      "birth_year": 1916,
+      "death_year": 2009,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "carlos-romulo",
+      "name": {
+        "canonical": "Carlos P. Romulo",
+        "sort": "Romulo, Carlos P.",
+        "also_known_as": [
+          "Carlos Romulo"
+        ]
+      },
+      "birth_year": 1898,
+      "death_year": 1985,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "john-f-kennedy",
+      "name": {
+        "canonical": "John F. Kennedy",
+        "sort": "Kennedy, John F.",
+        "also_known_as": [
+          "John Kennedy",
+          "JFK"
+        ]
+      },
+      "birth_year": 1917,
+      "death_year": 1963,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ayub-khan",
+      "name": {
+        "canonical": "Ayub Khan",
+        "full": "Muhammad Ayub Khan",
+        "sort": "Khan, Ayub",
+        "also_known_as": [
+          "General Ayub Khan",
+          "Field Marshal Ayub Khan"
+        ]
+      },
+      "birth_year": 1907,
+      "death_year": 1974,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "iskander-mirza",
+      "name": {
+        "canonical": "Iskander Mirza",
+        "sort": "Mirza, Iskander"
+      },
+      "birth_year": 1899,
+      "death_year": 1969,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "feroz-khan-noon",
+      "name": {
+        "canonical": "Feroz Khan Noon",
+        "sort": "Noon, Feroz Khan"
+      },
+      "birth_year": 1893,
+      "death_year": 1970,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "zhou-enlai",
+      "name": {
+        "canonical": "Zhou Enlai",
+        "sort": "Zhou, Enlai",
+        "also_known_as": [
+          "Chou En-lai"
+        ]
+      },
+      "birth_year": 1898,
+      "death_year": 1976,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ngapo-ngawang-jigme",
+      "name": {
+        "canonical": "Ngapo Ngawang Jigme",
+        "sort": "Ngapo, Ngawang Jigme"
+      },
+      "birth_year": 1910,
+      "death_year": 2009,
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "samdhong-rinpoche",
+      "name": {
+        "canonical": "Samdhong Rinpoche",
+        "full": "Samdhong Lobsang Tenzin",
+        "sort": "Samdhong Rinpoche",
+        "also_known_as": [
+          "Prof. Samdhong Rinpoche"
+        ]
+      },
+      "birth_year": 1939,
+      "tradition": "international_influence",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "h-narayan-rao",
+      "name": {
+        "canonical": "H. Narayan Rao",
+        "sort": "Rao, H. Narayan"
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "j-r-marshall",
+      "name": {
+        "canonical": "J. R. Marshall",
+        "sort": "Marshall, J. R."
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "p-v-sukhatme",
+      "name": {
+        "canonical": "P. V. Sukhatme",
+        "sort": "Sukhatme, P. V.",
+        "also_known_as": [
+          "Professor P. V. Sukhatme"
+        ]
+      },
+      "birth_year": 1911,
+      "death_year": 1997,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "richard-plaster",
+      "name": {
+        "canonical": "Richard Plaster",
+        "sort": "Plaster, Richard"
+      },
+      "tradition": "international_influence",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "ismail-gandhi",
+      "name": {
+        "canonical": "Ismail Gandhi",
+        "sort": "Gandhi, Ismail",
+        "also_known_as": [
+          "ઈસ્માઈલ ગાંધી"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "javed-anand",
+      "name": {
+        "canonical": "Javed Anand",
+        "sort": "Anand, Javed",
+        "also_known_as": [
+          "જાવેદ આનંદ"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "mehboob-desai",
+      "name": {
+        "canonical": "Mehboob Desai",
+        "sort": "Desai, Mehboob",
+        "also_known_as": [
+          "મહેબૂબ દેસાઈ"
+        ]
+      },
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "swami-anand",
+      "name": {
+        "canonical": "Swami Anand",
+        "sort": "Swami Anand",
+        "also_known_as": [
+          "સ્વામી આનંદ"
+        ]
+      },
+      "birth_year": 1887,
+      "death_year": 1976,
+      "tradition": "social_reformer",
+      "confidence": "high",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sumati-morarjee",
+      "name": {
+        "canonical": "Sumati Morarjee",
+        "sort": "Morarjee, Sumati"
+      },
+      "birth_year": 1909,
+      "death_year": 1998,
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "r-k-hazari",
+      "name": {
+        "canonical": "R. K. Hazari",
+        "sort": "Hazari, R. K."
+      },
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.6-wave2-refresh-2026-05-17"
       ]
     }
   ],
@@ -3696,6 +6620,229 @@
     "chaudhary charan singh": "charan-singh",
     "के चरणसिंह": "charan-singh",
     "चौधरी चरण सिंह": "charan-singh",
-    "चरण सिंह": "charan-singh"
+    "चरण सिंह": "charan-singh",
+    "adam smith": "adam-smith",
+    "john stuart mill": "john-stuart-mill",
+    "john locke": "john-locke",
+    "alexis de tocqueville": "alexis-de-tocqueville",
+    "ludwig von mises": "ludwig-von-mises",
+    "margaret thatcher": "margaret-thatcher",
+    "john kenneth galbraith": "john-kenneth-galbraith",
+    "professor galbraith": "john-kenneth-galbraith",
+    "wilhelm ropke": "wilhelm-ropke",
+    "wilhelm röpke": "wilhelm-ropke",
+    "immanuel kant": "immanuel-kant",
+    "thomas aquinas": "thomas-aquinas",
+    "herbert spencer": "herbert-spencer",
+    "ludwig erhard": "ludwig-erhard",
+    "राम मनोहर लोहिया": "ram-manohar-lohia",
+    "vinoba bhave": "vinoba-bhave",
+    "acharya vinoba bhave": "vinoba-bhave",
+    "धीमती सरोजिनी नायडू": "sarojini-naidu",
+    "dr bibek debroy": "bibek-debroy",
+    "dr vijay kelkar": "vijay-kelkar",
+    "amartya sen": "amartya-sen",
+    "inder gujral": "i-k-gujral",
+    "achyut patwardhan": "achyut-patwardhan",
+    "j r d tata": "jrd-tata",
+    "p n haksar": "p-n-haksar",
+    "p c mahalanobis": "p-c-mahalanobis",
+    "prof mahalanobis": "p-c-mahalanobis",
+    "श्री वी टी कृष्णमाचारी": "v-t-krishnamachari",
+    "महात्मा जोतीराव फुले": "jyotirao-phule",
+    "periyar ramaswami naicker": "periyar-e-v-ramasamy",
+    "bal gangadhar tilak": "bal-gangadhar-tilak",
+    "derozio": "henry-louis-vivian-derozio",
+    "david hare": "david-hare",
+    "macaulay": "thomas-babington-macaulay",
+    "lord macaulay": "thomas-babington-macaulay",
+    "lord william bentinck": "william-bentinck",
+    "warren hastings": "warren-hastings",
+    "alexander duff": "alexander-duff",
+    "william adam": "william-adam",
+    "dwarkanath tagore": "dwarkanath-tagore",
+    "krishnamohan bandyopadhyay": "krishnamohan-bandyopadhyay",
+    "radhakanta dev": "radhakanta-deb",
+    "sivanath sastri": "sivanath-sastri",
+    "ramtanu lahiri": "ramtanu-lahiri",
+    "rasikkrishna mallik": "rasikkrishna-mallik",
+    "tarachand chakrabarty": "tarachand-chakrabarty",
+    "parichand mitra": "parichand-mitra",
+    "narayan mahadev paramananda": "narayan-mahadev-paramananda",
+    "utsavananda vidyabagish": "utsavananda-vidyabagish",
+    "khrushchev": "nikita-khrushchev",
+    "colonel nasser": "gamal-abdel-nasser",
+    "mao zedong": "mao-zedong",
+    "deng xiaoping": "deng-xiaoping",
+    "mrs sirimavo bandaranaike": "sirimavo-bandaranaike",
+    "mrs srimavo bandaranaike": "sirimavo-bandaranaike",
+    "dudley senanayake": "dudley-senanayake",
+    "mr dulles": "john-foster-dulles",
+    "prime minister eden": "anthony-eden",
+    "abraham lincoln": "abraham-lincoln",
+    "अब्राहम लिंकन": "abraham-lincoln",
+    "winston churchill": "winston-churchill",
+    "स्टालिन": "joseph-stalin",
+    "willy brandt": "willy-brandt",
+    "theodor heuss": "theodor-heuss",
+    "friedrich naumann": "friedrich-naumann",
+    "हिर्षमन": "albert-hirschman",
+    "professor colin clark": "colin-clark",
+    "दांतेवाला": "m-l-dantewala",
+    "kaldor": "nicholas-kaldor",
+    "अशोक मित्र": "ashok-mitra",
+    "अशोक मेहता": "ashok-mehta",
+    "k m munshi": "k-m-munshi",
+    "sarvepalli radhakrishnan": "sarvepalli-radhakrishnan",
+    "s radhakrishnan": "sarvepalli-radhakrishnan",
+    "professor s radhakrishnan": "sarvepalli-radhakrishnan",
+    "acharya kripalani": "j-b-kripalani",
+    "morarji desai": "morarji-desai",
+    "लालबहादूर शास्त्री": "lal-bahadur-shastri",
+    "maulana abdul kalam azad": "maulana-abul-kalam-azad",
+    "mrs vijayalaxmi pandit": "vijaya-lakshmi-pandit",
+    "c c deshmukh": "chintaman-deshmukh",
+    "h m patel": "h-m-patel",
+    "s k patil": "s-k-patil",
+    "k d malaviya": "k-d-malaviya",
+    "के॰ के॰ आर॰ वी॰ राव": "v-k-r-v-rao",
+    "d v gundappa": "d-v-gundappa",
+    "dvgundappa": "d-v-gundappa",
+    "khasa subba rau": "khasa-subba-rau",
+    "humayun kabir": "humayun-kabir",
+    "h t parekh": "h-t-parekh",
+    "mr h t parekh": "h-t-parekh",
+    "dr n das ics retd": "n-das",
+    "j m lobo prabhu ics retd": "j-m-lobo-prabhu",
+    "j m lobo prabhu": "j-m-lobo-prabhu",
+    "mme louella lobo prabhu": "louella-lobo-prabhu",
+    "eugene black": "eugene-black",
+    "sir biren mookerjee": "biren-mookerjee",
+    "b s mahajan": "b-s-mahajan",
+    "ઇલા ર ભટ્ટ": "ila-bhatt",
+    "ઈલા ર ભટ્ટ": "ila-bhatt",
+    "s chandrasekhar": "s-chandrasekhar",
+    "milovan djilas": "milovan-djilas",
+    "k f rustomji": "k-f-rustomji",
+    "admiral ramdas retd": "ramdas-rear-admiral",
+    "lalita ramdas": "lalita-ramdas",
+    "dr usha mehta": "usha-mehta",
+    "justice r a jahagirdar retd": "r-a-jahagirdar",
+    "indumati parikh": "indumati-parikh",
+    "dr maneesha tikekar": "maneesha-tikekar",
+    "majgen retd e d'souza": "e-dsouza",
+    "sadanand varde": "sadanand-varde",
+    "a solomon": "a-solomon",
+    "anupam mehta": "anupam-mehta",
+    "prof yashawant bhide": "yashawant-bhide",
+    "dr g b nagporewalla": "g-b-nagporewalla",
+    "malini karakal": "malini-karakal",
+    "mangesh kulkarni": "mangesh-kulkarni",
+    "ms seetha": "ms-seetha",
+    "hubertus von welck": "hubertus-von-welck",
+    "dr detmar doering": "detmar-doering",
+    "dr jürgen axer": "jurgen-axer",
+    "dr jurgen axer": "jurgen-axer",
+    "dr rené klaff": "rene-klaff",
+    "siegfried herzog": "siegfried-herzog",
+    "erhard haubold": "erhard-haubold",
+    "dr chanaka amaratunga": "chanaka-amaratunga",
+    "matt ridley": "matt-ridley",
+    "ken schooland": "ken-schoolland",
+    "bernard iddings bell": "bernard-iddings-bell",
+    "ralph borsodi": "ralph-borsodi",
+    "franz oppenheimer": "franz-oppenheimer",
+    "sunil s bhandare": "sunil-bhandare",
+    "mr sunil s bhandare": "sunil-bhandare",
+    "c s deshpande": "c-s-deshpande",
+    "drcsdeshpande": "c-s-deshpande",
+    "dr c s deshpande": "c-s-deshpande",
+    "arvind deshpande": "arvind-deshpande",
+    "narayan k varma": "narayan-varma",
+    "mr narayan varma": "narayan-varma",
+    "narayan varma": "narayan-varma",
+    "kishor karia": "kishor-karia",
+    "mr kishor b karia": "kishor-karia",
+    "kishor b karia": "kishor-karia",
+    "jayraj sheth": "jayraj-sheth",
+    "sharad bailur": "sharad-bailur",
+    "r g katoti": "r-g-katoti",
+    "mr r g katoti": "r-g-katoti",
+    "mangesh soman": "mangesh-soman",
+    "mr mangesh soman": "mangesh-soman",
+    "mr sanjay panse": "sanjay-panse",
+    "mrsanjay panse": "sanjay-panse",
+    "m n tholal": "m-n-tholal",
+    "d m kulkarni": "d-m-kulkarni-libertarian",
+    "geeta lal": "geeta-lal",
+    "અંબરીષ મહેતા": "ambrish-mehta",
+    "રાજેશ મિશ્રા": "rajesh-mishra",
+    "અનિલ પટેલ": "anil-patel",
+    "અશ્વિન કારીઆ": "ashwin-karia",
+    "તૃપ્તિ પારેખ": "trupti-parekh",
+    "તૃષિ પારેખ": "trupti-parekh",
+    "સુરેશ પરીખ": "suresh-parikh",
+    "હિમાંશી શેલત": "himanshi-shelat",
+    "ડંકેશ ઓઝા": "dankesh-oza",
+    "mukesh adenwala": "mukesh-adenwala",
+    "श्रीकांत उमरीकर": "shrikant-umrikar",
+    "श्रीकांत अनंत उमरीकर": "shrikant-umrikar",
+    "अनंत उमरीकर": "anant-umrikar",
+    "विजय जावंधिया": "vijay-jawandhia",
+    "कौशल किशोर": "kaushal-kishor",
+    "वी पी सिन्हा": "v-p-sinha",
+    "parth j shah": "parth-shah",
+    "डॉ पार्थ जे शाह": "parth-shah",
+    "r k amin": "r-k-amin",
+    "dr indira rajaraman": "indira-rajaraman",
+    "dr abhay pethe": "abhay-pethe",
+    "dr c rangarajan": "c-rangarajan",
+    "dr dk srivastava": "d-k-srivastava",
+    "j k dhairyawan": "j-k-dhairyawan",
+    "kishore valicha": "kishore-valicha",
+    "ajit bhattacharjea": "ajit-bhattacharjea",
+    "kusum shrestha": "kusum-shrestha",
+    "fazal-ur-rahman": "fazal-ur-rahman",
+    "v vijayatunga": "v-vijayatunga",
+    "j vijayatunga": "v-vijayatunga",
+    "k sreeramamurty": "k-sreeramamurty",
+    "a d cohen": "a-d-cohen",
+    "k v subrahmanyam": "kv-subrahmanyam",
+    "t subbaya shetty": "t-subbaya-shetty",
+    "claret d'souza": "claret-dsouza",
+    "dr ashok v desai": "ashok-v-desai",
+    "dr ashok desai": "ashok-v-desai",
+    "b k nehru": "bk-nehru-cn",
+    "ruth benedict": "ruth-benedict",
+    "aldous huxley": "aldous-huxley",
+    "ralph waldo emerson": "ralph-waldo-emerson",
+    "bernard shaw": "bernard-shaw",
+    "robert mcnamara": "robert-mcnamara",
+    "carlos romulo": "carlos-romulo",
+    "john kennedy": "john-f-kennedy",
+    "general ayub khan": "ayub-khan",
+    "iskander mirza": "iskander-mirza",
+    "feroz khan noon": "feroz-khan-noon",
+    "chou en-lai": "zhou-enlai",
+    "ngapo ngawang jigme": "ngapo-ngawang-jigme",
+    "prof samdhong rinpoche": "samdhong-rinpoche",
+    "h narayan rao": "h-narayan-rao",
+    "j r marshall": "j-r-marshall",
+    "professor p v sukhatme": "p-v-sukhatme",
+    "richard plaster": "richard-plaster",
+    "ઈસ્માઈલ ગાંધી": "ismail-gandhi",
+    "જાવેદ આનંદ": "javed-anand",
+    "મહેબૂબ દેસાઈ": "mehboob-desai",
+    "સ્વામી આનંદ": "swami-anand",
+    "m r masani mp": "minoo-masani",
+    "sumati morarjee": "sumati-morarjee",
+    "r k hazari": "r-k-hazari",
+    "सौविक चक्रवर्ती": "sauvik-chakraverti",
+    "के चरण सिंह": "charan-singh",
+    "atal behari vajpayee": "atal-bihari-vajpayee",
+    "m a sreenivasan": "ma-sreenivasan",
+    "mr s v raju": "s-v-raju",
+    "drajit karnik": "ajit-karnik",
+    "dr ajit karnik": "ajit-karnik"
   }
 }
