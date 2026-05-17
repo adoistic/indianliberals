@@ -1,0 +1,233 @@
+---
+// Pagefind-powered client-side search.
+//
+// Pagefind builds a single static index across all per-page tokens after
+// `astro build`. The `data-pagefind-body` attribute on detail-page <article>
+// elements scopes indexing to the article content (not the nav/footer).
+// The `lang` attribute on each <html> element (set by BaseLayout from the
+// entry's `language` field) drives Pagefind's per-page tokenizer choice
+// (English / Devanagari / Gujarati / Marathi / Bengali), avoiding the
+// silent-empty-result failure mode for Indic scripts (Critical Gap T21).
+//
+// Filters available (set via data-pagefind-filter on detail pages):
+//   - type: thinker | organisation | primary-work | musing | opinion | interview | theprint-mirror
+//   - lang: en | hi | gu | mr | bn
+//
+// Open via the button rendered below; the dialog is keyboard-trappable.
+
+interface Props {
+  /** Accessible label for the trigger button. */
+  label?: string;
+  /** Placeholder for the search input. */
+  placeholder?: string;
+}
+
+const { label = "Search the archive", placeholder = "Search thinkers, works, themes…" } = Astro.props;
+---
+
+<button
+  type="button"
+  id="search-trigger"
+  aria-label={label}
+  aria-haspopup="dialog"
+  class="inline-flex items-center gap-2 px-3 py-1.5 text-sm font-(family-name:--font-ui) text-(--color-fg-muted) bg-(--color-bg-muted) border border-(--color-border) rounded-full hover:border-(--color-fg) hover:text-(--color-fg) transition-colors"
+>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+    <circle cx="11" cy="11" r="7"></circle>
+    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+  </svg>
+  <span>Search</span>
+  <kbd class="hidden sm:inline-block px-1.5 py-0.5 ml-1 text-[10px] bg-(--color-bg) border border-(--color-border) rounded font-(family-name:--font-mono)">
+    /
+  </kbd>
+</button>
+
+<dialog
+  id="search-dialog"
+  aria-label="Search"
+  class="m-0 ml-auto mr-auto mt-[10vh] w-[min(680px,92vw)] max-w-none p-0 rounded border border-(--color-border) bg-(--color-bg) shadow-2xl backdrop:bg-black/30"
+>
+  <div class="p-4 border-b border-(--color-border) flex items-center gap-3">
+    <label for="pagefind-input" class="sr-only">{placeholder}</label>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-(--color-fg-muted) flex-shrink-0" aria-hidden="true">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+    <input
+      id="pagefind-input"
+      type="search"
+      placeholder={placeholder}
+      autocomplete="off"
+      autocapitalize="off"
+      spellcheck="false"
+      class="flex-1 bg-transparent border-0 outline-0 text-base text-(--color-fg) placeholder:text-(--color-fg-muted) font-(family-name:--font-ui)"
+    />
+    <button type="button" id="search-close" aria-label="Close search" class="text-(--color-fg-muted) hover:text-(--color-fg)">
+      <kbd class="px-1.5 py-0.5 text-xs bg-(--color-bg-muted) border border-(--color-border) rounded font-(family-name:--font-mono)">esc</kbd>
+    </button>
+  </div>
+  <div id="search-filters" class="px-4 py-3 border-b border-(--color-border) flex flex-wrap gap-2 font-(family-name:--font-ui) text-xs">
+    <span class="text-(--color-fg-muted) self-center mr-1">Filter:</span>
+    <!-- Type pills (mutually exclusive) -->
+    <button type="button" data-filter-type="" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)" data-active>All</button>
+    <button type="button" data-filter-type="thinker" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Thinkers</button>
+    <button type="button" data-filter-type="primary-work" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Works</button>
+    <button type="button" data-filter-type="organisation" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Orgs</button>
+    <button type="button" data-filter-type="musing" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Excerpts</button>
+    <button type="button" data-filter-type="opinion" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Opinions</button>
+    <button type="button" data-filter-type="interview" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Interviews</button>
+  </div>
+  <div id="search-results" class="max-h-[60vh] overflow-y-auto"></div>
+  <p class="px-4 py-3 text-xs text-(--color-fg-muted) border-t border-(--color-border) font-(family-name:--font-ui)">
+    Tip: search runs across all languages; results are tokenised per-page using the document's <code class="font-(family-name:--font-mono)">lang</code> attribute.
+  </p>
+</dialog>
+
+<script>
+  /// <reference types="vite/client" />
+  type PagefindResult = {
+    id: string;
+    data(): Promise<PagefindDataResult>;
+  };
+  type PagefindDataResult = {
+    url: string;
+    excerpt: string;
+    meta: { title?: string; image?: string; [k: string]: string | undefined };
+    filters: Record<string, string[]>;
+  };
+  type Pagefind = {
+    search(
+      term: string,
+      opts?: { filters?: Record<string, string | string[]> },
+    ): Promise<{ results: PagefindResult[] }>;
+    debouncedSearch(
+      term: string,
+      opts?: { filters?: Record<string, string | string[]> },
+      delay?: number,
+    ): Promise<{ results: PagefindResult[] } | null>;
+  };
+
+  const trigger = document.getElementById("search-trigger") as HTMLButtonElement | null;
+  const dialog = document.getElementById("search-dialog") as HTMLDialogElement | null;
+  const input = document.getElementById("pagefind-input") as HTMLInputElement | null;
+  const closeBtn = document.getElementById("search-close") as HTMLButtonElement | null;
+  const resultsEl = document.getElementById("search-results") as HTMLDivElement | null;
+  const filterBtns = Array.from(
+    document.querySelectorAll<HTMLButtonElement>("[data-filter-type]"),
+  );
+
+  if (!trigger || !dialog || !input || !resultsEl) {
+    // Search UI elements not present on this page; bail.
+  } else {
+    let pagefind: Pagefind | null = null;
+    let activeType = "";
+
+    // Lazy-load Pagefind only when the user opens the dialog. The index is
+    // emitted to /pagefind/pagefind.js at build time.
+    async function ensurePagefind(): Promise<Pagefind | null> {
+      if (pagefind) return pagefind;
+      try {
+        // Vite needs the string literal as a hint; in dev (no index built)
+        // this import will fail with a friendly message.
+        pagefind = (await import(/* @vite-ignore */ "/pagefind/pagefind.js")) as Pagefind;
+        return pagefind;
+      } catch (e) {
+        console.warn("Pagefind index not found. Run `pnpm build` to generate it.", e);
+        return null;
+      }
+    }
+
+    function openDialog() {
+      if (!dialog.open) dialog.showModal();
+      setTimeout(() => input?.focus(), 30);
+      ensurePagefind();
+    }
+    function closeDialog() {
+      if (dialog.open) dialog.close();
+    }
+
+    trigger.addEventListener("click", openDialog);
+    closeBtn?.addEventListener("click", closeDialog);
+
+    // Global "/" keyboard shortcut (when not focused on a form element).
+    document.addEventListener("keydown", (e) => {
+      const tgt = e.target as HTMLElement | null;
+      const isFormField =
+        tgt &&
+        (tgt.tagName === "INPUT" ||
+          tgt.tagName === "TEXTAREA" ||
+          tgt.isContentEditable);
+      if (e.key === "/" && !isFormField && !e.metaKey && !e.ctrlKey) {
+        e.preventDefault();
+        openDialog();
+      }
+    });
+
+    // Close on backdrop click.
+    dialog.addEventListener("click", (e) => {
+      const rect = (e.target as HTMLElement).getBoundingClientRect?.();
+      // Click outside the dialog box itself (on the backdrop)
+      if (e.target === dialog) closeDialog();
+      void rect;
+    });
+
+    // Filter pills.
+    filterBtns.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        filterBtns.forEach((b) => b.removeAttribute("data-active"));
+        btn.setAttribute("data-active", "");
+        activeType = btn.getAttribute("data-filter-type") || "";
+        if (input.value.trim()) runSearch(input.value);
+      });
+    });
+
+    let lastQuery = "";
+    async function runSearch(term: string) {
+      lastQuery = term;
+      const pf = await ensurePagefind();
+      if (!pf) {
+        resultsEl.innerHTML = `<p class="p-6 text-sm text-(--color-fg-muted)">Search index not yet built. Run <code>pnpm build</code> locally to enable search in dev.</p>`;
+        return;
+      }
+      const filters: Record<string, string | string[]> = {};
+      if (activeType) filters.type = activeType;
+      const search = await pf.debouncedSearch(term, { filters });
+      if (!search || lastQuery !== term) return;
+      const { results } = search;
+      if (!term.trim()) {
+        resultsEl.innerHTML = "";
+        return;
+      }
+      if (!results.length) {
+        resultsEl.innerHTML = `<p class="p-6 text-sm text-(--color-fg-muted)">No results for &ldquo;${escapeHtml(term)}&rdquo;.</p>`;
+        return;
+      }
+      const top = results.slice(0, 12);
+      const dataResults = await Promise.all(top.map((r) => r.data()));
+      resultsEl.innerHTML = dataResults
+        .map((d) => {
+          const types = d.filters?.type || [];
+          const langs = d.filters?.lang || [];
+          const typeBadge = types[0] ? `<span class="text-[10px] uppercase tracking-wider px-1.5 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded mr-2">${escapeHtml(types[0].replace(/-/g, " "))}</span>` : "";
+          const langBadge = langs[0] && langs[0] !== "en" ? `<span class="text-[10px] uppercase tracking-wider px-1.5 py-0.5 bg-(--color-bg) border border-(--color-border) rounded mr-2">${escapeHtml(langs[0])}</span>` : "";
+          return `<a href="${escapeAttr(d.url)}" class="block px-4 py-3 border-b border-(--color-border) no-underline hover:bg-(--color-bg-muted)">
+            <div class="flex items-baseline gap-1 mb-1">
+              ${typeBadge}${langBadge}
+              <span class="font-(family-name:--font-display) font-semibold text-(--color-fg)">${d.meta?.title ? escapeHtml(d.meta.title) : escapeHtml(d.url)}</span>
+            </div>
+            <p class="text-sm text-(--color-fg-muted) leading-snug">${d.excerpt}</p>
+          </a>`;
+        })
+        .join("");
+    }
+
+    input.addEventListener("input", () => runSearch(input.value));
+
+    function escapeHtml(s: string): string {
+      return s.replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c] as string));
+    }
+    function escapeAttr(s: string): string {
+      return escapeHtml(s).replace(/'/g, "&#39;");
+    }
+  }
+</script>

@@ -1,0 +1,65 @@
+---
+// Lang-prefixed organisation detail page.
+// Minimal template — picks up content when translated organisation MDs land.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import {
+  hreflangAlternates,
+  shouldNoindex,
+  LOCALES,
+  DEFAULT_LOCALE,
+  type LangCode,
+} from "~/lib/i18n";
+
+export async function getStaticPaths() {
+  const orgs = await getCollection(
+    "organisations",
+    (o) => !o.data.draft && o.data.language !== DEFAULT_LOCALE,
+  );
+  return orgs
+    .filter((o) => LOCALES.includes(o.data.language as LangCode))
+    .map((o) => ({
+      params: { lang: o.data.language, slug: o.id },
+      props: { o },
+    }));
+}
+
+const { o } = Astro.props;
+const { Content } = await render(o);
+
+const hreflang = hreflangAlternates(
+  "organisations",
+  o.id,
+  o.data.language,
+  o.data.translations,
+  Astro.site!.origin,
+);
+---
+
+<BaseLayout
+  title={`${o.data.name.canonical} — Indian Liberals`}
+  lang={o.data.language}
+  hreflang={hreflang}
+  noindex={shouldNoindex(o.data.translation_status)}
+>
+  <article
+    class="mx-auto max-w-4xl px-6 py-12 md:py-16"
+    data-pagefind-filter={`type:organisation,lang:${o.data.language}`}
+  >
+    <header class="border-b border-(--color-border) pb-10 mb-10">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+        {o.data.type.replace(/_/g, " ")}
+      </p>
+      <h1 class="text-(--color-fg) leading-tight" lang={o.data.language}>{o.data.name.canonical}</h1>
+      {(o.data.founded_year || o.data.dissolved_year) && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-ui) mt-3 text-base">
+          {o.data.founded_year ?? "?"}–{o.data.dissolved_year ?? ""}
+        </p>
+      )}
+    </header>
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700)" lang={o.data.language}>
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

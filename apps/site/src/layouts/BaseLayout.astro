@@ -84,7 +84,10 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
       Skip to content
     </a>
     <Header />
-    <main id="main" class="min-h-[calc(100vh-12rem)]">
+    <!-- data-pagefind-body marks this region as the search-indexable content
+         on every page. Per-page <article> elements add data-pagefind-filter
+         and data-pagefind-meta to scope facets without re-defining the body. -->
+    <main id="main" class="min-h-[calc(100vh-12rem)]" data-pagefind-body>
       <slot />
     </main>
     <Footer />

@@ -1,4 +1,6 @@
 ---
+import Search from "~/components/Search.astro";
+
 const nav = [
   { label: "Thinkers", href: "/thinkers/" },
   { label: "Primary works", href: "/primary-works/" },
@@ -21,7 +23,7 @@ const path = Astro.url.pathname;
         Indian Liberals
       </span>
     </a>
-    <nav aria-label="Primary" class="hidden md:block">
+    <nav aria-label="Primary" class="hidden md:flex md:items-center md:gap-6">
       <ul class="flex items-center gap-6 text-sm font-(family-name:--font-ui)">
         {nav.map((item) => {
           const active = path === item.href || (item.href !== "/" && path.startsWith(item.href));
@@ -41,6 +43,7 @@ const path = Astro.url.pathname;
           );
         })}
       </ul>
+      <Search />
     </nav>
     <details class="md:hidden relative">
       <summary class="list-none cursor-pointer text-(--color-fg-muted) p-2">

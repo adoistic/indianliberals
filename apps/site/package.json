@@ -7,7 +7,9 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
+    "build:astro-only": "astro build",
+    "build:index": "pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check"
@@ -28,6 +30,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
     "@types/node": "^22.10.10",
+    "pagefind": "^1.5.2",
     "prettier": "^3.4.2",
     "prettier-plugin-astro": "^0.14.1",
     "typescript": "^5.9.3"

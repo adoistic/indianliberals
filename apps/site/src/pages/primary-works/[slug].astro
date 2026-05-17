@@ -1,0 +1,225 @@
+---
+// Primary-work detail page (Tier B).
+//
+// Tier B = metadata + AI summary + key points + PDF link. No body-text
+// reconstruction yet (deferred to future engagement). The body of the MD
+// file is the AI-extracted prose summary; the structured fields under
+// `summary_structured` carry key points + pull quotes when present.
+//
+// Lang-prefixed siblings live at /[lang]/works/[slug].astro and reuse this
+// same data via the same getCollection() — see also /[lang]/works.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+
+export async function getStaticPaths() {
+  const works = await getCollection(
+    "primary-works",
+    (w) => !w.data.draft && w.data.language === "en",
+  );
+  return works.map((w) => ({ params: { slug: w.id }, props: { w } }));
+}
+
+const { w } = Astro.props;
+const { Content } = await render(w);
+const fm = w.data;
+
+const hreflang = hreflangAlternates(
+  "primary-works",
+  w.id,
+  fm.language,
+  fm.translations,
+  Astro.site!.origin,
+);
+
+// Pull resolved author thinker entries for byline + bio links.
+const allThinkers = await getCollection("thinkers");
+const thinkersById = new Map(allThinkers.map((t) => [t.id, t]));
+const authorEntries = (fm.authors ?? [])
+  .map((ref) => thinkersById.get(ref.id ?? (ref as unknown as string)))
+  .filter((t): t is NonNullable<typeof t> => !!t);
+
+// Byline string for the header / meta description when no resolved authors.
+const bylineFallback = (fm.contributors ?? [])
+  .filter((c) => c.role === "author")
+  .map((c) => c.thinker_unresolved || c.thinker?.id || "")
+  .filter(Boolean)
+  .join(", ");
+
+const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
+const placeStr = fm.publication?.place || "";
+const pubLine = [placeStr, yearStr].filter(Boolean).join(" · ");
+
+const pagesNote = (() => {
+  const r = fm.physical?.pages_rendered;
+  const t = fm.physical?.pages_total;
+  if (r && t && r < t) return `Pages ${r} of ${t} rendered for AI extraction`;
+  if (r) return `${r} pages`;
+  if (t) return `${t} pages`;
+  return "";
+})();
+
+const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
+
+const keyPoints: string[] = Array.isArray(fm.summary_structured?.key_points)
+  ? fm.summary_structured!.key_points
+  : Array.isArray(fm.ai_key_points)
+    ? fm.ai_key_points
+    : [];
+
+const pullQuotes = (fm.summary_structured?.pull_quotes ?? []).filter(
+  (q) => q && q.verbatim,
+);
+
+const descriptionForMeta = fm.summary
+  ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
+  : `Metadata, summary, and PDF for ${fm.title.main}.`;
+---
+
+<BaseLayout
+  title={`${fm.title.main} — Indian Liberals`}
+  description={descriptionForMeta}
+  lang={fm.language}
+  hreflang={hreflang}
+  noindex={shouldNoindex(fm.translation_status)}
+>
+  <article
+    class="mx-auto max-w-4xl px-6 py-12 md:py-16"
+    data-pagefind-filter={`type:primary-work,lang:${fm.language}`}
+    data-pagefind-meta={`work_type:${fm.work_type},year:${yearStr}`}
+  >
+    <header class="border-b border-(--color-border) pb-10 mb-10">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        {fm.work_type.replace(/_/g, " ")}
+        {fm.purpose && ` · ${fm.purpose.replace(/_/g, " ")}`}
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">{fm.title.main}</h1>
+      {fm.title.subtitle && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-xl mt-2">
+          {fm.title.subtitle}
+        </p>
+      )}
+      {fm.title.original_script && fm.title.original_script !== fm.title.main && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-display) text-xl mt-2" lang={fm.language}>
+          {fm.title.original_script}
+        </p>
+      )}
+
+      {/* Byline */}
+      {(authorEntries.length > 0 || bylineFallback) && (
+        <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
+          By{" "}
+          {authorEntries.length > 0
+            ? authorEntries.map((t, i) => (
+                <>
+                  <a href={`/thinkers/${t.id}/`} class="text-(--color-forest-700)">{t.data.name.canonical}</a>
+                  {i < authorEntries.length - 1 ? ", " : ""}
+                </>
+              ))
+            : bylineFallback}
+        </p>
+      )}
+
+      {/* Publication line */}
+      {(pubLine || fm.publication?.publisher_name) && (
+        <p class="mt-2 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+          {fm.publication?.publisher_name && (
+            <>{fm.publication.publisher_name}{pubLine && " · "}</>
+          )}
+          {pubLine}
+        </p>
+      )}
+      {pagesNote && (
+        <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">{pagesNote}</p>
+      )}
+
+      {/* PDF link */}
+      {fm.pdf_url && (
+        <div class="mt-6 flex flex-wrap gap-3 font-(family-name:--font-ui)">
+          <a
+            href={fm.pdf_url}
+            class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-(--color-bg) rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
+          >
+            Read PDF <span aria-hidden>↗</span>
+          </a>
+        </div>
+      )}
+    </header>
+
+    {/* AI summary — frontmatter prose */}
+    {fm.summary && (
+      <section class="mb-10">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
+          Summary
+        </h2>
+        <div class="text-(--color-fg) leading-relaxed [&_p]:my-4 [&_p]:text-[1.0625rem]">
+          {fm.summary.split(/\n\n+/).map((para) => <p>{para}</p>)}
+        </div>
+      </section>
+    )}
+
+    {/* Key points */}
+    {keyPoints.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
+          Key points
+        </h2>
+        <ul class="space-y-3 list-disc pl-6 marker:text-(--color-saffron-500)">
+          {keyPoints.map((p) => (
+            <li class="text-(--color-fg) leading-relaxed">{p}</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {/* Pull quotes */}
+    {pullQuotes.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
+          Notable passages
+        </h2>
+        <div class="space-y-6">
+          {pullQuotes.map((q) => (
+            <figure class="border-l-2 border-(--color-saffron-500) pl-5 py-1">
+              <blockquote class="text-lg leading-relaxed text-(--color-fg) italic font-(family-name:--font-display)">
+                "{q.verbatim}"
+              </blockquote>
+              <figcaption class="mt-2 text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui)">
+                {q.why_notable ? q.why_notable.replace(/_/g, " ") : ""}{q.page ? ` · p. ${q.page}` : ""}
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {/* Themes */}
+    {themesPretty.length > 0 && (
+      <aside class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) text-sm">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Themes</h2>
+        <ul class="flex flex-wrap gap-2">
+          {themesPretty.map((th) => (
+            <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg)">{th}</li>
+          ))}
+        </ul>
+      </aside>
+    )}
+
+    {/* Body markdown — for entries whose summary lives in the body rather than frontmatter */}
+    {!fm.summary && (
+      <div class="prose-container">
+        <div class="text-(--color-fg) leading-relaxed [&_p]:my-5 [&_p]:text-[1.0625rem] [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted)">
+          <Content />
+        </div>
+      </div>
+    )}
+
+    {/* Tier-B disclaimer */}
+    <p class="mt-12 pt-6 border-t border-(--color-border) text-xs text-(--color-fg-muted) font-(family-name:--font-ui) italic">
+      Metadata and summary are AI-extracted from the source PDF and reviewed for
+      editorial accuracy. The original work is available via the PDF link above;
+      paragraph-level citation inside the PDF is deferred to a future engagement.
+    </p>
+  </article>
+</BaseLayout>

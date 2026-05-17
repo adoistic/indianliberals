@@ -1,0 +1,90 @@
+---
+// Organisations index — alphabetical list grouped by type.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const orgs = await getCollection(
+  "organisations",
+  (o) => !o.data.draft && o.data.language === "en",
+);
+
+// Group by type, then alphabetically within each group.
+const byType = new Map<string, typeof orgs>();
+for (const o of orgs) {
+  const t = o.data.type;
+  if (!byType.has(t)) byType.set(t, []);
+  byType.get(t)!.push(o);
+}
+for (const [, list] of byType) {
+  list.sort((a, b) =>
+    (a.data.name.sort || a.data.name.canonical).localeCompare(
+      b.data.name.sort || b.data.name.canonical,
+    ),
+  );
+}
+
+// Display order for type groups.
+const TYPE_ORDER = [
+  "think_tank",
+  "publisher_org",
+  "political_party",
+  "reform_society",
+  "professional_body",
+  "academic",
+  "international_network",
+];
+const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
+  type: t,
+  label: t.replace(/_/g, " "),
+  items: byType.get(t)!,
+}));
+---
+
+<BaseLayout
+  title="Organisations — Indian Liberals"
+  description={`${orgs.length} organisations — think tanks, publishers, political parties, and reform societies that built the Indian liberal tradition.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-5xl px-6 py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        The institutional record
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">Organisations</h1>
+      <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
+        {orgs.length} think tanks, publishers, political parties, reform
+        societies, and professional bodies that hosted, published, or were
+        debated by Indian liberal thinkers. Each profile cross-links the
+        works published or issued by the organisation and the thinkers
+        affiliated with it.
+      </p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-5xl px-6 py-12" data-pagefind-ignore>
+    {typeGroups.map((g) => (
+      <section class="mb-12">
+        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 capitalize">{g.label}</h2>
+        <ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 font-(family-name:--font-ui)">
+          {g.items.map((o) => (
+            <li>
+              <a
+                href={`/organisations/${o.id}/`}
+                class="block p-4 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-colors group"
+              >
+                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
+                  {o.data.name.canonical}
+                </div>
+                {(o.data.founded_year || o.data.dissolved_year) && (
+                  <div class="text-xs text-(--color-fg-muted) mt-1">
+                    {o.data.founded_year ?? "?"}–{o.data.dissolved_year ?? ""}
+                  </div>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>

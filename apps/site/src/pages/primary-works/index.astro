@@ -1,0 +1,106 @@
+---
+// Primary-works index — chronological list of all extracted/imported works.
+//
+// Day 7 skeleton. Day 8 will add:
+//  - faceted filter UI (work_type, year decade, theme, author)
+//  - per-decade clustering
+//  - sort toggles (year asc/desc, alphabetical)
+//
+// For now: chronological reverse-order list with byline + year. Each item
+// is wrapped in data-pagefind-ignore so the list page itself isn't indexed
+// as a result — only the per-work detail pages are.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const allWorks = await getCollection(
+  "primary-works",
+  (w) => !w.data.draft && w.data.language === "en",
+);
+
+// Sort by publication year desc, then title for stable ordering within a year.
+const works = allWorks.slice().sort((a, b) => {
+  const ya = a.data.publication?.year ?? -Infinity;
+  const yb = b.data.publication?.year ?? -Infinity;
+  if (ya !== yb) return yb - ya;
+  return a.data.title.main.localeCompare(b.data.title.main);
+});
+
+// Group by decade for visual scanning.
+type Decade = { label: string; start: number; works: typeof works };
+const decades: Decade[] = [];
+let current: Decade | null = null;
+for (const w of works) {
+  const y = w.data.publication?.year;
+  const decadeStart = y != null ? Math.floor(y / 10) * 10 : null;
+  const label = decadeStart == null ? "Undated" : `${decadeStart}s`;
+  if (!current || current.label !== label) {
+    current = { label, start: decadeStart ?? -Infinity, works: [] };
+    decades.push(current);
+  }
+  current.works.push(w);
+}
+
+const totalCount = works.length;
+---
+
+<BaseLayout
+  title="Primary works — Indian Liberals"
+  description={`${totalCount} primary works by Indian liberal thinkers, from speeches and pamphlets to books and essays. Metadata + AI summary + PDF.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-5xl px-6 py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        The archive
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">Primary works</h1>
+      <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
+        {totalCount} books, pamphlets, essays, and speeches by historically
+        significant Indian liberal thinkers. Each entry surfaces with rich
+        AI-extracted metadata, a prose summary, key points, and a link to the
+        source PDF. Paragraph-level citation inside the PDF is deferred to a
+        future engagement.
+      </p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-5xl px-6 py-12" data-pagefind-ignore>
+    {decades.map((d) => (
+      <section class="mb-12">
+        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-0 bg-(--color-bg) py-2 z-10">
+          {d.label}
+        </h2>
+        <ul class="divide-y divide-(--color-border)">
+          {d.works.map((w) => {
+            const y = w.data.publication?.year;
+            const pubName = w.data.publication?.publisher_name;
+            const subtitle = w.data.title.subtitle;
+            const byline = (w.data.contributors ?? [])
+              .filter((c) => c.role === "author")
+              .map((c) => c.thinker_unresolved || (c.thinker as { id?: string } | undefined)?.id || "")
+              .filter(Boolean)
+              .join(", ");
+            return (
+              <li class="py-5">
+                <a href={`/primary-works/${w.id}/`} class="block group no-underline">
+                  <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
+                    {w.data.title.main}
+                    {subtitle && <span class="text-(--color-fg-muted) font-normal italic">: {subtitle}</span>}
+                  </h3>
+                  <p class="mt-1 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+                    {byline && <>{byline} · </>}
+                    {y && <>{y}</>}
+                    {pubName && <> · {pubName.split(/[\.,]/)[0]}</>}
+                    <span class="ml-2 px-2 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs uppercase tracking-wider">
+                      {w.data.work_type.replace(/_/g, " ")}
+                    </span>
+                  </p>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>

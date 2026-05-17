@@ -30,6 +30,15 @@ export default defineConfig({
   ],
   vite: {
     plugins: [tailwindcss()],
+    build: {
+      rollupOptions: {
+        // Pagefind's index is emitted to /pagefind/pagefind.js after `astro
+        // build` by the `pagefind --site dist` post-step. It does not exist
+        // at Vite bundle-time, so externalise it — the browser will fetch
+        // the file directly at runtime.
+        external: ['/pagefind/pagefind.js'],
+      },
+    },
   },
   // adapter: cloudflare(),
   build: {
