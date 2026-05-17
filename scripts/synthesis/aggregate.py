@@ -384,7 +384,7 @@ def write_report(thinker_occ, theme_occ, slug_index, n_cites, n_engages, n_contr
     lines.append("\n## Notes for downstream consumers\n\n")
     lines.append("1. **Edges schema gap**: the v1.x `graphEdges` schema (`content.config.ts:708`) has `cites`, `responds_to`, `builds_on`, `influenced_by`, etc., but no explicit `author_of` / `editor_of` / `contributor_of` edge types. Until the schema extends, `graph-edges/contributor.json` uses `cites` with `context: <role>` as an interim encoding. **TODO**: propose schema extension.\n")
     lines.append("2. **Re-baking impact**: each future bake of a not-yet-baked PDF will append to these aggregations. The script is idempotent — re-run after every batch.\n")
-    lines.append("3. **Cluster collapse pending**: the v1.5 authority has a few duplicate-pair entries flagged by the curator (rk-amin / prof-rk-amin, dm-kulkarni / d-m-kulkarni, bk-nehru / b-k-nehru, ashok-desai / ashok-v-desai). Editorial pass needed before downstream UI shows split occurrence counts.\n")
+    lines.append("3. **Cluster collapse applied (2026-05-18)**: the four duplicate-pair entries flagged by the v1.5 curator (rk-amin/prof-rk-amin, dm-kulkarni/d-m-kulkarni, bk-nehru/b-k-nehru, ashok-desai/ashok-v-desai) have been merged. Authority is now 424 thinkers (was 426). Wider corpus-wide name disambiguation deferred to post-engagement (TODOS.md).\n")
     lines.append("4. **Pull quotes not aggregated here** — they're per-work editorial content, indexed at the per-work `summary.json` level. A separate pass can produce a `data/synthesis/pull-quotes-index.json` for shareable-quote UIs.\n")
 
     (OUT_DIR / "synthesis-report.md").write_text("".join(lines), encoding="utf-8")

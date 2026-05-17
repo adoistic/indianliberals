@@ -8,7 +8,18 @@
       "high": 177,
       "medium": 137
     },
-    "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts."
+    "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts.",
+    "cluster_collapse_applied": "2026-05-18",
+    "merged_pairs": [
+      {
+        "winner": "bk-nehru",
+        "loser": "b-k-nehru"
+      },
+      {
+        "winner": "ashok-desai",
+        "loser": "ashok-v-desai"
+      }
+    ]
   },
   "thinkers": [
     {
@@ -792,8 +803,13 @@
     {
       "id": "ashok-desai",
       "name": {
-        "canonical": "Ashok Desai",
-        "sort": "Desai, Ashok"
+        "canonical": "Ashok V. Desai",
+        "sort": "Desai, Ashok V.",
+        "also_known_as": [
+          "Ashok Desai",
+          "Dr. Ashok V. Desai",
+          "Dr. Ashok Desai"
+        ]
       },
       "confidence": "high",
       "sources": [
@@ -1847,13 +1863,19 @@
     {
       "id": "bk-nehru",
       "name": {
-        "canonical": "BK Nehru",
-        "sort": "Nehru, BK"
+        "canonical": "B. K. Nehru",
+        "sort": "Nehru, B. K.",
+        "full": "Braj Kumar Nehru",
+        "also_known_as": [
+          "BK Nehru"
+        ]
       },
       "confidence": "medium",
       "sources": [
         "pdf-filename/forum-of-free-enterprise/transition-in-civil-services-by-bk-nehru-2000.pdf"
-      ]
+      ],
+      "tradition": "nationalist_liberal",
+      "birth_year": 1909
     },
     {
       "id": "dr-ac-shah",
@@ -5830,43 +5852,6 @@
       ]
     },
     {
-      "id": "ashok-v-desai",
-      "name": {
-        "canonical": "Ashok V. Desai",
-        "sort": "Desai, Ashok V.",
-        "also_known_as": [
-          "Dr. Ashok V. Desai",
-          "Dr. Ashok Desai",
-          "Ashok Desai"
-        ]
-      },
-      "tradition": "contemporary_liberal",
-      "confidence": "canonical",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17",
-        "Editorial: confirm collapse with existing `ashok-desai` entry"
-      ]
-    },
-    {
-      "id": "b-k-nehru",
-      "name": {
-        "canonical": "B. K. Nehru",
-        "full": "Braj Kumar Nehru",
-        "sort": "Nehru, B. K.",
-        "also_known_as": [
-          "BK Nehru"
-        ]
-      },
-      "birth_year": 1909,
-      "death_year": 2001,
-      "tradition": "nationalist_liberal",
-      "confidence": "canonical",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17",
-        "Editorial: distinct from existing `bk-nehru` short-form entry — keep both for now, collapse in 0.3"
-      ]
-    },
-    {
       "id": "ruth-benedict",
       "name": {
         "canonical": "Ruth Benedict",
@@ -6810,8 +6795,8 @@
     "k v subrahmanyam": "kv-subrahmanyam",
     "t subbaya shetty": "t-subbaya-shetty",
     "claret d'souza": "claret-dsouza",
-    "dr ashok v desai": "ashok-v-desai",
-    "dr ashok desai": "ashok-v-desai",
+    "dr ashok v desai": "ashok-desai",
+    "dr ashok desai": "ashok-desai",
     "b k nehru": "bk-nehru-cn",
     "ruth benedict": "ruth-benedict",
     "aldous huxley": "aldous-huxley",
