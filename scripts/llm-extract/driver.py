@@ -239,6 +239,20 @@ def cmd_prep(args) -> None:
     # Build user_text via substitution
     authority_subset = _load_authority_subset()
     page_numbers = [p.page_num for p in chunk.pages]
+
+    # For summary jobs, also load the metadata.a output (or .b, whichever
+    # exists — they agree on the structural fields) so the summarisation
+    # prompt has the work_type, language, TOC, contributors etc. that it
+    # needs to branch on (single-author vs multi-author shape).
+    metadata_json = "{}"
+    if args.job == "summary":
+        bake_out_dir = BAKEOFF_OUTPUT / work_slug
+        for candidate in ("metadata.a.a.json", "metadata.b.b.json", "metadata.a.json", "metadata.b.json"):
+            p = bake_out_dir / candidate
+            if p.exists():
+                metadata_json = p.read_text(encoding="utf-8")
+                break
+
     user_text = _substitute(
         user_template,
         PDF_NAME=pdf_path.name,
@@ -249,6 +263,7 @@ def cmd_prep(args) -> None:
         AUTHORITY_SUBSET=authority_subset,
         WORK_TYPE_TAXONOMY=WORK_TYPE_TAXONOMY,
         THEME_VOCABULARY=THEME_VOCABULARY,
+        METADATA_JSON=metadata_json,
     )
 
     # Package via dispatcher
