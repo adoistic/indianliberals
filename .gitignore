@@ -74,3 +74,4 @@ __pycache__/
 
 # LLM extraction request packages (regenerated per dispatch in /tmp)
 /tmp/llm-extract-requests/
+response.json
