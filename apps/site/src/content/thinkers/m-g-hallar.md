@@ -1,0 +1,28 @@
+---
+id: m-g-hallar
+name:
+  canonical: M. G. Hallar
+  sort: Hallar, M. G.
+  also_known_as:
+    - MG Hallar
+    - M.G. Hallar
+    - M. G. Balier
+tradition: classical_liberal
+nationality: india
+themes:[]
+affiliations:[]
+bio_source: imported
+needs_review: true
+draft: true
+ai:
+  drafted_by: claude-sonnet-4.5
+  drafted_at: 2026-05-17
+  model_version: phase-0.5-wave1-refresh-2026-05-17
+---
+
+# M. G. Hallar
+
+*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
+
+**Provenance:** phase-0.5-wave1-refresh-2026-05-17
+

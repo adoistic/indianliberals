@@ -1,0 +1,27 @@
+---
+id: g-giridhar-prabhu
+name:
+  canonical: G. Giridhar Prabhu
+  sort: Prabhu, G. Giridhar
+  also_known_as:
+    - Giridhar Prabhu
+    - G Giridhar Prabhu
+tradition: contemporary_liberal
+nationality: india
+themes:[]
+affiliations:[]
+bio_source: imported
+needs_review: true
+draft: true
+ai:
+  drafted_by: claude-sonnet-4.5
+  drafted_at: 2026-05-17
+  model_version: phase-0.4-curation-from-mangalore-bake-off
+---
+
+# G. Giridhar Prabhu
+
+*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
+
+**Provenance:** phase-0.4-curation-from-mangalore-bake-off
+

@@ -1,0 +1,98 @@
+---
+id: economic-prophecies
+title:
+  main: Economic Prophecies
+  subtitle: ""
+work_type: book
+authors:
+  - b-r-shenoy
+editors:[]
+contributors:
+  - role: editor
+    thinker_unresolved: R K Amin
+  - role: editor
+    thinker_unresolved: Parth J Shah
+publication:
+  language: en
+  publisher_id: centre-for-civil-society
+  publisher_name: "Centre for Civil Society\nNew Delhi"
+  issuer_id: centre-for-civil-society
+  place: New Delhi
+  year: 2004
+  edition: First edition
+provenance:
+  source: ccs_archive
+  scan_quality: unknown
+rights:
+  license: in-copyright
+  license_url: null
+  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+themes:
+  - economic-policy
+  - planning
+  - free-markets
+  - socialism-critique
+  - foreign-aid
+  - agriculture
+  - entrepreneurship
+  - public-sector
+  - indian-economy
+summary: "Economic Prophecies (Centre for Civil Society, 2004) is the first of a two-volume collected-works edition of B. R. Shenoy's writings, spanning 1954 to 1978. Edited by R K Amin and Parth J Shah, it assembles 36 essays across five thematic sections — Context, Planning, Foreign Aid, Policy Critiques, and Agriculture — originally published in economic periodicals, newspapers, and lecture forums. The editors' preface, written by R K Amin, frames the volume as a posthumous tribute: it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail, and situates his relevance for a post-1991 generation. The prologue, attributed to the editors, explains that the title Economic Prophecies was chosen because Friedman, as early as..."
+needs_review: true
+draft: true
+ai:
+  drafted_by: claude-sonnet-4.5
+  drafted_at: 2026-05-17
+  model_version: v1.4
+purpose: collected_works
+physical:
+  pages_rendered: 20
+  pages_total: 212
+  pages_total_source: pypdfium2
+  format: paperback book
+---
+
+# Economic Prophecies
+
+*By B R Shenoy*
+
+## Summary
+
+Economic Prophecies (Centre for Civil Society, 2004) is the first of a two-volume collected-works edition of B. R. Shenoy's writings, spanning 1954 to 1978. Edited by R K Amin and Parth J Shah, it assembles 36 essays across five thematic sections — Context, Planning, Foreign Aid, Policy Critiques, and Agriculture — originally published in economic periodicals, newspapers, and lecture forums. The editors' preface, written by R K Amin, frames the volume as a posthumous tribute: it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail, and situates his relevance for a post-1991 generation. The prologue, attributed to the editors, explains that the title Economic Prophecies was chosen because Friedman, as early as 1963, had identified Shenoy as a prophet, and that this first volume is aimed at the general reader while the companion Theoretical Vision targets students of economics.
+
+In the rendered pages, three essays from Section A (Context) are partially or fully visible. Essay 1 — 'Free enterprise in danger' (May 1975) — warns that communist infiltration into government, combined with the progressive appropriation of private-sector investment resources by the public sector, is placing private enterprise on the path to extinction. Shenoy marshals data on public-sector capital appropriations, the conversion of loans to equity, and stagnant per-capita incomes to argue that the prevailing 'schizophrenic policies' cannot be corrected without heavy cuts in public-sector outlays. Essay 2 — 'Image of the Indian entrepreneur' (October 1970) — rehabilitates the Vaishya trading community against socialist caricature, tracing the institutional roots of the hundi credit system and documenting how policy hostility to enterprise has distorted the public image of Indian businessmen. The essay quotes spokesmen of Swatantra Party and Jayaprakash Narayan to show that even ostensible friends of business community were unwilling to defend entrepreneurial freedom consistently.
+
+## Essays
+
+### Essay (toc 0)
+*b-r-shenoy*
+
+The Editor's Note, written by R K Amin, contextualises Shenoy's life and method. It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country' and Peter Bauer describing him as 'a hero and a saint.' Amin recounts meeting Shenoy shortly before his death on 8 February 1978, at which Shenoy expressed despair that he could not change the government's mind. The Note elaborates Shenoy's methodological stance — that economic theory must be grounded in real-world observation, no...
+
+- Milton Friedman and Peter Bauer are cited as international witnesses to Shenoy's prophetic stature
+- Amin stresses Shenoy's empirical method: rejecting model-building in favour of observed market and policy realities
+- The Note argues that merging the roles of economist and policy adviser undermines both scientific rigour and professional dignity
+
+### Essay (toc 1)
+*b-r-shenoy*
+
+Written in May 1975 in support of statements made by industrialist J R D Tata at an ASSOCHAM seminar, 'Free enterprise in danger' argues that communist infiltration into government and the escalating appropriation of private-sector investment resources by the public sector are placing private enterprise on the path to extinction. Shenoy rebuts Planning Commission Deputy Chairman P N Haksar's counter-claim that 90 per cent of national product still comes from the private sector, showing that what...
+
+- JRD Tata's warning of communist infiltration into key government positions is endorsed and elaborated
+- Haksar's 90-per-cent private-sector-output defence is rejected: the decisive variable is the public sector's share of investment resources, not current output
+- By 1980, government ownership of industrial and mining capital may reach 50–80 per cent through loan-to-equity conversions and direct appropriation
+
+### Essay (toc 2)
+*b-r-shenoy*
+
+Published in October 1970, 'Image of the Indian entrepreneur' defends the traditional business community — specifically the Vaishya caste and its Bania sub-groups — against socialist caricature. Shenoy traces the historical origins of the hundi credit instrument, crediting it as an institution of high integrity that enabled long-distance trade across the subcontinent. He argues that the negative popular image of the entrepreneur emerged not from any inherent dishonesty but from socialist policy ...
+
+- The hundi — an 18th-century indigenous bill-of-exchange — is cited as evidence of high commercial integrity in Vaishya trading tradition
+- Socialist policy, not inherent cupidity, is the proximate cause of dodgy business practices: price controls and licensing create black markets
+- Even sympathetic political voices (Swatantra, JP, Masani) do not consistently defend entrepreneurial freedom
+
+
+---
+
+*Generated by the v1.5 extraction pipeline (2026-05-17). Awaiting editorial review.*
+
