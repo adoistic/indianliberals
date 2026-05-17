@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "version": "v1.3-2026-05-17",
+    "version": "v1.4-2026-05-17",
     "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
     "counts": {
-      "total": 228,
-      "canonical": 59,
-      "high": 98,
-      "medium": 71
+      "total": 241,
+      "canonical": 65,
+      "high": 100,
+      "medium": 76
     },
     "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts."
   },
@@ -359,6 +359,7 @@
         "also_known_as": [
           "MR Pai",
           "M.R. Pai",
+          "M.R.PAI",
           "एम. आर. पई"
         ]
       },
@@ -844,11 +845,16 @@
       "id": "bs-sanyal",
       "name": {
         "canonical": "BS Sanyal",
-        "sort": "Sanyal, BS"
+        "sort": "Sanyal, BS",
+        "also_known_as": [
+          "B. S. Sanyal",
+          "B.S. Sanyal"
+        ]
       },
       "confidence": "high",
       "sources": [
-        "content/theprint-mirror/welfarism-poverty-indian-people-bs-sanyal.md"
+        "content/theprint-mirror/welfarism-poverty-indian-people-bs-sanyal.md",
+        "phase-0.5-wave1-refresh-2026-05-17"
       ]
     },
     {
@@ -1185,11 +1191,16 @@
       "id": "kd-valicha",
       "name": {
         "canonical": "KD Valicha",
-        "sort": "Valicha, KD"
+        "sort": "Valicha, KD",
+        "also_known_as": [
+          "K. D. Valicha",
+          "K.D. Valicha"
+        ]
       },
       "confidence": "high",
       "sources": [
-        "content/theprint-mirror/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha.md"
+        "content/theprint-mirror/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha.md",
+        "phase-0.5-wave1-refresh-2026-05-17"
       ]
     },
     {
@@ -3010,6 +3021,270 @@
       "sources": [
         "phase-0.4-curation-from-mangalore-bake-off"
       ]
+    },
+    {
+      "id": "thomas-robert-malthus",
+      "name": {
+        "canonical": "Thomas Robert Malthus",
+        "full": "Thomas Robert Malthus",
+        "sort": "Malthus, Thomas Robert",
+        "also_known_as": [
+          "Malthus",
+          "T. R. Malthus",
+          "Rev. Malthus",
+          "माल्थस"
+        ]
+      },
+      "birth_year": 1766,
+      "death_year": 1834,
+      "nationality": "uk",
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "jayaprakash-narayan",
+      "name": {
+        "canonical": "Jayaprakash Narayan",
+        "full": "Jayaprakash Narayan",
+        "sort": "Narayan, Jayaprakash",
+        "also_known_as": [
+          "JP",
+          "JP Narayan",
+          "Jaya Prakash Narayan",
+          "Jai Prakash Narayan",
+          "Lok Nayak",
+          "जयप्रकाश नारायण",
+          "जे. पी. नारायण",
+          "জয়প্রকাশ নারায়ণ"
+        ]
+      },
+      "birth_year": 1902,
+      "death_year": 1979,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "v-k-krishna-menon",
+      "name": {
+        "canonical": "V. K. Krishna Menon",
+        "full": "Vengalil Krishnan Krishna Menon",
+        "sort": "Menon, V. K. Krishna",
+        "also_known_as": [
+          "Krishna Menon",
+          "VK Krishna Menon",
+          "V.K. Krishna Menon",
+          "वी. के. कृष्ण मेनन",
+          "कृष्ण मेनन"
+        ]
+      },
+      "birth_year": 1896,
+      "death_year": 1974,
+      "tradition": "nationalist_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "m-n-roy",
+      "name": {
+        "canonical": "M. N. Roy",
+        "full": "Manabendra Nath Roy",
+        "sort": "Roy, M. N.",
+        "also_known_as": [
+          "MN Roy",
+          "M.N. Roy",
+          "Manabendra Nath Roy",
+          "Narendra Nath Bhattacharya",
+          "एम. एन. रॉय",
+          "এম. এন. রায়",
+          "মানবেন্দ্র নাথ রায়"
+        ]
+      },
+      "birth_year": 1887,
+      "death_year": 1954,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "m-c-chagla",
+      "name": {
+        "canonical": "M. C. Chagla",
+        "full": "Mahomedali Currim Chagla",
+        "sort": "Chagla, M. C.",
+        "also_known_as": [
+          "MC Chagla",
+          "M.C. Chagla",
+          "Mahomedali Currim Chagla",
+          "एम. सी. छागला"
+        ]
+      },
+      "birth_year": 1900,
+      "death_year": 1981,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "benjamin-tucker",
+      "name": {
+        "canonical": "Benjamin Tucker",
+        "full": "Benjamin Ricketson Tucker",
+        "sort": "Tucker, Benjamin",
+        "also_known_as": [
+          "Benjamin F. Tucker",
+          "Benjamin R. Tucker",
+          "B. R. Tucker"
+        ]
+      },
+      "birth_year": 1854,
+      "death_year": 1939,
+      "nationality": "usa",
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "salvador-de-madariaga",
+      "name": {
+        "canonical": "Salvador de Madariaga",
+        "full": "Salvador de Madariaga y Rojo",
+        "sort": "Madariaga, Salvador de",
+        "also_known_as": [
+          "Salvador Madariaga",
+          "Madariaga"
+        ]
+      },
+      "birth_year": 1886,
+      "death_year": 1978,
+      "nationality": "spain",
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "kusum-lotwala",
+      "name": {
+        "canonical": "Kusum R. Lotwala",
+        "sort": "Lotwala, Kusum R.",
+        "also_known_as": [
+          "Kusum Lotwala",
+          "Miss Kusum Lotwala",
+          "K. R. Lotwala",
+          "Miss K. R. Lotwala",
+          "Miss Kusim Lotwala"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "high",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "m-g-hallar",
+      "name": {
+        "canonical": "M. G. Hallar",
+        "sort": "Hallar, M. G.",
+        "also_known_as": [
+          "MG Hallar",
+          "M.G. Hallar",
+          "M. G. Balier"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "b-t-krishnamachari",
+      "name": {
+        "canonical": "B. T. Krishnamachari",
+        "sort": "Krishnamachari, B. T.",
+        "also_known_as": [
+          "BT Krishnamachari",
+          "B.T. Krishnamachari",
+          "बी.टी. कृष्णमाचारी"
+        ]
+      },
+      "tradition": "reformer",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "rajiv-gandhi",
+      "name": {
+        "canonical": "Rajiv Gandhi",
+        "sort": "Gandhi, Rajiv",
+        "also_known_as": [
+          "राजीव गांधी",
+          "রাজীব গান্ধী"
+        ]
+      },
+      "birth_year": 1944,
+      "death_year": 1991,
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "sharad-pawar",
+      "name": {
+        "canonical": "Sharad Pawar",
+        "full": "Sharadchandra Govindrao Pawar",
+        "sort": "Pawar, Sharad",
+        "also_known_as": [
+          "शरद पवार"
+        ]
+      },
+      "birth_year": 1940,
+      "tradition": "contemporary_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
+    },
+    {
+      "id": "charan-singh",
+      "name": {
+        "canonical": "Charan Singh",
+        "full": "Chaudhary Charan Singh",
+        "sort": "Singh, Charan",
+        "also_known_as": [
+          "Chaudhary Charan Singh",
+          "के. चरणसिंह",
+          "चौधरी चरण सिंह",
+          "चरण सिंह"
+        ]
+      },
+      "birth_year": 1902,
+      "death_year": 1987,
+      "tradition": "nationalist_liberal",
+      "confidence": "medium",
+      "sources": [
+        "phase-0.5-wave1-refresh-2026-05-17"
+      ]
     }
   ],
   "byline_lookup": {
@@ -3357,6 +3632,70 @@
     "atal bihari vajpayee": "atal-bihari-vajpayee",
     "vajpayee": "atal-bihari-vajpayee",
     "a b vajpayee": "atal-bihari-vajpayee",
-    "ab vajpayee": "atal-bihari-vajpayee"
+    "ab vajpayee": "atal-bihari-vajpayee",
+    "m.r.pai": "m-r-pai",
+    "b s sanyal": "bs-sanyal",
+    "k d valicha": "kd-valicha",
+    "malthus": "thomas-robert-malthus",
+    "thomas malthus": "thomas-robert-malthus",
+    "thomas robert malthus": "thomas-robert-malthus",
+    "t r malthus": "thomas-robert-malthus",
+    "माल्थस": "thomas-robert-malthus",
+    "jayaprakash narayan": "jayaprakash-narayan",
+    "jaya prakash narayan": "jayaprakash-narayan",
+    "jai prakash narayan": "jayaprakash-narayan",
+    "jp narayan": "jayaprakash-narayan",
+    "jp": "jayaprakash-narayan",
+    "lok nayak": "jayaprakash-narayan",
+    "जयप्रकाश नारायण": "jayaprakash-narayan",
+    "जे पी नारायण": "jayaprakash-narayan",
+    "জয়প্রকাশ নারায়ণ": "jayaprakash-narayan",
+    "krishna menon": "v-k-krishna-menon",
+    "v k krishna menon": "v-k-krishna-menon",
+    "vk krishna menon": "v-k-krishna-menon",
+    "vengalil krishnan krishna menon": "v-k-krishna-menon",
+    "वी के कृष्ण मेनन": "v-k-krishna-menon",
+    "कृष्ण मेनन": "v-k-krishna-menon",
+    "m n roy": "m-n-roy",
+    "mn roy": "m-n-roy",
+    "manabendra nath roy": "m-n-roy",
+    "narendra nath bhattacharya": "m-n-roy",
+    "एम एन रॉय": "m-n-roy",
+    "এম এন রায়": "m-n-roy",
+    "মানবেন্দ্র নাথ রায়": "m-n-roy",
+    "m c chagla": "m-c-chagla",
+    "mc chagla": "m-c-chagla",
+    "chagla": "m-c-chagla",
+    "mahomedali currim chagla": "m-c-chagla",
+    "एम सी छागला": "m-c-chagla",
+    "benjamin tucker": "benjamin-tucker",
+    "benjamin f tucker": "benjamin-tucker",
+    "benjamin r tucker": "benjamin-tucker",
+    "b r tucker": "benjamin-tucker",
+    "salvador madariaga": "salvador-de-madariaga",
+    "salvador de madariaga": "salvador-de-madariaga",
+    "madariaga": "salvador-de-madariaga",
+    "kusum lotwala": "kusum-lotwala",
+    "kusum r lotwala": "kusum-lotwala",
+    "miss kusum lotwala": "kusum-lotwala",
+    "miss kusim lotwala": "kusum-lotwala",
+    "k r lotwala": "kusum-lotwala",
+    "miss k r lotwala": "kusum-lotwala",
+    "m g hallar": "m-g-hallar",
+    "mg hallar": "m-g-hallar",
+    "m g balier": "m-g-hallar",
+    "b t krishnamachari": "b-t-krishnamachari",
+    "bt krishnamachari": "b-t-krishnamachari",
+    "बी टी कृष्णमाचारी": "b-t-krishnamachari",
+    "rajiv gandhi": "rajiv-gandhi",
+    "राजीव गांधी": "rajiv-gandhi",
+    "রাজীব গান্ধী": "rajiv-gandhi",
+    "sharad pawar": "sharad-pawar",
+    "शरद पवार": "sharad-pawar",
+    "charan singh": "charan-singh",
+    "chaudhary charan singh": "charan-singh",
+    "के चरणसिंह": "charan-singh",
+    "चौधरी चरण सिंह": "charan-singh",
+    "चरण सिंह": "charan-singh"
   }
 }

@@ -322,6 +322,35 @@ def validate_metadata(record: dict, *, authority_ids: set[str] | None = None) ->
                     entry["page_end"] = None
                     fixed["needs_human_review"] = True
 
+        # 5a. D15 — TOC entry page numbers cannot exceed pages_total (v1.4).
+        # Discovered Wave 1 pattern: Sharad Joshi works (samasyayen 74p, angarmala
+        # 104p) had TOC entries with page_start > pages_total — the model emitted
+        # printed-edition page numbers verbatim even though the PDF is a partial
+        # scan. When this happens, the page_start/page_end values are meaningless
+        # for chunk-planning; null them out and flag for editorial.
+        physical = fixed.get("physical") or {}
+        pages_total = physical.get("pages_total")
+        if isinstance(pages_total, int) and pages_total > 0:
+            for key in ("entries", "entries_not_yet_rendered"):
+                for entry in (toc.get(key) or []):
+                    if not isinstance(entry, dict):
+                        continue
+                    for field in ("page_start", "page_end"):
+                        v = entry.get(field)
+                        if isinstance(v, int) and v > pages_total:
+                            corrections.append({
+                                "field": f"toc.{key}[{entry.get('toc_index', '?')}].{field}",
+                                "original": v,
+                                "coerced_to": None,
+                                "rule": (
+                                    f"D15: {field} ({v}) > physical.pages_total ({pages_total}); "
+                                    f"force null (likely printed-edition page number from a partial scan)"
+                                ),
+                            })
+                            entry[field] = None
+                            fixed["needs_human_review"] = True
+                            fixed["toc_pages_exceed_total"] = True
+
     # 5b. D2 — Theme case normalisation (kebab-case canonical)
     _normalise_themes_in_record(fixed, corrections)
 
@@ -367,13 +396,13 @@ def validate_metadata(record: dict, *, authority_ids: set[str] | None = None) ->
     # 7. Stamp the audit block
     if corrections:
         fixed["_validator"] = {
-            "version": "v1.3",
+            "version": "v1.4",
             "corrections": corrections,
             "ok": False,  # corrections were needed
         }
     else:
         fixed["_validator"] = {
-            "version": "v1.3",
+            "version": "v1.4",
             "corrections": [],
             "ok": True,
         }
