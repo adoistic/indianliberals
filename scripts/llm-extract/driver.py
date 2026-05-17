@@ -384,6 +384,24 @@ def cmd_collect(args) -> None:
     print(f"  Written:  {out_path}")
     print(f"  Ledger:   appended 1 entry for {args.job} / {work_slug}")
 
+    # Auto-emit Astro MD on summary completion (when we have both metadata
+    # + summary on disk). The emitter is intentionally side-effect-only
+    # and idempotent: refuses to overwrite an existing MD file.
+    if args.job == "summary" and resp.ok:
+        try:
+            import subprocess as _sp
+            here = Path(__file__).resolve().parents[1]
+            emit_script = here / "synthesis" / "emit-astro-md.py"
+            if emit_script.exists():
+                r = _sp.run(
+                    ["python3", str(emit_script), "--slug", work_slug],
+                    capture_output=True, text=True, timeout=30,
+                )
+                emit_msg = (r.stdout or r.stderr).strip().splitlines()[-1] if (r.stdout or r.stderr).strip() else "(no output)"
+                print(f"  Astro MD: {emit_msg}")
+        except Exception as e:
+            print(f"  Astro MD emit failed (non-fatal): {e}")
+
 
 # ---------------------------------------------------------------------------
 # Loop helpers (continuation loop — D1, D5, D12, D13, D14 per design doc)
