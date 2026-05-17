@@ -32,7 +32,7 @@ themes:
   - market-economy
 summary: "Economic Growth with Social Justice is a short policy pamphlet by B. R. Shenoy, written in August 1977 a few months before his death and issued by the Forum of Free Enterprise in Bombay. Shenoy sets out a compact theoretical case for consumer sovereignty: a free society is defined by citizens who function in the economic sphere under the doctrine of pragmatism, in which sovereign consumers — not a planning commission — direct production through a price-regulated market mechanism that includes trade, capital markets, and forward markets. He pairs this with the requirement of private property in the means of production (citing Ludwig von Mises and using the Soviet collective-farm experience as evidence that ownership matters), the four economic freedoms of the individual (use of income, c..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

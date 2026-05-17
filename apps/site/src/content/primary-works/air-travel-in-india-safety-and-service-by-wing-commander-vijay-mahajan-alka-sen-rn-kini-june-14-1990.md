@@ -37,7 +37,7 @@ themes:
   - public-sector-reform
 summary: "This Forum of Free Enterprise booklet, dated 14 June 1990, gathers three talks delivered at a public meeting in Bombay on 13th March 1990, in the shadow of the Indian Airlines A-320 crash at Bangalore the previous month. Wing Commander Vijay Mahajan, a former Indian Air Force officer with over 6,000 flying hours, argues that India lacks a national aviation policy, that political and bureaucratic meddling has corroded the airlines' selection, training and route-planning, and that the country's airports, navigational aids and air traffic control are unfit for the traffic that the 1990s will bring. Aviation journalist Alka Sen, editor of Indian Aviation - Civil and Military, locates the problem in indiscipline among employees and in government neglect of infrastructure and senior appointme..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

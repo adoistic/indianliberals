@@ -36,7 +36,7 @@ themes:
   - fiscal-policy
 summary: "Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 2007) that pairs two addresses on India's mid-2000s inflation against the backdrop of surging food and crude oil prices and the Reserve Bank of India's tightening cycle. Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise and propose pragmatic remedies in monetary, fiscal and supply-side policy, with particular emphasis on the credibility gap between the official Wholesale Price Index and the inflation that 'common man' households actually experience. The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of India), reworks a 4 June 2007 talk delivered at an Economics Re..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

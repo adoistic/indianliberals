@@ -28,7 +28,7 @@ themes:
   - planning-commission
 summary: "Reproduced from the first of two lectures Dr. Phiroze B. Medhora delivered at Surat under the auspices of the South Gujarat University on 6 February 1973, this Forum of Free Enterprise booklet is a sustained critique of the Planning Commission's revised Approach Paper to the Fifth Five-Year Plan (1974–79). Medhora argues that after a quarter-century of planning the Commission has 'apparently learnt nothing—and has certainly not forgotten the cliches.' He compares the original Approach Paper of October 1972 with the revised version of January 1973 and finds the latter to be a 'slide-back' — a fundamental change in concept and strategy disguised as a drafting revision, the most visible symptom of which is the cut in the target growth rate from 6.5 per cent to 5.5 per cent.\n\nMedhora frames..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

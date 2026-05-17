@@ -31,7 +31,7 @@ themes:
   - entrepreneurship
 summary: "\"A Total War on Indian Poverty\" is the text of the A. D. Shroff Memorial Lecture delivered by Eric P. W. da Costa at the Delhi Centre of the Forum of Free Enterprise and issued as a Forum booklet dated 15 January 1973. Da Costa, then Managing Director of the Indian Institute of Public Opinion, opens by restating what he calls Shroff's two-strand economic philosophy: that the central role of development belongs to individual entrepreneurs who conceive and shape productive enterprises, and that such entrepreneurship is best secured in societies not overwhelmed by State regulations and the armoury of political power. He measures India's record against that philosophy and finds it wanting — the 1961 Census revealed that employment projections had been built on a 1.25 per cent population gro..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

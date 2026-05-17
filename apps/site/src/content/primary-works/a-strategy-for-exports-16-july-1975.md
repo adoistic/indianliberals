@@ -30,7 +30,7 @@ themes:
   - industrial-policy
 summary: "In this 1975 Forum of Free Enterprise pamphlet, Dr. R. L. Varshney — then Jt. Director of the Indian Institute of Foreign Trade — assesses the dramatic jump in India's exports during the closing years of the Fourth Plan and argues that the boom is largely a windfall rather than a tribute to Indian policy. He attributes the 22.6 per cent rise in 1972-73 and the 26 per cent rise in 1973-74 to four fortuitous factors: trade with Bangla Desh, the de facto devaluation of the rupee through its sterling link, the international price boom in primary products, and the energy crisis's revival of natural fibres and leather. Once those tailwinds are stripped out, India's structural position remains weak: its share of world trade has fallen continuously from 2.2 per cent in 1950 to 0.577 per cent in..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -41,7 +41,7 @@ themes:
   - political-philosophy
 summary: "This issue of The Indian Libertarian (Vol. XI No. 1, April 1963) is the opening number of the journal's eleventh volume and ranges across four of the most contested questions facing India in early 1963: the proper constitutional character of the Indian state (secular vs. civil), the futility of communist revolution as a developmental strategy, the political philosophy of Jayaprakash Narayan, the place of English in Indian education, and the looming strategic threat posed by a possible Sino-Pakistani joint military action. The editorial sets a polemical tone by arguing that Prime Minister Nehru misconceives the word 'secular' and that what India needs is not a state indifferent to religion but a 'civil' state defined by equality before law and freedom of conscience. The remaining feature..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

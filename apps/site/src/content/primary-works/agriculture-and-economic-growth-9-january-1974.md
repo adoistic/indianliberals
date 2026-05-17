@@ -31,7 +31,7 @@ themes:
   - food-security
 summary: "Based on a public lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on 9 January 1974, this booklet by the economist Colin Clark — then Director of the Agricultural Economics Institute at Oxford — argues that India is on the verge of aborting its post-1950 economic take-off through a self-inflicted food crisis. Clark warns that the gravest threat is not external but a Government response built on procurement, price control, and the systematic neglect of agriculture. The famines that followed Lenin's procurement policy, Stalin's 1929 collectivisation, China's collectivised farming, and the experiments in Cuba, Algeria and Tunisia are paraded as the empirical record of what happens when the state replaces the market in the countryside.\n\nThe core diagnosis is t..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

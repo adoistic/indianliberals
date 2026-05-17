@@ -30,7 +30,7 @@ themes:
   - state-and-society
 summary: "In this brief 1960 leaflet — originally published in the New Delhi journal 'The Editor' and reprinted by the Forum of Free Enterprise — Dr. Sachin Sen, then editor of the 'Indian Nation' (Patna) and former President of the All-India Newspaper Editors' Conference, argues that a free press is structurally inseparable from free enterprise and a free society. His core claim is that democracy requires autonomous institutions, and the press must function as one such institution: free from State coercion, free from party discipline, and free from the obligation to serve any government's ideological agenda.\n\nSen draws a pointed contrast between liberal democracy and Communist democracy. In a liberal democracy, freedom of the press means access to objective truths; in a communist party-state, th..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

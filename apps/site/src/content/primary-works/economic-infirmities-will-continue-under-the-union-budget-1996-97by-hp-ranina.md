@@ -26,7 +26,7 @@ rights:
 themes: []
 summary: "This is a Forum of Free Enterprise booklet based on a Mumbai public lecture by chartered accountant and tax authority H. P. Ranina, dissecting Finance Minister P. Chidambaram's maiden Union Budget for 1996-97 under the United Front Government. Ranina concedes that the Budget tries to placate the parties supporting the Government by working within the Common Minimum Programme — bumping rural development outlays by more than Rs. 1,000 crore and social services by almost Rs. 1,700 crore — but argues that across all three of its stated objectives (fiscal stabilisation, poverty alleviation, infrastructure) the Budget falls short. He warns that the budgeted deficit of Rs. 6,578 crore (nearly 5% of GDP) probably understates reality, since the customs duty projection of Rs. 44,435 crore assumes..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

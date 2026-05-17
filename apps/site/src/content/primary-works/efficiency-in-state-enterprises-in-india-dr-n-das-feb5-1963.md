@@ -29,7 +29,7 @@ themes:
   - free-enterprise
 summary: "Dr. N. Das, a retired ICS officer and Director-General of the Employers' Federation of India, delivered this lecture to the Forum of Free Enterprise in Bombay on 26 October 1962. He traces the meteoric rise of India's public sector since the 1948 Industrial Policy Statement: from Rs. 179 crores in the First Plan, to Rs. 974 crores in the Second Plan, to Rs. 2,147 crores earmarked in the Third Plan—roughly 97 per cent of total Central Government industrial investment by 1960-61. The booklet asks a single, sharp question: with this scale of state investment, is the country getting commensurate value?\n\nThe diagnostic core of the lecture is comparative profitability. Das cites the Finance Ministry's First Annual Report on the Working of Industrial and Commercial Undertakings of the Central ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

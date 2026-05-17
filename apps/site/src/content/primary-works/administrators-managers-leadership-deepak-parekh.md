@@ -31,7 +31,7 @@ themes:
   - management
 summary: "Delivered as the Lalit Doshi Memorial Lecture in Mumbai on 4 August 1997 and reprinted by the Forum of Free Enterprise, Deepak Parekh's address argues that India's post-liberalisation moment demands a deliberate metamorphosis of its civil services from rule-bound administrators into managers and, ultimately, leaders. Parekh begins by distinguishing the three roles: an administrator ensures decisions are executed and rules followed; a manager organises people and information to react to external stimuli; a leader adds risk-taking, foresight and the charisma to inspire willing followers. He treats his late friend Lalit Doshi as the case study — a celebrated IAS officer whose work on inward investment to Maharashtra showed bureaucracy at its best.\n\nThe core diagnosis is that the ICS-to-IAS..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -62,7 +62,7 @@ themes:
   - governance
 summary: "Fifty Years After … is a slim proceedings booklet published in 1997 by the Project for Economic Education (Mumbai) with support from the Friedrich-Naumann-Stiftung, edited by S. V. Raju. It gathers presentations and discussion contributions from a seminar titled 'India-Fifty Years After' held in April 1997 in Mumbai, assembling freedom fighters, retired military officers, a retired judge, academics, and activists to take stock of India's record fifty years on from independence. The volume is divided into a main-papers section (one extended lead essay by Sadanand Varde, pp. 1–8) and a longer 'Discussions' section (pp. 9 onward) containing shorter contributions from nine additional speakers, capped by a final essay on infrastructure by Jiban Mukhopadhyay beginning at printed p. 33.\n\nThe g..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

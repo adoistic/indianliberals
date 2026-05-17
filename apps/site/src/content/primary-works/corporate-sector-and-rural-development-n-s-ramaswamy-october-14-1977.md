@@ -31,7 +31,7 @@ themes:
   - appropriate-technology
 summary: "This 1977 Forum of Free Enterprise booklet collects two papers by Prof. N. S. Ramaswamy — formerly Director of N.I.T.I.E., Bombay, and at the time of publication Director of the Indian Institute of Management, Bangalore. The publisher's introduction frames the booklet as a response to the Union Budget 1977-78's incentive for corporate engagement with rural development, and as a contribution to Forum publications' long-running argument that India's agricultural and rural economy has been neglected by policy-makers and the modern industrial sector alike.\n\nIn the first paper, 'Social Marketing', Ramaswamy argues that agencies of the State have proved 'largely ineffective' at transmitting science, technology and modern organisation to villages, and that business and industrial organisations..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

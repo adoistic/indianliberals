@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Delivered as the 4th M. R. Pai Memorial Award lecture on 8 April 2008 in Mumbai, Shyamala Gopinath — then Deputy Governor of the Reserve Bank of India — uses her platform to map how the banker-customer relationship has been remade by India's post-1991 liberalisation. She opens by paying tribute to M. R. Pai's consumer-activism legacy and argues, with a Sanskrit aside that 'the world has always been the same,' that customer protection in financial services has only grown more urgent as deregulation, private-sector entry and technology have multiplied product choices and the surface area for grievance.\n\nThe bulk of the booklet is a regulator's tour of the customer-protection architecture the RBI has built around the reformed banking system. Gopinath walks through the Banking Codes and Sta..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

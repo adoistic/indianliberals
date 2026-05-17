@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Ishwar Chandra Vidyasagar's essay 'The Vice of Child Marriages' (Balyo-Bibaher Dosh), originally published in 1850 in the Calcutta-based Bengali periodical Sarva Subhakari and presented here in English translation, mounts a sustained reformist attack on the custom of marrying off pre-pubescent girls. Vidyasagar opens by dismantling the scriptural rationale — the Smriti-Shastra's promises of Gouri-daan and Prithvi-daan for parents who marry off eight- and nine-year-old daughters — arguing that the rigid corollary that an unmarried menstruating girl damns seven generations of ancestors makes child marriage socially coercive rather than spiritually meritorious. He then catalogues the human costs: marriages contracted before the boys and girls are capable of love or consent, conjugal misery..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

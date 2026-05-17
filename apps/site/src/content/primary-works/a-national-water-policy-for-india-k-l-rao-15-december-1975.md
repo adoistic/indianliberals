@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Dr. K. L. Rao, a former Union Minister for Power and Irrigation, delivers the A. D. Shroff Memorial Lecture for the Forum of Free Enterprise (27 October 1975, Delhi) on India's looming water crisis and the case for a planned, integrated, nation-level response. He frames water — alongside air — as the binding physical constraint on the future progress of mankind: the world's stock is fixed, demand is rising, and pollution and evaporation are eroding what is usable. India's resources are erratic by geography and monsoon: 14 major and 44 medium rivers carry roughly 90% of the flow, total annual river flow averages about 1,645 thousand million cubic metres, and ground water adds another 2,55,000 million cum — but only about half is usable, and storage today captures only 15% of that.\n\nRao a..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

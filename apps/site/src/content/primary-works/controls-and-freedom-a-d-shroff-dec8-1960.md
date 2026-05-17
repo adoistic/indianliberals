@@ -30,7 +30,7 @@ themes:
   - post-independence-economy
 summary: "Delivered as a Forum of Free Enterprise lecture in Bombay on 18 August 1960, M. A. Sreenivasan's pamphlet argues that controls and freedom are not antitheses — disciplined, self-imposed and rule-bound controls are in fact necessary for genuine liberty, while the proliferating peacetime controls of independent India have become its enemy. Drawing on his own experience as Minister for Food and Civil Supplies in princely Mysore, Sreenivasan recalls administering a 'bewildering maze of controls and permits and licences — a veritable Queutopia' during the war, and warns that the post-Independence state has multiplied such restrictions far beyond anything the colonial Defence of India Act ever imposed, until controls now reach into industry, agriculture, banking, transport, prices and even mo..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

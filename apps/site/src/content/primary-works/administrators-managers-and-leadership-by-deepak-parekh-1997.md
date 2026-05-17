@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Delivered as the Lalit Doshi Memorial Lecture in Mumbai on 4th August 1997 and reprinted by the Forum of Free Enterprise, Deepak Parekh — then Chairman of HDFC — uses the occasion to argue that India's bureaucratic cadre must consciously evolve from administrators into managers and finally into leaders. He sketches the three roles as a developmental arc: the administrator ensures that decisions are executed and rules followed; the manager organises and reacts to information and external stimuli; the leader overlays both with risk-taking, vision, and the charisma to inspire willing followers. The lecture is anchored in the contention that the ICS legacy inherited from the British, while disciplined, produced a rule-bound and at times elitist civil service whose attitudes must now be re-e..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

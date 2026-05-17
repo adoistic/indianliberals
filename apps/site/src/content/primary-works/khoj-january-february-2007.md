@@ -92,7 +92,7 @@ themes:
   - public-life-and-ethics
 summary: "ખોજ (Khoj) — 'જીવન એક અવિરત ખોજ-આવિષ્કાર' — is the inaugural issue (Year 1, Issue 1, January–February 2007) of a Gujarati liberal periodical published from Vadodara by the Initiative for Open Society (Pahel Kendra), edited by Ambarish Mehta with an editorial board of Trushi Parekh, Anil Patel, and Rajesh Mishra. In the rendered pages (pp. 1–20), the issue announces itself as a forum for civil-society inquiry into questions of freedom, governance, law, and education. The opening quotes from the Rig Veda and Xenophanes establish an epistemological humility that frames the entire enterprise: truth is sought, not declared. The editorial situates the issue around two focal concerns — the passage of the Forest Rights Act 2006 (Van Adhikar Kanoon) and the SEZ controversy — presented as test ca..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

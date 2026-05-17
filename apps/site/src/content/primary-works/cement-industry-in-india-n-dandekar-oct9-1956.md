@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Reprinted from The Times of India of 5 and 9 October 1956, this Forum of Free Enterprise pamphlet by N. Dandekar and L. Sawhny offers a stewardship audit of the Indian cement industry as a case study in what private capital, organised through the Associated Cement Companies Ltd., has achieved for the country. The authors trace the industry's history from the failed Madras factory of 1904 through the boom and bust of the inter-war years, the 1936 consolidation that produced ACC, and the post-Independence expansion that nearly trebled production between 1948 and 1955 — reaching 4.4 million tons in 1955 and beating the First Five-Year Plan target.\n\nThe core argument is that the cement industry has met both the social and economic obligations set out in the Forum's Manifesto: producing a ba..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

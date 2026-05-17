@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Justice D. N. Sinha's address—delivered on 30 June 1964 to the Association of Company Secretaries & Executives in Calcutta and issued as a Forum of Free Enterprise booklet in December 1964—traces the chequered history of Indian company law from the 1850 Act onward, through the Acts of 1857, 1860, 1866, 1882, 1913, and 1936, down to the 1956 Companies Act and its many amendments (notably the 218 changes culminating in section 388B). Sinha frames company legislation as an inheritance of English law, born of seventeenth-century chartered enterprises and the South Sea Bubble, and crystallised by the nineteenth-century invention of limited liability—what he calls a \"stroke of genius\" without which modern industrial prosperity could not have been built.\n\nThe core argument is that the object o..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

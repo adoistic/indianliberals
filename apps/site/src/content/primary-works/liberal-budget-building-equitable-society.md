@@ -49,7 +49,7 @@ themes:
   - social-policy
 summary: "*The Liberal Budget: Building an Equitable Society* presents a model fiscal framework developed in 2004 by a Drafting Group convened by the Indian Liberal Group's Project for Economic Education. The preface, signed by S. V. Raju as Executive Chairman, explains that the document was designed as a template and benchmark against which to evaluate actual Union Budgets, and that it draws on consultations held at the Leslie Sawhny Centre in Deviall and with economists and civil servants in Chennai. S. S. Bhandare's Introduction characterises the fiscal environment as one of severe constraint, arguing that a genuinely liberal economic environment is a precondition for any effective budget, and closes with a postscript acknowledging the newly elected UPA government's Common Minimum Programme wh..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

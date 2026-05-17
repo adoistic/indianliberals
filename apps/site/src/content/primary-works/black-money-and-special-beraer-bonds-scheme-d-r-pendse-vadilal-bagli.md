@@ -32,7 +32,7 @@ rights:
 themes: []
 summary: "Black Money and Special Bearer Bonds Scheme bundles two short pieces issued by the Forum of Free Enterprise to oppose the Special Bearer Bonds Scheme of 1991 on classical-liberal grounds. Vadilal Dagli, editor of Commerce and chairman of the Dagli Committee on Controls and Subsidies, opens with the polemic 'Respectability for Black Money', casting the bonds as the fifth and most cynical official attempt since 1951 to absorb unaccounted money, and argues that the scheme grants the black-money baron a tax-free premium and statutory immunity while leaving the underlying flow untouched. Economist D. R. Pendse follows with 'The Problem of Black Money', a structured analytical essay that distinguishes illegal-source from tax-evaded legal-source income, surveys magnitude estimates and internat..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

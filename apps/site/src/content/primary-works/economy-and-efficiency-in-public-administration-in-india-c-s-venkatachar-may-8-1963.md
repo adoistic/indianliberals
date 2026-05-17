@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "C. S. Venkatachar's 1963 Forum of Free Enterprise pamphlet diagnoses what he calls a 'pronounced maladjustment of Government and politics with the administration' in the seventeenth year of Independence. Writing from the vantage point of a retired senior civil servant who had served as Secretary to the President of India, he distinguishes the old, manageable, two-person financial corruption of the colonial bureaucracy from a new structural corruption — a rot in the public morals of the ruling elite that, in his Turkish-proverb phrase, 'rots from head downwards' and prostitutes the administrative machinery to factional ends. He traces this rot to the statism unleashed by the 1952 turn to state trading, controls, licensing and bulk-buying of foodstuffs, compounded by a politically unrefor..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

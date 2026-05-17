@@ -27,7 +27,7 @@ rights:
 themes: []
 summary: "James S. Raj's 1978 A. D. Shroff Memorial Lecture — delivered in Bombay on 18 January 1978 and published by the A. D. Shroff Memorial Trust — sets out a policy framework for broadbasing India's capital market. Raj, then Chairman of the Reserve Bank's Committee on Public Sector Banks and Deputy Chairman of ICICI, argues that a 'broadbased and expanding capital market is absolutely essential for any developing country which has chosen a mixed economy in preference to a completely State-run one.' His central diagnostic move is to visualise the policy environment as a series of concentric circles surrounding the capital market: basic attitudes towards economic administration on the outside, industrial policy next, monetary policy nearer the core, and the capital-market regulations themselve..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

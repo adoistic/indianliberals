@@ -34,7 +34,7 @@ themes:
   - free-enterprise
 summary: "Reproduced from successive issues of Freedom First (November–December 2010 and January 2011), this Forum of Free Enterprise booklet by former Central Vigilance Commissioner N. Vittal frames accountability as the missing soul of Indian public service. Sunil Bhandare's editorial preface places the essay in the immediate context of the 2010–11 scams and an open letter of fourteen prominent citizens calling for empowered Lok Ayuktas and the Lok Pal Bill, while invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption.\n\nVittal's central argument is a simple equation — Input × Accountability = Output — that he uses to insist accountability is finally fixable only on individual human ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

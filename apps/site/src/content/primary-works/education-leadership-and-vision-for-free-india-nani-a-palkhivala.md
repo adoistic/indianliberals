@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "This slim Forum of Free Enterprise booklet collects two of Nani A. Palkhivala's late-1990s addresses. The first is his acceptance speech for the 1997 Dadabhai Naoroji Award, delivered on 12 August 1997; the second is his response at the University of Mumbai's Special Convocation on 19 January 1998, where Governor P. C. Alexander conferred an honorary Doctor of Laws on him. Both texts are framed around the conviction that India's freedom required, above all, an enlightened and well-educated citizenry.\n\nIn the Naoroji tribute, Palkhivala portrays the Grand Old Man as a pioneer of free and female education who personally went door-to-door persuading families to let girls learn the three Rs. He argues that Naoroji's vision combined the British virtues of justice and fairness with a settled ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

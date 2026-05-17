@@ -34,7 +34,7 @@ themes:
   - market-economy
 summary: "The Manifesto for Indian Liberals is a brief programmatic declaration adopted on November 21, 1985 by a conference of Indian liberals assembled at the Royal Bombay Yacht Club in Bombay. It opens by identifying the immediate context — gross violations of human rights and persistent grave tensions threatening peace and democracy — and attributes these conditions to the abandonment of liberal principles. The document affirms that only true democracy, grounded in the free and enlightened consent of the majority with due respect for minorities, can secure the rights and freedoms the manifesto enumerates.\n\nAcross six sections, the manifesto sets out the core liberal programme. The first section grounds liberal politics in individual sovereignty, affirming personal freedom, freedom of worship ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

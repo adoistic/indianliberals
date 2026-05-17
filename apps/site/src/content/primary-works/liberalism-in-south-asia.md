@@ -50,7 +50,7 @@ themes:
   - civil-society
 summary: "This issue of Liberal Times (Volume III / Number 4, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, takes 'Liberalism in South Asia' as its unifying theme. In the rendered pages, six contributors — from India, Sri Lanka, Nepal, and Germany — survey the state of liberal thought and practice across the region. The issue opens with Sharad Joshi's sweeping historical essay on why liberalism never took firm root in India despite a hospitable philosophical environment, arguing that the dominant intellectual traditions — from Gandhian quasi-anarchism to Congress socialism — crowded out a genuine liberal politics. Ashok V. Desai's tightly argued piece follows with an analysis of how the post-independence 'control regime' was inherited from wartime British economic..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

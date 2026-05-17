@@ -33,7 +33,7 @@ themes:
   - development-economics
 summary: "J. M. Lobo Prabhu, a retired ICS officer, economist, and former Member of Parliament, argues in this 1972 Forum of Free Enterprise pamphlet that India's forthcoming Fifth Five-Year Plan will fail unless it reorients itself around full employment as the primary goal rather than treating employment as a by-product of aggregate development. He opens with the stark observation that the Plan must offer work to five million registered unemployed and many times that number in rural areas — including 80 million agricultural workers with only five months of employment per year — and warns that persisting with the existing approach will produce nothing more than another five-year collection of budgets providing restrictions rather than resources.\n\nThe bulk of the essay advances a series of instit..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

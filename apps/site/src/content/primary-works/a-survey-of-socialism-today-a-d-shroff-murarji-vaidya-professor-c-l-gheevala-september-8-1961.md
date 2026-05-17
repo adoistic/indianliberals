@@ -40,7 +40,7 @@ themes:
   - mixed-economy
 summary: "A short pamphlet issued by the Forum of Free Enterprise (Bombay, 1961) collecting three contributions on the meaning and consequences of pursuing a 'socialist pattern of society' in India. The unsigned introduction frames the booklet's central premise — that 'a democratic society and a socialist society cannot be the same; in fact, they are mutually contradictory concepts' — and previews three essays: A. D. Shroff contrasts socialist comprehensive planning with planning for free enterprise, Murarji J. Vaidya reviews state enterprises in Indian democracy, and Prof. C. L. Gheevala subjects the concept of socialism to a searching analysis with comparative reference to socialist experience elsewhere. Two appendices — selected quotations on socialism and a reading list — close the volume.\n\nT..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -33,7 +33,7 @@ themes:
   - liberalisation
 summary: "The Liberal Budget 2006-07, subtitled \"Right Choices Tough Decisions\", is the third alternative budget document produced by the Indian Liberal Group (ILG) under its Project for Economic Education, prepared three months ahead of the Union Budget for the fiscal year 2006-07. The document opens with a statement of liberal philosophy — centring the individual over the state, invoking Gopal Krishna Gokhale's liberal vision and D. V. Gundappa's caution about selective borrowing from foreign ideas — before proceeding to a structured five-chapter analysis. The work is positioned explicitly as a counter to both Left-wing obstructionism within the UPA coalition and the UPA government's failure to press the Economic Policy Reforms (EPR) agenda with sufficient conviction after fifteen years of libe..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

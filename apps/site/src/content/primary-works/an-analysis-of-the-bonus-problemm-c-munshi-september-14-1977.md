@@ -29,7 +29,7 @@ themes:
   - industrial-relations
 summary: "This Forum of Free Enterprise booklet, written by Dr. M. C. Munshi a few days before the Janata government's September 1977 decision on bonus, traces the legal and administrative history of bonus payments in India and indicts the policy edifice that has grown around them. What began as an ex-gratia festival payment around the First World War drifted by stages into a compulsory statutory entitlement: through wartime industrial bargains, the Bombay High Court's 1944 General Motors decision, the 1950 Labour Appellate Tribunal's \"available surplus\" formula, Supreme Court obiter dicta in the 1955 Kanpur mills case, the 1962 Meher Commission, and the Payment of Bonus Act, 1965 with its 4% minimum and 20% maximum.\n\nMunshi argues that each successive concession — raising the floor to 8.33%, jet..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

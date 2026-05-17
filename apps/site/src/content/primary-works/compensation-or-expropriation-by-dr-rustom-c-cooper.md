@@ -31,7 +31,7 @@ themes:
   - nationalisation
 summary: "This Forum of Free Enterprise pamphlet by Dr. Rustom C. Cooper offers a legal-constitutional critique of Article 31 of the Indian Constitution and the Fourth Constitutional Amendment that introduced Article 31A. Cooper argues that the original Article 31 — which obliged the State to compensate citizens whose property it acquired — was steadily eroded by a series of state acquisition statutes and by parliamentary amendments designed to insulate compensation amounts from judicial review. The pamphlet reads the constitutional history as a record of how 'doctrinaire thinking' progressively stripped property of its standing as a fundamental right.\n\nThe argument moves through three registers. First, Cooper rehearses the textual change: Article 31's original language required compensation 'equ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

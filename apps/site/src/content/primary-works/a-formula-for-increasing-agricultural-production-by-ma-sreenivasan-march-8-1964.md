@@ -31,7 +31,7 @@ themes:
   - foreign-exchange
 summary: "In this four-page FFE leaflet dated 8 March 1964, M. A. Sreenivasan — a former Minister of Agriculture in Mysore and a plantation-sector authority — argues that India's coffee industry achieved its remarkable production gains in the decade 1950–1960 precisely because it was left relatively free from bureaucratic interference. Coffee output more than tripled over those ten years, earning the country substantial foreign exchange, and the plantation companies paid significant taxes while providing housing, water, canteens, and crèches to their workers and families. Sreenivasan attributes this success to the freedom planters enjoyed to manage their own estates without the encroachments that hamper other agricultural sectors.\n\nThe bulk of the essay is a detailed indictment of the legislative..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

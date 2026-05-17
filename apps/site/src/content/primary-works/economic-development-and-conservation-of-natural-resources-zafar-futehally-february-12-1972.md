@@ -30,7 +30,7 @@ themes:
   - industrial-policy
 summary: "Zafar Futehally's lecture, delivered on 23rd July 1971 under the auspices of the Forum of Free Enterprise and published as a Forum booklet in February 1972, argues that India's pursuit of economic development has proceeded without serious accounting for the natural-resource base on which civilisation rests. Distinguishing renewable resources (fresh water, clean air, soil, vegetation, animal life) from non-renewable ones (oil, coal, iron ore, minerals), he confines his attention to the renewable category and warns that even renewables collapse once their progenitor — nature itself — is destroyed. He marshals examples from the Sahara, the Rajasthan deserts, the silted hydrology of the Aswan Dam, the DDT load in the body fat of Delhi residents, and the deforestation-induced floods of South..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

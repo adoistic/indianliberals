@@ -32,7 +32,7 @@ themes:
   - free-enterprise
 summary: "Delivered as a speech on 11 March 1959 under the joint auspices of the Democratic Group and the Progressive Group in Bombay, and published by the Forum of Free Enterprise, A. D. Shroff's address dissects the Union Budget for 1959-60 presented by Finance Minister Morarji Desai. Shroff opens by chiding the Lok Sabha for the casual treatment given to a document that shapes the livelihood of millions, then walks his audience through the budget's revenue and expenditure sides before issuing his central warning: the budget is fundamentally inflationary, and the inflationary trajectory of the Second Five-Year Plan has now reached a point where 'runaway inflation' is a live risk.\n\nOn revenue, Shroff highlights how excise duties have leapt from Rs. 156 crores in 1956-57 to Rs. 325 crores in 1959..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

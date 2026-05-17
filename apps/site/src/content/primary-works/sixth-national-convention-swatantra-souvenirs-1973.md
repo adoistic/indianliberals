@@ -28,7 +28,7 @@ themes:
   - economic-freedom
 summary: "The rendered pages of this work (pages 1–20 of a 169-page souvenir proceedings volume) consist entirely of the cover and sponsor advertisements. Page 1 carries the cover — a full-bleed photograph of a senior Swatantra Party figure under the text 'SWANTRA PARTY / SIXTH NATIONAL CONVENTION / RAJAJI NAGAR' — and pages 2 through 20 are full-page commercial advertisements from Indian industrial and trading firms (Kirloskar Electric, The New Commercial Mills / Gopi Fabrics, The Associated Cement Companies Limited, Ram Dev Dmir & Company, and others), each carrying the footer 'SWATANTRA SOUVENIR 1973'. No title page, table of contents, editorial credit, or substantive convention content appears in the rendered pages. The editorial and proceedings content begins beyond page 20 and is not visibl..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

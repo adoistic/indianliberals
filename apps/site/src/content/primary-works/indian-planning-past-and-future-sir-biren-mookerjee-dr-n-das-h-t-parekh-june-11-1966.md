@@ -41,7 +41,7 @@ themes:
   - monetary-policy
 summary: "This Forum of Free Enterprise booklet gathers three independent essays by prominent Indian voices in industry, economics, and finance, all converging on a single verdict: fifteen years of Five-Year Plans have failed to improve the material condition of the average Indian, and the Fourth Plan must radically reconsider both its diagnosis and its methods. The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as \"an affirmative good\" rather than a tolerated evil. Mookerjee's opening essay argues that planning success is impossible without sweeping modernisation—mechanisation, automation, and managerial pragmatism—and lays particular blame on restrictive public-sector licensing and labour-monopoly policies. Das furn..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

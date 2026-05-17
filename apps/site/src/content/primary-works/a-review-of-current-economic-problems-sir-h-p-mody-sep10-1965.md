@@ -34,7 +34,7 @@ rights:
 themes: []
 summary: "A slim Forum of Free Enterprise booklet dated 10 September 1965, collecting three short pieces that together amount to a classical-liberal post-mortem on the first decade and a half of Indian planning. Sir H. P. Mody opens with a polemic against the planning apparatus itself; Prof. B. R. Shenoy diagnoses the food crisis as the product of deficit financing and the misdirection of public-sector resources rather than hoarding; and P. S. Narayan walks through the country's foreign exchange crisis, arguing that ad-hoc controls and devaluation are no substitute for getting at the fiscal and monetary fundamentals. The shared frame is that India's troubles are self-inflicted by ever-larger plans, expanding public expenditure, and bureaucratic controls, and that consolidation, fiscal discipline,..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

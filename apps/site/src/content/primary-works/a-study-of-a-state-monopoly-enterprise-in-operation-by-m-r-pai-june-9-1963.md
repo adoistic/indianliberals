@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "M. R. Pai's two-page Forum of Free Enterprise leaflet, dated 9 June 1963, is a tightly argued critique of the Life Insurance Corporation as a working example of a state monopoly. Pai opens by recalling the Forum's 1956 manifesto, which warned that monopoly of any kind — public or private — would upset the delicate mechanism of a free and democratic social order, leaving consumers, workers, investors and entrepreneurs all stripped of meaningful choice. He frames the LIC's recent annual statement as a case study that vindicates that warning.\n\nThe core of the piece is a forensic reading of the LIC chairman's own figures. The Corporation's switch from a calendar year to a financial year of accounting from 1963 stretched the comparison period to fifteen months (January 1962 to March 1963), p..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

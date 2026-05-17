@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "J. H. Doshi, then President of the Forum of Free Enterprise, delivered this address to the Forum's 22nd Annual General Meeting in Bombay on 18 September 1978 — roughly eighteen months after the 1977 ballot-box defeat of the Emergency-era Congress government. He opens by acknowledging that the new government has rightly shifted economic priorities (towards agriculture and rural development, towards employment-intensive technology, towards small and cottage industries, and towards decontrol of food zones and sugar), but argues that growth has nevertheless stalled because the Government has failed to grasp \"the basic principles of planning, viz., strict priorities and its own limitations as an instrument.\" The state, he insists, possesses coercive power but is not omniscient; when it sprea..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -28,7 +28,7 @@ rights:
 themes: []
 summary: "A Survey of State Enterprises in India is a 1962 Forum of Free Enterprise booklet that reprints a sequence of Economic Times articles and editorials from 8 and 16 February 1962, framed by an introduction signed by A. D. Shroff, the Forum's President. The booklet collates a comparative study of sixteen large Central Government companies — covering roughly 91 per cent of actively functioning Central Government undertakings by paid-up capital — alongside private-sector benchmarks drawn from a Reserve Bank of India sample of 1,001 industrial companies and the Economic Times' own panel of 51 industrial giants.\n\nShroff's introduction frames the booklet as a corrective to information opacity: even Parliament's Estimates Committee, he notes, has had to flag the difficulty of obtaining authentic..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -30,7 +30,7 @@ themes:
   - industrial-policy
 summary: "This short Forum of Free Enterprise leaflet, reproduced from the Financial Express of 31 May 1962, is an anonymous polemic signed by \"Critic\" arguing that the Government of India's ideological attachment to socialism — what the title calls a \"bogey\" — is the principal obstacle to fulfilling the Third Five-Year Plan's most critical targets. The writer focuses on steel and the long-delayed Bokaro plant, contrasting the relatively contained problems at Rourkela and Durgapur (where West German and British suppliers are to blame for delays) with the much bigger failure at Bokaro, which lies \"squarely\" with the Central Government's refusal to consider any role for the private sector.\n\nThe leaflet's central pragmatic claim is that Indian and foreign private capital — British, German, Japanese,..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

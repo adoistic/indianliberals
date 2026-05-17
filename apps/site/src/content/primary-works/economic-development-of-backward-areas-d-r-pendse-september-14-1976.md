@@ -26,7 +26,7 @@ rights:
 themes: []
 summary: "D. R. Pendse, then Economic Adviser to the House of Tatas, presents a Forum of Free Enterprise booklet drawn from a longer note he wrote for the Financial Express, Bombay. The pamphlet traces how regional-economics theory has shifted from a laissez-faire view — that unrestricted trade and the rising costs of crowded developed regions would in time equalise living standards across the country — to today's mainstream acceptance of active government policy. The case for intervention, in Pendse's reading, rests on persistent socio-economic and political pressures, the slowness of percolation, technological obsolescence (he cites Britain's coal districts and Kolhapur's diesel-engine industry), and the political reality that democracies cannot wait.\n\nThe middle section is a comparative survey..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -26,7 +26,7 @@ rights:
 themes: []
 summary: "Delivered as the Tenth Bhogilal Leherchand Memorial Lecture in Mumbai on 8 January 1999 and published by the Forum of Free Enterprise, this booklet captures N. Vittal's diagnosis of India's corruption problem from his vantage as Central Vigilance Commissioner. Vittal opens with a tribute to Bhogilal Leherchand — the Bombay diamond merchant who diversified into textiles, engineering and petrochemicals while keeping a reputation for integrity — and uses that example to ask why ethical standards in Indian business, industry and public life have decayed so badly that the country is rated the world's ninth most corrupt.\n\nHis central thesis is structural rather than moral. While ten per cent of Indians will be saintly and ten per cent crooked whatever the rules, the remaining eighty per cent ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

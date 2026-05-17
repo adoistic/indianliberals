@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Dr. T. H. Chowdary's lecture, delivered in Mumbai on 16 August 2002 under the joint auspices of the Forum of Free Enterprise and the Indian Merchants' Chamber, reframes the much-discussed 'digital divide' as a tractable policy problem rather than an indictment of technology. He opens with a long historical arc — from oral transmission to Gutenberg's moving type, from libraries to electronified information — to argue that prosperity has always tracked the diffusion (not the concentration) of knowledge. The 19th-century take-off in per-capita world GDP, charted from Angus Maddison's data, is for him the visible signature of widely accessible information and skill.\n\nHe then walks through the cost economics of telecommunications: the dramatic fall in trans-Atlantic cable costs from 1956 to ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -38,7 +38,7 @@ themes:
   - quantity-theory-of-money
 summary: "Published by the Forum of Free Enterprise on 14 January 1977 to mark Milton Friedman's Nobel Prize, this slim booklet pairs two complementary texts. The first is a reprint of a 1963 article by Friedman himself — 'India Needs A Free Market Exchange Rate' — which the Forum had originally issued as a leaflet in May 1963 and now reproduces with a note that 'developments on India's foreign exchange front have moved in the direction indicated by Prof. Friedman.' The second is 'Milton Friedman — Leader of Monetarist Revolution', a critical appraisal by P. R. Brahmananda, Professor of Monetary Economics at Bombay University, originally published in Commerce on 23 October 1976. Together the two pieces position Friedman as both a practical policy critic of India's exchange-control regime and as t..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

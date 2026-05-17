@@ -26,7 +26,7 @@ rights:
 themes: []
 summary: "Delivered as the tenth A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise in Bombay on 27 October 1975, V. V. John's address argues that India's poverty is at root an educational problem and that the country's universities and colleges have failed in their duty to the poor. John, a former Vice-Chancellor of Jodhpur University, opens by saluting the scholarly studies of poverty by Dandekar and Rath, Fonseca, and Dantwala for moving the debate beyond sentimental generalities, but insists that poverty is ultimately a moral problem whose solution requires the active engagement of the intellectual class. With more than 250 million Indians, including 100 million children, going to bed hungry, he argues, compassion cannot be allowed to retreat into either economic..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

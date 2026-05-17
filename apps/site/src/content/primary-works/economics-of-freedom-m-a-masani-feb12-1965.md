@@ -32,7 +32,7 @@ themes:
   - welfare-state
 summary: "This pamphlet reproduces M. R. Masani's address to the Rotary Club of Bombay, framed as a sustained argument against India's drift toward what he calls 'State Capitalism and State Landlordism' on the Soviet–Chinese pattern. Masani opens by recalling a conversation with an influential ruling-party friend who shared his distaste for the Stalinist model yet still wished India to socialise large-scale industry and impose co-operative farming; the body of the talk explains why such a programme, however well-intentioned, must in his view extinguish political liberty.\n\nThe argument proceeds on three fronts. First, Masani sets out the consumer-sovereignty case for the market: only the discipline of the price system, supply and demand and the balance sheet allows the citizen to choose what to bu..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

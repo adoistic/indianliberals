@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Frank Simoes's \"Fare Forward, Voyager...\" is a biographical tribute to the Goan industrialist Vasudev M. Salgaocar (1916-1984), published in May 1990 by the A.D. Shroff Memorial Trust as Volume 3 of its \"Builders of Indian Economy\" series. In the rendered pages — the dust jacket, family tree, copyright page, contents, epigraph, prologue and the opening of the first chapter \"Childhood's End\" — the book positions itself as a journey of discovery undertaken by the author, a fellow Goan, drawing on roughly one hundred and fifty interviews and two hundred hours of taped material to assemble what the jacket calls \"a democratic consensus\" on its subject.\n\nThe prologue, set in the pre-dawn hours of a single day at the Salgaocar mansion in Chicalim above Vasco da Gama, sketches the man at sixty-..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

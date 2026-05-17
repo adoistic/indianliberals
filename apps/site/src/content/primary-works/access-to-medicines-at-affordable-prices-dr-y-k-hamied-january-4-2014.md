@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Dr. Y. K. Hamied, Chairman of Cipla Ltd., uses his 25th Bhogilal Leherchand Memorial Lecture (delivered 12 November 2013 in Mumbai under the auspices of the Forum of Free Enterprise) to argue that access to affordable, life-saving medicines is a fundamental human right that India's patent regime ought to protect. He divides the world into a Rich global North of 600 million and a Developing global South of 3 billion, observing that one-third of humanity — and roughly half of Asia and Africa — lacks access to even basic medicines. Against this backdrop he indicts both multinational drug companies that have aggressively blocked low-cost AIDS drugs to Africa, and the Indian government, whose 2005 Indian Patent Bill (incorporating product patents and section 3(d) loopholes) he says has stall..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -34,7 +34,7 @@ themes:
   - economic-reform
 summary: "Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award Function on 8 April 2008 in Mumbai and issued as a Forum of Free Enterprise booklet, Mrs. Shyamala Gopinath, then Deputy Governor of the Reserve Bank of India, surveys how the banker-customer relationship has been reshaped by the post-1991 liberalisation of Indian banking. She positions her remarks as a tribute to the late M. R. Pai, \"the doyen of consumer activism in India,\" and argues that even in a deregulated environment dominated by private banks, new technology, and rapid product innovation, the consumer's position remains structurally unequal — what she calls an \"information asymmetry, which renders the banker-customer relationship one of unequals.\"\n\nThe address moves systematically through the policy archit..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -31,7 +31,7 @@ themes:
   - india-economy
 summary: "Writing in September 1965 for the Forum of Free Enterprise, B. S. Mahajan — identified in a footnote as Secretary of the All-India Sarafa Association and an authority on the gold problem — argues that the Gold Control Rules are fundamentally misconceived and have comprehensively failed on their own stated terms. His central contention is that gold-hoarding is not a pathology to be regulated away but a rational response to currency depreciation: with the rupee now worth roughly 17 paise in terms of its pre-war purchasing power, and postal savings yielding compound interest of only 4.4 per cent against gold investment's implied 6.02 per cent return, ordinary people have every economic reason to hold gold. State measures that seek to override this preference treat the symptom while the dis..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

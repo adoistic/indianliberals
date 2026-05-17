@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "N. C. Mehta, an eminent Chartered Accountant and authority on Sales Tax Laws, walks practitioners through the Finance Act, 2002 amendments to the Central Sales Tax Act, 1956, which extended the Centre's sales-tax machinery to the 'deemed sales' brought into the constitutional definition by the 46th Amendment (clause 29A of article 366). The booklet explains how the levy now reaches indivisible works contracts, leases of goods, hire-purchase and instalment sales, supplies by clubs to members, and food served in hotels and restaurants, and traces the sequence of notifications under section 6(1) by which the Centre operationalised the charge from 11.5.2002.\n\nThe core of Mehta's commentary is a sharp legal critique of a Maharashtra Commissioner's Circular (No. 15T of 2002) that treats the a..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

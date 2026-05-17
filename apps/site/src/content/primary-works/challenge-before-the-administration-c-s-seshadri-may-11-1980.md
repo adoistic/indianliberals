@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Delivered as the A. D. Shroff Memorial Lecture in Bangalore on 30 October 1979 and published by the Forum of Free Enterprise, this booklet is C. S. Seshadri's diagnosis of what has gone wrong with Indian public administration after more than three decades of self-government. Drawing on his career as a senior civil servant (1943–1976), Seshadri argues that public administration is the indispensable infrastructure of national survival — whatever the constitutional form — and that India's administrative machinery, inherited from the colonial 'Steel Frame' system of area administrators, has deteriorated in both integrity and efficiency as ethical and moral standards in public life have declined.\n\nThe lecture organises the diagnosis around three pressures on the system: the rising quantitati..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

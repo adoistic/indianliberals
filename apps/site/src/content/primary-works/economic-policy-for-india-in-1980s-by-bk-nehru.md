@@ -28,7 +28,7 @@ themes:
   - mixed-economy
 summary: "Delivered as a lecture at the Leslie Sawhny Programme in New Delhi on 17 March 1983 and published as a booklet by the Forum of Free Enterprise, this essay by B. K. Nehru — former civil servant, distinguished economist, and then Governor of Jammu and Kashmir — offers a candid retrospective on India's first thirty-five years of economic policy and a forward-looking case for liberalising the economy in the 1980s. Nehru redefines the conventional label 'mixed economy' for India, arguing that what India actually runs is a command economy with a small residual market — production, distribution, pricing, and technology choices are all directed by government regardless of ownership.\n\nHe traces the genesis of this system to the wartime controls inherited at Independence, the post-Depression fash..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

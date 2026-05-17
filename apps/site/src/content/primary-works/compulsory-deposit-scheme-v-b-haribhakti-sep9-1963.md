@@ -35,7 +35,7 @@ themes:
   - economic-policy
 summary: "This Forum of Free Enterprise pamphlet collects two talks delivered in Bombay on 23 July 1963 attacking the Compulsory Deposit Scheme (C.D.S.) announced by the Finance Minister in the 28 February 1963 Budget Speech. V. B. Haribhakti, a chartered accountant, dissects the statute clause-by-clause to argue that the scheme is gigantic, ill-considered, and impossible to administer fairly on lower-income earners. H. C. Malkani, Principal of Bombay's College of Commerce and Economics, takes up the question of feasibility — comparing C.D.S. to Keynes-inspired British deferred-pay precedents, weighing it against ordinary taxation, and concluding that the implementation machinery is nowhere near ready for the colossal task. Both pieces share the Forum's classical-liberal framing — captured in the..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

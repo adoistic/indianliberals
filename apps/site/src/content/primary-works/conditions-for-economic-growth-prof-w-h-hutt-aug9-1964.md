@@ -31,7 +31,7 @@ themes:
   - thrift-and-savings
 summary: "Delivered as a Forum of Free Enterprise pamphlet dated 9 August 1964, W. H. Hutt's Conditions for Economic Growth opens with the question of how India can most rapidly raise its average standards of living toward those of Western Europe and the United States, and answers it with a polemical inversion: altruistic foreign aid is of negligible importance compared with what private foreign profit-seekers, claiming no altruism whatever, would supply in capital, equipment and managerial competence if Indian policy permitted them entry under credible guarantees against nationalisation and confiscatory taxation. The 'most formidable internal & imposed barrier' to India's catching up, Hutt insists, is not any want of Indian talent but the legal-political restraint placed on the inflow of foreign..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

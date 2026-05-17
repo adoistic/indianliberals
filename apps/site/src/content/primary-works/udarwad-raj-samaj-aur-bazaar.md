@@ -37,7 +37,7 @@ themes:
   - democracy
 summary: "This is a Hindi translation of Sauvik Chakraverti's English primer 'Free Your Mind: A Beginner's Guide to Political Economy', published by the Centre for Civil Society in 2006 and translated by Kaushal Kishore. Titled उदारवाद: राज, समाज और बाज़ार का नया पाठ (Liberalism: A New Reading of State, Society and Market), the book is addressed explicitly to young Indians and first-time voters who, in the rendered pages, are described as having been educated by a state-sponsored curriculum that teaches them to accept socialist premises uncritically. The preface argues that a free society rests on three pillars — political democracy, free-market economic freedom, and liberal education in the value of liberty — and charges that India, ranked 120th on the 1999 World Economic Freedom Index, possesse..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

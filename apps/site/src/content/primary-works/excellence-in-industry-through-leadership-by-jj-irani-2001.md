@@ -31,7 +31,7 @@ themes:
   - globalisation
 summary: "Excellence in Industry Through Leadership is the text of the 35th A. D. Shroff Memorial Lecture, delivered by Dr. J. J. Irani — then a Director of Tata Sons and former Managing Director of Tata Iron & Steel Co. (TISCO) — at the Forum of Free Enterprise in Mumbai on 1 November 2001. Irani uses the occasion to argue against the orthodoxy, most famously expressed by Milton Friedman, that \"the business of business is business.\" He concedes the importance of profit as a motive but rejects single-minded profit maximisation as a long-term recipe for disaster, insisting that the legitimate purpose of industry is to serve customers, employees, the community and the nation — with profit and wealth as the natural by-product of excellence pursued in that spirit.\n\nThe lecture is organised around fiv..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

@@ -24,7 +24,7 @@ rights:
 themes: []
 summary: "This Forum of Free Enterprise booklet reproduces an excerpt from Milton and Rose Friedman's 'Free to Choose' (1979) under the title 'Central Economic Planning'. Drawing on the Friedmans' travels in underdeveloped countries, the text opens by contrasting the convictions of intellectuals — for whom central planning is 'the wave of the future' — with the empirical record. Wherever the state controls economic activity in detail, the authors argue, ordinary citizens remain in political fetters and material poverty, even as the state and its privileged classes prosper.\n\nThe argument is built around a sequence of comparative case studies. East Germany versus West Germany shows what the free market and Ludwig Erhard's 1948 currency-and-price liberalisation produced relative to a walled, grey co..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

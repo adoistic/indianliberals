@@ -30,7 +30,7 @@ themes:
   - national-development
 summary: "Delivered as a Forum of Free Enterprise talk in April 1998 under the auspices of the Ladies' Wing of the Indian Merchants' Chamber, Mukesh D. Ambani's booklet is a sustained argument that India can become one of the world's five leading economic powers by 2020. Ambani frames the coming two decades as a transition from the industrial age to an information-driven, globalised economy in which transparency, speed, and human capital decide national success. He insists that the orthodox forecast of 7% annual growth would condemn India to wait 68 years to reach developed-world GDP, and instead urges a strategy aimed at doubling per capita income every five years — a target India must meet because, he writes, the country has \"really no options\" between great-power status and going under.\n\nThe s..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

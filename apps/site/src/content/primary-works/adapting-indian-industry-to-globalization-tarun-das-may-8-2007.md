@@ -36,7 +36,7 @@ themes:
   - industrial-policy
 summary: "Delivered on 19 July 2006 at the Forum of Free Enterprise's Golden Jubilee in Mumbai and published as a 2007 booklet, Tarun Das's address tracks Indian industry's transit from the post-1947 'commanding heights' regime to the open, competitive landscape of the mid-2000s. Speaking as Chief Mentor of the Confederation of Indian Industry, Das frames 1947–1991 as four decades in which 'stringent controls, licensing and regulations with extensive micro management of the private sector' preempted enterprise; 1991 onward then ushers in a continuous regime of competition, foreign capital, and globalised consumer markets in which Indian firms are expected to perform without protection.\n\nThe argumentative centre of the talk is that competitiveness has become an unending discipline rather than a mi..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

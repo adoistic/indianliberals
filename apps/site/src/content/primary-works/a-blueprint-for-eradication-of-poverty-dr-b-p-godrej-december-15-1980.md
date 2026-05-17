@@ -33,7 +33,7 @@ themes:
   - capitalism-vs-socialism
 summary: "Delivered as a public lecture under the auspices of the Forum of Free Enterprise in Bombay on 16 September 1980 and published as a pamphlet in December of that year, Dr. B. P. Godrej's address opens by naming poverty and unemployment as India's greatest crises. Drawing on official surveys and press reports, he establishes that more than 356 million Indians lived below the poverty line in 1978—defined as the caloric threshold below which a worker cannot perform a full day's labour—and that malnutrition was measurably depressing the cognitive development of the rural poor.\n\nThe first half of the lecture dissects the causes of this failure. Godrej argues that the ideological adoption of a dominant public sector, without regard for India's actual conditions, had produced a nationalised econ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

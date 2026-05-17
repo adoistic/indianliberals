@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "Bhanu Pratap Singh, a former Union Minister of State for Agriculture and Irrigation, argues that India's foodgrain pricing and marketing regime — built in the 1960s scarcity years to shield urban consumers — has become structurally hostile to the producer in a country that is now sitting on a marginal surplus. Drawing on the National Demonstration Plots and the Punjab experience, he contends that India has the land, water, sunshine, technology and seed to be the world's largest farm exporter, and that the gap between potential and performance is the product of a feudal-colonial mental inheritance under which agriculturists are the only producers who have no say in the price of their own produce.\n\nThe booklet then dissects the machinery of price suppression: heavy buffer stocks built on ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

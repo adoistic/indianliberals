@@ -29,7 +29,7 @@ themes:
   - history
 summary: "This chapter — Chapter V of Sivanath Sastri's 1904 Bengali biography of Ramtanu Lahiri — is an English translation covering the period 1825–1833, described as a 'watershed between the old and the new' in Bengal's social history. Sastri frames this era as one of paradigm shift: the East India Company's consolidation of revenue-extraction power, the catastrophic famine of 1176 Bengali Era (1769–70) and the Company's callous indifference, and the gradual replacement of Indian officials with Europeans up to 1833, are laid out as the political backdrop against which the social and intellectual upheaval takes place.\n\nThe chapter's argumentative centre is the collision between orthodoxy and liberal-reformist energies. Sastri traces three overlapping currents: Ram Mohan Roy's campaign against s..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

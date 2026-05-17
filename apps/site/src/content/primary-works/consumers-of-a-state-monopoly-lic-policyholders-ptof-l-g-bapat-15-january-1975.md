@@ -31,7 +31,7 @@ themes:
   - public-sector-reform
 summary: "Prof. L. G. Bapat's 1975 Forum of Free Enterprise booklet audits the Life Insurance Corporation of India eighteen years after nationalisation, asking whether LIC delivered on the better deal promised to policyholders when the Draft Bill was introduced in 1956. Bapat evaluates the corporation under four heads — premium rates, share in LIC's prosperity (bonus), service while the policy is in force, and settlement of claims on maturity — and finds the state monopoly wanting on every count.\n\nOn premium rates, Bapat shows that LIC continues to base its tariffs on the obsolete Oriental (1925-35) Ultimate Mortality Table even though the death rate has fallen from 36.3 per 1,000 in the 1920s to 12 per 1,000, and even though the corporation's own valuations and an Administrative Reforms Commissi..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

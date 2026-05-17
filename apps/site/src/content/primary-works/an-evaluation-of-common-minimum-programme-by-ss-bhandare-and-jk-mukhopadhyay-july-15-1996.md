@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "This 16-page Forum of Free Enterprise booklet, jointly written by Tata Services economists S.S. Bhandare and J.K. Mukhopadhyay within days of the United Front (UF) Government's installation in 1996, offers a sceptical but not hostile reading of the 13-party coalition's Common Minimum Programme. The authors concede that the CMP is a creditable consensus statement of intent — covering federalism, decentralisation, fiscal consolidation, PSU restructuring, financial-sector reform, agriculture, and a 'human face' for adjustment — and they note that it broadly tracks the famous 10-point medium-term objectives of Dr. Manmohan Singh's interim 1996-97 budget. But they argue that, as a coalition compromise, the CMP is 'neither a blue-print' nor a credible action programme: it dodges the political..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

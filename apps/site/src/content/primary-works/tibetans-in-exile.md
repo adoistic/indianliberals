@@ -56,7 +56,7 @@ themes:
   - refugees
 summary: "This issue of Liberal Times (Volume III / Number 2, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, is devoted to the Tibetan exile experience under the thematic banner 'Tibetans in Exile — The Struggle Continues…'. In the rendered pages, the issue assembles voices from Tibetan activists, Indian commentators, and a US Congressional document to examine three interlocking problems: China's ongoing cultural, demographic and ecological destruction of Tibet; the democratic institutions built by the exile community under the Dalai Lama; and the strategies — non-violent resistance, international lobbying, youth mobilisation, and women's political organising — that define the contemporary freedom movement. The editorial perspective is broadly liberal-international..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

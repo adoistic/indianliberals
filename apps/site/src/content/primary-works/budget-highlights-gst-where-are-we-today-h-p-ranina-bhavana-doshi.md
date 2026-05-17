@@ -32,7 +32,7 @@ rights:
 themes: []
 summary: "This Forum of Free Enterprise booklet bundles two short policy commentaries on India's Interim Budget for FY 2019-20 and the state of the Goods and Services Tax regime, prefaced by an Editorial Introduction signed by Sunil S. Bhandare. The first article, by Forum President H. P. Ranina, surveys Finance Minister Piyush Goyal's Interim Budget and reads it as a 'road map' for a digitised, manufacturing-led economy that holds fiscal consolidation at 3.4% of GDP while extending social-security cover, direct income support to small farmers, and a conceptual Universal Basic Income. The second article, by indirect-tax expert Bhavna Doshi, takes stock of GST as a 'mixed bag' — what is amiss in compliance, rate design and federal coordination, and what the GST Council should change so the regime ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

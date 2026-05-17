@@ -35,7 +35,7 @@ themes:
   - state-and-society
 summary: "अन्वयार्थ - १ (Anvyartha Vol. 1) is a Marathi-language collection of newspaper columns by Sharad Joshi, the founder of the Shetkari Sanghatna (Farmers' Organisation), published in 2010 by Janashakti Vachak Chalavala, Aurangabad. According to the publisher's note, the pieces were originally published in Dai. Lokmat between 1992–1994 and 2000–2001 under the 'Anvyartha' column-head, and the collection is being issued as part of Joshi's amrit-mahotsav (75th birthday) publication series. The book carries a government of Maharashtra award.\n\nIn the rendered pages, Joshi advances his signature thesis — that the root cause of India's political and social dysfunction is the systematic looting of agricultural production by the state, a pattern he traces from British colonial rule through post-inde..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

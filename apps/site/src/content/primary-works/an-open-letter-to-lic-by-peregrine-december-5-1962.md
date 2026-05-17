@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "An Open Letter to L.I.C., signed by the pseudonymous \"Peregrine\" and reproduced from the Amrit Bazar Patrika of September 1, 1962, is a sceptical reading of the Life Insurance Corporation's first major progress report by a writer who is also a policy-holder. While most papers, the letter notes, have \"sung hallelujah\" to the LIC's claimed jump in new business from Rs. 497.54 crores in 1960 to Rs. 608.82 crores in 1961, Peregrine argues that the corresponding rise in \"business in force\" — Rs. 452 crores, or 19.8 per cent — is too small to be consistent with that growth once first-year lapsation is honestly counted. The gap of Rs. 156.82 crores, he writes, either reflects accounting jugglery or simply measures policies that lapsed within the first year; his own estimate of true first-year ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

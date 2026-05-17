@@ -25,7 +25,7 @@ rights:
 themes: []
 summary: "This pamphlet collects the three foundational documents of the Forum of Free Enterprise: \"A Manifesto\" (originally published 18 July 1956, the day the Forum was constituted), a \"Code of Conduct\" for those working in the private sector, and a position paper titled \"What the Forum stands for.\" The printing in hand was issued by M. R. Pai for the Forum on 10 July 1970, and it opens with frontispiece epigraphs from A. D. Shroff, the Founder-President, and from Eugene Black.\n\nThe Manifesto is built as a cascade of twelve \"WE BELIEVE\" articles arguing that free enterprise is an integral part of Indian democratic life and that, since Independence, its case has been allowed to go by default under sustained attack. It defines the free enterpriser broadly — shopkeeper, farmer, artisan, worker, ma..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

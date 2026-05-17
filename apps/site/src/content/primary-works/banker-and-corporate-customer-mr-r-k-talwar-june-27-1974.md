@@ -33,7 +33,7 @@ themes:
   - economic-policy
 summary: "Delivered as the 1974 A. D. Shroff Memorial Lecture by R. K. Talwar, then Chairman of the State Bank of India, this short volume sets out how the relationship between banks and their large corporate borrowers had been transformed in the two decades since the 1953–54 Committee on Finance for the Private Sector (the Shroff Committee). Talwar opens with a careful tribute to A. D. Shroff — recovering Shroff as a pragmatist who founded the Forum of Free Enterprise but who had also served on the National Planning Committee and helped author the Bombay Plan of 1944 — and insists that Shroff's name was unfairly linked to a discredited laissez-faire doctrine.\n\nAgainst that backdrop Talwar argues that the banker can no longer be primarily a guarantor of security. With managing agency houses gone,..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

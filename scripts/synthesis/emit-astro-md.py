@@ -348,8 +348,15 @@ def emit_primary_work(slug: str) -> Path | None:
         },
         "themes": meta.get("themes") or [],
         "summary": _short_summary(summ),
+        # needs_review remains true: this is the editorial signal that an
+        # entry is AI-extracted and hasn't had a human-reviewed pass yet.
+        # Sveltia surfaces "needs_review: true" entries to editors first.
         "needs_review": True,
-        "draft": True,
+        # draft stays FALSE: Tier B primary works ship publicly with the
+        # "metadata is AI-extracted, under editorial review" disclaimer
+        # rendered on the detail page. Hiding 900+ entries behind a
+        # manual review gate would make the corpus invisible at launch.
+        "draft": False,
         "ai": {
             "drafted_by": "claude-sonnet-4.5",
             "drafted_at": "2026-05-17",

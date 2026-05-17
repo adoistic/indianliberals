@@ -43,7 +43,7 @@ themes:
   - hinduism-and-liberalism
 summary: "This issue of Shetkari Sanghatak (Year 9, Issue 2, 21 April 1992), the Marathi fortnightly organ of the Shetkari Sanghatana farmers' movement, is anchored by a major polemical essay by Sharad Joshi titled 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ' (The True Meaning of Jotiba's Opposition to Brahmin Domination). Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class. A sidebar box addresses the claim 'Was Jotiba a Hindu nationalist?' and rebuts it on historical grounds. The remaining pages carry ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

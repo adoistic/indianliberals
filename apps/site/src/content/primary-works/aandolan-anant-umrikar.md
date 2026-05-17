@@ -31,7 +31,7 @@ themes:
   - political-economy
 summary: "आंदोलन (Andolan, 'Agitation/Movement') is a Marathi-language book of four long reportage essays by Anant Umrikar, a journalist and associate of Shetkari Sanghatana leader Sharad Joshi, first published on 9 August 1992 and revised for a third edition in 2008. The book is dedicated to Sharad Joshi. In the rendered pages (covering the preface, TOC, and the opening of the first two essays), Umrikar writes in a first-person eyewitness style, immersing readers in the lived texture of the farmers' agitation movement in Maharashtra in the early 1990s.\n\nThe first essay, 'पाउले चालती परभणीची वाट' ('Footsteps on the Parbhani Road'), documents a large Shetkari Sanghatana conference held in Parbhani. In the rendered pages, Umrikar describes arriving at the weekly market, meeting a local activist nam..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

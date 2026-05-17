@@ -59,7 +59,7 @@ themes:
   - state-power
 summary: "The Indian Libertarian, Vol. VI No. 2 (April 1, 1958) is a sixteen-article fortnightly journal published from Bombay under editor Miss Kusum Lotwala. Its masthead motto — 'We Stand for Free Economy and Libertarian Democracy' — encapsulates the editorial line sustained across every piece in the rendered pages: a sustained libertarian-classical-liberal critique of Nehru's economic and foreign policies, the Congress Party's internal culture, and the creeping socialism of Indian statecraft in the late 1950s. The journal incorporates the earlier 'Free Economic Review' and also campaigns editorially for English as India's official language.\n\nThe issue opens with a letters column and a two-page editorial attacking the Arab Union, Indian foreign policy toward Pakistan, and the Congress Party's ..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17

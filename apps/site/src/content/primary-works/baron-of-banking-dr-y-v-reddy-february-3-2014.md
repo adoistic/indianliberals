@@ -42,7 +42,7 @@ themes:
   - economic-history
 summary: "This Forum of Free Enterprise booklet, published on 03/Feb/2014, gathers the remarks delivered on 25 October 2013 at the Mumbai launch of Bakhtiar K. Dadabhoy's book 'Barons of Banking — Glimpses of Indian Banking History', a volume commissioned at the behest of the A. D. Shroff Memorial Trust. After an Introduction by Forum President Minoo R. Shroff, three substantial addresses follow: Dr. Y. V. Reddy (former RBI Governor and Chairman of the 14th Finance Commission), the economist S. S. Tarapore, and the chartered accountant Y. H. Malegam, who is also a Trustee of the A. D. Shroff Memorial Trust. The contributors converge on the book's framing of six 'barons' — Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era, and Raj Kumar T..."
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17
