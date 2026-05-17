@@ -1,0 +1,1205 @@
+{
+  "edge_type": "cites",
+  "edges": [
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "thomas-robert-malthus",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Mody warns that India must take urgent steps to avoid 'the disaster which Malthus had forecast for a nation multiplying itself unchecked.'"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "a-d-shroff",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The booklet's inside front matter carries an epigraph attributed to A. D. Shroff, Founder-President of the Forum of Free Enterprise (1899–1965): 'Free Enterprise was born with man and shall survive as"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "a-d-shroff",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The frontispiece carries A. D. Shroff's founding motto: 'Free Enterprise was born with man and shall survive as long as man survives.'"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "indira-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Indira Gandhi's views on public enterprise at the start of her prime-ministership are cited from a letter to Minoo Masani, reproduced in Manohar Malgonkar's book 'Cue from the Inner Voice', criticisin"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "minoo-masani",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Mr. Minoo Masani is named as the recipient of Indira Gandhi's letter criticising the failures of public enterprises, as reproduced in Malgonkar's book."
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Godrej quotes Mahatma Gandhi: 'The violence of private ownership is less injurious than the violence of the state.'"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "a-d-shroff",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The pamphlet's back cover carries a boxed quotation attributed to A. D. Shroff: \"Free Enterprise was born with man and shall survive as long as man survives.\""
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "a-d-shroff",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The inside front matter carries the epigraph: \"Free Enterprise was born with man and shall survive as long as man survives.\" — A. D. Shroff, 1899-1965, Founder-President, Forum of Free Enterprise."
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "a-d-shroff",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "A sidebar on the inside front cover quotes A. D. Shroff, Founder-President of the Forum of Free Enterprise (1899–1965): \"Free Enterprise was born with man and shall survive as long as man survives.\""
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "sharad-joshi",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The book is dedicated to Sharad Joshi and his name appears throughout the rendered pages as the central leader of the Shetkari Sanghatana whose conferences and Delhi march are described."
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "In the preface, Joshi argues that even Mahatma Gandhi (महात्मा गांधींची) could not protect the system of individual self-defence, implying Gandhi's non-violence became a tool of statism rather than li"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Joshi writes in the preface that after independence, domestically-run raj with licence-permit-quota system was created in Nehru's name (राजनीतीने माहेरला) reproducing colonial extraction in a new form"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "indira-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Indira Gandhi is referenced in the preface context of socialist licence raj and nationalisation as the culmination of Congress-era state expansion."
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Joshi argues that Nehru's economic framework was inherently hostile to farmers' demands for free-market pricing of agricultural produce, drawing a parallel with Stalin's anti-peasant policies."
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "indira-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Indira Gandhi is cited as having deepened the anti-farmer bias of Nehruvian economics, and her government's agricultural policies are characterised as continuing the exploitation of the peasantry."
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Gandhi is mentioned in the context of the shetkari movement's historical antecedents; Joshi notes that despite Gandhi's pro-peasant rhetoric, the Congress government's actual policies diverged sharply"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Marx's characterisation of agriculture as a 'primitive' sector incapable of generating capital is the primary ideological target of the opening essay's argument."
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "c-rajagopalachari",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Masani quotes Rajaji's Independence Day appeal — 'I smell the coming storm and rain' — to signal the urgency of building an alternative government."
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Masani asks how Pandit Nehru and his colleagues, who are adherents of democracy, can be responsible for policies that foster the growth of communism in India."
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Masani cites Karl Marx's observation that those who own property are free and those who do not are not free, turning it ironically against the Congress argument for abolishing property."
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "s-v-raju",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "S. V. Raju is listed as member 11 of the Drafting Group (Annexure A) and as President of the Ad-hoc National Executive (Annexure C)."
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "friedrich-hayek",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Amin alludes to the international consensus represented by Friedman and Bauer when situating Shenoy within the classical-liberal tradition that Hayek also exemplifies, though Hayek is not named explic"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "peter-bauer",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Amin cites P T Bauer's description of Shenoy as 'a hero and a saint' for resisting fads and remaining serene in the face of abuse."
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "jayaprakash-narayan",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Shenoy invokes J P Narayan as a hypothetical Gandhian prime minister to argue that even the most morally exemplary government could not correct the structural chaos without deep policy restructuring."
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "jayaprakash-narayan",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "JP Narayan, leader of the Sarvodaya movement, is quoted felicitating Sumati Morarjee, chairperson of Messrs Scindia Co., while observing that 'very few business houses have a sense of ethics.'"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "minoo-masani",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "M R Masani, Member of Parliament and then-president of the Swatantra Party, is quoted telling the 6th International Colloquium on Democracy and Development in 1968 that India needs 'a new set of men i"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "indira-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Varde dates the moral decline of India's political culture to the moment Mrs. Indira Gandhi decided that the Indian National Congress was a family affair, derailed Congress leadership in the states, a"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Varde recounts a story of Pandit Nehru telephoning the Speaker to seek a favour for a member, illustrating the debasement of parliamentary conventions."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "bhimrao-ambedkar",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Varde asks why Dr. Ambedkar, after considering how many constitutions of the world did not make any provision for controlling defections, did not include such a provision."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza cites Nehru as one of the founders whose constitutional values are in conformity with the values enshrined in the Constitution, contrasting him with today's rulers."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "sardar-patel",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza lists Patel among the founders whose values were aligned with the Constitution, contrasting them with present rulers."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "c-rajagopalachari",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza includes Rajaji among the founders whose constitutional values stand in contrast to those of today's rulers."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza invokes Gandhi as a model of a leader who looks at poverty rationally and not sentimentally — the kind of leader liberal democracy needs after independence."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "jayaprakash-narayan",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza names J.P. Narayan alongside Gandhi and M.N. Roy as exemplars of rational, non-sentimental engagement with poverty that liberal democracy requires."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "m-n-roy",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza cites M.N. Roy as a model of the kind of rational, poverty-focused liberal leadership that democracy needs to survive after independence."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "gopal-krishna-gokhale",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "D'Souza names Gokhale as a model liberal leader who looked at poverty rationally, contrasting him with the revolutionary but not democratically suitable freedom fighters."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Usha Mehta describes fighting under the unique leadership of Mahatma Gandhi and emphasises Gandhi's insistence on the convertibility of means and aims and non-violence."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "m-c-chagla",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Usha Mehta cites M. C. Chagla's encouraging statement made during the Emergency as evidence of the resilience of India's institutions."
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "bhimrao-ambedkar",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Jahagirdar notes that Dr. Ambedkar was opposed to rule by village panchayats, which he said would be cesspools of casteism, violence, and corruption, and that the entire Constitution of India original"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Jahagirdar compares Nehru and Nkrumah of Ghana, noting that within two years after independence a comparison was made and Nkrumah was said to bring greater glory to Ghana than Nehru to India, but Ghan"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "m-n-roy",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Parikh quotes M. N. Roy's definition of freedom as 'the continuous removal of impediments to the development of human beings' as the philosophical yardstick for measuring India's post-independence per"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Parikh notes she has the highest respect for Gandhi but he did not describe what Ram Rajya was in terms relevant to a modern world; his Gram Swaraj or self-sufficient village is not possible in the mo"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Gandhi is cited as a figure whose tradition stands against coercive moral policing and for individual freedom of conscience."
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Nehru is cited alongside Gandhi as part of the Indian liberal tradition that valued individual freedom of conscience over enforced conformism."
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "rabindranath-tagore",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Tagore is invoked as a thinker who celebrated individual freedom and stood against authoritarian cultural conformism."
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Mahatma Gandhi is invoked as the founding inspiration for the communal harmony tradition in Gujarat that Ismail Gandhi urges contemporary institutions to revive."
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "gopal-krishna-gokhale",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Page 2's liberal philosophy statement quotes Gokhale: \"I recognise no limits to my aspiration for my motherland. I want our people to be in their country what other people are in theirs...\""
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "nani-palkhivala",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The Preface notes that 'it required a genius like the late Mr. Nani Palkhivala to explain the implications of a Budget in terms that people could understand', and Chapter 1 repeats this formulation to"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "c-rajagopalachari",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Chapter 1 quotes Gopal Krishna Gokhale via the lens of the great Liberal tradition, and separately the frontispiece quotes C. Rajagopalachari: 'I want an India where Dharma once again rules the hearts"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "gopal-krishna-gokhale",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Chapter 1 invokes Gopal Krishna Gokhale's aspiration — 'I recognise no limits to my aspiration for my motherland. I want our people to be in their country what other people are in theirs' — as an expr"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "gopal-krishna-gokhale",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The introductory \"Liberal Position\" page quotes Gopal Krishna Gokhale's aspiration for India — \"I recognise no limits to my aspiration for my motherland\" — as the foundational expression of the libera"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "bhimrao-ambedkar",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Joshi lists Ambedkar alongside Periyar Ramaswami Naicker as leaders who organised oppressed castes and communities from backward classes, denied access to education and a decent livelihood."
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Joshi characterises Gandhi as a 'Proponent of Anarchism' whose village-economy programme was sincere but economically static and antithetical to liberal modernity."
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Joshi frames the post-independence state as the 'Nehruvian socialist brand of statism', arguing it gave power to a bureaucratic-rentier class hostile to individual freedom."
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "frederic-bastiat",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Listed among 19th-century great liberal theorists alongside Mill, Tocqueville, and Herbert Spencer."
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "raja-ram-mohan-roy",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Ram Mohan Roy is presented as the prime catalyst of the 1825–1833 social upheaval — founding the Brahmo Samaj, campaigning against suttee, publishing the Brahmanical Magazine, and lobbying for the Cha"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "ishwar-chandra-vidyasagar",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Utsavananda Vidyabagish is mentioned as the person designated to read from the Upanishad at the inaugural Brahmo Samaj sessions — this is a distinct individual from Ishwar Chandra Vidyasagar; see reco"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "minoo-masani",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The Preface notes the convention was dedicated to the memory of ILG's founding member Minoo Masani, on his birth centenary."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "b-r-shenoy",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "G. Giridhar Prabhu recalled in his welcome address that Prof. B. R. Shenoy, the doyen of pioneer of free market economics in India, was born in a village not far from Mangalore."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "minoo-masani",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Vittal opens by invoking Minoo Masani's definition of liberalism and calls him the leader who 'represented the spirit of liberalism in its purest form'."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "hla-hart",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Sathe draws on H. L. A. Hart's distinction between 'being obliged' and 'having an obligation' to distinguish accountability under fear from accountability as a genuine moral duty."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Sathe recounts constitutional controversies between President Rajendra Prasad and Prime Minister Jawaharlal Nehru over whether the President was bound to act on the advice of the Council of Ministers."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "indira-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Sathe notes that Mrs. Indira Gandhi forced Prime Minister Antulay to resign after sufficient public displeasure was expressed, even though he had legal clearance, as an example of healthy political pr"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "friedrich-hayek",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Karnik invokes Hayek's \"Fatal Conceit\" to describe the planning assumption that a single authority can somehow do better than the spontaneous, unstructured, complex, and creative forces of the market."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "jagdish-bhagwati",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Karnik states he has greater sympathy for Jagdish Bhagwati's \"In Defense of Globalisation\" than for the strident and wrong-headed criticism of Joseph Stiglitz in his \"Globalisation and its Discontents"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "joseph-stiglitz",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Stiglitz's \"Globalisation and its Discontents\" is cited as an example of wrong-headed criticism of globalisation, contrasted unfavourably with Bhagwati's defence."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "hernando-de-soto",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "De Soto's book \"The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else\" is cited to show that developed nations guarantee citizens' property rights in ways that developi"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "karl-polanyi",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Karnik challenges the widening consensus that \"unshackling the market will not let loose the horrors that Karl Polanyi so graphically and falsely painted in his popular book, The Great Transformation,"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "nani-palkhivala",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Prabhu quotes Palkhivala (rendered as 'Palkivala' in the source) on Indians who received a Constitution but not the ability to cherish it, using this as the essay's opening indictment of post-independ"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "s-p-sathe",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Von Welck opens by congratulating Dr. Sathe for his 'strong, convincing and informative presentation', noting that 'in parts it sounded like a satire, but it seems to be Indian reality.'"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "minoo-masani",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Raju invokes Masani's formulation that liberals have 'no quarrel with the socialist end of social justice but with the means used' to frame the liberal critique of the licence-permit-quota regime."
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "atal-bihari-vajpayee",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Raju notes that misuse of religion to brainwash soldiers 'reared its head during the regime of the NDA led by Mr. Vajpayee' after the Kargil conflict, when obscurantist organisations visited hospitals"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "narasimha-rao",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Raju credits the Congress Government led by Narasimha Rao with taking the first 'U-turn' in economic policy away from statism, with Manmohan Singh serving as Finance Minister."
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "indira-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "In essay 1, discussing the deepening of anti-farmer state policy after independence, Joshi notes that the era of Indira Gandhi's rule saw this extractive relationship intensify: 'राज्य में इन्दिरा का "
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "shivaji",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "In essay 1, Joshi calls for a new mass leadership for farmers: 'शिवाजी महाराज, फिर से जन्म लेना होगा' — invoking Shivaji as the archetypal popular hero who must be reborn to lead the farmers' struggle"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "maharana-pratap",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Essay 3 opens by invoking the historical clarity of freedom under Maharana Pratap's era as a contrast to the ambiguous, co-opted 'freedom' of post-1947 India: 'महाराणा प्रताप या शिवाजी के युग में आजाद"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "In essay 6, defending Shetkari Sanghatana against left-wing critics, Joshi notes that Marx himself has not yet received recognition from the Indian establishment for his analysis of exploitation: 'मार"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "napoleon-bonaparte",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "In essay 6, describing how Shetkari Sanghatana's influence has grown despite being ignored by the intellectual establishment, Joshi uses Napoleon's march on Paris as a metaphor for an unstoppable popu"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Rajaji refers to the Indian press leaving 'the Prime Minister of India in a dangerous state of loneliness, for unqualified adulation day in and day out' after Independence, identifying uncritical pres"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "bhimrao-ambedkar",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Joshi discusses how Ambedkar (बाबासाहेब आंबेडकर) later interpreted Phule's legacy in a direction that emphasised caste-annihilation over class-exploitation, and argues that Phule's own writings suppor"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Gandhi (महात्मा गांधी) is briefly mentioned in the context of 19th–20th century reform debates and the different strands of anti-caste thought that Phule influenced."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "forum-of-free-enterprise",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The editorial references voices aligned with the Forum of Free Enterprise as having warned about the dangers of monopoly capitalism and fiscal irresponsibility."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "b-r-shenoy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The article references Prof. Shenoy's dissenting note on the Plan as having been dismissed by planners despite its prescient fiscal warnings."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "jayaprakash-narayan",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Jayaprakash Narayan is described as widely respected and as a greater moral and intellectual force than V. K. Krishna Menon."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The Prime Minister's active campaign interventions in state elections are questioned as inappropriate uses of Prime Ministerial authority."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The 'Pundit' is an ironic reference to Jawaharlal Nehru, whose foreign-policy prestige the author gently deflates."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "A reader nominates Nehru as the most pathetic public figure in Indian politics."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "m-n-roy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The Radical Humanist journal, founded by M. N. Roy, is advertised on the facing page with the note that it publishes unpublished writings of M. N. Roy."
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "benjamin-tucker",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Benjamin Tucker is cited in the Libertarian Anthology's essay on monopolies as a classical source for the libertarian critique of state-granted privilege."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The editorial states that Nehru's policy of friendship with Pakistan has failed to produce any reciprocal goodwill."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Venkata Rao criticises Nehru's Avadi Congress resolution committing the party to a socialistic pattern of society as the moment the mixed-economy compromise hardened into policy."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The entire article is a critical portrait of Nehru's psychological instability and authoritarian tendencies."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The article criticises Nehru for continuing to pursue friendship with Pakistan despite Noon's hostile statements."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The whole article is a critique of Nehru's foreign-policy illusions, particularly regarding the Soviet bloc and China."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Vivek invokes Marx as the ideological source of the doctrines Nehru finds attractive, arguing they have failed everywhere they have been tried."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Valicha criticises Nehru for persisting with a Pakistan friendship policy despite mounting evidence of Pakistani hostility."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The article identifies progressive income tax as an idea derived from Marx's Communist Manifesto and argues it is therefore philosophically incompatible with liberal democracy."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Toddy-Tapper contrasts the original spiritual and political meaning of the Gandhi cap — a symbol of swadeshi simplicity — with its degeneration into mere political theatre."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Nehru is mentioned as the political patron whose protection allows figures like Pandit to enjoy unchecked privilege."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Marx's original vision of a stateless, classless communist society is contrasted with the hierarchical Soviet reality."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The editorial states that Nehru approached the Governor and Chief Minister and advised them regarding Nanavati's case, suggesting executive interference with judicial outcomes."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Venkata Rao argues that Nehru's policy has been based on the assumption that friendship with China could be maintained regardless of Chinese behaviour, an assumption now exposed as false by the border"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "c-rajagopalachari",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Tholal credits Rajagopalachari with having persistently warned against Congress's accumulation of state power and Nehru's foreign-policy illusions, noting he had been systematically ignored."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Tholal argues that Nehru, refusing to acknowledge the basic facts of Chinese aggression, uses accusations of anti-nationalism to silence critics who demand a more realist foreign policy."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "m-n-roy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The supplement notes that followers of M. N. Roy attended the seminar, which was held at the 'Current Politics' session in Bombay, indicating the Royist intellectual milieu of the gathering."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "S. K. G. Rajan is quoted as dismissing Marx as an economist but crediting him as a social thinker who exposed how capitalists misused their power."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "a-ranganathan",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Dr. Ranganathan participates in the Rationalist seminar discussion and expresses a view that Rationalists should support the Swatantra Party as most aligned with individual freedom."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The Delhi Letter argues that Nehru's personal magnetism and authority so dominates Indian political life that Swatantra cannot succeed simply by opposing him—it must present a competing vision."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "a-ranganathan",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "A. Ranganathan is cited in the context of the Calicut University debate on English-medium instruction, advocating for English as the language of higher education and scientific training in India."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Prime Minister Nehru is the central target of the editorial's critique — his speeches and his Government's policies are cited repeatedly as evidence of confusion between 'secular' and 'civil' state."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "karl-marx",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Marx's theory of revolution and economic equality is the main intellectual target Venkata Rao is arguing against throughout the essay."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "jayaprakash-narayan",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "The essay's central subject — his speeches at Rajasthan University and elsewhere on non-violence and China policy are analysed and critiqued throughout."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "mahatma-gandhi",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Gandhi's satyagraha is invoked as the philosophical source of Narayan's non-violence doctrine, which Tholal tests against the Chinese Communist case."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Nehru's foreign policy of non-alignment and Sino-Indian friendship is referenced as the political context within which Narayan's views operated."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Prime Minister Nehru's handling of the Kashmir issue under Western pressure is discussed and implicitly criticised."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Nehru quoted expressing concern about Hindi language conflicts and speaking on medium-of-instruction policy at a Congress workers' meeting."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "c-rajagopalachari",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Rajaji quoted advocating that India should take a leadership role in the Afro-Asian bloc rather than leaving it to others."
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "Nehru's perceived infallibility and refusal to take outside counsel is satirised in the second Dear Editor item."
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "At His Holiness's urging, Prime Minister Jawaharlal Nehru of India saw to the creation of an autonomous section under the Ministry of Education (now Ministry of Human Resources), known as the Central "
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "jawaharlal-nehru",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "At His Holiness's urging, Prime Minister Jawaharlal Nehru of India saw to the creation of an autonomous section under the Ministry of Education… known as the Central Tibetan Schools Administration."
+    }
+  ]
+}

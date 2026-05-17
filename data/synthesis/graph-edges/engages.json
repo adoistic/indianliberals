@@ -1,0 +1,3353 @@
+{
+  "edge_type": "engages",
+  "edges": [
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "centre-state-relations",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "constitutional-law",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "federalism",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "finance-commission",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "fiscal-federalism",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "public-finance",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "to": "tax-devolution",
+      "confidence": "high",
+      "evidence_works": [
+        "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "development-economics",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "economic-planning",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "inflation",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "monetary-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "private-enterprise",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "to": "public-sector",
+      "confidence": "high",
+      "evidence_works": [
+        "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "economic-liberty",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "economic-regulation",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "gold",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "gold-control",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "india-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "monetary-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "regulatory-state-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "sarafa",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "to": "smuggling",
+      "confidence": "high",
+      "evidence_works": [
+        "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "government-disinformation",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "industry-and-manufacturing",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "natural-resources",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "public-administration",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "public-sector-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "to": "state-and-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "corruption",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "ecology",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "economic-liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "industrial-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "management",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "national-integration",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "population-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "work-culture",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "capitalism-defence",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "capitalism-vs-socialism",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "economic-growth",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "education-and-enlightenment",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "population-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "poverty-and-inequality",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "public-sector",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "public-sector-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "socialism-debate",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "capitalism-and-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "economic-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "public-finance",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "public-sector-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "regulatory-state-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "rule-of-law",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "coffee-sector",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "economic-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "foreign-exchange",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "plantation-industry",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "regulation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "civil-liberty",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "free-enterprise",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "press-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "socialism-debate",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "to": "state-and-society",
+      "confidence": "high",
+      "evidence_works": [
+        "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "capital-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "economic-liberalisation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "foreign-investment",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "public-finance",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "trade-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "agricultural-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "development-economics",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "economic-planning",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "employment",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "five-year-plans",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "free-enterprise",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "free-trade",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "industry",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "inflation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "job-creation",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "public-sector",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "public-sector-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "to": "regulatory-state-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "agrarian-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "farmers-movements",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "movement-literature",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "rural-liberalism-marathi",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "aandolan-anant-umrikar",
+      "to": "shetkari-sanghatana",
+      "confidence": "high",
+      "evidence_works": [
+        "aandolan-anant-umrikar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "agrarian-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "autobiography",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "caste-and-agrarian-politics",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "literature-and-society",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "marathi-literary-culture",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "peasant-movements",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "shetkari-movement",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "agrarian-economics",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "farmers-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "gender-and-patriarchy",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "intellectual-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "liberalisation",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "press-and-media",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "state-and-society",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "farm-price-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "farmers-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "industrialisation-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "market-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "movement-pedagogy",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "rural-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "shetkari-movement",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "trade-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "child-marriage",
+      "confidence": "high",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "family-law",
+      "confidence": "high",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "marriage",
+      "confidence": "high",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "social-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "women",
+      "confidence": "high",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "women-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "anti-collectivisation",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "cold-war-positioning",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "democracy-and-governance",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "electoral-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "liberalism-vs-socialism",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "marxism-debate",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "party-politics",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "planning-and-development",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "political-parties",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "public-sector-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "socialism-debate",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "governance",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "individual-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "organisation-history",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "organisational-constitution",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "constitution-march-2000",
+      "to": "rule-of-law",
+      "confidence": "high",
+      "evidence_works": [
+        "constitution-march-2000"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "entrepreneurship",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "foreign-aid",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "indian-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "planning",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "public-sector",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "socialism-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "economic-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "education",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "federalism",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "governance",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "public-health",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "agricultural-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "demography",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "industrialisation",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "nationalism",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "natural-resources",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "popular-civic-education",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "communalism-secularism",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "economic-crisis-2008",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "elections-democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "hepatitis-public-health",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "social-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-april-2009",
+      "to": "urban-poverty",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-april-2009"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "education-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "forest-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "free-trade",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "property-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "public-life-and-ethics",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "religion-and-state",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "rule-of-law",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "social-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "tribal-welfare",
+      "confidence": "high",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "budget-analysis",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "economic-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "employment-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "liberalisation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "public-finance",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "public-sector-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "regulatory-state-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "union-budget-commentary",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "e-governance",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "economic-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "expenditure-management",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "governance",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "human-development",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "liberal-budget",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "poverty-alleviation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "privatisation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "public-finance",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "social-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "economic-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "fiscal-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "labour-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "poverty-alleviation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "public-finance",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "social-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "taxation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "constitutional-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "economic-liberalisation",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "rule-of-law",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "south-asia",
+      "confidence": "high",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "education-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "federalism",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "free-press",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "individual-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "liberalism-as-tradition",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "market-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "planning-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "political-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "regulatory-state-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "rule-of-law",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "secularism",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "separation-of-powers",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "manifesto-1985",
+      "to": "women-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "manifesto-1985"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "bengali-renaissance",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "brahmo-samaj",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "colonialism",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "education",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "history",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "individual-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "religion",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "social-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "to": "women-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "accountability",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "agriculture",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "civil-society",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "economic-liberalisation",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "governance",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "governance-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "indian-liberal-history",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "judicial-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "liberal-organisation-strategy",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "liberalism-as-tradition",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "party-politics",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "political-institutions",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "political-training",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "rule-of-law",
+      "confidence": "high",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "agrarian-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "agricultural-price-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "agriculture-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "anti-statism",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "colonial-continuity-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "farmers-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "india-bharat-divide",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "indian-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "liberalism-india",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "peasant-movements",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "rural-poverty",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "shetkari-sanghatana",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "anti-statism",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "civil-liberty",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "cold-war-positioning",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "democracy-and-governance",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "foreign-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "language-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "nationalism",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "nuclear-disarmament",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "press-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "agrarian-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "farmers-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "hinduism-and-liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "rural-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "social-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "sixth-national-convention-swatantra-souvenirs-1973",
+      "to": "classical-liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "sixth-national-convention-swatantra-souvenirs-1973"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "sixth-national-convention-swatantra-souvenirs-1973",
+      "to": "economic-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "sixth-national-convention-swatantra-souvenirs-1973"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "sixth-national-convention-swatantra-souvenirs-1973",
+      "to": "party-politics",
+      "confidence": "high",
+      "evidence_works": [
+        "sixth-national-convention-swatantra-souvenirs-1973"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "sixth-national-convention-swatantra-souvenirs-1973",
+      "to": "political-parties",
+      "confidence": "high",
+      "evidence_works": [
+        "sixth-national-convention-swatantra-souvenirs-1973"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "elections",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "foreign-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "liberal-democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "planning-vs-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "press-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "economic-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "foreign-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "libertarian-democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "nationalism",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "socialism-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "state-power",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "welfare-state-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "caste-reform",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "chinese-aggression",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "federalism",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "foreign-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "liberal-democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "rationalism",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "foreign-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "free-market",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "language-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "political-philosophy",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "civil-liberties",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "human-rights",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "international-affairs",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "refugees",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "religious-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "self-determination",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "tibetans-in-exile",
+      "to": "tibetan-exile-politics",
+      "confidence": "high",
+      "evidence_works": [
+        "tibetans-in-exile"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "democracy",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "economic-freedom",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "education-as-ideology-critique",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "free-markets",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "liberalism",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "political-economy",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "public-policy",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "state-and-society",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    },
+    {
+      "from": "udarwad-raj-samaj-aur-bazaar",
+      "to": "urbanisation",
+      "confidence": "high",
+      "evidence_works": [
+        "udarwad-raj-samaj-aur-bazaar"
+      ],
+      "source": "ai_synthesis_v1"
+    }
+  ]
+}

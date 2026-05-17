@@ -1,0 +1,346 @@
+{
+  "edge_type": "cites",
+  "edges": [
+    {
+      "from": "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "to": "russi-mody",
+      "confidence": "high",
+      "evidence_works": [
+        "What-Ails-India-By-Russi-Mody-January-15-1990"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "a-drastic-budget-n-a-palkhivala-1959",
+      "to": "nani-palkhivala",
+      "confidence": "high",
+      "evidence_works": [
+        "a-drastic-budget-n-a-palkhivala-1959"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "to": "ma-sreenivasan",
+      "confidence": "high",
+      "evidence_works": [
+        "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "a-historic-budget-by-hp-ranina-april-13-1994",
+      "to": "hp-ranina",
+      "confidence": "high",
+      "evidence_works": [
+        "a-historic-budget-by-hp-ranina-april-13-1994"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "angarmala-sharad-joshi",
+      "to": "sharad-joshi",
+      "confidence": "high",
+      "evidence_works": [
+        "angarmala-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "anvyartha-1-sharad-joshi",
+      "to": "sharad-joshi",
+      "confidence": "high",
+      "evidence_works": [
+        "anvyartha-1-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "baliche-rajey-yenar-aahe-sharad-joshi",
+      "to": "sharad-joshi",
+      "confidence": "high",
+      "evidence_works": [
+        "baliche-rajey-yenar-aahe-sharad-joshi"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "to": "ishwar-chandra-vidyasagar",
+      "confidence": "medium",
+      "evidence_works": [
+        "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "congress-misrule-and-the-swatantra-alternative",
+      "to": "c-rajagopalachari",
+      "confidence": "medium",
+      "evidence_works": [
+        "congress-misrule-and-the-swatantra-alternative"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "foreword"
+    },
+    {
+      "from": "economic-prophecies",
+      "to": "b-r-shenoy",
+      "confidence": "high",
+      "evidence_works": [
+        "economic-prophecies"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "s-v-raju",
+      "confidence": "high",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "editor"
+    },
+    {
+      "from": "fifty-years-after",
+      "to": "jiban-mukhopadhyay",
+      "confidence": "medium",
+      "evidence_works": [
+        "fifty-years-after"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "hamara-hindustan",
+      "to": "minoo-masani",
+      "confidence": "high",
+      "evidence_works": [
+        "hamara-hindustan"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "khoj-january-february-2007",
+      "to": "sauvik-chakraverti",
+      "confidence": "medium",
+      "evidence_works": [
+        "khoj-january-february-2007"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "liberal-budget-2006-07",
+      "to": "s-v-raju",
+      "confidence": "medium",
+      "evidence_works": [
+        "liberal-budget-2006-07"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "other"
+    },
+    {
+      "from": "liberal-budget-building-equitable-society",
+      "to": "s-v-raju",
+      "confidence": "medium",
+      "evidence_works": [
+        "liberal-budget-building-equitable-society"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "introduction"
+    },
+    {
+      "from": "liberal-budget-reforms-for-poor",
+      "to": "s-v-raju",
+      "confidence": "medium",
+      "evidence_works": [
+        "liberal-budget-reforms-for-poor"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "other"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "sharad-joshi",
+      "confidence": "medium",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "liberalism-in-south-asia",
+      "to": "s-v-raju",
+      "confidence": "medium",
+      "evidence_works": [
+        "liberalism-in-south-asia"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "n-vittal",
+      "confidence": "medium",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "s-p-sathe",
+      "confidence": "medium",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "s-v-raju",
+      "confidence": "medium",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "ajit-karnik",
+      "confidence": "medium",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "r-m-mohan-rao",
+      "confidence": "medium",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "to": "g-giridhar-prabhu",
+      "confidence": "medium",
+      "evidence_works": [
+        "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "samasyayen-bharat-ki",
+      "to": "sharad-joshi",
+      "confidence": "high",
+      "evidence_works": [
+        "samasyayen-bharat-ki"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "to": "c-rajagopalachari",
+      "confidence": "high",
+      "evidence_works": [
+        "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "shetkari-sanghatak-april-21-1992",
+      "to": "sharad-joshi",
+      "confidence": "medium",
+      "evidence_works": [
+        "shetkari-sanghatak-april-21-1992"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "kusum-lotwala",
+      "confidence": "high",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "editor"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "ma-venkata-rao",
+      "confidence": "medium",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "the-indian-libertaraian-apr1-1957",
+      "to": "salvador-de-madariaga",
+      "confidence": "medium",
+      "evidence_works": [
+        "the-indian-libertaraian-apr1-1957"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1958",
+      "to": "ma-venkata-rao",
+      "confidence": "medium",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1958"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1960",
+      "to": "ma-venkata-rao",
+      "confidence": "medium",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1960"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    },
+    {
+      "from": "the-indian-libertarian-apr1-1963",
+      "to": "ma-venkata-rao",
+      "confidence": "medium",
+      "evidence_works": [
+        "the-indian-libertarian-apr1-1963"
+      ],
+      "source": "ai_synthesis_v1",
+      "context": "author"
+    }
+  ],
+  "_note": "Author/editor/contributor edges. Pending schema extension for author_of/editor_of/contributor_of edge types; using cites with context=<role> as interim."
+}

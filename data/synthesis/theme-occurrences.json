@@ -1,0 +1,784 @@
+{
+  "_meta": {
+    "works_indexed": 40,
+    "themes_with_occurrences": 202
+  },
+  "occurrences": {
+    "economic-policy": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "baliche-rajey-yenar-aahe-sharad-joshi",
+      "congress-misrule-and-the-swatantra-alternative",
+      "economic-prophecies",
+      "khoj-january-april-2009",
+      "manifesto-1985",
+      "the-indian-libertaraian-apr1-1957",
+      "the-indian-libertarian-apr1-1958"
+    ],
+    "free-markets": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "aandolan-anant-umrikar",
+      "anvyartha-1-sharad-joshi",
+      "economic-prophecies",
+      "samasyayen-bharat-ki",
+      "the-indian-libertarian-apr1-1958",
+      "the-indian-libertarian-apr1-1960",
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "civil-liberties": [
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "constitution-march-2000",
+      "khoj-january-february-2007",
+      "manifesto-1985",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "the-indian-libertarian-apr1-1958",
+      "the-indian-libertarian-apr1-1960",
+      "the-indian-libertarian-apr1-1963",
+      "tibetans-in-exile"
+    ],
+    "democracy": [
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "anvyartha-1-sharad-joshi",
+      "fifty-years-after",
+      "manifesto-1985",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "the-indian-libertarian-apr1-1958",
+      "the-indian-libertarian-apr1-1963",
+      "tibetans-in-exile",
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "agriculture": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "baliche-rajey-yenar-aahe-sharad-joshi",
+      "congress-misrule-and-the-swatantra-alternative",
+      "economic-prophecies",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "fiscal-policy": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-historic-budget-by-hp-ranina-april-13-1994",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "liberal-budget-2006-07",
+      "liberal-budget-building-equitable-society",
+      "liberal-budget-reforms-for-poor"
+    ],
+    "taxation": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "a-historic-budget-by-hp-ranina-april-13-1994",
+      "congress-misrule-and-the-swatantra-alternative",
+      "liberal-budget-2006-07",
+      "liberal-budget-building-equitable-society",
+      "liberal-budget-reforms-for-poor"
+    ],
+    "civil-society": [
+      "aandolan-anant-umrikar",
+      "angarmala-sharad-joshi",
+      "anvyartha-1-sharad-joshi",
+      "fifty-years-after",
+      "khoj-january-april-2009",
+      "liberalism-in-south-asia",
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "political-economy": [
+      "aandolan-anant-umrikar",
+      "anvyartha-1-sharad-joshi",
+      "baliche-rajey-yenar-aahe-sharad-joshi",
+      "fifty-years-after",
+      "hamara-hindustan",
+      "samasyayen-bharat-ki",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "planning-critique": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "congress-misrule-and-the-swatantra-alternative",
+      "liberal-budget-2006-07",
+      "liberal-budget-reforms-for-poor",
+      "manifesto-1985"
+    ],
+    "public-finance": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-historic-budget-by-hp-ranina-april-13-1994",
+      "liberal-budget-2006-07",
+      "liberal-budget-building-equitable-society",
+      "liberal-budget-reforms-for-poor"
+    ],
+    "public-sector-critique": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "congress-misrule-and-the-swatantra-alternative",
+      "liberal-budget-2006-07"
+    ],
+    "rule-of-law": [
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "constitution-march-2000",
+      "khoj-january-february-2007",
+      "liberalism-in-south-asia",
+      "manifesto-1985",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "liberalism": [
+      "constitution-march-2000",
+      "liberal-budget-building-equitable-society",
+      "liberalism-in-south-asia",
+      "manifesto-1985",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "regulatory-state-critique": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965",
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "liberal-budget-2006-07",
+      "manifesto-1985"
+    ],
+    "social-reform": [
+      "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "khoj-january-april-2009",
+      "khoj-january-february-2007",
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri",
+      "shetkari-sanghatak-april-21-1992"
+    ],
+    "foreign-policy": [
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "the-indian-libertaraian-apr1-1957",
+      "the-indian-libertarian-apr1-1958",
+      "the-indian-libertarian-apr1-1960",
+      "the-indian-libertarian-apr1-1963"
+    ],
+    "federalism": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava",
+      "fifty-years-after",
+      "manifesto-1985",
+      "the-indian-libertarian-apr1-1960"
+    ],
+    "public-sector": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "economic-prophecies"
+    ],
+    "economic-freedom": [
+      "a-drastic-budget-n-a-palkhivala-1959",
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964",
+      "sixth-national-convention-swatantra-souvenirs-1973",
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "farmers-rights": [
+      "anvyartha-1-sharad-joshi",
+      "baliche-rajey-yenar-aahe-sharad-joshi",
+      "samasyayen-bharat-ki",
+      "shetkari-sanghatak-april-21-1992"
+    ],
+    "governance": [
+      "constitution-march-2000",
+      "fifty-years-after",
+      "liberal-budget-building-equitable-society",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "economic-reform": [
+      "fifty-years-after",
+      "liberal-budget-2006-07",
+      "liberal-budget-building-equitable-society",
+      "liberal-budget-reforms-for-poor"
+    ],
+    "socialism-debate": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980",
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "congress-misrule-and-the-swatantra-alternative"
+    ],
+    "press-freedom": [
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "the-indian-libertaraian-apr1-1957"
+    ],
+    "state-and-society": [
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "anvyartha-1-sharad-joshi",
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "economic-liberalisation": [
+      "a-historic-budget-by-hp-ranina-april-13-1994",
+      "liberalism-in-south-asia",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "women-rights": [
+      "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar",
+      "manifesto-1985",
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "party-politics": [
+      "congress-misrule-and-the-swatantra-alternative",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+      "sixth-national-convention-swatantra-souvenirs-1973"
+    ],
+    "individual-rights": [
+      "constitution-march-2000",
+      "manifesto-1985",
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "nationalism": [
+      "hamara-hindustan",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "the-indian-libertarian-apr1-1958"
+    ],
+    "development-economics": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "economic-planning": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "inflation": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "monetary-policy": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966",
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "natural-resources": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960",
+      "hamara-hindustan"
+    ],
+    "population-policy": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990",
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+    ],
+    "civil-liberty": [
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+    ],
+    "free-enterprise": [
+      "a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960",
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "trade-policy": [
+      "a-historic-budget-by-hp-ranina-april-13-1994",
+      "baliche-rajey-yenar-aahe-sharad-joshi"
+    ],
+    "agricultural-reform": [
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "hamara-hindustan"
+    ],
+    "free-trade": [
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+      "khoj-january-february-2007"
+    ],
+    "agrarian-policy": [
+      "aandolan-anant-umrikar",
+      "shetkari-sanghatak-april-21-1992"
+    ],
+    "shetkari-sanghatana": [
+      "aandolan-anant-umrikar",
+      "samasyayen-bharat-ki"
+    ],
+    "peasant-movements": [
+      "angarmala-sharad-joshi",
+      "samasyayen-bharat-ki"
+    ],
+    "shetkari-movement": [
+      "angarmala-sharad-joshi",
+      "baliche-rajey-yenar-aahe-sharad-joshi"
+    ],
+    "liberalisation": [
+      "anvyartha-1-sharad-joshi",
+      "liberal-budget-2006-07"
+    ],
+    "rural-economy": [
+      "baliche-rajey-yenar-aahe-sharad-joshi",
+      "shetkari-sanghatak-april-21-1992"
+    ],
+    "cold-war-positioning": [
+      "congress-misrule-and-the-swatantra-alternative",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+    ],
+    "democracy-and-governance": [
+      "congress-misrule-and-the-swatantra-alternative",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+    ],
+    "political-parties": [
+      "congress-misrule-and-the-swatantra-alternative",
+      "sixth-national-convention-swatantra-souvenirs-1973"
+    ],
+    "indian-economy": [
+      "economic-prophecies",
+      "samasyayen-bharat-ki"
+    ],
+    "socialism-critique": [
+      "economic-prophecies",
+      "the-indian-libertarian-apr1-1958"
+    ],
+    "education": [
+      "fifty-years-after",
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "education-policy": [
+      "khoj-january-february-2007",
+      "manifesto-1985"
+    ],
+    "poverty-alleviation": [
+      "liberal-budget-building-equitable-society",
+      "liberal-budget-reforms-for-poor"
+    ],
+    "social-policy": [
+      "liberal-budget-building-equitable-society",
+      "liberal-budget-reforms-for-poor"
+    ],
+    "liberalism-as-tradition": [
+      "manifesto-1985",
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "anti-statism": [
+      "samasyayen-bharat-ki",
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+    ],
+    "language-policy": [
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya",
+      "the-indian-libertarian-apr1-1963"
+    ],
+    "liberal-democracy": [
+      "the-indian-libertaraian-apr1-1957",
+      "the-indian-libertarian-apr1-1960"
+    ],
+    "centre-state-relations": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+    ],
+    "constitutional-law": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+    ],
+    "finance-commission": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+    ],
+    "fiscal-federalism": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+    ],
+    "tax-devolution": [
+      "15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava"
+    ],
+    "private-enterprise": [
+      "Indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966"
+    ],
+    "economic-liberty": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "economic-regulation": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "gold": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "gold-control": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "india-economy": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "sarafa": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "smuggling": [
+      "Rethinking-on-gold-control-by BS-Mahajan-Setember-11-1965"
+    ],
+    "government-disinformation": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+    ],
+    "industry-and-manufacturing": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+    ],
+    "public-administration": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+    ],
+    "state-and-economy": [
+      "Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960"
+    ],
+    "corruption": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "ecology": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "economic-liberalism": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "industrial-policy": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "management": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "national-integration": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "work-culture": [
+      "What-Ails-India-By-Russi-Mody-January-15-1990"
+    ],
+    "capitalism-defence": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+    ],
+    "capitalism-vs-socialism": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+    ],
+    "economic-growth": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+    ],
+    "education-and-enlightenment": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+    ],
+    "poverty-and-inequality": [
+      "a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980"
+    ],
+    "capitalism-and-markets": [
+      "a-drastic-budget-n-a-palkhivala-1959"
+    ],
+    "coffee-sector": [
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+    ],
+    "foreign-exchange": [
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+    ],
+    "plantation-industry": [
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+    ],
+    "regulation": [
+      "a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964"
+    ],
+    "capital-markets": [
+      "a-historic-budget-by-hp-ranina-april-13-1994"
+    ],
+    "foreign-investment": [
+      "a-historic-budget-by-hp-ranina-april-13-1994"
+    ],
+    "employment": [
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "five-year-plans": [
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "industry": [
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "job-creation": [
+      "a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"
+    ],
+    "farmers-movements": [
+      "aandolan-anant-umrikar"
+    ],
+    "movement-literature": [
+      "aandolan-anant-umrikar"
+    ],
+    "rural-liberalism-marathi": [
+      "aandolan-anant-umrikar"
+    ],
+    "agrarian-reform": [
+      "angarmala-sharad-joshi"
+    ],
+    "autobiography": [
+      "angarmala-sharad-joshi"
+    ],
+    "caste-and-agrarian-politics": [
+      "angarmala-sharad-joshi"
+    ],
+    "literature-and-society": [
+      "angarmala-sharad-joshi"
+    ],
+    "marathi-literary-culture": [
+      "angarmala-sharad-joshi"
+    ],
+    "agrarian-economics": [
+      "anvyartha-1-sharad-joshi"
+    ],
+    "gender-and-patriarchy": [
+      "anvyartha-1-sharad-joshi"
+    ],
+    "intellectual-freedom": [
+      "anvyartha-1-sharad-joshi"
+    ],
+    "press-and-media": [
+      "anvyartha-1-sharad-joshi"
+    ],
+    "farm-price-policy": [
+      "baliche-rajey-yenar-aahe-sharad-joshi"
+    ],
+    "industrialisation-critique": [
+      "baliche-rajey-yenar-aahe-sharad-joshi"
+    ],
+    "market-reform": [
+      "baliche-rajey-yenar-aahe-sharad-joshi"
+    ],
+    "movement-pedagogy": [
+      "baliche-rajey-yenar-aahe-sharad-joshi"
+    ],
+    "child-marriage": [
+      "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+    ],
+    "family-law": [
+      "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+    ],
+    "marriage": [
+      "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+    ],
+    "women": [
+      "balyo-bibaher-dosh-Ishwar-chandra-vidyasagar"
+    ],
+    "anti-collectivisation": [
+      "congress-misrule-and-the-swatantra-alternative"
+    ],
+    "electoral-reform": [
+      "congress-misrule-and-the-swatantra-alternative"
+    ],
+    "liberalism-vs-socialism": [
+      "congress-misrule-and-the-swatantra-alternative"
+    ],
+    "marxism-debate": [
+      "congress-misrule-and-the-swatantra-alternative"
+    ],
+    "planning-and-development": [
+      "congress-misrule-and-the-swatantra-alternative"
+    ],
+    "organisation-history": [
+      "constitution-march-2000"
+    ],
+    "organisational-constitution": [
+      "constitution-march-2000"
+    ],
+    "entrepreneurship": [
+      "economic-prophecies"
+    ],
+    "foreign-aid": [
+      "economic-prophecies"
+    ],
+    "planning": [
+      "economic-prophecies"
+    ],
+    "public-health": [
+      "fifty-years-after"
+    ],
+    "demography": [
+      "hamara-hindustan"
+    ],
+    "industrialisation": [
+      "hamara-hindustan"
+    ],
+    "popular-civic-education": [
+      "hamara-hindustan"
+    ],
+    "communalism-secularism": [
+      "khoj-january-april-2009"
+    ],
+    "economic-crisis-2008": [
+      "khoj-january-april-2009"
+    ],
+    "elections-democracy": [
+      "khoj-january-april-2009"
+    ],
+    "hepatitis-public-health": [
+      "khoj-january-april-2009"
+    ],
+    "urban-poverty": [
+      "khoj-january-april-2009"
+    ],
+    "forest-rights": [
+      "khoj-january-february-2007"
+    ],
+    "property-rights": [
+      "khoj-january-february-2007"
+    ],
+    "public-life-and-ethics": [
+      "khoj-january-february-2007"
+    ],
+    "religion-and-state": [
+      "khoj-january-february-2007"
+    ],
+    "tribal-welfare": [
+      "khoj-january-february-2007"
+    ],
+    "budget-analysis": [
+      "liberal-budget-2006-07"
+    ],
+    "employment-policy": [
+      "liberal-budget-2006-07"
+    ],
+    "union-budget-commentary": [
+      "liberal-budget-2006-07"
+    ],
+    "e-governance": [
+      "liberal-budget-building-equitable-society"
+    ],
+    "expenditure-management": [
+      "liberal-budget-building-equitable-society"
+    ],
+    "human-development": [
+      "liberal-budget-building-equitable-society"
+    ],
+    "liberal-budget": [
+      "liberal-budget-building-equitable-society"
+    ],
+    "privatisation": [
+      "liberal-budget-building-equitable-society"
+    ],
+    "labour-reform": [
+      "liberal-budget-reforms-for-poor"
+    ],
+    "constitutional-reform": [
+      "liberalism-in-south-asia"
+    ],
+    "south-asia": [
+      "liberalism-in-south-asia"
+    ],
+    "free-press": [
+      "manifesto-1985"
+    ],
+    "market-economy": [
+      "manifesto-1985"
+    ],
+    "political-reform": [
+      "manifesto-1985"
+    ],
+    "secularism": [
+      "manifesto-1985"
+    ],
+    "separation-of-powers": [
+      "manifesto-1985"
+    ],
+    "bengali-renaissance": [
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "brahmo-samaj": [
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "colonialism": [
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "history": [
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "religion": [
+      "ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri"
+    ],
+    "accountability": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "governance-reform": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "indian-liberal-history": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "judicial-reform": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "liberal-organisation-strategy": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "political-institutions": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "political-training": [
+      "report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"
+    ],
+    "agrarian-economy": [
+      "samasyayen-bharat-ki"
+    ],
+    "agricultural-price-policy": [
+      "samasyayen-bharat-ki"
+    ],
+    "agriculture-policy": [
+      "samasyayen-bharat-ki"
+    ],
+    "colonial-continuity-critique": [
+      "samasyayen-bharat-ki"
+    ],
+    "india-bharat-divide": [
+      "samasyayen-bharat-ki"
+    ],
+    "liberalism-india": [
+      "samasyayen-bharat-ki"
+    ],
+    "rural-poverty": [
+      "samasyayen-bharat-ki"
+    ],
+    "nuclear-disarmament": [
+      "satyamev-jayate-volume-1-collection-of-writings-from-swarajya"
+    ],
+    "hinduism-and-liberalism": [
+      "shetkari-sanghatak-april-21-1992"
+    ],
+    "classical-liberalism": [
+      "sixth-national-convention-swatantra-souvenirs-1973"
+    ],
+    "elections": [
+      "the-indian-libertaraian-apr1-1957"
+    ],
+    "planning-vs-markets": [
+      "the-indian-libertaraian-apr1-1957"
+    ],
+    "libertarian-democracy": [
+      "the-indian-libertarian-apr1-1958"
+    ],
+    "state-power": [
+      "the-indian-libertarian-apr1-1958"
+    ],
+    "welfare-state-critique": [
+      "the-indian-libertarian-apr1-1958"
+    ],
+    "caste-reform": [
+      "the-indian-libertarian-apr1-1960"
+    ],
+    "chinese-aggression": [
+      "the-indian-libertarian-apr1-1960"
+    ],
+    "rationalism": [
+      "the-indian-libertarian-apr1-1960"
+    ],
+    "free-market": [
+      "the-indian-libertarian-apr1-1963"
+    ],
+    "political-philosophy": [
+      "the-indian-libertarian-apr1-1963"
+    ],
+    "human-rights": [
+      "tibetans-in-exile"
+    ],
+    "international-affairs": [
+      "tibetans-in-exile"
+    ],
+    "refugees": [
+      "tibetans-in-exile"
+    ],
+    "religious-freedom": [
+      "tibetans-in-exile"
+    ],
+    "self-determination": [
+      "tibetans-in-exile"
+    ],
+    "tibetan-exile-politics": [
+      "tibetans-in-exile"
+    ],
+    "education-as-ideology-critique": [
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "public-policy": [
+      "udarwad-raj-samaj-aur-bazaar"
+    ],
+    "urbanisation": [
+      "udarwad-raj-samaj-aur-bazaar"
+    ]
+  }
+}
