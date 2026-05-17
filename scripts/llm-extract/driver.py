@@ -253,6 +253,27 @@ def cmd_prep(args) -> None:
                 metadata_json = p.read_text(encoding="utf-8")
                 break
 
+    # Continuation-loop summary args (essay_focused mode)
+    mode_str = getattr(args, "mode", None) or "default"
+    toc_index_str = ""
+    if mode_str == "essay_focused":
+        ti = getattr(args, "toc_index", None)
+        if ti is None:
+            print("ERROR: --mode essay_focused requires --toc-index", file=sys.stderr)
+            sys.exit(2)
+        toc_index_str = f"TOC_INDEX: {ti}"
+    prev_subchunk_str = ""
+    prev_sc_path = getattr(args, "prev_subchunk_context", None)
+    if prev_sc_path:
+        p = Path(prev_sc_path)
+        if not p.exists():
+            print(f"ERROR: --prev-subchunk-context file not found: {p}", file=sys.stderr)
+            sys.exit(2)
+        prev_subchunk_str = (
+            "PREV_SUBCHUNK_CONTEXT (preceding sub-chunk summary — informational background only):\n\n"
+            "```json\n" + p.read_text(encoding="utf-8").strip() + "\n```\n"
+        )
+
     user_text = _substitute(
         user_template,
         PDF_NAME=pdf_path.name,
@@ -264,6 +285,9 @@ def cmd_prep(args) -> None:
         WORK_TYPE_TAXONOMY=WORK_TYPE_TAXONOMY,
         THEME_VOCABULARY=THEME_VOCABULARY,
         METADATA_JSON=metadata_json,
+        MODE=mode_str,
+        TOC_INDEX=toc_index_str,
+        PREV_SUBCHUNK_CONTEXT=prev_subchunk_str,
     )
 
     # Package via dispatcher
@@ -367,15 +391,18 @@ def cmd_collect(args) -> None:
 
 def _same_toc_set(entries_a: list, entries_b: list) -> bool:
     """
-    D13 / loop guard — check set equality on toc_index across two lists
-    of TOC entry dicts. Used by the no-progress guard.
+    D13 / loop guard — check set equality on toc_index across two lists.
+    Entries can be dicts with .toc_index or bare integer toc_indices.
+    Used by the no-progress guard.
     """
     def _idx_set(entries):
-        return {
-            e.get("toc_index")
-            for e in entries
-            if isinstance(e, dict) and e.get("toc_index") is not None
-        }
+        s = set()
+        for e in entries:
+            if isinstance(e, int):
+                s.add(e)
+            elif isinstance(e, dict) and e.get("toc_index") is not None:
+                s.add(e.get("toc_index"))
+        return s
     return _idx_set(entries_a) == _idx_set(entries_b)
 
 
@@ -434,22 +461,66 @@ def _merge_essay_into_record(record: dict, essay_summary: dict, toc_index: int) 
     Append-only merge of one essay_summary into record.essays_summarized[].
     If a prior entry for the same toc_index exists (partial from chunk 0),
     it is REPLACED by the new entry (the "later wins on same toc_index" rule).
+
+    `essay_summary` can be either:
+      - the full envelope from an essay_focused dispatch:
+        {"toc_index": N, "essays_summarized": [{...real essay...}], "recommended_authority_additions": [...]}
+      - or a bare essay record:
+        {"toc_index": N, "key_points": [...], ...}
+    The envelope shape is unwrapped to the single essay record before merging.
+    Top-level recommended_authority_additions from the envelope are also folded
+    into record.recommended_authority_additions (deduped by name).
     """
+    # Unwrap envelope shape if present
+    envelope_recs: list = []
+    inner = essay_summary
+    if (
+        isinstance(essay_summary, dict)
+        and isinstance(essay_summary.get("essays_summarized"), list)
+        and essay_summary["essays_summarized"]
+    ):
+        envelope_recs = list(essay_summary.get("recommended_authority_additions") or [])
+        inner = essay_summary["essays_summarized"][0]
+        if not isinstance(inner, dict):
+            inner = {}
+    inner = dict(inner)  # don't mutate caller
+    inner["toc_index"] = toc_index
+
     essays = record.setdefault("essays_summarized", [])
     # Remove any existing entry for this toc_index
-    record["essays_summarized"] = [e for e in essays if e.get("toc_index") != toc_index]
-    # Ensure toc_index is set in the essay summary
-    essay_summary = dict(essay_summary)
-    essay_summary["toc_index"] = toc_index
-    record["essays_summarized"].append(essay_summary)
-
-    # Mark this entry as no longer pending in toc.entries_not_yet_rendered
-    toc = record.setdefault("toc", {})
-    not_yet = toc.get("entries_not_yet_rendered") or []
-    toc["entries_not_yet_rendered"] = [
-        e for e in not_yet
+    record["essays_summarized"] = [
+        e for e in essays
         if not (isinstance(e, dict) and e.get("toc_index") == toc_index)
     ]
+    record["essays_summarized"].append(inner)
+
+    # Fold envelope-level recommended_authority_additions into the record.
+    # Dedup key: the canonical schema field is `verbatim` (the byline as it
+    # appears in the source); some chunks may also emit `name` as a synonym.
+    if envelope_recs:
+        existing = record.setdefault("recommended_authority_additions", [])
+        def _rec_key(r: dict) -> str:
+            return (r.get("verbatim") or r.get("name") or "").strip().lower()
+        existing_keys = {_rec_key(r) for r in existing if isinstance(r, dict)}
+        for rec in envelope_recs:
+            if not isinstance(rec, dict):
+                continue
+            key = _rec_key(rec)
+            if key and key not in existing_keys:
+                existing.append(rec)
+                existing_keys.add(key)
+
+    # Mark this entry as no longer pending in toc.entries_not_yet_rendered.
+    # The list can hold either dicts (with .toc_index) or bare integer toc_indices.
+    toc = record.setdefault("toc", {})
+    not_yet = toc.get("entries_not_yet_rendered") or []
+    def _is_match(e, ti):
+        if isinstance(e, int):
+            return e == ti
+        if isinstance(e, dict):
+            return e.get("toc_index") == ti
+        return False
+    toc["entries_not_yet_rendered"] = [e for e in not_yet if not _is_match(e, toc_index)]
     return record
 
 
@@ -765,6 +836,13 @@ def main() -> None:
     p_prep.add_argument("--chunk-idx", type=int, default=0)
     p_prep.add_argument("--self-consistency-run", default=None,
                         choices=["a", "b", "tiebreak", "none", None])
+    p_prep.add_argument("--mode", default="default",
+                        choices=["default", "essay_focused"],
+                        help="Summary prompt MODE flag (default | essay_focused for continuation chunks)")
+    p_prep.add_argument("--toc-index", type=int, default=None,
+                        help="TOC entry index this chunk corresponds to (required for --mode essay_focused)")
+    p_prep.add_argument("--prev-subchunk-context", default=None,
+                        help="Path to a JSON file containing the preceding sub-chunk summary (sub-chunked essays)")
     p_prep.set_defaults(func=cmd_prep)
 
     p_collect = sub.add_parser("collect", help="Save an Agent response and ledger it")
