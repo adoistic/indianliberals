@@ -32,8 +32,10 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import subprocess
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -48,6 +50,123 @@ PROGRESS_TSV = Path("/tmp/v1.5-overnight-progress.tsv")
 # `claude -p` config
 CLAUDE_TIMEOUT_S = 600  # 10 min per LLM call (generous; most should finish in 1-2 min)
 CLAUDE_ALLOWED_TOOLS = "Read,Write"
+
+# Rate-limit detection patterns. Match anywhere in stderr/stdout (case-insensitive).
+RATE_LIMIT_PATTERNS = re.compile(
+    r"(rate.?limit|usage.?limit|quota.?exceeded|too.?many.?requests"
+    r"|5-?hour|weekly.?limit|limit.?reached|429|please.?try.?again|"
+    r"capacity|throttle|out.?of.?extra.?usage)",
+    re.I,
+)
+
+# Anthropic's CLI error format: "resets 4:10am (Asia/Calcutta)" or "resets 04:10 (UTC)".
+# We capture HH(:MM)? and an optional am/pm and an optional timezone name in parens.
+RESET_TIME_PATTERN = re.compile(
+    r"resets?\s+(\d{1,2})(?::(\d{2}))?\s*(am|pm)?\s*(?:\(([^)]+)\))?",
+    re.I,
+)
+
+
+def parse_reset_seconds(text: str) -> float | None:
+    """Parse 'resets 4:10am (Asia/Calcutta)' style strings from claude CLI errors.
+    Returns seconds-until-reset (with a 30s safety buffer), or None if not parseable.
+    """
+    m = RESET_TIME_PATTERN.search(text or "")
+    if not m:
+        return None
+    hour = int(m.group(1))
+    minute = int(m.group(2)) if m.group(2) else 0
+    ampm = (m.group(3) or "").lower()
+    tzname = m.group(4) or "Asia/Calcutta"  # default to IST since that's our user's TZ
+    if ampm == "pm" and hour < 12:
+        hour += 12
+    if ampm == "am" and hour == 12:
+        hour = 0
+    try:
+        import zoneinfo  # py3.9+
+        tz = zoneinfo.ZoneInfo(tzname)
+    except Exception:
+        # Fallback: assume IST
+        try:
+            tz = zoneinfo.ZoneInfo("Asia/Calcutta")
+        except Exception:
+            return None
+    now = time.time()
+    from datetime import datetime, timedelta
+    now_dt = datetime.fromtimestamp(now, tz=tz)
+    target = now_dt.replace(hour=hour, minute=minute, second=0, microsecond=0)
+    if target <= now_dt:
+        target += timedelta(days=1)  # reset is tomorrow at HH:MM
+    secs = (target.timestamp() - now) + 30  # 30s buffer past the reset
+    if secs < 0 or secs > 25 * 3600:  # sanity
+        return None
+    return secs
+
+# Circuit breaker — pauses ALL workers if we suspect a rate-limit storm.
+class CircuitBreaker:
+    """Thread-safe gate. Workers block on `.wait_if_open()` until `.close()` is called.
+
+    Trip condition: 5+ consecutive failures in <60s OR an explicit rate-limit signal.
+    On trip: pause for `pause_minutes` (default 30 min), then probe; if probe succeeds,
+    close the breaker and resume.
+    """
+
+    def __init__(self, pause_minutes: float = 30.0, fail_threshold: int = 5, fail_window_s: float = 60.0):
+        self._lock = threading.Lock()
+        self._event = threading.Event()
+        self._event.set()  # initially closed (gate open, workers proceed)
+        self._recent_failures: list[float] = []
+        self._pause_minutes = pause_minutes
+        self._fail_threshold = fail_threshold
+        self._fail_window_s = fail_window_s
+        self._tripped_count = 0
+
+    def record_success(self) -> None:
+        with self._lock:
+            self._recent_failures.clear()
+
+    def record_failure(self, reason: str = "") -> None:
+        """Returns True if the failure tripped the breaker."""
+        with self._lock:
+            now = time.time()
+            self._recent_failures = [t for t in self._recent_failures if now - t < self._fail_window_s]
+            self._recent_failures.append(now)
+            if len(self._recent_failures) >= self._fail_threshold and self._event.is_set():
+                self._trip(reason or f"{len(self._recent_failures)} consecutive failures in {self._fail_window_s}s")
+
+    def record_rate_limit(self, reason: str = "", reset_seconds: float | None = None) -> None:
+        """Explicit rate-limit signal — trip immediately.
+        If `reset_seconds` is provided (parsed from the CLI error), sleep exactly that long
+        instead of the default pause_minutes.
+        """
+        with self._lock:
+            if self._event.is_set():
+                self._trip(f"rate-limit signal detected: {reason}", sleep_seconds=reset_seconds)
+
+    def _trip(self, reason: str, sleep_seconds: float | None = None) -> None:
+        """Caller must hold _lock."""
+        self._event.clear()
+        self._tripped_count += 1
+        secs = sleep_seconds if sleep_seconds is not None else self._pause_minutes * 60
+        mins = secs / 60.0
+        log_progress("__BREAKER_TRIP__", "PAUSED", f"#{self._tripped_count}: {reason}; sleeping {mins:.1f}min")
+        # Schedule a background thread to wait + probe + resume
+        t = threading.Thread(target=self._wait_and_probe, args=(secs,), daemon=True)
+        t.start()
+
+    def _wait_and_probe(self, sleep_seconds: float) -> None:
+        time.sleep(sleep_seconds)
+        log_progress("__BREAKER_RESUME__", "RESUMING", f"after {sleep_seconds/60.0:.1f}min pause")
+        with self._lock:
+            self._recent_failures.clear()
+            self._event.set()
+
+    def wait_if_open(self) -> None:
+        """Block until the gate is open (closed = not tripped)."""
+        self._event.wait()
+
+
+_BREAKER = CircuitBreaker()
 
 
 def list_unbaked_pdfs() -> list[str]:
@@ -104,11 +223,18 @@ def claude_dispatch(request_dir: Path, job_label: str) -> bool:
 
     `job_label` is a short string (metadata.a / metadata.b / summary) used in the prompt
     for the agent's self-context.
+
+    Side effects: records success/failure with the global circuit breaker. Workers block
+    on `_BREAKER.wait_if_open()` before issuing the claude -p call, so a tripped breaker
+    pauses all in-flight dispatches until the breaker auto-closes after its pause window.
     """
     resp_path = request_dir / "response.json"
     # If response already exists and is non-trivial, skip (idempotent re-runs).
     if resp_path.exists() and resp_path.stat().st_size > 100:
         return True
+
+    # Block here if the circuit breaker is tripped (rate-limit storm).
+    _BREAKER.wait_if_open()
 
     prompt = (
         f"You are an extraction worker for the v1.5 Indian Liberals corpus pipeline.\n"
@@ -133,7 +259,7 @@ def claude_dispatch(request_dir: Path, job_label: str) -> bool:
         "--allowed-tools", CLAUDE_ALLOWED_TOOLS,
     ]
     try:
-        subprocess.run(
+        result = subprocess.run(
             cmd,
             input=prompt,
             capture_output=True,
@@ -141,10 +267,33 @@ def claude_dispatch(request_dir: Path, job_label: str) -> bool:
             timeout=CLAUDE_TIMEOUT_S,
         )
     except subprocess.TimeoutExpired:
+        _BREAKER.record_failure("timeout")
         return False
-    except Exception:
+    except Exception as e:
+        _BREAKER.record_failure(f"exception: {e!s:50}")
         return False
-    return resp_path.exists() and resp_path.stat().st_size > 100
+
+    # Rate-limit detection: scan stderr + stdout for known patterns.
+    if result.returncode != 0:
+        combined = (result.stderr or "") + " " + (result.stdout or "")
+        m = RATE_LIMIT_PATTERNS.search(combined)
+        if m:
+            reset_secs = parse_reset_seconds(combined)
+            reason = f"matched '{m.group(0)}' in claude -p output"
+            if reset_secs is not None:
+                reason += f"; reset in {reset_secs/60.0:.1f}min"
+            _BREAKER.record_rate_limit(reason, reset_seconds=reset_secs)
+        else:
+            _BREAKER.record_failure(f"exit {result.returncode}: {combined[:120]!r}")
+        return False
+
+    # Check response file actually got written
+    ok = resp_path.exists() and resp_path.stat().st_size > 100
+    if ok:
+        _BREAKER.record_success()
+    else:
+        _BREAKER.record_failure("no response.json written")
+    return ok
 
 
 def collect_one(pdf_rel: str, request_dir: Path, job: str, sc_run: str | None) -> bool:
@@ -219,7 +368,7 @@ def process_pdf(pdf_rel: str) -> dict:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--concurrency", type=int, default=8, help="parallel PDFs to process")
+    ap.add_argument("--concurrency", type=int, default=12, help="parallel PDFs to process")
     ap.add_argument("--smoke", type=int, default=0, help="process only first N PDFs (smoke test)")
     ap.add_argument("--shard-file", help="optional /tmp/v1.5-shards/shard-NN.json path; defaults to all unbaked")
     args = ap.parse_args()
