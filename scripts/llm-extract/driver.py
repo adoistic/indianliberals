@@ -361,6 +361,395 @@ def cmd_collect(args) -> None:
     print(f"  Ledger:   appended 1 entry for {args.job} / {work_slug}")
 
 
+# ---------------------------------------------------------------------------
+# Loop helpers (continuation loop — D1, D5, D12, D13, D14 per design doc)
+# ---------------------------------------------------------------------------
+
+def _same_toc_set(entries_a: list, entries_b: list) -> bool:
+    """
+    D13 / loop guard — check set equality on toc_index across two lists
+    of TOC entry dicts. Used by the no-progress guard.
+    """
+    def _idx_set(entries):
+        return {
+            e.get("toc_index")
+            for e in entries
+            if isinstance(e, dict) and e.get("toc_index") is not None
+        }
+    return _idx_set(entries_a) == _idx_set(entries_b)
+
+
+def _build_virtual_toc(pages_total: int, author_id: str | None = None) -> list[dict]:
+    """
+    D13 — Build a synthetic 20-page-window TOC for thick single-author works
+    that have no formal TOC. Virtual entries are flagged with virtual: true
+    so editorial knows these are page-window summaries, not editorial divisions.
+    """
+    import math
+    n_windows = math.ceil(pages_total / 20)
+    entries = []
+    for i in range(n_windows):
+        page_start = i * 20 + 1
+        page_end = min((i + 1) * 20, pages_total)
+        entries.append({
+            "toc_index": i,
+            "title": f"pages {page_start}–{page_end}",
+            "byline_verbatim": None,
+            "thinker_id_proposed": author_id,
+            "page_start": page_start,
+            "page_end": page_end,
+            "page_system": "pdf",
+            "complete_in_chunk": (i == 0),
+            "seen_through_page": page_end if i == 0 else None,
+            "virtual": True,
+        })
+    return entries
+
+
+def _build_initial_record(meta_final: dict, sum_chunk0: dict) -> dict:
+    """
+    Merge chunk-0 metadata + summary outputs into the canonical running record.
+    The record is the single source of truth that accumulates across the loop.
+    """
+    import copy
+    record = copy.deepcopy(meta_final)
+
+    # Carry over summary fields
+    for key in ("summary", "volume_summary", "extent_caveat",
+                "summary_structured", "essays_summarized",
+                "summary_completeness", "recommended_authority_additions"):
+        if key in sum_chunk0:
+            record[key] = sum_chunk0[key]
+
+    # Initialise continuation-loop tracking fields
+    record.setdefault("toc_drift_detected", False)
+    record.setdefault("dispatch_count", 0)
+    record.setdefault("needs_human_review", False)
+
+    return record
+
+
+def _merge_essay_into_record(record: dict, essay_summary: dict, toc_index: int) -> dict:
+    """
+    Append-only merge of one essay_summary into record.essays_summarized[].
+    If a prior entry for the same toc_index exists (partial from chunk 0),
+    it is REPLACED by the new entry (the "later wins on same toc_index" rule).
+    """
+    essays = record.setdefault("essays_summarized", [])
+    # Remove any existing entry for this toc_index
+    record["essays_summarized"] = [e for e in essays if e.get("toc_index") != toc_index]
+    # Ensure toc_index is set in the essay summary
+    essay_summary = dict(essay_summary)
+    essay_summary["toc_index"] = toc_index
+    record["essays_summarized"].append(essay_summary)
+
+    # Mark this entry as no longer pending in toc.entries_not_yet_rendered
+    toc = record.setdefault("toc", {})
+    not_yet = toc.get("entries_not_yet_rendered") or []
+    toc["entries_not_yet_rendered"] = [
+        e for e in not_yet
+        if not (isinstance(e, dict) and e.get("toc_index") == toc_index)
+    ]
+    return record
+
+
+def _sub_chunk_essay(entry: dict, max_pages: int = 20) -> list[dict]:
+    """
+    Split a TOC entry's page range into ≤max_pages sub-chunks.
+    Returns a list of dicts with page_start, page_end.
+    """
+    page_start = entry.get("page_start")
+    page_end = entry.get("page_end")
+    if page_start is None:
+        return [entry]  # can't sub-chunk without page_start
+    if page_end is None or (page_end - page_start + 1) <= max_pages:
+        return [{"page_start": page_start, "page_end": page_end or (page_start + max_pages - 1)}]
+
+    sub_chunks = []
+    current = page_start
+    while current <= page_end:
+        end = min(current + max_pages - 1, page_end)
+        sub_chunks.append({"page_start": current, "page_end": end})
+        current = end + 1
+    return sub_chunks
+
+
+# ---------------------------------------------------------------------------
+# Loop command
+# ---------------------------------------------------------------------------
+
+
+def cmd_loop(args) -> None:
+    """
+    Continuation loop for one PDF — assembles the final v1.2 record from
+    already-dispatched-and-collected chunk outputs.
+
+    The orchestrator (main Claude Code session) is responsible for running
+    `driver.py prep` + dispatch + `driver.py collect` for each chunk.
+    This command reads those collected outputs from a directory and merges
+    them into the final record.
+
+    Workflow:
+      --dry-run (default):
+          Reads chunk 0 outputs from the bake-off-output directory and prints
+          a dispatch plan listing all continuation chunks the orchestrator
+          should dispatch.
+      --from-collected-chunks <dir>:
+          Reads all chunk outputs from <dir>, applies the merge logic
+          (essays_summarized[], D14 drift detection, D5 extent_caveat,
+          D13 virtual TOC, D1 pages_rendered), validates, and writes
+          <output-dir>/<slug>/final.json.
+    """
+    import math
+    import glob
+
+    from validator import validate_metadata, detect_toc_drift
+
+    output_dir = Path(args.output_dir) if args.output_dir else BAKEOFF_OUTPUT
+
+    # ----------------------------------------------------------------
+    # Resolve PDF slug
+    # ----------------------------------------------------------------
+    pdf_rel = args.pdf
+    work_slug = Path(pdf_rel).stem
+    work_out = output_dir / work_slug
+    work_out.mkdir(parents=True, exist_ok=True)
+
+    # ----------------------------------------------------------------
+    # Load chunk 0 outputs
+    # ----------------------------------------------------------------
+    def _load_json(path: Path) -> dict | None:
+        if path.exists():
+            try:
+                return json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                print(f"  WARNING: JSON parse error in {path}", file=sys.stderr)
+        return None
+
+    # Pick the best available metadata record
+    meta_final = None
+    for candidate in ("tiebreak.json", "metadata.a.a.json", "metadata.b.b.json",
+                      "metadata.a.json", "metadata.b.json"):
+        m = _load_json(work_out / candidate)
+        if m is not None:
+            meta_final = m
+            print(f"  Loaded metadata from: {candidate}")
+            break
+
+    if meta_final is None:
+        print(f"ERROR: No metadata found in {work_out}. Run prep+collect for chunk 0 first.",
+              file=sys.stderr)
+        sys.exit(2)
+
+    # Load chunk 0 summary
+    sum_chunk0 = _load_json(work_out / "summary.json") or {}
+
+    # ----------------------------------------------------------------
+    # Build initial record
+    # ----------------------------------------------------------------
+    record = _build_initial_record(meta_final, sum_chunk0)
+
+    # ----------------------------------------------------------------
+    # D13 — Virtual TOC for thick single-author no-TOC works
+    # ----------------------------------------------------------------
+    toc = record.get("toc") or {}
+    toc_entries = toc.get("entries") or []
+    pages_total = (record.get("physical") or {}).get("pages_total")
+    work_type = record.get("work_type", "")
+    if (
+        work_type in {"book", "essay", "occasional_paper"}
+        and pages_total
+        and pages_total > 60
+        and not toc_entries
+    ):
+        authors = record.get("authors") or []
+        author_id = authors[0].get("thinker_id") if authors else None
+        virtual_entries = _build_virtual_toc(pages_total, author_id)
+        record["toc"] = record.get("toc") or {}
+        record["toc"]["entries"] = virtual_entries
+        record["toc"]["entries_not_yet_rendered"] = virtual_entries[1:]  # window 0 = chunk 0
+        record["toc"]["virtual_toc_generated"] = True
+        print(f"  D13: Generated virtual TOC ({len(virtual_entries)} windows of ≤20 pages)")
+        toc_entries = virtual_entries
+
+    # ----------------------------------------------------------------
+    # --dry-run: print dispatch plan and exit
+    # ----------------------------------------------------------------
+    if not args.from_collected_chunks:
+        not_yet = record.get("toc", {}).get("entries_not_yet_rendered") or []
+        print()
+        print(f"=== Dry-run dispatch plan for {work_slug} ===")
+        print(f"  Work type: {record.get('work_type')}")
+        print(f"  Pages total: {pages_total}")
+        print(f"  TOC entries not yet rendered: {len(not_yet)}")
+        print()
+        if not not_yet:
+            print("  No continuation chunks needed — chunk 0 covers the full work.")
+        else:
+            iteration_ceiling = math.ceil((pages_total or 200) / 20) + 2
+            print(f"  Iteration ceiling: {iteration_ceiling}")
+            print(f"  Max dispatches allowed: {args.max_dispatches}")
+            print()
+            print("  Dispatch plan:")
+            budget = args.max_dispatches
+            # Build a lookup from toc_index -> full entry dict for integer-shorthand entries
+            all_entries_list = (record.get("toc") or {}).get("entries") or []
+            toc_entry_map = {
+                e.get("toc_index"): e
+                for e in all_entries_list
+                if isinstance(e, dict) and e.get("toc_index") is not None
+            }
+            for i, entry in enumerate(not_yet[:min(len(not_yet), budget)]):
+                # Handle integer-shorthand entries (list of toc_index ints)
+                if isinstance(entry, int):
+                    entry = toc_entry_map.get(entry, {"toc_index": entry})
+                if isinstance(entry, dict):
+                    sub_chunks = _sub_chunk_essay(entry, max_pages=20)
+                    for j, sc in enumerate(sub_chunks):
+                        chunk_label = f"chunk_{i+1}" + (f"_sub{j}" if len(sub_chunks) > 1 else "")
+                        ps = sc.get("page_start", "?")
+                        pe = sc.get("page_end", "?")
+                        print(f"    [{chunk_label}] toc_index={entry.get('toc_index')}  "
+                              f"pages {ps}-{pe}  "
+                              f"job=summary (essay_focused mode)")
+                        budget -= 1
+                    if len(sub_chunks) > 1:
+                        print(f"    [{chunk_label}_synthesis] essay-synthesis call")
+                        budget -= 1
+                if budget <= 0:
+                    print(f"    [TRUNCATED -- dispatch budget {args.max_dispatches} would be exceeded]")
+                    break
+        print()
+        print("Run with --from-collected-chunks <dir> after dispatching all chunks.")
+        return
+
+    # ----------------------------------------------------------------
+    # --from-collected-chunks: load + merge essay chunks
+    # ----------------------------------------------------------------
+    chunks_dir = Path(args.from_collected_chunks)
+    if not chunks_dir.exists():
+        print(f"ERROR: chunks directory not found: {chunks_dir}", file=sys.stderr)
+        sys.exit(2)
+
+    # Find all essay chunk outputs: summary.chunk_N.json or essay.N.json etc.
+    # Convention: files named essay.<toc_index>.json or summary.chunk_<N>.json
+    essay_files = sorted(
+        list(chunks_dir.glob("essay.*.json"))
+        + list(chunks_dir.glob("summary.chunk_*.json"))
+    )
+
+    if not essay_files:
+        print(f"  No essay chunk files found in {chunks_dir}")
+        print(f"  Expected: essay.<toc_index>.json or summary.chunk_<N>.json")
+    else:
+        print(f"  Found {len(essay_files)} essay chunk file(s)")
+
+    dispatch_budget = args.max_dispatches
+    drift_check_done = False
+    prev_unrendered = list(record.get("toc", {}).get("entries_not_yet_rendered") or [])
+    chunks_with_no_progress = 0
+    pages_total = (record.get("physical") or {}).get("pages_total") or 200
+    iteration_ceiling = math.ceil(pages_total / 20) + 2
+
+    for chunk_path in essay_files:
+        if dispatch_budget <= 0:
+            record["needs_human_review"] = True
+            record["failure"] = "dispatch_budget_exceeded"
+            break
+
+        essay_summary = _load_json(chunk_path)
+        if essay_summary is None:
+            print(f"  WARNING: Could not load {chunk_path}")
+            continue
+
+        toc_index = essay_summary.get("toc_index")
+        if toc_index is None:
+            print(f"  WARNING: No toc_index in {chunk_path.name} — skipping")
+            continue
+
+        # Merge into record
+        record = _merge_essay_into_record(record, essay_summary, toc_index)
+        dispatch_budget -= 1
+
+        # D14 — TOC drift check (once, on first essay chunk)
+        if not drift_check_done:
+            drift_check_done = True
+            toc_all_entries = (record.get("toc") or {}).get("entries") or []
+            if detect_toc_drift(toc_all_entries, essay_summary):
+                record["toc_drift_detected"] = True
+                record["needs_human_review"] = True
+                print(f"  D14: TOC drift detected on toc_index={toc_index}. "
+                      f"Flag set — orchestrator should dispatch metadata-tiebreak.")
+
+        # No-progress guard
+        new_unrendered = (record.get("toc") or {}).get("entries_not_yet_rendered") or []
+        if _same_toc_set(prev_unrendered, new_unrendered):
+            chunks_with_no_progress += 1
+            if chunks_with_no_progress >= 2:
+                record["needs_human_review"] = True
+                record["failure"] = "continuation_loop_no_progress"
+                print("  WARNING: No-progress guard triggered — loop halted.")
+                break
+        else:
+            chunks_with_no_progress = 0
+        prev_unrendered = list(new_unrendered)
+
+    # ----------------------------------------------------------------
+    # D5 — extent_caveat
+    # ----------------------------------------------------------------
+    phys = record.get("physical") or {}
+    pages_rendered = phys.get("pages_rendered") or phys.get("page_count_visible") or 0
+    pages_total_val = phys.get("pages_total") or 0
+    if pages_total_val > 0 and pages_rendered > 0:
+        ratio = pages_rendered / pages_total_val
+        if ratio < 0.3:
+            record["extent_caveat"] = True
+
+    # ----------------------------------------------------------------
+    # D1 — Set cumulative pages_rendered from essays_summarized
+    # ----------------------------------------------------------------
+    # Count unique pages across all essays (approximation: sum of seen ranges)
+    covered_pages: set[int] = set()
+    for essay in (record.get("essays_summarized") or []):
+        ss = essay.get("summary_structured") or {}
+        completeness = ss.get("summary_completeness") or {}
+        based_on = completeness.get("based_on_pages") or []
+        if len(based_on) == 2:
+            try:
+                for p in range(int(based_on[0]), int(based_on[1]) + 1):
+                    covered_pages.add(p)
+            except (TypeError, ValueError):
+                pass
+    if covered_pages:
+        total_rendered = max(covered_pages) - min(covered_pages) + 1
+        record.setdefault("physical", {})["pages_rendered"] = total_rendered
+
+    # ----------------------------------------------------------------
+    # Track dispatch count
+    # ----------------------------------------------------------------
+    record["dispatch_count"] = args.max_dispatches - dispatch_budget
+
+    # ----------------------------------------------------------------
+    # Validate + write final record
+    # ----------------------------------------------------------------
+    validated = validate_metadata(record)
+    final_path = work_out / "final.json"
+    final_path.write_text(json.dumps(validated, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    v = validated.get("_validator", {})
+    corr_count = len(v.get("corrections", []))
+    print()
+    print(f"=== Loop complete for {work_slug} ===")
+    print(f"  Essays summarized: {len(record.get('essays_summarized', []))}")
+    print(f"  Entries not yet rendered: {len((record.get('toc') or {}).get('entries_not_yet_rendered') or [])}")
+    print(f"  Dispatch count: {record.get('dispatch_count')}")
+    print(f"  Extent caveat: {record.get('extent_caveat', False)}")
+    print(f"  TOC drift detected: {record.get('toc_drift_detected', False)}")
+    print(f"  Needs human review: {record.get('needs_human_review', False)}")
+    print(f"  Validator: {corr_count} corrections, ok={v.get('ok')}")
+    print(f"  Written: {final_path}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="LLM extraction driver — prep + collect commands")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -387,6 +776,41 @@ def main() -> None:
     p_collect.add_argument("--self-consistency-run", default="none")
     p_collect.add_argument("--response-file", required=True)
     p_collect.set_defaults(func=cmd_collect)
+
+    p_loop = sub.add_parser(
+        "loop",
+        help=(
+            "Assemble final v1.2 record from collected chunk outputs. "
+            "In --dry-run mode (default), prints the dispatch plan. "
+            "In --from-collected-chunks mode, merges chunks into final.json."
+        ),
+    )
+    p_loop.add_argument(
+        "pdf",
+        help="PDF path relative to PDFs-by-publisher/ (used to derive work_slug)",
+    )
+    p_loop.add_argument(
+        "--max-dispatches", type=int, default=80,
+        help="Hard ceiling on subagent calls per work (default: 80)",
+    )
+    p_loop.add_argument(
+        "--max-iterations", type=int, default=None,
+        help="Override iteration ceiling (default: derived from pages_total)",
+    )
+    p_loop.add_argument(
+        "--output-dir", default=None,
+        help=f"Directory for output files (default: {BAKEOFF_OUTPUT})",
+    )
+    p_loop.add_argument(
+        "--from-collected-chunks", default=None, metavar="DIR",
+        help=(
+            "Directory containing collected essay chunk JSON files "
+            "(essay.<toc_index>.json or summary.chunk_<N>.json). "
+            "When provided, merges chunks into final.json. "
+            "When omitted, runs in dry-run mode and prints the dispatch plan."
+        ),
+    )
+    p_loop.set_defaults(func=cmd_loop)
 
     args = parser.parse_args()
     args.func(args)

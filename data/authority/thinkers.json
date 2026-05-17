@@ -1,10 +1,10 @@
 {
   "_meta": {
-    "version": "v1-seed-2026-05-17",
+    "version": "v1.2-2026-05-17",
     "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
     "counts": {
-      "total": 199,
-      "canonical": 43,
+      "total": 210,
+      "canonical": 54,
       "high": 92,
       "medium": 64
     },
@@ -31,7 +31,8 @@
         "sort": "Shroff, A. D.",
         "also_known_as": [
           "AD Shroff",
-          "A.D. Shroff"
+          "A.D. Shroff",
+          "ए. डी. श्रॉफ"
         ]
       },
       "birth_year": 1899,
@@ -82,7 +83,9 @@
         "sort": "Shenoy, B. R.",
         "also_known_as": [
           "BR Shenoy",
-          "B.R. Shenoy"
+          "B.R. Shenoy",
+          "बी. आर. शेनॉय",
+          "बी आर शेनॉय"
         ]
       },
       "birth_year": 1905,
@@ -115,7 +118,8 @@
         "sort": "Rokeya, Begum",
         "also_known_as": [
           "Begum Rokeya Sakhawat Hossain",
-          "Rokeya"
+          "Rokeya",
+          "বেগম রোকেয়া"
         ]
       },
       "birth_year": 1880,
@@ -134,7 +138,9 @@
         "sort": "Rajagopalachari, C.",
         "also_known_as": [
           "Rajaji",
-          "C.R."
+          "C.R.",
+          "सी. राजगोपालाचारी",
+          "राजाजी"
         ]
       },
       "birth_year": 1878,
@@ -168,7 +174,8 @@
         "sort": "Pendse, D. R.",
         "also_known_as": [
           "DR Pendse",
-          "D.R. Pendse"
+          "D.R. Pendse",
+          "डी. आर. पेंडसे"
         ]
       },
       "tradition": "classical_liberal",
@@ -183,7 +190,10 @@
       "id": "muthulakshmi-reddi",
       "name": {
         "canonical": "Dr. Muthulakshmi Reddi",
-        "sort": "Reddi, Dr. Muthulakshmi"
+        "sort": "Reddi, Dr. Muthulakshmi",
+        "also_known_as": [
+          "मुथुलक्ष्मी रेड्डी"
+        ]
       },
       "confidence": "canonical",
       "sources": [
@@ -277,7 +287,9 @@
         "sort": "Vidyasagar, Ishwar Chandra",
         "also_known_as": [
           "Vidyasagar",
-          "Ishwarchandra Vidyasagar"
+          "Ishwarchandra Vidyasagar",
+          "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+          "ईश्वरचन्द्र विद्यासागर"
         ]
       },
       "birth_year": 1820,
@@ -295,7 +307,8 @@
         "full": "Edavalath Kakkat Janaki Ammal",
         "sort": "Ammal, Janaki",
         "also_known_as": [
-          "E.K. Janaki Ammal"
+          "E.K. Janaki Ammal",
+          "जानकी अम्मल"
         ]
       },
       "birth_year": 1897,
@@ -325,7 +338,8 @@
         "full": "Abala Bose",
         "sort": "Bose, Lady Abala",
         "also_known_as": [
-          "Abala Bose"
+          "Abala Bose",
+          "অবলা বসু"
         ]
       },
       "birth_year": 1864,
@@ -344,7 +358,8 @@
         "sort": "Pai, M. R.",
         "also_known_as": [
           "MR Pai",
-          "M.R. Pai"
+          "M.R. Pai",
+          "एम. आर. पई"
         ]
       },
       "birth_year": 1930,
@@ -403,7 +418,10 @@
       "name": {
         "canonical": "Minoo Masani",
         "full": "Minocher Rustom Masani",
-        "sort": "Masani, Minoo"
+        "sort": "Masani, Minoo",
+        "also_known_as": [
+          "मीनू मसानी"
+        ]
       },
       "birth_year": 1905,
       "death_year": 1998,
@@ -428,7 +446,8 @@
         "sort": "Lam, Mithan Tata",
         "also_known_as": [
           "Mithan Lam",
-          "Mithan Tata"
+          "Mithan Tata",
+          "मीठन टाटा लाम"
         ]
       },
       "birth_year": 1898,
@@ -478,7 +497,8 @@
         "sort": "Palkhivala, Nani",
         "also_known_as": [
           "Nani A. Palkhivala",
-          "N. A. Palkhivala"
+          "N. A. Palkhivala",
+          "नानी पालखीवाला"
         ]
       },
       "birth_year": 1920,
@@ -502,7 +522,8 @@
         "full": "Pandita Ramabai Sarasvati",
         "sort": "Ramabai, Pandita",
         "also_known_as": [
-          "Ramabai"
+          "Ramabai",
+          "पंडिता रमाबाई"
         ]
       },
       "birth_year": 1858,
@@ -548,7 +569,9 @@
         "full": "Rabindranath Thakur",
         "sort": "Tagore, Rabindranath",
         "also_known_as": [
-          "Tagore"
+          "Tagore",
+          "রবীন্দ্রনাথ ঠাকুর",
+          "रवीन्द्रनाथ टैगोर"
         ]
       },
       "birth_year": 1861,
@@ -610,7 +633,8 @@
         "sort": "Raju, S. V.",
         "also_known_as": [
           "SV Raju",
-          "S.V. Raju"
+          "S.V. Raju",
+          "एस. वी. राजू"
         ]
       },
       "birth_year": 1933,
@@ -672,7 +696,8 @@
         "full": "Sharad Anantrao Joshi",
         "sort": "Joshi, Sharad",
         "also_known_as": [
-          "Sharad Anantrao Joshi"
+          "Sharad Anantrao Joshi",
+          "शरद जोशी"
         ]
       },
       "birth_year": 1935,
@@ -2431,6 +2456,233 @@
       "sources": [
         "pdf-filename/forum-of-free-enterprise/air-travel-in-india-safety-and-service-by-wing-commander-vijay-mahajan-alka-sen-rn-kini-june-14-1990.pdf"
       ]
+    },
+    {
+      "id": "t-t-krishnamachari",
+      "name": {
+        "canonical": "T. T. Krishnamachari",
+        "sort": "Krishnamachari, T. T.",
+        "also_known_as": [
+          "TTK",
+          "टी. टी. कृष्णमाचारी",
+          "कृष्णमाचारी"
+        ]
+      },
+      "tradition": "classical_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "jawaharlal-nehru",
+      "name": {
+        "canonical": "Jawaharlal Nehru",
+        "full": "Jawaharlal Nehru",
+        "sort": "Nehru, Jawaharlal",
+        "also_known_as": [
+          "Nehru",
+          "Pandit Nehru",
+          "जवाहरलाल नेहरू",
+          "पंडित नेहरू"
+        ]
+      },
+      "birth_year": 1889,
+      "death_year": 1964,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "indira-gandhi",
+      "name": {
+        "canonical": "Indira Gandhi",
+        "full": "Indira Priyadarshini Gandhi",
+        "sort": "Gandhi, Indira",
+        "also_known_as": [
+          "Indira",
+          "इंदिरा गांधी",
+          "इन्दिरा गाँधी"
+        ]
+      },
+      "birth_year": 1917,
+      "death_year": 1984,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "mahatma-gandhi",
+      "name": {
+        "canonical": "Mahatma Gandhi",
+        "full": "Mohandas Karamchand Gandhi",
+        "sort": "Gandhi, Mahatma",
+        "also_known_as": [
+          "Gandhi",
+          "Bapu",
+          "MK Gandhi",
+          "महात्मा गांधी",
+          "मोहनदास गांधी",
+          "मोहनदास करमचंद गांधी"
+        ]
+      },
+      "birth_year": 1869,
+      "death_year": 1948,
+      "tradition": "reformer",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "karl-marx",
+      "name": {
+        "canonical": "Karl Marx",
+        "sort": "Marx, Karl",
+        "also_known_as": [
+          "Marx",
+          "मार्क्स",
+          "कार्ल मार्क्स"
+        ]
+      },
+      "birth_year": 1818,
+      "death_year": 1883,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "napoleon-bonaparte",
+      "name": {
+        "canonical": "Napoleon Bonaparte",
+        "sort": "Bonaparte, Napoleon",
+        "also_known_as": [
+          "Napoleon",
+          "नेपोलियन",
+          "नेपोलियन बोनापार्ट"
+        ]
+      },
+      "birth_year": 1769,
+      "death_year": 1821,
+      "tradition": "international_influence",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "maharana-pratap",
+      "name": {
+        "canonical": "Maharana Pratap",
+        "full": "Maharana Pratap Singh",
+        "sort": "Pratap, Maharana",
+        "also_known_as": [
+          "महाराणा प्रताप",
+          "महाराणा प्रताप सिंह"
+        ]
+      },
+      "tradition": "reformer",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "shivaji",
+      "name": {
+        "canonical": "Chhatrapati Shivaji",
+        "full": "Chhatrapati Shivaji Maharaj",
+        "sort": "Shivaji, Chhatrapati",
+        "also_known_as": [
+          "Shivaji",
+          "शिवाजी",
+          "छत्रपती शिवाजी",
+          "छत्रपती शिवाजी महाराज"
+        ]
+      },
+      "tradition": "reformer",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "sardar-patel",
+      "name": {
+        "canonical": "Vallabhbhai Patel",
+        "full": "Vallabhbhai Jhaverbhai Patel",
+        "sort": "Patel, Vallabhbhai",
+        "also_known_as": [
+          "Sardar Patel",
+          "Patel",
+          "सरदार पटेल",
+          "वल्लभभाई पटेल",
+          "सरदार वल्लभभाई पटेल"
+        ]
+      },
+      "birth_year": 1875,
+      "death_year": 1950,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "subhas-chandra-bose",
+      "name": {
+        "canonical": "Subhas Chandra Bose",
+        "sort": "Bose, Subhas Chandra",
+        "also_known_as": [
+          "Netaji",
+          "Subhash Chandra Bose",
+          "সুভাষ চন্দ্র বসু",
+          "সুভাষচন্দ্র বসু",
+          "সুভাষ বসু",
+          "সুভাষচন্দ্র",
+          "নেতাজি",
+          "सुभाष चंद्र बोस",
+          "नेताजी"
+        ]
+      },
+      "birth_year": 1897,
+      "death_year": 1945,
+      "tradition": "nationalist_liberal",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
+    },
+    {
+      "id": "bhimrao-ambedkar",
+      "name": {
+        "canonical": "B. R. Ambedkar",
+        "full": "Bhimrao Ramji Ambedkar",
+        "sort": "Ambedkar, B. R.",
+        "also_known_as": [
+          "Ambedkar",
+          "Babasaheb",
+          "BR Ambedkar",
+          "B.R. Ambedkar",
+          "बाबासाहेब आंबेडकर",
+          "भीमराव आंबेडकर",
+          "डॉ. बाबासाहेब आंबेडकर",
+          "भीमराव रामजी आंबेडकर"
+        ]
+      },
+      "birth_year": 1891,
+      "death_year": 1956,
+      "tradition": "social_reformer",
+      "confidence": "canonical",
+      "sources": [
+        "corpus_mention"
+      ]
     }
   ],
   "byline_lookup": {
@@ -2651,6 +2903,86 @@
     "what is the role of government in agriculture?": "what-is-the-role-of-government-in-agriculture",
     "why are fundamental rights not amendable?": "why-are-fundamental-rights-not-amendable",
     "why is it difficult to de-regulate labor in india?": "why-is-it-difficult-to-de-regulate-labor-in-india",
-    "wing commander vijay mahajan alka sen rn kini": "wing-commander-vijay-mahajan-alka-sen-rn-kini"
+    "wing commander vijay mahajan alka sen rn kini": "wing-commander-vijay-mahajan-alka-sen-rn-kini",
+    "मन मसन": "minoo-masani",
+    "ब आर शनय": "b-r-shenoy",
+    "स रजगपलचर": "c-rajagopalachari",
+    "रजज": "c-rajagopalachari",
+    "शरद जश": "sharad-joshi",
+    "ए ड शरफ": "a-d-shroff",
+    "नन पलखवल": "nani-palkhivala",
+    "एम आर पई": "m-r-pai",
+    "ड आर पडस": "d-r-pendse",
+    "एस व रज": "s-v-raju",
+    "রবনদরনথ ঠকর": "rabindranath-tagore",
+    "रवनदरनथ टगर": "rabindranath-tagore",
+    "ঈশবরচনদর বদযসগর": "ishwar-chandra-vidyasagar",
+    "ईशवरचनदर वदयसगर": "ishwar-chandra-vidyasagar",
+    "বগম রকয": "begum-rokeya",
+    "पडत रमबई": "pandita-ramabai",
+    "मठन टट लम": "mithan-tata-lam",
+    "जनक अममल": "janaki-ammal",
+    "मथलकषम रडड": "muthulakshmi-reddi",
+    "অবল বস": "lady-abala-bose",
+    "t t krishnamachari": "t-t-krishnamachari",
+    "ttk": "t-t-krishnamachari",
+    "ट ट कषणमचर": "t-t-krishnamachari",
+    "कषणमचर": "t-t-krishnamachari",
+    "jawaharlal nehru": "jawaharlal-nehru",
+    "nehru": "jawaharlal-nehru",
+    "pandit nehru": "jawaharlal-nehru",
+    "जवहरलल नहर": "jawaharlal-nehru",
+    "पडत नहर": "jawaharlal-nehru",
+    "indira gandhi": "indira-gandhi",
+    "indira": "indira-gandhi",
+    "इदर गध": "indira-gandhi",
+    "इनदर गध": "indira-gandhi",
+    "mahatma gandhi": "mahatma-gandhi",
+    "gandhi": "mahatma-gandhi",
+    "bapu": "mahatma-gandhi",
+    "mk gandhi": "mahatma-gandhi",
+    "महतम गध": "mahatma-gandhi",
+    "महनदस गध": "mahatma-gandhi",
+    "महनदस करमचद गध": "mahatma-gandhi",
+    "karl marx": "karl-marx",
+    "marx": "karl-marx",
+    "मरकस": "karl-marx",
+    "करल मरकस": "karl-marx",
+    "napoleon bonaparte": "napoleon-bonaparte",
+    "napoleon": "napoleon-bonaparte",
+    "नपलयन": "napoleon-bonaparte",
+    "नपलयन बनपरट": "napoleon-bonaparte",
+    "maharana pratap": "maharana-pratap",
+    "महरण परतप": "maharana-pratap",
+    "महरण परतप सह": "maharana-pratap",
+    "chhatrapati shivaji": "shivaji",
+    "shivaji": "shivaji",
+    "शवज": "shivaji",
+    "छतरपत शवज": "shivaji",
+    "छतरपत शवज महरज": "shivaji",
+    "vallabhbhai patel": "sardar-patel",
+    "sardar patel": "sardar-patel",
+    "patel": "sardar-patel",
+    "सरदर पटल": "sardar-patel",
+    "वललभभई पटल": "sardar-patel",
+    "सरदर वललभभई पटल": "sardar-patel",
+    "subhas chandra bose": "subhas-chandra-bose",
+    "netaji": "subhas-chandra-bose",
+    "subhash chandra bose": "subhas-chandra-bose",
+    "সভষ চনদর বস": "subhas-chandra-bose",
+    "সভষচনদর বস": "subhas-chandra-bose",
+    "সভষ বস": "subhas-chandra-bose",
+    "সভষচনদর": "subhas-chandra-bose",
+    "নতজ": "subhas-chandra-bose",
+    "सभष चदर बस": "subhas-chandra-bose",
+    "नतज": "subhas-chandra-bose",
+    "b r ambedkar": "bhimrao-ambedkar",
+    "ambedkar": "bhimrao-ambedkar",
+    "babasaheb": "bhimrao-ambedkar",
+    "br ambedkar": "bhimrao-ambedkar",
+    "बबसहब आबडकर": "bhimrao-ambedkar",
+    "भमरव आबडकर": "bhimrao-ambedkar",
+    "ड बबसहब आबडकर": "bhimrao-ambedkar",
+    "भमरव रमज आबडकर": "bhimrao-ambedkar"
   }
 }

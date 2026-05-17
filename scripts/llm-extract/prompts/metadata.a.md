@@ -1,4 +1,4 @@
-<!-- v1.1 — Variant A: "archival cataloguer" framing, examples in chronological order. v1.1 tightens enum enforcement + authority binding + adds worked examples for borderline cases (convocation reprints, single-author compilations, conference proceedings, multi-article booklets). -->
+<!-- v1.2 — v1.2 adds: D1 pages_rendered/pages_total fields, D6 SCHEMA_EXAMPLE fix (generic FFE pamphlet, no speech contradiction), D7 toc_index ordering rule, D8 page_system on tocEntry, D10 recommended_authority_additions[]. -->
 
 # SYSTEM
 
@@ -21,6 +21,8 @@ You see up to 20 pages from one work — typically the front matter (cover, titl
 **5. Diacritics matter.** For non-English names (Devanagari/Bengali/Gujarati/Marathi), preserve the original script in `original_script`. For Romanised transliterations, preserve diacritical marks (Marathi टि, Bengali বাং) — these are how scholars distinguish names.
 
 **6. TOC cross-reference.** When you see a Table of Contents, transcribe it verbatim into the `toc.entries[]` array. THEN reconcile against where you actually see essays starting in the rendered pages. A reconciled TOC drives the continuation loop in the next phase — if the TOC and rendered positions disagree, capture both and explain the mismatch in `notes`.
+
+**TOC ordering rule (D7).** `toc_index` numbering reflects the rendered/printed order of essays in the volume, NOT the order an editorial introduction discusses them. If a formal TOC is present, use its numbering. If only an editorial preview lists essays, number by ascending `page_start` of each essay's rendered start. Essays not yet rendered take the highest indices. Editor-introduction discussion order is IRRELEVANT to toc_index assignment.
 
 **7. Multi-author detection.** If the title page has multiple authors or "Edited by X" or there's a TOC with different bylines per chapter, this is a multi-author work. Set `work_type: edited_volume` (or `periodical_issue` if it's a magazine), populate `contributors[]` with the static metadata roster (`{thinker_id, role, toc_index}`), and prepare for the summarization pass to fill `essays_summarized[]`.
 
@@ -99,7 +101,8 @@ If the work doesn't fit any of these patterns cleanly, pick the closest `work_ty
     "language": "en|hi|gu|mr|bn"
   },
   "physical": {
-    "page_count_visible": <int>,
+    "pages_rendered": <int — number of pages you actually saw in this chunk>,
+    "pages_total": <int — total pages in the PDF as reported by the rasterizer in TOTAL_PDF_PAGES>,
     "format": "<description of physical form, optional>"
   },
   "identifiers": {
@@ -120,6 +123,7 @@ If the work doesn't fit any of these patterns cleanly, pick the closest `work_ty
         "thinker_id_proposed": "<authority ID if you can resolve, or null>",
         "page_start": <int>,
         "page_end": <int or null>,
+        "page_system": "pdf|printed",
         "complete_in_chunk": <true if you saw the full essay in your 20 pages>,
         "seen_through_page": <int — last page of this essay you saw>
       }
@@ -128,6 +132,15 @@ If the work doesn't fit any of these patterns cleanly, pick the closest `work_ty
   },
   "missing_metadata_flags": ["<list of fields you couldn't fill — e.g., 'title_page_not_found', 'no_publisher_address'>"],
   "needs_human_review": <true if any high-stakes field has confidence: low OR any byline didn't resolve>,
+  "recommended_authority_additions": [
+    {
+      "kind": "thinker|publisher|organisation",
+      "verbatim": "<name as it appears in the work>",
+      "language": "en|hi|gu|mr|bn",
+      "context": "<one sentence on who/what this is>",
+      "page": <int or null>
+    }
+  ],
   "notes": "<short editorial notes — typos, ambiguities, anything a librarian should know. Under 400 chars.>",
   "classification_reasoning": {
     "work_type": "<2-3 sentences: what evidence on the page made you pick this work_type. Reference the specific signal — title-page wording, TOC structure, byline count, dated/venued delivery, etc. If the answer is a borderline case from the worked examples, name it.>",
@@ -142,6 +155,10 @@ If the work doesn't fit any of these patterns cleanly, pick the closest `work_ty
 ```
 
 The `classification_reasoning` block is REQUIRED, not optional. Writing it forces you to look at the evidence on the page before committing to a value. If you find yourself writing reasoning that justifies an enum value not in the lists above, that's a signal to revise the value, not to invent the enum.
+
+**`page_system` rule (D8):** Set `"printed"` when visible book page numbers are printed on the rendered pages (i.e., the page number you're citing is the one printed in the book's running header/footer). Set `"pdf"` when you're citing PDF page positions only (e.g., the book has no visible page numbers, or the printed numbering is absent/illegible).
+
+**`recommended_authority_additions[]` rule (D10):** When a publisher, organisation, or person appears in the work but doesn't resolve against the authority file, add them here so editorial can decide whether to add them. Do NOT leave this array empty just because everything resolved — only omit it when genuinely nothing is unresolved.
 
 Theme vocabulary (pick from this list; `theme_proposed_new[]` for genuine gaps):
 
@@ -172,20 +189,20 @@ Extract the full metadata record per the schema. Return JSON only.
 
 # SCHEMA_EXAMPLE
 
-For the 16-page FFE pamphlet "What Ails India" by Russi Mody, January 15, 1990:
+For a generic 24-page FFE pamphlet "Free Enterprise and the Consumer" by A. D. Shroff, FFE Pamphlet No. 12, 1962:
 
 ```json
 {
   "work_type": "pamphlet",
   "purpose": null,
   "title": {
-    "main":     { "value": "What Ails India", "confidence": "high" },
+    "main":     { "value": "Free Enterprise and the Consumer", "confidence": "high" },
     "subtitle": { "value": null, "confidence": "high" }
   },
   "authors": [
     {
-      "thinker_id": null,
-      "byline_verbatim": "Russi Mody",
+      "thinker_id": "a-d-shroff",
+      "byline_verbatim": "A. D. Shroff",
       "honorifics": [],
       "confidence": "high"
     }
@@ -197,19 +214,24 @@ For the 16-page FFE pamphlet "What Ails India" by Russi Mody, January 15, 1990:
     "publisher_verbatim": "Forum of Free Enterprise",
     "issuer_id": "forum-of-free-enterprise",
     "place": "Bombay",
-    "year": { "value": 1990, "confidence": "high" },
+    "year": { "value": 1962, "confidence": "high" },
     "edition": null,
-    "series": "FFE Lecture Series",
+    "series": "FFE Pamphlet No. 12",
     "language": "en"
   },
-  "physical": { "page_count_visible": 16 },
+  "physical": {
+    "pages_rendered": 20,
+    "pages_total": 24,
+    "format": "stapled pamphlet"
+  },
   "identifiers": { "isbn": null, "issn": null, "oclc": null },
   "language": "en",
-  "themes": ["economic-liberty", "planning-critique"],
+  "themes": ["economic-liberty", "free-trade"],
   "theme_proposed_new": [],
   "toc": null,
   "missing_metadata_flags": [],
-  "needs_human_review": true,
-  "notes": "Russi Mody is not in the authority-file subset I received. byline_verbatim recorded for editorial review. The title page mentions 'Talk delivered at FFE on January 15, 1990' — this is genuinely a speech in form but a pamphlet in artifact; classifying as pamphlet per the convention."
+  "needs_human_review": false,
+  "recommended_authority_additions": [],
+  "notes": "No TOC — single continuous argument across 24 pages. A. D. Shroff resolved to a-d-shroff via authority file alias 'A.D. Shroff'. No delivery date or venue present; this is a printed pamphlet, not a speech."
 }
 ```

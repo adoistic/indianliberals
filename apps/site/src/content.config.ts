@@ -87,15 +87,32 @@ const thinkerName = z.object({
 // year, publisher, language) by the metadata pass. See M3 in the design doc.
 const confidenceFlag = z.enum(['high', 'medium', 'low']);
 
+// One of two page-numbering systems. Required disambiguation in v1.2 (D8):
+// a record can mix PDF page numbers and printed/book page numbers; downstream
+// citation generators need to know which.
+const pageSystem = z.enum(['pdf', 'printed']);
+
+// Transcription anomaly side-channel (v1.2 D9). When the verbatim contains an
+// OCR garble or source typo that the translation/context silently corrects,
+// surface it here so editorial reviewers can decide what to publish.
+const transcriptionAnomaly = z.object({
+  observed: z.string(),         // what's literally on the page (preserved in verbatim)
+  likely_intended: z.string(),  // what the model believes was meant
+  note: z.string().optional(),  // 1-line reason ('OCR substitution; translation reflects intended reading')
+});
+
 // A verbatim quote pulled by the summarization pass. The model is asked to
 // extract verbatim; pdftotext verification was rejected (noisier than the
 // model on scanned corpora). See S2 in the design doc.
 const pullQuote = z.object({
   verbatim: z.string(),
   page: z.number().int(),
+  page_system: pageSystem.optional(),   // v1.2 D8 — defaults to 'printed' when book page numbers are visible
   why_notable: z.enum(['framing', 'aphorism', 'data', 'counter_intuitive']),
   context: z.string().optional(),
   shareable: z.boolean().default(false),
+  translation: z.string().optional(),    // English rendering for non-English verbatims
+  transcription_anomaly: transcriptionAnomaly.optional(),  // v1.2 D9
 });
 
 // A named-person mention surfaced from body text (not the byline) and
@@ -106,6 +123,19 @@ const crossThinkerMention = z.object({
   thinker_id_unresolved: z.string().optional(), // verbatim string if not in authority file
   context: z.string().optional(),
   page: z.number().int().optional(),
+  page_system: pageSystem.optional(),   // v1.2 D8
+});
+
+// v1.2 D10 — recommended authority additions. Entities surfaced from extraction
+// that didn't resolve against the authority file and that the model believes
+// SHOULD be added. Editorial reviews these; pipeline does not silently fail.
+const recommendedAuthorityAddition = z.object({
+  kind: z.enum(['thinker', 'publisher', 'organisation']),
+  verbatim: z.string(),
+  language: z.string().optional(),
+  context: z.string().optional(),
+  page: z.number().int().optional(),
+  page_system: pageSystem.optional(),
 });
 
 // What the summarization pass actually saw (or didn't) of the work.
@@ -134,8 +164,10 @@ const tocEntry = z.object({
   thinker_id_proposed: z.string().optional(),
   page_start: z.number().int(),
   page_end: z.number().int().nullable().optional(),
+  page_system: pageSystem.optional(),   // v1.2 D8
   complete_in_chunk: z.boolean().default(false),
   seen_through_page: z.number().int().optional(),
+  virtual: z.boolean().default(false),  // v1.2 D13 — true for synthetic page-window entries on thick single-author no-TOC works
 });
 
 // Per-essay summarization payload for multi-author works. Joins to
@@ -145,6 +177,7 @@ const essaySummarized = z.object({
   author_resolved: reference('thinkers').optional(),
   author_unresolved: z.string().optional(),
   summary: z.string(),
+  partial_essay: z.boolean().default(false),  // v1.2 — true when sub-chunk failures meant the essay wasn't fully summarized
   summary_structured: z.object({
     key_points: z.array(z.string()).default([]),
     pull_quotes: z.array(pullQuote).default([]),
@@ -394,7 +427,11 @@ const primaryWorks = defineCollection({
     }),
     physical: z
       .object({
-        page_count: z.number().int().optional(),
+        page_count: z.number().int().optional(),  // legacy field — kept for backward compat
+        page_count_visible: z.number().int().optional(),  // legacy v1.0 field — superseded by pages_rendered/total
+        pages_rendered: z.number().int().optional(),  // v1.2 D1 — pages the model actually saw across all chunks
+        pages_total: z.number().int().optional(),  // v1.2 D1 — total page count of the source PDF
+        pages_total_source: z.enum(['pypdfium2', 'toc_max', 'unknown']).optional(),  // v1.2 D1 provenance
         format: z.string().optional(),
       })
       .optional(),
@@ -448,6 +485,11 @@ const primaryWorks = defineCollection({
     // True when the entry is awaiting LLM extraction (e.g., the 51 entries
     // imported from the legacy DB whose OCR text was stripped).
     needs_extraction: z.boolean().default(false),
+    // v1.2 fields — extent caveat, TOC drift, recommended authority additions, dispatch observability.
+    extent_caveat: z.boolean().default(false),     // v1.2 D5 — true when pages_rendered/pages_total < 0.3
+    toc_drift_detected: z.boolean().default(false),  // v1.2 D14 — true when chunk 1's TOC disagreed with chunk 2's rendered position
+    recommended_authority_additions: z.array(recommendedAuthorityAddition).default([]),  // v1.2 D10
+    dispatch_count: z.number().int().optional(),    // v1.2 — total subagent dispatches consumed during extraction
     // PDF is hosted on R2 in production. May be null pre-R2-deployment;
     // the staging_pdf_path points to the file on the curator's external drive.
     pdf_url: z.string().url().optional(),
@@ -500,6 +542,21 @@ const periodicals = defineCollection({
     ai_key_points: z.array(z.string()).default([]),
     ai: aiProvenance,
     needs_extraction: z.boolean().default(false),
+    // v1.2 fields — same shape as primary-works (periodicals can be partially-rendered too).
+    extent_caveat: z.boolean().default(false),     // v1.2 D5
+    toc_drift_detected: z.boolean().default(false),  // v1.2 D14
+    recommended_authority_additions: z.array(recommendedAuthorityAddition).default([]),  // v1.2 D10
+    dispatch_count: z.number().int().optional(),    // v1.2 — total subagent dispatches consumed
+    physical: z
+      .object({
+        page_count: z.number().int().optional(),
+        page_count_visible: z.number().int().optional(),  // legacy v1.0 field
+        pages_rendered: z.number().int().optional(),  // v1.2 D1
+        pages_total: z.number().int().optional(),  // v1.2 D1
+        pages_total_source: z.enum(['pypdfium2', 'toc_max', 'unknown']).optional(),  // v1.2 D1
+        format: z.string().optional(),
+      })
+      .optional(),
     pdf_url: z.string().url().optional(),
     pdf_staging_path: z.string().optional(),
     pdf_size_mb: z.number().optional(),
@@ -516,7 +573,9 @@ const periodicals = defineCollection({
           author_unresolved: z.string().optional(),
           page_start: z.number().int().optional(),
           page_end: z.number().int().optional(),
+          page_system: pageSystem.optional(),   // v1.2 D8
           abstract: z.string().optional(),
+          partial_essay: z.boolean().default(false),  // v1.2 — sub-chunk failure flag
           pull_quotes: z.array(pullQuote).default([]),
           cross_thinker_mentions: z.array(crossThinkerMention).default([]),
         }),
