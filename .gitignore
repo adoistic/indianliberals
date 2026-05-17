@@ -61,3 +61,4 @@ wrangler.toml.bak
 
 # Internal working material (audits, drafts) — never published
 /docs/internal/
+__pycache__/
