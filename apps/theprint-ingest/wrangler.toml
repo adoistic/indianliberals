@@ -1,0 +1,41 @@
+name = "indianliberals-theprint-ingest"
+main = "src/index.ts"
+compatibility_date = "2026-05-01"
+
+# Daily cron — 04:30 UTC = 10:00 IST. We pick mid-morning IST so admins
+# see new articles surface before the start of the workday and can edit
+# them via Sveltia if desired before the post propagates anywhere.
+[triggers]
+crons = ["30 4 * * *"]
+
+# Secrets (set via `wrangler secret put`):
+#   GITHUB_TOKEN  — fine-grained PAT scoped to indianliberals repo with
+#                   Contents: read+write. Belongs to a bot account so the
+#                   admin-edit detector can tell bot commits from human ones.
+#
+# These are NEVER in env vars or in the repo.
+
+[vars]
+GITHUB_REPO = "adoistic/indianliberals"
+GITHUB_BRANCH = "main"
+# Author identity for cron commits. The detector compares last-commit
+# author to this string; if last commit was NOT this author, the file
+# was admin-edited and we skip the ingest update.
+BOT_COMMIT_AUTHOR = "theprint-ingest-bot"
+BOT_COMMIT_EMAIL = "theprint-ingest@indianliberals.in"
+
+# The "Indian Liberals Matter" column RSS feed.
+RSS_FEED_URL = "https://theprint.in/category/opinion/indian-liberals-matter/feed/"
+
+# Path inside the repo where new mirror MDs land.
+CONTENT_PATH = "apps/site/src/content/theprint-mirror"
+
+# Path to the blocklist JSON. Articles whose theprint_url is in this list
+# are skipped by the ingest even if they appear in the feed. Editors can
+# populate this when they intentionally remove a mirror (e.g., takedown
+# request) and don't want the cron to re-import on the next run.
+BLOCKLIST_PATH = "data/theprint-blocklist.json"
+
+# Max items per run. Soft cap to avoid runaway burst on the GitHub API
+# if the feed returns something unusual.
+MAX_ITEMS_PER_RUN = "10"

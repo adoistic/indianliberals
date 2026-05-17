@@ -1,0 +1,4 @@
+{
+  "_doc": "URLs the ThePrint ingest cron must NOT mirror. Populated when editors intentionally remove a theprint-mirror entry (takedown request, off-topic post, etc.). The cron reads this file from the repo on every run.",
+  "urls": []
+}
