@@ -12,6 +12,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import RelatedSection from "~/components/RelatedSection.astro";
 
 export async function getStaticPaths() {
   const works = await getCollection(
@@ -221,5 +222,7 @@ const descriptionForMeta = fm.summary
       editorial accuracy. The original work is available via the PDF link above;
       paragraph-level citation inside the PDF is deferred to a future engagement.
     </p>
+
+    <RelatedSection collection="primary-works" slug={w.id} viewerLang={w.data.language} />
   </article>
 </BaseLayout>

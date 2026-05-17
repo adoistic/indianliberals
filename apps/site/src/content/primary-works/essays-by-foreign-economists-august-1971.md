@@ -1,0 +1,105 @@
+---
+id: essays-by-foreign-economists-august-1971
+title:
+  main: Essays by Foreign Economists
+  subtitle: ""
+work_type: edited_volume
+authors: []
+editors: []
+contributors:
+  - role: author
+    thinker_unresolved: Prof. Milton Friedman
+    toc_index: 1
+  - role: author
+    thinker_unresolved: B. A. Tarlton
+    toc_index: 2
+  - role: author
+    thinker_unresolved: F. A. Hayek
+    toc_index: 3
+  - role: author
+    thinker_unresolved: Prof. G. Carl Wiegand
+    toc_index: 4
+  - role: author
+    thinker_unresolved: Prof. W. H. Hutt
+    toc_index: 5
+  - role: author
+    thinker_unresolved: Prof. Colin Clark
+    toc_index: 6
+  - role: author
+    thinker_unresolved: Prof. Colin Clark
+    toc_index: 7
+  - role: author
+    thinker_unresolved: Prof. P. T. Bauer
+    toc_index: 8
+  - role: author
+    thinker_unresolved: Prof. P. T. Bauer
+    toc_index: 9
+  - role: author
+    thinker_unresolved: Prof. P. T. Bauer
+    toc_index: 10
+  - role: author
+    thinker_unresolved: Prof. Dudley Dillard
+    toc_index: 11
+  - role: author
+    thinker_unresolved: Eugene Black
+    toc_index: 12
+publication:
+  language: en
+  publisher_id: forum-of-free-enterprise
+  publisher_name: "FORUM OF FREE ENTERPRISE, \"Sohrab House\", 235, Dr. Dadabhai Naoroji Road, Bombay-1. Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay-1 and printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5."
+  issuer_id: forum-of-free-enterprise
+  place: Bombay
+  year: 1971
+provenance:
+  source: ccs_archive
+  scan_quality: unknown
+rights:
+  status: takedown_on_request
+  license: in-copyright
+  license_url: null
+  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+themes: []
+summary: "Essays by Foreign Economists is a compilation published in August 1971 by the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets the Forum had previously issued; the volume is explicitly marked 'not for sale' and circulated only to Forum members. In the rendered pages, the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black, addressing the case for free enterprise, the failings of central planning, the conditions for economic growth, foreign aid, the economic thinking of Keynes, and the place of India's private sector. The chunk contains the full text of Friedman's opening essay 'Myths That Keep People Hungry' (rep..."
+needs_review: true
+draft: true
+ai:
+  drafted_by: claude-sonnet-4.5
+  drafted_at: 2026-05-17
+  model_version: v1.4
+purpose: anthology
+physical:
+  pages_rendered: 20
+  pages_total: 210
+  pages_total_source: pypdfium2
+  format: Hardbound compilation volume; copyright vests with respective authors; not for sale, for use of Forum members only.
+missing_metadata_flags:
+  - editor_not_named
+---
+
+# Essays by Foreign Economists
+
+## Summary
+
+Essays by Foreign Economists is a compilation published in August 1971 by the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets the Forum had previously issued; the volume is explicitly marked 'not for sale' and circulated only to Forum members. In the rendered pages, the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black, addressing the case for free enterprise, the failings of central planning, the conditions for economic growth, foreign aid, the economic thinking of Keynes, and the place of India's private sector. The chunk contains the full text of Friedman's opening essay 'Myths That Keep People Hungry' (reprinted from Harper's Magazine, April 1967), which sets the polemical frame for the volume by contrasting countries where private markets organise economic life with those subject to detailed central planning, and the opening pages of B. A. Tarlton's 1968 Calcutta lecture 'Economic Democracy'.
+
+## Essays
+
+### Essay (toc 1)
+Drawing on a year-long journey with his wife through Eastern Europe, the Middle East and the Far East, Friedman lays out, in the rendered pages, the central contention that wherever private markets organise economic activity ordinary people enjoy material progress and personal freedom, and wherever the state controls economic life in detail the ordinary citizen becomes 'an instrument to be used for the state's purpose'. He walks the reader through a chain of comparisons — West and East Germany, ...
+
+- In the rendered pages Friedman organises the essay around a personal observation: wherever he found individual freedom and rising material welfare he also found private markets, and wherever central planning prevailed the ordinary man was 'in political fetters' and had a low standard of living.
+- He cites West Germany, Israel, Singapore, Malaya and post-Meiji Japan as cases of market-led progress, and contrasts them with East Germany, Egypt, Indonesia, post-Independence India, Yugoslavia and Russia.
+- A statistical anchor for the essay is that in the Soviet Union only 3 per cent of cultivated land is in private plots whose produce may be marketed privately, yet this 3 per cent produces one-third of total agricultural output.
+
+### Essay (toc 2)
+Tarlton, an economist with the Associated Chambers of Commerce and Industries in Calcutta, opens his 1968 lecture by taking stock of India's mood after two decades of planning. In the rendered pages he notes that the 'sunlit plateaus of prosperity' once promised by the politicians have given way to disillusion: average living standards have not significantly improved, unemployment and the foreign trade deficit have risen, and India, a net international creditor of over Rs. 700 crores at the star...
+
+- Tarlton frames the lecture against India's prevailing 'mood of doubt and pessimism' after two decades of central planning.
+- He marshals headline numbers in the rendered pages: India shifted from a net international creditor of over Rs. 700 crores in 1956 to a net debtor of over Rs. 5,000 crores by 1968 at the post-devaluation level.
+- He notes that the Planning Commission has been cut down in size and confined to advisory functions, while the Fourth Plan has been shelved for three years.
+
+
+---
+
+*Generated by the v1.5 extraction pipeline (2026-05-17). Awaiting editorial review.*
+

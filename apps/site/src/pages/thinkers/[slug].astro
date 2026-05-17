@@ -2,6 +2,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import RelatedSection from "~/components/RelatedSection.astro";
 
 export async function getStaticPaths() {
   const thinkers = await getCollection(
@@ -123,5 +124,7 @@ const bioSourceLabel = {
         )}
       </aside>
     )}
+
+    <RelatedSection collection="thinkers" slug={t.id} viewerLang={t.data.language} />
   </article>
 </BaseLayout>

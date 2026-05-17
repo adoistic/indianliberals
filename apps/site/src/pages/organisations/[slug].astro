@@ -8,6 +8,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import RelatedSection from "~/components/RelatedSection.astro";
 
 export async function getStaticPaths() {
   const orgs = await getCollection(
@@ -148,5 +149,7 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
         </ul>
       </aside>
     )}
+
+    <RelatedSection collection="organisations" slug={o.id} viewerLang={o.data.language} />
   </article>
 </BaseLayout>

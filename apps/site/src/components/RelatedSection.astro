@@ -1,0 +1,57 @@
+---
+// Render the TF-IDF "Related" section on a detail page.
+//
+// Reads from data/synthesis/cross-links.json via lib/cross-links.ts.
+// Renders as a labelled card list with a per-link collection chip and
+// the entry title. URL paths respect the viewer's language so users
+// stay in-locale where a translated sibling exists.
+//
+// Empty entries (no related items above the MIN_SCORE threshold) render
+// nothing — no awkward "No related items" placeholder.
+
+import { getCrossLinks, urlForCrossLink, COLLECTION_LABEL, type CrossLink } from "~/lib/cross-links";
+import type { LangCode } from "~/lib/i18n";
+
+interface Props {
+  collection: string;
+  slug: string;
+  viewerLang?: LangCode;
+  /** Optional heading override. Defaults to "Related across the archive". */
+  heading?: string;
+  /** Cap the number of items rendered. Defaults to 5 (matches the script's TOP_N). */
+  limit?: number;
+}
+
+const { collection, slug, viewerLang = "en", heading = "Related across the archive", limit = 5 } = Astro.props;
+const links: CrossLink[] = getCrossLinks(collection, slug).slice(0, limit);
+---
+
+{
+  links.length > 0 && (
+    <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)" data-pagefind-ignore>
+      <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+        {heading}
+      </h2>
+      <ul class="grid sm:grid-cols-2 gap-3">
+        {links.map((link) => {
+          const label = COLLECTION_LABEL[link.collection] ?? link.collection;
+          return (
+            <li>
+              <a
+                href={urlForCrossLink(link, viewerLang)}
+                class="block p-3 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-colors group"
+              >
+                <span class="inline-block text-[10px] uppercase tracking-wider px-1.5 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded mr-2 text-(--color-fg-muted)">
+                  {label}
+                </span>
+                <span class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-sm">
+                  {link.title}
+                </span>
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  )
+}

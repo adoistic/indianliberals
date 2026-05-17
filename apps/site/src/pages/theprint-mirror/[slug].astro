@@ -2,6 +2,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { hreflangAlternates } from "~/lib/i18n";
+import RelatedSection from "~/components/RelatedSection.astro";
 
 export async function getStaticPaths() {
   // ThePrint mirror is mostly English — but we still pass language for SEO.
@@ -54,5 +55,7 @@ const hreflang = hreflangAlternates(
         Mirrored here for AI-agent readability. The canonical version is on ThePrint and retains all SEO weight; this page is set to <code>noindex</code>.
       </p>
     </footer>
+
+    <RelatedSection collection="theprint-mirror" slug={p.id} viewerLang={p.data.language} />
   </article>
 </BaseLayout>

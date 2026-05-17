@@ -336,6 +336,12 @@ def emit_primary_work(slug: str) -> Path | None:
             "scan_quality": "unknown",
         },
         "rights": {
+            # Schema requires `status` (enum); the legacy `license`/`license_url`/
+            # `rights_statement` keys are preserved for backwards compat but the
+            # Zod gate is on `status`. takedown_on_request is the conservative
+            # default for in-copyright works hosted under archival access;
+            # editorial can re-classify per-work in Sveltia later.
+            "status": "takedown_on_request",
             "license": "in-copyright",
             "license_url": None,
             "rights_statement": "Rights held by original publishers / Centre for Civil Society; reproduced for archival access.",
