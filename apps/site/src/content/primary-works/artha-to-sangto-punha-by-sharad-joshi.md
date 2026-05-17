@@ -25,30 +25,16 @@ translation_status: "original"
 needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/artha-to-sagto-punha-sharad-joshi.pdf"
+needs_extraction: true
 ---
 
----
+_Awaiting LLM extraction._
 
-## Original text (Marathi)
+This entry was imported from the legacy WordPress database. Metadata is
+preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
+metadata pass + summarization pass + synthesis layer). See the
+[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
+for the extraction architecture.
 
-The text below was extracted by OCR from the original Marathi PDF scan. Quality is mixed — refer to the PDF for the authoritative scan.
-
-### Page 3
-
-7 11 !!!!- m m -33- 3ef~it~ lmd-?ft Artha to sangato punha I Sharad Joslli
-
-### Page 32
-
-m@a@T-rnwm&**m ri;mhit%Ff@m*m m, "mmawm- ~,~~~~ss?mm,~~ qmir;rara-*mfssm.** m-mh4mmm. v- '~3-&3w~,*mm~~-m fl m. 'Eat what and can what &rnmm~mAd. md -, mi~~~a@Tmmmhmmr a*-m(M)md& fll=4l~l~W mm !-,dm ~~mdd.&~STfmrn3amm~m ~4~~~~mrrr;it~~md.md d.
-
-### Page 79
-
-3m-8 M. $- ~~XFITT rma rn TTRT R~OGS~~ f-miin*mlq,=4Tm-*d,* *)mmm~%*m-.w, ~gmmm.mmm.m- ~*~iitmm&r.~m)m ~m*m~mm- TK (commodity Transaction ax) mmmh. m*~m*m*q*k*. *a;fsita~io.~~~~Idr'~~ mmxmR*~*m-- EmTTm~~mrn~d-
-
-### Page 84
-
-,vice Tax m*
-
-### Page 90
-
-IT (Incentive) &mq 3Ilmqym-l *m T[T.
+Until extraction runs, please refer to the staging PDF
+(`pdf_staging_path` in the frontmatter).

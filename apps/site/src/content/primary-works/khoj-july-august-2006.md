@@ -23,12 +23,16 @@ translation_status: "original"
 needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-august-2006.pdf"
+needs_extraction: true
 ---
 
----
+_Awaiting LLM extraction._
 
-## Original text (Gujarati)
+This entry was imported from the legacy WordPress database. Metadata is
+preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
+metadata pass + summarization pass + synthesis layer). See the
+[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
+for the extraction architecture.
 
-The text below was extracted by OCR from the original Gujarati PDF scan. Errors may remain — refer to the PDF for the authoritative scan.
-
-_No OCR text in source database for this work._
+Until extraction runs, please refer to the staging PDF
+(`pdf_staging_path` in the frontmatter).

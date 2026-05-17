@@ -25,14 +25,16 @@ translation_status: "original"
 needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/swatantrabh-ka-nasle-sharad-joshi.pdf"
+needs_extraction: true
 ---
 
----
+_Awaiting LLM extraction._
 
-## Original text (Marathi)
+This entry was imported from the legacy WordPress database. Metadata is
+preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
+metadata pass + summarization pass + synthesis layer). See the
+[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
+for the extraction architecture.
 
-The text below was extracted by OCR from the original Marathi PDF scan. Quality is mixed — refer to the PDF for the authoritative scan.
-
-### Page 11
-
-$kd?hT ~*i '-? -Mm,mm?mf&-md 3~~3 J~JG di aim. 3~~:m imc m it mi%q &&; I rrciftrc--8mJri***Mw M. *i*rnJri*~rn~M, ~??kd,FTTh,!4&~%3fi*m* 23~~3. ~i~km~m~3~&m& I & 31imrfi p mft. *, (4 3k 19ve =TI ~'64 i r wld'4l44[~ &&~E!TY*, m&3&&q$(q& axFiR,&a&TM3*. 8sRoff~3*Z~ss3T$. ?3limix+mE!T& ~%qwwdm&,~3~~A3mFSfrnM. srTR$Mm-m$*w? ** -2 n n'
+Until extraction runs, please refer to the staging PDF
+(`pdf_staging_path` in the frontmatter).

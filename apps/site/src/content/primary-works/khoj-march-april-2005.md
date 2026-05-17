@@ -23,18 +23,16 @@ translation_status: "original"
 needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
+needs_extraction: true
 ---
 
----
+_Awaiting LLM extraction._
 
-## Original text (Gujarati)
+This entry was imported from the legacy WordPress database. Metadata is
+preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
+metadata pass + summarization pass + synthesis layer). See the
+[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
+for the extraction architecture.
 
-**Warning:** the OCR text below was extracted from a font-encoded Gujarati PDF scan with an English-only OCR pipeline. The text is largely corrupted and should not be used for citation or reading. Refer to the original PDF for the authoritative scan. A future engagement will re-run OCR with a script-aware pipeline.
-
-### Page 51
-
-Man is the measu re of all things. - P rotagoras
-
-### Page 52
-
-W here the mind is without fear and the head is held high; W here knowledge is free; W here the world has not been broken up into fragments of domestic walls; here the clear stream of reason has not lost its way into the dreary desert sand of dead habit; W here the mind is led forward by T hee into ever-widening thought and action  into that heaven of freedom, my Father, let my country awake. - Rabindranath Tagore - Gitanjali
+Until extraction runs, please refer to the staging PDF
+(`pdf_staging_path` in the frontmatter).

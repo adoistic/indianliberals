@@ -25,18 +25,16 @@ translation_status: "original"
 needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/madhyatil-angar-sharad-joshi.pdf"
+needs_extraction: true
 ---
 
----
+_Awaiting LLM extraction._
 
-## Original text (Marathi)
+This entry was imported from the legacy WordPress database. Metadata is
+preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
+metadata pass + summarization pass + synthesis layer). See the
+[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
+for the extraction architecture.
 
-**Warning:** the OCR text below was extracted from a font-encoded Marathi PDF scan with an English-only OCR pipeline. The text is largely corrupted and should not be used for citation or reading. Refer to the original PDF for the authoritative scan. A future engagement will re-run OCR with a script-aware pipeline.
-
-### Page 3
-
--3klmWh Malyatll Angar 1 lndrajit Bhalerao m9m *xm- fhF3, ?tc'd-TFEfTR, 3ibmnG - 839 009. (0780) ?$89008 hall (anshdkti wdchaktdgma~l corn mprrg;m*m* mm- fa. vi.
-
-### Page 34
-
-?$hl@Td. ('im7 m.)
+Until extraction runs, please refer to the staging PDF
+(`pdf_staging_path` in the frontmatter).

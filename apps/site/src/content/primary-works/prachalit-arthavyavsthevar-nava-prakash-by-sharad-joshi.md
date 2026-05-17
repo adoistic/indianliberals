@@ -25,26 +25,16 @@ translation_status: "original"
 needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/prachalit-arthavyavsthevar-nava-prakash-sharad-joshi.pdf"
+needs_extraction: true
 ---
 
----
+_Awaiting LLM extraction._
 
-## Original text (Marathi)
+This entry was imported from the legacy WordPress database. Metadata is
+preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
+metadata pass + summarization pass + synthesis layer). See the
+[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
+for the extraction architecture.
 
-The text below was extracted by OCR from the original Marathi PDF scan. Quality is mixed — refer to the PDF for the authoritative scan.
-
-### Page 3
-
-smm-mm I ?TG.JitsA- Prachalit Arthvyavasthevar Nava Prakash by Sharad Joshi
-
-### Page 23
-
-~*CQ*WM*-~ qmN-rqrm"jR~*m*.~M (Terms of reference) 3- Jrrdm fhvibft ~~~.~:rn~~~aif?m~;1~~
-
-### Page 46
-
-0: m: n O. om'?^ -9ararorarm ? ?1? O. O.w In9ov*w2 I IUWJ-M~J' n 0. " I sQ,?rn?? I ~rrororQ~M3- " DT" n;.y4'?1 ?52ar,mmo
-
-### Page 55
-
-?:mm,~,~*-*-m- ?:a. 3%3i?-srffcYrm,p9'6 7:STT$PTdh~~1@&*~~~*1frma* ~~m?~-rn*~,~?o u:~~-m~ V?oP 4 : $&WT *- ma, p 99; ? The shikh- khushwant, vol.1
+Until extraction runs, please refer to the staging PDF
+(`pdf_staging_path` in the frontmatter).
