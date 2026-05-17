@@ -155,7 +155,9 @@ def parse_response(
     Take the text the Agent returned, parse it, return a DispatchResponse.
 
     For JSON responses, strips common markdown-fence wrappers ('```json ... ```')
-    before parsing.
+    before parsing. If the response has a prose preamble before the JSON
+    (a protocol violation, but tolerable), find the first '{' that opens a
+    valid balanced JSON object and parse from there.
     """
     raw_text = raw_text.strip()
 
@@ -174,6 +176,7 @@ def parse_response(
     # JSON mode: strip markdown fences if present
     cleaned = _strip_markdown_fence(raw_text)
 
+    # Try strict parse first
     parsed: dict | None = None
     error: str | None = None
     try:
@@ -181,19 +184,66 @@ def parse_response(
         if not isinstance(parsed, dict):
             error = f"Expected JSON object, got {type(parsed).__name__}"
             parsed = None
-    except json.JSONDecodeError as e:
-        error = f"JSON parse failed: {e}"
+    except json.JSONDecodeError:
+        # Tolerant path: find a balanced { ... } block in the text and try that
+        parsed, error = _extract_balanced_json(cleaned)
+        if parsed is not None:
+            error = (error or "") + " (recovered via tolerant JSON extraction)"
 
     return DispatchResponse(
-        ok=error is None,
+        ok=parsed is not None,
         parsed_json=parsed,
         raw_text=raw_text,
         input_tokens=None,
         output_tokens=None,
         cost_usd=None,  # Max plan, no per-call cost
         wall_clock_s=wall_clock_s,
-        error=error,
+        error=error if parsed is None else (error if error else None),
     )
+
+
+def _extract_balanced_json(text: str) -> tuple[dict | None, str | None]:
+    """
+    Scan `text` for the first balanced `{...}` block that parses as a JSON
+    object. Used as a fallback when the response has a prose preamble.
+
+    Returns (parsed_dict, None) on success, or (None, error_message) on failure.
+    """
+    # Find every '{' that could start a JSON object, try each one
+    for start in range(len(text)):
+        if text[start] != "{":
+            continue
+        # Scan forward tracking brace depth, respecting strings + escapes
+        depth = 0
+        in_str = False
+        escape = False
+        for i in range(start, len(text)):
+            c = text[i]
+            if escape:
+                escape = False
+                continue
+            if c == "\\" and in_str:
+                escape = True
+                continue
+            if c == '"':
+                in_str = not in_str
+                continue
+            if in_str:
+                continue
+            if c == "{":
+                depth += 1
+            elif c == "}":
+                depth -= 1
+                if depth == 0:
+                    candidate = text[start : i + 1]
+                    try:
+                        result = json.loads(candidate)
+                        if isinstance(result, dict):
+                            return result, None
+                    except json.JSONDecodeError:
+                        pass  # try next opening brace
+                    break
+    return None, "no balanced JSON object found in response"
 
 
 # ---------------------------------------------------------------------------

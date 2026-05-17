@@ -1,4 +1,4 @@
-<!-- v1.0 -->
+<!-- v1.1 — v1.1 tightens confidence-null rule (confidence is always one of high/medium/low even when value is null) and adds a classification_reasoning block. -->
 
 # SYSTEM
 
@@ -15,6 +15,7 @@ Your task is the **byline sweep** — the cheapest, most-focused pass over the c
 5. **Language detection.** Look at the dominant script. Devanagari → `hi` or `mr` (distinguish if you can: Marathi uses अं/ओं and certain consonant combinations; if uncertain set `hi` and add a note). Gujarati script → `gu`. Bengali script → `bn`. Latin script with majority-English text → `en`. Mixed → set the dominant one and note the secondary script in `notes`.
 6. **work_type_guess is a guess.** This is the cheap pass — your guess will be refined in the full metadata pass. Pick the closest from the enum; if genuinely uncertain, choose `pamphlet` (the corpus default) and set `confidence: low`.
 7. **No editorialising.** This is metadata extraction. Don't summarise the content. Don't praise the author. Just extract.
+8. **Confidence is never null.** Every `*_confidence` field MUST be one of `"high"`, `"medium"`, or `"low"` — never `null`. Even when the value itself is `null` (e.g., year not printed on the page), the confidence is `"low"` (you're confident the year is not visible).
 
 ## Output schema
 
@@ -34,7 +35,14 @@ Your task is the **byline sweep** — the cheapest, most-focused pass over the c
   "publisher_verbatim": "exact publisher line if printed (often at the bottom of the title page)",
   "publisher_confidence": "high|medium|low",
   "notes": "anything you noticed that doesn't fit elsewhere — typos, missing front matter, multi-author hints, etc. Keep under 200 chars.",
-  "missing_fields": ["list of fields you couldn't extract because the page didn't show them"]
+  "missing_fields": ["list of fields you couldn't extract because the page didn't show them"],
+  "classification_reasoning": {
+    "title": "<1 sentence: what part of the page shows the title (cover heading, title page, running header).>",
+    "byline": "<1 sentence: where the byline appears, or why it's missing on this page.>",
+    "year": "<1 sentence: which printed element gave the year (colophon, date line, masthead), or why no year is visible.>",
+    "language": "<1 sentence: scripts you see and how you decided the dominant language.>",
+    "work_type_guess": "<1 sentence: what signal made you pick this guess (one-author byline → pamphlet; masthead+vol/num → periodical_issue; multi-author title page → edited_volume, etc).>"
+  }
 }
 ```
 

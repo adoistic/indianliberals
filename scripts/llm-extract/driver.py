@@ -36,6 +36,7 @@ from dispatcher import (                # noqa: E402
     parse_response,
 )
 from ledger import LedgerEntry, append as ledger_append, _now_utc  # noqa: E402
+from validator import validate_metadata  # noqa: E402
 
 REPO = Path(__file__).resolve().parents[2]
 PDF_ROOT = Path("/Volumes/One Touch/Indian Liberals/PDFs-by-publisher")
@@ -303,8 +304,19 @@ def cmd_collect(args) -> None:
     out_path = out_dir / f"{args.job}{run_suffix}.json"
 
     if resp.ok and resp.parsed_json is not None:
-        out_path.write_text(json.dumps(resp.parsed_json, indent=2, ensure_ascii=False), encoding="utf-8")
-        status = "ok"
+        # Apply post-extraction validator (force-null bad enum values + unknown
+        # thinker_ids, fix confidence nulls, stamp _validator audit block).
+        # Only meaningful for metadata + summary jobs; byline-sweep doesn't
+        # carry the enum/thinker fields that the validator polices.
+        if args.job in {"metadata.a", "metadata.b", "tiebreak", "summary"}:
+            validated = validate_metadata(resp.parsed_json)
+            out_path.write_text(json.dumps(validated, indent=2, ensure_ascii=False), encoding="utf-8")
+            v = validated.get("_validator", {})
+            corr = v.get("corrections", [])
+            status = "ok" + (f" ({len(corr)} validator corrections)" if corr else "")
+        else:
+            out_path.write_text(json.dumps(resp.parsed_json, indent=2, ensure_ascii=False), encoding="utf-8")
+            status = "ok"
     else:
         out_path.write_text(raw_text, encoding="utf-8")
         status = f"parse_error: {resp.error}"

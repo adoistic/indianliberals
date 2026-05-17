@@ -112,7 +112,11 @@ def rasterize_chunk(
 
         # Convert 1-indexed start_page to 0-indexed
         start_idx = max(0, start_page - 1)
-        max_render = int(pages_wanted * max_extra_factor)
+        # Minimum render budget of pages_wanted + 4. This handles the small-N
+        # case where pages_wanted * max_extra_factor would otherwise give us
+        # zero or one extra slot — e.g., pages_wanted=1 needs to find at least
+        # one non-blank page even on PDFs with several leading blank versos.
+        max_render = max(int(pages_wanted * max_extra_factor), pages_wanted + 4)
 
         pages_rendered = 0   # how many pages we have rendered (blank + non-blank)
         truncated = False
