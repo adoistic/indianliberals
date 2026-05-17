@@ -1,28 +1,29 @@
 ---
 id: "government-and-society-in-free-commonwealth"
 title: "Government and Society in a Free and Prosperous Commonwealth"
-pubDate: "2023-04-19T00:00:00Z"
+pubDate: "2023-04-19T16:24:19Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/government-and-society-in-free-commonwealth/) on 2026-05-17. Needs editorial review._
+_The excerpt below is from the publication “Natural Order: Essays Exploring Civil Government & The Rule of Law”, authored by Sauvik Chakraverti. _
 
-The excerpt below is from the publication “Natural Order: Essays Exploring Civil Government & The Rule of Law”, authored by Sauvik Chakraverti.
+_The collection of essays explores the concepts of civil government and the rule of law from a philosophical perspective. The book discusses the nature of political power, the role of the state, and the relationship between the individual and society. Throughout the book, Chakraverti engages with classical liberal thinkers such as John Locke and Adam Smith and contemporary political philosophers such as Amartya Sen and Martha Nussbaum. He also draws on examples from history and current events to illustrate his arguments._
 
-The collection of essays explores the concepts of civil government and the rule of law from a philosophical perspective. The book discusses the nature of political power, the role of the state, and the relationship between the individual and society. Throughout the book, Chakraverti engages with classical liberal thinkers such as John Locke and Adam Smith and contemporary political philosophers such as Amartya Sen and Martha Nussbaum. He also draws on examples from history and current events to illustrate his arguments.
+_Sauvik Chakraverti was an Indian columnist and author. He wrote extensively on politics, economics, and culture, and his writings often focused on promoting classical liberal ideas and regularly contributed to several Indian newspapers and magazines, including Livemint._
 
-Sauvik Chakraverti was an Indian columnist and author. He wrote extensively on politics, economics, and culture, and his writings often focused on promoting classical liberal ideas and regularly contributed to several Indian newspapers and magazines, including Livemint.
+_You can read the original, unabridged version [here](https://indianliberals.in/wp-content/uploads/2023/04/natural-order-essays-exploring-civil-government-and-the-rule-of-law.pdf)._
 
-You can read the original, unabridged version here.
+
 
 A free and prosperous commonwealth does not depend for its motive force on any great political leader. On the contrary, the varying degrees of success that different commonwealths achieve rely entirely on the people, their entrepreneurial abilities, their knowledge, and any other advantages they may possess. Such a society is people-driven. The government is on standby to act against those who break the law and nothing else. This, too, at the local level.
 
 The word ‘commonwealth’ originates in the ancient term ‘common weal’, which meant ‘common benefit’ or, as it was later called, ‘common profit of the realm.’ The word ‘commonwealth’ means collective decision-making not guided by particular interests. This ‘impartiality’ to special interests has remained the highest ‘value’ of law and government, including civil service. This value was often expressed as ‘an empire of laws and not of men.’ Under such a government and legal system, what matters is ‘how the competition was carried out, not its result.’ The ‘common interest’ of the people comprising a ‘body politic’ thus lay in uniformly applicable laws binding upon all.
 
-In English history, the word ‘commonwealth’ is used to describe the Republic government of Oliver Cromwell that ruled between 1649 (the execution of Charles I) and 1660 (the death of Cromwell and the restoration of the monarchy). Cromwell did not accept teh title of king- “We have mot cut off this king’s head in order to steal his crown!”– and was known simply as “Lord Protector of the Commonwealth.” The word ‘commonwealth’ has all but disappeared from modern political discourse; my modern dictionary of political ideas does not contain the word. This is not surprising when interest group politics has become the norm almost everywhere. Mancur Olson’s The Rise and Fall of Nations analyses this trend and warns of its serious consequences.
+In English history, the word ‘commonwealth’ is used to describe the Republic government of Oliver Cromwell that ruled between 1649 (the execution of Charles I) and 1660 (the death of Cromwell and the restoration of the monarchy). Cromwell did not accept teh title of king- “We have mot cut off this king’s head in order to steal his crown!”-- and was known simply as “Lord Protector of the Commonwealth.” The word ‘commonwealth’ has all but disappeared from modern political discourse; my modern dictionary of political ideas does not contain the word. This is not surprising when interest group politics has become the norm almost everywhere. Mancur Olson’s _The Rise and Fall of Nations_ analyses this trend and warns of its serious consequences.
 
 DESTRUCTION OF THE COMMONWEALTH IN MODERN INDIA
 
@@ -42,7 +43,7 @@ When the government gives up vast amounts of revenue by imposing tariff walls th
 
 Poor citizen! Condemned to ferrying the wife and kids on a motorcycle; Condemned to hauling the wife and kids on a bike; condemned to the uncomfortable autorickshaw when in need of public transport; condemned to the harsh grogs of IMFL, and condemned to cough up the revenues thereby sacrificed to restore the public treasury! How far removed indeed from the idea of ‘commonwealth’?
 
-The socialist Indian state is always a predator of the people because it has no principles and always acts according to expediency. In an earlier age, especially in politics, a man without principles would be disgraced. Still, in the chalta hai (it’s okay) times we live in, expediency is considered clever and intelligent, while principled people are considered ‘idealistic’, ‘utopian’ or, worse still, ‘theoretical’. However, the absence of principles in our opponents is ultimately derived from a complete lack of understanding of society, economics and politics– and such a level of ignorance can only spell doom. In the long run, I am confident principles must prevail.
+The socialist Indian state is always a predator of the people because it has no principles and always acts according to expediency. In an earlier age, especially in politics, a man without principles would be disgraced. Still, in the _chalta hai_ (it’s okay) times we live in, expediency is considered clever and intelligent, while principled people are considered ‘idealistic’, ‘utopian’ or, worse still, ‘theoretical’. However, the absence of principles in our opponents is ultimately derived from a complete lack of understanding of society, economics and politics– and such a level of ignorance can only spell doom. In the long run, I am confident principles must prevail.
 
 Enough of this government! Socialists and protectionists have converted the ‘ship of state’ into a ‘pirate ship’. For the common profit of the realm, a new ‘merchant ship’ must be built. Let us, therefore, turn away from government and consider how free commerce can significantly improve the wealth of every ordinary Indian, thereby augmenting the ‘commonwealth’ via what Adam Smith called the ‘invisible hand’.
 
@@ -55,3 +56,9 @@ Frederic Bastiat, a great free trader who Richard Cobden and the Masnchesterites
 Therefore, the antics of India’s minister of foreign trade, Kamal Nath, who walked out of the WTO ministerial in Hong Kong–and who is consequently a protectionist at heart as well as in practice–must be viewed as opposed to the expected profit of the realm: in other words, he is, strictly speaking, an ‘anti-national’. But do we need WTO to trade with foreigners? According to our principle, the government is subsidiary to the natural order that extends beyond our shores. For example, when we order books or music from Amazon.com with our credit cards and receive them without the assistance of any government. Does the freedom to trade with foreigners need our government to meet with other governments to ‘negotiate’ terms? Can we not negotiate terms with our foreign buyers and suppliers much better as free individuals?
 
 The best way to investigate foreign trade is, once again, through individualism. Individuals trade, not nations. When individuals trade, reciprocity is meaningless. I do not buy a Nokia phone because the Nokia manager dines in my restaurant regularly. Indeed, I can jolly well buy a Motorola phone and not offend my customer. It is not a ‘just expectation’ that those who believe in you should demand that you buy from them. In the market, there is ‘continuous competition’. The act of buying and the act of selling are two separate acts to which different forces of competition apply. Since reciprocity is meaningless when individuals trade, it must be utterly devoid of all meaning when applied to nations. We do not need the WTO: we must declare free trade unilaterally. If revenue is what the government needs –which is not the situation today, when income is being sacrificed for particular interests – then the customs department can stay, but a flat rate, extremely low revenue tariff should be imposed. Revenues will soar, other taxes can be slashed, and competition will be free and fair because relative prices will be unaffected. I once lectured to a group of students in Panjim, Goa, and the lecture hall on the rooftop overlooking the Arabian Sea. I pointed to the blue waters and asked my class: Suppose you want a car. Will you get it from this direction? Or, I continued, pointing towards the land, from the other side, where Poona lies and where the Bajaj types live? After hesitating, my class said they wanted to get their cars via the sea route. It is a symptom of the absence of principles in the thinking of our rulers that overland trade routes between India and China are being opened in Sikkim and Arunachal Pradesh while the 2000-mile-long coastline is 364 not being opened up to free international trade. When principles do not guide action, nothing makes sense. Madmen or idiots might as well rule us.
+
+_Previous musing: [Dr B R Ambedkar on Village Panchayats](https://indianliberals.in/content/dr-br-ambedkar-on-village-panchayats/)_
+
+---
+
+_Sourced from the WordPress database export (post ID 8022, https://indianliberals.in/content/dr-b-r-ambedkar-on-village-panchayats/). Needs editorial review._

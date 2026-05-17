@@ -1,18 +1,16 @@
 ---
 id: "libertarian-mission"
 title: "The Mission of Libertarianism"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T09:12:57Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/libertarian-mission/) on 2026-05-17. Needs editorial review._
-
 Libertarians call for a greater simplification of institutions, a reform in the use of property and a return to the limited role of the State in social life so that the submerged individual may be released for a new career of purposeful, healthy activity in which science and the other achievements of the modern spirit may be used more wholesomely to help men and women to fulfil themselves in pursuits within their reach and power of assimilation.
-
-The following article, written by M A Venkata Rao first appeared in the October 1958 issue of The Indian Libertarian magazine.
+_The following article, written by M A Venkata Rao first appeared in the [October 1958 issue](http://indianliberals.in/~_admin/pdflanguage?id=877412702.pdf) of [The Indian Libertarian](http://indianliberals.in/periodicals-details?id=28)magazine._
 
 In Europe and America, a branch of the Enlightenment school of thought that prepared for and preceded the French Revolution developed a strand of socialism. While the central stream of inspiration released by the Revolution guided thought and reconstruction into channels of national democracy under the lead of the new commercial and industrial classes (whom Karl Marx called the bourgeoisie) side streams of what may be roughly called “socialist thought” sprung up seeking to mould social institutions including property and State on equality and fraternity rather than on liberty. The liberal democratic State evolved all over the continent and in North America on the basis of individualism which in the realm of economics assumed the shape of capitalism.
 
@@ -44,7 +42,7 @@ If these principles are intelligently followed, it is urged, the State and socie
 
 The central stream of thought in advanced democratic countries like the USA is that of liberal democracy formulated in the early and middle periods of the nineteenth century. Today technological industry, the growth of population and the advance of communication media-radio, newspapers, wireless, aeroplane for passenger and goods traffic etc. have all conspired to confer more and more powers on the State to regulate the myriads of new inter-relations among citizens. Organisation has tended to become ever more complex and interwoven. Hence the feeling of inevitability in regard to the growing tendency towards collectivism and the expansion of State power.
 
-Collectivism has become the illusion of the epoch today in which the rights and duties of the individual citizen as a self-determining and self-realising person are lost to view. Individuals and small groups feel lost in the vast agglomerations of large nation-States. Even small States feel a prey to massive influences and pressures impinging into their life from outside.
+Collectivism has become the _illusion of the epoch_ today in which the rights and duties of the individual citizen as a self-determining and self-realising person are lost to view. Individuals and small groups feel lost in the vast agglomerations of large nation-States. Even small States feel a prey to massive influences and pressures impinging into their life from outside.
 
 The wheel has come full circle. The individualist philosophy of John Stuart Mill and his followers which guided liberal democracy is today eclipsed by the communist collectivism of Karl Marx, particularly in respect of economy. Adam Smith and Mill are both put into the shade. They have become “Gods that failed”.
 
@@ -60,10 +58,14 @@ The libertarians are also interested in education. They are exploring the avenue
 
 Freedom in economic and political life has to be supported by a new psychology of cooperative and creative living. fostered in creative education inspired by a vision of human unity and human progress in free and joyous fellowship.
 
-If a gradually increasing elite imbued with these ideals could be developed through discussion, propaganda and group life, the collectivist illusion of the epoch could be made to melt and a better day of happy, free, cooperative humanity can be ushered in by and by. This is the aim of the Libertarian Social Institute.
+If a gradually increasing _elite_ imbued with these ideals could be developed through discussion, propaganda and group life, the collectivist _illusion of the epoch_ could be made to melt and a better day of happy, free, cooperative humanity can be ushered in by and by. This is the aim of the Libertarian Social Institute.
 
-The original document can be accessed here.
+_The original document can be accessed [here](http://indianliberals.in/~_admin/pdflanguage?id=877412702.pdf)._
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+_[IndianLiberals.in](http://indianliberals.in/index)is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-Read More SO Musings
+[Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
+
+---
+
+_Sourced from the WordPress database export (post ID 2295, http://localhost/IL/content/so-musings-agricultural-policy-of-swatantra-party/). Needs editorial review._

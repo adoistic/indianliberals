@@ -261,7 +261,10 @@ const primaryWorks = defineCollection({
     ai_summary: z.string().optional(),
     ai_key_points: z.array(z.string()).default([]),
     ai: aiProvenance,
-    pdf_url: z.string().url(),
+    // PDF is hosted on R2 in production. May be null pre-R2-deployment;
+    // the staging_pdf_path points to the file on the curator's external drive.
+    pdf_url: z.string().url().optional(),
+    pdf_staging_path: z.string().optional(),
     pdf_size_mb: z.number().optional(),
     // Tier promotion hooks (empty in v1, populated when paragraph-stable IDs land)
     paragraph_ids: z.array(z.string()).default([]),
@@ -299,7 +302,6 @@ const periodicals = defineCollection({
       date: z.coerce.date().optional(),
       label: z.string().optional(),
     }),
-    language: z.string().default('en'),
     themes: z.array(z.string()).default([]),
     ai_summary: z.string().optional(),
     ai_key_points: z.array(z.string()).default([]),

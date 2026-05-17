@@ -1,14 +1,13 @@
 ---
 id: "gold-problem-india"
 title: "The Gold Problem in India"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T09:25:27Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
-
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/gold-problem-india/) on 2026-05-17. Needs editorial review._
 
 The gold problem in India, if there is such a problem at all, has been the subject of intensive public debate and discussion in recent days.
 
@@ -18,18 +17,22 @@ The authors of the booklet are: Prof. B. R. Shenoy, Director of the School of So
 
 The booklet examines the Gold Problem under four principal heads:
 
-What is the Gold Problem?
+- What is the Gold Problem?
 
-How and when did it arise?
+- How and when did it arise?
 
-What measures have we adopted to tackle it and with what success?
+- What measures have we adopted to tackle it and with what success?
 
-If these measures have not been successful, what alternative measures could we adopt?
+- If these measures have not been successful, what alternative measures could we adopt?
 
-Access the full document here.
+_Access the full document[here](http://v2.indianliberals.in/~_admin/pdflanguage?id=1750398613.pdf)._
 
-First Published in the Forum of Free Enterprise in July 1963.
+_First Published in the Forum of Free Enterprise in July 1963._
 
-Other editions of the publication can be accessed at Indian Liberals, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
+_Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
-Read More SO Musings
+[Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
+
+---
+
+_Sourced from the WordPress database export (post ID 2315, http://localhost/IL/content/so-musings-has-private-enterprise-failed/). Needs editorial review._

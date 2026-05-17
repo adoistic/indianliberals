@@ -1,24 +1,22 @@
 ---
 id: "the-perils-of-state-support"
 title: "The Perils of State Support"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T07:12:42Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/the-perils-of-state-support/) on 2026-05-17. Needs editorial review._
+Plato the first philosopher-statesman had no compunction in accepting the fact that it was the business of the rulers to lie. In the Republic Plato wrote: "it is the business of the rulers of the city if it is anybody's business to tell lies, deceiving both its enemies and its own citizens for the benefit of the city." He urges that these are useful only as medicine, but the ruler of the state must not behave like some of those ordinary doctors who have no courage to administer strong medicines. He must be a more courageous man since he must be determined to administer a great many lies and deceptions - of course for the benefit of the ruled. In this sense, all modern rulers and politicians are 'Platonists.'
+_Public intellectuals and institutions like think-tanks essentially dabble in ideas, both to explain the world and help change it. The mechanism of the entrenched power, if exclusionary,  often poses an obstacle to widespread prosperity and human flourishing. Intellectuals, in this regard, uncover the operation of power and end up speaking truth to power. Liberals, in particular, tend to be wary of power exercised by the state, given its legitimate monopoly over violence._
 
-Plato the first philosopher-statesman had no compunction in accepting the fact that it was the business of the rulers to lie. In the Republic Plato wrote: “it is the business of the rulers of the city if it is anybody’s business to tell lies, deceiving both its enemies and its own citizens for the benefit of the city.” He urges that these are useful only as medicine, but the ruler of the state must not behave like some of those ordinary doctors who have no courage to administer strong medicines. He must be a more courageous man since he must be determined to administer a great many lies and deceptions – of course for the benefit of the ruled. In this sense, all modern rulers and politicians are ‘Platonists.’
+_How should then the liberals see the relation between intellectuals and the state? In a 1986 article published in Freedom First, the prolific Marathi editor Govind Talwalkar provides an answer. For him, the pursuit of political power and intellectual endeavours are fundamentally contradictory undertakings. The former involves lying as business as explained by Plato while the latter is concerned with telling the truth and also beauty in case of literature. As such, intellectual morality ought to turn into a project of uncovering state oppression. _
 
-Public intellectuals and institutions like think-tanks essentially dabble in ideas, both to explain the world and help change it. The mechanism of the entrenched power, if exclusionary,  often poses an obstacle to widespread prosperity and human flourishing. Intellectuals, in this regard, uncover the operation of power and end up speaking truth to power. Liberals, in particular, tend to be wary of power exercised by the state, given its legitimate monopoly over violence.
+_Talwaklar further argues against the state patronage of intellectual and creative undertakings, for it breeds inefficiency and makes intellectuals subservient to the state. Additionally, Talwalkar warns against the tendency of intellectuals to man the state-funded institutions only to perpetuate mediocrity and nepotism. The public universities and government-funded research institutions in India are the prime examples of ideological capturing, enabled by state control of funding and appointments. The implication of Talwalkar’s writing couldn’t be more explicit: intellectual enterprises would do well to maintain distance from state patronage and to keep speaking truth to power._
 
-How should then the liberals see the relation between intellectuals and the state? In a 1986 article published in Freedom First, the prolific Marathi editor Govind Talwalkar provides an answer. For him, the pursuit of political power and intellectual endeavours are fundamentally contradictory undertakings. The former involves lying as business as explained by Plato while the latter is concerned with telling the truth and also beauty in case of literature. As such, intellectual morality ought to turn into a project of uncovering state oppression.
-
-Talwaklar further argues against the state patronage of intellectual and creative undertakings, for it breeds inefficiency and makes intellectuals subservient to the state. Additionally, Talwalkar warns against the tendency of intellectuals to man the state-funded institutions only to perpetuate mediocrity and nepotism. The public universities and government-funded research institutions in India are the prime examples of ideological capturing, enabled by state control of funding and appointments. The implication of Talwalkar’s writing couldn’t be more explicit: intellectual enterprises would do well to maintain distance from state patronage and to keep speaking truth to power.
-
-Produced below is an extract from the article.
+_Produced below is an extract from the article._
 
 The modern state is all pervasive and the world of letters cannot function completely independent of it. But the role of the state and that of letters is contradictory if not in conflict with each other. Ideological states pledge themselves to control all aspects of human activity. Fired by a certain philosophy, they want to build an utopia and, what is worse, they concentrate excessive power and build a closed society.
 
@@ -32,8 +30,12 @@ If it is the business of the ruler to lie, it is the business of the writers to 
 
 However, it is not my contention that in a democratic society the world of letters should all the while be at loggerheads with the state. lt never is. Insolence of power must be resented but at the same time the arrogance of the intellect should not be tolerated. We have also to guard against hypocrisy and intellectual dishonesty. Everyone loves flattery, the difference is only one of degree. Writers and artists are easy victims. Even though writers and intellectuals are zealous about their freedom many of them crave for recognition from the powers that be.
 
-The full text can be accessed here (page 13).
+_The full text can be accessed _[_here_](http://www.freedomfirst.in/uploads/issues/pdf/391.pdf)_ (page 13). _
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+[_IndianLiberals.in_](http://indianliberals.in/)_ is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-Read more: Connected Histories of Rammohan Roy’s Liberalism
+Read more: [Connected Histories of Rammohan Roy’s Liberalism](https://spontaneousorder.in/connected-histories-of-rammohan-roys-liberalism/)
+
+---
+
+_Sourced from the WordPress database export (post ID 2242, http://localhost/IL/content/so-musings-de-stalinisation-versus-communism-2/). Needs editorial review._

@@ -1,20 +1,18 @@
 ---
 id: "remembering-dr-ambedkar"
 title: "Remembering Dr Ambedkar"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T08:38:15Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/remembering-dr-ambedkar/) on 2026-05-17. Needs editorial review._
-
 Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition.
+_Of late, Dr Ambedkar has emerged out of oblivion to reclaim a prominent space in India’s public life, and rightly so. As a political leader, social reformer, and author, Ambedkar interacted with a range of other leading figures of his times, all belonging to different ideology and political camps. _
 
-Of late, Dr Ambedkar has emerged out of oblivion to reclaim a prominent space in India’s public life, and rightly so. As a political leader, social reformer, and author, Ambedkar interacted with a range of other leading figures of his times, all belonging to different ideology and political camps.
-
-Produced below is a short article by the liberal politician Minoo Masani reminiscing his interactions with the Doctor. Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition. Masani’s admiration for Ambedkar’s intellect and service to the nation is clearly reflected in the piece. To us, Masani’s recollection piece is a reflection of the shared pedigree of Indian liberalism which went on to shape the nation.
+_Produced below is a short article by the liberal politician Minoo Masani reminiscing his interactions with the Doctor. Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition. Masani’s admiration for Ambedkar’s intellect and service to the nation is clearly reflected in the piece. To us, Masani’s recollection piece is a reflection of the shared pedigree of Indian liberalism which went on to shape the nation._
 
 Recently Dr. B.R. Ambedkar’s 35th death anniversary was celebrated in Bombay with great eclat.
 
@@ -28,8 +26,12 @@ He and I were both members of the Advisory Committee on Fundamental Rights. Ther
 
 Dr. K.M. Munshi refers to this in his book on the subject and describes us as the three idealists which I suppose we were. I am very proud that I was in the distinguished company of Mrs. Hansa Mehta and Dr. Ambedkar.
 
-Published in the January-March, 1992 issue of the Freedom First magazine, the original text could be accessed here. (page 23)
+_Published in the January-March, 1992 issue of the Freedom First magazine, the original text could be accessed [here](http://www.freedomfirst.in/uploads/issues/pdf/412.pdf). (page 23)_
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+_[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-To read more about Minoo Masani, click here.
+To read more about Minoo Masani, click [here](https://spontaneousorder.in/minoo-masani-from-socialism-to-liberal-swatantra-party/).
+
+---
+
+_Sourced from the WordPress database export (post ID 2279, http://localhost/IL/content/so-musing-free-enterprise-is-economic-democracy/). Needs editorial review._

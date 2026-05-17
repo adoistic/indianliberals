@@ -1,26 +1,24 @@
 ---
 id: "sikkim-through-other-eyes"
 title: "Sikkim – Through Other Eyes"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T07:17:29Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/sikkim-through-other-eyes/) on 2026-05-17. Needs editorial review._
+"In 1975, before I had ever had any thought of visiting Sikkim, I followed the events leading up to annexation by India very closely because I could see no justification for the takeover, the abolishment of the sovereignty of the tiny nation of 300,000 people, the rude levelling of their Chogyal, whose dynasty was 340 years old, to the rank of a commoner, and the subsequent house arrest to which he was confined."
+_The anti-colonial genesis of Indian nationalism allowed the postcolonial Indian state to position itself as the promoter of the anti-colonial, anti-racist Third World solidarity agenda on International platforms. The most influential and eloquent proponents of this variant of Indian exceptionalism included Pandit Nehru, VK Krishna Menon, Indira Gandhi, KM Panikkar. Periodic paeans to India’s syncretic civilizational heritage and Gandhi’s principles of satyagraha and non-violence buttressed the Indian Foreign Policy rhetoric. However, the imperatives of survival often drove the postcolonial nation-state to pursue the hegemonic policy. Notable examples would include the tensions over Kashmir, Goa, Nagaland, Sikkim, and Punjab where the Indian state applied the prerogative of a sovereign in a manner that contradicted its claim to idealism. _
 
-“In 1975, before I had ever had any thought of visiting Sikkim, I followed the events leading up to annexation by India very closely because I could see no justification for the takeover, the abolishment of the sovereignty of the tiny nation of 300,000 people, the rude levelling of their Chogyal, whose dynasty was 340 years old, to the rank of a commoner, and the subsequent house arrest to which he was confined.”
+_Whatever the underlying motives of the Indian state, the civil society didn’t unequivocally support these actions. Some saw in the Indian deployment of force over its own population or in the neighbourhood the signs of imperial conduct. The most prominent anti-imperialists, not incidentally, were the veteran nationalists, lifelong fighters of India’s anti-colonial movement. The camp boasted the likes of Jayprakash Narayan, C Rajagopalachari, and Minoo Masani. _
 
-The anti-colonial genesis of Indian nationalism allowed the postcolonial Indian state to position itself as the promoter of the anti-colonial, anti-racist Third World solidarity agenda on International platforms. The most influential and eloquent proponents of this variant of Indian exceptionalism included Pandit Nehru, VK Krishna Menon, Indira Gandhi, KM Panikkar. Periodic paeans to India’s syncretic civilizational heritage and Gandhi’s principles of satyagraha and non-violence buttressed the Indian Foreign Policy rhetoric. However, the imperatives of survival often drove the postcolonial nation-state to pursue the hegemonic policy. Notable examples would include the tensions over Kashmir, Goa, Nagaland, Sikkim, and Punjab where the Indian state applied the prerogative of a sovereign in a manner that contradicted its claim to idealism.
+_The triumvirate was unified in its advocacy for a peaceful solution to the Naga question and opposition to the detention of Sheikh Abdullah in Kashmir. JP offered to mediate between the Naga rebels and the Indian state. Rajaji led the delegation to President Kennedy advocating nuclear non-proliferation. Masani objected to the way Sikkim was made part of India and made his displeasure known in public in 1982. _
 
-Whatever the underlying motives of the Indian state, the civil society didn’t unequivocally support these actions. Some saw in the Indian deployment of force over its own population or in the neighbourhood the signs of imperial conduct. The most prominent anti-imperialists, not incidentally, were the veteran nationalists, lifelong fighters of India’s anti-colonial movement. The camp boasted the likes of Jayprakash Narayan, C Rajagopalachari, and Minoo Masani.
+_In responding to a reader in the Freedom First magazine, Masani questioned the double standards of his compatriots on the ‘Indian imperialism’, dubbed JP the ‘real anti-imperialist’, and upheld the liberty of people in cases of Nagas, Kashmir, and Sikkim._
 
-The triumvirate was unified in its advocacy for a peaceful solution to the Naga question and opposition to the detention of Sheikh Abdullah in Kashmir. JP offered to mediate between the Naga rebels and the Indian state. Rajaji led the delegation to President Kennedy advocating nuclear non-proliferation. Masani objected to the way Sikkim was made part of India and made his displeasure known in public in 1982.
-
-In responding to a reader in the Freedom First magazine, Masani questioned the double standards of his compatriots on the ‘Indian imperialism’, dubbed JP the ‘real anti-imperialist’, and upheld the liberty of people in cases of Nagas, Kashmir, and Sikkim.
-
-Produced below is the article by Minoo Masani.
+_Produced below is the article by Minoo Masani._
 
 The other day I received a letter from a regular reader of Freedom First, who happens to be living in another Asian country. That letter contained, along with praise for Freedom First, a challenge which was posed in the following words:
 
@@ -46,8 +44,12 @@ But, alas! the names of Indian public men who have stood up against the imperial
 
 So we can say to our reader overseas: “You are right to be angry and we as a nation must, we feel, plead guilty to your charge, but all we can say is that we in Freedom First have never lowered our flag and that our record, whether on Kashmir or Nagaland, is one of which we have no reason to be ashamed. We thank you for having given us an opportunity to speak up for the people of Sikkim.”
 
-The original text can be accessed here.
+_The original text can be accessed _[_here_](http://www.freedomfirst.in/uploads/issues/pdf/352.pdf)_. _
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+[_IndianLiberals.in_](http://indianliberals.in/)_ is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-Read more: SO Musings: The Retreat from Socialism
+Read more: [SO Musings: The Retreat from Socialism](https://spontaneousorder.in/the-retreat-from-socialism/)
+
+---
+
+_Sourced from the WordPress database export (post ID 2246, http://localhost/IL/content/so-musings-the-perils-of-state-support-2/). Needs editorial review._

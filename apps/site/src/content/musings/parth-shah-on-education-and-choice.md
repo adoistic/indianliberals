@@ -1,17 +1,15 @@
 ---
 id: "parth-shah-on-education-and-choice"
 title: "Parth Shah on Education and Choice"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T10:10:13Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/parth-shah-on-education-and-choice/) on 2026-05-17. Needs editorial review._
-
 The following is an excerpt from the transcript of Education in India (an audio podcast) hosted by K. Satyanarayan with Parth J. Shah (Founder President of Centre for Civil Society). The podcast was recorded on June 09, 2014. In the excerpt, Parth comments on the importance of “choice” as a prerequisite to articulating the definition of quality education.
-
 In any country, there are three key issues that plague education- access, quality and equity.
 
 All three hold equally true in the case of India as well. In terms of the first issue, there is pretty good consensus now that we have been able to provide access to education to most children in India through SSA and other government reforms. The key challenge remains of quality and equity.
@@ -26,4 +24,8 @@ As long as we create an ecosystem of education, where every parent has a choice 
 
 But without the first step of ‘choice’, the progression to what quality education is and how it should be disseminated is moot.
 
-Note: The full version of the trancript can be found here.
+Note: The full version of the trancript can be found [here](http://prayatna.typepad.com/files/2014_06_09_parth_shah_education_in_india_podcast_transcript.html).
+
+---
+
+_Sourced from the WordPress database export (post ID 2379, http://localhost/IL/content/spontaneous-musings-kanwal-rekhi-on-liberalisation-for-the-sake-of-the-poor-2/). Needs editorial review._

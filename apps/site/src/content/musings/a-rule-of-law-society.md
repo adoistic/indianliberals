@@ -1,26 +1,25 @@
 ---
 id: "a-rule-of-law-society"
 title: "A Rule of Law Society!"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T09:20:36Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/a-rule-of-law-society/) on 2026-05-17. Needs editorial review._
+In the following article, Sauvik Chakraverti conceptualises how a ‘rule of law society’ can be achieved. A rule of law society is the one in which people instinctively follow the rules because it is in their interest to do so. Chakraverti explains three principles - private several property, contracts, and torts - which are essential to making good laws. He argues that societal order requires the formation of laws based on these principles, and for lawyers and judges to uphold them.
 
-In the following article, Sauvik Chakraverti conceptualises how a ‘rule of law society’ can be achieved. A rule of law society is the one in which people instinctively follow the rules because it is in their interest to do so. Chakraverti explains three principles – private several property, contracts, and torts – which are essential to making good laws. He argues that societal order requires the formation of laws based on these principles, and for lawyers and judges to uphold them.
+_The law perverted! And the police powers of the state perverted along with it! The law, I say, is not only turned from its proper purpose but is made to follow a totally contrary purpose! The law is becoming the weapon of every kind of greed! Instead of checking crime, the law itself is guilty of the very crimes it is supposed to punish! If this is true, it is a serious matter and moral duty requires of me to call the attention of my fellow citizens to it._
 
-The law perverted! And the police powers of the state perverted along with it! The law, I say, is not only turned from its proper purpose but is made to follow a totally contrary purpose! The law is becoming the weapon of every kind of greed! Instead of checking crime, the law itself is guilty of the very crimes it is supposed to punish! If this is true, it is a serious matter and moral duty requires of me to call the attention of my fellow citizens to it.
-
-FRÉDÉRIC BASTIAT
+**FRÉDÉRIC BASTIAT **
 
 The Law As a former Deputy Commissioner of Police, let me begin by asserting that a ‘rule of law society’ is not very difficult to achieve. It certainly does not require, as many morons believe, a military dictatorship. London, Frankfurt, Amsterdam… there is order in these cities not because of the police, but because of the people.
 
 All that societal order requires is good law – which all the people understand, and which all the people respect and follow, knowing well that it is in their interest to do so. Of course, judges and lawyers should be extremely well versed in these principles, and uphold them in their judgements and arguments. What are these principles?
 
-PRIVATE SEVERAL PROPERTY
+**PRIVATE SEVERAL PROPERTY **
 
 We are born with faculties which we exercise on the resources of the Earth to produce Property. The first nomad who cleared the forest and settled down in agriculture created Property. The chef who produces a meal at a restaurant produces Property – and we cannot consume the meal legally without paying something in exchange: the price. Private several property is basic to the morality of the market – indeed, it is basic to all human morality.
 
@@ -52,7 +51,7 @@ Similarly, the ‘disputed site’ at Ayodhya. To ‘de-politicise’ matters, t
 
 Socialist jurisprudence is not justice. Socialists reject the natural law of property and believe that the purpose of the law (and the State) is to redistribute property. Theirs is a Robin Hood ideology – but it is time we stopped looking at their ‘legal plunder’ (what they call ‘redistributive justice’) as romantic.
 
-CONTRACTS
+**CONTRACTS **
 
 The second feature of Law is that it must enforce contracts that are freely entered into by the people. That is, all the people are free, and, as free people, they will naturally enter into contracts with each other – say, a labour contract, a rental contract, a contract to repay a loan or a contract to use a telephone or electricity service. The Law must enforce these contracts when anyone violates them. The Law cannot dictate the terms of the contract.
 
@@ -66,7 +65,7 @@ A third example of the non-enforcement of contracts concerns bankruptcy law. As 
 
 A fourth example of non-enforcement of contracts concerns the Indian rupee, on which the governor of the central bank ‘promises to pay the bearer a sum of X rupees’. When the governor cannot convert his note into money – be it gold, dollars or yen – it is the central banker who should be in prison: a debtor’s prison. The Foreign Exchange Regulation Act (FERA) is immoral legislation.
 
-TORTS
+**TORTS **
 
 If you go to McDonald’s at a time when the floor is being cleaned, you will always find a sign saying: Caution! Wet Floor. This is a standard practice in McDonald’s worldwide. However, if you go into any Indian restaurant when the floor is being cleaned, you will not find this sign. Why is this so?
 
@@ -120,8 +119,12 @@ All students of Economics abroad study the interaction between Law and Economics
 
 **At the time of printing, some monetary compensation has been ordered in the Uphaar fire tragedy. Interestingly, the cinema owners as well as the civic authorities have to all pay up. But this was a criminal case.
 
-First Published in the book FROM THE HAIR OF SHIVA TO THE HAIR OF THE PROPHET … and other essays by Sauvik Chakraverti (1956-2014) an award winning columnist and author whose work lighted the path of modern Indian liberalism.
+_First Published in the book FROM THE HAIR OF SHIVA TO THE HAIR OF THE PROPHET … and other essays by Sauvik Chakraverti (1956-2014) an award winning columnist and author whose work lighted the path of modern Indian liberalism. _
 
-Other works by the author can be accessed at Indian Liberals, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
+_Other works by the author can be accessed at _[_Indian Liberals_](http://indianliberals.in/liberals-details?id=19)_, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
-Read More SO Musings
+[Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
+
+---
+
+_Sourced from the WordPress database export (post ID 2307, http://localhost/IL/content/so-musings-the-secular-state/). Needs editorial review._

@@ -1,20 +1,18 @@
 ---
 id: "india-seeing-the-future-in-its-past"
 title: "India: Seeing the Future in its Past"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T07:39:46Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/india-seeing-the-future-in-its-past/) on 2026-05-17. Needs editorial review._
-
 Because employment was so important for India, encouragement was given to small-scale industries by reserving specific areas of production for them. But because firms could not grow to efficient scale, production was unprofitable, so few jobs were actually created.
+_Back in 2006, Dr Raghuram Rajan, a leading economist, professor, and bureaucrat, delivered a public lecture under the auspices of the Forum of Free Enterprise as part of its Golden Jubilee celebration series. In the speech, he outlined the broad trajectory of economic mismanagement under socialism in India; the differing impact of economic reforms under decentralized federalism; and the high-skilled, capital-intensive nature of economic dynamism. He also laid out his reform agenda which included liberalization of higher education; management of urban growth; building faith in public institutions; flexible labour laws; infrastructure development; and a focus on incentives, not coercion._
 
-Back in 2006, Dr Raghuram Rajan, a leading economist, professor, and bureaucrat, delivered a public lecture under the auspices of the Forum of Free Enterprise as part of its Golden Jubilee celebration series. In the speech, he outlined the broad trajectory of economic mismanagement under socialism in India; the differing impact of economic reforms under decentralized federalism; and the high-skilled, capital-intensive nature of economic dynamism. He also laid out his reform agenda which included liberalization of higher education; management of urban growth; building faith in public institutions; flexible labour laws; infrastructure development; and a focus on incentives, not coercion.
-
-Produced below is an excerpt from the lecture. The lecture was published in the booklet form by the Forum of Free Enterprise.
+_Produced below is an excerpt from the lecture. The lecture was published in the booklet form by the Forum of Free Enterprise._
 
 AD Shroff, who started the Forum of Free Enterprise in the 1950s, was an unofficial delegate to the Bretton Woods Conference that set up the International Monetary Fund – an interesting connection between this forum and my organization. His aim was, in part, to combat the tendencies towards excessive regulation that permeated the Indian economy. Among the others associated with this organization was Nani Palkhivala. These were important but lonely voices against the socialism practised in India then, arguing as Palkhivala said, that it was a fraud – transferring wealth from the honest rich to the dishonest rich. Instead, people like Mr Shroff and Mr Palkhivala maintained a lonely but necessary vigil then, keeping alight the lamp of free enterprise. I am privileged to be speaking from the same forum as these stalwarts.
 
@@ -46,8 +44,12 @@ In 1980, government attitudes towards the economy, and the private sector, in pa
 
 Second, but no less important, India started becoming more decentralized politically. The decline of the Congress’ power and the rise of regional parties conferred greater political autonomy on the states, translating to autonomy even in the economic sphere. States increasingly prospered, or not, based on what they did rather than because of actions at the centre.
 
-The full text of the lecture is accessible here (page no. 5).
+_The full text of the lecture is accessible [here](http://www.forumindia.org/images/pdf/4lot/India-Seeing_the_future_in_its_Past.pdf)_ (page no. 5).
 
-To read more musings, click here.
+To read more musings, [click here](https://spontaneousorder.in/?s=SO+Musings).
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+_[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
+
+---
+
+_Sourced from the WordPress database export (post ID 2271, http://localhost/IL/content/so-musings-india-the-tiger-caged/). Needs editorial review._

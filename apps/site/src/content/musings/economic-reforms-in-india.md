@@ -1,28 +1,28 @@
 ---
 id: "economic-reforms-in-india"
 title: "Economic Reforms In India: Where Are We And Where Do We Go?"
-pubDate: "2022-10-13T00:00:00Z"
+pubDate: "2022-10-13T10:23:08Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/economic-reforms-in-india/) on 2026-05-17. Needs editorial review._
-
-Source: The New York Times
-
-The following text is taken from a 2006 booklet published by Forum of Free Enterprise. Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.
+The following text is taken from a 2006 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go-by-dr-rakesh-mohan-october-10-2006/) Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.
 
 I am deeply honoured to have been invited to deliver this A. D. Shroff Memorial Lecture. Looking at the luminaries who have delivered these lectures before me, I feel particularly humbled. I am, of course, very happy to be in such a company. A. D. Shroff accomplished much during his life: he passed away at a relatively young age. He was associated with Pandit Jawaharlal Nehru as early as 1938 when he served with him in the National Planning Committee. He was among the eight authors of the Bombay Plan and an unofficial delegate at the Bretton Woods Conference and also chaired the Shroff Committee on Finance for the Private Sector set up by the Reserve Bank of India (RBI). It is interesting that, having indirectly contributed to the founding of such public sector connected institutions such as the World Bank (who can only finance Governments) and the Planning Commission, Mr. Shroff founded the Forum of Free Enterprise.
 
-Today, I have chosen to talk on “Economic Reforms in India: Where are We and Where do We Go?” I am sure the theme would have appealed to A.D. Shroff.
+Today, I have chosen to talk on "Economic Reforms in India: Where are We and Where do We Go?" I am sure the theme would have appealed to A.D. Shroff. 
 
 We have now had a decade and a half of economic reforms It is perhaps appropriate at this point to stand back dnd take stock of what we have done as we venture further Today, I shall, therefore, make an effort to (a) review what has been done; (b) evaluate where we are; and (c) suggest where we need to go.
 
 Let me give you the backdrop as to what motivated me to choose this topic. I recently came across, The Tipping Point: How Little Things Make a Big Difference, by Malcolm Gladwell. He observes that many large changes sometimes happen in a hurry. Whereas there is usually a step by step, gradual process of little changes taking place, an epidemic suddenly acquires a tipping point and spreads suddenly. I believe that at the present juncture we are in need of such an epidemic of change and growth; we are perhaps at the tipping point. The macro-foundations of a healthy environment have been laid and now we need lots of little things to make a big difference.
 
-What Has Been Done?
+
+ 	- ** What Has Been Done?**
+
+
 
 What has been the main objective of the overall economic reform process in India, or for that matter, anywhere? The primary objective has to be the overall acceleration of economic growth along with rapid elimination of poverty. The means to achieve these objectives would be the injection of competition in the economy in order to induce greater efficiency and productivity gains; and dedicated efforts are needed to build capacity through human resource development.
 
@@ -30,29 +30,29 @@ Let me begin with a broad brush of history. Around 50 to 100 years before our in
 
 Consequently, a whole reform process got unleashed in 1991. I will first give a brief run-down of the various reforms that have taken place in the last 15 years before providing some evidence of their effectiveness. For expository convenience I shall make a conceptual difference between (a) macroeconomic reforms and (b) microeconomic reforms.
 
-Macroeconomic Reforms and Fiscal Stabilisation
+**Macroeconomic Reforms and Fiscal Stabilisation**
 
 Over a period of time through the 1950s, 1960s, and 1970s the economy had become over controlled and rigid. Consequently entrepreneurship was heavily constrained.
 
 The import substituting inward looking development strategy that could have been relevant in the 1950s and 1960s was no longer suitable in the modern globalising world. Hence, overall reforms had to be undertaken to lay down a new framework. Wide ranging macro reforms were undertaken along with corresponding micro economic and sectoral reforms. The macro reforms can be divided into (a) fiscal policy, (b) monetary policy, (c) trade policy, and (d) exchange rate management. Without any claim of exhaustiveness, the exposition aims at setting the context.
 
-Fiscal System
+_Fiscal System_
 
 The tax system, both for direct and indirect taxes, had become very complex in India. Maximum marginal personal income tax rates were high, along with a number of rates for different income ranges. The corporate tax rate was high too. Accordingly, the tax code had to be riddled with a number of special provisions for exemption of different kinds of income, and the corporate tax code was full of exceptions and incentives. Because of high rates and complexity, avoidance and evasion was naturally high. As a consequence, over the whole reform period, both the personal income tax and corporate tax rates have gradually been brought down to 30 percent, along with considerable simplification.
 
-Similarly, in the case of indirect taxes, there were high levels of both domestic excise duties and customs tariffs, with a myriad of rates for different commodities. Again, this necessitated a whole range of specific provisions and exemptions for different kinds of producers and end users, leading to great administrative complexity. A major programme of comprehensive and continuous reform has had to be undertaken over the last 15 years. The rates in case of customs duties have been brought down from an average of 110 percent in 1991 (with highs over 400 percent) to a non agricultural peak of 12.5 percent in 2006. There has been massive simplification of the excise tax structure to achieve a “central” rate (CENVAT) of 16 percent (apart from a few exceptions like food products, textiles and some optical fibers that attract lower tax rates). Excise, which is levied at the manufacturing stage, is now essentially levied as a VAT (Value Added Tax) so that cascading is avoided. In addition, the service tax has been introduced in order to tax the whole economy more fairly and to reduce the excessive burden on one sector, the manufacturing sector. Such tax reforms typically take a long time.
+Similarly, in the case of indirect taxes, there were high levels of both domestic excise duties and customs tariffs, with a myriad of rates for different commodities. Again, this necessitated a whole range of specific provisions and exemptions for different kinds of producers and end users, leading to great administrative complexity. A major programme of comprehensive and continuous reform has had to be undertaken over the last 15 years. The rates in case of customs duties have been brought down from an average of 110 percent in 1991 (with highs over 400 percent) to a non agricultural peak of 12.5 percent in 2006. There has been massive simplification of the excise tax structure to achieve a "central" rate (CENVAT) of 16 percent (apart from a few exceptions like food products, textiles and some optical fibers that attract lower tax rates). Excise, which is levied at the manufacturing stage, is now essentially levied as a VAT (Value Added Tax) so that cascading is avoided. In addition, the service tax has been introduced in order to tax the whole economy more fairly and to reduce the excessive burden on one sector, the manufacturing sector. Such tax reforms typically take a long time.
 
 The latest most significant measure taken is the introduction of the Fiscal Responsibility and Budget Management Act (FRBM) in 2004, which enjoins the government to eliminate its revenue deficit and reduce its fiscal deficit to 3 percent of GDP by 2009. Similar legislations have been passed by most state governments (23 states so far). So fiscal responsibility has now become part of our legislative commitments. The other most noteworthy development at the federal level is the transformation of state level sales taxes to the Value Added Tax (VAT), which has introduced a large measure of rationality and uniformity in the state sales tax system. The state sales tax system had also suffered from great complexity in terms of multiplicity of rates and special provisions. A vital feature of this tax reform has been the consultative process among all the states as mediated by the central government, which then resulted in this consensus for massive reform.
 
 Overall, the fiscal reform process spanning both the central and state governments over the last 15 years has been truly wide ranging.
 
-Monetary Policy
+_Monetary Policy_
 
-Over the 1970s and 1980s, monetary policy, as we know it, had become almost non-existent: with a system of credit allocation, administered and different interest rates for different purposes; automatic monetization of fiscal deficits; and financial repression through pre-emption of banks’ resources.
+Over the 1970s and 1980s, monetary policy, as we know it, had become almost non-existent: with a system of credit allocation, administered and different interest rates for different purposes; automatic monetization of fiscal deficits; and financial repression through pre-emption of banks' resources.
 
 Hence a number of measures had to be taken. These include: elimination of automatic monetization, reduction of statutory pre-emption of the lendable resource of banks, and interest rate deregulation. As a result of these measures independence of monetary policy and the central bank has been restored. There was a consequent movement from direct to indirect instruments of monetary policy. These changes in the practice of monetary policy are manifest in its effectiveness in the significant reduction of inflation. In fact, if one bifurcates the period since independence into two, one from the early 1950s to late 1990s, and the other from the late-1990s to present day, then there is marked difference in the average inflation rates between the two periods. While it was around 7-8 per cent during the first forty-five years, it has fallen to around five per cent in the recent period since the late 1990s.
 
-External Sector Reforms
+_External Sector Reforms_
 
 It was the balance of payment crisis in 1991 that was the key trigger for reforms. Consequently, actions on the external sector have been of the greatest importance. Despite the existence of comprehensive quantitative trade restrictions along with high levels of tariffs, the balance of payments was under continuous pressure through the 1960s, 1970s and 1980s. Consequently, exogenous shocks such as oil price rises, or monsoon failures, invariably led to large crises necessitating recourse to IMF resources. With the existence of these trade restrictions, the exchange rate was typically overvalued over a long period of time. Hence, among the first reform moves was an ex ante real devaluation of the exchange rate in 1991 and a move of the exchange rate regime from that of a crawling peg towards a market determined one, though somewhat managed.
 
@@ -62,27 +62,27 @@ With the change in the exchange rate regime and accomplishment of trade reforms 
 
 The exchange rate regime focuses on management of volatility without a fixed rate target and the underlying demand and supply conditions determine the exchange rate movements in an orderly way.
 
-Micro Economic Reforms
+**_Micro Economic Reforms_**
 
 Let me now turn to the microeconomic reforms. Industrial deregulation, infrastructure reforms, financial sector strengthening, capital market deepening and agriculture are the major areas where such reforms have taken place.
 
-Industrial Policy
+_Industrial Policy_
 
-Massive deregulation of the industrial sector, in fact, constituted the first major package of reforms in July 1991. The obsolete system of capacity licensing of industries was discontinued; the existing legislative restrictions on the expansion of large companies were removed; phased manufacturing programmes were terminated; and the reservation of many basic industries for investment only by the public sector was removed. At the same time restrictions that existed on the import of foreign technology were withdrawn, and a new regime welcoming foreign direct investment, hitherto discouraged with limits on foreign ownership, was introduced. With this massive reform introduced in one stroke in 1991, the stage was set for a policy framework that encouraged new entry, introduced new competition, both domestic and foreign, which thereby induced the attainment of much greater efficiency in industry over a period of time. One area of industrial reform that has been sluggish has been the removal of restrictions that exist on investment in most labour using industries – known as small scale industry reservations. In 1991 as many as 836 industries were reserved for investment by only small firms, defined by the level of investment. The number of these industries has now come down to 326.
+Massive deregulation of the industrial sector, in fact, constituted the first major package of reforms in July 1991. The obsolete system of capacity licensing of industries was discontinued; the existing legislative restrictions on the expansion of large companies were removed; phased manufacturing programmes were terminated; and the reservation of many basic industries for investment only by the public sector was removed. At the same time restrictions that existed on the import of foreign technology were withdrawn, and a new regime welcoming foreign direct investment, hitherto discouraged with limits on foreign ownership, was introduced. With this massive reform introduced in one stroke in 1991, the stage was set for a policy framework that encouraged new entry, introduced new competition, both domestic and foreign, which thereby induced the attainment of much greater efficiency in industry over a period of time. One area of industrial reform that has been sluggish has been the removal of restrictions that exist on investment in most labour using industries - known as small scale industry reservations. In 1991 as many as 836 industries were reserved for investment by only small firms, defined by the level of investment. The number of these industries has now come down to 326.
 
-Infrastructure
+_Infrastructure_
 
 A number of measures have been initiated in the development of infrastructure since 1996. Many of these reforms emanated from the recommendations of the lndia lnfrastructure Report of the mid 1990s. We recognized that infrastructure investment had to be raised and suggested introduction of the private sector in infrastructure which had been restricted earlier. This was part of a world wide move during the 1990s. This has also necessitated other wide ranging reforms including new legislations and formation of regulatory authorities.
 
-With deregulation, introduction of the private sector and formation of the Telecom Regulatory Authority of lndia (TRAI), telecom is indeed a success story. The major reforms in roadways were: imposition of a fuel cess to finance highway construction; the commissioning of the National Highway Development Project and PMGSY (Prime Minister’s Gram Sadak Yojana or the Rural Roads Programme). In case of ports private operators have been introduced and then the Tariff Authority of Major Ports (TAMP) formed; in civil aviation new private airlines, new private airports and the beginning of an open skies policy are in evidence. In all these cases the response has been positive.
+With deregulation, introduction of the private sector and formation of the Telecom Regulatory Authority of lndia (TRAI), telecom is indeed a success story. The major reforms in roadways were: imposition of a fuel cess to finance highway construction; the commissioning of the National Highway Development Project and PMGSY (Prime Minister's Gram Sadak Yojana or the Rural Roads Programme). In case of ports private operators have been introduced and then the Tariff Authority of Major Ports (TAMP) formed; in civil aviation new private airlines, new private airports and the beginning of an open skies policy are in evidence. In all these cases the response has been positive.
 
 In other infrastructure sectors, the reform process experience has been mixed. In the power sector, where some of the early efforts for reform were made in the early 1990s, problems continue to constrain its expansion. A comprehensive modern electricity Act has been enacted, which has enabling features for encouraging private sector entry, enhanced competition, and rational regulation. However, despite the formation of a central regulatory authority and others at the state level, implementation of the tariff reform has not been found to be easy. State Electricity Boards continue to suffer from losses, arising both from inadequate tariff and from transmission and distribution losses (comprising an important part of theft). Consequently, private sector investors in power generation face insecurity of payment and hence expansion of private investment in this sector has been constrained. Although the Act allows for private participation in distribution, practically it has not been found easy to privatize distribution systems. Thus, power reforms have some way to go, although the legislative and institutional prerequisites are now in place.
 
 Urban infrastructure is another area where reform has been inadequate and thinking has just begun. In transportation, considerable reforms have taken place in air and road transportation but railways have some way to go. Although there has been noted improvement in financial performance of railways in the last couple of years, there is need for much greater structural reforms for this vital transportation system to be put in a sound sustained growth path.
 
-Financial Sector
+_Financial Sector_
 
-Financial sector reform is another area of India’s success story. A major element of the financial sector reform was the introduction of competition enhancing measures. Introduction of operational autonomy and partial disinvestment of public ownership in public sector banks, entry of new private and foreign banks and permission for FDI and portfolio investment in banking are some of the major reform measures in this area. Listing of almost all public sector banks is another major reform in this regard. Besides, prudential regulations have been strengthened in line with Basel I standards and are now in process of being updated to Basel II standards. An effort has been put in for phased implementation of international best practices such as, CRAR (Capital-to Risk Adjusted Assets Ratio), provisioning and income recognition norms, exposure limits and measures to strengthen risk management.
+Financial sector reform is another area of India's success story. A major element of the financial sector reform was the introduction of competition enhancing measures. Introduction of operational autonomy and partial disinvestment of public ownership in public sector banks, entry of new private and foreign banks and permission for FDI and portfolio investment in banking are some of the major reform measures in this area. Listing of almost all public sector banks is another major reform in this regard. Besides, prudential regulations have been strengthened in line with Basel I standards and are now in process of being updated to Basel II standards. An effort has been put in for phased implementation of international best practices such as, CRAR (Capital-to Risk Adjusted Assets Ratio), provisioning and income recognition norms, exposure limits and measures to strengthen risk management.
 
 The introduction of partial private sector ownership in public sector banks and their consequent listing has been extremely important for market orientation of these banks and transparency in their accounts and operations. This gradual process of banking sector reforms has contributed significantly to the all round improvement in the financial health of the banking system.
 
@@ -90,125 +90,119 @@ Among other segments of the financial sector, new private insurance companies ha
 
 The capital market has been revived with both policy reforms and financial infrastructure development. The Securities and Exchange Board of lndia was formed as the capital market regulator; a new modern technology oriented stock exchange was formed (the National Stock Exchange, NSE); private sector mutual funds allowed and encouraged; along with the abolition of the Controller of Capital Issues (CCI) who controlled both issuance of securities and administered their price. A particular development has been the building of world class payment and settlement architecture in the stock market and government securities market. The one area that still needs considerable attention and development is the corporate bond market.
 
-Agriculture
+_Agriculture_
 
 Agriculture is the key significant area that has not been subject to comprehensive reforms. It is not widely understood, though, that the reduction of industrial tariffs improved the domestic terms of trade significantly for agriculture. In terms of trade reforms in agriculture, these have been constrained by the lack of progress in the WTO and the intransigence of developed countries in the reduction of their farm subsidies. There have, however, been a number of significant reforms: removal of restraints on inter state movement of foodgrains; the restructuring of the public distribution system (PDS); relaxation of restrictions under the Essential Commodities Act; introduction of forward trading in most agricultural commodities; and removal of some marketing restrictions on crop produce. There is no doubt, however, that agricultural development needs much more focused attention in order to revive the somewhat stagnating agricultural economy.
 
-Having given a bird’s eye view of the reforms measures let me now turn to the outcome of this whole wide ranging reform process.
+Having given a bird's eye view of the reforms measures let me now turn to the outcome of this whole wide ranging reform process.
 
-Where are We?
 
-There is a need to remember where lndia was at the time of its independence. Power capacity was just 1.1 percent of what it is now. The country was literally in darkness! With high mortality rates, the average Indian died at age 32. More than half of the country was under the poverty line. The income of an average household is now nearly Rs.130,000. Poverty was down to 23-26 percent in 1999- 2000. Per capita growth has gone up from about 1.5 percent per year in the first 30 years after independence to about 6.4 percent per year now. This makes a palpable difference in peoples’ standard of living (Tables 1, 2 and 3).
+ 	- ** Where are We?**
 
-Having outlined the major elements of India’s achievement since independence let me briefly review the broad trends in various macro-policy variables.
+
+
+There is a need to remember where lndia was at the time of its independence. Power capacity was just 1.1 percent of what it is now. The country was literally in darkness! With high mortality rates, the average Indian died at age 32. More than half of the country was under the poverty line. The income of an average household is now nearly Rs.130,000. Poverty was down to 23-26 percent in 1999- 2000. Per capita growth has gone up from about 1.5 percent per year in the first 30 years after independence to about 6.4 percent per year now. This makes a palpable difference in peoples' standard of living (Tables 1, 2 and 3).[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-49/)
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-50/)
+
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-51/)
+
+Having outlined the major elements of India's achievement since independence let me briefly review the broad trends in various macro-policy variables.
 
 The step-up in the growth rate of the economy has been facilitated by an increase in domestic investment to over 30 percent of GDP, financed predominantly by domestic savings. Domestic savings increased to over 29 percent of GDP by 2004-05 after some stagnation in the second half of the 1990s. The improvement in overall savings in recent years has particularly benefited from the turnaround in public sector savings. After turning negative between 1998-99 and 2002-03 owing to sharp deterioration in the savings of Government administration, public sector savings have turned positive again from 2003-04 onwards, mainly reflecting the ongoing fiscal consolidation. In 2004-05, the public sector savings rate was 2.2 percent, but it was still less than a half of the peak of almost five percent touched in 1976-77. Improvement in corporate profitability since 2002-03 has also contributed to increase in domestic savings in the recent years. Household savings remain the predominant component of domestic savings, contributing almost three-fourths of overall domestic savings in 2004- 05. For the Indian economy to achieve higher growth on a sustained basis, further improvement in overall savings is necessary and, in this context, public sector savings will have to play a significant role (Table 4).
+**Table 4:  Aggregate and Public Sector Savings and lnvestment**
 
-Table 4:  Aggregate and Public Sector Savings and lnvestment
 
 (As percentage of GDP)
 
+
+
+
+
+
+
+
 Year
-
 Aggregate
-
 Public Servant
 
-Savings
 
-Investment
 
 Savings
-
 Investment
+Savings
+Investment
+
 
 1
-
 2
-
 3
-
 4
-
 5
 
+
 1980-81
-
 18.9
-
 20.3
-
 3.4
-
 8.4
 
+
 1990-91
-
 23.1
-
 26.3
-
 1.1
-
 9.3
 
+
 2000-01
-
 23.5
-
 24.2
-
 -1.8
-
 6.9
+
 
 2001-02
-
 23.6
-
 23
-
 -2
-
 6.9
 
+
 2002-03
-
 26.5
-
 25.3
-
 -0.7
-
 6.2
 
+
 2003-04
-
 28.9
-
 27.2
-
 1
-
 6.5
 
+
 2004-05
-
 29.1
-
 30.1
-
 2.2
-
 7.2
 
-Source: National Accounts Statistics, Central Statistical Organisation
 
-Fiscal performance has still some way to go. The gross fiscal deficit has come down from 7 per cent in 1993-94 to 4.1 per cent in 2005-06. However, this needs to go to 3 percent by 2009. Tax Revenue has just recovered to 10 percent of GDP, about the 1991-92 level, and needs much greater growth (Table 5). Inflation is down from the 45 year average of 7 – 8 percent to 4.5 – 5.0 percent. So we have achieved some major macro and monetary improvements. However, growth needs investment and savings. Although the growth process stuttered somewhat in the late 1990s and early part of this decade, it has clearly recovered now and we seem to be on a sustainable path of annual GDP growth in excess of 8 percent. After the award of the Pay Commission in 1997, public finances had come under strain and hence public savings had become negative. This was also accompanied by a business cycle slowdown and low profitability in the private corporate sector and low corporate savings. Both recoveries have now taken place: public sector savings are now again positive; and corporate profitability is also very healthy. With continuing growth in household savings, gross domestic savings are now 30 percent plus and hence sustained investment rates in excess of 32 percent are feasible. The sustenance of a higher growth now needs improvement in public investment and delivery of public services.
 
-Financial sector reforms in general and banking reforms in particular have been a key ingredient of the lndian reforms process. As a result of these reforms, statutory pre-emptions of banks (in the form of high cash reserve and statutory liquidity ratio) got reduced to a great extent – so was the extent of financial repression. lnterestingly the asset quality of the lndian banks has improved to a great extent with a distinct improvement In capital-to-risk adjusted assets ratio (CRAR) of banks which is much above the stipulated level (9 percent), and drastic reduction in NPA levels, notwithstanding the transition to 90-day delinquency norm in 2004 (Table 6). The initial recapitalization by government in the public sector banks has been rather meagre (about 1 percent of GDP) which was supported by equity issuance by the public sector banks. With public listing the public sector banks in lndia are now more subject to market discipline. Furthermore, there has been a distinct improvement in post-reform productivity as reflected in various indicators such as, business per employee, profit per employee and branch productivity. These productivity gains can be attributed to both technological improvement as well as peer pressure or catching up effect.
+_Source:_ National Accounts Statistics, Central Statistical Organisation
+
+Fiscal performance has still some way to go. The gross fiscal deficit has come down from 7 per cent in 1993-94 to 4.1 per cent in 2005-06. However, this needs to go to 3 percent by 2009. Tax Revenue has just recovered to 10 percent of GDP, about the 1991-92 level, and needs much greater growth (Table 5). Inflation is down from the 45 year average of 7 - 8 percent to 4.5 - 5.0 percent. So we have achieved some major macro and monetary improvements. However, growth needs investment and savings. Although the growth process stuttered somewhat in the late 1990s and early part of this decade, it has clearly recovered now and we seem to be on a sustainable path of annual GDP growth in excess of 8 percent. After the award of the Pay Commission in 1997, public finances had come under strain and hence public savings had become negative. This was also accompanied by a business cycle slowdown and low profitability in the private corporate sector and low corporate savings. Both recoveries have now taken place: public sector savings are now again positive; and corporate profitability is also very healthy. With continuing growth in household savings, gross domestic savings are now 30 percent plus and hence sustained investment rates in excess of 32 percent are feasible. The sustenance of a higher growth now needs improvement in public investment and delivery of public services.
+
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-52/)
+
+Financial sector reforms in general and banking reforms in particular have been a key ingredient of the lndian reforms process. As a result of these reforms, statutory pre-emptions of banks (in the form of high cash reserve and statutory liquidity ratio) got reduced to a great extent - so was the extent of financial repression. lnterestingly the asset quality of the lndian banks has improved to a great extent with a distinct improvement In capital-to-risk adjusted assets ratio (CRAR) of banks which is much above the stipulated level (9 percent), and drastic reduction in NPA levels, notwithstanding the transition to 90-day delinquency norm in 2004 (Table 6). The initial recapitalization by government in the public sector banks has been rather meagre (about 1 percent of GDP) which was supported by equity issuance by the public sector banks. With public listing the public sector banks in lndia are now more subject to market discipline. Furthermore, there has been a distinct improvement in post-reform productivity as reflected in various indicators such as, business per employee, profit per employee and branch productivity. These productivity gains can be attributed to both technological improvement as well as peer pressure or catching up effect.
+
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-53/)
 
 Let me briefly touch on the external sector now. The measures taken in respect of the external sector have clearly been very successful. Merchandise exports have
+
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-54-2/)
 
 increased from 6 to 13 percent of GDP between 1990-91 and 2005-06; imports have also increased from 10 to 24 percent of GDP over the same period; foreign exchange reserves. increased from $1.5 billion to $165 billion.
 
@@ -216,17 +210,18 @@ Industrial growth was very high during the 1992-97 period in the immediate exube
 
 The performance of the lndian corporate sector has been highly encouraging in the last three years. The previous occasion, when such a healthy performance was demonstrated by the corporate sector was in the early 1990s, i.e., during the initial period of exuberance immediately after the economic reforms programme was initiated in India. But during the latter part of the 1990s, around 1997, the momentum in the corporate sector slowed down in sync with the general economic slowdown. The recovery since then is remarkable in all important parameters: sales, gross profit, profit after tax, all have recorded robust growth rates during 2002-03, 2003-04 and 2004-05 implying that economic activity in the corporate sector has taken a full circle after three years of dull performance during 1999-2000, 2000-01 and 2001 -02 (Table 8).
 
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-55/)
 The current exuberant run of corporate sector performance has continued well into its fourth year as evidenced by the corporate sector results for the first quarter of 2006-07. The strong sales performance has resulted in an improved bottom-line for the corporate sector as a whole. Powered by a strong top-line performance, gross profits of the lndian corporate sector grew at a sturdy rate of 34 percent in the quarter ending in June 2006 on top of a 20 percent growth recorded in the full fiscal year of 2005-06. The interest costs have been plummeting in the recent years due to an overall softening of interest rates and lower debt equity ratios, which is an outcome of conscious policy-driven measures.
 
-There is in fact a new confidence in the air. Let me give some random illustrations – Tata Steel is the lowest cost steel producer, Hindalco / Sterlite / NALCO are competitive aluminum producers, Reliance is a major petrochemical producer. We now have world class producers in most sectors and there are many more success stories. Moser Baer exports more than Rs.1000 crore; Hero Honda with 1.7 million motorcycles is the largest producer of motorcycles; one now gets a wide range of automobiles in lndia such as Maruti, Tata, Hyundai, Toyota, GM, Ford; in Pharma there are Ranbaxy and Dr Reddy’s among others; Bharat Forge exports castings and forgings to all main auto producers; Sundaram Clayton has been adjudged as Best GM supplier.
+There is in fact a new confidence in the air. Let me give some random illustrations - Tata Steel is the lowest cost steel producer, Hindalco / Sterlite / NALCO are competitive aluminum producers, Reliance is a major petrochemical producer. We now have world class producers in most sectors and there are many more success stories. Moser Baer exports more than Rs.1000 crore; Hero Honda with 1.7 million motorcycles is the largest producer of motorcycles; one now gets a wide range of automobiles in lndia such as Maruti, Tata, Hyundai, Toyota, GM, Ford; in Pharma there are Ranbaxy and Dr Reddy's among others; Bharat Forge exports castings and forgings to all main auto producers; Sundaram Clayton has been adjudged as Best GM supplier.
 
-Let me sum up the broad contours of success of the overall economic reform programme. In general, the reform programme has achieved remarkable success. Annual GDP growth has averaged 6 to 6.5 percent during the whole 15 year period since reforms began, and is now ascending to a higher trajectory of 8 percent plus sustained growth. The external sector is comfortable: gone are the days of perpetual “shortage” of foreign exchange. In contrast, some observers view India’s foreign exchange reserves as a problem of plenty. Industrial growth has been restored and the manufacturing sector has found a new level of competitiveness, quality and efficiency. There is a transformation in the external impression of the Indian economy: it is now viewed with a sense of some awe and confidence in its potential of sustainable high growth. Finally, measured poverty has been reduced significantly.
+Let me sum up the broad contours of success of the overall economic reform programme. In general, the reform programme has achieved remarkable success. Annual GDP growth has averaged 6 to 6.5 percent during the whole 15 year period since reforms began, and is now ascending to a higher trajectory of 8 percent plus sustained growth. The external sector is comfortable: gone are the days of perpetual "shortage" of foreign exchange. In contrast, some observers view India's foreign exchange reserves as a problem of plenty. Industrial growth has been restored and the manufacturing sector has found a new level of competitiveness, quality and efficiency. There is a transformation in the external impression of the Indian economy: it is now viewed with a sense of some awe and confidence in its potential of sustainable high growth. Finally, measured poverty has been reduced significantly.
 
 But we still have miles to go. The poverty ratio of 23-26 percent is still too high, about a quarter billion people living in poverty are too many. Employment growth is inadequate and we have an expanding young labour force, which will demand quality jobs. Public service delivery continues to be poor, with little sign of improvement.
 
 Let me now turn to a menu of things that we need to do.
 
-Ill. Where Do We Go?
+**Ill. Where Do We Go?**
 
 We have now had 15 years of economic reforms spanning five governments. What have these reforms achieved? We have ascended a higher growth path; poverty has been reduced; the external sector is more than comfortable; industrial growth has been restored; and all this has been achieved with financial stability in the country. As a consequence of all these momentous changes there is a new respect for lndia in the world and, even more important, Indians in all walks of life have found a new level of self confidence.
 
@@ -238,13 +233,15 @@ The issue that arises now is whether we have reached the limit of private sector
 
 Further acceleration in economic growth and reduction of poverty will need greater investment and employment growth along with enhancement of productivity. For such acceleration to take place we will need a significant enhancement of growth in capacity building and in the availability of public services that the private sector cannot provide.
 
-I, therefore, believe that just as the first generation of reforms empowered the private sector to perform as it can to the limits of its abilities, the second generation of economic reforms must focus on a similar empowerment of the public sector to deliver public goods and services for the benefit of all segments of the private sector, corporate entities and the public alike. Lest this proposition be misunderstood, it should be made clear that I am not advocating greater empowerment of the public sector to increase its control over the economy as was the case in the past. The “public sector” needs to be seen in its widest definitron to encompass all levels of governments from the local, state to national, and their entities, which deliver public goods and services.
+I, therefore, believe that just as the first generation of reforms empowered the private sector to perform as it can to the limits of its abilities, the second generation of economic reforms must focus on a similar empowerment of the public sector to deliver public goods and services for the benefit of all segments of the private sector, corporate entities and the public alike. Lest this proposition be misunderstood, it should be made clear that I am not advocating greater empowerment of the public sector to increase its control over the economy as was the case in the past. The "public sector" needs to be seen in its widest definitron to encompass all levels of governments from the local, state to national, and their entities, which deliver public goods and services.
 
 I would like to take up four areas, by way of illustration, where we need to give focused attention and which I believe can mainly be done by the public sector, even if some of it is to be delivered through public private partnership. The four areas that I propose to address are: agricultural development, urban development, human resource development, management of public services. What is common among these sectors is the lack of competence in public systems that govern these areas. There are other areas of broader governance that could also be taken up, particularly the maintenance of law and order, but that would take me too far afield from my area of competence related to the economy.
 
-Agriculture
+_Agriculture_
 
 One of the most disturbing features of the recent growth experience has been that of the deceleration in agriculture growth (Table 9).
+
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-56/)
 
 With about 60 percent of the population still largely dependent on agriculture, this deceleration has clearly had a significant impact on slower reduction in poverty levels than otherwise would have been the case. Moreover, for aggregate annual GDP growth to exceed 8.5 percent on a sustainable basis it will be difficult if agricultural growth itself does not exceed 4 percent annual growth. The fast growing economies of East and South-East Asia all exhibited elevated levels of agriculture growth along with industrial and service sector growth during their fast growth periods. Higher agriculture growth will also lead to faster increases in rural household incomes giving rise to greater demand for goods and services in rural and urban areas alike, which would be employment promoting.
 
@@ -254,15 +251,15 @@ Let us take the supply side first. After the prolonged drought of the mid 1960s,
 
 Equally significant change can be observed on the demand side. As may be expected, with increasing incomes, there has been a progressive diversification of the Indian diet in both rural and urban areas involving a shift away from cereals to non-cereals. For the poorest, of course, the initial increase in incomes leads to enhanced demand for food and a shift from lower quality cereals to higher quality cereals like wheat and rice. As incomes increase further, greater growth takes place in the demand for non-cereal foods such as milk., fruits and vegetables, and for fish, poultry and meat for those who are not vegetarians. Consequently, it needs to be understood that, whereas there may be technological limitations to the continued growth of cereal production from the supply side, there are also limitations to the continued growth of cereals from the demand side. Admittedly, the shift to demand for certain kinds of meat will lead to acceleration in the demand for certain kinds of feed stocks for animal production. Nonetheless, the key point for policy is that the acceleration in agriculture production cannot come from that of cereals, keeping both demand and supply constraints in mind. That being said, it still needs to be emphasized that the serious stagnation in cereal production that has taken place in the last ten years or so needs to be addressed with urgency.
 
-What then needs to be done? We can learn from the approach taken more than thirty years ago, which still dominates our policy thinking. The success of the green revolution was achieved by the adoption of a coordinated policy package that addressed the needs of production on a national scale. Simultaneous provision was made for the supply of needed technology inputs, infrastructure, input supplies and the delivery of credit in a timely fashion. Technology inputs were provided by the setting up of a chain of agricultural universities across the country, which, moreover, were also connected with the international agricultural research system and foreign counterpart ‘ agricultural universities, particularly the land grant colleges and universities of the United States. For the transfer of technology from the laboratory to the farm, agricultural extension systems were organized, first under the Intensive Agriculture Districts Programme (IADP) and later the Intensive Agriculture Area Programme (IAAP). For a considerable period of time both the research and extension systems proved to be quite effective, but deteriorated later. Infrastructure provision was essentially needed for the expansion of irrigation from groundwater sources, which required the greater availability of electric power to energize pump sets. Consequently a large rural electrification programme was initiated along with the provision of power for agriculture at subsidized rates. The main new inputs needed were seeds, fertilizers, pump-sets and tractors. Apart from the arrangement of supply of these inputs, corresponding arrangements were made for appropriate credit delivery to farmers to enable them to buy these inputs. The nationalization of banks, the creation of regional rural banks, and the creation of National Bank for Agriculture and Rural Development (NABARD), to govern the rural cooperative banks, were all directed towards this massive change in the delivery of credit to fuel the green revolution. Most of these activities were done on a national basis with appropriate coordination with state governments and other public sector agencies. Given the highest priority that was attached to this programme, it delivered.
+What then needs to be done? We can learn from the approach taken more than thirty years ago, which still dominates our policy thinking. The success of the green revolution was achieved by the adoption of a coordinated policy package that addressed the needs of production on a national scale. Simultaneous provision was made for the supply of needed technology inputs, infrastructure, input supplies and the delivery of credit in a timely fashion. Technology inputs were provided by the setting up of a chain of agricultural universities across the country, which, moreover, were also connected with the international agricultural research system and foreign counterpart ' agricultural universities, particularly the land grant colleges and universities of the United States. For the transfer of technology from the laboratory to the farm, agricultural extension systems were organized, first under the Intensive Agriculture Districts Programme (IADP) and later the Intensive Agriculture Area Programme (IAAP). For a considerable period of time both the research and extension systems proved to be quite effective, but deteriorated later. Infrastructure provision was essentially needed for the expansion of irrigation from groundwater sources, which required the greater availability of electric power to energize pump sets. Consequently a large rural electrification programme was initiated along with the provision of power for agriculture at subsidized rates. The main new inputs needed were seeds, fertilizers, pump-sets and tractors. Apart from the arrangement of supply of these inputs, corresponding arrangements were made for appropriate credit delivery to farmers to enable them to buy these inputs. The nationalization of banks, the creation of regional rural banks, and the creation of National Bank for Agriculture and Rural Development (NABARD), to govern the rural cooperative banks, were all directed towards this massive change in the delivery of credit to fuel the green revolution. Most of these activities were done on a national basis with appropriate coordination with state governments and other public sector agencies. Given the highest priority that was attached to this programme, it delivered.
 
-Need for a Second Green Revolution
+_Need for a Second Green Revolution_
 
 The need now is for a corresponding second agricultural revolution, but one that will have to be much more heterogeneous. With the increasing diversification of the Indian diet, there is great potential for acceleration of growth in the production of all non cereal foods, though in varying degrees. There is a need for a new agricultural revolution in all areas such as: dairying, horticulture (covering both fruits and vegetables), aquaculture and pisci-culture, poultry, meat and even wineries. There is also similar potentiaI for acceleration in growth in non-food agriculture. The potential in all these areas is massive for income and employment generation on a well distributed basis; for generation of a host of new activities; and for widespread innovation.
 
 How can this be achieved? A key common feature behind the success of the national programme related to both the green revolution and the white revolution (milk production) was the relatively homogeneous nature of cereal production and of milk. It was thus possible to design national programmes that were broadly applicable country wide with relatively easy regional variations. The difficulty in designing programmes for the new agricultural activities is that these products are very heterogeneous and which, moreover, exhibit great regional differences.
 
-Even for each activity, say poultry production, it will be difficult to design the kind of national programmes that helped the green and white revolutions. The need is now for decentralized packages for the many different activities that will have to be regionally disaggregated. The broad approach can be similar. Each package will need to make simultaneous provision for technology inputs, infrastructure, supply of inputs and associated credit delivery. Whereas the packages will need to be diverse and decentralized, it is unlikely that they will be developed without the initiation of a nationwide coordinated programme on a mission basis. Such a programme could form expert teams for each activity and location. It will be essential to bring together high level expertise, both domestic and international, along with local practitioners. Each team would prepare a package for their respective activities and locations. There is now much more expertise available across the country relative to the situation 35 years ago. Along with such a disaggregated but coordinated programme, there is a need for a major new initiative for the rejuvenation of agricultural research that is also regionally distributed. A crash programme is required for the urgent renovation of agricultural universities, which will need to be supported internationally as well. A beginning has already been made by the Prime Minister’s initiative to renew association with the US research system. These universities need to be made respectable again. They will also need to specialize in the activities specific to their locations. The transfer of technology from these rejuvenated universities and from other sources will also have to be specific to each activity and new forms of extension activity will need to be explored to achieve the maximum effectiveness. There is increasing expertise in the private sector and in the cooperative sector so new forms of public private partnerships will have to be explored, just as the National Dairy Development Board innovated in respect of milk.
+Even for each activity, say poultry production, it will be difficult to design the kind of national programmes that helped the green and white revolutions. The need is now for decentralized packages for the many different activities that will have to be regionally disaggregated. The broad approach can be similar. Each package will need to make simultaneous provision for technology inputs, infrastructure, supply of inputs and associated credit delivery. Whereas the packages will need to be diverse and decentralized, it is unlikely that they will be developed without the initiation of a nationwide coordinated programme on a mission basis. Such a programme could form expert teams for each activity and location. It will be essential to bring together high level expertise, both domestic and international, along with local practitioners. Each team would prepare a package for their respective activities and locations. There is now much more expertise available across the country relative to the situation 35 years ago. Along with such a disaggregated but coordinated programme, there is a need for a major new initiative for the rejuvenation of agricultural research that is also regionally distributed. A crash programme is required for the urgent renovation of agricultural universities, which will need to be supported internationally as well. A beginning has already been made by the Prime Minister's initiative to renew association with the US research system. These universities need to be made respectable again. They will also need to specialize in the activities specific to their locations. The transfer of technology from these rejuvenated universities and from other sources will also have to be specific to each activity and new forms of extension activity will need to be explored to achieve the maximum effectiveness. There is increasing expertise in the private sector and in the cooperative sector so new forms of public private partnerships will have to be explored, just as the National Dairy Development Board innovated in respect of milk.
 
 The banking system will also have to explore ways and means of achieving efficient credit delivery to these new agricultural activities along with all their associated activities. As the system develops, the supply chain from farm to market will need to be financed: warehouses, cold storages, rural transportation, refrigerated trucks, along with all the service intermediaries. The efficient delivery of credit in a dispersed manner in rural areas will need to give special attention to the minimization of transaction costs through reduction in layering of intermediaries, much greater use of information technology in information collection, risk assessment and risk monitoring. Clearly, a great degree of innovation is called for now with out of the box thinking, away from the past paradigm of directed credit.
 
@@ -270,209 +267,156 @@ Finally, agricultural diversification and growth is not possible without the pro
 
 I have digressed at some length on the need for accelerating agricultural growth and how it could possibly be done because of its obvious importance and its relative neglect over the past 15 years. The key point that I would like to emphasize here is that without the organizing and coordinating initiative of the government and its agencies at various levels, such a programme cannot be implemented. It is in this context that I have talked about the empowerment of the public sector in all its aspects, but particularly related to competence.
 
-Urbanisation and Urban Development
+_Urbanisation and Urban Development_
 
 Let me now move to issues related to urbanization and urban development. It may be ironic, but just as agricultural growth has stagnated in recent years, the astonishing fact is that urban population growth also slowed down In India during the 1980s and 1990s (Table 10).
 
-The normal expectation is, and the historical experience is, that urban growth normally accelerates with economic growth. So the slowing of Indian urbanization is unexpected, perhaps anomalous, and worrisome. At the same time, the magnitude of India’s urban population is large, about 300 million people, similar in magnitude to the total population of the United States. Even with low growth it will probably double by 2030 or so. According to most projections done in the 1980s, the urban population in 2001 was expected to be about 30 to 35 million higher than the estimated 285 million. Contrary to popular impression, there has been a significant slowdown in net rural urban migration: people are not flowing into cities and there is no “urban explosion”. During the whole decade of 1981 to 1991, total net rural urban migration was only 12.7 million people and 14.4 million in the following decade of 1991-2001. In both decades, net rural urban migration accounted for only 21 percent of total urban population growth.
+The normal expectation is, and the historical experience is, that urban growth normally accelerates with economic growth. So the slowing of Indian urbanization is unexpected, perhaps anomalous, and worrisome. At the same time, the magnitude of India's urban population is large, about 300 million people, similar in magnitude to the total population of the United States. Even with low growth it will probably double by 2030 or so. According to most projections done in the 1980s, the urban population in 2001 was expected to be about 30 to 35 million higher than the estimated 285 million. Contrary to popular impression, there has been a significant slowdown in net rural urban migration: people are not flowing into cities and there is no "urban explosion". During the whole decade of 1981 to 1991, total net rural urban migration was only 12.7 million people and 14.4 million in the following decade of 1991-2001. In both decades, net rural urban migration accounted for only 21 percent of total urban population growth.
 
 Why is this worrisome and why has this strange occurrence taken place in India?
 
 In the light of low growth in agricultural production and productivity, had there been a greater rural urban transformation, outward migration from rural to urban areas would have relieved some of the economic pressure in rural areas. Ironically, this in itself is also related to the inadequate increase in rural productivity. Had there been greater increases in rural productivity, rural incomes would have increased faster, leading to higher growth in the demand for non-food goods, leading to higher industrialization and urbanization. With higher productivity, more food could also have been produced by fewer people and hence more people would have been released off the land. The second issue relates to the atypically low growth in manufacturing employment: during the decades of the 1980s and 1990s, output growth in industry far exceeded that in employment. This experience is also quite different from that of the East and South-East Asian countries. Thus, there have been neither demand pressures for labour in urban areas, nor supply of excess labour from rural areas. Both are related to failures in both public policy and public administration and public management. Just as we have not responded to the changing contours of agriculture, the low absorption of labour In urban areas is related to inappropriate industrial and urban policies.
 
-Table 10:  Urban Population in India, 1901-2001
+ 
+**Table 10:  Urban Population in India, 1901-2001**
+
+
+
+
+
 
 Census Year
-
 Year of UAs/Towns
-
 Total Population (in million)
-
 Rural Population (in million)
-
 Urban Population (in million)
-
 Average Annual Growth in Urban Population
-
 Urban Population as percentage total Population
 
+
 1
-
 2
-
 3
-
 4
-
 5
-
 6
-
 7
 
+
 1901
-
 1,830
-
 238
-
 213
-
 26
 
 10.8
 
+
 1911
-
 1,815
-
 252
-
 226
-
 26
-
 0.00
-
 10.3
 
+
 1921
-
 1,944
-
 251
-
 223
-
 28
-
 0.77
-
 11.2
 
+
 1931
-
 2,066
-
 279
-
 246
-
 34
-
 2.14
-
 12.0
 
+
 1941
-
 2,253
-
 319
-
 275
-
 44
-
 2.94
-
 13.9
 
+
 1951
-
 2,822
-
 361
-
 299
-
 62
-
 4.09
-
 17.3
 
+
 1961
-
 2,334
-
 439
-
 360
-
 79
-
 2.74
-
 18.0
 
+
 1971
-
 2,567
-
 548
-
 439
-
 109
-
 3.80
-
 19.9
 
+
 1981
-
 3,347
-
 683
-
 524
-
 160
-
 4.68
-
 23.3
 
+
 1991
-
 3,769
-
 846
-
 629
-
 218
-
 3.63
-
 25.7
 
+
 2001
-
 4,378
-
 1,027
-
 742
-
 285
-
 3.07
-
 27.8
+
+
 
 Note:
 
-Urban Agglomerations, which constitute a number of towns and their outgrowths, have been treated as one unit.
 
-The total population and urban population of lndia for the year 2001 includes estimated population of those areas of Gujarat and Himachal Pradesh where the census could not be conducted due to natural calamities.
+ 	- Urban Agglomerations, which constitute a number of towns and their outgrowths, have been treated as one unit.
 
-The total population and urban population of lndia for the year 1991 includes interpolated population of Jammu & Kashmir where the census could not be conducted.
+ 	- The total population and urban population of lndia for the year 2001 includes estimated population of those areas of Gujarat and Himachal Pradesh where the census could not be conducted due to natural calamities.
 
-The total population and urban population of lndia for the year 1981 includes interpolated population of Assam where the census could not be conducted
+ 	- The total population and urban population of lndia for the year 1991 includes interpolated population of Jammu & Kashmir where the census could not be conducted.
 
-Source: Census of India, 2001
+ 	- The total population and urban population of lndia for the year 1981 includes interpolated population of Assam where the census could not be conducted
+
+
+
+_Source: Census of India, 2001_
 
 The persistence of industrial policies, such as restrictions in many labour using manufacturing sectors being reserved for small scale industries, and rigidities in labour legislations, have contributed to the bias against labour using industrialization. Such policies were further compounded by inappropriate industrial location policies that have restricted the location of industries in cities and urban areas since the 1970s. Such restrictions have led to the loss of agglomeration economies, thereby raising the cost of industrialization and hence inhibiting expansion. Moreover, the role of cities as incubators for manufacturing entrepreneurship was not also allowed to flourish; and finally it is labour using industries that need to be located in cities and urban areas. The necessity to locate in distant locations, where labour is not easily available, also inhibited labour using industrialization, and hence urbanization.
 
@@ -490,51 +434,53 @@ Hence strengthening of city management is a key requirement for the healthy grow
 
 With the opening of the lndian economy, lndian industry and enterprise of all kinds have to be competitive with the best in the world. They will be handicapped if the cities that they inhabit are themselves not as efficient as their counterparts elsewhere. Hence, the acceleration in growth of lndian enterprise will be constrained without adequate empowerment of the public sector in terms of management of lndian cities. This is a job that the private sector clearly cannot do.
 
-Human Resource Development
+_Human Resource Development_
 
 Let me now turn to human resource development. It is ironic that we have achieved great international recognition because of our achievements in information technology, which is often termed as the knowledge economy. We often believe that our comparative advantage is in knowledge intensive sectors. In fact, given the basic indicators of health and education, it is difficult to sustain the notion that we are a knowledge intensive country, notwithstanding the fact that we do have islands of excellence in various areas (Table 11).
 
 Basic literacy levels in lndia have been improving continuously. and most noticeably in the 1990s from 52 percent in 1991 to 65 percent in 2001. But these levels are much lower than most comparator countries. If productivity in agriculture is to improve, the basic education levels of the rural labour force, both male and female will need to improve considerably. Similarly, if labour using lndian industry is to compete in the world, its labour force also will have to be better educated and technically trained. The future will essentially need a skilled labour force.
 
-Primary and Secondary Education
+_Primary and Secondary Education_
 
 That there is increasing appreciation of the education deficit in lndia is shown by the new programmes launched by the government for providing a new thrust to primary education: the Sawa Shiksha Abhiyan (Education for All Programme). There are also a host of non governmental and other philanthropic organizations now concentrating on the rapid expansion of primary education in India. However, it is now well known that there has been noted deterioration in the public education systems in most parts of India. The performance of public primary schools has been widely brought into question. There is also increasing evidence of a shift from public to private schools, even by the poor, and often their quality is no better. What is encouraging is that with even poor parents spending a lot of money on primary education, which should really be provided for by the state, there is a clear demand for it and recognition of its utility for upward mobility. The expansion of government
+
+[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-57-2/)
 
 programmes will certainly expand the quantity of education being offered.
 
 What needs equal attention, however, is the quality of education, which would emerge if there is greater local accountability of the school system and greater local involvement in general. Teachers themselves need to be incentivised and better trained; and teaching materials have to be provided and improved. Clearly, these problems are the most pronounced in the poorest parts of the country that are also underserved in terms of basic infrastructure like power, rural roads and communications. A great deal of innovation and experimentation is going on but much remains to be done. Whereas there should be no doubt that the state retains primary responsibility for ensuring primary education to all, there can be many different ways of delivering it, including the involvement of non government schools of different descriptions.
 
-As some success is achieved in the expansion of primary education and reduction in drop out rates after primary schooling, the next thrust will be the burgeoning demand for secondary education. As we progress, incomes increase and production processes need greater and greater skills to be competitive, primary education will no longer be adequate for performing lower skill tasks. Whereas there is considerable thinking going on with respect to primary education, we haven’t even begun to think about the resources and strategy needed for the large consequent expansion of secondary schools. We will need to expand the supply of secondary school teachers very significantly, invest large resources in school buildings and in the preparation and distribution of education materials. It is difficult to locate secondary schools in each village: issues will also ariqe on how to make these schools accessible to children in widely dispersed rural habitations. Once again, great innovation is needed in thinking about how all this is to be done, and how the large resources needed will be generated and invested efficiently and responsibly.
+As some success is achieved in the expansion of primary education and reduction in drop out rates after primary schooling, the next thrust will be the burgeoning demand for secondary education. As we progress, incomes increase and production processes need greater and greater skills to be competitive, primary education will no longer be adequate for performing lower skill tasks. Whereas there is considerable thinking going on with respect to primary education, we haven't even begun to think about the resources and strategy needed for the large consequent expansion of secondary schools. We will need to expand the supply of secondary school teachers very significantly, invest large resources in school buildings and in the preparation and distribution of education materials. It is difficult to locate secondary schools in each village: issues will also ariqe on how to make these schools accessible to children in widely dispersed rural habitations. Once again, great innovation is needed in thinking about how all this is to be done, and how the large resources needed will be generated and invested efficiently and responsibly.
 
-Vocational Training
+_Vocational Training_
 
 What will these schools teach? Every educational system has had to deal with the tension between the need for basic secondary education and vocational training, and the difficulties involved in guiding children appropriately to the different streams. Here again, there has been little organized thinking in India. Technical training has essentially been provided by Industrial Training lnstitutes (ITls) but they are not many, and often do not turn out students with the relevant skills. It is interesting that in lndia there are 175 defined trades that can be subject to organised training; in Germany there are 2500 such defined trades and occupations, each with its organized training syllabi, training certification, and availability of training institutions. The famed German vocational training system involves a very complex web of interaction between the federal government, state governments, local chambers of commerce, and firms that fund and take on the trainees. Whereas it would not be appropriate to suggest that lndia adopt the German model, which is itself undergoing change and modernization, I only mention it to suggest that it is possible to evolve an organized approach that makes vocational training respectable, demand oriented and with great local involvement and accountability. A beginning has been made in seeking the upgradation of 500 lTls with industry participation, but much more needs to be done to ensure regular skill upgradation in all vocations.
 
 The effort will have to involve extensive industry participation at the local level so that the training imparted is seen as relevant by prospective employers. As with the new requirements for agricultural extension systems, the systems for vocational training will need to have great heterogeneity in both the kind of training to be imparted but also how the training to be organised, according to the different needs in the widely disparate regions of India. We also need to recognise that service occupations need organised training as well. One can illustrate this by the longtime recognition of training needs in the hotel industry and how the private sector itself has set up a large number of excellent training institutions. Similar has been the case in information technology where many private sector training institutions emerged as demand started rising. Hence this is clearly an area that is most well suited for public private partnerships. Once again, however, the organisation of public private partnerships also involves a great deal of organizational capacity in the public sector, which designs delivery systems in a way that they spawn efficiency, productivity and innovation.
 
-Higher Education
+_Higher Education_
 
 Let me now move to issues related to higher education. There has clearly been a huge increase in quantity since independence and in the proliferation of private sector technical institutions in recent years, particularly in the Western and Southern regions of the country. However, the success of a few elite. institutions such as the Indian Institute of Science, Indian Institutes of Technology (IITs), lndian Institutes of Management (IIMs), the National Institute of Design, the more recent National Law Schools, have masked the general lack of quality in lndian higher education. Even among the elite institutions, only three were included in the top 500 higher education institutions in the world as ranked on objective criteria by a group of Chinese researchers. Because of the good quality of lndian secondary schooling on a relatively wider scale, competitive processes lead to the emergence of a large number of very bright lndian students who can then excel despite the poor quality of instruction and environment in higher educational institutions.
 
-Meanwhile, there has been an explosion of colleges and universities in East and South East Asia, in China, South Korea, Singapore, Hong Kong, and Thailand in both quality and quantity. We must recognise urgently that there is great need to both improve the quality of our colleges and universities in terms of facilities, laboratories, libraries, and most importantly, faculty – along with significant expansion of quantity. What should be clear is that the current system will not do. Although a whole host of private technical institutions have mushroomed in recent years, most of the higher education system remains government controlled and run. This was originally modeled on the British public university system which has, over the years, become ossified in such a fashion that creativity and quality are at a premium.
+Meanwhile, there has been an explosion of colleges and universities in East and South East Asia, in China, South Korea, Singapore, Hong Kong, and Thailand in both quality and quantity. We must recognise urgently that there is great need to both improve the quality of our colleges and universities in terms of facilities, laboratories, libraries, and most importantly, faculty - along with significant expansion of quantity. What should be clear is that the current system will not do. Although a whole host of private technical institutions have mushroomed in recent years, most of the higher education system remains government controlled and run. This was originally modeled on the British public university system which has, over the years, become ossified in such a fashion that creativity and quality are at a premium.
 
 There is a severe shortage of resources: tuition fees are extremely low and the government is strapped for resources. Moreover, there are legitimate competing claims for scarce resources for primary and secondary education, not to mention vocational education.
 
 Here also we. need to search for new systems of governance that can allow for diversity in delivery. While providing appropriate incentives for the achievement of excellence with the great increase in compensation levels in the private corporate sector, and the lack of even basic facilities in colleges and universities, attracting brighter students to take up teaching careers has become even more difficult than it was hitherto.
 
-There is, to my mind, some needless debate on private versus public education. No good higher educational institutions in the world are profit oriented. Even in the U.S., where there is perhaps the greatest prevalence of “private” colleges and universities, the proportion of students in state run institutions form the majority. Even those institutions that are labeled as private are essentially autonomous non-profit institutions. They are private in the sense that their management is autonomous of government controls, but most receive significant government grants in different ways. What is interesting about these institutions is their system of governance that attempts to ensure quality, excellence and competitiveness.
+There is, to my mind, some needless debate on private versus public education. No good higher educational institutions in the world are profit oriented. Even in the U.S., where there is perhaps the greatest prevalence of "private" colleges and universities, the proportion of students in state run institutions form the majority. Even those institutions that are labeled as private are essentially autonomous non-profit institutions. They are private in the sense that their management is autonomous of government controls, but most receive significant government grants in different ways. What is interesting about these institutions is their system of governance that attempts to ensure quality, excellence and competitiveness.
 
 Once again, I would not advocate the transplantation of any foreign system into India, since each system is rooted in its own peculiar history. What I would argue for is the generation of a new excitement for higher education in the country and for a search for new resources and new forms of governance that ensure quality and aim at achieving excellence.
 
 Overall, there is no way that we can sustain growth of the kind that we envisage, 8 percent plus annual growth, unless the whole education system, primary, secondary, vocational and higher is revamped. The State must bear the responsibility for ensuring that this happens, but must organise it in such a way that the best entrepreneurial energies that are now manifesting in the country are also harnessed towards the cause of education.
 
-Health
+_Health_
 
 Before I close on the subject of human resources, I should mention the issue of health. This is in itself a vast and complex subject which I am not competent to even touch. The key point that has to be made, however, is that economic efficiency can only be achieved at different levels if people are healthy. Whereas, a good deal of success has been achieved in almost eliminating a number of infectious diseases of the past, morbidity in lndia remains high. There are significant issues related to the delivery of public health, particularly the availability of clean water and sanitation but there are equally important issues to do with the delivery of curative health. Here once again, there is widespread evidence of the deterioration of public medical systems which are being replaced by private providers. Given the availability of new techniques, new drugs, and diagnostics, the less well off are increasingly finding it difficult to access these services at any semblance of affordable cost, and health insurance is in its infancy.
 
 If our young and expanding population is to look forward to a healthy and rewarding life, this is another vital area crying out for innovative, affordable systems of public private partnerships that are reliable and trustworthy. Once again the public sector has to gain competence for organising such a system.
 
-Public Sector Management
+_Public Sector Management_
 
 The common theme that runs through the three areas that I have chosen to illustrate the need for the next generation of reforms is that of competent and innovative public management: I have not spent any time on the physical areas infrastructure since they have been discussed otherwise much more often. All the areas of physical infrastructure involve the management of large systems: airports, ports, railways, telecommunications and the like. All of them also have in common the possibility of at least part delivery of the private sector. As discussed, cities, education systems, health systems, hospitals, are also all large public service systems that are in dire need of efficient and innovative management. The key issue is that of efficient delivery of public services, and in lndia particularly, at affordable prices.
 
@@ -550,8 +496,14 @@ Overall there has to be a search for innovative forms of public service delivery
 
 We thus need a nationally generated focused program to improve public administration and management at all levels of government and public authorities so that the delivery of public services becomes efficient. This cannot be done by the private sector and if it is not done the private sector will itself suffer from the emerging inadequacies of health, education, rural and urban infrastructure, and all other physical infrastructure.
 
-Concluding Remarks
+**Concluding Remarks**
 
 The economic reforms process carried out in India over the last 15 years has brought forth a burst of new entrepreneurial energies across the board in almost all sectors. As a consequence, the country is now recording substantial economic growth in excess of 8 percent. This growth could possibly be constrained by the lack of both quality and quantity of public services supplied by the Government and its various authorities. Hence there has to be all-round improvement in investment in and delivery of public services.
 
 The new focus of economic reforms has to be the empowerment of the public sector to do what it is supposed to do: public services.
+
+_Previous musing: [NANI PALKHIVALA: EDUCATION, LEADERSHIP, AND VISION OF FREE INDIA](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/)_
+
+---
+
+_Sourced from the WordPress database export (post ID 7207, https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/). Needs editorial review._

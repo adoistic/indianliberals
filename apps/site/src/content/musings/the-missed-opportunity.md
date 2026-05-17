@@ -1,40 +1,48 @@
 ---
 id: "the-missed-opportunity"
 title: "The Missed Opportunity"
-pubDate: "2023-02-08T00:00:00Z"
+pubDate: "2023-02-08T10:55:23Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/the-missed-opportunity/) on 2026-05-17. Needs editorial review._
+_Published by Swatantra Party, “The Missed Opportunity” comprises speeches by its MPs MR Masani, Charanjit Rai and N Dandekar, each of whom expressed their discontent towards the Central Budget of 1967-68. The Swatantra Party MPs, in addition to highlighting the shortfalls of the central budget, shed light on the poor outcome of previous policies of the then-ruling party that have failed to achieve their original objective._
 
-Published by Swatantra Party, “The Missed Opportunity” comprises speeches by its MPs MR Masani, Charanjit Rai and N Dandekar, each of whom expressed their discontent towards the Central Budget of 1967-68. The Swatantra Party MPs, in addition to highlighting the shortfalls of the central budget, shed light on the poor outcome of previous policies of the then-ruling party that have failed to achieve their original objective.
+_The following text is the speech delivered by Mr Charanjit Rai, MP from the constituency of Dausa, Rajasthan on June 8, 1967, in the Lok Sabha during a discussion on the General Budget._
 
-The following text is the speech delivered by Mr Charanjit Rai, MP from the constituency of Dausa, Rajasthan on June 8, 1967, in the Lok Sabha during a discussion on the General Budget.
+_You can read the original, unabridged version on _[_Page 27_](https://indianliberals.in/wp-content/uploads/2022/06/Copy-of-The-Missed-opportunity.pdf)_ here._
 
-You can read the original, unabridged version on Page 27 here.
+
 
 Mr Deputy Speaker, Sir, it is a matter of common sense that the economic prosperity of any country can be brought about by the maximum utilisation of resources of that country. In that process, the human factor is important. It is the man who makes use of these resources to the maximum extent through his knowledge, hard work and sincerity of purpose, but for this, he needs incentives. Even Sri Morarji Desai did not wish to join the Cabinet till he was offered the incentive of a Deputy Prime Ministership. The day before yesterday, even Shri Dange accepted the principle of incentives. Sir, slogans, preaching and lectures can never be a substitute for incentives.
 
 The budget is not merely a statement of income and expenditure. It signifies much more. The budget starts a chain reaction in the economy, and it can either promote economic growth or retard it. I am going to comment on the budget from this angle. But, before I do that, I would like to briefly review the effect of the previous fiscal policies of the Government in relation to the Three Plans.
 
-Plan Objectives
+### **Plan Objectives**
+
 
 The objectives of the Plans were mainly:
 
-To increase the National Income
 
-To raise the Standard of Living of the people
+ 	- To increase the National Income
 
-To increase production, both agricultural and industrial, and
+ 	- To raise the Standard of Living of the people
 
-Lastly, to provide employment opportunities
+ 	- To increase production, both agricultural and industrial, and
+
+ 	- Lastly, to provide employment opportunities
+
+
 
 To achieve these objectives, the outlay on the Plans, leaving aside the investment in the private sector, was about Rs. 16,000 crores, of which leaving other things, Rs. 4,200 crores were by additional taxation, Rs. 2,500 crores from foreign aid, and Rs. 3,700 crores by deficit financing. The hardships caused to the people by high taxation and deficit financing would not have mattered much if the objectives had been achieved, but they matter because this did not happen. Let us see what has actually happened.
 
-Failure
+ 
+
+### **Failure**
+
 
 In the case of national income, the increase was 3.9 per cent annum, against a target of over 5 per cent per annum. Regarding the standard of living of the people, the per capita income on average increased by about 3 per cent per annum, whereas the consumer price index went up on average by about 6.6 per cent. It is very clear, therefore, that the standard of living of the people, instead of going up, has gone down.
 
@@ -50,13 +58,23 @@ Secondly, crippling taxation was inflicted to meet the demands of the Congress G
 
 Thirdly, the Government placed impediments in the path of economic progress of the country by checks and controls, particularly the Industrial Licensing Policy. By this policy, they created a very large installed capacity without caring to find out whether the country could feed this installed capacity with raw materials, either local or imported. It does not speak very well of a government which spends huge amounts of money for importing machinery, both for the public and private sectors, when that machinery cannot be used to the optimum extent just because the raw material is not there.
 
-Lessons not Learnt
+###
+
+
+
+### **Lessons not Learnt**
+
 
 Sir, I have given you the aims, the failure and the reasons. Now the question arises whether the Government has learnt any lesson. The answer is “No”. I said originally that I would like to comment on the Budget from one angle; to see whether it promotes economic growth. Frankly, I see nothing in the Budget which does this. Economic growth can take place, and prices can be brought down only by higher production, both in industry and agriculture. About agriculture, we are told, the reason is “drought”. Surely the planners and the Government know that Indian agriculture has been dependent upon rainfall for thousands and thousands of years. It is not a new phenomenon. What has the Government done for the last twenty years to see that, if in one year there is a shortage of rain, the production does not go down to the level where people starve? I admit that they have started very large irrigation projects either in this part of the country or in that part of the country. They should have started minor and medium irrigation projects throughout India so that a farmer, no matter from which part of the country he comes, gets water to cultivate his land. To take shelter under drought is just to cover their own mistakes. I may point out that we have imported food grains even when we had a good year. The only difference is that we imported less when the rainfall was good, and we imported more when the rainfall was less. I am glad to see that the Government is giving up priority to agriculture. At least 15 years, they have learnt one lesson.
 
 Coming to the Industrial sector, I see that very small, minor reliefs have been given, which will not have much effect on growth. The same is the case with the capital market. What was required to be done was that there should have been a reduction in taxation on the corporate sector, dividend tax should have been abolished, the rebate should have been given for ploughed-back capital, and profit surtax should have been abolished. This would have brought in more investment in the Industry, and with the ploughed-back capital, the industrial growth would have been sizeable. They could have gone for expansion, and that would have enabled them to give a reasonable return to the investor. Today, the investor is not getting a reasonable return result because he is investing in unproductive spheres like land, houses and gold.
 
-Economic Realities
+###
+
+
+
+### **Economic Realities**
+
 
 The Finance Minister has a very fine opportunity to boost our economy by making an overall reduction in taxation so that in the corporate sector, it would not be more than 50 per cent; and on individuals 66 per cent. He might say, “I will lose money. Where will I get revenue from?”
 
@@ -70,24 +88,38 @@ Our Finance Minister has been very shrewd. He has not given any figure of cut in
 
 A Hon Member: That is the secret preserve of the Finance Minister.
 
-Shri Charanjit Rai… by saying, “yes, we are going to cut”, and he says that he is going to start it with his own Department. I would remind the Finance Minister that he sent a note to the Congress Working Committee where he had suggested a cut of 10 per cent in Government expenditure. He has suggested this to the Congress Working Committee, but he has not taken any action on the Budget.
+_Shri Charanjit Rai…_ by saying, “yes, we are going to cut”, and he says that he is going to start it with his own Department. I would remind the Finance Minister that he sent a note to the Congress Working Committee where he had suggested a cut of 10 per cent in Government expenditure. He has suggested this to the Congress Working Committee, but he has not taken any action on the Budget.
 
-Concrete Steps
+###
+
+
+
+### **Concrete Steps**
+
 
 We have no quarrel with the Finance Minister when he says that we should bring confidence in the minds of investors, both in India and abroad. But this needs, taking concrete steps, and I can suggest a few:
 
-Bold reduction of taxation on the corporate sector as well as on individuals;
 
-No nationalisation for the sake of nationalisation because this sends fear into the mind of investors both in India and abroad;
+ 	- Bold reduction of taxation on the corporate sector as well as on individuals;
 
-Reduction of stress on the public sector; the projects should be placed in the private sector wherever they are likely to produce better results; and lastly,
+ 	- No nationalisation for the sake of nationalisation because this sends fear into the mind of investors both in India and abroad;
 
-I would like the Finance Minister to put into effect what he has recommended to the Congress Working Committee, and that is a cut of 10 per cent in Government expenditure. Once this is done, he has no need to propose new taxes; on the contrary, he can give relief.
+ 	- Reduction of stress on the public sector; the projects should be placed in the private sector wherever they are likely to produce better results; and lastly,
 
-Sir, I have done, but before I sit down, I want to tell the Treasury Benches that they should take lessons from the past. The masses of India are seething with discontent. (Interruptions)
+ 	- I would like the Finance Minister to put into effect what he has recommended to the Congress Working Committee, and that is a cut of 10 per cent in Government expenditure. Once this is done, he has no need to propose new taxes; on the contrary, he can give relief.
 
-An Hon. Member: Laissez-Faire
 
-Shri Charanjit Rai: I was talking about the economy.
+
+Sir, I have done, but before I sit down, I want to tell the Treasury Benches that they should take lessons from the past. The masses of India are seething with discontent. _(Interruptions)_
+
+An Hon. Member: _Laissez-Faire_
+
+_Shri Charanjit Rai: _I was talking about the economy.
 
 The dragon of mounting prices stares us in the face all the time. Mr Morarji Desai says that he would like to rehabilitate his confidence, but he has not taken any steps for it. I am afraid our Finance Minister looks at the problem, the economic problem, like so many Congressmen, through the glasses of politics. As long as this goes on, we will never be able to increase production; we will never be able to produce enough food and industrial and consumer goods, and the economy will just go down.
+
+_Previous musing: [The Budget Versus The People](https://indianliberals.in/content/the-budget-versus-the-people-2/)_
+
+---
+
+_Sourced from the WordPress database export (post ID 7961, https://indianliberals.in/content/the-budget-versus-the-people-3/). Needs editorial review._

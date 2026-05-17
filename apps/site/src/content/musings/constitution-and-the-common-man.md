@@ -1,20 +1,15 @@
 ---
 id: "constitution-and-the-common-man"
 title: "Constitution And The Common Man"
-pubDate: "2022-11-23T00:00:00Z"
+pubDate: "2022-11-23T00:00:35Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/constitution-and-the-common-man/) on 2026-05-17. Needs editorial review._
-
-Source: Reuters
-
-This article was published in the February 1971 issue of Freedom First and is an excerpt from a lecture delivered in Bombay. At the time, Right to Property was still a Fundamental Right but was constantly being undermined by our legislators. An eminent jurist and economist, Palkhivala was one of the most fierce defenders of rule of law. You can read the original, unabridged version here.
-
-India has never known true democratic freedom in its entire history except during the last 23 years. If Plato’s dictum regarding political evolution is correct, our newly won freedom will have to be zealously guarded if it is not to be supplanted by dictatorship. In a nascent republic where freedom is not bred in the bones of the people, the danger of dictatorship is always vastly greater than in democracies which are centuries old.
+_This article was published in the February 1971 issue of Freedom First and is an excerpt from a lecture delivered in Bombay. At the time, Right to Property was still a Fundamental Right but was constantly being undermined by our legislators. An eminent jurist and economist, Palkhivala was one of the most fierce defenders of rule of law. You can read the original, unabridged version [here](http://freedomfirst.in/uploads/issues/pdf/225.pdf).__ _India has never known true democratic freedom in its entire history except during the last 23 years. If Plato’s dictum regarding political evolution is correct, our newly won freedom will have to be zealously guarded if it is not to be supplanted by dictatorship. In a nascent republic where freedom is not bred in the bones of the people, the danger of dictatorship is always vastly greater than in democracies which are centuries old.
 
 In India freedom is not more than one election away from extinction. When an attempt to uphold the rule of law is called a manifestation of ‘vested interests’; and when the preservation of the sanctity of the constitution is called the handiwork of ‘reactionary forces’, it should be clear to any thinking mind that freedom is in peril.
 
@@ -37,3 +32,9 @@ Countries where freedom has become a way of life, can do without the luxury of a
 The myth has been sedulously propagated by wily politicians that it is the Constitution which stands in the way of the nation’s economic progress and the uplift of the masses. This is the greatest fraud ever perpetrated on the people. The truth of the matter is that it is the wooden-headed and disastrous economic policies of the Governments at the Centre and in several States which are truly responsible for the miseries of the seventeen million unemployed and the many more millions who, though employed, are still living below the minimum subsistence level due to the erosion in the value of the rupee. There is not a single sound economic policy or scheme for the social development of the masses which is in the slightest degree hampered or hindered by any of the provisions of the Constitution.
 
 There is no doubt that the overwhelming majority of thinking men strongly believe in Fundamental Rights and are deeply conscious of the outstanding role played by the Courts in preserving our cherished values. But unfortunately, they constitute the silent majority. There are times in a country’s history when inaction and silence can be a culpable wrong, and we are living in such times. It is not enough that we believe in our national motto that truth with ultimately prevail. We must take active steps to see to it that falsehood does not have very long innings before the ultimate moment of truth arrives.
+
+_Previous musing: [The Light of the Constitution](https://indianliberals.in/content/the-light-of-the-indian-constitution/)_
+
+---
+
+_Sourced from the WordPress database export (post ID 7828, https://indianliberals.in/content/the-light-of-the-constitution/). Needs editorial review._

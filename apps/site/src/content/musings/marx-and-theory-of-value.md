@@ -1,18 +1,17 @@
 ---
 id: "marx-and-theory-of-value"
 title: "Marx and Theory of Value"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T09:28:26Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/marx-and-theory-of-value/) on 2026-05-17. Needs editorial review._
+Marx's theory of surplus-value is not the result of unbiased research. Marx knew what he wanted to prove. What he wanted was to unmask exploitation under capitalism but the economic development made by capitalistic countries has falsified the very basic structure of Marxism.
 
-Marx’s theory of surplus-value is not the result of unbiased research. Marx knew what he wanted to prove. What he wanted was to unmask exploitation under capitalism but the economic development made by capitalistic countries has falsified the very basic structure of Marxism.
-
-The following is an article written by Prof. G N Lawande in November 1962 issue of The Indian Libertarian, an independent journal of public affairs. In the article, Prof. Lawande provides a critical analysis of Marx’s labour theory of value.
+The following is an article written by **Prof. G N Lawande** in November 1962 issue of The Indian Libertarian, an independent journal of public affairs. In the article, Prof. Lawande provides a critical analysis of Marx’s labour theory of value.
 
 At present that there are many in our country who believe that capitalism has failed to deliver the goods and the only remedy to overcome the evils of capitalism is to adopt socialism. On the basis of this assumption, our government has adopted a socialist pattern of society as one of the objectives of our Five-Year Plans. Karl Marx was the first economist to give us a systematic analysis of socialism. There were other economists but they were called Utopian Socialists. Marx was the most powerful of all critics of capitalism. At present many have accepted Marxism as the gospel of truth and have embraced it as a religion, “which promises paradise on this side of the grave”. Marx’s critique of capitalism is based on the idea that there is no harmony of interests as believed by classical economists. Marx “conceives of economic life in terms of conflict of interests between owners of property who do not work and workers who own no property”. He wanted to show that the capitalist process was the process of exploitation of one class by the other and that the economic consequence of this exploitation will ultimately destroy capitalism. The economic theory which explains this process of exploitation is the theory of surplus-value which in tum is based upon the labour theory of value.
 
@@ -26,8 +25,12 @@ Marx admits that there must be social demand for the product in order to define 
 
 Though the labour theory of value as analysed by Marx does not explain existing price relations in capitalism yet Marx maintains that his theory can be applied to explain exchange values in planned economy when he says, “only when production will be under the conscious and prearranged control of society, will society establish a direct relation between the quantity of social labour-time employed in the production of definite articles and the quantity of demand for them. It may be for this cryptic remark that our government has adopted a socialist pattern of society as one of the objectives of our plans, which has resulted in the expansion of public sector at the cost of the private sector. Our economic progress cannot be accelerated unless we reverse this policy and give a proper role to the private sector in the economic development of our country. Our progress cannot be based on Marxian analysis which is a myth, and not a reality. Marx conceived his theory of surplus-value before he worked out his theory.” He knew the result he wished to obtain and must obtain, and so he twisted and manipulated his patent ideas and logical premises with admirable skill and subtlety until they actually yielded the desired result in seemingly respectable syllogistic form”. His theory of surplus-value is not the result of unbiased research. Marx knew what he wanted to prove. What he wanted was to unmask exploitation under capitalism but the economic development made by capitalistic countries has falsified the very basic structure of Marxism.
 
-Access the original text here. (page 9)
+Access the original text **[here](http://v2.indianliberals.in/~_admin/pdflanguage?id=2036209718.pdf)**. (page 9)
 
 First Published in the Indian Libertarian in November 1962.
 
-Other editions of the publication can be accessed at Indian Liberals, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
+Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
+
+---
+
+_Sourced from the WordPress database export (post ID 2319, http://localhost/IL/content/so-musings-the-gold-problem-in-india/). Needs editorial review._

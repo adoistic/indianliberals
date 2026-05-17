@@ -1,18 +1,18 @@
 ---
 id: "socialism-or-state-capitalism"
-title: "Socialism or State Capitalism (1970)"
-pubDate: "2023-06-14T00:00:00Z"
+title: "Socialism or State Capitalism"
+pubDate: "2023-06-14T13:10:31Z"
+themes: []
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/socialism-or-state-capitalism/) on 2026-05-17. Needs editorial review._
+_The musing shared below is a 1970 piece published by the Forum of Free Enterprise and authored by K Santhanam. In 1948, Santhanam was the Minister of State for Railways and Transport in the Government of India, followed by a stint as the Lieutenant Governor of Vindhya Pradesh. A prolific writer, Santhanam also served as the first editor of the Indian Express from 1932 until 1940, subsequently becoming the joint editor of the Hindustan Times. In 1962, Santhanam was appointed as the chairman of the Committee on Prevention of Corruption. The recommendations of this Committee, also known as the Santhanam Committee, resulted in the establishment of the Central Vigilance Commission in 1964._
 
-The musing shared below is a 1970 piece published by the Forum of Free Enterprise and authored by K Santhanam. In 1948, Santhanam was the Minister of State for Railways and Transport in the Government of India, followed by a stint as the Lieutenant Governor of Vindhya Pradesh. A prolific writer, Santhanam also served as the first editor of the Indian Express from 1932 until 1940, subsequently becoming the joint editor of the Hindustan Times. In 1962, Santhanam was appointed as the chairman of the Committee on Prevention of Corruption. The recommendations of this Committee, also known as the Santhanam Committee, resulted in the establishment of the Central Vigilance Commission in 1964.
+_You can read the unabridged version with contributions from Dr R C Cooper and Prof. C L Gheevala here [Socialism or State Capitalism](https://indianliberals.in/wp-content/uploads/2023/06/Socialism-or-State-Capitalism.pdf)___
 
-You can read the unabridged version with contributions from Dr R C Cooper and Prof. C L Gheevala here Socialism or State Capitalism
+
 
 It is bad enough that India should be a hundred years behind advanced nations in industrial development. It is a much more serious handicap that intellectuals and politicians should be more out of date in their ideals. This is particularly true of capitalism and socialism, the nature of which has undergone a great change since Karl Marx expounded his theory. Both these concepts arose out of the industrial revolution. In the early stages, the main characteristics of industrialisation were:
 
@@ -24,9 +24,9 @@ It is bad enough that India should be a hundred years behind advanced nations in
 
 (4) appropriation of the surpluses by a small number of capitalists owning the new industries.
 
-Karl Marx put forward his doctrine of socialism, assuming that these were inescapable conditions of capitalist production. He argued that in order to prevent the exploitation of labour, ensure reasonable conditions for workers and utilise the surpluses produced by machine production for social welfare, it was necessary to socialise the means of production. He did not mean by socialisation State ownership or management of industry or commerce. In his essay, “Socialism, Utopian and Scientific”, Frederick Engels wrote, “The modern state, no matter what its form, is essentially a capitalist machine, the state of the capitalists, the ideal personification of the total national capital. The more it proceeds to the taking over of productive forces, the more it actually becomes the national capitalist, and the more citizens it exploits. The workers remain wage-earners-proletarians. The capitalist relation is not done away with. It is rather brought to a head.”
+Karl Marx put forward his doctrine of socialism, assuming that these were inescapable conditions of capitalist production. He argued that in order to prevent the exploitation of labour, ensure reasonable conditions for workers and utilise the surpluses produced by machine production for social welfare, it was necessary to socialise the means of production. He did not mean by socialisation State ownership or management of industry or commerce. In his essay, “Socialism, Utopian and Scientific”, Frederick Engels wrote, “The modern state, no matter what its form, is essentially a capitalist machine, the state of the capitalists, the ideal personification of the total national capital. The more it proceeds to the taking over of productive forces, the more it actually becomes the national capitalist, and the more citizens it exploits. The workers remain wage-earners-proletarians. The capitalist relation is not done away with. It is rather brought to a head."
 
-When the revolution took place in Russia, industrialisation had not proceeded far in that country, and such industrialisation as existed was controlled by foreign capitalists to a large extent. Therefore Lenin turned to State Capitalism as the only means of industrialising Russia.
+When the revolution took place in Russia, industrialisation had not proceeded far in that country, and such industrialisation as existed was controlled by foreign capitalists to a large extent. Therefore Lenin turned to State Capitalism as the only means of industrialising Russia. 
 
 Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR, and this has to a large extent, been followed by other communist countries of Eastern Europe.
 
@@ -74,7 +74,7 @@ Thus, the class structure is inherent in any social system, which is based on th
 
 In India, almost all politicians and thinkers demand an immediate and visible improvement of the condition of our peasant masses and urban proletariat, but this is no issue between capitalism and socialism, and those who cherish the illusion of eliminating poverty and squalor through State Capitalism miscalled socialism is only postponing the attainment of this legitimate objective. All those who are interested in the uplift of the masses should let the protagonists of all forms of capitalism, including State Capitalism, fight amongst themselves and arrive at whatever compromise they deem fit.
 
-The major issues for the masses in India, whether urban or rural, are employment, food, houses, health and education. Some efforts have been made under the plans to increase food production and promote health and education, but little has been done in the matter of housing. I would like any member of the Planning Commission or of the Government of India to stand up and say where and when the landless agricultural labourers and small peasants and slum dwellers of the cities and towns will be able to have houses which are fit for human living. I have no doubt that so long as these people live in miserable and unsanitary huts, as at present, neither education nor high wages will benefit them. If any of our leaders paused to think of the psychological, emotional and sanitary aspects of the problem of housing, they would have to admit that their indifference is almost criminal.
+The major issues for the masses in India, whether urban or rural, are employment, food, houses, health and education. Some efforts have been made under the plans to increase food production and promote health and education, but little has been done in the matter of housing. I would like any member of the Planning Commission or of the Government of India to stand up and say where and when the landless agricultural labourers and small peasants and slum dwellers of the cities and towns will be able to have houses which are fit for human living. I have no doubt that so long as these people live in miserable and unsanitary huts, as at present, neither education nor high wages will benefit them. If any of our leaders paused to think of the psychological, emotional and sanitary aspects of the problem of housing, they would have to admit that their indifference is almost criminal. 
 
 I think it is possible to have a housing programme by which the village panchayat and municipal corporations will undertake to build houses on a phased programme so that there will be no unsanitary huts and slums in our villages and towns. A similar concerted attack on unemployment is no less essential. It is almost a cynical contempt of our masses which permits the Central and State Ministers to talk airily of socialism when the number of unemployed in rural and urban areas is steadily increasing.
 
@@ -83,3 +83,9 @@ It is foolish to contend that there is no work for the 20 or 30 million unemploy
 State Capitalism cannot now or in the near future provide work for the unemployed. It is only through a wide decentralisation of economic initiative and active encouragement of all agencies of production and use of social services that the problem of unemployment and housing can be adequately tackled. India has still to make a beginning in social security which requires that our production be efficient and produce a surplus.
 
 I stand whole-heartedly for true socialism in India, which I equate with efficient production, full employment, generous social services and comprehensive social security. Every form of production which is consistent with these objectives should be actively encouraged, and every form which, through inherent inefficiency or psychological inadequacy, is likely to obstruct their achievement should be rejected as inconsistent with true socialism.
+
+_Previous musing: [Limits and Limitations of State Trading (1958)](https://indianliberals.in/content/limits-and-limitations-of-state-trading/)_
+
+---
+
+_Sourced from the WordPress database export (post ID 8128, https://indianliberals.in/content/limits-and-limitations-of-state-trading-1958/). Needs editorial review._

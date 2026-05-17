@@ -1,16 +1,15 @@
 ---
 id: "auctioning-import-licenses-b-r-shenoy"
-title: "Auctioning Import Licenses – B.R. Shenoy"
-pubDate: "2024-10-07T00:00:00Z"
+title: "Auctioning Import Licenses - B.R. Shenoy"
+pubDate: "2024-10-07T16:12:28Z"
+themes: 
+  - "indian-libertarian-periodicals"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/auctioning-import-licenses-b-r-shenoy/) on 2026-05-17. Needs editorial review._
-
-Produced below is an excerpt from an essay published in The Indian Libertarian, January 1959, titled “Auctioning Import Licenses” by B.R. Shenoy. It explores the inefficiencies of India’s import licensing system and advocates for a shift towards auctioning these licenses to generate government revenue and curb corruption.
+_Produced below is an excerpt from an essay published in The Indian Libertarian, January 1959, titled "Auctioning Import Licenses" by B.R. Shenoy. It explores the inefficiencies of India's import licensing system and advocates for a shift towards auctioning these licenses to generate government revenue and curb corruption._
 
 Import licenses today are issued to Established Importers, Actual Users, and government or governmental establishments. Apart from illegal payments made to corrupt officials, the licenses are issued free of charge even to private parties. But, because of the wide disparities which exist between the internal prices of imported goods and their landed costs (i.e., the external prices multiplied by the rate of exchange), import licenses fetch phenomenal prices in the market; these prices may vary from 50% to 500% or more of the face value of the licenses, depending upon commodities. The recent cut in imports has driven these prices up. You cannot get rich quicker today than by getting import licenses issued in your favor. An appropriate license may bring lakhs of rupees, literally, overnight. This operation, which is remarkably simple if we have the right men in the right places in the right ministries, is even more profitable than gold smuggling (which yields a gross profit of 73% on each act of smuggling), involves much less work, and carries next to no risks.
 
@@ -22,8 +21,12 @@ These windfall receipts would represent 60-80% of the annual average of the tax 
 
 It would, however, put a stop to the concealed subsidies of the industrialists, as the cost of the import goods would now amount to not merely landed costs, as formerly, but landed costs plus the prices paid for the import licenses. But subsidization of industries should be done on a more rational basis than through the issue of import licenses; it should not be mixed up with the adoption of corrective measures for the balance of payments difficulties of the country​.
 
-The crux of India’s payments problem is, on the one hand, to bring about a shift-back to production for export from production for the home market and, on the other, to eliminate the vast gaps between the landed costs and market prices of import goods and between the internal and the external prices of gold. Stabilization of the economy is not possible without this two-dimensional desideratum. The auction of the import licenses would equate domestic prices of import goods to their external prices; the shift-back in production, which is necessary on a considerable scale, may be achieved by drawing on the auction proceeds of import licenses to subsidize exports. This would serve the ends of economic justice as the ill-merited gains of the import trade are acquired mainly at the expense of the export industries.
+The crux of India's payments problem is, on the one hand, to bring about a shift-back to production for export from production for the home market and, on the other, to eliminate the vast gaps between the landed costs and market prices of import goods and between the internal and the external prices of gold. Stabilization of the economy is not possible without this two-dimensional desideratum. The auction of the import licenses would equate domestic prices of import goods to their external prices; the shift-back in production, which is necessary on a considerable scale, may be achieved by drawing on the auction proceeds of import licenses to subsidize exports. This would serve the ends of economic justice as the ill-merited gains of the import trade are acquired mainly at the expense of the export industries.
 
-The export promotion measures we have so far adopted, or have under active consideration, include relief from export duties, “draw-backs,” rebates on customs and excise duties, and remission of sales tax on exports, rediscount of export bills at preferential rates, freight concession on Railways, supply of steel at concession rates for export production, wider coverage of insurance risks than hitherto, provision of certain administrative facilities to exports, and so on​.
+The export promotion measures we have so far adopted, or have under active consideration, include relief from export duties, "draw-backs," rebates on customs and excise duties, and remission of sales tax on exports, rediscount of export bills at preferential rates, freight concession on Railways, supply of steel at concession rates for export production, wider coverage of insurance risks than hitherto, provision of certain administrative facilities to exports, and so on​.
 
-Read the complete text here. (Page I – Indian Libertarian Supplement)
+Read the complete text [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan1-1959.pdf). (Page I - Indian Libertarian Supplement)
+
+---
+
+_Sourced from the WordPress database export (post ID 8642, https://indianliberals.in/?post_type=content&#038;p=8642). Needs editorial review._

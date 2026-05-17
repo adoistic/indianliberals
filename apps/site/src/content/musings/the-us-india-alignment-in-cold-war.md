@@ -1,24 +1,23 @@
 ---
 id: "the-us-india-alignment-in-cold-war"
 title: "The US-India Alignment in Cold War"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T06:51:44Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/the-us-india-alignment-in-cold-war/) on 2026-05-17. Needs editorial review._
+_The Indian defeat in the 1962 border war with China not only resulted in loss of territory, but also raised questions about the foreign policy conduct of India’s first Prime Minister Jawaharlal Nehru. _
 
-The Indian defeat in the 1962 border war with China not only resulted in loss of territory, but also raised questions about the foreign policy conduct of India’s first Prime Minister Jawaharlal Nehru.
+_Nehru’s formulation of Non-Alignment, which was couched in the language of third block neutrality, was interpreted as hedging by revisionist scholars, and came under intense criticism. _
 
-Nehru’s formulation of Non-Alignment, which was couched in the language of third block neutrality, was interpreted as hedging by revisionist scholars, and came under intense criticism.
+_Indian liberals, a minor but vocal force of public opinion, were highly sceptical of Nehru’s neutral posturing and instead, advocated closer alignment with the US-led block. For Indian liberals, such posturing made sense given their own deep aversion to both the Chinese and Russian communism, the shared democratic credentials of India and US and with the benefit of hindsight, the possibility of allying with the winning side in the Cold War. _
 
-Indian liberals, a minor but vocal force of public opinion, were highly sceptical of Nehru’s neutral posturing and instead, advocated closer alignment with the US-led block. For Indian liberals, such posturing made sense given their own deep aversion to both the Chinese and Russian communism, the shared democratic credentials of India and US and with the benefit of hindsight, the possibility of allying with the winning side in the Cold War.
+_The muted Soviet response, hapless Non-Aligned Movement (NAM) posturing, and the Anglo-American promise and delivery of military support in the crucial moments of 1962, seemed to vindicate Indian liberals, even if temporarily._
 
-The muted Soviet response, hapless Non-Aligned Movement (NAM) posturing, and the Anglo-American promise and delivery of military support in the crucial moments of 1962, seemed to vindicate Indian liberals, even if temporarily.
-
-Produced below is the editorial from the 15th December 1962, issue of the Indian Libertarian magazine, which warns of the dangers of Chinese expansionism, suggests Indian leveraging of China’s Tibet problem, and argues for closer US-India alignment based on clear headed political realism.
+_Produced below is the editorial from the 15__th__ December 1962, issue of the _Indian Libertarian_ magazine, which warns of the dangers of Chinese expansionism, suggests Indian leveraging of China’s Tibet problem, and argues for closer US-India alignment based on clear headed political realism._
 
 1962 will go down in history as a memorable year which, for the first time, witnessed the invasion of India by foreign hordes through the Himalayan passes. The impregnability and inviolability of India’s Himalayan borders have now proved to be a myth. Beyond the Himalayas, stretches today not the sacred land of the Lamas, but the Tibetan colony of the Chinese Red bandits who drove The Dalai Lama and his patriotic followers out of their motherland in 1960 and are now busy rooting out the time-hallowed Tibetan culture and civilisation and implanting there in its stead their miserable and despicable communist faith and their crude values of terror, deceit and fraud. No longer does India enjoy the centuries old peaceful and happy neighbourly relations with Tibet. The Red enemy from China is now not only at India’s Northern gates but he has also forcibly broken them open and occupied a strategically important position within India’s own precincts. Having accomplished this feat in one grand stride, he is now using all his communist wiles to lull India into a false sense of security so that he might be enabled to consolidate his position there.
 
@@ -38,4 +37,8 @@ Thus if our leadership should free itself from the political and ideological cob
 
 Thus, on a proper analysis of the relation of forces in the East and the West, it will be found that India finds herself in the present delicate situation as a result of her past misguided policies and ideological aberrations. It is, therefore, high time that India made a clear and unambiguous confession of her unflinching faith in Freedom and Democracy, which went into the very framing of the Indian constitution. The spiritual crisis she is passing through is no less great than her military crisis. In fact, the former has aggravated the latter. Let India make a wise and deliberate choice here and now and “Seek First the Kingdom of Freedom”. And it is certain as anything that within a short time ‘All Other Things Will be Added unto Her’ from within and from without and she will come triumphantly out of her present trials and travails.
 
-The original text can be accessed here.
+_The original text can be accessed _[_here_](http://indianliberals.in/~_admin/pdflanguage?id=300361867.pdf)_._
+
+---
+
+_Sourced from the WordPress database export (post ID 2225, http://localhost/IL/content/so-musings-the-us-india-alignment-in-cold-war/). Needs editorial review._

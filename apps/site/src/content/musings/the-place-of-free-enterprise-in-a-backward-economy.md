@@ -1,16 +1,17 @@
 ---
 id: "the-place-of-free-enterprise-in-a-backward-economy"
 title: "The Place of Free Enterprise in a Backward Economy"
-pubDate: "2024-07-15T00:00:00Z"
+pubDate: "2024-07-15T13:01:10Z"
+themes: 
+  - "forum-of-free-enterprise-periodicals"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/the-place-of-free-enterprise-in-a-backward-economy/) on 2026-05-17. Needs editorial review._
+_D. N. Hosali’s publication, "The Place of Free Enterprise in a Backward Economy," critiques the shift towards socialism in India. Hosali argues that socialism stifles the growth and efficiency of the private sector, which is crucial for developing backward economies. He contends that free enterprise is more effective in driving economic progress and ensuring freedom._
 
-D. N. Hosali’s publication, “The Place of Free Enterprise in a Backward Economy,” critiques the shift towards socialism in India. Hosali argues that socialism stifles the growth and efficiency of the private sector, which is crucial for developing backward economies. He contends that free enterprise is more effective in driving economic progress and ensuring freedom.
+
 
 Chambers of Commerce and trades bodies in the country performed a very useful function in our economy in the past. It was through the Chambers of Commerce that the business community voiced its grievances and sought redress for them at the hands of the Government. The Governments of the past also attached great importance to the pronouncements made by them and tried to modify their policies to the extent possible to suit the requirements of trade and industry. It was as a result of this that even under an alien Government our commerce and industry made significant progress during the past quarter of a century. But alas, during the past years we have seen a complete reversal of these policies. Although the old procedure of inviting Ministers of the Government to the Annual Meetings and submitting to them the difficulties of trade and industry continues, little or no importance is attached to the pronouncements of the Chambers of Commerce, and the policies of the Government are shaped in complete disregard of, and often in detriment to, the interests of trade and industry. I state this after due deliberation. As to the numerous representations made by this Chamber during the past two or three years, it has obtained redress hardly on any issue.
 
@@ -20,4 +21,8 @@ Where do all these statements lead us? The private sector needs as much planning
 
 This serious situation has arisen as a result of the adoption of the socialist economy by our Government. Our Government claim that their policy has been endorsed by the country; which means that the vast majority of the unthinking millions of the country have understood the implications of this policy and approve of it. On the other hand, there are thousands of thinking people in the country who are convinced that these policies will not only result in raising the standard of living, but may well create a totalitarian regime. But nevertheless the determination of our Government to press forward with their socialist plans seems to gather strength as time goes on, as though socialism is the only panacea for our economic ills, and the private sector represents all the anti-social evils in our body politic.
 
-Read the complete text here.
+Read the complete text [here](https://indianliberals.in/forum-of-free-enterprise/the-place-of-free-enterprise-in-a-backward-economy-by-dn-hosali.pdf).
+
+---
+
+_Sourced from the WordPress database export (post ID 8592, https://indianliberals.in/?post_type=content&#038;p=8592). Needs editorial review._

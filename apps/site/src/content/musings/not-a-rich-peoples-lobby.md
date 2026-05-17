@@ -1,20 +1,18 @@
 ---
 id: "not-a-rich-peoples-lobby"
 title: "Not a Rich People’s Lobby"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T08:42:13Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/not-a-rich-peoples-lobby/) on 2026-05-17. Needs editorial review._
+The Swatantra Party's principles and the policies it commends are the only policies and principles that can help general welfare and national progress.
+_The detractors of the Swatantra Party, PM Nehru included, used to dismiss it as a reactionary party serving the business interest. The party’s advocacy of pro-market policy (competition, low entry barrier, less taxation, easy regulation, etc.) were dismissed as masking the interests of the Bombay business houses. It fell upon C Rajagopalachari to lay out the difference between pro-business and pro-market policies in an article published on July 6, 1968. In the article, Rajaji laid out the need for a market-driven economy to generate prosperity for all; took dig at big businesses which had a vested interest in maintaining socialist controls; and decried the lack of nuance in the public discourse to make the distinction between freedom and cronyism._
 
-The Swatantra Party’s principles and the policies it commends are the only policies and principles that can help general welfare and national progress.
-
-The detractors of the Swatantra Party, PM Nehru included, used to dismiss it as a reactionary party serving the business interest. The party’s advocacy of pro-market policy (competition, low entry barrier, less taxation, easy regulation, etc.) were dismissed as masking the interests of the Bombay business houses. It fell upon C Rajagopalachari to lay out the difference between pro-business and pro-market policies in an article published on July 6, 1968. In the article, Rajaji laid out the need for a market-driven economy to generate prosperity for all; took dig at big businesses which had a vested interest in maintaining socialist controls; and decried the lack of nuance in the public discourse to make the distinction between freedom and cronyism.
-
-Rajaji’s advocacy of market capitalism has bearing today for a relatively liberalized but still crony and stagnant Indian economy. Produced below is the full text of the article-
+_Rajaji’s advocacy of market capitalism has bearing today for a relatively liberalized but still crony and stagnant Indian economy. Produced below is the full text of the article-_
 
 There can be nothing more untrue than the notion that still persists among people who ought to be better informed but who do not care to enquire, that the Swatantra Party works for rich people. The Swatantra Party works to propagate truth, to educate people who have undertaken the difficult tasks of democracy in the truth that economic progress rests on healthy competition and on the incentives that make people work for their own advantage while also serving the nation. The party works to make people see that management by Government means management by inefficient and uninterested officials or the creation of monopolies for favoured licencees who are interested in making more for themselves than for their customers or for the general public.
 
@@ -24,8 +22,12 @@ Most often businessmen acquiesce in controls out of sheer timidity. In the capit
 
 Calumny has had a start and it keeps on maintaining the falsehood that the Swatantra Party is a rich men’s lobby. The rich men know where to go; they go to the party in power. “Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny.” I make bold to assert that the Swatantra Party has never once stood up for untruth or to help any single rich exploiter at the cost of justice or fair play. The Party has stood for reduction of taxes and for reduction of public expenditure. This is because such a reduction is good for the nation since it increases savings and productive investment of such savings. The Swatantra Party’s principles and the policies it commends are the only policies and principles that can help general welfare and national progress.
 
-The original text could be accessed here.
+The original text could be accessed [here](http://indianliberals.in/~_admin/pdflanguage?id=804797230.pdf).
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+[_IndianLiberals.in_](http://indianliberals.in/)_ is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-To read more about C. Rajagopalachari, click here.
+To read more about C. Rajagopalachari, [click here](https://spontaneousorder.in/rajaji-relevance-to-todays-politics-of-the-right/).
+
+---
+
+_Sourced from the WordPress database export (post ID 2283, http://localhost/IL/content/so-musing-remembering-dr-ambedkar/). Needs editorial review._

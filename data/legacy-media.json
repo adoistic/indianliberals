@@ -1,0 +1,1592 @@
+{
+  "_meta": {
+    "generated_from": "extract_media.py",
+    "note": "Numeric-ID files (e.g. 1083724334.jpg) are uploaded media from the WordPress era \u2014 we don't have name metadata for them in the extracted DBs because their attachment records live in il_postmeta._wp_attached_file under different paths. Named files (coverimg__masani.jpg) are referenced by the mid-era wp_author/wp_book/wp_periodicals tables but are NOT present on this drive \u2014 they're inside the unextracted wp-content/uploads/ subtree of the tar.gz backup."
+  },
+  "on_disk": {
+    "portraits": [
+      {
+        "filename": "1083724334.jpg",
+        "size_bytes": 6205,
+        "source_path": "PDFs/person/1083724334.jpg"
+      },
+      {
+        "filename": "1085619006.jpg",
+        "size_bytes": 45655,
+        "source_path": "PDFs/person/1085619006.jpg"
+      },
+      {
+        "filename": "1293987019.jpg",
+        "size_bytes": 49569,
+        "source_path": "PDFs/person/1293987019.jpg"
+      },
+      {
+        "filename": "1344546258.jpg",
+        "size_bytes": 55556,
+        "source_path": "PDFs/person/1344546258.jpg"
+      },
+      {
+        "filename": "1436428286.jpg",
+        "size_bytes": 42271,
+        "source_path": "PDFs/person/1436428286.jpg"
+      },
+      {
+        "filename": "1448366750.jpg",
+        "size_bytes": 46553,
+        "source_path": "PDFs/person/1448366750.jpg"
+      },
+      {
+        "filename": "150365719.jpg",
+        "size_bytes": 60179,
+        "source_path": "PDFs/person/150365719.jpg"
+      },
+      {
+        "filename": "1553402992.jpg",
+        "size_bytes": 27408,
+        "source_path": "PDFs/person/1553402992.jpg"
+      },
+      {
+        "filename": "1595964203.jpg",
+        "size_bytes": 5501,
+        "source_path": "PDFs/person/1595964203.jpg"
+      },
+      {
+        "filename": "1633126184.jpg",
+        "size_bytes": 150545,
+        "source_path": "PDFs/person/1633126184.jpg"
+      },
+      {
+        "filename": "1658282539.jpg",
+        "size_bytes": 12379,
+        "source_path": "PDFs/person/1658282539.jpg"
+      },
+      {
+        "filename": "1727785208.jpg",
+        "size_bytes": 7869,
+        "source_path": "PDFs/person/1727785208.jpg"
+      },
+      {
+        "filename": "1872258273.png",
+        "size_bytes": 108684,
+        "source_path": "PDFs/person/1872258273.png"
+      },
+      {
+        "filename": "1925619777.jpg",
+        "size_bytes": 12379,
+        "source_path": "PDFs/person/1925619777.jpg"
+      },
+      {
+        "filename": "2090637837.JPG",
+        "size_bytes": 25975,
+        "source_path": "PDFs/person/2090637837.JPG"
+      },
+      {
+        "filename": "2097021491.png",
+        "size_bytes": 171328,
+        "source_path": "PDFs/person/2097021491.png"
+      },
+      {
+        "filename": "2145524334.jpg",
+        "size_bytes": 150545,
+        "source_path": "PDFs/person/2145524334.jpg"
+      },
+      {
+        "filename": "246005559.jpg",
+        "size_bytes": 8405,
+        "source_path": "PDFs/person/246005559.jpg"
+      },
+      {
+        "filename": "262583534.jpg",
+        "size_bytes": 8872,
+        "source_path": "PDFs/person/262583534.jpg"
+      },
+      {
+        "filename": "328866553.jpg",
+        "size_bytes": 16976,
+        "source_path": "PDFs/person/328866553.jpg"
+      },
+      {
+        "filename": "364301421.jpg",
+        "size_bytes": 52966,
+        "source_path": "PDFs/person/364301421.jpg"
+      },
+      {
+        "filename": "400679585.jpg",
+        "size_bytes": 7970,
+        "source_path": "PDFs/person/400679585.jpg"
+      },
+      {
+        "filename": "494499543.jpg",
+        "size_bytes": 31099,
+        "source_path": "PDFs/person/494499543.jpg"
+      },
+      {
+        "filename": "555646797.png",
+        "size_bytes": 67310,
+        "source_path": "PDFs/person/555646797.png"
+      },
+      {
+        "filename": "558785953.png",
+        "size_bytes": 85143,
+        "source_path": "PDFs/person/558785953.png"
+      },
+      {
+        "filename": "608543698.jpg",
+        "size_bytes": 5864,
+        "source_path": "PDFs/person/608543698.jpg"
+      },
+      {
+        "filename": "6993645.jpg",
+        "size_bytes": 45691,
+        "source_path": "PDFs/person/6993645.jpg"
+      },
+      {
+        "filename": "722541922.jpg",
+        "size_bytes": 6860,
+        "source_path": "PDFs/person/722541922.jpg"
+      },
+      {
+        "filename": "731117443.jpg",
+        "size_bytes": 97946,
+        "source_path": "PDFs/person/731117443.jpg"
+      },
+      {
+        "filename": "764124211.jpg",
+        "size_bytes": 16750,
+        "source_path": "PDFs/person/764124211.jpg"
+      },
+      {
+        "filename": "764124211.png",
+        "size_bytes": 87200,
+        "source_path": "PDFs/person/764124211.png"
+      },
+      {
+        "filename": "811814691.jpg",
+        "size_bytes": 46329,
+        "source_path": "PDFs/person/811814691.jpg"
+      },
+      {
+        "filename": "831489386.jpg",
+        "size_bytes": 23348,
+        "source_path": "PDFs/person/831489386.jpg"
+      },
+      {
+        "filename": "1195806175.png",
+        "size_bytes": 7690,
+        "source_path": "PDFs/profile/1195806175.png"
+      },
+      {
+        "filename": "1207506725.png",
+        "size_bytes": 52987,
+        "source_path": "PDFs/profile/1207506725.png"
+      },
+      {
+        "filename": "1270608002.png",
+        "size_bytes": 4390,
+        "source_path": "PDFs/profile/1270608002.png"
+      },
+      {
+        "filename": "1601147731.png",
+        "size_bytes": 5026126,
+        "source_path": "PDFs/profile/1601147731.png"
+      },
+      {
+        "filename": "1683154345.png",
+        "size_bytes": 52987,
+        "source_path": "PDFs/profile/1683154345.png"
+      },
+      {
+        "filename": "1884393379.png",
+        "size_bytes": 7690,
+        "source_path": "PDFs/profile/1884393379.png"
+      },
+      {
+        "filename": "1904128588.png",
+        "size_bytes": 19141,
+        "source_path": "PDFs/profile/1904128588.png"
+      },
+      {
+        "filename": "2026363040.png",
+        "size_bytes": 10845,
+        "source_path": "PDFs/profile/2026363040.png"
+      },
+      {
+        "filename": "2056022421.jpg",
+        "size_bytes": 6623,
+        "source_path": "PDFs/profile/2056022421.jpg"
+      },
+      {
+        "filename": "298397241.png",
+        "size_bytes": 13687,
+        "source_path": "PDFs/profile/298397241.png"
+      },
+      {
+        "filename": "769612653.png",
+        "size_bytes": 3561,
+        "source_path": "PDFs/profile/769612653.png"
+      }
+    ],
+    "magazine_covers": [
+      {
+        "filename": "000001.jpg",
+        "size_bytes": 50689,
+        "source_path": "PDFs/periodicals/000001.jpg"
+      },
+      {
+        "filename": "1041329982.jpg",
+        "size_bytes": 556904,
+        "source_path": "PDFs/periodicals/1041329982.jpg"
+      },
+      {
+        "filename": "1342750754.jpg",
+        "size_bytes": 32694,
+        "source_path": "PDFs/periodicals/1342750754.jpg"
+      },
+      {
+        "filename": "1491969321.jpg",
+        "size_bytes": 394087,
+        "source_path": "PDFs/periodicals/1491969321.jpg"
+      },
+      {
+        "filename": "1501344793.jpg",
+        "size_bytes": 4944857,
+        "source_path": "PDFs/periodicals/1501344793.jpg"
+      },
+      {
+        "filename": "1651401281.png",
+        "size_bytes": 623540,
+        "source_path": "PDFs/periodicals/1651401281.png"
+      },
+      {
+        "filename": "1755547405.jpg",
+        "size_bytes": 25037,
+        "source_path": "PDFs/periodicals/1755547405.jpg"
+      },
+      {
+        "filename": "1843264079.jpg",
+        "size_bytes": 15509,
+        "source_path": "PDFs/periodicals/1843264079.jpg"
+      },
+      {
+        "filename": "1939275239.jpg",
+        "size_bytes": 24063,
+        "source_path": "PDFs/periodicals/1939275239.jpg"
+      },
+      {
+        "filename": "2040916402.jpg",
+        "size_bytes": 6438,
+        "source_path": "PDFs/periodicals/2040916402.jpg"
+      },
+      {
+        "filename": "2110457228.jpg",
+        "size_bytes": 15509,
+        "source_path": "PDFs/periodicals/2110457228.jpg"
+      },
+      {
+        "filename": "230943520.jpg",
+        "size_bytes": 27733,
+        "source_path": "PDFs/periodicals/230943520.jpg"
+      },
+      {
+        "filename": "271991789.jpg",
+        "size_bytes": 585250,
+        "source_path": "PDFs/periodicals/271991789.jpg"
+      },
+      {
+        "filename": "350685867.JPG",
+        "size_bytes": 6650607,
+        "source_path": "PDFs/periodicals/350685867.JPG"
+      },
+      {
+        "filename": "470394160.jpg",
+        "size_bytes": 32963,
+        "source_path": "PDFs/periodicals/470394160.jpg"
+      },
+      {
+        "filename": "631686120.jpg",
+        "size_bytes": 72871,
+        "source_path": "PDFs/periodicals/631686120.jpg"
+      },
+      {
+        "filename": "632078842.jpg",
+        "size_bytes": 22048,
+        "source_path": "PDFs/periodicals/632078842.jpg"
+      },
+      {
+        "filename": "712012214.JPG",
+        "size_bytes": 5462636,
+        "source_path": "PDFs/periodicals/712012214.JPG"
+      },
+      {
+        "filename": "750851362.jpg",
+        "size_bytes": 15531,
+        "source_path": "PDFs/periodicals/750851362.jpg"
+      },
+      {
+        "filename": "80591136.jpg",
+        "size_bytes": 22450,
+        "source_path": "PDFs/periodicals/80591136.jpg"
+      },
+      {
+        "filename": "942587062.jpg",
+        "size_bytes": 32972,
+        "source_path": "PDFs/periodicals/942587062.jpg"
+      }
+    ],
+    "book_covers": [
+      {
+        "filename": "000001.jpg",
+        "size_bytes": 3843,
+        "source_path": "PDFs/language/000001.jpg"
+      },
+      {
+        "filename": "000001xxx.jpg",
+        "size_bytes": 50689,
+        "source_path": "PDFs/language/000001xxx.jpg"
+      },
+      {
+        "filename": "1191118474.jpg",
+        "size_bytes": 127383,
+        "source_path": "PDFs/language/1191118474.jpg"
+      },
+      {
+        "filename": "1488112353.JPG",
+        "size_bytes": 6678569,
+        "source_path": "PDFs/language/1488112353.JPG"
+      },
+      {
+        "filename": "1711804636.png",
+        "size_bytes": 3886,
+        "source_path": "PDFs/language/1711804636.png"
+      },
+      {
+        "filename": "1711804636xxx.png",
+        "size_bytes": 20628,
+        "source_path": "PDFs/language/1711804636xxx.png"
+      },
+      {
+        "filename": "1778435844xxx.png",
+        "size_bytes": 1971,
+        "source_path": "PDFs/language/1778435844xxx.png"
+      },
+      {
+        "filename": "1818919184.png",
+        "size_bytes": 4906,
+        "source_path": "PDFs/language/1818919184.png"
+      },
+      {
+        "filename": "1818919184xxx.png",
+        "size_bytes": 9492,
+        "source_path": "PDFs/language/1818919184xxx.png"
+      },
+      {
+        "filename": "26991451.JPG",
+        "size_bytes": 6678569,
+        "source_path": "PDFs/language/26991451.JPG"
+      },
+      {
+        "filename": "287992249.JPG",
+        "size_bytes": 113633,
+        "source_path": "PDFs/language/287992249.JPG"
+      },
+      {
+        "filename": "478053430.png",
+        "size_bytes": 26799,
+        "source_path": "PDFs/language/478053430.png"
+      },
+      {
+        "filename": "520486170.jpg",
+        "size_bytes": 14024,
+        "source_path": "PDFs/language/520486170.jpg"
+      },
+      {
+        "filename": "701456986.JPG",
+        "size_bytes": 114340,
+        "source_path": "PDFs/language/701456986.JPG"
+      },
+      {
+        "filename": "853716432.jpg",
+        "size_bytes": 127383,
+        "source_path": "PDFs/language/853716432.jpg"
+      },
+      {
+        "filename": "914128272.jpg",
+        "size_bytes": 14024,
+        "source_path": "PDFs/language/914128272.jpg"
+      },
+      {
+        "filename": "968718706.jpg",
+        "size_bytes": 32963,
+        "source_path": "PDFs/language/968718706.jpg"
+      },
+      {
+        "filename": "99999.png",
+        "size_bytes": 1971,
+        "source_path": "PDFs/language/99999.png"
+      }
+    ],
+    "audio": [
+      {
+        "filename": "1459491102.mp3",
+        "size_bytes": 1467246,
+        "source_path": "PDFs/audio/1459491102.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "1556640990.mp3",
+        "size_bytes": 32152601,
+        "source_path": "PDFs/audio/1556640990.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "161425416.mp4",
+        "size_bytes": 3642426,
+        "source_path": "PDFs/audio/161425416.mp4",
+        "needs_r2": true
+      },
+      {
+        "filename": "1691330317.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/1691330317.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "1713496008.mp3",
+        "size_bytes": 5202048,
+        "source_path": "PDFs/audio/1713496008.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "1719223035.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/1719223035.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "1779242945.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/1779242945.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "1787018093.mp3",
+        "size_bytes": 32152601,
+        "source_path": "PDFs/audio/1787018093.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "1925956517.mp3",
+        "size_bytes": 1467246,
+        "source_path": "PDFs/audio/1925956517.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "2031644608.mp3",
+        "size_bytes": 32152601,
+        "source_path": "PDFs/audio/2031644608.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "2122937275.mp3",
+        "size_bytes": 2761791,
+        "source_path": "PDFs/audio/2122937275.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "2129504544.mp3",
+        "size_bytes": 465605,
+        "source_path": "PDFs/audio/2129504544.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "242376016.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/242376016.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "265737843.mp3",
+        "size_bytes": 38863144,
+        "source_path": "PDFs/audio/265737843.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "280432273.mp3",
+        "size_bytes": 441363,
+        "source_path": "PDFs/audio/280432273.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "332465302.mp3",
+        "size_bytes": 150912,
+        "source_path": "PDFs/audio/332465302.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "529311784.mp3",
+        "size_bytes": 40039336,
+        "source_path": "PDFs/audio/529311784.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "59602163.mp3",
+        "size_bytes": 3125376,
+        "source_path": "PDFs/audio/59602163.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "611545226.mp3",
+        "size_bytes": 32152601,
+        "source_path": "PDFs/audio/611545226.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "614367611.wma",
+        "size_bytes": 269711,
+        "source_path": "PDFs/audio/614367611.wma",
+        "needs_r2": true
+      },
+      {
+        "filename": "631779917.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/631779917.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "641275139.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/641275139.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "787513320.mp3",
+        "size_bytes": 200861,
+        "source_path": "PDFs/audio/787513320.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "792168036.mp3",
+        "size_bytes": 2761791,
+        "source_path": "PDFs/audio/792168036.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "815155486.mp3",
+        "size_bytes": 40039336,
+        "source_path": "PDFs/audio/815155486.mp3",
+        "needs_r2": true
+      },
+      {
+        "filename": "901702677.wma",
+        "size_bytes": 165481,
+        "source_path": "PDFs/audio/901702677.wma",
+        "needs_r2": true
+      }
+    ]
+  },
+  "db_metadata": {
+    "authors": [
+      {
+        "id": 1,
+        "name": "Minoo Masani",
+        "image_filename": "coverimg__masani.jpg",
+        "brief": "Minocher Rustom Masani was born on 20 November 1905 to a Parsi family with an outspoken journalist and writer father, Mr. Rustom Masani. He was brought up in Bombay. He went on to train himself to become a lawyer at various institutions like Elphinstone College in Bombay, and the prestigious London "
+      },
+      {
+        "id": 2,
+        "name": "B R Shenoy",
+        "image_filename": "coverimg__shenoy final copy.jpg",
+        "brief": "<p>Professor Bellikoth Ragunath Shenoy Ph.D (1905\u20131978) was a classical liberal economist. Born on June 3, 1905 near Mangalore, Karnataka, Bellikoth Ragunath Shenoy was educated at Benares Hindu University (where he secured a first class first at the MA Economics Exam in 1929) and later at the Londo"
+      },
+      {
+        "id": 3,
+        "name": "C Rajagopalachari",
+        "image_filename": "coverimg__rajagopalachari copy.jpg",
+        "brief": "C Rajagopalachari (popularly known as Rajaji) was born on 10 December 1878 in the Madras Presidency. He completed his graduation in Arts from the Central College, Bangalore and went on to study law at the Presidency College from where he graduated in the 1897. Rajaji went on to join the Indian Natio"
+      },
+      {
+        "id": 4,
+        "name": "A D Shroff",
+        "image_filename": "coverimg__A D Shroff final.jpg",
+        "brief": "Ardeshir Darabshaw Shroff (1899-1965) was an eminent industrialist, banker and economist of India. A D Shroff was one of the architects of free India's banking and insurance business. He was amongst the earliest proponents of free enterprise in India. "
+      },
+      {
+        "id": 5,
+        "name": "Nani Palkhivala",
+        "image_filename": "coverimg__Palkhi.jpg",
+        "brief": "Nanabhoy \"Nani\" Ardeshir Palkhivala was born in 1920 in Bombay. He was one of India's most eminent jurist and an expert economist. His knowledge on matters related to the constitution and tax matters was unparalleled. Palkhivala's biggest success came in the form of his contribution to the  famous K"
+      },
+      {
+        "id": 6,
+        "name": "D R Pendse",
+        "image_filename": "coverimg__pendse final.jpg",
+        "brief": "D R Pendse was born on 6 September 1930 in Pune, India. He has a Bachelor's degree in economics, statistics and mathematics from Pune University and a B.A. and an M.A. degree from Cambridge university. He is fondly called Dada Pendse by his friends and colleagues. "
+      },
+      {
+        "id": 7,
+        "name": "M R Pai",
+        "image_filename": "coverimg__pai.jpg",
+        "brief": "Mangalore Ranga Pai (1931-2003) was born in Manjeshwar, a town in Kerala bordering Karnataka. He attained Canara High School and went onto complete his undergraduation from the Government College in Mangalore. He graduated from the prestigious Presidency College in Chennai with a BA (Honours) in pol"
+      },
+      {
+        "id": 9,
+        "name": "Sudha R Shenoy",
+        "image_filename": "coverimg__sudha.jpg",
+        "brief": "<p>A native of India and daughter of prominent Indian economist Professor B. R. Shenoy, Sudha Shenoy (1943-2008) was an Honorary Associate in Economic History at the School of Policy, University of Newcastle, Australia and a lecturer for the same from 1986 to 2004. She attended the London School of "
+      },
+      {
+        "id": 11,
+        "name": "Sauvik Chakraverti",
+        "image_filename": "coverimg__sauvik.jpg",
+        "brief": "Sauvik Chakraverti (1956-2014) was an award winning columnist and author whose books, monographs and columns lighted the path of modern Indian liberalism. \r\n\r\n"
+      },
+      {
+        "id": 12,
+        "name": "S V Raju",
+        "image_filename": "coverimg__SV Raju.jpg",
+        "brief": "S V Raju (1933-2015) was one of the most prominent Indian Liberals. He was closely associated with <em>Swatantra Party</em>, and was the chief editor of\u00a0<em>Freedom First</em> for many decades."
+      },
+      {
+        "id": 13,
+        "name": "Sharad Anantrao Joshi",
+        "image_filename": "coverimg_13_Sharad Joshi.jpg",
+        "brief": "Sharad Anantrao Joshi (born 1935) is the founder of Shetkari Sanghatana and Swatantra Bharat Paksha party; and has served as a Member of Parliament. "
+      }
+    ],
+    "periodicals": [
+      {
+        "id": 1,
+        "title": "The Indian Libertarian",
+        "cover_filename": "img_1_indian Libertarian.jpg",
+        "brief": "The Indian Libertarian was a fortnightly journal, which was first published in the year 1957 by R B Lotvala and edited by his daughter Kusum R Lotavala. The journal defines its philosophy by stating, \u201cAs the name Indian Libertarian signifies, we stand for libertarianism as against totalitarianism an"
+      },
+      {
+        "id": 2,
+        "title": "Forum of Free Enterprise",
+        "cover_filename": "img_2_cover ffe.jpg",
+        "brief": "The Forum of Free Enterprise (FFE) was set up in the year 1956 by A D Shroff. It was established with the idea of organizing like-minded people to counter the socialistic and anti-private sector propaganda of the Nehru government. His vision was to keep the organization non-partisan and non-politica"
+      },
+      {
+        "id": 3,
+        "title": "Freedom First",
+        "cover_filename": "img_3_freedom first image 1.jpg",
+        "brief": "Freedom First, the Liberal Monthly, now in its 60th year of publication, was founded by the late Minoo Masani, author and MP, at a time when free India was just five years old, World War II had ended and the Cold War had begun. As a participant himself in India\u2019s freedom struggle he shared the visio"
+      },
+      {
+        "id": 4,
+        "title": "Swarajya",
+        "cover_filename": "img_4_swarajya.jpg",
+        "brief": "Swarajya - a big tent for liberal right of centre discourse that reaches out, engages and caters to the new India. Swarajya is a 58-year-old independent media start-up. We are a new-age media company with a rich and storied legacy. In 1956, journalist Khasa Subba Rau with the patronage of C Rajagopl"
+      },
+      {
+        "id": 6,
+        "title": "Swatantra Party",
+        "cover_filename": "img_6_swatantra copy.jpg",
+        "brief": "Swatantra Party was founded in the year 1959 by leaders opposing the socialistic policies of the Congress government. Some of the prominent leaders of the time including C Rajagopalachari, Minoo Masani and N G Ranga collaborated to form a liberal and conservative party. The party stood for market-ba"
+      },
+      {
+        "id": 8,
+        "title": "Indian Liberal Group",
+        "cover_filename": "img_8_ilg - 1.jpg",
+        "brief": "The Indian Liberal group was founded on 10th November 1965. The founding members included Minoo Masani, Prof B R Shenoy, Mr H V R Iengar, Dr Fredie Mehta, Mr Khushwant Singh and Madame Sophie Wadia. One of the objectives of the Indian Liberal Group as defined by them is that \u201cthe ILG seeks to emphas"
+      },
+      {
+        "id": 9,
+        "title": "Other Publications",
+        "cover_filename": "img_9_Others.jpg",
+        "brief": "This page includes publications from miscellaneous sources. "
+      },
+      {
+        "id": 10,
+        "title": "Liberal Times",
+        "cover_filename": "img__LT image.jpg",
+        "brief": "Liberal Times was a quarterly journal published by Friedrich Naumann foundation (FNF) South Asia"
+      }
+    ],
+    "books": [
+      {
+        "id": 3,
+        "title": "Book Three",
+        "pdf_filename": "PDF_3_kz08c819570401.pdf",
+        "cover_filename": "img_3_Hydrangeas.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Book Four12",
+        "pdf_filename": "PDF_4_rh541h19570415.pdf",
+        "cover_filename": "img_4_Jellyfish.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Book Six",
+        "pdf_filename": "PDF_5_171pit19571201.pdf",
+        "cover_filename": "img_5_19580115.pdf"
+      },
+      {
+        "id": 6,
+        "title": "Book Seven",
+        "pdf_filename": "PDF_6_8895c019571201.pdf",
+        "cover_filename": "img_6_img-journals.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Book Nine",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 9,
+        "title": "jjj",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 11,
+        "title": "Central Planning In India: A Critical Review",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 12,
+        "title": "Under Development And Economic Growth (London: Longman, 1970)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 13,
+        "title": "India: Progress or Poverty?: A Review of the Outcome of Central Planning in India, 1951-69, (London: IEA, 1971) ",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 14,
+        "title": "A Tiger By the Tail: The Keynesian Legacy of Inflation by F.A. Hayek (1972, 1978, and 1979)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 15,
+        "title": "Wage-Price Control: Myth and Reality | R1 | 01 February 1978, Center for Independent Studies, Australia ",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 16,
+        "title": "The Economic & Social History of Continental Europe & Britain, c. 1000-1914: An Introductory, Annotated Reading-List for Economists",
+        "pdf_filename": "PDF_16_zb9wtwAnnotated Reading List.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 17,
+        "title": "Antidote: Essays against the Socialist Indian State (MacMillan, 2000)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 18,
+        "title": "Antidote 2: For Liberal Governance (MacMillan, 2003)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 19,
+        "title": "Free Your Mind: A Beginner\u2019s Guide to Political Economy",
+        "pdf_filename": "PDF_19_gwfb9iFree_Your_Mind_1-40_Part1.PDF",
+        "cover_filename": ""
+      },
+      {
+        "id": 20,
+        "title": "Udarwad: Raj, Samaj aur Bazar ka Naya Paath (Hindi book based on \u2018Free Your Mind\u2019)",
+        "pdf_filename": "PDF_20_2szhhvUdarwad.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 21,
+        "title": "The Essential Fr\u00e9d\u00e9ric Bastist (in collaboration with Frederic Naumann Stiftung \u2013 F\u00dcR DIE FREIHEIT, published by Liberty Institute)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 22,
+        "title": "Self Help: With Illustrations of Conduct and Perseverance, by Samuel Smiles, Abridged and edited by Sauvik Chakraverti (published by Liberty Institute)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 23,
+        "title": "Population Causes Prosperity, CCS Viewpoint 2",
+        "pdf_filename": "PDF_23_71vhjlPopulation_Causes_Prosperity-Sauvik_Chakraverti.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 24,
+        "title": "Four Wheels for All: The case of Rapid Automobilisation of India (2008)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 25,
+        "title": "Peter Bauer: A True Friend of the World\u2019s Poor, CCS Viewpoint 4",
+        "pdf_filename": "PDF_25_eoiekoPeter_Bauer-Sauvik_Chakraverti.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 32,
+        "title": "Picture of a Plan (1945)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 33,
+        "title": "A Plea for a Mixed Economy (1947)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 34,
+        "title": "Our Growing Human Family (1950)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 35,
+        "title": "Neutralism in India (1951) ",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 36,
+        "title": "Indian Congress for Cultural Freedom : March 28 to 31, 1951 (1951)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 37,
+        "title": "The Communist Party of India: A Short History (1954)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 38,
+        "title": "Congress Misrule and the Swatantra Alternative (1956)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 39,
+        "title": "Ceylon, Currency and Banking (1941)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 40,
+        "title": "The Sterling Assets of the Reserve Bank of India (1953)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 41,
+        "title": "Problems of Indian Economic Development (1956)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 42,
+        "title": "PL480 and India's Food Problem (1974)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 43,
+        "title": "An Equation for the Price Level of New Investment Goods (Quarterly Journal of Economics, 1931) ",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 44,
+        "title": "Interdependence of Price Levels (Quarterly Journal of Economics, 1933)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 45,
+        "title": "Too Much Politics, Too Little Citizenship (1969)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 46,
+        "title": "Liberalism (1970)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 47,
+        "title": "The Constitution, Twenty Years Later (1975)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 48,
+        "title": "Bliss was it in that Dawn ... (1977)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 49,
+        "title": "The Third World-Quo Vadis?(1979)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 50,
+        "title": "Of Four Real Leaders, Some Reminiscences, Freedom First (1980)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 51,
+        "title": "Against the tide (1981)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 52,
+        "title": "Autobiography of Minoo Masani, Volumes I (1981)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 53,
+        "title": "Autobiography of Minoo Masani, Volumes II (1981)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 54,
+        "title": "Freedom and Dissent : Essays in Honour of Minoo Masani (1985)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 55,
+        "title": "Essays in Honour of Minoo Masani (1985)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 56,
+        "title": "We Indians : Minoo Masani (1989)",
+        "pdf_filename": "PDF_56_ks96yzWe Indians - Minoo Masani.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 57,
+        "title": "Socialism Reconsidered : Project for economic education (1988)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 60,
+        "title": "In the Vanguard of Freedom : Essays in the Honour of Minoo Masani (1995)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 61,
+        "title": "Minoo Masani - November 20, 1905- May 27, 1998",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 62,
+        "title": "Socialism in India a Commentary, Forum for Free Enterprise (1967) ",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 63,
+        "title": "An Indian Economic Miracle and Other Essays (1970)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 64,
+        "title": "Coin Shortage and Soiled Notes (1997)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 65,
+        "title": "Consumer Activism in India (2001)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 66,
+        "title": "The Legend of Nani Palkhivala (2002)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 67,
+        "title": "M.R. Pai, The Story of an Uncommon Man, by S. V. Raju  (2008)",
+        "pdf_filename": "PDF_67_9rsrb9M.R.Pai.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 68,
+        "title": "M R Pai, Citizen Extraordinary",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 69,
+        "title": "Non Banking functions of Banks-A Draft bill for Leasing, Legal paper No.3",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 70,
+        "title": "How to Arrange Programmes and Meetings",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 71,
+        "title": "How to Save and Invest",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 72,
+        "title": "Time Management",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 73,
+        "title": "Hinduism in Daily Life",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 74,
+        "title": "Indian Prohibition Manual (1930)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 75,
+        "title": "Plighted Word, Servants of Untouchable Society (1933)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 76,
+        "title": "The Way Out (Oxford University Press, 1943)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 77,
+        "title": "The Impending Fast of Mahatma Gandhi : The Issues Explained (1944)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 78,
+        "title": "Reconciliation, Why and How: A plea for Immediate Action (Hind Kitabs, 1945)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 79,
+        "title": "Ambedkar Refuted (Hind Kitabs, 1946)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 80,
+        "title": "The Indian communists (Cultural Books, 1955)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 81,
+        "title": "The good administrator (Government of India,1955)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 82,
+        "title": "Our democracy and other essays (B.G. Paul & Co.,1957 )",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 83,
+        "title": "Mankind protests: a collection of speeches and statements on atomic warfare and test explosions(All India Peace Council,1957)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 84,
+        "title": "Satyam Eva Jayate: A collection of articles contributed to Swarajya and other journals from 1956 to 1961, Volume 1 (Bharathan Publications,1961)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 85,
+        "title": "The question of English (Bharathan Publications, 1962)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 86,
+        "title": "Gandhiji's teachings and philosophy (Bharatiya Vidya Bhavan,1963)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 87,
+        "title": "Swatantra answer to Chinese Communist challenge(1964)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 88,
+        "title": "English for unity (Bharathan Publications,1965)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 89,
+        "title": "Gandhi\u2019s Conscience Keeper, C. Rajagopalachari and Indian Politics (2009)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 90,
+        "title": "Raja : A Life (1997)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 91,
+        "title": "The Swatantra Party \u2013 Victory in Defeat  ",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 92,
+        "title": "Is VDIS a Success, January 1998",
+        "pdf_filename": "PDF_92_3dosc8Is VDIS A Success.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 93,
+        "title": "Current Economic Environment for Business & The Budget We Need, February 1995",
+        "pdf_filename": "PDF_93_96wgvcCurrent Economic Environment for Business.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 94,
+        "title": "Budget (2000-01) & Drifting Towards The Cliff, March 2000",
+        "pdf_filename": "PDF_94_3xljnbBudget 2000-01 - Drafting towards the cliff.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 95,
+        "title": "Black Money and Budgets (Allied Publishers, 1989)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 96,
+        "title": "Beyond The Giant: Personal Insight Into the Life of J. R. D. Tata (National Book Trust of India, 2008)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 97,
+        "title": "Giants by Any Measure: Sumant Moolgaokar & J. R. D. (Parchure Prakashan Mandir, 2004)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 98,
+        "title": "J.R.D: Mee Pahilele (in Marathi) (Rajhans Prakashan, 2004)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 99,
+        "title": "Why is Indian Industry Stagnating? (Industrial Foundation, Mumbai)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 100,
+        "title": "Privatisation: Myths & Realities (Project for Economic Education)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 101,
+        "title": "Planned Progress or Planned Chaos? (East West Books, 1996)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 102,
+        "title": "The Indian Economic Scene: Some Aspects (1957)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 103,
+        "title": "The Post-War Depression: The Way Out (Kitabistan, 1944)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 104,
+        "title": "Some Basic Economic Ideas of Prof. B R Shenoy (Economic Research Center, 1998)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 105,
+        "title": "Liberalism and Less Developed Countries: Essay in Memory of Professor Bellikoth Raghunath Shenoy (Gujarat University, 1982)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 106,
+        "title": "A D Shroff: Titan of Finance & Free Enterprise, edited by Sucheta Dala (Penguin, 2000)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 107,
+        "title": "Theoretical Vision, edited by R K Amin & Parth J Shah (Centre for Civil Society, 2004)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 108,
+        "title": "Economic Prophecies, edited by R K Amin & Parth J Shah (Centre for Civil Society, 2004)",
+        "pdf_filename": "",
+        "cover_filename": ""
+      },
+      {
+        "id": 109,
+        "title": "Shenoy-Hayek Correspondences (Set I, Hoover Institution Archives)",
+        "pdf_filename": "PDF_109_bmna3fShenoy_Letters_1.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 110,
+        "title": "Shenoy-Hayek Correspondences (Set II, Hoover Institution Archives)",
+        "pdf_filename": "PDF_110_nvay1eShenoy_Letters_2.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 111,
+        "title": "Minoo Masani at 90, Freedom First (1995)",
+        "pdf_filename": "PDF_111_yv3wikMinoo Masani 90",
+        "cover_filename": ""
+      },
+      {
+        "id": 112,
+        "title": "Our India",
+        "pdf_filename": "PDF_112_4vcqf8our-india-2013.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 113,
+        "title": "Hamara Hindustan",
+        "pdf_filename": "PDF_113_gwxhulhamara-hindustan.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 114,
+        "title": "Congress Misrule and the Swatantra Alternative",
+        "pdf_filename": "PDF_114_obdo09congress-misrule-and-the-swtantra-alternative.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 115,
+        "title": "Speech made by C. Rajagopalachari at the swearing in ceremony for the position of Governor General of India",
+        "pdf_filename": "PDF_115_qv8i2nc-rajagoplachari-governor-general-speech.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 116,
+        "title": "Towards a Responsible Press: Shri C. Rajagopalachari's Speeches on the Press Bill in Parliament",
+        "pdf_filename": "PDF_116_ot691ptowards-responsible-press.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 117,
+        "title": "Satyamev Jayate Volume 1: Collection of Writings from Swarajya",
+        "pdf_filename": "PDF_117_47lrcesatyamev-jayate-vol1-collection-of-writings-from-swarajya.pdf",
+        "cover_filename": ""
+      },
+      {
+        "id": 118,
+        "title": "Should we alter our Constitution?",
+        "pdf_filename": "PDF_118_4m37aeshould-we-alter-our-constitution.pdf",
+        "cover_filename": ""
+      }
+    ],
+    "av_youtube_links": [
+      {
+        "id": 1,
+        "title": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+        "author": "Minoo Masani",
+        "description": "Lecture presented by Sudha R Shenoy at the Ludwig von Mises Institute in Auburn, Alabama; October 26, 2006.",
+        "url": "https://www.youtube.com/v/iQgsvzJaBD8"
+      },
+      {
+        "id": 2,
+        "title": "Sunil Bhandare on enlarging the \"constituency of reforms\" in India ",
+        "author": "",
+        "description": "Sunil Bhandare, Advisor, Tata Strategic Management Group discussing ways through which what he calls \"constituency of reforms\" could be enlarged.",
+        "url": "https://www.youtube.com/v/toFirg2z7bQ&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav&index=3"
+      },
+      {
+        "id": 3,
+        "title": "Sunil Bhandare on his experiences with Indian liberal organisations ",
+        "author": "",
+        "description": "Sunil Bhandare, Advisor, Tata Strategic Management Group talks about his interactions and experiences with Indian liberal organisations like Forum of Free Enterprise, Indian Liberal Group and the Project for Economic Education.",
+        "url": "https://www.youtube.com/v/g52qPVVXICE&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav&index=2"
+      },
+      {
+        "id": 4,
+        "title": "Sunil Bhandare on private enterprise post 1991 reforms ",
+        "author": "",
+        "description": "Sunil Bhandare, Advisor, Tata Strategic Management Group talking about private enterprise in post-reform era, their skepticism and how they overcame it.",
+        "url": "https://www.youtube.com/v/Pv-J6tiIDQs&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav&index=1"
+      },
+      {
+        "id": 5,
+        "title": "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal ",
+        "author": "",
+        "description": "Sunil Bhandare, Advisor, Tata Strategic Management Group speaks about getting disillusioned with socialism and his journey to become a liberal.",
+        "url": "https://www.youtube.com/v/3S_AFbaYqZs&index=8&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 6,
+        "title": "S. Divakara on The Forum of Free Enterprise ",
+        "author": "",
+        "description": "S. Divakara, the Director-General of The Forum of Free Enterprise talks about the organisation he has worked most of his life at.",
+        "url": "https://www.youtube.com/v/DBdRExrgG2I&index=9&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 7,
+        "title": "S. Divakara on Nani Palkhivala's Union Budget Commentaries ",
+        "author": "",
+        "description": "S. Divakara, Director-General of the Forum of Free Enterprise speaking about Nani Palkhivala's famous Union Budget commentaries. These commentaries used to be annually organised by the Forum in Bombay soon after Finance Minister's annual budget speeches.",
+        "url": "https://www.youtube.com/v/3imZDLWPs3A&index=10&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 8,
+        "title": "Minoo Shroff on His Uncle A D Shroff ",
+        "author": "",
+        "description": "Minoo Shroff talks about his uncle A D Shroff.",
+        "url": "https://www.youtube.com/v/6rYRIs9byu8&index=4&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 9,
+        "title": "Minoo Shroff on Nehru, Welfare and India's Promise ",
+        "author": "",
+        "description": "Minoo Shroff of the A D Shroff Memorial Trust talks about Nehru, welfare, entitlements and India's promise. ",
+        "url": "https://www.youtube.com/v/v2q2QiXK7zY&index=5&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 10,
+        "title": "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise ",
+        "author": "",
+        "description": "Minoo Shroff talks about A D Shroff Memorial Trust and the Forum of Free Enterprise.",
+        "url": "https://www.youtube.com/v/0rI3OuqWi7k&index=6&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 11,
+        "title": "Minoo Shroff on Doing Business in Nehru's India ",
+        "author": "",
+        "description": "Minoo Shroff talking about the challenges while doing business in Nehru's India.",
+        "url": "https://www.youtube.com/v/mkKmQMD_Kcs&index=7&list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      },
+      {
+        "id": 12,
+        "title": "The New Global Marketplace | Sudha Shenoy",
+        "author": "",
+        "description": "Lecture presented by Sudha Shenoy at the 2006 Mises Supporters Summit; \"Imperialism: Enemy of Freedom,\" hosted at the Ludwig von Mises Institute, Auburn, Alabama; 27-28 October 2006. http://mises.org",
+        "url": "https://www.youtube.com/v/y856OjQDLwg"
+      },
+      {
+        "id": 13,
+        "title": "The Case Against Neo-Protectionism | Sudha R. Shenoy",
+        "author": "",
+        "description": "Lecture presented by Sudha R. Shenoy at the Ludwig von Mises Institute, Auburn, Alabama; November 18, 2003.\r\n\r\nOfficial website of the Ludwig von Mises Institute: http://mises.org",
+        "url": "https://www.youtube.com/v/u1tih4LpfwA"
+      },
+      {
+        "id": 14,
+        "title": "The Case Against Neo-Protectionism | Sudha R. Shenoy",
+        "author": "",
+        "description": "Lecture presented by Sudha R. Shenoy at the Ludwig von Mises Institute, Auburn, Alabama; November 18, 2003.\r\n\r\n(Official website of the Ludwig von Mises Institute: http://mises.org )",
+        "url": "https://www.youtube.com/v/u1tih4LpfwA"
+      },
+      {
+        "id": 15,
+        "title": "An Auxiliary for Historians: The Contribution of Older Austrians | Sudha R. Shenoy",
+        "author": "",
+        "description": "Lecture presented by Sudha R. Shenoy at the Ludwig von Mises Institute's 2003 Austrian Scholars Conference, the international, interdisciplinary meeting of the Austrian School, held annually at the Mises Institute in Auburn, Alabama. http://mises.org",
+        "url": "https://www.youtube.com/v/R5dXcOx98LU"
+      },
+      {
+        "id": 16,
+        "title": "The Hayek-Keynes Debate, 1931-1971 | by Sudha R. Shenoy",
+        "author": "",
+        "description": "Audio version of the Mises Daily article for April 23, 2009. Written by Sudha R. Shenoy and read by Floy Lilley. http://mises.org\r\n\r\nLink to the text version of this audio presentation: http://mises.org/daily/3423",
+        "url": "https://www.youtube.com/v/SdqP9_U1GjE"
+      },
+      {
+        "id": 17,
+        "title": "The Hayek-Keynes Debate, 1931-1971 | by Sudha R. Shenoy",
+        "author": "",
+        "description": "Audio version of the Mises Daily article for April 23, 2009. Written by Sudha R. Shenoy and read by Floy Lilley. http://mises.org\r\n\r\nLink to the text version of this audio presentation: http://mises.org/daily/3423",
+        "url": "https://www.youtube.com/v/SdqP9_U1GjE"
+      },
+      {
+        "id": 18,
+        "title": "D R Pendse on the Indian Liberal Tradition",
+        "author": "",
+        "description": "D R Pendse, former economist with the Tata Group of Industries, talks about the Indian Liberal Tradition.",
+        "url": "https://www.youtube.com/v/z_7NoDmhvvA"
+      },
+      {
+        "id": 19,
+        "title": "D R Pendse on Liberating India\u2019s Entrepreneurs",
+        "author": "",
+        "description": "D R Pendse, former economist with the Tata Group of Industries, talks about the need to liberate India's entrepreneurs. ",
+        "url": "https://www.youtube.com/v/VJtw5aOk1Pw"
+      },
+      {
+        "id": 20,
+        "title": "D R Pendse on the 1991 Crisis",
+        "author": "",
+        "description": "D R Pendse, former Economist with the Tata Group of Industries, talks about the 1991 economic crisis in India.",
+        "url": "https://www.youtube.com/v/gXe-SwtuHww"
+      },
+      {
+        "id": 21,
+        "title": "D R Pendse on the 1991 Crisis",
+        "author": "",
+        "description": "D R Pendse, former Economist with the Tata Group of Industries, talks about the 1991 economic crisis in India",
+        "url": "https://www.youtube.com/v/gXe-SwtuHww"
+      },
+      {
+        "id": 22,
+        "title": "D R Pendse on his Relationship with JRD Tata",
+        "author": "",
+        "description": "D R Pendse, former Economist with the Tata Group of Industries, talks about his relationship with J R D Tata",
+        "url": "https://www.youtube.com/v/si8F_I4P8xY"
+      },
+      {
+        "id": 23,
+        "title": "D R Pendse on Think Tanks and the Power of Ideas",
+        "author": "",
+        "description": "D R Pendse, former Economist with the Tata Group of Industries, talks about the importance of think tanks and the 'power of ideas.'",
+        "url": "https://www.youtube.com/v/si8F_I4P8xY"
+      },
+      {
+        "id": 24,
+        "title": "D R Pendse on India\u2019s \u2018Open and Prosperous Past\u2019",
+        "author": "",
+        "description": "D R Pendse, former economist with the Tata Group of Industries, talks about India's open and prosperous past. \r\n",
+        "url": "https://www.youtube.com/v/DKkwm22E5bY"
+      },
+      {
+        "id": 25,
+        "title": "D R Pendse on the Criticism he faced through his Career",
+        "author": "",
+        "description": "D R Pendse, former economist with the Tata Group of Industries, talks about the criticism he faced through his career.",
+        "url": "https://www.youtube.com/v/lrZSeDVMwEI&spfreload=5"
+      },
+      {
+        "id": 26,
+        "title": "D R Pendse on Doing Business in India before 1991 Reforms",
+        "author": "",
+        "description": "D R Pendse, former economist with the Tata Group of Industries, on doing business in India before 1991 reforms.",
+        "url": "https://www.youtube.com/v/vbdFNzbM1P8"
+      },
+      {
+        "id": 27,
+        "title": "D R Pendse on Liberating India\u2019s Entrepreneurs",
+        "author": "",
+        "description": "D R Pendse, former economist with the Tata Group of Industries, on liberating India's entrepreneurs ",
+        "url": "https://www.youtube.com/v/VJtw5aOk1Pw"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 6,
+        "name": "Dr Tom G Palmer ",
+        "image_filename": "64207629.jpg",
+        "short": "<b>Senior Fellow</b> at CATO Institute and Vice President at the Atlas Network"
+      },
+      {
+        "id": 8,
+        "name": "Arun shourie",
+        "image_filename": "916018432.jpg",
+        "short": "<b>Indian Journalist</b>, Author and Politician"
+      },
+      {
+        "id": 10,
+        "name": "Christopher Lingle",
+        "image_filename": "886676801.jpg",
+        "short": "<b>Visiting professor of Economics</b> ,Universidad Francisco Marraquin, Guatemala"
+      },
+      {
+        "id": 11,
+        "name": " Sunil Bhandare",
+        "image_filename": "320019997.jpg",
+        "short": "<b>Advisor, Economic and Government Policy</b>,Tata Strategic Management Group"
+      }
+    ],
+    "videos": [
+      {
+        "id": 2,
+        "heading": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+        "video_data": "mov_bbb.mp4",
+        "video_type": 0,
+        "description": "Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Lecture presented by Sudha R Shenoy at the Ludwig von Mises Institute in Auburn, Alabama; October 26, 2006"
+      },
+      {
+        "id": 3,
+        "heading": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+        "video_data": "29 Change your mind in just 1 minutes   Motivational & Inspirational Video   watch and share it.mp4",
+        "video_type": 0,
+        "description": "Lecture presented by Sudha R Shenoy at the Ludwig von Mises Institute in Auburn, Alabama; October 26, 2006"
+      },
+      {
+        "id": 4,
+        "heading": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+        "video_data": "ONE MINUTE OF PURE SATISFACTION - Compilation 1.mp4",
+        "video_type": 0,
+        "description": "Representation in words. the act, process, or technique of describing. sort, kind, or varietyreptiles of every descriptionLecture presented by Sudha R Shenoy at the Ludwig von Mises Institute in Auburn, Alabama; October 26, 2006"
+      },
+      {
+        "id": 7,
+        "heading": "dd",
+        "video_data": "",
+        "video_type": 0,
+        "description": "ddd"
+      }
+    ]
+  }
+}

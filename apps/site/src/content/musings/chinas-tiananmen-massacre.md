@@ -1,22 +1,20 @@
 ---
 id: "chinas-tiananmen-massacre"
 title: "China’s Tiananmen Massacre"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T06:58:25Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/chinas-tiananmen-massacre/) on 2026-05-17. Needs editorial review._
+We posed a question in an earlier issue of Freedom First: "Is the Soviet ideology really changing?" China, at least, has answered in the negative and proved beyond all reasonable doubt that once communists gain control of a country they will never let go. lt is as simple as that. If it was not so, why would the demand for democracy incur the wrath and vengeance of the peoples' democrats?
+_Barry Posen, a scholar of International Politics, has recently _[_argued_](https://www.foreignaffairs.com/articles/china/2020-04-23/do-pandemics-promote-peace)_ about the peace dividend of the pandemic as nations would emerge out of the lockdown considerably weaker. However, China’s dealings in the _[_South China Sea_](https://www.japantimes.co.jp/opinion/2020/06/02/commentary/world-commentary/china-steps-offensive-senkaku-islands/#.XtjxL-fhVPY)_, _[_Hong Kong_](https://www.economist.com/china/2020/05/28/chinas-national-security-bill-for-hong-kong-is-an-attempt-to-terrify)_, and with _[_India_](http://ajaishukla.blogspot.com/2020/06/rajnath-admits-sizeable-intrusion-by.html)_ and _[_Australia_](https://www.theguardian.com/australia-news/2020/may/20/australia-vows-to-stand-up-to-china-amid-reports-wine-and-dairy-exports-could-be-targeted-next)_ show a revisionist power asserting its authority. China’s bullying behavior abroad mirrors its authoritarian conduct at home, seen in the suppression of democracy, human rights violations, and treatment of the minorities. Recently in Hong Kong, the pro-China regime has _[_disallowed_](https://www.bbc.com/news/world-asia-china-52877411)_ the memorial gathering to commemorate the Tiananmen massacre, not to mention the imposition of national security law. _
 
-We posed a question in an earlier issue of Freedom First: “Is the Soviet ideology really changing?” China, at least, has answered in the negative and proved beyond all reasonable doubt that once communists gain control of a country they will never let go. lt is as simple as that. If it was not so, why would the demand for democracy incur the wrath and vengeance of the peoples’ democrats?
+_The Tiananmen Square massacre was the Chinese government crackdown over the pro-democracy protests in 1989. The crackdown led to the estimated _[_death_](https://www.independent.co.uk/news/world/asia/tiananmen-square-massacre-death-toll-secret-cable-british-ambassador-1989-alan-donald-a8126461.html)_ of around 10,000 peaceful, non-violent, and mostly young student protestors. The army ran tanks over the crowd to turn the bodies into ‘pie’, hosed the remains down the drain, bayoneted the wounded girls to death, and shot civilians for target practice._
 
-Barry Posen, a scholar of International Politics, has recently argued about the peace dividend of the pandemic as nations would emerge out of the lockdown considerably weaker. However, China’s dealings in the South China Sea, Hong Kong, and with India and Australia show a revisionist power asserting its authority. China’s bullying behavior abroad mirrors its authoritarian conduct at home, seen in the suppression of democracy, human rights violations, and treatment of the minorities. Recently in Hong Kong, the pro-China regime has disallowed the memorial gathering to commemorate the Tiananmen massacre, not to mention the imposition of national security law.
-
-The Tiananmen Square massacre was the Chinese government crackdown over the pro-democracy protests in 1989. The crackdown led to the estimated death of around 10,000 peaceful, non-violent, and mostly young student protestors. The army ran tanks over the crowd to turn the bodies into ‘pie’, hosed the remains down the drain, bayoneted the wounded girls to death, and shot civilians for target practice.
-
-Freedom First’s SV Raju wrote a critical editorial over the incident in the July-September, 1989 issue. Even today, Raju’s arguments have resonance for liberals. While Raju and other liberals cheered Deng Xiaoping for introducing economic reforms which turned China capitalist in all but name, he also made it clear that political liberty and democracy were non-negotiable. Raju also discussed the geopolitical dimension of the global response to the incident, denunciation of the massacre by radical leftists, support to the Chinese authoritarianism by the CPI (M), and the persistent colonization of Tibet. Today, in Raju’s affirmation of ‘Bread with Freedom’ lies the lesson for liberals in India and elsewhere not to trade political liberty for economic freedom.
+_Freedom First’s SV Raju wrote a critical editorial over the incident in the July-September, 1989 issue. Even today, Raju’s arguments have resonance for liberals. While Raju and other liberals cheered Deng Xiaoping for introducing economic reforms which turned China capitalist in all but name, he also made it clear that political liberty and democracy were non-negotiable. Raju also discussed the geopolitical dimension of the global response to the incident, denunciation of the massacre by radical leftists, support to the Chinese authoritarianism by the CPI (M), and the persistent colonization of Tibet. Today, in Raju’s affirmation of ‘Bread with Freedom’ lies the lesson for liberals in India and elsewhere not to trade political liberty for economic freedom._
 
 In Communist China, Mao’s heirs have, by their brutal suppression of a movement for more freedom and democracy, proved that power indeed grows from the barrel of a gun. The naive who are inclined to take the democratic professions of the commissar at face value, need to think again – Poland, Hungary or Gorbachev notwithstanding.
 
@@ -54,8 +52,12 @@ And how has the Government of India reacted? Our Prime Minister says: “We have
 
 How many more should die or be executed before “the reality” is “evaluated”?
 
-The original text can be accessed here.
+_The original text can be accessed _[_here_](http://www.freedomfirst.in/uploads/issues/pdf/402.pdf)_._
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+_[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-Read more: Minoo Masani on the Raison D’être of Swatantra Party
+Read more: [Minoo Masani on the Raison D’être of Swatantra Party](https://spontaneousorder.in/minoo-masani-on-the-raison-detre-of-swatantra-party/)
+
+---
+
+_Sourced from the WordPress database export (post ID 2234, http://localhost/IL/content/so-musings-rajaji-was-prescient-about-electoral-funding-2/). Needs editorial review._

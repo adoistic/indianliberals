@@ -1,26 +1,24 @@
 ---
 id: "rajaji-was-prescient-about-electoral-funding"
 title: "Rajaji Was Prescient About Electoral Funding"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T06:56:14Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/rajaji-was-prescient-about-electoral-funding/) on 2026-05-17. Needs editorial review._
-
 As I have often pointed out, much of the expense is really what the State ought to bear on behalf of all the candidates. We should see to this transfer of the burden from candidates to the State, while at the same time safeguarding the voters against the blandishments of the party in power.
+_The post-1947 polity in India was characterised by the dominance of  a single party or the ‘Congress System’, as the political scientist Rajni Kothari termed it. The single-party dominated democracy went together with the state-controlled planned economy. _
 
-The post-1947 polity in India was characterised by the dominance of  a single party or the ‘Congress System’, as the political scientist Rajni Kothari termed it. The single-party dominated democracy went together with the state-controlled planned economy.
+_Apparently, the stymied competition in both electoral and economic marketplace didn’t bode well for the progress of the fragile Republic. One obvious manifestation of the monopolised political economy lay in the domain of electoral funding mechanism. Since the Congress politicians in power could employ levers of the state (license, quota, permit, import substitution mechanism) to decide the fate of the corporate houses, the Big Business paid paeans to socialism and filled Congress coffers with donation money. _
 
-Apparently, the stymied competition in both electoral and economic marketplace didn’t bode well for the progress of the fragile Republic. One obvious manifestation of the monopolised political economy lay in the domain of electoral funding mechanism. Since the Congress politicians in power could employ levers of the state (license, quota, permit, import substitution mechanism) to decide the fate of the corporate houses, the Big Business paid paeans to socialism and filled Congress coffers with donation money.
+_These corporate donations oiled the Congress electoral machinery, which was formidable until the onset of the second phase of the party system in 1967.  The corporate houses also walked the talk on India’s mixed economy model which protected them from foreign competition and allowed them to make profits in an economy characterized by scarcity for consumers. It was a win-win for both, the big business and the political party in power._
 
-These corporate donations oiled the Congress electoral machinery, which was formidable until the onset of the second phase of the party system in 1967.  The corporate houses also walked the talk on India’s mixed economy model which protected them from foreign competition and allowed them to make profits in an economy characterized by scarcity for consumers. It was a win-win for both, the big business and the political party in power.
+_The monopolising tendency in the system didn’t go unnoticed and unchallenged though. Politicians, public intellectuals, and columnists warned of the dangers of the system degenerating into totalitarianism. Most prominent of the lot undoubtedly was the freedom fighter C Rajagopalachari. Apart from the criticism of planned economy and single-party dominance, he also wrote on corporate funding of political parties, which was connected with both matters of polity and economy. _
 
-The monopolising tendency in the system didn’t go unnoticed and unchallenged though. Politicians, public intellectuals, and columnists warned of the dangers of the system degenerating into totalitarianism. Most prominent of the lot undoubtedly was the freedom fighter C Rajagopalachari. Apart from the criticism of planned economy and single-party dominance, he also wrote on corporate funding of political parties, which was connected with both matters of polity and economy.
-
-Produced below is his column from 1968, in which he argued for making the elections inexpensive. Such a proposal, in his view, would lead to an influx of deserving and meritorious public-spirited leaders in legislatures and serve as an important check on the attempts by political parties to hijack the agenda for governance.
+_Produced below is his column from 1968, in which he argued for making the elections inexpensive. Such a proposal, in his view, would lead to an influx of deserving and meritorious public-spirited leaders in legislatures and serve as an important check on the attempts by political parties to hijack the agenda for governance.  _
 
 Serious and sufficient attention has not been given in responsible quarters to the problem of making elections to Parliament and to the State legislatures very much less expensive than they are now. I have for a long time been insisting on this as an essential reform. If we desire to have good Government in India this is an absolutely necessary step to be attended to at once. Whether we desire to rest the Government on the majority party basis, or on a coalition basis or a no-party basis, or on a proportional representation system, this reform is a condition precedent. We must make it possible for candidates to contest seats though not able themselves to bear much expense and not desire to depend on wealthy friends or wealthy parties.
 
@@ -38,8 +36,12 @@ Instead of this, we ought to make it more and more easy and popular for independ
 
 If the increase in the number of candidates is thought to be undesirable from any other point of view, a system of voting which will obtain the voters preferences and enable the unspent vote to be transferred to the next preference can be devised. All aspects of the problem should be thoroughly gone into by an expert committee, without losing sight of the main objective, viz., to make elections as inexpensive as possible for candidates. Politics should not become a preserve of wealthy parties or of wealthy men’s stooges.
 
-The original text of the article can be accessed here.
+_The original text of the article can be accessed _[_here_](http://indianliberals.in/~_admin/pdflanguage?id=785760897.pdf)_._
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+_[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
-Read more: De-Stalinisation Versus Communism
+Read more: [De-Stalinisation Versus Communism](https://spontaneousorder.in/so-musings-de-stalinisation-versus-communism/)
+
+---
+
+_Sourced from the WordPress database export (post ID 2230, http://localhost/IL/content/so-musings-a-democracy-at-war-2/). Needs editorial review._

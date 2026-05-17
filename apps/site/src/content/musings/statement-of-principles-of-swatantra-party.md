@@ -1,18 +1,15 @@
 ---
 id: "statement-of-principles-of-swatantra-party"
 title: "Statement of the Principles of Swatantra Party"
-pubDate: "2021-06-04T00:00:00Z"
+pubDate: "2021-06-04T12:56:17Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/statement-of-principles-of-swatantra-party/) on 2026-05-17. Needs editorial review._
-
-The Statement of the Principles of the Swatantra Party was adopted at the Preparatory Convention held at Bombay on August l and 2, 1959. The 21 principles which were adopted laid the ground for a liberal and market-oriented approach to politics in India. The Swatantra Party was the first political party to openly endorse free enterprise and liberal values in India.
-
-1. The Swatantra Party is pledged to Social Justice and equality of opportunity for all people without distinction of religion, caste, occupation, or political affiliation.
+The Statement of the Principles of the Swatantra Party was adopted at the Preparatory Convention held at Bombay on August l and 2, 1959. The 21 principles which were adopted laid the ground for a liberal and market-oriented approach to politics in India. The Swatantra Party was the first political party to openly endorse free enterprise and liberal values in India.1. The Swatantra Party is pledged to Social Justice and equality of opportunity for all people without distinction of religion, caste, occupation, or political affiliation.
 
 2. The Party holds that the progress, welfare, and happiness of the people depend on individual initiative, enterprise, and energy. The Party stands for the principle of maximum freedom for the individual and minimum interference by the State, consistent with the obligation to prevent and punish anti-social activities, to protect the weaker elements of society, and to create the conditions in which individual initiative will thrive and be fruitful. The Party is, therefore opposed to increasing State interference of the kind now being pursued.
 
@@ -53,3 +50,7 @@ The Statement of the Principles of the Swatantra Party was adopted at the Prepar
 20. The Party shall, in all matters, keep before itself the cardinal teachings of Gandhiji, maintaining faith in the people and in the efficacy of truth and non-violence.
 
 21. The Swatantra · Party holds that democracy is best served if every political Party allows freedom of opinion to its members on all matters outside the Fundamental Principles of the Party. It, therefore, gives its members, full liberty on all questions not falling within the scope of the Principles stated above.
+
+---
+
+_Sourced from the WordPress database export (post ID 4941, https://indianliberals.in/content/why-i-oppose-socialism-m-r-pai-2/). Needs editorial review._

@@ -1,19 +1,16 @@
 ---
 id: "why-remember-sharad-joshi"
 title: "Why Remember Sharad Joshi?"
-pubDate: "2021-09-03T00:00:00Z"
+pubDate: "2021-09-03T08:20:14Z"
+themes: 
+  - "opinions"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/why-remember-sharad-joshi/) on 2026-05-17. Needs editorial review._
-
-Sharad Anantrao Joshi, founder of the Shetkari Sanghatana, was a champion of individual freedom; a liberal in the truest sense of the word. He envisioned an India where the state was not placed on a pedestal, one where individual freedoms would guarantee a dignified life.
-
-When Sharad Joshi came to India in the 70s, there was a huge boom of tragedy leaders in our country. Based on the points of mutual disputes and differences that have been rooted in the society for centuries, the leaders, who run their shops of prestige on them, used to pretend social service by sitting on the chests of farmers, Dalits and the underprivileged. All these leaders had one thing in common, their mood was feudal and they were going to invalidate and unroot the contribution of modern western countries in our lives.
+_Sharad Anantrao Joshi, founder of the Shetkari Sanghatana, was a champion of individual freedom; a liberal in the truest sense of the word. He envisioned an India where the state was not placed on a pedestal, one where individual freedoms would guarantee a dignified life.     _When Sharad Joshi came to India in the 70s, there was a huge boom of tragedy leaders in our country. Based on the points of mutual disputes and differences that have been rooted in the society for centuries, the leaders, who run their shops of prestige on them, used to pretend social service by sitting on the chests of farmers, Dalits and the underprivileged. All these leaders had one thing in common, their mood was feudal and they were going to invalidate and unroot the contribution of modern western countries in our lives.
 
 Their imagery of social service was like continuing the life-long treatment of the ailing patient but never treating. Their methods of the social reforms were cosmetic in nature, which on the face seemed very compassionate and giving, but internally could not be treated anywhere. As a result, the multiple so-called attempts to reform the society and the economy created an army of such reforming leaders in this country who had almost no knowledge and were not even remotely related to economics and modern science. By representing and leading their respective castes and religious crowds, these leaders had become the biggest enemies of India’s modernity and liberation. It almost seemed like that it was a well-strategized, well thought of formula to never demand freedom, instead, table a long list of demands before the government.
 
@@ -31,4 +28,14 @@ Sharad Joshi ridiculed and pointed out to the leaders who advanced the idea a ca
 
 I consider myself lucky that I got a chance to meet and interact with him, I got the fortune to hear his golden words from his mouth. I offer my heartfelt tribute to the great soul on this memorial day today.
 
-(This piece has been sourced, translated and reproduced here with permission from the Facebook wall of Mr Dinesh Sharma.)
+_(This piece has been sourced, translated and reproduced here with permission from the Facebook wall of Mr Dinesh Sharma.)_
+
+![](https://indianliberals.in/wp-content/uploads/2021/09/Dinesh-Sharma-300x300.jpg)
+**Dinesh Sharma **
+
+
+Advocate Dinesh Sharma practices law at the district court and the Nagpur bench of Bombay High Court. Across Maharashtra, he is often called to speak on economics and related topics. He is a member of the Maharashtra committee of the Swatantra Bharat Party.
+
+---
+
+_Sourced from the WordPress database export (post ID 5112, https://indianliberals.in/content/m-g-ranade-on-wealth-creation-2/). Needs editorial review._

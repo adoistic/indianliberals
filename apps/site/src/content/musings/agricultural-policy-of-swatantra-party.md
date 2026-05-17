@@ -1,18 +1,16 @@
 ---
 id: "agricultural-policy-of-swatantra-party"
 title: "Agricultural Policy of Swatantra Party"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T09:04:03Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/agricultural-policy-of-swatantra-party/) on 2026-05-17. Needs editorial review._
-
 With regard to agriculture as with regard to industrial and other aspects of the economy, libertarian literature has a great contribution to make to the clarification of issues and the defence of liberty.
-
-The following article, written by “Democrat”, first appeared in February 1960 issue of the Indian Libertarian, an independent journal of economic and public affairs. The article highlights the position of the Swatantra Party on the so-called ‘reforms’ in the agriculture sector. The author forewarns us about the dangers of state intervention led by the Congress party after the Nagpur session, which has deprived farmers of their dignity and has made them dependent on the state for their livelihood.
+_The following article, written by “Democrat”, first appeared in February 1960 issue of the Indian Libertarian, an independent journal of economic and public affairs. The article highlights the position of the Swatantra Party on the so-called ‘reforms’ in the agriculture sector. The author forewarns us about the dangers of state intervention led by the Congress party after the Nagpur session, which has deprived farmers of their dignity and has made them dependent on the state for their livelihood._
 
 The declared agricultural policy of the Congress and Government after the Nagpur session last year has been the major and decisive provocation for the formation of the Swatantra Party under the aegis of Sri C. Rajagopalachari and the initiative of the All India Agriculturists’ Federation.
 
@@ -66,6 +64,10 @@ Political pressure and fear of loss of votes prevents politicians of both partie
 
 This libertarian literature has its counter-part in India as well. This journal publishes an economic supplement from time to time as well as articles specially devoted to the value of free economy and the dangers of State intervention to the country, dangers both economic by way of inflation and the wage-price spiral and political by way of damaging the independence and self-reliance of the citizens so essential for democracy. If the citizen becomes helplessly dependent on the State for livelihood and conditions of economic well-being, his capacity to think and vole straight fearlessly will suffer.
 
-The original document can be accessed here.
+The original document can be accessed [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-feb1-1960.pdf).
 
-IndianLiberals.in is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context.
+_[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
+
+---
+
+_Sourced from the WordPress database export (post ID 2291, http://localhost/IL/content/so-musings-caste-system-greatest-curse-of-india/). Needs editorial review._

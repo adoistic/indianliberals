@@ -1,16 +1,15 @@
 ---
 id: "has-private-enterprise-failed-a-d-shroff"
 title: "Has Private Enterprise Failed?"
-pubDate: "2020-11-16T00:00:00Z"
+pubDate: "2020-11-16T09:22:55Z"
+themes: 
+  - "so-musings"
 language: "en"
-translation_status: "original"
 needs_review: true
 draft: false
 ---
 
-_Scraped from [the previous WordPress site](https://indianliberals.in/content/has-private-enterprise-failed-a-d-shroff/) on 2026-05-17. Needs editorial review._
-
-With the impending slowdown in the Indian economy, many analysts have wondered if Private Enterprise has failed in India. It is imperative to point out that since the 1950s the failures of Private Enterprises in India have been questioned. In this speech made before the Commerce Graduates’ Association in Bombay in October 1956, eminent industrialist, banker and economist A D Shroff points out that despite numerous impediments to growth Private Enterprise in India is alive and flourishing. His words remain as true today as they were in then.
+With the impending slowdown in the Indian economy, many analysts have wondered if Private Enterprise has failed in India. It is imperative to point out that since the 1950s the failures of Private Enterprises in India have been questioned. In this speech made before the Commerce Graduates' Association in Bombay in October 1956, eminent industrialist, banker and economist A D Shroff points out that despite numerous impediments to growth Private Enterprise in India is alive and flourishing. His words remain as true today as they were in then.
 
 For some time past, Private Enterprise in India has been continuously under fire. It has been suggested that Private Enterprise is incapable of undertaking large-scale and rapid economic development of the country. It is also suggested that Private Enterprise only results in the concentration of economic power in the hands of a few people. It is further said that-and it was said only a few days ago by no less a person than the Prime Minister of India in Calcutta-that Private Enterprise and Democracy are incompatible. But the main provocation for the choice of the subject is a speech made by Mr. T. T. Krishnamachari, who was then the Union Minister for Commerce and Industry, at Madurai on 4th of August. In the course of his speech, he observed that “Private Enterprise has failed me”, and that Private Enterprise was not showing either initiative or enterprise.
 
@@ -29,6 +28,8 @@ The above two or three instances might show what Private Enterprise, functioning
 Even before we attained Independence, in 1944 seven business men of India got together and put before the people a plan for the economic development of the country. The plan was sufficiently ambitious; it involved an estimated expenditure of Rs. 10,0001 crores over a period of 15 years and out of that it envisaged spending something like Rs. 4,4001 crores on development of Industries. I am mentioning this to show that Private Enterprise in India, even before Independence, was fully conscious of the needs of the country and also had faith in itself that it could undertake development on a very large and extensive scale. After 1947 the Government started taking more active interest in the economic development of the country. Private Enterprise also did not fail to assist in the process of development. The curve of industrial production during the last five years has been continuously rising. If you take 1946 as the base year, i.e., 100, industrial production went up to 117.2 in 1951, 128.9 in 1952, 135.3 in 1953, 146.6 in 1954, and in 1955 it stood at 161.5.
 
 Let me make it clear that the overwhelming proportion of the increased production was contributed by Private Enterprise because the few State Enterprises which came into operation were mainly confined to the Sindri Fertilizer Factory, the Chittaranjan Locomotives, and the Indian Telephone Factory at Bangalore, etc. If you take the aggregate value of the production, contribution by the Public Sector represents a comparatively negligible percentage of the total. But the more interesting thing was this: if you break up the general index of industries and some of the new industries, taking 1946 as the base year representing 100, the increase has been for Old Industries:
+
+![](https://spontaneousorder.in/wp-content/uploads/2019/11/Capture.jpg)
 
 This remarkable increase in industrial production during the past five years in which both old and new industries have equally participated and to which the State Enterprise has contributed comparatively very little ought to give a lie direct to the very charge that Private Enterprise has Failed to do its duty in this country. The index figures I have just read do not convey the whole story; besides this, important new industries were started, for instance Rayon. It was started and is prospering well and perhaps in the course of the next 3 to 5 years India will be self-sufficient in regard to requirements of Rayon yarn. Take again the Steel Tubes industry. Though this project was mooted even before the last war, owing to the exigencies of the War it could not be brought into operation. It has since been started and is one of the important industries in the country. Similarly, reference may be made to automobiles and trucks.
 
@@ -72,10 +73,14 @@ In the course of my activities in the Forum of Free Enterprise, I have had to an
 
 Finally, I will examine if Private Enterprise and Democracy are incompatible. Coming as it does from the highest in the land, it does need very close consideration and examination. I would, however, like to state that there are a number of thinking people in India who not only do not agree with the view but on the contrary honestly believe that if Free Enterprise is not allowed to continue in this country, subject of course to our accepting planned development of the country and the necessary regulations involved, and if Free Enterprise is going to be thwarted and restricted in its operations, it can only result in a serious diminution of the democratic way of life if not its ultimate destruction. I for one have been thinking for some time past and trying to understand if this statement could be correct-that Private Enterprise and Democracy are incompatible. Either I do not understand the content of democracy or I cannot understand the meaning of the statement “Private Enterprise and Democracy are incompatible.” As a matter of fact, we, particularly in the Forum of Free Enterprise, find our view confirmed by thousands of people in the country that Democracy, which is a blessing we enjoy and the Democratic way of life which has been assured to us in our constitution, is likely to suffer very severely if Free Enterprise is not allowed to be practised in this country.
 
-Access the original document here.
+_Access the original document [**here**](https://indianliberals.in/forum-of-free-enterprise/has-private-enterprise-failed-ad-shroff-230ct-1956.pdf)._
 
-First Published by the Forum of Free Enterprise in November 1956.
+_First Published by the Forum of Free Enterprise in November 1956._
 
-Other editions of the publication can be accessed at Indian Liberals, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
+_Other editions of the publication can be accessed at [**Indian Liberals**](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
-Read More SO Musings
+[**Read More SO Musings**](https://spontaneousorder.in/?s=SO+Musings)
+
+---
+
+_Sourced from the WordPress database export (post ID 2311, http://localhost/IL/content/so-musings-a-rule-of-law-society-2/). Needs editorial review._
