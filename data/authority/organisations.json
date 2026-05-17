@@ -1,7 +1,26 @@
 {
   "_meta": {
-    "count": 21,
-    "purpose": "seed organisation list for authority file"
+    "version": "v1.5-2026-05-17",
+    "purpose": "Authority file seed for organisation + publisher-org resolution. Phase 0.7 Wave 2 added 29 new entries surfaced from 40 baked PDFs (84 org candidates total, ~55 skipped as ad-hoc committees, government bodies cited once, commercial advertisers, or out-of-scope diaspora orgs). 8 existing entries also patched with new alias variants (Devanagari/Bengali/Gujarati scripts and FNF/FNSt synonyms). Metadata extraction prompts resolve organisation/publisher bylines against the byline_lookup map. Entries with confidence: canonical are trusted; high/medium-confidence entries are corpus-recurring institutions whose canonical identity has been confirmed manually.",
+    "counts": {
+      "total": 50,
+      "canonical": 23,
+      "high": 17,
+      "medium": 10,
+      "by_type": {
+        "think_tank": 8,
+        "political_party": 5,
+        "publisher_org": 9,
+        "reform_society": 6,
+        "professional_body": 7,
+        "academic": 8,
+        "international_network": 7
+      },
+      "wave2_new": 29,
+      "wave2_patches": 8,
+      "byline_lookup_entries": 108
+    },
+    "schema_note": "Flat schema (id + canonical + also_known_as[] + founded_year + dissolved_year + type + ideology[] + confidence + sources[]). Distinct from the Astro content collection in apps/site/src/content.config.ts which uses nested name.{canonical,sort,...} — this file is consumed by the extraction pipeline, not the site."
   },
   "organisations": [
     {
@@ -12,7 +31,10 @@
         "the Forum"
       ],
       "founded_year": 1956,
-      "type": "think_tank"
+      "type": "think_tank",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "swatantra-party",
@@ -22,7 +44,10 @@
       ],
       "founded_year": 1959,
       "dissolved_year": 1974,
-      "type": "political_party"
+      "type": "political_party",
+      "ideology": ["classical_liberal", "constitutionalist"],
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "indian-liberal-group",
@@ -32,16 +57,23 @@
         "IL Group"
       ],
       "founded_year": 2000,
-      "type": "think_tank"
+      "type": "think_tank",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "shetkari-sanghatana",
       "canonical": "Shetkari Sanghatana",
       "also_known_as": [
-        "Shetkari Sanghatak"
+        "Shetkari Sanghatak",
+        "शेतकरी संघटना"
       ],
       "founded_year": 1979,
-      "type": "reform_society"
+      "type": "reform_society",
+      "ideology": ["classical_liberal", "agrarian_reform"],
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "centre-for-civil-society",
@@ -50,13 +82,19 @@
         "CCS"
       ],
       "founded_year": 1997,
-      "type": "think_tank"
+      "type": "think_tank",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "liberty-institute",
       "canonical": "Liberty Institute",
       "founded_year": 1996,
-      "type": "think_tank"
+      "type": "think_tank",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "all-india-liberal-federation",
@@ -64,22 +102,35 @@
       "also_known_as": [
         "AILF"
       ],
-      "type": "political_party"
+      "type": "political_party",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "friedrich-naumann-foundation",
       "canonical": "Friedrich Naumann Foundation",
       "also_known_as": [
         "FNF",
-        "Friedrich Naumann Foundation for Freedom"
+        "FNSt",
+        "Friedrich Naumann Foundation for Freedom",
+        "Friedrich Naumann Stiftung",
+        "Friedrich-Naumann-Stiftung"
       ],
-      "type": "international_network"
+      "founded_year": 1958,
+      "type": "international_network",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "liberal-international",
       "canonical": "Liberal International",
       "founded_year": 1947,
-      "type": "international_network"
+      "type": "international_network",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "atlas-network",
@@ -87,19 +138,28 @@
       "also_known_as": [
         "Atlas Economic Research Foundation"
       ],
-      "type": "international_network"
+      "type": "international_network",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "mont-pelerin-society",
       "canonical": "Mont Pelerin Society",
       "founded_year": 1947,
-      "type": "international_network"
+      "type": "international_network",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "hoover-institution",
       "canonical": "Hoover Institution",
       "founded_year": 1919,
-      "type": "academic"
+      "type": "academic",
+      "ideology": ["classical_liberal"],
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "indian-national-congress",
@@ -109,7 +169,9 @@
         "INC"
       ],
       "founded_year": 1885,
-      "type": "political_party"
+      "type": "political_party",
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "congress-socialist-party",
@@ -119,23 +181,30 @@
       ],
       "founded_year": 1934,
       "dissolved_year": 1948,
-      "type": "political_party"
+      "type": "political_party",
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "planning-commission-india",
       "canonical": "Planning Commission of India",
       "founded_year": 1950,
       "dissolved_year": 2014,
-      "type": "academic"
+      "type": "academic",
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "indian-merchants-chamber",
       "canonical": "Indian Merchants' Chamber",
       "also_known_as": [
-        "IMC"
+        "IMC",
+        "Indian Merchants Chambers"
       ],
       "founded_year": 1907,
-      "type": "professional_body"
+      "type": "professional_body",
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "federation-of-indian-chambers-of-commerce",
@@ -144,7 +213,9 @@
         "FICCI"
       ],
       "founded_year": 1927,
-      "type": "professional_body"
+      "type": "professional_body",
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "bombay-stock-exchange",
@@ -153,7 +224,9 @@
         "BSE"
       ],
       "founded_year": 1875,
-      "type": "professional_body"
+      "type": "professional_body",
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "ncaer",
@@ -162,19 +235,461 @@
         "NCAER"
       ],
       "founded_year": 1956,
-      "type": "academic"
+      "type": "academic",
+      "confidence": "canonical",
+      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
     },
     {
       "id": "tata-sons",
       "canonical": "Tata Sons",
       "founded_year": 1917,
-      "type": "publisher_org"
+      "type": "publisher_org",
+      "confidence": "canonical",
+      "sources": ["proposal"]
     },
     {
       "id": "bharatiya-vidya-bhavan",
       "canonical": "Bharatiya Vidya Bhavan",
       "founded_year": 1938,
-      "type": "academic"
+      "type": "academic",
+      "confidence": "canonical",
+      "sources": ["proposal"]
+    },
+    {
+      "id": "janashakti-vachak-chalval",
+      "canonical": "Janashakti Vachak Chalval",
+      "also_known_as": [
+        "जनशक्ती वाचक चळवळ",
+        "Janashakti Vachak Chalwal",
+        "Janshakti Wachak Chalwal",
+        "Janashakti Reading Movement"
+      ],
+      "type": "reform_society",
+      "ideology": ["classical_liberal", "agrarian_reform"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "janashakti-books-and-publications",
+      "canonical": "Janashakti Books and Publications Pvt. Ltd.",
+      "also_known_as": [
+        "जनशक्ती बुक्स अँण्ड पब्लिकेशन प्रा. लि.",
+        "Janashakti Books & Publications",
+        "Janashakti Publications"
+      ],
+      "type": "publisher_org",
+      "ideology": ["classical_liberal", "agrarian_reform"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "project-for-economic-education",
+      "canonical": "Project for Economic Education",
+      "also_known_as": [
+        "PEE",
+        "Project for Economic Education, Mumbai"
+      ],
+      "founded_year": 1997,
+      "type": "think_tank",
+      "ideology": ["classical_liberal"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "press-institute-of-india",
+      "canonical": "Press Institute of India",
+      "also_known_as": [
+        "PII"
+      ],
+      "founded_year": 1963,
+      "type": "professional_body",
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "all-india-sarafa-association",
+      "canonical": "All-India Sarafa Association",
+      "also_known_as": [
+        "All India Sarafa Association"
+      ],
+      "type": "professional_body",
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "maharashtra-economic-development-council",
+      "canonical": "Maharashtra Economic Development Council",
+      "also_known_as": [
+        "MEDC"
+      ],
+      "type": "think_tank",
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "bharathan-publications",
+      "canonical": "Bharathan Publications Private Ltd.",
+      "also_known_as": [
+        "Bharathan Publications",
+        "Bharathan Publications Pvt. Ltd."
+      ],
+      "type": "publisher_org",
+      "ideology": ["classical_liberal"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "manaktalas",
+      "canonical": "P. C. Manaktala and Sons Private Ltd.",
+      "also_known_as": [
+        "Manaktalas",
+        "P. C. Manaktala and Sons",
+        "PC Manaktala and Sons"
+      ],
+      "type": "publisher_org",
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "shetkari-prakashan",
+      "canonical": "Shetkari Prakashan",
+      "also_known_as": [
+        "शेतकरी प्रकाशन"
+      ],
+      "type": "publisher_org",
+      "ideology": ["classical_liberal", "agrarian_reform"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "initiative-for-open-society",
+      "canonical": "Initiative for Open Society",
+      "also_known_as": [
+        "પહેલ કેન્દ",
+        "Pahel Kendra",
+        "Pahel",
+        "પહેલ કેન્દ (Initiative for Open Society)"
+      ],
+      "type": "publisher_org",
+      "ideology": ["classical_liberal"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "libertarian-publishers",
+      "canonical": "Libertarian Publishers Private Ltd.",
+      "also_known_as": [
+        "Libertarian Publishers (Private) Ltd.",
+        "Libertarian Publishers"
+      ],
+      "type": "publisher_org",
+      "ideology": ["classical_liberal", "libertarian"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "r-l-foundation",
+      "canonical": "R. L. Foundation",
+      "also_known_as": [
+        "RL Foundation"
+      ],
+      "type": "publisher_org",
+      "ideology": ["classical_liberal", "libertarian"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "libertarian-social-institute",
+      "canonical": "Libertarian Social Institute",
+      "type": "academic",
+      "ideology": ["classical_liberal", "libertarian"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "ford-foundation",
+      "canonical": "Ford Foundation",
+      "founded_year": 1936,
+      "type": "international_network",
+      "confidence": "canonical",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "council-of-asian-liberals-and-democrats",
+      "canonical": "Council of Asian Liberals and Democrats",
+      "also_known_as": [
+        "CALD"
+      ],
+      "founded_year": 1993,
+      "type": "international_network",
+      "ideology": ["classical_liberal"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "liberal-party-of-sri-lanka",
+      "canonical": "Liberal Party of Sri Lanka",
+      "founded_year": 1987,
+      "type": "political_party",
+      "ideology": ["classical_liberal"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "council-for-liberal-democracy",
+      "canonical": "Council for Liberal Democracy",
+      "founded_year": 1981,
+      "type": "think_tank",
+      "ideology": ["classical_liberal"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "brahmo-samaj",
+      "canonical": "Brahmo Samaj",
+      "also_known_as": [
+        "ব্রাহ্ম সমাজ"
+      ],
+      "founded_year": 1828,
+      "type": "reform_society",
+      "ideology": ["constitutionalist", "reformist"],
+      "confidence": "canonical",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "satyashodhak-samaj",
+      "canonical": "Satyashodhak Samaj",
+      "also_known_as": [
+        "सत्यशोधक समाज",
+        "Satya Shodhak Samaj"
+      ],
+      "founded_year": 1873,
+      "dissolved_year": 1930,
+      "type": "reform_society",
+      "ideology": ["reformist", "agrarian_reform"],
+      "confidence": "high",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "academic-association-derozio",
+      "canonical": "Academic Association",
+      "also_known_as": [
+        "Derozio's Academic Association"
+      ],
+      "founded_year": 1828,
+      "dissolved_year": 1831,
+      "type": "academic",
+      "ideology": ["reformist"],
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "hindu-college-calcutta",
+      "canonical": "Hindu College, Calcutta",
+      "also_known_as": [
+        "Hindu College",
+        "Presidency College Calcutta"
+      ],
+      "founded_year": 1817,
+      "type": "academic",
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "leslie-sawhny-centre",
+      "canonical": "Leslie Sawhny Centre",
+      "also_known_as": [
+        "Leslie Sawhny Programme of Training for Democracy"
+      ],
+      "type": "academic",
+      "ideology": ["classical_liberal"],
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "the-radical-humanist",
+      "canonical": "The Radical Humanist",
+      "type": "publisher_org",
+      "ideology": ["humanist", "classical_liberal"],
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "observer-research-foundation",
+      "canonical": "Observer Research Foundation",
+      "also_known_as": [
+        "ORF",
+        "Observer Research Foundation (ORF) Mumbai"
+      ],
+      "founded_year": 1990,
+      "type": "think_tank",
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "john-templeton-foundation",
+      "canonical": "John Templeton Foundation",
+      "founded_year": 1987,
+      "type": "international_network",
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "kisan-samvay-samiti",
+      "canonical": "Kisan Samvay Samiti",
+      "also_known_as": [
+        "किसान समन्वय समिती",
+        "Kisan Coordination Committee"
+      ],
+      "type": "reform_society",
+      "ideology": ["agrarian_reform"],
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "shetkari-mahila-aghadi",
+      "canonical": "Shetkari Mahila Aghadi",
+      "also_known_as": [
+        "शेतकरी महिला आघाडी",
+        "Farmers' Women's Front"
+      ],
+      "type": "reform_society",
+      "ideology": ["agrarian_reform", "classical_liberal"],
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "all-india-newspaper-editors-conference",
+      "canonical": "All-India Newspaper Editors' Conference",
+      "also_known_as": [
+        "AINEC"
+      ],
+      "founded_year": 1940,
+      "type": "professional_body",
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+    },
+    {
+      "id": "upasi",
+      "canonical": "United Planters' Association of Southern India",
+      "also_known_as": [
+        "UPASI",
+        "U.P.A.S.I."
+      ],
+      "founded_year": 1893,
+      "type": "professional_body",
+      "confidence": "medium",
+      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
     }
-  ]
+  ],
+  "byline_lookup": {
+    "Forum of Free Enterprise": "forum-of-free-enterprise",
+    "FFE": "forum-of-free-enterprise",
+    "Swatantra Party": "swatantra-party",
+    "Swatantra": "swatantra-party",
+    "Indian Liberal Group": "indian-liberal-group",
+    "ILG": "indian-liberal-group",
+    "Shetkari Sanghatana": "shetkari-sanghatana",
+    "Shetkari Sanghatak": "shetkari-sanghatana",
+    "शेतकरी संघटना": "shetkari-sanghatana",
+    "Centre for Civil Society": "centre-for-civil-society",
+    "CCS": "centre-for-civil-society",
+    "Liberty Institute": "liberty-institute",
+    "All India Liberal Federation": "all-india-liberal-federation",
+    "AILF": "all-india-liberal-federation",
+    "Friedrich Naumann Foundation": "friedrich-naumann-foundation",
+    "Friedrich Naumann Stiftung": "friedrich-naumann-foundation",
+    "Friedrich-Naumann-Stiftung": "friedrich-naumann-foundation",
+    "Friedrich Naumann Foundation for Freedom": "friedrich-naumann-foundation",
+    "FNF": "friedrich-naumann-foundation",
+    "FNSt": "friedrich-naumann-foundation",
+    "Liberal International": "liberal-international",
+    "Atlas Network": "atlas-network",
+    "Atlas Economic Research Foundation": "atlas-network",
+    "Mont Pelerin Society": "mont-pelerin-society",
+    "Hoover Institution": "hoover-institution",
+    "Indian National Congress": "indian-national-congress",
+    "Congress": "indian-national-congress",
+    "INC": "indian-national-congress",
+    "Congress Socialist Party": "congress-socialist-party",
+    "CSP": "congress-socialist-party",
+    "Planning Commission of India": "planning-commission-india",
+    "Indian Merchants' Chamber": "indian-merchants-chamber",
+    "Indian Merchants Chambers": "indian-merchants-chamber",
+    "IMC": "indian-merchants-chamber",
+    "Federation of Indian Chambers of Commerce and Industry": "federation-of-indian-chambers-of-commerce",
+    "FICCI": "federation-of-indian-chambers-of-commerce",
+    "Bombay Stock Exchange": "bombay-stock-exchange",
+    "BSE": "bombay-stock-exchange",
+    "National Council of Applied Economic Research": "ncaer",
+    "NCAER": "ncaer",
+    "Tata Sons": "tata-sons",
+    "Bharatiya Vidya Bhavan": "bharatiya-vidya-bhavan",
+    "जनशक्ती वाचक चळवळ": "janashakti-vachak-chalval",
+    "Janashakti Vachak Chalval": "janashakti-vachak-chalval",
+    "Janashakti Vachak Chalwal": "janashakti-vachak-chalval",
+    "Janshakti Wachak Chalwal": "janashakti-vachak-chalval",
+    "जनशक्ती बुक्स अँण्ड पब्लिकेशन प्रा. लि.": "janashakti-books-and-publications",
+    "Janashakti Books and Publications Pvt. Ltd.": "janashakti-books-and-publications",
+    "Janashakti Books & Publications": "janashakti-books-and-publications",
+    "Project for Economic Education": "project-for-economic-education",
+    "Project for Economic Education, Mumbai": "project-for-economic-education",
+    "PEE": "project-for-economic-education",
+    "Press Institute of India": "press-institute-of-india",
+    "PII": "press-institute-of-india",
+    "All-India Sarafa Association": "all-india-sarafa-association",
+    "All India Sarafa Association": "all-india-sarafa-association",
+    "Maharashtra Economic Development Council": "maharashtra-economic-development-council",
+    "MEDC": "maharashtra-economic-development-council",
+    "Bharathan Publications Private Ltd.": "bharathan-publications",
+    "Bharathan Publications": "bharathan-publications",
+    "Bharathan Publications Pvt. Ltd.": "bharathan-publications",
+    "P. C. Manaktala and Sons Private Ltd.": "manaktalas",
+    "P. C. Manaktala and Sons Private Ltd": "manaktalas",
+    "P. C. Manaktala and Sons": "manaktalas",
+    "PC Manaktala and Sons": "manaktalas",
+    "Manaktalas": "manaktalas",
+    "शेतकरी प्रकाशन": "shetkari-prakashan",
+    "Shetkari Prakashan": "shetkari-prakashan",
+    "પહેલ કેન્દ": "initiative-for-open-society",
+    "પહેલ કેન્દ (Initiative for Open Society)": "initiative-for-open-society",
+    "Initiative for Open Society": "initiative-for-open-society",
+    "Pahel": "initiative-for-open-society",
+    "Pahel Kendra": "initiative-for-open-society",
+    "Libertarian Publishers Private Ltd.": "libertarian-publishers",
+    "Libertarian Publishers (Private) Ltd.": "libertarian-publishers",
+    "Libertarian Publishers": "libertarian-publishers",
+    "R. L. Foundation": "r-l-foundation",
+    "RL Foundation": "r-l-foundation",
+    "Libertarian Social Institute": "libertarian-social-institute",
+    "Ford Foundation": "ford-foundation",
+    "Council of Asian Liberals and Democrats": "council-of-asian-liberals-and-democrats",
+    "CALD": "council-of-asian-liberals-and-democrats",
+    "Liberal Party of Sri Lanka": "liberal-party-of-sri-lanka",
+    "Council for Liberal Democracy": "council-for-liberal-democracy",
+    "Brahmo Samaj": "brahmo-samaj",
+    "ব্রাহ্ম সমাজ": "brahmo-samaj",
+    "Satyashodhak Samaj": "satyashodhak-samaj",
+    "सत्यशोधक समाज": "satyashodhak-samaj",
+    "Satya Shodhak Samaj": "satyashodhak-samaj",
+    "Academic Association": "academic-association-derozio",
+    "Derozio's Academic Association": "academic-association-derozio",
+    "Hindu College": "hindu-college-calcutta",
+    "Hindu College, Calcutta": "hindu-college-calcutta",
+    "Leslie Sawhny Centre": "leslie-sawhny-centre",
+    "The Radical Humanist": "the-radical-humanist",
+    "Observer Research Foundation": "observer-research-foundation",
+    "Observer Research Foundation (ORF) Mumbai": "observer-research-foundation",
+    "ORF": "observer-research-foundation",
+    "John Templeton Foundation": "john-templeton-foundation",
+    "Kisan Samvay Samiti": "kisan-samvay-samiti",
+    "किसान समन्वय समिती": "kisan-samvay-samiti",
+    "Shetkari Mahila Aghadi": "shetkari-mahila-aghadi",
+    "शेतकरी महिला आघाडी": "shetkari-mahila-aghadi",
+    "All-India Newspaper Editors' Conference": "all-india-newspaper-editors-conference",
+    "AINEC": "all-india-newspaper-editors-conference",
+    "United Planters' Association of Southern India": "upasi",
+    "UPASI": "upasi",
+    "U.P.A.S.I.": "upasi"
+  }
 }
