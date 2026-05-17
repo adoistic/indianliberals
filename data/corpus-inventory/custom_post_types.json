@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "purpose": "WP DB custom post types that the initial extract_content.py filter (post_type='content') skipped. Read here, decide whether to absorb into existing collections, fold into a new collection, or drop.",
+    "count": 7
+  },
+  "entries": [
+    {
+      "ID": 8994,
+      "post_type": "print",
+      "post_name": "state-control-blocks-indias-progress-and-exploits-its-people-c-rajagopalachari",
+      "post_title": "State control blocks India’s progress and exploits its people: C Rajagopalachari",
+      "post_date": "2025-09-28 07:15:58",
+      "content_length": 305,
+      "content_preview": "<p>The Swatantra Party wants the removal of the permit raj, which sits heavily over national production and trade, Rajagopalachari wrote in 1963.</p> <p>| C Rajagopalachari</p> <p>https://theprint.in/opinion/indian-liberals-matter/state-control-india-progress-exploitation-c-rajagopalachari/2737203/</p>",
+      "guid": "https://indianliberals.in/?post_type=print&#038;p=8994"
+    },
+    {
+      "ID": 8996,
+      "post_type": "print",
+      "post_name": "russian-style-socialism-dominated-nehrus-imagination-it-was-disastrous",
+      "post_title": "Russian-style socialism dominated Nehru’s imagination. It was disastrous",
+      "post_date": "2025-09-28 07:17:13",
+      "content_length": 309,
+      "content_preview": "<p>It is necessary to break the spell of socialist dogma on the imagination of those attracted by its Utopia as the only scientific way of progress, wrote MA Venkatarao in 1963.</p> <p>| MA Venkatarao</p> <p>https://theprint.in/opinion/indian-liberals-matter/russian-socialism-nehru-imagination/2742456/</p>",
+      "guid": "https://indianliberals.in/?post_type=print&#038;p=8996"
+    },
+    {
+      "ID": 8998,
+      "post_type": "print",
+      "post_name": "was-indias-public-sector-born-out-of-european-envy",
+      "post_title": "Was India’s public sector born out of European envy?",
+      "post_date": "2025-09-28 07:18:01",
+      "content_length": 307,
+      "content_preview": "<p>For all its obvious blemishes, capitalism alone holds out the most creative and dynamic force that any civilization has ever discovered, wrote BP Godrej in 1980.</p> <p>| BP Godrej</p> <p>https://theprint.in/opinion/indian-liberals-matter/was-indias-public-sector-born-out-of-european-envy/2747391/</p>",
+      "guid": "https://indianliberals.in/?post_type=print&#038;p=8998"
+    },
+    {
+      "ID": 9063,
+      "post_type": "indian_liberals",
+      "post_name": "raja-ram-mohan-roy",
+      "post_title": "Raja Ram Mohan Roy",
+      "post_date": "2025-09-28 11:13:04",
+      "content_length": 0,
+      "content_preview": "",
+      "guid": "https://indianliberals.in/?post_type=indian_liberals&#038;p=9063"
+    },
+    {
+      "ID": 9066,
+      "post_type": "indian_liberals",
+      "post_name": "m-r-pai",
+      "post_title": "M. R. Pai",
+      "post_date": "2025-09-28 11:19:25",
+      "content_length": 99,
+      "content_preview": "<a href=\"https://indianliberals.in/content/m-r-pai/\">https://indianliberals.in/content/m-r-pai/</a>",
+      "guid": "https://indianliberals.in/?post_type=indian_liberals&#038;p=9066"
+    },
+    {
+      "ID": 9068,
+      "post_type": "indian_liberals",
+      "post_name": "a-d-shroff",
+      "post_title": "A. D. Shroff",
+      "post_date": "2025-09-28 11:20:46",
+      "content_length": 135,
+      "content_preview": "<a href=\"https://indianliberals.in/content/ardeshir-darabshaw-shroff/\">https://indianliberals.in/content/ardeshir-darabshaw-shroff/</a>",
+      "guid": "https://indianliberals.in/?post_type=indian_liberals&#038;p=9068"
+    },
+    {
+      "ID": 9070,
+      "post_type": "indian_liberals",
+      "post_name": "s-v-raju",
+      "post_title": "S. V. Raju",
+      "post_date": "2025-09-28 11:21:54",
+      "content_length": 101,
+      "content_preview": "<a href=\"https://indianliberals.in/content/s-v-raju/\">https://indianliberals.in/content/s-v-raju/</a>",
+      "guid": "https://indianliberals.in/?post_type=indian_liberals&#038;p=9070"
+    }
+  ]
+}

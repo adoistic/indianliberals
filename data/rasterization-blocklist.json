@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "total": 944,
+    "ok": 944,
+    "render_error": 0,
+    "no_pages": 0,
+    "all_blank": 0,
+    "front_cover_blank": 2,
+    "blocked": 0,
+    "blocked_pct": 0.0,
+    "notes": [
+      "Initial smoke flagged 2 PDFs where page 1 renders as blank. Investigation showed these have decorative front covers / blank versos by design — page 2 of each has real content (3.7% and 2.5% non-white respectively).",
+      "The pipeline's correct behaviour is to render extra pages when a blank is detected, NOT to blocklist the PDF. See `pypdfium2_blank_handling` below.",
+      "Result: 944/944 PDFs are renderable. Blocklist is empty in v1."
+    ]
+  },
+  "blocklist": [],
+  "front_cover_blank": [
+    {
+      "path": "liberals/satyamev-jayate-volume-1-collection-of-writings-from-swarajya.pdf",
+      "reason": "page 1 is blank front cover, page 2+ has content (3.7% non-white)",
+      "page_count": 570
+    },
+    {
+      "path": "liberals/towards-a-responsible-press-shri-c-rajagopalachari-speeches-on-the-press-bill-in-parliament.pdf",
+      "reason": "page 1 is blank front cover, page 2+ has content (2.5% non-white)",
+      "page_count": 125
+    }
+  ],
+  "pypdfium2_blank_handling": {
+    "rule": "When the rasterizer requests N pages for a chunk, detect blanks (heuristic: <0.1% non-white pixels in grayscale, configurable) and render extra pages to fill the chunk to N non-blank pages. Cap extra at 1.5 × requested to avoid runaway on PDFs with many blank versos.",
+    "applies_to": "metadata pass (always page 1 chunk), summarization pass (continuation chunks)"
+  }
+}

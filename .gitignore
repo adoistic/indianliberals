@@ -62,3 +62,9 @@ wrangler.toml.bak
 # Internal working material (audits, drafts) — never published
 /docs/internal/
 __pycache__/
+
+# Python venv for local extraction work (Python 3.14 with pypdfium2 + Pillow)
+.venv-extract/
+
+# Smoke-test render output (regeneratable from scripts/llm-extract/rasterize_smoke_test.py)
+/tmp/render-smoke-test/

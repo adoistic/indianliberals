@@ -1,0 +1,152 @@
+{
+  "_meta": {
+    "version": "v1-2026-05-17",
+    "purpose": "Unified inventory of the Indian Liberals corpus. Single source of truth for what we have, where it lives, and what's been decided about it.",
+    "design_doc": "/Users/siraj/.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md",
+    "constraint_note": "We are building an Astro site from scratch. The WordPress installation is a SOURCE of content; it is NOT a template, schema, or structural reference. Completeness is answered against the curator's drive (PDFs) + our schema, NOT against the legacy WP site."
+  },
+  "pdfs_on_disk": {
+    "total": 944,
+    "total_pages": 23770,
+    "drive_root": "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher",
+    "by_publisher": {
+      "forum-of-free-enterprise": 622,
+      "the-indian-libertarian": 158,
+      "shetkari-sanghatak": 53,
+      "liberals": 42,
+      "gujarati": 21,
+      "marathi": 21,
+      "indian-liberal-group": 12,
+      "other-publications": 6,
+      "bengali": 3,
+      "liberal-times": 3,
+      "swatantra-party": 2,
+      "hindi": 2
+    },
+    "languages": {
+      "en": 894,
+      "mr": 21,
+      "gu": 21,
+      "bn": 3,
+      "hi": 2,
+      "mixed_or_other": 3
+    },
+    "rasterization_health": {
+      "render_success_rate": "944/944 (100%)",
+      "render_errors": 0,
+      "front_cover_blank_count": 2,
+      "blocklist_size": 0,
+      "see": "data/rasterization-blocklist.json"
+    },
+    "bake_off_sample": {
+      "count": 41,
+      "pages": 3467,
+      "corpus_coverage_pct": 14.6,
+      "see": "data/bakeoff-sample.json"
+    }
+  },
+  "content_collections_in_repo": {
+    "thinkers": 15,
+    "organisations": 2,
+    "musings": 224,
+    "opinions": 61,
+    "interviews": 72,
+    "primary_works": 51,
+    "theprint_mirror": 48,
+    "periodicals": 0,
+    "themes": 0,
+    "period_windows": 0,
+    "reading_paths": 0,
+    "graph_edges": 0,
+    "primary_works_status": "All 51 entries have needs_extraction: true. Stale OCR stripped; awaiting LLM extraction pipeline.",
+    "synthesis_collections_status": "Empty. Populated by Phase 4 of LLM pipeline."
+  },
+  "authority_files": {
+    "thinkers_count": 199,
+    "organisations_count": 21,
+    "publishers_count": 17,
+    "see": "data/authority/"
+  },
+  "non_pdf_media": {
+    "audio_files": 27,
+    "thinker_portraits": 44,
+    "magazine_covers": 22,
+    "book_covers": 18,
+    "see": "data/legacy-media.json"
+  },
+  "wp_db_dumps_extracted": {
+    "current_wp": "indianli_indianv3.sql (67 MB) — il_posts: 1,393 published content + 49 PDF attachments + 4 indian_liberals + 3 print",
+    "mid_era_wp": "indianli_liberals.sql (24 MB) — wp_author (11), wp_book (118), wp_av (27 YouTube), wp_periodicals (10), tbl_languages_details (51), tbl_languages_content (3,684 OCR pages — unusable)",
+    "legacy_php": "indianli_inliberdb.sql (63 MB) — custom-table CodeIgniter-style schema",
+    "drive_location": "/Volumes/One Touch/Indian Liberals/sql/"
+  },
+  "audit_decisions": {
+    "wp_indian_liberals_post_type": {
+      "count_in_db": 4,
+      "slugs": ["raja-ram-mohan-roy", "m-r-pai", "a-d-shroff", "s-v-raju"],
+      "what_they_are": "Empty stub pages on the WP site that redirect to existing /content/<thinker-slug>/ pages. Pure WP navigation artefact.",
+      "decision": "DROP. Each of the 4 thinkers is already in our authority file as canonical (a-d-shroff, m-r-pai, s-v-raju, raja-ram-mohan-roy). No content lost.",
+      "see": "data/corpus-inventory/custom_post_types.json"
+    },
+    "wp_print_post_type": {
+      "count_in_db": 3,
+      "slugs": [
+        "state-control-blocks-indias-progress-and-exploits-its-people-c-rajagopalachari",
+        "russian-style-socialism-dominated-nehrus-imagination-it-was-disastrous",
+        "was-indias-public-sector-born-out-of-european-envy"
+      ],
+      "what_they_are": "ThePrint column previews — each just contains a description, byline, and a theprint.in URL. Already covered by our theprint-mirror collection (48 entries) by canonical slug.",
+      "matched_in_theprint_mirror": [
+        "state-control-india-progress-exploitation-c-rajagopalachari (match for Rajaji)",
+        "was-indias-public-sector-born-out-of-european-envy (exact slug match)"
+      ],
+      "decision": "DROP from custom-type extraction. The theprint-mirror collection is the canonical home for ThePrint columns; cross-verify the 'russian-style-socialism' entry exists in the mirror under a different slug or add it.",
+      "see": "data/corpus-inventory/custom_post_types.json"
+    },
+    "static_pages_on_live_site": {
+      "scrape_attempts": 10,
+      "found": 3,
+      "found_urls": [
+        "https://indianliberals.in/about-us/ (Lorem ipsum body — no real content to migrate)",
+        "https://indianliberals.in/contact/ (Lorem ipsum body + canonical contact block: A-69 Hauz Khas, New Delhi 110016 / editor@indianliberals.in / +91-11-26521882)",
+        "https://indianliberals.in/contributors/ (real list of 18 contributors)"
+      ],
+      "decision": "About + Contact pages on the new Astro site are effectively green-field — no legacy prose to preserve. CCS editorial (Arjun + Kumar Anand) needs to write fresh copy. Contributors list can port verbatim. Editorial-policy / partners / how-to-contribute pages don't exist on the live site, so any such page on the new site is a net-new content decision.",
+      "canonical_facts_to_propagate": {
+        "address": "A-69, Hauz Khas, New Delhi 110016",
+        "email": "editor@indianliberals.in",
+        "phone": "+91-11-26521882",
+        "maintainer": "Centre for Civil Society",
+        "funder": "Friedrich Naumann Foundation"
+      },
+      "see": "data/corpus-inventory/static-pages.json"
+    },
+    "polylang_translation_pairs": {
+      "decision": "Out of scope. We are not inheriting Polylang structure. Multilingual support on the new site uses our i18nFields shape (BCP-47 + translation_of + translations map). Existing translation relationships in the WP DB are not being migrated; the LLM extraction pipeline can detect translation_of relationships from PDF metadata where they exist."
+    },
+    "audio_summarization": {
+      "decision": "Out of scope for this engagement. 27 audio files manifested in data/legacy-media.json. Future scope: audio-capable LLM (Gemini 2.5 Pro, GPT-5 audio, etc.) could transcribe + summarise them into interview entries with text bodies. Possible follow-up engagement."
+    },
+    "thinker_biographies": {
+      "decision": "Deferred until corpus extraction completes and the canonical thinker roster is known. Authoring bios now is premature — we don't yet know all the figures the corpus surfaces. Post-extraction editorial work."
+    }
+  },
+  "preflight_verifications": {
+    "rasterization_smoke_test": {
+      "tool": "pypdfium2 v4+ in .venv-extract",
+      "rendered": "944/944",
+      "rule": "When rendering a chunk, detect blank pages (<0.1% non-white in grayscale) and render extra pages to fill the chunk. Cap extra at 1.5x requested.",
+      "see": "data/rasterization-blocklist.json"
+    },
+    "subagent_image_input": {
+      "verified": true,
+      "test_case": "Bengali 4-page Vidyasagar essay (balyo-bibaher-dosh) rendered to JPEGs, dispatched to general-purpose subagent with model: sonnet, returned structured JSON with Bengali script identified correctly",
+      "key_findings": [
+        "Subagent can read N JPEGs via the Read tool (verified up to 4; production uses up to 20)",
+        "Sonnet vision handles Bengali script — validates premise P1 about Indic-language support",
+        "Subagent returns structured JSON in a fenced code block as instructed",
+        "Some PDFs have double-page spreads laid out as single PDF pages (visible in the test case); the LLM handles them but the rasterizer doesn't normalize"
+      ]
+    }
+  }
+}

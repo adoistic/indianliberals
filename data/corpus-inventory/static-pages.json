@@ -1,0 +1,111 @@
+{
+  "_meta": {
+    "scraped_at": "2026-05-17",
+    "purpose": "Static-page content from the live WP site, captured for redesign. NOT a structural template — only the content text matters.",
+    "successful": 3,
+    "total_attempted": 10,
+    "notes": "Only 3 of 10 candidate slugs exist. /about-us/ and /contact/ both ship with Lorem ipsum placeholder copy in the editorial body — the live site never had real About / Contact prose written. Only /contributors/ has actual content. Treat the new Astro About/Contact pages as a green-field write, not a port."
+  },
+  "pages": [
+    {
+      "url": "https://indianliberals.in/about/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    },
+    {
+      "url": "https://indianliberals.in/about-us/",
+      "exists": true,
+      "title": "About Us",
+      "content": "PLACEHOLDER — the live page body is Lorem ipsum, not real editorial copy. Verbatim excerpts of what is currently on the page:\n\nOpening section: \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non mauris egestas diam ultrices hendrerit.\"\n\nFeatured quote block: \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non mauris egestas diam ultrices hendrerit. Curabitur vel massa sem.\"\n\n\"Wikilogy\" section: \"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non mauris egestas diam ultrices hendrerit.\"\n\nThe only real identifying statement that appears anywhere on the page is the site-wide tagline: \"Maintained by the Centre for Civil Society (CCS) and supported by the Friedrich Naumann Foundation for Freedom.\"\n\nIMPLICATION FOR REDESIGN: there is no legacy About prose to preserve. The new Astro About page should be written from scratch (likely by Arjun / Kumar Anand at CCS) and should at minimum cover: what Indian Liberals is, who maintains it (CCS), who funds it (FNF), what kinds of material it archives (periodicals, regional-language literature, opinion, audio/video), and the editorial mission.",
+      "links_found": [
+        "https://www.facebook.com/ccsindia/",
+        "https://www.instagram.com/ccsindia/",
+        "https://www.youtube.com/playlist?list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav",
+        "Friedrich Naumann Foundation for Freedom (attribution, no URL on page)",
+        "Centre for Civil Society / CCS (parent organization)"
+      ]
+    },
+    {
+      "url": "https://indianliberals.in/contact/",
+      "exists": true,
+      "title": "Contact",
+      "content": "Editorial body is essentially empty — a single \"Lorem ipsum dolor sit amet.\" placeholder line followed by a contact form. The substantive content on the page is the contact block itself:\n\nAddress: A-69, Hauz Khas, New Delhi -110 016\nEmail: editor@indianliberals.in\nPhone: +91-11-26521882\n\nFooter attribution on the page: \"Supported by the Friedrich Naumann Foundation for Freedom.\"\n\nIMPLICATION FOR REDESIGN: the contact details (address / email / phone) are the only load-bearing content and should carry over verbatim. Everything else on the contact page can be rebuilt in Astro with a proper short intro and either a mailto or a simple form.",
+      "links_found": [
+        "mailto:editor@indianliberals.in",
+        "tel:+91-11-26521882",
+        "https://www.facebook.com/ccsindia/",
+        "https://www.instagram.com/ccsindia/",
+        "https://www.youtube.com/playlist?list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav",
+        "Friedrich Naumann Foundation for Freedom (attribution)",
+        "Centre for Civil Society (maintainer)"
+      ]
+    },
+    {
+      "url": "https://indianliberals.in/contact-us/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    },
+    {
+      "url": "https://indianliberals.in/editorial-policy/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    },
+    {
+      "url": "https://indianliberals.in/contributors/",
+      "exists": true,
+      "title": "Contributors",
+      "content": "Intro paragraph (verbatim, including the original typo): \"Various individuals and organigations have helped us seeing this project to fruition. Some of them are mentioned below (name in alphabetical order):\"\n\nContributor list (verbatim, alphabetical as on the live page):\n\n- Asantha Sirimanne, Capital Media, Colombo\n- Chandrasekaran Balakrishnan, Chennai\n- J R Jayewardene Centre, Colombo\n- Nupur Hasija, Friedrich Naumann Foundation for Freedom, New Delhi\n- S Divakara, Forum of Free Enterprise, Mumbai\n- Swati Kapadia, Forum of Free Enterprise, Mumbai\n- Bruce Caldwell, Duke University\n- D R Pendse, Centre for Economic Policy Advice, Mumbai\n- Minoo Shroff, A D Shroff Memorial Trust, Mumbai\n- S V Raju, Freedom First, Mumbai\n- Saurabh Modi, Hansraj College, New Delhi\n- Weerakoon Wijewardena, ex-Deputy Governor, Central Bank of Sri Lanka\n- Carol A Leadenham, Hoover Institution Archives, Stanford University\n- G P Manish, Troy University\n- Nanaji G Shewale, Gokhale Institute of Politics and Economics, Pune\n- Rajas Parchure, Gokhale Institute of Politics and Economics, Pune\n- Sunil Bhandare, Tata Strategic Management Group, Mumbai\n- Mohammed Anas Khan, Centre for Civil Society, New Delhi\n\nIMPLICATION FOR REDESIGN: this is the only static page on the legacy site with genuinely portable content. The list is short enough to render as a clean credits page in Astro (alphabetical, with affiliation as a secondary line). The typo \"organigations\" should be silently fixed (\"organisations\"), and the awkward \"seeing this project to fruition\" can be tightened to \"bringing this project to fruition\" — flag to Arjun / Kumar Anand before changing.",
+      "links_found": [
+        "https://www.facebook.com/ccsindia/",
+        "https://www.instagram.com/ccsindia/",
+        "https://www.youtube.com/playlist?list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+      ]
+    },
+    {
+      "url": "https://indianliberals.in/contribute/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    },
+    {
+      "url": "https://indianliberals.in/how-to-contribute/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    },
+    {
+      "url": "https://indianliberals.in/partners/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    },
+    {
+      "url": "https://indianliberals.in/sitemap/",
+      "exists": false,
+      "title": null,
+      "content": null,
+      "links_found": []
+    }
+  ],
+  "canonical_facts": {
+    "maintained_by": "Centre for Civil Society (CCS)",
+    "supported_by": "Friedrich Naumann Foundation for Freedom",
+    "address": "A-69, Hauz Khas, New Delhi -110 016",
+    "email": "editor@indianliberals.in",
+    "phone": "+91-11-26521882",
+    "social": {
+      "facebook": "https://www.facebook.com/ccsindia/",
+      "instagram": "https://www.instagram.com/ccsindia/",
+      "youtube_playlist": "https://www.youtube.com/playlist?list=PLysF1qZYkiGHeL136ATCo7AN2beAQaJav"
+    }
+  }
+}
