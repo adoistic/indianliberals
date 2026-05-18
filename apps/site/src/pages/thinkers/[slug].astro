@@ -40,6 +40,13 @@ function refMatches(ref: { id?: string } | string | undefined, id: string): bool
   return ref.id === id;
 }
 
+// Phase B — given any entry and the thinker we're rendering, find the
+// matching thinker_mentions[] row (or undefined). Used by every section
+// that wants to render evidence/key_passages alongside the entry link.
+function mentionFor(entry: { data: { thinker_mentions?: Array<any> } }, id: string) {
+  return (entry.data.thinker_mentions ?? []).find((m: any) => refMatches(m.thinker, id));
+}
+
 // ─── Author role: works/pieces the thinker WROTE ─────────────────────
 const worksByThisThinker = allWorks
   .filter((w) =>
@@ -87,6 +94,37 @@ const authorshipCount =
 const aboutCount = interviewsAbout.length + opinionsAbout.length;
 const mentionCount =
   opinionMentions.length + musingMentions.length + workMentions.length;
+
+// Phase B — collect every (entry, mention) pair across the three
+// mention-bearing role buckets for the synthesis section. Grouped by
+// role so we can render role-bucketed prose like the parent spec calls
+// for: "Authored N works including X, Y, Z. Referenced in M others
+// including A, B, C."
+type MentionRow = { entry: { collection: string; id: string; data: any }; mention: any };
+
+const subjectMentions: MentionRow[] = (opinionsAbout
+  .map((e) => {
+    const m = mentionFor(e, t.id);
+    return m && m.role === 'subject' ? { entry: e as any, mention: m } : null;
+  })
+  .filter((x) => x !== null) as MentionRow[]);
+
+const allMentionRows: MentionRow[] = ([
+  ...workMentions.map((e) => ({ entry: e as any, mention: mentionFor(e, t.id) })),
+  ...opinionMentions.map((e) => ({ entry: e as any, mention: mentionFor(e, t.id) })),
+  ...musingMentions.map((e) => ({ entry: e as any, mention: mentionFor(e, t.id) })),
+].filter((r) => r.mention !== undefined && r.mention.role === 'mention') as MentionRow[]);
+
+const hasPhaseBData = subjectMentions.length > 0 || allMentionRows.length > 0;
+
+// For the inline "...including X, Y, Z" lists — pick up to 3 representative
+// works by title, preferring the most-quoted (longest evidence list).
+function topByEvidence(rows: MentionRow[], limit = 3): MentionRow[] {
+  return [...rows]
+    .sort((a, b) => (b.mention.evidence?.length ?? 0) - (a.mention.evidence?.length ?? 0))
+    .slice(0, limit);
+}
+const topMentions = topByEvidence(allMentionRows, 3);
 
 const hreflang = hreflangAlternates(
   "thinkers",
@@ -198,6 +236,66 @@ const bioSourceLabel = {
       </aside>
     )}
 
+    {/* ── Phase B: How this thinker is discussed in this archive ───── */}
+    {hasPhaseBData && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+          How {t.data.name.canonical} is discussed in this archive
+        </h2>
+        <div class="text-(--color-fg) text-base leading-relaxed space-y-3">
+          {authorshipCount > 0 && (
+            <p>
+              Authored {authorshipCount} {authorshipCount === 1 ? "work" : "works"} in the archive.
+            </p>
+          )}
+          {subjectMentions.length > 0 && (
+            <p>
+              Subject of {subjectMentions.length} profile {subjectMentions.length === 1 ? "piece" : "pieces"}
+              {" — including "}
+              {subjectMentions.slice(0, 3).map((row, i) => (
+                <Fragment>
+                  {i > 0 && (i === Math.min(subjectMentions.length, 3) - 1 ? ", and " : ", ")}
+                  <a href={`/opinions/${row.entry.id}/`} class="text-(--color-forest-700) no-underline hover:underline">
+                    {row.entry.data.title}
+                  </a>
+                </Fragment>
+              ))}
+              .
+            </p>
+          )}
+          {allMentionRows.length > 0 && (
+            <p>
+              Referenced in {allMentionRows.length} other {allMentionRows.length === 1 ? "work" : "works"}
+              {topMentions.length > 0 && (
+                <Fragment>
+                  {" — including "}
+                  {topMentions.map((row, i) => (
+                    <Fragment>
+                      {i > 0 && (i === topMentions.length - 1 ? ", and " : ", ")}
+                      <a href={`/${row.entry.collection}/${row.entry.id}/`} class="text-(--color-forest-700) no-underline hover:underline">
+                        {row.entry.collection === "primary-works"
+                          ? row.entry.data.title.main
+                          : row.entry.data.title}
+                      </a>
+                    </Fragment>
+                  ))}
+                </Fragment>
+              )}
+              .
+            </p>
+          )}
+          {allMentionRows.slice(0, 5).map((row) => (
+            <p class="text-sm text-(--color-fg-muted) italic pl-3 border-l-2 border-(--color-saffron-200)">
+              <span class="not-italic text-(--color-fg)">In <a href={`/${row.entry.collection}/${row.entry.id}/`} class="text-(--color-forest-700) no-underline hover:underline">
+                {row.entry.collection === "primary-works" ? row.entry.data.title.main : row.entry.data.title}
+              </a>:</span>{" "}
+              {(row.mention.reasoning || "").split(/(?<=\.)\s+/)[0]}
+            </p>
+          ))}
+        </div>
+      </section>
+    )}
+
     {/* ── Section 1: Works BY this thinker ────────────────────────── */}
     {authorshipCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
@@ -301,13 +399,27 @@ const bioSourceLabel = {
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Profile pieces ({opinionsAbout.length})</h3>
               <ul class="space-y-2">
-                {opinionsAbout.map((o) => (
-                  <li>
-                    <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {o.data.title}
-                    </a>
-                  </li>
-                ))}
+                {opinionsAbout.map((o) => {
+                  const tm = mentionFor(o, t.id);
+                  const passages = (tm?.role === 'subject' ? tm.key_passages ?? [] : []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {o.data.title}
+                      </a>
+                      {passages.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {passages.map((kp: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{kp.quote}"
+                              {kp.what_it_shows && <span class="not-italic text-(--color-fg-muted) ml-1">— {kp.what_it_shows}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           )}
@@ -326,14 +438,28 @@ const bioSourceLabel = {
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Primary works ({workMentions.length})</h3>
               <ul class="space-y-2">
-                {workMentions.slice(0, 15).map((w) => (
-                  <li>
-                    <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {w.data.title.main}
-                      <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
-                    </a>
-                  </li>
-                ))}
+                {workMentions.slice(0, 15).map((w) => {
+                  const tm = mentionFor(w, t.id);
+                  const quotes = (tm?.evidence ?? []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {w.data.title.main}
+                        <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
+                      </a>
+                      {quotes.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {quotes.map((ev: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{ev.quote}"
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
                 {workMentions.length > 15 && (
                   <li class="text-sm text-(--color-fg-muted)">…and {workMentions.length - 15} more</li>
                 )}
@@ -344,13 +470,27 @@ const bioSourceLabel = {
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionMentions.length})</h3>
               <ul class="space-y-2">
-                {opinionMentions.slice(0, 10).map((o) => (
-                  <li>
-                    <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {o.data.title}
-                    </a>
-                  </li>
-                ))}
+                {opinionMentions.slice(0, 10).map((o) => {
+                  const tm = mentionFor(o, t.id);
+                  const quotes = (tm?.evidence ?? []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {o.data.title}
+                      </a>
+                      {quotes.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {quotes.map((ev: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{ev.quote}"
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           )}
@@ -358,22 +498,31 @@ const bioSourceLabel = {
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Excerpts ({musingMentions.length})</h3>
               <ul class="space-y-2">
-                {musingMentions.slice(0, 10).map((m) => (
-                  <li>
-                    <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {m.data.title}
-                    </a>
-                  </li>
-                ))}
+                {musingMentions.slice(0, 10).map((m) => {
+                  const tm = mentionFor(m, t.id);
+                  const quotes = (tm?.evidence ?? []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {m.data.title}
+                      </a>
+                      {quotes.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {quotes.map((ev: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{ev.quote}"
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           )}
         </div>
-        <p class="mt-4 text-xs text-(--color-fg-muted) italic">
-          Primary-work mentions are extracted from the AI-summary cross-thinker
-          index. In-prose mentions inside opinions, musings, interviews, and
-          ThePrint articles are queued for the Phase B body-NER pass.
-        </p>
       </section>
     )}
 
