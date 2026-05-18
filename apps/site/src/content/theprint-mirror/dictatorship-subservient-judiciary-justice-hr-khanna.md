@@ -5,11 +5,33 @@ pubDate: 2025-11-02T12:07:53
 author_name: "Hans Raj Khanna"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/dictatorship-subservient-judiciary-justice-hr-khanna/2775553/"
 themes: ["freedom-of-speech", "indian-judiciary", "indian-liberals-matter", "justice-h-r-khanna"]
-related_thinkers: ["hans-raj-khanna"]
+related_thinkers: 
+  - a-d-shroff
+  - hans-raj-khanna
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: hans-raj-khanna
+    role: subject
+    reasoning: "The article is Justice HR Khanna's lecture on the relationship between free enterprise, freedom, and judicial independence, delivered as an AD Shroff Memorial Lecture."
+    evidence: []
+    key_passages:
+      - quote: "Free enterprise, in the words of A. D. Shroff, \"was born with man and shall survive as long as man survives\"."
+        what_it_shows: "opens with Shroff's foundational maxim, situating Khanna's lecture in the Shroff tradition"
+      - quote: Nothing suits dictatorship more than a subservient judiciary willing to carry out its behest.
+        what_it_shows: "Khanna's central thesis on the relationship between judicial independence and liberty"
+      - quote: "all lovers of freedom have also espoused the cause of a strong and independent judiciary, of having persons on the Judge's seat who would not falter or swerve from the ideal of administering justice without fear or favour"
+        what_it_shows: "Khanna's argument for judicial independence as the guarantee of freedom"
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "A.D. Shroff's maxim on free enterprise is quoted at the opening of Khanna's lecture, establishing the Shroff Memorial Lecture context and Shroff's intellectual legacy."
+    evidence:
+      - quote: "Free enterprise, in the words of A. D. Shroff, \"was born with man and shall survive as long as man survives\"."
+        context: "Shroff's maxim cited as the opening anchor of Khanna's lecture delivered under the AD Shroff Memorial Lecture series"
+    key_passages: []
 
 ---
 

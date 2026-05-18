@@ -7,6 +7,18 @@ language: "en"
 needs_review: true
 draft: false
 author: "ashok-desai"
+thinker_mentions:
+  - thinker: jagdish-bhagwati
+    role: mention
+    reasoning: "Desai credits Bhagwati and Srinivasan with coining the concept of 'liberalisation episodes' to describe India's pre-1991 piecemeal deregulation, using it as a foil to argue that economic liberalisation without liberal philosophy is insufficient."
+    evidence:
+      - quote: The bouts of relaxation of controls were termed liberalisation episodes by Bhagwati and Srinivasan, and so they were in a sense.
+        context: "Desai invokes Bhagwati's analytic framework to distinguish pragmatic deregulation from principled liberalism"
+    key_passages: []
+related_thinkers: 
+  - jagdish-bhagwati
+
+
 ---
 
 _An essay titled “Liberalisation and Liberalism in India”, written by popular economic journalist Ashok Desai, appeared in the Liberal Times magazine in 1995._

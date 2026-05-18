@@ -8,6 +8,61 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: Masani is identified as the intellectual leader of the Swatantra Party who espoused a classic liberal agenda, and his role in coalition-building and ideological framing is discussed in detail.
+    evidence:
+      - quote: under the intellectual leadership of Minoo Masani, the party espoused a classic liberal agenda.
+        context: "credits Masani as the party's ideological anchor"
+      - quote: Masani by then had adopted a classical liberal worldview with all its emphasis on individualism, free market, strong civil society, and a limited state.
+        context: describes the mature liberal philosophy Masani brought to Swatantra
+      - quote: He would cite the likes of Milton Friedman and Friedrich Hayek in his writings.
+        context: "identifies Masani's intellectual authorities in economics"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji is discussed as the Swatantra Party's public figurehead and a conservative intellectual who co-led the coalition alongside Masani, with a distinct Hindu cultural worldview."
+    evidence:
+      - quote: Rajaji was a veteran Gandhi disciple turned dissident Congressman who had earlier served as the Chief Minister of Madras and the Home Minister of India.
+        context: "establishes Rajaji's political credentials as Swatantra's senior figurehead"
+    key_passages: []
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Hayek is cited as one of the intellectual authorities Masani drew on for the Swatantra's economic liberalism."
+    evidence:
+      - quote: He would cite the likes of Milton Friedman and Friedrich Hayek in his writings.
+        context: "identifies Hayek as one of Masani's cited intellectual sources for market liberalism"
+    key_passages: []
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: B.R. Shenoy is mentioned as an economist who advised Masani on economic matters and with whom Masani maintained a close intellectual relationship.
+    evidence:
+      - quote: in the Indian context, he was close to the economist B R Shenoy and would receive his advice on economic matters.
+        context: "identifies Shenoy as Masani's key economic adviser in the Swatantra era"
+    key_passages: []
+  - thinker: homi-mody
+    role: mention
+    reasoning: Homi Mody is listed as one of the core Swatantra leadership group, identified as a leading voice of the Bombay business community.
+    evidence:
+      - quote: Homi Mody was a leading voice of the Bombay business community with significant experience of local self-governance in the Bombay municipality.
+        context: "characterises Homi Mody's role as the business establishment representative in Swatantra's inner circle"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's socialist policies and Congress hegemony are identified as the structural opposition against which the Swatantra Party was formed."
+    evidence:
+      - quote: "What enabled this coalition of disparate groups was the Nehruvian Congress' grip over political power which effectively turned India into one-party democracy and a radical left drift in economic policy."
+        context: "identifies Nehru's policy agenda as the direct catalyst for the Swatantra coalition"
+    key_passages: []
+related_thinkers: 
+  - b-r-shenoy
+  - c-rajagopalachari
+  - friedrich-hayek
+  - homi-mody
+  - jawaharlal-nehru
+  - minoo-masani
+
 ---
 
 _What enabled this coalition of disparate groups was the Nehruvian Congress’ grip over political power which effectively turned India into one-party democracy and a radical left drift in economic policy_The[recent](https://theprint.in/opinion/when-maharajas-business-tycoons-and-peasant-leaders-joined-the-mundu-clad-rajaji-to-form-the-swatantra-party/33246/)[revival](https://spontaneousorder.in/why-we-need-a-swatantra-party-in-present-day-india/) of the Swatantra Party in the [public](https://theprint.in/opinion/60-years-ago-a-right-liberal-swatantra-party-had-challenged-nehrus-socialist-raj/246715/) [discourse](https://www.livemint.com/opinion/columns/opinion-the-contemporary-relevance-of-swatantra-party-s-liberal-view-1559032923329.html) has mostly been focused on its [economic](https://magazine.outlookindia.com/story/a-case-for-swatantra/291551) [liberalism](https://spontaneousorder.in/rajaji-relevance-to-todays-politics-of-the-right/) [agenda](https://twitter.com/ShashiTharoor/status/1135875167542865923?s=20). The underlying driving factor, of course, is the Indian market liberals’ search for the [Indian roots](http://indianliberals.in/) of liberalism. Also reflected in the Indian neoliberal writings on the Swatantra is a wishful tendency to see a [viable political home](https://www.youtube.com/watch?v=nvGTl2JCNFo&t=4s&ab_channel=CentreforCivilSociety) in the Swatantra party, if only it had managed to survive the Indira onslaught in the early 1970s. Of course, the Swatantra’s economic and foreign policy positions have been[vindicated](https://books.google.co.in/books?id=Kkyom-cQNecC&lpg=PA446&vq=swatantra%20party&pg=PA436#v=snippet&q=swatantra%20party&f=false/) and in that sense, the party could claim victory, if only posthumously. Also, in contrast to the earlier[dismissive attitude](https://theprint.in/opinion/when-maharajas-business-tycoons-and-peasant-leaders-joined-the-mundu-clad-rajaji-to-form-the-swatantra-party/33246/) towards the Swatantra policy as a mere pro-business agenda, recent writings have brought more nuance to the debate about [economic](https://spontaneousorder.in/not-a-rich-peoples-lobby/) and even [foreign policy](https://theprint.in/opinion/swatantra-party-had-a-lot-to-say-on-china-after-1962-if-only-nehru-had-heard-them/465578/) elements of the Swatantra vision. However, what has been absent in the current discourse about the Swatantra is its interest/identity aggregation function.

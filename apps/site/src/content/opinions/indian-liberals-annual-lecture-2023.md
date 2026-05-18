@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: gurcharan-das
+    role: mention
+    reasoning: "Gurcharan Das is announced as the speaker for the 2023 Indian Liberals Annual Lecture on 'The Dilemma of an Indian Liberal', making him the sole named thinker featured in this event announcement."
+    evidence:
+      - quote: "Mr. Gurcharan Das, noted author, commentator, and public intellectual, would deliver the Indian Liberals Annual Lecture 2023 on \"The Dilemma of an Indian Liberal.\""
+        context: announcement of Das as the 2023 lecturer, identifying him as the featured intellectual voice
+    key_passages: []
+related_thinkers: 
+  - gurcharan-das
+
 ---
 
 **"The Dilemma of an Indian Liberal"**

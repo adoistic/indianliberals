@@ -18,7 +18,12 @@ contributors:
   - role: author
     thinker: s-m-dahanukar
     toc_index: 3
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - b-r-shenoy
+  - nani-palkhivala
+  - peter-bauer
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +58,36 @@ missing_metadata_flags:
   - no_formal_toc_page
   - year_not_printed_on_visible_pages
   - colophon_not_seen_in_chunk
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The FFE introduction cites Shroff as the lead voice in the Forum's post-1956 campaign against Soviet-style centralised planning, whose warnings about inflation, foreign-exchange crises and food shortages are presented as vindicated by the record."
+    evidence:
+      - quote: citing inflation, foreign exchange crises, food shortages and industrial recession as vindication of warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
+        context: FFE introduction; Shroff heads the list of Forum thinkers whose earlier warnings the current situation confirms
+    key_passages: []
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: Shenoy is cited alongside Shroff and Palkhivala as one of the Forum intellectuals whose earlier warnings against Soviet-style planning are presented as validated by fifteen years of planning failure.
+    evidence:
+      - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
+        context: "FFE introduction; Shenoy's forecasts are grouped with the other Forum economists whose dissent the current crisis vindicates"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: Palkhivala is named among the Forum intellectuals whose warnings against centralised planning are cited as vindicated by fifteen years of Indian economic failure.
+    evidence:
+      - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
+        context: "FFE introduction; Palkhivala's forecasts are grouped with other Forum dissidents whose analysis the planning record has borne out"
+    key_passages: []
+  - thinker: peter-bauer
+    role: mention
+    reasoning: "Peter Bauer is listed among the Forum-associated economists whose earlier critiques of Soviet-style planning are invoked as vindicated by India's food shortages, inflation and foreign-exchange crises."
+    evidence:
+      - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
+        context: "FFE introduction; Bauer's dissent is grouped with other Forum economists whose positions the current crisis confirms"
+    key_passages: []
+
 ---
 
 # Approach to the Fourth Five-Year Plan

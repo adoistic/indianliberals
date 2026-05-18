@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: Lincoln is quoted for his definition of democracy — government of, by, and for the people — used by Masani to argue that only a truly representative government can be trusted to implement a national economic plan.
+    evidence:
+      - quote: Abraham Lincoln described it as government of the people, by the people and for the people. This is the only kind of government which can be trusted with a Plan of this kind.
+        context: "Lincoln's definition is invoked as the standard a democratic government must meet before it can legitimately plan the economy"
+    key_passages: []
+related_thinkers: 
+  - abraham-lincoln
+
 ---
 
 _The following piece on 'Planning' is taken from Minoo Masani at 90 published by Freedom First in 1995. This article written by Minoo Masani in 1945 takes the reader through various viewpoints on Central Planning and the role of the state. You can read the original article [here.](https://indianliberals.in/liberals/minoo-masani-at-90-freedom-first-1995.pdf)_

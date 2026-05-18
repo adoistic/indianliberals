@@ -8,10 +8,10 @@ authors:
   - y-k-hamied
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - i-k-gujral
   - indira-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +44,22 @@ physical:
 missing_metadata_flags:
   - no_formal_toc_page
   - theme_vocabulary_not_provided
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Hamied quotes a 1981 WHO statement attributed to Indira Gandhi — that medical discoveries should be free of patents and free of profiteering — as the moral horizon grounding India's pharmaceutical access mission."
+    evidence:
+      - quote: Hamied quotes a 1981 WHO statement attributed to Indira Gandhi — that medical discoveries should be free of patents and free of profiteering on life or death
+        context: "closing section; Gandhi's statement is invoked as the normative touchstone for Hamied's access-to-medicines argument"
+    key_passages: []
+  - thinker: i-k-gujral
+    role: mention
+    reasoning: "The I. K. Gujral Parliamentary Committee's 1993 verdict that the process-patent regime should be maintained is cited by Hamied as authoritative legislative backing for resisting product-patent expansion."
+    evidence:
+      - quote: "the I. K. Gujral Parliamentary Committee's 1993 verdict that the process-patent regime should be maintained and a 20-year term should not be conceded"
+        context: "legal-history section; Gujral's committee is invoked as parliamentary authority for keeping medicines affordable"
+    key_passages: []
+
 ---
 
 # Access to Medicines at Affordable Prices

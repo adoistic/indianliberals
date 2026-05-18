@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Nehru is referenced as an interpreter of the Cold War as a conflict between two strong forms of nationalism, used in the editorial introduction to frame the ideological stakes of the article.
+    evidence:
+      - quote: conflict between two strong versions of nationalism (Jawaharlal Nehru).
+        context: "Nehru's interpretation of the Cold War cited as an alternative framing to the dominant liberal-vs-communist explanation"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 The hub of the matter is that while Russia accepted an agenda for the Geneva talks which includes references to human rights and "better conditions for increased cultural and educational exchanges, for broader dissemination of information, for contacts between people, and for the solution of humanitarian problems," on the other hand it has insisted that co-operation should be "carried out on the basis of respect for the sovereignty, laws and customs of each country," a euphemism for its totalitarian system.

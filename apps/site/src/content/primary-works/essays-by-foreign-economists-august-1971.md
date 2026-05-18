@@ -47,7 +47,13 @@ contributors:
   - role: author
     thinker: eugene-black
     toc_index: 12
-related_thinkers: []
+related_thinkers: 
+  - colin-clark
+  - eugene-black
+  - friedrich-hayek
+  - peter-bauer
+  - w-h-hutt
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -79,6 +85,43 @@ physical:
   format: Hardbound compilation volume; copyright vests with respective authors; not for sale, for use of Forum members only.
 missing_metadata_flags:
   - editor_not_named
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "F. A. Hayek is listed in the table of contents as one of the volume's contributors, with an essay on the conditions for free enterprise included in the compilation."
+    evidence:
+      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
+        context: "Hayek listed as a contributor alongside Friedman and Bauer in the Forum's flagship compilation"
+    key_passages: []
+  - thinker: colin-clark
+    role: mention
+    reasoning: Colin Clark contributes two essays to the volume, listed in the table of contents, establishing his presence as a major contributor to this Forum of Free Enterprise compilation.
+    evidence:
+      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
+        context: "Clark named as a double contributor to the Forum's collection of foreign economists"
+    key_passages: []
+  - thinker: peter-bauer
+    role: mention
+    reasoning: Peter Bauer contributes three essays to the volume, the largest single contribution by any author in the table of contents, establishing him as a central figure in this Forum of Free Enterprise compilation.
+    evidence:
+      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
+        context: "Bauer named as the most prolific contributor to the Forum's compiled collection of foreign economists"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black is listed as a contributor in the table of contents of the Forum's flagship compilation of foreign economists."
+    evidence:
+      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
+        context: "Black listed as a contributor to the Forum's compilation of foreign economists"
+    key_passages: []
+  - thinker: w-h-hutt
+    role: mention
+    reasoning: "W. H. Hutt is listed in the table of contents as one of the volume's contributors, establishing his presence in this Forum of Free Enterprise compilation of foreign economists."
+    evidence:
+      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
+        context: "Hutt named as a contributor in the Forum's compilation"
+    key_passages: []
+
 ---
 
 # Essays by Foreign Economists

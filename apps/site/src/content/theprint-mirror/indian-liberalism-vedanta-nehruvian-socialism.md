@@ -5,11 +5,99 @@ pubDate: 2025-08-30T14:48:42
 author_name: "Sharad Joshi"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-liberalism-vedanta-nehruvian-socialism/2732308/"
 themes: ["indian-liberals-matter", "liberalism", "nehruvian-india", "socialism", "statism"]
-related_thinkers: ["sharad-joshi"]
+related_thinkers: 
+  - adam-smith
+  - dadabhai-naoroji
+  - gopal-ganesh-agarkar
+  - gopal-krishna-gokhale
+  - jawaharlal-nehru
+  - john-stuart-mill
+  - jyotirao-phule
+  - mahatma-gandhi
+  - raja-ram-mohan-roy
+  - rajaji
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: Mill is named as one of the Western intellectual ancestors to whom Indian liberal writers trace the origins of liberalism, a lineage Joshi critiques as creating the false impression that liberalism is alien to India.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: "listed among Western liberals invoked by Indian liberal writers, framing the essay's argument about liberalism's deeper indigenous roots"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: Adam Smith is paired with J. S. Mill as a Western liberal ancestor cited by Indian liberal writers, which Joshi argues has contributed to the mistaken perception of liberalism as an alien import.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: cited alongside Mill as the Western intellectual reference point for Indian liberal thought
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Naoroji is named as one of the grand masters of Indian liberalism who flourished briefly under early British rule and was later swept aside by nationalist-chauvinist and socialist forces.
+    evidence:
+      - quote: they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: part of the lineage of Indian liberal masters whose eclipse the essay laments
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: Gokhale is named among the grand masters of Indian liberalism who occupied the centre stage briefly in the early British period before being eclipsed by nationalist and socialist forces.
+    evidence:
+      - quote: they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: "one of the canonical Indian liberal masters cited in the essay's intellectual genealogy"
+    key_passages: []
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: Ram Mohan Roy is listed among the founders of the Indian liberal tradition whom Joshi situates within the brief window of liberal ascendancy in the early British period.
+    evidence:
+      - quote: they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: part of the genealogy of Indian liberal masters identified with the early reform era
+    key_passages: []
+  - thinker: jyotirao-phule
+    role: mention
+    reasoning: Phule is listed as one of the great masters of Indian liberalism in the early British period, representing the reformist current that was later marginalised by nationalist and socialist forces.
+    evidence:
+      - quote: they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: included in the canonical liberal lineage the essay traces and then critiques for projecting liberalism as Western
+    key_passages: []
+  - thinker: gopal-ganesh-agarkar
+    role: mention
+    reasoning: Agarkar is named among the masters of Indian liberalism whose brief flourishing in the early British period was eclipsed by chauvinist and socialist forces.
+    evidence:
+      - quote: they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
+        context: one of the canonical Indian reformers listed in the liberal genealogy
+    key_passages: []
+  - thinker: rajaji
+    role: mention
+    reasoning: "Rajaji is invoked twice: once for his Gujarati proverb on the pauperising effect of state commerce, and again as the founder of the Swatantra Party who correctly foresaw the disaster of Nehru's licence raj."
+    evidence:
+      - quote: "Rajaji was fond of quoting a Gujarati proverb meaning, \"Where the King is trader, his subjects are paupers.\""
+        context: cited to illustrate the ancient Indian liberal insight about state overreach in commerce
+      - quote: "Rajaji who had a very high standing among the followers of Gandhi and who became the first Indian Governor-General of Independent India, had correctly foreseen the disaster that Nehru's license-permit-inspector Raj would produce. He founded the first liberal political party in India, the 'Swatantra Party'."
+        context: identified as the prescient founder of organised Indian liberalism
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Gandhi is discussed extensively as representing a platform close to anarchism and minimal government, whose acceptance of some nationalisation was a reluctant compromise but whose essential vision aligned with decentralised, non-statist governance.
+    evidence:
+      - quote: Gandhi represented a platform much truer to Hindu thought, upholding at the same time ecumenism — the identity of all faiths.
+        context: "situates Gandhi within the essay's liberal-anarchist tradition"
+      - quote: Gandhism essentially stood for minimal and decenatralised government.
+        context: "Joshi's summative characterisation of Gandhi's political philosophy as compatible with liberal anti-statism"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's socialist model is identified as the cause of India's liberal eclipse, with the Nehruvian edifice characterised as crony-capitalism under the guise of planning."
+    evidence:
+      - quote: The defunct Nehruvian socialism is being replaced not by the vibrant forces of liberal entrepreneurship but by lumpen chauvinistic and communal jingoism.
+        context: diagnoses the post-Nehru vacuum as captured by forces hostile to liberalism
+      - quote: The Nehruvian socialist edifice had begun to crumble.
+        context: marks the historical moment when the liberal critique gains relevance
+    key_passages: []
 
 ---
 

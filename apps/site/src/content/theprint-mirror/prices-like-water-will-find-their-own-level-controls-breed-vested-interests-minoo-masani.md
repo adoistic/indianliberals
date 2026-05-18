@@ -5,11 +5,29 @@ pubDate: 2025-06-28T10:00:18
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/prices-like-water-will-find-their-own-level-controls-breed-vested-interests-minoo-masani/2670255/"
 themes: ["indian-liberals-matter", "minoo-masani"]
-related_thinkers: ["minoo-masani"]
+related_thinkers: 
+  - l-k-jha
+  - mahatma-gandhi
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: l-k-jha
+    role: mention
+    reasoning: "L. K. Jha's failed committee on price controls is cited to show that no level of governmental committee can defeat the laws of supply and demand."
+    evidence:
+      - quote: Two days ago, I read that the L.K. Jha Committee having failed to stop the rise in prices, the matter will now be referred to a committee at a higher level of Cabinet Ministers
+        context: "Jha's committee failure illustrates Masani's argument that controls cannot substitute for sound economics"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's advocacy for decontrol is invoked as evidence that even the Congress's own founding father recognised the futility and danger of economic controls."
+    evidence:
+      - quote: it needs a very stout heart and great guts, like the late Mr Kidwai, to scrap the whole lot and go back from control to decontrol as Mahatma Gandhi advised.
+        context: "Gandhi's own counsel for decontrol is deployed as the moral authority the Congress government is now ignoring"
+    key_passages: []
 
 ---
 

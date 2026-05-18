@@ -8,12 +8,12 @@ authors:
   - b-rama-rau
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - c-rajagopalachari
   - jayaprakash-narayan
-  - jawaharlal-nehru
-  - ludwig-erhard
   - karl-marx
+  - ludwig-erhard
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +49,36 @@ physical:
   format: Pamphlet / booklet (FFE)
 missing_metadata_flags:
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajagopalachari's announcement of a new independent democratic party is the principal political event that occasions Rama Rau's lecture; Rajaji is positioned as the potential leader of the principled opposition Rama Rau advocates."
+    evidence:
+      - quote: "he welcomes Rajagopalachari's announcement of a new independent democratic party (with Jayaprakash Narayan's qualified blessing and Nehru's recognition that constructive criticism would serve Congress)"
+        context: "Rajagopalachari's announcement frames Rama Rau's call for a credible democratic opposition"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan's qualified blessing for Rajagopalachari's new party is cited to show that the opposition initiative had broad cross-spectrum support beyond the liberal right."
+    evidence:
+      - quote: "Jayaprakash Narayan's qualified blessing and Nehru's recognition that constructive criticism would serve Congress"
+        context: Narayan cited as cross-ideological endorser of the new opposition party
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Rama Rau invokes Marx's critique of capitalism to argue that the version of capitalism Marx attacked no longer exists in mature democracies, where Welfare States have addressed capitalism's historic faults without revolution."
+    evidence:
+      - quote: The capitalism Karl Marx attacked, on his reading, no longer exists in the older democracies; socialism has receded to the background.
+        context: "Rama Rau uses Marx's historical critique to defuse contemporary socialist arguments"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Erhard's West Germany is invoked as proof that a Welfare State can be built on capitalist foundations, directly countering the Indian Congress argument that socialism is required to achieve social welfare goals."
+    evidence:
+      - quote: "the Beveridge-style Welfare State that Congress invokes has, in fact, been substantially built in Britain, the United States, and Erhard's West Germany 'without any departure from' capitalist and individualistic foundations"
+        context: "Erhard's model used to rebut the socialist premise underlying the Avadi resolution"
+    key_passages: []
+
 ---
 
 # ENLIST CO-OPERATION OF PRIVATE ENTERPRISE

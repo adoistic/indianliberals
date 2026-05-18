@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: nikita-khrushchev
+    role: mention
+    reasoning: "Khrushchev's de-Stalinisation speech at the 20th Party Congress is the central event the essay analyses, with Khrushchev's own simultaneous advocacy of 'peaceful co-existence' examined as an incomplete break from Stalinist logic."
+    evidence:
+      - quote: "Nikita Khrushchev's denouncement of Stalin and his criminal rule at the 20th Congress of the Communist Party in 1956 remains an important milestone in the history of the now-discarded project."
+        context: "Khrushchev's 1956 speech is the historical pivot around which the entire argument about the limits of de-Stalinisation revolves"
+    key_passages: []
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: Stalin is the central subject of analysis throughout the piece; his totalitarian rule, criminal methods, and the historical legacy of Stalinism are examined to argue that de-Stalinisation cannot succeed without confronting Marxism-Leninism itself.
+    evidence:
+      - quote: "Nikita Khrushchev's denouncement of Stalin and his criminal rule at the 20th Congress of the Communist Party in 1956 remains an important milestone in the history of the now-discarded project."
+        context: "Stalin's criminal rule is the starting point for the essay's analysis of whether de-Stalinisation is possible within the Communist framework"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx's prescription of violent class struggle is identified as the root cause from which Stalinist totalitarianism logically followed, making any de-Stalinisation that doesn't confront Marx incomplete."
+    evidence:
+      - quote: "Marx's advocacy of violent class struggle translated into the Bolshevik revolution to the dictatorship of the single party in the name of the proletariat."
+        context: "Marx's theory is traced as the origin point of a causal chain leading inevitably to Stalinist dictatorship"
+    key_passages: []
+related_thinkers: 
+  - joseph-stalin
+  - karl-marx
+  - nikita-khrushchev
+
 ---
 
 'As a mighty tree with deep roots does not fear any storm so that the new socialist world does not fear any adversary or shock.' It is obvious that the "socialist" world is no longer a mighty tree ( if ever it was ) with deep roots and it has to contend with its own problems as much as with the external ones.

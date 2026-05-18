@@ -12,11 +12,11 @@ contributors:
     toc_index: 1
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - adam-smith
   - mahatma-gandhi
-  - azim-premji
+  - minoo-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -50,6 +50,29 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - author_not_in_authority
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: Aga invokes Adam Smith as a founding authority for the compatibility of ethics and commerce, specifically citing his Theory of Moral Sentiments alongside The Wealth of Nations to argue that CSR is not in tension with classical economics.
+    evidence:
+      - quote: "She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined"
+        context: Smith cited to give the CSR case classical-liberal intellectual authority
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's trusteeship model is cited alongside Adam Smith as twin pillars of Aga's argument that CSR is grounded in both Western liberal economics and Indian ethical tradition."
+    evidence:
+      - quote: "She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined"
+        context: "Gandhi's trusteeship doctrine positioned as the Indian parallel to Smith's moral philosophy"
+    key_passages: []
+  - thinker: minoo-shroff
+    role: mention
+    reasoning: Minoo R. Shroff introduces the lecture, his presence as Forum of Free Enterprise president giving the CSR address its institutional framing within the liberal economic tradition.
+    evidence:
+      - quote: "The booklet's rendered pages cover the introduction by Minoo R. Shroff and Aga's address through the 'Government' section"
+        context: "Shroff named as the introducer who frames the lecture within the Forum's programme"
+    key_passages: []
+
 ---
 
 # Embracing Corporate Social Responsibility

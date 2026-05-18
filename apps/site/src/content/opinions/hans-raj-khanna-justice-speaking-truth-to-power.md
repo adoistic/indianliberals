@@ -9,6 +9,28 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "hans-raj-khanna"
+thinker_mentions:
+  - thinker: hans-raj-khanna
+    role: subject
+    reasoning: The essay is a full-length profile of Justice H.R. Khanna focusing on his landmark dissent in the Habeas Corpus case during the Emergency, his commitment to natural rights theory, and the personal cost of that dissent.
+    evidence: []
+    key_passages:
+      - quote: Hans Raj Khanna was born in 1912, in Amritsar, Punjab
+        what_it_shows: establishes biographical foundation of his origins and legal formation
+      - quote: Justice H. R. Khanna was the lone dissenting voice to this opinion
+        what_it_shows: captures the defining act of his career — standing alone against four senior judges in the Habeas Corpus case
+      - quote: A dissent in a court of last resort to use his words, is an appeal to the brooding spirit of the law to the intelligence of a future day
+        what_it_shows: "Khanna's own articulation of why dissent matters, even when isolated and professionally costly"
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's Emergency and the Janata Party's offer to Khanna to head the inquiry commission against it are the political context of Khanna's later career, with his refusal of the commission role demonstrating his principled impartiality."
+    evidence:
+      - quote: once Former Prime Minister Mrs. Indira Gandhi lost the election of 1977, the newly victorious Janata Party offered him the position of the Head of the Commission of Inquiry against the illegal imposition of the Emergency
+        context: "Indira Gandhi's Emergency as the context for the Janata Party's offer, which Khanna declined to preserve his impartiality"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+
 ---
 
 _“The smallest minority on earth is the individual. Those who deny individual rights cannot claim to be defenders of minorities.”  ― Ayn Rand_“What is the cost of one’s voice – one man’s dissent?” – The life of Hans Raj Khanna depicts utmost courage and the hefty price paid for such courage. 

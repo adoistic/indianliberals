@@ -7,6 +7,41 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
+thinker_mentions:
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "Shenoy writes in explicit support of JRD Tata's alarm at a 1975 seminar about the extinction of private enterprise, quoting Tata's warning and crediting him as the industrialist whose empirical observations the theoretical essay vindicates."
+    evidence:
+      - quote: "'schizophrenic policies', as Mr Tata aptly describes them"
+        context: "Shenoy endorses Tata's characterisation of India's policy incoherence"
+    key_passages: []
+  - thinker: p-n-haksar
+    role: mention
+    reasoning: "Shenoy cites Haksar's rebuttal to Tata at a Federation of Indian Chambers meeting as the establishment's defensive response to Tata's warning, characterising it as an evasive counter-argument to Shenoy's own case for free enterprise."
+    evidence:
+      - quote: P N Haksar, deputy Chairman, Planning Commission, reacted to these home truths in extraordinarily strong terms.
+        context: Haksar is the Planning Commission voice whose counter-argument Shenoy systematically dismantles
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Shenoy invokes JP Narayan as the hypothetical Gandhian head of government to argue that even a government of moral ascetics could not fix India's structural economic problems without a thorough policy overhaul."
+    evidence:
+      - quote: "even a hypothetical government of Gandhian ascetics - with J.P. Narayan or Vinoba Bhave as prime minister - could make no significant difference to these developments under the prevailing 'schizophrenic policies'"
+        context: "Shenoy's argument that the problem is structural, not a matter of leadership character"
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Bhave is paired with JP Narayan as the archetype of Gandhian moral leadership whose virtues Shenoy concedes are real but insufficient to remedy India's fundamental policy failure without systemic restructuring."
+    evidence:
+      - quote: "even a hypothetical government of Gandhian ascetics - with J.P. Narayan or Vinoba Bhave as prime minister - could make no significant difference to these developments under the prevailing 'schizophrenic policies'"
+        context: "Both Narayan and Bhave illustrate Shenoy's structural-not-moral diagnosis of India's economic problems"
+    key_passages: []
+related_thinkers: 
+  - jayaprakash-narayan
+  - jrd-tata
+  - p-n-haksar
+  - vinoba-bhave
+
 ---
 
 _Produced below is an excerpt from 'Economic Prophecies' – a collection of BR Shenoy's theoretical writings dating from 1932 to 1953. __The featured article 'Free Enterprise in Danger' was written by Shenoy in support of statements made by industrialist JRD Tata at a seminar in 1975, sounding a warning about the impending extinction of the private sector._

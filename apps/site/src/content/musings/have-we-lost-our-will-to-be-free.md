@@ -6,6 +6,17 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Rajagopalachari invokes Gandhi's concept of 'slave mentality' to diagnose the post-independence failure to cherish genuine freedom, arguing that Gandhi's fight against it produced only anti-Britishism rather than a true love of liberty."
+    evidence:
+      - quote: Gandhiji used to call it slave mentality. He fought hard to eliminate it. But the reaction was just anti-Britishism, not, as we now regretfully realize, the positive love of freedom
+        context: "Gandhi's slave-mentality diagnosis is turned by Rajagopalachari into a critique of the independence movement's incomplete liberation"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 _C Rajagopalachari’s “Have We Lost Our Will To Be Free,” written in 1965, speaks about the difference between freedom from British rule and freedom in its true sense. He suggests that the people should be free from the excessive control by a State-Socialist Economy and should not succumb to a slave mentality. This essay was published in ‘Souvenir’ at the Swatantra Party’s Sixth National Convention in 1973 after he passed away._

@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: hriday-nath-kunzru
+    role: mention
+    reasoning: "Kunzru is quoted at length for his parliamentary argument against the constitutional amendment enabling state monopolies, providing the intellectual core of the essay's critique of state-monopoly overreach."
+    evidence:
+      - quote: "One was Pandit Hridayanath Kunzru. Pandit Kunzru argued that contrary to the Law Minister's view that the Allahabad judgment necessitated the amendment to Article 19(6), there was no need for such an amendment at all on this particular ground."
+        context: Kunzru introduced as the parliamentary voice who challenged the constitutional case for state monopoly powers
+      - quote: Pandit Kunzru went on to refer to the more serious implications of the amendment
+        context: "Kunzru's argument extended beyond the immediate legal point to broader constitutional implications"
+    key_passages: []
+related_thinkers: 
+  - hriday-nath-kunzru
+
 ---
 
 _The following essay was published in August 1959 by the [Forum of Free Enterprise](https://indianliberals.in/content/state-monoplies-and-the-citizen-in-a-democracy-by-v-k-narasimhan-aug-7-1959/). Authored by V.K. Narasimhan, the essay provides a comprehensive understanding of how state monopolies impact the economy and citizens' rights in a democracy. _I propose to examine the question how far the promotion and maintenance of State Monopolies in the production of goods or the operation of services is compatible with the rights of citizens in a democracy to operate similar enterprises. 

@@ -8,8 +8,9 @@ authors:
   - hp-ranina
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
+  - manmohan-singh
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,15 @@ physical:
 missing_metadata_flags:
   - no_series_number_visible
   - no_isbn
+thinker_mentions:
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: "Manmohan Singh's fourth Union Budget (1994-95) is the specific policy document being commented upon throughout the pamphlet, making him the central policy actor referenced."
+    evidence:
+      - quote: "a detailed commentary on Dr. Manmohan Singh's fourth Union Budget (1994-95)"
+        context: "Singh's budget is the document the entire pamphlet analyses"
+    key_passages: []
+
 ---
 
 # A Historic Budget

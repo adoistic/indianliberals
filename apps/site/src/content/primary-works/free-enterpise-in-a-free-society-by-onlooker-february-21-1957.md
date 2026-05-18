@@ -7,11 +7,10 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - t-t-krishnamachari
+related_thinkers: 
   - jawaharlal-nehru
-  - karl-marx
-  - nikita-khrushchev
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -50,6 +49,22 @@ missing_metadata_flags:
   - byline_is_pseudonym
   - no_explicit_pamphlet_publication_date
   - no_series_number
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "T. T. Krishnamachari's budget is named as the immediate trigger for Onlooker's polemic against the 'socialistic pattern of society' direction of Indian economic policy."
+    evidence:
+      - quote: "Prompted by Finance Minister T. T. Krishnamachari's budget and the broader 'socialistic pattern of society' line emanating from Nehru's government"
+        context: "TTK's budget named as the proximate cause of the essay, in the opening framing of the polemic"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's government's 'socialistic pattern of society' line is the broader ideological target that frames the entire essay; the body explicitly pairs TTK's budget with Nehru's government as the two triggers."
+    evidence:
+      - quote: "the broader 'socialistic pattern of society' line emanating from Nehru's government"
+        context: "Nehru's government named alongside TTK's budget as the ideological provocation for Onlooker's essay"
+    key_passages: []
+
 ---
 
 # FREE ENTERPRISE IN A FREE SOCIETY

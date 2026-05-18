@@ -17,9 +17,9 @@ contributors:
   - role: author
     thinker_unresolved: DR. KERSI D. DOODHA
     toc_index: 3
-related_thinkers:
-  - colin-clark
+related_thinkers: 
   - indira-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +53,15 @@ missing_metadata_flags:
   - title_page_not_found
   - no_formal_toc
   - editor_not_named
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: The anonymous columnist S.M. mentions Mrs. Gandhi as a recipient of Cabinet warnings about the devaluation, situating her centrally in the political tension around the June 1966 decision.
+    evidence:
+      - quote: including warnings to Mrs. Gandhi and the publicised reservations of Kamaraj
+        context: Mrs. Gandhi is mentioned as a principal political actor absorbing the political heat of the devaluation decision
+    key_passages: []
+
 ---
 
 # Devaluation of the Rupee

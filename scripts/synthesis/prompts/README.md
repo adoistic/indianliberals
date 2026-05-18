@@ -53,3 +53,21 @@ Requires the `claude` CLI on PATH with an authenticated Max plan.
   + the prompts + the unlinked JSONL can regenerate the resolutions
   identically (modulo non-determinism in LLM output, mitigated by
   the validation step in `apply-resolutions.py`).
+
+## Phase B (in-prose NER) prompts
+
+- `system-ner.txt` — system message for the Phase B in-prose mention
+  extractor. Same dual-path (manual + headless) as the resolver. Read
+  by `scripts/synthesis/resolve-ner.py` and by humans who paste it into
+  an interactive Claude session.
+
+To re-run via the automated path:
+
+    python3 scripts/synthesis/prepare-ner-batches.py
+    python3 scripts/synthesis/resolve-ner.py \
+        --batch-size 8 --concurrency 2
+    python3 scripts/synthesis/apply-ner.py
+
+Phase B is independent of Phase A — Phase B reads structured refs
+written by Phase A (to skip the byline-author) but otherwise the two
+pipelines don't share state.

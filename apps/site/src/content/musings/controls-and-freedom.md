@@ -8,6 +8,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "ma-sreenivasan"
+thinker_mentions:
+  - thinker: winston-churchill
+    role: mention
+    reasoning: "Churchill's coinage 'Queutopia' is invoked to characterise the bureaucratic control economy India built after independence, lending a vivid rhetorical label to the author's critique."
+    evidence:
+      - quote: "a veritable Queutopia, to use Sir Winston Churchill's expression."
+        context: "Churchill's satirical coinage is appropriated to describe post-independence India's licence-and-permit raj"
+    key_passages: []
+  - thinker: rajaji
+    role: mention
+    reasoning: "Rajaji's abolition of food rationing in Madras is cited as the exemplary act of principled free-market governance — proof that controls can be lifted without societal collapse."
+    evidence:
+      - quote: Rajaji abolished food control and rationing in one bold sweep when he was Chief Minister of Madras.
+        context: "Rajaji's Madras experiment is the positive case study that the author contrasts with the expansion of controls elsewhere"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's well-known opposition to government controls is invoked to align the essay's free-market argument with the moral authority of the independence movement."
+    evidence:
+      - quote: Gandhiji, as is well known, was firmly against controls and their continuance.
+        context: "Gandhi's anti-controls stance is cited to show that economic freedom is not a merely Western liberal idea but is embedded in the Indian independence tradition"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+  - rajaji
+  - winston-churchill
+
 ---
 
 _Produced below is an essay by M.A Sreenivasan, published in a 1960 edition of __[Forum of Free Enterprise.](https://indianliberals.in/content/controls-and-freedom-by-a-d-shroff-dec-8-1960-2/)__ The author was the Food and Civil Supplies Minister of Mysore at the time. He begins by discussing the demerits of using shortages in supply as an excuse to impose greater state control, and goes on to take a more in-depth look at the role of self-imposed controls in enhancing freedom. _To talk of controls in a free economy may, at first sight, seem antithetical and incongruous, like talking of Kangaroos in Malabar Hill or of a strike in Peking. But such an impression would be superficial. For, controls are not inconsistent with freedom. Paradoxical as it may seem, they are necessary for true freedom to flourish and expand. 

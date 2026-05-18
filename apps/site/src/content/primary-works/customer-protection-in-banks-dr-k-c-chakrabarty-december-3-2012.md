@@ -13,9 +13,9 @@ contributors:
     thinker: k-c-chakrabarty
   - role: editor
     thinker: sunil-bhandare
-related_thinkers:
+related_thinkers: 
   - m-r-pai
-  - ila-bhatt
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +51,19 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "Chakrabarty delivers the M. R. Pai Memorial Lecture and positions Pai's lifelong advocacy of fair banking treatment as the moral throughline connecting the consumer-rights tradition to the current regulatory agenda on customer protection."
+    evidence:
+      - quote: Dr. K. C. Chakrabarty, then Deputy Governor of the Reserve Bank of India, delivers the Eighth M. R. Pai Memorial Lecture in Mumbai on 6 September 2012
+        context: "The lecture is delivered in Pai's memory; Pai's consumer-protection work is the occasion's animating principle"
+      - quote: "to position Pai's lifelong advocacy of fair treatment, transparency, and non-exploitative pricing as the moral throughline that ties the older consumer-rights tradition to today's regulatory agenda"
+        context: "Pai's specific advocacy is characterised as the historical bridge between past consumer activism and present banking regulation"
+      - quote: "anchoring his case in M. R. Pai's lifelong advocacy of fair treatment and non-exploitative pricing"
+        context: "Pai's work is invoked as the normative standard by which current banking practice should be judged"
+    key_passages: []
+
 ---
 
 # Customer Protection in Banks – Emerging Issues and Challenges

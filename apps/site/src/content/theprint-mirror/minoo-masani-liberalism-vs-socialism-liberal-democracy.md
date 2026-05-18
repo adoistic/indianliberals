@@ -5,11 +5,23 @@ pubDate: 2025-07-26T09:44:16
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-vs-socialism-liberal-democracy/2702912/"
 themes: ["indian-liberals-matter", "liberal-democracy", "liberalism", "minoo-masani", "socialism"]
-related_thinkers: ["minoo-masani"]
+related_thinkers: 
+  - mahatma-gandhi
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is invoked twice as a foundational authority: first for his doctrine that ends and means are interlinked, and second for his repeated warning that the State is the greatest threat to human freedom in the twentieth century."
+    evidence:
+      - quote: "Our great leader, Mahatma Gandhi, used to say that consistency in political affairs is \"the virtue of an ass.\""
+        context: "Gandhi's pragmatism is cited to validate Masani's own willingness to revise political positions"
+      - quote: This Gandhi repeated a hundred times in different ways, by saying that there is no violence as evil as the violence of the Government.
+        context: "Gandhi's anti-statism is the philosophical foundation for Masani's critique of socialist government"
+    key_passages: []
 
 ---
 

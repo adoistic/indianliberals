@@ -7,6 +7,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "nani-palkhivala"
+thinker_mentions:
+  - thinker: m-c-chagla
+    role: mention
+    reasoning: "M.C. Chagla is cited as Chief Justice who gave the highest judicial endorsement to Palkhivala's income-tax treatise by calling it simply 'The Book', establishing Palkhivala's unrivalled authority in taxation law."
+    evidence:
+      - quote: Chief Justice M.C. Chagla referred to it as “The Book”.
+        context: "judicial imprimatur establishing Palkhivala's taxation treatise as the definitive reference"
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: "Dadabhai Naoroji is mentioned as one of the great Indians on whom Palkhivala wrote in his compilation 'We the Nation', illustrating the vast range of Palkhivala's historical commentary."
+    evidence:
+      - quote: Dadabhai Naoroji to political subjects like dismissal of a Governor, to budgets and musings on life.
+        context: Naoroji cited as one of the historical figures Palkhivala reflected on in his collected articles
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+  - m-c-chagla
+
 ---
 
 _MR Pai paid a heartfelt tribute to Nani Palkhivala through his book titled "The Legend of Nani Palkhivala", published in 2002. The book is an attempt to record Palkhivala’s great achievements, from the vantage of a close associate who was part of his public life for over four decades since 1957. _

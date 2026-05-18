@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Mahatma Gandhi is cited as the paradigmatic 'arch dissenter of the twentieth century' whose non-violent dissent won India's freedom, anchoring the essay's argument about dissent as a positive force in democracy."
+    evidence:
+      - quote: "we see Mahatma Gandhi, the \"arch dissenter of the twentieth century\" winning India its freedom in 1947"
+        context: Gandhi invoked as the supreme historical example of constructive dissent in the Indian tradition
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 **DIVERSITY, DEMOCRACY AND DISSENT**

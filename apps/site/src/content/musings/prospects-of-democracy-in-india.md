@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: rajendra-prasad
+    role: mention
+    reasoning: "Rajendra Prasad is quoted describing the 1951 general election based on adult franchise as 'an act of faith', used to illustrate the confidence India's founding leaders placed in democratic institutions."
+    evidence:
+      - quote: Dr Rajendra Prasad described this as an act of faith.
+        context: "Prasad's characterisation of the first general election is invoked as evidence of the founding generation's democratic commitment"
+    key_passages: []
+related_thinkers: 
+  - rajendra-prasad
+
 ---
 
 _Published in the June 1961 issue of Freedom First magazine, author SP Aiyar makes a case for the evolution of democratic ideals and institutions in India. The introduction of Montagu-Chelmsford reforms ensured that India and its leaders were trained in the democratic system, unlike the future of some other colonies in the world. He lauds the leaders of independent India for trusting and consolidating the democratic system through the 1951 general election._

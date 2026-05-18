@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "yashodabai-agarkar"
+thinker_mentions:
+  - thinker: gopal-ganesh-agarkar
+    role: mention
+    reasoning: "Gopal Ganesh Agarkar is cited as Yashodabai's husband whose reformist ideas she imbibed and acted upon, providing the intellectual foundation for her own activism."
+    evidence:
+      - quote: "Gopal Ganesh Agarkar educated Yashodabai and kindled the spirit of reform in her. His thoughts on women's upliftment and feminism seeped into Yashodabai."
+        context: "Agarkar identified as the intellectual influence who shaped Yashodabai's reform consciousness"
+    key_passages: []
+related_thinkers: 
+  - gopal-ganesh-agarkar
+
 ---
 
 _Yashodabai Agarkar, known to most as Gopal Ganesh Agarkar's wife, was a social reformer and an advocate of women's education. The story of her personal struggles shows her courage and determination to follow the ideas inculcated by her husband and how she stood as an example to other women and widows ill treated by the society._

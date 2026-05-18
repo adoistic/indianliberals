@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "raghunath-karve"
+thinker_mentions:
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar defended Karve in court on obscenity charges arising from his sex-education publication, using the case to argue for freedom of speech and expression — positioning Ambedkar as a civil-libertarian ally of Karve's embattled project."
+    evidence:
+      - quote: Dr. Babasaheb Ambedkar took up his case and represented him in court. Dr. Ambedkar raised pertinent questions about censorship, freedom of speech and expression, and individual freedom.
+        context: "Ambedkar's courtroom intervention frames him as a defender of Karve's individual-liberty mission"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+
 ---
 
 _Raghunath Dhondo Karve is known as a staunch supporter of individual liberty and freedom. He believed in individual autonomy and attempted to normalize non-procreative sexuality. He challenged existing customs and argued for individual sexual freedom and awareness through his publication समाजस्वास्थ्य  (Health of the society)._

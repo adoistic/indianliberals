@@ -8,6 +8,9 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions: []
+related_thinkers: []
+
 ---
 
 **THE IMAGINED DEMOCRACY IN INDIA: A DEMOCRACY MINUS DISSENT?**

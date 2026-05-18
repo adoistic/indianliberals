@@ -8,9 +8,9 @@ authors:
   - margaret-thatcher
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
-  - eugene-black
+related_thinkers: 
+  - margaret-thatcher
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +42,19 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: margaret-thatcher
+    role: subject
+    reasoning: This Forum of Free Enterprise booklet collects two Thatcher addresses — her 1994 Bombay speech and her Fraser Institute lecture — presenting her compressed manifesto of Thatcherism reframed for an Indian audience on the cusp of liberalisation.
+    evidence: []
+    key_passages:
+      - quote: "Thatcher argues that economic freedom is itself a form of freedom, that free enterprise is best understood as 'economic democracy,' and that the state's role should be limited but strong"
+        what_it_shows: "Thatcher's core conceptual move: reframing free enterprise as a form of democratic participation"
+      - quote: Privatisation is treated as both an economic and a political instrument — it shrinks state power and converts ordinary wage-earners into shareholders and homeowners.
+        what_it_shows: "Thatcher's integration of economic and political arguments for privatisation"
+      - quote: "The 1979 UK reform programme is summarised as four immediate moves — cut income-tax rates (top rate from 83% to 40%), abolish prices/incomes/exchange/Development controls, reform trade-union law (secret ballot, end of the closed shop), and privatise 46 nationalised industries."
+        what_it_shows: concrete policy record offered as proof of concept for Indian liberalisers
+
 ---
 
 # Free Enterprise is Economic Democracy

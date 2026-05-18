@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: piloo-mody
+    role: author
+    reasoning: "The entry is an excerpt from Piloo Mody's 1979 book 'Democracy means Bread and Freedom'; Mody is the author of the reproduced text, though this was not captured in the frontmatter."
+    evidence:
+      - quote: "Published in 1979, Piloo Mody's book 'Democracy means Bread and Freedom' was an important piece of work written in a lucid style and discussing key ideas relevant to liberal thought in its economic, social and political understanding."
+        context: The editorial preamble identifies Mody as the author of the book from which the excerpt is drawn
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Lincoln is invoked in a roster of US presidents who warned against monopoly capital's threat to democracy, grounding Mody's argument in a cross-partisan American tradition of economic vigilance."
+    evidence:
+      - quote: whether it was Abraham Lincoln the legislator or Abraham Lincoln the President, whether it was Woodrow Wilson or Franklin Roosevelt- all felt compelled to warn and expose the danger monopoly capital presented to a democratic society.
+        context: Lincoln leads the list of presidential voices cited to show that concern about concentrated economic power is a bipartisan democratic tradition
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is cited as the intellectual influence behind Laski's pessimism about liberal democracy's capacity for structural change, which Mody's essay argues against."
+    evidence:
+      - quote: Harold Laski on the other hand, under the lure of Marx and the Soviet revolution, is of the opinion that change is inherently contrary to the nature of liberal democracy
+        context: "Marx's influence on Laski's structural pessimism about democracy is identified as the source of the counter-argument Mody must refute"
+    key_passages: []
+related_thinkers: 
+  - abraham-lincoln
+  - karl-marx
+  - piloo-mody
+
 ---
 
 _Published in 1979, Piloo Mody’s book ‘Democracy means Bread and Freedom’  was an important piece of work written in a lucid style and discussing key ideas relevant to liberal thought in its economic, social and political understanding. Produced below is a chapter from the book. _

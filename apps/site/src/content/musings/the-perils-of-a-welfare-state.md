@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: bibek-debroy
+    role: author
+    reasoning: "The body opens by naming Bibek Debroy as the author of this excerpt from 'After the Welfare State', making him both the author and the intellectual voice arguing against the welfare state model in India."
+    evidence:
+      - quote: "Bibek Debroy, in this excerpt from the book 'After the Welfare State', talks about the perils of a Welfare State"
+        context: "explicit authorship attribution opening the entry's body text"
+    key_passages: []
+related_thinkers: 
+  - bibek-debroy
+
 ---
 
 Bibek Debroy, in this excerpt from the book 'After the Welfare State', talks about the perils of a Welfare State and questions whether it has actually aided the country's growth and if it is a sustainable model to follow.

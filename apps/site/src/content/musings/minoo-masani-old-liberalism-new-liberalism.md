@@ -8,6 +8,61 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Masani names Naoroji as a leader of the old Indian liberalism and recalls personally playing around his feet as a child at Versova, positioning him as the foundational figure of the constitutional liberal tradition.
+    evidence:
+      - quote: Its leaders were Dadabhai Naoroji, Ranade, Gokhale, Ram Mohan Roy, Surendra Nath Bannerjee
+        context: Masani names Naoroji as the preeminent leader of old Indian liberalism
+      - quote: I remember as a boy playing around the feet of Dadabhai Naoroji at Versova where he was a neighbour of ours.
+        context: "personal memory establishing Masani's direct connection to the old liberal tradition Naoroji embodied"
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is listed as a leader of the old Indian liberalism whose moderate constitutionalist approach Masani describes as superseded by Gandhi's dynamic nationalism."
+    evidence:
+      - quote: Its leaders were Dadabhai Naoroji, Ranade, Gokhale, Ram Mohan Roy, Surendra Nath Bannerjee, whose names you know.
+        context: lists Gokhale among the old liberal leaders Masani personally remembered
+    key_passages: []
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: Ram Mohan Roy is named among the founding leaders of the old Indian liberalism, the tradition that Masani traces as the precursor to the new liberalism he is articulating.
+    evidence:
+      - quote: Its leaders were Dadabhai Naoroji, Ranade, Gokhale, Ram Mohan Roy, Surendra Nath Bannerjee
+        context: places Ram Mohan Roy in the founding lineage of Indian liberal thought
+    key_passages: []
+  - thinker: pherozeshah-mehta
+    role: mention
+    reasoning: "Pherozeshah Mehta is recalled as one of the old liberals Masani personally saw, part of the generation whose tradition was eclipsed by Gandhi's nationalism."
+    evidence:
+      - quote: I saw Pherozeshah Mehta. I knew Sapru and Jayakar. They have all gone and the old Liberalism has gone also.
+        context: personal recollection framing Mehta as one of the last representatives of the old liberal tradition
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Gandhi is identified as the force that killed the old liberalism and later as the source of key insights that shape the new liberalism Masani is articulating.
+    evidence:
+      - quote: It was killed by Mahatma Gandhi. When Gandhiji came on the scene as a dynamic nationalist following Tilak and Lajpatrai, he had no use for the old Liberalism
+        context: Gandhi as the agent who ended the old liberal tradition
+      - quote: "This I learnt from Mahatma Gandhi with whom I used to argue as a young socialist. He kept on saying that by doubtful methods, you can't gel a good end."
+        context: Gandhi as a source of the ends-means ethic that informs the new liberalism
+    key_passages: []
+  - thinker: carlos-romulo
+    role: mention
+    reasoning: "Carlos Romulo is invoked as 'that great Liberal in Asia' and his famous response to communist students — 'I am going forward' — is used to capture the essence of liberalism as transcending left-right divisions."
+    evidence:
+      - quote: That great Liberal in Asia, Carlos Romulo was once heckled by some communist students, in the University of which he was President
+        context: "Romulo's anecdote is the essay's rhetorical climax, defining liberalism as forward-looking"
+    key_passages: []
+related_thinkers: 
+  - carlos-romulo
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - mahatma-gandhi
+  - pherozeshah-mehta
+  - raja-ram-mohan-roy
+
 ---
 
 _Produced below is part of an essay by Minoo Masani, published in the 1970. The essay was originally published by the Indian Liberal Group, founded by the author.  Among the most prominent proponents of classical liberalism at the time, in this essay, Mr Masani outlines the essentials of Liberalism. The original publication can be accessed on the** [Freedom First website](https://indianliberals.in/periodicals/freedom-first/).** Read the first half of the essay **[here.](https://indianliberals.in/content/minoo-masani-liberalism/) **_**The Old Liberalism**

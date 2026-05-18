@@ -8,13 +8,13 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
-  - dadabhai-naoroji
-  - pherozeshah-mehta
-  - mahadev-govind-ranade
+related_thinkers: 
   - bal-gangadhar-tilak
+  - dadabhai-naoroji
   - gopal-krishna-gokhale
-  - mahatma-gandhi
+  - mahadev-govind-ranade
+  - pherozeshah-mehta
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +43,45 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
   format: Pamphlet/booklet; sponsored by Tata International Limited; printed 20/Feb./1998
+thinker_mentions:
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Dadabhai Naoroji is the central subject of the Naoroji Award acceptance speech, portrayed as a pioneer of free and female education whose secular vision of independent India Palkhivala invokes as the standard against which post-independence reality is measured.
+    evidence:
+      - quote: In the Naoroji tribute, Palkhivala portrays the Grand Old Man as a pioneer of free and female education who personally went door-to-door persuading families to let girls learn the three Rs.
+        context: Naoroji depicted as active educational reformer and the inspiration for the award Palkhivala accepts
+      - quote: He calls for moral leadership in education, grounded in courage, intellectual integrity, and a sense of values, and salutes the Bombay University tradition of Naoroji, Mehta, Ranade, Tilak, and Gokhale.
+        context: Naoroji positioned as founding figure of a distinguished Bombay liberal intellectual tradition
+    key_passages: []
+  - thinker: pherozeshah-mehta
+    role: mention
+    reasoning: Pherozeshah Mehta is listed among the Bombay University alumni whose tradition Palkhivala salutes as the exemplar of the educated, morally serious public servant that contemporary India has failed to produce.
+    evidence:
+      - quote: He calls for moral leadership in education, grounded in courage, intellectual integrity, and a sense of values, and salutes the Bombay University tradition of Naoroji, Mehta, Ranade, Tilak, and Gokhale.
+        context: Mehta cited as part of the distinguished Bombay liberal tradition invoked as a moral standard
+    key_passages: []
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "Ranade is listed among the Bombay University alumni in Palkhivala's closing tribute to the university's liberal intellectual tradition, positioning him as one of the nation-builders contemporary India has failed to honour."
+    evidence:
+      - quote: He calls for moral leadership in education, grounded in courage, intellectual integrity, and a sense of values, and salutes the Bombay University tradition of Naoroji, Mehta, Ranade, Tilak, and Gokhale.
+        context: Ranade cited as a pillar of the Bombay liberal tradition
+    key_passages: []
+  - thinker: bal-gangadhar-tilak
+    role: mention
+    reasoning: "Tilak is listed among the Bombay University alumni in Palkhivala's salute to the university's tradition of educated, principled public service."
+    evidence:
+      - quote: He calls for moral leadership in education, grounded in courage, intellectual integrity, and a sense of values, and salutes the Bombay University tradition of Naoroji, Mehta, Ranade, Tilak, and Gokhale.
+        context: Tilak cited as part of the distinguished Bombay liberal tradition
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is listed among the Bombay University alumni in Palkhivala's closing tribute, as one of the founding generation of nation-builders that contemporary India fails to merit."
+    evidence:
+      - quote: He calls for moral leadership in education, grounded in courage, intellectual integrity, and a sense of values, and salutes the Bombay University tradition of Naoroji, Mehta, Ranade, Tilak, and Gokhale.
+        context: "Gokhale cited as the final figure in Palkhivala's gallery of Bombay liberal nation-builders"
+    key_passages: []
+
 ---
 
 # EDUCATION, LEADERSHIP AND VISION OF A FREE INDIA

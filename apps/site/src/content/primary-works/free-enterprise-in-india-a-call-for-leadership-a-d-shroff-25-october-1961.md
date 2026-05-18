@@ -8,13 +8,12 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - jayaprakash-narayan
-  - murarji-vaidya
-  - sachin-sen
-  - charan-singh
-  - vinoba-bhave
   - mahatma-gandhi
+  - vinoba-bhave
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +51,38 @@ physical:
 missing_metadata_flags:
   - no_toc
   - no_isbn
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "A. D. Shroff's 1961 presidential address to the Forum of Free Enterprise mounts a sweeping critique of the Third Five-Year Plan as a Soviet model copy and calls on private enterprise to assume broader civic leadership."
+    evidence: []
+    key_passages:
+      - quote: "socialism as the practice by which 'politics has become an industry of major proportions'—a perquisite-driven class of professional politicians whose unregulated industry has lowered standards of public conduct"
+        what_it_shows: "Shroff's sharpest rhetorical reframing: politicians as unregulated monopolists"
+      - quote: "Shroff calls not for a ceiling over enterprise but for a ceiling over 'arbitrary political and bureaucratic power.'"
+        what_it_shows: "the normative conclusion: the accountability gap applies to the state, not the market"
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Shroff cites Jayaprakash Narayan's reported disillusionment with nationalisation of big industries as evidence that even socialist founders are abandoning doctrinaire positions."
+    evidence:
+      - quote: "Cites Jayaprakash Narayan's reported disillusionment with the nationalisation of big industries as evidence that even socialist founders are abandoning doctrinaire positions."
+        context: used by Shroff as a concessive argument that the intellectual wind is shifting away from doctrinaire socialism
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Acharya Vinoba Bhave's January 1959 warning that concentrated power in the name of welfare digs democracy's own grave is invoked by Shroff in his closing to anchor free enterprise advocacy in India's own moral tradition."
+    evidence:
+      - quote: "He invokes Acharya Vinoba Bhave's 1959 warning and Mahatma Gandhi's caution against a government that 'did everything for the people' while people did nothing—anchoring the case for free enterprise in India's own democratic and Gandhian inheritance."
+        context: "closing rhetorical move tying the Forum's liberal case to Indian moral authority"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's caution against a government that does everything for the people while people do nothing is cited by Shroff to ground his pro-enterprise argument in the Gandhian inheritance."
+    evidence:
+      - quote: "Mahatma Gandhi's caution against a government that 'did everything for the people' while people did nothing"
+        context: "Shroff's closing invocation, pairing Gandhi with Vinoba Bhave as Indian moral authorities for free enterprise"
+    key_passages: []
+
 ---
 
 # Free Enterprise in India — A Call For Leadership

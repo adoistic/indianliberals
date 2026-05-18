@@ -8,6 +8,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "ramadevi-chowdhury"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is listed among the freedom fighters and thinkers who shaped Ramadevi Chowdhuri's political consciousness in her formative years."
+    evidence:
+      - quote: Her childhood was influenced by freedom fighters and thinkers like Mahatma Gandhi, Vinoba Bhave, Sri Aurobindo, and JP Narayan.
+        context: "Names Gandhi as one of the ideational influences on Chowdhuri's entry into the independence movement"
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Vinoba Bhave is named alongside Gandhi and Jayaprakash Narayan as a thinker who inspired Ramadevi Chowdhuri's social activism and freedom work."
+    evidence:
+      - quote: Her childhood was influenced by freedom fighters and thinkers like Mahatma Gandhi, Vinoba Bhave, Sri Aurobindo, and JP Narayan.
+        context: "Bhave is listed as one of the key figures who shaped Chowdhuri's worldview"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan is cited as one of the formative intellectual and activist influences on Ramadevi Chowdhuri's lifelong commitment to social causes."
+    evidence:
+      - quote: Her childhood was influenced by freedom fighters and thinkers like Mahatma Gandhi, Vinoba Bhave, Sri Aurobindo, and JP Narayan.
+        context: "JP Narayan is named as one of the thinkers who inspired Chowdhuri's activism"
+    key_passages: []
+related_thinkers: 
+  - jayaprakash-narayan
+  - mahatma-gandhi
+  - vinoba-bhave
+
 ---
 
 _Ramadevi Chowdhuri (1899-1985) was a prominent Indian freedom fighter and social activist from Odisha, India. Her dedication to the cause of women's rights and active participation in the freedom struggle has made her an inspirational figure in Odisha and beyond. Ramadevi's legacy continues to inspire generations of women to fight for their rights and contribute to society._

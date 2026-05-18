@@ -7,11 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - c-rangarajan
-  - m-r-pai
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +43,17 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
   - theme_vocab_placeholder_unfilled
+thinker_mentions:
+  - thinker: c-rangarajan
+    role: mention
+    reasoning: "RBI Governor C. Rangarajan's endorsement of NBFCs' role is cited by Shah as authoritative institutional backing for his argument that the sector should be regulated supportively rather than punitively."
+    evidence:
+      - quote: a quotation from RBI Governor Dr. C. Rangarajan affirming the NBFC role in deepening capital markets and offering wider choice to investors
+        context: "Rangarajan's endorsement deployed as closing institutional authority for Shah's pro-NBFC regulatory argument"
+      - quote: "Closes with RBI Governor Dr. C. Rangarajan's observation that NBFCs' success ultimately depends on 'management capabilities, observance of financial discipline and effective deployment of funds.'"
+        context: "Rangarajan's words used as the booklet's final word on what determines NBFC viability"
+    key_passages: []
+
 ---
 
 # Finance Companies

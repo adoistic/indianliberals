@@ -8,9 +8,11 @@ authors:
   - j-h-doshi
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - bhanu-pratap-singh
+  - j-h-doshi
   - morarji-desai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +44,29 @@ physical:
 missing_metadata_flags:
   - filename_content_mismatch
   - author_not_in_authority
+thinker_mentions:
+  - thinker: j-h-doshi
+    role: mention
+    reasoning: "The entry is actually J. H. Doshi's presidential address (mislabelled in the pipeline), where Doshi is both author and central voice; the body identifies him as Forum President."
+    evidence:
+      - quote: "\"Rural Development is Key to Welfare of the Masses\" by J. H. Doshi, President of the Forum of Free Enterprise, based on his presidential address at the Forum's 21st Annual General Meeting"
+        context: note at the top of the summary confirming the actual author and source of this address
+    key_passages: []
+  - thinker: bhanu-pratap-singh
+    role: mention
+    reasoning: "Doshi marshals an extended quotation from agriculture minister Bhanu Pratap Singh to document the per capita consumption declines and crop stagnation that indict India's planning record."
+    evidence:
+      - quote: He marshals an extended quotation from agriculture minister Bhanu Pratap Singh to show that, despite headline buffer stocks and foreign-exchange reserves, per capita consumption of foodgrains, pulses, edible oils, sugar and cloth has fallen
+        context: "second paragraph; Singh's ministerial statement is the empirical anchor for Doshi's critique of planning failure"
+    key_passages: []
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Doshi cites Morarji Desai's Janata government as evidence of the pragmatic, anti-control turn he endorses as a corrective to two decades of mismanagement."
+    evidence:
+      - quote: "Doshi welcomes the new \"rolling plan\" and the Janata government's pragmatic, anti-control turn (citing Morarji Desai)"
+        context: constructive section; Morarji Desai is invoked as the political embodiment of the policy turn Doshi supports
+    key_passages: []
+
 ---
 
 # Rural Development is Key to Welfare of the Masses

@@ -8,10 +8,10 @@ authors:
   - russi-mody
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - russi-mody
   - thomas-robert-malthus
-  - a-d-shroff
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +52,26 @@ physical:
 missing_metadata_flags:
   - no_series_number
   - no_isbn
+thinker_mentions:
+  - thinker: russi-mody
+    role: subject
+    reasoning: "Russi Mody delivered the 26th Convocation Address at IIT Madras and the Forum published it; the speech is a diagnostic tour of India's chief ailments — national integration, population, corruption, ecology, and work culture — with a cautiously optimistic liberal close."
+    evidence: []
+    key_passages:
+      - quote: Mody names the erosion of national integration — the replacement of Indian identity by regional and communal loyalties — as the foremost problem since independence.
+        what_it_shows: "Mody's ranking of India's ailments, with national integration as the primary concern"
+      - quote: "invoking Malthus to argue that India's annual addition of 17 million people (equivalent to the entire population of Australia) devours every increment of wealth the country creates"
+        what_it_shows: "Mody's population argument grounded in Malthusian logic applied to India's specific demographic reality"
+      - quote: Corruption is identified as the second major ailment, with Mody stressing that social stigma has disappeared and that both the giver and receiver of bribes share equal guilt.
+        what_it_shows: "Mody's moral framing of corruption as a systemic cultural failure, not just individual bad behaviour"
+  - thinker: thomas-robert-malthus
+    role: mention
+    reasoning: "Mody invokes Malthus to argue that India's annual population addition devours every increment of wealth the country creates, using the Malthusian framework to underline the urgency of demographic policy."
+    evidence:
+      - quote: "invoking Malthus to argue that India's annual addition of 17 million people (equivalent to the entire population of Australia) devours every increment of wealth the country creates"
+        context: "Malthus invoked as the intellectual framework for Mody's demographic argument at IIT Madras"
+    key_passages: []
+
 ---
 
 # What Ails India

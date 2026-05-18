@@ -8,8 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - morarji-desai
   - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +49,24 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_explicit_publication_year_on_title_page
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Shroff credits the new wealth tax's introduction to T. T. Krishnamachari, dismissing it along with the expenditure, gift and capital-gains taxes as variously unworkable or perverse."
+    evidence:
+      - quote: The new wealth tax (introduced earlier by T. T. Krishnamachari), the expenditure tax, the gift tax and the capital-gains tax are dismissed as variously unworkable, perverse or counter-productive
+        context: "taxation section; TTK is identified as the author of the wealth tax that Shroff considers one of the budget's most damaging features"
+    key_passages: []
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Shroff's address dissects the Union Budget for 1959-60 presented by Finance Minister Morarji Desai, engaging with Desai's fiscal choices throughout, and credits him for abolishing the compulsory deposit scheme."
+    evidence:
+      - quote: "A. D. Shroff's address dissects the Union Budget for 1959-60 presented by Finance Minister Morarji Desai"
+        context: "opening identification of the budget's author; Desai is Shroff's primary interlocutor throughout the pamphlet"
+      - quote: "He concedes one welcome reform: Morarji R. Desai's formal abolition of the compulsory deposit scheme that the Forum had earlier denounced."
+        context: sole concession in the address; Desai is credited for one reform the Forum had long demanded
+    key_passages: []
+
 ---
 
 # An Inflationary Budget

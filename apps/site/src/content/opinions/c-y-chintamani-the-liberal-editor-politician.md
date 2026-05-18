@@ -9,6 +9,32 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "c-y-chintamani"
+thinker_mentions:
+  - thinker: c-y-chintamani
+    role: subject
+    reasoning: The essay is a full-length profile of C.Y. Chintamani as a prodigious liberal editor and politician, tracing his journalistic career from Vizianagaram to Allahabad and his political career from Congress to the Liberal Party.
+    evidence: []
+    key_passages:
+      - quote: In the first half of the 20th century, C Y Chintamani was among the few liberal Indian politicians balancing between opposing the British Raj and the Gandhian method of civil disobedience
+        what_it_shows: establishes his distinctive liberal position caught between competing nationalist strategies
+      - quote: "He conceded to newspaper proprietors the right to frame the paper's agenda and hire/fire people at will. However, he reserved to himself the right to decide the content and everyday management of the paper"
+        what_it_shows: "articulates Chintamani's doctrine of editorial independence, the core of his professional identity"
+      - quote: Gopal Krishna Gokhale, the patron saint of the Indian liberal pantheon, was not spared for his support to the Press Act of 1910
+        what_it_shows: demonstrates his willingness to criticise even the most revered liberal figures when principles were at stake
+      - quote: An extraordinarily intelligent man, I think the cleverest Indian in debate I have yet seen
+        what_it_shows: "Edwin Montagu's tribute captures Chintamani's intellectual standing even in the eyes of the colonial administrator"
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is invoked both as the 'patron saint of the Indian liberal pantheon' whom Chintamani criticised for the Press Act, and as an exemplar of the liberal tradition within which Chintamani operated."
+    evidence:
+      - quote: Gopal Krishna Gokhale, the patron saint of the Indian liberal pantheon, was not spared for his support to the Press Act of 1910
+        context: "Chintamani's editorial integrity tested against even the most revered liberal figure"
+      - quote: "Chintamani's response to Gokahle's protest at the criticism went: 'Sir, I have worshipped you all my life. Must you grudge my freedom even for one day?'"
+        context: their direct exchange encapsulating the tension between reverence and editorial independence
+    key_passages: []
+related_thinkers: 
+  - gopal-krishna-gokhale
+
 ---
 
 _A prodigy, nationalist, journalist, politician, thinker - C.Y. Chintamani was a liberal in every sense of the word.  As the editor of a leading national daily, Chintamani placed utmost importance on free speech. He did not shy away from criticizing the British Raj, INC, and even fellow liberals.  _In the first half of the 20th century, C Y Chintamani was among the few liberal Indian politicians balancing between opposing the British Raj and the Gandhian method of civil disobedience. The liberal commitment to constitutional means in the age of Gandhian mass movement nudged one away from public sentiment. However, this should not lead us to underestimate the notable, patriotic contributions of liberals. Neither should the liberal strand of Indian anti-colonial movement be allowed to lie in oblivion. In this context, the contribution of Chintamani as a politician and editor warrants commemoration.

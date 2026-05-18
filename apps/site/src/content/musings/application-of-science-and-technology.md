@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's 1958 Scientific Policy Resolution is cited as the foundational document whose vision the speaker revisits, positioning Nehru as the progenitor of India's science-and-technology policy."
+    evidence:
+      - quote: it is salutary to recall that in l958 the late Prime Minister, Mr. Jawaharlal Nehru, enunciated the Scientific Policy Resolution to Parliament, to affirm its faith in the vital role of science and technology in the transformation of our society.
+        context: "Nehru's policy declaration is invoked to establish the baseline against which subsequent science-policy gaps are measured"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: The lecture was delivered as the A.D. Shroff Memorial Lecture, making Shroff the eponymous patron whose legacy frames the entire address.
+    evidence:
+      - quote: the text was originally delivered as a speech at the 6th A.D. Shroff Memorial Lecture.
+        context: "Shroff's name anchors the lecture series within which this address on science and technology policy was delivered"
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+  - jawaharlal-nehru
+
 ---
 
 The following booklet was published by the [Forum of Free Enterprise](https://indianliberals.in/content/the-application-of-science-and-technology-to-socio-economic-development-by-professor-m-s-thacker-15-november-1971/) in 1971. Authored by Professor M.S. Thacker, the text was originally delivered as a speech at the 6th A.D. Shroff Memorial Lecture. Thacker discusses the increasing significance of science and technology and their practical applications, contributions to the economy, and drawbacks.I  begin by repeating a part of my Presidential address to the United Nation's Conference, which met at Geneva in. 1963 with nearly two thousand delegates and over ninety countries represented, on Application of Science and Technology for the benefit of the Developing Areas of the World. 

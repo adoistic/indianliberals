@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is quoted to provide an authoritative definition of fascism as the deification of the state at the expense of individual rights, lending weight to Masani's analytical framework."
+    evidence:
+      - quote: "as Jawaharlal Nehru once wrote, \"Fascism makes of the State a God on whose altar individual freedom and rights must be sacrificed\""
+        context: "Masani cites Nehru's formulation as the pithy encapsulation of fascism's essential character"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _The following is a short article written by M.R. Masani and  published in the February 1975 issue of the Freedom First Magazine. Minoo Masani discussed the tenets of fascism, its pre-requisites and the various nuances under which it works. Masaani's reflections on Fascism are timeless and are relevant to the discussion surrounding Fascism today. _Writing about the so called anti-fascist conference in Patna sometime in December the leftist _Economic and Political Weekly_ wrote under the title 'Innocents at a Conference':

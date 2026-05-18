@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: s-v-raju
+    role: mention
+    reasoning: SV Raju is the author of the original Freedom First editorial being excerpted; the piece frames his argument about political freedom as inseparable from economic freedom as the enduring lesson of Tiananmen.
+    evidence:
+      - quote: "Freedom First's SV Raju wrote a critical editorial over the incident in the July-September, 1989 issue. Even today, Raju's arguments have resonance for liberals."
+        context: "Raju is introduced as the thinker whose 1989 editorial provides the intellectual framework for the entire discussion of Tiananmen's legacy"
+    key_passages: []
+  - thinker: deng-xiaoping
+    role: mention
+    reasoning: Deng Xiaoping is discussed as the paradoxical figure who liberalised the Chinese economy while making clear that political liberty remained non-negotiable, illustrating the impossibility of separating economic and political freedom.
+    evidence:
+      - quote: Raju and other liberals cheered Deng Xiaoping for introducing economic reforms which turned China capitalist in all but name, he also made it clear that political liberty and democracy were non-negotiable.
+        context: "Deng is the pivot of the essay's argument: economic reform without political freedom is insufficient and ultimately self-undermining"
+    key_passages: []
+related_thinkers: 
+  - deng-xiaoping
+  - s-v-raju
+
 ---
 
 We posed a question in an earlier issue of Freedom First: "Is the Soviet ideology really changing?" China, at least, has answered in the negative and proved beyond all reasonable doubt that once communists gain control of a country they will never let go. lt is as simple as that. If it was not so, why would the demand for democracy incur the wrath and vengeance of the peoples' democrats?

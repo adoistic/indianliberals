@@ -12,10 +12,10 @@ contributors:
     thinker: n-vittal
   - role: introduction
     thinker_unresolved: Sunil Bhandare
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - m-c-chagla
-  - indira-gandhi
+  - margaret-thatcher
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +53,22 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: m-c-chagla
+    role: mention
+    reasoning: "Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary is invoked as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption, framing the ethical horizon of Vittal's essay."
+    evidence:
+      - quote: "invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption"
+        context: "editorial preface; Chagla's lecture is cited as the normative precedent for the accountability argument"
+    key_passages: []
+  - thinker: margaret-thatcher
+    role: mention
+    reasoning: "Vittal explicitly recommends 'Margaret Thatcher-style agencification' of two-thirds of departmental functions as a structural reform model for Indian public administration."
+    evidence:
+      - quote: Margaret Thatcher-style agencification of two-thirds of departmental functions
+        context: "prescriptive section; Thatcher's UK reforms are the template for restructuring India's civil service delivery"
+    key_passages: []
+
 ---
 
 # Accountability in Public Service

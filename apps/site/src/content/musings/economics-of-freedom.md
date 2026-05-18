@@ -7,6 +7,41 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mr-masani
+    role: author
+    reasoning: The entry is a lecture delivered by M.R. Masani; Masani is the author of the reproduced text, though this was not captured in the frontmatter.
+    evidence:
+      - quote: The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965.
+        context: The editorial preamble identifies Masani as the author of the lecture
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Vinoba Bhave is cited as Gandhi's 'greatest living disciple' who concretised Gandhi's anti-statist warning with a specific critique of State Capitalism and centralisation."
+    evidence:
+      - quote: "His greatest living disciple, Acharya Vinoba Bhave, only recently followed up that warning in more concrete terms when he observed: \"We cannot say people will be happy under State Capitalism…In the name of the Welfare State, nothing should be done to centralise everything.\""
+        context: "Bhave's statement is used to show that the anti-centralisation argument has living support within the Gandhian tradition itself"
+    key_passages: []
+  - thinker: nikita-khrushchev
+    role: mention
+    reasoning: "Khrushchev is cited as the authority whose own speech confirmed that the concentration of power in the Communist state created the conditions for Stalin, substantiating Masani's argument about state power and tyranny."
+    evidence:
+      - quote: Strangely enough, there is confirmation of this point from none other than Khrushchev.
+        context: "Khrushchev's own admissions are invoked as involuntary evidence for the liberal critique of concentrated state power"
+    key_passages: []
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: "Stalin is discussed extensively as the historical proof case for Masani's argument that concentrating economic and political power in the state inevitably produces tyranny."
+    evidence:
+      - quote: "as had developed under Stalin. \"We shall not allow it to happen,\" he kept repeating with great sincerity but with what appeared to me to be a singular lack of realism"
+        context: "Stalin's totalitarian state is the cautionary historical reference point for Masani's warning about statism in India"
+    key_passages: []
+related_thinkers: 
+  - joseph-stalin
+  - mr-masani
+  - nikita-khrushchev
+  - vinoba-bhave
+
 ---
 
 _The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965. In this lecture, Masani discusses the socialist wisdom dominant in that age and reflects upon the inevitable road to totalitarianism by citing examples such as China and Russia and deconstructing the very essence of Socialism. _

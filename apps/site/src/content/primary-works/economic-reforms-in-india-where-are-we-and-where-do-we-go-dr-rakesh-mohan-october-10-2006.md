@@ -8,9 +8,9 @@ authors:
   - rakesh-mohan
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +44,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - theme_vocabulary_not_provided_in_prompt
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is Rakesh Mohan's 39th A. D. Shroff Memorial Lecture, so Shroff's name frames the entire address as part of the Forum of Free Enterprise's lecture series that Shroff founded."
+    evidence:
+      - quote: "Rakesh Mohan's 39th A. D. Shroff Memorial Lecture, delivered in Mumbai in December 2005 and published by the Forum of Free Enterprise in 2007"
+        context: Shroff named as the honoree of the memorial lecture series in which this address is delivered
+    key_passages: []
+
 ---
 
 # Economic Reforms in India: Where are We and Where do We Go?

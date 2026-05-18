@@ -16,7 +16,10 @@ contributors:
     toc_index: 2
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - murarji-vaidya
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -56,6 +59,26 @@ physical:
 missing_metadata_flags:
   - no_formal_toc_page
   - editor_not_named
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "This 2011 pamphlet reproduces Shroff's foundational 1956 article 'Free Enterprise in India', together with Vaidya's companion piece, prefaced by a fresh introduction. Shroff's essay is one of two primary texts."
+    evidence: []
+    key_passages:
+      - quote: "Shroff calls for an organised, country-wide educative campaign to dispel the caricature of the private sector as a few \"tall poppies\""
+        what_it_shows: "Shroff's prescription: redefine the private sector to include all agriculture and small enterprise"
+      - quote: "a warning that India's thin borderline between democracy and totalitarianism can be crossed unless public opinion becomes vigilant enough to defend the freedom to think and to criticise"
+        what_it_shows: "Shroff's closing civil-liberty warning that gives the 1956 article its enduring force"
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: "Murarji J. Vaidya's companion 1956 article 'Free Enterprise and Freedom' is the second primary text reproduced in this pamphlet, presenting the constitutional-liberal case against the Second Plan."
+    evidence:
+      - quote: "Murarji J. Vaidya's \"Free Enterprise and Freedom\" — bracketed by a fresh introduction from then-president Minoo R. Shroff"
+        context: "Vaidya's essay is co-primary text of the pamphlet"
+      - quote: "Vaidya's central objection is not that these objectives are themselves illegitimate, but that simultaneous pursuit of socialism and democracy in an under-developed economy carries grave risks"
+        context: "Vaidya's core philosophical position within the pamphlet"
+    key_passages: []
+
 ---
 
 # Free Enterprise in India and Freedom

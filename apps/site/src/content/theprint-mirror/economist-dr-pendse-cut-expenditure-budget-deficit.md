@@ -5,11 +5,25 @@ pubDate: 2025-09-27T11:27:16
 author_name: "DR Pendse"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/economist-dr-pendse-cut-expenditure-budget-deficit/2752397/"
 themes: ["fiscal-deficit", "govt-expenditure"]
-related_thinkers: ["d-r-pendse"]
+related_thinkers: 
+  - dr-pendse
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: dr-pendse
+    role: subject
+    reasoning: "The article is DR Pendse's essay proposing a seven-point expenditure-cutting plan to control the budget deficit, with detailed prescriptions for each ministry."
+    evidence: []
+    key_passages:
+      - quote: "The root cause of India's Budget crisis is in impossibly high deficits. Deficits can be controlled only in two ways: (a) by raising revenue, and/or (b) by cutting expenditure."
+        what_it_shows: "Pendse's diagnostic framework for the budget crisis"
+      - quote: I remain convinced that, for various reasons, revenue generation is not the answer for us; It does not work. In fact, it aggravates the malady. We must concentrate on curbing expenditure.
+        what_it_shows: "Pendse's core prescription: expenditure control over revenue generation"
+      - quote: "I therefore, will take the liberty to outline my illustrative seven-point plan to control expenditure. It is not only harsh, it is 'savage'."
+        what_it_shows: introduces the signature seven-point plan that defines the article
 
 ---
 

@@ -8,8 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +44,26 @@ missing_metadata_flags:
   - reprint_year_not_printed
   - series_number_not_visible
   - theme_vocabulary_placeholder_in_prompt
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "A. D. Shroff's pamphlet responds to Nehru's attacks on private enterprise and argues against monopolistic state food-grain trading, defending the inseparability of private enterprise and democracy."
+    evidence: []
+    key_passages:
+      - quote: "Nehru, he writes, has the political power to wield such a broom but cannot have any permanent effect, and the very sensitiveness on display is 'a weakness of small men born of the consciousness of having made mistakes and not having the moral courage to acknowledge them.'"
+        what_it_shows: "Shroff's characterisation of Nehru's irritability as evidence of bad governance rather than strength"
+      - quote: every diminution of private enterprise erodes the democratic way of life, and every citizen has a right to choose his avocation that State trading curtails
+        what_it_shows: "Shroff's foundational claim linking private enterprise to democratic freedom"
+      - quote: Estimates the displaced private food-grains trade at about Rs. 500 crores.
+        what_it_shows: concrete economic scale of the state-trading displacement Shroff opposes
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's Calcutta speech claiming that private sector critics 'can be swept away with a broomstick' is the direct provocation to which Shroff's entire pamphlet is a reply."
+    evidence:
+      - quote: "A. D. Shroff replies to a recent batch of speeches by Prime Minister Jawaharlal Nehru that attacked the private sector, in particular a Calcutta address in which Nehru reportedly said critics in the Private Sector 'can be swept away with a broomstick.'"
+        context: the provocative statement that triggers the pamphlet
+    key_passages: []
+
 ---
 
 # FREE ENTERPRISE WILL SURVIVE AS LONG AS MAN SURVIVES

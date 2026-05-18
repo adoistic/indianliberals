@@ -5,11 +5,21 @@ pubDate: 2025-07-19T11:48:17
 author_name: "DN Hosali"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first/2695489/"
 themes: ["indian-liberals-matter", "indian-private-sector", "industrialisation"]
-related_thinkers: ["dn-hosali"]
+related_thinkers: 
+  - t-t-krishnamachari
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: Krishnamachari is cited as Finance Minister who declared that the Second Plan would demand sacrifice and regimentation, exemplifying the socialist direction of government policy the essay critiques.
+    evidence:
+      - quote: Shri T. T. Krishnamachari, the Finance Minister, has declared that the Second Plan would demand sacrifice and regimentation of our economy
+        context: "Krishnamachari's own words are quoted as evidence of the government's coercive economic direction"
+    key_passages: []
 
 ---
 

@@ -8,10 +8,11 @@ authors:
   - d-r-pendse
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - jawaharlal-nehru
-  - eugene-black
+  - n-dandekar
+  - p-c-mahalanobis
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +50,29 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn_or_issn
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Pendse traces the anti-concentration policy lineage directly to Nehru's 1959 commission of the Mahalanobis study, framing the entire CEP debate as a product of Nehruvian political initiative."
+    evidence:
+      - quote: "policy lineage from Prime Minister Jawaharlal Nehru's 1959 decision to commission what became the Mahalanobis study, through the Monopolies Inquiry Commission (1965)"
+        context: "Nehru is identified as the political originator of India's concentration-of-economic-power obsession"
+    key_passages: []
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: "The Mahalanobis study, commissioned by Nehru, is the foundational document of India's anti-concentration framework; Pendse traces the entire institutional history of the CEP debate to this study."
+    evidence:
+      - quote: "Nehru's 1959 decision to commission what became the Mahalanobis study, through the Monopolies Inquiry Commission (1965), the Hazari Committee (1967) and the Dutt Committee (1969)"
+        context: "Mahalanobis's study is the originating moment of the CEP policy lineage Pendse critiques"
+    key_passages: []
+  - thinker: n-dandekar
+    role: mention
+    reasoning: "Pendse invokes Professor Dandekar's pioneering poverty study — finding that at least 60% of Indians fall below minimum per-capita consumption norms — to argue for urgency in economic growth over ideological anti-concentration posture."
+    evidence:
+      - quote: "Citing the Ruling Party's Garibi Hatao mandate and Professor Dandekar's recent pioneering study, which found that at least 60 per cent of Indians fall below the minimum per-capita consumption norms used by the Planning Commission"
+        context: "Dandekar's data on mass poverty is deployed to redirect attention from concentration to growth"
+    key_passages: []
+
 ---
 
 # Concentration of Economic Power

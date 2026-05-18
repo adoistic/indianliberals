@@ -5,11 +5,49 @@ pubDate: 2025-12-06T11:43:14
 author_name: "P Kodanda Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hindi-imposition-constitution/2799636/"
 themes: ["constituent-assembly", "hindi-imposition"]
-related_thinkers: ["p-kodanda-rao"]
+related_thinkers: 
+  - bhimrao-ambedkar
+  - c-rajagopalachari
+  - jawaharlal-nehru
+  - t-t-krishnamachari
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajagopalachari's famous lament that 1965 was a 'mournful new year for the South' opens the essay and frames the entire critique of Hindi imposition."
+    evidence:
+      - quote: "Mr. C. Rajagopalachari lamented that 1965 was a \"mournful new year for the South.\""
+        context: opening line, anchoring the anti-imposition argument in a respected liberal authority
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: Ambedkar is cited in his capacity as Drafting Committee chairman, providing the crucial primary source on the one-vote margin by which Hindi secured its constitutional status.
+    evidence:
+      - quote: Dr. B. R. Ambedkar, then the chairman of the Drafting Committee of the Consembly, had access to the private meetings. In his book, Thoughts On Linguistic States, he said
+        context: "Ambedkar's account of the Constituent Assembly vote is the key evidence for Hindi's slender democratic mandate"
+      - quote: There was no article which proved more controversial than Article 115 which dealt with the (Hindi) question. No article produced more opposition. No article more heat.
+        context: "direct quotation from Ambedkar's book recording the intensity of opposition to the language article"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "T. T. Krishnamachari's 1949 speech in the Constituent Assembly is quoted at length as evidence that senior non-Hindi leaders warned Hindi imposition would enslave the south and risk partition."
+    evidence:
+      - quote: Mr. T. T. Krishnamachari, who is now the Union Finance Minister, said that the English language was no longer hated in South India, that he refused to be compelled to learn Hindi to participate in parliament
+        context: "Krishnamachari's personal protest grounds the political stakes of the language debate"
+      - quote: "He warned that \"Hindi imperialism\" would mean the \"enslavement\" of the non-Hindi people, and pointed to the movement in South India for separation because of Hindi imperialism."
+        context: "Krishnamachari's explicit prediction of separatism is cited as a prophetic warning that went unheeded"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is shown admonishing Hindi champions in the Constituent Assembly for their authoritarian tone, yet his government's subsequent policy of pushing Hindi immediately and steadily is identified as dashing the hopes of those who reluctantly acquiesced."
+    evidence:
+      - quote: "Mr. Nehru was driven to admonish the latter. He said : In some of the speeches I have listened to here and elsewhere, there is very much a tone of authoritarianism"
+        context: "Nehru's own rebuke of Hindi chauvinists is ironically invoked to show awareness of the danger even among Hindi promoters"
+    key_passages: []
 
 ---
 

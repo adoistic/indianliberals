@@ -7,6 +7,19 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Masani's press conference is structured around a sustained critique of Indira Gandhi's government, arguing it lacks a democratic mandate and is incapable of meeting the country's four priority needs."
+    evidence:
+      - quote: Masani argued how the Indira Gandhi government failed to address any of the aforementioned matters of priority
+        context: "editorial framing positions Indira Gandhi's government as the chief target of Masani's critique"
+      - quote: if she knows her constitutional duty, she will dissolve Parliament and go to the people and get a mandate
+        context: "Masani directly challenges Indira Gandhi's constitutional legitimacy"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+
 ---
 
 _Published by the Swatantra Party in 1970, the musing below was originally the transcript of a press conference addressed by Mr M. R. Masani, M.P., President, Swatantra Party, in New Delhi on 31 December 1969. The speech laid emphasis on matters that needed to be given immediate priority. First, a clean, efficient and prompt administration; second, the restoration of law and order; third, increased production and hard work; and lastly, a pragmatic approach to national problems, free from ideological emphasis or pre-conceptions. Masani argued how the Indira Gandhi government failed to address any of the aforementioned matters of priority._

@@ -9,6 +9,64 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "minoo-masani"
+thinker_mentions:
+  - thinker: minoo-masani
+    role: subject
+    reasoning: "The essay focuses on Minoo Masani's stance against India's nuclear weapons program, presenting his economic arguments for butter over guns and his preference for a US nuclear umbrella, making him the primary subject."
+    evidence: []
+    key_passages:
+      - quote: "Masani stressed butter in the classic guns versus butter debate as it corresponded to India's nuclear policy under the PM Lal Bahadur Shastri"
+        what_it_shows: his core economic argument against an Indian indigenous nuclear weapons program
+      - quote: "three things are clear from the discussion so far: Rajaji's worry about the health fallout of nuclear tests and his constant advocacy for disarmament; Masani's opposition to indigenous nuclear weapons program on economic grounds"
+        what_it_shows: "the essay's summative comparison of Rajaji's and Masani's distinct but complementary positions"
+  - thinker: rajaji
+    role: mention
+    reasoning: "Rajaji's campaign for the nuclear test ban is discussed in detail alongside Masani's, with his Gandhian moral case for unilateral disarmament contrasted with Masani's economic arguments."
+    evidence:
+      - quote: "Rajaji's vigorous campaign for the nuclear test ban has been discussed in some detail here"
+        context: introducing Rajaji as the complementary Swatantra voice on nuclear policy alongside Masani
+      - quote: He disagreed with the logic of the balance of threat and was deeply worried about the repercussions of nuclear rivalry for human security
+        context: "capturing Rajaji's moral-pacifist grounds for opposing nuclear weapons development"
+      - quote: he went on to meet Kennedy to make the case for the nuclear test ban
+        context: "Rajaji's transnational advocacy for nuclear disarmament at the highest international level"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is cited as the founder of India's atomic energy program who endorsed its peaceful use for development while the Congress had an ambivalent attitude toward nuclear weapons."
+    evidence:
+      - quote: PM Nehru was a proponent of nuclear disarmament but also endorsed the peaceful use of nuclear energy for development
+        context: "establishing Nehru's dual position as the origin point of India's nuclear trajectory"
+    key_passages: []
+  - thinker: v-k-krishna-menon
+    role: mention
+    reasoning: "V.K. Krishna Menon's position of not doing anything about China's nuclear bomb — dismissed by Masani as foolishness — is cited as one of the three options Masani considered for Indian nuclear policy."
+    evidence:
+      - quote: the line toed by the likes of Krishna Menon of not doing anything since it would be foolish to enter the nuclear race amounted to foolishness
+        context: "Masani's dismissal of the Menon position as inadequate to India's security challenge"
+    key_passages: []
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Lal Bahadur Shastri is noted as the PM under whom Masani's economic objection to the nuclear bomb aligned with official government policy, situating Masani's position within the mainstream of the mid-1960s policy debate."
+    evidence:
+      - quote: "Masani stressed butter in the classic guns versus butter debate as it corresponded to India's nuclear policy under the PM Lal Bahadur Shastri"
+        context: "Masani's anti-bomb stance placed in the context of Shastri's contemporary policy preference for economic development over nuclear weapons"
+      - quote: On the other hand, both the influential nuclear scientist Homi Bhabha and the right-wing Bhartiya Jan Sangh made the case for an Indian nuclear bomb
+        context: "establishing Shastri's and Masani's shared de facto position against the pro-bomb lobby"
+    key_passages: []
+  - thinker: john-foster-dulles
+    role: mention
+    reasoning: "John Foster Dulles is named as the US secretary of state whose doctrine of brinkmanship Rajaji contrasted unfavourably with Khrushchev's unilateral test moratorium, situating Rajaji's nuclear stance in the Cold War context."
+    evidence:
+      - quote: Rajaji seems to have leaned favorably towards Khrushchev in his writings in the late 1950s, probably because Khrushchev first politely refused to pay heed to his call and then went on to announce a unilateral test moratorium. This, for Rajaji, stood in contrast with belligerent US posturing and the doctrine of brinkmanship under John Foster Dulles
+        context: "contextualising Rajaji's relative sympathy for Khrushchev against Dulles's confrontational Cold War posture"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - john-foster-dulles
+  - lal-bahadur-shastri
+  - rajaji
+  - v-k-krishna-menon
+
 ---
 
 The following essay explores the stance taken by Minoo Masani against India's nuclear ambitions. In doing so, Masani made a critical economic argument to deter Indian policymakers from focusing on nuclear weapons development at the time.From the time of Nehru laying the foundation of the atomic energy program, India as a nuclear power has come a long way now with its acceptance in the global nuclear regime. India’s path to the bomb and emergence as a responsible nuclear power has not been a straightforward one. Among other factors, the domestic political debate has played a crucial role in shaping India’s nuclear trajectory. 

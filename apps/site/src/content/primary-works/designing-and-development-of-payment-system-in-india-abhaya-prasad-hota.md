@@ -16,9 +16,10 @@ contributors:
     thinker: sunil-bhandare
   - role: foreword
     thinker_unresolved: Suresh Prabhu
-related_thinkers:
-  - m-r-pai
+related_thinkers: 
   - a-d-shroff
+  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -56,6 +57,24 @@ missing_metadata_flags:
   - no_explicit_publication_year
   - no_isbn
   - no_publisher_address_visible
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The booklet opens with a biographical note on M. R. Pai as the consumer-rights crusader who co-founded the Forum of Free Enterprise with Shroff, positioning Hota's payment-systems work as a continuation of Pai's consumer-protection mission."
+    evidence:
+      - quote: The volume opens with a biographical note on M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956
+        context: "Pai's biography establishes the consumer-protection lineage within which Hota's payment-systems work is situated"
+      - quote: "Front matter establishes the M. R. Pai lineage of consumer activism — his association with A. D. Shroff at the Forum's 1956 founding"
+        context: "Pai's founding role is the institutional context for the M. R. Pai Memorial Award Hota receives"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff is named as the co-founder of the Forum of Free Enterprise alongside M. R. Pai, situating the institution's free-enterprise-with-consumer-voice mission as Shroff's founding legacy."
+    evidence:
+      - quote: M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956
+        context: Shroff is identified as the founding partner of the institution whose award Hota is receiving
+    key_passages: []
+
 ---
 
 # Designing and Development of Payment System in India

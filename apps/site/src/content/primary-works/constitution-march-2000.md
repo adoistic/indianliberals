@@ -7,8 +7,9 @@ work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - s-v-raju
+
 publication:
   language: en
   publisher_id: indian-liberal-group
@@ -44,6 +45,17 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
   format: stapled pamphlet / booklet
+thinker_mentions:
+  - thinker: s-v-raju
+    role: mention
+    reasoning: "S.V. Raju is named as President of the ILG's Ad-hoc National Executive, making him the organisation's founding institutional leader at the time of the Constitution's adoption."
+    evidence:
+      - quote: S. V. Raju named as President of the Ad-hoc National Executive
+        context: "Raju's institutional role in the ILG is recorded in the constitution's annexure"
+      - quote: S. V. Raju served as President of the Ad-hoc National Executive; the Drafting Group comprised 17 named members including Raju
+        context: Raju is identified as both drafter and first president
+    key_passages: []
+
 ---
 
 # Constitution

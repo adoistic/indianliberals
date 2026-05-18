@@ -7,6 +7,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "n-dandekar"
+thinker_mentions:
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: "Murarji J Vaidya is named as one of the attendees at the Forum of Free Enterprise convention on State Trading, identified as a former President of the Indian Merchants' Chamber."
+    evidence:
+      - quote: "Mr Murarji J Vaidya, former President of the Indian Merchants' Chamber"
+        context: Vaidya listed among the distinguished participants at the Convention on State Trading in Bombay
+    key_passages: []
+related_thinkers: 
+  - murarji-vaidya
+
 ---
 
 _The Forum of Free Enterprise organised a Convention on State Trading in Bombay on April 28, 1958, attended by: Mr N Dandeker, I.C.S. (Retd.); Mr S C Bose, President of Utkal Mining and Industrial Association, Calcutta; Mr Murarji J Vaidya, former President of the Indian Merchants' Chamber, and Mr D B Futnani, President of Iron, Steel and Hardware Merchants' Chamber of India._

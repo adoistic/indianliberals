@@ -12,11 +12,13 @@ contributors:
     thinker: kishori-j-udeshi
   - role: editor
     thinker_unresolved: S. S. Bhandare
-related_thinkers:
+related_thinkers: 
   - b-r-shenoy
-  - milton-friedman
   - friedrich-hayek
-  - eugene-black
+  - milton-friedman
+  - parth-shah
+  - rakesh-mohan
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -54,6 +56,51 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: b-r-shenoy
+    role: subject
+    reasoning: The lecture is a dedicated tribute and vindication of B. R. Shenoy delivered at his birth centenary memorial, arguing that his 1950s–1970s prescriptions anticipated virtually every major reform of the post-1991 liberalisation.
+    evidence: []
+    key_passages:
+      - quote: "She treats him as 'the real founding father of the reforms of the past 15 years.'"
+        what_it_shows: "establishes the lecture's central claim — Shenoy as originator, not mere commentator, of the 1991 reform agenda"
+      - quote: Likens Shenoy to Friedrich Hayek—both ostracised from official economic counsel—and laments that Shenoy, unlike Hayek, never lived to see his ideas adopted nor received comparable recognition.
+        what_it_shows: "frames Shenoy's intellectual martyrdom and positions him on a par with Hayek in the pantheon of liberal economists"
+      - quote: "framing Shenoy as a 'great thinker and visionary' who stood almost alone against Nehruvian planning"
+        what_it_shows: "captures the hagiographic register of the booklet's editorial framing"
+      - quote: Marshals testimony from Rakesh Mohan, Parth Shah and Milton Friedman to underline how little official acknowledgement Shenoy still receives even in the post-reform consensus.
+        what_it_shows: irony at the heart of the lecture — the reforms succeeded but Shenoy remains unacknowledged
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Hayek is invoked as Shenoy's closest intellectual parallel — both ostracised from policy corridors, but only Hayek belatedly honoured — making the comparison a pointed indictment of India's failure to acknowledge its own heterodox economists."
+    evidence:
+      - quote: "She closes by likening Shenoy to Hayek—both 'hounded out of the corridors where economic counsel was sought,' but only Hayek belatedly honoured"
+        context: "closing comparison that frames the lecture's lament about Shenoy's lack of recognition"
+    key_passages: []
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Friedman's tribute to Shenoy is marshalled as authoritative external testimony to underscore how little India has acknowledged Shenoy's contribution even compared to international recognition."
+    evidence:
+      - quote: Marshals testimony from Rakesh Mohan, Parth Shah and Milton Friedman to underline how little official acknowledgement Shenoy still receives even in the post-reform consensus.
+        context: "Friedman cited as a calibrating external witness to Shenoy's prophetic standing"
+      - quote: "quotes Milton Friedman's tribute"
+        context: "closing section deploying Friedman's words as part of the vindication"
+    key_passages: []
+  - thinker: rakesh-mohan
+    role: mention
+    reasoning: "Rakesh Mohan's testimony is cited alongside Friedman's and Parth Shah's as evidence that even sympathetic economists within the post-reform establishment have not given Shenoy adequate official acknowledgement."
+    evidence:
+      - quote: Marshals testimony from Rakesh Mohan, Parth Shah and Milton Friedman to underline how little official acknowledgement Shenoy still receives even in the post-reform consensus.
+        context: "Udeshi's roll-call of witnesses who attest to Shenoy's neglect"
+    key_passages: []
+  - thinker: parth-shah
+    role: mention
+    reasoning: "Parth Shah is cited as one of the contemporary liberal economists who, alongside Friedman and Rakesh Mohan, testifies to Shenoy's under-acknowledged contribution to Indian reform thinking."
+    evidence:
+      - quote: Marshals testimony from Rakesh Mohan, Parth Shah and Milton Friedman to underline how little official acknowledgement Shenoy still receives even in the post-reform consensus.
+        context: "Parth Shah named in the roll-call of witnesses to Shenoy's neglect"
+    key_passages: []
+
 ---
 
 # Economic Reforms and the Relevance of Prof. B. R. Shenoy

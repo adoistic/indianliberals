@@ -8,6 +8,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "sadanand-varde"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "The author invokes Gandhi's 'Do or Die' call and the 1942 Gowalia Tank resolution's vision of freedom to establish the idealism of the independence generation as the benchmark against which contemporary failures of governance are judged."
+    evidence:
+      - quote: "When Gandhiji gave the \"Do or Die\" call, many like me responded. We had dreams of what we would do after freedom."
+        context: "Gandhi's 1942 call frames the author's personal vision of independence and the standard against which subsequent political failure is measured"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "The author recalls Nehru's deference to Mavalankar's constitutional independence as Speaker — used as a historical contrast to illustrate how far contemporary parliamentary norms have deteriorated."
+    evidence:
+      - quote: when Pandit Nehru was the Prime Minister, he picked up the telephone and spoke to the Speaker Mr. Mavalankar
+        context: "Nehru's respectful treatment of the Speaker's independence is held up as the constitutional ideal that present politicians have abandoned"
+    key_passages: []
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: "The author directly addresses the perception of Manmohan Singh as the 'real villain' of post-1991 economic policies, rejecting that characterisation and defending the reform agenda against populist attacks."
+    evidence:
+      - quote: Mr. Manmohan Singh is the real villain of the piece, on account of whom we have landed ourselves into problems of growing poverty, unemployment, overpopulation
+        context: Manmohan Singh is the specific minister whose liberalisation policies the speaker defends against charges of causing poverty and unemployment
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - manmohan-singh
+
 ---
 
 _Produced below is an essay by _Sadanand Varde, published in a 1997 booklet titled [Fifty Years After.](https://indianliberals.in/content/fifty-years-after/)_ The booklet was edited and published by Indian liberal stalwart S.V. Raju, and was jointly sponsored by the Project for Economic Education and Friedrich Naumann Stiftung. _I left Elphinstone college where I was a student, joined the freedom struggle in 1942 and was jailed for a year. Hence I was labelled 'freedom fighter'. But the nomenclature 'freedom fighter' and all that is associated with it is not something that I carry with any pride or enthusiasm because many persons who carry that 'designation' have ruled the country and some of them, very distinguished ones at that, have been hauled in courts for criminal offences. Those who have been freedom fighters and those who were born after freedom, have a sense of sadness, a sense even of alienation with the sorry state of affairs of our country today. 

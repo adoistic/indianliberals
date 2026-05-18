@@ -9,6 +9,48 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "b-r-shenoy"
+thinker_mentions:
+  - thinker: b-r-shenoy
+    role: subject
+    reasoning: "The essay is a full-length intellectual biography of B. R. Shenoy, tracing his education under Austrian economics, his dissent from India's Second Five-Year Plan, his networks in the Mont Pelerin Society, and his prophetic revival after economic liberalisation."
+    evidence: []
+    key_passages:
+      - quote: "Shunned by Indian planners and economists for his radical views on India's development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West"
+        what_it_shows: establishes his marginalisation at home and his integration into the global neoliberal network
+      - quote: It was at LSE that Shenoy came in contact with Friedrich Hayek who was there to deliver lectures in the wake of the Great Depression of 1929
+        what_it_shows: pinpoints the intellectual encounter that shaped his free-market orientation
+      - quote: "Shenoy's cautionary vision of Indian planning, though, did not have much traction in his time"
+        what_it_shows: captures his isolation from mainstream policy circles despite being vindicated later
+      - quote: effusive praise from the likes of Milton Friedman, Friedrich Hayek, Peter Bauer, Henry Hazlitt
+        what_it_shows: documents the high-profile Western neoliberal recognition he received in lieu of domestic acceptance
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: Hayek is identified as the intellectual influence on Shenoy during his LSE years and is named among those who gave Shenoy effusive praise for his free-market advocacy.
+    evidence:
+      - quote: It was at LSE that Shenoy came in contact with Friedrich Hayek who was there to deliver lectures in the wake of the Great Depression of 1929
+        context: "the formative encounter shaping Shenoy's neoliberal orientation"
+      - quote: effusive praise from the likes of Milton Friedman, Friedrich Hayek, Peter Bauer, Henry Hazlitt
+        context: "the constellation of Western neoliberal luminaries who endorsed Shenoy's work"
+    key_passages: []
+  - thinker: peter-bauer
+    role: mention
+    reasoning: "Peter Bauer inducted Shenoy into the Mont Pelerin Society, wrote a tribute to him after his death, and is named as an admirer who validated Shenoy's work internationally."
+    evidence:
+      - quote: The Note happened to receive the attention of economist Peter Bauer who inducted Shenoy into the 1959 annual meeting of the MPS at Oxford
+        context: Bauer as the gateway to the international neoliberal network
+    key_passages: []
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Milton Friedman is named among the neoliberal luminaries who praised Shenoy's work, and Bhagwati's dismissal of Shenoy's 'Friedmannite variety' ideology is cited to illustrate the Indian economic establishment's hostility."
+    evidence:
+      - quote: effusive praise from the likes of Milton Friedman, Friedrich Hayek, Peter Bauer, Henry Hazlitt
+        context: "listing Friedman among the Western neoliberal validators of Shenoy's work"
+    key_passages: []
+related_thinkers: 
+  - friedrich-hayek
+  - milton-friedman
+  - peter-bauer
+
 ---
 
 _Shunned by Indian planners and economists for his radical views on India’s development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West._Bellikoth Raghunath Shenoy, the monetary economist turned public intellectual in the decades of 1950s-60s, faced marginalization in his life and a prophetic revival in the afterlife. Shunned by Indian planners and economists for his radical views on India’s development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West. The recent revival of interest in Shenoy has undoubtedly been enabled by India’s post-liberalization moment which seemingly saw economic growth enabled by policies advocated by Shenoy years earlier. Mostly espoused by Indian neoliberals, this revival undoubtedly has a vindictive streak tinged with a sense of loss of wasted decades when Shenoy’s policy prescriptions remained marginalized.    

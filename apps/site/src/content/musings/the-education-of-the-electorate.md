@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Nehru is mentioned in a passing anecdote about a candidate whose only qualification was personal access to Nehru, illustrating the corruption of the patronage system under the licence-permit raj.
+    evidence:
+      - quote: "His only claim was that he could see Pandit Nehru at any time of the day without a formal engagement for an interview!"
+        context: Nehru used as an index of political patronage — access to Nehru stood in place of merit for candidacy
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _MA Venkata Rao published this piece in the October 1961 issue of The Indian Libertarian magazine  The edition was published amid the time when India’s frontier policy failed. M. A. Venkata Rao in “The Education Of The Electorate,” highlighted the strategy needed for winning the votes through the purview of the economic standing of the voters in order to maintain a national democratic stand._

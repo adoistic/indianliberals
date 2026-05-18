@@ -11,10 +11,11 @@ contributors:
     thinker_unresolved: M. A. Rangoonwala
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - murarji-vaidya
-  - j-h-doshi
+  - c-rajagopalachari
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,31 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "N. A. Palkhivala wrote the introduction for this booklet, setting up Rangoonwala's argument as a plea for market forces and reinforcing it with Rajaji's 'permit-licence-quota raj' phrase."
+    evidence:
+      - quote: "It is framed by an introduction from the Forum's President N. A. Palkhivala and a short biographical note on the Forum's founder A. D. Shroff."
+        context: Palkhivala as the Forum president providing the framing introduction
+      - quote: "Palkhivala's introduction reinforces the address with Rajaji's \"permit-licence-quota raj\" and a Daniel Webster epigraph on civic responsibility."
+        context: "Palkhivala's substantive contribution to the pamphlet's argument"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji is cited in Palkhivala's introduction for having coined the 'permit-licence-quota raj' phrase, which anchors the pamphlet's central critique of Indian economic controls."
+    evidence:
+      - quote: "attacks the \"permit-licence-quota raj\" that Rajaji had named"
+        context: "Palkhivala's introduction credits Rajaji's coinage as the conceptual anchor of the pamphlet's critique"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "A. D. Shroff is referenced in the prefatory biographical note as the Forum's founder, situating the Silver Jubilee address in his legacy."
+    evidence:
+      - quote: "a short biographical note on the Forum's founder A. D. Shroff"
+        context: "Shroff named as the Forum's founder in the pamphlet's prefatory material"
+    key_passages: []
+
 ---
 
 # FREE MARKET ECONOMY —Key to Economic Progress and Freedoms

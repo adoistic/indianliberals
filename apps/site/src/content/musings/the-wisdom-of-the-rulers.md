@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Karl Marx's historical materialism is discussed as the philosophical foundation of the communist governing elite, presented as the modern counterpart to ancient Indian and Platonic ideals of the ruler."
+    evidence:
+      - quote: today communism has built itself on the theories of Karl Marx
+        context: comparison of communist dogma to Catholic theology, both demanding unquestioning loyalty from their adherents
+      - quote: This is the historical and economic determinism of Karl Marx
+        context: "summary of Marxist dialectical materialism as the communists' governing philosophy"
+    key_passages: []
+related_thinkers: 
+  - karl-marx
+
 ---
 
 _The qualifications, characteristics as well as the ideal values of rulers has been debated by various philosophers for ages. These philosophical debates have informed modern day democratic setups and they continue to catch the eye of those who seek to engage in the relationship between the ruler and the citizen. The following piece, published in the December 1961 edition of the Indian Libertarian magazine elucidates on the characteristics of rulers vis-a-vis ideas from ancient Indian thinkers. _Now that the principal parties in all the land have published their manifestos and there is but a short period for the voters to digest their programmes and assess their merits before the general elections in February 1962, it is worthwhile reminding ourselves of what qualifications and wisdom we wish the rulers to possess to deserve our choice and approval. 

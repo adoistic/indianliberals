@@ -8,6 +8,35 @@ language: "en"
 needs_review: true
 draft: false
 author: "bal-gangadhar-tilak"
+thinker_mentions:
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is contrasted with Tilak as the leader of moderate liberalism who believed in elite-led reform and constitutional means, serving as the foil to Tilak's mass-based approach."
+    evidence:
+      - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
+        context: names Gokhale as the central figure in the moderate liberal leadership
+      - quote: Gokhale firmly believed that the ordinary citizens of the country must not become a part of the struggle against the imperial state
+        context: "defines Gokhale's elitist approach as the foil to Tilak's mass mobilisation strategy"
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Dadabhai Naoroji is listed among the moderate liberal leaders of the late 19th century who formed the political context in which Tilak operated.
+    evidence:
+      - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
+        context: "situates Naoroji within the constellation of moderate liberals against whom Tilak's distinctiveness is measured"
+    key_passages: []
+  - thinker: pherozeshah-mehta
+    role: mention
+    reasoning: "Pherozeshah Mehta is named among the moderate liberal leadership of the late 19th century, part of the political context that shaped and constrained Tilak's reception."
+    evidence:
+      - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
+        context: lists Mehta as one of the English-educated moderate leaders whose approach Tilak challenged
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - pherozeshah-mehta
+
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._

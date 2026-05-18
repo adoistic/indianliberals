@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: "This is the 7th C. D. Deshmukh Memorial Lecture; Deshmukh is the man in whose memory B. K. Nehru delivers the lecture, and the speaker offers extended personal recollections of Deshmukh's character and career at the Reserve Bank."
+    evidence:
+      - quote: I am thankful to the India International Centre for having invited me to deliver the Seventh C.D. Deshmukh Memorial Lecture thus giving me an opportunity to pay my tribute to a man whom I knew well
+        context: Deshmukh identified as the memorial subject and personal acquaintance of the speaker
+      - quote: Sir Chintaman Deshmukh, by which title his contemporaries knew him better, was then Secretary of the Reserve Bank
+        context: "Deshmukh's career at the Reserve Bank described in the speaker's tribute"
+    key_passages: []
+related_thinkers: 
+  - chintaman-deshmukh
+
 ---
 
 _A publication of the [Project for Economic Education](https://indianliberals.in/content/the-retreat-after-socialism/), co-sponsored by the Friedrich Naumann Foundation, the following text is a reproduction of the 7th C. D. Deshmukh Lecture. The lecture was conducted by the India International Centre and delivered by B. K. Nehru. Through the lecture, he examined India's experiment with democratic socialism and why socialism retreated from the global political scenario. _I am thankful to the India International Centre for having invited me to deliver the Seventh C.D. Deshmukh Memorial Lecture thus giving me an opportunity to pay my tribute to a man whom I knew well and with whom I had the privilege of working for a number of years in various capacities. In fact, such knowledge of the mysteries of high finance that I ever had was due to the meticulous care which he took in chalking out the programme for training for me when I went to the Reserve Bank of India to be trained in those mysteries, as a fresh recruit to the then newly constituted finance and commerce pool of the Government of India 50 years ago. 

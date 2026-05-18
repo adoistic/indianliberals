@@ -11,13 +11,11 @@ contributors:
     thinker_unresolved: M. A. Rangoonwala
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - murarji-vaidya
-  - j-h-doshi
   - c-rajagopalachari
-  - subhas-chandra-bose
-  - jawaharlal-nehru
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -50,6 +48,29 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_series_number
   - no_isbn
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "N. A. Palkhivala wrote the introduction to this pamphlet, framing Rangoonwala's argument and explicitly endorsing his defence of profit while attacking the 'permit-licence-quota raj' that Rajaji had named."
+    evidence:
+      - quote: "Palkhivala's introduction frames the booklet's polemical ambition: he praises Rangoonwala for refusing to apologise for profit, indicts the \"permit-licence-quota raj\" that Rajaji had named, and invokes Daniel Webster on the duty of citizens to safeguard their own freedom."
+        context: "Palkhivala as the introductory voice situating Rangoonwala's address in the Forum tradition"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji is invoked by Palkhivala in his introduction as the coiner of the phrase 'permit-licence-quota raj' that frames the entire pamphlet's critique of Indian economic governance."
+    evidence:
+      - quote: "indicts the \"permit-licence-quota raj\" that Rajaji had named"
+        context: "Palkhivala's introduction credits Rajaji with the phrase that crystallises the pamphlet's indictment of Indian economic governance"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "A. D. Shroff is named in the pamphlet's prefatory biographical sketch as the Forum's founder-president, situating this Silver Jubilee address in his institutional legacy."
+    evidence:
+      - quote: "a short biographical sketch of the Forum's founder-president A. D. Shroff"
+        context: "Shroff invoked as the founder-president in the pamphlet's prefatory matter"
+    key_passages: []
+
 ---
 
 # FREE MARKET ECONOMY —Key to Economic Progress and Freedoms

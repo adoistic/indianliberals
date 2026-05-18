@@ -9,6 +9,26 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "minoo-masani"
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: Masani is identified as a founding member of the ICCF, the editor of Freedom First magazine, and a central figure in Indian liberal resistance to the Emergency.
+    evidence:
+      - quote: Freedom First magazine in 1952, edited by Minoo Masani
+        context: credits Masani as editor of the liberal magazine
+      - quote: Freedom First, another Indian liberal magazine run by enterprising Minoo Masani, played an even more active role in fighting the Emergency.
+        context: "closing note underscoring Masani's editorial leadership during the Emergency"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's Emergency and her government's censorship policies are the political backdrop against which Quest's editorial stance is assessed throughout the article."
+    evidence:
+      - quote: India under the Emergency (1975-77) imposed by Indira Gandhi saw the suspension of fundamental rights, electoral democracy, and press freedom.
+        context: "establishes the authoritarian context driving the article's analysis"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+
 ---
 
 _In what could be seen as the unfolding of high modernist ideology, Quest’s criticism took the form of rationalist railing against the religious objection to family planning. In its support of forced family planning and sterilization, the limits of Indian liberalism become apparent in terms of its rationalist high modernity and economic anxiety._India under the Emergency (1975-77) imposed by Indira Gandhi saw the suspension of fundamental rights, electoral democracy, and press freedom. A recent book aptly calls this authoritarian turn India’s first dictatorship. For the better, the dictatorship had its detractors as well who faced the risk of prison time yet resisted Indira Gandhi’s throttling of India’s audacious democratic experiment. India’s liberal intelligentsia formed a small but significant part of this resistance. One of the major intellectual outposts for Indian liberals during this period was _Quest_ magazine. Published by the Indian Committee for Cultural Freedom (ICCF), _Quest _sought to advance the cause of cultural freedom and anti-communism in India.

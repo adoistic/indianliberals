@@ -9,6 +9,30 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "pherozeshah-mehta"
+thinker_mentions:
+  - thinker: pherozeshah-mehta
+    role: subject
+    reasoning: The article profiles Sir Pherozeshah Mehta as a founding member of the INC, lawyer-politician, and champion of Bombay municipal self-governance.
+    evidence: []
+    key_passages:
+      - quote: Sir Pherozeshah Mehta was part of this grouping, which went on to found Indian National Congress later in 1885.
+        what_it_shows: establishes his foundational role in Indian nationalism
+      - quote: "Mehta has been dubbed as the \"Father of the Municipal Government in Bombay\", both for his involvement in and advocacy for local self-governance."
+        what_it_shows: identifies his most important practical legacy
+      - quote: While Dadabhai Naoroji was the patron saint of the liberal nationalism, the Bombay-based, lawyer-dominated liberal intelligentsia comprised of a remarkable set of politicians.
+        what_it_shows: situates Mehta within the Bombay liberal tradition alongside Naoroji
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Dadabhai Naoroji is described as the patron saint of liberal nationalism and the hub of Indian liberal activism in London, where Mehta forged his early liberal connections.
+    evidence:
+      - quote: While Dadabhai Naoroji was the patron saint of the liberal nationalism, the Bombay-based, lawyer-dominated liberal intelligentsia comprised of a remarkable set of politicians.
+        context: "establishes Naoroji as the senior figure of liberal nationalism against whom Mehta's circle is defined"
+      - quote: "Naoroji's place in London was the hub of Indian liberal activists and it is here that Mehta made valuable connections."
+        context: "identifies Naoroji's London presence as the network node that shaped Mehta's liberal formation"
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+
 ---
 
 _A prominent voice of the liberal strand of the nationalist struggle was that of Sir Pherozeshah Mehta. A lawyer by education and among the founders of INC, Mehta advocated for local self-governance. His work towards the same in Bombay earned him the title of the "Father of the Municipal Government in Bombay."   _The enduring role of the Bombay-based moderate liberals in demanding political freedom and self-governance from the British Raj has been overshadowed by the subsequent turns in the Indian nationalist storytelling. Both the radicalism of the extremists and revolutionaries as well as the mass subaltern politics of Mahatma Gandhi have found a viable political constituency in the Republic of India. However, the shrinking of the liberal space and a clear absence of substantial liberal constituency have left the moderate nationalists heirless, so to speak.

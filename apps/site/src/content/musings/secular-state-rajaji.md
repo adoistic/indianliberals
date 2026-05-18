@@ -8,6 +8,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "rajaji"
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: author
+    reasoning: The body closing note explicitly attributes the article to C. Rajagopalachari (Rajaji), identifying it as first published in the August 1957 Swarajya Magazine; Phase A may have missed this if frontmatter author was blank.
+    evidence:
+      - quote: This article by C. Rajagopalachari (Rajaji) first appeared in the August 1957 issue of Swarajya Magazine.
+        context: "explicit byline attribution in the closing editor's note"
+    key_passages: []
+  - thinker: alexis-de-tocqueville
+    role: mention
+    reasoning: "Rajaji cites Tocqueville's observation that Americans regard religion as indispensable to republican institutions, using it to argue the Indian secular state aligns with the American rather than the European conception of secularism."
+    evidence:
+      - quote: The American people hold religion to be indispensable to the maintenance of republican institutions (Tocqueville).
+        context: Rajaji invokes Tocqueville to demonstrate the pro-religion underpinning of American secularism
+    key_passages: []
+related_thinkers: 
+  - alexis-de-tocqueville
+  - c-rajagopalachari
+
 ---
 
 What the Indian Constitution-makers aimed at was not a general indifference to religion but a tolerant and broadminded appreciation of all creeds and denominations and a respect for one another's religious beliefs and practices.

@@ -10,8 +10,9 @@ contributors:
   - role: introduction
     thinker: a-d-shroff
     toc_index: 1
-related_thinkers:
-  - eugene-black
+related_thinkers: 
+  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,15 @@ missing_metadata_flags:
   - no_printed_publication_year
   - editor_not_named
   - individual_article_bylines_absent
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff signs the booklet's framing introduction as Forum President, using it to argue that the public sector systematically underperforms the private sector; his aphorism also closes the volume."
+    evidence:
+      - quote: "framed by an introduction signed by A. D. Shroff, the Forum's President"
+        context: "the summary establishes Shroff as the author of the booklet's argumentative frame, not merely an epigraph source"
+    key_passages: []
+
 ---
 
 # A Survey of State Enterprises in India

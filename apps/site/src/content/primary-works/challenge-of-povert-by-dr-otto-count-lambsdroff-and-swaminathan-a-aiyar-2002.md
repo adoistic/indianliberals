@@ -15,11 +15,12 @@ contributors:
     toc_index: 2
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
-  - milton-friedman
-  - jagdish-bhagwati
+related_thinkers: 
   - hernando-de-soto
+  - jagdish-bhagwati
   - jawaharlal-nehru
+  - milton-friedman
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -60,6 +61,40 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Lambsdorff cites the 'Economic Freedom of the World' index as originally masterminded by Milton Friedman to provide empirical evidence that economic freedom correlates with growth, lower corruption and higher life expectancy."
+    evidence:
+      - quote: "drawing on the Fraser/FNF 'Economic Freedom of the World' index (originally masterminded by Milton Friedman) and Jagdish Bhagwati's defence of WTO-led liberalisation, Lambsdorff argues that economic freedom correlates with growth, higher life expectancy, less corruption and lower income inequality"
+        context: "Friedman's intellectual authorship of the EFW index is cited as empirical ballast for the classical-liberal case against poverty"
+    key_passages: []
+  - thinker: jagdish-bhagwati
+    role: mention
+    reasoning: "Lambsdorff pairs Bhagwati's defence of WTO-led liberalisation with the Economic Freedom index data to argue that openness to trade reduces poverty and increases growth."
+    evidence:
+      - quote: "Jagdish Bhagwati's defence of WTO-led liberalisation, Lambsdorff argues that economic freedom correlates with growth, higher life expectancy, less corruption and lower income inequality"
+        context: "Bhagwati cited as a liberal trade authority supporting the pamphlet's anti-poverty argument"
+    key_passages: []
+  - thinker: hernando-de-soto
+    role: mention
+    reasoning: "De Soto's argument that defective property rights trap the poor is the pivotal theoretical claim in Lambsdorff's essay, used to recast property rights as an instrument of poverty alleviation rather than merely a safeguard of existing wealth."
+    evidence:
+      - quote: "leaning heavily on Hernando de Soto's argument that defective property rights are the principal cause of poverty in the global South"
+        context: "De Soto's thesis is Lambsdorff's central analytical anchor for the property-rights solution to poverty"
+      - quote: Hernando de Soto, he contends that the poor in the South already control assets (huts, plots, slum housing) but lack the legal instruments to transform them into capital
+        context: "the 'dead capital' argument is the operational policy prescription flowing from de Soto's framework"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Aiyar names Nehru as the progenitor of the post-colonial autarky policy — equating globalisation with imperialism — whose legacy of self-sufficiency and socialism caused India's share of world trade to collapse from 2.5% to 0.4%."
+    evidence:
+      - quote: leaders such as Nehru equated globalisation with 19th-century imperialism, opted for self-sufficiency, socialism and one-party rule, and produced over a hundred weak, aid-dependent states
+        context: Nehru is the named exemplar of the post-colonial error that autarky equates with liberation
+      - quote: "India's share of world trade fell from 2.5 percent at independence to 0.4 percent by 1985 while Singapore and Taiwan, derided as neo-colonial puppets, grew rich"
+        context: the empirical indictment of Nehruvian self-sufficiency
+    key_passages: []
+
 ---
 
 # The Challenge of Poverty

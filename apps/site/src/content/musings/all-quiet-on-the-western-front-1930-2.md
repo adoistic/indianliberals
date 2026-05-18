@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is invoked by the fictional Lenin in Seervai's Socratic dialogue as the intellectual master whose teachings underpin the Communist theory of justice and state coercion."
+    evidence:
+      - quote: "As my master Marx taught, there is but one evil: the exploitation of man by man."
+        context: "In Seervai's fictional dialogue, Lenin credits Marx's doctrine as the basis for Communist justice theory — used to expose the fallacy of Leninist coercion"
+    key_passages: []
+related_thinkers: 
+  - karl-marx
+
 ---
 
 The Communist doctrine crucially ignores the way incentives shape human behaviour and the role of the agency. Moreover, the Communist deployment of state coercion as a tool to create a Just Society translates into an Orwellian caricature of some animals being more equal than others.

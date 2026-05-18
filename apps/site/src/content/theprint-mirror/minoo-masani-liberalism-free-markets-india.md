@@ -5,11 +5,31 @@ pubDate: 2026-01-10T15:51:16
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-free-markets-india/2823730/"
 themes: ["indian-liberals-matter", "liberalism", "socialism"]
-related_thinkers: ["minoo-masani"]
+related_thinkers: 
+  - carlos-romulo
+  - ludwig-erhard
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Erhard is cited as the architect of West Germany's economic miracle, held up as living proof that free-market liberal methods produce prosperity far faster than socialist alternatives."
+    evidence:
+      - quote: West Germany, with its German miracle produced by Dr. Erhard, a great Liberal
+        context: "Erhard's West German success is the key empirical exhibit in Masani's case for liberal economics over socialism"
+    key_passages: []
+  - thinker: carlos-romulo
+    role: mention
+    reasoning: "Carlos Romulo's pithy answer — 'I am going forward' — when asked whether he was going left or right is quoted as an exemplary statement of the liberal pragmatic spirit."
+    evidence:
+      - quote: There is a great Liberal in the Philippines, He is Carlos Romulo, who represented his country with great distinction in the UN for many years.
+        context: introduces Romulo as an authoritative Asian liberal voice
+      - quote: "Carlos Romulo, a good Liberal, answered: \"I am going forward.\""
+        context: "the punchline: Romulo's refusal of the left-right binary encapsulates the liberal stance Masani advocates"
+    key_passages: []
 
 ---
 

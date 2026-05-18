@@ -8,11 +8,9 @@ authors:
   - j-m-lobo-prabhu
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - p-c-mahalanobis
-  - richard-plaster
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +50,15 @@ physical:
 missing_metadata_flags:
   - no_toc
   - no_series_number
+thinker_mentions:
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: "Mahalanobis's productivity-per-rupee figures are cited to show that agriculture creates far more employment per crore of investment than heavy industry, and the Planning Commission is criticised for ignoring these ratios from its own chief statistician."
+    evidence:
+      - quote: Lobo Prabhu marshals productivity-per-rupee figures from Prof. Mahalanobis to show that agriculture and roads create far more employment per crore of investment than heavy industry, and criticises the Planning Commission for ignoring these ratios
+        context: "Mahalanobis's own data is deployed against the Mahalanobis strategy's heavy-industry bias"
+    key_passages: []
+
 ---
 
 # A Job-Oriented Fifth Five-Year Plan

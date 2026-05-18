@@ -7,8 +7,9 @@ work_type: letter
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - morarji-desai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -39,6 +40,15 @@ physical:
   format: leaflet / pamphlet (FFE leaflet, 4 pp.)
 missing_metadata_flags:
   - author_is_pseudonym
+thinker_mentions:
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Peregrine traces the LIC's target-chasing culture back to Morarji Desai's 1959 Lok Sabha exhortation to reach Rs. 1,000 crores of new business, framing Desai's political pressure as the root cause of the Corporation's incentive distortions."
+    evidence:
+      - quote: "Peregrine traces the LIC's promotional culture back to Morarji Desai's 1959 Lok Sabha exhortation to reach Rs. 1,000 crores of new business as soon as possible"
+        context: "incentive-analysis section; Desai's parliamentary target is identified as the originating political pressure behind the Corporation's mis-selling culture"
+    key_passages: []
+
 ---
 
 # An Open Letter to L.I.C.

@@ -12,8 +12,10 @@ contributors:
     thinker: shyamala-gopinath
   - role: editor
     thinker_unresolved: S.S. Bhandare
-related_thinkers:
+related_thinkers: 
   - m-r-pai
+  - y-v-reddy
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +53,26 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The address is delivered at the 4th M. R. Pai Memorial Award Function, and Gopinath explicitly positions her remarks as a tribute to Pai as 'the doyen of consumer activism in India,' making his legacy the central ethical frame."
+    evidence:
+      - quote: Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award Function on 8 April 2008
+        context: "opening identification of the occasion; the address exists in the service of honouring Pai's legacy"
+      - quote: "She positions her remarks as a tribute to the late M. R. Pai, \"the doyen of consumer activism in India,\""
+        context: first substantive sentence; Gopinath explicitly names Pai as the person whose legacy she is honouring
+    key_passages: []
+  - thinker: y-v-reddy
+    role: mention
+    reasoning: "Gopinath cites Y. V. Reddy's 2004-05 policy speech on the exclusionary tendencies of post-reform banking, and closes by quoting his definition of banking as a trust-based relationship."
+    evidence:
+      - quote: "citing Y. V. Reddy's 2004-05 policy speech on the exclusionary tendencies of post-reform banking"
+        context: "financial-inclusion section; Reddy's diagnosis frames the problem Gopinath is committed to solving"
+      - quote: "She closes by quoting Reddy on banking as a \"trust-based relationship\""
+        context: "final sentence; Reddy's formulation is the normative aspiration of the whole address"
+    key_passages: []
+
 ---
 
 # Banks' Relationship with Customers - Evolving Perspectives

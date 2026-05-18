@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is quoted for his evocative description of India's condition under British domination, which Palkhivala invokes to show how the Emergency replicated that oppressive helplessness in independent India."
+    evidence:
+      - quote: "Jawaharlal Nehru's description of the condition of India under British domination must have come home with the atrocities of the Emergency to countless people:"
+        context: "Palkhivala uses Nehru's own words about colonial oppression to indict the Emergency as a form of indigenous colonialism"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/the-tasks-before-a-free-people-by-n-a-palkhivala-may-20-1977/) Authored by Indian jurist and liberal economist Nani Palkhivala, the text is based on an open letter written to the then Prime Minister, originally published in 1977. Marking the end of the Emergency, the 1977 Parliamentary election was among the most important in Indian political history.

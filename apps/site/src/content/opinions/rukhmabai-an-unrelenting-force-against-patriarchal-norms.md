@@ -9,6 +9,26 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "rukhmabai"
+thinker_mentions:
+  - thinker: rukhmabai
+    role: subject
+    reasoning: The piece is a full profile of Rukhmabai, covering her landmark legal case, her writings against child marriage, and her career as the first practising female doctor in British India.
+    evidence: []
+    key_passages:
+      - quote: Rukhmabai went on to become the first practising female doctor in British India.
+        what_it_shows: establishes her historic medical achievement
+      - quote: Married off at the age of eleven, Rukhmabai continued to stay with her parents and prioritized her education. Her bold refusal to stay with her husband even after almost a decade of marriage resulted in the landmark case
+        what_it_shows: captures the defiant act that made her legally historic
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: Raja Ram Mohan Roy is mentioned as the paradigmatic male socio-religious reformer whose prominence contrasts with the neglected contributions of female reformers like Rukhmabai.
+    evidence:
+      - quote: "While most of us are aware of the works of the prominent male socio-religious reformers like Raja Rammohan Roy, the contributions of the female reformers, at a time when Indian society was still at odds with the concept of women's rights and liberty, need to be highlighted."
+        context: "Roy is invoked as the well-known benchmark against which Rukhmabai's neglected contributions are measured"
+    key_passages: []
+related_thinkers: 
+  - raja-ram-mohan-roy
+
 ---
 
 _Rukhmabai’s contributions in the areas of medicine and social justice formed the foundation of the subsequent Indian feminist movements._ Colonial India witnessed the rise of social reformers from various parts of the country. While most of us are aware of the works of the prominent male socio-religious reformers like Raja Rammohan Roy, the contributions of the female reformers, at a time when Indian society was still at odds with the concept of women’s rights and liberty, need to be highlighted.

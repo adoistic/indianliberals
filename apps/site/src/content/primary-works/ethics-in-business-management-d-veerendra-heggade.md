@@ -8,11 +8,11 @@ authors:
   - d-veerendra-heggade
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - nani-palkhivala
-  - mahatma-gandhi
   - eugene-black
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +45,29 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Nani A. Palkhivala presided over the lecture, lending the address institutional credibility from a figure closely associated with constitutional liberalism and the Forum of Free Enterprise's legal tradition."
+    evidence:
+      - quote: "delivered by Dharmasthala's Dharmadhikari D. Veerendra Heggade in Mumbai on 7 January 1998 under the chairmanship of Nani A. Palkhivala"
+        context: "Palkhivala named as presiding officer, framing the lecture within the Forum's liberal intellectual setting"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "An A. D. Shroff aphorism on free enterprise frames the front matter of the booklet, positioning the ethics lecture within the Forum's classical-liberal project that Shroff founded."
+    evidence:
+      - quote: "Front-matter pairs the lecture with an A.D. Shroff aphorism on free enterprise, and the back cover with a Eugene Black quotation framing private enterprise as 'an affirmative good'"
+        context: "Shroff's aphorism used to frame the booklet within the Forum of Free Enterprise's ideological tradition"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black's quotation framing private enterprise as 'an affirmative good' provides the back-cover ideological anchor for the booklet, situating Heggade's dharmic business ethics within the Forum's pro-enterprise tradition."
+    evidence:
+      - quote: "Front-matter pairs the lecture with an A.D. Shroff aphorism on free enterprise, and the back cover with a Eugene Black quotation framing private enterprise as 'an affirmative good'"
+        context: "Black's aphorism used as the booklet's closing ideological statement"
+    key_passages: []
+
 ---
 
 # Ethics in Business and Management

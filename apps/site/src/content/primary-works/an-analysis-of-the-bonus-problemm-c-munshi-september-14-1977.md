@@ -8,10 +8,9 @@ authors:
   - m-c-munshi
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - m-c-chagla
-  - john-stuart-mill
-  - karl-marx
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +47,15 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - byline_unresolved_in_authority
+thinker_mentions:
+  - thinker: m-c-chagla
+    role: mention
+    reasoning: "Munshi traces the statutory entitlement trajectory of bonus through M. C. Chagla's landmark 1944 General Motors Bombay High Court ruling, which he identifies as a key step in converting bonus from ex-gratia payment to legal right."
+    evidence:
+      - quote: "via M. C. Chagla's 1944 General Motors ruling, the 1950 Labour Appellate Tribunal \"available surplus\" formula"
+        context: "key-points bullet tracing the legal genealogy of bonus; Chagla's ruling is the first judicial inflection point in the statutory history"
+    key_passages: []
+
 ---
 
 # An Analysis of the Bonus Problem

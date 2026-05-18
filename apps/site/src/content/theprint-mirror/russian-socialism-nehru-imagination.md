@@ -5,11 +5,29 @@ pubDate: 2025-09-13T11:58:15
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/russian-socialism-nehru-imagination/2742456/"
 themes: ["jawaharlal-nehru", "planning-commission", "socialism"]
-related_thinkers: ["ma-venkata-rao"]
+related_thinkers: 
+  - jawaharlal-nehru
+  - peter-bauer
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: peter-bauer
+    role: mention
+    reasoning: Bauer is invoked as an economic specialist who concluded after studying Indian plans that the government prioritises socialist ideology over actual development, and that dismantling controls would accelerate progress.
+    evidence:
+      - quote: "Professor Bauer (specialist in the economy of backward peoples in the University of London) has said after a study of Indian Plans and Policies that the Indian Government seems more interested in realising socialism than in economic development itself!"
+        context: "Bauer's expert judgment grounds the essay's argument that socialist ideology is an obstacle to Indian development"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's imagination is identified as the key variable: his total capture by Soviet-style socialism at the moment of independence set India's disastrous planning trajectory, while others in Parliament lacked the imagination to envision alternatives."
+    evidence:
+      - quote: The imagination of Shri Jawaharlal Nehru was completely dominated by the socialist programme of centralised economy after the pattern of Soviet Russia.
+        context: "central thesis: Nehru's ideological commitment to Soviet planning blocked India from developing an alternative development model"
+    key_passages: []
 
 ---
 

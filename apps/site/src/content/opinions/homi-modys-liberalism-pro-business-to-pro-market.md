@@ -9,6 +9,89 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "homi-mody"
+thinker_mentions:
+  - thinker: homi-mody
+    role: subject
+    reasoning: "The essay profiles Homi Mody's transition from a pro-business constitutionalist in the colonial era to a pro-market Swatantra Party member, tracing his evolving liberalism through his long career in business, legislature, and party politics."
+    evidence: []
+    key_passages:
+      - quote: Temperamentally liberal and a constitutionalist, Homi Mody straddled the public life in both colonial and Independent India as a member of two outsized minority groupings, i.e. big business and Parsis
+        what_it_shows: establishes his dual minority identity and liberal temperament as the defining features of his public persona
+      - quote: It is in his advocacy of Indian industrial interests that Mody takes an illiberal turn
+        what_it_shows: "the essay's frank acknowledgement of his protectionist contradiction within his liberal profile"
+      - quote: For Homi Mody, excessive regulation and increased outlays on planning posed a threat to economic freedom inherent in a democracy
+        what_it_shows: his mature pro-market formulation connecting economic freedom with democratic freedom
+      - quote: What remained constant, though, was his liberal conviction and sense of humour
+        what_it_shows: "the essay's concluding characterisation of the thread that unified his shifting political positions"
+  - thinker: pherozeshah-mehta
+    role: mention
+    reasoning: "Pherozeshah Mehta is named as Homi Mody's political mentor and ideological model, with both men described as Parsis who dominated the Bombay municipality and shared a liberal-by-instinct temperament."
+    evidence:
+      - quote: "Mody's biographer called him a liberal by instinct in the mould of Pherozeshah Mehta. Mehta was also his political mentor"
+        context: "establishing Mehta as both the philosophical template and personal guide for Mody's liberalism"
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: "Dadabhai Naoroji is cited as a liberal predecessor who propounded the drain of wealth theory, illustrating the colonial-era liberal tradition of economic nationalism that Homi Mody's generation inherited."
+    evidence:
+      - quote: Dadabhai Naoroji propounded the drain of wealth theory
+        context: "listing Naoroji alongside Gokhale and Ranade as the colonial liberal tradition of economic nationalism that contextualises Mody's pro-tariff stance"
+    key_passages: []
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "Ranade is named as a liberal predecessor who criticised free trade in defence of Indian industries, situating Mody's colonial-era protectionism within a broader liberal nationalist tradition."
+    evidence:
+      - quote: Justice Ranade criticised the conservative statesmen for sacrificing Indian interests in the name of free trade
+        context: Ranade cited as precedent for the liberal nationalist tradition of selective protectionism
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is mentioned as a liberal predecessor who argued for infant industry protection, contextualising Mody's colonial-era protectionist advocacy within the mainstream liberal nationalist economic tradition."
+    evidence:
+      - quote: Gokhale argued for the infant industry protection
+        context: "placing Mody's protectionism within the liberal nationalist economic tradition inaugurated by Gokhale"
+    key_passages: []
+  - thinker: rajaji
+    role: mention
+    reasoning: "Rajaji is presented as the founding figure of the Swatantra Party whom Masani persuaded to join, with Rajaji's critical columns in Swarajya and his bemoaning of the 'rich men's lobby' charge contextualising Mody's role."
+    evidence:
+      - quote: "Calumny has had a start, and it keeps on maintaining the falsehood that the Swatantra Party is a rich men's lobby"
+        context: "Rajaji's direct refutation of the charge used to dismiss Mody's party role"
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Minoo Masani is presented as the political entrepreneur who persuaded Mody to contest the 1957 election and then to join the Swatantra Party, making him the key agent in Mody's transition from business liberal to pro-market politician."
+    evidence:
+      - quote: The incorrigible Masani persuaded Homi Mody and a few other friends to fight the 1957 general election
+        context: Masani as the activist force drawing Mody into the electoral arena
+      - quote: Masani wrote to Mody on 19th June offering a position in the organising committee
+        context: "Masani's specific invitation cementing Mody's role in the Swatantra Party"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is cited as the political target of Mody's foreign policy critiques and the PM who received the industrialist delegation in 1956, representing the adversarial relationship between the Swatantra Party and the planning state."
+    evidence:
+      - quote: In January 1956, he was part of the delegation of industrialists to the PM Nehru
+        context: "Mody's direct engagement with Nehru to register business concerns about the planning regime"
+    key_passages: []
+  - thinker: v-k-krishna-menon
+    role: mention
+    reasoning: "V.K. Krishna Menon is criticised by Mody for his decision to continue supporting China's UNSC membership and his management of India's defence during the 1962 war, with Mody demanding his resignation."
+    evidence:
+      - quote: He demanded the withdrawal of the Indian ambassador to China; resignation of the Defence Minister
+        context: "Mody's demand for Krishna Menon's resignation as Defence Minister after the 1962 war debacle"
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - jawaharlal-nehru
+  - mahadev-govind-ranade
+  - minoo-masani
+  - pherozeshah-mehta
+  - rajaji
+  - v-k-krishna-menon
+
+
 ---
 
 _For Homi Mody, excessive regulation and increased outlays on planning posed a threat to economic freedom inherent in a democracy. He would use the business organisations' platform to voice his criticism._On the ideological inclinations of Indian business houses in the colonial era, Political Scientist Stanley Kochanek makes an interesting generalisation. The Bombay-based business houses sought to cooperate with the British Raj while the Marwaris were mostly aligned with the Gandhian, nationalist Congress. The businessman cum politician Homi Mody fell in the former faction. Temperamentally liberal and a constitutionalist, Homi Mody straddled the public life in both colonial and Independent India as a member of two outsized minority groupings, _i.e. _big business and Parsis. Mody’s relative obscurity in all the flavours of the “idea of India” warrants a novel approach towards engaging with India’s past.

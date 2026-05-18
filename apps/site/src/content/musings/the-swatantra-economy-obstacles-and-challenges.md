@@ -7,6 +7,27 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: This is the Rajaji Birthday Lecture, delivered in honour of Rajagopalachari; the speaker quotes Rajaji as vindicated by the liberalisation process, making him the ideological touchstone of the entire address.
+    evidence:
+      - quote: Prof. Gangadhar Gadgil who was invited to deliver the Rajaji Birthday Lecture in 1994, by the Rajaji Foundation.
+        context: Rajaji named as the founding figure in whose honour this lecture series was established
+      - quote: Rajaji and those like Minoo Masani who shared his views stand vindicated. A Swatantra economy is enlarging and is taking shape.
+        context: "Rajaji's liberal economic vision declared vindicated by post-1991 liberalisation"
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Masani is explicitly named alongside Rajaji as a co-visionary whose views on the Swatantra economy stand vindicated by India's post-1991 liberalisation."
+    evidence:
+      - quote: Rajaji and those like Minoo Masani who shared his views stand vindicated. A Swatantra economy is enlarging and is taking shape.
+        context: Masani credited as a co-architect of the liberal economic vision that 1991 reforms validated
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - minoo-masani
+
 ---
 
 _The following piece was originally published in the October 1994 edition of the [Freedom First Magazine.](http://www.freedomfirst.in/issue/issue.aspx?issue=423) It contains important excerpts from the speech of Prof. Gangadhar Gadgil who was invited to deliver the Rajaji Birthday Lecture in 1994, by the Rajaji Foundation. _Prof. Gangadhar Gadgil delivered this year's. Rajaji Birthday Lecture. The subject: "The Swatantra Economy - Obstacles and Challenges". Referring to the new economic policy, Prof. Gadgil observed: "Even five years ago, it seemed impossible that such far-reaching changes in our economic policy and system would take place so soon and on such a scale. But the seemingly impossible appears to be taking place. Rajaji and those like Minoo Masani who shared his views stand vindicated. A Swatantra economy is enlarging and is taking shape." 

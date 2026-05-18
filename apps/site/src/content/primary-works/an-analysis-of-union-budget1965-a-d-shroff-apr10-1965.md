@@ -8,10 +8,9 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
-  - nani-palkhivala
-  - m-r-pai
+related_thinkers: 
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +42,15 @@ physical:
 missing_metadata_flags:
   - no_toc
   - no_theme_vocabulary_supplied
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Shroff's analysis opens by praising Finance Minister T. T. Krishnamachari for the budget's unusual transparency and simplification of the income-tax structure, before pivoting to criticism."
+    evidence:
+      - quote: "He opens by praising Finance Minister T. T. Krishnamachari for being unusually transparent — for the first time the budget papers, especially the Economic Survey, allow the tax-payer to see the country's true position"
+        context: "opening of Shroff's analysis; TTK is the budget's author and Shroff's immediate interlocutor throughout the pamphlet"
+    key_passages: []
+
 ---
 
 # An Analysis of Union Budget 1965-66

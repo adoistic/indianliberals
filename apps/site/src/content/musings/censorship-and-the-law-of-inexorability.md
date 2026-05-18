@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's government's ban on the film 'Nine Hours to Rama' is presented as a deeply ironic case of India's self-styled liberal PM suppressing artistic freedom on politically sensitive grounds."
+    evidence:
+      - quote: That it was banned by the government run by Jawaharlal Nehru, the quintessential liberal, makes the assault on creative freedom even more deplorable.
+        context: "Nehru's censorship act is used to show that restrictions on artistic freedom are not unique to authoritarian governments — even liberal ones capitulate"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's government's handling of the film 'Aandhi' is cited as another instance of political interference with artistic expression, extending the pattern of censorship across generations."
+    evidence:
+      - quote: Directed by Gulzar, Aandhi (1975) was said to be based on triangle of Indira Gandhi-Nehru-Feroze Gandhi relationships. Its release faced problems, even though it showed Indira Gandhi in a favorable light.
+        context: "The Indira Gandhi-'Aandhi' episode demonstrates that even flattering artistic treatments of political figures can be suppressed for political reasons"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "The film 'Nine Hours to Rama' depicted Nathuram Godse's motivation for killing Gandhi, making Gandhi — as the historical subject of the assassination — central to the censorship controversy the essay dissects."
+    evidence:
+      - quote: "showed Nathuram Godse's political and psychological motivation for killing Gandhi. The movie was based on a book by celebrated historian Stanley Wolpert"
+        context: "Gandhi's assassination is the subject matter that made the film politically sensitive and triggered the censorship"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+  - jawaharlal-nehru
+  - mahatma-gandhi
+
 ---
 
 _The following essay is part of a 2012 booklet published by The Liberty Institute, New Delhi, in partnership with the Friedrich Naumann Foundation for Freedom. The booklet was title **[At Liberty: Freedom to Express and Offend.](https://indianliberals.in/content/at-liberty-freedom-to-express-and-offend/)** Authored by Ravi Shanker Kapoor, the essay examines ban on cinema and attacks on artistic freedom by the government, political organisations and pressure groups, despite the existence of the Central Board of Film Certification, a statutory body._In India, no other form of human expression has faced more restrictions than cinema. Unfortunately, it is  not only the Central Board  of Film Certification (CBFC) which does the job of censorship but, as we shall see, a variety of forces tend to curtail the filmmakers' creative freedom. 

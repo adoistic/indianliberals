@@ -9,6 +9,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
+thinker_mentions:
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "JRD Tata is named alongside foreign economists as one of the respected voices calling for monetary restraint to control inflation, lending business-elite credibility to Shenoy's prescription."
+    evidence:
+      - quote: among our own business magnates, Mr. J. R. D. Tata.
+        context: "Tata is cited as a domestic authoritative voice supporting Shenoy's case for inflation control through fiscal discipline"
+    key_passages: []
+related_thinkers: 
+  - jrd-tata
+
 ---
 
 _This musing is an excerpt from BR Shenoy’s essay “Controlling Inflation in India” published by the Forum of Free Enterprise in their booklet titled “The Basic Truth About Inflation”. The essay focuses on the resolution of separation of official claims and market-based observations. The article emphasizes the strategies that needed to be adopted in controlling inflation through the review of how the trends started taking place.   _

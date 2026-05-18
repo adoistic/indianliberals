@@ -7,10 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - indira-gandhi
-  - sarvepalli-radhakrishnan
+related_thinkers: 
   - jayaprakash-narayan
+  - sarvepalli-radhakrishnan
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +46,22 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: sarvepalli-radhakrishnan
+    role: mention
+    reasoning: "Radhakrishnan is listed among the prominent voices registering disenchantment with centralised planning, lending moral and intellectual weight to Vaidya's call for a new economic policy."
+    evidence:
+      - quote: Vaidya opens by registering the disenchantment with planning that has reached even Indira Gandhi, Dr. S. Radhakrishnan, G. L. Nanda, Jayaprakash Narayan and Planning Commission Deputy Chairman D. R. Gadgil
+        context: "Radhakrishnan's scepticism about planning is one of the cross-partisan voices Vaidya marshals to show that disillusion has spread well beyond the right"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan's disenchantment with planning is cited alongside other prominent figures to demonstrate that dissatisfaction with the Soviet-style model has become cross-ideological."
+    evidence:
+      - quote: Vaidya opens by registering the disenchantment with planning that has reached even Indira Gandhi, Dr. S. Radhakrishnan, G. L. Nanda, Jayaprakash Narayan and Planning Commission Deputy Chairman D. R. Gadgil
+        context: "JP's inclusion signals that even socialist leaders are questioning centralised planning, strengthening Vaidya's case for a new economic policy"
+    key_passages: []
+
 ---
 
 # A NEW ECONOMIC POLICY FOR INDIA

@@ -8,6 +8,27 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-d-shroff"
+thinker_mentions:
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: "The speech praises Finance Minister Dr Manmohan Singh's third successive budget and credits him as the architect of the economic reforms transforming India."
+    evidence:
+      - quote: Dr Manmohan Singh presents his third successive Budget within twenty months. Certainly, Dr Singh has performed a miraculous feat of cutting indirect taxes by Rs. 4,522 crores
+        context: central praise of the Finance Minister whose budget is the subject of the speech
+      - quote: the last three Budgets of Dr Manmohan Singh have embarked on the exciting task of economic rejuvenation
+        context: "concluding endorsement framing Manmohan Singh's tenure as a turning point"
+    key_passages: []
+  - thinker: hp-ranina
+    role: mention
+    reasoning: HP Ranina is identified in the preamble as the author and speaker of this address at a public meeting, making him the key voice whose analysis structures the entire piece.
+    evidence:
+      - quote: was delivered as a speech by HP Ranina at a public meeting in Bombay on 1st March 1993
+        context: preamble contextualises Ranina as author and speaker
+    key_passages: []
+related_thinkers: 
+  - hp-ranina
+  - manmohan-singh
+
 ---
 
 _Published by the Forum of Free Enterprise, a non-political organization founded in 1956 by AD Shroff, the text titled “Union Budget 1993-94: Laying The Foundations For An Economic Miracle” was delivered as a speech by HP Ranina at a public meeting in Bombay on 1st March 1993._

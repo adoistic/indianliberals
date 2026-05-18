@@ -8,12 +8,11 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - adam-smith
   - lal-bahadur-shastri
   - m-c-chagla
-  - eugene-black
-  - nikita-khrushchev
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +45,33 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - no_series_number_printed
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: Shroff draws on Adam Smith alongside Hamilton, Jefferson, and Clausewitz to argue that defence is the prior condition of liberty and prosperity, using Smith as one of his authorities for the inseparability of economic and national-security foundations.
+    evidence:
+      - quote: Drawing on Adam Smith, Friedrich List, Hamilton, Jefferson, Clausewitz and the military commentator Edward Mead Earle, he argues that defence is the prior condition of liberty and prosperity
+        context: Smith is one of several Western classical authorities invoked to frame the defence-development nexus
+      - quote: Invokes Adam Smith, Friedrich List, Hamilton and Jefferson to argue that defence is the precondition of liberty, property and prosperity
+        context: "Smith's authority is deployed to embed national defence within the classical-liberal tradition of political economy"
+    key_passages: []
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Shroff endorses Shastri's 'economic commonsense' — specifically his call for a shift back to agriculture and consumer-goods industries and his rejection of runaway inflation — as the kind of pragmatic leadership the country needs."
+    evidence:
+      - quote: "Shroff endorses Lal Bahadur Shastri's 'economic commonsense', cites M. C. Chagla's disclosure of bureaucratic delay over an International Students' Hostel"
+        context: Shastri is cited as a political leader whose pragmatism contrasts favourably with Soviet-style planning orthodoxy
+      - quote: "Endorses Lal Bahadur Shastri's call for a shift back to agriculture and consumer-goods industries and his rejection of runaway inflation"
+        context: "Shastri's policy positions are used to legitimise the anti-planning argument from within the government itself"
+    key_passages: []
+  - thinker: m-c-chagla
+    role: mention
+    reasoning: "Shroff cites M. C. Chagla's disclosure of bureaucratic delay over an International Students' Hostel as a concrete illustration of how administrative paralysis and over-centralisation impede even straightforward development projects."
+    evidence:
+      - quote: "cites M. C. Chagla's disclosure of bureaucratic delay over an International Students' Hostel"
+        context: "Chagla's testimony is invoked as an insider witness to bureaucratic dysfunction during the planning era"
+    key_passages: []
+
 ---
 
 # Defence & Development with Stability

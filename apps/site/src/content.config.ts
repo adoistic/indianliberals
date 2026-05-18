@@ -18,6 +18,7 @@ import { glob } from 'astro/loaders';
 import {
   aiProvenance,
   confidenceFlag,
+  crossThinkerMention,
   essaySummarized,
   i18nFields,
   intellectualArc,
@@ -30,9 +31,9 @@ import {
   recommendedAuthorityAddition,
   rightsSchema,
   summaryStructured,
+  thinkerMention,
   thinkerName,
   tocEntry,
-  crossThinkerMention,
 } from './schemas';
 
 // ─── Tier A: thinker profiles ──────────────────────────────────────────
@@ -122,6 +123,7 @@ const musings = defineCollection({
     // the "Mentioned in" section on bio pages. Empty in Phase A; populated
     // by the Phase B in-prose NER pass.
     related_thinkers: z.array(reference('thinkers')).default([]),
+    thinker_mentions: z.array(thinkerMention).default([]),
     themes: z.array(z.string()).default([]),
     ...i18nFields,
     ai: aiProvenance,
@@ -151,6 +153,7 @@ const opinions = defineCollection({
     themes: z.array(z.string()).default([]),
     related_works: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
+    thinker_mentions: z.array(thinkerMention).default([]),
     ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
@@ -252,6 +255,7 @@ const primaryWorks = defineCollection({
     rights: rightsSchema,
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
+    thinker_mentions: z.array(thinkerMention).default([]),
     related_works: z.array(z.string()).default([]),
     // Reconciled TOC for multi-author works. Populated by the metadata pass
     // (transcribed verbatim from the TOC page + cross-referenced against
@@ -334,6 +338,8 @@ const periodicals = defineCollection({
       label: z.string().optional(),
     }),
     themes: z.array(z.string()).default([]),
+    related_thinkers: z.array(reference('thinkers')).default([]),
+    thinker_mentions: z.array(thinkerMention).default([]),
     // Editorial-ready prose summary of the issue (what it covers, the
     // editorial frame, notable contributions). Populated by Phase 2.
     summary: z.string().optional(),
@@ -404,6 +410,7 @@ const theprintMirror = defineCollection({
     theprint_url: z.string().url(),
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
+    thinker_mentions: z.array(thinkerMention).default([]),
     related_works: z.array(z.string()).default([]),
     ai_summary: z.string().optional(),
     ai_key_points: z.array(z.string()).default([]),

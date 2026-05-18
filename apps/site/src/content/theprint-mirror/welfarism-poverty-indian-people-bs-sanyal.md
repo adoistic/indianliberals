@@ -5,11 +5,21 @@ pubDate: 2026-04-04T15:10:59
 author_name: "BS Sanyal"
 theprint_url: "https://theprint.in/opinion/welfarism-poverty-indian-people-bs-sanyal/2896578/"
 themes: ["capitalism", "poverty", "social-welfare"]
-related_thinkers: ["bs-sanyal"]
+related_thinkers: 
+  - jawaharlal-nehru
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is quoted directly on nationalisation's inevitability, his words used to demonstrate that even the Prime Minister acknowledged the welfarist trajectory toward state control."
+    evidence:
+      - quote: "The words quoted were recently spelled by the arch welfarist of India, namely, Nehru, who also added, \"We do not know when we shall nationalise them.\""
+        context: "Nehru's own ambiguous admission about nationalisation is cited as evidence that the slide toward total state control is planned, not accidental"
+    key_passages: []
 
 ---
 

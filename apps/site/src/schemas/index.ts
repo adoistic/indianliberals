@@ -9,6 +9,7 @@
 //   people.ts       — thinkerName, organisationName
 //   extraction.ts   — LLM extraction shapes (pageSystem, pullQuote, tocEntry, …)
 //   synthesis.ts    — readingGuide, intellectualArc
+//   mentions.ts     — thinkerMention (Phase B in-prose NER)
 
 export * from './i18n';
 export * from './rights';
@@ -16,3 +17,4 @@ export * from './provenance';
 export * from './people';
 export * from './extraction';
 export * from './synthesis';
+export * from './mentions';

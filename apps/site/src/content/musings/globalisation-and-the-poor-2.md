@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: amartya-sen
+    role: mention
+    reasoning: "Norberg cites Sen's expansive definition of poverty — as powerlessness and deprivation of freedom rather than mere material lack — to argue that human development, not just income metrics, is the correct measure of globalisation's impact on the poor."
+    evidence:
+      - quote: As Amartya Sen, Indian economist and Nobel laureate, has emphasised, poverty is not just a material problem. Poverty is something wider, it is about powerlessness, about being deprived of basic opportunities and freedom of choice.
+        context: "Sen's capability-approach definition of poverty is the normative benchmark Norberg uses to evaluate anti-globalisation claims"
+    key_passages: []
+related_thinkers: 
+  - amartya-sen
+
 ---
 
 _The following essay was published in November 2003 by the [Friedrich Naumann Foundation for Freedom](https://indianliberals.in/content/globalisation-and-the-poor/). Authored by Johan Norberg, the essay provides an evidence-based argument against anti-globalist theories that suggest poverty is a result of globalisation.  _The anti-globalisation movement had its coming-out party in Seattle in 1999, when thousands of activists and trade union members protested against a new round of trade negotiations in the World Trade Organisation. Millions were drawn to these protests because of a preceding anti-WTO statement that was circulated on the internet, and signed by about 1500 different groups, from churches to militant communists. Their first accusation against the WTO in the statement was that free trade and globalisation: 

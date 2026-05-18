@@ -8,10 +8,10 @@ authors:
   - v-v-john
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - dadabhai-naoroji
-  - mahatma-gandhi
+  - m-l-dantewala
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +46,22 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_explicit_publication_date_on_visible_pages
   - no_copyright_page_visible
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is delivered as the tenth A. D. Shroff Memorial Lecture, framing John's address within the Forum of Free Enterprise's intellectual project and honouring Shroff as the series' founding patron."
+    evidence:
+      - quote: Delivered as the tenth A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise in Bombay on 27 October 1975
+        context: Shroff named as the honoree of the memorial lecture series in which John speaks
+    key_passages: []
+  - thinker: m-l-dantewala
+    role: mention
+    reasoning: Dantwala (Dantewala) is cited alongside Dandekar and Rath and Fonseca as having produced rigorous studies of poverty that John salutes for moving the debate beyond sentimental generalities.
+    evidence:
+      - quote: John, a former Vice-Chancellor of Jodhpur University, opens by saluting the scholarly studies of poverty by Dandekar and Rath, Fonseca, and Dantwala for moving the debate beyond sentimental generalities
+        context: Dantwala acknowledged as a serious poverty scholar whose empirical work John builds on
+    key_passages: []
+
 ---
 
 # Education and India's Poverty

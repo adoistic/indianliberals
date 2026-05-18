@@ -30,16 +30,13 @@ contributors:
   - role: author
     thinker: kd-valicha
     toc_index: 7
-related_thinkers:
-  - forum-of-free-enterprise
-  - b-r-shenoy
-  - jayaprakash-narayan
-  - jawaharlal-nehru
-  - v-k-krishna-menon
-  - iskander-mirza
-  - m-n-roy
+related_thinkers: 
   - benjamin-tucker
-  - bs-sanyal
+  - kd-valicha
+  - kusum-lotwala
+  - ma-venkata-rao
+  - salvador-de-madariaga
+
 publication:
   language: en
   publisher_id: the-indian-libertarian
@@ -78,6 +75,45 @@ physical:
 missing_metadata_flags:
   - no_issn
   - editor_thinker_id_unresolved
+thinker_mentions:
+  - thinker: kusum-lotwala
+    role: mention
+    reasoning: "Miss Kusum Lotwala is named as the editor of The Indian Libertarian, making her the institutional author and curator of this issue's arguments."
+    evidence:
+      - quote: The Indian Libertarian, Vol. V No. 3 (1 April 1957), is a bi-monthly libertarian journal edited by Miss Kusum Lotwala
+        context: "Lotwala named as editor, the institutional voice behind the journal's editorial line"
+    key_passages: []
+  - thinker: ma-venkata-rao
+    role: mention
+    reasoning: "M. A. Venkata Rao's article 'An Economic Plan or… A Communist Plot?' characterises the Second Five Year Plan as replicating Soviet economic organisation, one of the journal's signature pieces framing the liberty-vs.-planning debate."
+    evidence:
+      - quote: "M. A. Venkata Rao's 'An Economic Plan or… A Communist Plot?' is a polemical critique of India's Second Five Year Plan, arguing that the plan's intellectual and structural features are indistinguishable from Soviet-style central planning"
+        context: "Venkata Rao as a named contributor to the 1957 issue's core economic argument"
+    key_passages: []
+  - thinker: kd-valicha
+    role: mention
+    reasoning: "K. D. Valicha appears in the journal's book review section as the author of 'Economies of Liberty' and of the essay 'justice and freedom', and contributes the 'NOT A LOOT CAUSE' note defending market-rent collection."
+    evidence:
+      - quote: a piece on justice and freedom by K. D. Valicha
+        context: Valicha credited as an essay contributor within the Libertarian Anthology reviewed in this issue
+    key_passages: []
+  - thinker: salvador-de-madariaga
+    role: mention
+    reasoning: "Salvador de Madariaga's article 'The Eisenhower Doctrine' appears in this issue as a sharp critique of US Middle East policy, arguing that American military commitments misread Arab nationalism as primarily communist in character."
+    evidence:
+      - quote: a sharp critique of the Eisenhower Doctrine by Salvador de Madariaga
+        context: "Madariaga named as a contributor to the 1957 issue's international affairs section"
+      - quote: "Salvador de Madariaga's 'The Eisenhower Doctrine' is a measured but critical analysis of the United States' Middle East policy"
+        context: "Madariaga's essay is one of the journal's international feature pieces"
+    key_passages: []
+  - thinker: benjamin-tucker
+    role: mention
+    reasoning: Benjamin Tucker is invoked in the Libertarian Anthology reviewed in this issue, cited in its treatment of monopoly as a classical anarcho-individualist touchstone.
+    evidence:
+      - quote: "Benjamin Tucker is invoked in the anthology's treatment of monopoly — a classical anarcho-individualist touchstone being cited approvingly in an Indian liberal context."
+        context: Tucker cited as an intellectual ancestor in the Libertarian Anthology book review
+    key_passages: []
+
 ---
 
 # The Indian Libertarian

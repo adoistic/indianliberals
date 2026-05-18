@@ -8,11 +8,10 @@ authors:
   - v-m-tarkunde
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
-  - friedrich-hayek
-  - karl-marx
+related_thinkers: 
   - a-d-shroff
+  - friedrich-hayek
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +48,22 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_toc
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "F. A. Hayek's The Road to Serfdom is quoted in the booklet's framing quotations, reinforcing Tarkunde's argument that the erosion of property rights threatens freedom more broadly."
+    evidence:
+      - quote: "The booklet is rounded out with framing quotations from Eugene Black, F. A. Hayek's The Road to Serfdom, Max Eastman on Marx, and A. D. Shroff."
+        context: "Hayek cited as an authority in the booklet's closing anthology of liberal voices"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "A. D. Shroff is among the authorities quoted in the framing quotations that close the booklet, linking Tarkunde's property-rights argument to the Forum of Free Enterprise tradition."
+    evidence:
+      - quote: "The booklet is rounded out with framing quotations from Eugene Black, F. A. Hayek's The Road to Serfdom, Max Eastman on Marx, and A. D. Shroff."
+        context: "Shroff cited as a liberal authority alongside Hayek in the booklet's closing anthology"
+    key_passages: []
+
 ---
 
 # Fundamental Right to Property

@@ -9,8 +9,9 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
-related_thinkers:
+related_thinkers: 
   - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +44,17 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_series_number
   - isbn_not_printed
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "Y.V. Reddy delivers the lecture at the M. R. Pai Memorial Award function and frames it as a delayed personal tribute to Pai, positioning his argument for developmental finance within Pai's consumer-protection tradition."
+    evidence:
+      - quote: "Reddy frames the speech as a delayed personal tribute to M. R. Pai and treats the Sixth M. R. Pai Memorial Award as recognition of the RBI's work on depositors' interests"
+        context: "Pai's legacy is the moral and institutional occasion for Reddy's arguments about developmental banking"
+      - quote: Delivered on 6 May 2010 at the Sixth M. R. Pai Memorial Award function in Mumbai
+        context: "The lecture is delivered at Pai's memorial; his consumer-protection mission frames the discussion of regulatory rebalancing"
+    key_passages: []
+
 ---
 
 # Developmental Dimension to Financial Sector

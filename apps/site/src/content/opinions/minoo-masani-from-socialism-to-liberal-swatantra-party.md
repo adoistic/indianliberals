@@ -9,6 +9,73 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "minoo-masani"
+thinker_mentions:
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan is a recurring figure in Masani's political trajectory — as a fellow socialist in the CSP, a political prisoner with Masani in Nashik, and a collaborator in anti-communist work."
+    evidence:
+      - quote: As a young admirer of the USSR experiment and an advocate of democratic socialism, Minoo worked with Jayaprakash Narayan and Nehru to turn Congress towards the left in the 1930s.
+        context: "identifies JP as Masani's early socialist collaborator"
+      - quote: "A group of socialists including JP, Achut Patwardhan, and Ashok Mehta were among the political prisoners in the Nashik jail. Minoo Masani's discussions with JP paved the way for an anti-imperial socialist outfit within the Congress party."
+        context: credits their jail conversations with catalysing the CSP
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru appears repeatedly as Masani's key interlocutor and ideological antagonist, from their 1927 London meeting to Nehru's fury at Masani's Socialism Reconsidered pamphlet."
+    evidence:
+      - quote: he even urged Pandit Nehru to visit the Soviet Union when the two met in London in 1927.
+        context: "first encounter between the two, showing Masani's early influence on Nehru"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji is cited as both an early opponent of Masani's socialism and a later collaborator in the Swatantra project, with Masani persuading him to lead the new party."
+    evidence:
+      - quote: His active leadership of Congress Socialist Party (CSP) turned both Sardar Patel and C Rajagopalachari against him.
+        context: "early antagonism arising from Masani's socialist phase"
+      - quote: Masani persuaded Rajaji to lead the new political party.
+        context: key moment of coalition in the Swatantra founding
+    key_passages: []
+  - thinker: sardar-patel
+    role: mention
+    reasoning: "Sardar Patel is mentioned as an early opponent of Masani's CSP socialism and later as a supporter who provided office space and resources for Masani's anti-communist Democratic Research Service."
+    evidence:
+      - quote: His active leadership of Congress Socialist Party (CSP) turned both Sardar Patel and C Rajagopalachari against him.
+        context: "Patel's hostility to Masani's socialist phase"
+      - quote: With the help of Patel in the form of office space in Bombay, a telephone connection and funding, Masani founded Democratic Research Service in November 1950.
+        context: "Patel's later practical support for Masani's anti-communist work"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi features as a key intellectual influence on Masani's shift away from communism — both through his dictum that ends don't justify means, and through a witty exchange over Masani's socialist nationalisation agenda."
+    evidence:
+      - quote: "In response to Minoo Masani's socialist agenda, he wrote, \"the progressive nationalisation of all the instruments of production, distribution and exchange\" was \"too sweeping to be admissible. Rabindranath Tagore is an instrument of marvellous production. I do not know that he will submit to be nationalised.\""
+        context: "Gandhi's famous riposte to Masani's nationalisation proposals"
+      - quote: "Gandhi's dictum that the end doesn't justify the means translated into a repudiation of communist insurrections."
+        context: "identifies Gandhi as the ethical anchor of Masani's anti-communist turn"
+    key_passages: []
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: B.R. Shenoy is mentioned as a close liberal economist collaborator whose Economic Research Centre Masani used for the Project for Economic Education.
+    evidence:
+      - quote: "He also set up the Project for Economic Education in collaboration with the liberal economist B R Shenoy's Economic Research Centre to disseminate liberal economic ideas in public domain."
+        context: "identifies Shenoy as Masani's key economic partner in liberal institution-building"
+    key_passages: []
+  - thinker: rabindranath-tagore
+    role: mention
+    reasoning: "Tagore is invoked indirectly in Gandhi's famous quip about nationalisation — Gandhi used Tagore as an example of a 'marvellous instrument of production' that should not be nationalised."
+    evidence:
+      - quote: Rabindranath Tagore is an instrument of marvellous production. I do not know that he will submit to be nationalised.
+        context: "Gandhi's witty riposte using Tagore as an example against Masani's nationalisation agenda"
+    key_passages: []
+related_thinkers: 
+  - b-r-shenoy
+  - c-rajagopalachari
+  - jawaharlal-nehru
+  - jayaprakash-narayan
+  - mahatma-gandhi
+  - rabindranath-tagore
+  - sardar-patel
+
 ---
 
 _In Masani, Indian liberals should find a more appropriate icon to emulate. Rajaji, after all, was a self-identified conservative rooted in his Hindu identity. Minoo Masani, in contrast, drew his ideas from the West to shape liberal India._The forgotten politician Minoo Masani’s illustrious public career was an exercise in collaboration and confrontation with the other leading Indian nationalist figures. Himself one of the founding fathers of modern India, Minoo was both a nationalist and an internationalist in his intellectual pursuits.

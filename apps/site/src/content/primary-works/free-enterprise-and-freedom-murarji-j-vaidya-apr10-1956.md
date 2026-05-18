@@ -7,7 +7,9 @@ work_type: essay
 authors: []
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - murarji-vaidya
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -39,6 +41,17 @@ physical:
   format: "pamphlet; cover indicates serial number '2' in the Forum of Free Enterprise booklet series"
 missing_metadata_flags:
   - year_not_explicitly_printed
+thinker_mentions:
+  - thinker: murarji-vaidya
+    role: subject
+    reasoning: "The pamphlet reproduces Murarji J. Vaidya's 1956 Times of India article arguing that the Second Five-Year Plan's socialist commitment risks sacrificing democracy for economic speed in an underdeveloped country."
+    evidence: []
+    key_passages:
+      - quote: "simultaneously evolving democracy and a socialist pattern in an \"underdeveloped economy working under an infant democracy\" is historically unproven and dangerous"
+        what_it_shows: "Vaidya's central constitutional-liberal objection to the Second Plan"
+      - quote: there is no reason to believe that concentrating economic power in the hands of a few politicians and bureaucrats will yield better results than the supposed concentration already deplored in a few capitalists
+        what_it_shows: "Vaidya's rhetorical inversion of the planners' own anti-concentration logic"
+
 ---
 
 # Free Enterprise and Freedom

@@ -8,6 +8,28 @@ language: "en"
 needs_review: true
 draft: false
 author: "rakesh-mohan"
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: The lecture was delivered as the A.D. Shroff Memorial Lecture; the opening passages extensively credit Shroff with foundational contributions to the Bombay Plan, the Bretton Woods Conference, and the Forum of Free Enterprise.
+    evidence:
+      - quote: I am deeply honoured to have been invited to deliver this A. D. Shroff Memorial Lecture.
+        context: "Shroff's name is the framing anchor of the entire address"
+      - quote: "A. D. Shroff accomplished much during his life: he passed away at a relatively young age. He was associated with Pandit Jawaharlal Nehru as early as 1938 when he served with him in the National Planning Committee."
+        context: "Shroff's career is sketched to establish him as a central figure in the institutional history of Indian economic thought"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is mentioned as the political associate with whom Shroff collaborated in the National Planning Committee in 1938, contextualising the ideological distance between Shroff's free-enterprise advocacy and Nehru's later planning orthodoxy."
+    evidence:
+      - quote: He was associated with Pandit Jawaharlal Nehru as early as 1938 when he served with him in the National Planning Committee.
+        context: Nehru is invoked to situate Shroff within the intellectual milieu of Indian economic planning before the two diverged
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+  - jawaharlal-nehru
+
+
 ---
 
 The following text is taken from a 2006 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go-by-dr-rakesh-mohan-october-10-2006/) Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.

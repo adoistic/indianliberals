@@ -8,8 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +45,26 @@ missing_metadata_flags:
   - no_isbn
   - no_explicit_pamphlet_year_on_cover
   - no_series_number_visible
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "A. D. Shroff's pamphlet is a direct rejoinder to Nehru's claim that democracy and private enterprise are incompatible, arguing that the free market is itself a democratic institution and that the drift toward state capitalism threatens individual liberty."
+    evidence: []
+    key_passages:
+      - quote: "Shroff argues, the relationship between free enterprise and democracy has assumed great significance, and the country must decide whether the drift towards State Capitalism under the plea of a Welfare State threatens to 'enslave man to the State as a totalitarian State'"
+        what_it_shows: frames the central stakes of the argument
+      - quote: "once the State 'begins to intrude in the field of private or free enterprise, it will soon develop into a monopolist wielding power of an enormous character'"
+        what_it_shows: the slippery-slope argument that planning leads inexorably to monopoly
+      - quote: the free market is itself a daily plebiscite, in which producers, workers, consumers, investors, creditors, and employers check one another
+        what_it_shows: "Shroff's positive reframing of the market as a democratic institution"
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's Calcutta press-conference claim that democracy and unrestricted private enterprise are incompatible is the direct provocation to which Shroff's entire pamphlet is a response."
+    evidence:
+      - quote: "Framed as a direct response to Nehru's Calcutta press-conference claim that democracy and unrestricted private enterprise are incompatible, and to the official 'Socialist pattern of Society' goal."
+        context: "opening framing of the pamphlet's polemical occasion"
+    key_passages: []
+
 ---
 
 # FREE ENTERPRISE AND DEMOCRACY

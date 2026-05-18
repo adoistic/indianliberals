@@ -5,11 +5,25 @@ pubDate: 2025-12-27T10:31:52
 author_name: "BP Adarkar"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/demonetisation-black-money-bp-adarkar/2813221/"
 themes: ["black-money", "demonetisation", "indian-liberals-matter"]
-related_thinkers: ["bp-adarkar"]
+related_thinkers: 
+  - bp-adarkar
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: bp-adarkar
+    role: subject
+    reasoning: "The article is BP Adarkar's essay arguing that demonetisation of 100-rupee notes is an ineffective remedy for black money that harms innocent citizens."
+    evidence: []
+    key_passages:
+      - quote: "demonetisation of 100-rupee notes is a wild hit at the bull's eye: it will not hurt the guilty ones but a lot of innocent people."
+        what_it_shows: "Adarkar's core argument that demonetisation penalises the innocent more than the guilty"
+      - quote: Far from causing inflation, black money is actually an anti-inflationary factor, as its velocity of circulation is much lower than that of white money.
+        what_it_shows: "Adarkar's counterintuitive economic argument about black money and inflation"
+      - quote: "demonetisation could shake the public confidence in the nation's currency, with serious repercussions on its international value as well."
+        what_it_shows: "Adarkar's warning about the systemic risk of demonetisation to currency confidence"
 
 ---
 

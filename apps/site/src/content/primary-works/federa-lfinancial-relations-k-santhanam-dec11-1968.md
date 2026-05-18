@@ -12,12 +12,12 @@ contributors:
     thinker: k-santhanam
   - role: introduction
     thinker_unresolved: MURARJI J. VAIDYA
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - eugene-black
   - bhimrao-ambedkar
   - k-m-munshi
-  - chintaman-deshmukh
+  - murarji-vaidya
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +52,36 @@ missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
   - introducer_not_in_authority_subset
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is the inaugural A. D. Shroff Memorial Lecture, and Murarji J. Vaidya's introductory remarks explicitly commemorate Shroff's work for free enterprise as the motivation for establishing the series."
+    evidence:
+      - quote: "Inaugural A. D. Shroff Memorial Lecture under the Forum of Free Enterprise, framed by Murarji J. Vaidya's introductory remarks honouring Shroff as a champion of free enterprise."
+        context: Shroff named as the honoree whose legacy establishes the lecture series and its ideological orientation
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is named as one of the Constituent Assembly drafters whose work on fiscal federalism Santhanam praises as a 'masterpiece', establishing his architectural role in India's constitutional financial framework."
+    evidence:
+      - quote: "Praises the Constituent Assembly's drafting — naming Ambedkar, B. N. Rau, Gopalaswamy Ayyangar and K. M. Munshi — as a 'masterpiece' compared to the clumsiness of the 1935 Act on Finance Commissions."
+        context: "Ambedkar credited as a key drafter of India's federal fiscal architecture"
+    key_passages: []
+  - thinker: k-m-munshi
+    role: mention
+    reasoning: K. M. Munshi is listed among the Constituent Assembly drafters credited with producing the federal fiscal architecture that Santhanam praises as superior to the 1935 Act.
+    evidence:
+      - quote: "Praises the Constituent Assembly's drafting — naming Ambedkar, B. N. Rau, Gopalaswamy Ayyangar and K. M. Munshi — as a 'masterpiece' compared to the clumsiness of the 1935 Act on Finance Commissions."
+        context: Munshi named as co-drafter of the federal fiscal provisions Santhanam analyses
+    key_passages: []
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: "Murarji J. Vaidya's presidential remarks open the lecture, honouring Shroff and framing the occasion, making him a key institutional actor in establishing the Forum's lecture programme."
+    evidence:
+      - quote: "After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's pioneering work for free enterprise and recall Shroff's own wish for a talk on changing Union–State financial relations"
+        context: Vaidya named as the Forum president who opens the inaugural Shroff Memorial Lecture
+    key_passages: []
+
 ---
 
 # Federal Financial Relations in India

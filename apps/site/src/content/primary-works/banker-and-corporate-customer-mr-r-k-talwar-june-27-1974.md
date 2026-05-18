@@ -12,8 +12,9 @@ contributors:
     thinker: r-k-talwar
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD, BOMBAY - 400 001. Colophon: Published by M. R. Pai on behalf of The A.D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by Michael Andrades at The Bombay Chronicle Press, Horniman Circle, Bombay 400 001."
@@ -50,6 +51,17 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is delivered in Shroff's memory and opens with Talwar's careful tribute to Shroff, rehabilitating him as a pragmatist who served on the National Planning Committee and helped author the Bombay Plan rather than a laissez-faire ideologue."
+    evidence:
+      - quote: Delivered as the 1974 A. D. Shroff Memorial Lecture by R. K. Talwar, then Chairman of the State Bank of India
+        context: "opening identification of the lecture's occasion; Shroff's legacy is the formal frame"
+      - quote: Talwar opens with a careful tribute to A. D. Shroff — recovering Shroff as a pragmatist who founded the Forum of Free Enterprise but who had also served on the National Planning Committee and helped author the Bombay Plan of 1944
+        context: "opening of the lecture proper; Talwar's rehabilitation of Shroff is the keynote of the address"
+    key_passages: []
+
 ---
 
 # BANKER AND CORPORATE CUSTOMER

@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: The essay contest page opens with a Masani epigram as its headline quote, directly attributing it to him by name.
+    evidence:
+      - quote: "\"They are slaves who dare not be In the right with two or three.\" - Minoo Masani"
+        context: "opening epigram framing the contest's liberal values"
+    key_passages: []
+related_thinkers: 
+  - minoo-masani
+
 ---
 
 **"They are slaves who dare not be In the right with two or three." - Minoo Masani**

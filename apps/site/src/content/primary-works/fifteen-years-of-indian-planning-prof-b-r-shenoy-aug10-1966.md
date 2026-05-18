@@ -8,7 +8,9 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - milton-friedman
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +43,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Shenoy draws on Friedman's comparative argument throughout the lecture to support his critique of Indian planning, using Friedman's evidence from free-market success stories as the empirical counterweight to India's planned-economy performance."
+    evidence:
+      - quote: "Throughout he draws on Milton Friedman's contrast between centrally planned societies and the free-pricing systems of West Germany, Italy, Japan, Malaya, Singapore, Hong Kong and Formosa"
+        context: "Friedman's comparative framework is the organising empirical backbone of Shenoy's lecture"
+    key_passages: []
+
 ---
 
 # FIFTEEN YEARS OF INDIAN PLANNING

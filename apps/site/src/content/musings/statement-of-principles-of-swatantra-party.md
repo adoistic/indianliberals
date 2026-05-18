@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's doctrine of Trusteeship and his cardinal teachings on faith in people and non-violence are explicitly invoked in the Swatantra Party's founding principles as part of the party's philosophical foundation."
+    evidence:
+      - quote: The Party, therefore, adheres to the principle of Trusteeship adumbrated by Gandhiji.
+        context: "Swatantra Party explicitly grounds its economic ethics in Gandhi's Trusteeship doctrine"
+      - quote: The Party shall, in all matters, keep before itself the cardinal teachings of Gandhiji, maintaining faith in the people and in the efficacy of truth and non-violence.
+        context: "Gandhi's teachings formally enshrined as a guiding principle of the party"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 The Statement of the Principles of the Swatantra Party was adopted at the Preparatory Convention held at Bombay on August l and 2, 1959. The 21 principles which were adopted laid the ground for a liberal and market-oriented approach to politics in India. The Swatantra Party was the first political party to openly endorse free enterprise and liberal values in India.1. The Swatantra Party is pledged to Social Justice and equality of opportunity for all people without distinction of religion, caste, occupation, or political affiliation.

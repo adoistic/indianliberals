@@ -17,10 +17,11 @@ contributors:
   - role: author
     thinker_unresolved: DR. LANKA SUNDARAM
     toc_index: 3
-related_thinkers:
-  - t-t-krishnamachari
-  - eugene-black
+related_thinkers: 
   - chintaman-deshmukh
+  - eugene-black
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -60,6 +61,29 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
   - publication_year_smudged_on_colophon
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Krishnamachari's anti-inflation import spree of 1955-56 is identified by Shroff as the real genesis of the foreign exchange crisis, making him the Finance Minister whose policy decisions turned a structural vulnerability into an acute crisis."
+    evidence:
+      - quote: "He attributes the wreckage to the import spree of 1955–56 ordered under Commerce Minister T. T. Krishnamachari's anti-inflation theory that imports would mop up Plan-induced purchasing power."
+        context: Krishnamachari named as the minister responsible for the policy that triggered the foreign exchange collapse
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black is cited in Murthy's essay as an authority on IDA lending, used as part of the survey of remedial financing mechanisms available to India in its foreign exchange crisis."
+    evidence:
+      - quote: more IDA (50-year, near-interest-free) loans from the World Bank, citing Eugene Black
+        context: Murthy cites Black on IDA lending as part of his survey of remedial financing mechanisms
+    key_passages: []
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: "Sundaram recalls C. D. Deshmukh as Finance Minister conceding that compiling Budget documents is 'a race against time', using this admission as a damning illustration of the lack of rigour in India's fiscal planning."
+    evidence:
+      - quote: "Recalls C. D. Deshmukh as Finance Minister conceding that compilation of Budget documents is \"a race against time\" — a confession Sundaram says would be unacceptable in any parliament elsewhere."
+        context: "Deshmukh's own admission deployed as evidence of the chronic unreliability of India's fiscal statistics"
+    key_passages: []
+
 ---
 
 # FOREIGN EXCHANGE CRISIS — THE WAY OUT

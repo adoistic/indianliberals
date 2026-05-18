@@ -8,6 +8,31 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-ranganathan"
+thinker_mentions:
+  - thinker: rabindranath-tagore
+    role: subject
+    reasoning: "The essay is a full-length exploration of Tagore's humanistic approach to nationalism, tracing his intellectual debts to Raja Ram Mohan Roy, his critique of European nationalism, and his vision of Indian civilisation as a force for universal renaissance."
+    evidence: []
+    key_passages:
+      - quote: "Tagore not only constituted a historic link in the long chain of India's cultural evolution, but was also the prophet of the Indian Renaissance heralded by Raja Ram Mohan Roy."
+        what_it_shows: situates Tagore within the lineage of the Indian Renaissance as both heir and prophet
+      - quote: "Tagore had drawn the vital distinction between the Western Nation and the spirit of the West in his celebrated lectures on \"Nationalism\""
+        what_it_shows: "identifies the conceptual pivot of Tagore's critique — separating Western civilisational values from Western political nationalism"
+      - quote: "Tagore commented: “Gandhi Mahatma is making various efforts to make Hindi the language for the entire country. These efforts, however thriving today, may one day as well peter out.”"
+        what_it_shows: "shows Tagore engaging critically with Gandhi's language policy, demonstrating his independent cultural perspective"
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: "Raja Ram Mohan Roy is cited as the originator of the Indian Renaissance that Tagore inherited and extended, with his birth described as 'also the birthday of modern India'."
+    evidence:
+      - quote: "The transition from medieval to modern India, which resulted in that great cultural awakening known as the 'Indian Renaissance', was effected by Raja Ram Mohan Roy."
+        context: Roy identified as the founding figure of the Indian Renaissance that Tagore built upon
+      - quote: The various forces which have contributed to the shaping of modern India originated in the mind of Raja Ram Mohan Roy.
+        context: author credits Roy with generating all the transformative ideas of modern India
+    key_passages: []
+related_thinkers: 
+  - rabindranath-tagore
+  - raja-ram-mohan-roy
+
 ---
 
 _Produced below is an excerpt from an article by A. Ranganathan called "Tagore's Humanistic Approach to Indian Nationalism," where the author explores Rabindranath Tagore's unique perspective on Indian nationalism. The article delves into how Tagore distinguished Indian nationalism from European forms, emphasized the importance of cultural exchange with the West, and believed that true freedom extended beyond political independence into the realm of the mind and spirit._

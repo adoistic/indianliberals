@@ -7,8 +7,9 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +46,17 @@ physical:
   format: Short FFE leaflet/pamphlet, two-column letterpress; 4 pages.
 missing_metadata_flags:
   - year_not_printed
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Cooper reads Nehru's own 1949 Constituent Assembly speech against subsequent practice, using Nehru's words on just compensation to indict the Parliament he led for departing from that promise."
+    evidence:
+      - quote: "he reads Prime Minister Jawaharlal Nehru's 10 September 1949 Constituent Assembly speech against later practice — Nehru himself, Cooper notes, accepted that 'full compensation should be paid to small owners'"
+        context: "Nehru's own words are turned against the constitutional amendments that gutted property rights"
+      - quote: "Cites Nehru's 10 September 1949 Constituent Assembly speech to show that the original constitutional intent included 'just and equitable compensation' even for large properties"
+        context: "Nehru as a witness against his own government's later expropriation logic"
+    key_passages: []
+
 ---
 
 # COMPENSATION OR EXPROPRIATION?

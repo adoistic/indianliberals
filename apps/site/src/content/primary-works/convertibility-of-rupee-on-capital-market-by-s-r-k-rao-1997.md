@@ -8,8 +8,9 @@ authors:
   - s-r-k-rao
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - y-v-reddy
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +42,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_series_number
+thinker_mentions:
+  - thinker: y-v-reddy
+    role: mention
+    reasoning: "In the second version of Rao's booklet, Y.V. Reddy is cited alongside S. Venkitaramanan as analytical support for the cautious post-Asian-crisis assessment of capital account convertibility."
+    evidence:
+      - quote: "Drawing on Y. V. Reddy and S. Venkitaramanan, and citing Mahathir Mohammad's denunciation of speculative currency trading"
+        context: Reddy is invoked as an RBI authority on the post-Asian-crisis dangers of premature full convertibility
+    key_passages: []
+
 ---
 
 # Convertibility of Rupee on Capital Account

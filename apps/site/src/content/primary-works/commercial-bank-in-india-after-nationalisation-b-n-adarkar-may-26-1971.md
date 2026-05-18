@@ -12,9 +12,9 @@ contributors:
     thinker: b-n-adarkar
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - h-v-r-iengar
+
 publication:
   language: en
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. Road, Bombay-1. Published by M. R. Pai on behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press, Syed Abdulla Brelvi Road, Bombay-1.
@@ -47,6 +47,17 @@ missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_file
   - publisher_not_in_authority_file
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Adarkar opens his lecture by paying homage to Shroff as a 'crusader for free enterprise', situating himself within Shroff's intellectual legacy even while offering a qualified defence of nationalisation."
+    evidence:
+      - quote: Delivered on 30th March 1971 as the second A. D. Shroff Memorial Lecture
+        context: Shroff is the namesake of the lecture series
+      - quote: "paying homage to Shroff as a 'crusader for free enterprise' whose convictions in the potentialities of a free market economy he respected even where he did not share them"
+        context: "Adarkar situates his measured defence of nationalisation against Shroff's free-enterprise convictions"
+    key_passages: []
+
 ---
 
 # Commercial Banks in India after Nationalisation

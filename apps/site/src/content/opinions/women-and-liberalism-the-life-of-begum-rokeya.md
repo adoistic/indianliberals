@@ -9,6 +9,20 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "begum-rokeya"
+thinker_mentions:
+  - thinker: begum-rokeya
+    role: subject
+    reasoning: "The article is a full profile of Begum Rokeya's life, her feminist writings including Sultana's Dream, and her educational work for Muslim women in colonial Bengal."
+    evidence: []
+    key_passages:
+      - quote: Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.
+        what_it_shows: establishes her multiple roles and central mission
+      - quote: "Her book 'Sultana's Dream' is a rare feminist literature that imagined a utopia of an advanced scientifically developed society where gender roles were reversed; men were confined and women ruled the world."
+        what_it_shows: identifies her landmark utopian feminist text and its radical premise
+      - quote: Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening.
+        what_it_shows: establishes her canonical status in the Bengali reformist tradition
+related_thinkers: []
+
 ---
 
 _Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition._19th century Bengal is known for its renaissance movements that witnessed the awakening of intellectual currents in religious, social, cultural, economic, and artistic spheres. Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening. Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.

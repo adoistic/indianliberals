@@ -7,6 +7,37 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is the central intellectual opponent in this essay — his labour theory of value and collectivism are what Venkata Rao's libertarian argument is set against throughout."
+    evidence:
+      - quote: "While outlining the rise of Karl Marx's labour theory of value, the author revisits theories of labour rooted in individualism."
+        context: "Marx identified as the intellectual foil against which the essay's libertarian vision is developed"
+      - quote: The individualist philosophy of John Stuart Mill and his followers which guided liberal democracy is today eclipsed by the communist collectivism of Karl Marx
+        context: "Marx's collectivism presented as the dominant force that libertarianism must displace"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "Mill is cited as the principal protagonist of liberal individualist thought whose legacy has been eclipsed by Marxist collectivism, and whose core insight on freedom's necessity for individual fulfilment is affirmed."
+    evidence:
+      - quote: liberal democratic thought of which Bentham, James Mill and his more famous son John Stuart Mill were the principal protagonists.
+        context: Mill positioned as a key founder of liberal democratic individualism
+      - quote: The individualist philosophy of John Stuart Mill and his followers which guided liberal democracy is today eclipsed by the communist collectivism of Karl Marx, particularly in respect of economy. Adam Smith and Mill are both put into the shade.
+        context: "Mill's eclipse by Marx identified as the ideological crisis libertarianism must address"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: Adam Smith is cited alongside Mill as one of the thinkers whose individualist economic philosophy has been pushed aside by Marxist collectivism, motivating the need for a libertarian revival.
+    evidence:
+      - quote: "Adam Smith and Mill are both put into the shade. They have become \"Gods that failed.\""
+        context: Smith invoked as a foundational figure whose legacy has been displaced, requiring libertarian renewal
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - john-stuart-mill
+  - karl-marx
+
 ---
 
 The following essay by M.A. Venkata Rao has been taken from a 1958 issue of [The Indian Libertarian](https://indianliberals.in/content/the-indian-libertarian-october-1-1958/). While outlining the rise of Karl Marx's labour theory of value, the author revisits theories of labour rooted in individualism. He revisits the need for individualism and a limited State, highlighting his take on the libertarian vision for labour, land, production, and education.In Europe and America a  branch of the Enlightenment school of thought that prepared for and preceded the French Revolution developed a  strand of socialism. While the central stream of inspiration released by the Revolution guided thought and reconstruction into channels of national democracy under the lead of the new commercial and industrial classes (whom Karl Marx called the bourgeoisie) side streams of what may be roughly called "socialist thought" sprung up seeking to mould social institutions including property and State on equality and fraternity rather than on liberty.

@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Morarji Desai is cited twice: first as the Finance Minister who would not join the Cabinet without the incentive of Deputy Prime Ministership, and later as a Finance Minister whose economic views are criticised as politically coloured."
+    evidence:
+      - quote: Even Sri Morarji Desai did not wish to join the Cabinet till he was offered the incentive of a Deputy Prime Ministership.
+        context: Desai cited to illustrate the universal human need for incentives, applying the principle even to senior politicians
+      - quote: Mr Morarji Desai says that he would like to rehabilitate his confidence, but he has not taken any steps for it.
+        context: Desai criticised for rhetorical acknowledgement of the inflation problem without substantive policy action
+    key_passages: []
+related_thinkers: 
+  - morarji-desai
+
 ---
 
 _Published by Swatantra Party, “The Missed Opportunity” comprises speeches by its MPs MR Masani, Charanjit Rai and N Dandekar, each of whom expressed their discontent towards the Central Budget of 1967-68. The Swatantra Party MPs, in addition to highlighting the shortfalls of the central budget, shed light on the poor outcome of previous policies of the then-ruling party that have failed to achieve their original objective._

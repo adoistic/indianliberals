@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "The text quotes Nehru's remark that he had not made the Constitution 'so rigid' to interrogate the limits of parliamentary power to amend fundamental rights, making Nehru's own words a pivot in the debate between constitutional flexibility and rigidity."
+    evidence:
+      - quote: "When Shri Nehru said that he had not made the Constitution 'so rigid', he meant surely that he had made it 'partly rigid'"
+        context: "Nehru's words are used to establish that the founders never intended unlimited amendability of Fundamental Rights"
+    key_passages: []
+  - thinker: m-c-setalvad
+    role: mention
+    reasoning: "The speaker cites Setalvad — described as one of the great jurists of the English-speaking world — on the dangers of too-frequent constitutional amendment, deploying Setalvad's legal authority to support the case for a referendum requirement."
+    evidence:
+      - quote: "Shri M. C. Setalwad (who has been hailed as one of the great jurists of the English-speaking world). He said: \"Amendments of the Constitution have been too frequent and if I may use the expression, without any disrespect to Parliament, too irresponsible.\""
+        context: "Setalvad's verdict on irresponsible amendments anchors the speaker's proposal for a supermajority or referendum safeguard"
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "The text quotes Ambedkar's own explanation in the Constituent Assembly that the amendment procedure was kept simple precisely to prevent Parliament from entrenching its own power, using the framer's words against the Bill that would give Parliament power over Fundamental Rights."
+    evidence:
+      - quote: "The Hon'ble Dr. B. R. Ambedkar, while explaining that the procedure for amending the Constitution was simple, expounded on the necessity of curbing the powers of Parliament."
+        context: "Ambedkar's constituent-assembly speech is deployed as the founders' own warrant against Parliament's self-aggrandisement"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+  - jawaharlal-nehru
+  - m-c-setalvad
+
 ---
 
 In a 1967 Judgement, the Supreme Court declared that it is not within the powers of the Parliament to take away Fundamental Rights under Part III of the Constitution. In April 1967, MP (Parja Party) Nath Pai proposed a Bill securing such powers for the Parliament. In September, MP (Independent) Sriraj Meghrajji proposed a Bill (considered an amendment to Pai's Bill) provided that any amendment of the Fundamental Rights must be the subject of a Referendum. The following text covers Sriraj Meghrajji's justification for proposing a Bill that aims to amend Nath Pai's Bill. The text was originally published by the [Swatantra Party.](https://indianliberals.in/content/fundamental-rights/)Mr. Speaker, I share Shri Nath Pai's faith in the people of India and it is for this very reason that my amendment provides for a Referendum. 

@@ -5,11 +5,23 @@ pubDate: 2025-08-23T17:09:52
 author_name: "BR Shenoy"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-free-market-state-control-india-poverty-br-shenoy/2727537/"
 themes: ["b-r-shenoy", "indian-liberals-matter", "planning-commission", "statism"]
-related_thinkers: ["b-r-shenoy"]
+related_thinkers: 
+  - john-kenneth-galbraith
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith is the intellectual foil: Shenoy engages at length with Galbraith's pro-planning pronouncements in India, arguing that his confidence in directed planning misunderstands the complexity of India's decentralised production system."
+    evidence:
+      - quote: Professor JK Galbraith has made planning a theme of his weighty pronouncements more than once during his tour round India.
+        context: establishes Galbraith as the respected authority whose planning advocacy Shenoy sets out to refute
+      - quote: The question is whether this central objective — the eradication of poverty — may be best and most speedily achieved through planning as we have seen it in action during the past decade; and as Prof. Galbraith, a devotee of Indian planning, seems to understands the term.
+        context: "frames the essay's central debate directly as a response to Galbraith's position"
+    key_passages: []
 
 ---
 

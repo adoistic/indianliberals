@@ -8,8 +8,9 @@ authors:
   - hp-ranina
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - manmohan-singh
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +42,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: "Ranina cites Manmohan Singh's deficit projection for 1995-96 as a cautionary data point to challenge the credibility of Chidambaram's stated deficit target for the new budget."
+    evidence:
+      - quote: "Manmohan Singh's Rs. 5,000 crore deficit projection for 1995-96 overshot by 50% to Rs. 7,600 crore"
+        context: "Ranina's evidence that fiscal deficit targets are routinely underestimated"
+    key_passages: []
+
 ---
 
 # Economic Infirmities Will Continue Under the Union Budget 1996-97

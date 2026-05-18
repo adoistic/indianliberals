@@ -7,6 +7,25 @@ language: "en"
 needs_review: true
 draft: false
 author: ""
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: author
+    reasoning: "The entry is Palkhivala's Shriram Memorial Lecture of 1969; Palkhivala is the author of the text, though this was not captured in the frontmatter."
+    evidence:
+      - quote: "Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969."
+        context: The editorial preamble identifies Palkhivala as the author of the delivered lecture
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Lincoln's dictum about the power of public information is invoked to support Palkhivala's argument that free-enterprise advocates must educate the public rather than merely sell their goods."
+    evidence:
+      - quote: As Abraham Lincoln rightly said, the people would be able to face any crisis, provided only the correct facts were made known to them.
+        context: "Lincoln's aphorism is cited to argue that public education — not just commerce — is the liberal's primary obligation in a democracy"
+    key_passages: []
+related_thinkers: 
+  - abraham-lincoln
+  - nani-palkhivala
+
 ---
 
 _Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969. This was under the section 'India - The Potential and The Reality' in the book 'We, the People: India-The Largest Democracy' published by Strand Book Stall in 1984_

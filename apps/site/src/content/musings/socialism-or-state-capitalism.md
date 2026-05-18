@@ -7,6 +7,27 @@ language: "en"
 needs_review: true
 draft: false
 author: "k-santhanam"
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: Marx is cited as the theorist whose concept of socialism underwent great change after the industrial revolution; the essay critically traces the evolution of Marxist thought from theoretical socialism to Soviet state capitalism.
+    evidence:
+      - quote: the nature of which has undergone a great change since Karl Marx expounded his theory.
+        context: Marx named as the originator of the socialist theory whose practical development the essay analyses
+      - quote: Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR
+        context: "essay traces how Stalin's state capitalism diverged from Marx's original theory"
+    key_passages: []
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: "Stalin is identified as the figure who made state capitalism absolute and totalitarian in the USSR, serving as the key example of socialism's degeneration into state capitalism."
+    evidence:
+      - quote: Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR
+        context: Stalin presented as the decisive agent in transforming Soviet socialism into state capitalism
+    key_passages: []
+related_thinkers: 
+  - joseph-stalin
+  - karl-marx
+
 ---
 
 _The musing shared below is a 1970 piece published by the Forum of Free Enterprise and authored by K Santhanam. In 1948, Santhanam was the Minister of State for Railways and Transport in the Government of India, followed by a stint as the Lieutenant Governor of Vindhya Pradesh. A prolific writer, Santhanam also served as the first editor of the Indian Express from 1932 until 1940, subsequently becoming the joint editor of the Hindustan Times. In 1962, Santhanam was appointed as the chairman of the Committee on Prevention of Corruption. The recommendations of this Committee, also known as the Santhanam Committee, resulted in the establishment of the Central Vigilance Commission in 1964._

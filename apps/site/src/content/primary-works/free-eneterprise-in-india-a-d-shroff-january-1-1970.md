@@ -8,7 +8,9 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,6 +42,17 @@ physical:
 missing_metadata_flags:
   - publication_year_not_printed
   - theme_vocabulary_not_provided_in_prompt
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "The pamphlet reproduces A. D. Shroff's 1956 Times of India article calling for a countrywide educative campaign by the private sector against the government's socialist drift, with a constitutional warning about one-party dominance."
+    evidence: []
+    key_passages:
+      - quote: the private sector to mount a countrywide educative campaign
+        what_it_shows: "Shroff's core prescription: organised advocacy as the antidote to state propaganda"
+      - quote: in a country with one dominant political party and no effective organised opposition, the thin borderline between democracy and totalitarianism can soon be crossed
+        what_it_shows: closing constitutional warning that gives the pamphlet its enduring force
+
 ---
 
 # FREE ENTERPRISE IN INDIA

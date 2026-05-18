@@ -9,6 +9,18 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "azizun-nisa"
+thinker_mentions:
+  - thinker: azizun-nisa
+    role: subject
+    reasoning: "The article is a profile of Azizun Nisa's role as a warrior and strategist in the 1857 Revolt, recovering her contributions from historical neglect."
+    evidence: []
+    key_passages:
+      - quote: Azizun Nisa, also known as Azizun Bai, was born in Lucknow and spent her life in Kanpur. Professionally a courtesan of Lurkee Mahil, she donned the role of a warrior and a strategist in the Revolt of 1857.
+        what_it_shows: establishes her identity and the double role she played in the revolt
+      - quote: "Azizun Nisa's unyielding strength and courage ensured that she did not confess for forgiveness from the colonial powers."
+        what_it_shows: captures her defining act of resistance against British interrogation
+related_thinkers: []
+
 ---
 
 The following essay revisits the liberal and patriotic contributions of Azizun Nisa, a forgotten warrior of the 1857 Revolt. It also raises important questions concerning rigid colonial ideas of morality that were historically alien to Indian minds.The First War of Independence in 1857 gave India a host of freedom fighters that would be revered for generations to come. Rani Lakshmi Bai, Tantia Tope, Nana Saheb Peshwa II and Begum Hazrat Mahal have been memorialized in Indian history for their contributions. Among the many names that do not end up getting the same kind of recognition for their contributions is Azizun Nisa - a courtesan who fought in the Siege of Cawnpore.

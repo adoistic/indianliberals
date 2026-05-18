@@ -5,11 +5,47 @@ pubDate: 2025-08-16T12:20:45
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala/2722087/"
 themes: ["indian-constitution", "indian-liberals-matter", "socialism"]
-related_thinkers: ["nani-palkhivala"]
+related_thinkers: 
+  - alexis-de-tocqueville
+  - jawaharlal-nehru
+  - john-kenneth-galbraith
+  - mahatma-gandhi
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is the central figure of the essay's historical arc: his midnight speech begins the forty-three years under review, and his socialist legacy is identified as the source of India's squandered potential."
+    evidence:
+      - quote: At the stroke of midnight on 14th August 1947, Jawaharlal Nehru made his famous speech wherein he referred to India keeping her tryst with destiny and awaking to life and freedom.
+        context: "Nehru's independence speech anchors the essay's retrospective on forty-three years of independent India"
+      - quote: I would be dishonouring the memory of Pandit Nehru and of his mentor, Mahatma Gandhi, if I tried to be economical with the truth.
+        context: Palkhivala frames his critique as honouring both Nehru and Gandhi by being candid
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is invoked as Nehru's mentor and as a source of moral authority that Palkhivala says must not be dishonoured by economic untruth."
+    evidence:
+      - quote: I would be dishonouring the memory of Pandit Nehru and of his mentor, Mahatma Gandhi, if I tried to be economical with the truth.
+        context: "positions honest economic criticism as itself an act of respect toward Gandhi's legacy"
+    key_passages: []
+  - thinker: alexis-de-tocqueville
+    role: mention
+    reasoning: "De Tocqueville's insight that liberty must be paired with a companion virtue is quoted to make the essay's normative argument about responsible freedom."
+    evidence:
+      - quote: "De Tocqueville made the profound observation that liberty cannot stand alone but must be paired with a companion virtue: liberty and morality; liberty and law; liberty and justice; liberty and the common good; liberty and civic responsibility."
+        context: "philosophical anchor for the essay's closing call for responsible citizenship"
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith's remark about the 'richness in poverty' among India's poor is quoted with ironic intent to illustrate the gap between outside perceptions of India and its actual economic failure."
+    evidence:
+      - quote: "Ambassador John Kenneth Galbraith remarked that while he had seen poverty in many countries of the world, he found one unusual attribute among the poor of India — \"There is richness in their poverty.\""
+        context: "closing irony: Galbraith's charitable observation counterpoints Palkhivala's indictment of economic mismanagement"
+    key_passages: []
 
 ---
 

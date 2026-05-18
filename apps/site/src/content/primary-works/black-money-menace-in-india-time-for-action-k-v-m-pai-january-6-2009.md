@@ -8,10 +8,11 @@ authors:
   - k-v-m-pai
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - b-r-shenoy
   - d-r-pendse
-  - hp-ranina
+  - n-vittal
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +44,31 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - editor_anonymous_in_preface
+thinker_mentions:
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: The booklet preface cites B. R. Shenoy as a Forum tradition-bearer on tax evasion, and Pai closes his address by invoking a 1962 Shenoy warning that the only real remedy for black money is to abandon statist policies.
+    evidence:
+      - quote: citing earlier booklets by B. R. Shenoy, B. P. Adarkar, Vadilal Dagli, D. R. Pendse and H. P. Ranina
+        context: "preface situating Pai's address in the Forum's long tradition of writing on black money"
+      - quote: closes with a 1962 warning from B. R. Shenoy that the only real remedy is to abandon the policies of statism
+        context: "closing of Pai's address; Shenoy's prescription is the normative conclusion of the whole argument"
+    key_passages: []
+  - thinker: d-r-pendse
+    role: mention
+    reasoning: "D. R. Pendse is cited in the booklet preface as one of the Forum tradition-bearers whose earlier work on tax evasion and black money frames Pai's 2008 address."
+    evidence:
+      - quote: citing earlier booklets by B. R. Shenoy, B. P. Adarkar, Vadilal Dagli, D. R. Pendse and H. P. Ranina
+        context: "preface listing the Forum's prior contributions on black money; Pendse's work provides the intellectual lineage for Pai's argument"
+    key_passages: []
+  - thinker: n-vittal
+    role: mention
+    reasoning: "N. Vittal's 1999 contribution to the Forum's black-money literature is cited in the preface as the most recent predecessor to Pai's 2008 address."
+    evidence:
+      - quote: and a 1999 contribution by N. Vittal
+        context: "preface listing Forum tradition-bearers on tax evasion; Vittal's work is the closest predecessor to Pai's address"
+    key_passages: []
+
 ---
 
 # BLACK MONEY MENACE IN INDIA

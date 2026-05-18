@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "pandita-ramabai"
+thinker_mentions:
+  - thinker: anandibai-joshee
+    role: mention
+    reasoning: Anandibai Joshee is invoked as the first Indian woman to become a medical doctor, whose 1886 graduation Ramabai attended in Philadelphia — a pivotal moment in the profile situating Ramabai within the first generation of Indian women pioneers.
+    evidence:
+      - quote: Anandibai Joshee, the first Indian woman to become a medical doctor, who was also her cousin
+        context: "Joshee's graduation is the event that brings Ramabai to America and connects the two pioneering women"
+    key_passages: []
+related_thinkers: 
+  - anandibai-joshee
+
 ---
 
 _Pandita Ramabai (1858-1922) was an Indian social reformer, women's rights activist, scholar, and educator. She is best known for her pioneering work in promoting women's education and empowerment in India, publishing books on a wide range of topics, including the status of women in India, the Bible, and Sanskrit literature. She travelled extensively in India and abroad, advocating against child marriage, widowhood, and other social injustices against women. Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide._

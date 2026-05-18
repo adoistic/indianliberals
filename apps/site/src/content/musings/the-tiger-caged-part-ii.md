@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Masani is named as the founder of Freedom First magazine, the publication that republished The Economist's survey, framing the editorial context for the entire piece."
+    evidence:
+      - quote: a liberal magazine established by Minoo Masani.
+        context: Masani cited as founder of the Freedom First magazine platform through which this Economist survey is being shared
+    key_passages: []
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: Manmohan Singh is cited as the reformist Finance Minister whose 1991 reforms are being protected from vested-interest opposition, with readers urged to support his programme.
+    evidence:
+      - quote: "those being misguided by vested interests into opposing Dr Manmohan Singh's reforms."
+        context: Manmohan Singh identified as the reformist whose 1991 liberalisation programme Freedom First is defending
+    key_passages: []
+related_thinkers: 
+  - manmohan-singh
+  - minoo-masani
+
 ---
 
 To stem the flood of imports that this regime might otherwise allow, the system has been bolstered in several other ways. Imports can be brought in only by an "actual user"; in other words, intermediaries are banned. As part of the domestic capacity licensing scheme, firms can be obliged to sign up for a "phased manufacturing programme": they are allowed to expand their factories, but only if they promise to reduce the import content of the goods they produce.

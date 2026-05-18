@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "The entry's central subject is Nehru's Non-Alignment policy after the 1962 China defeat — his formulation, its critics, and the Indian liberal response — making Nehru the pivot of the entire historical and analytical argument."
+    evidence:
+      - quote: "raised questions about the foreign policy conduct of India's first Prime Minister Jawaharlal Nehru."
+        context: "Nehru's conduct after 1962 is the historical hinge of the entire entry's argument"
+      - quote: "Nehru's formulation of Non-Alignment, which was couched in the language of third block neutrality, was interpreted as hedging by revisionist scholars, and came under intense criticism."
+        context: "Nehru's Non-Alignment doctrine is the specific policy the Indian liberals critiqued and the essay analyses"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _The Indian defeat in the 1962 border war with China not only resulted in loss of territory, but also raised questions about the foreign policy conduct of India’s first Prime Minister Jawaharlal Nehru. _

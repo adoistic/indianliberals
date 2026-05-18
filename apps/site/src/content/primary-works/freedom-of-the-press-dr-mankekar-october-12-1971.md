@@ -7,11 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - jawaharlal-nehru
-  - bal-gangadhar-tilak
-  - mahatma-gandhi
+related_thinkers: 
   - indira-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +42,15 @@ missing_metadata_flags:
   - no_toc_single_speech
   - no_isbn
   - author_not_in_authority_file
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "A 1968 passage from Indira Gandhi warning that threats to a free press come as much from within journalism as from authority is appended to the booklet, used to reinforce Mankekar's argument about editorial independence."
+    evidence:
+      - quote: a 1968 passage from Indira Gandhi on the threat to a free press coming as much from within journalism as from authority
+        context: "appended to Mankekar's main argument as a concessive authoritative voice reinforcing his concern about editorial integrity"
+    key_passages: []
+
 ---
 
 # Freedom of the Press

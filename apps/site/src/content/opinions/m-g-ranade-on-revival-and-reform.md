@@ -9,6 +9,20 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "mahadev-govind-ranade"
+thinker_mentions:
+  - thinker: mahadev-govind-ranade
+    role: subject
+    reasoning: "The piece is entirely about the ideas of M.G. Ranade as a social reformer and liberal thinker, mediated through Aroon Tikekar's lectures on Ranade's legacy."
+    evidence: []
+    key_passages:
+      - quote: every genuine Liberal, be he a professional researcher or journalist, in Maharashtra, nurtures a deep desire to interpret in his way the mission and message of Mahadeo Govind Ranade, progenitor of many reform movements in Western India
+        what_it_shows: "establishes Ranade's canonical importance for Maharashtrian liberalism"
+      - quote: "a distinguished university student, eminent judge, brilliant 'nationalist' historian and economist, educative journalist, enlightened religious and social reformer, exemplary moral preacher, builder of institutions, maker of great men, friend, philosopher and guide of the young generation of his time"
+        what_it_shows: "Tikekar's enumeration of Ranade's multifaceted contributions"
+      - quote: The ruling elites in Maharashtra seem to have totally forgotten Ranade and the work he did for national regeneration.
+        what_it_shows: "signals the neglect of Ranade's legacy that the article seeks to remedy"
+related_thinkers: []
+
 ---
 
 _Ranade’s ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism. Steering clear from the militancy of any kind, he sought to introduce reforms through persuasion._Aroon Tikekar, a renowned author, journalist and intellectual delivered a couple of lectures in 1998 at the University of Mumbai and the motivation behind the series was that he wanted to make the audience aware of the contribution of M.G. Ranade as a social reformer and also acquaint them with the forgotten intellectual landscape of the city. His passion for engaging with the audience and informing them about various persons, issues and events in history remains unparalleled.

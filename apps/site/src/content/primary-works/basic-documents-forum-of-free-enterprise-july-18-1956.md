@@ -7,10 +7,9 @@ work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - eugene-black
-  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +42,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - editor_not_named
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff is named as the Forum's Founder-President, and the pamphlet opens with his frontispiece epigraph; the closing essay also cites his dictum on free enterprise as the Forum's ideological anchor."
+    evidence:
+      - quote: it opens with frontispiece epigraphs from A. D. Shroff, the Founder-President, and from Eugene Black
+        context: "opening description; Shroff's status as Founder-President and the presence of his epigraph make this a substantive institutional attribution, not mere boilerplate"
+    key_passages: []
+
 ---
 
 # Basic Documents

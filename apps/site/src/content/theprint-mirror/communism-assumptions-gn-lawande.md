@@ -5,11 +5,23 @@ pubDate: 2026-03-14T11:30:15
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/communism-assumptions-gn-lawande/2878812/"
 themes: ["capitalism", "communism", "society"]
-related_thinkers: ["g-n-lawande"]
+related_thinkers: 
+  - g-n-lawande
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: g-n-lawande
+    role: subject
+    reasoning: "The article is GN Lawande's essay dismantling the philosophical assumptions of communism, arguing its core premises are self-deluding and unrealisable."
+    evidence: []
+    key_passages:
+      - quote: communism is a reaction to capitalism; it is believed by communists that capitalism is the cause of all the present ills that the people face and the only remedy lies in the adoption of communism.
+        what_it_shows: "Lawande's framing of communism as a reactive ideology"
+      - quote: its philosophy we find that it is based on self deluding assumptions which can never be realised in actual practice.
+        what_it_shows: "Lawande's central thesis — communism's premises are unrealisable"
 
 ---
 

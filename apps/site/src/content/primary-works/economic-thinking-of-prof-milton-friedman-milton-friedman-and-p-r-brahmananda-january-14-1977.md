@@ -14,10 +14,11 @@ contributors:
   - role: author
     thinker_unresolved: Dr. P. R. Brahmananda
     toc_index: 3
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - friedrich-hayek
   - john-stuart-mill
-  - john-kenneth-galbraith
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +58,31 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Brahmananda contrasts Friedman with Hayek, citing Hayek's uncompromising anti-inflation stance as the stricter standard against which Friedman's accommodation to Keynesianism falls short, aligning himself with the Austrian position."
+    evidence:
+      - quote: "Hayek, the Austrians, Gurley and Shaw — arguing that Friedman's genuine originality lies less in the propositions themselves than in synthesising them and subjecting them to systematic empirical test."
+        context: "Hayek named among the thinkers whose individual contributions Brahmananda credits, disputing Friedman's originality"
+      - quote: "Contrasts Hayek's uncompromising anti-inflation stance with Friedman's accommodation, aligning the author with classical economists like Ricardo, Hume, J. S. Mill and Marshall who preferred a falling-price-level path on grounds of social justice."
+        context: "key-points summary of Brahmananda's positioning of Hayek against Friedman"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "J. S. Mill is cited by Brahmananda as part of the classical-economist tradition that favoured a falling-price-level path as more conducive to social justice, used to critique Friedman's concessions to inflation."
+    evidence:
+      - quote: aligning the author with classical economists like Ricardo, Hume, J. S. Mill and Marshall who preferred a falling-price-level path on grounds of social justice
+        context: "Brahmananda's alignment with the classical tradition against Friedman's indexation proposal"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The back matter carries an A. D. Shroff epigraph, situating Friedman's exchange-rate article within the Forum's classical-liberal tradition."
+    evidence:
+      - quote: the back matter carries the standard membership appeal and an A. D. Shroff epigraph
+        context: "editorial framing placing the booklet in the Forum of Free Enterprise's ideological lineage"
+    key_passages: []
+
 ---
 
 # The Economic Thinking of Prof. Milton Friedman

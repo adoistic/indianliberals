@@ -14,8 +14,9 @@ contributors:
   - role: author
     thinker: d-r-pendse
     toc_index: 2
-related_thinkers:
-  - jawaharlal-nehru
+related_thinkers: 
+  - nicholas-kaldor
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +50,15 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc
   - no_explicit_publication_year_on_cover
+thinker_mentions:
+  - thinker: nicholas-kaldor
+    role: mention
+    reasoning: "Pendse cites Nicholas Kaldor's 1956 Indian Tax Reform report as authoritative backing for the claim that low government salaries are a root cause of black money and corruption."
+    evidence:
+      - quote: "low salaries of government servants, citing Nicholas Kaldor's 1956 Indian Tax Reform report"
+        context: "Pendse's seven-point catalogue of black-money causes; Kaldor's report is invoked as the expert source on the salary-corruption link"
+    key_passages: []
+
 ---
 
 # Black Money and Special Bearer Bonds Scheme

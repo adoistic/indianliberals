@@ -6,6 +6,17 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: author
+    reasoning: "The entry is an excerpt from Palkhivala's 'Our Constitution Defaced and Defiled' (1960); Palkhivala is the author of the reproduced text, though this was not captured in the frontmatter."
+    evidence:
+      - quote: "This piece is an excerpt about Parliament's Amending Power from Nani Palkhivala's \"Our Constitution Defaced and Defiled\". This was first published in 1960 by The Macmillan Company of India Limited."
+        context: The editorial preamble identifies Palkhivala as the author of the constitutional analysis being excerpted
+    key_passages: []
+related_thinkers: 
+  - nani-palkhivala
+
 ---
 
 _This piece is an excerpt about Parliament’s Amending Power from Nani Palkhivala’s “Our Constitution Defaced and Defiled”. This was first published in 1960 by The Macmillan Company of India Limited. In the introduction to this publication, Nani Palkhivala says “WE, THE PEOPLE OP INDIA, adopted, enacted and gave to ourselves the Constitution. We, the people, are also its only keepers. We have to pay the State not only in taxes but in time and in thought.”_

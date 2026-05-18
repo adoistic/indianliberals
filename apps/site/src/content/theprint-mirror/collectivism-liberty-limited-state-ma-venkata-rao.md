@@ -5,11 +5,39 @@ pubDate: 2026-02-28T12:57:22
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/collectivism-liberty-limited-state-ma-venkata-rao/2866268/"
 themes: ["indian-liberals-matter", "john-stuart-mill", "karl-marx", "libertarianism", "marxism"]
-related_thinkers: ["ma-venkata-rao"]
+related_thinkers: 
+  - john-stuart-mill
+  - karl-marx
+  - ma-venkata-rao
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ma-venkata-rao
+    role: subject
+    reasoning: "The article is MA Venkata Rao's essay on the failure of Marxist collectivism and the case for libertarian individualism and a limited state."
+    evidence: []
+    key_passages:
+      - quote: Collectivism has become the illusion of the epoch today in which the rights and duties of the individual citizen as a self-determining and self-realising person are lost to view.
+        what_it_shows: "Rao's central philosophical diagnosis of the collectivist age"
+      - quote: The wheel has come full circle. The individualist philosophy of John Stuart Mill and his followers which guided liberal democracy is today eclipsed by the dominant collectivism of Karl Marx.
+        what_it_shows: "Rao's historical framing of liberalism's current eclipse"
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Karl Marx is the central ideological antagonist of Rao's essay, with his class-war doctrine identified as the source of collectivism's dominance over liberal individualism."
+    evidence:
+      - quote: the dominant collectivism of Karl Marx, particularly in respect of economy. Adam Smith and Mill are both put into the shade.
+        context: identifies Marx as the intellectual force that eclipsed classical liberalism
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "J.S. Mill is invoked as the philosopher of liberal individualism whose tradition is now eclipsed by Marxist collectivism, serving as the normative anchor of Rao's argument."
+    evidence:
+      - quote: The wheel has come full circle. The individualist philosophy of John Stuart Mill and his followers which guided liberal democracy is today eclipsed by the dominant collectivism of Karl Marx.
+        context: Mill cited as the archetype of liberal individualism whose legacy Rao seeks to restore
+    key_passages: []
 
 ---
 

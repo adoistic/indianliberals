@@ -5,11 +5,39 @@ pubDate: 2025-07-05T11:52:10
 author_name: "M.A. Master"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi/2680404/"
 themes: ["indian-liberals-matter", "private-sector", "psu"]
-related_thinkers: ["m-a-master"]
+related_thinkers: 
+  - a-d-shroff
+  - jrd-tata
+  - vinoba-bhave
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: Shroff is named as an exemplary entrepreneur whose hypothetical attempt to start an industry under licensing raj illustrates how government bureaucrats, not private capitalists, now wield true economic power.
+    evidence:
+      - quote: Suppose my friend, Mr. A. D. Shroff, wants to start an industry. Suppose he has acquired the licence to do so and has also obtained the permission to raise the necessary capital from the Controller of Capital Issues.
+        context: Shroff is used as the archetypal capable industrialist whose initiative is nonetheless hostage to bureaucratic whim
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "J. R. D. Tata is quoted twice as a voice of private enterprise: first to affirm that the private sector is not against the Welfare State's objectives, and then to articulate the sector's demand for dignity, fair treatment, and relief from suffocating controls."
+    evidence:
+      - quote: "Private sector, as remarked by Mr. J.R.D. Tata, is not against \"the general objectives of a Welfare State.\""
+        context: Tata positions private enterprise as compatible with social goals, rebutting the premise that socialism and welfare are synonymous
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Vinoba Bhave's warning that government power has penetrated into every sphere of personal life is quoted to add a Gandhian moral voice to the critique of state overreach in the economy."
+    evidence:
+      - quote: actual power and responsibility, as remarked by Acharya Vinoba Bhave, has got concentrated in the hands of a very few at the apex.
+        context: "Bhave's observation on power concentration reinforces the essay's anti-statist thesis from a Gandhian angle"
+      - quote: "\"Government has power over the entire life of the people. There is hardly a sphere of life which  is absolutely private and personal. This is a dangerous state of affairs.\""
+        context: "Bhave's direct quotation serves as the essay's strongest moral indictment of state overreach"
+    key_passages: []
 
 ---
 

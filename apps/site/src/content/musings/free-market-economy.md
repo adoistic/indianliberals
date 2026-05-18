@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Rangoonwala opens by crediting A. D. Shroff as the Forum's founder and the great man who set its high standards, positioning Shroff's legacy as the ideological foundation of the silver jubilee gathering."
+    evidence:
+      - quote: The Forum was, of course, founded by a very great man, the late A. D. Shroff.
+        context: "Shroff is established as the Forum's founding figure whose standards define the institution's identity"
+    key_passages: []
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: "Vaidya is named as one of the eminent successors who maintained Shroff's high standards as Forum president, situating him in the institutional lineage the speech celebrates."
+    evidence:
+      - quote: the high standards he set have been admirably maintained by the eminent persons who have followed him as President- the late Murarji Vaidya, J. H. Doshi
+        context: Vaidya is placed in the presidential lineage of Forum of Free Enterprise leaders
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Rangoonwala singles out Palkhivala as the Forum's current president who commands profound respect worldwide, using his annual budget lectures as evidence of the Forum's remarkable intellectual reach."
+    evidence:
+      - quote: your present distinguished leader, N. A. Palkhivala, who enjoys the profound respect not only of his fellow countrymen but of informed people and decision-makers throughout the whole world.
+        context: "Palkhivala is the Forum's living embodiment of its intellectual prestige"
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+  - murarji-vaidya
+  - nani-palkhivala
+
 ---
 
 Originally published by the [Forum of Free Enterprise,](https://indianliberals.in/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982.pdf) the following text was an address by M. A. Rangoonwala, the past President of the International Chamber of Commerce, delivered as the Chief Guest on January 12, 1982, at the function held to celebrate the Forum's Silver Jubilee. It is a great honour to be speaking at the Silver Jubilee celebrations of this august institution. I offer you my deepfelt thanks for inviting me. And I offer you my sincere congratulations and those of the world business community represented in the International Chamber of Commerce, on your first, immensely successful, 25 years. May you go from strength to strength during the course of your next quarter century! 

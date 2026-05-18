@@ -9,6 +9,30 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "hamid-dalwai"
+thinker_mentions:
+  - thinker: hamid-dalwai
+    role: subject
+    reasoning: "The essay profiles Hamid Dalwai and the Muslim Satyashodhak Mandal he led, detailing his analysis of Indian communalism, the Mandal's case for secular constitutionalism over religious personal laws, and his argument for limiting religion to the private sphere."
+    evidence: []
+    key_passages:
+      - quote: Hamid Dalwai – a Marathi social reformer drew a parallel between India and Europe in his book Rashtriya Ekatmata ani Bharatiya Musalman
+        what_it_shows: "establishes Dalwai's comparative historical framework for understanding Indian communalism"
+      - quote: The Mandal was convinced that a Uniform Family Code is the only way to safeguard the women and their equal rights
+        what_it_shows: "the Mandal's central policy demand grounded in individual rights rather than religious autonomy"
+      - quote: "India [Indian Constitution] has put restrictions that prompt the society to take the path of secularism. The religious liberties have been bestowed upon the individual, not religions"
+        what_it_shows: "Dalwai's constitutional reading: secularism as individual liberty, not collective religious right"
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's government is noted for introducing the Hindu Code Bill but failing to reform Muslim personal laws, and Nehru's stated intention to introduce uniform civil law is cited as the unrealised liberal aspiration the Mandal sought to fulfil."
+    evidence:
+      - quote: "Jawaharlal Nehru's government introduced and passed the Hindu Code Bill in 1955-56, defying the Hindu orthodoxy; however, his government couldn't reform the unjust laws affecting Muslim women"
+        context: "identifying Nehru's failure to extend secular reform to Muslim personal law as the gap the Mandal sought to close"
+      - quote: Nehru clarified his intentions of introducing a uniform civil law applicable to both Hindus and Muslim in the future as soon as the community was amicable to such an idea
+        context: "Nehru's stated commitment to uniform civil code deferred by political calculation"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _The Muslim Satyashodhak Mandal believed that the sanctimonious people from all major religions in India have escaped from accepting modern secularism in its truest sense and have resorted to a fraudulent term called ‘Sarvadharma samabhav’._In order to explain the true nature of communalism in India, Hamid Dalwai – a Marathi social reformer drew a parallel between India and Europe in his book _Rashtriya Ekatmata ani Bharatiya Musalman. _ He takes us back to the times when Arabs invaded Europe through Gibraltar in A.D 711. Arabs reached Tours (France) by A.D 732, in 21 years. After reaching Tours they steadily met with defeat and their campaign lost its steam. The Christians initiated a pushback, however, this process of winning back – Reconquista, took a long time. This process was over with the fall of Granada in 1492. This process of the Arab invasion and the Christian Reconquista indicates a complete cycle in the medieval history of Europe. The accounts of these invasions, conversions and even Christian inquisitions are well documented by European scholars.

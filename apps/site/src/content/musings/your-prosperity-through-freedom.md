@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "m-r-pai"
 ---
 
 _“Your Prosperity Through Freedom” was written by M. R. Pai and designed by Eric Francis. A graphic novel, it illustrates the meaning and essence of a Free enterprise–that work is not the only vital component for a prosperous economy; freedom is equally essential. Under state capitalism, the Government directs and owns all means of production, and it makes all the economic decisions without the nation’s consent. This leaves no place for individual liberty. Communist countries are the perfect example of state capitalism, where everything is directed, dictated, and managed by the Government. The author explains that even though socialism is minutely distinct from communism, its economic policies are similar to communist policies. Thus, the only way to have both prosperity and freedom is by having free enterprise. Free Enterprise is not reflective of an individualistic system but a society where rules and regulations are laid down by the economic representatives elected by the people. It is not against planning but asserts planning in favor of free enterprise. In such an atmosphere, the result is more industries, more employment, better opportunities for all, etc. Thus, Free Enterprise is a People’s enterprise and is the key to prosperity and freedom. _

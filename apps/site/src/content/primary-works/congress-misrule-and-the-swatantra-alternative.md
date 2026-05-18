@@ -9,14 +9,14 @@ editors: []
 contributors:
   - role: foreword
     thinker: c-rajagopalachari
-related_thinkers:
-  - jawaharlal-nehru
+related_thinkers: 
+  - c-rajagopalachari
+  - dudley-senanayake
   - karl-marx
-  - vinoba-bhave
   - milovan-djilas
   - s-chandrasekhar
-  - sirimavo-bandaranaike
-  - dudley-senanayake
+  - vinoba-bhave
+
 publication:
   language: en
   publisher_name: "Manaktalas : Bombay"
@@ -54,6 +54,56 @@ physical:
   format: book
 missing_metadata_flags:
   - no_isbn
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajagopalachari contributes the foreword to the volume, certifying it as criticism of the highest quality and framing the Swatantra Party as an instrument of good government — lending his moral authority to Masani's indictment of Congress."
+    evidence:
+      - quote: "C. Rajagopalachari's brief foreword frames the volume as criticism of the highest quality, arguing that the Swatantra Party exists to give India good government"
+        context: "Rajagopalachari's foreword grants the collection moral and political credibility within the liberal-right tradition"
+      - quote: "Rajagopalachari's foreword (p. v) certifies the volume as reproducing edited speeches to convey the Swatantra Party's programme with 'all the vigour it can command'"
+        context: "Rajagopalachari endorses the book's programmatic intent"
+    key_passages: []
+  - thinker: milovan-djilas
+    role: mention
+    reasoning: "Masani deploys Djilas's 'The New Class' to argue that state capitalism, as practised under Congress, produces a more exploitative new bureaucratic class rather than social justice — using Djilas's disillusionment with socialist governance as an anti-Congress indictment."
+    evidence:
+      - quote: "He invokes Milovan Djilas's 'The New Class' and the testimony of demographer S. Chandrasekhar on Chinese communes to show that state capitalism produces a new exploiting bureaucratic class rather than social justice"
+        context: "Djilas's thesis is the theoretical key for Masani's argument that socialism creates new oppressors"
+      - quote: "Masani deploys Milovan Djilas's 'The New Class' and S. Chandrasekhar's account of Chinese communes to argue that state capitalism produces a more exploitative bureaucratic class than private capitalism"
+        context: Djilas appears as the authoritative ex-communist witness against the Congress socialist programme
+    key_passages: []
+  - thinker: s-chandrasekhar
+    role: mention
+    reasoning: "Masani calls on S. Chandrasekhar's testimony on Chinese communes as demographic evidence that collectivisation produces exploitation rather than equity, pairing empirical demography with Djilas's political theory."
+    evidence:
+      - quote: the testimony of demographer S. Chandrasekhar on Chinese communes to show that state capitalism produces a new exploiting bureaucratic class rather than social justice
+        context: "Chandrasekhar's data on Chinese communes is cited as real-world evidence against collectivisation"
+      - quote: "S. Chandrasekhar's account of Chinese communes to argue that state capitalism produces a more exploitative bureaucratic class than private capitalism"
+        context: Chandrasekhar is used alongside Djilas to make the empirical case against the Congress socialist programme
+    key_passages: []
+  - thinker: dudley-senanayake
+    role: mention
+    reasoning: "Masani cites the 1965 democratic transition in Ceylon under Dudley Senanayake as proof that displacing a Congress-type government in favour of a liberal alternative is achievable, making Senanayake's victory a template for Swatantra's electoral ambitions."
+    evidence:
+      - quote: "Ceylon's 1965 displacement of a Congress-type government by Dudley Senanayake's liberal government is cited in the rendered pages as proof that such a democratic transition is achievable"
+        context: "Senanayake's electoral success is presented as the South Asian precedent for Swatantra's viability"
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Masani cites Vinoba Bhave's own warning about power being concentrated in five or six people at the apex as an unlikely endorsement of Swatantra's critique of Congress's centralisation of economic and political power."
+    evidence:
+      - quote: "citing Acharya Vinoba Bhave's own warning about power being held by five or six people at the apex"
+        context: "Bhave — a Gandhian moral authority — is invoked to validate Masani's critique of Congress's concentration of power"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Masani cites Marx — ironically — for the proposition that property owners are free, turning Marx's insight against the Congress logic of property abolition and state control."
+    evidence:
+      - quote: Karl Marx is cited—ironically—for the observation that those who own property are free, a point Masani turns against the Congress logic of abolition
+        context: "Marx is deployed against his own supposed heirs to expose the contradiction in Congress's anti-property socialism"
+    key_passages: []
+
 ---
 
 # Congress Misrule and the Swatantra Alternative

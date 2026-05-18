@@ -8,6 +8,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "piloo-mody"
+thinker_mentions:
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: Lincoln is invoked alongside multiple US presidents to illustrate a trans-partisan American tradition of warning against the political dangers of concentrated economic power.
+    evidence:
+      - quote: whether it was Abraham Lincoln the legislator or Abraham Lincoln the President, whether it was Woodrow Wilson or Franklin Roosevelt- all felt compelled to warn and expose the danger monopoly capital presented to democratic society.
+        context: Lincoln is part of a roster of US presidents cited to ground the anti-monopoly argument in authoritative historical precedent
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is named as the intellectual lure behind Harold Laski's view that liberal democracy is structurally incapable of fundamental change, which Mody's essay challenges."
+    evidence:
+      - quote: Harold Laski on the other hand, under the lure of Marx and the Soviet revolution, is of the opinion that change is inherently contrary to the nature of a liberal democracy
+        context: "Marx's influence on Laski is cited to identify the source of the anti-liberal democratic pessimism Mody is arguing against"
+    key_passages: []
+related_thinkers: 
+  - abraham-lincoln
+  - karl-marx
+
 ---
 
 _Published in 1979, Piloo Mody's book 'Democracy means Bread and Freedom'  was an important piece of work which was written in a lucid style and discussed key ideas relevant to liberal thought in its economic, social and political understanding. Produced below is a chapter from the book. _Let us consider the nature of the 20th century confrontation between democrats and authoritarianism. Obviously the latter, except for proclaimed Fascists, cannot directly advocate a suspension of liberties and advocate the virtues of totalitarian rule. After all, freedom is ingrained too deeply within the modern ethos to permit such an onslaught. What is more, a direct assault on the concept of freedom would severely restrict their sphere of operation and expose their clandestine motive, which is to create a totalitarian order using in the meanwhile all the rights and protection offered by the democratic State. It is therefore but natural that would-be dictators should advance arguments which, while showing concern for the people, assiduously persuade them to barter away their liberty and freedom for a loaf of bread. 

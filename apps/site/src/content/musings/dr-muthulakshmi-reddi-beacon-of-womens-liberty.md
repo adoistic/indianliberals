@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "muthulakshmi-reddi"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's leadership of the independence movement is cited as the direct inspiration that drew Muthulakshmi Reddi into the freedom struggle alongside her medical and social-reform work."
+    evidence:
+      - quote: "Mahatma Gandhi's inspiring leadership profoundly impacted her. Under his influence, she actively engaged in the freedom struggle, coordinated efforts with other leaders, and played a crucial role in the movement."
+        context: "Gandhi is identified as the pivotal figure who channelled Reddi's social energy into the national independence cause"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 _Dr Muthulakshmi Reddy was an embodiment of progressive liberalism. She was a staunch advocate of women’s education and was a vehement critic of the Devadasi system. She challenged many traditional societal norms. By championing gender equality she left an indelible mark on South Indian social fabric._

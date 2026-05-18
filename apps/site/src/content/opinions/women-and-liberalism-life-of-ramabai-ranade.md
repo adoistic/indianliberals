@@ -9,6 +9,36 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "ramabai-ranade"
+thinker_mentions:
+  - thinker: ramabai-ranade
+    role: subject
+    reasoning: "The article is a full profile of Ramabai Ranade, covering her education under M.G. Ranade's guidance, her social activism, and her founding of the Seva Sadan."
+    evidence: []
+    key_passages:
+      - quote: "Ramabai Ranade was born on 25 January 1863 in the Kurlekar family, in Maharashtra. Albeit living in an era when women's education was not considered important, Ramabai was able to educate herself with the active support and encouragement of her husband, M G Ranade."
+        what_it_shows: establishes her social background and the context of her education
+      - quote: "A distinctively liberal feature of Ramabai's work is how all women, despite their social or economic background, were accepted in the Seva Sadan."
+        what_it_shows: "identifies her institution's inclusive, non-discriminatory character as a liberal hallmark"
+      - quote: "Ramabai was also greatly inspired by Pandita Ramabai, with whom she took English classes from a christian missionary during the former's stay at the Ranade residence."
+        what_it_shows: documents her relationship with Pandita Ramabai as an intellectual influence
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "M.G. Ranade is Ramabai's husband and intellectual mentor — he taught her himself and his reformist ideals are cited as the inspiration for her social activism."
+    evidence:
+      - quote: M G Ranade taught her several subjects such as mathematics, geography and languages, himself.
+        context: "identifies Ranade as Ramabai's personal tutor and educational enabler"
+    key_passages: []
+  - thinker: pandita-ramabai
+    role: mention
+    reasoning: "Pandita Ramabai is mentioned as an inspiration to Ramabai Ranade, with whom she took English classes during Pandita's stay at the Ranade residence."
+    evidence:
+      - quote: "Ramabai was also greatly inspired by Pandita Ramabai, with whom she took English classes from a christian missionary during the former's stay at the Ranade residence."
+        context: identifies Pandita Ramabai as a direct intellectual influence on Ramabai Ranade
+    key_passages: []
+related_thinkers: 
+  - mahadev-govind-ranade
+  - pandita-ramabai
+
 ---
 
 _ A distinctively liberal feature of Ramabai's work is how all women, despite their social or economic background, were accepted in the Seva Sadan._Ramabai Ranade was married at the age of 11, and according to the conventions of the era she lived in, her life should have been over with widowhood. However, Ramabai was not one to let society dictate. One of the most important social reformers of pre-independence India, Ramabai Ranade’s contributions have led to massive strides in the sphere of women empowerment. At a time when women were not to be seen in public often, and heard even less, Ranade’s life was nothing less than revolutionary.

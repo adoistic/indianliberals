@@ -8,8 +8,9 @@ authors:
   - jayashekar
 editors: []
 contributors: []
-related_thinkers:
-  - karl-marx
+related_thinkers: 
+  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,15 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn_or_series_number_visible
   - no_colophon_visible_in_rendered_chunk
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "The entry identifies Jayashekar as a Jawaharlal Nehru University faculty member, invoking Nehru's name institutionally — the only structural name-mention of a listed thinker outside the author himself."
+    evidence:
+      - quote: "Dr. Jayashekar, a Jawaharlal Nehru University faculty member, audits India's two-decade experience under the Rupee Payments Arrangement with the Soviet Union"
+        context: "opening line of the summary; Nehru's name appears as the university's namesake, anchoring Jayashekar's institutional affiliation"
+    key_passages: []
+
 ---
 
 # A Review of the Rupee Trade

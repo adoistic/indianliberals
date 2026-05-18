@@ -24,9 +24,10 @@ contributors:
   - role: author
     thinker_unresolved: Ashish Das
     toc_index: 4
-related_thinkers:
-  - chintaman-deshmukh
+related_thinkers: 
+  - l-k-jha
   - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -60,6 +61,22 @@ missing_metadata_flags:
   - no_visible_colophon_in_chunk
   - no_explicit_publication_place
   - no_explicit_imprint_year_on_cover_or_verso
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The panel discussion is held at the M. R. Pai Memorial Award function; Pai's consumer-rights legacy is the occasion's animating frame, and the panel's deposit-protection arguments are explicitly positioned as a continuation of his work."
+    evidence:
+      - quote: the panel discussion at the 7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011
+        context: "Pai's memory is the occasion for the deposit-deregulation debate"
+    key_passages: []
+  - thinker: l-k-jha
+    role: mention
+    reasoning: "Tarapore invokes L. K. Jha's old dictum that fair banking gives the highest possible rate to depositors and the lowest to borrowers as the normative standard by which the regulated savings-bank rate is found wanting."
+    evidence:
+      - quote: "He closes by invoking L. K. Jha's old dictum that fair banking gives the highest possible rate to depositors and the lowest possible rate to borrowers"
+        context: "Jha's dictum as former RBI Governor is the moral benchmark Tarapore uses to indict the status quo on deposit rates"
+    key_passages: []
+
 ---
 
 # Deregulation of Savings Banks' Deposit Interest Rates

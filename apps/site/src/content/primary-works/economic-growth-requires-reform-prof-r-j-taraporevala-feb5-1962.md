@@ -7,10 +7,11 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - morarji-desai
-  - t-t-krishnamachari
+related_thinkers: 
   - a-d-shroff
+  - nicholas-kaldor
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +48,29 @@ physical:
   format: Saddle-stitched pamphlet, green printed paper cover with FFE roundel; approx. 14 text pages
 missing_metadata_flags:
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: nicholas-kaldor
+    role: mention
+    reasoning: "Taraporevala singles out the expenditure tax, introduced on Kaldor's advice, as a clear fiscal failure that produced trivial revenue while generating disproportionate administrative costs, using it as a prime exhibit in his critique of the Second Plan's tax experiments."
+    evidence:
+      - quote: "an expenditure tax introduced on Nicholas Kaldor's advice that has produced trivial revenue (Rs. 9 lakhs in its first year, an estimated Rs. 90 lakhs for 1961-62) while generating disproportionate administrative cost"
+        context: "Taraporevala's critique of the expenditure tax as a failed Kaldor-inspired experiment"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Krishnamachari is identified as the Finance Minister who introduced the Kaldor-advised expenditure tax, making him a central figure in Taraporevala's account of how fiscal experimentation under the Second Plan damaged private enterprise."
+    evidence:
+      - quote: "Singles out the expenditure tax — introduced on Nicholas Kaldor's advice by then Finance Minister T. T. Krishnamachari — as a clear failure: trivial revenue (Rs. 1 crore actual against Rs. 9 crores originally estimated for its first year), and disproportionately costly to administer."
+        context: Krishnamachari named as responsible minister for the expenditure tax regime
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The pamphlet closes with an A. D. Shroff epigraph on free enterprise, situating Taraporevala's tax-reform argument within the Forum of Free Enterprise's ideological framework."
+    evidence:
+      - quote: The pamphlet closes with the standard Forum disclaimer and an A. D. Shroff epigraph on free enterprise.
+        context: "editorial framing that anchors the booklet in Shroff's free-enterprise tradition"
+    key_passages: []
+
 ---
 
 # Economic Growth Requires Reform of Tax Structure

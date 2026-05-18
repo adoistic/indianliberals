@@ -9,6 +9,44 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "jyotirao-phule"
+thinker_mentions:
+  - thinker: jyotirao-phule
+    role: subject
+    reasoning: "The article is a full analytical profile of Jyotiba Phule's radical humanism, his anti-caste ideology, and his global vision for lower-caste emancipation."
+    evidence: []
+    key_passages:
+      - quote: "Jyotiba Phule's radical humanism made him distinct from other nationalist leaders and was emulated by both E V Ramaswamy and Bhimrao Ambedkar."
+        what_it_shows: "establishes Phule's ideological influence on later reformers"
+      - quote: "In his struggle against the caste system, Jyotiba Phule's innovation lay in overturning the ideological foundation of what he called Brahmanical order."
+        what_it_shows: captures the intellectual originality of his anti-caste strategy
+      - quote: "Jyotiba Phule dedicated his pamphlet Ghulamgiri to \"the good people of the United States as a token of admiration for their sublime disinterested and self-sacrificing devotion in the cause of Negro slavery\"."
+        what_it_shows: demonstrates his global, universalist frame for lower-caste emancipation
+  - thinker: periyar-e-v-ramasamy
+    role: mention
+    reasoning: "Periyar E.V. Ramaswamy is cited as one of the two major reformers who emulated Phule's radical humanism."
+    evidence:
+      - quote: "Jyotiba Phule's radical humanism made him distinct from other nationalist leaders and was emulated by both E V Ramaswamy and Bhimrao Ambedkar."
+        context: "identifies Periyar as one of Phule's principal ideological heirs"
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is named alongside Periyar as a reformer who emulated Phule's radical humanism, cementing Phule's place as an intellectual forerunner of the Dalit movement."
+    evidence:
+      - quote: "Jyotiba Phule's radical humanism made him distinct from other nationalist leaders and was emulated by both E V Ramaswamy and Bhimrao Ambedkar."
+        context: "identifies Ambedkar as one of Phule's principal ideological heirs"
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is named as one of the Pune intellectuals of the era who sought to reform and mobilise the native population alongside Phule's more radical approach."
+    evidence:
+      - quote: The likes of Gokhale, Tilak, Chiplunkar, and Agarkar sought to reform and mobilise the native population to create a modern Indian society and polity.
+        context: "situates Gokhale in Phule's reform milieu as a fellow but differently-oriented Punekar"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+  - gopal-krishna-gokhale
+  - periyar-e-v-ramasamy
+
 ---
 
 _In his struggle against the caste system, Jyotiba Phule’s innovation lay in overturning the ideological foundation of what he called Brahmanical order. He sought to transcend the caste-based division to unite the lower castes and untouchables in the category of Sudras-atisudras. (Image Credit: khabar.ndtv.com)_Brought by the modernising force of British Raj, the cosmopolitan ferment of Pune in the late 18th century fostered a small Indian intelligentsia which had an immense influence on the shaping of modern India. Ramchandra Guha has [pointed out](https://newrepublic.com/article/104203/the-other-liberal-light) that “between 1875 and 1910, the city of Poona (now Pune) was in the vanguard of social reform.” The likes of Gokhale, Tilak, Chiplunkar, and Agarkar sought to reform and mobilise the native population to create a modern Indian society and polity. Jyotiba Phule, a fellow Punekar, stands out in the group though for his radicalism and advocacy of the lower castes.

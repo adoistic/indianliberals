@@ -18,11 +18,9 @@ contributors:
   - role: author
     thinker: h-t-parekh
     toc_index: 3
-related_thinkers:
-  - j-r-marshall
+related_thinkers: 
   - john-kenneth-galbraith
-  - p-v-sukhatme
-  - colin-clark
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -63,6 +61,15 @@ missing_metadata_flags:
   - editor_not_named
   - year_not_printed
   - no_toc_page
+thinker_mentions:
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith's consumption criterion is applied by Das in his data-driven indictment of fifteen years of Indian planning to show that average Indians still lack adequate food, clothing, and shelter."
+    evidence:
+      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter"
+        context: "Galbraith's analytical framework used to evaluate Indian planning performance"
+    key_passages: []
+
 ---
 
 # INDIAN PLANNING —PAST & FUTURE

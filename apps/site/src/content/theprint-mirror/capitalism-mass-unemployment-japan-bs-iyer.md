@@ -5,11 +5,23 @@ pubDate: 2026-02-07T12:12:47
 author_name: "BS Iyer"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/capitalism-mass-unemployment-japan-bs-iyer/2848007/"
 themes: ["capitalism", "socialism", "unemployment"]
-related_thinkers: ["bs-iyer"]
+related_thinkers: 
+  - bs-iyer
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: bs-iyer
+    role: subject
+    reasoning: "The article is BS Iyer's essay arguing that unemployment is not a systemic product of capitalism, using international comparisons to make the case."
+    evidence: []
+    key_passages:
+      - quote: it was thought that a person was unemployed because of some defect in him. It took very long time to realise that personal characteristics may not have anything to do with unemployment
+        what_it_shows: "Iyer's historical framing of the unemployment debate"
+      - quote: The most important factors responsible for unemployment and underemployment in India is the scarcity of capital.
+        what_it_shows: "Iyer's diagnosis of the root cause of Indian unemployment"
 
 ---
 

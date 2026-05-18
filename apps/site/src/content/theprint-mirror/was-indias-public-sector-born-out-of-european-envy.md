@@ -5,11 +5,21 @@ pubDate: 2025-09-20T13:54:34
 author_name: "BP Godrej"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/was-indias-public-sector-born-out-of-european-envy/2747391/"
 themes: ["free-market", "public-sector"]
-related_thinkers: ["bp-godrej"]
+related_thinkers: 
+  - bernard-shaw
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: bernard-shaw
+    role: mention
+    reasoning: "Bernard Shaw's warning against those who minister to poverty and disease as accomplices in crime is cited as a moral provocation against welfarist complacency about India's hunger crisis."
+    evidence:
+      - quote: "In this connection, we would be wise to heed Bernard Shaw's warning: \"Those who minister to poverty and disease are accomplices in the two worst of all crimes.\""
+        context: "Shaw's aphorism is invoked to sharpen the moral urgency of addressing malnutrition rather than papering over it with welfare slogans"
+    key_passages: []
 
 ---
 

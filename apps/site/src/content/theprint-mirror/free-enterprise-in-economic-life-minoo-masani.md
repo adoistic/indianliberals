@@ -5,11 +5,25 @@ pubDate: 2026-05-02T12:25:34
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/free-enterprise-in-economic-life-minoo-masani/2920077/"
 themes: ["democracy", "free-market", "india-russia", "opposition"]
-related_thinkers: ["minoo-masani"]
+related_thinkers: 
+  - minoo-masani
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: minoo-masani
+    role: subject
+    reasoning: "The article is Minoo Masani's essay making two arguments for free enterprise: its superior economic productivity and its essential role in maintaining political democracy."
+    evidence: []
+    key_passages:
+      - quote: "Without free enterprise in economic life, we cannot maintain democracy: Minoo Masani"
+        what_it_shows: "states Masani's central thesis linking free enterprise to democratic governance"
+      - quote: free enterprise is the more productive way of life. It delivers the goods more than any other system.
+        what_it_shows: "Masani's first argument — the economic superiority of free enterprise"
+      - quote: if there is no private enterprise there can be no political democracy and individual liberty.
+        what_it_shows: "Masani's second argument — the political necessity of free enterprise for democracy"
 
 ---
 

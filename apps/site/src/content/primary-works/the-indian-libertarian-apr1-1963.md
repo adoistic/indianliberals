@@ -20,25 +20,14 @@ contributors:
   - role: author
     thinker: k-sreeramamurty
     toc_index: 4
-related_thinkers:
-  - jawaharlal-nehru
-  - humayun-kabir
-  - k-m-munshi
-  - sarvepalli-radhakrishnan
-  - j-b-kripalani
-  - karl-marx
-  - wilhelm-ropke
-  - jayaprakash-narayan
-  - mahatma-gandhi
-  - t-t-krishnamachari
-  - ruth-benedict
+related_thinkers: 
   - c-rajagopalachari
+  - jawaharlal-nehru
+  - jayaprakash-narayan
   - john-kenneth-galbraith
-  - aldous-huxley
-  - h-m-patel
-  - morarji-desai
-  - l-k-jha
-  - ralph-waldo-emerson
+  - kusum-lotwala
+  - ma-venkata-rao
+
 publication:
   language: en
   publisher_id: the-indian-libertarian
@@ -76,6 +65,54 @@ physical:
   format: periodical issue, quarto, saddle-stitched
 missing_metadata_flags:
   - no_issn
+thinker_mentions:
+  - thinker: kusum-lotwala
+    role: mention
+    reasoning: The Indian Libertarian is the journal edited by Miss Kusum Lotwala; this 1963 issue is part of the same series under her editorship, consistent with all other volumes.
+    evidence:
+      - quote: "This issue of The Indian Libertarian (Vol. XI No. 1, April 1963) is the opening number of the journal's eleventh volume"
+        context: "continuation of the journal under Lotwala's editorship"
+    key_passages: []
+  - thinker: ma-venkata-rao
+    role: mention
+    reasoning: "M. A. Venkata Rao wrote 'An Unnecessary Revolution', arguing that communist revolution is empirically unjustified given the welfare record of capitalist democracies, with a six-point free society manifesto."
+    evidence:
+      - quote: "M. A. Venkata Rao argues that communist revolution is an 'unnecessary' strategy for achieving economic equality and social welfare, given that the empirical record of the Soviet Union and China demonstrates no superior welfare outcomes"
+        context: "Venkata Rao as a named contributor to the 1963 issue's central ideological argument"
+      - quote: He concludes with a six-point summary of what a free society and a free economy looks like, explicitly contrasting each point with communist practice.
+        context: "Venkata Rao's positive manifesto in the article"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's repeated use of the term 'secular state' is the subject of the lead editorial, which argues that Nehru misconceives the word and that what India needs is a 'civil' state instead; Nehru's Chandigarh speech on Rationalism is also criticised."
+    evidence:
+      - quote: "The editorial sets a polemical tone by arguing that Prime Minister Nehru misconceives the word 'secular' and that what India needs is not a state indifferent to religion but a 'civil' state defined by equality before law and freedom of conscience."
+        context: "Nehru's 'secular state' as the editorial's principal target"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "M. N. Tholal's essay examines Jayaprakash Narayan's political philosophy, finding a fundamental contradiction between his non-violence doctrine and his support for military resistance to China after 1962."
+    evidence:
+      - quote: "M. N. Tholal's essay examines Jayaprakash Narayan's political philosophy, focusing on the tension between Narayan's Gandhian commitment to non-violence and his stated support for Indian resistance to the 1962 Chinese aggression."
+        context: "Jayaprakash Narayan as the primary subject of Tholal's feature essay"
+      - quote: "Tholal credits Narayan's sincerity and democratic credentials while rejecting his policy prescriptions."
+        context: "Tholal's nuanced verdict on Narayan's philosophy"
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: John Kenneth Galbraith is mentioned in the News and Views section as the US Ambassador who signed an interest-free $240 million loan to India for the Third Five-Year Plan.
+    evidence:
+      - quote: a report on the US $240 million interest-free loan to India for the Third Five-Year Plan signed by Ambassador John Kenneth Galbraith
+        context: Galbraith named as the US Ambassador signing the loan agreement, noted in the News and Views section
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: Rajaji (C. Rajagopalachari) is quoted in the News and Views section as calling for India to lead the Afro-Asian camp rather than outsource that leadership to Nkrumah or Nasser.
+    evidence:
+      - quote: "Rajaji (C. Rajagopalachari) calling for India to lead the 'Afro-Asian camp' rather than outsource that leadership to Nkrumah or Nasser."
+        context: "Rajaji cited in the News and Views section as an authority on India's foreign-policy role"
+    key_passages: []
+
 ---
 
 # The Indian Libertarian

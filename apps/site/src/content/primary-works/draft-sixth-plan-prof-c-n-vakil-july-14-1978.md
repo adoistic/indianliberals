@@ -7,11 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - p-c-mahalanobis
-  - jawaharlal-nehru
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +42,17 @@ missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_file
   - series_number_not_explicit
+thinker_mentions:
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: "Vakil blames the rejection of his 1956 Wage-Goods Model on the Panel of Economists being mesmerised by Mahalanobis's Plan Frame, making Mahalanobis's planning orthodoxy the foil against which Vakil's thirty-year vindication is staged."
+    evidence:
+      - quote: "the Panel, mesmerised by Russian advisers and by P. C. Mahalanobis's Plan Frame, set the suggestion aside"
+        context: "Mahalanobis's Plan Frame is the intellectual authority that overrode Vakil's Wage-Goods alternative in 1956"
+      - quote: "the Panel, under the sway of Russian advisers and Mahalanobis's Plan Frame, set it aside — and Vakil now claims thirty years of stagnation as vindication"
+        context: "Mahalanobis's dominance in 1956 planning is presented as the source of three decades of rural neglect"
+    key_passages: []
+
 ---
 
 # Draft Sixth Plan

@@ -4,10 +4,13 @@ title:
   main: Forward Trading in Shares
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - "mr-mayya"
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - deepak-parekh
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,6 +43,15 @@ missing_metadata_flags:
   - year_not_printed_on_visible_pages
   - series_number_not_visible
   - back_cover_colophon_not_in_chunk
+thinker_mentions:
+  - thinker: deepak-parekh
+    role: mention
+    reasoning: Mayya notes that he served alongside Deepak S. Parekh on the SEBI-appointed Patel Committee, whose March 1995 recommendations for a screen-based, transparent revival of carry-forward trading Mayya endorses in the pamphlet.
+    evidence:
+      - quote: Drawing on the recommendations of the Patel Committee — on which he himself served alongside G. S. Patel and Deepak S. Parekh — he endorses a screen-based, transparent revival of carry forward with built-in safety valves
+        context: "establishes Parekh as a fellow committee member whose shared recommendations underpin Mayya's reform argument"
+    key_passages: []
+
 ---
 
 # Forward Trading in Shares

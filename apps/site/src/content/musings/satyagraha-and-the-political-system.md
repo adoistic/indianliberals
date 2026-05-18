@@ -7,6 +7,21 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "The essay is centrally about Gandhi's technique of satyagraha — his invention of the method, his justification for it in illegitimate political systems, and the conditions he prescribed for its use — drawing extensively from his speeches and writings before the Hunter Committee."
+    evidence:
+      - quote: Both in South Africa and India the system that confronted Gandhi was based on illegitimacy.
+        context: establishes satyagraha as a response to illegitimate colonial rule
+      - quote: Gandhi, therefore, invented the technique of satyagraha (non-violent direct action) to undo this unequal status of the groups in the former and overthrow the latter.
+        context: credits Gandhi with originating satyagraha as a political tool
+      - quote: "Gandhi's answer in such a situation would be a straight 'yes'. If the system becomes so inefficient that demand input and policy output are not in equilibrium, it obviously loses the confidence of certain s"
+        context: "author synthesises Gandhi's doctrine on when satyagraha is justified in a democracy"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 _The Gandhian form of non-violent civil disobedience i.e. the Satyagraha has been a part of India's political picture before as well as after Independence. It has manifested in various protests against State action. H0wever, there has always been a debate on people's assertion of their demands through Satyagraha in an independent India governed by a working Constitution. In an article published in July-September 1970 issue of Quest magazine, the author Mr. Nageshwar Prasad discusses the relevance of Satygaraha in the political system. Produced below is the full text of the article. _The technique of non-violent direct action (satyagraha) has not been examined with reference to its application to a political system that claims to rest on legitimacy. The term legitimacy was first used by Max Weber while discussing the typology of authority on the basis of its acceptance or non-acceptance by the people in the system. The International Encyclopaedia of Social Sciences defines legitimacy as 'the foundation of such governmental power as is exercised both with consciousness on the government's part that it has a right to govern and with some recognition by the governed of that right.' (International ... 1968 p. 244). Legitimacy, therefore, in the first instance, presupposes the right of the authority to govern and second the consent of the governed to such a right. From the point of view of this definition, no other system than democracy can approximate an ideal type of legitimacy because the democratic authority rests on the consent of the majority of the governed. 

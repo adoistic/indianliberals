@@ -7,6 +7,41 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Rajan opens by crediting Shroff as the Forum of Free Enterprise's founder and unofficial Bretton Woods delegate who fought excessive regulation from the 1950s, positioning Shroff as the ideological ancestor of the free-enterprise tradition the lecture celebrates."
+    evidence:
+      - quote: AD Shroff, who started the Forum of Free Enterprise in the 1950s, was an unofficial delegate to the Bretton Woods Conference
+        context: "Shroff's founding role and global credentials are the historical anchor for Rajan's golden-jubilee lecture"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Rajan names Palkhivala as one of the Forum's important early voices arguing that Indian socialism was a 'fraud' transferring wealth from honest to dishonest rich, presenting him as a lonely but principled keeper of the free-enterprise lamp."
+    evidence:
+      - quote: Among the others associated with this organization was Nani Palkhivala. These were important but lonely voices against the socialism practised in India then
+        context: "Palkhivala is invoked as a key voice in the Forum's intellectual lineage, given his argument that Indian socialism was wealth-redistributing fraud"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Rajan acknowledges Nehru's emphasis on science, higher education, and leading-edge technologies as a genuine legacy that gave India a skilled labour force — a nuanced credit that complicates the otherwise critical framing of Nehruvian economic policy."
+    evidence:
+      - quote: "a clear legacy of Pandit Nehru's emphasis on science, higher education, and also leading-edge technologies for the public sector."
+        context: "Rajan credits Nehru's educational investments as the one Nehruvian policy legacy that genuinely strengthened India's human capital"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: The lecture credits the early pro-business reforms of the Mrs Gandhi and Rajiv era as the first loosening of the Nehruvian stranglehold, noting the gradual relaxation of industrial licensing that preceded the 1991 liberalisation.
+    evidence:
+      - quote: Under Mrs Gandhi and then Rajiv, pro-business reforms were set in motion, with liberalized access for domestic firms to capital imports
+        context: "Indira Gandhi's government is given credit for initiating the pre-liberalisation reform momentum"
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+  - indira-gandhi
+  - jawaharlal-nehru
+  - nani-palkhivala
+
 ---
 
 Because employment was so important for India, encouragement was given to small-scale industries by reserving specific areas of production for them. But because firms could not grow to efficient scale, production was unprofitable, so few jobs were actually created.

@@ -9,6 +9,26 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "karsandas-mulji"
+thinker_mentions:
+  - thinker: karsandas-mulji
+    role: subject
+    reasoning: "The article is a profile of Karsandas Mulji, tracing his reformist career, the Maharaj Libel Case, and his place in Bombay's liberal intellectual landscape."
+    evidence: []
+    key_passages:
+      - quote: Karsandas Mulji, a contemporary of Dadabhai Naoroji, was one of the pioneer Indian social reformers working for the cause of women emancipation.
+        what_it_shows: positions Mulji within the reformist lineage
+      - quote: it was an article, The Original Religion of the Hindus and the Present Heterodox Opinions, that has come to define the legacy of Mulji.
+        what_it_shows: identifies the work that made him historically significant
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: "Dadabhai Naoroji is cited as a contemporary of Mulji and a fellow member of the Elphinstone milieu that shaped Bombay's 19th-century reform intelligentsia."
+    evidence:
+      - quote: Karsandas Mulji, a contemporary of Dadabhai Naoroji, was one of the pioneer Indian social reformers working for the cause of women emancipation.
+        context: "establishes Naoroji as the peer reference point for Mulji's historical placement"
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+
 ---
 
 _Karsandas Mulji's reformist legacy is rooted in his efforts to break through conformist tendencies and question even the most superior authority. He is most famously known for the Maharaj Libel Case, 1852._Karsandas Mulji, a contemporary of Dadabhai Naoroji, was one of the pioneer Indian social reformers working for the cause of women emancipation. In 1850s-60s, Mulji was a prominent member of the “[Bombay intelligentsia](https://books.google.co.in/books?id=1V40DAAAQBAJ&lpg=PP1&pg=PA121#v=onepage&q=bombay%20intelligentsia&f=false)” in conflict with the “merchant aristocracy” over social issues. Mulji’s place in Indian history as a reformer is due to the Maharaj libel case in 1862, which earned him the [title](https://books.google.co.in/books?id=1V40DAAAQBAJ&lpg=PP1&pg=PA119#v=onepage&q=martin%20luther%20of%20banian%20caste&f=false) of “a Reformer, a Martin Luther of the Banian Cast”.

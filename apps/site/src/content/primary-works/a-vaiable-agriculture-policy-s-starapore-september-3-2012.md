@@ -13,10 +13,10 @@ contributors:
     thinker: s-s-tarapore
   - role: editor
     thinker: sunil-bhandare
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - indira-gandhi
-  - eugene-black
+  - sunil-bhandare
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +48,22 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - theme_vocabulary_not_provided_in_prompt
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Tarapore invokes Indira Gandhi's retrospective admission about a scuttled 1970s oil-palm corporatisation scheme to support his case for leasing uncultivated government land to corporates."
+    evidence:
+      - quote: "Recalling Indira Gandhi's 1980s admission about scuttled oil-palm corporatisation — 'We did some funny things, didn't we?'"
+        context: "second half of the essay; Gandhi's self-critical quote is used to lend political legitimacy to Tarapore's corporatisation proposal"
+    key_passages: []
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: "Sunil S. Bhandare, as editor of the Forum publication, contributes the booklet's framing introduction, situating Tarapore's article within the Forum's broader project."
+    evidence:
+      - quote: framed by an introduction from editor Sunil S. Bhandare
+        context: "opening description of the booklet's structure; Bhandare's editorial frame is a structural element of the publication"
+    key_passages: []
+
 ---
 
 # A Viable Agriculture Policy for Sustained Growth

@@ -7,9 +7,9 @@ work_type: essay
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - eugene-black
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +46,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black is cited by Master alongside Sir A. Ramaswami Mudaliar as an authority on the exhaustion of the capital market and the mortgaging of future export earnings, lending international institutional credibility to Master's critique of planned-economy financing."
+    evidence:
+      - quote: Quoting Sir A. Ramaswami Mudaliar and Eugene Black on the exhaustion of the capital market and the mortgaging of future export earnings
+        context: "Black cited as an international financial authority corroborating Master's diagnosis of India's financing crisis"
+    key_passages: []
+
 ---
 
 # Financing Under Planned Economy

@@ -8,6 +8,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "nani-palkhivala"
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "T.T. Krishnamachari is quoted declaring that nationalisation should be the 'last step' in controlling banks, used by Palkhivala to demonstrate inconsistent ministerial statements on bank nationalisation."
+    evidence:
+      - quote: "Mr. T. T. Krishnamachari announced that \"nationalisation should be the last step in any effort to control banks.\""
+        context: "Krishnamachari's statement cited as an inconsistent public assurance on bank nationalisation"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Nehru is quoted assuring the public there was no immediate question of bank nationalisation, used by Palkhivala to argue against the inconsistency of socialist economic policy.
+    evidence:
+      - quote: "On May 22, 1964 Prime Minister Nehru assured the public that \"there was no immediate question of bank nationalisation.\""
+        context: "Nehru's public assurance is cited to show the inconsistency between different ministers' statements"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - t-t-krishnamachari
+
 ---
 
 The following is an article published on March 10, 1966  in Forum of Free Enterprise's booklet titled "Is Socialism Outdated?" The author Mr. Nani Palkhivala, in this article on "The Shells of Socialism", discusses various aspects pertaining to socialism and State control.

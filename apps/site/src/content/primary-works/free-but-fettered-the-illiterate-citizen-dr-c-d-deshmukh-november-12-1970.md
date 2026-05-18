@@ -8,8 +8,9 @@ authors:
   - chintaman-deshmukh
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +49,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: The pamphlet is the Fifth A. D. Shroff Memorial Lecture; Deshmukh opens with an explicit tribute to A. D. Shroff as an exemplar of a patriotism that can co-exist with a judicious bias in favour of free enterprise, before turning to his thesis on illiteracy.
+    evidence:
+      - quote: "Delivered on 27 October 1970 as the Fifth A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise in Bombay, C. D. Deshmukh's address opens with a tribute to A. D. Shroff as an exemplar of a patriotism that 'can co-exist with a judicious bias in favour of free enterprise'"
+        context: "the lecture's institutional framing and Deshmukh's opening tribute naming Shroff"
+    key_passages: []
+
 ---
 
 # FREE BUT FETTERED—THE ILLITERATE CITIZEN

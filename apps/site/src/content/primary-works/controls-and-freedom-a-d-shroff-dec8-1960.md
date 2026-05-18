@@ -8,11 +8,10 @@ authors:
   - ma-sreenivasan
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
-  - winston-churchill
+related_thinkers: 
   - c-rajagopalachari
-  - a-d-shroff
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +47,26 @@ physical:
   format: pamphlet (saddle-stitched booklet)
 missing_metadata_flags:
   - author_not_in_authority_file
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Sreenivasan invokes Gandhiji's preference for Swadharma over state violence as moral authority for the argument that the only fully legitimate controls are self-imposed ones rooted in conscience rather than bureaucratic regulation."
+    evidence:
+      - quote: "Sreenivasan invokes Gandhiji's preference for Swadharma over 'the violence of the State'"
+        context: Gandhiji is cited as a moral authority for self-regulation over state coercion
+      - quote: "Invokes Gandhiji's Swadharma and his warning against 'the violence of the State' to argue that the only fully legitimate controls are self-imposed ones rooted in conscience and Dharma"
+        context: "Gandhi's ethical framework is used to indict the regime of peacetime bureaucratic controls"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Sreenivasan cites Rajaji's abolition of food controls in Madras as a concrete demonstration that Indian leaders capable of dismantling the regulatory apparatus do exist, using his example as an achievable template."
+    evidence:
+      - quote: "Rajaji's lifting of food rationing in Madras"
+        context: "Rajaji's action in Madras is presented as a real precedent for dismantling peacetime controls"
+      - quote: "Cites Rajaji's abolition of food controls in Madras as a concrete demonstration that Indian leaders capable of dismantling the apparatus do exist"
+        context: Rajaji exemplifies the political will to dismantle the control raj
+    key_passages: []
+
 ---
 
 # CONTROLS AND FREEDOM

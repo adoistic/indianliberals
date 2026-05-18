@@ -18,11 +18,12 @@ contributors:
   - role: author
     thinker: c-rajagopalachari
     toc_index: 3
-related_thinkers:
-  - minoo-masani
+related_thinkers: 
   - jawaharlal-nehru
   - jayaprakash-narayan
   - ludwig-erhard
+  - n-g-ranga
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -55,6 +56,36 @@ physical:
 missing_metadata_flags:
   - no_formal_toc_page
   - editor_not_named
+thinker_mentions:
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: Jayaprakash Narayan is cited by Masani as a figure who shares the anti-collectivist diagnosis motivating the new opposition party, lending cross-ideological support to the Swatantra initiative.
+    evidence:
+      - quote: with whom Jayaprakash Narayan and Prof. N. G. Ranga share the diagnosis
+        context: Narayan cited as a cross-spectrum ally who shares the anti-collectivist diagnosis that motivates the new party initiative
+    key_passages: []
+  - thinker: n-g-ranga
+    role: mention
+    reasoning: "N. G. Ranga is cited alongside Jayaprakash Narayan as a political figure who shares Rajagopalachari's and Masani's diagnosis of India's drift toward collectivism, lending peasant-interest credibility to the new party initiative."
+    evidence:
+      - quote: with whom Jayaprakash Narayan and Prof. N. G. Ranga share the diagnosis
+        context: "Ranga named as a co-diagnostician of India's anti-peasant drift"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Masani invokes Erhard's slogan 'Let the men and the money loose' as the positive economic prescription behind the proposed new party, positioning the initiative within the European social-market tradition."
+    evidence:
+      - quote: "Masani ends with Ludwig Erhard's slogan \"Let the men and the money loose\""
+        context: "Erhard's slogan used as the positive economic manifesto for the non-socialist opposition Masani calls for"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Nehru is invoked by Masani and Rajagopalachari as the dominant political figure whose policies are pushing India toward Communist dictatorship and whose eventual departure will expose the need for a viable alternative.
+    evidence:
+      - quote: the broader Nehru-government policy are pushing India toward Communist dictatorship by destroying peasant proprietorship
+        context: "Masani's identification of Nehru-government policy as the primary driver of India's collectivist drift"
+    key_passages: []
+
 ---
 
 # For Freedom, Farm And Family

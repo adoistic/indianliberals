@@ -8,9 +8,11 @@ authors:
   - milton-friedman
 editors: []
 contributors: []
-related_thinkers:
-  - ludwig-erhard
+related_thinkers: 
+  - a-d-shroff
   - abraham-lincoln
+  - ludwig-erhard
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +45,29 @@ missing_metadata_flags:
   - year_not_printed_on_rendered_pages
   - no_pamphlet_series_number_visible
   - colophon_not_in_chunk
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's epigraph on free enterprise frames the booklet's reproduction of the Friedmans' 'Free to Choose' chapter, situating the international argument within the Forum's classical-liberal advocacy."
+    evidence:
+      - quote: "framed by a publisher's introduction and an A. D. Shroff epigraph on free enterprise"
+        context: "key-points bullet describing the booklet's structure; Shroff's aphorism is a substantive editorial frame, not incidental"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "The Friedmans invoke Ludwig Erhard's 1948 currency-and-price liberalisation as the causal explanation for West Germany's post-war economic success relative to East Germany's command economy."
+    evidence:
+      - quote: "East Germany versus West Germany shows what the free market and Ludwig Erhard's 1948 currency-and-price liberalisation produced relative to a walled, grey command economy"
+        context: "core comparative case-study section; Erhard's reform is the Friedmans' primary European proof-point for markets over planning"
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "The Friedmans invoke Abraham Lincoln's 'House Divided' speech to argue that an economy split between collectivist and free tendencies will ultimately fall to the collectivist side."
+    evidence:
+      - quote: "The authors invoke Abraham Lincoln's 'House Divided' speech to argue that a divided economy will fall to the collectivist side"
+        context: "'Controls and Freedom' section pivoting to the United States; Lincoln's metaphor is the rhetorical frame for the Friedmans' warning about expanding government"
+    key_passages: []
+
 ---
 
 # Central Economic Planning

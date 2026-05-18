@@ -8,6 +8,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "gopal-ganesh-agarkar"
+thinker_mentions:
+  - thinker: bal-gangadhar-tilak
+    role: mention
+    reasoning: "Tilak is invoked as the figure whose difficult association with Agarkar — marked by mutual diatribes — has historically overshadowed Agarkar's own ideas, making Tilak the biographical foil against whom Agarkar's liberal clarity is assessed."
+    evidence:
+      - quote: his difficult association with Lokmanya Tilak. The mutual diatribes between the two obscure the clarity and conviction of his ideas.
+        context: "Tilak's antagonism with Agarkar is the primary reason Agarkar's liberal thought has been obscured in historical memory"
+    key_passages: []
+  - thinker: thomas-babington-macaulay
+    role: mention
+    reasoning: "The essay notes that Agarkar opened his argument for compulsory education by invoking Macaulay's 1847 speech endorsing universal education, using the British reformer's authority to ground his case for women's literacy in Maharashtra."
+    evidence:
+      - quote: "referring to Lord Macaulay's Speech on Education in the House of Commons in 1847; here Lord Macaulay endorsed the phrase, 'educate the people'"
+        context: "Macaulay's speech is Agarkar's opening citation for his case that compulsory education is a mark of all developed nations"
+    key_passages: []
+related_thinkers: 
+  - bal-gangadhar-tilak
+  - thomas-babington-macaulay
+
 ---
 
 _In the face of opposition from several sections of the society, Agarkar held on to the liberal ideas of equality of opportunity, individual choice, individual freedom, and education for women. Agarkar’s treatment of the subject of women’s education was at once insightful, critical and persuasive._

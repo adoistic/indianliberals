@@ -8,9 +8,10 @@ authors:
   - r-n-jha
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +50,24 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - byline_unresolved_in_authority
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is delivered at the A. D. Shroff Birth Centenary Celebrations and the booklet is bookended by a Shroff epigraph on free enterprise, positioning Shroff as the philosophical patron of the Forum's insurance-liberalisation argument."
+    evidence:
+      - quote: keynote delivered on 19 February 2000 at the A. D. Shroff Birth Centenary Celebrations
+        context: "Shroff's centenary is the occasion; his legacy frames the vindication of free-enterprise arguments"
+      - quote: The booklet is bookended by an A. D. Shroff epigraph on free enterprise and a Eugene Black epigraph urging that private enterprise be embraced not as a necessary evil but as an affirmative good
+        context: "Shroff's words literally open the booklet's philosophical frame"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black's epigraph urging that private enterprise be embraced as an affirmative good anchors the booklet's pro-liberalisation frame alongside Shroff's."
+    evidence:
+      - quote: a Eugene Black epigraph urging that private enterprise be embraced not as a necessary evil but as an affirmative good
+        context: "Black's dictum is used as a closing philosophical frame for the insurance-liberalisation argument"
+    key_passages: []
+
 ---
 
 # Challenges Before Insurance Industry

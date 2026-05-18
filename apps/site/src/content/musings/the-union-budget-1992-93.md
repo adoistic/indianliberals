@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: author
+    reasoning: Palkhivala is explicitly named as the author of this booklet, and the body is written in first person as his critical analysis of the 1992-93 Union Budget.
+    evidence:
+      - quote: Authored by Indian jurist and liberal economist Nani A Palkhivala, the booklet was originally published Forum of Free Enterprise.
+        context: explicit authorship attribution in the editorial introduction
+    key_passages: []
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: Manmohan Singh as Finance Minister is quoted and praised for emphasising that certain values must be adhered to for India to exit recession, acknowledged by Palkhivala as a key pillar of the reform programme.
+    evidence:
+      - quote: Dr. Manmohan Singh has rightly emphasized that unless certain values are adhered to by the nation, it  cannot come out of the recession.
+        context: "Manmohan Singh's reformist authority cited in support of Palkhivala's own analysis of the 1992-93 budget"
+    key_passages: []
+related_thinkers: 
+  - manmohan-singh
+  - nani-palkhivala
+
 ---
 
 _Following is an excerpt from a March 1992 booklet, titled [The Union Budget 1992-93.](https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1992-93-by-na-palkhivala-march-3-1992.pdf) Authored by Indian jurist and liberal economist Nani A Palkhivala, the booklet was originally published Forum of Free Enterprise. In the booklet, Palkhivala critically examines India's first Union Budget post the 1991 liberalisation.  _This year's Budget is not a budget for the greedy, paid for by the needy. The Budget provisions properly so called (as distinct from the proposed amendments to the direct tax laws) are well conceived, and deserve the support of the well informed irrespective of party affiliations.

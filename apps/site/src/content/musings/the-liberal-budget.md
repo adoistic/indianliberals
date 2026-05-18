@@ -8,6 +8,65 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: Mises is quoted as the foundational authority on the distinction between liberalism and socialism — their shared goals but differing means — establishing the philosophical basis of the Liberal Budget.
+    evidence:
+      - quote: "As Ludwig von Mises, the great Liberal philosopher, put it, where the two differ is \"not be the goal at which it aims, but the means that it chooses to attain the goal.\""
+        context: Mises quoted to articulate the core liberal-vs-socialist distinction underpinning the entire budget exercise
+    key_passages: []
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: Sunil Bhandare is named as chairman of the Indian Liberal Group and lead author of the Liberal Budget document.
+    evidence:
+      - quote: authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha
+        context: Bhandare identified as the lead author and institutional head responsible for the Liberal Budget
+    key_passages: []
+  - thinker: ajit-karnik
+    role: mention
+    reasoning: Ajit Karnik is named as co-author of the Liberal Budget alongside Bhandare and other members of the Indian Liberal Group.
+    evidence:
+      - quote: authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha
+        context: Karnik identified as co-author of the Liberal Budget document
+    key_passages: []
+  - thinker: c-s-deshpande
+    role: mention
+    reasoning: C. S. Deshpande is named as co-author of the Liberal Budget alongside Bhandare, Karnik, Panse and Seetha.
+    evidence:
+      - quote: authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha
+        context: Deshpande identified as co-author of the Liberal Budget document
+    key_passages: []
+  - thinker: sanjay-panse
+    role: mention
+    reasoning: Sanjay Panse is named as co-author of the Liberal Budget document published by the Indian Liberal Group.
+    evidence:
+      - quote: authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha
+        context: Panse identified as co-author of the Liberal Budget document
+    key_passages: []
+  - thinker: ms-seetha
+    role: mention
+    reasoning: Seetha is named as co-author of the Liberal Budget document published by the Indian Liberal Group in 2004.
+    evidence:
+      - quote: authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha
+        context: Seetha identified as co-author of the Liberal Budget document
+    key_passages: []
+  - thinker: vijay-kelkar
+    role: mention
+    reasoning: Vijay Kelkar is cited as chairman of the task force on direct and indirect taxes whose 2002 report provided radical but unimplemented tax reform proposals.
+    evidence:
+      - quote: on direct/indirect taxes under the chairmanship of Dr Vijay Kelkar was submitted in November 2002.
+        context: "Kelkar's task force report cited as a major reform initiative that the Liberal Budget aims to build on"
+    key_passages: []
+related_thinkers: 
+  - ajit-karnik
+  - c-s-deshpande
+  - ludwig-von-mises
+  - ms-seetha
+  - sanjay-panse
+  - sunil-bhandare
+  - vijay-kelkar
+
 ---
 
 _Published by The Indian Liberal Group, a think tank founded in 1964 by Minoo Masani, the text titled “The Liberal Budget: Building an Equitable Society” authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha - all members of the Indian Liberal Group was published in 2004 and has a total of three chapters: “Liberal perspectives and human development”, “The current budget scenario” and “Policy framework and structure of the Liberal Budget”._

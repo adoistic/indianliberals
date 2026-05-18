@@ -16,8 +16,9 @@ contributors:
   - role: author
     thinker_unresolved: B. P. Patel
     toc_index: 3
-related_thinkers:
+related_thinkers: 
   - vinoba-bhave
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -58,6 +59,17 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc
+thinker_mentions:
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "B.P. Patel invokes Vinoba Bhave's decision to distribute Bhoodan lands to individual cultivators rather than collectives as a moral authority's verdict against co-operative farming — Bhave's own practice contradicting the collectivisation ideal."
+    evidence:
+      - quote: even Acharya Vinoba Bhave has chosen to distribute Bhoodan lands to landless individuals rather than to collectives
+        context: "Bhave's Bhoodan practice is used as a moral trump card against compulsory cooperative farming"
+      - quote: "Invokes Vinoba Bhave's distribution of Bhoodan land to individual cultivators as evidence that even sympathetic moral authorities reject collectivisation"
+        context: "Bhave's choice to give land to individuals rather than collectives is the essay's clinching argument"
+    key_passages: []
+
 ---
 
 # Co-operative Farming

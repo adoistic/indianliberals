@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: Adam Smith is invoked at the very opening of the article as the authority who defined the true measure of an economy as the well-being of people — a standard the author argues modern GDP accounting has failed to meet.
+    evidence:
+      - quote: Adam Smith said that the final measure of an economy is the well-being of the people. Yet this is the one question that the policy establishment never asks.
+        context: "Smith's dictum serves as the philosophical foundation against which GDP's failures are measured"
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+
 ---
 
 Adam Smith said that the final measure of an economy is the well-being of the people. Yet this is the one question that the policy establishment never asks. The government studies the supposed means to that end in exacting detail. It can tell us how many televisions we buy, how much money the drug or record industry invests, practically down to the last penny.

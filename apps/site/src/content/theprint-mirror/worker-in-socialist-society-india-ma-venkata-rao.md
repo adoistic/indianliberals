@@ -5,11 +5,29 @@ pubDate: 2026-04-25T11:57:15
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/worker-in-socialist-society-india-ma-venkata-rao/2913464/"
 themes: ["free-economy", "indian-society", "socialism"]
-related_thinkers: ["ma-venkata-rao"]
+related_thinkers: 
+  - karl-marx
+  - nikita-khrushchev
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: nikita-khrushchev
+    role: mention
+    reasoning: "Khrushchev is cited for his unilateral repudiation of government loan obligations in the Soviet Union, illustrating the worker's helplessness before state financial diktat in a socialist system."
+    evidence:
+      - quote: "Khrushchev declared two years ago that the Government Loans that had matured after twenty years would not be paid; he postponed payment to an indefinite future!"
+        context: "Khrushchev's debt repudiation is an example of how socialist states treat workers as captive financial subjects with no recourse"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx's charge that capitalist industrial workers are 'wage slaves' is invoked only to be inverted: the author argues workers in socialist states are even more enslaved than under capitalism."
+    evidence:
+      - quote: Marx spoke of the industrial workers under capitalist employers as wage slaves. But the workers in Socialist States are more of such wage slaves–(in fact actual serfs tied to work in the units allotted to them by the State)–than workers in free economy and free society.
+        context: "Marx's own critique of capitalism is turned back against socialist states to show that socialism produces greater unfreedom for workers"
+    key_passages: []
 
 ---
 

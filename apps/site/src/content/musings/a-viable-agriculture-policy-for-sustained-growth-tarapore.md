@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "s-s-tarapore"
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's own rueful admission about past agricultural policy failures is quoted to lend authority to Tarapore's case for corporatising agriculture."
+    evidence:
+      - quote: "the then Prime Minister lndira Gandhi said, \"We did some funny things, didn't we?\""
+        context: "Gandhi's self-critical remark is invoked to support the argument for a fundamental shift in agricultural policy"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+
 ---
 
 _The following is an excerpt from a booklet titled 'A Viable Agriculture Policy for Sustained Growth' published by the Forum of Free Enterprise and authored by S.S. Tarapore. The booklet was published on September 2012 wherein the author highlights the need for freer import-export market, agricultural productivity coupled with rural infrastructure, and the challenge of migration to cities.  He further talks about the need for a consistent and coherent agriculture policy to tackle these challenges. _

@@ -23,10 +23,9 @@ contributors:
     thinker: narayan-varma
   - role: other
     thinker: s-v-raju
-related_thinkers:
-  - gopal-krishna-gokhale
-  - d-v-gundappa
-  - sarvepalli-radhakrishnan
+related_thinkers: 
+  - s-v-raju
+
 publication:
   language: en
   publisher_id: indian-liberal-group
@@ -69,6 +68,15 @@ missing_metadata_flags:
   - no_isbn
   - editor_not_named
   - year_inferred_from_budget_year_title
+thinker_mentions:
+  - thinker: s-v-raju
+    role: mention
+    reasoning: "S. V. Raju authored the preface as National Coordinator, situating LB4 in the context of India's 8.5% GDP growth while criticising governance backsliding."
+    evidence:
+      - quote: "The preface, authored by S. V. Raju as National Coordinator, situates LB4 in the context of India's 8.5% GDP growth"
+        context: Raju as the institutional voice of the ILG framing the fourth Liberal Budget
+    key_passages: []
+
 ---
 
 # Taking Reforms to the Poor
