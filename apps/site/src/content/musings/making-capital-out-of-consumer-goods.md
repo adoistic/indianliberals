@@ -2,7 +2,10 @@
 id: "making-capital-out-of-consumer-goods"
 title: "MAKING CAPITAL OUT OF CONSUMER GOODS"
 pubDate: "2022-07-07T19:40:54Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "private-enterprise"
 language: "en"
 needs_review: true
 draft: false
@@ -43,6 +46,21 @@ related_thinkers:
   - murarji-vaidya
   - nani-palkhivala
 source_channel: "so-musings"
+proposed_themes:
+  - "consumer-goods"
+  - "entrepreneurship"
+key_concepts:
+  - "ad-shroff"
+  - "forum-of-free-enterprise"
+  - "entrepreneurship"
+  - "free-economy-system"
+pull_quote: Or is it perhaps salutary to remind ourselves of those virtues in an age which so takes freedom for granted that it is being whittled away under our noses, diluting the blood of entrepreneurship in our veins without us fully realising it?
+stance: argues-for
+kind: speech-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text was originally delivered as a speech by Abid Hussain at the 24th A. D. Shroff Memorial Lecture held in October 1989, originally published by the Forum of Free Enterprise. The author was an Indian economist, civil servant, and member of the Planning Commission, Government of India. It is a great honour to be speaking at the Silver Jubilee celebrations of this august institution. I offer you my deepfelt thanks for inviting me. And I offer you my sincere congratulations and those of the world business community represented in the International Chamber of Commerce, on your first, immensely successful, 25 years. May you go from strength to strength during the course of your next quarter century! 

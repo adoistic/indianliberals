@@ -2,7 +2,9 @@
 id: "forty-three-years-of-independence"
 title: "Forty-Three Years of Independence"
 pubDate: "2022-08-03T06:01:05Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -51,6 +53,21 @@ related_thinkers:
   - mahatma-gandhi
   - ralph-waldo-emerson
 source_channel: "so-musings"
+proposed_themes:
+  - "linguistic-diversity"
+  - "national-identity"
+key_concepts:
+  - "tryst-with-destiny"
+  - "diversity-in-unity"
+  - "post-war-democracy"
+  - "link-language"
+pull_quote: The greatest achievement of Indian democracy is that it has survived unfractured for forty-three years.
+stance: analyzes
+kind: lecture
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text is based on the Jawaharlal Nehru Memorial Lecture delivered by Nani Palkhivala at Trinity College, Cambridge, on 7th November 1990. At 43 years of independence, the author analyses India as a democracy, an economy, a united nation. Palkhivala was an Indian jurist, liberal economist and the President of the Forum of Free Enterprise (at the time).

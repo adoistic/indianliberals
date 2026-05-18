@@ -2,12 +2,31 @@
 id: "hauling-down-the-angels"
 title: "Hauling Down the Angels"
 pubDate: "2020-10-24T17:18:00Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "private-enterprise"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "angel-investment"
+  - "startup-ecosystem"
+key_concepts:
+  - "angel-tax"
+  - "startup-india"
+  - "fair-market-value"
+  - "section-56"
+  - "seed-funding"
+pull_quote: "This has resulted in 40% reduction in angel investment and seed funding, much to the disappointment of young startups in the country."
+stance: argues-against
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 **_Founders and investors in India have been roiled by the angel tax controversy. Who is responsible for this looming crisis and has the government found ways to address this issue?_**

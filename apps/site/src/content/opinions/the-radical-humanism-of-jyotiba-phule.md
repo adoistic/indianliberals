@@ -2,7 +2,10 @@
 id: "the-radical-humanism-of-jyotiba-phule"
 title: "The Radical Humanism of Jyotiba Phule"
 pubDate: "2021-04-09T09:37:19Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -46,6 +49,24 @@ related_thinkers:
   - gopal-krishna-gokhale
   - periyar-e-v-ramasamy
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "caste-reform"
+  - "radical-humanism"
+key_concepts:
+  - "radical-humanism"
+  - "shudra-atisudra"
+  - "brahmanical-order"
+  - "anti-caste"
+  - "swadeshi-ideals"
+pull_quote: His idea of patriotism wasn’t limited to mere territorial unity.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
 ---
 
 _In his struggle against the caste system, Jyotiba Phule’s innovation lay in overturning the ideological foundation of what he called Brahmanical order. He sought to transcend the caste-based division to unite the lower castes and untouchables in the category of Sudras-atisudras. (Image Credit: khabar.ndtv.com)_Brought by the modernising force of British Raj, the cosmopolitan ferment of Pune in the late 18th century fostered a small Indian intelligentsia which had an immense influence on the shaping of modern India. Ramchandra Guha has [pointed out](https://newrepublic.com/article/104203/the-other-liberal-light) that “between 1875 and 1910, the city of Poona (now Pune) was in the vanguard of social reform.” The likes of Gokhale, Tilak, Chiplunkar, and Agarkar sought to reform and mobilise the native population to create a modern Indian society and polity. Jyotiba Phule, a fellow Punekar, stands out in the group though for his radicalism and advocacy of the lower castes.

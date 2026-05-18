@@ -2,12 +2,29 @@
 id: "parth-shah-on-education-and-choice"
 title: "Parth Shah on Education and Choice"
 pubDate: "2020-11-16T10:10:13Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 author: "parth-shah"
 source_channel: "so-musings"
+proposed_themes:
+  - "education-policy"
+  - "school-choice"
+key_concepts:
+  - "school-choice"
+  - "quality-education"
+  - "ssa"
+  - "bottom-up-approach"
+pull_quote: Parents and students can only articulate what good education or quality education is, if they are able to explore different options by having the freedom to choose.
+stance: argues-for
+kind: speech-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following is an excerpt from the transcript of Education in India (an audio podcast) hosted by K. Satyanarayan with Parth J. Shah (Founder President of Centre for Civil Society). The podcast was recorded on June 09, 2014. In the excerpt, Parth comments on the importance of “choice” as a prerequisite to articulating the definition of quality education.

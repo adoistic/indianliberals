@@ -2,7 +2,9 @@
 id: "m-g-ranade-on-revival-and-reform"
 title: "M.G. Ranade on Revival and Reform"
 pubDate: "2021-04-19T13:06:33Z"
-themes: []
+themes:
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -22,6 +24,21 @@ thinker_mentions:
         what_it_shows: "signals the neglect of Ranade's legacy that the article seeks to remedy"
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "intellectual-history"
+  - "reformism"
+key_concepts:
+  - "western-liberalism"
+  - "reform-through-persuasion"
+  - "indian-sensibility"
+pull_quote: "Ranade's ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism."
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "maharashtra"
 ---
 
 _Ranade’s ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism. Steering clear from the militancy of any kind, he sought to introduce reforms through persuasion._Aroon Tikekar, a renowned author, journalist and intellectual delivered a couple of lectures in 1998 at the University of Mumbai and the motivation behind the series was that he wanted to make the audience aware of the contribution of M.G. Ranade as a social reformer and also acquaint them with the forgotten intellectual landscape of the city. His passion for engaging with the audience and informing them about various persons, issues and events in history remains unparalleled.

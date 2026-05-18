@@ -2,11 +2,29 @@
 id: "the-three-meanings-of-secularism"
 title: "The Three Meanings of Secularism"
 pubDate: "2021-07-03T11:05:11Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "religion-and-state"
+  - "secularism"
+key_concepts:
+  - "secular-state"
+  - "multi-religious-society"
+  - "sarva-dharma-samabhava"
+  - "equality-before-law"
+  - "minority-rights"
+stance: analyzes
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The relationship of the State with religion has been a contentious issue. Can an individual's private practice of religion be curtailed by the State? Is secularism a challenge or an opportunity for religious traditions? A piece authored by M.P. Rege and republished in the March 1993 edition of the Freedom First Magazine sought to deconstruct the many meanings of secularism and their implications. _Given the Indian context the first component in the meaning of secularism which one would naturally single out is the idea that the state as a social institution has to be secular. This means that there is a shared area of social affairs in which all Indians, irrespective of the religious communities to which they belong, have an equal status and equal rights. Further, the goals and norms which direct and govern these affairs are not derived and do not draw their sanction from any particular religious tradition. In this sense they are secular or 'rational'. They include such values as law and order, equality before law, economic welfare, egalitarian justice, promotion of intrinsically worthwhile activities like scientific research, pursuit of knowledge and the arts. These values have complicated relationships, both genetic and logical with the values which were developed and propagated by various religious traditions. But as a matter of fact, in modern times they have come to be regarded as autonomous, in the sense that they do not need any religious sanction and that they can be perceived to be an essential part of a good human life, in its social as well as personal aspect.

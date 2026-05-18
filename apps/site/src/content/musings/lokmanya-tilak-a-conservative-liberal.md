@@ -2,7 +2,8 @@
 id: "lokmanya-tilak-a-conservative-liberal"
 title: "Lokmanya Tilak : A Conservative Liberal?"
 pubDate: "2023-10-11T22:15:37Z"
-themes: []
+themes:
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -36,6 +37,22 @@ related_thinkers:
   - gopal-krishna-gokhale
   - pherozeshah-mehta
 source_channel: "so-musings"
+proposed_themes:
+  - "historiography"
+  - "nationalism"
+key_concepts:
+  - "father-of-indian-unrest"
+  - "conservative-liberal"
+  - "ab-shah"
+  - "miscarriage-of-historical-scholarship"
+pull_quote: He has often been interpreted and largely misinterpreted as a revolutionary, an extremist, and a nationalist leader who supported the use of violence.
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._

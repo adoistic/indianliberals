@@ -2,11 +2,29 @@
 id: "piyush-vs-piyush-beautiful-policies-are-not-enough"
 title: "Piyush vs Piyush -‘Beautiful Policies are Not Enough’"
 pubDate: "2020-11-16T10:02:16Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "infrastructure-finance"
+  - "policy-implementation"
+key_concepts:
+  - "policy-stability"
+  - "infrastructure-finance"
+  - "land-acquisition"
+  - "project-risk"
+pull_quote: Policy stability is more than just drafting ‘beautiful’ policies; if there are hurdles to implement them, it is not easy to do business.
+stance: analyzes
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "singapore"
 ---
 
 In the following passage, Luis Miranda recounts the highlights of a gripping panel discussion at the AIIB AGM wherein a Minister and CEO articulated the loopholes of policy-making in India. While the policies may seem effective on paper, their “operational challenges” render them handicapped. Luis, thus, underscores the need to create policies that can be implemented on the ground as well as they can be expressed on paper.

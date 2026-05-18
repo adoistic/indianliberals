@@ -2,11 +2,29 @@
 id: "not-a-rich-peoples-lobby"
 title: "Not a Rich People’s Lobby"
 pubDate: "2020-11-16T08:42:13Z"
-themes: []
+themes:
+  - "free-enterprise"
+  - "free-markets"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "pro-market-vs-pro-business"
+  - "swatantra-party"
+key_concepts:
+  - "healthy-competition"
+  - "cronyism"
+  - "government-monopoly"
+  - "favoured-licencees"
+pull_quote: "The Swatantra Party's principles and the policies it commends are the only policies and principles that can help general welfare and national progress."
+stance: argues-for
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The Swatantra Party's principles and the policies it commends are the only policies and principles that can help general welfare and national progress.

@@ -2,7 +2,9 @@
 id: "the-nation-by-rn-tagore"
 title: "The Nation by R N Tagore"
 pubDate: "2023-05-08T11:59:17Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -10,6 +12,19 @@ author: "rabindranath-tagore"
 thinker_mentions: []
 related_thinkers: []
 source_channel: "so-musings"
+proposed_themes:
+  - "cosmopolitanism"
+  - "culture"
+  - "nationalism"
+key_concepts:
+  - "nation-vs-people"
+  - "organisations-of-power"
+  - "self-expression"
+  - "monotony-of-nation"
+pull_quote: But the nations do not create, they merely produce and destroy.
+stance: argues-against
+kind: periodical-article
+period_window: post-reform
 ---
 
 _Rabindranath Tagore (1861-1941) was a renowned poet, novelist, and playwright widely acclaimed for his prolific literature in Bengali and English. His remarkable writings earned him the Nobel Prize for Literature in 1913 for his collection of prose poems called Gitanjali. In addition to his literary achievements, Tagore was a prominent educator who founded Visva Bharati University at Shantiniketan. This esteemed university is renowned for its internationalism and excellence in the arts and is now considered one of the leading universities in India._

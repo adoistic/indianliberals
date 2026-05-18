@@ -2,7 +2,8 @@
 id: "rajajis-views-on-nuclear-bomb"
 title: "Rajaji's Views on Nuclear Bomb"
 pubDate: "2021-04-07T09:17:47Z"
-themes: []
+themes:
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -37,6 +38,25 @@ related_thinkers:
   - jawaharlal-nehru
   - mahatma-gandhi
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "cold-war"
+  - "internationalism"
+  - "nuclear-weapons"
+key_concepts:
+  - "nuclear-arms-race"
+  - "swarajya-magazine"
+  - "radioactive-fallout"
+  - "non-alignment"
+  - "nuclear-test-ban"
+pull_quote: The nuclear threat to stability and global order apparently haunted the conservative imagination of Rajaji.
+stance: analyzes
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "soviet-union"
+    - "united-states"
 ---
 
 _Rajaji’s September 1962 meeting with US President Kennedy. Credit: Abbie Rowe. White House Photographs. John F. Kennedy Presidential Library and Museum, Boston._As the onset of the Indian republic coincided with the postwar bipolar order of superpower rivalry, Indian politicians with an active interest in international politics intervened vigorously in the debates about global order, world government, great power politics, and the nuclear arms race. While the internationalist vision of Nehru and his advocacy of non-alignment is well-recognized and deservedly so, the same is not the case with his comrade-turned-opponent C Rajagopalachari, also known as Rajaji. In a bid to uncover the forgotten internationalist vision of Rajaji, this article would focus on his take on the nuclear arms race unfolding between the US and USSR in the initial phase of the Cold war.

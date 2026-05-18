@@ -2,7 +2,9 @@
 id: "pandita-ramabai-a-trailblazing-feminist"
 title: "Pandita Ramabai: A Trailblazing Feminist"
 pubDate: "2023-04-26T10:33:35Z"
-themes: []
+themes:
+  - "civil-society"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +20,26 @@ thinker_mentions:
 related_thinkers: 
   - anandibai-joshee
 source_channel: "so-musings"
+proposed_themes:
+  - "biography"
+  - "feminism"
+  - "women-rights"
+key_concepts:
+  - "women-education"
+  - "child-marriage"
+  - "brahmo-samaj"
+  - "arya-mahila-samaj"
+  - "hunter-commission"
+pull_quote: "Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide."
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
+    - "united-kingdom"
+    - "west-bengal"
 ---
 
 _Pandita Ramabai (1858-1922) was an Indian social reformer, women's rights activist, scholar, and educator. She is best known for her pioneering work in promoting women's education and empowerment in India, publishing books on a wide range of topics, including the status of women in India, the Bible, and Sanskrit literature. She travelled extensively in India and abroad, advocating against child marriage, widowhood, and other social injustices against women. Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide._

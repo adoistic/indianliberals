@@ -2,13 +2,33 @@
 id: "n-dandekar-on-the-role-of-the-indian-navy"
 title: "N. Dandekar on the Role of the Indian Navy"
 pubDate: "2024-07-05T12:49:38Z"
-themes: []
+themes:
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "n-dandekar"
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "defence-policy"
+  - "naval-strategy"
+  - "non-alignment"
+key_concepts:
+  - "aggressively-defensive-posture"
+  - "swatantra-party"
+  - "two-fleets"
+  - "indo-pakistan-war-1965"
+  - "non-alignment"
+pull_quote: Dandekar asserted that an appropriate posture for the armed forces would involve defence from strength.
+stance: argues-for
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "china"
+    - "pakistan"
 ---
 
 When the world was divided between the communist and the capitalist blocs, India chose to remain non-aligned. The Indian government decided to use its resources primarily to undertake developmental programmes. Considerations of defence and security were always secondary. The accepted objective of the Indian armed forces was the defence of the country. The problems associated with strict adherence to this objective came to the fore after the Indo-Pakistan War of 1965.

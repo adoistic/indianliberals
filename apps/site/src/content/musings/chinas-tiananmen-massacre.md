@@ -2,7 +2,9 @@
 id: "chinas-tiananmen-massacre"
 title: "China’s Tiananmen Massacre"
 pubDate: "2020-11-16T06:58:25Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +27,26 @@ related_thinkers:
   - deng-xiaoping
   - s-v-raju
 source_channel: "so-musings"
+proposed_themes:
+  - "authoritarianism"
+  - "human-rights"
+key_concepts:
+  - "tiananmen-square"
+  - "communist-authoritarianism"
+  - "pro-democracy-protests"
+  - "national-security-law"
+  - "human-rights"
+pull_quote: China, at least, has answered in the negative and proved beyond all reasonable doubt that once communists gain control of a country they will never let go.
+stance: argues-against
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "australia"
+    - "china"
+    - "hong-kong"
+    - "soviet-union"
 ---
 
 We posed a question in an earlier issue of Freedom First: "Is the Soviet ideology really changing?" China, at least, has answered in the negative and proved beyond all reasonable doubt that once communists gain control of a country they will never let go. lt is as simple as that. If it was not so, why would the demand for democracy incur the wrath and vengeance of the peoples' democrats?

@@ -2,7 +2,11 @@
 id: "have-we-lost-our-will-to-be-free"
 title: "Have We Lost Our Will To Be Free?"
 pubDate: "2023-08-16T14:37:01Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "economic-freedom"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -16,7 +20,21 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - mahatma-gandhi
-
+proposed_themes:
+  - "state-socialism"
+key_concepts:
+  - "state-socialist-economy"
+  - "will-to-be-free"
+  - "slave-mentality"
+  - "swatantra-party"
+  - "bureaucratic-management"
+pull_quote: Freedom rests not on constitutions but on the will to be free.
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _C Rajagopalachari’s “Have We Lost Our Will To Be Free,” written in 1965, speaks about the difference between freedom from British rule and freedom in its true sense. He suggests that the people should be free from the excessive control by a State-Socialist Economy and should not succumb to a slave mentality. This essay was published in ‘Souvenir’ at the Swatantra Party’s Sixth National Convention in 1973 after he passed away._

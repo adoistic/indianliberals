@@ -2,7 +2,12 @@
 id: "laying-the-foundations-for-an-economic-miracle"
 title: "Laying The Foundations For An Economic Miracle"
 pubDate: "2023-02-22T11:04:35Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "fiscal-policy"
+  - "globalisation"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
@@ -28,6 +33,21 @@ related_thinkers:
   - hp-ranina
   - manmohan-singh
 source_channel: "so-musings"
+proposed_themes:
+  - "union-budget"
+key_concepts:
+  - "manmohan-singh"
+  - "excise-cuts"
+  - "crr-slr"
+  - "economic-miracle"
+pull_quote: This year’s Budget will go down in the fiscal history of India as the one which will create the right environment for engineering an economic miracle that has, so far, eluded the country.
+stance: argues-for
+kind: speech-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 _Published by the Forum of Free Enterprise, a non-political organization founded in 1956 by AD Shroff, the text titled “Union Budget 1993-94: Laying The Foundations For An Economic Miracle” was delivered as a speech by HP Ranina at a public meeting in Bombay on 1st March 1993._

@@ -2,7 +2,12 @@
 id: "free-enterprise-in-danger-b-r-shenoy-1975"
 title: "Free Enterprise in Danger - B.R. Shenoy"
 pubDate: "2024-07-22T10:16:52Z"
-themes: []
+themes:
+  - "economic-planning"
+  - "free-enterprise"
+  - "mixed-economy"
+  - "nationalisation"
+  - "private-enterprise"
 language: "en"
 needs_review: true
 draft: false
@@ -41,7 +46,20 @@ related_thinkers:
   - jrd-tata
   - p-n-haksar
   - vinoba-bhave
-
+proposed_themes:
+  - "communist-infiltration"
+key_concepts:
+  - "mixed-economy"
+  - "communist-infiltration"
+  - "loan-to-equity-conversion"
+  - "planned-economy"
+pull_quote: The institution of free enterprise and the liberty of the individual are in a critical phase in India.
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Produced below is an excerpt from 'Economic Prophecies' – a collection of BR Shenoy's theoretical writings dating from 1932 to 1953. __The featured article 'Free Enterprise in Danger' was written by Shenoy in support of statements made by industrialist JRD Tata at a seminar in 1975, sounding a warning about the impending extinction of the private sector._

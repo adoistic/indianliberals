@@ -2,7 +2,9 @@
 id: "de-stalinisation-versus-communism"
 title: "De-Stalinisation Versus Communism"
 pubDate: "2020-11-16T07:03:23Z"
-themes: []
+themes:
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -33,6 +35,25 @@ related_thinkers:
   - karl-marx
   - nikita-khrushchev
 source_channel: "so-musings"
+proposed_themes:
+  - "communism"
+  - "marxism-leninism"
+  - "totalitarianism"
+key_concepts:
+  - "de-stalinisation"
+  - "peaceful-coexistence"
+  - "marxism-leninism"
+  - "personality-cult"
+  - "bolshevik-revolution"
+pull_quote: It is obvious that the “socialist” world is no longer a mighty tree ( if ever it was ) with deep roots and it has to contend with its own problems as much as with the external ones.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
+    - "soviet-union"
 ---
 
 'As a mighty tree with deep roots does not fear any storm so that the new socialist world does not fear any adversary or shock.' It is obvious that the "socialist" world is no longer a mighty tree ( if ever it was ) with deep roots and it has to contend with its own problems as much as with the external ones.

@@ -2,12 +2,31 @@
 id: "community-development"
 title: "Community Development"
 pubDate: "2022-12-14T00:00:58Z"
-themes: []
+themes:
+  - "economic-development"
+  - "economic-planning"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
 author: "b-g-rao"
 source_channel: "so-musings"
+proposed_themes:
+  - "rural-development"
+key_concepts:
+  - "community-development"
+  - "rural-welfare"
+  - "planning-commission"
+  - "social-education"
+  - "rural-unemployment"
+pull_quote: My complaint is that community development has been ill-planned, if planned at all, and as regards the best use of limited resources - the less said, the better.
+stance: argues-against
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "uttar-pradesh"
 ---
 
 _The following text was originally delivered as a speech under the auspices of the Forum of Free Enterprise in Bombay on 15 September 1960 by B.G. Rao, I.C.S (Retd.). The author reviews the problems of rural unemployment and underemployment and tries to distinguish between rural development and rural welfare. He further suggests that social education and the programme for women and children under Community Development deserve examination._

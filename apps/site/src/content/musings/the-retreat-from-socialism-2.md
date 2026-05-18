@@ -2,7 +2,11 @@
 id: "the-retreat-from-socialism-2"
 title: "The Retreat from Socialism"
 pubDate: "2021-11-19T15:42:46Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "free-markets"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -19,6 +23,19 @@ thinker_mentions:
 related_thinkers: 
   - chintaman-deshmukh
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "democratic-socialism"
+  - "command-economy"
+  - "c-d-deshmukh"
+  - "soviet-collapse"
+  - "retreat-from-socialism"
+stance: argues-against
+kind: lecture
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _A publication of the [Project for Economic Education](https://indianliberals.in/content/the-retreat-after-socialism/), co-sponsored by the Friedrich Naumann Foundation, the following text is a reproduction of the 7th C. D. Deshmukh Lecture. The lecture was conducted by the India International Centre and delivered by B. K. Nehru. Through the lecture, he examined India's experiment with democratic socialism and why socialism retreated from the global political scenario. _I am thankful to the India International Centre for having invited me to deliver the Seventh C.D. Deshmukh Memorial Lecture thus giving me an opportunity to pay my tribute to a man whom I knew well and with whom I had the privilege of working for a number of years in various capacities. In fact, such knowledge of the mysteries of high finance that I ever had was due to the meticulous care which he took in chalking out the programme for training for me when I went to the Reserve Bank of India to be trained in those mysteries, as a fresh recruit to the then newly constituted finance and commerce pool of the Government of India 50 years ago. 

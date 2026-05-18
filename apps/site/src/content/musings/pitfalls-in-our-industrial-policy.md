@@ -2,7 +2,11 @@
 id: "pitfalls-in-our-industrial-policy"
 title: "Pitfalls in Our Industrial Policy"
 pubDate: "2023-05-03T11:23:14Z"
-themes: []
+themes:
+  - "industrial-policy"
+  - "mixed-economy"
+  - "private-enterprise"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
@@ -20,6 +24,20 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "bombay-plan"
+key_concepts:
+  - "bombay-plan"
+  - "discriminating-protection"
+  - "state-monopoly"
+  - "planned-economy"
+pull_quote: "Private enterprise has, therefore, earned the country's gratitude for the faith and courage with which it developed such industries as Textiles, Jute, Steel, Sugar, Shipping, etc., against heavy odds and at considerable sacrifices."
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following booklet, titled “Pitfalls in Our Industrial Policy,” was published in 1959 and was authored by M A Master. The author highlighted the momentum of private enterprise that made it possible to develop several privatised industries against all the substantial odds. He highlighted the radical shift that transgressed to economic thinking, leading to the state's industrial policy breach against the private sector. M A Master concentrated on the approach the then government adopted and highlighted the creation of economic revolution and the monopoly of the State. Furthermore, the author focused on the democratic stand, corroborating the balance between the public and the private sectors, and laid down the contention of anything contrary to the former approach as the model for the prevalence of dictatorship._

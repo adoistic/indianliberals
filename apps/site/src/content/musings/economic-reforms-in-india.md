@@ -2,7 +2,11 @@
 id: "economic-reforms-in-india"
 title: "Economic Reforms In India: Where Are We And Where Do We Go?"
 pubDate: "2022-10-13T10:23:08Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-development"
+  - "economic-policy"
+  - "economic-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -29,6 +33,20 @@ related_thinkers:
   - jawaharlal-nehru
 
 source_channel: "so-musings"
+proposed_themes:
+  - "human-resource-development"
+  - "urban-development"
+key_concepts:
+  - "tipping-point"
+  - "bombay-plan"
+  - "vocational-training"
+  - "urban-development"
+stance: analyzes
+kind: lecture
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text is taken from a 2006 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go-by-dr-rakesh-mohan-october-10-2006/) Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.

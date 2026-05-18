@@ -2,12 +2,28 @@
 id: "commerce-and-control-barriers-to-free-enterprise-m-a-rangoonwala-1982"
 title: "Commerce and Control: Barriers to Free Enterprise"
 pubDate: "2024-04-29T14:43:57Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "free-markets"
+  - "globalisation"
 language: "en"
 needs_review: true
 draft: false
 author: "ma-rangoonwala"
 source_channel: "so-musings"
+proposed_themes:
+  - "trade-barriers"
+key_concepts:
+  - "trade-barriers"
+  - "bureaucratic-restrictions"
+  - "government-controls"
+  - "free-trade"
+  - "global-economy"
+pull_quote: As has been the case throughout history, the unifying forces of commerce are frustrated by the divisive forces of politics.
+stance: argues-for
+kind: speech-excerpt
+period_window: late-license-raj
 ---
 
 _Following is an excerpt from a booklet titled ‘Free Market Economy - Key to Economic Progress and Freedoms’, authored by M.A. Rangoonwaala and published by the Forum for Free Enterprise in 1982. The author emphasises that despite increased globalisation, restrictions on free trade persist. He highlights how bureaucratic obstacles, also known as "man-made" barriers, obstruct the progress of the global economy. He argues that a free market economy is the key to all freedoms._

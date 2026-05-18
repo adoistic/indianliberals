@@ -2,7 +2,9 @@
 id: "towards-party-less-democracy"
 title: "Towards Party-less Democracy"
 pubDate: "2021-04-15T19:22:06Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
@@ -29,6 +31,23 @@ related_thinkers:
   - jayaprakash-narayan
   - m-n-roy
 source_channel: "so-musings"
+proposed_themes:
+  - "electoral-reform"
+  - "party-system"
+key_concepts:
+  - "party-less-democracy"
+  - "party-whip"
+  - "m-n-roy"
+  - "jayaprakash-narayan"
+  - "majority-rule"
+pull_quote: The first casualty is that of moral and intellectual conscience.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "assam"
 ---
 
 _The issues plaguing our electoral system have much to do with the tyranny of political parties and any step towards reforming the system on this path is a welcome. The following article was written in February 1961 and published in the Freedom First magazine. It challenged the popular notion of multi-party democracy. The author M.A. Venkata Rao discussed the modalities of a party-less democracy and proposed structural adjustments.  _Distressed by the Himalayan evils that have corrupted public life and administration during these years of self-rule, thoughtful people are suggesting a form of parliamentary democracy without the party system. The late Mr M. N. Roy had worked out the idea in some detail. And now Mr. Jayaprakash Narayan is mobilising public opinion by means of seminars and the circulation of concrete proposals among uncommitted thinkers.

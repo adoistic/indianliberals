@@ -2,7 +2,10 @@
 id: "to-prosperity-through-freedom-v-r-1960"
 title: "To Prosperity through Freedom"
 pubDate: "2024-05-20T17:01:04Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -47,6 +50,21 @@ related_thinkers:
   - mahatma-gandhi
   - c-rajagopalachari
 source_channel: "so-musings"
+proposed_themes:
+  - "swatantra-party"
+key_concepts:
+  - "rajaji"
+  - "patna-convention"
+  - "swatantra-party"
+  - "nehruvian-socialism"
+  - "directive-principles"
+pull_quote: Like Luther at Godeoburg, Mr. C. Rajqopalachari has nailed his Fourteen Points on the door of the Ruling Party in the crucial challenge.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following musing is an excerpt from ‘To Prosperity through Freedom’, published in journal Incorporating the 'Free Economic Review' and 'The Indian Rationalist’ Vol. 8 No. 5. The piece written by V. R. discusses and contextualizes Swatantra Party’s Philosophy and Policy which was declared at Patna on 19 and 20 March 1960. _

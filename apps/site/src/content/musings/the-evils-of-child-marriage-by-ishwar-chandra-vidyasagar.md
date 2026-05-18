@@ -2,14 +2,32 @@
 id: "the-evils-of-child-marriage-by-ishwar-chandra-vidyasagar"
 title: "The Evils of Child Marriage"
 pubDate: "2023-07-26T11:10:05Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
 author: "ishwar-chandra-vidyasagar"
 thinker_mentions: []
 related_thinkers: []
-
+proposed_themes:
+  - "child-marriage"
+  - "womens-rights"
+key_concepts:
+  - "child-marriage"
+  - "gauri-daan"
+  - "social-reform-bengal"
+  - "shastra-critique"
+pull_quote: Who can feign ignorance of the evils that these mindless acts have unleashed?
+stance: argues-against
+kind: periodical-article
+period_window: pre-independence
+geographic_scope:
+  scale: regional
+  places:
+    - "bengal-presidency"
+    - "west-bengal"
 ---
 
 _Originally published in 1850 in Calcutta-based Bengali language periodical Sarva Subhakari, Ishwar Chandra Vidyasagar established numerous girls' schools, wrote many textbooks in addition to regular schools to realize the noble intention of education. And he used his writing for social reform. 'The fault of child marriage' is one such social consciousness work of his. In the article, Vidyasagar discusses the causes, ill effects, and other related issues of child marriage. Every chapter of the composition is the identity of his progressive mentality._

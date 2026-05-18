@@ -2,7 +2,9 @@
 id: "the-universality-of-human-values-m-r-masani"
 title: "The Universality of Human Values - M.R. Masani"
 pubDate: "2021-05-21T06:39:29Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -38,6 +40,19 @@ related_thinkers:
   - jayaprakash-narayan
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "human-rights"
+  - "population"
+key_concepts:
+  - "human-rights"
+  - "universal-values"
+  - "rights-and-obligations"
+  - "population-and-food"
+  - "margaret-sanger"
+pull_quote: One thing is clear, as indeed the Universal Declaration of Human Rights adopted by the United Nations recognizes, and this is that Human Rights must be universally recognized and applied.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
 ---
 
 _Published below is an article written by Minoo Masani which appeared in the December 2002 edition of the Freedom First Magazine. This piece was written during the years of the cold war wherein Mr. Masani makes a coherent, impassioned and prudent plea to safeguard universal human values. (Image Credit : The Print)_In the Presidential Address delivered a few days back at the Annual Meeting of the British Association by Professor A. V. Hill, he took a step further the familiar proposition that Science has put in Man's hand more power than he has the wisdom to use. Dealing in particular with the problem of food and population, which is most acute in countries like India, Professor Hill asked whether Human Rights extended to unlimited reproduction with a consequent obligation falling on those more prudent. This is a question to which I, for one, would hesitate to venture an answer more specific than that given by Mahatma Gandhi in a wider context, namely, that each right carries with it a corresponding obligation. Certainly, all in India who ponder that the country's massive problems realize that the most serious attention needs to be devoted to the rectification through an all-sided approach, of the prevailing unbalance between production and population. An International Conference on Planned Population, which is due to meet in Bombay later this year and in which Dr. Margaret Sanger and other pioneers in the field will participate, is only one of the many signs that we in India are not altogether unaware of the pressing problem by drawing pointed attention to which Professor Hill performed a public service.

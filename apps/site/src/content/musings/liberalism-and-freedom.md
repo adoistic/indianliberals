@@ -2,11 +2,31 @@
 id: "liberalism-and-freedom"
 title: "Liberalism and Freedom"
 pubDate: "2020-11-16T06:25:21Z"
-themes: []
+themes:
+  - "democracy"
+  - "free-markets"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "pluralism"
+  - "tolerance"
+key_concepts:
+  - "virginia-declaration"
+  - "bill-of-rights"
+  - "liberal-philosophy"
+  - "natural-rights"
+pull_quote: At the core of the concept of Liberalism lies the principle of freedom.
+stance: analyzes
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places:
+    - "united-states"
 ---
 
 This is an excerpt from the Liberal Times, a forum for liberal policy in South Asia, Volume III. In this excerpt, the editor refers to the principles embedded in the very philosophy of Liberalism, the bedrock of which is freedom.

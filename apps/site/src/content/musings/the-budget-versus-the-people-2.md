@@ -2,7 +2,11 @@
 id: "the-budget-versus-the-people-2"
 title: "The Budget Versus The People"
 pubDate: "2023-02-03T13:47:50Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "fiscal-policy"
+  - "public-finance"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +21,20 @@ thinker_mentions:
 related_thinkers: 
   - minoo-masani
 source_channel: "so-musings"
+proposed_themes:
+  - "union-budget"
+key_concepts:
+  - "centre-state-transfers"
+  - "deficit-financing"
+  - "third-plan"
+  - "swatantra-critique"
+pull_quote: Thus, the States have come to depend more on the Centre for financial assistance.
+stance: argues-against
+kind: speech-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The Budget versus The People is a compendium of speeches delivered by Swatantra Party Members of Parliament like MR Masani and N. Dandekar in the Lok Sabha and Dahyabhai V Patel, M Ruthnaswamy and SS Mariswamy in the Rajya Sabha during the discussion on the Union Budget of 1965-66. __Across the five speeches, the MPs were able to highlight some fundamental problems caused by the Congress administration and the lack of emphasis on the Budget on some issues. In contrast, there was an over-emphasis on some others._

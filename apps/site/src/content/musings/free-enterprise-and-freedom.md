@@ -2,12 +2,30 @@
 id: "free-enterprise-and-freedom"
 title: "Free Enterprise and Freedom"
 pubDate: "2021-11-05T13:19:46Z"
-themes: []
+themes:
+  - "economic-planning"
+  - "free-enterprise"
+  - "private-enterprise"
+  - "public-sector"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 author: ""
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "socialist-pattern-of-society"
+  - "second-five-year-plan"
+  - "avadi-resolution"
+  - "planning-commission"
+pull_quote: The achievement of a Socialist Pattern of Society has been accepted as the objective of economic policy.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following essay was published by the [Forum of Free Enterprise](https://indianliberals.in/content/free-enterprise-and-freedom-by-murarji-j-vaidya-april-10-1956/) in 1956. Authored by Muraji J. Vaidya, the essay examines the approach of the Planning Commission in the Second Five-year Plan and what it meant for the private sector. _The approach of the Planning Commission and of the Government to the question of the scope for and sphere of Private Sector in the Second Five-Year Plan is evident from the first chapter of the draft outline. 

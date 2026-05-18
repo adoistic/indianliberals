@@ -2,7 +2,9 @@
 id: "indian-liberals-interviews-hindol-sengupta"
 title: "Indian Liberals Interviews Hindol Sengupta"
 pubDate: "2020-10-24T17:36:56Z"
-themes: []
+themes:
+  - "economic-growth"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -22,6 +24,19 @@ thinker_mentions:
         what_it_shows: "shows breadth of Sengupta's subject matter and intellectual ambition"
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "interview"
+  - "journalism"
+key_concepts:
+  - "recasting-india"
+  - "being-hindu"
+  - "hayek-prize"
+stance: profiles
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 **An award-winning author of nine best selling books, Hindol is an author and journalist. His book, “Recasting India” was shortlisted for the Hayek Prize while his other book, “Being Hindu” won the Wilbur Award in 2018. He has worked for Bloomberg TV, CNN and CNBC. In 2011, he was voted by the global ideas platform IdeaMensch on its list of 33 Entrepreneurs Who Make The World A Better Place. In this interview with Hinan Ali, he talks about his books, politics, growth, elections, and entreprenuership in India.**

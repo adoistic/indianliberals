@@ -2,7 +2,11 @@
 id: "the-liberal-budget"
 title: "The Liberal Budget: Building an Equitable Society"
 pubDate: "2023-02-15T14:07:13Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "fiscal-policy"
+  - "liberalism"
+  - "public-finance"
 language: "en"
 needs_review: true
 draft: false
@@ -66,6 +70,21 @@ related_thinkers:
   - sunil-bhandare
   - vijay-kelkar
 source_channel: "so-musings"
+proposed_themes:
+  - "human-development"
+key_concepts:
+  - "liberal-budget"
+  - "fiscal-consolidation"
+  - "human-capital"
+  - "social-safety-net"
+  - "interventionist-state"
+pull_quote: It is that the business of government is governance and not business.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Published by The Indian Liberal Group, a think tank founded in 1964 by Minoo Masani, the text titled “The Liberal Budget: Building an Equitable Society” authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha - all members of the Indian Liberal Group was published in 2004 and has a total of three chapters: “Liberal perspectives and human development”, “The current budget scenario” and “Policy framework and structure of the Liberal Budget”._

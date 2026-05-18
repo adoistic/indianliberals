@@ -2,7 +2,8 @@
 id: "globalisation-and-the-poor-2"
 title: "Globalisation and The Poor"
 pubDate: "2021-10-08T06:37:42Z"
-themes: []
+themes:
+  - "globalisation"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +18,19 @@ thinker_mentions:
 related_thinkers: 
   - amartya-sen
 source_channel: "so-musings"
+proposed_themes:
+  - "anti-globalisation"
+  - "free-trade"
+  - "poverty"
+key_concepts:
+  - "wto"
+  - "absolute-vs-relative-poverty"
+  - "seattle-protests"
+  - "anti-globalisation-movement"
+pull_quote: Relative poverty is not a measure of poverty, but of inequality.
+stance: argues-for
+kind: periodical-article
+period_window: reform-era
 ---
 
 _The following essay was published in November 2003 by the [Friedrich Naumann Foundation for Freedom](https://indianliberals.in/content/globalisation-and-the-poor/). Authored by Johan Norberg, the essay provides an evidence-based argument against anti-globalist theories that suggest poverty is a result of globalisation.  _The anti-globalisation movement had its coming-out party in Seattle in 1999, when thousands of activists and trade union members protested against a new round of trade negotiations in the World Trade Organisation. Millions were drawn to these protests because of a preceding anti-WTO statement that was circulated on the internet, and signed by about 1500 different groups, from churches to militant communists. Their first accusation against the WTO in the statement was that free trade and globalisation: 

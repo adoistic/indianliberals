@@ -2,7 +2,11 @@
 id: "the-missed-opportunity"
 title: "The Missed Opportunity"
 pubDate: "2023-02-08T10:55:23Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "fiscal-policy"
+  - "public-finance"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
@@ -19,6 +23,21 @@ thinker_mentions:
 related_thinkers: 
   - morarji-desai
 source_channel: "so-musings"
+proposed_themes:
+  - "union-budget"
+key_concepts:
+  - "deficit-financing"
+  - "three-plans-critique"
+  - "incentives"
+  - "swatantra-critique"
+pull_quote: The budget starts a chain reaction in the economy, and it can either promote economic growth or retard it.
+stance: argues-against
+kind: speech-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places:
+    - "rajasthan"
 ---
 
 _Published by Swatantra Party, “The Missed Opportunity” comprises speeches by its MPs MR Masani, Charanjit Rai and N Dandekar, each of whom expressed their discontent towards the Central Budget of 1967-68. The Swatantra Party MPs, in addition to highlighting the shortfalls of the central budget, shed light on the poor outcome of previous policies of the then-ruling party that have failed to achieve their original objective._

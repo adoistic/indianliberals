@@ -2,7 +2,10 @@
 id: "swatantra-party-foundation-year"
 title: "Swatantra Party: 64th Foundation Year"
 pubDate: "2023-06-04T12:45:23Z"
-themes: []
+themes:
+  - "democracy"
+  - "free-enterprise"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -42,7 +45,21 @@ related_thinkers:
   - k-m-munshi
   - minoo-masani
   - n-g-ranga
-
+proposed_themes:
+  - "swatantra-party"
+key_concepts:
+  - "why-swatantra"
+  - "save-freedom"
+  - "family-economy"
+  - "democratic-alternative"
+  - "fundamental-rights"
+pull_quote: The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _To commemorate the 64th Foundation Year of the first and the only Liberal political party in India, we share the following musing published by the Swatantra Party. "Why Swatantra" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani as they analyse with incisive logic the need for a new party and explain with great clarity the party’s fundamental philosophy and programmes. Why Swantantra? They answer: To Save Freedom (Rajagopalachari), To Preserve the Family Economy (N G Ranga), To Restore Fundamental Rights (K M Munshi) and To Provide a Democratic Alternative (Masani)._

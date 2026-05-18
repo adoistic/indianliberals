@@ -2,12 +2,30 @@
 id: "agricultural-economy"
 title: "Food Prices and Libertarian Solution"
 pubDate: "2020-11-16T09:33:12Z"
-themes: []
+themes:
+  - "agriculture"
+  - "free-enterprise"
+  - "free-markets"
 language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
 source_channel: "so-musings"
+proposed_themes:
+  - "price-control"
+key_concepts:
+  - "price-fixing"
+  - "essential-commodities-act"
+  - "hoarding"
+  - "free-economy"
+  - "food-problem"
+pull_quote: The right remedy is not to attempt any price-fixing at all but to remove the hindrances in the way of the smooth working of the agricultural economy and let free enterprise have a chance.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The right remedy is not to attempt any price-fixing at all but to remove the hindrances in the way of the smooth working of the agricultural economy and let free enterprise have a chance.

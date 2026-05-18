@@ -2,11 +2,30 @@
 id: "post-reform-labour-and-employment-issues-liberal-budget"
 title: "Post Reform Labour and Employment Issues - The Liberal Budget"
 pubDate: "2024-07-01T14:36:07Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "indian-liberal-group"
+proposed_themes:
+  - "employment"
+  - "labour-policy"
+  - "unorganised-sector"
+key_concepts:
+  - "labour-laws"
+  - "organised-sector"
+  - "unorganised-sector"
+  - "employment-security"
+  - "socialistic-pattern"
+pull_quote: This resulted in a well-laid framework seeking to provide security of tenure of employment in the organized sector while largely ignoring similar efforts in the unorganized and small-scale sectors.
+stance: analyzes
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following musing is taken from ‘_**_The Liberal Budget_**_’ published by the _**_Indian Liberal Group_**_ for the year 2007-08, titled ‘_[**_Taking Reforms to the Poor_**](https://indianliberals.in/indian-liberal-group/liberal-budget-reforms-for-poor.pdf)_’. The text reproduced below is the introduction of its third chapter on _**_Post Reform Labour and Employment Issues_**_._

@@ -2,7 +2,10 @@
 id: "for-freedom-farm-and-family"
 title: "For Freedom, Farm and Family"
 pubDate: "2022-12-07T05:19:21Z"
-themes: []
+themes:
+  - "agriculture"
+  - "democracy"
+  - "economic-planning"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +20,22 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "food-production"
+  - "independent-thinking"
+key_concepts:
+  - "food-deficit"
+  - "megalomania"
+  - "independent-thinking"
+  - "self-government"
+  - "planning-errors"
+pull_quote: Megalomania–a strong word–has vitiated our planning.
+stance: argues-against
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _“For Freedom, Farm And Family” was the presidential speech delivered by C. Rajagopalachari at a meeting organized by the Bangalore Centre on May 29, 1959. He talks about what democracy and self-government mean and the considerable responsibility of every citizen. He then goes on to highlight how the citizens have lost the habit of thinking independently and discourage this habit while supporting independent thinking. __You can read the original, unabridged version _[_here_](https://indianliberals.in/forum-of-free-enterprise/for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959.pdf)_. __ _Democracy and self-government mean considerable responsibility for every citizen. Unfortunately, we have come to feel that as long as Mr Nehru is there, none of us need worry about anything. In the first place because he is a very good man; in the second place because we cannot do anything. We have lost the habit of thinking independently. Somehow or other and for some reason or other, we have become indolent in the matter of thinking. That is the greatest difficulty in getting the government to do the right thing when we do not agree with what the government is doing. But I shall not dwell on this because I do not want to encourage that habit but rather to discourage it. We must get out of this atrophy of thinking if we wish to achieve anything. We must think independently, rightly or wrongly - it does not matter. If everybody began to think freely–and that is the meaning of freedom, ultimately–we shall get something done. But if we get frightened of thinking ourselves or too lazy to think, handing over all responsibility to the men who brought us the freedom to carry on the administration of the country as they think fit, it is a dangerous situation. Now I wish to tell you something.

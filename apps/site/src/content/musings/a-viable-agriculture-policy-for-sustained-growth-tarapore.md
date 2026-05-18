@@ -2,7 +2,10 @@
 id: "a-viable-agriculture-policy-for-sustained-growth-tarapore"
 title: "A Viable Agriculture Policy for Sustained Growth"
 pubDate: "2021-01-14T11:34:16Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-development"
+  - "economic-policy"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,26 @@ thinker_mentions:
 related_thinkers: 
   - indira-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "rural-urban-migration"
+  - "trade-policy"
+key_concepts:
+  - "export-control-raj"
+  - "commodity-export"
+  - "rural-infrastructure"
+  - "agricultural-productivity"
+  - "urban-slums"
+pull_quote: Allowing the pace of rural-urban migration to continue or even accelerate would result in a breakdown of urban infrastructure.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "australia"
+    - "brazil"
+    - "russia"
+    - "united-states"
 ---
 
 _The following is an excerpt from a booklet titled 'A Viable Agriculture Policy for Sustained Growth' published by the Forum of Free Enterprise and authored by S.S. Tarapore. The booklet was published on September 2012 wherein the author highlights the need for freer import-export market, agricultural productivity coupled with rural infrastructure, and the challenge of migration to cities.  He further talks about the need for a consistent and coherent agriculture policy to tackle these challenges. _

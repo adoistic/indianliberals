@@ -2,11 +2,29 @@
 id: "indian-agricultural-policy-in-a-nutshell"
 title: "Indian agricultural policy in a nutshell"
 pubDate: "2023-12-20T16:49:31Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-policy"
+  - "free-markets"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "farmer-movements"
+key_concepts:
+  - "negative-subsidy"
+  - "shetkari-sanghatana"
+  - "freedom-of-access"
+  - "wto"
+  - "farm-poverty"
+pull_quote: The central and the most essential fact about Indian agriculture is that it suffers from either the caprices of nature or, when the nature is benign, by the tyranny of governmental interventions.
+stance: argues-against
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following is an article written by Farmer Leader Mr. Sharad Joshi in Down to Earth in 2012. Joshi founded the Shetkari Sanghatana, a non-political union of farmers formed to secure ‘Freedom of access to markets and technology,’ which later emerged as one of the largest farm groups in India. He was also the founder of the largest organization of rural women, Shetkari Mahila Aghadi, celebrated for its work for women’s property rights. _

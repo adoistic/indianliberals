@@ -2,7 +2,10 @@
 id: "democracy-and-liberalism-contrasting-ideals"
 title: "Democracy and Liberalism : Contrasting Ideals"
 pubDate: "2021-03-12T09:03:16Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +20,18 @@ thinker_mentions:
 related_thinkers: 
   - s-v-raju
 source_channel: "so-musings"
+proposed_themes:
+  - "limited-government"
+key_concepts:
+  - "limited-government"
+  - "majority-rule"
+  - "totalitarianism"
+  - "constitutional-limits"
+  - "social-democracy"
+pull_quote: Liberalism is concerned with the functions of government and particularly with the limitation of all its powers.
+stance: analyzes
+kind: book-excerpt
+period_window: post-reform
 ---
 
 _The following piece is an excerpt from Sauvik Chakraverti's book titled ['Natural Order : Essays Exploring Civil Government and Rule of Law'.](https://indianliberals.in/liberals/natural-order-essays-exploring-civil-government-and-the-rule-of-law.pdf) The author discusses the contrasting understanding between democracy and liberalism by quoting the works of prominent classical liberal thinkers such as Hayek. The insights offered in this work are timeless for conversations surrounding democracy and liberalism. _Since I may have lit a fire in the minds of many an aspiring liberal politician – which was my intention – I will conclude with some sobering thoughts on the essential contradictions between the liberal project and that of democracy. The two are not identical. This is the prime reason why even the so-called ‘liberal democracies’ of the West seem more like ‘socialist democracies’. Indeed, social democrats in the USA call themselves ‘liberal’! It seems to me that it is vital that the differences between the two doctrines be clearly restated. Allow me to quote at some length from Hayek:

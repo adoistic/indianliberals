@@ -2,7 +2,11 @@
 id: "freedom-and-economic-freedom-bibek-debroy-2008"
 title: "Freedom and Economic Freedom - Bibek Debroy, 2008"
 pubDate: "2024-07-08T15:13:37Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "economic-freedom"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +21,18 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - friedrich-hayek
-
+proposed_themes:
+  - "human-rights"
+  - "negative-vs-positive-rights"
+key_concepts:
+  - "negative-rights"
+  - "positive-rights"
+  - "universal-declaration-of-human-rights"
+  - "centralized-planning"
+pull_quote: These core human rights represent the essence of freedom and have been captured in legislation, national as well as international.
+stance: argues-for
+kind: book-excerpt
+period_window: post-reform
 ---
 
 _The following musing is taken from the “_**_Handbook of Transformation to Market Economy”_**_ written by _**_Bibek Debroy_**_ and published by the __the_**_ Liberal Institute of the Friedrich Naumann Foundation _**_in 2008. The text reproduced below is an excerpt from its second chapter titled “_**_Freedom and Economic Freedom_**_”. _

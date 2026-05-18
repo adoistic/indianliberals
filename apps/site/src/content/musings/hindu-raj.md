@@ -2,12 +2,30 @@
 id: "hindu-raj"
 title: "Hindi Raj and Hindu Raj"
 pubDate: "2020-11-16T09:35:42Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
 language: "en"
 needs_review: true
 draft: false
 author: "p-kodanda-rao"
 source_channel: "so-musings"
+proposed_themes:
+  - "communalism"
+  - "language-policy"
+key_concepts:
+  - "hindi-imposition"
+  - "hindu-raj"
+  - "jan-sangh"
+  - "rss"
+  - "english-as-link-language"
+pull_quote: All attempts to sustain and promote the national and emotional unity of India are gravely thwarted by the imminent threat of Hindi Raj and the potential threat of Hindu Raj.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 All attempts to sustain and promote the national and emotional unity of India are gravely thwarted by the imminent threat of Hindi Raj and the potential threat of Hindu Raj.

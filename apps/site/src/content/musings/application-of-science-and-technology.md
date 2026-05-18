@@ -2,7 +2,8 @@
 id: "application-of-science-and-technology"
 title: "THE APPLICATION OF SCIENCE AND TECHNOLOGY TO SOCIO-ECONOMIC DEVELOPMENT"
 pubDate: "2022-02-28T04:48:10Z"
-themes: []
+themes:
+  - "economic-development"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +26,19 @@ related_thinkers:
   - a-d-shroff
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "modernisation"
+  - "science-and-technology"
+key_concepts:
+  - "science-and-technology"
+  - "national-development"
+  - "economic-uplift"
+  - "nuclear-science"
+  - "applied-research"
+pull_quote: It has emerged as the most important element of national development and economic uplift.
+stance: analyzes
+kind: speech-excerpt
+period_window: late-license-raj
 ---
 
 The following booklet was published by the [Forum of Free Enterprise](https://indianliberals.in/content/the-application-of-science-and-technology-to-socio-economic-development-by-professor-m-s-thacker-15-november-1971/) in 1971. Authored by Professor M.S. Thacker, the text was originally delivered as a speech at the 6th A.D. Shroff Memorial Lecture. Thacker discusses the increasing significance of science and technology and their practical applications, contributions to the economy, and drawbacks.I  begin by repeating a part of my Presidential address to the United Nation's Conference, which met at Geneva in. 1963 with nearly two thousand delegates and over ninety countries represented, on Application of Science and Technology for the benefit of the Developing Areas of the World. 

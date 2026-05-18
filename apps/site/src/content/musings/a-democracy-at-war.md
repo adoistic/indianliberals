@@ -2,7 +2,9 @@
 id: "a-democracy-at-war"
 title: "A Democracy at War"
 pubDate: "2020-11-16T06:52:08Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
 language: "en"
 needs_review: true
 draft: false
@@ -49,6 +51,22 @@ related_thinkers:
   - nikita-khrushchev
   - v-k-krishna-menon
 source_channel: "so-musings"
+proposed_themes:
+  - "foreign-policy"
+  - "national-security"
+key_concepts:
+  - "panchsheel"
+  - "non-alignment"
+  - "chinese-aggression"
+  - "opposition-critique"
+pull_quote: We are today faced with this great disaster that is overtaking our armies at the front as a result of ten years of misguided policies of neutralism and of appeasement of Chinese Communist expansionism.
+stance: argues-against
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
 ---
 
 Now, what is our situation in India today? We are today faced with this great disaster that is overtaking our armies at the front as a result of ten years of misguided policies of neutralism and of appeasement of Chinese Communist expansionism. The root cause has been the failure to understand the nature of international communism.

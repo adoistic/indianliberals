@@ -2,7 +2,11 @@
 id: "the-aborted-promise-economic-liberalisation-1960s"
 title: "The Aborted Promise of Economic Liberalisation in Mid-1960s"
 pubDate: "2020-12-15T22:35:18Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "mixed-economy"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -54,6 +58,21 @@ related_thinkers:
   - s-k-patil
   - t-t-krishnamachari
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "reform-by-stealth"
+  - "shastri-era"
+key_concepts:
+  - "reform-by-stealth"
+  - "mixed-economy"
+  - "foreign-exchange-crisis"
+  - "nehruvian-planning"
+pull_quote: From 1991 onwards, two characteristic features of economic liberalisation in India have been reforms during crisis and reforms by stealth.
+stance: analyzes
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Shastri’s appointment as the PM was welcomed by the business community for his non-ideological, pragmatic approach and connections with the business class. This stood in contrast to the socialist-minded Nehru who preferred to hobnob with the modern, secular intelligentsia instead of courting relations with the traditionalist businessmen operating in his mixed economy._From 1991 onwards, two characteristic features of economic liberalisation in India have been reforms during crisis and reforms by stealth. The successive political regimes after the watershed year of 1991 have resorted to the same mechanism. However, these twin features of the political economy of liberalisation were also present in the mid-1960s. Those years were marked by political uncertainty after Nehru’s death, serious food crisis, high levels of inflation, war with Pakistan, shortage of foreign exchange reserves, decline in industrial growth, rampant unemployment, and the failure of the plan to meet the targets. 

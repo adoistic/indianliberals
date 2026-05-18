@@ -2,7 +2,10 @@
 id: "the-essence-of-democracy"
 title: "The Essence of Democracy"
 pubDate: "2021-03-08T20:44:35Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -35,6 +38,20 @@ related_thinkers:
   - vinoba-bhave
   - voltaire
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "opposition-party"
+  - "bhoodan-movement"
+  - "parliamentary-democracy"
+  - "jayaprakash-narayan-critique"
+pull_quote: But it does unmistakably mean that opposition to the government of the day is of the very essence of democracy.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "gujarat"
 ---
 
 _The following piece was published in the August 1953 edition of the Freedom First Magazine. It is an editorial piece written in response to Jayprakash Narayan's views on democracy as well as the role of opposition in a democratic setup. According to Mr. Narayan, there was no need for an opposition or political parties. The editorial contends with those arguments and presents a clearer picture of democracy and the flaw in Mr. Narayan's reasoning. _“Perhaps it is a mistake to always imagine that in a democracy there should be a ruling party and an opposition party. There should be some other way...They (political parties) do propaganda and set up their own candidates in elections. People have to select from amongst them. This is not correct democracy. People may not be able this way to select the best worker." Such were the disconcerting sentiments expressed by Shri Jayaprakash Narayan, the PSP leader, in the course of his whirlwind tour of Gujarat in support of Vinoba's Bhoodan Movement. Were it not for the fact that our infant democracy is already denounced as a sham and a fraud by those who would forcibly overthrow it in favour of "'a dictatorship of the proletariat," we might have taken the criticism in good part as that of a friendly critic who, moved by the misery and suffering of his people, is impatient with the slow and inefficient functioning of an imperfect democratic machinery. As it is, the criticism is liable to be misconstrued by interested parties as a repudiation of the democratic system by one of democracy's best friends, Let us, therefore, examine Jayaprakash's pronouncements dispassionately to see how far they are justified.

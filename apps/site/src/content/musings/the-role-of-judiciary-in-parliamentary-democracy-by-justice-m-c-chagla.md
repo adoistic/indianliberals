@@ -2,7 +2,10 @@
 id: "the-role-of-judiciary-in-parliamentary-democracy-by-justice-m-c-chagla"
 title: "The Role of Judiciary in Parliamentary Democracy by Justice M.C. Chagla"
 pubDate: "2021-01-22T09:15:43Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,23 @@ thinker_mentions:
 related_thinkers: 
   - a-d-shroff
 source_channel: "so-musings"
+proposed_themes:
+  - "constitutionalism"
+  - "judiciary"
+key_concepts:
+  - "judicial-review"
+  - "parliamentary-supremacy"
+  - "constitutional-supremacy"
+  - "supreme-court"
+  - "constitutionality"
+pull_quote: Parliament may pass any law but it is the Supreme Court which is the ultimate arbiter of its validity.
+stance: analyzes
+kind: lecture
+period_window: late-license-raj
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "united-kingdom"
 ---
 
 _The following is an excerpt from the A.D. Shroff Memorial Lecture titled 'The Role of Judiciary in Parliamentary Democracy' published by the Forum of Free Enterprise and delivered by Justice M.C. Chagla in 1974. It was republished as a booklet by Forum of Free Enterprise in January 2011. Justice M.C.Chagla, one of the finest Judges India has produced, had made in 1974, some very pertinent observations which have great bearing on contemporary developments in India._

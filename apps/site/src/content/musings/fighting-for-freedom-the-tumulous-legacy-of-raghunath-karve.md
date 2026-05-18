@@ -2,7 +2,10 @@
 id: "fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve"
 title: "Fighting for Freedom : The Tumultuous Legacy of Raghunath Karve"
 pubDate: "2023-09-06T16:11:23Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,24 @@ thinker_mentions:
 related_thinkers: 
   - bhimrao-ambedkar
 source_channel: "so-musings"
+proposed_themes:
+  - "birth-control"
+  - "individual-autonomy"
+  - "sex-education"
+key_concepts:
+  - "birth-control"
+  - "sex-education"
+  - "individual-autonomy"
+  - "non-procreative-sexuality"
+  - "samajswasthya"
+pull_quote: Karve was a strong believer in individual autonomy especially of the corporeal kind and was a strong supporter of birth control.
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "maharashtra"
 ---
 
 _Raghunath Dhondo Karve is known as a staunch supporter of individual liberty and freedom. He believed in individual autonomy and attempted to normalize non-procreative sexuality. He challenged existing customs and argued for individual sexual freedom and awareness through his publication समाजस्वास्थ्य  (Health of the society)._

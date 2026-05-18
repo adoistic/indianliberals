@@ -8,6 +8,13 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 source_channel: "editorial-events"
+proposed_themes:
+  - "essay-contest"
+key_concepts:
+  - "essay-contest-results"
+  - "indian-liberals-archive"
+kind: event-coverage
+period_window: post-reform
 ---
 
 **Results**

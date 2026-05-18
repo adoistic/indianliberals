@@ -2,7 +2,10 @@
 id: "hope-for-indian-liberals"
 title: "Any Hope for Indian Liberals?"
 pubDate: "2020-11-16T09:41:50Z"
-themes: []
+themes:
+  - "democracy"
+  - "economic-reform"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +20,21 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "indian-liberal-tradition"
+key_concepts:
+  - "vedanta-tradition"
+  - "nehruvian-socialism"
+  - "liberal-entrepreneurship"
+  - "swatantra-bharat-paksh"
+  - "exit-policy"
+pull_quote: But history has ample evidence that liberty blossoms in the most unexpected of places and at seemingly impossible times.
+stance: analyzes
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 In this article, late Sharad Anantrao Joshi, President of the Swatantra Bharat Paksh, questions if there is any promise to Indian liberalism and comes to the conclusion that despite plenty of gloom, history has ample evidence that liberty blossoms in the most unexpected of places and at seemingly impossible times.

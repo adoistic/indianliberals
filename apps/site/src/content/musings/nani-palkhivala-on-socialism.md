@@ -2,7 +2,12 @@
 id: "nani-palkhivala-on-socialism"
 title: "N. A. Palkhivala's Views on Socialism"
 pubDate: "2020-12-10T18:17:53Z"
-themes: []
+themes:
+  - "banking"
+  - "economic-policy"
+  - "free-enterprise"
+  - "nationalisation"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -26,6 +31,19 @@ related_thinkers:
   - jawaharlal-nehru
   - t-t-krishnamachari
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "bank-nationalisation"
+  - "state-control"
+  - "central-planning"
+  - "tashkent-spirit"
+pull_quote: The tragedy of India today is the tragedy of waste - waste of manpower, waste of industrial capacity, waste of talent, experience and the spirit of enterprise which could be harnessed to greater national purposes.
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following is an article published on March 10, 1966  in Forum of Free Enterprise's booklet titled "Is Socialism Outdated?" The author Mr. Nani Palkhivala, in this article on "The Shells of Socialism", discusses various aspects pertaining to socialism and State control.

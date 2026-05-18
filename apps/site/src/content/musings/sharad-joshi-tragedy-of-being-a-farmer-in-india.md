@@ -2,7 +2,9 @@
 id: "sharad-joshi-tragedy-of-being-a-farmer-in-india"
 title: "Sharad Joshi on The Tragedy of Being a Farmer in India"
 pubDate: "2020-12-24T09:50:11Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-policy"
 language: "en"
 needs_review: true
 draft: false
@@ -26,6 +28,22 @@ related_thinkers:
   - indira-gandhi
   - lal-bahadur-shastri
 source_channel: "so-musings"
+proposed_themes:
+  - "farmer-suicides"
+  - "farmers-movement"
+key_concepts:
+  - "farmer-suicides"
+  - "swatantra-bharat-paksha"
+  - "rajya-sabha-intervention"
+  - "vidarbha-crisis"
+pull_quote: For the last two years farmers have been committing suicide practically every hour.
+stance: argues-against
+kind: speech-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 The following is an extract from a speech delivered in the Rajya Sabha by Mr. Sharad Joshi in August 2005 on the question of farmers' suicides. It was subsequently published in the October 2007 edition of the Freedom First magazine with a brief introduction written by Sharad Joshi himself.  In this piece, he has aptly captured the problem faced by India's farmers and advised the Government to take immediate measures by addressing the root of the crises.

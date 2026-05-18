@@ -2,7 +2,10 @@
 id: "education-of-the-electorate-m-a-venkata-rao"
 title: "The Education of the Electorate"
 pubDate: "2021-04-01T22:53:24Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,22 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "elections"
+  - "voter-education"
+key_concepts:
+  - "voter-cynicism"
+  - "constituency-size"
+  - "electioneering"
+  - "adult-franchise"
+  - "party-politics"
+pull_quote: "They said frankly that in their deliberate opinion, one candidate was as good or as bad as another and that parties made little difference to the final outcome in good administration!"
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following piece was originally published in the October 1961 edition of the Indian Libertarian Magazine. The author, M.A. Venkata Rao deconstructs Indian democracy vis-a-vis the relationship between voters and representatives. He emphasises the need for greater liason between representatives and their constituents, among other things. _The characteristics of the electorate everywhere determines the quality of democracy and its actual influence on affairs beneficial or otherwise. In our country today, we have very large constituencies consisting of voters given political rights on an adult basis irrespective of property, education and sex. For the Lok Sabha, we have constituencies running into lakhs of voters and in rural areas, they are spread over several townships. To contact them would require ample funds for conveyance and ample leisure. Only men of means can contemplate candidature for Lok Sabha or men favoured by parties with large funds to "invest" in the enterprise of capturing power. 

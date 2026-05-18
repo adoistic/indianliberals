@@ -2,7 +2,9 @@
 id: "the-wisdom-of-the-rulers"
 title: "The Wisdom of the Rulers"
 pubDate: "2021-05-18T10:16:04Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
@@ -19,6 +21,22 @@ thinker_mentions:
 related_thinkers: 
   - karl-marx
 source_channel: "so-musings"
+proposed_themes:
+  - "ancient-indian-thought"
+  - "political-philosophy"
+key_concepts:
+  - "raja-dharma"
+  - "yatha-raja-tatha-praja"
+  - "arthasastra"
+  - "manu-smriti"
+  - "qualifications-of-rulers"
+pull_quote: It is not mere time that makes the yuga or time spirit but it is the king that determines the entire “progress-and-happiness conditioning” climate of society and state at any time.
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The qualifications, characteristics as well as the ideal values of rulers has been debated by various philosophers for ages. These philosophical debates have informed modern day democratic setups and they continue to catch the eye of those who seek to engage in the relationship between the ruler and the citizen. The following piece, published in the December 1961 edition of the Indian Libertarian magazine elucidates on the characteristics of rulers vis-a-vis ideas from ancient Indian thinkers. _Now that the principal parties in all the land have published their manifestos and there is but a short period for the voters to digest their programmes and assess their merits before the general elections in February 1962, it is worthwhile reminding ourselves of what qualifications and wisdom we wish the rulers to possess to deserve our choice and approval. 

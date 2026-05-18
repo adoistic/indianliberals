@@ -2,11 +2,30 @@
 id: "democratic-socialism-in-india"
 title: "Democratic Socialism in India - A Symposium"
 pubDate: "2021-09-10T05:20:56Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "caste-system"
+key_concepts:
+  - "democratic-socialism"
+  - "caste-system"
+  - "social-equality"
+  - "economic-concentration"
+  - "third-world"
+pull_quote: If economic power were to be concentrated in the hands of the state-which in a parliamentary system means, in effect, the Prime Minister or a few mandarins at the top- political democracy cannot survive for long.
+stance: analyzes
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Produced below is an essay by A. B. Shah, published in a 1976 edition of _[_Freedom Frist._](https://indianliberals.in/periodicals/freedom-first/)_  In the essay, the author uncovers the difference between the democratic socialist movements of Western Europe and North America versus that of India. In doing so, he discusses the need for a liberal social and cultural context for the growth of democratic socialism. _Like democracy, socialism too is a product of Western thought. Even in the West, it only took root in societies which had undergone the liberating experience of a social and cultural renaissance. In Eastern Europe, including Russia, Marxian socialism predictably degenerated into statism providing a modern garb for an indigenous authoritarian tradition. In Western Europe (and North America), on the other hand, where democracy was the culmination of a process of social and cultural liberalisation, socialism sought to complement the gains of political democracy by extending them to the economic field.

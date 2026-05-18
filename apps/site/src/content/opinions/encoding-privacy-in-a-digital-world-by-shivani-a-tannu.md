@@ -2,13 +2,29 @@
 id: "encoding-privacy-in-a-digital-world-by-shivani-a-tannu"
 title: "Encoding Privacy in a Digital World"
 pubDate: "2020-10-24T16:54:57Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 author: "shivani-a-tannu"
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "data-protection"
+  - "digital-privacy"
+  - "technology-policy"
+key_concepts:
+  - "data-protection"
+  - "informational-privacy"
+  - "individual-profiling"
+  - "surveillance"
+  - "consent"
+pull_quote: The cost that user’s pay for accessing online services is not cash but voluntarily giving up on our personal data.
+stance: argues-for
+kind: commentary
+period_window: post-reform
 ---
 
 **Encoding Privacy in a Digital World**

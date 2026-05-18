@@ -2,7 +2,9 @@
 id: "tagore-s-humanistic-approach-to-nationalism-a-ranganathao"
 title: "Tagore's Humanistic Approach To Indian Nationalism"
 pubDate: "2024-10-14T12:12:10Z"
-themes: []
+themes:
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -32,6 +34,22 @@ related_thinkers:
   - rabindranath-tagore
   - raja-ram-mohan-roy
 source_channel: "indian-libertarian"
+proposed_themes:
+  - "indian-renaissance"
+  - "nationalism"
+key_concepts:
+  - "indian-renaissance"
+  - "tagore-nationalism"
+  - "humanistic-nationalism"
+  - "raja-ram-mohan-roy"
+  - "cultural-exchange"
+pull_quote: "Tagore's greatness lies in the fact that he infused the spirit of poetry into the Indian national movement."
+stance: analyzes
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Produced below is an excerpt from an article by A. Ranganathan called "Tagore's Humanistic Approach to Indian Nationalism," where the author explores Rabindranath Tagore's unique perspective on Indian nationalism. The article delves into how Tagore distinguished Indian nationalism from European forms, emphasized the importance of cultural exchange with the West, and believed that true freedom extended beyond political independence into the realm of the mind and spirit._

@@ -2,10 +2,26 @@
 id: "the-myth-of-free-education"
 title: "The Myth of Free Education"
 pubDate: "2024-08-05T14:45:50Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "public-finance"
 language: "en"
 needs_review: true
 draft: false
+proposed_themes:
+  - "education-policy"
+key_concepts:
+  - "free-education"
+  - "no-free-lunch"
+  - "political-demagoguery"
+  - "opportunity-cost"
+pull_quote: Whenever we get comfort and have not paid for it, we must realise clearly that we are enjoying it at somebody else’s cost.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Produced below is an essay by Om Prakash Kahol from the magazine ‘The Indian Libertarian’ published in January 1959. _

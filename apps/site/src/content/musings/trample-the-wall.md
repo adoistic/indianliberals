@@ -2,11 +2,33 @@
 id: "trample-the-wall"
 title: "Trample the Wall"
 pubDate: "2020-11-16T07:21:05Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "free-markets"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "berlin-wall"
+  - "cold-war"
+  - "communism"
+key_concepts:
+  - "berlin-wall"
+  - "cold-war"
+  - "capitalism-vs-communism"
+  - "peter-fechter"
+  - "checkpoint-charlie"
+pull_quote: But the fear of possible consequences of such an act rendered the American military authorities on the spot powerless.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "germany"
+    - "united-states"
 ---
 
 Fechter's death also exposed the flabbiness of the Western position in Berlin. The American troops at the Checkpoint Charlie could have, if permitted, given medical aid to Fechter who was moaning helplessly for about half an hour before he succumbed to his injuries. But the fear of possible consequences of such an act rendered the American military authorities on the spot powerless.

@@ -2,7 +2,11 @@
 id: "the-place-of-free-enterprise-in-a-backward-economy"
 title: "The Place of Free Enterprise in a Backward Economy"
 pubDate: "2024-07-15T13:01:10Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "private-enterprise"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +29,20 @@ related_thinkers:
   - jawaharlal-nehru
   - t-t-krishnamachari
 source_channel: "forum-of-free-enterprise"
+proposed_themes: []
+key_concepts:
+  - "chambers-of-commerce"
+  - "socialist-state"
+  - "private-sector-discrimination"
+  - "second-plan"
+  - "nehruvian-socialism"
+pull_quote: Since the decision of the Government to establish a socialist economy in the country, this section has come in for quite an unnecessary measure of discrimination and has been discredited and discouraged at every stage.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _D. N. Hosali’s publication, "The Place of Free Enterprise in a Backward Economy," critiques the shift towards socialism in India. Hosali argues that socialism stifles the growth and efficiency of the private sector, which is crucial for developing backward economies. He contends that free enterprise is more effective in driving economic progress and ensuring freedom._

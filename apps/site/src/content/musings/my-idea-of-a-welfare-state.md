@@ -2,7 +2,9 @@
 id: "my-idea-of-a-welfare-state"
 title: "My Idea of A Welfare State - B.R. Shenoy"
 pubDate: "2021-07-30T04:39:06Z"
-themes: []
+themes:
+  - "liberalism"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -20,6 +22,21 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "gandhian-thought"
+  - "welfare-state"
+key_concepts:
+  - "welfare-state"
+  - "moksha"
+  - "individual-freedom"
+  - "human-existence"
+pull_quote: The accent of the welfare state is, clearly, on welfare as there can be no welfare state without welfare.
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Produced below is an essay by B.R. Shenoy, published in a December 1957 issue of [The Indian Libertarian Magazine](https://indianliberals.in/content/the-indian-libertarian-december-1-1957/). The author was an Indian economist and notable critic of the India's five-year planning model. A proponent of individual freedoms, in this essay, Shenoy outlines the characteristics of a true welfare state. _The accent of the welfare state is, clearly, on welfare as there can be no welfare state without welfare. The question at once arises, whose welfare does the welfare state aim at achieving? The answer, probably, would be the welfare of the common man. If it is objected that the common man is very hard to find, we would, probably, amend our answer and say that the objective of the welfare state is the welfare of the masses of people, the maximum of well-being of the maximum of people. 

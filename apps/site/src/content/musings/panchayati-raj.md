@@ -2,12 +2,29 @@
 id: "panchayati-raj"
 title: "Panchayati Raj"
 pubDate: "2022-11-30T00:00:27Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 author: "jayaprakash-narayan"
 source_channel: "so-musings"
+proposed_themes:
+  - "decentralisation"
+  - "panchayati-raj"
+key_concepts:
+  - "panchayati-raj"
+  - "participating-democracy"
+  - "swaraj"
+  - "development-administration"
+pull_quote: It is clear, however, that the logic of the movement is driving it forward and constantly enlarging and deepening its implications.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _This article was published in the March 1961 issue of Freedom First by Jayaprakash Narayan, popularly referred to as Lok Nayak (Hindi for "People's leader"). This excerpt was part of a paper prepared for the Seminar on “South and South-East Asia has Second Look at Democracy.” You can read the original, unabridged version _[_here_](http://www.freedomfirst.in/uploads/issues/pdf/106.pdf)_.__ _In the past few months much has been written about Panchayati Raj and there is no need to describe it in any detail. A few observations, however, are called for. First, it should be noted that the initiative for Panchayati Raj originally came not from the political motive of broadening the bases of our democracy or laying the foundations of what I have called ‘participating democracy’ but from the anxiety to obtain full public cooperation in the execution of development programme. On account of this restricted aim with which the experiment was started, its significance has not so well been grasped even by the conscious political elements in the country, much less by the people at large. It is clear, however, that the logic of the movement is driving it forward and constantly enlarging and deepening its implications. There is still a need, however, to arouse popular enthusiasm about this measure and to make the people realize that what was intended was not a procedural reform of the administration at the lower levels but a political revolution of the greatest significance for the people: that in effect the intention and the attempt were to bring Swaraj to the people. This understanding and enthusiasm cannot be brought about by Development Officers but by the democratic and popular leaders of the country irrespective of party and ideology and by social workers and intellectual and moral leaders generally.

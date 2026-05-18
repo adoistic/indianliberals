@@ -2,12 +2,29 @@
 id: "mavenkata-rao-corruption-of-thought"
 title: "Corruption of Thought"
 pubDate: "2020-11-16T09:46:18Z"
-themes: []
+themes:
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
 source_channel: "so-musings"
+proposed_themes:
+  - "intellectual-history"
+  - "public-discourse"
+key_concepts:
+  - "leftist-thought"
+  - "marxist-influence"
+  - "statist-interventionism"
+  - "public-opinion"
+pull_quote: "We are taking over the cast-off clothes of the West!"
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 This is an excerpt from an article written by M A Venkata Rao for the September 1958 issue of The Indian Libertarian Journal. In the article, Mr Rao explains how Marxist ideas have corrupted public discourse in favour of statist interventionism and emphasises the need for intellectuals to seek and propagate the truth behind harmful policies to purify public opinion.

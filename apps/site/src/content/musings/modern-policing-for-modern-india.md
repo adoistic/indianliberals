@@ -2,11 +2,32 @@
 id: "modern-policing-for-modern-india"
 title: "Modern Policing for Modern India"
 pubDate: "2021-01-29T07:08:47Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "civil-society"
+  - "governance"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "criminal-justice"
+  - "police-reform"
+key_concepts:
+  - "police-reform"
+  - "criminal-justice-system"
+  - "human-rights-violations"
+  - "transparency-international"
+  - "systemic-reform"
+pull_quote: A good vibrant stable solid democracy must belong to the people and for this people need information and people need justice.
+stance: argues-for
+kind: speech-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 _The following is an excerpt from a talk delivered by Mrs. Maja Daruwala who served as the Executive Director, Commonwealth Human Rights Initiative, New Delhi. The text is based on a talk delivered in Mumbai on 30th January 2009 under the joint auspices of Forum of Free Enterprise, M.R. Pai Foundation, Action for Good Governance and Networking in India, BCAS Foundation, Mahiti Adhikar Manch, Public Concern for Governance Trust and Citizens Take Charge. _A good vibrant stable solid democracy must belong to the people and for this people need information and people need justice. They need easy remedies so that they can enforce their rights. The big issue is of course that the challenges of accessing justice are so large and so much needs repair and remedy that to do anything well needs focus. My focus today is police reform. Surely that will prompt someone to say but what about the Judiciary? I agree we cannot look just at policing if we want to right the whole system. But when the problem is as big as we have in our criminal justice system there is merit in breaking it up to focus on one area. Changes in that area - if it can be brought about - will create tensions in the status quo and have a knock on effect on other areas and hopefully the whole will change. 

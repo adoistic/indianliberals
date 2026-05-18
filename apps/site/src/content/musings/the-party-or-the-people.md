@@ -2,11 +2,29 @@
 id: "the-party-or-the-people"
 title: "The Party or the People?"
 pubDate: "2023-01-17T13:42:26Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "intra-party-conflict"
+  - "party-politics"
+key_concepts:
+  - "organisational-vs-parliamentary-wing"
+  - "congress-party"
+  - "power-and-patronage"
+  - "sampurnanand-cb-gupta"
+pull_quote: In most cases, the quarrels involve no issues of principle or programme.
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "uttar-pradesh"
 ---
 
 _Vasant Bhagawant Karnik an eminent trade unionist, author and writer penned his thoughts on “human nature’s difficulty to conform to a less-significant role” in the January 1961 issue of Freedom First magazine. He cites the tension between Dr Sampurnanand (the then-Chief Minister of Uttar Pradesh) and Mr Chandra Bhanu Gupta (the future Chief Minister of Uttar Pradesh) as one of the examples of differences between organisational and parliamentary wings of a political party in India._

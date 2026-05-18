@@ -2,12 +2,29 @@
 id: "accountability-in-public-service"
 title: "Accountability in Public Service"
 pubDate: "2020-11-15T20:07:26Z"
-themes: []
+themes:
+  - "governance"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
 author: "n-vittal"
 source_channel: "so-musings"
+proposed_themes:
+  - "accountability"
+  - "corruption"
+key_concepts:
+  - "individual-accountability"
+  - "transparency"
+  - "public-service-quality"
+  - "corruption"
+pull_quote: Accountability, as mentioned earlier, constitutes the soul of effectiveness and quality of public service.
+stance: argues-for
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 This is an excerpt by N. Vittal, a former Central Vigilance Commissioner, Govt. of India. He suggests that a lack of transparency and widespread corruption among other things have caused an accountability crisis, which can be resolved by encouraging competition and embedding accountability at the individual level instead of the organisational level.

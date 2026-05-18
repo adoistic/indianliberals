@@ -2,7 +2,10 @@
 id: "national-priorities-for-1970-by-minoo-masani"
 title: "National Priorities for 1970"
 pubDate: "2023-06-28T16:00:30Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -19,7 +22,21 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - indira-gandhi
-
+proposed_themes:
+  - "opposition-politics"
+  - "swatantra-party"
+key_concepts:
+  - "permit-license-raj"
+  - "mandate"
+  - "lumpen-proletariat"
+  - "law-and-order"
+pull_quote: My own feeling is that if she goes to the polls, she will be decisively defeated at the present juncture.
+stance: argues-against
+kind: speech-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Published by the Swatantra Party in 1970, the musing below was originally the transcript of a press conference addressed by Mr M. R. Masani, M.P., President, Swatantra Party, in New Delhi on 31 December 1969. The speech laid emphasis on matters that needed to be given immediate priority. First, a clean, efficient and prompt administration; second, the restoration of law and order; third, increased production and hard work; and lastly, a pragmatic approach to national problems, free from ideological emphasis or pre-conceptions. Masani argued how the Indira Gandhi government failed to address any of the aforementioned matters of priority._

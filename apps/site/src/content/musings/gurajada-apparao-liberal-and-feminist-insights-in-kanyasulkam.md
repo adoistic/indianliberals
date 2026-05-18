@@ -2,12 +2,32 @@
 id: "gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam"
 title: "Gurajada Apparao: Liberal and Feminist Insights in Kanyasulkam"
 pubDate: "2023-09-13T11:24:02Z"
-themes: []
+themes:
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
 author: "gurajada-apparao"
 source_channel: "so-musings"
+proposed_themes:
+  - "feminism"
+  - "telugu-literature"
+  - "women-education"
+key_concepts:
+  - "kanyasulkam"
+  - "child-marriage"
+  - "dowry"
+  - "women-empowerment"
+  - "modernism"
+pull_quote: Through his works, Apparao challenged the authoritarian and orthodox beliefs deeply ingrained in Indian society and culture.
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "andhra-pradesh"
 ---
 
 _Gurajada Venkata Apparao also called as ‘Gurajada’ was a social reformer and liberal thinker. He is also considered as the pathfinder of modernism in Telugu literature. Through his works, he strongly criticised social evils such as child marriage and dowry. He was a strong advocate for Women’s education and empowerment. He was posthumously awarded the Padma Bhushan, India’s third-highest civilian award, in 1954. _

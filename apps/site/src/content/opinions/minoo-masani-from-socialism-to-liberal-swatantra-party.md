@@ -2,7 +2,11 @@
 id: "minoo-masani-from-socialism-to-liberal-swatantra-party"
 title: "Minoo Masani : From Socialism to Liberal Swatantra Party"
 pubDate: "2021-05-27T07:31:09Z"
-themes: []
+themes:
+  - "free-markets"
+  - "liberalism"
+  - "political-economy"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -75,6 +79,24 @@ related_thinkers:
   - rabindranath-tagore
   - sardar-patel
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "anti-communism"
+  - "ideological-evolution"
+key_concepts:
+  - "swatantra-party"
+  - "congress-socialist-party"
+  - "market-liberalism"
+  - "soviet-sidelights"
+  - "nehruvian-socialism"
+pull_quote: "Masani's transition from an admirer of the Bolshevik Russia to the propagator of market liberalism in India reflects his pragmatism and open-mindedness, traits rarely found in most intellectuals and politicians."
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "soviet-union"
+    - "united-kingdom"
 ---
 
 _In Masani, Indian liberals should find a more appropriate icon to emulate. Rajaji, after all, was a self-identified conservative rooted in his Hindu identity. Minoo Masani, in contrast, drew his ideas from the West to shape liberal India._The forgotten politician Minoo Masani’s illustrious public career was an exercise in collaboration and confrontation with the other leading Indian nationalist figures. Himself one of the founding fathers of modern India, Minoo was both a nationalist and an internationalist in his intellectual pursuits.

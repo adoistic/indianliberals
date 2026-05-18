@@ -2,7 +2,11 @@
 id: "the-mission-of-libertarianism"
 title: "THE MISSION OF LIBERTARIANISM"
 pubDate: "2022-03-28T07:37:10Z"
-themes: []
+themes:
+  - "free-enterprise"
+  - "liberalism"
+  - "political-economy"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -37,6 +41,25 @@ related_thinkers:
   - john-stuart-mill
   - karl-marx
 source_channel: "so-musings"
+proposed_themes:
+  - "individualism"
+  - "libertarianism"
+key_concepts:
+  - "labour-theory-of-value"
+  - "individualism"
+  - "limited-state"
+  - "chartist-movement"
+  - "factory-acts"
+pull_quote: The liberal democratic State evolved all over the continent and in North America on the basis of individualism which in the realm of economics assumed the shape of capitalism.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "france"
+    - "united-kingdom"
+    - "united-states"
 ---
 
 The following essay by M.A. Venkata Rao has been taken from a 1958 issue of [The Indian Libertarian](https://indianliberals.in/content/the-indian-libertarian-october-1-1958/). While outlining the rise of Karl Marx's labour theory of value, the author revisits theories of labour rooted in individualism. He revisits the need for individualism and a limited State, highlighting his take on the libertarian vision for labour, land, production, and education.In Europe and America a  branch of the Enlightenment school of thought that prepared for and preceded the French Revolution developed a  strand of socialism. While the central stream of inspiration released by the Revolution guided thought and reconstruction into channels of national democracy under the lead of the new commercial and industrial classes (whom Karl Marx called the bourgeoisie) side streams of what may be roughly called "socialist thought" sprung up seeking to mould social institutions including property and State on equality and fraternity rather than on liberty.

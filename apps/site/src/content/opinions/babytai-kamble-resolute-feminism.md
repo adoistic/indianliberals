@@ -2,7 +2,10 @@
 id: "babytai-kamble-resolute-feminism"
 title: "Babytai Kamble's Resolute Feminism"
 pubDate: "2021-09-14T11:33:19Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "civil-society"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -32,6 +35,24 @@ thinker_mentions:
 related_thinkers: 
   - bhimrao-ambedkar
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "dalit-feminism"
+  - "intersectionality"
+  - "women-rights"
+key_concepts:
+  - "intersectional-feminism"
+  - "dalit-women"
+  - "mahar-community"
+  - "ambedkarite-activism"
+  - "human-rights"
+pull_quote: As a Dalit woman, she understood the complexities of caste, class and gender-based oppressions and their overlapping nature.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "maharashtra"
 ---
 
 Babytai Kamble was a pioneering voice of intersectional feminism in India. As a Dalit woman, she understood the complexities of caste, class and gender-based oppressions and their overlapping nature. Her life and work provides a critical lens into the intersectionality of feminism. "It is the woman who is the doer" – Babytai Kamble (Pandit)

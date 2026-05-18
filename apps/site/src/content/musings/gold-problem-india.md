@@ -2,7 +2,9 @@
 id: "gold-problem-india"
 title: "The Gold Problem in India"
 pubDate: "2020-11-16T09:25:27Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "monetary-policy"
 language: "en"
 needs_review: true
 draft: false
@@ -33,6 +35,19 @@ related_thinkers:
   - ma-sreenivasan
   - phiroze-j-shroff
 source_channel: "so-musings"
+proposed_themes:
+  - "gold-policy"
+key_concepts:
+  - "gold-problem"
+  - "forum-of-free-enterprise"
+  - "kolar-gold-mines"
+pull_quote: The gold problem in India, if there is such a problem at all, has been the subject of intensive public debate and discussion in recent days.
+stance: analyzes
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The gold problem in India, if there is such a problem at all, has been the subject of intensive public debate and discussion in recent days.

@@ -2,11 +2,30 @@
 id: "manifesto-for-india-liberals"
 title: "Manifesto for Indian Liberals"
 pubDate: "2021-09-17T09:27:26Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "decentralisation"
+  - "human-rights"
+key_concepts:
+  - "indian-liberal-group"
+  - "fundamental-rights"
+  - "freedom-of-worship"
+pull_quote: Respect for the individual as guaranteed under the original Constitution of 1950 is the true basis of society.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 _The following manifesto was drawn up at the Conference Of Indian Liberals held on November 21, 1985 at the Royal Bombay Yacht Club.  It was originally published in the same year by the _[_Indian Liberal Group._](https://indianliberals.in/content/manifesto-for-indian-liberals-1985/)_  _We, the liberals of India assembled in Bombay on November 21, 1985 at a time of gross violations of human rights and persistent grave tensions which threaten peace and democracy, are convinced that this condition is largely due to the abandonment of liberal principles and affirm our faith in this Declaration. 

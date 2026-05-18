@@ -2,7 +2,9 @@
 id: "ideas-in-politics"
 title: "The Role of Ideas in Politics"
 pubDate: "2020-11-16T09:31:24Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +27,18 @@ related_thinkers:
   - jawaharlal-nehru
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "political-ideas"
+  - "propaganda"
+key_concepts:
+  - "sovereignty-of-the-people"
+  - "propaganda"
+  - "half-truths"
+  - "political-ideas"
+pull_quote: Many of the sources of trouble in current politics is due to the prevalence of notions only imperfectly understood and applied hastily in garbled forms to justify partisan interests.
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
 ---
 
 Many of the sources of trouble in current politics is due to the prevalence of notions only imperfectly understood and applied hastily in garbled forms to justify partisan interests.

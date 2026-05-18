@@ -2,7 +2,9 @@
 id: "indian-liberals-essay-contest"
 title: "Indian Liberals Essay Contest"
 pubDate: "2020-10-24T17:43:01Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +20,18 @@ thinker_mentions:
 related_thinkers: 
   - minoo-masani
 source_channel: "editorial-events"
+proposed_themes:
+  - "essay-contest"
+key_concepts:
+  - "indian-liberals-archive"
+  - "essay-contest"
+  - "liberalist-thinking"
+pull_quote: The intent of the Indian Liberals archive which presently hosts up to 50,000 digitized pages is to offer exhaustive and comprehensive resources on the liberal discourse in India by ensuring high diversity of content.
+kind: event-coverage
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 **"They are slaves who dare not be In the right with two or three." - Minoo Masani**

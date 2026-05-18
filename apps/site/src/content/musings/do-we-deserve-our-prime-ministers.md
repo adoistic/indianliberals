@@ -2,11 +2,29 @@
 id: "do-we-deserve-our-prime-ministers"
 title: "Do We Deserve Our Prime Ministers?"
 pubDate: "2020-11-16T09:39:32Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "centralisation"
+  - "federalism"
+key_concepts:
+  - "federalism"
+  - "autonomy"
+  - "centralisation"
+  - "monopoly-of-power"
+pull_quote: Prime Ministers may come and go but they are all enemies of autonomy and federalism because they want to rule India from Delhi on the telephone.
+stance: argues-against
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places:
+    - "delhi"
 ---
 
 Prime Ministers may come and go but they are all enemies of autonomy and federalism because they want to rule India from Delhi on the telephone. They are welcome to try but they will only succeed in breaking the union of India by their stupid efforts to monopolise power.

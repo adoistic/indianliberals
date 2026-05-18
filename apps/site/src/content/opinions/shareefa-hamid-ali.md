@@ -2,7 +2,10 @@
 id: "shareefa-hamid-ali"
 title: "Shareefa Hamid Ali: A Pioneer of Intersectional Feminism"
 pubDate: "2022-09-19T09:37:52Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -22,6 +25,23 @@ thinker_mentions:
         what_it_shows: establishes her institutional leadership at national and international levels
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "intersectional-feminism"
+  - "women-rights"
+key_concepts:
+  - "purdah"
+  - "all-india-womens-conference"
+  - "individual-rights"
+  - "swadeshi-movement"
+  - "women-emancipation"
+pull_quote: She firmly believed that to break the shackles of societal categories it was important for people to recognize their individual rights and value their personal liberty.
+stance: commemorates
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "gujarat"
 ---
 
 The following essay revisits the life and legacy of a largely neglected Indian liberal, Shareefa Hamid Ali. A prominent advocate of an intersectional approach to feminism and individual rights, Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women.

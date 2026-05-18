@@ -2,7 +2,10 @@
 id: "diversity-democracy-and-dissent"
 title: "Diversity, Democracy, and Dissent"
 pubDate: "2020-10-24T16:59:53Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,23 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "dissent"
+  - "free-speech"
+key_concepts:
+  - "right-to-dissent"
+  - "safety-valve-of-democracy"
+  - "argumentative-indian"
+  - "freedom-of-expression"
+  - "shramana-tradition"
+pull_quote: Recently, the Supreme Court of India came up with, perhaps, the best definition of the term when it referred to dissent as “the safety valve of democracy”.
+stance: argues-for
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 **DIVERSITY, DEMOCRACY AND DISSENT**

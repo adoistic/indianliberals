@@ -2,7 +2,9 @@
 id: "enduring-challenges-in-indian-public-administration-v-p-menon-1958"
 title: "Enduring Challenges in Indian Public Administration - V.P. Menon"
 pubDate: "2024-06-24T09:38:18Z"
-themes: []
+themes:
+  - "governance"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +20,23 @@ thinker_mentions:
 related_thinkers: 
   - sardar-patel
 source_channel: "so-musings"
+proposed_themes:
+  - "corruption"
+  - "decentralisation"
+  - "public-administration"
+key_concepts:
+  - "political-interference"
+  - "corruption"
+  - "decentralisation"
+  - "district-officer"
+  - "british-administration"
+pull_quote: Sardar Patel was always at pains to impress on his party men not to interfere in the administration; but interference goes on, differences being only a matter of degree, in all the States.
+stance: analyzes
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following excerpt has been taken from V.P. Menon's 'Indian Administration: Past and Present', published in June 1958 by the [Forum of Free Enterprise](https://indianliberals.in/periodicals/forum-of-free-enterprise/). The publication provides a comprehensive account of the Indian administration's origins, from the days of the East India Company, and its evolution until the Planning Era. Menon stresses the expansive nature of the services, the role played by viceroys and governor generals, the exponential increase in the number of officers, and the challenges faced by the Indian administration over a span of three centuries. You can read the unabridged text[here](https://indianliberals.in/forum-of-free-enterprise/indian-administartion-v-p-menon-jun5-1958.pdf)._

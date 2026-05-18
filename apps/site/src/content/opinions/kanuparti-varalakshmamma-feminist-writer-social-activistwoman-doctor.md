@@ -2,7 +2,8 @@
 id: "kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor"
 title: "Kanuparti Varalakshmamma: A Feminist Writer And Social Activist"
 pubDate: "2023-03-15T15:30:34Z"
-themes: []
+themes:
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -22,6 +23,24 @@ thinker_mentions:
         what_it_shows: demonstrates her institution-building for women beyond writing
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "feminism"
+  - "telugu-literature"
+  - "women-rights"
+key_concepts:
+  - "lekha-sahityam"
+  - "sarada-lekhalu"
+  - "stri-hitaishini-mandali"
+  - "sarada-act"
+  - "child-marriage"
+pull_quote: Through these letters, she promoted awareness, evoked debates about many social evils and problems faced by women, and tried to educate women about their rights.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "andhra-pradesh"
 ---
 
 The following article revisits Kanuparti Varalkashmamma’s literary contributions to social change and improving women’s lives.

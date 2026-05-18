@@ -2,7 +2,9 @@
 id: "zealous-azizun-nisa"
 title: "The Zealous Azizun Nisa"
 pubDate: "2021-11-30T08:02:17Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -20,6 +22,24 @@ thinker_mentions:
         what_it_shows: captures her defining act of resistance against British interrogation
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "1857-revolt"
+  - "anti-colonial-resistance"
+  - "women-warriors"
+key_concepts:
+  - "siege-of-cawnpore"
+  - "courtesan-warrior"
+  - "anti-colonial-resistance"
+  - "colonial-morality"
+pull_quote: Her selfless and brave attitude chose martyrdom for her country over confessions.
+stance: commemorates
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "united-provinces"
+    - "uttar-pradesh"
 ---
 
 The following essay revisits the liberal and patriotic contributions of Azizun Nisa, a forgotten warrior of the 1857 Revolt. It also raises important questions concerning rigid colonial ideas of morality that were historically alien to Indian minds.The First War of Independence in 1857 gave India a host of freedom fighters that would be revered for generations to come. Rani Lakshmi Bai, Tantia Tope, Nana Saheb Peshwa II and Begum Hazrat Mahal have been memorialized in Indian history for their contributions. Among the many names that do not end up getting the same kind of recognition for their contributions is Azizun Nisa - a courtesan who fought in the Siege of Cawnpore.

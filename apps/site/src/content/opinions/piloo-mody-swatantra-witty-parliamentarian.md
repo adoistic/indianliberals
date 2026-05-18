@@ -2,7 +2,10 @@
 id: "piloo-mody-swatantra-witty-parliamentarian"
 title: "Piloo Mody: Swatantra’s Witty Parliamentarian"
 pubDate: "2021-01-19T10:41:14Z"
-themes: []
+themes:
+  - "democracy"
+  - "free-markets"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -44,6 +47,21 @@ related_thinkers:
   - homi-mody
   - minoo-masani
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "parliamentary-politics"
+key_concepts:
+  - "swatantra-party"
+  - "emergency-1975"
+  - "misa"
+  - "democracy-means-bread-and-freedom"
+  - "limited-government"
+pull_quote: Piloo Mody argued for a limited role of the state in the book to strengthen democracy.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _An architect by training and the son of venerable Parsi entrepreneur Homi Mody, Piloo also had a long political career as a parliamentarian_“[I am a CIA Agent](https://www.outlookindia.com/magazine/story/no-aliens-under-our-beds/238178/),” read the placard on a politician in the premises of the Indian Parliament on one fine day in the 1970s. The pronouncement was a jibe at Indira Gandhi’s cynical approach towards her opponents. She would dub politicians the agents of US imperialism who sought to curtail her pro-people agenda. At the receiving end of her populist demagoguery were often the members of the Swatantra Party. And understandably so, because their eloquent advocacy of markets and liberalism had created consternation for the failed socialist government. The witty politician in the act was Piloo Mody. With a recourse to placard humour, he blunted the jingoistic politics of Indira Gandhi.

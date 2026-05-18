@@ -2,11 +2,35 @@
 id: "whithering-indian-urbanisation-fp-antia"
 title: "Whithering Indian Urbanisation? - FP Antia"
 pubDate: "2024-09-16T17:35:26Z"
-themes: []
+themes:
+  - "economic-development"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 author: "f-p-antia"
+proposed_themes:
+  - "housing"
+  - "urban-planning"
+  - "urbanisation"
+key_concepts:
+  - "mega-cities"
+  - "regional-planning"
+  - "controlled-migration"
+  - "pucca-vs-kaccha"
+  - "housing-crisis"
+pull_quote: The urbanisation process appears certainly to have run amuck in this country.
+stance: analyzes
+kind: lecture
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places:
+    - "chandigarh"
+    - "delhi"
+    - "maharashtra"
+    - "punjab"
+    - "west-bengal"
 ---
 
 Produced below is an excerpt from an essay by FP Antia titled ‘Whither Indian Urbanisation?’ published by the Forum of Free Enterprise. The author is an eminent authority on transport and urban problems. This text is based on two lectures delivered in Chandigarh, under the auspices of the Department of Commerce & Business Management, Punjab University.

@@ -2,7 +2,10 @@
 id: "censorship-and-the-law-of-inexorability"
 title: "Censorship and the Law of Inexorability"
 pubDate: "2021-10-29T07:35:34Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -33,6 +36,22 @@ related_thinkers:
   - jawaharlal-nehru
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "censorship"
+  - "freedom-of-expression"
+key_concepts:
+  - "central-board-of-film-certification"
+  - "cinematograph-act"
+  - "prior-restraint"
+  - "creative-freedom"
+  - "censorship"
+pull_quote: In India, no other form of human expression has faced more restrictions than cinema.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following essay is part of a 2012 booklet published by The Liberty Institute, New Delhi, in partnership with the Friedrich Naumann Foundation for Freedom. The booklet was title **[At Liberty: Freedom to Express and Offend.](https://indianliberals.in/content/at-liberty-freedom-to-express-and-offend/)** Authored by Ravi Shanker Kapoor, the essay examines ban on cinema and attacks on artistic freedom by the government, political organisations and pressure groups, despite the existence of the Central Board of Film Certification, a statutory body._In India, no other form of human expression has faced more restrictions than cinema. Unfortunately, it is  not only the Central Board  of Film Certification (CBFC) which does the job of censorship but, as we shall see, a variety of forces tend to curtail the filmmakers' creative freedom. 

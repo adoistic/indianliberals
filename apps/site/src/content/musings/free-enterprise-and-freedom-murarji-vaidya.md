@@ -2,12 +2,31 @@
 id: "free-enterprise-and-freedom-murarji-vaidya"
 title: "Free Enterprise and Freedom"
 pubDate: "2024-05-03T16:28:02Z"
-themes: []
+themes:
+  - "democracy"
+  - "economic-planning"
+  - "free-enterprise"
+  - "private-enterprise"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
 author: "murarji-vaidya"
 source_channel: "so-musings"
+proposed_themes:
+  - "concentration-of-economic-power"
+key_concepts:
+  - "second-five-year-plan"
+  - "concentration-of-economic-power"
+  - "totalitarianism"
+  - "mixed-economy"
+pull_quote: But the extension of the public sector in an expansionist economy is bound to result in the concentration of economic power in the hands of those who form the Government and of those who administer public enterprises.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following musing is an excerpt from a booklet under the same name, authored by Murarji Vaidya and published by the Forum for Free Enterprise in 1956. The author addresses the objectives of the Second Five Year Plan proposed by the Planning Commission of India – highlighting the restrictions on private enterprise to prevent concentration of economic power, arguing that extension of the public sector is bound to result in the same outcome. _

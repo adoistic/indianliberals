@@ -2,7 +2,11 @@
 id: "the-moderate-liberalism-of-ferocious-mehta"
 title: "The Moderate Liberalism of “Ferocious Mehta”"
 pubDate: "2021-08-04T05:39:37Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "governance"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -32,6 +36,25 @@ thinker_mentions:
 related_thinkers: 
   - dadabhai-naoroji
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "local-self-governance"
+  - "moderate-nationalism"
+key_concepts:
+  - "local-self-governance"
+  - "moderate-nationalism"
+  - "gladstonian-liberalism"
+  - "indian-national-congress"
+  - "municipal-government"
+pull_quote: However, the shrinking of the liberal space and a clear absence of substantial liberal constituency have left the moderate nationalists heirless, so to speak.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
+    - "united-kingdom"
 ---
 
 _A prominent voice of the liberal strand of the nationalist struggle was that of Sir Pherozeshah Mehta. A lawyer by education and among the founders of INC, Mehta advocated for local self-governance. His work towards the same in Bombay earned him the title of the "Father of the Municipal Government in Bombay."   _The enduring role of the Bombay-based moderate liberals in demanding political freedom and self-governance from the British Raj has been overshadowed by the subsequent turns in the Indian nationalist storytelling. Both the radicalism of the extremists and revolutionaries as well as the mass subaltern politics of Mahatma Gandhi have found a viable political constituency in the Republic of India. However, the shrinking of the liberal space and a clear absence of substantial liberal constituency have left the moderate nationalists heirless, so to speak.

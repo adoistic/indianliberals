@@ -2,7 +2,9 @@
 id: "nani-palkhivala-publications-to-serve-public-education"
 title: "Nani Palkhivala’s Publications to Serve Public Education | M.R. Pai"
 pubDate: "2024-06-17T15:28:44Z"
-themes: []
+themes:
+  - "liberalism"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +27,21 @@ thinker_mentions:
 related_thinkers: 
   - dadabhai-naoroji
   - m-c-chagla
-
+proposed_themes:
+  - "biography"
+  - "public-education"
+key_concepts:
+  - "public-education"
+  - "income-tax-law"
+  - "kanga-palkhivala"
+  - "public-charitable-trust"
+pull_quote: He has left for future generations a legacy of noble thoughts.
+stance: profiles
+kind: book-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _MR Pai paid a heartfelt tribute to Nani Palkhivala through his book titled "The Legend of Nani Palkhivala", published in 2002. The book is an attempt to record Palkhivala’s great achievements, from the vantage of a close associate who was part of his public life for over four decades since 1957. _

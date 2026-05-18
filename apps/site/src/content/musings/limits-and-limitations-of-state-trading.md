@@ -2,7 +2,11 @@
 id: "limits-and-limitations-of-state-trading"
 title: "Limits and Limitations of State Trading"
 pubDate: "2023-06-07T11:41:54Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "public-sector"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +21,21 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - murarji-vaidya
-
+proposed_themes:
+  - "state-trading"
+key_concepts:
+  - "state-trading"
+  - "fundamental-rights"
+  - "organic-law"
+  - "constitutional-limits"
+pull_quote: The State is not entitled to disregard this context because that is the context within which both the state (the Central and State Governments) as well as individuals and corporations-every one of us in this country–in fact, have to work.
+stance: argues-against
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "bombay-presidency"
 ---
 
 _The Forum of Free Enterprise organised a Convention on State Trading in Bombay on April 28, 1958, attended by: Mr N Dandeker, I.C.S. (Retd.); Mr S C Bose, President of Utkal Mining and Industrial Association, Calcutta; Mr Murarji J Vaidya, former President of the Indian Merchants' Chamber, and Mr D B Futnani, President of Iron, Steel and Hardware Merchants' Chamber of India._

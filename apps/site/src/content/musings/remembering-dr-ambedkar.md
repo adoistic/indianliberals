@@ -2,7 +2,10 @@
 id: "remembering-dr-ambedkar"
 title: "Remembering Dr Ambedkar"
 pubDate: "2020-11-16T08:38:15Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,21 @@ thinker_mentions:
 related_thinkers: 
   - k-m-munshi
 source_channel: "so-musings"
+proposed_themes:
+  - "constituent-assembly"
+  - "uniform-civil-code"
+key_concepts:
+  - "uniform-civil-code"
+  - "constituent-assembly"
+  - "fundamental-rights"
+  - "problem-of-the-rupee"
+pull_quote: "Masani's recollection piece is a reflection of the shared pedigree of Indian liberalism which went on to shape the nation."
+stance: commemorates
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition.

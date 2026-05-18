@@ -2,7 +2,9 @@
 id: "a-resilient-soul-ramadevi-chowdhuri"
 title: "A Resilient Soul: Ramadevi Chowdhuri"
 pubDate: "2023-05-24T00:00:56Z"
-themes: []
+themes:
+  - "civil-society"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -34,6 +36,22 @@ related_thinkers:
   - mahatma-gandhi
   - vinoba-bhave
 source_channel: "so-musings"
+proposed_themes:
+  - "freedom-struggle"
+  - "women-rights"
+key_concepts:
+  - "salt-satyagraha"
+  - "swadeshi"
+  - "khadi"
+  - "untouchability-eradication"
+  - "harijan-sewa"
+pull_quote: Ramadevi Chowdhuri (1899-1985) was a prominent Indian freedom fighter and social activist from Odisha, India.
+stance: profiles
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "odisha"
 ---
 
 _Ramadevi Chowdhuri (1899-1985) was a prominent Indian freedom fighter and social activist from Odisha, India. Her dedication to the cause of women's rights and active participation in the freedom struggle has made her an inspirational figure in Odisha and beyond. Ramadevi's legacy continues to inspire generations of women to fight for their rights and contribute to society._

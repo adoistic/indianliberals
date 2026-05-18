@@ -2,7 +2,10 @@
 id: "dr-muthulakshmi-reddi-beacon-of-womens-liberty"
 title: "Dr Muthulakshmi Reddi: Beacon of Women's Liberty"
 pubDate: "2023-08-23T15:09:44Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,24 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "anti-devadasi"
+  - "women-education"
+  - "women-rights"
+key_concepts:
+  - "women-education"
+  - "devadasi-system"
+  - "social-reform"
+  - "gender-equality"
+  - "progressive-liberalism"
+pull_quote: By championing gender equality she left an indelible mark on South Indian social fabric.
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "tamil-nadu"
 ---
 
 _Dr Muthulakshmi Reddy was an embodiment of progressive liberalism. She was a staunch advocate of women’s education and was a vehement critic of the Devadasi system. She challenged many traditional societal norms. By championing gender equality she left an indelible mark on South Indian social fabric._

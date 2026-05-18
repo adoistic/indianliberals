@@ -2,7 +2,10 @@
 id: "blueprint-for-eradication-of-poverty-bp-godrej-1980"
 title: "A Blueprint for Eradication of Poverty - Dr BP Godrej"
 pubDate: "2024-10-21T15:19:31Z"
-themes: []
+themes:
+  - "economic-development"
+  - "economic-policy"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +20,21 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - bernard-shaw
-
+proposed_themes:
+  - "poverty-eradication"
+  - "unemployment"
+key_concepts:
+  - "welfare-state"
+  - "public-sector-growth"
+  - "poverty-unemployment"
+  - "economic-mismanagement"
+pull_quote: The biggest problems facing India today are poverty and unemployment.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Produced below is an excerpt from an essay titled “A Blueprint for Eradication of Poverty” by Dr B.P. Godrej, published by the Forum of Free Enterprise in December 1980. Through the essay, Dr Godrej critiques the public sector’s inefficiencies in addressing poverty and unemployment. He highlights the widespread malnutrition and lack of economic progress, advocating for systemic reforms to improve food security, productivity, and overall well-being. This piece remains relevant as it addresses the persistent issues of hunger, poverty, and economic mismanagement, challenges that India continues to face even today._

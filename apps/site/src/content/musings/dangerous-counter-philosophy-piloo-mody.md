@@ -2,7 +2,11 @@
 id: "dangerous-counter-philosophy-piloo-mody"
 title: "Dangerous Counter Philosophy - Piloo Mody"
 pubDate: "2021-04-30T09:29:11Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -26,6 +30,21 @@ related_thinkers:
   - abraham-lincoln
   - karl-marx
 source_channel: "so-musings"
+proposed_themes:
+  - "anti-totalitarianism"
+  - "authoritarianism"
+key_concepts:
+  - "dictatorship-of-proletariat"
+  - "class-struggle"
+  - "bread-and-freedom"
+  - "vested-interests"
+pull_quote: The authoritarian who asks “What is freedom to a hungry man?” and then goes on to assert that fundamental rights are meaningless and cannot be exercised without economic well being is sure of a sympathetic response where bread is scarce.
+stance: argues-against
+kind: book-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Published in 1979, Piloo Mody's book 'Democracy means Bread and Freedom'  was an important piece of work which was written in a lucid style and discussed key ideas relevant to liberal thought in its economic, social and political understanding. Produced below is a chapter from the book. _Let us consider the nature of the 20th century confrontation between democrats and authoritarianism. Obviously the latter, except for proclaimed Fascists, cannot directly advocate a suspension of liberties and advocate the virtues of totalitarian rule. After all, freedom is ingrained too deeply within the modern ethos to permit such an onslaught. What is more, a direct assault on the concept of freedom would severely restrict their sphere of operation and expose their clandestine motive, which is to create a totalitarian order using in the meanwhile all the rights and protection offered by the democratic State. It is therefore but natural that would-be dictators should advance arguments which, while showing concern for the people, assiduously persuade them to barter away their liberty and freedom for a loaf of bread. 

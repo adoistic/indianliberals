@@ -2,11 +2,25 @@
 id: "a-viewpoint-on-libertarian-society"
 title: "A Viewpoint on Libertarian Society"
 pubDate: "2021-06-18T09:02:03Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "libertarianism"
+key_concepts:
+  - "responsibility"
+  - "shared-power"
+  - "anti-utopianism"
+  - "limits-of-democracy"
+pull_quote: If any one conceives of a libertarian society as being anything but a series of profound headaches, has been deceived.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
 ---
 
 _Libertarianism as an idea has often been misconstrued and labelled as a utopian thought not just by its critics but also at times by its own proponents. Produced below is a piece published in the May 1958 issue of the Indian Libertarian magazine where the author James Kielty deconstructs the vision of a libertarian society. ( Image : Art by Celeste Byers)_The tendency on the part of even libertarians to confuse libertarianism and utopianism is regrettable for libertarianism can only be conceived of as an acceptance of the problems of human existence, and willingness to share in these problems and to take responsible action without supposing that any action will provide more than a temporary solution. 

@@ -2,7 +2,12 @@
 id: "the-union-budget-1992-93"
 title: "THE UNION BUDGET 1992-93 by Nani Palkhivala"
 pubDate: "2022-02-02T09:41:33Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "fiscal-policy"
+  - "globalisation"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +30,22 @@ related_thinkers:
   - manmohan-singh
   - nani-palkhivala
 source_channel: "so-musings"
+proposed_themes:
+  - "union-budget"
+key_concepts:
+  - "liberalisation"
+  - "state-socialism"
+  - "balance-of-payments"
+  - "manmohan-singh-reforms"
+pull_quote: It is a Watershed Budget which marks the beginning of a new chapter in India’s economic history.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
+    - "united-states"
 ---
 
 _Following is an excerpt from a March 1992 booklet, titled [The Union Budget 1992-93.](https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1992-93-by-na-palkhivala-march-3-1992.pdf) Authored by Indian jurist and liberal economist Nani A Palkhivala, the booklet was originally published Forum of Free Enterprise. In the booklet, Palkhivala critically examines India's first Union Budget post the 1991 liberalisation.  _This year's Budget is not a budget for the greedy, paid for by the needy. The Budget provisions properly so called (as distinct from the proposed amendments to the direct tax laws) are well conceived, and deserve the support of the well informed irrespective of party affiliations.

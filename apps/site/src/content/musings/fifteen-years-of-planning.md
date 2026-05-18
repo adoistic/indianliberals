@@ -2,11 +2,32 @@
 id: "fifteen-years-of-planning"
 title: "Fifteen Years of Indian Planning"
 pubDate: "2020-12-06T15:02:20Z"
-themes: []
+themes:
+  - "economic-planning"
+  - "economic-policy"
+  - "inflation"
+  - "monetary-policy"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "five-year-plans"
+  - "foreign-aid"
+key_concepts:
+  - "five-year-plans"
+  - "national-income"
+  - "foreign-aid"
+  - "centralised-planning"
+  - "free-pricing-system"
+pull_quote: If the incomes of the more prosperous groups galloped ahead whilst the economic condition of the masses remained comparatively stagnant, there will be complaints of social injustice.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Prof. B R Shenoy’s “Fifteen Years Of Indian Planning” was published on August 10, 1966, assessing the economic progress of the country in the last three Five Year Plans. The author mentioned national income and mass well-being and recalled the damaging consequences these Plans caused to the economy of the country. The musing also discusses investment & foreign aid, inflation, foreign exchange difficulties, mounting food shortages, social injustice, the malaise of the capital market, the need for policy shifts, maximization of national income, centralized planning, radiance on free market forces and the free pricing system, monetary reforms, relaxation and removal of controls, and cuts in public sector activity._

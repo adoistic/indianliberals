@@ -2,11 +2,30 @@
 id: "forests-to-forest-dwellers"
 title: "Forests to Forest Dwellers"
 pubDate: "2020-11-16T09:57:41Z"
-themes: []
+themes:
+  - "civil-society"
+  - "private-enterprise"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "community-ownership"
+  - "environment"
+  - "forest-rights"
+key_concepts:
+  - "community-ownership"
+  - "forest-dwellers"
+  - "state-forestry"
+  - "prior-claim"
+  - "natural-forest"
+pull_quote: "Community ownership and management solve two problems simultaneously: the protection of forests and of dignified livelihood to the poorest communities in the country."
+stance: argues-for
+kind: book-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 This is an excerpt from the book 'The Terracotta Reader: A Market Approach to the Environment'. In this piece Parth Shah and Trupti Parekh advocate for forest dwellers' community rights over forests, given that they have a greater incentive to preserve and optimally use forest resources.

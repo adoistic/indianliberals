@@ -2,7 +2,10 @@
 id: "art-versus-law-and-order"
 title: "ART VERSUS LAW AND ORDER"
 pubDate: "2021-10-22T05:05:26Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +28,22 @@ related_thinkers:
   - indira-gandhi
   - shivaji
 source_channel: "so-musings"
+proposed_themes:
+  - "censorship"
+  - "freedom-of-expression"
+key_concepts:
+  - "freedom-of-expression"
+  - "artistic-freedom"
+  - "ban-culture"
+  - "right-to-offend"
+  - "creative-works"
+pull_quote: A ban is wrong not only in principle but also as an expedient measure.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following essay is part of a 2012 booklet published by The Liberty Institute, New Delhi, in partnership with the Friedrich Naumann Foundation for Freedom. The booklet was title **[At Liberty: Freedom to Express and Offend.](https://indianliberals.in/content/at-liberty-freedom-to-express-and-offend/)** Authored by Ravi Shanker Kapoor, the essay challenges the perceived validity of public outrage (and political support for the same) and bans on artistic expression.  _In India, as also in other countries, often demands are made for ban on movies, paintings, books, songs, or other creative works. The demands are accompanied with overt and covert threats - ban it, or else... Apparently sound arguments are made in favor of capitulation. After all, it is just a movie, song, or book; why hurt the sentiments of somebody or some group; why risk peace and amity in society; why should the law and order situation be allowed to worsen just because some Johnny thinks that his creation is a great piece of art; at any rate, human lives are more important than art. Governments face the question: should the demand be accepted? 

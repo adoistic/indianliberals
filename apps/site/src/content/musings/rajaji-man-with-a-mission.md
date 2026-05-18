@@ -2,7 +2,9 @@
 id: "rajaji-man-with-a-mission"
 title: "Rajaji- Man with a Mission"
 pubDate: "2020-11-16T06:22:40Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -78,6 +80,22 @@ related_thinkers:
   - n-g-ranga
   - piloo-mody
 source_channel: "so-musings"
+proposed_themes:
+  - "biography"
+  - "opposition-politics"
+  - "swatantra-party"
+key_concepts:
+  - "swatantra-party"
+  - "opposition"
+  - "single-party-dominance"
+  - "indian-liberal-tradition"
+pull_quote: Rajaji had always been emphasising the importance and the need for an effective opposition in a democracy.
+stance: profiles
+kind: book-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 In the book 'Profiles of Courage: Dissent in Indian Socialism', G Narayanaswamy writes about the journey of C Rajagopalachari, the pioneer of the liberal movement in India. Rajaji, as he was popularly known, realised the urgency of strong opposition to the single dominant party at the time, which led him to establish the Swatantra Party.

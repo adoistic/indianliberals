@@ -2,7 +2,11 @@
 id: "has-private-enterprise-failed-a-d-shroff"
 title: "Has Private Enterprise Failed?"
 pubDate: "2020-11-16T09:22:55Z"
-themes: []
+themes:
+  - "democracy"
+  - "economic-policy"
+  - "free-enterprise"
+  - "private-enterprise"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +22,19 @@ thinker_mentions:
 related_thinkers: 
   - t-t-krishnamachari
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "concentration-of-economic-power"
+  - "private-enterprise"
+  - "second-five-year-plan"
+  - "forum-of-free-enterprise"
+pull_quote: It has been suggested that Private Enterprise is incapable of undertaking large-scale and rapid economic development of the country.
+stance: argues-for
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 With the impending slowdown in the Indian economy, many analysts have wondered if Private Enterprise has failed in India. It is imperative to point out that since the 1950s the failures of Private Enterprises in India have been questioned. In this speech made before the Commerce Graduates' Association in Bombay in October 1956, eminent industrialist, banker and economist A D Shroff points out that despite numerous impediments to growth Private Enterprise in India is alive and flourishing. His words remain as true today as they were in then.

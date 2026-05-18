@@ -2,7 +2,10 @@
 id: "controlling-inflation-in-india-br-shenoy-1977"
 title: "Controlling Inflation in India - BR Shenoy"
 pubDate: "2024-10-28T14:10:29Z"
-themes: []
+themes:
+  - "inflation"
+  - "monetary-policy"
+  - "public-finance"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,20 @@ thinker_mentions:
 related_thinkers: 
   - jrd-tata
 source_channel: "so-musings"
+proposed_themes:
+  - "money-supply"
+key_concepts:
+  - "general-prices-index"
+  - "money-supply"
+  - "government-sector"
+  - "peoples-sector"
+pull_quote: If we may define inflation as an expansion of money which drives up commodity prices in general, inflation exists, incipient inflation apart, only when the General Prices Index rises.
+stance: analyzes
+kind: pamphlet-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _This musing is an excerpt from BR Shenoy’s essay “Controlling Inflation in India” published by the Forum of Free Enterprise in their booklet titled “The Basic Truth About Inflation”. The essay focuses on the resolution of separation of official claims and market-based observations. The article emphasizes the strategies that needed to be adopted in controlling inflation through the review of how the trends started taking place.   _

@@ -2,11 +2,29 @@
 id: "profit-shy-asians-by-kd-valicha"
 title: "Profit-Shy Asians"
 pubDate: "2023-08-02T13:37:29Z"
-themes: []
+themes:
+  - "free-enterprise"
+  - "free-markets"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 author: "kd-valicha"
+proposed_themes:
+  - "profit-motive"
+key_concepts:
+  - "profit-motive"
+  - "liberty"
+  - "free-enterprise"
+  - "state-control"
+  - "monopoly"
+pull_quote: Free enterprise is the only guarantee of the broadest possible choice.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _K D Valicha’s piece “Profit-Shy Asians,” featured in the August 1957 edition of The Indian Libertarian magazine, discussed "free enterprise." The edition was released on the 10th anniversary of the Indian Independence movement. While the country was still carving its niche on the global map, Valicha’s cogent analysis of the significance of free enterprise and the skewed definition and, therefore, aversion to Profit not only gives a glimpse of the country’s economic outlook but also finds relevance even after six decades of publication._

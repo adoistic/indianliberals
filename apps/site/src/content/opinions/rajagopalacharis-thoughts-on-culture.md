@@ -2,7 +2,8 @@
 id: "rajagopalacharis-thoughts-on-culture"
 title: "C. Rajagopalachari's Thoughts on Culture"
 pubDate: "2021-01-29T05:35:51Z"
-themes: []
+themes:
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +19,21 @@ thinker_mentions:
         what_it_shows: "establishes Rajaji's stature and historical importance"
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "culture"
+  - "tradition"
+key_concepts:
+  - "culture-and-character"
+  - "bharatiya-vidya-bhavan"
+  - "indian-tradition"
+  - "individual-and-community"
+pull_quote: Culture has more to do with behaviour and way of living than with character.
+stance: analyzes
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Rajaji defines that “culture is not just character or morality. Character is the inside of a man. Culture is external rather than internal. Culture has more to do with behaviour and way of living than with character. Broadly speaking, culture is external though of course, it has much to do with character too. Because, the outside has always much to do with the inside.”_The word culture denotes many things to many countries. But undoubtedly, it is one of the most misused and abused words in every literature. The word culture is also most confused among people during the debate and discussions in the domain of politics, administrations, social reforms, renaissance, etc.

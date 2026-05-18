@@ -2,7 +2,10 @@
 id: "the-principle-of-state-interference"
 title: "The Principle of State Interference"
 pubDate: "2021-06-25T08:28:18Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -29,6 +32,22 @@ related_thinkers:
   - jawaharlal-nehru
   - john-stuart-mill
 source_channel: "so-musings"
+proposed_themes:
+  - "limited-government"
+  - "state-interference"
+key_concepts:
+  - "limited-government"
+  - "socialistic-pattern"
+  - "nehruvian-socialism"
+  - "french-revolution"
+  - "russian-revolution"
+pull_quote: Mere external freedom at law was found to be equivalent in practice only to the freedom to starve, and political equality was found to be surprisingly compatible with extreme inequality in economic condition.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Limited Government is one of the cardinal principles of liberalism. Although there has historically been a debate among liberals on where to draw the line on government interference, there is unanimity on expanding individual freedom. Produced below is a piece published in the August 1958 issue of the Indian Libertarian magazine. It discusses the principles behind State Interference. _We are being led speedily along the paths of a revolution made elsewhere. The social, economic and political ideas forming the substance of our revolution, of which the masterpilot is Jawaharlal Nehru, have been based on European experience and European speculation. They have no doubt some universal application in as much as all humanity has something in common. But ideas have to be assimilated in terms of our own experience and thought if they are to be beneficent in practice. Such relation to national experience is indispensable, especially where revolutionary ideas changing the governing ideals of society at breakneck speed have to be put into force in a democratic setup with the understanding and consent of the people.

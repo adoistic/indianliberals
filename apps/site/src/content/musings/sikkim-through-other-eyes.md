@@ -2,7 +2,9 @@
 id: "sikkim-through-other-eyes"
 title: "Sikkim – Through Other Eyes"
 pubDate: "2020-11-16T07:17:29Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
 language: "en"
 needs_review: true
 draft: false
@@ -71,6 +73,27 @@ related_thinkers:
   - minoo-masani
   - morarji-desai
 source_channel: "so-musings"
+proposed_themes:
+  - "anti-imperialism"
+  - "foreign-policy"
+  - "self-determination"
+key_concepts:
+  - "sikkim-annexation"
+  - "chogyal"
+  - "indian-imperialism"
+  - "anti-colonial-third-world"
+pull_quote: Masani objected to the way Sikkim was made part of India and made his displeasure known in public in 1982.
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: regional
+  places:
+    - "goa"
+    - "jammu-and-kashmir"
+    - "nagaland"
+    - "punjab"
+    - "sikkim"
 ---
 
 "In 1975, before I had ever had any thought of visiting Sikkim, I followed the events leading up to annexation by India very closely because I could see no justification for the takeover, the abolishment of the sovereignty of the tiny nation of 300,000 people, the rude levelling of their Chogyal, whose dynasty was 340 years old, to the rank of a commoner, and the subsequent house arrest to which he was confined."

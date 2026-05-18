@@ -2,7 +2,10 @@
 id: "women-and-liberalism-life-of-ramabai-ranade"
 title: "Women and Liberalism : The Life of Ramabai Ranade"
 pubDate: "2021-01-13T09:06:12Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -38,6 +41,24 @@ related_thinkers:
   - mahadev-govind-ranade
   - pandita-ramabai
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "women-education"
+  - "women-empowerment"
+key_concepts:
+  - "seva-sadan"
+  - "prarthana-samaj"
+  - "women-education"
+  - "arya-mahila-samaj"
+  - "social-reform"
+pull_quote: "A distinctively liberal feature of Ramabai's work is how all women, despite their social or economic background, were accepted in the Seva Sadan."
+stance: commemorates
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
 ---
 
 _ A distinctively liberal feature of Ramabai's work is how all women, despite their social or economic background, were accepted in the Seva Sadan._Ramabai Ranade was married at the age of 11, and according to the conventions of the era she lived in, her life should have been over with widowhood. However, Ramabai was not one to let society dictate. One of the most important social reformers of pre-independence India, Ramabai Ranade’s contributions have led to massive strides in the sphere of women empowerment. At a time when women were not to be seen in public often, and heard even less, Ranade’s life was nothing less than revolutionary.

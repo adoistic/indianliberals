@@ -2,7 +2,10 @@
 id: "1991-liberal-reforms-why-no-one-celebrated-them-ashok-desai-1995"
 title: "1991 Liberal Reforms: Why No One Celebrated Them - Ashok Desai, 1995"
 pubDate: "2024-06-10T14:38:49Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +21,19 @@ thinker_mentions:
 related_thinkers: 
   - jagdish-bhagwati
 
-
+proposed_themes: []
+key_concepts:
+  - "liberalisation-episodes"
+  - "industrial-licensing"
+  - "import-licensing"
+  - "controlled-economy"
+pull_quote: There was economic liberalisation, but there was no liberal philosophy behind it.
+stance: analyzes
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _An essay titled “Liberalisation and Liberalism in India”, written by popular economic journalist Ashok Desai, appeared in the Liberal Times magazine in 1995._

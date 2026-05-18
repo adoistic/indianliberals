@@ -2,7 +2,11 @@
 id: "india-seeing-the-future-in-its-past"
 title: "India: Seeing the Future in its Past"
 pubDate: "2020-11-16T07:39:46Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "free-enterprise"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -41,6 +45,21 @@ related_thinkers:
   - jawaharlal-nehru
   - nani-palkhivala
 source_channel: "so-musings"
+proposed_themes:
+  - "higher-education-reform"
+  - "labour-reform"
+key_concepts:
+  - "small-scale-industries"
+  - "forum-of-free-enterprise"
+  - "decentralized-federalism"
+  - "economic-mismanagement"
+pull_quote: Because employment was so important for India, encouragement was given to small-scale industries by reserving specific areas of production for them.
+stance: argues-for
+kind: lecture
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 Because employment was so important for India, encouragement was given to small-scale industries by reserving specific areas of production for them. But because firms could not grow to efficient scale, production was unprofitable, so few jobs were actually created.

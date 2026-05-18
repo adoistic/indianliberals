@@ -2,7 +2,11 @@
 id: "socialism-or-state-capitalism"
 title: "Socialism or State Capitalism"
 pubDate: "2023-06-14T13:10:31Z"
-themes: []
+themes:
+  - "nationalisation"
+  - "political-economy"
+  - "public-sector"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -27,7 +31,19 @@ thinker_mentions:
 related_thinkers: 
   - joseph-stalin
   - karl-marx
-
+proposed_themes: []
+key_concepts:
+  - "state-capitalism"
+  - "marx-socialism"
+  - "industrial-revolution"
+  - "means-of-production"
+pull_quote: It is bad enough that India should be a hundred years behind advanced nations in industrial development.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The musing shared below is a 1970 piece published by the Forum of Free Enterprise and authored by K Santhanam. In 1948, Santhanam was the Minister of State for Railways and Transport in the Government of India, followed by a stint as the Lieutenant Governor of Vindhya Pradesh. A prolific writer, Santhanam also served as the first editor of the Indian Express from 1932 until 1940, subsequently becoming the joint editor of the Hindustan Times. In 1962, Santhanam was appointed as the chairman of the Committee on Prevention of Corruption. The recommendations of this Committee, also known as the Santhanam Committee, resulted in the establishment of the Central Vigilance Commission in 1964._

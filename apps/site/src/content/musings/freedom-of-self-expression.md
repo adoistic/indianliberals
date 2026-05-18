@@ -2,11 +2,25 @@
 id: "freedom-of-self-expression"
 title: "Freedom of Self-Expression"
 pubDate: "2021-02-05T09:01:16Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "art-and-culture"
+  - "free-expression"
+key_concepts:
+  - "liberty-vs-restraint"
+  - "self-expression"
+  - "traditionalism-vs-radicalism"
+  - "carnatic-music"
+pull_quote: In their perfect harmonisation lies the maximum amount of liberty consistent with order and security.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
 ---
 
 _The following is an article written by T.V. Subba Rao and  published in the January 1954 issue of the Freedom First Magazine. The author talks about freedom, restraint and the false notions of prudery and decency. The article emphasizes the importance of free expression, a topic relevant for all ages and all times. _The most potent force that has influenced the conduct of man both in his individual and social aspect is love of freedom. Since absolute freedom can only spell anarchy leading to its entire suppression, man has had to submit to restraint to preserve at least a fair measure of it. All the struggles of society are to be attributed to the disturbance of the balance of these forces. In their perfect harmonisation lies the maximum amount of liberty consistent with order and security. Unqualified freedom is unthinkable in practical life. When the spirit of radicalism grows ever-strong there is always- a reaction in favour of conservatism. Again, when in any sphere of human activity traditionalism is found to express the creative urge, the desire for self-expression bursts forth from the dead weiqht of oppressive incrustations and shines resplendent in all its glory. Thus does the Time-spirit fulfil itself in the progress towards a higher perfection.

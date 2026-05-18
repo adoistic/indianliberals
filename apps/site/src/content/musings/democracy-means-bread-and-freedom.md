@@ -2,7 +2,11 @@
 id: "democracy-means-bread-and-freedom"
 title: "Democracy Means Bread And Freedom"
 pubDate: "2022-12-21T00:00:39Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -33,6 +37,21 @@ related_thinkers:
   - karl-marx
   - piloo-mody
 source_channel: "so-musings"
+proposed_themes:
+  - "anti-totalitarianism"
+  - "authoritarianism"
+key_concepts:
+  - "dictatorship-of-proletariat"
+  - "class-struggle"
+  - "bread-and-freedom"
+  - "vested-interests"
+pull_quote: The authoritarian who asks “What is freedom to a hungry man?” and then goes on to assert that fundamental rights are meaningless and cannot be exercised without economic well-being is sure of a sympathetic response where bread is scarce.
+stance: argues-against
+kind: book-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Published in 1979, Piloo Mody’s book ‘Democracy means Bread and Freedom’  was an important piece of work written in a lucid style and discussing key ideas relevant to liberal thought in its economic, social and political understanding. Produced below is a chapter from the book. _

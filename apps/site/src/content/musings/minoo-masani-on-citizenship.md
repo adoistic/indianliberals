@@ -2,7 +2,10 @@
 id: "minoo-masani-on-citizenship"
 title: "Minoo Masani on Citizenship"
 pubDate: "2020-11-15T20:02:54Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
@@ -26,6 +29,21 @@ related_thinkers:
   - jawaharlal-nehru
   - sardar-patel
 source_channel: "so-musings"
+proposed_themes:
+  - "citizenship"
+  - "political-decay"
+key_concepts:
+  - "everyday-democracy"
+  - "cult-of-personality"
+  - "opposition-politics"
+  - "party-discipline"
+pull_quote: Politics is about power, but power is not an end in itself.
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 As the recent wave of youth-led protests surge across the country, Indian civil society seems to have come of age in demanding accountability from the government. Political scientists and keen observers have often deplored the mere procedural nature of Indian democracy where democratic participation amounts to the ritual of voting. However, recent mass mobilisations, mostly in urban areas, herald an active civil society, practicing “everyday democracy” in streets. Most notably, the protests are concerned with state coercion and citizenship rights.

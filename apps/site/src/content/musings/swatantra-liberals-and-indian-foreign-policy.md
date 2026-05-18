@@ -2,11 +2,33 @@
 id: "swatantra-liberals-and-indian-foreign-policy"
 title: "Swatantra Liberals and Indian Foreign Policy"
 pubDate: "2020-11-16T06:43:31Z"
-themes: []
+themes:
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "foreign-policy"
+  - "non-alignment"
+key_concepts:
+  - "non-alignment"
+  - "regional-collective-security"
+  - "tibet-taiwan-recognition"
+  - "swatantra-foreign-policy"
+pull_quote: On November 15, 1965, Minoo Masani gave a speech in the Parliament outlining his vision of foreign policy for India.
+stance: argues-for
+kind: speech-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "australia"
+    - "china"
+    - "japan"
+    - "pakistan"
+    - "soviet-union"
+    - "united-states"
 ---
 
 On November 15, 1965, Minoo Masani gave a speech in the Parliament outlining his vision of foreign policy for India. After diagnosing the failure of the government on matters connected to India’s external relations, Masani came up with his own agenda. The measures proposed included the formation of a regional security alliance, support to Tibet and Taiwan, diplomatic relations with Israel, normal relations with Pakistan in order to focus on the biggest threat and acceptance of help from both the US and USSR.

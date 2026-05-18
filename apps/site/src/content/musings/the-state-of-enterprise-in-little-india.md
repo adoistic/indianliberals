@@ -2,11 +2,30 @@
 id: "the-state-of-enterprise-in-little-india"
 title: "The State of Enterprise in Free India"
 pubDate: "2024-08-12T16:52:16Z"
-themes: []
+themes:
+  - "economic-development"
+  - "free-enterprise"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "decentralisation"
+  - "rural-development"
+key_concepts:
+  - "little-india"
+  - "over-regulation"
+  - "rural-infrastructure"
+  - "decentralised-governance"
+  - "spirit-of-enterprise"
+pull_quote: India has had so much regulation that no amount of deregulation seems adequate.
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following excerpt has been taken from an essay titled 'Prosperity Beyond Our Cities by Spreading Enterprise' written by R. Gopalakrishnan, published by the Forum of Free Enterprise in 2007._

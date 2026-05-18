@@ -2,11 +2,33 @@
 id: "conditions-for-economic-growth"
 title: "Conditions for Economic Growth"
 pubDate: "2020-11-16T09:37:51Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-growth"
+  - "economic-policy"
+  - "free-enterprise"
+  - "inflation"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "foreign-capital"
+  - "population-policy"
+key_concepts:
+  - "thrift"
+  - "foreign-capital"
+  - "profit-incentive"
+  - "mechanisation-of-agriculture"
+  - "anti-inflationary-policy"
+pull_quote: Even after 55 years, one can clearly see that these prescriptions remain timeless and note that no Indian government has worked seriously on these long term solutions to instil rapid economic growth.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 Why is it that, in spite of an ancient cultural background and in spite of powerful world forces which are tending to spread to underdeveloped areas the modern technologies of industry and agriculture, with the accompanying outputs, high wages and good living conditions, the great mass of the Indian people are somehow being prevented from enjoying what the world has been offering her?

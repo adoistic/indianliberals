@@ -2,13 +2,29 @@
 id: "encoding-privacy-in-a-digital-world"
 title: "Encoding Privacy in a Digital World"
 pubDate: "2020-10-22T19:41:28Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 author: "shivani-a-tannu"
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "artificial-intelligence"
+  - "data-protection"
+  - "digital-privacy"
+key_concepts:
+  - "right-to-privacy"
+  - "facebook-data"
+  - "racial-profiling"
+  - "artificial-intelligence"
+  - "informational-privacy"
+pull_quote: "Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say."
+stance: argues-for
+kind: commentary
+period_window: post-reform
 ---
 
 _**Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say."**_

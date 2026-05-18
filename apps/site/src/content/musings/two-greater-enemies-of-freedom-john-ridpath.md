@@ -2,12 +2,26 @@
 id: "two-greater-enemies-of-freedom-john-ridpath"
 title: "Two Greater Enemies of Freedom"
 pubDate: "2021-01-08T09:36:54Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 author: "john-ridpath"
 source_channel: "so-musings"
+proposed_themes:
+  - "over-organisation"
+  - "paternalism"
+key_concepts:
+  - "over-organisation"
+  - "paternalism"
+  - "individual-vs-institution"
+  - "freedom-and-progress"
+pull_quote: Organisation is not the principal thing; man himself is better.
+stance: argues-against
+kind: book-excerpt
+period_window: nehruvian-era
 ---
 
 The following is an excerpt from the book 'History of the World' written by John Clark Ridpath. It was republished in [the Indian Libertarian magazine on October 15, 1962](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct15-1962.pdf). In this piece, the author puts forward some compelling arguments on the threat posed to freedom by the State and Society.

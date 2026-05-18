@@ -2,7 +2,11 @@
 id: "freedom-first-resistance-to-indira-gandhis-emergency"
 title: "Freedom First's Resistance to Indira Gandhi's Emergency"
 pubDate: "2021-09-24T08:40:13Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -84,6 +88,23 @@ related_thinkers:
   - s-v-raju
   - sardar-patel
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "emergency-1975"
+  - "press-freedom"
+key_concepts:
+  - "emergency"
+  - "press-censorship"
+  - "freedom-first"
+  - "liberal-journal"
+  - "authoritarian-turn"
+pull_quote: Not only did the promulgation of the Emergency saw the suspension of electoral democracy but also the curtailment of press freedom.
+stance: commemorates
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 _Minoo Masani's Bombay-based journal, [Freedom First](https://indianliberals.in/periodicals/freedom-first/) was an undeniable force for safeguarding people's rights and liberty during the Emergency. The following essay encapsulates the role the journal played in enhancing ideas of liberalism in India._Not only did the promulgation of the Emergency saw the suspension of electoral democracy but also the curtailment of press freedom. The state of affairs was best summarized by Lal Krishna Advani’s remark **that** . While major media houses succumbed to the authoritarian pressure, Minoo Masani’s liberal journal _Freedom First_ stood as a notable exception in its resistance to the Emergency. To be sure, Masani’s magazine was not the only media platform to resist the censor diktats. But _Freedom First _undoubtedly played a [remarkable role](https://thewire.in/history/emergency-free-press) in advancing civil liberties, more so given its small clout and reach.

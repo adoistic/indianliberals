@@ -2,11 +2,29 @@
 id: "free-enterprise-in-indian-and-freedom"
 title: "FREE ENTERPRISE IN INDIA AND FREEDOM"
 pubDate: "2022-07-12T08:35:15Z"
-themes: []
+themes:
+  - "economic-planning"
+  - "free-enterprise"
+  - "private-enterprise"
+  - "public-sector"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "socialist-state"
+  - "private-sector-campaign"
+  - "public-vs-private-sector"
+  - "fiscal-measures"
+pull_quote: "The role of Private Enterprise in the future can be assessed only in the context of Government's decision to establish a Socialist State in this country."
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following essay was originally published by The Times of India in 1956 and reproduced by the [Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/free-enterprise-in-india-and-freedom-a-d-shroff-january-4-2011.pdf). The essay was authored by Indian banker, economist, liberal and the founder of Forum of Free Enterprise A.D. Shroff.The role of Private Enterprise in the future can be assessed only in the context of Government's decision to establish a Socialist State in this country. 

@@ -2,7 +2,9 @@
 id: "the-forgotten-legacy-of-yashodabai-agarkar"
 title: "The Forgotten Legacy of Yashodabai Agarkar"
 pubDate: "2023-09-27T10:45:38Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +20,24 @@ thinker_mentions:
 related_thinkers: 
   - gopal-ganesh-agarkar
 source_channel: "so-musings"
+proposed_themes:
+  - "biography"
+  - "widowhood"
+  - "womens-education"
+key_concepts:
+  - "yashodabai-agarkar"
+  - "widow-customs"
+  - "womens-education"
+  - "social-reform-maharashtra"
+  - "sudharak"
+pull_quote: Yashodabai Agarkar is a figure missed entirely by history.
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "maharashtra"
 ---
 
 _Yashodabai Agarkar, known to most as Gopal Ganesh Agarkar's wife, was a social reformer and an advocate of women's education. The story of her personal struggles shows her courage and determination to follow the ideas inculcated by her husband and how she stood as an example to other women and widows ill treated by the society._

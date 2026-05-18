@@ -2,7 +2,10 @@
 id: "controls-and-freedom"
 title: "Controls and Freedom"
 pubDate: "2021-09-06T04:02:01Z"
-themes: []
+themes:
+  - "economic-freedom"
+  - "free-enterprise"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
@@ -34,6 +37,21 @@ related_thinkers:
   - c-rajagopalachari
   - winston-churchill
 source_channel: "so-musings"
+proposed_themes:
+  - "controls-and-licensing"
+key_concepts:
+  - "licence-permit-raj"
+  - "queutopia"
+  - "self-imposed-controls"
+  - "rationing"
+pull_quote: Every complaint of a shortage or high price of any particular thing became the excuse for imposing control on that thing.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: regional
+  places:
+    - "karnataka"
 ---
 
 _Produced below is an essay by M.A Sreenivasan, published in a 1960 edition of __[Forum of Free Enterprise.](https://indianliberals.in/content/controls-and-freedom-by-a-d-shroff-dec-8-1960-2/)__ The author was the Food and Civil Supplies Minister of Mysore at the time. He begins by discussing the demerits of using shortages in supply as an excuse to impose greater state control, and goes on to take a more in-depth look at the role of self-imposed controls in enhancing freedom. _To talk of controls in a free economy may, at first sight, seem antithetical and incongruous, like talking of Kangaroos in Malabar Hill or of a strike in Peking. But such an impression would be superficial. For, controls are not inconsistent with freedom. Paradoxical as it may seem, they are necessary for true freedom to flourish and expand. 

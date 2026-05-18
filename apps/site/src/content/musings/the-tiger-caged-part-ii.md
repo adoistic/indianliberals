@@ -2,7 +2,11 @@
 id: "the-tiger-caged-part-ii"
 title: "The Tiger Caged – Part II"
 pubDate: "2020-11-16T07:35:48Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "globalisation"
+  - "industrial-policy"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +29,21 @@ related_thinkers:
   - manmohan-singh
   - minoo-masani
 source_channel: "so-musings"
+proposed_themes:
+  - "import-controls"
+  - "protectionism"
+key_concepts:
+  - "license-raj"
+  - "phased-manufacturing-programme"
+  - "canalising-agencies"
+  - "import-controls"
+pull_quote: India has one of the most protected domestic economies in the world.
+stance: argues-against
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 To stem the flood of imports that this regime might otherwise allow, the system has been bolstered in several other ways. Imports can be brought in only by an "actual user"; in other words, intermediaries are banned. As part of the domestic capacity licensing scheme, firms can be obliged to sign up for a "phased manufacturing programme": they are allowed to expand their factories, but only if they promise to reduce the import content of the goods they produce.

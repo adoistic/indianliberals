@@ -2,7 +2,10 @@
 id: "libertarian-mission"
 title: "The Mission of Libertarianism"
 pubDate: "2020-11-16T09:12:57Z"
-themes: []
+themes:
+  - "free-enterprise"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -37,6 +40,23 @@ related_thinkers:
   - john-stuart-mill
   - karl-marx
 source_channel: "so-musings"
+proposed_themes:
+  - "individualism"
+  - "libertarianism"
+key_concepts:
+  - "enlightenment"
+  - "french-revolution"
+  - "bourgeoisie"
+  - "individualism"
+  - "limited-state"
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  places:
+    - "france"
+    - "united-kingdom"
+    - "united-states"
 ---
 
 Libertarians call for a greater simplification of institutions, a reform in the use of property and a return to the limited role of the State in social life so that the submerged individual may be released for a new career of purposeful, healthy activity in which science and the other achievements of the modern spirit may be used more wholesomely to help men and women to fulfil themselves in pursuits within their reach and power of assimilation.

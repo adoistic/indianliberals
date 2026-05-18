@@ -2,12 +2,31 @@
 id: "rajaji-was-prescient-about-electoral-funding"
 title: "Rajaji Was Prescient About Electoral Funding"
 pubDate: "2020-11-16T06:56:14Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
 author: "c-rajagopalachari"
 source_channel: "so-musings"
+proposed_themes:
+  - "crony-capitalism"
+  - "electoral-funding"
+key_concepts:
+  - "electoral-funding"
+  - "congress-system"
+  - "single-party-dominance"
+  - "corporate-donations"
+  - "license-permit-raj"
+pull_quote: As I have often pointed out, much of the expense is really what the State ought to bear on behalf of all the candidates.
+stance: argues-for
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 As I have often pointed out, much of the expense is really what the State ought to bear on behalf of all the candidates. We should see to this transfer of the burden from candidates to the State, while at the same time safeguarding the voters against the blandishments of the party in power.

@@ -2,12 +2,38 @@
 id: "unchanged-quarter-century-for-farmers-sharad-joshi"
 title: "Sharad Joshi on The Unchanged Quarter Century for Farmers"
 pubDate: "2020-12-31T21:29:12Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-policy"
+  - "economic-reform"
+  - "free-markets"
 language: "en"
 needs_review: true
 draft: false
 author: "sharad-joshi"
 source_channel: "so-musings"
+proposed_themes:
+  - "farmer-movement"
+key_concepts:
+  - "remunerative-prices"
+  - "shetkari-sanghathana"
+  - "minimum-support-price"
+  - "farm-power-tariff"
+  - "agricultural-liberalisation"
+pull_quote: Remunerative prices were to be obtained through elimination of all governmental interventions in the commodity market.
+stance: argues-for
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places:
+    - "andhra-pradesh"
+    - "gujarat"
+    - "karnataka"
+    - "maharashtra"
+    - "punjab"
+    - "tamil-nadu"
+    - "uttar-pradesh"
 ---
 
 The following is an article written by Farmer Leader Mr. Sharad Joshi and published on 1st September 2004 in the Hindu Business Online and later reproduced on the website of Shetkari Sanghathana. The article is part of the _Down to Earth _series which Mr. Sharad Joshi used to write for the Hindu Business Online. In this article, he highlights the evolution of Farmers's movements in India, the formulation of the remunerative price theory and the many agitations which emphasised the need for freer markets for farmers.

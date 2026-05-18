@@ -2,7 +2,10 @@
 id: "shetkari-sangathana-history-farmers-movement-india"
 title: "The Shetkari Sangathana and the History of the Farmers' Movement in India"
 pubDate: "2024-05-27T10:10:57Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-freedom"
+  - "economic-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -19,6 +22,21 @@ thinker_mentions:
 related_thinkers: 
   - sharad-anantrao-joshi
 source_channel: "so-musings"
+proposed_themes:
+  - "farmers-movement"
+key_concepts:
+  - "shetkari-sangathana"
+  - "remunerative-prices"
+  - "zamindari-vs-ryotwari"
+  - "village-panchayat-land"
+pull_quote: The SS is a non-political, non communal and non-pastoral union of peasants with a single point-programme – “Securing remunerative prices for the agricultural produce.”
+stance: analyzes
+kind: pamphlet-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
 ---
 
 _The farmers’ movement in India is as old as time itself. Throughout our independent history, there have been numerous struggles and demands for reforms by Indian farmers against all dispensations. The demand for reforming the agricultural sector, giving access to open markets and de-regulating the economic freedom of farmers has been time and again raised in the past decades._

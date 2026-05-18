@@ -2,7 +2,10 @@
 id: "the-essence-of-democracy-3"
 title: "The Essence of Democracy"
 pubDate: "2022-08-12T06:50:43Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -41,6 +44,20 @@ related_thinkers:
   - mahatma-gandhi
   - margaret-thatcher
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "parliamentary-democracy"
+  - "speaker-role"
+  - "right-to-dissent"
+  - "majority-rule-critique"
+  - "one-man-one-vote-once"
+pull_quote: According to him, the right to dissent is useless unless it is actually allowed to be exercised.
+stance: analyzes
+kind: pamphlet-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text was authored by Indian Parliamentarian and liberal thinker, Minoo Masani. It was originally published by the Harold Laski Institute of Political Science, Ahmedabad in March 1989. In the essay, Masani discusses several necessary conditions of a liberal democracy.

@@ -2,7 +2,11 @@
 id: "making-indian-industry-globally-competitive"
 title: "Making Indian Industry Globally Competitive"
 pubDate: "2022-10-21T06:10:49Z"
-themes: []
+themes:
+  - "economic-reform"
+  - "free-enterprise"
+  - "globalisation"
+  - "industrial-policy"
 language: "en"
 needs_review: true
 draft: false
@@ -43,6 +47,20 @@ related_thinkers:
   - narasimha-rao
   - ralph-waldo-emerson
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "new-industrial-policy"
+  - "ta-pai"
+  - "liberalisation"
+  - "globalisation"
+  - "zeitgeist"
+pull_quote: "The world's fifth largest democracy reached a turning point in its history: for the first time it looked less like a tortoise and more like a tiger."
+stance: argues-for
+kind: lecture
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise.](https://indianliberals.in/liberals/making-indian-industry-globally-competitive-15-may-1995.pdf) Authored by Indian jurist and liberal economist Nani Palkhivala, the text is based on the 12th T. A. Pai Memorial Lecture delivered on 17th January 1995 and takes an approach towards understanding the mighty scope of Indian human resource in the coming years. 

@@ -2,7 +2,10 @@
 id: "dr-br-ambedkar-on-village-panchayats"
 title: "Dr B R Ambedkar on Village Panchayats"
 pubDate: "2023-04-12T10:49:28Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,23 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "local-government"
+  - "panchayati-raj"
+key_concepts:
+  - "village-panchayats"
+  - "local-particularism"
+  - "adult-suffrage"
+  - "rural-republics"
+  - "national-spirit"
+pull_quote: Whatever be the merits of these rural republics, I have not the slightest hesitation in saying that they have been the bane of the public life of India.
+stance: argues-against
+kind: speech-excerpt
+period_window: pre-independence
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
 ---
 
 _Published by the Dr Ambedkar Foundation, Ministry of Social Justice & Empowerment, Government of India, the excerpt below has been borrowed from one of Dr B R Ambedkar’s speeches during the Bombay Legislative Council on Village Panchayats Bill debates on 6__th__ October 1932._

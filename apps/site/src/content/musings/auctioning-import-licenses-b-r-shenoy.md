@@ -2,12 +2,32 @@
 id: "auctioning-import-licenses-b-r-shenoy"
 title: "Auctioning Import Licenses - B.R. Shenoy"
 pubDate: "2024-10-07T16:12:28Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "public-finance"
 language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
 source_channel: "indian-libertarian"
+proposed_themes:
+  - "anti-corruption"
+  - "import-licensing"
+key_concepts:
+  - "import-licensing"
+  - "license-raj"
+  - "auction-mechanism"
+  - "rent-seeking"
+  - "established-importers"
+pull_quote: You cannot get rich quicker today than by getting import licenses issued in your favor.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "pakistan"
 ---
 
 _Produced below is an excerpt from an essay published in The Indian Libertarian, January 1959, titled "Auctioning Import Licenses" by B.R. Shenoy. It explores the inefficiencies of India's import licensing system and advocates for a shift towards auctioning these licenses to generate government revenue and curb corruption._

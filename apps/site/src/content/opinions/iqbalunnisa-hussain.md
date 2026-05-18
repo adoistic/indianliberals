@@ -2,7 +2,9 @@
 id: "iqbalunnisa-hussain"
 title: "Iqbalunnisa Hussain: A Stalwart of Muslim Women’s Education"
 pubDate: "2021-10-30T06:11:17Z"
-themes: []
+themes:
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -22,6 +24,24 @@ thinker_mentions:
         what_it_shows: identifies her landmark works in feminist literature
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "feminism"
+  - "muslim-reform"
+  - "women-education"
+key_concepts:
+  - "muslim-womens-education"
+  - "purdah-and-polygamy"
+  - "changing-india"
+  - "feminist-literature"
+  - "child-marriage"
+pull_quote: "Iqbalunnisa Hussain's immense contribution to feminist literature and her vision for women's education played a tremendous role in reforming the lives of Muslim women in the 20th century."
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "karnataka"
 ---
 
 Iqbalunnisa Hussain's immense contribution to feminist literature and her vision for women's education played a tremendous role in reforming the lives of Muslim women in the 20th century. Her understanding of skill-based education for women is relevant to this day.In India, deep-seated patriarchal attitudes continue to subject women to subjugation and discrimination in the 21st century.  We have, however, come a long way from the state of affairs in the 20th century. The final years of the British Raj in India saw the rise and works of a spirited feminist and a liberal activist, Iqbalunnisa Hussain. She spent her life resisting orthodoxy and judgement from against emancipation and education of women, specifically Muslim women.

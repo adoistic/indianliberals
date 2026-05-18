@@ -2,12 +2,32 @@
 id: "bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale"
 title: "{:en}भारतातील उदारमतवादाचे पुरस्कर्ते गोपाळ कृष्ण गोखले{:}{:mr}भारतातील उदारमतवादाचे पुरस्कर्ते गोपाळ कृष्ण गोखले {:}"
 pubDate: "2023-10-18T12:52:03Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
 author: "gopal-krishna-gokhale"
 source_channel: "so-musings"
+proposed_themes:
+  - "moderate-nationalism"
+  - "political-education"
+key_concepts:
+  - "servants-of-india-society"
+  - "moderate-politics"
+  - "prayers-and-petitions"
+  - "welby-commission"
+  - "political-education"
+pull_quote: राजकीय शिक्षणाशिवाय राजकीय बदल होऊ शकत नाही यावर त्यांचा ठाम विश्वास होता।
+stance: profiles
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "maharashtra"
+    - "united-kingdom"
 ---
 
 'नामदार', 'भारताचा हिरा' अशा विविध उपाधी मिळालेल्या गोपाळ कृष्ण गोखले यांचा जन्म १८६६ साली गुहागर मधील कोतलुकमध्ये झाला. लहानपणापासून अभ्यासात अतिशय हुशार आणि इंग्रिजीवर विलक्षण प्रभुत्व. कोल्हापूर, पुढे पुण्यातील डेक्कन कॉलेज आणि मग मुंबई येथील एल्फिन्स्टन कॉलेजमधून त्यांनी शिक्षण घेतलं. काही काळ मुलांच्या शिकवण्या घेऊन त्यांनी शिक्षणासाठी घेतलेलं कर्ज फेडलं. न्यायमूर्ती महादेव गोविंद रानडे यांचा प्रभाव गोखल्यांवर पडला. रानड्यांचे मानसपुत्र म्हणूनही गोखल्यांना ओळखलं जाई. गणिताचे प्राध्यापक म्हणून कार्यरत असताना गोखल्यांना नोकरी, कुटुंब, 'आपण बरे, आपले काम बरे' हा विचार पटला नाही. ज्या देशात जन्म मिळाला आहे त्या देशासाठी आपण काहीतरी करायला हवं ही भावना कायम होती. 

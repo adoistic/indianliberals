@@ -2,12 +2,36 @@
 id: "ceilings-on-landholdings-m-a-venkata-rao-1958"
 title: "Ceilings on Landholdings - M.A. Venkata Rao"
 pubDate: "2024-09-02T11:58:05Z"
-themes: []
+themes:
+  - "agriculture"
+  - "democracy"
+  - "economic-policy"
 language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
 source_channel: "indian-libertarian"
+proposed_themes:
+  - "land-reform"
+  - "property-rights"
+key_concepts:
+  - "land-ceilings"
+  - "property-rights"
+  - "planning-commission"
+  - "democratic-consent"
+  - "land-reform"
+pull_quote: It is vital for the future of democracy and stable governance in India that these land reform proposals are discussed thoroughly from all perspectives—economic and social, short-term and long-term, evolutionary and revolutionary.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "andhra-pradesh"
+    - "bombay-presidency"
+    - "karnataka"
+    - "kerala"
+    - "madras-presidency"
 ---
 
 _The following text is an excerpt from an essay titled "_**_Ceilings on Landholdings_**_" by _**_M.A. Venkata Rao_**_, published in The Indian Libertarian on September 15, 1958. _

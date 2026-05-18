@@ -2,7 +2,11 @@
 id: "hans-raj-khanna-justice-speaking-truth-to-power"
 title: "Justice H.R. Khanna and the Art of Speaking Truth to Power"
 pubDate: "2021-02-25T07:03:44Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -30,6 +34,22 @@ thinker_mentions:
 related_thinkers: 
   - indira-gandhi
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "emergency"
+  - "judicial-dissent"
+key_concepts:
+  - "habeas-corpus-case"
+  - "article-21"
+  - "right-to-life"
+  - "misa"
+  - "emergency-1975"
+pull_quote: Four of the judges of the Constitution Bench had agreed to this stance and Justice H. R. Khanna was the lone dissenting voice to this opinion.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _“The smallest minority on earth is the individual. Those who deny individual rights cannot claim to be defenders of minorities.”  ― Ayn Rand_“What is the cost of one’s voice – one man’s dissent?” – The life of Hans Raj Khanna depicts utmost courage and the hefty price paid for such courage. 

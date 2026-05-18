@@ -2,7 +2,11 @@
 id: "b-r-shenoy-indias-first-neoliberal"
 title: "B.R. Shenoy : India's First Neoliberal?"
 pubDate: "2021-06-03T07:27:46Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-markets"
+  - "liberalism"
+  - "monetary-policy"
 language: "en"
 needs_review: true
 draft: false
@@ -50,6 +54,23 @@ related_thinkers:
   - milton-friedman
   - peter-bauer
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "austrian-economics"
+  - "neoliberalism"
+key_concepts:
+  - "neoliberalism"
+  - "monetary-economics"
+  - "price-theory"
+  - "market-efficiency"
+  - "post-liberalisation"
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "karnataka"
+    - "united-kingdom"
 ---
 
 _Shunned by Indian planners and economists for his radical views on India’s development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West._Bellikoth Raghunath Shenoy, the monetary economist turned public intellectual in the decades of 1950s-60s, faced marginalization in his life and a prophetic revival in the afterlife. Shunned by Indian planners and economists for his radical views on India’s development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West. The recent revival of interest in Shenoy has undoubtedly been enabled by India’s post-liberalization moment which seemingly saw economic growth enabled by policies advocated by Shenoy years earlier. Mostly espoused by Indian neoliberals, this revival undoubtedly has a vindictive streak tinged with a sense of loss of wasted decades when Shenoy’s policy prescriptions remained marginalized.    

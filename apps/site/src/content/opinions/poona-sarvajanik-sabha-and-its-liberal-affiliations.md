@@ -2,7 +2,10 @@
 id: "poona-sarvajanik-sabha-and-its-liberal-affiliations"
 title: "Poona Sarvajanik Sabha and Its Liberal Affiliations"
 pubDate: "2021-01-18T09:15:43Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -28,6 +31,24 @@ related_thinkers:
   - gopal-krishna-gokhale
   - mahadev-govind-ranade
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "associational-politics"
+  - "early-nationalism"
+key_concepts:
+  - "poona-sarvajanik-sabha"
+  - "self-rule"
+  - "press-freedom"
+  - "responsible-executive"
+  - "indian-national-congress"
+pull_quote: The Sabha was meant to work as a mediating body between the state and people by airing the grievances of people and helping them make claims on the state.
+stance: analyzes
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
 ---
 
 _Despite the predominantly urban middle-class character of the Sabha, its work as a mediating body between the state and peasantry stemmed from the liberal conviction of the Sabha leaders who sought to operate in the domain of civil society. _The formative years of the modern, pan-Indian nationalism can be traced back to the latter half of the 19th century. The culmination of the British expansion into a centralized governance mechanism partly contributed to this pan-Indian political consciousness. Inspired by the induction of ideas of modernity in India, the newly emergent political associations in major provincial centers responded to this consolidation of colonial administration. These associations fashioned themselves as representatives of native opinion and made claims on behalf of the community. Prominent among them in the western province was the Poona Sarvajanik Sabha.

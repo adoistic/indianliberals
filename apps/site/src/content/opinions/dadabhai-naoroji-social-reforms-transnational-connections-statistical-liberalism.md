@@ -2,7 +2,10 @@
 id: "dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism"
 title: "Dadabhai Naoroji: Social Reforms, Transnational Connections and Statistical Liberalism"
 pubDate: "2021-06-30T10:03:12Z"
-themes: []
+themes:
+  - "liberalism"
+  - "political-economy"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -48,6 +51,23 @@ related_thinkers:
   - karsandas-mulji
   - mahadev-govind-ranade
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "anti-colonial-movement"
+  - "transnational-liberalism"
+key_concepts:
+  - "statistical-liberalism"
+  - "moderate-congress"
+  - "indian-public-sphere"
+  - "self-rule"
+  - "constitutional-means"
+pull_quote: Given the uncooperative attitudes of colonial bureaucracy at home, Naoroji figured that the best way to serve Indian interests would be to influence decision-making in the British parliament.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "united-kingdom"
 ---
 
 _In his decades-long career in Britain, Naoroji laboured relentlessly to popularise the Indian cause. Given the uncooperative attitudes of colonial bureaucracy at home, Naoroji figured that the best way to serve Indian interests would be to influence decision-making in the British parliament. (Image Credits : The Asian Age) _The early phase of nationalist movement in India, dominated by the largely liberal-minded moderate faction of the Indian National Congress (INC), saw them envision a wholesome agenda for the regeneration of India.

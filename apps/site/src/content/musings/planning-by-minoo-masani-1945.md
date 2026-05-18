@@ -2,7 +2,10 @@
 id: "planning-by-minoo-masani-1945"
 title: "Planning by Minoo Masani"
 pubDate: "2023-12-21T11:52:59Z"
-themes: []
+themes:
+  - "democracy"
+  - "economic-planning"
+  - "governance"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,20 @@ thinker_mentions:
 related_thinkers: 
   - abraham-lincoln
 source_channel: "so-musings"
+proposed_themes:
+  - "central-planning"
+key_concepts:
+  - "responsible-government"
+  - "planning"
+  - "democratic-state"
+  - "self-government"
+pull_quote: Just as an injection can cure or kill a man, so too a Plan can enrich or ruin a country.
+stance: analyzes
+kind: book-excerpt
+period_window: pre-independence
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The following piece on 'Planning' is taken from Minoo Masani at 90 published by Freedom First in 1995. This article written by Minoo Masani in 1945 takes the reader through various viewpoints on Central Planning and the role of the state. You can read the original article [here.](https://indianliberals.in/liberals/minoo-masani-at-90-freedom-first-1995.pdf)_

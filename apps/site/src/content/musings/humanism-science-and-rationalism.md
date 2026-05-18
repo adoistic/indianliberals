@@ -2,11 +2,26 @@
 id: "humanism-science-and-rationalism"
 title: "Humanism, Science and Rationalism"
 pubDate: "2021-07-09T09:32:28Z"
-themes: []
+themes:
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "humanism"
+  - "rationalism"
+  - "secularism"
+key_concepts:
+  - "humanism"
+  - "rationalism"
+  - "milesian-system"
+  - "tribal-society"
+  - "christianity-and-judaism"
+pull_quote: "A rational, naturalistic attitude to the world was first developed by the Ionian Greeks; Cornford writes : “The Milesian system pushed back to the very beginning of things the operation of processes as familiar and ordinary as a shower of rain."
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
 ---
 
 _Produced below is a piece published in the[February 1961 issue of the Indian Libertarian Magazine](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-feb1-1961.pdf). The author Mr. R.C. Traill discusses the origins of humanism and its interplay with religion. He further goes on to explain the way forward for humanist discourse. _Primitive man in tribal society is surrounded on every hand by superstition, and he practices a magical ritual which, ostensibly to him, controls his environment for his benefit. It does not of course have any such effect, but we should not therefore condemn it as useless, while having no objective effect on nature it does have a subjective effect on him and maintains the tribal structure without which he would be just an animal on a level with other animals. The tribe, and the beliefs that hold it together, are all that he has to preserve his human status.As the tribe emerged into a class society, magic and ritual were taken over by the priestly caste, and put to use to maintain their special status. Such a society is well represented by ancient Egypt. 

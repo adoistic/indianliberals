@@ -2,14 +2,35 @@
 id: "rukhmabai-raut-a-beacon-of-courage-and-change-in-british-india"
 title: "Rukhmabai Raut: A Beacon of Courage and Change in British India"
 pubDate: "2023-11-29T12:38:53Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "civil-society"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
 author: "rukhmabai"
 thinker_mentions: []
 related_thinkers: []
-
+proposed_themes:
+  - "biography"
+  - "women-in-medicine"
+  - "women-rights"
+key_concepts:
+  - "age-of-consent-act"
+  - "child-marriage"
+  - "women-medicine"
+  - "dadaji-bhikaji-case"
+pull_quote: "Her remarkable contributions to medicine and the cause of women's rights continue to inspire generations."
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "bombay-presidency"
+    - "gujarat"
+    - "united-kingdom"
 ---
 
 ______

@@ -2,7 +2,9 @@
 id: "sharad-joshi-on-liberalism-in-india"
 title: "Sharad Joshi on Liberalism in India"
 pubDate: "2021-05-11T16:07:45Z"
-themes: []
+themes:
+  - "liberalism"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -120,6 +122,20 @@ related_thinkers:
   - periyar-e-v-ramasamy
   - raja-ram-mohan-roy
 source_channel: "so-musings"
+proposed_themes:
+  - "indian-liberal-tradition"
+key_concepts:
+  - "nehruvian-socialism"
+  - "liberal-eclipse"
+  - "indigenous-liberalism"
+  - "election-commission-socialism-affidavit"
+pull_quote: The defunct Nehruvian socialism is being replaced not by the vibrant forces of liberal entrepreneurship but by lumpen chauvinistic and communal jingoism.
+stance: argues-for
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Published in Freedom First Magazine 1996, the following article by Mr. Sharad Joshi offers valuable insights on liberalism in India vis-a-vis its past, present and future.  The author who was himself a liberal farmer leader and parliamentarian reflects on liberalism in ancient India and the lessons it has for liberals today. _Liberalism is far from being the dominant or even the mainstream school of thought in India. Worse still, most consider liberalism as an idea imported from abroad, derogatory to national pride. Within the country, the cry goes that liberalism suits the convenience of the affluent and the strong minority and militates against the welfare security net that the weaker masses of society need so badly. The defunct Nehruvian socialism is being replaced not by the vibrant forces of liberal entrepreneurship but by lumpen chauvinistic and communal jingoism. Socialism is yielding place to fascism and the fastest riding comets on the Indian horizon flaunt unabashedly their admiration for Hitler.

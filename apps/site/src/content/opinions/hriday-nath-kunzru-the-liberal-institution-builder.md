@@ -2,7 +2,10 @@
 id: "hriday-nath-kunzru-the-liberal-institution-builder"
 title: "Hriday Nath Kunzru – The Liberal Institution Builder"
 pubDate: "2020-10-24T16:35:50Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -54,6 +57,22 @@ related_thinkers:
   - jawaharlal-nehru
   - v-s-srinivasa-sastri
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "constitutionalism"
+  - "nation-building"
+key_concepts:
+  - "servants-of-india-society"
+  - "indian-national-liberal-federation"
+  - "liberal-split-1918"
+  - "self-government"
+  - "parliamentarian"
+pull_quote: The roots of Indian democracy in the Nehru years were, in no small measure, strengthened by the labour of the likes of Kunzru.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The trajectory of liberal nationalism in colonial India is characterized by an early prominence followed by a steady marginalization in the nationalist discourse. The moderate phase of the Indian National Congress reflects a strong liberal tradition which is also well-recognized.

@@ -2,12 +2,30 @@
 id: "voltaire-on-trade"
 title: "Voltaire On Trade"
 pubDate: "2020-11-16T10:04:04Z"
-themes: []
+themes:
+  - "free-enterprise"
+  - "free-markets"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 author: "voltaire"
 source_channel: "so-musings"
+proposed_themes:
+  - "enlightenment-thought"
+key_concepts:
+  - "merchant-class"
+  - "aristocracy-vs-trade"
+  - "commerce-and-civilisation"
+  - "enlightenment"
+stance: argues-for
+kind: book-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "france"
+    - "united-kingdom"
 ---
 
 The following is an excerpt from Voltaire’s essay “On Trade” from Letters Concerning the English Nation, a key work from the Enlightenment period. Known for his sharp wit, the observations of the satirical polemicist are just as provocative and relevant in the 21st century as they were in the 18th.

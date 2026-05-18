@@ -2,7 +2,12 @@
 id: "economic-growth-with-social-justice-1969"
 title: "Economic Growth with Social Justice"
 pubDate: "2024-01-16T13:47:25Z"
-themes: []
+themes:
+  - "economic-growth"
+  - "economic-policy"
+  - "free-enterprise"
+  - "nationalisation"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +30,21 @@ thinker_mentions:
 related_thinkers: 
   - abraham-lincoln
   - nani-palkhivala
-
+proposed_themes:
+  - "social-justice"
+key_concepts:
+  - "socialism-on-the-cheap"
+  - "controls"
+  - "nationalisation"
+  - "mass-education"
+  - "self-generating-growth"
+pull_quote: "“Socialism\" has become a word comprehensive enough to cover the entire spectrum of economic folly — a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression."
+stance: argues-against
+kind: lecture
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969. This was under the section 'India - The Potential and The Reality' in the book 'We, the People: India-The Largest Democracy' published by Strand Book Stall in 1984_

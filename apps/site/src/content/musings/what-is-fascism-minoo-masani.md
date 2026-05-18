@@ -2,7 +2,10 @@
 id: "what-is-fascism-minoo-masani"
 title: "What is Fascism? By Minoo Masani"
 pubDate: "2021-02-12T07:40:46Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +21,23 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "authoritarianism"
+  - "fascism"
+key_concepts:
+  - "fascism"
+  - "one-nation-one-party-one-leader"
+  - "corporate-state"
+  - "national-socialism"
+  - "press-censorship"
+pull_quote: "Fascism attempts by the manipulation of nationalist sentiment to impose a dictatorship whose basic slogan is \"One Nation, One Party, One Leader.\""
+stance: analyzes
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "germany"
 ---
 
 _The following is a short article written by M.R. Masani and  published in the February 1975 issue of the Freedom First Magazine. Minoo Masani discussed the tenets of fascism, its pre-requisites and the various nuances under which it works. Masaani's reflections on Fascism are timeless and are relevant to the discussion surrounding Fascism today. _Writing about the so called anti-fascist conference in Patna sometime in December the leftist _Economic and Political Weekly_ wrote under the title 'Innocents at a Conference':

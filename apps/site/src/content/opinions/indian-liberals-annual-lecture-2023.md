@@ -2,7 +2,9 @@
 id: "indian-liberals-annual-lecture-2023"
 title: "Indian Liberals Annual Lecture 2023"
 pubDate: "2023-07-27T14:03:29Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +20,21 @@ thinker_mentions:
 related_thinkers: 
   - gurcharan-das
 source_channel: "editorial-events"
+proposed_themes:
+  - "archive"
+  - "lecture-series"
+key_concepts:
+  - "indian-liberals-project"
+  - "classical-liberalism"
+  - "annual-lecture"
+  - "digital-archive"
+pull_quote: The objective is to highlight the importance of liberal values such as freedom of expression, free enterprise, rule of law, constitutionalism, participatory democracy, religious freedom, and all other human liberties.
+kind: event-coverage
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "delhi"
 ---
 
 **"The Dilemma of an Indian Liberal"**

@@ -2,11 +2,25 @@
 id: "globalisation-and-the-poor-johan-norberg-2003"
 title: "Globalisation and the Poor - Johan Norberg"
 pubDate: "2024-08-26T12:17:54Z"
-themes: []
+themes:
+  - "globalisation"
 language: "en"
 needs_review: true
 draft: false
 author: "johan-norberg"
+proposed_themes:
+  - "anti-globalisation"
+  - "free-trade"
+  - "poverty"
+key_concepts:
+  - "wto"
+  - "absolute-vs-relative-poverty"
+  - "seattle-protests"
+  - "anti-globalisation-movement"
+pull_quote: Relative poverty is not a measure of poverty, but of inequality.
+stance: argues-for
+kind: periodical-article
+period_window: reform-era
 ---
 
 _The following excerpt has been taken from the Occasional Paper titled ‘Globalisation and the Poor’ written by Johan Norberg. The paper is based on a contribution of the author to the workshop Campaigning for Free Trade; organised by the Liberal Institute of the Friedrich Naumann Foundation in November 2003._

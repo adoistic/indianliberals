@@ -2,7 +2,11 @@
 id: "economics-of-freedom"
 title: "Economics of Freedom"
 pubDate: "2023-05-17T12:19:08Z"
-themes: []
+themes:
+  - "economic-freedom"
+  - "free-enterprise"
+  - "nationalisation"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -41,6 +45,24 @@ related_thinkers:
   - nikita-khrushchev
   - vinoba-bhave
 source_channel: "so-musings"
+proposed_themes:
+  - "cooperative-farming"
+  - "totalitarianism"
+key_concepts:
+  - "state-capitalism"
+  - "state-landlordism"
+  - "cooperative-farming"
+  - "monolithic-totalitarianism"
+  - "lord-actons-dictum"
+pull_quote: I was unable to convince my friend that the destruction of free enterprise and peasant proprietorship must lead in India, as in Russia, to the same kind of monolithic totalitarian dictatorship as had developed under Stalin.
+stance: argues-against
+kind: lecture
+period_window: late-license-raj
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
+    - "soviet-union"
 ---
 
 _The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965. In this lecture, Masani discusses the socialist wisdom dominant in that age and reflects upon the inevitable road to totalitarianism by citing examples such as China and Russia and deconstructing the very essence of Socialism. _

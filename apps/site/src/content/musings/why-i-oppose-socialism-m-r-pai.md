@@ -2,12 +2,32 @@
 id: "why-i-oppose-socialism-m-r-pai"
 title: "Why I Oppose Socialism - M.R. Pai"
 pubDate: "2021-05-28T09:34:41Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "economic-planning"
+  - "free-enterprise"
+  - "free-markets"
+  - "liberalism"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 author: "m-r-pai"
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "central-planning"
+  - "state-ownership"
+  - "social-justice"
+  - "individual-liberties"
+  - "laissez-faire"
+pull_quote: First, socialism cannot solve our problem of poverty.
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Many prominent Indian Liberals challenged the Socialist leaning of successive Indian Governments. They did not just critique the philosophy of Socialism but also presented a better approach to solving India's problems. Produced below is a piece published in the February 1970 edition of the Freedom First Magazine. The author Mr. M.R. Pai presents a coherent and comprehensive case on his opposition to Socialism. _Socialism is fashionable in India today, like sideburns and tight pants in her cities. The competitive race that politicians professing socialism are running with each other does not, however, mean that socialism is good for India. Nor, that it would endure. As a citizen of Indian democracy, I oppose socialism mainly on four grounds. 

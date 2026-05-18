@@ -2,7 +2,10 @@
 id: "government-and-society-in-free-commonwealth"
 title: "Government and Society in a Free and Prosperous Commonwealth"
 pubDate: "2023-04-19T16:24:19Z"
-themes: []
+themes:
+  - "governance"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -44,6 +47,19 @@ related_thinkers:
   - frederic-bastiat
   - john-locke
 source_channel: "so-musings"
+proposed_themes:
+  - "civil-government"
+  - "commonwealth"
+key_concepts:
+  - "commonwealth"
+  - "common-weal"
+  - "empire-of-laws"
+  - "classical-liberalism"
+  - "limited-government"
+pull_quote: A free and prosperous commonwealth does not depend for its motive force on any great political leader.
+stance: argues-for
+kind: book-excerpt
+period_window: post-reform
 ---
 
 _The excerpt below is from the publication “Natural Order: Essays Exploring Civil Government & The Rule of Law”, authored by Sauvik Chakraverti. _

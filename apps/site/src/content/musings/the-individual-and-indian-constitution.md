@@ -2,7 +2,10 @@
 id: "the-individual-and-indian-constitution"
 title: "The Individual and Indian Constitution"
 pubDate: "2022-11-02T00:00:46Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +28,23 @@ related_thinkers:
   - jawaharlal-nehru
   - v-p-menon
 source_channel: "so-musings"
+proposed_themes:
+  - "constitutionalism"
+  - "property-rights"
+key_concepts:
+  - "property-rights"
+  - "cooperative-farming-laws"
+  - "fundamental-rights"
+  - "republican-idea"
+  - "adult-suffrage"
+pull_quote: In the last analysis, the Constitution is an extremely delicate mechanism which is controlled by the mainspring of liberty in creating the proper balance between public authority and individual freedom.
+stance: analyzes
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "princely-states"
 ---
 
 _The following piece was published in the [June 1959 edition](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1959.pdf) of the Indian Libertarian Magazine. The author of this piece, Mr. A Ranganathan discusses the Indian Constitution vis-a-vis individual freedom in the light of amendments as well as the enactment of laws promoting Co-operative farming. The issue of property rights has been mentioned as fundamental to the relationship between the individual and the Indian Constitution. _The success of democracy does not merely depend on the eloquent words enshrined in the Constitutional Preamble. Every student of political science knows that even such a centralized State as Russia is based on a constitution which is federal in theory! In the last analysis, the Constitution is an extremely delicate mechanism which is controlled by the mainspring of liberty in creating the proper balance between public authority and individual freedom. 

@@ -2,7 +2,10 @@
 id: "rajkumari-amrit-kaur-philanthropy-and-politics"
 title: "Rajkumari Amrit Kaur: Philanthropy and Politics"
 pubDate: "2023-05-31T15:49:54Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -33,7 +36,25 @@ related_thinkers:
   - gopal-krishna-gokhale
   - jawaharlal-nehru
   - mahatma-gandhi
-
+proposed_themes:
+  - "biography"
+  - "freedom-movement"
+  - "women-in-politics"
+key_concepts:
+  - "constituent-assembly"
+  - "freedom-movement"
+  - "sewagram-ashram"
+  - "women-representation"
+  - "salt-satyagraha"
+pull_quote: There was a quiet strength, an earnestness and deep humility about him that went straight to my young heart .
+stance: profiles
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "punjab"
+    - "united-kingdom"
 ---
 
 _Known as “a princess in her nation’s service”, Rajkumari Amrit Kaur of Kapurthala wore many hats  – a freedom fighter, philanthropist, Parliamentarian, and a far-sighted Union Health Minister–the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence. She was also one of the 15 founding members of the 299-member Constituent Assembly that came together to debate and draft the Constitution in December 1946._

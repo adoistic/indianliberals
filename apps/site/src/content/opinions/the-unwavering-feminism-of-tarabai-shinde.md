@@ -2,7 +2,10 @@
 id: "the-unwavering-feminism-of-tarabai-shinde"
 title: "The Unwavering Feminism of Tarabai Shinde"
 pubDate: "2021-05-26T19:39:33Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -28,6 +31,24 @@ thinker_mentions:
 related_thinkers: 
   - jyotirao-phule
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "feminism"
+  - "gender-equality"
+key_concepts:
+  - "stri-purush-tulana"
+  - "vijaylakshmi-case"
+  - "patriarchy"
+  - "gender-inequality"
+  - "satyashodhak-samaj"
+pull_quote: It is a scathing critique of gender inequality and questions the institutional gender inequality entrenched in the social institutions of that time.
+stance: commemorates
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
 ---
 
 _Tarabai Shinde deserves to be known as one of the early feminists of India and a figure who espoused the cause of liberalism through her commitment to equal rights for women.  _The nineteenth century India was characterized by increasing demands of social reforms in the country. Along with their male contemporaries, women like Ramabai Ranade and Savitribai Phule questioned patriarchal norms of the society. One such advocate of women empowerment and gender equality was Tarabai Shinde. 

@@ -2,7 +2,10 @@
 id: "examination-of-objections-to-limitations-of-amending-power-1960"
 title: "Examination of Objections to Limitations of Amending Power"
 pubDate: "2024-01-26T16:26:58Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -16,7 +19,22 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - nani-palkhivala
-
+proposed_themes:
+  - "amending-power"
+  - "constitutionalism"
+key_concepts:
+  - "amending-power"
+  - "fundamental-rights"
+  - "article-368"
+  - "golaknath-case"
+  - "sankari-prasad-case"
+pull_quote: If the representatives of the people could be trusted to respect citizens’ basic freedoms, there would have been no need for the chapter on fundamental rights at all.
+stance: argues-against
+kind: book-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _This piece is an excerpt about Parliament’s Amending Power from Nani Palkhivala’s “Our Constitution Defaced and Defiled”. This was first published in 1960 by The Macmillan Company of India Limited. In the introduction to this publication, Nani Palkhivala says “WE, THE PEOPLE OP INDIA, adopted, enacted and gave to ourselves the Constitution. We, the people, are also its only keepers. We have to pay the State not only in taxes but in time and in thought.”_

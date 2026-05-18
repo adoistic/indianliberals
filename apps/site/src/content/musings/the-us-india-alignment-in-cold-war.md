@@ -2,7 +2,8 @@
 id: "the-us-india-alignment-in-cold-war"
 title: "The US-India Alignment in Cold War"
 pubDate: "2020-11-16T06:51:44Z"
-themes: []
+themes:
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -21,6 +22,24 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "cold-war"
+  - "foreign-policy"
+  - "non-alignment"
+key_concepts:
+  - "non-alignment"
+  - "cold-war"
+  - "chinese-expansionism"
+  - "us-india-alignment"
+pull_quote: 1962 will go down in history as a memorable year which, for the first time, witnessed the invasion of India by foreign hordes through the Himalayan passes.
+stance: argues-for
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
+    - "united-states"
 ---
 
 _The Indian defeat in the 1962 border war with China not only resulted in loss of territory, but also raised questions about the foreign policy conduct of India’s first Prime Minister Jawaharlal Nehru. _

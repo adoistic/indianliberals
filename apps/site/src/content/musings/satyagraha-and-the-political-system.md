@@ -2,7 +2,10 @@
 id: "satyagraha-and-the-political-system"
 title: "Satyagraha and the Political System"
 pubDate: "2021-06-11T09:37:14Z"
-themes: []
+themes:
+  - "civil-society"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -21,6 +24,24 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "civil-disobedience"
+  - "political-legitimacy"
+  - "satyagraha"
+key_concepts:
+  - "satyagraha"
+  - "legitimacy"
+  - "non-violent-direct-action"
+  - "consent-of-governed"
+  - "max-weber"
+pull_quote: The technique of non-violent direct action (satyagraha) has not been examined with reference to its application to a political system that claims to rest on legitimacy.
+stance: analyzes
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places:
+    - "south-africa"
 ---
 
 _The Gandhian form of non-violent civil disobedience i.e. the Satyagraha has been a part of India's political picture before as well as after Independence. It has manifested in various protests against State action. H0wever, there has always been a debate on people's assertion of their demands through Satyagraha in an independent India governed by a working Constitution. In an article published in July-September 1970 issue of Quest magazine, the author Mr. Nageshwar Prasad discusses the relevance of Satygaraha in the political system. Produced below is the full text of the article. _The technique of non-violent direct action (satyagraha) has not been examined with reference to its application to a political system that claims to rest on legitimacy. The term legitimacy was first used by Max Weber while discussing the typology of authority on the basis of its acceptance or non-acceptance by the people in the system. The International Encyclopaedia of Social Sciences defines legitimacy as 'the foundation of such governmental power as is exercised both with consciousness on the government's part that it has a right to govern and with some recognition by the governed of that right.' (International ... 1968 p. 244). Legitimacy, therefore, in the first instance, presupposes the right of the authority to govern and second the consent of the governed to such a right. From the point of view of this definition, no other system than democracy can approximate an ideal type of legitimacy because the democratic authority rests on the consent of the majority of the governed. 

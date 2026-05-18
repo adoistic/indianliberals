@@ -2,7 +2,11 @@
 id: "is-socialism-outdated"
 title: "Is Socialism Outdated?"
 pubDate: "2022-10-27T08:47:57Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "nationalisation"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -34,6 +38,19 @@ related_thinkers:
   - jawaharlal-nehru
   - t-t-krishnamachari
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "bank-nationalisation"
+  - "asoka-mehta"
+  - "planning-commission"
+  - "tashkent-spirit"
+pull_quote: The tragedy of India today is the tragedy of waste - waste of manpower, waste of industrial capacity, waste of talent, experience and the spirit of enterprise which could be harnessed to greater national purposes.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/is-socialism-outdated-n-a-palkhivala-mar10-1966.pdf) published on March 10, 1966. The first article, ‘The Shells of Socialism’ was authored by Nani A Palkhivala. It addresses the policies proposed by the then Union Minister for Planning. 

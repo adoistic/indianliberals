@@ -2,7 +2,10 @@
 id: "c-y-chintamani-the-liberal-editor-politician"
 title: "C Y Chintamani: The Liberal Editor, Politician"
 pubDate: "2021-07-26T06:18:35Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -34,6 +37,24 @@ thinker_mentions:
 related_thinkers: 
   - gopal-krishna-gokhale
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "anti-colonial-movement"
+  - "press-freedom"
+key_concepts:
+  - "liberal-editor"
+  - "constitutional-means"
+  - "free-speech"
+  - "moderate-congress"
+  - "indian-herald"
+pull_quote: A prodigy, nationalist, journalist, politician, thinker - C.Y. Chintamani was a liberal in every sense of the word.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "madras-presidency"
+    - "united-provinces"
 ---
 
 _A prodigy, nationalist, journalist, politician, thinker - C.Y. Chintamani was a liberal in every sense of the word.  As the editor of a leading national daily, Chintamani placed utmost importance on free speech. He did not shy away from criticizing the British Raj, INC, and even fellow liberals.  _In the first half of the 20th century, C Y Chintamani was among the few liberal Indian politicians balancing between opposing the British Raj and the Gandhian method of civil disobedience. The liberal commitment to constitutional means in the age of Gandhian mass movement nudged one away from public sentiment. However, this should not lead us to underestimate the notable, patriotic contributions of liberals. Neither should the liberal strand of Indian anti-colonial movement be allowed to lie in oblivion. In this context, the contribution of Chintamani as a politician and editor warrants commemoration.

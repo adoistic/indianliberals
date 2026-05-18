@@ -2,7 +2,11 @@
 id: "b-r-shenoy-on-economic-growth-with-social-justice"
 title: "B.R. Shenoy on Economic Growth with Social Justice"
 pubDate: "2021-04-09T06:49:34Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "free-enterprise"
+  - "free-markets"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -18,6 +22,21 @@ thinker_mentions:
 related_thinkers: 
   - ludwig-erhard
 source_channel: "so-musings"
+proposed_themes:
+  - "consumer-sovereignty"
+key_concepts:
+  - "consumer-sovereignty"
+  - "price-mechanism"
+  - "free-society"
+  - "forward-market"
+  - "pragmatic-society"
+pull_quote: "A free society is so called because its citizens are free individuals, free in the sense of \"independence of the arbitrary will of another\"."
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The late Prof. B. R. Shenoy was an eminent economist. This __paper, written in August 1977, a few months prior to his death, __is of relevance today when there is considerable rethinking on __need for a new economic policy. The paper was republished as a booklet by the Forum of Free Enterprise in March 1980. _A free society is so called because its citizens are free individuals, free in the sense of "independence of the arbitrary will of another". Individuals in a free society function, in the economic sphere, under the guidelines of the doctrine of pragmatism, pursuing the line of success and discarding the path of failures, success and failure being assessed by their own subjective criteria viewed functionally, a free society may also be termed, therefore, as a pragmatic society. As the terminal aim of the individual's activity is the maximum satisfaction of his consumption needs, and he is unfettered in this as in other matters, a free society is described too as a society of consumer sovereignty.

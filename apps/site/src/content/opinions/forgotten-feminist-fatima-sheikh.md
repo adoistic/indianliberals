@@ -2,7 +2,9 @@
 id: "forgotten-feminist-fatima-sheikh"
 title: "Forgotten Feminist, Educator: Fatima Sheikh"
 pubDate: "2021-12-10T19:24:07Z"
-themes: []
+themes:
+  - "civil-society"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -34,6 +36,23 @@ thinker_mentions:
 related_thinkers: 
   - jyotirao-phule
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "muslim-women"
+  - "women-education"
+key_concepts:
+  - "women-education"
+  - "muslim-women-educator"
+  - "phule-school"
+  - "social-reform"
+  - "marginalised-women"
+pull_quote: A rarely remembered social reformer, Fatima Sheikh was among the first Indian Muslim woman educator.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "maharashtra"
 ---
 
 A rarely remembered social reformer, Fatima Sheikh was among the first Indian Muslim woman educator. Speculated to be the first Muslim woman education of the 19th century. A peer of Jyotibai and Savitribai Phule, Fatima Sheikh made tremendous contributions to Indian women's education, especially those belonging to marginalised sections of society.Jyotirao and Savitribai Phule are widely known pioneers of Indian women’s education movements. Revered for their persistent efforts for securing individual rights, they are celebrated leaders in Indian political history. However, little do we know about Fatima Sheikh. A woman who played an important part in the lives of Jyotirao and Savitribai, without whom they would not have implemented their ideas in the ways they did. Like many women social reformers, Fatima Sheikh has been ignored in history.  So little is known about her that even her birth anniversary is speculated and not confirmed. The question then arises, why are we not celebrating her and why is so little known about her?

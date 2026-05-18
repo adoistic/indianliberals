@@ -2,7 +2,11 @@
 id: "homi-modys-liberalism-pro-business-to-pro-market"
 title: "Homi Mody’s Liberalism: From Pro-Business to Pro-Market"
 pubDate: "2021-03-09T06:25:59Z"
-themes: []
+themes:
+  - "economic-freedom"
+  - "free-enterprise"
+  - "liberalism"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -91,6 +95,25 @@ related_thinkers:
   - v-k-krishna-menon
 
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "business-history"
+  - "constitutionalism"
+key_concepts:
+  - "bombay-mill-owners-association"
+  - "indian-merchants-chamber"
+  - "house-of-tatas"
+  - "functional-representation"
+  - "parsi-business"
+pull_quote: For Homi Mody, excessive regulation and increased outlays on planning posed a threat to economic freedom inherent in a democracy.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
+    - "uttar-pradesh"
 ---
 
 _For Homi Mody, excessive regulation and increased outlays on planning posed a threat to economic freedom inherent in a democracy. He would use the business organisations' platform to voice his criticism._On the ideological inclinations of Indian business houses in the colonial era, Political Scientist Stanley Kochanek makes an interesting generalisation. The Bombay-based business houses sought to cooperate with the British Raj while the Marwaris were mostly aligned with the Gandhian, nationalist Congress. The businessman cum politician Homi Mody fell in the former faction. Temperamentally liberal and a constitutionalist, Homi Mody straddled the public life in both colonial and Independent India as a member of two outsized minority groupings, _i.e. _big business and Parsis. Mody’s relative obscurity in all the flavours of the “idea of India” warrants a novel approach towards engaging with India’s past.

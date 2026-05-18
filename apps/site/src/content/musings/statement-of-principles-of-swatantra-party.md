@@ -2,7 +2,11 @@
 id: "statement-of-principles-of-swatantra-party"
 title: "Statement of the Principles of Swatantra Party"
 pubDate: "2021-06-04T12:56:17Z"
-themes: []
+themes:
+  - "economic-freedom"
+  - "free-enterprise"
+  - "liberalism"
+  - "private-enterprise"
 language: "en"
 needs_review: true
 draft: false
@@ -19,6 +23,20 @@ thinker_mentions:
 related_thinkers: 
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "swatantra-party"
+key_concepts:
+  - "swatantra-party"
+  - "individual-initiative"
+  - "minimum-state-interference"
+  - "trusteeship"
+  - "fundamental-rights"
+stance: argues-for
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The Statement of the Principles of the Swatantra Party was adopted at the Preparatory Convention held at Bombay on August l and 2, 1959. The 21 principles which were adopted laid the ground for a liberal and market-oriented approach to politics in India. The Swatantra Party was the first political party to openly endorse free enterprise and liberal values in India.1. The Swatantra Party is pledged to Social Justice and equality of opportunity for all people without distinction of religion, caste, occupation, or political affiliation.

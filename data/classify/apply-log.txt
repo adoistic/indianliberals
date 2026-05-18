@@ -1,0 +1,29 @@
+[a-resilient-soul-ramadevi-chowdhuri] kind 'profile' not in musings enum — left unset
+[a-rule-of-law-society] needs_review set: ['year-fallback-to-pubdate']
+[acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart] kind 'profile' not in musings enum — left unset
+[agricultural-policy-of-swatantra-party] pull_quote length 289 out of 50..250 — dropped
+[all-quiet-on-the-western-front-1930] needs_review set: ['year-fallback-to-pubdate', 'missing-required-fields:themes']
+[bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale] kind 'profile' not in musings enum — left unset
+[bureaucracy-liberal-administrator] needs_review set: ['year-fallback-to-pubdate']
+[caste-system-curse] pull_quote length 273 out of 50..250 — dropped
+[democracy-and-liberalism-contrasting-ideals] needs_review set: ['year-fallback-to-pubdate']
+[economic-reforms-in-india] pull_quote length 307 out of 50..250 — dropped
+[forests-to-forest-dwellers] needs_review set: ['year-fallback-to-pubdate']
+[khoj-january-february-2008] needs_review set: ['missing-required-fields:key_concepts,themes']
+[libertarian-mission] pull_quote length 449 out of 50..250 — dropped
+[minoo-masani-liberalism] pull_quote length 43 out of 50..250 — dropped
+[minoo-masani-old-liberalism-new-liberalism] pull_quote length 42 out of 50..250 — dropped
+[ram-mohan-roy-press-freedom] pull_quote length 409 out of 50..250 — dropped
+[soviet-dissidents-detente-and-liberty] pull_quote length 512 out of 50..250 — dropped
+[statement-of-principles-of-swatantra-party] pull_quote length 320 out of 50..250 — dropped
+[the-nation-by-rn-tagore] needs_review set: ['year-fallback-to-pubdate']
+[the-perils-of-a-welfare-state] pull_quote length 42 out of 50..250 — dropped
+[the-perils-of-a-welfare-state] needs_review set: ['year-fallback-to-pubdate']
+[the-retreat-from-socialism-2] pull_quote length 287 out of 50..250 — dropped
+[the-swatantra-economy-obstacles-and-challenges] pull_quote length 282 out of 50..250 — dropped
+[the-swatantra-manifesto] pull_quote length 281 out of 50..250 — dropped
+[the-three-meanings-of-secularism] pull_quote length 254 out of 50..250 — dropped
+[voltaire-on-trade] pull_quote length 448 out of 50..250 — dropped
+[voltaire-on-trade] needs_review set: ['year-fallback-to-pubdate']
+[b-r-shenoy-indias-first-neoliberal] pull_quote length 281 out of 50..250 — dropped
+[indian-liberals-essay-contest-results] needs_review set: ['missing-required-fields:themes']

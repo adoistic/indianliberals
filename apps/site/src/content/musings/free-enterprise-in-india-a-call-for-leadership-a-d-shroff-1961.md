@@ -2,7 +2,11 @@
 id: "free-enterprise-in-india-a-call-for-leadership-a-d-shroff-1961"
 title: "Free Enterprise in India: A Call for Leadership - A.D. Shroff, 1961"
 pubDate: "2024-06-04T16:49:16Z"
-themes: []
+themes:
+  - "economic-planning"
+  - "free-enterprise"
+  - "nationalisation"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +29,19 @@ thinker_mentions:
 related_thinkers: 
   - jayaprakash-narayan
   - wilhelm-ropke
-
+proposed_themes: []
+key_concepts:
+  - "third-five-year-plan"
+  - "economic-bureaucracy"
+  - "doctrinaire-socialism"
+  - "forum-of-free-enterprise"
+pull_quote: An atmosphere darkened by slogans of socialism is getting brighter today, thanks to the dissemination of knowledge on economics of free enterprise which is nothing but application of common sense to problems of production, distribution and exchange.
+stance: argues-for
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Ardeshir Darabshaw Shroff (1899-1965) was an eminent industrialist, banker, and economist. He was one of the architects of free India’s banking and insurance business. Shroff was amongst the earliest proponents of free enterprise in India. In 1956, Shroff co-founded the Forum of Free Enterprise, a think-tank, as a means to counter the socialist tendencies of the Nehru government. _

@@ -2,7 +2,9 @@
 id: "freedom-firsts-resistance-to-indira-gandhis-emergency"
 title: "India's Nuclear Ambitions: Minoo Masani as a Liberal Peacenik"
 pubDate: "2021-10-18T09:49:12Z"
-themes: []
+themes:
+  - "liberalism"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -66,6 +68,25 @@ related_thinkers:
   - c-rajagopalachari
   - v-k-krishna-menon
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "disarmament"
+  - "foreign-policy"
+  - "nuclear-policy"
+key_concepts:
+  - "nuclear-disarmament"
+  - "swatantra-party"
+  - "test-ban"
+  - "atomic-energy"
+  - "balance-of-threat"
+pull_quote: From the time of Nehru laying the foundation of the atomic energy program, India as a nuclear power has come a long way now with its acceptance in the global nuclear regime.
+stance: argues-against
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "soviet-union"
+    - "united-states"
 ---
 
 The following essay explores the stance taken by Minoo Masani against India's nuclear ambitions. In doing so, Masani made a critical economic argument to deter Indian policymakers from focusing on nuclear weapons development at the time.From the time of Nehru laying the foundation of the atomic energy program, India as a nuclear power has come a long way now with its acceptance in the global nuclear regime. India’s path to the bomb and emergence as a responsible nuclear power has not been a straightforward one. Among other factors, the domestic political debate has played a crucial role in shaping India’s nuclear trajectory. 

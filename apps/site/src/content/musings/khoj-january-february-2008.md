@@ -6,6 +6,10 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+proposed_themes: []
+key_concepts: []
+kind: periodical-article
+period_window: post-reform
 ---
 
 Khoj : January - April, 2009

@@ -2,7 +2,10 @@
 id: "v-s-srinivasa-sastri"
 title: "V S Srinivasa Sastri: Diplomat, Politician, Liberal"
 pubDate: "2021-09-22T05:17:41Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -50,6 +53,24 @@ related_thinkers:
   - gopal-krishna-gokhale
   - mahatma-gandhi
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "diplomacy"
+  - "moderate-nationalism"
+key_concepts:
+  - "servants-of-india-society"
+  - "dominion-status"
+  - "lucknow-pact"
+  - "self-determination"
+  - "moderate-liberalism"
+pull_quote: We want political power; let there be no mistake about it.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "madras-presidency"
+    - "tamil-nadu"
 ---
 
 Sastri’s liberalism was evident in both his role as a politician and diplomat. He asserted the demand for equal rights and partnership under the Raj, not subordination: “We want political power; let there be no mistake about it. We want the right to rule ourselves.”Mahatma Gandhi is among that rare category of politicians which defy the conventional ideological label of liberal, left, conservative, or anarchist. His long career of engagement with ideas drew inspiration from scores of writings. Yet, Indian liberals, in some measure, could claim pedigree over Gandhi. His political activism in India was preceded by a year-long tour of the country, undertaken on the advice of Gopal Krishna Gokhale, the Poona-based leading liberal patriot. As is widely known, Gandhi accepted Gokhale as his political guru.

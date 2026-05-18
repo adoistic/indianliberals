@@ -2,7 +2,10 @@
 id: "agricultural-policy-of-swatantra-party"
 title: "Agricultural Policy of Swatantra Party"
 pubDate: "2020-11-16T09:04:03Z"
-themes: []
+themes:
+  - "agriculture"
+  - "economic-policy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -49,6 +52,22 @@ related_thinkers:
   - minoo-masani
   - c-rajagopalachari
 source_channel: "so-musings"
+proposed_themes:
+  - "land-reform"
+  - "swatantra-party"
+key_concepts:
+  - "land-ceilings"
+  - "cooperative-farming"
+  - "nagpur-resolution"
+  - "swatantra-party"
+  - "state-intervention"
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places:
+    - "uttar-pradesh"
 ---
 
 With regard to agriculture as with regard to industrial and other aspects of the economy, libertarian literature has a great contribution to make to the clarification of issues and the defence of liberty.

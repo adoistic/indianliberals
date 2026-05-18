@@ -2,12 +2,30 @@
 id: "crushing-burden-of-taxation-nani-palkhivala-1958"
 title: "Crushing Burden of Taxation - Nani Palkhivala"
 pubDate: "2024-09-09T16:19:57Z"
-themes: []
+themes:
+  - "fiscal-policy"
+  - "rule-of-law"
+  - "taxation"
 language: "en"
 needs_review: true
 draft: false
 author: "nani-palkhivala"
 source_channel: "lectures"
+proposed_themes:
+  - "executive-overreach"
+key_concepts:
+  - "double-taxation"
+  - "wealth-tax"
+  - "executive-discretion"
+  - "tax-evasion"
+  - "gift-tax-act"
+pull_quote: When laws fail to account for the spirit of justice and fairness, they lose their moral legitimacy and encourage widespread evasion.
+stance: argues-against
+kind: pamphlet-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _**The following excerpt is taken from Nani Palkhivala's essay, "Crushing Burden of Taxation," published by the Forum of Free Enterprise in 1958. In this piece, Palkhivala critiques India's tax laws and the unchecked power of the Executive, advocating for a balanced approach that promotes fairness, equity, and economic growth.**_

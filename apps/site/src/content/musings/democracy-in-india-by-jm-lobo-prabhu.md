@@ -2,7 +2,11 @@
 id: "democracy-in-india-by-jm-lobo-prabhu"
 title: "Democracy in India"
 pubDate: "2023-06-21T05:41:44Z"
-themes: []
+themes:
+  - "democracy"
+  - "governance"
+  - "rule-of-law"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
@@ -10,6 +14,22 @@ author: "j-m-lobo-prabhu"
 thinker_mentions: []
 related_thinkers: []
 source_channel: "so-musings"
+proposed_themes:
+  - "centralisation"
+  - "constitutionalism"
+key_concepts:
+  - "rule-of-law"
+  - "parliamentary-sovereignty"
+  - "directive-principles"
+  - "centralisation"
+  - "act-of-1935"
+pull_quote: In the name of democracy, the country now lies bound with restrictions which even the British did not dare impose.
+stance: argues-against
+kind: periodical-article
+period_window: nehruvian-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The musing shared below is a 1959 winning essay in a writing competition organised by the Forum of Free Enterprise. The essay, authored by J M Lobo Prabhu, MP Lok Sabha (Udupi) 67' traces the development of the Indian constitution factoring in the various influences that have played a role in its making. It critically analyses the contradictions inherent in the Constitution and how it has played out in the working of the Indian democracy. The essay also emphasizes the excessive powers the Constitution has vested in the central government. It elucidates the role of Directive Principles in the Constitution and the implications of the socialist elements present in it. The essay argues that basic principles of democracy, such as the rule of law and sovereignty of the Parliament, are contradicted by elements in the Constitution itself. _

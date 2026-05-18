@@ -2,11 +2,31 @@
 id: "war-between-opposing-ideologies"
 title: "War Between Opposing Ideologies"
 pubDate: "2020-11-16T06:38:01Z"
-themes: []
+themes:
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "cold-war"
+  - "foreign-policy"
+  - "non-alignment"
+key_concepts:
+  - "sino-indian-war"
+  - "non-alignment"
+  - "communism-vs-democracy"
+  - "afro-asian-bloc"
+  - "tunku-abdul-rahman"
+pull_quote: The founding father of Malaysia, Mr Tunku Abdul Rahman saw the border war as a struggle between communism and democracy.
+stance: argues-for
+kind: speech-excerpt
+period_window: nehruvian-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
 ---
 
 The founding father of Malaysia, Mr Tunku Abdul Rahman saw the border war as a struggle between communism and democracy. According to him, Chinese aggression towards a large democracy like India was an exercise in humiliating India. The humiliation was meant to serve as a lesson for other Asian countries.

@@ -2,7 +2,10 @@
 id: "fundamental-rights-protection-against-tyranny"
 title: "Fundamental Rights: Our Protection Against Tyranny"
 pubDate: "2022-08-23T08:38:06Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -33,6 +36,22 @@ related_thinkers:
   - jawaharlal-nehru
   - m-c-setalvad
 source_channel: "so-musings"
+proposed_themes:
+  - "constitutional-rights"
+  - "referendum"
+key_concepts:
+  - "fundamental-rights"
+  - "article-368"
+  - "referendum"
+  - "constitutional-amendment"
+  - "swatantra-party"
+pull_quote: The Constitution of a country is its supreme fundamental law.
+stance: argues-for
+kind: speech-excerpt
+period_window: late-license-raj
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 In a 1967 Judgement, the Supreme Court declared that it is not within the powers of the Parliament to take away Fundamental Rights under Part III of the Constitution. In April 1967, MP (Parja Party) Nath Pai proposed a Bill securing such powers for the Parliament. In September, MP (Independent) Sriraj Meghrajji proposed a Bill (considered an amendment to Pai's Bill) provided that any amendment of the Fundamental Rights must be the subject of a Referendum. The following text covers Sriraj Meghrajji's justification for proposing a Bill that aims to amend Nath Pai's Bill. The text was originally published by the [Swatantra Party.](https://indianliberals.in/content/fundamental-rights/)Mr. Speaker, I share Shri Nath Pai's faith in the people of India and it is for this very reason that my amendment provides for a Referendum. 

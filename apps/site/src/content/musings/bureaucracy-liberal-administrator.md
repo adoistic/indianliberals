@@ -2,7 +2,10 @@
 id: "bureaucracy-liberal-administrator"
 title: "Bureaucracy and the Liberal Administrator"
 pubDate: "2024-04-21T23:37:53Z"
-themes: []
+themes:
+  - "governance"
+  - "liberalism"
+  - "public-sector"
 language: "en"
 needs_review: true
 draft: false
@@ -25,6 +28,22 @@ related_thinkers:
   - adam-smith
   - ludwig-von-mises
 source_channel: "so-musings"
+proposed_themes:
+  - "bureaucracy"
+  - "public-management"
+key_concepts:
+  - "new-public-management"
+  - "babudom"
+  - "liberal-administrator"
+  - "weberian-bureaucracy"
+  - "statism"
+pull_quote: Sauvik Chakraverti (1956-2014) was an award-winning columnist and author whose books, monographs and columns advanced the cause of libertarian movement in India.
+stance: argues-for
+kind: book-excerpt
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _Published by the Centre for Civil Society, a public policy think tank based out of New Delhi, _this excerpt has been borrowed from Sauvik Chakraverti's essay titled "New Public Management: Escape from Babudom". The essay builds a case for new public management as an escape from the statist clutches of Indian bureaucracy – starting with the attributes and importance of a liberal administrator, and the essence of bureaucracy – as written by Max Weber and Ludwig Von Mises.__

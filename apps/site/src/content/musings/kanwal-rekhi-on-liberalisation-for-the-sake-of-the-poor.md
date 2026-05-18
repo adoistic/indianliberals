@@ -2,12 +2,30 @@
 id: "kanwal-rekhi-on-liberalisation-for-the-sake-of-the-poor"
 title: "Kanwal Rekhi on Liberalisation for the Sake of the Poor"
 pubDate: "2020-11-16T10:07:58Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "free-markets"
 language: "en"
 needs_review: true
 draft: false
 author: "kanwal-rekhi"
 source_channel: "so-musings"
+proposed_themes:
+  - "labour-reform"
+  - "unorganised-sector"
+key_concepts:
+  - "liberalisation-of-elite"
+  - "labour-intensive-industries"
+  - "informal-economy"
+  - "job-creation"
+pull_quote: Economic Liberalisation in India, since 1991, has been by and large liberalisation of the elite, by the elite and for the elite.
+stance: argues-for
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 Spontaneous Order presents “Spontaneous Musings”, a section for tid-bits that inspire discussion and debate.

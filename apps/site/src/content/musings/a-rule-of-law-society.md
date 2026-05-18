@@ -2,7 +2,10 @@
 id: "a-rule-of-law-society"
 title: "A Rule of Law Society!"
 pubDate: "2020-11-16T09:20:36Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
@@ -33,6 +36,21 @@ related_thinkers:
   - jrd-tata
   - milton-friedman
 source_channel: "so-musings"
+proposed_themes:
+  - "property-rights"
+key_concepts:
+  - "private-property"
+  - "contracts"
+  - "torts"
+  - "spontaneous-order"
+  - "good-law"
+pull_quote: All that societal order requires is good law – which all the people understand, and which all the people respect and follow, knowing well that it is in their interest to do so.
+stance: argues-for
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 In the following article, Sauvik Chakraverti conceptualises how a ‘rule of law society’ can be achieved. A rule of law society is the one in which people instinctively follow the rules because it is in their interest to do so. Chakraverti explains three principles - private several property, contracts, and torts - which are essential to making good laws. He argues that societal order requires the formation of laws based on these principles, and for lawyers and judges to uphold them.

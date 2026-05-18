@@ -2,7 +2,10 @@
 id: "mithan-tata-lam"
 title: "Mithan Tata Lam – The Unexplored Life of an Indian Suffragist"
 pubDate: "2021-08-12T07:23:46Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "democracy"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -20,6 +23,25 @@ thinker_mentions:
         what_it_shows: identifies her pioneering legal achievement
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "feminism"
+  - "women-suffrage"
+key_concepts:
+  - "universal-suffrage"
+  - "womens-indian-association"
+  - "southborough-franchise-committee"
+  - "english-bar"
+  - "bombay-high-court"
+pull_quote: Indian suffragists had an immense role to play both in the nationalist struggle and the subsequent universal adult franchise.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bombay-presidency"
+    - "maharashtra"
+    - "united-kingdom"
 ---
 
 _Indian suffragists had an immense role to play both in the nationalist struggle and the subsequent universal adult franchise. One among them was Mithan Tata, one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court. _Unlike most large democracies, the Indian constitution has adopted universal suffrage from its inception. Indian suffragists deserve a significant share of the credit for this progressive cornerstone of independent India. Along with Madam Bhikaji Cama, Princess Sophia Duleep Singh, and Lolita Roy, Mithan Tata Lam too joined the women’s suffrage movement in British India.

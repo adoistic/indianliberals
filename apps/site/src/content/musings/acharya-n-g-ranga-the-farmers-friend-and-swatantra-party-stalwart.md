@@ -2,7 +2,10 @@
 id: "acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart"
 title: "Acharya N G Ranga: The Farmer’s Friend and Swatantra Party Stalwart"
 pubDate: "2023-11-15T12:24:03Z"
-themes: []
+themes:
+  - "agriculture"
+  - "democracy"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -66,6 +69,25 @@ related_thinkers:
   - minoo-masani
   - c-rajagopalachari
 source_channel: "so-musings"
+proposed_themes:
+  - "peasant-movement"
+  - "swatantra-party"
+key_concepts:
+  - "swatantra-party"
+  - "peasant-movement"
+  - "forced-collectivisation"
+  - "kisan-rights"
+  - "anti-socialism"
+pull_quote: He was a champion of Peasant rights and is considered the father of the peasant movement in India.
+stance: profiles
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places:
+    - "andhra-pradesh"
+    - "soviet-union"
+    - "tamil-nadu"
+    - "united-kingdom"
 ---
 
 _Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award. _

@@ -2,11 +2,29 @@
 id: "grievances-in-and-of-the-supreme-court"
 title: "Grievances in and of the Supreme Court"
 pubDate: "2020-11-16T10:06:11Z"
-themes: []
+themes:
+  - "civil-society"
+  - "governance"
+  - "rule-of-law"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "judicial-accountability"
+  - "judicial-reform"
+key_concepts:
+  - "chief-justice-of-india"
+  - "master-of-the-roster"
+  - "judicial-accountability"
+  - "right-to-information"
+pull_quote: A key takeaway from this fiasco is that there is no institutional mechanism in the judicial system to address the judges’ grievances.
+stance: analyzes
+kind: periodical-article
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 With the four senior judges of the Supreme Court publicly expressing their dissatisfaction with the Chief Justice of India, Vineet Bhalla reflects on the lack of an institutional grievance redressal mechanism in the Judiciary.

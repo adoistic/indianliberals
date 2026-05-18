@@ -2,11 +2,30 @@
 id: "obstacles-to-liberalisation-and-market-economy"
 title: "OBSTACLES TO LIBERALISATION AND MARKET ECONOMY"
 pubDate: "2022-07-21T18:45:41Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "free-markets"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes:
+  - "feudal-attitudes"
+  - "liberalisation"
+key_concepts:
+  - "status-vs-contract"
+  - "central-planning"
+  - "paternalistic-government"
+  - "feudal-attitudes"
+pull_quote: In the name of socialism, we ignored individual enterprise and looked to the state to provide the impetus for growth and removal of poverty.
+stance: argues-against
+kind: speech-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 The following text was originally delivered by Manu Shroff as the keynote address delivered at a seminar organised by the Project for Economic Education in November 1992. It was published by the [Forum of Free Enterprise](https://indianliberals.in/content/obstacles-to-liberalisation-and-market-economy-by-manu-shroff-february-14-1993/) in 1993. Shroff was an Indian economist, Editor of The Economic Times and Advisor to the Unit Trust of India (statutory public sector investment institution).If I have to speak on the theme of the seminar - viz. Obstacles to liberalisation, there could not be an easier task set for me. This is because there is, sadly, no dearth of obstacles to liberalisation and no elaborate search is necessary. The social, political, economic and administrative environment in our country has been bedevilled by feudal attitudes which are totally at variance with individualism and enterprise. Status rather than contract, by and large, determines human relations in our society. And this has been so as much in the traditional society ridden with the divisions of caste as in the modern educated segment which has inherited quite a bit of the British-style hierarchy deriving from lineage, school and civil service status. 

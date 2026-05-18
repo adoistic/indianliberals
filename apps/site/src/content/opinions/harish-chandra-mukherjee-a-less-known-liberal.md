@@ -2,7 +2,10 @@
 id: "harish-chandra-mukherjee-a-less-known-liberal"
 title: "Harish Chandra Mukherjee - A less known liberal"
 pubDate: "2020-10-24T17:14:01Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -48,6 +51,24 @@ related_thinkers:
   - ishwar-chandra-vidyasagar
   - raja-ram-mohan-roy
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "indigo-plantation"
+  - "journalism"
+key_concepts:
+  - "hindu-patriot"
+  - "british-india-association"
+  - "indigo-planters"
+  - "widow-remarriage"
+  - "revolt-of-1857"
+pull_quote: Using principles of natural justice and fairness, Harishchandra sharply criticized the profligate use of Indian resources and indiscriminate practices employed by planters in Bengal.
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bengal-presidency"
+    - "west-bengal"
 ---
 
 In the pre-independence era, two editors left an indelible mark on Indian journalism. Both of them were Bengalis. While one has been described as the father of Indian journalism, the other was a** **crusading commentator on events of his time. Ramachandra Chatterjee was the editor of The Modern Review (1907-1965) while Harish Chandra Mukherjee of Hindu Patriot (1853-84).

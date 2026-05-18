@@ -2,7 +2,9 @@
 id: "soviet-dissidents-detente-and-liberty"
 title: "Soviet Dissidents, Detente and Liberty"
 pubDate: "2020-11-16T07:25:33Z"
-themes: []
+themes:
+  - "civil-liberties"
+  - "liberalism"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +19,22 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "so-musings"
+proposed_themes:
+  - "cold-war"
+  - "human-rights"
+key_concepts:
+  - "soviet-dissidents"
+  - "helsinki-accords"
+  - "detente"
+  - "sakharov-solzhenitsyn"
+stance: argues-against
+kind: periodical-article
+period_window: late-license-raj
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "soviet-union"
+    - "united-states"
 ---
 
 The hub of the matter is that while Russia accepted an agenda for the Geneva talks which includes references to human rights and "better conditions for increased cultural and educational exchanges, for broader dissemination of information, for contacts between people, and for the solution of humanitarian problems," on the other hand it has insisted that co-operation should be "carried out on the basis of respect for the sovereignty, laws and customs of each country," a euphemism for its totalitarian system.

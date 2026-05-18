@@ -2,7 +2,9 @@
 id: "replace-the-gdp"
 title: "Replace the GDP"
 pubDate: "2020-11-16T07:29:01Z"
-themes: []
+themes:
+  - "economic-development"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -17,6 +19,23 @@ thinker_mentions:
 related_thinkers: 
   - adam-smith
 source_channel: "so-musings"
+proposed_themes:
+  - "gdp-critique"
+  - "well-being-measurement"
+key_concepts:
+  - "gdp"
+  - "national-accounts"
+  - "well-being"
+  - "care-economy"
+  - "ecological-cost"
+pull_quote: Adam Smith said that the final measure of an economy is the well-being of the people.
+stance: argues-against
+kind: periodical-article
+period_window: reform-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "united-states"
 ---
 
 Adam Smith said that the final measure of an economy is the well-being of the people. Yet this is the one question that the policy establishment never asks. The government studies the supposed means to that end in exacting detail. It can tell us how many televisions we buy, how much money the drug or record industry invests, practically down to the last penny.

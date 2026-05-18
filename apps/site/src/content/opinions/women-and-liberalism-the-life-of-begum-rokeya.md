@@ -2,7 +2,10 @@
 id: "women-and-liberalism-the-life-of-begum-rokeya"
 title: "Women and Liberalism : The Life of Begum Rokeya"
 pubDate: "2021-03-11T20:39:46Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -22,6 +25,25 @@ thinker_mentions:
         what_it_shows: establishes her canonical status in the Bengali reformist tradition
 related_thinkers: []
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "muslim-women-emancipation"
+  - "women-education"
+key_concepts:
+  - "sultanas-dream"
+  - "purdah"
+  - "bengali-renaissance"
+  - "muslim-women-education"
+  - "sakhawat-girls-school"
+pull_quote: Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition.
+stance: commemorates
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: regional
+  places:
+    - "bangladesh"
+    - "bengal-presidency"
+    - "west-bengal"
 ---
 
 _Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition._19th century Bengal is known for its renaissance movements that witnessed the awakening of intellectual currents in religious, social, cultural, economic, and artistic spheres. Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening. Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.

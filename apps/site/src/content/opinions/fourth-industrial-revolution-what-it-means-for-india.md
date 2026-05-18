@@ -2,12 +2,31 @@
 id: "fourth-industrial-revolution-what-it-means-for-india"
 title: "Fourth Industrial Revolution - What it Means for India?"
 pubDate: "2020-10-24T16:41:10Z"
-themes: []
+themes:
+  - "economic-development"
+  - "industrial-policy"
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "artificial-intelligence"
+  - "automation"
+  - "technology-policy"
+key_concepts:
+  - "fourth-industrial-revolution"
+  - "big-data"
+  - "internet-of-things"
+  - "blockchain"
+  - "artificial-intelligence"
+pull_quote: The newspapers are flooded with lopsided headlines of the super-intelligent robots replacing humans and taking up their jobs and ultimately their dignity and political control which has created an environment of confusion and fear.
+stance: analyzes
+kind: commentary
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 **Fourth Industrial Revolution - What it means for India?**

@@ -2,11 +2,31 @@
 id: "the-retreat-from-socialism"
 title: "The Retreat from Socialism"
 pubDate: "2020-11-16T10:00:05Z"
-themes: []
+themes:
+  - "economic-policy"
+  - "economic-reform"
+  - "free-markets"
+  - "socialism"
 language: "en"
 needs_review: true
 draft: false
 source_channel: "so-musings"
+proposed_themes: []
+key_concepts:
+  - "state-ownership"
+  - "command-economy"
+  - "soviet-agriculture"
+  - "carrot-and-stick"
+  - "retreat-from-socialism"
+pull_quote: The reason for the retreat from socialism is that societies that tried to base their economies on ownership by the State, economic equality and the replacement of the market by the command of the bureaucracy, simply did not work.
+stance: argues-against
+kind: lecture
+period_window: reform-era
+geographic_scope:
+  scale: international-comparison
+  places:
+    - "china"
+    - "soviet-union"
 ---
 
 This is an excerpt from B.K. Nehru's C.D. Deshmukh Memorial Lecture on 14th January 1990. Mr Nehru makes a case against the reactionary economic policies that India followed post-independence at its own cost. He highlights the reasons behind the global shift away from Socialism.

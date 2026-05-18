@@ -2,7 +2,10 @@
 id: "population-causes-prosperity"
 title: "Population Causes Prosperity"
 pubDate: "2023-04-06T12:40:45Z"
-themes: []
+themes:
+  - "economic-development"
+  - "free-markets"
+  - "political-economy"
 language: "en"
 needs_review: true
 draft: false
@@ -26,6 +29,22 @@ related_thinkers:
   - jawaharlal-nehru
   - mahatma-gandhi
 source_channel: "so-musings"
+proposed_themes:
+  - "population"
+  - "urbanisation"
+key_concepts:
+  - "homo-economicus"
+  - "population-and-prosperity"
+  - "wealth-creation"
+  - "urban-density"
+pull_quote: If humans are the only species capable of creating wealth, then how can more of their number cause poverty?
+stance: argues-against
+kind: book-excerpt
+period_window: reform-era
+geographic_scope:
+  scale: national
+  places:
+    - "delhi"
 ---
 
 _Published by the Centre for Civil Society, a public policy think tank based out of New Delhi, the excerpt below has been borrowed from the handbook “Free Your Mind: A Beginner’s Guide to Political Economy” by Sauvik Chakraverti in 2002._

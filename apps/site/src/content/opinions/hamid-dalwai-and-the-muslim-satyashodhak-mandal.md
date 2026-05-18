@@ -2,7 +2,10 @@
 id: "hamid-dalwai-and-the-muslim-satyashodhak-mandal"
 title: "Hamid Dalwai and the Muslim Satyashodhak Mandal"
 pubDate: "2021-06-24T08:52:54Z"
-themes: []
+themes:
+  - "civil-society"
+  - "liberalism"
+  - "social-reform"
 language: "en"
 needs_review: true
 draft: false
@@ -32,6 +35,22 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
 source_channel: "editorial-opinions"
+proposed_themes:
+  - "communalism"
+  - "muslim-reform"
+  - "secularism"
+key_concepts:
+  - "muslim-satyashodhak-mandal"
+  - "sarvadharma-samabhav"
+  - "reconquista"
+  - "communal-deadlock"
+pull_quote: "In Dalwai's words, 'India couldn't become Spain but she did not become Afghanistan either'."
+stance: profiles
+kind: profile
+period_window: post-reform
+geographic_scope:
+  scale: national
+  places: []
 ---
 
 _The Muslim Satyashodhak Mandal believed that the sanctimonious people from all major religions in India have escaped from accepting modern secularism in its truest sense and have resorted to a fraudulent term called ‘Sarvadharma samabhav’._In order to explain the true nature of communalism in India, Hamid Dalwai – a Marathi social reformer drew a parallel between India and Europe in his book _Rashtriya Ekatmata ani Bharatiya Musalman. _ He takes us back to the times when Arabs invaded Europe through Gibraltar in A.D 711. Arabs reached Tours (France) by A.D 732, in 21 years. After reaching Tours they steadily met with defeat and their campaign lost its steam. The Christians initiated a pushback, however, this process of winning back – Reconquista, took a long time. This process was over with the fall of Granada in 1492. This process of the Arab invasion and the Christian Reconquista indicates a complete cycle in the medieval history of Europe. The accounts of these invasions, conversions and even Christian inquisitions are well documented by European scholars.
