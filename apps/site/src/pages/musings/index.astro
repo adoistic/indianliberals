@@ -38,57 +38,65 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
     </div>
   </section>
 
-  {/* Filter toolbar */}
-  <div class="border-b border-(--color-border) bg-(--color-bg-muted) sticky top-[4.75rem] z-30 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg-muted)/85">
-    <div class="mx-auto max-w-3xl px-6 py-4 font-(family-name:--font-ui)">
-      <div class="flex items-baseline justify-between gap-4 mb-3 flex-wrap">
-        <div class="flex items-baseline gap-3">
-          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
-          <span class="text-sm text-(--color-fg-muted)">
-            Showing <strong id="m-counter-visible" class="text-(--color-fg)">{musings.length}</strong> of <strong>{musings.length}</strong>
-          </span>
-        </div>
-        <button id="m-reset" type="button" class="text-xs uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
-          Reset filters
+  <div class="mx-auto max-w-6xl px-6 py-12 md:grid md:grid-cols-[220px_1fr] md:gap-10">
+    {/* Filter sidebar */}
+    <aside
+      class="
+        font-(family-name:--font-ui) text-sm mb-8 md:mb-0
+        md:sticky md:top-[5.5rem] md:self-start
+        md:max-h-[calc(100vh-6rem)] md:overflow-y-auto md:pr-2
+      "
+      aria-label="Filter musings"
+    >
+      <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+        <button id="m-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+          Reset
         </button>
       </div>
+      <p class="text-xs text-(--color-fg-muted) mb-5">
+        Showing <strong id="m-counter-visible" class="text-(--color-fg)">{musings.length}</strong> of <strong>{musings.length}</strong>
+      </p>
 
-      <div class="space-y-2 text-sm">
-        <div class="flex flex-wrap gap-2 items-center">
-          <span class="text-xs uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16">Decade</span>
+      <div class="mb-5">
+        <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Decade</h3>
+        <ul class="flex flex-wrap gap-1.5">
           {decadeOptions.map(([d, n]) => (
-            <button
-              type="button"
-              data-filter-decade={String(d)}
-              class="m-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
-            >
-              {d}s <span class="text-(--color-fg-muted)">({n})</span>
-            </button>
+            <li>
+              <button
+                type="button"
+                data-filter-decade={String(d)}
+                class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+              >
+                {d}s <span class="text-(--color-fg-muted)">({n})</span>
+              </button>
+            </li>
           ))}
-        </div>
+        </ul>
+      </div>
 
-        {themeOptions.length > 0 && (
-          <details class="mt-1">
-            <summary class="text-xs uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none w-fit hover:text-(--color-fg)">Themes ▾</summary>
-            <div class="flex flex-wrap gap-2 items-center mt-2">
-              {themeOptions.map(([th, n]) => (
+      {themeOptions.length > 0 && (
+        <details class="mb-5" open>
+          <summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">Themes ▾</summary>
+          <ul class="flex flex-wrap gap-1.5">
+            {themeOptions.map(([th, n]) => (
+              <li>
                 <button
                   type="button"
                   data-filter-theme={th}
-                  class="m-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
                 >
                   {th.replace(/[_-]/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
                 </button>
-              ))}
-            </div>
-          </details>
-        )}
-      </div>
-    </div>
-  </div>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+    </aside>
 
-  <section>
-    <div class="mx-auto max-w-3xl px-6 py-12">
+    {/* Listing column */}
+    <div class="min-w-0">
       <ul class="divide-y divide-(--color-border)" id="m-list">
         {musings.map((m) => {
           const y = new Date(m.data.pubDate).getFullYear();
@@ -115,7 +123,7 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
         No musings match the current filter. Try removing some criteria.
       </p>
     </div>
-  </section>
+  </div>
 
   <script is:inline>
     (function () {

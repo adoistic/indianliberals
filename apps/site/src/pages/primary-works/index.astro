@@ -80,70 +80,83 @@ function themesAttr(w: (typeof works)[number]): string {
     </div>
   </section>
 
-  {/* Filter toolbar */}
-  <div class="border-b border-(--color-border) bg-(--color-bg-muted) sticky top-[4.75rem] z-30 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg-muted)/85" data-pagefind-ignore>
-    <div class="mx-auto max-w-5xl px-6 py-4 font-(family-name:--font-ui)">
-      <div class="flex items-baseline justify-between gap-4 mb-3 flex-wrap">
-        <div class="flex items-baseline gap-3">
-          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
-          <span id="pw-counter" class="text-sm text-(--color-fg-muted)">
-            Showing <strong id="pw-counter-visible" class="text-(--color-fg)">{totalCount}</strong> of <strong>{totalCount}</strong>
-          </span>
-        </div>
-        <button id="pw-reset" type="button" class="text-xs uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
-          Reset filters
+  <div class="mx-auto max-w-6xl px-6 py-12 md:grid md:grid-cols-[220px_1fr] md:gap-10" data-pagefind-ignore>
+    {/* Filter sidebar — sticky left rail on md+, stacks on top on mobile */}
+    <aside
+      class="
+        font-(family-name:--font-ui) text-sm mb-8 md:mb-0
+        md:sticky md:top-[5.5rem] md:self-start
+        md:max-h-[calc(100vh-6rem)] md:overflow-y-auto md:pr-2
+      "
+      aria-label="Filter primary works"
+    >
+      <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+        <button id="pw-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+          Reset
         </button>
       </div>
+      <p class="text-xs text-(--color-fg-muted) mb-5">
+        Showing <strong id="pw-counter-visible" class="text-(--color-fg)">{totalCount}</strong> of <strong>{totalCount}</strong>
+      </p>
 
-      <div class="space-y-2 text-sm">
-        <div class="flex flex-wrap gap-2 items-center">
-          <span class="text-xs uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16">Type</span>
+      <div class="mb-5">
+        <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Type</h3>
+        <ul class="flex flex-wrap gap-1.5">
           {typeOptions.map(([t, n]) => (
-            <button
-              type="button"
-              data-filter-type={t}
-              class="pw-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
-            >
-              {t.replace(/_/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
-            </button>
+            <li>
+              <button
+                type="button"
+                data-filter-type={t}
+                class="pw-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+              >
+                {t.replace(/_/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
+              </button>
+            </li>
           ))}
-        </div>
+        </ul>
+      </div>
 
-        <div class="flex flex-wrap gap-2 items-center">
-          <span class="text-xs uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16">Decade</span>
+      <div class="mb-5">
+        <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Decade</h3>
+        <ul class="flex flex-wrap gap-1.5">
           {decadeOptions.map((d) => (
-            <button
-              type="button"
-              data-filter-decade={String(d.start)}
-              class="pw-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
-            >
-              {d.label} <span class="text-(--color-fg-muted)">({d.count})</span>
-            </button>
+            <li>
+              <button
+                type="button"
+                data-filter-decade={String(d.start)}
+                class="pw-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+              >
+                {d.label} <span class="text-(--color-fg-muted)">({d.count})</span>
+              </button>
+            </li>
           ))}
-        </div>
+        </ul>
+      </div>
 
-        <details class="mt-1">
-          <summary class="text-xs uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none w-fit hover:text-(--color-fg)">Themes ▾</summary>
-          <div class="flex flex-wrap gap-2 items-center mt-2">
-            {themeOptions.map(([th, n]) => (
+      <details class="mb-5" open>
+        <summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">Themes ▾</summary>
+        <ul class="flex flex-wrap gap-1.5">
+          {themeOptions.map(([th, n]) => (
+            <li>
               <button
                 type="button"
                 data-filter-theme={th}
-                class="pw-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                class="pw-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
               >
                 {th.replace(/_/g, " ").replace(/-/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
               </button>
-            ))}
-          </div>
-        </details>
-      </div>
-    </div>
-  </div>
+            </li>
+          ))}
+        </ul>
+      </details>
+    </aside>
 
-  <div class="mx-auto max-w-5xl px-6 py-12" data-pagefind-ignore id="pw-list">
+    {/* Listing column */}
+    <div id="pw-list" class="min-w-0">
     {decades.map((d) => (
       <section class="mb-12 pw-section" data-decade={String(d.start)}>
-        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[10rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
+        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[4.75rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
           {d.label}
         </h2>
         <ul class="divide-y divide-(--color-border)">
@@ -186,6 +199,7 @@ function themesAttr(w: (typeof works)[number]): string {
     <p id="pw-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
       No works match the current filter. Try removing some criteria.
     </p>
+    </div>
   </div>
 
   <script is:inline>
