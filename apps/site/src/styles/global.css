@@ -99,15 +99,29 @@ h2 { font-size: clamp(1.6rem, 2.6vw, 2.1rem); line-height: 1.2; }
 h3 { font-size: clamp(1.25rem, 1.8vw, 1.45rem); line-height: 1.3; }
 h4 { font-size: 1.1rem; line-height: 1.35; }
 
+/* Default link styling — colour only, no underline.
+ * Chrome (nav, footer, cards, listings) gets just the colour cue; the
+ * underline is reserved for in-body prose where it distinguishes links
+ * from running text. See the `.prose-container a` rule below. */
 a {
   color: var(--color-forest-700);
+  text-decoration: none;
+  transition: color 180ms ease, text-decoration-color 180ms ease;
+}
+a:hover {
+  color: color-mix(in oklch, var(--color-forest-700) 75%, var(--color-fg) 25%);
+}
+
+/* Body prose: underline links inline so they're distinguishable from
+ * the surrounding text. Scoped to `.prose-container` — the standard
+ * wrapper around <Content /> on every Tier-A detail page. */
+.prose-container a {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   text-decoration-color: color-mix(in oklch, var(--color-forest-700) 35%, transparent);
-  transition: text-decoration-color 180ms ease;
 }
-a:hover {
+.prose-container a:hover {
   text-decoration-color: var(--color-forest-700);
 }
 
