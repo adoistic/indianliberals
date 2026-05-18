@@ -178,20 +178,21 @@ def claude_dispatch(system: str, user: str, timeout_s: int = 600) -> list[dict]:
         return []
 
     # Parse one JSON object per line — skip prose noise the LLM might emit.
-    resolutions: list[dict] = []
+    mentions: list[dict] = []
     for line in result.stdout.splitlines():
         line = line.strip()
         if not line or not line.startswith("{"):
             continue
         try:
-            resolutions.append(json.loads(line))
+            mentions.append(json.loads(line))
         except json.JSONDecodeError:
             pass
-    return resolutions
+    return mentions
 
 
 def already_resolved_entry_ids(path: Path) -> set[str]:
-    """Read existing ner-mentions.jsonl to support --resume."""
+    """Read existing ner-mentions.jsonl to support resume-by-default behaviour.
+    Returns the set of entry_ids that have at least one line emitted."""
     if not path.exists():
         return set()
     ids: set[str] = set()
@@ -240,6 +241,9 @@ def main() -> int:
     done = set() if args.redo else already_resolved_entry_ids(output_path)
     if not args.redo and output_path.exists():
         print(f"[resume] {len(done)} entries already resolved; will skip those")
+    # Resume key: input `id` == output `entry_id` (per system-ner.txt
+    # contract — the model echoes the input id verbatim into entry_id).
+    # So we filter the input list by `id` against the set of output `entry_id`s.
     pending = [e for e in entries if e["id"] not in done]
     print(f"[plan] pending: {len(pending)}, batches: {(len(pending) + args.batch_size - 1) // args.batch_size}")
 
