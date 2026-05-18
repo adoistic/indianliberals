@@ -1,0 +1,10 @@
+# Cloudflare Pages _redirects file.
+# Add 301/302 redirects from legacy WordPress URLs here as needed.
+# Format: <from-path>  <to-path>  <status>
+#
+# Examples (uncomment when DNS cutover happens):
+# /wp-content/uploads/*    /legacy-media/:splat    301
+# /?p=:id                  /                       301
+
+# Trailing-slash policy: Astro emits both /foo and /foo/index.html;
+# Cloudflare Pages auto-handles trailing slashes. No rules needed.
