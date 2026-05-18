@@ -57,6 +57,20 @@ const mentionSlugs = (m.data.thinker_mentions ?? [])
           </>
         )}
       </p>
+      {m.data.key_concepts && m.data.key_concepts.length > 0 && (
+        <ul class="flex flex-wrap gap-1.5 mt-3 not-prose">
+          {m.data.key_concepts.map((kc) => (
+            <li>
+              <a
+                href={`/musings/?key_concept=${encodeURIComponent(kc)}`}
+                class="inline-block px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg-muted) hover:border-(--color-fg) hover:text-(--color-fg) transition-colors font-(family-name:--font-ui)"
+              >
+                {kc.replace(/-/g, " ")}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
     </header>
     <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5">
       <Content />
