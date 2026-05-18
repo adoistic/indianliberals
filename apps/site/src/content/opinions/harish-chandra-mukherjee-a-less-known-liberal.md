@@ -2,8 +2,7 @@
 id: "harish-chandra-mukherjee-a-less-known-liberal"
 title: "Harish Chandra Mukherjee - A less known liberal"
 pubDate: "2020-10-24T17:14:01Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -48,7 +47,7 @@ related_thinkers:
   - dwarkanath-tagore
   - ishwar-chandra-vidyasagar
   - raja-ram-mohan-roy
-
+source_channel: "editorial-opinions"
 ---
 
 In the pre-independence era, two editors left an indelible mark on Indian journalism. Both of them were Bengalis. While one has been described as the father of Indian journalism, the other was a** **crusading commentator on events of his time. Ramachandra Chatterjee was the editor of The Modern Review (1907-1965) while Harish Chandra Mukherjee of Hindu Patriot (1853-84).

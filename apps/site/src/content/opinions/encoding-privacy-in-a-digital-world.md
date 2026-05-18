@@ -2,13 +2,13 @@
 id: "encoding-privacy-in-a-digital-world"
 title: "Encoding Privacy in a Digital World"
 pubDate: "2020-10-22T19:41:28Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 author: "shivani-a-tannu"
+source_channel: "editorial-opinions"
 ---
 
 _**Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say."**_

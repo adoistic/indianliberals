@@ -2,8 +2,7 @@
 id: "a-rule-of-law-society"
 title: "A Rule of Law Society!"
 pubDate: "2020-11-16T09:20:36Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -33,7 +32,7 @@ related_thinkers:
   - indira-gandhi
   - jrd-tata
   - milton-friedman
-
+source_channel: "so-musings"
 ---
 
 In the following article, Sauvik Chakraverti conceptualises how a ‘rule of law society’ can be achieved. A rule of law society is the one in which people instinctively follow the rules because it is in their interest to do so. Chakraverti explains three principles - private several property, contracts, and torts - which are essential to making good laws. He argues that societal order requires the formation of laws based on these principles, and for lawyers and judges to uphold them.

@@ -2,8 +2,7 @@
 id: "the-mission-of-libertarianism"
 title: "THE MISSION OF LIBERTARIANISM"
 pubDate: "2022-03-28T07:37:10Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -37,7 +36,7 @@ related_thinkers:
   - adam-smith
   - john-stuart-mill
   - karl-marx
-
+source_channel: "so-musings"
 ---
 
 The following essay by M.A. Venkata Rao has been taken from a 1958 issue of [The Indian Libertarian](https://indianliberals.in/content/the-indian-libertarian-october-1-1958/). While outlining the rise of Karl Marx's labour theory of value, the author revisits theories of labour rooted in individualism. He revisits the need for individualism and a limited State, highlighting his take on the libertarian vision for labour, land, production, and education.In Europe and America a  branch of the Enlightenment school of thought that prepared for and preceded the French Revolution developed a  strand of socialism. While the central stream of inspiration released by the Revolution guided thought and reconstruction into channels of national democracy under the lead of the new commercial and industrial classes (whom Karl Marx called the bourgeoisie) side streams of what may be roughly called "socialist thought" sprung up seeking to mould social institutions including property and State on equality and fraternity rather than on liberty.

@@ -2,8 +2,7 @@
 id: "gg-agarkar-revisiting-a-misunderstood-legacy"
 title: "G.G. Agarkar : Revisiting a Misunderstood Legacy"
 pubDate: "2021-03-24T07:49:43Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -59,7 +58,7 @@ related_thinkers:
   - john-stuart-mill
   - mahadev-govind-ranade
 
-
+source_channel: "editorial-opinions"
 ---
 
 _ Agarkar’s commentaries may be carrying a tinge of the 'enlightened despotism' that was the characteristic of philosophical radicals, but his works are still very useful to understand his diligence to expose common people to liberal-individualistic ideas._ Agarkar is most frequently remembered as a 'friend-turned-opponent' of Tilak. In Maharashtrian popular culture, Agarkar perhaps got this hyphenated identity that was seldom devoid of a reference to Tilak. I too got acquainted with Gopal Ganesh Agarkar through Tilak. Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess. Tilak's meteoric rise as a national leader was owing to his appealing and aggressive rhetoric. He had to tone it down as he widened his world-view after becoming a national leader. But Agarkar, his prison-mate of one time who later became a compeer, maintained his moderate and liberal positions all along.  

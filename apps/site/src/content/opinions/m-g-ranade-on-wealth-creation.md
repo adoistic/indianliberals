@@ -2,8 +2,7 @@
 id: "m-g-ranade-on-wealth-creation"
 title: "M. G. Ranade on Wealth Creation"
 pubDate: "2021-08-25T06:22:39Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -22,7 +21,7 @@ thinker_mentions:
       - quote: The genius of Ranade lies in the fact that he used data to substantiate his economic arguments.
         what_it_shows: "identifies Ranade's empirical method as a hallmark of his economic thinking"
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 _A scholar, judge, reformer and liberal, M.G. Ranade played a significant role in dissecting the root causes behind India's economic stagnation in the second half of the 19th century. This article analyses two speeches by Ranade that outline his vision for wealth creation and economic progress in India.     _The latter half of the 19th century was very significant for the growth of Liberalism in India. For the first time census data of a country as vast as India was released. This data revealed unseen patterns and some crucial facts about the country and its economy. The concern of economic decay in the country prompted the intellectuals and businessmen to meet on 8th December 1872, at Phadtare Wada in Pune. The main motivation behind the meeting was to contemplate new ways of creating wealth and a skilled workforce in India. Rao Bahadur M.G. Ranade was invited to discuss the implications of the political condition and the economic policy of the British Indian government. He delivered two speeches in the meeting which saw the attendance of the members of Pune Vyapar Company. The arguments in these speeches were later collated by Vinayak Balkrishna Damle and were verified by Justice Ranade himself. A booklet was published in August 1873 with the title ‘_Vyapar Sambandhi Vyakhyane_’ which translates to ‘Lectures on Trade’. 

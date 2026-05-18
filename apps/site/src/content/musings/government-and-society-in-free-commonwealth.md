@@ -2,8 +2,7 @@
 id: "government-and-society-in-free-commonwealth"
 title: "Government and Society in a Free and Prosperous Commonwealth"
 pubDate: "2023-04-19T16:24:19Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -44,7 +43,7 @@ related_thinkers:
   - amartya-sen
   - frederic-bastiat
   - john-locke
-
+source_channel: "so-musings"
 ---
 
 _The excerpt below is from the publication “Natural Order: Essays Exploring Civil Government & The Rule of Law”, authored by Sauvik Chakraverti. _

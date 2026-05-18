@@ -2,12 +2,12 @@
 id: "fourth-industrial-revolution-what-it-means-for-india"
 title: "Fourth Industrial Revolution - What it Means for India?"
 pubDate: "2020-10-24T16:41:10Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+source_channel: "editorial-opinions"
 ---
 
 **Fourth Industrial Revolution - What it means for India?**

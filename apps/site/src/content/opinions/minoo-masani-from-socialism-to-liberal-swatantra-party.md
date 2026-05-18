@@ -2,8 +2,7 @@
 id: "minoo-masani-from-socialism-to-liberal-swatantra-party"
 title: "Minoo Masani : From Socialism to Liberal Swatantra Party"
 pubDate: "2021-05-27T07:31:09Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -75,7 +74,7 @@ related_thinkers:
   - mahatma-gandhi
   - rabindranath-tagore
   - sardar-patel
-
+source_channel: "editorial-opinions"
 ---
 
 _In Masani, Indian liberals should find a more appropriate icon to emulate. Rajaji, after all, was a self-identified conservative rooted in his Hindu identity. Minoo Masani, in contrast, drew his ideas from the West to shape liberal India._The forgotten politician Minoo Masani’s illustrious public career was an exercise in collaboration and confrontation with the other leading Indian nationalist figures. Himself one of the founding fathers of modern India, Minoo was both a nationalist and an internationalist in his intellectual pursuits.

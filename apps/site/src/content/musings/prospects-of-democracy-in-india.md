@@ -2,8 +2,7 @@
 id: "prospects-of-democracy-in-india"
 title: "Prospects of Democracy in India"
 pubDate: "2023-01-11T11:21:15Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - rajendra-prasad
-
+source_channel: "so-musings"
 ---
 
 _Published in the June 1961 issue of Freedom First magazine, author SP Aiyar makes a case for the evolution of democratic ideals and institutions in India. The introduction of Montagu-Chelmsford reforms ensured that India and its leaders were trained in the democratic system, unlike the future of some other colonies in the world. He lauds the leaders of independent India for trusting and consolidating the democratic system through the 1951 general election._

@@ -2,8 +2,7 @@
 id: "piloo-mody-swatantra-witty-parliamentarian"
 title: "Piloo Mody: Swatantra’s Witty Parliamentarian"
 pubDate: "2021-01-19T10:41:14Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -44,7 +43,7 @@ related_thinkers:
   - c-rajagopalachari
   - homi-mody
   - minoo-masani
-
+source_channel: "editorial-opinions"
 ---
 
 _An architect by training and the son of venerable Parsi entrepreneur Homi Mody, Piloo also had a long political career as a parliamentarian_“[I am a CIA Agent](https://www.outlookindia.com/magazine/story/no-aliens-under-our-beds/238178/),” read the placard on a politician in the premises of the Indian Parliament on one fine day in the 1970s. The pronouncement was a jibe at Indira Gandhi’s cynical approach towards her opponents. She would dub politicians the agents of US imperialism who sought to curtail her pro-people agenda. At the receiving end of her populist demagoguery were often the members of the Swatantra Party. And understandably so, because their eloquent advocacy of markets and liberalism had created consternation for the failed socialist government. The witty politician in the act was Piloo Mody. With a recourse to placard humour, he blunted the jingoistic politics of Indira Gandhi.

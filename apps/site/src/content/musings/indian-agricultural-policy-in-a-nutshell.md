@@ -2,11 +2,11 @@
 id: "indian-agricultural-policy-in-a-nutshell"
 title: "Indian agricultural policy in a nutshell"
 pubDate: "2023-12-20T16:49:31Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 _The following is an article written by Farmer Leader Mr. Sharad Joshi in Down to Earth in 2012. Joshi founded the Shetkari Sanghatana, a non-political union of farmers formed to secure ‘Freedom of access to markets and technology,’ which later emerged as one of the largest farm groups in India. He was also the founder of the largest organization of rural women, Shetkari Mahila Aghadi, celebrated for its work for women’s property rights. _

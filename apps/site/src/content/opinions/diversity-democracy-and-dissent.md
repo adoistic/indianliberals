@@ -2,8 +2,7 @@
 id: "diversity-democracy-and-dissent"
 title: "Diversity, Democracy, and Dissent"
 pubDate: "2020-10-24T16:59:53Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - mahatma-gandhi
-
+source_channel: "editorial-opinions"
 ---
 
 **DIVERSITY, DEMOCRACY AND DISSENT**

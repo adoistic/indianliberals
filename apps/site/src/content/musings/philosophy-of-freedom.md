@@ -2,11 +2,11 @@
 id: "philosophy-of-freedom"
 title: "Philosophy of Freedom"
 pubDate: "2021-04-23T08:43:27Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 _Published in Freedom First Magazine 1955, the following article by Mr. M.B Shah has timeless relevance to issues surrounding the idea of freedom, the position of an individual and the challenges of totalitarianism which the world faces in various forms. The author attempts to bridge the gap between positive and negative freedom while recognizing the sovereignty of the individual. _The function of philosophy is to find out the fundamental postulates from which a particular system of thought or values is derived. The task of the philosophy of freedom is to explain the basis on which the value of freedom is founded. In nature itself there is neither freedom nor bondage. Freedom is a human value.

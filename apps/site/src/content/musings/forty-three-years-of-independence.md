@@ -2,8 +2,7 @@
 id: "forty-three-years-of-independence"
 title: "Forty-Three Years of Independence"
 pubDate: "2022-08-03T06:01:05Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -51,7 +50,7 @@ related_thinkers:
   - john-kenneth-galbraith
   - mahatma-gandhi
   - ralph-waldo-emerson
-
+source_channel: "so-musings"
 ---
 
 The following text is based on the Jawaharlal Nehru Memorial Lecture delivered by Nani Palkhivala at Trinity College, Cambridge, on 7th November 1990. At 43 years of independence, the author analyses India as a democracy, an economy, a united nation. Palkhivala was an Indian jurist, liberal economist and the President of the Forum of Free Enterprise (at the time).

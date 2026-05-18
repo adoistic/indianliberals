@@ -2,11 +2,11 @@
 id: "post-reform-labour-and-employment-issues-liberal-budget"
 title: "Post Reform Labour and Employment Issues - The Liberal Budget"
 pubDate: "2024-07-01T14:36:07Z"
-themes: 
-  - "indian-liberal-group-periodicals"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "indian-liberal-group"
 ---
 
 _The following musing is taken from ‘_**_The Liberal Budget_**_’ published by the _**_Indian Liberal Group_**_ for the year 2007-08, titled ‘_[**_Taking Reforms to the Poor_**](https://indianliberals.in/indian-liberal-group/liberal-budget-reforms-for-poor.pdf)_’. The text reproduced below is the introduction of its third chapter on _**_Post Reform Labour and Employment Issues_**_._

@@ -2,11 +2,11 @@
 id: "constitution-and-the-common-man"
 title: "Constitution And The Common Man"
 pubDate: "2022-11-23T00:00:35Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 _This article was published in the February 1971 issue of Freedom First and is an excerpt from a lecture delivered in Bombay. At the time, Right to Property was still a Fundamental Right but was constantly being undermined by our legislators. An eminent jurist and economist, Palkhivala was one of the most fierce defenders of rule of law. You can read the original, unabridged version [here](http://freedomfirst.in/uploads/issues/pdf/225.pdf).__ _India has never known true democratic freedom in its entire history except during the last 23 years. If Plato’s dictum regarding political evolution is correct, our newly won freedom will have to be zealously guarded if it is not to be supplanted by dictatorship. In a nascent republic where freedom is not bred in the bones of the people, the danger of dictatorship is always vastly greater than in democracies which are centuries old.

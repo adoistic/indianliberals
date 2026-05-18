@@ -2,11 +2,11 @@
 id: "libertarian-happy-new-year"
 title: "We Wish You A Happy New Year!"
 pubDate: "2020-11-16T09:15:57Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 Libertarianism, with its limited government, sets a limit, both on the actions of the individual as well as the State. Liberty of one must not encroach on the like liberty of his fellow-being. Citizens of a State under libertarianism have full right to do as they please so long as they do not infringe on the like rights of their fellow-beings. Under libertarianism, the State is not allowed to become the industrialist, the trader, the transporter, the educationist, the ethical preacher, the "do-gooder".

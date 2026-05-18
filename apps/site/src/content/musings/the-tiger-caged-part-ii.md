@@ -2,8 +2,7 @@
 id: "the-tiger-caged-part-ii"
 title: "The Tiger Caged – Part II"
 pubDate: "2020-11-16T07:35:48Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
 related_thinkers: 
   - manmohan-singh
   - minoo-masani
-
+source_channel: "so-musings"
 ---
 
 To stem the flood of imports that this regime might otherwise allow, the system has been bolstered in several other ways. Imports can be brought in only by an "actual user"; in other words, intermediaries are banned. As part of the domestic capacity licensing scheme, firms can be obliged to sign up for a "phased manufacturing programme": they are allowed to expand their factories, but only if they promise to reduce the import content of the goods they produce.

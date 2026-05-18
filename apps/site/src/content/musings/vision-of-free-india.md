@@ -2,8 +2,7 @@
 id: "vision-of-free-india"
 title: "Nani Palkhivala: Education, Leadership, and Vision of Free India"
 pubDate: "2022-10-05T19:28:59Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -67,7 +66,7 @@ related_thinkers:
   - mahatma-gandhi
   - nani-palkhivala
   - pherozeshah-mehta
-
+source_channel: "so-musings"
 ---
 
 The following text is taken from a 1998 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/education-leadership-and-vision-of-free-india-by-nani-a-palkhivala-february-20-1998/) This text includes two speeches by Nani Palkhivala - an acceptance speech delivered by him when he was conferred with the 1997 Dadabhai Naoroji Award and response speech Palkhivala to the University of Mumbai’s Special Convocation for conferment of Honorary Degree of Doctor of Laws (LL.D.) in 1998.

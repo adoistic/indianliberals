@@ -2,8 +2,7 @@
 id: "caste-system-curse"
 title: "Caste System, Greatest Curse of India"
 pubDate: "2020-11-16T08:50:35Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
 related_thinkers: 
   - bhimrao-ambedkar
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 It is up to the educated people to bring about an intellectual and cultural revolution in the country by propagating vigorously rational ideas about caste and exposing its evils on rational grounds and at the same time by stoutly refusing to countenance casteism and its mythical taboos and restrictions in any shape and form. This revolutionary work among the people coupled with political pressures exerted by the Government in a democratic way, on this institution of caste, will surely hasten its death.

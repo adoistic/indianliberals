@@ -2,8 +2,7 @@
 id: "dr-janaki-ammal"
 title: "Dr Janaki Ammal: India’s First Woman Botanist"
 pubDate: "2022-02-11T06:51:55Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -24,7 +23,7 @@ thinker_mentions:
       - quote: Janaki leaves her presence in the smell of Magnolia and her individuality in the sugar of Indian sugarcane
         what_it_shows: poetic summation of her enduring legacy in both horticulture and Indian agriculture
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 The following essay celebrates the life and works of Indian botanist and cytogeneticist, Dr Janaki Ammal. A brilliant scientist and often the only woman in a room full of men, Dr Janaki was awarded the Padma Shri in 1977.At a time where the country focuses on the importance of women’s education and employment, Edavaleth Kakkat Janaki Ammal, a botanist and cytogeneticist, best known for putting sweetness in India’s sugarcane varieties through her scientific methods, remains unknown outside of academia. 

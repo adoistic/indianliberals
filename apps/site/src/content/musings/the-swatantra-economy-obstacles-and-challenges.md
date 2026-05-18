@@ -2,8 +2,7 @@
 id: "the-swatantra-economy-obstacles-and-challenges"
 title: "The Swatantra Economy : Obstacles and Challenges"
 pubDate: "2021-03-25T12:56:55Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -27,7 +26,7 @@ thinker_mentions:
 related_thinkers: 
   - c-rajagopalachari
   - minoo-masani
-
+source_channel: "so-musings"
 ---
 
 _The following piece was originally published in the October 1994 edition of the [Freedom First Magazine.](http://www.freedomfirst.in/issue/issue.aspx?issue=423) It contains important excerpts from the speech of Prof. Gangadhar Gadgil who was invited to deliver the Rajaji Birthday Lecture in 1994, by the Rajaji Foundation. _Prof. Gangadhar Gadgil delivered this year's. Rajaji Birthday Lecture. The subject: "The Swatantra Economy - Obstacles and Challenges". Referring to the new economic policy, Prof. Gadgil observed: "Even five years ago, it seemed impossible that such far-reaching changes in our economic policy and system would take place so soon and on such a scale. But the seemingly impossible appears to be taking place. Rajaji and those like Minoo Masani who shared his views stand vindicated. A Swatantra economy is enlarging and is taking shape." 

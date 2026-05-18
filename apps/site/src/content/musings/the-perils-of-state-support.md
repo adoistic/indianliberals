@@ -2,11 +2,11 @@
 id: "the-perils-of-state-support"
 title: "The Perils of State Support"
 pubDate: "2020-11-16T07:12:42Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 Plato the first philosopher-statesman had no compunction in accepting the fact that it was the business of the rulers to lie. In the Republic Plato wrote: "it is the business of the rulers of the city if it is anybody's business to tell lies, deceiving both its enemies and its own citizens for the benefit of the city." He urges that these are useful only as medicine, but the ruler of the state must not behave like some of those ordinary doctors who have no courage to administer strong medicines. He must be a more courageous man since he must be determined to administer a great many lies and deceptions - of course for the benefit of the ruled. In this sense, all modern rulers and politicians are 'Platonists.'

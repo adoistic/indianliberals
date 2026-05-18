@@ -2,15 +2,14 @@
 id: "the-imagined-democracy-in-india"
 title: "The Imagined Democracy in India"
 pubDate: "2020-10-24T17:09:11Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 thinker_mentions: []
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 **THE IMAGINED DEMOCRACY IN INDIA: A DEMOCRACY MINUS DISSENT?**

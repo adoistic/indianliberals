@@ -2,12 +2,12 @@
 id: "the-swatantra-manifesto"
 title: "The Swatantra Manifesto"
 pubDate: "2021-08-27T09:17:42Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "g-n-lawande"
+source_channel: "so-musings"
 ---
 
 _Produced below is an essay by Prof. G.N. Lawande, published in a 1961 edition of_[_The Indian Libertarian._](https://indianliberals.in/content/the-indian-libertarian-december-15-1961/)_ The essay dissects the forward-looking, reform-oriented manifesto of the Swatantra Party that argued against statist policies of the time. _The two year old party, namely, the Swatantra Party has just released its election manifesto to the press with a clear cut programme. What distinguishes it from other parties is that it makes no tall promises to the people in spite of the fact that its leaders are fully aware that there is little chance of its being voted to power. It will be welcomed by the intelligentsia of the Country because it is based on certain objectives and policies for which it will work, if given the opportunity. It is a challenge to the ruling party who by the acts of commission and omission and with a rule of dictatorship in the name of democracy has brought about misery, suffering and hardship to the people. In the preindependence era miseries and hardships were attributed to the British rule and it was expected that our national leaders would set the matter right but now the people have realised that the sufferings of the preindependence era were more enjoyable than the present ones. The British at least had some ideals and principles which are thrown to the wind by the present rulers. 

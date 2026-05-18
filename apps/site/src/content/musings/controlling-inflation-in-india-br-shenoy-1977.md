@@ -2,9 +2,7 @@
 id: "controlling-inflation-in-india-br-shenoy-1977"
 title: "Controlling Inflation in India - BR Shenoy"
 pubDate: "2024-10-28T14:10:29Z"
-themes: 
-  - "so-musings"
-  - "forum-of-free-enterprise-periodicals"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -19,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - jrd-tata
-
+source_channel: "so-musings"
 ---
 
 _This musing is an excerpt from BR Shenoy’s essay “Controlling Inflation in India” published by the Forum of Free Enterprise in their booklet titled “The Basic Truth About Inflation”. The essay focuses on the resolution of separation of official claims and market-based observations. The article emphasizes the strategies that needed to be adopted in controlling inflation through the review of how the trends started taking place.   _

@@ -2,12 +2,12 @@
 id: "what-makes-japan-tick"
 title: "WHAT MAKES JAPAN TICK: SOME LESSONS FOR INDIA"
 pubDate: "2021-12-10T10:36:12Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "minoo-shroff"
+source_channel: "so-musings"
 ---
 
 _The following work was published as a [booklet](https://indianliberals.in/content/what-makes-japan-tick-some-lessons-for-india-by-minoo-r-shroff-october-15-1988/) in 1988 by the Forum of Free Enterprise. Authored by Minoo R Shroff, the booklet discusses the historical development in industrial and technology spaces in Japan. Outlining Japan's harmonious employer-employee relationships and government-market business relationship, the author focuses on some key learning areas for India. _Japan is one of the oldest states dating back to the later days of the Roman Empire, well before many of the countries of Europe came into existence. In fact, the power of the Court extended as far as the southern part of Korean peninsular in the fourth century. 

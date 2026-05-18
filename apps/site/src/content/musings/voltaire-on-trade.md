@@ -2,12 +2,12 @@
 id: "voltaire-on-trade"
 title: "Voltaire On Trade"
 pubDate: "2020-11-16T10:04:04Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "voltaire"
+source_channel: "so-musings"
 ---
 
 The following is an excerpt from Voltaire’s essay “On Trade” from Letters Concerning the English Nation, a key work from the Enlightenment period. Known for his sharp wit, the observations of the satirical polemicist are just as provocative and relevant in the 21st century as they were in the 18th.

@@ -2,8 +2,7 @@
 id: "is-there-a-middle-way-dr-fredie-a-mehta"
 title: "Is There A Middle Way? - Dr F. A. Mehta"
 pubDate: "2021-08-06T08:19:40Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -34,7 +33,7 @@ related_thinkers:
   - adam-smith
   - bernard-shaw
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 _Produced below is a booklet by Dr F. A. Mehta, published in January 1995 by the [Forum of Free Enterprise.](https://indianliberals.in/content/is-there-a-middle-way-by-dr-f-a-mehta-january-15-1995/)  In the booklet, Mehta explores the possibility of a "Middle Way" between capitalism and socialism, between efficiency and equity. _The question that I propose to answer and elaborate upon is: Is there a Middle Way between Capitalism and Socialism, between the Price Mechanism and Planning, between Efficiency and Equity? The question is simple, so simple as to be denounced superficial to a point of being superfluous. The spiritual heritage of mankind has long advocated the virtues of moderation. Lord Zarathushtra expressly insisted on moderation as one of the supreme virtues of the Good Life; Lord Buddha dwelt at length on the virtues of the Middle Path; and Confucious insisted that life must be a mixture of the positive and the negative. Every calamity has in it the seeds of an opportunity and every great fortune the seeds of a collapse. The Middle Path, therefore, is almost spiritually ordained. 

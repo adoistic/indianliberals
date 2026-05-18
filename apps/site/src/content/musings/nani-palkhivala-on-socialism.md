@@ -2,8 +2,7 @@
 id: "nani-palkhivala-on-socialism"
 title: "N. A. Palkhivala's Views on Socialism"
 pubDate: "2020-12-10T18:17:53Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -26,7 +25,7 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
   - t-t-krishnamachari
-
+source_channel: "so-musings"
 ---
 
 The following is an article published on March 10, 1966  in Forum of Free Enterprise's booklet titled "Is Socialism Outdated?" The author Mr. Nani Palkhivala, in this article on "The Shells of Socialism", discusses various aspects pertaining to socialism and State control.

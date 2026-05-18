@@ -2,8 +2,7 @@
 id: "towards-party-less-democracy"
 title: "Towards Party-less Democracy"
 pubDate: "2021-04-15T19:22:06Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -29,7 +28,7 @@ thinker_mentions:
 related_thinkers: 
   - jayaprakash-narayan
   - m-n-roy
-
+source_channel: "so-musings"
 ---
 
 _The issues plaguing our electoral system have much to do with the tyranny of political parties and any step towards reforming the system on this path is a welcome. The following article was written in February 1961 and published in the Freedom First magazine. It challenged the popular notion of multi-party democracy. The author M.A. Venkata Rao discussed the modalities of a party-less democracy and proposed structural adjustments.  _Distressed by the Himalayan evils that have corrupted public life and administration during these years of self-rule, thoughtful people are suggesting a form of parliamentary democracy without the party system. The late Mr M. N. Roy had worked out the idea in some detail. And now Mr. Jayaprakash Narayan is mobilising public opinion by means of seminars and the circulation of concrete proposals among uncommitted thinkers.

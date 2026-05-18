@@ -2,8 +2,7 @@
 id: "planning-by-minoo-masani-1945"
 title: "Planning by Minoo Masani"
 pubDate: "2023-12-21T11:52:59Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - abraham-lincoln
-
+source_channel: "so-musings"
 ---
 
 _The following piece on 'Planning' is taken from Minoo Masani at 90 published by Freedom First in 1995. This article written by Minoo Masani in 1945 takes the reader through various viewpoints on Central Planning and the role of the state. You can read the original article [here.](https://indianliberals.in/liberals/minoo-masani-at-90-freedom-first-1995.pdf)_

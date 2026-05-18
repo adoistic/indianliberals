@@ -2,8 +2,7 @@
 id: "shetkari-sangathana-history-farmers-movement-india"
 title: "The Shetkari Sangathana and the History of the Farmers' Movement in India"
 pubDate: "2024-05-27T10:10:57Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -19,7 +18,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - sharad-anantrao-joshi
-
+source_channel: "so-musings"
 ---
 
 _The farmers’ movement in India is as old as time itself. Throughout our independent history, there have been numerous struggles and demands for reforms by Indian farmers against all dispensations. The demand for reforming the agricultural sector, giving access to open markets and de-regulating the economic freedom of farmers has been time and again raised in the past decades._

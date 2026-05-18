@@ -2,8 +2,7 @@
 id: "in-name-of-freedom-the-us-india-alignment-in-cold-war"
 title: "The US-India Alignment in Cold War"
 pubDate: "2020-11-16T06:47:25Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -19,7 +18,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - jawaharlal-nehru
-
+source_channel: "so-musings"
 ---
 
 _The Indian defeat in the 1962 border war with China not only resulted in loss of territory, but also raised questions about the foreign policy conduct of India’s first Prime Minister Jawaharlal Nehru. _

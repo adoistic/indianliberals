@@ -2,8 +2,7 @@
 id: "gg-agarkar-modern-indian-liberal-and-reformer"
 title: "GG Agarkar- Modern Indian Liberal and Reformer"
 pubDate: "2020-10-24T10:15:43Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -90,7 +89,7 @@ related_thinkers:
   - mahadev-govind-ranade
   - pandita-ramabai
   - voltaire
-
+source_channel: "editorial-opinions"
 ---
 
 The modern liberal tradition in Maharashtra has seen many remarkable individuals furthering the cause of individual dignity and human freedom. The prominent figures include western-educated M G Ranade, P M Mehta, K T Telang; orientalist R G Bhandarkar; nationalist Bal Gangadhar Tilak; and moderate S N Banerjee, Dadabhai Naoroji and Gopal Krishna Gokhale. Among the modern liberal luminaries stands out Gopal Ganesh Agarkar, for his radical social reformism and emphasis on rationality.

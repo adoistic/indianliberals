@@ -2,8 +2,7 @@
 id: "gopal-ganesh-agarkar-and-the-vindication-of-womens-education"
 title: "Gopal Ganesh Agarkar and the Vindication of Women’s Education"
 pubDate: "2023-10-04T18:17:11Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -26,7 +25,7 @@ thinker_mentions:
 related_thinkers: 
   - bal-gangadhar-tilak
   - thomas-babington-macaulay
-
+source_channel: "so-musings"
 ---
 
 _In the face of opposition from several sections of the society, Agarkar held on to the liberal ideas of equality of opportunity, individual choice, individual freedom, and education for women. Agarkar’s treatment of the subject of women’s education was at once insightful, critical and persuasive._

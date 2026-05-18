@@ -2,8 +2,7 @@
 id: "making-indian-industry-globally-competitive"
 title: "Making Indian Industry Globally Competitive"
 pubDate: "2022-10-21T06:10:49Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -43,7 +42,7 @@ related_thinkers:
   - manmohan-singh
   - narasimha-rao
   - ralph-waldo-emerson
-
+source_channel: "so-musings"
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise.](https://indianliberals.in/liberals/making-indian-industry-globally-competitive-15-may-1995.pdf) Authored by Indian jurist and liberal economist Nani Palkhivala, the text is based on the 12th T. A. Pai Memorial Lecture delivered on 17th January 1995 and takes an approach towards understanding the mighty scope of Indian human resource in the coming years. 

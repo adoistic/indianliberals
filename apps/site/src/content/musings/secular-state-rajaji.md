@@ -2,8 +2,7 @@
 id: "secular-state-rajaji"
 title: "The Secular State"
 pubDate: "2020-11-16T09:18:01Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -26,7 +25,7 @@ thinker_mentions:
 related_thinkers: 
   - alexis-de-tocqueville
   - c-rajagopalachari
-
+source_channel: "so-musings"
 ---
 
 What the Indian Constitution-makers aimed at was not a general indifference to religion but a tolerant and broadminded appreciation of all creeds and denominations and a respect for one another's religious beliefs and practices.

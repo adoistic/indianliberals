@@ -2,8 +2,7 @@
 id: "the-liberalism-of-ishwar-chandra-vidyasagar"
 title: "The Liberalism of Ishwar Chandra Vidyasagar"
 pubDate: "2021-07-26T08:14:22Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -40,7 +39,7 @@ thinker_mentions:
 related_thinkers: 
   - rabindranath-tagore
   - raja-ram-mohan-roy
-
+source_channel: "editorial-opinions"
 ---
 
 _An undeniable pioneer of Indian liberalism and modernity, Ishwar Chandra Vidyasagar  was a social reformer, writer, educationist, and feminist. His reformist legacy is rooted in his efforts to end child marriage and high-caste polygamy, and enable widow remarriage.    _Ishwar Chandra Vidyasagar’s many roles as an educationist, writer, social reformer, and feminist have rightly earned him the credential of being one of the early progenitors of Indian modernity. Underlying all these credentials of Vidyasagar, however, was his own brand of liberal humanism. While the modernising metropolitan West is considered to be the fertile ground for [liberal humanism](https://books.google.co.in/books?id=dWYyCwAAQBAJ&lpg=PA247&vq=liberal%20humanism&pg=PA247#v=snippet&q=liberal%20humanism&f=false) and indeed the colonizing mission brought these [newfound influences](https://www.cambridge.org/core/books/recovering-liberties/DFFAC6CCD37E1844C0425E6B8866E443) to the periphery of Indian society, Vidyasagar essentially embodied [practical humanism](https://books.google.co.in/books?id=QqtVC-IUu2QC&lpg=PT117&vq=practical%20humanism&pg=PT117#v=snippet&q=practical%20humanism&f=false).

@@ -2,8 +2,7 @@
 id: "anandibai-joshee"
 title: "Anandibai Joshee: First Indian Woman Doctor"
 pubDate: "2022-09-23T12:41:34Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
         what_it_shows: "the essay's concluding characterisation of her legacy as a liberal thinker in formation"
 related_thinkers: []
 
-
+source_channel: "editorial-opinions"
 ---
 
 The following essay revisits the interesting life of Anandibai Joshee. Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine.

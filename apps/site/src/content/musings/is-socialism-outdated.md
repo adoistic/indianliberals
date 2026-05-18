@@ -2,8 +2,7 @@
 id: "is-socialism-outdated"
 title: "Is Socialism Outdated?"
 pubDate: "2022-10-27T08:47:57Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -34,7 +33,7 @@ related_thinkers:
   - ashok-mehta
   - jawaharlal-nehru
   - t-t-krishnamachari
-
+source_channel: "so-musings"
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/is-socialism-outdated-n-a-palkhivala-mar10-1966.pdf) published on March 10, 1966. The first article, ‘The Shells of Socialism’ was authored by Nani A Palkhivala. It addresses the policies proposed by the then Union Minister for Planning. 

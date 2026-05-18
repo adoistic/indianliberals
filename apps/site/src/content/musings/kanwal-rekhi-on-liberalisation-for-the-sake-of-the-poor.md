@@ -2,12 +2,12 @@
 id: "kanwal-rekhi-on-liberalisation-for-the-sake-of-the-poor"
 title: "Kanwal Rekhi on Liberalisation for the Sake of the Poor"
 pubDate: "2020-11-16T10:07:58Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "kanwal-rekhi"
+source_channel: "so-musings"
 ---
 
 Spontaneous Order presents “Spontaneous Musings”, a section for tid-bits that inspire discussion and debate.

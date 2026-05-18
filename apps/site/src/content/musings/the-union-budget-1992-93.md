@@ -2,8 +2,7 @@
 id: "the-union-budget-1992-93"
 title: "THE UNION BUDGET 1992-93 by Nani Palkhivala"
 pubDate: "2022-02-02T09:41:33Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
 related_thinkers: 
   - manmohan-singh
   - nani-palkhivala
-
+source_channel: "so-musings"
 ---
 
 _Following is an excerpt from a March 1992 booklet, titled [The Union Budget 1992-93.](https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1992-93-by-na-palkhivala-march-3-1992.pdf) Authored by Indian jurist and liberal economist Nani A Palkhivala, the booklet was originally published Forum of Free Enterprise. In the booklet, Palkhivala critically examines India's first Union Budget post the 1991 liberalisation.  _This year's Budget is not a budget for the greedy, paid for by the needy. The Budget provisions properly so called (as distinct from the proposed amendments to the direct tax laws) are well conceived, and deserve the support of the well informed irrespective of party affiliations.

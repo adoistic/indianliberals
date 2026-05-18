@@ -2,8 +2,7 @@
 id: "india-seeing-the-future-in-its-past"
 title: "India: Seeing the Future in its Past"
 pubDate: "2020-11-16T07:39:46Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -41,7 +40,7 @@ related_thinkers:
   - indira-gandhi
   - jawaharlal-nehru
   - nani-palkhivala
-
+source_channel: "so-musings"
 ---
 
 Because employment was so important for India, encouragement was given to small-scale industries by reserving specific areas of production for them. But because firms could not grow to efficient scale, production was unprofitable, so few jobs were actually created.

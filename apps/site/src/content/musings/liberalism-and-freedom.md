@@ -2,11 +2,11 @@
 id: "liberalism-and-freedom"
 title: "Liberalism and Freedom"
 pubDate: "2020-11-16T06:25:21Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 This is an excerpt from the Liberal Times, a forum for liberal policy in South Asia, Volume III. In this excerpt, the editor refers to the principles embedded in the very philosophy of Liberalism, the bedrock of which is freedom.

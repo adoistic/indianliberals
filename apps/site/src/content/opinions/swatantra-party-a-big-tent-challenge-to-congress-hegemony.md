@@ -2,8 +2,7 @@
 id: "swatantra-party-a-big-tent-challenge-to-congress-hegemony"
 title: "Swatantra Party : A Big Tent Challenge to Congress Hegemony"
 pubDate: "2021-06-04T08:04:30Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -62,7 +61,7 @@ related_thinkers:
   - homi-mody
   - jawaharlal-nehru
   - minoo-masani
-
+source_channel: "editorial-opinions"
 ---
 
 _What enabled this coalition of disparate groups was the Nehruvian Congress’ grip over political power which effectively turned India into one-party democracy and a radical left drift in economic policy_The[recent](https://theprint.in/opinion/when-maharajas-business-tycoons-and-peasant-leaders-joined-the-mundu-clad-rajaji-to-form-the-swatantra-party/33246/)[revival](https://spontaneousorder.in/why-we-need-a-swatantra-party-in-present-day-india/) of the Swatantra Party in the [public](https://theprint.in/opinion/60-years-ago-a-right-liberal-swatantra-party-had-challenged-nehrus-socialist-raj/246715/) [discourse](https://www.livemint.com/opinion/columns/opinion-the-contemporary-relevance-of-swatantra-party-s-liberal-view-1559032923329.html) has mostly been focused on its [economic](https://magazine.outlookindia.com/story/a-case-for-swatantra/291551) [liberalism](https://spontaneousorder.in/rajaji-relevance-to-todays-politics-of-the-right/) [agenda](https://twitter.com/ShashiTharoor/status/1135875167542865923?s=20). The underlying driving factor, of course, is the Indian market liberals’ search for the [Indian roots](http://indianliberals.in/) of liberalism. Also reflected in the Indian neoliberal writings on the Swatantra is a wishful tendency to see a [viable political home](https://www.youtube.com/watch?v=nvGTl2JCNFo&t=4s&ab_channel=CentreforCivilSociety) in the Swatantra party, if only it had managed to survive the Indira onslaught in the early 1970s. Of course, the Swatantra’s economic and foreign policy positions have been[vindicated](https://books.google.co.in/books?id=Kkyom-cQNecC&lpg=PA446&vq=swatantra%20party&pg=PA436#v=snippet&q=swatantra%20party&f=false/) and in that sense, the party could claim victory, if only posthumously. Also, in contrast to the earlier[dismissive attitude](https://theprint.in/opinion/when-maharajas-business-tycoons-and-peasant-leaders-joined-the-mundu-clad-rajaji-to-form-the-swatantra-party/33246/) towards the Swatantra policy as a mere pro-business agenda, recent writings have brought more nuance to the debate about [economic](https://spontaneousorder.in/not-a-rich-peoples-lobby/) and even [foreign policy](https://theprint.in/opinion/swatantra-party-had-a-lot-to-say-on-china-after-1962-if-only-nehru-had-heard-them/465578/) elements of the Swatantra vision. However, what has been absent in the current discourse about the Swatantra is its interest/identity aggregation function.

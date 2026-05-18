@@ -2,8 +2,7 @@
 id: "indian-liberals-essay-contest"
 title: "Indian Liberals Essay Contest"
 pubDate: "2020-10-24T17:43:01Z"
-themes: 
-  - "events"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - minoo-masani
-
+source_channel: "editorial-events"
 ---
 
 **"They are slaves who dare not be In the right with two or three." - Minoo Masani**

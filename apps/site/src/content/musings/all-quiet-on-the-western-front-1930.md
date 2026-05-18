@@ -2,11 +2,11 @@
 id: "all-quiet-on-the-western-front-1930"
 title: "All Quiet on the Western Front"
 pubDate: "2020-11-16T06:31:22Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 [All Quiet on the Western Front](http://en.wikipedia.org/wiki/All_quiet_on_the_western_front) is a 1930 epic war film that narrates the tale of World War I as viewed from the eyes of German soldiers. The horrors of war have been beautifully captured and give a heart-rending account of the war and the lives destroyed by it, even when one is lucky enough to survive the bullets. The essence of the film is best captured by the first title card of the film…

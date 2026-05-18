@@ -2,8 +2,7 @@
 id: "lokmanya-tilak-a-conservative-liberal"
 title: "Lokmanya Tilak : A Conservative Liberal?"
 pubDate: "2023-10-11T22:15:37Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -36,7 +35,7 @@ related_thinkers:
   - dadabhai-naoroji
   - gopal-krishna-gokhale
   - pherozeshah-mehta
-
+source_channel: "so-musings"
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._

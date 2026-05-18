@@ -2,11 +2,11 @@
 id: "forests-to-forest-dwellers"
 title: "Forests to Forest Dwellers"
 pubDate: "2020-11-16T09:57:41Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 This is an excerpt from the book 'The Terracotta Reader: A Market Approach to the Environment'. In this piece Parth Shah and Trupti Parekh advocate for forest dwellers' community rights over forests, given that they have a greater incentive to preserve and optimally use forest resources.

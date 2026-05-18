@@ -2,8 +2,7 @@
 id: "chinas-tiananmen-massacre"
 title: "China’s Tiananmen Massacre"
 pubDate: "2020-11-16T06:58:25Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
 related_thinkers: 
   - deng-xiaoping
   - s-v-raju
-
+source_channel: "so-musings"
 ---
 
 We posed a question in an earlier issue of Freedom First: "Is the Soviet ideology really changing?" China, at least, has answered in the negative and proved beyond all reasonable doubt that once communists gain control of a country they will never let go. lt is as simple as that. If it was not so, why would the demand for democracy incur the wrath and vengeance of the peoples' democrats?

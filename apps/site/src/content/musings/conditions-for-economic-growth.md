@@ -2,11 +2,11 @@
 id: "conditions-for-economic-growth"
 title: "Conditions for Economic Growth"
 pubDate: "2020-11-16T09:37:51Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 Why is it that, in spite of an ancient cultural background and in spite of powerful world forces which are tending to spread to underdeveloped areas the modern technologies of industry and agriculture, with the accompanying outputs, high wages and good living conditions, the great mass of the Indian people are somehow being prevented from enjoying what the world has been offering her?

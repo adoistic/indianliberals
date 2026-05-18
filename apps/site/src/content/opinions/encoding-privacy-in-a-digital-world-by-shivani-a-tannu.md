@@ -2,13 +2,13 @@
 id: "encoding-privacy-in-a-digital-world-by-shivani-a-tannu"
 title: "Encoding Privacy in a Digital World"
 pubDate: "2020-10-24T16:54:57Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 author: "shivani-a-tannu"
+source_channel: "editorial-opinions"
 ---
 
 **Encoding Privacy in a Digital World**

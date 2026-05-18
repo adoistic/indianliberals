@@ -2,8 +2,7 @@
 id: "a-resilient-soul-ramadevi-chowdhuri"
 title: "A Resilient Soul: Ramadevi Chowdhuri"
 pubDate: "2023-05-24T00:00:56Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -34,7 +33,7 @@ related_thinkers:
   - jayaprakash-narayan
   - mahatma-gandhi
   - vinoba-bhave
-
+source_channel: "so-musings"
 ---
 
 _Ramadevi Chowdhuri (1899-1985) was a prominent Indian freedom fighter and social activist from Odisha, India. Her dedication to the cause of women's rights and active participation in the freedom struggle has made her an inspirational figure in Odisha and beyond. Ramadevi's legacy continues to inspire generations of women to fight for their rights and contribute to society._

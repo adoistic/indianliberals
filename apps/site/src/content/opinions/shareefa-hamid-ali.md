@@ -2,8 +2,7 @@
 id: "shareefa-hamid-ali"
 title: "Shareefa Hamid Ali: A Pioneer of Intersectional Feminism"
 pubDate: "2022-09-19T09:37:52Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -22,7 +21,7 @@ thinker_mentions:
       - quote: "Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women."
         what_it_shows: establishes her institutional leadership at national and international levels
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 The following essay revisits the life and legacy of a largely neglected Indian liberal, Shareefa Hamid Ali. A prominent advocate of an intersectional approach to feminism and individual rights, Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women.

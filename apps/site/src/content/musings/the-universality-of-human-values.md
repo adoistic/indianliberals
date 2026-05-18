@@ -2,8 +2,7 @@
 id: "the-universality-of-human-values"
 title: "The Universality Of Human Values"
 pubDate: "2022-12-28T00:00:53Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -38,7 +37,7 @@ related_thinkers:
   - abraham-lincoln
   - jayaprakash-narayan
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 _Published below is an article written by Minoo Masani in 1952, which appeared in the December 2002 edition of Freedom First Magazine. This piece was written during the years of the cold war wherein Mr Masani makes a coherent, impassioned and prudent plea to safeguard universal human values._

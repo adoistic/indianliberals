@@ -2,12 +2,12 @@
 id: "community-development"
 title: "Community Development"
 pubDate: "2022-12-14T00:00:58Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "b-g-rao"
+source_channel: "so-musings"
 ---
 
 _The following text was originally delivered as a speech under the auspices of the Forum of Free Enterprise in Bombay on 15 September 1960 by B.G. Rao, I.C.S (Retd.). The author reviews the problems of rural unemployment and underemployment and tries to distinguish between rural development and rural welfare. He further suggests that social education and the programme for women and children under Community Development deserve examination._

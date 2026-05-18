@@ -2,12 +2,12 @@
 id: "parth-shah-on-education-and-choice"
 title: "Parth Shah on Education and Choice"
 pubDate: "2020-11-16T10:10:13Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "parth-shah"
+source_channel: "so-musings"
 ---
 
 The following is an excerpt from the transcript of Education in India (an audio podcast) hosted by K. Satyanarayan with Parth J. Shah (Founder President of Centre for Civil Society). The podcast was recorded on June 09, 2014. In the excerpt, Parth comments on the importance of “choice” as a prerequisite to articulating the definition of quality education.

@@ -2,12 +2,12 @@
 id: "kandukuri-veeresalingam-icon-of-andhras-renaissance"
 title: "Kandukuri Veeresalingam: Icon of Andhra’s Renaissance"
 pubDate: "2023-11-01T15:27:11Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "kandukuri-veeresalingam"
+source_channel: "so-musings"
 ---
 
 _Sri Kandukuri Veeresalingam is considered the father of Renaissance in Andhra Pradesh. He was not only a literary figure but also a social reformer. He awakened the masses out of their medieval orthodox customs and superstitions.  He was a multifaceted personality whose literary and revolutionary activities left an indelible mark on Andhra society._

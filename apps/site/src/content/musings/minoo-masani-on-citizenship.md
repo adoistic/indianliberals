@@ -2,8 +2,7 @@
 id: "minoo-masani-on-citizenship"
 title: "Minoo Masani on Citizenship"
 pubDate: "2020-11-15T20:02:54Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -26,7 +25,7 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
   - sardar-patel
-
+source_channel: "so-musings"
 ---
 
 As the recent wave of youth-led protests surge across the country, Indian civil society seems to have come of age in demanding accountability from the government. Political scientists and keen observers have often deplored the mere procedural nature of Indian democracy where democratic participation amounts to the ritual of voting. However, recent mass mobilisations, mostly in urban areas, herald an active civil society, practicing “everyday democracy” in streets. Most notably, the protests are concerned with state coercion and citizenship rights.

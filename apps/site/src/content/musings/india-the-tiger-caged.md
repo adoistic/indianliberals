@@ -2,8 +2,7 @@
 id: "india-the-tiger-caged"
 title: "India, the Tiger Caged"
 pubDate: "2020-11-16T07:37:58Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - minoo-masani
-
+source_channel: "so-musings"
 ---
 
 The public debate over the IMF loan has been turned into a question of India’s self-respect and sovereignty. The fact of the matter is we are broke - thanks to forty years of "Nehruvian socialism". Like an individual who in state of a financial crisis goes to a bank for a loan, our country is compelled to go to the IMF for a loan.

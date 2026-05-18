@@ -2,11 +2,11 @@
 id: "piyush-vs-piyush-beautiful-policies-are-not-enough"
 title: "Piyush vs Piyush -‘Beautiful Policies are Not Enough’"
 pubDate: "2020-11-16T10:02:16Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 In the following passage, Luis Miranda recounts the highlights of a gripping panel discussion at the AIIB AGM wherein a Minister and CEO articulated the loopholes of policy-making in India. While the policies may seem effective on paper, their “operational challenges” render them handicapped. Luis, thus, underscores the need to create policies that can be implemented on the ground as well as they can be expressed on paper.

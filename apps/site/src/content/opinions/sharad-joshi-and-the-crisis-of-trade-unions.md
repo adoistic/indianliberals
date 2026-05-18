@@ -2,8 +2,7 @@
 id: "sharad-joshi-and-the-crisis-of-trade-unions"
 title: "Sharad Joshi and the Crisis of Trade Unions"
 pubDate: "2021-05-18T11:45:40Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -22,7 +21,7 @@ thinker_mentions:
       - quote: Sharad Joshi acknowledged the higher ideals and causes for which these early unions fought.
         what_it_shows: "shows Joshi's nuanced historical understanding before developing his critique"
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 _Sharad Joshi addressed his criticism against the government as well as the then labour movements in the country. According to him, trade unionism in India had taken a path far different from their predecessors in Europe.  (Image Credit : The Times of India) _There's no better or succinct way to introduce Sharad Joshi than by narrating an interesting anecdote that he shared in his book [_Khulya Vyavasthekade Khulya Manane_](https://indianliberals.in/content/khulya-vayvasthekade-khulya-manane/)_._ It gives a glimpse of his politics and personality. In 1996, the government employees of the Department of Post went on one of their routine strikes and this irked Sharad Joshi so much that he made an interesting offer to the government. He proposed that the government should let him run the department of Post. He challenged that he would not only employ just half of the existing number of workers but he would also give them only half of the current remuneration and still ensure the required level of efficiency to distribute all postcards from any major city in India to another within 24 hours. His challenge to the government may seem a bit foolhardy today. But the fact remains that at that time it took almost five days for a postal delivery to take place from one major city to another. We can not even fathom the unending delays for a letter or parcel to reach the remotest corners of the country.

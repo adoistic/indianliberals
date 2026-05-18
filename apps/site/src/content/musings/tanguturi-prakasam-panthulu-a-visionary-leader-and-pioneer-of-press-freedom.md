@@ -2,8 +2,7 @@
 id: "tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom"
 title: "Tanguturi Prakasam Panthulu: A Visionary Leader and pioneer of Press Freedom"
 pubDate: "2023-11-08T11:39:16Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -34,7 +33,7 @@ related_thinkers:
   - c-rajagopalachari
   - khasa-subba-rau
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 _Tanguturi Prakasam was the first Chief Minister of Andhra Pradesh. He was a visionary leader and able administrator. His dynamic personality earned him a lasting reputation in the hearts of the Telugu people. He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people._

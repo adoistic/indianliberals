@@ -2,12 +2,12 @@
 id: "hauling-down-the-angels"
 title: "Hauling Down the Angels"
 pubDate: "2020-10-24T17:18:00Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+source_channel: "editorial-opinions"
 ---
 
 **_Founders and investors in India have been roiled by the angel tax controversy. Who is responsible for this looming crisis and has the government found ways to address this issue?_**

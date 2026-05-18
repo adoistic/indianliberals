@@ -2,8 +2,7 @@
 id: "the-essence-of-democracy-3"
 title: "The Essence of Democracy"
 pubDate: "2022-08-12T06:50:43Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -41,7 +40,7 @@ related_thinkers:
   - jawaharlal-nehru
   - mahatma-gandhi
   - margaret-thatcher
-
+source_channel: "so-musings"
 ---
 
 The following text was authored by Indian Parliamentarian and liberal thinker, Minoo Masani. It was originally published by the Harold Laski Institute of Political Science, Ahmedabad in March 1989. In the essay, Masani discusses several necessary conditions of a liberal democracy.

@@ -2,8 +2,7 @@
 id: "two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak"
 title: "Two Strands of Liberal Expression : Dr. Anandibai Joshi and Lakshmibai Tilak"
 pubDate: "2023-10-25T12:19:19Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -40,7 +39,7 @@ related_thinkers:
   - anandibai-joshee
   - pandita-ramabai
   - ramabai-ranade
-
+source_channel: "so-musings"
 ---
 
 _Dr. Anandibai Joshi and Lakshmibai Tilak embarked on two separate paths for education and yet their paths coalesce into a strong liberal expression for emancipation of the individual._

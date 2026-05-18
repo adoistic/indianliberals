@@ -2,8 +2,7 @@
 id: "rajaji-man-with-a-mission"
 title: "Rajaji- Man with a Mission"
 pubDate: "2020-11-16T06:22:40Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -78,7 +77,7 @@ related_thinkers:
   - minoo-masani
   - n-g-ranga
   - piloo-mody
-
+source_channel: "so-musings"
 ---
 
 In the book 'Profiles of Courage: Dissent in Indian Socialism', G Narayanaswamy writes about the journey of C Rajagopalachari, the pioneer of the liberal movement in India. Rajaji, as he was popularly known, realised the urgency of strong opposition to the single dominant party at the time, which led him to establish the Swatantra Party.

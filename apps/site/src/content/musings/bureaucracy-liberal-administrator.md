@@ -2,8 +2,7 @@
 id: "bureaucracy-liberal-administrator"
 title: "Bureaucracy and the Liberal Administrator"
 pubDate: "2024-04-21T23:37:53Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
 related_thinkers: 
   - adam-smith
   - ludwig-von-mises
-
+source_channel: "so-musings"
 ---
 
 _Published by the Centre for Civil Society, a public policy think tank based out of New Delhi, _this excerpt has been borrowed from Sauvik Chakraverti's essay titled "New Public Management: Escape from Babudom". The essay builds a case for new public management as an escape from the statist clutches of Indian bureaucracy – starting with the attributes and importance of a liberal administrator, and the essence of bureaucracy – as written by Max Weber and Ludwig Von Mises.__

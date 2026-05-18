@@ -2,8 +2,7 @@
 id: "minoo-masani-liberalism"
 title: "Minoo Masani on Liberalism"
 pubDate: "2021-07-23T04:34:29Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 _Produced below is part of an essay by Minoo Masani, published in the 1970. The essay was originally published by the Indian Liberal Group, founded by the author.  Among the most prominent proponents of classical liberalism at the time, in this essay, Mr Masani outlines the essentials of Liberalism. The original publication can be accessed on the [Freedom First website](https://indianliberals.in/periodicals/freedom-first/). _The word "Liberalism" derives from liberty. In other words, the individual is in the centre of the picture. Society is there to serve the individual and not the other way round as certain other systems of thought like communism or socialism try to make out. 

@@ -2,12 +2,11 @@
 id: "the-state-of-enterprise-in-little-india"
 title: "The State of Enterprise in Free India"
 pubDate: "2024-08-12T16:52:16Z"
-themes: 
-  - "so-musings"
-  - "forum-of-free-enterprise-periodicals"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 _The following excerpt has been taken from an essay titled 'Prosperity Beyond Our Cities by Spreading Enterprise' written by R. Gopalakrishnan, published by the Forum of Free Enterprise in 2007._

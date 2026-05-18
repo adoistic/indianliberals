@@ -2,12 +2,12 @@
 id: "gurcharan-das-champion-of-liberal-ideas"
 title: "Gurcharan Das: Champion of liberal ideals"
 pubDate: "2023-08-30T15:18:17Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "gurcharan-das"
+source_channel: "so-musings"
 ---
 
 _Gurcharan Das is a prominent liberal thinker promoting individual freedom and free market economics. His critical analysis of inequality, socialism and the pursuit of fairness continues to shape India’s liberal discourse. This article narrates different ideas and viewpoints of Gurcharan Das through his works._

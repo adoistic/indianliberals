@@ -2,11 +2,11 @@
 id: "the-party-or-the-people"
 title: "The Party or the People?"
 pubDate: "2023-01-17T13:42:26Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 _Vasant Bhagawant Karnik an eminent trade unionist, author and writer penned his thoughts on “human nature’s difficulty to conform to a less-significant role” in the January 1961 issue of Freedom First magazine. He cites the tension between Dr Sampurnanand (the then-Chief Minister of Uttar Pradesh) and Mr Chandra Bhanu Gupta (the future Chief Minister of Uttar Pradesh) as one of the examples of differences between organisational and parliamentary wings of a political party in India._

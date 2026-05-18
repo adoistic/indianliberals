@@ -2,8 +2,7 @@
 id: "rukhmabai-an-unrelenting-force-against-patriarchal-norms"
 title: "Rukhmabai - An Unrelenting Force Against Patriarchal Norms"
 pubDate: "2021-07-12T09:02:34Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -28,7 +27,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - raja-ram-mohan-roy
-
+source_channel: "editorial-opinions"
 ---
 
 _Rukhmabai’s contributions in the areas of medicine and social justice formed the foundation of the subsequent Indian feminist movements._ Colonial India witnessed the rise of social reformers from various parts of the country. While most of us are aware of the works of the prominent male socio-religious reformers like Raja Rammohan Roy, the contributions of the female reformers, at a time when Indian society was still at odds with the concept of women’s rights and liberty, need to be highlighted.

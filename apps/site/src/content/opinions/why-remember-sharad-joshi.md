@@ -2,8 +2,7 @@
 id: "why-remember-sharad-joshi"
 title: "Why Remember Sharad Joshi?"
 pubDate: "2021-09-03T08:20:14Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -22,7 +21,7 @@ thinker_mentions:
       - quote: Sharad Anantrao Joshi, founder of the Shetkari Sanghatana, was a champion of individual freedom; a liberal in the truest sense of the word.
         what_it_shows: "the article's core characterisation of Joshi's liberalism"
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 _Sharad Anantrao Joshi, founder of the Shetkari Sanghatana, was a champion of individual freedom; a liberal in the truest sense of the word. He envisioned an India where the state was not placed on a pedestal, one where individual freedoms would guarantee a dignified life.     _When Sharad Joshi came to India in the 70s, there was a huge boom of tragedy leaders in our country. Based on the points of mutual disputes and differences that have been rooted in the society for centuries, the leaders, who run their shops of prestige on them, used to pretend social service by sitting on the chests of farmers, Dalits and the underprivileged. All these leaders had one thing in common, their mood was feudal and they were going to invalidate and unroot the contribution of modern western countries in our lives.

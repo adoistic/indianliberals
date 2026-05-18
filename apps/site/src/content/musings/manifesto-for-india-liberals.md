@@ -2,11 +2,11 @@
 id: "manifesto-for-india-liberals"
 title: "Manifesto for Indian Liberals"
 pubDate: "2021-09-17T09:27:26Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 _The following manifesto was drawn up at the Conference Of Indian Liberals held on November 21, 1985 at the Royal Bombay Yacht Club.  It was originally published in the same year by the _[_Indian Liberal Group._](https://indianliberals.in/content/manifesto-for-indian-liberals-1985/)_  _We, the liberals of India assembled in Bombay on November 21, 1985 at a time of gross violations of human rights and persistent grave tensions which threaten peace and democracy, are convinced that this condition is largely due to the abandonment of liberal principles and affirm our faith in this Declaration. 

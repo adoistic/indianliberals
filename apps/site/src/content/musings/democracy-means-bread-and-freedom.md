@@ -2,8 +2,7 @@
 id: "democracy-means-bread-and-freedom"
 title: "Democracy Means Bread And Freedom"
 pubDate: "2022-12-21T00:00:39Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -33,7 +32,7 @@ related_thinkers:
   - abraham-lincoln
   - karl-marx
   - piloo-mody
-
+source_channel: "so-musings"
 ---
 
 _Published in 1979, Piloo Mody’s book ‘Democracy means Bread and Freedom’  was an important piece of work written in a lucid style and discussing key ideas relevant to liberal thought in its economic, social and political understanding. Produced below is a chapter from the book. _

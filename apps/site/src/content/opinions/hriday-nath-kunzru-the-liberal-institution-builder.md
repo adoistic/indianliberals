@@ -2,8 +2,7 @@
 id: "hriday-nath-kunzru-the-liberal-institution-builder"
 title: "Hriday Nath Kunzru – The Liberal Institution Builder"
 pubDate: "2020-10-24T16:35:50Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -54,7 +53,7 @@ related_thinkers:
   - gopal-krishna-gokhale
   - jawaharlal-nehru
   - v-s-srinivasa-sastri
-
+source_channel: "editorial-opinions"
 ---
 
 The trajectory of liberal nationalism in colonial India is characterized by an early prominence followed by a steady marginalization in the nationalist discourse. The moderate phase of the Indian National Congress reflects a strong liberal tradition which is also well-recognized.

@@ -2,8 +2,7 @@
 id: "acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart"
 title: "Acharya N G Ranga: The Farmer’s Friend and Swatantra Party Stalwart"
 pubDate: "2023-11-15T12:24:03Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -66,7 +65,7 @@ related_thinkers:
   - kandukuri-veeresalingam
   - minoo-masani
   - c-rajagopalachari
-
+source_channel: "so-musings"
 ---
 
 _Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award. _

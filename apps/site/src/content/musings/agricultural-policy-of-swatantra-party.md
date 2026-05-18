@@ -2,8 +2,7 @@
 id: "agricultural-policy-of-swatantra-party"
 title: "Agricultural Policy of Swatantra Party"
 pubDate: "2020-11-16T09:04:03Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -49,7 +48,7 @@ related_thinkers:
   - jawaharlal-nehru
   - minoo-masani
   - c-rajagopalachari
-
+source_channel: "so-musings"
 ---
 
 With regard to agriculture as with regard to industrial and other aspects of the economy, libertarian literature has a great contribution to make to the clarification of issues and the defence of liberty.

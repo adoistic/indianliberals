@@ -2,8 +2,7 @@
 id: "economic-reforms-in-india"
 title: "Economic Reforms In India: Where Are We And Where Do We Go?"
 pubDate: "2022-10-13T10:23:08Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -29,7 +28,7 @@ related_thinkers:
   - a-d-shroff
   - jawaharlal-nehru
 
-
+source_channel: "so-musings"
 ---
 
 The following text is taken from a 2006 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go-by-dr-rakesh-mohan-october-10-2006/) Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.

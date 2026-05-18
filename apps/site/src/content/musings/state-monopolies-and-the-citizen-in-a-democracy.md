@@ -2,8 +2,7 @@
 id: "state-monopolies-and-the-citizen-in-a-democracy"
 title: "STATE MONOPOLIES AND THE CITIZEN IN A DEMOCRACY"
 pubDate: "2021-10-15T07:58:06Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -19,7 +18,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - hriday-nath-kunzru
-
+source_channel: "so-musings"
 ---
 
 _The following essay was published in August 1959 by the [Forum of Free Enterprise](https://indianliberals.in/content/state-monoplies-and-the-citizen-in-a-democracy-by-v-k-narasimhan-aug-7-1959/). Authored by V.K. Narasimhan, the essay provides a comprehensive understanding of how state monopolies impact the economy and citizens' rights in a democracy. _I propose to examine the question how far the promotion and maintenance of State Monopolies in the production of goods or the operation of services is compatible with the rights of citizens in a democracy to operate similar enterprises. 

@@ -2,8 +2,7 @@
 id: "a-democracy-at-war"
 title: "A Democracy at War"
 pubDate: "2020-11-16T06:52:08Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -49,7 +48,7 @@ related_thinkers:
   - mao-zedong
   - nikita-khrushchev
   - v-k-krishna-menon
-
+source_channel: "so-musings"
 ---
 
 Now, what is our situation in India today? We are today faced with this great disaster that is overtaking our armies at the front as a result of ten years of misguided policies of neutralism and of appeasement of Chinese Communist expansionism. The root cause has been the failure to understand the nature of international communism.

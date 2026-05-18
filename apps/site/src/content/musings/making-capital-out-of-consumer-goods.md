@@ -2,8 +2,7 @@
 id: "making-capital-out-of-consumer-goods"
 title: "MAKING CAPITAL OUT OF CONSUMER GOODS"
 pubDate: "2022-07-07T19:40:54Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -43,7 +42,7 @@ related_thinkers:
   - j-h-doshi
   - murarji-vaidya
   - nani-palkhivala
-
+source_channel: "so-musings"
 ---
 
 The following text was originally delivered as a speech by Abid Hussain at the 24th A. D. Shroff Memorial Lecture held in October 1989, originally published by the Forum of Free Enterprise. The author was an Indian economist, civil servant, and member of the Planning Commission, Government of India. It is a great honour to be speaking at the Silver Jubilee celebrations of this august institution. I offer you my deepfelt thanks for inviting me. And I offer you my sincere congratulations and those of the world business community represented in the International Chamber of Commerce, on your first, immensely successful, 25 years. May you go from strength to strength during the course of your next quarter century! 

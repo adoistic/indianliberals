@@ -2,8 +2,7 @@
 id: "the-education-of-the-electorate"
 title: "The Education of the Electorate"
 pubDate: "2023-01-04T07:02:59Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - jawaharlal-nehru
-
+source_channel: "so-musings"
 ---
 
 _MA Venkata Rao published this piece in the October 1961 issue of The Indian Libertarian magazine  The edition was published amid the time when India’s frontier policy failed. M. A. Venkata Rao in “The Education Of The Electorate,” highlighted the strategy needed for winning the votes through the purview of the economic standing of the voters in order to maintain a national democratic stand._

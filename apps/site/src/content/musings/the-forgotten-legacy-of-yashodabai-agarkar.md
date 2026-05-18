@@ -2,8 +2,7 @@
 id: "the-forgotten-legacy-of-yashodabai-agarkar"
 title: "The Forgotten Legacy of Yashodabai Agarkar"
 pubDate: "2023-09-27T10:45:38Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - gopal-ganesh-agarkar
-
+source_channel: "so-musings"
 ---
 
 _Yashodabai Agarkar, known to most as Gopal Ganesh Agarkar's wife, was a social reformer and an advocate of women's education. The story of her personal struggles shows her courage and determination to follow the ideas inculcated by her husband and how she stood as an example to other women and widows ill treated by the society._

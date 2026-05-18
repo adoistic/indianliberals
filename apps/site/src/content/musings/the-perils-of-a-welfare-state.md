@@ -2,8 +2,7 @@
 id: "the-perils-of-a-welfare-state"
 title: "The Perils of a Welfare State"
 pubDate: "2020-11-16T06:28:25Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - bibek-debroy
-
+source_channel: "so-musings"
 ---
 
 Bibek Debroy, in this excerpt from the book 'After the Welfare State', talks about the perils of a Welfare State and questions whether it has actually aided the country's growth and if it is a sustainable model to follow.

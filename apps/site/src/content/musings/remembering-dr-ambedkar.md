@@ -2,8 +2,7 @@
 id: "remembering-dr-ambedkar"
 title: "Remembering Dr Ambedkar"
 pubDate: "2020-11-16T08:38:15Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - k-m-munshi
-
+source_channel: "so-musings"
 ---
 
 Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition.

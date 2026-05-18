@@ -2,8 +2,7 @@
 id: "the-task-before-a-free-people"
 title: "Nani Palkhivala: The Task Before A Free People"
 pubDate: "2022-10-18T07:52:22Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - jawaharlal-nehru
-
+source_channel: "so-musings"
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/the-tasks-before-a-free-people-by-n-a-palkhivala-may-20-1977/) Authored by Indian jurist and liberal economist Nani Palkhivala, the text is based on an open letter written to the then Prime Minister, originally published in 1977. Marking the end of the Emergency, the 1977 Parliamentary election was among the most important in Indian political history.

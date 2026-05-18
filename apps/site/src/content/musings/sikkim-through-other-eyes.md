@@ -2,8 +2,7 @@
 id: "sikkim-through-other-eyes"
 title: "Sikkim – Through Other Eyes"
 pubDate: "2020-11-16T07:17:29Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -71,7 +70,7 @@ related_thinkers:
   - lal-bahadur-shastri
   - minoo-masani
   - morarji-desai
-
+source_channel: "so-musings"
 ---
 
 "In 1975, before I had ever had any thought of visiting Sikkim, I followed the events leading up to annexation by India very closely because I could see no justification for the takeover, the abolishment of the sovereignty of the tiny nation of 300,000 people, the rude levelling of their Chogyal, whose dynasty was 340 years old, to the rank of a commoner, and the subsequent house arrest to which he was confined."

@@ -2,8 +2,7 @@
 id: "dr-br-ambedkar-on-village-panchayats"
 title: "Dr B R Ambedkar on Village Panchayats"
 pubDate: "2023-04-12T10:49:28Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 _Published by the Dr Ambedkar Foundation, Ministry of Social Justice & Empowerment, Government of India, the excerpt below has been borrowed from one of Dr B R Ambedkar’s speeches during the Bombay Legislative Council on Village Panchayats Bill debates on 6__th__ October 1932._

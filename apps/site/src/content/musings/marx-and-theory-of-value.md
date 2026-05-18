@@ -2,8 +2,7 @@
 id: "marx-and-theory-of-value"
 title: "Marx and Theory of Value"
 pubDate: "2020-11-16T09:28:26Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -20,7 +19,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - karl-marx
-
+source_channel: "so-musings"
 ---
 
 Marx's theory of surplus-value is not the result of unbiased research. Marx knew what he wanted to prove. What he wanted was to unmask exploitation under capitalism but the economic development made by capitalistic countries has falsified the very basic structure of Marxism.

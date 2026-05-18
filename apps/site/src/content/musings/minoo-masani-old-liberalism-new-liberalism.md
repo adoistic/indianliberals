@@ -2,8 +2,7 @@
 id: "minoo-masani-old-liberalism-new-liberalism"
 title: "Minoo Masani: Old Liberalism & New Liberalism"
 pubDate: "2021-08-20T05:09:35Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -62,7 +61,7 @@ related_thinkers:
   - mahatma-gandhi
   - pherozeshah-mehta
   - raja-ram-mohan-roy
-
+source_channel: "so-musings"
 ---
 
 _Produced below is part of an essay by Minoo Masani, published in the 1970. The essay was originally published by the Indian Liberal Group, founded by the author.  Among the most prominent proponents of classical liberalism at the time, in this essay, Mr Masani outlines the essentials of Liberalism. The original publication can be accessed on the** [Freedom First website](https://indianliberals.in/periodicals/freedom-first/).** Read the first half of the essay **[here.](https://indianliberals.in/content/minoo-masani-liberalism/) **_**The Old Liberalism**

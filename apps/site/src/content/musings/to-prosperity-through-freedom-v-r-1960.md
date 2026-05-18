@@ -2,8 +2,7 @@
 id: "to-prosperity-through-freedom-v-r-1960"
 title: "To Prosperity through Freedom"
 pubDate: "2024-05-20T17:01:04Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -47,7 +46,7 @@ related_thinkers:
   - karl-marx
   - mahatma-gandhi
   - c-rajagopalachari
-
+source_channel: "so-musings"
 ---
 
 _The following musing is an excerpt from ‘To Prosperity through Freedom’, published in journal Incorporating the 'Free Economic Review' and 'The Indian Rationalist’ Vol. 8 No. 5. The piece written by V. R. discusses and contextualizes Swatantra Party’s Philosophy and Policy which was declared at Patna on 19 and 20 March 1960. _

@@ -2,8 +2,7 @@
 id: "gold-problem-india"
 title: "The Gold Problem in India"
 pubDate: "2020-11-16T09:25:27Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -33,7 +32,7 @@ related_thinkers:
   - b-r-shenoy
   - ma-sreenivasan
   - phiroze-j-shroff
-
+source_channel: "so-musings"
 ---
 
 The gold problem in India, if there is such a problem at all, has been the subject of intensive public debate and discussion in recent days.

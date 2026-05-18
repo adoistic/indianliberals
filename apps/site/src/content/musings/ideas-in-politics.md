@@ -2,8 +2,7 @@
 id: "ideas-in-politics"
 title: "The Role of Ideas in Politics"
 pubDate: "2020-11-16T09:31:24Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -25,7 +24,7 @@ thinker_mentions:
 related_thinkers: 
   - jawaharlal-nehru
   - mahatma-gandhi
-
+source_channel: "so-musings"
 ---
 
 Many of the sources of trouble in current politics is due to the prevalence of notions only imperfectly understood and applied hastily in garbled forms to justify partisan interests.

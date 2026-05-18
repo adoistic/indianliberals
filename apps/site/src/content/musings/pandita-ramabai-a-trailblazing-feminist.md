@@ -2,8 +2,7 @@
 id: "pandita-ramabai-a-trailblazing-feminist"
 title: "Pandita Ramabai: A Trailblazing Feminist"
 pubDate: "2023-04-26T10:33:35Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - anandibai-joshee
-
+source_channel: "so-musings"
 ---
 
 _Pandita Ramabai (1858-1922) was an Indian social reformer, women's rights activist, scholar, and educator. She is best known for her pioneering work in promoting women's education and empowerment in India, publishing books on a wide range of topics, including the status of women in India, the Bible, and Sanskrit literature. She travelled extensively in India and abroad, advocating against child marriage, widowhood, and other social injustices against women. Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide._

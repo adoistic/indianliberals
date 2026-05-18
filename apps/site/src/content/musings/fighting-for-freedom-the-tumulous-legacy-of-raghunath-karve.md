@@ -2,8 +2,7 @@
 id: "fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve"
 title: "Fighting for Freedom : The Tumultuous Legacy of Raghunath Karve"
 pubDate: "2023-09-06T16:11:23Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - bhimrao-ambedkar
-
+source_channel: "so-musings"
 ---
 
 _Raghunath Dhondo Karve is known as a staunch supporter of individual liberty and freedom. He believed in individual autonomy and attempted to normalize non-procreative sexuality. He challenged existing customs and argued for individual sexual freedom and awareness through his publication समाजस्वास्थ्य  (Health of the society)._

@@ -2,11 +2,11 @@
 id: "the-retreat-from-socialism"
 title: "The Retreat from Socialism"
 pubDate: "2020-11-16T10:00:05Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 This is an excerpt from B.K. Nehru's C.D. Deshmukh Memorial Lecture on 14th January 1990. Mr Nehru makes a case against the reactionary economic policies that India followed post-independence at its own cost. He highlights the reasons behind the global shift away from Socialism.

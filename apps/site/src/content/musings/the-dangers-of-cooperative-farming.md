@@ -2,8 +2,7 @@
 id: "the-dangers-of-cooperative-farming"
 title: "THE DANGERS OF JOINT CO-OPERATIVE FARMING"
 pubDate: "2021-11-12T14:21:32Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -59,7 +58,7 @@ related_thinkers:
   - k-m-munshi
   - mahatma-gandhi
   - vinoba-bhave
-
+source_channel: "so-musings"
 ---
 
 _The following essay was published in 1950 by the [Forum of Free Enterprise.](https://indianliberals.in/content/the-dangers-of-joint-co-operative-farming-by-m-r-masani-m-p-mar-7-1950/) Authored by M. R. Masani, the essay outlines the Chinese and Soviet models of co-operative farming. He highlighted the possible shortfalls of co-operative farming in India and the Gadhian vision of rural industries for increasing employment. _I have been a life-long supporter of co-operation. I am one of the founders of the Industrial Co-operative Association in Bombay, and my own little bank account has never been in a capitalist bank but always in the Bombay State Co-operative Bank. I believe very strongly in the principle of genuine co-operation. But when we use these terms like co-operation, we have to be very clear as to what co-operation really is, and what it is not. The views I express will be in line with those of co-operators such as the Indian Co-operative Union in India, the British Co-operative Union and all co-operators throughout the free world. 

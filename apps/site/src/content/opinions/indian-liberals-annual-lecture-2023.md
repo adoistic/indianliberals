@@ -2,8 +2,7 @@
 id: "indian-liberals-annual-lecture-2023"
 title: "Indian Liberals Annual Lecture 2023"
 pubDate: "2023-07-27T14:03:29Z"
-themes: 
-  - "events"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - gurcharan-das
-
+source_channel: "editorial-events"
 ---
 
 **"The Dilemma of an Indian Liberal"**

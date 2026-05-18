@@ -2,11 +2,11 @@
 id: "not-a-rich-peoples-lobby"
 title: "Not a Rich People’s Lobby"
 pubDate: "2020-11-16T08:42:13Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 The Swatantra Party's principles and the policies it commends are the only policies and principles that can help general welfare and national progress.

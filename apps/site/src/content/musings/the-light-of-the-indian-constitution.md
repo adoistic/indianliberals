@@ -2,8 +2,7 @@
 id: "the-light-of-the-indian-constitution"
 title: "The Light of the Constitution"
 pubDate: "2022-11-16T06:50:22Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -33,7 +32,7 @@ related_thinkers:
   - bhimrao-ambedkar
   - jawaharlal-nehru
   - sarvepalli-radhakrishnan
-
+source_channel: "so-musings"
 ---
 
 _The following piece was published in [The Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/the-light-of-the-constitution-n-a-palkhivala-october-20-1976.pdf) in October 1976. The text is derived from an article originally published in The Indian Express highlighting the demerits posed by The Constitution (Forty-fourth Amendment) Bill 1976. Palkhivala elucidates how the Bill threatens the integrity of the constitution and infringes on the fundamental rights of the citizens while raising questions regarding the freedom and liberty of the citizens and the imbalance of powers between the Executive, Legislature and Judiciary through this Bill. _Next week the Constitution (Forty-fourth Amendment) Bill 1976 will be taken up by Parliament, while the Prime Minister's wish that there should be a ‘free and open public debate’ and a ‘study in depth’ before the amendments are passed into law has remained unfulfilled.

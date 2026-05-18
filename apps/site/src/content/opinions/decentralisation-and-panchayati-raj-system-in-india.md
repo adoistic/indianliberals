@@ -2,16 +2,14 @@
 id: "decentralisation-and-panchayati-raj-system-in-india"
 title: "Vaad Vivad on Decentralisation and Panchayati Raj in India"
 pubDate: "2023-03-23T14:14:04Z"
-themes: 
-  - "events"
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
 thinker_mentions: []
 related_thinkers: []
-
+source_channel: "editorial-events"
 ---
 
 **"**When the Panchayat Raj is established, public opinion will do what violence can never do.**" - Mahatma Gandhi**

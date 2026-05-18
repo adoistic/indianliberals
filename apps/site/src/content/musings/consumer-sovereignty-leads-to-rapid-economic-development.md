@@ -2,8 +2,7 @@
 id: "consumer-sovereignty-leads-to-rapid-economic-development"
 title: "CONSUMER SOVEREIGNTY LEADS TO RAPID ECONOMIC DEVELOPMENT"
 pubDate: "2022-06-03T07:32:12Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - john-kenneth-galbraith
-
+source_channel: "so-musings"
 ---
 
 The following text is a reproduction of an article specially written for syndication by Indian News & Feature Alliance (INFA). Reproduced by [Forum of Free Enterprise](https://indianliberals.in/content/consumer-sovereignty-leads-to-rapid-economic-development-by-prof-b-r-shenoy-july-9-1962/), in the article, Prof B.R. Shenoy counters Prof J.K. Galbraith's (Canadian-American economist) claim that planning is crucial to economic development. He argues that consumer sovereignty and planning for the free market would lead India to economic development. Professor J. K. Galbraith has made planning a theme of his weighty pronouncements more than once during his tours round India. At a Press conference in Ahmedabad, commenting on the fears expressed "'in some quarters in India" that the present tempo of our planning might lead to an authoritarian regime, he observed that "lack of planning" in underdeveloped economies "carried a greater risk of leading to authoritarian regimes than proper planning".

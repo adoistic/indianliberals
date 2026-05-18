@@ -2,11 +2,11 @@
 id: "free-enterprise-is-economic-democracy"
 title: "Free Enterprise is Economic Democracy"
 pubDate: "2020-11-16T08:00:52Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 Free enterprise works because, like democracy, it gives real power to the people. Indeed it can be described as economic democracy. It limits the power of government, by maximizing the power of the people.

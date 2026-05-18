@@ -2,8 +2,7 @@
 id: "all-quiet-on-the-western-front-1930-2"
 title: "A Dialogue Between Socrates And Lenin"
 pubDate: "2020-11-16T06:34:40Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -17,7 +16,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - karl-marx
-
+source_channel: "so-musings"
 ---
 
 The Communist doctrine crucially ignores the way incentives shape human behaviour and the role of the agency. Moreover, the Communist deployment of state coercion as a tool to create a Just Society translates into an Orwellian caricature of some animals being more equal than others.

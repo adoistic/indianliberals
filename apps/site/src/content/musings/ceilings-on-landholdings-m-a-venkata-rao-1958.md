@@ -2,12 +2,12 @@
 id: "ceilings-on-landholdings-m-a-venkata-rao-1958"
 title: "Ceilings on Landholdings - M.A. Venkata Rao"
 pubDate: "2024-09-02T11:58:05Z"
-themes: 
-  - "indian-libertarian-periodicals"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
+source_channel: "indian-libertarian"
 ---
 
 _The following text is an excerpt from an essay titled "_**_Ceilings on Landholdings_**_" by _**_M.A. Venkata Rao_**_, published in The Indian Libertarian on September 15, 1958. _

@@ -2,8 +2,7 @@
 id: "kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor"
 title: "Kanuparti Varalakshmamma: A Feminist Writer And Social Activist"
 pubDate: "2023-03-15T15:30:34Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -22,7 +21,7 @@ thinker_mentions:
       - quote: "She established Stri Hitaishini Mandali in Bapatla, an organisation for women's welfare."
         what_it_shows: demonstrates her institution-building for women beyond writing
 related_thinkers: []
-
+source_channel: "editorial-opinions"
 ---
 
 The following article revisits Kanuparti Varalkashmamma’s literary contributions to social change and improving women’s lives.

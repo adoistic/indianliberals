@@ -2,8 +2,7 @@
 id: "the-resolute-abala-bose"
 title: "The Resolute Abala Bose: Educationist, Suffragist, Philanthropist"
 pubDate: "2021-12-19T18:14:49Z"
-themes: 
-  - "opinions"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -34,7 +33,7 @@ thinker_mentions:
 related_thinkers: 
   - ramabai-ranade
   - sarojini-naidu
-
+source_channel: "editorial-opinions"
 ---
 
 The following essay celebrates Ambala Bose's remarkable contributions as an educationist, suffragist and philanthropist. She used her education, liberal upbringing and privileges to uplift the status of marginalised sections, largely focused on changing the peripheral role women played in Indian society at the time.There is a tendency of reducing women to their relationships with men who have achieved great feats. Lady Abala Bose too has been treated no differently by history. She spent her life working on the education, emancipation, and independence of women, and it is imperative that we remember her monumental contributions.

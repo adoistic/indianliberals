@@ -2,8 +2,7 @@
 id: "the-role-of-judiciary"
 title: "The Role of Judiciary in Parliamentary Democracy"
 pubDate: "2022-08-17T04:58:25Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -18,7 +17,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - a-d-shroff
-
+source_channel: "so-musings"
 ---
 
 The following text is taken from a 1974 address by Justice M.C. Chagla, Indian judge and liberal, at the A. D. Shroff Memorial Lecture. Presenting a comparative analysis among the British, American and Indian judicial system, Justice Chagla highlighted challenges and responsibilities unique to the Indian judiciary.The role of the judiciary in our parliamentary democracy is a unique and crucial one. Parliamentary democracy is ruled by the people through their representatives elected to Parliament. In England, Parliament is supreme and sovereign. It does not only speak for the people, it decides for them. Its decisions are final and cannot be challenged by any authority. The judiciary there must accept the laws as passed by Parliament—they cannot challenge their validity. Their role is comparatively a subsidiary one of interpreting the law and giving effect to it. Our judiciary on the other hand, plays a major role which in a sense places it above Parliament. It does not merely interpret the laws passed by it, but it also decides their constitutionality. In our country, the Constitution is Supreme and the judiciary has been designated by the Constitution to keep Parliament within the bounds of the Constitution. If it oversteps it, the Judiciary can strike down the law. And there is no appeal from the Judgement of the Supreme Court. Its Judgement becomes the law of the land—unless Parliament acting under its amending power changes the law as declared by the Supreme Court. 

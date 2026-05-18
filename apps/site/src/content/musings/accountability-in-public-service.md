@@ -2,12 +2,12 @@
 id: "accountability-in-public-service"
 title: "Accountability in Public Service"
 pubDate: "2020-11-15T20:07:26Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "n-vittal"
+source_channel: "so-musings"
 ---
 
 This is an excerpt by N. Vittal, a former Central Vigilance Commissioner, Govt. of India. He suggests that a lack of transparency and widespread corruption among other things have caused an accountability crisis, which can be resolved by encouraging competition and embedding accountability at the individual level instead of the organisational level.

@@ -2,12 +2,12 @@
 id: "hindu-raj"
 title: "Hindi Raj and Hindu Raj"
 pubDate: "2020-11-16T09:35:42Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
 author: "p-kodanda-rao"
+source_channel: "so-musings"
 ---
 
 All attempts to sustain and promote the national and emotional unity of India are gravely thwarted by the imminent threat of Hindi Raj and the potential threat of Hindu Raj.

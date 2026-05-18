@@ -2,8 +2,7 @@
 id: "free-market-economy"
 title: "FREE MARKET ECONOMY: Key to Economic Progress and Freedoms"
 pubDate: "2022-06-20T06:26:34Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -33,7 +32,7 @@ related_thinkers:
   - a-d-shroff
   - murarji-vaidya
   - nani-palkhivala
-
+source_channel: "so-musings"
 ---
 
 Originally published by the [Forum of Free Enterprise,](https://indianliberals.in/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982.pdf) the following text was an address by M. A. Rangoonwala, the past President of the International Chamber of Commerce, delivered as the Chief Guest on January 12, 1982, at the function held to celebrate the Forum's Silver Jubilee. It is a great honour to be speaking at the Silver Jubilee celebrations of this august institution. I offer you my deepfelt thanks for inviting me. And I offer you my sincere congratulations and those of the world business community represented in the International Chamber of Commerce, on your first, immensely successful, 25 years. May you go from strength to strength during the course of your next quarter century! 

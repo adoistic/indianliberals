@@ -2,8 +2,7 @@
 id: "economics-of-freedom"
 title: "Economics of Freedom"
 pubDate: "2023-05-17T12:19:08Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
@@ -41,7 +40,7 @@ related_thinkers:
   - minoo-masani
   - nikita-khrushchev
   - vinoba-bhave
-
+source_channel: "so-musings"
 ---
 
 _The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965. In this lecture, Masani discusses the socialist wisdom dominant in that age and reflects upon the inevitable road to totalitarianism by citing examples such as China and Russia and deconstructing the very essence of Socialism. _

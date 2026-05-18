@@ -2,11 +2,11 @@
 id: "grievances-in-and-of-the-supreme-court"
 title: "Grievances in and of the Supreme Court"
 pubDate: "2020-11-16T10:06:11Z"
-themes: 
-  - "so-musings"
+themes: []
 language: "en"
 needs_review: true
 draft: false
+source_channel: "so-musings"
 ---
 
 With the four senior judges of the Supreme Court publicly expressing their dissatisfaction with the Chief Justice of India, Vineet Bhalla reflects on the lack of an institutional grievance redressal mechanism in the Judiciary.
