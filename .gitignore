@@ -77,6 +77,7 @@ data/synthesis/ner-input.jsonl
 data/synthesis/ner-mentions.jsonl
 data/synthesis/ner-rejected.txt
 data/synthesis/ner-smoke-input.jsonl
+data/synthesis/ner-chunks/
 
 # LLM extraction request packages (regenerated per dispatch in /tmp)
 /tmp/llm-extract-requests/
