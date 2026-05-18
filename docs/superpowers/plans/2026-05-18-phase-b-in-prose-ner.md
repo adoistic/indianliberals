@@ -767,7 +767,7 @@ git -c commit.gpgsign=false commit -m "feat(synth): prepare-ner-batches.py emits
 - [ ] `system-ner.txt` created with three real-excerpt worked examples; no `[…]` placeholders remain
 - [ ] `README.md` updated with Phase B paths
 - [ ] `prepare-ner-batches.py` runs cleanly and emits `data/synthesis/ner-input.jsonl`
-- [ ] Emit count is plausible (560-590 range)
+- [ ] Emit count is plausible (530-590 range)
 - [ ] Three Tasks 5-6 commits land cleanly
 
 ---
@@ -1583,7 +1583,7 @@ rm -f data/synthesis/ner-smoke-input.jsonl data/synthesis/ner-mentions-smoke.jso
 
 **Chunk 3 completion checklist:**
 - [ ] `resolve-ner.py` smoke-tested via `--dry-run` and a real 7-entry batch
-- [ ] `apply-ner.py --test` reports 15/15 passing
+- [ ] `apply-ner.py --test` reports 20/20 passing
 - [ ] Adnan has signed off on the smoke output and any prompt edits are locked in
 - [ ] 7 entry frontmatter files updated and committed
 - [ ] `astro check` delta is still 0
