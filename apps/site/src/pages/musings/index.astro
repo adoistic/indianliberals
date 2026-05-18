@@ -9,17 +9,46 @@ const musings = (await getCollection("musings", (m) => !m.data.draft && m.data.l
 // Facet vocabularies for the filter chips.
 const themeCounts = new Map<string, number>();
 const decadeCounts = new Map<number, number>();
+const kindCounts = new Map<string, number>();
+const periodCounts = new Map<string, number>();
+const stanceCounts = new Map<string, number>();
+const scaleCounts = new Map<string, number>();
+const placeCounts = new Map<string, number>();
+const keyConceptCounts = new Map<string, number>();
 for (const m of musings) {
   for (const th of m.data.themes ?? []) themeCounts.set(th, (themeCounts.get(th) ?? 0) + 1);
   const y = new Date(m.data.pubDate).getFullYear();
   const dec = Math.floor(y / 10) * 10;
   decadeCounts.set(dec, (decadeCounts.get(dec) ?? 0) + 1);
+  if (m.data.kind) kindCounts.set(m.data.kind, (kindCounts.get(m.data.kind) ?? 0) + 1);
+  if (m.data.period_window) periodCounts.set(m.data.period_window, (periodCounts.get(m.data.period_window) ?? 0) + 1);
+  if (m.data.stance) stanceCounts.set(m.data.stance, (stanceCounts.get(m.data.stance) ?? 0) + 1);
+  const sc = m.data.geographic_scope?.scale;
+  if (sc) scaleCounts.set(sc, (scaleCounts.get(sc) ?? 0) + 1);
+  for (const p of m.data.geographic_scope?.places ?? []) {
+    placeCounts.set(p, (placeCounts.get(p) ?? 0) + 1);
+  }
+  for (const c of m.data.key_concepts ?? []) {
+    keyConceptCounts.set(c, (keyConceptCounts.get(c) ?? 0) + 1);
+  }
 }
+// Drop bucket-label leftovers from themes facet (defensive — Step 0 should have already cleared them).
+const BUCKET_DROP = new Set(["so-musings", "events", "opinions", "lectures", "marathi-articles"]);
 const themeOptions = [...themeCounts.entries()]
+  .filter(([t]) => !BUCKET_DROP.has(t))
   .sort((a, b) => b[1] - a[1])
-  .filter(([t]) => t !== "so-musings")
   .slice(0, 30);
 const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
+// Era ordering: chronological
+const PERIOD_ORDER = ["pre-independence", "nehruvian-era", "late-license-raj", "reform-era", "post-reform"];
+const periodOptions = PERIOD_ORDER
+  .filter((p) => periodCounts.has(p))
+  .map((p) => [p, periodCounts.get(p) as number] as [string, number]);
+const kindOptions = [...kindCounts.entries()].sort((a, b) => b[1] - a[1]);
+const stanceOptions = [...stanceCounts.entries()].sort((a, b) => b[1] - a[1]);
+const scaleOptions = [...scaleCounts.entries()].sort((a, b) => b[1] - a[1]);
+const placeOptions = [...placeCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 30);
+const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 30);
 ---
 
 <BaseLayout
@@ -75,6 +104,101 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
         </ul>
       </div>
 
+      {kindOptions.length > 0 && (
+        <div class="mb-5">
+          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Kind</h3>
+          <ul class="flex flex-wrap gap-1.5">
+            {kindOptions.map(([k, n]) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter-kind={k}
+                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {k.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {periodOptions.length > 0 && (
+        <div class="mb-5">
+          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Period</h3>
+          <ul class="flex flex-wrap gap-1.5">
+            {periodOptions.map(([p, n]) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter-period={p}
+                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {p.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {stanceOptions.length > 0 && (
+        <div class="mb-5">
+          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Stance</h3>
+          <ul class="flex flex-wrap gap-1.5">
+            {stanceOptions.map(([s, n]) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter-stance={s}
+                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {s.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {scaleOptions.length > 0 && (
+        <div class="mb-5">
+          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Scale</h3>
+          <ul class="flex flex-wrap gap-1.5">
+            {scaleOptions.map(([s, n]) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter-scale={s}
+                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {s.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {placeOptions.length > 0 && (
+        <details class="mb-5">
+          <summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">Place ▾</summary>
+          <ul class="flex flex-wrap gap-1.5">
+            {placeOptions.map(([p, n]) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter-place={p}
+                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {p.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+
       {themeOptions.length > 0 && (
         <details class="mb-5" open>
           <summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">Themes ▾</summary>
@@ -106,6 +230,12 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
               class="m-item py-6"
               data-decade={String(dec)}
               data-themes={(m.data.themes ?? []).join(" ")}
+              data-kind={m.data.kind ?? ""}
+              data-period={m.data.period_window ?? ""}
+              data-stance={m.data.stance ?? ""}
+              data-scale={m.data.geographic_scope?.scale ?? ""}
+              data-places={(m.data.geographic_scope?.places ?? []).join(" ")}
+              data-key-concepts={(m.data.key_concepts ?? []).join(" ")}
             >
               <a href={`/musings/${m.id}/`} class="block no-underline group">
                 <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
@@ -114,6 +244,11 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
                 <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
                   {m.data.title}
                 </h2>
+                {m.data.pull_quote && (
+                  <p class="text-sm text-(--color-fg-muted) italic mt-2 line-clamp-2">
+                    "{m.data.pull_quote}"
+                  </p>
+                )}
               </a>
             </li>
           );
@@ -127,7 +262,16 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
 
   <script is:inline>
     (function () {
-      const state = { decade: new Set(), theme: new Set() };
+      const state = {
+        decade: new Set(),
+        theme: new Set(),
+        kind: new Set(),
+        period: new Set(),
+        stance: new Set(),
+        scale: new Set(),
+        place: new Set(),
+        keyConcept: new Set(),
+      };
       const items = Array.from(document.querySelectorAll('.m-item'));
       const totalEl = document.getElementById('m-counter-visible');
       const resetBtn = document.getElementById('m-reset');
@@ -135,20 +279,43 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
       const ACTIVE = ['bg-(--color-saffron-500)', 'text-white', 'border-(--color-saffron-500)'];
       const IDLE = ['bg-(--color-bg)', 'text-(--color-fg)', 'border-(--color-border)'];
 
+      const FACET_KEYS = {
+        decade: 'decade',
+        theme: 'themes',
+        kind: 'kind',
+        period: 'period',
+        stance: 'stance',
+        scale: 'scale',
+        place: 'places',
+        keyConcept: 'keyConcepts',
+      };
+
       function applyFilters() {
         let visible = 0;
         for (const li of items) {
-          const d = li.dataset.decade;
-          const themes = (li.dataset.themes || '').split(/\s+/).filter(Boolean);
-          const matchDecade = state.decade.size === 0 || state.decade.has(d);
-          const matchTheme  = state.theme.size === 0 || themes.some((x) => state.theme.has(x));
-          const show = matchDecade && matchTheme;
+          let show = true;
+          for (const [facet, set] of Object.entries(state)) {
+            if (set.size === 0) continue;
+            const dsKey = FACET_KEYS[facet];
+            const raw = li.dataset[dsKey] || '';
+            const isList = ['themes', 'places', 'keyConcepts'].includes(dsKey);
+            if (isList) {
+              const parts = raw.split(/\s+/).filter(Boolean);
+              if (!parts.some((p) => set.has(p))) { show = false; break; }
+            } else {
+              if (!set.has(raw)) { show = false; break; }
+            }
+          }
           li.style.display = show ? '' : 'none';
           if (show) visible++;
         }
         if (totalEl) totalEl.textContent = String(visible);
         if (emptyEl) emptyEl.classList.toggle('hidden', visible !== 0);
-        if (resetBtn) resetBtn.classList.toggle('hidden', state.decade.size + state.theme.size === 0);
+        if (resetBtn) {
+          const anyActive = Object.values(state).some((s) => s.size > 0);
+          resetBtn.classList.toggle('hidden', !anyActive);
+        }
+        syncURL();
       }
 
       function toggle(btn, facet, value) {
@@ -165,17 +332,75 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
         applyFilters();
       }
 
+      // URL param namespace: ?theme=, ?kind=, ?period=, ?stance=, ?scale=, ?place=, ?key_concept=, ?decade=
+      const URL_KEYS = {
+        theme: 'theme',
+        kind: 'kind',
+        period: 'period',
+        stance: 'stance',
+        scale: 'scale',
+        place: 'place',
+        keyConcept: 'key_concept',
+        decade: 'decade',
+      };
+
+      function parseInitialParamsFromURL() {
+        const usp = new URLSearchParams(window.location.search);
+        for (const [facet, paramName] of Object.entries(URL_KEYS)) {
+          const v = usp.get(paramName);
+          if (!v) continue;
+          for (const piece of v.split(',').map((s) => s.trim()).filter(Boolean)) {
+            state[facet].add(piece);
+          }
+        }
+        // Apply ACTIVE styling to matching chips
+        document.querySelectorAll('.m-chip').forEach((btn) => {
+          let activated = false;
+          for (const [facet, attr] of Object.entries({
+            kind: 'filterKind', decade: 'filterDecade', theme: 'filterTheme',
+            period: 'filterPeriod', stance: 'filterStance', scale: 'filterScale',
+            place: 'filterPlace', keyConcept: 'filterKeyConcept',
+          })) {
+            const v = btn.dataset[attr];
+            if (v && state[facet].has(v)) {
+              activated = true;
+              break;
+            }
+          }
+          if (activated) {
+            ACTIVE.forEach((c) => btn.classList.add(c));
+            IDLE.forEach((c) => btn.classList.remove(c));
+          }
+        });
+      }
+
+      function syncURL() {
+        const usp = new URLSearchParams();
+        for (const [facet, paramName] of Object.entries(URL_KEYS)) {
+          const set = state[facet];
+          if (set.size > 0) usp.set(paramName, [...set].join(','));
+        }
+        const qs = usp.toString();
+        const newURL = window.location.pathname + (qs ? '?' + qs : '');
+        window.history.replaceState(null, '', newURL);
+      }
+
       document.querySelectorAll('.m-chip').forEach((btn) => {
         btn.addEventListener('click', () => {
           if (btn.dataset.filterDecade) toggle(btn, 'decade', btn.dataset.filterDecade);
           else if (btn.dataset.filterTheme) toggle(btn, 'theme', btn.dataset.filterTheme);
+          else if (btn.dataset.filterKind) toggle(btn, 'kind', btn.dataset.filterKind);
+          else if (btn.dataset.filterPeriod) toggle(btn, 'period', btn.dataset.filterPeriod);
+          else if (btn.dataset.filterStance) toggle(btn, 'stance', btn.dataset.filterStance);
+          else if (btn.dataset.filterScale) toggle(btn, 'scale', btn.dataset.filterScale);
+          else if (btn.dataset.filterPlace) toggle(btn, 'place', btn.dataset.filterPlace);
+          else if (btn.dataset.filterKeyConcept) toggle(btn, 'keyConcept', btn.dataset.filterKeyConcept);
         });
       });
 
       if (resetBtn) {
         resetBtn.addEventListener('click', () => {
-          state.decade.clear();
-          state.theme.clear();
+          for (const s of Object.values(state)) s.clear();
           document.querySelectorAll('.m-chip').forEach((btn) => {
             ACTIVE.forEach((c) => btn.classList.remove(c));
             IDLE.forEach((c) => btn.classList.add(c));
@@ -183,6 +408,9 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
           applyFilters();
         });
       }
+
+      parseInitialParamsFromURL();
+      applyFilters();
     })();
   </script>
 </BaseLayout>
