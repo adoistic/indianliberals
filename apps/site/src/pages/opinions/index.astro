@@ -200,6 +200,25 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         </details>
       )}
 
+      {keyConceptOptions.length > 0 && (
+        <details class="mb-5">
+          <summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">Key concepts ▾</summary>
+          <ul class="flex flex-wrap gap-1.5">
+            {keyConceptOptions.map(([kc, n]) => (
+              <li>
+                <button
+                  type="button"
+                  data-filter-key-concept={kc}
+                  class="o-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {kc.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+
       {themeOptions.length > 0 && (
         <details class="mb-5" open>
           <summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">Themes ▾</summary>
