@@ -13,7 +13,4 @@ subject: "ronald-meinardus"
 ---
 
 [wikilogy_video_audio_element contenttype="html5audio" html5link="http://indianliberals.in/Document/audio/265737843.mp3"]
-
----
-
-_Sourced from the WordPress database export (post ID 2148, http://localhost/IL/?post_type=content&#038;p=2148). Needs editorial review._
+type=content&#038;p=2148). Needs editorial review._

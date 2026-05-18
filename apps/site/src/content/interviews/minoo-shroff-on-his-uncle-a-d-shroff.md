@@ -15,7 +15,4 @@ subject: "minoo-shroff"
 ---
 
 Minoo Shroff talks about his uncle A D Shroff.
-
----
-
-_Sourced from the WordPress database export (post ID 1817, http://localhost/IL/?post_type=content&#038;p=1817). Needs editorial review._
+type=content&#038;p=1817). Needs editorial review._

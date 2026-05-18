@@ -82,7 +82,4 @@ Free self-realisation through self-chosen activities in all the spheres of knowl
 It is in the picture of proximate ideals, of actual governmental policies that social goals come to have vastly differing impacts on the day-to-day lives of the people, giving them the exhilaration of expanding freedom or cribbing, cabinning and confining them into narrow grooves charged with pain and frustration.
 
 _You can access the complete piece _[_here_](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1960.pdf)_._
-
----
-
-_Sourced from the WordPress database export (post ID 8512, https://indianliberals.in/?post_type=content&#038;p=8512). Needs editorial review._
+type=content&#038;p=8512). Needs editorial review._

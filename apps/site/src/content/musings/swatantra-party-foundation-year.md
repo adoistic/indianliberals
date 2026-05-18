@@ -50,7 +50,6 @@ _To commemorate the 64th Foundation Year of the first and the only Liberal polit
 You can read the complete musing here: [Why Swatantra](https://indianliberals.in/wp-content/uploads/2023/06/Why-Swatantra.pdf)
 
 
-
 **C Rajagopalachari - To Save Freedom**
 
 The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State. it is an answer to the challenge of the so-called Socialism of the Indian Congress Party. It is founded on the conviction that social justice and welfare can be attained through the fostering of individual enterprise in all fields better than through State ownership and Government control. It is based on the truth that bureaucratic management leads to loss of incentives and waste of resources. When the State trespasses beyond what is legitimately within its province, it just hands over the management from those who are interested in frugal and efficient management to bureaucracy which is ingrained and uninterested except in its own survival.
@@ -76,7 +75,4 @@ It may be that there are a large number of people in our ancient land who have n
 The cynics are not right. Our society is still maintained by the inner law. The outer laws can touch but the fringe of life. They deal with criminals and keep order going. Normal life does not depend on the laws. It depends on the moral consciousness of people. This moral sense has not been effaced whatever changes may have taken place in the rituals and observances of forms. It is by _dharma_ that society is sustained, _Lokah dhriyate._ It is on _dharma_ we must build and not on the sand of material motives and our capacity to satisfy them quickly and get votes to be in power. The good seed is not lost. It is still there. We must not ignore its availability. The soil also is good and God will send us the rains. Let us not fail to look after it.
 
 _Previous musing: [Rajkumari Amrit Kaur: Philanthropy and Politics](https://indianliberals.in/content/rajkumari-amrit-kaur-philanthropy-and-politics/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8107, https://indianliberals.in/?post_type=content&#038;p=8107). Needs editorial review._
+type=content&#038;p=8107). Needs editorial review._

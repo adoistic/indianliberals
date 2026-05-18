@@ -23,8 +23,3 @@ ai:
 ---
 
 # Chhatrapati Shivaji
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** corpus_mention
-

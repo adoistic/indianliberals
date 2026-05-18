@@ -30,7 +30,3 @@ A parliamentary party is primarily responsible to the electorate which elects it
 In our country, we have yet to build up our democracy. The Congress has to shoulder that task as the main and the major party. It has to create healthy conventions. Conflicts between the organisational and the parliamentary wings will arise from time to time. Instead of relying on the exigencies of the situation, a rule of general application will have to evolve for their solution. The rule will have to conform to the principles of democracy. Democracy demands that elected representatives must have in any conflict primacy over the managers of the party machine. As democracy develops, the parliamentary wing will gain predominance over the organisational wing. In UP, the former subordinated to the latter. That connotes the subordination of the people to the party, which is the sure road towards dictatorship and totalitarianism.
 
 _Previous musing: [Prospects of Democracy in India](https://indianliberals.in/content/prospects-of-democracy-in-india/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7913, https://indianliberals.in/content/prospects-of-democracy-in-india-2/). Needs editorial review._

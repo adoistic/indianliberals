@@ -55,7 +55,3 @@ An ardent advocate of individual, human and women's rights, Ali paved the way fo
 
 **Naina Ojha **
 Naina is a writer from Ghaziabad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.
-
----
-
-_Sourced from the WordPress database export (post ID 7160, https://indianliberals.in/content/rani-rashmoni-das-reform-in-19th-century-bengal/). Needs editorial review._

@@ -17,8 +17,3 @@ ai:
 ---
 
 # Minoo Shroff And HD Shourie
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/good-governance-by-minoo-r-shroff-and-hd-shourie-2002.pdf
-

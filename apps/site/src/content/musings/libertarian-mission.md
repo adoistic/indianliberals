@@ -96,7 +96,3 @@ _The original document can be accessed [here](http://indianliberals.in/~_admin/
 _[IndianLiberals.in](http://indianliberals.in/index)is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
-
----
-
-_Sourced from the WordPress database export (post ID 2295, http://localhost/IL/content/so-musings-agricultural-policy-of-swatantra-party/). Needs editorial review._

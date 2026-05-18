@@ -49,9 +49,6 @@ Along with the essay, you are required to send a photograph and a brief bio.
 You can choose any one of the following topics
 
 
-
-
-
  	- Diversity, Democracy, and Dissent
 
  	- Liberalism in India - Then and Now
@@ -67,11 +64,7 @@ You can choose any one of the following topics
  	- Fourth Industrial Revolution - What it means for India?
 
 
-
 **Prizes:**
-
-
-
 
 
  	- First Prize: INR 9,000
@@ -83,11 +76,7 @@ You can choose any one of the following topics
  	- Fourth and Fifth Prizes: INR 2,000
 
 
-
 All the winners will receive a certificate of recognition from Centre for Civil Society.
-
-
-
 
 
  	- Essays must be no fewer than 700 and no more than 2000 words. Spelling errors will count against the final grades.
@@ -101,7 +90,4 @@ All the winners will receive a certificate of recognition from Centre for Civil 
  	- All entries become the property of Centre for Civil Society and will not be returned.They may be reproduced on our website and/or shared with third parties for purposes of marketing.
 
  	- For any other queries, mail Hinan at hinan@ccs.in
-
----
-
-_Sourced from the WordPress database export (post ID 1594, http://localhost/IL/?post_type=content&#038;p=1594). Needs editorial review._
+type=content&#038;p=1594). Needs editorial review._

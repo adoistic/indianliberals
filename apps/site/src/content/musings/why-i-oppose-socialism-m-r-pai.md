@@ -49,7 +49,3 @@ Those well-versed with organizational dynamics know that the real crisis in the 
 Where organizational integration has taken place in rural areas, stability has resulted and this stability has been able to cushion many onslaughts on it. For instance the best standards are possible for development when we see a phenomenon as organised as agriculture in the Plantations in rural areas. When plantations with larger and larger size developed, they generated standards arising out of orderliness and measurement that benefited everybody involved in the process of such organization. This organization has been able to provide a high degree of stability all around without in any way sacrificing equity and justice requirements. Somehow these lessons do not seem to have been learnt by the policy-makers nor by the Home Ministry when they deal with the problem of rural violence. 
 
 All vote-catching devices of radicalism can have very little significance if in actual fact the impact of such radicalism is towards break-up of organisation instead of generating or integrating organization. The present race seems to be between competitive anarchy and organisation, with the latter gradually losing the battle. The Home Ministry announcement about rural violence seems to be one more nail in the coffin of organizational development in the rural areas.
-
----
-
-_Sourced from the WordPress database export (post ID 4915, https://indianliberals.in/content/the-wisdom-of-the-rulers-2/). Needs editorial review._

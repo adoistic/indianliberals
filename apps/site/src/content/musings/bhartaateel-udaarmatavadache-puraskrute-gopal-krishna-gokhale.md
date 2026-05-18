@@ -22,12 +22,7 @@ author: "gopal-krishna-gokhale"
 गोखल्यांची इच्छा होती की काँग्रेसमध्ये पडलेली फूट दूर व्हावी आणि साऱ्या गटांनी एकत्र यावे. ही इच्छा मात्र त्यांच्या जीवनकाळात पूर्ण होऊ शकली नाही. १९१५ मध्ये वयाच्या अवघ्या ४८ व्या वर्षी गोखल्यांचे निधन झाले. तदनंतर १९१६ सालच्या लखनौ अधिवेशनात काँग्रेसमधले सगळे गट एकत्र आले. गोखल्यांनी खऱ्या अर्थाने उदारमतवाद अंगीकारला होता. राजकीय विरोधकांना योग्य तो आदर देत त्यांनी आपले विचार मांडले. कितीही वैचारिक मतभेद असले तरी प्रत्येकाला त्याचे विचार मांडण्याचा पूर्ण अधिकार आहे या तत्वावर त्यांनी आयुष्यभर विश्वास ठेवला. आणि काँग्रेस अध्यक्ष असतानाही सत्तेचा गैरवापर केला नाही. तत्वनिष्ठता आणि आपण समाजासाठी काहीतरी करायला हवं हा विचार आणि तसाच आचार हे गोखल्यांच्या व्यक्तिमत्वाचे ठळक पैलू होते. त्यांच्या विरोधकांनाही त्यांच्याविषयी नितांत आदर आणि प्रेम होतं. गोखल्यांच्या मृत्यूनंतर जहाल गटाचे नेते असलेल्या टिळकांनी केसरीतून उदारमतवादाचे अग्रणी पुढारी असलेल्या गोखल्यांना आदरांजली अर्पण केली. 
 
 
-
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
 Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
-
----
-
-_Sourced from the WordPress database export (post ID 8401, https://indianliberals.in/content/lokmanya-tilak-a-conservative-liberal-2/). Needs editorial review._

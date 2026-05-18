@@ -12,5 +12,3 @@ draft: true
 ---
 
 # Libertarian Social Institute
-*Entry pending editorial review.*
-

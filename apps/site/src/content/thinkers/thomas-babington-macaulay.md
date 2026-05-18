@@ -23,8 +23,3 @@ death_year: 1859
 ---
 
 # Thomas Babington Macaulay
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** phase-0.6-wave2-refresh-2026-05-17
-

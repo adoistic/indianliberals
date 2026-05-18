@@ -38,7 +38,6 @@ related_thinkers:
 _Produced below is an excerpt from an article by A. Ranganathan called "Tagore's Humanistic Approach to Indian Nationalism," where the author explores Rabindranath Tagore's unique perspective on Indian nationalism. The article delves into how Tagore distinguished Indian nationalism from European forms, emphasized the importance of cultural exchange with the West, and believed that true freedom extended beyond political independence into the realm of the mind and spirit._
 
 
-
 In order to appreciate the significance of Tagore's most precious gifts to our country, it is necessary to view the backdrop of the 'Indian Renaissance' in its historic setting. The transition from medieval to modern India, which resulted in that great cultural awakening known as the 'Indian Renaissance', was effected by Raja Ram Mohan Roy. Indeed, the day of Raja Ram Mohan Roy's birth was also the birthday of modern India. A new spirit was abroad, a new buoyancy of life symbolizing the streaks of a rosy dawn after the long medieval night which had enveloped India for centuries.
 
 The various forces which have contributed to the shaping of modern India originated in the mind of Raja Ram Mohan Roy. And Tagore not only constituted a historic link in the long chain of India's cultural evolution, but was also the prophet of the Indian Renaissance heralded by Raja Ram Mohan Roy.
@@ -60,7 +59,4 @@ Viewed in the perspective of cultural history, the British impact on India resul
 As pointed out by Prof. Hans Kohn, the possibility of a deeper cultural intercourse between India and the liberal West can arise only if we no longer allow our thinking to be channeled into widely accepted stereotypes about nationalism and its relation to liberty. "The time has arrived," wrote C. E. Trevelyan in his "The Education of the People of India", "when the ancient debt of civilization which Europe owes to Asia is about to be repaid; and the sciences cradled in the East and brought into maturity in the West may now by a few efforts overspread the world." And this dispensation, which followed in the wake of Raja Ram Mohan Roy's letter to Lord Amherst, was not regarded by Tagore as an invasion of Western ideas, but as a step towards the intellectual dialogue of cultures and civilizations.
 
 Read the complete text and other articles from this issue of the Indian Libertarian **[here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-nov15-1962.pdf)**.
-
----
-
-_Sourced from the WordPress database export (post ID 8647, https://indianliberals.in/?post_type=content&#038;p=8647). Needs editorial review._
+type=content&#038;p=8647). Needs editorial review._

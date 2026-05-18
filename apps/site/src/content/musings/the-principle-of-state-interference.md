@@ -83,7 +83,3 @@ In practice this distinction breaks down.as is pointed out by the idealist schoo
 Even intimate experiences like married life, and religion, where the self is supposed to be alone with his God, have aspects in which individuals may impinge on society, bringing them within the legitimate sphere of Government. Excessive cruelty, dessertion, adultery are matters which bring married life within the sphere of the law, for they have social consequences. ·
 
 In religion, Government will have to intervene if gurudwaras or mosques are used for anti-social activities such as the encouragement of treachery in the guise of religious addresses or for attacking other religious groups from the protected premises. Even sleeping can come within governmental notice if the sleeper is a watchman or sentry who sleeps while on duty!
-
----
-
-_Sourced from the WordPress database export (post ID 4987, https://indianliberals.in/content/a-viewpoint-on-libertarian-society-2/). Needs editorial review._

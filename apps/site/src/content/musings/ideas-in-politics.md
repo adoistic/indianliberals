@@ -40,7 +40,3 @@ Access the full document **[here](http://v2.indianliberals.in/~_admin/pdflangua
 First Published in the Indian Libertarian in November 1960.
 
 Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
-
----
-
-_Sourced from the WordPress database export (post ID 2323, http://localhost/IL/content/so-musings-marx-and-theory-of-value-2/). Needs editorial review._

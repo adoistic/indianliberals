@@ -17,8 +17,3 @@ ai:
 ---
 
 # Shah Mulraj Simha
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/stock-market-and-turmoil-lessons-for-investors-by-shah-mulraj-simha-2001.pdf
-

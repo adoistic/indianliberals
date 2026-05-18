@@ -15,7 +15,3 @@ subject: ""
 ---
 
 In a 1977 paper, titled Economic Growth with Social Justice, B.R. Shenoy discussed the relationship between economic freedoms, consumer sovereignty and social justice. Read more: [https://bit.ly/3BxGjqA](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU05MlNwOTlLelhaZ0JxWlN2ZEtPMXlOWnFQUXxBQ3Jtc0ttNFFHcDA1eUhLNmU0MUVkUG5Db1ZhaWhRNnpIRmVJREJoMDZLWHNndzFUamotVkdGWFQ5Z0hqWmFreGRXeS1DekF5aVV0WU1UaUltRWhHc3NGZ2RmTVJNbC01aXE0c3ZnbTBzRXdoRDJaLV9hMEFCOA&q=https%3A%2F%2Fbit.ly%2F3BxGjqA&v=3hCLozngwE8)
-
----
-
-_Sourced from the WordPress database export (post ID 6812, https://indianliberals.in/content/shetkari-sanghathana-a-movement-for-freedom-part-ii/). Needs editorial review._

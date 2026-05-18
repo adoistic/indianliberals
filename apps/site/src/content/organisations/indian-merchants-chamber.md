@@ -11,5 +11,3 @@ founded_year: 1907
 ---
 
 # Indian Merchants Chamber
-*Entry pending editorial review.*
-

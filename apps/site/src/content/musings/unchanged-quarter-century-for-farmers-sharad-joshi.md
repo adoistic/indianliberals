@@ -31,7 +31,6 @@ However, the economic pundits and the politicians protested vehemently. They cri
  	- "Free markets for agricultural commodities can produce shortages and food insecurity and, eventually, even starvation."
 
 
-
 The opposition of all the establishment economists notwithstanding, the farmers rallied in ever-larger numbers to the call of remunerative prices. The agitations produced immediate gains in the form of increase in support prices.
 
 
@@ -44,7 +43,6 @@ The opposition of all the establishment economists notwithstanding, the farmers 
  	- The sugarcane agitation centred in Nashik district (1980) succeeded in hiking the Statutory Minimum Price (SMP) of sugarcane from Rs 180 to Rs 300 per tonne.
 
  	- The agitation against the Maharashtra State Cotton Monopoly Procurement Scheme, which required the growers to sell their produce exclusively to the State dragged on for 18 years and ended by vanquishing the monopoly procurement scheme. The guaranteed price of cotton was Rs 700 per quintal in 1986. Now growers get around Rs 3,000 per quintal.
-
 
 
 Apart from the concessions wrested by the thrust of farmers' agitations, the demonstrated clout of farmers' opinions and unity had its political consequences and the Minimum Support Prices (MSPs) continued to increase year after year. In the decade since 1990-91, the procurement price of wheat went up by 258 per cent, that of coarse cereals by 215 per cent, of arhar by 275 per cent, of cotton by 270 per cent; and the Statutory Minimum Price of sugarcane by more than 300 per cent.
@@ -63,11 +61,6 @@ However, the gains of this movement on the doctrinal front are spectacular:
  	- There is also a realisation that the local chain of intermediaries is not the cause of the gap between the consumer and the producer prices. The India-Bharat syndrome is the more significant cause of the chasm and can be corrected by overall liberalisation and market reforms.
 
 
-
 At the end of a quarter century of struggle, the typical farmer is as badly indebted as he was at the beginning but stands vindicated and cleared of all charges of being indolent, ignorant and incompetent.
 
 [ The piece was originally published [here](http://www.sharadjoshi.in/node/55).]
-
----
-
-_Sourced from the WordPress database export (post ID 4160, https://indianliberals.in/content/sharad-joshi-on-the-tragedy-of-being-a-farmer-in-india/). Needs editorial review._

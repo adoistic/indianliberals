@@ -11,5 +11,3 @@ draft: true
 ---
 
 # Leslie Sawhny Centre
-*Entry pending editorial review.*
-

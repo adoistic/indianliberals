@@ -12,5 +12,3 @@ draft: true
 ---
 
 # Shetkari Mahila Aghadi
-*Entry pending editorial review.*
-

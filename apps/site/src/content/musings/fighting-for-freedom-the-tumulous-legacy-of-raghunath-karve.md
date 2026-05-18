@@ -24,7 +24,6 @@ related_thinkers:
 _Raghunath Dhondo Karve is known as a staunch supporter of individual liberty and freedom. He believed in individual autonomy and attempted to normalize non-procreative sexuality. He challenged existing customs and argued for individual sexual freedom and awareness through his publication समाजस्वास्थ्य  (Health of the society)._
 
 
-
 “Our communities and countries can flourish only when every individual has the power to make decisions about their bodies and to chart their own futures” - Natalia Kanem (Director, UNFPA)
 
 Raghunath Dhondo Karve is largely known as the son of the social reformer Maharshi Karve, who worked for the cause of women’s education, widow remarriage and women’s welfare. Raghunath Karve often tends to be overshadowed by the work and the personality of his father. However, Raghunath Karve (henceforth Karve) has a noteworthy and tumultuous legacy that remains relevant today. A scholar of Mathematics, Karve attained the Diplome d'Etudes Superieures from Paris. He went on to teach at Wilson College in Mumbai till 1925 when he was forced to resign. This event foreshadowed the difficult journey that lay ahead for Karve. 
@@ -54,12 +53,7 @@ Karve, R. D. (Ed.). (1931). समाजस्वास्थ्य मासि
 [_Previous musing: Gurcharan Das: Champion of Liberal Ideas_](https://indianliberals.in/content/gurcharan-das-champion-of-liberal-ideas/)
 
 
-
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
 Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
-
----
-
-_Sourced from the WordPress database export (post ID 8268, https://indianliberals.in/content/gurcharan-das-champion-of-liberal-ideals/). Needs editorial review._

@@ -24,7 +24,6 @@ related_thinkers:
 **"The Dilemma of an Indian Liberal"**
 
 
-
 **Introduction**
 
 The Indian Liberals Project (www.indianliberals.in) is managed by the Centre for Civil Society, New Delhi, and supported by the Friedrich Naumann Foundation for Freedom, South Asia. Launched in 2015, indianliberals.in remains India’s only online digital portal offering an exhaustive and comprehensive archive of resources on the liberal thought traditions in India. The digital archive continues to take India’s liberal histories to a growing audience of scholars, researchers, and keen readers. Along with digitized original and rare collections from India’s more and lesser-known liberal giants, the archive also holds audio-visual content.
@@ -48,7 +47,3 @@ In 2023, Mr. Gurcharan Das, noted author, commentator, and public intellectual, 
 To apply, **[click here.](https://form.typeform.com/to/DYIG9wQL?typeform-source=ccs.in)**
 
 For any other queries, mail Sourya (sourya@ccs.in) or Anushka (anushka@ccs.in)
-
----
-
-_Sourced from the WordPress database export (post ID 8187, https://indianliberals.in/content/vaad-vivad-on-decentralisation-and-panchayati-raj-in-india/). Needs editorial review._

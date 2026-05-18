@@ -51,7 +51,3 @@ Thus if our leadership should free itself from the political and ideological cob
 Thus, on a proper analysis of the relation of forces in the East and the West, it will be found that India finds herself in the present delicate situation as a result of her past misguided policies and ideological aberrations. It is, therefore, high time that India made a clear and unambiguous confession of her unflinching faith in Freedom and Democracy, which went into the very framing of the Indian constitution. The spiritual crisis she is passing through is no less great than her military crisis. In fact, the former has aggravated the latter. Let India make a wise and deliberate choice here and now and “Seek First the Kingdom of Freedom”. And it is certain as anything that within a short time ‘All Other Things Will be Added unto Her’ from within and from without and she will come triumphantly out of her present trials and travails.
 
 _The original text can be accessed _[_here_](http://indianliberals.in/~_admin/pdflanguage?id=300361867.pdf)_._
-
----
-
-_Sourced from the WordPress database export (post ID 2221, http://localhost/IL/content/so-musings-swatantra-liberals-and-indian-foreign-policy-2/). Needs editorial review._

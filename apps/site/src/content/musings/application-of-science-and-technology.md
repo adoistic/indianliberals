@@ -116,7 +116,6 @@ The preamble recognised the vital role of science and technology in relation to 
  	- formulate the national science policy in such a way as:
 
 
-
 (a) to create favourable conditions for the application of science and technology to national development; 
 
 (b) to reduce social disparity or adverse side-effects when adopting new technology, and in particular not to aggravate unemployment;
@@ -125,7 +124,6 @@ The preamble recognised the vital role of science and technology in relation to 
  	- adopt, publish and keep under constant review, a set of basic criteria for the allocation of national resources to science and technology, and in particular to research and development activities;
 
  	- promote, as a priority sector of the national science policy, the development of adequate scientific and technical information organization and services at the national level.
-
 
 
 While considering the excellence of these recommendations, it is salutary to recall that in l958 the late Prime Minister, Mr. Jawaharlal Nehru, enunciated the Scientific Policy Resolution to Parliament, to affirm its faith in the vital role of science and technology in the transformation of our society. It is an admirable document and emphasises what science can do in providing new conceptual frame-works and analytical tools for tackling socio-economic problems and in promoting the spread of a scientific temper among the community at large. But I might comment after 13 years that there has been not much visible impact of science on our society.
@@ -155,7 +153,3 @@ Thus ultimately the essence of the scientific and technological progress lies in
 "Technology can even create a new society composed of individuals who themselves are the products of a technological process. By the use of chemicals and radiation the biologists can induce mutations in genes and chromosomes, and so, by an appropriate handling of genetic materials, create new strains of living organisms. The same genetic laws govern the evolution of human beings. Conceivably someone may have the arrogance ultimately to undertake the breeding of a strain of 'good men'. But who then shall determine the new model of the 'good' man?"
 
 "If, then, we are to preserve the ideal of the cherished individual we will need wise men more than we will need more and more technically skilled men too. As it is, we do not know how to produce them with an environment that will encourage their wisdom to blossom and act. Yet, without wise men, the chances are that the democratic concept and democratic traditions built around the obligations and rights of the individual will be lost under the crush of the vast needs of the society and the enormous potency of the technologies put into operation in a massive society to meet those needs."_Previous musing: [THE UNION BUDGET 1992-93 BY NANI PALKHIVALA](https://indianliberals.in/content/the-union-budget-1992-93/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6785, https://indianliberals.in/content/the-emerging-scenario-in-education-3/). Needs editorial review._

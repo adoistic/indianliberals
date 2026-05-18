@@ -30,7 +30,3 @@ _Access the full document [here](https://ccs.in/sites/default/files/2022-08/boo
 _This is an excerpt from the book ‘After Welfare State’_
 
 _Read _more: [https://spontaneousorder.in/so-musings-the-limits-of-state-action/](https://spontaneousorder.in/so-musings-the-limits-of-state-action/)
-
----
-
-_Sourced from the WordPress database export (post ID 2201, http://localhost/IL/content/so-musings-liberalism-and-freedom/). Needs editorial review._

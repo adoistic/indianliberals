@@ -15,7 +15,4 @@ subject: ""
 ---
 
 Why is tax-compliance so low in our country and is our State penalizing honest tax payers
-
----
-
-_Sourced from the WordPress database export (post ID 1807, http://localhost/IL/?post_type=content&#038;p=1807). Needs editorial review._
+type=content&#038;p=1807). Needs editorial review._

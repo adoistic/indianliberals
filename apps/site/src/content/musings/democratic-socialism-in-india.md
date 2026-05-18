@@ -33,7 +33,6 @@ If democratic socialism is to be relevant to a society like India's, it will hav
  	- The complexities of a modern society make it necessary that those who are responsible for its efficient functioning have a high-order intellectual equipment. If such societies are also to run on democratic socialist lines, their elite should have the right kind of value-orientation and, at the and at the same time, every citizen should have free access to the best education that society can provide. This poses the problem of reconciling the democratisation of education with the provision of quality education for the  would-be elite. In the democratic West, this is accomplished through a variety of educational institutions ranging from Ivy League to run-of-the-mill colleges and universities. There is a similar differentiation in the Soviet Union too.
 
 
-
 To what extent is such differentiation compatible with the values of democratic socialism, and what implications would it have for the educational system in India?
 
 
@@ -52,9 +51,4 @@ To what extent is such differentiation compatible with the values of democratic 
  	- It is possible that the state will not be willing to relax its grip on education even though such relaxation would be indispensable for making education capable of promoting the values of democratic socialism. What can the academic community- university authorities, school and college managements, teachers' and students' associations-do to persuade or compel the state to change its attitude?
 
 
-
 It was with a view to initiating an enquiry on these lines that the Samaj Prabodhan Sanstha convened, with the assistance of the Indian Council of Social Science Research, two seminars at Pune early this year. _Last week's musing: [THE SWATANTRA MANIFESTO](https://indianliberals.in/content/the-swatantra-manifesto/)_
-
----
-
-_Sourced from the WordPress database export (post ID 5136, https://indianliberals.in/content/controls-and-freedom-2/). Needs editorial review._

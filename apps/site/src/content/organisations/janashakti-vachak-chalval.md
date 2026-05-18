@@ -12,5 +12,3 @@ draft: false
 ---
 
 # Janashakti Vachak Chalval
-*Entry pending editorial review.*
-

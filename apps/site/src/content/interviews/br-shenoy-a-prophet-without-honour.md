@@ -15,7 +15,4 @@ subject: "b-r-shenoy"
 ---
 
 Why was BR Shenoy, one among few Indian economists who spoke out against the socialist planning approach considered a prophet without honour in his own country? Is he forgotten for the wrong reasons?
-
----
-
-_Sourced from the WordPress database export (post ID 1769, http://localhost/IL/?post_type=content&#038;p=1769). Needs editorial review._
+type=content&#038;p=1769). Needs editorial review._

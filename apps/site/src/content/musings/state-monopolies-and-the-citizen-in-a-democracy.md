@@ -94,9 +94,4 @@ I should like to sum up my broad conclusions on the subject of State monopolies 
  	- In addition to purely Parliamentary bodies like the Public Accounts Committee or the Estimates Committee, which may periodically go into the working of State-run enterprises, there must be an impartial and quasi-Judicial body like the Tariff Commission in India, or the Monopolies Commission in England, to review the operations of State monopolistic enterprises to hear complaints from the public and from private concerns that may suffer in one way or other and to make recommendations for the better functioning of these enterprises to prevent abuses.
 
 
-
 _Last week's musing: [GLOBALISATION AND THE POOR](https://indianliberals.in/content/globalisation-and-the-poor-2/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6148, https://indianliberals.in/content/globalisation-and-the-poor-3/). Needs editorial review._

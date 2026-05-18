@@ -26,8 +26,3 @@ death_year: 1974
 ---
 
 # V. K. Krishna Menon
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** phase-0.5-wave1-refresh-2026-05-17
-

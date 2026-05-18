@@ -53,7 +53,3 @@ I conclude with this remark that the time has arrived when we should protect the
 Opposition based on this farm and family protection policy is essential now, not necessarily for changing the government at once. We need not change the government but the opposition will help to keep the government in proper order. Reference was made to the coming 1962 elections. Don't wait till then; don't think about it at all; that is what I would say. We want an opposition in the country–whether it is in the Parliament or whether it is not in the Parliament– we want an opposition first in the country. We want an opposition thereafter in Parliament; and that opposition, starting from the country and going into Parliament, will keep even the present government in good order. Their confused thinking will begin to settle down into orderly thinking. Otherwise, conceit and arrogance will grow to feed on themselves.
 
 _Previous musing: [Panchayati Raj](https://indianliberals.in/content/panchayati-raj/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7856, https://indianliberals.in/content/panchayati-raj-2/). Needs editorial review._

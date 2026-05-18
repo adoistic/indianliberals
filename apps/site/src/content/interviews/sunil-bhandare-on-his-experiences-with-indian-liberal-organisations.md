@@ -15,7 +15,4 @@ subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group talks about his interactions and experiences with Indian liberal organisations like Forum of Free Enterprise, Indian Liberal Group and the Project for Economic Education.
-
----
-
-_Sourced from the WordPress database export (post ID 1831, http://localhost/IL/?post_type=content&#038;p=1831). Needs editorial review._
+type=content&#038;p=1831). Needs editorial review._

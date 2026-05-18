@@ -35,7 +35,4 @@ The issue of Little India's economic growth continues to be partially attended. 
 However, we cannot replicate the dramatic effects achieved in industrial and urban India by the single act of scrapping industrial licensing. Being rooted in society and politics, Little India's change agenda will be somewhat evolutionary. But the time has come.
 
 Robert Reich, a professor of public policy, observes, "Democracy means more than a process of free and fair elections. Democracy is a system for accomplishing what can only be achieved by 12 citizens joining together with other citizens." The role of capitalism is to enlarge the economic pie. The slicing up of the economic pie is the role of governance and democracy.
-
----
-
-_Sourced from the WordPress database export (post ID 8610, https://indianliberals.in/?post_type=content&#038;p=8610). Needs editorial review._
+type=content&#038;p=8610). Needs editorial review._

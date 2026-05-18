@@ -54,7 +54,4 @@ The basis of the existing administrative machinery is still that which was left 
 The Collector, on whom all development activities converge, cannot be expected single-handed to carry out his responsibilities. There should be appropriate agencies created for particular development work, e.g., the Grow More Food campaign. Ours is a vast country and we cannot govern it from Delhi. The Centre must be strong but consistent with that there should be decentralisation at all levels. 
 
 These and other considerations lead me to the conclusion that we must appoint forthwith a high-powered Commission to examine and make recommendations for, reorganising the existing administrative structure, both at the Centre and in the provinces. Our task should be to lay down the foundations of a good administration which would be outside party politics and serve whatever party comes into power.
-
----
-
-_Sourced from the WordPress database export (post ID 8562, https://indianliberals.in/?post_type=content&#038;p=8562). Needs editorial review._
+type=content&#038;p=8562). Needs editorial review._

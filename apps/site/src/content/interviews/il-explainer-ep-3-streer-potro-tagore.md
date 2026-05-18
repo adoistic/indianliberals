@@ -15,7 +15,3 @@ subject: ""
 ---
 
 Rabindranath Tagore was a poet, writer, thinker and Indian Liberal. On Rabindra Jayanti, we revisit _Streer Potro_ or _A Wife's Letter_ - an epistolary tale that talks about the individuality of a woman. Tagore's women protagonists often challenged the norm, much like Streer Potro's Mrinal.
-
----
-
-_Sourced from the WordPress database export (post ID 6827, https://indianliberals.in/content/il-explainer-ep-2-sultanas-dream-by-begum-rokeya/). Needs editorial review._

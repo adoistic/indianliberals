@@ -15,7 +15,4 @@ subject: "s-divakara"
 ---
 
 S. Divakara, Director-General of the Forum of Free Enterprise speaking about Nani Palkhivala's famous Union Budget commentaries. These commentaries used to be annually organised by the Forum in Bombay soon after Finance Minister's annual budget speeches.
-
----
-
-_Sourced from the WordPress database export (post ID 1823, http://localhost/IL/?post_type=content&#038;p=1823). Needs editorial review._
+type=content&#038;p=1823). Needs editorial review._

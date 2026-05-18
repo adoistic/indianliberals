@@ -19,7 +19,6 @@ related_thinkers: []
 _- _Dileep P Chandran (Fifth Prize Winner, Indian Liberals Essay Contest 2019)
 
 
-
 Democracy, in practice, is a rowdy affair. The definitional lacuna between the notions of democracy and majoritarianism is becoming less significant today. The ‘sacred’ sovereignty of states is an untouchable entity even for its own citizens. No one has the legitimate right to question majoritarian decisions taken by the “democratic state” which claim to establish a ‘good’ and ‘orderly’ society.
 Disagreeing with each other is a fundamental and natural human trait. Dissent, forming the essence of human nature, is quintessential for the ‘social’ survival of any human community. In simple terms, dissenting is a natural way of being in a society. Those who are in power is comprehending the notion of dissent in a way diametrically opposite to what it really is; and they are oblivious to the productive potential of the act of dissent which form and reform the human society perpetually. Once we are in power, we tend to think that every voice of disagreement as intended efforts to destabilize the apparatus of our orderly state. This prejudice goes to the extent in which the dissenting voices are silenced in the name of security and integrity of the nation. These are not abstract observations at least for India. For instance, Indira Gandhi, who was infamous for declaring national emergency in India in 1975, sometimes interpreted criticisms against herself as a move supported by external forces to stabilize her government.
 
@@ -34,7 +33,6 @@ Thus, Mill rejects the assumption of infallibility of those who are in a positio
 
 
 Silent agreement as the sole determiner of social and political stability is a myth which has an immanent tendency for violence. Mature society or society of minimum evil knows at least how to respect the right to dissent of their members. In that sense democracy is the best available matured form of governance or social formation which has the inherent potential to encourage and combine adverse opinions in a diverse society. It is because of the presence of dissent in it which functions to rescue from the narrowing perspective of orthodoxy and corresponding abuses of power.
-
 
 
 Representative democracy in India is an imagined idea. The people who are represented do imagine the democracy when their voices are reflected in the formal apparatuses of government. Everyone’s opinion may not necessarily constitute the final decisions of the government. But the minimum acceptable condition is that their voices are not arbitrarily depressed or rejected. The representatives are expected to act and reflect on everyone’s behalf; not that of a majority which she or he may wish to please. When affirming and dissenting voices are in conflict with each other and final decisions are stem out of this conflict, everyone’s opinion is truly valued; only in that state everyone could equally imagine a democracy. Democracy fails when this imagination fails.
@@ -56,7 +54,4 @@ What makes democracy without right to dissent can be anything except democracy. 
 
 
 Ph.D Scholar (UGC-JRF), School of Gandhian Thought & Development Studies, Mahatma Gandhi University, Kerala
-
----
-
-_Sourced from the WordPress database export (post ID 1578, http://localhost/IL/?post_type=content&#038;p=1578). Needs editorial review._
+type=content&#038;p=1578). Needs editorial review._

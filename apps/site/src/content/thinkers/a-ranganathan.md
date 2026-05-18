@@ -17,8 +17,3 @@ ai:
 ---
 
 # A Ranganathan
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/english-didnt-enslave-india-it-was-the-harbinger-of-a-new-creative-consciousness-a-ranganathan.md, content/theprint-mirror/jawaharlal-nehru-sc-compensation-a-ranganathan.md
-

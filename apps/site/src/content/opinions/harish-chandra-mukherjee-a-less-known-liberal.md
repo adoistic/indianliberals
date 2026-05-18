@@ -70,7 +70,4 @@ In spite of financial crunches in the late part of the 19th century, Harish Chan
 
 
 Harish Chandra may be remembered as a not so conspicuous contributor to Indian journalism, boldly remarking: _“Can a revolution in the Indian Government be authorised by Parliament without consulting the wishes of vast millions of men for whose benefit it is proposed to be made.”_
-
----
-
-_Sourced from the WordPress database export (post ID 1581, http://localhost/IL/?post_type=content&#038;p=1581). Needs editorial review._
+type=content&#038;p=1581). Needs editorial review._

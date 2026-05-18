@@ -50,7 +50,3 @@ _(This piece has been sourced, translated and reproduced here with permission fr
 
 
 Advocate Dinesh Sharma practices law at the district court and the Nagpur bench of Bombay High Court. Across Maharashtra, he is often called to speak on economics and related topics. He is a member of the Maharashtra committee of the Swatantra Bharat Party.
-
----
-
-_Sourced from the WordPress database export (post ID 5112, https://indianliberals.in/content/m-g-ranade-on-wealth-creation-2/). Needs editorial review._

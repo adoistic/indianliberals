@@ -163,7 +163,3 @@ And when you have considered the issue, . . . I pray that you will be moved to r
 Sir, now I beg to commend my amendment to the Bill for the consideration of this honourable House. 
 
 _Previous musing: [THE ROLE OF JUDICIARY IN PARLIAMENTARY DEMOCRACY](https://indianliberals.in/content/the-role-of-judiciary/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7081, https://indianliberals.in/content/the-role-of-judiciary-in-parliamentary-democracy/). Needs editorial review._

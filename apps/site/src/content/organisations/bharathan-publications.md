@@ -11,5 +11,3 @@ draft: false
 ---
 
 # Bharathan Publications
-*Entry pending editorial review.*
-

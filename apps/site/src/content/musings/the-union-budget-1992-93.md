@@ -38,7 +38,6 @@ The four main thrusts of the Budget are - liberalization, integration of India i
  	- Liberalization is the key to the Budget. (The only criticism can be that it measures liberalization with coffee spoons.) It is a Watershed Budget which marks the beginning of a new chapter in India’s economic history. We have left behind the terminal stage of our forty-year affair with shabby State socialism. It was our ideological socialism which had been responsible for India remaining the twentieth poorest nation on earth. Our gross domestic product is smaller than that of greater Los Angeles (population 14 million). We have more than 15 per cent of the world’s population, and less than 1.5 per cent of the world’s income. Our per capita income did not even double since we became a republic — it only increased 92 per cent in real terms.
 
 
-
 This year’s historic Budget for the first time reflects the consciousness of our government that fast economic growth would be impossible with woolly, outworn socialism which betrays a severe hardening of intellectual arteries and a pathetic lack of knowledge of the revolutionary changes which have recently swept across the world.
 
 During the last 25 years, China’s economic growth, despite its communism, has been more than twice as fast as India’s. The annual investment in China by foreign companies exceeds the total  investment in India in the last 44 years. The new foreign investment in China totalled $10 billion last year! There are already more than 2500 foreign enterprises operating in the .27 hi-tech industrial parks recently started in China. 
@@ -59,7 +58,6 @@ The United Nations Development Report, published last June, ranks the nations of
  	- If India is to have a stable and healthy balance of payments, it can only be through increased exports. Our share has dropped from 2.2 per cent of world exports in 1950 to 0.44 per cent. Among the exporting countries, India ranked sixteenth in 1950: today its rank has dropped to fortythird! Even Holland, one of the tiny countries of the world with a population of 15 million, has six times the exports of India! Hong Kong has almost three times the international trade of India, although its population is less than one per cent of India's - 0.7 per cent to be precise, while its land area is 0.03 per cent of India's.
 
 
-
 **Unjustified criticism**
 
 The least justified criticism of the Budget is that it has been framed under the dictates of the World Bank and the International Monetary Fund. The censure is levelled by those whose critical perception does not exceed forty watts. They should credit India with enough intelligence to make the right decision for itself after forty years of mistaken policy. Some of the ablest men in the two international institutions are Indians: to say that the Indian Government cannot think for itself is gratuitous self-condemnation.
@@ -71,7 +69,3 @@ Thirdly, the view has been expressed that the Budget has not done enough to chec
 Inflation is a worldwide phenomenon. A  dollar today is worth only 13 cents in 1945 money; a pound is worth six pence. Even the Deutschemark is only one-third of its value in 1948 when it replaced the worthless Reichsmark. 
 
 Again, the world economy is going through a period of recession. The current economic depression in the United States is billed as "the mother of all recessions" -the longest since 1945. General Motors, the giant among corporations, incurred a loss of $4.5 billion in 1991 -unparalleled in the Company's 84-year history. The critics claim that in Britain the recession is deeper than in any other country. About 20,000 companies went into liquidation in 1991, which works out to one in every 50 British companies. _Read the complete text: [The Union Budget 1992-93](https://indianliberals.in/content/the-union-budget-1992-93-by-n-a-palkhivala-march-3-1992/)__Read previous musing: [THE EMERGING SCENARIO IN EDUCATION](https://indianliberals.in/content/the-emerging-scenario-in-education-2/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6772, https://indianliberals.in/content/the-emerging-scenario-in-education-3/). Needs editorial review._

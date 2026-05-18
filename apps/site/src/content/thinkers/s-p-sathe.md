@@ -24,8 +24,3 @@ death_year: 2006
 ---
 
 # S. P. Sathe
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** phase-0.4-curation-from-mangalore-bake-off
-

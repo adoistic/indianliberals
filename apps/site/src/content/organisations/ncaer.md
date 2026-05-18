@@ -11,5 +11,3 @@ founded_year: 1956
 ---
 
 # NCAER
-*Entry pending editorial review.*
-

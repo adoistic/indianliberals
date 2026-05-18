@@ -133,7 +133,3 @@ Industrial Relations: Although Japan has a larger industrial labour force than o
 Urge to Excel: As a people the Japanese have been constantly-striving to excel other countries, even themselves. This is because of the confidence gained as a result of wide acceptability of their products in almost all markets of the world. The Indians, too, had great pride in their craftsmanship once. This needs to be rekindled.
 
 To conclude, there is no doubt that, despite the current problems of adjustment, Japan will continue to forge ahead. This is because of the several innate qualities which  the nation has demonstrated over the years, the most remarkable of them being the capacity to adapt and innovate. The enormous investments made in technology development will also ensure sustained progress, though the annual growth may be relatively lower than the trend rate._Last week’s musing: [THE RETREAT FROM SOCIALISM](https://indianliberals.in/content/the-retreat-from-socialism-2/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6717, https://indianliberals.in/content/the-retreat-from-socialism-3/). Needs editorial review._

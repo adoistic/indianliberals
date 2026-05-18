@@ -17,8 +17,3 @@ ai:
 ---
 
 # Minoo Shroff
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/joint-sector-some-issues-by-minoo-shroff-1972.pdf
-

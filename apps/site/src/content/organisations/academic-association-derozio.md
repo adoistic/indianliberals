@@ -13,5 +13,3 @@ dissolved_year: 1831
 ---
 
 # Academic Association (Derozio)
-*Entry pending editorial review.*
-

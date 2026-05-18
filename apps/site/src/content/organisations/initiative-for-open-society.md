@@ -11,5 +11,3 @@ draft: true
 ---
 
 # Initiative for Open Society
-*Entry pending editorial review.*
-

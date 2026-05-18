@@ -44,7 +44,3 @@ She continued, ‘His new bride’s parents wanted my hand in exchange for their
 ‘My father sacrificed my life for his happiness. My in-laws sacrificed their daughter’s life for their son’s happiness. If women like me had agency over themselves, would they let these kinds of incidents happen? Considering the stories of such women, I support _Har Bilas Sarda’s Child Marriage Restraint Act_. I request all kind men and women to support this Act too. If women oppose this Act, they are digging their own graves. Our ancient scriptures don’t support child marriages as well. Child marriages continue to happen only because of our.…’ The train came to a halt ending the conversation abruptly, and Sarada had to get down at her station.
 
 In another letter, she described the abrupt rise in the number of child marriages just before this Act was implemented. In a letter published two years later, she discussed how the proposed amendments to the Sarada Act allowed parents to apply for an exemption to get their daughter married before the age of fourteen and how they made the Act useless. She used a simple conversational writing style in _Sarada Lekhalu_ to ask ingenious questions and promote awareness about women’s issues, contributing to the social movement of pre-independent India.
-
----
-
-_Sourced from the WordPress database export (post ID 7978, https://indianliberals.in/content/anandibai-joshee-first-indian-woman-doctor/). Needs editorial review._

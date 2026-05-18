@@ -24,7 +24,6 @@ _This piece is an excerpt about Parliament’s Amending Power from Nani Palkhiva
 _You can read more about Nani Palkhivala [here](https://indianliberals.in/content/nani-palkhivala/) ___
 
 
-
 The arguments frequently urged against imposing any limits on Parliament’s amending power may nowbe examined.
 
 **“The democratically expressed will of the people”**
@@ -87,11 +86,6 @@ The following are some of the essential features of the Constitution which Parli
  	- The amendability of the Constitution according to the basic scheme of Article 368. The Constitution must continue to be amendable without being alterable in its essentials.
 
 
-
  
 
 _Previous musing: [Economic Growth with Social Justice(1969)](https://indianliberals.in/content/economic-growth-with-social-justice-1969/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8460, https://indianliberals.in/content/economic-growth-with-social-justice-1969-2/). Needs editorial review._

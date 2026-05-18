@@ -14,7 +14,3 @@ transcript_status: "none"
 ---
 
 In this #IndianLiberals monologue, Dr. Jaya Prakash Narayana ( Founder, Lok Satta Movement) emphasises the political framework in India and further outlines the path for fundamental reform through a liberal political alternative.
-
----
-
-_Sourced from the WordPress database export (post ID 3616, https://indianliberals.in/content/the-future-of-liberalism-in-a-post-pandemic-world-3/). Needs editorial review._

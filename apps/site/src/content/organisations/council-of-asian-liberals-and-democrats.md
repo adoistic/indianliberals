@@ -12,5 +12,3 @@ founded_year: 1993
 ---
 
 # Council of Asian Liberals and Democrats
-*Entry pending editorial review.*
-

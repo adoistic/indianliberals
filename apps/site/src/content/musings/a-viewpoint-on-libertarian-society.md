@@ -26,7 +26,3 @@ While a democratic society is a step on the road to libertarian society, its ins
 A libertarian society would require a whole group that was essentially aimless. It would require a whole group that would have no truck with the concept of "hope", that would act on the basis of substituting for the intolerable the less intolerable rather than acting on the basis of "solving the problem" or "making things right."
 
 It would not be a society involved in the concept of a "better" world, thereby carrying with it always the immense burden of the "worse.'' Rather, it would move and catch from problem to problem allowing circumstances, spontaneous genius and the space of events that we call time to lift it over each hump and out of every depression. It would, in other words, act exactly as we do, but it would recognise that that was what it was doing.
-
----
-
-_Sourced from the WordPress database export (post ID 4962, https://indianliberals.in/content/satyagraha-and-the-political-system-2/). Needs editorial review._

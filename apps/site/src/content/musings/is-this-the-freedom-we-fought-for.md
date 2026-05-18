@@ -128,7 +128,3 @@ Dear Sheilaji, 
 I have to thank you for your letter dated 22.2.1988. The proposed 'Dandi March' is, in my opinion, a parody of the original, as comic as the freedom run in Delhi. Instead of wasting money on this pseudo heroic march, make salt cheaper by 50%. That will be some tribute to the memorable event.
 
 Why not leave Bapu alone? At that time, Gandhiji had compared the real income of the common man with the salary and perks of the Viceroy of India Is Rajivji willing to do it now. Needless to say, I will have nothing to do with these funsters. I hope they will have plenty of Pepsi Cola on their way to Dandi."
-
----
-
-_Sourced from the WordPress database export (post ID 5086, https://indianliberals.in/content/is-there-a-middle-way-dr-f-a-mehta/). Needs editorial review._

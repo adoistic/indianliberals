@@ -103,7 +103,3 @@ In any case, three things are clear from the discussion so far: Rajaji’s worry
 
 **Sanjeet Kashyap**
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 6402, https://indianliberals.in/content/freedom-firsts-resistance-to-indira-gandhis-emergency/). Needs editorial review._

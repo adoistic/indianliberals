@@ -80,7 +80,3 @@ _The full text of the article can be accessed _[_here_](http://www.freedomfirst
 _[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 Read more: [SV Chitti Babu, academician, educationist and reformer par excellence (1920-2020)](https://spontaneousorder.in/sv-chitti-babu-academician-educationist-and-reformer-par-excellence-1920-2020/)
-
----
-
-_Sourced from the WordPress database export (post ID 2226, http://localhost/IL/content/so-musings-the-us-india-alignment-in-cold-war-2/). Needs editorial review._

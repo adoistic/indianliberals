@@ -12,5 +12,3 @@ founded_year: 1981
 ---
 
 # Council for Liberal Democracy
-*Entry pending editorial review.*
-

@@ -80,7 +80,4 @@ Kunzru’s pioneering legacy is thriving today in the Sapru House and Jawaharlal
 His other initiative in the Indian study of international affairs came in the form of the Indian School of International Studies. Established in 1955 by ICWA and affiliated to Delhi University, the School was meant to create an Indian intellectual tradition in international affairs. The project also had the support of Pandit Nehru who sought foreign policy scholars to steer India in international affairs. In 1961, ISIS became an autonomous deemed university and pioneered area studies in India. Though, it also became involved in [controversy](https://journals.sagepub.com/doi/abs/10.1177/002088171104700403) in the 1960s over its refusal to accept Hindi imposition. With the formation of JNU in 1969, the government sought to merge ISIS with the newly formed university. Kunzru, though opposed to the move, allowed himself to be persuaded by the faculty and students. The institution came to be known as the School of International Studies (SIS). Kunzru’s association with the school continued as he would consult faculty members in preparation for his speeches and debates.
 
 SIS annually conducts the prestigious [H N Kunzru Memorial Lecture](https://www.jnu.ac.in/content/sis-organising-pandit-hridya-nath-kunzru-memorial-lecture-series/) in tribute to its great liberal founding father. This is perhaps, unfortunately, what remains the only living memory of him.
-
----
-
-_Sourced from the WordPress database export (post ID 1566, http://localhost/IL/?post_type=content&#038;p=1566). Needs editorial review._
+type=content&#038;p=1566). Needs editorial review._

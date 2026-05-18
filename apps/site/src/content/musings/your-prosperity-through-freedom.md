@@ -14,12 +14,10 @@ _“Your Prosperity Through Freedom” was written by M. R. Pai and designed by 
 _You can read the complete, unabridged version here [Your Prosperity Through Freedom](https://indianliberals.in/wp-content/uploads/2023/07/Your-Prosperity-Through-Freedom.pdf)___
 
 
-
 Work–yes, everyone has got to work. But few know why. Mostly all will say that we work for a livelihood. But it is not only for a livelihood we work.
 
 
  	- We work because it is a social necessity.
-
 
 
 Today we are fast moving towards an industrial-based society that is based on **specialization **and **division** of labor.
@@ -38,7 +36,6 @@ Alone we could never produce everything and so many things. 
  	- We work because it gives us a sense of satisfaction (an essential element in human nature)
 
 
-
 - Isn’t this article I wrote really great!
 
 - Look what a wonderful cake I baked!
@@ -47,7 +44,6 @@ Alone we could never produce everything and so many things. 
 
 
  	- We work in order to buy leisure
-
 
 
 For instance, an employee gets his privilege leave every year, holidays every week, and on festival days or days of national importance. He also gets time for himself once he completes his eight-hour stretch at work. These leisure hours he can put to any use he likes, for instance-resting, photography, music, reading, outdoor life, games, etc. 
@@ -70,7 +66,6 @@ This means that, in effect, the state is above the individual. The government di
  	- in putting their leisure to activities of their choice
 
  	- neither have the liberties
-
 
 
 Leon Trotsky, the communist leader, after seeing communism in action, said:
@@ -97,7 +92,6 @@ Good examples of this state of affairs, viz. of **State Capitalism,** are commun
  	- There are no parties except one and no free elections
 
 
-
 Socialist countries, in their end result, are no different from communist ones. Like communism, socialism is a collectivist ideology. Socialism professes faith in individual freedom.
 
 But its method of promoting it by nationalization of private industries and state ownership of all means of production, distribution, and exchange led to state capitalism similar to that of a communist society.
@@ -105,7 +99,3 @@ But its method of promoting it by nationalization of private industries and stat
 State ownership leads to state capitalism!
 
 _Previous musing: [National Priorities for 1970](https://indianliberals.in/content/national-priorities-for-1970-by-minoo-masani/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8161, https://indianliberals.in/content/national-priorities-for-1970-2/). Needs editorial review._

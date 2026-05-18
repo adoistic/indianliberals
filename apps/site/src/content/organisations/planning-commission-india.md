@@ -12,5 +12,3 @@ dissolved_year: 2014
 ---
 
 # Planning Commission INDIA
-*Entry pending editorial review.*
-

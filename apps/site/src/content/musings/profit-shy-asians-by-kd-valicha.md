@@ -14,7 +14,6 @@ _K D Valicha’s piece “Profit-Shy Asians,” featured in the August 1957 edit
 _You can read the complete, unabridged version here [The India Libertarian Aug 1957](https://indianliberals.in/wp-content/uploads/2023/08/The-India-Libertarian-Aug-1957.pdf)___
 
 
-
 Many people in India today believe that free enterprise, unchecked and unrestricted by any State control, will lead to anarchy and disorder. This wrong notion arises from a misconception about the term 'free enterprise.'
 
 Logically, there can be no anarchy; there can only be various orders. The difference between free enterprise and socialism or communism is not that the former is disorderly while the latter is given to order but a difference between patterns of economy. Under free enterprise, there is an absence of an authority to establish and regulate the hierarchy of needs and wants and the proportion of each for the individual, while under communism, all desires of the individual are dictated by a central, supreme authority.
@@ -40,7 +39,3 @@ Libertarianism, which seeks to retain capitalism while curing it of monopoly, ha
 Today is the anti-socialist era. Libertarianism is fighting, dedicated with all its power and love of liberty. It does not matter whether it wins in the political sphere. What matters is not political parties but ideas.
 
 _Previous musing: [The Evils of Child Marriage (1850)](https://indianliberals.in/content/the-evils-of-child-marriage-by-ishwar-chandra-vidyasagar/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8191, https://indianliberals.in/content/the-evils-of-child-marriage-1850/). Needs editorial review._

@@ -15,7 +15,4 @@ subject: "jagdish-bhagwati"
 ---
 
 Jagdish Bhagwati discusses Friedman’s disenchantment with the Planning Commission and the centralized economic planning approach adopted by India.
-
----
-
-_Sourced from the WordPress database export (post ID 1804, http://localhost/IL/?post_type=content&#038;p=1804). Needs editorial review._
+type=content&#038;p=1804). Needs editorial review._

@@ -89,7 +89,3 @@ Many eminent men in the past have been aware of this danger and cautioned agains
 However, it was Justice Oliver Wendell Holmes who put it most explicitly back in 1896 when he said: “One of the eternal conflicts of which life is made up is that between the effort of every man to get the most he can for his services, and that of society, disguised under the name of capital, to get his services for the least possible return.” And the correct response to this, in my opinion, came from Pope Pious XII in 1946, again a half-century later, when he said: “An erroneous doctrine affirms that you- representatives of labour-and you- representatives of Calitak- are forced to battle each other in butter and implacable struggle, and that industrial pacification can it be reached except at this price… To obtain the desired harmony between labour and capital, professional organisations and unions have been devised, both of which are intended not as a weapon directed exclusively towards defensive and offensive war, which causes reactions and reprisals, not as an overflowing river, which is divided, but as a bridge which unites.”
 
 _Previous musing: [Community Development](https://indianliberals.in/content/community-development/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7874, https://indianliberals.in/content/community-development-2/). Needs editorial review._

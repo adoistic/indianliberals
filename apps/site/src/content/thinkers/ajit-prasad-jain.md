@@ -17,8 +17,3 @@ ai:
 ---
 
 # Ajit Prasad Jain
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/grave-dangers-of-state-trading-in-foodgrains-by-ajit-prasad-jain-november-2-1959.pdf
-

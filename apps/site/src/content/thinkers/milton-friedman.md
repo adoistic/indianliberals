@@ -17,8 +17,3 @@ ai:
 ---
 
 # Milton Friedman
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/india-needs-a-free-market-interest-rate-by-milton-friedman-may-9-1963.pdf
-

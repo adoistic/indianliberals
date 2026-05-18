@@ -17,8 +17,3 @@ ai:
 ---
 
 # G N Lawande
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/communism-assumptions-gn-lawande.md, content/theprint-mirror/planning-unemployment-india-five-year-plans.md, content/theprint-mirror/welfare-state-is-socially-and-economically-a-national-disaster-gn-lawande.md
-

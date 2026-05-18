@@ -104,31 +104,10 @@ The argumentative Ambedkar though was not just all praise for Justice Ranade and
 In conclusion, Ambedkar himself was no liberal. That much he made clear in the speech itself. Yet, he was able to find a lot of common ground with them. Ranade’s career and his struggle for social reform in many sense mirrored Ambedkar’s later efforts in a similar direction. The radical in him notwithstanding, Ambedkar was very much willing to admit the connection. To me, herein lies the possibility of making an alliance between the ideological descendants of Ambedkar and Ranade in ensuring individual freedom. Moreover, Ambedkar’s diagnosis of Indian liberal failure also has relevance today. The lack of mass outreach, a distaste for identity-based emotive politics, and largely elite character of liberal individuals still account for the absence of a liberal political party in India. Indian liberals might as well do better to pay heed to Ambedkar’s counsel.
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-
-
-
-
-
-
-
-
 
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4734, https://indianliberals.in/content/the-radical-humanism-of-jyotiba-phule-2/). Needs editorial review._

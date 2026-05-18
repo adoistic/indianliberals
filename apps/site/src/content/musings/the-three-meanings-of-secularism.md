@@ -22,7 +22,3 @@ Another, peculiarly Indian element, in the concept of secularism is the value of
 **Secularism Based on Rational Morality**
 
 The third sense of secularism is that it is a world-view which claims to be based on rational, i.e. scientific knowledge of things and rational morality, i.e. utilitarian morality qualified by some principle of justice. This is the aggressive element in secularism because it denies any place to the transcendent whether in the scheme of things or as a component in the human personality. Secularism even in this aggressive form has a positive role to play because it throws a challenge to traditional religions to put their houses in order, to purify, refine and develop their values so as to enable them to face the problems of contemporary life. But what place reason has in human knowledge and human life is a largely philosophical question which can have no agreed and definitive answer. As a world-view secularism is no more than one member of a family of world-views, relations between which need to be based on the principle of sarva-dharma-samabhava.
-
----
-
-_Sourced from the WordPress database export (post ID 4996, https://indianliberals.in/content/a-viewpoint-on-libertarian-society-2/). Needs editorial review._

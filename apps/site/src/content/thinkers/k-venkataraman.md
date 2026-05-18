@@ -18,7 +18,3 @@ ai:
 ---
 
 # Dr. K. Venkataraman
-
-*Entry created during the Phase A cross-link audit. The full bio is queued for a Phase 1.5 AI-drafted pass.*
-
-This thinker appeared as an author or subject in the corpus. Until a real bio lands, see the works and pieces linked below.

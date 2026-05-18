@@ -111,7 +111,3 @@ A regenerated secular India would have been the greatest monument to their memor
 I can only say that just as we do not deserve our sublime Constitution, just as we do not deserve to have great leaders like Mahatma Gandhi, we did not deserve the galaxy of Indians mentioned earlier, who gave of their lives and of their selves in the service of the country. 
 
 _Previous musing: [THE ROLE OF JUDICIARY IN PARLIAMENTARY DEMOCRACY](https://indianliberals.in/content/the-role-of-judiciary/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7193, https://indianliberals.in/content/fundamental-rights-our-protection-against-tyranny/). Needs editorial review._

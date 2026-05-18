@@ -12,5 +12,3 @@ founded_year: 1919
 ---
 
 # Hoover Institution
-*Entry pending editorial review.*
-

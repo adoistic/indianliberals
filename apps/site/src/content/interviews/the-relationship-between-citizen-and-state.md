@@ -13,7 +13,3 @@ transcript_status: "none"
 ---
 
 In this #IndianLiberals monologue, Dr. Jaya Prakash Narayana ( Founder, Lok Satta Movement) discusses the liberalism's larger philosophy i.e. the relationship between Citizen and State
-
----
-
-_Sourced from the WordPress database export (post ID 3617, https://indianliberals.in/content/the-future-of-liberalism-in-a-post-pandemic-world-4/). Needs editorial review._

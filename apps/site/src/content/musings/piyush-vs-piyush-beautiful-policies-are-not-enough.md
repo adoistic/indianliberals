@@ -19,7 +19,3 @@ Piyush Gupta, the CEO of DBS Bank of Singapore, countered by saying that money i
 Jin Liquin moved in to say that money is like water — it follows the path of least resistance. Therefore, governments should not just focus on policies. They should also help reduce the practical difficulties faced by infra developers and financiers in their daily work.
 
 And therein lies a lesson for policy makers — drafting good policies is not enough. Day-to-day hassles faced by infra developers have also to be also addressed to see significant increase in private sector participation in infrastructure. The key central ministries in India — power, roads and railways — have seen huge investment interest thanks to the policies of the central government. But operational challenges at the State level and challenges with the implementation of these policies can negate the benefits of ‘beautiful’ policies.
-
----
-
-_Sourced from the WordPress database export (post ID 2364, http://localhost/IL/content/so-musings-the-retreat-from-socialism-2/). Needs editorial review._

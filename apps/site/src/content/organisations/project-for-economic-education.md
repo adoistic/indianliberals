@@ -12,5 +12,3 @@ founded_year: 1997
 ---
 
 # Project for Economic Education
-*Entry pending editorial review.*
-

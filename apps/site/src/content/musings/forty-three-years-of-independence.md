@@ -213,7 +213,3 @@ One last thought, and I shall have done. Today, the unity and integrity of India
 The day will come when the 26 States of India will realize that in a profound sense they are culturally akin, ethnically identical, linguistically knit and historically related. The greatest task before India today is to acquire a keener sense of national identity, to gain the wisdom to cherish its priceless heritage, and to create a cohesive society with the cement of Indian culture. We shall then celebrate the 15th day of August not as the Day of Independence but as the Day of Inter-dependence- the dependence of the States upon one another, the dependence of our numerous communities upon one another, the dependence of the many castes and clans upon one another - in the sure knowledge that we are one nation. 
 
 _Previous musing: [OBSTACLES TO LIBERALISATION AND MARKET ECONOMY](https://indianliberals.in/content/obstacles-to-liberalisation-and-market-economy/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6988, https://indianliberals.in/content/obstacles-to-liberalisation-and-market-economy-2/). Needs editorial review._

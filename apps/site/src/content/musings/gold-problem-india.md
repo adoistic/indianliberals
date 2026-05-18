@@ -59,7 +59,3 @@ _First Published in the Forum of Free Enterprise in July 1963._
 _Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
-
----
-
-_Sourced from the WordPress database export (post ID 2315, http://localhost/IL/content/so-musings-has-private-enterprise-failed/). Needs editorial review._

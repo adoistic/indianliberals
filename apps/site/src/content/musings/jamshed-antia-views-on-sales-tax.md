@@ -36,7 +36,6 @@ Under a Federal Constitution such as India's, there is a division of powers betw
  	- Sales in the course of Inter-state Trade.
 
 
-
 It also authorises Parliament to formulate principles for determining where a sale takes place in any of the three ways just mentioned. Further, Sales Tax on sales in the course of Inter-state Trade was made a Central subject.
 
 The Constituent Assembly recognised that certain goods were essential to the life of the nation and that taxes on their sales should be Centrally regulated. It was, therefore, provided by the Constitution that no tax on the sale or purchase of any goods declared by Parliament by law to be essential to the life of the community should be imposed unless it had received the prior approval of the President. Accordingly, the Essential Goods Act, 1952, was passed and 15 commodities, including among others, cereals, coal, and raw cotton, were declared to be essential goods. The aim of the Constituent Assembly was to introduce a certain degree of uniformity in the taxation of these goods and not to completely exempt them from taxation. The President however adopted the policy of freezing the existing tax structures which caused considerable discontent, and the opportunity was taken at the time of amending the Constitution to introduce a further provision to the effect that taxation of the sale or purchase of goods declared by Parliament by law to be of special importance in Inter-state Trade or Commerce would be subject to such restrictions and conditions in regard to the levy, rates and other incidents of taxes as Parliament may by law impose.
@@ -57,7 +56,6 @@ The Central Sales Tax Act has formulated the principles for determining various 
  	- **Sale in the course of Import or Export** - A sale is regarded as being in the course of import or export if the property in the goods passes by transfer of documents while the goods are still beyond the frontiers 9f India, or if such sale or purchase occasions the export or import of goods.
 
  	- **Sale in the course of Inter-state Trade** - A sale will be deemed to be in the course of Inter-state Trade either when the contract of sale occasions the movement of goods from one State to another, or when the property in the goods passes by transfer of documents while the goods are in transit from one State to another.
-
 
 
 b. Goods declared to be of special importance in Inter-state Trade: 
@@ -82,7 +80,6 @@ The effect of the several provisions of the Central Act as regards rates of tax 
  	- Where a registered dealer sells in the course of Inter-state Trade or Commerce goods to an unregistered dealer or to a consumer, the sale will be treated as though it had taken place inside the State and will be taxed at the General Sales Tax rate in the despatching State.
 
 
-
 b. Sales Tax on sales inside the State: 
 
 Intra-state sales are subject to varying rates ranging from less than 1% to 30%. These differ from State to State.
@@ -102,14 +99,11 @@ How can there be integration in taxation when all the efforts of the Centre to g
 _Table illustrating the relative burden of Sales Tax __and Income-tax in Bombay City_
 
 
-
 **Income Monthly**
 
 **(Rs.)**
 **Monthly Estimated Sales Tax if the Monthly Income is spent (Rs.)**
 **Monthly Estimated Income-tax (Rs.) **
-
-
 
 
 _Married individuals with 2 children _
@@ -156,7 +150,6 @@ nil
 45.26
 44.18
 49.01
-
 
 
  
@@ -229,11 +222,6 @@ However, all suggestions for reform of the Sales Tax system seem to proceed on t
  	- the States should be compensated for loss of revenue by grants in accordance with formulae which can be worked out by the Finance Commission.
 
 
-
 To make the Administration more efficient, I recommend that the salaries of Sales Tax Officers should be increased to make them more consistent with the wide powers wielded by these officers. Revision of salaries may be expected to eliminate any possible temptations to stray from the path of strict integrity. But revision of salaries will not by itself be sufficient. It is also essential that the Department and its Officers should be re-educated in their responsibilities. Further, Sales Tax Officers should be thoroughly trained and should be made to approach the assessee with an open mind. I also most strongly urge that the Department should insist on accounts and sales breakdowns being audited by Chartered Accountants. In this connection I point to the practice adopted by the Income-tax Department. Thirdly, the machinery of Administration should be streamlined so as to eliminate departmental delays. The appointment of a Public Relations Officer may help in this direction.
 
 If the above improvements in the Sales Tax are undertaken, they will place in the hands of the Government a most powerful weapon for controlling the economy in a democratic manner. Through the medium of Sales Tax the Government will be able to control the direction of resources without stifling private enterprise. It will mean more popularity for the Government, lower burdens on the consumer, and greater flexibility in the economy resulting in higher living standards and more production. It will create a climate of confidence in which free enterprise will be able to play a major role in promoting the welfare of the nation and will bring nearer the day when India's dream of an integrated tax structure will become a reality.
-
----
-
-_Sourced from the WordPress database export (post ID 5025, https://indianliberals.in/content/humanism-science-and-rationalism-3/). Needs editorial review._

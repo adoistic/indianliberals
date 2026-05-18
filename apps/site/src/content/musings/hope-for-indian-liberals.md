@@ -32,7 +32,3 @@ _Access the full document [here](http://v2.indianliberals.in/~_admin/pdflanguag
 _First Published in The Liberal Times – November 1995_
 
 _Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
-
----
-
-_Sourced from the WordPress database export (post ID 2343, http://localhost/IL/content/so-musings-do-we-deserve-our-prime-ministers-2/). Needs editorial review._

@@ -14,7 +14,4 @@ subject: "gp-manish"
 ---
 
 [wikilogy_video_audio_element contenttype="html5audio" html5link="http://indianliberals.in/Document/audio/611545226.mp3"]
-
----
-
-_Sourced from the WordPress database export (post ID 2150, http://localhost/IL/?post_type=content&#038;p=2150). Needs editorial review._
+type=content&#038;p=2150). Needs editorial review._

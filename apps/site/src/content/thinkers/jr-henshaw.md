@@ -17,8 +17,3 @@ ai:
 ---
 
 # JR Henshaw
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/success-in-agriculture-through-free-enterprise-by-jr-henshaw-december-10-1964.pdf
-

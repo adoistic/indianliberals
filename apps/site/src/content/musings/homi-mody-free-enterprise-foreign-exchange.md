@@ -27,7 +27,3 @@ In the present political climate, it may appear an academic exercise to assess t
 "The legitimate object of Government is to do for a community of people whatever they' need to have done, but cannot do at all, or cannot so well do for themselves in their separate and individual capacities. And in all that the people can individually do as well themselves, Government ought not to interfere.'' 
 
 _Previous musing: _[CONSUMER SOVEREIGNTY LEADS TO RAPID ECONOMIC DEVELOPMENT](https://indianliberals.in/content/consumer-sovereignty-leads-to-rapid-economic-development/)
-
----
-
-_Sourced from the WordPress database export (post ID 6942, https://indianliberals.in/content/consumer-sovereignty-leads-to-rapid-economic-development-3/). Needs editorial review._

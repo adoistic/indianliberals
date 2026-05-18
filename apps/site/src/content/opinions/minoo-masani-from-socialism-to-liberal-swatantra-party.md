@@ -144,31 +144,10 @@ The sorry demise of Swatantra, however, didn’t put an end to Masani’s libera
 Zareer Masani, historian and Minoo’s son, has [argued](https://theprint.in/opinion/no-accident-india-forgot-swatantra-leader-my-father-minoo-masani-the-beef-eating-parsi/250483/) that the public discourse in India has recently seen a revival of Rajaji’s legacy while Minoo, the beef-eating, westernised, and atheist Parsi, remains forgotten. I would argue that in Masani, Indian liberals should find a more appropriate icon to emulate. Rajaji, after all, was a [self-identified conservative](https://penguin.co.in/book/non-fiction/rajaji-a-life/) rooted in his Hindu identity. Minoo Masani, in contrast, drew his ideas from the West to shape liberal India.
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-
-
-
-
-
-
-
-
 
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4909, https://indianliberals.in/content/indian-liberals-quest-magazine-and-indias-first-dictatorship/). Needs editorial review._

@@ -13,6 +13,4 @@ transcript_status: "none"
 
 ---
 
----
-
-_Sourced from the WordPress database export (post ID 1765, http://localhost/IL/?post_type=content&#038;p=1765). Needs editorial review._
+type=content&#038;p=1765). Needs editorial review._

@@ -40,7 +40,4 @@ The independence and the partition marked the beginning of the years of food sho
 This signalled the right moment for the emergence of a Nationalist farmers’ organisation. The blame for the poverty could no more be put on the moneylenders or on the landlords. It was no more possible to blame the illiteracy, the indolence and wasteful social customs. The time survived for the emergence of the Shetkari Sanghatana.  
 
 To read the full text, click on this [link](https://indianliberals.in/liberals/visionaries-of-a-new-bharat-shetkari-sanghatana.pdf).
-
----
-
-_Sourced from the WordPress database export (post ID 8520, https://indianliberals.in/?post_type=content&#038;p=8520). Needs editorial review._
+type=content&#038;p=8520). Needs editorial review._

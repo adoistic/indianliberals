@@ -14,7 +14,4 @@ subject: "minoo-shroff"
 ---
 
 Minoo Shroff of the A D Shroff Memorial Trust talks about Nehru, welfare, entitlements and India's promise
-
----
-
-_Sourced from the WordPress database export (post ID 1819, http://localhost/IL/?post_type=content&#038;p=1819). Needs editorial review._
+type=content&#038;p=1819). Needs editorial review._

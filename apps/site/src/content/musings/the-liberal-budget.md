@@ -74,7 +74,6 @@ _Published by The Indian Liberal Group, a think tank founded in 1964 by Minoo Ma
 _The following text is the Executive Summary of the brief. __You can read the original, unabridged version _[_here_](https://indianliberals.in/indian-liberal-group/liberal-budget-building-equitable-society.pdf)_._
 
 
-
 Man is the measure of all things. This about sums up the Liberal credo. Liberalism has no dogma except one - the centrality of the human being; what is good for him or her is acceptable. What is not is not. Liberalism, like Socialism, aims to promote the welfare of all. As Ludwig von Mises, the great Liberal philosopher, put it, where the two differ is "_not be the goal at which it aims, but the means that it chooses to attain the goal._"
 
 Philosophically speaking, the Liberal position is very clear. It is that the business of government is governance and not business. In a Liberal State, the individual is supreme, and the State must work to further his or her potential. So it will focus its activities on law and order, defence, and physical and social infrastructure (health, education and a social safety net).
@@ -91,7 +90,6 @@ When preparing this Liberal Budget from a Liberal perspective, we have kept thes
  	- Acceleration of Growth
 
  	- Promotion of Equity
-
 
 
 The main focus of the Liberal Budget will be issues concerning human development or human capital formation - health, education and a social safety net for those who are not capable of looking after themselves.
@@ -122,7 +120,6 @@ What kind of targets relating to human development should the Liberal State set 
  	- Provide cost-effective means of safe and sanitary disposal of solid waste and wastewater.
 
 
-
 While framing the Liberal Budget, we have recognised some distinctive recent changes, especially the tax policy, which reflects what Indian Liberals have been advocating in the preceding several decades. This change has already brought about several remarkable gains in our economic performance, particularly in the industry and the external sector of the economy. But this exercise is far from complete. Much more remains to be done, and we will endeavour to set out a strategy to make India a truly world-class economic power over the next decade, even while attending to the basic needs of the population, particularly in rural India.
 
 The liberal economic philosophy recognises the importance of expenditure policy as a powerful tool of fiscal policy. The expenditure policy impacts key parameters of socioeconomic development, employment generation and poverty alleviation. It directly affects or indirectly the sectoral composition of growth as well as patterns of the income distribution. Thus, an efficient expenditure policy is a critical component in accelerating growth and improving its quality.
@@ -139,7 +136,6 @@ In this context, the effort of the Liberal Budget is not merely to reduce and ra
  	- Last, it is imperative to devise specific qualitative benchmarks to evaluate the effectiveness of both development and non-development expenditure.
 
 
-
 The Liberal Budget envisages a systematic and rigorous expenditure management process, essentially reflecting the following elements:
 
 
@@ -154,7 +150,6 @@ The Liberal Budget envisages a systematic and rigorous expenditure management pr
  	- Fifth, in designing the process, there must be a participation of the officials concerned so that there is a clear understanding of the missions, aspirations and targets. Also, a quarterly report card would become a useful tool for constantly monitoring the process.
 
  	- Sixth, the process shall be transparent, and the aspirations and targets of these missions shall also become part of the public domain.
-
 
 
 Expenditure reduction has to be accompanied by steps to raise revenues to fund government spending in essential areas. Both tax and non-tax revenues have to be tapped. The policy prescriptions (both Budget and non-budget) set out in this document will result in significant buoyancy in tax and non-tax revenues. Restoring high growth levels and increased investment activity will automatically lead to the growth of revenues.
@@ -183,7 +178,6 @@ In recent years, the Union Budget has been looked upon as an Annual Financial St
  	- Identify some of the crucial factors that influence the Budget; and
 
  	- Suggest specific policy reforms to enable the Liberal Budget to become functionally effective.
-
 
 
 The process of disinvestment/privatisation of PSUs needs to be speeded up substantially and extended to state-level public sector enterprises. The criterion for privatisation must not be whether a PSU is loss-making or profit-making. The test should be whether the State should be in that field of activity in the first place. While deciding on issues of disinvestment/privatisation, the Liberal Budget will not be guided by arbitrary or ad hoc considerations of the strategic reasons for PSUs' businesses and operations.
@@ -216,13 +210,8 @@ The Liberal Budget also calls for the following crucial policy initiatives:
  	- Political Environment: It will not be possible to create a liberal economic environment unless there is a major change in the political environment and culture in the country. Political parties and politicians must learn to rise above narrow personal and partisan ends and addresses the needs of the nation.
 
 
-
 Besides, there is the phenomenon of legislative work being sacrificed at the altar of political grandstanding in Parliament and state assemblies. All this needs to be checked.
 
 Law and order is another issue that needs to be addressed. Though not an economic issue, it has a far-reaching impact on the country's economy. Neither domestic nor foreign investors would like to put their money in areas where the law and order situation is poor. The government has to make efforts to address the root causes of violence and maintain law and order firmly. In substance, the Liberal economy requires the Liberal Budget of the kind envisioned in this document.
 
 _Previous musing: [The Missed Opportunity](https://indianliberals.in/content/the-missed-opportunity/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7965, https://indianliberals.in/content/the-missed-opportunity-2/). Needs editorial review._

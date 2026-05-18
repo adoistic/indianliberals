@@ -53,7 +53,3 @@ THE NECESSARY AMENDMENT 
 Our Constitution as it is needs only one amendment. The time limit for the use of English in our day-to-day administration must be extended by a further period of twenty-five years, if not more. The most important thing at the moment is to make the Government take suitable steps to amend the Constitution to include English as one of the languages mentioned in the Eighth Schedule. The next step would be to delete Part XVII of the Constitution.  Indeed, even article 315 of the Constitution has made it clear that Hindi is still an undeveloped language and it is difficult to understand the reason behind the idea of imposing Hindi, when English serves our purposes admirably. Again Article 344 (3) says that in making their recommendations, the (official language) commission shall have due regard to the industrial, cultural and scientific advancement of India and the just claims and the interests of persons belonging to the non-Hindi-speaking areas in regard to the public services. Mr. P. Medapa, says foreign language is legally untenable and constitutionally incorrect. It is well to remember in this connection that the Bombay High Court had shown that English is not a foreign language in pronouncing judgement on the celebrated Bombay School case.
 
 _Previous musing: [IS SOCIALISM OUTDATED?](https://indianliberals.in/content/is-socialism-outdated/)_
-
----
-
-_Sourced from the WordPress database export (post ID 4693, https://indianliberals.in/content/democracy-and-liberalism-contrasting-ideals-2/). Needs editorial review._

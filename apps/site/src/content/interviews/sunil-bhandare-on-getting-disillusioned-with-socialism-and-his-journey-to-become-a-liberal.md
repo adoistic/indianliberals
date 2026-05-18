@@ -14,7 +14,4 @@ subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group speaks about getting disillusioned with socialism and his journey to become a liberal.
-
----
-
-_Sourced from the WordPress database export (post ID 1829, http://localhost/IL/?post_type=content&#038;p=1829). Needs editorial review._
+type=content&#038;p=1829). Needs editorial review._

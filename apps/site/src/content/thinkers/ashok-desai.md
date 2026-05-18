@@ -17,8 +17,3 @@ ai:
 ---
 
 # Ashok Desai
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/economic-controls-in-india-liberalisation-history.md
-

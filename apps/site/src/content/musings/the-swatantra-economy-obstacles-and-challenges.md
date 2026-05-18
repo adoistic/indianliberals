@@ -62,7 +62,6 @@ Among other dangers to the liberalization process were : 
  	- the fact that despite the declared intention in giving up licencing, controls and subsidies, entrepreneurs are continuously subjected to various regulations by politicians and bureaucrats.
 
 
-
 The politicians and bureaucrats who obstruct the liberalisation process for their own narrow selfish ends have unfortunately the support of large classes of people like employees in the public sector, farmers, small manufacturers and others who benefit from the controls, regulations and subsidies in our present economy. In reality the losses they suffer because of the present economic system, are far more than the gains they secure from it. It is however a very difficult task to bring it home to them.
 
 Perhaps the biggest obstacle to liberalization is the emasculation of the people and the development of the habit of total dependence on the state for the solution of their problems. "When a population loses its character and ability to be sturdily self-reliant, it is unlikely to support the dismantling of the socialist welfare state. On the contrary, the people are likely to support continuation of the socialist welfare state because it protects them from demands that a free market economy makes on them,” observed Prof. Gadgil. 
@@ -72,7 +71,3 @@ Emphasizing the importance of voluntary organizations and voluntary effort in so
 Pointing out the need for voluntary workers who steadily build independent social organisations which are committed to steady, constructive effort and which firmly resist encroachments on individual liberty by the Government”, Prof. Gadgil said that fortunately there were, even today a few such organisations in India. He pointed out men like Anna Hazare and Pandurangshastri Athavale who have built such organisations. 
 
 Concluding the 1994 Rajaji Birthday Lecture, Prof. Gangadhar Gadgil underlined the crucial need for the policy of liberalisation to succeed. He said: "Liberalisation might cause pain in the short run but it will bring immense benefits in the long run. It has been done in so many Asian countries, which until recently were as poor and undeveloped as we are. We must learn from their experience and find ways of minimizing economic distress as we progress along the path of liberalisation."
-
----
-
-_Sourced from the WordPress database export (post ID 4707, https://indianliberals.in/content/the-individual-and-indian-constitution-2/). Needs editorial review._

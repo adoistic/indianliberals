@@ -139,7 +139,3 @@ It seems like Americans and Europeans more than others take freedom, wealth and 
 Even though we have seen history's biggest reduction in poverty, poverty is still with us, and in many places it deepens. According to the World Bank 1.2 billion live in absolute poverty, and 900 million people live in chronic hunger. History, statistics, theory and the poor themselves all-say that the problem is not globalisation, it is that they do not yet have access to the fruits of globalisation. It is worth repeating the words of UN Secretary-general Kofi Annan at the UNCTAD Conference in Bangkok on 12th February 2000, soon after the demonstrations against the WTO:
 
 'The main losers in today's very unequal world are not those who are too much exposed to globalisation. They are those who have been left out" _Last week's musing: [MANIFESTO FOR INDIAN LIBERALS](https://indianliberals.in/content/manifesto-for-india-liberals/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6136, https://indianliberals.in/content/our-economic-future-2/). Needs editorial review._

@@ -26,7 +26,3 @@ As long as we create an ecosystem of education, where every parent has a choice 
 But without the first step of ‘choice’, the progression to what quality education is and how it should be disseminated is moot.
 
 Note: The full version of the trancript can be found [here](http://prayatna.typepad.com/files/2014_06_09_parth_shah_education_in_india_podcast_transcript.html).
-
----
-
-_Sourced from the WordPress database export (post ID 2379, http://localhost/IL/content/spontaneous-musings-kanwal-rekhi-on-liberalisation-for-the-sake-of-the-poor-2/). Needs editorial review._

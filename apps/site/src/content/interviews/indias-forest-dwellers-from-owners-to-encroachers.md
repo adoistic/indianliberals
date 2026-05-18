@@ -14,7 +14,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) video. Ambrish Mehta and Trupti Mehta ( Activists, ARCH-Vahini) explain the historical, political and social reasons which led to the plight of forest-dwellers from being owners to encroachers on their own land.
-
----
-
-_Sourced from the WordPress database export (post ID 1800, http://localhost/IL/?post_type=content&#038;p=1800). Needs editorial review._
+type=content&#038;p=1800). Needs editorial review._

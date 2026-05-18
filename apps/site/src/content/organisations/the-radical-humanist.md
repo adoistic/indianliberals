@@ -12,5 +12,3 @@ draft: true
 ---
 
 # The Radical Humanist
-*Entry pending editorial review.*
-

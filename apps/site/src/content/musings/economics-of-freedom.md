@@ -109,7 +109,3 @@ It was part of the greatness of Mahatma Gandhi that he was early to sense this c
 I should like to think that there are many who share the concern I have expressed about the dangers that loom ahead and that they are just as anxious to ensure that our country and our people are protected from them. It is time for such men to act, for we live today in a climate where the passion for social justice and equality burns so strongly in many breasts that it blinds even otherwise intelligent and wise men from seeing where they are heading. One is reminded of the story of the mule that the farmer took to market and sold at a very low price–a good, healthy, upright, athletic animal. When the buyer, however, turned to drive away, the mule ran straight into a tree. “Look here”, yelled the buyer, “this mule you sold me is blind.” “No, he ain’t blind,” said the farmer, “he just don’t give a damn!”
 
 _Previous musing: [The Nation by RN Tagore (1917)](https://indianliberals.in/content/the-nation-by-rn-tagore/)_
-
----
-
-_Sourced from the WordPress database export (post ID 4650, https://indianliberals.in/content/what-is-fascism-by-minoo-masani/). Needs editorial review._

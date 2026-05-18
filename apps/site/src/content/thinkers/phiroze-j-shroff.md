@@ -17,8 +17,3 @@ ai:
 ---
 
 # Phiroze J Shroff
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff.md
-

@@ -61,7 +61,3 @@ _**_Katczinsky_**_: And on the big day, you should take all the kings and their 
 Towards the end of the film, Paul takes a trip to his hometown on a furlough where he finds the stark contrast between what the people of his town thinks of the war and the realities that he has witnessed and experienced at the battlefront. The people here are being foolishly patriotic and ignorant of the realities that they have never seen or experienced. On his visit to his old school, he sees his teacher giving the same old speech to a new batch of students and asking them to enlist to serve their Fatherland. Disgusted by it all, he returns to the battlefront even before his leave is over. He finds that most of his company men are dead and have been replaced by young kids fresh out of school just to fill the ranks, who haven’t even received proper training.
 
 The film is a double Academy Award winner for Best Picture and Best Director. It was the first talkie war film to win Oscars. All Quiet on the Western Front has been acknowledged as the seventh best film in the epic genre of all time by the [American Film Institute](http://en.wikipedia.org/wiki/American_Film_Institute)(AFI) in its 2008 list. This movie is highly recommended for its anti-war theme and success in highlighting the tragedies of war as seen through the eyes of individuals.
-
----
-
-_Sourced from the WordPress database export (post ID 2205, http://localhost/IL/content/so-musings-the-perils-of-a-welfare-state/). Needs editorial review._

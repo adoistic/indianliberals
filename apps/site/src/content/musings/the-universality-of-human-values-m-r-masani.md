@@ -76,7 +76,3 @@ There is no country in the world today so well placed to lead the social revolut
 Neither militarily, nor ideologically, nor morally, can one part of humanity afford to write off any other. If it was true in the time of Abraham Lincoln that no nation could be half slave and half free, it is equally true today in this shrinking world that we cannot have a world that is half slave and half free. More than ever it is true today that as the English poet, John Donne, wrote: "No man is an Island, entire of itself; every man is a piece of the Continent, a part of the maine, if a Clod bee washed away by the Sea, Europe is the lesse, as well as if a Promontorie were, as well as if a Mannor of thy friends or of thine owne were; any man's death diminishes me, because I am involved in Mankinde; And therefore never send to know for whom the Bell tolls; it tolls for thee."
 
 (The piece was originally published[here.](http://www.freedomfirst.in/uploads/issues/pdf/455.pdf) )
-
----
-
-_Sourced from the WordPress database export (post ID 4898, https://indianliberals.in/content/the-wisdom-of-the-rulers-2/). Needs editorial review._

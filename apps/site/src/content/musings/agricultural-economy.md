@@ -26,7 +26,3 @@ Access the full document [here](http://v2.indianliberals.in/~_admin/pdflanguage
 First Published in the Indian Libertarian in August 1957.
 
 Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere.
-
----
-
-_Sourced from the WordPress database export (post ID 2327, http://localhost/IL/content/so-musings-the-role-of-ideas-in-politics/). Needs editorial review._

@@ -11,5 +11,3 @@ draft: true
 ---
 
 # Atlas Network
-*Entry pending editorial review.*
-

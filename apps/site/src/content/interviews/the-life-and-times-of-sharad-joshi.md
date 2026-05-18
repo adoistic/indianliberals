@@ -14,7 +14,3 @@ subject: "sharad-joshi"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/hashtag/indianliberals) video, Mr. Anil Ghanwat ( President, Shetkari Sanghathana) recalls the life, mission, and the leadership of Sharad Joshi, the farmer leader who spearheaded the movement of farmers freedom in Independent India.
-
----
-
-_Sourced from the WordPress database export (post ID 3984, https://indianliberals.in/content/fashioning-tools-for-a-peoples-movement-2/). Needs editorial review._

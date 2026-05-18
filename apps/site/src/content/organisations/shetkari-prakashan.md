@@ -12,5 +12,3 @@ draft: true
 ---
 
 # Shetkari Prakashan
-*Entry pending editorial review.*
-

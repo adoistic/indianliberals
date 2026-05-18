@@ -16,7 +16,3 @@ Accountability, as mentioned earlier, constitutes the soul of effectiveness and 
 _This is an excerpt from the February 2011 issue of the ‘Forum for Free Enterprise’. Read the full document _[_here_](http://v2.indianliberals.in/~_admin/pdflanguage?id=761492374.pdf)_._
 
 Read more such articles: [https://spontaneousorder.in/bureaucracy-accountability/](https://spontaneousorder.in/bureaucracy-accountability/)
-
----
-
-_Sourced from the WordPress database export (post ID 2189, http://localhost/IL/content/so-musings-minoo-masani-on-citizenship-2/). Needs editorial review._

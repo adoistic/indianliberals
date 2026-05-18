@@ -15,7 +15,4 @@ subject: "s-divakara"
 ---
 
 S. Divakara, the Director-General of The Forum of Free Enterprise talks about the organisation he has worked most of his life at.
-
----
-
-_Sourced from the WordPress database export (post ID 1825, http://localhost/IL/?post_type=content&#038;p=1825). Needs editorial review._
+type=content&#038;p=1825). Needs editorial review._

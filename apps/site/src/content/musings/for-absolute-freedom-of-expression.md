@@ -109,7 +109,3 @@ There are many other instances where science offers explanations which conflict 
 To say that freedom of expression should be curtailed lest it offend or hurt the sentiments of people, or some people, implicitly accepts a ludicrous postulate: that all facts and truths that mankind ought to know have been known, and any new expositions would merely distort truths. One need not be a philosopher to say that the postulate is not only ludicrous but also smacks of hubris and complacency.
 
 At any rate, the Offence Principle would end up banishing philosophy and any serious contemplation. As Bertrand Russell wrote in The Problems of Philosophy, "Philosophy is to be studied, not for the sake of any definite answers to its questions since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good." _Last week's musing: [MANIFESTO FOR INDIAN LIBERALS](https://indianliberals.in/content/manifesto-for-india-liberals/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6125, https://indianliberals.in/content/manifesto-for-indian-liberals/). Needs editorial review._

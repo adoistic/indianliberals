@@ -27,8 +27,6 @@ When N. Dandekar argued for this aggressively defensive role of the Indian Navy,
 In his speech, Dandekar identified Pakistan and China as two hostile countries. He expected India to prepare to defend itself against these two either acting separately or jointly or simultaneously. This threat perception from the neighbours informed the Swatantraite's understanding of what the Indian Navy’s role should have been. He listed five simple principles that the Indian Navy on the east, in the Bay of Bengal and the Indian Ocean would have to perform. 
 
 
-
-
 - Keeping a strict and continuous watch on the entrances into the Bay of Bengal and the Indian Ocean.
 
 - In case of hostilities with China or Pakistan the navy should detect, hunt down and destroy any intruder coming into the Bay of Bengal.
@@ -38,7 +36,6 @@ In his speech, Dandekar identified Pakistan and China as two hostile countries. 
 - If the enemy forces managed to go beyond these islands, the navy had to guard the eastern coast.
 
 - If the enemy was already present in the Bay of Bengal, the navy had to protect the commercial sea routes in the Bay of Bengal and Indian Ocean.
-
 
 
 **Centrality of Aircraft Carriers in the Fleets****
@@ -57,7 +54,4 @@ The prescriptions of the Swatantra Party and its insistence on reorganisation of
 
 
 The Swatantra Party and its members are remembered for their appreciation of the old liberal ideas. However, one must not forget that their ideas were shaped in the context of the Cold War. The Indian government had decided not to join any collective security arrangements. India chose to remain non-aligned and adopted a defensive self-help approach. Though Swatantraites were liberals so far as the economic issues were concerned, they frequently took a realist view of national security and foreign policy. Dandekar too was a realist and his threat perception was further augmented by the Cold War reality. The ideas he proposed and the approach of aggressive defence as outlined by him are relevant even today. The evolving role of the Indian Navy is in tandem with his approach of acting from the position of strength. The role of the Indian Navy is appreciated across the world because of its capabilities and long experience. Only the powerful can indeed protect their freedom in times of crisis, for which they prepare in times of peace.
-
----
-
-_Sourced from the WordPress database export (post ID 8580, https://indianliberals.in/?post_type=content&#038;p=8580). Needs editorial review._
+type=content&#038;p=8580). Needs editorial review._

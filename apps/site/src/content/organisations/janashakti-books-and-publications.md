@@ -12,5 +12,3 @@ draft: false
 ---
 
 # Janashakti Books and Publications
-*Entry pending editorial review.*
-

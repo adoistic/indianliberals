@@ -103,7 +103,3 @@ Does anyone seriously believe that government intervention in the economy nowada
 Out of this arises much of the wastage of human and other economic resources which holds production below its potenti.al capacity. Because the assets and dynamism of the free enterprise system are suppressed, distorted and prevented from translating their full capability into actual output of goods and services, poverty and misery persist and a large part of humanity lives in constant fear of unemployment and starvation. Glaring examples of this can be found in the developing countries of Asia, Africa and Latin America. And I would like to highlight some of the policies pursued in these regions in the name of industrialisation and economic development but which have the perverse effect of perpetuating poverty and backwardness. Not that I believe their poverty is entirely of their own doing, I may add. The developed world is far from blameless in pursuing policies - particularly on the trade front - which inhibit the progress of poorer countries and set the additional obstacles to overcome which they could well do without. But let us look at ourselves for the moment since prosperity - like charity begins at home. 
 
 _Previous musing: [FREE MARKET ECONOMY: KEY TO ECONOMIC PROGRESS AND FREEDOMS](https://indianliberals.in/content/free-market-economy/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6967, https://indianliberals.in/content/free-market-economy-key-to-economic-progress-and-freedoms/). Needs editorial review._

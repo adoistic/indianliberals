@@ -13,7 +13,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Nimish Adhia talks about the cultural changes within Indian society which affected Bollywood's portrayal of heroes and the overall plot of the movies. He talks about the transition happening between the 1950s and 1980s.
-
----
-
-_Sourced from the WordPress database export (post ID 1767, http://localhost/IL/?post_type=content&#038;p=1767). Needs editorial review._
+type=content&#038;p=1767). Needs editorial review._

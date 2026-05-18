@@ -40,7 +40,3 @@ But what about existing inequalities of wealth and incomes? This is a legitimate
 In sum, I have argued that but for the economic crisis, we may never have moved so far the direction of a liberal market economy, given the feudal attitudes and the ideological baggage of the past. Happily, the direction is set and as the Prime Minister has said more than once, the process of economic reform is irreversible. The old mind-set must, however, change, as it may under the impact of reforms, in order that we may move forward in the same direction. 
 
 _Previous musing: [FREE ENTERPRISE IN INDIA AND FREEDOM](https://indianliberals.in/content/free-enterprise-in-indian-and-freedom/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6982, https://indianliberals.in/content/free-enterprise-in-india-and-freedom/). Needs editorial review._

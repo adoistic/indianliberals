@@ -10,5 +10,3 @@ draft: true
 ---
 
 # Maharashtra Economic Development Council
-*Entry pending editorial review.*
-

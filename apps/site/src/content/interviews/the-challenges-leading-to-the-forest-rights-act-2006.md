@@ -13,7 +13,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) video, Ambrish Mehta and Trupti Mehta ( Activists, ARCH-Vahini) highlight the key challenges and upheavals involved in their struggle for the enactment of the Forest Rights Act, 2006.
-
----
-
-_Sourced from the WordPress database export (post ID 1837, http://localhost/IL/?post_type=content&#038;p=1837). Needs editorial review._
+type=content&#038;p=1837). Needs editorial review._

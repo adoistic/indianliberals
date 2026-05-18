@@ -66,7 +66,3 @@ Kamble passed away in April 2021, leaving behind a legacy of freedom and equalit
 
 
 Naina is a writer from Ghazibad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.
-
----
-
-_Sourced from the WordPress database export (post ID 5673, https://indianliberals.in/content/why-remember-sharad-joshi-2/). Needs editorial review._

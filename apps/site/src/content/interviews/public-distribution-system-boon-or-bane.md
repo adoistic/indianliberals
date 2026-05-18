@@ -14,7 +14,3 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/hashtag/indianliberals) video, Mr. Anil Ghanwat ( President, Shetkari Sanghathana) explains the discrepancies in the public distribution system which hurts both the farmers and the intended beneficiaries.
-
----
-
-_Sourced from the WordPress database export (post ID 3995, https://indianliberals.in/content/what-is-the-role-of-government-in-agriculture/). Needs editorial review._

@@ -20,7 +20,4 @@ Human nature being what it is and the standards of integrity, patriotism and sel
 It can hardly be denied that having taken several generations for the achievement of political freedom, we should value democracy, freedom and liberty of the individual citizens as of far greater basic value than the pace at which the economic development had taken place. Having granted this, can it be denied that it would be unwise to run the risks which I have indicated? Can it then be denied that it would be in the larger interests of the basic preservation of our freedom, of the strengthening development of our nascent democratic institutions and of the development of our economy that the new economic order which is intended to usher in an era of social and economic equality should be achieved through the surer and historical proven processes of comparatively slow moving democracy rather than through the rapid but highly dangerous methods which have been witnessed in totalitarian countries? 
 
 The new economic order should not endanger our newly won freedom and towards that end it is the duty of all the citizens, no matter what station of life they find themselves in to see to it that our leaders and our planners follow the surer path of democracy and of gradual achievement of economic development rather than the dangerous paths of totalitarian methods to achieve a higher degree of economic development at a faster pace.
-
----
-
-_Sourced from the WordPress database export (post ID 8493, https://indianliberals.in/?post_type=content&#038;p=8493). Needs editorial review._
+type=content&#038;p=8493). Needs editorial review._

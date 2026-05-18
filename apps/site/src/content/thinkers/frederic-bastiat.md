@@ -22,8 +22,3 @@ death_year: 1850
 ---
 
 # Frédéric Bastiat
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** proposal
-

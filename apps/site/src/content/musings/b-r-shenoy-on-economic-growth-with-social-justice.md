@@ -116,7 +116,3 @@ Experience has shown, again and again, that no country which has been directed, 
 The dividends harvested have invariably been of the "miracle" order, both in respect of growth and social injustice. In the contemporary world, West Germany (under Professor Ludwig Erhard), Spain, Japan and the several mini-Japans in Asia are outstanding examples. On the other hand, no country which has fallen victim to any significant policy-mix of socialism, - which has generally been under the guidance of self-seeking businessmen, industrialists and administrators, and aided by deluded ideologues - has escaped chaos and overall semi-stagnation or decay. India, Burma, Sri Lanka. Pakistan and Bangladesh are classic examples.
 
 The sovereignty of the consumer, on which hinges rapid economic growth with social justice, and the sovereignty of the voter, the foundation of all democratic institutions, are but different aspects of a free citizen. We may have an ideally free society when the two sovereignties go together.
-
----
-
-_Sourced from the WordPress database export (post ID 4724, https://indianliberals.in/content/the-education-of-the-electorate/). Needs editorial review._

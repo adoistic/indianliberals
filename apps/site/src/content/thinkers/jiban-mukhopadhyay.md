@@ -17,8 +17,3 @@ ai:
 ---
 
 # Jiban Mukhopadhyay
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/indias-balance-of-payments-problem-by-jiban-k-mukhopadhyay-july-14-1989.pdf, pdf-filename/forum-of-free-enterprise/what-india-needs-a-perspective-by-jiban-k-mukhopadhyay-2005.pdf
-

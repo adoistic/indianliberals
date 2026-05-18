@@ -121,7 +121,3 @@ It was in 1977 that Indira Gandhi finally decided to lift the Emergency and cond
 
 **Sanjeet Kashyap**
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 6117, https://indianliberals.in/content/v-s-srinivasa-sastri-diplomat-politician-liberal/). Needs editorial review._

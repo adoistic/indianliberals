@@ -17,8 +17,3 @@ ai:
 ---
 
 # Arvind Lalbhai
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/inefficient-entrepreneur-anti-social-arvind-narottam-lalbhai.md
-

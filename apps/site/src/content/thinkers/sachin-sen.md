@@ -17,8 +17,3 @@ ai:
 ---
 
 # Sachin Sen
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/free-press-sachin-sen.md
-

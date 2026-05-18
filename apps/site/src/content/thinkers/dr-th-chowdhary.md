@@ -17,8 +17,3 @@ ai:
 ---
 
 # DR TH Chowdhary
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/bridging-diminishing-the-digital-divide-by-dr-th-chowdhary-2002.pdf
-

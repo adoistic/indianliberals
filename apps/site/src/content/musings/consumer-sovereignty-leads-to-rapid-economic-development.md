@@ -50,7 +50,3 @@ News of this powerful reaction away from statism has not reached New Delhi yet; 
 The task before the policy reformer is indeed overwhelming. The situation provokes the prayer; '''Good Lord, protect me from my friends; against mine enemies I can defend myself."
 
 _Previous musing: [RAJA RAM MOHAN ROY ON PRESS FREEDOM](https://indianliberals.in/content/ram-mohan-roy-press-freedom/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6854, https://indianliberals.in/content/consumer-sovereignty-leads-to-rapid-economic-development/). Needs editorial review._

@@ -11,5 +11,3 @@ draft: true
 ---
 
 # All-India Liberal Federation
-*Entry pending editorial review.*
-

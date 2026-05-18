@@ -17,8 +17,3 @@ ai:
 ---
 
 # Narayana Aiyar
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/limitations-of-nationalism-by-s-narayana-aiyar-december-1-1956.pdf
-

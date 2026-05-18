@@ -76,7 +76,3 @@ The quintessence of socialism consists not in levelling down but in levelling up
 
 
 _Previous musing: [MAKING INDIAN INDUSTRY GLOBALLY COMPETITIVE](https://indianliberals.in/bn/content/making-indian-industry-globally-competitive/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7477, https://indianliberals.in/content/making-indian-industry-globally-competitive-2/). Needs editorial review._

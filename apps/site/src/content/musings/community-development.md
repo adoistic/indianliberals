@@ -63,7 +63,3 @@ Today almost four years later, that decision is still on paper. The study team o
 People in positions of power and authority and those with a political or economic voice loud enough to be heard have so far taken little interest in examining the Community Development programme. The villager is still patient enough with our plans for him.
 
 _Previous musing: [For Freedom, Farm And Family](https://indianliberals.in/content/for-freedom-farm-and-family/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7863, https://indianliberals.in/content/for-freedom-farm-and-family-3/). Needs editorial review._

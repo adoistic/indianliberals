@@ -30,7 +30,6 @@ _Dr Bhimrao Ramji Ambedkar needs no introduction. He was a political leader, sch
 _You can read the original, unabridged version_ [_here_](http://drambedkarwritings.gov.in/upload/uploadfiles/files/Volume_02.pdf) _(pp. 123-131)._
 
 
-
 Dr Ambedkar’s views on Panchayati Raj in India differed from that of other leaders like Mahatma Gandhi in terms of the practicality of its implementation. He expressed his opinion in detail on the Village Panchayats Bill in the debates of the Bombay Legislative Council during 1932-33. Though he agreed with the devolution policy, he objected to how the Bill intended to empower the Village Panchayats.
 
 In one of such speeches, he said, “Whatever be the merits of these rural republics, I have not the slightest hesitation in saying that they have been the bane of the public life of India.”
@@ -60,7 +59,3 @@ Though he agreed with the principle of providing cheap and easily accessible jus
 “We have already in existence what are called honorary bench magistrates in towns. It should be perfectly possible to extend that system whereby we can divide each district into judicial circles extending over an area of two or three miles suited to convenience, and for Government to nominate—I emphasise the word “nominate”—three or more persons to discharge the judicial functions in that circle. These three gentlemen would on one day sit as magistrates to deal with criminal cases and on another day they will sit as civil judges to try civil cases. By this method, you will secure cheap justice, easy justice, at the same time you will secure a judiciary that will be independent of local influence, a judiciary that will be free from the disadvantages of an elective system. I think, Sir, this ought to satisfy the requirements of the case.”
 
 _Previous musing: [Population Causes Prosperity](https://indianliberals.in/content/population-causes-prosperity/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8016, https://indianliberals.in/content/population-causes-prosperity-2/). Needs editorial review._

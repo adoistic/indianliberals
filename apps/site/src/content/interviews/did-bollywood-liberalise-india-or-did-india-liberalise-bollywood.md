@@ -14,7 +14,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Nimish Adhia answers the crucial question surrounding India's liberalisation and highlights the interplay between Bollywood, Indian society and the economy.
-
----
-
-_Sourced from the WordPress database export (post ID 1790, http://localhost/IL/?post_type=content&#038;p=1790). Needs editorial review._
+type=content&#038;p=1790). Needs editorial review._

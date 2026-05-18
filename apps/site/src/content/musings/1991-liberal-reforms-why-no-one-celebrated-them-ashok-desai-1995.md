@@ -46,7 +46,4 @@ The idea that choice is a part of individual freedom, that an individual should 
 
 
 To read the unabridged essay, click [here](https://indianliberals.in/liberal-times/liberalism-in-south-asia.pdf#page=9) (pages 9-13).
-
----
-
-_Sourced from the WordPress database export (post ID 8491, https://indianliberals.in/?post_type=content&#038;p=8491). Needs editorial review._
+type=content&#038;p=8491). Needs editorial review._

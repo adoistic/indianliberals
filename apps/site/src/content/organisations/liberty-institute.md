@@ -12,5 +12,3 @@ founded_year: 1996
 ---
 
 # Liberty Institute
-*Entry pending editorial review.*
-

@@ -13,7 +13,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) video, Ambrish Mehta and Trupti Mehta ( Activists, ARCH-Vahini) dispel the misconception surrounding a conflict of interest between tribals and the natural environment. They also discuss the role of incentives in the form of ownership of resources in furthering environmental conservation.
-
----
-
-_Sourced from the WordPress database export (post ID 1792, http://localhost/IL/?post_type=content&#038;p=1792). Needs editorial review._
+type=content&#038;p=1792). Needs editorial review._

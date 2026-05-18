@@ -86,7 +86,3 @@ As a feminist, Abala Bose dedicated her life to championing the liberal cause, o
 ![](https://indianliberals.in/wp-content/uploads/2021/08/Kavya-Sharma-Yearbook-Picture-scaled-e1628765339239.jpg)
 **Kavya Sharma**
 Kavya holds an undergraduate degree in Economics with a minor in Sociology, and she aims to pave herself a future in the public policy sector. Internet culture, popular culture, and Gen-Z patterns interest her a great deal. Her research interests also include gender, sexuality, media, economy, and development theories. As a fellow at the Centre for Civil Society's Indian Liberals project, Kavya is working on increasing visibility of women in India's historic liberal tradition.
-
----
-
-_Sourced from the WordPress database export (post ID 6731, https://indianliberals.in/content/the-zealous-azizun-nisa/). Needs editorial review._

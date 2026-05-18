@@ -12,5 +12,3 @@ founded_year: 1947
 ---
 
 # Liberal International
-*Entry pending editorial review.*
-

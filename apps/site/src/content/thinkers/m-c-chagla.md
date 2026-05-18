@@ -25,8 +25,3 @@ death_year: 1981
 ---
 
 # M. C. Chagla
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** phase-0.5-wave1-refresh-2026-05-17
-

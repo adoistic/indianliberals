@@ -66,7 +66,3 @@ The new philosophy was thus creating a new economic revolution. Even the field o
 Eleven more industries have now been included in the field of industrial development, which will be the exclusive monopoly and responsibility of the State. Even in the field of industries where the private sector is allowed to function, the resolution has made it crystal clear that it will be the Policy of the State to “take the initiative in establishing new undertakings.” Private enterprise is expected now even in that field, namely, the 12 industries included under schedule ‘B’, merely “to supplement the effort of the State.” Private enterprise will not be allowed in future to be the driving and inspiring force of creating a new industrial India. Still, it will only be allowed to play a minor role as an agent for planned national development._You can access the complete, unabridged musing [here](https://indianliberals.in/forum-of-free-enterprise/pitfalls-in-ouri-ndustrial-policy-m-a-master-nov6-1959.pdf)._
 
 _Previous musing: [Pandita Ramabai: A Trailblazing Feminist](https://indianliberals.in/content/pandita-ramabai-a-trailblazing-feminist/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8067, https://indianliberals.in/content/pandita-ramabai-a-trailblazing-feminist-2/). Needs editorial review._

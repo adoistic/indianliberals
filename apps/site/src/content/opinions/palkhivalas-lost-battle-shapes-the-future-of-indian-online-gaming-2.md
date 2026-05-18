@@ -47,7 +47,6 @@ The first round of legal action was played out in the Bombay High Court. The mai
  	- The impugned act was meant for gambling, whereas the crossword prize competition was hardly a lottery or chance-based competition. Instead, it required exercise of skill and considerable knowledge. The Indian Constitution had protected the games that involve skill under the right to trade. Games of chance would not have enjoyed the same protection.
 
 
-
 The single judge bench of the Honourable High Court delivered a verdict in favour of Palkhivala. It ordered the State of Bombay to refrain from implementing the impugned Act and allowed the petitioners to carry on the business as usual. The State of Bombay appealed in the High Court.  The Court of Appeal upheld the ruling of the trial court while differing in some respects.[5]  It held that the State of Bombay was competent in enacting the Act under dispute. The Court held that prize competitions were valid businesses and they did not constitute gambling. Therefore, _Article 301_ was applicable to prize competitions. Moreover, the tax imposed on prize competitions under _Section 12(A)_ was to be seen as a tax on trade or profession under Entry 60 of List II. Lastly, it argued that the prize competitions including lottery-based ones, were not against public interest.
 
 **Supreme Court : The Final Frontier**
@@ -66,7 +65,6 @@ Palkhivala firmly argued that the law was unconstitutional in its entirety. He b
  	- The law constituted a single, indivisible enactment. Since it misassessed skill-based competitions, the entire law must be struck down even if it legitimately restricted some chance-based competitions.
 
 
-
 The Union Government contended that gambling activities were not trade or commerce. Therefore, the law was intended to regulate competitions with characteristics of gambling. It further conceded that the law was indeed broad. It argued that the provisions of the law were void for skill-based games. The government argued that the valid parts applicable for gambling could be separated from invalid parts related to skill-based competitions. The government was suggesting that the law automatically would not be applicable to skill-based competitions.
 
 In its verdict, the Supreme Court declared gambling _res extra commercium._**_[7]_** This meant gambling would not be considered commerce. Since gambling would not be a lawful trading activity it would not enjoy the protection of _Article 19(1)(g)_. Contrary to Palkhivala’s plea, the Supreme Court rejected a purely textual reading of the law. While recognizing that the law was partly void, the Supreme Court embraced the doctrine of severability. The Supreme Court upheld a law which was partly valid and partly invalid, echoing the argument made by the legal representatives of the Union Government. Earlier, the doctrine of severability had only been applicable in cases where the government exceeded its subject matter competence. It had not been applied when the government violated fundamental rights. The Supreme Court opined that the principle of severability was applicable even when the partial invalidity of the Act arose from its contravention of constitutional limits in the form of fundamental rights.
@@ -80,7 +78,4 @@ The doctrine of severability applied by the Supreme Court in Chamarbaugwalla vs 
 This is saddening given the abundant potential the industry holds in terms of growth and employment. In 2024,  the online gaming industry was a $3.7 billion ecosystem. It was projected to reach $9.1 billion by 2029.[8] The recent blanket ban has not just halted growth, it has caused flight of investments, and has triggered economic contraction in the sector. 
 
 Perhaps, Nani Palkhivala foresaw the possibility of such an unintended outcome. Therefore, he staunchly argued for treating exceedingly broad laws as single, indivisible enactments before striking them down fairly and squarely.
-
----
-
-_Sourced from the WordPress database export (post ID 9215, https://indianliberals.in/?post_type=content&#038;p=9215). Needs editorial review._
+type=content&#038;p=9215). Needs editorial review._

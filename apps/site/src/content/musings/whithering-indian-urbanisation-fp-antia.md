@@ -14,7 +14,6 @@ Produced below is an excerpt from an essay by FP Antia titled ‘Whither Indian 
 Antia says that India's rapid urbanisation leads to overcrowded cities, inadequate housing, and strained infrastructure, especially in megacities like Bombay and Calcutta. He highlights that effective regional planning and controlled migration are essential for improving living conditions and managing urban growth.
 
 
-
 India’s rapid urbanisation is a defining feature of its modern landscape. The 1971 census recorded 109 million people, approximately 20% of the total population, living in urban areas. While this percentage is lower than countries like the US and Japan, the sheer number of urban dwellers ranked India as the third largest urban population globally. The rapid expansion of cities, especially those with populations exceeding 100,000, paints a picture of a nation grappling with the complexities of urban growth.
 
 The number of large cities has increased significantly over the decades, from 74 cities with populations over 100,000 in 1951 to 142 in 1971. Urbanisation in India, however, is often synonymous with the growth of mega-cities like Calcutta, Bombay, and Delhi. By 1971, Calcutta housed 7 million people, Bombay 6 million, and Delhi 3.6 million. These figures, already alarming, have only swelled in the years since.
@@ -30,7 +29,4 @@ What then is the solution? Controlling migration to urban areas is essential. Th
 Urban planning that integrates new industrial townships and prioritises a holistic approach to housing and infrastructure is key to addressing India's urban challenges. But beyond infrastructure, the ultimate test lies in the quality of life provided to urban dwellers, as urban sociologists and planners have repeatedly pointed out. A concerted effort to improve living standards in India's rapidly expanding urban centres is the need of the hour.
 
 Read the complete text [here](https://indianliberals.in/forum-of-free-enterprise/whither-indian-urbanisation-f-p-antia-1977.pdf).
-
----
-
-_Sourced from the WordPress database export (post ID 8637, https://indianliberals.in/?post_type=content&#038;p=8637). Needs editorial review._
+type=content&#038;p=8637). Needs editorial review._

@@ -17,8 +17,3 @@ ai:
 ---
 
 # Russi Mody
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/What-Ails-India-By-Russi-Mody-January-15-1990.pdf, pdf-filename/forum-of-free-enterprise/spirit-of-free-enterprise-by-russi-mody-december-14-1991.pdf
-

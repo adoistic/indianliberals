@@ -17,8 +17,3 @@ ai:
 ---
 
 # Tahir Siddiqui
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/hitlerite-vegetarianism-india-food-science-sentiment.md
-

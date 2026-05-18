@@ -56,16 +56,4 @@ Almost two centuries have passed since Fatima challenged the status quo to ensur
 **![](https://indianliberals.in/wp-content/uploads/2021/09/bio.png)Naina Ojha**
 
 
-
-
-
-
-
-
-
-
 Naina is a writer from Ghazibad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.
-
----
-
-_Sourced from the WordPress database export (post ID 6756, https://indianliberals.in/content/the-resolute-abala-bose-educationist-suffragist-philanthropist/). Needs editorial review._

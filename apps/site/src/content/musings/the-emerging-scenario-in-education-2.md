@@ -177,7 +177,3 @@ If you look at the world in 2050 what is the scenario? The scenario is that lndi
 This is the global scenario in which we live. In this scenario, in the ultimate analysis, we as a nation have to move forward. This I reiterate, cannot happen unless we invest in knowledge. This is the philosophy of the UPA Government in the field of education. In the heart of this philosophy is the belief that every child in this country is important. I
 
 I remember when Nani was a young child and he had a bowl of almonds, and his father told him, don't forget the orphan next door. He, in his generosity, gave the entire bowl to the orphan. It is time for us to have the bowl of almonds to give it to those who don't have it. Education is the only way forward._Last week’s musing: [WHAT MAKES JAPAN TICK: SOME LESSONS FOR INDIA](https://indianliberals.in/content/what-makes-japan-tick-some-lessons-for-india/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6749, https://indianliberals.in/content/what-makes-japan-tick-some-lessons-for-india-2/). Needs editorial review._

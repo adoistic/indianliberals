@@ -32,7 +32,6 @@ related_thinkers:
 _In the face of opposition from several sections of the society, Agarkar held on to the liberal ideas of equality of opportunity, individual choice, individual freedom, and education for women. Agarkar’s treatment of the subject of women’s education was at once insightful, critical and persuasive._
 
 
-
 Gopal Ganesh Agarkar was an Indian thinker, known primarily for his writings in the Marathi newspapers Kesari and Sudharak. His writings and visionary thoughts often come to be overshadowed by his difficult association with Lokmanya Tilak. The mutual diatribes between the two obscure the clarity and conviction of his ideas. However, Agarkar’s thoughts and ideas continue to be relevant and his predictions accurate. 
 
 The late 19th century in India was an era of conflict of ideas. Women’s education became the center of such a conflict with both sides making sharp attacks against the other. Agarkar in his writings, often cited the attacks made against his position. Following is one among the several attacks leveled against Agarkar - ‘And these are the leading figures in our society. We used to think of them as intellectuals, now we know how intelligent they really are! How did these ‘intellectuals’ get this ridiculous idea of putting women in schools! It would be better to throw India’s wealth into the sea than to use it for women’s education’ (Agarkar, 1994, Vol. 3, 157). Agarkar wrote in sharp and precise words with the view to counter the status quo and to persuade his readers and opponents alike. 
@@ -64,12 +63,7 @@ The British Library. (n.d.). _Mary Wollstonecraft, A Vindication of the Rights o
 [_Previous musing: The Forgotten Legacy of Yashodabai Agarkar_](https://indianliberals.in/content/the-forgotten-legacy-of-yashodabai-agarkar/)
 
 
-
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
 Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
-
----
-
-_Sourced from the WordPress database export (post ID 8379, https://indianliberals.in/content/fighting-for-freedom-the-tumultuous-legacy-of-raghunath-karve/). Needs editorial review._

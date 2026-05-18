@@ -45,7 +45,6 @@ The genius of Ranade lies in the fact that he used data to substantiate his econ
  	- The British government introduced the railways and since the project was running in loss, it was also being recovered from the revenues collected in India.
 
 
-
 The above-mentioned factors amounted to approximately 10.5 crores and this amount would effectively go to Britain. Around 150000 Europeans were working in India in the military and other bureaucratic positions and there were few traders. They had huge salaries and incomes, the total of which was worth 5.5 crores. This coupled with the previous 10.5 crores would ultimately end up in Britain.
 
 Ranade highlighted that India was sending a tribute worth 16 crores. He further argued that even if things were slightly different – such as if the government was being run from India and if possible, by Indians with the same salaries, a large amount of wealth would remain in India. He elaborates this giving the example of native states. In those princely states no matter how frivolously Indian princes and kings behaved they would still empty their treasures by and large on the native Indians. They might shower their wealth irrationally on the darbaris and dancers, and the prostitutes or priests. The wealth would still be distributed and circulated among Indians. That’s why Ranade opined that the princely states fared well in terms of protecting the Indian resources and wealth.
@@ -70,13 +69,11 @@ The drain of wealth in the form of tribute and tax was not the only way the Indi
  	- The residual gold and silver – which was around 75 crores in value just disappeared into thin air!
 
 
-
 In other countries, the excess gold and silver would get into transactions and that is how it would quickly become a part of the economy. Whereas in India people made ornaments of all sorts for their wives and kids. This gold or silver would gradually wear off and reduce in quantity. Once the ornaments were made out of these valuable metals, they were hardly useful for the owner. They would be used if the owner suffered from economic difficulty. However, in most cases, these ornaments would just wane. According to Ranade, it was a dangerous and self-defeating practice. Gold and silver worth rupees 7-8 crore were reduced to nothing every year. When added to the aforesaid tribute of 16 crores, this amount was almost tantamount to a sum of 24-25 crores. This was the loss that India incurred regularly.
 
 Ranade proposed a simple but useful solution to increase the possibility of accumulation of wealth in India. He suggested that Indians, at such a juncture, must spend less. He argued for increasing the savings to nullify the effect of the lost 25 crores. He was also clear about how this accumulated wealth was to be used. This capital was to be wisely invested in profit-making businesses. Good returns would create a greater amount of new wealth.
 
 Finally, Ranade warned them against blindly accumulating the money and emphasized why it should be invested and reinvested to create more wealth for one’s own sake and for the nation. Thus Ranade’s solution to the worsening economic condition of India depended on a measured and disciplined frugality and well-thought investment of capital.     
-
 
 
 ![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
@@ -85,7 +82,3 @@ Finally, Ranade warned them against blindly accumulating the money and emphasize
 
 
 Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.
-
----
-
-_Sourced from the WordPress database export (post ID 5096, https://indianliberals.in/content/the-moderate-liberalism-of-ferocious-mehta-2/). Needs editorial review._

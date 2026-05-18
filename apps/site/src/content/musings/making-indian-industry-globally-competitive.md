@@ -133,7 +133,3 @@ Credit should go to Dr. Manmohan Singh for his endeavour to introduce fruitful e
 India purported to become a Socialist Republic by a constitutional amendment in 1976. The nation anxiously waits for the dawn of a new era when our politicians will, like John Smith and the present British Labour leader, Tony Blair, openly dissociate themselves from ideological socialism and espouse social justice which is ethical socialism.
 
 _Previous musing: [NANI PALKHIVALA: THE TASK BEFORE A FREE PEOPLE](https://indianliberals.in/content/the-task-before-a-free-people/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7287, https://indianliberals.in/content/nani-palkhivala-the-task-before-a-free-people/). Needs editorial review._

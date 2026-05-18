@@ -32,7 +32,3 @@ Meanwhile anti-farmer forces will try to create the illusion that not freedom bu
 
 
 The original article can be accessed [here.](http://www.freedomfirst.in/uploads/issues/pdf/481.pdf)
-
----
-
-_Sourced from the WordPress database export (post ID 3976, https://indianliberals.in/content/n-a-palkhivalas-views-on-socialism/). Needs editorial review._

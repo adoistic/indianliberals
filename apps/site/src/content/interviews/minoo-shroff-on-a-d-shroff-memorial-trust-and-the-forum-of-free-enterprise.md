@@ -14,7 +14,4 @@ subject: "minoo-shroff"
 ---
 
 Minoo Shroff talks about A D Shroff Memorial Trust and the Forum of Free Enterprise.
-
----
-
-_Sourced from the WordPress database export (post ID 1813, http://localhost/IL/?post_type=content&#038;p=1813). Needs editorial review._
+type=content&#038;p=1813). Needs editorial review._

@@ -27,7 +27,4 @@ The crux of India's payments problem is, on the one hand, to bring about a shift
 The export promotion measures we have so far adopted, or have under active consideration, include relief from export duties, "draw-backs," rebates on customs and excise duties, and remission of sales tax on exports, rediscount of export bills at preferential rates, freight concession on Railways, supply of steel at concession rates for export production, wider coverage of insurance risks than hitherto, provision of certain administrative facilities to exports, and so on​.
 
 Read the complete text [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan1-1959.pdf). (Page I - Indian Libertarian Supplement)
-
----
-
-_Sourced from the WordPress database export (post ID 8642, https://indianliberals.in/?post_type=content&#038;p=8642). Needs editorial review._
+type=content&#038;p=8642). Needs editorial review._

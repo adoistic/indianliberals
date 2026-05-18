@@ -14,7 +14,3 @@ subject: ""
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Dr. Parth J. Shah ( President, Centre for Civil Society) decodes and explains populism and the challenges it poses to the liberal order. To watch more videos of this series, visit www.indianliberals.in
-
----
-
-_Sourced from the WordPress database export (post ID 3260, http://liberals.indianliberals.in/content/br-shenoy-a-prophet-without-honour-2/). Needs editorial review._

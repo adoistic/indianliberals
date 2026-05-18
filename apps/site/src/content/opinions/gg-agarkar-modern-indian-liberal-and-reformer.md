@@ -110,7 +110,4 @@ As a modern liberal Agarkar was a strong proponent of rationalism and saw morali
 In assessing Agarkar’s legacy in Maharashtra, N H Kulkarnee argues that he is adopted most prominently by the organized rationalist movement. However, his writings and activism also influenced Hindutva activist Vinayak Savarkar who sought to rationalise Hindu religion. Even the rise of Marxism in Maharashtra in the 1920s was unconsciously influenced by Agarkar, an ardent devotee of John Stuart Mill!
 
 Agarkar today remains a forgotten figure outside Maharashtra. The social reformer’s radical approach though merits him a place in the national pantheon of Indian Liberals.
-
----
-
-_Sourced from the WordPress database export (post ID 1563, http://localhost/IL/?post_type=content&#038;p=1563). Needs editorial review._
+type=content&#038;p=1563). Needs editorial review._

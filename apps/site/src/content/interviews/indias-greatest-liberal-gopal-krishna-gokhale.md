@@ -14,6 +14,4 @@ transcript_status: "none"
 subject: "gopal-krishna-gokhale"
 ---
 
----
-
-_Sourced from the WordPress database export (post ID 1802, http://localhost/IL/?post_type=content&#038;p=1802). Needs editorial review._
+type=content&#038;p=1802). Needs editorial review._

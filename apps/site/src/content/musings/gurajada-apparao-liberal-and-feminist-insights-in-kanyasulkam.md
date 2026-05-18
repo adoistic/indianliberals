@@ -13,7 +13,6 @@ author: "gurajada-apparao"
 _Gurajada Venkata Apparao also called as ‘Gurajada’ was a social reformer and liberal thinker. He is also considered as the pathfinder of modernism in Telugu literature. Through his works, he strongly criticised social evils such as child marriage and dowry. He was a strong advocate for Women’s education and empowerment. He was posthumously awarded the Padma Bhushan, India’s third-highest civilian award, in 1954. _
 
 
-
 Gurajada Venkata Apparao was a remarkable literary figure in the late 19th and early 20th centuries, acclaimed for his eloquent contribution to liberal ideas in literature. He was born on September 21, 1862, in Rayavaram village of Visakhapatnam District. Gurajada is regarded as a modernist pioneer in Telugu literature. Kanyasulkam is the first Telugu drama written entirely in spoken dialect. Even after a century of publication, the prose play Kanyasulkam, written in the Visakhapatnam dialect, remains popular. In 1892, Gurajada's acclaimed drama "Kanyasulkam" was staged for the general public. His other works include 'Kukku', an English poem (1882), 'Sarangadhara' an English poem (1883), 'Kondubhattiyam' (1906), 'Neelagiri paatalu' (1907), 'Mutyalasaramulu', 'Kasulu'(1910), 'Bilhaniyam', 'Lavana Rajula Kala'(1911), 'Kanyaka' (1912), 'Subhadra'(1913), 'Dinchu Langaru'(1914) and 'Langarettumu'(1915).
 
 Through his works, Apparao challenged the authoritarian and orthodox beliefs deeply ingrained in Indian society and culture. As a pioneer of liberal ideas, he advocated for individual freedom, rational thinking, and empowerment of women and marginalised communities. His exposition of social hindrances and his progressive stance on prevalent social issues made him a revolutionary figure in the literary scene of his era. His works testify to art's capacity to inspire social change and oppose repressive ideologies. 
@@ -48,9 +47,7 @@ References
  	- Srilatha, G., & Siddhartha, P. B. (2018). Language and Culture in Kanyasulkam. _International Journal for Research in Engineering Application & Management_.
 
 
-
 _Previous musing: [FIGHTING FOR FREEDOM : THE TUMULTUOUS LEGACY OF RAGHUNATH KARVE](https://indianliberals.in/content/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve/)_
-
 
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
@@ -58,7 +55,3 @@ _Previous musing: [FIGHTING FOR FREEDOM : THE TUMULTUOUS LEGACY OF RAGHUNATH KAR
 
 **Ch Prashanth**
 Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
-
----
-
-_Sourced from the WordPress database export (post ID 8280, https://indianliberals.in/content/dr-muthulakshmi-reddi-beacon-of-womens-liberty-2/). Needs editorial review._

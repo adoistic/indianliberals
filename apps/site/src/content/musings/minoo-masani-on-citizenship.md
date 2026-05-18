@@ -45,7 +45,4 @@ Now, we as a people have some very strong points. We have love of religion, love
 The full article could be accessed [here](http://indianliberals.in/~_admin/pdflanguage?id=590973500.pdf). (page 51)
 
 To read more works by Minoo Masani, [click here](https://spontaneousorder.in/minoo-masani-from-socialism-to-liberal-swatantra-party/).
-
----
-
-_Sourced from the WordPress database export (post ID 2185, http://localhost/IL/?post_type=content&#038;p=2185). Needs editorial review._
+type=content&#038;p=2185). Needs editorial review._

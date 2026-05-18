@@ -27,8 +27,6 @@ related_thinkers:
 - Lakshmi Ramanandan (Fourth Prize Winner, Indian Liberals Essay Contest 2019)
 
 
-
-
 Not much has been talked about Yuyutsu, Kaurava’s half-brother from the epic tale of Mahabharata. He openly protested against the injustice meted out against the Pandavas and decided to fight with them, against his own brothers. Cut to the modern era, we see Mahatma Gandhi, the “arch dissenter of the twentieth century” winning India its freedom in 1947.  In November 2015, writers from various Indian languages registered their dissent in the light of attacks against freedom of expression, by returning their Sahitya Akademi awards.  Evidently, the argumentative, skeptic Indian has continued to dissent and it is very much a part of the Indian psyche as much as democracy and diversity are.
 
 
@@ -81,7 +79,4 @@ For a democracy to function, dissent is indispensable as it renews the am aadmi�
 
 
 Keralite. Completed Masters in English Language and literature from University of Delhi. Currently working as Assistant Professor, English at Christ Nagar College, Thiruvananthapuram, Kerala. Interested in public policy, women’s studies and cultural studies.
-
----
-
-_Sourced from the WordPress database export (post ID 1575, http://localhost/IL/?post_type=content&#038;p=1575). Needs editorial review._
+type=content&#038;p=1575). Needs editorial review._

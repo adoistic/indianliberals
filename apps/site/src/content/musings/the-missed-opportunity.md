@@ -29,7 +29,6 @@ _The following text is the speech delivered by Mr Charanjit Rai, MP from the con
 _You can read the original, unabridged version on _[_Page 27_](https://indianliberals.in/wp-content/uploads/2022/06/Copy-of-The-Missed-opportunity.pdf)_ here._
 
 
-
 Mr Deputy Speaker, Sir, it is a matter of common sense that the economic prosperity of any country can be brought about by the maximum utilisation of resources of that country. In that process, the human factor is important. It is the man who makes use of these resources to the maximum extent through his knowledge, hard work and sincerity of purpose, but for this, he needs incentives. Even Sri Morarji Desai did not wish to join the Cabinet till he was offered the incentive of a Deputy Prime Ministership. The day before yesterday, even Shri Dange accepted the principle of incentives. Sir, slogans, preaching and lectures can never be a substitute for incentives.
 
 The budget is not merely a statement of income and expenditure. It signifies much more. The budget starts a chain reaction in the economy, and it can either promote economic growth or retard it. I am going to comment on the budget from this angle. But, before I do that, I would like to briefly review the effect of the previous fiscal policies of the Government in relation to the Three Plans.
@@ -47,7 +46,6 @@ The objectives of the Plans were mainly:
  	- To increase production, both agricultural and industrial, and
 
  	- Lastly, to provide employment opportunities
-
 
 
 To achieve these objectives, the outlay on the Plans, leaving aside the investment in the private sector, was about Rs. 16,000 crores, of which leaving other things, Rs. 4,200 crores were by additional taxation, Rs. 2,500 crores from foreign aid, and Rs. 3,700 crores by deficit financing. The hardships caused to the people by high taxation and deficit financing would not have mattered much if the objectives had been achieved, but they matter because this did not happen. Let us see what has actually happened.
@@ -74,7 +72,6 @@ Thirdly, the Government placed impediments in the path of economic progress of t
 ###
 
 
-
 ### **Lessons not Learnt**
 
 
@@ -83,7 +80,6 @@ Sir, I have given you the aims, the failure and the reasons. Now the question ar
 Coming to the Industrial sector, I see that very small, minor reliefs have been given, which will not have much effect on growth. The same is the case with the capital market. What was required to be done was that there should have been a reduction in taxation on the corporate sector, dividend tax should have been abolished, the rebate should have been given for ploughed-back capital, and profit surtax should have been abolished. This would have brought in more investment in the Industry, and with the ploughed-back capital, the industrial growth would have been sizeable. They could have gone for expansion, and that would have enabled them to give a reasonable return to the investor. Today, the investor is not getting a reasonable return result because he is investing in unproductive spheres like land, houses and gold.
 
 ###
-
 
 
 ### **Economic Realities**
@@ -106,7 +102,6 @@ _Shri Charanjit Rai…_ by saying, “yes, we are going to cut”, and he says t
 ###
 
 
-
 ### **Concrete Steps**
 
 
@@ -122,7 +117,6 @@ We have no quarrel with the Finance Minister when he says that we should bring c
  	- I would like the Finance Minister to put into effect what he has recommended to the Congress Working Committee, and that is a cut of 10 per cent in Government expenditure. Once this is done, he has no need to propose new taxes; on the contrary, he can give relief.
 
 
-
 Sir, I have done, but before I sit down, I want to tell the Treasury Benches that they should take lessons from the past. The masses of India are seething with discontent. _(Interruptions)_
 
 An Hon. Member: _Laissez-Faire_
@@ -132,7 +126,3 @@ _Shri Charanjit Rai: _I was talking about the economy.
 The dragon of mounting prices stares us in the face all the time. Mr Morarji Desai says that he would like to rehabilitate his confidence, but he has not taken any steps for it. I am afraid our Finance Minister looks at the problem, the economic problem, like so many Congressmen, through the glasses of politics. As long as this goes on, we will never be able to increase production; we will never be able to produce enough food and industrial and consumer goods, and the economy will just go down.
 
 _Previous musing: [The Budget Versus The People](https://indianliberals.in/content/the-budget-versus-the-people-2/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7961, https://indianliberals.in/content/the-budget-versus-the-people-3/). Needs editorial review._

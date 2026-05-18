@@ -11,5 +11,3 @@ founded_year: 1936
 ---
 
 # Ford Foundation
-*Entry pending editorial review.*
-

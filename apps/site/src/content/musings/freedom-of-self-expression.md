@@ -26,7 +26,3 @@ It is perhaps that great form of musical beauty which we call the Raga, exclusiv
 The spirit of freedom is apt to suffer restraints from sources alien to the art itself. The interference may come from false notions of prudery and decency as well as from politics, race, community and language. Time was when the Padas of Kshetragna, Astapadis of Jayadeva and Javalis of certain composers were banned as tending to debase morals. Uninformed public opinion condemned Bharatnatya as obscene and voluptuous. Happily it has, thanks to the efforts and propaganda of institutions like the Music Academy, now veered round to a just appreciation of an art which is both drisya and sravya. Art is universal and appeals to the heart of man whatever his race, colour or tongue.
 
 Censorship is a restraint upon free expression. If it is necessary evil in any stage of society, the office must be held only by persons of high taste and discernment.
-
----
-
-_Sourced from the WordPress database export (post ID 4640, https://indianliberals.in/content/modern-policing-for-modern-india-2/). Needs editorial review._

@@ -17,8 +17,3 @@ ai:
 ---
 
 # Prof. RL Varshney
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/private-enterprise-should-be-allowed-in-life-insurance-industry-by-Prof.-RL-Varshney-may-8-1962.pdf
-

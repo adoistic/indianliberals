@@ -17,8 +17,6 @@ author: "shivani-a-tannu"
 - Shivani A Tannu (Third Prize Winner, Indian Liberals Essay Contest 2019)
 
 
-
-
 The rise of internet and social media has led to privacy concerns as it encroaches our personal space and gives the online social providers access to the user’s personal data. The cost that user’s pay for accessing online services is not cash but voluntarily giving up on our personal data. The flip side – potential abuse and sharing of the data.
 
 
@@ -31,9 +29,7 @@ While there are justifiable uses of data that are vastly beneficial, such centra
 Data protection refers to the practices, safeguards, and binding rules put in place to protect user’s personal information and ensure that users remain in control of it[i]. The purpose of personal data protection isn’t to just protect a person’s data, but to protect the fundamental rights and freedoms of persons that are related to that data[ii].
 
 
-
 Data protection doesn’t mean abandoning intelligent business use of personal data – it means being responsible and transparent with that use; continuing to pursue company objectives, but not at the expense of, or even with priority over, the individual data rights of the customer[iii]. One challenge stands out when framing data protection regime for e-commerce– how to create a supporting environment for e-commerce that fosters innovation while placing the privacy concerns at the forefront of the approach. Good legislation should complement market forces in bringing values and welfare to both consumers and organizations[iv].
-
 
 
 Privacy can have various meanings based on different context. It is important to understand the concepts of Privacy according to their context. Privacy has been identified with 3 broad types– s_patial privacy _(related to physical spaces and things), _decisional privacy _(related to certain significant decisions) and _informational privacy _(related to personal information)[v]. Data protection is related to informational privacy. With ubiquitous nature of technology, the impact of data protection can also be seen on spatial and decisional privacy too.
@@ -45,13 +41,10 @@ In its judgement in the Puttaswamy vs. Union of India case, in August 2017, the 
 Existing Indian Laws[vi]
 
 
-
 India does not have an independent data privacy legislation; however, it does have what can be inferred as the code for data protection laws that is embedded in the Information Technology Act, 2000 (“IT Act”) and Information technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 notified under the Section 43A IT Act. These Rules provide privacy law for protection of data in electronic transactions.
 
 
 Data as defined in the IT Act is restricted to collection, possession, handling/dealing or transfer of “personal” information which related to natural person. Thus, the law is restricted to an individual and does not deal with data between corporate entities. Also, the law makes no distinction regarding the obligation of a data collector and a data processor. Some salient features of privacy rules–
-
-
 
 
 ### **Personal Information vs. Sensitive Personal Data or Information (SPDI)**
@@ -60,22 +53,16 @@ Data as defined in the IT Act is restricted to collection, possession, handling/
 Data protection law in India does not protect all personal information but only “sensitive” personal data. The threshold of what is included as part of “sensitive” data is low. The definition includes critical financial information such as bank account details, debit and credit card details and other information related to payment instruments. These are deemed to be included as part of SPDI.
 
 
-
-
 ### **Collection of Information **
 
 
 Regarding information, the obligation is to inform the data subject (an entity whose data is being protected under the law) that its information is being collected. In case of SPDI, the bar for compliance is higher since a written consent is mandated which can be revoked by intimation in writing. Rules 5(2) and 5(4) are laid down in accordance with global best practices that are known as “data minimization”. To ensure data subjects do not disclose SPDI, it creates an obligation on data collectors to obtain information only when necessary and must be retained only for as long as it is necessary to achieve the purpose of collection.
 
 
-
-
 ### **Transfer of Information: Consent vs. Necessary for Performance**
 
 
 Consent does not result into legitimizing all data collection, but only “necessary” information can be collected and transferred. As opposed to collection, in case of transfer compliance is not just restricted to SPDI but also applicable to the entire pool of information. Over and above, information can be transferred to a third party only when (i) the third party also adopts the same level of data protection as mentioned under the IT Rules; (ii) the transfer is necessary for performance of an existing contract and (iii) consent of data provider is obtained.
-
-
 
 
 ### **International Laws**
@@ -88,9 +75,6 @@ GDPR is a legal framework that provides guidelines for the collection and proces
 
 
 While GDPR is not an act but guidelines that can be used to draft legislation by member nations, yet it is fruitful to compare the broad contours of GDPR with the relevant Indian law – Data Protection Bill. The major points of difference between the two are[vii] –
-
-
-
 
 
  	- While GDPR mandates entities to share names and categories of other recipients of personal data with citizens whose data is being processed, the Indian draft bill does not require this rule
@@ -106,8 +90,6 @@ While GDPR is not an act but guidelines that can be used to draft legislation by
  	- GDPR requires that the data which is being processed about the citizens shall be made available to him/her while the Indian draft bill mentions the provision of the summary to the citizens without defining what summary means
 
 
-
-
 ### **Conclusion**
 
 
@@ -115,7 +97,6 @@ Data privacy is a legal right and existing data protection framework in India un
 
 
 In framing the data privacy regime, the policy makers will have to balance the access of businesses to technological innovations in data analytics with the need to protect customer data. This would also include the requirement of the government to ensure law enforcement and regulatory authorities would have access to Indian data upon requests and that the government would be able to limit the unwillingness of MNCs to respond to law enforcement requests.
-
 
 
 [i] Accessnow.com. _Data protection: why it matters and now to protect it_. (2018). Retrieved from [https://www.accessnow.org/data-protection-matters-protect/](https://www.accessnow.org/data-protection-matters-protect/)
@@ -143,7 +124,4 @@ In framing the data privacy regime, the policy makers will have to balance the a
 
 
 I am Shivani Tannu, a Chartered Accountant from Pune. I am currently pursuing an MBA at IIM Bangalore. I have previously worked at Accenture as a Financial Analyst and now interning at Citi – securities and markets. Besides finance and law, I have a keen interest in the process of policy making, I have taken part in various youth parliament sessions before. My hobbies include trekking and reading.
-
----
-
-_Sourced from the WordPress database export (post ID 1572, http://localhost/IL/?post_type=content&#038;p=1572). Needs editorial review._
+type=content&#038;p=1572). Needs editorial review._

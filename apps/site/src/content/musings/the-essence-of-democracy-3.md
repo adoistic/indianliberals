@@ -124,7 +124,6 @@ The separation of powers in the U.S. Constitution between the President or the A
  	- e)     The Fundamental Rights of the citizen
 
 
-
 Unfortunately, most of these checks have been eroded by those in office in Delhi through their lust for centralising power in their own hands. Prime Minister Indira Gandhi was able, with the bogus majority in Parliament that she enjoyed, even to amend the Constitution and truncate the Prerogatives of President and the Fundamental Rights of the citizen.
 
 **THE RULE OF LAW**
@@ -158,7 +157,3 @@ Switzerland is among the least but the best administered countries of the world.
 I have only briefly outlined my views on what constitutes the essence of democracy.
 
 _Previous musing: [FORTY-THREE YEARS OF INDEPENDENCE](https://indianliberals.in/content/forty-three-years-of-independence-2/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7066, https://indianliberals.in/content/forty-three-years-of-independence-2/). Needs editorial review._

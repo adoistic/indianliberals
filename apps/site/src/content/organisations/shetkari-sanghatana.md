@@ -13,5 +13,3 @@ founded_year: 1979
 ---
 
 # Shetkari Sanghatana
-*Entry pending editorial review.*
-

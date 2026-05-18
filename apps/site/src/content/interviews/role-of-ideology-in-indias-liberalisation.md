@@ -14,7 +14,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Nimish Adhia discusses the crucial role of ideology in India's liberalisation. He talks about the ideological component and emphasises it as an important factor leading to the opening up of the Indian economy.
-
----
-
-_Sourced from the WordPress database export (post ID 1820, http://localhost/IL/?post_type=content&#038;p=1820). Needs editorial review._
+type=content&#038;p=1820). Needs editorial review._

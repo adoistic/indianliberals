@@ -17,8 +17,3 @@ ai:
 ---
 
 # AK Chandra
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/public-enterprises-in-india-by-ak-chandra-august-8-1960.pdf
-

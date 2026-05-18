@@ -34,7 +34,3 @@ The myth has been sedulously propagated by wily politicians that it is the Const
 There is no doubt that the overwhelming majority of thinking men strongly believe in Fundamental Rights and are deeply conscious of the outstanding role played by the Courts in preserving our cherished values. But unfortunately, they constitute the silent majority. There are times in a country’s history when inaction and silence can be a culpable wrong, and we are living in such times. It is not enough that we believe in our national motto that truth with ultimately prevail. We must take active steps to see to it that falsehood does not have very long innings before the ultimate moment of truth arrives.
 
 _Previous musing: [The Light of the Constitution](https://indianliberals.in/content/the-light-of-the-indian-constitution/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7828, https://indianliberals.in/content/the-light-of-the-constitution/). Needs editorial review._

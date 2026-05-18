@@ -66,31 +66,10 @@ Apart from the fiscal profligacy-induced horror of inflation, Shenoy’s other p
 However, after his death, Shenoy’s daughter, a formidable economist in her own right, [received](https://penguin.co.in/book/the-language-of-history/) a moving letter from Henry Hazlitt. Peter Bauer, of course, was and remained an [admirer](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/1998/5/cj18n1-1.pdf). Jagdish Bhagwati has tuned out to be a forceful proponent of India’s integration with the global economy. Aditya Balasubramanian, the leftist historian of Indian neoliberalism, has [published](https://penguin.co.in/book/the-language-of-history/) a comprehensive assessment of Shenoy’s career. Lastly, the [contemporary](https://twitter.com/CafeEconomics/status/952034022791655424?s=20) [admirers](https://twitter.com/kumaranand/status/605986884276215809?s=20) of B R Shenoy could be [found](https://twitter.com/dhume/status/605934182263422977?s=20) in India’s small but influential neoliberal circle.            
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-
-
-
-
-
-
-
-
 
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4922, https://indianliberals.in/content/minoo-masani-from-socialism-to-liberal-swatantra-party-2/). Needs editorial review._

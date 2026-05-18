@@ -35,7 +35,6 @@ _While Nani Palkhivala is known to be a legendary figure, there are fewer source
 Nani Palkhivala’s belief in principles of freedom was unshakable. He was a prolific writer who expressed these ideas in a clear way. An excerpt from one of the chapters called "Public Education through Publications", reproduced below, contains MR Pai’s recollection of Nani Palkhivala’s writing repository, the impact of his written works, and tales of various individuals involved in their publication._
 
 
-
 Everyone concerned with taxation is familiar with the book The Law and Practice of Income-Tax by Kanga and Palkhivala. It is the standard reference book on Taxation. Even income tax authorities respect its authoritative contents. Chief Justice M.C. Chagla referred to it as “The Book”. 
 
 Once I had to meet an income tax officer with regard to an assessment of a Trust as a trustee. He said, “Mr. Pai, I know that the Chairman of your Trust is none other than India’s leading income tax authority, Mr. Nani Palkhivala. According to his standard book of reference, what you are saying is right. I also agree with him personally. But my department takes a different view.”
@@ -60,7 +59,4 @@ paragraph of his personal note was touching: “I can hope for no greater reward
 Exactly after a decade, he published another book, a sort of companion volume, under the title [**We the Nation — the Lost Decades**](https://archive.org/details/in.ernet.dli.2015.170056/mode/2up). It was a collection of his articles on various subjects — with comments on great Indians like Dadabhai Naoroji to political subjects like dismissal of a Governor, to budgets and musings on life. It showed the vast range of Palkhivala’s reading, and considered views on men and matters. Published by UBS Publishers’ Distributors Ltd., in 1994, this book was also lapped up by the readers. By this time, Palkhivala commanded a big following of intellectuals as also common people.
 
 The unabridged version of the book chapter can be found [here](https://indianliberals.in/wp-content/uploads/2023/09/M.R.-Pai-The-legend-of-Nani-Palkhivala.pdf#page=56).
-
----
-
-_Sourced from the WordPress database export (post ID 8544, https://indianliberals.in/?post_type=content&#038;p=8544). Needs editorial review._
+type=content&#038;p=8544). Needs editorial review._

@@ -15,7 +15,4 @@ subject: "minoo-masani"
 ---
 
 Zareer Masani, author, historian and son of late politician, Minoo Masani talks about the reasons which pushed his father for establishing the Swatantra Party - Nehru's adoption of socialism, nationalization of key industries, and a strict licencing system.
-
----
-
-_Sourced from the WordPress database export (post ID 1809, http://localhost/IL/?post_type=content&#038;p=1809). Needs editorial review._
+type=content&#038;p=1809). Needs editorial review._

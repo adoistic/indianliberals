@@ -43,7 +43,3 @@ _Published in the January-March, 1992 issue of the Freedom First magazine, the o
 _[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 To read more about Minoo Masani, click [here](https://spontaneousorder.in/minoo-masani-from-socialism-to-liberal-swatantra-party/).
-
----
-
-_Sourced from the WordPress database export (post ID 2279, http://localhost/IL/content/so-musing-free-enterprise-is-economic-democracy/). Needs editorial review._

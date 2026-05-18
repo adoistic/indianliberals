@@ -121,7 +121,3 @@ There is a pattern. The bodies protesting against a work of art are front organi
 It is not just the Bharatiya Janata Party and the Shiv Sena but also the Congress and other 'secular', 'liberal' parties which have great faith in and tolerance for storm-troopers. The grand old party, in a bid to outsmart the regionalism and sectarianism of mainstream Akalis, set up Bhinderanwale-resulting into the assassination of Prime Minister Indira Gandhi and killing of thousands of people of all faiths. Similarly, to counter the Maratha chauvinism of the Shiv Sena, it propped up Maharashtra Navnirman Sena chief Raj Thackeray and refused to take action against the violence he brought about. Not much dissimilar is Trinamool Congress chief Mamata Banerjee's effort to out-Left the Marxists in West Bengal; she has partnered with the ruthless Maoists. 
 
 In short, it is the shortsightedness of mainstream politicians that creates law and order problems, not the work of art, however outrageous they might be. If the vandals are brought to justice and the rule of law is upheld, there would be no lawlessness and disruptions. _Last week's musing: [STATE MONOPOLIES AND THE CITIZEN IN A DEMOCRACY](https://indianliberals.in/content/state-monopolies-and-the-citizen-in-a-democracy/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6408, https://indianliberals.in/content/state-monopolies-and-the-citizen-in-a-democracy-2/). Needs editorial review._

@@ -140,7 +140,6 @@ Let us look at the recommendations of the Co-operative Law Committee which repor
  	- The State Government may become a member of any co-operative society and when it becomes a member of a co-operative society, "each person nominated by the State Government on the committee shall have one vote."
 
 
-
 It is surprising to have this kind of report from those who are going to administer the agricultural co-operatives in this country. The Indian Co-operative Union, a leading body of co-operative enthusiasts in this country, have said that the effect of such a report, if accepted, would be to 'reduce the co-operatives to little colonies of backward, ignorant and helpless people to be "administered," "controlled", "supervised", "audited", "inspected", "superseded", "adjudged" and "dissolved" by one single authority, the Registrar of Co-operative Societies.' 
 
 There is no wonder that Prof. Chandrasekhar, one of our finest demographers who recently visited China, described the Chinese communes as a "a new form of colonialism". 
@@ -160,7 +159,3 @@ It is wrong even from the point of view of self-interest because for the sake of
 Our real duty to the peasant today lies in giving water to the cultivator. In giving them better fertilisers and seed and teaching them how to cultivate their lands better than they have been used to do through the ages. This is the way in which Japan and other countries have shot forward in the production of wheat and rice. Instead of doing that, we are drawing the red herring of collective farming across the track and diverting attention from our gigantic tasks. Even if it is never carried out, it will divert attention from constructive pursuits and will take class war into the villages setting the landless against the landed, small-landed against the big-landed, and so on. 
 
 Gandhi ji used to say: "We of the cities will do everything for the peasant except get off his back." This formula of joint co-operative farming is invented by urban, doctrinaire people who have very little to do with them and is another attempt in a roundabout way to keep on the backs of our peasantry._Last week’s musing: [FREE ENTERPRISE AND FREEDOM](https://indianliberals.in/content/free-enterprise-and-freedom/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6661, https://indianliberals.in/content/free-enterprise-and-freedom-2/). Needs editorial review._

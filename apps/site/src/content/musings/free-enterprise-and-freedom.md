@@ -43,7 +43,3 @@ The new economic order should not endanger our newly won freedom and towards tha
 Apart from the considerations mentioned above, the other important point is that the rate of development envisaged in the Second Five-Year Plan particularly in the industrial sector, as compared to the rate of development already achieved during the First Five-Year Plan period, is not of such magnitude apart from the Steel Plants which the Government themselves have already decided to establish, that it can be considered to be beyond the capacity of the private sector to undertake that development nor is it of such high magnitude that the institutional charges in the frame work of industrial ownership and management should become necessary. 
 
 The record of the private sector in the First Five-Year Plan, as accepted and acknowledged by the Planners themselves, is sufficient to justify the continuation of the existing institutional frame work. Even, on this score, therefore, the changes envisaged can be considered to be entirely dictated by the ideological determination based upon the Avadi resolution and not on considerations of the need for rapid rate of development._Last week’s musing: [CENSORSHIP AND THE LAW OF INEXORABILITY](https://indianliberals.in/content/censorship-and-the-law-of-inexorability/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6656, https://indianliberals.in/content/censorship-and-the-law-of-inexorability-2/). Needs editorial review._

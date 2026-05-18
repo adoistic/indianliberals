@@ -17,8 +17,3 @@ ai:
 ---
 
 # SP Godrej
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/population-development-and-environment-by-sp-godrej-december-15-1994.pdf
-

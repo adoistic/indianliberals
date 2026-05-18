@@ -40,7 +40,6 @@ related_thinkers:
 _Ramadevi Chowdhuri (1899-1985) was a prominent Indian freedom fighter and social activist from Odisha, India. Her dedication to the cause of women's rights and active participation in the freedom struggle has made her an inspirational figure in Odisha and beyond. Ramadevi's legacy continues to inspire generations of women to fight for their rights and contribute to society._
 
 
-
 Ramadevi Chowdhuri was born to Basanta Kumari Devi and Gopal Ballav Das on December 3rd 1899 in Cuttack. She was the niece of _Utkal Gaurab_ Madhusudhan Das, a lawyer and a social reformer who played a prominent role in the unification of Odisha. Her childhood was influenced by freedom fighters and thinkers like Mahatma Gandhi, Vinoba Bhave, Sri Aurobindo, and JP Narayan.
 
 She got married at the early age of 15 to Gopabandhu Chowdhuri who resigned as Deputy Magistrate from Bariand, Odisha in 1921 prompting them to join the Indian Independence movement in 1921. The same year, they also joined Indian National Congress and actively participated in Non-Cooperation Movement.
@@ -72,7 +71,3 @@ Dr Chinmayee Satpathy, "[_Freedom Struggle and Rama Devi_](https://magazines.odi
 [_Ms Ramadevi Choudhary Recipient of Jamnalal Bajaj Award for Development & Welfare of Women and Children-1981_](https://www.jamnalalbajajawards.org/Media/pdf/JBA_1981_Bio_Rama_Choudhury(1).pdf). Jamnalal Bajaj Foundation.
 
 _Previous musing: [Economics of Freedom (1965)](https://indianliberals.in/content/economics-of-freedom/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8102, https://indianliberals.in/content/pandita-ramabai-a-trailblazing-feminist-2/). Needs editorial review._

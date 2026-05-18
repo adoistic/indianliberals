@@ -21,7 +21,3 @@ _First Published in Freedom First – January 1991_
 _Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
 [Read more SO Musings](https://spontaneousorder.in/?s=SO+Musings)
-
----
-
-_Sourced from the WordPress database export (post ID 2339, http://localhost/IL/content/so-musings-conditions-for-economic-growth-2/). Needs editorial review._

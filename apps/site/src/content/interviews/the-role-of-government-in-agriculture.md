@@ -14,7 +14,3 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/hashtag/indianliberals) video, Mr. Anil Ghanwat ( President, Shetkari Sanghathana) discusses the Government's role in agriculture.
-
----
-
-_Sourced from the WordPress database export (post ID 3988, https://indianliberals.in/content/the-life-and-times-of-sharad-joshi-2/). Needs editorial review._

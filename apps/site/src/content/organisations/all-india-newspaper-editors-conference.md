@@ -11,5 +11,3 @@ founded_year: 1940
 ---
 
 # All-India Newspaper Editors Conference
-*Entry pending editorial review.*
-

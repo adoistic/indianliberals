@@ -17,8 +17,3 @@ ai:
 ---
 
 # Dharamsey Khatau
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/state-capitalism-marches-on-by-dharamsey-m-khatau-january-25-1957.pdf
-

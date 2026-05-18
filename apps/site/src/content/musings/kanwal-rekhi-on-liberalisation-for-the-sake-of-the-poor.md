@@ -21,7 +21,3 @@ India should be creating low-end labor intensive industries for its multitude of
 Everything else will take care of itself.
 
 _1) http://www.thehansindia.com/posts/index/Young-Hans/2017-07-14/An-analysis-on-the-role-of-Indias-informal-economy/312388_
-
----
-
-_Sourced from the WordPress database export (post ID 2375, http://localhost/IL/content/musings-grievances-in-and-of-the-supreme-court-2/). Needs editorial review._

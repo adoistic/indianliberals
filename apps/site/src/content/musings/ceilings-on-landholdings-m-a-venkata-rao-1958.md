@@ -17,7 +17,6 @@ _M.A. Venkata Rao was a prominent thinker and commentator known for his libertar
 _In this piece, Rao critically examines the proposed land reforms in India, arguing against the imposition of landholding ceilings and highlighting the broader economic, social, and political implications of these policies. He highlights the ideological underpinnings of the reforms, warning of potential consequences for _**_property rights_**_ and _**_democratic governance_**_ in India._
 
 
-
 This year (1958) marks a crucial turning point for agriculturalists, with significant land reform proposals under consideration in several Southern states, including Kerala, Andhra, and Mysore. These states are following the lead of Bombay, which has already introduced reforms, and Madras is poised to do the same.
 
 It is vital for the future of democracy and stable governance in India that these land reform proposals are discussed thoroughly from all perspectives—economic and social, short-term and long-term, evolutionary and revolutionary. Such discussions should involve people with relevant experience and intellectuals in general, to ensure that any decisions made have the informed consent of thoughtful citizens. After all, democracy fundamentally means governance by consent, and no issue is ever truly settled unless it is settled rightly.
@@ -35,7 +34,4 @@ If these proposals are implemented, they could result in a significant seizure o
 The Libertarian Movement strongly advocates for the rights of private property within legitimate limits such as fair competition. It recognizes the value of Henry George's land use principles, which suggest that the state should reclaim unearned capital gains from property owners through resettlement at regular intervals. However, these reforms do not align with George's ideas, as they destroy property rights of large holders only to create new property rights for smaller ones, without any justification.
 
 Read the [complete musing here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-sept15-1958.pdf) (pages 3,4, and 8)
-
----
-
-_Sourced from the WordPress database export (post ID 8626, https://indianliberals.in/?post_type=content&#038;p=8626). Needs editorial review._
+type=content&#038;p=8626). Needs editorial review._

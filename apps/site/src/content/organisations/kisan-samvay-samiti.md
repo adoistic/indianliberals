@@ -11,5 +11,3 @@ draft: true
 ---
 
 # Kisan Samvay Samiti
-*Entry pending editorial review.*
-

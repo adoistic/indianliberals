@@ -19,7 +19,3 @@ Community ownership and management solve two problems simultaneously: the protec
 _This is an excerpt by Trupti Parekh and Dr Parth J Shah from the book ‘[The Terracotta Reader: A Market Approach to the Environment‘.](https://ccs.in/sites/default/files/2022-08/terra-forest-dwellers-versus-foresters.pdf)_
 
 Read more: [https://spontaneousorder.in/forests-communitisation-or-privatisation/](https://spontaneousorder.in/forests-communitisation-or-privatisation/)
-
----
-
-_Sourced from the WordPress database export (post ID 2355, http://localhost/IL/content/so-musings-wastage-in-public-sector-enterprises-2/). Needs editorial review._

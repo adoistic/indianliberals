@@ -27,7 +27,3 @@ The original text could be accessed [here](http://indianliberals.in/~_admin/pdf
 [_IndianLiberals.in_](http://indianliberals.in/)_ is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 To read more about C. Rajagopalachari, [click here](https://spontaneousorder.in/rajaji-relevance-to-todays-politics-of-the-right/).
-
----
-
-_Sourced from the WordPress database export (post ID 2283, http://localhost/IL/content/so-musing-remembering-dr-ambedkar/). Needs editorial review._

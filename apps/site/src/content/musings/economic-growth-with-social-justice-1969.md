@@ -33,7 +33,6 @@ _Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shrira
 _You can read more about Nani Palkhivala [here](https://indianliberals.in/content/nani-palkhivala/) ___
 
 
-
 Our Constitution aimed at making India the land of opportunity; our politicians have converted it into a land of opportunism. They have made socialism the opiate of the people. “Socialism" has become a word comprehensive enough to cover the entire spectrum of economic folly — a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression.
 
 Every thinking man in India today accepts without reser- vation the true socialistic objectives of economic development. True socialism means the subordination of private gain to public good. It means the investment of human and material resources in an imaginatively planned manner which can con- tribute to the vitality and progress of the whole nation, keep it in the mainstream of self-generating growth and develop- ment, raise the standard of living of the masses, and bring forth the maximum gifts of each for the fullest enjoyment of all. The translation of such socialism into action demands intellect and knowledge, character and dedication, of the highest order.
@@ -43,7 +42,3 @@ But there is the other type of socialism which is socialism on the cheap, which 
 It seems doubtful whether in the immediate future we shall attain stability and rapid progress through the democratic set- up. However, what is more valuable and easier to save is the more distant future of this great nation. Years of intensive mass education will be needed if the standards of rationality and fair dealing, of social justice and individual freedom, which are enshrined in our Constitution, are to be bred in the bones of our young men and women who are in their formative years and to whom the future belongs.
 
 _Previous musing: [Profit-Shy Asians (1957)](https://indianliberals.in/content/profit-shy-asians-by-kd-valicha/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8454, https://indianliberals.in/content/have-we-lost-our-will-to-be-free-1965/). Needs editorial review._

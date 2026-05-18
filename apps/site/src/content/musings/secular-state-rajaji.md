@@ -45,7 +45,3 @@ This article by C. Rajagopalachari (Rajaji) first appeared in the August 1957 is
 _[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
-
----
-
-_Sourced from the WordPress database export (post ID 2303, http://localhost/IL/content/so-musings-we-wish-you-a-happy-new-year/). Needs editorial review._

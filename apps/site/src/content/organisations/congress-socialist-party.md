@@ -12,5 +12,3 @@ dissolved_year: 1948
 ---
 
 # Congress Socialist Party
-*Entry pending editorial review.*
-

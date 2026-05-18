@@ -10,5 +10,3 @@ draft: true
 ---
 
 # All-India Sarafa Association
-*Entry pending editorial review.*
-

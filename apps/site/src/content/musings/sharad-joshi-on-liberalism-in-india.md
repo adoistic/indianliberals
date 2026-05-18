@@ -208,7 +208,3 @@ In fact, very few appear to be interested in a liberal polity. The beneficiaries
 **The Indian Liberals’ only Ally**
 
 But history gives ample evidence that liberty blossoms in the most unexpected of places and at seemingly impossible times. The world is moving towards demolishing walls that have fragmented and distorted the world. India cannot remain for long an island of statism. Indian history shows that our people believe in fighting over tyrants if an Indira Gandhi comes along. An Indian Hitler will have to be exceptionally lucky to survive for any length of time. This much hope ought to be enough for seekers of liberty and equality.
-
----
-
-_Sourced from the WordPress database export (post ID 4882, https://indianliberals.in/content/philosophy-of-freedom-2/). Needs editorial review._

@@ -29,9 +29,7 @@ pdf_staging_path: "PDFs-by-publisher/marathi/angarmala-sharad-joshi.pdf"
 needs_extraction: true
 ---
 
-_Awaiting LLM extraction._
-
-This entry was imported from the legacy WordPress database. Metadata is
+ Metadata is
 preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
 metadata pass + summarization pass + synthesis layer). See the
 [Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)

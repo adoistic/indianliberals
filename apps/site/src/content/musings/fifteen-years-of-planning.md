@@ -15,7 +15,6 @@ _
 You can read the complete, unabridged version here__ [Fifteen Years of Planning](https://indianliberals.in/wp-content/uploads/2023/07/Fifteen-Years-of-Planning.pdf)_
 
 
-
 **I. National income and mass well-being**
 
 For assessing economic progress, we must define the term. By economic progress, we must first define the term. By economic progress, we shall mean, first, a continued rise in the standard of living of the masses of the people. Since the masses of the Indian people are close to the margin of subsistence, for quite some time, the measure of economic progress will lie in the consumption of food, the average of which is below the nutritional norm, and the consumption of cloth, the average of which is sub-standard.
@@ -47,7 +46,3 @@ In recent years, aggregate income transfers due to inflation, controls, and the 
 If so, the benefit of the largest part of the annual expansion of the national income has accrued to a thin upper crust of the privileged sections of the people, leaving the condition of the masses unchanged or worse than before. With the rich becoming richer and the poor remaining poor or becoming poorer, income contrasts between the rich and the poor have become sharper. Though this is an unwelcome phenomenon, much cannot be gained by ignoring it as any prolonged persistence of it may not be conducive to continued social and political stability, which is so essential not only for rapid economic progress but also for the preservation of the higher values which we cherish.
 
 Thirdly, to get a clear picture of the trends in mass well-being, statistics of per capita income have to be adjusted for (a) the unduly large output of non-consumer goods and the creation of excess production capacities; and (b) for the undue build-up of inventories, which attends rising prices. Productive activity, which ends up in idle production capacities and idle stocks, would no doubt drive up the curve of national income in the same way as productive activity, which ends up in effective capital formation and increased consumption. But the former does not add to the well-being of the people, which the latter does. Excess capacities exist both in the capital goods and consumer goods industries and in the public as well as the Private Sector. They are estimated at about one-third of the total capacity in the major and minor irrigation works, somewhat less in the power projects, and at an average of 45 to 50 percent in 40 industries. Additions to inventories are inevitable under inflation, though it is not possible to assess their precise magnitudes.
-
----
-
-_Sourced from the WordPress database export (post ID 8153, https://indianliberals.in/content/national-priorities-for-1970-2/). Needs editorial review._

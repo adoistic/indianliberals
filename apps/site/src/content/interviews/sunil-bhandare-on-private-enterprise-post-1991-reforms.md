@@ -15,7 +15,4 @@ subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group talking about private enterprise in post-reform era, their skepticism and how they overcame it.
-
----
-
-_Sourced from the WordPress database export (post ID 1833, http://localhost/IL/?post_type=content&#038;p=1833). Needs editorial review._
+type=content&#038;p=1833). Needs editorial review._

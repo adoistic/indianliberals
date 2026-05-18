@@ -25,7 +25,3 @@ _The full text can be accessed _[_here_](http://www.freedomfirst.in/uploads/iss
 [_IndianLiberals.in_](http://indianliberals.in/)_ is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 Read more: [SO Musings: Replace the GDP](https://spontaneousorder.in/so-musing-replace-the-gdp/)
-
----
-
-_Sourced from the WordPress database export (post ID 2250, http://localhost/IL/content/so-musings-sikkim-through-other-eyes-2/). Needs editorial review._

@@ -11,5 +11,3 @@ founded_year: 1817
 ---
 
 # Hindu College Calcutta
-*Entry pending editorial review.*
-

@@ -15,7 +15,3 @@ subject: "a-d-shroff"
 ---
 
 A.D. Shroff (1899-1965) was a champion of free enterprise and a great leader of business and industry. He was one of the architects of free India’s banking and insurance business. Shroff was amongst the earliest proponents of free enterprise in India.
-
----
-
-_Sourced from the WordPress database export (post ID 4937, https://indianliberals.in/content/swatantra-party-indias-first-liberal-party-2/). Needs editorial review._

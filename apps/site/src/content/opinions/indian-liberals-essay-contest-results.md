@@ -25,7 +25,4 @@ author_name: "Editorial Team"
 Congratulations to all winners and participants!
 
 Read the winning essays on the **Opinion** page.
-
----
-
-_Sourced from the WordPress database export (post ID 1591, http://localhost/IL/?post_type=content&#038;p=1591). Needs editorial review._
+type=content&#038;p=1591). Needs editorial review._

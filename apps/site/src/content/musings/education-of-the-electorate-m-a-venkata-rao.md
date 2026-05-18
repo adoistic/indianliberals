@@ -64,7 +64,3 @@ The voter should be informed that he should regard the vote as an element of sov
 A candidate from a high family in the last elections stood as an independent for the Lok Sabha and was supported by the communist party. His only claim was that he could see Pandit Nehru at any time of the day without a formal engagement for an interview! A business magnate paid his election expense in the hope that such a person could obtain permits and quotas and licenses which could compensate him for his outlay many times over! The candidate was also a sort of comic poet and brought cinema stars, male and female, to gather huge audiences for him. And be did succeed in getting 45,000 votes though he hailed from a different part of the· country and did not know the language of the voters! 
 
 The frustration of the voter could be overcome by pointing to the opportunities for rising for them in the local bodies which they could later use as stepping stones for the Lok Sabha or Assembly. Participation in Voter's Clubs will restore the human touch and fill the void to a great extent.
-
----
-
-_Sourced from the WordPress database export (post ID 4712, https://indianliberals.in/content/the-swatantra-economy-obstacles-and-challenges-2/). Needs editorial review._

@@ -52,7 +52,6 @@ The German philosopher Max Weber laid great store by bureaucracy. He considered 
  	- **Expertise**: that is, administration based on knowledge.
 
 
-
 Such an organisation would provide the state what Weber called '**rational-legal legitimacy**.' When the servants of the state act with reason and law--'rational-legal'--the structure of domination, the state, acquires 'legitimacy' in the eyes of the subject populace. At the outset, let us realise that there are some problems with this organisational structure that Weber did not think of. For example, flat organisations are increasingly preferred over hierarchy in management. Strict hierarchies with promotion based on seniority lead to the 'rule of the aged,' such organisations are graveyards for talented youth. As Ludwig von Mises put it:
 
 It is evident that youth is the first victim of the trend toward bureaucratisation. The young men are deprived of any opportunity to shape their own fate. For them there is no chance left. They are, in fact, 'lost generations' for they lack the most precious right of every rising generation, the right to contribute something new to the old inventory of civilisation... What are young people to whom nothing is left to change and to improve? Whose only prospect is to start at the lowest rung of the bureaucratic ladder and to climb slowly in strict observance of the rules formulated by older superiors? Seen from their viewpoint bureaucratisation means subjection of the young to the domination of the old.
@@ -65,9 +64,5 @@ Similarly, a lifelong career is no longer the best option for the youth. It is e
  	- Indian civil servants fall far below Weber's ideals.
 
 
-
 __You can access the complete essay [here](https://indianliberals.in/liberals/new-public-management-escape-from-babudom.pdf).__
-
----
-
-_Sourced from the WordPress database export (post ID 8471, https://indianliberals.in/?post_type=content&#038;p=8471). Needs editorial review._
+type=content&#038;p=8471). Needs editorial review._

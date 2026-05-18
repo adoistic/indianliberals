@@ -83,7 +83,3 @@ The rulers should have sufficient knowledge of nature as can be pictured from ti
 A new scale of moral values like humanism, nationalism and democracy such as the new Declaration of Human Rights should be expected of electoral candidates amongst us. 
 
 _The original piece appeared in the December 1961 edition of the Indian Libertarian Magazine which can be [accessed here.](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-dec1-1961.pdf) _
-
----
-
-_Sourced from the WordPress database export (post ID 4889, https://indianliberals.in/content/sharad-joshi-on-liberalism-in-india-2/). Needs editorial review._

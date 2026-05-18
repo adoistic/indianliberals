@@ -13,7 +13,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) video, Ambrish Mehta and Trupti Mehta ( Activists, ARCH-Vahini) discuss the common myth about development and tribals. They highlight the importance of better standards of living for the tribal communities.
-
----
-
-_Sourced from the WordPress database export (post ID 1843, http://localhost/IL/?post_type=content&#038;p=1843). Needs editorial review._
+type=content&#038;p=1843). Needs editorial review._

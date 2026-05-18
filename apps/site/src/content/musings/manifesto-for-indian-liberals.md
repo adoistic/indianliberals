@@ -23,7 +23,6 @@ I. Democracy & Freedom
  	- The State is only the instrument of the community: it should assume no power which conflicts with the fundamental rights of the citizens and with the conditions essential for a responsible and creative life; namely:
 
 
-
 a) Personal freedom, guaranteed by the independence of the administration of law and justice. 
 
 b) Freedom of worship and conscience. 
@@ -46,7 +45,6 @@ h) Equality of rights between men and women. 
  	- The wide-spread disenchantment or disaffection, prevalent especially among the young, is the result of the failure to create, support and promote desirable values as well as of the  incapacity to adapt institutions and to ensure more justice and a better quality of living. In extreme cases, this disaffection has led to terrorism, in others, to anarchism or to a refusal to participate in public life. The values of freedom and independence, promoted by liberalism, can overcome this void, particularly if liberals make it clear that freedom for the individual is not to be confused with egoism, but is freedom within the context of community, implying responsibility and solidarity with fellow men.
 
 
-
 II. Decentralisation and Freedom
 
 i) Co-operation and solidarity between free men are a growing necessity in the modern world. However, the drive towards unhealthy centralisation has encouraged the downgrading of parliamentary institutions, the excessive dependence of the individual on the State and the growth of new forms of absolutism and of irresponsible centres of power through uncontrolled bureaucratic growth, the formation of public and private monopolies and the restrictiveness of some combination of employers, of workers, or of both together. 
@@ -65,7 +63,6 @@ ii) We believe that these tendencies can only be fought by devoted concentration
  	- elimination of racial and all other forms oppressive discrimination.
 
  	- protection of the individual and group from all forms of unwarranted invasion of personal, private life.
-
 
 
 iii) One area which requires immediate consideration is the relationship between the Centre and the States. The Constitution of India enacted in 1950 has balanced fairly the needs of national unity with those of reasonable authority for States. During the last 30 years, however, all major economic power has been concentrated in the hands of the Union Government, as a consequence of centralised planning. This imbalance has to be rectified by a greater measure of autonomy for the States and local self Government within the frame-work of the original Constitution of the Republic. There is no reason why a strong Centre should mean weak States or vice-versa.
@@ -96,7 +93,6 @@ i) Modern liberalism is faced with: 
  	- the need for freedom and pluralism in the media;
 
 
-
 ii) The main instrument with which to break down barriers to culture and to fight cultural, political and racial intolerance is education, based on democratic methods. Liberals, therefore, ask for the promotion of education for both sexes and all ages. 
 
 iii) Freedom and pluralism in the mass media are essential to a liberal society. There can be no political freedom where the media are in the hands of a monopoly or a quasi-monopoly, private or public. Liberals see, with growing concern, the powerful attacks against press freedom. 
@@ -111,7 +107,6 @@ i) The following are of crucial importance today: 
  	- the limited role of the State and planning in a social market economy;
 
  	- new technologies and protection of the environment.
-
 
 
 ii) The basic liberal principle in the economy is that there can be no political freedom where the State dominates the economy and less room is left for private initiative. Notwithstanding some delusions to the contrary, there can also be no real and lasting economic freedom where the importance of political freedom is not understood and human rights are not respected. It is particularly emphasised that economic growth cannot and should not be at the cost of political freedom. 
@@ -138,7 +133,6 @@ viii) The corrective role of the State must not make everybody dependent on it. 
  	- it can feed inflation and, therefore, make employment and investment more difficult.
 
 
-
 ix) Liberals believe that taxation should be fairly balanced between the needs of the individual and the needs of society for saving and investment. Taxation should, therefore, play a positive role in encouraging enterprise and in ensuring a greater equality of opportunity.
 
 x) To try to eliminate poverty and social injustice is not to accept egalitarianism viz. the abstract right to rigid equality of conditions for all, independent of talent, work or forethought. While liberals strongly support measures to reduce differences in wealth, to protect each citizen and to increase equality of opportunity, they decidedly oppose egalitarianism which degrades the individual, whereas the recognition of merit in conditions of social justice is stimulating. 
@@ -148,7 +142,3 @@ The Test of Character 
 India's development by a democratic and liberal philosophy and action presupposes and requires that the elected representatives firmly believe in integrity and competence. India also needs men and women who uphold values and excellence, protect public interest, whose motivation is achievement - not power - and whose faith is outside partisan politics. To develop such men and women with such faith and principles is the real task and goal before liberals. If India has to reach its full potential, the test of Character is of prime importance. 
 
 Access/download the pdf version of the manifesto [here](https://indianliberals.in/indian-liberal-group/manifesto-1985.pdf).
-
----
-
-_Sourced from the WordPress database export (post ID 8506, https://indianliberals.in/content/manifesto-for-indian-liberals/). Needs editorial review._

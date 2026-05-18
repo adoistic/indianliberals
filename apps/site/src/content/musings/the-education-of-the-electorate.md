@@ -87,7 +87,3 @@ A candidate from a high family in the last elections stood as an independent for
 The voter's frustration could be overcome by pointing to the opportunities for rising for them in the local bodies, which they could later use as stepping stones for the Lok Sabha or Assembly. Participation in Voter’s Clubs will restore the human touch and fill the void to a great extent.
 
 _Previous musing: [The Universality of Human Values](https://indianliberals.in/content/the-universality-of-human-values/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7892, https://indianliberals.in/content/the-universality-of-human-values-2/). Needs editorial review._

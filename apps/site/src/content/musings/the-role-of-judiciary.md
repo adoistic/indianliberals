@@ -100,7 +100,3 @@ The last question I will deal with is the appointment of ad hoc Judges. The prov
 In conclusion, I must stress the importance of public opinion as far as the independence of the Judiciary is concerned. Whoever believes in democracy must believe in the ultimate triumph of public opinion, if it is strong, united and fearless. If it is the people who have to govern the country, then the will of the people can only be manifested through public opinion. Recently, it has toppled (to use an expression which has now become part of the political vocabulary of our country) the President of the United States- than whom there is no more powerful person in the world with the possible exception (and I must mention the exception) of our Prime Minister. If it can do that it can surely condemn back-sliding Judges and see that they remain on the right track, true to themselves, true to their high office and loyal to the Constitution. It can also prevent Government from pursuing any policy or taking any action which will undermine the prestige, the dignity and independence of the Judges. 
 
 _Previous musing: [THE ESSENCE OF DEMOCRACY](https://indianliberals.in/content/the-essence-of-democracy-3/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7071, https://indianliberals.in/content/the-essence-of-democracy-4/). Needs editorial review._

@@ -65,13 +65,7 @@ Varian, Hal R. 1997. “Economics Aspects of Personal Privacy.” In Privacy and
 Telecommunications and Information Administration.
 
 
-
-
-
 Age-22, Education- B.A. Economics Honours, St. Stephen’s College, Delhi (2015-18), Masters in Public Policy (MPP), St. Xavier’s College (Autonomous), Mumbai (2018-20), Centre for Civil Society (CCS) Alumna; ‘i-Policy for Development Leaders’ (October 2016).
 
 Simran is of the opinion that reality is what people make of it, more or less on the lines of Alexander Wendt. Her reality is about creating a shared space where people, diplomacy, economics and international realities can merge together to provide for an atmosphere of peaceful co-existence. She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem. While currently interning at the Ministry of External Affairs (MEA) under the Multilateral Economic Relations (MER) Division, she is looking into the economic and political relations between G-20, BRICS and India. She is also working on her research paper on the bilateral trade relations between China, India and the United States. Her dissertation is centred around the theme of ‘Community and Healthcare’ wherein she would be analysing the positive correlation between increased community participation and the effectiveness of the Integrated Child Development Services (ICDS) scheme under the Ministry of Women and Child Development to reduce child malnutrition in Mumbai.
-
----
-
-_Sourced from the WordPress database export (post ID 1556, http://localhost/IL/?post_type=content&#038;p=1556). Needs editorial review._
+type=content&#038;p=1556). Needs editorial review._

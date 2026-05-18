@@ -17,8 +17,3 @@ ai:
 ---
 
 # GR Parrikar And RG Katoti
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/foreign-institutional-investors-in-india-by-gr-parrikar-and-rg-katoti-november-1994.pdf
-

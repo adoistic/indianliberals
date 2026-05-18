@@ -76,7 +76,3 @@ To summarise, the objective of life, was the attainment of self-realisation (Nir
 Sovereignty, according to Indian polity, lay, not in the people, but in Dharma. It was the responsibility of the king to enforce the Rule of Dharma. A state where the Rule of Dharma prevailed was a welfare state, the objective of welfare being to assist man in the attainment of the goal of life. The welfare state of the traditional Indian concept was, thus, a minimum state. It was wholly antagonistic to a garrison police state. It did not conflict with the present-day idea of a welfare state guaranteeing minimum standards of consumption. In the excessive importance we are paying to the successful implementation of the Second Plan there was inherent danger to this concept of the welfare state as, insistence on the Plan, might lead, step by step, to the adoption of totalitarian devices for raising the requisite resources. To prevent this we have to be constantly on the vigil. 
 
 - From a speech at a symposium on “My Idea OfA Welfare State'' at Bharatia Vidya Bhavan, Bombay.
-
----
-
-_Sourced from the WordPress database export (post ID 5058, https://indianliberals.in/content/minoo-masani-on-liberalism/). Needs editorial review._

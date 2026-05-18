@@ -17,8 +17,3 @@ ai:
 ---
 
 # Prof CN Vakil
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/some-contradictions-in-the-plan-by-prof-cn-vakil-october-30-1956.pdf, pdf-filename/forum-of-free-enterprise/the-problem-of-foreign-exchange-by-prof-cn-vakil-may-8-1961.pdf
-

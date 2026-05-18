@@ -12,6 +12,3 @@ founded_year: 1997
 ---
 
 # Centre for Civil Society
-
-*Entry pending editorial review.*
-

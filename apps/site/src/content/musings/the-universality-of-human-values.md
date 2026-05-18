@@ -84,7 +84,3 @@ There is no country in the world today so well placed to lead the social revolut
 Neither militarily, ideologically, nor morally can one part of humanity afford to write off any other. If it was true in the time of Abraham Lincoln that no nation could be half slave and half free, it is equally true today in this shrinking world that we cannot have a world that is half slave and half free. More than ever is it true today that as the English poet John Donne wrote, “_No man is an island entire of itself; every man is a piece of the continent, a part of the main; if a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as any manner of thy friends or of thine own, were; any man's death diminishes me, because I am involved in mankind. And therefore never send to know for whom the bell tolls; it tolls for thee_”.
 
 _Previous musing: [Democracy means Bread and Freedom](https://indianliberals.in/content/democracy-means-bread-and-freedom/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7883, https://indianliberals.in/content/democracy-means-bread-and-freedom-3/). Needs editorial review._

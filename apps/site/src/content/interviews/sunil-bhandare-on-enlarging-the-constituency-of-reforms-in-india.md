@@ -14,7 +14,4 @@ subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group discussing ways through which what he calls "constituency of reforms" could be enlarged.
-
----
-
-_Sourced from the WordPress database export (post ID 1827, http://localhost/IL/?post_type=content&#038;p=1827). Needs editorial review._
+type=content&#038;p=1827). Needs editorial review._

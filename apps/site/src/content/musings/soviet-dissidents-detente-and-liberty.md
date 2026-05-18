@@ -48,7 +48,3 @@ _The full text of the review can be accessed _[_here_](http://www.freedomfirst.
  
 
 Read more: [SO Musings: Liberalism and Freedom](https://spontaneousorder.in/liberalism-and-freedom/)
-
----
-
-_Sourced from the WordPress database export (post ID 2254, http://localhost/IL/content/so-musings-trample-the-wall-2/). Needs editorial review._

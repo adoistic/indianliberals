@@ -11,5 +11,3 @@ founded_year: 1990
 ---
 
 # Observer Research Foundation
-*Entry pending editorial review.*
-

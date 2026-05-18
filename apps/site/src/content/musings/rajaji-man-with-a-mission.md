@@ -91,7 +91,3 @@ Probably the most significant contribution which he had made- and which none els
 _This is an excerpt from the book Profiles in Courage: Dissent in Indian Socialism, a compilation on the lone voices of liberalism and economic freedom, including those of Rajaji, __Minoo Masani_ _, N G Ranga, B R Shenoy, Piloo Mody, Khasa Subba Rau and A D Shroff during the era of socialist command. You can access this book for free on _**[_our website_](https://ccs.in/sites/default/files/2022-08/profiles_in_courage.pdf)**_._
 
 [Read more on Indian Liberal Tradition](https://spontaneousorder.in/tag/indian-liberal-tradition/)
-
----
-
-_Sourced from the WordPress database export (post ID 2193, http://localhost/IL/content/so-musings-accountability-in-public-service-2/). Needs editorial review._

@@ -128,7 +128,3 @@ The nation is mature enough, and the Prime Minister and his colleagues are exper
 The Government should have the fullest co-operation from all quarters in the epochal demonstration watched by the whole civilized world-that liberty is not an "optional extra" in a democracy, that human rights are not a luxury intended merely for the elite and the affluent, and that our people, poor and downtrodden, are as intensely committed to the free way of life as the richest under the sun.
 
 _Previous musing: [ECONOMIC REFORMS IN INDIA: WHERE ARE WE AND WHERE DO WE GO?](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7278, https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go/). Needs editorial review._

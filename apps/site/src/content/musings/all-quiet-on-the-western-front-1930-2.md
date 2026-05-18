@@ -44,7 +44,3 @@ _The full text can be accessed _[_here_](http://www.freedomfirst.in/uploads/iss
 _[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 Read more: [Who is Getting Their Hands Dirty – Solid Waste Management Rules, 2016](https://spontaneousorder.in/who-is-getting-their-hands-dirty-solid-waste-management-rules-2016/)
-
----
-
-_Sourced from the WordPress database export (post ID 2209, http://localhost/IL/content/all-quiet-on-the-western-front-1930-2/). Needs editorial review._

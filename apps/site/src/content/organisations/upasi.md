@@ -11,5 +11,3 @@ founded_year: 1893
 ---
 
 # Upasi
-*Entry pending editorial review.*
-

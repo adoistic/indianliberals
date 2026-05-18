@@ -19,7 +19,3 @@ _Access the full document [here](http://v2.indianliberals.in/~_admin/pdflanguag
 _This article is from the Liberal Times, Volume III- Number 4, published in 1995._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
-
----
-
-_Sourced from the WordPress database export (post ID 2197, http://localhost/IL/content/so-musings-rajaji-man-with-a-mission-2/). Needs editorial review._

@@ -17,8 +17,3 @@ ai:
 ---
 
 # Frank Simoes
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/fare-forward-voyager-by-frank-simoes-may-1990.pdf
-

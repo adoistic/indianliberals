@@ -17,7 +17,6 @@ related_thinkers: []
 **"**When the Panchayat Raj is established, public opinion will do what violence can never do.**" - Mahatma Gandhi**
 
 
-
 The Centre for Civil Society (CCS) in collaboration with Friedrich Naumann Foundation for Freedom (FNF) South Asia is pleased to announce Vaad Vivad on "Decentralisation and Panchayati Raj System" in India scheduled on 23rd April 2023 at CCS Office, New Delhi.
 
 
@@ -46,7 +45,3 @@ To apply, [click here](https://form.typeform.com/to/l9Imvnro)
 
 
 For any other queries, mail Sourya (sourya@ccs.in) or Anushka (anushka@ccs.in)
-
----
-
-_Sourced from the WordPress database export (post ID 7991, https://indianliberals.in/content/indian-liberals-essay-contest-2/). Needs editorial review._

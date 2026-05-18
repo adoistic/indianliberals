@@ -13,7 +13,4 @@ transcript_status: "none"
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) video, Ambrish Mehta and Trupti Mehta ( Activists, ARCH-Vahini) talk about the key features of the Forest Rights Act, 2006 and the hurdles towards the implementation of the Act on ground. They draw lessons from their own experience in fighting for the rights of forest dwelling communities.
-
----
-
-_Sourced from the WordPress database export (post ID 1794, http://localhost/IL/?post_type=content&#038;p=1794). Needs editorial review._
+type=content&#038;p=1794). Needs editorial review._

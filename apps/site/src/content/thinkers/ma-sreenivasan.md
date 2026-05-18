@@ -17,8 +17,3 @@ ai:
 ---
 
 # MA Sreenivasan
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964.pdf, pdf-filename/forum-of-free-enterprise/grow-more-votes-by-ma-sreenivasan-february-8-1960.pdf, pdf-filename/forum-of-free-enterprise/milestones-and-millstones-of-planning-by-MA-Sreenivasan-January-5-1963.pdf
-

@@ -94,31 +94,10 @@ In assessing Agarkar’s legacy in Maharashtra, [N H Kulkarnee](https://books.g
 Agarkar today remains a forgotten figure outside Maharashtra. The social reformer’s radical approach though merits him a place in the national pantheon of [Indian Liberals](http://indianliberals.in/).
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-
-
-
-
-
-
-
-
 
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4958, https://indianliberals.in/content/swatantra-party-a-big-tent-challenge-to-congress-hegemony-2/). Needs editorial review._

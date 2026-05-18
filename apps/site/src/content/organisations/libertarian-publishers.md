@@ -12,5 +12,3 @@ draft: true
 ---
 
 # Libertarian Publishers
-*Entry pending editorial review.*
-

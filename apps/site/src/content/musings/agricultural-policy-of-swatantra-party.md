@@ -110,7 +110,3 @@ This libertarian literature has its counter-part in India as well. This journal 
 The original document can be accessed [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-feb1-1960.pdf).
 
 _[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
-
----
-
-_Sourced from the WordPress database export (post ID 2291, http://localhost/IL/content/so-musings-caste-system-greatest-curse-of-india/). Needs editorial review._

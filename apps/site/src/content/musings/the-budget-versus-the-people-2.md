@@ -27,7 +27,6 @@ _Dahyabhai Vallbhbai Patel was a Congressman and an elected member of the Bombay
 _You can read the original, unabridged version on _[_Page 42_](https://indianliberals.in/wp-content/uploads/2022/06/The-Budget-versus-the-people.pdf)_ here._
 
 
-
 The Budget for next year has provided for a total expenditure of Rs 4,290 crores; of this, Rs 2,116 crores will be in the revenue account and Rs 2,174 crore in the capital account. The total expenditure of the Government will be higher than the previous year's revised estimate by Rs 216 crores-Rs 117 crores on the revenue account and Rs 99 crores on the capital account. The Budget provides a total defence expenditure of Rs 879 crores in 1965-66 on revenue and capital account, compared to the revised estimate of Rs 835 crores in 1964-65.
 
 The Finance Minister has, however, mentioned that the actual rupee expenditure would not increase much because purchases of stores and aircraft, the total value included in the expenditure estimates, are being made on deferred payment terms. To this extent, the inflationary impact of such expenditure will be less.
@@ -173,7 +172,3 @@ It is a policy aimed at crushing the people so that they cannot rise and do noth
 Before I sit down, I would repeat my appeal to the Finance Minister to reconsider and revise his proposals and give some relief to the poor who have been taxed so much, particularly after the fall in the value of the rupee.
 
 _Previous musing: [The Party or the People?](https://indianliberals.in/content/the-party-or-the-people/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7946, https://indianliberals.in/content/the-party-or-the-people-2/). Needs editorial review._

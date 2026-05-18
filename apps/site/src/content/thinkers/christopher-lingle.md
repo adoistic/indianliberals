@@ -18,8 +18,3 @@ ai:
 ---
 
 # Christopher Lingle
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** proposal
-

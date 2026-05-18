@@ -17,8 +17,3 @@ ai:
 ---
 
 # MR Mayya
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/forward-trading-in-shares-by-mr-mayya-april-5-1996.pdf
-

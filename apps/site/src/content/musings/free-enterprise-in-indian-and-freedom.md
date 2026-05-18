@@ -56,7 +56,3 @@ However limited the scope left to the Private Sector and the uncertainty about i
 In conclusion, I only wish to sound a note of warning that in a country like ours, with one dominant political party and with no effective organized opposition, the thin borderline between democracy and totalitarianism can soon be crossed. There is already evidence of totalitarian thinking at least in the economic field and  unless public opinion becomes more vigilant, we may lose our most cherished possessions, viz., the freedom to think and the freedom to criticise. 
 
 _Previous musing: [MAKING CAPITAL OUT OF CONSUMER GOODS](https://indianliberals.in/content/making-capital-out-of-consumer-goods/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6976, https://indianliberals.in/content/making-capital-out-of-consumer-goods-2/). Needs editorial review._

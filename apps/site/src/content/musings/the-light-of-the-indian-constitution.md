@@ -95,7 +95,3 @@ Every major constitutional change represents a mood. Today, the mood of the nati
 It is Diwali, the festival of lights. As the lamps glimmer in and outside millions of homes, inexorable time will be ticking away the remaining few days before the light goes out of the Constitution.
 
 _Previous musing: [The Indian Constitution and Judiciary](https://indianliberals.in/content/the-individual-and-indian-constitution/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7792, https://indianliberals.in/content/the-indian-constitution-and-judiciary-2/). Needs editorial review._

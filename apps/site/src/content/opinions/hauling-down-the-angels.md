@@ -48,7 +48,4 @@ Investors and entrepreneurs are hoping for an instrumental change in the current
 After much backlash, the government last week eased the process of startups seeking tax exemption on investments made by angel investors. It notified changes to section 56 of the IT Act for easing startups gain recognition. Startups need to send an application to DIPP which will then be scrutinized by the Central Board of Direct Taxes (CBDT). However, in order to be eligible for exemption, the startups need to fulfil certain criteria. They will be required to furnish bank account details and return of income for the last three years. The exemption limit has been raised to Rs. 50 lakh from the earlier Rs. 25 lakh for financial year preceding the year of investment. Also, the earlier requirement of a startup having to submit a fair value certificate from a merchant banker specifying the fair market value of shares has been done away with.
 
 New and young establishments will shape the growth story of this country. Government initiatives for such as Startup India, Standup India and Skill India will not yield results with rigorous tax laws discourage youngsters from setting up new businesses. The government should revisit the valuation methodology and come up with a balanced policy that does not harass a promising community of startups in this country. With millions of young people joining the labour force every month, stifling entrepreneurship and innovation will be disastrous for one and all.
-
----
-
-_Sourced from the WordPress database export (post ID 1584, http://localhost/IL/?post_type=content&#038;p=1584). Needs editorial review._
+type=content&#038;p=1584). Needs editorial review._

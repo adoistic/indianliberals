@@ -19,7 +19,3 @@ _Access the full document [here.](http://v2.indianliberals.in/~_admin/pdflangua
 _First Published in The Indian Libertarian – September 1958_
 
 _Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
-
----
-
-_Sourced from the WordPress database export (post ID 2351, http://localhost/IL/content/so-musings-corruption-of-thought/). Needs editorial review._

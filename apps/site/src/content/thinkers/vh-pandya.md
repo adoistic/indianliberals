@@ -17,8 +17,3 @@ ai:
 ---
 
 # VH Pandya
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/emerging-scenario-in-the-capital-markets-and-sebi-role-by-vh-pandya-august-14-1994.pdf
-

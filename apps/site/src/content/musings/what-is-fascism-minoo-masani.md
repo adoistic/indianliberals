@@ -52,7 +52,3 @@ It follows from this that Fascism hates the intellectual and culture. "Whenever 
 This then is Fascism.
 
 ( The article was originally published [here. )](http://www.freedomfirst.in/issue/issue.aspx?issue=279)
-
----
-
-_Sourced from the WordPress database export (post ID 4645, https://indianliberals.in/content/freedom-of-self-expression-2/). Needs editorial review._

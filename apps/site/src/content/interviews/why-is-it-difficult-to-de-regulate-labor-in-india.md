@@ -14,7 +14,4 @@ transcript_status: "none"
 ---
 
 The Indian State has has a far greater control on labor than in many other emerging economies. Should labor be de-regulated? What are the impediments towards having a de-regulated labor market?
-
----
-
-_Sourced from the WordPress database export (post ID 1847, http://localhost/IL/?post_type=content&#038;p=1847). Needs editorial review._
+type=content&#038;p=1847). Needs editorial review._

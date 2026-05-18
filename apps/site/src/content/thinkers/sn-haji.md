@@ -17,8 +17,3 @@ ai:
 ---
 
 # SN Haji
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/role-of-free-enterprises-by-sn-haji-october-2-1956.pdf
-

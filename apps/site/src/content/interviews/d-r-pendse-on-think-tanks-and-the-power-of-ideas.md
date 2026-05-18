@@ -13,6 +13,4 @@ transcript_status: "none"
 subject: "d-r-pendse"
 ---
 
----
-
-_Sourced from the WordPress database export (post ID 1788, http://localhost/IL/?post_type=content&#038;p=1788). Needs editorial review._
+type=content&#038;p=1788). Needs editorial review._

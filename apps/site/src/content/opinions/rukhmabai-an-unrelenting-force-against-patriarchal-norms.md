@@ -51,7 +51,3 @@ Rukhmabai’s contributions in the areas of medicine and social justice formed t
 
 
 Khushi Rajput is currently pursuing Masters in Political Science from the University of Delhi. Her areas of interest include issues pertaining to civil rights, foreign policy and geopolitics.
-
----
-
-_Sourced from the WordPress database export (post ID 5011, https://indianliberals.in/content/the-unwavering-feminism-of-tarabai-shinde-2/). Needs editorial review._

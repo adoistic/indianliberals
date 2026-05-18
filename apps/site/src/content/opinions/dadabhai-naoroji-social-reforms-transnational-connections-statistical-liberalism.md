@@ -132,31 +132,10 @@ In my opinion, the moniker that best captures the legacy and status of Indian li
 _Author’s Note: This article draws heavily on the research of historian Dinyar Patel. The author gratefully acknowledges his contribution._
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-
-
-
-
-
-
-
-
 
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4991, https://indianliberals.in/content/minoo-masani-from-socialism-to-liberal-swatantra-party-2/). Needs editorial review._

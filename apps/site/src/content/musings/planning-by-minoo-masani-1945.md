@@ -24,8 +24,6 @@ related_thinkers:
 _The following piece on 'Planning' is taken from Minoo Masani at 90 published by Freedom First in 1995. This article written by Minoo Masani in 1945 takes the reader through various viewpoints on Central Planning and the role of the state. You can read the original article [here.](https://indianliberals.in/liberals/minoo-masani-at-90-freedom-first-1995.pdf)_
 
 
-
-
 Who is to organise the increased production, and who is to see to it that the benefits are equitably shared?
 
 The answer is - we ourselves, all of us. After all, this is our country, or rather it is going to be, and if we don't do all this, who else will? Our instrument for this purpose is the one which people throughout the world have created to manage their affairs. This is called the Government or ,the State.
@@ -72,7 +70,3 @@ Above all, what needs to be remembered is that planning is but a means to an end
 
 
 _Previous musing: [Fundamental Right to Property by V M Tarkunde](https://indianliberals.in/content/fundamental-right-to-property-by-v-m-tarkunde/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8447, https://indianliberals.in/content/indian-agricultural-policy-in-a-nutshell-2/). Needs editorial review._

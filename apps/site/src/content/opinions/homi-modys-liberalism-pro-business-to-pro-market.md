@@ -133,21 +133,9 @@ Homi Mody enunciated the Swatantra principles in terms of democratic freedom, so
 For all his eloquent witticism, Homi Mody’s role in the Party seemingly was limited as he catered to the westernised, English-speaking, urban constituency of business interests. Nonetheless, it is no unremarkable feat for him to go against the grain when opening up against the government could do real damage to his personal business interests. It becomes more evident when putting in the context of his earlier moderate conduct in the Raj years, maintaining a delicate balance between the colonial administration and the Congress nationalists. What, however, explains the transition of the temperamentally liberal Mody from being a pro-business to a pro-market politician? Mody’s biographer suggests an answer. The political philosophy, in Homi Mody’s case, was guided by a sense of practicality that sought to gain concession without consternation. As the broader context of the political economy changed, Mody’s response invariably varied. What remained constant, though, was his liberal conviction and sense of humour.
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4674, https://indianliberals.in/content/justice-h-r-khanna-and-the-art-of-speaking-truth-to-power/). Needs editorial review._

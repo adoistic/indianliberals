@@ -17,8 +17,3 @@ ai:
 ---
 
 # DR AC Shah
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/finance-companies-agenda-for-urgent-action-by-dr-ac-shah-july-15-1997.pdf
-

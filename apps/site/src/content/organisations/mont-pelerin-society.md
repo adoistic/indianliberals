@@ -12,5 +12,3 @@ founded_year: 1947
 ---
 
 # Mont Pelerin Society
-*Entry pending editorial review.*
-

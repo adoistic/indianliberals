@@ -60,7 +60,4 @@ c. An appreciation of how far we have come since 1991 and all the progress that 
 d.  A massive questioning of the environmental disaster that we face. Every major Indian city is unlivable and just the act of living in them is killing people.
 
 e. Why is that we still one of the most abysmal standard of primary education and healthcare in the world? How can we continue to grow and prosper if this remains true?
-
----
-
-_Sourced from the WordPress database export (post ID 1587, http://localhost/IL/?post_type=content&#038;p=1587). Needs editorial review._
+type=content&#038;p=1587). Needs editorial review._

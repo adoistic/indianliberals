@@ -11,5 +11,3 @@ founded_year: 1938
 ---
 
 # Bharatiya Vidya Bhavan
-*Entry pending editorial review.*
-

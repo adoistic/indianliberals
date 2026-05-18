@@ -12,5 +12,3 @@ draft: true
 ---
 
 # R L Foundation
-*Entry pending editorial review.*
-

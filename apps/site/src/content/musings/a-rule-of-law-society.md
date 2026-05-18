@@ -151,7 +151,3 @@ _First Published in the book FROM THE HAIR OF SHIVA TO THE HAIR OF THE PROPHET â
 _Other works by the author can be accessed atÂ _[_Indian Liberals_](http://indianliberals.in/liberals-details?id=19)_, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)
-
----
-
-_Sourced from the WordPress database export (post ID 2307, http://localhost/IL/content/so-musings-the-secular-state/). Needs editorial review._

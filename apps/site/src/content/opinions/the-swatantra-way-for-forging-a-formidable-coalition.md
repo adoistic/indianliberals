@@ -54,7 +54,6 @@ related_thinkers:
 India, the world’s largest democracy, recently concluded its general elections. The date of the election results 4th June 2024 coincided with the date of establishment of the Swatantra Party. The formations that emerged from this largest electoral exercise in the world have more in common with the Swatantra Party than just the date. One would correctly wonder what could be so similar between a recently concluded election and a political party that was founded sixty-five years ago. The Swatantra Party contributed immensely to Indian political and electoral thinking. Much of this invaluable treasure of ideas has remained hidden in the old Swatantra documents and souvenirs waiting for researchers, young and old, willing to explore them. This article discusses the timeless wisdom of the Swatantrites, especially for the opposition parties faced with a formidable ruling party or a ruling coalition. 
 
 
-
 ### Pragmatism of the Swatantra Party
 
 
@@ -85,15 +84,11 @@ The electoral system in India in a way compelled the Swatantra Party to enter in
 Sohrab Batlivala, a Swatantrite, made an interesting observation about the 1967 state election results. Certain states in India had shown a marked preference for particular opposition parties and their respective ideologies. For instance, Tamil Nadu voted Dravida Munnetra Kazhagam to absolute power. Kerala voted for the Communists. Orissa elected a contingent of the Swatantra Party to its legislature. Madhya Pradesh and Rajasthan had shown a liking for Bharatiya Jana Sangh.[1] There were very few states and regions without a well-organised opposition to the ruling Congress Party. Batlivala argued that these states could be strategically targeted by opposition parties. (Batlivala, 1971) A party like Bharatiya Jana Sangh could make inroads into Himachal Pradesh and Jammu and Kashmir. Similarly, the Swatantra Party could extend its influence to the southern state of Andhra Pradesh. Doing this tactfully and with mutual agreement was indeed the right thing for the opposition parties willing to put an end to the dominance of Congress. The like-minded opposition parties could collectively decide to not poach on the preserves of one another and share the states as their exclusive areas of influence amongst themselves. This arrangement would result in the following scenario:
 
 
-
-
-
 - Most of the states would immediately come under a two-party system consisting of only the ruling Congress and one opposition party.
 
 - If a non-Congress opposition party succeeded in getting a majority in the state assembly without forming a coalition, it would form a compact and homogeneous ministry of its own. This was seen as a much better option than forming a United Front with disunited partners.
 
 - The non-Congress Party would not have to get into the agonising task of forging the electoral adjustments with political rivals.
-
 
 
 Only if the opposition parties had adopted this way, the people of India would have been able to judge these parties for their ability to govern well. It would have led to a real competition between the political parties to prove to the nation the intrinsic worth of their respective economic policies, programmes and ideologies. Had this plan of having one opposition party per state been carefully implemented, it would have substantially reduced the overall cost of conducting the election campaigns. Every party would have had a congenial area for itself against the ruling Congress. They would not have to worry about contesting a much larger number of legislative seats which strained their resources in uncongenial regions. Most of the opposition parties would have secured far more seats than by competing against several rivals, claimed Batlivala.
@@ -103,8 +98,6 @@ Further Batlivala observed four main divisions of nearly equal strength among th
 
 
 According to Batlivala, the Congress could be stopped in the Lok Sabha if the opposition achieved at least one of the two things: (a) The opposition parties split up into Rightist and Leftist factions of nearly equal strength; or (b) The strength of the Congress was reduced to less than thirty percent of the entire membership of both Houses.
-
-
 
 
 ### **Conclusion**
@@ -122,15 +115,10 @@ Swatantrites observed that the Indian multiparty system could create a strong go
 **Notes:**
 
 
-
-
 - Other examples of the marked preference for regional parties included Akali Sikhs in Punjab, the new local Vishal Haryana Party in Haryana, the Peasants and Workers Party and Shiv Sena in Maharashtra.
 
 
-
 **References:**
-
-
 
 
 - Batlivala, S. H. (1971). _Alternatives to Coalitions: United Fronts and Electoral Adjustments_. Swatantra Party.
@@ -140,7 +128,4 @@ Swatantrites observed that the Indian multiparty system could create a strong go
 - [Masani, M. R. (1966a)](https://books.google.co.in/books/about/Why_Swatantra.html?id=oSdEAQAAIAAJ&redir_esc=y). _Why Swatantra?_ Popular Prakashan.
 
 - [Masani, M. R. (1966b)](https://indianliberals.in/liberals/congress-misrule-and-the-swatantra-alternative.pdf). The Socialist Pattern. In _Congress Misrule and the Swatantra Alternative_ (pp. 1-40). Manaktalas, Bombay.
-
----
-
-_Sourced from the WordPress database export (post ID 8552, https://indianliberals.in/?post_type=content&#038;p=8552). Needs editorial review._
+type=content&#038;p=8552). Needs editorial review._

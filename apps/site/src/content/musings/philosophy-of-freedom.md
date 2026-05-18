@@ -28,7 +28,3 @@ As Erich Fromm states in his _Fear of Freedom_, "The victory of freedom is possi
 **Mr. M. B. Shah was a rationalist and a businessman.**
 
 The article was originally published [here.](http://www.freedomfirst.in/uploads/issues/pdf/455.pdf)
-
----
-
-_Sourced from the WordPress database export (post ID 4760, https://indianliberals.in/content/towards-party-less-democracy-2/). Needs editorial review._

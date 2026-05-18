@@ -69,7 +69,3 @@ In Switzerland, some such system of democratic functioning has been in existence
 The difficulty stems from the fact that it is very difficult to affect a change from the present system. A body of volunteers have to set about organising voters' associations throughout the country and the Government should be persuaded to cease recognising parties during elections. But if it can be realised, the gain to political life will be immense. 
 
 The article was originally published[here.](http://www.freedomfirst.in/uploads/issues/pdf/105.pdf)
-
----
-
-_Sourced from the WordPress database export (post ID 4738, https://indianliberals.in/content/the-education-of-the-electorate/). Needs editorial review._

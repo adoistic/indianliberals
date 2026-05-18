@@ -17,8 +17,3 @@ ai:
 ---
 
 # Om Prakash Kahol
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/free-education-is-mere-jugglery-of-words-a-hangover-of-anti-rational-pre-partition-days.md
-

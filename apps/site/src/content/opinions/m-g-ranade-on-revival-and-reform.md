@@ -54,28 +54,9 @@ Ranade’s ideas were so distinct because he managed to have a fine blend of Ind
 Unfortunately, not many liberals have taken interest in interpreting the mission and message of Mahadeo Govind Ranade as Tikekar had envisaged. It makes one wonder if ideas are really immortal and can survive the onslaught of changing times as Mazzini once suggested. He said: "You may kill men; you cannot kill a great idea." Ambedkar thought it was a mistaken view. He argued “Men are mortal. So are ideas. It is wrong to hold that an idea will take roots _proprio vigore_. An idea needs propagation as much as a plant needs watering.” Ambedkar uttered these words in a[speech](http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/txt_ambedkar_ranade.html#10) he delivered in remembrance of Ranade. The liberal, reformist and moderate ideas of Ranade are now required by the society more than ever, it is incumbent upon us to not allow Ranade's ideas to gather dust.
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
 
 **Vikrant Pande**
 
 
-
-
-
-
-
-
-
 Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.
-
----
-
-_Sourced from the WordPress database export (post ID 4752, https://indianliberals.in/content/g-g-agarkar-revisiting-a-misunderstood-legacy/). Needs editorial review._

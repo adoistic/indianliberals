@@ -59,7 +59,3 @@ Unfortunately, some of the criticisms she made during her times hold true even t
 
 
 Prarthana has recently completed her BA in Political Science from Ramnarain Ruia Autonomous College, Mumbai.At Centre for Civil Society, she is an intern working on the Indian Liberals project of the think-tank. Her research interests include but are not limited to political thought, international relations, political sociology.
-
----
-
-_Sourced from the WordPress database export (post ID 4904, https://indianliberals.in/content/women-and-liberalism-the-life-of-ramabai-ranade/). Needs editorial review._

@@ -53,7 +53,3 @@ _The original booklet and the full text of the speech could be accessed _[_here
 _[IndianLiberals.in](http://indianliberals.in/index)is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
 
 [Read more SO Musings](https://spontaneousorder.in/category/so-musings/)
-
----
-
-_Sourced from the WordPress database export (post ID 2275, http://localhost/IL/content/so-musing-india-seeing-the-future-in-its-past/). Needs editorial review._

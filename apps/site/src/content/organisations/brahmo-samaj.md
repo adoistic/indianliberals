@@ -13,5 +13,3 @@ founded_year: 1828
 ---
 
 # Brahmo Samaj
-*Entry pending editorial review.*
-

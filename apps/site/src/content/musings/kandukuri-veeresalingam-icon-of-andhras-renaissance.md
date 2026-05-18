@@ -13,7 +13,6 @@ author: "kandukuri-veeresalingam"
 _Sri Kandukuri Veeresalingam is considered the father of Renaissance in Andhra Pradesh. He was not only a literary figure but also a social reformer. He awakened the masses out of their medieval orthodox customs and superstitions.  He was a multifaceted personality whose literary and revolutionary activities left an indelible mark on Andhra society._
 
 
-
 Rao Bahadur Kandukuri Veeresalingam Pantulu was born on 16 April 1848 at Rajahmundry, Andhra Pradesh. Veersalingam was born to an orthodox Brahmin family as the son of Subbarayudu and Poornamma. Unfortunately, he lost his father when he was just four years old. His paternal uncle raised him, and through his support, Veeresalingam studied in local schools. His zeal to learn earned him academic accolades at a young age. 
 
 With constant support from his mother and uncle, Veeresalingam finished his matriculation in 1869. He then worked as a schoolteacher in Korangi Village, Andhra Pradesh. Later, he got married to Rajyalakshmi. 
@@ -58,9 +57,7 @@ References
  	- Uma, A., & Sridhar, M. (2021). Kandukuri Veeresalingam: Women’s Education [February 1875]. In _Routledge eBooks_ (pp. 28–34). [https://doi.org/10.4324/9781003224761-2](https://doi.org/10.4324/9781003224761-2)
 
 
-
 _Previous musing: [TWO STRANDS OF LIBERAL EXPRESSION : DR. ANANDIBAI JOSHI AND LAKSHMIBAI TILAK](https://indianliberals.in/content/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak/)_
-
 
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
@@ -68,7 +65,3 @@ _Previous musing: [TWO STRANDS OF LIBERAL EXPRESSION : DR. ANANDIBAI JOSHI AND L
 
 **Ch Prashanth**
 Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
-
----
-
-_Sourced from the WordPress database export (post ID 8408, https://indianliberals.in/content/gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam-2/). Needs editorial review._

@@ -12,5 +12,3 @@ founded_year: 1987
 ---
 
 # Liberal Party of Sri Lanka
-*Entry pending editorial review.*
-

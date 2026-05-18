@@ -40,8 +40,6 @@ related_thinkers:
 _Tanguturi Prakasam was the first Chief Minister of Andhra Pradesh. He was a visionary leader and able administrator. His dynamic personality earned him a lasting reputation in the hearts of the Telugu people. He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people._
 
 
-
-
  	- Tanguturi Prakasam was born on 23rd August 1987 to Sri Gopalakrishnayya and Srimati Subbamma. He was born into a middle-class family and spent most of his childhood in his native village, Vinodarayudupalem, in Ongole taluk of then Madras Province. When Tanguturi was twelve years old, his father passed away. The sudden demise of his father left Tanguturi in shock. By 1885, Tanguturi’s family was facing financial difficulties. Owing to these circumstances, Tanguturi and his mother moved to Ongole Town. Tanguturi’s mother ran a small hotel and supported him to study. Tanguturi departed for Rajahmundry, located in Andhra Pradesh, where he successfully passed his Matriculation examination. In 1890, he entered into matrimony with Hanumayamma. Subsequently, he enrolled at Arts College in Rajahmundry and successfully completed the 'Fellow of Arts program’. In 1892, he relocated to Madras, where he joined the Law College and completed his legal education. After completing his legal studies, he began his career as a pleader. Later, he returned to Rajahmundry, establishing a solid presence as a pleader and actively participating in local politics.In 1904, Tanguturi moved to the United Kingdom to further his legal studies. Upon completing his studies and qualifying as a Barrister, he returned to India in 1907 and commenced legal practice in the Madras High Court. For the ensuing fourteen years until 1921, he continued his dedicated service in the legal profession.
 
 However, Tanguturi’s career started taking a political turn when he began to attend Congress party meetings regularly. After the ‘Surat Split’ in 1907, Tanguturi became an active follower of Congress. Inspired by Mahatma Gandhi, he renounced his profession as an advocate and got wholly involved in politics. On October 29, 1921, he founded ‘Swarajya’, an English daily. He was also the working editor of the publication. Swarajya’s closure came in the year 1936.  Later, in 1956, Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it “Swarajya” magazine, carrying forward the legacy of Tanguturi Prakasam. Through Swarajya, Tanguturi published Congress's aims and its blueprint of events. During the Nationalist movement, Swarajya was published in English, Telugu, and Tamil. 
@@ -73,12 +71,7 @@ References
  	- [Tanguturi Prakasham Pantulu (amritmahotsav.nic.in)](https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2885)
 
 
-
-
-
-
 _Previous musing: [KANDUKURI VEERESALINGAM: ICON OF ANDHRA’S RENAISSANCE](https://indianliberals.in/content/kandukuri-veeresalingam-icon-of-andhras-renaissance/)_
-
 
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
@@ -86,7 +79,3 @@ _Previous musing: [KANDUKURI VEERESALINGAM: ICON OF ANDHRA’S RENAISSANCE](http
 
 **Ch Prashanth**
 Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
-
----
-
-_Sourced from the WordPress database export (post ID 8414, https://indianliberals.in/content/kandukuri-veeresalingam-icon-of-andhras-renaissance-2/). Needs editorial review._

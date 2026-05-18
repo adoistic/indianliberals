@@ -56,20 +56,8 @@ Begum Rokeya died on December 9, 1932. Her life was itself her message and altho
  
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-01-at-21.43.30-e1615496711427-150x150.jpeg)
 
 
 **Anshu Singh Rathore**
 Anshu Singh Rathore is currently a 2nd-year law student at VIT School of Law, VIT Chennai. Apart from academics, he likes to read books, indulge in art and craft activities. A classical liberal who firmly believes in John Locke's idea that 'The End of Law is not to abolish or restrain, but to preserve and enlarge freedom.'
-
----
-
-_Sourced from the WordPress database export (post ID 4678, https://indianliberals.in/content/justice-h-r-khanna-and-the-art-of-speaking-truth-to-power/). Needs editorial review._

@@ -12,5 +12,3 @@ founded_year: 1958
 ---
 
 # Friedrich Naumann Foundation for Freedom
-*Entry pending editorial review.*
-

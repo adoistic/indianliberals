@@ -103,9 +103,4 @@ If I were asked to prescribe, I would begin by administering a few antidotes. Th
  	- Licensing of speeches - and the levy of steeply graded licence fee on speeches exceeding five minutes' duration, with surcharges on Platitude, Piffle and Twaddle, and penalties on Sermonisation.
 
 
-
 _Last week's musing: [THE SWATANTRA MANIFESTO](https://indianliberals.in/content/the-swatantra-manifesto/)_
-
----
-
-_Sourced from the WordPress database export (post ID 5118, https://indianliberals.in/content/the-swatantra-manifesto-2/). Needs editorial review._

@@ -147,19 +147,16 @@ How else can we explain to the World what we have come to have in India: 
  	- **Rents prevalent in 1994 which in money terms are the same as in 1940 and in real terms 2% as those in 1940**. By what canons of democracy can this dictatorship of tenants be defended? Yet, is it too much to ask that an innovative formula be worked out reconciling in a spirit of give-and-take the conflicting interests of the tenants and landlords? The late L.K. Jha once submitted a whole Report showing how so many democratic countries (and cities) have worked out a number of innovative formulae in a spirit of compromise; in 1983 he noted, for example, that in Washington D.C., rents were revised once every three years to the extent of one half of the increase in the Consumer Price Index.
 
 
-
 But till very recently, Government legislation in many parts of India ruled out any attempt at innovation and compromise by its draconian rent-control legislation. The search for vote-banks negated all principles of fair-play, atrophied the spirit of compromise - the Middle Path was exiled.
 
 
  	- **The same tragedy has befallen us in the area of Industrial Relations.** Foreign commentators, on the Indian economy, are absolutely horrified to find that, per 1000 Industrial man-days, India loses due to poor Industrial relations, more man-days than any other country in the World. Ironically, our very Legislation and Labour Judiciary exalts the conflicts and cleavages between Labour and Management instead of encouraging them to arrive at some measure of consensus at the bargaining table, the table of Collective Bargaining.
 
 
-
 Consider the gigantic losses suffered by the Indian economy: each year, 15 days are lost due to Port strikes, 15 days are lost due to Transporters' strike, 10 days are lost due to Bank strikes, and 22 to 26 million man-days are lost due to strikes and lock-outs in Indian Industry - not to speak of the many, many more millions of man-days lost due to deliberate, go-slows and the disruptions and destructions caused by public ire or "public-interest" causes. ****
 
 
  	- **Consider again the cleavages and conflicts deliberately introduced by government legislation between the small scale and the large scale sector. **
-
 
 
 The manner we have structured and fostered our small scale industries is a tribute to our spirit of generosity but not to our sense of economics. Thanks predominantly to a continuously enlarged list of reservations, tax rebates and outright subsidies the small scale industries of India have been brought to a stage when even with these major crutches, most of them cannot justify their existence. Conspicuously in Japan, in Germany and in Sweden, over 75% of all industrial establishments employ less than 100 persons. In some areas, their productivity per person is even higher than that in the large-scale industries; in other areas, they have carved out a niche for their activities and products; but in most areas, they have built up a synergistic relationship with the large-scale industries. In India, on the other hand, a great majority of the small scale industries have been nothing but, small scale replica of the large-scale industries, and instead of relying on their basic economic or technological strength to grow, they have relied almost entirely on tax incentives and the system of reservations in order to survive. Once again, instead of building up synergistic relationship between large-sale and the small-scale, as we find so prominently in the two great industrial countries of the world, namely Japan and Germany, the small-scale industry in India has been reduced largely (though happily, not entirely) to being a sector, whose principal survival is built on subsidies and governmental protection, and the continuous clashes between small-scale and the large-scale have, therefore, become the order of the day; what should have been an arena for joint growth has become a battle-field for snatching concessions. 
@@ -190,7 +187,6 @@ Right at this present moment, many Indian industrialists are disturbed that, soo
  	- In this manner, the Indian promoters will be able to buy their shares at a relatively low price, provided the dividends received during this period of 15 years are entirely used for charitable purposes. It simultaneously assures that in the absence of total inefficiency or non-viability of the Company, they have managed that they will be protected by the voting rights invested in the Trust against hostile raids. This then would represent the marriage of both the practical and the philanthropic goals, and the Trust would, in effect, serve as a concrete symbol of the Trusteeship concept bequeathed to us by Gandhiji.
 
 
-
 By no means is our suggestion fool-proof. Certainly, it is subject to several improvements and various legislative changes. But this is the very essence of the mixed economy, that we bring a pragmatic consensus approach to most matters and in so doing are not only to subdue our own passions and prejudices, but also to use law for man, and not man for law. 
 
 The Middle Path is not free from difficulties, particularly for an economy, which is about to make a transition from 40 years of over-planning, over-bureaucratisation, over-controls but, the key words in this are: Gradualism, Compromise, Tolerance and Pragmatism. At the best of times, the market-mechanism, the hand-maiden of Free Enterprise, has its limitations, its injustices, its excesses. That is why over a century ago, Count Otto von Bismark insisted that German Capitalism must be "oiled" with the safety-nets of social security schemes, and that is why sixty years later, Dr. Ludwig von Erhard insisted that the market mechanism must be "socially oriented". That is why both Franklin Delano Roosevelt and Lord Keynes insisted on strategic State Intervention and a social security network as essential concomitants of a Free Enterprise system. That is why so many democratic socialists sing the praises of the price-mechanism; and in reverse, so many exponents of Free Enterprise call for "the safetynet of social services." 
@@ -198,7 +194,3 @@ The Middle Path is not free from difficulties, particularly for an economy, whic
 **Conclusion **
 
 We, in India, need Free Enterprise to unleash the gigantic entrepreneurial wealth of our country. We need it to correct the excesses of an over-politicalised, over-planned, over-bureaucratised economy. We need it to prevent the further global isolation of India and instead make her a global player in the next six to seven years. But, let us reiterate our credo: Gradualism, Compromise and Compassion must be simultaneously our watchwords. As we said before, and now say it again in conclusion, to combine a passion for rapid economic growth with a compassion for the poor is not to repeat a cliché of socialism - it is only to recall the 'talisman' which the Father of our Nation bequeathed to all of us long years ago.
-
----
-
-_Sourced from the WordPress database export (post ID 5069, https://indianliberals.in/content/my-idea-of-a-welfare-state-b-r-shenoy/). Needs editorial review._

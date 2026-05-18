@@ -41,7 +41,4 @@ The Third plan imitates the Second in the strategy of planning. It is a carbon c
 As ably stated by Arthur Larson in his book, _What We are For_, “An economy directed by the state will ultimately always serve the ends of the state. Only an economy directed by consumers will ultimately serve the needs of the consumers…Yet totalitarian Communism not only defaults on the job of creating a prosperous modem consumer economy, but for this dismal performance still exacts the price of personal freedom.” 
 
 Read the complete speech [here](https://indianliberals.in/forum-of-free-enterprise/free-enterprise-in-india-a-call-for%20leadership-by-Ad-shroff-November-8-1961.pdf).
-
----
-
-_Sourced from the WordPress database export (post ID 8529, https://indianliberals.in/?post_type=content&#038;p=8529). Needs editorial review._
+type=content&#038;p=8529). Needs editorial review._

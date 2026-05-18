@@ -83,7 +83,3 @@ It is this intellectual milieu that emboldens the political class to trample ove
 In short, the so-called reasonable restrictions on the freedom of expression may have occasioned the censor board to regulate cinema but the matter did not end there. As any other government regulation, it has also acquired a life of its own, often making the existence of the CBFC redundant. Any political party, social outfit, cultural group, or publicity seeker can don the mantle of a censor and torment a filmmaker. Punia cited reasonable restrictions justify his attack on _Aarakshan_; it is another matter that the restrictions he wanted to impose were unreasonable. The concept from which the censor board derives its legitimacy is  also the one from which super-censors do. 
 
 Creative freedom will remain constrained and restrained till the individual is deprived of the right to express himself without restrictions, reasonable or otherwise. Until that is done, grumpy politicians, tetchy outfits, blackmailers, mischief mongers, and trouble makers will inexorably continue to thrive at the expense of freedom of expression._Last week's musing: [ART VERSUS LAW AND ORDER](https://indianliberals.in/content/art-versus-law-and-order/)_
-
----
-
-_Sourced from the WordPress database export (post ID 6414, https://indianliberals.in/content/art-versus-law-and-order-2/). Needs editorial review._

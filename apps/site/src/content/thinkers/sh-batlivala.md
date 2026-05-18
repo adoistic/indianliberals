@@ -17,8 +17,3 @@ ai:
 ---
 
 # SH Batlivala
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/dangers-of-wealth-tax-by-sh-batlivala-may-26-1957.pdf, pdf-filename/forum-of-free-enterprise/is-socialism-the-right-path-by-sh-batlivala-december-29-1956.pdf
-

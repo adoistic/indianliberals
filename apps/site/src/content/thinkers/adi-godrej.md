@@ -17,8 +17,3 @@ ai:
 ---
 
 # Adi Godrej
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/corporate-governance-by-adi-a-godrej-2004.pdf
-

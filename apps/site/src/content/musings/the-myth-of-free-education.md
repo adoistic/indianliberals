@@ -55,12 +55,10 @@ To sum up, we must recognise that:
  	- If the Government seeks to collect funds for purposes of education, not by raising tuition
 
 
-
 fees, but by enhanced taxes, the benefit of 'free' studentship must accrue to all pupils, who belong to the school-going age, and not to a favoured few only. The government must forthwith ban imposition of tuition fees on pupils in all the schools and remunerate the teachers engaged in approved institutions, from the government treasury.
 
 
  	- If the government cannot bear the burden of imparting 'free-education' to all the scholars, it should desist from creating difficulties in the way of those private agencies which are sharing this burden with it. This means, that while all persons deriving the benefit of educational facilities must be required to pay the prescribed fees, whether
-
 
 
 in a government school or in a private one, the grant-in-aid rules should be so liberalised that the private institutions do not have to look to philanthropic people for help, but their deficit should be wholly met by the government.
@@ -70,7 +68,4 @@ In the end, I should like to submit that, in my opinion, the educational institu
 the private agencies are promoting the same cause, for which the government stands and are drawing money from the public-money in the form of fees-by using their own influence on people, where the government may have to resort to more coercive methods: taxation and compulsory levy for achieving the same end. 
 
 All talk of 'free education' must end once for all, because it is deceptive.
-
----
-
-_Sourced from the WordPress database export (post ID 8606, https://indianliberals.in/?post_type=content&#038;p=8606). Needs editorial review._
+type=content&#038;p=8606). Needs editorial review._

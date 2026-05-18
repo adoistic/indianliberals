@@ -17,8 +17,3 @@ ai:
 ---
 
 # DR Skumar Jain
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/what-is-expected-of-management-trainee-in-private-eeterprise-by-Dr-Skumar-jain-September-5-1962.pdf
-

@@ -12,7 +12,6 @@ author: "johan-norberg"
 _The following excerpt has been taken from the Occasional Paper titled ‘Globalisation and the Poor’ written by Johan Norberg. The paper is based on a contribution of the author to the workshop Campaigning for Free Trade; organised by the Liberal Institute of the Friedrich Naumann Foundation in November 2003._
 
 
-
 The anti-globalisation movement had its coming-out party in Seattle in 1999, when thousands of activists and trade union members protested against a new round of trade negotiations in the World Trade Organisation. Millions were drawn to these protests because of a preceding anti-WTO statement that was circulated on the internet, and signed by about 1500 different groups, from churches to militant communists. Their first accusation against the WTO in the statement was that free trade and globalisation: 
 
 _“…has contributed to the concentration of wealth in the hands of the rich few; increasing poverty for the majority of the world's population; and unsustainable patterns of production and consumption."_ 
@@ -42,7 +41,4 @@ In the beginning of the 19th century something happened and poverty began to dec
 Even though the proportion of people in poverty has been shrinking in the last 200 years, the number of poor has increased, because the world population has been increasing constantly. Unique with the decline in the last twenty years is that not only the proportion, but also the absolute number of absolute poor has declined - for the first time in world history. During these two decades, the world population has grown by about 1.8 billion, but yet the number of absolute poor has declined by about 200 million people, according to the World Bank. Material developments in the past half-century have resulted in the world having over three billion more people liberated from poverty.
 
 Read the complete paper [here](https://indianliberals.in/other-publications/globalisation-and-the-poor.pdf).
-
----
-
-_Sourced from the WordPress database export (post ID 8619, https://indianliberals.in/?post_type=content&#038;p=8619). Needs editorial review._
+type=content&#038;p=8619). Needs editorial review._

@@ -11,5 +11,3 @@ founded_year: 1917
 ---
 
 # Tata Sons
-*Entry pending editorial review.*
-

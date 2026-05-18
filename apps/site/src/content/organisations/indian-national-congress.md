@@ -11,5 +11,3 @@ founded_year: 1885
 ---
 
 # Indian National Congress
-*Entry pending editorial review.*
-

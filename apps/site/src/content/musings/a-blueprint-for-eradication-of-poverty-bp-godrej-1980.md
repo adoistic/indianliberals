@@ -23,7 +23,6 @@ related_thinkers:
 _Produced below is an excerpt from an essay titled “A Blueprint for Eradication of Poverty” by Dr B.P. Godrej, published by the Forum of Free Enterprise in December 1980. Through the essay, Dr Godrej critiques the public sector’s inefficiencies in addressing poverty and unemployment. He highlights the widespread malnutrition and lack of economic progress, advocating for systemic reforms to improve food security, productivity, and overall well-being. This piece remains relevant as it addresses the persistent issues of hunger, poverty, and economic mismanagement, challenges that India continues to face even today._
 
 
-
 The biggest problems facing India today are poverty and unemployment. Eight months ago, a new government was formed in New Delhi. People's hopes were aroused but for a short time only. Already, there is strong evidence of manifestations of frustration. As no other large country in the world faces the twin problems of poverty and unemployment of the magnitude as India, the new government's responsibility is very grave. It would do well to bear in mind that ultimately economics rules politics. It is recognized in some quarters that even with half of India's population, everything else remaining the same, the difficulties in transforming India into a welfare state are immense.
 
 When India became free on the 15th of August 1947, a tremendous euphoria was generated. It was considered to be the dawn. But it is clear as daylight now that the economic dawn is nowhere in sight.
@@ -54,7 +53,4 @@ In this connection, we would be wise to heed Bernard Shaw's warning: “Those wh
  
 
 Read the complete text [here](https://indianliberals.in/forum-of-free-enterprise/a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980.pdf).
-
----
-
-_Sourced from the WordPress database export (post ID 8656, https://indianliberals.in/?post_type=content&#038;p=8656). Needs editorial review._
+type=content&#038;p=8656). Needs editorial review._

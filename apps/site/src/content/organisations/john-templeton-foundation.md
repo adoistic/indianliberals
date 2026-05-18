@@ -11,5 +11,3 @@ founded_year: 1987
 ---
 
 # John Templeton Foundation
-*Entry pending editorial review.*
-

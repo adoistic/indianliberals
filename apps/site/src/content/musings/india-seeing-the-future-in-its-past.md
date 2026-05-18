@@ -84,7 +84,3 @@ _The full text of the lecture is accessible [here](http://www.forumindia.org/im
 To read more musings, [click here](https://spontaneousorder.in/?s=SO+Musings).
 
 _[IndianLiberals.in](http://indianliberals.in/) is an online library of all Indian liberal writings, lectures and other materials in English and other Indian regional languages. The material that has been collected so far contains liberal commentary dating from the early 19th century till the present. The portal helps preserve an often unknown but very rich Indian liberal tradition and explain the relevance of the writings in today’s context._
-
----
-
-_Sourced from the WordPress database export (post ID 2271, http://localhost/IL/content/so-musings-india-the-tiger-caged/). Needs editorial review._

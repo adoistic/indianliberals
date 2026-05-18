@@ -46,7 +46,6 @@ Let me give you the backdrop as to what motivated me to choose this topic. I rec
  	- ** What Has Been Done?**
 
 
-
 What has been the main objective of the overall economic reform process in India, or for that matter, anywhere? The primary objective has to be the overall acceleration of economic growth along with rapid elimination of poverty. The means to achieve these objectives would be the injection of competition in the economy in order to induce greater efficiency and productivity gains; and dedicated efforts are needed to build capacity through human resource development.
 
 Let me begin with a broad brush of history. Around 50 to 100 years before our independence in 1947, there was hardly any discernible economic growth in the whole Indian sub-continent. Per capita income was stagnant, perhaps declining over that whole long period. After independence, annual per capita growth broke out of this long period of slumber and was in the range of 1 to 1.5 per cent for about 30 years or so until around 1980. After 1980 it increased to about 3-4 percent, which was a major departure in our recorded history. Along with this change, a good deal of new thinking also took place in terms of the strategy for future economic policy. As it happened, there was a full blown economic crisis at the end of the 1980s: the balance of payments came under severe pressure, and a realistic threat of sovereign default loomed over us; fiscal deficits had increased significantly over the 1980s; and inflation began to creep up to the late teens. These unfortunate developments focussed our minds like never before: India has a proud history of never ever having defaulted on our international obligations; our fiscal management has historically been conservative; and inflation seldom exceeded 10 percent.
@@ -123,7 +122,6 @@ Having given a bird's eye view of the reforms measures let me now turn to the ou
  	- ** Where are We?**
 
 
-
 There is a need to remember where lndia was at the time of its independence. Power capacity was just 1.1 percent of what it is now. The country was literally in darkness! With high mortality rates, the average Indian died at age 32. More than half of the country was under the poverty line. The income of an average household is now nearly Rs.130,000. Poverty was down to 23-26 percent in 1999- 2000. Per capita growth has gone up from about 1.5 percent per year in the first 30 years after independence to about 6.4 percent per year now. This makes a palpable difference in peoples' standard of living (Tables 1, 2 and 3).[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-49/)
 [](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-50/)
 
@@ -138,16 +136,9 @@ The step-up in the growth rate of the economy has been facilitated by an increas
 (As percentage of GDP)
 
 
-
-
-
-
-
-
 Year
 Aggregate
 Public Servant
-
 
 
 Savings
@@ -210,7 +201,6 @@ Investment
 30.1
 2.2
 7.2
-
 
 
 _Source:_ National Accounts Statistics, Central Statistical Organisation
@@ -302,10 +292,6 @@ In the light of low growth in agricultural production and productivity, had ther
 
  
 **Table 10:  Urban Population in India, 1901-2001**
-
-
-
-
 
 
 Census Year
@@ -425,7 +411,6 @@ Urban Population as percentage total Population
 27.8
 
 
-
 Note:
 
 
@@ -436,7 +421,6 @@ Note:
  	- The total population and urban population of lndia for the year 1991 includes interpolated population of Jammu & Kashmir where the census could not be conducted.
 
  	- The total population and urban population of lndia for the year 1981 includes interpolated population of Assam where the census could not be conducted
-
 
 
 _Source: Census of India, 2001_
@@ -526,7 +510,3 @@ The economic reforms process carried out in India over the last 15 years has bro
 The new focus of economic reforms has to be the empowerment of the public sector to do what it is supposed to do: public services.
 
 _Previous musing: [NANI PALKHIVALA: EDUCATION, LEADERSHIP, AND VISION OF FREE INDIA](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7207, https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/). Needs editorial review._

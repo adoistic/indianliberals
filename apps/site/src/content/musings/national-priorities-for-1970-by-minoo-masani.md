@@ -27,7 +27,6 @@ _Published by the Swatantra Party in 1970, the musing below was originally the t
 _You can read the complete, unabridged version here [National-Priorities-for-1970](https://indianliberals.in/wp-content/uploads/2023/06/National-Priorities-for-1970.pdf)_
 
 
-
 **I: Introductory Remarks **
 
 First of all, let me wish you all, what is coming in a few hours time, a happy and satisfactory New Year, and we all hope it will be a good one for our country, also.
@@ -73,7 +72,3 @@ We have nothing in common with obscurantism. For instance, Mr Atal Behari Vajpay
 The National Executive and the office-bearers elected in Madras on the 27th and 28th, I find, are a new team with a lot of young blood; particularly the five Joint Secretaries that the party has elevated to help us, each of them is a new man to the national leadership and a young man. I know that they are all dynamic young men. The key-note to the leadership of the Swatantra Party will be dynamism and discipline. We believe that Indian politics are now entering a period of a war of movement, a turbulent period, when a Maginot Line mentality of staying put and defending one’s position will not do. We will have to show a lot of initiative and drive. So, the first keynote will be dynamism. The second will be disciplined. You are aware of the fact that I have been arguing within my Party for having disciplined and ethical methods of work. Since the Party has placed me at the helm of affairs, I assume it has accepted the plea that I had made. If that is so, then I expect the new Executive to provide full support in putting an end to the kind of indiscipline which, unfortunately, we have been witnessing for the last year or two.
 
 _Previous musing: [Democracy in India (1959)](https://indianliberals.in/content/democracy-in-india-by-jm-lobo-prabhu/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8145, https://indianliberals.in/content/socialism-or-state-capitalism-1970/). Needs editorial review._

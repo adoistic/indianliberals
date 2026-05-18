@@ -23,7 +23,4 @@ The fundamental _raison d'etre_ of the free enterprise system is that it harness
 In my own mind, I have no doubt whatsoever that the free market economy is the key to all freedoms. In fact, the market and freedom are really synonymous terms. We should never forget that the only thing governments can control is people. One yard of textile does not care what its price is. But people care: the people who manufacture the textile, the wholesalers who sell to the retailers, and the retailers who sell to the consumers. And that is all controls can ever mean: 'people' control. It is never prices or goods and services but only people who are controlled, subsidised or supported by the government. It is this that so many citizens fail to see or choose to ignore. 
 
 _You can access the complete text _[_here_](https://indianliberals.in/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-m-a-rangoonwaala-june-15-1982.pdf)_._
-
----
-
-_Sourced from the WordPress database export (post ID 8481, https://indianliberals.in/?post_type=content&#038;p=8481). Needs editorial review._
+type=content&#038;p=8481). Needs editorial review._

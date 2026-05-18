@@ -17,8 +17,3 @@ ai:
 ---
 
 # MA Venkata Rao
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/collectivism-liberty-limited-state-ma-venkata-rao.md, content/theprint-mirror/congress-alcohol-ban-ma-venkata-rao.md, content/theprint-mirror/marxism-democratic-rights-ma-venkata-rao.md
-

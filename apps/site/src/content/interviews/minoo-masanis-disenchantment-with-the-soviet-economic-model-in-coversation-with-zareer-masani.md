@@ -15,7 +15,4 @@ subject: "minoo-masani"
 ---
 
 Minoo Masani talks about his disenchantment with Soviet model characterized by tight centralization, political repression and state control.
-
----
-
-_Sourced from the WordPress database export (post ID 1811, http://localhost/IL/?post_type=content&#038;p=1811). Needs editorial review._
+type=content&#038;p=1811). Needs editorial review._

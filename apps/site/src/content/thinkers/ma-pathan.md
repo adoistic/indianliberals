@@ -17,8 +17,3 @@ ai:
 ---
 
 # MA Pathan
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/energy-security-policy-by-ma-pathan-2005.pdf
-

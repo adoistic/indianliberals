@@ -14,5 +14,3 @@ dissolved_year: 1930
 ---
 
 # Satyashodhak Samaj
-*Entry pending editorial review.*
-

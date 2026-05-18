@@ -24,7 +24,6 @@ _C Rajagopalachari’s “Have We Lost Our Will To Be Free,” written in 1965, 
 _You can read the complete, unabridged version [here](https://indianliberals.in/swatantra-party/sixth-national-convention-swatantra-souvenirs-1973.pdf) ___
 
 
-
 Shortly after the Philadelphia Convention, the story goes that a lady asked Benjamin Franklin about the nature of the Constitution hatched at the convention, to which he replied "We have given you a republic, madam if you can keep it."
 
 In 1947 we were emancipated from British sovereignty. We were made free. But in the course of time, the Government into whose hands we placed ourselves has, in the name of socialism, taken away all the economic freedom that the citizens enjoyed for thousands of years, and the people have shown little inclination to resist this usurpation, the will to be free not being exercised. 
@@ -42,7 +41,3 @@ Controlled production, controlled prices, and other similar controls mean in the
 Men and women can by continued force be got to accept unhappiness as a normal condition either by society or governments. And this can be carried up to a point when protests and resistance disappear, and they even prefer a state of dependence to the responsibility which goes with freedom. One may wonder whether the electorate in India has come to that stage; or whether we can save ourselves from that sub-human condition. The Swatantra Party hopes that this is possible. It has been truly said that every significant movement in history has been led by one or just a few individuals with a small group of energetic supporters. We saw it not so long ago in Gandhi’s Swaraj movement in 1920, which came like an accident on top of the Khilafat movement. Liberation from the present permit-license-raj will come, too, in that way.
 
 _Previous musing: [Profit-Shy Asians (1957)](https://indianliberals.in/content/profit-shy-asians-by-kd-valicha/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8201, https://indianliberals.in/content/profit-shy-asians-1957/). Needs editorial review._

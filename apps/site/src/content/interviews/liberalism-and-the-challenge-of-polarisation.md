@@ -13,7 +13,3 @@ transcript_status: "none"
 ---
 
 In this #IndianLiberals monologue, Dr. Jaya Prakash Narayana ( Founder, Lok Satta Movement) talks about the politics of individuation as an antidote to the challenge of polarisation.
-
----
-
-_Sourced from the WordPress database export (post ID 3618, https://indianliberals.in/content/the-future-of-liberalism-in-a-post-pandemic-world-5/). Needs editorial review._

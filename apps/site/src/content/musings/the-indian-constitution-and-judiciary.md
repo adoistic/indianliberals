@@ -57,7 +57,3 @@ Law and justice are primarily a possible, but not a necessary quality of a socia
 It is to this commitment of the judges for which I plead.
 
 _Previous musing: [The Individual and Indian Constitution](https://indianliberals.in/content/the-individual-and-indian-constitution/)_
-
----
-
-_Sourced from the WordPress database export (post ID 7647, https://indianliberals.in/content/the-individual-and-indian-constitution-2/). Needs editorial review._

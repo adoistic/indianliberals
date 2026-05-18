@@ -11,5 +11,3 @@ founded_year: 1875
 ---
 
 # Bombay Stock Exchange
-*Entry pending editorial review.*
-

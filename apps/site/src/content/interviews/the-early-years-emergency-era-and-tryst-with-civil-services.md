@@ -13,7 +13,3 @@ transcript_status: "none"
 ---
 
 In this #IndianLiberals monologue, Dr. Jaya Prakash Narayana ( Founder, Lok Satta Movement) recalls his early years, the emergency era, and his tryst with India's Civil Services.
-
----
-
-_Sourced from the WordPress database export (post ID 3615, https://indianliberals.in/content/the-future-of-liberalism-in-a-post-pandemic-world-2/). Needs editorial review._

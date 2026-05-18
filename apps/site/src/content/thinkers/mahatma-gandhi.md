@@ -27,8 +27,3 @@ death_year: 1948
 ---
 
 # Mahatma Gandhi
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** corpus_mention
-

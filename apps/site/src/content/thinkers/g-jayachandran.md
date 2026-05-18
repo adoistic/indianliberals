@@ -17,8 +17,3 @@ ai:
 ---
 
 # G Jayachandran
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** content/theprint-mirror/indian-welfarists-right-property-life-liberty.md
-

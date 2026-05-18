@@ -19,7 +19,6 @@ _As was later established by literary historians (Gopal Halder, 1972), this happ
 _You can read the original, unabridged version in __Bengali here: [Evils of Child Marriage](https://indianliberals.in/wp-content/uploads/2023/07/Evils-of-Child-Marriage.pdf)_
 
 
-
 Marrying an 8-year-old daughter is a holy act of _gauri-daan_ (marrying the daughter before her first period) for her parents; giving away their 9-year-old daughter is as precious as their prized possession of land; arranging a groom for their 10-year-old daughter will lead the parents to the doorway of heaven…and all kinds of imagination, interpretation of religious texts, living in a delusional dream without much consideration of reality and the after-effects of one's actions, has led this country's humanity to normalize everything that is about child-marriage.
 
 Who can feign ignorance of the evils that these mindless acts have unleashed?
@@ -67,7 +66,3 @@ Can there be anything as cruel as making young women, even ill-fated little girl
 All in all, the arrival of widowhood at young and tender ages is directly linked to the unjust atrocity of the custom of child marriages. So, we appeal before all the civil people of this country to unite and work towards ensuring that this inequity that child marriages are wiped away from the face of society in its entirety. The thoughts and arguments we publish today against the evil of child marriages are barely the beginning. It is akin to an introduction. Much of logic and reason, as well as exemplary, anecdotal, and empirical expositions against the social ailment of child marriages, lie yet to be placed. With time, we shall keep no stone unturned in our endeavor to write and publish more on this topic.
 
 _Previous musing: [Your Prosperity Through Freedom](https://indianliberals.in/content/your-prosperity-through-freedom/)_
-
----
-
-_Sourced from the WordPress database export (post ID 8181, https://indianliberals.in/content/your-prosperity-through-freedom-2/). Needs editorial review._

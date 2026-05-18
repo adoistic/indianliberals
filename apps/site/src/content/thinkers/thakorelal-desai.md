@@ -17,8 +17,3 @@ ai:
 ---
 
 # Thakorelal Desai
-
-*Entry pending editorial review. The AI extraction pipeline identified this person as a recurring figure in the Indian liberal corpus.*
-
-**Provenance:** pdf-filename/forum-of-free-enterprise/role-of-private-enterprises-by-thakorelal-m-desai-september-4-1956.pdf
-

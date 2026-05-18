@@ -74,28 +74,9 @@ The question persists, as to why we should read the works of Hamid Dalwai or the
 The works of Hamid Dalwai and the Muslim Satyashodhak Mandal have been consciously written in a regional language and without any jargon of the academic language. The main reason behind such a practice is the firm belief in making the public politically informed, with the hope that if the citizens have an informed opinion, they are less likely to be swayed by the rhetorics of the political elites and the clergy. These works have a greater value than just being one more addition to many political ideas because they aim at releasing the citizens from being held emotionally hostage by people in power.
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
 
 **Vikrant Pande**
 
 
-
-
-
-
-
-
-
 Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.
-
----
-
-_Sourced from the WordPress database export (post ID 4979, https://indianliberals.in/content/sharad-joshi-and-the-crisis-of-trade-unions-2/). Needs editorial review._

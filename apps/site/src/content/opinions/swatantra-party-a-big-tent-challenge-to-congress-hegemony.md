@@ -84,31 +84,10 @@ In sharp contrast to Rajaji and Munshi, [Masani](https://theprint.in/opinion/no
 The discussion above captures the ideological diversity of the core Swatantra leadership in economic and cultural domains. However, not only did the Swatantra harbor a range of ideological positions, but it also had to deal with contending interest groups across provinces. Thus, the classic liberal, free-market agenda was part of a broad secular and conservative platform. Given the formidable political opposition from a statist left, it only made sense for market liberals like Masani to ally with traditionalists and democratic aristocrats. In fact, the fight against Congress hegemony led the Swatantra to enter into a grand alliance with the Jan Sangh and others. In the current context, the Swatantra lesson on coalition building to fight the ideological and electoral hegemony of a single party should be clear for political actors in India.
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-
-
-
-
-
-
-
-
 
 
 **Sanjeet Kashyap**
 
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
-
----
-
-_Sourced from the WordPress database export (post ID 4927, https://indianliberals.in/content/b-r-shenoy-indias-first-neoliberal-2/). Needs editorial review._

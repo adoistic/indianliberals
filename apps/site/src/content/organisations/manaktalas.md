@@ -10,5 +10,3 @@ draft: false
 ---
 
 # Manaktalas
-*Entry pending editorial review.*
-

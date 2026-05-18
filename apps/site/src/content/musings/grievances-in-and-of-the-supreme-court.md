@@ -23,7 +23,3 @@ Currently, the unwritten rules of judicial convention dictate administrative mat
 The Supreme Court is far too important an institution to leave its credibility on the conscience of individuals. As doubts arise over the [silence of the CJI](https://scroll.in/article/865686/one-week-of-top-judges-dissent-to-ride-out-the-crisis-on-silence-is-a-disservice-to-the-people) over the matter, we must all keep this conversation going. What are the different ways in which structural reform can be brought into the workings of the apex court, without imperilling judicial autonomy?
 
 _Views expressed are of the author’s, and should not be taken as the stance/opinion of Spontaneous Order or Centre for Civil Society._
-
----
-
-_Sourced from the WordPress database export (post ID 2371, http://localhost/IL/content/musings-voltaire-on-trade-2/). Needs editorial review._

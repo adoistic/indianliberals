@@ -56,20 +56,8 @@ However, Rajaji had never lost his hope of reviving Indian culture and nourishin
 _The article is an excerpt from the author's original piece published [here.](https://theverandahclub.com/article/crajagopalacharis-venerable-thoughts-on-culture-90)_
 
 
-
-
-
-
-
-
-
-
 ![](https://indianliberals.in/wp-content/uploads/2021/01/Bala.jpg)
 
 **Chandrasekaran Balakrishnan**
 
 Chandrasekaran has been working in the area of public policy in the last fourteen years. He has written many articles and scholarly papers on the history of Indian economic thoughts. He has diverse experience working with central and state governments, corporate, NGOs and academia on various capacities in public policy. He has Masters in Economics from University of Madras and M.Phil in Social Sciences from Devi Ahilya University, Indore.
-
----
-
-_Sourced from the WordPress database export (post ID 4628, https://indianliberals.in/content/piloo-mody-swatantras-witty-parliamentarian/). Needs editorial review._
