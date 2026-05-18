@@ -7,7 +7,7 @@ type: international_network
 ideology:
   - classical_liberal
 needs_review: true
-draft: false
+draft: true
 founded_year: 1993
 ---
 

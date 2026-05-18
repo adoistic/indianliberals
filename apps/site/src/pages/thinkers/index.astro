@@ -2,11 +2,12 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
-// Surface every thinker (no draft filter) — placeholder bios are visible
-// so readers can navigate from cross-links and discover the full breadth
-// of the index. Each entry's bio_source field tells you whether it's
-// canonical, AI-drafted, or an imported stub.
-const thinkers = (await getCollection("thinkers", (t) => t.data.language === "en")).sort(
+// Hide thinkers with zero inbound reference material (`draft: true` is set
+// by /tmp/auto_hide_orphans.py when nothing in the corpus references the
+// slug — no works authored, no profile pieces, no mentions, no
+// affiliations from other entries). Re-run that script after content
+// changes to update the visibility.
+const thinkers = (await getCollection("thinkers", (t) => !t.data.draft && t.data.language === "en")).sort(
   (a, b) => a.data.name.sort.localeCompare(b.data.name.sort),
 );
 

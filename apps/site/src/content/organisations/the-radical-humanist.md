@@ -8,7 +8,7 @@ ideology:
   - humanist
   - classical_liberal
 needs_review: true
-draft: false
+draft: true
 ---
 
 # The Radical Humanist

@@ -8,7 +8,7 @@ ideology:
   - agrarian_reform
   - classical_liberal
 needs_review: true
-draft: false
+draft: true
 ---
 
 # Shetkari Mahila Aghadi

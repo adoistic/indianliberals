@@ -6,7 +6,7 @@ name:
 type: professional_body
 ideology: []
 needs_review: true
-draft: false
+draft: true
 ---
 
 # All-India Sarafa Association

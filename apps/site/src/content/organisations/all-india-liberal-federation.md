@@ -7,7 +7,7 @@ type: political_party
 ideology:
   - classical_liberal
 needs_review: true
-draft: false
+draft: true
 ---
 
 # All-India Liberal Federation

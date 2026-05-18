@@ -6,7 +6,7 @@ name:
 type: political_party
 ideology: []
 needs_review: true
-draft: false
+draft: true
 founded_year: 1934
 dissolved_year: 1948
 ---

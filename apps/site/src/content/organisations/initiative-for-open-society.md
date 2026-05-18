@@ -7,7 +7,7 @@ type: publisher_org
 ideology:
   - classical_liberal
 needs_review: true
-draft: false
+draft: true
 ---
 
 # Initiative for Open Society
