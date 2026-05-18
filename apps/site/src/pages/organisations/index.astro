@@ -4,10 +4,11 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
-const orgs = await getCollection(
-  "organisations",
-  (o) => !o.data.draft && o.data.language === "en",
-);
+// Surface every organisation (no draft filter) — placeholder entries are
+// visible so cross-links from primary-work publishers/issuers resolve to
+// real pages. Each entry's body indicates whether it's a curated profile
+// or an AI-identified stub awaiting editorial expansion.
+const orgs = await getCollection("organisations", (o) => o.data.language === "en");
 
 // Group by type, then alphabetically within each group.
 const byType = new Map<string, typeof orgs>();
@@ -52,11 +53,11 @@ const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
       </p>
       <h1 class="text-(--color-fg) leading-tight">Organisations</h1>
       <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
-        {orgs.length} think tanks, publishers, political parties, reform
-        societies, and professional bodies that hosted, published, or were
-        debated by Indian liberal thinkers. Each profile cross-links the
-        works published or issued by the organisation and the thinkers
-        affiliated with it.
+        {orgs.length} organisations — think tanks, publishers, political
+        parties, reform societies, and professional bodies that hosted,
+        published, or were debated by Indian liberal thinkers. Each profile
+        cross-links the works published or issued by the organisation and
+        the thinkers affiliated with it.
       </p>
     </div>
   </section>

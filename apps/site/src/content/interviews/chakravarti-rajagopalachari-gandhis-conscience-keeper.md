@@ -10,6 +10,8 @@ draft: false
 subject_name: "Chakravarti Rajagopalachari - Gandhi's Conscience Keeper"
 youtube_url: "https://www.youtube.com/watch?v=YNsu2k-U3DA"
 transcript_status: "none"
+
+subject: "c-rajagopalachari"
 ---
 
 ---

@@ -1,0 +1,424 @@
+{
+  "generated_at": "2026-05-18",
+  "summary": {
+    "total_thinkers": 424,
+    "to_delete": 67,
+    "merge_clusters": 6,
+    "review": 0,
+    "after_cleanup": 349
+  },
+  "delete": [
+    {
+      "id": "",
+      "canonical": "A.D. Shroff - Champion of Free Enterprise",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "An Auxiliary for Historians: The Contribution of Older Austrians",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "BR Shenoy - A Prophet Without Honour?",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "Bollywood and Cultural Change in Attitude",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Centre for Civil Society : A Journey in Time",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "Chakravarti Rajagopalachari - Gandhi's Conscience Keeper",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on Doing Business in India before 1991 Reforms",
+      "reason": "name is 11 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on India’s ‘Open and Prosperous Past’",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on Liberating India s Entrepreneurs",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on Think Tanks and the Power of Ideas",
+      "reason": "name is 11 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on his Relationship with JRD Tata",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on the 1991 Crisis",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on the Criticism he faced through his Career",
+      "reason": "name is 11 words"
+    },
+    {
+      "id": "",
+      "canonical": "D R Pendse on the Indian Liberal Tradition",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Did Bollywood Liberalise India or Did India Liberalise Bollywood?",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "Forest Departments, Incentives and the Environment",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Forest Rights Act, 2006 : The Struggle for Implementation - Part I",
+      "reason": "name is 12 words"
+    },
+    {
+      "id": "",
+      "canonical": "Forest Rights Act, 2006: The Struggle for Implementation - Part II",
+      "reason": "name is 11 words"
+    },
+    {
+      "id": "",
+      "canonical": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+      "reason": "name is 14 words"
+    },
+    {
+      "id": "",
+      "canonical": "In Conversation with Ronald Meinardus - Regional Director, FNF South Asia",
+      "reason": "name is 11 words"
+    },
+    {
+      "id": "",
+      "canonical": "India's Greatest Liberal - Gopal Krishna Gokhale",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "India's Transition : Choice, Competition, and Individual Dignity",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "India's forest-dwellers: From Owners to Encroachers",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Indian Liberal Tradition - GP Manish",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Jagdish Bhagwati on Milton Friedman",
+      "reason": "matches title pattern 'on'"
+    },
+    {
+      "id": "",
+      "canonical": "Liberalism and the Challenge of Polarisation",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer Masani",
+      "reason": "name is 13 words"
+    },
+    {
+      "id": "",
+      "canonical": "Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer Masani",
+      "reason": "name is 14 words"
+    },
+    {
+      "id": "",
+      "canonical": "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise",
+      "reason": "name is 14 words"
+    },
+    {
+      "id": "",
+      "canonical": "Minoo Shroff on Doing Business in Nehru's India",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Minoo Shroff on His Uncle A D Shroff",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Minoo Shroff on Nehru, Welfare and India's Promise",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Mithan Tata Lam- An Indian Lawyer & Suffragist",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "N.G. Ranga - Guardian of Peasants' Rights",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "Role of Civil Society in the Pandemic",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "Role of Ideology in India's Liberalisation",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "S. Divakara on Nani Palkhivala's Union Budget Commentaries",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "S. Divakara on The Forum of Free Enterprise",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part I",
+      "reason": "name is 10 words"
+    },
+    {
+      "id": "",
+      "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part II",
+      "reason": "name is 10 words"
+    },
+    {
+      "id": "",
+      "canonical": "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal",
+      "reason": "name is 14 words"
+    },
+    {
+      "id": "",
+      "canonical": "Sunil Bhandare on enlarging the \\",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Sunil Bhandare on his experiences with Indian liberal organisations",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "Sunil Bhandare on private enterprise post 1991 reforms",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Swatantra Party : India's First Liberal Party",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Case for Liberalism in Indian History",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Challenges for Liberal Grassroots Movements",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Challenges leading to the Forest Rights Act, 2006",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Early Years, Emergency Era and Tryst with Civil Services",
+      "reason": "name is 10 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Future of Liberalism in a Post-Pandemic World",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Hayek-Keynes Debate, 1931-1971 |",
+      "reason": "starts with article phrase 'the hayek'"
+    },
+    {
+      "id": "",
+      "canonical": "The Hope for a Liberal Political Alternative",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Life & Legacy of Dr Janaki Ammal",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Life & Legacy of Lady Abala Bose",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Life and Times of Sharad Joshi",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "The New Global Marketplace | Sudha Shenoy",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Public Distribution System : A Boon or a Bane?",
+      "reason": "name is 10 words"
+    },
+    {
+      "id": "",
+      "canonical": "The Relationship Between Citizen and State",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Tribals and Development: Countering the Myths",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Vision for a Prosperous India - Gurcharan Das",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "What is the Role of Government in Agriculture?",
+      "reason": "name is 8 words"
+    },
+    {
+      "id": "",
+      "canonical": "Why Are Fundamental Rights Not Amendable?",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Why is it Difficult to De-regulate Labor in India?",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "DR Otto Count Lambsdroff And Swaminathan Aiyar",
+      "reason": "name is 7 words"
+    },
+    {
+      "id": "",
+      "canonical": "MR Anantharamakrishnan And CP Ramaswamy Ayyar",
+      "reason": "name is 6 words"
+    },
+    {
+      "id": "",
+      "canonical": "Sir Homi Mody SL Kirloskar And MR Ramnivas Ruia",
+      "reason": "name is 9 words"
+    },
+    {
+      "id": "",
+      "canonical": "Wing Commander Vijay Mahajan Alka Sen RN Kini",
+      "reason": "name is 8 words"
+    }
+  ],
+  "merge": [
+    {
+      "winner": "a-d-shroff",
+      "winner_canonical": "A. D. Shroff",
+      "losers": [
+        "a-d-shroff",
+        "a-d-shroff"
+      ],
+      "loser_canonicals": [
+        "AD Shroff",
+        "MR AD Shroff"
+      ],
+      "normalised_key": "ad shroff"
+    },
+    {
+      "winner": "b-r-shenoy",
+      "winner_canonical": "B. R. Shenoy",
+      "losers": [
+        "b-r-shenoy",
+        "b-r-shenoy"
+      ],
+      "loser_canonicals": [
+        "BR Shenoy",
+        "Prof BR Shenoy"
+      ],
+      "normalised_key": "br shenoy"
+    },
+    {
+      "winner": "muthulakshmi-reddi",
+      "winner_canonical": "Dr. Muthulakshmi Reddi",
+      "losers": [
+        "muthulakshmi-reddi"
+      ],
+      "loser_canonicals": [
+        "Muthulakshmi Reddi"
+      ],
+      "normalised_key": "muthulakshmi reddi"
+    },
+    {
+      "winner": "r-k-amin",
+      "winner_canonical": "R. K. Amin",
+      "losers": [
+        "r-k-amin"
+      ],
+      "loser_canonicals": [
+        "Prof RK Amin"
+      ],
+      "normalised_key": "rk amin"
+    },
+    {
+      "winner": "sachin-sen",
+      "winner_canonical": "Sachin Sen",
+      "losers": [
+        "sachin-sen"
+      ],
+      "loser_canonicals": [
+        "DR Sachin Sen"
+      ],
+      "normalised_key": "sachin sen",
+      "manual_override": true,
+      "reason": "prefer clean slug + canonical without honorific"
+    },
+    {
+      "winner": "nani-palkhivala",
+      "winner_canonical": "Nani Palkhivala",
+      "losers": [
+        "nani-palkhivala"
+      ],
+      "loser_canonicals": [
+        "NA Palkhivala"
+      ],
+      "normalised_key": "nani palkhivala",
+      "manual_override": true,
+      "reason": "NA = Nani Anantarao; same person"
+    }
+  ],
+  "review": []
+}

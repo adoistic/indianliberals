@@ -5,11 +5,12 @@ pubDate: 2025-08-02T11:34:22
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-unemployment-india-five-year-plans/2711035/"
 themes: ["five-year-plans", "indian-liberals-matter", "planning-commission", "unemployment"]
-related_thinkers: []
+related_thinkers: ["g-n-lawande"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/planning-unemployment-india-five-year-plans/2711035/) on 2026-05-16. Originally published 2025-08-02. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

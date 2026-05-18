@@ -10,6 +10,8 @@ draft: false
 subject_name: "Sunil Bhandare on private enterprise post 1991 reforms"
 youtube_url: "https://www.youtube.com/watch?v=g52qPVVXICE"
 transcript_status: "none"
+
+subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group talking about private enterprise in post-reform era, their skepticism and how they overcame it.

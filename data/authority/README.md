@@ -40,8 +40,8 @@ When the metadata extraction pass resolves a byline against this file:
 
 The v1 seed has expected duplicates that the LLM clustering will collapse:
 
-- `a-d-shroff` (canonical) and `ad-shroff` (high) — same person, will merge
-- `b-r-shenoy` (canonical) and `br-shenoy` (high) — same person, will merge
+- `a-d-shroff` (canonical) and `a-d-shroff` (high) — same person, will merge
+- `b-r-shenoy` (canonical) and `b-r-shenoy` (high) — same person, will merge
 - `m-r-pai` (canonical) and `mr-pai` (high) — same person, will merge
 - Similar split patterns for several others where initials are written with vs without periods
 

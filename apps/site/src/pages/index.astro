@@ -7,6 +7,14 @@ const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 const featuredThinkers = allThinkers
   .filter((t) => t.data.portrait?.caricature || t.data.portrait?.ring_portrait)
   .slice(0, 6);
+
+// Latest 6 ThePrint articles — links go out to theprint.in (the canonical
+// home). The federated column updates daily via the theprint-ingest worker
+// (apps/theprint-ingest), so this list reflects the freshest pieces in
+// the "Indian Liberals Matter" column on each build.
+const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.draft))
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate))
+  .slice(0, 6);
 ---
 
 <BaseLayout>
@@ -108,6 +116,48 @@ const featuredThinkers = allThinkers
       </div>
     </div>
   </section>
+
+  <!-- Latest from ThePrint federated column — links go out to theprint.in -->
+  {latestTheprint.length > 0 && (
+    <section class="border-b border-(--color-border)">
+      <div class="mx-auto max-w-6xl px-6 py-16">
+        <div class="flex items-end justify-between mb-8 flex-wrap gap-4">
+          <div>
+            <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+              From the federated column
+            </p>
+            <h2 class="text-(--color-fg)">Latest from ThePrint</h2>
+            <p class="text-(--color-fg-muted) mt-2 max-w-prose">
+              A regular series on ThePrint surfacing the Indian liberal tradition for a contemporary readership. Each piece opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.
+            </p>
+          </div>
+          <a href="/theprint-mirror/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
+            See all →
+          </a>
+        </div>
+        <ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {latestTheprint.map((p) => (
+            <li>
+              <a
+                href={p.data.theprint_url}
+                target="_blank"
+                rel="noopener canonical"
+                class="block h-full p-5 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+              >
+                <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) mb-2">
+                  {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" })} · {p.data.author_name}
+                </p>
+                <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
+                  {p.data.title}
+                  <span aria-hidden class="inline-block ml-1 text-(--color-fg-muted) text-sm">↗</span>
+                </h3>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
 
   <!-- For researchers and AI -->
   <section>

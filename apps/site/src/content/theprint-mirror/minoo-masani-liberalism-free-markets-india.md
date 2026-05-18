@@ -5,11 +5,12 @@ pubDate: 2026-01-10T15:51:16
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-free-markets-india/2823730/"
 themes: ["indian-liberals-matter", "liberalism", "socialism"]
-related_thinkers: []
+related_thinkers: ["minoo-masani"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-free-markets-india/2823730/) on 2026-05-16. Originally published 2026-01-10. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

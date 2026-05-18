@@ -9,6 +9,8 @@ draft: false
 subject_name: "Minoo Shroff on Doing Business in Nehru's India"
 youtube_url: "https://www.youtube.com/watch?v=mkKmQMD_Kcs"
 transcript_status: "none"
+
+subject: "minoo-shroff"
 ---
 
 ---

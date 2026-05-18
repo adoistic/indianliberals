@@ -6,12 +6,14 @@ title:
 work_type: book
 authors:
   - b-r-shenoy
-editors: []
+editors:
+  - r-k-amin
+  - parth-shah
 contributors:
   - role: editor
-    thinker_unresolved: R K Amin
+    thinker: r-k-amin
   - role: editor
-    thinker_unresolved: Parth J Shah
+    thinker: parth-shah
 publication:
   language: en
   publisher_id: centre-for-civil-society
@@ -38,7 +40,7 @@ themes:
   - entrepreneurship
   - public-sector
   - indian-economy
-summary: "Economic Prophecies (Centre for Civil Society, 2004) is the first of a two-volume collected-works edition of B. R. Shenoy's writings, spanning 1954 to 1978. Edited by R K Amin and Parth J Shah, it assembles 36 essays across five thematic sections — Context, Planning, Foreign Aid, Policy Critiques, and Agriculture — originally published in economic periodicals, newspapers, and lecture forums. The editors' preface, written by R K Amin, frames the volume as a posthumous tribute: it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail, and situates his relevance for a post-1991 generation. The prologue, attributed to the editors, explains that the title Economic Prophecies was chosen because Friedman, as early as..."
+summary: "Economic Prophecies (Centre for Civil Society, 2004) is the first of a two-volume collected-works edition of B. R. Shenoy's writings, spanning 1954 to 1978. Edited by R K Amin and Parth J Shah, it assembles 36 essays across five thematic sections — Context, Planning, Foreign Aid, Policy Critiques, and Agriculture — originally published in economic periodicals, newspapers, and lecture forums. The editors' preface, written by R K Amin, frames the volume as a posthumous tribute: it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail, and situates his relevance for a post-1991 generation. The prologue, attributed to the editors, explains that the title Economic Prophecies was chosen because Friedman, as early as 1963, had identified Shenoy as a prophet, and that this first volume is aimed at the general reader while the companion Theoretical Vision targets students of economics.\n\nIn the rendered pages, three essays from Section A (Context) are partially or fully visible.…"
 needs_review: true
 draft: false
 ai:
@@ -55,7 +57,7 @@ physical:
 
 # Economic Prophecies
 
-*By B R Shenoy*
+*By B. R. Shenoy*
 
 ## Summary
 
@@ -65,35 +67,41 @@ In the rendered pages, three essays from Section A (Context) are partially or fu
 
 ## Essays
 
-### Essay (toc 0)
-*b-r-shenoy*
+### Essay 0
+*By B. R. Shenoy*
 
-The Editor's Note, written by R K Amin, contextualises Shenoy's life and method. It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country' and Peter Bauer describing him as 'a hero and a saint.' Amin recounts meeting Shenoy shortly before his death on 8 February 1978, at which Shenoy expressed despair that he could not change the government's mind. The Note elaborates Shenoy's methodological stance — that economic theory must be grounded in real-world observation, no...
+The Editor's Note, written by R K Amin, contextualises Shenoy's life and method. It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country' and Peter Bauer describing him as 'a hero and a saint.' Amin recounts meeting Shenoy shortly before his death on 8 February 1978, at which Shenoy expressed despair that he could not change the government's mind. The Note elaborates Shenoy's methodological stance — that economic theory must be grounded in real-world observation, not self-created models — and defends the separation of the economist's analytical role from that of a policy adviser. It closes by arguing that truth ultimately wins, pointing to China, England, New Zealand and the Soviet Union's own abandonment of socialist economics as posthumous vindication of Shenoy's warnings.
 
 - Milton Friedman and Peter Bauer are cited as international witnesses to Shenoy's prophetic stature
 - Amin stresses Shenoy's empirical method: rejecting model-building in favour of observed market and policy realities
 - The Note argues that merging the roles of economist and policy adviser undermines both scientific rigour and professional dignity
+- Shenoy's pessimism at death ('I feel sorry I could not change the mind of the government') is contrasted with Amin's optimism that truth always prevails
+- Post-1978 global events — Thatcher, Reagan, collapse of USSR, India's 1991 liberalisation — are offered as retrospective proof
 
-### Essay (toc 1)
-*b-r-shenoy*
+### Free enterprise in danger
+*By B. R. Shenoy*
 
-Written in May 1975 in support of statements made by industrialist J R D Tata at an ASSOCHAM seminar, 'Free enterprise in danger' argues that communist infiltration into government and the escalating appropriation of private-sector investment resources by the public sector are placing private enterprise on the path to extinction. Shenoy rebuts Planning Commission Deputy Chairman P N Haksar's counter-claim that 90 per cent of national product still comes from the private sector, showing that what...
+Written in May 1975 in support of statements made by industrialist J R D Tata at an ASSOCHAM seminar, 'Free enterprise in danger' argues that communist infiltration into government and the escalating appropriation of private-sector investment resources by the public sector are placing private enterprise on the path to extinction. Shenoy rebuts Planning Commission Deputy Chairman P N Haksar's counter-claim that 90 per cent of national product still comes from the private sector, showing that what matters is not share of current output but share of investment resources: by 1980, the third factor alone (government appropriation of private capital) may bring 50 per cent of industrial and mining capital under government ownership. He documents how plan outlays of Rs 41,250 million in 1973-74 generate corrupt payments ('kickbacks') of Rs 8,250–16,500 million per year, transforming plan investments into dead-weight consumer income. Shenoy closes by arguing that even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays.
 
 - JRD Tata's warning of communist infiltration into key government positions is endorsed and elaborated
 - Haksar's 90-per-cent private-sector-output defence is rejected: the decisive variable is the public sector's share of investment resources, not current output
 - By 1980, government ownership of industrial and mining capital may reach 50–80 per cent through loan-to-equity conversions and direct appropriation
+- Public-sector plan outlays in 1973-74 generate Rs 8,250–16,500 million in corrupt payments, neutralising productive investment
+- Per-capita agricultural output declined at 0.14 per cent per year (compound) 1961-74 despite rising industrial production, reflecting capital starvation of agriculture
 
-### Essay (toc 2)
-*b-r-shenoy*
+### Image of the Indian entrepreneur
+*By B. R. Shenoy*
 
-Published in October 1970, 'Image of the Indian entrepreneur' defends the traditional business community — specifically the Vaishya caste and its Bania sub-groups — against socialist caricature. Shenoy traces the historical origins of the hundi credit instrument, crediting it as an institution of high integrity that enabled long-distance trade across the subcontinent. He argues that the negative popular image of the entrepreneur emerged not from any inherent dishonesty but from socialist policy ...
+Published in October 1970, 'Image of the Indian entrepreneur' defends the traditional business community — specifically the Vaishya caste and its Bania sub-groups — against socialist caricature. Shenoy traces the historical origins of the hundi credit instrument, crediting it as an institution of high integrity that enabled long-distance trade across the subcontinent. He argues that the negative popular image of the entrepreneur emerged not from any inherent dishonesty but from socialist policy itself: price controls, import licensing, and the Industrial Policy Resolution of 30 April 1956 created incentives for black-market dealings and corruption that otherwise would not have existed. The essay documents how the Swatantra Party, Jayaprakash Narayan, and M R Masani — ostensibly friends of free enterprise — nevertheless hedged their support for the business community. In the rendered pages (printed pp. 6–10), Shenoy reaches the point of examining how public discourse blames rising prices on entrepreneur 'profiteering' rather than on inflation and government mismanagement, and he references the Bengal famine of 1943 as a case study in how crises are falsely attributed to businessmen.
 
 - The hundi — an 18th-century indigenous bill-of-exchange — is cited as evidence of high commercial integrity in Vaishya trading tradition
 - Socialist policy, not inherent cupidity, is the proximate cause of dodgy business practices: price controls and licensing create black markets
 - Even sympathetic political voices (Swatantra, JP, Masani) do not consistently defend entrepreneurial freedom
+- The Industrial Policy Resolution of 1956 classifies industries into three categories that entrench state dominance over strategic and basic industries
+- The Bengal famine of 1943 with 1,873,749 deaths is attributed to hoarding by middle-men — an attribution Shenoy calls a 'misfortune frequently listed by socialists'
 
 
 ---
 
-*Generated by the v1.5 extraction pipeline (2026-05-17). Awaiting editorial review.*
+*Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
 

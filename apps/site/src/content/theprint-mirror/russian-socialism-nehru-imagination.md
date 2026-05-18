@@ -5,11 +5,12 @@ pubDate: 2025-09-13T11:58:15
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/russian-socialism-nehru-imagination/2742456/"
 themes: ["jawaharlal-nehru", "planning-commission", "socialism"]
-related_thinkers: []
+related_thinkers: ["ma-venkata-rao"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/russian-socialism-nehru-imagination/2742456/) on 2026-05-16. Originally published 2025-09-13. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

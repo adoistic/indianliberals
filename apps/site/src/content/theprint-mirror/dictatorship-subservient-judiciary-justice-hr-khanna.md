@@ -5,11 +5,12 @@ pubDate: 2025-11-02T12:07:53
 author_name: "Hans Raj Khanna"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/dictatorship-subservient-judiciary-justice-hr-khanna/2775553/"
 themes: ["freedom-of-speech", "indian-judiciary", "indian-liberals-matter", "justice-h-r-khanna"]
-related_thinkers: []
+related_thinkers: ["hans-raj-khanna"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/dictatorship-subservient-judiciary-justice-hr-khanna/2775553/) on 2026-05-16. Originally published 2025-11-02. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

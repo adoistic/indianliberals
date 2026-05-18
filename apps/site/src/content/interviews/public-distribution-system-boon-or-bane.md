@@ -10,6 +10,7 @@ draft: false
 subject_name: "The Public Distribution System : A Boon or a Bane?"
 youtube_url: "https://www.youtube.com/watch?v=1yErKQisBB8"
 transcript_status: "none"
+
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/hashtag/indianliberals) video, Mr. Anil Ghanwat ( President, Shetkari Sanghathana) explains the discrepancies in the public distribution system which hurts both the farmers and the intended beneficiaries.

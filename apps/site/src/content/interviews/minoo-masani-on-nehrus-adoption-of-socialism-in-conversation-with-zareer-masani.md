@@ -10,6 +10,8 @@ draft: false
 subject_name: "Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer Masani"
 youtube_url: "https://www.youtube.com/watch?v=3Ha5APla-w4"
 transcript_status: "none"
+
+subject: "minoo-masani"
 ---
 
 Zareer Masani, author, historian and son of late politician, Minoo Masani talks about the reasons which pushed his father for establishing the Swatantra Party - Nehru's adoption of socialism, nationalization of key industries, and a strict licencing system.

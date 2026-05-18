@@ -5,11 +5,12 @@ pubDate: 2025-08-30T14:48:42
 author_name: "Sharad Joshi"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-liberalism-vedanta-nehruvian-socialism/2732308/"
 themes: ["indian-liberals-matter", "liberalism", "nehruvian-india", "socialism", "statism"]
-related_thinkers: []
+related_thinkers: ["sharad-joshi"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indian-liberalism-vedanta-nehruvian-socialism/2732308/) on 2026-05-16. Originally published 2025-08-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

@@ -66,29 +66,47 @@ This 1960 Forum of Free Enterprise booklet collects the three prize-winning entr
 
 ## Essays
 
-### Essay (toc 1)
-Sree Rama Murthy opens by parsing the four meanings of "co-operative farming" — better farming, joint farming, collective farming, and tenant farming — and notes that only the latter two extinguish individual ownership. Drawing on the Andhra Law Reforms Committee, the experience of China, the U.S.S.R., and Yugoslavia, and the testimony of foreign agricultural economists such as Prof. J. A. Venn and Dr. Chandrasekhar, he argues that the case for joint farming is unsupported by Indian evidence: mo...
+### I
+*By Sree Rama Murthy*
+
+Sree Rama Murthy opens by parsing the four meanings of "co-operative farming" — better farming, joint farming, collective farming, and tenant farming — and notes that only the latter two extinguish individual ownership. Drawing on the Andhra Law Reforms Committee, the experience of China, the U.S.S.R., and Yugoslavia, and the testimony of foreign agricultural economists such as Prof. J. A. Venn and Dr. Chandrasekhar, he argues that the case for joint farming is unsupported by Indian evidence: most of the thousand-odd Government-sponsored societies have been founded only on refugee or landless settlement schemes, the Planning Commission's own survey of twenty societies found that in ten of them members did no farm work at all, and the peasant's attachment to his land is so deep that any policy aimed at dispossession will be resisted.
+
+Murthy concludes that compulsory co-operativisation is a "contradictory concept" in a democracy: persuasion will not produce voluntary pooling, while compulsion will degenerate into "undemocratic regimentation." He proposes that the State confine itself to building service co-operatives — credit, marketing, processing, input supply — and to creating a land-rights environment in which the cultivator can till his own holding. He coins this alternative "Co-operative Individual Farming" or "Co-operative Peasant Farming" and offers it as the only model compatible with both productivity and freedom.
 
 - Distinguishes four kinds of agricultural co-operation and isolates joint and collective farming as the controversial cases that abolish individual ownership.
 - Cites the Planning Commission's own survey: in 10 of 20 sample co-operative farming societies, members did no farm work; in 13 societies the work was done by hired hands rather than by member-cultivators.
 - Argues from foreign experience — China, U.S.S.R., Yugoslavia, Palestine — that successes were driven by extraordinary religious or political conditions absent in India.
+- Identifies peasant attachment to land and family-based cultivation as the binding constraint that defeats joint farming on Indian soil.
+- Proposes "Co-operative Individual Farming" — service co-operatives plus secure individual land rights — as the workable middle path.
 
-### Essay (toc 2)
-R. Venkata Ramana Rao frames co-operative farming as a productivity question first: a country in which 80% of the people live on the land and 48% of national income comes from agriculture cannot afford a farm policy that fails the food-production front. He summarises the main features of the Nagpur Resolution — joint cultivation with retained property rights, ceilings on existing holdings, surplus land vesting in Panchayats, and service co-operatives organised within three years — and accepts se...
+### II
+*By R. Venkata Ramana Rao*
+
+R. Venkata Ramana Rao frames co-operative farming as a productivity question first: a country in which 80% of the people live on the land and 48% of national income comes from agriculture cannot afford a farm policy that fails the food-production front. He summarises the main features of the Nagpur Resolution — joint cultivation with retained property rights, ceilings on existing holdings, surplus land vesting in Panchayats, and service co-operatives organised within three years — and accepts service co-operation as both useful and feasible. He rejects joint and collective farming on the strength of foreign evidence: Russian and Chinese collectivisation succeeded only under compulsion driven by industrial labour needs, Israeli kibbutz farming rested on religious-cultural cohesion, and Yugoslavia abandoned collective farming when output fell and peasant tax-paying capacity collapsed.
+
+From these comparisons Rao infers that joint farming in India would reduce the individual owner to a nullity, blunt the personal attention that crops and cattle require, swell the State payroll, encourage shirking once profit is decoupled from one's own field, and disrupt family relationships. His verdict is that co-operative farming, although an attractive ideal, cannot be implemented successfully in Indian conditions and must be deferred in favour of service co-operatives and individual cultivation.
 
 - Accepts the Nagpur Resolution's call for service co-operatives but rejects pooled joint cultivation as the next step.
 - Reads Russian and Chinese collectivisation as products of forced industrial labour-shedding, not as voluntary agricultural models.
 - Notes Yugoslavia's retreat from collective farming once output fell and peasants withdrew tax-paying capacity.
+- Identifies the loss of individual ownership and the disruption of family-cropping rhythms as the structural defects of joint farming.
+- Concludes that co-operative farming is an ideal that cannot be implemented in India given its multifarious problems.
 
-### Essay (toc 3)
-B. P. Patel argues the question of voluntariness head-on. He observes that the Indian farm is too small and scattered to admit the economies of scale that proponents of joint farming claim, and that boundary lines on Kyari (paddy) and Jarayat (dry) holdings are functional protections against erosion rather than wasteful relics. The Indian farmer, he writes, is bound to his land by ancestral attachment, animal husbandry, family labour, and social status; under co-operative compulsion he would wor...
+### III
+*By B. P. Patel*
+
+B. P. Patel argues the question of voluntariness head-on. He observes that the Indian farm is too small and scattered to admit the economies of scale that proponents of joint farming claim, and that boundary lines on Kyari (paddy) and Jarayat (dry) holdings are functional protections against erosion rather than wasteful relics. The Indian farmer, he writes, is bound to his land by ancestral attachment, animal husbandry, family labour, and social status; under co-operative compulsion he would work "slow, work less, with less care, like an automaton or a cog in the whole machine."
+
+Patel then catalogues the indirect coercions through which the State would, in practice, force the small peasant into co-operative societies: registrar control over loans, seed, fertiliser, transport and irrigation priority; the routing of sugarcane through co-operatively run factories; the legislative power to fix ceilings and divert surplus land to landless members only on condition of joining. He concludes that the co-operative movement is sliding from Sahkari (voluntary) into Sarkari (State-run), and that even Acharya Vinoba Bhave has chosen to distribute Bhoodan lands to landless individuals rather than to collectives — a final verdict, for Patel, that co-operative farming is "unsuitable and undesirable in India."
 
 - Argues that small, scattered Indian holdings cannot yield economies of scale once boundary protections against erosion are factored in.
 - Lists the indirect coercions — subsidy, loan, seed, fertiliser, sugarcane procurement, ceiling laws — by which the State will, in practice, force voluntary co-operation.
 - Warns that co-operative bureaucratisation will swell the Registrar's establishment and route patronage through paid managers rather than members.
+- Captures the slippage as a shift from Sahkari (voluntary) to Sarkari (State-run) co-operation.
+- Invokes Vinoba Bhave's distribution of Bhoodan land to individual cultivators as evidence that even sympathetic moral authorities reject collectivisation.
 
 
 ---
 
-*Generated by the v1.5 extraction pipeline (2026-05-17). Awaiting editorial review.*
+*Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
 

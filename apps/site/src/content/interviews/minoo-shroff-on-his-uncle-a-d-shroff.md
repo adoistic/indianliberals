@@ -10,6 +10,8 @@ draft: false
 subject_name: "Minoo Shroff on His Uncle A D Shroff"
 youtube_url: "https://www.youtube.com/watch?v=6rYRIs9byu8"
 transcript_status: "none"
+
+subject: "minoo-shroff"
 ---
 
 Minoo Shroff talks about his uncle A D Shroff.

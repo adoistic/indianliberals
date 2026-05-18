@@ -5,11 +5,12 @@ pubDate: 2026-01-03T10:45:18
 author_name: "MH Mody"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-bureaucracy-incentives-rewards/2817020/"
 themes: ["bureaucracy", "indian-bureaucracy"]
-related_thinkers: []
+related_thinkers: ["mh-mody"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indian-bureaucracy-incentives-rewards/2817020/) on 2026-05-16. Originally published 2026-01-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

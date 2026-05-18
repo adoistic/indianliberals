@@ -10,6 +10,8 @@ draft: false
 subject_name: "D R Pendse on the Indian Liberal Tradition"
 youtube_url: "https://www.youtube.com/watch?v=z_7NoDmhvvA"
 transcript_status: "none"
+
+subject: "d-r-pendse"
 ---
 
 ---

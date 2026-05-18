@@ -5,11 +5,12 @@ pubDate: 2025-08-16T12:20:45
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala/2722087/"
 themes: ["indian-constitution", "indian-liberals-matter", "socialism"]
-related_thinkers: []
+related_thinkers: ["nani-palkhivala"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala/2722087/) on 2026-05-16. Originally published 2025-08-16. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

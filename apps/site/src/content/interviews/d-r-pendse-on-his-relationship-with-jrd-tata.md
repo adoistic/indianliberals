@@ -10,6 +10,8 @@ draft: false
 subject_name: "D R Pendse on his Relationship with JRD Tata"
 youtube_url: "https://www.youtube.com/watch?v=si8F_I4P8xY"
 transcript_status: "none"
+
+subject: "d-r-pendse"
 ---
 
 ---

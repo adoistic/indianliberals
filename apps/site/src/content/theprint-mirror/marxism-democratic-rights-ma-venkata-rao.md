@@ -5,11 +5,12 @@ pubDate: 2026-01-24T13:11:31
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/marxism-democratic-rights-ma-venkata-rao/2835440/"
 themes: ["communism", "karl-marx", "libertarianism", "marxism", "soviet-union"]
-related_thinkers: []
+related_thinkers: ["ma-venkata-rao"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/marxism-democratic-rights-ma-venkata-rao/2835440/) on 2026-05-16. Originally published 2026-01-24. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

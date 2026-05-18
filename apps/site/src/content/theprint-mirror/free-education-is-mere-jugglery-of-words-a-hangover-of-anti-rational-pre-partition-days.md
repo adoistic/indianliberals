@@ -5,11 +5,12 @@ pubDate: 2025-06-21T10:28:54
 author_name: "Om Prakash Kahol"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/free-education-is-mere-jugglery-of-words-a-hangover-of-anti-rational-pre-partition-days/2665374/"
 themes: ["education", "government-schools", "indian-liberals-matter"]
-related_thinkers: []
+related_thinkers: ["om-prakash-kahol"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/free-education-is-mere-jugglery-of-words-a-hangover-of-anti-rational-pre-partition-days/2665374/) on 2026-05-16. Originally published 2025-06-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

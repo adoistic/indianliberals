@@ -4,12 +4,13 @@ title: "Planning for the free market, not state control, will lift India out of 
 pubDate: 2025-08-23T17:09:52
 author_name: "BR Shenoy"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-free-market-state-control-india-poverty-br-shenoy/2727537/"
-themes: ["br-shenoy", "indian-liberals-matter", "planning-commission", "statism"]
-related_thinkers: []
+themes: ["b-r-shenoy", "indian-liberals-matter", "planning-commission", "statism"]
+related_thinkers: ["b-r-shenoy"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/planning-free-market-state-control-india-poverty-br-shenoy/2727537/) on 2026-05-16. Originally published 2025-08-23. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

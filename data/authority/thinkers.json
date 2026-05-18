@@ -19,7 +19,14 @@
         "winner": "ashok-desai",
         "loser": "ashok-v-desai"
       }
-    ]
+    ],
+    "last_cleanup": "2026-05-18",
+    "cleanup_summary": {
+      "deleted": 67,
+      "merged_clusters": 6,
+      "final_thinker_count": 349,
+      "byline_lookup_size": 565
+    }
   },
   "thinkers": [
     {
@@ -41,8 +48,9 @@
         "full": "Ardeshir Darabshaw Shroff",
         "sort": "Shroff, A. D.",
         "also_known_as": [
-          "AD Shroff",
           "A.D. Shroff",
+          "AD Shroff",
+          "MR AD Shroff",
           "ए. डी. श्रॉफ"
         ]
       },
@@ -54,22 +62,6 @@
         "proposal",
         "thinkers_collection",
         "wp_author"
-      ]
-    },
-    {
-      "id": "ad-shroff",
-      "name": {
-        "canonical": "AD Shroff",
-        "sort": "Shroff, AD"
-      },
-      "confidence": "canonical",
-      "sources": [
-        "content/theprint-mirror/ad-shroff-socialism-free-enterprise-lessons.md",
-        "content/theprint-mirror/private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule.md",
-        "pdf-filename/forum-of-free-enterprise/free-enterprise-in-india-a-call-for leadership-by-Ad-shroff-November-8-1961.pdf",
-        "pdf-filename/forum-of-free-enterprise/free-enterprise-will-survive-as-long-as-man-survives-by-ad-shroff-december-31-1958.pdf",
-        "pdf-filename/forum-of-free-enterprise/liberty-to-trade-endangered-by-ad-shroff-january-16-1957.pdf",
-        "pdf-filename/forum-of-free-enterprise/we-are-heading-towards-a-man-made-economic-crisis-by-ad-shroff-february-23-1957.pdf"
       ]
     },
     {
@@ -93,10 +85,11 @@
         "full": "Bellikoth Raghunath Shenoy",
         "sort": "Shenoy, B. R.",
         "also_known_as": [
-          "BR Shenoy",
           "B.R. Shenoy",
-          "बी. आर. शेनॉय",
-          "बी आर शेनॉय"
+          "BR Shenoy",
+          "Prof BR Shenoy",
+          "बी आर शेनॉय",
+          "बी. आर. शेनॉय"
         ]
       },
       "birth_year": 1905,
@@ -107,18 +100,6 @@
         "proposal",
         "thinkers_collection",
         "wp_author"
-      ]
-    },
-    {
-      "id": "br-shenoy",
-      "name": {
-        "canonical": "BR Shenoy",
-        "sort": "Shenoy, BR"
-      },
-      "confidence": "canonical",
-      "sources": [
-        "content/theprint-mirror/planning-free-market-state-control-india-poverty-br-shenoy.md",
-        "content/theprint-mirror/social-injustice-socialist-economic-systems-br-shenoy.md"
       ]
     },
     {
@@ -203,6 +184,8 @@
         "canonical": "Dr. Muthulakshmi Reddi",
         "sort": "Reddi, Dr. Muthulakshmi",
         "also_known_as": [
+          "Muthulakshmi Reddi",
+          "S. Muthulakshmi Reddy",
           "मुथुलक्ष्मी रेड्डी"
         ]
       },
@@ -472,44 +455,15 @@
       ]
     },
     {
-      "id": "muthulakshmi-reddi-2",
-      "name": {
-        "canonical": "Muthulakshmi Reddi",
-        "full": "Muthulakshmi Reddi",
-        "sort": "Reddi, Muthulakshmi",
-        "also_known_as": [
-          "S. Muthulakshmi Reddy"
-        ]
-      },
-      "birth_year": 1886,
-      "death_year": 1968,
-      "tradition": "social_reformer",
-      "confidence": "canonical",
-      "sources": [
-        "proposal"
-      ]
-    },
-    {
-      "id": "na-palkhivala",
-      "name": {
-        "canonical": "NA Palkhivala",
-        "sort": "Palkhivala, NA"
-      },
-      "confidence": "canonical",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/the-union-budget-1990-91-by-na-palkhivala-april-20-1990.pdf",
-        "pdf-filename/forum-of-free-enterprise/the-union-budget-1992-93-by-na-palkhivala-march-3-1992.pdf"
-      ]
-    },
-    {
       "id": "nani-palkhivala",
       "name": {
         "canonical": "Nani Palkhivala",
         "full": "Nanabhoy Ardeshir Palkhivala",
         "sort": "Palkhivala, Nani",
         "also_known_as": [
-          "Nani A. Palkhivala",
           "N. A. Palkhivala",
+          "NA Palkhivala",
+          "Nani A. Palkhivala",
           "नानी पालखीवाला"
         ]
       },
@@ -757,17 +711,6 @@
       ]
     },
     {
-      "id": "a-d-shroff-champion-of-free-enterprise",
-      "name": {
-        "canonical": "A.D. Shroff - Champion of Free Enterprise",
-        "sort": "Enterprise, A.D. Shroff - Champion of Free"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/a-d-shroff-champion-of-free-enterprise.md"
-      ]
-    },
-    {
       "id": "ag-mulgaokar",
       "name": {
         "canonical": "AG Mulgaokar",
@@ -776,17 +719,6 @@
       "confidence": "high",
       "sources": [
         "content/theprint-mirror/fundamental-right-to-property-ag-mulgaokar.md"
-      ]
-    },
-    {
-      "id": "an-auxiliary-for-historians-the-contribution-of-older-austrians",
-      "name": {
-        "canonical": "An Auxiliary for Historians: The Contribution of Older Austrians",
-        "sort": "Austrians, An Auxiliary for Historians: The Contribution of Older"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/an-auxiliary-for-historians-the-contribution-of-older-austrians.md"
       ]
     },
     {
@@ -839,17 +771,6 @@
       ]
     },
     {
-      "id": "br-shenoy-a-prophet-without-honour",
-      "name": {
-        "canonical": "BR Shenoy - A Prophet Without Honour?",
-        "sort": "Honour?, BR Shenoy - A Prophet Without"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/br-shenoy-a-prophet-without-honour.md"
-      ]
-    },
-    {
       "id": "bs-iyer",
       "name": {
         "canonical": "BS Iyer",
@@ -874,127 +795,6 @@
       "sources": [
         "content/theprint-mirror/welfarism-poverty-indian-people-bs-sanyal.md",
         "phase-0.5-wave1-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "bollywood-and-cultural-change-in-attitude",
-      "name": {
-        "canonical": "Bollywood and Cultural Change in Attitude",
-        "sort": "Attitude, Bollywood and Cultural Change in"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/bollywood-and-cultural-change-in-attitude.md"
-      ]
-    },
-    {
-      "id": "centre-for-civil-society-a-journey-in-time",
-      "name": {
-        "canonical": "Centre for Civil Society : A Journey in Time",
-        "sort": "Time, Centre for Civil Society : A Journey in"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/centre-for-civil-society-a-journey-in-time.md"
-      ]
-    },
-    {
-      "id": "chakravarti-rajagopalachari-gandhi-s-conscience-keeper",
-      "name": {
-        "canonical": "Chakravarti Rajagopalachari - Gandhi's Conscience Keeper",
-        "sort": "Keeper, Chakravarti Rajagopalachari - Gandhi's Conscience"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/chakravarti-rajagopalachari-gandhis-conscience-keeper.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-doing-business-in-india-before-1991-reforms",
-      "name": {
-        "canonical": "D R Pendse on Doing Business in India before 1991 Reforms",
-        "sort": "Reforms, D R Pendse on Doing Business in India before 1991"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-doing-business-in-india-before-1991-reforms.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-indias-open-and-prosperous-past",
-      "name": {
-        "canonical": "D R Pendse on India’s ‘Open and Prosperous Past’",
-        "sort": "Past’, D R Pendse on India’s ‘Open and Prosperous"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-indias-open-and-prosperous-past.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-liberating-india-s-entrepreneurs",
-      "name": {
-        "canonical": "D R Pendse on Liberating India s Entrepreneurs",
-        "sort": "Entrepreneurs, D R Pendse on Liberating India s"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-liberating-india-s-entrepreneurs.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-think-tanks-and-the-power-of-ideas",
-      "name": {
-        "canonical": "D R Pendse on Think Tanks and the Power of Ideas",
-        "sort": "Ideas, D R Pendse on Think Tanks and the Power of"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-think-tanks-and-the-power-of-ideas.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-his-relationship-with-jrd-tata",
-      "name": {
-        "canonical": "D R Pendse on his Relationship with JRD Tata",
-        "sort": "Tata, D R Pendse on his Relationship with JRD"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-his-relationship-with-jrd-tata.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-the-1991-crisis",
-      "name": {
-        "canonical": "D R Pendse on the 1991 Crisis",
-        "sort": "Crisis, D R Pendse on the 1991"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-the-1991-crisis.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-the-criticism-he-faced-through-his-career",
-      "name": {
-        "canonical": "D R Pendse on the Criticism he faced through his Career",
-        "sort": "Career, D R Pendse on the Criticism he faced through his"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-the-criticism-he-faced-through-his-career.md"
-      ]
-    },
-    {
-      "id": "d-r-pendse-on-the-indian-liberal-tradition",
-      "name": {
-        "canonical": "D R Pendse on the Indian Liberal Tradition",
-        "sort": "Tradition, D R Pendse on the Indian Liberal"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/d-r-pendse-on-the-indian-liberal-tradition.md"
       ]
     },
     {
@@ -1031,17 +831,6 @@
       ]
     },
     {
-      "id": "did-bollywood-liberalise-india-or-did-india-liberalise-bollywood",
-      "name": {
-        "canonical": "Did Bollywood Liberalise India or Did India Liberalise Bollywood?",
-        "sort": "Bollywood?, Did Bollywood Liberalise India or Did India Liberalise"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/did-bollywood-liberalise-india-or-did-india-liberalise-bollywood.md"
-      ]
-    },
-    {
       "id": "economic-growth-with-social-justice",
       "name": {
         "canonical": "Economic Growth with Social Justice",
@@ -1050,39 +839,6 @@
       "confidence": "high",
       "sources": [
         "content/interviews/il-explainer-ep1-br-shenoy.md"
-      ]
-    },
-    {
-      "id": "forest-departments-incentives-and-the-environment",
-      "name": {
-        "canonical": "Forest Departments, Incentives and the Environment",
-        "sort": "Environment, Forest Departments, Incentives and the"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/forest-departments-incentives-and-the-environment.md"
-      ]
-    },
-    {
-      "id": "forest-rights-act-2006-the-struggle-for-implementation-part-i",
-      "name": {
-        "canonical": "Forest Rights Act, 2006 : The Struggle for Implementation - Part I",
-        "sort": "I, Forest Rights Act, 2006 : The Struggle for Implementation - Part"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/forest-rights-act-2006-the-struggle-for-implementation-part-i.md"
-      ]
-    },
-    {
-      "id": "forest-rights-act-2006-the-struggle-for-implementation-part-ii",
-      "name": {
-        "canonical": "Forest Rights Act, 2006: The Struggle for Implementation - Part II",
-        "sort": "Part, Forest Rights Act, 2006: The Struggle for Implementation - II"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/forest-rights-act-2006-the-struggle-for-implementation-part-ii.md"
       ]
     },
     {
@@ -1130,83 +886,6 @@
       ]
     },
     {
-      "id": "how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy",
-      "name": {
-        "canonical": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
-        "sort": "Shenoy, How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy.md"
-      ]
-    },
-    {
-      "id": "in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia",
-      "name": {
-        "canonical": "In Conversation with Ronald Meinardus - Regional Director, FNF South Asia",
-        "sort": "Asia, In Conversation with Ronald Meinardus - Regional Director, FNF South"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia.md"
-      ]
-    },
-    {
-      "id": "india-s-greatest-liberal-gopal-krishna-gokhale",
-      "name": {
-        "canonical": "India's Greatest Liberal - Gopal Krishna Gokhale",
-        "sort": "Gokhale, India's Greatest Liberal - Gopal Krishna"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/indias-greatest-liberal-gopal-krishna-gokhale.md"
-      ]
-    },
-    {
-      "id": "india-s-transition-choice-competition-and-individual-dignity",
-      "name": {
-        "canonical": "India's Transition : Choice, Competition, and Individual Dignity",
-        "sort": "Dignity, India's Transition : Choice, Competition, and Individual"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/indias-transition-choice-competition-and-individual-dignity.md"
-      ]
-    },
-    {
-      "id": "india-s-forest-dwellers-from-owners-to-encroachers",
-      "name": {
-        "canonical": "India's forest-dwellers: From Owners to Encroachers",
-        "sort": "Encroachers, India's forest-dwellers: From Owners to"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/indias-forest-dwellers-from-owners-to-encroachers.md"
-      ]
-    },
-    {
-      "id": "indian-liberal-tradition-gp-manish",
-      "name": {
-        "canonical": "Indian Liberal Tradition - GP Manish",
-        "sort": "Manish, Indian Liberal Tradition - GP"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/indian-liberal-tradition-gp-manish.md"
-      ]
-    },
-    {
-      "id": "jagdish-bhagwati-on-milton-friedman",
-      "name": {
-        "canonical": "Jagdish Bhagwati on Milton Friedman",
-        "sort": "Friedman, Jagdish Bhagwati on Milton"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/jagdish-bhagwati-on-milton-friedman.md"
-      ]
-    },
-    {
       "id": "kd-valicha",
       "name": {
         "canonical": "KD Valicha",
@@ -1220,17 +899,6 @@
       "sources": [
         "content/theprint-mirror/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha.md",
         "phase-0.5-wave1-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "liberalism-and-the-challenge-of-polarisation",
-      "name": {
-        "canonical": "Liberalism and the Challenge of Polarisation",
-        "sort": "Polarisation, Liberalism and the Challenge of"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/liberalism-and-the-challenge-of-polarisation.md"
       ]
     },
     {
@@ -1267,94 +935,6 @@
       ]
     },
     {
-      "id": "minoo-masani-on-nehru-s-adoption-of-socialism-in-conversation-with-zareer-masani",
-      "name": {
-        "canonical": "Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer Masani",
-        "sort": "Masani, Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/minoo-masani-on-nehrus-adoption-of-socialism-in-conversation-with-zareer-masani.md"
-      ]
-    },
-    {
-      "id": "minoo-masani-s-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani",
-      "name": {
-        "canonical": "Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer Masani",
-        "sort": "Masani, Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/minoo-masanis-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani.md"
-      ]
-    },
-    {
-      "id": "minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise",
-      "name": {
-        "canonical": "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise",
-        "sort": "Enterprise, Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise.md"
-      ]
-    },
-    {
-      "id": "minoo-shroff-on-doing-business-in-nehru-s-india",
-      "name": {
-        "canonical": "Minoo Shroff on Doing Business in Nehru's India",
-        "sort": "India, Minoo Shroff on Doing Business in Nehru's"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/minoo-shroff-on-doing-business-in-nehrus-india.md"
-      ]
-    },
-    {
-      "id": "minoo-shroff-on-his-uncle-a-d-shroff",
-      "name": {
-        "canonical": "Minoo Shroff on His Uncle A D Shroff",
-        "sort": "Shroff, Minoo Shroff on His Uncle A D"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/minoo-shroff-on-his-uncle-a-d-shroff.md"
-      ]
-    },
-    {
-      "id": "minoo-shroff-on-nehru-welfare-and-india-s-promise",
-      "name": {
-        "canonical": "Minoo Shroff on Nehru, Welfare and India's Promise",
-        "sort": "Promise, Minoo Shroff on Nehru, Welfare and India's"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/minoo-shroff-on-nehru-welfare-and-indias-promise.md"
-      ]
-    },
-    {
-      "id": "mithan-tata-lam-an-indian-lawyer-suffragist",
-      "name": {
-        "canonical": "Mithan Tata Lam- An Indian Lawyer & Suffragist",
-        "sort": "Suffragist, Mithan Tata Lam- An Indian Lawyer &"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/mithan-tata-lam-an-indian-lawyer-and-suffragist.md"
-      ]
-    },
-    {
-      "id": "n-g-ranga-guardian-of-peasants-rights",
-      "name": {
-        "canonical": "N.G. Ranga - Guardian of Peasants' Rights",
-        "sort": "Rights, N.G. Ranga - Guardian of Peasants'"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/n-g-ranga-guardian-of-peasants-rights.md"
-      ]
-    },
-    {
       "id": "om-prakash-kahol",
       "name": {
         "canonical": "Om Prakash Kahol",
@@ -1388,80 +968,17 @@
       ]
     },
     {
-      "id": "role-of-civil-society-in-the-pandemic",
-      "name": {
-        "canonical": "Role of Civil Society in the Pandemic",
-        "sort": "Pandemic, Role of Civil Society in the"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/role-of-civil-society-in-the-pandemic.md"
-      ]
-    },
-    {
-      "id": "role-of-ideology-in-india-s-liberalisation",
-      "name": {
-        "canonical": "Role of Ideology in India's Liberalisation",
-        "sort": "Liberalisation, Role of Ideology in India's"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/role-of-ideology-in-indias-liberalisation.md"
-      ]
-    },
-    {
-      "id": "s-divakara-on-nani-palkhivala-s-union-budget-commentaries",
-      "name": {
-        "canonical": "S. Divakara on Nani Palkhivala's Union Budget Commentaries",
-        "sort": "Commentaries, S. Divakara on Nani Palkhivala's Union Budget"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/s-divakara-on-nani-palkhivalas-union-budget-commentaries.md"
-      ]
-    },
-    {
-      "id": "s-divakara-on-the-forum-of-free-enterprise",
-      "name": {
-        "canonical": "S. Divakara on The Forum of Free Enterprise",
-        "sort": "Enterprise, S. Divakara on The Forum of Free"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/s-divakara-on-the-forum-of-free-enterprise.md"
-      ]
-    },
-    {
       "id": "sachin-sen",
       "name": {
         "canonical": "Sachin Sen",
-        "sort": "Sen, Sachin"
+        "sort": "Sen, Sachin",
+        "also_known_as": [
+          "DR Sachin Sen"
+        ]
       },
       "confidence": "high",
       "sources": [
         "content/theprint-mirror/free-press-sachin-sen.md"
-      ]
-    },
-    {
-      "id": "shetkari-sanghathana-a-movement-for-freedom-part-i",
-      "name": {
-        "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part I",
-        "sort": "I, Shetkari Sanghathana : A Movement for Freedom - Part"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/shetkari-sanghathana-a-movement-for-freedom-part-i.md"
-      ]
-    },
-    {
-      "id": "shetkari-sanghathana-a-movement-for-freedom-part-ii",
-      "name": {
-        "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part II",
-        "sort": "Part, Shetkari Sanghathana : A Movement for Freedom - II"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/shetkari-sanghathana-a-movement-for-freedom-part-2.md"
       ]
     },
     {
@@ -1498,61 +1015,6 @@
       ]
     },
     {
-      "id": "sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal",
-      "name": {
-        "canonical": "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal",
-        "sort": "Liberal, Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal.md"
-      ]
-    },
-    {
-      "id": "sunil-bhandare-on-enlarging-the",
-      "name": {
-        "canonical": "Sunil Bhandare on enlarging the \\",
-        "sort": "\\, Sunil Bhandare on enlarging the"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/sunil-bhandare-on-enlarging-the-constituency-of-reforms-in-india.md"
-      ]
-    },
-    {
-      "id": "sunil-bhandare-on-his-experiences-with-indian-liberal-organisations",
-      "name": {
-        "canonical": "Sunil Bhandare on his experiences with Indian liberal organisations",
-        "sort": "organisations, Sunil Bhandare on his experiences with Indian liberal"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/sunil-bhandare-on-his-experiences-with-indian-liberal-organisations.md"
-      ]
-    },
-    {
-      "id": "sunil-bhandare-on-private-enterprise-post-1991-reforms",
-      "name": {
-        "canonical": "Sunil Bhandare on private enterprise post 1991 reforms",
-        "sort": "reforms, Sunil Bhandare on private enterprise post 1991"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/sunil-bhandare-on-private-enterprise-post-1991-reforms.md"
-      ]
-    },
-    {
-      "id": "swatantra-party-india-s-first-liberal-party",
-      "name": {
-        "canonical": "Swatantra Party : India's First Liberal Party",
-        "sort": "Party, Swatantra Party : India's First Liberal"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/swatantra-party-indias-first-liberal-party.md"
-      ]
-    },
-    {
       "id": "tahir-siddiqui",
       "name": {
         "canonical": "Tahir Siddiqui",
@@ -1575,160 +1037,6 @@
       ]
     },
     {
-      "id": "the-case-for-liberalism-in-indian-history",
-      "name": {
-        "canonical": "The Case for Liberalism in Indian History",
-        "sort": "History, The Case for Liberalism in Indian"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-case-for-liberalism-in-indian-history.md"
-      ]
-    },
-    {
-      "id": "the-challenges-for-liberal-grassroots-movements",
-      "name": {
-        "canonical": "The Challenges for Liberal Grassroots Movements",
-        "sort": "Movements, The Challenges for Liberal Grassroots"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-challenges-for-liberal-grassroots-movements.md"
-      ]
-    },
-    {
-      "id": "the-challenges-leading-to-the-forest-rights-act-2006",
-      "name": {
-        "canonical": "The Challenges leading to the Forest Rights Act, 2006",
-        "sort": "2006, The Challenges leading to the Forest Rights Act,"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-challenges-leading-to-the-forest-rights-act-2006.md"
-      ]
-    },
-    {
-      "id": "the-early-years-emergency-era-and-tryst-with-civil-services",
-      "name": {
-        "canonical": "The Early Years, Emergency Era and Tryst with Civil Services",
-        "sort": "Services, The Early Years, Emergency Era and Tryst with Civil"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-early-years-emergency-era-and-tryst-with-civil-services.md"
-      ]
-    },
-    {
-      "id": "the-future-of-liberalism-in-a-post-pandemic-world",
-      "name": {
-        "canonical": "The Future of Liberalism in a Post-Pandemic World",
-        "sort": "World, The Future of Liberalism in a Post-Pandemic"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-future-of-liberalism-in-a-post-pandemic-world.md"
-      ]
-    },
-    {
-      "id": "the-hayek-keynes-debate-1931-1971",
-      "name": {
-        "canonical": "The Hayek-Keynes Debate, 1931-1971 |",
-        "sort": "|, The Hayek-Keynes Debate, 1931-1971"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-hayek-keynes-debate-1931-1971-by-sudha-r-shenoy.md"
-      ]
-    },
-    {
-      "id": "the-hope-for-a-liberal-political-alternative",
-      "name": {
-        "canonical": "The Hope for a Liberal Political Alternative",
-        "sort": "Alternative, The Hope for a Liberal Political"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-hope-for-a-liberal-political-alternative.md"
-      ]
-    },
-    {
-      "id": "the-life-legacy-of-dr-janaki-ammal",
-      "name": {
-        "canonical": "The Life & Legacy of Dr Janaki Ammal",
-        "sort": "Ammal, The Life & Legacy of Dr Janaki"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/women-liberals-dr-janaki.md"
-      ]
-    },
-    {
-      "id": "the-life-legacy-of-lady-abala-bose",
-      "name": {
-        "canonical": "The Life & Legacy of Lady Abala Bose",
-        "sort": "Bose, The Life & Legacy of Lady Abala"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-life-legacy-of-lady-abala-bose.md"
-      ]
-    },
-    {
-      "id": "the-life-and-times-of-sharad-joshi",
-      "name": {
-        "canonical": "The Life and Times of Sharad Joshi",
-        "sort": "Joshi, The Life and Times of Sharad"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-life-and-times-of-sharad-joshi.md"
-      ]
-    },
-    {
-      "id": "the-new-global-marketplace-sudha-shenoy",
-      "name": {
-        "canonical": "The New Global Marketplace | Sudha Shenoy",
-        "sort": "Shenoy, The New Global Marketplace | Sudha"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-new-global-marketplace-sudha-shenoy.md"
-      ]
-    },
-    {
-      "id": "the-public-distribution-system-a-boon-or-a-bane",
-      "name": {
-        "canonical": "The Public Distribution System : A Boon or a Bane?",
-        "sort": "Bane?, The Public Distribution System : A Boon or a"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/public-distribution-system-boon-or-bane.md"
-      ]
-    },
-    {
-      "id": "the-relationship-between-citizen-and-state",
-      "name": {
-        "canonical": "The Relationship Between Citizen and State",
-        "sort": "State, The Relationship Between Citizen and"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-relationship-between-citizen-and-state.md"
-      ]
-    },
-    {
-      "id": "tribals-and-development-countering-the-myths",
-      "name": {
-        "canonical": "Tribals and Development: Countering the Myths",
-        "sort": "Myths, Tribals and Development: Countering the"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/tribals-and-development-countering-the-myths.md"
-      ]
-    },
-    {
       "id": "union-budget-1992-93",
       "name": {
         "canonical": "Union Budget 1992-93",
@@ -1737,50 +1045,6 @@
       "confidence": "high",
       "sources": [
         "content/interviews/union-budget-1992-1993-by-nani-palkhivala.md"
-      ]
-    },
-    {
-      "id": "vision-for-a-prosperous-india-gurcharan-das",
-      "name": {
-        "canonical": "Vision for a Prosperous India - Gurcharan Das",
-        "sort": "Das, Vision for a Prosperous India - Gurcharan"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/vision-for-a-prosperous-india-gurcharan-das.md"
-      ]
-    },
-    {
-      "id": "what-is-the-role-of-government-in-agriculture",
-      "name": {
-        "canonical": "What is the Role of Government in Agriculture?",
-        "sort": "Agriculture?, What is the Role of Government in"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-role-of-government-in-agriculture.md"
-      ]
-    },
-    {
-      "id": "why-are-fundamental-rights-not-amendable",
-      "name": {
-        "canonical": "Why Are Fundamental Rights Not Amendable?",
-        "sort": "Amendable?, Why Are Fundamental Rights Not"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/il-explainer-episode-6.md"
-      ]
-    },
-    {
-      "id": "why-is-it-difficult-to-de-regulate-labor-in-india",
-      "name": {
-        "canonical": "Why is it Difficult to De-regulate Labor in India?",
-        "sort": "India?, Why is it Difficult to De-regulate Labor in"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/why-is-it-difficult-to-de-regulate-labor-in-india.md"
       ]
     },
     {
@@ -1933,17 +1197,6 @@
       ]
     },
     {
-      "id": "dr-otto-count-lambsdroff-and-swaminathan-aiyar",
-      "name": {
-        "canonical": "DR Otto Count Lambsdroff And Swaminathan Aiyar",
-        "sort": "Aiyar, DR Otto Count Lambsdroff And Swaminathan"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/challenge-of-povert-by-dr-otto-count-lambsdroff-and-swaminathan-a-aiyar-2002.pdf"
-      ]
-    },
-    {
       "id": "dr-png-subramanian",
       "name": {
         "canonical": "DR Png Subramanian",
@@ -1952,17 +1205,6 @@
       "confidence": "medium",
       "sources": [
         "pdf-filename/forum-of-free-enterprise/chinese-competition-challenges-and-opportunities-by-dr-png-subramanian-2002.pdf"
-      ]
-    },
-    {
-      "id": "dr-sachin-sen",
-      "name": {
-        "canonical": "DR Sachin Sen",
-        "sort": "Sen, DR Sachin"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960.pdf"
       ]
     },
     {
@@ -2142,28 +1384,6 @@
       ]
     },
     {
-      "id": "mr-ad-shroff",
-      "name": {
-        "canonical": "MR AD Shroff",
-        "sort": "Shroff, MR AD"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/forum-of-free-enterprise-speech-by-mr-ad-shroff-july-25-1956.pdf"
-      ]
-    },
-    {
-      "id": "mr-anantharamakrishnan-and-cp-ramaswamy-ayyar",
-      "name": {
-        "canonical": "MR Anantharamakrishnan And CP Ramaswamy Ayyar",
-        "sort": "Ayyar, MR Anantharamakrishnan And CP Ramaswamy"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/efficiency-not-possible-in-public-undertaking-by-mr-anantharamakrishnan-and-cp-ramaswamy-ayyar-october-24-1956.pdf"
-      ]
-    },
-    {
       "id": "mr-masani",
       "name": {
         "canonical": "MR Masani",
@@ -2296,28 +1516,6 @@
       ]
     },
     {
-      "id": "prof-br-shenoy",
-      "name": {
-        "canonical": "Prof BR Shenoy",
-        "sort": "Shenoy, Prof BR"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/consumer-sovereignty-leads-to-Rapid-Economic-Development-by-prof-BR-Shenoy-July-9-1962.pdf"
-      ]
-    },
-    {
-      "id": "prof-rk-amin",
-      "name": {
-        "canonical": "Prof RK Amin",
-        "sort": "Amin, Prof RK"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/some-lessons-of-a-decade-of-planning-by-prof-RK-Amin-July-7-1961.pdf"
-      ]
-    },
-    {
       "id": "prof-shenoy",
       "name": {
         "canonical": "Prof Shenoy",
@@ -2406,17 +1604,6 @@
       ]
     },
     {
-      "id": "sir-homi-mody-sl-kirloskar-and-mr-ramnivas-ruia",
-      "name": {
-        "canonical": "Sir Homi Mody SL Kirloskar And MR Ramnivas Ruia",
-        "sort": "Ruia, Sir Homi Mody SL Kirloskar And MR Ramnivas"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/two-alarming-phenomena-by-sir-homi-mody-sl-kirloskar-and-mr-ramnivas-r-ruia-february-1957.pdf"
-      ]
-    },
-    {
       "id": "spreading-enterprises-gopalakrishnan",
       "name": {
         "canonical": "Spreading Enterprises Gopalakrishnan",
@@ -2480,17 +1667,6 @@
       "confidence": "medium",
       "sources": [
         "pdf-filename/forum-of-free-enterprise/economic-growth-in-a-free-society-by-ww-rowstow-november-5-1963.pdf"
-      ]
-    },
-    {
-      "id": "wing-commander-vijay-mahajan-alka-sen-rn-kini",
-      "name": {
-        "canonical": "Wing Commander Vijay Mahajan Alka Sen RN Kini",
-        "sort": "Kini, Wing Commander Vijay Mahajan Alka Sen RN"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/air-travel-in-india-safety-and-service-by-wing-commander-vijay-mahajan-alka-sen-rn-kini-june-14-1990.pdf"
       ]
     },
     {
@@ -5654,6 +4830,7 @@
         "canonical": "R. K. Amin",
         "sort": "Amin, R. K.",
         "also_known_as": [
+          "Prof RK Amin",
           "R K Amin",
           "RK Amin"
         ]
@@ -6197,637 +5374,570 @@
     }
   ],
   "byline_lookup": {
-    "minoo masani": "minoo-masani",
-    "nani palkhivala": "nani-palkhivala",
-    "nani a palkhivala": "nani-palkhivala",
-    "n a palkhivala": "nani-palkhivala",
-    "ad shroff": "a-d-shroff",
-    "hp ranina": "hp-ranina",
-    "ma venkata rao": "ma-venkata-rao",
-    "ma sreenivasan": "ma-sreenivasan",
-    "sauvik chakraverti": "sauvik-chakraverti",
-    "sharad joshi": "sharad-joshi",
-    "sharad anantrao joshi": "sharad-anantrao-joshi",
+    "a b vajpayee": "atal-bihari-vajpayee",
+    "a d cohen": "a-d-cohen",
     "a d shroff": "a-d-shroff",
-    "b r shenoy": "b-r-shenoy",
-    "br shenoy": "br-shenoy",
-    "c rajagopalachari": "c-rajagopalachari",
-    "rajaji": "rajaji",
-    "cr": "c-rajagopalachari",
-    "d r pendse": "d-r-pendse",
-    "dr pendse": "dr-pendse",
-    "g n lawande": "g-n-lawande",
-    "m r pai": "m-r-pai",
-    "mr pai": "m-r-pai",
-    "s v raju": "s-v-raju",
-    "sv raju": "s-v-raju",
-    "sudha r shenoy": "sudha-r-shenoy",
+    "a p j abdul kalam": "a-p-j-abdul-kalam",
     "a ranganathan": "a-ranganathan",
-    "jiban mukhopadhyay": "jiban-mukhopadhyay",
-    "mh mody": "mh-mody",
-    "mithan tata lam": "mithan-tata-lam",
-    "mithan lam": "mithan-tata-lam",
-    "mithan tata": "mithan-tata-lam",
-    "na palkhivala": "na-palkhivala",
-    "pandita ramabai": "pandita-ramabai",
-    "ramabai": "pandita-ramabai",
-    "prof cn vakil": "prof-cn-vakil",
-    "raja ram mohan roy": "raja-ram-mohan-roy",
-    "ram mohan roy": "raja-ram-mohan-roy",
-    "rammohun roy": "raja-ram-mohan-roy",
-    "russi mody": "russi-mody",
-    "sh batlivala": "sh-batlivala",
-    "ad shroff - champion of free enterprise": "a-d-shroff-champion-of-free-enterprise",
+    "a solomon": "a-solomon",
+    "ab vajpayee": "atal-bihari-vajpayee",
+    "abala bose": "lady-abala-bose",
+    "abdul kalam": "a-p-j-abdul-kalam",
+    "abraham lincoln": "abraham-lincoln",
+    "acharya kripalani": "j-b-kripalani",
+    "acharya vinoba bhave": "vinoba-bhave",
+    "achyut patwardhan": "achyut-patwardhan",
+    "ad shroff": "a-d-shroff",
+    "adam smith": "adam-smith",
+    "adi godrej": "adi-godrej",
+    "admiral ramdas retd": "ramdas-rear-admiral",
     "ag mulgaokar": "ag-mulgaokar",
+    "ajit bhattacharjea": "ajit-bhattacharjea",
+    "ajit karnik": "ajit-karnik",
+    "ajit prasad jain": "ajit-prasad-jain",
     "ak chandra": "ak-chandra",
     "ak purwar": "ak-purwar",
-    "adi godrej": "adi-godrej",
-    "ajit prasad jain": "ajit-prasad-jain",
-    "an auxiliary for historians: the contribution of older austrians": "an-auxiliary-for-historians-the-contribution-of-older-austrians",
+    "aldous huxley": "aldous-huxley",
+    "alexander duff": "alexander-duff",
+    "alexis de tocqueville": "alexis-de-tocqueville",
+    "amartya sen": "amartya-sen",
+    "ambedkar": "bhimrao-ambedkar",
     "anu aga": "anu-aga",
+    "anupam mehta": "anupam-mehta",
+    "apj abdul kalam": "a-p-j-abdul-kalam",
     "arun shourie": "arun-shourie",
+    "arvind deshpande": "arvind-deshpande",
     "arvind lalbhai": "arvind-lalbhai",
     "ashok desai": "ashok-desai",
+    "atal behari vajpayee": "atal-bihari-vajpayee",
+    "atal bihari vajpayee": "atal-bihari-vajpayee",
     "azim premji": "azim-premji",
+    "b k nehru": "bk-nehru-cn",
+    "b r ambedkar": "bhimrao-ambedkar",
+    "b r shenoy": "b-r-shenoy",
+    "b r tucker": "benjamin-tucker",
+    "b s mahajan": "b-s-mahajan",
+    "b s sanyal": "bs-sanyal",
+    "b t krishnamachari": "b-t-krishnamachari",
+    "babasaheb": "bhimrao-ambedkar",
+    "bal gangadhar tilak": "bal-gangadhar-tilak",
+    "bapu": "mahatma-gandhi",
+    "begum rokeya": "begum-rokeya",
+    "begum rokeya sakhawat hossain": "begum-rokeya",
+    "benjamin f tucker": "benjamin-tucker",
+    "benjamin r tucker": "benjamin-tucker",
+    "benjamin tucker": "benjamin-tucker",
+    "bernard iddings bell": "bernard-iddings-bell",
+    "bernard shaw": "bernard-shaw",
     "bg verghese": "bg-verghese",
+    "bhagwati": "jagdish-bhagwati",
     "bk nehru": "bk-nehru",
     "bp adarkar": "bp-adarkar",
     "bp godrej": "bp-godrej",
-    "br shenoy - a prophet without honour?": "br-shenoy-a-prophet-without-honour",
+    "br ambedkar": "bhimrao-ambedkar",
+    "br shenoy": "b-r-shenoy",
     "bs iyer": "bs-iyer",
     "bs sanyal": "bs-sanyal",
-    "begum rokeya": "begum-rokeya",
-    "begum rokeya sakhawat hossain": "begum-rokeya",
-    "rokeya": "begum-rokeya",
-    "bollywood and cultural change in attitude": "bollywood-and-cultural-change-in-attitude",
-    "centre for civil society : a journey in time": "centre-for-civil-society-a-journey-in-time",
-    "chakravarti rajagopalachari - gandhi's conscience keeper": "chakravarti-rajagopalachari-gandhi-s-conscience-keeper",
+    "bt krishnamachari": "b-t-krishnamachari",
+    "c c deshmukh": "chintaman-deshmukh",
+    "c rajagopalachari": "c-rajagopalachari",
+    "c s deshpande": "c-s-deshpande",
+    "carlos romulo": "carlos-romulo",
+    "chagla": "m-c-chagla",
+    "charan singh": "charan-singh",
+    "chaudhary charan singh": "charan-singh",
+    "chhatrapati shivaji": "shivaji",
+    "chou en-lai": "zhou-enlai",
     "christopher lingle": "christopher-lingle",
-    "d r pendse on doing business in india before 1991 reforms": "d-r-pendse-on-doing-business-in-india-before-1991-reforms",
-    "d r pendse on indias open and prosperous past": "d-r-pendse-on-indias-open-and-prosperous-past",
-    "d r pendse on liberating india s entrepreneurs": "d-r-pendse-on-liberating-india-s-entrepreneurs",
-    "d r pendse on think tanks and the power of ideas": "d-r-pendse-on-think-tanks-and-the-power-of-ideas",
-    "d r pendse on his relationship with jrd tata": "d-r-pendse-on-his-relationship-with-jrd-tata",
-    "d r pendse on the 1991 crisis": "d-r-pendse-on-the-1991-crisis",
-    "d r pendse on the criticism he faced through his career": "d-r-pendse-on-the-criticism-he-faced-through-his-career",
-    "d r pendse on the indian liberal tradition": "d-r-pendse-on-the-indian-liberal-tradition",
+    "claret d'souza": "claret-dsouza",
+    "colonel nasser": "gamal-abdel-nasser",
+    "cr": "c-rajagopalachari",
+    "d m kulkarni": "d-m-kulkarni-libertarian",
+    "d r pendse": "d-r-pendse",
+    "d v gundappa": "d-v-gundappa",
+    "david hare": "david-hare",
+    "de soto": "hernando-de-soto",
+    "deepak parekh": "deepak-parekh",
+    "deng xiaoping": "deng-xiaoping",
+    "derozio": "henry-louis-vivian-derozio",
+    "dharamsey khatau": "dharamsey-khatau",
     "dm kulkarni": "dm-kulkarni",
     "dn hosali": "dn-hosali",
+    "dr abhay pethe": "abhay-pethe",
     "dr ac shah": "dr-ac-shah",
+    "dr ajit karnik": "ajit-karnik",
+    "dr ashok desai": "ashok-desai",
+    "dr ashok v desai": "ashok-desai",
+    "dr bibek debroy": "bibek-debroy",
+    "dr c rangarajan": "c-rangarajan",
+    "dr c s deshpande": "c-s-deshpande",
+    "dr chanaka amaratunga": "chanaka-amaratunga",
+    "dr detmar doering": "detmar-doering",
     "dr dharmendra bhandari": "dr-dharmendra-bhandari",
+    "dr dk srivastava": "d-k-srivastava",
+    "dr g b nagporewalla": "g-b-nagporewalla",
     "dr gvk rao": "dr-gvk-rao",
     "dr ig patel": "dr-ig-patel",
+    "dr indira rajaraman": "indira-rajaraman",
+    "dr jurgen axer": "jurgen-axer",
+    "dr jürgen axer": "jurgen-axer",
+    "dr kalam": "a-p-j-abdul-kalam",
+    "dr kk das": "dr-kk-das",
+    "dr maneesha tikekar": "maneesha-tikekar",
+    "dr manmohan singh": "manmohan-singh",
+    "dr muthulakshmi reddi": "muthulakshmi-reddi",
+    "dr n das ics retd": "n-das",
     "dr na swaminathan": "dr-na-swaminathan",
-    "dr otto count lambsdroff and swaminathan aiyar": "dr-otto-count-lambsdroff-and-swaminathan-aiyar",
+    "dr pendse": "dr-pendse",
     "dr png subramanian": "dr-png-subramanian",
-    "dr sachin sen": "dr-sachin-sen",
+    "dr rajendra prasad": "rajendra-prasad",
+    "dr rené klaff": "rene-klaff",
+    "dr sachin sen": "sachin-sen",
     "dr skumar jain": "dr-skumar-jain",
     "dr th chowdhary": "dr-th-chowdhary",
-    "deepak parekh": "deepak-parekh",
-    "dharamsey khatau": "dharamsey-khatau",
-    "did bollywood liberalise india or did india liberalise bollywood?": "did-bollywood-liberalise-india-or-did-india-liberalise-bollywood",
-    "dr kk das": "dr-kk-das",
-    "dr muthulakshmi reddi": "muthulakshmi-reddi",
+    "dr usha mehta": "usha-mehta",
+    "dr vijay kelkar": "vijay-kelkar",
+    "drajit karnik": "ajit-karnik",
+    "drcsdeshpande": "c-s-deshpande",
+    "dudley senanayake": "dudley-senanayake",
+    "dvgundappa": "d-v-gundappa",
+    "dwarkanath tagore": "dwarkanath-tagore",
     "economic growth with social justice": "economic-growth-with-social-justice",
-    "forest departments incentives and the environment": "forest-departments-incentives-and-the-environment",
-    "forest rights act 2006 : the struggle for implementation - part i": "forest-rights-act-2006-the-struggle-for-implementation-part-i",
-    "forest rights act 2006: the struggle for implementation - part ii": "forest-rights-act-2006-the-struggle-for-implementation-part-ii",
+    "ek janaki ammal": "janaki-ammal",
+    "erhard haubold": "erhard-haubold",
+    "eugene black": "eugene-black",
+    "fazal-ur-rahman": "fazal-ur-rahman",
+    "feroz khan noon": "feroz-khan-noon",
     "frank simoes": "frank-simoes",
+    "franz oppenheimer": "franz-oppenheimer",
+    "frederic bastiat": "frederic-bastiat",
     "free enterprise and freedom": "free-enterprise-and-freedom",
     "friedrich hayek": "friedrich-hayek",
-    "frederic bastiat": "frederic-bastiat",
+    "friedrich naumann": "friedrich-naumann",
+    "g giridhar prabhu": "g-giridhar-prabhu",
     "g jayachandran": "g-jayachandran",
+    "g n lawande": "g-n-lawande",
+    "gandhi": "mahatma-gandhi",
     "gd parikh": "gd-parikh",
+    "geeta lal": "geeta-lal",
+    "general ayub khan": "ayub-khan",
+    "giridhar prabhu": "g-giridhar-prabhu",
+    "gokhale": "gopal-krishna-gokhale",
+    "gopal krishna gokhale": "gopal-krishna-gokhale",
     "gr parrikar and rg katoti": "gr-parrikar-and-rg-katoti",
     "gv ramakrishna": "gv-ramakrishna",
-    "gopal krishna gokhale": "gopal-krishna-gokhale",
-    "gokhale": "gopal-krishna-gokhale",
+    "h l a hart": "hla-hart",
+    "h m patel": "h-m-patel",
+    "h narayan rao": "h-narayan-rao",
+    "h t parekh": "h-t-parekh",
     "hans raj khanna": "hans-raj-khanna",
-    "how i stopped worrying and learned to love the trade deficit | sudha shenoy": "how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy",
-    "in conversation with ronald meinardus - regional director fnf south asia": "in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia",
-    "india's greatest liberal - gopal krishna gokhale": "india-s-greatest-liberal-gopal-krishna-gokhale",
-    "india's transition : choice competition and individual dignity": "india-s-transition-choice-competition-and-individual-dignity",
-    "india's forest-dwellers: from owners to encroachers": "india-s-forest-dwellers-from-owners-to-encroachers",
-    "indian liberal tradition - gp manish": "indian-liberal-tradition-gp-manish",
+    "herbert spencer": "herbert-spencer",
+    "hernando de soto": "hernando-de-soto",
+    "hla hart": "hla-hart",
+    "hp ranina": "hp-ranina",
+    "hubertus von welck": "hubertus-von-welck",
+    "humayun kabir": "humayun-kabir",
+    "immanuel kant": "immanuel-kant",
+    "inder gujral": "i-k-gujral",
+    "indira": "indira-gandhi",
+    "indira gandhi": "indira-gandhi",
+    "indumati parikh": "indumati-parikh",
     "ishwar chandra vidyasagar": "ishwar-chandra-vidyasagar",
-    "vidyasagar": "ishwar-chandra-vidyasagar",
     "ishwarchandra vidyasagar": "ishwar-chandra-vidyasagar",
-    "jj irani": "jj-irani",
-    "jr henshaw": "jr-henshaw",
-    "jagdish bhagwati on milton friedman": "jagdish-bhagwati-on-milton-friedman",
+    "iskander mirza": "iskander-mirza",
+    "j k dhairyawan": "j-k-dhairyawan",
+    "j m lobo prabhu": "j-m-lobo-prabhu",
+    "j m lobo prabhu ics retd": "j-m-lobo-prabhu",
+    "j r d tata": "jrd-tata",
+    "j r marshall": "j-r-marshall",
+    "j vijayatunga": "v-vijayatunga",
+    "jagdish bhagwati": "jagdish-bhagwati",
+    "jai prakash narayan": "jayaprakash-narayan",
     "janaki ammal": "janaki-ammal",
-    "ek janaki ammal": "janaki-ammal",
+    "jawaharlal nehru": "jawaharlal-nehru",
+    "jaya prakash narayan": "jayaprakash-narayan",
+    "jayaprakash narayan": "jayaprakash-narayan",
+    "jayraj sheth": "jayraj-sheth",
+    "jethmalani": "ram-jethmalani",
+    "jiban mukhopadhyay": "jiban-mukhopadhyay",
+    "jj irani": "jj-irani",
+    "john kennedy": "john-f-kennedy",
+    "john kenneth galbraith": "john-kenneth-galbraith",
+    "john locke": "john-locke",
+    "john stuart mill": "john-stuart-mill",
+    "joseph e stiglitz": "joseph-stiglitz",
+    "joseph stiglitz": "joseph-stiglitz",
+    "jp": "jayaprakash-narayan",
+    "jp narayan": "jayaprakash-narayan",
+    "jr henshaw": "jr-henshaw",
+    "justice r a jahagirdar retd": "r-a-jahagirdar",
+    "k d malaviya": "k-d-malaviya",
+    "k d valicha": "kd-valicha",
+    "k f rustomji": "k-f-rustomji",
+    "k m munshi": "k-m-munshi",
+    "k r lotwala": "kusum-lotwala",
+    "k sreeramamurty": "k-sreeramamurty",
+    "k v subrahmanyam": "kv-subrahmanyam",
+    "kalam": "a-p-j-abdul-kalam",
+    "kaldor": "nicholas-kaldor",
+    "karl marx": "karl-marx",
+    "karl polanyi": "karl-polanyi",
+    "karnik": "ajit-karnik",
     "kd valicha": "kd-valicha",
+    "ken schooland": "ken-schoolland",
+    "khasa subba rau": "khasa-subba-rau",
+    "khrushchev": "nikita-khrushchev",
+    "kiran nanda": "kiran-nanda",
+    "kishor b karia": "kishor-karia",
+    "kishor karia": "kishor-karia",
+    "kishore valicha": "kishore-valicha",
+    "krishna menon": "v-k-krishna-menon",
+    "krishnamohan bandyopadhyay": "krishnamohan-bandyopadhyay",
+    "kusum lotwala": "kusum-lotwala",
+    "kusum r lotwala": "kusum-lotwala",
+    "kusum shrestha": "kusum-shrestha",
     "kv narain": "kv-narain",
     "kv subrahmanyam": "kv-subrahmanyam",
-    "kiran nanda": "kiran-nanda",
+    "l k jha": "l-k-jha",
     "lady abala bose": "lady-abala-bose",
-    "abala bose": "lady-abala-bose",
-    "liberalism and the challenge of polarisation": "liberalism-and-the-challenge-of-polarisation",
+    "lalita ramdas": "lalita-ramdas",
     "liberalism and the populist challenge": "liberalism-and-the-populist-challenge",
+    "lk jha": "l-k-jha",
+    "lok nayak": "jayaprakash-narayan",
+    "lord macaulay": "thomas-babington-macaulay",
+    "lord william bentinck": "william-bentinck",
+    "ludwig erhard": "ludwig-erhard",
+    "ludwig von mises": "ludwig-von-mises",
+    "m a sreenivasan": "ma-sreenivasan",
+    "m c chagla": "m-c-chagla",
+    "m c setalvad": "m-c-setalvad",
+    "m c setalwad": "m-c-setalvad",
+    "m g balier": "m-g-hallar",
+    "m g hallar": "m-g-hallar",
+    "m n roy": "m-n-roy",
+    "m n tholal": "m-n-tholal",
+    "m r masani mp": "minoo-masani",
+    "m r pai": "m-r-pai",
+    "m.r.pai": "m-r-pai",
     "ma master": "m-a-master",
     "ma pathan": "ma-pathan",
     "ma rangoonwala": "ma-rangoonwala",
-    "mh moody": "mh-moody",
-    "mr ad shroff": "mr-ad-shroff",
-    "mr anantharamakrishnan and cp ramaswamy ayyar": "mr-anantharamakrishnan-and-cp-ramaswamy-ayyar",
-    "mr masani": "mr-masani",
-    "mr mayya": "mr-mayya",
+    "ma sreenivasan": "ma-sreenivasan",
+    "ma venkata rao": "ma-venkata-rao",
+    "macaulay": "thomas-babington-macaulay",
+    "madariaga": "salvador-de-madariaga",
+    "maharana pratap": "maharana-pratap",
+    "mahatma gandhi": "mahatma-gandhi",
+    "mahomedali currim chagla": "m-c-chagla",
+    "majgen retd e d'souza": "e-dsouza",
     "making tax compliance attractive": "making-tax-compliance-attractive",
+    "malini karakal": "malini-karakal",
+    "malthus": "thomas-robert-malthus",
+    "manabendra nath roy": "m-n-roy",
+    "mangesh kulkarni": "mangesh-kulkarni",
+    "mangesh soman": "mangesh-soman",
+    "manmohan singh": "manmohan-singh",
+    "mao zedong": "mao-zedong",
+    "margaret thatcher": "margaret-thatcher",
+    "marx": "karl-marx",
+    "matt ridley": "matt-ridley",
+    "maulana abdul kalam azad": "maulana-abul-kalam-azad",
     "maurice strong": "maurice-strong",
+    "mc chagla": "m-c-chagla",
+    "mc setalvad": "m-c-setalvad",
+    "mg hallar": "m-g-hallar",
+    "mh mody": "mh-mody",
+    "mh moody": "mh-moody",
+    "milovan djilas": "milovan-djilas",
     "milton friedman": "milton-friedman",
-    "minoo masani on nehru's adoption of socialism - in conversation with zareer masani": "minoo-masani-on-nehru-s-adoption-of-socialism-in-conversation-with-zareer-masani",
-    "minoo masani's disenchantment with the soviet economic model - in coversation with zareer masani": "minoo-masani-s-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani",
+    "minoo masani": "minoo-masani",
     "minoo shroff": "minoo-shroff",
     "minoo shroff and hd shourie": "minoo-shroff-and-hd-shourie",
-    "minoo shroff on a d shroff memorial trust and the forum of free enterprise": "minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise",
-    "minoo shroff on doing business in nehru's india": "minoo-shroff-on-doing-business-in-nehru-s-india",
-    "minoo shroff on his uncle a d shroff": "minoo-shroff-on-his-uncle-a-d-shroff",
-    "minoo shroff on nehru welfare and india's promise": "minoo-shroff-on-nehru-welfare-and-india-s-promise",
-    "mithan tata lam- an indian lawyer & suffragist": "mithan-tata-lam-an-indian-lawyer-suffragist",
+    "miss k r lotwala": "kusum-lotwala",
+    "miss kusim lotwala": "kusum-lotwala",
+    "miss kusum lotwala": "kusum-lotwala",
+    "mithan lam": "mithan-tata-lam",
+    "mithan tata": "mithan-tata-lam",
+    "mithan tata lam": "mithan-tata-lam",
+    "mk gandhi": "mahatma-gandhi",
+    "mme louella lobo prabhu": "louella-lobo-prabhu",
+    "mn roy": "m-n-roy",
+    "morarji desai": "morarji-desai",
+    "mr ad shroff": "a-d-shroff",
+    "mr dulles": "john-foster-dulles",
+    "mr h t parekh": "h-t-parekh",
+    "mr kishor b karia": "kishor-karia",
+    "mr mangesh soman": "mangesh-soman",
+    "mr masani": "mr-masani",
+    "mr mayya": "mr-mayya",
+    "mr narayan varma": "narayan-varma",
+    "mr pai": "m-r-pai",
+    "mr r g katoti": "r-g-katoti",
+    "mr s v raju": "s-v-raju",
+    "mr sanjay panse": "sanjay-panse",
+    "mr sunil s bhandare": "sunil-bhandare",
+    "mrs sirimavo bandaranaike": "sirimavo-bandaranaike",
+    "mrs srimavo bandaranaike": "sirimavo-bandaranaike",
+    "mrs vijayalaxmi pandit": "vijaya-lakshmi-pandit",
+    "mrsanjay panse": "sanjay-panse",
+    "ms seetha": "ms-seetha",
+    "mukesh adenwala": "mukesh-adenwala",
     "murarji vaidya": "murarji-vaidya",
-    "muthulakshmi reddi": "muthulakshmi-reddi-2",
-    "s muthulakshmi reddy": "muthulakshmi-reddi-2",
-    "ng ranga - guardian of peasants' rights": "n-g-ranga-guardian-of-peasants-rights",
+    "muthulakshmi reddi": "muthulakshmi-reddi",
+    "n a palkhivala": "nani-palkhivala",
+    "n vittal": "n-vittal",
+    "na palkhivala": "nani-palkhivala",
     "nadir godrej": "nadir-godrej",
+    "nani a palkhivala": "nani-palkhivala",
+    "nani palkhivala": "nani-palkhivala",
     "nani palkhiwala": "nani-palkhiwala",
+    "napoleon": "napoleon-bonaparte",
+    "napoleon bonaparte": "napoleon-bonaparte",
+    "narasimha rao": "narasimha-rao",
+    "narayan k varma": "narayan-varma",
+    "narayan mahadev paramananda": "narayan-mahadev-paramananda",
+    "narayan varma": "narayan-varma",
     "narayana aiyar": "narayana-aiyar",
+    "narendra nath bhattacharya": "m-n-roy",
+    "nehru": "jawaharlal-nehru",
+    "netaji": "subhas-chandra-bose",
+    "ngapo ngawang jigme": "ngapo-ngawang-jigme",
     "om prakash kahol": "om-prakash-kahol",
+    "p c mahalanobis": "p-c-mahalanobis",
     "p kodanda rao": "p-kodanda-rao",
+    "p n haksar": "p-n-haksar",
+    "p v narasimha rao": "narasimha-rao",
+    "pandit nehru": "jawaharlal-nehru",
+    "pandita ramabai": "pandita-ramabai",
+    "parichand mitra": "parichand-mitra",
+    "parth j shah": "parth-shah",
     "passing parliamentary select comittee palkhivala": "passing-parliamentary-select-comittee-palkhivala",
+    "patel": "sardar-patel",
+    "periyar ramaswami naicker": "periyar-e-v-ramasamy",
     "peter bauer": "peter-bauer",
     "phiroze j shroff": "phiroze-j-shroff",
     "piya mahatey": "piya-mahatey",
-    "prof br shenoy": "prof-br-shenoy",
-    "prof rk amin": "prof-rk-amin",
-    "prof shenoy": "prof-shenoy",
-    "prof rl varshney": "prof-rl-varshney",
-    "rd aga": "rd-aga",
-    "rabindranath tagore": "rabindranath-tagore",
-    "tagore": "rabindranath-tagore",
-    "role of civil society in the pandemic": "role-of-civil-society-in-the-pandemic",
-    "role of ideology in india's liberalisation": "role-of-ideology-in-india-s-liberalisation",
-    "s divakara on nani palkhivala's union budget commentaries": "s-divakara-on-nani-palkhivala-s-union-budget-commentaries",
-    "s divakara on the forum of free enterprise": "s-divakara-on-the-forum-of-free-enterprise",
-    "sn haji": "sn-haji",
-    "sp godrej": "sp-godrej",
-    "ss bhandare": "ss-bhandare",
-    "ss bhandare and jk mukhopadhyay": "ss-bhandare-and-jk-mukhopadhyay",
-    "sachin sen": "sachin-sen",
-    "shah mulraj simha": "shah-mulraj-simha",
-    "shetkari sanghathana : a movement for freedom - part i": "shetkari-sanghathana-a-movement-for-freedom-part-i",
-    "shetkari sanghathana : a movement for freedom - part ii": "shetkari-sanghathana-a-movement-for-freedom-part-ii",
-    "sir homi mody sl kirloskar and mr ramnivas ruia": "sir-homi-mody-sl-kirloskar-and-mr-ramnivas-ruia",
-    "socialism reconsidered": "socialism-reconsidered",
-    "spreading enterprises gopalakrishnan": "spreading-enterprises-gopalakrishnan",
-    "streer potro": "streer-potro",
-    "sujata manohar": "sujata-manohar",
-    "sultana's dream": "sultana-s-dream",
-    "sunil bhandare on getting disillusioned with socialism and his journey to become a liberal": "sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal",
-    "sunil bhandare on enlarging the \\": "sunil-bhandare-on-enlarging-the",
-    "sunil bhandare on his experiences with indian liberal organisations": "sunil-bhandare-on-his-experiences-with-indian-liberal-organisations",
-    "sunil bhandare on private enterprise post 1991 reforms": "sunil-bhandare-on-private-enterprise-post-1991-reforms",
-    "swatantra party : india's first liberal party": "swatantra-party-india-s-first-liberal-party",
-    "tahir siddiqui": "tahir-siddiqui",
-    "thakorelal desai": "thakorelal-desai",
-    "the case against neo-protectionism": "the-case-against-neo-protectionism",
-    "the case for liberalism in indian history": "the-case-for-liberalism-in-indian-history",
-    "the challenges for liberal grassroots movements": "the-challenges-for-liberal-grassroots-movements",
-    "the challenges leading to the forest rights act 2006": "the-challenges-leading-to-the-forest-rights-act-2006",
-    "the dock by pt bauer": "the-dock-by-pt-bauer",
-    "the early years emergency era and tryst with civil services": "the-early-years-emergency-era-and-tryst-with-civil-services",
-    "the future of liberalism in a post-pandemic world": "the-future-of-liberalism-in-a-post-pandemic-world",
-    "the hayek-keynes debate 1931-1971 |": "the-hayek-keynes-debate-1931-1971",
-    "the hope for a liberal political alternative": "the-hope-for-a-liberal-political-alternative",
-    "the life & legacy of dr janaki ammal": "the-life-legacy-of-dr-janaki-ammal",
-    "the life & legacy of lady abala bose": "the-life-legacy-of-lady-abala-bose",
-    "the life and times of sharad joshi": "the-life-and-times-of-sharad-joshi",
-    "the new global marketplace | sudha shenoy": "the-new-global-marketplace-sudha-shenoy",
-    "the public distribution system : a boon or a bane?": "the-public-distribution-system-a-boon-or-a-bane",
-    "the relationship between citizen and state": "the-relationship-between-citizen-and-state",
-    "tom g palmer": "tom-g-palmer",
-    "tribals and development: countering the myths": "tribals-and-development-countering-the-myths",
-    "union budget 1992-93": "union-budget-1992-93",
-    "vh pandya": "vh-pandya",
-    "vision for a prosperous india - gurcharan das": "vision-for-a-prosperous-india-gurcharan-das",
-    "ww rowstow": "ww-rowstow",
-    "what is the role of government in agriculture?": "what-is-the-role-of-government-in-agriculture",
-    "why are fundamental rights not amendable?": "why-are-fundamental-rights-not-amendable",
-    "why is it difficult to de-regulate labor in india?": "why-is-it-difficult-to-de-regulate-labor-in-india",
-    "wing commander vijay mahajan alka sen rn kini": "wing-commander-vijay-mahajan-alka-sen-rn-kini",
-    "मन मसन": "minoo-masani",
-    "ब आर शनय": "b-r-shenoy",
-    "स रजगपलचर": "c-rajagopalachari",
-    "रजज": "c-rajagopalachari",
-    "शरद जश": "sharad-joshi",
-    "ए ड शरफ": "a-d-shroff",
-    "नन पलखवल": "nani-palkhivala",
-    "एम आर पई": "m-r-pai",
-    "ड आर पडस": "d-r-pendse",
-    "एस व रज": "s-v-raju",
-    "রবনদরনথ ঠকর": "rabindranath-tagore",
-    "रवनदरनथ टगर": "rabindranath-tagore",
-    "ঈশবরচনদর বদযসগর": "ishwar-chandra-vidyasagar",
-    "ईशवरचनदर वदयसगर": "ishwar-chandra-vidyasagar",
-    "বগম রকয": "begum-rokeya",
-    "पडत रमबई": "pandita-ramabai",
-    "मठन टट लम": "mithan-tata-lam",
-    "जनक अममल": "janaki-ammal",
-    "मथलकषम रडड": "muthulakshmi-reddi",
-    "অবল বস": "lady-abala-bose",
-    "t t krishnamachari": "t-t-krishnamachari",
-    "ttk": "t-t-krishnamachari",
-    "ट ट कषणमचर": "t-t-krishnamachari",
-    "कषणमचर": "t-t-krishnamachari",
-    "jawaharlal nehru": "jawaharlal-nehru",
-    "nehru": "jawaharlal-nehru",
-    "pandit nehru": "jawaharlal-nehru",
-    "जवहरलल नहर": "jawaharlal-nehru",
-    "पडत नहर": "jawaharlal-nehru",
-    "indira gandhi": "indira-gandhi",
-    "indira": "indira-gandhi",
-    "इदर गध": "indira-gandhi",
-    "इनदर गध": "indira-gandhi",
-    "mahatma gandhi": "mahatma-gandhi",
-    "gandhi": "mahatma-gandhi",
-    "bapu": "mahatma-gandhi",
-    "mk gandhi": "mahatma-gandhi",
-    "महतम गध": "mahatma-gandhi",
-    "महनदस गध": "mahatma-gandhi",
-    "महनदस करमचद गध": "mahatma-gandhi",
-    "karl marx": "karl-marx",
-    "marx": "karl-marx",
-    "मरकस": "karl-marx",
-    "करल मरकस": "karl-marx",
-    "napoleon bonaparte": "napoleon-bonaparte",
-    "napoleon": "napoleon-bonaparte",
-    "नपलयन": "napoleon-bonaparte",
-    "नपलयन बनपरट": "napoleon-bonaparte",
-    "maharana pratap": "maharana-pratap",
-    "महरण परतप": "maharana-pratap",
-    "महरण परतप सह": "maharana-pratap",
-    "chhatrapati shivaji": "shivaji",
-    "shivaji": "shivaji",
-    "शवज": "shivaji",
-    "छतरपत शवज": "shivaji",
-    "छतरपत शवज महरज": "shivaji",
-    "vallabhbhai patel": "sardar-patel",
-    "sardar patel": "sardar-patel",
-    "patel": "sardar-patel",
-    "सरदर पटल": "sardar-patel",
-    "वललभभई पटल": "sardar-patel",
-    "सरदर वललभभई पटल": "sardar-patel",
-    "subhas chandra bose": "subhas-chandra-bose",
-    "netaji": "subhas-chandra-bose",
-    "subhash chandra bose": "subhas-chandra-bose",
-    "সভষ চনদর বস": "subhas-chandra-bose",
-    "সভষচনদর বস": "subhas-chandra-bose",
-    "সভষ বস": "subhas-chandra-bose",
-    "সভষচনদর": "subhas-chandra-bose",
-    "নতজ": "subhas-chandra-bose",
-    "सभष चदर बस": "subhas-chandra-bose",
-    "नतज": "subhas-chandra-bose",
-    "b r ambedkar": "bhimrao-ambedkar",
-    "ambedkar": "bhimrao-ambedkar",
-    "babasaheb": "bhimrao-ambedkar",
-    "br ambedkar": "bhimrao-ambedkar",
-    "बबसहब आबडकर": "bhimrao-ambedkar",
-    "भमरव आबडकर": "bhimrao-ambedkar",
-    "ड बबसहब आबडकर": "bhimrao-ambedkar",
-    "भमरव रमज आबडकर": "bhimrao-ambedkar",
-    "hernando de soto": "hernando-de-soto",
-    "de soto": "hernando-de-soto",
-    "jagdish bhagwati": "jagdish-bhagwati",
-    "bhagwati": "jagdish-bhagwati",
-    "joseph stiglitz": "joseph-stiglitz",
-    "joseph e stiglitz": "joseph-stiglitz",
-    "stiglitz": "joseph-stiglitz",
-    "h l a hart": "hla-hart",
-    "hla hart": "hla-hart",
-    "karl polanyi": "karl-polanyi",
     "polanyi": "karl-polanyi",
-    "n vittal": "n-vittal",
-    "vittal": "n-vittal",
-    "s p sathe": "s-p-sathe",
-    "sp sathe": "s-p-sathe",
-    "sathe": "s-p-sathe",
-    "ajit karnik": "ajit-karnik",
-    "karnik": "ajit-karnik",
-    "r m mohan rao": "r-m-mohan-rao",
-    "rm mohan rao": "r-m-mohan-rao",
-    "g giridhar prabhu": "g-giridhar-prabhu",
-    "giridhar prabhu": "g-giridhar-prabhu",
-    "ram jethmalani": "ram-jethmalani",
-    "jethmalani": "ram-jethmalani",
-    "a p j abdul kalam": "a-p-j-abdul-kalam",
-    "apj abdul kalam": "a-p-j-abdul-kalam",
-    "abdul kalam": "a-p-j-abdul-kalam",
-    "dr kalam": "a-p-j-abdul-kalam",
-    "kalam": "a-p-j-abdul-kalam",
-    "rajendra prasad": "rajendra-prasad",
-    "dr rajendra prasad": "rajendra-prasad",
-    "l k jha": "l-k-jha",
-    "lk jha": "l-k-jha",
-    "m c setalvad": "m-c-setalvad",
-    "mc setalvad": "m-c-setalvad",
-    "m c setalwad": "m-c-setalvad",
-    "setalvad": "m-c-setalvad",
-    "setalwad": "m-c-setalvad",
-    "narasimha rao": "narasimha-rao",
-    "p v narasimha rao": "narasimha-rao",
-    "pv narasimha rao": "narasimha-rao",
-    "manmohan singh": "manmohan-singh",
-    "dr manmohan singh": "manmohan-singh",
-    "atal bihari vajpayee": "atal-bihari-vajpayee",
-    "vajpayee": "atal-bihari-vajpayee",
-    "a b vajpayee": "atal-bihari-vajpayee",
-    "ab vajpayee": "atal-bihari-vajpayee",
-    "m.r.pai": "m-r-pai",
-    "b s sanyal": "bs-sanyal",
-    "k d valicha": "kd-valicha",
-    "malthus": "thomas-robert-malthus",
-    "thomas malthus": "thomas-robert-malthus",
-    "thomas robert malthus": "thomas-robert-malthus",
-    "t r malthus": "thomas-robert-malthus",
-    "माल्थस": "thomas-robert-malthus",
-    "jayaprakash narayan": "jayaprakash-narayan",
-    "jaya prakash narayan": "jayaprakash-narayan",
-    "jai prakash narayan": "jayaprakash-narayan",
-    "jp narayan": "jayaprakash-narayan",
-    "jp": "jayaprakash-narayan",
-    "lok nayak": "jayaprakash-narayan",
-    "जयप्रकाश नारायण": "jayaprakash-narayan",
-    "जे पी नारायण": "jayaprakash-narayan",
-    "জয়প্রকাশ নারায়ণ": "jayaprakash-narayan",
-    "krishna menon": "v-k-krishna-menon",
-    "v k krishna menon": "v-k-krishna-menon",
-    "vk krishna menon": "v-k-krishna-menon",
-    "vengalil krishnan krishna menon": "v-k-krishna-menon",
-    "वी के कृष्ण मेनन": "v-k-krishna-menon",
-    "कृष्ण मेनन": "v-k-krishna-menon",
-    "m n roy": "m-n-roy",
-    "mn roy": "m-n-roy",
-    "manabendra nath roy": "m-n-roy",
-    "narendra nath bhattacharya": "m-n-roy",
-    "एम एन रॉय": "m-n-roy",
-    "এম এন রায়": "m-n-roy",
-    "মানবেন্দ্র নাথ রায়": "m-n-roy",
-    "m c chagla": "m-c-chagla",
-    "mc chagla": "m-c-chagla",
-    "chagla": "m-c-chagla",
-    "mahomedali currim chagla": "m-c-chagla",
-    "एम सी छागला": "m-c-chagla",
-    "benjamin tucker": "benjamin-tucker",
-    "benjamin f tucker": "benjamin-tucker",
-    "benjamin r tucker": "benjamin-tucker",
-    "b r tucker": "benjamin-tucker",
-    "salvador madariaga": "salvador-de-madariaga",
-    "salvador de madariaga": "salvador-de-madariaga",
-    "madariaga": "salvador-de-madariaga",
-    "kusum lotwala": "kusum-lotwala",
-    "kusum r lotwala": "kusum-lotwala",
-    "miss kusum lotwala": "kusum-lotwala",
-    "miss kusim lotwala": "kusum-lotwala",
-    "k r lotwala": "kusum-lotwala",
-    "miss k r lotwala": "kusum-lotwala",
-    "m g hallar": "m-g-hallar",
-    "mg hallar": "m-g-hallar",
-    "m g balier": "m-g-hallar",
-    "b t krishnamachari": "b-t-krishnamachari",
-    "bt krishnamachari": "b-t-krishnamachari",
-    "बी टी कृष्णमाचारी": "b-t-krishnamachari",
-    "rajiv gandhi": "rajiv-gandhi",
-    "राजीव गांधी": "rajiv-gandhi",
-    "রাজীব গান্ধী": "rajiv-gandhi",
-    "sharad pawar": "sharad-pawar",
-    "शरद पवार": "sharad-pawar",
-    "charan singh": "charan-singh",
-    "chaudhary charan singh": "charan-singh",
-    "के चरणसिंह": "charan-singh",
-    "चौधरी चरण सिंह": "charan-singh",
-    "चरण सिंह": "charan-singh",
-    "adam smith": "adam-smith",
-    "john stuart mill": "john-stuart-mill",
-    "john locke": "john-locke",
-    "alexis de tocqueville": "alexis-de-tocqueville",
-    "ludwig von mises": "ludwig-von-mises",
-    "margaret thatcher": "margaret-thatcher",
-    "john kenneth galbraith": "john-kenneth-galbraith",
-    "professor galbraith": "john-kenneth-galbraith",
-    "wilhelm ropke": "wilhelm-ropke",
-    "wilhelm röpke": "wilhelm-ropke",
-    "immanuel kant": "immanuel-kant",
-    "thomas aquinas": "thomas-aquinas",
-    "herbert spencer": "herbert-spencer",
-    "ludwig erhard": "ludwig-erhard",
-    "राम मनोहर लोहिया": "ram-manohar-lohia",
-    "vinoba bhave": "vinoba-bhave",
-    "acharya vinoba bhave": "vinoba-bhave",
-    "धीमती सरोजिनी नायडू": "sarojini-naidu",
-    "dr bibek debroy": "bibek-debroy",
-    "dr vijay kelkar": "vijay-kelkar",
-    "amartya sen": "amartya-sen",
-    "inder gujral": "i-k-gujral",
-    "achyut patwardhan": "achyut-patwardhan",
-    "j r d tata": "jrd-tata",
-    "p n haksar": "p-n-haksar",
-    "p c mahalanobis": "p-c-mahalanobis",
+    "prime minister eden": "anthony-eden",
+    "prof br shenoy": "b-r-shenoy",
+    "prof cn vakil": "prof-cn-vakil",
     "prof mahalanobis": "p-c-mahalanobis",
-    "श्री वी टी कृष्णमाचारी": "v-t-krishnamachari",
-    "महात्मा जोतीराव फुले": "jyotirao-phule",
-    "periyar ramaswami naicker": "periyar-e-v-ramasamy",
-    "bal gangadhar tilak": "bal-gangadhar-tilak",
-    "derozio": "henry-louis-vivian-derozio",
-    "david hare": "david-hare",
-    "macaulay": "thomas-babington-macaulay",
-    "lord macaulay": "thomas-babington-macaulay",
-    "lord william bentinck": "william-bentinck",
-    "warren hastings": "warren-hastings",
-    "alexander duff": "alexander-duff",
-    "william adam": "william-adam",
-    "dwarkanath tagore": "dwarkanath-tagore",
-    "krishnamohan bandyopadhyay": "krishnamohan-bandyopadhyay",
+    "prof rk amin": "r-k-amin",
+    "prof rl varshney": "prof-rl-varshney",
+    "prof samdhong rinpoche": "samdhong-rinpoche",
+    "prof shenoy": "prof-shenoy",
+    "prof yashawant bhide": "yashawant-bhide",
+    "professor colin clark": "colin-clark",
+    "professor galbraith": "john-kenneth-galbraith",
+    "professor p v sukhatme": "p-v-sukhatme",
+    "professor s radhakrishnan": "sarvepalli-radhakrishnan",
+    "pv narasimha rao": "narasimha-rao",
+    "r g katoti": "r-g-katoti",
+    "r k amin": "r-k-amin",
+    "r k hazari": "r-k-hazari",
+    "r m mohan rao": "r-m-mohan-rao",
+    "rabindranath tagore": "rabindranath-tagore",
     "radhakanta dev": "radhakanta-deb",
-    "sivanath sastri": "sivanath-sastri",
+    "raja ram mohan roy": "raja-ram-mohan-roy",
+    "rajaji": "rajaji",
+    "rajendra prasad": "rajendra-prasad",
+    "rajiv gandhi": "rajiv-gandhi",
+    "ralph borsodi": "ralph-borsodi",
+    "ralph waldo emerson": "ralph-waldo-emerson",
+    "ram jethmalani": "ram-jethmalani",
+    "ram mohan roy": "raja-ram-mohan-roy",
+    "ramabai": "pandita-ramabai",
+    "rammohun roy": "raja-ram-mohan-roy",
     "ramtanu lahiri": "ramtanu-lahiri",
     "rasikkrishna mallik": "rasikkrishna-mallik",
+    "rd aga": "rd-aga",
+    "richard plaster": "richard-plaster",
+    "rm mohan rao": "r-m-mohan-rao",
+    "robert mcnamara": "robert-mcnamara",
+    "rokeya": "begum-rokeya",
+    "russi mody": "russi-mody",
+    "ruth benedict": "ruth-benedict",
+    "s chandrasekhar": "s-chandrasekhar",
+    "s k patil": "s-k-patil",
+    "s muthulakshmi reddy": "muthulakshmi-reddi",
+    "s p sathe": "s-p-sathe",
+    "s radhakrishnan": "sarvepalli-radhakrishnan",
+    "s v raju": "s-v-raju",
+    "sachin sen": "sachin-sen",
+    "sadanand varde": "sadanand-varde",
+    "salvador de madariaga": "salvador-de-madariaga",
+    "salvador madariaga": "salvador-de-madariaga",
+    "sardar patel": "sardar-patel",
+    "sarvepalli radhakrishnan": "sarvepalli-radhakrishnan",
+    "sathe": "s-p-sathe",
+    "sauvik chakraverti": "sauvik-chakraverti",
+    "setalvad": "m-c-setalvad",
+    "setalwad": "m-c-setalvad",
+    "sh batlivala": "sh-batlivala",
+    "shah mulraj simha": "shah-mulraj-simha",
+    "sharad anantrao joshi": "sharad-anantrao-joshi",
+    "sharad bailur": "sharad-bailur",
+    "sharad joshi": "sharad-joshi",
+    "sharad pawar": "sharad-pawar",
+    "shivaji": "shivaji",
+    "siegfried herzog": "siegfried-herzog",
+    "sir biren mookerjee": "biren-mookerjee",
+    "sivanath sastri": "sivanath-sastri",
+    "sn haji": "sn-haji",
+    "socialism reconsidered": "socialism-reconsidered",
+    "sp godrej": "sp-godrej",
+    "sp sathe": "s-p-sathe",
+    "spreading enterprises gopalakrishnan": "spreading-enterprises-gopalakrishnan",
+    "ss bhandare": "ss-bhandare",
+    "ss bhandare and jk mukhopadhyay": "ss-bhandare-and-jk-mukhopadhyay",
+    "stiglitz": "joseph-stiglitz",
+    "streer potro": "streer-potro",
+    "subhas chandra bose": "subhas-chandra-bose",
+    "subhash chandra bose": "subhas-chandra-bose",
+    "sudha r shenoy": "sudha-r-shenoy",
+    "sujata manohar": "sujata-manohar",
+    "sultana's dream": "sultana-s-dream",
+    "sumati morarjee": "sumati-morarjee",
+    "sunil s bhandare": "sunil-bhandare",
+    "sv raju": "s-v-raju",
+    "t r malthus": "thomas-robert-malthus",
+    "t subbaya shetty": "t-subbaya-shetty",
+    "t t krishnamachari": "t-t-krishnamachari",
+    "tagore": "rabindranath-tagore",
+    "tahir siddiqui": "tahir-siddiqui",
     "tarachand chakrabarty": "tarachand-chakrabarty",
-    "parichand mitra": "parichand-mitra",
-    "narayan mahadev paramananda": "narayan-mahadev-paramananda",
-    "utsavananda vidyabagish": "utsavananda-vidyabagish",
-    "khrushchev": "nikita-khrushchev",
-    "colonel nasser": "gamal-abdel-nasser",
-    "mao zedong": "mao-zedong",
-    "deng xiaoping": "deng-xiaoping",
-    "mrs sirimavo bandaranaike": "sirimavo-bandaranaike",
-    "mrs srimavo bandaranaike": "sirimavo-bandaranaike",
-    "dudley senanayake": "dudley-senanayake",
-    "mr dulles": "john-foster-dulles",
-    "prime minister eden": "anthony-eden",
-    "abraham lincoln": "abraham-lincoln",
-    "अब्राहम लिंकन": "abraham-lincoln",
-    "winston churchill": "winston-churchill",
-    "स्टालिन": "joseph-stalin",
-    "willy brandt": "willy-brandt",
+    "thakorelal desai": "thakorelal-desai",
+    "the case against neo-protectionism": "the-case-against-neo-protectionism",
+    "the dock by pt bauer": "the-dock-by-pt-bauer",
     "theodor heuss": "theodor-heuss",
-    "friedrich naumann": "friedrich-naumann",
-    "हिर्षमन": "albert-hirschman",
-    "professor colin clark": "colin-clark",
-    "दांतेवाला": "m-l-dantewala",
-    "kaldor": "nicholas-kaldor",
+    "thomas aquinas": "thomas-aquinas",
+    "thomas malthus": "thomas-robert-malthus",
+    "thomas robert malthus": "thomas-robert-malthus",
+    "tom g palmer": "tom-g-palmer",
+    "ttk": "t-t-krishnamachari",
+    "union budget 1992-93": "union-budget-1992-93",
+    "utsavananda vidyabagish": "utsavananda-vidyabagish",
+    "v k krishna menon": "v-k-krishna-menon",
+    "v vijayatunga": "v-vijayatunga",
+    "vajpayee": "atal-bihari-vajpayee",
+    "vallabhbhai patel": "sardar-patel",
+    "vengalil krishnan krishna menon": "v-k-krishna-menon",
+    "vh pandya": "vh-pandya",
+    "vidyasagar": "ishwar-chandra-vidyasagar",
+    "vinoba bhave": "vinoba-bhave",
+    "vittal": "n-vittal",
+    "vk krishna menon": "v-k-krishna-menon",
+    "warren hastings": "warren-hastings",
+    "wilhelm ropke": "wilhelm-ropke",
+    "wilhelm röpke": "wilhelm-ropke",
+    "william adam": "william-adam",
+    "willy brandt": "willy-brandt",
+    "winston churchill": "winston-churchill",
+    "ww rowstow": "ww-rowstow",
+    "अनंत उमरीकर": "anant-umrikar",
+    "अब्राहम लिंकन": "abraham-lincoln",
     "अशोक मित्र": "ashok-mitra",
     "अशोक मेहता": "ashok-mehta",
-    "k m munshi": "k-m-munshi",
-    "sarvepalli radhakrishnan": "sarvepalli-radhakrishnan",
-    "s radhakrishnan": "sarvepalli-radhakrishnan",
-    "professor s radhakrishnan": "sarvepalli-radhakrishnan",
-    "acharya kripalani": "j-b-kripalani",
-    "morarji desai": "morarji-desai",
-    "लालबहादूर शास्त्री": "lal-bahadur-shastri",
-    "maulana abdul kalam azad": "maulana-abul-kalam-azad",
-    "mrs vijayalaxmi pandit": "vijaya-lakshmi-pandit",
-    "c c deshmukh": "chintaman-deshmukh",
-    "h m patel": "h-m-patel",
-    "s k patil": "s-k-patil",
-    "k d malaviya": "k-d-malaviya",
+    "इदर गध": "indira-gandhi",
+    "इनदर गध": "indira-gandhi",
+    "ईशवरचनदर वदयसगर": "ishwar-chandra-vidyasagar",
+    "ए ड शरफ": "a-d-shroff",
+    "एम आर पई": "m-r-pai",
+    "एम एन रॉय": "m-n-roy",
+    "एम सी छागला": "m-c-chagla",
+    "एस व रज": "s-v-raju",
+    "करल मरकस": "karl-marx",
+    "कषणमचर": "t-t-krishnamachari",
+    "कृष्ण मेनन": "v-k-krishna-menon",
+    "के चरण सिंह": "charan-singh",
+    "के चरणसिंह": "charan-singh",
     "के॰ के॰ आर॰ वी॰ राव": "v-k-r-v-rao",
-    "d v gundappa": "d-v-gundappa",
-    "dvgundappa": "d-v-gundappa",
-    "khasa subba rau": "khasa-subba-rau",
-    "humayun kabir": "humayun-kabir",
-    "h t parekh": "h-t-parekh",
-    "mr h t parekh": "h-t-parekh",
-    "dr n das ics retd": "n-das",
-    "j m lobo prabhu ics retd": "j-m-lobo-prabhu",
-    "j m lobo prabhu": "j-m-lobo-prabhu",
-    "mme louella lobo prabhu": "louella-lobo-prabhu",
-    "eugene black": "eugene-black",
-    "sir biren mookerjee": "biren-mookerjee",
-    "b s mahajan": "b-s-mahajan",
-    "ઇલા ર ભટ્ટ": "ila-bhatt",
-    "ઈલા ર ભટ્ટ": "ila-bhatt",
-    "s chandrasekhar": "s-chandrasekhar",
-    "milovan djilas": "milovan-djilas",
-    "k f rustomji": "k-f-rustomji",
-    "admiral ramdas retd": "ramdas-rear-admiral",
-    "lalita ramdas": "lalita-ramdas",
-    "dr usha mehta": "usha-mehta",
-    "justice r a jahagirdar retd": "r-a-jahagirdar",
-    "indumati parikh": "indumati-parikh",
-    "dr maneesha tikekar": "maneesha-tikekar",
-    "majgen retd e d'souza": "e-dsouza",
-    "sadanand varde": "sadanand-varde",
-    "a solomon": "a-solomon",
-    "anupam mehta": "anupam-mehta",
-    "prof yashawant bhide": "yashawant-bhide",
-    "dr g b nagporewalla": "g-b-nagporewalla",
-    "malini karakal": "malini-karakal",
-    "mangesh kulkarni": "mangesh-kulkarni",
-    "ms seetha": "ms-seetha",
-    "hubertus von welck": "hubertus-von-welck",
-    "dr detmar doering": "detmar-doering",
-    "dr jürgen axer": "jurgen-axer",
-    "dr jurgen axer": "jurgen-axer",
-    "dr rené klaff": "rene-klaff",
-    "siegfried herzog": "siegfried-herzog",
-    "erhard haubold": "erhard-haubold",
-    "dr chanaka amaratunga": "chanaka-amaratunga",
-    "matt ridley": "matt-ridley",
-    "ken schooland": "ken-schoolland",
-    "bernard iddings bell": "bernard-iddings-bell",
-    "ralph borsodi": "ralph-borsodi",
-    "franz oppenheimer": "franz-oppenheimer",
-    "sunil s bhandare": "sunil-bhandare",
-    "mr sunil s bhandare": "sunil-bhandare",
-    "c s deshpande": "c-s-deshpande",
-    "drcsdeshpande": "c-s-deshpande",
-    "dr c s deshpande": "c-s-deshpande",
-    "arvind deshpande": "arvind-deshpande",
-    "narayan k varma": "narayan-varma",
-    "mr narayan varma": "narayan-varma",
-    "narayan varma": "narayan-varma",
-    "kishor karia": "kishor-karia",
-    "mr kishor b karia": "kishor-karia",
-    "kishor b karia": "kishor-karia",
-    "jayraj sheth": "jayraj-sheth",
-    "sharad bailur": "sharad-bailur",
-    "r g katoti": "r-g-katoti",
-    "mr r g katoti": "r-g-katoti",
-    "mangesh soman": "mangesh-soman",
-    "mr mangesh soman": "mangesh-soman",
-    "mr sanjay panse": "sanjay-panse",
-    "mrsanjay panse": "sanjay-panse",
-    "m n tholal": "m-n-tholal",
-    "d m kulkarni": "d-m-kulkarni-libertarian",
-    "geeta lal": "geeta-lal",
+    "कौशल किशोर": "kaushal-kishor",
+    "चरण सिंह": "charan-singh",
+    "चौधरी चरण सिंह": "charan-singh",
+    "छतरपत शवज": "shivaji",
+    "छतरपत शवज महरज": "shivaji",
+    "जनक अममल": "janaki-ammal",
+    "जयप्रकाश नारायण": "jayaprakash-narayan",
+    "जवहरलल नहर": "jawaharlal-nehru",
+    "जे पी नारायण": "jayaprakash-narayan",
+    "ट ट कषणमचर": "t-t-krishnamachari",
+    "ड आर पडस": "d-r-pendse",
+    "ड बबसहब आबडकर": "bhimrao-ambedkar",
+    "डॉ पार्थ जे शाह": "parth-shah",
+    "दांतेवाला": "m-l-dantewala",
+    "धीमती सरोजिनी नायडू": "sarojini-naidu",
+    "नतज": "subhas-chandra-bose",
+    "नन पलखवल": "nani-palkhivala",
+    "नपलयन": "napoleon-bonaparte",
+    "नपलयन बनपरट": "napoleon-bonaparte",
+    "पडत नहर": "jawaharlal-nehru",
+    "पडत रमबई": "pandita-ramabai",
+    "ब आर शनय": "b-r-shenoy",
+    "बबसहब आबडकर": "bhimrao-ambedkar",
+    "बी टी कृष्णमाचारी": "b-t-krishnamachari",
+    "भमरव आबडकर": "bhimrao-ambedkar",
+    "भमरव रमज आबडकर": "bhimrao-ambedkar",
+    "मठन टट लम": "mithan-tata-lam",
+    "मथलकषम रडड": "muthulakshmi-reddi",
+    "मन मसन": "minoo-masani",
+    "मरकस": "karl-marx",
+    "महतम गध": "mahatma-gandhi",
+    "महनदस करमचद गध": "mahatma-gandhi",
+    "महनदस गध": "mahatma-gandhi",
+    "महरण परतप": "maharana-pratap",
+    "महरण परतप सह": "maharana-pratap",
+    "महात्मा जोतीराव फुले": "jyotirao-phule",
+    "माल्थस": "thomas-robert-malthus",
+    "रजज": "c-rajagopalachari",
+    "रवनदरनथ टगर": "rabindranath-tagore",
+    "राजीव गांधी": "rajiv-gandhi",
+    "राम मनोहर लोहिया": "ram-manohar-lohia",
+    "लालबहादूर शास्त्री": "lal-bahadur-shastri",
+    "वललभभई पटल": "sardar-patel",
+    "विजय जावंधिया": "vijay-jawandhia",
+    "वी के कृष्ण मेनन": "v-k-krishna-menon",
+    "वी पी सिन्हा": "v-p-sinha",
+    "शरद जश": "sharad-joshi",
+    "शरद पवार": "sharad-pawar",
+    "शवज": "shivaji",
+    "श्री वी टी कृष्णमाचारी": "v-t-krishnamachari",
+    "श्रीकांत अनंत उमरीकर": "shrikant-umrikar",
+    "श्रीकांत उमरीकर": "shrikant-umrikar",
+    "स रजगपलचर": "c-rajagopalachari",
+    "सभष चदर बस": "subhas-chandra-bose",
+    "सरदर पटल": "sardar-patel",
+    "सरदर वललभभई पटल": "sardar-patel",
+    "सौविक चक्रवर्ती": "sauvik-chakraverti",
+    "स्टालिन": "joseph-stalin",
+    "हिर्षमन": "albert-hirschman",
+    "অবল বস": "lady-abala-bose",
+    "ঈশবরচনদর বদযসগর": "ishwar-chandra-vidyasagar",
+    "এম এন রায়": "m-n-roy",
+    "জয়প্রকাশ নারায়ণ": "jayaprakash-narayan",
+    "নতজ": "subhas-chandra-bose",
+    "বগম রকয": "begum-rokeya",
+    "মানবেন্দ্র নাথ রায়": "m-n-roy",
+    "রবনদরনথ ঠকর": "rabindranath-tagore",
+    "রাজীব গান্ধী": "rajiv-gandhi",
+    "সভষ চনদর বস": "subhas-chandra-bose",
+    "সভষ বস": "subhas-chandra-bose",
+    "সভষচনদর": "subhas-chandra-bose",
+    "সভষচনদর বস": "subhas-chandra-bose",
     "અંબરીષ મહેતા": "ambrish-mehta",
-    "રાજેશ મિશ્રા": "rajesh-mishra",
     "અનિલ પટેલ": "anil-patel",
     "અશ્વિન કારીઆ": "ashwin-karia",
-    "તૃપ્તિ પારેખ": "trupti-parekh",
-    "તૃષિ પારેખ": "trupti-parekh",
-    "સુરેશ પરીખ": "suresh-parikh",
-    "હિમાંશી શેલત": "himanshi-shelat",
-    "ડંકેશ ઓઝા": "dankesh-oza",
-    "mukesh adenwala": "mukesh-adenwala",
-    "श्रीकांत उमरीकर": "shrikant-umrikar",
-    "श्रीकांत अनंत उमरीकर": "shrikant-umrikar",
-    "अनंत उमरीकर": "anant-umrikar",
-    "विजय जावंधिया": "vijay-jawandhia",
-    "कौशल किशोर": "kaushal-kishor",
-    "वी पी सिन्हा": "v-p-sinha",
-    "parth j shah": "parth-shah",
-    "डॉ पार्थ जे शाह": "parth-shah",
-    "r k amin": "r-k-amin",
-    "dr indira rajaraman": "indira-rajaraman",
-    "dr abhay pethe": "abhay-pethe",
-    "dr c rangarajan": "c-rangarajan",
-    "dr dk srivastava": "d-k-srivastava",
-    "j k dhairyawan": "j-k-dhairyawan",
-    "kishore valicha": "kishore-valicha",
-    "ajit bhattacharjea": "ajit-bhattacharjea",
-    "kusum shrestha": "kusum-shrestha",
-    "fazal-ur-rahman": "fazal-ur-rahman",
-    "v vijayatunga": "v-vijayatunga",
-    "j vijayatunga": "v-vijayatunga",
-    "k sreeramamurty": "k-sreeramamurty",
-    "a d cohen": "a-d-cohen",
-    "k v subrahmanyam": "kv-subrahmanyam",
-    "t subbaya shetty": "t-subbaya-shetty",
-    "claret d'souza": "claret-dsouza",
-    "dr ashok v desai": "ashok-desai",
-    "dr ashok desai": "ashok-desai",
-    "b k nehru": "bk-nehru-cn",
-    "ruth benedict": "ruth-benedict",
-    "aldous huxley": "aldous-huxley",
-    "ralph waldo emerson": "ralph-waldo-emerson",
-    "bernard shaw": "bernard-shaw",
-    "robert mcnamara": "robert-mcnamara",
-    "carlos romulo": "carlos-romulo",
-    "john kennedy": "john-f-kennedy",
-    "general ayub khan": "ayub-khan",
-    "iskander mirza": "iskander-mirza",
-    "feroz khan noon": "feroz-khan-noon",
-    "chou en-lai": "zhou-enlai",
-    "ngapo ngawang jigme": "ngapo-ngawang-jigme",
-    "prof samdhong rinpoche": "samdhong-rinpoche",
-    "h narayan rao": "h-narayan-rao",
-    "j r marshall": "j-r-marshall",
-    "professor p v sukhatme": "p-v-sukhatme",
-    "richard plaster": "richard-plaster",
+    "ઇલા ર ભટ્ટ": "ila-bhatt",
+    "ઈલા ર ભટ્ટ": "ila-bhatt",
     "ઈસ્માઈલ ગાંધી": "ismail-gandhi",
     "જાવેદ આનંદ": "javed-anand",
+    "ડંકેશ ઓઝા": "dankesh-oza",
+    "તૃપ્તિ પારેખ": "trupti-parekh",
+    "તૃષિ પારેખ": "trupti-parekh",
     "મહેબૂબ દેસાઈ": "mehboob-desai",
+    "રાજેશ મિશ્રા": "rajesh-mishra",
+    "સુરેશ પરીખ": "suresh-parikh",
     "સ્વામી આનંદ": "swami-anand",
-    "m r masani mp": "minoo-masani",
-    "sumati morarjee": "sumati-morarjee",
-    "r k hazari": "r-k-hazari",
-    "सौविक चक्रवर्ती": "sauvik-chakraverti",
-    "के चरण सिंह": "charan-singh",
-    "atal behari vajpayee": "atal-bihari-vajpayee",
-    "m a sreenivasan": "ma-sreenivasan",
-    "mr s v raju": "s-v-raju",
-    "drajit karnik": "ajit-karnik",
-    "dr ajit karnik": "ajit-karnik"
+    "હિમાંશી શેલત": "himanshi-shelat"
   }
 }

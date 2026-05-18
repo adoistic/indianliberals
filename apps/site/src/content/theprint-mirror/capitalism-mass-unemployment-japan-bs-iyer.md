@@ -5,11 +5,12 @@ pubDate: 2026-02-07T12:12:47
 author_name: "BS Iyer"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/capitalism-mass-unemployment-japan-bs-iyer/2848007/"
 themes: ["capitalism", "socialism", "unemployment"]
-related_thinkers: []
+related_thinkers: ["bs-iyer"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/capitalism-mass-unemployment-japan-bs-iyer/2848007/) on 2026-05-16. Originally published 2026-02-07. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

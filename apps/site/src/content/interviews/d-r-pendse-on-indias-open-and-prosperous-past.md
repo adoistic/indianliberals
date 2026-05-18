@@ -10,6 +10,7 @@ draft: false
 subject_name: "D R Pendse on India’s ‘Open and Prosperous Past’"
 youtube_url: "https://www.youtube.com/watch?v=DKkwm22E5bY"
 transcript_status: "none"
+subject: "d-r-pendse"
 ---
 
 ---

@@ -10,6 +10,7 @@ draft: false
 subject_name: "S. Divakara on Nani Palkhivala's Union Budget Commentaries"
 youtube_url: "https://www.youtube.com/watch?v=3imZDLWPs3A"
 transcript_status: "none"
+
 ---
 
 S. Divakara, Director-General of the Forum of Free Enterprise speaking about Nani Palkhivala's famous Union Budget commentaries. These commentaries used to be annually organised by the Forum in Bombay soon after Finance Minister's annual budget speeches.

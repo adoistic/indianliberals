@@ -10,6 +10,8 @@ draft: false
 subject_name: "Making Tax Compliance Attractive"
 youtube_url: "https://www.youtube.com/watch?v=mxCM_l9DPzI"
 transcript_status: "none"
+
+subject: "making-tax-compliance-attractive"
 ---
 
 Why is tax-compliance so low in our country and is our State penalizing honest tax payers

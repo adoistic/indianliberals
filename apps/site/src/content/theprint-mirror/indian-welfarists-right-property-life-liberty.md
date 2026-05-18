@@ -5,11 +5,12 @@ pubDate: 2026-03-07T12:12:25
 author_name: "G Jayachandran"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-welfarists-right-property-life-liberty/2872286/"
 themes: ["welfare-state"]
-related_thinkers: []
+related_thinkers: ["g-jayachandran"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indian-welfarists-right-property-life-liberty/2872286/) on 2026-05-16. Originally published 2026-03-07. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

@@ -5,11 +5,12 @@ pubDate: 2025-12-13T09:04:09
 author_name: "Ashok Desai"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/economic-controls-in-india-liberalisation-history/2804705/"
 themes: ["1991-reforms", "liberalism"]
-related_thinkers: []
+related_thinkers: ["ashok-desai"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/economic-controls-in-india-liberalisation-history/2804705/) on 2026-05-16. Originally published 2025-12-13. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

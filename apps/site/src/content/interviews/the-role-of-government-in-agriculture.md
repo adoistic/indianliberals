@@ -10,6 +10,7 @@ draft: false
 subject_name: "What is the Role of Government in Agriculture?"
 youtube_url: "https://www.youtube.com/watch?v=azQ-UjT-zHA"
 transcript_status: "none"
+
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/hashtag/indianliberals) video, Mr. Anil Ghanwat ( President, Shetkari Sanghathana) discusses the Government's role in agriculture.

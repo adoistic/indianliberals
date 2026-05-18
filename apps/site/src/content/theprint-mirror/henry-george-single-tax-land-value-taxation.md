@@ -5,11 +5,12 @@ pubDate: 2025-12-20T11:48:50
 author_name: "DM Kulkarni"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/henry-george-single-tax-land-value-taxation/2809653/"
 themes: ["indian-liberals-matter", "single-tax-rate"]
-related_thinkers: []
+related_thinkers: ["dm-kulkarni"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/henry-george-single-tax-land-value-taxation/2809653/) on 2026-05-16. Originally published 2025-12-20. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

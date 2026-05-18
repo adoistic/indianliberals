@@ -10,6 +10,7 @@ draft: false
 subject_name: "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal"
 youtube_url: "https://www.youtube.com/watch?v=3S_AFbaYqZs"
 transcript_status: "none"
+subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group speaks about getting disillusioned with socialism and his journey to become a liberal.

@@ -5,11 +5,12 @@ pubDate: 2025-11-15T12:43:08
 author_name: "KD Valicha"
 theprint_url: "https://theprint.in/opinion/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha/2784867/"
 themes: ["liberalism", "socialism"]
-related_thinkers: []
+related_thinkers: ["kd-valicha"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha/2784867/) on 2026-05-16. Originally published 2025-11-15. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

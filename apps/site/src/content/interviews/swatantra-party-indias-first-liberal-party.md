@@ -10,6 +10,7 @@ draft: false
 subject_name: "Swatantra Party : India's First Liberal Party"
 youtube_url: "https://www.youtube.com/watch?v=yHRwzulx6dY"
 transcript_status: "none"
+
 ---
 
 Swatantra Party was the first political party in India to openly endorse liberal values and market-friendly economic policies. Through its brief but strong tenure of 15 years, the party exercised wide reach throughout India, and exerted significant pressures on issues ranging from industry to foreign policy. Watch this video to know more about the party and its founder, C Rajagopalachari!

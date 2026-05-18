@@ -5,11 +5,12 @@ pubDate: 2025-10-18T13:13:27
 author_name: "Tahir Siddiqui"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hitlerite-vegetarianism-india-food-science-sentiment/2766589/"
 themes: ["vegetarianism"]
-related_thinkers: []
+related_thinkers: ["tahir-siddiqui"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/hitlerite-vegetarianism-india-food-science-sentiment/2766589/) on 2026-05-16. Originally published 2025-10-18. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

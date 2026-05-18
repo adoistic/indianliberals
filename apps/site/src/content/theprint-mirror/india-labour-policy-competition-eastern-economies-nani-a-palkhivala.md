@@ -5,11 +5,12 @@ pubDate: 2025-11-22T12:01:24
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/india-labour-policy-competition-eastern-economies-nani-a-palkhivala/2789818/"
 themes: ["labour-policies"]
-related_thinkers: []
+related_thinkers: ["nani-palkhivala"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/india-labour-policy-competition-eastern-economies-nani-a-palkhivala/2789818/) on 2026-05-16. Originally published 2025-11-22. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
-import { getCollection, render } from "astro:content";
+import { getCollection, getEntry, render } from "astro:content";
 import RelatedSection from "~/components/RelatedSection.astro";
 
 export async function getStaticPaths() {
@@ -18,6 +18,11 @@ function youtubeEmbedSrc(url: string | undefined): string | null {
 }
 
 const embed = youtubeEmbedSrc(i.data.youtube_url);
+
+// Resolve the subject thinker (if linked via the structured ref) so the
+// byline can be a hyperlink to the thinker bio page. Falls back to plain
+// text from subject_name when the resolver didn't find a match.
+const subjectEntry = i.data.subject ? await getEntry(i.data.subject) : null;
 ---
 
 <BaseLayout title={`${i.data.title} — Indian Liberals`}>
@@ -27,7 +32,22 @@ const embed = youtubeEmbedSrc(i.data.youtube_url);
         Interview · audio/video
       </p>
       <h1 class="text-(--color-fg) leading-tight">{i.data.title}</h1>
-      <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
+      {(subjectEntry || i.data.subject_name) && (
+        <p class="mt-4 text-base text-(--color-fg) font-(family-name:--font-ui)">
+          With{" "}
+          {subjectEntry ? (
+            <a href={`/thinkers/${subjectEntry.id}/`} class="text-(--color-forest-700) font-semibold">
+              {subjectEntry.data.name.canonical}
+            </a>
+          ) : (
+            i.data.subject_name
+          )}
+          {i.data.interviewer && (
+            <span class="text-(--color-fg-muted)"> · interviewed by {i.data.interviewer}</span>
+          )}
+        </p>
+      )}
+      <p class="mt-2 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
         {new Date(i.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
       </p>
     </header>

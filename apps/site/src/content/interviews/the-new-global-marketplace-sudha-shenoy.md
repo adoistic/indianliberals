@@ -10,6 +10,7 @@ draft: false
 subject_name: "The New Global Marketplace | Sudha Shenoy"
 youtube_url: "https://www.youtube.com/watch?v=y856OjQDLwg"
 transcript_status: "none"
+
 ---
 
 ---

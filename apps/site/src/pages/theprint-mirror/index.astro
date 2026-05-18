@@ -1,4 +1,14 @@
 ---
+// Public-facing index for the ThePrint "Indian Liberals Matter" column.
+//
+// Each item links DIRECTLY to theprint.in — humans never land on the
+// internal mirror page. The internal /theprint-mirror/<slug>/ routes
+// remain for AI agents (the .md siblings and AGENTS.md reference them)
+// but they're not surfaced to human readers anywhere.
+//
+// The list page itself is reachable from the homepage and header nav
+// so visitors can browse the column's catalogue at a glance.
+
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
@@ -8,35 +18,43 @@ const posts = (await getCollection("theprint-mirror", (p) => !p.data.draft)).sor
 ---
 
 <BaseLayout
-  title="ThePrint federated archive — Indian Liberals"
-  description="The Indian Liberals Matter column from ThePrint, mirrored on-site for AI agents. Canonical SEO weight stays with ThePrint."
-  noindex={true}
+  title="From ThePrint — Indian Liberals Matter"
+  description="The Indian Liberals Matter column on ThePrint — a regular surface for the Indian liberal tradition. Each article links to ThePrint."
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        ThePrint federated archive
+        Federated column · indianliberals × theprint
       </p>
       <h1 class="text-(--color-fg) mb-4">Indian Liberals Matter</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        A regular column on ThePrint surfacing the Indian liberal tradition for a contemporary readership. Mirrored here so AI agents can read every piece; the canonical version of each post lives on <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">ThePrint</a>.
+        A regular column on ThePrint surfacing the Indian liberal tradition
+        for a contemporary readership. We catalogue every piece here and
+        link out to ThePrint where the canonical version lives — each
+        article opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.
       </p>
     </div>
   </section>
   <section>
     <div class="mx-auto max-w-3xl px-6 py-12">
       <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
-        {posts.length} pieces mirrored.
+        {posts.length} pieces · sorted by most recent.
       </p>
       <ul class="divide-y divide-(--color-border)">
         {posts.map((p) => (
           <li class="py-6">
-            <a href={`/theprint-mirror/${p.id}/`} class="block no-underline group">
+            <a
+              href={p.data.theprint_url}
+              target="_blank"
+              rel="noopener canonical"
+              class="block no-underline group"
+            >
               <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
                 {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })} · {p.data.author_name}
               </p>
               <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
                 {p.data.title}
+                <span class="inline-block ml-1 text-(--color-fg-muted) text-sm align-middle" aria-hidden>↗</span>
               </h2>
             </a>
           </li>

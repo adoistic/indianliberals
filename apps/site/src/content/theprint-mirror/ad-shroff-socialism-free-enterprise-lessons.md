@@ -5,11 +5,12 @@ pubDate: 2025-11-29T11:23:28
 author_name: "AD Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/ad-shroff-socialism-free-enterprise-lessons/2794663/"
 themes: ["russia", "soviet-union"]
-related_thinkers: []
+related_thinkers: ["a-d-shroff"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/ad-shroff-socialism-free-enterprise-lessons/2794663/) on 2026-05-16. Originally published 2025-11-29. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

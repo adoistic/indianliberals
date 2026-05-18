@@ -10,6 +10,8 @@ draft: false
 subject_name: "D R Pendse on the 1991 Crisis"
 youtube_url: "https://www.youtube.com/watch?v=gXe-SwtuHww"
 transcript_status: "none"
+
+subject: "d-r-pendse"
 ---
 
 ---

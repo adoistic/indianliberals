@@ -10,6 +10,7 @@ draft: false
 subject_name: "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise"
 youtube_url: "https://www.youtube.com/watch?v=0rI3OuqWi7k"
 transcript_status: "none"
+subject: "minoo-shroff"
 ---
 
 Minoo Shroff talks about A D Shroff Memorial Trust and the Forum of Free Enterprise.

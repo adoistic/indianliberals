@@ -5,11 +5,12 @@ pubDate: 2026-02-28T12:57:22
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/collectivism-liberty-limited-state-ma-venkata-rao/2866268/"
 themes: ["indian-liberals-matter", "john-stuart-mill", "karl-marx", "libertarianism", "marxism"]
-related_thinkers: []
+related_thinkers: ["ma-venkata-rao"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/collectivism-liberty-limited-state-ma-venkata-rao/2866268/) on 2026-05-16. Originally published 2026-02-28. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

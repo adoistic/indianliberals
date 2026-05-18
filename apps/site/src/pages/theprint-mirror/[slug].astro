@@ -1,17 +1,26 @@
 ---
+// Per-article landing page for an Indian Liberals Matter ThePrint piece.
+//
+// HUMAN view: minimal — title, byline (linking to thinker bio when
+// resolved), date, and a prominent "Read on ThePrint" CTA. We do NOT
+// render the article body for human readers; canonical content lives on
+// theprint.in and that's where readers should go. The page sets
+// noindex so search engines don't surface this stub.
+//
+// AI agents read the full body via the sibling endpoint at
+// `/theprint-mirror/<slug>.md` — that's the route that fulfils the
+// "AI-readable, human-redirected" intent.
+
 import BaseLayout from "~/layouts/BaseLayout.astro";
-import { getCollection, render } from "astro:content";
+import { getCollection, getEntry } from "astro:content";
 import { hreflangAlternates } from "~/lib/i18n";
-import RelatedSection from "~/components/RelatedSection.astro";
 
 export async function getStaticPaths() {
-  // ThePrint mirror is mostly English — but we still pass language for SEO.
   const posts = await getCollection("theprint-mirror", (p) => !p.data.draft);
   return posts.map((p) => ({ params: { slug: p.id }, props: { p } }));
 }
 
 const { p } = Astro.props;
-const { Content } = await render(p);
 
 const hreflang = hreflangAlternates(
   "theprint-mirror",
@@ -20,6 +29,9 @@ const hreflang = hreflangAlternates(
   p.data.translations,
   Astro.site!.origin,
 );
+
+const bylineRefs = p.data.related_thinkers ?? [];
+const bylineEntry = bylineRefs.length > 0 ? await getEntry(bylineRefs[0]) : null;
 ---
 
 <BaseLayout
@@ -36,26 +48,47 @@ const hreflang = hreflangAlternates(
       </p>
       <h1 class="text-(--color-fg) leading-tight">{p.data.title}</h1>
       <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
-        {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })} · By {p.data.author_name}
+        {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })} ·{" "}
+        By{" "}
+        {bylineEntry ? (
+          <a href={`/thinkers/${bylineEntry.id}/`} class="text-(--color-forest-700) font-semibold">
+            {bylineEntry.data.name.canonical}
+          </a>
+        ) : (
+          p.data.author_name
+        )}
       </p>
+    </header>
+
+    {/* Outbound CTA — the canonical article lives on theprint.in; readers
+        go there. We deliberately do not render the body for humans. */}
+    <div class="text-center py-8">
       <a
         href={p.data.theprint_url}
-        class="mt-4 inline-flex items-center gap-1.5 text-sm font-(family-name:--font-ui) text-(--color-forest-700) no-underline hover:underline"
-        rel="canonical noopener"
+        target="_blank"
+        rel="noopener canonical"
+        class="inline-flex items-center gap-2 px-6 py-3 bg-(--color-fg) text-(--color-bg) rounded-full text-sm font-semibold font-(family-name:--font-ui) no-underline hover:bg-(--color-forest-700) transition-colors"
       >
-        Read on ThePrint <span aria-hidden>↗</span>
+        Read the full article on ThePrint
+        <span aria-hidden>↗</span>
       </a>
-    </header>
-    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:my-5">
-      <Content />
+      {p.data.themes.length > 0 && (
+        <ul class="mt-6 flex flex-wrap gap-2 justify-center font-(family-name:--font-ui) text-xs">
+          {p.data.themes.map((th) => (
+            <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg-muted)">
+              {th.replace(/-/g, " ")}
+            </li>
+          ))}
+        </ul>
+      )}
     </div>
-    <footer class="mt-12 pt-6 border-t border-(--color-border) text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+
+    <footer class="mt-8 pt-6 border-t border-(--color-border) text-xs text-(--color-fg-muted) font-(family-name:--font-ui) text-center">
       <p>
-        Originally published on <a href={p.data.theprint_url} class="text-(--color-forest-700)" rel="canonical noopener">ThePrint</a>.
-        Mirrored here for AI-agent readability. The canonical version is on ThePrint and retains all SEO weight; this page is set to <code>noindex</code>.
+        Canonical version: <a href={p.data.theprint_url} class="text-(--color-forest-700)" target="_blank" rel="noopener canonical">{p.data.theprint_url}</a>.
+        This page is for navigation only — full article body is on ThePrint
+        (and available to AI agents via the <code>.md</code> sibling).
       </p>
     </footer>
-
-    <RelatedSection collection="theprint-mirror" slug={p.id} viewerLang={p.data.language} />
   </article>
 </BaseLayout>

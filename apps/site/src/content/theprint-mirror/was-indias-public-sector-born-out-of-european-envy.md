@@ -5,11 +5,12 @@ pubDate: 2025-09-20T13:54:34
 author_name: "BP Godrej"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/was-indias-public-sector-born-out-of-european-envy/2747391/"
 themes: ["free-market", "public-sector"]
-related_thinkers: []
+related_thinkers: ["bp-godrej"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/was-indias-public-sector-born-out-of-european-envy/2747391/) on 2026-05-16. Originally published 2025-09-20. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

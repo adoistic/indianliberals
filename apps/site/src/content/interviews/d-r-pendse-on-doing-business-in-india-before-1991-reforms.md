@@ -10,6 +10,8 @@ draft: false
 subject_name: "D R Pendse on Doing Business in India before 1991 Reforms"
 youtube_url: "https://www.youtube.com/watch?v=vbdFNzbM1P8"
 transcript_status: "none"
+
+subject: "d-r-pendse"
 ---
 
 ---

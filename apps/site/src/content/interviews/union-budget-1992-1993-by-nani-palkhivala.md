@@ -10,6 +10,8 @@ draft: false
 subject_name: "Union Budget 1992-93"
 youtube_url: "https://www.youtube.com/watch?v=br2z9rOkPbE"
 transcript_status: "none"
+
+subject: "union-budget-1992-93"
 ---
 
 Indian jurist and liberal economist Nani A Palkhivala authored a booklet on the Union Budget 1992-93, wherein he critically examines India’s first Union Budget post the 1991 liberalisation. Nani Palkhivala uses his ability to explain complex and often misunderstood references and proposals by the government to the mass audience without extracting the essence of a historical budget! Watch this video to understand his take on the budget in what he calls a “watershed budget.”

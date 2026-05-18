@@ -5,11 +5,12 @@ pubDate: 2026-01-31T09:34:09
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/welfare-state-is-socially-and-economically-a-national-disaster-gn-lawande/2841240/"
 themes: ["employment", "socialism", "welfare-state"]
-related_thinkers: []
+related_thinkers: ["g-n-lawande"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/welfare-state-is-socially-and-economically-a-national-disaster-gn-lawande/2841240/) on 2026-05-16. Originally published 2026-01-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

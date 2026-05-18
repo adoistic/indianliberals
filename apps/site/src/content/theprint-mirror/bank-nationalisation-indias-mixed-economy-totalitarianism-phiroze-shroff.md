@@ -5,11 +5,12 @@ pubDate: 2025-08-09T10:47:29
 author_name: "Phiroze J Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff/2717568/"
 themes: ["bank-nationalisation", "free-market", "indian-liberals-matter", "nationalisation-of-banks"]
-related_thinkers: []
+related_thinkers: ["phiroze-j-shroff"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff/2717568/) on 2026-05-16. Originally published 2025-08-09. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

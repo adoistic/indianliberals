@@ -5,11 +5,12 @@ pubDate: 2025-10-11T12:09:05
 author_name: "AG Mulgaokar"
 theprint_url: "https://theprint.in/opinion/fundamental-right-to-property-ag-mulgaokar/2761912/"
 themes: ["fundamental-right", "right-to-property"]
-related_thinkers: []
+related_thinkers: ["ag-mulgaokar"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/fundamental-right-to-property-ag-mulgaokar/2761912/) on 2026-05-16. Originally published 2025-10-11. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

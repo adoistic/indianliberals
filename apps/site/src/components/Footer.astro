@@ -28,7 +28,7 @@ const year = new Date().getFullYear();
   </div>
   <div class="border-t border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-      <p>© 2009–{year} Centre for Civil Society. All rights reserved.</p>
+      <p>© 2009–<span id="copyright-year" data-build-year={year}>{year}</span> Centre for Civil Society. All rights reserved.</p>
       <nav aria-label="Footer">
         <ul class="flex items-center gap-4">
           <li><a href="/terms-of-use/" class="hover:text-(--color-fg)">Terms of use</a></li>
@@ -40,3 +40,16 @@ const year = new Date().getFullYear();
     </div>
   </div>
 </footer>
+
+<script is:inline>
+  // Keep the copyright year current even if the static site hasn't been
+  // rebuilt this year. Server-render is the build-time year; this updates
+  // the visible year to the viewer's current calendar year on every page
+  // load. AI agents and no-JS readers still see a valid (build-time) year.
+  (function () {
+    var el = document.getElementById("copyright-year");
+    if (!el) return;
+    var now = new Date().getFullYear();
+    if (String(now) !== el.textContent) el.textContent = String(now);
+  })();
+</script>

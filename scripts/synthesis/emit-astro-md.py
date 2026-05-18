@@ -308,15 +308,55 @@ def emit_primary_work(slug: str) -> Path | None:
     if pub.get("edition"): pub_fm["edition"] = _str_val(pub["edition"])
     if pub.get("series"): pub_fm["series"] = _str_val(pub["series"])
 
-    # Authors: only emit thinker references (those with thinker_id resolved).
-    authors = [a["thinker_id"] for a in (meta.get("authors") or []) if isinstance(a, dict) and a.get("thinker_id")]
-    editors = [e["thinker_id"] for e in (meta.get("editors") or []) if isinstance(e, dict) and e.get("thinker_id")]
-    contribs = []
+    # Authors / contributors: resolve byline_verbatim → thinker_id against
+    # the cleaned authority byline_lookup at emit time. Without this the
+    # `authors[]` array stays empty for any work whose extraction-time
+    # resolver didn't catch the byline (most of the corpus). The thinker
+    # bio page's "Works in the archive" section depends on this.
+    bl = _byline_lookup()
+
+    def _resolve(byline_verbatim: str | None) -> str | None:
+        if not byline_verbatim:
+            return None
+        n = _normalise_byline(byline_verbatim)
+        if not n:
+            return None
+        # Try the full byline first, then strip honorific prefix.
+        if n in bl:
+            return bl[n]
+        n2 = re.sub(r"^(prof|dr|mr|mrs|ms|shri|sri|sir)\s+", "", n)
+        return bl.get(n2)
+
+    authors: list[str] = []
+    for a in (meta.get("authors") or []):
+        if not isinstance(a, dict):
+            continue
+        tid = a.get("thinker_id") or _resolve(a.get("byline_verbatim"))
+        if tid and tid not in authors:
+            authors.append(tid)
+
+    editors: list[str] = []
+    for e in (meta.get("editors") or []):
+        if not isinstance(e, dict):
+            continue
+        tid = e.get("thinker_id") or _resolve(e.get("byline_verbatim"))
+        if tid and tid not in editors:
+            editors.append(tid)
+
+    contribs: list[dict] = []
     for c in (meta.get("contributors") or []):
-        if not isinstance(c, dict): continue
-        item = {"role": c.get("role") or "author"}
-        if c.get("thinker_id"):
-            item["thinker"] = c["thinker_id"]
+        if not isinstance(c, dict):
+            continue
+        item: dict = {"role": c.get("role") or "author"}
+        tid = c.get("thinker_id") or _resolve(c.get("byline_verbatim"))
+        if tid:
+            item["thinker"] = tid
+            # Promote 'author' contributors into the top-level authors[] too,
+            # so the thinker bio page's "Works in the archive" cross-list
+            # populates without depending on the extraction's authors[] field
+            # (which is often empty even when contributors[] is rich).
+            if item["role"] == "author" and tid not in authors:
+                authors.append(tid)
         elif c.get("byline_verbatim"):
             item["thinker_unresolved"] = c["byline_verbatim"]
         if c.get("toc_index") is not None:
@@ -379,36 +419,104 @@ def emit_primary_work(slug: str) -> Path | None:
 
     body = _work_body_md(meta, summ)
     path = WORKS_DIR / f"{work_id}.md"
-    wrote = write_md(path, fm, body)
+    # Primary-works are 100% machine-emitted from bake-off-output. They have
+    # no hand-curated bodies to protect — overwriting is the correct policy
+    # so re-running this script after a metadata/body fix actually updates
+    # the rendered file. (Hand-curated thinkers + organisations stay
+    # protected because their emit fns use the default overwrite=False.)
+    wrote = write_md(path, fm, body, overwrite=True)
     return path if wrote else None
 
 
+# Cached byline lookup: normalised byline → thinker_id. Lazy-loaded from the
+# authority file on first use. Used by emit_primary_work to resolve any
+# contributor whose extraction-time resolver came up empty.
+_BYLINE_LOOKUP_CACHE: dict[str, str] | None = None
+
+
+def _byline_lookup() -> dict[str, str]:
+    global _BYLINE_LOOKUP_CACHE
+    if _BYLINE_LOOKUP_CACHE is None:
+        doc = _load(AUTH_DIR / "thinkers.json") or {}
+        _BYLINE_LOOKUP_CACHE = dict(doc.get("byline_lookup", {}))
+    return _BYLINE_LOOKUP_CACHE
+
+
+def _normalise_byline(s: str) -> str:
+    """Match the byline_lookup normalisation: lowercase, drop punct/honorifics
+    that the authority strips during lookup-key generation."""
+    s = s.lower().replace(".", " ").replace(",", " ").replace("-", " ").replace("'", "").replace("’", "")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+# Cached thinker name lookup: slug → canonical name. Lazy-loaded on first use.
+_THINKER_NAME_CACHE: dict[str, str] | None = None
+
+
+def _thinker_name(slug: str | None) -> str | None:
+    """Resolve a thinker slug to its canonical display name. Returns None if
+    the slug isn't in the authority file (caller should fall back to the
+    verbatim byline string)."""
+    global _THINKER_NAME_CACHE
+    if not slug:
+        return None
+    if _THINKER_NAME_CACHE is None:
+        doc = _load(AUTH_DIR / "thinkers.json") or {}
+        _THINKER_NAME_CACHE = {}
+        for t in doc.get("thinkers", []):
+            name = t.get("name", {})
+            canonical = name.get("canonical") or name.get("full") or t.get("id")
+            if t.get("id") and canonical:
+                _THINKER_NAME_CACHE[t["id"]] = canonical
+    return _THINKER_NAME_CACHE.get(slug)
+
+
 def _short_summary(summ: dict) -> str:
-    """Extract a short prose summary (volume_summary or summary), capped at 800 chars."""
+    """Extract a prose summary (volume_summary or summary) for the frontmatter
+    `summary` field. Used for og:description previews + Pagefind index entry;
+    NOT shown to humans on the detail page (that renders the full body). A
+    1200-char soft cap keeps the og:description reasonable; longer summaries
+    are truncated at a sentence boundary with an ellipsis."""
     if not summ:
         return ""
     text = summ.get("volume_summary") or summ.get("summary") or ""
     if not isinstance(text, str):
         text = str(text)
     text = text.strip()
-    if len(text) > 800:
-        text = text[:797] + "..."
+    if len(text) > 1200:
+        # Snap to the last sentence end before 1200 to avoid mid-word cuts
+        cut = text.rfind(". ", 0, 1200)
+        if cut < 600:
+            cut = 1197
+        text = text[: cut + 1] + "…"
     return text
 
 
 def _work_body_md(meta: dict, summ: dict) -> str:
-    """Generate the MD body — prose summary, key points, pull quotes."""
+    """Generate the MD body — prose summary, key points, per-essay summaries.
+
+    The body is what's rendered to humans on the detail page (the page's
+    frontmatter `summary` is for og:description / Pagefind only). So we
+    emit FULL summaries here, not truncated previews."""
     title = _str_val((meta.get("title") or {}).get("main"), "Untitled")
     lines = [f"# {title}\n"]
 
-    # Authors line
+    # Authors line — resolve slugs to canonical names where possible.
     authors = meta.get("authors") or []
     if authors:
-        names = [a.get("byline_verbatim") or a.get("thinker_id") or "?" for a in authors if isinstance(a, dict)]
+        names = []
+        for a in authors:
+            if not isinstance(a, dict):
+                continue
+            tid = a.get("thinker_id") or a.get("id")
+            byline = a.get("byline_verbatim")
+            label = _thinker_name(tid) or byline or tid or "?"
+            names.append(label)
         if names:
             lines.append(f"*By {', '.join(names)}*\n")
 
-    # Summary prose
+    # Summary prose — full text, not truncated.
     text = summ.get("volume_summary") or summ.get("summary") or ""
     if isinstance(text, str) and text.strip():
         lines.append("## Summary\n")
@@ -425,33 +533,57 @@ def _work_body_md(meta: dict, summ: dict) -> str:
                 lines.append(f"- {text}\n")
         lines.append("")
 
-    # Per-essay summaries (multi-author shape)
+    # Per-essay summaries (multi-author shape) — join essay summaries to TOC
+    # entries by `toc_index` to get the real essay title + byline. Without
+    # the join the body shows "Essay (toc 1)" + the author slug ("b-r-shenoy")
+    # instead of "Whither Indian Planning?" + "Sir H. P. Mody".
     essays = summ.get("essays_summarized") or []
+    toc_entries = (meta.get("toc") or {}).get("entries") or []
+    toc_by_index = {te.get("toc_index"): te for te in toc_entries if isinstance(te, dict)}
+
     if essays:
         lines.append("## Essays\n")
         for e in essays:
-            if not isinstance(e, dict): continue
+            if not isinstance(e, dict):
+                continue
             ti = e.get("toc_index")
             ess_ss = e.get("summary_structured") or {}
-            author_resolved = e.get("author_resolved") or {}
-            if isinstance(author_resolved, dict):
-                author_label = author_resolved.get("byline_verbatim") or author_resolved.get("thinker_id") or ""
-            else:
-                author_label = str(author_resolved)
-            etitle = e.get("title") or f"Essay (toc {ti})"
+            te = toc_by_index.get(ti) or {}
+
+            # Title: prefer essay payload's own title, then TOC title, then a
+            # last-resort label noting which TOC entry this is.
+            etitle = e.get("title") or te.get("title") or f"Essay {ti}" if ti is not None else "Essay"
+
+            # Byline: try essay's author_resolved (a slug), then resolve via
+            # authority for the canonical display name. Fall back to the TOC
+            # entry's byline_verbatim (the as-printed name).
+            author_slug = e.get("author_resolved")
+            if isinstance(author_slug, dict):
+                author_slug = author_slug.get("thinker_id") or author_slug.get("id")
+            author_label = (
+                _thinker_name(author_slug)
+                or te.get("byline_verbatim")
+                or e.get("author_unresolved")
+                or ""
+            )
+
             lines.append(f"### {etitle}")
             if author_label:
-                lines.append(f"*{author_label}*\n")
+                lines.append(f"*By {author_label}*\n")
+
+            # FULL essay summary — no mid-essay truncation.
             ess_summary = e.get("summary") or ""
             if ess_summary:
-                lines.append(ess_summary[:500] + ("..." if len(ess_summary) > 500 else "") + "\n")
-            for kp in (ess_ss.get("key_points") or [])[:3]:
+                lines.append(ess_summary.strip() + "\n")
+
+            # All key points, not just 3.
+            for kp in (ess_ss.get("key_points") or []):
                 text = kp if isinstance(kp, str) else (kp.get("text") or "")
                 if text:
                     lines.append(f"- {text}")
             lines.append("")
 
-    lines.append("\n---\n\n*Generated by the v1.5 extraction pipeline (2026-05-17). Awaiting editorial review.*\n")
+    lines.append("\n---\n\n*Generated by the v1.5 extraction pipeline. Awaiting editorial review.*\n")
     return "\n".join(lines)
 
 

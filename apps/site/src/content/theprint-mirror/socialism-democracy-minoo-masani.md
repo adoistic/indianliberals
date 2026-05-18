@@ -5,11 +5,12 @@ pubDate: 2026-02-14T11:28:58
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/socialism-democracy-minoo-masani/2854700/"
 themes: ["liberalism", "majority-rule", "minoo-masani"]
-related_thinkers: []
+related_thinkers: ["minoo-masani"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/socialism-democracy-minoo-masani/2854700/) on 2026-05-16. Originally published 2026-02-14. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

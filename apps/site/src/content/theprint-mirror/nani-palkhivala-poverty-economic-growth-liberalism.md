@@ -5,11 +5,12 @@ pubDate: 2026-01-17T13:00:32
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/nani-palkhivala-poverty-economic-growth-liberalism/2829385/"
 themes: ["economic-policies", "indian-liberals-matter", "nani-palkhivala", "poverty"]
-related_thinkers: []
+related_thinkers: ["nani-palkhivala"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/nani-palkhivala-poverty-economic-growth-liberalism/2829385/) on 2026-05-16. Originally published 2026-01-17. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

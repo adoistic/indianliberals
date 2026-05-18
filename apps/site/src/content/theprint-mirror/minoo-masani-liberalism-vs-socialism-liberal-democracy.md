@@ -5,11 +5,12 @@ pubDate: 2025-07-26T09:44:16
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-vs-socialism-liberal-democracy/2702912/"
 themes: ["indian-liberals-matter", "liberal-democracy", "liberalism", "minoo-masani", "socialism"]
-related_thinkers: []
+related_thinkers: ["minoo-masani"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-vs-socialism-liberal-democracy/2702912/) on 2026-05-16. Originally published 2025-07-26. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

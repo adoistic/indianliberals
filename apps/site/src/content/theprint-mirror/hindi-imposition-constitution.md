@@ -5,11 +5,12 @@ pubDate: 2025-12-06T11:43:14
 author_name: "P Kodanda Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hindi-imposition-constitution/2799636/"
 themes: ["constituent-assembly", "hindi-imposition"]
-related_thinkers: []
+related_thinkers: ["p-kodanda-rao"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/hindi-imposition-constitution/2799636/) on 2026-05-16. Originally published 2025-12-06. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

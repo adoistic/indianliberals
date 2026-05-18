@@ -8,7 +8,7 @@ ideology:
   - classical_liberal
   - agrarian_reform
 needs_review: true
-draft: true
+draft: false
 ---
 
 # janashakti-books-and-publications

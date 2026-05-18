@@ -10,6 +10,7 @@ draft: false
 subject_name: "Centre for Civil Society : A Journey in Time"
 youtube_url: "https://www.youtube.com/watch?v=WGEp5QOr51g"
 transcript_status: "none"
+
 ---
 
 In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Dr Parth J. Shah ( President, Centre for Civil Society) takes us on a journey in time and talks about Centre for Civil Society's two decades of work in advancing liberalism in India.

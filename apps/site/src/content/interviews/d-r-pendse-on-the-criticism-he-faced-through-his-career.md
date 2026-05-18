@@ -10,6 +10,8 @@ draft: false
 subject_name: "D R Pendse on the Criticism he faced through his Career"
 youtube_url: "https://www.youtube.com/watch?v=lrZSeDVMwEI"
 transcript_status: "none"
+
+subject: "d-r-pendse"
 ---
 
 ---

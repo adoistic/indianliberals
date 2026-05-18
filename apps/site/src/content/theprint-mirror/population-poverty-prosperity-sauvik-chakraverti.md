@@ -5,11 +5,12 @@ pubDate: 2025-11-08T12:43:48
 author_name: "Sauvik Chakraverti"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/population-poverty-prosperity-sauvik-chakraverti/2779838/"
 themes: ["indian-liberals-matter", "overpopulation", "poverty"]
-related_thinkers: []
+related_thinkers: ["sauvik-chakraverti"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/population-poverty-prosperity-sauvik-chakraverti/2779838/) on 2026-05-16. Originally published 2025-11-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

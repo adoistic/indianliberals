@@ -5,11 +5,12 @@ pubDate: 2025-07-19T11:48:17
 author_name: "DN Hosali"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first/2695489/"
 themes: ["indian-liberals-matter", "indian-private-sector", "industrialisation"]
-related_thinkers: []
+related_thinkers: ["dn-hosali"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first/2695489/) on 2026-05-16. Originally published 2025-07-19. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

@@ -15,6 +15,45 @@ export async function getStaticPaths() {
 const { t } = Astro.props;
 const { Content } = await render(t);
 
+// Aggregate everywhere this thinker is referenced. The resolve-bylines.py
+// backfill populated structured refs (author / subject / related_thinkers)
+// from string author_name / subject_name fields, so we can compute the
+// reverse direction here at build time without runtime cost.
+const [allInterviews, allTheprint, allOpinions, allMusings, allWorks] = await Promise.all([
+  getCollection("interviews", (e) => !e.data.draft),
+  getCollection("theprint-mirror", (e) => !e.data.draft),
+  getCollection("opinions", (e) => !e.data.draft),
+  getCollection("musings", (e) => !e.data.draft),
+  getCollection("primary-works", (e) => !e.data.draft && e.data.language === "en"),
+]);
+
+function refMatches(ref: { id?: string } | string | undefined, id: string): boolean {
+  if (!ref) return false;
+  if (typeof ref === "string") return ref === id;
+  return ref.id === id;
+}
+
+const interviewMentions = allInterviews.filter((i) => refMatches(i.data.subject, t.id));
+const theprintMentions = allTheprint.filter((p) =>
+  (p.data.related_thinkers ?? []).some((r) => refMatches(r, t.id)),
+);
+const opinionMentions = allOpinions.filter((o) =>
+  refMatches(o.data.author, t.id) ||
+  (o.data.related_thinkers ?? []).some((r) => refMatches(r, t.id)),
+);
+const musingMentions = allMusings.filter((m) => refMatches(m.data.author, t.id));
+// Primary works where this thinker is an author or contributor
+const worksByThisThinker = allWorks
+  .filter((w) =>
+    (w.data.authors ?? []).some((a) => refMatches(a, t.id)) ||
+    (w.data.contributors ?? []).some((c) => refMatches(c.thinker, t.id)),
+  )
+  .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
+
+const totalMentions =
+  interviewMentions.length + theprintMentions.length +
+  opinionMentions.length + musingMentions.length;
+
 const hreflang = hreflangAlternates(
   "thinkers",
   t.id,
@@ -123,6 +162,102 @@ const bioSourceLabel = {
           </div>
         )}
       </aside>
+    )}
+
+    {/* Works authored or co-authored by this thinker */}
+    {worksByThisThinker.length > 0 && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+          Works in the archive ({worksByThisThinker.length})
+        </h2>
+        <ul class="divide-y divide-(--color-border)">
+          {worksByThisThinker.slice(0, 20).map((w) => (
+            <li class="py-3">
+              <a href={`/primary-works/${w.id}/`} class="block group no-underline">
+                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
+                  {w.data.title.main}
+                </div>
+                <div class="text-sm text-(--color-fg-muted)">
+                  {w.data.publication?.year ?? "n.d."} · {w.data.work_type.replace(/_/g, " ")}
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+        {worksByThisThinker.length > 20 && (
+          <p class="mt-4 text-sm text-(--color-fg-muted)">…and {worksByThisThinker.length - 20} more</p>
+        )}
+      </section>
+    )}
+
+    {/* Mentions across the archive: interviews, ThePrint, opinions, musings */}
+    {totalMentions > 0 && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+          Mentions across the archive ({totalMentions})
+        </h2>
+        <div class="grid gap-6 md:grid-cols-2">
+          {interviewMentions.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Interviews ({interviewMentions.length})</h3>
+              <ul class="space-y-2">
+                {interviewMentions.map((i) => (
+                  <li>
+                    <a href={`/interviews/${i.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {i.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {theprintMentions.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">ThePrint articles ({theprintMentions.length})</h3>
+              <ul class="space-y-2">
+                {theprintMentions.slice(0, 10).map((p) => (
+                  <li>
+                    <a href={`/theprint-mirror/${p.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {p.data.title}
+                    </a>
+                  </li>
+                ))}
+                {theprintMentions.length > 10 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {theprintMentions.length - 10} more</li>
+                )}
+              </ul>
+            </div>
+          )}
+          {opinionMentions.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionMentions.length})</h3>
+              <ul class="space-y-2">
+                {opinionMentions.slice(0, 10).map((o) => (
+                  <li>
+                    <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {o.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {musingMentions.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Excerpts ({musingMentions.length})</h3>
+              <ul class="space-y-2">
+                {musingMentions.slice(0, 10).map((m) => (
+                  <li>
+                    <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {m.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      </section>
     )}
 
     <RelatedSection collection="thinkers" slug={t.id} viewerLang={t.data.language} />

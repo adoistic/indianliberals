@@ -5,11 +5,12 @@ pubDate: 2025-06-28T10:00:18
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/prices-like-water-will-find-their-own-level-controls-breed-vested-interests-minoo-masani/2670255/"
 themes: ["indian-liberals-matter", "minoo-masani"]
-related_thinkers: []
+related_thinkers: ["minoo-masani"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/prices-like-water-will-find-their-own-level-controls-breed-vested-interests-minoo-masani/2670255/) on 2026-05-16. Originally published 2025-06-28. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

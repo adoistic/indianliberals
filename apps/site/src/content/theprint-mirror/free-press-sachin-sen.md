@@ -5,11 +5,12 @@ pubDate: 2025-10-25T11:59:56
 author_name: "Sachin Sen"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/free-press-sachin-sen/2770399/"
 themes: ["free-press", "freedom-of-press"]
-related_thinkers: []
+related_thinkers: ["sachin-sen"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/free-press-sachin-sen/2770399/) on 2026-05-16. Originally published 2025-10-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

@@ -5,11 +5,12 @@ pubDate: 2026-03-21T10:52:05
 author_name: "BR Shenoy"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/social-injustice-socialist-economic-systems-br-shenoy/2884958/"
 themes: ["communist", "consumer-sovereignty", "employment"]
-related_thinkers: []
+related_thinkers: ["b-r-shenoy"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/social-injustice-socialist-economic-systems-br-shenoy/2884958/) on 2026-05-16. Originally published 2026-03-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

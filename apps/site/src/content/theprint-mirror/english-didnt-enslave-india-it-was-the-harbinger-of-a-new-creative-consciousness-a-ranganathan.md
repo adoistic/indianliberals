@@ -5,11 +5,12 @@ pubDate: 2025-10-04T09:26:20
 author_name: "A Ranganathan"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/english-didnt-enslave-india-it-was-the-harbinger-of-a-new-creative-consciousness-a-ranganathan/2756857/"
 themes: ["indian-liberals-matter", "rabindranath-tagore"]
-related_thinkers: []
+related_thinkers: ["a-ranganathan"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/english-didnt-enslave-india-it-was-the-harbinger-of-a-new-creative-consciousness-a-ranganathan/2756857/) on 2026-05-16. Originally published 2025-10-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

@@ -2,7 +2,11 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
-const thinkers = (await getCollection("thinkers", (t) => !t.data.draft && t.data.language === "en")).sort(
+// Surface every thinker (no draft filter) — placeholder bios are visible
+// so readers can navigate from cross-links and discover the full breadth
+// of the index. Each entry's bio_source field tells you whether it's
+// canonical, AI-drafted, or an imported stub.
+const thinkers = (await getCollection("thinkers", (t) => t.data.language === "en")).sort(
   (a, b) => a.data.name.sort.localeCompare(b.data.name.sort),
 );
 
@@ -32,7 +36,12 @@ const treatmentFor = (t: typeof thinkers[number]) => {
   <section>
     <div class="mx-auto max-w-6xl px-6 py-12">
       <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
-        {thinkers.length} thinkers in the catalog.
+        {thinkers.length} thinkers in the catalog. Bios marked
+        <em class="not-italic px-1.5 py-0.5 mx-1 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">Imported</em>
+        or
+        <em class="not-italic px-1.5 py-0.5 mx-1 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">Draft</em>
+        on the bio page are AI-identified figures awaiting editorial expansion; their
+        works and mentions are still cross-linked across the archive.
       </p>
       <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
         {thinkers.map((t) => {

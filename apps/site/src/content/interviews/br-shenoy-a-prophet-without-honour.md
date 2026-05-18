@@ -10,6 +10,8 @@ draft: false
 subject_name: "BR Shenoy - A Prophet Without Honour?"
 youtube_url: "https://www.youtube.com/watch?v=ij6KISXzIGM"
 transcript_status: "none"
+
+subject: "b-r-shenoy"
 ---
 
 Why was BR Shenoy, one among few Indian economists who spoke out against the socialist planning approach considered a prophet without honour in his own country? Is he forgotten for the wrong reasons?

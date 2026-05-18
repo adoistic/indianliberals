@@ -10,6 +10,8 @@ draft: false
 subject_name: "D R Pendse on Liberating India s Entrepreneurs"
 youtube_url: "https://www.youtube.com/watch?v=VJtw5aOk1Pw"
 transcript_status: "none"
+
+subject: "d-r-pendse"
 ---
 
 ---

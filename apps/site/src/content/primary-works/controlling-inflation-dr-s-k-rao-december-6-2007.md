@@ -34,7 +34,7 @@ themes:
   - economic-policy
   - monetary-policy
   - fiscal-policy
-summary: "Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 2007) that pairs two addresses on India's mid-2000s inflation against the backdrop of surging food and crude oil prices and the Reserve Bank of India's tightening cycle. Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise and propose pragmatic remedies in monetary, fiscal and supply-side policy, with particular emphasis on the credibility gap between the official Wholesale Price Index and the inflation that 'common man' households actually experience. The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of India), reworks a 4 June 2007 talk delivered at an Economics Re..."
+summary: "Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 2007) that pairs two addresses on India's mid-2000s inflation against the backdrop of surging food and crude oil prices and the Reserve Bank of India's tightening cycle. Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise and propose pragmatic remedies in monetary, fiscal and supply-side policy, with particular emphasis on the credibility gap between the official Wholesale Price Index and the inflation that 'common man' households actually experience. The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of India), reworks a 4 June 2007 talk delivered at an Economics Research Centre (ERC) seminar held jointly with the Forum and the Indian Liberal Group in Mumbai; it lays the blame for India's inflation at the door of 'FOG — Failure of Governance'. The second, by S.S.…"
 needs_review: true
 draft: false
 ai:
@@ -61,22 +61,36 @@ Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 
 
 ## Essays
 
-### Essay (toc 1)
-Dr. S.R.K. Rao opens by arguing that India alone among large economies measures headline inflation through the Wholesale Price Index, a commodity index that ignores services, housing, public utilities, transport, education and the unorganised sector, leaving a wide credibility gap between the government's 3–4% figure and the prices the housewife actually faces. He coins the diagnosis 'FOG — Failure of Governance' and applies it to four causes that the Finance Minister had identified: hardening p...
+### Controlling Inflation
+*By Dr. S.R.K. RAO*
+
+Dr. S.R.K. Rao opens by arguing that India alone among large economies measures headline inflation through the Wholesale Price Index, a commodity index that ignores services, housing, public utilities, transport, education and the unorganised sector, leaving a wide credibility gap between the government's 3–4% figure and the prices the housewife actually faces. He coins the diagnosis 'FOG — Failure of Governance' and applies it to four causes that the Finance Minister had identified: hardening prices of metals and crude oil (where the government should have used public-sector agencies abroad to send early warnings), supply-demand mismatch in sugar, wheat, pulses and oil (where the Agriculture Ministry crossed bridges only when reached), the income build-up from foreign exchange and FII inflows (the 'Dilemma of Capital Inflows', made worse because most inflows are 'hot money'), and rising public expenditure (where Oil Bonds, Small Savings and other off-balance-sheet liabilities understate the fiscal deficit and threaten the FRBM Act 2003 targets).
+
+In his policy suggestions Rao calls for an end to ad-hoc anti-inflation measures, scientific medium- and long-term planning for agriculture, the setting up of an Agricultural Debt Redemption Corporation that would buy out moneylender debts of small and marginal farmers against ten-to-fifteen-year produce bonds, a strengthened public distribution system, vigilance over the 'quantity as well as the quality' of capital inflows including detection of laundered money entering under different 'labels', and binding adherence to the FRBM Act. His closing line is that monetary policy alone cannot curb inflation: fiscal policy must work in tandem, and political considerations must give way to pragmatism.
 
 - WPI is a commodity index that misses services, housing, transport, education and the unorganised sector, opening a credibility gap with the inflation common households actually experience.
 - Rao's overarching diagnosis is 'FOG — Failure of Governance', applied to commodity hardening, supply-demand mismatch, capital-inflow-driven money supply, and rising public expenditure.
 - He cites an estimate that nearly 75% of recent capital inflows are 'hot money' (Hindustan Times, 12 April 2007), making sterilisation costly and the Dilemma of Capital Inflows acute.
+- Public debt is 62% of GDP and off-balance-sheet liabilities such as Oil Bonds (Rs. 28,000 crore in 2007) plus Sixth Pay Commission obligations risk 'side-stepping' the FRBM Act targets.
+- Concrete proposals: an Agricultural Debt Redemption Corporation refinancing small farmers via 10–15-year produce bonds, a stronger PDS, curbs on POL subsidies, and stricter monitoring of speculative inflows.
+- Closing message: monetary policy alone cannot curb inflation — fiscal restraint, efficient governance and political pragmatism must work in tandem.
 
-### Essay (toc 2)
-S.S. Bhandare welcomes the RBI's apparent success in pulling headline WPI inflation down from 6.7% in early February 2007 to about 4.3% by the week ending 30 June 2007, but argues that the picture is more complicated than the 'mood of self-congratulation' suggests. The wholesale figure diverges sharply from Consumer Price Indices for industrial workers, agricultural labour and the urban middle class — all of which remained near 8% — so the 'common man' continues to feel that inflation 'is still ...
+### Strategizing the Battle Against Inflation: How Far Are We?
+*By S.S. BHANDARE*
+
+S.S. Bhandare welcomes the RBI's apparent success in pulling headline WPI inflation down from 6.7% in early February 2007 to about 4.3% by the week ending 30 June 2007, but argues that the picture is more complicated than the 'mood of self-congratulation' suggests. The wholesale figure diverges sharply from Consumer Price Indices for industrial workers, agricultural labour and the urban middle class — all of which remained near 8% — so the 'common man' continues to feel that inflation 'is still high, and hurting them the most'. Reviewing the post-reform period, Bhandare shows long-term WPI inflation falling from 10.6% (1991–96) to 4.9% (2001–07), a structural softening he attributes to deregulation, liberalised imports and the CENVAT / State VAT rationalisation that intensified competition.
+
+The second half of the address asks whether this softening is sustainable. Bhandare identifies a liquidity overhang from rapid M3 growth, surging international crude prices (the Indian basket at $73.96/barrel in mid-July 2007, up from $62.46 in 2006-07), capacity constraints in basic industries, infrastructure bottlenecks and a 'wage push' from manpower shortages in skilled services as the main risks to a sustained low-inflation regime. He calls for a broader-based 'national Producers Prices Index', harmonisation of CPI base years to 2005-06, and a five-pronged strategy: the next agricultural revolution, energy security, expansion and modernisation of critical infrastructure, capacity-building of manpower, and good fiscal governance. The closing note is sober: 'the battle against inflation is far from over'.
 
 - WPI inflation fell from 6.7% (early Feb 2007) to about 4.3% (week of 30 June 2007), but CPI for industrial workers, agricultural labour and the middle class hovered around 8%, signalling a divergence the 'common man' still feels.
 - Long-term WPI inflation has fallen from 10.6% (1991–96) to 5.1% (1996–2001) to 4.9% (2001–07), a structural softening driven by deregulation, import liberalisation and CENVAT / State VAT rationalisation.
 - Globalisation requires India's benchmark inflation to converge toward the 2–2.5% standard of major trading partners, well below the RBI's 5–5.5% target band.
+- Five sustainability risks: liquidity overhang from rapid M3 growth, surging crude prices (Indian basket $73.96/barrel in July 2007), basic-industry capacity constraints, infrastructure bottlenecks, and a manpower-driven 'wage push' in services.
+- Bhandare calls for a broader-based 'national Producers Prices Index' and harmonisation of CPI base years to 2005-06 in place of the existing 1993-94, 2000-01 and 1982 bases.
+- His closing strategy has five planks: the next agricultural revolution, energy security, expansion and modernisation of critical infrastructure, manpower capacity-building, and good fiscal governance.
 
 
 ---
 
-*Generated by the v1.5 extraction pipeline (2026-05-17). Awaiting editorial review.*
+*Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
 

@@ -113,7 +113,7 @@
 
 - `abraham-lincoln`: Abraham Lincoln
 - `achyut-patwardhan`: Achyut Patwardhan
-- `ad-shroff`: AD Shroff
+- `a-d-shroff`: AD Shroff
 - `adam-smith`: Adam Smith
 - `alexis-de-tocqueville`: Alexis de Tocqueville
 - `amartya-sen`: Amartya Sen
@@ -123,7 +123,7 @@
 - `bal-gangadhar-tilak`: Bal Gangadhar Tilak
 - `begum-rokeya`: Begum Rokeya
 - `bibek-debroy`: Bibek Debroy
-- `br-shenoy`: BR Shenoy
+- `b-r-shenoy`: BR Shenoy
 - `c-rangarajan`: C. Rangarajan
 - `chintaman-deshmukh`: C. D. Deshmukh
 
@@ -131,5 +131,5 @@
 
 1. **Edges schema gap**: the v1.x `graphEdges` schema (`content.config.ts:708`) has `cites`, `responds_to`, `builds_on`, `influenced_by`, etc., but no explicit `author_of` / `editor_of` / `contributor_of` edge types. Until the schema extends, `graph-edges/contributor.json` uses `cites` with `context: <role>` as an interim encoding. **TODO**: propose schema extension.
 2. **Re-baking impact**: each future bake of a not-yet-baked PDF will append to these aggregations. The script is idempotent — re-run after every batch.
-3. **Cluster collapse pending**: the v1.5 authority has a few duplicate-pair entries flagged by the curator (rk-amin / prof-rk-amin, dm-kulkarni / d-m-kulkarni, bk-nehru / bk-nehru, ashok-desai / ashok-desai). Editorial pass needed before downstream UI shows split occurrence counts.
+3. **Cluster collapse pending**: the v1.5 authority has a few duplicate-pair entries flagged by the curator (rk-amin / r-k-amin, dm-kulkarni / d-m-kulkarni, bk-nehru / bk-nehru, ashok-desai / ashok-desai). Editorial pass needed before downstream UI shows split occurrence counts.
 4. **Pull quotes not aggregated here** — they're per-work editorial content, indexed at the per-work `summary.json` level. A separate pass can produce a `data/synthesis/pull-quotes-index.json` for shareable-quote UIs.

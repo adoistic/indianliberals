@@ -10,6 +10,7 @@ draft: false
 subject_name: "S. Divakara on The Forum of Free Enterprise"
 youtube_url: "https://www.youtube.com/watch?v=DBdRExrgG2I"
 transcript_status: "none"
+
 ---
 
 S. Divakara, the Director-General of The Forum of Free Enterprise talks about the organisation he has worked most of his life at.

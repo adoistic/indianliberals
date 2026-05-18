@@ -10,6 +10,8 @@ draft: false
 subject_name: "The Case Against Neo-Protectionism"
 youtube_url: "https://www.youtube.com/watch?v=u1tih4LpfwA"
 transcript_status: "none"
+
+subject: "the-case-against-neo-protectionism"
 ---
 
 ---

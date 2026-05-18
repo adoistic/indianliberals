@@ -5,11 +5,12 @@ pubDate: 2025-12-27T10:31:52
 author_name: "BP Adarkar"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/demonetisation-black-money-bp-adarkar/2813221/"
 themes: ["black-money", "demonetisation", "indian-liberals-matter"]
-related_thinkers: []
+related_thinkers: ["bp-adarkar"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/demonetisation-black-money-bp-adarkar/2813221/) on 2026-05-16. Originally published 2025-12-27. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._

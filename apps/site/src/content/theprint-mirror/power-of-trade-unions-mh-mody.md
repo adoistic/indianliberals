@@ -5,11 +5,12 @@ pubDate: 2026-02-21T11:04:08
 author_name: "MH Mody"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/power-of-trade-unions-mh-mody/2859967/"
 themes: ["trade-union"]
-related_thinkers: []
+related_thinkers: ["mh-mody"]
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+
 ---
 
 _Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/power-of-trade-unions-mh-mody/2859967/) on 2026-05-16. Originally published 2026-02-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
