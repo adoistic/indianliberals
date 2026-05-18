@@ -619,7 +619,12 @@ BUCKET_LABELS = {b for b, _ in BUCKET_MAP}
 
 _FRONTMATTER_RX = re.compile(r"^---\n(.*?)\n---\n?(.*)$", re.S)
 _THEMES_BLOCK_RX = re.compile(
-    r"^themes:\s*(\[\]|(?:\n[ \t]+-\s*\"[^\"]+\"\s*)+)\n?",
+    # NOTE: inner pattern matches whole lines (`-[^\n]+`) rather than the
+    # narrower `-\s*"..."` form, because the latter combined with trailing
+    # `\s*` inside the repeat group consumed the newline the next iteration
+    # needed, capturing only the first list item. The per-line parser below
+    # extracts the quoted value from each captured line.
+    r"^themes:\s*(\[\]|(?:\n[ \t]+-[^\n]+)+)\n?",
     re.M,
 )
 
