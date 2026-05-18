@@ -125,6 +125,15 @@ avoids drift between examples and validation):
   record for Shroff with one evidence quote that is an exact substring.
 - **`author`+`mention` example**: passage from `musings/1991-liberal-reforms-…-ashok-desai-1995`. Show that the byline-author (Desai) is **omitted** from `thinker_mentions[]` (it lives in `author` from Phase A), and only the in-prose mentions are emitted.
 
+**Watch out for prompt-example circularity.** The smoke batch in §3 includes
+entries #1, #4, #5 — the same entries whose passages anchor the prompt
+examples. The smoke batch is therefore partly a fit check, not a clean
+generalisation test. When iterating on the prompt, judge "is the prompt
+working?" primarily by the *non-example* entries in the smoke batch:
+#2 and #3 (other `subject` opinions), #6 (theprint-mirror), and #7
+(primary-work). Those four must produce sensible verbatim mentions before
+the prompt is locked.
+
 Token budget: parent doc estimates `system-resolver.txt` at ~3K tokens.
 Adding three real-excerpt examples adds ~1.5K tokens. Total `system-ner.txt`
 ≈ 4.5K tokens, well within budget.
@@ -238,7 +247,22 @@ apps/site/src/content/interviews/<slug>.md
   audio and reading the corresponding cleaned transcript — proper-noun
   accuracy ≥95% for thinker names in the authority list
 
-### 5.8 Open questions to resolve at Phase B-2 start
+### 5.8 Prerequisites and open questions for Phase B-2 start
+
+**Prerequisites (must be in place before Phase B-2 implementation):**
+
+- **Deepgram account + API key** provisioned. Free credits cover the
+  full 72-interview transcription budget (~36h at ~$10) but the account
+  must exist and the key must be in the project's secret store. No setup
+  for this exists today.
+- **yt-dlp installed**: `brew install yt-dlp` on the dev host. ffmpeg
+  already installed at `/opt/homebrew/bin/ffmpeg` v8.1.
+- **Transcript writer**: who mutates the interview MD body from the
+  cleaned transcript? Either a new `scripts/synthesis/apply-transcripts.py`
+  (preferred — mirrors apply-resolutions.py / apply-ner.py pattern) or
+  an inline write step in the correction-pass driver. Decide at B-2 start.
+
+**Open design questions:**
 
 - **Deepgram model tier**: Nova-3 (current top, $0.0043/min) vs Nova-2-general ($0.0036/min). Nova-3 if proper-noun accuracy matters; Nova-2 is fine because the correction pass cleans them anyway. Probably Nova-2.
 - **Diarization on/off**: on for interview / Q&A format; off for monologue (IL Explainer single-speaker episodes). Decide per-entry via `subject_name` heuristic or just leave on for all.
@@ -252,7 +276,7 @@ The parent doc's acceptance criteria spoke of "Tier-A entries". With
 interviews deferred, the denominator changes:
 
 - ≥80% of English entries in musings + opinions + theprint-mirror have at least one `thinker_mentions[]` record. (Primary-works are evaluated separately — see below.)
-- ≥60% of primary-works (where the summary prose runs ≥1 paragraph) have at least one `thinker_mentions[]` record. (Lower bar because summary prose is shorter and less mention-dense than original musings.)
+- ≥60% of primary-works *with a non-trivial summary* have at least one `thinker_mentions[]` record. **Operational gate**: a primary-work has a "non-trivial summary" iff the rendered body markdown (excluding frontmatter and the structured `## Key points` list) contains ≥200 characters of prose. `prepare-ner-batches.py` MUST enforce this filter on input. Primary-works with `needs_extraction: true` or empty `summary` field are skipped at batch-prep time and don't count toward the denominator. (Lower bar than musings because summary prose is shorter and less mention-dense.)
 - Every "touchstone" thinker — A.D. Shroff, Nehru, Gandhi, Hayek, Smith, Marx, Palkhivala, Masani, Shenoy, Bhagwati — has visible mentions across multiple works on their bio page.
 - The "How {Thinker} is discussed in this archive" section renders sensible 2-3-paragraph synthesis for at least 30 thinkers.
 - `npm run build` clean. `astro check` error count delta = 0.
@@ -302,7 +326,7 @@ The parent doc's step list (steps 1-15) is adjusted as follows:
 
 13. npm run build → 1,225+ pages, no new errors
 
-14. python3 scripts/synthesis/audit-ner-coverage.py (per §6)
+14. python3 scripts/synthesis/audit-ner-coverage.py (write this new script per §6 and parent doc § Phase B success metric — same output shape as the parent doc specifies)
 
 15. Commit + push each step as a separate commit
 ```
