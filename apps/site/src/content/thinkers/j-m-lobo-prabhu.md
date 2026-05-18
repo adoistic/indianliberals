@@ -20,4 +20,3 @@ ai:
   model_version: phase-0.6-wave2-refresh-2026-05-17
 ---
 
-# J. M. Lobo Prabhu

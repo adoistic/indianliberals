@@ -21,4 +21,3 @@ birth_year: 1866
 death_year: 1915
 ---
 
-# Gopal Krishna Gokhale

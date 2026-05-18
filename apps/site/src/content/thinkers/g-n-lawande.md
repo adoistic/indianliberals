@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/communism-assumptions-gn-lawande.md
 ---
 
-# G N Lawande

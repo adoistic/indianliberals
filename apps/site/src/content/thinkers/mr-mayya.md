@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/forward-trading-in-shares-by-mr-mayya-april-5-1996.pdf
 ---
 
-# MR Mayya

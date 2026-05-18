@@ -18,4 +18,3 @@ birth_year: 1913
 death_year: 1992
 ---
 
-# Willy Brandt

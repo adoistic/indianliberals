@@ -21,4 +21,3 @@ birth_year: 1810
 death_year: 1858
 ---
 
-# Rasikkrishna Mallik

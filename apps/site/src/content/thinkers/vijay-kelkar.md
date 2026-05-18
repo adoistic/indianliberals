@@ -20,4 +20,3 @@ ai:
 birth_year: 1942
 ---
 
-# Vijay Kelkar

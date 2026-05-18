@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi.md
 ---
 
-# M.A. Master

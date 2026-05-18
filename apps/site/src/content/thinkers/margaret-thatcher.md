@@ -19,4 +19,3 @@ birth_year: 1925
 death_year: 2013
 ---
 
-# Margaret Thatcher

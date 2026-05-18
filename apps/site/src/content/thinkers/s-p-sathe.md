@@ -23,4 +23,3 @@ birth_year: 1931
 death_year: 2006
 ---
 
-# S. P. Sathe

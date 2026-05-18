@@ -18,4 +18,3 @@ birth_year: 1916
 death_year: 2009
 ---
 
-# Robert McNamara

@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/collectivism-liberty-limited-state-ma-venkata-rao.md
 ---
 
-# MA Venkata Rao

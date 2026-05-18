@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/leading-in-turbulent-times-by-azim-premji-2003.pdf
 ---
 
-# Azim Premji

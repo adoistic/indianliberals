@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff.md
 ---
 
-# Phiroze J Shroff

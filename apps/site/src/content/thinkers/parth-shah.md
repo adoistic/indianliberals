@@ -22,4 +22,3 @@ ai:
 birth_year: 1962
 ---
 
-# Parth J. Shah

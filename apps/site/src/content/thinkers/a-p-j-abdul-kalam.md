@@ -24,4 +24,3 @@ birth_year: 1931
 death_year: 2015
 ---
 
-# A. P. J. Abdul Kalam

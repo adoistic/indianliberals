@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/fundamental-right-to-property-ag-mulgaokar.md
 ---
 
-# AG Mulgaokar

@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/state-trading-and-democracy-by-murarji-vaidya-october-1-1956.pdf
 ---
 
-# Murarji Vaidya

@@ -22,4 +22,3 @@ birth_year: 1908
 death_year: 2006
 ---
 
-# John Kenneth Galbraith

@@ -19,4 +19,3 @@ ai:
 birth_year: 1932
 ---
 
-# C. Rangarajan

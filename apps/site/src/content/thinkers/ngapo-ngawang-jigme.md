@@ -18,4 +18,3 @@ birth_year: 1910
 death_year: 2009
 ---
 
-# Ngapo Ngawang Jigme

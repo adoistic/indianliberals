@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first.md
 ---
 
-# DN Hosali

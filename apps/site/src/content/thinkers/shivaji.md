@@ -22,4 +22,3 @@ ai:
   model_version: corpus_mention
 ---
 
-# Chhatrapati Shivaji

@@ -26,4 +26,3 @@ birth_year: 1869
 death_year: 1948
 ---
 
-# Mahatma Gandhi

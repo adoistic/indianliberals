@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/english-didnt-enslave-india-it-was-the-harbinger-of-a-new-creative-consciousness-a-ranganathan.md
 ---
 
-# A Ranganathan

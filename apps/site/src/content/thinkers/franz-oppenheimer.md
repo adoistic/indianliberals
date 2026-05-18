@@ -18,4 +18,3 @@ birth_year: 1864
 death_year: 1943
 ---
 
-# Franz Oppenheimer

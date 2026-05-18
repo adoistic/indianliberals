@@ -18,4 +18,3 @@ birth_year: 1723
 death_year: 1790
 ---
 
-# Adam Smith

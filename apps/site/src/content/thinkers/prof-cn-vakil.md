@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/some-contradictions-in-the-plan-by-prof-cn-vakil-october-30-1956.pdf
 ---
 
-# Prof CN Vakil

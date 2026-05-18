@@ -18,4 +18,3 @@ birth_year: 1860
 death_year: 1919
 ---
 
-# Friedrich Naumann

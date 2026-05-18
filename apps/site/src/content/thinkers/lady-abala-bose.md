@@ -22,4 +22,3 @@ birth_year: 1864
 death_year: 1951
 ---
 
-# Lady Abala Bose

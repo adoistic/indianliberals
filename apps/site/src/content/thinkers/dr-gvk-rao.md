@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/agricultural-investment-by-dr-gvk-rao-september-14-1993.pdf
 ---
 
-# DR Gvk Rao

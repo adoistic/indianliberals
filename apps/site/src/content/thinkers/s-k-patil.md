@@ -19,4 +19,3 @@ birth_year: 1900
 death_year: 1981
 ---
 
-# S. K. Patil

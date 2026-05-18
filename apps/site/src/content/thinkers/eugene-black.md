@@ -20,4 +20,3 @@ birth_year: 1898
 death_year: 1992
 ---
 
-# Eugene R. Black Sr.

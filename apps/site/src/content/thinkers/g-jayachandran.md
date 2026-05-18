@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/indian-welfarists-right-property-life-liberty.md
 ---
 
-# G Jayachandran

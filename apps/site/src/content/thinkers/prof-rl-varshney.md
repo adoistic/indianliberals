@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/private-enterprise-should-be-allowed-in-life-insurance-industry-by-Prof.-RL-Varshney-may-8-1962.pdf
 ---
 
-# Prof. RL Varshney

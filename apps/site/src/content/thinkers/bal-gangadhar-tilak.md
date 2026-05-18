@@ -21,4 +21,3 @@ birth_year: 1856
 death_year: 1920
 ---
 
-# Bal Gangadhar Tilak

@@ -21,4 +21,3 @@ birth_year: 1888
 death_year: 1959
 ---
 
-# John Foster Dulles

@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/free-education-is-mere-jugglery-of-words-a-hangover-of-anti-rational-pre-partition-days.md
 ---
 
-# Om Prakash Kahol

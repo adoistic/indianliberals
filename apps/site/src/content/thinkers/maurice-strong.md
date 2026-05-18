@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/ending-hunger-through-sustainable-development-by-maurice-f-strong-november-14-1989.pdf
 ---
 
-# Maurice Strong

@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/What-Ails-India-By-Russi-Mody-January-15-1990.pdf
 ---
 
-# Russi Mody

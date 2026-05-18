@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/administrators-managers-and-leadership-by-deepak-parekh-1997.pdf
 ---
 
-# Deepak Parekh

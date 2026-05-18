@@ -22,4 +22,3 @@ birth_year: 1913
 death_year: 1998
 ---
 
-# P. N. Haksar

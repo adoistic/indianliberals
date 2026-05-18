@@ -24,4 +24,3 @@ birth_year: 1878
 death_year: 1972
 ---
 
-# C. Rajagopalachari

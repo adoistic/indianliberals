@@ -18,4 +18,3 @@ birth_year: 1887
 death_year: 1948
 ---
 
-# Ruth Benedict

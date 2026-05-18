@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/energy-security-policy-by-ma-pathan-2005.pdf
 ---
 
-# MA Pathan

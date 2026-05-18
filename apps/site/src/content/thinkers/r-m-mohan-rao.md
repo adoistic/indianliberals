@@ -19,4 +19,3 @@ ai:
   model_version: phase-0.4-curation-from-mangalore-bake-off
 ---
 
-# R. M. Mohan Rao

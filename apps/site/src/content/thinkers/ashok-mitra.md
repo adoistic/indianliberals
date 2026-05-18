@@ -20,4 +20,3 @@ birth_year: 1928
 death_year: 2018
 ---
 
-# Ashok Mitra

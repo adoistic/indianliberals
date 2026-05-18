@@ -24,4 +24,3 @@ birth_year: 1900
 death_year: 1981
 ---
 
-# M. C. Chagla

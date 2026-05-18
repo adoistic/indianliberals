@@ -22,4 +22,3 @@ birth_year: 1784
 death_year: 1867
 ---
 
-# Radhakanta Deb

@@ -21,4 +21,3 @@ birth_year: 1904
 death_year: 1993
 ---
 
-# H. M. Patel

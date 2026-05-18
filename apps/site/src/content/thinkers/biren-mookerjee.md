@@ -21,4 +21,3 @@ birth_year: 1899
 death_year: 1982
 ---
 
-# Sir Biren Mookerjee

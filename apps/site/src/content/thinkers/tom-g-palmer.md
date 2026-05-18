@@ -17,4 +17,3 @@ ai:
   model_version: proposal
 ---
 
-# Tom G. Palmer

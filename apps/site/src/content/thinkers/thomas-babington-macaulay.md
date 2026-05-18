@@ -22,4 +22,3 @@ birth_year: 1800
 death_year: 1859
 ---
 
-# Thomas Babington Macaulay

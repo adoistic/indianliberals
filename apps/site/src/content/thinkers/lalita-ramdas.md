@@ -17,4 +17,3 @@ ai:
 birth_year: 1942
 ---
 
-# Lalita Ramdas

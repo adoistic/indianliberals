@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/fare-forward-voyager-by-frank-simoes-may-1990.pdf
 ---
 
-# Frank Simoes

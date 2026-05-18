@@ -20,4 +20,3 @@ birth_year: 1794
 death_year: 1846
 ---
 
-# Dwarkanath Tagore

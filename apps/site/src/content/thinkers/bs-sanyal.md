@@ -19,4 +19,3 @@ ai:
   model_version: content/theprint-mirror/welfarism-poverty-indian-people-bs-sanyal.md
 ---
 
-# BS Sanyal

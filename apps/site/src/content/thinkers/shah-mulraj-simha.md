@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/stock-market-and-turmoil-lessons-for-investors-by-shah-mulraj-simha-2001.pdf
 ---
 
-# Shah Mulraj Simha

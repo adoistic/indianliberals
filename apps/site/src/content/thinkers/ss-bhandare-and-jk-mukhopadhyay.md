@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/an-evaluation-of-common-minimum-programme-by-ss-bhandare-and-jk-mukhopadhyay-july-15-1996.pdf
 ---
 
-# SS Bhandare And JK Mukhopadhyay

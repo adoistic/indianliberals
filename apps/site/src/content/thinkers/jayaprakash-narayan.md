@@ -28,4 +28,3 @@ birth_year: 1902
 death_year: 1979
 ---
 
-# Jayaprakash Narayan

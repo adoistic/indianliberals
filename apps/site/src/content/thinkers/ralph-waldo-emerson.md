@@ -18,4 +18,3 @@ birth_year: 1803
 death_year: 1882
 ---
 
-# Ralph Waldo Emerson

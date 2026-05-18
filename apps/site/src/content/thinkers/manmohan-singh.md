@@ -21,4 +21,3 @@ birth_year: 1932
 death_year: 2024
 ---
 
-# Manmohan Singh

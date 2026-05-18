@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/transition-in-civil-services-by-bk-nehru-2000.pdf
 ---
 
-# BK Nehru

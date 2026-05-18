@@ -22,4 +22,3 @@ birth_year: 1888
 death_year: 1975
 ---
 
-# Sarvepalli Radhakrishnan

@@ -20,4 +20,3 @@ birth_year: 1955
 death_year: 2024
 ---
 
-# Bibek Debroy

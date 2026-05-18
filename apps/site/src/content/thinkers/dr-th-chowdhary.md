@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/bridging-diminishing-the-digital-divide-by-dr-th-chowdhary-2002.pdf
 ---
 
-# DR TH Chowdhary

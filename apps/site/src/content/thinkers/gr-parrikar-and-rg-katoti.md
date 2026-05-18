@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/foreign-institutional-investors-in-india-by-gr-parrikar-and-rg-katoti-november-1994.pdf
 ---
 
-# GR Parrikar And RG Katoti

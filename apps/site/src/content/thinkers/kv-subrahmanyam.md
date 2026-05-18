@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/Some-Light-On-Coal-Discoveries-By-KV-Subrahmanyam-November-8-1960.pdf
 ---
 
-# KV Subrahmanyam

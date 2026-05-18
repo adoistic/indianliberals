@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/finance-companies-agenda-for-urgent-action-by-dr-ac-shah-july-15-1997.pdf
 ---
 
-# DR AC Shah

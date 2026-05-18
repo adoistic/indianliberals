@@ -20,4 +20,3 @@ birth_year: 1958
 death_year: 1996
 ---
 
-# Chanaka Amaratunga

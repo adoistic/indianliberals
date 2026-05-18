@@ -18,4 +18,3 @@ birth_year: 1896
 death_year: 1961
 ---
 
-# Khasa Subba Rau

@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/good-governance-by-minoo-r-shroff-and-hd-shourie-2002.pdf
 ---
 
-# Minoo Shroff And HD Shourie

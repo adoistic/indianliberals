@@ -18,4 +18,3 @@ birth_year: 1796
 death_year: 1881
 ---
 
-# William Adam

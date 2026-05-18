@@ -18,4 +18,3 @@ birth_year: 1911
 death_year: 1973
 ---
 
-# Dudley Senanayake

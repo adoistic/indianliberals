@@ -21,4 +21,3 @@ birth_year: 1814
 death_year: 1883
 ---
 
-# Peary Chand Mitra

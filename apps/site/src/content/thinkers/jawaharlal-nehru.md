@@ -24,4 +24,3 @@ birth_year: 1889
 death_year: 1964
 ---
 
-# Jawaharlal Nehru

@@ -23,4 +23,3 @@ birth_year: 1919
 death_year: 2012
 ---
 
-# I. K. Gujral

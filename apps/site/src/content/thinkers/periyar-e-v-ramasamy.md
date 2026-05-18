@@ -23,4 +23,3 @@ birth_year: 1879
 death_year: 1973
 ---
 
-# Periyar E. V. Ramasamy

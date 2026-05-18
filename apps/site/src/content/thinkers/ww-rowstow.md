@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/economic-growth-in-a-free-society-by-ww-rowstow-november-5-1963.pdf
 ---
 
-# WW Rowstow

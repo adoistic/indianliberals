@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/hitlerite-vegetarianism-india-food-science-sentiment.md
 ---
 
-# Tahir Siddiqui

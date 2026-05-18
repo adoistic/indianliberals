@@ -23,4 +23,3 @@ birth_year: 1888
 death_year: 1982
 ---
 
-# Acharya J. B. Kripalani

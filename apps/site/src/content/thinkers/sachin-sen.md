@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/free-press-sachin-sen.md
 ---
 
-# Sachin Sen

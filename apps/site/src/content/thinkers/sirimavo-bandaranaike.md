@@ -22,4 +22,3 @@ birth_year: 1916
 death_year: 2000
 ---
 
-# Sirimavo Bandaranaike

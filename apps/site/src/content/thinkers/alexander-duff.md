@@ -18,4 +18,3 @@ birth_year: 1806
 death_year: 1878
 ---
 
-# Alexander Duff

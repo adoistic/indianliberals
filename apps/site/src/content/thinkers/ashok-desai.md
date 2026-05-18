@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/economic-controls-in-india-liberalisation-history.md
 ---
 
-# Ashok Desai

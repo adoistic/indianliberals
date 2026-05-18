@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/success-in-agriculture-through-free-enterprise-by-jr-henshaw-december-10-1964.pdf
 ---
 
-# JR Henshaw

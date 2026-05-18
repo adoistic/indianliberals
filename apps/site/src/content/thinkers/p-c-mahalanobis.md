@@ -24,4 +24,3 @@ birth_year: 1893
 death_year: 1972
 ---
 
-# P. C. Mahalanobis

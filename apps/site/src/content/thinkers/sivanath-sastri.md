@@ -21,4 +21,3 @@ birth_year: 1847
 death_year: 1919
 ---
 
-# Sivanath Sastri

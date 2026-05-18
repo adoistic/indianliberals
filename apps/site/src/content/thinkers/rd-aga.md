@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/new-approach-to-overcome-constraints-on-private-sector-by-rd-aga-1980.pdf
 ---
 
-# RD Aga

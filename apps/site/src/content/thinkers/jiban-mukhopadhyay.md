@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/indias-balance-of-payments-problem-by-jiban-k-mukhopadhyay-july-14-1989.pdf
 ---
 
-# Jiban Mukhopadhyay

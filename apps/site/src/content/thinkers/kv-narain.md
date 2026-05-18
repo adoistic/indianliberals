@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/prosperity-through-free-enterprise-a-case-study-of-taiwan-by-kv-narain-november-9-1964.pdf
 ---
 
-# KV Narain

@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/govt-autonomy-higher-education-institutes-gd-parikh.md
 ---
 
-# GD Parikh

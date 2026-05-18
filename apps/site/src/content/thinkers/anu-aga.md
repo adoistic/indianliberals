@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/embracing-csr-by-anu-a-aga-2003.pdf
 ---
 
-# Anu Aga

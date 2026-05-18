@@ -23,4 +23,3 @@ birth_year: 1880
 death_year: 1932
 ---
 
-# Begum Rokeya

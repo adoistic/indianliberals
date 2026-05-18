@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/hindi-imposition-constitution.md
 ---
 
-# P Kodanda Rao

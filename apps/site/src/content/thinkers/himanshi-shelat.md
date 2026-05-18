@@ -19,4 +19,3 @@ ai:
 birth_year: 1947
 ---
 
-# Himanshi Shelat

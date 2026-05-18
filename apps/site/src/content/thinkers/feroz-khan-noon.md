@@ -18,4 +18,3 @@ birth_year: 1893
 death_year: 1970
 ---
 
-# Feroz Khan Noon

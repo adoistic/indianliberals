@@ -19,4 +19,3 @@ ai:
   model_version: content/theprint-mirror/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha.md
 ---
 
-# KD Valicha

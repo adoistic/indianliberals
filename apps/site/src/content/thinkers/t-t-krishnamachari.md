@@ -20,4 +20,3 @@ ai:
   model_version: corpus_mention
 ---
 
-# T. T. Krishnamachari

@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/indian-bureaucracy-incentives-rewards.md
 ---
 
-# MH Mody

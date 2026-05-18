@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/state-capitalism-marches-on-by-dharamsey-m-khatau-january-25-1957.pdf
 ---
 
-# Dharamsey Khatau

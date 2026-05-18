@@ -28,4 +28,3 @@ birth_year: 1897
 death_year: 1945
 ---
 
-# Subhas Chandra Bose

@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/value-systems-in-public-service-by-ak-purwar-2003.pdf
 ---
 
-# AK Purwar

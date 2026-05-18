@@ -21,4 +21,3 @@ birth_year: 1923
 death_year: 2019
 ---
 
-# Ram Jethmalani

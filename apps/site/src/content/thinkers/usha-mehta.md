@@ -20,4 +20,3 @@ birth_year: 1920
 death_year: 2000
 ---
 
-# Usha Mehta

@@ -17,4 +17,3 @@ ai:
   model_version: "cross-link-audit-phase-a"
 ---
 
-# Shailesh Gandhi

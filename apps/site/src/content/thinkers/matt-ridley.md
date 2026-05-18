@@ -17,4 +17,3 @@ ai:
 birth_year: 1958
 ---
 
-# Matt Ridley

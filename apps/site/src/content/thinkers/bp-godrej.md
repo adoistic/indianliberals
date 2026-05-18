@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/was-indias-public-sector-born-out-of-european-envy.md
 ---
 
-# BP Godrej

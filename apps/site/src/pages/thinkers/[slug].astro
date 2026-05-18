@@ -149,12 +149,13 @@ const datesStr =
       ? `b. ${t.data.birth_year}`
       : "";
 
-const bioSourceLabel = {
-  canonical: "Canonical bio",
-  feature_article: "From feature article",
-  ai_drafted: "Draft — under review",
-  imported: "Imported from previous site",
-}[t.data.bio_source];
+// Bio source is editorial provenance. We surface it only when it's
+// genuinely useful to a public reader — i.e., when the bio is an
+// editorial feature article. The other values ("imported",
+// "ai_drafted", "ai_drafted_stub", "canonical") are admin signals
+// that should not appear in the public UI.
+const bioSourceLabel =
+  t.data.bio_source === "feature_article" ? "From feature article" : null;
 ---
 
 <BaseLayout
@@ -199,9 +200,11 @@ const bioSourceLabel = {
             Also known as: {t.data.name.also_known_as.join(", ")}
           </p>
         )}
-        <p class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mt-6">
-          {bioSourceLabel}
-        </p>
+        {bioSourceLabel && (
+          <p class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mt-6">
+            {bioSourceLabel}
+          </p>
+        )}
       </div>
     </header>
 

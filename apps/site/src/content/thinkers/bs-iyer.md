@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/capitalism-mass-unemployment-japan-bs-iyer.md
 ---
 
-# BS Iyer

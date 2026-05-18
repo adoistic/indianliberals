@@ -22,4 +22,3 @@ birth_year: 1818
 death_year: 1883
 ---
 
-# Karl Marx

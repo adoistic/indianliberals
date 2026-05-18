@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/emerging-scenario-in-the-capital-markets-and-sebi-role-by-vh-pandya-august-14-1994.pdf
 ---
 
-# VH Pandya

@@ -19,4 +19,3 @@ birth_year: 1915
 death_year: 2002
 ---
 
-# Peter Bauer

@@ -21,4 +21,3 @@ birth_year: 1809
 death_year: 1831
 ---
 
-# Henry Louis Vivian Derozio

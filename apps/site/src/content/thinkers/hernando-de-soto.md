@@ -20,4 +20,3 @@ ai:
 birth_year: 1941
 ---
 
-# Hernando de Soto

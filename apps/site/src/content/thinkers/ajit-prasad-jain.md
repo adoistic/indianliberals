@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/grave-dangers-of-state-trading-in-foodgrains-by-ajit-prasad-jain-november-2-1959.pdf
 ---
 
-# Ajit Prasad Jain

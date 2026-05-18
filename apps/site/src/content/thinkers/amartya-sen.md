@@ -17,4 +17,3 @@ ai:
 birth_year: 1933
 ---
 
-# Amartya Sen

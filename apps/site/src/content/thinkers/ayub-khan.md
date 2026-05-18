@@ -22,4 +22,3 @@ birth_year: 1907
 death_year: 1974
 ---
 
-# Ayub Khan

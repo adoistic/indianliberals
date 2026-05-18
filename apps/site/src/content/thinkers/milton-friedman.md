@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/india-needs-a-free-market-interest-rate-by-milton-friedman-may-9-1963.pdf
 ---
 
-# Milton Friedman

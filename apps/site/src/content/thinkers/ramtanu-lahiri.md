@@ -20,4 +20,3 @@ birth_year: 1813
 death_year: 1898
 ---
 
-# Ramtanu Lahiri

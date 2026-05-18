@@ -18,4 +18,3 @@ birth_year: 1924
 death_year: 2011
 ---
 
-# Ajit Bhattacharjea

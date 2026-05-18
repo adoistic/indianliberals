@@ -21,4 +21,3 @@ birth_year: 1225
 death_year: 1274
 ---
 
-# Thomas Aquinas

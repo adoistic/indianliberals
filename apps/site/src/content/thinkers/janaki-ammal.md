@@ -22,4 +22,3 @@ birth_year: 1897
 death_year: 1984
 ---
 
-# Janaki Ammal

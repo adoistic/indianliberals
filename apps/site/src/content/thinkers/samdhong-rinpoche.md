@@ -20,4 +20,3 @@ ai:
 birth_year: 1939
 ---
 
-# Samdhong Rinpoche

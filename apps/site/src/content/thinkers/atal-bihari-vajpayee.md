@@ -22,4 +22,3 @@ birth_year: 1924
 death_year: 2018
 ---
 
-# Atal Bihari Vajpayee

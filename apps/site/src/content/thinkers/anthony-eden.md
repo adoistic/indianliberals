@@ -20,4 +20,3 @@ birth_year: 1897
 death_year: 1977
 ---
 
-# Anthony Eden

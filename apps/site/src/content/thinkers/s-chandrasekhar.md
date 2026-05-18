@@ -21,4 +21,3 @@ birth_year: 1918
 death_year: 2001
 ---
 
-# S. Chandrasekhar

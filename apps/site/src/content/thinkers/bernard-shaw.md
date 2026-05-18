@@ -20,4 +20,3 @@ birth_year: 1856
 death_year: 1950
 ---
 
-# George Bernard Shaw

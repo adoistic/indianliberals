@@ -20,4 +20,3 @@ ai:
 birth_year: 1940
 ---
 
-# Sharad Pawar

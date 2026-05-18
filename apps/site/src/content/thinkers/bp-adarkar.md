@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/demonetisation-black-money-bp-adarkar.md
 ---
 
-# BP Adarkar

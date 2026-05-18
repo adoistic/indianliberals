@@ -20,4 +20,3 @@ ai:
   model_version: phase-0.5-wave1-refresh-2026-05-17
 ---
 
-# B. T. Krishnamachari

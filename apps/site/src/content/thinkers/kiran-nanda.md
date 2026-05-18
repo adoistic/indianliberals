@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/foreign-capital-by-kiran-nanda-december-17-1995.pdf
 ---
 
-# Kiran Nanda

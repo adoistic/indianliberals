@@ -24,4 +24,3 @@ birth_year: 1766
 death_year: 1834
 ---
 
-# Thomas Robert Malthus

@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/corporate-governance-by-adi-a-godrej-2004.pdf
 ---
 
-# Adi Godrej

@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/inefficient-entrepreneur-anti-social-arvind-narottam-lalbhai.md
 ---
 
-# Arvind Lalbhai

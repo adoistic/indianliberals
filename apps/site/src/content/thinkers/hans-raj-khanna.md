@@ -16,4 +16,3 @@ ai:
   model_version: content/theprint-mirror/dictatorship-subservient-judiciary-justice-hr-khanna.md
 ---
 
-# Hans Raj Khanna

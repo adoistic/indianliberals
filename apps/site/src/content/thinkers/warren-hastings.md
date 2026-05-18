@@ -18,4 +18,3 @@ birth_year: 1732
 death_year: 1818
 ---
 
-# Warren Hastings

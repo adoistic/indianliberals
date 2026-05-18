@@ -22,4 +22,3 @@ birth_year: 1879
 death_year: 1949
 ---
 
-# Sarojini Naidu

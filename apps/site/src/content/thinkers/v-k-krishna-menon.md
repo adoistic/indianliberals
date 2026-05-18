@@ -25,4 +25,3 @@ birth_year: 1896
 death_year: 1974
 ---
 
-# V. K. Krishna Menon

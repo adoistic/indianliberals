@@ -20,4 +20,3 @@ birth_year: 1894
 death_year: 1971
 ---
 
-# Nikita Khrushchev

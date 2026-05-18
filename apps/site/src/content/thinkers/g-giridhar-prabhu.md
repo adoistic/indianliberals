@@ -19,4 +19,3 @@ ai:
   model_version: phase-0.4-curation-from-mangalore-bake-off
 ---
 
-# G. Giridhar Prabhu

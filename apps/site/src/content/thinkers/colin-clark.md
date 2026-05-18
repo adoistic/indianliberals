@@ -20,4 +20,3 @@ birth_year: 1905
 death_year: 1989
 ---
 
-# Colin Clark

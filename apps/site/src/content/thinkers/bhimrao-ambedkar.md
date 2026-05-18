@@ -28,4 +28,3 @@ birth_year: 1891
 death_year: 1956
 ---
 
-# B. R. Ambedkar

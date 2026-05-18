@@ -21,4 +21,3 @@ birth_year: 1900
 death_year: 1990
 ---
 
-# Vijaya Lakshmi Pandit

@@ -21,4 +21,3 @@ birth_year: 1804
 death_year: 1855
 ---
 
-# Tarachand Chakrabarty

@@ -16,4 +16,3 @@ ai:
   model_version: pdf-filename/forum-of-free-enterprise/food-and-environment-walking-a-tightrope-by-dr-na-swaminathan-jan-2001.pdf
 ---
 
-# DR NA Swaminathan

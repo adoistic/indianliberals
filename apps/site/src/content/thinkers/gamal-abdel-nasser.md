@@ -21,4 +21,3 @@ birth_year: 1918
 death_year: 1970
 ---
 
-# Gamal Abdel Nasser

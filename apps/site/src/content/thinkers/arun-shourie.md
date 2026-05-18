@@ -18,4 +18,3 @@ ai:
 birth_year: 1941
 ---
 
-# Arun Shourie

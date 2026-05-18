@@ -20,4 +20,3 @@ birth_year: 1887
 death_year: 1976
 ---
 
-# Swami Anand
