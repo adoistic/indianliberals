@@ -646,19 +646,6 @@
       ]
     },
     {
-      "id": "sharad-anantrao-joshi",
-      "name": {
-        "canonical": "Sharad Anantrao Joshi",
-        "sort": "Joshi, Sharad Anantrao"
-      },
-      "brief_bio": "Sharad Anantrao Joshi (born 1935) is the founder of Shetkari Sanghatana and Swatantra Bharat Paksha party; and has served as a Member of Parliament.",
-      "image_filename_hint": "coverimg_13_Sharad Joshi.jpg",
-      "confidence": "canonical",
-      "sources": [
-        "wp_author"
-      ]
-    },
-    {
       "id": "sharad-joshi",
       "name": {
         "canonical": "Sharad Joshi",
@@ -7398,7 +7385,6 @@
     "setalwad": "m-c-setalvad",
     "sh batlivala": "sh-batlivala",
     "shah mulraj simha": "shah-mulraj-simha",
-    "sharad anantrao joshi": "sharad-anantrao-joshi",
     "sharad bailur": "sharad-bailur",
     "sharad joshi": "sharad-joshi",
     "sharad pawar": "sharad-pawar",

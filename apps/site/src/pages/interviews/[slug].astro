@@ -2,6 +2,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, getEntry, render } from "astro:content";
 import RelatedSection from "~/components/RelatedSection.astro";
+import PeopleInPiece from "~/components/PeopleInPiece.astro";
 
 export async function getStaticPaths() {
   const interviews = await getCollection("interviews", (i) => !i.data.draft);
@@ -61,6 +62,10 @@ const subjectEntry = i.data.subject ? await getEntry(i.data.subject) : null;
     <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700)">
       <Content />
     </div>
+
+    {subjectEntry && (
+      <PeopleInPiece subjectSlugs={[subjectEntry.id]} />
+    )}
 
     <RelatedSection collection="interviews" slug={i.id} viewerLang={i.data.language} />
   </article>

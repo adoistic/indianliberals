@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
-import { getCollection, render } from "astro:content";
+import { getCollection, getEntry, render } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
+import PeopleInPiece from "~/components/PeopleInPiece.astro";
 
 export async function getStaticPaths() {
   const musings = await getCollection(
@@ -22,6 +23,15 @@ const hreflang = hreflangAlternates(
   m.data.translations,
   Astro.site!.origin,
 );
+
+// Resolve byline thinker so we can render a link to their bio.
+const authorEntry = m.data.author ? await getEntry(m.data.author) : null;
+
+// Slug arrays for the "People in this piece" chip list.
+const authorSlugs = authorEntry ? [authorEntry.id] : [];
+const mentionSlugs = (m.data.thinker_mentions ?? [])
+  .map((mn: any) => (typeof mn.thinker === "string" ? mn.thinker : mn.thinker?.id))
+  .filter(Boolean);
 ---
 
 <BaseLayout
@@ -38,11 +48,21 @@ const hreflang = hreflangAlternates(
       <h1 class="text-(--color-fg) leading-tight">{m.data.title}</h1>
       <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
         {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+        {authorEntry && (
+          <>
+            {" · By "}
+            <a href={`/thinkers/${authorEntry.id}/`} class="text-(--color-fg) font-semibold no-underline hover:text-(--color-forest-700)">
+              {authorEntry.data.name.canonical}
+            </a>
+          </>
+        )}
       </p>
     </header>
     <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5">
       <Content />
     </div>
+
+    <PeopleInPiece authorSlugs={authorSlugs} mentionSlugs={mentionSlugs} />
 
     <RelatedSection collection="musings" slug={m.id} viewerLang={m.data.language} />
   </article>

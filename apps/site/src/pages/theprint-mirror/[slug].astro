@@ -14,6 +14,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, getEntry } from "astro:content";
 import { hreflangAlternates } from "~/lib/i18n";
+import PeopleInPiece from "~/components/PeopleInPiece.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("theprint-mirror", (p) => !p.data.draft);
@@ -32,6 +33,11 @@ const hreflang = hreflangAlternates(
 
 const bylineRefs = p.data.related_thinkers ?? [];
 const bylineEntry = bylineRefs.length > 0 ? await getEntry(bylineRefs[0]) : null;
+
+const authorSlugs = bylineEntry ? [bylineEntry.id] : [];
+const mentionSlugs = (p.data.thinker_mentions ?? [])
+  .map((mn: any) => (typeof mn.thinker === "string" ? mn.thinker : mn.thinker?.id))
+  .filter(Boolean);
 ---
 
 <BaseLayout
@@ -82,6 +88,8 @@ const bylineEntry = bylineRefs.length > 0 ? await getEntry(bylineRefs[0]) : null
         </ul>
       )}
     </div>
+
+    <PeopleInPiece authorSlugs={authorSlugs} mentionSlugs={mentionSlugs} />
 
     <footer class="mt-8 pt-6 border-t border-(--color-border) text-xs text-(--color-fg-muted) font-(family-name:--font-ui) text-center">
       <p>

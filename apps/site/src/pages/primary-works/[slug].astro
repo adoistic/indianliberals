@@ -13,6 +13,7 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
+import PeopleInPiece from "~/components/PeopleInPiece.astro";
 
 export async function getStaticPaths() {
   const works = await getCollection(
@@ -74,6 +75,15 @@ const pullQuotes = (fm.summary_structured?.pull_quotes ?? []).filter(
 const descriptionForMeta = fm.summary
   ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
   : `Metadata, summary, and PDF for ${fm.title.main}.`;
+
+// Slug lists for the PeopleInPiece chip section.
+const authorSlugs = authorEntries.map((t) => t.id);
+const contributorSlugs = (fm.contributors ?? [])
+  .map((c) => c.thinker?.id)
+  .filter((s): s is string => !!s && !authorSlugs.includes(s));
+const mentionSlugs = (fm.thinker_mentions ?? [])
+  .map((mn: any) => (typeof mn.thinker === "string" ? mn.thinker : mn.thinker?.id))
+  .filter(Boolean);
 ---
 
 <BaseLayout
@@ -197,6 +207,12 @@ const descriptionForMeta = fm.summary
       editorial accuracy. The original work is available via the PDF link above;
       paragraph-level citation inside the PDF is deferred to a future engagement.
     </p>
+
+    <PeopleInPiece
+      authorSlugs={authorSlugs}
+      mentionSlugs={[...contributorSlugs, ...mentionSlugs]}
+      title="People in this work"
+    />
 
     <RelatedSection collection="primary-works" slug={w.id} viewerLang={w.data.language} />
   </article>

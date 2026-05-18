@@ -1,0 +1,75 @@
+---
+// PeopleInPiece — chip list of every authority-listed thinker in a piece.
+// Each chip is a link to /thinkers/<slug>/. Role label ("author", "subject")
+// shows on the chip for non-mention roles; mention chips are unlabelled.
+//
+// Caller passes slug arrays (extracted from the entry's frontmatter refs).
+// De-dup is automatic with role priority: author > subject > mention.
+//
+// Used at the bottom of each Tier-A/B detail page so a reader can jump
+// from any name in the piece to that thinker's bio.
+
+import { getCollection } from "astro:content";
+
+interface Props {
+  authorSlugs?: string[];
+  subjectSlugs?: string[];
+  mentionSlugs?: string[];
+  title?: string;
+}
+
+const {
+  authorSlugs = [],
+  subjectSlugs = [],
+  mentionSlugs = [],
+  title = "People in this piece",
+} = Astro.props;
+
+const allThinkers = await getCollection("thinkers");
+const thinkersBySlug = new Map(allThinkers.map((t) => [t.id, t]));
+
+type Role = "author" | "subject" | "mention";
+type Person = { id: string; name: string; role: Role };
+
+const seen = new Set<string>();
+const people: Person[] = [];
+
+function add(slugs: string[], role: Role) {
+  for (const slug of slugs) {
+    if (!slug || seen.has(slug)) continue;
+    const t = thinkersBySlug.get(slug);
+    if (!t) continue;
+    seen.add(slug);
+    people.push({ id: t.id, name: t.data.name.canonical, role });
+  }
+}
+
+add(authorSlugs, "author");
+add(subjectSlugs, "subject");
+add(mentionSlugs, "mention");
+---
+
+{people.length > 0 && (
+  <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+    <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+      {title}
+    </h2>
+    <ul class="flex flex-wrap gap-2">
+      {people.map((p) => (
+        <li>
+          <a
+            href={`/thinkers/${p.id}/`}
+            class="inline-flex items-center gap-2 px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-sm text-(--color-fg) hover:border-(--color-fg) hover:bg-(--color-bg) transition-colors no-underline"
+          >
+            <span>{p.name}</span>
+            {p.role !== "mention" && (
+              <span class="text-[10px] text-(--color-saffron-700) uppercase tracking-wider font-semibold">
+                {p.role}
+              </span>
+            )}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
