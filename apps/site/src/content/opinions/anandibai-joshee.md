@@ -9,6 +9,22 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "anandibai-joshee"
+thinker_mentions:
+  - thinker: anandibai-joshee
+    role: subject
+    reasoning: "The piece is a full-length profile of Joshee — tracing her journey from a nine-year-old child bride in an orthodox Brahmin family to becoming India's first woman to earn an MD in Western medicine — and reading her public stances alongside her private letters as a case study in fragmented women's liberalism."
+    evidence: []
+    key_passages:
+      - quote: "Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine."
+        what_it_shows: establishes her defining arc — from constrained child-bride origins to historic medical achievement
+      - quote: She was determined to go to America for a medical degree as she believed in the urgent need for an Indian female doctor.
+        what_it_shows: "captures her own voice on why female medical practitioners mattered, distinguishing her motive from her husband's ambition"
+      - quote: In 1886, Anandibai received her medical degree thus becoming the first Indian woman to successfully receive an MD in western medicine.
+        what_it_shows: records the historic credentialing moment around which her legacy is built
+      - quote: She was also extremely critical of son preference among Indian parents
+        what_it_shows: shows the private, gender-critical edge of her thinking that the essay foregrounds as proto-feminist liberalism
+related_thinkers: []
+
 ---
 
 The following essay revisits the interesting life of Anandibai Joshee. Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine.

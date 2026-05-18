@@ -9,6 +9,56 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "gopal-ganesh-agarkar"
+thinker_mentions:
+  - thinker: gopal-ganesh-agarkar
+    role: subject
+    reasoning: "The essay is a revisionist profile of Agarkar — arguing that his stature as a 19th-century liberal, rationalist and educationist has been flattened by his 'friend-turned-opponent' reputation vis-à-vis Tilak, and reconstructing his economic thought (especially the 'Teen Arthashastre' essays) to show his commitment to free trade and competition."
+    evidence: []
+    key_passages:
+      - quote: Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess.
+        what_it_shows: "reframes Agarkar as Tilak's intellectual peer rather than a secondary 'friend-turned-opponent' figure"
+      - quote: Agarkar is commemorated for his work as a social reformer, as a rationalist and as an educationist.
+        what_it_shows: summarises the conventional view of his contributions — which the essay then expands to include economic thought
+      - quote: His unequivocal rejection of the preferential treatment to products based on the place of their origin and opposition to state or society sponsored protection to businesses is testimony to his belief in fair play and competition.
+        what_it_shows: crystallises his pro-market liberal position against both colonial protectionism and Swadeshi sentimentalism
+      - quote: He was still an educationist and editor who believed in liberty for all and all walks of life.
+        what_it_shows: locates his economic views within his broader liberal-individualist conviction
+  - thinker: bal-gangadhar-tilak
+    role: mention
+    reasoning: "Tilak is the foil against whom Agarkar's distinct moderate-liberal position is set — Pande argues Agarkar was Tilak's intellectual equal but maintained moderate and liberal positions even as Tilak's nationalism turned aggressive."
+    evidence:
+      - quote: Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess.
+        context: "reclaims Agarkar's stature relative to the more famous Tilak"
+      - quote: "Tilak's meteoric rise as a national leader was owing to his appealing and aggressive rhetoric."
+        context: "contrasts Tilak's mass-political style with Agarkar's sustained moderate liberalism"
+    key_passages: []
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: Ranade is grouped with Telang and Naoroji as one of the Indian thinkers Agarkar cited approvingly for devising means to stimulate Indian industry without violating economic laws — positioning Agarkar in a lineage of Indian moderate-liberal economic thought.
+    evidence:
+      - quote: Indian thinkers like Justice Telang, Justice Ranade and Dadabhai Naoroji had devised ways of stimulating Indian industries, commerce and agriculture without violating the laws of economics.
+        context: "Pande uses Agarkar's invocation of Ranade to show that his economic stance was developed alongside, not against, the moderate-liberal tradition"
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Naoroji is cited alongside Ranade and Telang as one of the moderate Indian thinkers whose proposals for stimulating Indian industry within the laws of economics Agarkar endorsed — situating Agarkar within the moderate-liberal economic-nationalist tradition.
+    evidence:
+      - quote: Indian thinkers like Justice Telang, Justice Ranade and Dadabhai Naoroji had devised ways of stimulating Indian industries, commerce and agriculture without violating the laws of economics.
+        context: Pande lists Naoroji among the Indian economic thinkers Agarkar saw as offering a credible, law-abiding path to industrial growth
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "Mill is named as the philosophical lineage behind Agarkar's economic and political convictions, with Pande noting the 'enlightened despotism' inflection of the philosophical radicals visible in Agarkar's commentaries."
+    evidence:
+      - quote: The influence of Mill on Agarkar is conspicuous.
+        context: places Agarkar in the lineage of British philosophical radicals to explain his liberal-individualist commitments
+    key_passages: []
+related_thinkers: 
+  - bal-gangadhar-tilak
+  - dadabhai-naoroji
+  - john-stuart-mill
+  - mahadev-govind-ranade
+
 ---
 
 _ Agarkar’s commentaries may be carrying a tinge of the 'enlightened despotism' that was the characteristic of philosophical radicals, but his works are still very useful to understand his diligence to expose common people to liberal-individualistic ideas._ Agarkar is most frequently remembered as a 'friend-turned-opponent' of Tilak. In Maharashtrian popular culture, Agarkar perhaps got this hyphenated identity that was seldom devoid of a reference to Tilak. I too got acquainted with Gopal Ganesh Agarkar through Tilak. Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess. Tilak's meteoric rise as a national leader was owing to his appealing and aggressive rhetoric. He had to tone it down as he widened his world-view after becoming a national leader. But Agarkar, his prison-mate of one time who later became a compeer, maintained his moderate and liberal positions all along.  

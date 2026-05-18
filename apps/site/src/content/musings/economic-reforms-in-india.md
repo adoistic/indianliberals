@@ -8,6 +8,29 @@ language: "en"
 needs_review: true
 draft: false
 author: "rakesh-mohan"
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is delivered in Shroff's memory and opens by recounting his role as a Bombay Plan author, Bretton Woods delegate, and founder of the Forum of Free Enterprise — framing him as the ideological anchor whose free-enterprise legacy contrasts with the public-sector institutions he helped midwife."
+    evidence:
+      - quote: I am deeply honoured to have been invited to deliver this A. D. Shroff Memorial Lecture.
+        context: opening line; positions Shroff as the namesake and dedicatee of the entire address
+      - quote: He was among the eight authors of the Bombay Plan and an unofficial delegate at the Bretton Woods Conference
+        context: "biographical aside establishing Shroff's institutional weight in mid-century Indian economic policy"
+      - quote: Mr. Shroff founded the Forum of Free Enterprise.
+        context: closes the biographical aside by highlighting the free-enterprise institution Shroff built, which sponsors this very lecture
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru appears in a biographical aside as Shroff's collaborator on the 1938 National Planning Committee, used to underscore Shroff's early institutional involvement at the founding moment of Indian economic planning."
+    evidence:
+      - quote: He was associated with Pandit Jawaharlal Nehru as early as 1938 when he served with him in the National Planning Committee.
+        context: "establishes Shroff's planning-era credentials by linking him directly to Nehru's founding committee"
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+  - jawaharlal-nehru
+
 ---
 
 The following text is taken from a 2006 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go-by-dr-rakesh-mohan-october-10-2006/) Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.
