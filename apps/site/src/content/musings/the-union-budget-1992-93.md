@@ -54,9 +54,7 @@ _Following is an excerpt from a March 1992 booklet, titled [The Union Budget 199
 
 The four main thrusts of the Budget are - liberalization, integration of India into the global economy, reduction of taxes, and a stable and healthy balance of payments. 
 
-
  	- Liberalization is the key to the Budget. (The only criticism can be that it measures liberalization with coffee spoons.) It is a Watershed Budget which marks the beginning of a new chapter in India’s economic history. We have left behind the terminal stage of our forty-year affair with shabby State socialism. It was our ideological socialism which had been responsible for India remaining the twentieth poorest nation on earth. Our gross domestic product is smaller than that of greater Los Angeles (population 14 million). We have more than 15 per cent of the world’s population, and less than 1.5 per cent of the world’s income. Our per capita income did not even double since we became a republic — it only increased 92 per cent in real terms.
-
 
 This year’s historic Budget for the first time reflects the consciousness of our government that fast economic growth would be impossible with woolly, outworn socialism which betrays a severe hardening of intellectual arteries and a pathetic lack of knowledge of the revolutionary changes which have recently swept across the world.
 
@@ -70,13 +68,11 @@ We are slipping behind the rest of the world — except in population growth. Th
 
 The United Nations Development Report, published last June, ranks the nations of the world by reference to the Human Development Index (HOI). In determining a nation's position in the list, the HOI takes into account the expenditure incurred by the state on human priority sectors- health, water, sanitation, daily calorific intake, literacy, and education at primary and secondary levels. Having regard to the HOI, India is placed, for the second year running, pretty much at the bottom of the list- 123rd out of 160 countries. Dr. Manmohan Singh has rightly emphasized that unless certain values are adhered to by the nation, it  cannot come out of the recession. The Finance Minister has no Midas touch; he has no snake oil which can be used as having a  magical healing power in matters economic.
 
-
  	- The proposed integration of India into the global economy has not come a day too soon. The emerging world economy has erased national boundaries. Capital and companies no longer stop at the border. If  India is to grow and prosper, it has no alternative but to be integrated into the world economy.
 
  	- Reduction of taxes is one of the avowed aims of the Budget. In a  global economy, cutting taxes has become a  matter of national interest: high tax countries inevitably lose out. The days when the government could adopt any tax policy, as if the nation existed within a vacuum, are over.
 
  	- If India is to have a stable and healthy balance of payments, it can only be through increased exports. Our share has dropped from 2.2 per cent of world exports in 1950 to 0.44 per cent. Among the exporting countries, India ranked sixteenth in 1950: today its rank has dropped to fortythird! Even Holland, one of the tiny countries of the world with a population of 15 million, has six times the exports of India! Hong Kong has almost three times the international trade of India, although its population is less than one per cent of India's - 0.7 per cent to be precise, while its land area is 0.03 per cent of India's.
-
 
 **Unjustified criticism**
 

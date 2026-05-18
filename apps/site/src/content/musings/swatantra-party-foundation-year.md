@@ -66,7 +66,6 @@ _To commemorate the 64th Foundation Year of the first and the only Liberal polit
 
 You can read the complete musing here: [Why Swatantra](https://indianliberals.in/wp-content/uploads/2023/06/Why-Swatantra.pdf)
 
-
 **C Rajagopalachari - To Save Freedom**
 
 The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State. it is an answer to the challenge of the so-called Socialism of the Indian Congress Party. It is founded on the conviction that social justice and welfare can be attained through the fostering of individual enterprise in all fields better than through State ownership and Government control. It is based on the truth that bureaucratic management leads to loss of incentives and waste of resources. When the State trespasses beyond what is legitimately within its province, it just hands over the management from those who are interested in frugal and efficient management to bureaucracy which is ingrained and uninterested except in its own survival.

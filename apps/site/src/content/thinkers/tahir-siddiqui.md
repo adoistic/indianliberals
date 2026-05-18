@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: content/theprint-mirror/hitlerite-vegetarianism-india-food-science-sentiment.md
 ---
-

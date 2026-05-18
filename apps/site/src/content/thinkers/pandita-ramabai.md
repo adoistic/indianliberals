@@ -55,5 +55,3 @@ Her daughter Manoramabai also established a new school, and in 1919, government 
 By 1920, Ramabai sensed a growing physical weakness and designated her daughter to supervise the activities of the Mukti Mission. Manorama died in 1921, and Ramabai herself died in 1922.
 
 She authored several influential works in her lifetime, including The Testimony of an Indian Woman, Pandita Ramabai’s American Encounter: The Peoples of the United States (1889) and Mukti Prakash (1923) – a Marathi-language book compiled and published posthumously by her followers. Through these works, she brought the plight of women in Indian society out of the closet and made relentless efforts to realise their emancipation and empowerment.
-
-> Imported from the previous WordPress site at `/content/pandita-ramabai/`. Needs editorial review pass before locking.

@@ -20,4 +20,3 @@ ai:
 birth_year: 1904
 death_year: 1993
 ---
-

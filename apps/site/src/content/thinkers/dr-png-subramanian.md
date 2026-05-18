@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/chinese-competition-challenges-and-opportunities-by-dr-png-subramanian-2002.pdf
 ---
-

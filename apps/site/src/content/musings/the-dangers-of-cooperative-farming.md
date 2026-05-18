@@ -148,7 +148,6 @@ Hazarding a guess as to the kind of autonomy these cooperative societies will en
 
 Let us look at the recommendations of the Co-operative Law Committee which reported only a few days back. It was a committee of Registrars of Co-operative Societies and other gentlemen who will have to administer co-operative farming after three years. Their main recommendations are: 
 
-
  	- The Registrar should have the right to have the accounts of any society audited "under his own direction and control" and then to give directives to the society to put its house in order.
 
  	- The Registrar has the right to "settle disputes of any kind, to appoint another officer to settle the disputes or to appoint an arbitrator." And no appeal shall lie to a court of law in regard to any of these disputes. (At one stroke the Registrar would abolish the jurisdiction of the rule of law.)
@@ -158,7 +157,6 @@ Let us look at the recommendations of the Co-operative Law Committee which repor
  	- The Registrar may make an order directing the winding up of any society.
 
  	- The State Government may become a member of any co-operative society and when it becomes a member of a co-operative society, "each person nominated by the State Government on the committee shall have one vote."
-
 
 It is surprising to have this kind of report from those who are going to administer the agricultural co-operatives in this country. The Indian Co-operative Union, a leading body of co-operative enthusiasts in this country, have said that the effect of such a report, if accepted, would be to 'reduce the co-operatives to little colonies of backward, ignorant and helpless people to be "administered," "controlled", "supervised", "audited", "inspected", "superseded", "adjudged" and "dissolved" by one single authority, the Registrar of Co-operative Societies.' 
 

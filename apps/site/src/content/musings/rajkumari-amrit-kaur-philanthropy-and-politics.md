@@ -61,7 +61,6 @@ _Known as “a princess in her nation’s service”, Rajkumari Amrit Kaur of Ka
 
 _Like many women in the Constituent Assembly, she did not believe in reservations for women. “In the matter of representation it was felt that if practical equality were secured for women in the domain of franchise, they would be able to find their way into the legislative and administrative institutions of the country through the open door or ordinary election, and no special expedients such as reservation of seats, nomination, co-option or separate electorates would then be necessary,” she wrote._
 
-
 Amrit Kaur was born on 2 February 1889 in the royal family of Kapurthala in Punjab to Raja Sir Harnam Singh Ahluwalia and Priscilla Golaknath- whose father had mentored Harnam Singh and guided him during his conversion to Christianity. Amrit Kaur was raised as a Christian and shared her father’s political inclinations, introducing her to freedom fighters like Gopal Krishna Gokhale. She said, _“The flames of my passionate desire to see India free from foreign domination were fanned by him [Gokhale].” _
 
 Amrit Kaur received her education in England and, upon her return, took up the cause of the Indian independence movement.

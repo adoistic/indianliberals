@@ -37,30 +37,21 @@ geographic_scope:
 **"They are slaves who dare not be In the right with two or three." - Minoo Masani**
 An online repository of Indian liberal writings, indianliberals.in was launched in 2015. The intent of the Indian Liberals archive which presently hosts up to 50,000 digitized pages is to offer exhaustive and comprehensive resources on the liberal discourse in India by ensuring high diversity of content. Indian Liberals portal is a platform for consolidating and curating Indian liberal literature, to document, preserve and disseminate the robust strands on liberalist thinking that have marked Indian history.
 
-
 **Eligibility:** Open to youth throughout India. You must be at least 18 years and no older than 30 years of age.
-
 
 **Last Date for Submitting Your Essays (via email): 15th May 2019**
 
-
 **Registration fee:** The is NO registration fee for this event.
-
 
 **Language:** Essays should be written in English. You are welcome to write in your native language, but it must be translated into english for submission.
 
-
 **Where to submit:** All entries should be mailed to indianliberals@ccs.in OR hinan@ccs.in before the last date (15th May)
-
 
 Along with the essay, you are required to send a photograph and a brief bio.
 
-
 **Topics:**
 
-
 You can choose any one of the following topics
-
 
  	- Diversity, Democracy, and Dissent
 
@@ -76,9 +67,7 @@ You can choose any one of the following topics
 
  	- Fourth Industrial Revolution - What it means for India?
 
-
 **Prizes:**
-
 
  	- First Prize: INR 9,000
 
@@ -88,9 +77,7 @@ You can choose any one of the following topics
 
  	- Fourth and Fifth Prizes: INR 2,000
 
-
 All the winners will receive a certificate of recognition from Centre for Civil Society.
-
 
  	- Essays must be no fewer than 700 and no more than 2000 words. Spelling errors will count against the final grades.
 

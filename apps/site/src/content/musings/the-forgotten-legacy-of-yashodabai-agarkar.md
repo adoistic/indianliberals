@@ -42,7 +42,6 @@ geographic_scope:
 
 _Yashodabai Agarkar, known to most as Gopal Ganesh Agarkar's wife, was a social reformer and an advocate of women's education. The story of her personal struggles shows her courage and determination to follow the ideas inculcated by her husband and how she stood as an example to other women and widows ill treated by the society._
 
-
 Yashodabai Agarkar is a figure missed entirely by history. An inconspicuous reference as Gopal Ganesh Agarkar’s wife has defined her identity. Born as Ambu Phadke in 1868, very little is known of her early life. She was married to Gopal Ganesh Agarkar in 1877, at the age of nine and lived as Yashodabai Agarkar all her life. Yashodabai’s marital life was one of countless struggles. She lived with her parents till she attained puberty and met Agarkar a few times after their wedding. Yashodabai writes of this time period[1], “It had been five years since our wedding. Every year when he [G.G Agarkar] came home for vacation, I would visit him for one-two months. And I would spend the rest of the time at my parents’ home”[2] (Ranade, 1997, p. 64). Even after Yashodabai moved into her matrimonial home in 1882, the separation continued. In 1883, Agarkar was convicted for defamation against the British-appointed Regent and was imprisoned for seven months[3]. Battling financial hardship, Yashodabai spent these seven months alone. 
 
 Gopal Ganesh Agarkar educated Yashodabai and kindled the spirit of reform in her. His thoughts on women’s upliftment and feminism seeped into Yashodabai. Against the wave of criticism and mockery leveled by the society against Agarkar, she stood by his side. While Agarkar was mockingly called as ‘Sudharak’ (meaning reformer; eponym of the newspaper started by Agarkar), Yashodabai was called as ‘Sudharakachi bayko’ (Reformer’s wife) (Deshpande, 2021). After Agarkar’s death in 1895, Yashodabai refused to shave her head, as was customary for widows. People around her advised her, warned her and at times even threatened her to follow the custom and shave her head. Yashodabai recounts - “People tried to instill fear in me telling me - ‘the kids are young and they are yet to be married. Just shave your head and follow the custom so that things will fall in place. Or else you will inflict pain on your family.’ But I didn’t care about their warnings or threats and I continued on the path Gopalrao had shown me”[4] (Ranade, 1977, p. 109). What empowered Yashodabai to fight the custom was her courage and also the promise she had made to Gopalrao. In 1893, Gopal Ganesh Agarkar had asked Yashodabai to promise him that she wouldn’t shave her head after his death. 
@@ -74,7 +73,6 @@ Deshpande, A. (2021, August 3). _विद्रोहाची शलाका_
 Ranade, P. (1997). _यशोदाबाई आगरकरांच्या आठवणी : एक आकलन_ (2nd ed.) [Print]. Rajhans Prakashan.
 
 [_Previous musing: Fighting for Freedom: The Tumultuous Legacy of Raghunath Karve_](https://indianliberals.in/content/fighting-for-freedom-the-tumultuous-legacy-of-raghunath-karve/)
-
 
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 

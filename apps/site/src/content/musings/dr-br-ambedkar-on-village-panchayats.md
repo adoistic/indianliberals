@@ -48,7 +48,6 @@ _Dr Bhimrao Ramji Ambedkar needs no introduction. He was a political leader, sch
 
 _You can read the original, unabridged version_ [_here_](http://drambedkarwritings.gov.in/upload/uploadfiles/files/Volume_02.pdf) _(pp. 123-131)._
 
-
 Dr Ambedkar’s views on Panchayati Raj in India differed from that of other leaders like Mahatma Gandhi in terms of the practicality of its implementation. He expressed his opinion in detail on the Village Panchayats Bill in the debates of the Bombay Legislative Council during 1932-33. Though he agreed with the devolution policy, he objected to how the Bill intended to empower the Village Panchayats.
 
 In one of such speeches, he said, “Whatever be the merits of these rural republics, I have not the slightest hesitation in saying that they have been the bane of the public life of India.”

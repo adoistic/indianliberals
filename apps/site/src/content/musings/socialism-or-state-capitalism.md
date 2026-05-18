@@ -50,7 +50,6 @@ _The musing shared below is a 1970 piece published by the Forum of Free Enterpri
 
 _You can read the unabridged version with contributions from Dr R C Cooper and Prof. C L Gheevala here [Socialism or State Capitalism](https://indianliberals.in/wp-content/uploads/2023/06/Socialism-or-State-Capitalism.pdf)___
 
-
 It is bad enough that India should be a hundred years behind advanced nations in industrial development. It is a much more serious handicap that intellectuals and politicians should be more out of date in their ideals. This is particularly true of capitalism and socialism, the nature of which has undergone a great change since Karl Marx expounded his theory. Both these concepts arose out of the industrial revolution. In the early stages, the main characteristics of industrialisation were:
 
 1) low wages based upon the ordinary wages of persons engaged in agriculture and cottage industries;

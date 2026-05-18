@@ -43,7 +43,6 @@ _Dahyabhai Vallbhbai Patel was a Congressman and an elected member of the Bombay
 
 _You can read the original, unabridged version on _[_Page 42_](https://indianliberals.in/wp-content/uploads/2022/06/The-Budget-versus-the-people.pdf)_ here._
 
-
 The Budget for next year has provided for a total expenditure of Rs 4,290 crores; of this, Rs 2,116 crores will be in the revenue account and Rs 2,174 crore in the capital account. The total expenditure of the Government will be higher than the previous year's revised estimate by Rs 216 crores-Rs 117 crores on the revenue account and Rs 99 crores on the capital account. The Budget provides a total defence expenditure of Rs 879 crores in 1965-66 on revenue and capital account, compared to the revised estimate of Rs 835 crores in 1964-65.
 
 The Finance Minister has, however, mentioned that the actual rupee expenditure would not increase much because purchases of stores and aircraft, the total value included in the expenditure estimates, are being made on deferred payment terms. To this extent, the inflationary impact of such expenditure will be less.
@@ -53,7 +52,6 @@ The total transfer of resources by the Centre to the States will be Rs 1,307 cro
 Thus, the States have come to depend more on the Centre for financial assistance. Has not this over-dependence on Central assistance encouraged lassitude on the part of the States and impaired fiscal prudence? It is worth thinking over.
 
 ### **Assurances Flouted**
-
 
 The assurance given at the time of the Chief Ministers' Conference in June 1964 that the Centre would save Rs 70 crores mainly on non-productive items has not been given effect to, and the total expenditure has actually exceeded the Budget provision.
 
@@ -66,7 +64,6 @@ The present tax rates have discouraged savings of the people and the corporate s
 A large part of national production, particularly agricultural, is almost wholly unrelated to the Budget. In 1964-65 it was expected that foodgrain production would reach about 87 million tonnes, nearly 8 million more than in 1963-64. This will improve the present food shortage and enable us to accumulate buffer stocks.
 
 ### **No Incentives**
-
 
 Industrial production and growth are, on the other hand, conditioned by Budget operations. In his Budget speech, the Finance Minister accepted the necessity and the urgency for Indian industry to branch out into new and complex lines of development. Still, the Budget itself does not contain any incentives and does not even aim at creating normal conditions in which growth can take place.
 
@@ -86,13 +83,11 @@ Despite these observations, like those he made in his Union Budget Speech last y
 
 ### **Half-Hearted Reliefs**
 
-
 The reliefs he has announced have been granted in a halting and hesitant manner. They do not go for enough and have failed to infuse the confidence and vigour the capital market has needed for some time.
 
 The concessions are only marginal and do not relieve the pressures on the industry at the vital spots. With a large surplus of Rs 237 crores next year at the existing rate of taxation and a small overall surplus of Rs 10 crores, the Finance Minister could have given genuine relief to the industry and taxpayers.
 
 ### **Punitive Taxes**
-
 
 Unfortunately, in India, we still seem to be clinging to old notions. India has the unique position of being the most taxed nation in the world.
 
@@ -101,7 +96,6 @@ We have the largest number of taxes, and their complexity is indeed bewildering.
 Even compared to other developing countries like Pakistan, Burma, Malaya and Brazil, India has the distinction of having much higher tax rates. It is so in regard to the rates of both personal and corporate taxation.
 
 ### **Inaccurate Estimates**
-
 
 The revenue surplus for 1963-64 is expected to be as high as Rs 229 crores as against the Budget Estimate of Rs 83 crores. No matter how often it is stressed and who stresses it, even if it be the Public Accounts Committee, the Finance Ministry continues to underestimate its revenues grossly.
 
@@ -115,7 +109,6 @@ However, it remains a matter of speculation how far Government's efforts to enfo
 
 ### **Investors Reluctant**
 
-
 We must take note of the observations of Dr Hans Kuntze, leader of the West German Business Delegation, which recently visited India when he said that India was not the only country asking for aid.
 
 He said, "You should remember that other countries are competing with you. I would be delighted if in this competition you beat them all."
@@ -127,7 +120,6 @@ The Finance Minister has granted concessions regarding excise duties on certain 
 It is disappointing to note that despite representations made by the industry and its genuine need, the dividend tax has been retained. Similarly, there has been no change in the capital gains tax, though a marginal relief has been granted in the case of bonus shares.
 
 ### **Confidence Destroyed**
-
 
 As pointed out earlier, these taxes have profoundly affected the capital market and the general sentiment of the investing public. They have done incalculable harm to the process of capital formation. The argument of the Finance Minister that the dividend tax has not materially affected the distribution pattern of dividends is fallacious. 
 
@@ -141,13 +133,11 @@ This is indeed a very harsh step to take and will cause undue hardship. Moreover
 
 ### **Government All-Powerful**
 
-
 In India, Government has vast discretionary and arbitrary powers. Due to the licensing and permit system, every citizen of the country has to run from pillar to post to get the necessary clearance for his application. In the circumstances, it appears idle to talk of economic power in anybody's hands. Economic power rests in the hands of the Government and the Ministers and the enormous bureaucracy that has increased during the last few years.
 
 As long as income-tax rates, the Estate Duty and the Gift Tax remain at the existing high levels, the will to save and invest will be lacking. It is only when these taxes are brought down to more reasonable levels that the investor will feel inclined to work, save and invest in productive enterprises because if, after all his efforts and endeavours, his savings and capital are taken away as a result of confiscatory rates of income-tax, Estate Duty and Gift Tax, he will be left with no initiative.
 
 ### **Sheer Waste**
-
 
 I would also like the Finance Minister to examine the matter in one way. What is the amount of expenditure the Government must incur to collect small amounts of tax? It will be about Rs 80  to Rs 90 from small assessees yearly.
 
@@ -161,7 +151,6 @@ Charity should begin at home. The Government should start with Government Depart
 
 ### **Public Sector Obsession**
 
-
 This morning we had a question about the Coal Development Corporation. There too, we are losing Rs 40 lakhs every year. That also adds to our tax burdens. As if this were not enough, this morning's papers announced that the Government still has the faulty notion of placing small car production in the public sector. I thought the matter had been set at rest a few years ago, but some people revived it. I hope the Finance Minister understands this implication and will not allow this to be done; it will not help the country.
 
 Apart from the Steel and Coal Corporations, we understand that the State Trading Corporation had bought edible oil worth Rs 80,000, which it had to sell for Rs 20,000 recently. If such is the achievement of the State Trading Corporation, can anybody say it is giving us any benefit?
@@ -170,13 +159,11 @@ The Government have got a large number of Advisory Committees, but I do not know
 
 ### **Corrupt Rampant**
 
-
 Then, of course, we have the burning question of the day what is happening in the great State of Orissa? What do Mr Nanda and the Sadachar Samiti have to say? I will not repeat what I said yesterday on certain provisions of the Bill before us, but is this the way the Sadachar Samiti and the Home Minister are proceeding?
 
 Will the Sadachar Samiti be turned into a Gestapo of the Home Minister? The country is entitled to know why we are being asked to pay more and more if this is how the money will be taken and spent.
 
 ### **Discrimination**
-
 
 Before I conclude, I would also like to add how Departments of Government - it is not only the Finance Department but other Departments also - are being used. I have before me the case of a paper taught was supposed to be started as a weekly by no less a person than a grandson of Mahatma Gandhi.
 

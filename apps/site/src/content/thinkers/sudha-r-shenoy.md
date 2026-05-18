@@ -69,5 +69,3 @@ The Indian Libertarian Volume : 5 ;Issue: 15
 How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy
 
 Lecture presented by Sudha R Shenoy at the Ludwig von Mises Institute in Auburn, Alabama; October 26, 2006.
-
-> Imported from the previous WordPress site at `/content/sudha-r-shenoy/`. Needs editorial review pass before locking.

@@ -47,7 +47,6 @@ The formulation of the `remunerative price' theory was straightforward and simpl
 
 However, the economic pundits and the politicians protested vehemently. They cried:
 
-
  	- "Remunerative prices for agriculture are tantamount to subsidising the rural rich at the expense of the urban poor."
 
  	- "Remunerative prices will benefit only the rural rich and not the landless poor."
@@ -56,9 +55,7 @@ However, the economic pundits and the politicians protested vehemently. They cri
 
  	- "Free markets for agricultural commodities can produce shortages and food insecurity and, eventually, even starvation."
 
-
 The opposition of all the establishment economists notwithstanding, the farmers rallied in ever-larger numbers to the call of remunerative prices. The agitations produced immediate gains in the form of increase in support prices.
-
 
  	- The Chakan agitation (1980) got the onion farmers a support price of 60 paise a kg in the place of the mere 7 paise they were getting at that time. The constant reaction of onion producers to all attempts at restricting export of the commodity ensured aprice of Rs 3-5 a kg now.
 
@@ -70,7 +67,6 @@ The opposition of all the establishment economists notwithstanding, the farmers 
 
  	- The agitation against the Maharashtra State Cotton Monopoly Procurement Scheme, which required the growers to sell their produce exclusively to the State dragged on for 18 years and ended by vanquishing the monopoly procurement scheme. The guaranteed price of cotton was Rs 700 per quintal in 1986. Now growers get around Rs 3,000 per quintal.
 
-
 Apart from the concessions wrested by the thrust of farmers' agitations, the demonstrated clout of farmers' opinions and unity had its political consequences and the Minimum Support Prices (MSPs) continued to increase year after year. In the decade since 1990-91, the procurement price of wheat went up by 258 per cent, that of coarse cereals by 215 per cent, of arhar by 275 per cent, of cotton by 270 per cent; and the Statutory Minimum Price of sugarcane by more than 300 per cent.
 
 The sheer strength of agitations and the political clout of the farm lobby were supplemented by yet another major development. The historic fall of the Soviet Union and the shift to the market paradigm ensured a successful culmination of the Uruguay Round GATT negotiations. The Agreement on Agriculture (AoA) of the World Trade Organisation (WTO) endowed a large number of benefits to farmers in India. First, there was a clear vindication of the fact that the farmers here suffered under heavy negative Aggregate Measurement of Support (AMS). Second, the abolition of Quantitative Restriction (QRs) took away all incentives for the political decision-makers and the bureaucracy to order imports in the nature of dumping.
@@ -79,13 +75,11 @@ In 1996-97, the quantum of negative AMS for 14 major crops in India was Rs 113,0
 
 However, the gains of this movement on the doctrinal front are spectacular:
 
-
  	- There is a universal acceptance that India has had a long regime of price-depressing policies that need to be reversed.
 
  	- There is a clear understanding there is little conflict between the interests of the landless labourers and those of the landholding farmers. The wage rates increase much faster than farm produce prices.
 
  	- There is also a realisation that the local chain of intermediaries is not the cause of the gap between the consumer and the producer prices. The India-Bharat syndrome is the more significant cause of the chasm and can be corrected by overall liberalisation and market reforms.
-
 
 At the end of a quarter century of struggle, the typical farmer is as badly indebted as he was at the beginning but stands vindicated and cleared of all charges of being indolent, ignorant and incompetent.
 

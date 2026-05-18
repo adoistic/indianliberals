@@ -29,12 +29,9 @@ _“Your Prosperity Through Freedom” was written by M. R. Pai and designed by 
 
 _You can read the complete, unabridged version here [Your Prosperity Through Freedom](https://indianliberals.in/wp-content/uploads/2023/07/Your-Prosperity-Through-Freedom.pdf)___
 
-
 Work–yes, everyone has got to work. But few know why. Mostly all will say that we work for a livelihood. But it is not only for a livelihood we work.
 
-
  	- We work because it is a social necessity.
-
 
 Today we are fast moving towards an industrial-based society that is based on **specialization **and **division** of labor.
 
@@ -48,9 +45,7 @@ This arrangement helps to create more goods and services for all. Since everyone
 
 Alone we could never produce everything and so many things. 
 
-
  	- We work because it gives us a sense of satisfaction (an essential element in human nature)
-
 
 - Isn’t this article I wrote really great!
 
@@ -58,9 +53,7 @@ Alone we could never produce everything and so many things. 
 
 - O Boy! What a wonderful job I’ve done!
 
-
  	- We work in order to buy leisure
-
 
 For instance, an employee gets his privilege leave every year, holidays every week, and on festival days or days of national importance. He also gets time for himself once he completes his eight-hour stretch at work. These leisure hours he can put to any use he likes, for instance-resting, photography, music, reading, outdoor life, games, etc. 
 
@@ -72,7 +65,6 @@ When the government dominates and owns all means of production, distribution, an
 
 This means that, in effect, the state is above the individual. The government directs all economic activities without the consent of the people. This leaves no choice for individuals–
 
-
  	- in choosing their work
 
  	- spending their money
@@ -83,13 +75,11 @@ This means that, in effect, the state is above the individual. The government di
 
  	- neither have the liberties
 
-
 Leon Trotsky, the communist leader, after seeing communism in action, said:
 
 “Formerly the rule was- he who does not work shall not eat.’ Now the rule is– he who does not obey shall not eat.”
 
 Good examples of this state of affairs, viz. of **State Capitalism,** are communist countries.
-
 
  	- No rule of law–the government is the law
 
@@ -106,7 +96,6 @@ Good examples of this state of affairs, viz. of **State Capitalism,** are commun
  	- No freedom of thought
 
  	- There are no parties except one and no free elections
-
 
 Socialist countries, in their end result, are no different from communist ones. Like communism, socialism is a collectivist ideology. Socialism professes faith in individual freedom.
 

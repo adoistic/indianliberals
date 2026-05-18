@@ -22,4 +22,3 @@ ai:
 birth_year: 1854
 death_year: 1939
 ---
-

@@ -41,7 +41,6 @@ _C Rajagopalachari’s “Have We Lost Our Will To Be Free,” written in 1965, 
 
 _You can read the complete, unabridged version [here](https://indianliberals.in/swatantra-party/sixth-national-convention-swatantra-souvenirs-1973.pdf) ___
 
-
 Shortly after the Philadelphia Convention, the story goes that a lady asked Benjamin Franklin about the nature of the Constitution hatched at the convention, to which he replied "We have given you a republic, madam if you can keep it."
 
 In 1947 we were emancipated from British sovereignty. We were made free. But in the course of time, the Government into whose hands we placed ourselves has, in the name of socialism, taken away all the economic freedom that the citizens enjoyed for thousands of years, and the people have shown little inclination to resist this usurpation, the will to be free not being exercised. 

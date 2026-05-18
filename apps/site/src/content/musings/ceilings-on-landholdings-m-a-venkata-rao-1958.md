@@ -40,7 +40,6 @@ _M.A. Venkata Rao was a prominent thinker and commentator known for his libertar
 
 _In this piece, Rao critically examines the proposed land reforms in India, arguing against the imposition of landholding ceilings and highlighting the broader economic, social, and political implications of these policies. He highlights the ideological underpinnings of the reforms, warning of potential consequences for _**_property rights_**_ and _**_democratic governance_**_ in India._
 
-
 This year (1958) marks a crucial turning point for agriculturalists, with significant land reform proposals under consideration in several Southern states, including Kerala, Andhra, and Mysore. These states are following the lead of Bombay, which has already introduced reforms, and Madras is poised to do the same.
 
 It is vital for the future of democracy and stable governance in India that these land reform proposals are discussed thoroughly from all perspectives—economic and social, short-term and long-term, evolutionary and revolutionary. Such discussions should involve people with relevant experience and intellectuals in general, to ensure that any decisions made have the informed consent of thoughtful citizens. After all, democracy fundamentally means governance by consent, and no issue is ever truly settled unless it is settled rightly.

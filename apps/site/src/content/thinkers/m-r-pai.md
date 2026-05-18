@@ -26,5 +26,3 @@ After his return to India, he worked briefly at the New India Assurance Company 
 Pai's advocacy of free enterprise at FFE was complemented by his consumer-rights activism. His activism came out of his personal experience of waiting eleven years for a telephone connection; the May 19, 1982 issue of Mid-Day published a report titled "M R Pai gets a telephone at last!" He wrote columns for the Tribune ("Consumer Alert") and Bombay ("Beating the System"), founded the Bombay branch of the All India Bank Depositors' Association in 1968, and ensured the provision of mandatory nomination facility for both bank accounts and provident fund.
 
 He passed away on 3 July 2003. Soon after his demise, the board of directors of the Punjab and Maharashtra Co-operative Bank instituted an award in his honour.
-
-> Imported from the previous WordPress site. Needs editorial review. Source: `/content/m-r-pai/`.

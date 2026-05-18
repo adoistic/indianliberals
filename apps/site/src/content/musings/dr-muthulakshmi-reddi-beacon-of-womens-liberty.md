@@ -43,7 +43,6 @@ geographic_scope:
 
 _Dr Muthulakshmi Reddy was an embodiment of progressive liberalism. She was a staunch advocate of women’s education and was a vehement critic of the Devadasi system. She challenged many traditional societal norms. By championing gender equality she left an indelible mark on South Indian social fabric._
 
-
 The nineteenth century was a time of significant intellectual and social change in India. Amidst this ferment, Dr. Muthulakshmi Reddy emerged as a leading figure in the South Indian social reform movement. A beacon of social change, she toiled ceaselessly to ameliorate the plight of women and children in India. Her tireless efforts sought to create a more equitable and just society for women, becoming a profound source of inspiration for all those who believed in the transformative power of women.
 
 Muthulakshmi was born in 1886 in the princely state of Pudukkottai (Tamil Nadu). She was the daughter of Narayanaswamy Iyer, the principal of Maharaja’s College in Pudukkottai. Her father recognised her potential and was determined to provide her with an education, even though it was not the norm for girls then. However, his aspirations were thwarted by an early retirement, resulting from conflicts with the state's Diwan.
@@ -78,19 +77,15 @@ She envisioned a world where women would receive equal treatment, have the same 
 
 **References**
 
-
  	- [https://artsandculture.google.com/entity/muthulakshmi-reddy/m09ryvs](https://artsandculture.google.com/entity/muthulakshmi-reddy/m09ryvs)
 
  	- Santhi, S., & Saravanakumar, A. R. (n.d.). _Contribution of Dr. Muthulakshmi Reddy to Women Empowerment-A Historical Study_. [www.ijstr.org](http://www.ijstr.org)
 
  	- Kamatchi, M. (2016). MUTHULAKSHMI REDDY: THE FIRST MEDICAL WOMAN PROFESSIONAL IN SOUTH INDIA. _Proceedings of the Indian History Congress_, _77_, 612–623. [https://www.jstor.org/stable/26552689](https://www.jstor.org/stable/26552689)
 
-
 _Previous musing: [Have We Lost Our Will To Be Free? (1965)](https://indianliberals.in/content/have-we-lost-our-will-to-be-free/)_
 
-
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
-
 
 **Ch Prashanth**
 Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.

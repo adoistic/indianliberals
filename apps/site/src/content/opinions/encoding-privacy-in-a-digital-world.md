@@ -69,7 +69,6 @@ http://foreignpolicy.com/2018/04/03/ life-inside-chinas-social-credit-laboratory
 https://www.washingtonpost.com/news/the- switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-
 hearing/?utm_term=.acf5a31b87bf.
 
-
 Coase, R. H. (1960). The problem of social cost. Journal of Law and Economics 3(1), 1–44.
 
 Laudon, K. (1997, January). Extensions to the theory of markets and privacy: Mechanics of pricing information. Stern School of Business - New York University - Working Papers.
@@ -79,7 +78,6 @@ Noam, E. M. (1997). Privacy and self-regulation: Markets for electronic privacy.
 Varian, Hal R. 1997. “Economics Aspects of Personal Privacy.” In Privacy and Self-Regulation in the Information Age. Washington, DC: US Department of Commerce, National
 
 Telecommunications and Information Administration.
-
 
 Age-22, Education- B.A. Economics Honours, St. Stephen’s College, Delhi (2015-18), Masters in Public Policy (MPP), St. Xavier’s College (Autonomous), Mumbai (2018-20), Centre for Civil Society (CCS) Alumna; ‘i-Policy for Development Leaders’ (October 2016).
 

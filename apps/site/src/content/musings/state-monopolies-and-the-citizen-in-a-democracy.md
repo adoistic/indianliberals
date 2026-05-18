@@ -96,7 +96,6 @@ This tragic story which has been more or less repeated in other parts of the cou
 
 I should like to sum up my broad conclusions on the subject of State monopolies and the citizen as I follows: 
 
-
  	- It is implicit in the basic conceptions of the democratic system that all citizens shall have the amplest freedom to engage in any form of economic activity that is not demonstrably against the public interest, without their being subject to threats actual or potential, of their exclusion from such activities by the intervention of the State.
 
  	- There must be a more precise and narrowed definition of the area in which the State would be entitled to set up monopolies than is envisaged under the existing provisions of the Constitution. (It is significant that in Britain, where the Labour Party has long been an advocate of nationalisation, there has been in recent years a complete change in opinion in regard to the advantages of nationalisation and a radical change in attitude towards well-managed private enterprises. Not only is there no enthusiasm for renationalising the steel industry but there is a recognition that "under increasingly professional management, large firms are as a whole serving the nation well." The Labour Party now admits that no intervention by the State will take place "where any firm is doing a good job." Moreover, opinion in the Labour Party is veering to the view that where private Companies are "failing down" on their job, it is preferable to control them instead of nationalising them).
@@ -108,6 +107,5 @@ I should like to sum up my broad conclusions on the subject of State monopolies 
  	- When any particular existing enterprise suffers a loss as a result of the creation of a State monopoly there should be provision for compensation to the extent of such loss by the State.
 
  	- In addition to purely Parliamentary bodies like the Public Accounts Committee or the Estimates Committee, which may periodically go into the working of State-run enterprises, there must be an impartial and quasi-Judicial body like the Tariff Commission in India, or the Monopolies Commission in England, to review the operations of State monopolistic enterprises to hear complaints from the public and from private concerns that may suffer in one way or other and to make recommendations for the better functioning of these enterprises to prevent abuses.
-
 
 _Last week's musing: [GLOBALISATION AND THE POOR](https://indianliberals.in/content/globalisation-and-the-poor-2/)_

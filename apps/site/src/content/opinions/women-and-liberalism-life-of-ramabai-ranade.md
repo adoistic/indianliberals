@@ -86,5 +86,4 @@ Ramabai Ranade’s life and work can be read in her own words in ‘Himself: The
 The idea of Seva Sadans, or the many women empowerment groups which Ramabai helped steer, becomes important when ascertaining Ramabai’s liberal credentials. She realised the role of civil society, community and entrepreneurship as the way forward for women and throughout her life engaged in harnessing the potential of women by making them economically independent as well as giving them a sense of individual dignity. ![](https://indianliberals.in/wp-content/uploads/2021/01/IMG_20210106_084858_Bokeh__01-scaled-e1610530101294-285x300.jpg)
 **Devika Dinesh**
 
-
 Devika Dinesh is currently a second-year Integrated Masters student at IIT Madras, who is as undecided about her major as she is about most things in life. However, amongst the few, rare topics in which she has a fiercely decisive stance is that everyone deserves to live in a society that protects and promotes their liberty. At Centre for Civil Society, she worked as an Intern as part of the Indian Liberals Project.

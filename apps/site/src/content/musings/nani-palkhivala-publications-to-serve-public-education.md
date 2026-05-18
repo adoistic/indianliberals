@@ -50,13 +50,11 @@ _While Nani Palkhivala is known to be a legendary figure, there are fewer source
 
 Nani Palkhivala’s belief in principles of freedom was unshakable. He was a prolific writer who expressed these ideas in a clear way. An excerpt from one of the chapters called "Public Education through Publications", reproduced below, contains MR Pai’s recollection of Nani Palkhivala’s writing repository, the impact of his written works, and tales of various individuals involved in their publication._
 
-
 Everyone concerned with taxation is familiar with the book The Law and Practice of Income-Tax by Kanga and Palkhivala. It is the standard reference book on Taxation. Even income tax authorities respect its authoritative contents. Chief Justice M.C. Chagla referred to it as “The Book”. 
 
 Once I had to meet an income tax officer with regard to an assessment of a Trust as a trustee. He said, “Mr. Pai, I know that the Chairman of your Trust is none other than India’s leading income tax authority, Mr. Nani Palkhivala. According to his standard book of reference, what you are saying is right. I also agree with him personally. But my department takes a different view.”
 
 When I reported the matter to Palkhivala, in his typically pragmatic manner he said: “Pay the small amount, but with a letter saying that the assessment is unjustified. However, in order to avoid litigation involving a great deal of wastage of time and money of a public charitable trust, which could be fruitfully used for promoting its objective, the amount is paid under protest.”
-
 
 While Palkhivala’s classic on the law and practice of taxation was popular in corporate and tax circles at all levels, his enormous contribution to public education through the written word deserves great appreciation. He has left for future generations a legacy of noble thoughts. It is noteworthy that he did not derive any personal monetary benefit from these public service publications. 
 

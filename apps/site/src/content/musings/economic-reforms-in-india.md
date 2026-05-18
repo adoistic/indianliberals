@@ -59,9 +59,7 @@ We have now had a decade and a half of economic reforms It is perhaps appropriat
 
 Let me give you the backdrop as to what motivated me to choose this topic. I recently came across, The Tipping Point: How Little Things Make a Big Difference, by Malcolm Gladwell. He observes that many large changes sometimes happen in a hurry. Whereas there is usually a step by step, gradual process of little changes taking place, an epidemic suddenly acquires a tipping point and spreads suddenly. I believe that at the present juncture we are in need of such an epidemic of change and growth; we are perhaps at the tipping point. The macro-foundations of a healthy environment have been laid and now we need lots of little things to make a big difference.
 
-
  	- ** What Has Been Done?**
-
 
 What has been the main objective of the overall economic reform process in India, or for that matter, anywhere? The primary objective has to be the overall acceleration of economic growth along with rapid elimination of poverty. The means to achieve these objectives would be the injection of competition in the economy in order to induce greater efficiency and productivity gains; and dedicated efforts are needed to build capacity through human resource development.
 
@@ -135,9 +133,7 @@ Agriculture is the key significant area that has not been subject to comprehensi
 
 Having given a bird's eye view of the reforms measures let me now turn to the outcome of this whole wide ranging reform process.
 
-
  	- ** Where are We?**
-
 
 There is a need to remember where lndia was at the time of its independence. Power capacity was just 1.1 percent of what it is now. The country was literally in darkness! With high mortality rates, the average Indian died at age 32. More than half of the country was under the poverty line. The income of an average household is now nearly Rs.130,000. Poverty was down to 23-26 percent in 1999- 2000. Per capita growth has gone up from about 1.5 percent per year in the first 30 years after independence to about 6.4 percent per year now. This makes a palpable difference in peoples' standard of living (Tables 1, 2 and 3).[](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-49/)
 [](https://indianliberals.in/content/nani-palkhivala-education-leadership-and-vision-of-free-india/attachment/screenshot-50/)
@@ -149,20 +145,16 @@ Having outlined the major elements of India's achievement since independence let
 The step-up in the growth rate of the economy has been facilitated by an increase in domestic investment to over 30 percent of GDP, financed predominantly by domestic savings. Domestic savings increased to over 29 percent of GDP by 2004-05 after some stagnation in the second half of the 1990s. The improvement in overall savings in recent years has particularly benefited from the turnaround in public sector savings. After turning negative between 1998-99 and 2002-03 owing to sharp deterioration in the savings of Government administration, public sector savings have turned positive again from 2003-04 onwards, mainly reflecting the ongoing fiscal consolidation. In 2004-05, the public sector savings rate was 2.2 percent, but it was still less than a half of the peak of almost five percent touched in 1976-77. Improvement in corporate profitability since 2002-03 has also contributed to increase in domestic savings in the recent years. Household savings remain the predominant component of domestic savings, contributing almost three-fourths of overall domestic savings in 2004- 05. For the Indian economy to achieve higher growth on a sustained basis, further improvement in overall savings is necessary and, in this context, public sector savings will have to play a significant role (Table 4).
 **Table 4:  Aggregate and Public Sector Savings and lnvestment**
 
-
 (As percentage of GDP)
-
 
 Year
 Aggregate
 Public Servant
 
-
 Savings
 Investment
 Savings
 Investment
-
 
 1
 2
@@ -170,13 +162,11 @@ Investment
 4
 5
 
-
 1980-81
 18.9
 20.3
 3.4
 8.4
-
 
 1990-91
 23.1
@@ -184,13 +174,11 @@ Investment
 1.1
 9.3
 
-
 2000-01
 23.5
 24.2
 -1.8
 6.9
-
 
 2001-02
 23.6
@@ -198,13 +186,11 @@ Investment
 -2
 6.9
 
-
 2002-03
 26.5
 25.3
 -0.7
 6.2
-
 
 2003-04
 28.9
@@ -212,13 +198,11 @@ Investment
 1
 6.5
 
-
 2004-05
 29.1
 30.1
 2.2
 7.2
-
 
 _Source:_ National Accounts Statistics, Central Statistical Organisation
 
@@ -310,7 +294,6 @@ In the light of low growth in agricultural production and productivity, had ther
  
 **Table 10:  Urban Population in India, 1901-2001**
 
-
 Census Year
 Year of UAs/Towns
 Total Population (in million)
@@ -318,7 +301,6 @@ Rural Population (in million)
 Urban Population (in million)
 Average Annual Growth in Urban Population
 Urban Population as percentage total Population
-
 
 1
 2
@@ -328,7 +310,6 @@ Urban Population as percentage total Population
 6
 7
 
-
 1901
 1,830
 238
@@ -336,7 +317,6 @@ Urban Population as percentage total Population
 26
 
 10.8
-
 
 1911
 1,815
@@ -346,7 +326,6 @@ Urban Population as percentage total Population
 0.00
 10.3
 
-
 1921
 1,944
 251
@@ -354,7 +333,6 @@ Urban Population as percentage total Population
 28
 0.77
 11.2
-
 
 1931
 2,066
@@ -364,7 +342,6 @@ Urban Population as percentage total Population
 2.14
 12.0
 
-
 1941
 2,253
 319
@@ -372,7 +349,6 @@ Urban Population as percentage total Population
 44
 2.94
 13.9
-
 
 1951
 2,822
@@ -382,7 +358,6 @@ Urban Population as percentage total Population
 4.09
 17.3
 
-
 1961
 2,334
 439
@@ -390,7 +365,6 @@ Urban Population as percentage total Population
 79
 2.74
 18.0
-
 
 1971
 2,567
@@ -400,7 +374,6 @@ Urban Population as percentage total Population
 3.80
 19.9
 
-
 1981
 3,347
 683
@@ -408,7 +381,6 @@ Urban Population as percentage total Population
 160
 4.68
 23.3
-
 
 1991
 3,769
@@ -418,7 +390,6 @@ Urban Population as percentage total Population
 3.63
 25.7
 
-
 2001
 4,378
 1,027
@@ -427,9 +398,7 @@ Urban Population as percentage total Population
 3.07
 27.8
 
-
 Note:
-
 
  	- Urban Agglomerations, which constitute a number of towns and their outgrowths, have been treated as one unit.
 
@@ -438,7 +407,6 @@ Note:
  	- The total population and urban population of lndia for the year 1991 includes interpolated population of Jammu & Kashmir where the census could not be conducted.
 
  	- The total population and urban population of lndia for the year 1981 includes interpolated population of Assam where the census could not be conducted
-
 
 _Source: Census of India, 2001_
 

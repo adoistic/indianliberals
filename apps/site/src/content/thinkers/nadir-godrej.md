@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/the-guardian-of-liberty-by-nadir-godrej-september-29-2016.pdf
 ---
-

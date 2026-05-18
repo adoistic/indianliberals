@@ -21,4 +21,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: corpus_mention
 ---
-

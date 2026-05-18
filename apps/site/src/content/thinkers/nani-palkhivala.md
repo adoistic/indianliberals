@@ -85,5 +85,3 @@ The Union Budget 1995-96 : Bypassing parliamentary Select Committee
 S. Divakara on Nani Palkhivala s Union Budget Commentaries
 
 S. Divakara, Director-General of the Forum of Free Enterprise speaking about Nani Palkhivala s famous Union Budget commentaries. These commentaries used to be annually organised by the Forum in Bombay soon after Finance Minister s annual budget speeches.
-
-> Imported from the previous WordPress site at `/content/nani-palkhivala/`. Needs editorial review pass before locking.

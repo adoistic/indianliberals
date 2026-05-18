@@ -54,7 +54,6 @@ geographic_scope:
 
 _Produced below is an excerpt from an article by A. Ranganathan called "Tagore's Humanistic Approach to Indian Nationalism," where the author explores Rabindranath Tagore's unique perspective on Indian nationalism. The article delves into how Tagore distinguished Indian nationalism from European forms, emphasized the importance of cultural exchange with the West, and believed that true freedom extended beyond political independence into the realm of the mind and spirit._
 
-
 In order to appreciate the significance of Tagore's most precious gifts to our country, it is necessary to view the backdrop of the 'Indian Renaissance' in its historic setting. The transition from medieval to modern India, which resulted in that great cultural awakening known as the 'Indian Renaissance', was effected by Raja Ram Mohan Roy. Indeed, the day of Raja Ram Mohan Roy's birth was also the birthday of modern India. A new spirit was abroad, a new buoyancy of life symbolizing the streaks of a rosy dawn after the long medieval night which had enveloped India for centuries.
 
 The various forces which have contributed to the shaping of modern India originated in the mind of Raja Ram Mohan Roy. And Tagore not only constituted a historic link in the long chain of India's cultural evolution, but was also the prophet of the Indian Renaissance heralded by Raja Ram Mohan Roy.

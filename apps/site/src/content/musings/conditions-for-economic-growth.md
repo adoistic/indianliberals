@@ -36,7 +36,6 @@ In this article, English classical economist Prof. William Harold Hutt answers h
 
 Given the inevitable onset of a recession in the Indian economy, his ideas, presented for the first time in 1964, remain as important today as they were then. While summing up the article, Prof. Hutt argues that India’s rapid development will depend upon the success with which:
 
-
  	- thrift can be encouraged by a taxation system which does not discriminate against the provident;
 
  	- the foreign capital needed can be attracted by the creation of faith that nationalisation or confiscatory taxation will be avoided and by official acknowledgement of the reasonableness of foreign control of foreign capital accepted;
@@ -56,7 +55,6 @@ Given the inevitable onset of a recession in the Indian economy, his ideas, pres
  	- inflationary policy can be renounced, a major incentive to corruption (which accompanies the repressed form of inflation) being thereby eliminated; and
 
  	- unbridled population growth can be prevented.
-
 
 Even after 55 years, one can clearly see that these prescriptions remain timeless and note that no Indian government has worked seriously on these long term solutions to instil rapid economic growth. Our misguided policies are largely ad-hoc and continue to lead us from one slowdown to another.
 

@@ -16,4 +16,3 @@ ai:
   drafted_at: "2026-05-18"
   model_version: "cross-link-audit-phase-a"
 ---
-

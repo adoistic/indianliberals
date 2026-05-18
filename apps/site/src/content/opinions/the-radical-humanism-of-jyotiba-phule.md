@@ -87,11 +87,8 @@ However, it was in the 1880s-90s that the Bahujan unity project of Phule geared 
 
 Jyotiba Phule dedicated his pamphlet Ghulamgiri to “the good people of the United States as a token of admiration for their sublime disinterested and self-sacrificing devotion in the cause of Negro slavery”. He also expected his fellow Indians to follow the American abolitionists in their fight for a just and equal order. In Phule, thus, we have an intellectual and activist with a global vision seeking to reform his own society.
 
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
 
-
 **Sanjeet Kashyap**
-
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

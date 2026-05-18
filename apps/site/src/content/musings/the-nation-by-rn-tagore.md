@@ -31,7 +31,6 @@ _Rabindranath Tagore (1861-1941) was a renowned poet, novelist, and playwright w
 
 _In the following essay, Tagore reflects on the concept of nationalism and its relationship with culture. He argues that true nationalism should not be based on narrow and exclusive definitions of identity but should embrace diversity and celebrate the commonalities that unite humanity._
 
-
 The People are living beings. They have their distinct personalities. But nations are organisations of power, and therefore their inner aspects and outward expressions are everywhere monotonously the same. Their differences are merely differences in the degree of efficiency.
 
 In the modern world, the fight is going on between the living spirit of the people and the methods of nation-organizing. It is like the struggle that began in Central Asia between cultivated areas of man’s habitation and the continually encroaching desert sands till the human region of life and beauty was choked out of existence. When the spread of higher ideals of humanity is not held to be important, the hardening method of national efficiency gains a certain strength; and for some limited period of time, at least, it proudly asserts itself as the fittest to survive. But it is the survival of that part of man which is the least living. And this is the reason why dead monotony is a sign of the spread of the Nation. The modern towns, which present the physiognomy due to this dominance of the Nation, are everywhere the same, from San Francisco to London, from London to Tokyo. They show no faces but merely masks.

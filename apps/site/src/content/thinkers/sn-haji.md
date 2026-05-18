@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/role-of-free-enterprises-by-sn-haji-october-2-1956.pdf
 ---
-

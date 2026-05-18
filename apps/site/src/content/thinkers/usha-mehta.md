@@ -19,4 +19,3 @@ ai:
 birth_year: 1920
 death_year: 2000
 ---
-

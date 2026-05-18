@@ -17,4 +17,3 @@ ai:
 birth_year: 1874
 death_year: 1965
 ---
-

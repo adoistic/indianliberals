@@ -111,7 +111,6 @@ In addition, this conference recommended some guidelines for science policy whic
 
 The preamble recognised the vital role of science and technology in relation to growth, and recommended that the country should:
 
-
  	- formulate and implement a purposeful National Science Policy as a high priority measure in any government programme;
 
  	- extend the scope of their science policies to the whole chain of activities ranging from basic research to the innovation processes whereby the results of research and experimental development are translated through engineering and design into products and techniques of immediate socio-economic value;
@@ -128,16 +127,13 @@ The preamble recognised the vital role of science and technology in relation to 
 
  	- formulate the national science policy in such a way as:
 
-
 (a) to create favourable conditions for the application of science and technology to national development; 
 
 (b) to reduce social disparity or adverse side-effects when adopting new technology, and in particular not to aggravate unemployment;
 
-
  	- adopt, publish and keep under constant review, a set of basic criteria for the allocation of national resources to science and technology, and in particular to research and development activities;
 
  	- promote, as a priority sector of the national science policy, the development of adequate scientific and technical information organization and services at the national level.
-
 
 While considering the excellence of these recommendations, it is salutary to recall that in l958 the late Prime Minister, Mr. Jawaharlal Nehru, enunciated the Scientific Policy Resolution to Parliament, to affirm its faith in the vital role of science and technology in the transformation of our society. It is an admirable document and emphasises what science can do in providing new conceptual frame-works and analytical tools for tackling socio-economic problems and in promoting the spread of a scientific temper among the community at large. But I might comment after 13 years that there has been not much visible impact of science on our society.
 

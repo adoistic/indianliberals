@@ -46,16 +46,13 @@ _The following text is the speech delivered by Mr Charanjit Rai, MP from the con
 
 _You can read the original, unabridged version on _[_Page 27_](https://indianliberals.in/wp-content/uploads/2022/06/Copy-of-The-Missed-opportunity.pdf)_ here._
 
-
 Mr Deputy Speaker, Sir, it is a matter of common sense that the economic prosperity of any country can be brought about by the maximum utilisation of resources of that country. In that process, the human factor is important. It is the man who makes use of these resources to the maximum extent through his knowledge, hard work and sincerity of purpose, but for this, he needs incentives. Even Sri Morarji Desai did not wish to join the Cabinet till he was offered the incentive of a Deputy Prime Ministership. The day before yesterday, even Shri Dange accepted the principle of incentives. Sir, slogans, preaching and lectures can never be a substitute for incentives.
 
 The budget is not merely a statement of income and expenditure. It signifies much more. The budget starts a chain reaction in the economy, and it can either promote economic growth or retard it. I am going to comment on the budget from this angle. But, before I do that, I would like to briefly review the effect of the previous fiscal policies of the Government in relation to the Three Plans.
 
 ### **Plan Objectives**
 
-
 The objectives of the Plans were mainly:
-
 
  	- To increase the National Income
 
@@ -65,13 +62,11 @@ The objectives of the Plans were mainly:
 
  	- Lastly, to provide employment opportunities
 
-
 To achieve these objectives, the outlay on the Plans, leaving aside the investment in the private sector, was about Rs. 16,000 crores, of which leaving other things, Rs. 4,200 crores were by additional taxation, Rs. 2,500 crores from foreign aid, and Rs. 3,700 crores by deficit financing. The hardships caused to the people by high taxation and deficit financing would not have mattered much if the objectives had been achieved, but they matter because this did not happen. Let us see what has actually happened.
 
  
 
 ### **Failure**
-
 
 In the case of national income, the increase was 3.9 per cent annum, against a target of over 5 per cent per annum. Regarding the standard of living of the people, the per capita income on average increased by about 3 per cent per annum, whereas the consumer price index went up on average by about 6.6 per cent. It is very clear, therefore, that the standard of living of the people, instead of going up, has gone down.
 
@@ -89,9 +84,7 @@ Thirdly, the Government placed impediments in the path of economic progress of t
 
 ###
 
-
 ### **Lessons not Learnt**
-
 
 Sir, I have given you the aims, the failure and the reasons. Now the question arises whether the Government has learnt any lesson. The answer is “No”. I said originally that I would like to comment on the Budget from one angle; to see whether it promotes economic growth. Frankly, I see nothing in the Budget which does this. Economic growth can take place, and prices can be brought down only by higher production, both in industry and agriculture. About agriculture, we are told, the reason is “drought”. Surely the planners and the Government know that Indian agriculture has been dependent upon rainfall for thousands and thousands of years. It is not a new phenomenon. What has the Government done for the last twenty years to see that, if in one year there is a shortage of rain, the production does not go down to the level where people starve? I admit that they have started very large irrigation projects either in this part of the country or in that part of the country. They should have started minor and medium irrigation projects throughout India so that a farmer, no matter from which part of the country he comes, gets water to cultivate his land. To take shelter under drought is just to cover their own mistakes. I may point out that we have imported food grains even when we had a good year. The only difference is that we imported less when the rainfall was good, and we imported more when the rainfall was less. I am glad to see that the Government is giving up priority to agriculture. At least 15 years, they have learnt one lesson.
 
@@ -99,9 +92,7 @@ Coming to the Industrial sector, I see that very small, minor reliefs have been 
 
 ###
 
-
 ### **Economic Realities**
-
 
 The Finance Minister has a very fine opportunity to boost our economy by making an overall reduction in taxation so that in the corporate sector, it would not be more than 50 per cent; and on individuals 66 per cent. He might say, “I will lose money. Where will I get revenue from?”
 
@@ -119,12 +110,9 @@ _Shri Charanjit Rai…_ by saying, “yes, we are going to cut”, and he says t
 
 ###
 
-
 ### **Concrete Steps**
 
-
 We have no quarrel with the Finance Minister when he says that we should bring confidence in the minds of investors, both in India and abroad. But this needs, taking concrete steps, and I can suggest a few:
-
 
  	- Bold reduction of taxation on the corporate sector as well as on individuals;
 
@@ -133,7 +121,6 @@ We have no quarrel with the Finance Minister when he says that we should bring c
  	- Reduction of stress on the public sector; the projects should be placed in the private sector wherever they are likely to produce better results; and lastly,
 
  	- I would like the Finance Minister to put into effect what he has recommended to the Congress Working Committee, and that is a cut of 10 per cent in Government expenditure. Once this is done, he has no need to propose new taxes; on the contrary, he can give relief.
-
 
 Sir, I have done, but before I sit down, I want to tell the Treasury Benches that they should take lessons from the past. The masses of India are seething with discontent. _(Interruptions)_
 

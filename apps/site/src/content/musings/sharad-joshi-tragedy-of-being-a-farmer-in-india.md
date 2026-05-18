@@ -55,11 +55,9 @@ Thirty years back, we launched the first farmers' movement in lndia after the Gr
 
 In the 1950s, Lal Bahadur Shastri's slogan of ' Jai lawan, Jai Kisan' and the accompanying Green Revolution started two processes:
 
-
  	- the Jawan went on the war-front, sacrificed himself and became a martyr;
 
  	- the Kisan, on the food front, fought and tried his best to contribute to the foodgrains production in the country.
-
 
 The Green Revolution succeeded; productivity increased. But, at the same time, the government failed to see that for his added effort would the farmer get an adequate reward. While productivity grew while production grew, the farmers were not able to cover even the cost of production and it is this wound which has gangrened over the last 50 years. This was the policy which was followed regularly over the last 55 years. We do not need to find out whether the BJP government followed policies that hurt the farmers or whether the successive Congress governments did it. All that you have to see is during which period was the farmers' subsidy negative. If the Aggregate Measurement of Support (AMS) was negative, that is to say the farmers' prices were less than the cost of cultivation, that means that government is guilty of the ongoing genocide by farmers. In which case, governments are also guilty of murder. The simple index is, did you have a negative AMS or a positive one. C. Subramaniam, the minister of Agriculture under Lal Bahadur Shastri recognised, for the first time, that agriculture was a losing proposition and that to make with the Green Revolution a success, farmers have to be given adequate remunerative prices.
 

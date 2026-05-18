@@ -35,7 +35,6 @@ _Prof. B R Shenoy’s “Fifteen Years Of Indian Planning” was published on Au
 _
 You can read the complete, unabridged version here__ [Fifteen Years of Planning](https://indianliberals.in/wp-content/uploads/2023/07/Fifteen-Years-of-Planning.pdf)_
 
-
 **I. National income and mass well-being**
 
 For assessing economic progress, we must define the term. By economic progress, we must first define the term. By economic progress, we shall mean, first, a continued rise in the standard of living of the masses of the people. Since the masses of the Indian people are close to the margin of subsistence, for quite some time, the measure of economic progress will lie in the consumption of food, the average of which is below the nutritional norm, and the consumption of cloth, the average of which is sub-standard.

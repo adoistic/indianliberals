@@ -21,4 +21,3 @@ ai:
 birth_year: 1774
 death_year: 1839
 ---
-

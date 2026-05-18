@@ -57,7 +57,6 @@ The position is quite different in the case of participating or organic democrac
 
 This little elaboration will serve to make clear the vital differences between the two types of democracy. Now if Panchayati Rai stops at the district level and above that, shall we say, Party Raj rules supreme, the people are bound to feel cheated. They will interpret this illogical situation to mean reluctance on the part of the politicians really to give up power. It should seem to them–and they would be right–that real power still remained locked up in Delhi and the State capitals and that what had been given to them was not the real stuff. This kind of disillusionment might produce disastrous results.
 
-
 Therefore, Panchayati Raj must not be terminated at the district level but extended forward upto New Delhi. Although this cannot be, done immediately, this should be declared to be our goal.
 
 _Previous musing: [Constitution and the Common Man](https://indianliberals.in/content/constitution-and-the-common-man/)_

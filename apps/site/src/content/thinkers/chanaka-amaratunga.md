@@ -19,4 +19,3 @@ ai:
 birth_year: 1958
 death_year: 1996
 ---
-

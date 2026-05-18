@@ -107,7 +107,6 @@ Later in the 1950s though, Minoo Masani would collaborate with JP, Patel, and Ra
 
 ### **Soviet Admiration and Communist Leanings **
 
-
 Minoo Masani’s tryst with politics began during his stint at the London School of Economics. There, he came in contact with Harold Laski and V Krishna Menon; dabbled in student politics as a Labour member; and visited the Soviet Union. Masani [admitted](https://books.google.co.in/books/about/Bliss_was_it_in_that_Dawn.html?id=ulyUnAEACAAJ&redir_esc=y) to learning more about politics in LSE than many Indian politicians would do in a lifetime.
 
 While Moscow was a great improvement, Masani found Leningrad a shadow of its former self while visiting USSR in 1927. After his return, an impressed Masani wrote a series of articles for the Bombay Chronicles and advocated the USSR as a model for a free India to emulate. In his zeal, he even urged Pandit Nehru to visit the Soviet Union when the two met in London in 1927.
@@ -123,7 +122,6 @@ The radical socialists of Congress also had to face flak from outside and inside
 Sardar Patel also had an intense dislike for the reds. He denounced the Congress socialists as the “sappers and miners of the Communist Party”. The wittiest takedown, however, came from Gandhi himself. In response to Minoo Masani’s socialist agenda, he wrote, “the progressive nationalisation of all the instruments of production, distribution and exchange” was “too sweeping to be admissible. Rabindranath Tagore is an instrument of marvellous production. I do not know that he will submit to be nationalised.”
 
 ### **Socialism Reconsidered and Democratic Planning **
-
 
 Masani’s distancing from Soviet-style communism was seemingly precipitated by a series of events. In his later writings, he [attributed](https://ccs.in/sites/all/books/com_books/profiles_in_courage.pdf) it to the failure of the USSR to deliver material prosperity and the influence of Gandhi.
 
@@ -147,7 +145,6 @@ The PSEs were to be managed by a small board of professionals seeking to combine
 
 ### **Liberal Dissent and Swatantra Years **
 
-
 Seemingly the failure of the mixed economy model propelled Masani into the liberal fold. He spent his earlier years on combating communist influence in India rather than a positive articulation of liberal ideas. In response to the communist infiltration of media and cultural outfits, Masani joined hands with JP, Ashok Mehta, and A D Gorwala to form the [Indian Committee for Cultural Freedom](https://ccs.in/sites/all/books/com_books/profiles_in_courage.pdf) in 1950. The Committee was affiliated with the Paris based Congress for Cultural Freedom, an American anti-communist advocacy group.
 
 Masani’s anti-communist avatar also made him amenable to Sardar Patel. With the help of Patel in the form of office space in Bombay, a telephone connection and funding, Masani founded Democratic Research Service in November 1950. The Service published pamphlets and Freedom First magazine, both disseminating anti-communist propaganda to the Indian public. In the_ Communist Party of India: A Short History_ (1954), Minoo Masani [called it](https://ccs.in/sites/all/books/com_books/profiles_in_courage.pdf) a dagger pointed at the heart of Indian democracy.
@@ -164,11 +161,8 @@ The sorry demise of Swatantra, however, didn’t put an end to Masani’s libera
 
 Zareer Masani, historian and Minoo’s son, has [argued](https://theprint.in/opinion/no-accident-india-forgot-swatantra-leader-my-father-minoo-masani-the-beef-eating-parsi/250483/) that the public discourse in India has recently seen a revival of Rajaji’s legacy while Minoo, the beef-eating, westernised, and atheist Parsi, remains forgotten. I would argue that in Masani, Indian liberals should find a more appropriate icon to emulate. Rajaji, after all, was a [self-identified conservative](https://penguin.co.in/book/non-fiction/rajaji-a-life/) rooted in his Hindu identity. Minoo Masani, in contrast, drew his ideas from the West to shape liberal India.
 
-
 ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
 
-
 **Sanjeet Kashyap**
-
 
 A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

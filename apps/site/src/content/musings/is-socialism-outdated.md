@@ -90,5 +90,4 @@ Economic wisdom can never be reduced to an unbending system. Indian socialism, i
 The quintessence of socialism consists not in levelling down but in levelling up. It strives to bring forth "the maximum gifts of each for the fullest enjoyment of all". State ownership is to social justice what ritual is to religion and dogma to truth. State ownership and State control are the shells of socialism which were really intended to protect and promote the growth of the kernel; but rigid shells merely constrict its growth.
 - (Reproduced from "Economic Times" of Feb. 7, 1966, _with kind permission of the Editor._)**  **
 
-
 _Previous musing: [MAKING INDIAN INDUSTRY GLOBALLY COMPETITIVE](https://indianliberals.in/bn/content/making-indian-industry-globally-competitive/)_

@@ -31,7 +31,6 @@ geographic_scope:
 
 _Gurcharan Das is a prominent liberal thinker promoting individual freedom and free market economics. His critical analysis of inequality, socialism and the pursuit of fairness continues to shape India’s liberal discourse. This article narrates different ideas and viewpoints of Gurcharan Das through his works._
 
-
 Gurcharan Das is an Indian author, liberal thinker, and acclaimed public intellectual known for his wise writings on various aspects, including economics, politics, culture, and society. He was born in Lyallpur (present-day Faisalabad, Pakistan) on October 3, 1943, and grew up in India after his family left following the partition.   
 
 Das attended Harvard University and had a successful career in business and management. He worked in various roles for several international organisations, including Procter & Gamble, which equipped him with a thorough awareness of the economic and corporate world. 
@@ -64,19 +63,15 @@ Gurcharan Das’s writings and his liberal ideas have profoundly impacted India�
 
 References
 
-
  	- Das, G. (2014, June 1). _Modi’s moment is about middle class dignity_. Times of India Blog. [https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/](https://timesofindia.indiatimes.com/blogs/men-and-ideas/modis-moment-is-about-middle-class-dignity/)
 
  	- _India: extreme inequality in numbers | Oxfam International_. (2022, September 9). Oxfam International. [https://www.oxfam.org/en/india-extreme-inequality-numbers](https://www.oxfam.org/en/india-extreme-inequality-numbers)
 
  	- Mitchell, T. (2020, January 9). _2. Views of economic inequality_. Pew Research Center’s Social & Demographic Trends Project. [https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/](https://www.pewresearch.org/social-trends/2020/01/09/views-of-economic-inequality/)
 
-
 _Previous musing: Dr Muthulakshmi Reddi: Beacon of Women's Liberty_
 
-
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
-
 
 **Ch Prashanth**
 Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.

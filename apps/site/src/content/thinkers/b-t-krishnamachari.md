@@ -19,4 +19,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: phase-0.5-wave1-refresh-2026-05-17
 ---
-

@@ -91,13 +91,11 @@ _Published by The Indian Liberal Group, a think tank founded in 1964 by Minoo Ma
 
 _The following text is the Executive Summary of the brief. __You can read the original, unabridged version _[_here_](https://indianliberals.in/indian-liberal-group/liberal-budget-building-equitable-society.pdf)_._
 
-
 Man is the measure of all things. This about sums up the Liberal credo. Liberalism has no dogma except one - the centrality of the human being; what is good for him or her is acceptable. What is not is not. Liberalism, like Socialism, aims to promote the welfare of all. As Ludwig von Mises, the great Liberal philosopher, put it, where the two differ is "_not be the goal at which it aims, but the means that it chooses to attain the goal._"
 
 Philosophically speaking, the Liberal position is very clear. It is that the business of government is governance and not business. In a Liberal State, the individual is supreme, and the State must work to further his or her potential. So it will focus its activities on law and order, defence, and physical and social infrastructure (health, education and a social safety net).
 
 When preparing this Liberal Budget from a Liberal perspective, we have kept these fundamentals in mind. The key basic tenets of this Liberal Budget are:
-
 
  	- Effective Fiscal Governance
 
@@ -109,7 +107,6 @@ When preparing this Liberal Budget from a Liberal perspective, we have kept thes
 
  	- Promotion of Equity
 
-
 The main focus of the Liberal Budget will be issues concerning human development or human capital formation - health, education and a social safety net for those who are not capable of looking after themselves.
 
 At the same time, no budget can be genuinely Liberal in its essence and powerful in its impact unless the overall economic policy regime becomes genuinely liberal, deregulated and capable of nurturing and fostering private and individual initiative. In other words, an interventionist State cannot be the right setting for a Liberal Budget.
@@ -117,7 +114,6 @@ At the same time, no budget can be genuinely Liberal in its essence and powerful
 Unfortunately, over the past fifty years, the Indian State has become an interventionist, appropriating practically every aspect of human life. As a result, it has spread itself too thin and cannot play an effective role in any area, let alone the areas of its main responsibility. The Liberal Budget will, in a sense, attempt to set this right and provide resources for the government to effectively carry out its main responsibilities.
 
 What kind of targets relating to human development should the Liberal State set for itself? The Liberal Budget sets out the following **nine-point objectives** of a Liberal State:
-
 
  	- Reduction of poverty ratio by 5 percentage points by 2007 and 15 percentage points by 2012.
 
@@ -137,13 +133,11 @@ What kind of targets relating to human development should the Liberal State set 
 
  	- Provide cost-effective means of safe and sanitary disposal of solid waste and wastewater.
 
-
 While framing the Liberal Budget, we have recognised some distinctive recent changes, especially the tax policy, which reflects what Indian Liberals have been advocating in the preceding several decades. This change has already brought about several remarkable gains in our economic performance, particularly in the industry and the external sector of the economy. But this exercise is far from complete. Much more remains to be done, and we will endeavour to set out a strategy to make India a truly world-class economic power over the next decade, even while attending to the basic needs of the population, particularly in rural India.
 
 The liberal economic philosophy recognises the importance of expenditure policy as a powerful tool of fiscal policy. The expenditure policy impacts key parameters of socioeconomic development, employment generation and poverty alleviation. It directly affects or indirectly the sectoral composition of growth as well as patterns of the income distribution. Thus, an efficient expenditure policy is a critical component in accelerating growth and improving its quality.
 
 In this context, the effort of the Liberal Budget is not merely to reduce and rationalise expenditure but to shift the focus and direction of the expenditure policy. What are the key guideposts for this purpose?
-
 
  	- First, expenditure growth in real terms over the next three years shall not exceed the anticipated real GDP growth.
 
@@ -153,9 +147,7 @@ In this context, the effort of the Liberal Budget is not merely to reduce and ra
 
  	- Last, it is imperative to devise specific qualitative benchmarks to evaluate the effectiveness of both development and non-development expenditure.
 
-
 The Liberal Budget envisages a systematic and rigorous expenditure management process, essentially reflecting the following elements:
-
 
  	- First, each Ministry and Department shall formulate inspiring missions, aspirations and targets for its activities for the future. At the same time, there must be a mechanism for mid-course corrections when found necessary;
 
@@ -168,7 +160,6 @@ The Liberal Budget envisages a systematic and rigorous expenditure management pr
  	- Fifth, in designing the process, there must be a participation of the officials concerned so that there is a clear understanding of the missions, aspirations and targets. Also, a quarterly report card would become a useful tool for constantly monitoring the process.
 
  	- Sixth, the process shall be transparent, and the aspirations and targets of these missions shall also become part of the public domain.
-
 
 Expenditure reduction has to be accompanied by steps to raise revenues to fund government spending in essential areas. Both tax and non-tax revenues have to be tapped. The policy prescriptions (both Budget and non-budget) set out in this document will result in significant buoyancy in tax and non-tax revenues. Restoring high growth levels and increased investment activity will automatically lead to the growth of revenues.
 
@@ -192,11 +183,9 @@ The Liberal Budget is concerned that the ratio of non-tax revenue to GDP has dec
 
 In recent years, the Union Budget has been looked upon as an Annual Financial Statement and as a signalling mechanism to the world at large (and the investing community in particular) of the progress in India's economic reforms programme. Hence, it is necessary to:
 
-
  	- Identify some of the crucial factors that influence the Budget; and
 
  	- Suggest specific policy reforms to enable the Liberal Budget to become functionally effective.
-
 
 The process of disinvestment/privatisation of PSUs needs to be speeded up substantially and extended to state-level public sector enterprises. The criterion for privatisation must not be whether a PSU is loss-making or profit-making. The test should be whether the State should be in that field of activity in the first place. While deciding on issues of disinvestment/privatisation, the Liberal Budget will not be guided by arbitrary or ad hoc considerations of the strategic reasons for PSUs' businesses and operations.
 
@@ -207,7 +196,6 @@ This privatisation exercise is a temporary one in the sense that it is correctin
 Moreover, a whole range of reforms is necessary to improve the investment climate in the country. These include deregulation and liberating industry from the tyranny of inspectors; ending the practice of reserving sectors for small-scale industry or restricting entry into non-strategic areas; allowing companies the freedom to restructure; faster liquidation of companies; and a more flexible labour law regime, among other things. In the area of labour law, the government must not take upon itself the task of deciding the level of wages, etc. or standing judgement over whether or not companies should retrench workers. Instead, it should confine itself to enforcing contracts, for example, ensuring that workers get their termination benefits and that companies do not default on social security obligations. An improvement in the domestic investment climate need not do anything more apart from ensuring no restrictions on FDI in any areas or placing ceilings on levels of FDI.
 
 The Liberal Budget also calls for the following crucial policy initiatives:
-
 
  	- A movement towards a more liberal interest rate and exchange rate regime.
 
@@ -226,7 +214,6 @@ The Liberal Budget also calls for the following crucial policy initiatives:
  	- Restructuring Government: The re-orientation of the role of the State will necessitate a restructuring of government as well. Reducing the number of government employees is an important measure which is outside the scope of the Budget but has a tremendous impact on it. Government salaries and pensions account for over 25 per cent of total revenue receipts and are one of the committed liabilities that cannot be cut down. The only answer, then, is to reduce the number of people to whom salaries are to be remunerated. Each ministry must be subjected to a performance audit, and ministries/departments found inconsistent with the liberal conception of the role of the State should be closed down. At the same time, a Liberal Budget does not call for a blind downsizing across the board. What is needed is rightsizing. This means that staff will be retained - and numbers increased - in areas where the government is needed, and this should be accompanied by measures to ensure accountability and increased responsibility.
 
  	- Political Environment: It will not be possible to create a liberal economic environment unless there is a major change in the political environment and culture in the country. Political parties and politicians must learn to rise above narrow personal and partisan ends and addresses the needs of the nation.
-
 
 Besides, there is the phenomenon of legislative work being sacrificed at the altar of political grandstanding in Parliament and state assemblies. All this needs to be checked.
 

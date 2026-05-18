@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: content/theprint-mirror/indian-welfarists-right-property-life-liberty.md
 ---
-

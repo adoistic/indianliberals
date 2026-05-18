@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr.-kk-das-may-8-1961.pdf
 ---
-

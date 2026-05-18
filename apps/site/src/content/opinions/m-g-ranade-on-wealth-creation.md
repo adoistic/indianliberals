@@ -54,7 +54,6 @@ Ranade identified two root causes of this phenomenon. First, at that time India 
 
 The genius of Ranade lies in the fact that he used data to substantiate his economic arguments. He used ballpark estimates when data wasn’t easily available. He also supported his tentative estimates with reasons sound enough to prove that those estimates were moderate and were unlikely to produce a skewed result. For instance, he calculated and compared the per capita tax levied on the people in the territories and provinces governed by the British. According to him, it was Rupees 9 per person per annum in the British territories. On the other hand, the average tax for the people in princely states was technically higher. He estimated it to be around Rupees 12 per person per annum. This may give an impression that the native kingdoms and princely states were more exploitative. However, Ranade argued that this prima facie evidence about the average tax may be misleading. He provided the following details:
 
-
  	- The British Indian government ordered the material for its offices from England and that cost around 1.5 crores.
 
  	- The salaries of government servants in England and the establishment there would consume half a crore.
@@ -64,7 +63,6 @@ The genius of Ranade lies in the fact that he used data to substantiate his econ
  	- The British fought wars and protected India from time to time for which they incurred heavy costs. This created a huge war debt of a hundred crores which the British decided to exact from Indians in instalments. When Ranade argued about this in 1872, there was still debt worth Rupees 90 crores and India was paying it back with the interest. This accounted for 4.5 crores per year.
 
  	- The British government introduced the railways and since the project was running in loss, it was also being recovered from the revenues collected in India.
-
 
 The above-mentioned factors amounted to approximately 10.5 crores and this amount would effectively go to Britain. Around 150000 Europeans were working in India in the military and other bureaucratic positions and there were few traders. They had huge salaries and incomes, the total of which was worth 5.5 crores. This coupled with the previous 10.5 crores would ultimately end up in Britain.
 
@@ -80,7 +78,6 @@ Ranade further tried to estimate the total savings of Indians based on the colle
 
 The drain of wealth in the form of tribute and tax was not the only way the Indian economy was decaying. If the government was guilty of bad policies, the people of India were also guilty, to a lesser extent if not equally, of some irrational behavioural patterns that were costing them a fortune.  Ranade argued that Indians had a propensity to waste around 1/8th of the total savings. Warning people to not consider this as an exaggeration he stated the following sequence of facts.  
 
-
  	- Gold and silver worth rupees 165 crores had come to India in ten years before 1872.
 
  	- Gold and silver worth rupees 15 crores went out of India.
@@ -89,17 +86,14 @@ The drain of wealth in the form of tribute and tax was not the only way the Indi
 
  	- The residual gold and silver – which was around 75 crores in value just disappeared into thin air!
 
-
 In other countries, the excess gold and silver would get into transactions and that is how it would quickly become a part of the economy. Whereas in India people made ornaments of all sorts for their wives and kids. This gold or silver would gradually wear off and reduce in quantity. Once the ornaments were made out of these valuable metals, they were hardly useful for the owner. They would be used if the owner suffered from economic difficulty. However, in most cases, these ornaments would just wane. According to Ranade, it was a dangerous and self-defeating practice. Gold and silver worth rupees 7-8 crore were reduced to nothing every year. When added to the aforesaid tribute of 16 crores, this amount was almost tantamount to a sum of 24-25 crores. This was the loss that India incurred regularly.
 
 Ranade proposed a simple but useful solution to increase the possibility of accumulation of wealth in India. He suggested that Indians, at such a juncture, must spend less. He argued for increasing the savings to nullify the effect of the lost 25 crores. He was also clear about how this accumulated wealth was to be used. This capital was to be wisely invested in profit-making businesses. Good returns would create a greater amount of new wealth.
 
 Finally, Ranade warned them against blindly accumulating the money and emphasized why it should be invested and reinvested to create more wealth for one’s own sake and for the nation. Thus Ranade’s solution to the worsening economic condition of India depended on a measured and disciplined frugality and well-thought investment of capital.     
 
-
 ![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
 
 **Vikrant Pande**
-
 
 Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.

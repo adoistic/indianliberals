@@ -21,4 +21,3 @@ ai:
 birth_year: 1924
 death_year: 2018
 ---
-

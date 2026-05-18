@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/plans-and-perspectives-by-bg-verghese-january-8-1961.pdf
 ---
-

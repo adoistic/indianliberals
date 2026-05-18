@@ -19,4 +19,3 @@ ai:
   model_version: phase-0.4-curation-from-mangalore-bake-off
 birth_year: 1941
 ---
-

@@ -51,7 +51,6 @@ _Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shrira
 
 _You can read more about Nani Palkhivala [here](https://indianliberals.in/content/nani-palkhivala/) ___
 
-
 Our Constitution aimed at making India the land of opportunity; our politicians have converted it into a land of opportunism. They have made socialism the opiate of the people. “Socialism" has become a word comprehensive enough to cover the entire spectrum of economic folly — a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression.
 
 Every thinking man in India today accepts without reser- vation the true socialistic objectives of economic development. True socialism means the subordination of private gain to public good. It means the investment of human and material resources in an imaginatively planned manner which can con- tribute to the vitality and progress of the whole nation, keep it in the mainstream of self-generating growth and develop- ment, raise the standard of living of the masses, and bring forth the maximum gifts of each for the fullest enjoyment of all. The translation of such socialism into action demands intellect and knowledge, character and dedication, of the highest order.

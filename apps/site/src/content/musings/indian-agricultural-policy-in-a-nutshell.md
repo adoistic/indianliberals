@@ -29,9 +29,7 @@ geographic_scope:
 
 _The following is an article written by Farmer Leader Mr. Sharad Joshi in Down to Earth in 2012. Joshi founded the Shetkari Sanghatana, a non-political union of farmers formed to secure ‘Freedom of access to markets and technology,’ which later emerged as one of the largest farm groups in India. He was also the founder of the largest organization of rural women, Shetkari Mahila Aghadi, celebrated for its work for women’s property rights. _
 
-
 A large number of researchers and scholars who wish to study agriculture in India are intrigued by the extreme penury of the farmers and the low levels of productivity. It surprises them that the peasantry of a country so well endowed in water resources and sunlight should be so miserably placed.
-
 
 It was only as late as in 1990 that the documentation of the World Trade Organization (WTO) clearly established that the government of India imposed a negative subsidy on Indian farmers. In the WTO parlance, the term ‘negative subsidy’ has a specific meaning. It refers to cases where the income received by the farmer by the sale of his proceeds is less than the income he would have received in a hypothetically free market where the government does not intervene in any manner.
 

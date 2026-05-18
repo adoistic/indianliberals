@@ -38,7 +38,6 @@ have to be paid for even in Free India; and if someone is getting them free, res
 
 ### **“Free education” - a mere jugglery of words**
 
-
 The day dream of a free-education scheme is a hangover of the anti-rational mental attitudes of pre-Partition days. The talk of 'free-education’ appears very fashionable at first sight and, as the fallacy involved in it is not easy to detect, it proves a handy tool in the hands of crafty political demagogues at the time of elections.  Educational procedure involves labour of the teacher-which must be paid for. The question is: who should pay for it? If education is not 'free',
 
 the scholars pay for it in the form of tuition fees. And if it is imparted 'free', the teaching staff has still to be remunerated, but now the money comes in the form of taxes, or special levies from those, who may not be directly concerned in the matter. The description 'free education’ thus turns out in the ultimate analysis, to be a clever device for confusing the public mind and to keep them well-fed on glittering slogans. There is nothing 'free' about it, for what is rejected as tuition
@@ -48,7 +47,6 @@ fee, is accepted in another form-as ‘educational cess' or as a 'special levy.'
 And when viewed against this background, the realisation of reasonable tuition fees from the scholars, especially from those in the higher classes, does not seem to be as baneful a practice as it is made out to be and need not be done away with. This, in fact, appears to be the only sound method to finance the education department. Extra taxes should only supplement income from tuition fees. 
 
 ### **Death warrant against private institutions**
-
 
 The point we have developed brings out the unsound nature of the decision of the Punjab Government to impart free education in state-controlled junior schools. From where will the money come for the salary bills of the teachers? No matter how cleverly they put it has to come from the public; and the procedure they have adopted means only one thing, if it means anything. It means that money spent on Tom should not come from Tom- that is a cruelty.
 
@@ -60,9 +58,7 @@ over seventy percent of the children, now at school, will come to a stop. It is 
 
 ### **Concrete suggestions**
 
-
 To sum up, we must recognise that:
-
 
  	- There is no such thing as free education. Money paid to the teachers comes ultimately from the people, as taxes if not as school tuition fees.
 
@@ -70,12 +66,9 @@ To sum up, we must recognise that:
 
  	- If the Government seeks to collect funds for purposes of education, not by raising tuition
 
-
 fees, but by enhanced taxes, the benefit of 'free' studentship must accrue to all pupils, who belong to the school-going age, and not to a favoured few only. The government must forthwith ban imposition of tuition fees on pupils in all the schools and remunerate the teachers engaged in approved institutions, from the government treasury.
 
-
  	- If the government cannot bear the burden of imparting 'free-education' to all the scholars, it should desist from creating difficulties in the way of those private agencies which are sharing this burden with it. This means, that while all persons deriving the benefit of educational facilities must be required to pay the prescribed fees, whether
-
 
 in a government school or in a private one, the grant-in-aid rules should be so liberalised that the private institutions do not have to look to philanthropic people for help, but their deficit should be wholly met by the government.
 

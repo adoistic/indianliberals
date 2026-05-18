@@ -23,4 +23,3 @@ ai:
 birth_year: 1820
 death_year: 1891
 ---
-

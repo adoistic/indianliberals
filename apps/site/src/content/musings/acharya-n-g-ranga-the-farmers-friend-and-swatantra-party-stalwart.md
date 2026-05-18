@@ -92,7 +92,6 @@ geographic_scope:
 
 _Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award. _
 
-
 NG Ranga was born on November 7, 1990, in Nidabrolu Village of Guntur District, Andhra Pradesh. His parents, Nagaih and Atchamamba, were farmers. He completed his primary and secondary education in Nidabrolu. He matriculated and graduated from Andhra Christian College, Guntur. 
 
 In 1920, Ranga left for England and studied Economics and Political Science at Oxford University. He received a doctorate for his research on “The Economics of Handlooms” from the Oxford University. He completed his higher studies and returned to India by 1926. At Oxford, Ranga studied the works of influential political thinkers such as Bertrand Russel, HG Wells and JS Mill. He was attracted to socialist philosophy after witnessing the progress of the USSR. However, his belief in socialism was short-lived, as the Stalin regime’s oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga’s departure from Marxist ideology.
@@ -145,9 +144,7 @@ Distinguished Acquaintances, Volume 1&II, by N. G. Ranga. Desi Book Distributors
 
 _Previous musing: [TANGUTURI PRAKASAM PANTHULU: A VISIONARY LEADER AND PIONEER OF PRESS FREEDOM](https://indianliberals.in/content/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom/)_
 
-
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
-
 
 **Ch Prashanth**
 Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.

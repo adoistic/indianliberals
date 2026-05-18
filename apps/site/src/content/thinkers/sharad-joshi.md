@@ -55,5 +55,3 @@ If the workers claim that they can protest by calling strikes, the industrialist
 No wonder Sharad Joshi’s challenge fell on deaf ears. Neither the government nor the government employees took it upon themselves to prove Sharad Joshi wrong. He made it a point to draw an example of the state of affairs in the country marked by blatant heedlessness of the government by saying “…this is what happens to the real owner (the common people of India) when the servants (the government bureaucracy and the political class) become the owners.”
 
 (The author has highlighted the key arguments of Sharad Anantrao Joshi from the ninth article – Khuli Vyavastha ani Sampa of his book Khulya Vyavasthekade Khulya Manane.)
-
-> Imported from the previous WordPress site at `/content/sharad-joshi/`. Needs editorial review pass before locking.

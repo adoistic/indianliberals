@@ -17,4 +17,3 @@ ai:
 birth_year: 1632
 death_year: 1704
 ---
-

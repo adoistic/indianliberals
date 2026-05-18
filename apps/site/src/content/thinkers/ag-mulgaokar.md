@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: content/theprint-mirror/fundamental-right-to-property-ag-mulgaokar.md
 ---
-

@@ -41,7 +41,6 @@ _This piece is an excerpt about Parliament’s Amending Power from Nani Palkhiva
 
 _You can read more about Nani Palkhivala [here](https://indianliberals.in/content/nani-palkhivala/) ___
 
-
 The arguments frequently urged against imposing any limits on Parliament’s amending power may nowbe examined.
 
 **“The democratically expressed will of the people”**
@@ -82,7 +81,6 @@ There cannot possibly be any mistake about the authentic voice of our Constituti
 
 The following are some of the essential features of the Constitution which Parliament cannot alter or destroy in the exercise of its amending power.
 
-
  	- The supremacy of the Constitution. Ours is a “controlled constitution” par excellence. All institutions, including Parliament, arc merely creatures of the Constitution and none of them is its master.
 
  	- The sovereignty of India. This country cannot be made a satellite, colony or dependency of any foreign country.
@@ -102,7 +100,6 @@ The following are some of the essential features of the Constitution which Parli
  	- The balance between the legislature, the executive and the judiciary. None of the three organs can use its powers to destroy the powers of the other two, nor can any of them abdicate its power in favor of another.
 
  	- The amendability of the Constitution according to the basic scheme of Article 368. The Constitution must continue to be amendable without being alterable in its essentials.
-
 
  
 

@@ -61,7 +61,6 @@ _Chakraverti's writings were known for their incisive analysis and unconventiona
 
 _You can read the original, unabridged version _[_here_](https://ccs.in/sites/default/files/2022-08/free_your_mind_1-40_Part1.PDF)_._
 
-
 Having said that _Homo Economicus _is a machine programmed to generate wealth, it becomes necessary to examine the argument taught in Indian Economics that India’s substantial human population is a cause of poverty.  If humans are the only species capable of creating wealth, then how can more of their number cause poverty? What is the truth?
 
 The truth is that every dot on the map, representing a town or a city, is densely populated with human beings–and is rich. More millionaires, cellphones, Mitsubishi Lancers, and swimming pools are in crowded Delhi than in vacant Jhoomritalaiya. Why is this so? For the answer, we must turn to Economics, which studies_ the production of wealth._

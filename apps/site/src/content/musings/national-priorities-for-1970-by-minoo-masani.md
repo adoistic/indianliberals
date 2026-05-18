@@ -43,7 +43,6 @@ _Published by the Swatantra Party in 1970, the musing below was originally the t
 
 _You can read the complete, unabridged version here [National-Priorities-for-1970](https://indianliberals.in/wp-content/uploads/2023/06/National-Priorities-for-1970.pdf)_
 
-
 **I: Introductory Remarks **
 
 First of all, let me wish you all, what is coming in a few hours time, a happy and satisfactory New Year, and we all hope it will be a good one for our country, also.

@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/crisis-in-indian-banking-industry-by-dr-dharmendra-bhandari-october-15-1991.pdf
 ---
-

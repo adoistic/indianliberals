@@ -36,7 +36,6 @@ _As was later established by literary historians (Gopal Halder, 1972), this happ
 
 _You can read the original, unabridged version in __Bengali here: [Evils of Child Marriage](https://indianliberals.in/wp-content/uploads/2023/07/Evils-of-Child-Marriage.pdf)_
 
-
 Marrying an 8-year-old daughter is a holy act of _gauri-daan_ (marrying the daughter before her first period) for her parents; giving away their 9-year-old daughter is as precious as their prized possession of land; arranging a groom for their 10-year-old daughter will lead the parents to the doorway of heaven…and all kinds of imagination, interpretation of religious texts, living in a delusional dream without much consideration of reality and the after-effects of one's actions, has led this country's humanity to normalize everything that is about child-marriage.
 
 Who can feign ignorance of the evils that these mindless acts have unleashed?

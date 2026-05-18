@@ -19,4 +19,3 @@ ai:
 birth_year: 1813
 death_year: 1898
 ---
-

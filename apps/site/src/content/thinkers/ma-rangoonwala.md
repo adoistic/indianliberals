@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982.pdf
 ---
-

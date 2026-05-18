@@ -17,4 +17,3 @@ ai:
   model_version: proposal
 birth_year: 1941
 ---
-

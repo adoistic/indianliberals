@@ -58,21 +58,17 @@ _Ranina was known for his extensive knowledge and expertise in tax law, and he w
 
 _You can read the original, unabridged version _[_here_](https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-HP-ranina-april-13-1993.pdf)_._
 
-
 This year’s Budget will go down in the fiscal history of India as the one which will create the right environment for engineering an economic miracle that has, so far, eluded the country.
 
 India is indeed fortunate to have one of its most distinguished and internationally respected economists, Dr Manmohan Singh presents his third successive Budget within twenty months. Certainly, Dr Singh has performed a miraculous feat of cutting indirect taxes by Rs. 4,522 crores, increasing developmental plan expenditure, and at the same time, reducing the budgetary deficit to Rs. 4,314 crores, which is the lowest ever in the fiscal history of India.
 
 The greatest merit of the budget proposals is that the Finance Minister has, with single-minded devotion, attempted to revive the recession-ridden industrial sector. The cutting of excise and customs duties, resulting in a loss of revenue of almost Rs. 4,500 crores, will galvanize industry because the cut will enable industrial units to achieve two objectives:
 
-
  	- Compensate them for the increase in costs; and
 
  	- Pass on the part of the reliefs to the consumers, which would create a new wave of demand, reversing the recessionary trend.
 
-
 The government has put the economy in high gear and sought to achieve the following objectives after having gotten over the critical period of the last one and a half years successfully:
-
 
  	- Globalization of the Indian economy by making the Indian industry truly competitive;
 
@@ -83,7 +79,6 @@ The government has put the economy in high gear and sought to achieve the follow
  	- Giving a boost to exports by removing the indirect tax imposed as a result of the dual exchange rate; exports slated to register a growth rate of 9% in dollar terms;
 
  	- Infusing the right amount of funds in the rural and agricultural sectors would also increase the purchasing power in the hands of the rural masses, leading to greater demand for consumer durables.
-
 
 ...The Finance Minister has emphasized the development of the agricultural sector. The farm output will be at an all-time high of about 190 million tonnes. Coupled with this increase, the higher procurement prices will result in greater purchasing power in the hands of the rural masses. Thus, the demand-oriented boom will revive industrial fortunes and set the consumer goods industry on unprecedented growth. The consumer goods industry, which is labour intensive, will also generate greater employment opportunities, again generating more funds in the hands of the people to fulfil their need for consumer goods.
 

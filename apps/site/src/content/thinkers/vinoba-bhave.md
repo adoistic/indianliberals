@@ -22,4 +22,3 @@ ai:
 birth_year: 1895
 death_year: 1982
 ---
-

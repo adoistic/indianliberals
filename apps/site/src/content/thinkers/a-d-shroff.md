@@ -26,5 +26,3 @@ In 1944, Shroff served as a non-official delegate at the United Nations "Bretton
 In 1956, Shroff co-founded the Forum of Free Enterprise, a think-tank, as a means to counter the socialist tendencies of the Nehru government. Through FFE, Shroff sought to educate students and the common man about the sound principles of economics. Later in 1959, Shroff would also play a role in founding the Swatantra Party.
 
 Upon his early demise in 1965, the A D Shroff Memorial Trust was set up in his memory.
-
-> Imported from the previous WordPress site. Needs editorial review. Source: `/content/ardeshir-darabshaw-shroff/`.

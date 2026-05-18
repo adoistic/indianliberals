@@ -25,7 +25,6 @@ period_window: reform-era
 
 _The following excerpt has been taken from the Occasional Paper titled ‘Globalisation and the Poor’ written by Johan Norberg. The paper is based on a contribution of the author to the workshop Campaigning for Free Trade; organised by the Liberal Institute of the Friedrich Naumann Foundation in November 2003._
 
-
 The anti-globalisation movement had its coming-out party in Seattle in 1999, when thousands of activists and trade union members protested against a new round of trade negotiations in the World Trade Organisation. Millions were drawn to these protests because of a preceding anti-WTO statement that was circulated on the internet, and signed by about 1500 different groups, from churches to militant communists. Their first accusation against the WTO in the statement was that free trade and globalisation: 
 
 _“…has contributed to the concentration of wealth in the hands of the rich few; increasing poverty for the majority of the world's population; and unsustainable patterns of production and consumption."_ 
@@ -33,7 +32,6 @@ _“…has contributed to the concentration of wealth in the hands of the rich f
 Poverty is also a major issue when you read anti-globalist writers and theoreticians. Their view is that globalisation is making the rich richer and the poor poorer. If this is their biggest concern, surely they should change their mind about the globalisation process if they got new information, which not merely shows that globalisation is not increasing poverty, but in fact an efficient way of reducing human poverty. That is what I am going to argue for in this paper, and I will also present the current debate on poverty measurements. What has happened to poverty in the era of globalisation, and why? 
 
 ### **Relative or absolute?**
-
 
 To begin with, we must define what we mean when we discuss poverty. Most often there is a discussion whether absolute or relative poverty is the most relevant measurement. In this debate, I am an absolutist. Relative poverty is not a measure of poverty, but of inequality. Instead of measuring how poor someone is, it says how poor that person is in relation to others. One poverty concept frequently used, e.g. by the UNDP, rates a person as poor if they have less than half the median wage in the country where they live. This means that a person regarded as 'loaded' when living in a poor country like Nepal is considered as poor as a church mouse when living in the affluent USA. These relative figures, consequently, cannot be compared internationally. 
 
@@ -46,7 +44,6 @@ But even though I accept this criticism to a big extent, the investigation of ma
 The most common international poverty line is the World Bank's definition of absolute poverty. According to this definition you are poor if your income is less than one dollar a day, to be exact, $1.08. And this is adjusted for purchasing power, so that it corresponds to the same standard in all countries. This definition was chosen because it was the median of the poverty definitions in the ten poorest countries that the World Bank had detailed statistics from. And probably also because it is easy to popularise and remember. Let's use that definition to dig into the historical change in poverty rates. 
 
 ### **The extent of poverty **
-
 
 In 1820, about 85 percent of the world population lived on the equivalent of a dollar a day, converted to today's purchasing power. The biggest misconception in the debate on globalisation is that poverty is supposedly something new, and that things are getting worse. It is not. One hundred years ago, every country was a developing country. The new thing in our modern world is not poverty, but wealth. The fact that some countries and regions have escaped that poverty. 
 

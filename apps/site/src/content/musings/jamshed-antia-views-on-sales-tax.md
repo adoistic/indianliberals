@@ -48,13 +48,11 @@ Let us review, very briefly, the history of the Sales Tax legislation against th
 
 Under a Federal Constitution such as India's, there is a division of powers between the Centre and the States. All laws have, therefore, to be framed in accordance with the Constitution; otherwise they will be held invalid by the Courts. The Government of India Act, 1935, divided the sources of revenue between the Centre and the Provinces. Under that division Sales Tax was made a Provincial subject and the various Provincial Sales Taxes were levied under the authority of that Act. However, there were no clear cut principles for determining the location of a sale and various States claimed the right to tax the same transaction for a variety of reasons. As a result there was confusion and great diversity in Sales Tax laws accompanied by multiple taxation of the same transaction by different States. After Independence, the Constituent Assembly applied itself to the task of dividing the revenues between the Union and the States. The States were given the right to tax purchases and sales inside the State of goods other than newspapers or advertisements in newspapers. Further, by Article 286 of the Constitution, they were prohibited from levying Sales Tax on sales effected outside their territorial limits even when such sales were made by resident dealers. The Constitution also prohibited them from taxing sales in the course of import and export or in the course of Inter-state Trade. Accordingly, State Sales Tax laws were modified to conform to the Constitutional requirements. However, there was an Explanation to Article 286 according to which a sale was deemed to take place in the State in which the goods were delivered. Under this, States claimed the right to tax non-resident dealers, and hence sales in the course of Inter-state Trade. The interpretation of this Explanation caused a great deal of difficulty. Ultimately the Supreme Court ruled that it was within the competence of the States to tax sales effected within the States by dealers resident outside the State. This Court ruling nullified the prohibition of taxation by States of sales in the course of Inter-state Trade. Later the Court reversed its stand. The whole question was reviewed by the Taxation Inquiry Commission and, following this inquiry, the Constitution was amended in 1956. This Amendment removed from Article 286 the Explanation which caused so much difficulty. The amended Article 286 prohibits States from taxing
 
-
  	- Sales outside the State.
 
  	- Sales in the course of import or export.
 
  	- Sales in the course of Inter-state Trade.
-
 
 It also authorises Parliament to formulate principles for determining where a sale takes place in any of the three ways just mentioned. Further, Sales Tax on sales in the course of Inter-state Trade was made a Central subject.
 
@@ -68,7 +66,6 @@ a. Principles for determining various types of Sales:
 
 The Central Sales Tax Act has formulated the principles for determining various types of sales under the Act. A sale is defined as any transfer of property in goods from one person to another for cash or deferred payment or for any valuable consideration. Four types of sales are distinguished by the Act.
 
-
  	- **Sale inside a State** - A sale will be deemed to have taken place inside a State if at the time of the contract of sale the goods are within the State.
 
  	- **Sale outside a State** - Any sale which is inside any State will be deemed to be outside all other States.
@@ -76,7 +73,6 @@ The Central Sales Tax Act has formulated the principles for determining various 
  	- **Sale in the course of Import or Export** - A sale is regarded as being in the course of import or export if the property in the goods passes by transfer of documents while the goods are still beyond the frontiers 9f India, or if such sale or purchase occasions the export or import of goods.
 
  	- **Sale in the course of Inter-state Trade** - A sale will be deemed to be in the course of Inter-state Trade either when the contract of sale occasions the movement of goods from one State to another, or when the property in the goods passes by transfer of documents while the goods are in transit from one State to another.
-
 
 b. Goods declared to be of special importance in Inter-state Trade: 
 
@@ -92,13 +88,11 @@ a. Rates of Sales Tax on sales in the course of Inter-state Trade:
 
 The effect of the several provisions of the Central Act as regards rates of tax on Inter-state sales is as follows: - 
 
-
  	- In the case of declared goods intended for resale Central Sales Tax is chargeable at 1%. Where, however, such goods, sold in the course of Inter-state Trade, are intended for manufacture of other goods, they will not be liable to any tax.
 
  	- Where a registered dealer sells to another registered dealer in the course of Inter-state Trade, Sales Tax is chargeable at 1% of the price, provided the purchasing dealer obtains from the selling dealer a declaration in Form "C" to the effect that the goods are either intended for resale or for use in the manufacture of goods for sale or for use by him in the execution of any contract and that such goods are included in his certificate of registration. Where, however, such goods are either exempt or are chargeable at rates lower than 1% in the appropriate State, the Tax will be either nil or at the lower rate prevailing in that State.
 
  	- Where a registered dealer sells in the course of Inter-state Trade or Commerce goods to an unregistered dealer or to a consumer, the sale will be treated as though it had taken place inside the State and will be taxed at the General Sales Tax rate in the despatching State.
-
 
 b. Sales Tax on sales inside the State: 
 
@@ -118,59 +112,49 @@ How can there be integration in taxation when all the efforts of the Centre to g
 
 _Table illustrating the relative burden of Sales Tax __and Income-tax in Bombay City_
 
-
 **Income Monthly**
 
 **(Rs.)**
 **Monthly Estimated Sales Tax if the Monthly Income is spent (Rs.)**
 **Monthly Estimated Income-tax (Rs.) **
 
-
 _Married individuals with 2 children _
 _Unmarried individuals_
-
 
 300
 12.01
 nil
 6.50
 
-
 400
 17.99
 3.00
 9.50
-
 
 500
 22.11
 8.50
 15.00
 
-
 600 
 27.76
 14.50
 21.00
-
 
 700
 33.20
 23.89
 30.71
 
-
 800
 39.95
 33.34
 40.16
 
-
 900
 45.26
 44.18
 49.01
-
 
  
 
@@ -228,7 +212,6 @@ The recognition of some of the damage wrought by the Sales Tax laws has resulted
 
 However, all suggestions for reform of the Sales Tax system seem to proceed on the assumption that it is essential to provide the States with a source of revenue. This assumption has wrought more mischief than any other factor. Unfortunately, our legislators and administrators have not been able to disabuse their minds of the conception that the purpose of taxation is to raise revenue and that the States must raise their own revenues. But the purpose of taxation is not merely to raise revenue for the State. Taxation is today used to promote public policy and to control the tempo of economic activity. The needs of the National Economy must dictate fiscal policy in regard to all taxes. The aim of an integrated tax structure would be defeated if the States of the Union followed divergent policies. Accordingly, it is my recommendation that 
 
-
  	- sales tax should be made a Central subject by an amendment of the Constitution;
 
  	- the tax structure should be simplified so that the man in the street and the trading community may be able to understand their obligations. It should minimise hardships and spread the burden of the tax equitably on all sections of the community;
@@ -240,7 +223,6 @@ However, all suggestions for reform of the Sales Tax system seem to proceed on t
  	- the rates of tax should be governed by the needs of the economy but there should be no differences in rates in different parts of the country. Necessaries of life and exports should be totally exempt from tax and rates of tax on luxuries should be higher than those on semi-luxuries to make the tax progressive.
 
  	- the States should be compensated for loss of revenue by grants in accordance with formulae which can be worked out by the Finance Commission.
-
 
 To make the Administration more efficient, I recommend that the salaries of Sales Tax Officers should be increased to make them more consistent with the wide powers wielded by these officers. Revision of salaries may be expected to eliminate any possible temptations to stray from the path of strict integrity. But revision of salaries will not by itself be sufficient. It is also essential that the Department and its Officers should be re-educated in their responsibilities. Further, Sales Tax Officers should be thoroughly trained and should be made to approach the assessee with an open mind. I also most strongly urge that the Department should insist on accounts and sales breakdowns being audited by Chartered Accountants. In this connection I point to the practice adopted by the Income-tax Department. Thirdly, the machinery of Administration should be streamlined so as to eliminate departmental delays. The appointment of a Public Relations Officer may help in this direction.
 

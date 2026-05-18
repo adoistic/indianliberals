@@ -21,4 +21,3 @@ ai:
 birth_year: 1800
 death_year: 1859
 ---
-

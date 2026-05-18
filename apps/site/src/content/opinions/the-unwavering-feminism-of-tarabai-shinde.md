@@ -73,9 +73,7 @@ _“You hold these great meetings, you turn up at them in your fancy shawls and 
 
 Unfortunately, some of the criticisms she made during her times hold true even today. Her work was more of a reaction to the circumstances around her in a scathing manner. However, she argued rationally by calling attention to the problematic trends in society that have been accepted as status quo. Her thoughts on other issues are unknown as _Stri Purush Tulana_ remained the sole work  authored by her. In the context of the times she lived in, the thoughts she articulated were way ahead of her times. The noted historian Ramchandra Guha [opines](https://www.amazon.in/Makers-Modern-India-Ramachandra-Guha-ebook/dp/B06XY58CWZ) that her writing deserves serious attention as it remains one of the most powerful pieces of social criticism ever written by an Indian. In a time where women received little or no education, she used her education to raise her voice to criticise the harsh gender realities. Reeta Kumari [observes](https://www.longdom.org/open-access/a-case-study-of-tarabai-shinde-in-maharashtra-a-research-hypothesis-2167-0358-1000200.pdf)that throughout her arguments, she demanded gender equality and refused to accept the superiority of men. Tarabai Shinde deserves to be known as one of the early feminists of India and a figure who espoused the cause of liberty through her commitment to equal rights for women.  
 
-
 **![](https://indianliberals.in/wp-content/uploads/2021/05/IMG_20200220_220742_725-e1622060117627-284x300.jpg)**
 **Prarthana Puthran**
-
 
 Prarthana has recently completed her BA in Political Science from Ramnarain Ruia Autonomous College, Mumbai.At Centre for Civil Society, she is an intern working on the Indian Liberals project of the think-tank. Her research interests include but are not limited to political thought, international relations, political sociology.

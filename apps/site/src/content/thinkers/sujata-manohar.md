@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/quotas-and-reservations-imperative-action-by-sujata-manohar-2006.pdf
 ---
-

@@ -39,7 +39,6 @@ geographic_scope:
 
 _Produced below is an excerpt from an essay titled “A Blueprint for Eradication of Poverty” by Dr B.P. Godrej, published by the Forum of Free Enterprise in December 1980. Through the essay, Dr Godrej critiques the public sector’s inefficiencies in addressing poverty and unemployment. He highlights the widespread malnutrition and lack of economic progress, advocating for systemic reforms to improve food security, productivity, and overall well-being. This piece remains relevant as it addresses the persistent issues of hunger, poverty, and economic mismanagement, challenges that India continues to face even today._
 
-
 The biggest problems facing India today are poverty and unemployment. Eight months ago, a new government was formed in New Delhi. People's hopes were aroused but for a short time only. Already, there is strong evidence of manifestations of frustration. As no other large country in the world faces the twin problems of poverty and unemployment of the magnitude as India, the new government's responsibility is very grave. It would do well to bear in mind that ultimately economics rules politics. It is recognized in some quarters that even with half of India's population, everything else remaining the same, the difficulties in transforming India into a welfare state are immense.
 
 When India became free on the 15th of August 1947, a tremendous euphoria was generated. It was considered to be the dawn. But it is clear as daylight now that the economic dawn is nowhere in sight.
@@ -51,10 +50,8 @@ The running of the public sector was something entirely new for Indians. Take, f
 Let us now review what characterises India today. More than three decades after Independence, half the people are below the poverty line. Most of the other half are also poor. And the poverty line is defined as the point below which a worker cannot afford to buy enough food for calories to enable him to perform a full day's work. By this definition, India figured in 1968 that 38% of its people were below the poverty line. In 1978, according to official surveys, 50% of the population fell below this line. The following extract is from the _MID-DAY_ of August 5, 1980:
 **_356 million live below the poverty line_**
 
-
 ****The Minister for Planning also tells us that:
 **_“In India, an adult male doing heavy physical labour for more than 12 hours a day gets less than 2,000 calories from his food!”_**
-
 
 Those who get less than 2,400 calories a day in rural areas or 2,100 calories a day in urban areas can be considered among that 356 million. What does less than 2,400 calories a day mean? A study done in Maharashtra some years ago shows that "less than 2,400" can be as little as 940 calories (and people have wondered how someone who consumed so little could be alive to answer the interviewer's questions).
 

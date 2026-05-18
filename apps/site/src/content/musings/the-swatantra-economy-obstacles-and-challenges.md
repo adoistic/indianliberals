@@ -70,13 +70,11 @@ Another factor obstructing the liberalization process is the activities of trade
 
 Among other dangers to the liberalization process were : 
 
-
  	- Fiscal discipline, frauds in the financial sector and uncontrolled monetary expansion;
 
  	- the reluctance of public sector monopolies to relinquish their monopoly control with ministers in charge of these monopolies themselves resisting the process of liberalization and insisting on giving approvals on ‘a case by case’ basis or as some wags put it on ‘a suitcase by suitcase’ basis;
 
  	- the fact that despite the declared intention in giving up licencing, controls and subsidies, entrepreneurs are continuously subjected to various regulations by politicians and bureaucrats.
-
 
 The politicians and bureaucrats who obstruct the liberalisation process for their own narrow selfish ends have unfortunately the support of large classes of people like employees in the public sector, farmers, small manufacturers and others who benefit from the controls, regulations and subsidies in our present economy. In reality the losses they suffer because of the present economic system, are far more than the gains they secure from it. It is however a very difficult task to bring it home to them.
 

@@ -70,7 +70,6 @@ However, Rajaji had never lost his hope of reviving Indian culture and nourishin
 
 _The article is an excerpt from the author's original piece published [here.](https://theverandahclub.com/article/crajagopalacharis-venerable-thoughts-on-culture-90)_
 
-
 ![](https://indianliberals.in/wp-content/uploads/2021/01/Bala.jpg)
 
 **Chandrasekaran Balakrishnan**

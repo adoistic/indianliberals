@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: content/theprint-mirror/govt-autonomy-higher-education-institutes-gd-parikh.md
 ---
-

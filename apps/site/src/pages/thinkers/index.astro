@@ -37,12 +37,7 @@ const treatmentFor = (t: typeof thinkers[number]) => {
   <section>
     <div class="mx-auto max-w-6xl px-6 py-12">
       <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
-        {thinkers.length} thinkers in the catalog. Bios marked
-        <em class="not-italic px-1.5 py-0.5 mx-1 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">Imported</em>
-        or
-        <em class="not-italic px-1.5 py-0.5 mx-1 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">Draft</em>
-        on the bio page are AI-identified figures awaiting editorial expansion; their
-        works and mentions are still cross-linked across the archive.
+        {thinkers.length} thinkers in the catalog.
       </p>
       <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
         {thinkers.map((t) => {

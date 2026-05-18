@@ -61,13 +61,11 @@ The Bombay Lotteries and Prize Competitions Control and Tax (Amendment) Act, 195
 
 The first round of legal action was played out in the Bombay High Court. The main contentions of Nani Palkhivala against the validity of law are summarized below.
 
-
  	- The amendments introduced in 1952 were extra-territorial or outside the jurisdiction of the State of Bombay.
 
  	- The prize competitions under scrutiny were valid commercial or trade activities. Therefore, the disputed Act fell within the scope of entries 26 and 60 of the State List in the Seventh Schedule of the Indian Constitution.[3] This meant that these enterprises enjoyed the constitutional protection of _Article 19(1)(g)_ and _Article 301_ against unreasonable restrictions.[4]
 
  	- The impugned act was meant for gambling, whereas the crossword prize competition was hardly a lottery or chance-based competition. Instead, it required exercise of skill and considerable knowledge. The Indian Constitution had protected the games that involve skill under the right to trade. Games of chance would not have enjoyed the same protection.
-
 
 The single judge bench of the Honourable High Court delivered a verdict in favour of Palkhivala. It ordered the State of Bombay to refrain from implementing the impugned Act and allowed the petitioners to carry on the business as usual. The State of Bombay appealed in the High Court.  The Court of Appeal upheld the ruling of the trial court while differing in some respects.[5]  It held that the State of Bombay was competent in enacting the Act under dispute. The Court held that prize competitions were valid businesses and they did not constitute gambling. Therefore, _Article 301_ was applicable to prize competitions. Moreover, the tax imposed on prize competitions under _Section 12(A)_ was to be seen as a tax on trade or profession under Entry 60 of List II. Lastly, it argued that the prize competitions including lottery-based ones, were not against public interest.
 
@@ -79,13 +77,11 @@ The law limited the total prize value to Rs.1000/- per month and the number of e
 
 Palkhivala firmly argued that the law was unconstitutional in its entirety. He based his argument on three major pillars.
 
-
  	- The definition of prize competitions under the law was too broad. It was so unqualified that along with gambling its scope included competitions that required a substantial degree of skill.
 
  	- For skill-based competitions any legal provision limiting the prize value and restricting the number of entries was not reasonable regulation, but in effect prohibition.
 
  	- The law constituted a single, indivisible enactment. Since it misassessed skill-based competitions, the entire law must be struck down even if it legitimately restricted some chance-based competitions.
-
 
 The Union Government contended that gambling activities were not trade or commerce. Therefore, the law was intended to regulate competitions with characteristics of gambling. It further conceded that the law was indeed broad. It argued that the provisions of the law were void for skill-based games. The government argued that the valid parts applicable for gambling could be separated from invalid parts related to skill-based competitions. The government was suggesting that the law automatically would not be applicable to skill-based competitions.
 

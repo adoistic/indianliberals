@@ -39,7 +39,6 @@ geographic_scope:
 
 _The following piece on 'Planning' is taken from Minoo Masani at 90 published by Freedom First in 1995. This article written by Minoo Masani in 1945 takes the reader through various viewpoints on Central Planning and the role of the state. You can read the original article [here.](https://indianliberals.in/liberals/minoo-masani-at-90-freedom-first-1995.pdf)_
 
-
 Who is to organise the increased production, and who is to see to it that the benefits are equitably shared?
 
 The answer is - we ourselves, all of us. After all, this is our country, or rather it is going to be, and if we don't do all this, who else will? Our instrument for this purpose is the one which people throughout the world have created to manage their affairs. This is called the Government or ,the State.
@@ -83,6 +82,5 @@ On the economic side, planning for freedom calls for the widest possible decentr
 The best guarantee for the preservation of political liberty is that of free opposition to the government of the day. Indeed, an acid test of democracy is the existence of opposition parties functioning freely and with every hope of winning the support of the majority and thus becoming the government. No State which does not allow such freedom of oppostion can claim to be democratic in any sense of the word. A mixed society, with several autonomous sections acting as checks and balances, provides the most likely soil in which such democracy can flourish.
 
 Above all, what needs to be remembered is that planning is but a means to an end. It is an instrument by the use of which certain desired results may be achieved and, like all tools, it can be used for good or for ill. The question therefore arises: Planning, yes, but to what end?
-
 
 _Previous musing: [Fundamental Right to Property by V M Tarkunde](https://indianliberals.in/content/fundamental-right-to-property-by-v-m-tarkunde/)_

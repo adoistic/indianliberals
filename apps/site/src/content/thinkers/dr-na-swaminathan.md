@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/food-and-environment-walking-a-tightrope-by-dr-na-swaminathan-jan-2001.pdf
 ---
-

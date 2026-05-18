@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/reflections-on-global-trends-and-sustainable-development-by-piya-mahatey-2005.pdf
 ---
-

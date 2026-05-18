@@ -113,5 +113,3 @@ The Indian Libertarian Volume : 5 ;Issue: 15
 The Indian Libertarian Volume : 5 ; Issue: 18
 
 1  December 1957
-
-> Imported from the previous WordPress site at `/content/b-r-shenoy/`. Needs editorial review pass before locking.

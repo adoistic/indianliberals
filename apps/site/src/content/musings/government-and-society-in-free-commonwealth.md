@@ -70,7 +70,6 @@ _Sauvik Chakraverti was an Indian columnist and author. He wrote extensively on 
 
 _You can read the original, unabridged version [here](https://indianliberals.in/wp-content/uploads/2023/04/natural-order-essays-exploring-civil-government-and-the-rule-of-law.pdf)._
 
-
 A free and prosperous commonwealth does not depend for its motive force on any great political leader. On the contrary, the varying degrees of success that different commonwealths achieve rely entirely on the people, their entrepreneurial abilities, their knowledge, and any other advantages they may possess. Such a society is people-driven. The government is on standby to act against those who break the law and nothing else. This, too, at the local level.
 
 The word ‘commonwealth’ originates in the ancient term ‘common weal’, which meant ‘common benefit’ or, as it was later called, ‘common profit of the realm.’ The word ‘commonwealth’ means collective decision-making not guided by particular interests. This ‘impartiality’ to special interests has remained the highest ‘value’ of law and government, including civil service. This value was often expressed as ‘an empire of laws and not of men.’ Under such a government and legal system, what matters is ‘how the competition was carried out, not its result.’ The ‘common interest’ of the people comprising a ‘body politic’ thus lay in uniformly applicable laws binding upon all.

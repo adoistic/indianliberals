@@ -18,4 +18,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: phase-0.4-curation-from-mangalore-bake-off
 ---
-

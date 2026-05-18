@@ -67,5 +67,4 @@ _(This piece has been sourced, translated and reproduced here with permission fr
 ![](https://indianliberals.in/wp-content/uploads/2021/09/Dinesh-Sharma-300x300.jpg)
 **Dinesh Sharma **
 
-
 Advocate Dinesh Sharma practices law at the district court and the Nagpur bench of Bombay High Court. Across Maharashtra, he is often called to speak on economics and related topics. He is a member of the Maharashtra committee of the Swatantra Bharat Party.

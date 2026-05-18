@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/what-is-expected-of-management-trainee-in-private-eeterprise-by-Dr-Skumar-jain-September-5-1962.pdf
 ---
-

@@ -30,7 +30,6 @@ geographic_scope:
 
 _**The following excerpt is taken from Nani Palkhivala's essay, "Crushing Burden of Taxation," published by the Forum of Free Enterprise in 1958. In this piece, Palkhivala critiques India's tax laws and the unchecked power of the Executive, advocating for a balanced approach that promotes fairness, equity, and economic growth.**_
 
-
 Under the Constitution of India, the balance of powers is very well preserved between the Legislature, the Executive, and the Judiciary. However, in the eighth year of the Republic, it is clear to any student of constitutional law or public affairs that the Executive has become predominant, and the Legislature and Judiciary are not given the importance necessary to preserve this balance. The Executive’s power is unchecked by any effective opposition inside Parliament or by any mobilized public opinion outside it.
 
 One of the consequences of this state of affairs is that the Executive is able to rush through the Legislature any piece of legislation. While there is comfort in knowing that the Supreme Court and the High Courts still serve as the bulwark of civil liberties, the courts' incorruptibility is of little avail if the statutes and executive regulations are numerous, frequently changing, complex, and loosely drawn. These laws often give excessive discretion to administrative authorities.

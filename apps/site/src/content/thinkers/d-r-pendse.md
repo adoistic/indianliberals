@@ -74,5 +74,3 @@ The Liberal Budget 2007-2008: Taking Reforms to the Poor
 D R Pendse on Liberating India s Entrepreneurs
 
 D R Pendse, former economist with the Tata Group of Industries, on liberating India s entrepreneurs
-
-> Imported from the previous WordPress site at `/content/d-r-pendse/`. Needs editorial review pass before locking.

@@ -35,7 +35,6 @@ geographic_scope:
 
 ______
 
-
 Rukhmabai Raut was a pioneering woman who became one of the first female doctors to practice medicine in British India. Born in 1864, Raut's life took a significant turn when she was married off at a young age of 11. However, she courageously resisted the marriage and fought a legal battle, the Dadaji Bhikaji vs. Rukhmabai case, which attracted national attention. Eventually, Queen Victoria dissolved her marriage, and Raut pursued further medical studies in England. Her activism and influence played a pivotal role in enacting the Age of Consent Act in 1891, which ended child marriages. Raut dedicated 35 years of her life to serving as the Chief Medical Officer at a state hospital in Rajkot before retiring to Bombay. Her remarkable contributions to medicine and the cause of women's rights continue to inspire generations.
 
 Read more about her journey [here](https://indianliberals.in/bn/content/rukhmabai-an-unrelenting-force-against-patriarchal-norms/).

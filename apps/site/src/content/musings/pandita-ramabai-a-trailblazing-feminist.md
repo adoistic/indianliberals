@@ -44,7 +44,6 @@ geographic_scope:
 
 _Pandita Ramabai (1858-1922) was an Indian social reformer, women's rights activist, scholar, and educator. She is best known for her pioneering work in promoting women's education and empowerment in India, publishing books on a wide range of topics, including the status of women in India, the Bible, and Sanskrit literature. She travelled extensively in India and abroad, advocating against child marriage, widowhood, and other social injustices against women. Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide._
 
-
 Born on April 23, 1858, in a Marathi-speaking Brahmin family as Rama Dongre, Ramabai was the daughter of Lakshmibai and Anant Shastri Dongre, a Sanskrit scholar and roving reciter of Hindu epics and religious books. Ramabai had two elder siblings: her sister Krishnabai and her brother Srinivas. 
 
 When her parents and Krishnabai died in the great famine of 1876, Ramabai, equipped with only her education, moved with Srinivas to Calcutta for a better life.

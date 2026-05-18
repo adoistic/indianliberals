@@ -66,7 +66,6 @@ geographic_scope:
 
 _Dr. Anandibai Joshi and Lakshmibai Tilak embarked on two separate paths for education and yet their paths coalesce into a strong liberal expression for emancipation of the individual._
 
-
 As liberal feminist ideas became more articulate and the suffrage movement became stronger in America, an intellectual churning shaped the Indian psyche in the latter half of the 19th century. At the center of this churning lay the issue of women’s education. Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education. This article looks at Dr. Anandibai Joshi and Lakshmibai Tilak and their fight for education. Dr. Anandibai Joshi and Lakshmibai Tilak embarked on two separate paths for education and yet their paths coalesce into a strong liberal expression for emancipation of the individual.
 
 At the mere age of 17, Anandibai Joshi sailed alone to America with the dream of becoming a doctor. Her journey up till this point is infused with grief, loss, and a constant battle against orthodoxy. Ever since their marriage when Anandibai was 9 years old, her husband, Gopalrao Joshi was keen on educating her. Against the wishes of Anandibai and her family, Gopalrao began educating her. His methods of teaching were often exacting and naturally Anandibai showed no keen inclination towards learning. When she was 14, she lost her infant; Anandibai came to believe that her infant could have been saved had there been a native, Hindu, female doctor that she could seek help from. This loss awakened the desire for education in her and she sought to get medical education. Gopalrao supported her decision and the couple decided to look for medical colleges abroad. In a speech at Serampore, Anandibai explained that most Indian medical colleges trained women for midwifery; the only college in Madras presidency which trained women to become doctors, treated female students with disdain. 
@@ -104,7 +103,6 @@ Tilak, L. (2010). _Smritichitre_ (4th ed.) [Print]. Samanvay Prakashan.
 [4] मी पाठ करून बोलणार नाही. मला माझ्या मनाला वाटेल तसे बोलेन.  
 
 [_Previous musing: Lokmanya Tilak: A Conservative Liberal?_](https://indianliberals.in/content/lokmanya-tilak-a-conservative-liberal/)
-
 
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 

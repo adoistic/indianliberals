@@ -128,7 +128,6 @@ Where power is allowed to be centralised in a few hands, democracy shrinks. That
 
 The separation of powers in the U.S. Constitution between the President or the Administration, Congress and the Supreme Court is a good example of three independent authorities functioning side by side and often clashing with one another. Even where there is a Parliamentary form of government, as in France after Gaulle amended the Constitution, and in Sri Lanka after Mr. Jayewardene amended it, though there is a Prime Minister responsible to Parliament, there is also a President, who acts as a check on the Prime Minister and the Cabinet. It is not, therefore, true that in every Parliamentary Democracy the Prime Minister and Cabinet can overrule the President. Quite the contrary. The Constitution of the Republic of India as it emerged from the Constituent Assembly, of which I was proud to be a member, did precisely this by curbing the powers of the Prime Minister and Cabinet of the day through:
 
-
  	- a)     The President
 
  	- b)    The Supreme Court
@@ -138,7 +137,6 @@ The separation of powers in the U.S. Constitution between the President or the A
  	- d)    The States
 
  	- e)     The Fundamental Rights of the citizen
-
 
 Unfortunately, most of these checks have been eroded by those in office in Delhi through their lust for centralising power in their own hands. Prime Minister Indira Gandhi was able, with the bogus majority in Parliament that she enjoyed, even to amend the Constitution and truncate the Prerogatives of President and the Fundamental Rights of the citizen.
 

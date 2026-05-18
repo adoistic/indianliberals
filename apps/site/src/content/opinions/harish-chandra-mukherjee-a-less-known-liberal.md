@@ -88,6 +88,5 @@ It is pertinent to mention here that there were some intellectuals such as Rammo
 Some other issues brought forth by the Hindu Patriot were female education and widow remarriage. The columns in the paper supported legalizing widow remarriage and female education - asking people to follow the footsteps of Drinkwater Bethune - the lawyer who started a secular school for females in Calcutta. In those times, female education was seen as antithetical to the religious beliefs of Hindus, particularly Brahmins. While liberals such as Vidyasagar, Harishchandra and Dwarkanath supported it, the orthodox society reacted by saying: “Whatever was left of Kali Yuga (age of darkness), has come.Once the girls get hold of the books, nothing will be left.”
 In spite of financial crunches in the late part of the 19th century, Harish Chandra;s paper stood out as a highly influential paper. After his death Kristo Pal became its editor. He avowed British liberalism and offered vigilant criticism of government measures.
 
-
 Harish Chandra may be remembered as a not so conspicuous contributor to Indian journalism, boldly remarking: _“Can a revolution in the Indian Government be authorised by Parliament without consulting the wishes of vast millions of men for whose benefit it is proposed to be made.”_
 type=content&#038;p=1581). Needs editorial review._

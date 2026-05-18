@@ -15,4 +15,3 @@ ai:
   drafted_at: 2026-05-17
   model_version: pdf-filename/forum-of-free-enterprise/joint-sector-some-issues-by-minoo-shroff-1972.pdf
 ---
-

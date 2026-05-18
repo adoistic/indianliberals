@@ -69,5 +69,4 @@ Rukhmabai’s contributions in the areas of medicine and social justice formed t
 **![](https://indianliberals.in/wp-content/uploads/2021/07/20210315_141544-282x300.jpg)**
 **Khushi Rajput**
 
-
 Khushi Rajput is currently pursuing Masters in Political Science from the University of Delhi. Her areas of interest include issues pertaining to civil rights, foreign policy and geopolitics.

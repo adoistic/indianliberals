@@ -110,7 +110,6 @@ There are, of course, many remedial measures that can and must be undertaken. Bu
 
 If I were asked to prescribe, I would begin by administering a few antidotes. These would be in the form of further controls "on a war-footing", of which I would suggest the immediate imposition of the following: 
 
-
  	- Control over deficit financing as a means of preventing the cruelty of inflation.
 
  	- Control of the output of the Currency Printing Press at Nasik, and a ban on the erection of more currency printing presses.
@@ -118,6 +117,5 @@ If I were asked to prescribe, I would begin by administering a few antidotes. Th
  	- A ban on the imposition of new controls.
 
  	- Licensing of speeches - and the levy of steeply graded licence fee on speeches exceeding five minutes' duration, with surcharges on Platitude, Piffle and Twaddle, and penalties on Sermonisation.
-
 
 _Last week's musing: [THE SWATANTRA MANIFESTO](https://indianliberals.in/content/the-swatantra-manifesto/)_

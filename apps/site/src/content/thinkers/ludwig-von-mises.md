@@ -20,4 +20,3 @@ ai:
 birth_year: 1881
 death_year: 1973
 ---
-

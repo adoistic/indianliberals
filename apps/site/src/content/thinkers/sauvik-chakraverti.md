@@ -67,5 +67,3 @@ Published On
 At Liberty: Freedom to Express and Offend
 
 31  July 2012
-
-> Imported from the previous WordPress site at `/content/sauvik-chakraverti/`. Needs editorial review pass before locking.

@@ -22,4 +22,3 @@ ai:
 birth_year: 1861
 death_year: 1941
 ---
-
