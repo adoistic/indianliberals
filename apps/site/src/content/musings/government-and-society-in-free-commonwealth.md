@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "sauvik-chakraverti"
 ---
 
 _The excerpt below is from the publication “Natural Order: Essays Exploring Civil Government & The Rule of Law”, authored by Sauvik Chakraverti. _

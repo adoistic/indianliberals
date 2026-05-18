@@ -4,7 +4,8 @@ title:
   main: Access to Medicines at Affordable Prices
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - y-k-hamied
 editors: []
 contributors: []
 publication:

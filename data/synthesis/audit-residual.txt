@@ -1,0 +1,191 @@
+primary-works	a-pragmatic-economic-policy-for-a-government-thatworks-june-13-1981	reprinted Tata Economic Consultancy Services bulletin article; no individual byline	high
+primary-works	an-open-letter-to-lic-by-peregrine-december-5-1962	pseudonymous (Peregrine)	high
+primary-works	ananlaysis-of-dutt-committe-november-9-1969	anonymous Special Correspondent	high
+primary-works	are-there-monopolies-and-concentration-of-economic-power-in-india	no author byline visible in summary	medium
+primary-works	basic-documents-forum-of-free-enterprise-july-18-1956	collection of foundational documents; no single author	high
+primary-works	bogey-of-socialism-hinders-rapid-economic-growth-july-8-1962	pseudonymous (Critic)	high
+primary-works	bridging-diminishing-the-digital-divide-by-dr-th-chowdhary-2002	match_to_unknown_thinker:dr-th-chowdary	low
+primary-works	business-and-public-welfare-v-k-narasimhan-march-9-1970	convention background papers, multi-author	medium
+primary-works	constitution-march-2000	institutional document (ILG Constitution); no individual byline	high
+primary-works	cooperative-farming-sree-rama-murthy-jul5-1960	student essay competition prize compilation; multi-author	high
+primary-works	cooperatives-in-the-changing-economy-of-india	institutional report (CDF Hyderabad); no individual byline	high
+primary-works	deregulation-of-savings-banks-usha-thorat-august-4-2011	panel discussion proceedings; multi-author	high
+primary-works	economic-thinking-of-lord-keynes-july-11-1968	essay about Keynes; author not identifiable from slug or summary	medium
+primary-works	forum-of-free-enterprise-a-manifesto	institutional founding document	high
+primary-works	forum-of-free-enterprise-code-of-conduct	institutional document	high
+primary-works	free-enterpise-in-a-free-society-by-onlooker-february-21-1957	pseudonymous (Onlooker)	high
+primary-works	liberal-budget-2006-07	annual budget compilation; no single author	high
+primary-works	liberal-budget-building-equitable-society	annual budget compilation	high
+primary-works	liberal-budget-reforms-for-poor	annual budget compilation	high
+primary-works	manifesto-1985	institutional manifesto	high
+primary-works	sixth-national-convention-swatantra-souvenirs-1973	convention souvenir; multi-author	high
+musings	a-democracy-at-war	thematic editorial; no single thinker	high
+musings	a-rule-of-law-society	thematic editorial	high
+musings	a-viewpoint-on-libertarian-society	thematic editorial	high
+musings	agricultural-economy	thematic	high
+musings	agricultural-policy-of-swatantra-party	about Swatantra Party, no individual	high
+musings	all-quiet-on-the-western-front-1930-2	WP-import junk (film title)	high
+musings	all-quiet-on-the-western-front-1930	WP-import junk (film title)	high
+musings	application-of-science-and-technology	thematic editorial	high
+musings	art-versus-law-and-order	thematic editorial	high
+musings	bureaucracy-liberal-administrator	thematic editorial	high
+musings	cape-town-coastal-city-in-parliament-of-south-africa	thematic	high
+musings	caste-system-curse	thematic editorial	high
+musings	censorship-and-the-law-of-inexorability	thematic	high
+musings	chinas-tiananmen-massacre	thematic	high
+musings	conditions-for-economic-growth	thematic	high
+musings	constitution-and-the-common-man	thematic	high
+musings	consumer-sovereignty-leads-to-rapid-economic-development	thematic	high
+musings	de-stalinisation-versus-communism	thematic	high
+musings	democracy-and-liberalism-contrasting-ideals	thematic	high
+musings	democracy-means-bread-and-freedom	thematic	high
+musings	democratic-socialism-in-india	thematic	high
+musings	do-we-deserve-our-prime-ministers	thematic	high
+musings	economics-of-freedom	thematic	high
+musings	envato-market-2	WP-import junk	high
+musings	examination-of-objections-to-limitations-of-amending-power-1960	thematic constitutional argument	medium
+musings	fifteen-years-of-planning	thematic	high
+musings	for-absolute-freedom-of-expression	thematic	high
+musings	for-freedom-farm-and-family	thematic	high
+musings	forests-to-forest-dwellers	thematic	high
+musings	forty-three-years-of-independence	thematic	high
+musings	free-enterprise-in-indian-and-freedom	thematic	high
+musings	free-enterprise-is-economic-democracy	thematic	high
+musings	free-market-economy	thematic	high
+musings	freedom-of-self-expression	thematic	high
+musings	fundamental-rights-protection-against-tyranny	thematic	high
+musings	globalisation-and-the-poor-2	thematic	high
+musings	gold-problem-india	thematic	high
+musings	grievances-in-and-of-the-supreme-court	thematic	high
+musings	have-we-lost-our-will-to-be-free	thematic	high
+musings	history-of-lions-2	WP-import junk	high
+musings	history-of-sea-transport-2	WP-import junk	high
+musings	history-of-south-africa-2	WP-import junk	high
+musings	history-of-womens-national-soccer-league-2	WP-import junk	high
+musings	hope-for-indian-liberals	thematic	high
+musings	humanism-science-and-rationalism	thematic	high
+musings	ideas-in-politics	thematic	high
+musings	in-name-of-freedom-the-us-india-alignment-in-cold-war	thematic	high
+musings	india-seeing-the-future-in-its-past	thematic	high
+musings	india-the-tiger-caged	thematic	high
+musings	indian-agricultural-policy-in-a-nutshell	thematic	high
+musings	j-k-rowling	WP-import junk (not a thinker we profile)	high
+musings	justin-d-meadows-2	WP-import junk	high
+musings	khoj-january-february-2008	periodical issue, not authored	high
+musings	laws-of-nature	thematic	high
+musings	liberalism-and-freedom	thematic	high
+musings	libertarian-happy-new-year	thematic	high
+musings	libertarian-mission	thematic	high
+musings	making-capital-out-of-consumer-goods	thematic	high
+musings	making-indian-industry-globally-competitive	thematic	high
+musings	manifesto-for-india-liberals	institutional manifesto	high
+musings	manifesto-for-indian-liberals	institutional manifesto	high
+musings	michael-faraday-2	WP-import junk	high
+musings	modern-policing-for-modern-india	thematic	high
+musings	natural-history-museum-of-london-2	WP-import junk	high
+musings	natural-history-of-dragons	WP-import junk	high
+musings	not-a-rich-peoples-lobby	thematic	high
+musings	obstacles-to-liberalisation-and-market-economy	thematic	high
+musings	ordinal-numbers-2	WP-import junk	high
+musings	our-economic-future	thematic	high
+musings	philosophy-of-freedom	thematic	high
+musings	pirates-of-the-caribbean-2	WP-import junk	high
+musings	piyush-vs-piyush-beautiful-policies-are-not-enough	satirical, ambiguous subject	medium
+musings	popcorn-and-cinema	thematic	high
+musings	population-causes-prosperity	thematic	high
+musings	post-reform-labour-and-employment-issues-liberal-budget	thematic policy piece	high
+musings	prospects-of-democracy-in-india	thematic	high
+musings	replace-the-gdp	thematic	high
+musings	rings-of-neptune-2	WP-import junk	high
+musings	san-francisco-2	WP-import junk	high
+musings	satyagraha-and-the-political-system	thematic	high
+musings	shetkari-sangathana-history-farmers-movement-india	about Shetkari Sanghatana organization	high
+musings	sikkim-through-other-eyes	thematic	high
+musings	soviet-dissidents-detente-and-liberty	thematic	high
+musings	space-2018-movie-2	WP-import junk	high
+musings	state-monopolies-and-the-citizen-in-a-democracy	thematic	high
+musings	statement-of-principles-of-swatantra-party	institutional document	high
+musings	swatantra-liberals-and-indian-foreign-policy	thematic	high
+musings	swatantra-party-foundation-year	institutional history	high
+musings	the-budget-versus-the-people-2	WP-import junk	high
+musings	the-dangers-of-cooperative-farming	thematic	high
+musings	the-education-of-the-electorate	thematic, no specific author	medium
+musings	the-emerging-scenario-in-education-2	WP-import junk	high
+musings	the-essence-of-democracy-3	WP-import junk	high
+musings	the-essence-of-democracy	thematic	high
+musings	the-indian-constitution-and-judiciary	thematic	high
+musings	the-indian-libertarian-3	WP-import junk	high
+musings	the-individual-and-indian-constitution	thematic	high
+musings	the-light-of-the-indian-constitution	thematic	high
+musings	the-missed-opportunity	thematic	high
+musings	the-mission-of-libertarianism	thematic	high
+musings	the-myth-of-free-education	thematic	high
+musings	the-party-or-the-people	thematic	high
+musings	the-perils-of-a-welfare-state	thematic	high
+musings	the-perils-of-state-support	thematic	high
+musings	the-place-of-free-enterprise-in-a-backward-economy	thematic	high
+musings	the-potterist-2	WP-import junk	high
+musings	the-principle-of-state-interference	thematic	high
+musings	the-retreat-from-socialism-2	WP-import junk	high
+musings	the-retreat-from-socialism	thematic	high
+musings	the-state-of-enterprise-in-little-india	thematic	high
+musings	the-swatantra-economy-obstacles-and-challenges	thematic	high
+musings	the-task-before-a-free-people	thematic	high
+musings	the-three-meanings-of-secularism	thematic	high
+musings	the-tiger-caged-concluding-installment-from-the-economists-survey-of-india	Economist survey reprint	high
+musings	the-tiger-caged-part-ii	Economist survey reprint	high
+musings	the-union-budget-1992-93	budget document	high
+musings	the-us-india-alignment-in-cold-war	thematic	high
+musings	the-wisdom-of-the-rulers	thematic	high
+musings	to-prosperity-through-freedom-v-r-1960	V.R. initials too generic to resolve	medium
+musings	touchscreen-phones-2	WP-import junk	high
+musings	towards-party-less-democracy	thematic	high
+musings	trample-the-wall	thematic	high
+musings	tropical-seasons-2	WP-import junk	high
+musings	uefa-champions-league-teams-2	WP-import junk	high
+musings	video-game-console-2	WP-import junk	high
+musings	vision-of-free-india	thematic	high
+musings	war-between-opposing-ideologies	thematic	high
+musings	wastage-in-public-sector-enterprises	thematic	high
+musings	what-makes-japan-tick	thematic	high
+musings	wordpress-cms-2	WP-import junk	high
+musings	your-prosperity-through-freedom	thematic	high
+opinions	decentralisation-and-panchayati-raj-system-in-india	thematic policy piece	high
+opinions	diversity-democracy-and-dissent	thematic	high
+opinions	fourth-industrial-revolution-what-it-means-for-india	thematic	high
+opinions	hauling-down-the-angels	thematic essay	high
+opinions	indian-liberals-annual-lecture-2023	event announcement	high
+opinions	indian-liberals-essay-contest-results	contest results	high
+opinions	indian-liberals-essay-contest	contest announcement	high
+opinions	poona-sarvajanik-sabha-and-its-liberal-affiliations	about an organization	high
+opinions	swatantra-party-a-big-tent-challenge-to-congress-hegemony	about Swatantra Party	high
+opinions	the-aborted-promise-economic-liberalisation-1960s	thematic	high
+opinions	the-imagined-democracy-in-india	thematic	high
+opinions	the-swatantra-way-for-forging-a-formidable-coalition	about Swatantra Party	high
+interviews	an-auxiliary-for-historians-the-contribution-of-older-austrians	thematic talk on Austrian school	high
+interviews	bollywood-and-cultural-change-in-attitude	thematic monologue	high
+interviews	centre-for-civil-society-a-journey-in-time	about CCS the organization	high
+interviews	did-bollywood-liberalise-india-or-did-india-liberalise-bollywood	thematic	high
+interviews	forest-departments-incentives-and-the-environment	thematic	high
+interviews	forest-rights-act-2006-the-struggle-for-implementation-part-i	thematic	high
+interviews	forest-rights-act-2006-the-struggle-for-implementation-part-ii	thematic	high
+interviews	il-explainer-episode-6	explainer episode, thematic	high
+interviews	indias-forest-dwellers-from-owners-to-encroachers	thematic	high
+interviews	indias-transition-choice-competition-and-individual-dignity	thematic	high
+interviews	liberalism-and-the-challenge-of-polarisation	thematic	high
+interviews	public-distribution-system-boon-or-bane	thematic	high
+interviews	role-of-civil-society-in-the-pandemic	thematic	high
+interviews	role-of-ideology-in-indias-liberalisation	thematic	high
+interviews	shetkari-sanghathana-a-movement-for-freedom-part-2	about Shetkari Sanghatana	high
+interviews	shetkari-sanghathana-a-movement-for-freedom-part-i	about Shetkari Sanghatana	high
+interviews	swatantra-party-indias-first-liberal-party	about Swatantra Party	high
+interviews	the-case-for-liberalism-in-indian-history	thematic	high
+interviews	the-challenges-for-liberal-grassroots-movements	thematic	high
+interviews	the-challenges-leading-to-the-forest-rights-act-2006	thematic	high
+interviews	the-early-years-emergency-era-and-tryst-with-civil-services	thematic	high
+interviews	the-future-of-liberalism-in-a-post-pandemic-world	thematic	high
+interviews	the-hope-for-a-liberal-political-alternative	thematic	high
+interviews	the-relationship-between-citizen-and-state	thematic	high
+interviews	the-role-of-government-in-agriculture	thematic	high
+interviews	tribals-and-development-countering-the-myths	thematic	high
+interviews	why-is-it-difficult-to-de-regulate-labor-in-india	thematic	high

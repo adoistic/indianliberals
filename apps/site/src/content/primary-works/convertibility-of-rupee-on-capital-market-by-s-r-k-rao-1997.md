@@ -4,7 +4,8 @@ title:
   main: Convertibility of Rupee on Capital Account
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-r-k-rao
 editors: []
 contributors: []
 publication:

@@ -4,11 +4,12 @@ title:
   main: Accountability in Public Service
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - n-vittal
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: N. Vittal  IAS (Retd.)
+    thinker: n-vittal
   - role: introduction
     thinker_unresolved: Sunil Bhandare
 publication:

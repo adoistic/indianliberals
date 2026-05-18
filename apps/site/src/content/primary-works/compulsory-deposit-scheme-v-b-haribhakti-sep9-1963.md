@@ -4,11 +4,12 @@ title:
   main: Compulsory Deposit Scheme
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - v-b-haribhakti
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: V. B. Haribhakti
+    thinker: v-b-haribhakti
     toc_index: 1
   - role: author
     thinker_unresolved: H. C. Malkani

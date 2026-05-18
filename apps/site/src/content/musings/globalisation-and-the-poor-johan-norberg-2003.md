@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "johan-norberg"
 ---
 
 _The following excerpt has been taken from the Occasional Paper titled ‘Globalisation and the Poor’ written by Johan Norberg. The paper is based on a contribution of the author to the workshop Campaigning for Free Trade; organised by the Liberal Institute of the Friedrich Naumann Foundation in November 2003._

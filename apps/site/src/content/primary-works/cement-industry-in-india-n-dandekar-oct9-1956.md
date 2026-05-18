@@ -4,7 +4,8 @@ title:
   main: CEMENT INDUSTRY IN INDIA
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - n-dandekar
 editors: []
 contributors: []
 publication:

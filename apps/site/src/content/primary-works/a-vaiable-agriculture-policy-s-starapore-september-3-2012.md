@@ -4,12 +4,13 @@ title:
   main: A Viable Agriculture Policy for Sustained Growth
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - s-s-tarapore
 editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: S. S. Tarapore
+    thinker: s-s-tarapore
   - role: editor
     thinker: sunil-bhandare
 publication:

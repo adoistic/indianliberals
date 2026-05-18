@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "anandibai-joshee"
 ---
 
 The following essay revisits the interesting life of Anandibai Joshee. Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine.

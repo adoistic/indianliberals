@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "minoo-masani"
 ---
 
 _Published below is an article written by Minoo Masani in 1952, which appeared in the December 2002 edition of Freedom First Magazine. This piece was written during the years of the cold war wherein Mr Masani makes a coherent, impassioned and prudent plea to safeguard universal human values._

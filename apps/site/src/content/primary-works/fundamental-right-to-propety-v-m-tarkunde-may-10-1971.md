@@ -4,7 +4,8 @@ title:
   main: Fundamental Right to Property
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - v-m-tarkunde
 editors: []
 contributors: []
 publication:

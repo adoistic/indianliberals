@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "bibek-debroy"
 ---
 
 _The following musing is taken from the “_**_Handbook of Transformation to Market Economy”_**_ written by _**_Bibek Debroy_**_ and published by the __the_**_ Liberal Institute of the Friedrich Naumann Foundation _**_in 2008. The text reproduced below is an excerpt from its second chapter titled “_**_Freedom and Economic Freedom_**_”. _

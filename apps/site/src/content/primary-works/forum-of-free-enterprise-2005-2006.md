@@ -4,7 +4,8 @@ title:
   main: The Forum of Free Enterprise
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - sucheta-dalal
 editors: []
 contributors: []
 publication:

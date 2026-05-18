@@ -10,6 +10,7 @@ draft: false
 subject_name: "The Hayek-Keynes Debate, 1931-1971 |"
 youtube_url: "https://www.youtube.com/watch?v=SdqP9_U1GjE"
 transcript_status: "none"
+subject: "sudha-r-shenoy"
 ---
 
 ---

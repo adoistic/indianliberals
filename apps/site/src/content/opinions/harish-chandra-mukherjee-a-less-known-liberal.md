@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "harish-chandra-mukherjee"
 ---
 
 In the pre-independence era, two editors left an indelible mark on Indian journalism. Both of them were Bengalis. While one has been described as the father of Indian journalism, the other was a** **crusading commentator on events of his time. Ramachandra Chatterjee was the editor of The Modern Review (1907-1965) while Harish Chandra Mukherjee of Hindu Patriot (1853-84).

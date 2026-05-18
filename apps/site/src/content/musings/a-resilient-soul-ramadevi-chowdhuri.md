@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "ramadevi-chowdhury"
 ---
 
 _Ramadevi Chowdhuri (1899-1985) was a prominent Indian freedom fighter and social activist from Odisha, India. Her dedication to the cause of women's rights and active participation in the freedom struggle has made her an inspirational figure in Odisha and beyond. Ramadevi's legacy continues to inspire generations of women to fight for their rights and contribute to society._

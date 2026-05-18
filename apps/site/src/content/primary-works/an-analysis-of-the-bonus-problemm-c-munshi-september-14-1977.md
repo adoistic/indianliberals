@@ -4,7 +4,8 @@ title:
   main: An Analysis of the Bonus Problem
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-c-munshi
 editors: []
 contributors: []
 publication:

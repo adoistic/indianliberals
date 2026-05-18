@@ -4,7 +4,8 @@ title:
   main: Economy and Efficiency in Public Administration in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - c-s-venkatachar
 editors: []
 contributors: []
 publication:

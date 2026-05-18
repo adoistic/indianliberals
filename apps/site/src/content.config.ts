@@ -63,7 +63,13 @@ const thinkers = defineCollection({
       })
       .optional(),
     bio_source: z
-      .enum(['canonical', 'feature_article', 'ai_drafted', 'imported'])
+      .enum([
+        'canonical',         // hand-curated CCS bio
+        'feature_article',   // adapted from a longer published profile
+        'ai_drafted',        // full AI-drafted bio reviewed by editorial
+        'ai_drafted_stub',   // minimal stub from the Phase A cross-link audit; Phase 1.5 will expand
+        'imported',          // imported from the WordPress export, often a placeholder
+      ])
       .default('canonical'),
     // Synthesis-populated. Empty until Phase 4 Pass 3 runs over the
     // extracted corpus.

@@ -10,6 +10,7 @@ draft: false
 subject_name: "Sunil Bhandare on enlarging the \"constituency of reforms\" in India"
 youtube_url: "https://www.youtube.com/watch?v=toFirg2z7bQ"
 transcript_status: "none"
+subject: "sunil-bhandare"
 ---
 
 Sunil Bhandare, Advisor, Tata Strategic Management Group discussing ways through which what he calls "constituency of reforms" could be enlarged.

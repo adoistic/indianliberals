@@ -4,7 +4,8 @@ title:
   main: "CITIZENS' PARTICIPATION IN EFFECTIVE GOVERNANCE"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - shailesh-gandhi
 editors: []
 contributors: []
 publication:

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "j-m-lobo-prabhu"
 ---
 
 _The musing shared below is a 1959 winning essay in a writing competition organised by the Forum of Free Enterprise. The essay, authored by J M Lobo Prabhu, MP Lok Sabha (Udupi) 67' traces the development of the Indian constitution factoring in the various influences that have played a role in its making. It critically analyses the contradictions inherent in the Constitution and how it has played out in the working of the Indian democracy. The essay also emphasizes the excessive powers the Constitution has vested in the central government. It elucidates the role of Directive Principles in the Constitution and the implications of the socialist elements present in it. The essay argues that basic principles of democracy, such as the rule of law and sovereignty of the Parliament, are contradicted by elements in the Constitution itself. _

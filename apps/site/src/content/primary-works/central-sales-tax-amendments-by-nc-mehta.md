@@ -4,7 +4,8 @@ title:
   main: CENTRAL SALES TAX AMENDMENTS
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - n-c-mehta
 editors: []
 contributors: []
 publication:

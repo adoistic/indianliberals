@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "ma-venkata-rao"
 ---
 
 _The following piece was originally published in the October 1961 edition of the Indian Libertarian Magazine. The author, M.A. Venkata Rao deconstructs Indian democracy vis-a-vis the relationship between voters and representatives. He emphasises the need for greater liason between representatives and their constituents, among other things. _The characteristics of the electorate everywhere determines the quality of democracy and its actual influence on affairs beneficial or otherwise. In our country today, we have very large constituencies consisting of voters given political rights on an adult basis irrespective of property, education and sex. For the Lok Sabha, we have constituencies running into lakhs of voters and in rural areas, they are spread over several townships. To contact them would require ample funds for conveyance and ample leisure. Only men of means can contemplate candidature for Lok Sabha or men favoured by parties with large funds to "invest" in the enterprise of capturing power. 

@@ -10,6 +10,7 @@ draft: false
 subject_name: "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy"
 youtube_url: "https://www.youtube.com/watch?v=iQgsvzJaBD8"
 transcript_status: "none"
+subject: "sudha-r-shenoy"
 ---
 
 ---

@@ -4,17 +4,19 @@ title:
   main: Barons of Banking - Glimpses of Indian Banking History
   subtitle: Reflections by Experts
 work_type: edited_volume
-authors: []
+authors:
+  - y-v-reddy
+  - s-s-tarapore
 editors: []
 contributors:
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
     toc_index: 1
   - role: author
-    thinker_unresolved: Dr. Y. V. Reddy
+    thinker: y-v-reddy
     toc_index: 2
   - role: author
-    thinker_unresolved: Mr. S. S. Tarapore
+    thinker: s-s-tarapore
     toc_index: 3
   - role: author
     thinker_unresolved: Mr. Y. H. Malegam

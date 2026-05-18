@@ -4,7 +4,8 @@ title:
   main: A PHILOSOPHY OF BUSINESS
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-s-kanoria
 editors: []
 contributors: []
 publication:

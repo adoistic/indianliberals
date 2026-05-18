@@ -4,7 +4,8 @@ title:
   main: ECONOMIC POLICY FOR INDIA IN 1980s
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - bk-nehru-cn
 editors: []
 contributors: []
 publication:

@@ -4,7 +4,8 @@ title:
   main: FINANCING - THE CHANGING PARADIGM IN INDIA
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - uday-kotak
 editors: []
 contributors: []
 publication:

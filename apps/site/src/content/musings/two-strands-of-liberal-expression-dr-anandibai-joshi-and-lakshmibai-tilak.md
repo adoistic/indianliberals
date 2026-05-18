@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "lakshmibai-tilak"
 ---
 
 _Dr. Anandibai Joshi and Lakshmibai Tilak embarked on two separate paths for education and yet their paths coalesce into a strong liberal expression for emancipation of the individual._

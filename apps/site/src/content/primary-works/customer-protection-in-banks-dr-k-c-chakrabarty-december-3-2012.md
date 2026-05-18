@@ -4,12 +4,13 @@ title:
   main: Customer Protection in Banks – Emerging Issues and Challenges
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - k-c-chakrabarty
 editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: Dr. K. C. Chakrabarty
+    thinker: k-c-chakrabarty
   - role: editor
     thinker: sunil-bhandare
 publication:

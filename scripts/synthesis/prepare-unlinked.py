@@ -41,17 +41,31 @@ OUT_PATH = ROOT / "data/synthesis/unlinked.jsonl"
 
 
 # (collection, ref_fields_that_indicate_linked, expected_role_for_resolver)
+#
+# For primary-works, "linked" means EITHER authors[] is non-empty OR at least
+# one entry in contributors[] has thinker: <id>. A work where Shroff wrote
+# only the introduction (role: introduction, but thinker resolved) still
+# appears on Shroff's bio page via the contributors[] check in the bio page
+# template — so it shouldn't be counted as unlinked here.
 SPECS = [
-    ("musings",         ["author"],                     "author"),
-    ("opinions",        ["author", "subject"],          "subject"),
-    ("interviews",      ["subject"],                    "subject"),
-    ("theprint-mirror", ["author", "related_thinkers"], "author"),
-    ("primary-works",   ["authors"],                    "author"),
+    ("musings",         ["author"],                                 "author"),
+    ("opinions",        ["author", "subject"],                      "subject"),
+    ("interviews",      ["subject"],                                "subject"),
+    ("theprint-mirror", ["author", "related_thinkers"],             "author"),
+    ("primary-works",   ["authors", "contributors_has_thinker"],    "author"),
 ]
 
 
 def has_nonempty_ref(fm: str, fields: list[str]) -> bool:
     for f in fields:
+        # Pseudo-field: any contributor with a thinker: <id> line
+        if f == "contributors_has_thinker":
+            # Scan the contributors block for `thinker: <id>` lines whose value
+            # is a real slug (not empty/null/quoted-empty).
+            block = re.search(r"^contributors:\s*\n((?:[ \t]+.+\n)*)", fm, re.M)
+            if block and re.search(r'^[ \t]+thinker:\s*"?[a-z0-9-]+', block.group(1), re.M):
+                return True
+            continue
         m = re.search(rf'^{f}:\s*"([^"]+)"\s*$', fm, re.M)
         if m and m.group(1).strip():
             return True

@@ -4,7 +4,8 @@ title:
   main: Free Enterprise is Economic Democracy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - margaret-thatcher
 editors: []
 contributors: []
 publication:

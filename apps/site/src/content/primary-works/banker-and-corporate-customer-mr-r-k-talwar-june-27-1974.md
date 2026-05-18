@@ -4,11 +4,12 @@ title:
   main: BANKER AND CORPORATE CUSTOMER
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-k-talwar
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: R. K. TALWAR
+    thinker: r-k-talwar
   - role: introduction
     thinker: nani-palkhivala
 publication:

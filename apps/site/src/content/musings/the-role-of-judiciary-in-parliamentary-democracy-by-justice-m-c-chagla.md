@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "m-c-chagla"
 ---
 
 _The following is an excerpt from the A.D. Shroff Memorial Lecture titled 'The Role of Judiciary in Parliamentary Democracy' published by the Forum of Free Enterprise and delivered by Justice M.C. Chagla in 1974. It was republished as a booklet by Forum of Free Enterprise in January 2011. Justice M.C.Chagla, one of the finest Judges India has produced, had made in 1974, some very pertinent observations which have great bearing on contemporary developments in India._

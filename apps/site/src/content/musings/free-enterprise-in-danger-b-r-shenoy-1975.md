@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "b-r-shenoy"
 ---
 
 _Produced below is an excerpt from 'Economic Prophecies' – a collection of BR Shenoy's theoretical writings dating from 1932 to 1953. __The featured article 'Free Enterprise in Danger' was written by Shenoy in support of statements made by industrialist JRD Tata at a seminar in 1975, sounding a warning about the impending extinction of the private sector._

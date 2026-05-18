@@ -4,7 +4,8 @@ title:
   main: A Look at the Bombay Plan in the Light of Today
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - h-v-r-iengar
 editors: []
 contributors: []
 publication:

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "nani-palkhivala"
 ---
 
 _**The following excerpt is taken from Nani Palkhivala's essay, "Crushing Burden of Taxation," published by the Forum of Free Enterprise in 1958. In this piece, Palkhivala critiques India's tax laws and the unchecked power of the Executive, advocating for a balanced approach that promotes fairness, equity, and economic growth.**_

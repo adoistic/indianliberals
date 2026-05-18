@@ -4,7 +4,8 @@ title:
   main: ENLIST CO-OPERATION OF PRIVATE ENTERPRISE
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - b-rama-rau
 editors: []
 contributors: []
 publication:

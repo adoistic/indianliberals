@@ -4,7 +4,8 @@ title:
   main: "CONSUMERS OF A STATE MONOPOLY: LIC POLICYHOLDERS"
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - l-g-bapat
 editors: []
 contributors: []
 publication:

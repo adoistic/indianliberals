@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "parth-shah"
 ---
 
 The following is an excerpt from the transcript of Education in India (an audio podcast) hosted by K. Satyanarayan with Parth J. Shah (Founder President of Centre for Civil Society). The podcast was recorded on June 09, 2014. In the excerpt, Parth comments on the importance of “choice” as a prerequisite to articulating the definition of quality education.

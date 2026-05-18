@@ -4,7 +4,8 @@ title:
   main: Cotton Policy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - ramniwas-ruia
 editors: []
 contributors: []
 publication:

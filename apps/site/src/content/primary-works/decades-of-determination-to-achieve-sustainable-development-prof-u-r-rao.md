@@ -4,7 +4,8 @@ title:
   main: Decade of Determination to Achieve Sustainable Development
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - u-r-rao
 editors: []
 contributors: []
 publication:

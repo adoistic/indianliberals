@@ -4,7 +4,8 @@ title:
   main: APPROACH TO THE FIFTH PLAN
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - phiroze-b-medhora
 editors: []
 contributors: []
 publication:

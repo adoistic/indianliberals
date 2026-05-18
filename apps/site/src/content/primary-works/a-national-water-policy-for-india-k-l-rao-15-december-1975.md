@@ -4,7 +4,8 @@ title:
   main: A National Water Policy for India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - k-l-rao
 editors: []
 contributors: []
 publication:

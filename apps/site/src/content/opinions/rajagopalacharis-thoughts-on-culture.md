@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "c-rajagopalachari"
 ---
 
 _Rajaji defines that “culture is not just character or morality. Character is the inside of a man. Culture is external rather than internal. Culture has more to do with behaviour and way of living than with character. Broadly speaking, culture is external though of course, it has much to do with character too. Because, the outside has always much to do with the inside.”_The word culture denotes many things to many countries. But undoubtedly, it is one of the most misused and abused words in every literature. The word culture is also most confused among people during the debate and discussions in the domain of politics, administrations, social reforms, renaissance, etc.

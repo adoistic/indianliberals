@@ -4,7 +4,8 @@ title:
   main: Challenge Before the Administration
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - c-s-seshadri
 editors: []
 contributors: []
 publication:

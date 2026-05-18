@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "sadanand-varde"
 ---
 
 _Produced below is an essay by _Sadanand Varde, published in a 1997 booklet titled [Fifty Years After.](https://indianliberals.in/content/fifty-years-after/)_ The booklet was edited and published by Indian liberal stalwart S.V. Raju, and was jointly sponsored by the Project for Economic Education and Friedrich Naumann Stiftung. _I left Elphinstone college where I was a student, joined the freedom struggle in 1942 and was jailed for a year. Hence I was labelled 'freedom fighter'. But the nomenclature 'freedom fighter' and all that is associated with it is not something that I carry with any pride or enthusiasm because many persons who carry that 'designation' have ruled the country and some of them, very distinguished ones at that, have been hauled in courts for criminal offences. Those who have been freedom fighters and those who were born after freedom, have a sense of sadness, a sense even of alienation with the sorry state of affairs of our country today. 

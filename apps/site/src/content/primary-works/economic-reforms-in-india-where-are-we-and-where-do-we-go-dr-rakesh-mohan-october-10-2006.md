@@ -4,7 +4,8 @@ title:
   main: "Economic Reforms in India: Where are We and Where do We Go?"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - rakesh-mohan
 editors: []
 contributors: []
 publication:

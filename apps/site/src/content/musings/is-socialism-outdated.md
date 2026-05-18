@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "nani-palkhivala"
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/is-socialism-outdated-n-a-palkhivala-mar10-1966.pdf) published on March 10, 1966. The first article, ‘The Shells of Socialism’ was authored by Nani A Palkhivala. It addresses the policies proposed by the then Union Minister for Planning. 

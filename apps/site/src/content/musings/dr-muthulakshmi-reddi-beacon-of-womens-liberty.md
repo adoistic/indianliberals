@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "muthulakshmi-reddi"
 ---
 
 _Dr Muthulakshmi Reddy was an embodiment of progressive liberalism. She was a staunch advocate of women’s education and was a vehement critic of the Devadasi system. She challenged many traditional societal norms. By championing gender equality she left an indelible mark on South Indian social fabric._

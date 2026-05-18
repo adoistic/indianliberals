@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "bhimrao-ambedkar"
 ---
 
 Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition.

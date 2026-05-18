@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "tarabai-shinde"
 ---
 
 _Tarabai Shinde deserves to be known as one of the early feminists of India and a figure who espoused the cause of liberalism through her commitment to equal rights for women.  _The nineteenth century India was characterized by increasing demands of social reforms in the country. Along with their male contemporaries, women like Ramabai Ranade and Savitribai Phule questioned patriarchal norms of the society. One such advocate of women empowerment and gender equality was Tarabai Shinde. 

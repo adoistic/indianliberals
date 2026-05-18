@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "azizun-nisa"
 ---
 
 The following essay revisits the liberal and patriotic contributions of Azizun Nisa, a forgotten warrior of the 1857 Revolt. It also raises important questions concerning rigid colonial ideas of morality that were historically alien to Indian minds.The First War of Independence in 1857 gave India a host of freedom fighters that would be revered for generations to come. Rani Lakshmi Bai, Tantia Tope, Nana Saheb Peshwa II and Begum Hazrat Mahal have been memorialized in Indian history for their contributions. Among the many names that do not end up getting the same kind of recognition for their contributions is Azizun Nisa - a courtesan who fought in the Siege of Cawnpore.

@@ -4,11 +4,12 @@ title:
   main: Federal Financial Relations in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - k-santhanam
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: K. SANTHANAM
+    thinker: k-santhanam
   - role: introduction
     thinker_unresolved: MURARJI J. VAIDYA
 publication:

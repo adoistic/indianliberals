@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "karsandas-mulji"
 ---
 
 _Karsandas Mulji's reformist legacy is rooted in his efforts to break through conformist tendencies and question even the most superior authority. He is most famously known for the Maharaj Libel Case, 1852._Karsandas Mulji, a contemporary of Dadabhai Naoroji, was one of the pioneer Indian social reformers working for the cause of women emancipation. In 1850s-60s, Mulji was a prominent member of the “[Bombay intelligentsia](https://books.google.co.in/books?id=1V40DAAAQBAJ&lpg=PP1&pg=PA121#v=onepage&q=bombay%20intelligentsia&f=false)” in conflict with the “merchant aristocracy” over social issues. Mulji’s place in Indian history as a reformer is due to the Maharaj libel case in 1862, which earned him the [title](https://books.google.co.in/books?id=1V40DAAAQBAJ&lpg=PP1&pg=PA119#v=onepage&q=martin%20luther%20of%20banian%20caste&f=false) of “a Reformer, a Martin Luther of the Banian Cast”.

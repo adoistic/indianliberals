@@ -4,7 +4,8 @@ title:
   main: G 20 and India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - d-subbarao
 editors: []
 contributors:
   - role: introduction

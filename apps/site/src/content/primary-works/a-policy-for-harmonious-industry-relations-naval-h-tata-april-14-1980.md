@@ -4,7 +4,8 @@ title:
   main: A Policy for Harmonious Industrial Relations
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - naval-h-tata
 editors: []
 contributors: []
 publication:

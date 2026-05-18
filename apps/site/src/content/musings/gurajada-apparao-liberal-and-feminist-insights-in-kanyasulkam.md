@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "gurajada-apparao"
 ---
 
 _Gurajada Venkata Apparao also called as ‘Gurajada’ was a social reformer and liberal thinker. He is also considered as the pathfinder of modernism in Telugu literature. Through his works, he strongly criticised social evils such as child marriage and dowry. He was a strong advocate for Women’s education and empowerment. He was posthumously awarded the Padma Bhushan, India’s third-highest civilian award, in 1954. _

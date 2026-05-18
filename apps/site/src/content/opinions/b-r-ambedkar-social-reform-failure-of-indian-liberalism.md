@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "bhimrao-ambedkar"
 ---
 
 _Ambedkar argued, that the leading liberal figure reposed his faith in Congress, effectively paving way for a single party hegemony. Thus the collapse of the Liberal party was ‘really a disaster to the country’ because ‘the rule of a single party is fatal to Popular Government.’_India’s anti-imperial struggle against British colonialism constituted of many voices of the nation. Given the sheer geographical and social diversity of India, it only made sense that the national political aspirations took different expressions. Some forms of activism went beyond a narrow political demand for self-rule to fashion a broader conception of freedom and dignity. Prominent strands along this line consisted of moderate liberals and radical Dalit leaders. Differing in their modus operandi and view of the role of state, both constitutionalist liberals and subaltern leaders recognized the need to reform Indian society from inside to enable a ‘true’ sense of freedom for Indians. These two largely marginalized visions of nation overshadowed by the big tent Congress nationalism were brought in conversation in a speech by Bhimrao Ambedkar.

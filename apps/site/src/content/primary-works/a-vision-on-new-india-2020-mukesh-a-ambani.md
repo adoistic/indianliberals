@@ -4,7 +4,8 @@ title:
   main: A VISION OF INDIA IN 2020
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - mukesh-ambani
 editors: []
 contributors: []
 publication:

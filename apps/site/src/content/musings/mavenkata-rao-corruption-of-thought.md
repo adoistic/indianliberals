@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "ma-venkata-rao"
 ---
 
 This is an excerpt from an article written by M A Venkata Rao for the September 1958 issue of The Indian Libertarian Journal. In the article, Mr Rao explains how Marxist ideas have corrupted public discourse in favour of statist interventionism and emphasises the need for intellectuals to seek and propagate the truth behind harmful policies to purify public opinion.

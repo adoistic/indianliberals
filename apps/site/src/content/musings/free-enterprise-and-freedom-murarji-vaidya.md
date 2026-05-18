@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "murarji-vaidya"
 ---
 
 _The following musing is an excerpt from a booklet under the same name, authored by Murarji Vaidya and published by the Forum for Free Enterprise in 1956. The author addresses the objectives of the Second Five Year Plan proposed by the Planning Commission of India – highlighting the restrictions on private enterprise to prevent concentration of economic power, arguing that extension of the public sector is bound to result in the same outcome. _

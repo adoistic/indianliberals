@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "yashodabai-agarkar"
 ---
 
 _Yashodabai Agarkar, known to most as Gopal Ganesh Agarkar's wife, was a social reformer and an advocate of women's education. The story of her personal struggles shows her courage and determination to follow the ideas inculcated by her husband and how she stood as an example to other women and widows ill treated by the society._

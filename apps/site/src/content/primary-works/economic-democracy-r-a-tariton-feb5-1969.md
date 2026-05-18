@@ -4,7 +4,8 @@ title:
   main: Economic Democracy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - b-a-tarlton
 editors: []
 contributors: []
 publication:

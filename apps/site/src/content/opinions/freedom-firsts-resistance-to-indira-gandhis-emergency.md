@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "minoo-masani"
 ---
 
 The following essay explores the stance taken by Minoo Masani against India's nuclear ambitions. In doing so, Masani made a critical economic argument to deter Indian policymakers from focusing on nuclear weapons development at the time.From the time of Nehru laying the foundation of the atomic energy program, India as a nuclear power has come a long way now with its acceptance in the global nuclear regime. India’s path to the bomb and emergence as a responsible nuclear power has not been a straightforward one. Among other factors, the domestic political debate has played a crucial role in shaping India’s nuclear trajectory. 

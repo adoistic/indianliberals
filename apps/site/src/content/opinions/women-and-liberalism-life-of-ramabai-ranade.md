@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "ramabai-ranade"
 ---
 
 _ A distinctively liberal feature of Ramabai's work is how all women, despite their social or economic background, were accepted in the Seva Sadan._Ramabai Ranade was married at the age of 11, and according to the conventions of the era she lived in, her life should have been over with widowhood. However, Ramabai was not one to let society dictate. One of the most important social reformers of pre-independence India, Ramabai Ranade’s contributions have led to massive strides in the sphere of women empowerment. At a time when women were not to be seen in public often, and heard even less, Ranade’s life was nothing less than revolutionary.

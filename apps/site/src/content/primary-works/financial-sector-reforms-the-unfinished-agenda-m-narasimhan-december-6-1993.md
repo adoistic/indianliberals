@@ -4,7 +4,8 @@ title:
   main: "Financial Sector Reforms: The Unfinished Agenda"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - m-narasimhan
 editors: []
 contributors:
   - role: introduction

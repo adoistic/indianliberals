@@ -4,7 +4,8 @@ title:
   main: Corporate Sector and Rural Development
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - n-s-ramaswamy
 editors: []
 contributors: []
 publication:

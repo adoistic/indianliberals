@@ -11,6 +11,7 @@ subject_name: "Vision for a Prosperous India - Gurcharan Das"
 youtube_url: "https://www.youtube.com/watch?v=xvLLuK8wYiE"
 transcript_status: "none"
 
+subject: "gurcharan-das"
 ---
 
 We are two years away from celebrating out 75th anniversary of independence. Gurcharan Das (Indian author and public intellectual) talks to Indian Liberals to discuss his vision for a prosperous India and the strategy to make it possible.

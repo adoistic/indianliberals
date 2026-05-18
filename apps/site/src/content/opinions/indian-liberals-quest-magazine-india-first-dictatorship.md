@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "minoo-masani"
 ---
 
 _In what could be seen as the unfolding of high modernist ideology, Quest’s criticism took the form of rationalist railing against the religious objection to family planning. In its support of forced family planning and sterilization, the limits of Indian liberalism become apparent in terms of its rationalist high modernity and economic anxiety._India under the Emergency (1975-77) imposed by Indira Gandhi saw the suspension of fundamental rights, electoral democracy, and press freedom. A recent book aptly calls this authoritarian turn India’s first dictatorship. For the better, the dictatorship had its detractors as well who faced the risk of prison time yet resisted Indira Gandhi’s throttling of India’s audacious democratic experiment. India’s liberal intelligentsia formed a small but significant part of this resistance. One of the major intellectual outposts for Indian liberals during this period was _Quest_ magazine. Published by the Indian Committee for Cultural Freedom (ICCF), _Quest _sought to advance the cause of cultural freedom and anti-communism in India.

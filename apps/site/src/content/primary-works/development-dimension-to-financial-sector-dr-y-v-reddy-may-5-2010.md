@@ -4,7 +4,8 @@ title:
   main: Developmental Dimension to Financial Sector
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - y-v-reddy
 editors:
   - sunil-bhandare
 contributors: []

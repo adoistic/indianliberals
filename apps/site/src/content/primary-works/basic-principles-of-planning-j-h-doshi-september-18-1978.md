@@ -4,7 +4,8 @@ title:
   main: Basic Principles of Planning
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - j-h-doshi
 editors: []
 contributors: []
 publication:

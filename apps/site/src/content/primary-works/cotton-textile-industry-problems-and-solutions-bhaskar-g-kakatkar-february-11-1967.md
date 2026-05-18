@@ -4,11 +4,12 @@ title:
   main: "COTTON TEXTILE INDUSTRY — PROBLEMS & SOLUTION"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - bhaskar-g-kakatkar
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: BHASKAR G. KAKATKAR
+    thinker: bhaskar-g-kakatkar
   - role: foreword
     thinker_unresolved: R. G. SARAIYA
 publication:

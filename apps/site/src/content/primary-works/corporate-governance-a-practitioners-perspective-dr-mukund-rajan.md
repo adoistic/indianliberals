@@ -4,12 +4,13 @@ title:
   main: "Corporate Governance – A Practitioner's Perspective"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - mukund-rajan
 editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: Dr. Mukund Rajan
+    thinker: mukund-rajan
   - role: editor
     thinker: sunil-bhandare
 publication:

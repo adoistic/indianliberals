@@ -4,7 +4,8 @@ title:
   main: Rural Development is Key to Welfare of the Masses
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - j-h-doshi
 editors: []
 contributors: []
 publication:

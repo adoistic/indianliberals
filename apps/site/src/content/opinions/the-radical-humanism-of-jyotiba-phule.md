@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "jyotirao-phule"
 ---
 
 _In his struggle against the caste system, Jyotiba Phule’s innovation lay in overturning the ideological foundation of what he called Brahmanical order. He sought to transcend the caste-based division to unite the lower castes and untouchables in the category of Sudras-atisudras. (Image Credit: khabar.ndtv.com)_Brought by the modernising force of British Raj, the cosmopolitan ferment of Pune in the late 18th century fostered a small Indian intelligentsia which had an immense influence on the shaping of modern India. Ramchandra Guha has [pointed out](https://newrepublic.com/article/104203/the-other-liberal-light) that “between 1875 and 1910, the city of Poona (now Pune) was in the vanguard of social reform.” The likes of Gokhale, Tilak, Chiplunkar, and Agarkar sought to reform and mobilise the native population to create a modern Indian society and polity. Jyotiba Phule, a fellow Punekar, stands out in the group though for his radicalism and advocacy of the lower castes.

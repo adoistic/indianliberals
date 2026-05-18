@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "babytai-kamble"
 ---
 
 Babytai Kamble was a pioneering voice of intersectional feminism in India. As a Dalit woman, she understood the complexities of caste, class and gender-based oppressions and their overlapping nature. Her life and work provides a critical lens into the intersectionality of feminism. "It is the woman who is the doer" – Babytai Kamble (Pandit)

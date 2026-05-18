@@ -5371,6 +5371,1766 @@
       "sources": [
         "phase-0.6-wave2-refresh-2026-05-17"
       ]
+    },
+    {
+      "id": "h-v-r-iengar",
+      "name": {
+        "canonical": "H. V. R. Iengar",
+        "sort": "Iengar, H. V. R.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-l-rao",
+      "name": {
+        "canonical": "Dr. K. L. Rao",
+        "sort": "Rao, K. L.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "r-c-cooper",
+      "name": {
+        "canonical": "Dr. R. C. Cooper",
+        "sort": "Cooper, R. C.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "s-s-kanoria",
+      "name": {
+        "canonical": "S. S. Kanoria",
+        "sort": "Kanoria, S. S.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "naval-h-tata",
+      "name": {
+        "canonical": "Naval H. Tata",
+        "sort": "Tata, Naval H.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "james-s-raj",
+      "name": {
+        "canonical": "James S. Raj",
+        "sort": "Raj, James S.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "jayashekar",
+      "name": {
+        "canonical": "Dr. Jayashekar",
+        "sort": "Jayashekar",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "t-mathew",
+      "name": {
+        "canonical": "T. Mathew",
+        "sort": "Mathew, T.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "eric-p-w-da-costa",
+      "name": {
+        "canonical": "Eric P. W. da Costa",
+        "sort": "da Costa, Eric P. W.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "s-s-tarapore",
+      "name": {
+        "canonical": "S. S. Tarapore",
+        "sort": "Tarapore, S. S.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "mukesh-ambani",
+      "name": {
+        "canonical": "Mukesh D. Ambani",
+        "sort": "Ambani, Mukesh D.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "y-k-hamied",
+      "name": {
+        "canonical": "Dr. Y. K. Hamied",
+        "sort": "Hamied, Y. K.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "tarun-das",
+      "name": {
+        "canonical": "Tarun Das",
+        "sort": "Das, Tarun",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "vijay-mahajan-aviation",
+      "name": {
+        "canonical": "Wing Commander Vijay Mahajan",
+        "sort": "Mahajan, Vijay (Wing Commander)",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "j-h-doshi",
+      "name": {
+        "canonical": "J. H. Doshi",
+        "sort": "Doshi, J. H.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "m-c-munshi",
+      "name": {
+        "canonical": "Dr. M. C. Munshi",
+        "sort": "Munshi, M. C.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "bhanu-pratap-singh",
+      "name": {
+        "canonical": "Bhanu Pratap Singh",
+        "sort": "Singh, Bhanu Pratap",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "dinesh-vyas",
+      "name": {
+        "canonical": "Dinesh Vyas",
+        "sort": "Vyas, Dinesh",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "phiroze-b-medhora",
+      "name": {
+        "canonical": "Dr. Phiroze B. Medhora",
+        "sort": "Medhora, Phiroze B.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "r-k-talwar",
+      "name": {
+        "canonical": "R. K. Talwar",
+        "sort": "Talwar, R. K.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "shyamala-gopinath",
+      "name": {
+        "canonical": "Shyamala Gopinath",
+        "sort": "Gopinath, Shyamala",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "y-v-reddy",
+      "name": {
+        "canonical": "Dr. Y. V. Reddy",
+        "sort": "Reddy, Y. V.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-v-m-pai",
+      "name": {
+        "canonical": "K. V. M. Pai",
+        "sort": "Pai, K. V. M.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "n-dandekar",
+      "name": {
+        "canonical": "N. Dandekar",
+        "sort": "Dandekar, N.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "n-c-mehta",
+      "name": {
+        "canonical": "N. C. Mehta",
+        "sort": "Mehta, N. C.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "c-s-seshadri",
+      "name": {
+        "canonical": "C. S. Seshadri",
+        "sort": "Seshadri, C. S.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "otto-lambsdorff",
+      "name": {
+        "canonical": "Otto Graf Lambsdorff",
+        "sort": "Lambsdorff, Otto",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "r-n-jha",
+      "name": {
+        "canonical": "R. N. Jha",
+        "sort": "Jha, R. N.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "amitabh-kant",
+      "name": {
+        "canonical": "Amitabh Kant",
+        "sort": "Kant, Amitabh",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "shailesh-gandhi",
+      "name": {
+        "canonical": "Shailesh Gandhi",
+        "sort": "Gandhi, Shailesh",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "b-n-adarkar",
+      "name": {
+        "canonical": "B. N. Adarkar",
+        "sort": "Adarkar, B. N.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "m-l-tannan",
+      "name": {
+        "canonical": "M. L. Tannan",
+        "sort": "Tannan, M. L.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "n-n-pai",
+      "name": {
+        "canonical": "N. N. Pai",
+        "sort": "Pai, N. N.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "b-g-rao",
+      "name": {
+        "canonical": "B. G. Rao",
+        "sort": "Rao, B. G.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "d-n-sinha",
+      "name": {
+        "canonical": "Justice D. N. Sinha",
+        "sort": "Sinha, D. N.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "v-b-haribhakti",
+      "name": {
+        "canonical": "V. B. Haribhakti",
+        "sort": "Haribhakti, V. B.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "w-h-hutt",
+      "name": {
+        "canonical": "W. H. Hutt",
+        "sort": "Hutt, W. H.",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "l-g-bapat",
+      "name": {
+        "canonical": "Prof. L. G. Bapat",
+        "sort": "Bapat, L. G.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "s-r-k-rao",
+      "name": {
+        "canonical": "Dr. S. R. K. Rao",
+        "sort": "Rao, S. R. K.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "mukund-rajan",
+      "name": {
+        "canonical": "Dr. Mukund Rajan",
+        "sort": "Rajan, Mukund",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-b-dadiseth",
+      "name": {
+        "canonical": "K. B. Dadiseth",
+        "sort": "Dadiseth, K. B.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "n-s-ramaswamy",
+      "name": {
+        "canonical": "Prof. N. S. Ramaswamy",
+        "sort": "Ramaswamy, N. S.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "p-v-shenoi",
+      "name": {
+        "canonical": "Dr. P. V. Shenoi",
+        "sort": "Shenoi, P. V.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "samiran-nundy",
+      "name": {
+        "canonical": "Dr. Samiran Nundy",
+        "sort": "Nundy, Samiran",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "ramniwas-ruia",
+      "name": {
+        "canonical": "Shri Ramniwas R. Ruia",
+        "sort": "Ruia, Ramniwas R.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "bhaskar-g-kakatkar",
+      "name": {
+        "canonical": "Bhaskar G. Kakatkar",
+        "sort": "Kakatkar, Bhaskar G.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-c-chakrabarty",
+      "name": {
+        "canonical": "Dr. K. C. Chakrabarty",
+        "sort": "Chakrabarty, K. C.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "anand-sinha",
+      "name": {
+        "canonical": "Anand Sinha",
+        "sort": "Sinha, Anand",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "u-r-rao",
+      "name": {
+        "canonical": "Prof. U. R. Rao",
+        "sort": "Rao, U. R.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-jayaraman",
+      "name": {
+        "canonical": "K. Jayaraman",
+        "sort": "Jayaraman, K.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "abhaya-prasad-hota",
+      "name": {
+        "canonical": "Abhaya Prasad Hota",
+        "sort": "Hota, Abhaya Prasad",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-venkataraman",
+      "name": {
+        "canonical": "Dr. K. Venkataraman",
+        "sort": "Venkataraman, K.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "b-a-tarlton",
+      "name": {
+        "canonical": "B. A. Tarlton",
+        "sort": "Tarlton, B. A.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "zafar-futehally",
+      "name": {
+        "canonical": "Zafar Futehally",
+        "sort": "Futehally, Zafar",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "r-j-taraporevala",
+      "name": {
+        "canonical": "Prof. R. J. Taraporevala",
+        "sort": "Taraporevala, R. J.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "kishori-j-udeshi",
+      "name": {
+        "canonical": "Kishori J. Udeshi",
+        "sort": "Udeshi, Kishori J.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "rakesh-mohan",
+      "name": {
+        "canonical": "Dr. Rakesh Mohan",
+        "sort": "Mohan, Rakesh",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "c-s-venkatachar",
+      "name": {
+        "canonical": "C. S. Venkatachar",
+        "sort": "Venkatachar, C. S.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "v-v-john",
+      "name": {
+        "canonical": "V. V. John",
+        "sort": "John, V. V.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "m-r-anantharamakrishnan",
+      "name": {
+        "canonical": "M. R. Anantharamakrishnan",
+        "sort": "Anantharamakrishnan, M. R.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "f-a-mehta",
+      "name": {
+        "canonical": "F. A. Mehta",
+        "sort": "Mehta, F. A.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "b-rama-rau",
+      "name": {
+        "canonical": "Sir B. Rama Rau",
+        "sort": "Rama Rau, B.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "d-veerendra-heggade",
+      "name": {
+        "canonical": "D. Veerendra Heggade",
+        "sort": "Heggade, D. Veerendra",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "hannan-ezekiel",
+      "name": {
+        "canonical": "Dr. Hannan Ezekiel",
+        "sort": "Ezekiel, Hannan",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "s-l-n-sinha",
+      "name": {
+        "canonical": "S. L. N. Sinha",
+        "sort": "Sinha, S. L. N.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "c-l-dadhich",
+      "name": {
+        "canonical": "Dr. C. L. Dadhich",
+        "sort": "Dadhich, C. L.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "k-santhanam",
+      "name": {
+        "canonical": "K. Santhanam",
+        "sort": "Santhanam, K.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "m-narasimhan",
+      "name": {
+        "canonical": "M. Narasimham",
+        "sort": "Narasimham, M.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "uday-kotak",
+      "name": {
+        "canonical": "Uday Kotak",
+        "sort": "Kotak, Uday",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "sucheta-dalal",
+      "name": {
+        "canonical": "Sucheta Dalal",
+        "sort": "Dalal, Sucheta",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "s-m-dahanukar",
+      "name": {
+        "canonical": "S. M. Dahanukar",
+        "sort": "Dahanukar, S. M.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "harish-budhlani",
+      "name": {
+        "canonical": "Harish Budhlani",
+        "sort": "Budhlani, Harish",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "g-carl-weiland",
+      "name": {
+        "canonical": "Prof. G. Carl Weiland",
+        "sort": "Weiland, G. Carl",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "d-r-mankekar",
+      "name": {
+        "canonical": "Dr. D. R. Mankekar",
+        "sort": "Mankekar, D. R.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "bradley-d-belt",
+      "name": {
+        "canonical": "Bradley D. Belt",
+        "sort": "Belt, Bradley D.",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "v-m-tarkunde",
+      "name": {
+        "canonical": "V. M. Tarkunde",
+        "sort": "Tarkunde, V. M.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "b-shiva-rao",
+      "name": {
+        "canonical": "B. Shiva Rao",
+        "sort": "Shiva Rao, B.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "d-subbarao",
+      "name": {
+        "canonical": "Dr. D. Subbarao",
+        "sort": "Subbarao, D.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "g-v-kapadia",
+      "name": {
+        "canonical": "G. V. Kapadia",
+        "sort": "Kapadia, G. V.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "j-d-chokshi",
+      "name": {
+        "canonical": "J. D. Chokshi",
+        "sort": "Chokshi, J. D.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "ramadevi-chowdhury",
+      "name": {
+        "canonical": "Ramadevi Chowdhury",
+        "sort": "Chowdhury, Ramadevi",
+        "also_known_as": []
+      },
+      "tradition": "reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "n-g-ranga",
+      "name": {
+        "canonical": "Acharya N. G. Ranga",
+        "sort": "Ranga, N. G.",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "piloo-mody",
+      "name": {
+        "canonical": "Piloo Mody",
+        "sort": "Mody, Piloo",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "v-p-menon",
+      "name": {
+        "canonical": "V. P. Menon",
+        "sort": "Menon, V. P.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "raghunath-karve",
+      "name": {
+        "canonical": "Raghunath Karve",
+        "sort": "Karve, Raghunath",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "johan-norberg",
+      "name": {
+        "canonical": "Johan Norberg",
+        "sort": "Norberg, Johan",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "gopal-ganesh-agarkar",
+      "name": {
+        "canonical": "Gopal Ganesh Agarkar",
+        "sort": "Agarkar, Gopal Ganesh",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "gurajada-apparao",
+      "name": {
+        "canonical": "Gurajada Apparao",
+        "sort": "Apparao, Gurajada",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "gurcharan-das",
+      "name": {
+        "canonical": "Gurcharan Das",
+        "sort": "Das, Gurcharan",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "homi-mody",
+      "name": {
+        "canonical": "Sir Homi Mody",
+        "sort": "Mody, Homi",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "jamshed-antia",
+      "name": {
+        "canonical": "Jamshed Antia",
+        "sort": "Antia, Jamshed",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "kandukuri-veeresalingam",
+      "name": {
+        "canonical": "Kandukuri Veeresalingam",
+        "sort": "Veeresalingam, Kandukuri",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "kanwal-rekhi",
+      "name": {
+        "canonical": "Kanwal Rekhi",
+        "sort": "Rekhi, Kanwal",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "rajkumari-amrit-kaur",
+      "name": {
+        "canonical": "Rajkumari Amrit Kaur",
+        "sort": "Kaur, Rajkumari Amrit",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "rukhmabai",
+      "name": {
+        "canonical": "Rukhmabai Raut",
+        "sort": "Raut, Rukhmabai",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "tanguturi-prakasam",
+      "name": {
+        "canonical": "Tanguturi Prakasam Panthulu",
+        "sort": "Prakasam, Tanguturi",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "yashodabai-agarkar",
+      "name": {
+        "canonical": "Yashodabai Agarkar",
+        "sort": "Agarkar, Yashodabai",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "john-ridpath",
+      "name": {
+        "canonical": "John Ridpath",
+        "sort": "Ridpath, John",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "lakshmibai-tilak",
+      "name": {
+        "canonical": "Lakshmibai Tilak",
+        "sort": "Tilak, Lakshmibai",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "voltaire",
+      "name": {
+        "canonical": "Voltaire",
+        "sort": "Voltaire",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "f-p-antia",
+      "name": {
+        "canonical": "F. P. Antia",
+        "sort": "Antia, F. P.",
+        "also_known_as": []
+      },
+      "tradition": "classical_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "anandibai-joshee",
+      "name": {
+        "canonical": "Anandibai Joshee",
+        "sort": "Joshee, Anandibai",
+        "also_known_as": []
+      },
+      "tradition": "reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true,
+      "birth_year": 1865,
+      "death_year": 1887
+    },
+    {
+      "id": "babytai-kamble",
+      "name": {
+        "canonical": "Babytai Kamble",
+        "sort": "Kamble, Babytai",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "c-y-chintamani",
+      "name": {
+        "canonical": "C. Y. Chintamani",
+        "sort": "Chintamani, C. Y.",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "dadabhai-naoroji",
+      "name": {
+        "canonical": "Dadabhai Naoroji",
+        "sort": "Naoroji, Dadabhai",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true,
+      "birth_year": 1825,
+      "death_year": 1917
+    },
+    {
+      "id": "shivani-a-tannu",
+      "name": {
+        "canonical": "Shivani A. Tannu",
+        "sort": "Tannu, Shivani A.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "fatima-sheikh",
+      "name": {
+        "canonical": "Fatima Sheikh",
+        "sort": "Sheikh, Fatima",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "hamid-dalwai",
+      "name": {
+        "canonical": "Hamid Dalwai",
+        "sort": "Dalwai, Hamid",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "harish-chandra-mukherjee",
+      "name": {
+        "canonical": "Harish Chandra Mukherjee",
+        "sort": "Mukherjee, Harish Chandra",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "hriday-nath-kunzru",
+      "name": {
+        "canonical": "Hriday Nath Kunzru",
+        "sort": "Kunzru, Hriday Nath",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "hindol-sengupta",
+      "name": {
+        "canonical": "Hindol Sengupta",
+        "sort": "Sengupta, Hindol",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "iqbalunnisa-hussain",
+      "name": {
+        "canonical": "Iqbalunnisa Hussain",
+        "sort": "Hussain, Iqbalunnisa",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "kanuparti-varalakshmamma",
+      "name": {
+        "canonical": "Kanuparti Varalakshmamma",
+        "sort": "Varalakshmamma, Kanuparti",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "karsandas-mulji",
+      "name": {
+        "canonical": "Karsandas Mulji",
+        "sort": "Mulji, Karsandas",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "mahadev-govind-ranade",
+      "name": {
+        "canonical": "Mahadev Govind Ranade",
+        "sort": "Ranade, Mahadev Govind",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true,
+      "birth_year": 1842,
+      "death_year": 1901
+    },
+    {
+      "id": "rani-rashmoni",
+      "name": {
+        "canonical": "Rani Rashmoni",
+        "sort": "Rashmoni, Rani",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "shareefa-hamid-ali",
+      "name": {
+        "canonical": "Shareefa Hamid Ali",
+        "sort": "Hamid Ali, Shareefa",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "pherozeshah-mehta",
+      "name": {
+        "canonical": "Pherozeshah Mehta",
+        "sort": "Mehta, Pherozeshah",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true,
+      "birth_year": 1845,
+      "death_year": 1915
+    },
+    {
+      "id": "tarabai-shinde",
+      "name": {
+        "canonical": "Tarabai Shinde",
+        "sort": "Shinde, Tarabai",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "v-s-srinivasa-sastri",
+      "name": {
+        "canonical": "V. S. Srinivasa Sastri",
+        "sort": "Sastri, V. S. Srinivasa",
+        "also_known_as": []
+      },
+      "tradition": "nationalist_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true,
+      "birth_year": 1869,
+      "death_year": 1946
+    },
+    {
+      "id": "ramabai-ranade",
+      "name": {
+        "canonical": "Ramabai Ranade",
+        "sort": "Ranade, Ramabai",
+        "also_known_as": []
+      },
+      "tradition": "social_reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "azizun-nisa",
+      "name": {
+        "canonical": "Azizun Nisa",
+        "sort": "Nisa, Azizun",
+        "also_known_as": []
+      },
+      "tradition": "reformer",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "ronald-meinardus",
+      "name": {
+        "canonical": "Ronald Meinardus",
+        "sort": "Meinardus, Ronald",
+        "also_known_as": []
+      },
+      "tradition": "international_influence",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "gp-manish",
+      "name": {
+        "canonical": "GP Manish",
+        "sort": "Manish, GP",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
+    },
+    {
+      "id": "s-divakara",
+      "name": {
+        "canonical": "S. Divakara",
+        "sort": "Divakara, S.",
+        "also_known_as": []
+      },
+      "tradition": "contemporary_liberal",
+      "nationality": "india",
+      "themes": [],
+      "affiliations": [],
+      "bio_source": "ai_drafted_stub",
+      "needs_review": true
     }
   ],
   "byline_lookup": {
@@ -5938,6 +7698,131 @@
     "રાજેશ મિશ્રા": "rajesh-mishra",
     "સુરેશ પરીખ": "suresh-parikh",
     "સ્વામી આનંદ": "swami-anand",
-    "હિમાંશી શેલત": "himanshi-shelat"
+    "હિમાંશી શેલત": "himanshi-shelat",
+    "h v r iengar": "h-v-r-iengar",
+    "dr k l rao": "k-l-rao",
+    "dr r c cooper": "r-c-cooper",
+    "s s kanoria": "s-s-kanoria",
+    "naval h tata": "naval-h-tata",
+    "james s raj": "james-s-raj",
+    "dr jayashekar": "jayashekar",
+    "t mathew": "t-mathew",
+    "eric p w da costa": "eric-p-w-da-costa",
+    "s s tarapore": "s-s-tarapore",
+    "mukesh d ambani": "mukesh-ambani",
+    "dr y k hamied": "y-k-hamied",
+    "tarun das": "tarun-das",
+    "wing commander vijay mahajan": "vijay-mahajan-aviation",
+    "j h doshi": "j-h-doshi",
+    "dr m c munshi": "m-c-munshi",
+    "bhanu pratap singh": "bhanu-pratap-singh",
+    "dinesh vyas": "dinesh-vyas",
+    "dr phiroze b medhora": "phiroze-b-medhora",
+    "r k talwar": "r-k-talwar",
+    "shyamala gopinath": "shyamala-gopinath",
+    "dr y v reddy": "y-v-reddy",
+    "k v m pai": "k-v-m-pai",
+    "n dandekar": "n-dandekar",
+    "n c mehta": "n-c-mehta",
+    "c s seshadri": "c-s-seshadri",
+    "otto graf lambsdorff": "otto-lambsdorff",
+    "r n jha": "r-n-jha",
+    "amitabh kant": "amitabh-kant",
+    "shailesh gandhi": "shailesh-gandhi",
+    "b n adarkar": "b-n-adarkar",
+    "m l tannan": "m-l-tannan",
+    "n n pai": "n-n-pai",
+    "b g rao": "b-g-rao",
+    "justice d n sinha": "d-n-sinha",
+    "v b haribhakti": "v-b-haribhakti",
+    "w h hutt": "w-h-hutt",
+    "prof l g bapat": "l-g-bapat",
+    "dr s r k rao": "s-r-k-rao",
+    "dr mukund rajan": "mukund-rajan",
+    "k b dadiseth": "k-b-dadiseth",
+    "prof n s ramaswamy": "n-s-ramaswamy",
+    "dr p v shenoi": "p-v-shenoi",
+    "dr samiran nundy": "samiran-nundy",
+    "shri ramniwas r ruia": "ramniwas-ruia",
+    "bhaskar g kakatkar": "bhaskar-g-kakatkar",
+    "dr k c chakrabarty": "k-c-chakrabarty",
+    "anand sinha": "anand-sinha",
+    "prof u r rao": "u-r-rao",
+    "k jayaraman": "k-jayaraman",
+    "abhaya prasad hota": "abhaya-prasad-hota",
+    "dr k venkataraman": "k-venkataraman",
+    "b a tarlton": "b-a-tarlton",
+    "zafar futehally": "zafar-futehally",
+    "prof r j taraporevala": "r-j-taraporevala",
+    "kishori j udeshi": "kishori-j-udeshi",
+    "dr rakesh mohan": "rakesh-mohan",
+    "c s venkatachar": "c-s-venkatachar",
+    "v v john": "v-v-john",
+    "m r anantharamakrishnan": "m-r-anantharamakrishnan",
+    "f a mehta": "f-a-mehta",
+    "sir b rama rau": "b-rama-rau",
+    "d veerendra heggade": "d-veerendra-heggade",
+    "dr hannan ezekiel": "hannan-ezekiel",
+    "s l n sinha": "s-l-n-sinha",
+    "dr c l dadhich": "c-l-dadhich",
+    "k santhanam": "k-santhanam",
+    "m narasimham": "m-narasimhan",
+    "uday kotak": "uday-kotak",
+    "sucheta dalal": "sucheta-dalal",
+    "s m dahanukar": "s-m-dahanukar",
+    "harish budhlani": "harish-budhlani",
+    "prof g carl weiland": "g-carl-weiland",
+    "dr d r mankekar": "d-r-mankekar",
+    "bradley d belt": "bradley-d-belt",
+    "v m tarkunde": "v-m-tarkunde",
+    "b shiva rao": "b-shiva-rao",
+    "dr d subbarao": "d-subbarao",
+    "g v kapadia": "g-v-kapadia",
+    "j d chokshi": "j-d-chokshi",
+    "ramadevi chowdhury": "ramadevi-chowdhury",
+    "acharya n g ranga": "n-g-ranga",
+    "piloo mody": "piloo-mody",
+    "v p menon": "v-p-menon",
+    "raghunath karve": "raghunath-karve",
+    "johan norberg": "johan-norberg",
+    "gopal ganesh agarkar": "gopal-ganesh-agarkar",
+    "gurajada apparao": "gurajada-apparao",
+    "gurcharan das": "gurcharan-das",
+    "sir homi mody": "homi-mody",
+    "jamshed antia": "jamshed-antia",
+    "kandukuri veeresalingam": "kandukuri-veeresalingam",
+    "kanwal rekhi": "kanwal-rekhi",
+    "rajkumari amrit kaur": "rajkumari-amrit-kaur",
+    "rukhmabai raut": "rukhmabai",
+    "tanguturi prakasam panthulu": "tanguturi-prakasam",
+    "yashodabai agarkar": "yashodabai-agarkar",
+    "john ridpath": "john-ridpath",
+    "lakshmibai tilak": "lakshmibai-tilak",
+    "voltaire": "voltaire",
+    "f p antia": "f-p-antia",
+    "anandibai joshee": "anandibai-joshee",
+    "babytai kamble": "babytai-kamble",
+    "c y chintamani": "c-y-chintamani",
+    "dadabhai naoroji": "dadabhai-naoroji",
+    "shivani a tannu": "shivani-a-tannu",
+    "fatima sheikh": "fatima-sheikh",
+    "hamid dalwai": "hamid-dalwai",
+    "harish chandra mukherjee": "harish-chandra-mukherjee",
+    "hriday nath kunzru": "hriday-nath-kunzru",
+    "hindol sengupta": "hindol-sengupta",
+    "iqbalunnisa hussain": "iqbalunnisa-hussain",
+    "kanuparti varalakshmamma": "kanuparti-varalakshmamma",
+    "karsandas mulji": "karsandas-mulji",
+    "mahadev govind ranade": "mahadev-govind-ranade",
+    "rani rashmoni": "rani-rashmoni",
+    "shareefa hamid ali": "shareefa-hamid-ali",
+    "pherozeshah mehta": "pherozeshah-mehta",
+    "tarabai shinde": "tarabai-shinde",
+    "v s srinivasa sastri": "v-s-srinivasa-sastri",
+    "ramabai ranade": "ramabai-ranade",
+    "azizun nisa": "azizun-nisa",
+    "ronald meinardus": "ronald-meinardus",
+    "gp manish": "gp-manish",
+    "s divakara": "s-divakara"
   }
 }

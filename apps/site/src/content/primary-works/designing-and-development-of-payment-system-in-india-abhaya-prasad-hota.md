@@ -4,12 +4,13 @@ title:
   main: Designing and Development of Payment System in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - abhaya-prasad-hota
 editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: Abhaya Prasad Hota
+    thinker: abhaya-prasad-hota
     toc_index: 1
   - role: editor
     thinker: sunil-bhandare

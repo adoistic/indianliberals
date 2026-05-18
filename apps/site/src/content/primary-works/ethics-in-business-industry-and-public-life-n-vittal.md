@@ -4,7 +4,8 @@ title:
   main: ETHICS IN BUSINESS, INDUSTRY AND PUBLIC LIFE
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - n-vittal
 editors: []
 contributors: []
 publication:

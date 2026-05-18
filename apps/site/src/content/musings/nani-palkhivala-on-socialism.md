@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "nani-palkhivala"
 ---
 
 The following is an article published on March 10, 1966  in Forum of Free Enterprise's booklet titled "Is Socialism Outdated?" The author Mr. Nani Palkhivala, in this article on "The Shells of Socialism", discusses various aspects pertaining to socialism and State control.

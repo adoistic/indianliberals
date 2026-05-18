@@ -4,7 +4,8 @@ title:
   main: FROM THE INDUSTRIAL AGE TO THE INFORMATION AGE
   subtitle: RETHINKING THE REGULATION OF SECURITIES MARKETS
 work_type: essay
-authors: []
+authors:
+  - bradley-d-belt
 editors: []
 contributors: []
 publication:

@@ -4,11 +4,12 @@ title:
   main: Corruption Can Be Controlled
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - p-v-shenoi
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Dr. P V Shenoi, I.A.S.(Retd.)
+    thinker: p-v-shenoi
     toc_index: 1
   - role: author
     thinker_unresolved: Ram Gandhi

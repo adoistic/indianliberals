@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "hindol-sengupta"
 ---
 
 **An award-winning author of nine best selling books, Hindol is an author and journalist. His book, “Recasting India” was shortlisted for the Hayek Prize while his other book, “Being Hindu” won the Wilbur Award in 2018. He has worked for Bloomberg TV, CNN and CNBC. In 2011, he was voted by the global ideas platform IdeaMensch on its list of 33 Entrepreneurs Who Make The World A Better Place. In this interview with Hinan Ali, he talks about his books, politics, growth, elections, and entreprenuership in India.**

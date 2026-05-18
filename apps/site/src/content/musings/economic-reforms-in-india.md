@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "rakesh-mohan"
 ---
 
 The following text is taken from a 2006 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/economic-reforms-in-india-where-are-we-and-where-do-we-go-by-dr-rakesh-mohan-october-10-2006/) Authored by Dr Rakesh Mohan, the text describes the economic situation in the country for the past 50 odd years, discussing the increase in entrepreneurship that has emerged following economic reforms. Dr Mohan focuses on reforms for Agriculture, Urban Development, Human Resource Development and Vocational Training.

@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "shareefa-hamid-ali"
 ---
 
 The following essay revisits the life and legacy of a largely neglected Indian liberal, Shareefa Hamid Ali. A prominent advocate of an intersectional approach to feminism and individual rights, Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women.

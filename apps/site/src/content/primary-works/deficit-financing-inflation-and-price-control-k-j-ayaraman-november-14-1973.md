@@ -4,7 +4,8 @@ title:
   main: Deficit Financing, Inflation and Price Control
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - k-jayaraman
 editors: []
 contributors: []
 publication:

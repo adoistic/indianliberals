@@ -4,7 +4,8 @@ title:
   main: A Review of the Rupee Trade
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - jayashekar
 editors: []
 contributors: []
 publication:

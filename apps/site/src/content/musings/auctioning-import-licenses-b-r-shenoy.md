@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "b-r-shenoy"
 ---
 
 _Produced below is an excerpt from an essay published in The Indian Libertarian, January 1959, titled "Auctioning Import Licenses" by B.R. Shenoy. It explores the inefficiencies of India's import licensing system and advocates for a shift towards auctioning these licenses to generate government revenue and curb corruption._

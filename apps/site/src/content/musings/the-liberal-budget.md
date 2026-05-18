@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "minoo-masani"
 ---
 
 _Published by The Indian Liberal Group, a think tank founded in 1964 by Minoo Masani, the text titled “The Liberal Budget: Building an Equitable Society” authored by Mr Sunil S Bhandare - Chairman of the Group, Dr Ajit Karnik, Dr CS Deshpande, Mr Sanjay Panse and Ms Seetha - all members of the Indian Liberal Group was published in 2004 and has a total of three chapters: “Liberal perspectives and human development”, “The current budget scenario” and “Policy framework and structure of the Liberal Budget”._

@@ -4,7 +4,9 @@ title:
   main: "Deregulation of Savings Banks' Deposit Interest Rates"
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - kishori-j-udeshi
+  - s-s-tarapore
 editors:
   - sunil-bhandare
 contributors:
@@ -12,10 +14,10 @@ contributors:
     thinker_unresolved: Usha Thorat
     toc_index: 1
   - role: author
-    thinker_unresolved: Kishori J. Udeshi
+    thinker: kishori-j-udeshi
     toc_index: 1
   - role: author
-    thinker_unresolved: S.S. Tarapore
+    thinker: s-s-tarapore
     toc_index: 1
   - role: editor
     thinker: sunil-bhandare

@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "n-dandekar"
 ---
 
 _The Forum of Free Enterprise organised a Convention on State Trading in Bombay on April 28, 1958, attended by: Mr N Dandeker, I.C.S. (Retd.); Mr S C Bose, President of Utkal Mining and Industrial Association, Calcutta; Mr Murarji J Vaidya, former President of the Indian Merchants' Chamber, and Mr D B Futnani, President of Iron, Steel and Hardware Merchants' Chamber of India._

@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "janaki-ammal"
 ---
 
 The following essay celebrates the life and works of Indian botanist and cytogeneticist, Dr Janaki Ammal. A brilliant scientist and often the only woman in a room full of men, Dr Janaki was awarded the Padma Shri in 1977.At a time where the country focuses on the importance of women’s education and employment, Edavaleth Kakkat Janaki Ammal, a botanist and cytogeneticist, best known for putting sweetness in India’s sugarcane varieties through her scientific methods, remains unknown outside of academia. 

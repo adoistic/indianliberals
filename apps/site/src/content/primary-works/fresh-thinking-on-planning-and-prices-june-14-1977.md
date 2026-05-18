@@ -6,6 +6,7 @@ title:
 work_type: edited_volume
 authors:
   - m-n-roy
+  - v-m-tarkunde
 editors: []
 contributors:
   - role: author
@@ -18,7 +19,7 @@ contributors:
     thinker: m-n-roy
     toc_index: 1
   - role: author
-    thinker_unresolved: Mr. V.M. Tarkunde
+    thinker: v-m-tarkunde
     toc_index: 1
   - role: author
     thinker_unresolved: Prof. B.M. Banerjee

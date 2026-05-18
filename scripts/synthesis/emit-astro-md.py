@@ -318,14 +318,29 @@ def emit_primary_work(slug: str) -> Path | None:
     def _resolve(byline_verbatim: str | None) -> str | None:
         if not byline_verbatim:
             return None
-        n = _normalise_byline(byline_verbatim)
+        # Strip trailing honorific / qualification suffixes BEFORE
+        # normalising. The metadata routinely carries strings like
+        # "N. Vittal IAS (Retd.)", "C. S. Seshadri, I.A.S. (Retd.)",
+        # "M. R. Pai, Esq.", "Dr. Y. V. Reddy, M.P.". These won't match
+        # the clean canonical "N. Vittal" in byline_lookup unless we
+        # strip the suffix first.
+        bv = byline_verbatim
+        bv = re.sub(r"\s*\([^)]+\)\s*$", "", bv)         # drop trailing (Retd.) etc.
+        bv = re.sub(r",?\s*(I\.?A\.?S\.?|I\.?C\.?S\.?|I\.?F\.?S\.?|I\.?P\.?S\.?|I\.?R\.?S\.?|M\.?P\.?|M\.?L\.?A\.?|Esq\.?|Jr\.?|Sr\.?|Ph\.?\s*D\.?)\s*$", "", bv, flags=re.I)
+        bv = bv.strip(" ,.").strip()
+        n = _normalise_byline(bv)
         if not n:
             return None
-        # Try the full byline first, then strip honorific prefix.
         if n in bl:
             return bl[n]
-        n2 = re.sub(r"^(prof|dr|mr|mrs|ms|shri|sri|sir)\s+", "", n)
-        return bl.get(n2)
+        n2 = re.sub(r"^(prof|dr|mr|mrs|ms|shri|sri|sir|justice|lord|lady|pandit|acharya)\s+", "", n)
+        if n2 in bl:
+            return bl[n2]
+        # Final attempt: try the byline_verbatim WITH common honorifics stripped
+        # from anywhere
+        n3 = re.sub(r"\b(prof|dr|mr|mrs|ms|sir|justice|lord|lady|sri|shri|pandit|acharya|the late)\b\.?\s*", " ", n).strip()
+        n3 = re.sub(r"\s+", " ", n3)
+        return bl.get(n3)
 
     authors: list[str] = []
     for a in (meta.get("authors") or []):

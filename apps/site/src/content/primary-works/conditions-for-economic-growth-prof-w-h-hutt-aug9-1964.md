@@ -4,7 +4,8 @@ title:
   main: Conditions for Economic Growth
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - w-h-hutt
 editors: []
 contributors: []
 publication:

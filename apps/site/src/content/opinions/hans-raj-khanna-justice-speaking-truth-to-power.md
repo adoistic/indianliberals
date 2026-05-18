@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "hans-raj-khanna"
 ---
 
 _“The smallest minority on earth is the individual. Those who deny individual rights cannot claim to be defenders of minorities.”  ― Ayn Rand_“What is the cost of one’s voice – one man’s dissent?” – The life of Hans Raj Khanna depicts utmost courage and the hefty price paid for such courage. 

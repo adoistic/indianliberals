@@ -4,7 +4,8 @@ title:
   main: Economic Development and Conservation of Natural Resources
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - zafar-futehally
 editors: []
 contributors: []
 publication:

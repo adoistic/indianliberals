@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "a-d-shroff"
 ---
 
 _Ardeshir Darabshaw Shroff (1899-1965) was an eminent industrialist, banker, and economist. He was one of the architects of free India’s banking and insurance business. Shroff was amongst the earliest proponents of free enterprise in India. In 1956, Shroff co-founded the Forum of Free Enterprise, a think-tank, as a means to counter the socialist tendencies of the Nehru government. _

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "rajaji"
 ---
 
 What the Indian Constitution-makers aimed at was not a general indifference to religion but a tolerant and broadminded appreciation of all creeds and denominations and a respect for one another's religious beliefs and practices.

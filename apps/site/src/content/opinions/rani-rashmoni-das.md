@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "rani-rashmoni"
 ---
 
 The following essay celebrates the life of Rani Rashmoni Das, an unorthodox reformer of 19th century Bengal. Das, a widow who belonged to a lower caste community, established a revered position for herself among upper caste reformers like Raja Ram Mohan Roy and Ishwar Chandra Vidyasagar.19th century Bengal witnessed conflict between English aristocracy and elite Hindu priests and scholars. The priests perceived the increasing influence of the English as a threat to traditional Hindu society, and amped up the orthodoxy of rituals. This was, however, also a time of reform. Raja Ram Mohan Roy’s efforts had led to the abolishment of _Sati_. During this time, Rani Rashmoni Das, who belonged to what was deemed the lowest Hindu caste (_Shudra_), joined the reformist struggle. 

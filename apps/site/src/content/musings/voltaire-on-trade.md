@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "voltaire"
 ---
 
 The following is an excerpt from Voltaire’s essay “On Trade” from Letters Concerning the English Nation, a key work from the Enlightenment period. Known for his sharp wit, the observations of the satirical polemicist are just as provocative and relevant in the 21st century as they were in the 18th.

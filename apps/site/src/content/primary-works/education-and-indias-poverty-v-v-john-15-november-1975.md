@@ -4,7 +4,8 @@ title:
   main: "Education and India's Poverty"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - v-v-john
 editors: []
 contributors: []
 publication:

@@ -4,11 +4,12 @@ title:
   main: A Policy Framework for Broadbasing the Capital Market
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - james-s-raj
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: James S. Raj
+    thinker: james-s-raj
   - role: introduction
     thinker: nani-palkhivala
 publication:

@@ -4,7 +4,8 @@ title:
   main: Business-Government Understanding
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - naval-h-tata
 editors: []
 contributors: []
 publication:

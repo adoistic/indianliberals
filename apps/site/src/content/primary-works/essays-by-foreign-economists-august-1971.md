@@ -6,6 +6,8 @@ title:
 work_type: edited_volume
 authors:
   - milton-friedman
+  - b-a-tarlton
+  - w-h-hutt
   - eugene-black
 editors: []
 contributors:
@@ -13,7 +15,7 @@ contributors:
     thinker: milton-friedman
     toc_index: 1
   - role: author
-    thinker_unresolved: B. A. Tarlton
+    thinker: b-a-tarlton
     toc_index: 2
   - role: author
     thinker_unresolved: F. A. Hayek
@@ -22,7 +24,7 @@ contributors:
     thinker_unresolved: Prof. G. Carl Wiegand
     toc_index: 4
   - role: author
-    thinker_unresolved: Prof. W. H. Hutt
+    thinker: w-h-hutt
     toc_index: 5
   - role: author
     thinker_unresolved: Prof. Colin Clark

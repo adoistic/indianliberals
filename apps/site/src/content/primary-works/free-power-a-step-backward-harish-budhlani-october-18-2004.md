@@ -4,7 +4,8 @@ title:
   main: "FREE POWER A Step Backward!"
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - harish-budhlani
 editors: []
 contributors: []
 publication:

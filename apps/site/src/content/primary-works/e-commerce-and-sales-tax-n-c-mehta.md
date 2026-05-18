@@ -4,7 +4,8 @@ title:
   main: E-Commerce and Sales Tax
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - n-c-mehta
 editors: []
 contributors: []
 publication:

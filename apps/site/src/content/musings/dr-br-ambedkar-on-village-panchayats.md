@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "bhimrao-ambedkar"
 ---
 
 _Published by the Dr Ambedkar Foundation, Ministry of Social Justice & Empowerment, Government of India, the excerpt below has been borrowed from one of Dr B R Ambedkar’s speeches during the Bombay Legislative Council on Village Panchayats Bill debates on 6__th__ October 1932._

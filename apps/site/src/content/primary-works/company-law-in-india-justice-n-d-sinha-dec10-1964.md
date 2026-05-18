@@ -4,7 +4,8 @@ title:
   main: COMPANY LAW IN INDIA
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - d-n-sinha
 editors: []
 contributors: []
 publication:

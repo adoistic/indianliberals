@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "jamshed-antia"
 ---
 
 _Produced below is a piece published in the [June 1958 issue of the Forum of Free Enterprise periodical.](https://indianliberals.in/content/sales-tax-by-jamshed-m-antia-jun-1-1958/) The author Mr Jamshed M. Antia discusses implications of existing implementation of sales tax in India at the time. He further goes on to recommend changes in implementation mechanism that could benefit industry, consumer, and national economy. _During the last 20 years Sales Tax has become an important feature of India's Public Finances. The first Sales Tax took the form of a tax on the sale of motor spirit, which was imposed by the Central Provinces in 1937. Madras was the first Province to adopt the General Sales Tax in 1938. With the recognition of its potentialities as a revenue earner Sales Tax has been adopted by all the States. Indeed, today it has become the mainstay of State Finances, rivalling in importance even Land Revenue. In States such as Bombay its importance is greater than that of Land Revenue. It has also proved one of the most fruitful sources of revenue. Whereas in 1944 the total revenue of all States from Sales Tax was only Rs. 8 crores, today it is more than Rs. 80 crores, and is very nearly equal to the revenue from the Central Income-tax other than Corporation Tax. With rising money incomes the Sales Tax promises to rival in importance even the Income-tax.

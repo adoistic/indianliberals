@@ -11,6 +11,7 @@ subject_name: "Minoo Masani's Disenchantment with the Soviet Economic Model - In
 youtube_url: "https://www.youtube.com/watch?v=hLJXAWvmi18"
 transcript_status: "none"
 
+subject: "minoo-masani"
 ---
 
 Minoo Masani talks about his disenchantment with Soviet model characterized by tight centralization, political repression and state control.

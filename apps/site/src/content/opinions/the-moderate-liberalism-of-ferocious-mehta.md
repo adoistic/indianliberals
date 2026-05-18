@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "pherozeshah-mehta"
 ---
 
 _A prominent voice of the liberal strand of the nationalist struggle was that of Sir Pherozeshah Mehta. A lawyer by education and among the founders of INC, Mehta advocated for local self-governance. His work towards the same in Bombay earned him the title of the "Father of the Municipal Government in Bombay."   _The enduring role of the Bombay-based moderate liberals in demanding political freedom and self-governance from the British Raj has been overshadowed by the subsequent turns in the Indian nationalist storytelling. Both the radicalism of the extremists and revolutionaries as well as the mass subaltern politics of Mahatma Gandhi have found a viable political constituency in the Republic of India. However, the shrinking of the liberal space and a clear absence of substantial liberal constituency have left the moderate nationalists heirless, so to speak.

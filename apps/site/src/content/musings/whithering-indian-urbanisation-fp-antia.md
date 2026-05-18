@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "f-p-antia"
 ---
 
 Produced below is an excerpt from an essay by FP Antia titled ‘Whither Indian Urbanisation?’ published by the Forum of Free Enterprise. The author is an eminent authority on transport and urban problems. This text is based on two lectures delivered in Chandigarh, under the auspices of the Department of Commerce & Business Management, Punjab University.

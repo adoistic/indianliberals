@@ -4,11 +4,12 @@ title:
   main: Corruption in Indian Medicine
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - samiran-nundy
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Dr. Samiran Nundy
+    thinker: samiran-nundy
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
 publication:

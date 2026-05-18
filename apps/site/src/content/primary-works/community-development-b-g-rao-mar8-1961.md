@@ -4,7 +4,8 @@ title:
   main: COMMUNITY DEVELOPMENT
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - b-g-rao
 editors: []
 contributors: []
 publication:

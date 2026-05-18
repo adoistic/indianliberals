@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "kanuparti-varalakshmamma"
 ---
 
 The following article revisits Kanuparti Varalkashmamma’s literary contributions to social change and improving women’s lives.

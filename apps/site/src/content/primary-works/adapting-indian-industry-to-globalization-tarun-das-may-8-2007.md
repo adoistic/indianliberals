@@ -4,12 +4,13 @@ title:
   main: Adapting Indian Industry to Globalization
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - tarun-das
 editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: Tarun Das
+    thinker: tarun-das
   - role: editor
     thinker: sunil-bhandare
   - role: introduction

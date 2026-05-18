@@ -4,7 +4,8 @@ title:
   main: BLACK MONEY MENACE IN INDIA
   subtitle: TIME FOR ACTION
 work_type: speech
-authors: []
+authors:
+  - k-v-m-pai
 editors: []
 contributors: []
 publication:

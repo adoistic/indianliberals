@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "n-vittal"
 ---
 
 This is an excerpt by N. Vittal, a former Central Vigilance Commissioner, Govt. of India. He suggests that a lack of transparency and widespread corruption among other things have caused an accountability crisis, which can be resolved by encouraging competition and embedding accountability at the individual level instead of the organisational level.

@@ -4,7 +4,8 @@ title:
   main: Challenges Before Insurance Industry
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-n-jha
 editors: []
 contributors: []
 publication:

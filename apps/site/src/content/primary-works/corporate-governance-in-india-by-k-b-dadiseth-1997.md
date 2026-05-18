@@ -4,7 +4,8 @@ title:
   main: Corporate Governance in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - k-b-dadiseth
 editors: []
 contributors: []
 publication:

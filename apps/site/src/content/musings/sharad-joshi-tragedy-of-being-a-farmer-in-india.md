@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "sharad-joshi"
 ---
 
 The following is an extract from a speech delivered in the Rajya Sabha by Mr. Sharad Joshi in August 2005 on the question of farmers' suicides. It was subsequently published in the October 2007 edition of the Freedom First magazine with a brief introduction written by Sharad Joshi himself.  In this piece, he has aptly captured the problem faced by India's farmers and advised the Government to take immediate measures by addressing the root of the crises.

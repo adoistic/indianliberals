@@ -4,7 +4,8 @@ title:
   main: CUSTOMER
   subtitle: "Raison D'être of Business"
 work_type: speech
-authors: []
+authors:
+  - anand-sinha
 editors:
   - sunil-bhandare
 contributors: []

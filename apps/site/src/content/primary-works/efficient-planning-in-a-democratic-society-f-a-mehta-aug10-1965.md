@@ -4,7 +4,8 @@ title:
   main: Efficient Planning in a Democratic Society
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - f-a-mehta
 editors: []
 contributors: []
 publication:

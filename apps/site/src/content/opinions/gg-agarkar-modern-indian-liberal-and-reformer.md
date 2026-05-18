@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "gopal-ganesh-agarkar"
 ---
 
 The modern liberal tradition in Maharashtra has seen many remarkable individuals furthering the cause of individual dignity and human freedom. The prominent figures include western-educated M G Ranade, P M Mehta, K T Telang; orientalist R G Bhandarkar; nationalist Bal Gangadhar Tilak; and moderate S N Banerjee, Dadabhai Naoroji and Gopal Krishna Gokhale. Among the modern liberal luminaries stands out Gopal Ganesh Agarkar, for his radical social reformism and emphasis on rationality.

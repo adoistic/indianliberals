@@ -4,7 +4,8 @@ title:
   main: An Analysis of Direct Tax Laws (Amendment) Bill, 1988.
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dinesh-vyas
 editors: []
 contributors: []
 publication:

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "sharad-joshi"
 ---
 
 The following is an article published in the June 2007 edition of the Freedom First magazine. Mr. Sharad Joshi, in this piece titled 'Farmers Need Freedom, Not a Guardian Angel', wrote about the need to free farmers from the shackles of all sorts of bureaucracy. While reflecting upon the developments during that time, he brought forth farmers' issues which have plagued India's republic since a long time but never understood as part of the problem.

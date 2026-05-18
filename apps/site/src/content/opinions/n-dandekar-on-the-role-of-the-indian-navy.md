@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "n-dandekar"
 ---
 
 When the world was divided between the communist and the capitalist blocs, India chose to remain non-aligned. The Indian government decided to use its resources primarily to undertake developmental programmes. Considerations of defence and security were always secondary. The accepted objective of the Indian armed forces was the defence of the country. The problems associated with strict adherence to this objective came to the fore after the Indo-Pakistan War of 1965.

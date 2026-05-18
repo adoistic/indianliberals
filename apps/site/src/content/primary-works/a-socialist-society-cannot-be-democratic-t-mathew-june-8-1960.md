@@ -4,7 +4,8 @@ title:
   main: A Socialist Society Cannot Be Democratic
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - t-mathew
 editors: []
 contributors: []
 publication:

@@ -4,7 +4,8 @@ title:
   main: Dimensions of Public Expenditure Management
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - k-venkataraman
 editors: []
 contributors: []
 publication:

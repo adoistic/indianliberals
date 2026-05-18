@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "bal-gangadhar-tilak"
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._

@@ -4,17 +4,19 @@ title:
   main: Approach to the Fourth Five-Year Plan
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - r-c-cooper
+  - s-m-dahanukar
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Dr. R. C. Cooper
+    thinker: r-c-cooper
     toc_index: 1
   - role: author
     thinker_unresolved: Y. A. Fazalbhoy
     toc_index: 2
   - role: author
-    thinker_unresolved: S. M. Dahanukar
+    thinker: s-m-dahanukar
     toc_index: 3
 publication:
   language: en

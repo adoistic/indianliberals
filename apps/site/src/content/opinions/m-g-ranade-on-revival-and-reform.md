@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "mahadev-govind-ranade"
 ---
 
 _Ranade’s ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism. Steering clear from the militancy of any kind, he sought to introduce reforms through persuasion._Aroon Tikekar, a renowned author, journalist and intellectual delivered a couple of lectures in 1998 at the University of Mumbai and the motivation behind the series was that he wanted to make the audience aware of the contribution of M.G. Ranade as a social reformer and also acquaint them with the forgotten intellectual landscape of the city. His passion for engaging with the audience and informing them about various persons, issues and events in history remains unparalleled.

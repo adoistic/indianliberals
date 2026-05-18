@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "kd-valicha"
 ---
 
 _K D Valicha’s piece “Profit-Shy Asians,” featured in the August 1957 edition of The Indian Libertarian magazine, discussed "free enterprise." The edition was released on the 10th anniversary of the Indian Independence movement. While the country was still carving its niche on the global map, Valicha’s cogent analysis of the significance of free enterprise and the skewed definition and, therefore, aversion to Profit not only gives a glimpse of the country’s economic outlook but also finds relevance even after six decades of publication._

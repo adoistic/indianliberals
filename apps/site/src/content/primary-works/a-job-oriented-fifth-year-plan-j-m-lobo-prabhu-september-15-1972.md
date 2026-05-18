@@ -4,7 +4,8 @@ title:
   main: A Job-Oriented Fifth Five-Year Plan
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - j-m-lobo-prabhu
 editors: []
 contributors: []
 publication:

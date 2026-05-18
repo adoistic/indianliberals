@@ -4,7 +4,8 @@ title:
   main: Challenges of Transforming India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - amitabh-kant
 editors:
   - sunil-bhandare
 contributors: []

@@ -4,12 +4,13 @@ title:
   main: "Farmer Loan Waiver & Absence of Free Enterprise in Indian Agriculture"
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - c-l-dadhich
 editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: Dr. C.L Dadhich
+    thinker: c-l-dadhich
     toc_index: 1
   - role: author
     thinker_unresolved: Dr. Barendra Kumar Bhoi

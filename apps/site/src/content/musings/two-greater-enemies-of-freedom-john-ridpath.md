@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "john-ridpath"
 ---
 
 The following is an excerpt from the book 'History of the World' written by John Clark Ridpath. It was republished in [the Indian Libertarian magazine on October 15, 1962](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct15-1962.pdf). In this piece, the author puts forward some compelling arguments on the threat posed to freedom by the State and Society.

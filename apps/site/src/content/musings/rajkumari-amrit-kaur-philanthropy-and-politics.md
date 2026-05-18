@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "rajkumari-amrit-kaur"
 ---
 
 _Known as “a princess in her nation’s service”, Rajkumari Amrit Kaur of Kapurthala wore many hats  – a freedom fighter, philanthropist, Parliamentarian, and a far-sighted Union Health Minister–the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence. She was also one of the 15 founding members of the 299-member Constituent Assembly that came together to debate and draft the Constitution in December 1946._

@@ -4,11 +4,12 @@ title:
   main: Fundamental Rights in India
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - b-shiva-rao
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: B. SHIVA RAO
+    thinker: b-shiva-rao
     toc_index: 1
   - role: author
     thinker_unresolved: Dr. M. V. PYLEE

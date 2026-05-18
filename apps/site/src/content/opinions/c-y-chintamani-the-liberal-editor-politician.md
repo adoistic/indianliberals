@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "c-y-chintamani"
 ---
 
 _A prodigy, nationalist, journalist, politician, thinker - C.Y. Chintamani was a liberal in every sense of the word.  As the editor of a leading national daily, Chintamani placed utmost importance on free speech. He did not shy away from criticizing the British Raj, INC, and even fellow liberals.  _In the first half of the 20th century, C Y Chintamani was among the few liberal Indian politicians balancing between opposing the British Raj and the Gandhian method of civil disobedience. The liberal commitment to constitutional means in the age of Gandhian mass movement nudged one away from public sentiment. However, this should not lead us to underestimate the notable, patriotic contributions of liberals. Neither should the liberal strand of Indian anti-colonial movement be allowed to lie in oblivion. In this context, the contribution of Chintamani as a politician and editor warrants commemoration.

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "gurcharan-das"
 ---
 
 _Gurcharan Das is a prominent liberal thinker promoting individual freedom and free market economics. His critical analysis of inequality, socialism and the pursuit of fairness continues to shape India’s liberal discourse. This article narrates different ideas and viewpoints of Gurcharan Das through his works._

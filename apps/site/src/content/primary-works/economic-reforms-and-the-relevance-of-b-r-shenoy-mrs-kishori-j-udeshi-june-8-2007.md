@@ -4,11 +4,12 @@ title:
   main: Economic Reforms and the Relevance of Prof. B. R. Shenoy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - kishori-j-udeshi
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Mrs. Kishori J. Udeshi
+    thinker: kishori-j-udeshi
   - role: editor
     thinker_unresolved: S. S. Bhandare
 publication:

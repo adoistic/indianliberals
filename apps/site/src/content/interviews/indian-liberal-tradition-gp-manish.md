@@ -10,6 +10,7 @@ draft: false
 subject_name: "Indian Liberal Tradition - GP Manish"
 transcript_status: "none"
 
+subject: "gp-manish"
 ---
 
 [wikilogy_video_audio_element contenttype="html5audio" html5link="http://indianliberals.in/Document/audio/611545226.mp3"]

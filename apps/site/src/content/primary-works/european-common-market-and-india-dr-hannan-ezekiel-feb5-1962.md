@@ -4,11 +4,12 @@ title:
   main: "European Common Market & India"
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - hannan-ezekiel
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Dr. Hannan Ezekiel
+    thinker: hannan-ezekiel
     toc_index: 1
   - role: author
     thinker_unresolved: C. K. Narayanaswami

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "raghunath-karve"
 ---
 
 _Raghunath Dhondo Karve is known as a staunch supporter of individual liberty and freedom. He believed in individual autonomy and attempted to normalize non-procreative sexuality. He challenged existing customs and argued for individual sexual freedom and awareness through his publication समाजस्वास्थ्य  (Health of the society)._

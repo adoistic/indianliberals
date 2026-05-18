@@ -4,7 +4,8 @@ title:
   main: FOURTH PLAN - A STRATEGY FOR ECONOMIC GROWTH?
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - f-a-mehta
 editors: []
 contributors: []
 publication:

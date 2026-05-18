@@ -4,7 +4,8 @@ title:
   main: "Banks' Relationship with Customers - Evolving Perspectives"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - shyamala-gopinath
 editors: []
 contributors: []
 publication:

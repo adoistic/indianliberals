@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "ashok-desai"
 ---
 
 _An essay titled “Liberalisation and Liberalism in India”, written by popular economic journalist Ashok Desai, appeared in the Liberal Times magazine in 1995._

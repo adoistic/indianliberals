@@ -4,7 +4,8 @@ title:
   main: "An Integrated Approach to Pricing & Marketing of Agricultural Produce"
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - bhanu-pratap-singh
 editors: []
 contributors: []
 publication:

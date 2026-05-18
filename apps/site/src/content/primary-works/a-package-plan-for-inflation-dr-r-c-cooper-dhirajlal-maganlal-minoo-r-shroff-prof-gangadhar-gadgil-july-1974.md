@@ -4,11 +4,12 @@ title:
   main: A Package Plan to Fight Inflation
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - r-c-cooper
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: DR. R. C. COOPER
+    thinker: r-c-cooper
     toc_index: 1
   - role: author
     thinker_unresolved: DHIRAJLAL MAGANLAL

@@ -4,7 +4,8 @@ title:
   main: A Total War on Indian Poverty
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - eric-p-w-da-costa
 editors: []
 contributors: []
 publication:

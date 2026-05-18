@@ -11,6 +11,7 @@ subject_name: "India's Greatest Liberal - Gopal Krishna Gokhale"
 youtube_url: "https://www.youtube.com/watch?v=mfRjMb_2GHY"
 transcript_status: "none"
 
+subject: "gopal-krishna-gokhale"
 ---
 
 ---

@@ -4,7 +4,8 @@ title:
   main: Ethics in Business and Management
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - d-veerendra-heggade
 editors: []
 contributors: []
 publication:

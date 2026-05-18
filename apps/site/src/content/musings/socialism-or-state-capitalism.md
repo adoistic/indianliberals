@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "k-santhanam"
 ---
 
 _The musing shared below is a 1970 piece published by the Forum of Free Enterprise and authored by K Santhanam. In 1948, Santhanam was the Minister of State for Railways and Transport in the Government of India, followed by a stint as the Lieutenant Governor of Vindhya Pradesh. A prolific writer, Santhanam also served as the first editor of the Indian Express from 1932 until 1940, subsequently becoming the joint editor of the Hindustan Times. In 1962, Santhanam was appointed as the chairman of the Committee on Prevention of Corruption. The recommendations of this Committee, also known as the Santhanam Committee, resulted in the establishment of the Central Vigilance Commission in 1964._

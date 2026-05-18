@@ -4,11 +4,12 @@ title:
   main: Controlling Inflation
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - s-r-k-rao
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Dr. S.R.K. RAO
+    thinker: s-r-k-rao
     toc_index: 1
   - role: author
     thinker_unresolved: S.S. BHANDARE

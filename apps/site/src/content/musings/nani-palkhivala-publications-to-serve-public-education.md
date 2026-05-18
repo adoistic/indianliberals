@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "nani-palkhivala"
 ---
 
 _MR Pai paid a heartfelt tribute to Nani Palkhivala through his book titled "The Legend of Nani Palkhivala", published in 2002. The book is an attempt to record Palkhivala’s great achievements, from the vantage of a close associate who was part of his public life for over four decades since 1957. _

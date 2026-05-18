@@ -4,11 +4,12 @@ title:
   main: The Role of General Insurance After Nationalisation
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - g-v-kapadia
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: G. V. KAPADIA
+    thinker: g-v-kapadia
   - role: introduction
     thinker: nani-palkhivala
 publication:

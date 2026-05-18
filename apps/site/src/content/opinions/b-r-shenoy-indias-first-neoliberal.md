@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "b-r-shenoy"
 ---
 
 _Shunned by Indian planners and economists for his radical views on India’s development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West._Bellikoth Raghunath Shenoy, the monetary economist turned public intellectual in the decades of 1950s-60s, faced marginalization in his life and a prophetic revival in the afterlife. Shunned by Indian planners and economists for his radical views on India’s development trajectory, Shenoy found a home among the small and closely knit free-market advocacy group in India and the vigorous transnational network of neoliberal intellectuals active mostly in the West. The recent revival of interest in Shenoy has undoubtedly been enabled by India’s post-liberalization moment which seemingly saw economic growth enabled by policies advocated by Shenoy years earlier. Mostly espoused by Indian neoliberals, this revival undoubtedly has a vindictive streak tinged with a sense of loss of wasted decades when Shenoy’s policy prescriptions remained marginalized.    

@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "kanwal-rekhi"
 ---
 
 Spontaneous Order presents “Spontaneous Musings”, a section for tid-bits that inspire discussion and debate.

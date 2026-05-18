@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "gopal-ganesh-agarkar"
 ---
 
 _In the face of opposition from several sections of the society, Agarkar held on to the liberal ideas of equality of opportunity, individual choice, individual freedom, and education for women. Agarkar’s treatment of the subject of women’s education was at once insightful, critical and persuasive._

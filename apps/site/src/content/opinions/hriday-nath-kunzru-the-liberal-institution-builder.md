@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+subject: "hriday-nath-kunzru"
 ---
 
 The trajectory of liberal nationalism in colonial India is characterized by an early prominence followed by a steady marginalization in the nationalist discourse. The moderate phase of the Indian National Congress reflects a strong liberal tradition which is also well-recognized.

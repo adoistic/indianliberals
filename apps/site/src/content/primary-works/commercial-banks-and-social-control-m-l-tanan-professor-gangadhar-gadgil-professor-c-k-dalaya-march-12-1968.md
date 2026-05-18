@@ -4,11 +4,12 @@ title:
   main: Commercial Banks and Social Control
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - m-l-tannan
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: M. L. TANNAN
+    thinker: m-l-tannan
     toc_index: 1
   - role: author
     thinker_unresolved: Prof. GANGADHAR GADGIL

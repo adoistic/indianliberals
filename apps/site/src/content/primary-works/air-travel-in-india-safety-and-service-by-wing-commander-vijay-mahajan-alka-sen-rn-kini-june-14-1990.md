@@ -4,11 +4,12 @@ title:
   main: AIR TRAVEL IN INDIA — SAFETY AND SERVICE
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - vijay-mahajan-aviation
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Wing Commander VIJAY MAHAJAN
+    thinker: vijay-mahajan-aviation
     toc_index: 1
   - role: author
     thinker_unresolved: ALKA SEN

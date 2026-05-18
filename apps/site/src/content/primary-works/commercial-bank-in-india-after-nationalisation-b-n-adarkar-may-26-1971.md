@@ -4,11 +4,12 @@ title:
   main: Commercial Banks in India after Nationalisation
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - b-n-adarkar
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: B. N. ADARKAR
+    thinker: b-n-adarkar
   - role: introduction
     thinker: nani-palkhivala
 publication:

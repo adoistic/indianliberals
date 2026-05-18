@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "tanguturi-prakasam"
 ---
 
 _Tanguturi Prakasam was the first Chief Minister of Andhra Pradesh. He was a visionary leader and able administrator. His dynamic personality earned him a lasting reputation in the hearts of the Telugu people. He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people._

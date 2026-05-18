@@ -6,6 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+author: "ishwar-chandra-vidyasagar"
 ---
 
 _Originally published in 1850 in Calcutta-based Bengali language periodical Sarva Subhakari, Ishwar Chandra Vidyasagar established numerous girls' schools, wrote many textbooks in addition to regular schools to realize the noble intention of education. And he used his writing for social reform. 'The fault of child marriage' is one such social consciousness work of his. In the article, Vidyasagar discusses the causes, ill effects, and other related issues of child marriage. Every chapter of the composition is the identity of his progressive mentality._

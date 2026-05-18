@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "n-g-ranga"
 ---
 
 _Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award. _

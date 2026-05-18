@@ -4,7 +4,8 @@ title:
   main: COMMERCIAL BANKS IN INDIA—A PERFORMANCE REVIEW
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - n-n-pai
 editors: []
 contributors:
   - role: introduction

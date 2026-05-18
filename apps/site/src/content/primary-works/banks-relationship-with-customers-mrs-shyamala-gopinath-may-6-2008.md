@@ -4,11 +4,12 @@ title:
   main: "Banks' Relationship with Customers - Evolving Perspectives"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - shyamala-gopinath
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Mrs. Shyamala Gopinath
+    thinker: shyamala-gopinath
   - role: editor
     thinker_unresolved: S.S. Bhandare
 publication:
