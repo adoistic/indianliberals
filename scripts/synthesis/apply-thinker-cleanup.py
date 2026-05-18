@@ -33,6 +33,13 @@ SWEEP_ROOTS = [
     ROOT / "data/authority",
 ]
 
+# Files the sweep MUST skip. These are audit / planning outputs that
+# legitimately mention deleted slugs inside string values (as evidence
+# of what was deleted) — rewriting them would corrupt the audit trail.
+SWEEP_SKIP = {
+    ROOT / "data/synthesis/cleanup-plan.json",
+}
+
 
 def main() -> int:
     if not PLAN.exists():
@@ -155,7 +162,7 @@ def main() -> int:
                 continue
             if p.suffix not in {".md", ".mdx", ".json"}:
                 continue
-            if p == AUTHORITY:
+            if p == AUTHORITY or p in SWEEP_SKIP:
                 continue
             try:
                 text = p.read_text(encoding="utf-8")

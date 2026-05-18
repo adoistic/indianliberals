@@ -1,347 +1,348 @@
 {
   "generated_at": "2026-05-18",
+  "note": "Reconstructed from git diff after the first apply ran. Future audits regenerate this from the current authority.",
   "summary": {
-    "total_thinkers": 424,
-    "to_delete": 67,
+    "pre_cleanup_thinkers": 424,
+    "deleted": 67,
     "merge_clusters": 6,
-    "review": 0,
-    "after_cleanup": 349
+    "merge_losers": 8,
+    "post_cleanup_thinkers": 349
   },
   "delete": [
     {
-      "id": "",
+      "id": "a-d-shroff-champion-of-free-enterprise",
       "canonical": "A.D. Shroff - Champion of Free Enterprise",
-      "reason": "name is 7 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "an-auxiliary-for-historians-the-contribution-of-older-austrians",
       "canonical": "An Auxiliary for Historians: The Contribution of Older Austrians",
-      "reason": "name is 9 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
-      "canonical": "BR Shenoy - A Prophet Without Honour?",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
+      "id": "bollywood-and-cultural-change-in-attitude",
       "canonical": "Bollywood and Cultural Change in Attitude",
-      "reason": "name is 6 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "br-shenoy-a-prophet-without-honour",
+      "canonical": "BR Shenoy - A Prophet Without Honour?",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "centre-for-civil-society-a-journey-in-time",
       "canonical": "Centre for Civil Society : A Journey in Time",
-      "reason": "name is 9 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "chakravarti-rajagopalachari-gandhi-s-conscience-keeper",
       "canonical": "Chakravarti Rajagopalachari - Gandhi's Conscience Keeper",
-      "reason": "name is 6 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "d-r-pendse-on-doing-business-in-india-before-1991-reforms",
       "canonical": "D R Pendse on Doing Business in India before 1991 Reforms",
-      "reason": "name is 11 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
-      "canonical": "D R Pendse on India’s ‘Open and Prosperous Past’",
-      "reason": "name is 9 words"
-    },
-    {
-      "id": "",
-      "canonical": "D R Pendse on Liberating India s Entrepreneurs",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "D R Pendse on Think Tanks and the Power of Ideas",
-      "reason": "name is 11 words"
-    },
-    {
-      "id": "",
+      "id": "d-r-pendse-on-his-relationship-with-jrd-tata",
       "canonical": "D R Pendse on his Relationship with JRD Tata",
-      "reason": "name is 9 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "d-r-pendse-on-indias-open-and-prosperous-past",
+      "canonical": "D R Pendse on India’s ‘Open and Prosperous Past’",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "d-r-pendse-on-liberating-india-s-entrepreneurs",
+      "canonical": "D R Pendse on Liberating India s Entrepreneurs",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "d-r-pendse-on-the-1991-crisis",
       "canonical": "D R Pendse on the 1991 Crisis",
-      "reason": "name is 7 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "d-r-pendse-on-the-criticism-he-faced-through-his-career",
       "canonical": "D R Pendse on the Criticism he faced through his Career",
-      "reason": "name is 11 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "d-r-pendse-on-the-indian-liberal-tradition",
       "canonical": "D R Pendse on the Indian Liberal Tradition",
-      "reason": "name is 8 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "d-r-pendse-on-think-tanks-and-the-power-of-ideas",
+      "canonical": "D R Pendse on Think Tanks and the Power of Ideas",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "did-bollywood-liberalise-india-or-did-india-liberalise-bollywood",
       "canonical": "Did Bollywood Liberalise India or Did India Liberalise Bollywood?",
-      "reason": "name is 9 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
-      "canonical": "Forest Departments, Incentives and the Environment",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Forest Rights Act, 2006 : The Struggle for Implementation - Part I",
-      "reason": "name is 12 words"
-    },
-    {
-      "id": "",
-      "canonical": "Forest Rights Act, 2006: The Struggle for Implementation - Part II",
-      "reason": "name is 11 words"
-    },
-    {
-      "id": "",
-      "canonical": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
-      "reason": "name is 14 words"
-    },
-    {
-      "id": "",
-      "canonical": "In Conversation with Ronald Meinardus - Regional Director, FNF South Asia",
-      "reason": "name is 11 words"
-    },
-    {
-      "id": "",
-      "canonical": "India's Greatest Liberal - Gopal Krishna Gokhale",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "India's Transition : Choice, Competition, and Individual Dignity",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "India's forest-dwellers: From Owners to Encroachers",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Indian Liberal Tradition - GP Manish",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Jagdish Bhagwati on Milton Friedman",
-      "reason": "matches title pattern 'on'"
-    },
-    {
-      "id": "",
-      "canonical": "Liberalism and the Challenge of Polarisation",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer Masani",
-      "reason": "name is 13 words"
-    },
-    {
-      "id": "",
-      "canonical": "Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer Masani",
-      "reason": "name is 14 words"
-    },
-    {
-      "id": "",
-      "canonical": "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise",
-      "reason": "name is 14 words"
-    },
-    {
-      "id": "",
-      "canonical": "Minoo Shroff on Doing Business in Nehru's India",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "Minoo Shroff on His Uncle A D Shroff",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "Minoo Shroff on Nehru, Welfare and India's Promise",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "Mithan Tata Lam- An Indian Lawyer & Suffragist",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "N.G. Ranga - Guardian of Peasants' Rights",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "Role of Civil Society in the Pandemic",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "Role of Ideology in India's Liberalisation",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "S. Divakara on Nani Palkhivala's Union Budget Commentaries",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "S. Divakara on The Forum of Free Enterprise",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part I",
-      "reason": "name is 10 words"
-    },
-    {
-      "id": "",
-      "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part II",
-      "reason": "name is 10 words"
-    },
-    {
-      "id": "",
-      "canonical": "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal",
-      "reason": "name is 14 words"
-    },
-    {
-      "id": "",
-      "canonical": "Sunil Bhandare on enlarging the \\",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Sunil Bhandare on his experiences with Indian liberal organisations",
-      "reason": "name is 9 words"
-    },
-    {
-      "id": "",
-      "canonical": "Sunil Bhandare on private enterprise post 1991 reforms",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "Swatantra Party : India's First Liberal Party",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Case for Liberalism in Indian History",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Challenges for Liberal Grassroots Movements",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Challenges leading to the Forest Rights Act, 2006",
-      "reason": "name is 9 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Early Years, Emergency Era and Tryst with Civil Services",
-      "reason": "name is 10 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Future of Liberalism in a Post-Pandemic World",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Hayek-Keynes Debate, 1931-1971 |",
-      "reason": "starts with article phrase 'the hayek'"
-    },
-    {
-      "id": "",
-      "canonical": "The Hope for a Liberal Political Alternative",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Life & Legacy of Dr Janaki Ammal",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Life & Legacy of Lady Abala Bose",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Life and Times of Sharad Joshi",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "The New Global Marketplace | Sudha Shenoy",
-      "reason": "name is 7 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Public Distribution System : A Boon or a Bane?",
-      "reason": "name is 10 words"
-    },
-    {
-      "id": "",
-      "canonical": "The Relationship Between Citizen and State",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Tribals and Development: Countering the Myths",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Vision for a Prosperous India - Gurcharan Das",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "What is the Role of Government in Agriculture?",
-      "reason": "name is 8 words"
-    },
-    {
-      "id": "",
-      "canonical": "Why Are Fundamental Rights Not Amendable?",
-      "reason": "name is 6 words"
-    },
-    {
-      "id": "",
-      "canonical": "Why is it Difficult to De-regulate Labor in India?",
-      "reason": "name is 9 words"
-    },
-    {
-      "id": "",
+      "id": "dr-otto-count-lambsdroff-and-swaminathan-aiyar",
       "canonical": "DR Otto Count Lambsdroff And Swaminathan Aiyar",
-      "reason": "name is 7 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "forest-departments-incentives-and-the-environment",
+      "canonical": "Forest Departments, Incentives and the Environment",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "forest-rights-act-2006-the-struggle-for-implementation-part-i",
+      "canonical": "Forest Rights Act, 2006 : The Struggle for Implementation - Part I",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "forest-rights-act-2006-the-struggle-for-implementation-part-ii",
+      "canonical": "Forest Rights Act, 2006: The Struggle for Implementation - Part II",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy",
+      "canonical": "How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia",
+      "canonical": "In Conversation with Ronald Meinardus - Regional Director, FNF South Asia",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "india-s-forest-dwellers-from-owners-to-encroachers",
+      "canonical": "India's forest-dwellers: From Owners to Encroachers",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "india-s-greatest-liberal-gopal-krishna-gokhale",
+      "canonical": "India's Greatest Liberal - Gopal Krishna Gokhale",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "india-s-transition-choice-competition-and-individual-dignity",
+      "canonical": "India's Transition : Choice, Competition, and Individual Dignity",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "indian-liberal-tradition-gp-manish",
+      "canonical": "Indian Liberal Tradition - GP Manish",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "jagdish-bhagwati-on-milton-friedman",
+      "canonical": "Jagdish Bhagwati on Milton Friedman",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "liberalism-and-the-challenge-of-polarisation",
+      "canonical": "Liberalism and the Challenge of Polarisation",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "minoo-masani-on-nehru-s-adoption-of-socialism-in-conversation-with-zareer-masani",
+      "canonical": "Minoo Masani on Nehru's Adoption of Socialism - In Conversation with Zareer Masani",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "minoo-masani-s-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani",
+      "canonical": "Minoo Masani's Disenchantment with the Soviet Economic Model - In Coversation with Zareer Masani",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "minoo-shroff-on-a-d-shroff-memorial-trust-and-the-forum-of-free-enterprise",
+      "canonical": "Minoo Shroff on A D Shroff Memorial Trust and the Forum of Free Enterprise",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "minoo-shroff-on-doing-business-in-nehru-s-india",
+      "canonical": "Minoo Shroff on Doing Business in Nehru's India",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "minoo-shroff-on-his-uncle-a-d-shroff",
+      "canonical": "Minoo Shroff on His Uncle A D Shroff",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "minoo-shroff-on-nehru-welfare-and-india-s-promise",
+      "canonical": "Minoo Shroff on Nehru, Welfare and India's Promise",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "mithan-tata-lam-an-indian-lawyer-suffragist",
+      "canonical": "Mithan Tata Lam- An Indian Lawyer & Suffragist",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "mr-anantharamakrishnan-and-cp-ramaswamy-ayyar",
       "canonical": "MR Anantharamakrishnan And CP Ramaswamy Ayyar",
-      "reason": "name is 6 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "n-g-ranga-guardian-of-peasants-rights",
+      "canonical": "N.G. Ranga - Guardian of Peasants' Rights",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "role-of-civil-society-in-the-pandemic",
+      "canonical": "Role of Civil Society in the Pandemic",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "role-of-ideology-in-india-s-liberalisation",
+      "canonical": "Role of Ideology in India's Liberalisation",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "s-divakara-on-nani-palkhivala-s-union-budget-commentaries",
+      "canonical": "S. Divakara on Nani Palkhivala's Union Budget Commentaries",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "s-divakara-on-the-forum-of-free-enterprise",
+      "canonical": "S. Divakara on The Forum of Free Enterprise",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "shetkari-sanghathana-a-movement-for-freedom-part-i",
+      "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part I",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "shetkari-sanghathana-a-movement-for-freedom-part-ii",
+      "canonical": "Shetkari Sanghathana : A Movement for Freedom - Part II",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "sir-homi-mody-sl-kirloskar-and-mr-ramnivas-ruia",
       "canonical": "Sir Homi Mody SL Kirloskar And MR Ramnivas Ruia",
-      "reason": "name is 9 words"
+      "reason": "article/interview title (not a real thinker)"
     },
     {
-      "id": "",
+      "id": "sunil-bhandare-on-enlarging-the",
+      "canonical": "Sunil Bhandare on enlarging the \\",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal",
+      "canonical": "Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "sunil-bhandare-on-his-experiences-with-indian-liberal-organisations",
+      "canonical": "Sunil Bhandare on his experiences with Indian liberal organisations",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "sunil-bhandare-on-private-enterprise-post-1991-reforms",
+      "canonical": "Sunil Bhandare on private enterprise post 1991 reforms",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "swatantra-party-india-s-first-liberal-party",
+      "canonical": "Swatantra Party : India's First Liberal Party",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-case-for-liberalism-in-indian-history",
+      "canonical": "The Case for Liberalism in Indian History",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-challenges-for-liberal-grassroots-movements",
+      "canonical": "The Challenges for Liberal Grassroots Movements",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-challenges-leading-to-the-forest-rights-act-2006",
+      "canonical": "The Challenges leading to the Forest Rights Act, 2006",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-early-years-emergency-era-and-tryst-with-civil-services",
+      "canonical": "The Early Years, Emergency Era and Tryst with Civil Services",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-future-of-liberalism-in-a-post-pandemic-world",
+      "canonical": "The Future of Liberalism in a Post-Pandemic World",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-hayek-keynes-debate-1931-1971",
+      "canonical": "The Hayek-Keynes Debate, 1931-1971 |",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-hope-for-a-liberal-political-alternative",
+      "canonical": "The Hope for a Liberal Political Alternative",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-life-and-times-of-sharad-joshi",
+      "canonical": "The Life and Times of Sharad Joshi",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-life-legacy-of-dr-janaki-ammal",
+      "canonical": "The Life & Legacy of Dr Janaki Ammal",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-life-legacy-of-lady-abala-bose",
+      "canonical": "The Life & Legacy of Lady Abala Bose",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-new-global-marketplace-sudha-shenoy",
+      "canonical": "The New Global Marketplace | Sudha Shenoy",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-public-distribution-system-a-boon-or-a-bane",
+      "canonical": "The Public Distribution System : A Boon or a Bane?",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "the-relationship-between-citizen-and-state",
+      "canonical": "The Relationship Between Citizen and State",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "tribals-and-development-countering-the-myths",
+      "canonical": "Tribals and Development: Countering the Myths",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "vision-for-a-prosperous-india-gurcharan-das",
+      "canonical": "Vision for a Prosperous India - Gurcharan Das",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "what-is-the-role-of-government-in-agriculture",
+      "canonical": "What is the Role of Government in Agriculture?",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "why-are-fundamental-rights-not-amendable",
+      "canonical": "Why Are Fundamental Rights Not Amendable?",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "why-is-it-difficult-to-de-regulate-labor-in-india",
+      "canonical": "Why is it Difficult to De-regulate Labor in India?",
+      "reason": "article/interview title (not a real thinker)"
+    },
+    {
+      "id": "wing-commander-vijay-mahajan-alka-sen-rn-kini",
       "canonical": "Wing Commander Vijay Mahajan Alka Sen RN Kini",
-      "reason": "name is 8 words"
+      "reason": "article/interview title (not a real thinker)"
     }
   ],
   "merge": [
@@ -349,75 +350,65 @@
       "winner": "a-d-shroff",
       "winner_canonical": "A. D. Shroff",
       "losers": [
-        "a-d-shroff",
-        "a-d-shroff"
+        "ad-shroff",
+        "mr-ad-shroff"
       ],
       "loser_canonicals": [
         "AD Shroff",
         "MR AD Shroff"
-      ],
-      "normalised_key": "ad shroff"
+      ]
     },
     {
       "winner": "b-r-shenoy",
       "winner_canonical": "B. R. Shenoy",
       "losers": [
-        "b-r-shenoy",
-        "b-r-shenoy"
+        "br-shenoy",
+        "prof-br-shenoy"
       ],
       "loser_canonicals": [
         "BR Shenoy",
         "Prof BR Shenoy"
-      ],
-      "normalised_key": "br shenoy"
+      ]
     },
     {
       "winner": "muthulakshmi-reddi",
       "winner_canonical": "Dr. Muthulakshmi Reddi",
       "losers": [
-        "muthulakshmi-reddi"
+        "muthulakshmi-reddi-2"
       ],
       "loser_canonicals": [
         "Muthulakshmi Reddi"
-      ],
-      "normalised_key": "muthulakshmi reddi"
+      ]
     },
     {
       "winner": "r-k-amin",
       "winner_canonical": "R. K. Amin",
       "losers": [
-        "r-k-amin"
+        "prof-rk-amin"
       ],
       "loser_canonicals": [
         "Prof RK Amin"
-      ],
-      "normalised_key": "rk amin"
+      ]
     },
     {
       "winner": "sachin-sen",
       "winner_canonical": "Sachin Sen",
       "losers": [
-        "sachin-sen"
+        "dr-sachin-sen"
       ],
       "loser_canonicals": [
         "DR Sachin Sen"
-      ],
-      "normalised_key": "sachin sen",
-      "manual_override": true,
-      "reason": "prefer clean slug + canonical without honorific"
+      ]
     },
     {
       "winner": "nani-palkhivala",
       "winner_canonical": "Nani Palkhivala",
       "losers": [
-        "nani-palkhivala"
+        "na-palkhivala"
       ],
       "loser_canonicals": [
         "NA Palkhivala"
-      ],
-      "normalised_key": "nani palkhivala",
-      "manual_override": true,
-      "reason": "NA = Nani Anantarao; same person"
+      ]
     }
   ],
   "review": []
