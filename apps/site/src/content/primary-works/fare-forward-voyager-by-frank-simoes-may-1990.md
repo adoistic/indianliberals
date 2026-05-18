@@ -7,6 +7,8 @@ work_type: book
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - m-r-pai
 publication:
   language: en
   publisher_name: "Published by Mr. M.R. Pai, Trustee, The A.D. Shroff Memorial Trust, 'Piramal Mansion', 235, Dr. D.N. Road, Bombay-400 001. Printed by Mr. Arun Mehta at Vakil & Sons Ltd., Vakils House, Sprott Road, 18, Ballard Estate, Bombay-400 038."

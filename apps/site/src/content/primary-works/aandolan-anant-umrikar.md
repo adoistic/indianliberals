@@ -10,6 +10,9 @@ authors:
   - anant-umrikar
 editors: []
 contributors: []
+related_thinkers:
+  - sharad-joshi
+  - vijay-jawandhia
 publication:
   language: mr
   publisher_name: "जनशक्ती बुक्स अँण्ड पब्लिकेशन प्रा. लि., जनशक्ती वाचक चळवळ, 'पिनाक', २४४, समर्थनगर, औरंगाबाद. ४३१ ००१"

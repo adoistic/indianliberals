@@ -76,6 +76,7 @@ contributors:
   - role: author
     thinker: matt-ridley
     toc_index: 19
+related_thinkers: []
 publication:
   language: gu
   publisher_id: khoj

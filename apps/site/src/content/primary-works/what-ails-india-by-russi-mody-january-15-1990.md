@@ -8,6 +8,10 @@ authors:
   - russi-mody
 editors: []
 contributors: []
+related_thinkers:
+  - thomas-robert-malthus
+  - a-d-shroff
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

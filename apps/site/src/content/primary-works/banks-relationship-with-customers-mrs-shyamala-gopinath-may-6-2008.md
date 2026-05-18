@@ -12,6 +12,8 @@ contributors:
     thinker: shyamala-gopinath
   - role: editor
     thinker_unresolved: S.S. Bhandare
+related_thinkers:
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

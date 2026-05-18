@@ -7,6 +7,10 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - morarji-desai
+  - t-t-krishnamachari
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

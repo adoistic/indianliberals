@@ -12,6 +12,12 @@ contributors:
     thinker: k-santhanam
   - role: introduction
     thinker_unresolved: MURARJI J. VAIDYA
+related_thinkers:
+  - a-d-shroff
+  - eugene-black
+  - bhimrao-ambedkar
+  - k-m-munshi
+  - chintaman-deshmukh
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

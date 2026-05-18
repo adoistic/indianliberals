@@ -8,6 +8,9 @@ authors:
   - milton-friedman
 editors: []
 contributors: []
+related_thinkers:
+  - ludwig-erhard
+  - abraham-lincoln
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

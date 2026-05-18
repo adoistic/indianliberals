@@ -10,6 +10,8 @@ contributors:
   - role: introduction
     thinker: a-d-shroff
     toc_index: 1
+related_thinkers:
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

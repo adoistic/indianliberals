@@ -7,6 +7,10 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - adam-smith
+  - john-stuart-mill
+  - karl-marx
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

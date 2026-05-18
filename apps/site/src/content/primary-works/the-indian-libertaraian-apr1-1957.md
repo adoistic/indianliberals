@@ -30,6 +30,16 @@ contributors:
   - role: author
     thinker: kd-valicha
     toc_index: 7
+related_thinkers:
+  - forum-of-free-enterprise
+  - b-r-shenoy
+  - jayaprakash-narayan
+  - jawaharlal-nehru
+  - v-k-krishna-menon
+  - iskander-mirza
+  - m-n-roy
+  - benjamin-tucker
+  - bs-sanyal
 publication:
   language: en
   publisher_id: the-indian-libertarian

@@ -19,6 +19,10 @@ contributors:
   - role: author
     thinker_unresolved: श्री. रताराव लहाणु सावरे
     toc_index: 3
+related_thinkers:
+  - bhimrao-ambedkar
+  - jyotirao-phule
+  - mahatma-gandhi
 publication:
   language: mr
   publisher_id: shetkari-sanghatana

@@ -8,6 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
+related_thinkers:
+  - friedrich-hayek
+  - winston-churchill
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

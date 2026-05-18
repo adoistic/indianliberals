@@ -12,6 +12,11 @@ contributors:
     thinker: kishori-j-udeshi
   - role: editor
     thinker_unresolved: S. S. Bhandare
+related_thinkers:
+  - b-r-shenoy
+  - milton-friedman
+  - friedrich-hayek
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

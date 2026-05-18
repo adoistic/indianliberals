@@ -12,6 +12,8 @@ contributors:
     thinker: r-k-talwar
   - role: introduction
     thinker: nani-palkhivala
+related_thinkers:
+  - a-d-shroff
 publication:
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD, BOMBAY - 400 001. Colophon: Published by M. R. Pai on behalf of The A.D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by Michael Andrades at The Bombay Chronicle Press, Horniman Circle, Bombay 400 001."

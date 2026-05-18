@@ -16,6 +16,8 @@ contributors:
   - role: author
     thinker_unresolved: B. P. Patel
     toc_index: 3
+related_thinkers:
+  - vinoba-bhave
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

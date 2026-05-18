@@ -9,6 +9,11 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - m-r-pai
+  - mahatma-gandhi
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

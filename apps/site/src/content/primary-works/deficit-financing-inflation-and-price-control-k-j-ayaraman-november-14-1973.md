@@ -8,6 +8,10 @@ authors:
   - k-jayaraman
 editors: []
 contributors: []
+related_thinkers:
+  - b-r-shenoy
+  - jrd-tata
+  - l-k-jha
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

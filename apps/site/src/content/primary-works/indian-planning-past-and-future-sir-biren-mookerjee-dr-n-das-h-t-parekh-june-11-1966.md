@@ -18,6 +18,11 @@ contributors:
   - role: author
     thinker: h-t-parekh
     toc_index: 3
+related_thinkers:
+  - j-r-marshall
+  - john-kenneth-galbraith
+  - p-v-sukhatme
+  - colin-clark
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -8,6 +8,8 @@ authors:
   - naval-h-tata
 editors: []
 contributors: []
+related_thinkers:
+  - l-k-jha
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

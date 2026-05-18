@@ -8,6 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - nani-palkhivala
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

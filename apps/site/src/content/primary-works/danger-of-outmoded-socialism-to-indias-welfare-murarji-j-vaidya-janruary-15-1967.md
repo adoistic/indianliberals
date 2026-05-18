@@ -7,6 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - indira-gandhi
+  - k-l-rao
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

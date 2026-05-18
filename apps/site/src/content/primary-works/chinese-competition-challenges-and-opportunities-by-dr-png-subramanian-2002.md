@@ -9,6 +9,8 @@ editors: []
 contributors:
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
+related_thinkers:
+  - deng-xiaoping
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -8,6 +8,10 @@ authors:
   - n-c-mehta
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - m-r-pai
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

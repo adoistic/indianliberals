@@ -8,6 +8,10 @@ authors:
   - m-c-munshi
 editors: []
 contributors: []
+related_thinkers:
+  - m-c-chagla
+  - john-stuart-mill
+  - karl-marx
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

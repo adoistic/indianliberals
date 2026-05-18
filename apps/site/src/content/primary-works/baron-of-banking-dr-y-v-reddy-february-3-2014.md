@@ -21,6 +21,14 @@ contributors:
   - role: author
     thinker_unresolved: Mr. Y. H. Malegam
     toc_index: 4
+related_thinkers:
+  - minoo-shroff
+  - a-d-shroff
+  - shyamala-gopinath
+  - h-t-parekh
+  - manmohan-singh
+  - deepak-parekh
+  - chintaman-deshmukh
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

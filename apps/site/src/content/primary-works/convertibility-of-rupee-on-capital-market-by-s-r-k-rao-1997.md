@@ -8,6 +8,8 @@ authors:
   - s-r-k-rao
 editors: []
 contributors: []
+related_thinkers:
+  - y-v-reddy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

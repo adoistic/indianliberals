@@ -8,6 +8,10 @@ authors:
   - y-k-hamied
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - i-k-gujral
+  - indira-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

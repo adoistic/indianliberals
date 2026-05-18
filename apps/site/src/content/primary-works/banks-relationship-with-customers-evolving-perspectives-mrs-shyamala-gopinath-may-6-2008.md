@@ -8,6 +8,9 @@ authors:
   - shyamala-gopinath
 editors: []
 contributors: []
+related_thinkers:
+  - m-r-pai
+  - y-v-reddy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

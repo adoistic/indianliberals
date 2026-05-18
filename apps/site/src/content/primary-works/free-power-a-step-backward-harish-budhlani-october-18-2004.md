@@ -8,6 +8,9 @@ authors:
   - harish-budhlani
 editors: []
 contributors: []
+related_thinkers:
+  - sharad-pawar
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

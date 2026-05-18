@@ -24,6 +24,9 @@ contributors:
   - role: author
     thinker_unresolved: Ashish Das
     toc_index: 4
+related_thinkers:
+  - chintaman-deshmukh
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

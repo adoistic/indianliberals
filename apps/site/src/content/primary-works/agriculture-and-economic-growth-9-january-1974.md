@@ -7,6 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - p-c-mahalanobis
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

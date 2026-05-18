@@ -10,6 +10,9 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
+related_thinkers:
+  - charan-singh
+  - sharad-pawar
 publication:
   language: mr
   publisher_name: जनशक्ती वाचक चळवळ, पिनाक, २४४-समर्थनगर, औरंगाबाद-४३१००१

@@ -7,6 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - milton-friedman
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

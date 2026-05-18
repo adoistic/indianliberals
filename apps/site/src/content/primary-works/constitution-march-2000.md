@@ -7,6 +7,8 @@ work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - s-v-raju
 publication:
   language: en
   publisher_id: indian-liberal-group

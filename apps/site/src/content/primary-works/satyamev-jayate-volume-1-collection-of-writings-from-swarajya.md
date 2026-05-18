@@ -8,6 +8,12 @@ authors:
   - c-rajagopalachari
 editors: []
 contributors: []
+related_thinkers:
+  - jawaharlal-nehru
+  - khasa-subba-rau
+  - john-foster-dulles
+  - anthony-eden
+  - gamal-abdel-nasser
 publication:
   language: en
   publisher_name: BHARATHAN PUBLICATIONS, KALKI BUILDINGS — KILPAUK, MADRAS-10

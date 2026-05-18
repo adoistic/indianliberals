@@ -12,6 +12,11 @@ contributors:
     toc_index: 1
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
+related_thinkers:
+  - a-d-shroff
+  - adam-smith
+  - mahatma-gandhi
+  - azim-premji
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

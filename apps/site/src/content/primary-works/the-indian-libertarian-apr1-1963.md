@@ -20,6 +20,25 @@ contributors:
   - role: author
     thinker: k-sreeramamurty
     toc_index: 4
+related_thinkers:
+  - jawaharlal-nehru
+  - humayun-kabir
+  - k-m-munshi
+  - sarvepalli-radhakrishnan
+  - j-b-kripalani
+  - karl-marx
+  - wilhelm-ropke
+  - jayaprakash-narayan
+  - mahatma-gandhi
+  - t-t-krishnamachari
+  - ruth-benedict
+  - c-rajagopalachari
+  - john-kenneth-galbraith
+  - aldous-huxley
+  - h-m-patel
+  - morarji-desai
+  - l-k-jha
+  - ralph-waldo-emerson
 publication:
   language: en
   publisher_id: the-indian-libertarian

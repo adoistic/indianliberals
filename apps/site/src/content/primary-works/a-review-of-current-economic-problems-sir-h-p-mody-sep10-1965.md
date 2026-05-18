@@ -17,6 +17,9 @@ contributors:
   - role: author
     thinker_unresolved: P. S. Narayan
     toc_index: 3
+related_thinkers:
+  - eugene-black
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

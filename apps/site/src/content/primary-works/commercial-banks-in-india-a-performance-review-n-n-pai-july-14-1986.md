@@ -10,6 +10,7 @@ editors: []
 contributors:
   - role: introduction
     thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion,\" 235, Dr. D. N. Road, BOMBAY 400 001. Published by Mr. M. R. Pai, Trustee, The A. D. Shroff Memorial Trust, 'Piramal Mansion', 235 Dr. D. N. Road, Bombay 400 001. Printed by Mr. S. V. Limaye at India Printing Works, 9 Nagindas Master Road Ext. 1, Fort, Bombay 400 023."

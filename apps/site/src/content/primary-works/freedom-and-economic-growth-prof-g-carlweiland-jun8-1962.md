@@ -7,6 +7,11 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - mahatma-gandhi
+  - jawaharlal-nehru
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -23,6 +23,7 @@ contributors:
   - role: author
     thinker_unresolved: Dr. D.K. Srivastava
     toc_index: 3
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

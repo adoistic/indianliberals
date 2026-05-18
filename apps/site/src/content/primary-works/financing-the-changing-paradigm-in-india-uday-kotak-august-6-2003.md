@@ -8,6 +8,9 @@ authors:
   - uday-kotak
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - deepak-parekh
 publication:
   language: en
   publisher_name: Published by THE A.D. SHROFF MEMORIAL TRUST, Peninsula House, 235, Dr. D. N. Road, Mumbai-400 001.

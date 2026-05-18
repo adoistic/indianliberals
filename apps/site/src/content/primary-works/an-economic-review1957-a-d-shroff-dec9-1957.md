@@ -8,6 +8,11 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
+related_thinkers:
+  - mahatma-gandhi
+  - eugene-black
+  - nicholas-kaldor
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

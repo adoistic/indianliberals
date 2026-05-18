@@ -8,6 +8,13 @@ authors:
   - eric-p-w-da-costa
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - jayaprakash-narayan
+  - robert-mcnamara
+  - jawaharlal-nehru
+  - lal-bahadur-shastri
+  - indira-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

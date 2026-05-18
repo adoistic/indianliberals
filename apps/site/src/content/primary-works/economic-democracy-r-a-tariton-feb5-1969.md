@@ -8,6 +8,12 @@ authors:
   - b-a-tarlton
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - abraham-lincoln
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - adam-smith
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

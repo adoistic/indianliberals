@@ -36,6 +36,7 @@ contributors:
   - role: author
     thinker_unresolved: Dr. Amrutananda Das
     toc_index: 1
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

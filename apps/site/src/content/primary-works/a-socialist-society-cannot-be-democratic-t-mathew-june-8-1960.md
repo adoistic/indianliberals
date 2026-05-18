@@ -8,6 +8,10 @@ authors:
   - t-mathew
 editors: []
 contributors: []
+related_thinkers:
+  - karl-marx
+  - friedrich-hayek
+  - alexis-de-tocqueville
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

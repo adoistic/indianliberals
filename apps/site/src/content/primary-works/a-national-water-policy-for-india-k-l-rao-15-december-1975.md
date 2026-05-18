@@ -8,6 +8,9 @@ authors:
   - k-l-rao
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

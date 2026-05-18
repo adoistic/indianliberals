@@ -9,6 +9,8 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
+related_thinkers:
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

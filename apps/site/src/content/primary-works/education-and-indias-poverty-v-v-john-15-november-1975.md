@@ -8,6 +8,10 @@ authors:
   - v-v-john
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - dadabhai-naoroji
+  - mahatma-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

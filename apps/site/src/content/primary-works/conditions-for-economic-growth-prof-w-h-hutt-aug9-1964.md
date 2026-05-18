@@ -8,6 +8,10 @@ authors:
   - w-h-hutt
 editors: []
 contributors: []
+related_thinkers:
+  - friedrich-hayek
+  - adam-smith
+  - ludwig-von-mises
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

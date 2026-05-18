@@ -8,6 +8,8 @@ authors:
   - kv-subrahmanyam
 editors: []
 contributors: []
+related_thinkers:
+  - k-d-malaviya
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

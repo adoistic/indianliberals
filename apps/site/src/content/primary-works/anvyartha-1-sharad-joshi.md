@@ -10,6 +10,13 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
+related_thinkers:
+  - mahatma-gandhi
+  - jawaharlal-nehru
+  - ashok-mehta
+  - m-l-dantewala
+  - albert-hirschman
+  - indira-gandhi
 publication:
   language: mr
   publisher_name: जनशक्ती वाचक चळवळ, पिनाक, २४८-समर्थनगर, औरंगाबाद-४३१००१

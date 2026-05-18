@@ -7,6 +7,11 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - p-c-mahalanobis
+  - jawaharlal-nehru
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

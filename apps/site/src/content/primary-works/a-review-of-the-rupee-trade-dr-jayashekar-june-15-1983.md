@@ -8,6 +8,8 @@ authors:
   - jayashekar
 editors: []
 contributors: []
+related_thinkers:
+  - karl-marx
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

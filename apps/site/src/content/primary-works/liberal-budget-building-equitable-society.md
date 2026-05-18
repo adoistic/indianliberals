@@ -21,6 +21,15 @@ contributors:
     thinker: sanjay-panse
   - role: other
     thinker: ms-seetha
+related_thinkers:
+  - nani-palkhivala
+  - c-rajagopalachari
+  - gopal-krishna-gokhale
+  - ludwig-von-mises
+  - d-v-gundappa
+  - vijay-kelkar
+  - bibek-debroy
+  - ashok-desai
 publication:
   language: en
   publisher_id: indian-liberal-group

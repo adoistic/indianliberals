@@ -8,6 +8,10 @@ authors:
   - r-g-katoti
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - manmohan-singh
+  - nani-palkhivala
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

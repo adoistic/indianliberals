@@ -13,6 +13,10 @@ contributors:
     thinker: s-s-tarapore
   - role: editor
     thinker: sunil-bhandare
+related_thinkers:
+  - a-d-shroff
+  - indira-gandhi
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

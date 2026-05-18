@@ -12,6 +12,9 @@ contributors:
     thinker: b-n-adarkar
   - role: introduction
     thinker: nani-palkhivala
+related_thinkers:
+  - a-d-shroff
+  - h-v-r-iengar
 publication:
   language: en
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. Road, Bombay-1. Published by M. R. Pai on behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press, Syed Abdulla Brelvi Road, Bombay-1.

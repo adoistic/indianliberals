@@ -7,6 +7,16 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - bernard-shaw
+  - robert-mcnamara
+  - ludwig-erhard
+  - willy-brandt
+  - adam-smith
+  - indira-gandhi
+  - minoo-masani
+  - mahatma-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

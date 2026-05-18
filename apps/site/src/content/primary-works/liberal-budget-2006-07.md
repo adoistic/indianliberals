@@ -9,6 +9,11 @@ editors: []
 contributors:
   - role: other
     thinker: s-v-raju
+related_thinkers:
+  - gopal-krishna-gokhale
+  - d-v-gundappa
+  - ludwig-von-mises
+  - margaret-thatcher
 publication:
   language: en
   publisher_id: indian-liberal-group

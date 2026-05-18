@@ -11,6 +11,13 @@ contributors:
     thinker_unresolved: M. A. Rangoonwala
   - role: introduction
     thinker: nani-palkhivala
+related_thinkers:
+  - a-d-shroff
+  - murarji-vaidya
+  - j-h-doshi
+  - c-rajagopalachari
+  - subhas-chandra-bose
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

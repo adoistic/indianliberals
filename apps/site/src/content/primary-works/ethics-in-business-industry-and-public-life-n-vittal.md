@@ -8,6 +8,9 @@ authors:
   - n-vittal
 editors: []
 contributors: []
+related_thinkers:
+  - mahatma-gandhi
+  - sardar-patel
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

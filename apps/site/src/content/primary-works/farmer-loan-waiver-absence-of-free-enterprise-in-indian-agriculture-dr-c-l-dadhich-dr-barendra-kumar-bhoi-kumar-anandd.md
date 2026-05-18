@@ -22,6 +22,7 @@ contributors:
     thinker: sunil-bhandare
   - role: foreword
     thinker_unresolved: Minoo R. Shroff
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

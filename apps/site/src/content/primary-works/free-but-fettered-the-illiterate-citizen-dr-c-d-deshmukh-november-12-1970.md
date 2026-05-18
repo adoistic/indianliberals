@@ -8,6 +8,8 @@ authors:
   - chintaman-deshmukh
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

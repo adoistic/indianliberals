@@ -8,6 +8,9 @@ authors:
   - j-h-doshi
 editors: []
 contributors: []
+related_thinkers:
+  - bhanu-pratap-singh
+  - morarji-desai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

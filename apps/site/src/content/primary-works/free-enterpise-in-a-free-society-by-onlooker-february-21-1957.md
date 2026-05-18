@@ -7,6 +7,11 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - t-t-krishnamachari
+  - jawaharlal-nehru
+  - karl-marx
+  - nikita-khrushchev
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -7,6 +7,9 @@ work_type: essay
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

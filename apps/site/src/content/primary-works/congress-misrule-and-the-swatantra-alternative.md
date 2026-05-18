@@ -9,6 +9,14 @@ editors: []
 contributors:
   - role: foreword
     thinker: c-rajagopalachari
+related_thinkers:
+  - jawaharlal-nehru
+  - karl-marx
+  - vinoba-bhave
+  - milovan-djilas
+  - s-chandrasekhar
+  - sirimavo-bandaranaike
+  - dudley-senanayake
 publication:
   language: en
   publisher_name: "Manaktalas : Bombay"

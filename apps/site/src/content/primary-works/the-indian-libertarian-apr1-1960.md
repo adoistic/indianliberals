@@ -27,6 +27,15 @@ contributors:
     toc_index: 6
   - role: author
     thinker: a-d-cohen
+related_thinkers:
+  - jawaharlal-nehru
+  - v-k-krishna-menon
+  - ayub-khan
+  - c-rajagopalachari
+  - m-n-roy
+  - karl-marx
+  - a-ranganathan
+  - chintaman-deshmukh
 publication:
   language: en
   publisher_id: the-indian-libertarian

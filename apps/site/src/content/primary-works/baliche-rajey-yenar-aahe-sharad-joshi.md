@@ -10,6 +10,15 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
+related_thinkers:
+  - jawaharlal-nehru
+  - indira-gandhi
+  - mahatma-gandhi
+  - karl-marx
+  - joseph-stalin
+  - lal-bahadur-shastri
+  - rajiv-gandhi
+  - shrikant-umrikar
 publication:
   language: mr
   publisher_name: जनशक्ती वाचक चळवळ

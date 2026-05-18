@@ -8,6 +8,13 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
+related_thinkers:
+  - dadabhai-naoroji
+  - pherozeshah-mehta
+  - mahadev-govind-ranade
+  - bal-gangadhar-tilak
+  - gopal-krishna-gokhale
+  - mahatma-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

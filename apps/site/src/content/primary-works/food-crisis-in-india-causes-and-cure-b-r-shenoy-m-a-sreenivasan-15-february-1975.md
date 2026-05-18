@@ -15,6 +15,10 @@ contributors:
   - role: author
     thinker: ma-sreenivasan
     toc_index: 2
+related_thinkers:
+  - jawaharlal-nehru
+  - indira-gandhi
+  - lal-bahadur-shastri
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

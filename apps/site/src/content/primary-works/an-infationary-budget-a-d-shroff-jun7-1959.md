@@ -8,6 +8,8 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
+related_thinkers:
+  - t-t-krishnamachari
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

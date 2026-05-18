@@ -8,6 +8,7 @@ authors:
   - j-h-doshi
 editors: []
 contributors: []
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -67,14 +67,26 @@ const musingMentions = allMusings.filter((m) =>
   !refMatches(m.data.author, t.id) &&
   (m.data.related_thinkers ?? []).some((r) => refMatches(r, t.id))
 );
-// (theprint mentions are currently the byline; mention-only role for
-// theprint requires Phase B body-NER and is intentionally empty here.)
+// Primary-works where this thinker is mentioned in body prose but not
+// an author/contributor. The emitter now projects cross_thinker_mentions
+// from the extraction's summary_structured payload into the work's
+// related_thinkers[] — so touchstones like Adam Smith, Hayek, Lincoln,
+// Marx, Bernard Shaw etc. surface here even though they didn't write
+// anything in this corpus.
+const workMentions = allWorks
+  .filter((w) =>
+    !(w.data.authors ?? []).some((a) => refMatches(a, t.id)) &&
+    !(w.data.contributors ?? []).some((c) => refMatches(c.thinker, t.id)) &&
+    (w.data.related_thinkers ?? []).some((r) => refMatches(r, t.id))
+  )
+  .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
 
 const authorshipCount =
   worksByThisThinker.length + musingsByThisThinker.length +
   opinionsByThisThinker.length + theprintByThisThinker.length;
 const aboutCount = interviewsAbout.length + opinionsAbout.length;
-const mentionCount = opinionMentions.length + musingMentions.length;
+const mentionCount =
+  opinionMentions.length + musingMentions.length + workMentions.length;
 
 const hreflang = hreflangAlternates(
   "thinkers",
@@ -310,6 +322,24 @@ const bioSourceLabel = {
           Mentioned in ({mentionCount})
         </h2>
         <div class="grid gap-6 md:grid-cols-2">
+          {workMentions.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Primary works ({workMentions.length})</h3>
+              <ul class="space-y-2">
+                {workMentions.slice(0, 15).map((w) => (
+                  <li>
+                    <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {w.data.title.main}
+                      <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
+                    </a>
+                  </li>
+                ))}
+                {workMentions.length > 15 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {workMentions.length - 15} more</li>
+                )}
+              </ul>
+            </div>
+          )}
           {opinionMentions.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionMentions.length})</h3>
@@ -340,7 +370,9 @@ const bioSourceLabel = {
           )}
         </div>
         <p class="mt-4 text-xs text-(--color-fg-muted) italic">
-          In-prose mentions (names appearing inside article bodies and primary-work summaries) are queued for the Phase B linking pass.
+          Primary-work mentions are extracted from the AI-summary cross-thinker
+          index. In-prose mentions inside opinions, musings, interviews, and
+          ThePrint articles are queued for the Phase B body-NER pass.
         </p>
       </section>
     )}

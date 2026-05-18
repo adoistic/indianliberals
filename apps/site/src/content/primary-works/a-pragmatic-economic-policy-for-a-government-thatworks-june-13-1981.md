@@ -7,6 +7,9 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - h-v-r-iengar
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

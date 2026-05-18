@@ -378,6 +378,46 @@ def emit_primary_work(slug: str) -> Path | None:
             item["toc_index"] = c["toc_index"]
         contribs.append(item)
 
+    # Cross-thinker mentions: the extraction pipeline captures every
+    # named-thinker mention found in body prose (summary_structured.
+    # cross_thinker_mentions for single-author works; the same field on
+    # each essays_summarized[] entry for multi-author works). Project the
+    # resolved mentions into the work's `related_thinkers[]` so each
+    # mentioned thinker's bio page can surface this work in its
+    # "Mentioned in" section. Mentions that ALSO appear as authors are
+    # excluded (they're already in authors[], so they'd land in the bio's
+    # "Works by" section instead).
+    related_thinkers: list[str] = []
+    seen_related: set[str] = set()
+
+    def _ingest_mentions(mentions):
+        if not mentions:
+            return
+        for ctm in mentions:
+            if not isinstance(ctm, dict):
+                continue
+            tid = ctm.get("thinker_id")
+            if not tid:
+                # Try to resolve an unresolved string against the cleaned byline_lookup
+                tid = _resolve(ctm.get("thinker_id_unresolved") or ctm.get("thinker_unresolved"))
+            if not tid:
+                continue
+            if tid in authors or tid in editors or any(c.get("thinker") == tid for c in contribs):
+                continue
+            if tid in seen_related:
+                continue
+            seen_related.add(tid)
+            related_thinkers.append(tid)
+
+    _ingest_mentions((summ.get("summary_structured") or {}).get("cross_thinker_mentions"))
+    for ess in (summ.get("essays_summarized") or []):
+        if isinstance(ess, dict):
+            _ingest_mentions((ess.get("summary_structured") or {}).get("cross_thinker_mentions"))
+    # Periodicals carry mentions per-article rather than per-essay.
+    for art in (meta.get("articles") or []):
+        if isinstance(art, dict):
+            _ingest_mentions(art.get("cross_thinker_mentions"))
+
     fm = {
         "id": work_id,
         "title": title_fm,
@@ -385,6 +425,7 @@ def emit_primary_work(slug: str) -> Path | None:
         "authors": authors,
         "editors": editors,
         "contributors": contribs,
+        "related_thinkers": related_thinkers,
         "publication": pub_fm,
         "provenance": {
             "source": "ccs_archive",

@@ -36,6 +36,15 @@ contributors:
     thinker_unresolved: VERUS
   - role: author
     thinker_unresolved: Scio
+related_thinkers:
+  - jawaharlal-nehru
+  - feroz-khan-noon
+  - karl-marx
+  - maulana-abul-kalam-azad
+  - s-k-patil
+  - vijaya-lakshmi-pandit
+  - mahatma-gandhi
+  - nikita-khrushchev
 publication:
   language: en
   publisher_id: the-indian-libertarian

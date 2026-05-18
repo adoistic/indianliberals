@@ -7,6 +7,13 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - adam-smith
+  - karl-marx
+  - jrd-tata
+  - milton-friedman
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

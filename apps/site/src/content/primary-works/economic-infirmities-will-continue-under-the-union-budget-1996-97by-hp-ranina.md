@@ -8,6 +8,8 @@ authors:
   - hp-ranina
 editors: []
 contributors: []
+related_thinkers:
+  - manmohan-singh
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

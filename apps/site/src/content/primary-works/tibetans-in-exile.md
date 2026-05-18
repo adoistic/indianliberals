@@ -36,6 +36,11 @@ contributors:
   - role: author
     thinker_unresolved: Fazal-ur-Rahman
     toc_index: 9
+related_thinkers:
+  - jawaharlal-nehru
+  - mao-zedong
+  - deng-xiaoping
+  - ngapo-ngawang-jigme
 publication:
   language: en
   publisher_id: friedrich-naumann-foundation

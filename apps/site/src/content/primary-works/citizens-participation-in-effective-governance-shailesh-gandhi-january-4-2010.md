@@ -8,6 +8,10 @@ authors:
   - shailesh-gandhi
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - nani-palkhivala
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

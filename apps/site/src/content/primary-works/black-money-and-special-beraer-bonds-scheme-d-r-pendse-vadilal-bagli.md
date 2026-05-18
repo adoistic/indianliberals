@@ -14,6 +14,8 @@ contributors:
   - role: author
     thinker: d-r-pendse
     toc_index: 2
+related_thinkers:
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

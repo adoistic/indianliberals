@@ -8,6 +8,10 @@ authors:
   - f-a-mehta
 editors: []
 contributors: []
+related_thinkers:
+  - adam-smith
+  - jawaharlal-nehru
+  - b-r-shenoy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

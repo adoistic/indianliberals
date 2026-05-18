@@ -8,6 +8,9 @@ authors:
   - rakesh-mohan
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

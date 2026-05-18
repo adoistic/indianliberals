@@ -8,6 +8,9 @@ authors:
   - margaret-thatcher
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -35,6 +35,30 @@ contributors:
   - role: author
     thinker: g-giridhar-prabhu
     toc_index: 12
+related_thinkers:
+  - minoo-masani
+  - b-r-shenoy
+  - winston-churchill
+  - carlos-romulo
+  - a-p-j-abdul-kalam
+  - john-f-kennedy
+  - l-k-jha
+  - hla-hart
+  - jawaharlal-nehru
+  - indira-gandhi
+  - friedrich-hayek
+  - jagdish-bhagwati
+  - joseph-stiglitz
+  - hernando-de-soto
+  - karl-polanyi
+  - nani-palkhivala
+  - ram-jethmalani
+  - abraham-lincoln
+  - theodor-heuss
+  - friedrich-naumann
+  - ken-schoolland
+  - atal-bihari-vajpayee
+  - narasimha-rao
 publication:
   language: en
   publisher_id: indian-liberal-group

@@ -8,6 +8,9 @@ authors:
   - h-v-r-iengar
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - jrd-tata
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

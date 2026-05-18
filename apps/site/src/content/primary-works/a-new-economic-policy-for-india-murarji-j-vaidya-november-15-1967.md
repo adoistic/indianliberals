@@ -7,6 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - indira-gandhi
+  - sarvepalli-radhakrishnan
+  - jayaprakash-narayan
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

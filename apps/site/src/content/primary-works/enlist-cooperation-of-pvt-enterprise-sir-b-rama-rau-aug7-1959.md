@@ -8,6 +8,12 @@ authors:
   - b-rama-rau
 editors: []
 contributors: []
+related_thinkers:
+  - c-rajagopalachari
+  - jayaprakash-narayan
+  - jawaharlal-nehru
+  - ludwig-erhard
+  - karl-marx
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

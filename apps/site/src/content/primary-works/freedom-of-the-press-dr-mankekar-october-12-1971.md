@@ -7,6 +7,11 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - jawaharlal-nehru
+  - bal-gangadhar-tilak
+  - mahatma-gandhi
+  - indira-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

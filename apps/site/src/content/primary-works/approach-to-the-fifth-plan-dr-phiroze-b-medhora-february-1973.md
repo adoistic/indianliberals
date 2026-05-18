@@ -8,6 +8,10 @@ authors:
   - phiroze-b-medhora
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - p-c-mahalanobis
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

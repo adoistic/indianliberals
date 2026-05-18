@@ -47,6 +47,7 @@ contributors:
   - role: author
     thinker: eugene-black
     toc_index: 12
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

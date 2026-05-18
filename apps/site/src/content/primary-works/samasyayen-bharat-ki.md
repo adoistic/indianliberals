@@ -10,6 +10,13 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
+related_thinkers:
+  - indira-gandhi
+  - shivaji
+  - maharana-pratap
+  - karl-marx
+  - napoleon-bonaparte
+  - v-t-krishnamachari
 publication:
   language: hi
   publisher_id: shetkari-sanghatana

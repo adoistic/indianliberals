@@ -7,6 +7,11 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - c-rangarajan
+  - m-r-pai
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

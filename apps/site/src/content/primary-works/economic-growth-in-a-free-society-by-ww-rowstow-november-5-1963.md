@@ -7,6 +7,8 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - adam-smith
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

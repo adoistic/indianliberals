@@ -8,6 +8,9 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - voltaire
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

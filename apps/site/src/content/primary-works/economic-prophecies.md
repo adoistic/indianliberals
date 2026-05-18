@@ -14,6 +14,20 @@ contributors:
     thinker: r-k-amin
   - role: editor
     thinker: parth-shah
+related_thinkers:
+  - friedrich-hayek
+  - milton-friedman
+  - peter-bauer
+  - margaret-thatcher
+  - jrd-tata
+  - p-n-haksar
+  - jayaprakash-narayan
+  - vinoba-bhave
+  - warren-hastings
+  - minoo-masani
+  - p-c-mahalanobis
+  - r-k-hazari
+  - sumati-morarjee
 publication:
   language: en
   publisher_id: centre-for-civil-society

@@ -17,6 +17,7 @@ contributors:
   - role: author
     thinker_unresolved: R. N. KINI
     toc_index: 3
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

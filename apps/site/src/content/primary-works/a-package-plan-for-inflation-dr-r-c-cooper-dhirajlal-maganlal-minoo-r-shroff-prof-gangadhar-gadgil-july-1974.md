@@ -20,6 +20,7 @@ contributors:
   - role: author
     thinker_unresolved: PROF. GANGADHAR GADGIL
     toc_index: 4
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

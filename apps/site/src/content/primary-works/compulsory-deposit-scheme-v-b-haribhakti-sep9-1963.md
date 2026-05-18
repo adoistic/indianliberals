@@ -14,6 +14,7 @@ contributors:
   - role: author
     thinker_unresolved: H. C. Malkani
     toc_index: 2
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

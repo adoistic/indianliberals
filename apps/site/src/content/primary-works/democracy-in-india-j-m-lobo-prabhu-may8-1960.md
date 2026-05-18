@@ -8,6 +8,10 @@ authors:
   - j-m-lobo-prabhu
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - a-d-shroff
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

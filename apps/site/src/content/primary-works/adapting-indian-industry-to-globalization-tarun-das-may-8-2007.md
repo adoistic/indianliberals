@@ -15,6 +15,11 @@ contributors:
     thinker: sunil-bhandare
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
+related_thinkers:
+  - a-d-shroff
+  - minoo-shroff
+  - ajit-karnik
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

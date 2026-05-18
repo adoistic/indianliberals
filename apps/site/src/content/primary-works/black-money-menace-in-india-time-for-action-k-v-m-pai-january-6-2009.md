@@ -8,6 +8,10 @@ authors:
   - k-v-m-pai
 editors: []
 contributors: []
+related_thinkers:
+  - b-r-shenoy
+  - d-r-pendse
+  - hp-ranina
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

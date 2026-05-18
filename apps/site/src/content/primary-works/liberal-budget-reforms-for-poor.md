@@ -23,6 +23,10 @@ contributors:
     thinker: narayan-varma
   - role: other
     thinker: s-v-raju
+related_thinkers:
+  - gopal-krishna-gokhale
+  - d-v-gundappa
+  - sarvepalli-radhakrishnan
 publication:
   language: en
   publisher_id: indian-liberal-group

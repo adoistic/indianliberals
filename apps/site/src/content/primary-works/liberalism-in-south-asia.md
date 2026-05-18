@@ -32,6 +32,22 @@ contributors:
   - role: author
     thinker: s-v-raju
     toc_index: 6
+related_thinkers:
+  - adam-smith
+  - bhimrao-ambedkar
+  - mahatma-gandhi
+  - jawaharlal-nehru
+  - periyar-e-v-ramasamy
+  - bal-gangadhar-tilak
+  - franz-oppenheimer
+  - sirimavo-bandaranaike
+  - thomas-aquinas
+  - john-locke
+  - john-stuart-mill
+  - alexis-de-tocqueville
+  - frederic-bastiat
+  - herbert-spencer
+  - immanuel-kant
 publication:
   language: en
   publisher_id: liberal-times

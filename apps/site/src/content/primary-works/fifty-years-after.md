@@ -45,6 +45,21 @@ contributors:
   - role: author
     thinker: jiban-mukhopadhyay
     toc_index: 10
+related_thinkers:
+  - indira-gandhi
+  - jawaharlal-nehru
+  - bhimrao-ambedkar
+  - achyut-patwardhan
+  - winston-churchill
+  - manmohan-singh
+  - sardar-patel
+  - c-rajagopalachari
+  - mahatma-gandhi
+  - jayaprakash-narayan
+  - m-n-roy
+  - gopal-krishna-gokhale
+  - bk-nehru-cn
+  - m-c-chagla
 publication:
   language: en
   publisher_name: "Published by: Mr. S. V. Raju, Executive Director, Project for Economic Education, 148, Mahatma Gandhi Road, Mumbai 400 001."

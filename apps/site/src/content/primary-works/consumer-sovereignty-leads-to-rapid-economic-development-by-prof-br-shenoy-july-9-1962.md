@@ -8,6 +8,8 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
+related_thinkers:
+  - john-kenneth-galbraith
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

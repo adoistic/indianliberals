@@ -14,6 +14,10 @@ contributors:
   - role: author
     thinker_unresolved: Dr. P. R. Brahmananda
     toc_index: 3
+related_thinkers:
+  - friedrich-hayek
+  - john-stuart-mill
+  - john-kenneth-galbraith
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -8,6 +8,11 @@ authors:
   - ma-sreenivasan
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - winston-churchill
+  - c-rajagopalachari
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

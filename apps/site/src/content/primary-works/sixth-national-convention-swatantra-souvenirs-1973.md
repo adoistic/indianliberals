@@ -7,6 +7,7 @@ work_type: edited_volume
 authors: []
 editors: []
 contributors: []
+related_thinkers: []
 publication:
   language: en
   publisher_id: swatantra-party

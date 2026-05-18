@@ -13,6 +13,9 @@ contributors:
     thinker: k-c-chakrabarty
   - role: editor
     thinker: sunil-bhandare
+related_thinkers:
+  - m-r-pai
+  - ila-bhatt
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

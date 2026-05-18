@@ -8,6 +8,13 @@ authors:
   - sucheta-dalal
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - jawaharlal-nehru
+  - t-t-krishnamachari
+  - jrd-tata
+  - ma-sreenivasan
+  - m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

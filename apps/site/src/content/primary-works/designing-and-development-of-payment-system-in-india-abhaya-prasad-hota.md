@@ -16,6 +16,9 @@ contributors:
     thinker: sunil-bhandare
   - role: foreword
     thinker_unresolved: Suresh Prabhu
+related_thinkers:
+  - m-r-pai
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -7,6 +7,13 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - lal-bahadur-shastri
+  - s-k-patil
+  - t-t-krishnamachari
+  - jrd-tata
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

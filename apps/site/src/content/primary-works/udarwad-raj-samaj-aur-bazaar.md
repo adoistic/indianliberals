@@ -12,6 +12,9 @@ editors: []
 contributors:
   - role: translator
     thinker: kaushal-kishor
+related_thinkers:
+  - abraham-lincoln
+  - parth-shah
 publication:
   language: hi
   publisher_id: centre-for-civil-society

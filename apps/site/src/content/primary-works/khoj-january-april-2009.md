@@ -62,6 +62,13 @@ contributors:
   - role: author
     thinker: trupti-parekh
     toc_index: 17
+related_thinkers:
+  - mehboob-desai
+  - swami-anand
+  - mahatma-gandhi
+  - jawaharlal-nehru
+  - rabindranath-tagore
+  - javed-anand
 publication:
   language: gu
   publisher_id: khoj

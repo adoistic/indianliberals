@@ -10,6 +10,7 @@ authors:
   - ishwar-chandra-vidyasagar
 editors: []
 contributors: []
+related_thinkers: []
 publication:
   language: bn
 provenance:

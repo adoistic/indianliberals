@@ -12,6 +12,10 @@ contributors:
     thinker: n-vittal
   - role: introduction
     thinker_unresolved: Sunil Bhandare
+related_thinkers:
+  - a-d-shroff
+  - m-c-chagla
+  - indira-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

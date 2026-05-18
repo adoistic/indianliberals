@@ -8,6 +8,12 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
+related_thinkers:
+  - adam-smith
+  - lal-bahadur-shastri
+  - m-c-chagla
+  - eugene-black
+  - nikita-khrushchev
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

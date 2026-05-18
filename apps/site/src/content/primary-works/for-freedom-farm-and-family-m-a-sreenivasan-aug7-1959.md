@@ -18,6 +18,11 @@ contributors:
   - role: author
     thinker: c-rajagopalachari
     toc_index: 3
+related_thinkers:
+  - minoo-masani
+  - jawaharlal-nehru
+  - jayaprakash-narayan
+  - ludwig-erhard
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

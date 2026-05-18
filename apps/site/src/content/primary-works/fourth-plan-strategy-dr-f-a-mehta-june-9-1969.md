@@ -8,6 +8,10 @@ authors:
   - f-a-mehta
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - jawaharlal-nehru
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

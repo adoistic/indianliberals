@@ -7,6 +7,8 @@ work_type: letter
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - morarji-desai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

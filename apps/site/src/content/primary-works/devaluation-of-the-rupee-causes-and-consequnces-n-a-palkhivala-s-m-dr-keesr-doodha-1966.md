@@ -17,6 +17,9 @@ contributors:
   - role: author
     thinker_unresolved: DR. KERSI D. DOODHA
     toc_index: 3
+related_thinkers:
+  - colin-clark
+  - indira-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

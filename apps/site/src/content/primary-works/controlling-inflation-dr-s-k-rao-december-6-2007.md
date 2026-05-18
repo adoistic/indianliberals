@@ -16,6 +16,8 @@ contributors:
     toc_index: 2
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
+related_thinkers:
+  - c-rangarajan
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -8,6 +8,13 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
+related_thinkers:
+  - ludwig-von-mises
+  - ludwig-erhard
+  - a-d-shroff
+  - m-r-pai
+  - eugene-black
+  - mahatma-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

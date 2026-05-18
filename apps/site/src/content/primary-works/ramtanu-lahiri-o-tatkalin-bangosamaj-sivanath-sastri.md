@@ -10,6 +10,23 @@ authors:
   - sivanath-sastri
 editors: []
 contributors: []
+related_thinkers:
+  - raja-ram-mohan-roy
+  - ishwar-chandra-vidyasagar
+  - henry-louis-vivian-derozio
+  - william-bentinck
+  - david-hare
+  - warren-hastings
+  - alexander-duff
+  - narayan-mahadev-paramananda
+  - radhakanta-deb
+  - krishnamohan-bandyopadhyay
+  - rasikkrishna-mallik
+  - tarachand-chakrabarty
+  - william-adam
+  - thomas-babington-macaulay
+  - dwarkanath-tagore
+  - parichand-mitra
 publication:
   language: bn
   year: 1904

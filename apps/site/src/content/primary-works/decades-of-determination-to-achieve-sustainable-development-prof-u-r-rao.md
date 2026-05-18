@@ -8,6 +8,8 @@ authors:
   - u-r-rao
 editors: []
 contributors: []
+related_thinkers:
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -7,6 +7,12 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - t-t-krishnamachari
+  - nikita-khrushchev
+  - mahatma-gandhi
+  - vinoba-bhave
+  - jayaprakash-narayan
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

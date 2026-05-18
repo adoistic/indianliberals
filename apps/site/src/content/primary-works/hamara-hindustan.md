@@ -12,6 +12,10 @@ editors: []
 contributors:
   - role: translator
     thinker: v-p-sinha
+related_thinkers:
+  - v-k-r-v-rao
+  - ram-manohar-lohia
+  - sarojini-naidu
 publication:
   language: hi
   publisher_id: oxford-university-press-india

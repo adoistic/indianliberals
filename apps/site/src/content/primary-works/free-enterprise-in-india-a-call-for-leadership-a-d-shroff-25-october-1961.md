@@ -8,6 +8,13 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
+related_thinkers:
+  - jayaprakash-narayan
+  - murarji-vaidya
+  - sachin-sen
+  - charan-singh
+  - vinoba-bhave
+  - mahatma-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

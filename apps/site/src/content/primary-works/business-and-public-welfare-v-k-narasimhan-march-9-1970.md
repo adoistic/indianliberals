@@ -19,6 +19,9 @@ contributors:
   - role: author
     thinker_unresolved: Dr. RAMU PANDIT
     toc_index: 4
+related_thinkers:
+  - atal-bihari-vajpayee
+  - lal-bahadur-shastri
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

@@ -9,6 +9,7 @@ authors:
   - ishwar-chandra-vidyasagar
 editors: []
 contributors: []
+related_thinkers: []
 publication:
   language: en
   publisher_name: Sarva Subhakari

@@ -8,6 +8,14 @@ authors:
   - s-s-kanoria
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - adam-smith
+  - john-kenneth-galbraith
+  - eugene-black
+  - mahatma-gandhi
+  - friedrich-hayek
+  - jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

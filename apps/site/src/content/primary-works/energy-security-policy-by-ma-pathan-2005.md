@@ -7,6 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
+related_thinkers:
+  - a-d-shroff
+  - jrd-tata
+  - eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

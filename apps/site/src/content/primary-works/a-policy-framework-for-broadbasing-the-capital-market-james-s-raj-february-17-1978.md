@@ -12,6 +12,9 @@ contributors:
     thinker: james-s-raj
   - role: introduction
     thinker: nani-palkhivala
+related_thinkers:
+  - a-d-shroff
+  - m-r-pai
 publication:
   language: en
   publisher_name: The A. D. Shroff Memorial Trust, Piramal Mansion, 235, Dr. D. N. Rd., BOMBAY - 400 001.

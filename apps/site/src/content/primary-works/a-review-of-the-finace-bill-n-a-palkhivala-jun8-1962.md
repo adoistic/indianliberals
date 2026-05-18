@@ -8,6 +8,10 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
+related_thinkers:
+  - eugene-black
+  - morarji-desai
+  - a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

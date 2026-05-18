@@ -8,6 +8,11 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
+related_thinkers:
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - ralph-waldo-emerson
+  - john-kenneth-galbraith
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
