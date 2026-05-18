@@ -13,6 +13,7 @@ related_thinkers:
 
 publication:
   language: en
+  publisher_id: bharathan-publications
   publisher_name: BHARATHAN PUBLICATIONS, KALKI BUILDINGS — KILPAUK, MADRAS-10
   place: Madras
 provenance:

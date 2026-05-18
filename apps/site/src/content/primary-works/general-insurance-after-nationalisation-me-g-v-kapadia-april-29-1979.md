@@ -17,6 +17,7 @@ related_thinkers:
 
 publication:
   language: en
+  publisher_id: a-d-shroff-memorial-trust
   publisher_name: Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by B. D. Nadirshaw at The Bombay Chronicle Press, Horniman Circle, Bombay 400 001.
   place: Bombay
   year: 1979

@@ -5,6 +5,7 @@ title:
 work_type: "periodical_issue"
 authors: []
 publication: 
+  publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
   year: 2015
   language: "gu"

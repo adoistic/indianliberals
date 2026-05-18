@@ -17,6 +17,7 @@ related_thinkers:
   - m-r-pai
 publication:
   language: en
+  publisher_id: a-d-shroff-memorial-trust
   publisher_name: The A. D. Shroff Memorial Trust, Piramal Mansion, 235, Dr. D. N. Rd., BOMBAY - 400 001.
   place: Bombay
   year: 1978

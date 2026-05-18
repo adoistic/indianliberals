@@ -14,6 +14,7 @@ related_thinkers:
   - m-r-pai
 publication:
   language: en
+  publisher_id: a-d-shroff-memorial-trust
   publisher_name: THE A. D. SHROFF MEMORIAL TRUST, 235, Dr. D. N. ROAD, BOMBAY-400 001.
   place: Bombay
   year: 1983

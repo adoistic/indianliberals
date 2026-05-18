@@ -21,6 +21,7 @@ related_thinkers:
   - shrikant-umrikar
 publication:
   language: mr
+  publisher_id: janashakti-vachak-chalval
   publisher_name: जनशक्ती वाचक चळवळ
   place: औरंगाबाद
   year: 2010

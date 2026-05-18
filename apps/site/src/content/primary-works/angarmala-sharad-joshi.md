@@ -15,6 +15,7 @@ related_thinkers:
   - sharad-pawar
 publication:
   language: mr
+  publisher_id: janashakti-vachak-chalval
   publisher_name: जनशक्ती वाचक चळवळ, पिनाक, २४४-समर्थनगर, औरंगाबाद-४३१००१
   place: औरंगाबाद
   year: 2008

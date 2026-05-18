@@ -5,6 +5,7 @@ title:
 work_type: "book"
 authors: []
 publication: 
+  publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
   year: 2016
   language: "mr"

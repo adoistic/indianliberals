@@ -14,6 +14,7 @@ related_thinkers:
   - jagdish-bhagwati
 publication:
   language: en
+  publisher_id: a-d-shroff-memorial-trust
   publisher_name: THE A. D. SHROFF MEMORIAL TRUST, Piramal Mansion, 2nd Floor, 235, Dr. D. N. Road, Mumbai-400 001
   place: Mumbai
   year: 1999

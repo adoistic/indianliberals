@@ -37,13 +37,23 @@ const datesStr =
       : "";
 
 // Pull works published by this org + thinkers affiliated with it.
+// The language filter is DROPPED here on purpose — the org page is about
+// the organisation's full catalogue, not just its English-language works.
+// Non-English works link to their /<lang>/primary-works/<slug>/ route
+// (the localised detail page); English ones link to /primary-works/<slug>/.
 const allWorks = await getCollection(
   "primary-works",
-  (w) => !w.data.draft && w.data.language === "en",
+  (w) => !w.data.draft,
 );
 const publishedHere = allWorks
   .filter((w) => w.data.publication?.publisher_id === o.id || w.data.publication?.issuer_id === o.id)
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
+
+function workHref(w: typeof publishedHere[number]): string {
+  return w.data.language && w.data.language !== "en"
+    ? `/${w.data.language}/primary-works/${w.id}/`
+    : `/primary-works/${w.id}/`;
+}
 
 const allThinkers = await getCollection(
   "thinkers",
@@ -96,11 +106,16 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
           Works published / issued ({publishedHere.length})
         </h2>
         <ul class="divide-y divide-(--color-border)">
-          {publishedHere.slice(0, 20).map((w) => (
+          {publishedHere.slice(0, 30).map((w) => (
             <li class="py-3">
-              <a href={`/primary-works/${w.id}/`} class="block no-underline group">
+              <a href={workHref(w)} class="block no-underline group">
                 <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
                   {w.data.title.main}
+                  {w.data.language && w.data.language !== "en" && (
+                    <span class="ml-2 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded text-(--color-fg-muted)">
+                      {w.data.language}
+                    </span>
+                  )}
                 </div>
                 <div class="text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
                   {w.data.publication?.year} · {w.data.work_type.replace(/_/g, " ")}
@@ -109,9 +124,9 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
             </li>
           ))}
         </ul>
-        {publishedHere.length > 20 && (
+        {publishedHere.length > 30 && (
           <p class="mt-4 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-            …and {publishedHere.length - 20} more
+            …and {publishedHere.length - 30} more
           </p>
         )}
       </section>

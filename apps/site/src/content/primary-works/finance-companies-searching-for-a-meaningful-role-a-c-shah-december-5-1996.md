@@ -13,6 +13,7 @@ related_thinkers:
 
 publication:
   language: en
+  publisher_id: a-d-shroff-memorial-trust
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, Piramal Mansion, 2nd floor, 235, Dr. D. N. Road, Mumbai - 400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Mumbai 400 001, and printed by S. V. Limaye at the India Printing Works, India Printing House, 42, G. D. Ambekar Marg, Wadala, Mumbai 400 031.
   place: Mumbai
   year: 1996

@@ -61,6 +61,7 @@ related_thinkers:
 
 publication:
   language: en
+  publisher_id: project-for-economic-education
   publisher_name: "Published by: Mr. S. V. Raju, Executive Director, Project for Economic Education, 148, Mahatma Gandhi Road, Mumbai 400 001."
   place: Mumbai
   year: 1997

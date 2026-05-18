@@ -19,6 +19,7 @@ related_thinkers:
   - c-rangarajan
 publication:
   language: en
+  publisher_id: a-d-shroff-memorial-trust
   publisher_name: Published by THE A.D. SHROFF MEMORIAL TRUST, Peninsula House, 235, Dr. D. N. Road, Mumbai-400 001.
   place: Mumbai
   year: 2002

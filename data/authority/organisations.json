@@ -32,9 +32,14 @@
       ],
       "founded_year": 1956,
       "type": "think_tank",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "swatantra-party",
@@ -45,9 +50,15 @@
       "founded_year": 1959,
       "dissolved_year": 1974,
       "type": "political_party",
-      "ideology": ["classical_liberal", "constitutionalist"],
+      "ideology": [
+        "classical_liberal",
+        "constitutionalist"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "indian-liberal-group",
@@ -58,9 +69,14 @@
       ],
       "founded_year": 2000,
       "type": "think_tank",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "shetkari-sanghatana",
@@ -71,9 +87,15 @@
       ],
       "founded_year": 1979,
       "type": "reform_society",
-      "ideology": ["classical_liberal", "agrarian_reform"],
+      "ideology": [
+        "classical_liberal",
+        "agrarian_reform"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "centre-for-civil-society",
@@ -83,18 +105,27 @@
       ],
       "founded_year": 1997,
       "type": "think_tank",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "liberty-institute",
       "canonical": "Liberty Institute",
       "founded_year": 1996,
       "type": "think_tank",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "all-india-liberal-federation",
@@ -103,9 +134,13 @@
         "AILF"
       ],
       "type": "political_party",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "friedrich-naumann-foundation",
@@ -119,18 +154,27 @@
       ],
       "founded_year": 1958,
       "type": "international_network",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "liberal-international",
       "canonical": "Liberal International",
       "founded_year": 1947,
       "type": "international_network",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "atlas-network",
@@ -139,27 +183,39 @@
         "Atlas Economic Research Foundation"
       ],
       "type": "international_network",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "mont-pelerin-society",
       "canonical": "Mont Pelerin Society",
       "founded_year": 1947,
       "type": "international_network",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "hoover-institution",
       "canonical": "Hoover Institution",
       "founded_year": 1919,
       "type": "academic",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "indian-national-congress",
@@ -171,7 +227,9 @@
       "founded_year": 1885,
       "type": "political_party",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "congress-socialist-party",
@@ -183,7 +241,9 @@
       "dissolved_year": 1948,
       "type": "political_party",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "planning-commission-india",
@@ -192,7 +252,9 @@
       "dissolved_year": 2014,
       "type": "academic",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "indian-merchants-chamber",
@@ -204,7 +266,10 @@
       "founded_year": 1907,
       "type": "professional_body",
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "federation-of-indian-chambers-of-commerce",
@@ -215,7 +280,9 @@
       "founded_year": 1927,
       "type": "professional_body",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "bombay-stock-exchange",
@@ -226,7 +293,9 @@
       "founded_year": 1875,
       "type": "professional_body",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "ncaer",
@@ -237,7 +306,10 @@
       "founded_year": 1956,
       "type": "academic",
       "confidence": "canonical",
-      "sources": ["proposal", "phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "proposal",
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "tata-sons",
@@ -245,7 +317,9 @@
       "founded_year": 1917,
       "type": "publisher_org",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "bharatiya-vidya-bhavan",
@@ -253,7 +327,9 @@
       "founded_year": 1938,
       "type": "academic",
       "confidence": "canonical",
-      "sources": ["proposal"]
+      "sources": [
+        "proposal"
+      ]
     },
     {
       "id": "janashakti-vachak-chalval",
@@ -265,9 +341,14 @@
         "Janashakti Reading Movement"
       ],
       "type": "reform_society",
-      "ideology": ["classical_liberal", "agrarian_reform"],
+      "ideology": [
+        "classical_liberal",
+        "agrarian_reform"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "janashakti-books-and-publications",
@@ -278,9 +359,14 @@
         "Janashakti Publications"
       ],
       "type": "publisher_org",
-      "ideology": ["classical_liberal", "agrarian_reform"],
+      "ideology": [
+        "classical_liberal",
+        "agrarian_reform"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "project-for-economic-education",
@@ -291,9 +377,13 @@
       ],
       "founded_year": 1997,
       "type": "think_tank",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "press-institute-of-india",
@@ -304,7 +394,9 @@
       "founded_year": 1963,
       "type": "professional_body",
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "all-india-sarafa-association",
@@ -314,7 +406,9 @@
       ],
       "type": "professional_body",
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "maharashtra-economic-development-council",
@@ -324,7 +418,9 @@
       ],
       "type": "think_tank",
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "bharathan-publications",
@@ -334,9 +430,13 @@
         "Bharathan Publications Pvt. Ltd."
       ],
       "type": "publisher_org",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "manaktalas",
@@ -348,7 +448,9 @@
       ],
       "type": "publisher_org",
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "shetkari-prakashan",
@@ -357,9 +459,14 @@
         "शेतकरी प्रकाशन"
       ],
       "type": "publisher_org",
-      "ideology": ["classical_liberal", "agrarian_reform"],
+      "ideology": [
+        "classical_liberal",
+        "agrarian_reform"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "initiative-for-open-society",
@@ -371,9 +478,13 @@
         "પહેલ કેન્દ (Initiative for Open Society)"
       ],
       "type": "publisher_org",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "libertarian-publishers",
@@ -383,9 +494,14 @@
         "Libertarian Publishers"
       ],
       "type": "publisher_org",
-      "ideology": ["classical_liberal", "libertarian"],
+      "ideology": [
+        "classical_liberal",
+        "libertarian"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "r-l-foundation",
@@ -394,17 +510,27 @@
         "RL Foundation"
       ],
       "type": "publisher_org",
-      "ideology": ["classical_liberal", "libertarian"],
+      "ideology": [
+        "classical_liberal",
+        "libertarian"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "libertarian-social-institute",
       "canonical": "Libertarian Social Institute",
       "type": "academic",
-      "ideology": ["classical_liberal", "libertarian"],
+      "ideology": [
+        "classical_liberal",
+        "libertarian"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "ford-foundation",
@@ -412,7 +538,9 @@
       "founded_year": 1936,
       "type": "international_network",
       "confidence": "canonical",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "council-of-asian-liberals-and-democrats",
@@ -422,27 +550,39 @@
       ],
       "founded_year": 1993,
       "type": "international_network",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "liberal-party-of-sri-lanka",
       "canonical": "Liberal Party of Sri Lanka",
       "founded_year": 1987,
       "type": "political_party",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "council-for-liberal-democracy",
       "canonical": "Council for Liberal Democracy",
       "founded_year": 1981,
       "type": "think_tank",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "brahmo-samaj",
@@ -452,9 +592,14 @@
       ],
       "founded_year": 1828,
       "type": "reform_society",
-      "ideology": ["constitutionalist", "reformist"],
+      "ideology": [
+        "constitutionalist",
+        "reformist"
+      ],
       "confidence": "canonical",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "satyashodhak-samaj",
@@ -466,9 +611,14 @@
       "founded_year": 1873,
       "dissolved_year": 1930,
       "type": "reform_society",
-      "ideology": ["reformist", "agrarian_reform"],
+      "ideology": [
+        "reformist",
+        "agrarian_reform"
+      ],
       "confidence": "high",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "academic-association-derozio",
@@ -479,9 +629,13 @@
       "founded_year": 1828,
       "dissolved_year": 1831,
       "type": "academic",
-      "ideology": ["reformist"],
+      "ideology": [
+        "reformist"
+      ],
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "hindu-college-calcutta",
@@ -493,7 +647,9 @@
       "founded_year": 1817,
       "type": "academic",
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "leslie-sawhny-centre",
@@ -502,17 +658,26 @@
         "Leslie Sawhny Programme of Training for Democracy"
       ],
       "type": "academic",
-      "ideology": ["classical_liberal"],
+      "ideology": [
+        "classical_liberal"
+      ],
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "the-radical-humanist",
       "canonical": "The Radical Humanist",
       "type": "publisher_org",
-      "ideology": ["humanist", "classical_liberal"],
+      "ideology": [
+        "humanist",
+        "classical_liberal"
+      ],
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "observer-research-foundation",
@@ -524,7 +689,9 @@
       "founded_year": 1990,
       "type": "think_tank",
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "john-templeton-foundation",
@@ -532,7 +699,9 @@
       "founded_year": 1987,
       "type": "international_network",
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "kisan-samvay-samiti",
@@ -542,9 +711,13 @@
         "Kisan Coordination Committee"
       ],
       "type": "reform_society",
-      "ideology": ["agrarian_reform"],
+      "ideology": [
+        "agrarian_reform"
+      ],
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "shetkari-mahila-aghadi",
@@ -554,9 +727,14 @@
         "Farmers' Women's Front"
       ],
       "type": "reform_society",
-      "ideology": ["agrarian_reform", "classical_liberal"],
+      "ideology": [
+        "agrarian_reform",
+        "classical_liberal"
+      ],
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "all-india-newspaper-editors-conference",
@@ -567,7 +745,9 @@
       "founded_year": 1940,
       "type": "professional_body",
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
     },
     {
       "id": "upasi",
@@ -579,7 +759,21 @@
       "founded_year": 1893,
       "type": "professional_body",
       "confidence": "medium",
-      "sources": ["phase-0.7-wave2-orgs-2026-05-17"]
+      "sources": [
+        "phase-0.7-wave2-orgs-2026-05-17"
+      ]
+    },
+    {
+      "id": "a-d-shroff-memorial-trust",
+      "name": {
+        "canonical": "A. D. Shroff Memorial Trust",
+        "sort": "A. D. Shroff Memorial Trust",
+        "also_known_as": []
+      },
+      "type": "publisher_org",
+      "ideology": [],
+      "bio_source": "imported",
+      "needs_review": true
     }
   ],
   "byline_lookup": {
