@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import { inlineMd } from "~/lib/inline-md";
 
 const opinions = (await getCollection("opinions", (o) => !o.data.draft && o.data.language === "en")).sort(
   (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
@@ -246,9 +247,10 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
                   {o.data.title}
                 </h2>
                 {o.data.pull_quote && (
-                  <p class="text-sm text-(--color-fg-muted) italic mt-2 line-clamp-2">
-                    "{o.data.pull_quote}"
-                  </p>
+                  <p
+                    class="text-sm text-(--color-fg-muted) italic mt-2 line-clamp-2"
+                    set:html={`&ldquo;${inlineMd(o.data.pull_quote)}&rdquo;`}
+                  />
                 )}
               </a>
             </li>
