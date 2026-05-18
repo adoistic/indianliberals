@@ -1,0 +1,36 @@
+{
+  "states_and_uts": [
+    "andhra-pradesh", "arunachal-pradesh", "assam", "bihar", "chhattisgarh",
+    "goa", "gujarat", "haryana", "himachal-pradesh", "jharkhand", "karnataka",
+    "kerala", "madhya-pradesh", "maharashtra", "manipur", "meghalaya", "mizoram",
+    "nagaland", "odisha", "punjab", "rajasthan", "sikkim", "tamil-nadu",
+    "telangana", "tripura", "uttar-pradesh", "uttarakhand", "west-bengal",
+    "andaman-and-nicobar-islands", "chandigarh", "dadra-and-nagar-haveli-and-daman-and-diu",
+    "delhi", "jammu-and-kashmir", "ladakh", "lakshadweep", "puducherry"
+  ],
+  "historical_units": [
+    "bombay-presidency",
+    "madras-presidency",
+    "bengal-presidency",
+    "united-provinces",
+    "central-provinces",
+    "princely-states"
+  ],
+  "countries": [
+    "united-kingdom", "united-states", "china", "japan", "soviet-union",
+    "russia", "pakistan", "bangladesh", "sri-lanka", "nepal", "bhutan",
+    "myanmar", "afghanistan", "iran", "germany", "france", "south-korea",
+    "singapore", "hong-kong", "australia", "canada", "brazil", "south-africa"
+  ],
+  "regional_aliases": {
+    "awadh": ["uttar-pradesh"],
+    "konkan": ["maharashtra", "goa", "karnataka"],
+    "vidarbha": ["maharashtra"],
+    "marathwada": ["maharashtra"],
+    "cow-belt": ["uttar-pradesh", "bihar", "madhya-pradesh", "rajasthan", "haryana"],
+    "the-south": ["tamil-nadu", "kerala", "karnataka", "andhra-pradesh", "telangana"],
+    "dravida": ["tamil-nadu", "kerala", "karnataka", "andhra-pradesh", "telangana"],
+    "the-northeast": ["assam", "meghalaya", "manipur", "tripura", "mizoram", "arunachal-pradesh", "nagaland", "sikkim"],
+    "west-up-and-haryana": ["uttar-pradesh", "haryana"]
+  }
+}
