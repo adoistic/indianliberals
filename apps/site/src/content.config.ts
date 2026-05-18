@@ -108,6 +108,30 @@ const organisations = defineCollection({
   }),
 });
 
+// ─── Classification dimensions shared by musings + opinions ────────────
+// Populated by the classification pass (scripts/synthesis/apply-classify.py).
+// See docs/superpowers/specs/2026-05-18-musings-opinions-classification-design.md
+const classificationFields = {
+  proposed_themes: z.array(z.string()).default([]),
+  key_concepts: z.array(z.string()).max(5).default([]),
+  pull_quote: z.string().optional(),
+  stance: z
+    .enum(['argues-for', 'argues-against', 'analyzes', 'profiles', 'commemorates'])
+    .optional(),
+  geographic_scope: z
+    .object({
+      scale: z
+        .enum(['national', 'regional', 'bi-regional', 'international-comparison'])
+        .optional(),
+      places: z.array(z.string()).default([]),
+    })
+    .optional(),
+  period_window: z
+    .enum(['pre-independence', 'nehruvian-era', 'late-license-raj', 'reform-era', 'post-reform'])
+    .optional(),
+  source_channel: z.string().optional(),
+};
+
 // ─── Tier A: musings (excerpts from primary works) ─────────────────────
 
 const musings = defineCollection({
@@ -125,6 +149,17 @@ const musings = defineCollection({
     related_thinkers: z.array(reference('thinkers')).default([]),
     thinker_mentions: z.array(thinkerMention).default([]),
     themes: z.array(z.string()).default([]),
+    ...classificationFields,
+    kind: z
+      .enum([
+        'book-excerpt',
+        'pamphlet-excerpt',
+        'speech-excerpt',
+        'lecture',
+        'periodical-article',
+        'letter',
+      ])
+      .optional(),
     ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
@@ -154,6 +189,17 @@ const opinions = defineCollection({
     related_works: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
     thinker_mentions: z.array(thinkerMention).default([]),
+    ...classificationFields,
+    kind: z
+      .enum([
+        'profile',
+        'commentary',
+        'review',
+        'obituary',
+        'event-coverage',
+        'editorial',
+      ])
+      .optional(),
     ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
