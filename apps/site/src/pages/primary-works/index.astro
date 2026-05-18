@@ -1,14 +1,9 @@
 ---
-// Primary-works index — chronological list of all extracted/imported works.
+// Primary-works index — chronological list with faceted client-side filters.
 //
-// Day 7 skeleton. Day 8 will add:
-//  - faceted filter UI (work_type, year decade, theme, author)
-//  - per-decade clustering
-//  - sort toggles (year asc/desc, alphabetical)
-//
-// For now: chronological reverse-order list with byline + year. Each item
-// is wrapped in data-pagefind-ignore so the list page itself isn't indexed
-// as a result — only the per-work detail pages are.
+// Filters (Type / Decade / Theme) are pure client-side JS toggling `<li>`
+// visibility via data-* attributes. No server, no API; works on the static
+// build. Reset button clears all selections.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
@@ -42,6 +37,27 @@ for (const w of works) {
 }
 
 const totalCount = works.length;
+
+// Build facet vocabularies for the filter UI.
+const typeCounts = new Map<string, number>();
+const themeCounts = new Map<string, number>();
+for (const w of works) {
+  const t = w.data.work_type;
+  typeCounts.set(t, (typeCounts.get(t) ?? 0) + 1);
+  for (const th of w.data.themes ?? []) {
+    themeCounts.set(th, (themeCounts.get(th) ?? 0) + 1);
+  }
+}
+
+// Order: type alphabetical; themes by count desc (most-used first)
+const typeOptions = [...typeCounts.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+const themeOptions = [...themeCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 30); // top 30 themes
+const decadeOptions = decades.map((d) => ({ label: d.label, start: d.start, count: d.works.length }));
+
+// Helper for the data attribute that holds space-joined themes.
+function themesAttr(w: (typeof works)[number]): string {
+  return (w.data.themes ?? []).join(" ");
+}
 ---
 
 <BaseLayout
@@ -64,10 +80,70 @@ const totalCount = works.length;
     </div>
   </section>
 
-  <div class="mx-auto max-w-5xl px-6 py-12" data-pagefind-ignore>
+  {/* Filter toolbar */}
+  <div class="border-b border-(--color-border) bg-(--color-bg-muted) sticky top-[4.75rem] z-30 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg-muted)/85" data-pagefind-ignore>
+    <div class="mx-auto max-w-5xl px-6 py-4 font-(family-name:--font-ui)">
+      <div class="flex items-baseline justify-between gap-4 mb-3 flex-wrap">
+        <div class="flex items-baseline gap-3">
+          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+          <span id="pw-counter" class="text-sm text-(--color-fg-muted)">
+            Showing <strong id="pw-counter-visible" class="text-(--color-fg)">{totalCount}</strong> of <strong>{totalCount}</strong>
+          </span>
+        </div>
+        <button id="pw-reset" type="button" class="text-xs uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+          Reset filters
+        </button>
+      </div>
+
+      <div class="space-y-2 text-sm">
+        <div class="flex flex-wrap gap-2 items-center">
+          <span class="text-xs uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16">Type</span>
+          {typeOptions.map(([t, n]) => (
+            <button
+              type="button"
+              data-filter-type={t}
+              class="pw-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+            >
+              {t.replace(/_/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
+            </button>
+          ))}
+        </div>
+
+        <div class="flex flex-wrap gap-2 items-center">
+          <span class="text-xs uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16">Decade</span>
+          {decadeOptions.map((d) => (
+            <button
+              type="button"
+              data-filter-decade={String(d.start)}
+              class="pw-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+            >
+              {d.label} <span class="text-(--color-fg-muted)">({d.count})</span>
+            </button>
+          ))}
+        </div>
+
+        <details class="mt-1">
+          <summary class="text-xs uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none w-fit hover:text-(--color-fg)">Themes ▾</summary>
+          <div class="flex flex-wrap gap-2 items-center mt-2">
+            {themeOptions.map(([th, n]) => (
+              <button
+                type="button"
+                data-filter-theme={th}
+                class="pw-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+              >
+                {th.replace(/_/g, " ").replace(/-/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
+              </button>
+            ))}
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-5xl px-6 py-12" data-pagefind-ignore id="pw-list">
     {decades.map((d) => (
-      <section class="mb-12">
-        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[5rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
+      <section class="mb-12 pw-section" data-decade={String(d.start)}>
+        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[10rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
           {d.label}
         </h2>
         <ul class="divide-y divide-(--color-border)">
@@ -81,7 +157,12 @@ const totalCount = works.length;
               .filter(Boolean)
               .join(", ");
             return (
-              <li class="py-5">
+              <li
+                class="pw-item py-5"
+                data-type={w.data.work_type}
+                data-decade={String(d.start)}
+                data-themes={themesAttr(w)}
+              >
                 <a href={`/primary-works/${w.id}/`} class="block group no-underline">
                   <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
                     {w.data.title.main}
@@ -102,5 +183,86 @@ const totalCount = works.length;
         </ul>
       </section>
     ))}
+    <p id="pw-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
+      No works match the current filter. Try removing some criteria.
+    </p>
   </div>
+
+  <script is:inline>
+    // Client-side faceted filtering for /primary-works/.
+    // State lives in Sets; toggling a chip flips active class + filters items.
+    (function () {
+      const state = { type: new Set(), decade: new Set(), theme: new Set() };
+      const items = Array.from(document.querySelectorAll('.pw-item'));
+      const sections = Array.from(document.querySelectorAll('.pw-section'));
+      const totalEl = document.getElementById('pw-counter-visible');
+      const resetBtn = document.getElementById('pw-reset');
+      const emptyEl = document.getElementById('pw-empty');
+      const ACTIVE = ['bg-(--color-saffron-500)', 'text-white', 'border-(--color-saffron-500)'];
+      const IDLE = ['bg-(--color-bg)', 'text-(--color-fg)', 'border-(--color-border)'];
+
+      function applyFilters() {
+        let visible = 0;
+        for (const li of items) {
+          const t = li.dataset.type;
+          const d = li.dataset.decade;
+          const themes = (li.dataset.themes || '').split(/\s+/).filter(Boolean);
+          const matchType   = state.type.size === 0 || state.type.has(t);
+          const matchDecade = state.decade.size === 0 || state.decade.has(d);
+          const matchTheme  = state.theme.size === 0 || themes.some((x) => state.theme.has(x));
+          const show = matchType && matchDecade && matchTheme;
+          li.style.display = show ? '' : 'none';
+          if (show) visible++;
+        }
+        // Hide whole section if all its <li> are hidden
+        for (const sec of sections) {
+          const anyVisible = Array.from(sec.querySelectorAll('.pw-item')).some(
+            (li) => li.style.display !== 'none'
+          );
+          sec.style.display = anyVisible ? '' : 'none';
+        }
+        if (totalEl) totalEl.textContent = String(visible);
+        if (emptyEl) emptyEl.classList.toggle('hidden', visible !== 0);
+        if (resetBtn) {
+          const anyActive = state.type.size + state.decade.size + state.theme.size > 0;
+          resetBtn.classList.toggle('hidden', !anyActive);
+        }
+      }
+
+      function toggleChip(btn, facet, value) {
+        const set = state[facet];
+        if (set.has(value)) {
+          set.delete(value);
+          IDLE.forEach((c) => btn.classList.add(c));
+          ACTIVE.forEach((c) => btn.classList.remove(c));
+        } else {
+          set.add(value);
+          ACTIVE.forEach((c) => btn.classList.add(c));
+          IDLE.forEach((c) => btn.classList.remove(c));
+        }
+        applyFilters();
+      }
+
+      document.querySelectorAll('.pw-chip').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          if (btn.dataset.filterType) toggleChip(btn, 'type', btn.dataset.filterType);
+          else if (btn.dataset.filterDecade) toggleChip(btn, 'decade', btn.dataset.filterDecade);
+          else if (btn.dataset.filterTheme) toggleChip(btn, 'theme', btn.dataset.filterTheme);
+        });
+      });
+
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          state.type.clear();
+          state.decade.clear();
+          state.theme.clear();
+          document.querySelectorAll('.pw-chip').forEach((btn) => {
+            ACTIVE.forEach((c) => btn.classList.remove(c));
+            IDLE.forEach((c) => btn.classList.add(c));
+          });
+          applyFilters();
+        });
+      }
+    })();
+  </script>
 </BaseLayout>

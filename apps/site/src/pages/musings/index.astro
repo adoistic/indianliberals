@@ -5,6 +5,21 @@ import { getCollection } from "astro:content";
 const musings = (await getCollection("musings", (m) => !m.data.draft && m.data.language === "en")).sort(
   (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
 );
+
+// Facet vocabularies for the filter chips.
+const themeCounts = new Map<string, number>();
+const decadeCounts = new Map<number, number>();
+for (const m of musings) {
+  for (const th of m.data.themes ?? []) themeCounts.set(th, (themeCounts.get(th) ?? 0) + 1);
+  const y = new Date(m.data.pubDate).getFullYear();
+  const dec = Math.floor(y / 10) * 10;
+  decadeCounts.set(dec, (decadeCounts.get(dec) ?? 0) + 1);
+}
+const themeOptions = [...themeCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .filter(([t]) => t !== "so-musings")
+  .slice(0, 30);
+const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
 ---
 
 <BaseLayout
@@ -22,25 +37,144 @@ const musings = (await getCollection("musings", (m) => !m.data.draft && m.data.l
       </p>
     </div>
   </section>
+
+  {/* Filter toolbar */}
+  <div class="border-b border-(--color-border) bg-(--color-bg-muted) sticky top-[4.75rem] z-30 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg-muted)/85">
+    <div class="mx-auto max-w-3xl px-6 py-4 font-(family-name:--font-ui)">
+      <div class="flex items-baseline justify-between gap-4 mb-3 flex-wrap">
+        <div class="flex items-baseline gap-3">
+          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+          <span class="text-sm text-(--color-fg-muted)">
+            Showing <strong id="m-counter-visible" class="text-(--color-fg)">{musings.length}</strong> of <strong>{musings.length}</strong>
+          </span>
+        </div>
+        <button id="m-reset" type="button" class="text-xs uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+          Reset filters
+        </button>
+      </div>
+
+      <div class="space-y-2 text-sm">
+        <div class="flex flex-wrap gap-2 items-center">
+          <span class="text-xs uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16">Decade</span>
+          {decadeOptions.map(([d, n]) => (
+            <button
+              type="button"
+              data-filter-decade={String(d)}
+              class="m-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+            >
+              {d}s <span class="text-(--color-fg-muted)">({n})</span>
+            </button>
+          ))}
+        </div>
+
+        {themeOptions.length > 0 && (
+          <details class="mt-1">
+            <summary class="text-xs uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none w-fit hover:text-(--color-fg)">Themes ▾</summary>
+            <div class="flex flex-wrap gap-2 items-center mt-2">
+              {themeOptions.map(([th, n]) => (
+                <button
+                  type="button"
+                  data-filter-theme={th}
+                  class="m-chip px-2.5 py-1 bg-(--color-bg) border border-(--color-border) rounded-full text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
+                >
+                  {th.replace(/[_-]/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
+                </button>
+              ))}
+            </div>
+          </details>
+        )}
+      </div>
+    </div>
+  </div>
+
   <section>
     <div class="mx-auto max-w-3xl px-6 py-12">
-      <p class="text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui)">
-        {musings.length} {musings.length === 1 ? "excerpt" : "excerpts"}.
-      </p>
-      <ul class="divide-y divide-(--color-border)">
-        {musings.map((m) => (
-          <li class="py-6">
-            <a href={`/musings/${m.id}/`} class="block no-underline group">
-              <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
-                {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
-              </p>
-              <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
-                {m.data.title}
-              </h2>
-            </a>
-          </li>
-        ))}
+      <ul class="divide-y divide-(--color-border)" id="m-list">
+        {musings.map((m) => {
+          const y = new Date(m.data.pubDate).getFullYear();
+          const dec = Math.floor(y / 10) * 10;
+          return (
+            <li
+              class="m-item py-6"
+              data-decade={String(dec)}
+              data-themes={(m.data.themes ?? []).join(" ")}
+            >
+              <a href={`/musings/${m.id}/`} class="block no-underline group">
+                <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
+                  {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+                </p>
+                <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
+                  {m.data.title}
+                </h2>
+              </a>
+            </li>
+          );
+        })}
       </ul>
+      <p id="m-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
+        No musings match the current filter. Try removing some criteria.
+      </p>
     </div>
   </section>
+
+  <script is:inline>
+    (function () {
+      const state = { decade: new Set(), theme: new Set() };
+      const items = Array.from(document.querySelectorAll('.m-item'));
+      const totalEl = document.getElementById('m-counter-visible');
+      const resetBtn = document.getElementById('m-reset');
+      const emptyEl = document.getElementById('m-empty');
+      const ACTIVE = ['bg-(--color-saffron-500)', 'text-white', 'border-(--color-saffron-500)'];
+      const IDLE = ['bg-(--color-bg)', 'text-(--color-fg)', 'border-(--color-border)'];
+
+      function applyFilters() {
+        let visible = 0;
+        for (const li of items) {
+          const d = li.dataset.decade;
+          const themes = (li.dataset.themes || '').split(/\s+/).filter(Boolean);
+          const matchDecade = state.decade.size === 0 || state.decade.has(d);
+          const matchTheme  = state.theme.size === 0 || themes.some((x) => state.theme.has(x));
+          const show = matchDecade && matchTheme;
+          li.style.display = show ? '' : 'none';
+          if (show) visible++;
+        }
+        if (totalEl) totalEl.textContent = String(visible);
+        if (emptyEl) emptyEl.classList.toggle('hidden', visible !== 0);
+        if (resetBtn) resetBtn.classList.toggle('hidden', state.decade.size + state.theme.size === 0);
+      }
+
+      function toggle(btn, facet, value) {
+        const set = state[facet];
+        if (set.has(value)) {
+          set.delete(value);
+          IDLE.forEach((c) => btn.classList.add(c));
+          ACTIVE.forEach((c) => btn.classList.remove(c));
+        } else {
+          set.add(value);
+          ACTIVE.forEach((c) => btn.classList.add(c));
+          IDLE.forEach((c) => btn.classList.remove(c));
+        }
+        applyFilters();
+      }
+
+      document.querySelectorAll('.m-chip').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          if (btn.dataset.filterDecade) toggle(btn, 'decade', btn.dataset.filterDecade);
+          else if (btn.dataset.filterTheme) toggle(btn, 'theme', btn.dataset.filterTheme);
+        });
+      });
+
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          state.decade.clear();
+          state.theme.clear();
+          document.querySelectorAll('.m-chip').forEach((btn) => {
+            ACTIVE.forEach((c) => btn.classList.remove(c));
+            IDLE.forEach((c) => btn.classList.add(c));
+          });
+          applyFilters();
+        });
+      }
+    })();
+  </script>
 </BaseLayout>
