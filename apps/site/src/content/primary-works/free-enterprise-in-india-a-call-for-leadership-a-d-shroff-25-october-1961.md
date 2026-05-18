@@ -84,11 +84,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Free Enterprise in India — A Call For Leadership
-
-*By A. D. Shroff*
-
 ## Summary
 
 Delivered as A. D. Shroff's presidential address at the fifth annual general body meeting of the Forum of Free Enterprise in Bombay on 25 October 1961, this pamphlet mounts a sustained critique of India's Third Five-Year Plan as a 'carbon copy of the Soviet Communist model of planning.' Shroff argues that doctrinaire socialism is unsuited to India's democratic life, citing converging evidence from the Soviet Union (Khrushchev's cautions on wages and incentives), China (the Big Leap Forward's failure and the emergence of 'small freedoms'), Yugoslavia, Poland, and France that even communist and socialist economies are quietly shifting toward market signals, price formation, and private initiative. He marshals Wilhelm Roepke on the time horizon of economic activity, Arthur Larson on consumer sovereignty, and Colin Clark on the human—not capital—factor in growth to argue that state-led investment without legal-institutional foundations wastes resources and lowers public morals.

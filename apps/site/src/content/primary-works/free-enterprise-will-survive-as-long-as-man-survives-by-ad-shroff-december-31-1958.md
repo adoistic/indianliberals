@@ -65,11 +65,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE ENTERPRISE WILL SURVIVE AS LONG AS MAN SURVIVES
-
-*By A. D. Shroff*
-
 ## Summary
 
 A. D. Shroff replies to a recent batch of speeches by Prime Minister Jawaharlal Nehru that attacked the private sector, in particular a Calcutta address in which Nehru reportedly said critics in the Private Sector 'can be swept away with a broomstick.' Shroff treats this as evidence of irritation rather than argument: Nehru, he writes, has the political power to wield such a broom but cannot have any permanent effect, and the very sensitiveness on display is 'a weakness of small men born of the consciousness of having made mistakes and not having the moral courage to acknowledge them.' He pointedly contrasts the 'champion Democrat' with General Ayub Khan, whom Nehru has himself described as representing a 'naked military dictatorship', to suggest the Prime Minister's intolerance of dissent sits uneasily with his democratic claims.

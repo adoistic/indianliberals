@@ -42,9 +42,6 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
 ---
-
-# IS INDIAN AIRLINES CORPORATION FAIR TO THE PUBLIC?
-
 ## Summary
 
 This Forum of Free Enterprise leaflet — reproduced from an August 1961 editorial in Asian & Indian Skyways — mounts a sustained critique of the Indian Airlines Corporation (IAC) as a case study in the inefficiencies that follow nationalisation. The author opens by conceding that air transport is a national necessity and a public service, but argues that IAC has betrayed both its private-sector predecessors and the travelling public through cost-padding, fare hikes, and an absolute refusal to be challenged. Returning to the August 1953 takeover under Minister for Transport and Communications Jagjivan Ram, the leaflet recalls the original promise that no employee would suffer from nationalisation, then walks through eight years of IAC annual reports to show that this guarantee curdled into a permanent expansion of payroll bearing no relationship to operational need.

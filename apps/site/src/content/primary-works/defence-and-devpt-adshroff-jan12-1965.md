@@ -73,11 +73,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Defence & Development with Stability
-
-*By A. D. Shroff*
-
 ## Summary
 
 Defence & Development with Stability is the text of A. D. Shroff's presidential address at the eighth annual general meeting of the Forum of Free Enterprise, delivered in Bombay on 9 December 1964 and published as a Forum pamphlet in January 1965. Shroff frames India's economic challenge along three axes: the rapid-development goal set by the 1948 First Industrial Policy Resolution, the dimension of defence forced on national consciousness by the Chinese aggression of 1962, and the new dimension of stability raised by the 1964 price upswing. Drawing on Adam Smith, Friedrich List, Hamilton, Jefferson, Clausewitz and the military commentator Edward Mead Earle, he argues that defence is the prior condition of liberty and prosperity, and that the political, psychological and economic foundations of defence are inseparable from the country's productive base.

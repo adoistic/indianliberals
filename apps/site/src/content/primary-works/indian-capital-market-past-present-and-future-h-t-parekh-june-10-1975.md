@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_formal_toc
   - publisher_not_in_authority
 ---
-
-# Indian Capital Market — Past, Present & Future
-
-*By H. T. PAREKH*
-
 ## Summary
 
 H. T. Parekh's 1975 A. D. Shroff Memorial Lecture surveys the Indian capital market in three movements — past (up to Independence), present (the quarter-century from 1947 to 1974), and future (the next quarter-century). The opening pages frame the address as a personal homage: Parekh, then chairman of the Industrial Credit and Investment Corporation of India, regards A. D. Shroff as his 'Guru' and credits him as the moving spirit behind ICICI itself. He pauses to honour the Forum of Free Enterprise as a continuing instrument of public economic education.

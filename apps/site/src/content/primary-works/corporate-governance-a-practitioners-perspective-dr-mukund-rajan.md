@@ -51,11 +51,6 @@ missing_metadata_flags:
   - series_number_not_printed_in_chunk
   - colophon_not_in_chunk
 ---
-
-# Corporate Governance – A Practitioner's Perspective
-
-*By Dr. Mukund Rajan*
-
 ## Summary
 
 Corporate Governance — A Practitioner's Perspective is the printed text of Dr. Mukund Rajan's inaugural keynote at the Forum of Free Enterprise's residential program on taxation held 2–4 August 2018 at the Gateway Hotel, Nashik. Speaking as a self-described practitioner who spent two decades inside the Tata Group, latterly as its Chief Ethics Officer, Rajan distinguishes ethics — 'doing the right things by stakeholders' and following the 'spirit' of right conduct — from compliance, which is rule-based and tracks the 'letter' of the law. He uses the Tata structure of Company and Local Ethics Counsellors and a separate cadre of Compliance Officers (for anti-bribery, anti-money-laundering, insider-trading and POSH matters) to illustrate how a large group operationalises both.

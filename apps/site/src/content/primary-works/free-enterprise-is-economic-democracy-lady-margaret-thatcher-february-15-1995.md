@@ -56,11 +56,6 @@ thinker_mentions:
         what_it_shows: concrete policy record offered as proof of concept for Indian liberalisers
 
 ---
-
-# Free Enterprise is Economic Democracy
-
-*By LADY MARGARET THATCHER*
-
 ## Summary
 
 This Forum of Free Enterprise booklet collects two excerpts from Lady Margaret Thatcher: a keynote address delivered in Bombay on 9 September 1994 under the Citibank Leadership Speaker Series ("Free Enterprise is Economic Democracy"), and a lecture titled "The New World Order" given at the Fraser Institute's 20th Anniversary luncheon in Vancouver in 1994. Together they amount to a compressed manifesto of Thatcherism reframed for an Indian audience on the cusp of liberalisation.

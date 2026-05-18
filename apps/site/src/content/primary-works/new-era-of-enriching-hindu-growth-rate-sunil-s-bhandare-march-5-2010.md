@@ -39,11 +39,6 @@ physical:
   pages_total_source: pypdfium2
   format: Stapled booklet / pamphlet
 ---
-
-# New Era of Enriching Hindu Growth Rate
-
-*By Sunil S. Bhandare*
-
 ## Summary
 
 Sunil S. Bhandare's booklet, published by the Forum of Free Enterprise in March 2010 and adapted from an article in MEDC's Monthly Economic Digest, charts India's exit from the so-called "Hindu growth rate" of roughly 3.5% per year that prevailed across the first four decades of planning (1950-89), through the "neo-Hindu" rate of 5.5% in the 1990s, to what he names a third phase: an "Enriching Hindu Growth" (EHG) decade in which real GDP averaged above 7% from 2000-01 to 2009-10, peaking at a historic 8.5%. He frames this as a benchmark-setting consolidation of the post-1991 reform process — "an irreversible process of economic reforms" — and as the moment India is being recognised as a formidable emerging economic power.

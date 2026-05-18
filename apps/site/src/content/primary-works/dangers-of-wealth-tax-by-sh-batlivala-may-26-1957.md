@@ -44,11 +44,6 @@ physical:
 missing_metadata_flags:
   - author_not_in_authority_file
 ---
-
-# DANGERS OF WEALTH TAX
-
-*By By S. H. Batliwala*
-
 ## Summary
 
 S. H. Batlivala's short polemic, reprinted from The Times of India of 26 May 1957 by the Forum of Free Enterprise, attacks the Wealth Tax and Expenditure Tax that India's recent budget had introduced as instruments to move the country towards 'our special brand of socialistic society.' Batlivala argues that experts were not properly consulted before this experiment was launched, and that a glance at recent economic history would have shown the dangers. He notes that the very same form of taxation was contemplated more than a quarter-century earlier in conservative, economically advanced Britain — and rejected after due deliberation.

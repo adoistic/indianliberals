@@ -65,11 +65,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Customer Protection in Banks – Emerging Issues and Challenges
-
-*By Dr. K. C. Chakrabarty*
-
 ## Summary
 
 Dr. K. C. Chakrabarty, then Deputy Governor of the Reserve Bank of India, delivers the Eighth M. R. Pai Memorial Lecture in Mumbai on 6 September 2012. The Pai Award that year goes to SEWA — the Self-Employed Women's Association — and the function is jointly organised by Punjab & Maharashtra Co-operative Bank and the All-India Bank Depositors' Association (AIBDA). Chakrabarty uses the occasion to frame customer protection as a 'central issue' for developing economies opening their financial sectors, and to position Pai's lifelong advocacy of fair treatment, transparency, and non-exploitative pricing as the moral throughline that ties the older consumer-rights tradition to today's regulatory agenda.

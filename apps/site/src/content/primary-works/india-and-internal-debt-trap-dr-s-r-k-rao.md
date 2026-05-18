@@ -43,11 +43,6 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_explicit_series_number
 ---
-
-# INDIA AND INTERNAL DEBT TRAP
-
-*By Dr. S.R.K. Rao*
-
 ## Summary
 
 Delivered as the M.V. Sirur Memorial Lecture in Hubli in February 1999 and published by the Forum of Free Enterprise, this pamphlet by Dr. S.R.K. Rao — a former Principal Adviser to the Reserve Bank of India — diagnoses the late-1990s Indian economy and warns that the Centre is sliding into what he had earlier christened the "Internal Debt Trap". After acknowledging genuine post-Independence achievements in foodgrains, fertilisers, heavy industry, banking spread and infotech, Rao argues that these gains are dwarfed by population pressure, persistent mass poverty, sluggish 1998-99 GDP growth, agricultural stagnation, industrial deceleration and a fragile external sector marked by widening trade and current-account deficits and only a trickle of FDI relative to China.

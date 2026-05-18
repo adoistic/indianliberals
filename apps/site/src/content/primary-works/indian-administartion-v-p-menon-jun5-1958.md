@@ -45,11 +45,6 @@ missing_metadata_flags:
   - no_explicit_imprint_year_on_title_page
   - author_not_in_authority_subset
 ---
-
-# INDIAN ADMINISTRATION
-
-*By V. P. MENON*
-
 ## Summary
 
 V. P. Menon's pamphlet, based on his 5 August 1958 Forum of Free Enterprise lecture in Bombay, surveys two centuries of Indian administration to argue that the post-Independence machinery has slid into disorganisation. He sketches the East India Company's chaotic early rule, the slow rationalisation through Pitt's Act of 1784, Warren Hastings's system-building, the Crown takeover in 1857, and the steady professionalisation of the Indian Civil Service that, by 1914, made Indian government 'a machine that stood up, in fact, through two World Wars.' That inherited efficiency, he says, has been squandered.

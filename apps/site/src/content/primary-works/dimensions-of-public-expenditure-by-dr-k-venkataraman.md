@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority
 ---
-
-# Dimensions of Public Expenditure Management
-
-*By Dr. K. Venkataraman, I.A.S. (Retd.)*
-
 ## Summary
 
 Dr. K. Venkataraman, a former civil servant and Chairman of the Public Expenditure Round Table (PERT) in Chennai, uses this Forum of Free Enterprise booklet to argue that India's public expenditure has grown into a quietly destabilising force that academic and political debate has neglected. Drawing on numbers through the late 1990s, he documents that Central Government expenditure was doubling roughly every five years through the 1980s and 1990s, that the combined fiscal deficit of the Centre and the States hovered near 10% of GDP, and that as much as 86% of the Centre's internal borrowings were going to service existing debt — a trajectory he labels a possible "debt trap" in which an entire revenue budget could one day be consumed by interest payments alone.

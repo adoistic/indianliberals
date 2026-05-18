@@ -41,11 +41,6 @@ missing_metadata_flags:
   - pamphlet_reissue_year_not_printed
   - ffe_pamphlet_series_number_not_printed
 ---
-
-# LIMITATIONS OF NATIONALISATION
-
-*By By S. NARAYANA AIYAR*
-
 ## Summary
 
 S. Narayana Aiyar's "Limitations of Nationalisation" — reprinted by the Forum of Free Enterprise from Swarajya (Madras), 1 December 1956 — is a first-person indictment of state ownership drawn from the author's own career. Aiyar served as an Assistant Engineer at the privately run Bombay Telephone Company before its nationalisation, then spent ten further years inside the Government of India's telephone service (seven as Engineer at Bombay, three as Manager of Telephones, Madras). Day after day, he writes, he had "burnt into" him the lesson that government management does not work. When the State took over on 1 April 1943, one of its first acts — switching stores control from the Bombay Telephone Manager to the Chief Controller of Telegraphic Stores at Calcutta — produced an immediate collapse in service: telephone parts became unobtainable and his old colleagues, who had warned him "when Government comes our efficiency will disappear," were proved "dead right."

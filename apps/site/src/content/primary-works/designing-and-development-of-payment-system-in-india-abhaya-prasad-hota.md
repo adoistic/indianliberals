@@ -76,11 +76,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Designing and Development of Payment System in India
-
-*By Abhaya Prasad Hota*
-
 ## Summary
 
 This Forum of Free Enterprise booklet prints the acceptance speech that Abhaya Prasad Hota — former Chief General Manager of the Reserve Bank of India and former MD & CEO of the National Payments Corporation of India (NPCI) — delivered on receiving the Thirteenth M. R. Pai Memorial Award in Mumbai on 21st August 2017. The volume opens with a biographical note on M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956 and went on to fight a long series of public-interest battles against telephone departments, banks, Indian Airlines and other monopolies. It is followed by a recorded tribute from Suresh Prabhu, then Union Minister of Commerce and Industry, and an editorial introduction by Sunil S. Bhandare that frames Hota's career as a continuation of Pai's consumer-protection mission, this time through the architecture of payment systems rather than the courts.

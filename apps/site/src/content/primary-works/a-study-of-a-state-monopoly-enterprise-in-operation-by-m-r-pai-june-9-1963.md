@@ -41,9 +41,6 @@ missing_metadata_flags:
   - no_separate_title_page
   - author_unclear
 ---
-
-# A Study of a State Monopoly Enterprise in Operation
-
 ## Summary
 
 M. R. Pai's two-page Forum of Free Enterprise leaflet, dated 9 June 1963, is a tightly argued critique of the Life Insurance Corporation as a working example of a state monopoly. Pai opens by recalling the Forum's 1956 manifesto, which warned that monopoly of any kind — public or private — would upset the delicate mechanism of a free and democratic social order, leaving consumers, workers, investors and entrepreneurs all stripped of meaningful choice. He frames the LIC's recent annual statement as a case study that vindicates that warning.

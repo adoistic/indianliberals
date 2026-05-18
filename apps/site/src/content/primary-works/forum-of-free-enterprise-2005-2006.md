@@ -97,11 +97,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# The Forum of Free Enterprise
-
-*By Sucheta Dalal*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet reproduces a long extract from Sucheta Dalal's biography 'A.D. Shroff — Titan of Finance Free Enterprise' (Viking/Penguin India, 2000), retelling the institutional origin story of the Forum against the backdrop of the high noon of Nehruvian socialism. The text opens in 1956, with the Congress's 1954 Avadi Resolution committing the country to a 'socialistic pattern of society', Marxist rhetoric becoming the lingua franca of public life, the second wave of nationalisations (transport, then life insurance) advancing, and the income-tax department running an intimidation campaign against the Tatas, Birlas and Sarabhais. Shroff — chairman of New India Assurance, signatory to the 1944 Bombay Plan, and member of Nehru's own National Planning Council — is portrayed not as an opponent of planning but as the one industrialist unwilling to be silenced by it.

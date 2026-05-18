@@ -65,11 +65,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# A Viable Agriculture Policy for Sustained Growth
-
-*By S. S. Tarapore*
-
 ## Summary
 
 S. S. Tarapore — economist and former Deputy Governor of the Reserve Bank of India — uses this Forum of Free Enterprise booklet (a reprint of his April–June 2012 Inclusion article, framed by an introduction from editor Sunil S. Bhandare) to argue that Indian agriculture has been hollowed out by a development model that lets the share of agriculture in GDP fall to 14.4 per cent while seventy per cent of the population still lives in rural areas. Writing against the looming 2012-13 drought, he warns that if this 'sectoral distribution of income' is not corrected, the resulting rural-to-urban migration will not be absorbed by Indian cities and will produce a 'severe social explosion'.

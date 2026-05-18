@@ -51,11 +51,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Convertibility of Rupee on Capital Account
-
-*By Dr. S.R.K. Rao*
-
 ## Summary
 
 Dr. S.R.K. Rao's pamphlet, based on a 30 September 1997 talk under the auspices of the Forum of Free Enterprise, is a primer on capital account convertibility (CAC) and a stocktaking of where India stood at that moment. Rao defines convertibility on capital account as the freedom to swap local for foreign financial assets and vice versa at market-determined exchange rates without government controls, then lists its advantages: deeper integration with the global economy, cheaper access to foreign capital, portfolio diversification, alignment of domestic with international interest and tax regimes, deterrence of capital flight, and the development of a derivatives and risk-management market.

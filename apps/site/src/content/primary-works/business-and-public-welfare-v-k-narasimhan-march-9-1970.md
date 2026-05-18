@@ -66,9 +66,6 @@ missing_metadata_flags:
   - no_formal_toc_page
   - final_statement_tail_truncated_or_unpaginated
 ---
-
-# Business and Public Welfare
-
 ## Summary
 
 This pamphlet collects the background papers prepared for the Forum of Free Enterprise's February 1970 convention on Business and Public Welfare, held in Bombay, together with the convention's seven-point Final Statement adopted on 2 February 1970. The four papers — by V. K. Narasimhan (Resident Editor, Indian Express), Mrs. Krpshna Basrur (Editor, Consumer Guidance Society Bulletin), C. G. Vaidya (Principal, Chintamanrao College of Commerce, Sangli) and Dr. Ramu Pandit (Former Executive Director, Fair Trade Practices Association) — examine, in turn, the constitutional protection of property and enterprise, the consumer's experience of adulteration and profiteering, the public-private balance in India's mixed economy, and the image of the businessman in post-Independence society.

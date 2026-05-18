@@ -63,11 +63,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# G 20 and India
-
-*By Dr. D. Subbarao*
-
 ## Summary
 
 Delivered as the 46th A. D. Shroff Memorial Lecture in Mumbai on 20 November 2012 under the auspices of the Forum of Free Enterprise, this address by Dr. D. Subbarao — then Governor of the Reserve Bank of India — offers a comprehensive account of the G20's origins, architecture, agenda and future challenges from the standpoint of a central banker who had participated directly in its deliberations. The lecture was published as a pamphlet and sponsored by New India Assurance Co. Ltd. Subbarao opens by honouring A. D. Shroff himself, noting the irony that this 'perceived Congress Economist' became one of the most trenchant critics of Congress economic policy, and that the liberalisation Shroff advocated from 1956 onwards did not fully arrive until the 1990s — a quarter-century after his death.

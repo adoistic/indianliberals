@@ -46,11 +46,6 @@ missing_metadata_flags:
   - no_isbn_visible
   - no_series_number_visible
 ---
-
-# INDIAN INDUSTRY IN POST-LIBERALISATION ERA
-
-*By S. S. Bhandare*
-
 ## Summary
 
 S. S. Bhandare, an economist and consultant with Tata Services Ltd., uses this Forum of Free Enterprise booklet to take stock of Indian industry roughly a decade after the July 1991 reforms. His verdict is mixed: quantitatively, post-reform industrial growth (averaging 6.5% in 1992–2001) has been only marginally better than the pre-reform decade's 6.3%, and the sector has become more volatile, with the coefficient of variation rising from 38.75 to 47.18. Qualitatively, however, he sees real gains — a liberalised and intensely competitive market, wider consumer choice, market-determined pricing, productivity drivers in manufacturing, and the compulsion to globalise both prices and profit margins.

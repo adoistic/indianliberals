@@ -40,9 +40,6 @@ missing_metadata_flags:
   - year_not_printed
   - author_not_named
 ---
-
-# Forum of Free Enterprise
-
 ## Summary
 
 This short institutional pamphlet is the founding manifesto of the Forum of Free Enterprise, the Bombay-based classical-liberal organisation set up in 1956 at 235 Dr. Dadabhai Naoroji Road. Built as a sequence of declarative 'WE BELIEVE' paragraphs, the text frames democracy and free enterprise as inseparable strands of 'the Indian way of life' and argues that the case for free enterprise is 'going by default' under sustained and unjustified attack — hence the Forum's reason for existing as a vehicle to 'educate public opinion on the fundamentals of Free Enterprise.'

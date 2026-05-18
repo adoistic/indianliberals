@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_series_number
   - author_not_in_authority
 ---
-
-# Economic Development and Conservation of Natural Resources
-
-*By ZAFAR FUTEHALLY*
-
 ## Summary
 
 Zafar Futehally's lecture, delivered on 23rd July 1971 under the auspices of the Forum of Free Enterprise and published as a Forum booklet in February 1972, argues that India's pursuit of economic development has proceeded without serious accounting for the natural-resource base on which civilisation rests. Distinguishing renewable resources (fresh water, clean air, soil, vegetation, animal life) from non-renewable ones (oil, coal, iron ore, minerals), he confines his attention to the renewable category and warns that even renewables collapse once their progenitor — nature itself — is destroyed. He marshals examples from the Sahara, the Rajasthan deserts, the silted hydrology of the Aswan Dam, the DDT load in the body fat of Delhi residents, and the deforestation-induced floods of South-East Asia to show that the over-exploitation of nature long predates synthetic chemicals and heavy machinery.

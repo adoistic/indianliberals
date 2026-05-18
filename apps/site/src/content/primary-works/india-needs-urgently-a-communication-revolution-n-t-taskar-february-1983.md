@@ -40,11 +40,6 @@ missing_metadata_flags:
   - series_number_not_visible
   - colophon_not_rendered
 ---
-
-# India Needs Urgently a Communication Revolution
-
-*By N.T. Taskar*
-
 ## Summary
 
 Marking the United Nations' 1983 World Communication Year, N. T. Taskar — a former Technical Director of the Department of Electronics with three decades inside Indian P&T — argues that India's poverty-removal agenda cannot succeed without a national communication revolution, and that the chief obstacle to that revolution is the Government of India itself. He opens with a brisk historical sketch: the British built telegraph and telephone networks to serve administration, defence and commerce, and (a point he stresses) deliberately left big-city telephone provision to the private sector for nearly sixty years, with Bombay, Karachi and Madras enjoying automatic exchanges while Calcutta languished on manual service until 1943.

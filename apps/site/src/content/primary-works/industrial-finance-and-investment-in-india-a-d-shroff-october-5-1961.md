@@ -41,11 +41,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_explicit_delivery_context_on_visible_pages
 ---
-
-# Industrial Finance and Investment in India
-
-*By A. D. Shroff*
-
 ## Summary
 
 A. D. Shroff's pamphlet, issued by the Forum of Free Enterprise in October 1961, is a two-part primer on how Indian industry raises long-term capital and on how the resulting securities are bought and sold. Part I walks the reader through the architecture of industrial finance: capital expenditure versus working capital, the gatekeeping role of the Controller of Capital Issues, and the distinct functions of equity, cumulative preference, debenture and (now-abolished) deferred capital. Shroff uses the Tata Iron and Steel Company's Rs.30 deferred shares — which rose to Rs.1,600 during the First World War — to illustrate both the upside and the speculative dangers of that vanished instrument. He notes that India lacks the issue houses and underwriting firms of Western markets, surveys the recent founding of ICICI (1955) as a partial remedy, and singles out Section 23-A(1) of the income-tax law as a perverse statute that punishes medium- and small-scale industries by forcing them to distribute 50% of profits and so prevents the very capital formation the country needs.

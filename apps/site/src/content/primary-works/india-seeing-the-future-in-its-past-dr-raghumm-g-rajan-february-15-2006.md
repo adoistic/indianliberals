@@ -53,11 +53,6 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
 ---
-
-# India: Seeing the Future in its Past
-
-*By Dr. Raghuram G. Rajan*
-
 ## Summary
 
 Delivered on 20 January 2006 in Mumbai as part of the Forum of Free Enterprise's Golden Jubilee series, this lecture by IMF Chief Economist Raghuram G. Rajan asks whether the 'buzz' surrounding India's growth at mid-decade is justified, and reads the answer back through the country's post-Independence policy history. Rajan opens by saluting A. D. Shroff and Nani Palkhivala as lonely voices of free enterprise during decades when Indian regulation, in his view, transferred wealth 'from the honest rich to the dishonest rich,' and positions himself, despite his international bureaucratic post, as a sympathetic visitor to that classical-liberal lineage. The booklet's front matter — M. R. Shroff's note on the Forum's fifty-year history and Sunil S. Bhandare's editor's preface — frames the lecture as a critique of planning that nonetheless credits the post-1980 'constrained adaptation' for India's diversified industrial base.

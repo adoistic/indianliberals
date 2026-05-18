@@ -44,11 +44,6 @@ missing_metadata_flags:
   - publication_year_not_printed_on_rendered_pages
   - colophon_not_in_chunk
 ---
-
-# Decade of Determination to Achieve Sustainable Development
-
-*By PROF. U.R. RAO*
-
 ## Summary
 
 Prof. U. R. Rao's T. A. Pai Memorial Lecture (delivered at Hyderabad in January 1997 and published by the Forum of Free Enterprise) frames the next ten years as a decisive window in which India must commit to 'integrated sustainable development' or face a catastrophe of mass starvation. Drawing on the 1992 Rio Summit's language of a 'defining moment in history,' Rao opens with a stark stocktaking of post-independence India: a fivefold rise in GNP and self-sufficiency in food grains since 1950, set against 47% illiteracy, 130-per-thousand under-five mortality, a $1,000 per-capita GDP, rank 135 of 175 on the human development index, and a forest cover below 20%. He attributes the gap between aggregate growth and human well-being to runaway population growth, environmental degradation, the negative repercussions of the Green Revolution, and inadequate human-capital investment.

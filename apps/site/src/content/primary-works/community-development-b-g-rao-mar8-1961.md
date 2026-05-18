@@ -52,11 +52,6 @@ missing_metadata_flags:
   - no_formal_toc
   - byline_not_in_authority
 ---
-
-# COMMUNITY DEVELOPMENT
-
-*By B. G. Rao, I.C.S. (Retd.)*
-
 ## Summary
 
 Published by the Forum of Free Enterprise as a booklet dated 8 March 1961 and based on a speech delivered under the Forum's auspices in Bombay on 15 September 1960, this essay by B. G. Rao, ICS (Retd.) is a systematic indictment of nine years of planned community development in India. Rao opens by insisting that his purpose is not to deny all progress but to name failure honestly: the Programme Evaluation Organisation's Seventh Report (April 1960) found that the effort was 'inadequately co-ordinated, governmental rather than popular in character, and sustained more by hope than by achievement.' The A.I.C.C.'s own Economic Review raised a series of uncomfortable questions that the draft Third Five-Year Plan then conspicuously refused to answer—a silence Rao treats as evidence that the Planning Commission preferred parliamentary rubber-stamping to inconvenient self-scrutiny.

@@ -54,11 +54,6 @@ thinker_mentions:
         what_it_shows: closing constitutional warning that gives the pamphlet its enduring force
 
 ---
-
-# FREE ENTERPRISE IN INDIA
-
-*By A. D. Shroff*
-
 ## Summary
 
 Free Enterprise in India is a short Forum of Free Enterprise pamphlet reproducing a 30 March 1956 Times of India article by A. D. Shroff. Writing in the immediate aftermath of the government's declared intention to establish a 'Socialist State' — the political setting of the Second Five Year Plan and the Industrial Policy Resolution of 1956 — Shroff argues that the future role of the private sector can be assessed only in that context. He reads two corollaries into the declaration: the state will assume increasing control of the means of production, and resources available to the private sector will be gradually diverted to the public sector.

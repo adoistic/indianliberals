@@ -106,11 +106,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Congress Misrule and the Swatantra Alternative
-
-*By M. R. Masani, M.P.*
-
 ## Summary
 
 In the rendered pages (front matter, foreword, introduction, and the opening of Section I), M. R. Masani assembles his parliamentary speeches into a sustained indictment of Congress economic policy and a programmatic case for the Swatantra Party as the only credible democratic alternative. C. Rajagopalachari's brief foreword frames the volume as criticism of the highest quality, arguing that the Swatantra Party exists to give India good government. Masani's own Introduction, written on the eve of the 1967 General Elections, addresses the scepticism of the educated classes toward the Party's electoral viability and marshals voting statistics to argue that Congress is a 'paper tiger'—a minority party whose parliamentary majority distorts actual public support. He contends that the real choice facing India is between Communist dictatorship and the liberal democratic programme of Swatantra.

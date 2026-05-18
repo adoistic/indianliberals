@@ -82,11 +82,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Free Enterprise in India - A Call For Leadership
-
-*By A. D. Shroff*
-
 ## Summary
 
 A. D. Shroff's presidential address to the fifth annual general body meeting of the Forum of Free Enterprise (Bombay, 25 October 1961) is a sweeping liberal indictment of India's Third Five-Year Plan and the doctrinaire socialism that animates it. Shroff opens with the observation that even committed socialists like Jayaprakash Narayan are now disillusioned with nationalisation, and reads the lengthy delay between draft and parliamentary approval of the Third Plan as itself a comment on the costs of centralised planning. He frames the Third Plan as a "carbon copy of the Soviet Communist model" — heavy industry, collectivised agriculture, centralised ownership, and a gross disregard for basic human liberties — and argues that even communist regimes (the USSR under Khrushchev, China after the Great Leap, Yugoslavia, Poland) are quietly retreating toward price signals, private smallholdings, and incentives. By contrast, French indicative planning, which works through consultation with industry and incentives rather than coercion, is offered as the better model for a democracy.

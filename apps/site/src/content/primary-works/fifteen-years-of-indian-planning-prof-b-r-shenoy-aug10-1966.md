@@ -53,11 +53,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FIFTEEN YEARS OF INDIAN PLANNING
-
-*By B. R. Shenoy*
-
 ## Summary
 
 Delivered as the Walchand Memorial Lecture in Bombay on 7 April 1966 and issued in pamphlet form by the Forum of Free Enterprise that August, B. R. Shenoy's address is a forensic indictment of the first fifteen years of Indian central planning. Shenoy, then Director of the School of Social Sciences at Gujarat University, opens by insisting that economic progress must be measured by mass well-being — chiefly by the per capita availability of food and cloth — and then marshals official statistics to show that on this test the post-1951 record is at best semi-stagnant and on some measures (cereal availability per capita, cotton cloth consumption) worse than the late inter-war years. He argues that the planning regime has produced a structural divorce between production and consumer needs, channelling roughly 70 per cent of Third Plan investment into Public Sector "infrastructure" and heavy industry while the basic-goods sectors (agriculture, cotton textiles) atrophy.

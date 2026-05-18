@@ -61,11 +61,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# CRITICAL ISSUES RELATING TO RISING PRICES
-
-*By S.S. BHANDARE*
-
 ## Summary
 
 Published as a Forum of Free Enterprise pamphlet based on the keynote address delivered by S. S. Bhandare — Economic Adviser, Tata Services Ltd. — at a seminar on "Rising Prices" held in Bombay on 12 August 1995 as a centenary tribute to the late economist Prof. C. N. Vakil, this essay offers a rigorous data-driven audit of India's four-and-a-half decades of inflationary experience and charts the unfinished reform agenda of the post-1991 liberalisation era.

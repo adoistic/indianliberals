@@ -58,11 +58,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# COMPENSATION OR EXPROPRIATION?
-
-*By Dr. Rustom C. Cooper*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet by Dr. Rustom C. Cooper offers a legal-constitutional critique of Article 31 of the Indian Constitution and the Fourth Constitutional Amendment that introduced Article 31A. Cooper argues that the original Article 31 — which obliged the State to compensate citizens whose property it acquired — was steadily eroded by a series of state acquisition statutes and by parliamentary amendments designed to insulate compensation amounts from judicial review. The pamphlet reads the constitutional history as a record of how 'doctrinaire thinking' progressively stripped property of its standing as a fundamental right.

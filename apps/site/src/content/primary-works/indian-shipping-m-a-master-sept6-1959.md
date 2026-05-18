@@ -51,11 +51,6 @@ missing_metadata_flags:
   - no_isbn
   - no_explicit_series_number
 ---
-
-# INDIAN SHIPPING
-
-*By M. A. MASTER*
-
 ## Summary
 
 M. A. Master's 1959 lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 23 July 1959 and published as a booklet, is a polemical history of Indian shipping mounted in direct response to Jawaharlal Nehru's pronouncements that the public sector would be the 'basic, strategic, important and advancing sector' of the economy. Master argues that the expansion of the State Trading Corporation and the proposed decentralisation of private enterprise are a betrayal of Mahatma Gandhi's teaching that economic and political power must not concentrate in the hands of the State, and an injustice to an industry that had been built, sustained and brought to its present strength almost entirely by private Indian initiative under extraordinarily hostile conditions.

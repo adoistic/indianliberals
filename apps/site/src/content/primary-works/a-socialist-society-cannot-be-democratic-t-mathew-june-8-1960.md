@@ -64,11 +64,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# A Socialist Society Cannot Be Democratic
-
-*By T. MATHEW*
-
 ## Summary
 
 T. Mathew's prize-winning essay — awarded the second prize in a Forum of Free Enterprise public competition on "Democracy in India" — argues that the socialist programme being pursued by the Congress Party is logically and historically incompatible with the democratic ideals enshrined in the Indian Constitution. Mathew, a lecturer in economics, first reconstructs democracy from first principles: it is not majoritarian quantity but a society of "living selves" whose moral and material progress depends on liberty, equality, justice, education, and the rule of law. Each of these is then turned into a yardstick against which planned socialism is measured and found wanting.

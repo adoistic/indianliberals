@@ -54,11 +54,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# An Economic Review — 1957
-
-*By A. D. Shroff*
-
 ## Summary
 
 Delivered under the auspices of the Forum of Free Enterprise in Bombay on December 9, 1957, A. D. Shroff's address is a frontal critique of the Second Five-Year Plan and of the Nehru government's economic management one year into its execution. Opening with the line that "speech is silvern and silence is golden," Shroff argues that the moment demands public honesty: the Plan was built on the "socialist pattern of society," pursued comprehensive planning without the technical and informational base to support it, and is now manifestly unworkable. He charges the Planning Commission and its supporters with substituting slogans — most pointedly the newly minted phrase "core of the Plan" — for an actual operating strategy, and he criticises ministers for honouring Gandhi's memory by "practising considerable economy of truth."

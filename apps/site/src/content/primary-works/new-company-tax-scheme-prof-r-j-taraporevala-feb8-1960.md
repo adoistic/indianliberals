@@ -40,11 +40,6 @@ missing_metadata_flags:
   - theme_vocabulary_not_provided
   - work_type_taxonomy_not_provided
 ---
-
-# NEW COMPANY TAX SCHEME HITS SHAREHOLDERS
-
-*By Prof. Russi Jal Taraporevala*
-
 ## Summary
 
 Prof. Russi Jal Taraporevala's pamphlet, issued by the Forum of Free Enterprise on 8 February 1960 and reproduced from the Capital Annual of 1959, is a technical assessment of the radical streamlining of Indian company taxation introduced by the Finance Act, 1959. Taraporevala opens by contrasting the old regime — under which companies were subject to seven different direct taxes (income tax with surcharge, corporation tax, excess dividends tax, wealth tax, capital gains tax, the Section 23A penal super-tax, and the bonus issue tax) and where 'grossing' of dividends produced a cumbersome and unpredictable effective rate — with the new scheme that consolidates direct taxation into income tax at 20 percent and corporation tax at 25 percent of assessed profits, and abolishes the excess dividends tax, the wealth tax on companies and the practice of grossing up dividends.

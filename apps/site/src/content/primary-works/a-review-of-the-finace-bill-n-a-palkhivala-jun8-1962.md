@@ -53,11 +53,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# A REVIEW OF THE FINANCE (No. 2) BILL, 1962
-
-*By N. A. Palkhivala*
-
 ## Summary
 
 N. A. Palkhivala's pamphlet — based on a talk delivered under the auspices of the Forum of Free Enterprise in Bombay on May 7, 1962 — is a clause-by-clause critique of the Finance (No. 2) Bill, 1962. His central charge is that the Bill's treatment of capital gains and capital losses is the "most blatantly unjust proposal" in the Budget, indefensible "by any process of reasoning or by reference to any notion of fairplay in a socialistic or welfare State." By limiting the rate on long-term gains while abolishing the right to carry forward long-term capital losses, the Bill places "the thrifty citizen who helps the progress and growth of the nation by saving and investing, in a worse position in many respects than the gambler and the speculator." Palkhivala walks through three archetypes — Mr. Speculator, Mr. Trader and Mr. Investor — to show that only the long-term investor, "the backbone of a stable and progressive nation," is denied symmetrical treatment of losses.

@@ -51,11 +51,6 @@ missing_metadata_flags:
   - isbn_not_present
   - toc_page_numbers_exceed_pdf_total
 ---
-
-# अंगारमळा
-
-*By Sharad Joshi*
-
 ## Summary
 
 अंगारमळा (Angarmala, literally 'Ember-Garden') is a Marathi-language collection of nineteen essays by Sharad Joshi, the founder of the Shetkari Sanghatana, first published in 2008 and expanded in a second edition (2015). The title is a metaphor for the scorching toil of the peasant life and the movement Joshi built around it. In the rendered pages the book opens with three autobiographical essays drawn from columns published in the weeklies Saptahik Vakari and Saptahik Gyanba. The publisher's foreword by Shrikant Umariker notes that the book received Maharashtra government recognition for outstanding literary creation and that the second edition adds four new essays, including biographical portraits of former Prime Minister Charan Singh, Shetkari Sanghatana leaders Anil Gote and Ramchandrabapu Patil, and a history of the Vakari weekly itself.

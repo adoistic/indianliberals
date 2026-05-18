@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_file
 ---
-
-# HOW CONTROLLED INDUSTRIES WORK IN INDIA—A CASE STUDY
-
-*By SIR BIREN MOOKERJEE*
-
 ## Summary
 
 Sir Biren Mookerjee's March 1963 address — delivered as Chairman of the Indian Iron & Steel Company (IISCO) and circulated as a Forum of Free Enterprise booklet — uses the steel industry as a case study in how India's regime of administered prices and bureaucratic controls is hampering, rather than aiding, industrial development. A. D. Shroff's introduction sets the polemical frame: even committed planners are alarmed at how, under the Second and Third Five-Year Plans, the state has sought to take over as many economic activities as possible, with regulation 'bordering on regimentation' and controls hindering the very growth they were meant to stimulate. Two prefatory notes prepared with the help of S. V. Rayan, Editor of 'Commerce', explain the constitutional position of the Tariff Commission and the mechanics of retention prices, charging that the Government's habit of overriding the Commission's recommendations downward has crippled the capital-raising capacity of cement, steel, coal and basic chemicals.

@@ -59,9 +59,6 @@ physical:
   pages_total_source: pypdfium2
   format: Marathi fortnightly periodical (पाक्षिक); वार्षिक वर्गणी रु. २५, किंमत १ रुपया; posted at Market Yard PSO, Pune 37 on 21st April 1992
 ---
-
-# शेतकरी संघटक
-
 ## Summary
 
 This issue of Shetkari Sanghatak (Year 9, Issue 2, 21 April 1992), the Marathi fortnightly organ of the Shetkari Sanghatana farmers' movement, is anchored by a major polemical essay by Sharad Joshi titled 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ' (The True Meaning of Jotiba's Opposition to Brahmin Domination). Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class. A sidebar box addresses the claim 'Was Jotiba a Hindu nationalist?' and rebuts it on historical grounds. The remaining pages carry shorter contributions: a policy manifesto by Shyamsundar Vasare proposing non-agricultural sector taxation to fund farm liberation, a first-person 'If I were Finance Minister' statement by Ratrao Lahanu Savre outlining ten points of agrarian fiscal policy, and three news items — the Supreme Court permitting collective withdrawal of debt-relief petitions, an announcement of a Rs 21 bonus for sugarcane to Central mills, and a report on farmers burning grain and cotton at Delhi's Boat Club on Shetkari Hutatma Din.

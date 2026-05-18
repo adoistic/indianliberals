@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number_visible_in_rendered_pages
 ---
-
-# India's Balance of Payments Problem
-
-*By Jiban Mukhopadhyay*
-
 ## Summary
 
 Jiban K. Mukhopadhyay, an economist at Tata Services Ltd., offers a measured diagnosis of India's persistent balance of payments (BOP) difficulty as of mid-1989. He argues that the strain on the external sector is not a fresh crisis but the cumulative product of nearly four decades of an inward-looking trade regime built around import substitution, soft concessional borrowing, and a residual treatment of exports inside the Five Year Plans. Cheap multilateral finance from the World Bank's IDA window, he writes, made India complacent in the 1960s — the decade when world demand would have rewarded a serious export drive — and the country "missed the bus".

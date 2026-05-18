@@ -51,11 +51,6 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
 ---
-
-# INDUSTRIAL FINANCE—SOME TRENDS AND SOME ISSUES
-
-*By S. S. NADKARNI*
-
 ## Summary
 
 Delivered as the 1984 A. D. Shroff Memorial Trust public lecture by S. S. Nadkarni, then Chairman and Managing Director of ICICI, this address surveys the structure and direction of Indian industrial finance three and a half decades after independence. Nadkarni opens by setting aside transient controversies in order to identify abiding trends — quantitative and structural growth of the manufacturing sector, the expansion of the entrepreneurial base, dispersal into backward regions, and a Sixth Plan rebalancing in which public and private sector outlays in mining and manufacturing are projected at roughly equal levels. He stresses that the private sector remains the dominant source of value added (81% of factory output) and that the government has begun signalling room for private investment in fertilizers, communications and modernisation.

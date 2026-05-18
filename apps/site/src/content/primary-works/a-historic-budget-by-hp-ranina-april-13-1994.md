@@ -57,11 +57,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# A Historic Budget
-
-*By HP Ranina*
-
 ## Summary
 
 This 19-page FFE pamphlet, based on a talk delivered by tax lawyer H.P. Ranina at a public meeting in Bombay on 1 March 1994, offers a detailed commentary on Dr. Manmohan Singh's fourth Union Budget (1994-95). Ranina frames the budget as 'historic' because it advances three inter-linked objectives: structural simplification of indirect-tax law, acceleration of industrial liberalisation out of recession, and a push toward full current-account convertibility within three years. Writing from a free-enterprise standpoint, he celebrates the corporate sector's gains — reductions in corporate tax rates, long-term capital gains tax, and import duties — while flagging two adverse provisions: the move of the first advance-tax instalment to 15 June and the shortening of the filing deadline to 31 October.

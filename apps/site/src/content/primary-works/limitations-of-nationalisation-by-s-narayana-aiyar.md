@@ -41,11 +41,6 @@ missing_metadata_flags:
   - no_series_number_visible
   - title_page_not_found
 ---
-
-# LIMITATIONS OF NATIONALISATION
-
-*By By S. NARAYANA AIYAR*
-
 ## Summary
 
 S. Narayana Aiyar draws on twenty-four years of firsthand telephone-administration experience — fourteen-plus years with the Bombay Telephone Company Ltd. before nationalisation, and ten years thereafter under the Posts and Telegraphs Department (seven as Engineer at Bombay, three as Manager at Madras) — to argue that government management of commercial undertakings is, in his words, an inherent failure. He recalls his pre-nationalisation colleagues warning him that efficiency would 'disappear' once the state took over, and recounts how, within days of the April 1, 1943 takeover, the transfer of the Telephone Company's stores from the Bombay Manager to the Chief Controller of Telegraphic Stores at Calcutta made telephone parts 'unobtainable' and produced an immediate drop in service quality.

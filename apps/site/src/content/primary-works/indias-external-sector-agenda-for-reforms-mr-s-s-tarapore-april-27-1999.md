@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc_single_lecture
 ---
-
-# INDIA'S EXTERNAL SECTOR — AGENDA FOR REFORMS
-
-*By S. S. TARAPORE*
-
 ## Summary
 
 S. S. Tarapore — economist, former Reserve Bank of India Deputy Governor, and chairman of the RBI Committee on Capital Account Convertibility — delivers the 1998 A. D. Shroff Annual Public Lecture (read on 7 April 1999) on the reform of India's external sector. After a personal tribute to Shroff and to Nani Palkhivala, who invited him to speak, Tarapore frames the external sector as 'in a sense, the true success story of Indian economic reforms' since 1991, citing the climb from under $1 billion in foreign currency assets in July 1991 to over $27 billion at the time of the lecture, the fall in external debt from 41 per cent of GDP in 1991-92 to 24 per cent in 1997-98, and the collapse of the debt service ratio from 35.3 to 19.5 per cent over the same period. He nonetheless flags a measurement gap: India's external debt is reported on a contracted-maturity rather than a residual-maturity basis, which understates short-term liabilities.

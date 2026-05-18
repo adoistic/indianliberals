@@ -45,11 +45,6 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet/booklet (20 printed book pages; 13 rendered PDF pages with two book pages per leaf plus cover/colophon). FFE booklet imprint, blue card cover with FFE seal.
 ---
-
-# INTERNATIONALISATION OF INDIAN BUSINESS
-
-*By M. K. Raju*
-
 ## Summary
 
 M. K. Raju's A. D. Shroff Memorial Lecture, delivered in Madras on 27 October 1979 under the auspices of the Forum of Free Enterprise and published as this booklet in January 1980, is a sober post-mortem of India's first decade of outbound joint ventures. Opening with a tribute to Shroff and his generation's faith in free enterprise as the engine of national development, Raju shifts quickly from rhetoric to data: of 345 Indian joint ventures approved abroad by December 1978, only 31% were in production, 26% under implementation, and a striking 43% had been abandoned. A closer survey of 23 manufacturing units in a single South-East Asian host country found just 9% profitable and 70% incurring cash losses.

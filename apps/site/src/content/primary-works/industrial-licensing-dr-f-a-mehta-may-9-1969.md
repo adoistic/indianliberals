@@ -49,11 +49,6 @@ physical:
   pages_total_source: pypdfium2
   format: Saddle-stitched FFE booklet; printed page numbering runs to 24.
 ---
-
-# Industrial Licensing and Economic Growth in India
-
-*By Dr. F. A. Mehta*
-
 ## Summary
 
 Dr. F. A. Mehta's 1969 Forum of Free Enterprise booklet is a frontal indictment of the Industries (Development and Regulation) Act, 1951 and the industrial-licensing regime it spawned. Writing as Economic Adviser to Tata Industries Ltd., Mehta traces the Act from its 1949 introduction through the 1951 passage, the Avadi Session's 1955 'socialistic pattern of society' resolution, and the 1956 Industrial Policy Resolution that recast private industry as a tolerated junior partner under three Schedules ringfencing state and joint-sector activity. Licensing, he argues, was conceived to serve a 'mixed economy' but was almost immediately conscripted into a second role — as an instrument of central planning — and it is the simultaneous discharge of these two functions, against an over-ambitious Second Plan, that rendered the system both ideologically suspect and operationally incoherent.

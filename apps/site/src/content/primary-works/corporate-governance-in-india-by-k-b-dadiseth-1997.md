@@ -40,11 +40,6 @@ physical:
   pages_total_source: pypdfium2
   format: Booklet/pamphlet — paperback, single-essay reprint of a memorial lecture
 ---
-
-# Corporate Governance in India
-
-*By K. B. DADISETH*
-
 ## Summary
 
 Delivered as the 32nd A. D. Shroff Memorial Lecture on 24 October 1997 and published by the Forum of Free Enterprise, K. B. Dadiseth's address reframes corporate governance for an India that is moving from a controlled economy into globalised competition. Speaking as Chairman of Hindustan Lever, Dadiseth argues that governance must be understood in its widest sense — almost as a trusteeship — and not reduced to statutory checks, committees and counts of non-executive directors. The Cadbury Code and similar prescriptions offer useful broad principles, but India must evolve its own solution because, on average, the basic capabilities of managing companies are still being built.

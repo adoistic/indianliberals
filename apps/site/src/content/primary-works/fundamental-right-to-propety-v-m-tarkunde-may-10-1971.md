@@ -65,11 +65,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Fundamental Right to Property
-
-*By V. M. TARKUNDE*
-
 ## Summary
 
 V. M. Tarkunde, a former judge of the Bombay High Court, argues that the right to property was rightly placed among the fundamental rights by the Constitution-makers, even though successive amendments have made it the weakest of those rights. Reprinted from the March 1971 issue of The Radical Humanist as a Forum of Free Enterprise booklet, the editorial pushes back on Justice Hidayatullah's view in the Golaknath case that including property among fundamental rights was an 'error'. Tarkunde reasons that the enjoyment of every other fundamental right — food, shelter, freedom of movement, the freedom to practise a profession — presupposes a minimum of private property, so property must be regarded as a necessary complement of rights that are 'unquestionably fundamental'.

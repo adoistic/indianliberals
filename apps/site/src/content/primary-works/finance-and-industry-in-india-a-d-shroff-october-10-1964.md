@@ -66,11 +66,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FINANCE AND INDUSTRY IN INDIA
-
-*By A. D. Shroff*
-
 ## Summary
 
 Finance and Industry in India is a Forum of Free Enterprise booklet based on the Sir Vithal Chandavarkar Memorial Lectures that A. D. Shroff delivered at the Indian Institute of Sciences, Bangalore, on 29-30 March 1963. Shroff surveys the financial scaffolding of Indian industry across the first two Five-Year Plans, marshalling Reserve Bank data on roughly 25,500 joint-stock enterprises and showing how internal resources of about 1,000 large companies rose from Rs. 274 crores in 1951-55 to Rs. 504 crores in 1956-60 while their bank borrowings shot up from 17 per cent to 28.7 per cent of total resources — a trend he calls structurally unhealthy.

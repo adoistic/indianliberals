@@ -64,11 +64,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# BANKER AND CORPORATE CUSTOMER
-
-*By R. K. TALWAR*
-
 ## Summary
 
 Delivered as the 1974 A. D. Shroff Memorial Lecture by R. K. Talwar, then Chairman of the State Bank of India, this short volume sets out how the relationship between banks and their large corporate borrowers had been transformed in the two decades since the 1953–54 Committee on Finance for the Private Sector (the Shroff Committee). Talwar opens with a careful tribute to A. D. Shroff — recovering Shroff as a pragmatist who founded the Forum of Free Enterprise but who had also served on the National Planning Committee and helped author the Bombay Plan of 1944 — and insists that Shroff's name was unfairly linked to a discredited laissez-faire doctrine.

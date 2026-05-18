@@ -66,11 +66,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE ENTERPRISE AND DEMOCRACY
-
-*By A. D. Shroff*
-
 ## Summary
 
 Published by the Forum of Free Enterprise in 1956 — and reproduced from the Annual Number of Commerce that same year — A. D. Shroff's pamphlet is a direct rejoinder to Prime Minister Jawaharlal Nehru, who had recently told a Calcutta press conference that democracy and unrestricted private enterprise were incompatible. With the announcement of the 'Socialist pattern of Society' as the national goal, Shroff argues, the relationship between free enterprise and democracy has assumed great significance, and the country must decide whether the drift towards State Capitalism under the plea of a Welfare State threatens to 'enslave man to the State as a totalitarian State'.

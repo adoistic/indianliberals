@@ -48,11 +48,6 @@ missing_metadata_flags:
   - venue_not_stated
   - no_series_number
 ---
-
-# Some Light On "Coal Discoveries"
-
-*By K. V. Subrahmanyam*
-
 ## Summary
 
 This two-page letter to the editor, originally published in The Hindustan Times on 8 October 1960 and reprinted by the Forum of Free Enterprise, challenges a series of government mineral-discovery announcements as politically convenient fiction. K. V. Subrahmanyam opens by recalling a decade-old announcement by K. D. Malaviya — then Secretary in the Ministry — of a gold belt in Orissa that proved to be a hoax, followed shortly by a similar claim about sulphur deposits in Kashmir that likewise never materialised. He then turns to Malaviya's more recent announcements: huge copper deposits at Khetri in Rajasthan compared favourably to Katanga and the Rhodesias, and, most damagingly, the 'discovery' of coking coal at Korba (Madhya Pradesh) timed to justify siting a million-ton steel plant there.

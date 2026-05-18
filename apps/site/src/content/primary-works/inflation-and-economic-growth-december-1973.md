@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# Inflation & Economic Growth
-
-*By H. V. R. Iengar I.C.S. (Retd.)*
-
 ## Summary
 
 H. V. R. Iengar, a former Governor of the Reserve Bank of India, delivered this inaugural address at a seminar on inflation organised by the Institute for Financial Management and Research in Madras on 14 December 1973. The Forum of Free Enterprise issued the talk as a pamphlet, prefaced with a Eugene Black epigraph that private enterprise must be accepted "not as a necessary evil but as an affirmative good." Iengar accepts the orthodox diagnosis — that inflation is the joint product of an enormous expansion of the money supply and a shortfall of production — and uses his lecture to interrogate the political and administrative reasons why neither half of that equation is being corrected.

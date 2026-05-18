@@ -45,11 +45,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# Interest Rates and Economic Activity
-
-*By Dr. Deepak Mohanty*
-
 ## Summary
 
 Dr. Deepak Mohanty, Executive Director of the Reserve Bank of India, uses this 2014 Forum of Free Enterprise booklet (based on a talk delivered at the Association of Financial Professionals of India in Pune in August 2013) to probe whether monetary policy alone can revive India's flagging growth. Reviewing the decade 2003-04 through 2012-13, he divides the Reserve Bank's stance into four growth-inflation phases — the boom of 2003-08, the global-crisis response of 2008-10, the inflation-fighting tightening of 2010-12, and the cautious easing of 2012-14 — and asks whether interest-rate movements actually transmitted into market lending rates and real economic activity.

@@ -53,11 +53,6 @@ thinker_mentions:
         what_it_shows: "Vaidya's rhetorical inversion of the planners' own anti-concentration logic"
 
 ---
-
-# Free Enterprise and Freedom
-
-*By Murarji J. Vaidya*
-
 ## Summary
 
 Free Enterprise and Freedom is a short polemical pamphlet (No. 2 in the Forum of Free Enterprise series) reproducing an article by Murarji J. Vaidya from The Times of India of 30 March 1956. Its subject is the draft outline of the Second Five-Year Plan and, more pointedly, the Planning Commission's commitment to the "Socialist Pattern of Society" adopted at the Avadi session of the Congress. Vaidya quotes the Commission's own framing at length to show how programmatically the planners have absorbed the Avadi resolution into the basic criterion for what counts as economically advanced.

@@ -49,11 +49,6 @@ missing_metadata_flags:
   - no_toc_present
   - series_number_not_visible
 ---
-
-# Inflation Endangers Economic Progress
-
-*By A. D. Shroff*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet, based on a lecture A. D. Shroff delivered in Bombay on 8 March 1961, presents a sustained critical reading of the Union Budget for 1961-62. Shroff opens by faulting the year's Economic Survey for departing from the dispassionate tone of its 1959-60 predecessor — it is, in his words, "heavily loaded with a certain bias and ideology" — and uses the Budget as a "photographic presentation" through which to test whether the closing Second Five-Year Plan has actually paid for the price rises and balance-of-payments strain it has caused.

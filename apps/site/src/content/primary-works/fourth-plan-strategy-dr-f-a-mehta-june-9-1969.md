@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number_visible
 ---
-
-# FOURTH PLAN - A STRATEGY FOR ECONOMIC GROWTH?
-
-*By DR. F. A. MEHTA*
-
 ## Summary
 
 Dr. F. A. Mehta, Economic Adviser to a business house, delivered this address under the auspices of the Forum of Free Enterprise in Bombay on 23 April 1969; the Forum published it as a booklet on 9 June 1969. Mehta is responding to the Draft Outline of the Fourth Five-Year Plan (1969-74), just approved by the National Development Council, which he reads as marking — at least formally — the resumption of 'planning' after the so-called three-year Plan Holiday. His central contention is that the entire framework of planning in India has changed: with subjects of plan implementation legally vested in the States, the Planning Commission's role as a co-ordinating agency has been hollowed out, and the NDC itself has degenerated into what he calls a 'Tower of Babel' of conflicting state ministers, threatening to turn elaborate targets and capital-output ratios into mere 'paper-value'.

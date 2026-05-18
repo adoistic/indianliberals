@@ -71,9 +71,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Co-operative Farming
-
 ## Summary
 
 This 1960 Forum of Free Enterprise booklet collects the three prize-winning entries from the Forum's 1959 student essay competition on "Co-operative Farming." Judged by R. V. Murthy, Prof. C. L. Gheevala of the Indian Merchants' Chamber, and M. R. Pai, the volume presents essays by Sree Rama Murthy of Chirala (first prize), R. Venkata Ramana Rao of Quilon (second), and B. P. Patel of Surat (third). All three essays converge on a sceptical verdict: although the Indian National Congress at its Nagpur session (1959) made joint co-operative farming the centrepiece of agrarian policy, the contributors argue that pooling land under joint management is economically unproven, psychologically alien to Indian peasant attachment to the soil, and impossible to introduce without coercion.

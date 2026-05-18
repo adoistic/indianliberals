@@ -60,9 +60,6 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
 ---
-
-# Indian Planning at the Cross-Roads
-
 ## Summary
 
 This November 1965 Forum of Free Enterprise booklet bundles three short interventions on the Fourth Five-Year Plan, issued as the Indian economy slid into monetary inflation, a foreign-exchange crunch, and chronic foodgrain shortages. The contributors are N. Dandeker, an M.P. with administrative experience in the I.C.S.; G. L. Mehta, a former Indian Ambassador to the U.S.A., former member of the Planning Commission, and Chairman of the Industrial Credit and Investment Corporation of India; and K. Santhanam, M.P., former Chairman of the Finance Commission, whose piece is reprinted from the Statesman of July 24, 1964. All three reject the Planning Commission's proposed Rs. 21,500-crore Fourth Plan as conceived, but from distinct angles. Dandeker indicts the macro consequences of monetary expansion, the collapse of public utilities, the worsening foreign-exchange position, and "rupee payment trade" as a quack remedy, arguing that "totalitarian" planning has been eroding the Constitution. Mehta urges a smaller, more selective Plan, automatic licensing of projects that do not draw on foreign exchange, and scepticism about further public-sector steel plants, petro-chemical complexes, and the Cochin shipyard as Galbraith's "symbolic modernism." Santhanam pleads for a one-year extension of the Third Plan to March 1967, a moratorium on new starts, and self-financing public-sector industries, warning that the assumption that Fourth-Plan outlays must be proportionate to the Third has "become a vested interest." The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.

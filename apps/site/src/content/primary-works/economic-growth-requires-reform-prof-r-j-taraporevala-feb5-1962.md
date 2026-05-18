@@ -72,11 +72,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Growth Requires Reform of Tax Structure
-
-*By PROF. RUSSI JAL TARAPOREVALA*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet — reprinted from Capital Annual 1961 and issued in February 1962 — argues that the tax structure assembled during India's Second Five-Year Plan has actively retarded the savings, investment, and entrepreneurial activity on which the Third Plan's six-per-cent growth target depends. Prof. Russi Jal Taraporevala opens with the principle that tax policy must serve multiple, often conflicting, objectives, and that in an under-developed mixed economy where the private sector still does most of the saving and investing, the dominant purpose of taxation must be to provide conditions which stimulate savings and promote risk-bearing enterprise. Citing National Council of Applied Economic Research figures, he shows that the Government's net savings rose from Rs. 208.9 crores (1951-52) to Rs. 1411.8 crores (1957-58) while Government investment grew from Rs. 221.1 crores to Rs. 794.8 crores — a pattern that, on his reading, left the private sector squeezed by rapid-succession Budgets which 'created a state of chronic instability in the tax structure.'

@@ -38,11 +38,6 @@ physical:
   pages_total_source: pypdfium2
   format: Leaflet / pamphlet, four pages, stapled.
 ---
-
-# NATURAL ECONOMIC GROWTH IS VIA AGRICULTURE & CONSUMER GOODS INDUSTRIES
-
-*By B. R. Shenoy*
-
 ## Summary
 
 B. R. Shenoy attacks the central premise of India's planning model: that forced industrialisation, weighted toward heavy industry, is the road to prosperity. Reviewing the First Plan and the first three years of the Second, he concedes that industrial output has grown impressively — production rose 68 per cent over the decade, a 7.6 per cent annual rate that exceeded every Asian economy bar Japan, and capital goods such as automobiles, diesel engines and rayon yarn multiplied many times over. But he insists that this growth was 'generally forced or induced' in defiance of comparative cost, sustained by import controls, exchange rationing and quotas that have left consumers paying ransom prices for imported and import-substituting goods alike. Sugar surpluses go unsold because Indian production costs nearly double the world price; Pimpri-manufactured penicillin costs Rs. 2,250 a unit against an import equivalent of Rs. 1.25.

@@ -43,11 +43,6 @@ missing_metadata_flags:
   - no_series_number
   - no_formal_toc
 ---
-
-# INFLATION IN INDIA
-
-*By Prof. L. G. Bapat*
-
 ## Summary
 
 Prof. L. G. Bapat's prize-winning Forum of Free Enterprise essay is a textbook-style diagnosis of post-Independence Indian inflation, written for a general audience but anchored in the monetary economics of Fisher, Lerner, Hayek and Schultze. Bapat begins by defining inflation as an unanticipated, unprovided rise in prices above their normal level — and insists that in a controls-and-rationing regime it surfaces not as visible price increases but as queues, black markets and hoarding, i.e., 'suppressed' inflation. The villain, he argues, is the persistent attempt of under-developed economies to consume and invest more than they actually produce, a temptation aggravated by ambitious Keynesian-flavoured development plans copied from the West.

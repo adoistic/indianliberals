@@ -51,11 +51,6 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
 ---
-
-# Industrial Relations
-
-*By Naval H. Tata, P. C. Mehta*
-
 ## Summary
 
 This Forum of Free Enterprise booklet, issued in Bombay on 13 August 1979, gathers two industry-side interventions in the late-Janata-era debate on labour law and union power, plus an appendix reproducing a Financial Express report on the simultaneous bonus controversy. The opening essay is an extract from Naval H. Tata's inaugural talk of 29 January 1979 at an ASSOCHAM workshop on the Industrial Relations Bill, framing labour-law reform as a human-rights issue and defending the Janata Government's Bill against trade-union opposition. The second essay reproduces P. C. Mehta's 16 April 1979 Forum lecture, 'Democracy and Labour Movement', arguing that industrial peace in a democracy must rest on law rather than trials of strength. The closing appendix carries the Finance Minister Charan Singh's June 1979 case against extending bonus to railwaymen and Government departmental employees. Together the three pieces present a coordinated employer-side and free-enterprise critique of trade-union militancy, wage-productivity drift, and bonus-as-statutory-right.

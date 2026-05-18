@@ -53,11 +53,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Centre-State Relations: A Broad Perspective
-
-*By Nani A. Palkhivala*
-
 ## Summary
 
 Nani A. Palkhivala's 1983 Forum of Free Enterprise pamphlet diagnoses what he treats as the central political pathology of the Indian Republic in the early 1980s: the steady erosion of the federal scheme of the Constitution by an over-mighty Centre. Framing India since 1950 as 'the largest experiment ever undertaken in human history in the art of democratic living', he insists that the Centre is 'nothing but the States in their federal garb', and that the injuries done to the States have been largely self-inflicted by their own representatives in Parliament. The Constitution, he argues, was deliberately written with a bias in favour of the Union, but that bias must operate within reasonable limits; the question of the pamphlet is what those limits are.

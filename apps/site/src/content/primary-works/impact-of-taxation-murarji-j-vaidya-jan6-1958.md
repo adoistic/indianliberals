@@ -42,11 +42,6 @@ missing_metadata_flags:
   - no_formal_toc
   - byline_unresolved_in_authority
 ---
-
-# Impact of Taxation on Small & Medium Scale Industries
-
-*By MURARJI J. VAIDYA*
-
 ## Summary
 
 Murarji J. Vaidya's pamphlet reproduces a public lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on April 9, 1958, on the burden of taxation borne by India's small and medium scale industries. Vaidya opens by defining the two categories — small industries (up to 50 workers with power, 100 without, capital up to Rs. 5 lakhs) and medium industries (up to 500 workers, capital around Rs. 5 lakhs) — and notes that government has never offered a formal definition of medium-scale industry, a neglect he had publicly flagged at the 1956 All-India Manufacturers' Organisation conference. He then establishes the sector's economic weight: organised small and medium concerns employ roughly 12 lakh workers, with another 8–10 lakh in unorganised small units, putting total employment at 20–22 lakhs — second only to agriculture, commerce and transport in national income contribution.

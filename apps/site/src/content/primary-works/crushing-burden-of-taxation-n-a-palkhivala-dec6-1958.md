@@ -51,11 +51,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Crushing Burden of Taxation
-
-*By N. A. PALKHIVALA*
-
 ## Summary
 
 Reproduced from The Hindu's Survey of Indian Industry (22 November 1958), this Forum of Free Enterprise booklet is a closely argued polemic by N. A. Palkhivala against the structure and conduct of Indian tax legislation in the eighth year of the Republic. Palkhivala opens with a constitutional complaint: although the Constitution preserves the balance between Legislature, Executive and Judiciary, in practice the Executive has become predominant, unchecked by any effective parliamentary Opposition or organised public opinion, and able to push tax bills through with almost no scrutiny. The Gift-tax Act of 1958, on which the Select Committee was given less than a week to report, is offered as a representative case of the haste with which half-baked tax legislation is being rushed onto the statute book.

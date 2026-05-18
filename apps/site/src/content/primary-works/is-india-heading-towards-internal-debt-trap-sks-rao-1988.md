@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
 ---
-
-# Is India Heading Towards an Internal Debt Trap?
-
-*By Dr. S. R. K. RAO*
-
 ## Summary
 
 Dr. S. R. K. Rao, former Principal Adviser to the Reserve Bank of India, delivered this lecture under the Forum of Free Enterprise auspices in Bombay on 31 August 1988. The text develops the concept of an "Internal Debt Trap" that Rao says he first publicly enunciated at the Ninth Public Sector Banks' Economists' Meet in New Delhi on 30 May 1986, and which subsequently attracted backing from N. A. Palkhivala, eminent Indian economists, and the international press. Rao defines the trap as the threshold beyond which fresh government borrowing is no longer sufficient even to meet the debt-servicing burden, and he argues that India is rapidly approaching that point — a possibility he and his Reserve Bank colleague A. Seshan empirically tested and pinned to roughly 1992-93 on the basis of historic growth rates of 15.3 per cent in net market borrowings and 25.7 per cent in interest payments between 1979-80 and 1986-87.

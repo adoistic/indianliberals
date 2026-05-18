@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_publisher_address_visible_in_chunk
 ---
-
-# India's Jobless Growth
-
-*By Dr. S. D. Naik*
-
 ## Summary
 
 This Forum of Free Enterprise booklet is Dr. S. D. Naik's diagnosis of India's "jobless growth" — economic expansion that fails to produce enough formal jobs. After Sunil S. Bhandare's editorial framing (printed pages 3–6), Naik's essay "What needs to be done to tackle it?" opens by defining jobless growth and pointing to a contradiction: India grows at 7–7.5% per year while creating only 4 to 4.5 million jobs against an annual labour-force addition of roughly 12 million. He attributes this paradox to India's failure to build a labour-intensive manufacturing sector along Chinese lines and to the dominance of services, which now employ 30 per cent of the working-age population.

@@ -48,9 +48,6 @@ missing_metadata_flags:
   - publication_year_not_printed_in_imprint
   - no_formal_toc
 ---
-
-# A Pragmatic Economic Policy for a Government That Works
-
 ## Summary
 
 Reproducing an article originally published in Tata Economic Consultancy Services' bulletin Economic Scene and reissued as a Forum of Free Enterprise pamphlet in June 1981, this anonymous "study team of three" steps back from year-to-year quarrels over rains, strikes and remittances to argue that India's three-decade rise in prices is an endemic phenomenon driven by aggregate investment that exceeds the economy's capacity to bear. The authors call for a tough counter-inflationary programme even at the risk of recession, and reject the popular consolation — voiced by the Prime Minister and many industrialists — that more production will by itself cure inflation. In an Indian setting of overstretched resources, they argue, the attempt to push output further raises money incomes more than proportionately and so feeds the very inflation it claims to fight.

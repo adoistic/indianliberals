@@ -52,11 +52,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Convertibility of Rupee on Capital Account
-
-*By Dr. S.R.K. Rao*
-
 ## Summary
 
 Dr. S. R. K. Rao, a former Principal Adviser to the Reserve Bank of India, uses this Forum of Free Enterprise booklet — based on a talk delivered in Mumbai on 30 September 1997 — to assess whether India should move to full capital account convertibility (CAC) of the rupee. He opens with a working definition: a currency is convertible on capital account when residents can freely convert local financial assets into foreign assets and vice versa at market-determined exchange rates, without government controls. He then catalogues the advantages — integration with global capital markets, cheaper foreign capital, higher growth, portfolio diversification, deeper derivatives and risk-management products, and alignment of the domestic tax regime with developed economies.

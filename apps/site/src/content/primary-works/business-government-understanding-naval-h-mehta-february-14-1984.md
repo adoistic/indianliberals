@@ -57,11 +57,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Business-Government Understanding
-
-*By NAVAL H. TATA*
-
 ## Summary
 
 Naval H. Tata, then President of the Employers' Federation of India, delivers an address (originally given at the Mahratta Chamber of Commerce & Industries in Pune on 4 January 1984 and reissued as a Forum of Free Enterprise booklet on 14 February 1984) that diagnoses the strained, suspicion-laden relationship between Indian business and the Government three and a half decades after Independence. Tata argues that the working partnership the mixed economy presupposes has not materialised: businessmen complain of a cobweb of laws, unimaginative tax policies and licensing restrictions, while bureaucrats and public-sector heads in turn suspect industry of taking the Government for a ride. He calls on Chambers of Commerce to do their own soul-searching, to defend the legitimate role of large houses against populist campaigns, and to enlarge their membership base by absorbing small-scale units rather than letting an artificial small-vs-large quarrel be weaponised against the private sector as a whole.

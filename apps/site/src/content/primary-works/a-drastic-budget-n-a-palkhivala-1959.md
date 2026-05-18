@@ -51,11 +51,6 @@ missing_metadata_flags:
   - no_series_number_printed
   - no_edition_statement
 ---
-
-# A Drastic Budget
-
-*By Nani Palkhivala*
-
 ## Summary
 
 Delivered under the auspices of the Forum of Free Enterprise in Bombay on 9 March 1959 and subsequently printed as a pamphlet, "A Drastic Budget" is N. A. Palkhivala's forensic assault on the Union Budget for 1959–60. Speaking as one of India's leading tax lawyers, Palkhivala argues that the Budget is the most destructive India has seen within living memory — not merely harsh in its rates but reckless in its drafting, illogical in its structure, and contemptuous of parliamentary scrutiny. His central charge is that year-on-year legislative churn, driven by what he sardonically labels a 'dynamic' ideology, has stripped the tax code of its two most essential qualities: stability and certainty.

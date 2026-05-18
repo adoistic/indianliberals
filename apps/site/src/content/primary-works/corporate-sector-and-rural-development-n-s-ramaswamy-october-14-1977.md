@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_formal_toc_page
   - no_printed_year_on_title_page_or_colophon
 ---
-
-# Corporate Sector and Rural Development
-
-*By Prof. N. S. Ramaswamy*
-
 ## Summary
 
 This 1977 Forum of Free Enterprise booklet collects two papers by Prof. N. S. Ramaswamy — formerly Director of N.I.T.I.E., Bombay, and at the time of publication Director of the Indian Institute of Management, Bangalore. The publisher's introduction frames the booklet as a response to the Union Budget 1977-78's incentive for corporate engagement with rural development, and as a contribution to Forum publications' long-running argument that India's agricultural and rural economy has been neglected by policy-makers and the modern industrial sector alike.

@@ -41,11 +41,6 @@ missing_metadata_flags:
   - publication_year_not_printed
   - no_toc
 ---
-
-# Indian Economic Development 1950-1980: An Assessment
-
-*By Dr. R. M. Honavar*
-
 ## Summary
 
 Indian Economic Development 1950-1980: An Assessment is a Forum of Free Enterprise pamphlet reproducing Dr. R. M. Honavar's A. D. Shroff Memorial Lecture, delivered at the Madras Centre of the Forum in October 1981. Honavar, then Director of the Institute for Financial Management and Research at Madras and a former Economic Adviser to the Government of India, takes the thirty-year mark of planned development as an occasion for a stock-taking. He opens by conceding the textbook achievements — net national product up 165 per cent at 1970-71 prices, agriculture lifted out of pre-planning stagnation to a 2.7 per cent annual growth, a savings rate that has climbed from 8 per cent to about 16-17 per cent of national income, and a tax-take that has nearly tripled as a share of national income — and then proceeds to argue that, judged against any reasonable benchmark, the performance has nonetheless been unsatisfactory.

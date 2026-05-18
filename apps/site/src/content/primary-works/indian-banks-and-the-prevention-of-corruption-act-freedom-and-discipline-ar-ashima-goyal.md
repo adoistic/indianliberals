@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_visible_copyright_page_in_chunk
   - no_isbn
 ---
-
-# Indian Banks and The Prevention of Corruption Act : Freedom and Discipline
-
-*By Dr. Ashima Goyal*
-
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces Dr. Ashima Goyal's lecture at the Fourteenth M. R. Pai Memorial Award Function (Mumbai, 10 September 2018), preceded by an editorial introduction by Sunil S. Bhandare. Goyal — Professor at IGIDR and a member of the Prime Minister's Economic Advisory Council — uses the occasion to ask how Indian banks can be properly disciplined without being criminalised, and reads the 2018 amendment to the Prevention of Corruption Act against that test.

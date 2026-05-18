@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_publication_year_printed
   - no_toc
 ---
-
-# Ending Hunger Through Sustainable Development
-
-*By MAURICE F. STRONG*
-
 ## Summary
 
 Maurice F. Strong's lecture — delivered as the Third Annual Arturo Tanco Memorial Lecture in Tokyo on 6 April 1989 and republished by the Forum of Free Enterprise — argues that the eradication of hunger cannot be separated from the broader project of sustainable development. Drawing on his work as the first head of UNEP and as a member of the Brundtland Commission, Strong frames the late twentieth-century food problem not as a Malthusian shortfall but as a crisis of access, distribution, and ecological capital: the world has been 'literally living off the Earth's capital', and that capital is now seriously depleted. Despite the spectacular surplus production of 1950–1984 and a 300 per cent rise in Indian output under the Green Revolution, more than a hundred countries have become structurally dependent on North American grain, and Africa and Latin America have slid from self-sufficiency into deficit.

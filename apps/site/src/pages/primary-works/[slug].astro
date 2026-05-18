@@ -53,13 +53,13 @@ const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
 const placeStr = fm.publication?.place || "";
 const pubLine = [placeStr, yearStr].filter(Boolean).join(" · ");
 
+// Page count for the public-facing badge. We deliberately do NOT surface
+// the AI-extraction coverage (e.g. "20 of 206 rendered") here — that's
+// editorial-pipeline detail, not interesting to a reader. Just show the
+// total page count when we know it.
 const pagesNote = (() => {
-  const r = fm.physical?.pages_rendered;
-  const t = fm.physical?.pages_total;
-  if (r && t && r < t) return `Pages ${r} of ${t} rendered for AI extraction`;
-  if (r) return `${r} pages`;
-  if (t) return `${t} pages`;
-  return "";
+  const t = fm.physical?.pages_total ?? fm.physical?.page_count;
+  return t ? `${t} pages` : "";
 })();
 
 const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));

@@ -41,11 +41,6 @@ missing_metadata_flags:
   - no_formal_table_of_contents
   - author_not_in_authority_file
 ---
-
-# A Solution to the Housing Problem in India
-
-*By H. T. PAREKH*
-
 ## Summary
 
 Writing in 1975-76 as Chairman of ICICI, H. T. Parekh opens with a blunt indictment: after twenty-five years and five Five-Year Plans, India has made no significant dent in its housing shortage — roughly four million units in the cities and twelve million more in the villages. Indian planning, he argues, has consistently treated housing as a low-priority sector, allocating only Rs 4,200 crores (under 8 per cent) of the Fifth Plan and just Rs 600 crores from the public sector. Most of whatever has been built has come from private initiative, supplemented by State Housing Boards, LIC and the newly-established HUDCO.

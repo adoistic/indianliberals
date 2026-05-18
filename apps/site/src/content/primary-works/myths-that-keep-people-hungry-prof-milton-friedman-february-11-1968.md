@@ -38,11 +38,6 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / booklet (saddle-stitched, brown printed wrapper)
 ---
-
-# MYTHS THAT KEEP PEOPLE HUNGRY
-
-*By PROF. MILTON FRIEDMAN*
-
 ## Summary
 
 Reproducing a 1967 Harper's Magazine essay, Milton Friedman draws on a year of travel with his wife through Eastern Europe, the Middle East, and the Far East to argue that the gap between the intellectual consensus on economic development and what he observed on the ground had become unbridgeable. Wherever Friedman found ordinary people enjoying both freedom and rising material comfort, he found a private market organising economic life; wherever the state had supplanted the market with detailed central planning, he saw political fetters, low living standards, and ordinary people reduced to instruments of state purpose. The 'myths' of the title are the orthodoxies of the development intelligentsia — that planning accelerates growth, that markets cannot mobilise capital, that backward societies need state direction — which Friedman tests against three paired comparisons.

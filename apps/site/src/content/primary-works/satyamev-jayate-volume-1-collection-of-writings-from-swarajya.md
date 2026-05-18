@@ -63,11 +63,6 @@ thinker_mentions:
         what_it_shows: "Rajaji's constitutional-democratic argument on language, distinguishing national culture from coercive state imposition"
 
 ---
-
-# SATYAM EVA JAYATE
-
-*By C. Rajagopalachari*
-
 ## Summary
 
 In the rendered pages, Satyam Eva Jayate (Volume I) presents itself as a collection of weekly journalistic pieces written by C. Rajagopalachari (Rajaji) for Swarajya and related journals between 1956 and 1961. The Preface makes clear that the articles are not a systematic treatise but 'protests against errors — strongly felt protests against great errors,' aimed squarely at the regimentation and statism of the Congress-ruled government. Rajaji dedicates the volumes to Khasa Subba Rau, the editor whose encouragement made the Swarajya venture possible, and names the collection after the Sanskrit phrase 'Truth alone prevails' as an act of faith against entrenched official power.

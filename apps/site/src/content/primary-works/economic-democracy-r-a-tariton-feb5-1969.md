@@ -81,11 +81,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Democracy
-
-*By B. A. TARLTON*
-
 ## Summary
 
 B. A. Tarlton's 18-page lecture, delivered under the auspices of the Forum of Free Enterprise's Calcutta centre in 1968 and published as a booklet in February 1969, opens with a balance-sheet of disillusionment. Fifteen years after independence the politicians' promised "sunlit plateaus of prosperity" remain out of reach, centralised planning has failed to lift average living standards, and India has slid from being a net international creditor of over Rs. 700 crores in 1956 to a net debtor of over Rs. 5,000 crores in 1968. From this prelude Tarlton mounts a sustained case for rethinking what "economic democracy" should mean for India.

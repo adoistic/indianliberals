@@ -96,11 +96,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Barons of Banking - Glimpses of Indian Banking History
-
-*By Dr. Y. V. Reddy, S. S. Tarapore, Y. H. Malegam*
-
 ## Summary
 
 This Forum of Free Enterprise booklet, published on 03/Feb/2014, gathers the remarks delivered on 25 October 2013 at the Mumbai launch of Bakhtiar K. Dadabhoy's book 'Barons of Banking — Glimpses of Indian Banking History', a volume commissioned at the behest of the A. D. Shroff Memorial Trust. After an Introduction by Forum President Minoo R. Shroff, three substantial addresses follow: Dr. Y. V. Reddy (former RBI Governor and Chairman of the 14th Finance Commission), the economist S. S. Tarapore, and the chartered accountant Y. H. Malegam, who is also a Trustee of the A. D. Shroff Memorial Trust. The contributors converge on the book's framing of six 'barons' — Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era, and Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India. Across the three reflections, the booklet uses the lives of the barons to argue for central bank accountability and independence, for revisiting the Shroff Committee's verdict on private-sector discipline, for renewed faith in development banking, and for a future generation of bankers that is younger, more gender-balanced and geographically more diverse. The booklet is sponsored by the Shailesh Kapadia Memorial Trust.

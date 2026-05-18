@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# CONSUMERS OF A STATE MONOPOLY: LIC POLICYHOLDERS
-
-*By PROF. L. G. BAPAT*
-
 ## Summary
 
 Prof. L. G. Bapat's 1975 Forum of Free Enterprise booklet audits the Life Insurance Corporation of India eighteen years after nationalisation, asking whether LIC delivered on the better deal promised to policyholders when the Draft Bill was introduced in 1956. Bapat evaluates the corporation under four heads — premium rates, share in LIC's prosperity (bonus), service while the policy is in force, and settlement of claims on maturity — and finds the state monopoly wanting on every count.

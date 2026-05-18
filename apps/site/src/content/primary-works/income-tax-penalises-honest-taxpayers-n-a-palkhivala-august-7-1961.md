@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_formal_toc
   - series_not_printed_on_cover
 ---
-
-# INCOME-TAX BILL PENALISES HONEST TAX-PAYERS
-
-*By N. A. PALKHIVALA*
-
 ## Summary
 
 Based on a lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on 25 July 1961, this booklet is N. A. Palkhivala's clause-by-clause critique of the Income-tax Bill that was then before Parliament. Palkhivala argues that the re-enactment of the 1922 Income-tax Act, far from being used as a golden opportunity to bring "a modicum of justice and fairplay" into Indian tax law, will inject fresh inequities while leaving almost all of the existing ones unredressed. He frames the country as falling into two divisions: those who conceive and administer the laws, and those who timidly suffer them — and the Bill, in his reading, treats the honest taxpayer as the principal target.

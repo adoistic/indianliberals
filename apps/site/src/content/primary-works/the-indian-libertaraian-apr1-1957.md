@@ -115,9 +115,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# The Indian Libertarian
-
 ## Summary
 
 The Indian Libertarian, Vol. V No. 3 (1 April 1957), is a bi-monthly libertarian journal edited by Miss Kusum Lotwala and published by Libertarian Publishers (Private) Ltd., Bombay. This issue appeared immediately after India's second general elections and takes them as its central occasion: the editorial interrogates whether Congress's renewed mandate will deliver genuine democratic governance or deepen the slide toward a one-party monopoly underwritten by planning bureaucracy and press manipulation. The issue's argumentative center is the incompatibility of India's Second Five Year Plan with the liberal values the journal upholds — the Plan is variously characterised as crypto-communist, fiscally ruinous, and intellectually dishonest. Surrounding that core are articles on West Pakistan's authoritarian deterioration under President Mirza, a sharp critique of the Eisenhower Doctrine by Salvador de Madariaga, a polemic against India's foreign-policy establishment, a letters section on the role of press and government, domestic and world news digests, and book reviews promoting libertarian titles. The issue also advertises the Libertarian Social Institute's certificate course and the R. L. Foundation's Libertarian Quarterly, signalling a wider institutional ecosystem in 1950s Bombay.

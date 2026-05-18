@@ -57,11 +57,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# A Review of the Rupee Trade
-
-*By Dr. Jayashekar*
-
 ## Summary
 
 Dr. Jayashekar, a Jawaharlal Nehru University faculty member, audits India's two-decade experience under the Rupee Payments Arrangement with the Soviet Union and Eastern Europe. He marshals trade data from 1970-71 through 1981-82 to show that although the total turnover of Rupee trade rose more than five-and-a-half times, its compound growth lagged India's trade with hard-currency partners, and its share in India's foreign trade fluctuated wildly between roughly 9 and 23 per cent. The pamphlet argues that this instability, combined with India's persistent trade surplus in non-convertible roubles, has converted Rupee trade from a development asset into a structural drag on India's exports and industrial choices.

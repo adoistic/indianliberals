@@ -55,9 +55,6 @@ missing_metadata_flags:
   - no_formal_toc
   - editor_not_named
 ---
-
-# European Common Market & India
-
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces a symposium held in Bombay on 3 November 1961 on the implications of the European Common Market (ECM) for India. Three speakers — Dr. Hannan Ezekiel (Financial Editor, Economic Times), C. K. Narayanaswami (Assistant Editor, Free Press Journal), and Prof. C. L. Gheevala (Secretary, Indian Merchants' Chamber) — assess what Britain's anticipated entry into the European Economic Community would mean for Indian exports, the Commonwealth preference regime, and India's wider development strategy. A brief editorial introduction (drawn from a Deutsche Bank publication on the European Economic Community) summarises the Treaty of Rome's customs-union, social-policy and capital-mobility provisions and prints a 1959 chart comparing the Six with the USA and the USSR on population, steel, electricity, vehicles and external trade.

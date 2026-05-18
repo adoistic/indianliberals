@@ -84,9 +84,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# The Economic Thinking of Prof. Milton Friedman
-
 ## Summary
 
 Published by the Forum of Free Enterprise on 14 January 1977 to mark Milton Friedman's Nobel Prize, this slim booklet pairs two complementary texts. The first is a reprint of a 1963 article by Friedman himself — 'India Needs A Free Market Exchange Rate' — which the Forum had originally issued as a leaflet in May 1963 and now reproduces with a note that 'developments on India's foreign exchange front have moved in the direction indicated by Prof. Friedman.' The second is 'Milton Friedman — Leader of Monetarist Revolution', a critical appraisal by P. R. Brahmananda, Professor of Monetary Economics at Bombay University, originally published in Commerce on 23 October 1976. Together the two pieces position Friedman as both a practical policy critic of India's exchange-control regime and as the synthesiser who restored the Quantity Theory of Money to the centre of macroeconomics. The Forum supplies a brief introduction and the customary disclaimer that the views are not necessarily its own, while the back matter carries the standard membership appeal and an A. D. Shroff epigraph.

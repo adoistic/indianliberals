@@ -40,11 +40,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# Agricultural Investment
-
-*By Dr. G.V.K. Rao*
-
 ## Summary
 
 Dr. G.V.K. Rao — then Chairman of Agricultural Finance Corporation Ltd. and a former Member of the Planning Commission — diagnoses why Indian agricultural growth slackened in the 1980s and lays out an investment-and-credit programme to revive it. Although agriculture's share of GDP had fallen to about 28 per cent, the sector still supported roughly 70 per cent of the labour force and supplied wage goods, industrial raw material and export earnings. Foodgrain output grew at only 1.7 per cent per annum during the first seven years of the eighties, a slackening Rao attributes to a relative decline in investment in agriculture.

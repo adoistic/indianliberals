@@ -73,11 +73,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# What Ails India
-
-*By Russi Mody*
-
 ## Summary
 
 Delivered as the 26th Convocation Address at IIT Madras on 8 August 1989 and reprinted by the Forum of Free Enterprise in January 1990, Russi Mody's speech opens with a frank disclaimer that his remarks will be practical and down-to-earth rather than academic. He addresses the graduating engineers as privileged citizens who will bear special responsibility for the nation's future, and urges them to define success not merely in terms of wealth or position but in service to those less fortunate.

@@ -47,11 +47,6 @@ missing_metadata_flags:
   - ffe_series_number_not_visible
   - author_not_in_authority_subset
 ---
-
-# EUROPEAN ECONOMIC & MONETARY INTEGRATION
-
-*By S.L.N. Simha*
-
 ## Summary
 
 S.L.N. Simha, former Principal Adviser to the Reserve Bank of India, reviews the fifty-year arc of European economic and monetary integration in a Forum of Free Enterprise booklet that reprints his January–March 1999 paper from the Indian Economic Journal. He frames the European achievement as a deliberate reproach to India: nations that fought repeated wars now bind themselves through mutual trust, a single market and a common currency, while Indian states cannot agree on river-water sharing, district boundaries or tehsil limits, producing only committees, walk-outs, bandhs, morchas and rasta roko. The opening pages position the study less as economic reportage than as an exhortation to Indian economists and policymakers to learn from Europe at a moment of accelerating globalisation.

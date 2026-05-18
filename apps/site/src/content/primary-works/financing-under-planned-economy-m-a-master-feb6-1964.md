@@ -56,11 +56,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Financing Under Planned Economy
-
-*By M. A. MASTER*
-
 ## Summary
 
 M. A. Master's 1964 Forum of Free Enterprise booklet is a tightly argued audit of how India proposes to pay for the Third Five-Year Plan. Master opens by faulting the Planning Commission for headlining a 'Rs. 10,400 crores' plan when the real outlay, public and private together, comes to Rs. 11,600 crores; the deduction of current outlay and the inclusion of inventories, he argues, obscure rather than clarify the financing problem. He then walks systematically through the four sources of finance the Commission claims it will tap — additional taxation, foreign exchange, borrowings from within the country, and surpluses from public enterprises — and shows that the Commission has consistently overestimated each one. Additional taxation has had to jump from a budgeted Rs. 2,400 crores to Rs. 2,750 crores and is squeezing a population already 'paying nearly 200%' more in central interest charges than at the start of Plan-era India.

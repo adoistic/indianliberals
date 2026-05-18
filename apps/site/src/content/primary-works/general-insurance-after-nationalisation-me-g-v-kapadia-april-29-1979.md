@@ -70,11 +70,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# The Role of General Insurance After Nationalisation
-
-*By G. V. KAPADIA*
-
 ## Summary
 
 Delivered as the A. D. Shroff Memorial Trust's annual public lecture in Bombay on 14 February 1979 and published the same year, G. V. Kapadia's address provides an authoritative insider's account of general insurance in India seven years after nationalisation. Kapadia, then Chairman of the General Insurance Corporation of India (GIC), opens with an extended tribute to A. D. Shroff's role in building New India Assurance Co. from 1946 until his death in 1965 — growing its share of new life insurance from 9.5 per cent (1950) to 19.1 per cent (1955), and of general insurance premium income from 7 per cent (1955) to 17 per cent (1971). He also credits Shroff with founding the India Reinsurance Corporation in 1956 and, through the Shroff Committee (1953), providing the intellectual foundations for ICICI, IDBI and UTI.

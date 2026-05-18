@@ -55,11 +55,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# EFFICIENCY IN STATE ENTERPRISES IN INDIA
-
-*By Dr. N. Das, I.C.S. (Retd.)*
-
 ## Summary
 
 Dr. N. Das, a retired ICS officer and Director-General of the Employers' Federation of India, delivered this lecture to the Forum of Free Enterprise in Bombay on 26 October 1962. He traces the meteoric rise of India's public sector since the 1948 Industrial Policy Statement: from Rs. 179 crores in the First Plan, to Rs. 974 crores in the Second Plan, to Rs. 2,147 crores earmarked in the Third Plan—roughly 97 per cent of total Central Government industrial investment by 1960-61. The booklet asks a single, sharp question: with this scale of state investment, is the country getting commensurate value?

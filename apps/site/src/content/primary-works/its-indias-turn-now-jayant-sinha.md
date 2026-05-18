@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# It's India's Turn Now
-
-*By Jayant Sinha*
-
 ## Summary
 
 "It's India's Turn Now" reproduces the text of an address delivered by Jayant Sinha, then Minister of State for Civil Aviation, in Mumbai on 29 September 2016 to mark the Diamond Jubilee of the Forum of Free Enterprise and the Golden Jubilee of the A. D. Shroff Memorial Trust. Sinha frames the moment as one in which globalist liberalism is under siege — citing the first US presidential debate, the Brexit vote, the rise of European extremist parties and global terrorism — and argues that India, with its single-party majority and a decisive prime minister, is now positioned to take up the vanguard of a new global order and become a "Vishwa Guru."

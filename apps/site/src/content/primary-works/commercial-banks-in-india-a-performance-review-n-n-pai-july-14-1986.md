@@ -58,11 +58,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# COMMERCIAL BANKS IN INDIA—A PERFORMANCE REVIEW
-
-*By N. N. PAI*
-
 ## Summary
 
 Delivered as the annual public lecture under the auspices of the A. D. Shroff Memorial Trust in Bombay on 26 May 1986 and released as a booklet on 14 July 1986, this address by N. N. Pai—former Chairman and Managing Director of the Industrial Development Bank of India and Corporation Bank—offers a forensic review of the seventeen years since the nationalisation of fourteen major commercial banks in July 1969. Pai's central argument is that the banking system had achieved genuinely remarkable quantitative gains in social outreach, but that the pace and direction of that expansion had simultaneously degraded quality, eroded profitability, and starved the medium and large industrial sector of working capital.

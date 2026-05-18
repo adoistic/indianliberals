@@ -42,11 +42,6 @@ missing_metadata_flags:
   - no_series_number_visible
   - back_cover_and_colophon_not_in_rendered_chunk
 ---
-
-# NO VERVE IN BUDGET PROPOSALS
-
-*By HP Ranina*
-
 ## Summary
 
 Ranina opens with a diagnosis of the Indian economy of 1984 — uncontrollable prices, a stagnant industrial sector, dwindling foreign exchange reserves, the spreading cancer of black money and tax evasion, a flatulent public sector, labour indiscipline, and decaying infrastructure — and argues that the Finance Minister's Budget proposals do nothing to revive industry or to meet the 9 per cent growth target fixed under the Seventh Five-Year Plan. The pamphlet then walks the reader through the Finance Bill, 1984, in three parts: provisions affecting industry, provisions affecting individuals, and miscellaneous provisions.

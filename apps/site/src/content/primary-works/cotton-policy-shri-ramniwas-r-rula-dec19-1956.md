@@ -63,11 +63,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Cotton Policy
-
-*By Shri Ramniwas R. Ruia*
-
 ## Summary
 
 Published as the full text of a press statement issued by Shri Ramniwas R. Ruia on 19 December 1956, responding to the Cotton Policy debate in the Lok Sabha, this piece appears as a Forum of Free Enterprise pamphlet. Ruia writes as a cotton trade insider of three generations' standing — exporter, importer, buyer, seller, consumer, and manufacturer — with over thirty years of direct experience, and opens by asserting his constitutional right as a free citizen to criticise government policy without fear.

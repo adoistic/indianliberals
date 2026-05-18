@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
 ---
-
-# NEW TAXATION PROPOSALS
-
-*By A. D. Shroff*
-
 ## Summary
 
 In this Forum of Free Enterprise pamphlet, banker and classical-liberal commentator A. D. Shroff dissects Finance Minister T. T. Krishnamachari's mid-year tax proposals of 30 November 1956, introduced to plug the widening gap in financing the Second Five-Year Plan. Shroff opens by setting out the deteriorating economic background: the rapid depletion of India's sterling balances from Rs. 542 crores to a withdrawable balance of Rs. 142 crores within a year, the heavy import bill created by capital projects under the Plan, rising prices of foodgrains and cloth, and the freight and insurance shock from the closure of the Suez Canal. Against this background, he argues, the Government has finally been forced to admit that the Plan, originally pegged at Rs. 4,800 crores in the public sector, will now require Rs. 5,300 crores and roughly Rs. 1,300 crores of additional taxation rather than the Rs. 400 crores first envisaged. The Plan, he concludes, was 'so formulated that it was not related to the realities of the situation in our economy.'

@@ -58,9 +58,6 @@ missing_metadata_flags:
   - year_not_printed_on_cover
   - section_II_title_not_visible_in_chunk
 ---
-
-# MANAGING A BUSINESS IN INDIA
-
 ## Summary
 
 Managing a Business in India is a Forum of Free Enterprise booklet that bundles excerpts from two speeches — one by T. Thomas, the long-serving Chairman of Hindustan Lever Ltd., delivered at the firm's Annual General Meeting in Bombay on 20 June 1980, and another by the young industrialist Dilip G. Piramal. The introduction frames the volume as a periodic stocktaking of the conditions under which private enterprise must operate within India's mixed economy, and argues that if its propositions are taken seriously, the role of private enterprise in national economic development can be secured. An epigraph from Eugene Black — "People must come to accept private enterprise not as a necessary evil, but as an affirmative good" — sets the polemical key.

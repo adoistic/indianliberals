@@ -52,11 +52,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# General Insurance and Nationalisation
-
-*By J. D. CHOKSI*
-
 ## Summary
 
 Adapted from a talk delivered under the auspices of the Bombay Insurance Institute in 1967 and published as a Forum of Free Enterprise pamphlet dated 12 October 1967, J. D. Choksi's address — delivered as Chairman of New India Assurance Company — mounts a sustained case against the proposed nationalisation of general insurance at a moment when the Congress Working Committee had just moved a resolution directing the government to explore the measure. The pamphlet is a direct intervention: it names the political process that brought the proposal forward (a thinly attended AICC session), and quotes both the Finance Minister's statement at the time of life insurance nationalisation in 1956 and Deputy Finance Minister B. R. Bhagat's reaffirmation in 1961 that there was no case for nationalising general insurance.

@@ -73,11 +73,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Deficit Financing, Inflation and Price Control
-
-*By K. Jayaraman*
-
 ## Summary
 
 K. Jayaraman, a retired Indian Economic Service officer and former Director of Review and Research at the Tariff Commission, delivers this Forum of Free Enterprise lecture (Bombay, 25 July 1973; booklet dated 14 November 1973) as a diagnostic of the 1973 inflationary crisis. He opens with the headline fact that prices have risen by more than 22 per cent in a single year — the steepest in recent memory — with food articles accounting for over two-thirds of the rise and industrial raw materials up more than 30 per cent. The pamphlet treats inflation as "confiscation without compensation" and as "robbery on national scale," arguing that anti-price-rise demonstrations have begun to deteriorate into lawlessness while government pricing policy itself adds fuel.

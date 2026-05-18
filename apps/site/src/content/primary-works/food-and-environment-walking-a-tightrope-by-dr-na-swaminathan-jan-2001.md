@@ -39,11 +39,6 @@ missing_metadata_flags:
   - publication_year_not_found_in_chunk
   - colophon_not_in_chunk
 ---
-
-# FOOD AND ENVIRONMENT – WALKING THE TIGHTROPE
-
-*By Dr. M.S. Swaminathan*
-
 ## Summary
 
 Dr. M. S. Swaminathan's Forum of Free Enterprise pamphlet, reprinted from the January–March 2000 issue of *Financing Agriculture*, addresses what he calls the central tightrope of the new century: producing more food from a shrinking base of land and water without further damaging the ecological foundations of agriculture. He opens with the World Scientists' Warning to Humanity and the Hadley Centre's sea-level projections to frame agriculture as inseparable from climate, biodiversity and the global commons, then narrates how post-1947 India moved from a 0.1 percent annual growth in food production to a ten-fold rise in wheat output by 1998–99 — the green revolution that 'proved doomsday predictions wrong'.

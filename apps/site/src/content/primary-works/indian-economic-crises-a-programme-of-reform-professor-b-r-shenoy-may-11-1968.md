@@ -43,11 +43,6 @@ missing_metadata_flags:
   - colophon_not_seen
   - no_formal_toc
 ---
-
-# INDIAN ECONOMIC CRISES
-
-*By B. R. Shenoy*
-
 ## Summary
 
 B. R. Shenoy's 1968 Forum of Free Enterprise pamphlet — drawn from a series of articles in *Swarajya* (Madras) — diagnoses India's compounding economic crises as the outcome not of bad monsoons, the Chinese border war or the 1965 Indo-Pakistan conflict, but of fifteen years of avoidable policy mismanagement. The argument unfolds across four chapters (I. Anti-Social Income Shifts; II. Importance of Zero Inflation; III. PL 480 Inflation; IV. A Programme of Reform). Inflation, Shenoy insists, is the tap-root of nearly every ailment — the chronic price acceleration, the foreign-exchange scarcity, the recourse to import licensing and other 'defences', and the perverse income transfers that have fed luxury living among a privileged upper crust while pushing the salaried middle classes toward indigence.

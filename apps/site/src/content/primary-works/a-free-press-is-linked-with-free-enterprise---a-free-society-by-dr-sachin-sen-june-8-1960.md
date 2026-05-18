@@ -46,11 +46,6 @@ missing_metadata_flags:
   - no_separate_title_page
   - no_series_number
 ---
-
-# A FREE PRESS IS LINKED WITH FREE ENTERPRISE & A FREE SOCIETY
-
-*By Dr. Sachin Sen*
-
 ## Summary
 
 In this brief 1960 leaflet — originally published in the New Delhi journal 'The Editor' and reprinted by the Forum of Free Enterprise — Dr. Sachin Sen, then editor of the 'Indian Nation' (Patna) and former President of the All-India Newspaper Editors' Conference, argues that a free press is structurally inseparable from free enterprise and a free society. His core claim is that democracy requires autonomous institutions, and the press must function as one such institution: free from State coercion, free from party discipline, and free from the obligation to serve any government's ideological agenda.

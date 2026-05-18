@@ -44,11 +44,6 @@ missing_metadata_flags:
   - year_not_found
   - byline_not_explicitly_printed_on_visible_pages
 ---
-
-# বাল্য বিবাহের দোষ
-
-*By Ishwar Chandra Vidyasagar*
-
 ## Summary
 
 Written in Bengali, 'বাল্য বিবাহের দোষ' (Balya Bibaher Dosh — 'The Harms of Child Marriage') is a short polemical pamphlet by Ishwar Chandra Vidyasagar directed against the practice of marrying off young girls before they have reached physical or intellectual maturity. The pamphlet opens by identifying child marriage as a deep-rooted social ill in Bengali Hindu society and argues, on grounds of compassion and reason, that the practice inflicts severe bodily harm on young girls who are compelled to bear the physical demands of conjugal life and childbearing before their bodies are capable of sustaining them. Vidyasagar draws on observable suffering — premature widowhood, physical debility, and stunted lives — to make a case that the custom cannot be defended by appeal to tradition alone.

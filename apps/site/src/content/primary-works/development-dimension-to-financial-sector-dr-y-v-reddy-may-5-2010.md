@@ -56,11 +56,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Developmental Dimension to Financial Sector
-
-*By Dr. Y. V. Reddy*
-
 ## Summary
 
 Delivered on 6 May 2010 at the Sixth M. R. Pai Memorial Award function in Mumbai and published as a Forum of Free Enterprise booklet, Dr. Y. V. Reddy's lecture revisits the role of the financial sector in economic management in the wake of the 2008–09 global financial crisis. Speaking as a former Governor of the Reserve Bank of India (2003–08) and earlier Deputy Governor (1996–2003), Reddy treats the award as recognition of the RBI's work on depositors' interests and uses the occasion to argue that the post-crisis 'rebalancing' of financial regulation under discussion globally must give equal weight to developmental objectives, not only to stability.

@@ -41,11 +41,6 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
 ---
-
-# Foreign Capital
-
-*By KIRAN NANDA*
-
 ## Summary
 
 Kiran Nanda, Chief Economist of Gujarat Ambuja Cements, delivers a Forum of Free Enterprise booklet based on her keynote address at a Bombay seminar on "FOREIGN CAPITAL & GLOBALISATION" in September 1995. She argues that the opening of the Indian economy to foreign capital — central to the New Industrial Policy of 1991 — is indispensable if India is to lift growth from 5–6 per cent to 7–8 per cent. Foreign capital, in her telling, plugs the savings-investment gap, especially in infrastructure (roads, power, telecoms, railways requiring at least $200 billion over a decade), modernises industry, brings managerial and marketing skills, and helps reorient the work culture toward international competitiveness.

@@ -55,11 +55,6 @@ missing_metadata_flags:
   - translator_not_in_authority_file
   - no_isbn
 ---
-
-# हमारा हिन्दुस्तान
-
-*By Minoo Masani*
-
 ## Summary
 
 हमारा हिन्दुस्तान (Hamārā Hindustān) is a 1942 Hindi translation, by V. P. Sinha (वी. पी. सिन्हा), of Minoo Masani's English popular primer Our India, published by Oxford University Press Bombay. The book is addressed to a general Hindi-reading audience and sets out to introduce India's geography, population, climate, agriculture, and economic life in plain, conversational prose illustrated with approximately 100 diagrams and woodcut-style images. In the rendered pages Masani opens with an appeal to national pride: one in every five human beings on earth is an Indian, a fact that ought, he argues, to stir every reader to engage with the country's problems and potential.

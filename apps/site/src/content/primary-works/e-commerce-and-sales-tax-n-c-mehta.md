@@ -42,11 +42,6 @@ physical:
   pages_total_source: pypdfium2
   format: FFE pamphlet/booklet, soft cover (green); booklet number 18/May-June/2000
 ---
-
-# E-Commerce and Sales Tax
-
-*By N.C. Mehta*
-
 ## Summary
 
 N. C. Mehta — a chartered accountant and sales-tax specialist writing for the Forum of Free Enterprise — distils, in twelve dense pages, the constitutional and case-law framework that governs how Indian states may tax transactions completed over the internet. The booklet is a faithful piece of practitioner literature: it begins from the Supreme Court's Titaghur Paper Mills doctrine that no state may treat as a taxable 'sale' anything that is not a sale of goods under the Sale of Goods Act, 1930, and then traces how the Forty-sixth Amendment to the Constitution and article 366(29A) extended the states' reach to a list of 'deemed sales' (works contracts, hire-purchase, leases, lottery participation, transfer of right to use goods, and so on).

@@ -62,11 +62,6 @@ thinker_mentions:
         what_it_shows: "Shroff's counter-intuitive provocation — reframing welfare in American rather than socialist terms"
 
 ---
-
-# Forum of Free Enterprise
-
-*By A. D. Shroff*
-
 ## Summary
 
 This pamphlet reproduces A. D. Shroff's address at the first press conference of the Forum of Free Enterprise, held on July 25, 1956. Shroff opens by responding to press criticism that the Forum's sponsors are hiding in the background, insisting that the group is an ad hoc body with no written constitution, formed by observers who felt it was time to articulate publicly what Free Enterprise means in India, what it has already achieved, and what it can still do for the country. He extends the meaning of Free Enterprise beyond industrialists and businessmen to include shop-keepers, clerical employees, and professional groups, arguing that its essence is the democratic way of life and that the Forum exists to educate the public and warn it against trends of thinking that could ultimately destroy that way of life.

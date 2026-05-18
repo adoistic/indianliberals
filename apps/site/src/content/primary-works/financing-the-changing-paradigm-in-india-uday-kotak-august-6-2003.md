@@ -53,11 +53,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FINANCING - THE CHANGING PARADIGM IN INDIA
-
-*By UDAY KOTAK*
-
 ## Summary
 
 Delivered as the A. D. Shroff Memorial Lecture on 11 February 2003 and published as a booklet that August, this address by banker Uday Kotak surveys what he calls the ten paradigm shifts reshaping financial services in India. Kotak opens with everyday analogies — the arrival of the black-and-white television, the mobile phone, the Internet bubble — to argue that the financial sector is condemned to absorb every paradigm shift in the real economy, but that it must do so without abandoning the bedrock principles of prudence, trust and conservatism. The lecture is staged as a friendly amendment to Shroff's own classic on industrial finance, banking and insurance: where Shroff defended compartments, Kotak argues that the compartments themselves are dissolving.

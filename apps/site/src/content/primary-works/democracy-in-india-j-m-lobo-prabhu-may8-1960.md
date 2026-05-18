@@ -53,11 +53,6 @@ missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
 ---
-
-# Democracy in India
-
-*By J. M. LOBO PRABHU*
-
 ## Summary
 
 J. M. Lobo Prabhu's prize-winning 1959 Forum of Free Enterprise essay argues that Indian democracy is being hollowed out from within by the Constitution that was meant to secure it. Tracing democratic experience in India to barely sixty years of British administration, Lobo Prabhu charges the Constituent Assembly with importing the rhetoric of a Sovereign Democratic Republic while quietly drafting in the substance of the Soviet Socialist Republic — most visibly through the Directive Principles, the steadily expanding catalogue of administrative tribunals exempted from the ordinary law courts, and amendments (especially the First and the Fourth) that progressively dismantle property rights, freedom of expression and the Rule of Law as Dicey understood it.

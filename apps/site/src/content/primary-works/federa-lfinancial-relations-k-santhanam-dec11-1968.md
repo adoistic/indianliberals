@@ -83,11 +83,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Federal Financial Relations in India
-
-*By K. SANTHANAM*
-
 ## Summary
 
 Delivered as the First A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise, K. Santhanam's address surveys the constitutional architecture of Centre–State financial relations in India and argues that planning has bent that architecture out of shape. After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's pioneering work for free enterprise and recall Shroff's own wish for a talk on changing Union–State financial relations, Santhanam traces the lineage of Indian fiscal federalism from Lord Mayo's 1870 devolution through the Government of India Act, 1935, into Articles 268–281 of the Constitution.

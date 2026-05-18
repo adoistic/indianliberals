@@ -52,11 +52,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Infirmities Will Continue Under the Union Budget 1996-97
-
-*By HP Ranina*
-
 ## Summary
 
 This is a Forum of Free Enterprise booklet based on a Mumbai public lecture by chartered accountant and tax authority H. P. Ranina, dissecting Finance Minister P. Chidambaram's maiden Union Budget for 1996-97 under the United Front Government. Ranina concedes that the Budget tries to placate the parties supporting the Government by working within the Common Minimum Programme — bumping rural development outlays by more than Rs. 1,000 crore and social services by almost Rs. 1,700 crore — but argues that across all three of its stated objectives (fiscal stabilisation, poverty alleviation, infrastructure) the Budget falls short. He warns that the budgeted deficit of Rs. 6,578 crore (nearly 5% of GDP) probably understates reality, since the customs duty projection of Rs. 44,435 crore assumes an implausible 50% collection jump, and that scheme proliferation will simply fatten the bureaucracy without reaching the intended beneficiaries.

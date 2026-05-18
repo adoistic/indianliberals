@@ -74,11 +74,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Concentration of Economic Power
-
-*By D. R. Pendse*
-
 ## Summary
 
 Delivered as the Sixth A. D. Shroff Memorial Lecture in Poona in 1971 and published by the Forum of Free Enterprise in July 1972, D. R. Pendse's booklet argues that India's intensifying preoccupation with the 'Concentration of Economic Power' (CEP) has itself become a danger to economic growth. Writing as Deputy Economic Adviser to Tatas, Pendse traces the policy lineage from Prime Minister Jawaharlal Nehru's 1959 decision to commission what became the Mahalanobis study, through the Monopolies Inquiry Commission (1965), the Hazari Committee (1967) and the Dutt Committee (1969), to the Monopolies and Restrictive Trade Practices (MRTP) Act, which came into force in June 1970. He contends that the Act — and especially its Chapter III, which vests sweeping discretionary powers in Government to approve or reject expansion proposals — already constitutes a more than adequate weapon against concentration; the trouble is the obsession that has grown around it.

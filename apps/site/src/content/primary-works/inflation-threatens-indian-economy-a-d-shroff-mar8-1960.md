@@ -39,11 +39,6 @@ physical:
   pages_total_source: pypdfium2
   format: Stapled booklet / pamphlet with blue card covers; FFE imprint
 ---
-
-# INFLATION THREATENS INDIAN ECONOMY
-
-*By A. D. Shroff*
-
 ## Summary
 
 A. D. Shroff's pamphlet, based on a lecture on the Union Budget 1960/61 delivered in Bombay on 10 March 1960, reads the Government of India's budget against the Finance Ministry's own Economic Survey and argues that the Survey's sober warnings have been ignored. Shroff seizes on the Survey's admission that wholesale prices have risen about 20 per cent since the start of the Second Plan to build a sustained case that India is being pushed into a structural inflation by reckless public expenditure outrunning the supply of goods and services. He commends the anonymous Economic Survey writer for objectivity but accuses the Finance Minister of refusing to accept that diagnosis when framing the budget.

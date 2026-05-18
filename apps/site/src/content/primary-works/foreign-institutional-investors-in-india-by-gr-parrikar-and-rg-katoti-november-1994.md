@@ -62,11 +62,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FOREIGN INSTITUTIONAL INVESTORS IN INDIA
-
-*By G.R. PARRIKAR, R.G. KATOTI*
-
 ## Summary
 
 G. R. Parrikar and R. G. Katoti, both economists in the Department of Economics & Statistics at Tata Services Ltd., survey the entry of Foreign Institutional Investors (FIIs) into India's capital markets in the early years after the September 1992 SEBI guidelines. The pamphlet, published by the Forum of Free Enterprise in November 1994, treats the opening-up of Indian equity markets to FIIs as one of the defining markers of the country's transition to a market-driven economic system, situating the move within Finance Minister Manmohan Singh's 1992-93 budget pledge to admit reputable foreign investors such as pension funds. The authors note the encouraging response of 1993-94 — over 225 FIIs registered with SEBI and cumulative net inflows of about $2.7 billion (Rs. 8,470 crores) — while flagging the cautionary view that international capital flows are 'fair weather friends' and that, as N. A. Palkhivala has argued, a cap on FII investments may be desirable.

@@ -54,11 +54,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Reforms in India: Where are We and Where do We Go?
-
-*By Dr. Rakesh Mohan*
-
 ## Summary
 
 Rakesh Mohan's 39th A. D. Shroff Memorial Lecture, delivered in Mumbai in December 2005 and published by the Forum of Free Enterprise in 2007, takes stock of fifteen years of economic reform in India and sketches an agenda for the next round. Mohan invokes Malcolm Gladwell's metaphor of the tipping point to argue that countless small, gradual reforms since 1991 have together released a 'burst of entrepreneurial energy', lifting trend growth from around 3–4 per cent for three decades to 6–6.5 per cent, slashing inflation, building comfortable foreign-exchange reserves and pulling poverty down by 23–26 percentage points since independence. He divides the story into macroeconomic reforms — tax simplification (with a central CENVAT rate of 16 per cent, a VAT roll-out, and the Fiscal Responsibility and Budget Management Act of 2004); monetary policy reforms that ended automatic monetisation of fiscal deficits, restored central-bank autonomy and halved average inflation; and external-sector reforms that devalued the rupee in 1991, moved to a managed float, cut peak tariffs from over 400 per cent to 12.5, and opened the current account with limited capital-account convertibility.

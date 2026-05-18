@@ -80,11 +80,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# ENLIST CO-OPERATION OF PRIVATE ENTERPRISE
-
-*By SIR B. RAMA RAU*
-
 ## Summary
 
 Sir B. Rama Rau's short address to the Rotary Club of Bombay (June 23, 1959), published as a Forum of Free Enterprise booklet, opens with a diagnosis of India's Parliamentary system: the absence of an effective democratic opposition has bred a public culture in which 'even honest businessmen, who have to depend on Government for licences and concessions in a rigidly controlled economy' are afraid to speak publicly on wider political issues, and the Press has only lately found its voice. He treats this nervousness as 'characteristic of a developing totalitarian regime' that only a serious opposition can cure. From this opening he welcomes Rajagopalachari's announcement of a new independent democratic party (with Jayaprakash Narayan's qualified blessing and Nehru's recognition that constructive criticism would serve Congress), and positions himself as a detached observer of recent economic and political developments.

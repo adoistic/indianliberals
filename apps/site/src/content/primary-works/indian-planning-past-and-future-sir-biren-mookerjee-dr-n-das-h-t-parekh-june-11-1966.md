@@ -71,9 +71,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# INDIAN PLANNING —PAST & FUTURE
-
 ## Summary
 
 This Forum of Free Enterprise booklet gathers three independent essays by prominent Indian voices in industry, economics, and finance, all converging on a single verdict: fifteen years of Five-Year Plans have failed to improve the material condition of the average Indian, and the Fourth Plan must radically reconsider both its diagnosis and its methods. The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as "an affirmative good" rather than a tolerated evil. Mookerjee's opening essay argues that planning success is impossible without sweeping modernisation—mechanisation, automation, and managerial pragmatism—and lays particular blame on restrictive public-sector licensing and labour-monopoly policies. Das furnishes a dense statistical indictment, showing that per capita income, diet, housing, and employment all registered negligible or negative improvement across the planning period. Parekh, writing on the eve of the Fourth Plan, reframes the central problem as runaway inflation produced by contradictory fiscal, monetary, and price-control policies, and urges a shift from prestige-driven outlay targets to economical, productivity-oriented resource use.

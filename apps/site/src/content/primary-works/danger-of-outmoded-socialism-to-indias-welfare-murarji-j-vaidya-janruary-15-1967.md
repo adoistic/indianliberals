@@ -49,11 +49,6 @@ missing_metadata_flags:
   - colophon_not_seen
   - publication_year_of_pamphlet_not_printed_on_visible_pages
 ---
-
-# DANGER OF OUTMODED SOCIALISM TO INDIA'S WELFARE
-
-*By MURARJI J. VAIDYA*
-
 ## Summary
 
 Murarji J. Vaidya's 1966 presidential address to the Forum of Free Enterprise — published as a pamphlet in January 1967 — diagnoses India's mid-1960s economic crisis as the cumulative consequence of the 'so-called socialist economic ideology' embraced by the Government since 1955. Writing in the wake of the rupee devaluation, runaway food imports, soaring prices and an aborted Third Plan, Vaidya argues that centralised comprehensive planning has produced not equality but inflation, food scarcity, capital flight and the political concentration that he sees as freedom's first casualty in self-described 'People's Democratic Republics.'

@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
 ---
-
-# Inflation in Brazil—the Principles of Monetary Correction
-
-*By Dr. Roberto de Oliveira Campos*
-
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces Roberto de Oliveira Campos's inaugural Chairman's lecture, delivered at the London Stock Exchange on 19 November 1974 and published in Bombay in October 1975. Campos, a former Brazilian Minister of Finance and then Ambassador to the United Kingdom, sets out the rationale and architecture of Brazil's policy of generalised monetary correction — that is, indexation — as a tool for living with chronic inflation rather than eradicating it. He opens with a diagnosis of the inflationary malaise afflicting the industrial West after 1971: money has lost its functions as store of value and unit of account, inflation is now structurally embedded in modern social structures, the conventional medicine of monetary and fiscal policy produces stagflation, and even mature democracies feel the political strain of two-digit price rises.

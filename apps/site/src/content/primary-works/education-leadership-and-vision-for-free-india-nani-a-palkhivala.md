@@ -83,11 +83,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# EDUCATION, LEADERSHIP AND VISION OF A FREE INDIA
-
-*By NANI A. PALKHIVALA*
-
 ## Summary
 
 This slim Forum of Free Enterprise booklet collects two of Nani A. Palkhivala's late-1990s addresses. The first is his acceptance speech for the 1997 Dadabhai Naoroji Award, delivered on 12 August 1997; the second is his response at the University of Mumbai's Special Convocation on 19 January 1998, where Governor P. C. Alexander conferred an honorary Doctor of Laws on him. Both texts are framed around the conviction that India's freedom required, above all, an enlightened and well-educated citizenry.

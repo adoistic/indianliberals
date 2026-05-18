@@ -69,11 +69,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Ethics in Business and Management
-
-*By D. VEERENDRA HEGGADE*
-
 ## Summary
 
 Ethics in Business and Management collects the text of the 9th Bhogilal Leherchand Memorial Lecture, delivered by D. Veerendra Heggade — the Dharmadhikari (hereditary religious head) of Sri Kshetra Dharmasthala in Karnataka — in Mumbai on 7 January 1998 and presided over by Nani A. Palkhivala. Published as a booklet by the Forum of Free Enterprise, the address asks whether the term 'Ethics' retains any meaning in a modern world enthralled by money, technology and unlimited consumption, and answers by drawing the management vocabulary back to dharmic categories: Artha, Kama, Moksha, and above all Dharma as a restraining force on the acquisition of wealth.

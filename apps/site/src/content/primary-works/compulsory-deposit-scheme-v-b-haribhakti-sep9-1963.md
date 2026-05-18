@@ -52,11 +52,6 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc
 ---
-
-# Compulsory Deposit Scheme
-
-*By V. B. HARIBHAKTI, H. C. MALKANI*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet collects two talks delivered in Bombay on 23 July 1963 attacking the Compulsory Deposit Scheme (C.D.S.) announced by the Finance Minister in the 28 February 1963 Budget Speech. V. B. Haribhakti, a chartered accountant, dissects the statute clause-by-clause to argue that the scheme is gigantic, ill-considered, and impossible to administer fairly on lower-income earners. H. C. Malkani, Principal of Bombay's College of Commerce and Economics, takes up the question of feasibility — comparing C.D.S. to Keynes-inspired British deferred-pay precedents, weighing it against ordinary taxation, and concluding that the implementation machinery is nowhere near ready for the colossal task. Both pieces share the Forum's classical-liberal framing — captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms and that government overspending, not private consumption, is the real fiscal problem.

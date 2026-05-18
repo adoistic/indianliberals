@@ -46,11 +46,6 @@ missing_metadata_flags:
   - no_explicit_publication_year
   - no_separate_title_page
 ---
-
-# LIBERTY TO TRADE ENDANGERED
-
-*By A. D. Shroff*
-
 ## Summary
 
 This pamphlet reproduces a speech by A. D. Shroff delivered at the Southern India Chamber of Commerce, Madras, on 16 January 1957 and issued by the Forum of Free Enterprise in Bombay. Shroff argues that Free Enterprise has come under sustained attack in recent months in India, with the State Trading Corporation, compulsory industrial deposits, and the nationalisation of life insurance treated as illustrations of an expanding regulatory state that drifts steadily from a planned economy into the daily regulation of economic life.

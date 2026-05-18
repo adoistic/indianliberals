@@ -77,11 +77,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# ECONOMICS OF FREEDOM
-
-*By M. R. MASANI*
-
 ## Summary
 
 This pamphlet reproduces M. R. Masani's address to the Rotary Club of Bombay, framed as a sustained argument against India's drift toward what he calls 'State Capitalism and State Landlordism' on the Soviet–Chinese pattern. Masani opens by recalling a conversation with an influential ruling-party friend who shared his distaste for the Stalinist model yet still wished India to socialise large-scale industry and impose co-operative farming; the body of the talk explains why such a programme, however well-intentioned, must in his view extinguish political liberty.

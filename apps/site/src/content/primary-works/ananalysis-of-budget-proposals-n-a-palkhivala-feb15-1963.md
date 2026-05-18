@@ -45,11 +45,6 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_isbn_issn
 ---
-
-# AN ANALYSIS OF BUDGET PROPOSALS (1963-64)
-
-*By N. A. Palkhivala*
-
 ## Summary
 
 N. A. Palkhivala's pamphlet — published by the Forum of Free Enterprise on the eve of the post-1962 emergency Budget — is a sustained classical-liberal attack on the 1963-64 Union Budget, with the proposed Super Profits Tax as its central target. Palkhivala opens by insisting that even an emergency cannot suspend "the principles of economics and the rules which regulate human conduct," and uses cross-national comparison (Japan halving its income-tax on the middle classes, US/UK/Germany/France direct-tax reductions, the National Institute's report to the UK Government, articles in The Times, The Economist and Time) to argue that progressive economies grow revenues by lowering rates, not by piling them on already-confiscatory marginal rates of 50% on companies and 87% on individuals.

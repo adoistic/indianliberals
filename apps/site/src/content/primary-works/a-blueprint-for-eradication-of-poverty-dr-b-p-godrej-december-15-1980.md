@@ -58,11 +58,6 @@ missing_metadata_flags:
   - no_series_number_confirmed
   - author_not_in_authority_file
 ---
-
-# A Blueprint for Eradication of Poverty
-
-*By Dr. B. P. GODREJ*
-
 ## Summary
 
 Delivered as a public lecture under the auspices of the Forum of Free Enterprise in Bombay on 16 September 1980 and published as a pamphlet in December of that year, Dr. B. P. Godrej's address opens by naming poverty and unemployment as India's greatest crises. Drawing on official surveys and press reports, he establishes that more than 356 million Indians lived below the poverty line in 1978—defined as the caloric threshold below which a worker cannot perform a full day's labour—and that malnutrition was measurably depressing the cognitive development of the rural poor.

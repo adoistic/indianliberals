@@ -55,11 +55,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# CHINESE COMPETITION
-
-*By P.N.G. SUBRAMANIAN, I.F.S. (Retd.)*
-
 ## Summary
 
 Delivered as the 36th A. D. Shroff Memorial Lecture in Mumbai on 23 October 2002 and circulated as a Forum of Free Enterprise booklet, P. N. G. Subramanian — a former Consul-General of India in Shanghai — sets out to explain to an Indian liberal audience how China engineered its sustained ascent and what that ascent now means for India. He locates the inflection point in December 1978, when the Party abandoned Class War for what he calls 'Economic Capitalism and Political Socialism', and traces an export-led, foreign-investment-rich growth model that has carried China to roughly $300 billion in exports, a savings rate above 40 per cent of GDP, and the world's tenth-largest trading nation status on the eve of full WTO accession.

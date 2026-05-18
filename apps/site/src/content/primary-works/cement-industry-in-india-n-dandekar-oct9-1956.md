@@ -43,11 +43,6 @@ missing_metadata_flags:
   - no_toc
   - author_not_in_authority
 ---
-
-# CEMENT INDUSTRY IN INDIA
-
-*By N. Dandekar, L. Sawhny*
-
 ## Summary
 
 Reprinted from The Times of India of 5 and 9 October 1956, this Forum of Free Enterprise pamphlet by N. Dandekar and L. Sawhny offers a stewardship audit of the Indian cement industry as a case study in what private capital, organised through the Associated Cement Companies Ltd., has achieved for the country. The authors trace the industry's history from the failed Madras factory of 1904 through the boom and bust of the inter-war years, the 1936 consolidation that produced ACC, and the post-Independence expansion that nearly trebled production between 1948 and 1955 — reaching 4.4 million tons in 1955 and beating the First Five-Year Plan target.

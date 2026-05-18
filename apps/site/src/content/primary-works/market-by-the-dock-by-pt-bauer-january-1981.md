@@ -26,9 +26,6 @@ ai:
   drafted_at: 2026-05-17
   model_version: v1.4
 ---
-
-# Untitled
-
 ## Summary
 
 The Market in the Dock is the text of a December 19, 1979 lecture by Cambridge-trained development economist P. T. Bauer, then Professor of Economics at the London School of Economics, delivered in Bombay under the auspices of the Forum of Free Enterprise and published as a pamphlet in January 1981. A foreword by Minoo H. Mody, who presided over the lecture, frames Bauer's central provocation: the market economy stands accused not because it has failed but because in much of the Third World it has never been tried. Mody links Bauer's argument to a broader critique of the welfare state, which he calls "the most tragic mistake of the twentieth century", and to the perplexity of governments who cannot reconcile demands for tax cuts with the bloated apparatus of subsidised state activity.

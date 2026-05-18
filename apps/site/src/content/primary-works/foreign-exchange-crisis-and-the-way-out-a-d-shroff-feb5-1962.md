@@ -85,11 +85,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FOREIGN EXCHANGE CRISIS — THE WAY OUT
-
-*By A. D. Shroff, R. V. MURTHY, DR. LANKA SUNDARAM*
-
 ## Summary
 
 This Forum of Free Enterprise booklet collects three talks delivered in Bombay, Bangalore and Ahmedabad in the last quarter of 1962, all diagnosing India's foreign exchange crisis at the threshold of the Third Five-Year Plan. The contributors — A. D. Shroff (President of the Forum), R. V. Murthy (Chairman of the Press Guild of India, editor of Records and Statistics) and Dr. Lanka Sundaram (former M.P., editor of Commerce and Industry) — converge on the verdict that the crisis is not a transient shock but a structural product of careless planning, gross underestimation of the foreign-exchange component of the Plans, and the dependence on external assistance that the planners had concealed from themselves and from the public.

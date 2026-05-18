@@ -102,11 +102,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Reforms and the Relevance of Prof. B. R. Shenoy
-
-*By Mrs. Kishori J. Udeshi*
-
 ## Summary
 
 Delivered on 4 June 2007 as the Prof. B. R. Shenoy Birth Centenary Memorial Lecture under the joint auspices of the Economics Research Centre, Mumbai, the Indian Liberal Group and the Forum of Free Enterprise, Kishori Udeshi's address reads as both a tribute and a vindication. Speaking as a former Deputy Governor of the Reserve Bank of India, she juxtaposes Shenoy's heterodox prescriptions of the 1950s–1970s against the post-1991 reform agenda and argues that almost every major liberalisation step—reining in deficit financing, channeling resources into agriculture, dismantling industrial licensing, scaling back the public sector, adopting a fully floating rupee, and rebalancing taxation and expenditure—was anticipated in Shenoy's writings. She treats him as 'the real founding father of the reforms of the past 15 years.'

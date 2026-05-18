@@ -63,11 +63,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Banks' Relationship with Customers - Evolving Perspectives
-
-*By Mrs. Shyamala Gopinath*
-
 ## Summary
 
 Delivered as the 4th M. R. Pai Memorial Award lecture on 8 April 2008 in Mumbai, Shyamala Gopinath — then Deputy Governor of the Reserve Bank of India — uses her platform to map how the banker-customer relationship has been remade by India's post-1991 liberalisation. She opens by paying tribute to M. R. Pai's consumer-activism legacy and argues, with a Sanskrit aside that 'the world has always been the same,' that customer protection in financial services has only grown more urgent as deregulation, private-sector entry and technology have multiplied product choices and the surface area for grievance.

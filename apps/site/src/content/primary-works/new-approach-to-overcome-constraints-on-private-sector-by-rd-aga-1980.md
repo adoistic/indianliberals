@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_isbn_visible
   - colophon_not_yet_rendered
 ---
-
-# A New Approach to Overcome Constraints on Private Sector
-
-*By R. D. Aga*
-
 ## Summary
 
 Delivered at the Eleventh Annual Convention of the Bombay Management Association on 3rd December 1980 and reissued as a Forum of Free Enterprise pamphlet, R. D. Aga's address recasts the standard Indian industrialist's grievance list — MRTP, FERA, licensing, price controls, FERA, labour and tax law — as a self-defeating monologue. Aga, chairman and managing director of Thermax (India), opens by distinguishing the entrepreneur from the administrator: the administrator treats boundary conditions as given, while the entrepreneur stretches them. From this distinction he argues that the post-1950 Indian preoccupation with external constraints, far from being an honest diagnosis, has become a cultural reflex that crowds out the search for opportunities.

@@ -87,11 +87,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# A PHILOSOPHY OF BUSINESS
-
-*By S. S. KANORIA*
-
 ## Summary
 
 Delivered as the A. D. Shroff Memorial Lecture at the Calcutta Centre of the Forum of Free Enterprise on 27 October 1971, this pamphlet is S. S. Kanoria's attempt — written as the then-President of FICCI — to articulate a positive 'philosophy of business' for Indian private enterprise. Kanoria opens by honouring Shroff as an industrialist-economist whose convictions inspired the Forum, and uses Keynes' dictum about the long reach of ideas to argue that India's economic debates are at root a 'battle of ideas, a struggle for men's minds'. He rejects two extremes: the laissez-faire of Adam Smith and the Manchester School, which he calls 'as dead as the dodo', and full state ownership and centralised planning, which he treats as its dogmatic mirror image.

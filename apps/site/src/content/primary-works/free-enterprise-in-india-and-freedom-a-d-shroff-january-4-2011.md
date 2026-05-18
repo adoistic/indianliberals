@@ -80,11 +80,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Free Enterprise in India and Freedom
-
-*By A. D. Shroff, Murarji J. Vaidya*
-
 ## Summary
 
 This 2011 Forum of Free Enterprise pamphlet reproduces two companion articles originally published in The Times of India on 30 March 1956 — A. D. Shroff's "Free Enterprise in India" and Murarji J. Vaidya's "Free Enterprise and Freedom" — bracketed by a fresh introduction from then-president Minoo R. Shroff that frames the reissue as a tribute to the late Farrok Mulla, a long-serving Forum office-bearer whose family sponsored the booklet. The two essays were prompted by the Government of India's adoption of a "socialistic pattern of society" as the credo of the Second Five-Year Plan, and together they argue that assigning the commanding heights of the economy to the public sector will both stifle the private sector that sustained pre-Independence growth and, more dangerously, concentrate economic power in the hands of politicians and bureaucrats in ways that will erode democracy and individual liberty.

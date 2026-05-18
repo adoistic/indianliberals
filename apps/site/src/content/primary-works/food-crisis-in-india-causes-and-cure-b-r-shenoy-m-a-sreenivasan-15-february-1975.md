@@ -57,11 +57,6 @@ missing_metadata_flags:
   - year_not_visible_on_rendered_pages
   - no_formal_toc
 ---
-
-# FOOD CRISIS IN INDIA — CAUSES & CURE
-
-*By B. R. Shenoy, MA Sreenivasan*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet, dated 15 February 1975, collects two short essays on India's food crisis prefaced by an anonymous Forum introduction. The lead piece, drawn from Prof. B. R. Shenoy's inaugural address to the Farmers' Federation of India convention at Pathankot on 20 December 1974, argues that India's persistent foodgrain deficits are the cumulative result of policy choices that have starved agriculture of capital while privileging heavy industry, public-sector outlays, deficit financing and below-market procurement. The companion essay by M. A. Sreenivasan, a former Agriculture Minister of Mysore, asks why Indian plantations — coffee, tea, rubber — flourish on the same earth and monsoon under which foodgrain agriculture languishes, and traces the disparity to colonial-era land-revenue provisions, security of title and the legal-political treatment of cultivation as an industry. The introduction crystallises the argumentative centre of the volume: the crisis is one of production, not distribution; food zones, monopoly procurement and deficit financing aggravate it; and the remedy lies in restoring agriculture's claim on national investment resources.

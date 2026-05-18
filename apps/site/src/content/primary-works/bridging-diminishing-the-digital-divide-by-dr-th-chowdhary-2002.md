@@ -41,11 +41,6 @@ missing_metadata_flags:
   - no_colophon_in_chunk
   - no_isbn_visible
 ---
-
-# BRIDGING (DIMINISHING) THE DIGITAL DIVIDE
-
-*By DR. T. H. CHOWDARY*
-
 ## Summary
 
 Dr. T. H. Chowdary's lecture, delivered in Mumbai on 16 August 2002 under the joint auspices of the Forum of Free Enterprise and the Indian Merchants' Chamber, reframes the much-discussed 'digital divide' as a tractable policy problem rather than an indictment of technology. He opens with a long historical arc — from oral transmission to Gutenberg's moving type, from libraries to electronified information — to argue that prosperity has always tracked the diffusion (not the concentration) of knowledge. The 19th-century take-off in per-capita world GDP, charted from Angus Maddison's data, is for him the visible signature of widely accessible information and skill.

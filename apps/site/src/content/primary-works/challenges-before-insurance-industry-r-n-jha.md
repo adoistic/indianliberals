@@ -69,11 +69,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Challenges Before Insurance Industry
-
-*By R. N. JHA*
-
 ## Summary
 
 R. N. Jha, a former Executive Director of the Life Insurance Corporation of India, surveys the state of Indian insurance at the moment of its third turn — from the private-sector era of 1818–1955, through more than four decades under LIC and GIC monopoly, to the reopening of the market to domestic and foreign private insurers under the IRDA Act of 1999. The booklet reproduces a keynote delivered on 19 February 2000 at the A. D. Shroff Birth Centenary Celebrations, and frames liberalisation as a vindication of long-standing free-enterprise arguments: the public-sector insurers, Jha concedes, never met the customer-service, product-innovation or savings-mobilisation objectives that nationalisation had promised.

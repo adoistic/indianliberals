@@ -40,11 +40,6 @@ missing_metadata_flags:
   - no_formal_toc
   - byline_unresolved_in_authority
 ---
-
-# HOW TO START AN INDUSTRY
-
-*By D. V. DESAI*
-
 ## Summary
 
 D. V. Desai's pamphlet, based on a lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on 24 May 1961, is a practitioner's walk-through of what it actually takes to set up an industrial unit in Nehruvian India. Desai begins with the Government's bifurcated taxonomy — large versus small, with no recognised middle tier — and traces how the legal definition of a 'small industry' was successively rewritten between 1953 and 1958 to widen the band of firms eligible for assistance. The bulk of the pamphlet then catalogues the lattice of agencies a would-be entrepreneur must thread through: the Development Wing of the Ministry of Commerce and Industry with its seventeen Technical Directors and eighty-five Development Officers, the Controller of Capital Issues, the Reserve Bank's Exchange Control Department (now centralised in the Industrial Policy Section, New Delhi), the Chief Controller of Imports and Exports, and the Licensing Committee drawn from six ministries.

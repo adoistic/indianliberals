@@ -69,11 +69,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Central Economic Planning
-
-*By Prof. Milton Friedman, Rose Friedman*
-
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces an excerpt from Milton and Rose Friedman's 'Free to Choose' (1979) under the title 'Central Economic Planning'. Drawing on the Friedmans' travels in underdeveloped countries, the text opens by contrasting the convictions of intellectuals — for whom central planning is 'the wave of the future' — with the empirical record. Wherever the state controls economic activity in detail, the authors argue, ordinary citizens remain in political fetters and material poverty, even as the state and its privileged classes prosper.

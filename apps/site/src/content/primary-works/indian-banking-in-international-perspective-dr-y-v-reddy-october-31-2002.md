@@ -50,11 +50,6 @@ missing_metadata_flags:
   - publisher_not_in_authority
   - author_not_in_authority_subset
 ---
-
-# INDIAN BANKING IN INTERNATIONAL PERSPECTIVE
-
-*By Dr. Y. V. REDDY*
-
 ## Summary
 
 Delivered on 25 October 2002 as the A. D. Shroff Memorial Public Lecture in Mumbai (sponsored by Bank of India), this booklet collects Y. V. Reddy's address "Indian Banking in International Perspective." Reddy — then Executive Director at the IMF and a former Deputy Governor of the Reserve Bank of India — frames his lecture as a tribute to Shroff's classical-liberal advocacy through the Forum of Free Enterprise, recalling that his own student generation first encountered free-enterprise ideas in contrast with the socialism-oriented declarations of official Indian policy. He opens with three episodes that link Shroff to international finance: Shroff's role (with Sir R. K. Shanmukham Chetty) in the IMF quota negotiations; his presence on the Indian delegation that christened the IBRD; and his architecture of the Bombay Plan.

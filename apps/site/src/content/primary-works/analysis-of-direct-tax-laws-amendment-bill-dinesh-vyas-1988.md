@@ -45,11 +45,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
 ---
-
-# An Analysis of Direct Tax Laws (Amendment) Bill, 1988.
-
-*By Dinesh Vyas*
-
 ## Summary
 
 Dinesh Vyas, a practising Supreme Court advocate, takes apart the Direct Tax Laws (Amendment) Bill, 1988 — a piece of legislation introduced to walk back the most contentious portions of the Direct Tax Laws (Amendment) Act, 1987. He sets the dispute in long historical terms: taxation is a perpetual battle between the State's financial claims and the citizen's proprietary rights, and the 1987 Act provoked the bitterest such battle Indian tax law has seen, with public bandhs in Delhi, Bombay, and Ahmedabad and an appeal to the President to withhold assent. The 1988 Bill, he argues, is the Government's incomplete retreat: it deletes some provisions, restores some pre-1987 schemes (notably for charitable trusts and the taxation of firms and partners), but retains the new assessment scheme and reintroduces stiffer concealment penalties.

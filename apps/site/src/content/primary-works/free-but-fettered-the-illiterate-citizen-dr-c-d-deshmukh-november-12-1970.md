@@ -59,11 +59,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE BUT FETTERED—THE ILLITERATE CITIZEN
-
-*By C. D. Deshmukh*
-
 ## Summary
 
 Delivered on 27 October 1970 as the Fifth A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise in Bombay, C. D. Deshmukh's address opens with a tribute to A. D. Shroff as an exemplar of a patriotism that 'can co-exist with a judicious bias in favour of free enterprise', then pivots to its real subject: the political and economic cost of mass illiteracy in India. The thesis, which Deshmukh borrows in part from the Education (Kothari) Commission of 1964, is that an illiterate population cannot exercise the citizenship that the Constitution promises — that India's adults are, in the phrase he repeatedly returns to, free but fettered.

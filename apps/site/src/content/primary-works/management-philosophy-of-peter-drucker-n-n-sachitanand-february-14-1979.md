@@ -37,11 +37,6 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet/booklet, FFE green cover, printed at Bombay Chronicle Press, dated 14/February/1979
 ---
-
-# MANAGEMENT PHILOSOPHY OF PETER DRUCKER
-
-*By N. N. Sachitanand*
-
 ## Summary
 
 N. N. Sachitanand's profile, reprinted by the Forum of Free Enterprise from The Hindu of 29 November 1978, presents Peter F. Drucker as the 'living prophet' of management on the occasion of his first visit to India to keynote the Bangalore Management Association's silver jubilee. Sachitanand sketches Drucker's biography — Vienna 1909, apprenticeship in Hamburg, doctorate at Frankfurt, flight from Nazi Germany, the 1942 General Motors study that produced 'Concept of the Corporation' — and explains his self-description as a management philosopher who treats consulting as his laboratory and society as a 'Society of Organisations' in which the manager bears the load that masters once carried.

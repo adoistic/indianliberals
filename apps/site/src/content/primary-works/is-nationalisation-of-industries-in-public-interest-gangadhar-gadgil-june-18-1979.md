@@ -50,11 +50,6 @@ missing_metadata_flags:
   - no_formal_toc_page
   - no_colophon_in_rendered_pages
 ---
-
-# Is Nationalisation of Industries in Public Interest?
-
-*By Prof. Gangadhar Gadgil*
-
 ## Summary
 
 This Forum of Free Enterprise pamphlet asks whether nationalisation still serves the public interest, and answers — emphatically — no. It opens with a brief historical framing piece signed by M. R. Pai, which traces nationalisation back to the socialist response to Industrial Revolution exploitation and argues that fifty years of European experience (the British Labour Party, Fabians, even the Chinese under Deng) has discredited public ownership as a vehicle for either efficiency or social justice. Pai catalogues the failures that drove socialists like Hugh Gaitskell, C. A. R. Crosland, R. H. S. Crossman, U Nu and Lee Kuan Yew to abandon nationalisation: loss of productivity once "everybody's business became nobody's business"; bureaucratic indifference to workers; monopoly contempt for consumers (LIC, IAC, the State Trading Corporation); and the illusion that parliamentary control could discipline the resulting bureaucracy.

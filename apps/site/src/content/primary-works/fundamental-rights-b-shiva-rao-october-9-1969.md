@@ -87,9 +87,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Fundamental Rights in India
-
 ## Summary
 
 Published by the Forum of Free Enterprise in Bombay and drawing on two articles — B. Shiva Rao's historical survey reproduced from the Times of India of 17 December 1968, and Dr. M. V. Pylee's constitutional analysis reproduced from Quest (July–September 1969) — this pamphlet intervenes in the controversy surrounding Nath Pai's private member's Bill, which sought to restore Parliament's power to amend the Fundamental Rights chapter of the Constitution following the Supreme Court's landmark ruling in Golak Nath v. State of Punjab (February 1967).

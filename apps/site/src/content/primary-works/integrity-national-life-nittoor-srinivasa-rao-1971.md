@@ -45,11 +45,6 @@ missing_metadata_flags:
   - no_explicit_imprint_year_on_visible_pages
   - thinker_not_in_authority_file
 ---
-
-# INTEGRITY IN NATIONAL LIFE
-
-*By NITTOOR SRINIVASA RAO*
-
 ## Summary
 
 This booklet reproduces the A. D. Shroff Memorial Lecture delivered by Nittoor Srinivasa Rao — former Chief Justice of Mysore and Central Vigilance Commissioner from 1964 to 1968 — at the Madras Centre of the Forum of Free Enterprise on 7 November 1970. Rao takes 'Integrity in National Life' as a topic 'of basic importance to all systems of society', then narrows the lens to post-Independence India, where, he warns, corruption and the erosion of ethical standards have spread to a point that endangers the country's future.

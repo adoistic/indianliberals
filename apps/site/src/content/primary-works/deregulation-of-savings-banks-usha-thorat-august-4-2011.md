@@ -78,9 +78,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Deregulation of Savings Banks' Deposit Interest Rates
-
 ## Summary
 
 This Forum of Free Enterprise booklet records the panel discussion at the 7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011, hosted by the All India Bank Depositors' Association (AIBDA) and the Punjab and Maharashtra Cooperative Bank, plus three supporting annexures. Three former Deputy Governors of the Reserve Bank of India — Usha Thorat, Kishori J. Udeshi and S. S. Tarapore — respond to the RBI's April 2011 Discussion Paper on deregulation of the savings bank (SB) deposit interest rate, which had been administered at 4 per cent since May 2011 (3.5 per cent before that). All three agree that deregulation is overdue, that the question is no longer whether but when and how, and that the present moment — with inflation high and the term structure already deregulated since the 1990s — is right. They argue for a phased approach with a regulator-prescribed floor rate, uniform monthly interest application, and clear safeguards for rural, pensioner and small depositors. The volume's argumentative centre is that small depositors have been silently taxed by a regulated 4 per cent ceiling against high inflation, and that market-based pricing — supervised but not capped — is the cure. Annexures I and II reproduce AIBDA's initial and revised submissions to the RBI on behalf of depositors; Annexure III, a detailed analytical paper by Prof. Ashish Das of IIT Bombay, marshals data showing persistent negative real returns on SB accounts and dissects how the changeover to daily-balance interest calculation in April 2010, far from helping savers, was offset by RBI's simultaneous cut in the prescribed rate.

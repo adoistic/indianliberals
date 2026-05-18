@@ -49,11 +49,6 @@ missing_metadata_flags:
   - no_formal_toc
   - byline_unresolved_against_authority_subset
 ---
-
-# INTERNATIONALISATION OF INDIAN BUSINESS
-
-*By R. C. SHAH*
-
 ## Summary
 
 Delivered in April 1983 as the A. D. Shroff Memorial Trust's annual public lecture and published by the Trust the following June, R. C. Shah's address argues that India — long an 'open society' but a 'relatively closed economy' — has now reached a level of self-sufficiency from which it can credibly internationalise its business. Shah, then Chairman and Managing Director of the EXIM Bank, frames internationalisation around three concrete vehicles: joint ventures abroad promoted by Indian business houses, project (turnkey) exports, and the overseas branch networks of Indian banks. He treats internationalisation as the natural next stage of the import-substitution path: three decades of inward industrialisation have built diversified industrial capacity and a distinctly Indian 'intermediate technology' that, he argues, is appropriate for partners in other developing economies.

@@ -73,11 +73,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE MARKET ECONOMY —Key to Economic Progress and Freedoms
-
-*By M. A. Rangoonwala*
-
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces the inaugural address delivered by M. A. Rangoonwala, then immediate past President of the International Chamber of Commerce, at the Forum's Silver Jubilee celebrations in Bombay on 12 January 1982. It is framed by an introduction from the Forum's President N. A. Palkhivala and a short biographical note on the Forum's founder A. D. Shroff. Palkhivala's introduction sets up Rangoonwala's argument as a plea for the return of market forces, attacks the "permit-licence-quota raj" that Rajaji had named, and quotes Daniel Webster on civic responsibility.

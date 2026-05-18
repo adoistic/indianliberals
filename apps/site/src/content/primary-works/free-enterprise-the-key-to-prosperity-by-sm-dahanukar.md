@@ -53,11 +53,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE ENTERPRISE—THE KEY TO PROSPERITY
-
-*By S. M. Dahanukar, B.E. S.M. (U.S.A.) A.M.I.E. M.L.C.*
-
 ## Summary
 
 In this Forum of Free Enterprise leaflet, S. M. Dahanukar argues that India's post-Independence industrial and commercial progress — achieved against an initially hostile Governmental attitude — has come overwhelmingly from the spirit of enterprise of the private sector, and that the country's future development requires the Government to give private initiative still more room to operate. He concedes that the official outlook has begun to change since the First Plan and that the Second Plan set targets for the private sector worth Rs. 233 crores, but warns that adequate imports, finance, raw materials, and freedom to expand still need to be assured if private enterprise is to flourish.

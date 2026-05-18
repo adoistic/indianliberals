@@ -49,9 +49,6 @@ missing_metadata_flags:
   - author_not_named_byline
   - no_formal_toc
 ---
-
-# Cooperatives in the Changing Economy of India
-
 ## Summary
 
 This Forum of Free Enterprise booklet, prepared by the Cooperative Development Foundation (CDF) of Hyderabad and reprinted from Liberal Times (Vol. VI, No. 1, 1998), argues that the cooperative form of enterprise has been systematically distorted in India by restrictive laws that turn member-driven associations into instruments of state control. The opening sections set out the theory of cooperation — a voluntary association in which members are primarily users (not investors) of services they jointly need, with democratic decision-making and use-based profit sharing — and apply that theory to rural savings, credit, dairy marketing and supply services to show why cooperatives are uniquely suited to economies of small producers and consumers that purely commercial banks and private companies tend to underserve.

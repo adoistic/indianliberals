@@ -58,11 +58,6 @@ missing_metadata_flags:
   - no_isbn
   - toc_entry_77_title_partially_legible
 ---
-
-# अन्वयार्थ - १
-
-*By Sharad Joshi*
-
 ## Summary
 
 अन्वयार्थ - १ (Anvyartha Vol. 1) is a Marathi-language collection of newspaper columns by Sharad Joshi, the founder of the Shetkari Sanghatna (Farmers' Organisation), published in 2010 by Janashakti Vachak Chalavala, Aurangabad. According to the publisher's note, the pieces were originally published in Dai. Lokmat between 1992–1994 and 2000–2001 under the 'Anvyartha' column-head, and the collection is being issued as part of Joshi's amrit-mahotsav (75th birthday) publication series. The book carries a government of Maharashtra award.

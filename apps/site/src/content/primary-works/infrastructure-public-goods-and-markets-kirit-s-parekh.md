@@ -45,11 +45,6 @@ physical:
 missing_metadata_flags:
   - publication_year_not_found_in_rendered_pages
 ---
-
-# Infrastructure, Public Goods and Markets
-
-*By Kirit S. Parikh*
-
 ## Summary
 
 Delivered as the Dr. M. H. Gopal Memorial Lecture at the 81st Annual Conference of the Indian Economic Association in December 1998 and reprinted by the Forum of Free Enterprise, Kirit S. Parekh's lecture diagnoses India's infrastructure deficit and prescribes market-based remedies. He opens with a survey of bottlenecks — peak power shortages around 10 percent, congested ports that impose demurrage running into hundreds of crores, crawling Mumbai traffic, polluted rivers and air, and a telephone density of 13 per 1000 persons against a world average of 110. The root cause, he argues, is chronic underinvestment driven by public-sector enterprises that cannot charge appropriate user fees, by political capture (notably the agricultural electricity subsidy that has grown from 3.9 percent of demand in 1950-51 to nearly 30 percent today) and by overstaffed State Electricity Boards whose T&D losses largely mask outright theft.

@@ -39,11 +39,6 @@ missing_metadata_flags:
   - year_not_printed_on_rendered_pages
   - no_formal_toc
 ---
-
-# EQUITY IN A GLOBAL SOCIETY
-
-*By Dr. I. G. Patel*
-
 ## Summary
 
 Equity in a Global Society reproduces the LSE Centenary Lecture that Dr. I. G. Patel — a former Governor of the Reserve Bank of India and former Director of the London School of Economics — delivered on 26 October 1995, here published as a Forum of Free Enterprise pamphlet. Patel uses the occasion to defend an unfashionable position: that social science cannot quarantine itself from value judgements, and that the emerging global society must be appraised against an explicit standard. He nominates 'equity' as that standard, defining it not as equality but as balance — between individual rights and group obligations, between tradition and reason, between what is desirable and what is achievable.

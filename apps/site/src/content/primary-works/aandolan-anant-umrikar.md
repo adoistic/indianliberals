@@ -51,11 +51,6 @@ missing_metadata_flags:
   - no_isbn
   - toc_page_start_for_entry1_reads_000_not_001
 ---
-
-# आंदोलन
-
-*By अनंत उमरीकर*
-
 ## Summary
 
 आंदोलन (Andolan, 'Agitation/Movement') is a Marathi-language book of four long reportage essays by Anant Umrikar, a journalist and associate of Shetkari Sanghatana leader Sharad Joshi, first published on 9 August 1992 and revised for a third edition in 2008. The book is dedicated to Sharad Joshi. In the rendered pages (covering the preface, TOC, and the opening of the first two essays), Umrikar writes in a first-person eyewitness style, immersing readers in the lived texture of the farmers' agitation movement in Maharashtra in the early 1990s.

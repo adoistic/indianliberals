@@ -81,9 +81,6 @@ missing_metadata_flags:
   - editor_in_chief_not_in_authority_file
   - most_contributors_not_in_authority_file
 ---
-
-# Liberal Times
-
 ## Summary
 
 This issue of Liberal Times (Volume III / Number 2, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, is devoted to the Tibetan exile experience under the thematic banner 'Tibetans in Exile — The Struggle Continues…'. In the rendered pages, the issue assembles voices from Tibetan activists, Indian commentators, and a US Congressional document to examine three interlocking problems: China's ongoing cultural, demographic and ecological destruction of Tibet; the democratic institutions built by the exile community under the Dalai Lama; and the strategies — non-violent resistance, international lobbying, youth mobilisation, and women's political organising — that define the contemporary freedom movement. The editorial perspective is broadly liberal-internationalist, emphasising self-determination, human rights, rule of law, and non-violent civil disobedience as the legitimate basis for Tibet's claim to independence.

@@ -57,11 +57,6 @@ physical:
   pages_total_source: pypdfium2
   format: paperback book
 ---
-
-# समस्याएँ भारत की
-
-*By Sharad Joshi*
-
 ## Summary
 
 Samasyāẽ Bhārat Kī (समस्याएँ भारत की, 'India's Problems') is a Hindi-language collection of essays by Sharad Joshi, the founder of Shetkari Sanghatana, translated and compiled from his Marathi and English journalism of 1980–1988 and published by Shetkari Prakashan in 1988. In the rendered pages (covering the first four complete essays and the opening pages of essays five and six), Joshi develops a sustained argument that independent India has merely replaced white English rulers with brown English rulers — a westernised, urban administrative class that perpetuates the same colonial extraction of agricultural surplus that the British practised. The central claim, repeated across essays, is that the poverty of Indian cities and the misery of rural India are both downstream of a single cause: the systematic underpricing of agricultural produce by a state whose instincts and educational formation remain colonial.

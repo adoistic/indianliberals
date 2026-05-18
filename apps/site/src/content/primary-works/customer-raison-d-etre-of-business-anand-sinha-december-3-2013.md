@@ -65,11 +65,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# CUSTOMER
-
-*By Anand Sinha*
-
 ## Summary
 
 Delivered by Anand Sinha, Deputy Governor of the Reserve Bank of India, at the Ninth M. R. Pai Memorial Award Function in Mumbai on 31 October 2013 and published as a Forum of Free Enterprise booklet on 3 December 2013, this address argues that the customer is the very 'raison d'être' of business and treats consumer protection and empowerment as the organising centre of banking policy. Sinha frames the talk as a tribute to M. R. Pai and to the award's recipient, Shirish Deshpande, casting both as exemplars of the consumer-rights tradition; he leans on Mahatma Gandhi's well-known lines on the customer as the speech's foundational text.

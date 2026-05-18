@@ -103,9 +103,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# The Indian Libertarian
-
 ## Summary
 
 The Indian Libertarian (Vol. VIII No. 1, April 1, 1960) is a fortnightly periodical published from Bombay, incorporating the earlier 'Free Economic Review' and 'The Indian Rationalist'. This issue is dominated by two urgent preoccupations: the Chinese military threat on India's northern borders, and the erosion of democratic and constitutional norms within India itself. The editorial opens with a stinging attack on the Governor of Bombay's high-handed intervention to stay the execution of the Commander Nanavati murder case sentence, framing it as executive overreach that corrodes the rule of law and encourages a drift toward authoritarian governance. Subsequent sections develop this theme through the lens of Nehru's China policy—indicting his refusal to acknowledge Chinese aggression and his reliance on non-alignment bromides—and through a Rationalist Supplement that defends free expression and liberal rationalism against Congress domination of public life.

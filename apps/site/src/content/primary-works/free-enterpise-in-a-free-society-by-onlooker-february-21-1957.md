@@ -66,11 +66,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE ENTERPRISE IN A FREE SOCIETY
-
-*By "Onlooker"*
-
 ## Summary
 
 Reprinted from The Times of India of 21 May 1957 by the newly formed Forum of Free Enterprise, this short polemic by the pseudonymous "Onlooker" attacks what it calls India's 'compartmentalised thinking' on the economy — the habit of treating capital as inherently sinister, labour as sacrosanct and public enterprise as virtuous by definition. Prompted by Finance Minister T. T. Krishnamachari's budget and the broader 'socialistic pattern of society' line emanating from Nehru's government, the essay argues that Indian leaders are fighting capitalism in the discredited idiom of the nineteenth century, oblivious to how capitalism has actually evolved.

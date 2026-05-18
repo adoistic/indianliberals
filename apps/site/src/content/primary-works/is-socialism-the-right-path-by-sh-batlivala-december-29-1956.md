@@ -43,11 +43,6 @@ missing_metadata_flags:
   - publication_year_not_explicitly_printed
   - series_number_not_found
 ---
-
-# IS SOCIALISM THE RIGHT PATH?
-
-*By By S. H. BATLIVALA*
-
 ## Summary
 
 Reprinted from The Times of India of 28 December 1956, S. H. Batlivala's short polemic — issued as a Forum of Free Enterprise pamphlet — argues that India's drift toward a "Socialistic pattern of economy" misreads the country's actual development needs. Batlivala opens by conceding that private capital alone cannot finance the Government's plans, but he insists that this is a case for collaboration between the private and public sectors, not for taxation that would imperil the Second Five-Year Plan. He marshals testimony from Sardar Vallabhbhai Patel and former Finance Minister C. D. Deshmukh to argue that the Indian civil service lacks the depth to run nationalised industries, and asks whether the Second Plan can succeed when administered by a thinned-out bureaucracy.

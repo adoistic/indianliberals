@@ -48,11 +48,6 @@ missing_metadata_flags:
   - no_toc
   - author_not_in_authority_file
 ---
-
-# NEW INDUSTRIAL POLICY
-
-*By MINOO R. SHROFF*
-
 ## Summary
 
 Minoo R. Shroff's public lecture, delivered under the auspices of the Forum of Free Enterprise on 27 February 1978 and issued as a Forum booklet, reads the Janata government's December 1977 industrial policy statement against the November 1977 economic policy of the ruling party. Shroff finds the document a 'mixture of politics and economics' that breaks no radical ground from the 1948 and 1956 industrial resolutions but does abandon built-in ideological bias, rejecting both capitalism and communism in favour of a Gandhian framework that decentralises the economic apparatus and lifts agriculture, rural development and cottage and village industry to the centre of planning.

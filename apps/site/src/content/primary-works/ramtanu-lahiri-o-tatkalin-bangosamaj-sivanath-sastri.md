@@ -66,11 +66,6 @@ missing_metadata_flags:
   - chunk_is_single_chapter_only
   - rendered_text_is_english_translation_not_original_bengali
 ---
-
-# Ramtanu Lahiri O Tatkalin Bangosamaj
-
-*By Sivanath Sastri*
-
 ## Summary
 
 This chapter — Chapter V of Sivanath Sastri's 1904 Bengali biography of Ramtanu Lahiri — is an English translation covering the period 1825–1833, described as a 'watershed between the old and the new' in Bengal's social history. Sastri frames this era as one of paradigm shift: the East India Company's consolidation of revenue-extraction power, the catastrophic famine of 1176 Bengali Era (1769–70) and the Company's callous indifference, and the gradual replacement of Indian officials with Europeans up to 1833, are laid out as the political backdrop against which the social and intellectual upheaval takes place.

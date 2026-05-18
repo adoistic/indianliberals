@@ -230,9 +230,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Report
-
 ## Summary
 
 This volume is the formal proceedings report of the Second National Convention of the Indian Liberal Group (ILG), held at the T. V. Raman Pai Convention Centre, Mangalore, on February 18–20, 2005. The convention's declared theme was 'Accountability in Governance', chosen because the organizers regard accountability as both the operational guarantee and the road map for liberalism in India. In the rendered pages, the volume opens with a Preface that records the context: mourning the death of ILG founding member Minoo Masani's birth centenary dedication, noting reduced delegate attendance (52 of 319 members, against 100 of 434 at the first convention in Hyderabad), and summarizing the inaugural session. The substantive content in these pages consists of two major addresses: N. Vittal's Inaugural Address arguing that accountability — rooted in individual responsibility, professional standards, and legal enforcement — is the indispensable condition for a liberal society, and S. P. Sathe's Keynote Address, only partially rendered, which frames accountability within constitutional democracy, examining the formal and moral dimensions of legitimacy, the role of the judiciary, anti-defection law, and the accountability of elected representatives.

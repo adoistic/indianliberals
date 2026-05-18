@@ -57,11 +57,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# ECONOMIC POLICY FOR INDIA IN 1980s
-
-*By B. K. NEHRU, I.C.S. (Retd.)*
-
 ## Summary
 
 Delivered as a lecture at the Leslie Sawhny Programme in New Delhi on 17 March 1983 and published as a booklet by the Forum of Free Enterprise, this essay by B. K. Nehru — former civil servant, distinguished economist, and then Governor of Jammu and Kashmir — offers a candid retrospective on India's first thirty-five years of economic policy and a forward-looking case for liberalising the economy in the 1980s. Nehru redefines the conventional label 'mixed economy' for India, arguing that what India actually runs is a command economy with a small residual market — production, distribution, pricing, and technology choices are all directed by government regardless of ownership.

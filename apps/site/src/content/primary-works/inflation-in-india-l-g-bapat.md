@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_formal_toc
   - byline_unresolved_in_authority
 ---
-
-# INFLATION IN INDIA
-
-*By Prof. L. G. Bapat*
-
 ## Summary
 
 Prof. L. G. Bapat's prize-winning booklet for the Forum of Free Enterprise (Bombay, 15 November 1972) walks a general Indian reader through the theory and the Indian record of inflation. Bapat opens with definitions — inflation is an unanticipated, unprovided, rapid and substantial rise in prices above their normal level, with 'suppressed' inflation revealing itself through queues, black markets and hoarding when prices are held down by controls. He then canvasses the standard mechanisms: Fisher's Quantity Theory and the German hyperinflation of the 1920s for the monetary channel; Lerner's account of inflation as 'real changes' people did not intend; Charles Schultze's asymmetric ratchet in which prices rise but never fall; and Hayek's framing of inflation as a symptom of disequilibrium. From these he extracts the textbook trio of demand-pull, cost-push and administrative inflation.

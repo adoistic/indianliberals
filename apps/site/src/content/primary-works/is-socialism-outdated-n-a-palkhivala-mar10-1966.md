@@ -67,11 +67,6 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
 ---
-
-# Is Socialism Outdated?
-
-*By N. A. PALKHIVALA, SIR ALEC DOUGLAS-HOME, M. R. MASANI M.P.*
-
 ## Summary
 
 This March 1966 Forum of Free Enterprise booklet stitches together three short polemics that frame socialism as an exhausted creed and liberalism as its successor. N. A. Palkhivala's 'The Shells of Socialism' (reproduced from the Economic Times of 7 February 1966) attacks Asoka Mehta's Saugor University convocation address and the drift toward bank nationalisation; former British Prime Minister Sir Alec Douglas-Home's 'Why Socialism Always Fails' (via INFA) argues that socialism collides with human nature and the profit motive; and Swatantra Party MP M. R. Masani's 'Will Liberalism Survive Socialism?' (from Swarajya Annual 1966) parades Soviet shortages, Indian wage stagnation, and West German prosperity to argue that 'isms have become wasms' and that liberalism — not State-ism — is the quicker road to social justice. The three pieces share a common publisher, a common antagonist (Indian planning orthodoxy in the wake of Nehru's death and the food crisis), and a common rhetorical posture: socialism is morally enervating, economically sterile, and globally in retreat.

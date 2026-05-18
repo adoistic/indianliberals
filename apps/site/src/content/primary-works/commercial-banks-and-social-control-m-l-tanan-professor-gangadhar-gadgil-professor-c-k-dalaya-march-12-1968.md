@@ -59,6 +59,3 @@ missing_metadata_flags:
   - series_number_not_visible
 ---
 
-# Commercial Banks and Social Control
-
-*By M. L. TANNAN, Prof. GANGADHAR GADGIL, Prof. (Mrs.) C. K. DALAYA*

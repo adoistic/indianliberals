@@ -44,11 +44,6 @@ missing_metadata_flags:
   - no_formal_toc
   - no_series_number_printed
 ---
-
-# Agriculture in Asia
-
-*By COLIN CLARK*
-
 ## Summary
 
 Colin Clark's pamphlet, reproduced from the Autumn 1970 issue of Pacific Community and re-published by the Forum of Free Enterprise on 10 March 1971, argues that Asian agriculture is widely misdescribed by Western economists, international agencies, and central planners. He traces a continuum from 'cut and burn' cultivation through ox-plough subsistence to mechanised mixed farming, using De Vries's grain-equivalent classification to locate India, Pakistan, Ceylon, and Burma uncomfortably close to the subsistence line while Malaysia, Taiwan, South Korea, and Thailand are pulling ahead. He insists that 'subsistence' has a precise calorific meaning and attacks Lord Boyd-Orr's and the F.A.O.'s repeated claims that one-half to two-thirds of humanity is malnourished as statistical confusions that an Australian anthropologist and a Stanford researcher have already exposed.

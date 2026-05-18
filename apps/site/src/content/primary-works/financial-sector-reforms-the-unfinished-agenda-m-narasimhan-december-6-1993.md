@@ -52,11 +52,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Financial Sector Reforms: The Unfinished Agenda
-
-*By M. Narasimham*
-
 ## Summary
 
 Delivered as the A. D. Shroff Memorial Lecture on Banking in September 1993 and published by the A. D. Shroff Memorial Trust, M. Narasimham — former Reserve Bank Governor and chairman of the Government's Committee on the Financial System — takes stock of India's still-incomplete liberalisation, two years after the 1991 crisis. He frames the lecture as a tribute to Shroff's prescient insistence that a centralised command economy and a pluralist democratic polity do not cohere, and argues that the new economic policy follows from four decades of disappointing results under directed planning rather than from any imported orthodoxy. Within the broader reform programme, he singles out the financial sector as the area where reform has lagged: progress in industry, trade and the exchange rate has been real, but agriculture and labour have hardly been touched, and banking reform has proceeded in an ad hoc, piecemeal fashion when the Narasimham Committee's own recommendations were designed as an integrated, jig-saw whole.

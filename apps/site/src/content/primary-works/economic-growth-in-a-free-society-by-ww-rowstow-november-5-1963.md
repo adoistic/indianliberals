@@ -56,11 +56,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Growth in a Free Society
-
-*By W. W. Rostow*
-
 ## Summary
 
 W. W. Rostow's address, reprinted from The Hindu of 2–4 September 1963 and circulated by the Forum of Free Enterprise in November 1963, argues that economic development is the central problem of the modern world: the gap between nations with roughly $3,000 per head of gross national product and those with as little as $50 per head. Rostow insists that the operational criterion is regular, equitable growth substantially exceeding population increase, and that no nation has been spared the common sequence of problems — only the resources, technology, and political and social arrangements available to solve them differ.

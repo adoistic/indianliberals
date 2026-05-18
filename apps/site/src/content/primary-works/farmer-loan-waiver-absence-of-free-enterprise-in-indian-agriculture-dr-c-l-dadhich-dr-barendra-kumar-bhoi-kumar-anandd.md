@@ -59,9 +59,6 @@ missing_metadata_flags:
   - no_publisher_address
   - no_series_number
 ---
-
-# Farmer Loan Waiver & Absence of Free Enterprise in Indian Agriculture
-
 ## Summary
 
 This Forum of Free Enterprise booklet, published in memory of chartered accountant Shailesh Kapadia (1949–1988) and sponsored by the Shailesh Kapadia Memorial Trust, bundles two independent essays on the crisis in Indian agriculture written against the backdrop of mounting state-level demands for farm loan waivers. A short editorial by Sunil S. Bhandare and an overview signed by Minoo R. Shroff (President-Emeritus, Forum of Free Enterprise, 8 August 2017) frame the volume's argumentative centre: that rural distress, farmer suicides and chronic indebtedness reflect a deeper unviability of agriculture as an occupation, and that competitive forces simply do not operate in farm input and output markets — leaving loan waivers as a populist soft option rather than a real remedy.

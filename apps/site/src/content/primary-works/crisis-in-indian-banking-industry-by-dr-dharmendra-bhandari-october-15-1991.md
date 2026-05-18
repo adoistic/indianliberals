@@ -50,11 +50,6 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
 ---
-
-# Crisis in Indian Banking Industry
-
-*By Dr. Dharmendra Bhandari*
-
 ## Summary
 
 Published on 15 October 1991 as a Forum of Free Enterprise pamphlet and reproduced from a booklet issued by the Special Assistance Programme of the University Grants Commission's Department of Commerce at the University of Rajasthan, Jaipur, this essay by Dr. Dharmendra Bhandari — Chartered Accountant, Assistant Professor of Accountancy at Rajasthan University, and at the time a sitting Director of a nationalised bank — presents a forensic crisis diagnosis of the Indian public-sector banking system in the wake of the 1991 economic emergency.

@@ -72,11 +72,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# FREE MARKET ECONOMY —Key to Economic Progress and Freedoms
-
-*By M. A. Rangoonwala*
-
 ## Summary
 
 Free Market Economy — Key to Economic Progress and Freedoms reproduces M. A. Rangoonwala's January 1982 inaugural address at the Silver Jubilee celebrations of the Forum of Free Enterprise, prefaced by an introduction by N. A. Palkhivala and a short biographical sketch of the Forum's founder-president A. D. Shroff. Rangoonwala, then the immediate past President of the International Chamber of Commerce, argues that the free market is not merely an efficient allocation mechanism but the indispensable foundation of all human freedoms — "the market and freedom are really synonymous terms."

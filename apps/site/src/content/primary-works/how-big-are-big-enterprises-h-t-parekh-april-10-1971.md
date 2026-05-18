@@ -47,11 +47,6 @@ missing_metadata_flags:
   - no_isbn
   - byline_unresolved_in_authority
 ---
-
-# HOW BIG ARE BIG ENTERPRISES IN INDIA?
-
-*By H. T. PAREKH*
-
 ## Summary
 
 H. T. Parekh's pamphlet, reproduced from the Financial Express of 16 February 1971 and issued by the Forum of Free Enterprise, takes stock of the legal and political squeeze on Indian "large houses" at the start of the 1970s. He argues that the conceptual machinery the Dutt Committee used to identify big business — drawn from the 1965 Monopolies Inquiry Commission and resting on the figure of the managing agency house, the "%house-interest" measure of effective equity, and the Rs. 20 crore asset threshold under the Monopolies and Restrictive Trade Practices Act — has been overtaken by events. With managing agencies abolished, financial institutions like LIC, UTI, IDBI, IFC and ICICI nominating directors, and family groups sub-dividing as new generations grow up, he says the same firms that the Act treats as monolithic blocs of "economic power" no longer look or behave like the houses the Commission had in mind.

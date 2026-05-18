@@ -64,9 +64,6 @@ missing_metadata_flags:
   - no_isbn
   - toc_inferred_from_editorial_introduction
 ---
-
-# 15th Finance Commission
-
 ## Summary
 
 This Forum of Free Enterprise booklet, edited by Sunil S. Bhandare and sponsored by the Shailesh Kapadia Memorial Trust, compiles three Livemint articles (all May 2018) by four senior Indian economists on the contested Terms of Reference (ToR) of the 15th Finance Commission, constituted in November 2017 and due to submit its recommendations by October 2019 for the award period 2020–25. The collection addresses the most politically charged provision of the ToR — the shift from 1971 to 2011 census population data for determining state shares — as well as the appropriate size of the vertical divisible pool, the use of GST data for measuring taxable capacity, migration-related fiscal strains, and the governance of cities. Bhandare's editorial introduction identifies five cross-cutting themes on which all three articles converge: the intellectual case for using current (2011) population figures, the constitutional question of whether the divisible pool share should be fixed by amendment rather than by each FC, the equalization logic of the formula, the role of GST in revealing true relative taxable capacities, and the neglect of urban local bodies.

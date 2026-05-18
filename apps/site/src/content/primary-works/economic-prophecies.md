@@ -118,11 +118,6 @@ thinker_mentions:
     key_passages: []
 
 ---
-
-# Economic Prophecies
-
-*By B. R. Shenoy*
-
 ## Summary
 
 Economic Prophecies (Centre for Civil Society, 2004) is the first of a two-volume collected-works edition of B. R. Shenoy's writings, spanning 1954 to 1978. Edited by R K Amin and Parth J Shah, it assembles 36 essays across five thematic sections — Context, Planning, Foreign Aid, Policy Critiques, and Agriculture — originally published in economic periodicals, newspapers, and lecture forums. The editors' preface, written by R K Amin, frames the volume as a posthumous tribute: it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail, and situates his relevance for a post-1991 generation. The prologue, attributed to the editors, explains that the title Economic Prophecies was chosen because Friedman, as early as 1963, had identified Shenoy as a prophet, and that this first volume is aimed at the general reader while the companion Theoretical Vision targets students of economics.

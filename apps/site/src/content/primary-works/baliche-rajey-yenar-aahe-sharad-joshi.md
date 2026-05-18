@@ -58,11 +58,6 @@ physical:
 missing_metadata_flags:
   - no_isbn
 ---
-
-# बळीचे राज्य येणार आहे
-
-*By Sharad Joshi*
-
 ## Summary
 
 Baliche Rajya Yenar Aahe (बळीचे राज्य येणार आहे, 'The Kingdom of Bali Is Coming') is a collected-works volume of Marathi-language writings by Sharad Joshi (1935–2015), the founding leader of the Shetkari Sanghatana (Farmers' Organisation), published by Janashakti Vachak Chalval, Aurangabad, in October 2010 to mark Joshi's birth anniversary. The book gathers essays, speeches, and polemical pieces written across roughly three decades on Indian farm policy, the structural exploitation of agriculturalists, and the theory and practice of the shetkari movement. In the rendered pages, the volume opens with a section called 'Chintan' (Reflection) and launches immediately into three substantive essays.
