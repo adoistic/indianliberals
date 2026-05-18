@@ -1,144 +1,62 @@
 ---
-// Vertical sidebar nav (JSTOR-style).
-// - Sticky full-height column on md+ screens.
-// - Off-canvas drawer on mobile, toggled by a fixed hamburger button.
-// - Brand + primary nav + search trigger live inside the column; footer
-//   sits below the main content in BaseLayout.
-
 import Search from "~/components/Search.astro";
 
 const nav = [
-  { label: "Thinkers",       href: "/thinkers/" },
-  { label: "Primary works",  href: "/primary-works/" },
-  { label: "Organisations",  href: "/organisations/" },
-  { label: "Musings",        href: "/musings/" },
-  { label: "Opinions",       href: "/opinions/" },
-  { label: "Interviews",     href: "/interviews/" },
-  { label: "From ThePrint",  href: "/theprint-mirror/" },
-  { label: "About",          href: "/about/" },
+  { label: "Thinkers", href: "/thinkers/" },
+  { label: "Primary works", href: "/primary-works/" },
+  { label: "Organisations", href: "/organisations/" },
+  { label: "Musings", href: "/musings/" },
+  { label: "Opinions", href: "/opinions/" },
+  { label: "Interviews", href: "/interviews/" },
+  { label: "From ThePrint", href: "/theprint-mirror/" },
+  { label: "About", href: "/about/" },
 ];
 
 const path = Astro.url.pathname;
 ---
 
-{/* Mobile hamburger trigger — only visible below md */}
-<button
-  id="sidebar-toggle"
-  type="button"
-  aria-label="Open navigation"
-  aria-controls="sidebar"
-  aria-expanded="false"
-  class="md:hidden fixed top-3 left-3 z-50 inline-flex items-center justify-center w-10 h-10 rounded-md bg-(--color-bg) border border-(--color-border) text-(--color-fg) shadow-sm hover:bg-(--color-bg-muted)"
->
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-    <line x1="3" y1="6" x2="21" y2="6"></line>
-    <line x1="3" y1="12" x2="21" y2="12"></line>
-    <line x1="3" y1="18" x2="21" y2="18"></line>
-  </svg>
-</button>
-
-{/* Mobile backdrop — covers content when drawer is open */}
-<div
-  id="sidebar-backdrop"
-  class="md:hidden fixed inset-0 bg-black/40 z-40 hidden"
-  aria-hidden="true"
-></div>
-
-{/* Sidebar itself — off-canvas on mobile, sticky column on md+ */}
-<aside
-  id="sidebar"
-  aria-label="Primary navigation"
-  class="
-    fixed inset-y-0 left-0 z-40 w-64 bg-(--color-bg) border-r border-(--color-border)
-    -translate-x-full transition-transform duration-200 ease-out
-    flex flex-col
-    md:translate-x-0 md:sticky md:top-0 md:h-screen md:w-60 lg:w-64 md:flex-shrink-0 md:transition-none
-  "
->
-  {/* Brand */}
-  <a href="/" class="flex items-center gap-3 px-5 py-5 no-underline border-b border-(--color-border)" aria-label="Indian Liberals home">
-    <img src="/brand/brand-mark-crane.png" alt="" class="h-10 w-10" width="40" height="40" />
-    <span class="font-(family-name:--font-display) font-semibold text-base leading-tight text-(--color-fg)">
-      Indian Liberals
-    </span>
-  </a>
-
-  {/* Search trigger */}
-  <div class="px-3 py-3 border-b border-(--color-border)">
-    <Search />
-  </div>
-
-  {/* Primary nav */}
-  <nav class="flex-1 overflow-y-auto px-3 py-3" aria-label="Primary">
-    <ul class="space-y-1 text-sm font-(family-name:--font-ui)">
-      {nav.map((item) => {
-        const active = path === item.href || (item.href !== "/" && path.startsWith(item.href));
-        return (
+<header class="sticky top-0 z-50 border-b border-(--color-border) bg-(--color-bg)/95 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg)/80">
+  <div class="mx-auto max-w-6xl px-6 py-5 flex items-center justify-between gap-8">
+    <a href="/" class="flex items-center gap-3 no-underline" aria-label="Indian Liberals home">
+      <img src="/brand/brand-mark-crane.png" alt="" class="h-9 w-9" width="36" height="36" />
+      <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg)">
+        Indian Liberals
+      </span>
+    </a>
+    <nav aria-label="Primary" class="hidden md:flex md:items-center md:gap-6">
+      <ul class="flex items-center gap-6 text-sm font-(family-name:--font-ui)">
+        {nav.map((item) => {
+          const active = path === item.href || (item.href !== "/" && path.startsWith(item.href));
+          return (
+            <li>
+              <a
+                href={item.href}
+                class:list={[
+                  "no-underline text-(--color-fg-muted) hover:text-(--color-fg) transition-colors",
+                  active && "text-(--color-saffron-700) font-semibold",
+                ]}
+                aria-current={active ? "page" : undefined}
+              >
+                {item.label}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+      <Search />
+    </nav>
+    <details class="md:hidden relative">
+      <summary class="list-none cursor-pointer text-(--color-fg-muted) p-2">
+        <span class="sr-only">Open menu</span>
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </summary>
+      <ul class="absolute right-0 top-full mt-2 w-56 bg-(--color-bg) border border-(--color-border) rounded shadow-lg p-2 z-10">
+        {nav.map((item) => (
           <li>
-            <a
-              href={item.href}
-              class:list={[
-                "block px-3 py-2 rounded-md no-underline transition-colors",
-                active
-                  ? "bg-(--color-saffron-50) text-(--color-saffron-700) font-semibold"
-                  : "text-(--color-fg-muted) hover:bg-(--color-bg-muted) hover:text-(--color-fg)",
-              ]}
-              aria-current={active ? "page" : undefined}
-            >
-              {item.label}
-            </a>
+            <a href={item.href} class="block px-3 py-2 no-underline text-(--color-fg-muted) hover:text-(--color-fg) hover:bg-(--color-bg-muted) rounded">{item.label}</a>
           </li>
-        );
-      })}
-    </ul>
-  </nav>
-
-  {/* Sidebar footer — small "for researchers and AI" hint */}
-  <div class="border-t border-(--color-border) px-5 py-4 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-    <p class="leading-relaxed">
-      A digital archive of the Indian liberal tradition. By the
-      <a href="https://ccs.in" class="text-(--color-fg-muted) hover:text-(--color-fg)">Centre for Civil Society</a>.
-    </p>
+        ))}
+      </ul>
+    </details>
   </div>
-</aside>
-
-<script is:inline>
-  (function () {
-    const sidebar = document.getElementById('sidebar');
-    const toggle = document.getElementById('sidebar-toggle');
-    const backdrop = document.getElementById('sidebar-backdrop');
-    if (!sidebar || !toggle || !backdrop) return;
-
-    function open() {
-      sidebar.classList.remove('-translate-x-full');
-      sidebar.classList.add('translate-x-0');
-      backdrop.classList.remove('hidden');
-      toggle.setAttribute('aria-expanded', 'true');
-      document.body.style.overflow = 'hidden';
-    }
-    function close() {
-      sidebar.classList.add('-translate-x-full');
-      sidebar.classList.remove('translate-x-0');
-      backdrop.classList.add('hidden');
-      toggle.setAttribute('aria-expanded', 'false');
-      document.body.style.overflow = '';
-    }
-
-    toggle.addEventListener('click', () => {
-      sidebar.classList.contains('translate-x-0') ? close() : open();
-    });
-    backdrop.addEventListener('click', close);
-
-    // Close drawer when a nav link is clicked (mobile UX)
-    sidebar.querySelectorAll('a').forEach((a) => {
-      a.addEventListener('click', () => {
-        if (window.innerWidth < 768) close();
-      });
-    });
-
-    // ESC closes the drawer on mobile
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && sidebar.classList.contains('translate-x-0')) close();
-    });
-  })();
-</script>
+</header>

@@ -81,7 +81,7 @@ function themesAttr(w: (typeof works)[number]): string {
   </section>
 
   {/* Filter toolbar */}
-  <div class="border-b border-(--color-border) bg-(--color-bg-muted) sticky top-0 z-30 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg-muted)/85" data-pagefind-ignore>
+  <div class="border-b border-(--color-border) bg-(--color-bg-muted) sticky top-[4.75rem] z-30 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg-muted)/85" data-pagefind-ignore>
     <div class="mx-auto max-w-5xl px-6 py-4 font-(family-name:--font-ui)">
       <div class="flex items-baseline justify-between gap-4 mb-3 flex-wrap">
         <div class="flex items-baseline gap-3">
@@ -143,7 +143,7 @@ function themesAttr(w: (typeof works)[number]): string {
   <div class="mx-auto max-w-5xl px-6 py-12" data-pagefind-ignore id="pw-list">
     {decades.map((d) => (
       <section class="mb-12 pw-section" data-decade={String(d.start)}>
-        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[9rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
+        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[10rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
           {d.label}
         </h2>
         <ul class="divide-y divide-(--color-border)">
