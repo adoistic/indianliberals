@@ -303,11 +303,11 @@ Re-read `scripts/synthesis/prompts/system-resolver.txt` end-to-end. Note the str
 - [ ] **Step 2: Read the source passages for the three worked examples**
 
 Read the body text of these three entries (skip frontmatter — start after the closing `---`):
-- `apps/site/src/content/opinions/anandibai-joshee.md` — pick a 2-line passage from the opening that names her
+- `apps/site/src/content/opinions/anandibai-joshee.md` — pick a 2-line passage from the opening that names her. For the `subject` example, also draft a 1-line `what_it_shows` framing for each chosen passage (e.g., "establishes her as the first Indian woman to qualify in Western medicine"). The framing strings live alongside the verbatim quotes in the gold JSON output.
 - `apps/site/src/content/musings/economic-reforms-in-india.md` — the paragraph starting "I am deeply honoured to have been invited to deliver this A. D. Shroff Memorial Lecture"
-- `apps/site/src/content/musings/1991-liberal-reforms-why-no-one-celebrated-them-ashok-desai-1995.md` — pick a passage from the body that mentions another thinker (NOT Desai himself — Desai is the author and lives in `author`)
+- `apps/site/src/content/musings/1991-liberal-reforms-why-no-one-celebrated-them-ashok-desai-1995.md` — search the body for Manmohan Singh, Narasimha Rao, or A. D. Shroff; copy a ≤2-line passage that names one of them; the corresponding authority slug is what goes into `thinker_id` of the gold JSON.
 
-For each, copy the chosen passage verbatim into your scratch buffer. The gold-standard JSON outputs in the prompt must use substrings of these exact passages.
+For each, copy the chosen passage verbatim into your scratch buffer. **No editorial elisions** (`[...]`, `...`) in the copied text — the quotes you embed in the prompt examples MUST be contiguous substrings of the actual body markdown. If a passage you want is split by an aside, pick a shorter contiguous span instead.
 
 - [ ] **Step 3: Create `scripts/synthesis/prompts/system-ner.txt`**
 
@@ -577,23 +577,27 @@ MIN_BODY_CHARS = 200
 The existing project parses YAML frontmatter via simple regex (see `apply-resolutions.py`'s pattern). Add this helper:
 
 ```python
-def split_frontmatter(text: str) -> tuple[dict, str]:
-    """Return (frontmatter_dict, body) for an MD file's text.
+def split_frontmatter(text: str) -> tuple[dict, str, str]:
+    """Return (frontmatter_dict, frontmatter_text, body) for an MD file.
 
-    The dict is a shallow parse — only flat string/bool/number top-level
-    keys are recovered. Sufficient for the language and needs_extraction
-    checks; deeper inspection happens against the body markdown directly."""
+    The dict is a SHALLOW parse — only flat top-level string/bool/null
+    keys. Nested keys (e.g., primary-works' `publication.language:`) are
+    NOT recovered into the dict; callers that need nested values should
+    grep the `frontmatter_text` field directly with a targeted regex.
+    Two-pass design avoids reimplementing a full YAML parser."""
     m = re.match(r"^---\n(.*?)\n---\n?(.*)$", text, re.S)
     if not m:
-        return {}, text
+        return {}, "", text
     fm_text, body = m.group(1), m.group(2)
     fm: dict = {}
     for line in fm_text.splitlines():
+        # Skip indented lines (they belong to nested blocks)
+        if line.startswith((" ", "\t")):
+            continue
         km = re.match(r"^([a-zA-Z_][a-zA-Z0-9_]*)\s*:\s*(.*)$", line)
         if not km:
             continue
         key, val = km.group(1), km.group(2).strip()
-        # strip surrounding quotes; coerce bool / null
         if val.startswith('"') and val.endswith('"'):
             val = val[1:-1]
         elif val.startswith("'") and val.endswith("'"):
@@ -606,7 +610,25 @@ def split_frontmatter(text: str) -> tuple[dict, str]:
             fm[key] = None
         else:
             fm[key] = val
-    return fm, body
+    return fm, fm_text, body
+
+
+_NESTED_PUBLICATION_LANG_RX = re.compile(
+    r"^publication:\s*\n(?:[ \t]+\w+:.*\n)*?[ \t]+language:\s*[\"']?([a-z]{2})[\"']?",
+    re.M,
+)
+
+
+def language_for_entry(collection: str, fm_dict: dict, fm_text: str) -> str:
+    """Return the language code for an entry. Primary-works store the
+    language under `publication.language`; everything else uses the
+    top-level `language:` field. Default 'en' if absent."""
+    if collection == "primary-works":
+        m = _NESTED_PUBLICATION_LANG_RX.search(fm_text)
+        if m:
+            return m.group(1)
+        return "en"
+    return fm_dict.get("language") or "en"
 ```
 
 - [ ] **Step 3: Add the primary-works body filter**
@@ -647,9 +669,11 @@ def main() -> int:
             for md_path in sorted(cdir.glob("*.md")):
                 n_total += 1
                 text = md_path.read_text(encoding="utf-8")
-                fm, body = split_frontmatter(text)
-                # Language filter (default 'en' if absent)
-                lang = fm.get("language") or "en"
+                fm, fm_text, body = split_frontmatter(text)
+                # Language filter — primary-works keep language nested
+                # under publication.language; everything else uses
+                # top-level language. Default 'en' if absent.
+                lang = language_for_entry(collection, fm, fm_text)
                 if lang != "en":
                     n_skipped_lang += 1
                     continue
@@ -696,12 +720,12 @@ cd "/Users/siraj/Indian Liberals Website"
 ```
 
 Expected output: JSON summary. The `emitted` count should be roughly:
-- musings ~224 (English filter doesn't drop many)
+- musings ~220 (English filter drops a handful — Sharad Joshi Marathi musings)
 - opinions ~61
 - theprint-mirror ~48
-- primary-works ~230-260 (some get filtered by the body-length gate)
+- primary-works ~200-240 (filtered by needs_extraction + thin-summary gate + nested language)
 
-Total emitted ≈ 560-590. If `emitted` is dramatically lower than expected, inspect a few skipped entries to confirm the filter is correct.
+Total emitted ≈ 530-590. If `emitted` is dramatically lower than expected, inspect a few skipped entries to confirm the filter is correct (especially the nested-language lookup for primary-works).
 
 Verify the output file exists and the first 3 lines look sane:
 
@@ -711,20 +735,24 @@ head -3 data/synthesis/ner-input.jsonl | python3 -c "import json, sys; [print(js
 
 Expected: 3 JSON lines, each with `id`, `collection`, `title`, and a `body` field. The truncated body should be the actual entry text (not boilerplate).
 
-- [ ] **Step 6: Add `data/synthesis/ner-input.jsonl` to gitignore (it's a derived artifact)**
+- [ ] **Step 6: Add `data/synthesis/ner-input.jsonl` to gitignore**
 
-Check whether `data/synthesis/` is already in `.gitignore`:
+`ner-input.jsonl` is a derived artifact (regenerated from content on demand) and must not be committed. Check `.gitignore`:
 
 ```bash
-grep -n "data/synthesis" .gitignore 2>/dev/null
+grep -n "data/synthesis" .gitignore 2>/dev/null && echo "---" && git ls-files data/synthesis/ 2>/dev/null
 ```
 
-If `unlinked.jsonl` is listed but `ner-input.jsonl` is not, add it. If the whole `data/synthesis/` is glob-ignored, skip this step.
+If there is no existing `data/synthesis/*` glob pattern in `.gitignore` (and `unlinked.jsonl` / `resolutions.jsonl` show up as tracked files in `git ls-files`), add a new explicit line to `.gitignore`:
 
-If you need to add it, append:
 ```
 data/synthesis/ner-input.jsonl
+data/synthesis/ner-mentions.jsonl
+data/synthesis/ner-rejected.txt
+data/synthesis/ner-smoke-input.jsonl
 ```
+
+These four files are all Phase B derived artifacts. The other Phase A artifacts (`unlinked.jsonl`, `resolutions.jsonl`) were committed in Phase A for archival; Phase B's outputs are regenerable and not worth committing.
 
 - [ ] **Step 7: Commit**
 
@@ -817,29 +845,33 @@ Optional flags:
 """
 ```
 
-- [ ] **Step 4: Adjust the default batch size**
+- [ ] **Step 4: Adjust the default batch size AND add file-override flags**
 
 In `main()`, find:
 ```python
 ap.add_argument("--batch-size", type=int, default=40)
 ```
-Change to:
+Replace with:
 ```python
 ap.add_argument("--batch-size", type=int, default=8)
+ap.add_argument("--input-file", default="", help="Override the default NER_INPUT path (used by smoke-batch runs)")
+ap.add_argument("--output-file", default="", help="Override the default NER_MENTIONS path (used by smoke-batch runs)")
 ```
 
-- [ ] **Step 5: Adjust the resume logic to key off `entry_id`**
+Then immediately after the `args = ap.parse_args()` line, add:
+```python
+    input_path = Path(args.input_file).resolve() if args.input_file else NER_INPUT
+    output_path = Path(args.output_file).resolve() if args.output_file else NER_MENTIONS
+```
 
-In `resolve-unlinked.py`, the function `already_resolved_ids()` keys off `r.get("id")`. In Phase B, the JSONL key is `entry_id`. Rename the function and update the key lookup:
+Update every subsequent reference to `NER_INPUT` in `main()` to use `input_path`, and every subsequent reference to `NER_MENTIONS` in `main()` (including in the `already_resolved_entry_ids` call) to use `output_path`. Easiest path: update `already_resolved_entry_ids()` to take an explicit path argument:
 
 ```python
-def already_resolved_entry_ids() -> set[str]:
-    """Read existing ner-mentions.jsonl to support resume.
-    Returns the set of entry_ids that have at least one line emitted."""
-    if not NER_MENTIONS.exists():
+def already_resolved_entry_ids(path: Path) -> set[str]:
+    if not path.exists():
         return set()
     ids: set[str] = set()
-    with NER_MENTIONS.open(encoding="utf-8") as f:
+    with path.open(encoding="utf-8") as f:
         for line in f:
             try:
                 r = json.loads(line)
@@ -850,7 +882,27 @@ def already_resolved_entry_ids() -> set[str]:
     return ids
 ```
 
-Update the call site in `main()` from `already_resolved_ids()` to `already_resolved_entry_ids()`.
+And the open-for-append in `main()`:
+```python
+    mode = "w" if args.redo else "a"
+    out_f = output_path.open(mode, encoding="utf-8")
+```
+
+Verify no remaining bare `NER_INPUT` / `NER_MENTIONS` references in `main()` (the module-level constants stay as defaults; only the runtime code uses `input_path` / `output_path`):
+```bash
+grep -nE "\b(NER_INPUT|NER_MENTIONS)\b" scripts/synthesis/resolve-ner.py | grep -v "^scripts/synthesis/resolve-ner.py:[0-9]*:\s*\(NER_INPUT\s*=\|NER_MENTIONS\s*=\|input_path =\|output_path =\)"
+```
+Expected: no output (every other use is in main() and references `input_path` / `output_path`).
+
+- [ ] **Step 5: (Resume logic now folded into Step 4 — confirm the rename)**
+
+Step 4 above renamed `already_resolved_ids()` → `already_resolved_entry_ids(path)`. Verify the rename is complete and the call site in `main()` was updated:
+
+```bash
+grep -nE "already_resolved_(ids|entry_ids)" scripts/synthesis/resolve-ner.py
+```
+
+Expected: two hits — one `def` and one call site, both using `already_resolved_entry_ids(output_path)`.
 
 - [ ] **Step 6: Adjust the `--only` filter for the new entry shape**
 
@@ -1006,6 +1058,11 @@ def _run_tests() -> int:
         ("case-sensitive (must fail)", "Hayek argued for spontaneous order.", "hayek argued for spontaneous order", False),
         ("markdown link", "See [Hayek's Road to Serfdom](https://example.com) for more.", "Road to Serfdom", True),
         ("blockquote prefix", "> Hayek wrote: spontaneous order matters.", "Hayek wrote: spontaneous order matters.", True),
+        ("underscore emphasis", "_Hayek_ argued for spontaneous order.", "Hayek argued for spontaneous order", True),
+        ("backtick code span", "The term `spontaneous order` is Hayek's.", "The term spontaneous order is Hayek's.", True),
+        ("em-dash normalisation", "Hayek—an Austrian economist—argued for spontaneous order.", "Hayek-an Austrian economist-argued for spontaneous order", True),
+        ("en-dash normalisation", "Hayek (1899–1992) argued for spontaneous order.", "Hayek (1899-1992) argued for spontaneous order", True),
+        ("mixed emphasis + apostrophe", "*Hayek*'s _Road to Serfdom_ is foundational.", "Hayek's Road to Serfdom is foundational", True),
     ]
     failed = 0
     for label, body, quote, expected in cases:
@@ -1044,7 +1101,7 @@ cd "/Users/siraj/Indian Liberals Website"
 .venv-extract/bin/python3 scripts/synthesis/apply-ner.py --test
 ```
 
-Expected: `15/15 passed`, exit code 0. If any case fails, the normalisation logic needs revision — fix and re-run.
+Expected: `20/20 passed`, exit code 0. If any case fails, the normalisation logic needs revision — fix and re-run.
 
 - [ ] **Step 3: Commit**
 
@@ -1340,7 +1397,7 @@ def main() -> int:
 .venv-extract/bin/python3 scripts/synthesis/apply-ner.py --test
 ```
 
-Expected: `15/15 passed`, exit code 0.
+Expected: `20/20 passed`, exit code 0.
 
 - [ ] **Step 6: Run apply in `--dry-run` mode against an empty mentions file (if it exists)**
 
@@ -1367,10 +1424,40 @@ git -c commit.gpgsign=false commit -m "feat(synth): apply-ner.py full applier wi
 
 **Per supplementary spec §3 and §4.** Run resolve-ner.py on the 7 smoke-batch entries, read the JSON output by hand, show Adnan, iterate prompt until the 4 non-example entries (#2, #3, #6, #7) produce sensible verbatim-correct mentions. The 3 example entries (#1, #4, #5) should produce ~exact gold-standard outputs since they anchor the prompt; if they DON'T, the prompt has a bug.
 
-- [ ] **Step 1: Construct a smoke-batch input file with the 7 locked entries**
+- [ ] **Step 1 (pre-flight): Verify all 7 smoke slugs exist in `ner-input.jsonl`**
+
+A silent partial-batch (e.g., 6 of 7 entries because one was filtered) burns `claude -p` budget without exercising the full code path. Hard-fail if any slug is missing:
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
+python3 -c "
+import json, sys
+SMOKE = [
+    'anandibai-joshee',
+    'homi-modys-liberalism-pro-business-to-pro-market',
+    'gg-agarkar-revisiting-a-misunderstood-legacy',
+    'economic-reforms-in-india',
+    '1991-liberal-reforms-why-no-one-celebrated-them-ashok-desai-1995',
+    'ad-shroff-socialism-free-enterprise-lessons',
+    'a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980',
+]
+ids = set()
+with open('data/synthesis/ner-input.jsonl') as f:
+    for line in f:
+        ids.add(json.loads(line)['id'])
+missing = [s for s in SMOKE if s not in ids]
+if missing:
+    print(f'smoke slugs missing from ner-input.jsonl: {missing}', file=sys.stderr)
+    sys.exit(1)
+print(f'all 7 smoke slugs present in ner-input.jsonl ({len(ids)} total entries)')
+"
+```
+
+Expected: `all 7 smoke slugs present in ner-input.jsonl (N total entries)`, exit 0. If any slug is missing, inspect `prepare-ner-batches.py`'s filter against that slug's MD file — most likely cause is the primary-works thin-summary gate or a typo in the smoke list. Fix and re-run Task 6 Step 5.
+
+- [ ] **Step 2: Construct the smoke-batch input file**
+
+```bash
 python3 -c "
 import json
 SMOKE = [
@@ -1383,35 +1470,34 @@ SMOKE = [
     'a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980',
 ]
 with open('data/synthesis/ner-input.jsonl') as f, open('data/synthesis/ner-smoke-input.jsonl','w') as out:
-    kept = 0
     for line in f:
-        rec = json.loads(line)
-        if rec['id'] in SMOKE:
+        if json.loads(line)['id'] in SMOKE:
             out.write(line)
-            kept += 1
-print(f'smoke batch ready: {kept}/7 entries')
 "
+wc -l data/synthesis/ner-smoke-input.jsonl
 ```
 
-Expected: `smoke batch ready: 7/7 entries`. If less than 7, one of the entries failed the prepare-batches filter; check the prepare summary and either adjust the filter or drop that entry from the smoke batch.
+Expected: `7`.
 
-- [ ] **Step 2: Run the resolver on the smoke batch**
+- [ ] **Step 3: Run the resolver on the smoke batch using the flags from Task 7**
 
 ```bash
 .venv-extract/bin/python3 scripts/synthesis/resolve-ner.py \
+    --input-file data/synthesis/ner-smoke-input.jsonl \
+    --output-file data/synthesis/ner-mentions-smoke.jsonl \
     --batch-size 8 --concurrency 1 --max-batches 1 \
     2>&1 | tee /tmp/ner-smoke.log
 ```
 
-Override the input path by temporarily editing the script's `NER_INPUT` constant to point to `ner-smoke-input.jsonl`, OR pass via env var if you've added one. Simplest: edit the line, run, revert. If concurrency 1 means it takes <15min of wallclock, leave it.
+Using a separate `ner-mentions-smoke.jsonl` keeps smoke output OUT of the eventual full-run output file — important because Step 6 may iterate the prompt several times, and we don't want stale smoke outputs polluting `ner-mentions.jsonl` and being skipped via resume-logic during the full Task 11 run.
 
-If `claude -p` is rate-limited, the breaker trips and the script sleeps. Read the breaker output; if it's a long sleep (>30 min), drop into a manual chat session: paste `system-ner.txt` as the system prompt + paste one entry at a time as user messages, collect outputs, paste them into `data/synthesis/ner-mentions.jsonl`.
+If `claude -p` is rate-limited, the breaker trips and the script sleeps. Read the breaker output; if it's a long sleep (>30 min), drop into a manual chat session: paste `system-ner.txt` as the system prompt + paste one entry at a time as user messages, collect outputs, append them to `data/synthesis/ner-mentions-smoke.jsonl`.
 
-- [ ] **Step 3: Inspect the smoke output**
+- [ ] **Step 4: Inspect the smoke output**
 
 ```bash
-wc -l data/synthesis/ner-mentions.jsonl
-cat data/synthesis/ner-mentions.jsonl | python3 -m json.tool --no-ensure-ascii | less
+wc -l data/synthesis/ner-mentions-smoke.jsonl
+cat data/synthesis/ner-mentions-smoke.jsonl | python3 -m json.tool --no-ensure-ascii | less
 ```
 
 For each of the 7 entries, verify:
@@ -1421,33 +1507,42 @@ For each of the 7 entries, verify:
 - The Godrej primary-work produced mention records over the SUMMARY prose (Germany/Japan/etc.)
 - Every quote in every record appears LITERALLY in the source body (eyeball-check 3-5 random quotes per entry)
 
-- [ ] **Step 4: Run the applier in `--dry-run` against the smoke output**
+Special attention to the 4 *non-example* smoke entries (supplementary spec §4 prompt-example circularity note): #2, #3 (subject-role opinions NOT in the prompt examples), #6 (ThePrint), #7 (primary-work). These four must produce sensible verbatim-correct mentions before the prompt is locked.
 
+- [ ] **Step 5: Run the applier in `--dry-run` against the smoke output**
+
+apply-ner.py reads from the default `NER_MENTIONS` path. For this smoke check, temporarily point it at the smoke output by adding the same `--input-file` flag to apply-ner.py (mirror the pattern from Task 7). Alternatively, just copy: `cp data/synthesis/ner-mentions-smoke.jsonl data/synthesis/ner-mentions.jsonl`, run dry-run, then `rm data/synthesis/ner-mentions.jsonl` before the full run.
+
+Simplest path:
 ```bash
+cp data/synthesis/ner-mentions-smoke.jsonl data/synthesis/ner-mentions.jsonl
 .venv-extract/bin/python3 scripts/synthesis/apply-ner.py --dry-run
+rm data/synthesis/ner-mentions.jsonl
 ```
 
-Expected: counts JSON shows `entries_processed: 7`, `mentions_rejected_quote: 0` (or very low). If `mentions_rejected_quote` is high (>10% of mentions_written), the LLM is emitting non-substring quotes — the prompt's verbatim rule isn't anchoring well enough. Strengthen the prompt's worked examples and re-run from Step 2.
+Expected: counts JSON shows `entries_processed: 7`, `mentions_rejected_quote: 0` or low. If `mentions_rejected_quote` is high (≥10% of `mentions_written`), the LLM is emitting non-substring quotes — the prompt's verbatim rule isn't anchoring well enough. Strengthen the prompt's worked examples and re-run from Step 3.
 
-- [ ] **Step 5: Show Adnan the JSON output and the rejection log**
+- [ ] **Step 6: Show Adnan the smoke output and the rejection log**
 
 Print the smoke output and the rejection log inline in your response:
 
 ```bash
-echo "=== smoke output ===" && cat data/synthesis/ner-mentions.jsonl
-echo "=== rejection log ===" && cat data/synthesis/ner-rejected.txt 2>/dev/null || echo "(no rejections)"
+echo "=== smoke output ===" && cat data/synthesis/ner-mentions-smoke.jsonl
+echo "=== rejection log (if any) ===" && cat data/synthesis/ner-rejected.txt 2>/dev/null || echo "(no rejections)"
 ```
 
 Ask: "OK to lock the prompt and run the full batch?" Wait for sign-off.
 
-- [ ] **Step 6: If Adnan asks for prompt edits, iterate**
+- [ ] **Step 7: If Adnan asks for prompt edits, iterate**
 
-Edit `scripts/synthesis/prompts/system-ner.txt`. Re-run Step 2-5. Repeat until Adnan signs off.
+Edit `scripts/synthesis/prompts/system-ner.txt`. Re-run Step 3-6. Repeat until Adnan signs off. Each iteration overwrites `ner-mentions-smoke.jsonl` (use `--redo` if the resolver's resume logic skips already-resolved entry_ids; deleting the smoke output file first is cleaner).
 
-- [ ] **Step 7: Run the applier for real against the smoke batch**
+- [ ] **Step 8: Apply the smoke output to the 7 entry MD files**
 
 ```bash
+cp data/synthesis/ner-mentions-smoke.jsonl data/synthesis/ner-mentions.jsonl
 .venv-extract/bin/python3 scripts/synthesis/apply-ner.py
+rm data/synthesis/ner-mentions.jsonl  # keep the full-run output file empty until Task 11
 ```
 
 Verify a sample frontmatter was updated correctly:
@@ -1458,7 +1553,7 @@ grep -A 30 "^thinker_mentions:" apps/site/src/content/musings/economic-reforms-i
 
 Expected: a YAML block with the kept mentions, properly indented, parseable by Astro.
 
-- [ ] **Step 8: Run `npx --offline astro check` to confirm no schema regression**
+- [ ] **Step 9: Run `npx --offline astro check` to confirm no schema regression**
 
 ```bash
 cd apps/site && npx --offline astro check 2>&1 | tail -5
@@ -1466,21 +1561,22 @@ cd apps/site && npx --offline astro check 2>&1 | tail -5
 
 Expected: same error/warning/hint count as the Task 4 baseline.
 
-- [ ] **Step 9: Commit the prompt iterations and the smoke artifacts**
+- [ ] **Step 10: Commit the prompt iterations and the smoke artifacts**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
+
+# If the prompt was edited in Step 7, commit it
 git add scripts/synthesis/prompts/system-ner.txt
-git -c commit.gpgsign=false commit -m "feat(prompt): tune system-ner.txt after smoke batch sign-off" \
+git -c commit.gpgsign=false commit -m "feat(prompt): tune system-ner.txt after smoke-batch sign-off" \
     --allow-empty
-# (the --allow-empty handles the case where no prompt edits were needed)
 
 # Commit the 7 modified frontmatter files
 git add apps/site/src/content/
 git -c commit.gpgsign=false commit -m "feat(content): apply Phase B mentions from 7-entry smoke batch"
 
-# Discard the smoke-input artifact (derived; not committed)
-rm -f data/synthesis/ner-smoke-input.jsonl
+# Discard the smoke-input artifact (derived; gitignored per Task 6 Step 6)
+rm -f data/synthesis/ner-smoke-input.jsonl data/synthesis/ner-mentions-smoke.jsonl
 ```
 
 ---
@@ -1600,110 +1696,280 @@ git -c commit.gpgsign=false commit -m "feat(content): apply Phase B thinker_ment
 - Modify: `apps/site/src/pages/thinkers/[slug].astro`
 
 **Per parent doc § Bio page changes.** Two new affordances:
-1. New section "How {Thinker} is discussed in this archive" between the header and "By {Thinker}". Walks every entry that has this thinker in `thinker_mentions[]`; concatenates first-sentence-of-each-reasoning into 2-3 paragraphs grouped by role.
-2. Under existing "Mentioned in" subsections, render evidence quote(s) inline as a small blockquote per work (max 2 quotes per entry).
+1. New section "How {Thinker} is discussed in this archive" between the existing themes/affiliations `<aside>` (line 199) and Section 1 "By {Thinker}" (line 202). Renders 2-3 paragraphs grouped by role with inline work-title links.
+2. Inside the existing Section 3 "Mentioned in" subsections (workMentions, opinionMentions, musingMentions render loops, lines 325-369), augment each `<li>` with an inline blockquote rendering the matching evidence quote(s).
+3. Inside the existing Section 2 "About {Thinker}" → `opinionsAbout` render loop (lines 300-313), surface 1-2 `key_passages` as a highlight strip under the entry title.
 
-- [ ] **Step 1: Read the existing page to find the insertion points**
+**Read the file once before starting** — see `apps/site/src/pages/thinkers/[slug].astro` (currently 383 lines). The existing aggregation variables we will reuse:
 
-Read `apps/site/src/pages/thinkers/[slug].astro` end-to-end. Note where the existing "By {Thinker}", "About {Thinker}", "Mentioned in" sections live. The new "How … discussed" section goes between the header markdown render and the "By {Thinker}" section.
+- Author role: `worksByThisThinker`, `musingsByThisThinker`, `opinionsByThisThinker`, `theprintByThisThinker` (lines 44-54)
+- Subject role: `interviewsAbout`, `opinionsAbout` (lines 57-58)
+- Mention role: `opinionMentions`, `musingMentions`, `workMentions` (lines 61-82)
 
-- [ ] **Step 2: Add the data walks at the top of the frontmatter script section**
+The file already does `await Promise.all([getCollection('interviews'), getCollection('theprint-mirror'), ...])` at lines 29-35 — Task 13 reuses those arrays, no new `getCollection` calls.
 
-Identify the existing block that computes `worksByThisThinker`, `interviewMentions`, etc. Add a new walk alongside it:
+- [ ] **Step 1: Add a helper at the top of the frontmatter script (after line 41, just before the existing aggregations)**
+
+Insert this helper to look up a thinker's mention record from any entry's `thinker_mentions[]`:
 
 ```typescript
-// Phase B — every entry that has this thinker in thinker_mentions[].
-// Grouped by role for the "How … discussed" synthesis section.
-const allEntries = [
-  ...await getCollection('musings'),
-  ...await getCollection('opinions'),
-  ...await getCollection('theprint-mirror'),
-  ...await getCollection('primary-works'),
-];
+// Phase B — given any entry and the thinker we're rendering, find the
+// matching thinker_mentions[] row (or undefined). Used by every section
+// that wants to render evidence/key_passages alongside the entry link.
+function mentionFor(entry: { data: { thinker_mentions?: Array<any> } }, id: string) {
+  return (entry.data.thinker_mentions ?? []).find((m: any) => refMatches(m.thinker, id));
+}
+```
 
-const mentionsOfThisThinker = allEntries
+- [ ] **Step 2: After the existing aggregations (after line 89, before `const hreflang = ...`), build the "How … discussed" synthesis data**
+
+```typescript
+// Phase B — collect every (entry, mention) pair across the three
+// mention-bearing role buckets for the synthesis section. Grouped by
+// role so we can render role-bucketed prose like the parent spec calls
+// for: "Authored N works including X, Y, Z. Referenced in M others
+// including A, B, C."
+type MentionRow = { entry: { collection: string; id: string; data: any }; mention: any };
+
+const subjectMentions: MentionRow[] = opinionsAbout
   .map((e) => {
-    const tm = (e.data.thinker_mentions ?? []).find(
-      (m: any) => m.thinker?.id === thinker.id,
-    );
-    return tm ? { entry: e, mention: tm } : null;
+    const m = mentionFor(e, t.id);
+    return m && m.role === 'subject' ? { entry: e, mention: m } : null;
   })
-  .filter((x): x is { entry: typeof allEntries[number]; mention: any } => x !== null);
+  .filter((x): x is MentionRow => x !== null);
 
-const byRole = {
-  author: mentionsOfThisThinker.filter((x) => x.mention.role === 'author'),
-  subject: mentionsOfThisThinker.filter((x) => x.mention.role === 'subject'),
-  mention: mentionsOfThisThinker.filter((x) => x.mention.role === 'mention'),
-};
+const allMentionRows: MentionRow[] = [
+  ...workMentions.map((e) => ({ entry: e, mention: mentionFor(e, t.id) })),
+  ...opinionMentions.map((e) => ({ entry: e, mention: mentionFor(e, t.id) })),
+  ...musingMentions.map((e) => ({ entry: e, mention: mentionFor(e, t.id) })),
+].filter((r): r is MentionRow => r.mention !== undefined && r.mention.role === 'mention');
+
+const hasPhaseBData = subjectMentions.length > 0 || allMentionRows.length > 0;
+
+// For the inline "...including X, Y, Z" lists — pick up to 3 representative
+// works by title, preferring the most-quoted (longest evidence list).
+function topByEvidence(rows: MentionRow[], limit = 3): MentionRow[] {
+  return [...rows]
+    .sort((a, b) => (b.mention.evidence?.length ?? 0) - (a.mention.evidence?.length ?? 0))
+    .slice(0, limit);
+}
+const topMentions = topByEvidence(allMentionRows, 3);
 ```
 
-- [ ] **Step 3: Render the "How … discussed" section**
+- [ ] **Step 3: Render the "How … discussed" section between the themes aside and Section 1**
 
-Insert into the template body between the header and "By {Thinker}":
+Find the closing `</aside>` of the themes/affiliations block (currently line 199, immediately before the `{/* ── Section 1: Works BY this thinker ────────── */}` comment). Insert this section AFTER `</aside>` and BEFORE that comment:
 
 ```astro
-{mentionsOfThisThinker.length > 0 && (
-  <section class="how-discussed">
-    <h2>How {thinker.data.name.canonical} is discussed in this archive</h2>
-    <p>
-      {worksByThisThinker.length > 0 && (
-        <>Authored {worksByThisThinker.length} {worksByThisThinker.length === 1 ? 'work' : 'works'} in the archive
-        {byRole.subject.length > 0 && <>; subject of {byRole.subject.length} profile {byRole.subject.length === 1 ? 'piece' : 'pieces'}</>}
-        {byRole.mention.length > 0 && <>; referenced in {byRole.mention.length} other {byRole.mention.length === 1 ? 'work' : 'works'}</>}
-        .</>
-      )}
-    </p>
-    {byRole.mention.slice(0, 5).map((x) => (
-      <p>
-        <strong>In <a href={`/${x.entry.collection}/${x.entry.id}`}>{x.entry.data.title}</a></strong>:
-        {' '}{x.mention.reasoning.split(/(?<=\.)\s+/)[0]}
-      </p>
-    ))}
-  </section>
-)}
+    {/* ── Phase B: How this thinker is discussed in this archive ───── */}
+    {hasPhaseBData && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+          How {t.data.name.canonical} is discussed in this archive
+        </h2>
+        <div class="text-(--color-fg) text-base leading-relaxed space-y-3">
+          {authorshipCount > 0 && (
+            <p>
+              Authored {authorshipCount} {authorshipCount === 1 ? "work" : "works"} in the archive.
+            </p>
+          )}
+          {subjectMentions.length > 0 && (
+            <p>
+              Subject of {subjectMentions.length} profile {subjectMentions.length === 1 ? "piece" : "pieces"}
+              {" — including "}
+              {subjectMentions.slice(0, 3).map((row, i) => (
+                <Fragment>
+                  {i > 0 && (i === Math.min(subjectMentions.length, 3) - 1 ? ", and " : ", ")}
+                  <a href={`/opinions/${row.entry.id}/`} class="text-(--color-forest-700) no-underline hover:underline">
+                    {row.entry.data.title}
+                  </a>
+                </Fragment>
+              ))}
+              .
+            </p>
+          )}
+          {allMentionRows.length > 0 && (
+            <p>
+              Referenced in {allMentionRows.length} other {allMentionRows.length === 1 ? "work" : "works"}
+              {topMentions.length > 0 && (
+                <Fragment>
+                  {" — including "}
+                  {topMentions.map((row, i) => (
+                    <Fragment>
+                      {i > 0 && (i === topMentions.length - 1 ? ", and " : ", ")}
+                      <a href={`/${row.entry.collection}/${row.entry.id}/`} class="text-(--color-forest-700) no-underline hover:underline">
+                        {row.entry.collection === "primary-works"
+                          ? row.entry.data.title.main
+                          : row.entry.data.title}
+                      </a>
+                    </Fragment>
+                  ))}
+                </Fragment>
+              )}
+              .
+            </p>
+          )}
+          {allMentionRows.slice(0, 5).map((row) => (
+            <p class="text-sm text-(--color-fg-muted) italic pl-3 border-l-2 border-(--color-saffron-200)">
+              <span class="not-italic text-(--color-fg)">In <a href={`/${row.entry.collection}/${row.entry.id}/`} class="text-(--color-forest-700) no-underline hover:underline">
+                {row.entry.collection === "primary-works" ? row.entry.data.title.main : row.entry.data.title}
+              </a>:</span>{" "}
+              {(row.mention.reasoning || "").split(/(?<=\.)\s+/)[0]}
+            </p>
+          ))}
+        </div>
+      </section>
+    )}
 ```
 
-- [ ] **Step 4: Render evidence quotes under existing "Mentioned in" entries**
+Note on Astro idioms: `<Fragment>` is the Astro equivalent of React's `<>`. The file already imports component patterns from `astro:content`; `Fragment` is globally available in Astro components (no import needed). The existing file does NOT use `<>` fragments — confirmed by inspection at lines 134-145, 280-316.
 
-Find the existing render loop for "Mentioned in" entries (the section that lists works where the thinker appears in `related_thinkers[]`). For each entry, look up the matching mention from `thinker_mentions[]` and render the first 1-2 evidence quotes as inline blockquotes:
+- [ ] **Step 4: Augment the three "Mentioned in" subsections with inline evidence quotes**
+
+In `apps/site/src/pages/thinkers/[slug].astro`, the existing Section 3 has three render loops (workMentions at lines 329-341, opinionMentions at 347-356, musingMentions at 361-369). Each renders `<li><a>…</a></li>`. Modify each `<li>` to render the first 1-2 evidence quotes underneath the link.
+
+**For `workMentions.slice(0, 15).map((w) => (...))`** — replace the existing `<li>` with:
 
 ```astro
-{mentionedInEntries.map((entry) => {
-  const tm = (entry.data.thinker_mentions ?? []).find(
-    (m: any) => m.thinker?.id === thinker.id,
-  );
-  const quotes = (tm?.evidence ?? []).slice(0, 2);
-  return (
-    <article class="mentioned-in-entry">
-      <h3><a href={`/${entry.collection}/${entry.id}`}>{entry.data.title}</a></h3>
-      {quotes.map((ev: any) => (
-        <blockquote>
-          <p>"{ev.quote}"</p>
-          {ev.context && <footer>{ev.context}</footer>}
-        </blockquote>
-      ))}
-    </article>
-  );
-})}
+                {workMentions.slice(0, 15).map((w) => {
+                  const tm = mentionFor(w, t.id);
+                  const quotes = (tm?.evidence ?? []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {w.data.title.main}
+                        <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
+                      </a>
+                      {quotes.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {quotes.map((ev: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{ev.quote}"
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
 ```
 
-For `subject`-role entries (which live in the "About {Thinker}" section, not "Mentioned in"), surface 1-2 `key_passages` as a highlight strip under the entry title.
+**For `opinionMentions.slice(0, 10).map((o) => (...))`** — same pattern, just swap `w.data.title.main` for `o.data.title` and `primary-works` for `opinions`:
 
-- [ ] **Step 5: Run the dev server and visit a touchstone bio page**
+```astro
+                {opinionMentions.slice(0, 10).map((o) => {
+                  const tm = mentionFor(o, t.id);
+                  const quotes = (tm?.evidence ?? []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {o.data.title}
+                      </a>
+                      {quotes.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {quotes.map((ev: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{ev.quote}"
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
+```
+
+**For `musingMentions.slice(0, 10).map((m) => (...))`** — same pattern:
+
+```astro
+                {musingMentions.slice(0, 10).map((m) => {
+                  const tm = mentionFor(m, t.id);
+                  const quotes = (tm?.evidence ?? []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {m.data.title}
+                      </a>
+                      {quotes.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {quotes.map((ev: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{ev.quote}"
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
+```
+
+Also remove the trailing footer paragraph at lines 372-376 (the one that says "In-prose mentions inside opinions, musings, interviews, and ThePrint articles are queued for the Phase B body-NER pass") — it's stale once Phase B lands.
+
+- [ ] **Step 5: Augment the "About {Thinker}" → `opinionsAbout` subsection with subject-role `key_passages`**
+
+In Section 2 (lines 300-313), modify the `opinionsAbout.map((o) => (...))` render to surface 1-2 `key_passages` per subject-role entry. Replace the existing `<li>` block with:
+
+```astro
+                {opinionsAbout.map((o) => {
+                  const tm = mentionFor(o, t.id);
+                  const passages = (tm?.role === 'subject' ? tm.key_passages ?? [] : []).slice(0, 2);
+                  return (
+                    <li>
+                      <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                        {o.data.title}
+                      </a>
+                      {passages.length > 0 && (
+                        <ul class="mt-1 space-y-1 ml-2">
+                          {passages.map((kp: any) => (
+                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+                              "{kp.quote}"
+                              {kp.what_it_shows && <span class="not-italic text-(--color-fg-muted) ml-1">— {kp.what_it_shows}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  );
+                })}
+```
+
+Interviews are out of Phase B scope (no `thinker_mentions[]`), so the `interviewsAbout` render at lines 286-298 stays unchanged.
+
+- [ ] **Step 6: Verify in the browser**
+
+The astro preview server should still be running on 127.0.0.1:4321 (PID 53647 per the initial state check). If it's not, start it:
 
 ```bash
-cd apps/site
-# Astro preview is already running on port 4321 per the state check.
-# Hit it:
-curl -s "http://127.0.0.1:4321/thinkers/a-d-shroff" | head -200
+cd apps/site && pgrep -f "astro preview" >/dev/null || nohup npx --offline astro preview --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
 ```
 
-Verify visually (in a browser):
-- The "How A. D. Shroff is discussed in this archive" section renders with 2-3 paragraphs of context
-- Under "Mentioned in" entries, evidence quotes render inline as blockquotes
-- The "About A. D. Shroff" section still works for profile pieces
+Astro preview serves the LAST build's output; trigger a fresh build first:
 
-- [ ] **Step 6: Commit**
+```bash
+cd apps/site && npm run build 2>&1 | tail -5
+```
+
+Expected: build succeeds, ≥1,225 pages. Then check a touchstone bio page renders the new section:
+
+```bash
+curl -s "http://127.0.0.1:4321/thinkers/a-d-shroff/" | grep -o "How A. D. Shroff is discussed in this archive" | head -1
+```
+
+Expected: the matched string prints once. Also visit the URL in a browser to eyeball the rendering — the new "How … discussed" section should sit between the themes aside and the "By A. D. Shroff" section, with prose paragraphs and italicised quote-strip paragraphs.
+
+Verify evidence quotes render under at least one Section 3 entry:
+
+```bash
+curl -s "http://127.0.0.1:4321/thinkers/a-d-shroff/" | grep -E "border-\(--color-saffron-200\)" | head -3
+```
+
+Expected: ≥1 line — the `border-l border-(--color-saffron-200)` class only appears on the new italic blockquote `<li>`s.
+
+- [ ] **Step 7: Commit**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
@@ -1844,7 +2110,8 @@ Expected:
 - opinions ≥ 80%
 - theprint-mirror ≥ 80%
 - primary-works ≥ 60%
-- Most touchstones reach their expected baseline (LO flags acceptable for a few — Sudha Shenoy, niche figures)
+
+**Touchstone counts are advisory, not blocking.** `LO` flags surface where the corpus contains fewer mentions of a thinker than expected — usually because that thinker isn't actually written about often in this archive (niche figures like Sudha Shenoy). A `LO` flag does NOT require prompt iteration; only investigate if a touchstone returns 0 mentions when ≥5 was expected (suggests a real extraction gap). The blocking acceptance gates are §6's percentage thresholds and the spot-check in Step 3 — not the touchstone table.
 
 - [ ] **Step 3: Spot-check 10 random evidence quotes by hand**
 
