@@ -79,17 +79,22 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
 
     <meta name="generator" content={Astro.generator} />
   </head>
-  <body>
-    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:bg-(--color-bg) focus:text-(--color-forest-700) focus:px-3 focus:py-2 focus:rounded focus:border focus:border-(--color-border)">
+  <body class="md:flex md:items-start">
+    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 z-50 focus:bg-(--color-bg) focus:text-(--color-forest-700) focus:px-3 focus:py-2 focus:rounded focus:border focus:border-(--color-border)">
       Skip to content
     </a>
     <Header />
-    <!-- data-pagefind-body marks this region as the search-indexable content
-         on every page. Per-page <article> elements add data-pagefind-filter
-         and data-pagefind-meta to scope facets without re-defining the body. -->
-    <main id="main" class="min-h-[calc(100vh-12rem)]" data-pagefind-body>
-      <slot />
-    </main>
-    <Footer />
+    {/* Main column — flex-1 so it fills the space next to the sidebar.
+        min-w-0 so the inner max-w containers don't blow out the layout when
+        a long word / wide image appears. */}
+    <div class="flex-1 min-w-0 flex flex-col min-h-screen">
+      {/* data-pagefind-body marks this region as the search-indexable content
+          on every page. Per-page <article> elements add data-pagefind-filter
+          and data-pagefind-meta to scope facets without re-defining the body. */}
+      <main id="main" class="flex-1" data-pagefind-body>
+        <slot />
+      </main>
+      <Footer />
+    </div>
   </body>
 </html>
