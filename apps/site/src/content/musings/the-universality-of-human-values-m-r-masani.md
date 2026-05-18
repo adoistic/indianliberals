@@ -7,7 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
-author: "mr-masani"
+author: "minoo-masani"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

@@ -8,7 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
-subject: "rajaji"
+subject: "c-rajagopalachari"
 thinker_mentions:
   - thinker: c-rajagopalachari
     role: subject

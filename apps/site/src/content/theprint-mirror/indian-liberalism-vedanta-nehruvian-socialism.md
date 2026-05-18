@@ -15,7 +15,7 @@ related_thinkers:
   - jyotirao-phule
   - mahatma-gandhi
   - raja-ram-mohan-roy
-  - rajaji
+  - c-rajagopalachari
 
 related_works: []
 noindex: true
@@ -71,7 +71,7 @@ thinker_mentions:
       - quote: they trace the beginnings of liberalism to J. S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Ram Mohan Roy, Narmad, Phule, Agarkar, etc.
         context: one of the canonical Indian reformers listed in the liberal genealogy
     key_passages: []
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "Rajaji is invoked twice: once for his Gujarati proverb on the pauperising effect of state commerce, and again as the founder of the Swatantra Party who correctly foresaw the disaster of Nehru's licence raj."
     evidence:

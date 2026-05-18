@@ -44,7 +44,7 @@ thinker_mentions:
       - quote: Ranga studied the works of influential political thinkers such as Bertrand Russel, HG Wells and JS Mill.
         context: "Mill is one of the canonical liberal thinkers cited as shaping Ranga's early political education"
     key_passages: []
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "Rajaji is identified as the founder of the Swatantra Party who recruited Ranga as president, making him the ideological and organisational anchor of Ranga's political career."
     evidence:
@@ -65,7 +65,7 @@ related_thinkers:
   - joseph-stalin
   - kandukuri-veeresalingam
   - minoo-masani
-  - rajaji
+  - c-rajagopalachari
 
 ---
 

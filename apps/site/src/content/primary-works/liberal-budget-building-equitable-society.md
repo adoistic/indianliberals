@@ -25,7 +25,7 @@ related_thinkers:
   - gopal-krishna-gokhale
   - ludwig-von-mises
   - s-v-raju
-  - ss-bhandare
+  - sunil-bhandare
 
 publication:
   language: en
@@ -77,7 +77,7 @@ thinker_mentions:
       - quote: The preface, signed by S. V. Raju as Executive Chairman, explains that the document was designed as a template and benchmark against which to evaluate actual Union Budgets
         context: "Raju as institutional author of the preface, establishing the document's purpose"
     key_passages: []
-  - thinker: ss-bhandare
+  - thinker: sunil-bhandare
     role: mention
     reasoning: S. S. Bhandare wrote the Introduction to the Liberal Budget, framing the fiscal environment as severely constrained and arguing that a genuinely liberal economic environment is a precondition for any effective budget.
     evidence:

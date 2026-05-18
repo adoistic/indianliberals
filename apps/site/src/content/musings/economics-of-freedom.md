@@ -8,7 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 thinker_mentions:
-  - thinker: mr-masani
+  - thinker: minoo-masani
     role: author
     reasoning: The entry is a lecture delivered by M.R. Masani; Masani is the author of the reproduced text, though this was not captured in the frontmatter.
     evidence:
@@ -38,7 +38,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - joseph-stalin
-  - mr-masani
+  - minoo-masani
   - nikita-khrushchev
   - vinoba-bhave
 

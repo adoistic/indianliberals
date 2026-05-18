@@ -1,10 +1,22 @@
 # Cloudflare Pages _redirects file.
-# Add 301/302 redirects from legacy WordPress URLs here as needed.
 # Format: <from-path>  <to-path>  <status>
-#
-# Examples (uncomment when DNS cutover happens):
-# /wp-content/uploads/*    /legacy-media/:splat    301
-# /?p=:id                  /                       301
 
 # Trailing-slash policy: Astro emits both /foo and /foo/index.html;
 # Cloudflare Pages auto-handles trailing slashes. No rules needed.
+
+# Thinker dedup redirects (from /tmp/dedup-pairs.json analysis 2026-05-18).
+# Each duplicate slug → its canonical bio. Keeps any external links + search
+# engines pointing to the merged-away slug working.
+/thinkers/nani-palkhiwala/        /thinkers/nani-palkhivala/         301
+/thinkers/rajaji/                 /thinkers/c-rajagopalachari/       301
+/thinkers/dr-pendse/              /thinkers/d-r-pendse/              301
+/thinkers/mr-masani/              /thinkers/minoo-masani/            301
+/thinkers/prof-shenoy/            /thinkers/b-r-shenoy/              301
+/thinkers/ss-bhandare/            /thinkers/sunil-bhandare/          301
+/thinkers/mh-moody/               /thinkers/mh-mody/                 301
+/thinkers/dm-kulkarni/            /thinkers/d-m-kulkarni-libertarian/ 301
+
+# Sharad Joshi dedup (earlier commit)
+/thinkers/sharad-anantrao-joshi/  /thinkers/sharad-joshi/            301
+
+# Future: legacy WordPress URLs will be added here at DNS cutover.

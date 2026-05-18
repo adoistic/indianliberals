@@ -7,7 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
-author: "rajaji"
+author: "c-rajagopalachari"
 thinker_mentions:
   - thinker: c-rajagopalachari
     role: author

@@ -15,7 +15,7 @@ thinker_mentions:
       - quote: "the formation of the Swatantra Party under the aegis of Sri C. Rajagopalachari and the initiative of the All India Agriculturists' Federation."
         context: "Rajagopalachari's role as founding patron of the Swatantra Party is cited as the institutional response to Nehru's land reforms"
     key_passages: []
-  - thinker: mr-masani
+  - thinker: minoo-masani
     role: mention
     reasoning: MR Masani is named as one of the Swatantra Party-aligned leaders who publicly opposed the Congress cooperative-farming proposals alongside Congress dissidents.
     evidence:
@@ -29,7 +29,7 @@ thinker_mentions:
       - quote: Congress Ministers like Sri Charan Singh of the U.P. (who has had to resign office on account of his bold opposition in Nagpur)
         context: "Charan Singh's principled resignation is held up as evidence of broad-based opposition to the Congress agricultural programme"
     key_passages: []
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "Rajaji's 'Farm and Family' slogan is cited as the Swatantra Party's positive programme for peasant agriculture, contrasting with Congress's collectivisation drive."
     evidence:
@@ -47,8 +47,8 @@ related_thinkers:
   - c-rajagopalachari
   - charan-singh
   - jawaharlal-nehru
-  - mr-masani
-  - rajaji
+  - minoo-masani
+  - c-rajagopalachari
 
 ---
 

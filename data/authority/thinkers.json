@@ -400,7 +400,8 @@
       "id": "mh-mody",
       "name": {
         "canonical": "MH Mody",
-        "sort": "Mody, MH"
+        "sort": "Mody, MH",
+        "also_known_as": []
       },
       "confidence": "canonical",
       "sources": [
@@ -565,17 +566,6 @@
       "confidence": "canonical",
       "sources": [
         "proposal",
-        "thinkers_collection"
-      ]
-    },
-    {
-      "id": "rajaji",
-      "name": {
-        "canonical": "Rajaji",
-        "sort": "Rajaji"
-      },
-      "confidence": "canonical",
-      "sources": [
         "thinkers_collection"
       ]
     },
@@ -785,17 +775,6 @@
       ]
     },
     {
-      "id": "dm-kulkarni",
-      "name": {
-        "canonical": "DM Kulkarni",
-        "sort": "Kulkarni, DM"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/theprint-mirror/henry-george-single-tax-land-value-taxation.md"
-      ]
-    },
-    {
       "id": "dn-hosali",
       "name": {
         "canonical": "DN Hosali",
@@ -804,17 +783,6 @@
       "confidence": "high",
       "sources": [
         "content/theprint-mirror/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first.md"
-      ]
-    },
-    {
-      "id": "dr-pendse",
-      "name": {
-        "canonical": "DR Pendse",
-        "sort": "Pendse, DR"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/theprint-mirror/economist-dr-pendse-cut-expenditure-budget-deficit.md"
       ]
     },
     {
@@ -1261,28 +1229,6 @@
       ]
     },
     {
-      "id": "mh-moody",
-      "name": {
-        "canonical": "MH Moody",
-        "sort": "Moody, MH"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/the-new-class-in-a-state-dominated-economy-by-mh-moody-1980.pdf"
-      ]
-    },
-    {
-      "id": "mr-masani",
-      "name": {
-        "canonical": "MR Masani",
-        "sort": "Masani, MR"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/the-role-of-free-enterprise-by-mr-masani-september-21-1956.pdf"
-      ]
-    },
-    {
       "id": "mr-mayya",
       "name": {
         "canonical": "MR Mayya",
@@ -1360,17 +1306,6 @@
       ]
     },
     {
-      "id": "nani-palkhiwala",
-      "name": {
-        "canonical": "Nani Palkhiwala",
-        "sort": "Palkhiwala, Nani"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/the-union-budget-1993-94-by-nani-a-palkhiwala-march-20-1993.pdf"
-      ]
-    },
-    {
       "id": "narayana-aiyar",
       "name": {
         "canonical": "Narayana Aiyar",
@@ -1390,17 +1325,6 @@
       "confidence": "medium",
       "sources": [
         "pdf-filename/forum-of-free-enterprise/reflections-on-global-trends-and-sustainable-development-by-piya-mahatey-2005.pdf"
-      ]
-    },
-    {
-      "id": "prof-shenoy",
-      "name": {
-        "canonical": "Prof Shenoy",
-        "sort": "Shenoy, Prof"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/natural-economic-growth-is-via-agriculture-and-consumer-goods-industries-by-prof-b-shenoy-august-5-1961.pdf"
       ]
     },
     {
@@ -1445,17 +1369,6 @@
       "confidence": "medium",
       "sources": [
         "pdf-filename/forum-of-free-enterprise/population-development-and-environment-by-sp-godrej-december-15-1994.pdf"
-      ]
-    },
-    {
-      "id": "ss-bhandare",
-      "name": {
-        "canonical": "SS Bhandare",
-        "sort": "Bhandare, SS"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/indian-industry-post-liberalisation-era-by-ss-bhandare-2001.pdf"
       ]
     },
     {
@@ -4427,7 +4340,8 @@
       "id": "d-m-kulkarni-libertarian",
       "name": {
         "canonical": "D. M. Kulkarni (Indian Libertarian)",
-        "sort": "Kulkarni, D. M."
+        "sort": "Kulkarni, D. M.",
+        "also_known_as": []
       },
       "tradition": "classical_liberal",
       "confidence": "medium",
@@ -7076,7 +6990,7 @@
     "deng xiaoping": "deng-xiaoping",
     "derozio": "henry-louis-vivian-derozio",
     "dharamsey khatau": "dharamsey-khatau",
-    "dm kulkarni": "dm-kulkarni",
+    "dm kulkarni": "d-m-kulkarni-libertarian",
     "dn hosali": "dn-hosali",
     "dr abhay pethe": "abhay-pethe",
     "dr ac shah": "dr-ac-shah",
@@ -7103,7 +7017,7 @@
     "dr muthulakshmi reddi": "muthulakshmi-reddi",
     "dr n das ics retd": "n-das",
     "dr na swaminathan": "dr-na-swaminathan",
-    "dr pendse": "dr-pendse",
+    "dr pendse": "d-r-pendse",
     "dr png subramanian": "dr-png-subramanian",
     "dr rajendra prasad": "rajendra-prasad",
     "dr rené klaff": "rene-klaff",
@@ -7258,7 +7172,7 @@
     "mc setalvad": "m-c-setalvad",
     "mg hallar": "m-g-hallar",
     "mh mody": "mh-mody",
-    "mh moody": "mh-moody",
+    "mh moody": "mh-mody",
     "milovan djilas": "milovan-djilas",
     "milton friedman": "milton-friedman",
     "minoo masani": "minoo-masani",
@@ -7279,7 +7193,7 @@
     "mr h t parekh": "h-t-parekh",
     "mr kishor b karia": "kishor-karia",
     "mr mangesh soman": "mangesh-soman",
-    "mr masani": "mr-masani",
+    "mr masani": "minoo-masani",
     "mr mayya": "mr-mayya",
     "mr narayan varma": "narayan-varma",
     "mr pai": "m-r-pai",
@@ -7301,7 +7215,7 @@
     "nadir godrej": "nadir-godrej",
     "nani a palkhivala": "nani-palkhivala",
     "nani palkhivala": "nani-palkhivala",
-    "nani palkhiwala": "nani-palkhiwala",
+    "nani palkhiwala": "nani-palkhivala",
     "napoleon": "napoleon-bonaparte",
     "napoleon bonaparte": "napoleon-bonaparte",
     "narasimha rao": "narasimha-rao",
@@ -7335,7 +7249,7 @@
     "prof rk amin": "r-k-amin",
     "prof rl varshney": "prof-rl-varshney",
     "prof samdhong rinpoche": "samdhong-rinpoche",
-    "prof shenoy": "prof-shenoy",
+    "prof shenoy": "b-r-shenoy",
     "prof yashawant bhide": "yashawant-bhide",
     "professor colin clark": "colin-clark",
     "professor galbraith": "john-kenneth-galbraith",
@@ -7349,7 +7263,7 @@
     "rabindranath tagore": "rabindranath-tagore",
     "radhakanta dev": "radhakanta-deb",
     "raja ram mohan roy": "raja-ram-mohan-roy",
-    "rajaji": "rajaji",
+    "rajaji": "c-rajagopalachari",
     "rajendra prasad": "rajendra-prasad",
     "rajiv gandhi": "rajiv-gandhi",
     "ralph borsodi": "ralph-borsodi",
@@ -7395,7 +7309,7 @@
     "sn haji": "sn-haji",
     "sp godrej": "sp-godrej",
     "sp sathe": "s-p-sathe",
-    "ss bhandare": "ss-bhandare",
+    "ss bhandare": "sunil-bhandare",
     "ss bhandare and jk mukhopadhyay": "ss-bhandare-and-jk-mukhopadhyay",
     "stiglitz": "joseph-stiglitz",
     "subhas chandra bose": "subhas-chandra-bose",

@@ -19,7 +19,7 @@ thinker_mentions:
         what_it_shows: his core economic argument against an Indian indigenous nuclear weapons program
       - quote: "three things are clear from the discussion so far: Rajaji's worry about the health fallout of nuclear tests and his constant advocacy for disarmament; Masani's opposition to indigenous nuclear weapons program on economic grounds"
         what_it_shows: "the essay's summative comparison of Rajaji's and Masani's distinct but complementary positions"
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "Rajaji's campaign for the nuclear test ban is discussed in detail alongside Masani's, with his Gandhian moral case for unilateral disarmament contrasted with Masani's economic arguments."
     evidence:
@@ -64,7 +64,7 @@ related_thinkers:
   - jawaharlal-nehru
   - john-foster-dulles
   - lal-bahadur-shastri
-  - rajaji
+  - c-rajagopalachari
   - v-k-krishna-menon
 
 ---

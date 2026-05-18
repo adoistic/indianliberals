@@ -16,7 +16,7 @@ thinker_mentions:
       - quote: "a veritable Queutopia, to use Sir Winston Churchill's expression."
         context: "Churchill's satirical coinage is appropriated to describe post-independence India's licence-and-permit raj"
     key_passages: []
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "Rajaji's abolition of food rationing in Madras is cited as the exemplary act of principled free-market governance — proof that controls can be lifted without societal collapse."
     evidence:
@@ -32,7 +32,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - mahatma-gandhi
-  - rajaji
+  - c-rajagopalachari
   - winston-churchill
 
 ---

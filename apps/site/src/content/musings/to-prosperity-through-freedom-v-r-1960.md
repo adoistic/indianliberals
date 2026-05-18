@@ -8,7 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 thinker_mentions:
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "C. Rajagopalachari is invoked as the author of the Swatantra Party's Fourteen Points challenging Congress's socialist ideology, framed as a Luther-like challenge nailed to the ruling party's door."
     evidence:
@@ -46,7 +46,7 @@ related_thinkers:
   - jawaharlal-nehru
   - karl-marx
   - mahatma-gandhi
-  - rajaji
+  - c-rajagopalachari
 
 ---
 

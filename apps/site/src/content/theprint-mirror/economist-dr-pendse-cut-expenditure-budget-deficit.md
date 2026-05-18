@@ -6,14 +6,14 @@ author_name: "DR Pendse"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/economist-dr-pendse-cut-expenditure-budget-deficit/2752397/"
 themes: ["fiscal-deficit", "govt-expenditure"]
 related_thinkers: 
-  - dr-pendse
+  - d-r-pendse
 
 related_works: []
 noindex: true
 needs_review: true
 draft: false
 thinker_mentions:
-  - thinker: dr-pendse
+  - thinker: d-r-pendse
     role: subject
     reasoning: "The article is DR Pendse's essay proposing a seven-point expenditure-cutting plan to control the budget deficit, with detailed prescriptions for each ministry."
     evidence: []

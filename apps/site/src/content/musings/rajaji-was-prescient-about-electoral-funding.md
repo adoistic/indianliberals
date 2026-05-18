@@ -7,7 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
-author: "rajaji"
+author: "c-rajagopalachari"
 ---
 
 As I have often pointed out, much of the expense is really what the State ought to bear on behalf of all the candidates. We should see to this transfer of the burden from candidates to the State, while at the same time safeguarding the voters against the blandishments of the party in power.

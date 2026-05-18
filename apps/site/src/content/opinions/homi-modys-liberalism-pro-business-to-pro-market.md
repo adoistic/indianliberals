@@ -51,7 +51,7 @@ thinker_mentions:
       - quote: Gokhale argued for the infant industry protection
         context: "placing Mody's protectionism within the liberal nationalist economic tradition inaugurated by Gokhale"
     key_passages: []
-  - thinker: rajaji
+  - thinker: c-rajagopalachari
     role: mention
     reasoning: "Rajaji is presented as the founding figure of the Swatantra Party whom Masani persuaded to join, with Rajaji's critical columns in Swarajya and his bemoaning of the 'rich men's lobby' charge contextualising Mody's role."
     evidence:
@@ -88,7 +88,7 @@ related_thinkers:
   - mahadev-govind-ranade
   - minoo-masani
   - pherozeshah-mehta
-  - rajaji
+  - c-rajagopalachari
   - v-k-krishna-menon
 
 
