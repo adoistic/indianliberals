@@ -79,6 +79,10 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  /* Sticky header is ~88px tall on desktop; this prevents in-page
+   * anchor jumps from landing under the header. */
+  scroll-padding-top: 5.5rem;
+  scroll-behavior: smooth;
 }
 
 body {
