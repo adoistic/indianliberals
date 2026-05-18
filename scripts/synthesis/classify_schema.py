@@ -3,17 +3,31 @@
 Validation functions for the per-piece classification record emitted by
 the classification subagents (see system-classify.txt).
 
-Mirrors apps/site/src/content.config.ts:classificationFields and the per-
-collection kind enums. Returns (sanitized_dict, list_of_warnings). Never
-raises on per-field problems — out-of-vocab themes/places are MOVED, not
-rejected; only structural errors (wrong type, missing required key) are
-rejected.
+Mirrors the subset of apps/site/src/content.config.ts:classificationFields
+that the Claude subagent is responsible for emitting. Two schema fields
+are intentionally NOT handled here:
+
+  - `period_window`   — derived deterministically by apply-classify.py
+                        from the resolved publication year. The subagent
+                        does not emit it and this validator does not
+                        consume it. PERIOD_ENUM is still exported below
+                        so apply-classify.py can import it to validate
+                        its own derivation.
+  - `source_channel`  — populated by scripts/cleanup-bucket-themes.py
+                        (Task 2.1) by migrating existing bucket-label
+                        themes. The subagent does not emit it and this
+                        validator does not consume it.
+
+Returns (sanitized_dict, list_of_warnings). Never raises on per-field
+problems — out-of-vocab themes/places are MOVED, not rejected; only
+structural errors (wrong type, missing required key) are rejected.
 
 Run tests:
     .venv-extract/bin/python3 scripts/synthesis/classify_schema.py --test
 """
 from __future__ import annotations
 
+import datetime
 import json
 import re
 import sys
@@ -26,6 +40,12 @@ THEMES_VOCAB_PATH = ROOT / "data/themes-vocab.json"
 
 STANCE_ENUM = {"argues-for", "argues-against", "analyzes", "profiles", "commemorates"}
 SCALE_ENUM = {"national", "regional", "bi-regional", "international-comparison"}
+# NOTE: PERIOD_ENUM is exported but intentionally NOT consumed by validate_record.
+# `period_window` is derived by apply-classify.py from the resolved publication
+# year (the Claude subagent does not emit it). Likewise, `source_channel` is
+# populated downstream by cleanup-bucket-themes.py (Task 2.1) — the subagent
+# does not emit it and this validator does not consume it. PERIOD_ENUM lives
+# here so apply-classify.py can import it to validate its own derivation.
 PERIOD_ENUM = {"pre-independence", "nehruvian-era", "late-license-raj", "reform-era", "post-reform"}
 KIND_OPINIONS = {"profile", "commentary", "review", "obituary", "event-coverage", "editorial"}
 KIND_MUSINGS = {"book-excerpt", "pamphlet-excerpt", "speech-excerpt", "lecture", "periodical-article", "letter"}
@@ -176,9 +196,12 @@ def validate_record(
         if scope_out:
             out["geographic_scope"] = scope_out
 
-    # source_year_inferred (musings only) — transient, used by applier
+    # source_year_inferred (musings only) — transient, used by applier.
+    # Upper bound is dynamic: allow next-year publications since editorial
+    # archives do contain pieces about future-dated events.
     syi = rec.get("source_year_inferred")
-    if isinstance(syi, int) and 1800 <= syi <= 2026:
+    max_year = datetime.date.today().year + 1
+    if isinstance(syi, int) and 1800 <= syi <= max_year:
         out["source_year_inferred"] = syi
 
     return out, warnings
@@ -247,6 +270,50 @@ def _run_tests():
     rec6 = {"id": "test-6", "geographic_scope": {"scale": "regional", "places": ["west-up-and-haryana"]}}
     out6, _ = validate_record(rec6, "musings", themes_vocab, places_canonical, aliases)
     assert out6["geographic_scope"]["places"] == ["haryana", "uttar-pradesh"]
+
+    # Malformed slug — needs to be dropped, with warning
+    rec_mal = {"id": "test-mal", "themes": ["123-bad-slug"], "proposed_themes": []}
+    out_mal, warns_mal = validate_record(rec_mal, "musings", themes_vocab, places_canonical, aliases)
+    assert out_mal is not None
+    assert out_mal["themes"] == []
+    assert out_mal["proposed_themes"] == []  # malformed slugs don't propose, they drop
+    assert any("malformed" in w for w in warns_mal), warns_mal
+
+    # `themes` not a list → hard structural error
+    rec_bad_themes = {"id": "test-bad", "themes": "democracy"}  # string, not list
+    out_bad, warns_bad = validate_record(rec_bad_themes, "musings", themes_vocab, places_canonical, aliases)
+    assert out_bad is None
+    assert any("themes/proposed_themes must be lists" in w for w in warns_bad)
+
+    # key_concepts overflow + dedupe
+    rec_kc = {"id": "test-kc", "key_concepts": ["a", "b", "c", "a", "d", "e", "f"]}  # 7 items, 1 dup
+    out_kc, _ = validate_record(rec_kc, "musings", themes_vocab, places_canonical, aliases)
+    assert out_kc["key_concepts"] == ["a", "b", "c", "d", "e"], out_kc["key_concepts"]
+
+    # pull_quote too long
+    rec_long = {"id": "test-long", "pull_quote": "x" * 300}
+    out_long, warns_long = validate_record(rec_long, "musings", themes_vocab, places_canonical, aliases)
+    assert "pull_quote" not in out_long
+    assert any("out of 50..250" in w for w in warns_long)
+
+    # source_year_inferred out of range
+    rec_yr_low = {"id": "test-yr1", "source_year_inferred": 1700}
+    out_yr_low, _ = validate_record(rec_yr_low, "musings", themes_vocab, places_canonical, aliases)
+    assert "source_year_inferred" not in out_yr_low
+
+    rec_yr_high = {"id": "test-yr2", "source_year_inferred": 2099}
+    out_yr_high, _ = validate_record(rec_yr_high, "musings", themes_vocab, places_canonical, aliases)
+    # Should still be rejected by an upper bound that doesn't extend that far
+    assert "source_year_inferred" not in out_yr_high, "year 2099 should be out of range"
+
+    # geographic_scope with invalid scale AND no valid places → empty scope omitted
+    rec_empty_scope = {
+        "id": "test-es",
+        "geographic_scope": {"scale": "made-up", "places": ["narnia"]},
+    }
+    out_es, _ = validate_record(rec_empty_scope, "musings", themes_vocab, places_canonical, aliases)
+    # scope_out should be empty → geographic_scope key omitted
+    assert "geographic_scope" not in out_es or out_es["geographic_scope"] == {} or out_es["geographic_scope"].get("places") == []
 
     print("all classify_schema tests passed.")
 
