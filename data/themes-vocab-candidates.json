@@ -1,0 +1,1080 @@
+{
+  "accepted_candidates": [
+    {
+      "theme": "economic-policy",
+      "count": 66
+    },
+    {
+      "theme": "free-enterprise",
+      "count": 64
+    },
+    {
+      "theme": "democracy",
+      "count": 20
+    },
+    {
+      "theme": "public-sector",
+      "count": 19
+    },
+    {
+      "theme": "agriculture",
+      "count": 18
+    },
+    {
+      "theme": "industrial-policy",
+      "count": 18
+    },
+    {
+      "theme": "taxation",
+      "count": 17
+    },
+    {
+      "theme": "fiscal-policy",
+      "count": 17
+    },
+    {
+      "theme": "monetary-policy",
+      "count": 17
+    },
+    {
+      "theme": "inflation",
+      "count": 15
+    },
+    {
+      "theme": "economic-reform",
+      "count": 15
+    },
+    {
+      "theme": "private-sector",
+      "count": 14
+    },
+    {
+      "theme": "economic-planning",
+      "count": 13
+    },
+    {
+      "theme": "private-enterprise",
+      "count": 13
+    },
+    {
+      "theme": "free-markets",
+      "count": 12
+    },
+    {
+      "theme": "rule-of-law",
+      "count": 12
+    },
+    {
+      "theme": "planning",
+      "count": 12
+    },
+    {
+      "theme": "banking",
+      "count": 11
+    },
+    {
+      "theme": "public-finance",
+      "count": 10
+    },
+    {
+      "theme": "civil-liberties",
+      "count": 9
+    },
+    {
+      "theme": "economic-development",
+      "count": 9
+    },
+    {
+      "theme": "civil-society",
+      "count": 9
+    },
+    {
+      "theme": "nationalisation",
+      "count": 9
+    },
+    {
+      "theme": "economic-freedom",
+      "count": 8
+    },
+    {
+      "theme": "socialism",
+      "count": 8
+    },
+    {
+      "theme": "political-economy",
+      "count": 8
+    },
+    {
+      "theme": "governance",
+      "count": 8
+    },
+    {
+      "theme": "liberalism",
+      "count": 8
+    },
+    {
+      "theme": "economic-growth",
+      "count": 7
+    },
+    {
+      "theme": "mixed-economy",
+      "count": 7
+    },
+    {
+      "theme": "globalisation",
+      "count": 6
+    },
+    {
+      "theme": "liberalisation",
+      "count": 6
+    },
+    {
+      "theme": "social-reform",
+      "count": 6
+    },
+    {
+      "theme": "fundamental-rights",
+      "count": 6
+    },
+    {
+      "theme": "property-rights",
+      "count": 6
+    },
+    {
+      "theme": "socialism-critique",
+      "count": 6
+    },
+    {
+      "theme": "economic-liberalisation",
+      "count": 5
+    },
+    {
+      "theme": "trade-policy",
+      "count": 5
+    },
+    {
+      "theme": "indian-economy",
+      "count": 5
+    },
+    {
+      "theme": "consumer-rights",
+      "count": 5
+    },
+    {
+      "theme": "insurance",
+      "count": 5
+    },
+    {
+      "theme": "foreign-policy",
+      "count": 5
+    },
+    {
+      "theme": "federalism",
+      "count": 4
+    },
+    {
+      "theme": "press-freedom",
+      "count": 4
+    },
+    {
+      "theme": "industry",
+      "count": 4
+    },
+    {
+      "theme": "planning-critique",
+      "count": 4
+    },
+    {
+      "theme": "trade",
+      "count": 4
+    },
+    {
+      "theme": "entrepreneurship",
+      "count": 4
+    },
+    {
+      "theme": "privatisation",
+      "count": 4
+    },
+    {
+      "theme": "state-intervention",
+      "count": 4
+    },
+    {
+      "theme": "welfare-state",
+      "count": 4
+    },
+    {
+      "theme": "private-property",
+      "count": 4
+    },
+    {
+      "theme": "market-economy",
+      "count": 4
+    },
+    {
+      "theme": "education",
+      "count": 4
+    },
+    {
+      "theme": "constitutional-law",
+      "count": 3
+    },
+    {
+      "theme": "regulation",
+      "count": 3
+    },
+    {
+      "theme": "foreign-exchange",
+      "count": 3
+    },
+    {
+      "theme": "state-and-society",
+      "count": 3
+    },
+    {
+      "theme": "development-economics",
+      "count": 3
+    },
+    {
+      "theme": "poverty",
+      "count": 3
+    },
+    {
+      "theme": "agrarian-policy",
+      "count": 3
+    },
+    {
+      "theme": "accountability",
+      "count": 3
+    },
+    {
+      "theme": "corruption",
+      "count": 3
+    },
+    {
+      "theme": "leadership",
+      "count": 3
+    },
+    {
+      "theme": "management",
+      "count": 3
+    },
+    {
+      "theme": "public-sector-reform",
+      "count": 3
+    },
+    {
+      "theme": "five-year-plans",
+      "count": 3
+    },
+    {
+      "theme": "agrarian-reform",
+      "count": 3
+    },
+    {
+      "theme": "farmers-rights",
+      "count": 3
+    },
+    {
+      "theme": "rural-economy",
+      "count": 3
+    },
+    {
+      "theme": "financial-inclusion",
+      "count": 3
+    },
+    {
+      "theme": "rural-development",
+      "count": 3
+    },
+    {
+      "theme": "education-policy",
+      "count": 3
+    },
+    {
+      "theme": "natural-resources",
+      "count": 3
+    },
+    {
+      "theme": "capital-markets",
+      "count": 3
+    },
+    {
+      "theme": "nationalism",
+      "count": 3
+    },
+    {
+      "theme": "employment",
+      "count": 2
+    },
+    {
+      "theme": "political-philosophy",
+      "count": 2
+    },
+    {
+      "theme": "public-administration",
+      "count": 2
+    },
+    {
+      "theme": "peasant-movements",
+      "count": 2
+    },
+    {
+      "theme": "planning-commission",
+      "count": 2
+    },
+    {
+      "theme": "financial-sector-reform",
+      "count": 2
+    },
+    {
+      "theme": "business-ethics",
+      "count": 2
+    },
+    {
+      "theme": "business",
+      "count": 2
+    },
+    {
+      "theme": "central-planning",
+      "count": 2
+    },
+    {
+      "theme": "free-trade",
+      "count": 2
+    },
+    {
+      "theme": "constitutional-reform",
+      "count": 2
+    },
+    {
+      "theme": "land-reform",
+      "count": 2
+    },
+    {
+      "theme": "monopolies",
+      "count": 2
+    },
+    {
+      "theme": "foreign-investment",
+      "count": 2
+    },
+    {
+      "theme": "political-parties",
+      "count": 2
+    },
+    {
+      "theme": "planning-and-development",
+      "count": 2
+    },
+    {
+      "theme": "democracy-and-governance",
+      "count": 2
+    },
+    {
+      "theme": "individual-rights",
+      "count": 2
+    },
+    {
+      "theme": "agrarian-economy",
+      "count": 2
+    },
+    {
+      "theme": "corporate-social-responsibility",
+      "count": 2
+    },
+    {
+      "theme": "constitutionalism",
+      "count": 2
+    },
+    {
+      "theme": "classical-liberalism",
+      "count": 2
+    },
+    {
+      "theme": "foreign-aid",
+      "count": 2
+    },
+    {
+      "theme": "individual-liberty",
+      "count": 2
+    },
+    {
+      "theme": "environment",
+      "count": 2
+    },
+    {
+      "theme": "energy-policy",
+      "count": 2
+    },
+    {
+      "theme": "infrastructure",
+      "count": 2
+    },
+    {
+      "theme": "international-trade",
+      "count": 2
+    },
+    {
+      "theme": "industrialisation",
+      "count": 2
+    },
+    {
+      "theme": "food-policy",
+      "count": 2
+    },
+    {
+      "theme": "capitalism",
+      "count": 2
+    },
+    {
+      "theme": "finance",
+      "count": 2
+    },
+    {
+      "theme": "poverty-alleviation",
+      "count": 2
+    },
+    {
+      "theme": "social-policy",
+      "count": 2
+    },
+    {
+      "theme": "human-rights",
+      "count": 2
+    },
+    {
+      "theme": "language-policy",
+      "count": 2
+    },
+    {
+      "theme": "liberal-democracy",
+      "count": 2
+    },
+    {
+      "theme": "fiscal-federalism",
+      "count": 1
+    },
+    {
+      "theme": "poverty-and-inequality",
+      "count": 1
+    },
+    {
+      "theme": "capitalism-vs-socialism",
+      "count": 1
+    },
+    {
+      "theme": "capitalism-and-markets",
+      "count": 1
+    },
+    {
+      "theme": "balance-of-payments",
+      "count": 1
+    },
+    {
+      "theme": "exports",
+      "count": 1
+    },
+    {
+      "theme": "state-enterprise",
+      "count": 1
+    },
+    {
+      "theme": "technology-and-society",
+      "count": 1
+    },
+    {
+      "theme": "national-development",
+      "count": 1
+    },
+    {
+      "theme": "farmers-movements",
+      "count": 1
+    },
+    {
+      "theme": "economic-liberalization",
+      "count": 1
+    },
+    {
+      "theme": "globalization",
+      "count": 1
+    },
+    {
+      "theme": "bureaucracy",
+      "count": 1
+    },
+    {
+      "theme": "civil-services",
+      "count": 1
+    },
+    {
+      "theme": "food-security",
+      "count": 1
+    },
+    {
+      "theme": "asia",
+      "count": 1
+    },
+    {
+      "theme": "labour-policy",
+      "count": 1
+    },
+    {
+      "theme": "wage-policy",
+      "count": 1
+    },
+    {
+      "theme": "industrial-relations",
+      "count": 1
+    },
+    {
+      "theme": "five-year-plan",
+      "count": 1
+    },
+    {
+      "theme": "autobiography",
+      "count": 1
+    },
+    {
+      "theme": "literature-and-society",
+      "count": 1
+    },
+    {
+      "theme": "agrarian-economics",
+      "count": 1
+    },
+    {
+      "theme": "monopoly",
+      "count": 1
+    },
+    {
+      "theme": "competition",
+      "count": 1
+    },
+    {
+      "theme": "market-reform",
+      "count": 1
+    },
+    {
+      "theme": "women",
+      "count": 1
+    },
+    {
+      "theme": "marriage",
+      "count": 1
+    },
+    {
+      "theme": "family-law",
+      "count": 1
+    },
+    {
+      "theme": "corporate-finance",
+      "count": 1
+    },
+    {
+      "theme": "industrial-finance",
+      "count": 1
+    },
+    {
+      "theme": "economic-history",
+      "count": 1
+    },
+    {
+      "theme": "right-to-property",
+      "count": 1
+    },
+    {
+      "theme": "economy",
+      "count": 1
+    },
+    {
+      "theme": "government",
+      "count": 1
+    },
+    {
+      "theme": "financial-services",
+      "count": 1
+    },
+    {
+      "theme": "community-development",
+      "count": 1
+    },
+    {
+      "theme": "central-planning-critique",
+      "count": 1
+    },
+    {
+      "theme": "bureaucracy-critique",
+      "count": 1
+    },
+    {
+      "theme": "savings",
+      "count": 1
+    },
+    {
+      "theme": "concentration-of-economic-power",
+      "count": 1
+    },
+    {
+      "theme": "capital-formation",
+      "count": 1
+    },
+    {
+      "theme": "thrift-and-savings",
+      "count": 1
+    },
+    {
+      "theme": "liberalism-vs-socialism",
+      "count": 1
+    },
+    {
+      "theme": "organisation-history",
+      "count": 1
+    },
+    {
+      "theme": "state-monopoly",
+      "count": 1
+    },
+    {
+      "theme": "controls-and-regulation",
+      "count": 1
+    },
+    {
+      "theme": "license-permit-raj",
+      "count": 1
+    },
+    {
+      "theme": "post-independence-economy",
+      "count": 1
+    },
+    {
+      "theme": "co-operatives",
+      "count": 1
+    },
+    {
+      "theme": "cooperatives",
+      "count": 1
+    },
+    {
+      "theme": "corporate-governance",
+      "count": 1
+    },
+    {
+      "theme": "sustainability",
+      "count": 1
+    },
+    {
+      "theme": "corporate-responsibility",
+      "count": 1
+    },
+    {
+      "theme": "transportation",
+      "count": 1
+    },
+    {
+      "theme": "appropriate-technology",
+      "count": 1
+    },
+    {
+      "theme": "financial-reform",
+      "count": 1
+    },
+    {
+      "theme": "consumer-protection",
+      "count": 1
+    },
+    {
+      "theme": "wealth-tax",
+      "count": 1
+    },
+    {
+      "theme": "price-control",
+      "count": 1
+    },
+    {
+      "theme": "religious-freedom",
+      "count": 1
+    },
+    {
+      "theme": "technology",
+      "count": 1
+    },
+    {
+      "theme": "environment-and-conservation",
+      "count": 1
+    },
+    {
+      "theme": "social-justice",
+      "count": 1
+    },
+    {
+      "theme": "consumer-sovereignty",
+      "count": 1
+    },
+    {
+      "theme": "management-education",
+      "count": 1
+    },
+    {
+      "theme": "liberalization",
+      "count": 1
+    },
+    {
+      "theme": "exchange-rate-policy",
+      "count": 1
+    },
+    {
+      "theme": "quantity-theory-of-money",
+      "count": 1
+    },
+    {
+      "theme": "state-capitalism",
+      "count": 1
+    },
+    {
+      "theme": "development",
+      "count": 1
+    },
+    {
+      "theme": "national-security",
+      "count": 1
+    },
+    {
+      "theme": "opposition-politics",
+      "count": 1
+    },
+    {
+      "theme": "foreign-trade",
+      "count": 1
+    },
+    {
+      "theme": "european-integration",
+      "count": 1
+    },
+    {
+      "theme": "central-banking",
+      "count": 1
+    },
+    {
+      "theme": "economic-integration",
+      "count": 1
+    },
+    {
+      "theme": "international-economics",
+      "count": 1
+    },
+    {
+      "theme": "public-health",
+      "count": 1
+    },
+    {
+      "theme": "banking-and-finance",
+      "count": 1
+    },
+    {
+      "theme": "literacy",
+      "count": 1
+    },
+    {
+      "theme": "government-regulation",
+      "count": 1
+    },
+    {
+      "theme": "liberty",
+      "count": 1
+    },
+    {
+      "theme": "parliamentary-sovereignty",
+      "count": 1
+    },
+    {
+      "theme": "judicial-review",
+      "count": 1
+    },
+    {
+      "theme": "economics",
+      "count": 1
+    },
+    {
+      "theme": "demography",
+      "count": 1
+    },
+    {
+      "theme": "industrial-development",
+      "count": 1
+    },
+    {
+      "theme": "shipping",
+      "count": 1
+    },
+    {
+      "theme": "public-sector-vs-private-sector",
+      "count": 1
+    },
+    {
+      "theme": "regulation-and-licensing",
+      "count": 1
+    },
+    {
+      "theme": "public-goods",
+      "count": 1
+    },
+    {
+      "theme": "markets",
+      "count": 1
+    },
+    {
+      "theme": "manufacturing",
+      "count": 1
+    },
+    {
+      "theme": "urbanisation",
+      "count": 1
+    },
+    {
+      "theme": "social-security",
+      "count": 1
+    },
+    {
+      "theme": "tax-reform",
+      "count": 1
+    },
+    {
+      "theme": "growth",
+      "count": 1
+    },
+    {
+      "theme": "banking-finance",
+      "count": 1
+    },
+    {
+      "theme": "public-debt",
+      "count": 1
+    },
+    {
+      "theme": "communalism-secularism",
+      "count": 1
+    },
+    {
+      "theme": "urban-poverty",
+      "count": 1
+    },
+    {
+      "theme": "elections-democracy",
+      "count": 1
+    },
+    {
+      "theme": "religion-and-state",
+      "count": 1
+    },
+    {
+      "theme": "public-life-and-ethics",
+      "count": 1
+    },
+    {
+      "theme": "cooperative-farming",
+      "count": 1
+    },
+    {
+      "theme": "collectivisation",
+      "count": 1
+    },
+    {
+      "theme": "human-development",
+      "count": 1
+    },
+    {
+      "theme": "labour-reform",
+      "count": 1
+    },
+    {
+      "theme": "south-asia",
+      "count": 1
+    },
+    {
+      "theme": "licensing-and-regulation",
+      "count": 1
+    },
+    {
+      "theme": "government-business-relations",
+      "count": 1
+    },
+    {
+      "theme": "political-reform",
+      "count": 1
+    },
+    {
+      "theme": "free-press",
+      "count": 1
+    },
+    {
+      "theme": "police-reform",
+      "count": 1
+    },
+    {
+      "theme": "criminal-justice",
+      "count": 1
+    },
+    {
+      "theme": "banking-reform",
+      "count": 1
+    },
+    {
+      "theme": "financial-sector",
+      "count": 1
+    },
+    {
+      "theme": "colonialism",
+      "count": 1
+    },
+    {
+      "theme": "religion",
+      "count": 1
+    },
+    {
+      "theme": "history",
+      "count": 1
+    },
+    {
+      "theme": "political-institutions",
+      "count": 1
+    },
+    {
+      "theme": "judicial-reform",
+      "count": 1
+    },
+    {
+      "theme": "gold",
+      "count": 1
+    },
+    {
+      "theme": "economic-regulation",
+      "count": 1
+    },
+    {
+      "theme": "smuggling",
+      "count": 1
+    },
+    {
+      "theme": "india-economy",
+      "count": 1
+    },
+    {
+      "theme": "rural-poverty",
+      "count": 1
+    },
+    {
+      "theme": "agriculture-policy",
+      "count": 1
+    },
+    {
+      "theme": "anti-statism",
+      "count": 1
+    },
+    {
+      "theme": "liberalism-india",
+      "count": 1
+    },
+    {
+      "theme": "hinduism-and-liberalism",
+      "count": 1
+    },
+    {
+      "theme": "party-politics",
+      "count": 1
+    },
+    {
+      "theme": "industry-and-manufacturing",
+      "count": 1
+    },
+    {
+      "theme": "state-and-economy",
+      "count": 1
+    },
+    {
+      "theme": "planning-vs-markets",
+      "count": 1
+    },
+    {
+      "theme": "elections",
+      "count": 1
+    },
+    {
+      "theme": "state-power",
+      "count": 1
+    },
+    {
+      "theme": "caste-reform",
+      "count": 1
+    },
+    {
+      "theme": "free-market",
+      "count": 1
+    },
+    {
+      "theme": "international-affairs",
+      "count": 1
+    },
+    {
+      "theme": "self-determination",
+      "count": 1
+    },
+    {
+      "theme": "refugees",
+      "count": 1
+    },
+    {
+      "theme": "public-policy",
+      "count": 1
+    },
+    {
+      "theme": "economic-liberalism",
+      "count": 1
+    },
+    {
+      "theme": "national-integration",
+      "count": 1
+    },
+    {
+      "theme": "population-policy",
+      "count": 1
+    },
+    {
+      "theme": "ecology",
+      "count": 1
+    },
+    {
+      "theme": "work-culture",
+      "count": 1
+    }
+  ],
+  "dropped_shape": [
+    {
+      "theme": "Sharad Joshi",
+      "count": 13
+    },
+    {
+      "theme": "Sharad Anantrao Joshi",
+      "count": 13
+    },
+    {
+      "theme": "Anant Umrikar",
+      "count": 2
+    },
+    {
+      "theme": "Shesrav Mohite",
+      "count": 1
+    },
+    {
+      "theme": "Ajit Narde",
+      "count": 1
+    },
+    {
+      "theme": "Vijay Prulkar",
+      "count": 1
+    }
+  ],
+  "dropped_thinker_slug": [],
+  "note": "Manually curate accepted_candidates \u2192 data/themes-vocab.json; the latter is the lock file."
+}
