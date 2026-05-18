@@ -15,10 +15,17 @@ export async function getStaticPaths() {
 const { t } = Astro.props;
 const { Content } = await render(t);
 
-// Aggregate everywhere this thinker is referenced. The resolve-bylines.py
-// backfill populated structured refs (author / subject / related_thinkers)
-// from string author_name / subject_name fields, so we can compute the
-// reverse direction here at build time without runtime cost.
+// Compute the three-role aggregations at build time. Each Tier-A entry
+// has a structured ref pointing to one or more thinkers; we partition
+// per the three-role model defined in the cross-link audit spec:
+//
+//   author  — this thinker WROTE the entry (musings, primary-works,
+//             theprint-mirror, opinions with a thinker-author)
+//   subject — the entry is ABOUT this thinker (opinions w/ `subject`,
+//             interviews w/ `subject`)
+//   mention — appears in related_thinkers but is neither author nor
+//             subject. Phase B will populate these from in-prose NER.
+
 const [allInterviews, allTheprint, allOpinions, allMusings, allWorks] = await Promise.all([
   getCollection("interviews", (e) => !e.data.draft),
   getCollection("theprint-mirror", (e) => !e.data.draft),
@@ -33,26 +40,41 @@ function refMatches(ref: { id?: string } | string | undefined, id: string): bool
   return ref.id === id;
 }
 
-const interviewMentions = allInterviews.filter((i) => refMatches(i.data.subject, t.id));
-const theprintMentions = allTheprint.filter((p) =>
-  (p.data.related_thinkers ?? []).some((r) => refMatches(r, t.id)),
-);
-const opinionMentions = allOpinions.filter((o) =>
-  refMatches(o.data.author, t.id) ||
-  (o.data.related_thinkers ?? []).some((r) => refMatches(r, t.id)),
-);
-const musingMentions = allMusings.filter((m) => refMatches(m.data.author, t.id));
-// Primary works where this thinker is an author or contributor
+// ─── Author role: works/pieces the thinker WROTE ─────────────────────
 const worksByThisThinker = allWorks
   .filter((w) =>
     (w.data.authors ?? []).some((a) => refMatches(a, t.id)) ||
     (w.data.contributors ?? []).some((c) => refMatches(c.thinker, t.id)),
   )
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
+const musingsByThisThinker = allMusings.filter((m) => refMatches(m.data.author, t.id));
+const opinionsByThisThinker = allOpinions.filter((o) => refMatches(o.data.author, t.id));
+const theprintByThisThinker = allTheprint.filter((p) =>
+  (p.data.related_thinkers ?? []).some((r) => refMatches(r, t.id))
+);
 
-const totalMentions =
-  interviewMentions.length + theprintMentions.length +
-  opinionMentions.length + musingMentions.length;
+// ─── Subject role: pieces ABOUT the thinker ──────────────────────────
+const interviewsAbout = allInterviews.filter((i) => refMatches(i.data.subject, t.id));
+const opinionsAbout = allOpinions.filter((o) => refMatches(o.data.subject, t.id));
+
+// ─── Mention role: appears in related_thinkers but not as author/subject ─
+const opinionMentions = allOpinions.filter((o) =>
+  !refMatches(o.data.author, t.id) &&
+  !refMatches(o.data.subject, t.id) &&
+  (o.data.related_thinkers ?? []).some((r) => refMatches(r, t.id))
+);
+const musingMentions = allMusings.filter((m) =>
+  !refMatches(m.data.author, t.id) &&
+  (m.data.related_thinkers ?? []).some((r) => refMatches(r, t.id))
+);
+// (theprint mentions are currently the byline; mention-only role for
+// theprint requires Phase B body-NER and is intentionally empty here.)
+
+const authorshipCount =
+  worksByThisThinker.length + musingsByThisThinker.length +
+  opinionsByThisThinker.length + theprintByThisThinker.length;
+const aboutCount = interviewsAbout.length + opinionsAbout.length;
+const mentionCount = opinionMentions.length + musingMentions.length;
 
 const hreflang = hreflangAlternates(
   "thinkers",
@@ -164,44 +186,96 @@ const bioSourceLabel = {
       </aside>
     )}
 
-    {/* Works authored or co-authored by this thinker */}
-    {worksByThisThinker.length > 0 && (
+    {/* ── Section 1: Works BY this thinker ────────────────────────── */}
+    {authorshipCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
-          Works in the archive ({worksByThisThinker.length})
+          By {t.data.name.canonical} ({authorshipCount})
         </h2>
-        <ul class="divide-y divide-(--color-border)">
-          {worksByThisThinker.slice(0, 20).map((w) => (
-            <li class="py-3">
-              <a href={`/primary-works/${w.id}/`} class="block group no-underline">
-                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
-                  {w.data.title.main}
-                </div>
-                <div class="text-sm text-(--color-fg-muted)">
-                  {w.data.publication?.year ?? "n.d."} · {w.data.work_type.replace(/_/g, " ")}
-                </div>
-              </a>
-            </li>
-          ))}
-        </ul>
-        {worksByThisThinker.length > 20 && (
-          <p class="mt-4 text-sm text-(--color-fg-muted)">…and {worksByThisThinker.length - 20} more</p>
-        )}
+        <div class="grid gap-6 md:grid-cols-2">
+          {worksByThisThinker.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Primary works ({worksByThisThinker.length})</h3>
+              <ul class="space-y-2">
+                {worksByThisThinker.slice(0, 15).map((w) => (
+                  <li>
+                    <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {w.data.title.main}
+                      <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
+                    </a>
+                  </li>
+                ))}
+                {worksByThisThinker.length > 15 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {worksByThisThinker.length - 15} more</li>
+                )}
+              </ul>
+            </div>
+          )}
+          {musingsByThisThinker.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Excerpts ({musingsByThisThinker.length})</h3>
+              <ul class="space-y-2">
+                {musingsByThisThinker.slice(0, 10).map((m) => (
+                  <li>
+                    <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {m.data.title}
+                    </a>
+                  </li>
+                ))}
+                {musingsByThisThinker.length > 10 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {musingsByThisThinker.length - 10} more</li>
+                )}
+              </ul>
+            </div>
+          )}
+          {opinionsByThisThinker.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionsByThisThinker.length})</h3>
+              <ul class="space-y-2">
+                {opinionsByThisThinker.map((o) => (
+                  <li>
+                    <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {o.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          {theprintByThisThinker.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">In ThePrint ({theprintByThisThinker.length})</h3>
+              <ul class="space-y-2">
+                {theprintByThisThinker.slice(0, 10).map((p) => (
+                  <li>
+                    <a href={p.data.theprint_url} target="_blank" rel="noopener canonical" class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {p.data.title}
+                      <span aria-hidden class="text-(--color-fg-muted) ml-1">↗</span>
+                    </a>
+                  </li>
+                ))}
+                {theprintByThisThinker.length > 10 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {theprintByThisThinker.length - 10} more</li>
+                )}
+              </ul>
+            </div>
+          )}
+        </div>
       </section>
     )}
 
-    {/* Mentions across the archive: interviews, ThePrint, opinions, musings */}
-    {totalMentions > 0 && (
+    {/* ── Section 2: Profile pieces / interviews ABOUT this thinker ─── */}
+    {aboutCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
-          Mentions across the archive ({totalMentions})
+          About {t.data.name.canonical} ({aboutCount})
         </h2>
         <div class="grid gap-6 md:grid-cols-2">
-          {interviewMentions.length > 0 && (
+          {interviewsAbout.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Interviews ({interviewMentions.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Interviews ({interviewsAbout.length})</h3>
               <ul class="space-y-2">
-                {interviewMentions.map((i) => (
+                {interviewsAbout.map((i) => (
                   <li>
                     <a href={`/interviews/${i.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
                       {i.data.title}
@@ -211,23 +285,31 @@ const bioSourceLabel = {
               </ul>
             </div>
           )}
-          {theprintMentions.length > 0 && (
+          {opinionsAbout.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">ThePrint articles ({theprintMentions.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Profile pieces ({opinionsAbout.length})</h3>
               <ul class="space-y-2">
-                {theprintMentions.slice(0, 10).map((p) => (
+                {opinionsAbout.map((o) => (
                   <li>
-                    <a href={`/theprint-mirror/${p.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {p.data.title}
+                    <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {o.data.title}
                     </a>
                   </li>
                 ))}
-                {theprintMentions.length > 10 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {theprintMentions.length - 10} more</li>
-                )}
               </ul>
             </div>
           )}
+        </div>
+      </section>
+    )}
+
+    {/* ── Section 3: Mentioned in (Phase A: only structured related_thinkers; Phase B will populate from in-prose NER) ── */}
+    {mentionCount > 0 && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+          Mentioned in ({mentionCount})
+        </h2>
+        <div class="grid gap-6 md:grid-cols-2">
           {opinionMentions.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionMentions.length})</h3>
@@ -257,6 +339,9 @@ const bioSourceLabel = {
             </div>
           )}
         </div>
+        <p class="mt-4 text-xs text-(--color-fg-muted) italic">
+          In-prose mentions (names appearing inside article bodies and primary-work summaries) are queued for the Phase B linking pass.
+        </p>
       </section>
     )}
 

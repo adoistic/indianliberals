@@ -111,6 +111,11 @@ const musings = defineCollection({
     pubDate: z.coerce.date(),
     excerpt_of: z.string().optional(), // primary-works ID
     author: reference('thinkers').optional(),
+    // `related_thinkers` carries thinkers mentioned inside the body of
+    // the excerpt but who are neither the author nor the subject. Drives
+    // the "Mentioned in" section on bio pages. Empty in Phase A; populated
+    // by the Phase B in-prose NER pass.
+    related_thinkers: z.array(reference('thinkers')).default([]),
     themes: z.array(z.string()).default([]),
     ...i18nFields,
     ai: aiProvenance,
@@ -127,8 +132,16 @@ const opinions = defineCollection({
     id: z.string(),
     title: z.string(),
     pubDate: z.coerce.date(),
+    // `author_name` is the writer (often "Editorial Team" for CCS profile
+    // pieces); `author` is the structured ref to the writer's thinker
+    // entry when one exists. Most opinions are written by Editorial Team
+    // ABOUT a thinker — that thinker goes in `subject`.
     author_name: z.string(),
     author: reference('thinkers').optional(),
+    // `subject` is the thinker the piece profiles, populated for profile-
+    // style opinions ("Anandibai Joshee: First Indian Woman Doctor"). Drives
+    // the "Profile pieces and interviews about <X>" section on the bio page.
+    subject: reference('thinkers').optional(),
     themes: z.array(z.string()).default([]),
     related_works: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
