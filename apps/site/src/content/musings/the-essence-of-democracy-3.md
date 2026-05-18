@@ -7,6 +7,41 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is cited for his rhetoric about controlling the 'commanding heights of the economy', which Masani uses as a symbol of the statist policies that eroded democratic freedoms."
+    evidence:
+      - quote: control of the dominating heights of the economy, as Jawaharlal Nehru grandiloquently described it, through giant industrial units
+        context: "Masani critiques Nehru's statist economic language as intellectual cover for authoritarian economic policy"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Gandhi is quoted for his maxim that the best government governs the least, which Masani invokes to support his argument for decentralisation and limited state power.
+    evidence:
+      - quote: "Mahatma Gandhi said : \"That Government is best which governs the least.\""
+        context: "Gandhi's principle of minimal government cited as a liberal democratic norm"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Indira Gandhi is cited as the Prime Minister who used her parliamentary majority to amend the Constitution and curtail presidential prerogatives and fundamental rights, exemplifying the abuse of democratic power.
+    evidence:
+      - quote: Prime Minister Indira Gandhi was able, with the bogus majority in Parliament that she enjoyed, even to amend the Constitution and truncate the Prerogatives of President and the Fundamental Rights of the citizen.
+        context: Indira Gandhi presented as the prime example of democratic abuse and constitutional manipulation
+    key_passages: []
+  - thinker: margaret-thatcher
+    role: mention
+    reasoning: "Thatcher's re-election is cited to illustrate the first-past-the-post system's distortion of democratic outcomes — she won a parliamentary majority with a minority of votes — demonstrating the need for electoral reform."
+    evidence:
+      - quote: the recent re-election of Mrs. Margaret Thatcher, however, welcome it might be on political grounds, illustrates the archaic nature of this system, since she obtained only a minority of votes cast but a big majority in Parliament
+        context: "Thatcher's electoral victory used as evidence of proportional representation's superiority over first-past-the-post"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - margaret-thatcher
+
 ---
 
 The following text was authored by Indian Parliamentarian and liberal thinker, Minoo Masani. It was originally published by the Harold Laski Institute of Political Science, Ahmedabad in March 1989. In the essay, Masani discusses several necessary conditions of a liberal democracy.

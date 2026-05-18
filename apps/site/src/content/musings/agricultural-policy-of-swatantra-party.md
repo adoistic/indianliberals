@@ -7,6 +7,49 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajagopalachari is named as the founder of the Swatantra Party whose formation the piece credits as the decisive political response to Congress's disastrous agricultural policy."
+    evidence:
+      - quote: "the formation of the Swatantra Party under the aegis of Sri C. Rajagopalachari and the initiative of the All India Agriculturists' Federation."
+        context: "Rajagopalachari's role as founding patron of the Swatantra Party is cited as the institutional response to Nehru's land reforms"
+    key_passages: []
+  - thinker: mr-masani
+    role: mention
+    reasoning: MR Masani is named as one of the Swatantra Party-aligned leaders who publicly opposed the Congress cooperative-farming proposals alongside Congress dissidents.
+    evidence:
+      - quote: others like Mr MR Masani and Congress Ministers like Sri Charan Singh of the U.P. (who has had to resign office on account of his bold opposition in Nagpur)
+        context: "Masani is named as part of the cross-party coalition opposing the Nagpur session's collectivisation thrust"
+    key_passages: []
+  - thinker: charan-singh
+    role: mention
+    reasoning: Charan Singh is cited as the Congress Minister who resigned office rather than support the Nagpur cooperative-farming resolution, illustrating that resistance crossed party lines.
+    evidence:
+      - quote: Congress Ministers like Sri Charan Singh of the U.P. (who has had to resign office on account of his bold opposition in Nagpur)
+        context: "Charan Singh's principled resignation is held up as evidence of broad-based opposition to the Congress agricultural programme"
+    key_passages: []
+  - thinker: rajaji
+    role: mention
+    reasoning: "Rajaji's 'Farm and Family' slogan is cited as the Swatantra Party's positive programme for peasant agriculture, contrasting with Congress's collectivisation drive."
+    evidence:
+      - quote: Rajaji has given the slogan therefore-for Farm and Family.
+        context: "Rajaji's slogan encapsulates the libertarian defence of the individual peasant farmer against cooperative pooling"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's Congress is blamed for stonewalling demands for accountability on land-ceiling policy by hiding behind decades-old party resolutions."
+    evidence:
+      - quote: The Congress under the lead of Mr Nehru has contented itself with the statement that the subject was decided long ago by Congress resolutions from the days of the Karachi session.
+        context: "Nehru's Congress is criticised for refusing democratic debate on agricultural policy"
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - charan-singh
+  - jawaharlal-nehru
+  - mr-masani
+  - rajaji
+
 ---
 
 With regard to agriculture as with regard to industrial and other aspects of the economy, libertarian literature has a great contribution to make to the clarification of issues and the defence of liberty.

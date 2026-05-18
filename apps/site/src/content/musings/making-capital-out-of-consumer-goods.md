@@ -7,6 +7,43 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: The speech is delivered at the 24th A.D. Shroff Memorial Lecture, and the speaker invokes Shroff as the foundational figure who established the Forum of Free Enterprise and set its high standards.
+    evidence:
+      - quote: delivered as a speech by Abid Hussain at the 24th A. D. Shroff Memorial Lecture
+        context: preamble identifies Shroff as the memorial namesake of the entire event
+      - quote: The Forum was, of course, founded by a very great man, the late A. D. Shroff.
+        context: "opening tribute to Shroff as the Forum's founder"
+    key_passages: []
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: "Murarji Vaidya is listed as one of the presidents of the Forum of Free Enterprise who maintained Shroff's high standards after Shroff's death."
+    evidence:
+      - quote: the late Murarji Vaidya, J. H. Doshi, and your present distinguished leader, N. A. Palkhivala
+        context: "lists Vaidya in the sequence of Forum presidents who sustained Shroff's legacy"
+    key_passages: []
+  - thinker: j-h-doshi
+    role: mention
+    reasoning: "J. H. Doshi is named as one of the presidents of the Forum of Free Enterprise who maintained the institution's standards, placed between Murarji Vaidya and Nani Palkhivala in the succession of leadership."
+    evidence:
+      - quote: the late Murarji Vaidya, J. H. Doshi, and your present distinguished leader, N. A. Palkhivala
+        context: lists Doshi in the sequence of Forum presidents
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: Nani Palkhivala is praised as the current distinguished president of the Forum of Free Enterprise, celebrated for his globally respected annual budget lectures.
+    evidence:
+      - quote: your present distinguished leader, N. A. Palkhivala, who enjoys the profound respect not only of his fellow countrymen but of informed people and decision-makers throughout the whole world. His annual lectures on the Union Budget must rank as one of the most remarkable phenomena of the modern age
+        context: "tribute to Palkhivala as the Forum's sitting president"
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+  - j-h-doshi
+  - murarji-vaidya
+  - nani-palkhivala
+
 ---
 
 The following text was originally delivered as a speech by Abid Hussain at the 24th A. D. Shroff Memorial Lecture held in October 1989, originally published by the Forum of Free Enterprise. The author was an Indian economist, civil servant, and member of the Planning Commission, Government of India. It is a great honour to be speaking at the Silver Jubilee celebrations of this august institution. I offer you my deepfelt thanks for inviting me. And I offer you my sincere congratulations and those of the world business community represented in the International Chamber of Commerce, on your first, immensely successful, 25 years. May you go from strength to strength during the course of your next quarter century! 

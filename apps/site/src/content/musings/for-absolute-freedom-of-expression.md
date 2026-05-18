@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "The essay explicitly revisits Mill's harm principle as the philosophical anchor for its case that freedom of expression must be absolute, using it to set up — and then challenge — the standard liberal boundary on speech."
+    evidence:
+      - quote: "Mill's idea of the harm principle, the fear of freedom, and the roots of such fear."
+        context: "intro frames the essay's entire argument around Mill's harm principle"
+    key_passages: []
+  - thinker: bibek-debroy
+    role: mention
+    reasoning: "The author cites Debroy's 2007 Indian Express article to represent the position that individual rights are never absolute, then uses it as a foil to argue for genuinely unlimited expression."
+    evidence:
+      - quote: "Bibek Debroy's article, titled 'Politics of bans and rights,' in The Indian Express on November 28, 2007."
+        context: "Debroy's piece is quoted as a liberal counter-voice the author disagrees with on the absoluteness of rights"
+    key_passages: []
+  - thinker: rajiv-gandhi
+    role: mention
+    reasoning: "Rajiv Gandhi's government is cited as the authority that banned The Satanic Verses after a petition by Syed Shahabuddin, illustrating the essay's argument that the Indian state has repeatedly capitulated to censorship pressure."
+    evidence:
+      - quote: Syed Shahabuddin petitioned the Rajiv Gandhi government the same. The government immediately responded and banned the book on October 5.
+        context: concrete historical instance of state censorship used to support the case for absolute expression
+    key_passages: []
+related_thinkers: 
+  - bibek-debroy
+  - john-stuart-mill
+  - rajiv-gandhi
+
 ---
 
 _The following essay is part of a 2012 booklet published by The Liberty Institute, New Delhi, in partnership with the Friedrich Naumann Foundation for Freedom. The booklet was title **[At Liberty: Freedom to Express and Offend.](https://indianliberals.in/content/at-liberty-freedom-to-express-and-offend/)** Authored by Ravi Shanker Kapoor, the essay explores ideas of absolute freedom of expression. In doing so, it revisits Mill's idea of the harm principle, the fear of  freedom, and the roots of such fear. _Is it possible to have freedom of expression which is not absolute? The answer is a big 'no.' Freedom of expression ought to be absolute - or it is no freedom at all. 

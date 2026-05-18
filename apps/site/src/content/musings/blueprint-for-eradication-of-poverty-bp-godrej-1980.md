@@ -7,6 +7,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "bp-godrej"
+thinker_mentions:
+  - thinker: bernard-shaw
+    role: mention
+    reasoning: "Shaw's aphorism about poverty and disease is quoted as an authoritative warning against well-meaning but counter-productive welfare approaches, supporting Godrej's economic prescription."
+    evidence:
+      - quote: "Bernard Shaw's warning: \"Those who minister to poverty and disease are accomplices in the two worst of all crimes.\""
+        context: "Shaw's warning is invoked to argue that charitable instincts without sound economic foundations worsen the problems they seek to cure"
+    key_passages: []
+related_thinkers: 
+  - bernard-shaw
+
 ---
 
 _Produced below is an excerpt from an essay titled “A Blueprint for Eradication of Poverty” by Dr B.P. Godrej, published by the Forum of Free Enterprise in December 1980. Through the essay, Dr Godrej critiques the public sector’s inefficiencies in addressing poverty and unemployment. He highlights the widespread malnutrition and lack of economic progress, advocating for systemic reforms to improve food security, productivity, and overall well-being. This piece remains relevant as it addresses the persistent issues of hunger, poverty, and economic mismanagement, challenges that India continues to face even today._

@@ -45,21 +45,20 @@ contributors:
   - role: author
     thinker: jiban-mukhopadhyay
     toc_index: 10
-related_thinkers:
+related_thinkers: 
+  - achyut-patwardhan
+  - bhimrao-ambedkar
+  - bk-nehru
+  - c-rajagopalachari
   - indira-gandhi
   - jawaharlal-nehru
-  - bhimrao-ambedkar
-  - achyut-patwardhan
-  - winston-churchill
-  - manmohan-singh
-  - sardar-patel
-  - c-rajagopalachari
-  - mahatma-gandhi
   - jayaprakash-narayan
-  - m-n-roy
-  - gopal-krishna-gokhale
-  - bk-nehru-cn
   - m-c-chagla
+  - m-n-roy
+  - mahatma-gandhi
+  - rajiv-gandhi
+  - sardar-patel
+
 publication:
   language: en
   publisher_name: "Published by: Mr. S. V. Raju, Executive Director, Project for Economic Education, 148, Mahatma Gandhi Road, Mumbai 400 001."
@@ -98,6 +97,100 @@ physical:
 missing_metadata_flags:
   - no_formal_toc_page
   - contributors_not_fully_enumerated_from_discussion_section
+thinker_mentions:
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Indira Gandhi is identified by Sadanand Varde as the figure whose decision to turn Congress into a family business marked the turning point in the moral decline of Indian public life.
+    evidence:
+      - quote: "He is cautiously hopeful about technology (TV and radio freeing communications from state control) and emerging federal pressures, but ends with a letter exchange between Sheila Kaul and Nanasaheb Goray parodying the 'Dandi March Run' as a symbol of the frivolity of those in power."
+        context: "context where Indira Gandhi's legacy is the subject"
+      - quote: "The moral decline of public life is dated to Indira Gandhi's decision to treat Congress as a family affair"
+        context: "Varde's diagnosis identifying Indira Gandhi as the inflection point in Indian political corruption"
+    key_passages: []
+  - thinker: bk-nehru
+    role: mention
+    reasoning: "B. K. Nehru is quoted by E. D'Souza on the gap between the constitutional values of India's founding generation and the corrupt practices of contemporary politicians, used to frame D'Souza's argument about institutional decay."
+    evidence:
+      - quote: "He quotes B. K. Nehru on the divergence between the constitutional values of founders like Nehru, Patel, and Rajaji and the values of today's rulers (Laloo, Jayalalitha, Mulayam Singh)."
+        context: B. K. Nehru cited as a witness to the constitutional values gap between founders and successors
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Jawaharlal Nehru is mentioned alongside Patel and Rajaji as exemplary founders whose constitutional values contrast sharply with the conduct of contemporary political leaders.
+    evidence:
+      - quote: "He quotes B. K. Nehru on the divergence between the constitutional values of founders like Nehru, Patel, and Rajaji and the values of today's rulers (Laloo, Jayalalitha, Mulayam Singh)."
+        context: "Nehru invoked as a founding constitutional standard against which today's rulers are measured"
+    key_passages: []
+  - thinker: sardar-patel
+    role: mention
+    reasoning: "Sardar Patel is cited alongside Nehru and Rajaji as a founding leader whose constitutional values E. D'Souza contrasts with the corruption of contemporary Indian politics."
+    evidence:
+      - quote: "He quotes B. K. Nehru on the divergence between the constitutional values of founders like Nehru, Patel, and Rajaji and the values of today's rulers (Laloo, Jayalalitha, Mulayam Singh)."
+        context: "Patel named as a founding constitutional figure in D'Souza's invocation of the founding generation's values"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji is cited by B. K. Nehru, via D'Souza, as one of the founding generation of leaders whose constitutional values have been abandoned by contemporary Indian politicians."
+    evidence:
+      - quote: "He quotes B. K. Nehru on the divergence between the constitutional values of founders like Nehru, Patel, and Rajaji and the values of today's rulers (Laloo, Jayalalitha, Mulayam Singh)."
+        context: "Rajaji named among the founding constitutional exemplars contrasted with today's rulers"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is cited by E. D'Souza as a model of rational poverty leadership, and Usha Mehta grounds her address in personal experience of fighting under Gandhi, invoking the non-violent convertibility of means and aims as still relevant."
+    evidence:
+      - quote: citing Gandhi, J.P. Narayan, and M. N. Roy as models.
+        context: "D'Souza invokes Gandhi as a model of rational, non-sentimental leadership on poverty"
+      - quote: "cites M. C. Chagla's encouraging statement during the Emergency as evidence that institutions can hold"
+        context: "Mehta's address built on Gandhi's principles of means-ends convertibility"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan is listed by E. D'Souza alongside Gandhi and M. N. Roy as a model of leaders who addressed poverty rationally rather than sentimentally."
+    evidence:
+      - quote: citing Gandhi, J.P. Narayan, and M. N. Roy as models.
+        context: "Narayan cited as one of three rational-poverty-leadership exemplars D'Souza invokes"
+    key_passages: []
+  - thinker: m-n-roy
+    role: mention
+    reasoning: "M. N. Roy is invoked twice: by E. D'Souza as a model of rational poverty leadership, and by Indumati Parikh who cites Roy's definition of freedom as the continuous removal of impediments to human development as the correct benchmark for evaluating India's independence."
+    evidence:
+      - quote: citing Gandhi, J.P. Narayan, and M. N. Roy as models.
+        context: "D'Souza places M. N. Roy among his exemplars of rational leadership on poverty"
+      - quote: "She cites M. N. Roy's definition — freedom is the continuous removal of impediments to the development of human beings — as the correct benchmark"
+        context: "Parikh deploys Roy's definition of freedom as the evaluative standard for India's fifty-year record"
+    key_passages: []
+  - thinker: m-c-chagla
+    role: mention
+    reasoning: "Usha Mehta cites M. C. Chagla's encouraging statement during the Emergency as evidence that India's judicial and constitutional institutions proved resilient when tested by authoritarian pressure."
+    evidence:
+      - quote: "cites M. C. Chagla's encouraging statement during the Emergency as evidence that institutions can hold"
+        context: "Chagla invoked as proof of institutional resilience during India's constitutional crisis"
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Justice Jahagirdar invokes Ambedkar's opposition to panchayat rule as a counterpoint to the Gandhian ideal of Gram Swaraj, using him to question whether village self-governance is a viable path for India's marginalised communities."
+    evidence:
+      - quote: "He invokes Ambedkar's opposition to panchayat rule as a counterpoint to the Gandhian ideal of Gram Swaraj."
+        context: "Ambedkar cited in Jahagirdar's argument about the gap between Gandhian rural ideals and Ambedkarite caution"
+    key_passages: []
+  - thinker: achyut-patwardhan
+    role: mention
+    reasoning: Achyut Patwardhan is quoted by Arvind Deshpande warning that India in the 1990s resembles the pre-1857 period of anarchy, with the comparison used to argue for the urgency of finding a viable political alternative to Congress.
+    evidence:
+      - quote: Achyut Patwardhan is quoted warning that India in the 1990s resembles India around 1837 — 20 years after the Mughal collapse and the fall of the Peshwas.
+        context: "Patwardhan's historical analogy deployed to convey the gravity of India's political crisis"
+      - quote: "He recounts Achyut Patwardhan's invitation to speak at a 'People's Parliament' in Delhi and Patwardhan's warning that India is entering a phase equivalent to 20 years before 1857"
+        context: "Patwardhan's invitation and warning frame Deshpande's contribution"
+    key_passages: []
+  - thinker: rajiv-gandhi
+    role: mention
+    reasoning: "Rajiv Gandhi is referenced satirically by Sadanand Varde, who mocks the 'Freedom Run' gimmick staged under his leadership as emblematic of the hollow official celebration of independence."
+    evidence:
+      - quote: "Varde ends with a satirical letter exchange mocking the 'Freedom Run' gimmick under Rajiv Gandhi as emblematic of the hollow official celebration of independence."
+        context: "Rajiv Gandhi cited as the political target of Varde's satirical closing"
+    key_passages: []
+
 ---
 
 # Fifty Years After ...

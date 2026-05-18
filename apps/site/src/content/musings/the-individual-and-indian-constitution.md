@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is cited for his opposition to the Supreme Court serving as final arbiter on compensation quantum, illustrating the executive's encroachment on judicial independence."
+    evidence:
+      - quote: Pandit Nehru has violently opposed the idea of the Supreme Court being the final arbiter on the quantum of compensation on the plea that the Supreme Court ought not to make itself a third chamber of legislature.
+        context: "Nehru's opposition to judicial oversight used as an example of executive overreach threatening constitutional balance"
+    key_passages: []
+  - thinker: v-p-menon
+    role: mention
+    reasoning: "V. P. Menon is quoted in a recent lecture raising the question of property rights in relation to ceiling legislation, providing expert testimony in support of the author's argument."
+    evidence:
+      - quote: In a recent lecture Mr. V. P. Menon has said that the policy of fixation of ceilings raises the question of right to property
+        context: "Menon's authority invoked to support the constitutional concern about property rights under ceiling legislation"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - v-p-menon
+
 ---
 
 _The following piece was published in the [June 1959 edition](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1959.pdf) of the Indian Libertarian Magazine. The author of this piece, Mr. A Ranganathan discusses the Indian Constitution vis-a-vis individual freedom in the light of amendments as well as the enactment of laws promoting Co-operative farming. The issue of property rights has been mentioned as fundamental to the relationship between the individual and the Indian Constitution. _The success of democracy does not merely depend on the eloquent words enshrined in the Constitutional Preamble. Every student of political science knows that even such a centralized State as Russia is based on a constitution which is federal in theory! In the last analysis, the Constitution is an extremely delicate mechanism which is controlled by the mainspring of liberty in creating the proper balance between public authority and individual freedom. 

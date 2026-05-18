@@ -8,13 +8,10 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
-related_thinkers:
-  - ludwig-von-mises
+related_thinkers: 
   - ludwig-erhard
-  - a-d-shroff
-  - m-r-pai
-  - eugene-black
-  - mahatma-gandhi
+  - ludwig-von-mises
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +49,22 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_year_on_title_page
+thinker_mentions:
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: "Shenoy cites Mises as authority for the foundational importance of private property in the means of production, using the Soviet collective-farm evidence to illustrate what Mises's insight implies in practice."
+    evidence:
+      - quote: citing Ludwig von Mises and using the Soviet collective-farm experience as evidence that ownership matters
+        context: "Shenoy's theoretical grounding of private property as a precondition for consumer sovereignty"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Shenoy invokes Erhard's West Germany as a successful counter-example to Indian socialism, placing it among the Asian 'mini-Japans' as proof that the U-turn he advocates can deliver economic progress."
+    evidence:
+      - quote: "West Germany under Ludwig Erhard, Spain, Japan and the \"mini-Japans\" of Asia as success cases, and India, Burma, Sri Lanka, Pakistan and Bangladesh as classic socialist failures."
+        context: "Shenoy's comparative case for his nine-point liberalisation programme"
+    key_passages: []
+
 ---
 
 # Economic Growth with Social Justice

@@ -8,12 +8,9 @@ authors:
   - c-rajagopalachari
 editors: []
 contributors: []
-related_thinkers:
-  - jawaharlal-nehru
-  - khasa-subba-rau
-  - john-foster-dulles
-  - anthony-eden
-  - gamal-abdel-nasser
+related_thinkers: 
+  - c-rajagopalachari
+
 publication:
   language: en
   publisher_name: BHARATHAN PUBLICATIONS, KALKI BUILDINGS — KILPAUK, MADRAS-10
@@ -51,6 +48,19 @@ missing_metadata_flags:
   - year_not_found
   - no_toc_page_in_chunk
   - isbn_not_found
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: subject
+    reasoning: "The collection presents Rajagopalachari's weekly journalistic pieces for Swarajya between 1956 and 1961, framed as 'protests against errors' aimed at the regimentation of the Congress-ruled government, with Rajaji's voice and persona anchoring every article."
+    evidence: []
+    key_passages:
+      - quote: "Rajaji dedicates the volumes to Khasa Subba Rau, the editor whose encouragement made the Swarajya venture possible, and names the collection after the Sanskrit phrase 'Truth alone prevails' as an act of faith against entrenched official power."
+        what_it_shows: "Rajaji's own framing of the collection as a principled act of dissent, not mere commentary"
+      - quote: "In 'Value of Frank Criticism,' Rajaji invokes Socrates's self-description as a gadfly to argue that India's post-Independence press has surrendered its critical function"
+        what_it_shows: "Rajaji's diagnosis of press failure — the loss of independence that makes the Swarajya project necessary"
+      - quote: "'National and Official' and 'Commonsense vs. Pride' mount a sustained, carefully reasoned case against making Hindi the official language of the Union"
+        what_it_shows: "Rajaji's constitutional-democratic argument on language, distinguishing national culture from coercive state imposition"
+
 ---
 
 # SATYAM EVA JAYATE

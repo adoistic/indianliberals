@@ -21,14 +21,12 @@ contributors:
   - role: author
     thinker_unresolved: Mr. Y. H. Malegam
     toc_index: 4
-related_thinkers:
-  - minoo-shroff
+related_thinkers: 
   - a-d-shroff
-  - shyamala-gopinath
-  - h-t-parekh
-  - manmohan-singh
-  - deepak-parekh
   - chintaman-deshmukh
+  - h-t-parekh
+  - r-k-talwar
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -67,6 +65,36 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
   - no_isbn
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff is one of the six 'barons' profiled in the book being launched, with the contributors discussing his role as an institution-builder and the Shroff Committee's findings on private-sector discipline."
+    evidence:
+      - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
+        context: "summary of the book's six subjects; Shroff is one of the three post-Independence banking barons"
+    key_passages: []
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: "C. D. Deshmukh is one of the six banking 'barons' profiled in the book being launched, representing the pre-Independence generation of institution-builders."
+    evidence:
+      - quote: Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era
+        context: "listing of the book's six subjects; Deshmukh is one of the three pre-Independence banking barons"
+    key_passages: []
+  - thinker: h-t-parekh
+    role: mention
+    reasoning: "H. T. Parekh is one of the six banking 'barons' profiled in the book being launched, representing the post-Independence generation of institution-builders alongside Shroff and Talwar."
+    evidence:
+      - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
+        context: "listing of the book's six subjects; Parekh is one of the three post-Independence banking barons"
+    key_passages: []
+  - thinker: r-k-talwar
+    role: mention
+    reasoning: "Raj Kumar Talwar is one of the six banking 'barons' profiled in Dadabhoy's book, and his legacy including the governance of SBI is discussed by the booklet's contributors."
+    evidence:
+      - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
+        context: "core listing of the book's six subjects; Talwar is one of the three post-Independence banking institution-builders"
+    key_passages: []
+
 ---
 
 # Barons of Banking - Glimpses of Indian Banking History

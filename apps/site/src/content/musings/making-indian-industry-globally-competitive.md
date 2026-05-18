@@ -7,6 +7,43 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ralph-waldo-emerson
+    role: mention
+    reasoning: "Emerson is quoted to characterise India's five-thousand-year civilisation as having reached 'the summit of human thought', used to argue for India's inherited human capital advantage."
+    evidence:
+      - quote: "a civilization which reached \"the summit of human thought\" in the words of Ralph Waldo Emerson"
+        context: invokes Emerson as an authority on Indian civilisational depth
+    key_passages: []
+  - thinker: narasimha-rao
+    role: mention
+    reasoning: Narasimha Rao is invoked as the Prime Minister whose natural instincts favour liberalisation, and as a fellow member of the same government that imposed strangulating controls before the 1991 reforms.
+    evidence:
+      - quote: Mr. P. V. Narasimha Rao, our present Prime Minister, and Dr. Manmohan Singh, our present Finance Minister, were also members of the same government
+        context: positions Narasimha Rao as a reformer constrained by earlier circumstances
+    key_passages: []
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: Manmohan Singh is cited as Finance Minister whose instincts favour liberalisation and whose efforts Palkhivala credits for beginning the economic transformation.
+    evidence:
+      - quote: Dr. Manmohan Singh, our present Finance Minister, were also members of the same government
+        context: "contextualises Manmohan Singh's reform credentials"
+      - quote: Credit should go to Dr. Manmohan Singh for his endeavour to introduce fruitful egalitarianism in place of sterile socialism.
+        context: "final endorsement of Singh's reform agenda as historically significant"
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith is quoted as having observed a distinctive richness within Indian poverty — a quality of life not captured by material wealth — used to underline India's civilisational depth."
+    evidence:
+      - quote: Ambassador J. K. Galbraith remarked that while he had seen poverty in many countries of the world, he found an uncommon attribute among the poor of lndia - a richness in their poverty.
+        context: "Galbraith's observation is used as a testimony to Indian civilisational resilience"
+    key_passages: []
+related_thinkers: 
+  - john-kenneth-galbraith
+  - manmohan-singh
+  - narasimha-rao
+  - ralph-waldo-emerson
+
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise.](https://indianliberals.in/liberals/making-indian-industry-globally-competitive-15-may-1995.pdf) Authored by Indian jurist and liberal economist Nani Palkhivala, the text is based on the 12th T. A. Pai Memorial Lecture delivered on 17th January 1995 and takes an approach towards understanding the mighty scope of Indian human resource in the coming years. 

@@ -36,15 +36,10 @@ contributors:
     thinker_unresolved: VERUS
   - role: author
     thinker_unresolved: Scio
-related_thinkers:
-  - jawaharlal-nehru
-  - feroz-khan-noon
-  - karl-marx
-  - maulana-abul-kalam-azad
-  - s-k-patil
-  - vijaya-lakshmi-pandit
-  - mahatma-gandhi
-  - nikita-khrushchev
+related_thinkers: 
+  - kusum-lotwala
+  - ma-venkata-rao
+
 publication:
   language: en
   publisher_id: the-indian-libertarian
@@ -85,6 +80,22 @@ physical:
 missing_metadata_flags:
   - editor_label_not_explicit_on_masthead
   - issn_not_found
+thinker_mentions:
+  - thinker: kusum-lotwala
+    role: mention
+    reasoning: "Miss Kusum Lotwala is named as the editor of this April 1958 issue of The Indian Libertarian, the institutional author behind the journal's sustained libertarian-classical-liberal editorial line."
+    evidence:
+      - quote: The Indian Libertarian, Vol. VI No. 2 (April 1, 1958) is a sixteen-article fortnightly journal published from Bombay under editor Miss Kusum Lotwala.
+        context: Lotwala named as editor of this issue
+    key_passages: []
+  - thinker: ma-venkata-rao
+    role: mention
+    reasoning: "M. A. Venkata Rao's article '\"Mixed\" Economy — A Broken Reed' argues that the mixed economy doctrine is intellectually untenable, attacking the nationalisation of the LIC and critiquing state monopoly tendencies."
+    evidence:
+      - quote: "M. A. Venkata Rao argues that the 'mixed economy' doctrine is intellectually untenable and practically self-defeating."
+        context: "Venkata Rao as a named contributor to the 1958 issue's central economic argument"
+    key_passages: []
+
 ---
 
 # The Indian Libertarian

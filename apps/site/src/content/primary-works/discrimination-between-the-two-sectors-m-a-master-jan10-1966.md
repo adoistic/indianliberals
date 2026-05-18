@@ -7,13 +7,10 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
-  - lal-bahadur-shastri
-  - s-k-patil
+related_thinkers: 
+  - morarji-desai
   - t-t-krishnamachari
-  - jrd-tata
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +43,24 @@ physical:
 missing_metadata_flags:
   - no_table_of_contents
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Master cites Finance Minister Morarji Desai's own admissions in Parliament that public-sector units must earn adequate returns, using the government's own statements to expose the hypocrisy of denying the private sector equal treatment."
+    evidence:
+      - quote: "Master cites Finance Ministers Morarji R. Desai (1962-63) and T. T. Krishnamachari (1964-65) to show that even the Government now concedes that public-sector units must earn 'adequate' profits"
+        context: "Morarji Desai's concessions in Parliament are turned against the government's discriminatory treatment of the private sector"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Master pairs T. T. Krishnamachari's parliamentary statements with Morarji Desai's to show that two successive Finance Ministers have conceded the need for public-sector profitability while still denying the private sector equivalent treatment."
+    evidence:
+      - quote: "Finance Ministers Morarji R. Desai (1962-63) and T. T. Krishnamachari (1964-65) to show that even the Government now concedes that public-sector units must earn 'adequate' profits and build reserves for future expansion"
+        context: "Krishnamachari's statement is used alongside Desai's to establish cross-ministerial admission of the principle that public enterprises must be financially accountable"
+      - quote: "Uses speeches of Finance Ministers Morarji R. Desai and T. T. Krishnamachari to show the Government concedes the Public Sector must earn 'adequate returns'"
+        context: Krishnamachari is one of two Finance Ministers whose own words are deployed against the discriminatory treatment of the private sector
+    key_passages: []
+
 ---
 
 # Discrimination Between the Two Sectors

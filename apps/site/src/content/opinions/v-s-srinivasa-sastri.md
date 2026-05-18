@@ -9,6 +9,48 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "v-s-srinivasa-sastri"
+thinker_mentions:
+  - thinker: v-s-srinivasa-sastri
+    role: subject
+    reasoning: The article profiles V.S. Srinivasa Sastri as a liberal politician, diplomat, and intellectual in the tradition of Gokhale, covering his advocacy for Indian rights in the Empire and his international diplomatic career.
+    evidence: []
+    key_passages:
+      - quote: V S Srinivasa Sastri. He was a Tamilian school teacher-turned-editor, who joined the liberal fold under the influence of a single pamphlet written by Gokhale.
+        what_it_shows: establishes his intellectual formation and entry into the liberal tradition
+      - quote: We want political power; let there be no mistake about it. We want the right to rule ourselves.
+        what_it_shows: "Sastri's own voice asserting Indian self-determination under the Raj"
+      - quote: "He [Sastri] has spoken for India twice, and those who predicted that he would present a purely official view, still more a purely British official view, have been badly mistaken."
+        what_it_shows: captures his independent nationalist voice as recognised by the New York Times
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: Gokhale is the intellectual patron whose pamphlet converted Sastri to the liberal cause, and whose Servants of India Society Sastri first joined and then led.
+    evidence:
+      - quote: He was a Tamilian school teacher-turned-editor, who joined the liberal fold under the influence of a single pamphlet written by Gokhale.
+        context: identifies Gokhale as the formative intellectual influence on Sastri
+      - quote: "If we look for the noblest type of patriotism, that which impels to sacrifice of self and takes joy therein, what name can be placed beside his, save only that of Dadabhai [Naoroji]?"
+        context: "Sastri's tribute to Gokhale's patriotism published in 1905"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi called Sastri his elder brother, and Sastri's opposition to Gandhi's Non-cooperation is examined as a principled liberal stance based on faith in rule of law."
+    evidence:
+      - quote: Gandhi called his elder brother, V S Srinivasa Sastri
+        context: establishes the Gandhi-Sastri relationship
+      - quote: "Though an admirer of Gandhi, Sastri's principled opposition to non-cooperation was based on his faith in the rule of law."
+        context: "frames Sastri's disagreement with Gandhi as a principled liberal position"
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: "Dadabhai Naoroji is mentioned in Sastri's tribute to Gokhale as the only equal to Gokhale in patriotic self-sacrifice."
+    evidence:
+      - quote: "what name can be placed beside his, save only that of Dadabhai [Naoroji]?"
+        context: Naoroji invoked as the supreme exemplar of Indian liberal patriotism alongside Gokhale
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - mahatma-gandhi
+
 ---
 
 Sastri’s liberalism was evident in both his role as a politician and diplomat. He asserted the demand for equal rights and partnership under the Raj, not subordination: “We want political power; let there be no mistake about it. We want the right to rule ourselves.”Mahatma Gandhi is among that rare category of politicians which defy the conventional ideological label of liberal, left, conservative, or anarchist. His long career of engagement with ideas drew inspiration from scores of writings. Yet, Indian liberals, in some measure, could claim pedigree over Gandhi. His political activism in India was preceded by a year-long tour of the country, undertaken on the advice of Gopal Krishna Gokhale, the Poona-based leading liberal patriot. As is widely known, Gandhi accepted Gokhale as his political guru.

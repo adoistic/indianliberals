@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "This is the first A. D. Shroff Memorial Lecture, delivered in Shroff's memory; the lecture series and the Forum of Free Enterprise itself were founded by Shroff, making him a framing presence throughout."
+    evidence:
+      - quote: Following is the first A D Shroff Memorial Lecture delivered by  Dr. P B Mukharji on 27th October 1973.
+        context: Shroff named as the person in whose memory this lecture series was established
+    key_passages: []
+related_thinkers: 
+  - a-d-shroff
+
 ---
 
 _The following piece was published in [The Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/the-indian-constitution-and-judiciary-p-b-mukharji-october-1973.pdf) in October 1973. Following is the first A D Shroff Memorial Lecture delivered by  Dr. P B Mukharji on 27th October 1973. Dr Mukharji eloquently explains the relationship between the Indian Constitution, judiciary and the role politicians, executives and bureaucrats play. _Law, justice and judges of India are today at the crossroads. The atmosphere in the country is filled up with the hubbub of debates and controversies, is clouded by confused thinking and ideologies and is marred by political attacks on the system and ideas by interested parties. This public controversy has produced many slogans. Some of them are "Committed judiciary", "Servile judges", "Politicians are the masters of judges", "the Executive alone is to determine the calibre of judges", "neither the Constitution nor the Courts can stand against the so-called voice of Parliament and the Executive, and judges must decide according to the so-called public opinion". There are many more similar slogans.

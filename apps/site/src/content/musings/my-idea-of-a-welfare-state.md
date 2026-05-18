@@ -8,6 +8,19 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Gandhi is quoted on the purpose of human existence and cited as the authoritative voice for the Indian concept of a minimum welfare state — used by Shenoy to ground his critique of welfare statism in Indian tradition.
+    evidence:
+      - quote: What has Gandhi to say on the subject? He is always a good and safe guide in these matters.
+        context: Shenoy appeals to Gandhi as the authoritative voice on Indian philosophy of welfare
+      - quote: That state is perfect and non-violent where the people are governed the least
+        context: "Gandhi's dictum is the final philosophical anchor for Shenoy's concept of a minimum welfare state"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 _Produced below is an essay by B.R. Shenoy, published in a December 1957 issue of [The Indian Libertarian Magazine](https://indianliberals.in/content/the-indian-libertarian-december-1-1957/). The author was an Indian economist and notable critic of the India's five-year planning model. A proponent of individual freedoms, in this essay, Shenoy outlines the characteristics of a true welfare state. _The accent of the welfare state is, clearly, on welfare as there can be no welfare state without welfare. The question at once arises, whose welfare does the welfare state aim at achieving? The answer, probably, would be the welfare of the common man. If it is objected that the common man is very hard to find, we would, probably, amend our answer and say that the objective of the welfare state is the welfare of the masses of people, the maximum of well-being of the maximum of people. 

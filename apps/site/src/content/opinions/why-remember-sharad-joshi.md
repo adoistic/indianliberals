@@ -9,6 +9,20 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "sharad-joshi"
+thinker_mentions:
+  - thinker: sharad-joshi
+    role: subject
+    reasoning: "The article is a personal essay celebrating Sharad Joshi's legacy as an advocate of individual freedom and a liberal in the tradition of limiting government power."
+    evidence: []
+    key_passages:
+      - quote: Sharad Joshi was one of the first leaders to acknowledge the importance of freedom and dignity, and, that, there is no greater value than leading a free and dignified life.
+        what_it_shows: "identifies Joshi's foundational philosophical commitment"
+      - quote: He firmly believed that governments were a necessary evil and thus he simply sought independence from the government and nothing else.
+        what_it_shows: captures his minimalist political philosophy
+      - quote: Sharad Anantrao Joshi, founder of the Shetkari Sanghatana, was a champion of individual freedom; a liberal in the truest sense of the word.
+        what_it_shows: "the article's core characterisation of Joshi's liberalism"
+related_thinkers: []
+
 ---
 
 _Sharad Anantrao Joshi, founder of the Shetkari Sanghatana, was a champion of individual freedom; a liberal in the truest sense of the word. He envisioned an India where the state was not placed on a pedestal, one where individual freedoms would guarantee a dignified life.     _When Sharad Joshi came to India in the 70s, there was a huge boom of tragedy leaders in our country. Based on the points of mutual disputes and differences that have been rooted in the society for centuries, the leaders, who run their shops of prestige on them, used to pretend social service by sitting on the chests of farmers, Dalits and the underprivileged. All these leaders had one thing in common, their mood was feudal and they were going to invalidate and unroot the contribution of modern western countries in our lives.

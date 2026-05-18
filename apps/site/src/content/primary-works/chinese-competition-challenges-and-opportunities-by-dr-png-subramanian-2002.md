@@ -9,8 +9,9 @@ editors: []
 contributors:
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
+related_thinkers: 
   - deng-xiaoping
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +45,15 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
   - essay_extends_beyond_chunk
+thinker_mentions:
+  - thinker: deng-xiaoping
+    role: mention
+    reasoning: "Subramanian cites Deng Xiaoping's 1976 prioritisation of education as evidence of China's long-horizon human-capital strategy, held up as a discipline that India lacks."
+    evidence:
+      - quote: "citing Deng Xiaoping's 1976 prioritisation of education and Chinese ambitions to manufacture 'ten thousand Singapores'"
+        context: "Deng is invoked as the architect of China's education-first growth strategy that India should emulate"
+    key_passages: []
+
 ---
 
 # CHINESE COMPETITION

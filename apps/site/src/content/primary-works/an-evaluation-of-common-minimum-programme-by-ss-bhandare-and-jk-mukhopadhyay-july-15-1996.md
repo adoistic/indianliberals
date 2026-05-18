@@ -7,9 +7,9 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - manmohan-singh
-  - narasimha-rao
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +41,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: "Bhandare and Mukhopadhyay benchmark the coalition's Common Minimum Programme against Manmohan Singh's ten-point interim budget objectives of 1996-97, using Singh's reform agenda as the comparator for evaluating the CMP's credibility."
+    evidence:
+      - quote: "they note that it broadly tracks the famous 10-point medium-term objectives of Dr. Manmohan Singh's interim 1996-97 budget"
+        context: "opening analysis; Singh's budget serves as the reform benchmark against which the CMP is judged as inadequate"
+    key_passages: []
+
 ---
 
 # An Evaluation of Common Minimum Programme

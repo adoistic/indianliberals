@@ -8,10 +8,9 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - morarji-desai
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +43,15 @@ missing_metadata_flags:
   - no_toc
   - no_series_number
   - no_isbn
+thinker_mentions:
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Morarji Desai's abolition of the Expenditure Tax is praised as an act of 'great courage and independent thinking', held up as the positive counterexample to the Finance Bill's unjust capital-gains provisions."
+    evidence:
+      - quote: "He praises Morarji Desai's \"great courage and independent thinking\" in abolishing the Expenditure Tax"
+        context: "Desai's decisive policy reversal is cited as evidence that the Finance Minister can and should exercise independent judgment to correct unjust taxation"
+    key_passages: []
+
 ---
 
 # A REVIEW OF THE FINANCE (No. 2) BILL, 1962

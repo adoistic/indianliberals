@@ -8,6 +8,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "sharad-joshi"
+thinker_mentions:
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Shastri is cited as the originator of the 'Jai Jawan, Jai Kisan' slogan and the Green Revolution policies, which Joshi uses to explain how farmer sacrifices were systematically unrewarded."
+    evidence:
+      - quote: "In the 1950s, Lal Bahadur Shastri's slogan of ' Jai lawan, Jai Kisan' and the accompanying Green Revolution started two processes:"
+        context: "Joshi credits Shastri's slogan as the promise that was never honoured for the farmer community"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Indira Gandhi is cited as the Prime Minister who gave control of the Agricultural Prices Commission to Leftist ideologues, thereby institutionalising anti-farmer bias in economic policy.
+    evidence:
+      - quote: after those five years were over and after Indira Gandhi became the Prime Minister, the Chairmanship of the Agricultural Prices Commission was given to one of the Leftists, who are by their dogma, against the farmers
+        context: "Joshi attributes the institutionalised anti-farmer policy to decisions made during Indira Gandhi's tenure"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+  - lal-bahadur-shastri
+
 ---
 
 The following is an extract from a speech delivered in the Rajya Sabha by Mr. Sharad Joshi in August 2005 on the question of farmers' suicides. It was subsequently published in the October 2007 edition of the Freedom First magazine with a brief introduction written by Sharad Joshi himself.  In this piece, he has aptly captured the problem faced by India's farmers and advised the Government to take immediate measures by addressing the root of the crises.

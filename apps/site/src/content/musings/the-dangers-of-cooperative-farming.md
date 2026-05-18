@@ -7,6 +7,59 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's vision of decentralised rural industries is invoked by Masani as the correct alternative to cooperative farming, aligning his own position with Gandhian economics."
+    evidence:
+      - quote: "that is the method that Mahatma Gandhi always urged, the establishment of rural industries, the taking of industry to the countryside with electric power or without. My own emphasis, like Mahatma Gandhi's, would be on decentralised industry"
+        context: "Masani aligns his anti-cooperative-farming stance with Gandhi's decentralisation philosophy"
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: Vinoba Bhave is named alongside Jayaprakash Narayan as having tried and failed to persuade farmers to cultivate gramdan villages collectively, providing empirical evidence against cooperative farming.
+    evidence:
+      - quote: In Koraput, Acharya Vinobha Bhave and Mr. Jaya Prakash Narayan tried to ask the local people to cultivate them as a village and not to ask for distribution of the land.
+        context: "Vinoba's failed gramdan experiment cited as concrete evidence against cooperative farming"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan is cited both as a failed participant in the gramdan cooperative experiment and as an explicit critic of cooperative farming who called it 'puppets in the hands of officials'."
+    evidence:
+      - quote: In Koraput, Acharya Vinobha Bhave and Mr. Jaya Prakash Narayan tried to ask the local people to cultivate them as a village and not to ask for distribution of the land. Mr. Jaya Prakash confessed that this experiment had not succeeded
+        context: "JP's admission of failure in the cooperative experiment cited as evidence"
+      - quote: "Shri Jaya Prakash Narayan has said in Banaras that co-operative farming in today's context means creating \"puppets in the hands of officials.\""
+        context: JP quoted directly as an opponent of cooperative farming
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: Rajagopalachari is named as one of the distinguished opponents of cooperative farming whose views Masani aligns with, countering the accusation that such critics are merely cheating the people.
+    evidence:
+      - quote: people as diverse as Shri C. Rajagopalachari, Shri K. M. Munshi, Shri Jaya Prakash Narayan and many others who have said that.
+        context: Rajaji cited as part of a broad coalition of credible critics who oppose cooperative farming
+    key_passages: []
+  - thinker: k-m-munshi
+    role: mention
+    reasoning: Munshi is named alongside Rajagopalachari and Jayaprakash Narayan as a prominent opponent of cooperative farming, part of the cross-ideological coalition Masani marshals against it.
+    evidence:
+      - quote: people as diverse as Shri C. Rajagopalachari, Shri K. M. Munshi, Shri Jaya Prakash Narayan and many others who have said that.
+        context: Munshi cited as a credible critic of cooperative farming
+    key_passages: []
+  - thinker: charan-singh
+    role: mention
+    reasoning: Charan Singh, a Congress member with unrivalled expertise on agrarian policy, is quoted to show that opposition to cooperative farming crossed party lines.
+    evidence:
+      - quote: Mr. Charan Singh, who is a member and leading light of the Congress Party, has made a lifelong study of this subject much better than anybody else.
+        context: "Masani invokes a Congress insider's expertise to bolster his case against cooperative farming"
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - charan-singh
+  - jayaprakash-narayan
+  - k-m-munshi
+  - mahatma-gandhi
+  - vinoba-bhave
+
 ---
 
 _The following essay was published in 1950 by the [Forum of Free Enterprise.](https://indianliberals.in/content/the-dangers-of-joint-co-operative-farming-by-m-r-masani-m-p-mar-7-1950/) Authored by M. R. Masani, the essay outlines the Chinese and Soviet models of co-operative farming. He highlighted the possible shortfalls of co-operative farming in India and the Gadhian vision of rural industries for increasing employment. _I have been a life-long supporter of co-operation. I am one of the founders of the Industrial Co-operative Association in Bombay, and my own little bank account has never been in a capitalist bank but always in the Bombay State Co-operative Bank. I believe very strongly in the principle of genuine co-operation. But when we use these terms like co-operation, we have to be very clear as to what co-operation really is, and what it is not. The views I express will be in line with those of co-operators such as the Indian Co-operative Union in India, the British Co-operative Union and all co-operators throughout the free world. 

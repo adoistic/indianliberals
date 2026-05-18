@@ -7,6 +7,49 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Masani identifies Nehru's neutralism and foreign-policy mismanagement as the root cause of India's military disaster in 1962, making Nehru the central target of the lecture's critique."
+    evidence:
+      - quote: "as handled by the then Prime Minister Jawaharlal Nehru and Defence Minister VK Krishna Menon. In a democratic polity, it is obvious that matters of national security in times of crisis would warrant public scrutiny of the government's response."
+        context: Nehru is named as the political leader whose decade of appeasement policies led to the 1962 defeat
+    key_passages: []
+  - thinker: v-k-krishna-menon
+    role: mention
+    reasoning: Krishna Menon is singled out alongside Nehru as directly responsible for the military failures of 1962 through his conduct as Defence Minister.
+    evidence:
+      - quote: as handled by the then Prime Minister Jawaharlal Nehru and Defence Minister VK Krishna Menon.
+        context: Krishna Menon is named as co-author of the policy failures Masani dissects
+    key_passages: []
+  - thinker: mao-zedong
+    role: mention
+    reasoning: "Mao is invoked as the leader of the 'bandit regime' India mistakenly recognised while ignoring China's expansionist Communist aggression."
+    evidence:
+      - quote: our Government rushed forward to embrace the bandit regime of Mao Tse-tung which is today attacking our country
+        context: "Masani criticises India's recognition of Mao's government as the key foreign-policy blunder enabling the 1962 attack"
+    key_passages: []
+  - thinker: nikita-khrushchev
+    role: mention
+    reasoning: "Khrushchev is grouped with Hitler, Stalin, and Mao as authoritarian leaders who openly declared their expansionist intentions, underscoring Masani's argument about Western and Indian naivety."
+    evidence:
+      - quote: "They are very frank, these gentlemen- Hitler, Stalin, Khrushchev and Mao Tse-tung. They tell us what they are going to do, but we are so naïve that we will not believe them!"
+        context: Khrushchev is cited alongside other authoritarian leaders to make the case that Indian policymakers ignored clear warning signs
+    key_passages: []
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: Stalin is grouped with Khrushchev, Hitler, and Mao as authoritarian leaders whose openly declared goals India chose to ignore, illustrating the broader pattern of democratic naivety Masani critiques.
+    evidence:
+      - quote: "They are very frank, these gentlemen- Hitler, Stalin, Khrushchev and Mao Tse-tung. They tell us what they are going to do, but we are so naïve that we will not believe them!"
+        context: Stalin is part of a list of authoritarian leaders used to indict Indian foreign-policy blindness
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - joseph-stalin
+  - mao-zedong
+  - nikita-khrushchev
+  - v-k-krishna-menon
+
 ---
 
 Now, what is our situation in India today? We are today faced with this great disaster that is overtaking our armies at the front as a result of ten years of misguided policies of neutralism and of appeasement of Chinese Communist expansionism. The root cause has been the failure to understand the nature of international communism.

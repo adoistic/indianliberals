@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: ""
+thinker_mentions:
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Erhard's West Germany is invoked as the leading empirical example proving that economic growth and social justice are achieved through free markets, not socialist planning."
+    evidence:
+      - quote: In the contemporary world, West Germany (under Professor Ludwig Erhard), Spain, Japan and the several mini-Japans in Asia are outstanding examples.
+        context: "Erhard's West Germany is the flagship case study Shenoy uses to show that market economics delivers social justice outcomes superior to socialism"
+    key_passages: []
+related_thinkers: 
+  - ludwig-erhard
+
 ---
 
 _The late Prof. B. R. Shenoy was an eminent economist. This __paper, written in August 1977, a few months prior to his death, __is of relevance today when there is considerable rethinking on __need for a new economic policy. The paper was republished as a booklet by the Forum of Free Enterprise in March 1980. _A free society is so called because its citizens are free individuals, free in the sense of "independence of the arbitrary will of another". Individuals in a free society function, in the economic sphere, under the guidelines of the doctrine of pragmatism, pursuing the line of success and discarding the path of failures, success and failure being assessed by their own subjective criteria viewed functionally, a free society may also be termed, therefore, as a pragmatic society. As the terminal aim of the individual's activity is the maximum satisfaction of his consumption needs, and he is unfettered in this as in other matters, a free society is described too as a society of consumer sovereignty.

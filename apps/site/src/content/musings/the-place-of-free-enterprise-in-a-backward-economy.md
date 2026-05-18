@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is cited as a democratic believer who preferred slow progress over risking individual independence, contrasted with his Finance Minister Krishnamachari who demanded sacrifice and regimentation, exposing the government's internal contradictions."
+    evidence:
+      - quote: Prime Minister Nehru, who is a great believer in democracy, said at the A.I.C.C. meeting in January last that he would prefer slow progress to risking individual independence for rapid progress.
+        context: "Nehru quoted to expose the contradiction between his democratic rhetoric and his government's economic regimentation"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "T. T. Krishnamachari as Finance Minister is quoted for declaring that the Second Plan would demand sacrifice and regimentation, illustrating the government's statist economic agenda that the essay opposes."
+    evidence:
+      - quote: Shri T. T. Krishnamachari, the Finance Minister, has declared that the Second Plan would demand sacrifice and regimentation of our economy
+        context: "Krishnamachari's statement used as evidence of the government's explicitly regimented economic programme"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - t-t-krishnamachari
+
 ---
 
 _D. N. Hosali’s publication, "The Place of Free Enterprise in a Backward Economy," critiques the shift towards socialism in India. Hosali argues that socialism stifles the growth and efficiency of the private sector, which is crucial for developing backward economies. He contends that free enterprise is more effective in driving economic progress and ensuring freedom._

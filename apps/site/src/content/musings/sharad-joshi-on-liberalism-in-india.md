@@ -8,6 +8,119 @@ language: "en"
 needs_review: true
 draft: false
 author: "sharad-joshi"
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: Joshi invokes Adam Smith as the foundational Western reference point from which Indian liberal writers trace the intellectual lineage of liberalism, situating him alongside Naoroji and other Indian reformers.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J.S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Raja Rammohan Roy, Narmad, Phule, Agarkar, et al.
+        context: Joshi critiques liberal writers for rooting the tradition in Western thinkers rather than pre-colonial Indian soil
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Naoroji is listed among the founding figures of Indian liberalism as traced by liberal writers of the British-era reform generation, active between 1860 and 1920.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J.S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Raja Rammohan Roy, Narmad, Phule, Agarkar, et al.
+        context: Joshi names Naoroji as part of the canonical roster of Indian liberal precursors
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: Gokhale appears as one of the named pioneers of Indian liberal thought active during the British period, alongside Roy, Phule, and Agarkar.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J.S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Raja Rammohan Roy, Narmad, Phule, Agarkar, et al.
+        context: named in the canonical roster of colonial-era Indian liberals
+    key_passages: []
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: "Raja Ram Mohan Roy is named among the founders of Indian liberalism cited by liberal writers as the tradition's forebears during British rule."
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J.S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Raja Rammohan Roy, Narmad, Phule, Agarkar, et al.
+        context: named as a precursor of Indian liberalism in the 1860-1920 generation
+    key_passages: []
+  - thinker: jyotirao-phule
+    role: mention
+    reasoning: Phule is grouped with Agarkar and other reformers as part of the canonical lineage of Indian liberalism traced by liberal writers of the British era.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J.S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Raja Rammohan Roy, Narmad, Phule, Agarkar, et al.
+        context: listed as a founding figure of Indian liberal tradition
+    key_passages: []
+  - thinker: gopal-ganesh-agarkar
+    role: mention
+    reasoning: Agarkar is named among the colonial-era Indian liberal reformers invoked by Joshi as precursors of the tradition, active between 1860 and 1920.
+    evidence:
+      - quote: In their writings, they trace the beginnings of liberalism to J.S. Mill and Adam Smith and of Indian liberalism to Dadabhai Naoroji, Gokhale, Raja Rammohan Roy, Narmad, Phule, Agarkar, et al.
+        context: listed among founders of Indian liberal tradition
+    key_passages: []
+  - thinker: bal-gangadhar-tilak
+    role: mention
+    reasoning: Tilak is cited as a contrasting figure who used public religion for political mobilisation, distinguishing him from the secular-liberal current Joshi is analysing.
+    evidence:
+      - quote: There were others like Tilak who used public worship of God Ganesha for political mobilization.
+        context: Joshi contrasts the religiously-inflected nationalist stream with the liberal reformist one
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is mentioned alongside Periyar as leaders who organised backward-class communities around their rights to livelihood and dignity, part of Joshi's survey of social-reform currents intersecting with liberalism."
+    evidence:
+      - quote: Ambedkar, Periyar, Ramaswami Naicker and others organised certain castes and communities from the backward classes.
+        context: "Joshi surveys social-reform movements that channelled oppressed communities' aspirations"
+    key_passages: []
+  - thinker: periyar-e-v-ramasamy
+    role: mention
+    reasoning: "Periyar is named alongside Ambedkar as one of the leaders of backward-class community organisation, part of Joshi's analysis of currents parallel to, and sometimes intersecting with, the liberal tradition."
+    evidence:
+      - quote: Ambedkar, Periyar, Ramaswami Naicker and others organised certain castes and communities from the backward classes.
+        context: listed as a social-reform organiser of backward communities alongside Ambedkar
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Gandhi is invoked as the embodiment of a distinctly Hindu-ecumenical platform and later as a point of contrast with Rajaji in the founding of the Swatantra Party.
+    evidence:
+      - quote: Gandhi represented  a platform much truer to Hindu thought that upheld at the same time some sort of ecumenism- the identity of all faiths.
+        context: "Joshi characterises Gandhi's ideological position within the independence movement"
+      - quote: "Rajaji, who had a very high standing among the followers of Gandhi and who became the first Indian Governor General of independent India, had correctly foreseen the disaster that Nehru's license-permit quota Raj would produce."
+        context: "Gandhi's legacy invoked as the authority that gave Rajaji standing to found the Swatantra Party"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is cited both as the architect of Nehruvian socialism that displaced liberalism and as the target of Rajaji's prophetic critique, making him a central foil in Joshi's historical account."
+    evidence:
+      - quote: Nehru was himself full of social effervescence since his visits to the USSR.
+        context: "Joshi traces how Nehru's socialism came to dominate over the liberal platform in the independence movement"
+      - quote: "Rajaji, who had a very high standing among the followers of Gandhi and who became the first Indian Governor General of independent India, had correctly foreseen the disaster that Nehru's license-permit quota Raj would produce."
+        context: "Nehru's economic legacy identified as the failure that Rajaji's Swatantra Party sought to reverse"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: Rajaji is discussed at length as a key liberal figure who predicted Nehruvian failure and founded the Swatantra Party, and is quoted for his Gujarati proverb on the dangers of the state as trader.
+    evidence:
+      - quote: "Rajaji was fond of quoting a Gujarati proverb meaning, 'Where the king is a trader his subjects are paupers'."
+        context: Joshi attributes this economic aphorism to Rajaji to illustrate the polycentric ethos he is trying to recover
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Indira Gandhi appears as the political force that swept out the Swatantra Party after its initial success, and as an example of a potential Indian authoritarian that popular resistance could defeat.
+    evidence:
+      - quote: It started off well but was swept out in the Indira wave after her Bangladesh triumph in 1971.
+        context: "Joshi records the Swatantra Party's electoral defeat to Indira Gandhi as the end of the first organised liberal political venture"
+      - quote: our people believe in fighting over tyrants if an Indira Gandhi comes along.
+        context: Joshi argues that popular resistance to authoritarianism is an enduring feature of Indian political culture
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - bal-gangadhar-tilak
+  - bhimrao-ambedkar
+  - c-rajagopalachari
+  - dadabhai-naoroji
+  - gopal-ganesh-agarkar
+  - gopal-krishna-gokhale
+  - indira-gandhi
+  - jawaharlal-nehru
+  - jyotirao-phule
+  - mahatma-gandhi
+  - periyar-e-v-ramasamy
+  - raja-ram-mohan-roy
+
 ---
 
 _Published in Freedom First Magazine 1996, the following article by Mr. Sharad Joshi offers valuable insights on liberalism in India vis-a-vis its past, present and future.  The author who was himself a liberal farmer leader and parliamentarian reflects on liberalism in ancient India and the lessons it has for liberals today. _Liberalism is far from being the dominant or even the mainstream school of thought in India. Worse still, most consider liberalism as an idea imported from abroad, derogatory to national pride. Within the country, the cry goes that liberalism suits the convenience of the affluent and the strong minority and militates against the welfare security net that the weaker masses of society need so badly. The defunct Nehruvian socialism is being replaced not by the vibrant forces of liberal entrepreneurship but by lumpen chauvinistic and communal jingoism. Socialism is yielding place to fascism and the fastest riding comets on the Indian horizon flaunt unabashedly their admiration for Hitler.

@@ -7,10 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - milton-friedman
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +43,15 @@ physical:
   pages_total: 13
   pages_total_source: pypdfium2
   format: Pamphlet/booklet (FFE format); printed page numbering runs through page 20 (two printed pages per scanned spread)
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: Bauer names Milton Friedman alongside himself as a fellow dissenter from the development-economics consensus that Comprehensive Central Planning is indispensable for poor countries.
+    evidence:
+      - quote: ranging Milton Friedman alongside himself as a dissenter and pointing to Japan, Hong Kong, Malaysia, Thailand and parts of West Africa as cases of substantial material progress achieved without comprehensive planning
+        context: opening section establishing the intellectual landscape; Friedman is explicitly named as a co-dissenter from the planning orthodoxy Bauer is challenging
+    key_passages: []
+
 ---
 
 # CENTRAL PLANNING AND ECONOMIC DEVELOPMENT

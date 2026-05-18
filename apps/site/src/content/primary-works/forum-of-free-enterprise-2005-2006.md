@@ -8,13 +8,14 @@ authors:
   - sucheta-dalal
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - jawaharlal-nehru
-  - t-t-krishnamachari
   - jrd-tata
   - ma-sreenivasan
-  - m-r-pai
+  - minoo-masani
+  - sn-haji
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +48,54 @@ missing_metadata_flags:
   - no_publisher_address
   - no_series_number_visible
   - no_formal_toc
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The pamphlet reproduces a long extract from Sucheta Dalal's biography of A. D. Shroff, tracing the founding of the Forum of Free Enterprise on 18 July 1956 and Shroff's design principles for keeping the Forum apolitical and educative."
+    evidence:
+      - quote: "Shroff — chairman of New India Assurance, signatory to the 1944 Bombay Plan, and member of Nehru's own National Planning Council — is portrayed not as an opponent of planning but as the one industrialist unwilling to be silenced by it."
+        context: "biographical framing of Shroff's standing and motivation"
+      - quote: "J. R. D. Tata's offer of a lakh of rupees turned down for a Rs. 10,000 collection"
+        context: "records Shroff's insistence on a modest, non-dependent funding model"
+      - quote: "Shroff calls a press conference, ridicules TTK ('in the extreme it might mean that all industrialists would decide to close down their industries')"
+        context: "Shroff's rebuttal to T. T. Krishnamachari's 'capitalist strike' charge"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "T. T. Krishnamachari (TTK) is named as the Finance Minister whose post-budget claim of a 'capitalist strike' provoked Shroff's public rebuttal, a key episode in the Forum's early history."
+    evidence:
+      - quote: "Shroff's response to T. T. Krishnamachari's post-Union-Budget claim of a 'capitalist strike'"
+        context: the inciting event that prompted Shroff to call a press conference
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: M. R. Masani is listed as one of the original founding Council of Management members of the Forum of Free Enterprise.
+    evidence:
+      - quote: M. R. Masani, S. N. Haji, Col. Leslie Sawhny, F. S. Mulla, T. M. Desai, K. C. Cooper
+        context: naming the founding Council of Management assembled by Shroff
+    key_passages: []
+  - thinker: sn-haji
+    role: mention
+    reasoning: S. N. Haji is listed as one of the founding Council of Management members of the Forum of Free Enterprise.
+    evidence:
+      - quote: M. R. Masani, S. N. Haji, Col. Leslie Sawhny, F. S. Mulla, T. M. Desai, K. C. Cooper
+        context: "listing of the Forum's founding council"
+    key_passages: []
+  - thinker: ma-sreenivasan
+    role: mention
+    reasoning: M. A. Sreenivasan is listed as one of the founding Council of Management members of the Forum of Free Enterprise.
+    evidence:
+      - quote: Anantharamakrishnan, S. K. Sen, M. A. Sreenivasan, Sardar Mohan Singh, Narayan Dandekar
+        context: "listing of the Forum's founding council"
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: J. R. D. Tata is mentioned for having offered Shroff a lakh of rupees for the Forum, an offer Shroff refused in favour of a more modest, independent funding model.
+    evidence:
+      - quote: "J. R. D. Tata's offer of a lakh of rupees turned down for a Rs. 10,000 collection"
+        context: "illustrates Shroff's principled insistence on financial independence"
+    key_passages: []
+
 ---
 
 # The Forum of Free Enterprise

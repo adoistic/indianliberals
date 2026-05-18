@@ -5,11 +5,25 @@ pubDate: 2025-11-29T11:23:28
 author_name: "AD Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/ad-shroff-socialism-free-enterprise-lessons/2794663/"
 themes: ["russia", "soviet-union"]
-related_thinkers: ["a-d-shroff"]
+related_thinkers: 
+  - a-d-shroff
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: The article is an essay by A.D. Shroff analysing the failures of democratic socialism and the vindication of free enterprise features in communist economies.
+    evidence: []
+    key_passages:
+      - quote: Democratic socialism has been offered as a solution. A scientific study of democratic socialism is, therefore, necessary.
+        what_it_shows: "opens Shroff's analytical project — a rigorous critique of democratic socialism"
+      - quote: free enterprise features are not only changing socialist economic institutions in Russia, but also finding vigorous proponents there.
+        what_it_shows: "Shroff's empirical conclusion that free enterprise is vindicating itself even in communist economies"
+      - quote: The swing today is away from both state ownership and centralised comprehensive planning in socialist and Communist countries.
+        what_it_shows: "Shroff's central finding about the global shift away from socialist methodology"
 
 ---
 

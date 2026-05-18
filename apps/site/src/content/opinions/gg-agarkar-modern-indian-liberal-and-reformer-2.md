@@ -9,6 +9,70 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "gopal-ganesh-agarkar"
+thinker_mentions:
+  - thinker: gopal-ganesh-agarkar
+    role: subject
+    reasoning: "The essay profiles Gopal Ganesh Agarkar as a radical liberal social reformer in colonial Maharashtra who championed rationalism, women's emancipation, and opposition to caste discrimination in the tradition of Enlightenment thought."
+    evidence: []
+    key_passages:
+      - quote: The great Indian classic liberal that he was, Agarkar championed the cause of rationality and women emancipation in colonial Maharashtra
+        what_it_shows: "establishes Agarkar's core liberal identity and reform agenda"
+      - quote: Tilak focused on the primacy of political freedom with a conservative approach towards social reform while for Agarkar, social reform came ahead of political freedom
+        what_it_shows: "the key ideological divergence that defined Agarkar's distinctive contribution"
+      - quote: an ardent devotee of John Stuart Mill
+        what_it_shows: identifies the philosophical source of his liberal individualism
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "Ranade is listed among the prominent figures of the modern liberal tradition in Maharashtra that provides the intellectual context for Agarkar's emergence."
+    evidence:
+      - quote: The prominent figures include western-educated M G Ranade, P M Mehta, K T Telang
+        context: situating Agarkar within the broader Maharashtra liberal tradition anchored by Ranade and others
+    key_passages: []
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: "Dadabhai Naoroji is named as one of the moderate figures of the Maharashtra liberal tradition that contextualises Agarkar's emergence."
+    evidence:
+      - quote: moderate S N Banerjee, Dadabhai Naoroji and Gopal Krishna Gokhale
+        context: "listing Naoroji among the moderate figures who form the backdrop to Agarkar's more radical liberalism"
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is named among the moderate liberal figures in Maharashtra who provide the context for Agarkar's more radical reformism."
+    evidence:
+      - quote: moderate S N Banerjee, Dadabhai Naoroji and Gopal Krishna Gokhale
+        context: "listing Gokhale among the Maharashtra moderate liberals against whom Agarkar's radicalism stands out"
+    key_passages: []
+  - thinker: bal-gangadhar-tilak
+    role: mention
+    reasoning: "Bal Gangadhar Tilak is presented as Agarkar's classmate, collaborator, and eventual rival, with their divergence over the priority of political versus social reform defining Agarkar's legacy."
+    evidence:
+      - quote: Agarkar is remembered best for his rivalry with Bal Gangadhar Tilak
+        context: "the rivalry with Tilak as the defining biographical fact that shaped Agarkar's public identity"
+      - quote: Tilak focused on the primacy of political freedom with a conservative approach towards social reform while for Agarkar, social reform came ahead of political freedom
+        context: the ideological divergence that drove Agarkar to found his own journal Sudharak
+    key_passages: []
+  - thinker: pandita-ramabai
+    role: mention
+    reasoning: "Pandita Ramabai's Widows' Home in Pune is cited as one of the causes Agarkar lent his support to, illustrating his practical commitment to women's reform beyond rhetorical advocacy."
+    evidence:
+      - quote: "He lent support to Age of Consent Bill and Pandita Ramabai's Widows' Home in Puna"
+        context: "examples of Agarkar's concrete support for women's reform initiatives"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "John Stuart Mill is identified as the philosophical inspiration behind Agarkar's liberal individualism, with Agarkar described as an 'ardent devotee of John Stuart Mill'."
+    evidence:
+      - quote: an ardent devotee of John Stuart Mill
+        context: "identifying Mill as the primary Western liberal philosophical source of Agarkar's rationalist and individualist worldview"
+    key_passages: []
+related_thinkers: 
+  - bal-gangadhar-tilak
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - john-stuart-mill
+  - mahadev-govind-ranade
+  - pandita-ramabai
+
 ---
 
 _The social reformer Gopal Ganesh Agarkar remains a marginalized figure in public discourse. The great Indian classic liberal that he was, Agarkar championed the cause of rationality and women emancipation in colonial Maharashtra. On his 163rd birth anniversary, here is a tribute to the man._The modern liberal tradition in Maharashtra has seen many remarkable individuals furthering the cause of individual dignity and human freedom. The prominent figures include western-educated M G Ranade, P M Mehta, K T Telang; orientalist R G Bhandarkar; nationalist Bal Gangadhar Tilak; and moderate S N Banerjee, Dadabhai Naoroji and Gopal Krishna Gokhale. Among the modern liberal luminaries stands out Gopal Ganesh Agarkar, for his radical social reformism and emphasis on rationality.

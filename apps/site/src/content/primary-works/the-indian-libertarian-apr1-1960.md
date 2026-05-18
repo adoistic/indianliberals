@@ -27,15 +27,12 @@ contributors:
     toc_index: 6
   - role: author
     thinker: a-d-cohen
-related_thinkers:
-  - jawaharlal-nehru
-  - v-k-krishna-menon
-  - ayub-khan
-  - c-rajagopalachari
+related_thinkers: 
+  - kusum-lotwala
   - m-n-roy
-  - karl-marx
-  - a-ranganathan
-  - chintaman-deshmukh
+  - ma-venkata-rao
+  - v-k-krishna-menon
+
 publication:
   language: en
   publisher_id: the-indian-libertarian
@@ -73,6 +70,38 @@ physical:
   format: periodical; single copy 25 Naye Paisa; published 1st and 15th of each month
 missing_metadata_flags:
   - no_issn
+thinker_mentions:
+  - thinker: kusum-lotwala
+    role: mention
+    reasoning: The Indian Libertarian is the journal edited by Miss Kusum Lotwala; this 1960 issue is part of the same Libertarian Publishers (Private) Ltd. series under her editorship.
+    evidence:
+      - quote: "The Indian Libertarian (Vol. VIII No. 1, April 1, 1960) is a fortnightly periodical published from Bombay, incorporating the earlier 'Free Economic Review' and 'The Indian Rationalist'."
+        context: "the journal under Lotwala's editorship, per the established editorial succession across volumes"
+    key_passages: []
+  - thinker: ma-venkata-rao
+    role: mention
+    reasoning: "M. A. Venkata Rao wrote 'Containing Red China' arguing for a complete recasting of India's foreign policy toward China, and also contributed the book review of Volin's Soviet collective farm history."
+    evidence:
+      - quote: "M. A. Venkata Rao's essay 'Containing Red China' argues that India's China policy has been disastrously misconceived from the start."
+        context: "Venkata Rao as a named contributor to the 1960 issue's foreign policy argument"
+      - quote: "The book review covers 'The History of a Soviet Collective Farm' by Volin, reviewed by A. Venkata Rao."
+        context: Venkata Rao also as reviewer, drawing parallels to Indian planning
+    key_passages: []
+  - thinker: v-k-krishna-menon
+    role: mention
+    reasoning: "Krishna Menon is accused in the editorial of publicly defending China and acting as Beijing's advocate within the Indian Cabinet, framing India's China policy failure as partly his personal responsibility."
+    evidence:
+      - quote: "Krishna Menon is accused of publicly defending China and acting as Beijing's advocate within the Indian Cabinet"
+        context: editorial attack on Krishna Menon as a pro-China voice within the Nehru government
+    key_passages: []
+  - thinker: m-n-roy
+    role: mention
+    reasoning: "M. N. Roy's followers attended the Rationalist Supplement seminar recorded in this issue, debating whether Rationalists should align with the Swatantra Party or maintain non-partisan advocacy."
+    evidence:
+      - quote: "The Rationalist Supplement (inserted with separate roman-numeral pagination, I–IV) records a discussion held at 'Current Politics' seminar on 13th March in Bombay. Followers of M. N. Roy attended."
+        context: "Roy's intellectual legacy present through his followers at the Rationalist seminar"
+    key_passages: []
+
 ---
 
 # The Indian Libertarian

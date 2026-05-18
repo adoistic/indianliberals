@@ -9,6 +9,46 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "harish-chandra-mukherjee"
+thinker_mentions:
+  - thinker: harish-chandra-mukherjee
+    role: subject
+    reasoning: "The essay profiles Harish Chandra Mukherjee as a pioneering liberal editor of the Hindu Patriot who used journalism to fight for indigo ryots, women's education, and widow remarriage in colonial Bengal."
+    evidence: []
+    key_passages:
+      - quote: "Harishchandra's political and social views found expression in Hindu Patriot - an English weekly published under the proprietorship of Madhusudhan Roy"
+        what_it_shows: establishes his primary medium of liberal expression and activism
+      - quote: nightly in support of Ishwar Chandra Vidyasagar who had launched a movement for introduction of remarriage for Hindu widows
+        what_it_shows: "his solidarity with Vidyasagar's reform campaign as a core commitment"
+      - quote: Using principles of natural justice and fairness, Harishchandra sharply criticized the profligate use of Indian resources and indiscriminate practices employed by planters in Bengal
+        what_it_shows: his principled use of natural rights language in defence of indigo ryots
+      - quote: Can a revolution in the Indian Government be authorised by Parliament without consulting the wishes of vast millions of men for whose benefit it is proposed to be made
+        what_it_shows: his bold challenge to colonial legislative authority, anticipating the doctrine of consent
+  - thinker: ishwar-chandra-vidyasagar
+    role: mention
+    reasoning: "Vidyasagar's widow remarriage campaign is the immediate cause to which Mukherjee devoted his nightly editorial support, making him the primary liberal ally in Mukherjee's activism."
+    evidence:
+      - quote: nightly in support of Ishwar Chandra Vidyasagar who had launched a movement for introduction of remarriage for Hindu widows
+        context: "Mukherjee's editorial solidarity with Vidyasagar's landmark social reform campaign"
+    key_passages: []
+  - thinker: dwarkanath-tagore
+    role: mention
+    reasoning: "Dwarkanath is mentioned as one of the intellectuals who defended indigo planters as entrepreneurs, offering a contrasting liberal view to Mukherjee's critique of planter exploitation."
+    evidence:
+      - quote: there were some intellectuals such as Rammohan Roy and Dwarkanath who defended indigo planters as a class of entrepreneurs who wanted to raise the productivity of land
+        context: "contrasting Mukherjee's anti-planter stance with the pro-planter position of Rammohan Roy and Dwarkanath"
+    key_passages: []
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: "Raja Rammohan Roy is mentioned as defending indigo planters as a class of entrepreneurs, providing a counterpoint to Mukherjee's critique of planter exploitation."
+    evidence:
+      - quote: there were some intellectuals such as Rammohan Roy and Dwarkanath who defended indigo planters as a class of entrepreneurs who wanted to raise the productivity of land
+        context: "Rammohan Roy's contrasting pro-planter stance illustrating the complexity of liberal opinion on indigo cultivation"
+    key_passages: []
+related_thinkers: 
+  - dwarkanath-tagore
+  - ishwar-chandra-vidyasagar
+  - raja-ram-mohan-roy
+
 ---
 
 In the pre-independence era, two editors left an indelible mark on Indian journalism. Both of them were Bengalis. While one has been described as the father of Indian journalism, the other was a** **crusading commentator on events of his time. Ramachandra Chatterjee was the editor of The Modern Review (1907-1965) while Harish Chandra Mukherjee of Hindu Patriot (1853-84).

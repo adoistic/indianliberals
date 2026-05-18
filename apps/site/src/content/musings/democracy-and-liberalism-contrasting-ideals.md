@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: s-v-raju
+    role: mention
+    reasoning: SV Raju and the Indian Liberal Group are cited as the practitioners who attempted to translate liberal principles into legal action by challenging the anti-liberal constitutional provisions via PIL.
+    evidence:
+      - quote: "The Bombay-based Indian Liberal Group led by SV Raju filed a petition against this Act in 1994, but their PIL is yet to be heard!"
+        context: "Raju's PIL is cited as evidence of the practical liberal effort to roll back the socialist constitution — and of the judiciary's failure to engage with it"
+    key_passages: []
+related_thinkers: 
+  - s-v-raju
+
 ---
 
 _The following piece is an excerpt from Sauvik Chakraverti's book titled ['Natural Order : Essays Exploring Civil Government and Rule of Law'.](https://indianliberals.in/liberals/natural-order-essays-exploring-civil-government-and-the-rule-of-law.pdf) The author discusses the contrasting understanding between democracy and liberalism by quoting the works of prominent classical liberal thinkers such as Hayek. The insights offered in this work are timeless for conversations surrounding democracy and liberalism. _Since I may have lit a fire in the minds of many an aspiring liberal politician – which was my intention – I will conclude with some sobering thoughts on the essential contradictions between the liberal project and that of democracy. The two are not identical. This is the prime reason why even the so-called ‘liberal democracies’ of the West seem more like ‘socialist democracies’. Indeed, social democrats in the USA call themselves ‘liberal’! It seems to me that it is vital that the differences between the two doctrines be clearly restated. Allow me to quote at some length from Hayek:

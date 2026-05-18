@@ -8,6 +8,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "f-a-mehta"
+thinker_mentions:
+  - thinker: bernard-shaw
+    role: mention
+    reasoning: "Mehta opens with the anecdote of Isadora Duncan approaching Bernard Shaw with a marriage proposal, using it as a witty illustration of the 'middle way' problem — how combining opposites (beauty and brains) can produce the worst of both worlds."
+    evidence:
+      - quote: Isadora Duncan is alleged to have approached George Bernard Shaw with a request for marriage on the ground that the product would be unique, combining her beauty with his brains.
+        context: "The Shaw–Duncan anecdote is Mehta's opening illustration of why the 'middle way' between two extreme positions may combine their worst features rather than their best"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Mehta invokes Gandhi's doctrines as the moral constraint that made street-level unemployment socially unacceptable in India, using Gandhian values to explain why India could not simply embrace Western-style industrial restructuring."
+    evidence:
+      - quote: totally unacceptable to a country committed to the doctrines of Mahatma Gandhi
+        context: "Gandhi's doctrine of the dignity of labour is invoked to explain the political impossibility of mass redundancies in Indian economic restructuring"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Mehta invokes Adam Smith's attack on state power to argue that statism is not inherently left-wing — Smith's original target was the right-wing mercantile lobby — using this historical point to complicate simple capitalism-vs-socialism framing."
+    evidence:
+      - quote: "Adam Smith when he called for an attack on the powers of the State over two centuries ago was, in fact, attacking what in modern terminology would be called \"The Right Wing, Mercantile Lobby\""
+        context: "Smith's original anti-statism is recontextualised by Mehta to show that today's free-market vs state debate has deeper historical roots than the left-right binary suggests"
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - bernard-shaw
+  - mahatma-gandhi
+
 ---
 
 _Produced below is a booklet by Dr F. A. Mehta, published in January 1995 by the [Forum of Free Enterprise.](https://indianliberals.in/content/is-there-a-middle-way-by-dr-f-a-mehta-january-15-1995/)  In the booklet, Mehta explores the possibility of a "Middle Way" between capitalism and socialism, between efficiency and equity. _The question that I propose to answer and elaborate upon is: Is there a Middle Way between Capitalism and Socialism, between the Price Mechanism and Planning, between Efficiency and Equity? The question is simple, so simple as to be denounced superficial to a point of being superfluous. The spiritual heritage of mankind has long advocated the virtues of moderation. Lord Zarathushtra expressly insisted on moderation as one of the supreme virtues of the Good Life; Lord Buddha dwelt at length on the virtues of the Middle Path; and Confucious insisted that life must be a mixture of the positive and the negative. Every calamity has in it the seeds of an opportunity and every great fortune the seeds of a collapse. The Middle Path, therefore, is almost spiritually ordained. 

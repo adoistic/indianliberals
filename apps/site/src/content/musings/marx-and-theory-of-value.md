@@ -8,6 +8,19 @@ language: "en"
 needs_review: true
 draft: false
 author: "g-n-lawande"
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx's labour theory of value is the central subject of critical analysis: Lawande systematically examines and refutes Marx's theory of surplus value, demonstrating its internal contradictions."
+    evidence:
+      - quote: Marx’s critique of capitalism is based on the idea that there is no harmony of interests as believed by classical economists.
+        context: positions Marx as the foundational socialist thinker whose theory is under examination
+      - quote: "Marx's theory of surplus-value is not the result of unbiased research."
+        context: "opening claim framing the article's thesis about Marx's method"
+    key_passages: []
+related_thinkers: 
+  - karl-marx
+
 ---
 
 Marx's theory of surplus-value is not the result of unbiased research. Marx knew what he wanted to prove. What he wanted was to unmask exploitation under capitalism but the economic development made by capitalistic countries has falsified the very basic structure of Marxism.

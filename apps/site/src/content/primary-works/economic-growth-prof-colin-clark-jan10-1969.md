@@ -7,9 +7,12 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
+  - albert-hirschman
+  - eugene-black
   - mahatma-gandhi
-  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +44,38 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "The booklet closes with Clark's personal account of a 1947 interview with Gandhi in which Gandhi diagnosed Indian poverty as a problem of idleness and defended village industry against urban concentration, providing a counterpoint to Clark's own modernisation arguments."
+    evidence:
+      - quote: "The pamphlet closes with Clark's recollection of a November 1947 interview with Mahatma Gandhi, arranged through Professor Parekunnel Thomas, at G. D. Birla's New Delhi residence."
+        context: "closing personal reminiscence framing Gandhi's alternative diagnosis of Indian poverty"
+      - quote: Gandhi diagnosed the Indian condition not as a failure of investment or industrialisation but as a problem of idleness and speculative money-lending; defended village industry, decentralisation and the spiritual life against the rush to urbanise
+        context: "Gandhi's distinctive diagnosis placed in contrast with Clark's growth framework"
+    key_passages: []
+  - thinker: albert-hirschman
+    role: mention
+    reasoning: "Clark endorses Hirschman's (Hirschmann's) argument against balanced-growth planning, using it as theoretical support for his claim that unbalanced growth with windfall profits is what actually mobilises enterprise in developing economies."
+    evidence:
+      - quote: "He endorses the view of Hagen, Streeten and Hirschmann that a policy of 'balanced growth' is mistaken and that unbalanced growth, with windfall profits in unexpected quarters, is what actually mobilises enterprise."
+        context: "Clark's endorsement of unbalanced-growth theory in Section III on conditions of economic growth"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "A. D. Shroff's epigraph frames the booklet within the Forum of Free Enterprise's classical-liberal idiom, positioning the volume as a continuation of the Forum's intellectual project that Shroff founded."
+    evidence:
+      - quote: "sidebar quotes from Eugene Black and the Forum's founder A. D. Shroff frame the volume in the Forum's classical-liberal idiom"
+        context: "editorial framing of the booklet by the Forum's founding figure"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black's quotation is used alongside A. D. Shroff's to frame the booklet within the Forum of Free Enterprise's classical-liberal tradition."
+    evidence:
+      - quote: "sidebar quotes from Eugene Black and the Forum's founder A. D. Shroff frame the volume in the Forum's classical-liberal idiom"
+        context: "editorial framing alongside Shroff's epigraph"
+    key_passages: []
+
 ---
 
 # Economic Growth

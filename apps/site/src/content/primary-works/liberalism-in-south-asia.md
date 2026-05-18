@@ -32,22 +32,14 @@ contributors:
   - role: author
     thinker: s-v-raju
     toc_index: 6
-related_thinkers:
-  - adam-smith
-  - bhimrao-ambedkar
-  - mahatma-gandhi
-  - jawaharlal-nehru
-  - periyar-e-v-ramasamy
-  - bal-gangadhar-tilak
-  - franz-oppenheimer
-  - sirimavo-bandaranaike
-  - thomas-aquinas
+related_thinkers: 
+  - alexis-de-tocqueville
+  - ashok-desai
+  - frederic-bastiat
   - john-locke
   - john-stuart-mill
-  - alexis-de-tocqueville
-  - frederic-bastiat
-  - herbert-spencer
-  - immanuel-kant
+  - sharad-joshi
+
 publication:
   language: en
   publisher_id: liberal-times
@@ -85,6 +77,54 @@ physical:
   format: periodical magazine, saddle-stitched
 missing_metadata_flags:
   - issn_not_found
+thinker_mentions:
+  - thinker: sharad-joshi
+    role: mention
+    reasoning: "Sharad Joshi's cover essay on why Indian liberalism never took firm root opens the issue, offering a sweeping historical argument tracing the dominance of Gandhism and Congress socialism over a genuine liberal politics."
+    evidence:
+      - quote: "The issue opens with Sharad Joshi's sweeping historical essay on why liberalism never took firm root in India despite a hospitable philosophical environment, arguing that the dominant intellectual traditions — from Gandhian quasi-anarchism to Congress socialism — crowded out a genuine liberal politics."
+        context: "Joshi's essay as the lead piece of the Liberal Times issue"
+      - quote: "Joshi calls for a new liberal party — tentatively referenced as 'Swatantra Bharat' — built on Maharashtrian farmers and urban self-employed workers rather than the old elite."
+        context: "Joshi's prescription in the closing pages of the essay"
+    key_passages: []
+  - thinker: ashok-desai
+    role: mention
+    reasoning: "Ashok V. Desai's essay in the same issue traces the post-independence control regime to wartime British economic management and distinguishes liberalisation (pragmatic) from liberalism (philosophically grounded), arguing India lacks the latter."
+    evidence:
+      - quote: "Ashok V. Desai's tightly argued piece follows with an analysis of how the post-independence 'control regime' was inherited from wartime British economic management and how the economic liberalisation of the 1990s, while substantively significant, proceeds without any ideological acknowledgment of liberty as a political value."
+        context: "Desai's essay as the second major piece in the Liberal Times issue"
+      - quote: "He distinguishes sharply between 'liberalisation' (the pragmatic relaxation of controls to reduce inefficiency) and 'liberal philosophy', arguing that India belongs to the post-war social-liberal tradition in which liberty is not accepted as the ultimate goal of political systems."
+        context: "Desai's central analytical distinction, with implications for India's reform trajectory"
+    key_passages: []
+  - thinker: frederic-bastiat
+    role: mention
+    reasoning: "Frédéric Bastiat is named by Detmar Doering as one of the 19th-century liberal theorists in his intellectual history of liberalism, appearing at the break point of the essay's rendered pages."
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: "Bastiat named in the genealogy of 19th-century liberal thought within Doering's intellectual history essay"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: John Stuart Mill is named by Doering as one of the major 19th-century liberal theorists in the genealogy of liberal ideas that his essay traces.
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: "Mill named in the genealogy of liberal thought in Doering's intellectual history"
+    key_passages: []
+  - thinker: alexis-de-tocqueville
+    role: mention
+    reasoning: Alexis de Tocqueville is named by Doering as a 19th-century liberal theorist in his genealogy of liberal ideas.
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: Tocqueville named in the genealogy of 19th-century liberal thought
+    key_passages: []
+  - thinker: john-locke
+    role: mention
+    reasoning: "John Locke's Two Treatises of Government is identified by Doering as the first universal rational theory of inalienable rights, a foundational moment in the liberal tradition he traces."
+    evidence:
+      - quote: "He credits John Locke's Two Treatises of Government (1689) as the first systematic rational theory of inalienable rights — life, liberty, and property."
+        context: "Locke as the inaugural figure in Doering's intellectual-history genealogy of liberalism"
+    key_passages: []
+
 ---
 
 # Liberalism in South Asia

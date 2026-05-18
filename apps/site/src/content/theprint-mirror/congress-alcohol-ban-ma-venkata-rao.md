@@ -5,11 +5,25 @@ pubDate: 2026-04-11T13:12:18
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/congress-alcohol-ban-ma-venkata-rao/2902018/"
 themes: ["alcohol-ban", "congress", "gandhian-ideology"]
-related_thinkers: ["ma-venkata-rao"]
+related_thinkers: 
+  - ma-venkata-rao
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ma-venkata-rao
+    role: subject
+    reasoning: "The article is MA Venkata Rao's essay criticising the Congress government's Prohibition Law as impractical and an infringement on individual liberty."
+    evidence: []
+    key_passages:
+      - quote: It was part of the Gandhian ideology like khadi and nonviolence to which the Congress was committed without much thought about the practical aspects of carrying out the spirit of the reform through legislation.
+        what_it_shows: "Rao's critique of Congress's ideological commitment to prohibition without practical consideration"
+      - quote: state action in this sphere of life was an intolerable infringement of personal liberty and should not be allowed in a free country.
+        what_it_shows: "Rao's libertarian objection to prohibition as state overreach"
+      - quote: People are beginning to doubt the wisdom of legislation of this kind to make men moral by law and governmental force.
+        what_it_shows: "Rao's empirical observation about prohibition's failure to command public legitimacy"
 
 ---
 

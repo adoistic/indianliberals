@@ -8,8 +8,9 @@ authors:
   - bk-nehru-cn
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +45,17 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_series_number_printed
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "B. K. Nehru traces the origins of India's command economy directly to Jawaharlal Nehru's Fabian leanings and admiration for the Soviet Union, making him the intellectual architect of the system B. K. Nehru now critiques."
+    evidence:
+      - quote: "Jawaharlal Nehru's powerful Fabian leanings and admiration for the Soviet Union"
+        context: "B. K. Nehru's genealogy of the command economy, identifying J. Nehru as a key ideological driver"
+      - quote: "He traces the system's origins to wartime controls, the 1930s fashion for socialism in British universities, Jawaharlal Nehru's Fabian and pro-Soviet leanings, and objective shortages of capital, foreign exchange, industry and entrepreneurs at Independence."
+        context: key-points recapitulation of the causal chain B. K. Nehru constructs
+    key_passages: []
+
 ---
 
 # ECONOMIC POLICY FOR INDIA IN 1980s

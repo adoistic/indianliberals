@@ -8,13 +8,9 @@ authors:
   - eric-p-w-da-costa
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - jayaprakash-narayan
-  - robert-mcnamara
-  - jawaharlal-nehru
-  - lal-bahadur-shastri
-  - indira-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +48,17 @@ physical:
   format: Pamphlet/booklet; cover printed in dark blue with FFE emblem; 16 numbered pages of text plus front matter and back matter
 missing_metadata_flags:
   - author_not_in_authority_file
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is delivered in Shroff's memory and opens by restating Shroff's twin theses — that development belongs to entrepreneurs and entrepreneurship requires freedom from state regulation — as the normative frame against which India's poverty record is measured."
+    evidence:
+      - quote: "\"A Total War on Indian Poverty\" is the text of the A. D. Shroff Memorial Lecture delivered by Eric P. W. da Costa at the Delhi Centre of the Forum of Free Enterprise"
+        context: "opening sentence; Shroff's legacy is the occasion and ideological anchor"
+      - quote: "Restates A. D. Shroff's twin theses: development is driven by individual entrepreneurs, and entrepreneurship requires societies not overwhelmed by State regulation and political power."
+        context: "key-points bullet; Shroff's philosophy is the positive benchmark against which India's record is indicted"
+    key_passages: []
+
 ---
 
 # A Total War on Indian Poverty

@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "bhimrao-ambedkar"
+thinker_mentions:
+  - thinker: k-m-munshi
+    role: mention
+    reasoning: "K.M. Munshi is cited as having referred to Ambedkar, Masani, and Hansa Mehta as 'the three idealists' in his book on the Constituent Assembly, providing external corroboration of their progressive minority position."
+    evidence:
+      - quote: Dr. K.M. Munshi refers to this in his book on the subject and describes us as the three idealists which I suppose we were.
+        context: "Munshi's characterisation of Ambedkar and Masani as idealists is cited as a source of pride"
+    key_passages: []
+related_thinkers: 
+  - k-m-munshi
+
 ---
 
 Masani had the chance to read Ambedkar’s work on Indian finance in his college days and was also examined by him. Next, they worked together in the Constituent Assembly. On the issue of Uniform Civil Code, Masani and Ambedkar were on the same page though their efforts didn’t come to fruition.

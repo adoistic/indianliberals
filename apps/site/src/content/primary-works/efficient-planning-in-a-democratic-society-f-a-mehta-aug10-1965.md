@@ -8,10 +8,11 @@ authors:
   - f-a-mehta
 editors: []
 contributors: []
-related_thinkers:
-  - adam-smith
-  - jawaharlal-nehru
+related_thinkers: 
   - b-r-shenoy
+  - m-l-dantewala
+  - ww-rowstow
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +43,31 @@ physical:
   format: "Pamphlet booklet, ~18 printed pages, single-essay FFE publication, dated 10|August|1965 on colophon"
 missing_metadata_flags:
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: "Mehta singles out Shenoy as the only eminent Indian economist consistently defending the price mechanism against the planning consensus, making him the sole domestic intellectual ally for Mehta's own liberal argument."
+    evidence:
+      - quote: "he singles out Prof. B. R. Shenoy as the lone eminent Indian economist arguing this line, with most Indian planners and businessmen having capitulated to \"the magic word\" of Planning."
+        context: Shenoy named as the sole Indian economist dissenting from the planning orthodoxy Mehta critiques
+      - quote: "including Prof. M. L. Dantwala's more equivocal acceptance."
+        context: "Dantwala's contrast used to define the space where Shenoy's dissent stands alone"
+    key_passages: []
+  - thinker: m-l-dantewala
+    role: mention
+    reasoning: "Dantwala is cited as representing the more equivocal acceptance of planning among sympathetic economists, used by Mehta to delineate the space between full capitulation and Shenoy's principled dissent."
+    evidence:
+      - quote: "including Prof. M. L. Dantwala's more equivocal acceptance."
+        context: "Dantwala placed as a middle position between the planning consensus and Shenoy's dissent"
+    key_passages: []
+  - thinker: ww-rowstow
+    role: mention
+    reasoning: Rostow is cited alongside Kuznets as providing historical evidence that rapid growth has required tolerance of inequality and disparities of outcome, used by Mehta to argue that growth and democratic equity are compatible if properly managed.
+    evidence:
+      - quote: Cites Hugh T. Patrick on Japan, B. F. Johnston on agricultural productivity, and the writings of Simon Kuznets and W. W. Rostow to show that historically rapid growth has required tolerance of inequality and disparities of outcome.
+        context: Rostow invoked as historical authority on the growth-inequality trade-off in development
+    key_passages: []
+
 ---
 
 # Efficient Planning in a Democratic Society

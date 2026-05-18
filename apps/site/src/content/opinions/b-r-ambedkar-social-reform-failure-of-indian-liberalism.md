@@ -9,6 +9,80 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "bhimrao-ambedkar"
+thinker_mentions:
+  - thinker: bhimrao-ambedkar
+    role: subject
+    reasoning: "The essay reconstructs Ambedkar's 1943 speech at the Deccan Sabha to show his nuanced engagement with liberal social reform, his critique of Indian liberalism's organisational failure, and his common ground with the liberal legacy of Ranade."
+    evidence: []
+    key_passages:
+      - quote: Bereft of any personal connection with Ranade, Ambedkar relied on the Great Man theory as propounded by Carlyle to assess him
+        what_it_shows: "frames Ambedkar's methodology in assessing Ranade's contribution to social reform"
+      - quote: Ambedkar argued that a reformer challenging established social mores is even more courageous than a political prisoner
+        what_it_shows: "Ambedkar's recognition of social reformers' unique vulnerability without political support"
+      - quote: Ambedkar himself was no liberal. That much he made clear in the speech itself. Yet, he was able to find a lot of common ground with them
+        what_it_shows: "the essay's summative assessment of Ambedkar's ideological position relative to liberalism"
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "Ranade is the focal liberal figure in Ambedkar's speech, whose social reform legacy, founding of the Social Conference, and collegial network Ambedkar evaluates in detail as the positive model for liberal gradualism."
+    evidence:
+      - quote: Delivered in 1943 at the invitation of the Deccan Sabha to commemorate the 101st birthday of the liberal leader Mahadev Govind Ranade
+        context: "the occasion and frame of Ambedkar's speech"
+      - quote: Ranade would conduct meetings, arrange missions, deliver lectures, publish articles, give interviews, write letters, establish societies, and found journals, all in pursuit of the noble cause
+        context: "Ambedkar's tribute to Ranade's tireless multi-front social reform activism"
+      - quote: Not only did Ambedkar recognize the important groundwork laid by Ranade and Phule in this regard, but he also approved of liberal gradualism as the method to bring change
+        context: "Ambedkar's endorsement of Ranade's methodology as the appropriate model for social reform"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is mentioned as one of the 'two giants' Ambedkar criticised as a sideway reference in his speech, illustrating the breadth of Ambedkar's critique beyond just liberal failings."
+    evidence:
+      - quote: "Ambedkar's embittered take on both Gandhi and Jinnah as a sideway reference in the speech opened him to criticism in the Indian press"
+        context: "contextualising the controversial aspect of Ambedkar's speech that attracted press attention"
+    key_passages: []
+  - thinker: bal-gangadhar-tilak
+    role: mention
+    reasoning: Tilak is mentioned as a modernist politician who opposed social reforms by prioritising self-rule, representing the strand of conservative opposition that liberal reformers like Ranade faced in the western provinces.
+    evidence:
+      - quote: opposition to social reforms came from modernist politicians like Tilak who prioritized self-rule and thus opposed any colonial state intervention in local customs
+        context: "Ambedkar's taxonomy of the two strands of conservative opposition to social reform"
+    key_passages: []
+  - thinker: ishwar-chandra-vidyasagar
+    role: mention
+    reasoning: Vidyasagar is cited alongside Raja Rammohan Roy and Henry Derozio as a Bengal liberal-minded reformer who faced opposition from conservative forces just as Ranade did in the western provinces.
+    evidence:
+      - quote: In Bengal province, things were no different for liberal-minded reformers like Raja Rammohan Roy, Ishwar Chandra Vidyasagar, and Henry Derozio
+        context: parallel cases of liberal reformers facing conservative backlash across regions
+    key_passages: []
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: Raja Rammohan Roy is named as a Bengal liberal reformer who, like Ranade in the west, faced opposition from conservative institutions in his own region.
+    evidence:
+      - quote: In Bengal province, things were no different for liberal-minded reformers like Raja Rammohan Roy, Ishwar Chandra Vidyasagar, and Henry Derozio
+        context: cross-regional comparison of liberal reformers resisting conservative opposition
+    key_passages: []
+  - thinker: henry-louis-vivian-derozio
+    role: mention
+    reasoning: Henry Derozio is listed as one of the Bengal liberal reformers who faced conservative opposition, situating him in the same reformist tradition as Ranade and Ambedkar.
+    evidence:
+      - quote: In Bengal province, things were no different for liberal-minded reformers like Raja Rammohan Roy, Ishwar Chandra Vidyasagar, and Henry Derozio
+        context: regional parallel cases of liberal reformers facing orthodox backlash
+    key_passages: []
+  - thinker: jyotirao-phule
+    role: mention
+    reasoning: Jyotirao Phule is acknowledged by Ambedkar alongside Ranade as having laid important groundwork for social reform that Ambedkar himself approved of.
+    evidence:
+      - quote: Not only did Ambedkar recognize the important groundwork laid by Ranade and Phule in this regard, but he also approved of liberal gradualism as the method to bring change
+        context: "Ambedkar's appreciation of Phule's contribution to the social reform project"
+    key_passages: []
+related_thinkers: 
+  - bal-gangadhar-tilak
+  - henry-louis-vivian-derozio
+  - ishwar-chandra-vidyasagar
+  - jyotirao-phule
+  - mahadev-govind-ranade
+  - mahatma-gandhi
+  - raja-ram-mohan-roy
+
 ---
 
 _Ambedkar argued, that the leading liberal figure reposed his faith in Congress, effectively paving way for a single party hegemony. Thus the collapse of the Liberal party was ‘really a disaster to the country’ because ‘the rule of a single party is fatal to Popular Government.’_India’s anti-imperial struggle against British colonialism constituted of many voices of the nation. Given the sheer geographical and social diversity of India, it only made sense that the national political aspirations took different expressions. Some forms of activism went beyond a narrow political demand for self-rule to fashion a broader conception of freedom and dignity. Prominent strands along this line consisted of moderate liberals and radical Dalit leaders. Differing in their modus operandi and view of the role of state, both constitutionalist liberals and subaltern leaders recognized the need to reform Indian society from inside to enable a ‘true’ sense of freedom for Indians. These two largely marginalized visions of nation overshadowed by the big tent Congress nationalism were brought in conversation in a speech by Bhimrao Ambedkar.

@@ -9,6 +9,52 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "hriday-nath-kunzru"
+thinker_mentions:
+  - thinker: hriday-nath-kunzru
+    role: subject
+    reasoning: The essay profiles Hriday Nath Kunzru as an overlooked liberal institution-builder whose contributions to parliamentary democracy, civil society, and international studies institutions embodied liberal values of intellectual freedom and limited government.
+    evidence: []
+    key_passages:
+      - quote: "if the public cannot support the institution, I would prefer it to be closed down, rather than go to the government for help!"
+        what_it_shows: captures his core liberal conviction that civil society institutions must remain independent of state funding
+      - quote: Kunzru argued that the best government was the one that governed the least
+        what_it_shows: his foundational liberal political principle of minimal government in favour of citizen freedom
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is mentioned as the founding leader of the Servants of India Society whom Kunzru requested to join in 1908, establishing Kunzru's entry into liberal public life through Gokhale's organisation."
+    evidence:
+      - quote: His illustrious career began with his request to join the Servants of India Society when Gopal Krishna Gokhale visited Allahabad in 1908
+        context: Gokhale as the gateway through which Kunzru entered the liberal public sphere
+      - quote: "Gokhale sent him to the London School of Economics on the behest of Gandhi's friend Sheldon Pollack"
+        context: "Gokhale's patronage enabling Kunzru's international education"
+    key_passages: []
+  - thinker: v-s-srinivasa-sastri
+    role: mention
+    reasoning: V.S. Srinivasa Sastri is named as one of the liberal figures with whom Kunzru joined the Indian National Liberal Federation after the 1918 liberal split from Congress.
+    evidence:
+      - quote: He would go on to join the Indian National Liberal Federation along with Tej Bahadur Sapru, V S Srinivasa Sastri and C Y Chintamani
+        context: "Kunzru's association with key liberal figures in the Liberal Federation"
+    key_passages: []
+  - thinker: c-y-chintamani
+    role: mention
+    reasoning: C.Y. Chintamani is named as one of the liberal colleagues with whom Kunzru formed the Indian National Liberal Federation in 1918.
+    evidence:
+      - quote: He would go on to join the Indian National Liberal Federation along with Tej Bahadur Sapru, V S Srinivasa Sastri and C Y Chintamani
+        context: "listing Chintamani among Kunzru's liberal federation associates"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's support for the Indian School of International Studies and his interest in producing foreign policy scholars is cited as an instance of state patronage that helped Kunzru's institution-building project."
+    evidence:
+      - quote: The project also had the support of Pandit Nehru who sought foreign policy scholars to steer India in international affairs
+        context: "Nehru's backing for Kunzru's ISIS project as an area where liberal institution-building and state interest converged"
+    key_passages: []
+related_thinkers: 
+  - c-y-chintamani
+  - gopal-krishna-gokhale
+  - jawaharlal-nehru
+  - v-s-srinivasa-sastri
+
 ---
 
 The trajectory of liberal nationalism in colonial India is characterized by an early prominence followed by a steady marginalization in the nationalist discourse. The moderate phase of the Indian National Congress reflects a strong liberal tradition which is also well-recognized.

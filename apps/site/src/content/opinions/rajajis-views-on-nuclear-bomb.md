@@ -9,6 +9,35 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "rajaji"
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: subject
+    reasoning: "The article is entirely about Rajaji's internationalist views on the nuclear arms race, drawing on his columns in Swarajya and his anti-nuclear activism during the Cold War."
+    evidence: []
+    key_passages:
+      - quote: he was deeply concerned about the possible radioactive fallout of nuclear testings and saw with derision the mad specter of nuclear brinkmanship between the two superpowers.
+        what_it_shows: "captures Rajaji's core anxiety about the nuclear arms race"
+      - quote: A trusted lieutenant of Gandhi in days of anti-colonial struggle, he reinvented himself as an anti-nuclear weapons activist as the Cold war picked pace.
+        what_it_shows: "frames Rajaji's intellectual reinvention as an anti-nuclear voice"
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is invoked as Rajaji's political patron during the nationalist struggle, contextualising his later reinvention as an anti-nuclear activist."
+    evidence:
+      - quote: A trusted lieutenant of Gandhi in days of anti-colonial struggle, he reinvented himself as an anti-nuclear weapons activist as the Cold war picked pace.
+        context: "establishes Gandhi as the political anchor of Rajaji's pre-Cold War career"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's internationalist vision is cited as the better-known comparator against which Rajaji's forgotten anti-nuclear activism is being recovered."
+    evidence:
+      - quote: While the internationalist vision of Nehru and his advocacy of non-alignment is well-recognized and deservedly so, the same is not the case with his comrade-turned-opponent C Rajagopalachari
+        context: "sets up Nehru's recognized internationalism as a foil for Rajaji's neglected anti-nuclear stance"
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - jawaharlal-nehru
+  - mahatma-gandhi
+
 ---
 
 _Rajaji’s September 1962 meeting with US President Kennedy. Credit: Abbie Rowe. White House Photographs. John F. Kennedy Presidential Library and Museum, Boston._As the onset of the Indian republic coincided with the postwar bipolar order of superpower rivalry, Indian politicians with an active interest in international politics intervened vigorously in the debates about global order, world government, great power politics, and the nuclear arms race. While the internationalist vision of Nehru and his advocacy of non-alignment is well-recognized and deservedly so, the same is not the case with his comrade-turned-opponent C Rajagopalachari, also known as Rajaji. In a bid to uncover the forgotten internationalist vision of Rajaji, this article would focus on his take on the nuclear arms race unfolding between the US and USSR in the initial phase of the Cold war.

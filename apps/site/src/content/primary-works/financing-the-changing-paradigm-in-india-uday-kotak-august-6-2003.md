@@ -8,9 +8,9 @@ authors:
   - uday-kotak
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - deepak-parekh
+
 publication:
   language: en
   publisher_name: Published by THE A.D. SHROFF MEMORIAL TRUST, Peninsula House, 235, Dr. D. N. Road, Mumbai-400 001.
@@ -42,6 +42,15 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Kotak frames his lecture as a tribute to and update of A. D. Shroff's classic analysis of industrial finance, arguing that where Shroff defended institutional compartments, the new paradigm shows those compartments dissolving."
+    evidence:
+      - quote: Delivered as the A. D. Shroff Memorial Lecture on 11 February 2003 and published as a booklet that August
+        context: "Shroff named as the honoree of the memorial lecture that Kotak's address updates"
+    key_passages: []
+
 ---
 
 # FINANCING - THE CHANGING PARADIGM IN INDIA

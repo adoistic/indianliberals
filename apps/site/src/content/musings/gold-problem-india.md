@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: "Shenoy is named as one of the four authors of the Forum of Free Enterprise's 1963 booklet on the gold problem, and is specifically identified as an academic authority on the subject in his role at Gujarat University."
+    evidence:
+      - quote: Prof. B. R. Shenoy, Director of the School of Social Sciences, Gujarat University, an authority on the gold problem
+        context: "Shenoy is introduced as the academic voice among the booklet's four co-authors"
+    key_passages: []
+  - thinker: ma-sreenivasan
+    role: mention
+    reasoning: "Sreenivasan is listed as a co-author of the Forum's gold-problem booklet, identified as an eminent industrialist and former chairman of the Kolar Gold Mines, lending practical business expertise to the collection."
+    evidence:
+      - quote: Mr. M. A. Sreenivasan, eminent industrialist who was formerly the Chairman of the Kolar Gold Mines
+        context: "Sreenivasan is one of the booklet's four co-authors, representing the industrialist perspective on India's gold problem"
+    key_passages: []
+  - thinker: phiroze-j-shroff
+    role: mention
+    reasoning: "Phiroze J. Shroff is named as one of the four co-authors of the Forum's 1963 gold-problem booklet, described as a well-known economist and constitutional-law authority contributing the legal-economic dimension to the collection."
+    evidence:
+      - quote: Mr. Phiroze J. Shroff, well-known economist and an authority on constitutional law.
+        context: "Phiroze Shroff is the legal-economic voice among the booklet's co-authors"
+    key_passages: []
+related_thinkers: 
+  - b-r-shenoy
+  - ma-sreenivasan
+  - phiroze-j-shroff
+
 ---
 
 The gold problem in India, if there is such a problem at all, has been the subject of intensive public debate and discussion in recent days.

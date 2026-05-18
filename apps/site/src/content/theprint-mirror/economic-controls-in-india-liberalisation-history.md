@@ -5,11 +5,33 @@ pubDate: 2025-12-13T09:04:09
 author_name: "Ashok Desai"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/economic-controls-in-india-liberalisation-history/2804705/"
 themes: ["1991-reforms", "liberalism"]
-related_thinkers: ["ashok-desai"]
+related_thinkers: 
+  - ashok-desai
+  - jagdish-bhagwati
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ashok-desai
+    role: subject
+    reasoning: "The article is Ashok Desai's essay on the history of economic controls in India and the philosophical gap between economic liberalisation and liberal philosophy."
+    evidence: []
+    key_passages:
+      - quote: A shame-faced modesty pervades 1991 reforms. This is strange and inappropriate.
+        what_it_shows: "Desai's central provocation — why do reformers fail to celebrate liberalisation?"
+      - quote: The bouts of relaxation of controls were termed liberalisation episodes by Bhagwati and Srinivasan, and so they were in a sense. In every episode certain controls – mainly industrial licensing and import licensing – were relaxed. But liberalisation had a practical aim, namely to reduce systemic inefficiency to sustainable levels. There was economic liberalisation, but there was no liberal philosophy behind it.
+        what_it_shows: "Desai's key analytical distinction between practical deregulation and principled liberal philosophy"
+      - quote: "The idea that the consumer is sovereign, that it is in the consumer's interest that all enterprises, Indian and foreign, small and large, private and public, should compete in a level playing field, is still very foreign to India."
+        what_it_shows: "Desai's diagnosis of why economic liberalism remains incomplete in India"
+  - thinker: jagdish-bhagwati
+    role: mention
+    reasoning: "Bhagwati and Srinivasan are credited with coining the term 'liberalisation episodes' to describe India's pre-1991 piecemeal deregulation — a concept central to Desai's analysis."
+    evidence:
+      - quote: The bouts of relaxation of controls were termed liberalisation episodes by Bhagwati and Srinivasan
+        context: "credits Bhagwati as co-originator of the 'liberalisation episodes' analytical framework"
+    key_passages: []
 
 ---
 

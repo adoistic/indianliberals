@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: shivaji
+    role: mention
+    reasoning: Shivaji is discussed as a historical figure whose legacy is invoked — and distorted — by political actors seeking to suppress artistic expression, illustrating how heritage can be weaponised against free speech.
+    evidence:
+      - quote: Shivaji Bhosle (1630-1680), the Maratha Emperor with the royal title Chhatrapati Shivaji Maharaj, fought for the freedom of the Maratha nation from Sultanate of Bijapur.
+        context: "Shivaji's historical identity is introduced to contextualise the political misuse of his legacy to justify censorship and communal violence"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Indira Gandhi is named as the PM whose assassination resulted from the very communal polarisation created by political manipulation of identity, illustrating the self-destructive logic the essay critiques.
+    evidence:
+      - quote: resulting into the assassination of Prime Minister Indira Gandhi and killing of thousands of people of all faiths.
+        context: "Indira Gandhi's assassination is cited as the tragic consequence of the state's manipulation of religious identity for political advantage"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+  - shivaji
+
 ---
 
 _The following essay is part of a 2012 booklet published by The Liberty Institute, New Delhi, in partnership with the Friedrich Naumann Foundation for Freedom. The booklet was title **[At Liberty: Freedom to Express and Offend.](https://indianliberals.in/content/at-liberty-freedom-to-express-and-offend/)** Authored by Ravi Shanker Kapoor, the essay challenges the perceived validity of public outrage (and political support for the same) and bans on artistic expression.  _In India, as also in other countries, often demands are made for ban on movies, paintings, books, songs, or other creative works. The demands are accompanied with overt and covert threats - ban it, or else... Apparently sound arguments are made in favor of capitulation. After all, it is just a movie, song, or book; why hurt the sentiments of somebody or some group; why risk peace and amity in society; why should the law and order situation be allowed to worsen just because some Johnny thinks that his creation is a great piece of art; at any rate, human lives are more important than art. Governments face the question: should the demand be accepted? 

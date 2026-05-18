@@ -8,10 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - friedrich-hayek
   - winston-churchill
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +43,26 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_series_number_printed
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Shroff invokes Hayek's Road to Serfdom to frame economic control as the control of the means for all human ends — making Hayek's warning the philosophical premise for the entire critique of India's planning apparatus."
+    evidence:
+      - quote: "Shroff invokes Hayek's warning that economic control is the control of the means for all our ends"
+        context: "Hayek's formula is deployed as the foundational theoretical frame for the critique of India's Second Plan controls"
+      - quote: "He cites Hayek's Road to Serfdom to frame economic control as control of the means for all human ends, not merely one sector"
+        context: "Hayek's Road to Serfdom is the intellectual anchor of Shroff's anti-planning argument"
+    key_passages: []
+  - thinker: winston-churchill
+    role: mention
+    reasoning: Shroff quotes Churchill on the corrosion of respect for law as an authoritative warning that controls inevitably create black markets and undermine the rule of law.
+    evidence:
+      - quote: reliably generate black markets — a point he reinforces by quoting Winston Churchill
+        context: Churchill is cited as a political authority on the self-defeating nature of peacetime economic controls
+      - quote: Controls inevitably create black markets (quoting Churchill on the corrosion of respect for law)
+        context: "Churchill's observation is used to illustrate how controls breed lawlessness"
+    key_passages: []
+
 ---
 
 # CONTROLS IN A PLANNED ECONOMY

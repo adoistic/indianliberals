@@ -8,6 +8,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "nani-palkhivala"
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Palkhivala quotes Nehru's 1964 assurance against bank nationalisation as a baseline against which subsequent ministerial actions become a betrayal — using the Prime Minister's own words to expose the incoherence of government policy."
+    evidence:
+      - quote: "Prime Minister Nehru assured the public that \"there was no immediate question of bank nationalisation.\""
+        context: "Nehru's assurance is the baseline against which Palkhivala measures the subsequent ministerial contradictions"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: TTK is quoted on bank nationalisation as one of the ministers whose public pronouncements Palkhivala cites to demonstrate the incoherent and destabilising policy signals that erode investor confidence in Indian socialism.
+    evidence:
+      - quote: "Mr. T. T. Krishnamachari announced that \"nationalisation should be the last step in any effort to control banks.\""
+        context: "TTK's assurance against premature nationalisation is one of several ministerial statements Palkhivala marshals to show policy incoherence"
+    key_passages: []
+  - thinker: ashok-mehta
+    role: mention
+    reasoning: "Palkhivala criticises Asoka Mehta's university convocation address as an inappropriately political vehicle for sweeping economic pronouncements, using it to argue that ministerial loose talk damages public confidence and investor morale."
+    evidence:
+      - quote: "Mr. Asoka Mehta's convocation address to Saugor University, described as \"his first major speech after joining the Central Cabinet,\" contained such sweeping pronouncements of economic policies"
+        context: "Mehta's convocation speech is Palkhivala's prime example of how ministerial irresponsibility in public statements corrodes economic confidence"
+    key_passages: []
+related_thinkers: 
+  - ashok-mehta
+  - jawaharlal-nehru
+  - t-t-krishnamachari
+
 ---
 
 The following text is taken from a booklet published by [Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/is-socialism-outdated-n-a-palkhivala-mar10-1966.pdf) published on March 10, 1966. The first article, ‘The Shells of Socialism’ was authored by Nani A Palkhivala. It addresses the policies proposed by the then Union Minister for Planning. 

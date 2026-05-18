@@ -7,6 +7,19 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: sharad-anantrao-joshi
+    role: mention
+    reasoning: "Sharad Anantrao Joshi is identified as the founder and driving force of the Shetkari Sanghatana farmers' movement in Maharashtra, which is the primary subject of this historical account."
+    evidence:
+      - quote: The following musing is an excerpt from a booklet titled ‘Visionaries of a New Bharat – Shetkari Sanghathana’ which traces the evolution, the ideology, and the vision of the Shetkari Sanghatana, a farmer’s movement spearheaded by Sharad Anantrao Joshi
+        context: "introductory attribution naming Joshi as the movement's founder"
+      - quote: The SS was kick-started in the late 1970s by Sharad Joshi.
+        context: names Joshi directly as the person who launched the Shetkari Sanghatana
+    key_passages: []
+related_thinkers: 
+  - sharad-anantrao-joshi
+
 ---
 
 _The farmers’ movement in India is as old as time itself. Throughout our independent history, there have been numerous struggles and demands for reforms by Indian farmers against all dispensations. The demand for reforming the agricultural sector, giving access to open markets and de-regulating the economic freedom of farmers has been time and again raised in the past decades._

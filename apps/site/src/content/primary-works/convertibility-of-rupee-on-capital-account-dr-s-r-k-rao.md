@@ -8,10 +8,9 @@ authors:
   - s-r-k-rao
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
-  - eugene-black
-  - m-r-pai
+related_thinkers: 
+  - y-v-reddy
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +41,15 @@ physical:
   format: Pamphlet / booklet — Forum of Free Enterprise publication, colophon dated 14/Oct./1997
 missing_metadata_flags:
   - no_formal_toc
+thinker_mentions:
+  - thinker: y-v-reddy
+    role: mention
+    reasoning: Y.V. Reddy, as RBI Deputy Governor, is cited for an empirical rebuttal of the fear that capital account convertibility will trigger capital flight, lending official RBI authority to the pro-CAC argument.
+    evidence:
+      - quote: "cites Deputy Governor Y.V. Reddy's empirical rebuttal and former Governor S. Venkitaramanan's claim that the rupee is already three-fourths convertible"
+        context: "Reddy's empirical work is invoked to counter the capital-flight objection to convertibility"
+    key_passages: []
+
 ---
 
 # Convertibility of Rupee on Capital Account

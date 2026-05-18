@@ -8,6 +8,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Nehru is cited as the leader around whom Gandhi proposed one of two new parties after Independence; Masani uses this to illustrate the failure of Indian politics to develop a healthy opposition culture.
+    evidence:
+      - quote: two parties be formed – a radical one under Jawaharlal Nehru, a conservative one under Vallabhbhai Patel. Both sides rejected the advice because both wanted to be in office at the same time
+        context: "Gandhi's rejected proposal for post-Independence politics, used to diagnose the decay in Indian democracy"
+    key_passages: []
+  - thinker: sardar-patel
+    role: mention
+    reasoning: "Vallabhbhai Patel is invoked alongside Nehru in Gandhi's unrealised proposal to form two rival parties, illustrating the failure of Indian leaders to embrace opposition politics."
+    evidence:
+      - quote: a radical one under Jawaharlal Nehru, a conservative one under Vallabhbhai Patel. Both sides rejected the advice because both wanted to be in office at the same time
+        context: Patel as co-protagonist in the missed opportunity for healthy two-party democracy
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - sardar-patel
+
 ---
 
 As the recent wave of youth-led protests surge across the country, Indian civil society seems to have come of age in demanding accountability from the government. Political scientists and keen observers have often deplored the mere procedural nature of Indian democracy where democratic participation amounts to the ritual of voting. However, recent mass mobilisations, mostly in urban areas, herald an active civil society, practicing “everyday democracy” in streets. Most notably, the protests are concerned with state coercion and citizenship rights.

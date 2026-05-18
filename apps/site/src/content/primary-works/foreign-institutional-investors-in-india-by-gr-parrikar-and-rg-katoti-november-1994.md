@@ -8,10 +8,10 @@ authors:
   - r-g-katoti
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - manmohan-singh
   - nani-palkhivala
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +45,22 @@ missing_metadata_flags:
   - no_copyright_page_in_chunk
   - series_number_not_visible
   - theme_vocabulary_not_supplied_in_prompt
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala's argument for a cap on FII investments is cited as a credentialed liberal voice of caution within the authors' broadly optimistic survey of the FII opening."
+    evidence:
+      - quote: as N. A. Palkhivala has argued, a cap on FII investments may be desirable
+        context: Palkhivala invoked as a liberal authority on the prudential limits of FII liberalisation
+    key_passages: []
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: "Manmohan Singh's 1992-93 budget speech is identified as the founding document of India's FII policy, making him the minister whose pledge initiated the capital market opening the authors survey."
+    evidence:
+      - quote: "situating the move within Finance Minister Manmohan Singh's 1992-93 budget pledge to admit reputable foreign investors such as pension funds"
+        context: "Singh's budget pledge identified as the policy origin of India's FII regime"
+    key_passages: []
+
 ---
 
 # FOREIGN INSTITUTIONAL INVESTORS IN INDIA

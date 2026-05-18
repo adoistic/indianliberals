@@ -9,6 +9,38 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "ishwar-chandra-vidyasagar"
+thinker_mentions:
+  - thinker: ishwar-chandra-vidyasagar
+    role: subject
+    reasoning: "The article is a full analytical profile of Vidyasagar's liberal humanism, his reform campaigns for widow remarriage and women's education, and his place in Indian modernity."
+    evidence: []
+    key_passages:
+      - quote: "Ishwar Chandra Vidyasagar's many roles as an educationist, writer, social reformer, and feminist have rightly earned him the credential of being one of the early progenitors of Indian modernity."
+        what_it_shows: "establishes Vidyasagar's comprehensive importance to Indian liberalism"
+      - quote: Yet this Sanskrit scholar battled to end child marriage and high-caste polygamy, and to enable Hindu widows to re-marry.
+        what_it_shows: captures the paradox of a Sanskrit scholar championing liberal reform
+      - quote: "The poet-saint Rabindranath Tagore's pithy tribute accurately captures the stature of Vidyasagar: \"One wonders how God, in the process of producing forty million Bengalis, produced a man!\""
+        what_it_shows: "Tagore's tribute as the culminating assessment of Vidyasagar's singular genius"
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: Raja Ram Mohan Roy is compared to Vidyasagar as the other great Bengali reformer, with the article underlining an important distinction between their respective approaches to religion.
+    evidence:
+      - quote: While it may be tempting to compare Vidyasagar with the great Bengali reformer and Father of Modern India, Raja Ram Mohan Roy, author Subrata Dasgupta underlines an important distinction between the two.
+        context: "Roy invoked as the obvious comparison point to Vidyasagar's intellectual stature"
+      - quote: "The Raja's worldview was always theocentric, rooted in his propagation of Vedanta and close study of Christian monotheism."
+        context: identifies the key philosophical difference between Roy and Vidyasagar
+    key_passages: []
+  - thinker: rabindranath-tagore
+    role: mention
+    reasoning: "Tagore provides the closing tribute to Vidyasagar — his famous quote is used as the culminating assessment of Vidyasagar's singularity."
+    evidence:
+      - quote: "The poet-saint Rabindranath Tagore's pithy tribute accurately captures the stature of Vidyasagar: \"One wonders how God, in the process of producing forty million Bengalis, produced a man!\""
+        context: "Tagore's tribute serves as the article's closing judgment on Vidyasagar's greatness"
+    key_passages: []
+related_thinkers: 
+  - rabindranath-tagore
+  - raja-ram-mohan-roy
+
 ---
 
 _An undeniable pioneer of Indian liberalism and modernity, Ishwar Chandra Vidyasagar  was a social reformer, writer, educationist, and feminist. His reformist legacy is rooted in his efforts to end child marriage and high-caste polygamy, and enable widow remarriage.    _Ishwar Chandra Vidyasagar’s many roles as an educationist, writer, social reformer, and feminist have rightly earned him the credential of being one of the early progenitors of Indian modernity. Underlying all these credentials of Vidyasagar, however, was his own brand of liberal humanism. While the modernising metropolitan West is considered to be the fertile ground for [liberal humanism](https://books.google.co.in/books?id=dWYyCwAAQBAJ&lpg=PA247&vq=liberal%20humanism&pg=PA247#v=snippet&q=liberal%20humanism&f=false) and indeed the colonizing mission brought these [newfound influences](https://www.cambridge.org/core/books/recovering-liberties/DFFAC6CCD37E1844C0425E6B8866E443) to the periphery of Indian society, Vidyasagar essentially embodied [practical humanism](https://books.google.co.in/books?id=QqtVC-IUu2QC&lpg=PT117&vq=practical%20humanism&pg=PT117#v=snippet&q=practical%20humanism&f=false).

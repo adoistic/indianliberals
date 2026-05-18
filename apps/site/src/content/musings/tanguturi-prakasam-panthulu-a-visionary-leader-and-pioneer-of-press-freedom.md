@@ -8,6 +8,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "tanguturi-prakasam"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is invoked as the inspiration who prompted Prakasam to renounce law and join the independence movement, making Gandhi the direct catalyst for Prakasam's activist transformation."
+    evidence:
+      - quote: Inspired by Mahatma Gandhi, he renounced his profession as an advocate and got wholly involved in politics.
+        context: "Gandhi's influence identified as the turning point in Prakasam's career"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajagopalachari is named as the patron who supported Khasa Subbarao in reviving the Swarajya magazine to carry forward Prakasam's journalistic legacy."
+    evidence:
+      - quote: "Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it \"Swarajya\" magazine"
+        context: "Rajagopalachari cited as the institutional patron who enabled continuation of Prakasam's journalistic tradition"
+    key_passages: []
+  - thinker: khasa-subba-rau
+    role: mention
+    reasoning: "Khasa Subba Rau is named as the person who revived the Swarajya magazine under Rajagopalachari's patronage, continuing Prakasam's journalistic legacy."
+    evidence:
+      - quote: "Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it \"Swarajya\" magazine, carrying forward the legacy of Tanguturi Prakasam."
+        context: Khasa Subba Rau identified as the continuator of the Swarajya tradition
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - khasa-subba-rau
+  - mahatma-gandhi
+
 ---
 
 _Tanguturi Prakasam was the first Chief Minister of Andhra Pradesh. He was a visionary leader and able administrator. His dynamic personality earned him a lasting reputation in the hearts of the Telugu people. He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people._

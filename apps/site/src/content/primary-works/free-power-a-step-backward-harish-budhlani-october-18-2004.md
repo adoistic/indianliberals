@@ -8,9 +8,10 @@ authors:
   - harish-budhlani
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - sharad-joshi
   - sharad-pawar
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +42,22 @@ physical:
   format: Saddle-stitched booklet, blue/white cover with FFE logo; printed by S. V. Limaye at India Printing Works, Mumbai
 missing_metadata_flags:
   - series_number_not_printed
+thinker_mentions:
+  - thinker: sharad-joshi
+    role: mention
+    reasoning: "Sharad Joshi, described as Shetkari Sanghatana's senior leader, is cited as a farmers' voice opposing the free-power decision on the grounds that farmers want reliable power at a reasonable price, not charity."
+    evidence:
+      - quote: "cites Shetkari Sanghatana's senior leader Sharad Joshi (referred to as 'Kamgar Paksh') as a farmers' voice opposing the free-power decision"
+        context: "Joshi invoked to show that the free-power demand does not represent farmers' genuine interests"
+    key_passages: []
+  - thinker: sharad-pawar
+    role: mention
+    reasoning: "Union Agriculture Minister Sharad Pawar is cited for his statement that farmers want reliable power at a reasonable price rather than free power, directly supporting Budhlani's distributional critique."
+    evidence:
+      - quote: "Author cites Union Agriculture Minister Sharad Pawar — and Shetkari Sanghatana's senior leadership — for the position that farmers want reliable, affordable power, not free and charitable power."
+        context: "Pawar's own position is used as political cover for the pamphlet's anti-populist argument"
+    key_passages: []
+
 ---
 
 # FREE POWER A Step Backward!

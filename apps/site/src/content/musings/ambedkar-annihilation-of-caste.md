@@ -8,6 +8,9 @@ language: "en"
 needs_review: true
 draft: false
 author: "bhimrao-ambedkar"
+thinker_mentions: []
+related_thinkers: []
+
 ---
 
 Following is an excerpt by B.R. Ambedkar's undelivered speech, written in 1936, _Annihilation of Caste. _In this excerpt, Ambedkar outlines how caste destroys individual liberties and societal growth. He goes on to explain how liberty, equality, and fraternity are crucial for freeing Indians from the shackles of the Caste System.The assertion by the individual of his own opinions and beliefs, his own independence and interest — as over against group standards, group authority, and group interests—is the beginning of all reform. But whether the reform will continue depends upon what scope the group affords for such individual assertion. If the group is tolerant and fair-minded in dealing with such individuals, they will continue to assert, and in the end will succeed in converting their fellows. On the other hand, if the group is intolerant, and does not bother about the means it adopts to stifle such individuals, they will perish and the reform will die out.

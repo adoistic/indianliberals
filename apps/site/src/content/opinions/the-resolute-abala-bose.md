@@ -9,6 +9,32 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "lady-abala-bose"
+thinker_mentions:
+  - thinker: lady-abala-bose
+    role: subject
+    reasoning: "The article is a full profile of Lady Abala Bose's contributions as educationist, suffragist, and philanthropist for women's emancipation in colonial India."
+    evidence: []
+    key_passages:
+      - quote: Abala Bose (1865-1951) was born to Brahmo reformer Durga Mohan Das and Brahmamoyee Debi.
+        what_it_shows: establishes her family background and reformist lineage
+  - thinker: sarojini-naidu
+    role: mention
+    reasoning: Sarojini Naidu is listed as a fellow suffragist in the delegation that met Edwin Montagu during the Montagu-Chelmsford negotiations, alongside Abala Bose and others.
+    evidence:
+      - quote: The delegation, which included suffragists such as Sarojini Naidu, Margaret Cousins, Ramabai Ranade, and Dorothy Jinarajadasa, contributed to women in India being first granted the right to vote in 1921, in Madras.
+        context: names Naidu as a fellow suffragist in the key franchise advocacy delegation
+    key_passages: []
+  - thinker: ramabai-ranade
+    role: mention
+    reasoning: "Ramabai Ranade is named as a fellow member of the suffragist delegation that secured women's franchise rights in the Montagu-Chelmsford negotiations."
+    evidence:
+      - quote: The delegation, which included suffragists such as Sarojini Naidu, Margaret Cousins, Ramabai Ranade, and Dorothy Jinarajadasa, contributed to women in India being first granted the right to vote in 1921, in Madras.
+        context: identifies Ramabai Ranade as a fellow suffragist in the key franchise delegation
+    key_passages: []
+related_thinkers: 
+  - ramabai-ranade
+  - sarojini-naidu
+
 ---
 
 The following essay celebrates Ambala Bose's remarkable contributions as an educationist, suffragist and philanthropist. She used her education, liberal upbringing and privileges to uplift the status of marginalised sections, largely focused on changing the peripheral role women played in Indian society at the time.There is a tendency of reducing women to their relationships with men who have achieved great feats. Lady Abala Bose too has been treated no differently by history. She spent her life working on the education, emancipation, and independence of women, and it is imperative that we remember her monumental contributions.

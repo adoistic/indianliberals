@@ -7,10 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - milton-friedman
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,6 +39,17 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
   format: Pamphlet / booklet, FFE Bhogilal Leherchand Memorial Lecture series
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: Godrej explicitly rejects the narrow shareholder-wealth definition associated with Milton Friedman, using Friedman as the named foil against which to define his own broader stakeholder-centred conception of corporate governance.
+    evidence:
+      - quote: Godrej rejects the narrow shareholder-wealth definition associated with Milton Friedman
+        context: "Friedman's shareholder-primacy doctrine is the position Godrej argues against in defining his own governance philosophy"
+      - quote: "Godrej rejects Milton Friedman's narrow shareholder-wealth definition and proposes his own: governance is efficient supervision that protects the long-term interests of the company"
+        context: "Friedman is invoked as the canonical counter-position to Godrej's stakeholder model"
+    key_passages: []
+
 ---
 
 # Corporate Governance

@@ -5,11 +5,23 @@ pubDate: 2025-08-09T10:47:29
 author_name: "Phiroze J Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff/2717568/"
 themes: ["bank-nationalisation", "free-market", "indian-liberals-matter", "nationalisation-of-banks"]
-related_thinkers: ["phiroze-j-shroff"]
+related_thinkers: 
+  - phiroze-j-shroff
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: phiroze-j-shroff
+    role: subject
+    reasoning: "The article is Phiroze J Shroff's essay arguing against bank nationalisation and defending the mixed economy against the totalitarian drift of state ownership."
+    evidence: []
+    key_passages:
+      - quote: Ninety-five per cent of bank advances in India are secured loans. The corresponding figures for the USA, is only thirty per cent.
+        what_it_shows: "Shroff's use of comparative data to defend Indian banking's conservative lending record"
+      - quote: The primary function of banks is to mobilise resources for economic development and that is exactly what the banks in our country have been doing.
+        what_it_shows: "Shroff's core counter-argument: banks are already fulfilling the function nationalisation claims to serve"
 
 ---
 

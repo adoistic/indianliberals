@@ -8,7 +8,9 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +48,19 @@ missing_metadata_flags:
   - no_toc
   - no_isbn
   - no_series_number_printed
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "The pamphlet reproduces A. D. Shroff's address at the first press conference of the Forum of Free Enterprise on July 25, 1956, setting out his core vision for free enterprise in a democratic India."
+    evidence: []
+    key_passages:
+      - quote: the group is an ad hoc body with no written constitution, formed by observers who felt it was time to articulate publicly what Free Enterprise means in India, what it has already achieved, and what it can still do for the country
+        what_it_shows: "Shroff's founding rationale: the Forum as an educative, non-partisan body"
+      - quote: State Trading is singled out as the most sinister encroachment on Free Enterprise, threatening to strip millions of small people of the right to choose their own way of living
+        what_it_shows: "identifies State Trading as the Forum's primary economic target"
+      - quote: the greatest Welfare State on earth is the United States of America
+        what_it_shows: "Shroff's counter-intuitive provocation — reframing welfare in American rather than socialist terms"
+
 ---
 
 # Forum of Free Enterprise

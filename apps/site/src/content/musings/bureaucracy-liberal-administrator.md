@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: "Mises is quoted on the bureaucratic strangulation of youthful talent to support Chakraverti's argument that the liberal administrator must dismantle hierarchical state structures."
+    evidence:
+      - quote: "As Ludwig von Mises put it: It is evident that youth is the first victim of the trend toward bureaucratisation. The young men are deprived of any opportunity to shape their own fate."
+        context: "Mises's critique of bureaucratisation provides the theoretical grounding for the liberal administrator's anti-hierarchical ethos"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Adam Smith's concept of 'natural liberty' is cited as the ideal the liberal administrator works towards, connecting the essay's argument to the classical liberal tradition."
+    evidence:
+      - quote: "it may be said that the state of nature--what Adam Smith called 'natural liberty'--is the ideal of the liberal administrator."
+        context: "Smith's 'natural liberty' serves as the normative benchmark against which the liberal administrator's conduct is measured"
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - ludwig-von-mises
+
 ---
 
 _Published by the Centre for Civil Society, a public policy think tank based out of New Delhi, _this excerpt has been borrowed from Sauvik Chakraverti's essay titled "New Public Management: Escape from Babudom". The essay builds a case for new public management as an escape from the statist clutches of Indian bureaucracy – starting with the attributes and importance of a liberal administrator, and the essence of bureaucracy – as written by Max Weber and Ludwig Von Mises.__

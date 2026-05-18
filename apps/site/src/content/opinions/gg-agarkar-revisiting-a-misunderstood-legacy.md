@@ -12,52 +12,53 @@ subject: "gopal-ganesh-agarkar"
 thinker_mentions:
   - thinker: gopal-ganesh-agarkar
     role: subject
-    reasoning: "The essay is a revisionist profile of Agarkar — arguing that his stature as a 19th-century liberal, rationalist and educationist has been flattened by his 'friend-turned-opponent' reputation vis-à-vis Tilak, and reconstructing his economic thought (especially the 'Teen Arthashastre' essays) to show his commitment to free trade and competition."
+    reasoning: "The essay offers a close reading of Agarkar's economic essays 'Teen Arthashastre' to reassess his misunderstood position on classical economics, protectionism, and state intervention in colonial India."
     evidence: []
     key_passages:
-      - quote: Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess.
-        what_it_shows: "reframes Agarkar as Tilak's intellectual peer rather than a secondary 'friend-turned-opponent' figure"
-      - quote: Agarkar is commemorated for his work as a social reformer, as a rationalist and as an educationist.
-        what_it_shows: summarises the conventional view of his contributions — which the essay then expands to include economic thought
-      - quote: His unequivocal rejection of the preferential treatment to products based on the place of their origin and opposition to state or society sponsored protection to businesses is testimony to his belief in fair play and competition.
-        what_it_shows: crystallises his pro-market liberal position against both colonial protectionism and Swadeshi sentimentalism
-      - quote: He was still an educationist and editor who believed in liberty for all and all walks of life.
-        what_it_shows: locates his economic views within his broader liberal-individualist conviction
+      - quote: "Agarkar is most frequently remembered as a 'friend-turned-opponent' of Tilak"
+        what_it_shows: establishes the reductive popular image the essay seeks to correct
+      - quote: Agarkar categorized the then-existing views on economics under three labels. These can be broadly called Axiomatic or Classical Economics, Practical Economics and Illusory Economics
+        what_it_shows: reveals the sophistication of his economic analysis, mapping the competing schools of thought in colonial India
+      - quote: "The influence of Mill on Agarkar is conspicuous. Agarkar's commentaries may be carrying a tinge of the 'enlightened despotism' that was the characteristic of philosophical radicals"
+        what_it_shows: "the essay's nuanced assessment of Agarkar's philosophical debts and their limitations"
   - thinker: bal-gangadhar-tilak
     role: mention
-    reasoning: "Tilak is the foil against whom Agarkar's distinct moderate-liberal position is set — Pande argues Agarkar was Tilak's intellectual equal but maintained moderate and liberal positions even as Tilak's nationalism turned aggressive."
+    reasoning: "Tilak is the constant reference point against which Agarkar's identity is defined, with their prison-mate past and intellectual rivalry framing the essay's argument that Agarkar deserves independent recognition."
     evidence:
-      - quote: Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess.
-        context: "reclaims Agarkar's stature relative to the more famous Tilak"
-      - quote: "Tilak's meteoric rise as a national leader was owing to his appealing and aggressive rhetoric."
-        context: "contrasts Tilak's mass-political style with Agarkar's sustained moderate liberalism"
-    key_passages: []
-  - thinker: mahadev-govind-ranade
-    role: mention
-    reasoning: Ranade is grouped with Telang and Naoroji as one of the Indian thinkers Agarkar cited approvingly for devising means to stimulate Indian industry without violating economic laws — positioning Agarkar in a lineage of Indian moderate-liberal economic thought.
-    evidence:
-      - quote: Indian thinkers like Justice Telang, Justice Ranade and Dadabhai Naoroji had devised ways of stimulating Indian industries, commerce and agriculture without violating the laws of economics.
-        context: "Pande uses Agarkar's invocation of Ranade to show that his economic stance was developed alongside, not against, the moderate-liberal tradition"
+      - quote: "Agarkar is most frequently remembered as a 'friend-turned-opponent' of Tilak"
+        context: the reductive hyphenated identity the essay argues Agarkar should escape
+      - quote: Agarkar was an equal of Tilak in terms of his love for the land and intellectual prowess
+        context: "the essay's corrective claim that Agarkar's stature should not be measured only against Tilak"
     key_passages: []
   - thinker: dadabhai-naoroji
     role: mention
-    reasoning: Naoroji is cited alongside Ranade and Telang as one of the moderate Indian thinkers whose proposals for stimulating Indian industry within the laws of economics Agarkar endorsed — situating Agarkar within the moderate-liberal economic-nationalist tradition.
+    reasoning: Dadabhai Naoroji is cited alongside Justice Ranade as one of the Indian thinkers who devised ways of stimulating Indian industries without violating economic laws, whose voices fell on deaf ears of the British.
     evidence:
-      - quote: Indian thinkers like Justice Telang, Justice Ranade and Dadabhai Naoroji had devised ways of stimulating Indian industries, commerce and agriculture without violating the laws of economics.
-        context: Pande lists Naoroji among the Indian economic thinkers Agarkar saw as offering a credible, law-abiding path to industrial growth
+      - quote: Indian thinkers like Justice Telang, Justice Ranade and Dadabhai Naoroji had devised ways of stimulating Indian industries, commerce and agriculture without violating the laws of economics
+        context: "Agarkar's citation of Naoroji as a fellow traveller whose practical economic proposals were ignored by colonial authorities"
+    key_passages: []
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "Ranade is cited as one of the Indian public intellectuals alongside Naoroji who demanded a temporary and transitional role for the state to facilitate free trade — the 'Practical Economics' position Agarkar endorsed."
+    evidence:
+      - quote: Indian thinkers like Justice Telang, Justice Ranade and Dadabhai Naoroji had devised ways of stimulating Indian industries, commerce and agriculture without violating the laws of economics
+        context: "Agarkar's acknowledgement of Ranade's practical economics as an antecedent to his own position"
+      - quote: The Indian public intellectuals such as Agarkar and economists like Ranade demanded a specific, temporary and transient role for the state
+        context: Ranade placed alongside Agarkar as a co-proponent of transitional state facilitation toward free markets
     key_passages: []
   - thinker: john-stuart-mill
     role: mention
-    reasoning: "Mill is named as the philosophical lineage behind Agarkar's economic and political convictions, with Pande noting the 'enlightened despotism' inflection of the philosophical radicals visible in Agarkar's commentaries."
+    reasoning: "Mill is identified as the primary philosophical influence on Agarkar's economic thinking, with the essay noting that his influence produced both Agarkar's liberal individualism and a tinge of 'enlightened despotism'."
     evidence:
-      - quote: The influence of Mill on Agarkar is conspicuous.
-        context: places Agarkar in the lineage of British philosophical radicals to explain his liberal-individualist commitments
+      - quote: The influence of Mill on Agarkar is conspicuous
+        context: "direct identification of Mill as Agarkar's most significant intellectual source"
     key_passages: []
 related_thinkers: 
   - bal-gangadhar-tilak
   - dadabhai-naoroji
   - john-stuart-mill
   - mahadev-govind-ranade
+
 
 ---
 

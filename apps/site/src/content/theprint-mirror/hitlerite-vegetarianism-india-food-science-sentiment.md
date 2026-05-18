@@ -5,11 +5,37 @@ pubDate: 2025-10-18T13:13:27
 author_name: "Tahir Siddiqui"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hitlerite-vegetarianism-india-food-science-sentiment/2766589/"
 themes: ["vegetarianism"]
-related_thinkers: ["tahir-siddiqui"]
+related_thinkers: 
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - rajendra-prasad
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's view that milk is not a dietary necessity is cited as one of the contradictory official pronouncements that confuse the public debate on food and diet."
+    evidence:
+      - quote: "Nothing to say about the views of Jawaharlal Nehru, in whose opinion milk is not a \"must\" maintaining normal health."
+        context: "sceptical aside positioning Nehru's dietary opinion as one of the confusing official voices"
+    key_passages: []
+  - thinker: rajendra-prasad
+    role: mention
+    reasoning: Rajendra Prasad is quoted as a prominent advocate of vegetarianism, claiming it can save humanity from nuclear devastation, to illustrate how high-level sentiment drives unscientific food policy.
+    evidence:
+      - quote: Dr. Rajendra Prasad, President of the Indian Republic, says vegetarianism can save humanity from the devastations of the nuclear weapons.
+        context: "Prasad's statement exemplifies the sentiment-over-science approach the essay critiques"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is mentioned as the victim of vegetarian assassin Godse, providing the essay's sharpest irony in its argument that vegetarianism is not a moral guarantor."
+    evidence:
+      - quote: vegetarian Godse assassinated vegetarian Mahatma Gandhi
+        context: the final entry in the list of three famous vegetarians used to debunk the link between vegetarianism and virtue
+    key_passages: []
 
 ---
 

@@ -9,6 +9,20 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "shareefa-hamid-ali"
+thinker_mentions:
+  - thinker: shareefa-hamid-ali
+    role: subject
+    reasoning: "The article is a full profile of Shareefa Hamid Ali, covering her life, feminist advocacy, and role as president of the All India Women's Conference and founding member of the UN Commission on the Status of Women."
+    evidence: []
+    key_passages:
+      - quote: Ali was born on December 12, 1883, to a progressive Muslim family in Gujarat.
+        what_it_shows: establishes her background and liberal family roots
+      - quote: Ali argued that child marriage restricts women from identifying their individuality and often denies them their basic right to education.
+        what_it_shows: captures her core feminist argument linking child marriage to denial of individual rights
+      - quote: "Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women."
+        what_it_shows: establishes her institutional leadership at national and international levels
+related_thinkers: []
+
 ---
 
 The following essay revisits the life and legacy of a largely neglected Indian liberal, Shareefa Hamid Ali. A prominent advocate of an intersectional approach to feminism and individual rights, Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women.

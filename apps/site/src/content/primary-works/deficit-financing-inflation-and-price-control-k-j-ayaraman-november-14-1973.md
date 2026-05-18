@@ -8,10 +8,11 @@ authors:
   - k-jayaraman
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - b-r-shenoy
   - jrd-tata
   - l-k-jha
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +49,29 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: "Jayaraman invokes B. R. Shenoy's diagnosis of 'perverse income shifts' as theoretical authority for the argument that deficit-financing inflation redistributes income regressively against the poor and middle class."
+    evidence:
+      - quote: "The closing pages invoke Professor B. R. Shenoy's diagnosis of \"perverse income shifts\" and former RBI Governor L. K. Jha's warning that deficit financing must be a supplement to, not a substitute for, resources mobilisation"
+        context: "Shenoy's diagnosis provides the theoretical framework for Jayaraman's anti-inflation argument"
+    key_passages: []
+  - thinker: l-k-jha
+    role: mention
+    reasoning: "Jayaraman cites L. K. Jha's warning that deficit financing must supplement rather than substitute for genuine resource mobilisation, using the former RBI Governor's authority to reinforce the fiscal-discipline prescription."
+    evidence:
+      - quote: "former RBI Governor L. K. Jha's warning that deficit financing must be a supplement to, not a substitute for, resources mobilisation"
+        context: "Jha's dictum as RBI Governor lends official monetary authority to the argument against excess deficit financing"
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "Jayaraman quotes J. R. D. Tata's 1972-73 annual report to argue that price-fixing authorities have evolved no costing norms, using Tata's business authority to indict the ad hoc nature of Indian price-control administration."
+    evidence:
+      - quote: "He quotes J. R. D. Tata's 1972-73 Tata Iron and Steel annual report to argue that price-fixing authorities have evolved no norms or techniques of costing that would force producer and consumer alike to gain from cost cutting"
+        context: "Tata's corporate testimony is invoked as an authoritative industry witness against ad hoc cost-plus price control"
+    key_passages: []
+
 ---
 
 # Deficit Financing, Inflation and Price Control

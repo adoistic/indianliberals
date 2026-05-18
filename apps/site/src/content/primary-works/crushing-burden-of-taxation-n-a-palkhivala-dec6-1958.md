@@ -8,9 +8,9 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - voltaire
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +41,15 @@ physical:
   format: Pamphlet/booklet, 12 printed interior pages, with printed wrappers
 missing_metadata_flags:
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: voltaire
+    role: mention
+    reasoning: Palkhivala invokes Voltaire in the closing pages as one of a series of authorities warning that elected representatives, like autocrats, can grow deaf to reasoned public protest — underscoring the futility of grievances that go unanswered from New Delhi.
+    evidence:
+      - quote: The closing pages invoke Voltaire, Browning, Montesquieu, Justice Harman in Moorhouse v. Dooland, and an edict of Czar Peter I to warn that elected representatives, like autocrats, can grow deaf to reasoned public protest
+        context: "Voltaire is one of several philosophical authorities cited to indict the government's silence in response to tax grievances"
+    key_passages: []
+
 ---
 
 # Crushing Burden of Taxation

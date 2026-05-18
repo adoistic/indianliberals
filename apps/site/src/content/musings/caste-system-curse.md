@@ -7,6 +7,25 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is quoted extensively on the nature of caste as a mechanical rather than organic social institution, providing the key intellectual authority for the essay's anti-caste argument."
+    evidence:
+      - quote: "\"mechanically\" as Dr Ambedkar has well put it. The same writer further says in his book \"What Gandhi and Congress have done for the untouchables\" that the caste system is not only \"non-social but also anti-social\"."
+        context: "Ambedkar's scholarly characterisation of caste provides the analytical framework the essay builds on"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is referenced through the title of Ambedkar's book — 'What Gandhi and Congress have done for the untouchables' — implicitly positioning Gandhi as a contested figure in the anti-caste struggle."
+    evidence:
+      - quote: "in his book \"What Gandhi and Congress have done for the untouchables\" that the caste system is not only \"non-social but also anti-social\""
+        context: "Gandhi is invoked via Ambedkar's book title, framing the political record of Gandhi's Congress on untouchability as a subject demanding scrutiny"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+  - mahatma-gandhi
+
 ---
 
 It is up to the educated people to bring about an intellectual and cultural revolution in the country by propagating vigorously rational ideas about caste and exposing its evils on rational grounds and at the same time by stoutly refusing to countenance casteism and its mythical taboos and restrictions in any shape and form. This revolutionary work among the people coupled with political pressures exerted by the Government in a democratic way, on this institution of caste, will surely hasten its death.

@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Masani cites Gandhi's approach to religion as exemplifying a liberal attitude — tolerant and non-denominational rather than secularist — using Gandhi to illustrate his argument about Liberalism and religion."
+    evidence:
+      - quote: "Gandhiji's attitude to religion was much more liberal than that of those who call themselv"
+        context: Gandhi is invoked as a model of the liberal religious attitude Masani is defining
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 _Produced below is part of an essay by Minoo Masani, published in the 1970. The essay was originally published by the Indian Liberal Group, founded by the author.  Among the most prominent proponents of classical liberalism at the time, in this essay, Mr Masani outlines the essentials of Liberalism. The original publication can be accessed on the [Freedom First website](https://indianliberals.in/periodicals/freedom-first/). _The word "Liberalism" derives from liberty. In other words, the individual is in the centre of the picture. Society is there to serve the individual and not the other way round as certain other systems of thought like communism or socialism try to make out. 

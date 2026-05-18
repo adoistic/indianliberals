@@ -18,7 +18,10 @@ contributors:
   - role: author
     thinker_unresolved: Prof. C. L. Gheevala
     toc_index: 3
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - murarji-vaidya
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -58,6 +61,22 @@ missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
   - gheevala_essay_not_yet_rendered
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: Shroff contributes one of the three main essays in this multi-author pamphlet, arguing that socialist comprehensive planning is incompatible with Indian democratic conditions and laying out a positive programme for planning for free enterprise.
+    evidence:
+      - quote: A. D. Shroff contrasts socialist comprehensive planning with planning for free enterprise, Murarji J. Vaidya reviews state enterprises in Indian democracy
+        context: introduction previewing the three essays; Shroff is the lead contributor
+    key_passages: []
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: Murarji J. Vaidya contributes the second essay reviewing state enterprises in Indian democracy, making him a named contributor to this multi-essay pamphlet.
+    evidence:
+      - quote: Murarji J. Vaidya reviews state enterprises in Indian democracy
+        context: "introduction previewing the three essays; Vaidya's contribution addresses the record of public enterprises"
+    key_passages: []
+
 ---
 
 # A Survey of Socialism Today

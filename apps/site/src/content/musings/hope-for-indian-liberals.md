@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Sharad Anantrao Joshi notes that even Gandhi's anarchism was co-opted by statist forces within the freedom movement and proved to be little more than a rhetorical scoring point, underscoring the historic weakness of genuinely liberal strains in Indian politics."
+    evidence:
+      - quote: "even Gandhi's anarchism proved to be little more than a scoring point with them"
+        context: "Joshi situates Gandhi's anarchism within the broader statist consensus of the independence movement to explain why Indian liberalism has remained marginalised"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 In this article, late Sharad Anantrao Joshi, President of the Swatantra Bharat Paksh, questions if there is any promise to Indian liberalism and comes to the conclusion that despite plenty of gloom, history has ample evidence that liberty blossoms in the most unexpected of places and at seemingly impossible times.

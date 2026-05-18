@@ -5,11 +5,23 @@ pubDate: 2025-11-15T12:43:08
 author_name: "KD Valicha"
 theprint_url: "https://theprint.in/opinion/capitalism-is-the-bedrock-of-all-economic-progress-socialism-is-a-parasite-kd-valicha/2784867/"
 themes: ["liberalism", "socialism"]
-related_thinkers: ["kd-valicha"]
+related_thinkers: 
+  - kd-valicha
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: kd-valicha
+    role: subject
+    reasoning: "The article is KD Valicha's essay making the case for free enterprise as the guarantor of liberty and productivity against socialism's claims."
+    evidence: []
+    key_passages:
+      - quote: free enterprise is the only system that guarantees a maximum of productivity and hence the greatest good of the greatest number.
+        what_it_shows: "Valicha's economic core claim for the superiority of free enterprise"
+      - quote: Free enterprise does not mean a repeal of all laws for all laws are by no means necessarily a narrowing of freedom.
+        what_it_shows: "Valicha's nuanced qualification distinguishing free enterprise from lawlessness"
 
 ---
 

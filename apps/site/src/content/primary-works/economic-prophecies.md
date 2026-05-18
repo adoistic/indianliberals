@@ -14,20 +14,15 @@ contributors:
     thinker: r-k-amin
   - role: editor
     thinker: parth-shah
-related_thinkers:
-  - friedrich-hayek
-  - milton-friedman
-  - peter-bauer
-  - margaret-thatcher
-  - jrd-tata
-  - p-n-haksar
+related_thinkers: 
   - jayaprakash-narayan
-  - vinoba-bhave
-  - warren-hastings
+  - jrd-tata
+  - milton-friedman
   - minoo-masani
-  - p-c-mahalanobis
-  - r-k-hazari
-  - sumati-morarjee
+  - p-n-haksar
+  - peter-bauer
+  - vinoba-bhave
+
 publication:
   language: en
   publisher_id: centre-for-civil-society
@@ -67,6 +62,61 @@ physical:
   pages_total: 212
   pages_total_source: pypdfium2
   format: paperback book
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Milton Friedman is cited as the most prominent international witness to Shenoy's prophetic status, having called him 'a prophet unhonoured in his own country' as early as 1963, which provides the editorial rationale for the title of the collected works."
+    evidence:
+      - quote: "It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country'"
+        context: "opening tribute establishing Friedman's endorsement as the book's founding authority"
+      - quote: "Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail"
+        context: "framing Shenoy's forecasts as externally validated by Nobel-level witnesses"
+    key_passages: []
+  - thinker: peter-bauer
+    role: mention
+    reasoning: "Peter Bauer's description of Shenoy as 'a hero and a saint' is cited alongside Friedman's tribute to establish Shenoy's standing among international development economists who dissented from the aid-and-planning orthodoxy."
+    evidence:
+      - quote: "Peter Bauer describing him as 'a hero and a saint.'"
+        context: "Bauer's tribute paired with Friedman's to frame the editors' prefatory vindication of Shenoy"
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "J. R. D. Tata's warning about communist infiltration into government is the direct trigger for Shenoy's 'Free enterprise in danger' essay, which endorses and elaborates Tata's ASSOCHAM seminar statement."
+    evidence:
+      - quote: "Written in May 1975 in support of statements made by industrialist J R D Tata at an ASSOCHAM seminar, 'Free enterprise in danger' argues that communist infiltration into government and the escalating appropriation of private-sector investment resources by the public sector are placing private enterprise on the path to extinction."
+        context: "Tata's public statement is the direct occasion for Shenoy's essay"
+    key_passages: []
+  - thinker: p-n-haksar
+    role: mention
+    reasoning: "Haksar's counter-claim that 90 per cent of national product still comes from the private sector is directly rebutted by Shenoy, who shifts the diagnostic frame from output share to investment share to show the true extent of public-sector appropriation."
+    evidence:
+      - quote: "Shenoy rebuts Planning Commission Deputy Chairman P N Haksar's counter-claim that 90 per cent of national product still comes from the private sector"
+        context: "Shenoy's rebuttal of Haksar establishes the analytical pivot from output share to investment share"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: Jayaprakash Narayan is cited as a political voice who, despite ostensibly supporting free enterprise, hedged his defence of the business community; and as a possible Gandhian prime minister who could not correct the chaos without restructuring public-sector policy.
+    evidence:
+      - quote: even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays
+        context: "Shenoy's argument that even sympathetic leadership would require radical policy change"
+      - quote: The essay documents how the Swatantra Party, Jayaprakash Narayan, and M R Masani — ostensibly friends of free enterprise — nevertheless hedged their support for the business community.
+        context: "Shenoy's critique of inconsistency among sympathetic political voices"
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: Vinoba Bhave is invoked alongside Jayaprakash Narayan as an example of a sympathetic Gandhian leader who, even if prime minister, could not fix the structural policy crisis without deep cuts in public-sector outlays.
+    evidence:
+      - quote: even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays
+        context: "Shenoy's argument about the structural nature of the policy problem"
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Masani is cited alongside Swatantra Party and Jayaprakash Narayan as among those ostensibly friendly to free enterprise who nevertheless failed to consistently defend entrepreneurial freedom in 'Image of the Indian entrepreneur'."
+    evidence:
+      - quote: The essay documents how the Swatantra Party, Jayaprakash Narayan, and M R Masani — ostensibly friends of free enterprise — nevertheless hedged their support for the business community.
+        context: "Shenoy's critique of the half-hearted support for business among political allies"
+    key_passages: []
+
 ---
 
 # Economic Prophecies

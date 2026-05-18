@@ -5,11 +5,39 @@ pubDate: 2026-01-31T09:34:09
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/welfare-state-is-socially-and-economically-a-national-disaster-gn-lawande/2841240/"
 themes: ["employment", "socialism", "welfare-state"]
-related_thinkers: ["g-n-lawande"]
+related_thinkers: 
+  - abraham-lincoln
+  - friedrich-hayek
+  - ludwig-von-mises
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: Von Mises is cited alongside Hayek and Schumpeter as prophets who predicted that deviations from free enterprise would lead inexorably toward a police state — a prediction the author says has come true in India.
+    evidence:
+      - quote: "Von Mises, Hayek and Schumpeter like three witches in Shakespeare's Macbeth had predicted that every deviation from free enterprise would propel the free nations irresistibly from capitalism to socialism and from socialism to some sort of police state"
+        context: Mises is invoked as a prophetic authority whose warning about socialist drift has been vindicated by Indian experience
+    key_passages: []
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Hayek is cited alongside Mises and Schumpeter as a prophet of the road to serfdom, with 'professor Hayek' invoked explicitly for his 'road to serfdom' argument against welfare-state socialism."
+    evidence:
+      - quote: "Von Mises, Hayek and Schumpeter like three witches in Shakespeare's Macbeth had predicted that every deviation from free enterprise would propel the free nations irresistibly from capitalism to socialism and from socialism to some sort of police state"
+        context: Hayek is one of the three prophets whose prediction of socialist tyranny the essay declares has been vindicated
+      - quote: in the words of professor Hayek this is a road to serfdom
+        context: "Hayek's most famous phrase is directly deployed as the essay's condemnation of the welfare state's trajectory"
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Abraham Lincoln's aphorism against strengthening the weak by weakening the strong is quoted to expose the internal contradiction of welfare-state redistribution."
+    evidence:
+      - quote: "as Abraham Lincoln aptly puts it \"You cannot strengthen the weak by weakening the strong\""
+        context: "Lincoln's maxim is used to puncture the welfare state's redistributive logic"
+    key_passages: []
 
 ---
 

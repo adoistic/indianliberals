@@ -8,6 +8,53 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Shastri's tenure as PM is the central historical episode of the essay — his pragmatic economic opening is examined in detail as an aborted liberalisation attempt."
+    evidence:
+      - quote: "Shastri's appointment as the PM was welcomed by the business community for his non-ideological, pragmatic approach and connections with the business class."
+        context: "characterises Shastri's economic orientation upon assuming office"
+      - quote: The first concrete step for liberalisation under Shastri came in the summer of 1964 when he announced in Parliament his intention to reconsider controls in general.
+        context: "marks Shastri's first liberalisation move"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's succession to Shastri and her eventual abandonment of the liberalisation agenda in favour of leftist populism is the denouement of the essay's argument."
+    evidence:
+      - quote: his successor PM Indira Gandhi initially followed a similar policy agenda.
+        context: shows continuity of economic liberalisation briefly under Indira Gandhi
+      - quote: Indira Gandhi decidedly shifted her economic policy away from liberalisation and also shunted out the pro-market technocrats.
+        context: marks the reversal that ended the aborted liberalisation
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: T.T. Krishnamachari is named as one of the key Shastri cabinet ministers who were devoid of ideological commitment to socialism and favoured market reliance.
+    evidence:
+      - quote: the key members of the Shastri cabinet (T T Krishnamachari, C Subramaniam, Asoka Mehta) were devoid of an ideological commitment to socialism, sans the labor minister D Sanjivayya.
+        context: "lists TTK among the market-oriented ministers who enabled Shastri's liberalisation push"
+    key_passages: []
+  - thinker: s-k-patil
+    role: mention
+    reasoning: S.K. Patil is identified as a powerful Railways minister who was openly critical of Nehruvian planning, reinforcing the pro-market tilt of the Shastri cabinet.
+    evidence:
+      - quote: The Railways minister and powerful regional satrap S K Patil had been openly critical of Nehruvian planning.
+        context: identifies Patil as a pro-market political force in the Shastri cabinet
+    key_passages: []
+  - thinker: l-k-jha
+    role: mention
+    reasoning: L.K. Jha is cited as the influential pro-market Principal Secretary to Shastri who was involved in almost every secretary-level committee on economic affairs.
+    evidence:
+      - quote: L K Jha, the influential Principal Secretary to Shastri, was also very much a pro-market bureaucrat.
+        context: identifies Jha as a key technocratic driver of the liberalisation agenda under Shastri
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+  - l-k-jha
+  - lal-bahadur-shastri
+  - s-k-patil
+  - t-t-krishnamachari
+
 ---
 
 _Shastri’s appointment as the PM was welcomed by the business community for his non-ideological, pragmatic approach and connections with the business class. This stood in contrast to the socialist-minded Nehru who preferred to hobnob with the modern, secular intelligentsia instead of courting relations with the traditionalist businessmen operating in his mixed economy._From 1991 onwards, two characteristic features of economic liberalisation in India have been reforms during crisis and reforms by stealth. The successive political regimes after the watershed year of 1991 have resorted to the same mechanism. However, these twin features of the political economy of liberalisation were also present in the mid-1960s. Those years were marked by political uncertainty after Nehru’s death, serious food crisis, high levels of inflation, war with Pakistan, shortage of foreign exchange reserves, decline in industrial growth, rampant unemployment, and the failure of the plan to meet the targets. 

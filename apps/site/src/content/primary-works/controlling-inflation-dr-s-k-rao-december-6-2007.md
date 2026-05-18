@@ -16,8 +16,9 @@ contributors:
     toc_index: 2
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
-  - c-rangarajan
+related_thinkers: 
+  - minoo-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +53,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc_page
   - editor_not_named
+thinker_mentions:
+  - thinker: minoo-shroff
+    role: mention
+    reasoning: "Minoo R. Shroff, as Forum of Free Enterprise president, contributes the introduction to this booklet, framing the two essays and their authors within the Forum's tradition of economic commentary."
+    evidence:
+      - quote: "Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise"
+        context: "Shroff's editorial introduction situates the essays within the Forum's long-standing engagement with economic policy"
+    key_passages: []
+
 ---
 
 # Controlling Inflation

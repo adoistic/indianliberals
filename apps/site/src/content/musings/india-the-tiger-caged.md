@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Masani is identified as the founder of Freedom First magazine, which republished The Economist's India survey for wider liberal audiences — situating him as the institutional patron through whose platform this liberal critique of the Indian economy was disseminated."
+    evidence:
+      - quote: Freedom First, a liberal magazine established by Minoo Masani, published the report in two parts in its own issues for a wider public reach.
+        context: "Masani's magazine is the dissemination vehicle that brought the Economist's critical analysis of Indian economic failure to the Indian liberal readership"
+    key_passages: []
+related_thinkers: 
+  - minoo-masani
+
 ---
 
 The public debate over the IMF loan has been turned into a question of India’s self-respect and sovereignty. The fact of the matter is we are broke - thanks to forty years of "Nehruvian socialism". Like an individual who in state of a financial crisis goes to a bank for a loan, our country is compelled to go to the IMF for a loan.

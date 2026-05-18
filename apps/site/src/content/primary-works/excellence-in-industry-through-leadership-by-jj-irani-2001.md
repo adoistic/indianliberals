@@ -7,13 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
-  - adam-smith
-  - karl-marx
+related_thinkers: 
   - jrd-tata
   - milton-friedman
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +48,22 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Irani explicitly frames his lecture as a response to the Friedman doctrine that 'the business of business is business', arguing against single-minded profit maximisation as a long-term recipe for disaster."
+    evidence:
+      - quote: "most famously expressed by Milton Friedman, that \"the business of business is business.\""
+        context: "Friedman's doctrine is the direct foil against which Irani's stakeholder model of business leadership is constructed"
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "JRD Tata is cited as a successor to Jamshetjee Tata who kept alive the ethical business tradition, and his legacy frames Irani's stakeholder model of industry leadership."
+    evidence:
+      - quote: cites successors R. D. Tata, JRD Tata, and current chairman Ratan Tata as keeping that tradition alive
+        context: JRD Tata named as one of the guardians of the Tata ethical tradition Irani invokes
+    key_passages: []
+
 ---
 
 # EXCELLENCE IN INDUSTRY THROUGH LEADERSHIP

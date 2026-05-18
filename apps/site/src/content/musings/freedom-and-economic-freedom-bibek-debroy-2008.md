@@ -7,6 +7,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "bibek-debroy"
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Debroy cites Hayek's The Road to Serfdom as the foundational text for the concept of economic freedom and for the crucial distinction between negative and positive rights that structures the entire chapter."
+    evidence:
+      - quote: "Friedrich Hayek** wrote a very influential book titled \"[The Road to Serfdom](https://en.wikipedia.org/wiki/The_Road_to_Serfdom).\" This book not only represents the essence of what is now called economic freedom, it also makes the important distinction between negative human rights (the core) and positive human rights (the undesirable and the noncore)."
+        context: "Hayek's 1944 book is the theoretical anchor for Debroy's entire argument about freedom and economic freedom"
+    key_passages: []
+related_thinkers: 
+  - friedrich-hayek
+
 ---
 
 _The following musing is taken from the “_**_Handbook of Transformation to Market Economy”_**_ written by _**_Bibek Debroy_**_ and published by the __the_**_ Liberal Institute of the Friedrich Naumann Foundation _**_in 2008. The text reproduced below is an excerpt from its second chapter titled “_**_Freedom and Economic Freedom_**_”. _

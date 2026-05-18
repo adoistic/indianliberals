@@ -7,10 +7,13 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - adam-smith
   - john-stuart-mill
   - karl-marx
+  - murarji-vaidya
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +45,45 @@ physical:
 missing_metadata_flags:
   - no_toc
   - author_not_in_authority_file
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: Dillard places Keynes in the classical tradition running from Adam Smith, situating him within the lineage of major economists to frame the magnitude of his theoretical break with that tradition.
+    evidence:
+      - quote: "Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill, Karl Marx and Alfred Marshall as a classical-rank figure and compares his disruption of economics to Einstein's of physics."
+        context: "Dillard's placement of Keynes in the classical tradition to establish the significance of his theoretical break"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: John Stuart Mill is listed among the classical economists in whose tradition Dillard places Keynes, establishing the lineage from which Keynesian theory departs.
+    evidence:
+      - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill, Karl Marx and Alfred Marshall as a classical-rank figure
+        context: "Mill named in Dillard's classical-tradition lineage for Keynes"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is invoked both as part of the classical-economist tradition Dillard uses to contextualise Keynes, and as the target of Keynes's open hostility — Keynes dismissed Capital as 'an obsolete textbook'."
+    evidence:
+      - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill, Karl Marx and Alfred Marshall as a classical-rank figure
+        context: Marx placed in the classical tradition from which Keynes emerged
+      - quote: "Dillard records Keynes' open hostility to Marxism — calling Capital 'an obsolete textbook'"
+        context: "Keynes's rejection of Marxism as a key strand in Dillard's argument that Keynes was not a socialist"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The pamphlet closes with an A. D. Shroff epigraph on free enterprise, situating Dillard's Keynes exposition within the Forum's ideological project."
+    evidence:
+      - quote: an A. D. Shroff epigraph on free enterprise, and a membership solicitation
+        context: "Shroff's epigraph frames the booklet within the Forum of Free Enterprise's classical-liberal tradition"
+    key_passages: []
+  - thinker: murarji-vaidya
+    role: mention
+    reasoning: "Murarji J. Vaidya, as Forum president, frames the reprint as a service to Indian students and contextualises the booklet's educational purpose for its 1968 readership debating deficit financing."
+    evidence:
+      - quote: "Forum president Murarji J. Vaidya frames the reprint as a service to students of public affairs in India who needed a clear, jargon-free account of Keynes' actual position rather than the caricatures circulating on either side."
+        context: "Vaidya's editorial framing establishes the booklet's purpose in the Indian deficit-financing debate"
+    key_passages: []
+
 ---
 
 # ECONOMIC THINKING OF LORD KEYNES

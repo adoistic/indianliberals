@@ -5,11 +5,23 @@ pubDate: 2026-03-28T10:07:57
 author_name: "Sharad Joshi"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/farmers-agitations-coimbatore-ludhiana-sharad-joshi/2890665/"
 themes: ["agriculture", "farmers-agitation", "sharad-joshi"]
-related_thinkers: ["sharad-joshi"]
+related_thinkers: 
+  - sharad-joshi
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: sharad-joshi
+    role: subject
+    reasoning: "The article is Sharad Joshi's essay on the new agrarian mobilisation, the role of the Shetkari Sanghatana, and the Bharat-India divide as a framework for rural politics."
+    evidence: []
+    key_passages:
+      - quote: "Sharad Joshi, in Maharashtra in particular, stood out as the strategist and communicator, whose imaginative slogan of the 'Bharat-India' divide became a new idiom of rural mobilization."
+        what_it_shows: "identifies Joshi's defining intellectual contribution — the Bharat-India analytical framework"
+      - quote: the new agrarianism is aimed at ensuring, for the farmers, highest possible degrees of freedom as also a life of self-respect on par with that of the non-farming communities.
+        what_it_shows: "articulates the normative goal of Joshi's agrarian movement"
 
 ---
 

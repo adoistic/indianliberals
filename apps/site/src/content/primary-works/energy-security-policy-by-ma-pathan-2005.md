@@ -7,10 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - jrd-tata
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +45,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_series_number_visible
+thinker_mentions:
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "The lecture is delivered at the J. R. D. Tata Memorial Seminar, so Tata's name anchors the entire address as delivered in honour of the industrialist and Tata group patriarch."
+    evidence:
+      - quote: "M. A. Pathan's Energy Security Policy is a Forum of Free Enterprise booklet adapted from his 10 December 2005 presentation at the J. R. D. Tata Memorial Seminar (organised in Mumbai by the Leslie Sawhny Endowment)."
+        context: "J. R. D. Tata named as the honoree of the seminar at which Pathan's lecture was delivered"
+    key_passages: []
+
 ---
 
 # Energy Security Policy

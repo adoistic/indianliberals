@@ -5,11 +5,49 @@ pubDate: 2026-01-24T13:11:31
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/marxism-democratic-rights-ma-venkata-rao/2835440/"
 themes: ["communism", "karl-marx", "libertarianism", "marxism", "soviet-union"]
-related_thinkers: ["ma-venkata-rao"]
+related_thinkers: 
+  - joseph-stalin
+  - karl-marx
+  - ludwig-erhard
+  - nikita-khrushchev
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is the central intellectual subject of the essay: his theory and practice are systematically examined to show their complicity in totalitarian violence, with the author arguing Lenin and Stalin were faithful to the Master's Word."
+    evidence:
+      - quote: This attitude of communists is rooted in the theory and practice of Karl Marx himself.
+        context: "thesis statement tying communist authoritarianism to Marx's own doctrine"
+      - quote: "Marx was a-moral with regard to violence both as a means to achieve revolution and to maintain socialism after it was achieved. Hence Lenin and Stalin were only carrying out the letter and spirit of the Master's Word in applying force in day-to-day administration"
+        context: "core argument of the essay: Stalinist terror is Marxist doctrine applied, not a deviation from it"
+    key_passages: []
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: "Stalin's mass killings are cited as evidence that Marxist principles, when applied at scale, produce totalitarian terror; Khrushchev's partial revelations are used to contextualise Stalin's violence."
+    evidence:
+      - quote: "Stalin's violence in liquidating millions (for example eight millions of peasants to make cooperative and state farming secure!) is thus only a matter of degree!"
+        context: "quantifies Stalinist violence to ground the argument about Marxism's built-in brutality"
+    key_passages: []
+  - thinker: nikita-khrushchev
+    role: mention
+    reasoning: "Khrushchev's 1956 revelations about Stalin's brutalities are discussed and then undercut: the author argues Khrushchev is less terroristic than Stalin only because his power base is less secure, not because of genuine principle."
+    evidence:
+      - quote: "The revelations of [Nikita] Khrushchev in 1956 in the Twentieth Congress of Communist Parties of the world in Moscow that shook the communist bloc and shocked the whole world concerned only the brutalities of Stalin with regard to his own official and party subordinates."
+        context: "Khrushchev's de-Stalinisation speech is invoked and then shown to be self-serving"
+      - quote: "If Khrushchev is less terroristic than Stalin, it is only because he does not dare to!"
+        context: "dismisses Khrushchev's apparent moderation as situational, not principled"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Erhard's West German free-market experiment is contrasted with the British socialist experiment to show that economic freedom, not socialist regimentation, produces genuine prosperity."
+    evidence:
+      - quote: "the experiment in free competition conducted boldly in West Germany by Dr [Ludwig] Erhard has registered a remarkable success and has taken that country to the first place among European countries in resurgent economic development and prosperity."
+        context: "Erhard's West German miracle serves as the positive counterexample to socialist Britain's relative economic decline"
+    key_passages: []
 
 ---
 

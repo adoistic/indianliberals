@@ -7,6 +7,21 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's Non-Alignment policy and its failure in the 1962 Sino-Indian war are the central subject of critique throughout this editorial, which argues that India must break from Nehruvian foreign policy to align with the West."
+    evidence:
+      - quote: "the foreign policy conduct of India's first Prime Minister Jawaharlal Nehru"
+        context: "framing of the editorial's central critique"
+      - quote: Mr Nehru would then be not justified in making a fine metaphysical distinction after the manner of a Vedantin
+        context: "direct criticism of Nehru's post-war philosophical rationalisation of Chinese aggression"
+      - quote: She also wants some respite from her adventurist military operation in this region just to consolidate her ill-gotten gains
+        context: "context in which Nehru's government's response to the ceasefire is discussed"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _The Indian defeat in the 1962 border war with China not only resulted in loss of territory, but also raised questions about the foreign policy conduct of India’s first Prime Minister Jawaharlal Nehru. _

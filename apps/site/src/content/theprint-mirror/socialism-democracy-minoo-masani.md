@@ -5,11 +5,21 @@ pubDate: 2026-02-14T11:28:58
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/socialism-democracy-minoo-masani/2854700/"
 themes: ["liberalism", "majority-rule", "minoo-masani"]
-related_thinkers: ["minoo-masani"]
+related_thinkers: 
+  - mahatma-gandhi
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is quoted as the normative authority on the relationship between limited government and democracy, with 'That Government is best which governs the least' used to clinch the liberal case against socialist overreach."
+    evidence:
+      - quote: "Mahatma Gandhi said: \"That Government is best which governs the least.\""
+        context: "Gandhi's aphorism is the essay's philosophical climax, invoked to ground the liberal demand for limited government in Congress's own tradition"
+    key_passages: []
 
 ---
 

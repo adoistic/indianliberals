@@ -7,8 +7,9 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - adam-smith
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +46,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - series_number_not_printed
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Rostow cites Adam Smith's prescription for eighteenth-century underdeveloped Britain to argue that national programming and social overhead capital are preconditions for a vital private sector, using Smith as authoritative backing for his qualified defence of government intervention."
+    evidence:
+      - quote: "he cites Adam Smith's prescription for eighteenth-century underdeveloped Britain to underline that national programming and government provision of social overhead capital — schools, irrigation, highways, land tenure reform — are preconditions for a vital private sector"
+        context: Rostow invokes Smith to rebut the false antithesis between national planning and private enterprise
+    key_passages: []
+
 ---
 
 # Economic Growth in a Free Society

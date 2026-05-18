@@ -10,13 +10,14 @@ author: "ashok-desai"
 thinker_mentions:
   - thinker: jagdish-bhagwati
     role: mention
-    reasoning: "Desai credits Bhagwati and Srinivasan with coining the term 'liberalisation episodes' to describe India's intermittent pre-1991 deregulation, using their framework as a foil to distinguish pragmatic relaxation of controls from a principled liberal philosophy."
+    reasoning: "Desai credits Bhagwati and Srinivasan with coining the concept of 'liberalisation episodes' to describe India's pre-1991 piecemeal deregulation, using it as a foil to argue that economic liberalisation without liberal philosophy is insufficient."
     evidence:
-      - quote: The bouts of relaxation of controls were termed liberalisation episodes by Bhagwati and Srinivasan
-        context: "Desai invokes Bhagwati's analytic framework to set up his argument that economic liberalisation in India arrived without an underlying liberal philosophy"
+      - quote: The bouts of relaxation of controls were termed liberalisation episodes by Bhagwati and Srinivasan, and so they were in a sense.
+        context: "Desai invokes Bhagwati's analytic framework to distinguish pragmatic deregulation from principled liberalism"
     key_passages: []
 related_thinkers: 
   - jagdish-bhagwati
+
 
 ---
 

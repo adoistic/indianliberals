@@ -10,8 +10,9 @@ editors: []
 contributors:
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion\", 235, Dr. D. N. Road, BOMBAY 400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by S. V. Limaye at the India Printing Works, India Printing House, 42, G.D. Ambekar Marg, Wadala, Bombay 400 031."
@@ -41,6 +42,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - essay_not_complete_in_chunk
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Narasimham frames his lecture as a tribute to Shroff's prescient critique of the command economy, positioning the 1991 reform programme as a belated vindication of Shroff's arguments."
+    evidence:
+      - quote: Delivered as the A. D. Shroff Memorial Lecture on Banking in September 1993 and published by the A. D. Shroff Memorial Trust
+        context: Shroff named as the honoree of the memorial lecture series and trust that published the booklet
+    key_passages: []
+
 ---
 
 # Financial Sector Reforms: The Unfinished Agenda

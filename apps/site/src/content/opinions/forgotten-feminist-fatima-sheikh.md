@@ -9,6 +9,32 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "fatima-sheikh"
+thinker_mentions:
+  - thinker: fatima-sheikh
+    role: subject
+    reasoning: The essay is a full-length profile of Fatima Sheikh as a largely forgotten Muslim woman educator and social reformer who provided refuge and teaching alongside the Phules and inspired generations of Muslim women to pursue education.
+    evidence: []
+    key_passages:
+      - quote: A rarely remembered social reformer, Fatima Sheikh was among the first Indian Muslim woman educator
+        what_it_shows: establishes her significance and the central irony of her historical neglect
+      - quote: it was Fatima who gave them refuge in her house
+        what_it_shows: her concrete act of solidarity with the Phules when they were expelled from their ancestral home
+      - quote: "She was so resilient in her efforts towards women's education that she used to spend hours counseling parents who did not wish to send their girls to schools"
+        what_it_shows: captures the grassroots nature of her educational advocacy against parental resistance
+      - quote: It is fair to assume that Fatima valued individual rights over social validation
+        what_it_shows: "the essay's characterisation of her liberal core: placing individual rights above communal approval"
+  - thinker: jyotirao-phule
+    role: mention
+    reasoning: Jyotirao Phule is named explicitly as the partner whose liberal ideas Fatima Sheikh supported, and whose school she helped establish and teach in, making him central to the context of her activism.
+    evidence:
+      - quote: "Jyotirao and Savitribai Phule are widely known pioneers of Indian women's education movements"
+        context: "contextualising Fatima's role within the Phule-led education movement"
+      - quote: When Jyotirao and Savitribai were made to leave their ancestral home, it was Fatima who gave them refuge in her house
+        context: "Fatima's concrete support for Jyotirao and Savitribai at their moment of social exile"
+    key_passages: []
+related_thinkers: 
+  - jyotirao-phule
+
 ---
 
 A rarely remembered social reformer, Fatima Sheikh was among the first Indian Muslim woman educator. Speculated to be the first Muslim woman education of the 19th century. A peer of Jyotibai and Savitribai Phule, Fatima Sheikh made tremendous contributions to Indian women's education, especially those belonging to marginalised sections of society.Jyotirao and Savitribai Phule are widely known pioneers of Indian women’s education movements. Revered for their persistent efforts for securing individual rights, they are celebrated leaders in Indian political history. However, little do we know about Fatima Sheikh. A woman who played an important part in the lives of Jyotirao and Savitribai, without whom they would not have implemented their ideas in the ways they did. Like many women social reformers, Fatima Sheikh has been ignored in history.  So little is known about her that even her birth anniversary is speculated and not confirmed. The question then arises, why are we not celebrating her and why is so little known about her?

@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Friedman's famous quip about the Sahara Desert is deployed as a pithy illustration of Chakraverti's argument that state ownership inevitably produces scarcity."
+    evidence:
+      - quote: "As Milton Friedman famously remarked, \"If you give the Sahara Desert to the government, there will be a shortage of sand in 5 years!\""
+        context: "Friedman's aphorism anchors the essay's critique of state ownership of natural resources"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's nationalisations of banks and coal mines are cited as the concrete historical demonstration that India's Constitution, lacking property rights protection, enabled legal plunder."
+    evidence:
+      - quote: Indira Gandhi could nationalise private banks, she could nationalise the coal mines, Air India… what have you. The law allowed it.
+        context: "Indira Gandhi's nationalisations are used as the prime example of 'legal plunder' made possible by constitutional absence of property rights"
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "JRD Tata's airline is invoked as the property wrongly expropriated by Indira Gandhi's nationalisations, symbolising the private-enterprise victims of socialist law."
+    evidence:
+      - quote: The law did not say that the airline belonged to JRD Tata and the State has to protect Property, not take it away.
+        context: "JRD Tata's Air India is used as the concrete example of property taken through legal nationalisation"
+    key_passages: []
+related_thinkers: 
+  - indira-gandhi
+  - jrd-tata
+  - milton-friedman
+
 ---
 
 In the following article, Sauvik Chakraverti conceptualises how a ‘rule of law society’ can be achieved. A rule of law society is the one in which people instinctively follow the rules because it is in their interest to do so. Chakraverti explains three principles - private several property, contracts, and torts - which are essential to making good laws. He argues that societal order requires the formation of laws based on these principles, and for lawyers and judges to uphold them.

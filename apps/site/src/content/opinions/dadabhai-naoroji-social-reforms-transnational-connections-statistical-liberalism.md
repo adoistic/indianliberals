@@ -8,6 +8,47 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: dadabhai-naoroji
+    role: subject
+    reasoning: "The essay is a detailed scholarly profile of Dadabhai Naoroji's career as social reformer, transnational political actor, and originator of the drain of wealth theory, examining his ideas and methods across multiple domains."
+    evidence: []
+    key_passages:
+      - quote: The career of Dadabhai Naoroji, the Grand Old Man of Indian nationalism and perhaps the most prominent liberal figure, captured the zeitgeist of this early phase of Indian nationalism
+        what_it_shows: "establishes Naoroji's centrality to the liberal phase of Indian nationalism"
+      - quote: Himself a target of vicious racist jibes from no one less than the Conservative prime minister Lord Salisbury in the infamous Black Man incident of 1888, Naoroji took an active interest in transnational initiatives against racism
+        what_it_shows: his personal experience of racism radicalised him toward transnational anti-racist activism
+      - quote: "Naoroji and his fellow statistical liberals' protectionist economic agenda, suspicion of foreign capital and trade, and envisioning of a larger role for the state went on to shape the economic agenda of Indian nationalists including Gandhi"
+        what_it_shows: "the essay's critical assessment of the long-term negative economic legacy of Naoroji's drain theory"
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: Gokhale is cited as the founder of the Servants of India Society, one of the liberal civil society associations that sought to represent Indian interests and demand rights from the state.
+    evidence:
+      - quote: "Gopal Krishna Gokhale's Servants of India society, Mahadev Govind Ranade's Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations"
+        context: listing key liberal civil society associations created by the moderate generation
+    key_passages: []
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: Ranade is named as the founder of the Deccan Sabha and as one of the Indian liberal practitioners of statistical liberalism alongside Naoroji.
+    evidence:
+      - quote: "Gopal Krishna Gokhale's Servants of India society, Mahadev Govind Ranade's Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations"
+        context: "Ranade's Deccan Sabha placed among the key liberal civil society associations"
+      - quote: The most prominent practitioners of this version of political economy were RC Dutt, KT Telang, and Dadabhai Naoroji
+        context: "listing statistical liberals in which Ranade's intellectual milieu contextualises Naoroji's contribution"
+    key_passages: []
+  - thinker: karsandas-mulji
+    role: mention
+    reasoning: Karsandas Mulji is listed among the Young Bombay social reformers who worked with Naoroji on educational and religious reform initiatives in the mid-1800s.
+    evidence:
+      - quote: Naoroji was instrumental in shaping the educational reform agenda along with fellow western-educated, liberal-minded reformers- Navrozji Fardunji, Karsondas Mulji, Bhau Daji
+        context: "listing Karsandas Mulji as part of Naoroji's immediate reform circle in Bombay"
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - karsandas-mulji
+  - mahadev-govind-ranade
+
 ---
 
 _In his decades-long career in Britain, Naoroji laboured relentlessly to popularise the Indian cause. Given the uncooperative attitudes of colonial bureaucracy at home, Naoroji figured that the best way to serve Indian interests would be to influence decision-making in the British parliament. (Image Credits : The Asian Age) _The early phase of nationalist movement in India, dominated by the largely liberal-minded moderate faction of the Indian National Congress (INC), saw them envision a wholesome agenda for the regeneration of India.

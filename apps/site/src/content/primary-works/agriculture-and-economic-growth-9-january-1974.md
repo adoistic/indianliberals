@@ -7,10 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - jawaharlal-nehru
+related_thinkers: 
   - mahatma-gandhi
-  - p-c-mahalanobis
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +47,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Clark invokes a personal interview with Mahatma Gandhi at the end of 1947 in which Gandhi opposed Nehru's procurement, price-control and rationing scheme, using Gandhi's position to support his own critique of government food procurement."
+    evidence:
+      - quote: "invoking a personal interview with Mahatma Gandhi at the end of 1947 in which Gandhi opposed Nehru's procurement, price-control and rationing scheme"
+        context: "key-points bullet on procurement; Gandhi's anti-procurement position is cited as moral authority against state intervention in foodgrain markets"
+    key_passages: []
+
 ---
 
 # Agriculture & Economic Growth

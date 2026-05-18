@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: Masani is named as one of the Swatantra Party MPs whose parliamentary speeches in the 1965-66 budget debate form the content of the publication, establishing him as a principal critic of Congress economic policy.
+    evidence:
+      - quote: The Budget versus The People is a compendium of speeches delivered by Swatantra Party Members of Parliament like MR Masani and N. Dandekar
+        context: Masani identified as a key parliamentary voice in the budget critique
+    key_passages: []
+related_thinkers: 
+  - minoo-masani
+
 ---
 
 _The Budget versus The People is a compendium of speeches delivered by Swatantra Party Members of Parliament like MR Masani and N. Dandekar in the Lok Sabha and Dahyabhai V Patel, M Ruthnaswamy and SS Mariswamy in the Rajya Sabha during the discussion on the Union Budget of 1965-66. __Across the five speeches, the MPs were able to highlight some fundamental problems caused by the Congress administration and the lack of emphasis on the Budget on some issues. In contrast, there was an over-emphasis on some others._

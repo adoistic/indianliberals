@@ -11,25 +11,24 @@ author: "rakesh-mohan"
 thinker_mentions:
   - thinker: a-d-shroff
     role: mention
-    reasoning: "The lecture is delivered in Shroff's memory and opens by recounting his role as a Bombay Plan author, Bretton Woods delegate, and founder of the Forum of Free Enterprise — framing him as the ideological anchor whose free-enterprise legacy contrasts with the public-sector institutions he helped midwife."
+    reasoning: The lecture was delivered as the A.D. Shroff Memorial Lecture; the opening passages extensively credit Shroff with foundational contributions to the Bombay Plan, the Bretton Woods Conference, and the Forum of Free Enterprise.
     evidence:
       - quote: I am deeply honoured to have been invited to deliver this A. D. Shroff Memorial Lecture.
-        context: opening line; positions Shroff as the namesake and dedicatee of the entire address
-      - quote: He was among the eight authors of the Bombay Plan and an unofficial delegate at the Bretton Woods Conference
-        context: "biographical aside establishing Shroff's institutional weight in mid-century Indian economic policy"
-      - quote: Mr. Shroff founded the Forum of Free Enterprise.
-        context: closes the biographical aside by highlighting the free-enterprise institution Shroff built, which sponsors this very lecture
+        context: "Shroff's name is the framing anchor of the entire address"
+      - quote: "A. D. Shroff accomplished much during his life: he passed away at a relatively young age. He was associated with Pandit Jawaharlal Nehru as early as 1938 when he served with him in the National Planning Committee."
+        context: "Shroff's career is sketched to establish him as a central figure in the institutional history of Indian economic thought"
     key_passages: []
   - thinker: jawaharlal-nehru
     role: mention
-    reasoning: "Nehru appears in a biographical aside as Shroff's collaborator on the 1938 National Planning Committee, used to underscore Shroff's early institutional involvement at the founding moment of Indian economic planning."
+    reasoning: "Nehru is mentioned as the political associate with whom Shroff collaborated in the National Planning Committee in 1938, contextualising the ideological distance between Shroff's free-enterprise advocacy and Nehru's later planning orthodoxy."
     evidence:
       - quote: He was associated with Pandit Jawaharlal Nehru as early as 1938 when he served with him in the National Planning Committee.
-        context: "establishes Shroff's planning-era credentials by linking him directly to Nehru's founding committee"
+        context: Nehru is invoked to situate Shroff within the intellectual milieu of Indian economic planning before the two diverged
     key_passages: []
 related_thinkers: 
   - a-d-shroff
   - jawaharlal-nehru
+
 
 ---
 

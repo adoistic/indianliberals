@@ -8,14 +8,13 @@ authors:
   - s-s-kanoria
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - adam-smith
-  - john-kenneth-galbraith
-  - eugene-black
-  - mahatma-gandhi
   - friedrich-hayek
-  - jawaharlal-nehru
+  - john-kenneth-galbraith
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +47,45 @@ missing_metadata_flags:
   - author_not_in_authority_file
   - no_toc_single_speech
   - purpose_taxonomy_not_provided
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: The lecture is delivered as the A. D. Shroff Memorial Lecture, and Kanoria opens by honouring Shroff as the industrialist-economist whose convictions inspired the Forum of Free Enterprise.
+    evidence:
+      - quote: "The lecture honours A. D. Shroff and grounds the Forum of Free Enterprise's mission in Shroff's life and convictions."
+        context: Shroff is the formal dedicatee and inspirational figure of the lecture
+      - quote: Kanoria opens by honouring Shroff as an industrialist-economist whose convictions inspired the Forum
+        context: direct tribute to Shroff as the moral and intellectual founder of the forum
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Adam Smith's laissez-faire is invoked as one of the two extremes Kanoria explicitly rejects, positioning his philosophy of socially accountable private enterprise between classical liberalism and state ownership."
+    evidence:
+      - quote: "He rejects two extremes: the laissez-faire of Adam Smith and the Manchester School, which he calls 'as dead as the dodo', and full state ownership and centralised planning"
+        context: "Smith's laissez-faire represents the extreme Kanoria distances his own position from"
+    key_passages: []
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Hayek's Road to Serfdom is cited as an authority on the dangers of state aggrandisement, supporting Kanoria's argument that concentrated government power threatens both economic and personal freedom."
+    evidence:
+      - quote: "He cites Hayek's Road to Serfdom and Mahatma Gandhi on the dangers of state aggrandisement"
+        context: "Hayek's warning about the slide from planning to tyranny is invoked to ground the essay's defence of private enterprise"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's warnings against state aggrandisement are cited alongside Hayek as a moral authority supporting the case against statist economic control, grounding the argument in Indian tradition."
+    evidence:
+      - quote: "He cites Hayek's Road to Serfdom and Mahatma Gandhi on the dangers of state aggrandisement"
+        context: "Gandhi's anti-statist counsel is paired with Hayek to show that the critique of big government unites Western liberal thought with the Gandhian tradition"
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith's New Industrial State is cited as the intellectual framework within which Kanoria welcomes the rise of professional management as a positive evolution in capitalism."
+    evidence:
+      - quote: "Echoing Galbraith's New Industrial State, he welcomes the rise of professional management"
+        context: "Galbraith's analysis of managerial capitalism is drawn on to update the vision of private enterprise beyond the owner-entrepreneur model"
+    key_passages: []
+
 ---
 
 # A PHILOSOPHY OF BUSINESS

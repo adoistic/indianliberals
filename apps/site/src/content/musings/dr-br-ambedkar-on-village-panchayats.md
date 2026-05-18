@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "bhimrao-ambedkar"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is cited as the principal opposing voice on Panchayati Raj, establishing the intellectual context within which Ambedkar's dissenting position on village panchayats can be understood."
+    evidence:
+      - quote: "Ambedkar's views on Panchayati Raj in India differed from that of other leaders like Mahatma Gandhi in terms of the practicality of its implementation."
+        context: "Gandhi's advocacy for village panchayats is named as the dominant view that Ambedkar's speech challenges"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 _Published by the Dr Ambedkar Foundation, Ministry of Social Justice & Empowerment, Government of India, the excerpt below has been borrowed from one of Dr B R Ambedkar’s speeches during the Bombay Legislative Council on Village Panchayats Bill debates on 6__th__ October 1932._

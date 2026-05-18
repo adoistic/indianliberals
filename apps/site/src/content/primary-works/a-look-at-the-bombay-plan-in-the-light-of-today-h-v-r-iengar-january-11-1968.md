@@ -8,9 +8,10 @@ authors:
   - h-v-r-iengar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - jrd-tata
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +45,22 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff is the central figure of the lecture: Iengar traces Shroff's evolution from co-author of the 1944 Bombay Plan (which accepted State intervention) to founder of the Forum of Free Enterprise in 1956 and advocate of free markets, framing this intellectual journey as the essay's core argument."
+    evidence:
+      - quote: "H. V. R. Iengar's address takes the 1944 Bombay Plan — co-authored by A. D. Shroff alongside Purshotamdas Thakurdas, J. R. D. Tata, G. D. Birla, Sriram, Kasturbhai Lalbhai and John Matthai — as a mirror for India's later experience with state planning."
+        context: "establishes Shroff's co-authorship of the Bombay Plan as the starting point of the intellectual journey"
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "J. R. D. Tata's call for a 'plan holiday' after the Third Five-Year Plan is cited as a prescient liberal business voice whose warning was eventually vindicated by events."
+    evidence:
+      - quote: "He invokes J. R. D. Tata's earlier proposal for a 'plan holiday' after the third Five-Year Plan, noting that events ultimately forced Government to adopt it."
+        context: "Tata's plan holiday proposal is evidence that Indian business leaders recognised the planning experiment's failure before the government did"
+    key_passages: []
+
 ---
 
 # A Look at the Bombay Plan in the Light of Today

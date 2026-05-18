@@ -7,6 +7,33 @@ language: "en"
 needs_review: true
 draft: false
 author: "rajkumari-amrit-kaur"
+thinker_mentions:
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is identified as the freedom fighter who inspired Amrit Kaur's passionate desire for India's freedom, making him her key political mentor."
+    evidence:
+      - quote: introducing her to freedom fighters like Gopal Krishna Gokhale
+        context: "Gokhale identified as the political mentor who inspired Amrit Kaur's nationalism"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is a central presence in Amrit Kaur's life: she joined his Sewagram Ashram, worked as his secretary for 16 years, and her entire political commitment was shaped by his ideals."
+    evidence:
+      - quote: Deeply inspired by Mahatma Gandhi’s commitment to the nation’s freedom and development, she joined Gandhi’s Sewagram Ashram and worked as his secretary for 16 years.
+        context: "establishes Gandhi as the defining personal and political influence in Amrit Kaur's public life"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is mentioned as the Prime Minister in whose Cabinet Amrit Kaur served as India's first female Health Minister, and she is noted to have criticised him for not having enough women in the 1936 Congress Working Committee."
+    evidence:
+      - quote: the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence
+        context: "situates Amrit Kaur's historic ministerial appointment within Nehru's government"
+    key_passages: []
+related_thinkers: 
+  - gopal-krishna-gokhale
+  - jawaharlal-nehru
+  - mahatma-gandhi
+
 ---
 
 _Known as “a princess in her nation’s service”, Rajkumari Amrit Kaur of Kapurthala wore many hats  – a freedom fighter, philanthropist, Parliamentarian, and a far-sighted Union Health Minister–the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence. She was also one of the 15 founding members of the 299-member Constituent Assembly that came together to debate and draft the Constitution in December 1946._

@@ -17,9 +17,11 @@ contributors:
   - role: author
     thinker_unresolved: P. S. Narayan
     toc_index: 3
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - a-d-shroff
+  - b-r-shenoy
+  - homi-mody
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +54,33 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
+thinker_mentions:
+  - thinker: homi-mody
+    role: mention
+    reasoning: Sir H. P. Mody opens the booklet with a polemic against the Five-Year Plan regime, arguing for consolidation and realism over gigantism; his address is the lead essay in the volume.
+    evidence:
+      - quote: Sir H. P. Mody opens with a polemic against the planning apparatus itself
+        context: "Mody's essay is the opening statement of the booklet's classical-liberal post-mortem on Indian planning"
+      - quote: "Mody warns that unless the obsession with 'gigantism' is abandoned in favour of consolidation and realism, the Third Plan target of food self-sufficiency by 1981 will be a fresh casualty of the same mindset."
+        context: "Mody's central warning about planning's self-perpetuating cycle of failure"
+    key_passages: []
+  - thinker: b-r-shenoy
+    role: mention
+    reasoning: "Shenoy contributes the second essay in the booklet, diagnosing India's food crisis as caused not by hoarders but by deficit financing and the misdirection of public-sector resources away from agriculture."
+    evidence:
+      - quote: Prof. B. R. Shenoy diagnoses the food crisis as the product of deficit financing and the misdirection of public-sector resources rather than hoarding
+        context: "Shenoy's monetary analysis of the food crisis is the second essay's core contribution"
+      - quote: "Shenoy's 'India's Food Problem' refuses the then-fashionable explanation that the food crisis is the work of hoarders and traders."
+        context: "Shenoy's counter-narrative challenges the prevailing scapegoating of traders and farmers"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's prescription of consolidation and realistic Fourth Plan framing is endorsed by P. S. Narayan in the booklet's third essay, positioning Shroff as the Forum's intellectual anchor for sound fiscal policy."
+    evidence:
+      - quote: "Endorses A. D. Shroff's prescription: halt new expansion programmes, consolidate, and finance the Fourth Plan from realistically available resources."
+        context: "Shroff's counsel for consolidation is the normative benchmark against which the third essay evaluates the foreign exchange crisis"
+    key_passages: []
+
 ---
 
 # A Review of Current Economic Problems

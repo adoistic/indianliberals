@@ -8,6 +8,37 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is presented as the definitive rebuttal to the claim that Asian peoples prioritise bread over freedom, with Masani arguing that Gandhi's mass appeal rested on non-material, spiritual values."
+    evidence:
+      - quote: Mahatma Gandhi shown that the man who evokes a response in their hearts is the one who talks to them of non-material values like God, Love, Truth, Human Brotherhood
+        context: "refuting Crossman's thesis that Asian masses are purely material in their aspirations"
+      - quote: Gandhi represents the complete antithesis of the Communist and has been recognized as such in the Moscow press and radio for over three decades
+        context: core ideological contrast between Gandhian and communist worldviews
+      - quote: the only genuine, the only Indian social revolution is the one that Gandhi commenced
+        context: "Masani's conclusion anchoring India's social revolution in Gandhi's legacy"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan is quoted renouncing dialectical materialism and affirming that individual spiritual reconstruction is the prerequisite for social change, serving as a key witness to Masani's argument."
+    evidence:
+      - quote: "Only last month Jayaprakash Narayan wrote, \"For many years I have worshipped at the shrine of the goddess Dialectical Materialism"
+        context: "JP's conversion from materialism cited as evidence that non-material values transcend ideology"
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Lincoln's famous maxim about a house divided is deployed to argue for the universality of the freedom struggle across the Cold War world."
+    evidence:
+      - quote: If it was true in the time of Abraham Lincoln that no nation could be half slave and half free, it is equally true today in this shrinking world
+        context: "concluding analogy extending Lincoln's Civil War framing to the global Cold War"
+    key_passages: []
+related_thinkers: 
+  - abraham-lincoln
+  - jayaprakash-narayan
+  - mahatma-gandhi
+
 ---
 
 _Published below is an article written by Minoo Masani in 1952, which appeared in the December 2002 edition of Freedom First Magazine. This piece was written during the years of the cold war wherein Mr Masani makes a coherent, impassioned and prudent plea to safeguard universal human values._

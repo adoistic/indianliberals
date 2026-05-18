@@ -8,6 +8,27 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: Ranade is identified alongside Ganesh Vasudev Joshi as the key leadership duo who made the Poona Sarvajanik Sabha the foremost political association in India, and who later left to form the Deccan Sabha.
+    evidence:
+      - quote: under the able leadership of Mahadev Govind Ranade and Ganesh Vasudev Joshi, the Sabha emerged as the foremost political association in India with a progressive bent.
+        context: credits Ranade as the central driving intellectual force of the Sabha
+      - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade – left the Sabha to form Deccan Sabha in 1896.
+        context: "marks Ranade's departure from the Sabha after the Tilak faction's takeover"
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: Gokhale is named as one of the liberal leaders who left the Poona Sarvajanik Sabha alongside Ranade after the extremist Tilak faction took control.
+    evidence:
+      - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade – left the Sabha to form Deccan Sabha in 1896.
+        context: "marks Gokhale's principled exit from the Sabha alongside Ranade"
+    key_passages: []
+related_thinkers: 
+  - gopal-krishna-gokhale
+  - mahadev-govind-ranade
+
 ---
 
 _Despite the predominantly urban middle-class character of the Sabha, its work as a mediating body between the state and peasantry stemmed from the liberal conviction of the Sabha leaders who sought to operate in the domain of civil society. _The formative years of the modern, pan-Indian nationalism can be traced back to the latter half of the 19th century. The culmination of the British expansion into a centralized governance mechanism partly contributed to this pan-Indian political consciousness. Inspired by the induction of ideas of modernity in India, the newly emergent political associations in major provincial centers responded to this consolidation of colonial administration. These associations fashioned themselves as representatives of native opinion and made claims on behalf of the community. Prominent among them in the western province was the Poona Sarvajanik Sabha.

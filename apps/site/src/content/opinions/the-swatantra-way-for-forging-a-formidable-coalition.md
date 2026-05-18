@@ -8,6 +8,47 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions:
+  - thinker: minoo-masani
+    role: mention
+    reasoning: Masani is a central figure in the article as the Swatantra theorist of electoral coalition strategy, with his views on the first-past-the-post system and opposition cooperation discussed at length.
+    evidence:
+      - quote: "Minoo Masani did not support the Swatantra-Hindu Mahasabha association in the Lok Sabha given the latter's frank position on the communal issues."
+        context: "marks Masani's principled limit on coalition-making with communal parties"
+      - quote: According to Minoo Masani, the first-past-the-post electoral system evolved for countries with two-party systems.
+        context: "cites Masani's electoral theory as the intellectual basis for Swatantra's coalition approach"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: Rajaji is cited as the other senior Swatantra leader who took a contrasting position to Masani on coalition policy — willing to ally even with communal parties to defeat Congress.
+    evidence:
+      - quote: "However, the other founding member of the Swatantra Party - Rajaji, was ready to 'ally with the devil himself' to defeat the Congress."
+        context: "captures Rajaji's more pragmatic and less principled approach to electoral alliances"
+      - quote: According to S. V. Raju, Masani and Rajaji were two liberals who agreed on nine out of ten things. Yet on an issue as crucial as the coalition policy of the Swatantra Party, they were rarely on the same page.
+        context: frames the Masani-Rajaji disagreement over alliances as the central strategic tension
+    key_passages: []
+  - thinker: s-v-raju
+    role: mention
+    reasoning: S.V. Raju is cited as the authority who characterised the Masani-Rajaji relationship and their disagreement over coalition policy.
+    evidence:
+      - quote: According to S. V. Raju, Masani and Rajaji were two liberals who agreed on nine out of ten things.
+        context: Raju invoked as the interpretive authority on the Masani-Rajaji relationship
+    key_passages: []
+  - thinker: sh-batlivala
+    role: mention
+    reasoning: "SH Batlivala is identified as a Swatantrite whose analysis of 1967 state election results and theory of one-opposition-party-per-state is the substantive core of the article's discussion of coalition strategy."
+    evidence:
+      - quote: Sohrab Batlivala, a Swatantrite, made an interesting observation about the 1967 state election results.
+        context: introduces Batlivala as the source of the strategic analysis
+      - quote: Batlivala argued that these states could be strategically targeted by opposition parties.
+        context: credits Batlivala with the strategic proposal for targeted opposition coordination
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - minoo-masani
+  - s-v-raju
+  - sh-batlivala
+
 ---
 
 India, the world’s largest democracy, recently concluded its general elections. The date of the election results 4th June 2024 coincided with the date of establishment of the Swatantra Party. The formations that emerged from this largest electoral exercise in the world have more in common with the Swatantra Party than just the date. One would correctly wonder what could be so similar between a recently concluded election and a political party that was founded sixty-five years ago. The Swatantra Party contributed immensely to Indian political and electoral thinking. Much of this invaluable treasure of ideas has remained hidden in the old Swatantra documents and souvenirs waiting for researchers, young and old, willing to explore them. This article discusses the timeless wisdom of the Swatantrites, especially for the opposition parties faced with a formidable ruling party or a ruling coalition. 

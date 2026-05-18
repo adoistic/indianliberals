@@ -12,18 +12,19 @@ subject: "anandibai-joshee"
 thinker_mentions:
   - thinker: anandibai-joshee
     role: subject
-    reasoning: "The piece is a full-length profile of Joshee — tracing her journey from a nine-year-old child bride in an orthodox Brahmin family to becoming India's first woman to earn an MD in Western medicine — and reading her public stances alongside her private letters as a case study in fragmented women's liberalism."
+    reasoning: "The essay is a full-length profile of Anandibai Joshee, tracing her life from child marriage to becoming India's first female MD in western medicine, and examining the fragmented feminism she expressed privately and publicly."
     evidence: []
     key_passages:
-      - quote: "Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine."
-        what_it_shows: establishes her defining arc — from constrained child-bride origins to historic medical achievement
-      - quote: She was determined to go to America for a medical degree as she believed in the urgent need for an Indian female doctor.
-        what_it_shows: "captures her own voice on why female medical practitioners mattered, distinguishing her motive from her husband's ambition"
-      - quote: In 1886, Anandibai received her medical degree thus becoming the first Indian woman to successfully receive an MD in western medicine.
-        what_it_shows: records the historic credentialing moment around which her legacy is built
-      - quote: She was also extremely critical of son preference among Indian parents
-        what_it_shows: shows the private, gender-critical edge of her thinking that the essay foregrounds as proto-feminist liberalism
+      - quote: "Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine"
+        what_it_shows: encapsulates her defining arc from constrained origins to historic achievement
+      - quote: She was determined to go to America for a medical degree as she believed in the urgent need for an Indian female doctor
+        what_it_shows: "establishes her autonomous motivation distinct from her husband's ambitions"
+      - quote: I go to America because I wish to study medicine
+        what_it_shows: her public articulation of purpose in her Serampore speech, asserting agency in her own voice
+      - quote: "Not only as a pioneer of women's education but also as a developing, transitioning critical liberal thinker"
+        what_it_shows: "the essay's concluding characterisation of her legacy as a liberal thinker in formation"
 related_thinkers: []
+
 
 ---
 

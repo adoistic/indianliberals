@@ -8,8 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - eugene-black
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +49,22 @@ missing_metadata_flags:
   - year_not_printed_on_visible_pages
   - no_colophon_visible
   - series_not_stated_on_visible_pages
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black, as World Bank president, is credited by Shroff for sympathetic stewardship of India's international borrowing, alongside George Woods, positioning Black as a key Western enabler of India's developmental finance."
+    evidence:
+      - quote: crediting Eugene Black and George Woods for sympathetic stewardship
+        context: Shroff credits Black for unusually sympathetic terms in World Bank lending to India
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Krishnamachari's 1957 budget shock is identified by Shroff as the single event that most damaged investor confidence and cut new capital issues, making him central to Shroff's account of how poor fiscal policy impaired the capital market."
+    evidence:
+      - quote: "Shroff describes Indian planning as 'Planless Planning' and singles out T. T. Krishnamachari's 1957 budget as the shock that cut new capital issues from Rs. 117 crores to Rs. 98 crores and rattled investor confidence for the next year."
+        context: "Krishnamachari's budget identified as the proximate cause of capital-market damage"
+    key_passages: []
+
 ---
 
 # FINANCE AND INDUSTRY IN INDIA

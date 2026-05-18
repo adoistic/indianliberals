@@ -7,8 +7,9 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - ludwig-erhard
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,6 +41,17 @@ missing_metadata_flags:
   - year_not_printed
   - series_number_not_printed
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Ludwig Erhard's bold decision to scrap controls in post-war West Germany is the central case study in Dahanukar's argument for free enterprise; Erhard is quoted at length and his 1958 New Delhi address is invoked."
+    evidence:
+      - quote: "credits Ludwig Erhard's bold decision to remove controls — taken in the face of predicted chaos — with unleashing the individual initiative that produced the so-called German economic miracle"
+        context: "Erhard as the empirical proof of concept for Dahanukar's free-enterprise argument"
+      - quote: "Invokes Erhard's 1958 New Delhi address to attack imitative planning, insisting that economic life is shaped 'not at the draft-board, but by human beings'"
+        context: "Erhard's own words brought to bear on Indian planners"
+    key_passages: []
+
 ---
 
 # FREE ENTERPRISE—THE KEY TO PROSPERITY

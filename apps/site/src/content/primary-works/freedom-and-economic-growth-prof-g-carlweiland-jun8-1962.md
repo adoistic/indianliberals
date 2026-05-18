@@ -7,11 +7,11 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
-  - mahatma-gandhi
-  - jawaharlal-nehru
+related_thinkers: 
   - a-d-shroff
+  - jawaharlal-nehru
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +49,29 @@ physical:
 missing_metadata_flags:
   - no_toc_present
   - author_not_in_authority
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's conviction that a totalitarian or socialist state is 'a people's republic in which the people have a choice' is the central ideological target Wiegand argues against, paired with a Gandhian counter-quotation."
+    evidence:
+      - quote: "The pamphlet's central polemic is directed at the conviction, which Wiegand attributes to Jawaharlal Nehru and to \"many American economists and politicians,\" that a totalitarian or socialist state is \"a 'people's republic' in which the people have a choice.\""
+        context: "Nehru's premise is the foil against which Wiegand sets the Gandhian critique of the state"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's characterisation of the state as 'a soulless machine' that 'can never be weaned from violence' is invoked at length as a powerful counter to Nehru's statist premise."
+    evidence:
+      - quote: "Gandhi is enlisted as an ally against state planning, via his characterisations of the state as a \"soulless machine\" and as concentrated violence that \"unmans the people and deprives them of initiative.\""
+        context: "Gandhi's specific phrases that Wiegand quotes approvingly"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The pamphlet closes with a Shroff epigraph — 'Free Enterprise was born with man and shall survive as long as man survives' — framing the entire essay within the Forum of Free Enterprise's founding credo."
+    evidence:
+      - quote: "a flanking A. D. Shroff epigraph: \"Free Enterprise was born with man and shall survive as long as man survives.\""
+        context: "Shroff's words provide the ideological bookend to the pamphlet"
+    key_passages: []
+
 ---
 
 # Freedom and Economic Growth

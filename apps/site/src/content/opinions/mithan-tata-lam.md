@@ -9,6 +9,18 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "mithan-tata-lam"
+thinker_mentions:
+  - thinker: mithan-tata-lam
+    role: subject
+    reasoning: The article is a profile of Mithan Tata Lam, covering her education, suffragist work, and role as the first woman lawyer appointed to the Bombay High Court.
+    evidence: []
+    key_passages:
+      - quote: Mithan Tata Lam (1898-1981) was born in Maharashtra to Ardeshir Tata and Herabai Tata.
+        what_it_shows: establishes her family background and life span
+      - quote: one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court
+        what_it_shows: identifies her pioneering legal achievement
+related_thinkers: []
+
 ---
 
 _Indian suffragists had an immense role to play both in the nationalist struggle and the subsequent universal adult franchise. One among them was Mithan Tata, one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court. _Unlike most large democracies, the Indian constitution has adopted universal suffrage from its inception. Indian suffragists deserve a significant share of the credit for this progressive cornerstone of independent India. Along with Madam Bhikaji Cama, Princess Sophia Duleep Singh, and Lolita Roy, Mithan Tata Lam too joined the women’s suffrage movement in British India.

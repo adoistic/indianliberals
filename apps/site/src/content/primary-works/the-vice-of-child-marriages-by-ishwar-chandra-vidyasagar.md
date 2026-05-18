@@ -9,7 +9,9 @@ authors:
   - ishwar-chandra-vidyasagar
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - ishwar-chandra-vidyasagar
+
 publication:
   language: en
   publisher_name: Sarva Subhakari
@@ -43,6 +45,19 @@ missing_metadata_flags:
   - translator_not_named
   - translation_publication_date_unknown
   - theme_vocabulary_not_supplied_in_prompt
+thinker_mentions:
+  - thinker: ishwar-chandra-vidyasagar
+    role: subject
+    reasoning: "The entry is an English translation of Vidyasagar's 1850 essay 'The Vice of Child Marriages', which mounts a sustained reformist attack on child marriage, coupling women's education with the case against early marriage."
+    evidence: []
+    key_passages:
+      - quote: "Vidyasagar opens by dismantling the scriptural rationale — the Smriti-Shastra's promises of Gouri-daan and Prithvi-daan for parents who marry off eight- and nine-year-old daughters — arguing that the rigid corollary that an unmarried menstruating girl damns seven generations of ancestors makes child marriage socially coercive rather than spiritually meritorious."
+        what_it_shows: "Vidyasagar's method: turning the shastric logic against itself to expose the coercive rather than meritorious nature of child marriage"
+      - quote: "mothers are children's most influential teachers and that a society which marries girls off the moment they learn the alphabet cannot educate its women at all"
+        what_it_shows: "Vidyasagar's linking of anti-child-marriage advocacy to the women's education cause"
+      - quote: "enforced fasting without water, shaved heads, starvation, and the suspicion that drives some young widows into 'secretive, licentious relationships' and even feticide"
+        what_it_shows: "Vidyasagar's catalogue of child-widow cruelties, the strongest humanitarian argument for reform"
+
 ---
 
 # The Vice of Child Marriages

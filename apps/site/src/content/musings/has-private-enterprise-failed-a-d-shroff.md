@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-d-shroff"
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "TTK's speech at Madurai — in which he declared 'Private Enterprise has failed me' — is the direct provocation for Shroff's entire address, and the essay systematically unpacks and refutes Krishnamachari's charge."
+    evidence:
+      - quote: "Mr. T. T. Krishnamachari, who was then the Union Minister for Commerce and Industry, at Madurai on 4th of August. In the course of his speech, he observed that \"Private Enterprise has failed me\""
+        context: "TTK's ministerial indictment of private enterprise is the specific charge Shroff's address sets out to rebut"
+    key_passages: []
+related_thinkers: 
+  - t-t-krishnamachari
+
 ---
 
 With the impending slowdown in the Indian economy, many analysts have wondered if Private Enterprise has failed in India. It is imperative to point out that since the 1950s the failures of Private Enterprises in India have been questioned. In this speech made before the Commerce Graduates' Association in Bombay in October 1956, eminent industrialist, banker and economist A D Shroff points out that despite numerous impediments to growth Private Enterprise in India is alive and flourishing. His words remain as true today as they were in then.

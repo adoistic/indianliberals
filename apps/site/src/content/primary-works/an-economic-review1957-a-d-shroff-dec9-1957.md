@@ -8,11 +8,9 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
-  - mahatma-gandhi
-  - eugene-black
+related_thinkers: 
   - nicholas-kaldor
-  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +44,15 @@ physical:
   pages_total: 11
   pages_total_source: pypdfium2
   format: pamphlet; printed by The Onlooker Press, Colaba, Bombay (back-cover imprint dated 7/1/58)
+thinker_mentions:
+  - thinker: nicholas-kaldor
+    role: mention
+    reasoning: "Shroff attacks the Wealth Tax and Expenditure Tax as 'Prof. Kaldor's test-tube babies,' blaming the economist's 1956 tax-reform recommendations for frightening investors and killing the new-issue market."
+    evidence:
+      - quote: "he attacks the Wealth Tax and Expenditure Tax — what he calls Prof. Kaldor's \"test-tube babies\" — as a Pandora's Box that has frightened domestic investors, killed the new-issue market"
+        context: taxation section; Kaldor is named as the intellectual architect of the tax measures Shroff most opposes
+    key_passages: []
+
 ---
 
 # An Economic Review — 1957

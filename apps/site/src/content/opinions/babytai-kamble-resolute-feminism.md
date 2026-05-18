@@ -9,6 +9,30 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "babytai-kamble"
+thinker_mentions:
+  - thinker: babytai-kamble
+    role: subject
+    reasoning: The essay is a full-length profile of Babytai Kamble as a pioneering voice of Dalit intersectional feminism, tracing her life from childhood marriage and entrepreneurship through activism, literature, and education.
+    evidence: []
+    key_passages:
+      - quote: Babytai Kamble was a pioneering voice of intersectional feminism in India. As a Dalit woman, she understood the complexities of caste, class and gender-based oppressions and their overlapping nature
+        what_it_shows: establishes her defining contribution as the originator of an intersectional feminist lens in Indian literature
+      - quote: Kamble herself was inspired by the life of Dr B.R. Ambedkar and the contributions he made to the Dalit community
+        what_it_shows: situates her activism within the Ambedkarite tradition of Dalit emancipation
+      - quote: Not being allowed to read and write by her husband and often subjected to physical violence if caught in the acts of education, Kamble created a space for herself in a male-dominated world
+        what_it_shows: the act of writing as resistance against both patriarchal and caste-based oppression
+      - quote: "She firmly believed in the urgency of young intellectuals who'd be responsible to bring significant change in their lives as well as in the lives of their community"
+        what_it_shows: her forward-looking vision for Dalit intellectual self-empowerment
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is invoked as the inspiration for Kamble's activism, with her work explicitly positioned as continuing and extending his values and goals within the Dalit community."
+    evidence:
+      - quote: "Kamble herself was inspired by the life of Dr B.R. Ambedkar and the contributions he made to the Dalit community. Taking his beliefs and morals forward, Kamble not only became a torchbearer of Ambedkar's values and motives"
+        context: "framing Kamble's activism as a continuation of Ambedkar's emancipatory project"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+
 ---
 
 Babytai Kamble was a pioneering voice of intersectional feminism in India. As a Dalit woman, she understood the complexities of caste, class and gender-based oppressions and their overlapping nature. Her life and work provides a critical lens into the intersectionality of feminism. "It is the woman who is the doer" – Babytai Kamble (Pandit)

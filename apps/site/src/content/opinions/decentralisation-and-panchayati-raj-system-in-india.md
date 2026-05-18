@@ -9,6 +9,9 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+thinker_mentions: []
+related_thinkers: []
+
 ---
 
 **"**When the Panchayat Raj is established, public opinion will do what violence can never do.**" - Mahatma Gandhi**

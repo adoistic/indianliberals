@@ -7,9 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - c-rangarajan
+
 publication:
   language: en
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, Piramal Mansion, 2nd floor, 235, Dr. D. N. Road, Mumbai - 400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Mumbai 400 001, and printed by S. V. Limaye at the India Printing Works, India Printing House, 42, G. D. Ambekar Marg, Wadala, Mumbai 400 031.
@@ -42,6 +43,24 @@ missing_metadata_flags:
   - no_formal_toc
   - publisher_not_in_authority
   - author_not_in_authority
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shah opens with a tribute to A. D. Shroff's moral courage in resisting the socialist consensus of the 1950s, and the lecture itself is the A. D. Shroff Memorial Annual Public Lecture, framing the entire address within Shroff's intellectual legacy."
+    evidence:
+      - quote: "opens with a tribute to A. D. Shroff's 'extra-ordinary moral courage and bold vision (arsh-Dristi)' in resisting the socialist consensus of the fifties"
+        context: "Shroff's moral courage is the opening framing for Shah's own argument about regulatory courage"
+      - quote: The lecture is the 1996 A. D. Shroff Memorial Annual Public Lecture, delivered by Dr. A. C. Shah
+        context: Shroff named as the honoree of the memorial lecture Shah delivers
+    key_passages: []
+  - thinker: c-rangarajan
+    role: mention
+    reasoning: "RBI Governor C. Rangarajan is quoted on the rising importance of leasing companies, lending official institutional authority to Shah's account of the NBFC sector's growing significance."
+    evidence:
+      - quote: Shah quotes RBI Governor C. Rangarajan on the rising importance of leasing companies
+        context: "Rangarajan cited as institutional authority corroborating Shah's description of NBFC sector growth"
+    key_passages: []
+
 ---
 
 # FINANCE COMPANIES

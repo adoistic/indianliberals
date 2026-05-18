@@ -8,8 +8,9 @@ authors:
   - c-s-seshadri
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +45,15 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
   - "thinker_not_in_authority_file:c-s-seshadri"
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Seshadri's lecture is the A. D. Shroff Memorial Lecture; Shroff is named at the outset as the occasion's namesake, establishing the free-enterprise framing within which the administrative diagnosis is delivered."
+    evidence:
+      - quote: Delivered as the A. D. Shroff Memorial Lecture in Bangalore on 30 October 1979 and published by the Forum of Free Enterprise
+        context: "opening attribution; Shroff's name anchors the lecture within the Forum's classical-liberal tradition"
+    key_passages: []
+
 ---
 
 # Challenge Before the Administration

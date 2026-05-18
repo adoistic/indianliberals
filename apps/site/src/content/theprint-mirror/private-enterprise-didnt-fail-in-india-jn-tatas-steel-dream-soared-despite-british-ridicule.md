@@ -5,11 +5,23 @@ pubDate: 2025-07-12T11:54:46
 author_name: "AD Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule/2688008/"
 themes: ["indian-liberals-matter", "private-enterprise"]
-related_thinkers: ["a-d-shroff"]
+related_thinkers: 
+  - t-t-krishnamachari
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Krishnamachari's accusation that 'Private Enterprise has failed me' is the main provocation the essay was written to answer, and his qualities as Industry Minister are simultaneously praised and his rhetoric challenged."
+    evidence:
+      - quote: "the main provocation for the choice of the subject is a speech made by Mr. T. T. Krishnamachari, who was then the Union Minister for Commerce and Industry, at Madurai on 4th of August. In the course of his speech, he observed that \"Private Enterprise has failed me\""
+        context: "Krishnamachari's charge is the essay's direct rhetorical target"
+      - quote: Mr. T. T. Krishnamachari must be acknowledged as an outstanding success. Some of us may differ from him on some of the views he holds and propagates.
+        context: "fair acknowledgement of Krishnamachari's ministerial competence before refuting his anti-private-enterprise charge"
+    key_passages: []
 
 ---
 

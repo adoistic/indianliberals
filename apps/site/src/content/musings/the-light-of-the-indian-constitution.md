@@ -7,6 +7,33 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is quoted on the Declaration of Rights becoming part of the Indian mental make-up, providing Palkhivala with a founding father's testimony against the 1976 constitutional amendments."
+    evidence:
+      - quote: "Dr B. R. Ambedkar said: \"The Declaration of the Rights of Man…has become part and parcel of our mental make-up…These principles have become the silent, immaculate premise of our outlook.\""
+        context: "Ambedkar's words invoked to show the founding generation's commitment to fundamental rights that the 1976 amendments threaten"
+    key_passages: []
+  - thinker: sarvepalli-radhakrishnan
+    role: mention
+    reasoning: "Radhakrishnan is quoted on safeguarding the liberty of the human spirit against state encroachment, reinforcing Palkhivala's argument that the 44th Amendment violates foundational constitutional commitments."
+    evidence:
+      - quote: "Dr S. Radhakrishnan said: “We must safeguard the liberty of the human spirit against the encroachments of the State."
+        context: "Radhakrishnan's presidential voice invoked as authoritative testament to the constitutional value being violated"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Nehru is quoted from the Constituent Assembly debates stating that fundamental rights must be viewed as permanent constitutional features, not as contingent responses to present difficulties.
+    evidence:
+      - quote: "Pandit Jawaharlal Nehru said: \"A fundamental right should be looked upon, not from the point of view of any particular difficulty of the moment, but as something that you want to make permanent in the Constitution.\""
+        context: "Nehru's own Constituent Assembly words invoked to show the 1976 amendments betray his original intent"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+  - jawaharlal-nehru
+  - sarvepalli-radhakrishnan
+
 ---
 
 _The following piece was published in [The Forum of Free Enterprise](https://indianliberals.in/forum-of-free-enterprise/the-light-of-the-constitution-n-a-palkhivala-october-20-1976.pdf) in October 1976. The text is derived from an article originally published in The Indian Express highlighting the demerits posed by The Constitution (Forty-fourth Amendment) Bill 1976. Palkhivala elucidates how the Bill threatens the integrity of the constitution and infringes on the fundamental rights of the citizens while raising questions regarding the freedom and liberty of the citizens and the imbalance of powers between the Executive, Legislature and Judiciary through this Bill. _Next week the Constitution (Forty-fourth Amendment) Bill 1976 will be taken up by Parliament, while the Prime Minister's wish that there should be a ‘free and open public debate’ and a ‘study in depth’ before the amendments are passed into law has remained unfulfilled.

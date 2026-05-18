@@ -8,8 +8,12 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - jayaprakash-narayan
+  - mahatma-gandhi
+  - vinoba-bhave
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +47,40 @@ missing_metadata_flags:
   - colophon_not_found
   - no_publisher_imprint_line
   - no_pamphlet_series_number
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: subject
+    reasoning: "A near-identical version of Shroff's 1961 presidential address to the Forum, sweeping liberal indictment of the Third Plan as a Soviet model, this entry is a second rendering of the same text."
+    evidence: []
+    key_passages:
+      - quote: "A. D. Shroff's presidential address to the fifth annual general body meeting of the Forum of Free Enterprise (Bombay, 25 October 1961) is a sweeping liberal indictment of India's Third Five-Year Plan and the doctrinaire socialism that animates it."
+        what_it_shows: "establishes the address as the anchor document of Shroff's anti-planning case"
+      - quote: "the Third Plan as a \"carbon copy of the Soviet Communist model\" — heavy industry, collectivised agriculture, centralised ownership, and a gross disregard for basic human liberties"
+        what_it_shows: "Shroff's characterisation of the Plan's ideological derivation"
+      - quote: the rupee-payment scandal flagged by Murarji Vaidya, low returns on state investments confirmed by the Finance Minister, the unaccountable accounting at government companies
+        what_it_shows: "Shroff's catalogue of state-enterprise failure, citing Vaidya as a fellow Forum voice"
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Shroff opens by noting that even committed socialists like Jayaprakash Narayan are now disillusioned with nationalisation, using this as a concessive argument for the bankruptcy of the Plan's ideological premise."
+    evidence:
+      - quote: Shroff opens with the observation that even committed socialists like Jayaprakash Narayan are now disillusioned with nationalisation
+        context: "opening concessive argument: if even socialists doubt nationalisation, the case against the Third Plan is doubly strong"
+    key_passages: []
+  - thinker: vinoba-bhave
+    role: mention
+    reasoning: "Acharya Vinoba Bhave's January 1959 warning is invoked alongside Gandhi's in Shroff's closing call for private enterprise to assume civic leadership."
+    evidence:
+      - quote: "He closes with Acharya Vinoba Bhave's January 1959 warning that concentrated power in the name of welfare digs democracy's own grave"
+        context: closing moral anchor in the Gandhian tradition
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi's reminder that a state doing everything for the people is the negation of democracy is cited by Shroff in his closing to ground the Forum's free-enterprise case in India's own values."
+    evidence:
+      - quote: "Mahatma Gandhi's reminder that a state that does everything for the people is the negation of democracy."
+        context: "closing citation anchoring Shroff's liberal case in Gandhian inheritance"
+    key_passages: []
+
 ---
 
 # Free Enterprise in India - A Call For Leadership

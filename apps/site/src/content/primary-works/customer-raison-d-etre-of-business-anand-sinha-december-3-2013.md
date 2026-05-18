@@ -9,11 +9,10 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - m-r-pai
   - mahatma-gandhi
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +44,26 @@ physical:
 missing_metadata_flags:
   - no_table_of_contents
   - no_isbn
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "Anand Sinha frames the entire address as a tribute to M. R. Pai, casting Pai and the award's recipient as joint exemplars of the consumer-rights tradition that the RBI's customer-protection architecture seeks to honour."
+    evidence:
+      - quote: "Sinha frames the talk as a tribute to M. R. Pai and to the award's recipient, Shirish Deshpande, casting both as exemplars of the consumer-rights tradition"
+        context: "Pai is the lecture's moral frame; his consumer-rights legacy legitimises the RBI's financial-inclusion and customer-protection programme"
+      - quote: arranged jointly by AIBDA, the Forum of Free Enterprise and the M. R. Pai Foundation
+        context: "Pai's institutional legacy is the organising force behind the award function"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Anand Sinha opens by invoking Mahatma Gandhi's well-known lines on the customer as the speech's foundational text, using Gandhi's moral authority to anchor the argument that the customer is the raison d'être of business."
+    evidence:
+      - quote: "he leans on Mahatma Gandhi's well-known lines on the customer as the speech's foundational text"
+        context: "Gandhi's dictum on the customer is the ethical premise from which the entire consumer-protection argument proceeds"
+      - quote: "uses Mahatma Gandhi's lines on the customer as foundational text"
+        context: Gandhi is the philosophical authority Sinha deploys to frame customer-centricity as a moral imperative
+    key_passages: []
+
 ---
 
 # CUSTOMER

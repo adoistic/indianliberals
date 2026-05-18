@@ -8,10 +8,10 @@ authors:
   - t-mathew
 editors: []
 contributors: []
-related_thinkers:
-  - karl-marx
-  - friedrich-hayek
+related_thinkers: 
   - alexis-de-tocqueville
+  - friedrich-hayek
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +47,22 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Mathew draws on Hayek, alongside Dicey and Tocqueville, to argue that planning's necessary discretion is structurally incompatible with the rule of law, making Hayek a key theoretical support for the essay's central constitutional claim."
+    evidence:
+      - quote: "drawing on Dicey, Hayek and Tocqueville, Mathew contends that planning's necessary discretion is constitutive of arbitrary government"
+        context: rule-of-law section; Hayek is invoked as authority for the incompatibility of discretionary planning with constitutional freedom
+    key_passages: []
+  - thinker: alexis-de-tocqueville
+    role: mention
+    reasoning: "Tocqueville is cited alongside Hayek and Dicey in the rule-of-law section, and his distinction between democracy-as-equality-in-liberty and socialism-as-equality-in-servitude closes the essay's argument."
+    evidence:
+      - quote: "drawing on Dicey, Hayek and Tocqueville, Mathew contends that planning's necessary discretion is constitutive of arbitrary government"
+        context: "rule-of-law section; Tocqueville's maxim on liberty versus servitude provides the essay's closing rhetorical flourish"
+    key_passages: []
+
 ---
 
 # A Socialist Society Cannot Be Democratic

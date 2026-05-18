@@ -7,6 +7,51 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Palkhivala invokes Nehru repeatedly — first as the founding voice of Indian independence, then as the mentor whose legacy he must honour by telling hard truths, and finally as the architect of noble democratic ideals that subsequent governments have betrayed.
+    evidence:
+      - quote: Jawaharlal Nehru made his famous speech wherein he referred to India keeping her tryst with destiny
+        context: "Palkhivala opens by invoking the founding moment of independence through Nehru's voice"
+      - quote: I would be dishonouring the memory of Pandit Nehru and of his mentor, Mahatma Gandhi, if I try to be economical with the truth.
+        context: "Palkhivala pledges fidelity to Nehru's legacy as his warrant for frank criticism"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi appears as Nehru's mentor in the speech's moral invocation, and his memory becomes part of the standard of truth-telling that Palkhivala pledges to uphold in his critique of India's democratic failures."
+    evidence:
+      - quote: I would be dishonouring the memory of Pandit Nehru and of his mentor, Mahatma Gandhi, if I try to be economical with the truth.
+        context: "Gandhi's legacy is paired with Nehru's as a joint moral warrant for the lecture's frank assessment"
+    key_passages: []
+  - thinker: ralph-waldo-emerson
+    role: mention
+    reasoning: "Palkhivala quotes Emerson's phrase 'the summit of human thought' to characterise the ancient Indian civilisation India inherited at independence, using it to heighten the contrast with the country's subsequent economic mismanagement."
+    evidence:
+      - quote: "a civilization which had reached \"the summit of human thought\" in the words of Ralph Waldo Emerson"
+        context: "Emerson's phrase anchors Palkhivala's argument about squandered civilisational capital"
+    key_passages: []
+  - thinker: alexis-de-tocqueville
+    role: mention
+    reasoning: "Palkhivala cites Tocqueville's observation that liberty must be paired with a companion virtue — morality, law, justice — as the philosophical framework for his critique of India's unchecked licence masquerading as freedom."
+    evidence:
+      - quote: "De Tocqueville made the profound observation that liberty cannot stand alone but must be paired with a companion virtue: liberty and morality; liberty and law; liberty and justice; liberty and the common good; liberty and civic responsibility."
+        context: "Tocqueville's pairing of liberty with virtue is the lecture's normative standard for evaluating India's democratic health"
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Palkhivala quotes Galbraith's remark about the 'richness in poverty' of India's poor to illustrate the human depth that GDP metrics cannot capture, using it to argue against measuring national worth purely in material terms."
+    evidence:
+      - quote: "Ambassador John Kenneth Galbraith remarked that while he had seen poverty in many countries of the world, he found one unusual attribute among the poor of India - ''There is richness in their poverty.\""
+        context: "Galbraith's observation supports Palkhivala's argument that India's human capital exceeds its economic statistics"
+    key_passages: []
+related_thinkers: 
+  - alexis-de-tocqueville
+  - jawaharlal-nehru
+  - john-kenneth-galbraith
+  - mahatma-gandhi
+  - ralph-waldo-emerson
+
 ---
 
 The following text is based on the Jawaharlal Nehru Memorial Lecture delivered by Nani Palkhivala at Trinity College, Cambridge, on 7th November 1990. At 43 years of independence, the author analyses India as a democracy, an economy, a united nation. Palkhivala was an Indian jurist, liberal economist and the President of the Forum of Free Enterprise (at the time).

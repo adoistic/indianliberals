@@ -8,8 +8,9 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - john-kenneth-galbraith
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +43,17 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number_printed
   - no_explicit_edition_statement
+thinker_mentions:
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Shenoy's entire pamphlet is a direct riposte to Galbraith's pronouncements in favour of Indian central planning during his India tours, inverting Galbraith's authoritarianism warning back against planning itself."
+    evidence:
+      - quote: "B. R. Shenoy's July 1962 Forum of Free Enterprise leaflet is a direct riposte to J. K. Galbraith, whose pronouncements during his tours of India had cast doubt on those who criticised central planning"
+        context: Galbraith is the named intellectual antagonist whose authority Shenoy is directly challenging
+      - quote: the imported authority of Galbraith, Millikan, Rostow, Ward, Balogh, Bettelheim, Lange and Robinson still props up the dirigiste consensus
+        context: Galbraith heads the list of Western advisers whose authority sustains Indian planning ideology
+    key_passages: []
+
 ---
 
 # CONSUMER SOVEREIGNTY LEADS TO RAPID ECONOMIC DEVELOPMENT

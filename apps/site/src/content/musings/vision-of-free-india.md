@@ -7,6 +7,67 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: subject
+    reasoning: "The entry presents two speeches delivered by Nani Palkhivala — his acceptance address for the Dadabhai Naoroji Award and his response at the University of Mumbai's honorary convocation — making him the primary voice and subject of the piece."
+    evidence: []
+    key_passages:
+      - quote: "Dadabhai Naoroji's vision of a free India was the vision of an enlightened and well-educated society"
+        what_it_shows: "Palkhivala's tribute to Naoroji in which he articulates the liberal ideal of education as the foundation of freedom"
+      - quote: Animals can be trained; only human beings can be educated
+        what_it_shows: "Palkhivala's memorable formulation distinguishing training from genuine liberal education"
+      - quote: What we need today more than anything else is moral leadership at all levels
+        what_it_shows: "his central prescription for India's educated elite, grounding liberalism in moral courage and integrity"
+      - quote: just as we do not deserve our sublime Constitution, just as we do not deserve to have great leaders like Mahatma Gandhi, we did not deserve the galaxy of Indians mentioned earlier
+        what_it_shows: "Palkhivala's lament for India's failure to live up to its liberal founding generation"
+  - thinker: dadabhai-naoroji
+    role: mention
+    reasoning: Dadabhai Naoroji is the namesake of the award Palkhivala received and the subject of the first speech, where his vision of free education and female literacy is celebrated as the foundational liberal ideal.
+    evidence:
+      - quote: "Dadabhai Naoroji's vision of a free India was the vision of an enlightened and well-educated society"
+        context: "opening of Palkhivala's Naoroji Award acceptance speech; Naoroji's educational liberalism as the frame"
+      - quote: Dadabhai was a great pioneer in the promotion of female education
+        context: "Palkhivala's tribute to Naoroji's gender-equality agenda"
+      - quote: Dadabhai, the greatest Indian of his time, was a Zoroastrian by birth and by conviction
+        context: "Palkhivala's characterisation of Naoroji's personal integrity and religious sincerity"
+    key_passages: []
+  - thinker: pherozeshah-mehta
+    role: mention
+    reasoning: "Pherozeshah Mehta is named among the great liberal figures who passed through the University of Mumbai and dedicated their lives to India, invoked as part of Palkhivala's homage to Maharashtra's liberal legacy."
+    evidence:
+      - quote: Sir Pherozeshah Mehta, Mahadev Govind Ranade, Bal Gangadhar Tilak, Gopal Krishna Gokhale- all of whom had the distinction of passing through the portals of this great University
+        context: "Palkhivala's litany of Maharashtra's liberal giants as a standard India has failed to honour"
+    key_passages: []
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: Mahadev Govind Ranade is named among the great liberals who emerged from the University of Mumbai and served the nation, cited by Palkhivala as part of the liberal founding generation India has not lived up to.
+    evidence:
+      - quote: Sir Pherozeshah Mehta, Mahadev Govind Ranade, Bal Gangadhar Tilak, Gopal Krishna Gokhale- all of whom had the distinction of passing through the portals of this great University
+        context: "Palkhivala's evocation of Maharashtra's liberal hall of fame"
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gopal Krishna Gokhale is named in Palkhivala's roll-call of Maharashtra's liberal giants who passed through the University of Mumbai and gave their lives in service of India."
+    evidence:
+      - quote: Sir Pherozeshah Mehta, Mahadev Govind Ranade, Bal Gangadhar Tilak, Gopal Krishna Gokhale- all of whom had the distinction of passing through the portals of this great University
+        context: "Palkhivala's eulogy to the liberal founding generation of Maharashtra"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Mahatma Gandhi is invoked in Palkhivala's lament that India did not deserve its great leaders, positioning Gandhi alongside the Maharashtra liberals as a standard against which contemporary India falls short."
+    evidence:
+      - quote: just as we do not deserve our sublime Constitution, just as we do not deserve to have great leaders like Mahatma Gandhi, we did not deserve the galaxy of Indians mentioned earlier
+        context: "Palkhivala's concluding lamentation on India's failure to honour its liberal and national heritage"
+    key_passages: []
+related_thinkers: 
+  - dadabhai-naoroji
+  - gopal-krishna-gokhale
+  - mahadev-govind-ranade
+  - mahatma-gandhi
+  - nani-palkhivala
+  - pherozeshah-mehta
+
 ---
 
 The following text is taken from a 1998 booklet published by [Forum of Free Enterprise.](https://indianliberals.in/content/education-leadership-and-vision-of-free-india-by-nani-a-palkhivala-february-20-1998/) This text includes two speeches by Nani Palkhivala - an acceptance speech delivered by him when he was conferred with the 1997 Dadabhai Naoroji Award and response speech Palkhivala to the University of Mumbai’s Special Convocation for conferment of Honorary Degree of Doctor of Laws (LL.D.) in 1998.

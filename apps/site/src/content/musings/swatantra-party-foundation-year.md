@@ -6,6 +6,43 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajagopalachari is one of the four named co-authors of 'Why Swatantra' and contributes the section 'To Save Freedom', articulating the party's foundational philosophy."
+    evidence:
+      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+        context: "Rajagopalachari identified as co-author of the Swatantra Party's founding manifesto"
+      - quote: The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State.
+        context: "opening line of Rajagopalachari's own section 'To Save Freedom' in the manifesto"
+    key_passages: []
+  - thinker: n-g-ranga
+    role: mention
+    reasoning: "N. G. Ranga is one of the four co-authors of 'Why Swatantra', contributing the section 'To Preserve the Family Economy', representing the agrarian liberal perspective."
+    evidence:
+      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+        context: Ranga identified as co-author of the founding manifesto
+    key_passages: []
+  - thinker: k-m-munshi
+    role: mention
+    reasoning: "K. M. Munshi is one of the four co-authors of 'Why Swatantra', contributing the section 'To Restore Fundamental Rights'."
+    evidence:
+      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+        context: Munshi identified as co-author of the founding manifesto
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Masani is one of the four co-authors of 'Why Swatantra', contributing the section 'To Provide a Democratic Alternative'."
+    evidence:
+      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+        context: Masani identified as co-author of the founding manifesto
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - k-m-munshi
+  - minoo-masani
+  - n-g-ranga
+
 ---
 
 _To commemorate the 64th Foundation Year of the first and the only Liberal political party in India, we share the following musing published by the Swatantra Party. "Why Swatantra" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani as they analyse with incisive logic the need for a new party and explain with great clarity the party’s fundamental philosophy and programmes. Why Swantantra? They answer: To Save Freedom (Rajagopalachari), To Preserve the Family Economy (N G Ranga), To Restore Fundamental Rights (K M Munshi) and To Provide a Democratic Alternative (Masani)._

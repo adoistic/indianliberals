@@ -8,6 +8,39 @@ language: "en"
 needs_review: true
 draft: false
 author: "lakshmibai-tilak"
+thinker_mentions:
+  - thinker: anandibai-joshee
+    role: subject
+    reasoning: The essay profiles Anandibai Joshi as one of two protagonists, tracing her journey from childhood marriage through her struggle for medical education in America to becoming a pioneering liberal feminist figure in 19th-century India.
+    evidence: []
+    key_passages:
+      - quote: At the mere age of 17, Anandibai Joshi sailed alone to America with the dream of becoming a doctor
+        what_it_shows: establishes the audacity of her individual agency against the social constraints of the time
+      - quote: Anandibai was a staunch Hindu and refused an education that would strip her of her faith
+        what_it_shows: captures her insistence on pursuing modernity without abandoning her cultural identity
+      - quote: I will go to America as a Hindu and return as a Hindu
+        what_it_shows: her public vow crystallises the tension between liberal self-determination and cultural rootedness
+      - quote: Anandibai and Lakshmibai, through their separate paths for empowerment, reiterated and affirmed liberal ideas in the intellectual churning of the 19th century
+        what_it_shows: situates her legacy within the broader 19th-century liberal intellectual movement
+  - thinker: pandita-ramabai
+    role: mention
+    reasoning: Pandita Ramabai is listed alongside Anandibai and Lakshmibai as one of the contemporaneous women who worked toward female emancipation through education in 19th-century India.
+    evidence:
+      - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
+        context: contextualising the two protagonists within a broader movement of women reformers
+    key_passages: []
+  - thinker: ramabai-ranade
+    role: mention
+    reasoning: "Ramabai Ranade is named as one of the contemporaneous women reformers working for women's emancipation through education in the same intellectual milieu as the two protagonists."
+    evidence:
+      - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
+        context: "listing of the women's education movement contemporaries"
+    key_passages: []
+related_thinkers: 
+  - anandibai-joshee
+  - pandita-ramabai
+  - ramabai-ranade
+
 ---
 
 _Dr. Anandibai Joshi and Lakshmibai Tilak embarked on two separate paths for education and yet their paths coalesce into a strong liberal expression for emancipation of the individual._

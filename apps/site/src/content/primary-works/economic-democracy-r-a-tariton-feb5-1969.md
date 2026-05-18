@@ -8,12 +8,13 @@ authors:
   - b-a-tarlton
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - abraham-lincoln
-  - jawaharlal-nehru
-  - mahatma-gandhi
   - adam-smith
+  - jawaharlal-nehru
+  - john-f-kennedy
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +43,43 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
   format: Pamphlet/booklet, 18 printed pages of text plus cover and back wrappers, issued by the Forum of Free Enterprise
+thinker_mentions:
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Tarlton uses Lincoln's formulation 'government of the people by the people for the people' as the definitional model for liberal democracy, against which Nehru's extension into socialist planning is rejected."
+    evidence:
+      - quote: "Lincoln's formulation, \"government of the people by the people for the people,\" is offered as the model, and Nehru's preferred extension of this idea into the economic sphere — socialist planning and public-sector expansion — is rejected"
+        context: "Lincoln's democratic formula is the liberal benchmark against which Congress's socialist experiment is measured and found wanting"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Tarlton draws on Adam Smith's argument from self-interest as one of the philosophical pillars for the case that consumer sovereignty inside competitive markets both disperses power and raises living standards."
+    evidence:
+      - quote: "Drawing on Adam Smith's argument from self-interest, Mahatma Gandhi's distrust of concentrated power, J. F. Kennedy's defence of the dispersed free market"
+        context: "Smith's self-interest argument is one of three philosophical authorities marshalled for the economic-democracy argument"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Tarlton invokes Mahatma Gandhi's distrust of concentrated power as moral authority for the economic-democracy argument, aligning Gandhi's political philosophy with the case for dispersed free markets."
+    evidence:
+      - quote: "Drawing on Adam Smith's argument from self-interest, Mahatma Gandhi's distrust of concentrated power, J. F. Kennedy's defence of the dispersed free market"
+        context: "Gandhi's warning against power concentration is enlisted in support of economic decentralisation and consumer sovereignty"
+    key_passages: []
+  - thinker: john-f-kennedy
+    role: mention
+    reasoning: "Tarlton cites J. F. Kennedy's defence of the dispersed free market alongside Adam Smith and Gandhi as one of the three philosophical pillars for economic democracy as consumer sovereignty."
+    evidence:
+      - quote: "Mahatma Gandhi's distrust of concentrated power, J. F. Kennedy's defence of the dispersed free market, and the visible take-off of Hong Kong, Japan, Taiwan, South Korea, Malaysia and Thailand"
+        context: Kennedy is invoked as a liberal political authority for dispersed market economies over centrally directed ones
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Tarlton names Nehru's preferred extension of liberal democracy into socialist planning and public-sector expansion as both ideologically incoherent and empirically discredited, marshalling economic data to indict the Nehruvian inheritance."
+    evidence:
+      - quote: "Nehru's preferred extension of this idea into the economic sphere — socialist planning and public-sector expansion — is rejected as both ideologically incoherent and economically destructive"
+        context: "Nehru's democratic-socialism is the explicit target of Tarlton's reframing of economic democracy as consumer sovereignty"
+    key_passages: []
+
 ---
 
 # Economic Democracy

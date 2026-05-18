@@ -9,6 +9,20 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "iqbalunnisa-hussain"
+thinker_mentions:
+  - thinker: iqbalunnisa-hussain
+    role: subject
+    reasoning: The piece is a full-length profile of Iqbalunnisa Hussain, tracing her life, feminist writings, and advocacy for the education and emancipation of Muslim women.
+    evidence: []
+    key_passages:
+      - quote: Iqbalunnisa Hussain was born to Salima Ahmed in 1897, in Bangalore, Karnataka. Like most young girls at the time, Iqbalunnisa fell prey to child marriage and was married off at the tender age of 15.
+        what_it_shows: establishes her origins and the patriarchal constraints she overcame
+      - quote: Iqbalunnisa was among the few Indian Muslim women of her time who held a degree from the United Kingdom to their name.
+        what_it_shows: marks her pioneering educational achievement as a Muslim woman in colonial India
+      - quote: "Among these, the most prominent contributions were Changing India: A Muslim Woman Speaks (1940) and Purdah and Polygamy: Life in a Muslim Household (1944)."
+        what_it_shows: identifies her landmark works in feminist literature
+related_thinkers: []
+
 ---
 
 Iqbalunnisa Hussain's immense contribution to feminist literature and her vision for women's education played a tremendous role in reforming the lives of Muslim women in the 20th century. Her understanding of skill-based education for women is relevant to this day.In India, deep-seated patriarchal attitudes continue to subject women to subjugation and discrimination in the 21st century.  We have, however, come a long way from the state of affairs in the 20th century. The final years of the British Raj in India saw the rise and works of a spirited feminist and a liberal activist, Iqbalunnisa Hussain. She spent her life resisting orthodoxy and judgement from against emancipation and education of women, specifically Muslim women.

@@ -7,6 +7,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "bp-godrej"
+thinker_mentions:
+  - thinker: bernard-shaw
+    role: mention
+    reasoning: "Godrej invokes Shaw's warning about those who minister to poverty as an anchor for his argument that charitable welfare instincts must be tempered by economic realism."
+    evidence:
+      - quote: "Bernard Shaw's warning: \"Those who minister to poverty and disease are accomplices in the two worst of all crimes.\""
+        context: "Shaw's aphorism is cited to caution against treating poverty relief as an end in itself"
+    key_passages: []
+related_thinkers: 
+  - bernard-shaw
+
 ---
 
 _Produced below is an excerpt from an essay titled “A Blueprint for Eradication of Poverty” by Dr B.P. Godrej, published by the Forum of Free Enterprise in December 1980. Through the essay, Dr Godrej critiques the public sector’s inefficiencies in addressing poverty and unemployment. He highlights the widespread malnutrition and lack of economic progress, advocating for systemic reforms to improve food security, productivity, and overall well-being. This piece remains relevant as it addresses the persistent issues of hunger, poverty, and economic mismanagement, challenges that India continues to face even today._

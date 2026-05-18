@@ -9,6 +9,82 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "minoo-masani"
+thinker_mentions:
+  - thinker: minoo-masani
+    role: subject
+    reasoning: "The essay profiles Minoo Masani's role as editor of Freedom First in resisting Emergency censorship, analysing his arguments for constitutionalism, federalism, and civil liberties, making him the central subject throughout."
+    evidence: []
+    key_passages:
+      - quote: "Minoo Masani's liberal journal Freedom First stood as a notable exception in its resistance to the Emergency"
+        what_it_shows: "establishes Freedom First's exceptional position among media platforms during the Emergency"
+      - quote: he rather decided to stop publishing the magazine and also filed a case in the Bombay High Court
+        what_it_shows: "Masani's principled act of defiance against censorship — shutting down rather than complying"
+      - quote: There is no clash between bread and freedom or between elections and economic prosperity. On the contrary, by and large, they go together
+        what_it_shows: "Masani's core liberal argument against the bread-versus-freedom trade-off offered by authoritarian apologists"
+      - quote: a jubilant Masani described it as not so much a victory for the Janata Party but a rejection of the dictatorship
+        what_it_shows: "Masani's framing of the 1977 election result as a democratic repudiation of authoritarianism rather than a partisan victory"
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is invoked as the constitutional benchmark against which Masani measured Indira Gandhi's Emergency-era constitutional changes, arguing that her amendments departed from her father's vision."
+    evidence:
+      - quote: "Indira Gandhi and her sycophants' bid to overturn constitutional provisions was a turn away from the vision of Jawaharlal Nehru, Bhimrao Ambedkar, and Sardar Patel"
+        context: "Masani's rhetorical deployment of Nehru's constitutional legacy to delegitimise the Emergency amendments"
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is named alongside Nehru and Sardar Patel as one of India's founding fathers whose constitutional vision the Emergency amendments betrayed, lending Masani's critique historical weight."
+    evidence:
+      - quote: "Indira Gandhi and her sycophants' bid to overturn constitutional provisions was a turn away from the vision of Jawaharlal Nehru, Bhimrao Ambedkar, and Sardar Patel"
+        context: "Ambedkar invoked as a founding constitutional authority against the Emergency's constitutional revisions"
+    key_passages: []
+  - thinker: sardar-patel
+    role: mention
+    reasoning: Sardar Patel is cited alongside Nehru and Ambedkar as a constitutional founding father whose vision the Emergency regime betrayed, used by Masani to anchor his critique in nationalist legitimacy.
+    evidence:
+      - quote: "Indira Gandhi and her sycophants' bid to overturn constitutional provisions was a turn away from the vision of Jawaharlal Nehru, Bhimrao Ambedkar, and Sardar Patel"
+        context: Patel named as one of the constitutional founders whose legacy the Emergency undermined
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi's declaration of Emergency and her constitutional amendments are the primary target of Masani's liberal critique throughout the essay, with her name recurring as the source of the authoritarian turn."
+    evidence:
+      - quote: "Masani's constant railing against the Indian democracy's authoritarian turn under Indira Gandhi"
+        context: "characterisation of Masani's ongoing editorial opposition to Indira Gandhi's Emergency regime"
+      - quote: Masani described it as not so much a victory for the Janata Party but a rejection of the dictatorship
+        context: "Masani's framing of the 1977 election result as a repudiation of Indira Gandhi's authoritarian rule"
+    key_passages: []
+  - thinker: hans-raj-khanna
+    role: mention
+    reasoning: "Justice H.R. Khanna's minority dissent in the Habeas Corpus case is cited as an act of liberal resistance celebrated by Freedom First, with the New York Times prediction of a statue in his honour quoted approvingly."
+    evidence:
+      - quote: Mr. Justice Khanna had distinguished himself by passing down a minority judgment asserting the right of the citizen to the writ of habeas corpus even during the Emergency
+        context: "Masani's praise for Khanna's lone dissent in the Habeas Corpus case as a landmark act of judicial courage"
+      - quote: The New York Times had remarked that the time would come when a statue of his would be erected in every city of India
+        context: "the international recognition of Khanna's dissent cited by Freedom First to highlight its historic importance"
+    key_passages: []
+  - thinker: s-v-raju
+    role: mention
+    reasoning: S.V. Raju is mentioned as the Freedom First editor who expressed sympathy for the anti-Emergency new party initiative while taking liberal exception to its socialist language.
+    evidence:
+      - quote: "S V Raju was sympathetic to the initiative, his editorial took objection to 'egalitarian' and 'socialist' pieties which found a mention in the draft"
+        context: "Raju's editorial voice within Freedom First representing the liberal critique of the Janata Party's socialist platform"
+    key_passages: []
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gokhale is mentioned in a polemical aside where Masani suggested his meeting with a Soviet law delegation may have influenced the law minister's proposal to water down the courts' writ jurisdiction."
+    evidence:
+      - quote: "Masani argued that Gokhale's coincidental meeting with the leader of a Soviet Law delegation might have something to do with the proposed measure"
+        context: "Masani's Cold War-tinged suspicion about Soviet influence on domestic law reform proposals"
+    key_passages: []
+related_thinkers: 
+  - bhimrao-ambedkar
+  - gopal-krishna-gokhale
+  - hans-raj-khanna
+  - indira-gandhi
+  - jawaharlal-nehru
+  - s-v-raju
+  - sardar-patel
+
 ---
 
 _Minoo Masani's Bombay-based journal, [Freedom First](https://indianliberals.in/periodicals/freedom-first/) was an undeniable force for safeguarding people's rights and liberty during the Emergency. The following essay encapsulates the role the journal played in enhancing ideas of liberalism in India._Not only did the promulgation of the Emergency saw the suspension of electoral democracy but also the curtailment of press freedom. The state of affairs was best summarized by Lal Krishna Advani’s remark **that** . While major media houses succumbed to the authoritarian pressure, Minoo Masani’s liberal journal _Freedom First_ stood as a notable exception in its resistance to the Emergency. To be sure, Masani’s magazine was not the only media platform to resist the censor diktats. But _Freedom First _undoubtedly played a [remarkable role](https://thewire.in/history/emergency-free-press) in advancing civil liberties, more so given its small clout and reach.

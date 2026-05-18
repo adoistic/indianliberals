@@ -7,6 +7,27 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: This is the Eighth Nani A. Palkhivala Memorial Lecture; Palkhivala is the named subject of memory and the speaker offers extended personal recollections of his forensic brilliance and human character.
+    evidence:
+      - quote: I remember the day way back when Nani was arguing before the thirteen judge constitutional bench in the Supreme Court which was seeking the reversal of Keshavnand Bharati, I happened to be in court mesmerized by his forensic ability and realised what a giant he was.
+        context: "speaker's personal tribute establishing Palkhivala's stature as a constitutional advocate"
+      - quote: Nani, apart from being a giant of an intellect, was also a wonderful human being.
+        context: tribute highlighting both intellectual and personal qualities of Palkhivala
+    key_passages: []
+  - thinker: manmohan-singh
+    role: mention
+    reasoning: Manmohan Singh is quoted as Prime Minister advocating access to education at the bottom of the pyramid alongside investment at the top, which the speaker uses to frame the Right to Education Act.
+    evidence:
+      - quote: Our Prime Minister Dr. Manmohan Singh said the other day that we need to give access to people at the bottom of the pyramid and we need to ensure that there is investment in research and technology at the top of the pyramid.
+        context: "Manmohan Singh cited as the policy anchor for the speaker's education reform agenda"
+    key_passages: []
+related_thinkers: 
+  - manmohan-singh
+  - nani-palkhivala
+
 ---
 
 _Published by the Nani A Palkhivala Trust in 2011, the following [booklet](https://indianliberals.in/content/the-emerging-scenario-in-education/) is the textual reproduction of the eighth Nani A Palkhivala Memorial Lecture delivered by Kapil Sibal. The booklet outlines his vision for transforming the Indian education landscape over the course of the next decade. _I remember the day way back when Nani was arguing before the thirteen judge constitutional bench in the Supreme Court which was seeking the reversal of Keshavnand Bharati, I happened to be in court mesmerized by his forensic ability and realised what a giant he was. Nani was no ordinary man. He single handedly stood for Constitutional principles against unconstitutional means and fought the battle alone. At the end of the second day, the Chief Justice dispersed the bench. The rest is history.

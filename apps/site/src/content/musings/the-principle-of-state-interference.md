@@ -7,6 +7,29 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is identified as the 'masterpilot' of India's social-economic revolution, whose ideas the author argues are transplanted from European experience without adequate assimilation into Indian conditions."
+    evidence:
+      - quote: of which the masterpilot is Jawaharlal Nehru, have been based on European experience and European speculation.
+        context: Nehru named as the architect of the imported socialist revolution the author is critiquing
+      - quote: "The socialistic pattern of society that is being imposed on our people by the \"idealism\" of Jawaharlal Nehru is in fact the end-result of a distorted reading of Eur-american experience and thought"
+        context: "Nehru's socialism characterised as a misreading of European history"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "Mill's theory of liberty is the intellectual framework the author uses to map the opposition between individualism and idealism, and his core insight on freedom's necessity for individual fulfilment is quoted directly."
+    evidence:
+      - quote: the opposing theories of individualism represented by J.S. Mill and of idealism represented by T. H. Green and Bernard Bosanquet.
+        context: Mill positioned as the foundational individualist theorist against which state interference must be evaluated
+      - quote: "Though the inherent inconsistencies of J.S. Mill's view of liberty have been shown by his opponents, the enduring value of the core of his thought has been recognised all round."
+        context: "author concedes Mill's limitations while affirming the enduring validity of his core argument for freedom"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - john-stuart-mill
+
 ---
 
 _Limited Government is one of the cardinal principles of liberalism. Although there has historically been a debate among liberals on where to draw the line on government interference, there is unanimity on expanding individual freedom. Produced below is a piece published in the August 1958 issue of the Indian Libertarian magazine. It discusses the principles behind State Interference. _We are being led speedily along the paths of a revolution made elsewhere. The social, economic and political ideas forming the substance of our revolution, of which the masterpilot is Jawaharlal Nehru, have been based on European experience and European speculation. They have no doubt some universal application in as much as all humanity has something in common. But ideas have to be assimilated in terms of our own experience and thought if they are to be beneficent in practice. Such relation to national experience is indispensable, especially where revolutionary ideas changing the governing ideals of society at breakneck speed have to be put into force in a democratic setup with the understanding and consent of the people.

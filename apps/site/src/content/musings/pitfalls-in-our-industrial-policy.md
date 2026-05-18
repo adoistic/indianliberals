@@ -8,6 +8,19 @@ language: "en"
 needs_review: true
 draft: false
 author: "m-a-master"
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is quoted at several points as the Prime Minister whose declarations drove the radical shift in India's industrial policy away from mixed economy toward socialist dominance of the public sector."
+    evidence:
+      - quote: Prime Minister announced on the 9th November 1954, before the National Development Council, that “the means of production should be socially owned, and controlled for the benefit of society as a whole.”
+        context: "Nehru's declaration cited as the germ of the economic revolution that displaced private enterprise"
+      - quote: Prime Minister remarked in the Lok Sabha- “We cannot progress except by State initiative and by enlarging the public sector and except also by controlling the private sector.”
+        context: "further quote establishing Nehru's role as architect of the socialist industrial policy the essay critiques"
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _The following booklet, titled “Pitfalls in Our Industrial Policy,” was published in 1959 and was authored by M A Master. The author highlighted the momentum of private enterprise that made it possible to develop several privatised industries against all the substantial odds. He highlighted the radical shift that transgressed to economic thinking, leading to the state's industrial policy breach against the private sector. M A Master concentrated on the approach the then government adopted and highlighted the creation of economic revolution and the monopoly of the State. Furthermore, the author focused on the democratic stand, corroborating the balance between the public and the private sectors, and laid down the contention of anything contrary to the former approach as the model for the prevalence of dictatorship._

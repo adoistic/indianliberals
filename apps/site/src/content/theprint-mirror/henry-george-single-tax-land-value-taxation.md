@@ -5,11 +5,21 @@ pubDate: 2025-12-20T11:48:50
 author_name: "DM Kulkarni"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/henry-george-single-tax-land-value-taxation/2809653/"
 themes: ["indian-liberals-matter", "single-tax-rate"]
-related_thinkers: ["dm-kulkarni"]
+related_thinkers: 
+  - herbert-spencer
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: herbert-spencer
+    role: mention
+    reasoning: "Spencer is invoked as a critic who attacked Henry George's single tax as tantamount to land nationalisation, serving as the foil against which George defends his own free-enterprise credentials."
+    evidence:
+      - quote: Henry George came in for a good deal of criticism at the hands of Herbert Spencer and others, that he was no better than a Communist, out for nationalisation of land.
+        context: "George's position situated against Spencer's critique, illustrating the ideological distance between the two"
+    key_passages: []
 
 ---
 

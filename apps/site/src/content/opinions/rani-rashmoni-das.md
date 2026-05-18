@@ -9,6 +9,40 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "rani-rashmoni"
+thinker_mentions:
+  - thinker: rani-rashmoni
+    role: subject
+    reasoning: The article profiles Rani Rashmoni Das as a reformer, philanthropist, and champion of the fishing community who navigated British colonial law and upper-caste reformist circles.
+    evidence: []
+    key_passages:
+      - quote: Das, a widow who belonged to a lower caste community, established a revered position for herself among upper caste reformers like Raja Ram Mohan Roy and Ishwar Chandra Vidyasagar.
+        what_it_shows: frames her remarkable social positioning across caste boundaries
+      - quote: Das is credited with the founding of the Dakshineswar Kali Temple, the construction of Babughat and Nimtala Ghat, and her philanthropic contributions to the Imperial Library and Presidency University.
+        what_it_shows: enumerates her lasting institutional contributions
+      - quote: Using the rule of law to protect her private property, she managed to get the taxes repealed and won free access to the Hooghly
+        what_it_shows: demonstrates her strategic legal acumen in defending community rights
+  - thinker: raja-ram-mohan-roy
+    role: mention
+    reasoning: Raja Ram Mohan Roy is named as a reformer in whose circle Rani Rashmoni Das moved, with his anti-Sati efforts cited as part of the reformist context for her own activism.
+    evidence:
+      - quote: Das, a widow who belonged to a lower caste community, established a revered position for herself among upper caste reformers like Raja Ram Mohan Roy and Ishwar Chandra Vidyasagar.
+        context: places Roy as one of the reform milieu figures with whom Das interacted
+      - quote: "Raja Ram Mohan Roy's efforts had led to the abolishment of Sati."
+        context: "credits Roy with the reform that set the social context for Das's activism"
+    key_passages: []
+  - thinker: ishwar-chandra-vidyasagar
+    role: mention
+    reasoning: Vidyasagar is named alongside Raja Ram Mohan Roy as an upper-caste reformer in whose circle Rani Rashmoni Das established herself, and as an inspiration for her advocacy against child marriage.
+    evidence:
+      - quote: Das, a widow who belonged to a lower caste community, established a revered position for herself among upper caste reformers like Raja Ram Mohan Roy and Ishwar Chandra Vidyasagar.
+        context: situates Vidyasagar as part of the reformist elite whose company Das earned despite her lower-caste origins
+      - quote: Inspired by their works and beliefs, Das also became a prominent voice against child marriage
+        context: "credits Vidyasagar and Roy's reformism as inspiring Das's own activism"
+    key_passages: []
+related_thinkers: 
+  - ishwar-chandra-vidyasagar
+  - raja-ram-mohan-roy
+
 ---
 
 The following essay celebrates the life of Rani Rashmoni Das, an unorthodox reformer of 19th century Bengal. Das, a widow who belonged to a lower caste community, established a revered position for herself among upper caste reformers like Raja Ram Mohan Roy and Ishwar Chandra Vidyasagar.19th century Bengal witnessed conflict between English aristocracy and elite Hindu priests and scholars. The priests perceived the increasing influence of the English as a threat to traditional Hindu society, and amped up the orthodoxy of rituals. This was, however, also a time of reform. Raja Ram Mohan Roy’s efforts had led to the abolishment of _Sati_. During this time, Rani Rashmoni Das, who belonged to what was deemed the lowest Hindu caste (_Shudra_), joined the reformist struggle. 

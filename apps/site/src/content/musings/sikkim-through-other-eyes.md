@@ -7,6 +7,71 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is mentioned as one of the most influential proponents of India's Third World solidarity foreign policy, which the essay critiques in the context of India's annexation of Sikkim."
+    evidence:
+      - quote: The most influential and eloquent proponents of this variant of Indian exceptionalism included Pandit Nehru, VK Krishna Menon, Indira Gandhi, KM Panikkar.
+        context: Nehru named as a leading advocate of non-alignment and anti-colonial foreign policy rhetoric
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Indira Gandhi is named as a proponent of India's anti-colonial foreign policy rhetoric and is implicitly the decision-maker behind the annexation of Sikkim that Masani's article criticises."
+    evidence:
+      - quote: The most influential and eloquent proponents of this variant of Indian exceptionalism included Pandit Nehru, VK Krishna Menon, Indira Gandhi, KM Panikkar.
+        context: "listed among the architects of India's non-alignment posture"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "JP Narayan is cited as a member of the trio of dissenters who championed peaceful solutions to the Naga question and other instances of Indian imperialism, specifically dubbed the 'real anti-imperialist' by Masani."
+    evidence:
+      - quote: The camp boasted the likes of Jayprakash Narayan, C Rajagopalachari, and Minoo Masani.
+        context: JP named as one of three dissidents against Indian imperial overreach
+      - quote: "Masani questioned the double standards of his compatriots on the 'Indian imperialism', dubbed JP the 'real anti-imperialist'"
+        context: Masani specifically singles out JP as the authentic anti-imperialist voice in Indian politics
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji is cited as leading the delegation to President Kennedy to advocate for nuclear non-proliferation, as part of the dissenting camp of Indian liberals who challenged their own government's imperial actions."
+    evidence:
+      - quote: The camp boasted the likes of Jayprakash Narayan, C Rajagopalachari, and Minoo Masani.
+        context: Rajaji named as one of three liberal dissenters against Indian imperial overreach
+      - quote: Rajaji led the delegation to President Kennedy advocating nuclear non-proliferation.
+        context: specific action attributed to Rajaji as part of the dissenting liberal foreign policy stance
+    key_passages: []
+  - thinker: minoo-masani
+    role: author
+    reasoning: "Masani is explicitly named as the author of the article reproduced in the body; the editorial intro states 'Produced below is the article by Minoo Masani'."
+    evidence:
+      - quote: Produced below is the article by Minoo Masani.
+        context: explicit byline attribution in the editorial introduction
+      - quote: Masani objected to the way Sikkim was made part of India and made his displeasure known in public in 1982.
+        context: "Masani's specific stance on Sikkim annexation described in the introduction"
+    key_passages: []
+  - thinker: morarji-desai
+    role: mention
+    reasoning: Morarji Desai is cited as the Prime Minister who later acknowledged he could not justify the annexation of Sikkim but felt too weak to reverse it.
+    evidence:
+      - quote: I was glad when Mr. Morarji Desai, Prime Minister of India some years later, admitted that he could not justify the taking over of Sikkim.
+        context: "Desai's admission used to validate Masani's earlier objection to the annexation"
+    key_passages: []
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Shastri is mentioned as the Prime Minister who sent a parliamentary delegation to help mediate the Naga situation, in a passage recounting Masani's involvement in that diplomatic effort."
+    evidence:
+      - quote: Parliamentary delegation sent there by Prime Minister Lal Bahadur Shastri, to do my bit in helping Mr Shastri and his Government to bring about a better awareness in Parliament about the case of the Naga people.
+        context: Shastri cited as the Prime Minister who authorised the Naga mediation effort
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - indira-gandhi
+  - jawaharlal-nehru
+  - jayaprakash-narayan
+  - lal-bahadur-shastri
+  - minoo-masani
+  - morarji-desai
+
 ---
 
 "In 1975, before I had ever had any thought of visiting Sikkim, I followed the events leading up to annexation by India very closely because I could see no justification for the takeover, the abolishment of the sovereignty of the tiny nation of 300,000 people, the rude levelling of their Chogyal, whose dynasty was 340 years old, to the rank of a commoner, and the subsequent house arrest to which he was confined."

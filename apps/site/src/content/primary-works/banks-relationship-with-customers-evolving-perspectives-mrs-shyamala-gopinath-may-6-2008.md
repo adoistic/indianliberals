@@ -8,9 +8,10 @@ authors:
   - shyamala-gopinath
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - m-r-pai
   - y-v-reddy
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +44,24 @@ missing_metadata_flags:
   - no_series_number
   - work_type_taxonomy_template_unfilled
   - theme_vocabulary_template_unfilled
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The lecture is delivered as the 4th M. R. Pai Memorial Award lecture, with Gopinath opening by paying tribute to M. R. Pai's consumer-activism legacy as the normative frame for her address on bank-customer relations."
+    evidence:
+      - quote: Delivered as the 4th M. R. Pai Memorial Award lecture on 8 April 2008 in Mumbai, Shyamala Gopinath — then Deputy Governor of the Reserve Bank of India — uses her platform to map how the banker-customer relationship has been remade
+        context: "opening identification of the lecture's occasion; Pai's legacy is the ethical anchor"
+      - quote: "She opens by paying tribute to M. R. Pai's consumer-activism legacy"
+        context: first action in the body; Pai is explicitly honoured as the inspiration for the address
+    key_passages: []
+  - thinker: y-v-reddy
+    role: mention
+    reasoning: "Gopinath closes by quoting Governor Y. V. Reddy's defence of banking as a trust-based relationship and frames the RBI's six-point approach as implementing Reddy's vision of financial democratisation."
+    evidence:
+      - quote: "She closes by quoting Governor Y. V. Reddy's defence of banking as a 'trust-based relationship'"
+        context: "concluding section; Reddy's formulation is the governing aspiration of the whole address"
+    key_passages: []
+
 ---
 
 # Banks' Relationship with Customers - Evolving Perspectives

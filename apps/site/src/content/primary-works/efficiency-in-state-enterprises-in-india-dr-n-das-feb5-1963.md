@@ -7,8 +7,9 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - john-kenneth-galbraith
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +45,15 @@ physical:
 missing_metadata_flags:
   - author_not_in_authority_subset
   - no_series_number_printed
+thinker_mentions:
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith is cited by Das as an authority on how government officials serving on corporate boards undermine enterprise autonomy, reinforcing Das's structural critique of the public sector's management problems."
+    evidence:
+      - quote: "He invokes Galbraith on how officials on boards destroy enterprise autonomy, the World Bank Mission's verdict that the Government had not helped strengthen the Public Sector"
+        context: Galbraith deployed as an authority on why state-board membership damages enterprise management
+    key_passages: []
+
 ---
 
 # EFFICIENCY IN STATE ENTERPRISES IN INDIA

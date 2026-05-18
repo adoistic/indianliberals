@@ -8,8 +8,9 @@ authors:
   - naval-h-tata
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - l-k-jha
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: l-k-jha
+    role: mention
+    reasoning: "Tata cites L. K. Jha's 'Economic Strategy for 1980' as authoritative criticism of the IDRA, arguing that the Act regulates development rather than promoting it."
+    evidence:
+      - quote: "L. K. Jha's 'Economic Strategy for 1980' as authoritative criticism of the IDRA, arguing that the Act 'regulate[s] development but does not encourage it'"
+        context: "key-points bullet in the reform-list section; Jha's expert verdict is cited as independent support for Tata's case against the licensing regime"
+    key_passages: []
+
 ---
 
 # Business-Government Understanding

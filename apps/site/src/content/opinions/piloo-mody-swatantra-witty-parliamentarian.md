@@ -9,6 +9,42 @@ needs_review: true
 draft: false
 author_name: "Editorial Team"
 subject: "piloo-mody"
+thinker_mentions:
+  - thinker: piloo-mody
+    role: subject
+    reasoning: "The article profiles Piloo Mody's political career, his wit, his role in the Swatantra Party, and his resistance during the Emergency."
+    evidence: []
+    key_passages:
+      - quote: An architect by training and the son of venerable Parsi entrepreneur Homi Mody, Piloo also had a long political career as a parliamentarian.
+        what_it_shows: establishes his social background and professional identity
+      - quote: Piloo Mody argued for a limited role of the state in the book to strengthen democracy. For him, decentralisation was the way for deepening of Indian democracy.
+        what_it_shows: captures his core political philosophy
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Masani is mentioned as the Swatantra Party president whose resignation after the 1971 defeat contributed to the party's decline, a context for Piloo Mody's subsequent decisions."
+    evidence:
+      - quote: Minoo Masani put in his resignation papers accepting the responsibility for the defeat.
+        context: "Masani's resignation as party president after 1971 sets up the Swatantra crisis Mody had to navigate"
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji's death is cited as a catalyst for the Swatantra Party's existential crisis after 1971, directly shaping Piloo Mody's political choices."
+    evidence:
+      - quote: the death of Rajaji and subsequent defeat of the party in 1971 led to an existential crisis.
+        context: "Rajaji's death is listed alongside the 1971 defeat as twin blows to Swatantra's viability"
+    key_passages: []
+  - thinker: homi-mody
+    role: mention
+    reasoning: "Homi Mody is mentioned as Piloo Mody's father and identified as a venerable Parsi entrepreneur, contextualising Piloo's social background."
+    evidence:
+      - quote: the son of venerable Parsi entrepreneur Homi Mody
+        context: "identifies Piloo's father and family context"
+    key_passages: []
+related_thinkers: 
+  - c-rajagopalachari
+  - homi-mody
+  - minoo-masani
+
 ---
 
 _An architect by training and the son of venerable Parsi entrepreneur Homi Mody, Piloo also had a long political career as a parliamentarian_“[I am a CIA Agent](https://www.outlookindia.com/magazine/story/no-aliens-under-our-beds/238178/),” read the placard on a politician in the premises of the Indian Parliament on one fine day in the 1970s. The pronouncement was a jibe at Indira Gandhi’s cynical approach towards her opponents. She would dub politicians the agents of US imperialism who sought to curtail her pro-people agenda. At the receiving end of her populist demagoguery were often the members of the Swatantra Party. And understandably so, because their eloquent advocacy of markets and liberalism had created consternation for the failed socialist government. The witty politician in the act was Piloo Mody. With a recourse to placard humour, he blunted the jingoistic politics of Indira Gandhi.

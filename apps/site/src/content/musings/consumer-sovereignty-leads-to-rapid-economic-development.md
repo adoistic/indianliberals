@@ -7,6 +7,17 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Galbraith's claim that planning is crucial to economic development is the specific proposition Shenoy's article sets out to rebut, making Galbraith the intellectual foil of the piece."
+    evidence:
+      - quote: "Prof B.R. Shenoy counters Prof J.K. Galbraith's (Canadian-American economist) claim that planning is crucial to economic development."
+        context: "Galbraith's pro-planning thesis is explicitly named as the target of Shenoy's counter-argument for consumer sovereignty"
+    key_passages: []
+related_thinkers: 
+  - john-kenneth-galbraith
+
 ---
 
 The following text is a reproduction of an article specially written for syndication by Indian News & Feature Alliance (INFA). Reproduced by [Forum of Free Enterprise](https://indianliberals.in/content/consumer-sovereignty-leads-to-rapid-economic-development-by-prof-b-r-shenoy-july-9-1962/), in the article, Prof B.R. Shenoy counters Prof J.K. Galbraith's (Canadian-American economist) claim that planning is crucial to economic development. He argues that consumer sovereignty and planning for the free market would lead India to economic development. Professor J. K. Galbraith has made planning a theme of his weighty pronouncements more than once during his tours round India. At a Press conference in Ahmedabad, commenting on the fears expressed "'in some quarters in India" that the present tempo of our planning might lead to an authoritarian regime, he observed that "lack of planning" in underdeveloped economies "carried a greater risk of leading to authoritarian regimes than proper planning".

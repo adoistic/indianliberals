@@ -8,10 +8,10 @@ authors:
   - w-h-hutt
 editors: []
 contributors: []
-related_thinkers:
-  - friedrich-hayek
+related_thinkers: 
   - adam-smith
   - ludwig-von-mises
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +46,24 @@ physical:
   pages_total: 13
   pages_total_source: pypdfium2
   format: Saddle-stitched FFE booklet; printed cover with title block over magenta/maroon background; ~12 pp of body text plus back-cover colophon.
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Hutt invokes Adam Smith's critique of import-tariff protection as a 'never-refuted' argument against protective tariffs, making Smith an authoritative witness for the free-trade case against infant-industry protection."
+    evidence:
+      - quote: "Hutt cites Mises's 'omnipotent government' and Adam Smith's never-refuted critique of import-tariff protection"
+        context: Smith cited alongside Mises to frame the theoretical case against protectionism
+      - quote: "Protective tariffs for infant industries are rejected with Adam Smith's never-refuted arguments"
+        context: "Smith's authority is invoked to dismiss infant-industry protection"
+    key_passages: []
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: "Hutt cites Mises's concept of 'omnipotent government' to characterise the planning mentality that subordinates consumer sovereignty to state direction of the economy."
+    evidence:
+      - quote: "Hutt cites Mises's 'omnipotent government' and Adam Smith's never-refuted critique of import-tariff protection"
+        context: "Mises is invoked to frame central planning as the usurpation of the consumer's disciplining role"
+    key_passages: []
+
 ---
 
 # Conditions for Economic Growth

@@ -8,9 +8,9 @@ authors:
   - k-l-rao
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +43,15 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_series_number_printed
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is delivered as the A. D. Shroff Memorial Lecture, positioning Shroff as the founding institutional patron in whose memory the Forum of Free Enterprise's public lecture series is held."
+    evidence:
+      - quote: Dr. K. L. Rao, a former Union Minister for Power and Irrigation, delivers the A. D. Shroff Memorial Lecture for the Forum of Free Enterprise (27 October 1975, Delhi)
+        context: "Shroff's name is the formal title of the memorial lecture, anchoring the address in the Forum's liberal tradition"
+    key_passages: []
+
 ---
 
 # A National Water Policy for India

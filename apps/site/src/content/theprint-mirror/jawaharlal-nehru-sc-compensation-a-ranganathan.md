@@ -5,11 +5,37 @@ pubDate: 2026-04-18T11:15:16
 author_name: "A Ranganathan"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/jawaharlal-nehru-sc-compensation-a-ranganathan/2907825/"
 themes: ["individualism", "jawaharlal-nehru", "supreme-court-of-india"]
-related_thinkers: ["a-ranganathan"]
+related_thinkers: 
+  - jawaharlal-nehru
+  - john-locke
+  - karl-marx
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru's personal opposition to Supreme Court review of compensation is cited as the political genesis of the constitutional amendments that progressively eroded property rights in India."
+    evidence:
+      - quote: "Pandit Nehru had opposed the idea of the Supreme Court being the final arbiter of compensation on the plea that the Supreme Court ought not to make itself a \"third House of Parliament\"."
+        context: identifies Nehru as the political force behind stripping judicial review of compensation adequacy
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is invoked via a liberal historian's commentary to show that his insight on property and freedom was correct but his remedy — abolition of private property — was logically flawed."
+    evidence:
+      - quote: Karl Marx was correct when he said that those who owned property were free and those who did not were unfree, but was wrong when he deduced illogically that greater freedom would be achieved through the abolition of private property.
+        context: "Marx's insight is partially endorsed to ground the essay's defence of property rights"
+    key_passages: []
+  - thinker: john-locke
+    role: mention
+    reasoning: Locke is named alongside Turgot and Jefferson as the intellectual tradition that gives democracy its distinctive character through the concept of individual freedom and property rights.
+    evidence:
+      - quote: it is this concept of individual freedom as explained by thinkers like Locke, Turgot and Jefferson which gives democracy its distinctive profile.
+        context: "cited as a foundational theorist of individual freedom whose legacy is threatened by India's constitutional erosion of property rights"
+    key_passages: []
 
 ---
 

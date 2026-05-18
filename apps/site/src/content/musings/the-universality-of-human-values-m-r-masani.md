@@ -8,6 +8,37 @@ language: "en"
 needs_review: true
 draft: false
 author: "mr-masani"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi is invoked as the antithesis of communism and as the spiritual anchor of India's social revolution, with Masani arguing that Gandhi's emphasis on non-material values refutes the thesis that Asian masses care only for bread."
+    evidence:
+      - quote: Mahatma Gandhi in a wider context, namely, that each right carries with it a corresponding obligation
+        context: "opening passage; Gandhi's axiom invoked to frame the question of human rights and population"
+      - quote: Gandhi represents the complete antithesis to the Communist and has been recognized as such in the Moscow press and radio over three decades
+        context: central argument contrasting Gandhian values with dialectical materialism
+      - quote: the only genuine, the only Indian social revolution is the one that Gandhi commenced
+        context: "conclusion of the Gandhian section; Gandhi positioned as the true author of India's social transformation"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: Jayaprakash Narayan is quoted at length as a witness to the failure of dialectical materialism and a convert to the view that individual spiritual reconstruction must precede social revolution.
+    evidence:
+      - quote: "Only last month Jayaprakash Narayan wrote: \"For many years I have worshipped at the shrine of the goddess Dialectical Materialism"
+        context: "Masani cites JP's rejection of materialism as corroboration for the universality of non-material values"
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: Lincoln is cited by analogy to argue that just as no nation can be half slave and half free, the world cannot be half-enslaved to communism.
+    evidence:
+      - quote: If it was true in the time of Abraham Lincoln that no nation could be half slave and half free, it is equally true today in this shrinking world
+        context: "closing rhetorical flourish extending Lincoln's Civil War maxim to the Cold War global context"
+    key_passages: []
+related_thinkers: 
+  - abraham-lincoln
+  - jayaprakash-narayan
+  - mahatma-gandhi
+
 ---
 
 _Published below is an article written by Minoo Masani which appeared in the December 2002 edition of the Freedom First Magazine. This piece was written during the years of the cold war wherein Mr. Masani makes a coherent, impassioned and prudent plea to safeguard universal human values. (Image Credit : The Print)_In the Presidential Address delivered a few days back at the Annual Meeting of the British Association by Professor A. V. Hill, he took a step further the familiar proposition that Science has put in Man's hand more power than he has the wisdom to use. Dealing in particular with the problem of food and population, which is most acute in countries like India, Professor Hill asked whether Human Rights extended to unlimited reproduction with a consequent obligation falling on those more prudent. This is a question to which I, for one, would hesitate to venture an answer more specific than that given by Mahatma Gandhi in a wider context, namely, that each right carries with it a corresponding obligation. Certainly, all in India who ponder that the country's massive problems realize that the most serious attention needs to be devoted to the rectification through an all-sided approach, of the prevailing unbalance between production and population. An International Conference on Planned Population, which is due to meet in Bombay later this year and in which Dr. Margaret Sanger and other pioneers in the field will participate, is only one of the many signs that we in India are not altogether unaware of the pressing problem by drawing pointed attention to which Professor Hill performed a public service.

@@ -8,9 +8,9 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
-  - bhimrao-ambedkar
+related_thinkers: 
   - k-santhanam
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +43,15 @@ missing_metadata_flags:
   - no_explicit_publication_year_on_rendered_pages
   - colophon_page_not_rendered
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: k-santhanam
+    role: mention
+    reasoning: "Palkhivala draws on the observations of K. Santhanam to support his argument that the Planning Commission has created a 'vertical federation' displacing the horizontal constitutional scheme of centre-state relations."
+    evidence:
+      - quote: "the observations of K. Santhanam and Dr K. Subba Rao to argue that the Planning Commission has created a 'vertical federation' displacing the horizontal scheme of the Constitution"
+        context: "Santhanam is invoked as an authoritative witness against the Planning Commission's unconstitutional over-reach"
+    key_passages: []
+
 ---
 
 # Centre-State Relations: A Broad Perspective

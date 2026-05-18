@@ -9,11 +9,10 @@ editors: []
 contributors:
   - role: other
     thinker: s-v-raju
-related_thinkers:
+related_thinkers: 
   - gopal-krishna-gokhale
-  - d-v-gundappa
-  - ludwig-von-mises
-  - margaret-thatcher
+  - s-v-raju
+
 publication:
   language: en
   publisher_id: indian-liberal-group
@@ -54,6 +53,22 @@ missing_metadata_flags:
   - editor_not_named
   - no_isbn
   - no_publisher_address
+thinker_mentions:
+  - thinker: gopal-krishna-gokhale
+    role: mention
+    reasoning: "Gopal Krishna Gokhale's liberal vision is invoked in the opening statement of liberal philosophy that grounds the Liberal Budget 2006-07, positioning the ILG's fiscal prescriptions within the Indian liberal tradition."
+    evidence:
+      - quote: "invoking Gopal Krishna Gokhale's liberal vision and D. V. Gundappa's caution about selective borrowing from foreign ideas"
+        context: "Gokhale cited in the philosophical preamble as the ancestral figure of Indian liberalism against whom the budget's prescriptions are positioned"
+    key_passages: []
+  - thinker: s-v-raju
+    role: mention
+    reasoning: "S. V. Raju is implicitly present through the ILG institutional context, as this is the third Liberal Budget produced under the ILG's Project for Economic Education, which Raju led as Executive Chairman."
+    evidence:
+      - quote: the third alternative budget document produced by the Indian Liberal Group (ILG) under its Project for Economic Education
+        context: S. V. Raju led the ILG as Executive Chairman, making this pamphlet part of his institutional output; confirmed via his named preface role in the companion liberal-budget-building-equitable-society entry
+    key_passages: []
+
 ---
 
 # The Liberal Budget 2006-07

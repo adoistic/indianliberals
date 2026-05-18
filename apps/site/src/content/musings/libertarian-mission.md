@@ -7,6 +7,37 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx is central to the essay's intellectual history: the author traces how Marx's violent class-war socialism became the dominant collectivist ideology eclipsing the individualist tradition the article defends."
+    evidence:
+      - quote: "whom Karl Marx called the bourgeoisie) side streams of what may be roughly called “socialist thought” sprung up seeking "
+        context: first introduction of Marx as the source of collectivist ideology
+      - quote: most successful of these trends was that represented by Karl Marx, partly because he founded the International Working Men’s Movem
+        context: identifies Marx as the dominant socialist thinker whose influence the author contests
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: Mill is cited as a principal protagonist of liberal democratic thought who guided democratic institutions through the 19th century, and whose individualist philosophy is now being eclipsed by Marxist collectivism.
+    evidence:
+      - quote: Bentham, James Mill and his more famous son John Stuart Mill were the principal protagonists. Their work in economic, legal and political thought guided the development of democratic institutions
+        context: positions Mill as the intellectual architect of liberal democracy
+      - quote: Adam Smith and Mill are both put into the shade. They have become “Gods that failed”.
+        context: lament that the individualist tradition represented by Mill has been displaced by collectivism
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: Adam Smith is invoked alongside Mill as one of the great individualist economists whose legacy the author sees as overshadowed by the rise of Marxist collectivism.
+    evidence:
+      - quote: Adam Smith and Mill are both put into the shade. They have become “Gods that failed”.
+        context: closing lament that classical liberal economics has been displaced by collectivism
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - john-stuart-mill
+  - karl-marx
+
 ---
 
 Libertarians call for a greater simplification of institutions, a reform in the use of property and a return to the limited role of the State in social life so that the submerged individual may be released for a new career of purposeful, healthy activity in which science and the other achievements of the modern spirit may be used more wholesomely to help men and women to fulfil themselves in pursuits within their reach and power of assimilation.

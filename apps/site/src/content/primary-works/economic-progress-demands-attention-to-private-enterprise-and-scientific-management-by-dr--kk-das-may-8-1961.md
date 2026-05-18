@@ -7,8 +7,10 @@ work_type: speech
 authors: []
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jawaharlal-nehru
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +48,22 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - no_series_number
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Das quotes Gandhi's warning about the danger of expanding state power as a moral authority for his argument that government policy has been exercised against, rather than for, private enterprise."
+    evidence:
+      - quote: He quotes Gandhi on the danger of expanding state power, and notes that, having failed with coal, the government is now turning back to private enterprise to make up the deficit.
+        context: Gandhi invoked as Indian moral authority against unchecked state expansion
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Das closes with a 1956 Nehru quotation on the country's need for technical and managerial personnel, using Nehru's own words to underscore the centrality of management education to industrialisation."
+    evidence:
+      - quote: "He closes with a 1956 quotation from Prime Minister Nehru on industrial development making larger demands on the country's technical and managerial personnel, underlining the last two words."
+        context: "Das deploys Nehru's own language to conclude his case for management education"
+    key_passages: []
+
 ---
 
 # Economic Progress Demands Attention to Private Enterprise and Scientific Management

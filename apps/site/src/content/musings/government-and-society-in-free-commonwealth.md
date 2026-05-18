@@ -8,6 +8,43 @@ language: "en"
 needs_review: true
 draft: false
 author: "sauvik-chakraverti"
+thinker_mentions:
+  - thinker: john-locke
+    role: mention
+    reasoning: "Locke is named as one of the classical liberal thinkers with whom Chakraverti explicitly engages throughout the book, making him a foundational reference for the collection's exploration of civil government and individual rights."
+    evidence:
+      - quote: Chakraverti engages with classical liberal thinkers such as John Locke and Adam Smith
+        context: "Locke is identified as one of the two primary classical liberal anchors for Chakraverti's philosophical framework"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Smith is cited alongside Locke as a classical liberal thinker central to Chakraverti's framework, and later directly invoked for his argument that free trade — the abolition of customs — increases aggregate national wealth."
+    evidence:
+      - quote: Chakraverti engages with classical liberal thinkers such as John Locke and Adam Smith
+        context: "Smith is one of the two classical liberal anchors for the book's argument"
+      - quote: Frederic Bastiat, a great free trader who Richard Cobden and the Masnchesterites inspired, gave us the best way to answer this question through a thought experiment
+        context: "Bastiat's thought experiment on wealth creation is deployed to illustrate the Smithian case for free trade"
+    key_passages: []
+  - thinker: amartya-sen
+    role: mention
+    reasoning: "Sen is named among the contemporary political philosophers whose work Chakraverti engages, positioning him alongside classical liberals to show the book's breadth in grounding its free-market arguments in current philosophical debate."
+    evidence:
+      - quote: contemporary political philosophers such as Amartya Sen and Martha Nussbaum
+        context: Sen represents the modern capability-approach perspective that Chakraverti grapples with in constructing his classical-liberal framework
+    key_passages: []
+  - thinker: frederic-bastiat
+    role: mention
+    reasoning: Bastiat is directly invoked by name for his thought experiment on wealth — inventorying possessions before and after abolishing customs — which Chakraverti uses to make the free-trade case for treating the entire subcontinent as a duty-free zone.
+    evidence:
+      - quote: Frederic Bastiat, a great free trader who Richard Cobden and the Masnchesterites inspired, gave us the best way to answer this question through a thought experiment
+        context: "Bastiat's inventory thought-experiment is Chakraverti's central proof that abolishing customs barriers increases the common wealth of all Indians"
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - amartya-sen
+  - frederic-bastiat
+  - john-locke
+
 ---
 
 _The excerpt below is from the publication “Natural Order: Essays Exploring Civil Government & The Rule of Law”, authored by Sauvik Chakraverti. _

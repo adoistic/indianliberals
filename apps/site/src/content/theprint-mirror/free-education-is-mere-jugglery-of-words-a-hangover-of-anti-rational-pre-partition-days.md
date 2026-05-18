@@ -5,11 +5,25 @@ pubDate: 2025-06-21T10:28:54
 author_name: "Om Prakash Kahol"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/free-education-is-mere-jugglery-of-words-a-hangover-of-anti-rational-pre-partition-days/2665374/"
 themes: ["education", "government-schools", "indian-liberals-matter"]
-related_thinkers: ["om-prakash-kahol"]
+related_thinkers: 
+  - om-prakash-kahol
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: om-prakash-kahol
+    role: subject
+    reasoning: "The article is Om Prakash Kahol's essay arguing that 'free education' is a misleading slogan that conceals the true cost of education by shifting it from tuition fees to taxation."
+    evidence: []
+    key_passages:
+      - quote: The day-dream of a free-education scheme is a hangover of the anti-rational mental attitudes of pre-Partition days.
+        what_it_shows: "Kahol's opening characterisation of the free-education myth"
+      - quote: "The description 'free education' thus burns out, in the ultimate analysis, to be a clever device for confusing the public mind and to keep them well-fed on glittering slogans."
+        what_it_shows: "Kahol's core exposure of the 'free education' slogan as a device for public confusion"
+      - quote: "what is rejected as tuition fee, is accepted in another form, as 'educational cess' or as a 'special levy'"
+        what_it_shows: "Kahol's economic argument that free education merely redistributes the cost invisibly"
 
 ---
 

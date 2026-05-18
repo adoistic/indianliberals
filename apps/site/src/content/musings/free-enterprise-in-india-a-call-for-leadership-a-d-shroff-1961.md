@@ -7,6 +7,25 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-d-shroff"
+thinker_mentions:
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Shroff cites Jayaprakash Narayan's 1961 public disillusionment with nationalisation as evidence that even socialist founders had come to recognise the failures of doctrinaire socialism, using it to claim intellectual momentum for the free-enterprise position."
+    evidence:
+      - quote: Mr Jayaprakash Narayan, a founder of socialist movement in India, is thoroughly disillusioned about nationalisation, one of the main planks of doctrinaire socialism.
+        context: "Narayan's conversion from nationalisation is Shroff's rhetorical proof that economic common sense is winning over honest socialists"
+    key_passages: []
+  - thinker: wilhelm-ropke
+    role: mention
+    reasoning: "Shroff invokes Röpke's authority as the architect of West Germany's economic miracle to support his critique of Indian planning's disregard for the time-value of economic commitment, grounding the speech in European ordoliberal thought."
+    evidence:
+      - quote: Vilhelm Roepke, eminent economist who was in no small measure responsible for the Economic Miracle in West Germany
+        context: "Röpke's credentials anchor Shroff's use of his warning about underdeveloped countries transplanting Western industrial forms without their underlying conditions"
+    key_passages: []
+related_thinkers: 
+  - jayaprakash-narayan
+  - wilhelm-ropke
+
 ---
 
 _Ardeshir Darabshaw Shroff (1899-1965) was an eminent industrialist, banker, and economist. He was one of the architects of free India’s banking and insurance business. Shroff was amongst the earliest proponents of free enterprise in India. In 1956, Shroff co-founded the Forum of Free Enterprise, a think-tank, as a means to counter the socialist tendencies of the Nehru government. _

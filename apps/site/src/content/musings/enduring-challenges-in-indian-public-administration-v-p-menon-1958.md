@@ -8,6 +8,17 @@ language: "en"
 needs_review: true
 draft: false
 author: "v-p-menon"
+thinker_mentions:
+  - thinker: sardar-patel
+    role: mention
+    reasoning: "Sardar Patel is identified as the minister under whom Menon served in the Ministry of States, establishing Patel's patronage as the political context for Menon's views on administration."
+    evidence:
+      - quote: Secretary to the Government of India in the Ministry of the States, under Sardar Patel.
+        context: "Menon's service under Patel is cited in the editorial introduction to frame his authority on administrative challenges"
+    key_passages: []
+related_thinkers: 
+  - sardar-patel
+
 ---
 
 _The following excerpt has been taken from V.P. Menon's 'Indian Administration: Past and Present', published in June 1958 by the [Forum of Free Enterprise](https://indianliberals.in/periodicals/forum-of-free-enterprise/). The publication provides a comprehensive account of the Indian administration's origins, from the days of the East India Company, and its evolution until the Planning Era. Menon stresses the expansive nature of the services, the role played by viceroys and governor generals, the exponential increase in the number of officers, and the challenges faced by the Indian administration over a span of three centuries. You can read the unabridged text[here](https://indianliberals.in/forum-of-free-enterprise/indian-administartion-v-p-menon-jun5-1958.pdf)._

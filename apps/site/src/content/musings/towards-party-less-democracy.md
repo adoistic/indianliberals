@@ -7,6 +7,29 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: m-n-roy
+    role: mention
+    reasoning: "M. N. Roy is cited as the originator of the detailed idea of a party-less democracy in India, which the article's main argument develops further through Jayaprakash Narayan's proposals."
+    evidence:
+      - quote: The late Mr M. N. Roy had worked out the idea in some detail
+        context: "crediting Roy as the intellectual originator of party-less democracy before JP's mobilisation"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Jayaprakash Narayan is the focal practical proponent of party-less democracy in this piece, with his specific proposals for voters' associations and electoral colleges discussed at length."
+    evidence:
+      - quote: Mr. Jayaprakash Narayan is mobilising public opinion by means of seminars and the circulation of concrete proposals among uncommitted thinkers
+        context: introduction of JP as the active champion bringing the idea into public discourse
+      - quote: "Mr. Narayan's suggestion is that of jettisoning the party altogether"
+        context: "JP's core proposal stated directly"
+      - quote: Mr. Jayaprakash Narayan envisages full discussion and the canvass of all relevant ideas but without the distorting influence of the party
+        context: "description of JP's vision of deliberative democracy without party machinery"
+    key_passages: []
+related_thinkers: 
+  - jayaprakash-narayan
+  - m-n-roy
+
 ---
 
 _The issues plaguing our electoral system have much to do with the tyranny of political parties and any step towards reforming the system on this path is a welcome. The following article was written in February 1961 and published in the Freedom First magazine. It challenged the popular notion of multi-party democracy. The author M.A. Venkata Rao discussed the modalities of a party-less democracy and proposed structural adjustments.  _Distressed by the Himalayan evils that have corrupted public life and administration during these years of self-rule, thoughtful people are suggesting a form of parliamentary democracy without the party system. The late Mr M. N. Roy had worked out the idea in some detail. And now Mr. Jayaprakash Narayan is mobilising public opinion by means of seminars and the circulation of concrete proposals among uncommitted thinkers.
