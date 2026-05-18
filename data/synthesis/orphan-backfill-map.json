@@ -1,0 +1,108 @@
+{
+  "confirmed": [
+    {
+      "path": "musings/our-economic-future",
+      "slug": "a-d-shroff",
+      "attribution": "A. D. Shroff",
+      "lang": "en"
+    },
+    {
+      "path": "musings/population-causes-prosperity",
+      "slug": "sauvik-chakraverti",
+      "attribution": "Sauvik Chakraverti",
+      "lang": "en"
+    },
+    {
+      "path": "musings/what-makes-japan-tick",
+      "slug": "minoo-shroff",
+      "attribution": "Minoo R Shroff",
+      "lang": "en"
+    },
+    {
+      "path": "musings/your-prosperity-through-freedom",
+      "slug": "m-r-pai",
+      "attribution": "M. R. Pai",
+      "lang": "en"
+    },
+    {
+      "path": "primary-works/cement-industry-in-india-n-dandekar-oct9-1956",
+      "slug": "n-dandekar",
+      "attribution": "N. Dandekar",
+      "lang": "en"
+    },
+    {
+      "path": "primary-works/corporate-governance-in-india-k-b-dadiseth",
+      "slug": "k-b-dadiseth",
+      "attribution": "K. B. Dadiseth",
+      "lang": "en"
+    },
+    {
+      "path": "primary-works/corporate-sector-and-rural-development-n-s-ramaswamy-october-14-1977",
+      "slug": "n-s-ramaswamy",
+      "attribution": "N. S. Ramaswamy",
+      "lang": "en"
+    },
+    {
+      "path": "primary-works/forward-trading-in-shares-by-mr-mayya-april-5-1996",
+      "slug": "mr-mayya",
+      "attribution": "M. R. Mayya",
+      "lang": "en"
+    },
+    {
+      "path": "primary-works/aandolan-anant-umrikar",
+      "slug": "anant-umrikar",
+      "attribution": "Anant Umrikar",
+      "lang": "mr"
+    },
+    {
+      "path": "primary-works/angarmala-sharad-joshi",
+      "slug": "sharad-joshi",
+      "attribution": "Sharad Joshi",
+      "lang": "mr"
+    },
+    {
+      "path": "primary-works/anvyartha-1-sharad-joshi",
+      "slug": "sharad-joshi",
+      "attribution": "Sharad Joshi",
+      "lang": "mr"
+    },
+    {
+      "path": "primary-works/baliche-rajey-yenar-aahe-sharad-joshi",
+      "slug": "sharad-joshi",
+      "attribution": "Sharad Joshi",
+      "lang": "mr"
+    },
+    {
+      "path": "primary-works/samasyayen-bharat-ki",
+      "slug": "sharad-joshi",
+      "attribution": "Sharad Joshi",
+      "lang": "hi"
+    }
+  ],
+  "missing": [
+    {
+      "path": "musings/agricultural-economy",
+      "slug": "m-a-venkata-rao",
+      "attribution": "M A Venkata Rao",
+      "lang": "en"
+    },
+    {
+      "path": "musings/democratic-socialism-in-india",
+      "slug": "a-b-shah",
+      "attribution": "A. B. Shah",
+      "lang": "en"
+    },
+    {
+      "path": "musings/the-state-of-enterprise-in-little-india",
+      "slug": "r-gopalakrishnan",
+      "attribution": "R. Gopalakrishnan",
+      "lang": "en"
+    },
+    {
+      "path": "primary-works/udarwad-raj-samaj-aur-bazaar",
+      "slug": "kaushal-kishore",
+      "attribution": "Kaushal Kishore",
+      "lang": "hi"
+    }
+  ]
+}

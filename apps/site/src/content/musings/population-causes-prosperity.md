@@ -7,6 +7,26 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "sauvik-chakraverti"
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Chakraverti invokes the 'Gandhi-Nehru vision' of India as thousands of self-governing village republics to set up a direct contrast with his urban-civilisation thesis, positioning Gandhi's rural ideal as the foil to his argument for urbanisation as the path to prosperity."
+    evidence:
+      - quote: Instead of seeing the future of India in terms of thousands of self-governing and self-sufficient village republics (the Gandhi-Nehru vision), we can see India as an urban civilisation.
+        context: "the Gandhi-Nehru rural-republic vision is named as the opposing thesis to Chakraverti's urbanisation argument"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Chakraverti names Nehru alongside Gandhi as co-author of the 'village republic' vision of India — the collectivist, rural-development paradigm he argues the country must move beyond in favour of urbanisation and the division of labour."
+    evidence:
+      - quote: Instead of seeing the future of India in terms of thousands of self-governing and self-sufficient village republics (the Gandhi-Nehru vision), we can see India as an urban civilisation.
+        context: the Gandhi-Nehru vision is the ideological foil against which Chakraverti advances his pro-urbanisation thesis
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+  - mahatma-gandhi
+
 ---
 
 _Published by the Centre for Civil Society, a public policy think tank based out of New Delhi, the excerpt below has been borrowed from the handbook “Free Your Mind: A Beginner’s Guide to Political Economy” by Sauvik Chakraverti in 2002._

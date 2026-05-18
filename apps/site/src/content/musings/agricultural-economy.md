@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "ma-venkata-rao"
 ---
 
 The right remedy is not to attempt any price-fixing at all but to remove the hindrances in the way of the smooth working of the agricultural economy and let free enterprise have a chance.

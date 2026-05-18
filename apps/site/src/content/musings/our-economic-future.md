@@ -7,6 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
+author: "a-d-shroff"
 ---
 
 _The following essay was published in April 1958 by [**The Forum of Free Enterprise.**](https://indianliberals.in/content/our-economic-future-by-a-d-shroff-apr-7-1958/) Authored by A. D. Shroff, the essay talks about the challenging economic situation of the country and makes a rapid survey of the economic situation, the hardships of the common man. _Of all the problems facing this country today, none is as challenging as the present economic situation. It is a tragedy that when all the energy of the country should be mobilised in meeting the unusually difficult economic situation, comparatively smaller issues of regional interest are tearing the country to pieces. The country will not grow one inch taller in stature nor will its material prosperity be enhanced whether English or Hindi was the official language or whether the reorganization of States which has recently been brought about is allowed to stay or is changed. The fruitless controversies over these regional problems confirm the impression that the country is not sufficiently appreciative of the dangers it is confronted with on the economic front. I would, therefore, make a rapid survey of the present economic situation in the country.
