@@ -131,7 +131,7 @@ Input entry:
   collection: opinions
   id: anandibai-joshee
   title: Anandibai Joshee: First Indian Woman Doctor
-  body (excerpt): "The following essay revisits the interesting life of Anandibai Joshee. Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine."
+  body (excerpt): "The following essay revisits the interesting life of Anandibai Joshee. Anandibai went from being married at the age of nine by her orthodox family to becoming India's first female doctor of Western medicine.\n\nEven amidst societal distress, Joshee was hell-bent on sending Anandi to America for higher education. Anandi shared her husband's ambition but for her independent reasons. She was determined to go to America for a medical degree as she believed in the urgent need for an Indian female doctor."
 
 Authority includes: anandibai-joshee :: Anandibai Joshee
 
