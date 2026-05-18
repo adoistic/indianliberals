@@ -215,6 +215,16 @@ function themesAttr(w: (typeof works)[number]): string {
                     {w.data.title.main}
                     {subtitle && <span class="text-(--color-fg-muted) font-normal italic">: {subtitle}</span>}
                   </h3>
+                  {w.data.title.original_script && w.data.title.original_script !== w.data.title.main && (
+                    <p class="mt-0.5 text-sm text-(--color-fg-muted) font-(family-name:--font-display)" lang={w.data.language}>
+                      {w.data.title.original_script}
+                    </p>
+                  )}
+                  {w.data.title.translit && w.data.title.translit !== w.data.title.main && w.data.title.translit !== w.data.title.original_script && (
+                    <p class="mt-0.5 text-sm text-(--color-fg-muted) font-(family-name:--font-display) italic">
+                      {w.data.title.translit}
+                    </p>
+                  )}
                   <p class="mt-1 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
                     {byline && <>{byline} · </>}
                     {y && <>{y}</>}

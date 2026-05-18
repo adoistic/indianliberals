@@ -114,6 +114,11 @@ const mentionSlugs = (fm.thinker_mentions ?? [])
           {fm.title.original_script}
         </p>
       )}
+      {fm.title.translit && fm.title.translit !== fm.title.main && fm.title.translit !== fm.title.original_script && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-xl mt-2">
+          {fm.title.translit}
+        </p>
+      )}
 
       {/* Byline */}
       {(authorEntries.length > 0 || bylineFallback) && (
