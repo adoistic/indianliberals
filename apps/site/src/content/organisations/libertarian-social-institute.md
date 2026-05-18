@@ -1,8 +1,8 @@
 ---
 id: libertarian-social-institute
 name:
-  canonical: libertarian-social-institute
-  sort: libertarian-social-institute
+  canonical: "Libertarian Social Institute"
+  sort: "Libertarian Social Institute"
 type: academic
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# libertarian-social-institute
-
+# Libertarian Social Institute
 *Entry pending editorial review.*
 

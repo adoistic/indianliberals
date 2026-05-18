@@ -1,8 +1,8 @@
 ---
 id: all-india-liberal-federation
 name:
-  canonical: all-india-liberal-federation
-  sort: all-india-liberal-federation
+  canonical: "All-India Liberal Federation"
+  sort: "All-India Liberal Federation"
 type: political_party
 ideology:
   - classical_liberal
@@ -10,7 +10,6 @@ needs_review: true
 draft: false
 ---
 
-# all-india-liberal-federation
-
+# All-India Liberal Federation
 *Entry pending editorial review.*
 

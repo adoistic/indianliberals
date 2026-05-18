@@ -1,8 +1,8 @@
 ---
 id: shetkari-sanghatana
 name:
-  canonical: shetkari-sanghatana
-  sort: shetkari-sanghatana
+  canonical: "Shetkari Sanghatana"
+  sort: "Shetkari Sanghatana"
 type: reform_society
 ideology:
   - classical_liberal
@@ -12,7 +12,6 @@ draft: false
 founded_year: 1979
 ---
 
-# shetkari-sanghatana
-
+# Shetkari Sanghatana
 *Entry pending editorial review.*
 

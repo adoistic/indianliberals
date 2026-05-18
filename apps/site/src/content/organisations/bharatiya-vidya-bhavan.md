@@ -1,8 +1,8 @@
 ---
 id: bharatiya-vidya-bhavan
 name:
-  canonical: bharatiya-vidya-bhavan
-  sort: bharatiya-vidya-bhavan
+  canonical: "Bharatiya Vidya Bhavan"
+  sort: "Bharatiya Vidya Bhavan"
 type: academic
 ideology: []
 needs_review: true
@@ -10,7 +10,6 @@ draft: false
 founded_year: 1938
 ---
 
-# bharatiya-vidya-bhavan
-
+# Bharatiya Vidya Bhavan
 *Entry pending editorial review.*
 

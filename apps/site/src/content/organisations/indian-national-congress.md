@@ -1,8 +1,8 @@
 ---
 id: indian-national-congress
 name:
-  canonical: indian-national-congress
-  sort: indian-national-congress
+  canonical: "Indian National Congress"
+  sort: "Indian National Congress"
 type: political_party
 ideology: []
 needs_review: true
@@ -10,7 +10,6 @@ draft: false
 founded_year: 1885
 ---
 
-# indian-national-congress
-
+# Indian National Congress
 *Entry pending editorial review.*
 

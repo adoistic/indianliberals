@@ -1,8 +1,8 @@
 ---
 id: academic-association-derozio
 name:
-  canonical: academic-association-derozio
-  sort: academic-association-derozio
+  canonical: "Academic Association (Derozio)"
+  sort: "Academic Association (Derozio)"
 type: academic
 ideology:
   - reformist
@@ -12,7 +12,6 @@ founded_year: 1828
 dissolved_year: 1831
 ---
 
-# academic-association-derozio
-
+# Academic Association (Derozio)
 *Entry pending editorial review.*
 

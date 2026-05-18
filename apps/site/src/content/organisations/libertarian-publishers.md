@@ -1,8 +1,8 @@
 ---
 id: libertarian-publishers
 name:
-  canonical: libertarian-publishers
-  sort: libertarian-publishers
+  canonical: "Libertarian Publishers"
+  sort: "Libertarian Publishers"
 type: publisher_org
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# libertarian-publishers
-
+# Libertarian Publishers
 *Entry pending editorial review.*
 

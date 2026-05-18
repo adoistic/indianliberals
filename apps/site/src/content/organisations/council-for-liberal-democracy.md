@@ -1,8 +1,8 @@
 ---
 id: council-for-liberal-democracy
 name:
-  canonical: council-for-liberal-democracy
-  sort: council-for-liberal-democracy
+  canonical: "Council for Liberal Democracy"
+  sort: "Council for Liberal Democracy"
 type: think_tank
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1981
 ---
 
-# council-for-liberal-democracy
-
+# Council for Liberal Democracy
 *Entry pending editorial review.*
 

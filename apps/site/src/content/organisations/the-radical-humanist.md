@@ -1,8 +1,8 @@
 ---
 id: the-radical-humanist
 name:
-  canonical: the-radical-humanist
-  sort: the-radical-humanist
+  canonical: "The Radical Humanist"
+  sort: "The Radical Humanist"
 type: publisher_org
 ideology:
   - humanist
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# the-radical-humanist
-
+# The Radical Humanist
 *Entry pending editorial review.*
 

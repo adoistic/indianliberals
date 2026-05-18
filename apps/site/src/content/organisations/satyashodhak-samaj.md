@@ -1,8 +1,8 @@
 ---
 id: satyashodhak-samaj
 name:
-  canonical: satyashodhak-samaj
-  sort: satyashodhak-samaj
+  canonical: "Satyashodhak Samaj"
+  sort: "Satyashodhak Samaj"
 type: reform_society
 ideology:
   - reformist
@@ -13,7 +13,6 @@ founded_year: 1873
 dissolved_year: 1930
 ---
 
-# satyashodhak-samaj
-
+# Satyashodhak Samaj
 *Entry pending editorial review.*
 

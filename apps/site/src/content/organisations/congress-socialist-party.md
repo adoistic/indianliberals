@@ -1,8 +1,8 @@
 ---
 id: congress-socialist-party
 name:
-  canonical: congress-socialist-party
-  sort: congress-socialist-party
+  canonical: "Congress Socialist Party"
+  sort: "Congress Socialist Party"
 type: political_party
 ideology: []
 needs_review: true
@@ -11,7 +11,6 @@ founded_year: 1934
 dissolved_year: 1948
 ---
 
-# congress-socialist-party
-
+# Congress Socialist Party
 *Entry pending editorial review.*
 

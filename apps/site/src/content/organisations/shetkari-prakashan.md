@@ -1,8 +1,8 @@
 ---
 id: shetkari-prakashan
 name:
-  canonical: shetkari-prakashan
-  sort: shetkari-prakashan
+  canonical: "Shetkari Prakashan"
+  sort: "Shetkari Prakashan"
 type: publisher_org
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# shetkari-prakashan
-
+# Shetkari Prakashan
 *Entry pending editorial review.*
 

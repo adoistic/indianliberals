@@ -1,8 +1,8 @@
 ---
 id: centre-for-civil-society
 name:
-  canonical: centre-for-civil-society
-  sort: centre-for-civil-society
+  canonical: "Centre for Civil Society"
+  sort: "Centre for Civil Society"
 type: think_tank
 ideology:
   - classical_liberal
@@ -11,7 +11,7 @@ draft: false
 founded_year: 1997
 ---
 
-# centre-for-civil-society
+# Centre for Civil Society
 
 *Entry pending editorial review.*
 

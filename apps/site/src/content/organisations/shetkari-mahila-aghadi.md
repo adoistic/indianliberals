@@ -1,8 +1,8 @@
 ---
 id: shetkari-mahila-aghadi
 name:
-  canonical: shetkari-mahila-aghadi
-  sort: shetkari-mahila-aghadi
+  canonical: "Shetkari Mahila Aghadi"
+  sort: "Shetkari Mahila Aghadi"
 type: reform_society
 ideology:
   - agrarian_reform
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# shetkari-mahila-aghadi
-
+# Shetkari Mahila Aghadi
 *Entry pending editorial review.*
 

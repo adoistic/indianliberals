@@ -1,8 +1,8 @@
 ---
 id: bombay-stock-exchange
 name:
-  canonical: bombay-stock-exchange
-  sort: bombay-stock-exchange
+  canonical: "Bombay Stock Exchange"
+  sort: "Bombay Stock Exchange"
 type: professional_body
 ideology: []
 needs_review: true
@@ -10,7 +10,6 @@ draft: false
 founded_year: 1875
 ---
 
-# bombay-stock-exchange
-
+# Bombay Stock Exchange
 *Entry pending editorial review.*
 

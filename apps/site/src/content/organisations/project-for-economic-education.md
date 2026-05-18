@@ -1,8 +1,8 @@
 ---
 id: project-for-economic-education
 name:
-  canonical: project-for-economic-education
-  sort: project-for-economic-education
+  canonical: "Project for Economic Education"
+  sort: "Project for Economic Education"
 type: think_tank
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1997
 ---
 
-# project-for-economic-education
-
+# Project for Economic Education
 *Entry pending editorial review.*
 

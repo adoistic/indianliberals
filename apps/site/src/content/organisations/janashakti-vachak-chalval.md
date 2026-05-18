@@ -1,8 +1,8 @@
 ---
 id: janashakti-vachak-chalval
 name:
-  canonical: janashakti-vachak-chalval
-  sort: janashakti-vachak-chalval
+  canonical: "Janashakti Vachak Chalval"
+  sort: "Janashakti Vachak Chalval"
 type: reform_society
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# janashakti-vachak-chalval
-
+# Janashakti Vachak Chalval
 *Entry pending editorial review.*
 

@@ -1,8 +1,8 @@
 ---
 id: leslie-sawhny-centre
 name:
-  canonical: leslie-sawhny-centre
-  sort: leslie-sawhny-centre
+  canonical: "Leslie Sawhny Centre"
+  sort: "Leslie Sawhny Centre"
 type: academic
 ideology:
   - classical_liberal
@@ -10,7 +10,6 @@ needs_review: true
 draft: false
 ---
 
-# leslie-sawhny-centre
-
+# Leslie Sawhny Centre
 *Entry pending editorial review.*
 

@@ -1,8 +1,8 @@
 ---
 id: brahmo-samaj
 name:
-  canonical: brahmo-samaj
-  sort: brahmo-samaj
+  canonical: "Brahmo Samaj"
+  sort: "Brahmo Samaj"
 type: reform_society
 ideology:
   - constitutionalist
@@ -12,7 +12,6 @@ draft: false
 founded_year: 1828
 ---
 
-# brahmo-samaj
-
+# Brahmo Samaj
 *Entry pending editorial review.*
 

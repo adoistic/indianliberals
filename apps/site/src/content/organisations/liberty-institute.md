@@ -1,8 +1,8 @@
 ---
 id: liberty-institute
 name:
-  canonical: liberty-institute
-  sort: liberty-institute
+  canonical: "Liberty Institute"
+  sort: "Liberty Institute"
 type: think_tank
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1996
 ---
 
-# liberty-institute
-
+# Liberty Institute
 *Entry pending editorial review.*
 

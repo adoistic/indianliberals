@@ -1,15 +1,14 @@
 ---
 id: all-india-sarafa-association
 name:
-  canonical: all-india-sarafa-association
-  sort: all-india-sarafa-association
+  canonical: "All-India Sarafa Association"
+  sort: "All-India Sarafa Association"
 type: professional_body
 ideology: []
 needs_review: true
 draft: false
 ---
 
-# all-india-sarafa-association
-
+# All-India Sarafa Association
 *Entry pending editorial review.*
 

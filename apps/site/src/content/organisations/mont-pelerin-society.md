@@ -1,8 +1,8 @@
 ---
 id: mont-pelerin-society
 name:
-  canonical: mont-pelerin-society
-  sort: mont-pelerin-society
+  canonical: "Mont Pelerin Society"
+  sort: "Mont Pelerin Society"
 type: international_network
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1947
 ---
 
-# mont-pelerin-society
-
+# Mont Pelerin Society
 *Entry pending editorial review.*
 

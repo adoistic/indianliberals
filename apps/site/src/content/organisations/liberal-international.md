@@ -1,8 +1,8 @@
 ---
 id: liberal-international
 name:
-  canonical: liberal-international
-  sort: liberal-international
+  canonical: "Liberal International"
+  sort: "Liberal International"
 type: international_network
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1947
 ---
 
-# liberal-international
-
+# Liberal International
 *Entry pending editorial review.*
 

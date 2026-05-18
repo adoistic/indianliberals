@@ -1,8 +1,8 @@
 ---
 id: press-institute-of-india
 name:
-  canonical: press-institute-of-india
-  sort: press-institute-of-india
+  canonical: "Press Institute of INDIA"
+  sort: "Press Institute of INDIA"
 type: professional_body
 ideology: []
 needs_review: true
@@ -10,7 +10,6 @@ draft: false
 founded_year: 1963
 ---
 
-# press-institute-of-india
-
+# Press Institute of INDIA
 *Entry pending editorial review.*
 

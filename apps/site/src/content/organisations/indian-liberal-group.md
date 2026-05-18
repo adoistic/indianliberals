@@ -1,8 +1,8 @@
 ---
 id: indian-liberal-group
 name:
-  canonical: indian-liberal-group
-  sort: indian-liberal-group
+  canonical: "Indian Liberal Group"
+  sort: "Indian Liberal Group"
 type: think_tank
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 2000
 ---
 
-# indian-liberal-group
-
+# Indian Liberal Group
 *Entry pending editorial review.*
 

@@ -1,8 +1,8 @@
 ---
 id: kisan-samvay-samiti
 name:
-  canonical: kisan-samvay-samiti
-  sort: kisan-samvay-samiti
+  canonical: "Kisan Samvay Samiti"
+  sort: "Kisan Samvay Samiti"
 type: reform_society
 ideology:
   - agrarian_reform
@@ -10,7 +10,6 @@ needs_review: true
 draft: false
 ---
 
-# kisan-samvay-samiti
-
+# Kisan Samvay Samiti
 *Entry pending editorial review.*
 

@@ -1,8 +1,8 @@
 ---
 id: liberal-party-of-sri-lanka
 name:
-  canonical: liberal-party-of-sri-lanka
-  sort: liberal-party-of-sri-lanka
+  canonical: "Liberal Party of Sri Lanka"
+  sort: "Liberal Party of Sri Lanka"
 type: political_party
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1987
 ---
 
-# liberal-party-of-sri-lanka
-
+# Liberal Party of Sri Lanka
 *Entry pending editorial review.*
 

@@ -1,15 +1,14 @@
 ---
 id: manaktalas
 name:
-  canonical: manaktalas
-  sort: manaktalas
+  canonical: "Manaktalas"
+  sort: "Manaktalas"
 type: publisher_org
 ideology: []
 needs_review: true
 draft: false
 ---
 
-# manaktalas
-
+# Manaktalas
 *Entry pending editorial review.*
 

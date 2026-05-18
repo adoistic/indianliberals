@@ -1,8 +1,8 @@
 ---
 id: r-l-foundation
 name:
-  canonical: r-l-foundation
-  sort: r-l-foundation
+  canonical: "R L Foundation"
+  sort: "R L Foundation"
 type: publisher_org
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# r-l-foundation
-
+# R L Foundation
 *Entry pending editorial review.*
 

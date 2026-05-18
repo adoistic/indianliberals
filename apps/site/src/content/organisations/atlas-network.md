@@ -1,8 +1,8 @@
 ---
 id: atlas-network
 name:
-  canonical: atlas-network
-  sort: atlas-network
+  canonical: "Atlas Network"
+  sort: "Atlas Network"
 type: international_network
 ideology:
   - classical_liberal
@@ -10,7 +10,6 @@ needs_review: true
 draft: false
 ---
 
-# atlas-network
-
+# Atlas Network
 *Entry pending editorial review.*
 

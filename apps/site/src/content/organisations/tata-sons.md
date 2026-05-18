@@ -1,8 +1,8 @@
 ---
 id: tata-sons
 name:
-  canonical: tata-sons
-  sort: tata-sons
+  canonical: "Tata Sons"
+  sort: "Tata Sons"
 type: publisher_org
 ideology: []
 needs_review: true
@@ -10,7 +10,6 @@ draft: false
 founded_year: 1917
 ---
 
-# tata-sons
-
+# Tata Sons
 *Entry pending editorial review.*
 

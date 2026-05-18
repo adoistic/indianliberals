@@ -1,8 +1,8 @@
 ---
 id: council-of-asian-liberals-and-democrats
 name:
-  canonical: council-of-asian-liberals-and-democrats
-  sort: council-of-asian-liberals-and-democrats
+  canonical: "Council of Asian Liberals and Democrats"
+  sort: "Council of Asian Liberals and Democrats"
 type: international_network
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1993
 ---
 
-# council-of-asian-liberals-and-democrats
-
+# Council of Asian Liberals and Democrats
 *Entry pending editorial review.*
 

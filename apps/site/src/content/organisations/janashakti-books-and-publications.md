@@ -1,8 +1,8 @@
 ---
 id: janashakti-books-and-publications
 name:
-  canonical: janashakti-books-and-publications
-  sort: janashakti-books-and-publications
+  canonical: "Janashakti Books and Publications"
+  sort: "Janashakti Books and Publications"
 type: publisher_org
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ needs_review: true
 draft: false
 ---
 
-# janashakti-books-and-publications
-
+# Janashakti Books and Publications
 *Entry pending editorial review.*
 

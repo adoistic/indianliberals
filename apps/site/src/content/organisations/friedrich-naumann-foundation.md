@@ -1,8 +1,8 @@
 ---
 id: friedrich-naumann-foundation
 name:
-  canonical: friedrich-naumann-foundation
-  sort: friedrich-naumann-foundation
+  canonical: "Friedrich Naumann Foundation for Freedom"
+  sort: "Friedrich Naumann Foundation for Freedom"
 type: international_network
 ideology:
   - classical_liberal
@@ -11,7 +11,6 @@ draft: false
 founded_year: 1958
 ---
 
-# friedrich-naumann-foundation
-
+# Friedrich Naumann Foundation for Freedom
 *Entry pending editorial review.*
 
