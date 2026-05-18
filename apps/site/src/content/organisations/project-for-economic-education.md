@@ -11,4 +11,3 @@ draft: false
 founded_year: 1997
 ---
 
-# Project for Economic Education

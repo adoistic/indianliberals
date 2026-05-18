@@ -10,4 +10,3 @@ needs_review: true
 draft: false
 ---
 
-# Bharathan Publications

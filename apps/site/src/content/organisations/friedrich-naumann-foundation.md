@@ -11,4 +11,3 @@ draft: false
 founded_year: 1958
 ---
 
-# Friedrich Naumann Foundation for Freedom

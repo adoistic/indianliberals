@@ -11,4 +11,3 @@ needs_review: true
 draft: true
 ---
 
-# Libertarian Social Institute

@@ -10,4 +10,3 @@ draft: true
 founded_year: 1987
 ---
 
-# John Templeton Foundation

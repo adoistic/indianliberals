@@ -11,4 +11,3 @@ needs_review: true
 draft: true
 ---
 
-# The Radical Humanist

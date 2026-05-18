@@ -12,4 +12,3 @@ draft: false
 founded_year: 1979
 ---
 
-# Shetkari Sanghatana

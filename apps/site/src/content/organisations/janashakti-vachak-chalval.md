@@ -11,4 +11,3 @@ needs_review: true
 draft: false
 ---
 
-# Janashakti Vachak Chalval

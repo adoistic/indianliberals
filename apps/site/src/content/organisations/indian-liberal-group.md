@@ -11,4 +11,3 @@ draft: false
 founded_year: 2000
 ---
 
-# Indian Liberal Group

@@ -9,4 +9,3 @@ needs_review: true
 draft: true
 ---
 
-# All-India Sarafa Association

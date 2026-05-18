@@ -10,4 +10,3 @@ needs_review: true
 draft: true
 ---
 
-# Initiative for Open Society

@@ -10,4 +10,3 @@ draft: true
 founded_year: 1927
 ---
 
-# Federation of Indian Chambers of Commerce

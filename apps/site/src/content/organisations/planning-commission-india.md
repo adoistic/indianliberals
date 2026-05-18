@@ -11,4 +11,3 @@ founded_year: 1950
 dissolved_year: 2014
 ---
 
-# Planning Commission INDIA

@@ -11,4 +11,3 @@ founded_year: 1934
 dissolved_year: 1948
 ---
 
-# Congress Socialist Party

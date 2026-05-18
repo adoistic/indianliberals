@@ -11,4 +11,3 @@ draft: true
 founded_year: 1996
 ---
 
-# Liberty Institute

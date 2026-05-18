@@ -12,4 +12,3 @@ founded_year: 1828
 dissolved_year: 1831
 ---
 
-# Academic Association (Derozio)

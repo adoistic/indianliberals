@@ -13,4 +13,3 @@ founded_year: 1873
 dissolved_year: 1930
 ---
 
-# Satyashodhak Samaj

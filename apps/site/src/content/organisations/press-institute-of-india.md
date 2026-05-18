@@ -10,4 +10,3 @@ draft: true
 founded_year: 1963
 ---
 
-# Press Institute of INDIA

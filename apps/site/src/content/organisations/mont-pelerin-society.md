@@ -11,4 +11,3 @@ draft: false
 founded_year: 1947
 ---
 
-# Mont Pelerin Society
