@@ -62,7 +62,7 @@ const profileCount = opinions.filter((o) => o.data.subject).length;
           <ul class="flex flex-wrap gap-1.5">
             <li>
               <button type="button" data-filter-kind="profile" class="o-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors">
-                Profile piece <span class="text-(--color-fg-muted)">({profileCount})</span>
+                Profile piece <span class="opacity-70">({profileCount})</span>
               </button>
             </li>
           </ul>
@@ -80,7 +80,7 @@ const profileCount = opinions.filter((o) => o.data.subject).length;
                   data-filter-decade={String(d)}
                   class="o-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
                 >
-                  {d}s <span class="text-(--color-fg-muted)">({n})</span>
+                  {d}s <span class="opacity-70">({n})</span>
                 </button>
               </li>
             ))}
@@ -99,7 +99,7 @@ const profileCount = opinions.filter((o) => o.data.subject).length;
                   data-filter-theme={th}
                   class="o-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
                 >
-                  {th.replace(/[_-]/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
+                  {th.replace(/[_-]/g, " ")} <span class="opacity-70">({n})</span>
                 </button>
               </li>
             ))}

@@ -68,7 +68,7 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
                 data-filter-decade={String(d)}
                 class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
               >
-                {d}s <span class="text-(--color-fg-muted)">({n})</span>
+                {d}s <span class="opacity-70">({n})</span>
               </button>
             </li>
           ))}
@@ -86,7 +86,7 @@ const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
                   data-filter-theme={th}
                   class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
                 >
-                  {th.replace(/[_-]/g, " ")} <span class="text-(--color-fg-muted)">({n})</span>
+                  {th.replace(/[_-]/g, " ")} <span class="opacity-70">({n})</span>
                 </button>
               </li>
             ))}

@@ -112,13 +112,14 @@ a {
   text-decoration: none;
   transition: color 180ms ease, text-decoration-color 180ms ease;
 }
-a:hover {
-  color: color-mix(in oklch, var(--color-forest-700) 75%, var(--color-fg) 25%);
-}
 
 /* Body prose: underline links inline so they're distinguishable from
- * the surrounding text. Scoped to `.prose-container` — the standard
- * wrapper around <Content /> on every Tier-A detail page. */
+ * the surrounding text, and use a slightly muted hover colour. Scoped
+ * to `.prose-container` — the standard wrapper around prose content on
+ * every Tier-A detail page. Chrome links (nav, buttons, CTAs) inherit
+ * whatever color is set on them via utility classes; we don't override
+ * those on hover, because doing so was making white-on-dark CTAs flip
+ * to dark-green-on-dark mid-hover (unreadable). */
 .prose-container a {
   text-decoration: underline;
   text-decoration-thickness: 1px;
@@ -126,6 +127,7 @@ a:hover {
   text-decoration-color: color-mix(in oklch, var(--color-forest-700) 35%, transparent);
 }
 .prose-container a:hover {
+  color: color-mix(in oklch, var(--color-forest-700) 75%, var(--color-fg) 25%);
   text-decoration-color: var(--color-forest-700);
 }
 
