@@ -7,7 +7,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
-author: "free-enterprise-and-freedom"
+author: ""
 ---
 
 _The following essay was published by the [Forum of Free Enterprise](https://indianliberals.in/content/free-enterprise-and-freedom-by-murarji-j-vaidya-april-10-1956/) in 1956. Authored by Muraji J. Vaidya, the essay examines the approach of the Planning Commission in the Second Five-year Plan and what it meant for the private sector. _The approach of the Planning Commission and of the Government to the question of the scope for and sphere of Private Sector in the Second Five-Year Plan is evident from the first chapter of the draft outline. 

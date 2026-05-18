@@ -11,7 +11,7 @@ subject_name: "Streer Potro"
 youtube_url: "https://www.youtube.com/watch?v=vg9gKnFIY-U"
 transcript_status: "none"
 
-subject: "streer-potro"
+subject: ""
 ---
 
 Rabindranath Tagore was a poet, writer, thinker and Indian Liberal. On Rabindra Jayanti, we revisit _Streer Potro_ or _A Wife's Letter_ - an epistolary tale that talks about the individuality of a woman. Tagore's women protagonists often challenged the norm, much like Streer Potro's Mrinal.

@@ -6,7 +6,7 @@ themes: []
 language: "en"
 needs_review: true
 draft: false
-author: "economic-growth-with-social-justice"
+author: ""
 ---
 
 _Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969. This was under the section 'India - The Potential and The Reality' in the book 'We, the People: India-The Largest Democracy' published by Strand Book Stall in 1984_

@@ -831,28 +831,6 @@
       ]
     },
     {
-      "id": "economic-growth-with-social-justice",
-      "name": {
-        "canonical": "Economic Growth with Social Justice",
-        "sort": "Justice, Economic Growth with Social"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/il-explainer-ep1-br-shenoy.md"
-      ]
-    },
-    {
-      "id": "free-enterprise-and-freedom",
-      "name": {
-        "canonical": "Free Enterprise and Freedom",
-        "sort": "Freedom, Free Enterprise and"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/il-explainer-ep-5-free-enterprise-and-freedom.md"
-      ]
-    },
-    {
       "id": "g-jayachandran",
       "name": {
         "canonical": "G Jayachandran",
@@ -902,17 +880,6 @@
       ]
     },
     {
-      "id": "liberalism-and-the-populist-challenge",
-      "name": {
-        "canonical": "Liberalism and the Populist Challenge",
-        "sort": "Challenge, Liberalism and the Populist"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/liberalism-and-the-populist-challenge.md"
-      ]
-    },
-    {
       "id": "m-a-master",
       "name": {
         "canonical": "M.A. Master",
@@ -921,17 +888,6 @@
       "confidence": "high",
       "sources": [
         "content/theprint-mirror/private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi.md"
-      ]
-    },
-    {
-      "id": "making-tax-compliance-attractive",
-      "name": {
-        "canonical": "Making Tax Compliance Attractive",
-        "sort": "Attractive, Making Tax Compliance"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/making-tax-compliance-attractive.md"
       ]
     },
     {
@@ -982,39 +938,6 @@
       ]
     },
     {
-      "id": "socialism-reconsidered",
-      "name": {
-        "canonical": "Socialism Reconsidered",
-        "sort": "Reconsidered, Socialism"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/il-explainer-ep-4-socialism-reconsidered-by-minoo-masani.md"
-      ]
-    },
-    {
-      "id": "streer-potro",
-      "name": {
-        "canonical": "Streer Potro",
-        "sort": "Potro, Streer"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/il-explainer-ep-3-streer-potro-tagore.md"
-      ]
-    },
-    {
-      "id": "sultana-s-dream",
-      "name": {
-        "canonical": "Sultana's Dream",
-        "sort": "Dream, Sultana's"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/il-explainer-ep-2-begum-rokeya.md"
-      ]
-    },
-    {
       "id": "tahir-siddiqui",
       "name": {
         "canonical": "Tahir Siddiqui",
@@ -1023,28 +946,6 @@
       "confidence": "high",
       "sources": [
         "content/theprint-mirror/hitlerite-vegetarianism-india-food-science-sentiment.md"
-      ]
-    },
-    {
-      "id": "the-case-against-neo-protectionism",
-      "name": {
-        "canonical": "The Case Against Neo-Protectionism",
-        "sort": "Neo-Protectionism, The Case Against"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/the-case-against-neo-protectionism.md"
-      ]
-    },
-    {
-      "id": "union-budget-1992-93",
-      "name": {
-        "canonical": "Union Budget 1992-93",
-        "sort": "1992-93, Union Budget"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/interviews/union-budget-1992-1993-by-nani-palkhivala.md"
       ]
     },
     {
@@ -1494,17 +1395,6 @@
       ]
     },
     {
-      "id": "passing-parliamentary-select-comittee-palkhivala",
-      "name": {
-        "canonical": "Passing Parliamentary Select Comittee Palkhivala",
-        "sort": "Palkhivala, Passing Parliamentary Select Comittee"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/the-union-budget-1995-96-by-passing-parliamentary-select-comittee-n-a-palkhivala-march-21-1995.pdf"
-      ]
-    },
-    {
       "id": "piya-mahatey",
       "name": {
         "canonical": "Piya Mahatey",
@@ -1604,17 +1494,6 @@
       ]
     },
     {
-      "id": "spreading-enterprises-gopalakrishnan",
-      "name": {
-        "canonical": "Spreading Enterprises Gopalakrishnan",
-        "sort": "Gopalakrishnan, Spreading Enterprises"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/prosperity-beyond-our-cities-by-spreading-enterprises-r-gopalakrishnan-october-10-2007.pdf"
-      ]
-    },
-    {
       "id": "sujata-manohar",
       "name": {
         "canonical": "Sujata Manohar",
@@ -1634,17 +1513,6 @@
       "confidence": "medium",
       "sources": [
         "pdf-filename/forum-of-free-enterprise/role-of-private-enterprises-by-thakorelal-m-desai-september-4-1956.pdf"
-      ]
-    },
-    {
-      "id": "the-dock-by-pt-bauer",
-      "name": {
-        "canonical": "The Dock BY PT Bauer",
-        "sort": "Bauer, The Dock BY PT"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/market-by-the-dock-by-pt-bauer-january-1981.pdf"
       ]
     },
     {
@@ -7262,7 +7130,6 @@
     "dudley senanayake": "dudley-senanayake",
     "dvgundappa": "d-v-gundappa",
     "dwarkanath tagore": "dwarkanath-tagore",
-    "economic growth with social justice": "economic-growth-with-social-justice",
     "ek janaki ammal": "janaki-ammal",
     "erhard haubold": "erhard-haubold",
     "eugene black": "eugene-black",
@@ -7271,7 +7138,6 @@
     "frank simoes": "frank-simoes",
     "franz oppenheimer": "franz-oppenheimer",
     "frederic bastiat": "frederic-bastiat",
-    "free enterprise and freedom": "free-enterprise-and-freedom",
     "friedrich hayek": "friedrich-hayek",
     "friedrich naumann": "friedrich-naumann",
     "g giridhar prabhu": "g-giridhar-prabhu",
@@ -7361,7 +7227,6 @@
     "l k jha": "l-k-jha",
     "lady abala bose": "lady-abala-bose",
     "lalita ramdas": "lalita-ramdas",
-    "liberalism and the populist challenge": "liberalism-and-the-populist-challenge",
     "lk jha": "l-k-jha",
     "lok nayak": "jayaprakash-narayan",
     "lord macaulay": "thomas-babington-macaulay",
@@ -7390,7 +7255,6 @@
     "mahatma gandhi": "mahatma-gandhi",
     "mahomedali currim chagla": "m-c-chagla",
     "majgen retd e d'souza": "e-dsouza",
-    "making tax compliance attractive": "making-tax-compliance-attractive",
     "malini karakal": "malini-karakal",
     "malthus": "thomas-robert-malthus",
     "manabendra nath roy": "m-n-roy",
@@ -7471,7 +7335,6 @@
     "pandita ramabai": "pandita-ramabai",
     "parichand mitra": "parichand-mitra",
     "parth j shah": "parth-shah",
-    "passing parliamentary select comittee palkhivala": "passing-parliamentary-select-comittee-palkhivala",
     "patel": "sardar-patel",
     "periyar ramaswami naicker": "periyar-e-v-ramasamy",
     "peter bauer": "peter-bauer",
@@ -7544,19 +7407,15 @@
     "sir biren mookerjee": "biren-mookerjee",
     "sivanath sastri": "sivanath-sastri",
     "sn haji": "sn-haji",
-    "socialism reconsidered": "socialism-reconsidered",
     "sp godrej": "sp-godrej",
     "sp sathe": "s-p-sathe",
-    "spreading enterprises gopalakrishnan": "spreading-enterprises-gopalakrishnan",
     "ss bhandare": "ss-bhandare",
     "ss bhandare and jk mukhopadhyay": "ss-bhandare-and-jk-mukhopadhyay",
     "stiglitz": "joseph-stiglitz",
-    "streer potro": "streer-potro",
     "subhas chandra bose": "subhas-chandra-bose",
     "subhash chandra bose": "subhas-chandra-bose",
     "sudha r shenoy": "sudha-r-shenoy",
     "sujata manohar": "sujata-manohar",
-    "sultana's dream": "sultana-s-dream",
     "sumati morarjee": "sumati-morarjee",
     "sunil s bhandare": "sunil-bhandare",
     "sv raju": "s-v-raju",
@@ -7567,15 +7426,12 @@
     "tahir siddiqui": "tahir-siddiqui",
     "tarachand chakrabarty": "tarachand-chakrabarty",
     "thakorelal desai": "thakorelal-desai",
-    "the case against neo-protectionism": "the-case-against-neo-protectionism",
-    "the dock by pt bauer": "the-dock-by-pt-bauer",
     "theodor heuss": "theodor-heuss",
     "thomas aquinas": "thomas-aquinas",
     "thomas malthus": "thomas-robert-malthus",
     "thomas robert malthus": "thomas-robert-malthus",
     "tom g palmer": "tom-g-palmer",
     "ttk": "t-t-krishnamachari",
-    "union budget 1992-93": "union-budget-1992-93",
     "utsavananda vidyabagish": "utsavananda-vidyabagish",
     "v k krishna menon": "v-k-krishna-menon",
     "v vijayatunga": "v-vijayatunga",
