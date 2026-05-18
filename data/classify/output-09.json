@@ -1,0 +1,200 @@
+[
+  {
+    "id": "rani-rashmoni-das",
+    "themes": ["social-reform", "civil-society", "liberalism"],
+    "proposed_themes": ["caste-reform", "women-reformers"],
+    "key_concepts": ["widow-remarriage", "anti-sati", "lower-caste-reform", "philanthropy", "anti-polygamy"],
+    "pull_quote": "She devoted her life to bringing social reform for women and lower-caste communities, fighting against elite Hindu orthodoxy and the oppressive colonisers.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["bengal-presidency", "west-bengal"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "rukhmabai-an-unrelenting-force-against-patriarchal-norms",
+    "themes": ["social-reform", "civil-liberties", "liberalism"],
+    "proposed_themes": ["women-in-medicine", "feminism"],
+    "key_concepts": ["child-marriage", "restitution-of-conjugal-rights", "women-education", "forced-widowhood", "a-hindu-lady"],
+    "pull_quote": "Apart from breaking the glass ceiling in the field of medicine, she became a major force against child marriage and other social evils in India.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "national", "places": ["bombay-presidency", "maharashtra"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "sharad-joshi-and-the-crisis-of-trade-unions",
+    "themes": ["economic-policy", "liberalism", "political-economy"],
+    "proposed_themes": ["trade-unions", "farmer-movement"],
+    "key_concepts": ["trade-unionism", "shetkari-sanghatana", "labour-movement", "strikes", "public-sector-inefficiency"],
+    "pull_quote": "Sharad Joshi addressed his criticism against the government as well as the then labour movements in the country.",
+    "stance": "analyzes",
+    "kind": "profile",
+    "geographic_scope": {"scale": "national", "places": []},
+    "source_year_inferred": null
+  },
+  {
+    "id": "shareefa-hamid-ali",
+    "themes": ["social-reform", "civil-liberties", "liberalism"],
+    "proposed_themes": ["intersectional-feminism", "women-rights"],
+    "key_concepts": ["purdah", "all-india-womens-conference", "individual-rights", "swadeshi-movement", "women-emancipation"],
+    "pull_quote": "She firmly believed that to break the shackles of societal categories it was important for people to recognize their individual rights and value their personal liberty.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "national", "places": ["gujarat"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "swatantra-party-a-big-tent-challenge-to-congress-hegemony",
+    "themes": ["liberalism", "democracy", "political-economy", "economic-policy"],
+    "proposed_themes": ["party-politics", "opposition-coalition"],
+    "key_concepts": ["swatantra-party", "one-party-democracy", "nehruvian-congress", "interest-aggregation", "market-liberalism"],
+    "pull_quote": "What enabled this coalition of disparate groups was the Nehruvian Congress’ grip over political power which effectively turned India into one-party democracy and a radical left drift in economic policy",
+    "stance": "analyzes",
+    "kind": "commentary",
+    "geographic_scope": {"scale": "national", "places": []},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-aborted-promise-economic-liberalisation-1960s",
+    "themes": ["economic-policy", "economic-reform", "mixed-economy", "political-economy"],
+    "proposed_themes": ["shastri-era", "reform-by-stealth"],
+    "key_concepts": ["reform-by-stealth", "mixed-economy", "foreign-exchange-crisis", "nehruvian-planning", "1991-reforms"],
+    "pull_quote": "From 1991 onwards, two characteristic features of economic liberalisation in India have been reforms during crisis and reforms by stealth.",
+    "stance": "analyzes",
+    "kind": "commentary",
+    "geographic_scope": {"scale": "national", "places": []},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-imagined-democracy-in-india",
+    "themes": ["democracy", "civil-liberties", "liberalism"],
+    "proposed_themes": ["dissent", "majoritarianism"],
+    "key_concepts": ["majoritarianism", "right-to-dissent", "on-liberty", "national-emergency", "free-speech"],
+    "pull_quote": "A society which ignores and discourages the right to dissent is doing an act of self-destruction or entering to the state of complete stagnation.",
+    "stance": "argues-for",
+    "kind": "commentary",
+    "geographic_scope": {"scale": "national", "places": []},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-liberalism-of-ishwar-chandra-vidyasagar",
+    "themes": ["social-reform", "liberalism", "civil-society"],
+    "proposed_themes": ["humanism", "education-reform"],
+    "key_concepts": ["practical-humanism", "widow-remarriage", "child-marriage", "high-caste-polygamy", "secular-outlook"],
+    "pull_quote": "Yet this Sanskrit scholar battled to end child marriage and high-caste polygamy, and to enable Hindu widows to re-marry.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["bengal-presidency", "west-bengal"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-moderate-liberalism-of-ferocious-mehta",
+    "themes": ["liberalism", "democracy", "governance", "civil-society"],
+    "proposed_themes": ["moderate-nationalism", "local-self-governance"],
+    "key_concepts": ["local-self-governance", "moderate-nationalism", "gladstonian-liberalism", "indian-national-congress", "municipal-government"],
+    "pull_quote": "However, the shrinking of the liberal space and a clear absence of substantial liberal constituency have left the moderate nationalists heirless, so to speak.",
+    "stance": "profiles",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["bombay-presidency", "maharashtra", "united-kingdom"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-radical-humanism-of-jyotiba-phule",
+    "themes": ["social-reform", "liberalism", "civil-society"],
+    "proposed_themes": ["caste-reform", "radical-humanism"],
+    "key_concepts": ["radical-humanism", "shudra-atisudra", "brahmanical-order", "anti-caste", "swadeshi-ideals"],
+    "pull_quote": "His idea of patriotism wasn’t limited to mere territorial unity.",
+    "stance": "profiles",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["maharashtra", "bombay-presidency"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-resolute-abala-bose",
+    "themes": ["social-reform", "liberalism", "civil-society"],
+    "proposed_themes": ["women-education", "suffragism"],
+    "key_concepts": ["women-education", "brahmo-samaj", "widow-remarriage", "montessori-system", "philanthropy"],
+    "pull_quote": "There is a tendency of reducing women to their relationships with men who have achieved great feats.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["bengal-presidency", "west-bengal"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-swatantra-way-for-forging-a-formidable-coalition",
+    "themes": ["liberalism", "democracy", "political-economy"],
+    "proposed_themes": ["coalition-building", "opposition-politics"],
+    "key_concepts": ["swatantra-party", "principled-pragmatism", "polarisation", "like-minded-parties", "anti-congress-coalition"],
+    "pull_quote": "In a democracy, parties and alliances must offer alternatives or choices to the voters through their programmes.",
+    "stance": "analyzes",
+    "kind": "commentary",
+    "geographic_scope": {"scale": "national", "places": []},
+    "source_year_inferred": null
+  },
+  {
+    "id": "the-unwavering-feminism-of-tarabai-shinde",
+    "themes": ["social-reform", "civil-liberties", "liberalism"],
+    "proposed_themes": ["feminism", "gender-equality"],
+    "key_concepts": ["stri-purush-tulana", "vijaylakshmi-case", "patriarchy", "gender-inequality", "satyashodhak-samaj"],
+    "pull_quote": "It is a scathing critique of gender inequality and questions the institutional gender inequality entrenched in the social institutions of that time.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["maharashtra", "bombay-presidency"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "v-s-srinivasa-sastri",
+    "themes": ["liberalism", "democracy", "governance"],
+    "proposed_themes": ["moderate-nationalism", "diplomacy"],
+    "key_concepts": ["servants-of-india-society", "dominion-status", "lucknow-pact", "self-determination", "moderate-liberalism"],
+    "pull_quote": "We want political power; let there be no mistake about it.",
+    "stance": "profiles",
+    "kind": "profile",
+    "geographic_scope": {"scale": "national", "places": ["tamil-nadu", "madras-presidency"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "why-remember-sharad-joshi",
+    "themes": ["liberalism", "agriculture", "economic-freedom", "civil-liberties"],
+    "proposed_themes": ["farmer-movement", "individual-freedom"],
+    "key_concepts": ["shetkari-sanghatana", "individual-freedom", "government-as-necessary-evil", "producer-freedom", "anti-feudalism"],
+    "pull_quote": "Sharad Joshi was one of the first leaders to acknowledge the importance of freedom and dignity, and, that, there is no greater value than leading a free and dignified life.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "national", "places": []},
+    "source_year_inferred": null
+  },
+  {
+    "id": "women-and-liberalism-life-of-ramabai-ranade",
+    "themes": ["social-reform", "liberalism", "civil-society"],
+    "proposed_themes": ["women-empowerment", "women-education"],
+    "key_concepts": ["seva-sadan", "prarthana-samaj", "women-education", "arya-mahila-samaj", "social-reform"],
+    "pull_quote": "A distinctively liberal feature of Ramabai's work is how all women, despite their social or economic background, were accepted in the Seva Sadan.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["maharashtra", "bombay-presidency"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "women-and-liberalism-the-life-of-begum-rokeya",
+    "themes": ["social-reform", "liberalism", "civil-society"],
+    "proposed_themes": ["women-education", "muslim-women-emancipation"],
+    "key_concepts": ["sultanas-dream", "purdah", "bengali-renaissance", "muslim-women-education", "sakhawat-girls-school"],
+    "pull_quote": "Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["bengal-presidency", "west-bengal", "bangladesh"]},
+    "source_year_inferred": null
+  },
+  {
+    "id": "zealous-azizun-nisa",
+    "themes": ["liberalism", "civil-liberties"],
+    "proposed_themes": ["anti-colonial-resistance", "1857-revolt", "women-warriors"],
+    "key_concepts": ["1857-revolt", "siege-of-cawnpore", "courtesan-warrior", "anti-colonial-resistance", "colonial-morality"],
+    "pull_quote": "Her selfless and brave attitude chose martyrdom for her country over confessions.",
+    "stance": "commemorates",
+    "kind": "profile",
+    "geographic_scope": {"scale": "regional", "places": ["uttar-pradesh", "united-provinces"]},
+    "source_year_inferred": null
+  }
+]
