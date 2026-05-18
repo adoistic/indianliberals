@@ -173,11 +173,11 @@ def load_authority_slugs() -> set[str]:
     return {t["id"] for t in doc.get("thinkers", [])}
 
 
-def load_existing_author_slugs(collection: str, entry_id: str) -> set[str]:
-    """Return the set of slugs already attached to this entry as author
-    or subject (from Phase A). These slugs are excluded from
-    related_thinkers[] to avoid the entry cross-referencing its own
-    author/subject."""
+def load_byline_author_slugs(collection: str, entry_id: str) -> set[str]:
+    """Return the slugs in this entry's `author:` / `authors[]` /
+    `contributors[].thinker` frontmatter fields. Phase A populated
+    these; Phase B uses them to drop mention records that would
+    duplicate the byline author (Rule 2 of system-ner.txt)."""
     p = CONTENT_ROOT / collection / f"{entry_id}.md"
     if not p.exists():
         return set()
@@ -187,10 +187,9 @@ def load_existing_author_slugs(collection: str, entry_id: str) -> set[str]:
         return set()
     fm = m.group(1)
     slugs: set[str] = set()
-    for field in ("author", "subject"):
-        mm = re.search(rf"^{field}:\s*\"([^\"]+)\"", fm, re.M)
-        if mm:
-            slugs.add(mm.group(1))
+    mm = re.search(r"^author:\s*\"([^\"]+)\"", fm, re.M)
+    if mm:
+        slugs.add(mm.group(1))
     # authors[] (primary-works)
     mm = re.search(r"^authors:\s*\n((?:[ \t]+-\s*\"[^\"]+\"\s*\n)+)", fm, re.M)
     if mm:
@@ -198,6 +197,25 @@ def load_existing_author_slugs(collection: str, entry_id: str) -> set[str]:
             sub = re.match(r"\s*-\s*\"([^\"]+)\"", line)
             if sub:
                 slugs.add(sub.group(1))
+    return slugs
+
+
+def load_self_referent_slugs(collection: str, entry_id: str) -> set[str]:
+    """Return the slugs already attached to this entry as author OR
+    subject (from Phase A). Used to de-dup `related_thinkers[]` — the
+    entry should not cross-reference itself on its own author/subject
+    bio page's "Mentioned in" section. Includes byline-author slugs
+    AND the `subject:` slug if any."""
+    slugs = load_byline_author_slugs(collection, entry_id)
+    p = CONTENT_ROOT / collection / f"{entry_id}.md"
+    if p.exists():
+        text = p.read_text(encoding="utf-8")
+        m = _FRONTMATTER_RX.match(text)
+        if m:
+            fm = m.group(1)
+            mm = re.search(r"^subject:\s*\"([^\"]+)\"", fm, re.M)
+            if mm:
+                slugs.add(mm.group(1))
     return slugs
 
 
@@ -292,7 +310,8 @@ def main() -> int:
         if body is None:
             rejected_lines.append(f"{collection}\t{eid}\tBODY_MISSING")
             continue
-        existing_author_slugs = load_existing_author_slugs(collection, eid)
+        byline_author_slugs = load_byline_author_slugs(collection, eid)
+        self_referent_slugs = load_self_referent_slugs(collection, eid)
 
         valid_mentions: list[dict] = []
         for m in mentions:
@@ -301,8 +320,11 @@ def main() -> int:
                 counts["mentions_rejected_thinker"] += 1
                 rejected_lines.append(f"{collection}\t{eid}\tunknown_thinker={slug}")
                 continue
-            # Skip the entry's own author/subject (Phase A owns those)
-            if slug in existing_author_slugs:
+            # Rule 2 of system-ner.txt: byline authors are captured in Phase
+            # A; this pass is about in-prose mentions only. Subject-role
+            # mentions are kept (Phase B is the only source of key_passages
+            # for the bio page's "About {Thinker}" highlight strip).
+            if slug in byline_author_slugs:
                 counts["mentions_rejected_self"] += 1
                 continue
             # Validate every quote
@@ -339,7 +361,7 @@ def main() -> int:
             })
 
         # related_thinkers = de-duped union of (kept mentions' thinkers) minus the entry's own author/subject
-        related_slugs = sorted({m["thinker"] for m in valid_mentions} - existing_author_slugs)
+        related_slugs = sorted({m["thinker"] for m in valid_mentions} - self_referent_slugs)
 
         # Render the frontmatter blocks
         tm_block = _yaml_thinker_mentions_block(valid_mentions, indent=0)
