@@ -15,23 +15,54 @@ provenance:
   source: "ccs_archive"
   scan_quality: "fair"
   notes: "Imported from indianli_liberals DB (id=26, lang=Gujarati). Original PDF filename: PDF_26_dz3bz5March-April2010 year 4, issue 2.pdf. OCR pages in DB: 44. OCR quality flag: partial."
-themes: []
-ai_key_points: []
+themes:
+  - civil-liberties
+  - civil-society
+  - democracy
+  - governance
+  - rule-of-law
+  - social-reform
+ai_key_points:
+  - "Khoj is a Gujarati bi-monthly edited by Ambrish Mehta from Kotegaon, Vadodara, with a stated motto of \"life as a ceaseless search\" and epigraphs from the Rig Veda and Xenophanes."
+  - "The cover essay \"Gujaratma Maovad?\" by Ambrish and Trupti challenges the Surat police's framing of 8–10 South Gujarat adivasis as CPI(Maoist) cadres, arguing the FIR rests on anonymous \"members\" and criminalises legitimate forest-rights organising."
+  - The authors draw on long association with adivasi activists Avinash Kulkarni, Bharat Puwar and Sukla Puwar to argue that democratic adivasi mobilisation is being recast as Maoist insurgency.
+  - "Trupti Parekh's essay on the Women's Reservation Bill (passed 8 March 2010) walks through the constitutional amendment's one-third reservation for the Lok Sabha and state assemblies and its 15-year sunset clause."
+  - She weighs the affirmative-action case against the Mulayam Singh / Lalu Yadav objection that OBC and minority women will be excluded, and the proportional-representation arguments raised in the Constituent Assembly.
+  - "A separate Trupti Parekh piece on khap panchayats covers the Mirchpur Dalit attacks (21 April 2010), the Manoj-Babli honour killing case, and Karnal court's death and life sentences for khap leaders."
+  - "Cleavia Andrews's \"From Shah Bano to Shabana\" revisits the 1986 Muslim Women (Protection of Rights on Divorce) Act and how courts have interpreted maintenance rights since."
+  - Other contributors in the issue include Madhu Purnima Kishwar, Barkha Mishra, M.J. Akbar, Mahboob Desai (on Sufi-inspired Gujarati sant literature), Parth Shah (on the Right to Education Act and school vouchers), and Ashwin Jhinjhuvadia on the Gujarati press.
 paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
-needs_extraction: true
+needs_extraction: false
+summary: |-
+  This is the March-April 2010 issue (Year 4, No. 2) of Khoj ("Jivan Ek Avirat Khoj" — life as a ceaseless search), a Gujarati-language periodical edited by Ambrish Mehta with an editorial board including Trupti Parekh, Anil Patel and Rajesh Mishra. Published from Kotegaon, Vadodara, the magazine sits in the broader civil-liberties and democratic-reform corner of Gujarat's small-magazine tradition: each issue mixes editorial commentary, reader letters, and longer essays on rights, governance, religion, and culture. The opening pages carry epigraphs from the Rig Veda and Xenophanes ("all is but a woven web of guesses") that frame the magazine's stated commitment to inquiry over certainty.
+
+  The lead bloc of the issue addresses two pieces of legislation then in the news. The cover essay "Gujaratma Maovad?" (Maoism in Gujarat?), co-signed by Ambrish and Trupti, scrutinises the Surat police's arrests of 8–10 alleged Maoists and the wider claim that the CPI(Maoist) has gained a foothold among South Gujarat's adivasis. Drawing on their own years of work with the adivasi mahasabha and activists like Avinash Kulkarni, the authors argue that the FIR is built on anonymous "members" of banned outfits, that the real grievance is forest-rights and land dispossession, and that genuinely democratic adivasi organising is being recast as insurgency. A companion piece by Trupti Parekh on the Women's Reservation Bill (passed in the Rajya Sabha on 8 March 2010) lays out the constitutional architecture of one-third reservation in the Lok Sabha and state assemblies, weighs the affirmative-action case for gender equality against the Yadav-Mulayam objection that OBC and minority women will be squeezed out, and asks what "democratic suitability" the reform actually delivers.
+
+  Further essays cover khap panchayat fatwas and honour killings in Haryana after the Mirchpur and Karnal cases, Madhu Purnima Kishwar and Barkha Mishra on the politics of women's reservation, Cleavia Andrews on the journey "from Shah Bano to Shabana" of Muslim women's rights, Mahboob Desai on Sufi-inspired Gujarati sant literature, M.J. Akbar on whom fatwas are issued against, and tributes to mathematician Prof. P.U. Vaidh and others. The issue's overall stance is recognisably liberal-constitutionalist: defend due process, push back against majoritarian and caste-patriarchal informal authority, and insist that adivasi and Muslim citizens be treated as rights-bearers rather than security problems.
 ---
 
- Metadata is
-preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
-metadata pass + summarization pass + synthesis layer). See the
-[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
-for the extraction architecture.
+## Summary
 
-Until extraction runs, please refer to the staging PDF
-(`pdf_staging_path` in the frontmatter).
+This is the March-April 2010 issue (Year 4, No. 2) of Khoj ("Jivan Ek Avirat Khoj" — life as a ceaseless search), a Gujarati-language periodical edited by Ambrish Mehta with an editorial board including Trupti Parekh, Anil Patel and Rajesh Mishra. Published from Kotegaon, Vadodara, the magazine sits in the broader civil-liberties and democratic-reform corner of Gujarat's small-magazine tradition: each issue mixes editorial commentary, reader letters, and longer essays on rights, governance, religion, and culture. The opening pages carry epigraphs from the Rig Veda and Xenophanes ("all is but a woven web of guesses") that frame the magazine's stated commitment to inquiry over certainty.
+
+The lead bloc of the issue addresses two pieces of legislation then in the news. The cover essay "Gujaratma Maovad?" (Maoism in Gujarat?), co-signed by Ambrish and Trupti, scrutinises the Surat police's arrests of 8–10 alleged Maoists and the wider claim that the CPI(Maoist) has gained a foothold among South Gujarat's adivasis. Drawing on their own years of work with the adivasi mahasabha and activists like Avinash Kulkarni, the authors argue that the FIR is built on anonymous "members" of banned outfits, that the real grievance is forest-rights and land dispossession, and that genuinely democratic adivasi organising is being recast as insurgency. A companion piece by Trupti Parekh on the Women's Reservation Bill (passed in the Rajya Sabha on 8 March 2010) lays out the constitutional architecture of one-third reservation in the Lok Sabha and state assemblies, weighs the affirmative-action case for gender equality against the Yadav-Mulayam objection that OBC and minority women will be squeezed out, and asks what "democratic suitability" the reform actually delivers.
+
+Further essays cover khap panchayat fatwas and honour killings in Haryana after the Mirchpur and Karnal cases, Madhu Purnima Kishwar and Barkha Mishra on the politics of women's reservation, Cleavia Andrews on the journey "from Shah Bano to Shabana" of Muslim women's rights, Mahboob Desai on Sufi-inspired Gujarati sant literature, M.J. Akbar on whom fatwas are issued against, and tributes to mathematician Prof. P.U. Vaidh and others. The issue's overall stance is recognisably liberal-constitutionalist: defend due process, push back against majoritarian and caste-patriarchal informal authority, and insist that adivasi and Muslim citizens be treated as rights-bearers rather than security problems.
+
+## Key points
+
+- Khoj is a Gujarati bi-monthly edited by Ambrish Mehta from Kotegaon, Vadodara, with a stated motto of "life as a ceaseless search" and epigraphs from the Rig Veda and Xenophanes.
+- The cover essay "Gujaratma Maovad?" by Ambrish and Trupti challenges the Surat police's framing of 8–10 South Gujarat adivasis as CPI(Maoist) cadres, arguing the FIR rests on anonymous "members" and criminalises legitimate forest-rights organising.
+- The authors draw on long association with adivasi activists Avinash Kulkarni, Bharat Puwar and Sukla Puwar to argue that democratic adivasi mobilisation is being recast as Maoist insurgency.
+- Trupti Parekh's essay on the Women's Reservation Bill (passed 8 March 2010) walks through the constitutional amendment's one-third reservation for the Lok Sabha and state assemblies and its 15-year sunset clause.
+- She weighs the affirmative-action case against the Mulayam Singh / Lalu Yadav objection that OBC and minority women will be excluded, and the proportional-representation arguments raised in the Constituent Assembly.
+- A separate Trupti Parekh piece on khap panchayats covers the Mirchpur Dalit attacks (21 April 2010), the Manoj-Babli honour killing case, and Karnal court's death and life sentences for khap leaders.
+- Cleavia Andrews's "From Shah Bano to Shabana" revisits the 1986 Muslim Women (Protection of Rights on Divorce) Act and how courts have interpreted maintenance rights since.
+- Other contributors in the issue include Madhu Purnima Kishwar, Barkha Mishra, M.J. Akbar, Mahboob Desai (on Sufi-inspired Gujarati sant literature), Parth Shah (on the Right to Education Act and school vouchers), and Ashwin Jhinjhuvadia on the Gujarati press.
+

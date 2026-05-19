@@ -15,25 +15,57 @@ provenance:
   source: "ccs_archive"
   scan_quality: "fair"
   notes: "Imported from indianli_liberals DB (id=36, lang=Marathi). Original PDF filename: PDF_36_uvhci2Chandvdachi Shidori.pdf. OCR pages in DB: 83. OCR quality flag: partial. Author (per DB): Sharad Anantrao Joshi."
-themes: 
-  - "Sharad Joshi"
-  - "Sharad Anantrao Joshi"
-ai_key_points: []
+themes:
+  - agriculture
+  - civil-society
+  - economic-freedom
+  - economic-reform
+  - free-markets
+  - liberalism
+  - political-economy
+  - private-enterprise
+  - social-reform
+ai_key_points:
+  - "Compiles Sharad Joshi's writings on the women's question from roughly 1985 to 2007, edited by Sureshchandra Mhatre and published October 2010 by Janashakti Vachak Chalwal, Aurangabad, to mark Joshi's 75th birth-year and the Raveri mahila melava."
+  - "Centres on the November 1986 Chandwad adhiveshan of the Shetkari Mahila Aghadi, where lakhs of farm women gathered and adopted the slogan 'Aamhi striya manas aahot' (we women are human beings)."
+  - "Rejects the Marxist and urban-feminist framing of 'stree ani tiche prashna,' arguing it overlooks the rural peasant-housewife whose unpaid labour underwrites the farm economy."
+  - "Develops the Laxmi Mukti programme — land titles transferred to women's names, with around two lakh women receiving land under a 1994 Maharashtra government ordinance secured by the movement."
+  - "Documents the 1989 Amravati adhiveshan's daru-dukan-bandi (liquor-shop closure) campaign and the 100% women's panels strategy in panchayat elections in villages such as Yenora (Wardha), Metikheda (Yavatmal) and Bitner (Jalgaon)."
+  - "Includes the Aasakhed decentralised drinking-water model and arguments on women's inheritance, reservations and the Beijing Conference, which Joshi reads as state co-option of women's movements."
+  - "Critiques the post-1991 persistence of the planning-commission, nationalised-bank and ration-state apparatus despite Manmohan Singh's reforms, and the entrenched 'maaibaap sarkar will provide everything' mentality."
+  - "Sets women's emancipation inside Joshi's Bharat-versus-India thesis — remunerative farm prices, property rights for women, and open markets, not government schemes or NGO patronage, as the route out of bondage."
 paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/chandvdachi-shidori-sharad-joshi.pdf"
-needs_extraction: true
+needs_extraction: false
+summary: |-
+  This Marathi-language volume, 'Chandvadachi Shidori: Striyancha Prashna' (The Provisions of Chandvad: The Women's Question), collects the writings of Sharad Joshi, founder of the Shetkari Sangathana, on the question of women — particularly farm women — within India's political economy. Edited by Principal Sureshchandra Mhatre and published on 2 October 2010 by Janashakti Vachak Chalwal in Aurangabad, the book was released to coincide with the Raveri mahila melava and Joshi's amritmahotsavi (75th birth-year) celebrations. It draws together about twenty-five to thirty years of scattered essays, speeches and tract-style writings produced between roughly 1985 and 2007, with the 1986 Chandwad women's adhiveshan of the Shetkari Mahila Aghadi as its organising centre.
+
+  The core argument is that the orthodox Marxist and urban-feminist framing of the 'stree prashna' — which sees women's subordination chiefly as a problem of patriarchy in working and wage-earning women — fails to capture the situation of the rural peasant woman, the shetkarni grihini, whose drudgery sustains an exploited farm economy. Joshi rebuilds the women's question on the foundations of his Bharat-versus-India thesis: farm distress, statist plunder of agricultural surplus, and the denial of remunerative prices are what hold rural women in bondage. From that base he develops the Chandwad agenda — Laxmi Mukti (land titles in women's names, with about two lakh women receiving land), 100% women's panels in panchayat elections, the daru-dukan-bandi (liquor-shop closure) campaign launched from the 1989 Amravati adhiveshan, the Aasakhed model of decentralised drinking-water provision, and a women's reservation and inheritance position distinct from mainstream feminism.
+
+  Later sections critique the Beijing Conference platform and government-NGO women's programmes as a co-option of the women's movement, contrast Joshi's framework with that of Amartya Sen on state provision, and assess what swatantrya (independence) has actually meant for rural women fifty years on. The book sits squarely in the post-1991 Indian liberal tradition: market-based emancipation, suspicion of the maaibaap sarkar mentality, and dignity through property rights and open competition rather than welfarist tutelage.
 ---
 
- Metadata is
-preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
-metadata pass + summarization pass + synthesis layer). See the
-[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
-for the extraction architecture.
+## Summary
 
-Until extraction runs, please refer to the staging PDF
-(`pdf_staging_path` in the frontmatter).
+This Marathi-language volume, 'Chandvadachi Shidori: Striyancha Prashna' (The Provisions of Chandvad: The Women's Question), collects the writings of Sharad Joshi, founder of the Shetkari Sangathana, on the question of women — particularly farm women — within India's political economy. Edited by Principal Sureshchandra Mhatre and published on 2 October 2010 by Janashakti Vachak Chalwal in Aurangabad, the book was released to coincide with the Raveri mahila melava and Joshi's amritmahotsavi (75th birth-year) celebrations. It draws together about twenty-five to thirty years of scattered essays, speeches and tract-style writings produced between roughly 1985 and 2007, with the 1986 Chandwad women's adhiveshan of the Shetkari Mahila Aghadi as its organising centre.
+
+The core argument is that the orthodox Marxist and urban-feminist framing of the 'stree prashna' — which sees women's subordination chiefly as a problem of patriarchy in working and wage-earning women — fails to capture the situation of the rural peasant woman, the shetkarni grihini, whose drudgery sustains an exploited farm economy. Joshi rebuilds the women's question on the foundations of his Bharat-versus-India thesis: farm distress, statist plunder of agricultural surplus, and the denial of remunerative prices are what hold rural women in bondage. From that base he develops the Chandwad agenda — Laxmi Mukti (land titles in women's names, with about two lakh women receiving land), 100% women's panels in panchayat elections, the daru-dukan-bandi (liquor-shop closure) campaign launched from the 1989 Amravati adhiveshan, the Aasakhed model of decentralised drinking-water provision, and a women's reservation and inheritance position distinct from mainstream feminism.
+
+Later sections critique the Beijing Conference platform and government-NGO women's programmes as a co-option of the women's movement, contrast Joshi's framework with that of Amartya Sen on state provision, and assess what swatantrya (independence) has actually meant for rural women fifty years on. The book sits squarely in the post-1991 Indian liberal tradition: market-based emancipation, suspicion of the maaibaap sarkar mentality, and dignity through property rights and open competition rather than welfarist tutelage.
+
+## Key points
+
+- Compiles Sharad Joshi's writings on the women's question from roughly 1985 to 2007, edited by Sureshchandra Mhatre and published October 2010 by Janashakti Vachak Chalwal, Aurangabad, to mark Joshi's 75th birth-year and the Raveri mahila melava.
+- Centres on the November 1986 Chandwad adhiveshan of the Shetkari Mahila Aghadi, where lakhs of farm women gathered and adopted the slogan 'Aamhi striya manas aahot' (we women are human beings).
+- Rejects the Marxist and urban-feminist framing of 'stree ani tiche prashna,' arguing it overlooks the rural peasant-housewife whose unpaid labour underwrites the farm economy.
+- Develops the Laxmi Mukti programme — land titles transferred to women's names, with around two lakh women receiving land under a 1994 Maharashtra government ordinance secured by the movement.
+- Documents the 1989 Amravati adhiveshan's daru-dukan-bandi (liquor-shop closure) campaign and the 100% women's panels strategy in panchayat elections in villages such as Yenora (Wardha), Metikheda (Yavatmal) and Bitner (Jalgaon).
+- Includes the Aasakhed decentralised drinking-water model and arguments on women's inheritance, reservations and the Beijing Conference, which Joshi reads as state co-option of women's movements.
+- Critiques the post-1991 persistence of the planning-commission, nationalised-bank and ration-state apparatus despite Manmohan Singh's reforms, and the entrenched 'maaibaap sarkar will provide everything' mentality.
+- Sets women's emancipation inside Joshi's Bharat-versus-India thesis — remunerative farm prices, property rights for women, and open markets, not government schemes or NGO patronage, as the route out of bondage.
+

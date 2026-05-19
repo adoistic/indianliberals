@@ -15,25 +15,57 @@ provenance:
   source: "ccs_archive"
   scan_quality: "fair"
   notes: "Imported from indianli_liberals DB (id=40, lang=Marathi). Original PDF filename: PDF_40_wb46gmJug Badlanari Pustake.pdf. OCR pages in DB: 67. OCR quality flag: partial. Author (per DB): Sharad Anantrao Joshi."
-themes: 
-  - "Sharad Anantrao Joshi"
-  - "Sharad Joshi"
-ai_key_points: []
+themes:
+  - agriculture
+  - economic-freedom
+  - economic-planning
+  - free-markets
+  - globalisation
+  - liberalism
+  - political-economy
+  - private-enterprise
+  - socialism
+ai_key_points:
+  - "A collected volume of Sharad Joshi's Marathi essays originally serialised in the Akola weekly Daily Deshonnati, issued by Janashakti Vachak Chalwal with a first edition on 9 January 2010 and a second edition on 24 February 2014."
+  - Joshi frames the book as supplementary reading for Shetkari Sanghatana cadres who, after training camps, were debating Terms of Trade, the Dunkel Draft, intellectual property, the WTO and biotechnology in universities and public forums.
+  - "The essays profile world-changing books across economics, politics and science, including Adam Smith's Wealth of Nations and Theory of Moral Sentiments, Hayek's Road to Serfdom, Samuelson's Economics, Robbins's Nature and Significance of Economic Science, Keynes's Economic Consequences of the Peace, Thomas Paine's Common Sense, Darwin's Origin of Species, Thoreau, Orwell's Animal Farm and the Yes Minister books."
+  - Joshi states that the bedrock of all Shetkari Sanghatana thought is vyaktigat swatantrya (individual freedom), arguing that no two human experiences are comparable and that no committee or seer can legitimately plan society on behalf of free individuals.
+  - "He uses Hayek's Road to Serfdom to read socialist economic planning and Nazi economic command as structurally similar, and to warn that India under Nehru-Mahalanobis planning slid toward the same bureaucratic-authoritarian temptations Britain narrowly escaped."
+  - "Marx and Malthus appear as foils: Malthus's population pessimism is shown to have been falsified by agricultural technology, and Marx's prediction of capitalism's collapse is answered by Mises's Economic Calculation in the Socialist Commonwealth."
+  - "The chapter Aji Mya Brahma Pahile! is set in a vast Barnes & Noble bookstore in the United States and is staged as the author's Vishwarupa-darshana — a Gita-style cosmic vision — of the world of books as the true engine of human progress."
+  - Joshi closes the preface by regretting that he could not also include essays on Ayn Rand, The Selfish Gene and The God Gene, and signals he hopes to add them in future editions.
 paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/jug-badlanari-pustake-sharad-joshi.pdf"
-needs_extraction: true
+needs_extraction: false
+summary: |-
+  This Marathi-language book by Sharad Joshi, founder of the Shetkari Sanghatana farmers' movement, collects essays the author originally wrote for the Akola weekly Daily Deshonnati and assembles them as a guided reader on the books that, in his view, changed the world. The volume was published by Janashakti Vachak Chalwal (Aurangabad); the preface is dated 13 December 2009 in New Delhi, the first edition appeared on 9 January 2010 (World Book Day) and a second edition followed on 24 February 2014. Joshi explains in the preface that the pieces grew out of the Shetkari Sanghatana's training camps, where workers who had only studied up to the eighth or tenth standard were being introduced to economics, philosophy and world history alongside concrete subjects like Terms of Trade, the Dunkel Draft, intellectual property rights, the WTO and biotechnology. The book is intended as supplementary reading for those karyakartas and for the lay Marathi reader.
+
+  The essays are organised around individual works and authors that Joshi treats as foundational for any liberal, market-oriented worldview: Adam Smith's Wealth of Nations and Theory of Moral Sentiments; Hayek's Road to Serfdom and Nature and Significance of Economic Science (Robbins); Samuelson's Economics textbook; Thomas Paine's Common Sense; Darwin's Origin of Species; Thoreau and the duty of satyagraha; Jotiba Phule; Marx and Malthus as foils; Keynes's Economic Consequences of the Peace; Mises, Schumpeter, Robinson Crusoe as a parable of property; Orwell's Animal Farm; Koestler; the Yes Minister / Yes Prime Minister books read as a critique of Rajiv Gandhi-era bureaucratic capture; and later additions like The Selfish Gene and The God Gene which he wishes he had also covered.
+
+  For Joshi the common thread is vyaktigat swatantrya — individual freedom — as the bedrock of the Shetkari Sanghatana's economics: no two human experiences are commensurable, no guru or seer can plan a society, and the farmer's demand for remunerative prices is inseparable from the wider demand for freedom from state controls in production and the marketplace. The collection thus doubles as an annotated syllabus of classical liberal and free-market thought rendered into accessible Marathi, and as a record of how Joshi grounded a peasant movement in that intellectual lineage.
 ---
 
- Metadata is
-preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
-metadata pass + summarization pass + synthesis layer). See the
-[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
-for the extraction architecture.
+## Summary
 
-Until extraction runs, please refer to the staging PDF
-(`pdf_staging_path` in the frontmatter).
+This Marathi-language book by Sharad Joshi, founder of the Shetkari Sanghatana farmers' movement, collects essays the author originally wrote for the Akola weekly Daily Deshonnati and assembles them as a guided reader on the books that, in his view, changed the world. The volume was published by Janashakti Vachak Chalwal (Aurangabad); the preface is dated 13 December 2009 in New Delhi, the first edition appeared on 9 January 2010 (World Book Day) and a second edition followed on 24 February 2014. Joshi explains in the preface that the pieces grew out of the Shetkari Sanghatana's training camps, where workers who had only studied up to the eighth or tenth standard were being introduced to economics, philosophy and world history alongside concrete subjects like Terms of Trade, the Dunkel Draft, intellectual property rights, the WTO and biotechnology. The book is intended as supplementary reading for those karyakartas and for the lay Marathi reader.
+
+The essays are organised around individual works and authors that Joshi treats as foundational for any liberal, market-oriented worldview: Adam Smith's Wealth of Nations and Theory of Moral Sentiments; Hayek's Road to Serfdom and Nature and Significance of Economic Science (Robbins); Samuelson's Economics textbook; Thomas Paine's Common Sense; Darwin's Origin of Species; Thoreau and the duty of satyagraha; Jotiba Phule; Marx and Malthus as foils; Keynes's Economic Consequences of the Peace; Mises, Schumpeter, Robinson Crusoe as a parable of property; Orwell's Animal Farm; Koestler; the Yes Minister / Yes Prime Minister books read as a critique of Rajiv Gandhi-era bureaucratic capture; and later additions like The Selfish Gene and The God Gene which he wishes he had also covered.
+
+For Joshi the common thread is vyaktigat swatantrya — individual freedom — as the bedrock of the Shetkari Sanghatana's economics: no two human experiences are commensurable, no guru or seer can plan a society, and the farmer's demand for remunerative prices is inseparable from the wider demand for freedom from state controls in production and the marketplace. The collection thus doubles as an annotated syllabus of classical liberal and free-market thought rendered into accessible Marathi, and as a record of how Joshi grounded a peasant movement in that intellectual lineage.
+
+## Key points
+
+- A collected volume of Sharad Joshi's Marathi essays originally serialised in the Akola weekly Daily Deshonnati, issued by Janashakti Vachak Chalwal with a first edition on 9 January 2010 and a second edition on 24 February 2014.
+- Joshi frames the book as supplementary reading for Shetkari Sanghatana cadres who, after training camps, were debating Terms of Trade, the Dunkel Draft, intellectual property, the WTO and biotechnology in universities and public forums.
+- The essays profile world-changing books across economics, politics and science, including Adam Smith's Wealth of Nations and Theory of Moral Sentiments, Hayek's Road to Serfdom, Samuelson's Economics, Robbins's Nature and Significance of Economic Science, Keynes's Economic Consequences of the Peace, Thomas Paine's Common Sense, Darwin's Origin of Species, Thoreau, Orwell's Animal Farm and the Yes Minister books.
+- Joshi states that the bedrock of all Shetkari Sanghatana thought is vyaktigat swatantrya (individual freedom), arguing that no two human experiences are comparable and that no committee or seer can legitimately plan society on behalf of free individuals.
+- He uses Hayek's Road to Serfdom to read socialist economic planning and Nazi economic command as structurally similar, and to warn that India under Nehru-Mahalanobis planning slid toward the same bureaucratic-authoritarian temptations Britain narrowly escaped.
+- Marx and Malthus appear as foils: Malthus's population pessimism is shown to have been falsified by agricultural technology, and Marx's prediction of capitalism's collapse is answered by Mises's Economic Calculation in the Socialist Commonwealth.
+- The chapter Aji Mya Brahma Pahile! is set in a vast Barnes & Noble bookstore in the United States and is staged as the author's Vishwarupa-darshana — a Gita-style cosmic vision — of the world of books as the true engine of human progress.
+- Joshi closes the preface by regretting that he could not also include essays on Ayn Rand, The Selfish Gene and The God Gene, and signals he hopes to add them in future editions.
+

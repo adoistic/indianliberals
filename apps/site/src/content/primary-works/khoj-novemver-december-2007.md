@@ -15,23 +15,59 @@ provenance:
   source: "ccs_archive"
   scan_quality: "poor"
   notes: "Imported from indianli_liberals DB (id=14, lang=Gujarati). Original PDF filename: PDF_14_14l7qmSept-Oct2007 year 1, issue 5.pdf. OCR pages in DB: 48. OCR quality flag: corrupted. Author (per DB): Khoj."
-themes: []
-ai_key_points: []
+themes:
+  - civil-liberties
+  - civil-society
+  - democracy
+  - economic-freedom
+  - economic-policy
+  - free-enterprise
+  - free-markets
+  - governance
+  - liberalism
+  - political-economy
+  - rule-of-law
+ai_key_points:
+  - "Issue 5 of Year 1 of Khoj, a Gujarati periodical edited by Ambrish Mehta from ARCH, Fatehganj, Vadodara, dated September-October 2007 (the filename's 'November-December' is a labelling error)."
+  - "The editorial reports a four-day thought-camp at Mangrol (24-27 August 2007) with Sangharsh Vahini activists from Jharkhand that debated the role of markets and government in advancing equality and freedom, and frames the issue's lead essay 'Samta ane Swatantrata' as its outcome."
+  - "Kirit Panwala contributes a long, lawyerly analysis of the Yakub Memon conviction in the 1993 Bombay blasts case, weighing prosecution and defence evidence under the Indian Evidence Act and TADA in response to Mehbool Rehman's Indian Express piece."
+  - "The science-spirituality (Vijnan-Adhyatm) series, now in its third instalment by Anil Patel, prints letters from Jayanti Patel, Prafulla Dave, Shilaben of Brahma Vidya Mandir Pavnar and others arguing about Capra's The Turning Point, Heisenberg, Bohr and Krishnamurti."
+  - "Trupti Parekh writes on both the Sethusamudram shipping-canal project and Burma's saffron-robe democracy movement, while Jaykrishnan Nair examines the ASI's controversial affidavit on Ram Setu."
+  - "T.S. Gopi Rethinaraj defends the Indo-US civil nuclear agreement and Fareed Zakaria (in translation) questions whether prohibitions actually work, signalling the magazine's liberal-pluralist orientation."
+  - "An English-language exchange between Mukesh Adenwala and Anilbhai on 'Liberty - Knowledge and the Market' cites A. Lanyi's definition of institutions as the 'rules of the game' (property rights, contract enforceability, independent judiciary) and debates whether market order alone secures development."
+  - "Smaller features include Lalit Mohan on 'Gandhiji's Ram', Souvik Chakravarti's Nobel Prize series, and a Gujarati translation of Leonard Read's classic free-market parable 'I, Pencil'."
 paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-november-december-2009.pdf"
-needs_extraction: true
+needs_extraction: false
+summary: |-
+  This is an issue of Khoj (ખોજ — meaning 'Quest', with the masthead motto 'Jivan ek Avirat Khoj' / 'Life is an unceasing search'), a Gujarati-language periodical of opinion edited by Ambrish Mehta and published from Arch, Fatehganj, Vadodara. The issue is labelled Year 1, Issue 5, dated September-October 2007 (the entry filename mislabels it as November-December). The cover features a portrait of Sir Isaac Newton and trails the issue's lead pieces: the third instalment of a science-and-spirituality series, an editorial on 'Equality and Liberty', and pieces on the Sethusamudram project and the Indo-US nuclear deal. Editorial board members include Trupti Parekh, Anil Patel and Rajesh Mishra; the advisory committee lists Rashmin Kapadia, Daxa Patel, Mahendra Chotaliya, Sudarshan Iyengar, Kirit Panwala, Apoorva Kadikar, Nirmika Shukla, Parth Shah and C.A. Tripathi, signalling links to ARCH-Vahini and the broader Gujarat liberal-civil-society network around Anil Patel's organisation.
+
+  The editorial by Ambrish Mehta reflects on a vichar shibir (thought-camp) held with Sangharsh Vahini friends from Jharkhand at Mangrol on 24-27 August, where participants thrashed out disagreements over the role of markets and the state in pursuit of equality and freedom; Mehta argues that genuine debate requires defending one's position by addressing the strongest counter-arguments, and announces that the resulting essay 'Samta ane Swatantrata' (Equality and Liberty) opens this issue. The science-spirituality strand continues with Anil Patel's long piece tracing Newton's contribution and the broader epistemology of science versus religious knowing, framed against earlier instalments and responses from readers like Jayanti Patel, Prafulla Dave, Shilaben (Brahma Vidya Mandir, Pavnar) and Mukesh Adenwala, who debate Fritjof Capra, Heisenberg, Krishnamurti and Vinoba.
+
+  A second cluster — Samprat Samasya (Current Problems) — carries Kirit Panwala's forensic, prosecution-defence weighing of the Yakub Memon conviction in the 1993 Bombay blasts case (responding to Trupti Parekh's earlier piece and Mehbool Rehman's Indian Express article), T.S. Gopi Rethinaraj on the nuclear deal, Trupti Parekh on Sethusamudram and on Burma's saffron democratic uprising, Jaykrishnan Nair on the ASI's role in the Ram Setu controversy, Lalit Mohan on 'Gandhiji's Ram', and a Fareed Zakaria translation on whether bans actually work. Later sections include Mehta's editorial-essay on equality and freedom, the third science-spirituality instalment, Souvik Chakravarti's Nobel Prize series, a Leonardo Read piece ('I, Pencil'), and an English-language exchange between Mukesh Adenwala and Anilbhai on liberty, knowledge and markets that cites A. Lanyi and S. Kahkonen on institutions as 'rules of the game'.
 ---
 
- Metadata is
-preserved; body text is pending the AI-extraction pipeline (rasterize + Sonnet
-metadata pass + summarization pass + synthesis layer). See the
-[Indian Liberals Website project design doc](../../../../../.gstack/projects/IndianLiberalsWebsite/siraj-main-design-20260517-133733.md)
-for the extraction architecture.
+## Summary
 
-Until extraction runs, please refer to the staging PDF
-(`pdf_staging_path` in the frontmatter).
+This is an issue of Khoj (ખોજ — meaning 'Quest', with the masthead motto 'Jivan ek Avirat Khoj' / 'Life is an unceasing search'), a Gujarati-language periodical of opinion edited by Ambrish Mehta and published from Arch, Fatehganj, Vadodara. The issue is labelled Year 1, Issue 5, dated September-October 2007 (the entry filename mislabels it as November-December). The cover features a portrait of Sir Isaac Newton and trails the issue's lead pieces: the third instalment of a science-and-spirituality series, an editorial on 'Equality and Liberty', and pieces on the Sethusamudram project and the Indo-US nuclear deal. Editorial board members include Trupti Parekh, Anil Patel and Rajesh Mishra; the advisory committee lists Rashmin Kapadia, Daxa Patel, Mahendra Chotaliya, Sudarshan Iyengar, Kirit Panwala, Apoorva Kadikar, Nirmika Shukla, Parth Shah and C.A. Tripathi, signalling links to ARCH-Vahini and the broader Gujarat liberal-civil-society network around Anil Patel's organisation.
+
+The editorial by Ambrish Mehta reflects on a vichar shibir (thought-camp) held with Sangharsh Vahini friends from Jharkhand at Mangrol on 24-27 August, where participants thrashed out disagreements over the role of markets and the state in pursuit of equality and freedom; Mehta argues that genuine debate requires defending one's position by addressing the strongest counter-arguments, and announces that the resulting essay 'Samta ane Swatantrata' (Equality and Liberty) opens this issue. The science-spirituality strand continues with Anil Patel's long piece tracing Newton's contribution and the broader epistemology of science versus religious knowing, framed against earlier instalments and responses from readers like Jayanti Patel, Prafulla Dave, Shilaben (Brahma Vidya Mandir, Pavnar) and Mukesh Adenwala, who debate Fritjof Capra, Heisenberg, Krishnamurti and Vinoba.
+
+A second cluster — Samprat Samasya (Current Problems) — carries Kirit Panwala's forensic, prosecution-defence weighing of the Yakub Memon conviction in the 1993 Bombay blasts case (responding to Trupti Parekh's earlier piece and Mehbool Rehman's Indian Express article), T.S. Gopi Rethinaraj on the nuclear deal, Trupti Parekh on Sethusamudram and on Burma's saffron democratic uprising, Jaykrishnan Nair on the ASI's role in the Ram Setu controversy, Lalit Mohan on 'Gandhiji's Ram', and a Fareed Zakaria translation on whether bans actually work. Later sections include Mehta's editorial-essay on equality and freedom, the third science-spirituality instalment, Souvik Chakravarti's Nobel Prize series, a Leonardo Read piece ('I, Pencil'), and an English-language exchange between Mukesh Adenwala and Anilbhai on liberty, knowledge and markets that cites A. Lanyi and S. Kahkonen on institutions as 'rules of the game'.
+
+## Key points
+
+- Issue 5 of Year 1 of Khoj, a Gujarati periodical edited by Ambrish Mehta from ARCH, Fatehganj, Vadodara, dated September-October 2007 (the filename's 'November-December' is a labelling error).
+- The editorial reports a four-day thought-camp at Mangrol (24-27 August 2007) with Sangharsh Vahini activists from Jharkhand that debated the role of markets and government in advancing equality and freedom, and frames the issue's lead essay 'Samta ane Swatantrata' as its outcome.
+- Kirit Panwala contributes a long, lawyerly analysis of the Yakub Memon conviction in the 1993 Bombay blasts case, weighing prosecution and defence evidence under the Indian Evidence Act and TADA in response to Mehbool Rehman's Indian Express piece.
+- The science-spirituality (Vijnan-Adhyatm) series, now in its third instalment by Anil Patel, prints letters from Jayanti Patel, Prafulla Dave, Shilaben of Brahma Vidya Mandir Pavnar and others arguing about Capra's The Turning Point, Heisenberg, Bohr and Krishnamurti.
+- Trupti Parekh writes on both the Sethusamudram shipping-canal project and Burma's saffron-robe democracy movement, while Jaykrishnan Nair examines the ASI's controversial affidavit on Ram Setu.
+- T.S. Gopi Rethinaraj defends the Indo-US civil nuclear agreement and Fareed Zakaria (in translation) questions whether prohibitions actually work, signalling the magazine's liberal-pluralist orientation.
+- An English-language exchange between Mukesh Adenwala and Anilbhai on 'Liberty - Knowledge and the Market' cites A. Lanyi's definition of institutions as the 'rules of the game' (property rights, contract enforceability, independent judiciary) and debates whether market order alone secures development.
+- Smaller features include Lalit Mohan on 'Gandhiji's Ram', Souvik Chakravarti's Nobel Prize series, and a Gujarati translation of Leonard Read's classic free-market parable 'I, Pencil'.
+
