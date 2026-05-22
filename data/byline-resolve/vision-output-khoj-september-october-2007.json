@@ -1,0 +1,13 @@
+{
+  "id": "khoj-september-october-2007",
+  "matches": [
+    {"slug": "ambrish-mehta", "role": "editor"},
+    {"slug": "trupti-parekh", "role": "editor"},
+    {"slug": "anil-patel", "role": "editor"},
+    {"slug": "rajesh-mishra", "role": "editor"},
+    {"slug": "parth-shah", "role": "editor"}
+  ],
+  "unknowns": [],
+  "confidence": "high",
+  "method": "vision"
+}

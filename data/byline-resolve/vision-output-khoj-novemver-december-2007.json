@@ -1,0 +1,21 @@
+{
+  "id": "khoj-novemver-december-2007",
+  "matches": [
+    {"slug": "ambrish-mehta", "role": "editor"},
+    {"slug": "trupti-parekh", "role": "editor"},
+    {"slug": "anil-patel", "role": "editor"},
+    {"slug": "rajesh-mishra", "role": "editor"},
+    {"slug": "ismail-gandhi", "role": "author"},
+    {"slug": "vinoba-bhave", "role": "author"}
+  ],
+  "unknowns": [
+    "Vasudeva Vora",
+    "Pratap Bhanu Mehta",
+    "Chakravarti Ashok Priyadarshi",
+    "Gajendrasinh P. Jadeja",
+    "Ashwinkumar N. Kariya",
+    "Kunjan Mehta"
+  ],
+  "confidence": "high",
+  "method": "vision"
+}

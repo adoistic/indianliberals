@@ -1,0 +1,13 @@
+{
+  "id": "khoj-july-august-2005",
+  "matches": [
+    {"slug": "ambrish-mehta", "role": "editor"},
+    {"slug": "trupti-parekh", "role": "author"},
+    {"slug": "anil-patel", "role": "author"},
+    {"slug": "rajesh-mishra", "role": "author"},
+    {"slug": "sauvik-chakraverti", "role": "author"}
+  ],
+  "unknowns": [],
+  "confidence": "high",
+  "method": "vision"
+}

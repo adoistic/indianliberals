@@ -1,0 +1,12 @@
+{
+  "id": "khoj-may-august-2010",
+  "matches": [
+    {"slug": "ambrish-mehta", "role": "editor"},
+    {"slug": "trupti-parekh", "role": "editor"},
+    {"slug": "anil-patel", "role": "editor"},
+    {"slug": "rajesh-mishra", "role": "editor"}
+  ],
+  "unknowns": [],
+  "confidence": "high",
+  "method": "vision"
+}

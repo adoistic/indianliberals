@@ -1,0 +1,10 @@
+{
+  "id": "udarwad-raj-samaj-aur-bazaar-ka-naya-paath",
+  "matches": [
+    {"slug": "sauvik-chakraverti", "role": "author"},
+    {"slug": "kaushal-kishor", "role": "translator"}
+  ],
+  "unknowns": [],
+  "confidence": "high",
+  "method": "vision"
+}

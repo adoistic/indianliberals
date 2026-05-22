@@ -1,0 +1,19 @@
+{
+  "id": "khoj-march-april-2006",
+  "matches": [
+    {"slug": "ambrish-mehta", "role": "editor"},
+    {"slug": "rajesh-mishra", "role": "author"},
+    {"slug": "trupti-parekh", "role": "author"},
+    {"slug": "parth-shah", "role": "author"},
+    {"slug": "sauvik-chakraverti", "role": "author"},
+    {"slug": "rabindranath-tagore", "role": "author"}
+  ],
+  "unknowns": [
+    "Revatubha Rayjada",
+    "Yogendra Mankad",
+    "Manjula Dabhi",
+    "Asghar Ali Engineer"
+  ],
+  "confidence": "high",
+  "method": "vision"
+}
