@@ -1,0 +1,17 @@
+[
+  {"id": "market-by-the-dock-by-pt-bauer-january-1981", "matches": [{"slug": "peter-bauer", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "mind-vs-mindset-the-grand-indian-challenge-dr-r-a-mashelkar-f-r-s-october-5-2010", "matches": [], "unknowns": ["R. A. Mashelkar"], "needs_vision": false, "confidence": "medium"},
+  {"id": "modern-policing-for-a-modern-india-maja-daruwala-june-5-2009", "matches": [], "unknowns": ["Maja Daruwala"], "needs_vision": false, "confidence": "medium"},
+  {"id": "modern-technology-for-economic-development-14-june-1976", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "monopoly-capitalism-january-1-1970", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "moving-towards-an-empowered-customer-mrs-usha-thorat-august-8-2007", "matches": [], "unknowns": ["Usha Thorat"], "needs_vision": false, "confidence": "medium"},
+  {"id": "mutual-funds-and-offshore-funds-in-india-s-a-dave-march-19-1991", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "nationalisation-and-the-crossroads-prof-amul-desai-apr8-1962", "matches": [], "unknowns": ["Amul Desai"], "needs_vision": false, "confidence": "medium"},
+  {"id": "nationalised-insurance-policies-and-strategies-for-the-90s-r-k-daruwalla-june-10-1988", "matches": [], "unknowns": ["R. K. Daruwalla"], "needs_vision": false, "confidence": "medium"},
+  {"id": "nurturing-management-talent-in-india-kumar-mangalam-birla", "matches": [], "unknowns": ["Kumar Mangalam Birla"], "needs_vision": false, "confidence": "medium"},
+  {"id": "sheti-vayavsayavaril-arishit-by-shesrav-mohite", "matches": [], "unknowns": ["Shesrav Mohite"], "needs_vision": false, "confidence": "medium"},
+  {"id": "shetkari-sanghtana-rajkiya-bhumika-by-ajit-narde", "matches": [], "unknowns": ["Ajit Narde"], "needs_vision": false, "confidence": "medium"},
+  {"id": "sixth-national-convention-swatantra-souvenirs-1973", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "udarwad-raj-samaj-aur-bazaar-ka-naya-paath", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "yodha-shetkari-by-vijay-prulkar", "matches": [], "unknowns": ["Vijay Prulkar"], "needs_vision": false, "confidence": "medium"}
+]

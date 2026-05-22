@@ -1,0 +1,22 @@
+[
+  {"id": "critical-issues-relating-to-rising-prices-s-s-bhandare-august-17-1995", "matches": [{"slug": "sunil-bhandare", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "economic-thinking-of-lord-keynes-july-11-1968", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "economics-of-freedom-m-a-masani-feb12-1965", "matches": [{"slug": "minoo-masani", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "efficiency-not-possible-in-public-undertaking-by-mr-anantharamakrishnan-and-cp-ramaswamy-ayyar-october-24-1956", "matches": [{"slug": "m-r-anantharamakrishnan", "role": "author"}], "unknowns": ["C. P. Ramaswamy Ayyar"], "needs_vision": false, "confidence": "high"},
+  {"id": "finance-companies-searching-for-a-meaningful-role-a-c-shah-december-5-1996", "matches": [{"slug": "dr-ac-shah", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "forum-of-free-enterprise-a-manifesto", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "forum-of-free-enterprise-code-of-conduct", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "free-enterpise-in-a-free-society-by-onlooker-february-21-1957", "matches": [], "unknowns": ["Onlooker"], "needs_vision": false, "confidence": "medium"},
+  {"id": "free-enterprise-the-key-to-prosperity-by-sm-dahanukar", "matches": [{"slug": "s-m-dahanukar", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "free-market-economy-key-to-economic-progress-and-freedoms-m-a-rangoonwaala-june-15-1982", "matches": [{"slug": "ma-rangoonwala", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "freedom-and-economic-growth-prof-g-carlweiland-jun8-1962", "matches": [{"slug": "g-carl-weiland", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "freedom-of-the-press-dr-mankekar-october-12-1971", "matches": [{"slug": "d-r-mankekar", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "how-to-start-an-industry-d-v-desai-august-8-1961", "matches": [], "unknowns": ["D. V. Desai"], "needs_vision": false, "confidence": "medium"},
+  {"id": "identity-markets-and-socia-lwelfare-nandan-nilkekani-november-5-2009", "matches": [], "unknowns": ["Nandan Nilekani"], "needs_vision": false, "confidence": "medium"},
+  {"id": "implications-of-bank-nationalisation-misc-mar9-1964", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "india-has-the-best-15-years-ahead-r-gopalakrishnan-march-5-2010", "matches": [], "unknowns": ["R. Gopalakrishnan"], "needs_vision": false, "confidence": "medium"},
+  {"id": "india-needs-a-practical-economic-policy-dr-a-n-agarwala-may-10-1965", "matches": [], "unknowns": ["A. N. Agarwala"], "needs_vision": false, "confidence": "medium"},
+  {"id": "india-needs-urgently-a-communication-revolution-n-t-taskar-february-1983", "matches": [], "unknowns": ["N. T. Taskar"], "needs_vision": false, "confidence": "medium"},
+  {"id": "india-seeing-the-future-in-its-past-dr-raghumm-g-rajan-february-15-2006", "matches": [], "unknowns": ["Raghuram G. Rajan"], "needs_vision": false, "confidence": "medium"},
+  {"id": "indian-banks-and-the-prevention-of-corruption-act-freedom-and-discipline-ar-ashima-goyal", "matches": [], "unknowns": ["Ashima Goyal"], "needs_vision": false, "confidence": "medium"}
+]

@@ -1,0 +1,22 @@
+[
+  {"id": "khoj-november-december-2009", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "khoj-november-february-2006", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "khoj-novemver-december-2007", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "khoj-september-october-2007", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "khoj-september-october-2010", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "khulya-vayvasthekade-khulya-manane", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "l-i-c-discounting-the-assured-shailaja-bapat-september-14-1979", "matches": [], "unknowns": ["Shailaja Bapat"], "needs_vision": false, "confidence": "medium"},
+  {"id": "land-reform-kae-jee-feb6-1958", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "lessons-of-wheat-trade-nationalisation-dr-a-c-chhatrapati-11-april-1974", "matches": [], "unknowns": ["A. C. Chhatrapati"], "needs_vision": false, "confidence": "medium"},
+  {"id": "liberal-budget-2006-07", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "liberal-budget-building-equitable-society", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "liberal-budget-reforms-for-poor", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "liberalising-indias-insurance-industry-september-29-1995", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "life-after-liberalisation-dr-a-s-ganguly-january-15-1992", "matches": [], "unknowns": ["A. S. Ganguly"], "needs_vision": false, "confidence": "medium"},
+  {"id": "limits-of-nationalisation-dr-john-matthai-january-1-1970", "matches": [], "unknowns": ["John Matthai"], "needs_vision": false, "confidence": "medium"},
+  {"id": "limits-of-public-sector-in-india-gangadhar-gadgil-july-18-1979", "matches": [], "unknowns": ["Gangadhar Gadgil"], "needs_vision": false, "confidence": "medium"},
+  {"id": "management-development-dr-surinder-p-s-pruthi-october-12-1971", "matches": [], "unknowns": ["Surinder P. S. Pruthi"], "needs_vision": false, "confidence": "medium"},
+  {"id": "management-philosophy-of-peter-drucker-n-n-sachitanand-february-14-1979", "matches": [], "unknowns": ["N. N. Sachitanand"], "needs_vision": false, "confidence": "medium"},
+  {"id": "managing-a-business-in-india-t-thomas-dilip-g-piramal-november-12-1980", "matches": [], "unknowns": ["T. Thomas", "Dilip G. Piramal"], "needs_vision": false, "confidence": "medium"},
+  {"id": "manifesto-1985", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"}
+]

@@ -1,0 +1,22 @@
+[
+  {"id": "indian-economic-development-1950-1980-an-assessment-by-dr-rm-honavar", "matches": [], "unknowns": ["R. M. Honavar"], "needs_vision": false, "confidence": "medium"},
+  {"id": "indian-industry-post-liberalisation-era-by-ss-bhandare-2001", "matches": [{"slug": "sunil-bhandare", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "indias-jobless-growth-dr-s-d-naik", "matches": [], "unknowns": ["S. D. Naik"], "needs_vision": false, "confidence": "medium"},
+  {"id": "industrial-finance-in-a-mixed-economy-mr-g-l-mehta-april-14-1972", "matches": [], "unknowns": ["G. L. Mehta"], "needs_vision": false, "confidence": "medium"},
+  {"id": "industrial-finance-some-trends-and-some-issues-s-s-nadkarni-june-26-1984", "matches": [], "unknowns": ["S. S. Nadkarni"], "needs_vision": false, "confidence": "medium"},
+  {"id": "inflation-in-brazil-the-principles-of-monetary-correction-roberto-de-oliveira-campos-15-october-1975", "matches": [], "unknowns": ["Roberto de Oliveira Campos"], "needs_vision": false, "confidence": "medium"},
+  {"id": "infrastructure-public-goods-and-markets-kirit-s-parekh", "matches": [], "unknowns": ["Kirit S. Parekh"], "needs_vision": false, "confidence": "medium"},
+  {"id": "innovating-india-road-map-2014-2019-various-april-5-2014", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "integrity-national-life-nittoor-srinivasa-rao-1971", "matches": [], "unknowns": ["Nittoor Srinivasa Rao"], "needs_vision": false, "confidence": "medium"},
+  {"id": "interest-rates-an-insight-rajaram-ajgaonkar", "matches": [], "unknowns": ["Rajaram Ajgaonkar"], "needs_vision": false, "confidence": "medium"},
+  {"id": "interest-rates-and-economic-activity-dr-deepak-mohanty-february-3-2014", "matches": [], "unknowns": ["Deepak Mohanty"], "needs_vision": false, "confidence": "medium"},
+  {"id": "international-finance-development-a-strategy-for-india-t-thomas-december-12-1982", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "internationalisation-of-indian-business-role-of-financial-institution-r-c-shah-june-28-1983", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "internationalization-of-indian-business-m-k-raju-january-12-1980", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "is-india-airline-corporation-fair-to-the-public-september-5-1961", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "is-nationalisation-of-industries-in-public-interest-gangadhar-gadgil-june-18-1979", "matches": [], "unknowns": ["Gangadhar Gadgil"], "needs_vision": false, "confidence": "medium"},
+  {"id": "is-right-to-property-c-k-daphtary-april-9-1970", "matches": [], "unknowns": ["C. K. Daphtary"], "needs_vision": false, "confidence": "medium"},
+  {"id": "is-there-a-middle-way-dr-f-a-mehta-january-15-1995", "matches": [{"slug": "f-a-mehta", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "its-indias-turn-now-jayant-sinha", "matches": [], "unknowns": ["Jayant Sinha"], "needs_vision": false, "confidence": "medium"},
+  {"id": "jagtik-vayapar-sangtanecha-onama", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"}
+]

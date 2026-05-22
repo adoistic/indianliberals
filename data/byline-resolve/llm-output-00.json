@@ -1,0 +1,22 @@
+[
+  {"id": "a-pragmatic-economic-policy-for-a-government-thatworks-june-13-1981", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "a-strategy-for-exports-16-july-1975", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "a-survey-of-state-enterprises-a-d-shroff-may8-1962", "matches": [{"slug": "a-d-shroff", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "aandolan", "matches": [{"slug": "anant-umrikar", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "agriculture-and-economic-growth-9-january-1974", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "an-open-letter-to-lic-by-peregrine-december-5-1962", "matches": [], "unknowns": ["Peregrine"], "needs_vision": false, "confidence": "medium"},
+  {"id": "ananlaysis-of-dutt-committe-november-9-1969", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "anavyartha-1", "matches": [{"slug": "sharad-joshi", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "anavyartha-2", "matches": [{"slug": "sharad-joshi", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "are-there-monopolies-and-concentration-of-economic-power-in-india-arvind-narotta-lalbhai-h-venkatasubbiah-july-5-1964", "matches": [{"slug": "arvind-lalbhai", "role": "author"}], "unknowns": ["H. Venkatasubbiah"], "needs_vision": false, "confidence": "high"},
+  {"id": "basic-documents-forum-of-free-enterprise-july-18-1956", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "bogey-of-socialism-hinders-rapid-economic-growth-july-8-1962", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "business-and-public-welfare-v-k-narasimhan-march-9-1970", "matches": [], "unknowns": ["V. K. Narasimhan"], "needs_vision": false, "confidence": "medium"},
+  {"id": "central-planning-prof-p-t-bauer-august-12-1970", "matches": [{"slug": "peter-bauer", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "challenge-of-povert-by-dr-otto-count-lambsdroff-and-swaminathan-a-aiyar-2002", "matches": [{"slug": "otto-lambsdorff", "role": "author"}], "unknowns": ["Swaminathan A. Aiyar"], "needs_vision": false, "confidence": "high"},
+  {"id": "compensation-or-expropriation-by-dr-rustom-c-cooper", "matches": [{"slug": "r-c-cooper", "role": "author"}], "unknowns": [], "needs_vision": false, "confidence": "high"},
+  {"id": "congress-misrule-and-the-swatantra-alternative", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "constitution-march-2000", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "cooperative-farming-sree-rama-murthy-jul5-1960", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"},
+  {"id": "cooperatives-in-the-changing-economy-of-india", "matches": [], "unknowns": [], "needs_vision": true, "confidence": "low"}
+]
