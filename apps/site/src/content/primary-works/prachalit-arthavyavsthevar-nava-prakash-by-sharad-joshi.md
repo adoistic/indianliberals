@@ -3,7 +3,8 @@ id: "prachalit-arthavyavsthevar-nava-prakash-by-sharad-joshi"
 title: 
   main: "'Prachalit Arthavyavsthevar: Nava Prakash' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -46,6 +47,13 @@ summary: |-
   Joshi's central thesis, set out in the preface and the opening essay, is that India is in fact two countries — 'Bharat', the impoverished rural economy of indebted peasants and agricultural labourers, and 'India', the urban industrial sector built on the colonial-era extraction of cheap raw materials and cheap food from the countryside. Independence in 1947 simply transferred the colonial machinery from British hands to a domestic urban elite; 'we exchanged white Englishmen for black Englishmen.' Mainstream economics, both Nehruvian planning and orthodox capitalism, treats agriculture as a reservoir to be milked for industrial capital formation, denying farmers the exchange value their produce deserves. Joshi argues that the only way out is to give agricultural commodities remunerative prices ('bhik nako, ghamache daam pahije' — not alms, but the price of our sweat), thereby breaking the unequal terms of trade between Bharat and India.
 
   The collection moves from this framing into sharp polemics against the intelligentsia (whom Joshi accuses of intellectual poverty for endorsing fashionable diagnoses of political instability while ignoring the agrarian question), critiques of the Agricultural Prices Commission as a 'butcher's knife', commentary on the Rajiv Gandhi years, and reflections on the Nipani and Chandigarh agitations, the 2000 farmer, and the moral-philosophical basis of the Shetkari Sanghatana. Together the pieces form one of the foundational statements of the Indian agrarian-liberal tradition that insists on free, remunerative markets for farm produce as the precondition of genuine independence.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -40,7 +40,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-november-december-2009.pdf"
 needs_extraction: false
@@ -50,6 +50,13 @@ summary: |-
   The issue's cover story is Naxalism (the cover photograph shows a line of armed tribal cadres), examined in two long pieces — 'Maovadi padkar' (The Maoist challenge) by Trupti Parekh and Ambrish Mehta, and 'Naxalvad' by Chakravarti Ashok Priyadarshi — that locate the insurgency in the failure of the Indian state to deliver land, forest rights, and basic governance to adivasis. Around this anchor sit responses to earlier articles (Jagdishbhai Desai on workers' safety and the free market, with Ambrish Mehta marshalling Milton Friedman's 'Free to Choose' and OSHA accident-rate data to argue that competitive labour markets, not regulation, drove the long fall in workplace deaths; and a long rejoinder by Vasudev Vora on Dharampal's 'The Beautiful Tree' and the case for decentralised, mother-tongue primary schooling against a centralised state system).
 
   Other features include Rajesh Mishra on Gujarat's new compulsory voting law (read as cosmetic rather than substantive electoral reform, given liquor-fuelled panchayat elections in Kawant and Chhota Udepur), Trupti Parekh on the Ruchika case and the abuse of police power, Pratap Bhanu Mehta on the Mumbai attacks, Ismail Gandhi on Vande Mataram, Gajendrasinh Jadeja on Hyderabad's accession, Ashwinkumar Karia on separating police powers, and Vinaba Bhave arguing that the education system, like the press, should be independent of the state. The issue closes with a five-year cumulative index. Throughout, Khoj's stance is recognisably classical-liberal: sceptical of statism, attentive to adivasi and worker agency, and committed to argument over slogan.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

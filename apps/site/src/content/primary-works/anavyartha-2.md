@@ -3,7 +3,8 @@ id: "anavyartha-2"
 title: 
   main: "Anavyartha: 2"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -48,6 +49,13 @@ summary: |-
   Joshi, the founder of the Shetkari Sanghatana farmers' movement, opens with a long Prastaavik (preface) in which he traces the Sanghatana's evolution since 1978 — from the Chakan onion agitation and the 1980 Nashik sugarcane stir to the demand for remunerative prices based on production costs, the campaign for 'sampurna karjmukti' (total loan waiver), the critique of subsidy regimes, and the 1997 Amravati Jansansad that articulated the 'India versus Bharat' framework on its fiftieth-anniversary terms. He insists that the Sanghatana's worldview is not narrowly peasant but a general philosophy of economic freedom, market access, and freedom from state interference, with a distinctive embrace of new technology and a measured critique of environmentalist opposition to it.
 
   The essays themselves range across globalisation and the WTO, Bill Clinton's March 2000 visit to the subcontinent ('Vyaapaar kara, yuddh nako' — Trade, not war), Kashmir and the CTBT, the Emergency, Kargil and Pakistan, the Gujarat earthquake, the Narmada agitation, Nepal's royal massacre, Osama bin Laden and 9/11, Vajpayee's coalition politics, Murli Manohar Joshi's education policy, and recurring meditations on rural distress, MSP, technology in agriculture, and the persistence of the licence-permit raj. The tone is that of a polemical liberal columnist applying a free-market, anti-statist lens to contemporary Indian events.
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

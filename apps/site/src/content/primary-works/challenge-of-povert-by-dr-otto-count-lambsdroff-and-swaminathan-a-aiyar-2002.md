@@ -4,7 +4,9 @@ title:
   main: The Challenge of Poverty
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - otto-lambsdorff
+  - swaminathan-a-aiyar
 editors: []
 contributors:
   - role: author
@@ -94,8 +96,17 @@ thinker_mentions:
       - quote: "India's share of world trade fell from 2.5 percent at independence to 0.4 percent by 1985 while Singapore and Taiwan, derided as neo-colonial puppets, grew rich"
         context: the empirical indictment of Nehruvian self-sufficiency
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns:
+    - Swaminathan A. Aiyar
+  stubs_created:
+    - swaminathan-a-aiyar
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This 2002 Forum of Free Enterprise booklet pairs two essays that mount a liberal case against welfare-bureaucracy and anti-globalisation responses to poverty. An editorial introduction by Minoo R. Shroff (FFE President, dated 31st October 2002) frames the volume in the context of the decade-long Indian debate on liberalisation and globalisation, and dedicates the work to FFE founder-president A. D. Shroff. The first essay, by German Free Democrat politician and former Federal Minister of Economics Otto Count Lambsdorff (then chairman of the Friedrich Naumann Stiftung), defends classical liberalism, private property rights, free trade and market-based delivery of services over transfer payments and welfare bureaucracies, leaning heavily on Hernando de Soto's argument that defective property rights are the principal cause of poverty in the global South. The second essay, by Swaminathan Anklesaria Aiyar (Consulting Editor, Economic Times), attacks the anti-globalisation narrative empirically: countries that integrated with the world economy (China, India, Slovenia, Hungary, Estonia) rose, while those that pursued autarky and one-party paternalism (much of Africa, Belarus, Uzbekistan, Nehruvian India before 1991) stagnated. Both pieces were originally reproduced from the journal Liberal Times (issue 2/02).

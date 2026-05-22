@@ -4,7 +4,8 @@ title:
   main: A NEW ECONOMIC POLICY FOR INDIA
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - murarji-vaidya
 editors: []
 contributors: []
 related_thinkers: 
@@ -32,7 +33,7 @@ themes:
   - planning-critique
   - indian-economy
 summary: "Delivered as the eleventh annual presidential address at the Forum of Free Enterprise in Bombay on October 4, 1967, and published as a booklet by the Forum on 15 November 1967, Murarji J. Vaidya's lecture is a sustained indictment of the Soviet-style centralised comprehensive planning that India adopted from the Second Plan onwards and a manifesto for what he calls a \"new economic policy\". Vaidya opens by registering the disenchantment with planning that has reached even Indira Gandhi, Dr. S. Radhakrishnan, G. L. Nanda, Jayaprakash Narayan and Planning Commission Deputy Chairman D. R. Gadgil, and reads the 1967 election verdict, via an Indian Institute of Public Opinion analysis, as the country settling \"slightly right of centre\".\n\nHe weighs the achievements of fifteen years of planning — a near-doubling of national income, food output rising to a potential 90 million tonnes, an industrial production index up from 73.5 to 200, expanded social services — against a long bill of failures: dependence on food imports, galloping inflation, idle capacity in heavy industry, foreign-exchange assets crashing from Rs.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -61,8 +62,15 @@ thinker_mentions:
       - quote: Vaidya opens by registering the disenchantment with planning that has reached even Indira Gandhi, Dr. S. Radhakrishnan, G. L. Nanda, Jayaprakash Narayan and Planning Commission Deputy Chairman D. R. Gadgil
         context: "JP's inclusion signals that even socialist leaders are questioning centralised planning, strengthening Vaidya's case for a new economic policy"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the eleventh annual presidential address at the Forum of Free Enterprise in Bombay on October 4, 1967, and published as a booklet by the Forum on 15 November 1967, Murarji J. Vaidya's lecture is a sustained indictment of the Soviet-style centralised comprehensive planning that India adopted from the Second Plan onwards and a manifesto for what he calls a "new economic policy". Vaidya opens by registering the disenchantment with planning that has reached even Indira Gandhi, Dr. S. Radhakrishnan, G. L. Nanda, Jayaprakash Narayan and Planning Commission Deputy Chairman D. R. Gadgil, and reads the 1967 election verdict, via an Indian Institute of Public Opinion analysis, as the country settling "slightly right of centre".

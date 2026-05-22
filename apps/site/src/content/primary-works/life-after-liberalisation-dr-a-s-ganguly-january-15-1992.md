@@ -4,7 +4,8 @@ title:
   main: LIFE AFTER LIBERALISATION
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - a-s-ganguly
 editors: []
 contributors: []
 related_thinkers:
@@ -48,7 +49,17 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
   - author_not_in_authority_subset
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - A. S. Ganguly
+  stubs_created:
+    - a-s-ganguly
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 The 26th A.D. Shroff Memorial Lecture, delivered by Dr. Ashok S. Ganguly — then Director of Unilever in London and formerly Chairman of Hindustan Lever — on 24 December 1991 in Bombay and published as a Forum of Free Enterprise pamphlet on 15 January 1992. Ganguly speaks in the immediate aftermath of two epochal ruptures, the collapse of Soviet socialism and the Narasimha Rao government's launch of economic reforms, and uses the platform to think aloud about what daily life, work and political expectation will look like in an India that has formally turned away from the developmental settlement of 1947.

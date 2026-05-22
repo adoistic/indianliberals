@@ -40,7 +40,7 @@ paragraph_ids: []
 manifestations: []
 language: "hi"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/hindi/udarwad-raj-samaj-aur-bazaar.pdf"
 needs_extraction: false
@@ -50,6 +50,13 @@ summary: |-
   The book is explicitly addressed to citizens of the world's largest constitutional democracy, with a particular eye on young readers (roughly age fourteen and up) before they reach voting age. Its premise is that government-prescribed civics and economics textbooks teach Indians the worldview the socialist state wants them to internalize, leaving them unable to see contemporary reality clearly. The introduction names three pillars of a free society — the political freedom of democracy, the economic freedom of the free market, and a liberal education that teaches the value of freedom — and argues that India has secured only the first. India's ranking of 120th in the 1999 World Economic Freedom Index, in the 'mostly unfree' / 'economically repressed' category, is presented as the proximate cause of mass poverty.
 
   Organized into eighteen short, illustrated chapters with 'Just Think' prompts, the work walks readers through the human capacity for exchange ('Homo Economicus'), the case that population density is a source of prosperity through division of labour, the failure of political markets, the tragedy of public property, free trade, sound money (in two chapters), employment, poverty, the environment, the future of bureaucracy, knowledge, public assets, ethics and secularism, freedom and equality, politics, and principles of sound public policy. A closing chapter introduces CCS itself. The tone is pedagogical and Bastiat-influenced, urging readers to test received wisdom against reality rather than accept what state-approved curricula tell them.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -46,7 +46,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-august-2006.pdf"
 needs_extraction: false
@@ -56,6 +56,13 @@ summary: |-
   The editorial by Mehta revisits the magazine's own 1980-81 stance during the Gujarat anti-reservation agitations, acknowledging that Dalits and Adivasis still need positive support, but arguing that further OBC-style reservations - particularly in central institutions and state-level quotas - now entrench caste, fragment society, and reward rent-seeking rather than effort. The argument is sharpened in companion pieces by Arun Shourie (on reservations and the constitutional scheme), a critical retrospective on the Mandal Commission by Mehta himself, and reflections by Rajesh Mishra. Anil Patel's continuing serial 'Swatantrata - jnana ane bajar' (Liberty, Knowledge and the Market), Part 7, traces the arc from 'hot socialism' through 'soft socialism' to the welfare state, drawing on Hayek (quoted at length on economic freedom as the condition of all other freedoms), Mises, Lionel Robbins, Karl Popper, and the tragedy-of-the-commons critique of collectivist resource management.
 
   Other features include Trupti Parekh on the July 2006 Mumbai train bombings ('Ye hai Bambai, meri jaan') and on the forced acquisition of Adivasi land at Kevadia for a private tourism project ('Kisso Kevadiyano'); Shankar Gopalakrishnan on the Forest Rights Bill and tribal dispossession; Barun Mitra on China's experiments with tiger conservation; Dr. Mahendra Chotalia on value-education; Kirit Panvala on judicial reform; and Sauvik Chakraverti on freeing the mind. The letters column carries detailed reader exchanges on the previous issue's coverage of the Narmada project. Across all of it, Khoj reads as one of the few sustained Gujarati-language vehicles for an unapologetically classical-liberal critique of Indian statism, identity politics, and central planning.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

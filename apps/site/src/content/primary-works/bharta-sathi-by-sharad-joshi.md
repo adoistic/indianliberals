@@ -3,7 +3,8 @@ id: "bharta-sathi-by-sharad-joshi"
 title: 
   main: "Bharta Sathi by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -37,7 +38,7 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/madhyatil-angar-sharad-joshi.pdf"
 needs_extraction: false
@@ -47,6 +48,13 @@ summary: |-
   Bhalerao argues there are two routes into Sharad Joshi: the technical route through Joshi's agricultural economics, his theory of the systematic underpricing of farm produce ('the India that lives in Bharat is exploited by India'), his case for globalisation as relief for the cultivator, and his Swatantra-style liberal advocacy of an open economy; and the emotional, lived route of the rural poor for whom Joshi articulated, in plain language, a grievance carried across centuries. Bhalerao writes from the second vantage — as a poet from a peasant family in Parbhani-Aurangabad who first read 'Shetkari Sanghatak' magazine as a college student around 1983-86 and joined the movement's gatherings at Parbhani, Ambethan and Islampur.
 
   The four essays listed in the table of contents are: 'Sharad Joshi, Shetkari Sanghatana ani Mazi Kavita' (Sharad Joshi, the farmers' organisation, and my poetry, p. 11); a note on the book 'Angarmala' (p. 46); 'Shetkaryancha Raja Shivaji: ek tippan' (a note on Joshi's 'Shivaji as the farmers' king', p. 54); and 'Yoddha Shetkari: eka chalvaliticha itihaas' (Warrior Farmer: a history of a movement, p. 65), written at Vijay Parulekar's request as the long-form preface to the Sanghatana's authorised history. Read through the imposed title, the book is best understood as a literary-political memoir of how Sharad Joshi's liberal-agrarian critique entered the imagination of a generation of Marathwada writers.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

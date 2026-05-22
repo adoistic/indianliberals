@@ -43,7 +43,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-august-2006.pdf"
 needs_extraction: false
@@ -53,6 +53,13 @@ summary: |-
   The lead bloc of articles is on reservations. Mehta's editorial revisits the 1980–81 anti-reservation agitation and the magazine's own 1992 opposition to V. P. Singh's Mandal Commission acceptance, arguing that while SC/ST reservations remain justified, extending caste-based reservations to OBCs — including in state-level institutions — fractures rather than integrates society, and rewards 'backwardness' as identity instead of building merit and effort. Ambrish/Trupti follow with 'Anamat: navesarthi vichariye shu?' ('Reservations: should we reconsider?'); Arun Shourie writes on the constitutional provisions for reservations; and Rajesh Mishra contributes 'Ahin to aapne hau Harkha j chhiye.' Dr. Mahendra Choksi argues that genuine educational reform must mean 'mulya-shikshan' (values-based education).
 
   The second strand is Anil Patel's serialised essay 'Svatantrata, Jnan ane Bazaar' ('Freedom, Knowledge and the Market'), now at part 7, on the transition from hard socialism to the soft socialism of the welfare state. Anchored on a 1961 F. A. Hayek epigraph on economic freedom as the indispensable condition of all freedoms, it traces Stalinism, the failure of central planning, Mill, Keynes, market socialism, the 'tragedy of the commons,' Popper and Hayek on dispersed knowledge, and the case for decentralisation, plurality and individual creativity over bureaucratic 'tax-and-spend' welfarism. The letters section debates the Narmada Project (height raised to 121 m), Shankar Gopalakrishnan writes on the 2005 Tribal Forest Rights Bill and Chhattisgarh, Trupti Parekh on the 11 July 2006 Mumbai train bombings and on Kevadia displacement, and Barun Mitra on tiger conservation in China — a characteristic mix of classical-liberal economics with on-the-ground civil-liberties reporting from Gujarat.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

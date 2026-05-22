@@ -4,7 +4,8 @@ title:
   main: NEW COMPANY TAX SCHEME HITS SHAREHOLDERS
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers: []
@@ -25,7 +26,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Prof. Russi Jal Taraporevala's pamphlet, issued by the Forum of Free Enterprise on 8 February 1960 and reproduced from the Capital Annual of 1959, is a technical assessment of the radical streamlining of Indian company taxation introduced by the Finance Act, 1959. Taraporevala opens by contrasting the old regime — under which companies were subject to seven different direct taxes (income tax with surcharge, corporation tax, excess dividends tax, wealth tax, capital gains tax, the Section 23A penal super-tax, and the bonus issue tax) and where 'grossing' of dividends produced a cumbersome and unpredictable effective rate — with the new scheme that consolidates direct taxation into income tax at 20 percent and corporation tax at 25 percent of assessed profits, and abolishes the excess dividends tax, the wealth tax on companies and the practice of grossing up dividends.\n\nThe author welcomes the reform 'in principle' as a long overdue rationalisation, but devotes most of the booklet to a granular analysis of who actually gains and who loses.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -39,7 +40,15 @@ physical:
 missing_metadata_flags:
   - theme_vocabulary_not_provided
   - work_type_taxonomy_not_provided
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Prof. Russi Jal Taraporevala's pamphlet, issued by the Forum of Free Enterprise on 8 February 1960 and reproduced from the Capital Annual of 1959, is a technical assessment of the radical streamlining of Indian company taxation introduced by the Finance Act, 1959. Taraporevala opens by contrasting the old regime — under which companies were subject to seven different direct taxes (income tax with surcharge, corporation tax, excess dividends tax, wealth tax, capital gains tax, the Section 23A penal super-tax, and the bonus issue tax) and where 'grossing' of dividends produced a cumbersome and unpredictable effective rate — with the new scheme that consolidates direct taxation into income tax at 20 percent and corporation tax at 25 percent of assessed profits, and abolishes the excess dividends tax, the wealth tax on companies and the practice of grossing up dividends.

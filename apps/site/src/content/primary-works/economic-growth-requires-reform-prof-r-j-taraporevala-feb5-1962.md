@@ -4,7 +4,8 @@ title:
   main: Economic Growth Requires Reform of Tax Structure
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers: 
@@ -35,7 +36,7 @@ themes:
   - free-enterprise
   - planning-and-development
 summary: "This Forum of Free Enterprise pamphlet — reprinted from Capital Annual 1961 and issued in February 1962 — argues that the tax structure assembled during India's Second Five-Year Plan has actively retarded the savings, investment, and entrepreneurial activity on which the Third Plan's six-per-cent growth target depends. Prof. Russi Jal Taraporevala opens with the principle that tax policy must serve multiple, often conflicting, objectives, and that in an under-developed mixed economy where the private sector still does most of the saving and investing, the dominant purpose of taxation must be to provide conditions which stimulate savings and promote risk-bearing enterprise. Citing National Council of Applied Economic Research figures, he shows that the Government's net savings rose from Rs. 208.9 crores (1951-52) to Rs. 1411.8 crores (1957-58) while Government investment grew from Rs. 221.1 crores to Rs.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -70,8 +71,15 @@ thinker_mentions:
       - quote: The pamphlet closes with the standard Forum disclaimer and an A. D. Shroff epigraph on free enterprise.
         context: "editorial framing that anchors the booklet in Shroff's free-enterprise tradition"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise pamphlet — reprinted from Capital Annual 1961 and issued in February 1962 — argues that the tax structure assembled during India's Second Five-Year Plan has actively retarded the savings, investment, and entrepreneurial activity on which the Third Plan's six-per-cent growth target depends. Prof. Russi Jal Taraporevala opens with the principle that tax policy must serve multiple, often conflicting, objectives, and that in an under-developed mixed economy where the private sector still does most of the saving and investing, the dominant purpose of taxation must be to provide conditions which stimulate savings and promote risk-bearing enterprise. Citing National Council of Applied Economic Research figures, he shows that the Government's net savings rose from Rs. 208.9 crores (1951-52) to Rs. 1411.8 crores (1957-58) while Government investment grew from Rs. 221.1 crores to Rs. 794.8 crores — a pattern that, on his reading, left the private sector squeezed by rapid-succession Budgets which 'created a state of chronic instability in the tax structure.'

@@ -4,7 +4,8 @@ title:
   main: Modern Policing for a Modern India
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - maja-daruwala
 editors: []
 contributors:
   - role: author
@@ -52,7 +53,17 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Maja Daruwala
+  stubs_created:
+    - maja-daruwala
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet collects two addresses delivered together in Mumbai on 30 January 2009 — by Maja Daruwala, Executive Director of the Commonwealth Human Rights Initiative (CHRI), and by Julio F. Ribeiro, IPS (Retd.), former Police Commissioner of Mumbai and former Director-General of Police, Punjab. Both speakers diagnose Indian policing as a colonial-era institution that has decayed into a politicised, unaccountable instrument and argue that the Supreme Court's September 2006 directions — fixed tenures, a State Security Commission, a Police Establishment Board, Police Complaints Authorities, and separation of investigation from law-and-order — provide a workable template for reform that the Centre and the states are actively subverting. Daruwala lays out the institutional architecture and CHRI's monitoring of state-level compliance; Ribeiro, speaking after her, frames police reform as the citizen's agenda after 26/11, calling on the middle class that voted to also organise around good leadership, operational independence and the elimination of the politician-bureaucrat-police 'partnership' he sees corroding the service.

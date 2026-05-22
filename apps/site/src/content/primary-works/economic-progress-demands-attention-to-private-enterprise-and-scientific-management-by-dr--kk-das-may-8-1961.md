@@ -4,7 +4,8 @@ title:
   main: Economic Progress Demands Attention to Private Enterprise and Scientific Management
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-kk-das
 editors: []
 contributors: []
 related_thinkers: 
@@ -33,7 +34,7 @@ themes:
   - management-education
   - planning
 summary: "This Forum of Free Enterprise leaflet reprints an excerpt from Dr. K. K. Das's presidential address to the Fourteenth All-India Commerce Conference at Jabalpur (May 1961). Das, Professor of Commerce at Andhra University, argues that a doctrinaire pursuit of the \"socialist pattern of society\" has fragmented India's economic effort: the Industrial Policy Statement of 1948 was tolerable, but the 1956 revision and its schedule of activities reserved for state initiative have produced an unpredictable, shifting boundary between public and private enterprise — \"somewhat after the manner of the Indo-Chinese border\" — that betrays a concealed presumption against private enterprise and a refusal to release private initiative for the economic task before the country.\n\nDas marshals data to show that private enterprise has more than carried its weight while the public sector has lagged: targets in the Second Five-Year Plan were not only met but exceeded by private industry, which also made up for the shortfall in public-sector investment, while the Central Government and state companies (37 and 40 in number respectively) operate at an average pre-tax return of only 2.77% against the 7% tax-f…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -63,8 +64,15 @@ thinker_mentions:
       - quote: "He closes with a 1956 quotation from Prime Minister Nehru on industrial development making larger demands on the country's technical and managerial personnel, underlining the last two words."
         context: "Das deploys Nehru's own language to conclude his case for management education"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise leaflet reprints an excerpt from Dr. K. K. Das's presidential address to the Fourteenth All-India Commerce Conference at Jabalpur (May 1961). Das, Professor of Commerce at Andhra University, argues that a doctrinaire pursuit of the "socialist pattern of society" has fragmented India's economic effort: the Industrial Policy Statement of 1948 was tolerable, but the 1956 revision and its schedule of activities reserved for state initiative have produced an unpredictable, shifting boundary between public and private enterprise — "somewhat after the manner of the Indo-Chinese border" — that betrays a concealed presumption against private enterprise and a refusal to release private initiative for the economic task before the country.

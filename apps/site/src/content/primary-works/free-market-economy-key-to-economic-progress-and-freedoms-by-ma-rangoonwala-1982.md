@@ -4,7 +4,8 @@ title:
   main: FREE MARKET ECONOMY —Key to Economic Progress and Freedoms
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - ma-rangoonwala
 editors: []
 contributors:
   - role: author
@@ -33,7 +34,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Free Market Economy — Key to Economic Progress and Freedoms reproduces M. A. Rangoonwala's January 1982 inaugural address at the Silver Jubilee celebrations of the Forum of Free Enterprise, prefaced by an introduction by N. A. Palkhivala and a short biographical sketch of the Forum's founder-president A. D. Shroff. Rangoonwala, then the immediate past President of the International Chamber of Commerce, argues that the free market is not merely an efficient allocation mechanism but the indispensable foundation of all human freedoms — \"the market and freedom are really synonymous terms.\"\n\nThe bulk of the rendered chunk is a sustained polemic against government planning and the dirigiste state. Rangoonwala rejects the standard justifications for government direction (that the free market produces \"wrong\" goods, or insufficient goods) and exposes the linguistic sleight by which planners rebrand compulsion as merely \"indicative\". He insists that all controls are ultimately \"people control\": the State does not, in the end, control commodities, prices or services in the abstract but only the human beings who manufacture, distribute and consume them.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -70,8 +71,15 @@ thinker_mentions:
       - quote: "a short biographical sketch of the Forum's founder-president A. D. Shroff"
         context: "Shroff invoked as the founder-president in the pamphlet's prefatory matter"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Free Market Economy — Key to Economic Progress and Freedoms reproduces M. A. Rangoonwala's January 1982 inaugural address at the Silver Jubilee celebrations of the Forum of Free Enterprise, prefaced by an introduction by N. A. Palkhivala and a short biographical sketch of the Forum's founder-president A. D. Shroff. Rangoonwala, then the immediate past President of the International Chamber of Commerce, argues that the free market is not merely an efficient allocation mechanism but the indispensable foundation of all human freedoms — "the market and freedom are really synonymous terms."

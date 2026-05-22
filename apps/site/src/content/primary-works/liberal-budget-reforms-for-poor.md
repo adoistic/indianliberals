@@ -76,8 +76,15 @@ thinker_mentions:
       - quote: "The preface, authored by S. V. Raju as National Coordinator, situates LB4 in the context of India's 8.5% GDP growth"
         context: Raju as the institutional voice of the ILG framing the fourth Liberal Budget
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 In the rendered pages, "Taking Reforms to the Poor: The Liberal Budget 2007-08" presents the Indian Liberal Group's fourth annual alternative budget proposal (LB4). The document opens with a statement of liberal economic philosophy — centring the individual, a limited state, and market-led allocation — before moving into its main analytical chapters. The preface, authored by S. V. Raju as National Coordinator, situates LB4 in the context of India's 8.5% GDP growth and a growing convergence between the ILG's alternative budgets and the Union Government's fiscal numbers, while criticising backsliding tendencies such as proposed RTI rollback, media censorship bills, and the Petroleum Ministry's capture attempts.

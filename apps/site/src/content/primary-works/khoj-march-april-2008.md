@@ -37,7 +37,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -47,6 +47,13 @@ summary: |-
   The editorial by Ambrish Mehta argues that even as the Gujarat government has begun, after the Vijaynagar killings, to implement the 2005 Forest Rights Act in tribal areas, it is simultaneously evicting equally long-settled non-tribal poor from gauchar and government lands without notice or due process. He asks why squatters on forest land are to be regularised but those on other public lands receive bulldozers and severed water connections. The issue's lead pieces extend this argument: Prasad Chako's "The face of Vibrant Gujarat's development" and Trupti Parekh's "The Adivasis of Mundeti demand justice" document specific displacements; Rajesh Mishra's reported piece "Give us back our daughters" investigates a state-transport bus that plunged into the Narmada canal killing 44, mostly schoolchildren, and the cover-up by STC and police officials.
 
   The issue also carries a substantial debate on rationalism: a long response by Raman Pathak 'Vachaspati' to Jayanti Patel's earlier essay, arguing that the proper Gujarati equivalent of "rationalism" is vivek-buddhi-vada, not merely vivek, and defending rationalism (after the London Rationalist Association definition) as the supremacy of reason verifiable by experience. Kiran Desai and Anil Patel respond to Mehta's earlier Nirikshak essay on the 2007 Gujarat election result, debating whether Modi's mandate can be read as approval of "broad-based development" or as endorsement of communal polarisation and the erosion of rule of law. A long letters section and pieces on science-and-spirituality (Anil Patel; Ashwin N. Karia) round out the issue.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

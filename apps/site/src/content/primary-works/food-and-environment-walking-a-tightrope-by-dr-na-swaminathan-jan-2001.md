@@ -4,7 +4,8 @@ title:
   main: FOOD AND ENVIRONMENT – WALKING THE TIGHTROPE
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - dr-na-swaminathan
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Dr. M. S. Swaminathan's Forum of Free Enterprise pamphlet, reprinted from the January–March 2000 issue of *Financing Agriculture*, addresses what he calls the central tightrope of the new century: producing more food from a shrinking base of land and water without further damaging the ecological foundations of agriculture. He opens with the World Scientists' Warning to Humanity and the Hadley Centre's sea-level projections to frame agriculture as inseparable from climate, biodiversity and the global commons, then narrates how post-1947 India moved from a 0.1 percent annual growth in food production to a ten-fold rise in wheat output by 1998–99 — the green revolution that 'proved doomsday predictions wrong'.\n\nThe core argument is a call for an *evergreen revolution*: productivity gains rooted in ecology, equity and employment rather than in chemical intensification or proprietary control.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -38,7 +39,15 @@ physical:
 missing_metadata_flags:
   - publication_year_not_found_in_chunk
   - colophon_not_in_chunk
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. M. S. Swaminathan's Forum of Free Enterprise pamphlet, reprinted from the January–March 2000 issue of *Financing Agriculture*, addresses what he calls the central tightrope of the new century: producing more food from a shrinking base of land and water without further damaging the ecological foundations of agriculture. He opens with the World Scientists' Warning to Humanity and the Hadley Centre's sea-level projections to frame agriculture as inseparable from climate, biodiversity and the global commons, then narrates how post-1947 India moved from a 0.1 percent annual growth in food production to a ten-fold rise in wheat output by 1998–99 — the green revolution that 'proved doomsday predictions wrong'.

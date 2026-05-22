@@ -3,7 +3,8 @@ id: "banken-lutal-shetkanyala-by-anant-umrikar"
 title: 
   main: "'Banken Lutal Shetkanyala' by Anant Umrikar"
 work_type: "book"
-authors: []
+authors:
+  - anant-umrikar
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -45,6 +46,13 @@ summary: |-
   The argument is narrow, technical, and angry. Umrikar contends that for more than three decades India's commercial and rural banks have illegally overcharged Indian farmers on agricultural loans by compounding interest at quarterly or half-yearly rests, in direct violation of binding RBI circulars (14 March 1972, 17 August 1976, 28 February 1978, 15 September 1984) and Section 21 of the Banking Regulation Act 1949. The circulars, reproduced as an English-language appendix at the back, expressly forbid compounding on current crop loans because farmers earn lumpy income only at harvest. The Supreme Court's 1994 ruling in Karnam Rangarao vs. Bank of India and the related Corporation Bank vs. D.V.S. Gowda judgement confirmed this principle, and Justices A.M. Ahmadi and S.C. Agarwal made the directive binding on all banks. Umrikar argues that despite the law, the RBI, and the courts, banks continued the practice and looted billions of rupees from farmers over roughly 32-33 years.
 
   The book opens with a vivid case study from Sheni village in Nanded district, Marathwada, where the Marathwada Gramin Bank turned a Rs. 90,000 tractor loan to one Shri Dhumal into an Rs. 18-lakh recovery decree and tried to auction his land. Umrikar narrates how Shetkari Sanghatana activists (under Sou. Shobhatai Waghmare and Shri Gunpati Patil) physically blockaded the auction, faced SC/ST Atrocities Act counter-cases, and forced the bank to back down — illustrating how legal entitlements mean nothing without organised resistance. The work sits squarely in the Sharad Joshi tradition of Indian liberal-agrarian thought: it treats the farmer as a producer trapped not by markets but by a hostile state-banking-judicial apparatus, and demands that the loot already extracted be refunded and recycled into a low-interest farm credit corpus.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

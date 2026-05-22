@@ -4,7 +4,8 @@ title:
   main: L.I.C. — Discounting the Assured
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - shailaja-bapat
 editors: []
 contributors: []
 related_thinkers:
@@ -42,7 +43,17 @@ missing_metadata_flags:
   - no_printed_year_on_visible_pages
   - back_cover_not_rendered
   - no_formal_toc
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Shailaja Bapat
+  stubs_created:
+    - shailaja-bapat
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Shailaja Bapat's 1979 booklet, reproduced by the Forum of Free Enterprise from the June 1979 issue of Imprint, is a sustained policy critique of the Life Insurance Corporation of India twenty-two years after its formation. Her opening premise is structural rather than personal: the failures of LIC are not the fault of the people who run it but of the monopoly form itself, and 'State monopolies' are 'no different from privately owned ones'. Against the promises C. D. Deshmukh made on the eve of nationalisation in 1956 — cheaper insurance, better service, higher efficiency, growth-oriented investment and employment — Bapat assembles an evidentiary indictment drawn from LIC's own valuation reports, the Estimates Committee of the Lok Sabha, and the Administrative Reforms Commission.

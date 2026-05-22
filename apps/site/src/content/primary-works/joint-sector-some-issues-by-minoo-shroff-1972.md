@@ -4,7 +4,8 @@ title:
   main: JOINT SECTOR—SOME ISSUES
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - minoo-shroff
 editors: []
 contributors: []
 related_thinkers:
@@ -28,7 +29,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Minoo R. Shroff's 1972 booklet 'Joint Sector — Some Issues', published by the Forum of Free Enterprise, is the printed version of a public lecture delivered in Bombay on 13th October 1972, against the backdrop of the Dutt Committee's then-emerging proposals for institutionalising the joint sector in Indian industry. Shroff treats the joint sector as a 'logical sequel' to the mixed economy of the previous two decades — an institutional framework in which private-sector managerial expertise is wedded to public-sector financial resources, with private equity participation capped at around 25%. He frames the move not as an ideological capitulation by either side but as a transformation of 'co-existence' into 'co-partnership', anchored on the conviction that competent professional management — not ownership — determines the success of an enterprise.\n\nThe bulk of the booklet sketches operating principles for the joint sector.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -43,7 +44,15 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - series_number_not_explicit
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Minoo R. Shroff's 1972 booklet 'Joint Sector — Some Issues', published by the Forum of Free Enterprise, is the printed version of a public lecture delivered in Bombay on 13th October 1972, against the backdrop of the Dutt Committee's then-emerging proposals for institutionalising the joint sector in Indian industry. Shroff treats the joint sector as a 'logical sequel' to the mixed economy of the previous two decades — an institutional framework in which private-sector managerial expertise is wedded to public-sector financial resources, with private equity participation capped at around 25%. He frames the move not as an ideological capitulation by either side but as a transformation of 'co-existence' into 'co-partnership', anchored on the conviction that competent professional management — not ownership — determines the success of an enterprise.

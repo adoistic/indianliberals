@@ -4,7 +4,8 @@ title:
   main: Freedom of the Press
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - d-r-mankekar
 editors: []
 contributors: []
 related_thinkers: 
@@ -27,7 +28,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "D. R. Mankekar's 1971 booklet reprints a speech delivered on 15 September at the New Delhi Centre of the Forum of Free Enterprise. It is a polemic against two emerging Government misconceptions about the press in the months leading up to the draft Bill on diffusion of newspaper ownership and the 25th Constitution Amendment: first, that dissent is a grave crime and conformity to the Government's thinking is the quintessence of free expression; and second, that diffusion of press ownership somehow secures the independence of the press. Mankekar frames press freedom as the right of dissent — the co-existence of conflicting viewpoints contending for the minds of citizens — and reads the assault on the so-called 'monopoly business' papers as an ideological vendetta against the only papers financially strong enough to resist Government pressure and patronage.\n\nThe argument moves through international comparisons. Mankekar invokes the U.S. First Amendment as the bulwark behind a press that took on Franklin Roosevelt, Harry Truman and John Kennedy; the Republican-owned American papers that nevertheless criticised Republican policies; Edward Heath's grumbles in Britain; M.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -50,8 +51,15 @@ thinker_mentions:
       - quote: a 1968 passage from Indira Gandhi on the threat to a free press coming as much from within journalism as from authority
         context: "appended to Mankekar's main argument as a concessive authoritative voice reinforcing his concern about editorial integrity"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 D. R. Mankekar's 1971 booklet reprints a speech delivered on 15 September at the New Delhi Centre of the Forum of Free Enterprise. It is a polemic against two emerging Government misconceptions about the press in the months leading up to the draft Bill on diffusion of newspaper ownership and the 25th Constitution Amendment: first, that dissent is a grave crime and conformity to the Government's thinking is the quintessence of free expression; and second, that diffusion of press ownership somehow secures the independence of the press. Mankekar frames press freedom as the right of dissent — the co-existence of conflicting viewpoints contending for the minds of citizens — and reads the assault on the so-called 'monopoly business' papers as an ideological vendetta against the only papers financially strong enough to resist Government pressure and patronage.

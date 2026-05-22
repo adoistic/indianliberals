@@ -40,7 +40,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-november-december-2009.pdf"
 needs_extraction: false
@@ -50,6 +50,13 @@ summary: |-
   The editorial by Ambrish Mehta reflects on a vichar shibir (thought-camp) held with Sangharsh Vahini friends from Jharkhand at Mangrol on 24-27 August, where participants thrashed out disagreements over the role of markets and the state in pursuit of equality and freedom; Mehta argues that genuine debate requires defending one's position by addressing the strongest counter-arguments, and announces that the resulting essay 'Samta ane Swatantrata' (Equality and Liberty) opens this issue. The science-spirituality strand continues with Anil Patel's long piece tracing Newton's contribution and the broader epistemology of science versus religious knowing, framed against earlier instalments and responses from readers like Jayanti Patel, Prafulla Dave, Shilaben (Brahma Vidya Mandir, Pavnar) and Mukesh Adenwala, who debate Fritjof Capra, Heisenberg, Krishnamurti and Vinoba.
 
   A second cluster — Samprat Samasya (Current Problems) — carries Kirit Panwala's forensic, prosecution-defence weighing of the Yakub Memon conviction in the 1993 Bombay blasts case (responding to Trupti Parekh's earlier piece and Mehbool Rehman's Indian Express article), T.S. Gopi Rethinaraj on the nuclear deal, Trupti Parekh on Sethusamudram and on Burma's saffron democratic uprising, Jaykrishnan Nair on the ASI's role in the Ram Setu controversy, Lalit Mohan on 'Gandhiji's Ram', and a Fareed Zakaria translation on whether bans actually work. Later sections include Mehta's editorial-essay on equality and freedom, the third science-spirituality instalment, Souvik Chakravarti's Nobel Prize series, a Leonardo Read piece ('I, Pencil'), and an English-language exchange between Mukesh Adenwala and Anilbhai on liberty, knowledge and markets that cites A. Lanyi and S. Kahkonen on institutions as 'rules of the game'.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

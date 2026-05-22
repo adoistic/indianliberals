@@ -4,7 +4,8 @@ title:
   main: ECONOMICS OF FREEDOM
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: 
@@ -36,7 +37,7 @@ themes:
   - planning-critique
   - welfare-state
 summary: "This pamphlet reproduces M. R. Masani's address to the Rotary Club of Bombay, framed as a sustained argument against India's drift toward what he calls 'State Capitalism and State Landlordism' on the Soviet–Chinese pattern. Masani opens by recalling a conversation with an influential ruling-party friend who shared his distaste for the Stalinist model yet still wished India to socialise large-scale industry and impose co-operative farming; the body of the talk explains why such a programme, however well-intentioned, must in his view extinguish political liberty.\n\nThe argument proceeds on three fronts. First, Masani sets out the consumer-sovereignty case for the market: only the discipline of the price system, supply and demand and the balance sheet allows the citizen to choose what to buy, where to work, and whether to strike — freedoms that vanish once the State is the sole employer and sole supplier. Second, he attacks the feasibility of democratic planning, arguing that no parliamentary majority can sensibly arbitrate the thousands of microeconomic choices a single national plan demands. Citing Aneurin Bevan, Harold Laski and R. H. S.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -75,8 +76,15 @@ thinker_mentions:
       - quote: "Jayaprakash Narayan's warning that the Welfare State 'threatens as much to enslave man to the State as the totalitarian'"
         context: "Narayan's warning cited as Indian socialist evidence that even the left recognised statism's dangers"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This pamphlet reproduces M. R. Masani's address to the Rotary Club of Bombay, framed as a sustained argument against India's drift toward what he calls 'State Capitalism and State Landlordism' on the Soviet–Chinese pattern. Masani opens by recalling a conversation with an influential ruling-party friend who shared his distaste for the Stalinist model yet still wished India to socialise large-scale industry and impose co-operative farming; the body of the talk explains why such a programme, however well-intentioned, must in his view extinguish political liberty.

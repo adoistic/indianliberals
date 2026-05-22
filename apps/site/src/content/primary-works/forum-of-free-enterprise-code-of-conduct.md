@@ -40,7 +40,15 @@ missing_metadata_flags:
   - year_not_found
   - author_not_named_organisation_issued
   - series_number_not_printed
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This brief pamphlet from the Forum of Free Enterprise lays out a 'Code of Conduct' addressed to industrialists, businessmen, and members of the professions in India. Issued by the Forum on the conviction that free enterprise must be defended through visible self-discipline as much as through advocacy, the document argues that the system can only retain its democratic legitimacy if its practitioners uphold high standards of integrity, honesty, hard work, courtesy and continuous initiative.

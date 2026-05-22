@@ -50,8 +50,15 @@ thinker_mentions:
       - quote: it opens with frontispiece epigraphs from A. D. Shroff, the Founder-President, and from Eugene Black
         context: "opening description; Shroff's status as Founder-President and the presence of his epigraph make this a substantive institutional attribution, not mere boilerplate"
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This pamphlet collects the three foundational documents of the Forum of Free Enterprise: "A Manifesto" (originally published 18 July 1956, the day the Forum was constituted), a "Code of Conduct" for those working in the private sector, and a position paper titled "What the Forum stands for." The printing in hand was issued by M. R. Pai for the Forum on 10 July 1970, and it opens with frontispiece epigraphs from A. D. Shroff, the Founder-President, and from Eugene Black.

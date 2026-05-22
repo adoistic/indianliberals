@@ -3,7 +3,8 @@ id: "shetakanyachi-raje-shivaji-by-sharad-joshi"
 title: 
   main: "'Shetakanyachi Raje Shivaji' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -43,6 +44,13 @@ summary: |-
   The essay's core argument is that Joshi reads all of Indian history through a single lens: the exploitation of the cultivator. From that vantage, Bhalerao argues, Shivaji is not the religious or kshatra hero of conventional Maharashtrian memory but a peasants' king — a ruler whose decisions, including the much-debated submission to Mirza Raja Jai Singh, become legible as choices made for an agrarian polity. Bhalerao notes Joshi's flat rejection of the Dadoji Konddev formative-influence thesis (twenty years before that became mainstream), his thoroughgoing endorsement of Jotirao Phule's reading of the last five thousand years, and his sharp distinction between Phule's framework and the Marxist 'Shetkari Kamgar Paksha' line. He praises Joshi's open rebuke to caste-baiting farmers during the 1987 Nanded by-election speech for Prakash Ambedkar as a 'masterpiece.'
 
   Bhalerao closes by placing Joshi inside a wider intellectual ecology — Phule, Vivekananda, Tagore, Vinoba, Yashwantrao Chavan, Obama — and lamenting that Marathi literary culture has ignored Joshi the prose stylist as completely as it has ignored the Shetkari Sanghatana movement itself. The piece doubles as a publisher's note: Shrikant Umrikar of Janshakti is reissuing Joshi's out-of-print works, and Bhalerao is contributing the critical apparatus.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

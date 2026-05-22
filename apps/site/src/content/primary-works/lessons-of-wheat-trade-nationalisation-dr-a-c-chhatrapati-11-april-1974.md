@@ -4,7 +4,8 @@ title:
   main: LESSONS OF WHEAT TRADE NATIONALISATION
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - a-c-chhatrapati
 editors: []
 contributors: []
 related_thinkers:
@@ -41,7 +42,17 @@ missing_metadata_flags:
   - no_formal_toc_page
   - no_explicit_year_on_title_page_or_colophon
   - author_not_in_authority_file
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - A. C. Chhatrapati
+  stubs_created:
+    - a-c-chhatrapati
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Lessons of Wheat Trade Nationalisation collects Dr. A. C. Chhatrapati's April 1974 talk at a Forum of Free Enterprise symposium in Bombay together with a chronological dossier of news clippings from 1973 that document the unravelling of the Government of India's monopoly procurement of wheat. Chhatrapati, then Secretary of the Vanaspati Manufacturers' Association and a specialist in agricultural economics, treats the recent decision to abandon nationalised wholesale wheat trade as a vindication of market mechanisms and a rebuke to planners who had treated state takeover as a cure-all for food insecurity. Section I ("The Rationale of the New Food Policy") reconstructs why the 1973 takeover failed: the procurement price of Rs. 76 per quintal had become unremunerative against rising input costs, farmers withheld marketable surplus, state zoning broke the national grain market, and the Centre — denied imports because Russia and China had absorbed world surpluses — could not feed deficit areas. The result was rationing as low as 5 kg a month in Bombay, food riots in Gujarat, and a Rs. 250-crore subsidy bill that fuelled inflation rather than relief.

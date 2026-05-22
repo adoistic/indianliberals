@@ -56,6 +56,13 @@ summary: |-
   The table of contents and opening articles position Khoj firmly in the classical-liberal stream of Indian periodical writing. The lead serialised essay by Anil Patel — “Swatantrata, Gnan ane Bajar – 7” (“Liberty, Knowledge and the Market–Part 7”), subtitled “From Hot Socialism to Soft Socialism: the Welfare State” — traces a century of socialist thought from 1848 to 1948, the Stalinist totalitarian state, the tragedy of the commons, Hayek and Popper on dispersed knowledge, and the rise of “unlimited democracy” and majoritarian welfare-statism. It opens with an epigraph from F. A. Hayek (1961) defining economic freedom as the indispensable condition of all other freedoms.
 
   Other pieces include Trupti Parekh’s “Ye Hai Bombay, Meri Jaan” on the July 11 Mumbai train bombings and the civic response, and “Kisso Kevadiyano” on tribal dispossession at Kevadia for Narmada-headquarters tourism and SEZ-style leasing of acquired land to private hotel chains; Shankar Gopalakrishnan on the Forest Rights Bill and the JPC report; Barun Mitra on China’s tiger-conservation experiments; Arun Shourie on reservations and the Constitution; an editorial critique of the Mandal Commission; and essays on value-education, judicial reform and freedom of conscience. Letters columns engage earlier Khoj coverage of the Narmada project, drought management and Saurashtra’s water-harvesting movement. Across the issue, Khoj reads as a sober, evidence-driven Gujarati voice for individual liberty, market-based development, decentralisation, and scepticism of state paternalism — whether in caste-based quotas, forced land acquisition, or central planning.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

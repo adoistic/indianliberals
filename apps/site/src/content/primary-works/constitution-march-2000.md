@@ -55,8 +55,15 @@ thinker_mentions:
       - quote: S. V. Raju served as President of the Ad-hoc National Executive; the Drafting Group comprised 17 named members including Raju
         context: Raju is identified as both drafter and first president
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 The Indian Liberal Group Constitution, adopted on 4 March 2000 in Mumbai, is the founding governing instrument of the ILG — a liberal civil-society organisation that traces its origins to 1964. The document opens with a substantive statement of objectives (Article 2) that articulates a coherent classical-liberal philosophy: individual liberty paired with personal responsibility as the foundation of civilised society; the state as servant rather than master of citizens; the inviolability of democratic accountability and the rule of law; and the defence of personal liberty, freedom of thought, expression, belief, faith and worship, the right of association, private property, free choice of occupation, and the right to information. The objectives section also commits the ILG to tolerance — with the memorable qualification that 'while tolerance is integral to liberalism, the ILG will not tolerate intolerance' — and opposes all forms of monopoly while affirming that 'the business of government is governance, not business.'

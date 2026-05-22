@@ -3,7 +3,8 @@ id: "sheti-vayavsayavaril-arishit-by-shesrav-mohite"
 title: 
   main: "'Sheti Vayavsayavaril Arishit' by Shesrav Mohite"
 work_type: "book"
-authors: []
+authors:
+  - shesrav-mohite
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -38,7 +39,7 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/sheti-vayavsayavaril-arishit-shesrav-mohite.pdf"
 needs_extraction: false
@@ -48,6 +49,15 @@ summary: |-
   The book opens with a foreword by Amar Habib placing Mohite in the lineage of Jayaprakash Narayan's Chhatra Yuva Sangharsh Vahini and the early 1980s onion and tobacco agitations of the Shetkari Sanghatana, and recalls the Parbhani convention of 1984. The main essay then traces the crisis historically: from Tukaram's and Ramdas's seventeenth-century laments about Maharashtra's famines, through Jotiba Phule's 1883 Shetkaryacha Asud, to Vitthal Ramji Shinde's 1932 distinction between "India" and "Bharat", to Nehruvian Five-Year Plans, the Green Revolution, the Agricultural Prices Commission, and the post-1991 liberalisation that, in Mohite's view, exempted agriculture from genuine market freedom while continuing the older extraction.
 
   Drawing on a 2005 Financial Express round table, Tata Institute of Social Sciences data placed before the Bombay High Court, and figures from the Planning Commission, Mohite shows how planners shifted outlays away from farming, how "negative subsidy" on thirteen major crops between 1980 and 2000 amounted to roughly three lakh crore rupees of extraction from cultivators, and how indebtedness to cooperative, rural and nationalised banks — not private moneylenders — has driven cotton-belt farmers in Vidarbha and Marathwada to suicide. The book is a compact polemic in the economic-liberal, pro-market tradition of the Shetkari Sanghatana: it asks for remunerative prices, an end to price controls, the right to sell freely, and an end to the planner's habit of treating the farmer as a captive supplier to the city.
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Shesrav Mohite
+  stubs_created:
+    - shesrav-mohite
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

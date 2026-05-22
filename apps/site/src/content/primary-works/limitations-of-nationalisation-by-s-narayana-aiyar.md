@@ -4,7 +4,8 @@ title:
   main: LIMITATIONS OF NATIONALISATION
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - narayana-aiyar
 editors: []
 contributors: []
 related_thinkers:
@@ -25,7 +26,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "S. Narayana Aiyar draws on twenty-four years of firsthand telephone-administration experience — fourteen-plus years with the Bombay Telephone Company Ltd. before nationalisation, and ten years thereafter under the Posts and Telegraphs Department (seven as Engineer at Bombay, three as Manager at Madras) — to argue that government management of commercial undertakings is, in his words, an inherent failure. He recalls his pre-nationalisation colleagues warning him that efficiency would 'disappear' once the state took over, and recounts how, within days of the April 1, 1943 takeover, the transfer of the Telephone Company's stores from the Bombay Manager to the Chief Controller of Telegraphic Stores at Calcutta made telephone parts 'unobtainable' and produced an immediate drop in service quality.\n\nAiyar marshals concrete cost evidence to extend the indictment. The Madras Telephone Directory, which he had previously printed and bound through private contractors for just over Rs. 6,000 for 13,000 copies, drew an estimate of Rs. 21,500 from the Government Press, Madras — with a proviso that the final bill might be higher still. He cites an episode in which T. T.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -40,7 +41,15 @@ missing_metadata_flags:
   - no_publication_year_for_pamphlet_reprint
   - no_series_number_visible
   - title_page_not_found
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 S. Narayana Aiyar draws on twenty-four years of firsthand telephone-administration experience — fourteen-plus years with the Bombay Telephone Company Ltd. before nationalisation, and ten years thereafter under the Posts and Telegraphs Department (seven as Engineer at Bombay, three as Manager at Madras) — to argue that government management of commercial undertakings is, in his words, an inherent failure. He recalls his pre-nationalisation colleagues warning him that efficiency would 'disappear' once the state took over, and recounts how, within days of the April 1, 1943 takeover, the transfer of the Telephone Company's stores from the Bombay Manager to the Chief Controller of Telegraphic Stores at Calcutta made telephone parts 'unobtainable' and produced an immediate drop in service quality.

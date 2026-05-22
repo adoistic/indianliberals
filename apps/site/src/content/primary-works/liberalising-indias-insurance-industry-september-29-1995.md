@@ -44,7 +44,15 @@ missing_metadata_flags:
   - no_toc
   - publisher_not_in_authority
   - author_not_in_authority
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the 1995 Annual Public Lecture under the A. D. Shroff Memorial Trust, R. N. Malhotra — former Governor of the Reserve Bank of India and Chairman of the Government of India Committee on Reforms in the Insurance Sector — argues that India's state-monopoly insurance industry must be opened to competition. He situates the case within the broader liberalisation programme begun in 1991: trade liberalisation, de-licensing, capital-market deepening, foreign-investment inflows, and reform of the banking and financial sectors have, in his telling, produced strong balance-of-payments, growth, and consumer-welfare gains without the dire consequences predicted by critics. Against that record he asks why insurance alone should be exempted from competition.

@@ -4,7 +4,8 @@ title:
   main: FREE MARKET ECONOMY —Key to Economic Progress and Freedoms
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - ma-rangoonwala
 editors: []
 contributors:
   - role: author
@@ -33,7 +34,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "This Forum of Free Enterprise booklet reproduces the inaugural address delivered by M. A. Rangoonwala, then immediate past President of the International Chamber of Commerce, at the Forum's Silver Jubilee celebrations in Bombay on 12 January 1982. It is framed by an introduction from the Forum's President N. A. Palkhivala and a short biographical note on the Forum's founder A. D. Shroff. Palkhivala's introduction sets up Rangoonwala's argument as a plea for the return of market forces, attacks the \"permit-licence-quota raj\" that Rajaji had named, and quotes Daniel Webster on civic responsibility.\n\nRangoonwala's central claim is that the free market is not merely an instrument of efficiency but synonymous with freedom itself. He insists that government controls, whatever their stated rationale, are always \"people control\" rather than control of goods, prices or services, and that economic planning by definition requires compulsion even when dressed up in the consultative language of \"indicative\" rather than \"imperative\" plans.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -71,8 +72,15 @@ thinker_mentions:
       - quote: "a short biographical note on the Forum's founder A. D. Shroff"
         context: "Shroff named as the Forum's founder in the pamphlet's prefatory material"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces the inaugural address delivered by M. A. Rangoonwala, then immediate past President of the International Chamber of Commerce, at the Forum's Silver Jubilee celebrations in Bombay on 12 January 1982. It is framed by an introduction from the Forum's President N. A. Palkhivala and a short biographical note on the Forum's founder A. D. Shroff. Palkhivala's introduction sets up Rangoonwala's argument as a plea for the return of market forces, attacks the "permit-licence-quota raj" that Rajaji had named, and quotes Daniel Webster on civic responsibility.

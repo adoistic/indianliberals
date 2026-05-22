@@ -4,7 +4,8 @@ title:
   main: DANGERS OF WEALTH TAX
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - sh-batlivala
 editors: []
 contributors: []
 related_thinkers: []
@@ -30,7 +31,7 @@ themes:
   - fiscal-policy
   - free-enterprise
 summary: "S. H. Batlivala's short polemic, reprinted from The Times of India of 26 May 1957 by the Forum of Free Enterprise, attacks the Wealth Tax and Expenditure Tax that India's recent budget had introduced as instruments to move the country towards 'our special brand of socialistic society.' Batlivala argues that experts were not properly consulted before this experiment was launched, and that a glance at recent economic history would have shown the dangers. He notes that the very same form of taxation was contemplated more than a quarter-century earlier in conservative, economically advanced Britain — and rejected after due deliberation.\n\nThe bulk of the piece is a historical case study of the 1919 British debate on a capital levy proposed to reconstruct industry and reduce war debt after the First World War. He recounts that Dr. Hugh Dalton championed the idea, Lord Keynes and Lord Stamp engaged it in debate, and the Labour Party endorsed it only half-heartedly with a graduated levy on estates above £5,000. The Treasury and the economists, he says, ultimately concluded that the yield would be trifling compared to the administrative difficulties and economic damage.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -43,7 +44,15 @@ physical:
   format: Two-page leaflet/pamphlet reprinting a newspaper article; printed in two columns with the FFE imprint at the foot of the second page
 missing_metadata_flags:
   - author_not_in_authority_file
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 S. H. Batlivala's short polemic, reprinted from The Times of India of 26 May 1957 by the Forum of Free Enterprise, attacks the Wealth Tax and Expenditure Tax that India's recent budget had introduced as instruments to move the country towards 'our special brand of socialistic society.' Batlivala argues that experts were not properly consulted before this experiment was launched, and that a glance at recent economic history would have shown the dangers. He notes that the very same form of taxation was contemplated more than a quarter-century earlier in conservative, economically advanced Britain — and rejected after due deliberation.

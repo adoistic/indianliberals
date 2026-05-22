@@ -4,7 +4,8 @@ title:
   main: Freedom and Economic Growth
   subtitle: Is Socialism the Answer?
 work_type: pamphlet
-authors: []
+authors:
+  - g-carl-weiland
 editors: []
 contributors: []
 related_thinkers: 
@@ -35,7 +36,7 @@ themes:
   - foreign-aid
   - private-property
 summary: "Freedom and Economic Growth is a short Forum of Free Enterprise pamphlet by Prof. G. Carl Wiegand of Southern Illinois University, published in Bombay on 8 June 1962 and subtitled \"Is Socialism the Answer?\". Wiegand argues that mass hunger in Asia, Africa and Latin America is not a problem of natural resources or capital scarcity but of ideology: the leaders of underdeveloped countries have absorbed European-style statism, Keynesian deficit thinking, and Fabian welfare-state slogans precisely at the moment when the West is paying the price for them. He marshals a series of national comparisons — Switzerland against Brazil, post-war West Germany against fifteen years of regimentation, Malaya against Indonesia, Japan against an India that for two hundred years \"lived for almost 200 years under British colonial rule\" yet remained behind — to insist that institutions, private property rights and personal freedom, not endowment or aid, determine growth.\n\nThe pamphlet's central polemic is directed at the conviction, which Wiegand attributes to Jawaharlal Nehru and to \"many American economists and politicians,\" that a totalitarian or socialist state is \"a 'people's republic' in which th…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -71,8 +72,15 @@ thinker_mentions:
       - quote: "a flanking A. D. Shroff epigraph: \"Free Enterprise was born with man and shall survive as long as man survives.\""
         context: "Shroff's words provide the ideological bookend to the pamphlet"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Freedom and Economic Growth is a short Forum of Free Enterprise pamphlet by Prof. G. Carl Wiegand of Southern Illinois University, published in Bombay on 8 June 1962 and subtitled "Is Socialism the Answer?". Wiegand argues that mass hunger in Asia, Africa and Latin America is not a problem of natural resources or capital scarcity but of ideology: the leaders of underdeveloped countries have absorbed European-style statism, Keynesian deficit thinking, and Fabian welfare-state slogans precisely at the moment when the West is paying the price for them. He marshals a series of national comparisons — Switzerland against Brazil, post-war West Germany against fifteen years of regimentation, Malaya against Indonesia, Japan against an India that for two hundred years "lived for almost 200 years under British colonial rule" yet remained behind — to insist that institutions, private property rights and personal freedom, not endowment or aid, determine growth.

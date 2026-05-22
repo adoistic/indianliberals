@@ -98,8 +98,15 @@ thinker_mentions:
       - quote: citing Ludwig von Mises, Gopal Krishna Gokhale, and D. V. Gundappa
         context: von Mises cited as a liberal theoretical authority alongside Indian liberal thinkers
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 *The Liberal Budget: Building an Equitable Society* presents a model fiscal framework developed in 2004 by a Drafting Group convened by the Indian Liberal Group's Project for Economic Education. The preface, signed by S. V. Raju as Executive Chairman, explains that the document was designed as a template and benchmark against which to evaluate actual Union Budgets, and that it draws on consultations held at the Leslie Sawhny Centre in Deviall and with economists and civil servants in Chennai. S. S. Bhandare's Introduction characterises the fiscal environment as one of severe constraint, arguing that a genuinely liberal economic environment is a precondition for any effective budget, and closes with a postscript acknowledging the newly elected UPA government's Common Minimum Programme while asserting that the Liberal Budget's 'human face' is stronger than that of the CMP without diluting liberal reform.

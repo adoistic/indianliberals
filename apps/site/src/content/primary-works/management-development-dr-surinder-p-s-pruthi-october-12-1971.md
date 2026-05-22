@@ -4,7 +4,8 @@ title:
   main: Management Development
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - surinder-p-s-pruthi
 editors: []
 contributors: []
 related_thinkers:
@@ -44,7 +45,17 @@ physical:
 missing_metadata_flags:
   - publication_year_not_printed_on_visible_pages
   - back_cover_colophon_not_in_chunk
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Surinder P. S. Pruthi
+  stubs_created:
+    - surinder-p-s-pruthi
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 "Management Development", a 1971 Forum of Free Enterprise pamphlet based on a public lecture delivered by Dr. Surinder P. S. Pruthi in Bombay on 11 May 1971, surveys the problem of building India's first generation of professionally trained business managers. Pruthi addresses three constituencies — the post-graduate business schools, the companies that hire MBAs, and the management trainees themselves — and argues that a "happy synthesis of their collective objectives" requires all three to recognise how poorly they currently understand one another.

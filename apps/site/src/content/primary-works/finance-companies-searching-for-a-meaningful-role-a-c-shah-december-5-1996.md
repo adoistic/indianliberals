@@ -4,7 +4,8 @@ title:
   main: FINANCE COMPANIES
   subtitle: SEARCH FOR A MEANINGFUL ROLE
 work_type: speech
-authors: []
+authors:
+  - dr-ac-shah
 editors: []
 contributors: []
 related_thinkers: 
@@ -28,7 +29,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Delivered as the A. D. Shroff Memorial Annual Public Lecture in Mumbai on 29 August 1996 and published by the A. D. Shroff Memorial Trust later that year, Dr. A. C. Shah's address surveys the rise of India's non-banking finance companies (NBFCs) in the wake of the 1991 reforms and asks what kind of regulatory architecture would let them play a useful role alongside the banking system. Shah, a former Chairman and Managing Director of Bank of Baroda who also chaired the RBI Study Group on NBFCs (1992), opens with a tribute to A. D. Shroff's 'extra-ordinary moral courage and bold vision (arsh-Dristi)' in resisting the socialist consensus of the fifties, and announces that the lecture will move through three parts: the current scenario, the regulatory framework, and an approach to problems.\n\nIn the 'Current Scenario' section the lecture documents the sector's phenomenal expansion — from 7,063 companies in 1981 to 39,454 in 1995 — and explains why NBFCs have outgrown the banks at the margin: tailor-made services, lower regulatory weight, simpler sanction procedures, and marginally higher deposit rates that attract small savers. Shah quotes RBI Governor C.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -61,8 +62,15 @@ thinker_mentions:
       - quote: Shah quotes RBI Governor C. Rangarajan on the rising importance of leasing companies
         context: "Rangarajan cited as institutional authority corroborating Shah's description of NBFC sector growth"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the A. D. Shroff Memorial Annual Public Lecture in Mumbai on 29 August 1996 and published by the A. D. Shroff Memorial Trust later that year, Dr. A. C. Shah's address surveys the rise of India's non-banking finance companies (NBFCs) in the wake of the 1991 reforms and asks what kind of regulatory architecture would let them play a useful role alongside the banking system. Shah, a former Chairman and Managing Director of Bank of Baroda who also chaired the RBI Study Group on NBFCs (1992), opens with a tribute to A. D. Shroff's 'extra-ordinary moral courage and bold vision (arsh-Dristi)' in resisting the socialist consensus of the fifties, and announces that the lecture will move through three parts: the current scenario, the regulatory framework, and an approach to problems.

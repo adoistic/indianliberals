@@ -4,7 +4,8 @@ title:
   main: CRITICAL ISSUES RELATING TO RISING PRICES
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - sunil-bhandare
 editors: []
 contributors: []
 related_thinkers: 
@@ -37,7 +38,7 @@ summary: |-
   Bhandare opens with a stark statistical record: between 1950–51 and 1994–95, the Wholesale Price Index rose more than 16.5 times, at a compound annual rate of 6.6 percent. Out of 45 years of planned development, only 16 saw satisfactory price management (defined as inflation not exceeding 5 percent per annum), and in 13 of those 45 years inflation crossed the double-digit threshold. He respectfully contests Lord Meghnad Desai's characterisation of India as a low-inflation economy, noting that from a domestic welfare standpoint the record looks far grimmer, particularly given the adverse distributional effects on the poor. He then lays out five interlocking critical questions: the growth–inflation trade-off; the fiscal consolidation challenge; the management of revenue deficits; the urgency of raising the savings ratio; and the imperative of productivity improvement, including agricultural productivity.
 
   On the trade-off, Bhandare provocatively proposes that India may need to accept inflation in the 7–9 percent range in exchange for GDP growth of 7 percent — the growth rate needed to make a decisive impact on poverty and unemployment — rather than sacrificing growth at the altar of 5 percent price stability. He marshals data showing that fiscal consolidation since the 1991 reforms has been fragile: the fiscal deficit-to-GDP ratio fell from 8.4 percent in 1990–91 to 5.7 percent in 1992–93 but slipped back to 7.7 percent in 1993–94 and 6.7 percent in 1994–95. Revenue deficits are growing at 14.3 percent annually while receipts grow at only 13.1 percent; left unchecked, the revenue deficit of the central government could balloon from Rs. 35,541 crores in 1995–96 to Rs. 79,443 crores by 2001. He argues that agricultural productivity — illustrated by India's wheat yield of 2,320 kg per hectare against 7,250 kg in the UK and 3,440 kg in China — is the crucial supply-side lever without which wage-goods inflation cannot be moderated. Bhandare closes by calling for a rededication to Prof. Vakil's agenda: fiscal discipline, higher savings, productivity gains, and expanded wage-goods production.
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -59,8 +60,15 @@ thinker_mentions:
       - quote: centenary tribute to the late economist Prof. C. N. Vakil
         context: "establishes Vakil as the intellectual patron of the seminar and the standard against which Bhandare measures India's post-1991 economic performance"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Published as a Forum of Free Enterprise pamphlet based on the keynote address delivered by S. S. Bhandare — Economic Adviser, Tata Services Ltd. — at a seminar on "Rising Prices" held in Bombay on 12 August 1995 as a centenary tribute to the late economist Prof. C. N. Vakil, this essay offers a rigorous data-driven audit of India's four-and-a-half decades of inflationary experience and charts the unfinished reform agenda of the post-1991 liberalisation era.

@@ -46,7 +46,15 @@ missing_metadata_flags:
   - no_publisher_address
   - no_toc_in_first_20_pages
   - colophon_not_found
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 The rendered pages of this work (pages 1–20 of a 169-page souvenir proceedings volume) consist entirely of the cover and sponsor advertisements. Page 1 carries the cover — a full-bleed photograph of a senior Swatantra Party figure under the text 'SWANTRA PARTY / SIXTH NATIONAL CONVENTION / RAJAJI NAGAR' — and pages 2 through 20 are full-page commercial advertisements from Indian industrial and trading firms (Kirloskar Electric, The New Commercial Mills / Gopi Fabrics, The Associated Cement Companies Limited, Ram Dev Dmir & Company, and others), each carrying the footer 'SWATANTRA SOUVENIR 1973'. No title page, table of contents, editorial credit, or substantive convention content appears in the rendered pages. The editorial and proceedings content begins beyond page 20 and is not visible in this chunk.

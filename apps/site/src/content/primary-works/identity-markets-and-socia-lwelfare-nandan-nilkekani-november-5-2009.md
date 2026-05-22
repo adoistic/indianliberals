@@ -4,7 +4,8 @@ title:
   main: Identity, Markets and Social Welfare
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - nandan-nilekani
 editors:
   - sunil-bhandare
 contributors: []
@@ -50,7 +51,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - isbn_not_printed
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Nandan Nilekani
+  stubs_created:
+    - nandan-nilekani
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This booklet reproduces the 43rd A. D. Shroff Memorial Lecture, delivered by Nandan Nilekani in Mumbai on 27 October 2009 under the auspices of the Forum of Free Enterprise, with an editorial note by Sunil S. Bhandare and a biographical sketch of A. D. Shroff appended. Speaking as the newly appointed chairman of the Unique Identification Authority of India (UIAI), Nilekani frames the UID project as the missing third leg — alongside mobile telephony and online banking — of a technological platform that can transform welfare delivery for India's poor. He opens by saluting Ardeshir Shroff's early advocacy of competition, liberalisation and 'intellectual capital' in an era dominated by faith in planning, and argues that growth in the 1990s and 2000s, however impressive, has failed to dislodge the structural poverty that Shroff diagnosed.

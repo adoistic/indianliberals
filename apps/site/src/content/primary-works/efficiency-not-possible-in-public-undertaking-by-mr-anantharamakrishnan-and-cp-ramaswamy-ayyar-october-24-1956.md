@@ -4,7 +4,9 @@ title:
   main: "EFFICIENCY \"NOT POSSIBLE\" IN PUBLIC UNDERTAKING"
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-r-anantharamakrishnan
+  - c-p-ramaswamy-ayyar
 editors: []
 contributors: []
 related_thinkers: []
@@ -40,7 +42,17 @@ missing_metadata_flags:
   - no_formal_title_page
   - no_series_number
   - no_explicit_publication_year_on_pamphlet
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns:
+    - C. P. Ramaswamy Ayyar
+  stubs_created:
+    - c-p-ramaswamy-ayyar
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This three-page Forum of Free Enterprise pamphlet reprints an October 24, 1956 report from the 'Mail', Madras, of two speeches delivered at the 15th anniversary of the Sri Rama Vilas Service. The industrialist S. Anantharamakrishnan and the administrator-jurist Dr. C. P. Ramaswamy Ayyar mount a paired defence of the private sector at a moment when the Second Five-Year Plan and a wave of nationalisations were tilting the Indian economy toward state ownership. Their joint thesis is that efficiency is structurally impossible in a public undertaking and that the private sector has been doing the country's real economic work without acknowledgement.

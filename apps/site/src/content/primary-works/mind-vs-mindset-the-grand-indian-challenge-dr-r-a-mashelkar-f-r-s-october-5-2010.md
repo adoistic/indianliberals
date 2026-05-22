@@ -4,7 +4,8 @@ title:
   main: "Mind Vs Mindset : The Grand Indian Challenge"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-a-mashelkar
 editors: []
 contributors:
   - role: introduction
@@ -49,7 +50,17 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - series_number_not_printed
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - R. A. Mashelkar
+  stubs_created:
+    - r-a-mashelkar
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces Dr. R. A. Mashelkar's address "Shaping Young Minds — Managing Career Expectations", delivered in August 2008 under the joint auspices of the Lucknow Management Association and the All-India Management Association. Mashelkar, then Chairman of the Governing Council of the National Innovation Foundation and a former Director General of the CSIR, frames India's twenty-first-century challenge as one of "mind versus mindset": the Indian mind has never wanted for intellect — it produced the zero and now lays the foundation of the digital economy — but the Indian mindset, captured in the proverb that two Indians together "neutralize each other", routinely strips that intellect of its multiplier effect. The argument is that demography, democracy and diversity give India structural advantages over China only if institutional and national mindsets are deliberately rebuilt.

@@ -37,7 +37,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-september-october-2010.pdf"
 needs_extraction: false
@@ -47,6 +47,13 @@ summary: |-
   The issue's centrepiece is the third installment in an ongoing series titled "Vigyan-Adhyatm" ("Science-Spirituality"), with a long reply-essay by Anil Patel and substantial reader responses from Pragnyabhai Dave (Jamnagar), Shilaben (Brahma Vidya Mandir, Pavnar) and others. The debate ranges over the epistemological status of mystical experience, the role of the observer in quantum mechanics (Niels Bohr, Heisenberg, the Copenhagen interpretation), J. Krishnamurti's notion of "pure observation", Fritjof Capra's The Tao of Physics and The Turning Point, and whether spiritual "truth" can meet the universality and falsifiability standards demanded of scientific knowledge. A second editorial-length essay, "Samta ane Svatantrata" ("Equality and Freedom"), reports on an August 24-27 thought-camp at Mangrol attended by activists from Jharkhand and elsewhere, where the role of markets versus the state in delivering equality was hotly debated.
 
   The "Samprat Samasya" (current affairs) section carries topical pieces on the Indo-US nuclear deal (T.S. Gopi Rethinaraj), the Sethusamudram shipping-channel project (Trupti Parekh), the ASI's controversial affidavit on Ram Setu (Jaykrishna Nair), and Burma's Saffron Revolution. Kirit Panwala contributes a long, lawyerly critique titled "Yakub Memon mate kon aansu sarshe?" ("Who will shed tears for Yakub Memon?") rebutting Masih Rahman's Indian Express article and walking through the evidentiary standards under the Indian Evidence Act, TADA and CrPC for assessing the 1993 Mumbai bomb-blasts convictions. Mukesh Edanwala's English-language piece "Swatantrata - Jnan ane Bazaar" debates Anilbhai on whether market institutions automatically secure development, citing A. Lanyi on institutions as "rules of the game". A regular column "Tamara man ne mukt karo" by Saumitra Chakravarti and a Gujarati translation of Leonard Read's "I, Pencil" round out the issue.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

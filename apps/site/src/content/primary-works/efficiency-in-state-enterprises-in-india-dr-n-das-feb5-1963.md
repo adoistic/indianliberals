@@ -4,7 +4,8 @@ title:
   main: EFFICIENCY IN STATE ENTERPRISES IN INDIA
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - n-das
 editors: []
 contributors: []
 related_thinkers: 
@@ -31,7 +32,7 @@ themes:
   - industrial-policy
   - free-enterprise
 summary: "Dr. N. Das, a retired ICS officer and Director-General of the Employers' Federation of India, delivered this lecture to the Forum of Free Enterprise in Bombay on 26 October 1962. He traces the meteoric rise of India's public sector since the 1948 Industrial Policy Statement: from Rs. 179 crores in the First Plan, to Rs. 974 crores in the Second Plan, to Rs. 2,147 crores earmarked in the Third Plan—roughly 97 per cent of total Central Government industrial investment by 1960-61. The booklet asks a single, sharp question: with this scale of state investment, is the country getting commensurate value?\n\nThe diagnostic core of the lecture is comparative profitability. Das cites the Finance Ministry's First Annual Report on the Working of Industrial and Commercial Undertakings of the Central Government, which showed that of 23 running concerns only nine declared dividends in 1960-61, averaging just 4.2 per cent on paid-up capital, while six showed losses and three earned under 3.3 per cent.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -53,8 +54,15 @@ thinker_mentions:
       - quote: "He invokes Galbraith on how officials on boards destroy enterprise autonomy, the World Bank Mission's verdict that the Government had not helped strengthen the Public Sector"
         context: Galbraith deployed as an authority on why state-board membership damages enterprise management
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. N. Das, a retired ICS officer and Director-General of the Employers' Federation of India, delivered this lecture to the Forum of Free Enterprise in Bombay on 26 October 1962. He traces the meteoric rise of India's public sector since the 1948 Industrial Policy Statement: from Rs. 179 crores in the First Plan, to Rs. 974 crores in the Second Plan, to Rs. 2,147 crores earmarked in the Third Plan—roughly 97 per cent of total Central Government industrial investment by 1960-61. The booklet asks a single, sharp question: with this scale of state investment, is the country getting commensurate value?

@@ -4,7 +4,8 @@ title:
   main: NEW INDUSTRIAL POLICY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - minoo-shroff
 editors: []
 contributors: []
 related_thinkers:
@@ -33,7 +34,7 @@ themes:
   - planning
   - private-sector
 summary: "Minoo R. Shroff's public lecture, delivered under the auspices of the Forum of Free Enterprise on 27 February 1978 and issued as a Forum booklet, reads the Janata government's December 1977 industrial policy statement against the November 1977 economic policy of the ruling party. Shroff finds the document a 'mixture of politics and economics' that breaks no radical ground from the 1948 and 1956 industrial resolutions but does abandon built-in ideological bias, rejecting both capitalism and communism in favour of a Gandhian framework that decentralises the economic apparatus and lifts agriculture, rural development and cottage and village industry to the centre of planning.\n\nShroff walks through the policy's four-part architecture — a sharply expanded small-scale reservation (504 items, up from about 180), a residual large-scale sector hemmed in by the MRTP Act and forced to rely on internally generated resources, an expanding public sector charged with stabilising essential supplies, and a technology policy that allows imports only where domestic capability is inadequate. He grants the political logic of a labour-intensive thrust (citing Finance Minister H. M.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -47,7 +48,15 @@ physical:
 missing_metadata_flags:
   - no_toc
   - author_not_in_authority_file
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Minoo R. Shroff's public lecture, delivered under the auspices of the Forum of Free Enterprise on 27 February 1978 and issued as a Forum booklet, reads the Janata government's December 1977 industrial policy statement against the November 1977 economic policy of the ruling party. Shroff finds the document a 'mixture of politics and economics' that breaks no radical ground from the 1948 and 1956 industrial resolutions but does abandon built-in ideological bias, rejecting both capitalism and communism in favour of a Gandhian framework that decentralises the economic apparatus and lifts agriculture, rural development and cottage and village industry to the centre of planning.

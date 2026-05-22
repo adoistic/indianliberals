@@ -4,7 +4,8 @@ title:
   main: A Blueprint for Eradication of Poverty
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - bp-godrej
 editors: []
 contributors: []
 related_thinkers:
@@ -42,7 +43,7 @@ themes:
   - economic-growth
   - capitalism-vs-socialism
 summary: "Delivered as a public lecture under the auspices of the Forum of Free Enterprise in Bombay on 16 September 1980 and published as a pamphlet in December of that year, Dr. B. P. Godrej's address opens by naming poverty and unemployment as India's greatest crises. Drawing on official surveys and press reports, he establishes that more than 356 million Indians lived below the poverty line in 1978—defined as the caloric threshold below which a worker cannot perform a full day's labour—and that malnutrition was measurably depressing the cognitive development of the rural poor.\n\nThe first half of the lecture dissects the causes of this failure. Godrej argues that the ideological adoption of a dominant public sector, without regard for India's actual conditions, had produced a nationalised economy that could not deliver energy, transport, or industrial goods efficiently. The government sector absorbed Rs. 15,000 crores of investment yet chronically underperformed; monopolistic bank employees exploited their captive position; and the Monopolies and Restrictive Trade Practices Act starved legitimate private enterprise of licences and room to grow.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -57,7 +58,15 @@ missing_metadata_flags:
   - no_toc
   - no_series_number_confirmed
   - author_not_in_authority_file
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as a public lecture under the auspices of the Forum of Free Enterprise in Bombay on 16 September 1980 and published as a pamphlet in December of that year, Dr. B. P. Godrej's address opens by naming poverty and unemployment as India's greatest crises. Drawing on official surveys and press reports, he establishes that more than 356 million Indians lived below the poverty line in 1978—defined as the caloric threshold below which a worker cannot perform a full day's labour—and that malnutrition was measurably depressing the cognitive development of the rural poor.

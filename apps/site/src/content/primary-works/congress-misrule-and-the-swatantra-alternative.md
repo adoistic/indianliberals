@@ -104,8 +104,15 @@ thinker_mentions:
       - quote: Karl Marx is cited—ironically—for the observation that those who own property are free, a point Masani turns against the Congress logic of abolition
         context: "Marx is deployed against his own supposed heirs to expose the contradiction in Congress's anti-property socialism"
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 In the rendered pages (front matter, foreword, introduction, and the opening of Section I), M. R. Masani assembles his parliamentary speeches into a sustained indictment of Congress economic policy and a programmatic case for the Swatantra Party as the only credible democratic alternative. C. Rajagopalachari's brief foreword frames the volume as criticism of the highest quality, arguing that the Swatantra Party exists to give India good government. Masani's own Introduction, written on the eve of the 1967 General Elections, addresses the scepticism of the educated classes toward the Party's electoral viability and marshals voting statistics to argue that Congress is a 'paper tiger'—a minority party whose parliamentary majority distorts actual public support. He contends that the real choice facing India is between Communist dictatorship and the liberal democratic programme of Swatantra.

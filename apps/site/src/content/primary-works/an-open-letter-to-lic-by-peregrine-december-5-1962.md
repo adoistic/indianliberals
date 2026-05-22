@@ -4,7 +4,8 @@ title:
   main: An Open Letter to L.I.C.
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - peregrine
 editors: []
 contributors: []
 related_thinkers: 
@@ -48,8 +49,17 @@ thinker_mentions:
       - quote: "Peregrine traces the LIC's promotional culture back to Morarji Desai's 1959 Lok Sabha exhortation to reach Rs. 1,000 crores of new business as soon as possible"
         context: "incentive-analysis section; Desai's parliamentary target is identified as the originating political pressure behind the Corporation's mis-selling culture"
     key_passages: []
-
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Peregrine
+  stubs_created:
+    - peregrine
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 An Open Letter to L.I.C., signed by the pseudonymous "Peregrine" and reproduced from the Amrit Bazar Patrika of September 1, 1962, is a sceptical reading of the Life Insurance Corporation's first major progress report by a writer who is also a policy-holder. While most papers, the letter notes, have "sung hallelujah" to the LIC's claimed jump in new business from Rs. 497.54 crores in 1960 to Rs. 608.82 crores in 1961, Peregrine argues that the corresponding rise in "business in force" — Rs. 452 crores, or 19.8 per cent — is too small to be consistent with that growth once first-year lapsation is honestly counted. The gap of Rs. 156.82 crores, he writes, either reflects accounting jugglery or simply measures policies that lapsed within the first year; his own estimate of true first-year lapsation is about Rs. 182.4 crores, or roughly 30 per cent of new business nationally and as high as 59 per cent in pockets such as Jalpaiguri.

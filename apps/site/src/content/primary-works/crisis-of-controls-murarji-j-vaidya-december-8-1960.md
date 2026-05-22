@@ -4,7 +4,8 @@ title:
   main: CRISIS OF CONTROLS
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - murarji-vaidya
 editors: []
 contributors: []
 related_thinkers: 
@@ -33,7 +34,7 @@ summary: |-
   Vaidya traces the pathology historically: controls imposed during the Second World War (from 1939 onward) persisted after Independence in 1947 when they should, as in West Germany, Japan, and the United Kingdom, have been systematically dismantled. Instead, India became what he argues is the only free and democratic country in the world still suffering from extensive peacetime controls. He catalogues their reach in granular Bombay terms — milk rationed by booth cards, housing blocked by rent control and building-material permits, exporters stymied by the 305 (out of 375) items still requiring export licences, and industrialists unable to start even a theoretically licence-free small-scale unit (capital up to Rs. 5 lakhs) without separate permits for accommodation, building materials, machinery, and raw materials.
 
   The essay draws on Hayek ("economic control is the control of the means for all our ends") and Hilaire Belloc to argue that economic controls inevitably compound, demoralise citizenry, and corrode liberty. The Ludwig Erhard miracle in West Germany — where removing foreign-exchange controls caused shortages to vanish almost overnight — is held up as the proof of concept. Vaidya concludes with a call for the Planning Commission and Parliament to formally adopt a policy of progressively fewer controls, arguing that national development can only advance when individuals are free to deploy their honesty, initiative, and enterprise without fear of inspectors or permit offices.
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -59,8 +60,15 @@ thinker_mentions:
       - quote: The Ludwig Erhard miracle in West Germany — where removing foreign-exchange controls caused shortages to vanish almost overnight — is held up as the proof of concept.
         context: "the positive counter-model to India's retained wartime controls; Erhard's Germany is Vaidya's template for what liberalisation can achieve"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as a public address under the auspices of the Forum of Free Enterprise in Bombay on 18 September 1960 and published as a pamphlet on 8 December 1960, Murarji J. Vaidya's "Crisis of Controls" takes the form of a direct argumentative lecture aimed at business and civic audiences in post-independence India. Opening with the observation that India is simultaneously afflicted by a "crisis of character" (as diagnosed by Vice-President Radhakrishnan), a "crisis of development," and a "dilemma of development" in foreign exchange, Vaidya contends that the worst of these crises is the Crisis of Controls — a creeping, totalising bureaucratic regimentation that has spread from the Planning Commission down to the lowest inspector in every corner of the country.

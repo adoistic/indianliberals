@@ -3,7 +3,8 @@ id: "poshidhanchi-loksahi-by-sharad-joshi"
 title: 
   main: "'Poshidhanchi Loksahi' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -33,12 +34,19 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/madhyatil-angar-sharad-joshi.pdf"
 needs_extraction: false
 summary: |-
   This entry is a Marathi-language work attributed to Sharad Joshi, the agrarian-economist founder of the Shetkari Sanghatana and one of the most prominent voices of the Indian liberal tradition outside the English-speaking metropolis. Joshi's writing typically argues that the post-independence Indian state has run an internal extractive economy against its own peasantry — through controlled procurement prices, restrictions on inter-state movement of agricultural produce, denial of access to world markets, and a financial system that drains rural surplus into urban industry. The title 'Poshidhanchi Loksahi' translates roughly as 'Democracy of the Sustained' or 'Democracy of the Provisioned,' which in Joshi's idiom is a polemical phrase for a political order whose democratic forms operate on top of a coerced agrarian base. On the strength of his corpus, the book can be expected to attack the Nehruvian consensus, Permit-Raj controls, and the urban bias of policy, and to call for free markets, currency convertibility for farm output, and the dismantling of state-led 'planning' as the precondition for genuine democratic citizenship for rural Indians. The PDF for this specific title could not be located on the source drive — the inventory file points 'poshidhanchi-loksahi-by-sharad-joshi' to 'madhyatil-angar-sharad-joshi.pdf,' which is a separate, distinct work by the same author and is already indexed under its own id ('madhyatil-angar-by-sharad-joshi'). The same fallback PDF is shared by several other unrelated Joshi entries in the inventory, confirming that it is a placeholder rather than the true source. Because reading that PDF would produce a summary of 'Madhyatil Angar' rather than 'Poshidhanchi Loksahi,' no content-specific extraction was performed for this id, and the entry is flagged for human review so the correct scan can be sourced and re-run.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

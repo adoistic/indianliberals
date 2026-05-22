@@ -3,7 +3,8 @@ id: "angarmala-by-sharad-joshi"
 title: 
   main: "Angarmala by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -46,6 +47,13 @@ summary: |-
   The opening title essay describes Joshi's return from Switzerland to India on 1 May 1976 with his wife Leela and daughters Shreya and Gauri, his abandonment of a comfortable international career (he had worked with multilateral agencies and spoke French, German and English) to take up dryland farming on a tract called Angarmala at Ambethan in Pune district, and the eleven landless Dalit cultivators ('akra bhumiputra') with whom he tried collective farming, only to confront the unforgiving arithmetic of bank loans, well-digging costs and crop prices that destroyed peasant livelihoods. From this personal failure he derives the central insight that animates the Sanghatana: rural poverty is not a problem of charity or development schemes but of systematically rigged terms of trade against agriculture.
 
   Later essays move between memoir and movement history. 'Mazhya brahmanyachi gatha' is a frank reckoning with his own Brahmin upbringing and a rejection of caste pride; he recounts the Nipani agitation of March 1981 where shetkaris were shot, the onion movement of 1980, his exchanges with critics who tried to caste-label the Sanghatana leadership, and his quarrel with the temple of Chokhamela being barred to Brahmin farmers. The volume sits squarely in the Indian liberal tradition through its insistence on free markets for farm produce, its hostility to state-administered prices, and its Phule-inflected critique of urban-rural exploitation — Joshi explicitly invokes Jotiba Phule's Shetkaryancha Asud and his own Shetkaryacha Mujra. The prose is lyrical rather than polemical, presented by the publisher Shrikant Umrikar as evidence that a mass-movement leader could also write Marathi of literary quality.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

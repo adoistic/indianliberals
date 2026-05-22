@@ -35,7 +35,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-october-2008.pdf"
 needs_extraction: false
@@ -45,6 +45,13 @@ summary: |-
   The editorial by Ambrish Mehta, 'Ochha kayda ane asarkarak amal' (Fewer laws and effective implementation), responds to the serial blasts in Bengaluru, Ahmedabad, and Delhi. It argues that the demand to revive POTA (or to bring back 'Gujcoc') is misplaced: the real Indian liberal answer to terrorism is not suspension of due process but stricter rule of law, fewer but better-enforced statutes, an honest and accountable police, and insistence on courtroom proof. Mehta uses the Sohrabuddin fake-encounter case and the Jamia Nagar episode to show how diluting evidentiary standards corrupts police incentives, lets real terrorists escape, and converts innocents into convenient 'terrorists'. The piece is a characteristic civil-liberties argument from within the Indian liberal tradition.
 
   Other contents listed in the index include Bhikhu Parekh on secularism and communalism, Meghnad Desai on terrorism, Shekhar Gupta on Kashmir, Mukul Sinha on the Nanavati Commission, Chakravarti Ashok Priyadarshi on the man-made Kosi flood in Bihar, and Poonam on the bitter-tasting khichdi. The science-and-spirituality serial part 7(A), 'Charles Darwin — Jivoni utkranti' (The evolution of life) by Anil Patel, occupies pages 34–50. A long letters section debates rationalism (a running thread from the May–June issue), with Mukesh Adenwala's English essay 'On Rationality' citing Bertrand Russell, Joseph Campbell, and Foucault to argue that rationality cannot exhaust human knowledge or motivation. Dankesh Ojha's 'Asahishnutanu aa akdavatu avran' criticises the intolerance shown to the journalist Kumar Ketkar after his column on the Shivaji statue. Together the issue is a snapshot of small-circulation Gujarati liberal opinion in 2008 — civil-libertarian on terror law, sceptical of Hindutva mobilisation, committed to rationalism but willing to debate its limits.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

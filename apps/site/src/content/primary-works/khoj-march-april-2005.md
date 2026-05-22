@@ -45,7 +45,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -55,6 +55,13 @@ summary: |-
   The issue is built as a manifesto for liberal thought in Gujarati. Anil Patel's lead essay, 'Khoj sha mate?' (Why Khoj?), argues that since Amartya Sen's 1998 Nobel a serious public conversation on poverty, free markets, Darwinian evolutionism and the Nehruvian planning model has been missing from Gujarati periodicals; mainstream papers ignore these debates and the existing socialist consensus has gone unexamined. He traces a long arc from the Gandhi-Nehru divergence through Fabian-influenced Indian economists, the 1991 Rao-Manmohan liberalisation and the persistence of statism inside both Congress and the Sangh Parivar, and lays out the journal's critique of central planning, bureaucratic licence-permit raj, anti-market populism, and the epistemology of positivism. Trupti Parekh's companion piece, 'Khoj na aarambh taane', reflects on lessons drawn from the J.P.-inspired Total Revolution movement, decades of tribal rehabilitation work around the Sardar Sarovar, the Shoolpaneshwar sanctuary employment-guarantee litigation, the 1984 Delhi anti-Sikh pogrom and the 2002 Gujarat violence, treating constitutional democracy, rule of law and individual liberty as a coherent liberal package.
 
   The rest of the issue previews the recurring sections: 'Samachar ni bhitarma' (Inside the news) by Anil Patel covers the National Rural Employment Guarantee Scheme and Jharkhand's constitutional crisis; Ambrish Mehta launches a series on Bjorn Lomborg's The Skeptical Environmentalist; a Gujarati translation of a 1972 Karl Popper interview on critical rationalism and the open society follows; Rajesh Mishra revisits the 2002 destruction of Muslim properties in tribal areas of Kavant; and Anil Patel reviews Matt Ridley's The Origins of Virtue on the evolutionary roots of exchange and cooperation. The issue closes with Walter Lippmann's 1937 line that in a free society the state administers justice among men who conduct their own affairs.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

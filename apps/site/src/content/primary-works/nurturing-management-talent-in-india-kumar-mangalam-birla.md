@@ -4,7 +4,8 @@ title:
   main: Nurturing Management Talent in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - kumar-mangalam-birla
 editors: []
 contributors: []
 related_thinkers:
@@ -39,7 +40,17 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
   format: "FFE booklet/pamphlet; printed text runs to p.12 of the booklet's internal numbering"
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Kumar Mangalam Birla
+  stubs_created:
+    - kumar-mangalam-birla
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Kumar Mangalam Birla's pamphlet — based on his acceptance speech for the Bombay Management Association's "Management Man of the Year" Award (26 May 2000) — argues that talent, rather than capital, scale, technology, or labour in the conventional sense, has become the dominant strategic resource of contemporary business. Borrowing John Gardner's typology of "pathfinders and path preservers," Birla redefines managerial talent as a composite of intellectual range, emotional intelligence, creativity, willingness to learn, and the ability to straddle functional, cultural, and geographic boundaries. He attributes the present urgency to a global supply-demand imbalance for such people, a generational appetite for entrepreneurial autonomy, the diffusion of decision-making to every level of complex organisations, and rising business complexity that places a premium on integrated, non-linear thinking.

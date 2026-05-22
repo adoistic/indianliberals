@@ -4,7 +4,8 @@ title:
   main: Leading in Turbulent Times
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - azim-premji
 editors: []
 contributors:
   - role: author
@@ -30,7 +31,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "This 2003 Forum of Free Enterprise booklet bundles two short pieces by Azim Premji, Chairman of Wipro Corporation: the Bhogilal Leherchand Memorial Lecture he delivered in Mumbai on 2 December 2002 under the title \"Leading in Turbulent Times,\" and his earlier convocation address at IIT Chennai of 27 July 2001, reprinted as \"Opportunities and Challenges.\" Together they sit inside FFE's classical-liberal pamphleteering tradition not as a policy intervention but as a corporate leader's argument that private enterprise must deserve, through its own internal culture, the latitude that liberals seek to defend for it.\n\nThe title essay reads the early-2000s slump — globalisation shock, recession, and the wave of US corporate scams of which Enron is the named case — and argues that the gravest casualty has been investor trust, not balance-sheet value.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -44,7 +45,15 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This 2003 Forum of Free Enterprise booklet bundles two short pieces by Azim Premji, Chairman of Wipro Corporation: the Bhogilal Leherchand Memorial Lecture he delivered in Mumbai on 2 December 2002 under the title "Leading in Turbulent Times," and his earlier convocation address at IIT Chennai of 27 July 2001, reprinted as "Opportunities and Challenges." Together they sit inside FFE's classical-liberal pamphleteering tradition not as a policy intervention but as a corporate leader's argument that private enterprise must deserve, through its own internal culture, the latitude that liberals seek to defend for it.

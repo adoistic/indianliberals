@@ -4,7 +4,8 @@ title:
   main: Energy Security Policy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - ma-pathan
 editors: []
 contributors: []
 related_thinkers: 
@@ -31,7 +32,7 @@ themes:
   - infrastructure
   - national-security
 summary: "M. A. Pathan's Energy Security Policy is a Forum of Free Enterprise booklet adapted from his 10 December 2005 presentation at the J. R. D. Tata Memorial Seminar (organised in Mumbai by the Leslie Sawhny Endowment). Pathan, then Group Resident Director of Tata Services and formerly Chairman of Indian Oil Corporation (1997-2002), surveys the global energy outlook — worldwide consumption nearly doubled over the previous 35-40 years, fossil fuels will continue to dominate the mix, and demand from emerging economies (especially India, where GDP was growing above 8%) is set to balloon. Citing the International Energy Outlook 2005, he projects world energy use rising from 412 quadrillion Btu in 2002 to 645 quadrillion Btu in 2025, with oil prices climbing from US $10.29/barrel in 1998 to over US $65/barrel in 2005 and the International Energy Agency estimating that $17,000 billion of investment is required globally by 2030.\n\nThe booklet's argumentative spine is that energy security must rest on two principles: minimising the energy needed to deliver services, and securing diverse access to supply and technology.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -53,8 +54,15 @@ thinker_mentions:
       - quote: "M. A. Pathan's Energy Security Policy is a Forum of Free Enterprise booklet adapted from his 10 December 2005 presentation at the J. R. D. Tata Memorial Seminar (organised in Mumbai by the Leslie Sawhny Endowment)."
         context: "J. R. D. Tata named as the honoree of the seminar at which Pathan's lecture was delivered"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 M. A. Pathan's Energy Security Policy is a Forum of Free Enterprise booklet adapted from his 10 December 2005 presentation at the J. R. D. Tata Memorial Seminar (organised in Mumbai by the Leslie Sawhny Endowment). Pathan, then Group Resident Director of Tata Services and formerly Chairman of Indian Oil Corporation (1997-2002), surveys the global energy outlook — worldwide consumption nearly doubled over the previous 35-40 years, fossil fuels will continue to dominate the mix, and demand from emerging economies (especially India, where GDP was growing above 8%) is set to balloon. Citing the International Energy Outlook 2005, he projects world energy use rising from 412 quadrillion Btu in 2002 to 645 quadrillion Btu in 2025, with oil prices climbing from US $10.29/barrel in 1998 to over US $65/barrel in 2005 and the International Energy Agency estimating that $17,000 billion of investment is required globally by 2030.

@@ -83,8 +83,15 @@ thinker_mentions:
       - quote: "Forum president Murarji J. Vaidya frames the reprint as a service to students of public affairs in India who needed a clear, jargon-free account of Keynes' actual position rather than the caricatures circulating on either side."
         context: "Vaidya's editorial framing establishes the booklet's purpose in the Indian deficit-financing debate"
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet, issued in Bombay on 11 July 1968, reprints an article by University of Maryland economist Dudley Dillard that originally appeared in Review, the journal of the Institute of Public Affairs in Australia. Dillard, author of an earlier popular exposition of The General Theory of Employment, Interest and Money (1940), sets out to answer a question Forum readers had been asking with mounting urgency as Indian debate over deficit financing intensified: was Lord Keynes a socialist or a defender of capitalism? Forum president Murarji J. Vaidya frames the reprint as a service to students of public affairs in India who needed a clear, jargon-free account of Keynes' actual position rather than the caricatures circulating on either side.

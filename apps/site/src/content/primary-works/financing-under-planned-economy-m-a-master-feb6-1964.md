@@ -4,7 +4,8 @@ title:
   main: Financing Under Planned Economy
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - m-a-master
 editors: []
 contributors: []
 related_thinkers: 
@@ -32,7 +33,7 @@ themes:
   - taxation
   - private-enterprise
 summary: "M. A. Master's 1964 Forum of Free Enterprise booklet is a tightly argued audit of how India proposes to pay for the Third Five-Year Plan. Master opens by faulting the Planning Commission for headlining a 'Rs. 10,400 crores' plan when the real outlay, public and private together, comes to Rs. 11,600 crores; the deduction of current outlay and the inclusion of inventories, he argues, obscure rather than clarify the financing problem. He then walks systematically through the four sources of finance the Commission claims it will tap — additional taxation, foreign exchange, borrowings from within the country, and surpluses from public enterprises — and shows that the Commission has consistently overestimated each one. Additional taxation has had to jump from a budgeted Rs. 2,400 crores to Rs. 2,750 crores and is squeezing a population already 'paying nearly 200%' more in central interest charges than at the start of Plan-era India.\n\nThe second half of the pamphlet turns from arithmetic to political economy.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -54,8 +55,15 @@ thinker_mentions:
       - quote: Quoting Sir A. Ramaswami Mudaliar and Eugene Black on the exhaustion of the capital market and the mortgaging of future export earnings
         context: "Black cited as an international financial authority corroborating Master's diagnosis of India's financing crisis"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 M. A. Master's 1964 Forum of Free Enterprise booklet is a tightly argued audit of how India proposes to pay for the Third Five-Year Plan. Master opens by faulting the Planning Commission for headlining a 'Rs. 10,400 crores' plan when the real outlay, public and private together, comes to Rs. 11,600 crores; the deduction of current outlay and the inclusion of inventories, he argues, obscure rather than clarify the financing problem. He then walks systematically through the four sources of finance the Commission claims it will tap — additional taxation, foreign exchange, borrowings from within the country, and surpluses from public enterprises — and shows that the Commission has consistently overestimated each one. Additional taxation has had to jump from a budgeted Rs. 2,400 crores to Rs. 2,750 crores and is squeezing a population already 'paying nearly 200%' more in central interest charges than at the start of Plan-era India.

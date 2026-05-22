@@ -4,7 +4,8 @@ title:
   main: IS THERE A MIDDLE WAY?
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - f-a-mehta
 editors: []
 contributors: []
 related_thinkers:
@@ -31,7 +32,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Dr. Fredie A. Mehta's 'Is There a Middle Way?' is the 29th A.D. Shroff Memorial Lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 30 November 1994 and published as a pamphlet on 15 January 1995. Mehta poses the central economic question of India's early reform decade: is there a path between Capitalism and Socialism, between the Price Mechanism and Planning, between Efficiency and Equity? His answer is an emphatic yes, framed by Prime Minister Narasimha Rao's 'Middle Path' speech at Davos and defended against both pro-reform impatience and left-wing rejection. He argues that 'a Federal country with innumerable vested interests' and 'a background of 40 years of bureaucratic socialism' cannot perform an overnight miracle; gradualism is required 'both on pragmatic and humane grounds' because in a democracy people 'can be brain-washed; they cannot be brow-beaten'.\n\nMehta then mounts a sustained defence of the proposition that Free Enterprise and a Welfare State are mutually complementary rather than antagonistic.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -46,7 +47,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_file
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. Fredie A. Mehta's 'Is There a Middle Way?' is the 29th A.D. Shroff Memorial Lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 30 November 1994 and published as a pamphlet on 15 January 1995. Mehta poses the central economic question of India's early reform decade: is there a path between Capitalism and Socialism, between the Price Mechanism and Planning, between Efficiency and Equity? His answer is an emphatic yes, framed by Prime Minister Narasimha Rao's 'Middle Path' speech at Davos and defended against both pro-reform impatience and left-wing rejection. He argues that 'a Federal country with innumerable vested interests' and 'a background of 40 years of bureaucratic socialism' cannot perform an overnight miracle; gradualism is required 'both on pragmatic and humane grounds' because in a democracy people 'can be brain-washed; they cannot be brow-beaten'.

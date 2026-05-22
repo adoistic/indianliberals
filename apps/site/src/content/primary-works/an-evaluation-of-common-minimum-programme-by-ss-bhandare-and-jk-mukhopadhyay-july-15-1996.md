@@ -4,7 +4,8 @@ title:
   main: An Evaluation of Common Minimum Programme
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - ss-bhandare-and-jk-mukhopadhyay
 editors: []
 contributors: []
 related_thinkers: 
@@ -27,7 +28,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "This 16-page Forum of Free Enterprise booklet, jointly written by Tata Services economists S.S. Bhandare and J.K. Mukhopadhyay within days of the United Front (UF) Government's installation in 1996, offers a sceptical but not hostile reading of the 13-party coalition's Common Minimum Programme. The authors concede that the CMP is a creditable consensus statement of intent — covering federalism, decentralisation, fiscal consolidation, PSU restructuring, financial-sector reform, agriculture, and a 'human face' for adjustment — and they note that it broadly tracks the famous 10-point medium-term objectives of Dr. Manmohan Singh's interim 1996-97 budget.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -49,8 +50,15 @@ thinker_mentions:
       - quote: "they note that it broadly tracks the famous 10-point medium-term objectives of Dr. Manmohan Singh's interim 1996-97 budget"
         context: "opening analysis; Singh's budget serves as the reform benchmark against which the CMP is judged as inadequate"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This 16-page Forum of Free Enterprise booklet, jointly written by Tata Services economists S.S. Bhandare and J.K. Mukhopadhyay within days of the United Front (UF) Government's installation in 1996, offers a sceptical but not hostile reading of the 13-party coalition's Common Minimum Programme. The authors concede that the CMP is a creditable consensus statement of intent — covering federalism, decentralisation, fiscal consolidation, PSU restructuring, financial-sector reform, agriculture, and a 'human face' for adjustment — and they note that it broadly tracks the famous 10-point medium-term objectives of Dr. Manmohan Singh's interim 1996-97 budget. But they argue that, as a coalition compromise, the CMP is 'neither a blue-print' nor a credible action programme: it dodges the politically costly items (exit policy, Companies Act amendment, opening coal and oil to private capital) and leaves the institutional mechanism for delivery unspecified.

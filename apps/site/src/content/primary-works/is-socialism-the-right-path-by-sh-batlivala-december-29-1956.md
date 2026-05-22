@@ -4,7 +4,8 @@ title:
   main: IS SOCIALISM THE RIGHT PATH?
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - sh-batlivala
 editors: []
 contributors: []
 related_thinkers:
@@ -28,7 +29,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Reprinted from The Times of India of 28 December 1956, S. H. Batlivala's short polemic — issued as a Forum of Free Enterprise pamphlet — argues that India's drift toward a \"Socialistic pattern of economy\" misreads the country's actual development needs. Batlivala opens by conceding that private capital alone cannot finance the Government's plans, but he insists that this is a case for collaboration between the private and public sectors, not for taxation that would imperil the Second Five-Year Plan. He marshals testimony from Sardar Vallabhbhai Patel and former Finance Minister C. D. Deshmukh to argue that the Indian civil service lacks the depth to run nationalised industries, and asks whether the Second Plan can succeed when administered by a thinned-out bureaucracy.\n\nThe heart of the piece is a sustained attack on British and Indian planning by analogy. Batlivala quotes Alfred Edwards, a defector from the U.K. Labour Party, on how nationalising the Bank of England, the coal mines, transport, power and steel left British industry with weaker output than before: coal production was 155,000 tons per week below 1938 levels despite mechanisation.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -42,7 +43,15 @@ physical:
 missing_metadata_flags:
   - publication_year_not_explicitly_printed
   - series_number_not_found
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Reprinted from The Times of India of 28 December 1956, S. H. Batlivala's short polemic — issued as a Forum of Free Enterprise pamphlet — argues that India's drift toward a "Socialistic pattern of economy" misreads the country's actual development needs. Batlivala opens by conceding that private capital alone cannot finance the Government's plans, but he insists that this is a case for collaboration between the private and public sectors, not for taxation that would imperil the Second Five-Year Plan. He marshals testimony from Sardar Vallabhbhai Patel and former Finance Minister C. D. Deshmukh to argue that the Indian civil service lacks the depth to run nationalised industries, and asks whether the Second Plan can succeed when administered by a thinned-out bureaucracy.

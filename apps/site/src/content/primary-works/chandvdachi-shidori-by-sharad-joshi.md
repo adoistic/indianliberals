@@ -3,7 +3,8 @@ id: "chandvdachi-shidori-by-sharad-joshi"
 title: 
   main: "Chandvdachi Shidori by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -48,6 +49,13 @@ summary: |-
   The core argument is that the orthodox Marxist and urban-feminist framing of the 'stree prashna' — which sees women's subordination chiefly as a problem of patriarchy in working and wage-earning women — fails to capture the situation of the rural peasant woman, the shetkarni grihini, whose drudgery sustains an exploited farm economy. Joshi rebuilds the women's question on the foundations of his Bharat-versus-India thesis: farm distress, statist plunder of agricultural surplus, and the denial of remunerative prices are what hold rural women in bondage. From that base he develops the Chandwad agenda — Laxmi Mukti (land titles in women's names, with about two lakh women receiving land), 100% women's panels in panchayat elections, the daru-dukan-bandi (liquor-shop closure) campaign launched from the 1989 Amravati adhiveshan, the Aasakhed model of decentralised drinking-water provision, and a women's reservation and inheritance position distinct from mainstream feminism.
 
   Later sections critique the Beijing Conference platform and government-NGO women's programmes as a co-option of the women's movement, contrast Joshi's framework with that of Amartya Sen on state provision, and assess what swatantrya (independence) has actually meant for rural women fifty years on. The book sits squarely in the post-1991 Indian liberal tradition: market-based emancipation, suspicion of the maaibaap sarkar mentality, and dignity through property rights and open competition rather than welfarist tutelage.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

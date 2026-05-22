@@ -35,7 +35,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-may-june-2005.pdf"
 needs_extraction: false
@@ -45,6 +45,13 @@ summary: |-
   The issue opens with an editorial on the release on bail of twelve Adivasi accused from the Antarsuba ashram case in Vijaynagar, where police firing on 13 February had killed two tribals and injured several more; the editor argues that the police, not the Adivasis, deserve prosecution, and praises Gujarat High Court Justice D. N. Patel's intervention. A long letters-and-responses section continues an earlier debate between contributors Ramanbhai Pathak, Rasik Shah, Harshadbhai Vyas, B. A. Pandya, Ramesh Pandya and others over rationalism, the Gujarati translation of 'rational', spirituality, dairy-versus-decentralised production, and the political character of Modi's Gujarat. Jayanti Patel's piece 'Reshnalitini Aadhunik Vibhavna' (The Modern Conception of Rationality) and Kiran Desai's 'Sarvajanahitaay Aatmkhoj' both engage critically with editor Ambrish Mehta's stance on rationalism, Hindutva and 'dominant discourse'.
 
   The 'Sampratha' (current affairs) section carries Trupti Parekh's lead essay 'Aapni Mulbhut Swatantrato Surakshit Chhe Khari?' (Are Our Fundamental Freedoms Really Safe?), which dissects the sedition charges (IPC 124A) filed in June 2008 by Ahmedabad Police Commissioner O. P. Mathur against the local Times of India editor, a reporter and a photographer, comparing the move to British-era prosecutions of Tilak. A companion piece reports the 22 June 2008 Abhivyakti-Swatantrya Sammelan in Ahmedabad, a state-level free-speech convention convened by JP centenary committee, PUCL and others, which passed a resolution against the use of sedition law on journalists (including cases against Aaj Tak, Saamna, Aajkaal-Rajkot, Yang Aarodhi-Veraval, Nafisa Ali and Divya Bhaskar) and the Andhra Pradesh police action against Andhra Jyothi under the AP Atrocities Act. Further articles in the issue cover the Amarnath yatra controversy, judicial overreach (Rajeev Dhavan, Ashwin Karia), forest rights act implementation, and a serialised 'Vigyan-Adhyatm' (Science-Spirituality) essay by Anil Patel.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

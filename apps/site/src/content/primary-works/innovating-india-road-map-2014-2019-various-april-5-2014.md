@@ -114,7 +114,15 @@ missing_metadata_flags:
   - no_formal_toc
   - no_publisher_address_in_chunk
   - no_isbn
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Innovating India – Road Map 2014-19 is a Forum of Free Enterprise booklet that reproduces substantial portions of a policy document of the same name prepared by the Pune International Centre (PIC) and timed to the 2014 general election. Editor Sunil S. Bhandare frames the reproduction as a non-partisan attempt to push PIC's recommendations into wider public debate before the new government takes office. Forum President Minoo R. Shroff's foreword and the introduction signed jointly by R. A. Mashelkar and Vijay Kelkar position the report as a 'Big Ideas' roadmap whose proposed reforms aim to combine rapid growth, equity and quality of life while explicitly eschewing 'competitive populism' and a diminished role for the state.

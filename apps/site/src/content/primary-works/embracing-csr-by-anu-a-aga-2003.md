@@ -4,7 +4,8 @@ title:
   main: Embracing Corporate Social Responsibility
   subtitle: The Saner Alternative
 work_type: speech
-authors: []
+authors:
+  - anu-aga
 editors: []
 contributors:
   - role: author
@@ -34,7 +35,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Delivered as the 37th A. D. Shroff Memorial Lecture in Mumbai on 5 November 2003 and published by the Forum of Free Enterprise, Anu Aga's address makes a brisk, example-driven case for Corporate Social Responsibility as the 'saner alternative' to a narrow, profit-only conception of business. Aga frames CSR not as charity or PR but as a stewardship obligation that flows from the fact that companies draw their talent, customers and licence-to-operate from the wider community. She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined, and that the live question today is not whether but how CSR should be measured, audited and reported.\n\nThe heart of the talk is a six-sided 'stakeholder hexagon'—customers, employees, shareholders and investors, environment and community, suppliers, and government—with the Board of Trustees at the centre balancing short-term shareholder interests against long-term stewardship.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -72,8 +73,15 @@ thinker_mentions:
       - quote: "The booklet's rendered pages cover the introduction by Minoo R. Shroff and Aga's address through the 'Government' section"
         context: "Shroff named as the introducer who frames the lecture within the Forum's programme"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the 37th A. D. Shroff Memorial Lecture in Mumbai on 5 November 2003 and published by the Forum of Free Enterprise, Anu Aga's address makes a brisk, example-driven case for Corporate Social Responsibility as the 'saner alternative' to a narrow, profit-only conception of business. Aga frames CSR not as charity or PR but as a stewardship obligation that flows from the fact that companies draw their talent, customers and licence-to-operate from the wider community. She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined, and that the live question today is not whether but how CSR should be measured, audited and reported.

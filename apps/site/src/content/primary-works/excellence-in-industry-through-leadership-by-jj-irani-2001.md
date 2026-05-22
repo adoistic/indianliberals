@@ -4,7 +4,8 @@ title:
   main: EXCELLENCE IN INDUSTRY THROUGH LEADERSHIP
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - jj-irani
 editors: []
 contributors: []
 related_thinkers: 
@@ -34,7 +35,7 @@ themes:
   - corporate-social-responsibility
   - globalisation
 summary: "Excellence in Industry Through Leadership is the text of the 35th A. D. Shroff Memorial Lecture, delivered by Dr. J. J. Irani — then a Director of Tata Sons and former Managing Director of Tata Iron & Steel Co. (TISCO) — at the Forum of Free Enterprise in Mumbai on 1 November 2001. Irani uses the occasion to argue against the orthodoxy, most famously expressed by Milton Friedman, that \"the business of business is business.\" He concedes the importance of profit as a motive but rejects single-minded profit maximisation as a long-term recipe for disaster, insisting that the legitimate purpose of industry is to serve customers, employees, the community and the nation — with profit and wealth as the natural by-product of excellence pursued in that spirit.\n\nThe lecture is organised around five tenets Irani says he has lived by: serve stakeholders first; recycle wealth back into the community; protect and enhance the environment; lead by example; and treat Change as the only constant.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -63,8 +64,15 @@ thinker_mentions:
       - quote: cites successors R. D. Tata, JRD Tata, and current chairman Ratan Tata as keeping that tradition alive
         context: JRD Tata named as one of the guardians of the Tata ethical tradition Irani invokes
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Excellence in Industry Through Leadership is the text of the 35th A. D. Shroff Memorial Lecture, delivered by Dr. J. J. Irani — then a Director of Tata Sons and former Managing Director of Tata Iron & Steel Co. (TISCO) — at the Forum of Free Enterprise in Mumbai on 1 November 2001. Irani uses the occasion to argue against the orthodoxy, most famously expressed by Milton Friedman, that "the business of business is business." He concedes the importance of profit as a motive but rejects single-minded profit maximisation as a long-term recipe for disaster, insisting that the legitimate purpose of industry is to serve customers, employees, the community and the nation — with profit and wealth as the natural by-product of excellence pursued in that spirit.

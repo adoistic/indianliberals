@@ -35,7 +35,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -45,6 +45,13 @@ summary: |-
   The lead bloc of the issue addresses two pieces of legislation then in the news. The cover essay "Gujaratma Maovad?" (Maoism in Gujarat?), co-signed by Ambrish and Trupti, scrutinises the Surat police's arrests of 8–10 alleged Maoists and the wider claim that the CPI(Maoist) has gained a foothold among South Gujarat's adivasis. Drawing on their own years of work with the adivasi mahasabha and activists like Avinash Kulkarni, the authors argue that the FIR is built on anonymous "members" of banned outfits, that the real grievance is forest-rights and land dispossession, and that genuinely democratic adivasi organising is being recast as insurgency. A companion piece by Trupti Parekh on the Women's Reservation Bill (passed in the Rajya Sabha on 8 March 2010) lays out the constitutional architecture of one-third reservation in the Lok Sabha and state assemblies, weighs the affirmative-action case for gender equality against the Yadav-Mulayam objection that OBC and minority women will be squeezed out, and asks what "democratic suitability" the reform actually delivers.
 
   Further essays cover khap panchayat fatwas and honour killings in Haryana after the Mirchpur and Karnal cases, Madhu Purnima Kishwar and Barkha Mishra on the politics of women's reservation, Cleavia Andrews on the journey "from Shah Bano to Shabana" of Muslim women's rights, Mahboob Desai on Sufi-inspired Gujarati sant literature, M.J. Akbar on whom fatwas are issued against, and tributes to mathematician Prof. P.U. Vaidh and others. The issue's overall stance is recognisably liberal-constitutionalist: defend due process, push back against majoritarian and caste-patriarchal informal authority, and insist that adivasi and Muslim citizens be treated as rights-bearers rather than security problems.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

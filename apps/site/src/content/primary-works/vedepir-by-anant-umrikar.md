@@ -3,7 +3,8 @@ id: "vedepir-by-anant-umrikar"
 title: 
   main: "'Vedepir' by Anant Umrikar"
 work_type: "book"
-authors: []
+authors:
+  - anant-umrikar
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -45,6 +46,13 @@ summary: |-
   Each chapter is named for a single activist — Hemant, Lahoti, Sarojtai, Vinay Hardikar, Sir, MLA Wamanrao, Bapu, Nana, Bhau, Vaijnathrao, Madhavrao More, Govindbhau, Shailatai, Baban Shelar — followed by an appendix of pen-portraits of Anant Umrikar himself by Indrajit Bhalerao. The opening chapter on Hemant Deshmukh recounts how a young man from a prosperous farming family near Dhanora (Nanded) abandoned modern mechanised farming after government policy made it unviable, was drawn to Sharad Joshi's Parbhani convention, and became the Sanghatana's contact-organiser in Aurangabad until his sudden death in April 2002. The Lahoti chapter portrays Purushottam Lahoti of Vasmat, a small-town Rajasthani-origin shopkeeper turned full-time agitator who led water-bill and land-revenue boycott marches across Parbhani–Hingoli–Jalna districts and ran the 1994 Jalna election campaign for the Sanghatana's tribal woman candidate.
 
   The portraits combine warm memoir, village reportage and political argument. Through them Umrikar communicates the Sanghatana's core economic case — that Indian agriculture is impoverished by state price controls, monopoly procurement and obstructive bureaucracy — while honouring the irrational devotion ('vedepeer') of the foot-soldiers who carried Sharad Joshi's freedom-of-the-farmer message into Marathwada's villages. The book sits in the Marathi liberal-populist tradition of Sanghatana writing and was honoured with the N.C. Kelkar Prize of the Kesari-Maratha Sanstha in 2003.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

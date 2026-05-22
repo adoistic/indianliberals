@@ -4,7 +4,8 @@ title:
   main: Free Enterprise and Freedom
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - murarji-vaidya
 editors: []
 contributors: []
 related_thinkers: 
@@ -28,7 +29,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Free Enterprise and Freedom is a short polemical pamphlet (No. 2 in the Forum of Free Enterprise series) reproducing an article by Murarji J. Vaidya from The Times of India of 30 March 1956. Its subject is the draft outline of the Second Five-Year Plan and, more pointedly, the Planning Commission's commitment to the \"Socialist Pattern of Society\" adopted at the Avadi session of the Congress. Vaidya quotes the Commission's own framing at length to show how programmatically the planners have absorbed the Avadi resolution into the basic criterion for what counts as economically advanced.\n\nThe argumentative core is that simultaneously evolving democracy and a socialist pattern in an \"underdeveloped economy working under an infant democracy\" is historically unproven and dangerous.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -51,8 +52,15 @@ thinker_mentions:
         what_it_shows: "Vaidya's central constitutional-liberal objection to the Second Plan"
       - quote: there is no reason to believe that concentrating economic power in the hands of a few politicians and bureaucrats will yield better results than the supposed concentration already deplored in a few capitalists
         what_it_shows: "Vaidya's rhetorical inversion of the planners' own anti-concentration logic"
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Free Enterprise and Freedom is a short polemical pamphlet (No. 2 in the Forum of Free Enterprise series) reproducing an article by Murarji J. Vaidya from The Times of India of 30 March 1956. Its subject is the draft outline of the Second Five-Year Plan and, more pointedly, the Planning Commission's commitment to the "Socialist Pattern of Society" adopted at the Avadi session of the Congress. Vaidya quotes the Commission's own framing at length to show how programmatically the planners have absorbed the Avadi resolution into the basic criterion for what counts as economically advanced.

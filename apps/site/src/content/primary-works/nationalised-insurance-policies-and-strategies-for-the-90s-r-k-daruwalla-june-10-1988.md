@@ -4,7 +4,8 @@ title:
   main: NATIONALISED INSURANCE
   subtitle: "POLICIES & STRATEGIES FOR THE '90S"
 work_type: speech
-authors: []
+authors:
+  - r-k-daruwalla
 editors: []
 contributors:
   - role: author
@@ -48,7 +49,17 @@ physical:
   format: Booklet / pamphlet reprint of an annual memorial public lecture; printed by S. V. Limaye at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay 400 023, published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust
 missing_metadata_flags:
   - no_toc_present
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - R. K. Daruwalla
+  stubs_created:
+    - r-k-daruwalla
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered on 28 April 1988 as the annual A. D. Shroff Memorial Trust lecture and published as a booklet by the Trust two months later, R. K. Daruwalla — a former Chairman of the General Insurance Corporation of India who had spent over forty-five years in the insurance industry — uses the platform to argue that the nationalised insurance industry, having matured since the takeovers of 1956 (life) and 1971/72 (general), now needs a structural rethink before the 1990s. His framing is striking for an insider: rather than relitigate the merits of nationalisation, he treats consolidation as its single most significant gain, then turns to why the existing GIC structure — four subsidiaries each writing every class of business — is no longer fit for the decade ahead.

@@ -4,7 +4,8 @@ title:
   main: A New Approach to Overcome Constraints on Private Sector
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - rd-aga
 editors: []
 contributors: []
 related_thinkers:
@@ -31,7 +32,7 @@ themes:
   - economic-policy
   - entrepreneurship
 summary: "Delivered at the Eleventh Annual Convention of the Bombay Management Association on 3rd December 1980 and reissued as a Forum of Free Enterprise pamphlet, R. D. Aga's address recasts the standard Indian industrialist's grievance list — MRTP, FERA, licensing, price controls, FERA, labour and tax law — as a self-defeating monologue. Aga, chairman and managing director of Thermax (India), opens by distinguishing the entrepreneur from the administrator: the administrator treats boundary conditions as given, while the entrepreneur stretches them. From this distinction he argues that the post-1950 Indian preoccupation with external constraints, far from being an honest diagnosis, has become a cultural reflex that crowds out the search for opportunities.\n\nThe argument is then made empirically. Drawing on the Assocham Parliamentary Digest's data for the twenty largest industrial houses under MRTP Section 26 (1972–78) and on Bombay Stock Exchange data for twelve large multinationals under FERA (1972–79), Aga shows wide dispersion in asset growth, turnover and profit before tax within both groups — from declines and losses at the bottom to gains of 200–300 per cent at the top.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -47,7 +48,15 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_isbn_visible
   - colophon_not_yet_rendered
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered at the Eleventh Annual Convention of the Bombay Management Association on 3rd December 1980 and reissued as a Forum of Free Enterprise pamphlet, R. D. Aga's address recasts the standard Indian industrialist's grievance list — MRTP, FERA, licensing, price controls, FERA, labour and tax law — as a self-defeating monologue. Aga, chairman and managing director of Thermax (India), opens by distinguishing the entrepreneur from the administrator: the administrator treats boundary conditions as given, while the entrepreneur stretches them. From this distinction he argues that the post-1950 Indian preoccupation with external constraints, far from being an honest diagnosis, has become a cultural reflex that crowds out the search for opportunities.

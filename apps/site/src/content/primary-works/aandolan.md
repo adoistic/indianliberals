@@ -3,7 +3,8 @@ id: "aandolan"
 title: 
   main: "Aandolan"
 work_type: "book"
-authors: []
+authors:
+  - anant-umrikar
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -45,6 +46,13 @@ summary: |-
   The political argument the book carries is the Sharad Joshi line that the author calls a defence of mukta arthavyavastha — the free-market economy — against the dirigiste consensus of the time. In the preface (Manogat) Umarikar notes that Marathi literature has only thinly registered the Shetkari Sanghatana's thinking on free markets, and that the views the movement advances against the prevailing Indian economic orthodoxy are 'also our views, even when they go against the grain'. The third edition, he writes, is offered to a new generation that is once again curious about the farmers' movement and the free-market arguments of the preceding decades, on the eve of the Sanghatana's Aurangabad convention. Essays from his earlier volume 'Vaatchaal' are folded in.
 
   The opening essay reconstructs the Parbhani organising work of 1983–84 in granular detail: Sarvodaya veteran Prasadji of Vasmat drawing the young lawyer in; the local karyakarta network around Bhaskarbhau Borawake, Shrirangrao More, Sheshrao Mohite and the Krishi Vidyapeeth students; the door-to-door propaganda on bicycles from villages around Parbhani; the building of a fourteen-foot Sharad Joshi cut-out and a forty-foot stage on the Marathwada Prashala grounds; and the February 1984 inter-state Kisan Samanvay Samiti meeting that drew delegates from Punjab, Haryana, Gujarat, Andhra, Karnataka and Madhya Pradesh. Folk-style ballads composed for Joshi are quoted at length. The texture is reminiscence rather than tract — small portraits of jahagirdars, journalists, students and Congress-versus-BJP village politics — but the cumulative case is that the farmers' agitation was the seedbed in Maharashtra for what the author frames as an indigenous free-market politics.
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

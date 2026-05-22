@@ -4,7 +4,8 @@ title:
   main: CENTRAL PLANNING AND ECONOMIC DEVELOPMENT
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - peter-bauer
 editors: []
 contributors: []
 related_thinkers: 
@@ -32,7 +33,7 @@ themes:
   - state-intervention
   - development-economics
 summary: "Delivered on 2 February 1970 as the first Murarji J. Vaidya Memorial Lecture in Bombay and published by the Forum of Free Enterprise on 12 August 1970, this lecture by Peter Bauer of the London School of Economics is a frontal attack on the axiom — then dominant in development economics — that Comprehensive Central Planning, understood as state control of the composition of economic activity, is indispensable for the development of poor countries. Bauer takes Gunnar Myrdal as his principal target and treats the unanimity of governments, economists and aid agencies around this doctrine as itself the problem rather than evidence of its correctness, ranging Milton Friedman alongside himself as a dissenter and pointing to Japan, Hong Kong, Malaysia, Thailand and parts of West Africa as cases of substantial material progress achieved without comprehensive planning.\n\nThe constructive core of the lecture argues that comprehensive planning does not augment resources but centralises and actually creates power, replacing the decentralised decisions of consumers and producers with the choices of civil servants and politicians.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -51,8 +52,15 @@ thinker_mentions:
       - quote: ranging Milton Friedman alongside himself as a dissenter and pointing to Japan, Hong Kong, Malaysia, Thailand and parts of West Africa as cases of substantial material progress achieved without comprehensive planning
         context: opening section establishing the intellectual landscape; Friedman is explicitly named as a co-dissenter from the planning orthodoxy Bauer is challenging
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered on 2 February 1970 as the first Murarji J. Vaidya Memorial Lecture in Bombay and published by the Forum of Free Enterprise on 12 August 1970, this lecture by Peter Bauer of the London School of Economics is a frontal attack on the axiom — then dominant in development economics — that Comprehensive Central Planning, understood as state control of the composition of economic activity, is indispensable for the development of poor countries. Bauer takes Gunnar Myrdal as his principal target and treats the unanimity of governments, economists and aid agencies around this doctrine as itself the problem rather than evidence of its correctness, ranging Milton Friedman alongside himself as a dissenter and pointing to Japan, Hong Kong, Malaysia, Thailand and parts of West Africa as cases of substantial material progress achieved without comprehensive planning.

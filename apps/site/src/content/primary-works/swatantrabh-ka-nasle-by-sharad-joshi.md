@@ -3,7 +3,8 @@ id: "swatantrabh-ka-nasle-by-sharad-joshi"
 title: 
   main: "'Swatantrabh ka Nasle' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -48,6 +49,13 @@ summary: |-
   This Marathi-language book by Sharad Joshi, the farmer-leader and founder of the Shetkari Sanghatana, is a polemical reckoning published in December 1998 by Renuka Prakashan, Parbhani, on the occasion of the fiftieth anniversary of Indian independence. The title — Swatantrya ka Nasale? ("Did Independence Decay?") — frames the central question: half a century after 15 August 1947, why has the promised dawn turned into stagnation, sectarian violence, agrarian distress, and a directionless economy? Joshi writes from his ashram at Angarmala (Ambethan, Pune district) and addresses readers in the wake of the Vajpayee government's accession, the November 1998 state elections, the May 1998 Pokhran nuclear tests, and a wave of farmer suicides — events he treats as symptoms of a deeper political failure.
 
   The book is organised as eleven essays (listed in the anukramanika): on the appointment with destiny, self-examination and self-deception, the various currents within the swaraj movement, "Bhataahi samajwad" (priestly socialism) in place of Gandhism, the loss of liberty after independence, savarna-convenient democracy, a "second partition," the Chitragouri workshop, the train derailed, English rule continuing under a new guise, and the looting that began before the flag was even raised. Joshi advances a revisionist thesis: the Congress was always an urban, Westernised, propertied formation; its leadership inherited the colonial state and substituted a "Brahmanical socialism" for Gandhi's village-and-Sarvodaya vision, sidelining peasants, Adivasis, Muslims, Dalits and women. He marshals comparative GDP figures (India's per-capita against Korea, Singapore, Malaysia, Thailand, China, even Bangladesh) to argue that countries which were poorer than India in 1947 have left it behind, and that Nehruvian planning, licence-raj socialism, and now Hindutva-flavoured statism are continuous expressions of upper-caste bureaucratic rule. He calls for a "second republic" and a second freedom struggle — a constitutional refoundation in the name of the bahujan samaj. The book sits squarely in the liberal-cum-agrarian critique of post-1947 dirigisme that Joshi pioneered through the Shetkari Sanghatana and later the Swatantra Bharat Paksh.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

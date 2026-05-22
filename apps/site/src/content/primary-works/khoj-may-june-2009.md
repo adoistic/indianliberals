@@ -40,7 +40,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-may-june-2005.pdf"
 needs_extraction: false
@@ -50,6 +50,13 @@ summary: |-
   The issue is built around the post-election moment. Ashwinkumar N. Karia opens with a long essay on "election times" and the duty of Lok Sabha candidates to be accountable to citizens, listing ten concrete failures of the rule of law in India and ten reform proposals — from culling obsolete laws to making MPs answer to their constituents between elections. Ambrish Mehta's lead political essay, "Election Results: Signals and Challenges," reads the 2009 verdict as a decisive rejection of caste- and communal-bloc politics in favour of a more developmental, governance-focused mandate, drawing on Shekhar Gupta and Thomas Friedman to argue that aspiration has displaced grievance. Ramachandra Guha contributes "India… meri jaan… Fifty… Fifty…," a translated reflection on whether India is genuinely democratic, answering "fifty-fifty" — democratic in elections and individual rights, much less so in the conduct of parties and institutions.
 
   Other pieces include Shekhar Gupta on Manmohan Singh's signature work, the Gujarati abridgement of the first two chapters of Tooley's The Beautiful Tree, Ashwin Karia on the Right to Education Bill, Javed Anand on Islam (beards, burqas, or the thirst for knowledge?), Trupti Parekh on Dr. Binayak Sen's bail, Dinesh Shukla on what Marx might have advised the G-20, Jayanti Patel reviewing Gandhi, Alvida?, and a short story by Kardam R. Modi. The issue sits squarely in the classical-liberal current of post-2008 Gujarati public intellectual life — pro-market, sceptical of state monopoly in education, defensive of civil liberties, and explicitly indebted to Cato Institute material.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

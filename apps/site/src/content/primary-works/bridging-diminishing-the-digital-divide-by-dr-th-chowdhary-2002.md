@@ -4,7 +4,8 @@ title:
   main: BRIDGING (DIMINISHING) THE DIGITAL DIVIDE
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-th-chowdhary
 editors: []
 contributors: []
 related_thinkers: []
@@ -25,7 +26,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Dr. T. H. Chowdary's lecture, delivered in Mumbai on 16 August 2002 under the joint auspices of the Forum of Free Enterprise and the Indian Merchants' Chamber, reframes the much-discussed 'digital divide' as a tractable policy problem rather than an indictment of technology. He opens with a long historical arc — from oral transmission to Gutenberg's moving type, from libraries to electronified information — to argue that prosperity has always tracked the diffusion (not the concentration) of knowledge. The 19th-century take-off in per-capita world GDP, charted from Angus Maddison's data, is for him the visible signature of widely accessible information and skill.\n\nHe then walks through the cost economics of telecommunications: the dramatic fall in trans-Atlantic cable costs from 1956 to 1996, the collapse in storage costs per megabyte, the rise of optical-fibre and satellite backbones, and the convergence of voice, video, text and data on the Internet.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -40,7 +41,15 @@ missing_metadata_flags:
   - no_explicit_publication_year_on_rendered_pages
   - no_colophon_in_chunk
   - no_isbn_visible
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. T. H. Chowdary's lecture, delivered in Mumbai on 16 August 2002 under the joint auspices of the Forum of Free Enterprise and the Indian Merchants' Chamber, reframes the much-discussed 'digital divide' as a tractable policy problem rather than an indictment of technology. He opens with a long historical arc — from oral transmission to Gutenberg's moving type, from libraries to electronified information — to argue that prosperity has always tracked the diffusion (not the concentration) of knowledge. The 19th-century take-off in per-capita world GDP, charted from Angus Maddison's data, is for him the visible signature of widely accessible information and skill.

@@ -4,7 +4,8 @@ title:
   main: "EUROPEAN ECONOMIC & MONETARY INTEGRATION"
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - s-l-n-sinha
 editors: []
 contributors: []
 related_thinkers:
@@ -31,7 +32,7 @@ themes:
   - economic-integration
   - international-economics
 summary: "S.L.N. Simha, former Principal Adviser to the Reserve Bank of India, reviews the fifty-year arc of European economic and monetary integration in a Forum of Free Enterprise booklet that reprints his January–March 1999 paper from the Indian Economic Journal. He frames the European achievement as a deliberate reproach to India: nations that fought repeated wars now bind themselves through mutual trust, a single market and a common currency, while Indian states cannot agree on river-water sharing, district boundaries or tehsil limits, producing only committees, walk-outs, bandhs, morchas and rasta roko. The opening pages position the study less as economic reportage than as an exhortation to Indian economists and policymakers to learn from Europe at a moment of accelerating globalisation.\n\nThe narrative tracks integration from the Marshall Plan and the European Payments Union, through the European Coal and Steel Community of the early 1950s, the Treaty of Rome (1957) that created the EEC, the Single European Act (1987), and on to the Maastricht Treaty (1992), the renaming of the Community as the European Union (1993) and the launch of the Euro on 1 January 1999.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -46,7 +47,15 @@ missing_metadata_flags:
   - publication_year_not_printed
   - ffe_series_number_not_visible
   - author_not_in_authority_subset
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 S.L.N. Simha, former Principal Adviser to the Reserve Bank of India, reviews the fifty-year arc of European economic and monetary integration in a Forum of Free Enterprise booklet that reprints his January–March 1999 paper from the Indian Economic Journal. He frames the European achievement as a deliberate reproach to India: nations that fought repeated wars now bind themselves through mutual trust, a single market and a common currency, while Indian states cannot agree on river-water sharing, district boundaries or tehsil limits, producing only committees, walk-outs, bandhs, morchas and rasta roko. The opening pages position the study less as economic reportage than as an exhortation to Indian economists and policymakers to learn from Europe at a moment of accelerating globalisation.

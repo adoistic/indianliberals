@@ -4,7 +4,8 @@ title:
   main: NATIONALISATION AT THE CROSSROADS
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - amul-desai
 editors: []
 contributors: []
 related_thinkers:
@@ -47,7 +48,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - theme_vocabulary_not_provided
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Amul Desai
+  stubs_created:
+    - amul-desai
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Prof. Amul Desai's lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on December 19, 1961, surveys the worldwide retreat from nationalisation and argues that India should rethink its commitment to state ownership as an instrument of socialism. Desai opens by historicising Marx: when Das Capital was written, labour had no right to organise or vote, parliamentary democracy was a fiction, and the welfare state did not yet exist — so violent overthrow of the capitalist order appeared to be the only remedy. With trade unionism, social legislation, adult franchise and labour parties returned by ballot, that case has collapsed, and class conflict can no longer be assumed the inevitable corollary of capitalism.

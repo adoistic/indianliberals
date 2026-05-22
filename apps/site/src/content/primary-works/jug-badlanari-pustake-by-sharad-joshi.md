@@ -3,7 +3,8 @@ id: "jug-badlanari-pustake-by-sharad-joshi"
 title: 
   main: "'Jug Badlanari Pustake' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -48,6 +49,13 @@ summary: |-
   The essays are organised around individual works and authors that Joshi treats as foundational for any liberal, market-oriented worldview: Adam Smith's Wealth of Nations and Theory of Moral Sentiments; Hayek's Road to Serfdom and Nature and Significance of Economic Science (Robbins); Samuelson's Economics textbook; Thomas Paine's Common Sense; Darwin's Origin of Species; Thoreau and the duty of satyagraha; Jotiba Phule; Marx and Malthus as foils; Keynes's Economic Consequences of the Peace; Mises, Schumpeter, Robinson Crusoe as a parable of property; Orwell's Animal Farm; Koestler; the Yes Minister / Yes Prime Minister books read as a critique of Rajiv Gandhi-era bureaucratic capture; and later additions like The Selfish Gene and The God Gene which he wishes he had also covered.
 
   For Joshi the common thread is vyaktigat swatantrya — individual freedom — as the bedrock of the Shetkari Sanghatana's economics: no two human experiences are commensurable, no guru or seer can plan a society, and the farmer's demand for remunerative prices is inseparable from the wider demand for freedom from state controls in production and the marketplace. The collection thus doubles as an annotated syllabus of classical liberal and free-market thought rendered into accessible Marathi, and as a record of how Joshi grounded a peasant movement in that intellectual lineage.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -4,7 +4,8 @@ title:
   main: Finance Companies
   subtitle: Agenda for Urgent Action
 work_type: speech
-authors: []
+authors:
+  - dr-ac-shah
 editors: []
 contributors: []
 related_thinkers: 
@@ -27,7 +28,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Delivered as a talk at the Forum of Free Enterprise in Mumbai on 24th July 1997 and published as a booklet on 15 July 1997, Dr. A. C. Shah's address takes stock of India's Non-Banking Financial Companies (NBFCs) in the aftermath of the CRB scam and the sweeping 1997 amendment to the Reserve Bank of India Act. Speaking as a former Chairman and Managing Director of Bank of Baroda and Chairman of the RBI Committee on NBFCs, Shah argues that the industry — although the youngest member of India's financial sector, with an asset base of over Rs.50,000 crores and a deposit base of about Rs.18,000 crores — is being unfairly tarred by the misconduct of a single firm and is now under severe liquidity stress as deposits dry up, withdrawals accelerate, and banks adopt a 'wait and watch' posture.\n\nShah's central plea is that the process of deregulation initiated over the previous four years not be reversed: RBI should tighten and clarify entry norms (the new Net Owned Funds threshold of Rs.25 lakhs is endorsed) while protecting well-managed NBFCs from collective punishment.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -53,8 +54,15 @@ thinker_mentions:
       - quote: "Closes with RBI Governor Dr. C. Rangarajan's observation that NBFCs' success ultimately depends on 'management capabilities, observance of financial discipline and effective deployment of funds.'"
         context: "Rangarajan's words used as the booklet's final word on what determines NBFC viability"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as a talk at the Forum of Free Enterprise in Mumbai on 24th July 1997 and published as a booklet on 15 July 1997, Dr. A. C. Shah's address takes stock of India's Non-Banking Financial Companies (NBFCs) in the aftermath of the CRB scam and the sweeping 1997 amendment to the Reserve Bank of India Act. Speaking as a former Chairman and Managing Director of Bank of Baroda and Chairman of the RBI Committee on NBFCs, Shah argues that the industry — although the youngest member of India's financial sector, with an asset base of over Rs.50,000 crores and a deposit base of about Rs.18,000 crores — is being unfairly tarred by the misconduct of a single firm and is now under severe liquidity stress as deposits dry up, withdrawals accelerate, and banks adopt a 'wait and watch' posture.

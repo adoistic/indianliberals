@@ -4,7 +4,8 @@ title:
   main: "DANGER OF OUTMODED SOCIALISM TO INDIA'S WELFARE"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - murarji-vaidya
 editors: []
 contributors: []
 related_thinkers:
@@ -34,7 +35,7 @@ themes:
   - inflation
   - economic-policy
 summary: "Murarji J. Vaidya's 1966 presidential address to the Forum of Free Enterprise — published as a pamphlet in January 1967 — diagnoses India's mid-1960s economic crisis as the cumulative consequence of the 'so-called socialist economic ideology' embraced by the Government since 1955. Writing in the wake of the rupee devaluation, runaway food imports, soaring prices and an aborted Third Plan, Vaidya argues that centralised comprehensive planning has produced not equality but inflation, food scarcity, capital flight and the political concentration that he sees as freedom's first casualty in self-described 'People's Democratic Republics.'\n\nThe pamphlet marshals a battery of contemporary evidence — Reserve Bank price-rise figures, Parliamentary Committee reports on Public Undertakings, Audit Reports, World Bank and U.N. FAO assessments, and press accounts of agricultural waste — to indict deficit financing, zonal trading barriers, monopoly procurement and the loss-making expansion of the Public Sector.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -48,7 +49,15 @@ physical:
 missing_metadata_flags:
   - colophon_not_seen
   - publication_year_of_pamphlet_not_printed_on_visible_pages
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Murarji J. Vaidya's 1966 presidential address to the Forum of Free Enterprise — published as a pamphlet in January 1967 — diagnoses India's mid-1960s economic crisis as the cumulative consequence of the 'so-called socialist economic ideology' embraced by the Government since 1955. Writing in the wake of the rupee devaluation, runaway food imports, soaring prices and an aborted Third Plan, Vaidya argues that centralised comprehensive planning has produced not equality but inflation, food scarcity, capital flight and the political concentration that he sees as freedom's first casualty in self-described 'People's Democratic Republics.'

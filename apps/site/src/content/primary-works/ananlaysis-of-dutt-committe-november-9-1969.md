@@ -44,7 +44,15 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number_visible
   - no_explicit_edition_statement
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Published by the Forum of Free Enterprise in November 1969, this short booklet bundles two journalistic critiques of the Dutt Committee Report on Industrial Licensing. The first piece, by an unnamed "Special Correspondent" reproduced from the Indian Express, argues that the Committee's loaded terms of reference produced a document whose summary recommendations do not flow from its own factual analysis. Marshalling the Committee's own tables — the 23.8 per cent share of licences held by the 73 large houses and their second tiers, the 4.2 per cent share of the large independents, the 9.3 per cent and 6 per cent rates of non-implementation respectively — the correspondent contends that on every numerical criterion (share of licences, share of capital goods imports, rates of rejection and non-implementation) the large industrial sector performed at least as well as, and often better than, the rest of the private sector, the small-scale sector and the public sector. The villainising of "large houses" therefore rests on rhetoric rather than data, and the report's failure to summon witnesses or examine demand-forecasting reflects a methodological vacuum that the Monopolies Bill and bank nationalisation have, in any case, already overtaken.

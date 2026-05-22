@@ -41,7 +41,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-may-june-2005.pdf"
 needs_extraction: false
@@ -51,6 +51,13 @@ summary: |-
   The issue's lead concern is the relationship between forests and India's adivasis. The cover story ‘Jangal madhye adivasi’ (‘The Adivasi in the Forest’) by Trupti Parekh investigates the long-running blame placed on tribal communities for forest destruction in the Narmada catchment and elsewhere, arguing instead that colonial and post-colonial forest-department management — including the timber-contractor system and current ‘working plans’ — caused the damage, and that adivasis must be given secure rights for any sustainable forest regime to work. A companion editorial discusses the tiger's disappearance from Sariska and the Centre's draft on tribal forest rights.
 
   The issue also opens a major series, ‘Swatantrata – Gnyan ane Bazaar’ (‘Liberty – Knowledge and the Market’) by Anil Patel, growing out of a 2003 GIDR (Ahmedabad) seminar with Sudarshan Iyengar. Part 1 lays out four conceptions of liberty — individual, political, inner, and economic-power-as-liberty — drawing on Auden, C. Bay, John Dewey and Hayek, and defends the free market as the only rational and humane development alternative against both Nehruvian central planning and the Gandhi–Vinoba Sarvodaya ‘third way’. A translated chapter from Hayek's Road to Serfdom (‘Individualism and Collectivism’) accompanies it. Other pieces include Sudarshan Iyengar and Nimisha Shukla on whether ‘sustainable development’ can be sustained, a sceptical-environmentalist column by Ambarish Mehta in the vein of Bjørn Lomborg, an Anil Patel note on the Advani–Jinnah controversy and India–Pakistan reconciliation, and an extensive readers' letters section responding to the inaugural March–April 2005 issue (including Kanti Shah, Kumar Bhatt, Vimla Thakar and others).
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

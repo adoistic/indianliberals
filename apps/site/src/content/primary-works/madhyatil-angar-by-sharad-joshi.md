@@ -3,7 +3,8 @@ id: "madhyatil-angar-by-sharad-joshi"
 title: 
   main: "'Madhyatil Angar' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -46,6 +47,13 @@ summary: |-
   The essays — 'Sharad Joshi, Shetkari Sanghatana ani Mazhi Kavita' (Sharad Joshi, the Farmers' Organisation, and My Poetry), a piece on the book 'Angarmala', a note on 'Shetkaryancha Raja Shivaji', and a longer history titled 'Yoddha Shetkari' (The Warrior Farmer) — trace how Bhalerao first encountered Joshi's economic ideas in the early 1980s through Sarvodaya activist Gangaprasadji Agrawal at Vasmat's Bahirji Smarak Mahavidyalaya, attended the Parbhani conventions of 1984, and gradually absorbed Joshi's argument that India's rural distress was caused by deliberately suppressed farm prices and policy-engineered terms of trade against agriculture. The author repeatedly contrasts Joshi's rigorous agrarian-economics framework — including his advocacy of globalisation as a route to freeing the Indian farmer from a domestic anti-peasant regime — with his own more emotional, village-rooted sympathy for the same cause.
 
   Written in plain, conversational Marathi prose, the book functions both as a literary memoir and as an oral-history record of how Joshi's liberal, market-oriented critique of Nehruvian agricultural policy reached small towns of Marathwada through study circles, public rallies, Kojagiri poetry nights and literary conferences. Bhalerao places Joshi alongside Bhaskar Chandanshiv, Vinay Hardikar, Amar Habib, Sheshrao Mohite, Shrikant Deshmukh and Anant Umrikar as one of the few writers who carried the Shetkari Sanghatana's ideas into Marathi literature, and frames the movement as a distinct strand within India's broader liberal tradition — one that spoke for the cultivator against the planned economy.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -3,7 +3,8 @@ id: "anavyartha-1"
 title: 
   main: "Anavyartha: 1"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -51,6 +52,13 @@ summary: |-
   In his preface dated 8 February 2010, Joshi explains that virtually all his earlier book-length writing arose out of the Shetkari Sanghatana, defending agriculture as the site of state extraction. The newspaper editor who commissioned this column, however, asked him to write about anything except farming, and the present volume is the result: a panorama of his liberal worldview applied beyond the field. Joshi's signature thesis - that the entire post-Independence Indian governance system was built to loot the surplus produced in agriculture, with the licence-permit-quota raj installed under socialist slogans only deepening the older colonial extraction - recurs as the lens through which he reads news of the day. He invokes Ayn Rand on the fate of the productive in democracies that reward the welfare-seeking voter, and Malthus on technology and population, to argue that bureaucratic socialism is itself the parent of the corruption, terrorism and communal turbulence Indians complain about.
 
   The essays range across the demolition of the Babri Masjid (read through the figure of the abandoned Sita), the autonomy of universities and the Pune University bill, the Dunkel draft and WTO, secularism and the meaning of 'Hindu', dowry, property rights, Narasimha Rao's reforms, Bill Clinton, Mao as the villain of communist history, electronic journalism, Shiv Sena, the Bombay Club's opposition to liberalisation, and the women's movement. Throughout, Joshi defends open markets, technology, decentralisation and individual enterprise against what he calls the 'arrogance' of the planner-bureaucrat-intellectual class, locating his liberalism squarely in the lived experience of the Indian cultivator.
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

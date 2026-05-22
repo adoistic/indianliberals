@@ -4,7 +4,8 @@ title:
   main: INDUSTRIAL FINANCE IN A MIXED ECONOMY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - g-l-mehta
 editors: []
 contributors:
   - role: introduction
@@ -43,7 +44,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_subset
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - G. L. Mehta
+  stubs_created:
+    - g-l-mehta
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 "Industrial Finance in a Mixed Economy" is the inaugural A. D. Shroff Memorial Address, delivered by G. L. Mehta in Bombay on 14 March 1972 and published the following month by the A. D. Shroff Memorial Trust under N. A. Palkhivala's chairmanship. Mehta — then Special Adviser to ICICI and its former Chairman — opens with a personal tribute to Shroff, his contemporary at Elphinstone College and the London School of Economics, recalling Shroff's role in the Bretton Woods delegation of 1944 (led by Sir Jeremy Raisman, with Chintaman Deshmukh and Shanmukham Chetty), the 1953 Reserve Bank enquiry into private-industry finance, the Bombay Plan and the founding Steering Committee of ICICI.

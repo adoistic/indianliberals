@@ -43,7 +43,7 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/khulya-vayvasthekade-khulya-manane.pdf"
 needs_extraction: false
@@ -53,6 +53,13 @@ summary: |-
   The book argues that India's 1991 liberalisation and the 1995 entry into the WTO/GATT framework were necessary and overdue, and that Sharad Joshi was — from the very start, when most opinion was suspicious — an unwavering advocate of globalisation and the open economy. The opening essay, 'Naane Nidhi — Ek Shevgyache Jhaad' (The IMF — A Drumstick Tree), attacks Nehruvian economics: the cult of state-led industrialisation, licence-permit raj, subsidies, exchange controls and the bureaucratic protection of inefficient public-sector factories. Joshi rejects the framing of 'Bharat versus India' in which an exploitative urban-industrial 'India' has been built on the back of an immiserated agricultural 'Bharat'.
 
   Subsequent chapters develop a sharp critique of fertiliser subsidies (which, he shows, end up in the pockets of fertiliser manufacturers rather than farmers), the cooperative sugar and dairy lobbies, the three-headed budget, the Dunkel draft and the French and Indian peasant responses to it, the WTO as battlefield, and the prospects of an open economy for Indian farmers. The closing pieces include 'Asadhya te Sadhya Karita Sayas' and reflective essays such as 'Vyakti-vikas idam, na alam?'. Throughout, Joshi insists that genuine reform requires dismantling the Nehruvian framework root and branch, and that farmers will only prosper when the state stops suppressing agricultural prices and lets them trade freely at home and abroad.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

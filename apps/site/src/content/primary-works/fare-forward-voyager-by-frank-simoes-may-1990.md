@@ -4,7 +4,8 @@ title:
   main: Fare Forward, Voyager...
   subtitle: A tribute to the memory of Vasudev Salgaocar
 work_type: book
-authors: []
+authors:
+  - frank-simoes
 editors: []
 contributors: []
 related_thinkers:
@@ -27,7 +28,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Frank Simoes's \"Fare Forward, Voyager...\" is a biographical tribute to the Goan industrialist Vasudev M. Salgaocar (1916-1984), published in May 1990 by the A.D. Shroff Memorial Trust as Volume 3 of its \"Builders of Indian Economy\" series. In the rendered pages — the dust jacket, family tree, copyright page, contents, epigraph, prologue and the opening of the first chapter \"Childhood's End\" — the book positions itself as a journey of discovery undertaken by the author, a fellow Goan, drawing on roughly one hundred and fifty interviews and two hundred hours of taped material to assemble what the jacket calls \"a democratic consensus\" on its subject.\n\nThe prologue, set in the pre-dawn hours of a single day at the Salgaocar mansion in Chicalim above Vasco da Gama, sketches the man at sixty-eight: a pioneer industrialist still negotiating with the Mormugao Port Trust, scanning the Financial Times and the Economist for international iron-ore signals, and dispatching telex messages to a grandchild.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -41,7 +42,15 @@ physical:
   format: Hardcover biography with dust jacket; tribute/memorial volume; spine identifies it as part of the Builders of Indian Economy Series, published by The A.D. Shroff Memorial Trust.
 missing_metadata_flags:
   - isbn_not_printed
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Frank Simoes's "Fare Forward, Voyager..." is a biographical tribute to the Goan industrialist Vasudev M. Salgaocar (1916-1984), published in May 1990 by the A.D. Shroff Memorial Trust as Volume 3 of its "Builders of Indian Economy" series. In the rendered pages — the dust jacket, family tree, copyright page, contents, epigraph, prologue and the opening of the first chapter "Childhood's End" — the book positions itself as a journey of discovery undertaken by the author, a fellow Goan, drawing on roughly one hundred and fifty interviews and two hundred hours of taped material to assemble what the jacket calls "a democratic consensus" on its subject.

@@ -37,7 +37,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-august-2006.pdf"
 needs_extraction: false
@@ -47,6 +47,13 @@ summary: |-
   The editorial by Ambrish Mehta links the monsoon failure across Gujarat-Mumbai-Maharashtra to a sustained inquiry into water scarcity, arguing (with reference to Bjorn Lomborg-style 'sceptical environmentalist' data) that the crisis is one of management rather than absolute availability. A continuation of the previous issue's 'Jangal madhye Adivasi' debate moves from centralised Forest Department control toward decentralised, community-based forest management, examined through the Sariska tiger debacle, the Tiger Task Force report, and Gujarat's draft forest policy - all read against a 'Guns and Guards' versus community-stewardship frame. The 'Swatantrata - Gyan ane Bajaar' (Liberty - Knowledge and the Market) series, written by Anil Patel, takes its second instalment here, tracing how the idea of individual liberty and rule of law was hammered out in 17th-century England against arbitrary state power, with epigraphs from Hayek's Constitution of Liberty and Gustav Radbruch on the Rechtsstaat.
 
   Other articles include Trupti Parekh on the Nanavati Commission report, Imrana, the bar girls controversy and individual liberty; Ambrish Mehta on whether the water problem is one of quantity or management; and Anil Patel's rejoinder to Sudarshan Iyengar and Nimisha Shukla's earlier piece on 'sustainable development,' deploying Julian Simon against the 'limits of resources' thesis. A long letters section shows the journal positioning itself as an intellectual forum for Gujarat's liberal-minded readers, with correspondents debating socialism vs. democratic socialism, solar energy, the Sardar Sarovar water-share dispute, and whether Khoj relies too heavily on foreign thinkers.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -4,7 +4,8 @@ title:
   main: INDIA HAS THE BEST EVER 15 YEARS AHEAD
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - r-gopalakrishnan
 editors: []
 contributors:
   - role: author
@@ -47,7 +48,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - isbn_not_printed
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - R. Gopalakrishnan
+  stubs_created:
+    - r-gopalakrishnan
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces an expanded version of R. Gopalakrishnan's Economic Times article of 2 March 2010, written at the time of that year's Union Budget. Gopalakrishnan — then Executive Director of Tata Sons — argues that India is poised for its best ever fifteen-year stretch of growth, framing the country's unusual choice to embrace democracy and constitutional liberalism before capitalism as climbing up the 'down' escalator: confusing in motion, but unambiguously upward. He marshals macro data (a trillion-dollar economy capable of doubling every seven to eight years, an 8 percent growth rate he calls a 'slam dunk', rising per-capita consumption, the cell-phone and two-wheeler revolutions, the doubling of rural non-agricultural employment) to argue that the Hindu rate of growth is now firmly behind India.

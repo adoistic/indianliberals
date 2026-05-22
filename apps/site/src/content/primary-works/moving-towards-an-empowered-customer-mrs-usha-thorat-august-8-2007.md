@@ -4,7 +4,8 @@ title:
   main: MOVING TOWARDS AN EMPOWERED CUSTOMER
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - usha-thorat
 editors: []
 contributors: []
 related_thinkers:
@@ -50,7 +51,17 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - no_series_number
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Usha Thorat
+  stubs_created:
+    - usha-thorat
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered on 27 June 2007 at the 3rd M. R. Pai Memorial Award Function in Mumbai and published the following August by the Forum of Free Enterprise, this address by Mrs. Usha Thorat, then Deputy Governor of the Reserve Bank of India, argues that 'customer empowerment' in Indian banking is a two-sided project — institutional design by regulators on one side, an alert and assertive citizenry on the other. Thorat opens with a tribute to M. R. Pai, the consumer activist whose campaigns from the 1970s onward — for the right to nominate, the right to retrieve fraudulently withdrawn money, the right to access a locker before drill-opening, the right to redress for negligent storage — are framed as the moral premise of the talk: 'Unless a citizen knows his rights and is willing to fight to assert them, he has no reason to complain.'

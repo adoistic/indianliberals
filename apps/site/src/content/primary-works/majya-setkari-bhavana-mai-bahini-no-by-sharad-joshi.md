@@ -3,7 +3,8 @@ id: "majya-setkari-bhavana-mai-bahini-no-by-sharad-joshi"
 title: 
   main: "'Majya Setkari Bhavana Mai Bahini No' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -47,6 +48,13 @@ summary: |-
   The opening speech, 'Bhakti, Yukti, Shakti ani Tin Varshat Mukti' (Devotion, Strategy, Strength and Liberation in Three Years), delivered at the 1981 Pimpalgaon Basavant victory rally in Nashik district, sets the template. Joshi reviews the recent agitations over onion, sugarcane, tobacco, and cotton prices, exposing the precise mechanisms by which the Centre kept procurement prices below cost — importing American wheat at higher rates than what Indian farmers were offered, importing 21 lakh tonnes of sugar to break the cane-price agitation, banning cotton exports to crush prices, and using cooperative sugar-factory chairmen and politicians like A. R. Antulay and Vasantdada Patil as instruments of this policy. He names ministers (Rao Birendra Singh, Bhagwantrao Gaikwad) and bureaucrats by name, cites exact figures (Rs 300 vs Rs 367 per tonne for cane, Rs 700 demanded vs Rs 200 offered for cotton), and lays out a three-front strategy of court litigation, special general-body meetings of cooperative factories, and statewide road blockades on 10 November 1981.
 
   Later speeches — from the Sangli–Mirja conference agenda to Aurangabad's 'Jnyanyaji Phalanishpatti' and the closing 'Ranavin Swatantrya Kona Milena' — broaden the canvas to the Bharat–India binary, the Bali-raja reconstruction programme, opposition to Nehruvian planning that produced kisan indebtedness, support for the entrepreneurial age of liberalisation, and the demand to scrap controls on land, credit, and trade. Together the volume functions as the political testament of India's most consequential post-Independence farmers' movement, arguing for economic freedom for agriculture as the precondition of any genuine swaraj.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

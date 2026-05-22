@@ -4,7 +4,8 @@ title:
   main: India Needs A Practical Economic Policy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - a-n-agarwala
 editors: []
 contributors: []
 related_thinkers:
@@ -47,7 +48,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - A. N. Agarwala
+  stubs_created:
+    - a-n-agarwala
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. A. N. Agarwala's presidential address to the XVIII session of the Indian Commerce Conference (Poona, January 1965), issued as a Forum of Free Enterprise booklet on 10 May 1965, diagnoses a worsening food and price crisis and argues that India needs a pragmatic — not doctrinaire — economic policy. Agarwala opens with hard numbers: a foodgrain production shortage of 8–14 million tons depending on the standard used, a market shortage projected at 14–20 million tons in 1964-65, an internal rupee value already down to 17 paise, and roughly 7% annual inflation since the start of the Second Plan. He insists that imports cannot close the gap, that government expenditure must be cut by about 10%, and that the Defence Budget be separated from the regular Revenue and Capital Budgets so that defence does not cannibalise development.

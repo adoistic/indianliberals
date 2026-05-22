@@ -4,7 +4,8 @@ title:
   main: FUNDAMENTAL CHANGES NEEDED IN ECONOMIC POLICY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - mh-mody
 editors: []
 contributors: []
 related_thinkers: []
@@ -30,7 +31,7 @@ summary: |-
   Mody's argument proceeds in two registers — short-run and long-run. In the immediate term he urges 'consolidation for growth': mobilising the Rs. 3,000–4,000 crores of production left unrealised in 1979–80 due to coal, power and transport bottlenecks, and appointing small task forces with overriding powers to cut through the licensing maze. He reserves particular scorn for the state sector, which had absorbed over Rs. 14,000 crores of investment yet delivered neither production nor profitability — a 'puny dwarf' atop the commanding heights. His remedy is not renationalisation but managerial liberation: allow the publicly-financed (private) sector to manage selected public undertakings on an experimental basis, especially in power generation and coal.
 
   For the longer run, Mody calls for a 7–8 per cent GNP growth target sustained by a 35 per cent investment rate, a declining capital-output ratio (from over 5 back toward 3), aggressive use of India's 20 per cent savings rate and international borrowing capacity, and turn-key imports of fertiliser, steel and telecommunications plant. He also addresses labour relations — 44 million man-days lost to strikes in 1979 — arguing for worker participation and a property right in jobs as the price of industrial truce. He closes with a warning that without the political will to abandon 'the left luggage of the socialists of the last generation,' none of these reforms will materialise.
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -44,7 +45,15 @@ physical:
 missing_metadata_flags:
   - no_toc_in_work
   - no_series_number_printed
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the keynote address at the Diamond Jubilee Symposium of the Associated Chambers of Commerce and Industry in New Delhi on 20 July 1980, and published by the Forum of Free Enterprise in September 1980, M. H. Mody's address opens with a bleak statistical reckoning. Three decades of planned development had yielded an average GNP growth rate of under 3 per cent annually, and a per capita income growth of just 0.6 per cent during the 1970s — placing India near the bottom of the World Bank's league table, behind Bangladesh and Pakistan. Industrial output barely grew 50 per cent over the decade while Korea's expanded by over 400 per cent; the rupee lost 60 per cent of its value; and in 1979–80, national income fell by 3 per cent, agricultural output by 10 per cent, and inflation surpassed 20 per cent. Against this backdrop, India remained among the world's sixteen poorest nations by per capita income at roughly $150.

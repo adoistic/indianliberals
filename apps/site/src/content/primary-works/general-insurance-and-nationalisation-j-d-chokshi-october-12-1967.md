@@ -4,7 +4,8 @@ title:
   main: General Insurance and Nationalisation
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - j-d-chokshi
 editors: []
 contributors:
   - role: other
@@ -37,7 +38,7 @@ summary: |-
   Choksi's argument rests on the essential character of the business rather than ideology. General insurance, he contends, is not a credit institution and not a builder of large funds: total investible resources stood at roughly Rs. 72 crores and annual accretions at only Rs. 5 crores — far too small to serve as a justification of mobilising capital for the state. It is instead a highly differentiated service business that must distinguish risk from risk at every hour of the day across multiple jurisdictions. He illustrates this through two registers: the bureaucratic absurdity of government claims-handling (his anecdote of a widow asked to produce a certificate of life for a period before she filed her claim), and the operational realities of real-time risk coverage — a cargo of gold and currency worth Rs. 50 lakhs to a crore covered overnight by a syndicate of insurers at short notice in a manner no government official could replicate.
 
   The pamphlet broadens its argument to foreign investment and international business. Roughly Rs. 800 crores of foreign capital was then invested in India, Choksi notes, and foreign collaborators routinely insisted on placing part of project insurance with their home-country insurers. Nationalisation would displace the 40 foreign insurance companies then operating in India and dampen further inflows. Conversely, Indian insurers had established offices or agencies in 40 countries; the lesson of life insurance nationalisation — where LIC was slow to replace the international business that private firms had built — argued against repeating the experiment with general insurance's even more transaction-specific, continuous service requirements. An appendix reprints a letter from former MP Sushama Sen in the Hindustan Times (7 September 1967), offering independent political confirmation that neither the LIC nor the State Bank had fulfilled the promises made at the time of their nationalisation.
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -51,7 +52,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Adapted from a talk delivered under the auspices of the Bombay Insurance Institute in 1967 and published as a Forum of Free Enterprise pamphlet dated 12 October 1967, J. D. Choksi's address — delivered as Chairman of New India Assurance Company — mounts a sustained case against the proposed nationalisation of general insurance at a moment when the Congress Working Committee had just moved a resolution directing the government to explore the measure. The pamphlet is a direct intervention: it names the political process that brought the proposal forward (a thinly attended AICC session), and quotes both the Finance Minister's statement at the time of life insurance nationalisation in 1956 and Deputy Finance Minister B. R. Bhagat's reaffirmation in 1961 that there was no case for nationalising general insurance.

@@ -47,7 +47,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - isbn_not_printed
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 S. A. Dave's 1991 A. D. Shroff Memorial Lecture opens with an unusually candid intellectual autobiography. As a student of economics in the 1950s, Dave was raised on Marx, Soviet planning and the Mahalanobis model, and saw free enterprise as the cause of India's problems rather than the cure; only over time, watching the planning era fail to deliver, did he come to appreciate the courage it took A. D. Shroff to found the Forum of Free Enterprise in 1956. The lecture is framed as homage to Shroff and to the Unit Trust of India, whose ninety lakh unitholders Dave sees as the living test of an institution built entirely on individual trust.

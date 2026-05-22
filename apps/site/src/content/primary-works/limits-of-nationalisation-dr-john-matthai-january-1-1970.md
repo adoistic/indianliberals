@@ -4,7 +4,8 @@ title:
   main: LIMITS OF NATIONALISATION
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - john-matthai
 editors: []
 contributors: []
 related_thinkers:
@@ -41,7 +42,17 @@ missing_metadata_flags:
   - no_formal_toc
   - edition_not_stated
   - series_not_stated
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - John Matthai
+  stubs_created:
+    - john-matthai
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. John Matthai's short pamphlet "Limits of Nationalisation," reprinted by the Forum of Free Enterprise from a speech delivered at the Rotary Club, Bombay, mounts a careful, lawyerly case against the general application of nationalisation in Indian industrial policy. Matthai concedes that state enterprise has a legitimate place where there is "proved necessity" — defence-related industries are his prima facie example — but insists that free enterprise should be the rule and state ownership the narrowly justified exception, decided industry by industry on the merits rather than by a priori categories or by appeal to a Socialist Pattern of Society.

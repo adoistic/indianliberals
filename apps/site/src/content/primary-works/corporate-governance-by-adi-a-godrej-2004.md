@@ -4,7 +4,8 @@ title:
   main: Corporate Governance
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - adi-godrej
 editors: []
 contributors: []
 related_thinkers: 
@@ -28,7 +29,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "This booklet reproduces the 15th Bhogilal Leherchand Memorial Lecture, delivered by Adi B. Godrej, Chairman of the Godrej Group, in Mumbai on 8 December 2003 and published in January 2004 by the Forum of Free Enterprise. Writing in the wake of the Enron, Arthur Andersen, Tyco, Global Crossing, Adelphia and Worldcom scandals, Godrej argues that corporate governance is neither a new concept nor a passing management fad: it dates at least to the post-Watergate internal-controls legislation of the 1970s, and the recent spate of malfeasance only makes the case for taking it seriously more urgent. He surveys the institutional history — the Treadway Commission, the Cadbury Code, the Combined Code of the London Stock Exchange, the Blue Ribbon Committee, the OECD Code of 1998 — and in India the Kumar Mangalam Birla, R. H. Patil, M. S. Verma, A. S.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -49,8 +50,15 @@ thinker_mentions:
       - quote: "Godrej rejects Milton Friedman's narrow shareholder-wealth definition and proposes his own: governance is efficient supervision that protects the long-term interests of the company"
         context: "Friedman is invoked as the canonical counter-position to Godrej's stakeholder model"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This booklet reproduces the 15th Bhogilal Leherchand Memorial Lecture, delivered by Adi B. Godrej, Chairman of the Godrej Group, in Mumbai on 8 December 2003 and published in January 2004 by the Forum of Free Enterprise. Writing in the wake of the Enron, Arthur Andersen, Tyco, Global Crossing, Adelphia and Worldcom scandals, Godrej argues that corporate governance is neither a new concept nor a passing management fad: it dates at least to the post-Watergate internal-controls legislation of the 1970s, and the recent spate of malfeasance only makes the case for taking it seriously more urgent. He surveys the institutional history — the Treadway Commission, the Cadbury Code, the Combined Code of the London Stock Exchange, the Blue Ribbon Committee, the OECD Code of 1998 — and in India the Kumar Mangalam Birla, R. H. Patil, M. S. Verma, A. S. Ganguly and Naresh Chandra committees.

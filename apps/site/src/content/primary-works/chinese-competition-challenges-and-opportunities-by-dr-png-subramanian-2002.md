@@ -4,7 +4,8 @@ title:
   main: CHINESE COMPETITION
   subtitle: Challenges and Opportunities
 work_type: speech
-authors: []
+authors:
+  - dr-png-subramanian
 editors: []
 contributors:
   - role: introduction
@@ -29,7 +30,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Delivered as the 36th A. D. Shroff Memorial Lecture in Mumbai on 23 October 2002 and circulated as a Forum of Free Enterprise booklet, P. N. G. Subramanian — a former Consul-General of India in Shanghai — sets out to explain to an Indian liberal audience how China engineered its sustained ascent and what that ascent now means for India. He locates the inflection point in December 1978, when the Party abandoned Class War for what he calls 'Economic Capitalism and Political Socialism', and traces an export-led, foreign-investment-rich growth model that has carried China to roughly $300 billion in exports, a savings rate above 40 per cent of GDP, and the world's tenth-largest trading nation status on the eve of full WTO accession.\n\nThe lecture is candidly admiring of Chinese discipline without endorsing the political model. Subramanian repeatedly contrasts a 'ruthlessly efficient administration' that Indians are 'unaccustomed to', and a perspective-planning horizon stretching to 2030, with India's weaker absorptive capacity, looser governance, and shorter time-frames.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -53,8 +54,15 @@ thinker_mentions:
       - quote: "citing Deng Xiaoping's 1976 prioritisation of education and Chinese ambitions to manufacture 'ten thousand Singapores'"
         context: "Deng is invoked as the architect of China's education-first growth strategy that India should emulate"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the 36th A. D. Shroff Memorial Lecture in Mumbai on 23 October 2002 and circulated as a Forum of Free Enterprise booklet, P. N. G. Subramanian — a former Consul-General of India in Shanghai — sets out to explain to an Indian liberal audience how China engineered its sustained ascent and what that ascent now means for India. He locates the inflection point in December 1978, when the Party abandoned Class War for what he calls 'Economic Capitalism and Political Socialism', and traces an export-led, foreign-investment-rich growth model that has carried China to roughly $300 billion in exports, a savings rate above 40 per cent of GDP, and the world's tenth-largest trading nation status on the eve of full WTO accession.

@@ -46,7 +46,15 @@ physical:
 missing_metadata_flags:
   - author_pseudonym_unresolved
   - publication_year_not_explicitly_printed
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Published by the Forum of Free Enterprise and reprinted from The Mail, Madras (19 January 1959), this short pamphlet by the pseudonymous "Kaejee" is a sustained polemic against the Congress government's then-impending land-reform package — fixing a ceiling on individual landholdings and channelling the excised land into cooperative farms. Kaejee argues that, after the abolition of zamindari and princely estates, the new measure is no longer reform but "an agrarian revolution where the very concept of ownership of land is destroyed," and that compulsory alienation of private holdings for cooperative cultivation falls outside the limits of a constitutional, benevolent democracy.

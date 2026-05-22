@@ -4,7 +4,8 @@ title:
   main: A Study of a State Monopoly Enterprise in Operation
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-r-pai
 editors: []
 contributors: []
 related_thinkers: []
@@ -25,7 +26,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "M. R. Pai's two-page Forum of Free Enterprise leaflet, dated 9 June 1963, is a tightly argued critique of the Life Insurance Corporation as a working example of a state monopoly. Pai opens by recalling the Forum's 1956 manifesto, which warned that monopoly of any kind — public or private — would upset the delicate mechanism of a free and democratic social order, leaving consumers, workers, investors and entrepreneurs all stripped of meaningful choice. He frames the LIC's recent annual statement as a case study that vindicates that warning.\n\nThe core of the piece is a forensic reading of the LIC chairman's own figures. The Corporation's switch from a calendar year to a financial year of accounting from 1963 stretched the comparison period to fifteen months (January 1962 to March 1963), producing a headline new-business figure of Rs. 745 crores that the chairman called 'a tinge of complacency'. Pai shows that when the figure is restored to a twelve-month basis (Rs. 596 crores) it actually falls Rs. 12.82 crores, or 2.2 per cent, below the Rs. 608.82 crore calendar-year figure for 1961 — the first decline since LIC's inception six years earlier.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -40,7 +41,15 @@ missing_metadata_flags:
   - no_visible_byline_on_article
   - no_separate_title_page
   - author_unclear
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 M. R. Pai's two-page Forum of Free Enterprise leaflet, dated 9 June 1963, is a tightly argued critique of the Life Insurance Corporation as a working example of a state monopoly. Pai opens by recalling the Forum's 1956 manifesto, which warned that monopoly of any kind — public or private — would upset the delicate mechanism of a free and democratic social order, leaving consumers, workers, investors and entrepreneurs all stripped of meaningful choice. He frames the LIC's recent annual statement as a case study that vindicates that warning.

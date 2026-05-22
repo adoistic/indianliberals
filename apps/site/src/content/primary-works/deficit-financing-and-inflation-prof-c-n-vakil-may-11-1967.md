@@ -4,7 +4,8 @@ title:
   main: Deficit Financing and Inflation
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - prof-cn-vakil
 editors: []
 contributors: []
 related_thinkers:
@@ -32,7 +33,7 @@ themes:
   - fiscal-policy
   - economic-policy
 summary: "Prof. C. N. Vakil's pamphlet collects a five-part series of articles, originally published in the Free Press Journal (Bombay, 15–20 March 1967) and reissued by the Forum of Free Enterprise in May 1967, that diagnoses India's continuously rising prices as the product of deliberate government action rather than impersonal market forces. Writing just after the formation of new governments at the Centre and in the States, Vakil opens with a historical detour through the British experience after the First World War, the unmasking of currency inflation by Sir Edwin Cannan, and the wartime Indian campaign led by Kumarappa's Harijan articles and a 30-economist manifesto of 1943 — used as a parable for how administrations characteristically deny inflation, prosecute their critics, and blame symptoms (hoarders, profiteers, black-marketeers) rather than the root cause.\n\nThe analytic core of the booklet identifies that root cause as deficit financing: public expenditure 'greatly in excess of genuine resources,' funded by ad hoc treasury bills drawn on the Reserve Bank.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -47,7 +48,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Prof. C. N. Vakil's pamphlet collects a five-part series of articles, originally published in the Free Press Journal (Bombay, 15–20 March 1967) and reissued by the Forum of Free Enterprise in May 1967, that diagnoses India's continuously rising prices as the product of deliberate government action rather than impersonal market forces. Writing just after the formation of new governments at the Centre and in the States, Vakil opens with a historical detour through the British experience after the First World War, the unmasking of currency inflation by Sir Edwin Cannan, and the wartime Indian campaign led by Kumarappa's Harijan articles and a 30-economist manifesto of 1943 — used as a parable for how administrations characteristically deny inflation, prosecute their critics, and blame symptoms (hoarders, profiteers, black-marketeers) rather than the root cause.

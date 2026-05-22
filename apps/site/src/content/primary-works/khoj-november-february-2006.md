@@ -42,7 +42,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-january-february-2008.pdf"
 needs_extraction: false
@@ -52,6 +52,13 @@ summary: |-
   The issue opens with an editorial on whose shoulders India's accelerating GDP growth is being carried, taking the Kalinganagar police firing on Odisha adivasis (January 2006) as the year's defining moment and warning that forced acquisition of tribal land for industry cannot be sold as development. The longest piece is the fourth instalment of Anil Patel's serialised essay "Swatantrata - Gnyan ane Bajaar" (Liberty, Knowledge and the Market), subtitled "Rule of Law versus Legal Positivism - the rise of socialism." It is essentially a Gujarati synthesis of Hayek, Popper, Hume, Adam Smith and Karl Menger - tracing how British liberalism's rule-of-law tradition gave way on the continent to Rousseauian popular sovereignty, Bismarckian state planning and finally legal positivism, which the author identifies with Kelsen's "Pure Theory of Law" and treats as the intellectual root of totalitarianism.
 
   Other articles cover the implications of the Kalinganagar tragedy and the 2005 Scheduled Tribes Forest Rights Bill (both by Trupti Parekh), "What can India learn from Hong Kong?" by Barun Mitra of the Liberty Institute, a fourth piece in Ambrish Mehta's "Sceptical Environmentalist" series on pesticide and chemical pollution, a Gujarati abridgement of Amartya Sen's introduction to The Argumentative Indian, short essays on church-state distance by Ashwin Karia and on atheist-theist bridges by Gautam Thakar, plus a "Charcha ni Eran" (Anvil of Debate) discussion column and a translated extract from Karl Popper titled "Buddhinishtha" (Rationalism). The issue is firmly positioned within the classical-liberal / Hayekian wing of Indian public thought.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

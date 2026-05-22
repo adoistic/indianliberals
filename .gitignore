@@ -33,6 +33,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+!data/byline-resolve/collisions.log
+!data/byline-resolve/apply-log.txt
 
 # Working / scratch
 /tmp/

@@ -3,7 +3,8 @@ id: "shetkari-sanghatana-vichar-aani-karyapadthdti-by-sharad-joshi"
 title: 
   main: "'Shetkari Sanghatana: Vichar Aani Karyapadthdti' by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -47,6 +48,13 @@ summary: |-
   Joshi's central argument is that the poverty of India is rooted in the systematic squeezing of the cultivator. The fundamental demand of the Sanghatana is a remunerative price for agricultural produce ('shetimalala rast bhav') that fully covers the cost of production — and this single-point programme, he argues, is the only durable route to removing rural and urban destitution alike, since the urban poor are largely refugees from a collapsing dryland (jirayat) countryside. The chapters develop the framework systematically: the ultimate aim of the farmers' movement; the true cost of agricultural production; agriculture as a victim of both 'asmani' (natural) and 'sultani' (state-inflicted) calamity; the famous 'India versus Bharat' formulation in which an urban, industrial 'India' lives off the extraction of a rural 'Bharat'; the anti-Bharat bias of prevailing industrial policy; the question of class conflict within Bharat; a five-point charter ('panchsheel') on India's exploitation of Bharat; and operational chapters on the Sanghatana's demands, present form, agitation technique, and the dependence of Indian agriculture.
 
   Joshi narrates the movement's origins — the Chakan onion agitation of late 1980, the Nipani tobacco satyagraha of March 1981 in which forty thousand farmers blockaded the Pune-Bangalore highway for twenty-three days, the Nashik sugarcane stir of September 1981, and the first convention at Satana in January 1982 attended by thirty thousand self-financed farmers — and places these in a longer lineage running from Tantya Bhil, Vasudev Balwant Phadke and Jotirao Phule. The work is a foundational document of post-Independence Indian economic liberalism as articulated from the farm side: it attacks state procurement, price controls, the cooperative bureaucracy, and the urban-biased development model as a continuation of colonial extraction.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

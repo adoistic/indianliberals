@@ -41,7 +41,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -51,6 +51,13 @@ summary: |-
   The editorial opens with the Fourth Biennial World Water Forum in Mexico City and contrasts top-down 'water-for-all' government schemes with Saurashtra's grassroots rainwater-harvesting movement, in which farmers built check-dams and recharge structures rather than waiting for the state. A long anchor piece by Ambrish Mehta then asks 'Is Saurashtra's water-harvesting campaign sheer madness?' and weighs critics' technical objections against measured field gains. Other items engage current liberal-democratic controversies: a piece on Net Present Value (NPV) compensation for forest land following a 2002 Supreme Court ruling; Prof. J.S. Bandukwala on the Best Bakery verdict and Gujarat 2002, urging the Muslim community to rebuild while also bridging Muslim and non-Muslim India; a PUCL summary of the Kalinganagar police firing in Orissa, including the editor's critique of 'eminent domain' powers used to expropriate adivasi land for industry; and Trupti Parekh on Kelo v. New London. Kirit Panvala launches a new series, 'I want to change the justice system,' arguing that Indian courts have eroded ordinary people's hope of justice.
 
   The issue's flagship serial essay is part 5 of Anil Patel's 'Freedom, Knowledge and the Market,' titled 'Market Prices: Menger's Marginal Revolution and its Counter-currents.' Opening with two Hayek epigraphs, Patel traces how the labour theory of value of Smith, Ricardo and Mill failed to explain relative prices, how Carl Menger's 1871 Grundsatze grounded value in subjective marginal utility, and how methodological individualism became the philosophical core of the Austrian tradition against German historicism and Fabian rationalist constructivism. A vigorous letters section debates earlier pieces on pesticides, GEAC norms, the Narmada rehabilitation record, and the Jessica Lal verdict.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

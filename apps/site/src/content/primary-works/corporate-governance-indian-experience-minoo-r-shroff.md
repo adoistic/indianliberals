@@ -4,7 +4,8 @@ title:
   main: CORPORATE GOVERNANCE – INDIAN EXPERIENCE
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - minoo-shroff
 editors: []
 contributors: []
 related_thinkers:
@@ -28,7 +29,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "In this Forum of Free Enterprise booklet (published December 2000), the management consultant and Forum president Minoo R. Shroff offers a brisk practitioner's history of corporate governance in India and an argument for why the moment has arrived to take it seriously. He defines governance as 'management assuming the role of trusteeship' with checks and balances that lift performance, employee morale, shareholder value and social responsibility, insisting that 'the spirit is more important than the form' — codes alone do nothing without commitment at the top.\n\nShroff traces the Indian corporate landscape from a family-dominated, board-as-formality past — with notable exceptions like the House of Tatas, which adopted worker welfare and even social audits decades ahead of legislation, and the 1956 Forum of Free Enterprise Code of Conduct (reproduced as an appendix).…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -42,7 +43,15 @@ physical:
 missing_metadata_flags:
   - no_formal_table_of_contents
   - byline_unresolved_in_authority
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 In this Forum of Free Enterprise booklet (published December 2000), the management consultant and Forum president Minoo R. Shroff offers a brisk practitioner's history of corporate governance in India and an argument for why the moment has arrived to take it seriously. He defines governance as 'management assuming the role of trusteeship' with checks and balances that lift performance, employee morale, shareholder value and social responsibility, insisting that 'the spirit is more important than the form' — codes alone do nothing without commitment at the top.

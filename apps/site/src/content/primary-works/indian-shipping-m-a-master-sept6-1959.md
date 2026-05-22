@@ -4,7 +4,8 @@ title:
   main: INDIAN SHIPPING
   subtitle: ITS STRUGGLES AND ACHIEVEMENTS
 work_type: speech
-authors: []
+authors:
+  - m-a-master
 editors: []
 contributors: []
 related_thinkers:
@@ -35,7 +36,7 @@ themes:
   - shipping
   - public-sector-vs-private-sector
 summary: "M. A. Master's 1959 lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 23 July 1959 and published as a booklet, is a polemical history of Indian shipping mounted in direct response to Jawaharlal Nehru's pronouncements that the public sector would be the 'basic, strategic, important and advancing sector' of the economy. Master argues that the expansion of the State Trading Corporation and the proposed decentralisation of private enterprise are a betrayal of Mahatma Gandhi's teaching that economic and political power must not concentrate in the hands of the State, and an injustice to an industry that had been built, sustained and brought to its present strength almost entirely by private Indian initiative under extraordinarily hostile conditions.\n\nThe bulk of the booklet retells the struggle of Indian shipowners against organised British shipping interests during the colonial period.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -50,7 +51,15 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - no_explicit_series_number
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 M. A. Master's 1959 lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 23 July 1959 and published as a booklet, is a polemical history of Indian shipping mounted in direct response to Jawaharlal Nehru's pronouncements that the public sector would be the 'basic, strategic, important and advancing sector' of the economy. Master argues that the expansion of the State Trading Corporation and the proposed decentralisation of private enterprise are a betrayal of Mahatma Gandhi's teaching that economic and political power must not concentrate in the hands of the State, and an injustice to an industry that had been built, sustained and brought to its present strength almost entirely by private Indian initiative under extraordinarily hostile conditions.

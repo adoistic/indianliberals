@@ -4,7 +4,8 @@ title:
   main: INDIAN INDUSTRY IN POST-LIBERALISATION ERA
   subtitle: Some Critical Issues
 work_type: pamphlet
-authors: []
+authors:
+  - sunil-bhandare
 editors: []
 contributors: []
 related_thinkers: []
@@ -29,7 +30,7 @@ themes:
   - free-enterprise
   - economic-reform
 summary: "S. S. Bhandare, an economist and consultant with Tata Services Ltd., uses this Forum of Free Enterprise booklet to take stock of Indian industry roughly a decade after the July 1991 reforms. His verdict is mixed: quantitatively, post-reform industrial growth (averaging 6.5% in 1992–2001) has been only marginally better than the pre-reform decade's 6.3%, and the sector has become more volatile, with the coefficient of variation rising from 38.75 to 47.18. Qualitatively, however, he sees real gains — a liberalised and intensely competitive market, wider consumer choice, market-determined pricing, productivity drivers in manufacturing, and the compulsion to globalise both prices and profit margins.\n\nThe booklet is organised around a series of \"critical issues for debate.\" Bhandare contests the fashionable thesis that industrialisation will \"by-pass India\" in favour of a services-led trajectory, pointing out that India has slipped from being the world's tenth-largest industrial power around 1970 to roughly 17th or 18th, while its consumption of steel, cement and power is one-third to one-fourth of China's.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -45,7 +46,15 @@ missing_metadata_flags:
   - year_not_printed_on_seen_pages
   - no_isbn_visible
   - no_series_number_visible
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 S. S. Bhandare, an economist and consultant with Tata Services Ltd., uses this Forum of Free Enterprise booklet to take stock of Indian industry roughly a decade after the July 1991 reforms. His verdict is mixed: quantitatively, post-reform industrial growth (averaging 6.5% in 1992–2001) has been only marginally better than the pre-reform decade's 6.3%, and the sector has become more volatile, with the coefficient of variation rising from 38.75 to 47.18. Qualitatively, however, he sees real gains — a liberalised and intensely competitive market, wider consumer choice, market-determined pricing, productivity drivers in manufacturing, and the compulsion to globalise both prices and profit margins.

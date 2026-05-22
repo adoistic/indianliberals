@@ -3,7 +3,8 @@ id: market-by-the-dock-by-pt-bauer-january-1981
 title:
   main: market-by-the-dock-by-pt-bauer-january-1981
 work_type: book
-authors: []
+authors:
+  - peter-bauer
 editors: []
 contributors: []
 related_thinkers: []
@@ -19,13 +20,21 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "The Market in the Dock is the text of a December 19, 1979 lecture by Cambridge-trained development economist P. T. Bauer, then Professor of Economics at the London School of Economics, delivered in Bombay under the auspices of the Forum of Free Enterprise and published as a pamphlet in January 1981. A foreword by Minoo H. Mody, who presided over the lecture, frames Bauer's central provocation: the market economy stands accused not because it has failed but because in much of the Third World it has never been tried. Mody links Bauer's argument to a broader critique of the welfare state, which he calls \"the most tragic mistake of the twentieth century\", and to the perplexity of governments who cannot reconcile demands for tax cuts with the bloated apparatus of subsidised state activity.\n\nBauer's lecture itself opens by distinguishing predominantly market, centrally planned, and custom-dominated economies, and reminds readers that during the hundred years before the Second World War large parts of Asia, Africa and Latin America made substantial economic progress under market arrangements — well before any organised central planning.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   drafted_at: 2026-05-17
   model_version: v1.4
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 The Market in the Dock is the text of a December 19, 1979 lecture by Cambridge-trained development economist P. T. Bauer, then Professor of Economics at the London School of Economics, delivered in Bombay under the auspices of the Forum of Free Enterprise and published as a pamphlet in January 1981. A foreword by Minoo H. Mody, who presided over the lecture, frames Bauer's central provocation: the market economy stands accused not because it has failed but because in much of the Third World it has never been tried. Mody links Bauer's argument to a broader critique of the welfare state, which he calls "the most tragic mistake of the twentieth century", and to the perplexity of governments who cannot reconcile demands for tax cuts with the bloated apparatus of subsidised state activity.

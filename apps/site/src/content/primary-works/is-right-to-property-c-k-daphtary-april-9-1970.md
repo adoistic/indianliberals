@@ -4,7 +4,8 @@ title:
   main: IS RIGHT TO PROPERTY NOT FUNDAMENTAL?
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - c-k-daphtary
 editors: []
 contributors: []
 related_thinkers:
@@ -41,7 +42,17 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
   format: Pamphlet/booklet; 18 printed pages plus covers, stapled green-cover Forum of Free Enterprise booklet
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - C. K. Daphtary
+  stubs_created:
+    - c-k-daphtary
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This April 1970 Forum of Free Enterprise booklet, titled 'Is Right to Property Not Fundamental?', bundles three essays defending the place of the right to property within Part III of the Indian Constitution at a moment when the Congress government was preparing to dilute or remove Article 31. C. K. Daphtary, former Attorney-General of India, opens with a speech he delivered at the Forum's New Delhi Centre on 6 February 1970 that traces the constitutional history of property from the Round Table Conferences through the Fourth Amendment and the Supreme Court's compensation jurisprudence. He is followed by the constitutional commentator A. G. Noorani (reprinted from the Indian Express, 29-30 December 1969) and by A. G. Mulgaokar (reprinted from Freedom First, December 1969). All three contributors converge on the argument that property is the foundation of every other liberty, that judicial review of compensation is what stops 'just equivalent' from collapsing into 'illusory', and that removing the right from the Fundamental Rights chapter would license confiscation and weaken the Rule of Law.

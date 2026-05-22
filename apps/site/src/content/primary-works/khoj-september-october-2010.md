@@ -39,7 +39,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-september-october-2010.pdf"
 needs_extraction: false
@@ -49,6 +49,13 @@ summary: |-
   The editorial by Ambrish Mehta and the long lead essay 'Ayodhya Chukado: Sarvatra Undo Hashkaro... Ek Moko' by Rajesh Mishra read the three-judge ruling - which declared Hindus, Muslims and the Nirmohi Akhada joint title-holders and partitioned the disputed site into three parts - as a procedural triumph for Indian democracy rather than a doctrinal one. They argue the real gain is that an explosive 1528-rooted dispute was carried through courts without renewed bloodshed, quote Justice Khan and Justice Dhavan, canvas reactions from Hashim Ansari, Javed Anand, Javed Akhtar, Saeeda Hameed and others, and urge both Hindu and Muslim communities to treat the verdict as a 'watershed' and refuse the bait laid by hardliners on both sides. A companion piece by Jaswant B. Mehta cites the Istanbul precedent of the Hagia Sophia turned museum as a model for converting contested religious sites into secular civic spaces.
 
   The rest of the issue extends Khoj's standard liberal preoccupations. Ambrish Mehta reports on the Gujarat High Court granting bail to seven Adivasi activists framed in Surat's 'Naxal' case, defending the right to possess radical literature; Nandan Nilekani (translated from his foreword to James Tooley's The Beautiful Tree) and Gurcharan Das (from Sunday Times) make a forceful free-market case for low-fee private schools serving the poor and against the Right to Education Act's shuttering of unrecognised slum schools; Ashwinkumar Karia analyses the legal vacuum around 'honour killings' and khap panchayats; Wajahat Habibullah, Saeeda Hameed and Asghar Ali Engineer write on Kashmir; Gajendrasinh Jadeja examines Sardar Patel's foreign-policy outlook; and Bakula Ghaswala profiles the 1840-born reformer Bibi Ashraf.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

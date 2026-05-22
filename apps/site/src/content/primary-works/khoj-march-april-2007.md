@@ -39,7 +39,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -49,6 +49,13 @@ summary: |-
   The cover story and lead editorial argue for quality school education for all and seriously propose school vouchers as a market-based remedy: Rajesh Mishra writes on the right of parents and children to choose schools, while Parth Shah (Centre for Civil Society, New Delhi) contributes the keynote piece making the case for education vouchers as a way to deliver quality schooling to poor and rural children whom government schools are failing. Other contents include Trupti Parekh's investigative field assessment of the National Rural Employment Guarantee Act in 18 villages around Deriapada (Surapaneshwar sanctuary area), which finds the scheme barely functioning — funds undisbursed, talatis unwilling, demanded work refused — and quotes Chidambaram and Manmohan Singh's 'outlays are not outcomes' line back at the government. Revtubha Rayjada writes on protecting the Gir lion habitat after the March 2007 poaching incident in which three lions were killed, and PUCL Gujarat issues a statement defending freedom of expression after Hindutva groups tried to block screenings of the Parzania film about the 2002 Naroda Patiya massacre.
 
   Further articles cover Yogendra Mankad on the Stern Review and IPCC reports on climate change, Manjula Dabhi on the condition of Dalit women, Asghar Ali Engineer on Muslim women, Sauvik Chakraverti's continuing column 'Free Your Mind' on economic liberty, and a Rabindranath Tagore story. The issue also runs a CFore opinion-poll table showing 79% of Indians dislike politicians and 84% feel politicians have brought Indian democracy into disrepute — framing the editor's broader theme of citizen-society reclaiming ground from a compromised political class.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -4,7 +4,8 @@ title:
   main: Agricultural Investment
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - dr-gvk-rao
 editors: []
 contributors: []
 related_thinkers: []
@@ -25,7 +26,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Dr. G.V.K. Rao — then Chairman of Agricultural Finance Corporation Ltd. and a former Member of the Planning Commission — diagnoses why Indian agricultural growth slackened in the 1980s and lays out an investment-and-credit programme to revive it. Although agriculture's share of GDP had fallen to about 28 per cent, the sector still supported roughly 70 per cent of the labour force and supplied wage goods, industrial raw material and export earnings. Foodgrain output grew at only 1.7 per cent per annum during the first seven years of the eighties, a slackening Rao attributes to a relative decline in investment in agriculture.\n\nThe pamphlet argues that future growth must come from intensification, technology upgrading and watershed-based rain-fed farming, and lists nine concrete investment areas — better water management in existing irrigation projects, bio-technology applications, a National Poultry Development Board on the Operation Flood model, drip and sprinkler irrigation, food processing, afforestation of 40 million tree-less forest hectares, sericulture, agricultural exports through APEDA, and horticultural marketing infrastructure modelled on the Delhi NDDB scheme.\n\nThe seco…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -39,7 +40,15 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Dr. G.V.K. Rao — then Chairman of Agricultural Finance Corporation Ltd. and a former Member of the Planning Commission — diagnoses why Indian agricultural growth slackened in the 1980s and lays out an investment-and-credit programme to revive it. Although agriculture's share of GDP had fallen to about 28 per cent, the sector still supported roughly 70 per cent of the labour force and supplied wage goods, industrial raw material and export earnings. Foodgrain output grew at only 1.7 per cent per annum during the first seven years of the eighties, a slackening Rao attributes to a relative decline in investment in agriculture.

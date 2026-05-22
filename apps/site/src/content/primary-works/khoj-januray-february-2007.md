@@ -42,7 +42,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-january-february-2008.pdf"
 needs_extraction: false
@@ -52,6 +52,13 @@ summary: |-
   The issue's main editorial and lead article, both by Trupti Parekh, celebrate the passage of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 — framed as a historic victory for adivasis and forest-dwelling communities after decades of struggle, while warning that proper implementation will determine whether it actually halts the dispossession that has run since Independence. A companion editorial by Ambrish Mehta, 'Sez vivad ange thodu...', argues at length that the Special Economic Zones policy is incompatible with free markets and liberalisation, treating SEZs as state-engineered land grabs rather than genuine development. Ashwin Karia contributes a sharp piece on the Sabarimala temple controversy in Kerala, attacking the Travancore Devaswom Board's ban on women aged 10-50 entering the shrine as a constitutional and rationalist failure.
 
   Other features include readers' letters responding to the previous issue's Milton Friedman tribute and its urban-poverty coverage; Suresh Parikh and Kardam Modi on the philosophy of teaching ('the teacher's work is that of a midwife, not a potter'); K.V. Patel on poverty; and Kirit Panwala's continuing series on reforming the Indian judicial system. The economics section ('Free your mind - 4') runs Sauvik Chakraverti on why free trade matters for India, a Gujarati translation of Frederic Bastiat's 'Candlemakers' Petition', selections from Munshi Premchand on swadeshi and protectionism (in Hindi), and Matt Ridley's 'The Gains from Trade' on the Yir Yoront aboriginals — a classical-liberal economics primer aimed at Gujarati readers.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

@@ -69,8 +69,15 @@ thinker_mentions:
       - quote: "Invokes Vinoba Bhave's distribution of Bhoodan land to individual cultivators as evidence that even sympathetic moral authorities reject collectivisation"
         context: "Bhave's choice to give land to individuals rather than collectives is the essay's clinching argument"
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This 1960 Forum of Free Enterprise booklet collects the three prize-winning entries from the Forum's 1959 student essay competition on "Co-operative Farming." Judged by R. V. Murthy, Prof. C. L. Gheevala of the Indian Merchants' Chamber, and M. R. Pai, the volume presents essays by Sree Rama Murthy of Chirala (first prize), R. Venkata Ramana Rao of Quilon (second), and B. P. Patel of Surat (third). All three essays converge on a sceptical verdict: although the Indian National Congress at its Nagpur session (1959) made joint co-operative farming the centrepiece of agrarian policy, the contributors argue that pooling land under joint management is economically unproven, psychologically alien to Indian peasant attachment to the soil, and impossible to introduce without coercion.

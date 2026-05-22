@@ -4,7 +4,8 @@ title:
   main: EQUITY IN A GLOBAL SOCIETY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-ig-patel
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "Equity in a Global Society reproduces the LSE Centenary Lecture that Dr. I. G. Patel — a former Governor of the Reserve Bank of India and former Director of the London School of Economics — delivered on 26 October 1995, here published as a Forum of Free Enterprise pamphlet. Patel uses the occasion to defend an unfashionable position: that social science cannot quarantine itself from value judgements, and that the emerging global society must be appraised against an explicit standard. He nominates 'equity' as that standard, defining it not as equality but as balance — between individual rights and group obligations, between tradition and reason, between what is desirable and what is achievable.\n\nFrom this premise Patel attacks the methodological prudery of the LSE economics he was once taught: the refusal to make interpersonal comparisons of utility. A dollar in the pocket of a Malawian peasant, he insists, is worth more than one in his own, and any honest economics must accept that and reason accordingly.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -38,7 +39,15 @@ physical:
 missing_metadata_flags:
   - year_not_printed_on_rendered_pages
   - no_formal_toc
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Equity in a Global Society reproduces the LSE Centenary Lecture that Dr. I. G. Patel — a former Governor of the Reserve Bank of India and former Director of the London School of Economics — delivered on 26 October 1995, here published as a Forum of Free Enterprise pamphlet. Patel uses the occasion to defend an unfashionable position: that social science cannot quarantine itself from value judgements, and that the emerging global society must be appraised against an explicit standard. He nominates 'equity' as that standard, defining it not as equality but as balance — between individual rights and group obligations, between tradition and reason, between what is desirable and what is achievable.

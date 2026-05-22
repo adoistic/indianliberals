@@ -55,8 +55,15 @@ thinker_mentions:
       - quote: "invoking a personal interview with Mahatma Gandhi at the end of 1947 in which Gandhi opposed Nehru's procurement, price-control and rationing scheme"
         context: "key-points bullet on procurement; Gandhi's anti-procurement position is cited as moral authority against state intervention in foodgrain markets"
     key_passages: []
-
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Based on a public lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on 9 January 1974, this booklet by the economist Colin Clark — then Director of the Agricultural Economics Institute at Oxford — argues that India is on the verge of aborting its post-1950 economic take-off through a self-inflicted food crisis. Clark warns that the gravest threat is not external but a Government response built on procurement, price control, and the systematic neglect of agriculture. The famines that followed Lenin's procurement policy, Stalin's 1929 collectivisation, China's collectivised farming, and the experiments in Cuba, Algeria and Tunisia are paraded as the empirical record of what happens when the state replaces the market in the countryside.

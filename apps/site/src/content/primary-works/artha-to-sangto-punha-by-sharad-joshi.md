@@ -3,7 +3,8 @@ id: "artha-to-sangto-punha-by-sharad-joshi"
 title: 
   main: "Artha to Sangto Punha by Sharad Joshi"
 work_type: "book"
-authors: []
+authors:
+  - sharad-joshi
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -47,6 +48,13 @@ summary: |-
   The book opens with a sustained polemic against the late-1980s National Front budget delivered by Madhu Dandavate in March 1990, which Joshi treats as the first occasion on which India's rural-supported government had a chance to overturn forty years of Nehruvian planning and squandered it. The early chapters dissect Dandavate's loan-waiver scheme as a 'tutpunji' (penny-pinching) populist gesture that benefits bank clerks more than farmers, attacks the IMF terms accepted by Narasimha Rao and Manmohan Singh in 1991, mocks the new industrial policy as a 'Singapore model' that still protects Tata-Birla-Kirloskar-style domestic monopolists, and accuses the bureaucracy of capturing the supposed liberalisation. Joshi's recurring frame is the 'India versus Bharat' divide: urban industrial 'India' has been subsidised for forty years on the back of agricultural 'Bharat,' and even reform-era budgets continue that transfer.
 
   Later chapters in the table of contents track the budgets of Chidambaram, Yashwant Sinha and Pranab Mukherjee through to 2006-07, return repeatedly to farmer indebtedness and the 'willful defaulter' slur, and argue for remunerative prices, freedom from licence-permit-quota residues, and 14 percent agriculture-led growth. Throughout, Joshi writes as the founder-theorist of the Shetkari Sanghatana, addressing a Marathi rural audience in a sharp, scornful, deeply numerate idiom — and positions himself as the Indian liberal tradition's most uncompromising voice for the peasant against the planner.
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

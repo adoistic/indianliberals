@@ -4,7 +4,8 @@ title:
   main: INDIA REQUIRES INDICATIVE PLANNING
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dharamsey-khatau
 editors: []
 contributors: []
 related_thinkers:
@@ -34,7 +35,7 @@ themes:
   - mixed-economy
   - free-enterprise
 summary: "Drawn from his inaugural address to the 59th Annual General Meeting of the Indian Merchants' Chamber on 10 February 1967, Dharamsey M. Khatau's pamphlet argues that India's drift toward 'state capitalism and Statism' has produced costly, wasteful, and politically dangerous results. Reviewing the first three Plans, he notes that targets were missed, unemployment rose across educated, agricultural, and non-agricultural classes, and the strategy's capital-intensive, heavy-industry bias starved agriculture and rural development. The Fourth Plan, on inadequate data, projects only 9 to 10 million additional jobs against a backlog of 15 to 18 million disguised unemployed and an incremental labour force of 23 to 25 million — a shortfall he treats as a fundamental indictment of comprehensive planning.\n\nKhatau ties planning failure to the concentration of economic power in political and bureaucratic hands, citing the Planning Commission's own review that the Public Sector earned only 1.5% on Rs. 2,037 crores invested across 34 undertakings, and quoting Dr. Radhakrishnan's Republic Day broadcast on 'widespread incompetence and gross mismanagement'.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -48,7 +49,15 @@ physical:
 missing_metadata_flags:
   - author_not_in_authority_file
   - printer_address_partially_illegible
+authors_resolution:
+  confidence: high
+  method: deterministic
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Drawn from his inaugural address to the 59th Annual General Meeting of the Indian Merchants' Chamber on 10 February 1967, Dharamsey M. Khatau's pamphlet argues that India's drift toward 'state capitalism and Statism' has produced costly, wasteful, and politically dangerous results. Reviewing the first three Plans, he notes that targets were missed, unemployment rose across educated, agricultural, and non-agricultural classes, and the strategy's capital-intensive, heavy-industry bias starved agriculture and rural development. The Fourth Plan, on inadequate data, projects only 9 to 10 million additional jobs against a backlog of 15 to 18 million disguised unemployed and an incremental labour force of 23 to 25 million — a shortfall he treats as a fundamental indictment of comprehensive planning.

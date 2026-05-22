@@ -43,7 +43,15 @@ missing_metadata_flags:
   - printed_publication_year_not_visible
   - no_formal_toc
   - no_isbn_visible
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Delivered as the A. D. Shroff Memorial Lecture in Bombay on 25th October 1982 and published by the Forum of Free Enterprise, T. Thomas — the first Indian Director of Unilever and a former chairman of Hindustan Lever — sets out a businessman's strategy for financing Indian development in a decelerating world economy. He opens by surveying the global landscape: unemployment near 10% in the OECD, world GDP growth falling from over 4% in the 1970s to barely 1% in 1981, and sovereign debts of Poland, Argentina and Mexico ballooning into crisis. Unlike the 1930s, he argues, professionally managed institutions like the IMF and the World Bank, together with determined Western restructuring, should permit a modest recovery to 2–3% growth by 1984, and India's strategy must be built on this hopeful but unoptimistic outlook.

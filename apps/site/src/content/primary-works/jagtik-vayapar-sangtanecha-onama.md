@@ -37,7 +37,7 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/jagtik-vayapar-sangtanecha-onama.pdf"
 needs_extraction: false
@@ -47,6 +47,13 @@ summary: |-
   The publisher's preface, signed by Sureshchandra Mhatre, situates the booklet within the Shetkari Sanghatana's long-standing pro-liberalisation stance: the Sanghatana, under Sharad Joshi, was the only Indian farmers' movement to actively support the Dunkel Draft and the creation of the WTO, on the grounds that an open economy and rules-based world trade serve cultivator interests better than the protectionist licence-permit raj. Mhatre argues that ordinary Marathi readers, farmers and politicians remain ignorant of what the WTO actually is, that media coverage has been polemical and fragmented, and that reactive opposition ("WTO mhanje bhoot") has prevented India from using the agreement strategically. The booklet is offered as plain-language correction.
 
   The body is structured as a question-and-answer textbook of roughly thirty short chapters. Early chapters explain the General Agreement on Tariffs and Trade (GATT, 30 October 1947, Geneva, 23 founding signatories including India), the eight rounds of multilateral negotiations from 1947 to 1994, the Uruguay Round and the Dunkel Draft of December 1993, and the birth of the WTO on 1 January 1995 with 128 members (144 by 2002, after China's accession as the 143rd and Taiwan as the 144th). Subsequent chapters cover the difference between GATT and WTO, the WTO's Ministerial Conference, General Council and Director-General structure, the Singapore, Geneva, Seattle and Doha ministerials, special and differential treatment for developing and least-developed countries, the Doha Development Agenda of November 2001, and the case for why India should remain a WTO member rather than retreat into bilateral isolation. The tone throughout is matter-of-fact and pro-engagement, framing the WTO as an opportunity to be worked, not a conspiracy to be denounced.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

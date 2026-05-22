@@ -45,7 +45,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-august-2006.pdf"
 needs_extraction: false
@@ -55,6 +55,13 @@ summary: |-
   The editorial by Mehta revisits the post-Mandal trajectory of caste reservations, recalling that the journal's circle had opposed the 1990 V.P. Singh-era extension of reservations to OBCs and arguing that birth-based caste quotas in higher education and jobs end up dividing rather than integrating society. The bulk of the issue then assembles voices on the same theme: Arun Shourie on reservations and the constitutional provisions, Mehta on the Mandal Commission, Rajesh Mishra ('Ahin to aapne hau Harkha j chhiye'), and a co-authored piece by Ambrish and Trupti Parekh on rethinking reservations.
 
   The issue's other major strand is the seventh installment of Anil Patel's long-running series 'Swatantrata - Gyaan ane Bazaar' ('Freedom, Knowledge and the Market'), subtitled 'From hot socialism to soft socialism - the welfare state.' Opening with Hayek on economic freedom as the precondition of all other freedoms, Patel traces the century 1848-1948 of socialist thought, the Stalinist 'totalitarian state,' the disillusionment captured by Trotsky and the 'tragedy of the commons,' John Stuart Mill's drift toward socialism, the Keynesian turn after 1930, and the post-war consolidation of an 'unlimited democracy' welfare state in which bureaucracies redistribute under the banner of 'social justice.' He invokes Popper and Hayek on dispersed knowledge to argue that decentralised market prices, not central planning, coordinate the marginal adjustments a complex economy actually needs. Other pieces include Trupti Parekh on the July 11 Mumbai train bombings and on the Kevadiya tribal land acquisition for Narmada-area tourism, Shankar Gopalakrishnan on the JPC report on the Forest Rights Bill, Barun Mitra on China's tiger conservation experiment, Mahendra Chotaliya on values in education, Kirit Panvala on judicial reform, and Sauvik Chakraverti on freeing the mind.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

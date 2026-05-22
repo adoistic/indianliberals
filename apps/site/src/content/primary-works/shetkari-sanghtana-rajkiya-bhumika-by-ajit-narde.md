@@ -3,7 +3,8 @@ id: "shetkari-sanghtana-rajkiya-bhumika-by-ajit-narde"
 title: 
   main: "'Shetkari Sanghtana - Rajkiya Bhumika' by Ajit Narde"
 work_type: "book"
-authors: []
+authors:
+  - ajit-narde
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -39,7 +40,7 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/shetkari-sanghtana-rajkiya-bhumika-ajit-narde.pdf"
 needs_extraction: false
@@ -49,6 +50,15 @@ summary: |-
   Narde, writing from Jaysingpur in Kolhapur district, narrates how Sharad Joshi launched the Sanghatana around the Chakan onion agitation in 1978, then expanded it across Maharashtra through agitations on sugarcane, tobacco, milk and cotton. He recounts the 1982 Vijayawada-and-Saswad debates where the movement formalized its diagnosis: the post-independence Nehruvian planning state, by suppressing farm prices to subsidize industrialization, was the structural cause of rural poverty. Government 'interventions' — price controls, export bans, fertilizer subsidies, loan waivers — are described as palliatives that disguise an extractive arrangement. The booklet recapitulates the Sanghatana's parliamentary tactics through the 1984, 1989 and 1991 elections, its support to V. P. Singh on the Bofors-era anti-corruption plank and the Sangli kisan rally, its opposition to Mandal-and-Mandir communalism, and its lone public defense of the Dunkel draft and the GATT agreement against both Left and Sangh Parivar attacks.
 
   The closing chapters argue that with the 1991 Narasimha Rao–Manmohan Singh liberalization, the Nehruvian model is exhausted but reform has stalled because organized labor, public-sector employees and protected industrialists are now demanding 'level playing field' shelter. The Sanghatana therefore concludes that a new political vehicle of open-economy supporters — farmers plus genuinely competitive entrepreneurs and traders — must be built; Minoo Masani's appeal and the Bombay convention of open-economy advocates lead directly to Sharad Joshi accepting the presidency of the revived Swatantra Bharat Paksha, whose special founding session was to be held at Nagpur on 12 November 1994, the very day this pamphlet was released.
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Ajit Narde
+  stubs_created:
+    - ajit-narde
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

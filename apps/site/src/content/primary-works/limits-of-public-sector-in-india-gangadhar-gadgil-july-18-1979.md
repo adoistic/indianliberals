@@ -4,7 +4,8 @@ title:
   main: LIMITS OF PUBLIC SECTOR IN INDIA
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - gangadhar-gadgil
 editors: []
 contributors: []
 related_thinkers:
@@ -47,7 +48,17 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
   - no_edition_statement
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Gangadhar Gadgil
+  stubs_created: []
+  stubs_referenced:
+    - gangadhar-gadgil
+  collisions_logged: []
 ---
+
 ## Summary
 
 Prof. Gangadhar Gadgil's lecture, delivered in Bombay on 20 March 1979 under the auspices of the Forum of Free Enterprise, mounts a point-by-point rebuttal of the Janata Government's case for India's public sector, as recently summarised by Union Industry Minister George Fernandes. Gadgil opens by reproducing Fernandes's nine claims — that the public sector should not be judged by profitability, that India would not be a front-ranker in heavy industry, nuclear or space technology without it, that it has rescued sick units, established public control over the commanding heights, decentralised industry, and looked after worker welfare — and then proceeds to test each claim against the criteria the Janata Party itself and the Planning Commission had set: post-tax return on investment, generation of investible surpluses, and capacity utilisation.

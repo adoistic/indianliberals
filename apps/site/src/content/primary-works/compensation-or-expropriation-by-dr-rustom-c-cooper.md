@@ -4,7 +4,8 @@ title:
   main: COMPENSATION OR EXPROPRIATION?
   subtitle: An Analysis of Article 31 of Indian Constitution
 work_type: pamphlet
-authors: []
+authors:
+  - r-c-cooper
 editors: []
 contributors: []
 related_thinkers: 
@@ -33,7 +34,7 @@ themes:
   - land-reform
   - nationalisation
 summary: "This Forum of Free Enterprise pamphlet by Dr. Rustom C. Cooper offers a legal-constitutional critique of Article 31 of the Indian Constitution and the Fourth Constitutional Amendment that introduced Article 31A. Cooper argues that the original Article 31 — which obliged the State to compensate citizens whose property it acquired — was steadily eroded by a series of state acquisition statutes and by parliamentary amendments designed to insulate compensation amounts from judicial review. The pamphlet reads the constitutional history as a record of how 'doctrinaire thinking' progressively stripped property of its standing as a fundamental right.\n\nThe argument moves through three registers. First, Cooper rehearses the textual change: Article 31's original language required compensation 'equivalent in value' to property taken, but Article 31A was inserted by Section 17 of the Fourth Amendment Act to immunise State legislation on agricultural estates from being struck down as a breach of fundamental rights.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -56,8 +57,15 @@ thinker_mentions:
       - quote: "Cites Nehru's 10 September 1949 Constituent Assembly speech to show that the original constitutional intent included 'just and equitable compensation' even for large properties"
         context: "Nehru as a witness against his own government's later expropriation logic"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise pamphlet by Dr. Rustom C. Cooper offers a legal-constitutional critique of Article 31 of the Indian Constitution and the Fourth Constitutional Amendment that introduced Article 31A. Cooper argues that the original Article 31 — which obliged the State to compensate citizens whose property it acquired — was steadily eroded by a series of state acquisition statutes and by parliamentary amendments designed to insulate compensation amounts from judicial review. The pamphlet reads the constitutional history as a record of how 'doctrinaire thinking' progressively stripped property of its standing as a fundamental right.

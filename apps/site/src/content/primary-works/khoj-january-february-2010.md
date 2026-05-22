@@ -39,7 +39,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-january-february-2008.pdf"
 needs_extraction: false
@@ -49,6 +49,13 @@ summary: |-
   The lead editorial by Ambrish Mehta argues that the 2009–10 Economic Survey breaks from past template-driven reports by including a chapter, 'Micro-foundations of Inclusive Growth,' authored under the guidance of the UPA government's chief economic adviser Prof. Kaushik Basu (a student of Amartya Sen, long at the Delhi School of Economics and lately Cornell). The editorial frames inclusive growth in liberal terms: government should play an 'enabling' rather than 'controlling' or 'interventionist' role, leaving the market to function while directing public effort at delivering education, healthcare, and nutrition to the poor. It criticises food, fuel and cooking-gas subsidies as corruption-prone and ineffective. The issue carries a Gujarati paraphrase of the Basu chapter (translated as 'Sammilit Vikas-ma Rajya-ni Bhumika', pp. 20–31).
 
   The issue is in the classic Khoj idiom — letters and rejoinders ('Patro / Pratibhavo'), reflections, and policy pieces. Jagdish Patel debates Ambrish Mehta on whether free markets alone can secure worker safety (citing Triangle Shirtwaist 1911, Bhopal 1984, and US OSHA experience). Suryakant Parikh urges Khoj to take up sanitation as its next campaign, citing Sulabh International and the editor's own 'Toilet-ni Duniya' booklet. Prof. Ashwin Karia covers the Mahuva andolan in Bhavnagar against the Nirma cement plant on 4500 hectares of fertile Padhiarka land, led by BJP MLA Dr Kanubhai Kalsariya. The Gujarat-Mumbai Rationalist Association demands repeal of the compulsory-voting law passed by the Gujarat assembly in December 2009. Swaminathan Anklesaria Aiyar (translated from Sunday Times, 31/1/10 by Trupti Parekh) argues against teaching English from Class 1 in place of the mother tongue, citing Helen Abadzi's cognitive-neuroscience work and the Zambia experience. Ketan Shukl writes on innovative education ('Flute Mandir', 'Discovery Channel from waste'). Other items include Jashwant B. Mehta on rainwater harvesting and Dinesh Shukla on the Gujarati press.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary

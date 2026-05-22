@@ -4,7 +4,8 @@ title:
   main: Interest Rates - An Insight
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - rajaram-ajgaonkar
 editors:
   - sunil-bhandare
 contributors:
@@ -47,7 +48,17 @@ missing_metadata_flags:
   - publication_year_not_printed
   - no_publisher_address
   - no_colophon_seen_in_chunk
+authors_resolution:
+  confidence: medium
+  method: llm
+  proposed_unknowns:
+    - Rajaram Ajgaonkar
+  stubs_created:
+    - rajaram-ajgaonkar
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Rajaram Ajgaonkar's booklet, reproduced from the Bombay Chartered Accountants' Journal (May 2016) and reissued by the Forum of Free Enterprise, offers a primer on how interest rates are set and what their movements mean for an economy. Ajgaonkar, a Chartered Accountant, begins from first principles — interest as the price of borrowed money, alternately framed as rent for a lender, cost of capital for a business, and the cost of preponing consumption for a household — and builds outward toward the macroeconomic forces that move rates.

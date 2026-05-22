@@ -45,7 +45,15 @@ missing_metadata_flags:
   - no_formal_toc
   - no_explicit_publication_year_on_imprint
   - no_isbn
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 Anil B. Divan's 1981 keynote address to the Bar Council of India Trust, published as a booklet by the Forum of Free Enterprise, traces the genealogy of judicial independence from Stuart England through colonial India to the first three decades of the Indian Supreme Court. Divan opens with the dictionary sense of 'vis-a-vis' as two parties facing each other, and asks whether the Court's recurrent confrontations with Parliament and the Executive — most recently the new Government's mass transfers of High Court judges and Chief Justices — could harden into 'eyeball to eyeball' confrontation. He grounds the answer in history: Sir Edward Coke's defiance of James I at Westminster Hall in 1608, the Act of Settlement (1701) securing judges' tenure during good behaviour, the colonial-era stand of Sir Peter Grant in Bombay (1829), and Sir Morris Gwyer's wartime striking down of Rule 26 of the Defence of India Rules.

@@ -4,7 +4,8 @@ title:
   main: A Survey of State Enterprises in India
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - a-d-shroff
 editors: []
 contributors:
   - role: introduction
@@ -30,7 +31,7 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "A Survey of State Enterprises in India is a 1962 Forum of Free Enterprise booklet that reprints a sequence of Economic Times articles and editorials from 8 and 16 February 1962, framed by an introduction signed by A. D. Shroff, the Forum's President. The booklet collates a comparative study of sixteen large Central Government companies — covering roughly 91 per cent of actively functioning Central Government undertakings by paid-up capital — alongside private-sector benchmarks drawn from a Reserve Bank of India sample of 1,001 industrial companies and the Economic Times' own panel of 51 industrial giants.\n\nShroff's introduction frames the booklet as a corrective to information opacity: even Parliament's Estimates Committee, he notes, has had to flag the difficulty of obtaining authentic data on state enterprises.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -55,8 +56,15 @@ thinker_mentions:
       - quote: "framed by an introduction signed by A. D. Shroff, the Forum's President"
         context: "the summary establishes Shroff as the author of the booklet's argumentative frame, not merely an epigraph source"
     key_passages: []
-
+authors_resolution:
+  confidence: high
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
+
 ## Summary
 
 A Survey of State Enterprises in India is a 1962 Forum of Free Enterprise booklet that reprints a sequence of Economic Times articles and editorials from 8 and 16 February 1962, framed by an introduction signed by A. D. Shroff, the Forum's President. The booklet collates a comparative study of sixteen large Central Government companies — covering roughly 91 per cent of actively functioning Central Government undertakings by paid-up capital — alongside private-sector benchmarks drawn from a Reserve Bank of India sample of 1,001 industrial companies and the Economic Times' own panel of 51 industrial giants.

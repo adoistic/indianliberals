@@ -36,7 +36,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-january-february-2008.pdf"
 needs_extraction: false
@@ -46,6 +46,13 @@ summary: |-
   The issue is framed around its cover story "Vijaynagarnu Satya" ("The Truth of Vijaynagar"), an extended editorial-reportage piece by Trupti Parekh and Ambrish Mehta on a police firing in February 2008 in the Vijaynagar taluka of Sabarkantha, in which two Adivasis were killed and three wounded at the Antarsuba ashram range-forest office. The editors reconstruct the incident to argue that the Forest Department falsely framed local tribals as "large-scale forest cutters" and "soft Naxalites" in order to discredit the new Forest Rights Act, 2006, on whose enforcement the magazine has been campaigning. A companion editorial by Ambrish Mehta reads the 2007 Gujarat assembly election results as a sobering exercise in "inner-search" for the state's liberal opinion. Two reportage pieces under "Taliyethi" by Rajesh Mishra and Trupti Parekh take up rampant police-extortion on private chhakda-jeep transport in rural Sabarkantha and the twenty-year Adivasi struggle around Deriyapada that culminated in the Forest Rights Act.
 
   Under "Sampratha", Trupti Parekh contributes a sceptical essay on the Tata Nano ("Neno Ek Swapnakatha") weighing the small-car dream against environmental and urban-traffic costs, alongside a news round-up covering the Bilkis Bano verdict, the barbaric treatment of Jharkhand-Bihar Adivasi tea workers in Assam's Gauhati, and Raj Thackeray's anti-North-Indian agitation in Mumbai. The "Sanvad" section carries Rajesh Mishra's translation of an interview with Lord Meghnad Desai, and the "Lekh" section features Jayanti Patel on rationality as a modern concept, Dinesh Shukla on nuclear weaponisation as the mark of a diseased polity, and a piece on Justice Khanna as "the voice of justice against power". Throughout, the issue couples civil-liberties reportage with classical-liberal scepticism of the Indian state.
+authors_resolution:
+  confidence: low
+  method: llm
+  proposed_unknowns: []
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged: []
 ---
 
 ## Summary
