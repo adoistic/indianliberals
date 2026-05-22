@@ -65,7 +65,6 @@ _ROMAN_RX = re.compile(
     r"^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$",
     re.IGNORECASE,
 )
-_SLUG_RX = re.compile(r"^[a-z][a-z0-9-]*$")
 
 _FRONTMATTER_RX = re.compile(r"^---\n(.*?)\n---\n?(.*)$", re.S)
 
@@ -188,7 +187,7 @@ def _run_tests():
 
     # Year drop
     assert "1956" not in tokenize("", "speech-1956-shroff")
-    assert "feb11" not in tokenize("", "feb11-1956")  # year regex catches the embedded year
+    assert "feb11" not in tokenize("", "feb11-1956")  # _MONTH_PREFIX_RX drops date fragments like feb11
 
     # Month drop
     assert "january" not in tokenize("January Lecture", "")
