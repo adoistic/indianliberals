@@ -48,9 +48,9 @@ authors_resolution:
   proposed_unknowns:
     - John Matthai
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - john-matthai
+  collisions_logged: []
 ---
 
 ## Summary

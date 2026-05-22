@@ -57,9 +57,9 @@ authors_resolution:
   proposed_unknowns:
     - Usha Thorat
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - usha-thorat
+  collisions_logged: []
 ---
 
 ## Summary

@@ -51,9 +51,9 @@ authors_resolution:
   proposed_unknowns:
     - Nittoor Srinivasa Rao
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - nittoor-srinivasa-rao
+  collisions_logged: []
 ---
 
 ## Summary

@@ -50,9 +50,9 @@ authors_resolution:
   proposed_unknowns:
     - Roberto de Oliveira Campos
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - roberto-de-oliveira-campos
+  collisions_logged: []
 ---
 
 ## Summary

@@ -46,9 +46,9 @@ authors_resolution:
   proposed_unknowns:
     - N. T. Taskar
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - n-t-taskar
+  collisions_logged: []
 ---
 
 ## Summary

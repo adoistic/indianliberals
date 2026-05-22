@@ -49,9 +49,9 @@ authors_resolution:
   proposed_unknowns:
     - Shailaja Bapat
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - shailaja-bapat
+  collisions_logged: []
 ---
 
 ## Summary

@@ -48,9 +48,9 @@ authors_resolution:
   proposed_unknowns:
     - C. K. Daphtary
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - c-k-daphtary
+  collisions_logged: []
 ---
 
 ## Summary

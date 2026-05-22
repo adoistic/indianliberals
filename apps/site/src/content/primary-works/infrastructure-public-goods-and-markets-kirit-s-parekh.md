@@ -51,9 +51,9 @@ authors_resolution:
   proposed_unknowns:
     - Kirit S. Parekh
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - kirit-s-parekh
+  collisions_logged: []
 ---
 
 ## Summary

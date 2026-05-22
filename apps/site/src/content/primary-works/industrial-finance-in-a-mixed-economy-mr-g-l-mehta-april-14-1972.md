@@ -50,9 +50,9 @@ authors_resolution:
   proposed_unknowns:
     - G. L. Mehta
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - g-l-mehta
+  collisions_logged: []
 ---
 
 ## Summary

@@ -54,9 +54,9 @@ authors_resolution:
   proposed_unknowns:
     - Jayant Sinha
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - jayant-sinha
+  collisions_logged: []
 ---
 
 ## Summary

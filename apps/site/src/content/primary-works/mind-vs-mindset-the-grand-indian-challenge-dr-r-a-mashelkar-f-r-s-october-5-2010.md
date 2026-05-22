@@ -56,9 +56,9 @@ authors_resolution:
   proposed_unknowns:
     - R. A. Mashelkar
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - r-a-mashelkar
+  collisions_logged: []
 ---
 
 ## Summary

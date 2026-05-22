@@ -54,9 +54,9 @@ authors_resolution:
   proposed_unknowns:
     - Amul Desai
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - amul-desai
+  collisions_logged: []
 ---
 
 ## Summary

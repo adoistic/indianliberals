@@ -15,5 +15,5 @@ With `authors[]` populated: 330/378 (87%)
 - medium: 40
 - low: 30
 
-## Stubs created (entries with new stub thinkers): 4
-## Collisions logged (silent existing-thinker hits): 42
+## Stubs created (entries with new stub thinkers): 0
+## Collisions logged (silent existing-thinker hits): 0

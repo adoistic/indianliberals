@@ -48,9 +48,9 @@ authors_resolution:
   proposed_unknowns:
     - A. C. Chhatrapati
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - a-c-chhatrapati
+  collisions_logged: []
 ---
 
 ## Summary

@@ -55,9 +55,9 @@ authors_resolution:
   proposed_unknowns:
     - Peregrine
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - peregrine
+  collisions_logged: []
 ---
 
 ## Summary

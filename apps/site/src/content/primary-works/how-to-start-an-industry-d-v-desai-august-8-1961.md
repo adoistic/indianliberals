@@ -46,9 +46,9 @@ authors_resolution:
   proposed_unknowns:
     - D. V. Desai
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - d-v-desai
+  collisions_logged: []
 ---
 
 ## Summary

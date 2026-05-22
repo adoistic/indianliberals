@@ -51,9 +51,9 @@ authors_resolution:
   proposed_unknowns:
     - Surinder P. S. Pruthi
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - surinder-p-s-pruthi
+  collisions_logged: []
 ---
 
 ## Summary

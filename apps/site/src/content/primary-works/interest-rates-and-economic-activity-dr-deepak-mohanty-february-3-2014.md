@@ -51,9 +51,9 @@ authors_resolution:
   proposed_unknowns:
     - Deepak Mohanty
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - deepak-mohanty
+  collisions_logged: []
 ---
 
 ## Summary

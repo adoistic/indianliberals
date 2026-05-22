@@ -66,10 +66,10 @@ authors_resolution:
     - T. Thomas
     - Dilip G. Piramal
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - t-thomas
     - dilip-g-piramal
+  collisions_logged: []
 ---
 
 ## Summary

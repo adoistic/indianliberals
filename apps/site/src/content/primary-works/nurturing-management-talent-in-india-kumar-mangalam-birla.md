@@ -46,9 +46,9 @@ authors_resolution:
   proposed_unknowns:
     - Kumar Mangalam Birla
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - kumar-mangalam-birla
+  collisions_logged: []
 ---
 
 ## Summary

@@ -50,9 +50,9 @@ authors_resolution:
   proposed_unknowns:
     - S. D. Naik
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - s-d-naik
+  collisions_logged: []
 ---
 
 ## Summary

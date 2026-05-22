@@ -57,9 +57,9 @@ authors_resolution:
   proposed_unknowns:
     - Nandan Nilekani
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - nandan-nilekani
+  collisions_logged: []
 ---
 
 ## Summary

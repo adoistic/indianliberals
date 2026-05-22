@@ -57,9 +57,9 @@ authors_resolution:
   proposed_unknowns:
     - S. S. Nadkarni
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - s-s-nadkarni
+  collisions_logged: []
 ---
 
 ## Summary

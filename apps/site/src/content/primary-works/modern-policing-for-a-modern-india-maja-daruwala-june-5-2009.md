@@ -59,9 +59,9 @@ authors_resolution:
   proposed_unknowns:
     - Maja Daruwala
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - maja-daruwala
+  collisions_logged: []
 ---
 
 ## Summary

@@ -47,9 +47,9 @@ authors_resolution:
   proposed_unknowns:
     - R. M. Honavar
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - r-m-honavar
+  collisions_logged: []
 ---
 
 ## Summary

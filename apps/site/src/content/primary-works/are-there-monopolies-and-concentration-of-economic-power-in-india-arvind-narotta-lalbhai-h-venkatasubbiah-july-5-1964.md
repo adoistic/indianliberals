@@ -43,7 +43,7 @@ themes:
   - competition
   - industrial-policy
 summary: "Are There Monopolies and Concentration of Economic Power in India? is a short Forum of Free Enterprise booklet, published in Bombay in July 1964 and printed by M. R. Pai. The Forum frames the booklet as a dispassionate intervention against what it calls 'ill-informed talk' on monopolies and concentration of economic power, and reproduces two newspaper articles already published earlier in 1964 — H. Venkatasubbiah's 'A Naive Analysis of Economic Power' (from The Hindu, 9 May 1964) and Arvind Narottam Lalbhai's 'Government's Obsession with \"Monopolies\" — A Threat to Economic Progress' (from The Economic Times, 15 April 1964) — together with an Appendix of selected quotations from Wilhelm Roepke's Economics of the Free Society.\n\nThe argumentative centre is a sceptical reading of the Mahalanobis Committee on Distribution of Income and Levels of Living: Venkatasubbiah's piece dissects what he treats as the Committee's conceptual confusions between wealth, economic power and decision-making power, and argues that a politicised concentration of economic power in the State is no remedy.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -64,9 +64,9 @@ authors_resolution:
   proposed_unknowns:
     - H. Venkatasubbiah
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - h-venkatasubbiah
+  collisions_logged: []
 ---
 
 ## Summary

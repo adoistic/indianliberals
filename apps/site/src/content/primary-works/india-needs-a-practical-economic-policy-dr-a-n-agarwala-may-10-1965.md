@@ -54,9 +54,9 @@ authors_resolution:
   proposed_unknowns:
     - A. N. Agarwala
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - a-n-agarwala
+  collisions_logged: []
 ---
 
 ## Summary

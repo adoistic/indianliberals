@@ -59,9 +59,9 @@ authors_resolution:
   proposed_unknowns:
     - Raghuram G. Rajan
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - raghuram-g-rajan
+  collisions_logged: []
 ---
 
 ## Summary

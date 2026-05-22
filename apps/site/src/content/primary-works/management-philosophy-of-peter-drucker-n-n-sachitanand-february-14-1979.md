@@ -43,9 +43,9 @@ authors_resolution:
   proposed_unknowns:
     - N. N. Sachitanand
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - n-n-sachitanand
+  collisions_logged: []
 ---
 
 ## Summary

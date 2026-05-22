@@ -72,9 +72,9 @@ authors_resolution:
   proposed_unknowns:
     - V. K. Narasimhan
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - v-k-narasimhan
+  collisions_logged: []
 ---
 
 ## Summary

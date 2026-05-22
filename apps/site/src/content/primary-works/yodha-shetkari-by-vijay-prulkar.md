@@ -41,9 +41,9 @@ authors_resolution:
   proposed_unknowns:
     - Vijay Prulkar
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - vijay-prulkar
+  collisions_logged: []
 ---
 
 ## Summary

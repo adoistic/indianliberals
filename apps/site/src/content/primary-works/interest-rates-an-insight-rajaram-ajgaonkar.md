@@ -54,9 +54,9 @@ authors_resolution:
   proposed_unknowns:
     - Rajaram Ajgaonkar
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - rajaram-ajgaonkar
+  collisions_logged: []
 ---
 
 ## Summary

@@ -55,9 +55,9 @@ authors_resolution:
   proposed_unknowns:
     - R. K. Daruwalla
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - r-k-daruwalla
+  collisions_logged: []
 ---
 
 ## Summary

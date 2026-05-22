@@ -154,7 +154,14 @@ ai:
 """
 
 
-def existing_thinker_canonical(slug: str) -> str | None:
+def existing_thinker_info(slug: str) -> tuple[str, str] | None:
+    """Return (kind, canonical) for an existing thinker, or None if absent.
+
+    kind is 'pipeline_stub' when the thinker was created by this pipeline
+    (bio_source: ai_drafted_stub) — re-references are silent; or 'curated'
+    for any other bio_source (or no bio_source field) — those need curator
+    review when a stub slug-collides.
+    """
     path = THINKERS_DIR / f"{slug}.md"
     if not path.exists():
         return None
@@ -164,7 +171,10 @@ def existing_thinker_canonical(slug: str) -> str | None:
         return None
     fm = m.group(1)
     cn = re.search(r"^\s+canonical:\s*[\"']?(.+?)[\"']?\s*$", fm, re.M)
-    return cn.group(1).strip() if cn else None
+    canonical = cn.group(1).strip() if cn else slug
+    bs = re.search(r"^bio_source:\s*([a-z_]+)", fm, re.M)
+    kind = "pipeline_stub" if (bs and bs.group(1) == "ai_drafted_stub") else "curated"
+    return (kind, canonical)
 
 
 # Per-entry applier ─────────────────────────────────────────────────────
@@ -215,20 +225,26 @@ def process_entry(
             authors.append(slug)
             stubs_referenced.append(slug)
             continue
-        existing_canonical = existing_thinker_canonical(slug)
-        if existing_canonical is not None:
-            # Pre-existing thinker collision — link but log
+        info = existing_thinker_info(slug)
+        if info is not None:
+            kind, existing_canonical = info
+            if kind == "pipeline_stub":
+                # Previous-run pipeline stub — silent reference, not a collision.
+                authors.append(slug)
+                stubs_referenced.append(slug)
+                continue
+            # Curated thinker collision — link but log for curator review.
             authors.append(slug)
             collisions_logged.append(slug)
             log.append(
                 f"[{entry_id}] COLLISION: proposed unknown '{name}' → slug '{slug}' "
-                f"already exists as '{existing_canonical}' (linking anyway per spec §3)"
+                f"already exists as '{existing_canonical}' (curated; linking anyway per spec §3)"
             )
             if not dry_run:
                 COLLISIONS_LOG.parent.mkdir(parents=True, exist_ok=True)
                 with COLLISIONS_LOG.open("a", encoding="utf-8") as cl:
                     cl.write(
-                        f"{datetime.datetime.utcnow().isoformat()}Z\t{entry_id}\t"
+                        f"{datetime.datetime.now(datetime.UTC).isoformat()}\t{entry_id}\t"
                         f"{name}\t{slug}\t{existing_canonical}\n"
                     )
             continue
@@ -459,6 +475,91 @@ Body.
             assert "role: translator" in new_b
             # High confidence + no stubs + no collisions + no resolved authors → needs_review STILL true (no authors)
             assert "needs_review: true" in new_b
+        finally:
+            PW_DIR, THINKERS_DIR = orig_pw, orig_th
+
+    # process_entry: collision detection distinguishes pipeline_stub vs curated
+    sample_md_c = """---
+id: "collision-test"
+title:
+  main: "Test Collision"
+authors: []
+contributors: []
+needs_review: true
+draft: false
+---
+
+Body.
+"""
+    pipeline_thinker_md = """---
+id: existing-stub
+name:
+  canonical: "Existing Stub"
+  sort: "Stub, Existing"
+  also_known_as: []
+tradition: unclassified
+bio_source: ai_drafted_stub
+needs_review: true
+draft: false
+---
+"""
+    curated_thinker_md = """---
+id: real-person
+name:
+  canonical: "Real Person"
+  sort: "Person, Real"
+  also_known_as: []
+tradition: contemporary_liberal
+bio_source: imported
+needs_review: false
+draft: false
+---
+"""
+    orig_pw, orig_th = PW_DIR, THINKERS_DIR
+    with tempfile.TemporaryDirectory() as td:
+        PW_DIR = Path(td) / "primary-works"
+        THINKERS_DIR = Path(td) / "thinkers"
+        PW_DIR.mkdir()
+        THINKERS_DIR.mkdir()
+        (PW_DIR / "collision-test.md").write_text(sample_md_c)
+        (THINKERS_DIR / "existing-stub.md").write_text(pipeline_thinker_md)
+        (THINKERS_DIR / "real-person.md").write_text(curated_thinker_md)
+        try:
+            # Pipeline stub re-reference: silent
+            rec_pipeline = {
+                "id": "collision-test",
+                "matches": [],
+                "unknowns": ["Existing Stub"],
+                "confidence": "medium",
+                "method": "llm",
+            }
+            log_c: list[str] = []
+            result = process_entry("collision-test", rec_pipeline, set(), False, log_c)
+            assert result == "applied"
+            new = (PW_DIR / "collision-test.md").read_text()
+            assert "- existing-stub" in new
+            assert "stubs_referenced:" in new
+            assert "    - existing-stub" in new
+            assert "collisions_logged: []" in new
+            assert not any("COLLISION" in l for l in log_c), log_c
+
+            # Curated namesake: logged as collision
+            (PW_DIR / "collision-test.md").write_text(sample_md_c)  # reset
+            rec_curated = {
+                "id": "collision-test",
+                "matches": [],
+                "unknowns": ["Real Person"],
+                "confidence": "medium",
+                "method": "llm",
+            }
+            log_d: list[str] = []
+            result = process_entry("collision-test", rec_curated, set(), False, log_d)
+            assert result == "applied"
+            new = (PW_DIR / "collision-test.md").read_text()
+            assert "- real-person" in new
+            assert "collisions_logged:" in new
+            assert "    - real-person" in new
+            assert any("COLLISION" in l for l in log_d), log_d
         finally:
             PW_DIR, THINKERS_DIR = orig_pw, orig_th
 

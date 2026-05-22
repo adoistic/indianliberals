@@ -47,7 +47,7 @@ themes:
   - economic-development
   - welfare-state
 summary: "This 2002 Forum of Free Enterprise booklet pairs two essays that mount a liberal case against welfare-bureaucracy and anti-globalisation responses to poverty. An editorial introduction by Minoo R. Shroff (FFE President, dated 31st October 2002) frames the volume in the context of the decade-long Indian debate on liberalisation and globalisation, and dedicates the work to FFE founder-president A. D. Shroff. The first essay, by German Free Democrat politician and former Federal Minister of Economics Otto Count Lambsdorff (then chairman of the Friedrich Naumann Stiftung), defends classical liberalism, private property rights, free trade and market-based delivery of services over transfer payments and welfare bureaucracies, leaning heavily on Hernando de Soto's argument that defective property rights are the principal cause of poverty in the global South.…"
-needs_review: true
+needs_review: false
 draft: false
 ai:
   drafted_by: claude-sonnet-4.5
@@ -102,9 +102,9 @@ authors_resolution:
   proposed_unknowns:
     - Swaminathan A. Aiyar
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - swaminathan-a-aiyar
+  collisions_logged: []
 ---
 
 ## Summary

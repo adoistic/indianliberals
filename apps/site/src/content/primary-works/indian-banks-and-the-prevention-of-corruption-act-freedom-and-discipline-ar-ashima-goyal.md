@@ -53,9 +53,9 @@ authors_resolution:
   proposed_unknowns:
     - Ashima Goyal
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - ashima-goyal
+  collisions_logged: []
 ---
 
 ## Summary

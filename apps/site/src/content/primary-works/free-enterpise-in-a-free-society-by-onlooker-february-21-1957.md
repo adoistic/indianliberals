@@ -71,9 +71,9 @@ authors_resolution:
   proposed_unknowns:
     - Onlooker
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - onlooker
+  collisions_logged: []
 ---
 
 ## Summary

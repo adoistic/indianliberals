@@ -50,7 +50,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -68,9 +68,9 @@ authors_resolution:
     - Yogendra Mankad
     - Manjula Dabhi
     - Asghar Ali Engineer
-  stubs_created:
-    - revatubha-rayjada
+  stubs_created: []
   stubs_referenced:
+    - revatubha-rayjada
     - yogendra-mankad
     - manjula-dabhi
     - asghar-ali-engineer

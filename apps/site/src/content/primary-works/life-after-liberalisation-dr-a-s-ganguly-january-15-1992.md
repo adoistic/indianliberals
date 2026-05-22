@@ -55,9 +55,9 @@ authors_resolution:
   proposed_unknowns:
     - A. S. Ganguly
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - a-s-ganguly
+  collisions_logged: []
 ---
 
 ## Summary

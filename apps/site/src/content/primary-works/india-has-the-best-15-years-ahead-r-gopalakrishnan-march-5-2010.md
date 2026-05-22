@@ -54,9 +54,9 @@ authors_resolution:
   proposed_unknowns:
     - R. Gopalakrishnan
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - r-gopalakrishnan
+  collisions_logged: []
 ---
 
 ## Summary

@@ -55,9 +55,9 @@ authors_resolution:
   proposed_unknowns:
     - Shesrav Mohite
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - shesrav-mohite
+  collisions_logged: []
 ---
 
 ## Summary

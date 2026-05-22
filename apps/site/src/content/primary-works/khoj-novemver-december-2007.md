@@ -48,7 +48,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-november-december-2009.pdf"
 needs_extraction: false
@@ -68,14 +68,14 @@ authors_resolution:
     - Gajendrasinh P. Jadeja
     - Ashwinkumar N. Kariya
     - Kunjan Mehta
-  stubs_created:
+  stubs_created: []
+  stubs_referenced:
     - vasudeva-vora
     - pratap-bhanu-mehta
     - chakravarti-ashok-priyadarshi
     - gajendrasinh-p-jadeja
     - ashwinkumar-n-kariya
     - kunjan-mehta
-  stubs_referenced: []
   collisions_logged: []
 contributors:
   - thinker: ambrish-mehta

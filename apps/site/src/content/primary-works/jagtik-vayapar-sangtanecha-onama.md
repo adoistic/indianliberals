@@ -53,9 +53,9 @@ authors_resolution:
   method: vision
   proposed_unknowns:
     - Dnyaneshwar M. Shelar
-  stubs_created:
+  stubs_created: []
+  stubs_referenced:
     - dnyaneshwar-m-shelar
-  stubs_referenced: []
   collisions_logged: []
 ---
 

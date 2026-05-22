@@ -56,9 +56,9 @@ authors_resolution:
   proposed_unknowns:
     - Ajit Narde
   stubs_created: []
-  stubs_referenced: []
-  collisions_logged:
+  stubs_referenced:
     - ajit-narde
+  collisions_logged: []
 ---
 
 ## Summary
