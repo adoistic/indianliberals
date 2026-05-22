@@ -53,6 +53,7 @@ const thinkers = defineCollection({
       'social_reformer',
       'contemporary_liberal',
       'international_influence',
+      'unclassified',
     ]),
     themes: z.array(z.string()).default([]),
     affiliations: z.array(z.string()).default([]),
@@ -302,6 +303,21 @@ const primaryWorks = defineCollection({
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
     thinker_mentions: z.array(thinkerMention).default([]),
+    // Authors resolution provenance — populated by scripts/synthesis/apply-byline.py.
+    // Lets the curator audit which entries were matched deterministically vs LLM vs
+    // vision, which had to fall back to auto-stubbing new thinkers, and which had
+    // silent slug-collisions with existing thinkers. See
+    // docs/superpowers/specs/2026-05-19-primary-works-byline-resolution-design.md
+    authors_resolution: z
+      .object({
+        confidence: z.enum(['high', 'medium', 'low']).optional(),
+        method: z.enum(['deterministic', 'llm', 'vision']).optional(),
+        proposed_unknowns: z.array(z.string()).default([]),
+        stubs_created: z.array(z.string()).default([]),
+        stubs_referenced: z.array(z.string()).default([]),
+        collisions_logged: z.array(z.string()).default([]),
+      })
+      .optional(),
     related_works: z.array(z.string()).default([]),
     // Reconciled TOC for multi-author works. Populated by the metadata pass
     // (transcribed verbatim from the TOC page + cross-referenced against
