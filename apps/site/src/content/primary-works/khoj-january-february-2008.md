@@ -47,12 +47,15 @@ summary: |-
 
   Under "Sampratha", Trupti Parekh contributes a sceptical essay on the Tata Nano ("Neno Ek Swapnakatha") weighing the small-car dream against environmental and urban-traffic costs, alongside a news round-up covering the Bilkis Bano verdict, the barbaric treatment of Jharkhand-Bihar Adivasi tea workers in Assam's Gauhati, and Raj Thackeray's anti-North-Indian agitation in Mumbai. The "Sanvad" section carries Rajesh Mishra's translation of an interview with Lord Meghnad Desai, and the "Lekh" section features Jayanti Patel on rationality as a modern concept, Dinesh Shukla on nuclear weaponisation as the mark of a diseased polity, and a piece on Justice Khanna as "the voice of justice against power". Throughout, the issue couples civil-liberties reportage with classical-liberal scepticism of the Indian state.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

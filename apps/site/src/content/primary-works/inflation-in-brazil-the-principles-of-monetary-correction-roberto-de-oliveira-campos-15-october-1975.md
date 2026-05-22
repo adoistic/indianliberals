@@ -49,10 +49,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Roberto de Oliveira Campos
-  stubs_created:
-    - roberto-de-oliveira-campos
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - roberto-de-oliveira-campos
 ---
 
 ## Summary

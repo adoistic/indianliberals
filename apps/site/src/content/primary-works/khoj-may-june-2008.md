@@ -46,12 +46,21 @@ summary: |-
 
   The 'Sampratha' (current affairs) section carries Trupti Parekh's lead essay 'Aapni Mulbhut Swatantrato Surakshit Chhe Khari?' (Are Our Fundamental Freedoms Really Safe?), which dissects the sedition charges (IPC 124A) filed in June 2008 by Ahmedabad Police Commissioner O. P. Mathur against the local Times of India editor, a reporter and a photographer, comparing the move to British-era prosecutions of Tilak. A companion piece reports the 22 June 2008 Abhivyakti-Swatantrya Sammelan in Ahmedabad, a state-level free-speech convention convened by JP centenary committee, PUCL and others, which passed a resolution against the use of sedition law on journalists (including cases against Aaj Tak, Saamna, Aajkaal-Rajkot, Yang Aarodhi-Veraval, Nafisa Ali and Divya Bhaskar) and the Andhra Pradesh police action against Andhra Jyothi under the AP Atrocities Act. Further articles in the issue cover the Amarnath yatra controversy, judicial overreach (Rajeev Dhavan, Ashwin Karia), forest rights act implementation, and a serialised 'Vigyan-Adhyatm' (Science-Spirituality) essay by Anil Patel.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

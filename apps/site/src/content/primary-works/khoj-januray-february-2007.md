@@ -53,12 +53,15 @@ summary: |-
 
   Other features include readers' letters responding to the previous issue's Milton Friedman tribute and its urban-poverty coverage; Suresh Parikh and Kardam Modi on the philosophy of teaching ('the teacher's work is that of a midwife, not a potter'); K.V. Patel on poverty; and Kirit Panwala's continuing series on reforming the Indian judicial system. The economics section ('Free your mind - 4') runs Sauvik Chakraverti on why free trade matters for India, a Gujarati translation of Frederic Bastiat's 'Candlemakers' Petition', selections from Munshi Premchand on swadeshi and protectionism (in Hindi), and Matt Ridley's 'The Gains from Trade' on the Yir Yoront aboriginals — a classical-liberal economics primer aimed at Gujarati readers.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

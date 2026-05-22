@@ -42,10 +42,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - N. N. Sachitanand
-  stubs_created:
-    - n-n-sachitanand
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - n-n-sachitanand
 ---
 
 ## Summary

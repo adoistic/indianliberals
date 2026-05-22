@@ -46,12 +46,21 @@ summary: |-
 
   Further essays cover khap panchayat fatwas and honour killings in Haryana after the Mirchpur and Karnal cases, Madhu Purnima Kishwar and Barkha Mishra on the politics of women's reservation, Cleavia Andrews on the journey "from Shah Bano to Shabana" of Muslim women's rights, Mahboob Desai on Sufi-inspired Gujarati sant literature, M.J. Akbar on whom fatwas are issued against, and tributes to mathematician Prof. P.U. Vaidh and others. The issue's overall stance is recognisably liberal-constitutionalist: defend due process, push back against majoritarian and caste-patriarchal informal authority, and insist that adivasi and Muslim citizens be treated as rights-bearers rather than security problems.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

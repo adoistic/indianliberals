@@ -308,11 +308,15 @@ def main() -> int:
             records[rec["id"]] = {**rec}
 
     # LLM outputs (don't overwrite deterministic)
+    # Skip LLM records that flagged needs_vision: they're pass-through markers,
+    # not resolutions, and would otherwise block the corresponding vision record.
     for fp in sorted(OUT_DIR.glob("llm-output-*.json")):
         arr = json.loads(fp.read_text())
         for rec in arr:
             rid = rec.get("id")
             if not rid or rid in records:
+                continue
+            if rec.get("needs_vision"):
                 continue
             rec.setdefault("method", "llm")
             records[rid] = rec

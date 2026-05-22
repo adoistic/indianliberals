@@ -49,10 +49,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - G. L. Mehta
-  stubs_created:
-    - g-l-mehta
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - g-l-mehta
 ---
 
 ## Summary

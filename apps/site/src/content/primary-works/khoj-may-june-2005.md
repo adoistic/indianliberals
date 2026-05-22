@@ -52,12 +52,25 @@ summary: |-
 
   The issue also opens a major series, ‘Swatantrata – Gnyan ane Bazaar’ (‘Liberty – Knowledge and the Market’) by Anil Patel, growing out of a 2003 GIDR (Ahmedabad) seminar with Sudarshan Iyengar. Part 1 lays out four conceptions of liberty — individual, political, inner, and economic-power-as-liberty — drawing on Auden, C. Bay, John Dewey and Hayek, and defends the free market as the only rational and humane development alternative against both Nehruvian central planning and the Gandhi–Vinoba Sarvodaya ‘third way’. A translated chapter from Hayek's Road to Serfdom (‘Individualism and Collectivism’) accompanies it. Other pieces include Sudarshan Iyengar and Nimisha Shukla on whether ‘sustainable development’ can be sustained, a sceptical-environmentalist column by Ambarish Mehta in the vein of Bjørn Lomborg, an Anil Patel note on the Advani–Jinnah controversy and India–Pakistan reconciliation, and an extensive readers' letters section responding to the inaugural March–April 2005 issue (including Kanti Shah, Kumar Bhatt, Vimla Thakar and others).
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
+  - thinker: parth-shah
+    role: editor
+  - thinker: ashwin-karia
+    role: editor
 ---
 
 ## Summary

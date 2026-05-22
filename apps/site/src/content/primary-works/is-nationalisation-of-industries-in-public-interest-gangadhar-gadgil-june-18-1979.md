@@ -55,10 +55,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Gangadhar Gadgil
-  stubs_created:
-    - gangadhar-gadgil
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - gangadhar-gadgil
 ---
 
 ## Summary

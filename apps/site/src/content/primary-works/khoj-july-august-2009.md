@@ -54,12 +54,15 @@ summary: |-
 
   The second strand is Anil Patel's serialised essay 'Svatantrata, Jnan ane Bazaar' ('Freedom, Knowledge and the Market'), now at part 7, on the transition from hard socialism to the soft socialism of the welfare state. Anchored on a 1961 F. A. Hayek epigraph on economic freedom as the indispensable condition of all freedoms, it traces Stalinism, the failure of central planning, Mill, Keynes, market socialism, the 'tragedy of the commons,' Popper and Hayek on dispersed knowledge, and the case for decentralisation, plurality and individual creativity over bureaucratic 'tax-and-spend' welfarism. The letters section debates the Narmada Project (height raised to 121 m), Shankar Gopalakrishnan writes on the 2005 Tribal Forest Rights Bill and Chhattisgarh, Trupti Parekh on the 11 July 2006 Mumbai train bombings and on Kevadia displacement, and Barun Mitra on tiger conservation in China — a characteristic mix of classical-liberal economics with on-the-ground civil-liberties reporting from Gujarat.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

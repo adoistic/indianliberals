@@ -53,12 +53,15 @@ summary: |-
 
   Other articles cover the implications of the Kalinganagar tragedy and the 2005 Scheduled Tribes Forest Rights Bill (both by Trupti Parekh), "What can India learn from Hong Kong?" by Barun Mitra of the Liberty Institute, a fourth piece in Ambrish Mehta's "Sceptical Environmentalist" series on pesticide and chemical pollution, a Gujarati abridgement of Amartya Sen's introduction to The Argumentative Indian, short essays on church-state distance by Ashwin Karia and on atheist-theist bridges by Gautam Thakar, plus a "Charcha ni Eran" (Anvil of Debate) discussion column and a translated extract from Karl Popper titled "Buddhinishtha" (Rationalism). The issue is firmly positioned within the classical-liberal / Hayekian wing of Indian public thought.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

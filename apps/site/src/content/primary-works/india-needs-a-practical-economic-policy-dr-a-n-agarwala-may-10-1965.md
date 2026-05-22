@@ -53,10 +53,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - A. N. Agarwala
-  stubs_created:
-    - a-n-agarwala
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - a-n-agarwala
 ---
 
 ## Summary

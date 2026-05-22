@@ -101,10 +101,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Swaminathan A. Aiyar
-  stubs_created:
-    - swaminathan-a-aiyar
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - swaminathan-a-aiyar
 ---
 
 ## Summary

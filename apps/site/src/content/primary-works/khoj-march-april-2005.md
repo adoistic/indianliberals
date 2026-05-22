@@ -3,7 +3,17 @@ id: "khoj-march-april-2005"
 title: 
   main: "Khoj : March-April, 2005"
 work_type: "periodical_issue"
-authors: []
+authors:
+  - rajesh-mishra
+  - trupti-parekh
+  - parth-shah
+  - sauvik-chakraverti
+  - rabindranath-tagore
+  - revatbha-rayjada
+  - pucl-gujarat
+  - yogendra-mankad
+  - manjula-dabhi
+  - asghar-ali-engineer
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -56,12 +66,25 @@ summary: |-
 
   The rest of the issue previews the recurring sections: 'Samachar ni bhitarma' (Inside the news) by Anil Patel covers the National Rural Employment Guarantee Scheme and Jharkhand's constitutional crisis; Ambrish Mehta launches a series on Bjorn Lomborg's The Skeptical Environmentalist; a Gujarati translation of a 1972 Karl Popper interview on critical rationalism and the open society follows; Rajesh Mishra revisits the 2002 destruction of Muslim properties in tribal areas of Kavant; and Anil Patel reviews Matt Ridley's The Origins of Virtue on the evolutionary roots of exchange and cooperation. The issue closes with Walter Lippmann's 1937 line that in a free society the state administers justice among men who conduct their own affairs.
 authors_resolution:
-  confidence: low
-  method: llm
-  proposed_unknowns: []
-  stubs_created: []
+  confidence: high
+  method: vision
+  proposed_unknowns:
+    - Revatbha Rayjada
+    - PUCL Gujarat
+    - Yogendra Mankad
+    - Manjula Dabhi
+    - Asghar Ali Engineer
+  stubs_created:
+    - revatbha-rayjada
+    - pucl-gujarat
+    - yogendra-mankad
+    - manjula-dabhi
+    - asghar-ali-engineer
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

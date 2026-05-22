@@ -46,7 +46,7 @@ physical:
   format: Pamphlet/booklet (20 printed book pages; 13 rendered PDF pages with two book pages per leaf plus cover/colophon). FFE booklet imprint, blue card cover with FFE seal.
 authors_resolution:
   confidence: low
-  method: llm
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []

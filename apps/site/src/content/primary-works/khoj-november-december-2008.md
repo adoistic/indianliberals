@@ -38,12 +38,21 @@ needs_extraction: false
 summary: |-
   This entry refers to the November-December 2008 issue of Khoj, a Gujarati-language periodical published by the Centre for Civil Society's affiliated networks as part of the broader Indian liberal magazine ecosystem. Khoj appeared bimonthly in Gujarati throughout the late 2000s, carrying essays, translated commentary, and original Gujarati writing on classical liberal themes — free markets, individual liberty, limits on state power, and the case for economic reform in India. Companion bimonthly issues from 2005 through 2010 are present in the publisher's archive, but the November-December 2008 issue is not available in the source corpus on the working drive and could not be opened for extraction. Adjacent issues from 2008 (January-February, March-April, May-June, and an unusually long July-October combined issue) suggest the November-December number may either have been skipped, folded into a combined late-2008 release, or simply lost from the digital archive. Without the PDF in hand, the specific essays, contributors, and arguments in this particular issue cannot be summarized. The entry is preserved as a placeholder in the inventory so that the missing issue can be flagged and, if recovered, slotted into the archive alongside its sibling Khoj numbers. Editorial review is needed to confirm whether this issue actually exists as a standalone publication or whether the inventory entry should be reconciled with the July-October 2008 combined issue.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

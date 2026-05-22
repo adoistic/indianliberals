@@ -53,10 +53,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - R. Gopalakrishnan
-  stubs_created:
-    - r-gopalakrishnan
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - r-gopalakrishnan
 ---
 
 ## Summary

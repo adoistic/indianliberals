@@ -65,11 +65,11 @@ authors_resolution:
   proposed_unknowns:
     - T. Thomas
     - Dilip G. Piramal
-  stubs_created:
+  stubs_created: []
+  stubs_referenced: []
+  collisions_logged:
     - t-thomas
     - dilip-g-piramal
-  stubs_referenced: []
-  collisions_logged: []
 ---
 
 ## Summary

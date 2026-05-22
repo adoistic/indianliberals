@@ -3,7 +3,16 @@ id: "khoj-march-april-2008"
 title: 
   main: "Khoj : March - April, 2008"
 work_type: "periodical_issue"
-authors: []
+authors:
+  - rajesh-mishra
+  - trupti-parekh
+  - parth-shah
+  - sauvik-chakraverti
+  - rabindranath-tagore
+  - revatbha-rayjada
+  - yogendra-mankad
+  - manjula-dabhi
+  - asghar-ali-engineer
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -37,7 +46,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -48,12 +57,23 @@ summary: |-
 
   The issue also carries a substantial debate on rationalism: a long response by Raman Pathak 'Vachaspati' to Jayanti Patel's earlier essay, arguing that the proper Gujarati equivalent of "rationalism" is vivek-buddhi-vada, not merely vivek, and defending rationalism (after the London Rationalist Association definition) as the supremacy of reason verifiable by experience. Kiran Desai and Anil Patel respond to Mehta's earlier Nirikshak essay on the 2007 Gujarat election result, debating whether Modi's mandate can be read as approval of "broad-based development" or as endorsement of communal polarisation and the erosion of rule of law. A long letters section and pieces on science-and-spirituality (Anil Patel; Ashwin N. Karia) round out the issue.
 authors_resolution:
-  confidence: low
-  method: llm
-  proposed_unknowns: []
+  confidence: high
+  method: vision
+  proposed_unknowns:
+    - Revatbha Rayjada
+    - Yogendra Mankad
+    - Manjula Dabhi
+    - Asghar Ali Engineer
   stubs_created: []
-  stubs_referenced: []
+  stubs_referenced:
+    - revatbha-rayjada
+    - yogendra-mankad
+    - manjula-dabhi
+    - asghar-ali-engineer
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

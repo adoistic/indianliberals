@@ -55,10 +55,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - R. A. Mashelkar
-  stubs_created:
-    - r-a-mashelkar
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - r-a-mashelkar
 ---
 
 ## Summary

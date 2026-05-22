@@ -47,10 +47,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - C. K. Daphtary
-  stubs_created:
-    - c-k-daphtary
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - c-k-daphtary
 ---
 
 ## Summary

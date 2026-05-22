@@ -54,9 +54,9 @@ authors_resolution:
   proposed_unknowns:
     - Gangadhar Gadgil
   stubs_created: []
-  stubs_referenced:
+  stubs_referenced: []
+  collisions_logged:
     - gangadhar-gadgil
-  collisions_logged: []
 ---
 
 ## Summary

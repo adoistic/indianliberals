@@ -53,10 +53,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Jayant Sinha
-  stubs_created:
-    - jayant-sinha
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - jayant-sinha
 ---
 
 ## Summary

@@ -50,12 +50,21 @@ summary: |-
 
   The issue is in the classic Khoj idiom — letters and rejoinders ('Patro / Pratibhavo'), reflections, and policy pieces. Jagdish Patel debates Ambrish Mehta on whether free markets alone can secure worker safety (citing Triangle Shirtwaist 1911, Bhopal 1984, and US OSHA experience). Suryakant Parikh urges Khoj to take up sanitation as its next campaign, citing Sulabh International and the editor's own 'Toilet-ni Duniya' booklet. Prof. Ashwin Karia covers the Mahuva andolan in Bhavnagar against the Nirma cement plant on 4500 hectares of fertile Padhiarka land, led by BJP MLA Dr Kanubhai Kalsariya. The Gujarat-Mumbai Rationalist Association demands repeal of the compulsory-voting law passed by the Gujarat assembly in December 2009. Swaminathan Anklesaria Aiyar (translated from Sunday Times, 31/1/10 by Trupti Parekh) argues against teaching English from Class 1 in place of the mother tongue, citing Helen Abadzi's cognitive-neuroscience work and the Zambia experience. Ketan Shukl writes on innovative education ('Flute Mandir', 'Discovery Channel from waste'). Other items include Jashwant B. Mehta on rainwater harvesting and Dinesh Shukla on the Gujarati press.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

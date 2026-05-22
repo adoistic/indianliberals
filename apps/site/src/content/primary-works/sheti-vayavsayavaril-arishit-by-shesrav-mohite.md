@@ -54,10 +54,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Shesrav Mohite
-  stubs_created:
-    - shesrav-mohite
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - shesrav-mohite
 ---
 
 ## Summary

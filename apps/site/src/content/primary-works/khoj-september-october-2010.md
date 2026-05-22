@@ -50,12 +50,21 @@ summary: |-
 
   The rest of the issue extends Khoj's standard liberal preoccupations. Ambrish Mehta reports on the Gujarat High Court granting bail to seven Adivasi activists framed in Surat's 'Naxal' case, defending the right to possess radical literature; Nandan Nilekani (translated from his foreword to James Tooley's The Beautiful Tree) and Gurcharan Das (from Sunday Times) make a forceful free-market case for low-fee private schools serving the poor and against the Right to Education Act's shuttering of unrecognised slum schools; Ashwinkumar Karia analyses the legal vacuum around 'honour killings' and khap panchayats; Wajahat Habibullah, Saeeda Hameed and Asghar Ali Engineer write on Kashmir; Gajendrasinh Jadeja examines Sardar Patel's foreign-policy outlook; and Bakula Ghaswala profiles the 1840-born reformer Bibi Ashraf.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

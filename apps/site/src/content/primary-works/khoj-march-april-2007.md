@@ -3,7 +3,16 @@ id: "khoj-march-april-2007"
 title: 
   main: "Khoj : March - April, 2007"
 work_type: "periodical_issue"
-authors: []
+authors:
+  - rajesh-mishra
+  - trupti-parekh
+  - parth-shah
+  - sauvik-chakraverti
+  - rabindranath-tagore
+  - revatbha-rayjada
+  - manjula-dabhi
+  - asghar-ali-engineer
+  - yogendra-mankad
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -39,7 +48,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-march-april-2007.pdf"
 needs_extraction: false
@@ -50,12 +59,23 @@ summary: |-
 
   Further articles cover Yogendra Mankad on the Stern Review and IPCC reports on climate change, Manjula Dabhi on the condition of Dalit women, Asghar Ali Engineer on Muslim women, Sauvik Chakraverti's continuing column 'Free Your Mind' on economic liberty, and a Rabindranath Tagore story. The issue also runs a CFore opinion-poll table showing 79% of Indians dislike politicians and 84% feel politicians have brought Indian democracy into disrepute — framing the editor's broader theme of citizen-society reclaiming ground from a compromised political class.
 authors_resolution:
-  confidence: low
-  method: llm
-  proposed_unknowns: []
+  confidence: high
+  method: vision
+  proposed_unknowns:
+    - Revatbha Rayjada
+    - Manjula Dabhi
+    - Asghar Ali Engineer
+    - Yogendra Mankad
   stubs_created: []
-  stubs_referenced: []
+  stubs_referenced:
+    - revatbha-rayjada
+    - manjula-dabhi
+    - asghar-ali-engineer
+    - yogendra-mankad
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

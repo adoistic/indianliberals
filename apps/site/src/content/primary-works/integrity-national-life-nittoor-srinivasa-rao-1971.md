@@ -50,10 +50,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Nittoor Srinivasa Rao
-  stubs_created:
-    - nittoor-srinivasa-rao
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - nittoor-srinivasa-rao
 ---
 
 ## Summary

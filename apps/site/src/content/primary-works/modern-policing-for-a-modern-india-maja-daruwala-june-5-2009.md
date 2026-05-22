@@ -58,10 +58,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Maja Daruwala
-  stubs_created:
-    - maja-daruwala
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - maja-daruwala
 ---
 
 ## Summary

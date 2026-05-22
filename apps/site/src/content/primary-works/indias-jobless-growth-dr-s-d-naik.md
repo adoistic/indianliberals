@@ -49,10 +49,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - S. D. Naik
-  stubs_created:
-    - s-d-naik
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - s-d-naik
 ---
 
 ## Summary

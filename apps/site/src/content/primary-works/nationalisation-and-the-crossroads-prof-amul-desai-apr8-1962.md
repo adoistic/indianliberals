@@ -53,10 +53,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Amul Desai
-  stubs_created:
-    - amul-desai
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - amul-desai
 ---
 
 ## Summary

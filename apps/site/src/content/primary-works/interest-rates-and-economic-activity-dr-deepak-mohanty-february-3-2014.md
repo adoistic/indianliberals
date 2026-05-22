@@ -50,10 +50,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Deepak Mohanty
-  stubs_created:
-    - deepak-mohanty
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - deepak-mohanty
 ---
 
 ## Summary

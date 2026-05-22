@@ -47,10 +47,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - A. C. Chhatrapati
-  stubs_created:
-    - a-c-chhatrapati
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - a-c-chhatrapati
 ---
 
 ## Summary

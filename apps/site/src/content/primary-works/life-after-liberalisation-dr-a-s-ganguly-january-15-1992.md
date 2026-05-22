@@ -54,10 +54,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - A. S. Ganguly
-  stubs_created:
-    - a-s-ganguly
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - a-s-ganguly
 ---
 
 ## Summary

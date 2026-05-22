@@ -3,7 +3,15 @@ id: "khoj-novemver-december-2007"
 title: 
   main: "Khoj : Novemver - December, 2007"
 work_type: "periodical_issue"
-authors: []
+authors:
+  - ismail-gandhi
+  - vinoba-bhave
+  - vasudeva-vora
+  - pratap-bhanu-mehta
+  - chakravarti-ashok-priyadarshi
+  - gajendrasinh-p-jadeja
+  - ashwinkumar-n-kariya
+  - kunjan-mehta
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -51,12 +59,33 @@ summary: |-
 
   A second cluster — Samprat Samasya (Current Problems) — carries Kirit Panwala's forensic, prosecution-defence weighing of the Yakub Memon conviction in the 1993 Bombay blasts case (responding to Trupti Parekh's earlier piece and Mehbool Rehman's Indian Express article), T.S. Gopi Rethinaraj on the nuclear deal, Trupti Parekh on Sethusamudram and on Burma's saffron democratic uprising, Jaykrishnan Nair on the ASI's role in the Ram Setu controversy, Lalit Mohan on 'Gandhiji's Ram', and a Fareed Zakaria translation on whether bans actually work. Later sections include Mehta's editorial-essay on equality and freedom, the third science-spirituality instalment, Souvik Chakravarti's Nobel Prize series, a Leonardo Read piece ('I, Pencil'), and an English-language exchange between Mukesh Adenwala and Anilbhai on liberty, knowledge and markets that cites A. Lanyi and S. Kahkonen on institutions as 'rules of the game'.
 authors_resolution:
-  confidence: low
-  method: llm
-  proposed_unknowns: []
-  stubs_created: []
+  confidence: high
+  method: vision
+  proposed_unknowns:
+    - Vasudeva Vora
+    - Pratap Bhanu Mehta
+    - Chakravarti Ashok Priyadarshi
+    - Gajendrasinh P. Jadeja
+    - Ashwinkumar N. Kariya
+    - Kunjan Mehta
+  stubs_created:
+    - vasudeva-vora
+    - pratap-bhanu-mehta
+    - chakravarti-ashok-priyadarshi
+    - gajendrasinh-p-jadeja
+    - ashwinkumar-n-kariya
+    - kunjan-mehta
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

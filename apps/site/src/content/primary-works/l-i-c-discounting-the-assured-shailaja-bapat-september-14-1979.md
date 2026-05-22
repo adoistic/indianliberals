@@ -48,10 +48,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Shailaja Bapat
-  stubs_created:
-    - shailaja-bapat
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - shailaja-bapat
 ---
 
 ## Summary

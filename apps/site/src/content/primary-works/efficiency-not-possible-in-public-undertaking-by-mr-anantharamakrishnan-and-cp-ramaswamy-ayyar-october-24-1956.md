@@ -47,10 +47,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - C. P. Ramaswamy Ayyar
-  stubs_created:
-    - c-p-ramaswamy-ayyar
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - c-p-ramaswamy-ayyar
 ---
 
 ## Summary

@@ -57,12 +57,21 @@ summary: |-
 
   Other features include Trupti Parekh on the July 2006 Mumbai train bombings ('Ye hai Bambai, meri jaan') and on the forced acquisition of Adivasi land at Kevadia for a private tourism project ('Kisso Kevadiyano'); Shankar Gopalakrishnan on the Forest Rights Bill and tribal dispossession; Barun Mitra on China's experiments with tiger conservation; Dr. Mahendra Chotalia on value-education; Kirit Panvala on judicial reform; and Sauvik Chakraverti on freeing the mind. The letters column carries detailed reader exchanges on the previous issue's coverage of the Narmada project. Across all of it, Khoj reads as one of the few sustained Gujarati-language vehicles for an unapologetically classical-liberal critique of Indian statism, identity politics, and central planning.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

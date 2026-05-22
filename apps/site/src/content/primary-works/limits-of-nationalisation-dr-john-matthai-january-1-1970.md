@@ -47,10 +47,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - John Matthai
-  stubs_created:
-    - john-matthai
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - john-matthai
 ---
 
 ## Summary

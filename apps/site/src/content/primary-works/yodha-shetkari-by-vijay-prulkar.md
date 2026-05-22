@@ -40,10 +40,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Vijay Prulkar
-  stubs_created:
-    - vijay-prulkar
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - vijay-prulkar
 ---
 
 ## Summary

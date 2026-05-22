@@ -50,7 +50,7 @@ missing_metadata_flags:
   - byline_unresolved_against_authority_subset
 authors_resolution:
   confidence: low
-  method: llm
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []

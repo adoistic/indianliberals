@@ -3,7 +3,8 @@ id: "udarwad-raj-samaj-aur-bazaar-ka-naya-paath"
 title: 
   main: "Udarwad: Raj, Samaj Aur Bazaar Ka Naya Paath"
 work_type: "book"
-authors: []
+authors:
+  - sauvik-chakraverti
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -40,7 +41,7 @@ paragraph_ids: []
 manifestations: []
 language: "hi"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/hindi/udarwad-raj-samaj-aur-bazaar.pdf"
 needs_extraction: false
@@ -51,12 +52,15 @@ summary: |-
 
   Organized into eighteen short, illustrated chapters with 'Just Think' prompts, the work walks readers through the human capacity for exchange ('Homo Economicus'), the case that population density is a source of prosperity through division of labour, the failure of political markets, the tragedy of public property, free trade, sound money (in two chapters), employment, poverty, the environment, the future of bureaucracy, knowledge, public assets, ethics and secularism, freedom and equality, politics, and principles of sound public policy. A closing chapter introduces CCS itself. The tone is pedagogical and Bastiat-influenced, urging readers to test received wisdom against reality rather than accept what state-approved curricula tell them.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: kaushal-kishor
+    role: translator
 ---
 
 ## Summary

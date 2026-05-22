@@ -51,12 +51,23 @@ summary: |-
 
   Other main articles include Dr. Suresh Amin's response 'Godhra, justice and other questions - the law needs to change,' which critiques the Best Bakery and Zahira Sheikh trials, judicial pre-judgment, and the misuse of preventive detention; a P. C. L. report on Vadodara violence; Jaimini Mehta on urban planning; Swaminathan Aiyar's 'Shu mara koi merit chhe?' on merit and reservations; Dinesh Shukla on international cooperation in the oil sector; and Kirit Panwala's continuing series 'Mare nyaay-vyavastha badalavi chhe - 2.' The intellectual centrepiece is Part 6 of Anil Patel's serial essay 'Svatantrata - Gnan ane Bazaar' (Freedom, Knowledge and the Market), which traces the Methodenstreit from Menger through Walras and Marshall to the socialist-calculation debate between Mises, Hayek, Lange, and Lerner, citing Peter Bauer and F. A. Hayek as epigraphs and treating Austrian economics as the decisive answer to positivist and socialist economic thought.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
+  - thinker: parth-shah
+    role: editor
 ---
 
 ## Summary

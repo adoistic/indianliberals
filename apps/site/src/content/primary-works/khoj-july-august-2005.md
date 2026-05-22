@@ -3,7 +3,11 @@ id: "khoj-july-august-2005"
 title: 
   main: "Khoj : July - August, 2005"
 work_type: "periodical_issue"
-authors: []
+authors:
+  - trupti-parekh
+  - anil-patel
+  - rajesh-mishra
+  - sauvik-chakraverti
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -37,7 +41,7 @@ paragraph_ids: []
 manifestations: []
 language: "gu"
 translation_status: "original"
-needs_review: true
+needs_review: false
 draft: false
 pdf_staging_path: "PDFs-by-publisher/gujarati/khoj-july-august-2006.pdf"
 needs_extraction: false
@@ -48,12 +52,15 @@ summary: |-
 
   Other articles include Trupti Parekh on the Nanavati Commission report, Imrana, the bar girls controversy and individual liberty; Ambrish Mehta on whether the water problem is one of quantity or management; and Anil Patel's rejoinder to Sudarshan Iyengar and Nimisha Shukla's earlier piece on 'sustainable development,' deploying Julian Simon against the 'limits of resources' thesis. A long letters section shows the journal positioning itself as an intellectual forum for Gujarat's liberal-minded readers, with correspondents debating socialism vs. democratic socialism, solar energy, the Sardar Sarovar water-share dispute, and whether Khoj relies too heavily on foreign thinkers.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

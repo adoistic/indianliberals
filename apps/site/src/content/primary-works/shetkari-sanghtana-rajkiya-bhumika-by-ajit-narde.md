@@ -55,10 +55,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Ajit Narde
-  stubs_created:
-    - ajit-narde
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - ajit-narde
 ---
 
 ## Summary

@@ -52,7 +52,7 @@ missing_metadata_flags:
   - issuer_not_named_in_document
 authors_resolution:
   confidence: low
-  method: llm
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []

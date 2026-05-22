@@ -51,12 +51,21 @@ summary: |-
 
   Other pieces include Shekhar Gupta on Manmohan Singh's signature work, the Gujarati abridgement of the first two chapters of Tooley's The Beautiful Tree, Ashwin Karia on the Right to Education Bill, Javed Anand on Islam (beards, burqas, or the thirst for knowledge?), Trupti Parekh on Dr. Binayak Sen's bail, Dinesh Shukla on what Marx might have advised the G-20, Jayanti Patel reviewing Gandhi, Alvida?, and a short story by Kardam R. Modi. The issue sits squarely in the classical-liberal current of post-2008 Gujarati public intellectual life — pro-market, sceptical of state monopoly in education, defensive of civil liberties, and explicitly indebted to Cato Institute material.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

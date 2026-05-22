@@ -63,10 +63,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - H. Venkatasubbiah
-  stubs_created:
-    - h-venkatasubbiah
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - h-venkatasubbiah
 ---
 
 ## Summary

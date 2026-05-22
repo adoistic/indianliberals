@@ -3,7 +3,8 @@ id: "jagtik-vayapar-sangtanecha-onama"
 title: 
   main: "Jagtik Vayapar Sangtanecha Onama"
 work_type: "book"
-authors: []
+authors:
+  - dnyaneshwar-m-shelar
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -48,10 +49,12 @@ summary: |-
 
   The body is structured as a question-and-answer textbook of roughly thirty short chapters. Early chapters explain the General Agreement on Tariffs and Trade (GATT, 30 October 1947, Geneva, 23 founding signatories including India), the eight rounds of multilateral negotiations from 1947 to 1994, the Uruguay Round and the Dunkel Draft of December 1993, and the birth of the WTO on 1 January 1995 with 128 members (144 by 2002, after China's accession as the 143rd and Taiwan as the 144th). Subsequent chapters cover the difference between GATT and WTO, the WTO's Ministerial Conference, General Council and Director-General structure, the Singapore, Geneva, Seattle and Doha ministerials, special and differential treatment for developing and least-developed countries, the Doha Development Agenda of November 2001, and the case for why India should remain a WTO member rather than retreat into bilateral isolation. The tone throughout is matter-of-fact and pro-engagement, framing the WTO as an opportunity to be worked, not a conspiracy to be denounced.
 authors_resolution:
-  confidence: low
-  method: llm
-  proposed_unknowns: []
-  stubs_created: []
+  confidence: medium
+  method: vision
+  proposed_unknowns:
+    - Dnyaneshwar M. Shelar
+  stubs_created:
+    - dnyaneshwar-m-shelar
   stubs_referenced: []
   collisions_logged: []
 ---

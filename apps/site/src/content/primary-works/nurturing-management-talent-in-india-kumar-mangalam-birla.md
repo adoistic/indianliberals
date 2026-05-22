@@ -45,10 +45,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Kumar Mangalam Birla
-  stubs_created:
-    - kumar-mangalam-birla
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - kumar-mangalam-birla
 ---
 
 ## Summary

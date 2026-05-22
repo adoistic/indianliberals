@@ -53,10 +53,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Rajaram Ajgaonkar
-  stubs_created:
-    - rajaram-ajgaonkar
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - rajaram-ajgaonkar
 ---
 
 ## Summary

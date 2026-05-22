@@ -56,10 +56,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Nandan Nilekani
-  stubs_created:
-    - nandan-nilekani
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - nandan-nilekani
 ---
 
 ## Summary

@@ -56,10 +56,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Usha Thorat
-  stubs_created:
-    - usha-thorat
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - usha-thorat
 ---
 
 ## Summary

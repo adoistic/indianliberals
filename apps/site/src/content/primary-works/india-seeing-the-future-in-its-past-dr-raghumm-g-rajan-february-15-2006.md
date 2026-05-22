@@ -58,10 +58,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Raghuram G. Rajan
-  stubs_created:
-    - raghuram-g-rajan
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - raghuram-g-rajan
 ---
 
 ## Summary

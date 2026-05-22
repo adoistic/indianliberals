@@ -50,10 +50,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Kirit S. Parekh
-  stubs_created:
-    - kirit-s-parekh
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - kirit-s-parekh
 ---
 
 ## Summary

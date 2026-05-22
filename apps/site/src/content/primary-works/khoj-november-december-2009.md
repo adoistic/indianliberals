@@ -51,12 +51,21 @@ summary: |-
 
   Other features include Rajesh Mishra on Gujarat's new compulsory voting law (read as cosmetic rather than substantive electoral reform, given liquor-fuelled panchayat elections in Kawant and Chhota Udepur), Trupti Parekh on the Ruchika case and the abuse of police power, Pratap Bhanu Mehta on the Mumbai attacks, Ismail Gandhi on Vande Mataram, Gajendrasinh Jadeja on Hyderabad's accession, Ashwinkumar Karia on separating police powers, and Vinaba Bhave arguing that the education system, like the press, should be independent of the state. The issue closes with a five-year cumulative index. Throughout, Khoj's stance is recognisably classical-liberal: sceptical of statism, attentive to adivasi and worker agency, and committed to argument over slogan.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

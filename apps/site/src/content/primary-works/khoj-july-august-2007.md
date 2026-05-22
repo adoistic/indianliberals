@@ -56,12 +56,21 @@ summary: |-
 
   The issue's other major strand is the seventh installment of Anil Patel's long-running series 'Swatantrata - Gyaan ane Bazaar' ('Freedom, Knowledge and the Market'), subtitled 'From hot socialism to soft socialism - the welfare state.' Opening with Hayek on economic freedom as the precondition of all other freedoms, Patel traces the century 1848-1948 of socialist thought, the Stalinist 'totalitarian state,' the disillusionment captured by Trotsky and the 'tragedy of the commons,' John Stuart Mill's drift toward socialism, the Keynesian turn after 1930, and the post-war consolidation of an 'unlimited democracy' welfare state in which bureaucracies redistribute under the banner of 'social justice.' He invokes Popper and Hayek on dispersed knowledge to argue that decentralised market prices, not central planning, coordinate the marginal adjustments a complex economy actually needs. Other pieces include Trupti Parekh on the July 11 Mumbai train bombings and on the Kevadiya tribal land acquisition for Narmada-area tourism, Shankar Gopalakrishnan on the JPC report on the Forest Rights Bill, Barun Mitra on China's tiger conservation experiment, Mahendra Chotaliya on values in education, Kirit Panvala on judicial reform, and Sauvik Chakraverti on freeing the mind.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
 ---
 
 ## Summary

@@ -54,10 +54,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - R. K. Daruwalla
-  stubs_created:
-    - r-k-daruwalla
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - r-k-daruwalla
 ---
 
 ## Summary

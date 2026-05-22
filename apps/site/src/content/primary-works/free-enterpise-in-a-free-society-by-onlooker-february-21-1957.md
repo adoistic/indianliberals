@@ -70,10 +70,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Onlooker
-  stubs_created:
-    - onlooker
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - onlooker
 ---
 
 ## Summary

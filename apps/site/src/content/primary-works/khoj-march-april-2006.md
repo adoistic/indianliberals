@@ -3,7 +3,16 @@ id: "khoj-march-april-2006"
 title: 
   main: "Khoj : March - April, 2006"
 work_type: "periodical_issue"
-authors: []
+authors:
+  - rajesh-mishra
+  - trupti-parekh
+  - parth-shah
+  - sauvik-chakraverti
+  - rabindranath-tagore
+  - revatubha-rayjada
+  - yogendra-mankad
+  - manjula-dabhi
+  - asghar-ali-engineer
 publication: 
   publisher_id: centre-for-civil-society
   publisher_name: "Centre for Civil Society / Indian Liberals archive"
@@ -52,12 +61,23 @@ summary: |-
 
   The issue's flagship serial essay is part 5 of Anil Patel's 'Freedom, Knowledge and the Market,' titled 'Market Prices: Menger's Marginal Revolution and its Counter-currents.' Opening with two Hayek epigraphs, Patel traces how the labour theory of value of Smith, Ricardo and Mill failed to explain relative prices, how Carl Menger's 1871 Grundsatze grounded value in subjective marginal utility, and how methodological individualism became the philosophical core of the Austrian tradition against German historicism and Fabian rationalist constructivism. A vigorous letters section debates earlier pieces on pesticides, GEAC norms, the Narmada rehabilitation record, and the Jessica Lal verdict.
 authors_resolution:
-  confidence: low
-  method: llm
-  proposed_unknowns: []
-  stubs_created: []
-  stubs_referenced: []
+  confidence: high
+  method: vision
+  proposed_unknowns:
+    - Revatubha Rayjada
+    - Yogendra Mankad
+    - Manjula Dabhi
+    - Asghar Ali Engineer
+  stubs_created:
+    - revatubha-rayjada
+  stubs_referenced:
+    - yogendra-mankad
+    - manjula-dabhi
+    - asghar-ali-engineer
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
 ---
 
 ## Summary

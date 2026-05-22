@@ -71,10 +71,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - V. K. Narasimhan
-  stubs_created:
-    - v-k-narasimhan
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - v-k-narasimhan
 ---
 
 ## Summary

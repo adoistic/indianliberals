@@ -48,12 +48,23 @@ summary: |-
 
   The "Samprat Samasya" (current affairs) section carries topical pieces on the Indo-US nuclear deal (T.S. Gopi Rethinaraj), the Sethusamudram shipping-channel project (Trupti Parekh), the ASI's controversial affidavit on Ram Setu (Jaykrishna Nair), and Burma's Saffron Revolution. Kirit Panwala contributes a long, lawyerly critique titled "Yakub Memon mate kon aansu sarshe?" ("Who will shed tears for Yakub Memon?") rebutting Masih Rahman's Indian Express article and walking through the evidentiary standards under the Indian Evidence Act, TADA and CrPC for assessing the 1993 Mumbai bomb-blasts convictions. Mukesh Edanwala's English-language piece "Swatantrata - Jnan ane Bazaar" debates Anilbhai on whether market institutions automatically secure development, citing A. Lanyi on institutions as "rules of the game". A regular column "Tamara man ne mukt karo" by Saumitra Chakravarti and a Gujarati translation of Leonard Read's "I, Pencil" round out the issue.
 authors_resolution:
-  confidence: low
-  method: llm
+  confidence: high
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+contributors:
+  - thinker: ambrish-mehta
+    role: editor
+  - thinker: trupti-parekh
+    role: editor
+  - thinker: anil-patel
+    role: editor
+  - thinker: rajesh-mishra
+    role: editor
+  - thinker: parth-shah
+    role: editor
 ---
 
 ## Summary

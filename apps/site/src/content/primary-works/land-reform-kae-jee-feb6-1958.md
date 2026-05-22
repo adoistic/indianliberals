@@ -48,7 +48,7 @@ missing_metadata_flags:
   - publication_year_not_explicitly_printed
 authors_resolution:
   confidence: low
-  method: llm
+  method: vision
   proposed_unknowns: []
   stubs_created: []
   stubs_referenced: []

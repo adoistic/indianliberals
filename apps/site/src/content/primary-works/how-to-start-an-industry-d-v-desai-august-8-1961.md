@@ -45,10 +45,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - D. V. Desai
-  stubs_created:
-    - d-v-desai
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - d-v-desai
 ---
 
 ## Summary

@@ -45,10 +45,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - N. T. Taskar
-  stubs_created:
-    - n-t-taskar
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - n-t-taskar
 ---
 
 ## Summary

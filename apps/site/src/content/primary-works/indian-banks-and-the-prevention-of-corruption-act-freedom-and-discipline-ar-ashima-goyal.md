@@ -52,10 +52,10 @@ authors_resolution:
   method: llm
   proposed_unknowns:
     - Ashima Goyal
-  stubs_created:
-    - ashima-goyal
+  stubs_created: []
   stubs_referenced: []
-  collisions_logged: []
+  collisions_logged:
+    - ashima-goyal
 ---
 
 ## Summary
