@@ -15,5 +15,7 @@ With `authors[]` populated: 330/378 (87%)
 - medium: 40
 - low: 30
 
-## Stubs created (entries with new stub thinkers): 0
+## Stubs created (entries with new stub thinkers in THIS apply): 0
+## Stubs referenced (entries pointing at stubs from prior runs): 48
+## Pipeline-owned thinker stubs (bio_source: ai_drafted_stub): 180
 ## Collisions logged (silent existing-thinker hits): 0

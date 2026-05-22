@@ -54,6 +54,9 @@ def parse(md: Path) -> dict:
     out["stubs_created"] = bool(
         re.search(r"^\s+stubs_created:\s*\n\s+-", res_block, re.M)
     )
+    out["stubs_referenced"] = bool(
+        re.search(r"^\s+stubs_referenced:\s*\n\s+-", res_block, re.M)
+    )
     out["collisions_logged"] = bool(
         re.search(r"^\s+collisions_logged:\s*\n\s+-", res_block, re.M)
     )
@@ -69,6 +72,14 @@ def main() -> int:
     by_confidence = Counter(e["confidence"] for e in entries if e.get("confidence"))
     stubs = sum(1 for e in entries if e.get("stubs_created"))
     collisions = sum(1 for e in entries if e.get("collisions_logged"))
+    stubs_ref = sum(1 for e in entries if e.get("stubs_referenced"))
+    # Canonical "stubs owned by this pipeline" count: read the thinker dir for
+    # bio_source: ai_drafted_stub.
+    from pathlib import Path as _P
+    pipeline_stubs = sum(
+        1 for t in (ROOT / "apps/site/src/content/thinkers").glob("*.md")
+        if "bio_source: ai_drafted_stub" in t.read_text(encoding="utf-8")
+    )
 
     lines = [
         "# Byline Resolution Coverage Report",
@@ -86,7 +97,9 @@ def main() -> int:
         lines.append(f"- {c}: {n}")
     lines.extend([
         "",
-        f"## Stubs created (entries with new stub thinkers): {stubs}",
+        f"## Stubs created (entries with new stub thinkers in THIS apply): {stubs}",
+        f"## Stubs referenced (entries pointing at stubs from prior runs): {stubs_ref}",
+        f"## Pipeline-owned thinker stubs (bio_source: ai_drafted_stub): {pipeline_stubs}",
         f"## Collisions logged (silent existing-thinker hits): {collisions}",
         "",
     ])
