@@ -45,8 +45,13 @@ _EMPTY_AKA_RX = re.compile(r"^\s+also_known_as:\s*\[\]", re.M)
 # we also index the de-prefixed form so that, e.g., 'prof-cn-vakil' can be
 # found by the token key 'cn-vakil'.
 _HONORIFIC_SLUG_PREFIXES = re.compile(
-    r"^(dr|dr\b|prof|mr|mrs|ms|shri|sir|sri|smt|lady|lord)-"
+    r"^(dr|prof|mr|mrs|ms|shri|sir|sri|smt|lady|lord)-"
 )
+
+# Maximum token window length for sliding-window and middle-initial strategies.
+# Keeps O(n * _MAX_WINDOW^2) complexity manageable; 6 covers the longest
+# realistic multi-token name in this corpus.
+_MAX_WINDOW = 6
 
 
 def kebab(s: str) -> str:
@@ -54,8 +59,6 @@ def kebab(s: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "-", s)
     return re.sub(r"-+", "-", s).strip("-")
 
-
-_COMPACTED_INITIALS_RX = re.compile(r"\b([a-z]{1,3})([a-z]{1,3})\b")
 
 def _expand_compacted_initials(key: str) -> list[str]:
     """Yield hyphen-expanded forms for keys that contain compacted initials.
@@ -144,15 +147,20 @@ def match_candidates(tokens: list[str], lookup: dict[str, str]) -> list[str]:
 
     Strategy (applied in order):
     1. Direct token match (each token as a standalone lookup key).
+       Only accepted when the token contains a hyphen — bare single-word
+       tokens are excluded to prevent surname-only false positives.
     2. Initialism recombination: consecutive single-letter tokens followed
        by a multi-letter token — e.g. ['a', 'd', 'shroff'] → 'a-d-shroff'.
-    3. Sliding-window join: all contiguous 2-to-MAX_WIN token windows joined
-       with hyphens, tried against the lookup. This catches split two-part
-       names like ['colin', 'clark'] → 'colin-clark'.
+    3. Sliding-window join: all contiguous 2-to-_MAX_WINDOW token windows
+       joined with hyphens, tried against the lookup. Catches split
+       two-part names like ['colin', 'clark'] → 'colin-clark'.
+    4. Middle-initial stripping: for each 3-to-_MAX_WINDOW window, also
+       try the window with each interior single-letter token removed —
+       e.g. ['murarji', 'j', 'vaidya'] → 'murarji-vaidya'.
 
-    MAX_WIN is capped at 6 to avoid combinatorial blowup on long token lists.
+    _MAX_WINDOW is capped at 6 to avoid combinatorial blowup on long
+    token lists.
     """
-    MAX_WIN = 6
     hits: list[str] = []
 
     # 1. Direct token matches — only accepted when the token itself is a
@@ -180,9 +188,9 @@ def match_candidates(tokens: list[str], lookup: dict[str, str]) -> list[str]:
         if joined in lookup:
             hits.append(lookup[joined])
 
-    # 3. Sliding-window join for multi-word names (2..MAX_WIN tokens)
+    # 3. Sliding-window join for multi-word names (2.._MAX_WINDOW tokens)
     n = len(tokens)
-    for win in range(2, min(MAX_WIN + 1, n + 1)):
+    for win in range(2, min(_MAX_WINDOW + 1, n + 1)):
         for i in range(n - win + 1):
             joined = "-".join(tokens[i : i + win])
             if joined in lookup:
@@ -193,7 +201,7 @@ def match_candidates(tokens: list[str], lookup: dict[str, str]) -> list[str]:
     #    patterns like ['murarji', 'j', 'vaidya'] → 'murarji-vaidya' and
     #    ['adi', 'a', 'godrej'] → 'adi-godrej' where the middle initial is
     #    present in the slug but absent from the thinker slug.
-    for win in range(3, min(MAX_WIN + 1, n + 1)):
+    for win in range(3, min(_MAX_WINDOW + 1, n + 1)):
         for i in range(n - win + 1):
             window = tokens[i : i + win]
             # Remove each single-letter token that is NOT at position 0 or -1
@@ -288,10 +296,11 @@ def _run_tests():
     assert match_candidates(["a", "d", "shroff", "lecture"], lookup) == ["a-d-shroff"]
     assert match_candidates(["free", "a", "d", "shroff", "lecture"], lookup) == ["a-d-shroff"]
 
-    # match_candidates: multi-hit ambiguity
-    lookup2 = {**lookup, "a-d-iyer": "a-d-iyer"}
-    # Single 'a' wouldn't match anything (single-letter alone), but
-    # an aka collision could; not exercising that path in tests.
+    # match_candidates: multi-hit ambiguity — two thinkers' tokens both match
+    lookup_multi = {"a-d-shroff": "a-d-shroff", "nani-palkhivala": "nani-palkhivala"}
+    result = match_candidates(["a-d-shroff", "nani", "palkhivala"], lookup_multi)
+    assert len(result) == 2, f"expected 2 hits, got {result}"
+    # Caller (main) defers when len(hits) > 1, so this is the ambiguous-deferral path.
 
     # match_candidates: sliding-window join (two-word names split into tokens)
     lookup_cw = {"colin-clark": "colin-clark", "nani-palkhivala": "nani-palkhivala"}
