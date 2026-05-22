@@ -1,0 +1,555 @@
+You are matching primary-work author bylines to the existing thinkers collection. The corpus is the Indian Liberals digital archive (indianliberals.in). Each entry is a primary work (book / pamphlet / speech / essay / periodical / occasional paper / letter) that currently has no resolved author. Your job is to read each entry's title, slug, work_type, year, and the token candidates we already extracted, and decide:
+
+  (a) the author matches a thinker in the list below → emit a match
+  (b) the author is clearly named but isn't in the list → emit as unknown for stub creation
+  (c) you can't be confident either way → flag for vision (PDF read)
+
+# Per-entry decision tree
+
+For each input entry, apply this rubric in order:
+
+  1. Can you find a SINGLE high-confidence match in the thinkers list?
+     → emit { id, matches: [{slug, role}], confidence: "high" }
+
+  2. Multiple plausible matches; you can pick one via context (year/topic/publisher)?
+     → emit { id, matches: [{slug, role}], confidence: "medium" }
+
+  3. A name is CLEARLY present in title/slug but isn't in the thinkers list?
+     → emit { id, unknowns: ["Name As It Appears"], confidence: "medium" }
+     (the applier will auto-create a stub)
+
+  4. A name is HINTED but you cannot commit to either a match or a stub?
+     → emit { id, needs_vision: true }
+     (Step 3 will read the PDF title page)
+
+  5. No name signal anywhere in title/slug?
+     → emit { id, needs_vision: true }
+
+# Role detection
+
+When you see editor / translator / foreword markers in the title (e.g., "edited by X", "foreword by Y", "translated by Z"), use role values "editor" / "translator" / "foreword" / "introduction" / "preface". Otherwise role is "author".
+
+A work can have MULTIPLE matches with different roles — emit them all in matches[].
+
+# Output format
+
+A single top-level JSON ARRAY of one record per input piece, in the same order as the input batch. Each record has:
+
+```json
+{
+  "id": "<echo from input>",
+  "matches": [{"slug": "a-d-shroff", "role": "author"}],
+  "unknowns": ["Some Name Not In List"],
+  "needs_vision": false,
+  "confidence": "high"
+}
+```
+
+`matches`, `unknowns` default to []; `needs_vision` defaults to false; `confidence` is one of "high" | "medium" | "low".
+
+# Confidence rubric
+
+  - high: unambiguous match OR signed first-person attribution clear from title
+  - medium: plausible match via context, OR stub-creation for a name clearly present but new
+  - low: weak inference; consider needs_vision instead
+
+# Worked examples
+
+INPUT:
+```
+{"id": "free-enterprise-and-democracy-a-d-shroff-feb11-1956", "title": "Free Enterprise and Democracy", "year": 1956, "token_candidates": ["free", "enterprise", "and", "democracy", "a", "d", "shroff"]}
+```
+OUTPUT:
+```
+{"id": "free-enterprise-and-democracy-a-d-shroff-feb11-1956", "matches": [{"slug": "a-d-shroff", "role": "author"}], "confidence": "high"}
+```
+
+INPUT:
+```
+{"id": "a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974", "title": "A Package Plan for Inflation", "year": 1974, "token_candidates": ["a", "package", "plan", "for", "inflation", "r", "c", "cooper", "dhirajlal", "maganlal", "minoo", "r", "shroff", "gangadhar", "gadgil"]}
+```
+OUTPUT:
+```
+{"id": "a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974", "matches": [{"slug": "r-c-cooper", "role": "author"}, {"slug": "minoo-shroff", "role": "author"}], "unknowns": ["Dhirajlal Maganlal", "Gangadhar Gadgil"], "confidence": "high"}
+```
+(Note: multiple authors. R.C. Cooper and Minoo Shroff are existing thinkers. Dhirajlal Maganlal and Gangadhar Gadgil are NOT in the thinkers list — they go to unknowns[] for stub auto-creation. Always cross-check candidate slugs against the inlined thinkers list below before emitting them in matches[]; if a slug isn't in the list, the name goes to unknowns[] instead.)
+
+INPUT (illustrative — assume the inlined thinkers list does NOT contain a slug that matches both initials and surname):
+```
+{"id": "the-economics-of-monsoon-failure-p-mehta-1979", "title": "The Economics of Monsoon Failure", "year": 1979, "token_candidates": ["the", "economics", "of", "monsoon", "failure", "p", "mehta"]}
+```
+OUTPUT:
+```
+{"id": "the-economics-of-monsoon-failure-p-mehta-1979", "needs_vision": true, "confidence": "low"}
+```
+(Branch 4 — a name token IS present ("P. Mehta") but only with a single initial. The inlined thinkers list may contain multiple plausible `P. Mehta`-shaped entries — `p-k-mehta`, `p-r-mehta`, `pravin-mehta` — and the title alone cannot disambiguate. Rather than auto-stubbing `p-mehta` (which would risk a silent collision with the wrong existing thinker) or guessing one of the candidates, defer to the PDF title page. ALWAYS cross-check candidate slugs against the actual inlined thinkers list before committing to either a match or a stub; when adjacent initials/surnames cluster ambiguously, prefer needs_vision: true.)
+
+INPUT:
+```
+{"id": "implications-of-bank-nationalisation-misc-mar9-1964", "title": "Implications of Bank Nationalisation", "year": 1964, "token_candidates": ["implications", "of", "bank", "nationalisation", "misc"]}
+```
+OUTPUT:
+```
+{"id": "implications-of-bank-nationalisation-misc-mar9-1964", "needs_vision": true, "confidence": "low"}
+```
+(Branch 5 — no author token in title; 'misc' suggests anthology; PDF read needed.)
+
+# Thinkers list (canonical slug + canonical name + aliases)
+
+  - a-d-cohen                                     A. D. Cohen
+  - a-d-shroff                                    A. D. Shroff
+  - a-p-j-abdul-kalam                             A. P. J. Abdul Kalam  aka: Abdul Kalam, Dr. Kalam, APJ Abdul Kalam, Kalam
+  - a-ranganathan                                 A Ranganathan
+  - a-solomon                                     A. Solomon
+  - abhay-pethe                                   Abhay Pethe  aka: Dr. Abhay Pethe
+  - abhaya-prasad-hota                            Abhaya Prasad Hota
+  - abraham-lincoln                               Abraham Lincoln  aka: Lincoln, अब्राहम लिंकन
+  - achyut-patwardhan                             Achyut Patwardhan
+  - adam-smith                                    Adam Smith
+  - adi-godrej                                    Adi Godrej
+  - ag-mulgaokar                                  AG Mulgaokar
+  - ajit-bhattacharjea                            Ajit Bhattacharjea
+  - ajit-karnik                                   Ajit Karnik  aka: Karnik
+  - ajit-prasad-jain                              Ajit Prasad Jain
+  - ak-chandra                                    AK Chandra
+  - ak-purwar                                     AK Purwar
+  - albert-hirschman                              Albert O. Hirschman  aka: Albert Hirschman, Hirschman, हिर्षमन
+  - aldous-huxley                                 Aldous Huxley
+  - alexander-duff                                Alexander Duff
+  - alexis-de-tocqueville                         Alexis de Tocqueville  aka: Tocqueville
+  - amartya-sen                                   Amartya Sen
+  - ambrish-mehta                                 Ambrish Mehta  aka: અંબરીષ મહેતા
+  - amitabh-kant                                  Amitabh Kant
+  - anand-sinha                                   Anand Sinha
+  - anandibai-joshee                              Anandibai Joshee
+  - anant-umrikar                                 Anant Umrikar  aka: अनंत उमरीकर
+  - anil-patel                                    Anil Patel  aka: અનિલ પટેલ
+  - anthony-eden                                  Anthony Eden  aka: Prime Minister Eden
+  - anu-aga                                       Anu Aga
+  - anupam-mehta                                  Anupam Mehta
+  - arun-shourie                                  Arun Shourie
+  - arvind-deshpande                              Arvind Deshpande  aka: Mr. Arvind Deshpande
+  - arvind-lalbhai                                Arvind Lalbhai
+  - ashok-desai                                   Ashok Desai
+  - ashok-mehta                                   Ashok Mehta  aka: अशोक मेहता
+  - ashok-mitra                                   Ashok Mitra  aka: अशोक मित्र
+  - ashwin-karia                                  Ashwin Karia  aka: અશ્વિન કારીઆ
+  - atal-bihari-vajpayee                          Atal Bihari Vajpayee  aka: Vajpayee, A. B. Vajpayee, AB Vajpayee
+  - ayub-khan                                     Ayub Khan  aka: General Ayub Khan, Field Marshal Ayub Khan
+  - azim-premji                                   Azim Premji
+  - azizun-nisa                                   Azizun Nisa
+  - b-a-tarlton                                   B. A. Tarlton
+  - b-g-rao                                       B. G. Rao
+  - b-n-adarkar                                   B. N. Adarkar
+  - b-r-shenoy                                    B. R. Shenoy
+  - b-rama-rau                                    Sir B. Rama Rau
+  - b-s-mahajan                                   B. S. Mahajan  aka: BS Mahajan
+  - b-shiva-rao                                   B. Shiva Rao
+  - b-t-krishnamachari                            B. T. Krishnamachari  aka: BT Krishnamachari, B.T. Krishnamachari, बी.टी. कृष्णमाचारी
+  - babytai-kamble                                Babytai Kamble
+  - bal-gangadhar-tilak                           Bal Gangadhar Tilak  aka: Lokmanya Tilak, Tilak
+  - begum-rokeya                                  Begum Rokeya  aka: Begum Rokeya Sakhawat Hossain, Rokeya, বেগম রোকেয়া
+  - benjamin-tucker                               Benjamin Tucker  aka: Benjamin F. Tucker, Benjamin R. Tucker, B. R. Tucker
+  - bernard-iddings-bell                          Bernard Iddings Bell
+  - bernard-shaw                                  George Bernard Shaw  aka: Bernard Shaw
+  - bg-verghese                                   BG Verghese
+  - bhanu-pratap-singh                            Bhanu Pratap Singh
+  - bhaskar-g-kakatkar                            Bhaskar G. Kakatkar
+  - bhimrao-ambedkar                              B. R. Ambedkar  aka: Ambedkar, Babasaheb, BR Ambedkar, B.R. Ambedkar, बाबासाहेब आंबेडकर, भीमराव आंबेडकर, डॉ. बाबासाहेब आंबेडकर, भीमराव रामजी आंबेडकर
+  - bibek-debroy                                  Bibek Debroy  aka: Dr. Bibek Debroy
+  - biren-mookerjee                               Sir Biren Mookerjee  aka: Sir BIREN MOOKERJEE, Biren Mookerjee
+  - bk-nehru                                      BK Nehru
+  - bp-adarkar                                    BP Adarkar
+  - bp-godrej                                     BP Godrej
+  - bradley-d-belt                                Bradley D. Belt
+  - bs-iyer                                       BS Iyer
+  - bs-sanyal                                     BS Sanyal  aka: B. S. Sanyal, B.S. Sanyal
+  - c-l-dadhich                                   Dr. C. L. Dadhich
+  - c-rajagopalachari                             C. Rajagopalachari  aka: Rajaji, C.R., सी. राजगोपालाचारी, राजाजी
+  - c-rangarajan                                  C. Rangarajan  aka: Dr. C. Rangarajan
+  - c-s-deshpande                                 C. S. Deshpande  aka: Dr. C. S. Deshpande, Dr.C.S.Deshpande
+  - c-s-seshadri                                  C. S. Seshadri
+  - c-s-venkatachar                               C. S. Venkatachar
+  - c-y-chintamani                                C. Y. Chintamani
+  - carlos-romulo                                 Carlos P. Romulo  aka: Carlos Romulo
+  - chanaka-amaratunga                            Chanaka Amaratunga  aka: Dr. Chanaka Amaratunga
+  - charan-singh                                  Charan Singh  aka: Chaudhary Charan Singh, के. चरणसिंह, चौधरी चरण सिंह, चरण सिंह, के. चरण सिंह
+  - chintaman-deshmukh                            C. D. Deshmukh  aka: CD Deshmukh, C. C. Deshmukh, Chintaman Deshmukh
+  - christopher-lingle                            Christopher Lingle
+  - claret-dsouza                                 Claret D'Souza
+  - colin-clark                                   Colin Clark  aka: Professor Colin Clark
+  - d-k-srivastava                                D. K. Srivastava  aka: Dr. D.K. Srivastava
+  - d-m-kulkarni-libertarian                      D. M. Kulkarni (Indian Libertarian)
+  - d-n-sinha                                     Justice D. N. Sinha
+  - d-r-mankekar                                  Dr. D. R. Mankekar
+  - d-r-pendse                                    D. R. Pendse
+  - d-subbarao                                    Dr. D. Subbarao
+  - d-v-gundappa                                  D. V. Gundappa  aka: DVG, D.V.Gundappa
+  - d-veerendra-heggade                           D. Veerendra Heggade
+  - dadabhai-naoroji                              Dadabhai Naoroji
+  - dankesh-oza                                   Dankesh Oza  aka: ડંકેશ ઓઝા
+  - david-hare                                    David Hare
+  - deepak-parekh                                 Deepak Parekh
+  - deng-xiaoping                                 Deng Xiaoping
+  - detmar-doering                                Detmar Doering  aka: Dr. Detmar Doering
+  - dharamsey-khatau                              Dharamsey Khatau
+  - dinesh-vyas                                   Dinesh Vyas
+  - dn-hosali                                     DN Hosali
+  - dr-ac-shah                                    DR AC Shah
+  - dr-dharmendra-bhandari                        DR Dharmendra Bhandari
+  - dr-gvk-rao                                    DR Gvk Rao
+  - dr-ig-patel                                   DR IG Patel
+  - dr-kk-das                                     Dr. KK Das
+  - dr-na-swaminathan                             DR NA Swaminathan
+  - dr-png-subramanian                            DR Png Subramanian
+  - dr-skumar-jain                                DR Skumar Jain
+  - dr-th-chowdhary                               DR TH Chowdhary
+  - dudley-senanayake                             Dudley Senanayake
+  - dwarkanath-tagore                             Dwarkanath Tagore  aka: দ্বারকানাথ ঠাকুর
+  - e-dsouza                                      Eric D'Souza  aka: Maj.Gen. (retd.) E. D'souza, Maj. Gen. E. D'Souza
+  - erhard-haubold                                Erhard Haubold
+  - eric-p-w-da-costa                             Eric P. W. da Costa
+  - eugene-black                                  Eugene R. Black Sr.  aka: Eugene Black
+  - f-a-mehta                                     F. A. Mehta
+  - f-p-antia                                     F. P. Antia
+  - fatima-sheikh                                 Fatima Sheikh
+  - fazal-ur-rahman                               Fazal-ur-Rahman
+  - feroz-khan-noon                               Feroz Khan Noon
+  - frank-simoes                                  Frank Simoes
+  - franz-oppenheimer                             Franz Oppenheimer
+  - frederic-bastiat                              Frédéric Bastiat  aka: Frederic Bastiat
+  - friedrich-hayek                               Friedrich Hayek
+  - friedrich-naumann                             Friedrich Naumann
+  - g-b-nagporewalla                              G. B. Nagporewalla  aka: Dr. G. B. Nagporewalla
+  - g-carl-weiland                                Prof. G. Carl Weiland
+  - g-giridhar-prabhu                             G. Giridhar Prabhu  aka: Giridhar Prabhu, G Giridhar Prabhu
+  - g-jayachandran                                G Jayachandran
+  - g-n-lawande                                   G N Lawande
+  - g-v-kapadia                                   G. V. Kapadia
+  - gamal-abdel-nasser                            Gamal Abdel Nasser  aka: Colonel Nasser, Nasser
+  - gd-parikh                                     GD Parikh
+  - geeta-lal                                     Geeta Lal
+  - gopal-ganesh-agarkar                          Gopal Ganesh Agarkar
+  - gopal-krishna-gokhale                         Gopal Krishna Gokhale  aka: Gokhale
+  - gp-manish                                     GP Manish
+  - gr-parrikar-and-rg-katoti                     GR Parrikar And RG Katoti
+  - gurajada-apparao                              Gurajada Apparao
+  - gurcharan-das                                 Gurcharan Das
+  - gv-ramakrishna                                GV Ramakrishna
+  - h-m-patel                                     H. M. Patel  aka: HM Patel
+  - h-narayan-rao                                 H. Narayan Rao
+  - h-t-parekh                                    H. T. Parekh  aka: Mr. H. T. PAREKH, HT Parekh
+  - h-v-r-iengar                                  H. V. R. Iengar
+  - hamid-dalwai                                  Hamid Dalwai
+  - hannan-ezekiel                                Dr. Hannan Ezekiel
+  - hans-raj-khanna                               Hans Raj Khanna
+  - harish-budhlani                               Harish Budhlani
+  - harish-chandra-mukherjee                      Harish Chandra Mukherjee
+  - henry-louis-vivian-derozio                    Henry Louis Vivian Derozio  aka: Derozio, H. L. V. Derozio
+  - herbert-spencer                               Herbert Spencer
+  - hernando-de-soto                              Hernando de Soto  aka: de Soto
+  - himanshi-shelat                               Himanshi Shelat  aka: હિમાંશી શેલત
+  - hindol-sengupta                               Hindol Sengupta
+  - hla-hart                                      H. L. A. Hart  aka: HLA Hart, H.L.A. Hart
+  - homi-mody                                     Sir Homi Mody
+  - hp-ranina                                     HP Ranina
+  - hriday-nath-kunzru                            Hriday Nath Kunzru
+  - hubertus-von-welck                            Hubertus von Welck
+  - humayun-kabir                                 Humayun Kabir
+  - i-k-gujral                                    I. K. Gujral  aka: Inder Gujral, Inder Kumar Gujral, IK Gujral
+  - ila-bhatt                                     Ela Bhatt  aka: Ela R. Bhatt, Ila R. Bhatt, Ila Bhatt, ઇલા ર. ભટ્ટ, ઈલા ર. ભટ્ટ
+  - immanuel-kant                                 Immanuel Kant
+  - indira-gandhi                                 Indira Gandhi  aka: Indira, इंदिरा गांधी, इन्दिरा गाँधी
+  - indira-rajaraman                              Indira Rajaraman  aka: Dr. Indira Rajaraman
+  - indumati-parikh                               Indumati Parikh
+  - iqbalunnisa-hussain                           Iqbalunnisa Hussain
+  - ishwar-chandra-vidyasagar                     Ishwar Chandra Vidyasagar  aka: Vidyasagar, Ishwarchandra Vidyasagar, ঈশ্বরচন্দ্র বিদ্যাসাগর, ईश्वरचन्द्र विद्यासागर
+  - iskander-mirza                                Iskander Mirza
+  - ismail-gandhi                                 Ismail Gandhi  aka: ઈસ્માઈલ ગાંધી
+  - j-b-kripalani                                 Acharya J. B. Kripalani  aka: Acharya Kripalani, Kripalani, J. B. Kripalani
+  - j-d-chokshi                                   J. D. Chokshi
+  - j-h-doshi                                     J. H. Doshi
+  - j-k-dhairyawan                                J. K. Dhairyawan
+  - j-m-lobo-prabhu                               J. M. Lobo Prabhu  aka: J. M. Lobo Prabhu I.C.S. (Retd.), Lobo Prabhu
+  - j-r-marshall                                  J. R. Marshall
+  - jagdish-bhagwati                              Jagdish Bhagwati  aka: Bhagwati
+  - james-s-raj                                   James S. Raj
+  - jamshed-antia                                 Jamshed Antia
+  - janaki-ammal                                  Janaki Ammal  aka: E.K. Janaki Ammal, जानकी अम्मल
+  - javed-anand                                   Javed Anand  aka: જાવેદ આનંદ
+  - jawaharlal-nehru                              Jawaharlal Nehru  aka: Nehru, Pandit Nehru, जवाहरलाल नेहरू, पंडित नेहरू
+  - jayaprakash-narayan                           Jayaprakash Narayan  aka: JP, JP Narayan, Jaya Prakash Narayan, Jai Prakash Narayan, Lok Nayak, जयप्रकाश नारायण, जे. पी. नारायण, জয়প্রকাশ নারায়ণ
+  - jayashekar                                    Dr. Jayashekar
+  - jayraj-sheth                                  Jayraj Sheth
+  - jiban-mukhopadhyay                            Jiban Mukhopadhyay
+  - jj-irani                                      JJ Irani
+  - johan-norberg                                 Johan Norberg
+  - john-f-kennedy                                John F. Kennedy  aka: John Kennedy, JFK
+  - john-foster-dulles                            John Foster Dulles  aka: Mr. Dulles, Dulles
+  - john-kenneth-galbraith                        John Kenneth Galbraith  aka: Galbraith, Professor Galbraith, J.K. Galbraith
+  - john-locke                                    John Locke
+  - john-ridpath                                  John Ridpath
+  - john-stuart-mill                              John Stuart Mill  aka: J. S. Mill, JS Mill
+  - joseph-stalin                                 Joseph Stalin  aka: Stalin, स्टालिन
+  - joseph-stiglitz                               Joseph Stiglitz  aka: Stiglitz, Joseph E. Stiglitz
+  - jr-henshaw                                    JR Henshaw
+  - jrd-tata                                      J. R. D. Tata  aka: JRD Tata, J R D Tata, JRD
+  - jurgen-axer                                   Jürgen Axer  aka: Dr. Jürgen Axer, Dr. Jurgen Axer
+  - jyotirao-phule                                Jyotirao Phule  aka: Jyotiba Phule, Mahatma Phule, महात्मा जोतीराव फुले, जोतीराव फुले
+  - k-b-dadiseth                                  K. B. Dadiseth
+  - k-c-chakrabarty                               Dr. K. C. Chakrabarty
+  - k-d-malaviya                                  K. D. Malaviya
+  - k-f-rustomji                                  K. F. Rustomji  aka: KF Rustomji, Rustamji
+  - k-jayaraman                                   K. Jayaraman
+  - k-l-rao                                       Dr. K. L. Rao
+  - k-m-munshi                                    K. M. Munshi  aka: Kanaiyalal Munshi, KM Munshi
+  - k-santhanam                                   K. Santhanam
+  - k-sreeramamurty                               K. Sreeramamurty
+  - k-v-m-pai                                     K. V. M. Pai
+  - k-venkataraman                                Dr. K. Venkataraman
+  - kandukuri-veeresalingam                       Kandukuri Veeresalingam
+  - kanuparti-varalakshmamma                      Kanuparti Varalakshmamma
+  - kanwal-rekhi                                  Kanwal Rekhi
+  - karl-marx                                     Karl Marx  aka: Marx, मार्क्स, कार्ल मार्क्स
+  - karl-polanyi                                  Karl Polanyi  aka: Polanyi
+  - karsandas-mulji                               Karsandas Mulji
+  - kaushal-kishor                                Kaushal Kishor  aka: कौशल किशोर
+  - kd-valicha                                    KD Valicha  aka: K. D. Valicha, K.D. Valicha
+  - ken-schoolland                                Ken Schoolland  aka: Ken Schooland
+  - khasa-subba-rau                               Khasa Subba Rau
+  - kiran-nanda                                   Kiran Nanda
+  - kishor-karia                                  Kishor B. Karia  aka: Mr. Kishor B. Karia, Kishor Karia
+  - kishore-valicha                               Kishore Valicha
+  - kishori-j-udeshi                              Kishori J. Udeshi
+  - krishnamohan-bandyopadhyay                    Krishna Mohan Banerjee  aka: Krishnamohan Bandyopadhyay, Krishna Mohan Bandyopadhyay, কৃষ্ণমোহন বন্দ্যোপাধ্যায়
+  - kusum-lotwala                                 Kusum R. Lotwala  aka: Kusum Lotwala, Miss Kusum Lotwala, K. R. Lotwala, Miss K. R. Lotwala, Miss Kusim Lotwala
+  - kusum-shrestha                                Kusum Shrestha
+  - kv-narain                                     KV Narain
+  - kv-subrahmanyam                               KV Subrahmanyam
+  - l-g-bapat                                     Prof. L. G. Bapat
+  - l-k-jha                                       L. K. Jha  aka: LK Jha, L.K. Jha
+  - lady-abala-bose                               Lady Abala Bose  aka: Abala Bose, অবলা বসু
+  - lakshmibai-tilak                              Lakshmibai Tilak
+  - lal-bahadur-shastri                           Lal Bahadur Shastri  aka: लालबहादूर शास्त्री, Shastri
+  - lalita-ramdas                                 Lalita Ramdas
+  - louella-lobo-prabhu                           Louella Lobo Prabhu  aka: Mme Louella Lobo Prabhu
+  - ludwig-erhard                                 Ludwig Erhard
+  - ludwig-von-mises                              Ludwig von Mises  aka: Mises, Von Mises
+  - m-a-master                                    M.A. Master
+  - m-c-chagla                                    M. C. Chagla  aka: MC Chagla, M.C. Chagla, Mahomedali Currim Chagla, एम. सी. छागला
+  - m-c-munshi                                    Dr. M. C. Munshi
+  - m-c-setalvad                                  M. C. Setalvad  aka: MC Setalvad, M.C. Setalvad, M. C. Setalwad, Setalvad, Setalwad
+  - m-g-hallar                                    M. G. Hallar  aka: MG Hallar, M.G. Hallar, M. G. Balier
+  - m-l-dantewala                                 M. L. Dantwala  aka: M.L. Dantewala, Dantwala, Dantewala, दांतेवाला
+  - m-l-tannan                                    M. L. Tannan
+  - m-n-roy                                       M. N. Roy  aka: MN Roy, M.N. Roy, Manabendra Nath Roy, Narendra Nath Bhattacharya, एम. एन. रॉय, এম. এন. রায়, মানবেন্দ্র নাথ রায়
+  - m-n-tholal                                    M. N. Tholal
+  - m-narasimhan                                  M. Narasimham
+  - m-r-anantharamakrishnan                       M. R. Anantharamakrishnan
+  - m-r-pai                                       M. R. Pai
+  - ma-pathan                                     MA Pathan
+  - ma-rangoonwala                                MA Rangoonwala
+  - ma-sreenivasan                                MA Sreenivasan
+  - ma-venkata-rao                                MA Venkata Rao
+  - mahadev-govind-ranade                         Mahadev Govind Ranade
+  - maharana-pratap                               Maharana Pratap  aka: महाराणा प्रताप, महाराणा प्रताप सिंह
+  - mahatma-gandhi                                Mahatma Gandhi  aka: Gandhi, Bapu, MK Gandhi, महात्मा गांधी, मोहनदास गांधी, मोहनदास करमचंद गांधी
+  - malini-karakal                                Malini Karakal
+  - maneesha-tikekar                              Maneesha Tikekar  aka: Dr. Maneesha Tikekar
+  - mangesh-kulkarni                              Mangesh Kulkarni
+  - mangesh-soman                                 Mangesh Soman  aka: Mr. Mangesh Soman
+  - manmohan-singh                                Manmohan Singh  aka: Dr. Manmohan Singh
+  - mao-zedong                                    Mao Zedong  aka: Mao Tse-tung, Chairman Mao
+  - margaret-thatcher                             Margaret Thatcher
+  - matt-ridley                                   Matt Ridley
+  - maulana-abul-kalam-azad                       Maulana Abul Kalam Azad  aka: Maulana Abdul Kalam Azad, Maulana Azad
+  - maurice-strong                                Maurice Strong
+  - mehboob-desai                                 Mehboob Desai  aka: મહેબૂબ દેસાઈ
+  - mh-mody                                       MH Mody
+  - milovan-djilas                                Milovan Djilas
+  - milton-friedman                               Milton Friedman
+  - minoo-masani                                  Minoo Masani
+  - minoo-shroff-and-hd-shourie                   Minoo Shroff And HD Shourie
+  - minoo-shroff                                  Minoo Shroff
+  - mithan-tata-lam                               Mithan Tata Lam
+  - morarji-desai                                 Morarji Desai
+  - mr-mayya                                      MR Mayya
+  - ms-seetha                                     Seetha  aka: Ms. Seetha
+  - mukesh-adenwala                               Mukesh Adenwala
+  - mukesh-ambani                                 Mukesh D. Ambani
+  - mukund-rajan                                  Dr. Mukund Rajan
+  - murarji-vaidya                                Murarji Vaidya
+  - muthulakshmi-reddi                            Dr. Muthulakshmi Reddi
+  - n-c-mehta                                     N. C. Mehta
+  - n-dandekar                                    N. Dandekar
+  - n-das                                         N. Das  aka: Dr. N. DAS, I.C.S. (Retd.), Dr. N. DAS I.C.S. (Retd.)
+  - n-g-ranga                                     Acharya N. G. Ranga
+  - n-n-pai                                       N. N. Pai
+  - n-s-ramaswamy                                 Prof. N. S. Ramaswamy
+  - n-vittal                                      N. Vittal  aka: Vittal, N Vittal
+  - nadir-godrej                                  Nadir Godrej
+  - nani-palkhivala                               Nani Palkhivala
+  - napoleon-bonaparte                            Napoleon Bonaparte  aka: Napoleon, नेपोलियन, नेपोलियन बोनापार्ट
+  - narasimha-rao                                 P. V. Narasimha Rao  aka: Narasimha Rao, PV Narasimha Rao, P.V. Narasimha Rao
+  - narayan-mahadev-paramananda                   Narayan Mahadev Paramananda
+  - narayan-varma                                 Narayan K. Varma  aka: Mr. Narayan Varma, Narayan Varma
+  - narayana-aiyar                                Narayana Aiyar
+  - naval-h-tata                                  Naval H. Tata
+  - ngapo-ngawang-jigme                           Ngapo Ngawang Jigme
+  - nicholas-kaldor                               Nicholas Kaldor  aka: Kaldor
+  - nikita-khrushchev                             Nikita Khrushchev  aka: Khrushchev
+  - om-prakash-kahol                              Om Prakash Kahol
+  - otto-lambsdorff                               Otto Graf Lambsdorff
+  - p-c-mahalanobis                               P. C. Mahalanobis  aka: PC Mahalanobis, P C Mahalanobis, Prof. Mahalanobis, Mahalanobis
+  - p-kodanda-rao                                 P Kodanda Rao
+  - p-n-haksar                                    P. N. Haksar  aka: PN Haksar, P N Haksar
+  - p-v-shenoi                                    Dr. P. V. Shenoi
+  - p-v-sukhatme                                  P. V. Sukhatme  aka: Professor P. V. Sukhatme
+  - pandita-ramabai                               Pandita Ramabai
+  - parichand-mitra                               Peary Chand Mitra  aka: Parichand Mitra, প্যারীচাঁদ মিত্র
+  - parth-shah                                    Parth J. Shah  aka: Parth J Shah, Parth Shah, Dr. Parth J. Shah, डॉ. पार्थ जे. शाह
+  - periyar-e-v-ramasamy                          Periyar E. V. Ramasamy  aka: Periyar Ramaswami Naicker, Periyar, E. V. Ramaswamy
+  - peter-bauer                                   Peter Bauer
+  - pherozeshah-mehta                             Pherozeshah Mehta
+  - phiroze-b-medhora                             Dr. Phiroze B. Medhora
+  - phiroze-j-shroff                              Phiroze J Shroff
+  - piloo-mody                                    Piloo Mody
+  - piya-mahatey                                  Piya Mahatey
+  - prof-cn-vakil                                 Prof CN Vakil
+  - prof-rl-varshney                              Prof. RL Varshney
+  - r-a-jahagirdar                                R. A. Jahagirdar  aka: Justice R. A. Jahagirdar (retd.), Justice Jahagirdar
+  - r-c-cooper                                    Dr. R. C. Cooper
+  - r-g-katoti                                    R. G. Katoti  aka: Mr. R. G. Katoti
+  - r-j-taraporevala                              Prof. R. J. Taraporevala
+  - r-k-amin                                      R. K. Amin  aka: R K Amin, RK Amin
+  - r-k-hazari                                    R. K. Hazari
+  - r-k-talwar                                    R. K. Talwar
+  - r-m-mohan-rao                                 R. M. Mohan Rao  aka: RM Mohan Rao, R.M. Mohan Rao
+  - r-n-jha                                       R. N. Jha
+  - rabindranath-tagore                           Rabindranath Tagore  aka: Tagore, রবীন্দ্রনাথ ঠাকুর, रवीन्द्रनाथ टैगोर
+  - radhakanta-deb                                Radhakanta Deb  aka: Radhakanta Dev, Raja Radhakanta Deb, রাধাকান্ত দেব
+  - raghunath-karve                               Raghunath Karve
+  - raja-ram-mohan-roy                            Raja Ram Mohan Roy
+  - rajendra-prasad                               Rajendra Prasad  aka: Dr. Rajendra Prasad
+  - rajesh-mishra                                 Rajesh Mishra  aka: રાજેશ મિશ્રા
+  - rajiv-gandhi                                  Rajiv Gandhi  aka: राजीव गांधी, রাজীব গান্ধী
+  - rajkumari-amrit-kaur                          Rajkumari Amrit Kaur
+  - rakesh-mohan                                  Dr. Rakesh Mohan
+  - ralph-borsodi                                 Ralph Borsodi
+  - ralph-waldo-emerson                           Ralph Waldo Emerson
+  - ram-jethmalani                                Ram Jethmalani  aka: Jethmalani
+  - ram-manohar-lohia                             Ram Manohar Lohia  aka: Lohia, Dr. Ram Manohar Lohia, राम मनोहर लोहिया
+  - ramabai-ranade                                Ramabai Ranade
+  - ramadevi-chowdhury                            Ramadevi Chowdhury
+  - ramdas-rear-admiral                           L. Ramdas  aka: Admiral Ramdas (retd.), Admiral L. Ramdas, Ramdas
+  - ramniwas-ruia                                 Shri Ramniwas R. Ruia
+  - ramtanu-lahiri                                Ramtanu Lahiri  aka: রামতনু লাহিড়ী
+  - rani-rashmoni                                 Rani Rashmoni
+  - rasikkrishna-mallik                           Rasikkrishna Mallik  aka: Rasik Krishna Mallick, রসিককৃষ্ণ মল্লিক
+  - rd-aga                                        RD Aga
+  - rene-klaff                                    René Klaff  aka: Dr. René Klaff
+  - richard-plaster                               Richard Plaster
+  - robert-mcnamara                               Robert McNamara
+  - ronald-meinardus                              Ronald Meinardus
+  - rukhmabai                                     Rukhmabai Raut
+  - russi-mody                                    Russi Mody
+  - ruth-benedict                                 Ruth Benedict
+  - s-chandrasekhar                               S. Chandrasekhar  aka: Sripati Chandrasekhar
+  - s-divakara                                    S. Divakara
+  - s-k-patil                                     S. K. Patil
+  - s-l-n-sinha                                   S. L. N. Sinha
+  - s-m-dahanukar                                 S. M. Dahanukar
+  - s-p-sathe                                     S. P. Sathe  aka: SP Sathe, S.P. Sathe, Sathe
+  - s-r-k-rao                                     Dr. S. R. K. Rao
+  - s-s-kanoria                                   S. S. Kanoria
+  - s-s-tarapore                                  S. S. Tarapore
+  - s-v-raju                                      S. V. Raju
+  - sachin-sen                                    Sachin Sen
+  - sadanand-varde                                Sadanand Varde
+  - salvador-de-madariaga                         Salvador de Madariaga  aka: Salvador Madariaga, Madariaga
+  - samdhong-rinpoche                             Samdhong Rinpoche  aka: Prof. Samdhong Rinpoche
+  - samiran-nundy                                 Dr. Samiran Nundy
+  - sanjay-panse                                  Sanjay Panse  aka: Mr. Sanjay Panse, Mr.Sanjay Panse
+  - sardar-patel                                  Vallabhbhai Patel  aka: Sardar Patel, Patel, सरदार पटेल, वल्लभभाई पटेल, सरदार वल्लभभाई पटेल
+  - sarojini-naidu                                Sarojini Naidu  aka: Sarojini Devi, धीमती सरोजिनी नायडू, सरोजिनी नायडू
+  - sarvepalli-radhakrishnan                      Sarvepalli Radhakrishnan  aka: S. Radhakrishnan, Professor S. Radhakrishnan, Dr. Radhakrishnan
+  - sauvik-chakraverti                            Sauvik Chakraverti
+  - sh-batlivala                                  SH Batlivala
+  - shah-mulraj-simha                             Shah Mulraj Simha
+  - shailesh-gandhi                               Shailesh Gandhi
+  - sharad-bailur                                 Sharad Bailur
+  - sharad-joshi                                  Sharad Joshi
+  - sharad-pawar                                  Sharad Pawar  aka: शरद पवार
+  - shareefa-hamid-ali                            Shareefa Hamid Ali
+  - shivaji                                       Chhatrapati Shivaji  aka: Shivaji, शिवाजी, छत्रपती शिवाजी, छत्रपती शिवाजी महाराज
+  - shivani-a-tannu                               Shivani A. Tannu
+  - shrikant-umrikar                              Shrikant Umrikar  aka: श्रीकांत उमरीकर, श्रीकांत अनंत उमरीकर, Shreekant Umarkar
+  - shyamala-gopinath                             Shyamala Gopinath
+  - siegfried-herzog                              Siegfried Herzog
+  - sirimavo-bandaranaike                         Sirimavo Bandaranaike  aka: Mrs. Sirimavo Bandaranaike, Mrs Srimavo Bandaranaike, Srimavo Bandaranaike
+  - sivanath-sastri                               Sivanath Sastri  aka: Shivnath Shastri, শিবনাথ শাস্ত্রী
+  - sn-haji                                       SN Haji
+  - sp-godrej                                     SP Godrej
+  - ss-bhandare-and-jk-mukhopadhyay               SS Bhandare And JK Mukhopadhyay
+  - subhas-chandra-bose                           Subhas Chandra Bose  aka: Netaji, Subhash Chandra Bose, সুভাষ চন্দ্র বসু, সুভাষচন্দ্র বসু, সুভাষ বসু, সুভাষচন্দ্র, নেতাজি, सुभाष चंद्र बोस, नेताजी
+  - sucheta-dalal                                 Sucheta Dalal
+  - sudha-r-shenoy                                Sudha R. Shenoy
+  - sujata-manohar                                Sujata Manohar
+  - sumati-morarjee                               Sumati Morarjee
+  - sunil-bhandare                                Sunil S. Bhandare  aka: Mr. Sunil S. Bhandare, Sunil Bhandare
+  - suresh-parikh                                 Suresh Parikh  aka: સુરેશ પરીખ
+  - swami-anand                                   Swami Anand  aka: સ્વામી આનંદ
+  - t-mathew                                      T. Mathew
+  - t-subbaya-shetty                              T. Subbaya Shetty
+  - t-t-krishnamachari                            T. T. Krishnamachari  aka: TTK, टी. टी. कृष्णमाचारी, कृष्णमाचारी
+  - tahir-siddiqui                                Tahir Siddiqui
+  - tanguturi-prakasam                            Tanguturi Prakasam Panthulu
+  - tarabai-shinde                                Tarabai Shinde
+  - tarachand-chakrabarty                         Tarachand Chakrabarty  aka: Tarachand Chakraborty, তারাচাঁদ চক্রবর্তী
+  - tarun-das                                     Tarun Das
+  - thakorelal-desai                              Thakorelal Desai
+  - theodor-heuss                                 Theodor Heuss
+  - thomas-aquinas                                Thomas Aquinas  aka: St Thomas Aquinas, St. Thomas Aquinas
+  - thomas-babington-macaulay                     Thomas Babington Macaulay  aka: Macaulay, Lord Macaulay, T. B. Macaulay
+  - thomas-robert-malthus                         Thomas Robert Malthus  aka: Malthus, T. R. Malthus, Rev. Malthus, माल्थस
+  - tom-g-palmer                                  Tom G. Palmer
+  - trupti-parekh                                 Trupti Parekh  aka: તૃપ્તિ પારેખ, તૃષિ પારેખ
+  - u-r-rao                                       Prof. U. R. Rao
+  - uday-kotak                                    Uday Kotak
+  - usha-mehta                                    Usha Mehta  aka: Dr. Usha Mehta
+  - utsavananda-vidyabagish                       Utsavananda Vidyabagish
+  - v-b-haribhakti                                V. B. Haribhakti
+  - v-k-krishna-menon                             V. K. Krishna Menon  aka: Krishna Menon, VK Krishna Menon, V.K. Krishna Menon, वी. के. कृष्ण मेनन, कृष्ण मेनन
+  - v-k-r-v-rao                                   V. K. R. V. Rao  aka: VKRV Rao, के॰ के॰ आर॰ वी॰ राव
+  - v-m-tarkunde                                  V. M. Tarkunde
+  - v-p-menon                                     V. P. Menon
+  - v-p-sinha                                     V. P. Sinha  aka: वी. पी. सिन्हा
+  - v-s-srinivasa-sastri                          V. S. Srinivasa Sastri
+  - v-t-krishnamachari                            V. T. Krishnamachari  aka: VT Krishnamachari, V T Krishnamachari, श्री वी. टी. कृष्णमाचारी
+  - v-v-john                                      V. V. John
+  - v-vijayatunga                                 V. Vijayatunga  aka: J. Vijayatunga
+  - vh-pandya                                     VH Pandya
+  - vijay-jawandhia                               Vijay Jawandhia  aka: विजय जावंधिया
+  - vijay-kelkar                                  Vijay Kelkar  aka: Dr. Vijay Kelkar, Vijay L. Kelkar
+  - vijay-mahajan-aviation                        Wing Commander Vijay Mahajan
+  - vijaya-lakshmi-pandit                         Vijaya Lakshmi Pandit  aka: Mrs. Vijayalaxmi Pandit, Vijayalaxmi Pandit
+  - vinoba-bhave                                  Vinoba Bhave  aka: Acharya Vinoba Bhave, Vinoba, विनोबा भावे
+  - voltaire                                      Voltaire
+  - w-h-hutt                                      W. H. Hutt
+  - warren-hastings                               Warren Hastings
+  - wilhelm-ropke                                 Wilhelm Röpke  aka: Wilhelm Ropke, Roepke
+  - william-adam                                  William Adam
+  - william-bentinck                              Lord William Bentinck  aka: William Bentinck, Bentinck
+  - willy-brandt                                  Willy Brandt
+  - winston-churchill                             Winston Churchill
+  - ww-rowstow                                    WW Rowstow
+  - y-k-hamied                                    Dr. Y. K. Hamied
+  - y-v-reddy                                     Dr. Y. V. Reddy
+  - yashawant-bhide                               Yashawant Bhide  aka: Prof. Yashawant Bhide
+  - yashodabai-agarkar                            Yashodabai Agarkar
+  - zafar-futehally                               Zafar Futehally
+  - zhou-enlai                                    Zhou Enlai  aka: Chou En-lai
+
+# Now classify
+
+Read your input batch and emit one JSON record per entry, in batch order, as a single top-level array. Reply with NOTHING ELSE — no commentary, no markdown fence around the JSON. Just the array.
