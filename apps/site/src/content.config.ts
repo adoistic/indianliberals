@@ -15,6 +15,8 @@
 import { defineCollection, reference, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+import './lib/check-slug-uniqueness';
+
 import {
   aiProvenance,
   confidenceFlag,
@@ -250,8 +252,8 @@ const primaryWorks = defineCollection({
     ]),
     // Optional sub-type qualifier. See `purposeEnum` definition in schemas/extraction.ts.
     purpose: purposeEnum.optional(),
-    authors: z.array(reference('thinkers')).default([]),
-    editors: z.array(reference('thinkers')).default([]),
+    authors: z.array(z.union([reference('thinkers'), reference('organisations')])).default([]),
+    editors: z.array(z.union([reference('thinkers'), reference('organisations')])).default([]),
     // Static metadata roster (who's in the book + their role), produced by
     // the metadata pass. Joins to `essays_summarized[]` via `toc_index`.
     contributors: z
