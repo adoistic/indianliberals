@@ -3,6 +3,10 @@ id: "khoj-march-april-2005"
 title: 
   main: "Khoj : March-April, 2005"
 work_type: "periodical_issue"
+# authors[]: bare strings resolve to the thinkers collection (the first arm of
+# the Zod union). Organisation refs MUST use the object form below, because
+# Zod accepts the bare-string via the first arm unconditionally and never
+# tries the organisations arm. See spec 2026-05-23-organisational-authorship §4.
 authors:
   - rajesh-mishra
   - trupti-parekh
