@@ -50,13 +50,38 @@ const thinkers = defineCollection({
     nationality: z.string().default('india'),
     tradition: z.enum([
       'classical_liberal',
-      'reformer',
-      'nationalist_liberal',
-      'social_reformer',
+      'constitutional_liberal',  // NEW — will absorb nationalist_liberal entries in Chunk 2
       'contemporary_liberal',
-      'international_influence',
+      'international_influence', // DEPRECATED but still accepted (sub-project 2 reclassifies)
+      'libertarian',             // NEW
+      'nationalist_liberal',     // DEPRECATED but still accepted in Chunk 1 (data still uses it; gets renamed in Chunk 2)
+      'non_liberal',             // NEW
+      'practice',                // NEW — for non-political figures (industrialists, scientists, etc.)
+      'reformer',                // DEPRECATED but still accepted in Chunk 1 (data still uses it; merged into social_reformer in Chunk 2)
+      'social_reformer',
       'unclassified',
     ]),
+    canon_status: z.enum([
+      'core',         // Central to the classical-liberal / libertarian canon
+      'extended',     // Broader liberal tradition (constitutional, contemporary, reform-era, honored practitioners)
+      'referenced',   // Mentioned in the corpus but outside the liberal tradition
+      'unclassified', // Default
+    ]).default('unclassified'),
+    vocations: z.array(z.enum([
+      // Academic / theoretical
+      'philosopher', 'economist', 'historian', 'political_scientist',
+      'sociologist', 'legal_scholar', 'scientist', 'engineer', 'professor',
+      // Writing / editorial
+      'writer', 'editor', 'journalist', 'poet',
+      // Public office / governance
+      'statesman', 'parliamentarian', 'civil_servant', 'diplomat', 'judge',
+      // Business / enterprise
+      'industrialist', 'entrepreneur',
+      // Civil society
+      'activist', 'reformer', 'religious_figure',
+      // Other
+      'military_officer', 'artist',
+    ])).default([]),
     themes: z.array(z.string()).default([]),
     affiliations: z.array(z.string()).default([]),
     portrait: z
