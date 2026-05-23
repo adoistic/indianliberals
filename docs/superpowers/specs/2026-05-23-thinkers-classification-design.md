@@ -29,10 +29,10 @@ Three commits, in order:
 
 ## 4. Schema delta
 
-In `apps/site/src/schemas/people.ts` (the thinker schema; verify file location during implementation — may also be defined directly in `apps/site/src/content.config.ts`):
+The thinker schema lives in `apps/site/src/content.config.ts` (verified — the `thinkers = defineCollection({…})` block starts at line 43; `apps/site/src/schemas/people.ts` only defines name shapes, not the frontmatter schema). All edits in this section target `content.config.ts`.
 
 ```ts
-// Before — relevant fields
+// Before — relevant fields (indicative; verify exact enum vs current source at implementation time)
 tradition: z.enum([
   'classical_liberal',
   'contemporary_liberal',
@@ -120,19 +120,42 @@ New file at `apps/site/src/lib/thinker-stats.ts`. Pure function, no side effects
 
 ```ts
 export interface ThinkerStat {
-  worksAuthored: number;  // Appearances in authors[] across primary-works, opinions, interviews, musings, theprint-mirror
-  referencedIn: number;   // Appearances in thinker_mentions[] or contributors[] (excluding entries already counted in worksAuthored, no double-count)
+  worksAuthored: number;  // Sum over all collections of entries where this thinker is an "author" per §5.1
+  referencedIn: number;   // Sum over all collections of entries where this thinker appears in a "reference" field per §5.1, excluding entries already counted in worksAuthored for the same (collection, entryId) pair
 }
 
 export async function getThinkerStats(): Promise<Map<string, ThinkerStat>>;
 ```
 
+**Contract:**
+
+- The returned Map contains an entry for every thinker that has at least one non-zero count. Thinkers with both counts zero are **omitted** from the Map. Page-render code must use `stats.get(id) ?? { worksAuthored: 0, referencedIn: 0 }`.
+- The Map keys are thinker `id` strings (slugs). Organisation refs are excluded.
+
+### 5.1 Per-collection field mapping
+
+| Collection | Counts toward `worksAuthored` | Counts toward `referencedIn` |
+|---|---|---|
+| `primary-works` | `authors[]` (filter to thinker-refs only; org-refs excluded) | `contributors[].thinker` (any role) + `thinker_mentions[].thinker` + `related_thinkers[]` |
+| `opinions` | `author` (singular ref) | `subject` + `thinker_mentions[].thinker` + `related_thinkers[]` |
+| `interviews` | *(none — interviewee is not an "author" in the writing sense)* | `subject` + (any other thinker-ref fields on the schema) |
+| `musings` | `author` (singular ref) | `thinker_mentions[].thinker` + `related_thinkers[]` |
+| `theprint-mirror` | *(none — `author_name` is a free-text string, not a thinker ref)* | `thinker_mentions[].thinker` + `related_thinkers[]` |
+| `periodicals` | TOC entries' `author_resolved` ref (one count per TOC entry the thinker authored) | `related_thinkers[]` + `thinker_mentions[].thinker` + TOC entries' `cross_thinker_mentions[].thinker_resolved` |
+
+**Within-entry dedup:** if a thinker appears in both an "authored" field AND a "referenced" field of the SAME entry, count them as `worksAuthored` only — not in `referencedIn`. (Example: a primary-work where the thinker is in both `authors[]` and `thinker_mentions[]` — the mention doesn't double-count.)
+
+**Across-entry counting:** each distinct entry contributes its own count to each bucket — so a thinker with 3 primary-works in `authors[]` has `worksAuthored: 3`, and one of those same primary-works also referencing them in `thinker_mentions[]` does NOT bump `referencedIn` (per the within-entry dedup above).
+
 **Implementation sketch:**
 
-1. Iterate over `await getCollection('primary-works')`, `getCollection('opinions')`, `getCollection('interviews')`, `getCollection('musings')`, and `getCollection('theprint-mirror')` (verify the exact list of collections that have author/mention fields during implementation).
-2. For each entry, increment `worksAuthored` for each thinker id in `authors[]`.
-3. For each entry, increment `referencedIn` for each thinker id in `thinker_mentions[]` or `contributors[]`, **skipping any thinker already in that entry's authors[]** (so an author who also writes about themselves doesn't double-count).
-4. Return the Map.
+1. Initialise an empty `Map<string, { worksAuthored: number; referencedIn: number }>`.
+2. For each collection in the table above, iterate `await getCollection(name)`.
+3. For each entry, compute two sets per the table: `authoredThinkers` and `referencedThinkers`. Subtract `authoredThinkers` from `referencedThinkers` (within-entry dedup).
+4. For each thinker id in the resulting `authoredThinkers`, increment its `worksAuthored` in the Map (creating the entry if absent).
+5. For each thinker id in the resulting `referencedThinkers`, increment its `referencedIn`.
+6. After all collections processed, drop any Map entries where both counts are zero (none should be — they wouldn't have been added — but a defensive sweep is cheap).
+7. Return the Map.
 
 **Why a build-time helper, not stored frontmatter?**
 
@@ -250,11 +273,13 @@ Also emit `data-pagefind-filter="canon-status:core"` (etc.) so canon status itse
 
 For every `apps/site/src/content/thinkers/*.md`:
 
-1. If `canon_status:` is absent, insert `canon_status: unclassified` immediately after the `tradition:` line.
-2. If `vocations:` is absent, insert `vocations: []` immediately after the `canon_status:` line.
+1. If `canon_status:` is absent, insert a literal line `canon_status: unclassified\n` immediately after the `tradition:` line. Exact serialization — no quoting, no comments, no trailing whitespace.
+2. If `vocations:` is absent, insert a literal line `vocations: []\n` immediately after the `canon_status:` line. The flow-style empty-array form `[]` (not block-style `vocations:\n  []` or `vocations:\n`). Exact serialization.
 3. If `tradition: nationalist_liberal`, rewrite to `tradition: constitutional_liberal`.
 4. If `tradition: reformer`, rewrite to `tradition: social_reformer`.
 5. **Leave everything else untouched.** No changes to `tradition: international_influence` (kept as deprecated-but-valid), `draft`, `needs_review`, `bio_source`, or any other field.
+
+The exact YAML shapes in (1) and (2) are what the §9.2 grep checks rely on. Deviating from them (e.g., emitting `canon_status: "unclassified"` with quotes) would silently fail the acceptance grep without breaking the build.
 
 **What the script does NOT do:**
 
@@ -335,7 +360,7 @@ These are the acceptance checks the implementation plan must reference. Each num
     - `grep -c "Extended liberal tradition" apps/site/dist/thinkers/index.html` → 0
     - `grep -c "Referenced thinkers" apps/site/dist/thinkers/index.html` → 0
     - `grep -c "Awaiting classification" apps/site/dist/thinkers/index.html` → 1
-13. The Awaiting section contains ~328 visible thinkers (the count of non-draft thinkers; verify by counting card hrefs in the rendered HTML).
+13. The Awaiting section's grid contains the same set of thinkers the pre-change flat grid did. Exact assertion: `grep -oE 'href="/thinkers/[^"]+/"' apps/site/dist/thinkers/index.html | sort -u | wc -l` produces the same count post-migration as the equivalent grep on the pre-migration build (expected to be 328 — count of non-draft, language=en thinkers — verifiable by re-running the pre-build before commit 3).
 14. No card shows a vocations caption (all `vocations: []` on day 1).
 15. Cards for thinkers with `worksAuthored > 0` show the forest-tint works chip. Spot-check on `dadabhai-naoroji` (known to have authored primary-works).
 16. Cards for thinkers with `referencedIn > 0` show the muted "Referenced in N pieces" label.
@@ -362,15 +387,15 @@ To prove the section structure works *when classifications exist*, temporarily s
 
 ### 9.5 Helper acceptance
 
-21. `getThinkerStats()` returns a `Map` with one entry per thinker that has at least one work or mention. Verifiable inline during implementation via a temporary `console.log` of a known case (e.g., `dadabhai-naoroji`). Expected: `{ worksAuthored: <n>, referencedIn: <m> }` with both positive.
-22. The helper handles thinkers with neither works nor mentions gracefully — either by returning `undefined` for `.get(id)` or by including a zeroed entry; the page-rendering logic must handle both.
+21. `getThinkerStats()` returns a `Map` populated per the §5 contract — entries present iff the thinker has at least one non-zero count. Verifiable inline during implementation via a temporary `console.log` of a known case (e.g., `dadabhai-naoroji`). Expected: `{ worksAuthored: <n>, referencedIn: <m> }` with both positive. Numbers should reconcile to a hand-count from `grep -l "dadabhai-naoroji" apps/site/src/content/{primary-works,opinions,interviews,musings,theprint-mirror,periodicals}/*.md`.
+22. Map.get(id) returns `undefined` for thinkers with both counts zero (per the §5 contract — entries are omitted, not zeroed). The page-rendering logic uses `stats.get(id) ?? { worksAuthored: 0, referencedIn: 0 }` to coalesce. No defensive zero-padding inside the helper.
 
 ### 9.6 Regression acceptance
 
 23. `/gu/primary-works/khoj-march-april-2005/` still renders the saffron pill for PUCL Gujarat (the latest org-authorship test case).
 24. `/organisations/pucl-gujarat/` still renders.
 25. `/thinkers/<some-classified-thinker>/` detail page renders unchanged (new fields exist in frontmatter but aren't surfaced on the detail page — that's a future spec).
-26. Total page count stays at 1185 (no routes added; thinkers index stays one route).
+26. Total page count stays at 1185 (no routes added; thinkers index stays one route). Verifiable: `pnpm build` tail line `Indexed N pages` reads 1185 (same as pre-change).
 27. Pagefind index includes `vocation:` and `canon-status:` filter keys, verifiable by inspecting `apps/site/dist/pagefind/` output.
 
 ### 9.7 Stopping criteria
@@ -472,7 +497,7 @@ The day-1 entry is what every thinker looks like after commit 2 — the AI class
 
 ## 11. Future work (out of this spec, but worth noting)
 
-- **Sub-project 2: AI bulk classifier pipeline.** A cloud routine (claude -p batch via /schedule, same pattern as the 2026-05-22 byline-resolution pipeline) that reads each thinker's bio + the works referencing them + existing fields, proposes `{canon_status, tradition_revised, vocations, confidence, reasoning}`, and writes outputs to a branch for curator review. Will clear the 86 `international_influence` entries and the day-1 backlog of unclassified.
+- **Sub-project 2: AI bulk classifier pipeline.** A cloud routine (claude -p batch via /schedule, same pattern as the 2026-05-22 byline-resolution pipeline) that reads each thinker's bio + the works referencing them + existing fields, proposes `{canon_status, tradition, vocations, confidence, reasoning}`, and writes outputs to a branch for curator review. Will clear the 86 `international_influence` entries and the day-1 backlog of unclassified.
 - **Sub-project 3: Curator review tooling.** Whatever workflow makes reviewing AI proposals fast. Could be a CLI, a tracking issue, a `needs_review` filter on /thinkers, or a dedicated review UI. Decision deferred.
 - **Thinker detail-page redesign.** Surface `canon_status`, `vocations`, and the works-on-site / referenced-in counts on `/thinkers/<slug>/`. Future spec.
 - **Card filter UI.** A row of chips above the grid (`All / Liberal canon / Extended / Referenced` and/or `All vocations / Philosophers / Economists / Statesmen / Industrialists / etc.`) to collapse the page to one tier or one role. Pagefind already indexes these as facets per §6.6; the UI layer is the deferred bit.
