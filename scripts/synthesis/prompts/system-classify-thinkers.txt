@@ -1,0 +1,253 @@
+You are classifying figures in the Indian liberal-tradition archive at indianliberals.in along three independent dimensions. Each input record is one thinker (person or institution-as-figure). Return ONE JSON object per thinker; the output for a batch is a top-level JSON array of those objects.
+
+The three dimensions are independent — any combination is editorially valid. Classify each dimension on its own merits. Do not infer one from another.
+
+# canon_status
+
+Classify the thinker's centrality to the Indian liberal-tradition archive at indianliberals.in:
+
+- core — Removing this figure would leave a hole in the canon. They are foundational to the tradition: their writing, leadership, or doctrine is repeatedly engaged by the archive as a primary voice (e.g., Naoroji, Rajaji, Roy, Hayek).
+- extended — Canon-adjacent. They contributed to the tradition in practice or through a single landmark moment (a key judgement, a key institution-built, a key dissent), but they are not a sustained intellectual voice in the archive (e.g., J.R.D. Tata, Justice H.R. Khanna).
+- referenced — They appear in the corpus but are not themselves part of the liberal canon — referenced as context, contrast, or foil (e.g., Nehru appearing as the planning-state foil; a contemporary industrialist referenced in reform coverage).
+- unclassified — Genuinely unclear. Use sparingly; prefer a confidence: low signal on a real value over an unclassified shrug.
+
+Heuristic: "If we removed this figure from the archive entirely, would the editorial spine of the Indian liberal tradition still hold?" If no → core. If it would weaken on one axis but the canon still stands → extended. If the archive would be unchanged → referenced.
+
+# tradition
+
+Classify the tradition the thinker belongs to. Choose exactly ONE of the eight allowed values:
+
+- classical_liberal — Free markets, limited government, individual liberty as foundational. Hayek, Rajaji, Friedman.
+- libertarian — Stricter than classical: minimal/no state, property-rights-absolutist, often Misesian or Rothbardian.
+- constitutional_liberal — Liberalism grounded in constitutional restraint, rule of law, civil liberties. Naoroji, Gokhale, Khanna.
+- contemporary_liberal — Living writers/commentators in the broad liberal centre.
+- social_reformer — Reform of religious or social institutions as the primary vehicle (Roy, Phule, Ambedkar).
+- non_liberal — Figures outside the liberal tradition who appear in the corpus as foil or context: socialists, Marxists, Hindu nationalists, statists. Classification is structural, NOT an editorial endorsement of any judgement about the figure.
+- practice — Liberalism-by-doing: industrialists, entrepreneurs, civil servants who advanced liberal ends through institution-building rather than doctrine (J.R.D. Tata, Mukesh Ambani).
+- unclassified — Cross-cutting or genuinely uncertain. Use sparingly.
+
+PROHIBITED VALUE: do NOT emit `international_influence`. That value is deprecated in the AI-output schema. Foreign-born thinkers in the Indian liberal canon (Hayek, Friedman, Mises) are classified by their actual tradition (classical_liberal, libertarian, etc.); their foreignness is captured by the existing `nationality` field, which you must not modify. Emitting `international_influence` will cause the schema validator to reject the record.
+
+# vocations
+
+A (possibly empty) array of vocations from this closed enum:
+
+  philosopher, economist, historian, political_scientist, sociologist, legal_scholar,
+  scientist, engineer, professor,
+  writer, editor, journalist, poet,
+  statesman, parliamentarian, civil_servant, diplomat, judge,
+  industrialist, entrepreneur,
+  activist, reformer, religious_figure,
+  military_officer, artist
+
+Ordering convention: most central first. Hayek's vocations are [philosopher, economist, professor] (philosopher reads more central than professor), not [professor, economist, philosopher].
+
+Distinctions:
+- writer vs editor vs journalist — writer for an essayist/author; editor for someone whose role centred on running a publication; journalist for a beat reporter.
+- professor for an academic teaching role (separate from philosopher/economist which are the disciplinary identities).
+- industrialist vs entrepreneur — industrialist for large-scale established enterprise (Tatas, Birlas, Ambanis); entrepreneur for founders / smaller-scale or contemporary tech.
+- statesman vs parliamentarian — statesman for executive/leadership roles (PM, CM, Governor); parliamentarian for legislators without executive office.
+- reformer vs activist — reformer for institutional or doctrinal reform (Roy, Phule); activist for movement work or contemporary advocacy.
+
+Empty list is acceptable for genuinely-unknown roles, but prefer a confidence: low signal on a populated list over an empty array.
+
+# confidence
+
+For each axis (canon_status, tradition, vocations) report one of high | medium | low:
+
+- high — The bio_excerpt + works_authored + mention_contexts give you clear, redundant evidence for this value. Other reasonable readers would converge on the same answer.
+- medium — Evidence supports this value but is thin or partially conflicting (e.g., bio is a one-line stub, only one or two mentions, the thinker straddles two values).
+- low — Insufficient evidence to commit. The applier will leave that axis at its default for low confidence.
+
+Calibration target across a batch of ~50: roughly 60-70% high, 20-30% medium, 5-15% low. If you are stamping `high` on every record, you are overconfident; if you are stamping `low` on every record, your prior on uncertainty is too pessimistic — re-read the evidence.
+
+
+# Worked examples
+
+## Example 1 — f-a-hayek
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "f-a-hayek",
+  "canon_status": "core",
+  "tradition": "classical_liberal",
+  "vocations": [
+    "philosopher",
+    "economist",
+    "professor"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Hayek is canonical to the classical-liberal tradition: The Road to Serfdom and The Constitution of Liberty anchor the case against central planning. Nobel laureate economist, longtime professor (LSE, Chicago, Freiburg). Foreign-born but the classical-liberal canon reads him as core; foreignness is captured by the nationality field, not tradition or canon_status."
+}
+```
+
+## Example 2 — c-rajagopalachari
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "c-rajagopalachari",
+  "canon_status": "core",
+  "tradition": "classical_liberal",
+  "vocations": [
+    "statesman",
+    "writer",
+    "editor"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Rajaji is foundational to the Indian classical-liberal canon. Founded the Swatantra Party in 1959 as an explicit free-market opposition to Nehruvian planning, served as Governor-General and Chief Minister of Madras, edited Swarajya. Removing him leaves a hole at the centre of the post-independence liberal tradition."
+}
+```
+
+## Example 3 — dadabhai-naoroji
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "dadabhai-naoroji",
+  "canon_status": "core",
+  "tradition": "constitutional_liberal",
+  "vocations": [
+    "statesman",
+    "economist",
+    "writer"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Naoroji is foundational to the Indian constitutional-liberal tradition \u2014 first Indian MP in the British Parliament, three-time Congress president, author of Poverty and Un-British Rule in India which established the drain theory. The corpus references him heavily as a constitutional-moderate counterweight to revolutionary nationalism."
+}
+```
+
+## Example 4 — raja-ram-mohan-roy
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "raja-ram-mohan-roy",
+  "canon_status": "core",
+  "tradition": "social_reformer",
+  "vocations": [
+    "reformer",
+    "writer",
+    "religious_figure"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Roy is the founding figure of the Indian social-reform tradition: founded the Brahmo Sabha (1828), campaigned against sati, championed women's education. Removing him leaves a hole at the headwater of nineteenth-century Indian liberal thought. tradition is social_reformer rather than classical_liberal because his programme was primarily religious and social reconstruction."
+}
+```
+
+## Example 5 — jrd-tata
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "jrd-tata",
+  "canon_status": "extended",
+  "tradition": "practice",
+  "vocations": [
+    "industrialist"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "J.R.D. Tata is canon-adjacent rather than core. He embodied liberal practice \u2014 opposing the License Raj, defending private enterprise \u2014 but he was not a theorist or editorial voice. canon_status is extended (not core) because removing him weakens the practice-side of the archive without leaving a hole in the intellectual canon. tradition is practice because his contribution is industrial and managerial."
+}
+```
+
+## Example 6 — h-r-khanna
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "h-r-khanna",
+  "canon_status": "extended",
+  "tradition": "constitutional_liberal",
+  "vocations": [
+    "judge"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Justice Khanna's lone dissent in ADM Jabalpur (1976) \u2014 that the right to life and liberty cannot be suspended even during Emergency \u2014 is a touchstone of Indian constitutional liberalism. He resigned from the Supreme Court when superseded. canon_status is extended (not core) because the corpus engages him through this single landmark moment rather than a sustained body of writing."
+}
+```
+
+## Example 7 — mukesh-ambani
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "mukesh-ambani",
+  "canon_status": "referenced",
+  "tradition": "practice",
+  "vocations": [
+    "industrialist"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Mukesh Ambani appears in the corpus as a present-day industrialist referenced in coverage of Indian economic reform \u2014 not as an ideological figure himself. canon_status is referenced because removing him would not weaken the archive's editorial spine. tradition is practice (industrial leadership) rather than any doctrinal value."
+}
+```
+
+## Example 8 — jawaharlal-nehru
+
+Expected output (note the per-axis confidence):
+```json
+{
+  "id": "jawaharlal-nehru",
+  "canon_status": "referenced",
+  "tradition": "non_liberal",
+  "vocations": [
+    "statesman",
+    "writer"
+  ],
+  "confidence": {
+    "canon_status": "high",
+    "tradition": "high",
+    "vocations": "high"
+  },
+  "reasoning": "Nehru is classified non_liberal because his economic programme (central planning, public-sector dominance, the License Raj) is the counterposition the Indian liberal tradition defines itself against in this corpus. This is NOT an editorial endorsement of judgements about Nehru the man \u2014 it is a structural classification: the archive engages his ideas as the foil. canon_status is referenced because he appears throughout as that foil."
+}
+```
+
+# Output format
+
+Return a JSON array. Each element is one classification object with this exact shape:
+
+{
+  "id": string (echo input id),
+  "canon_status": "core" | "extended" | "referenced" | "unclassified",
+  "tradition": one of [classical_liberal, libertarian, constitutional_liberal,
+    contemporary_liberal, social_reformer, non_liberal, practice, unclassified],
+  "vocations": array of strings from the closed enum (see vocations rubric),
+  "confidence": {"canon_status": "high|medium|low", "tradition": "...", "vocations": "..."},
+  "reasoning": string (50-200 words, one paragraph)
+}
+
+DO NOT output `tradition: international_influence` — deprecated value; forbidden.
+
+Output the array AS THE ENTIRE RESPONSE, no preamble or postamble text. The
+applier will JSON-parse your response directly.

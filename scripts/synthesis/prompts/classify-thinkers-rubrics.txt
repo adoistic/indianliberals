@@ -1,0 +1,58 @@
+# canon_status
+
+Classify the thinker's centrality to the Indian liberal-tradition archive at indianliberals.in:
+
+- core — Removing this figure would leave a hole in the canon. They are foundational to the tradition: their writing, leadership, or doctrine is repeatedly engaged by the archive as a primary voice (e.g., Naoroji, Rajaji, Roy, Hayek).
+- extended — Canon-adjacent. They contributed to the tradition in practice or through a single landmark moment (a key judgement, a key institution-built, a key dissent), but they are not a sustained intellectual voice in the archive (e.g., J.R.D. Tata, Justice H.R. Khanna).
+- referenced — They appear in the corpus but are not themselves part of the liberal canon — referenced as context, contrast, or foil (e.g., Nehru appearing as the planning-state foil; a contemporary industrialist referenced in reform coverage).
+- unclassified — Genuinely unclear. Use sparingly; prefer a confidence: low signal on a real value over an unclassified shrug.
+
+Heuristic: "If we removed this figure from the archive entirely, would the editorial spine of the Indian liberal tradition still hold?" If no → core. If it would weaken on one axis but the canon still stands → extended. If the archive would be unchanged → referenced.
+
+# tradition
+
+Classify the tradition the thinker belongs to. Choose exactly ONE of the eight allowed values:
+
+- classical_liberal — Free markets, limited government, individual liberty as foundational. Hayek, Rajaji, Friedman.
+- libertarian — Stricter than classical: minimal/no state, property-rights-absolutist, often Misesian or Rothbardian.
+- constitutional_liberal — Liberalism grounded in constitutional restraint, rule of law, civil liberties. Naoroji, Gokhale, Khanna.
+- contemporary_liberal — Living writers/commentators in the broad liberal centre.
+- social_reformer — Reform of religious or social institutions as the primary vehicle (Roy, Phule, Ambedkar).
+- non_liberal — Figures outside the liberal tradition who appear in the corpus as foil or context: socialists, Marxists, Hindu nationalists, statists. Classification is structural, NOT an editorial endorsement of any judgement about the figure.
+- practice — Liberalism-by-doing: industrialists, entrepreneurs, civil servants who advanced liberal ends through institution-building rather than doctrine (J.R.D. Tata, Mukesh Ambani).
+- unclassified — Cross-cutting or genuinely uncertain. Use sparingly.
+
+PROHIBITED VALUE: do NOT emit `international_influence`. That value is deprecated in the AI-output schema. Foreign-born thinkers in the Indian liberal canon (Hayek, Friedman, Mises) are classified by their actual tradition (classical_liberal, libertarian, etc.); their foreignness is captured by the existing `nationality` field, which you must not modify. Emitting `international_influence` will cause the schema validator to reject the record.
+
+# vocations
+
+A (possibly empty) array of vocations from this closed enum:
+
+  philosopher, economist, historian, political_scientist, sociologist, legal_scholar,
+  scientist, engineer, professor,
+  writer, editor, journalist, poet,
+  statesman, parliamentarian, civil_servant, diplomat, judge,
+  industrialist, entrepreneur,
+  activist, reformer, religious_figure,
+  military_officer, artist
+
+Ordering convention: most central first. Hayek's vocations are [philosopher, economist, professor] (philosopher reads more central than professor), not [professor, economist, philosopher].
+
+Distinctions:
+- writer vs editor vs journalist — writer for an essayist/author; editor for someone whose role centred on running a publication; journalist for a beat reporter.
+- professor for an academic teaching role (separate from philosopher/economist which are the disciplinary identities).
+- industrialist vs entrepreneur — industrialist for large-scale established enterprise (Tatas, Birlas, Ambanis); entrepreneur for founders / smaller-scale or contemporary tech.
+- statesman vs parliamentarian — statesman for executive/leadership roles (PM, CM, Governor); parliamentarian for legislators without executive office.
+- reformer vs activist — reformer for institutional or doctrinal reform (Roy, Phule); activist for movement work or contemporary advocacy.
+
+Empty list is acceptable for genuinely-unknown roles, but prefer a confidence: low signal on a populated list over an empty array.
+
+# confidence
+
+For each axis (canon_status, tradition, vocations) report one of high | medium | low:
+
+- high — The bio_excerpt + works_authored + mention_contexts give you clear, redundant evidence for this value. Other reasonable readers would converge on the same answer.
+- medium — Evidence supports this value but is thin or partially conflicting (e.g., bio is a one-line stub, only one or two mentions, the thinker straddles two values).
+- low — Insufficient evidence to commit. The applier will leave that axis at its default for low confidence.
+
+Calibration target across a batch of ~50: roughly 60-70% high, 20-30% medium, 5-15% low. If you are stamping `high` on every record, you are overconfident; if you are stamping `low` on every record, your prior on uncertainty is too pessimistic — re-read the evidence.

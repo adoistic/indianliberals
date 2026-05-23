@@ -35,6 +35,8 @@ DIFF_REPORT = DATA_DIR / "pilot-diff-report.md"
 
 # The 8 anchor example IDs from spec §8.1 item 6 + §9.1.
 # These also appear as worked examples in the system prompt.
+# MUST stay in sync with scripts/synthesis/prompts/classify-thinkers-anchors.json
+# (same 8 slugs, same order). If you change one, change the other.
 ANCHOR_IDS = [
     "f-a-hayek",
     "c-rajagopalachari",

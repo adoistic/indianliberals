@@ -1,0 +1,83 @@
+[
+  {
+    "_comment": "MUST stay in sync with scripts/synthesis/pilot-classify-thinkers.py:ANCHOR_IDS — same 8 slugs, same order.",
+    "id": "f-a-hayek",
+    "expected": {
+      "canon_status": "core",
+      "tradition": "classical_liberal",
+      "vocations": ["philosopher", "economist", "professor"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Hayek is canonical to the classical-liberal tradition: The Road to Serfdom and The Constitution of Liberty anchor the case against central planning. Nobel laureate economist, longtime professor (LSE, Chicago, Freiburg). Foreign-born but the classical-liberal canon reads him as core; foreignness is captured by the nationality field, not tradition or canon_status."
+  },
+  {
+    "id": "c-rajagopalachari",
+    "expected": {
+      "canon_status": "core",
+      "tradition": "classical_liberal",
+      "vocations": ["statesman", "writer", "editor"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Rajaji is foundational to the Indian classical-liberal canon. Founded the Swatantra Party in 1959 as an explicit free-market opposition to Nehruvian planning, served as Governor-General and Chief Minister of Madras, edited Swarajya. Removing him leaves a hole at the centre of the post-independence liberal tradition."
+  },
+  {
+    "id": "dadabhai-naoroji",
+    "expected": {
+      "canon_status": "core",
+      "tradition": "constitutional_liberal",
+      "vocations": ["statesman", "economist", "writer"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Naoroji is foundational to the Indian constitutional-liberal tradition — first Indian MP in the British Parliament, three-time Congress president, author of Poverty and Un-British Rule in India which established the drain theory. The corpus references him heavily as a constitutional-moderate counterweight to revolutionary nationalism."
+  },
+  {
+    "id": "raja-ram-mohan-roy",
+    "expected": {
+      "canon_status": "core",
+      "tradition": "social_reformer",
+      "vocations": ["reformer", "writer", "religious_figure"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Roy is the founding figure of the Indian social-reform tradition: founded the Brahmo Sabha (1828), campaigned against sati, championed women's education. Removing him leaves a hole at the headwater of nineteenth-century Indian liberal thought. tradition is social_reformer rather than classical_liberal because his programme was primarily religious and social reconstruction."
+  },
+  {
+    "id": "jrd-tata",
+    "expected": {
+      "canon_status": "extended",
+      "tradition": "practice",
+      "vocations": ["industrialist"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "J.R.D. Tata is canon-adjacent rather than core. He embodied liberal practice — opposing the License Raj, defending private enterprise — but he was not a theorist or editorial voice. canon_status is extended (not core) because removing him weakens the practice-side of the archive without leaving a hole in the intellectual canon. tradition is practice because his contribution is industrial and managerial."
+  },
+  {
+    "id": "h-r-khanna",
+    "expected": {
+      "canon_status": "extended",
+      "tradition": "constitutional_liberal",
+      "vocations": ["judge"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Justice Khanna's lone dissent in ADM Jabalpur (1976) — that the right to life and liberty cannot be suspended even during Emergency — is a touchstone of Indian constitutional liberalism. He resigned from the Supreme Court when superseded. canon_status is extended (not core) because the corpus engages him through this single landmark moment rather than a sustained body of writing."
+  },
+  {
+    "id": "mukesh-ambani",
+    "expected": {
+      "canon_status": "referenced",
+      "tradition": "practice",
+      "vocations": ["industrialist"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Mukesh Ambani appears in the corpus as a present-day industrialist referenced in coverage of Indian economic reform — not as an ideological figure himself. canon_status is referenced because removing him would not weaken the archive's editorial spine. tradition is practice (industrial leadership) rather than any doctrinal value."
+  },
+  {
+    "id": "jawaharlal-nehru",
+    "expected": {
+      "canon_status": "referenced",
+      "tradition": "non_liberal",
+      "vocations": ["statesman", "writer"],
+      "confidence": {"canon_status": "high", "tradition": "high", "vocations": "high"}
+    },
+    "reasoning": "Nehru is classified non_liberal because his economic programme (central planning, public-sector dominance, the License Raj) is the counterposition the Indian liberal tradition defines itself against in this corpus. This is NOT an editorial endorsement of judgements about Nehru the man — it is a structural classification: the archive engages his ideas as the foil. canon_status is referenced because he appears throughout as that foil."
+  }
+]
