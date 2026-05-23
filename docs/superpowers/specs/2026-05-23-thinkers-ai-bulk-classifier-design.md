@@ -178,7 +178,7 @@ The deprecated value `international_influence` (86 entries on disk) still appear
 The `classify_thinkers_schema.py validate` step rejects a record if any of:
 - `id` missing, or not in the input batch.
 - `canon_status` not in the 4-value enum.
-- `tradition` not in the 9 allowed values (including explicit reject of `international_influence`).
+- `tradition` not in the 8 allowed values, OR `tradition == international_influence` (explicit forbidden value per §6.1).
 - `vocations` contains a value not in the 25-value enum.
 - `confidence` missing or doesn't have all three required keys.
 - `reasoning` missing or empty.
@@ -389,7 +389,7 @@ Each numbered criterion is independently verifiable.
 15. Union of all output IDs covers all 506 input thinkers. Verified by `cat data/classify-thinkers/output-*.json | jq -r '.[].id' | sort -u | wc -l` → 506.
 16. `apply-classify-thinkers.py --dry-run` reports which files would be modified and which axes would be written; no files touched.
 17. `apply-classify-thinkers.py` (live) modifies thinker MDs per the §7 confidence rule. Spot-check 3 thinkers: one all-high, one mixed, one with low-confidence axis.
-18. Applier is idempotent — re-running with same outputs produces zero file changes.
+18. Applier is output-stable — re-running with same outputs AND no intervening curator edits produces zero file changes. (Per §7.2, a curator-cleared `needs_review: false` re-set to `true` on re-apply is INTENDED behaviour, not a violation.)
 19. `data/classify-thinkers/reasoning-log.md` is created/updated; contains an entry per processed thinker.
 20. `needs_review: true` is set on every record where at least one axis was medium-or-low.
 
