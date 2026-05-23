@@ -95,11 +95,12 @@ data/classify-thinkers/
 ### 4.3 Dispatch mechanics
 
 Per May 18 §6, dispatch happens via parallel Agent subagent invocations inside the Max session — zero `claude -p` cost. Each subagent receives:
-- The rendered system prompt (`scripts/synthesis/prompts/system-classify-thinkers.txt`)
-- One batch JSONL as user-message input (or via file reference)
-- Instructions to return a JSON array of classification objects
+- The rendered system prompt (`scripts/synthesis/prompts/system-classify-thinkers.txt`) as its system-instruction
+- One batch JSONL as user-message input (passed as a file path the subagent reads, or inlined into the prompt body — implementation choice)
+- The target output path it MUST write its result to (`data/classify-thinkers/output-NN.json` where NN matches the batch number)
+- Instructions to write a JSON array of classification objects to that path AND return a one-line confirmation in its final message
 
-The pilot stage uses 1 subagent; bulk uses 10 in parallel. The controller (this session, when execution lands) is responsible for batch→subagent assignment and result collection.
+The pilot stage uses 1 subagent; bulk uses 10 in parallel. The controller (this session, when execution lands) is responsible for batch→subagent assignment, passing the right output path per dispatch, and post-dispatch verification: confirming each `output-NN.json` exists and validates against the §6 schema before proceeding to the applier. If a subagent fails to write its output (file missing or schema-invalid), the controller re-dispatches just that batch.
 
 ## 5. Input record schema (one per thinker in a batch JSONL)
 
@@ -167,7 +168,7 @@ The deprecated value `international_influence` (86 entries on disk) still appear
 
 - `id` MUST echo the input id so the applier can match output→input. A record missing `id` or with an unknown `id` is rejected.
 - `canon_status` MUST be one of: `core` | `extended` | `referenced` | `unclassified`. Validated against the §6.3 schema.
-- `tradition` MUST be one of the **9 post-Chunk-2 enum values**: `classical_liberal`, `libertarian`, `constitutional_liberal`, `contemporary_liberal`, `social_reformer`, `non_liberal`, `practice`, `unclassified`. **The value `international_influence` is FORBIDDEN in AI output.** The schema rejects records emitting it; this is the only enum the AI must explicitly avoid.
+- `tradition` MUST be one of the **8 allowed values**: `classical_liberal`, `libertarian`, `constitutional_liberal`, `contemporary_liberal`, `social_reformer`, `non_liberal`, `practice`, `unclassified`. The post-Chunk-2 thinker schema accepts a 9th value, `international_influence`, but that value is DEPRECATED and **FORBIDDEN in AI output**. The applier-side schema rejects records emitting it; this is the only enum the AI must explicitly avoid. Foreignness is captured by the existing `nationality` field (which the AI does not modify).
 - `vocations` MUST be a (possibly empty) array of values from the 25-value vocation enum. Order matters editorially — "most central first" (Hayek = `[philosopher, economist, professor]` reads better than `[professor, economist, philosopher]`). The applier preserves the AI's order.
 - `confidence` is an object with one `high|medium|low` per axis. All three keys MUST be present.
 - `reasoning` is a single string, ~50-200 words, one paragraph. The applier writes this to `data/classify-thinkers/reasoning-log.md` keyed by thinker id.
@@ -231,8 +232,8 @@ Per `apply-classify-thinkers.py` for each validated output record:
 ### 7.2 Overwrite semantics
 
 - The applier OVERWRITES `canon_status`, `tradition`, `vocations` per the confidence rule. This is intentional — Adnan's "from first principles, reclassify all" directive.
-- The applier does NOT touch any other frontmatter field.
-- Re-running the applier on the same output JSONs produces zero additional file changes (idempotent).
+- The applier does NOT touch any other frontmatter field (except `needs_review` per §7.1).
+- **Applier-output-stability rather than pure idempotency.** Re-running the applier on the same output JSONs produces zero additional changes IF no curator edit has happened in between. But: if a curator clears `needs_review: false` between runs and the AI output for that thinker still has any medium/low axis, the re-run re-sets `needs_review: true`. This is intentional — the AI's stated confidence hasn't changed, so the review need hasn't either. The curator's clearing of `needs_review` is meaningful only if the AI's confidence vector also changes (which requires a new classification run with a refined prompt). Stable; not pure idempotency.
 
 ### 7.3 Side log shape (`reasoning-log.md`)
 
@@ -303,6 +304,8 @@ The 22 IDs should cover:
 - 5+ `referenced` (a Marxist, a Hindu-nationalist, a non-political figure, etc.),
 - A few `unclassified` (genuinely cross-cutting figures where Adnan thinks the AI should mark low-confidence on at least one axis — e.g., a figure who straddles social_reformer and non_liberal).
 
+**Anchor↔pilot overlap:** the 8 anchor-example IDs above double as anchor examples in the rendered system prompt (§8.1 item 6). Their AI output is a sanity check on prompt fidelity — if the AI gets even its own anchor examples wrong, the prompt rendering is broken. The other 22 IDs are validation-only — they never appear in the prompt, so AI agreement on them is the clean signal of generalization. Per-axis agreement metrics in the diff report are computed across all 30, but the controller should also eyeball the 22-only subset to confirm the AI isn't just memorising the prompt.
+
 ### 9.2 Pilot dispatch
 
 Step 1 dispatches ONE Agent subagent against a single batch containing all 30 pilot thinkers (input records prepared by `prepare-classify-thinkers-batches.py --pilot`). Returns `pilot-output.json`.
@@ -340,11 +343,11 @@ Step 1 dispatches ONE Agent subagent against a single batch containing all 30 pi
 If per-axis agreement is **≥80% on ALL three axes**, the pilot passes and the bulk run is authorized.
 
 If any axis is below 80%:
-- The controller iterates the system prompt (typically by adjusting a rubric or adding/refining anchor examples).
+- **Iteration mechanics:** the controller (the controlling Claude session that orchestrates this pipeline) reads the diff report, proposes specific prompt amendments to Adnan (e.g., "add an anchor example for the missing canon_status=extended case", "tighten the rubric language for tradition=practice"), and on approval edits the rubric source / anchor-example file feeding `render-system-classify-thinkers.py`. The curator does NOT edit raw prompt text directly; all changes go through the renderer so re-renders are reproducible.
 - Re-renders the system prompt via `render-system-classify-thinkers.py`.
 - Re-runs Step 1 with the updated prompt.
 - Re-runs the diff.
-- Max 5 iterations before surfacing to Adnan for guidance (matches the spec-review-loop convention).
+- Max 5 iterations before surfacing to Adnan for an explicit "ship as-is or escalate" decision (matches the spec-review-loop convention).
 
 ### 9.5 Vocations agreement metric
 
@@ -352,7 +355,7 @@ Vocations is multi-valued, so equality is set-similarity (Jaccard index):
 - For thinker T, ground_truth set GT and AI output set AI, similarity = |GT ∩ AI| / |GT ∪ AI|.
 - A thinker counts as "agreement" if Jaccard ≥ 0.6. (Hayek truth=[philosopher, economist, professor], AI=[philosopher, economist] → Jaccard 2/3 ≈ 0.67 → agreement. Truth=[philosopher, economist, professor], AI=[philosopher, statesman] → Jaccard 1/4 = 0.25 → disagreement.)
 
-The 0.6 threshold is empirical — covers minor differences (missing one vocation) but flags substantively wrong sets.
+The 0.6 threshold is a first-pass estimate, not an empirically-validated cutoff. It sits between "Hayek's 2-of-3 vocations match" (Jaccard 0.67 → agreement) and "1-of-4 vocations match" (Jaccard 0.25 → disagreement). Tunable during pilot: if the diff report flags too many false positives (cases where Adnan judges the AI's set substantively correct but Jaccard < 0.6), lower the threshold. If too many false negatives, raise.
 
 ## 10. Validation criteria
 
@@ -374,7 +377,7 @@ Each numbered criterion is independently verifiable.
 
 ### 10.3 Bulk batch preparation
 
-9. `prepare-classify-thinkers-batches.py` emits exactly 10 batch JSONLs at `data/classify-thinkers/batch-{00..09}.jsonl`. Distribution is round-robin by sorted thinker ID (each batch covers a representative slice).
+9. `prepare-classify-thinkers-batches.py` emits exactly 10 batch JSONLs at `data/classify-thinkers/batch-{00..09}.jsonl`. Distribution is round-robin by sorted thinker ID — i.e., sorted thinker `i` goes to batch `i % 10`, producing a slug-stratified slice per batch (not topically/canonically representative; just deterministic).
 10. Every record in every batch validates against the §5 input schema.
 11. Union of all batches' records is exactly the 506 thinker IDs from `apps/site/src/content/thinkers/*.md` — no thinker missed, no thinker duplicated. Verified by `cat data/classify-thinkers/batch-*.jsonl | jq -r .id | sort -u | wc -l` → 506.
 12. Mention contexts are truncated (max 10 per thinker; each ~150-250 chars). Spot-check on Rajaji and Naoroji.
