@@ -85,8 +85,11 @@ fields:
 For thinkers:
 - \`name.canonical\`, \`name.full\`, \`name.sort\`, \`name.also_known_as[]\`
 - \`birth_year\`, \`death_year\`
-- \`tradition\`: \`classical_liberal\` | \`reformer\` | \`nationalist_liberal\` |
-  \`social_reformer\` | \`contemporary_liberal\` | \`international_influence\`
+- \`tradition\`: \`classical_liberal\` | \`libertarian\` | \`constitutional_liberal\` |
+  \`contemporary_liberal\` | \`social_reformer\` | \`non_liberal\` | \`practice\` |
+  \`international_influence\` | \`unclassified\`
+- \`canon_status\`: \`core\` | \`extended\` | \`referenced\` | \`unclassified\` (editorial centrality on the liberal-canon axis)
+- \`vocations\`: array of role values from a closed enum (\`philosopher\`, \`economist\`, \`statesman\`, \`industrialist\`, \`judge\`, \`scientist\`, \`writer\`, etc.) — see content.config.ts for the full list
 
 For primary works:
 - \`title.main\`, \`title.original_script\`, \`title.translit\`, \`title.translation\`
