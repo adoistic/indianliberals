@@ -10,7 +10,7 @@ authors:
   - sauvik-chakraverti
   - rabindranath-tagore
   - revatbha-rayjada
-  - pucl-gujarat
+  - { collection: organisations, id: pucl-gujarat }
   - yogendra-mankad
   - manjula-dabhi
   - asghar-ali-engineer

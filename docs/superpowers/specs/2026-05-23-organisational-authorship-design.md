@@ -2,7 +2,8 @@
 
 **Author:** Adnan
 **Date:** 2026-05-23
-**Status:** locked
+**Amended:** Spec was authored with a wrong premise about `z.union` of `reference()` resolution — see §4 and §5.5 for the correction. Chunk 4 (this amendment + a 4th commit) brings the implementation to spec-intent.
+**Status:** amended (2026-05-23)
 
 ## 1. Goal
 
@@ -40,7 +41,13 @@ authors: z.array(z.union([reference('thinkers'), reference('organisations')])).d
 editors: z.array(z.union([reference('thinkers'), reference('organisations')])).default([]),
 ```
 
-Frontmatter shape does not change. A bare string slug (`- pucl-gujarat`) still works. Astro's `reference()` resolves the slug to `{ id, collection }` at runtime; the union picks the first collection that contains the slug.
+**Frontmatter shape for thinker refs does not change** — `- some-slug` (bare string) continues to work for thinkers, which is what 99% of the corpus uses. **Org refs, however, require the YAML object form**: `- { collection: organisations, id: some-slug }` (flow-style mapping inside the list item).
+
+This is a deviation from the spec's original premise that the union would pick "the first collection that contains the slug." That premise was empirically false. Zod's `z.union` returns the first arm whose transform does not throw, and `reference('thinkers')` is a permissive transform that accepts any string at parse time — it does not validate that a thinker file with that slug exists. So a bare string `- pucl-gujarat` always resolves via the first arm to `{ collection: 'thinkers', id: 'pucl-gujarat' }`, regardless of which collection actually contains the file. With no matching thinker, the entry is then silently dropped by the discriminated lookup in §5.2 and the saffron pill never surfaces.
+
+The fix is at the data layer: org entries in `authors[]` / `editors[]` must use the object form so the YAML parser hands Zod a `{ collection, id }` shape directly, bypassing the union's first-arm shortcut. Bare-string entries continue to mean "this is a thinker."
+
+Note: the slug-uniqueness check from §6 still matters even with object-form refs available — without it, a bare-string `- foo` could silently resolve to the wrong collection if `foo` happened to exist in both. The check guards against that footgun independent of which form the YAML uses.
 
 **Invariant introduced:** a slug must be unique across the union of the `thinkers` and `organisations` collections. The Zod union picks the first arm that resolves, so if a slug exists in both, the second arm (organisations) is unreachable. This invariant is enforced by a small build-time check (§6).
 
@@ -151,6 +158,16 @@ Since organisational authorship lives in `authors[]`, not `contributors[]`, the 
 
 The pill is decorative metadata adjacent to the link's accessible name. The link's text is the org's canonical name; screen readers will announce "PUCL Gujarat, organisation" (the pill's `<span>` content is read in document order). No `aria-label`, no `role="img"`, no separate hidden text needed.
 
+### 5.5 Lang-prefixed primary-work template
+
+The default English template `apps/site/src/pages/primary-works/[slug].astro` filters its `getStaticPaths` to `language === 'en'`. Gujarati / Hindi / Marathi / Bengali primary-works — including the spec's principal acceptance entry, Khoj 2005 — route through a separate template at `apps/site/src/pages/[lang]/primary-works/[slug].astro`. The two templates exist because the lang-prefixed pages historically served a narrower presentational purpose (PDF-archive landing pages for non-English issues) and the routing infrastructure split early.
+
+The `[lang]` template was previously a deliberately minimal page: title + publisher + PDF link only, no byline section at all. Under the spec's original §5.2 plan that touched only the English template, the saffron-pill treatment had no surface on the very page the migration was designed to demonstrate — `/gu/primary-works/khoj-march-april-2005/` — because that URL is served by the `[lang]` template, not the English one.
+
+To make the saffron pill actually visible on the Khoj 2005 page, the byline rendering — `getCollection('thinkers')` + `getCollection('organisations')` dual lookup, the discriminated `AuthorEntry` union, the `bylineFallback` from `contributors[]`, and the byline JSX from §5.2 — is ported into the `[lang]` template by this amendment. The port preserves the exact discrimination logic; only the surrounding page chrome differs.
+
+Scope of the port is byline-only. `PeopleInPiece` chips, `RelatedSection`, `Themes`, pull-quotes, and the Tier-B disclaimer are **not** brought across in this commit. Unifying the two templates into a single `getStaticPaths`-driven page (or extracting the shared content blocks into reusable Astro components) is a separate future spec — keeping this amendment's scope tight reduces regression surface on the lang-prefixed pages and lets the saffron-pill change land cleanly.
+
 ## 6. Slug-uniqueness invariant
 
 The Zod union picks the first arm that resolves. If `pucl-gujarat` existed in *both* the thinkers and organisations collections, the union's first arm (`reference('thinkers')`) would always win and the org reference would be unreachable. Astro itself does not enforce uniqueness across collections.
@@ -224,7 +241,7 @@ Rationale for each field:
 
 **Modify** `apps/site/src/content/primary-works/khoj-march-april-2005.md`:
 
-- `authors[]` already contains `- pucl-gujarat`. No change to that line.
+- `authors[]` already contains `- pucl-gujarat`. No change to that line. In light of §4's clarification, the existing bare-string entry `- pucl-gujarat` in `authors[]` is also changed to the object form `- { collection: organisations, id: pucl-gujarat }` so the union resolves to the organisations arm. The other `authors[]` entries (all thinkers) keep their bare-string form.
 - `authors_resolution.stubs_referenced[]` currently includes `pucl-gujarat`. Remove that one entry (the migration retired the thinker stub).
 
 No other primary-works reference `pucl-gujarat`, so no further file edits are required for the migration.
@@ -271,6 +288,12 @@ Three independently-buildable commits, in this order:
    - Update `apps/site/src/content/primary-works/khoj-march-april-2005.md` to drop `pucl-gujarat` from `authors_resolution.stubs_referenced[]`.
    - Build passes (the schema from commit 1 now resolves the bare slug to the organisations collection); the §5.1 visual treatment from commit 2 takes effect on the Khoj 2005 page.
 
+4. `feat(ui): byline rendering on lang-prefixed primary-work template + data fix`
+   - `apps/site/src/pages/[lang]/primary-works/[slug].astro` — port the byline rendering from the English template so the saffron-pill treatment surfaces on Gujarati primary-works.
+   - `apps/site/src/content/primary-works/khoj-march-april-2005.md` — switch the `pucl-gujarat` line in `authors[]` to object-form (`- { collection: organisations, id: pucl-gujarat }`) so the Zod union resolves to the organisations arm.
+   - Spec amended: §4 corrected, §5.5 added, §7 + §9 + §10 updated, status bumped to amended.
+   - This 4th commit was added during execution. The spec was authored with the (wrong) premise that the Zod union would walk arms looking for the right collection — see the amended §4 for the corrected behaviour and the necessary YAML shape change.
+
 If any commit fails its build, fix or revert before proceeding to the next.
 
 **Commit-ordering note:** commits 1 and 2 are safe to land without commit 3 — the build will pass because the schema accepts both arms and the UI's org-arm lookup will gracefully drop unresolved org refs (same filter pattern as the existing thinker lookup). But during that interval, `pucl-gujarat` is still a thinker on disk while `authors[]` resolves the slug via the union — the union's first arm (thinkers) wins, so the byline renders PUCL Gujarat as a person link with the forest-green colour, not as an org with the saffron pill. The visual treatment only takes effect after commit 3 retires the thinker stub. This is intentional and not a regression; the merged commit set produces the final state.
@@ -279,10 +302,10 @@ If any commit fails its build, fix or revert before proceeding to the next.
 
 1. `pnpm build` exits clean.
 2. The slug-uniqueness check fires on a deliberately-introduced overlap (one-line manual test during implementation: temporarily create a duplicate, confirm the build errors out with the spec-referenced message, then remove the duplicate).
-3. `/primary-works/khoj-march-april-2005/` byline renders PUCL Gujarat with the saffron pill, linking to `/organisations/pucl-gujarat/`.
+3. `/gu/primary-works/khoj-march-april-2005/` byline renders PUCL Gujarat with the saffron pill, linking to `/organisations/pucl-gujarat/`. (URL is the `/gu/...` form because Khoj 2005 is `language: "gu"` and renders via the lang-prefixed template — see §5.5.)
 4. `/thinkers/pucl-gujarat/` returns 404.
 5. `/organisations/pucl-gujarat/` renders.
-6. The 4 Khoj-March-April issues using `revatbha-rayjada` (regression set) still render the byline correctly.
+6. The 4 Khoj-March-April issues using `revatbha-rayjada` (regression set) still render the byline correctly — `/gu/primary-works/khoj-march-april-{2005,2006,2007,2008}/`.
 7. `authors_resolution.stubs_referenced[]` on the Khoj 2005 entry no longer lists `pucl-gujarat`.
 
 ## 11. Future work (out of this spec, but worth noting)
