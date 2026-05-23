@@ -2,11 +2,12 @@
 
 **Author:** Adnan
 **Date:** 2026-05-23
-**Status:** locked
+**Status:** amended (2026-05-23 — post-impl hygiene)
+**Amended:** Corrected the visible-entry count in §1 and §9.3 #13 (was wrongly stated as 328 — conflated `bio_source: ai_drafted_stub` count with `draft: true` count; actual visible count is 402 = 506 total minus 104 drafts). Reworded §9.6 #27 to acknowledge that the pagefind `vocation:` filter key only surfaces after data is populated.
 
 ## 1. Goal
 
-The `/thinkers` page currently renders a flat alphabetical photo-grid of every published thinker — 328 visible entries (out of 506 on disk, with 178 hidden as orphan stubs). It treats Hayek, Mukesh Ambani, Nehru, and an obscure liberal commentator as visually identical, with no editorial signal about their position in the liberal canon, their mode of contribution, or their relationship to the site's story.
+The `/thinkers` page currently renders a flat alphabetical photo-grid of every published thinker — 402 visible entries (out of 506 on disk, with 104 hidden as drafts). It treats Hayek, Mukesh Ambani, Nehru, and an obscure liberal commentator as visually identical, with no editorial signal about their position in the liberal canon, their mode of contribution, or their relationship to the site's story.
 
 This spec introduces three independent classification axes on every thinker, redesigns the `/thinkers` index to surface them, and lays the foundation for a future AI-assisted reclassification pass (out of scope for this spec — see §11). End state: the page reads as a coherent editorial map — central canon figures, broader liberal tradition, referenced thinkers from outside it, and an explicit "awaiting classification" tier — with each card carrying specific vocation labels (`Philosopher · Economist · Professor` rather than a generic "thinker") and counts of works/references on the site.
 
@@ -360,7 +361,7 @@ These are the acceptance checks the implementation plan must reference. Each num
     - `grep -c "Extended liberal tradition" apps/site/dist/thinkers/index.html` → 0
     - `grep -c "Referenced thinkers" apps/site/dist/thinkers/index.html` → 0
     - `grep -c "Awaiting classification" apps/site/dist/thinkers/index.html` → 1
-13. The Awaiting section's grid contains the same set of thinkers the pre-change flat grid did. Exact assertion: `grep -oE 'href="/thinkers/[^"]+/"' apps/site/dist/thinkers/index.html | sort -u | wc -l` produces the same count post-migration as the equivalent grep on the pre-migration build (expected to be 328 — count of non-draft, language=en thinkers — verifiable by re-running the pre-build before commit 3).
+13. The Awaiting section's grid contains the same set of thinkers the pre-change flat grid did. Exact assertion: `grep -oE 'href="/thinkers/[^"]+/"' apps/site/dist/thinkers/index.html | sort -u | wc -l` produces the same count post-migration as the equivalent grep on the pre-migration build (expected to be 402 — count of non-draft, language=en thinkers; verifiable by re-running the pre-build before commit 3).
 14. No card shows a vocations caption (all `vocations: []` on day 1).
 15. Cards for thinkers with `worksAuthored > 0` show the forest-tint works chip. Spot-check on `dadabhai-naoroji` (known to have authored primary-works).
 16. Cards for thinkers with `referencedIn > 0` show the muted "Referenced in N pieces" label.
@@ -396,7 +397,7 @@ To prove the section structure works *when classifications exist*, temporarily s
 24. `/organisations/pucl-gujarat/` still renders.
 25. `/thinkers/<some-classified-thinker>/` detail page renders unchanged (new fields exist in frontmatter but aren't surfaced on the detail page — that's a future spec).
 26. Total page count stays at 1185 (no routes added; thinkers index stays one route). Verifiable: `pnpm build` tail line `Indexed N pages` reads 1185 (same as pre-change).
-27. Pagefind index includes `vocation:` and `canon-status:` filter keys, verifiable by inspecting `apps/site/dist/pagefind/` output.
+27. Pagefind index emits `data-pagefind-filter="canon-status:<value>"` on every card and `vocation:<value>` on cards with vocations populated. The `canon-status:` filter key surfaces in the index immediately (every card has it). The `vocation:` filter key only surfaces after at least one thinker has a non-empty `vocations` array — which only happens after sub-project 2 (AI bulk classifier) or a curator manually populates entries. Day-1, expect `canon-status:` indexed and `vocation:` absent.
 
 ### 9.7 Stopping criteria
 
