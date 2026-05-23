@@ -37,10 +37,25 @@ const hreflang = hreflangAlternates(
 
 // Pull resolved author thinker entries for byline + bio links.
 const allThinkers = await getCollection("thinkers");
+const allOrgs = await getCollection("organisations");
 const thinkersById = new Map(allThinkers.map((t) => [t.id, t]));
-const authorEntries = (fm.authors ?? [])
-  .map((ref) => thinkersById.get(ref.id ?? (ref as unknown as string)))
-  .filter((t): t is NonNullable<typeof t> => !!t);
+const orgsById = new Map(allOrgs.map((o) => [o.id, o]));
+
+type AuthorEntry =
+  | { kind: "thinker"; id: string; name: string }
+  | { kind: "organisation"; id: string; name: string };
+
+const authorEntries: AuthorEntry[] = (fm.authors ?? [])
+  .map((ref): AuthorEntry | null => {
+    const id = ref.id;
+    if (ref.collection === "organisations") {
+      const o = orgsById.get(id);
+      return o ? { kind: "organisation", id, name: o.data.name.canonical } : null;
+    }
+    const t = thinkersById.get(id);
+    return t ? { kind: "thinker", id, name: t.data.name.canonical } : null;
+  })
+  .filter((e): e is AuthorEntry => !!e);
 
 // Byline string for the header / meta description when no resolved authors.
 const bylineFallback = (fm.contributors ?? [])
@@ -77,7 +92,9 @@ const descriptionForMeta = fm.summary
   : `Metadata, summary, and PDF for ${fm.title.main}.`;
 
 // Slug lists for the PeopleInPiece chip section.
-const authorSlugs = authorEntries.map((t) => t.id);
+const authorSlugs = authorEntries
+  .filter((e): e is Extract<AuthorEntry, { kind: "thinker" }> => e.kind === "thinker")
+  .map((e) => e.id);
 const contributorSlugs = (fm.contributors ?? [])
   .map((c) => c.thinker?.id)
   .filter((s): s is string => !!s && !authorSlugs.includes(s));
@@ -125,9 +142,16 @@ const mentionSlugs = (fm.thinker_mentions ?? [])
         <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
           By{" "}
           {authorEntries.length > 0
-            ? authorEntries.map((t, i) => (
+            ? authorEntries.map((e, i) => (
                 <>
-                  <a href={`/thinkers/${t.id}/`} class="text-(--color-forest-700)">{t.data.name.canonical}</a>
+                  {e.kind === "organisation" ? (
+                    <>
+                      <a href={`/organisations/${e.id}/`} class="text-(--color-saffron-700)">{e.name}</a>
+                      <span class="ml-1 inline-block align-middle px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-(family-name:--font-ui) font-semibold bg-(--color-saffron-100) text-(--color-saffron-700)">organisation</span>
+                    </>
+                  ) : (
+                    <a href={`/thinkers/${e.id}/`} class="text-(--color-forest-700)">{e.name}</a>
+                  )}
                   {i < authorEntries.length - 1 ? ", " : ""}
                 </>
               ))
