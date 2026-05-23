@@ -100,19 +100,14 @@ const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
         <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
           By{" "}
           {authorEntries.length > 0
-            ? authorEntries.map((e, i) => (
-                <>
-                  {e.kind === "organisation" ? (
-                    <>
-                      <a href={`/organisations/${e.id}/`} class="text-(--color-saffron-700)">{e.name}</a>
-                      <span class="ml-1 inline-block align-middle px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-(family-name:--font-ui) font-semibold bg-(--color-saffron-100) text-(--color-saffron-700)">organisation</span>
-                    </>
-                  ) : (
-                    <a href={`/thinkers/${e.id}/`} class="text-(--color-forest-700)">{e.name}</a>
-                  )}
-                  {i < authorEntries.length - 1 ? ", " : ""}
-                </>
-              ))
+            ? authorEntries.map((e, i) => {
+                const sep = i < authorEntries.length - 1 ? ", " : "";
+                return e.kind === "organisation" ? (
+                  <><a href={`/organisations/${e.id}/`} class="text-(--color-saffron-700)">{e.name}</a><span class="ml-1 inline-block align-middle px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-(family-name:--font-ui) font-semibold bg-(--color-saffron-100) text-(--color-saffron-700)">organisation</span>{sep}</>
+                ) : (
+                  <><a href={`/thinkers/${e.id}/`} class="text-(--color-forest-700)">{e.name}</a>{sep}</>
+                );
+              })
             : bylineFallback}
         </p>
       )}

@@ -12,8 +12,8 @@ const CONTENT = resolve(import.meta.dirname, "../content");
 const slugsOf = (dir: string) =>
   new Set(
     readdirSync(resolve(CONTENT, dir))
-      .filter((f) => f.endsWith(".md"))
-      .map((f) => f.replace(/\.md$/, "")),
+      .filter((f) => /\.(md|mdx)$/.test(f))
+      .map((f) => f.replace(/\.(md|mdx)$/, "")),
   );
 
 const thinkers = slugsOf("thinkers");
