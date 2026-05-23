@@ -3,9 +3,9 @@ id: milton-friedman
 name:
   canonical: Milton Friedman
   sort: Friedman, Milton
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [economist, philosopher, writer]
 nationality: india
 themes: []
 affiliations: []

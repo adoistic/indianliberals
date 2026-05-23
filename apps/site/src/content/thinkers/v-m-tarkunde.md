@@ -4,9 +4,9 @@ name:
   canonical: "V. M. Tarkunde"
   sort: "Tarkunde, V. M."
   also_known_as: []
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [judge, legal_scholar, activist]
 nationality: india
 themes: []
 affiliations: []

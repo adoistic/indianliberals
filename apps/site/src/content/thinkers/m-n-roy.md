@@ -13,8 +13,8 @@ name:
     - এম. এন. রায়
     - মানবেন্দ্র নাথ রায়
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [philosopher, writer, activist]
 nationality: india
 themes: []
 affiliations: []

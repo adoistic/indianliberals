@@ -4,9 +4,9 @@ name:
   canonical: A. S. Ganguly
   sort: Ganguly, A. S.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

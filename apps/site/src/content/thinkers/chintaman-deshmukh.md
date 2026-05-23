@@ -9,8 +9,8 @@ name:
     - C. C. Deshmukh
     - Chintaman Deshmukh
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [civil_servant, economist, statesman]
 nationality: india
 themes: []
 affiliations: []

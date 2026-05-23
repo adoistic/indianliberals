@@ -4,8 +4,8 @@ name:
   canonical: Erhard Haubold
   sort: Haubold, Erhard
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [journalist]
 nationality: india
 themes: []
 affiliations: []

@@ -4,8 +4,8 @@ name:
   canonical: VH Pandya
   sort: Pandya, VH
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

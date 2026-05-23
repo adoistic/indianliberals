@@ -7,8 +7,8 @@ name:
     - DVG
     - D.V.Gundappa
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [writer, journalist, philosopher]
 nationality: india
 themes: []
 affiliations: []

@@ -3,9 +3,9 @@ id: bp-adarkar
 name:
   canonical: BP Adarkar
   sort: Adarkar, BP
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

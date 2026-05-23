@@ -4,9 +4,9 @@ name:
   canonical: Maja Daruwala
   sort: Daruwala, Maja
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: contemporary_liberal
+canon_status: referenced
+vocations: [legal_scholar, activist]
 nationality: india
 themes: []
 affiliations: []

@@ -5,9 +5,9 @@ name:
   sort: Doering, Detmar
   also_known_as:
     - Dr. Detmar Doering
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [writer, editor]
 nationality: india
 themes: []
 affiliations: []

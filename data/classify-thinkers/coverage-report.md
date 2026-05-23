@@ -1,0 +1,566 @@
+# Thinkers classification — coverage report
+
+Total thinker MDs: 506
+  - draft (hidden): 104
+  - visible:        402
+
+## By canon_status
+
+- `core`: 29
+- `extended`: 170
+- `referenced`: 222
+- `unclassified`: 85
+
+## By tradition
+
+- `classical_liberal`: 154
+- `libertarian`: 17
+- `constitutional_liberal`: 46
+- `contemporary_liberal`: 116
+- `social_reformer`: 51
+- `non_liberal`: 49
+- `practice`: 35
+- `unclassified`: 22
+- `international_influence` (DEPRECATED — sub-project 2's job to retire): 16
+
+## By vocation (top entries)
+
+- `writer`: 210
+- `economist`: 117
+- `statesman`: 93
+- `civil_servant`: 58
+- `reformer`: 47
+- `industrialist`: 46
+- `professor`: 44
+- `activist`: 44
+- `editor`: 33
+- `parliamentarian`: 31
+- `journalist`: 27
+- `philosopher`: 25
+- `legal_scholar`: 20
+- `diplomat`: 18
+- `religious_figure`: 16
+- `scientist`: 13
+- `military_officer`: 10
+- `historian`: 8
+- `judge`: 8
+- `political_scientist`: 6
+- `poet`: 6
+- `entrepreneur`: 6
+- `engineer`: 3
+- `sociologist`: 3
+
+## By per-record confidence
+
+- all-high: 133
+- medium-mixed: 213
+- any-low: 160
+
+## Curator triage queue (506 thinkers with needs_review: true)
+
+- a-c-chhatrapati
+- a-d-cohen
+- a-d-shroff
+- a-n-agarwala
+- a-p-j-abdul-kalam
+- a-ranganathan
+- a-s-ganguly
+- a-solomon
+- abhay-pethe
+- abhaya-prasad-hota
+- abraham-lincoln
+- achyut-patwardhan
+- adam-smith
+- adi-godrej
+- ag-mulgaokar
+- ajit-bhattacharjea
+- ajit-karnik
+- ajit-narde
+- ajit-prasad-jain
+- ak-chandra
+- ak-purwar
+- albert-hirschman
+- aldous-huxley
+- alexander-duff
+- alexis-de-tocqueville
+- amartya-sen
+- ambrish-mehta
+- amitabh-kant
+- amul-desai
+- anand-sinha
+- anandibai-joshee
+- anant-umrikar
+- anil-patel
+- anthony-eden
+- anu-aga
+- anupam-mehta
+- arun-shourie
+- arvind-deshpande
+- arvind-lalbhai
+- asghar-ali-engineer
+- ashima-goyal
+- ashok-desai
+- ashok-mehta
+- ashok-mitra
+- ashwin-karia
+- ashwinkumar-n-kariya
+- atal-bihari-vajpayee
+- ayub-khan
+- azim-premji
+- azizun-nisa
+- b-a-tarlton
+- b-g-rao
+- b-n-adarkar
+- b-r-shenoy
+- b-rama-rau
+- b-s-mahajan
+- b-shiva-rao
+- b-t-krishnamachari
+- babytai-kamble
+- bal-gangadhar-tilak
+- begum-rokeya
+- benjamin-tucker
+- bernard-iddings-bell
+- bernard-shaw
+- bg-verghese
+- bhanu-pratap-singh
+- bhaskar-g-kakatkar
+- bhimrao-ambedkar
+- bibek-debroy
+- biren-mookerjee
+- bk-nehru
+- bp-adarkar
+- bp-godrej
+- bradley-d-belt
+- bs-iyer
+- bs-sanyal
+- c-k-daphtary
+- c-l-dadhich
+- c-p-ramaswamy-ayyar
+- c-rajagopalachari
+- c-rangarajan
+- c-s-deshpande
+- c-s-seshadri
+- c-s-venkatachar
+- c-y-chintamani
+- carlos-romulo
+- chakravarti-ashok-priyadarshi
+- chanaka-amaratunga
+- charan-singh
+- chintaman-deshmukh
+- christopher-lingle
+- claret-dsouza
+- colin-clark
+- d-k-srivastava
+- d-m-kulkarni-libertarian
+- d-n-sinha
+- d-r-mankekar
+- d-r-pendse
+- d-subbarao
+- d-v-desai
+- d-v-gundappa
+- d-veerendra-heggade
+- dadabhai-naoroji
+- dankesh-oza
+- david-hare
+- deepak-mohanty
+- deepak-parekh
+- deng-xiaoping
+- detmar-doering
+- dharamsey-khatau
+- dilip-g-piramal
+- dinesh-vyas
+- dn-hosali
+- dnyaneshwar-m-shelar
+- dr-ac-shah
+- dr-dharmendra-bhandari
+- dr-gvk-rao
+- dr-ig-patel
+- dr-kk-das
+- dr-na-swaminathan
+- dr-png-subramanian
+- dr-skumar-jain
+- dr-th-chowdhary
+- dudley-senanayake
+- dwarkanath-tagore
+- e-dsouza
+- erhard-haubold
+- eric-p-w-da-costa
+- eugene-black
+- f-a-mehta
+- f-p-antia
+- fatima-sheikh
+- fazal-ur-rahman
+- feroz-khan-noon
+- frank-simoes
+- franz-oppenheimer
+- frederic-bastiat
+- friedrich-hayek
+- friedrich-naumann
+- g-b-nagporewalla
+- g-carl-weiland
+- g-giridhar-prabhu
+- g-jayachandran
+- g-l-mehta
+- g-n-lawande
+- g-v-kapadia
+- gajendrasinh-p-jadeja
+- gamal-abdel-nasser
+- gangadhar-gadgil
+- gd-parikh
+- geeta-lal
+- gopal-ganesh-agarkar
+- gopal-krishna-gokhale
+- gp-manish
+- gr-parrikar-and-rg-katoti
+- gurajada-apparao
+- gurcharan-das
+- gv-ramakrishna
+- h-m-patel
+- h-narayan-rao
+- h-t-parekh
+- h-v-r-iengar
+- h-venkatasubbiah
+- hamid-dalwai
+- hannan-ezekiel
+- hans-raj-khanna
+- harish-budhlani
+- harish-chandra-mukherjee
+- henry-louis-vivian-derozio
+- herbert-spencer
+- hernando-de-soto
+- himanshi-shelat
+- hindol-sengupta
+- hla-hart
+- homi-mody
+- hp-ranina
+- hriday-nath-kunzru
+- hubertus-von-welck
+- humayun-kabir
+- i-k-gujral
+- ila-bhatt
+- immanuel-kant
+- indira-gandhi
+- indira-rajaraman
+- indumati-parikh
+- iqbalunnisa-hussain
+- ishwar-chandra-vidyasagar
+- iskander-mirza
+- ismail-gandhi
+- j-b-kripalani
+- j-d-chokshi
+- j-h-doshi
+- j-k-dhairyawan
+- j-m-lobo-prabhu
+- j-r-marshall
+- jagdish-bhagwati
+- james-s-raj
+- jamshed-antia
+- janaki-ammal
+- javed-anand
+- jawaharlal-nehru
+- jayant-sinha
+- jayaprakash-narayan
+- jayashekar
+- jayraj-sheth
+- jiban-mukhopadhyay
+- jj-irani
+- johan-norberg
+- john-f-kennedy
+- john-foster-dulles
+- john-kenneth-galbraith
+- john-locke
+- john-matthai
+- john-ridpath
+- john-stuart-mill
+- joseph-stalin
+- joseph-stiglitz
+- jr-henshaw
+- jrd-tata
+- jurgen-axer
+- jyotirao-phule
+- k-b-dadiseth
+- k-c-chakrabarty
+- k-d-malaviya
+- k-f-rustomji
+- k-jayaraman
+- k-l-rao
+- k-m-munshi
+- k-santhanam
+- k-sreeramamurty
+- k-v-m-pai
+- k-venkataraman
+- kandukuri-veeresalingam
+- kanuparti-varalakshmamma
+- kanwal-rekhi
+- karl-marx
+- karl-polanyi
+- karsandas-mulji
+- kaushal-kishor
+- kd-valicha
+- ken-schoolland
+- khasa-subba-rau
+- kiran-nanda
+- kirit-s-parekh
+- kishor-karia
+- kishore-valicha
+- kishori-j-udeshi
+- krishnamohan-bandyopadhyay
+- kumar-mangalam-birla
+- kunjan-mehta
+- kusum-lotwala
+- kusum-shrestha
+- kv-narain
+- kv-subrahmanyam
+- l-g-bapat
+- l-k-jha
+- lady-abala-bose
+- lakshmibai-tilak
+- lal-bahadur-shastri
+- lalita-ramdas
+- louella-lobo-prabhu
+- ludwig-erhard
+- ludwig-von-mises
+- m-a-master
+- m-c-chagla
+- m-c-munshi
+- m-c-setalvad
+- m-g-hallar
+- m-l-dantewala
+- m-l-tannan
+- m-n-roy
+- m-n-tholal
+- m-narasimhan
+- m-r-anantharamakrishnan
+- m-r-pai
+- ma-pathan
+- ma-rangoonwala
+- ma-sreenivasan
+- ma-venkata-rao
+- mahadev-govind-ranade
+- maharana-pratap
+- mahatma-gandhi
+- maja-daruwala
+- malini-karakal
+- maneesha-tikekar
+- mangesh-kulkarni
+- mangesh-soman
+- manjula-dabhi
+- manmohan-singh
+- mao-zedong
+- margaret-thatcher
+- matt-ridley
+- maulana-abul-kalam-azad
+- maurice-strong
+- mehboob-desai
+- mh-mody
+- milovan-djilas
+- milton-friedman
+- minoo-masani
+- minoo-shroff-and-hd-shourie
+- minoo-shroff
+- mithan-tata-lam
+- morarji-desai
+- mr-mayya
+- ms-seetha
+- mukesh-adenwala
+- mukesh-ambani
+- mukund-rajan
+- murarji-vaidya
+- muthulakshmi-reddi
+- n-c-mehta
+- n-dandekar
+- n-das
+- n-g-ranga
+- n-n-pai
+- n-n-sachitanand
+- n-s-ramaswamy
+- n-t-taskar
+- n-vittal
+- nadir-godrej
+- nandan-nilekani
+- nani-palkhivala
+- napoleon-bonaparte
+- narasimha-rao
+- narayan-mahadev-paramananda
+- narayan-varma
+- narayana-aiyar
+- naval-h-tata
+- ngapo-ngawang-jigme
+- nicholas-kaldor
+- nikita-khrushchev
+- nittoor-srinivasa-rao
+- om-prakash-kahol
+- onlooker
+- otto-lambsdorff
+- p-c-mahalanobis
+- p-kodanda-rao
+- p-n-haksar
+- p-v-shenoi
+- p-v-sukhatme
+- pandita-ramabai
+- parichand-mitra
+- parth-shah
+- peregrine
+- periyar-e-v-ramasamy
+- peter-bauer
+- pherozeshah-mehta
+- phiroze-b-medhora
+- phiroze-j-shroff
+- piloo-mody
+- piya-mahatey
+- pratap-bhanu-mehta
+- prof-cn-vakil
+- prof-rl-varshney
+- r-a-jahagirdar
+- r-a-mashelkar
+- r-c-cooper
+- r-g-katoti
+- r-gopalakrishnan
+- r-j-taraporevala
+- r-k-amin
+- r-k-daruwalla
+- r-k-hazari
+- r-k-talwar
+- r-m-honavar
+- r-m-mohan-rao
+- r-n-jha
+- rabindranath-tagore
+- radhakanta-deb
+- raghunath-karve
+- raghuram-g-rajan
+- raja-ram-mohan-roy
+- rajaram-ajgaonkar
+- rajendra-prasad
+- rajesh-mishra
+- rajiv-gandhi
+- rajkumari-amrit-kaur
+- rakesh-mohan
+- ralph-borsodi
+- ralph-waldo-emerson
+- ram-jethmalani
+- ram-manohar-lohia
+- ramabai-ranade
+- ramadevi-chowdhury
+- ramdas-rear-admiral
+- ramniwas-ruia
+- ramtanu-lahiri
+- rani-rashmoni
+- rasikkrishna-mallik
+- rd-aga
+- rene-klaff
+- revatbha-rayjada
+- richard-plaster
+- robert-mcnamara
+- roberto-de-oliveira-campos
+- ronald-meinardus
+- rukhmabai
+- russi-mody
+- ruth-benedict
+- s-chandrasekhar
+- s-d-naik
+- s-divakara
+- s-k-patil
+- s-l-n-sinha
+- s-m-dahanukar
+- s-p-sathe
+- s-r-k-rao
+- s-s-kanoria
+- s-s-nadkarni
+- s-s-tarapore
+- s-v-raju
+- sachin-sen
+- sadanand-varde
+- salvador-de-madariaga
+- samdhong-rinpoche
+- samiran-nundy
+- sanjay-panse
+- sardar-patel
+- sarojini-naidu
+- sarvepalli-radhakrishnan
+- sauvik-chakraverti
+- sh-batlivala
+- shah-mulraj-simha
+- shailaja-bapat
+- shailesh-gandhi
+- sharad-bailur
+- sharad-joshi
+- sharad-pawar
+- shareefa-hamid-ali
+- shesrav-mohite
+- shivaji
+- shivani-a-tannu
+- shrikant-umrikar
+- shyamala-gopinath
+- siegfried-herzog
+- sirimavo-bandaranaike
+- sivanath-sastri
+- sn-haji
+- sp-godrej
+- ss-bhandare-and-jk-mukhopadhyay
+- subhas-chandra-bose
+- sucheta-dalal
+- sudha-r-shenoy
+- sujata-manohar
+- sumati-morarjee
+- sunil-bhandare
+- suresh-parikh
+- surinder-p-s-pruthi
+- swami-anand
+- swaminathan-a-aiyar
+- t-mathew
+- t-subbaya-shetty
+- t-t-krishnamachari
+- t-thomas
+- tahir-siddiqui
+- tanguturi-prakasam
+- tarabai-shinde
+- tarachand-chakrabarty
+- tarun-das
+- thakorelal-desai
+- theodor-heuss
+- thomas-aquinas
+- thomas-babington-macaulay
+- thomas-robert-malthus
+- tom-g-palmer
+- trupti-parekh
+- u-r-rao
+- uday-kotak
+- usha-mehta
+- usha-thorat
+- utsavananda-vidyabagish
+- v-b-haribhakti
+- v-k-krishna-menon
+- v-k-narasimhan
+- v-k-r-v-rao
+- v-m-tarkunde
+- v-p-menon
+- v-p-sinha
+- v-s-srinivasa-sastri
+- v-t-krishnamachari
+- v-v-john
+- v-vijayatunga
+- vasudeva-vora
+- vh-pandya
+- vijay-jawandhia
+- vijay-kelkar
+- vijay-mahajan-aviation
+- vijay-prulkar
+- vijaya-lakshmi-pandit
+- vinoba-bhave
+- voltaire
+- w-h-hutt
+- warren-hastings
+- wilhelm-ropke
+- william-adam
+- william-bentinck
+- willy-brandt
+- winston-churchill
+- ww-rowstow
+- y-k-hamied
+- y-v-reddy
+- yashawant-bhide
+- yashodabai-agarkar
+- yogendra-mankad
+- zafar-futehally
+- zhou-enlai

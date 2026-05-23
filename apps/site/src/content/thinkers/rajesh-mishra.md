@@ -6,8 +6,8 @@ name:
   also_known_as:
     - રાજેશ મિશ્રા
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor, writer]
 nationality: india
 themes: []
 affiliations: []

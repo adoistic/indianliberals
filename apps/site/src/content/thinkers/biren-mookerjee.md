@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Sir BIREN MOOKERJEE
     - Biren Mookerjee
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

@@ -4,7 +4,7 @@ name:
   canonical: Piya Mahatey
   sort: Mahatey, Piya
 tradition: contemporary_liberal
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

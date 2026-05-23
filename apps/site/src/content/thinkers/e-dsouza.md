@@ -8,7 +8,7 @@ name:
     - "Maj. Gen. E. D'Souza"
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [military_officer, writer]
 nationality: india
 themes: []
 affiliations: []

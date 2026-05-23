@@ -7,8 +7,8 @@ name:
     - Vittal
     - N Vittal
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [civil_servant, writer]
 nationality: india
 themes: []
 affiliations: []

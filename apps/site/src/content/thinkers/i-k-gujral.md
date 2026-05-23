@@ -8,9 +8,9 @@ name:
     - Inder Gujral
     - Inder Kumar Gujral
     - IK Gujral
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, diplomat, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

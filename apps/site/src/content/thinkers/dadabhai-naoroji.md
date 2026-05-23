@@ -5,8 +5,8 @@ name:
   sort: "Naoroji, Dadabhai"
   also_known_as: []
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [statesman, economist, writer]
 nationality: india
 themes: []
 affiliations: []

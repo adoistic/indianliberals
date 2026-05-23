@@ -5,8 +5,8 @@ name:
   sort: "Rama Rau, B."
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [civil_servant, diplomat]
 nationality: india
 themes: []
 affiliations: []

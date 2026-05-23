@@ -14,8 +14,8 @@ name:
     - डॉ. बाबासाहेब आंबेडकर
     - भीमराव रामजी आंबेडकर
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [reformer, legal_scholar, statesman, economist, writer]
 nationality: india
 themes: []
 affiliations: []

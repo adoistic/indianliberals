@@ -8,9 +8,9 @@ name:
     - JRD Tata
     - J R D Tata
     - JRD
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

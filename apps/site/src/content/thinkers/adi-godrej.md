@@ -3,9 +3,9 @@ id: adi-godrej
 name:
   canonical: Adi Godrej
   sort: Godrej, Adi
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

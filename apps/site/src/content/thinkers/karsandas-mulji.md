@@ -5,8 +5,8 @@ name:
   sort: "Mulji, Karsandas"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, writer, editor]
 nationality: india
 themes: []
 affiliations: []

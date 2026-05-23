@@ -3,9 +3,9 @@ id: willy-brandt
 name:
   canonical: Willy Brandt
   sort: Brandt, Willy
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, writer]
 nationality: india
 themes: []
 affiliations: []

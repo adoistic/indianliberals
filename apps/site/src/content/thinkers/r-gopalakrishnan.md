@@ -4,9 +4,9 @@ name:
   canonical: R. Gopalakrishnan
   sort: Gopalakrishnan, R.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

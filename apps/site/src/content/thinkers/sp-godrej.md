@@ -3,9 +3,9 @@ id: sp-godrej
 name:
   canonical: SP Godrej
   sort: Godrej, SP
-tradition: contemporary_liberal
+tradition: practice
 canon_status: unclassified
-vocations: []
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

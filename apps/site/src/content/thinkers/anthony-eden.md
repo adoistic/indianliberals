@@ -6,8 +6,8 @@ name:
   also_known_as:
     - Prime Minister Eden
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

@@ -4,9 +4,9 @@ name:
   canonical: "Kishori J. Udeshi"
   sort: "Udeshi, Kishori J."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [civil_servant, economist]
 nationality: india
 themes: []
 affiliations: []

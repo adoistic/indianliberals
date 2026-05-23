@@ -5,8 +5,8 @@ name:
   sort: "Sengupta, Hindol"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [journalist, writer]
 nationality: india
 themes: []
 affiliations: []

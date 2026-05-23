@@ -3,9 +3,9 @@ id: winston-churchill
 name:
   canonical: Winston Churchill
   sort: Churchill, Winston
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [statesman, writer]
 nationality: india
 themes: []
 affiliations: []

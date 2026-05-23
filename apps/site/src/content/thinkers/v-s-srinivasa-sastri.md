@@ -5,8 +5,8 @@ name:
   sort: "Sastri, V. S. Srinivasa"
   also_known_as: []
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [statesman, diplomat, writer]
 nationality: india
 themes: []
 affiliations: []

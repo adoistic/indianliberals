@@ -5,9 +5,9 @@ name:
   sort: Romulo, Carlos P.
   also_known_as:
     - Carlos Romulo
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [statesman, diplomat, journalist]
 nationality: india
 themes: []
 affiliations: []

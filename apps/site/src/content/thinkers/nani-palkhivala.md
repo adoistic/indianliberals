@@ -8,9 +8,9 @@ name:
 birth_year: 1920
 death_year: 2002
 nationality: india
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: core
+vocations: [legal_scholar, writer, diplomat]
 themes: ["constitutional_liberalism", "property_rights", "taxation", "free_enterprise"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:

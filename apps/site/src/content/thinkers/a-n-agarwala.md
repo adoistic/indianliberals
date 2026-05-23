@@ -4,9 +4,9 @@ name:
   canonical: A. N. Agarwala
   sort: Agarwala, A. N.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist]
 nationality: india
 themes: []
 affiliations: []

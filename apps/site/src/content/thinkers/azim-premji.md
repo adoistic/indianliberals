@@ -3,9 +3,9 @@ id: azim-premji
 name:
   canonical: Azim Premji
   sort: Premji, Azim
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist, entrepreneur]
 nationality: india
 themes: []
 affiliations: []

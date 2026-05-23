@@ -7,8 +7,8 @@ name:
   also_known_as:
     - Gokhale
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [statesman, writer, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

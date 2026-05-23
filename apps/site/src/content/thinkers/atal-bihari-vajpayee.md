@@ -7,9 +7,9 @@ name:
     - Vajpayee
     - A. B. Vajpayee
     - AB Vajpayee
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, parliamentarian, poet]
 nationality: india
 themes: []
 affiliations: []

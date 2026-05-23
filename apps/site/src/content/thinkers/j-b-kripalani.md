@@ -9,8 +9,8 @@ name:
     - Kripalani
     - J. B. Kripalani
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, parliamentarian, writer]
 nationality: india
 themes: []
 affiliations: []

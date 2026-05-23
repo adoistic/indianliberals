@@ -3,9 +3,9 @@ id: ss-bhandare-and-jk-mukhopadhyay
 name:
   canonical: SS Bhandare And JK Mukhopadhyay
   sort: Mukhopadhyay, SS Bhandare And JK
-tradition: contemporary_liberal
+tradition: classical_liberal
 canon_status: unclassified
-vocations: []
+vocations: [economist]
 nationality: india
 themes: []
 affiliations: []

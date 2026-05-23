@@ -7,8 +7,8 @@ name:
     - Mr. Kishor B. Karia
     - Kishor Karia
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

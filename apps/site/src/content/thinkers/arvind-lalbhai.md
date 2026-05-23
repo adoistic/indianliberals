@@ -3,9 +3,9 @@ id: arvind-lalbhai
 name:
   canonical: Arvind Lalbhai
   sort: Lalbhai, Arvind
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

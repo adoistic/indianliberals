@@ -4,9 +4,9 @@ name:
   canonical: John Matthai
   sort: Matthai, John
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, statesman]
 nationality: india
 themes: []
 affiliations: []

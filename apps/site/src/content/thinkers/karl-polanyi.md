@@ -5,9 +5,9 @@ name:
   sort: Polanyi, Karl
   also_known_as:
     - Polanyi
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [economist, historian, professor]
 nationality: india
 themes: []
 affiliations: []

@@ -4,9 +4,9 @@ name:
   canonical: "W. H. Hutt"
   sort: "Hutt, W. H."
   also_known_as: []
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

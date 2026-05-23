@@ -3,9 +3,9 @@ id: franz-oppenheimer
 name:
   canonical: Franz Oppenheimer
   sort: Oppenheimer, Franz
-tradition: international_influence
+tradition: classical_liberal
 canon_status: unclassified
-vocations: []
+vocations: [sociologist, economist]
 nationality: india
 themes: []
 affiliations: []

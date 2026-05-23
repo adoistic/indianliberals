@@ -5,8 +5,8 @@ name:
   sort: Mankad, Yogendra
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [editor, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -8,8 +8,8 @@ name:
     - Professor S. Radhakrishnan
     - Dr. Radhakrishnan
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [philosopher, statesman, professor]
 nationality: india
 themes: []
 affiliations: []

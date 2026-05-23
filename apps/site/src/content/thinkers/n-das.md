@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Dr. N. DAS, I.C.S. (Retd.)
     - Dr. N. DAS I.C.S. (Retd.)
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [civil_servant, economist]
 nationality: india
 themes: []
 affiliations: []

@@ -7,8 +7,8 @@ name:
     - Giridhar Prabhu
     - G Giridhar Prabhu
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [entrepreneur, writer]
 nationality: india
 themes: []
 affiliations: []

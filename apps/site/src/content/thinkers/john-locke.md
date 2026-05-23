@@ -3,9 +3,9 @@ id: john-locke
 name:
   canonical: John Locke
   sort: Locke, John
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [philosopher]
 nationality: india
 themes: []
 affiliations: []

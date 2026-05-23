@@ -4,9 +4,9 @@ name:
   canonical: G. L. Mehta
   sort: Mehta, G. L.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [diplomat, civil_servant, writer]
 nationality: india
 themes: []
 affiliations: []

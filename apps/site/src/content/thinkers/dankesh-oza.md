@@ -6,8 +6,8 @@ name:
   also_known_as:
     - ડંકેશ ઓઝા
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer, editor]
 nationality: india
 themes: []
 affiliations: []

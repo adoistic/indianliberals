@@ -5,9 +5,9 @@ name:
   sort: Tagore, Dwarkanath
   also_known_as:
     - দ্বারকানাথ ঠাকুর
-tradition: social_reformer
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [industrialist, entrepreneur]
 nationality: india
 themes: []
 affiliations: []

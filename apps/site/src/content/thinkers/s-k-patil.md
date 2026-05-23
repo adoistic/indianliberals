@@ -4,9 +4,9 @@ name:
   canonical: S. K. Patil
   sort: Patil, S. K.
   full: Sadashiv Kanoji Patil
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

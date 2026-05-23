@@ -4,8 +4,8 @@ name:
   canonical: Alexander Duff
   sort: Duff, Alexander
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [religious_figure, reformer]
 nationality: india
 themes: []
 affiliations: []

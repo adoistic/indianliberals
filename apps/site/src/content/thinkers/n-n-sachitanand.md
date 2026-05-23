@@ -5,8 +5,8 @@ name:
   sort: Sachitanand, N. N.
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [journalist, writer]
 nationality: india
 themes: []
 affiliations: []

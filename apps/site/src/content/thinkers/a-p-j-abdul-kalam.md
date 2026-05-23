@@ -10,8 +10,8 @@ name:
     - APJ Abdul Kalam
     - Kalam
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [scientist, statesman, engineer]
 nationality: india
 themes: []
 affiliations: []

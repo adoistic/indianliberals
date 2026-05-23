@@ -8,9 +8,9 @@ name:
     - Narasimha Rao
     - PV Narasimha Rao
     - P.V. Narasimha Rao
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

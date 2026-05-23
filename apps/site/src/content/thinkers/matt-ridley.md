@@ -3,9 +3,9 @@ id: matt-ridley
 name:
   canonical: Matt Ridley
   sort: Ridley, Matt
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [writer, journalist, scientist]
 nationality: india
 themes: []
 affiliations: []

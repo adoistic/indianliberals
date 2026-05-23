@@ -4,7 +4,7 @@ name:
   canonical: DR Dharmendra Bhandari
   sort: Bhandari, DR Dharmendra
 tradition: contemporary_liberal
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

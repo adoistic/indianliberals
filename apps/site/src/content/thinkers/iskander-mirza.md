@@ -3,9 +3,9 @@ id: iskander-mirza
 name:
   canonical: Iskander Mirza
   sort: Mirza, Iskander
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [military_officer, statesman]
 nationality: india
 themes: []
 affiliations: []

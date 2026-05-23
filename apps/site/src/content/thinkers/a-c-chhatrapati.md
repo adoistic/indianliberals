@@ -4,8 +4,8 @@ name:
   canonical: A. C. Chhatrapati
   sort: Chhatrapati, A. C.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
+tradition: classical_liberal
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

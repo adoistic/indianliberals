@@ -3,9 +3,9 @@ id: sachin-sen
 name:
   canonical: Sachin Sen
   sort: Sen, Sachin
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [writer, economist]
 nationality: india
 themes: []
 affiliations: []

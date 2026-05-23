@@ -5,7 +5,7 @@ name:
   sort: Mulgaokar, AG
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [editor, journalist]
 nationality: india
 themes: []
 affiliations: []

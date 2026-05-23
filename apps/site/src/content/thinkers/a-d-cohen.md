@@ -3,8 +3,8 @@ id: a-d-cohen
 name:
   canonical: A. D. Cohen
   sort: Cohen, A. D.
-tradition: classical_liberal
-canon_status: unclassified
+tradition: libertarian
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

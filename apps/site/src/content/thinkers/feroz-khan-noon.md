@@ -4,8 +4,8 @@ name:
   canonical: Feroz Khan Noon
   sort: Noon, Feroz Khan
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman, parliamentarian, diplomat]
 nationality: india
 themes: []
 affiliations: []

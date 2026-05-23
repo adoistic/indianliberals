@@ -9,8 +9,8 @@ birth_year: 1905
 death_year: 1998
 nationality: india
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [statesman, writer, parliamentarian]
 themes: ["classical_liberalism", "anti_communism", "free_enterprise"]
 affiliations: ["swatantra-party", "freedom-first", "indian-liberal-group"]
 portrait:

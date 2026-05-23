@@ -5,8 +5,8 @@ name:
   sort: "Heggade, D. Veerendra"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [religious_figure, activist]
 nationality: india
 themes: []
 affiliations: []

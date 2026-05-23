@@ -6,9 +6,9 @@ name:
   full: Sharadchandra Govindrao Pawar
   also_known_as:
     - शरद पवार
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

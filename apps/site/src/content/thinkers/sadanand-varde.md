@@ -4,7 +4,7 @@ name:
   canonical: Sadanand Varde
   sort: Varde, Sadanand
 tradition: classical_liberal
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

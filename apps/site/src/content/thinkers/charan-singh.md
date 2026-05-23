@@ -11,8 +11,8 @@ name:
     - चरण सिंह
     - के. चरण सिंह
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, writer, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

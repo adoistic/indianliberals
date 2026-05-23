@@ -5,8 +5,8 @@ name:
   sort: "Kanoria, S. S."
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

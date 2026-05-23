@@ -5,8 +5,8 @@ name:
   sort: "Kamble, Babytai"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [writer, activist, reformer]
 nationality: india
 themes: []
 affiliations: []

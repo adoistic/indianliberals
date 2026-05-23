@@ -7,9 +7,9 @@ name:
     - Lohia
     - Dr. Ram Manohar Lohia
     - राम मनोहर लोहिया
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, activist, writer]
 nationality: india
 themes: []
 affiliations: []

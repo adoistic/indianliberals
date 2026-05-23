@@ -6,9 +6,9 @@ name:
   also_known_as:
     - राजीव गांधी
     - রাজীব গান্ধী
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

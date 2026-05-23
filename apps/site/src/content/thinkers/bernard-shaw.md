@@ -5,9 +5,9 @@ name:
   sort: Shaw, George Bernard
   also_known_as:
     - Bernard Shaw
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [writer, philosopher]
 nationality: india
 themes: []
 affiliations: []

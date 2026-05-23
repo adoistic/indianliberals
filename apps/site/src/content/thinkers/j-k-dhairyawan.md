@@ -3,8 +3,8 @@ id: j-k-dhairyawan
 name:
   canonical: J. K. Dhairyawan
   sort: Dhairyawan, J. K.
-tradition: classical_liberal
-canon_status: unclassified
+tradition: libertarian
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

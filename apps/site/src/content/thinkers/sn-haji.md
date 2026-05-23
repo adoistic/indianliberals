@@ -3,9 +3,9 @@ id: sn-haji
 name:
   canonical: SN Haji
   sort: Haji, SN
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

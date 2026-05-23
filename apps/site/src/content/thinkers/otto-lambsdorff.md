@@ -4,9 +4,9 @@ name:
   canonical: "Otto Graf Lambsdorff"
   sort: "Lambsdorff, Otto"
   also_known_as: []
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, parliamentarian, writer]
 nationality: india
 themes: []
 affiliations: []

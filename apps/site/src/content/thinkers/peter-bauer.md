@@ -4,9 +4,9 @@ name:
   canonical: Peter Bauer
   sort: Bauer, Peter
   full: Peter Thomas Bauer
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [economist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

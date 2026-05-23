@@ -4,8 +4,8 @@ name:
   canonical: Lalita Ramdas
   sort: Ramdas, Lalita
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [activist]
 nationality: india
 themes: []
 affiliations: []

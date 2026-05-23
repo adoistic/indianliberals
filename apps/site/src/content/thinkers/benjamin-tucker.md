@@ -8,9 +8,9 @@ name:
     - Benjamin F. Tucker
     - Benjamin R. Tucker
     - B. R. Tucker
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: referenced
+vocations: [editor, philosopher, writer]
 nationality: usa
 themes: []
 affiliations: []

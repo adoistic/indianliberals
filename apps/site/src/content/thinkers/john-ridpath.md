@@ -4,9 +4,9 @@ name:
   canonical: "John Ridpath"
   sort: "Ridpath, John"
   also_known_as: []
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: referenced
+vocations: [philosopher, professor]
 nationality: india
 themes: []
 affiliations: []

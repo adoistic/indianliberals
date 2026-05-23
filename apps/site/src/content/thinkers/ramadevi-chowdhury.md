@@ -6,7 +6,7 @@ name:
   also_known_as: []
 tradition: social_reformer
 canon_status: unclassified
-vocations: []
+vocations: [activist, reformer]
 nationality: india
 themes: []
 affiliations: []

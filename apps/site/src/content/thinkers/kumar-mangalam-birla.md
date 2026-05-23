@@ -4,9 +4,9 @@ name:
   canonical: Kumar Mangalam Birla
   sort: Birla, Kumar Mangalam
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

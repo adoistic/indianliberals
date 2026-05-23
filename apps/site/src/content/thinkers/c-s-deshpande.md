@@ -7,8 +7,8 @@ name:
     - Dr. C. S. Deshpande
     - Dr.C.S.Deshpande
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

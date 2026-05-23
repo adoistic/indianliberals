@@ -6,7 +6,7 @@ name:
   also_known_as: []
 tradition: unclassified
 canon_status: unclassified
-vocations: []
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

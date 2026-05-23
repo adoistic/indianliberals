@@ -7,8 +7,8 @@ name:
     - Shivnath Shastri
     - শিবনাথ শাস্ত্রী
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, writer, religious_figure, historian]
 nationality: india
 themes: []
 affiliations: []

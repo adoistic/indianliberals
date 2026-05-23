@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Maulana Abdul Kalam Azad
     - Maulana Azad
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, writer, religious_figure]
 nationality: india
 themes: []
 affiliations: []

@@ -3,9 +3,9 @@ id: ralph-borsodi
 name:
   canonical: Ralph Borsodi
   sort: Borsodi, Ralph
-tradition: international_influence
+tradition: libertarian
 canon_status: unclassified
-vocations: []
+vocations: [writer, economist]
 nationality: india
 themes: []
 affiliations: []

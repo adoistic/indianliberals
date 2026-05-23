@@ -9,9 +9,9 @@ name:
     - P C Mahalanobis
     - Prof. Mahalanobis
     - Mahalanobis
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [scientist, economist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

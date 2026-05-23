@@ -5,8 +5,8 @@ name:
   sort: "Joshee, Anandibai"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, scientist]
 nationality: india
 themes: []
 affiliations: []

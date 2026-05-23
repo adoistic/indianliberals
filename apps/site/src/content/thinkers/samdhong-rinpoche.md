@@ -7,8 +7,8 @@ name:
   also_known_as:
     - Prof. Samdhong Rinpoche
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [religious_figure, statesman, professor]
 nationality: india
 themes: []
 affiliations: []

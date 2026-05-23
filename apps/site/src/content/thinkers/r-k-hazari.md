@@ -4,8 +4,8 @@ name:
   canonical: R. K. Hazari
   sort: Hazari, R. K.
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist]
 nationality: india
 themes: []
 affiliations: []

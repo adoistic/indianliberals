@@ -7,8 +7,8 @@ name:
     - Mr. Sanjay Panse
     - Mr.Sanjay Panse
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

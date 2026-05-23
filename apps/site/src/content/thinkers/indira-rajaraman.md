@@ -6,8 +6,8 @@ name:
   also_known_as:
     - Dr. Indira Rajaraman
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [economist]
 nationality: india
 themes: []
 affiliations: []

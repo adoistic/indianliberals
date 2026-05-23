@@ -10,7 +10,7 @@ name:
     - Ramdas
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [military_officer, activist]
 nationality: india
 themes: []
 affiliations: []

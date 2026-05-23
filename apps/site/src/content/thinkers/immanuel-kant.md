@@ -3,9 +3,9 @@ id: immanuel-kant
 name:
   canonical: Immanuel Kant
   sort: Kant, Immanuel
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [philosopher, professor]
 nationality: india
 themes: []
 affiliations: []

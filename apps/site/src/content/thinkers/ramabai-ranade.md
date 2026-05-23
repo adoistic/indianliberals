@@ -5,8 +5,8 @@ name:
   sort: "Ranade, Ramabai"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, activist]
 nationality: india
 themes: []
 affiliations: []

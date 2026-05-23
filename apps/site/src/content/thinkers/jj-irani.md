@@ -3,9 +3,9 @@ id: jj-irani
 name:
   canonical: JJ Irani
   sort: Irani, JJ
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist, engineer]
 nationality: india
 themes: []
 affiliations: []

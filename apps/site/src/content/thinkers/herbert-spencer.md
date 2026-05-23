@@ -3,9 +3,9 @@ id: herbert-spencer
 name:
   canonical: Herbert Spencer
   sort: Spencer, Herbert
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [philosopher, sociologist]
 nationality: india
 themes: []
 affiliations: []

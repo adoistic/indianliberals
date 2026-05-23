@@ -3,9 +3,9 @@ id: ralph-waldo-emerson
 name:
   canonical: Ralph Waldo Emerson
   sort: Emerson, Ralph Waldo
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [philosopher, writer, poet]
 nationality: india
 themes: []
 affiliations: []

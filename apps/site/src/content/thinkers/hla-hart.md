@@ -7,9 +7,9 @@ name:
   also_known_as:
     - HLA Hart
     - H.L.A. Hart
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: referenced
+vocations: [legal_scholar, philosopher, professor]
 nationality: india
 themes: []
 affiliations: []

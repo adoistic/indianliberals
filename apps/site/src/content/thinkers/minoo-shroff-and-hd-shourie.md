@@ -3,7 +3,7 @@ id: minoo-shroff-and-hd-shourie
 name:
   canonical: Minoo Shroff And HD Shourie
   sort: Shourie, Minoo Shroff And HD
-tradition: contemporary_liberal
+tradition: classical_liberal
 canon_status: unclassified
 vocations: []
 nationality: india

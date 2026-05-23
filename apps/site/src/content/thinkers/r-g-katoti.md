@@ -5,9 +5,9 @@ name:
   sort: Katoti, R. G.
   also_known_as:
     - Mr. R. G. Katoti
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -4,9 +4,9 @@ name:
   canonical: Christopher Lingle
   sort: Lingle, Christopher
   full: Christopher Lingle
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Kaur, Rajkumari Amrit"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, activist, reformer]
 nationality: india
 themes: []
 affiliations: []

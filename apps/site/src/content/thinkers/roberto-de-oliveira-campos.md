@@ -4,9 +4,9 @@ name:
   canonical: Roberto de Oliveira Campos
   sort: Campos, Roberto de Oliveira
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, diplomat, statesman]
 nationality: india
 themes: []
 affiliations: []

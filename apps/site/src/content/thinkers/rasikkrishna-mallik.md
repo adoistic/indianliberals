@@ -7,8 +7,8 @@ name:
     - Rasik Krishna Mallick
     - রসিককৃষ্ণ মল্লিক
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [reformer, editor, writer]
 nationality: india
 themes: []
 affiliations: []

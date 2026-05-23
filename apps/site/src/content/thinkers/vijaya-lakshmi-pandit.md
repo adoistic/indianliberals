@@ -7,8 +7,8 @@ name:
     - Mrs. Vijayalaxmi Pandit
     - Vijayalaxmi Pandit
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, diplomat, writer]
 nationality: india
 themes: []
 affiliations: []

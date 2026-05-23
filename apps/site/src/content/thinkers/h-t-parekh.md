@@ -8,8 +8,8 @@ name:
     - Mr. H. T. PAREKH
     - HT Parekh
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [economist, industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

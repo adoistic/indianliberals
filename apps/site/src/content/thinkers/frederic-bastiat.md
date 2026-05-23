@@ -6,9 +6,9 @@ name:
   full: Claude-Frédéric Bastiat
   also_known_as:
     - Frederic Bastiat
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, writer, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

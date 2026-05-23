@@ -6,8 +6,8 @@ name:
   also_known_as:
     - અશ્વિન કારીઆ
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor, writer]
 nationality: india
 themes: []
 affiliations: []

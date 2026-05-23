@@ -5,7 +5,7 @@ name:
   sort: Varshney, Prof. RL
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

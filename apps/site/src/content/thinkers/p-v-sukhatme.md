@@ -7,7 +7,7 @@ name:
     - Professor P. V. Sukhatme
 tradition: constitutional_liberal
 canon_status: unclassified
-vocations: []
+vocations: [scientist, professor]
 nationality: india
 themes: []
 affiliations: []

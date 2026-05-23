@@ -5,7 +5,7 @@ name:
   sort: "Belt, Bradley D."
   also_known_as: []
 tradition: international_influence
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

@@ -6,8 +6,8 @@ name:
   also_known_as:
     - સ્વામી આનંદ
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [religious_figure, writer, activist]
 nationality: india
 themes: []
 affiliations: []

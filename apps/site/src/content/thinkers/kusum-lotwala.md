@@ -9,9 +9,9 @@ name:
     - K. R. Lotwala
     - Miss K. R. Lotwala
     - Miss Kusim Lotwala
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: extended
+vocations: [editor]
 nationality: india
 themes: []
 affiliations: []

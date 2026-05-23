@@ -6,8 +6,8 @@ name:
   also_known_as:
     - Dr. Usha Mehta
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [activist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

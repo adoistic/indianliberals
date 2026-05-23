@@ -3,9 +3,9 @@ id: sumati-morarjee
 name:
   canonical: Sumati Morarjee
   sort: Morarjee, Sumati
-tradition: classical_liberal
+tradition: practice
 canon_status: unclassified
-vocations: []
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

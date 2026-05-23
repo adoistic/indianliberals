@@ -10,8 +10,8 @@ name:
     - छत्रपती शिवाजी
     - छत्रपती शिवाजी महाराज
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman, military_officer]
 nationality: india
 themes: []
 affiliations: []

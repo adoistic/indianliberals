@@ -4,8 +4,8 @@ name:
   canonical: Bernard Iddings Bell
   sort: Bell, Bernard Iddings
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer, religious_figure]
 nationality: india
 themes: []
 affiliations: []

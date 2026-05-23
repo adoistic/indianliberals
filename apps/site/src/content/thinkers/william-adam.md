@@ -3,9 +3,9 @@ id: william-adam
 name:
   canonical: William Adam
   sort: Adam, William
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: social_reformer
+canon_status: referenced
+vocations: [reformer, religious_figure, writer]
 nationality: india
 themes: []
 affiliations: []

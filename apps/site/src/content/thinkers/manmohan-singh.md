@@ -7,8 +7,8 @@ name:
   also_known_as:
     - Dr. Manmohan Singh
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, economist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

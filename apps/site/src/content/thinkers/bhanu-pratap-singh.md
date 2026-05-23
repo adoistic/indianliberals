@@ -5,8 +5,8 @@ name:
   sort: "Singh, Bhanu Pratap"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

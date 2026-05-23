@@ -6,9 +6,9 @@ name:
   full: Hernando de Soto Polar
   also_known_as:
     - de Soto
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

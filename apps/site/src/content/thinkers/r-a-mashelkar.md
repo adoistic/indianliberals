@@ -5,8 +5,8 @@ name:
   sort: Mashelkar, R. A.
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [scientist, writer]
 nationality: india
 themes: []
 affiliations: []

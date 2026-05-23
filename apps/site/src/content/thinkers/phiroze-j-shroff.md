@@ -3,9 +3,9 @@ id: phiroze-j-shroff
 name:
   canonical: Phiroze J Shroff
   sort: Shroff, Phiroze J
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, legal_scholar, writer]
 nationality: india
 themes: []
 affiliations: []

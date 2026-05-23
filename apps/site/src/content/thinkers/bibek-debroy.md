@@ -5,9 +5,9 @@ name:
   sort: Debroy, Bibek
   also_known_as:
     - Dr. Bibek Debroy
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, writer, civil_servant]
 nationality: india
 themes: []
 affiliations: []

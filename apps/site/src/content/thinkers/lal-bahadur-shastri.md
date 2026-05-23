@@ -7,8 +7,8 @@ name:
     - लालबहादूर शास्त्री
     - Shastri
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

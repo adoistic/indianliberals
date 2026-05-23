@@ -4,8 +4,8 @@ name:
   canonical: Amul Desai
   sort: Desai, Amul
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
+tradition: classical_liberal
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

@@ -8,8 +8,8 @@ name:
     - Abala Bose
     - অবলা বসু
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, activist]
 nationality: india
 themes: []
 affiliations: []

@@ -4,8 +4,8 @@ name:
   canonical: Utsavananda Vidyabagish
   sort: Vidyabagish, Utsavananda
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [religious_figure, reformer]
 nationality: india
 themes: []
 affiliations: []

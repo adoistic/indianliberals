@@ -5,8 +5,8 @@ name:
   sort: "Dalal, Sucheta"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [journalist, writer]
 nationality: india
 themes: []
 affiliations: []

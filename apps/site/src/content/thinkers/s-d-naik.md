@@ -4,9 +4,9 @@ name:
   canonical: S. D. Naik
   sort: Naik, S. D.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, journalist]
 nationality: india
 themes: []
 affiliations: []

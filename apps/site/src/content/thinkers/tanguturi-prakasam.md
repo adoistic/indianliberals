@@ -6,7 +6,7 @@ name:
   also_known_as: []
 tradition: constitutional_liberal
 canon_status: unclassified
-vocations: []
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

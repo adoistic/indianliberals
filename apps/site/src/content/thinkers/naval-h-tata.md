@@ -4,9 +4,9 @@ name:
   canonical: "Naval H. Tata"
   sort: "Tata, Naval H."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

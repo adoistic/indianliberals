@@ -7,9 +7,9 @@ name:
     - Marx
     - मार्क्स
     - कार्ल मार्क्स
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [philosopher, economist, writer]
 nationality: india
 themes: []
 affiliations: []

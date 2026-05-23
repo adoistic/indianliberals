@@ -10,8 +10,8 @@ name:
     - ঈশ্বরচন্দ্র বিদ্যাসাগর
     - ईश्वरचन्द्र विद्यासागर
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [reformer, writer, professor]
 nationality: india
 themes: []
 affiliations: []

@@ -5,7 +5,7 @@ name:
   sort: Benedict, Ruth
 tradition: international_influence
 canon_status: unclassified
-vocations: []
+vocations: [sociologist, writer, professor]
 nationality: india
 themes: []
 affiliations: []

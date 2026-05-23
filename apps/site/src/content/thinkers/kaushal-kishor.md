@@ -5,9 +5,9 @@ name:
   sort: Kishor, Kaushal
   also_known_as:
     - कौशल किशोर
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

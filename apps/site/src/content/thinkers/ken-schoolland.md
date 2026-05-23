@@ -5,9 +5,9 @@ name:
   sort: Schoolland, Ken
   also_known_as:
     - Ken Schooland
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: referenced
+vocations: [economist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Sheikh, Fatima"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, professor]
 nationality: india
 themes: []
 affiliations: []

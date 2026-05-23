@@ -4,9 +4,9 @@ name:
   canonical: "B. Shiva Rao"
   sort: "Shiva Rao, B."
   also_known_as: []
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [writer, journalist, historian]
 nationality: india
 themes: []
 affiliations: []

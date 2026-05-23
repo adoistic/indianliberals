@@ -5,8 +5,8 @@ name:
   sort: "Rajan, Mukund"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

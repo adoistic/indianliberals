@@ -6,8 +6,8 @@ name:
   also_known_as:
     - अनंत उमरीकर
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer, activist]
 nationality: india
 themes: []
 affiliations: []

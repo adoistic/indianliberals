@@ -5,8 +5,8 @@ name:
   sort: Bapat, Shailaja
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

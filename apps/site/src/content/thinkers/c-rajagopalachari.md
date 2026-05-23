@@ -9,9 +9,9 @@ name:
     - C.R.
     - सी. राजगोपालाचारी
     - राजाजी
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [statesman, writer, editor]
 nationality: india
 themes: []
 affiliations: []

@@ -4,9 +4,9 @@ name:
   canonical: "Dr. R. C. Cooper"
   sort: "Cooper, R. C."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Raut, Rukhmabai"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, scientist, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Mody, Piloo"
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [parliamentarian, writer]
 nationality: india
 themes: []
 affiliations: []

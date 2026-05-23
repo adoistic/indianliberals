@@ -3,9 +3,9 @@ id: deng-xiaoping
 name:
   canonical: Deng Xiaoping
   sort: Deng, Xiaoping
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

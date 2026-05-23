@@ -4,8 +4,8 @@ name:
   canonical: Aldous Huxley
   sort: Huxley, Aldous
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,7 +5,7 @@ name:
   sort: "Chokshi, J. D."
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

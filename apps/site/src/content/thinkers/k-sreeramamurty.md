@@ -3,9 +3,9 @@ id: k-sreeramamurty
 name:
   canonical: K. Sreeramamurty
   sort: Sreeramamurty, K.
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: referenced
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

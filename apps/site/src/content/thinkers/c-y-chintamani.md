@@ -5,8 +5,8 @@ name:
   sort: "Chintamani, C. Y."
   also_known_as: []
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [editor, parliamentarian, journalist]
 nationality: india
 themes: []
 affiliations: []

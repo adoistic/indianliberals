@@ -6,9 +6,9 @@ name:
   full: Hirubhai Mulljibhai Patel
   also_known_as:
     - HM Patel
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, civil_servant, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

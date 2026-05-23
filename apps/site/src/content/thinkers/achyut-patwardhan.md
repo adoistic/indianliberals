@@ -3,9 +3,9 @@ id: achyut-patwardhan
 name:
   canonical: Achyut Patwardhan
   sort: Patwardhan, Achyut
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [activist, statesman]
 nationality: india
 themes: []
 affiliations: []

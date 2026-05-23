@@ -7,9 +7,9 @@ name:
     - Mrs. Sirimavo Bandaranaike
     - Mrs Srimavo Bandaranaike
     - Srimavo Bandaranaike
-tradition: international_influence
+tradition: non_liberal
 canon_status: unclassified
-vocations: []
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

@@ -3,9 +3,9 @@ id: friedrich-naumann
 name:
   canonical: Friedrich Naumann
   sort: Naumann, Friedrich
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [statesman, writer, religious_figure]
 nationality: india
 themes: []
 affiliations: []

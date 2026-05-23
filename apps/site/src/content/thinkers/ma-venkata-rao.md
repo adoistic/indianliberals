@@ -3,9 +3,9 @@ id: ma-venkata-rao
 name:
   canonical: MA Venkata Rao
   sort: Rao, MA Venkata
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: extended
+vocations: [writer, philosopher, editor]
 nationality: india
 themes: []
 affiliations: []

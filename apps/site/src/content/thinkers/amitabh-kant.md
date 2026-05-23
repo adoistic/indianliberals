@@ -5,8 +5,8 @@ name:
   sort: "Kant, Amitabh"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [civil_servant, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,9 +5,9 @@ name:
   sort: Kaldor, Nicholas
   also_known_as:
     - Kaldor
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

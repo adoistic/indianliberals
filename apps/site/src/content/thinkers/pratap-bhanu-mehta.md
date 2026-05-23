@@ -4,9 +4,9 @@ name:
   canonical: Pratap Bhanu Mehta
   sort: Mehta, Pratap Bhanu
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: contemporary_liberal
+canon_status: extended
+vocations: [political_scientist, writer, professor]
 nationality: india
 themes: []
 affiliations: []

@@ -8,9 +8,9 @@ name:
     - Acharya Vinoba Bhave
     - Vinoba
     - विनोबा भावे
-tradition: social_reformer
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [activist, religious_figure, writer]
 nationality: india
 themes: []
 affiliations: []

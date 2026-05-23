@@ -4,9 +4,9 @@ name:
   canonical: "Shri Ramniwas R. Ruia"
   sort: "Ruia, Ramniwas R."
   also_known_as: []
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

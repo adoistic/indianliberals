@@ -8,9 +8,9 @@ name:
     - Indira
     - इंदिरा गांधी
     - इन्दिरा गाँधी
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

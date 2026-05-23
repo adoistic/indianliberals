@@ -8,8 +8,8 @@ name:
     - महाराणा प्रताप
     - महाराणा प्रताप सिंह
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman, military_officer]
 nationality: india
 themes: []
 affiliations: []

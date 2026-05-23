@@ -4,9 +4,9 @@ name:
   canonical: K. D. Malaviya
   sort: Malaviya, K. D.
   full: Keshav Deva Malaviya
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Agarkar, Gopal Ganesh"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [reformer, editor, writer]
 nationality: india
 themes: []
 affiliations: []

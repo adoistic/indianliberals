@@ -5,8 +5,8 @@ name:
   sort: "Mukherjee, Harish Chandra"
   also_known_as: []
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor, journalist, reformer]
 nationality: india
 themes: []
 affiliations: []

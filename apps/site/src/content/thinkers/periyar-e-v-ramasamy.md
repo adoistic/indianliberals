@@ -9,8 +9,8 @@ name:
     - Periyar
     - E. V. Ramaswamy
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [reformer, activist, statesman]
 nationality: india
 themes: []
 affiliations: []

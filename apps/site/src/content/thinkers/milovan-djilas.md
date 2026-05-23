@@ -3,9 +3,9 @@ id: milovan-djilas
 name:
   canonical: Milovan Djilas
   sort: Djilas, Milovan
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [writer, statesman, activist]
 nationality: india
 themes: []
 affiliations: []

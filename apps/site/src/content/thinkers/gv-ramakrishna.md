@@ -5,7 +5,7 @@ name:
   sort: Ramakrishna, GV
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [civil_servant]
 nationality: india
 themes: []
 affiliations: []

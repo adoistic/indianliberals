@@ -3,9 +3,9 @@ id: sh-batlivala
 name:
   canonical: SH Batlivala
   sort: Batlivala, SH
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [writer, political_scientist]
 nationality: india
 themes: []
 affiliations: []

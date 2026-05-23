@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Wilhelm Ropke
     - Roepke
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

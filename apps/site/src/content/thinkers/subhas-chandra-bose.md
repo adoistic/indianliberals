@@ -13,9 +13,9 @@ name:
     - নেতাজি
     - सुभाष चंद्र बोस
     - नेताजी
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, writer]
 nationality: india
 themes: []
 affiliations: []

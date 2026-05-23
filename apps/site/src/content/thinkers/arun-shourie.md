@@ -4,9 +4,9 @@ name:
   canonical: Arun Shourie
   sort: Shourie, Arun
   full: Arun Shourie
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [journalist, editor, writer, statesman]
 nationality: india
 themes: []
 affiliations: []

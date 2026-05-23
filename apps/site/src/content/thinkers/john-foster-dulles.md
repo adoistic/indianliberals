@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Mr. Dulles
     - Dulles
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, diplomat]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "da Costa, Eric P. W."
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

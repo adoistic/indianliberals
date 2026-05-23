@@ -4,9 +4,9 @@ name:
   canonical: Tom G. Palmer
   sort: Palmer, Tom G.
   full: Tom Gordon Palmer
-tradition: international_influence
+tradition: libertarian
 canon_status: unclassified
-vocations: []
+vocations: [philosopher, writer]
 nationality: india
 themes: []
 affiliations: []

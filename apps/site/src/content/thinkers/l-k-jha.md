@@ -7,9 +7,9 @@ name:
   also_known_as:
     - LK Jha
     - L.K. Jha
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [civil_servant, economist, writer]
 nationality: india
 themes: []
 affiliations: []

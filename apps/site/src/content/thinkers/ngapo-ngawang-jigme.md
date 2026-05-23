@@ -4,8 +4,8 @@ name:
   canonical: Ngapo Ngawang Jigme
   sort: Ngapo, Ngawang Jigme
 tradition: international_influence
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

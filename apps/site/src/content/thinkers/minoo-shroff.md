@@ -3,9 +3,9 @@ id: minoo-shroff
 name:
   canonical: Minoo Shroff
   sort: Shroff, Minoo
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [industrialist, editor, writer]
 nationality: india
 themes: []
 affiliations: []

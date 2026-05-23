@@ -4,9 +4,9 @@ name:
   canonical: "GP Manish"
   sort: "Manish, GP"
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

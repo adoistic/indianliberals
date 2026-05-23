@@ -4,8 +4,8 @@ name:
   canonical: DR IG Patel
   sort: Patel, DR IG
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [economist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

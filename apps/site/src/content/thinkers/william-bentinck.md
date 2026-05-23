@@ -7,9 +7,9 @@ name:
   also_known_as:
     - William Bentinck
     - Bentinck
-tradition: international_influence
+tradition: social_reformer
 canon_status: unclassified
-vocations: []
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

@@ -4,9 +4,9 @@ name:
   canonical: Raghuram G. Rajan
   sort: Rajan, Raghuram G.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: contemporary_liberal
+canon_status: extended
+vocations: [economist, professor, civil_servant]
 nationality: india
 themes: []
 affiliations: []

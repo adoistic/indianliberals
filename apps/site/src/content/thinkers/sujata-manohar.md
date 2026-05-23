@@ -3,9 +3,9 @@ id: sujata-manohar
 name:
   canonical: Sujata Manohar
   sort: Manohar, Sujata
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [judge, legal_scholar]
 nationality: india
 themes: []
 affiliations: []

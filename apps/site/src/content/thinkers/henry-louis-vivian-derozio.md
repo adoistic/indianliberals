@@ -7,8 +7,8 @@ name:
     - Derozio
     - H. L. V. Derozio
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [poet, professor, reformer]
 nationality: india
 themes: []
 affiliations: []

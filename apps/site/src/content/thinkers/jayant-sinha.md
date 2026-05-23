@@ -5,8 +5,8 @@ name:
   sort: Sinha, Jayant
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman, economist]
 nationality: india
 themes: []
 affiliations: []

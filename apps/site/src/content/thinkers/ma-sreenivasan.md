@@ -3,9 +3,9 @@ id: ma-sreenivasan
 name:
   canonical: MA Sreenivasan
   sort: Sreenivasan, MA
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [civil_servant, industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

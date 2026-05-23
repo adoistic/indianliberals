@@ -3,9 +3,9 @@ id: hp-ranina
 name:
   canonical: HP Ranina
   sort: Ranina, HP
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [legal_scholar, writer, editor]
 nationality: india
 themes: []
 affiliations: []

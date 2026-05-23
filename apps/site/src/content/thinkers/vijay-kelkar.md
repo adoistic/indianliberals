@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Dr. Vijay Kelkar
     - Vijay L. Kelkar
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

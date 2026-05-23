@@ -3,9 +3,9 @@ id: hans-raj-khanna
 name:
   canonical: Hans Raj Khanna
   sort: Khanna, Hans Raj
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [judge]
 nationality: india
 themes: []
 affiliations: []

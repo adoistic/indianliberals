@@ -4,8 +4,8 @@ name:
   canonical: David Hare
   sort: Hare, David
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, writer]
 nationality: india
 themes: []
 affiliations: []

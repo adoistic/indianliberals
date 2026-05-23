@@ -4,8 +4,8 @@ name:
   canonical: Khasa Subba Rau
   sort: Rau, Khasa Subba
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor, journalist, writer]
 nationality: india
 themes: []
 affiliations: []

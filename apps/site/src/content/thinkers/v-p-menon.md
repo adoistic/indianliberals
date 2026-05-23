@@ -4,9 +4,9 @@ name:
   canonical: "V. P. Menon"
   sort: "Menon, V. P."
   also_known_as: []
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [civil_servant, writer, historian]
 nationality: india
 themes: []
 affiliations: []

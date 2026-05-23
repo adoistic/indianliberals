@@ -3,9 +3,9 @@ id: maurice-strong
 name:
   canonical: Maurice Strong
   sort: Strong, Maurice
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [diplomat, civil_servant, industrialist]
 nationality: india
 themes: []
 affiliations: []

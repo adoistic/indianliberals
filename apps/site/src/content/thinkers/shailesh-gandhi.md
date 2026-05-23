@@ -5,8 +5,8 @@ name:
   sort: "Gandhi, Shailesh"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [activist]
 nationality: india
 themes: []
 affiliations: []

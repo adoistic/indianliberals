@@ -6,9 +6,9 @@ name:
   also_known_as:
     - RM Mohan Rao
     - R.M. Mohan Rao
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

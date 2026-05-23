@@ -5,7 +5,7 @@ name:
   sort: Ajgaonkar, Rajaram
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

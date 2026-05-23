@@ -6,9 +6,9 @@ name:
   also_known_as:
     - St Thomas Aquinas
     - St. Thomas Aquinas
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [philosopher, religious_figure]
 nationality: india
 themes: []
 affiliations: []

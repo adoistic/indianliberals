@@ -7,9 +7,9 @@ name:
     - Galbraith
     - Professor Galbraith
     - J.K. Galbraith
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [economist, writer, diplomat]
 nationality: india
 themes: []
 affiliations: []

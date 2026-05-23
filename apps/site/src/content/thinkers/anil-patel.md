@@ -6,8 +6,8 @@ name:
   also_known_as:
     - અનિલ પટેલ
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor]
 nationality: india
 themes: []
 affiliations: []

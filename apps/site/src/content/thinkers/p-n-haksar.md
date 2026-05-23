@@ -7,9 +7,9 @@ name:
   also_known_as:
     - PN Haksar
     - P N Haksar
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [civil_servant, diplomat]
 nationality: india
 themes: []
 affiliations: []

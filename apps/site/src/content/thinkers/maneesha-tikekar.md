@@ -6,8 +6,8 @@ name:
   also_known_as:
     - Dr. Maneesha Tikekar
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [political_scientist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

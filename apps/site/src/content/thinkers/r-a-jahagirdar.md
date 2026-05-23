@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Justice R. A. Jahagirdar (retd.)
     - Justice Jahagirdar
-tradition: contemporary_liberal
+tradition: constitutional_liberal
 canon_status: unclassified
-vocations: []
+vocations: [judge]
 nationality: india
 themes: []
 affiliations: []

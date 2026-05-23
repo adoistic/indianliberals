@@ -4,8 +4,8 @@ name:
   canonical: BG Verghese
   sort: Verghese, BG
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor, journalist, writer]
 nationality: india
 themes: []
 affiliations: []

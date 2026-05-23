@@ -4,9 +4,9 @@ name:
   canonical: T. Thomas
   sort: Thomas, T.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

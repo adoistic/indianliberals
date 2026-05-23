@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Mises
     - Von Mises
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: core
+vocations: [economist, philosopher, professor]
 nationality: india
 themes: []
 affiliations: []

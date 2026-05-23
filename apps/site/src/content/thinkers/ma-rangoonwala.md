@@ -3,9 +3,9 @@ id: ma-rangoonwala
 name:
   canonical: MA Rangoonwala
   sort: Rangoonwala, MA
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

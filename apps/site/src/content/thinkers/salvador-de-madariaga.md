@@ -7,9 +7,9 @@ name:
   also_known_as:
     - Salvador Madariaga
     - Madariaga
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [writer, diplomat, historian]
 nationality: spain
 themes: []
 affiliations: []

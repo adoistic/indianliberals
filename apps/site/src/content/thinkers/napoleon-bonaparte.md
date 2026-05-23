@@ -7,9 +7,9 @@ name:
     - Napoleon
     - नेपोलियन
     - नेपोलियन बोनापार्ट
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, military_officer]
 nationality: india
 themes: []
 affiliations: []

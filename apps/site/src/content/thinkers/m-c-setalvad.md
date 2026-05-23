@@ -11,8 +11,8 @@ name:
     - Setalvad
     - Setalwad
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [legal_scholar, civil_servant]
 nationality: india
 themes: []
 affiliations: []

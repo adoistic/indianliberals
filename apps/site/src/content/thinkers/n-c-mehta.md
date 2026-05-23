@@ -4,9 +4,9 @@ name:
   canonical: "N. C. Mehta"
   sort: "Mehta, N. C."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [legal_scholar, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Mody, Homi"
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [industrialist, parliamentarian, statesman]
 nationality: india
 themes: []
 affiliations: []

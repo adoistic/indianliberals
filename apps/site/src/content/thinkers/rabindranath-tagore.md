@@ -9,8 +9,8 @@ name:
     - রবীন্দ্রনাথ ঠাকুর
     - रवीन्द्रनाथ टैगोर
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [poet, writer, philosopher, reformer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,8 +5,8 @@ name:
   sort: "Shinde, Tarabai"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, writer, activist]
 nationality: india
 themes: []
 affiliations: []

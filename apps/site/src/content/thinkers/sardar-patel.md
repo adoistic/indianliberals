@@ -11,8 +11,8 @@ name:
     - वल्लभभाई पटेल
     - सरदार वल्लभभाई पटेल
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

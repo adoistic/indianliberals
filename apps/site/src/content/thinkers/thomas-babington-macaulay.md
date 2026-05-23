@@ -7,9 +7,9 @@ name:
     - Macaulay
     - Lord Macaulay
     - T. B. Macaulay
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, historian, writer]
 nationality: india
 themes: []
 affiliations: []

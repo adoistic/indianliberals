@@ -5,8 +5,8 @@ name:
   sort: "Futehally, Zafar"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [writer, activist]
 nationality: india
 themes: []
 affiliations: []

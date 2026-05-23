@@ -4,9 +4,9 @@ name:
   canonical: "Dr. K. L. Rao"
   sort: "Rao, K. L."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [engineer, statesman]
 nationality: india
 themes: []
 affiliations: []

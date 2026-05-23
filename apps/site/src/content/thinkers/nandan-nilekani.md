@@ -4,9 +4,9 @@ name:
   canonical: Nandan Nilekani
   sort: Nilekani, Nandan
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [entrepreneur, civil_servant, writer]
 nationality: india
 themes: []
 affiliations: []

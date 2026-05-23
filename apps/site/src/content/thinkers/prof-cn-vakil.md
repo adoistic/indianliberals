@@ -3,9 +3,9 @@ id: prof-cn-vakil
 name:
   canonical: Prof CN Vakil
   sort: Vakil, Prof CN
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

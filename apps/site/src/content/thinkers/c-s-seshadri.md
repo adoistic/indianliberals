@@ -5,7 +5,7 @@ name:
   sort: "Seshadri, C. S."
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

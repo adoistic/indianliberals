@@ -6,9 +6,9 @@ name:
   also_known_as:
     - John Kennedy
     - JFK
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

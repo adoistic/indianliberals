@@ -6,8 +6,8 @@ name:
   also_known_as:
     - ઈસ્માઈલ ગાંધી
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [editor, writer]
 nationality: india
 themes: []
 affiliations: []

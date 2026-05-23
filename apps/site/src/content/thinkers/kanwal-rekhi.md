@@ -4,9 +4,9 @@ name:
   canonical: "Kanwal Rekhi"
   sort: "Rekhi, Kanwal"
   also_known_as: []
-tradition: contemporary_liberal
+tradition: practice
 canon_status: unclassified
-vocations: []
+vocations: [entrepreneur]
 nationality: india
 themes: []
 affiliations: []

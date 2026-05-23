@@ -4,9 +4,9 @@ name:
   canonical: Margaret Thatcher
   sort: Thatcher, Margaret
   full: Margaret Hilda Thatcher
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, writer]
 nationality: india
 themes: []
 affiliations: []

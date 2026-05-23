@@ -4,9 +4,9 @@ name:
   canonical: Usha Thorat
   sort: Thorat, Usha
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [civil_servant, economist]
 nationality: india
 themes: []
 affiliations: []

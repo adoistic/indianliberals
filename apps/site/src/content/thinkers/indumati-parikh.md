@@ -4,8 +4,8 @@ name:
   canonical: Indumati Parikh
   sort: Parikh, Indumati
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [activist, reformer]
 nationality: india
 themes: []
 affiliations: []

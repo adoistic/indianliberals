@@ -5,7 +5,7 @@ name:
   sort: Pathan, MA
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,9 +5,9 @@ name:
   sort: Black, Eugene R.
   also_known_as:
     - Eugene Black
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [civil_servant, economist]
 nationality: india
 themes: []
 affiliations: []

@@ -7,9 +7,9 @@ name:
     - MG Hallar
     - M.G. Hallar
     - M. G. Balier
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: referenced
+vocations: [writer, editor]
 nationality: india
 themes: []
 affiliations: []

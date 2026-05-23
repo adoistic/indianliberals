@@ -5,9 +5,9 @@ name:
   sort: Karnik, Ajit
   also_known_as:
     - Karnik
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

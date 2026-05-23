@@ -11,8 +11,8 @@ name:
     - ઇલા ર. ભટ્ટ
     - ઈલા ર. ભટ્ટ
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [activist, reformer, legal_scholar]
 nationality: india
 themes: []
 affiliations: []

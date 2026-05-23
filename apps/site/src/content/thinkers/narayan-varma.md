@@ -8,7 +8,7 @@ name:
     - Narayan Varma
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [legal_scholar, writer]
 nationality: india
 themes: []
 affiliations: []

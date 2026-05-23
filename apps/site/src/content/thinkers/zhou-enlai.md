@@ -5,9 +5,9 @@ name:
   sort: Zhou, Enlai
   also_known_as:
     - Chou En-lai
-tradition: international_influence
+tradition: non_liberal
 canon_status: unclassified
-vocations: []
+vocations: [statesman, diplomat]
 nationality: india
 themes: []
 affiliations: []

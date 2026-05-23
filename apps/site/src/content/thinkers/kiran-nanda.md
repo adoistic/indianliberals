@@ -4,7 +4,7 @@ name:
   canonical: Kiran Nanda
   sort: Nanda, Kiran
 tradition: contemporary_liberal
-canon_status: unclassified
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

@@ -5,8 +5,8 @@ name:
   sort: "Kunzru, Hriday Nath"
   also_known_as: []
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, parliamentarian, writer]
 nationality: india
 themes: []
 affiliations: []

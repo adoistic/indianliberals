@@ -5,9 +5,9 @@ name:
   sort: Amaratunga, Chanaka
   also_known_as:
     - Dr. Chanaka Amaratunga
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [political_scientist, statesman, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -6,9 +6,9 @@ name:
   also_known_as:
     - K. D. Valicha
     - K.D. Valicha
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: extended
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

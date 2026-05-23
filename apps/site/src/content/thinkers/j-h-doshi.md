@@ -4,9 +4,9 @@ name:
   canonical: "J. H. Doshi"
   sort: "Doshi, J. H."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

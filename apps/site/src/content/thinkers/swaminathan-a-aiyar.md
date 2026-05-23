@@ -4,9 +4,9 @@ name:
   canonical: Swaminathan A. Aiyar
   sort: Aiyar, Swaminathan A.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [journalist, economist, writer]
 nationality: india
 themes: []
 affiliations: []

@@ -5,9 +5,9 @@ name:
   sort: Mehta, Ashok
   also_known_as:
     - अशोक मेहता
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, writer]
 nationality: india
 themes: []
 affiliations: []

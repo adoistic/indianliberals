@@ -5,8 +5,8 @@ name:
   sort: "Anantharamakrishnan, M. R."
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

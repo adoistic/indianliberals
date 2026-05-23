@@ -3,9 +3,9 @@ id: dr-ac-shah
 name:
   canonical: DR AC Shah
   sort: Shah, DR AC
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

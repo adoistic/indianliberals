@@ -9,8 +9,8 @@ birth_year: 1899
 death_year: 1965
 nationality: india
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [industrialist, economist, writer]
 themes: ["free_enterprise", "banking", "industrial_policy"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:

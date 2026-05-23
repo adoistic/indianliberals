@@ -7,9 +7,9 @@ name:
     - Albert Hirschman
     - Hirschman
     - हिर्षमन
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

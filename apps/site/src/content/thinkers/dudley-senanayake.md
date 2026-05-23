@@ -3,9 +3,9 @@ id: dudley-senanayake
 name:
   canonical: Dudley Senanayake
   sort: Senanayake, Dudley
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: referenced
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

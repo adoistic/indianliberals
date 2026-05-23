@@ -3,7 +3,7 @@ id: siegfried-herzog
 name:
   canonical: Siegfried Herzog
   sort: Herzog, Siegfried
-tradition: international_influence
+tradition: classical_liberal
 canon_status: unclassified
 vocations: []
 nationality: india

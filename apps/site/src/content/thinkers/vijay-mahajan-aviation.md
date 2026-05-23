@@ -5,8 +5,8 @@ name:
   sort: "Mahajan, Vijay (Wing Commander)"
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [military_officer, writer]
 nationality: india
 themes: []
 affiliations: []

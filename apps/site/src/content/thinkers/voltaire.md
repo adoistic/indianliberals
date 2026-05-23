@@ -4,9 +4,9 @@ name:
   canonical: "Voltaire"
   sort: "Voltaire"
   also_known_as: []
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [philosopher, writer]
 nationality: india
 themes: []
 affiliations: []

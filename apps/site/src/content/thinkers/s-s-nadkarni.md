@@ -5,8 +5,8 @@ name:
   sort: Nadkarni, S. S.
   also_known_as: []
 tradition: unclassified
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [civil_servant, economist]
 nationality: india
 themes: []
 affiliations: []

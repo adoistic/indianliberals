@@ -3,9 +3,9 @@ id: warren-hastings
 name:
   canonical: Warren Hastings
   sort: Hastings, Warren
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, civil_servant]
 nationality: india
 themes: []
 affiliations: []

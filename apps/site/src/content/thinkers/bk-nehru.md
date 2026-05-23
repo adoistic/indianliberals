@@ -3,9 +3,9 @@ id: bk-nehru
 name:
   canonical: BK Nehru
   sort: Nehru, BK
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [civil_servant, diplomat, writer]
 nationality: india
 themes: []
 affiliations: []

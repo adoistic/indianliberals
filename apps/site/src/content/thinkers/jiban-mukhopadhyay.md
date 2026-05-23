@@ -4,8 +4,8 @@ name:
   canonical: Jiban Mukhopadhyay
   sort: Mukhopadhyay, Jiban
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

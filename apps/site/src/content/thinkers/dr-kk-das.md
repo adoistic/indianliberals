@@ -3,8 +3,8 @@ id: dr-kk-das
 name:
   canonical: Dr. KK Das
   sort: Das, Dr. KK
-tradition: contemporary_liberal
-canon_status: unclassified
+tradition: classical_liberal
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

@@ -8,8 +8,8 @@ name:
     - धीमती सरोजिनी नायडू
     - सरोजिनी नायडू
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [poet, statesman, activist]
 nationality: india
 themes: []
 affiliations: []

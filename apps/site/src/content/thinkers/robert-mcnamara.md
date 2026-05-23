@@ -3,9 +3,9 @@ id: robert-mcnamara
 name:
   canonical: Robert McNamara
   sort: McNamara, Robert
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, industrialist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

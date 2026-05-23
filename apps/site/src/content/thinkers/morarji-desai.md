@@ -4,8 +4,8 @@ name:
   canonical: Morarji Desai
   sort: Desai, Morarji
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman]
 nationality: india
 themes: []
 affiliations: []

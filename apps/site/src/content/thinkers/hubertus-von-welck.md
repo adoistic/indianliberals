@@ -3,9 +3,9 @@ id: hubertus-von-welck
 name:
   canonical: Hubertus von Welck
   sort: Welck, Hubertus von
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [civil_servant]
 nationality: india
 themes: []
 affiliations: []

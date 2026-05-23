@@ -5,9 +5,9 @@ name:
   sort: Clark, Colin
   also_known_as:
     - Professor Colin Clark
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist]
 nationality: india
 themes: []
 affiliations: []

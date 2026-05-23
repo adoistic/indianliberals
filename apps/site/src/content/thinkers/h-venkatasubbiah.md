@@ -4,9 +4,9 @@ name:
   canonical: H. Venkatasubbiah
   sort: Venkatasubbiah, H.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, journalist]
 nationality: india
 themes: []
 affiliations: []

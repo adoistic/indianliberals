@@ -4,9 +4,9 @@ name:
   canonical: Gangadhar Gadgil
   sort: Gadgil, Gangadhar
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [writer, economist]
 nationality: india
 themes: []
 affiliations: []

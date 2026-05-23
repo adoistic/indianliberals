@@ -5,8 +5,8 @@ name:
   sort: "Hamid Ali, Shareefa"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [activist, reformer]
 nationality: india
 themes: []
 affiliations: []

@@ -4,8 +4,8 @@ name:
   canonical: "Harish Budhlani"
   sort: "Budhlani, Harish"
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
+tradition: classical_liberal
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

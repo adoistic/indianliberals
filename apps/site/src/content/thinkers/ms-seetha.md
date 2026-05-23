@@ -6,8 +6,8 @@ name:
   also_known_as:
     - Ms. Seetha
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [journalist, writer]
 nationality: india
 themes: []
 affiliations: []

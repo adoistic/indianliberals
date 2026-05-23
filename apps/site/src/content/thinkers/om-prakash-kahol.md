@@ -3,9 +3,9 @@ id: om-prakash-kahol
 name:
   canonical: Om Prakash Kahol
   sort: Kahol, Om Prakash
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [writer]
 nationality: india
 themes: []
 affiliations: []

@@ -7,8 +7,8 @@ name:
     - R K Amin
     - RK Amin
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

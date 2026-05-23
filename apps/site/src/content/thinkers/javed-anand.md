@@ -6,8 +6,8 @@ name:
   also_known_as:
     - જાવેદ આનંદ
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [journalist, activist]
 nationality: india
 themes: []
 affiliations: []

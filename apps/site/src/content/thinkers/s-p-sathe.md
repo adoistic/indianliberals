@@ -8,9 +8,9 @@ name:
     - SP Sathe
     - S.P. Sathe
     - Sathe
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [legal_scholar, professor, writer]
 nationality: india
 themes: []
 affiliations: []

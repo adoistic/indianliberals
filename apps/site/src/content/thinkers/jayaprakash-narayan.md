@@ -13,9 +13,9 @@ name:
     - जयप्रकाश नारायण
     - जे. पी. नारायण
     - জয়প্রকাশ নারায়ণ
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: extended
+vocations: [statesman, activist, writer]
 nationality: india
 themes: []
 affiliations: []

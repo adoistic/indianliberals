@@ -3,9 +3,9 @@ id: murarji-vaidya
 name:
   canonical: Murarji Vaidya
   sort: Vaidya, Murarji
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [writer, industrialist]
 nationality: india
 themes: []
 affiliations: []

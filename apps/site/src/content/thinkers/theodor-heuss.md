@@ -3,9 +3,9 @@ id: theodor-heuss
 name:
   canonical: Theodor Heuss
   sort: Heuss, Theodor
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: referenced
+vocations: [statesman, writer, journalist]
 nationality: india
 themes: []
 affiliations: []

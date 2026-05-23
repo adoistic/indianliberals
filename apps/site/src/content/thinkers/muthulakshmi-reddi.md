@@ -9,8 +9,8 @@ birth_year: 1886
 death_year: 1968
 nationality: india
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [reformer, activist, scientist]
 themes: ["womens_rights", "social_reform", "public_health"]
 affiliations: []
 bio_source: feature_article

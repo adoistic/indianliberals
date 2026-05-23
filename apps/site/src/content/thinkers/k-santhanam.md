@@ -5,8 +5,8 @@ name:
   sort: "Santhanam, K."
   also_known_as: []
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, writer, civil_servant]
 nationality: india
 themes: []
 affiliations: []

@@ -4,8 +4,8 @@ name:
   canonical: Frank Simoes
   sort: Simoes, Frank
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [writer, journalist]
 nationality: india
 themes: []
 affiliations: []

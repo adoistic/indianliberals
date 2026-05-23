@@ -4,8 +4,8 @@ name:
   canonical: "K. V. M. Pai"
   sort: "Pai, K. V. M."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
+tradition: classical_liberal
+canon_status: referenced
 vocations: []
 nationality: india
 themes: []

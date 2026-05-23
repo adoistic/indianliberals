@@ -6,9 +6,9 @@ name:
   full: Ram Boolchand Jethmalani
   also_known_as:
     - Jethmalani
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: referenced
+vocations: [legal_scholar, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

@@ -7,9 +7,9 @@ name:
   also_known_as:
     - General Ayub Khan
     - Field Marshal Ayub Khan
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [military_officer, statesman]
 nationality: india
 themes: []
 affiliations: []

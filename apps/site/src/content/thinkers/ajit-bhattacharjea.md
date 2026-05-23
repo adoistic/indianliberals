@@ -4,8 +4,8 @@ name:
   canonical: Ajit Bhattacharjea
   sort: Bhattacharjea, Ajit
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [journalist, editor]
 nationality: india
 themes: []
 affiliations: []

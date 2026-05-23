@@ -6,9 +6,9 @@ name:
   also_known_as:
     - Lokmanya Tilak
     - Tilak
-tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, editor, writer]
 nationality: india
 themes: []
 affiliations: []

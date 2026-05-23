@@ -5,8 +5,8 @@ name:
   sort: "Ranade, Mahadev Govind"
   also_known_as: []
 tradition: social_reformer
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [reformer, economist, judge]
 nationality: india
 themes: []
 affiliations: []

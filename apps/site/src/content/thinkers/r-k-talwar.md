@@ -4,9 +4,9 @@ name:
   canonical: "R. K. Talwar"
   sort: "Talwar, R. K."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: extended
+vocations: [civil_servant]
 nationality: india
 themes: []
 affiliations: []

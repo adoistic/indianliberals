@@ -5,8 +5,8 @@ name:
   sort: "Venkataraman, K."
   also_known_as: []
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist, civil_servant]
 nationality: india
 themes: []
 affiliations: []

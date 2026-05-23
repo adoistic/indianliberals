@@ -3,9 +3,9 @@ id: ludwig-erhard
 name:
   canonical: Ludwig Erhard
   sort: Erhard, Ludwig
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, economist]
 nationality: india
 themes: []
 affiliations: []

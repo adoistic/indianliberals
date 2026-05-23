@@ -4,9 +4,9 @@ name:
   canonical: Friedrich Hayek
   sort: Hayek, Friedrich
   full: Friedrich August von Hayek
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [philosopher, economist, professor]
 nationality: india
 themes: []
 affiliations: []

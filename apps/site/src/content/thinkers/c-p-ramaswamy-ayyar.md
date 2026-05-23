@@ -4,9 +4,9 @@ name:
   canonical: C. P. Ramaswamy Ayyar
   sort: Ayyar, C. P. Ramaswamy
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [statesman, civil_servant, legal_scholar]
 nationality: india
 themes: []
 affiliations: []

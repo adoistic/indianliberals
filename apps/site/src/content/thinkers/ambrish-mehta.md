@@ -6,8 +6,8 @@ name:
   also_known_as:
     - અંબરીષ મહેતા
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor]
 nationality: india
 themes: []
 affiliations: []

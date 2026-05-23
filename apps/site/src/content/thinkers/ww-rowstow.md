@@ -4,8 +4,8 @@ name:
   canonical: WW Rowstow
   sort: Rowstow, WW
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [economist, professor]
 nationality: india
 themes: []
 affiliations: []

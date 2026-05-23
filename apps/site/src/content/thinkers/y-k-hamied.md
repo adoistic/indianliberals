@@ -4,9 +4,9 @@ name:
   canonical: "Dr. Y. K. Hamied"
   sort: "Hamied, Y. K."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist, scientist]
 nationality: india
 themes: []
 affiliations: []

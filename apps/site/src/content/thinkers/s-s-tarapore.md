@@ -4,9 +4,9 @@ name:
   canonical: "S. S. Tarapore"
   sort: "Tarapore, S. S."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, civil_servant, writer]
 nationality: india
 themes: []
 affiliations: []

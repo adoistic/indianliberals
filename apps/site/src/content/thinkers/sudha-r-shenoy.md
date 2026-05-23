@@ -8,9 +8,9 @@ name:
 birth_year: 1943
 death_year: 2008
 nationality: india
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: libertarian
+canon_status: extended
+vocations: [economist, historian, professor]
 themes: ["austrian_economics", "economic_liberty", "monetary_theory"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:

@@ -7,8 +7,8 @@ name:
   also_known_as:
     - Sripati Chandrasekhar
 tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+canon_status: referenced
+vocations: [scientist, writer, statesman]
 nationality: india
 themes: []
 affiliations: []

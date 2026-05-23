@@ -4,9 +4,9 @@ name:
   canonical: Asghar Ali Engineer
   sort: Engineer, Asghar Ali
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: social_reformer
+canon_status: extended
+vocations: [reformer, writer, religious_figure]
 nationality: india
 themes: []
 affiliations: []

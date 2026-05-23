@@ -4,8 +4,8 @@ name:
   canonical: Humayun Kabir
   sort: Kabir, Humayun
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, writer, philosopher]
 nationality: india
 themes: []
 affiliations: []

@@ -6,9 +6,9 @@ name:
   full: Jagdish Natwarlal Bhagwati
   also_known_as:
     - Bhagwati
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [economist, professor, writer]
 nationality: india
 themes: []
 affiliations: []

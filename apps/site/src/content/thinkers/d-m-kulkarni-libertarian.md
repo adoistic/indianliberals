@@ -3,7 +3,7 @@ id: d-m-kulkarni-libertarian
 name:
   canonical: D. M. Kulkarni (Indian Libertarian)
   sort: Kulkarni, D. M.
-tradition: classical_liberal
+tradition: libertarian
 canon_status: unclassified
 vocations: []
 nationality: india

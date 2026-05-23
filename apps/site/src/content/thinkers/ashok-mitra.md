@@ -5,9 +5,9 @@ name:
   sort: Mitra, Ashok
   also_known_as:
     - अशोक मित्र
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [economist, writer, civil_servant]
 nationality: india
 themes: []
 affiliations: []

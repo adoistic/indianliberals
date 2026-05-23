@@ -4,9 +4,9 @@ name:
   canonical: R. M. Honavar
   sort: Honavar, R. M.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [economist, writer]
 nationality: india
 themes: []
 affiliations: []

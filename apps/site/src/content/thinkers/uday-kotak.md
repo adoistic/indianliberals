@@ -4,9 +4,9 @@ name:
   canonical: "Uday Kotak"
   sort: "Kotak, Uday"
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [entrepreneur, industrialist]
 nationality: india
 themes: []
 affiliations: []

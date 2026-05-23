@@ -10,8 +10,8 @@ name:
     - Mahomedali Currim Chagla
     - एम. सी. छागला
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [judge, diplomat, statesman]
 nationality: india
 themes: []
 affiliations: []

@@ -4,9 +4,9 @@ name:
   canonical: Ashima Goyal
   sort: Goyal, Ashima
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: contemporary_liberal
+canon_status: referenced
+vocations: [economist]
 nationality: india
 themes: []
 affiliations: []

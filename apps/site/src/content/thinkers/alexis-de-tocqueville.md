@@ -5,9 +5,9 @@ name:
   sort: Tocqueville, Alexis de
   also_known_as:
     - Tocqueville
-tradition: international_influence
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [philosopher, political_scientist, writer]
 nationality: india
 themes: []
 affiliations: []

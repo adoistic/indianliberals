@@ -4,9 +4,9 @@ name:
   canonical: C. K. Daphtary
   sort: Daphtary, C. K.
   also_known_as: []
-tradition: unclassified
-canon_status: unclassified
-vocations: []
+tradition: constitutional_liberal
+canon_status: extended
+vocations: [legal_scholar]
 nationality: india
 themes: []
 affiliations: []

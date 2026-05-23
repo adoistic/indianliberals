@@ -8,8 +8,8 @@ name:
     - Kanaiyalal Munshi
     - KM Munshi
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [statesman, writer, legal_scholar]
 nationality: india
 themes: []
 affiliations: []

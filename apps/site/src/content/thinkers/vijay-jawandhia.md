@@ -7,7 +7,7 @@ name:
     - विजय जावंधिया
 tradition: contemporary_liberal
 canon_status: unclassified
-vocations: []
+vocations: [activist]
 nationality: india
 themes: []
 affiliations: []

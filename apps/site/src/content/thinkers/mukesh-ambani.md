@@ -4,9 +4,9 @@ name:
   canonical: "Mukesh D. Ambani"
   sort: "Ambani, Mukesh D."
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: practice
+canon_status: referenced
+vocations: [industrialist]
 nationality: india
 themes: []
 affiliations: []

@@ -3,9 +3,9 @@ id: m-a-master
 name:
   canonical: M.A. Master
   sort: Master, M.A.
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: extended
+vocations: [industrialist, writer]
 nationality: india
 themes: []
 affiliations: []

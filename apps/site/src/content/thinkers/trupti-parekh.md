@@ -7,8 +7,8 @@ name:
     - તૃપ્તિ પારેખ
     - તૃષિ પારેખ
 tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+canon_status: extended
+vocations: [editor, writer]
 nationality: india
 themes: []
 affiliations: []

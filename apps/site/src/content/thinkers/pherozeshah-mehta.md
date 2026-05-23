@@ -5,8 +5,8 @@ name:
   sort: "Mehta, Pherozeshah"
   also_known_as: []
 tradition: constitutional_liberal
-canon_status: unclassified
-vocations: []
+canon_status: core
+vocations: [statesman, legal_scholar, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

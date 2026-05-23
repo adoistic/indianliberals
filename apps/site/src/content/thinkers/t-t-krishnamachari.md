@@ -7,9 +7,9 @@ name:
     - TTK
     - टी. टी. कृष्णमाचारी
     - कृष्णमाचारी
-tradition: classical_liberal
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [statesman, parliamentarian]
 nationality: india
 themes: []
 affiliations: []

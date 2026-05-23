@@ -4,9 +4,9 @@ name:
   canonical: "Ronald Meinardus"
   sort: "Meinardus, Ronald"
   also_known_as: []
-tradition: international_influence
+tradition: classical_liberal
 canon_status: unclassified
-vocations: []
+vocations: [political_scientist, writer]
 nationality: india
 themes: []
 affiliations: []

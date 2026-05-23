@@ -4,9 +4,9 @@ name:
   canonical: "Azizun Nisa"
   sort: "Nisa, Azizun"
   also_known_as: []
-tradition: social_reformer
-canon_status: unclassified
-vocations: []
+tradition: non_liberal
+canon_status: referenced
+vocations: [military_officer]
 nationality: india
 themes: []
 affiliations: []

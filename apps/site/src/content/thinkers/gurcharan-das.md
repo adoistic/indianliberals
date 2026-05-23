@@ -4,9 +4,9 @@ name:
   canonical: "Gurcharan Das"
   sort: "Das, Gurcharan"
   also_known_as: []
-tradition: contemporary_liberal
-canon_status: unclassified
-vocations: []
+tradition: classical_liberal
+canon_status: core
+vocations: [writer, industrialist, journalist]
 nationality: india
 themes: []
 affiliations: []
