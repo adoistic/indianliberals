@@ -69,21 +69,34 @@ def main() -> int:
         if d_m and d_m.group(1) == "true":
             n_draft += 1
 
-    # Confidence breakdown — parse reasoning-log.md if present
-    conf_counter: Counter = Counter()  # keys like "all-high", "1-medium-2-high", etc.
+    # Confidence breakdown — parse reasoning-log.md if present.
+    # The applier writes the log in APPEND mode (spec-prescribed: curators may
+    # diff across runs), so re-applies accumulate duplicate `## <id>` sections.
+    # Dedupe by thinker id, keeping the LATEST occurrence (most-recent confidence
+    # call wins). Without this, the per-record confidence breakdown inflates
+    # linearly with re-run count.
+    conf_per_id: dict[str, tuple[str, str, str]] = {}
     if REASONING_LOG.exists():
         for chunk in REASONING_LOG.read_text(encoding="utf-8").split("\n---\n"):
+            id_m = re.search(r"^## (\S+)", chunk, re.MULTILINE)
             # Format-coupled to apply-classify-thinkers.py:_format_log_chunk.
             # If that emitter changes its "**Confidence:**" line format, update here.
-            m = re.search(r"\*\*Confidence:\*\* canon_status=(\S+), tradition=(\S+), vocations=(\S+)", chunk)
-            if m:
-                vals = (m.group(1).rstrip(","), m.group(2).rstrip(","), m.group(3).rstrip(","))
-                if all(v == "high" for v in vals):
-                    conf_counter["all-high"] += 1
-                elif any(v == "low" for v in vals):
-                    conf_counter["any-low"] += 1
-                else:
-                    conf_counter["medium-mixed"] += 1
+            conf_m = re.search(r"\*\*Confidence:\*\* canon_status=(\S+), tradition=(\S+), vocations=(\S+)", chunk)
+            if id_m and conf_m:
+                conf_per_id[id_m.group(1)] = (
+                    conf_m.group(1).rstrip(","),
+                    conf_m.group(2).rstrip(","),
+                    conf_m.group(3).rstrip(","),
+                )
+
+    conf_counter: Counter = Counter()
+    for vals in conf_per_id.values():
+        if all(v == "high" for v in vals):
+            conf_counter["all-high"] += 1
+        elif any(v == "low" for v in vals):
+            conf_counter["any-low"] += 1
+        else:
+            conf_counter["medium-mixed"] += 1
 
     lines = []
     lines.append("# Thinkers classification — coverage report")
