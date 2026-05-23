@@ -7,6 +7,8 @@ name:
     - B. S. Sanyal
     - B.S. Sanyal
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

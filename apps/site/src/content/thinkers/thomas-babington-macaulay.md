@@ -8,6 +8,8 @@ name:
     - Lord Macaulay
     - T. B. Macaulay
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

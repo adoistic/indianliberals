@@ -12,7 +12,9 @@ name:
     - एम. एन. रॉय
     - এম. এন. রায়
     - মানবেন্দ্র নাথ রায়
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

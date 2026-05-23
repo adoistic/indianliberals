@@ -4,6 +4,8 @@ name:
   canonical: Ludwig Erhard
   sort: Erhard, Ludwig
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

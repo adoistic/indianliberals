@@ -4,6 +4,8 @@ name:
   canonical: DR Png Subramanian
   sort: Subramanian, DR Png
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

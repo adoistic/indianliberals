@@ -6,6 +6,8 @@ name:
   also_known_as:
     - Dr. Chanaka Amaratunga
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: BP Adarkar
   sort: Adarkar, BP
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

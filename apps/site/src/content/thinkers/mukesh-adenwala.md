@@ -4,6 +4,8 @@ name:
   canonical: Mukesh Adenwala
   sort: Adenwala, Mukesh
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: Anupam Mehta
   sort: Mehta, Anupam
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

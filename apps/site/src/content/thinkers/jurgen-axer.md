@@ -7,6 +7,8 @@ name:
     - Dr. Jürgen Axer
     - Dr. Jurgen Axer
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

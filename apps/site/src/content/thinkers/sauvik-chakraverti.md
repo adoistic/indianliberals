@@ -7,6 +7,8 @@ name:
 death_year: 2018
 nationality: india
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 themes: ["austrian_economics", "free_markets", "anti_state"]
 affiliations: []
 portrait:

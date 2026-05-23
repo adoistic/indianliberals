@@ -8,6 +8,8 @@ name:
     - Krishna Mohan Bandyopadhyay
     - কৃষ্ণমোহন বন্দ্যোপাধ্যায়
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

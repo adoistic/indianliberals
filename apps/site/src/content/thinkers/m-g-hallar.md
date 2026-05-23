@@ -8,6 +8,8 @@ name:
     - M.G. Hallar
     - M. G. Balier
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

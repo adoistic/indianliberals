@@ -11,7 +11,9 @@ name:
     - महात्मा गांधी
     - मोहनदास गांधी
     - मोहनदास करमचंद गांधी
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

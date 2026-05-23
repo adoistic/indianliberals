@@ -4,6 +4,8 @@ name:
   canonical: GR Parrikar And RG Katoti
   sort: Katoti, GR Parrikar And RG
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

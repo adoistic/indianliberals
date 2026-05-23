@@ -4,6 +4,8 @@ name:
   canonical: J. R. Marshall
   sort: Marshall, J. R.
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -5,6 +5,8 @@ name:
   sort: Lingle, Christopher
   full: Christopher Lingle
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

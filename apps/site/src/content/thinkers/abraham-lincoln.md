@@ -7,6 +7,8 @@ name:
     - Lincoln
     - अब्राहम लिंकन
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

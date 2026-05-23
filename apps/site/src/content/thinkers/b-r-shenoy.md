@@ -9,6 +9,8 @@ birth_year: 1905
 death_year: 1978
 nationality: india
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 themes: ["monetary_policy", "anti_planning", "free_trade", "austrian_economics"]
 affiliations: ["gujarat-university", "forum-of-free-enterprise", "mont-pelerin-society"]
 portrait:

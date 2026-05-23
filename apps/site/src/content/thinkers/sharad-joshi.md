@@ -9,6 +9,8 @@ birth_year: 1935
 death_year: 2015
 nationality: india
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 themes: ["agricultural_freedom", "free_markets", "peasant_rights"]
 affiliations: ["shetkari-sanghatana", "swatantra-bharat-paksha"]
 portrait:

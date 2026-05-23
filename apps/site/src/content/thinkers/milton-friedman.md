@@ -4,6 +4,8 @@ name:
   canonical: Milton Friedman
   sort: Friedman, Milton
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

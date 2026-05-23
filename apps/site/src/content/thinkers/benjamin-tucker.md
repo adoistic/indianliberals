@@ -9,6 +9,8 @@ name:
     - Benjamin R. Tucker
     - B. R. Tucker
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: usa
 themes: []
 affiliations: []

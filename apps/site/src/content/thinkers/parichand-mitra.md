@@ -7,6 +7,8 @@ name:
     - Parichand Mitra
     - প্যারীচাঁদ মিত্র
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -5,6 +5,8 @@ name:
   sort: Hayek, Friedrich
   full: Friedrich August von Hayek
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

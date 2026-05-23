@@ -4,6 +4,8 @@ name:
   canonical: Thakorelal Desai
   sort: Desai, Thakorelal
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

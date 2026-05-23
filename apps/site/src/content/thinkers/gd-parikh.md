@@ -4,6 +4,8 @@ name:
   canonical: GD Parikh
   sort: Parikh, GD
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

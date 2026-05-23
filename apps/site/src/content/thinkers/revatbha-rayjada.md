@@ -6,6 +6,8 @@ name:
   also_known_as:
     - "Revatubha Rayjada"
 tradition: unclassified
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

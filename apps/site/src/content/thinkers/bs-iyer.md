@@ -4,6 +4,8 @@ name:
   canonical: BS Iyer
   sort: Iyer, BS
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

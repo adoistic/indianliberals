@@ -5,6 +5,8 @@ name:
   sort: Palmer, Tom G.
   full: Tom Gordon Palmer
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -9,6 +9,8 @@ name:
     - Admiral L. Ramdas
     - Ramdas
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

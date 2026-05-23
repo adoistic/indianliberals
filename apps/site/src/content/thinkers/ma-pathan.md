@@ -4,6 +4,8 @@ name:
   canonical: MA Pathan
   sort: Pathan, MA
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

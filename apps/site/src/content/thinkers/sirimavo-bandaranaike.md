@@ -8,6 +8,8 @@ name:
     - Mrs Srimavo Bandaranaike
     - Srimavo Bandaranaike
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

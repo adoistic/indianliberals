@@ -4,6 +4,8 @@ name:
   canonical: Fazal-ur-Rahman
   sort: Rahman, Fazal-ur-
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: Ruth Benedict
   sort: Benedict, Ruth
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: DR Gvk Rao
   sort: Rao, DR Gvk
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

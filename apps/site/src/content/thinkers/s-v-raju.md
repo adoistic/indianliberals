@@ -9,6 +9,8 @@ birth_year: 1933
 death_year: 2015
 nationality: india
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 themes: ["classical_liberalism", "parliamentary_democracy", "free_enterprise"]
 affiliations: ["indian-liberal-group", "swatantra-party", "forum-of-free-enterprise"]
 portrait:

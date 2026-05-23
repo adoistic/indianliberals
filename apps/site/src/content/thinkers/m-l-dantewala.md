@@ -9,7 +9,9 @@ name:
     - Dantwala
     - Dantewala
     - दांतेवाला
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -7,7 +7,9 @@ name:
   also_known_as:
     - महाराणा प्रताप
     - महाराणा प्रताप सिंह
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

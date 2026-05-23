@@ -7,6 +7,8 @@ name:
     - K. D. Valicha
     - K.D. Valicha
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

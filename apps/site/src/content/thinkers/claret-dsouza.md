@@ -4,6 +4,8 @@ name:
   canonical: "Claret D'Souza"
   sort: "D'Souza, Claret"
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

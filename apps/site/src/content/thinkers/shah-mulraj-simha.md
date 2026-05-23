@@ -4,6 +4,8 @@ name:
   canonical: Shah Mulraj Simha
   sort: Simha, Shah Mulraj
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

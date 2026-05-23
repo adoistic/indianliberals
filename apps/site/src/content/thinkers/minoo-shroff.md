@@ -4,6 +4,8 @@ name:
   canonical: Minoo Shroff
   sort: Shroff, Minoo
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

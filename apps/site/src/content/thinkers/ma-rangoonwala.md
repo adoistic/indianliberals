@@ -4,6 +4,8 @@ name:
   canonical: MA Rangoonwala
   sort: Rangoonwala, MA
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

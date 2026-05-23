@@ -4,6 +4,8 @@ name:
   canonical: MH Mody
   sort: Mody, MH
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

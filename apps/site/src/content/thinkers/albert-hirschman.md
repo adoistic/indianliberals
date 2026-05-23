@@ -8,6 +8,8 @@ name:
     - Hirschman
     - हिर्षमन
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

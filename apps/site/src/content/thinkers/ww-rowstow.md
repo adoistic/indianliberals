@@ -4,6 +4,8 @@ name:
   canonical: WW Rowstow
   sort: Rowstow, WW
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

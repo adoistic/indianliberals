@@ -4,6 +4,8 @@ name:
   canonical: HP Ranina
   sort: Ranina, HP
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

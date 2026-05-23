@@ -4,6 +4,8 @@ name:
   canonical: Kishore Valicha
   sort: Valicha, Kishore
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

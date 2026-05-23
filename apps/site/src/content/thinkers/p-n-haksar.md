@@ -7,7 +7,9 @@ name:
   also_known_as:
     - PN Haksar
     - P N Haksar
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

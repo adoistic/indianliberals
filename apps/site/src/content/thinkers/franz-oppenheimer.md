@@ -4,6 +4,8 @@ name:
   canonical: Franz Oppenheimer
   sort: Oppenheimer, Franz
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

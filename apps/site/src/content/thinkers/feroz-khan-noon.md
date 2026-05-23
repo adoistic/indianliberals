@@ -4,6 +4,8 @@ name:
   canonical: Feroz Khan Noon
   sort: Noon, Feroz Khan
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -10,7 +10,9 @@ name:
     - M. C. Setalwad
     - Setalvad
     - Setalwad
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

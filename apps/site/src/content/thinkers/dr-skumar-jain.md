@@ -4,6 +4,8 @@ name:
   canonical: DR Skumar Jain
   sort: Jain, DR Skumar
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

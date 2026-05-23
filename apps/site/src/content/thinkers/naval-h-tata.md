@@ -5,6 +5,8 @@ name:
   sort: "Tata, Naval H."
   also_known_as: []
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

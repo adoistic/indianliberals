@@ -4,6 +4,8 @@ name:
   canonical: Khasa Subba Rau
   sort: Rau, Khasa Subba
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

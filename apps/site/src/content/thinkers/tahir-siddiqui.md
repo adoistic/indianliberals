@@ -4,6 +4,8 @@ name:
   canonical: Tahir Siddiqui
   sort: Siddiqui, Tahir
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

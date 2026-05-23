@@ -4,6 +4,8 @@ name:
   canonical: Amartya Sen
   sort: Sen, Amartya
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: Kusum Shrestha
   sort: Shrestha, Kusum
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -7,7 +7,9 @@ name:
     - BT Krishnamachari
     - B.T. Krishnamachari
     - बी.टी. कृष्णमाचारी
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

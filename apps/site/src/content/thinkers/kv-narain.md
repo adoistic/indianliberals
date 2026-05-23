@@ -4,6 +4,8 @@ name:
   canonical: KV Narain
   sort: Narain, KV
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: GV Ramakrishna
   sort: Ramakrishna, GV
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

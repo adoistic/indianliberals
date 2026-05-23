@@ -4,6 +4,8 @@ name:
   canonical: Sumati Morarjee
   sort: Morarjee, Sumati
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

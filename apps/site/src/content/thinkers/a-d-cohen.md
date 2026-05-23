@@ -4,6 +4,8 @@ name:
   canonical: A. D. Cohen
   sort: Cohen, A. D.
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

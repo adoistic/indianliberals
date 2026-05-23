@@ -4,6 +4,8 @@ name:
   canonical: MA Venkata Rao
   sort: Rao, MA Venkata
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

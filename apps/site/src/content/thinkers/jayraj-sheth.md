@@ -4,6 +4,8 @@ name:
   canonical: Jayraj Sheth
   sort: Sheth, Jayraj
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: Winston Churchill
   sort: Churchill, Winston
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

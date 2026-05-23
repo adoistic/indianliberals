@@ -5,6 +5,8 @@ name:
   sort: Desai, Amul
   also_known_as: []
 tradition: unclassified
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

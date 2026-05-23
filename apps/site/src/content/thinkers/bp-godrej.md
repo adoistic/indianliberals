@@ -4,6 +4,8 @@ name:
   canonical: BP Godrej
   sort: Godrej, BP
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

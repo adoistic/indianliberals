@@ -4,6 +4,8 @@ name:
   canonical: AK Chandra
   sort: Chandra, AK
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

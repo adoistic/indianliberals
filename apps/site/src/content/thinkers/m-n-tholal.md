@@ -4,6 +4,8 @@ name:
   canonical: M. N. Tholal
   sort: Tholal, M. N.
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

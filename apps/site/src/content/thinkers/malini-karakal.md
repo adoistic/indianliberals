@@ -4,6 +4,8 @@ name:
   canonical: Malini Karakal
   sort: Karakal, Malini
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

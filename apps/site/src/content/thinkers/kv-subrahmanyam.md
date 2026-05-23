@@ -4,6 +4,8 @@ name:
   canonical: KV Subrahmanyam
   sort: Subrahmanyam, KV
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -8,6 +8,8 @@ name:
     - Raja Radhakanta Deb
     - রাধাকান্ত দেব
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

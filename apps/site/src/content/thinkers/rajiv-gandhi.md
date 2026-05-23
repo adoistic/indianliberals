@@ -7,6 +7,8 @@ name:
     - राजीव गांधी
     - রাজীব গান্ধী
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

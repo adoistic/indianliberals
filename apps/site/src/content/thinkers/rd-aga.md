@@ -4,6 +4,8 @@ name:
   canonical: RD Aga
   sort: Aga, RD
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

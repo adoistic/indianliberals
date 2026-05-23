@@ -4,6 +4,8 @@ name:
   canonical: Adi Godrej
   sort: Godrej, Adi
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

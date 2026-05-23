@@ -9,6 +9,8 @@ name:
     - Vinoba
     - विनोबा भावे
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

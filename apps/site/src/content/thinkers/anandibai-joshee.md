@@ -4,7 +4,9 @@ name:
   canonical: "Anandibai Joshee"
   sort: "Joshee, Anandibai"
   also_known_as: []
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

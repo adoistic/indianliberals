@@ -4,6 +4,8 @@ name:
   canonical: T. Subbaya Shetty
   sort: Shetty, T. Subbaya
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

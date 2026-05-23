@@ -5,6 +5,8 @@ name:
   sort: Bauer, Peter
   full: Peter Thomas Bauer
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

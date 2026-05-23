@@ -4,6 +4,8 @@ name:
   canonical: Narayana Aiyar
   sort: Aiyar, Narayana
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

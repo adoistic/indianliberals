@@ -7,6 +7,8 @@ name:
     - Tarachand Chakraborty
     - তারাচাঁদ চক্রবর্তী
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

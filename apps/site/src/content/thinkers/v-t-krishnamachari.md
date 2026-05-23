@@ -8,7 +8,9 @@ name:
     - VT Krishnamachari
     - V T Krishnamachari
     - श्री वी. टी. कृष्णमाचारी
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

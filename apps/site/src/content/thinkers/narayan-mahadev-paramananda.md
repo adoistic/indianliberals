@@ -4,6 +4,8 @@ name:
   canonical: Narayan Mahadev Paramananda
   sort: Paramananda, Narayan Mahadev
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

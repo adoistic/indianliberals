@@ -7,7 +7,9 @@ name:
   also_known_as:
     - E.K. Janaki Ammal
     - जानकी अम्मल
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

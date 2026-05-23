@@ -8,6 +8,8 @@ name:
     - मार्क्स
     - कार्ल मार्क्स
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -8,7 +8,9 @@ name:
 birth_year: 1898
 death_year: 1981
 nationality: india
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 themes: ["womens_rights", "legal_reform", "civil_liberty"]
 affiliations: ["indian-liberal-group"]
 bio_source: feature_article

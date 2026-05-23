@@ -9,6 +9,8 @@ name:
     - Rokeya
     - বেগম রোকেয়া
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

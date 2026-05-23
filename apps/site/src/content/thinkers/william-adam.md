@@ -4,6 +4,8 @@ name:
   canonical: William Adam
   sort: Adam, William
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

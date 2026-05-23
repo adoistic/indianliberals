@@ -6,6 +6,8 @@ name:
   also_known_as: []
 nationality: india
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 themes: ["free_enterprise", "economic_policy"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:

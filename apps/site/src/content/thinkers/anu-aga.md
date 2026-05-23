@@ -4,6 +4,8 @@ name:
   canonical: Anu Aga
   sort: Aga, Anu
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

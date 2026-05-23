@@ -4,6 +4,8 @@ name:
   canonical: Nadir Godrej
   sort: Godrej, Nadir
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -10,6 +10,8 @@ name:
     - Rev. Malthus
     - माल्थस
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: uk
 themes: []
 affiliations: []

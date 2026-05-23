@@ -4,6 +4,8 @@ name:
   canonical: DR NA Swaminathan
   sort: Swaminathan, DR NA
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

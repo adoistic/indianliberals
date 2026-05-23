@@ -7,6 +7,8 @@ name:
     - John Kennedy
     - JFK
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

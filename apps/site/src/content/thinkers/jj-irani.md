@@ -4,6 +4,8 @@ name:
   canonical: JJ Irani
   sort: Irani, JJ
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

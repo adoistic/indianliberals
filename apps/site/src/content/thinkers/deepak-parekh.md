@@ -4,6 +4,8 @@ name:
   canonical: Deepak Parekh
   sort: Parekh, Deepak
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

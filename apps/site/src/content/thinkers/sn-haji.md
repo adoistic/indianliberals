@@ -4,6 +4,8 @@ name:
   canonical: SN Haji
   sort: Haji, SN
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

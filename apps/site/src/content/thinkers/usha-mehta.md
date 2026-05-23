@@ -5,7 +5,9 @@ name:
   sort: Mehta, Usha
   also_known_as:
     - Dr. Usha Mehta
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

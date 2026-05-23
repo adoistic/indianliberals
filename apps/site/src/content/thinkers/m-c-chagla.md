@@ -9,7 +9,9 @@ name:
     - M.C. Chagla
     - Mahomedali Currim Chagla
     - एम. सी. छागला
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

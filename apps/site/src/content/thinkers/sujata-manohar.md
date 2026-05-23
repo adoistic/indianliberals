@@ -4,6 +4,8 @@ name:
   canonical: Sujata Manohar
   sort: Manohar, Sujata
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: Ashok Desai
   sort: Desai, Ashok
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

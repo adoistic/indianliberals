@@ -4,6 +4,8 @@ name:
   canonical: BG Verghese
   sort: Verghese, BG
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

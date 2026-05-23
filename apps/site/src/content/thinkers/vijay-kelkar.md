@@ -7,6 +7,8 @@ name:
     - Dr. Vijay Kelkar
     - Vijay L. Kelkar
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

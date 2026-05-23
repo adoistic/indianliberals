@@ -4,6 +4,8 @@ name:
   canonical: Jiban Mukhopadhyay
   sort: Mukhopadhyay, Jiban
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

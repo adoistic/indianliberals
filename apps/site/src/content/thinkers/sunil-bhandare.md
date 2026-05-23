@@ -7,6 +7,8 @@ name:
     - Mr. Sunil S. Bhandare
     - Sunil Bhandare
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

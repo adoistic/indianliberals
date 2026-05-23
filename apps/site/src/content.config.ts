@@ -50,14 +50,12 @@ const thinkers = defineCollection({
     nationality: z.string().default('india'),
     tradition: z.enum([
       'classical_liberal',
-      'constitutional_liberal',  // NEW — will absorb nationalist_liberal entries in Chunk 2
+      'constitutional_liberal',
       'contemporary_liberal',
       'international_influence', // DEPRECATED but still accepted (sub-project 2 reclassifies)
-      'libertarian',             // NEW
-      'nationalist_liberal',     // DEPRECATED but still accepted in Chunk 1 (data still uses it; gets renamed in Chunk 2)
-      'non_liberal',             // NEW
-      'practice',                // NEW — for non-political figures (industrialists, scientists, etc.)
-      'reformer',                // DEPRECATED but still accepted in Chunk 1 (data still uses it; merged into social_reformer in Chunk 2)
+      'libertarian',
+      'non_liberal',
+      'practice',
       'social_reformer',
       'unclassified',
     ]),

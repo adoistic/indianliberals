@@ -8,7 +8,9 @@ name:
     - Tagore
     - রবীন্দ্রনাথ ঠাকুর
     - रवीन्द्रनाथ टैगोर
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

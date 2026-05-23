@@ -4,6 +4,8 @@ name:
   canonical: SH Batlivala
   sort: Batlivala, SH
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

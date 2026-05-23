@@ -4,6 +4,8 @@ name:
   canonical: Hubertus von Welck
   sort: Welck, Hubertus von
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

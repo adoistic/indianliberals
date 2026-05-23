@@ -4,6 +4,8 @@ name:
   canonical: M.A. Master
   sort: Master, M.A.
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

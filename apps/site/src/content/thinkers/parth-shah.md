@@ -9,6 +9,8 @@ name:
     - Dr. Parth J. Shah
     - डॉ. पार्थ जे. शाह
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

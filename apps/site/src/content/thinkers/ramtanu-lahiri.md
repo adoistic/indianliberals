@@ -6,6 +6,8 @@ name:
   also_known_as:
     - রামতনু লাহিড়ী
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -8,6 +8,8 @@ name:
     - General Ayub Khan
     - Field Marshal Ayub Khan
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

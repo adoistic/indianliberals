@@ -8,6 +8,8 @@ name:
     - J. M. Lobo Prabhu I.C.S. (Retd.)
     - Lobo Prabhu
 tradition: classical_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

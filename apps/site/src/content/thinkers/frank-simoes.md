@@ -4,6 +4,8 @@ name:
   canonical: Frank Simoes
   sort: Simoes, Frank
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

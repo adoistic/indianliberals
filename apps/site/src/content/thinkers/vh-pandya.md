@@ -4,6 +4,8 @@ name:
   canonical: VH Pandya
   sort: Pandya, VH
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

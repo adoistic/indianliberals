@@ -4,6 +4,8 @@ name:
   canonical: Theodor Heuss
   sort: Heuss, Theodor
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

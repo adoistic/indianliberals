@@ -10,7 +10,9 @@ name:
     - V.K. Krishna Menon
     - वी. के. कृष्ण मेनन
     - कृष्ण मेनन
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: SS Bhandare And JK Mukhopadhyay
   sort: Mukhopadhyay, SS Bhandare And JK
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

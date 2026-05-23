@@ -4,6 +4,8 @@ name:
   canonical: BK Nehru
   sort: Nehru, BK
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

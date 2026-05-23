@@ -5,6 +5,8 @@ name:
   sort: Shourie, Arun
   full: Arun Shourie
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

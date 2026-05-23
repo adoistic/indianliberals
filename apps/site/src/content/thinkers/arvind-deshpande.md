@@ -6,6 +6,8 @@ name:
   also_known_as:
     - Mr. Arvind Deshpande
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

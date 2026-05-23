@@ -3,7 +3,9 @@ id: morarji-desai
 name:
   canonical: Morarji Desai
   sort: Desai, Morarji
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

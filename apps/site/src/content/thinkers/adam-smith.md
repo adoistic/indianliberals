@@ -4,6 +4,8 @@ name:
   canonical: Adam Smith
   sort: Smith, Adam
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

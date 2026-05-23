@@ -4,6 +4,8 @@ name:
   canonical: DR AC Shah
   sort: Shah, DR AC
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -8,6 +8,8 @@ name:
     - Salvador Madariaga
     - Madariaga
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: spain
 themes: []
 affiliations: []

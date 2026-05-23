@@ -4,6 +4,8 @@ name:
   canonical: G N Lawande
   sort: Lawande, G N
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

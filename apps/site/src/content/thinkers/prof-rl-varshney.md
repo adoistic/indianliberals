@@ -4,6 +4,8 @@ name:
   canonical: Prof. RL Varshney
   sort: Varshney, Prof. RL
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

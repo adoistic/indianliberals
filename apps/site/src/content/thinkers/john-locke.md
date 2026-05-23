@@ -4,6 +4,8 @@ name:
   canonical: John Locke
   sort: Locke, John
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

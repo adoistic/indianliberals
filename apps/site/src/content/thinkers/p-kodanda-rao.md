@@ -4,6 +4,8 @@ name:
   canonical: P Kodanda Rao
   sort: Rao, P Kodanda
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

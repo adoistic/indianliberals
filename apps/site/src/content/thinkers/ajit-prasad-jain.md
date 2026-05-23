@@ -4,6 +4,8 @@ name:
   canonical: Ajit Prasad Jain
   sort: Jain, Ajit Prasad
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

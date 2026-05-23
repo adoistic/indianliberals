@@ -4,6 +4,8 @@ name:
   canonical: Ralph Borsodi
   sort: Borsodi, Ralph
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

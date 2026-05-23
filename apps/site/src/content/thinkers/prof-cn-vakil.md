@@ -4,6 +4,8 @@ name:
   canonical: Prof CN Vakil
   sort: Vakil, Prof CN
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

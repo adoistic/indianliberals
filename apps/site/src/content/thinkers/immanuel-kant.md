@@ -4,6 +4,8 @@ name:
   canonical: Immanuel Kant
   sort: Kant, Immanuel
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

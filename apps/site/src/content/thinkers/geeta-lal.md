@@ -4,6 +4,8 @@ name:
   canonical: Geeta Lal
   sort: Lal, Geeta
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

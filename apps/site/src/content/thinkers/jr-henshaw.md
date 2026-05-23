@@ -4,6 +4,8 @@ name:
   canonical: JR Henshaw
   sort: Henshaw, JR
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

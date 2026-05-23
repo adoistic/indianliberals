@@ -10,6 +10,8 @@ name:
     - महात्मा जोतीराव फुले
     - जोतीराव फुले
 tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

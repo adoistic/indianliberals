@@ -4,7 +4,9 @@ name:
   canonical: "Azizun Nisa"
   sort: "Nisa, Azizun"
   also_known_as: []
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -4,6 +4,8 @@ name:
   canonical: Hans Raj Khanna
   sort: Khanna, Hans Raj
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

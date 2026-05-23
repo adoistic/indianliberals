@@ -4,6 +4,8 @@ name:
   canonical: DN Hosali
   sort: Hosali, DN
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

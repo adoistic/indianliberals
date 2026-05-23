@@ -7,6 +7,8 @@ name:
     - Mao Tse-tung
     - Chairman Mao
 tradition: international_influence
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

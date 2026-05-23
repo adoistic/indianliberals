@@ -7,7 +7,9 @@ name:
     - Sarojini Devi
     - धीमती सरोजिनी नायडू
     - सरोजिनी नायडू
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

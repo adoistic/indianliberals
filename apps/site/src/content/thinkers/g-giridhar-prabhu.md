@@ -7,6 +7,8 @@ name:
     - Giridhar Prabhu
     - G Giridhar Prabhu
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

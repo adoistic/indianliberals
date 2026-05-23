@@ -9,6 +9,8 @@ name:
     - श्रीकांत अनंत उमरीकर
     - Shreekant Umarkar
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

@@ -7,6 +7,8 @@ name:
     - "Maj.Gen. (retd.) E. D'souza"
     - "Maj. Gen. E. D'Souza"
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

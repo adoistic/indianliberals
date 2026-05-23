@@ -9,7 +9,9 @@ name:
     - Pandit Nehru
     - जवाहरलाल नेहरू
     - पंडित नेहरू
-tradition: nationalist_liberal
+tradition: constitutional_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

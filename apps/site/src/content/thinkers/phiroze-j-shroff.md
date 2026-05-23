@@ -4,6 +4,8 @@ name:
   canonical: Phiroze J Shroff
   sort: Shroff, Phiroze J
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []

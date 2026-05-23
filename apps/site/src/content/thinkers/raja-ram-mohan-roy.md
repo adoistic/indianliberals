@@ -8,7 +8,9 @@ name:
 birth_year: 1772
 death_year: 1833
 nationality: india
-tradition: reformer
+tradition: social_reformer
+canon_status: unclassified
+vocations: []
 themes: ["social_reform", "religious_reform", "womens_rights", "free_press"]
 affiliations: ["brahmo-samaj"]
 portrait:

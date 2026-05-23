@@ -7,6 +7,8 @@ name:
     - Mr. Narayan Varma
     - Narayan Varma
 tradition: contemporary_liberal
+canon_status: unclassified
+vocations: []
 nationality: india
 themes: []
 affiliations: []
