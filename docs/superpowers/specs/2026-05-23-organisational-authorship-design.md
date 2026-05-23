@@ -80,6 +80,8 @@ const authorEntries = (fm.authors ?? [])
   .filter((t): t is NonNullable<typeof t> => !!t);
 ```
 
+Note the `(ref as unknown as string)` fallback — this is a defensive cast from before Astro's `reference()` had a stable `.id` shape. After the schema change to `z.union([reference('thinkers'), reference('organisations')])`, the resolved type carries both `.id` and `.collection` reliably. **The implementer must remove the `(ref as unknown as string)` fallback** as part of this change — leaving it in would silently swallow org references that the union resolves but the thinker-only fallback can't handle.
+
 Replace with a discriminated lookup:
 
 ```ts
@@ -131,9 +133,19 @@ const authorSlugs = authorEntries
   .map((e) => e.id);
 ```
 
-### 5.3 Code change (`primary-works/index.astro`)
+### 5.3 No change to `primary-works/index.astro`
 
-The card list currently does not appear to render author bylines (per the spot-check). If a reviewer confirms cards do render bylines, the same discriminated-lookup pattern lands there too. Otherwise no change to this file.
+The card-list page does render a byline, but it reads from `contributors[].role === 'author'` (with `thinker_unresolved` fallback), not from `authors[]`:
+
+```ts
+const byline = (w.data.contributors ?? [])
+  .filter((c) => c.role === "author")
+  .map((c) => c.thinker_unresolved || (c.thinker as { id?: string } | undefined)?.id || "")
+  .filter(Boolean)
+  .join(", ");
+```
+
+Since organisational authorship lives in `authors[]`, not `contributors[]`, the card list will not surface org authors regardless. No change to this file. (A future spec that brings the card byline in line with the detail-page byline would extend the discriminated-lookup pattern here too, but that is not in scope.)
 
 ### 5.4 Accessibility
 
@@ -236,7 +248,7 @@ Required: clean build, ~1185 pages (no net change in page count from this work �
 1. `/primary-works/khoj-march-april-2005/` — byline reads "By Rajesh Mishra, Trupti Parekh, …, PUCL Gujarat *[organisation pill]*, Yogendra Mankad, …". Click "PUCL Gujarat" → `/organisations/pucl-gujarat/` renders.
 2. `/organisations/pucl-gujarat/` — page renders, eyebrow / title display correctly.
 3. `/thinkers/pucl-gujarat/` — 404 (the thinker MD is gone).
-4. Regression: `/primary-works/khoj-march-april-2006/` — byline still renders correctly with `revatbha-rayjada` as a forest-green person link (this is yesterday's merged-duplicate entry; it must keep working).
+4. Regression set: visit all 4 Khoj-March-April pages — `/primary-works/khoj-march-april-2005/`, `/primary-works/khoj-march-april-2006/`, `/primary-works/khoj-march-april-2007/`, `/primary-works/khoj-march-april-2008/`. Each must render `revatbha-rayjada` as a forest-green person link (this is yesterday's merged-duplicate entry; it must keep working across all four issues).
 
 **No unit tests.** The schema change is declarative; the UI change is visual; the migration is a one-time move. The build + 4 spot-checks are the full verification surface.
 
@@ -250,8 +262,8 @@ Three independently-buildable commits, in this order:
    - Build still passes (no data references an organisation in `authors[]` yet, but the schema accepts the case).
 
 2. `feat(ui): byline distinguishes organisational authors with saffron pill`
-   - `apps/site/src/pages/primary-works/[slug].astro` — dual-lookup + discriminated render.
-   - `apps/site/src/pages/primary-works/index.astro` — same change only if cards render authors (reviewer decides during implementation).
+   - `apps/site/src/pages/primary-works/[slug].astro` — dual-lookup + discriminated render; remove the `(ref as unknown as string)` defensive cast.
+   - No change to `apps/site/src/pages/primary-works/index.astro` per §5.3 (card byline reads from `contributors[]`, not `authors[]`).
 
 3. `data: migrate pucl-gujarat from thinkers to organisations`
    - Delete `apps/site/src/content/thinkers/pucl-gujarat.md`.
@@ -260,6 +272,8 @@ Three independently-buildable commits, in this order:
    - Build passes (the schema from commit 1 now resolves the bare slug to the organisations collection); the §5.1 visual treatment from commit 2 takes effect on the Khoj 2005 page.
 
 If any commit fails its build, fix or revert before proceeding to the next.
+
+**Commit-ordering note:** commits 1 and 2 are safe to land without commit 3 — the build will pass because the schema accepts both arms and the UI's org-arm lookup will gracefully drop unresolved org refs (same filter pattern as the existing thinker lookup). But during that interval, `pucl-gujarat` is still a thinker on disk while `authors[]` resolves the slug via the union — the union's first arm (thinkers) wins, so the byline renders PUCL Gujarat as a person link with the forest-green colour, not as an org with the saffron pill. The visual treatment only takes effect after commit 3 retires the thinker stub. This is intentional and not a regression; the merged commit set produces the final state.
 
 ## 10. Acceptance criteria
 
