@@ -5,7 +5,7 @@ title:
   subtitle: ""
 work_type: speech
 authors:
-  - bk-nehru-cn
+  - bk-nehru
 editors: []
 contributors: []
 related_thinkers: 
