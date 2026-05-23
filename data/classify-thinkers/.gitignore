@@ -1,0 +1,11 @@
+# Pipeline artifacts — regenerable from scripts + spec.
+*.jsonl
+output-*.json
+pilot-output.json
+pilot-diff-report.md
+reasoning-log.md
+
+# Explicitly tracked (curator contributions):
+!pilot-ground-truth.json
+!coverage-report.md
+!.gitignore

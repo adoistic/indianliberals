@@ -1,0 +1,212 @@
+[
+  {
+    "id": "friedrich-hayek",
+    "_note": "anchor (in prompt) — foreign core classical liberal",
+    "canon_status": "core",
+    "tradition": "classical_liberal",
+    "vocations": ["philosopher", "economist", "professor"]
+  },
+  {
+    "id": "c-rajagopalachari",
+    "_note": "anchor (in prompt) — core classical liberal multi-vocation",
+    "canon_status": "core",
+    "tradition": "classical_liberal",
+    "vocations": ["statesman", "writer", "journalist"]
+  },
+  {
+    "id": "dadabhai-naoroji",
+    "_note": "anchor (in prompt) — core constitutional liberal multi-vocation",
+    "canon_status": "core",
+    "tradition": "constitutional_liberal",
+    "vocations": ["statesman", "economist", "writer"]
+  },
+  {
+    "id": "raja-ram-mohan-roy",
+    "_note": "anchor (in prompt) — core social reformer multi-vocation",
+    "canon_status": "core",
+    "tradition": "social_reformer",
+    "vocations": ["reformer", "writer", "religious_figure"]
+  },
+  {
+    "id": "jrd-tata",
+    "_note": "anchor (in prompt) — extended practice single-vocation",
+    "canon_status": "extended",
+    "tradition": "practice",
+    "vocations": ["industrialist"]
+  },
+  {
+    "id": "hans-raj-khanna",
+    "_note": "anchor (in prompt) — extended constitutional liberal single-vocation judge",
+    "canon_status": "extended",
+    "tradition": "constitutional_liberal",
+    "vocations": ["judge"]
+  },
+  {
+    "id": "mukesh-ambani",
+    "_note": "anchor (in prompt) — referenced practice non-political",
+    "canon_status": "referenced",
+    "tradition": "practice",
+    "vocations": ["industrialist"]
+  },
+  {
+    "id": "jawaharlal-nehru",
+    "_note": "anchor (in prompt) — referenced non_liberal (not endorsement)",
+    "canon_status": "referenced",
+    "tradition": "non_liberal",
+    "vocations": ["statesman", "writer"]
+  },
+  {
+    "id": "ludwig-von-mises",
+    "_note": "validation-only — foreign core libertarian (the rubric's own eponym for libertarian; Austrian-school property-rights absolutism)",
+    "canon_status": "core",
+    "tradition": "libertarian",
+    "vocations": ["economist", "philosopher"]
+  },
+  {
+    "id": "benjamin-tucker",
+    "_note": "validation-only — canonical libertarian; only 1 corpus mention so referenced not core",
+    "canon_status": "referenced",
+    "tradition": "libertarian",
+    "vocations": ["philosopher", "editor", "writer"]
+  },
+  {
+    "id": "amartya-sen",
+    "_note": "validation-only — core contemporary liberal",
+    "canon_status": "core",
+    "tradition": "contemporary_liberal",
+    "vocations": ["economist", "philosopher", "professor"]
+  },
+  {
+    "id": "bhimrao-ambedkar",
+    "_note": "validation-only — core; subject essay 'Social Reform Failure of Indian Liberalism' supports social_reformer over constitutional_liberal",
+    "canon_status": "core",
+    "tradition": "social_reformer",
+    "vocations": ["legal_scholar", "statesman", "economist", "reformer"]
+  },
+  {
+    "id": "jyotirao-phule",
+    "_note": "validation-only — core social reformer #2",
+    "canon_status": "core",
+    "tradition": "social_reformer",
+    "vocations": ["reformer", "writer", "activist"]
+  },
+  {
+    "id": "b-r-shenoy",
+    "_note": "validation-only — core classical liberal (subject essay 'India's first neoliberal' + 10+ authored primary-works)",
+    "canon_status": "core",
+    "tradition": "classical_liberal",
+    "vocations": ["economist", "professor", "writer"]
+  },
+  {
+    "id": "m-c-setalvad",
+    "_note": "validation-only — extended constitutional liberal #2",
+    "canon_status": "extended",
+    "tradition": "constitutional_liberal",
+    "vocations": ["legal_scholar", "civil_servant", "writer"]
+  },
+  {
+    "id": "pratap-bhanu-mehta",
+    "_note": "validation-only — extended contemporary liberal",
+    "canon_status": "extended",
+    "tradition": "contemporary_liberal",
+    "vocations": ["political_scientist", "writer", "professor", "editor"]
+  },
+  {
+    "id": "mahadev-govind-ranade",
+    "_note": "validation-only — core social reformer (3 subject essays: 'on Revival and Reform', 'on Wealth Creation', 'Ramabai Ranade')",
+    "canon_status": "core",
+    "tradition": "social_reformer",
+    "vocations": ["reformer", "judge", "economist", "writer"]
+  },
+  {
+    "id": "a-p-j-abdul-kalam",
+    "_note": "validation-only — referenced practice (only 1 corpus mention; not engaged as liberal voice but practice is the right tradition for a state technocrat)",
+    "canon_status": "referenced",
+    "tradition": "practice",
+    "vocations": ["scientist", "engineer", "statesman", "writer"]
+  },
+  {
+    "id": "m-n-roy",
+    "_note": "validation-only — referenced Marxist (later radical humanist)",
+    "canon_status": "referenced",
+    "tradition": "non_liberal",
+    "vocations": ["philosopher", "activist", "writer", "political_scientist"]
+  },
+  {
+    "id": "bal-gangadhar-tilak",
+    "_note": "validation-only — referenced Hindu-nationalist-adjacent",
+    "canon_status": "referenced",
+    "tradition": "non_liberal",
+    "vocations": ["statesman", "journalist", "writer", "activist"]
+  },
+  {
+    "id": "indira-gandhi",
+    "_note": "validation-only — referenced non_liberal authoritarian-statist",
+    "canon_status": "referenced",
+    "tradition": "non_liberal",
+    "vocations": ["statesman", "parliamentarian"]
+  },
+  {
+    "id": "azim-premji",
+    "_note": "validation-only — referenced practice industrialist #2",
+    "canon_status": "referenced",
+    "tradition": "practice",
+    "vocations": ["industrialist", "entrepreneur"]
+  },
+  {
+    "id": "nandan-nilekani",
+    "_note": "validation-only — referenced practice tech entrepreneur",
+    "canon_status": "referenced",
+    "tradition": "practice",
+    "vocations": ["entrepreneur", "engineer", "writer"]
+  },
+  {
+    "id": "mahatma-gandhi",
+    "_note": "validation-only — referenced (43 corpus mentions, treated as backdrop/contested figure); tradition unclassified because he straddles social_reformer / non_liberal / practice cells",
+    "canon_status": "referenced",
+    "tradition": "unclassified",
+    "vocations": ["activist", "reformer", "writer", "statesman"]
+  },
+  {
+    "id": "rabindranath-tagore",
+    "_note": "validation-only — extended (13 corpus mentions, anchored by Ranganathan's two essays); tradition unclassified given his cosmopolitan/anti-nationalist stance straddles social_reformer and contemporary_liberal",
+    "canon_status": "extended",
+    "tradition": "unclassified",
+    "vocations": ["poet", "writer", "artist", "reformer"]
+  },
+  {
+    "id": "nani-palkhivala",
+    "_note": "validation-only — towering constitutional lawyer + Forum of Free Enterprise",
+    "canon_status": "core",
+    "tradition": "constitutional_liberal",
+    "vocations": ["legal_scholar", "writer", "diplomat"]
+  },
+  {
+    "id": "m-c-chagla",
+    "_note": "validation-only — extended constitutional liberal judge+diplomat profile",
+    "canon_status": "extended",
+    "tradition": "constitutional_liberal",
+    "vocations": ["judge", "diplomat", "statesman", "writer"]
+  },
+  {
+    "id": "minoo-masani",
+    "_note": "validation-only — Swatantra Party classical liberal",
+    "canon_status": "core",
+    "tradition": "classical_liberal",
+    "vocations": ["statesman", "writer", "parliamentarian"]
+  },
+  {
+    "id": "gopal-krishna-gokhale",
+    "_note": "validation-only — canonical constitutional liberal (Gandhi's mentor)",
+    "canon_status": "core",
+    "tradition": "constitutional_liberal",
+    "vocations": ["statesman", "reformer", "writer", "economist"]
+  },
+  {
+    "id": "gurcharan-das",
+    "_note": "validation-only — contemporary liberal author/commentator",
+    "canon_status": "extended",
+    "tradition": "contemporary_liberal",
+    "vocations": ["writer", "entrepreneur", "journalist"]
+  }
+]
