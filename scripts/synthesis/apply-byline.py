@@ -56,7 +56,7 @@ def _yaml_str(s: str) -> str:
     if s is None:
         return '""'
     s = str(s)
-    needs = any(c in s for c in ":#&*!|>'\"%@`{}[]\n\r\t") or (s and s[0] in "-?:") or s.endswith(" ")
+    needs = not s or any(c in s for c in ":#&*!|>'\"%@`{}[]\n\r\t") or (s and s[0] in "-?:") or s.endswith(" ")
     if needs:
         esc = s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n")
         return f'"{esc}"'
@@ -85,10 +85,10 @@ def _emit_contributors_block(items: list[dict]) -> str:
 def _emit_resolution_block(res: dict) -> str:
     """Emit the authors_resolution block."""
     lines = ["authors_resolution:"]
-    if res.get("confidence"):
-        lines.append(f'  confidence: {res["confidence"]}')
-    if res.get("method"):
-        lines.append(f'  method: {res["method"]}')
+    # Always emit confidence and method so a curator filtering on these fields
+    # sees an explicit YAML null for unresolved entries, not silent absence.
+    lines.append(f'  confidence: {res["confidence"]}' if res.get("confidence") else "  confidence:")
+    lines.append(f'  method: {res["method"]}' if res.get("method") else "  method:")
     for key in ("proposed_unknowns", "stubs_created", "stubs_referenced", "collisions_logged"):
         vals = res.get(key) or []
         if not vals:
@@ -103,7 +103,7 @@ def _emit_resolution_block(res: dict) -> str:
 # Frontmatter mutation ─────────────────────────────────────────────────
 
 def _replace_or_append_line(fm: str, key: str, value_line: str) -> str:
-    rx = re.compile(rf"^{re.escape(key)}:[ \t]*\S.*$", re.M)
+    rx = re.compile(rf"^{re.escape(key)}:.*$", re.M)
     if rx.search(fm):
         return rx.sub(value_line, fm, count=1)
     if not fm.endswith("\n"):
@@ -515,10 +515,12 @@ needs_review: false
 draft: false
 ---
 """
-    orig_pw, orig_th = PW_DIR, THINKERS_DIR
+    global COLLISIONS_LOG
+    orig_pw, orig_th, orig_cl = PW_DIR, THINKERS_DIR, COLLISIONS_LOG
     with tempfile.TemporaryDirectory() as td:
         PW_DIR = Path(td) / "primary-works"
         THINKERS_DIR = Path(td) / "thinkers"
+        COLLISIONS_LOG = Path(td) / "collisions.log"
         PW_DIR.mkdir()
         THINKERS_DIR.mkdir()
         (PW_DIR / "collision-test.md").write_text(sample_md_c)
@@ -561,7 +563,7 @@ draft: false
             assert "    - real-person" in new
             assert any("COLLISION" in l for l in log_d), log_d
         finally:
-            PW_DIR, THINKERS_DIR = orig_pw, orig_th
+            PW_DIR, THINKERS_DIR, COLLISIONS_LOG = orig_pw, orig_th, orig_cl
 
     print("apply-byline tests passed.")
 

@@ -196,25 +196,29 @@ Discovered and fixed during integration testing (see "Chunks Requiring >1 Review
 
 ---
 
-## Open Items for Adnan Attention
+## Decisions Taken in the Manual-Review Pass (after the overnight run)
 
-1. **Coverage shortfall (87% vs 97% target)** — see "Coverage gap analysis" below. The 48 unresolved entries are mostly institutional documents that legitimately have no personal author byline. Whether to:
-   - Mark them as institutional/anonymous (add new field), OR
-   - Accept them as permanently `authors: []` with `needs_review: true`, OR
-   - Do a Phase 2 pass that allows organisational entities as "authors" (would require schema changes)
+1. **Rayjada duplicate — MERGED.** `revatbha-rayjada` (3-of-4 Khoj issues) is canonical; `revatubha-rayjada` (only the 2006 issue) was the same person under a different transliteration. The 2006 Khoj primary-work was re-pointed to `revatbha-rayjada`, "Revatubha Rayjada" added as an alias under `name.also_known_as`, the duplicate thinker MD removed, and the source vision-output JSON updated so a re-run preserves the merge.
 
-   This is a product decision.
+2. **`pucl-gujarat` — left as thinker stub for now.** Moving it to `apps/site/src/content/organisations/` would break the linked primary-work's `authors[]` reference (schema requires a thinker slug). The cleaner fix needs a schema change to allow organisational entities as authors, which is out of scope. `needs_review: true` flags it for curator attention. Flagged in "Open items" below.
 
-2. **Duplicate stub candidates:** `revatbha-rayjada` vs `revatubha-rayjada` may be the same Marathi farmer-activist with two transliterations. Curator should verify and merge if duplicate.
+3. **`onlooker`, `peregrine` — kept as thinker stubs.** These are pseudonyms used in 1950s–60s Forum-of-Free-Enterprise opinion columns. Single-word canonical names already signal pseudonymity; `needs_review: true` flags them. Curator can merge to real attribution later if one is known.
 
-3. **Organisational stub:** `pucl-gujarat` is an organisation (People's Union for Civil Liberties, Gujarat chapter), not a person. The stub MD at `apps/site/src/content/thinkers/pucl-gujarat.md` should be moved to `apps/site/src/content/organisations/` and the linked primary-works re-pointed.
+4. **Three latent code issues — FIXED** (inert in current data, but cheap insurance):
+   - `_yaml_str("")` now correctly returns `""` instead of a bare empty scalar.
+   - `_emit_resolution_block` now unconditionally emits `confidence:` / `method:` (explicit YAML null when absent) so a curator filter on those keys won't silently skip unresolved entries.
+   - `_replace_or_append_line` regex broadened to `^{key}:.*$` so a bare `needs_review:` (no value) would correctly be replaced rather than producing a duplicate key on re-run.
+   - Bonus: the collision-detection test cases were redirecting `PW_DIR`/`THINKERS_DIR` to temp paths but writing to the real `COLLISIONS_LOG` file. Now redirects all three. (Fixed twice-observed test-artefact pollution.)
 
-4. **Pseudonymous bylines:** `onlooker` and `peregrine` are pseudonyms used in 1950s–60s LIC critique columns. Stubs were created so the works are linkable, but curator should decide whether to merge to a known real-name attribution if available in the archive.
+5. **Coverage gap (87% vs 97% target) — ACCEPTED as the realistic ceiling.** The 48 unresolved entries (25 Khoj periodicals, 5 Liberal Budget reports, 5 FFE manifestos, 4 party documents, 3 Marathi institutional docs, 6 anonymous) legitimately have no personal byline. Closing the gap would require a schema change to allow organisations as `authors[]`, which is out of scope. `needs_review: true` is set on all 48, and `curator-queue.md` lists them. Recommendation: re-spec the acceptance criterion in the byline-resolution spec to 87-92% to reflect corpus reality, or queue a Phase 2 schema change to allow organisational authorship.
 
-5. **Latent code issues (inert in current data):**
-   - `_yaml_str("")` in `apply-byline.py` returns a bare empty string instead of `""`. Latent — no empty strings appear in current data. One-line fix when convenient.
-   - `_emit_resolution_block` in `apply-byline.py` conditionally emits `confidence`/`method` keys (would omit on null). Latent — all 178 touched entries carry both values. Fix would be a one-line change to emit explicit YAML null on absence.
-   - `_replace_or_append_line` in `apply-byline.py` won't match a bare `key:` (no value). Latent — no bare keys exist in the current primary-works templates.
+## Still Open for Adnan Attention
+
+1. **`pucl-gujarat`** — currently a thinker stub but is actually an organisation. Resolution requires schema change to `primaryWorks.authors[]` (allow organisation slugs) OR a manual curator step (remove from authors[], add organisation, create organisations/pucl-gujarat.md). Deliberately not done tonight because the schema-change path is the correct one and is out of scope.
+
+2. **Pseudonyms** — `onlooker` and `peregrine` are stubs that capture the works correctly, but if anyone in CCS/research knows the real authors behind those mid-century FFE bylines, the stubs can be retired in favour of merged identities.
+
+3. **Coverage acceptance criterion** — the spec's 97% target should be re-calibrated to 87–92% (the realistic ceiling) or the schema extended to allow institutional authorship.
    - Schema declares `confidence` and `method` as `.optional()` inside `authors_resolution` — spec-locked, but a partial-write would leave the block in an unverifiable state. No current data hits this case.
 
 6. **Spec target re-calibration:** The 97% coverage target in the spec was set without accounting for ~30-40 institutional documents in the corpus that legitimately have no personal author. A realistic ceiling under the current schema (which requires a person for `authors[]`) is closer to 89-92%.

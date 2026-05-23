@@ -9,7 +9,7 @@ authors:
   - parth-shah
   - sauvik-chakraverti
   - rabindranath-tagore
-  - revatubha-rayjada
+  - revatbha-rayjada
   - yogendra-mankad
   - manjula-dabhi
   - asghar-ali-engineer
@@ -64,13 +64,13 @@ authors_resolution:
   confidence: high
   method: vision
   proposed_unknowns:
-    - Revatubha Rayjada
+    - Revatbha Rayjada
     - Yogendra Mankad
     - Manjula Dabhi
     - Asghar Ali Engineer
   stubs_created: []
   stubs_referenced:
-    - revatubha-rayjada
+    - revatbha-rayjada
     - yogendra-mankad
     - manjula-dabhi
     - asghar-ali-engineer

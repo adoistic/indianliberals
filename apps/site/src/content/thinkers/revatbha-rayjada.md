@@ -3,7 +3,8 @@ id: revatbha-rayjada
 name:
   canonical: Revatbha Rayjada
   sort: Rayjada, Revatbha
-  also_known_as: []
+  also_known_as:
+    - "Revatubha Rayjada"
 tradition: unclassified
 nationality: india
 themes: []
