@@ -12,6 +12,7 @@ import {
   DEFAULT_LOCALE,
   type LangCode,
 } from "~/lib/i18n";
+import { resolveAuthorEntries } from "~/lib/resolve-author-entries";
 
 export async function getStaticPaths() {
   const works = await getCollection(
@@ -40,26 +41,7 @@ const hreflang = hreflangAlternates(
 
 // Byline rendering ported from English template for organisational-authorship support (spec 2026-05-23).
 // Scope is byline-only — PeopleInPiece / RelatedSection / Themes / Pull quotes intentionally not ported here.
-const allThinkers = await getCollection("thinkers");
-const allOrgs = await getCollection("organisations");
-const thinkersById = new Map(allThinkers.map((t) => [t.id, t]));
-const orgsById = new Map(allOrgs.map((o) => [o.id, o]));
-
-type AuthorEntry =
-  | { kind: "thinker"; id: string; name: string }
-  | { kind: "organisation"; id: string; name: string };
-
-const authorEntries: AuthorEntry[] = (fm.authors ?? [])
-  .map((ref): AuthorEntry | null => {
-    const id = ref.id;
-    if (ref.collection === "organisations") {
-      const o = orgsById.get(id);
-      return o ? { kind: "organisation", id, name: o.data.name.canonical } : null;
-    }
-    const t = thinkersById.get(id);
-    return t ? { kind: "thinker", id, name: t.data.name.canonical } : null;
-  })
-  .filter((e): e is AuthorEntry => !!e);
+const authorEntries = await resolveAuthorEntries(fm.authors, w.id);
 
 const bylineFallback = (fm.contributors ?? [])
   .filter((c) => c.role === "author")

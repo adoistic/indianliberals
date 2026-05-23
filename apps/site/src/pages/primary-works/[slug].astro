@@ -12,6 +12,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import { resolveAuthorEntries, type AuthorEntry } from "~/lib/resolve-author-entries";
 import RelatedSection from "~/components/RelatedSection.astro";
 import PeopleInPiece from "~/components/PeopleInPiece.astro";
 
@@ -36,26 +37,7 @@ const hreflang = hreflangAlternates(
 );
 
 // Pull resolved author thinker entries for byline + bio links.
-const allThinkers = await getCollection("thinkers");
-const allOrgs = await getCollection("organisations");
-const thinkersById = new Map(allThinkers.map((t) => [t.id, t]));
-const orgsById = new Map(allOrgs.map((o) => [o.id, o]));
-
-type AuthorEntry =
-  | { kind: "thinker"; id: string; name: string }
-  | { kind: "organisation"; id: string; name: string };
-
-const authorEntries: AuthorEntry[] = (fm.authors ?? [])
-  .map((ref): AuthorEntry | null => {
-    const id = ref.id;
-    if (ref.collection === "organisations") {
-      const o = orgsById.get(id);
-      return o ? { kind: "organisation", id, name: o.data.name.canonical } : null;
-    }
-    const t = thinkersById.get(id);
-    return t ? { kind: "thinker", id, name: t.data.name.canonical } : null;
-  })
-  .filter((e): e is AuthorEntry => !!e);
+const authorEntries = await resolveAuthorEntries(fm.authors, w.id);
 
 // Byline string for the header / meta description when no resolved authors.
 const bylineFallback = (fm.contributors ?? [])
