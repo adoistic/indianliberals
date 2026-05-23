@@ -77,7 +77,6 @@ authors_resolution:
   stubs_created: []
   stubs_referenced:
     - revatbha-rayjada
-    - pucl-gujarat
     - yogendra-mankad
     - manjula-dabhi
     - asghar-ali-engineer
