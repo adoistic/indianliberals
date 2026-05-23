@@ -64,12 +64,12 @@ Calibration target across a batch of ~50: roughly 60-70% high, 20-30% medium, 5-
 
 # Worked examples
 
-## Example 1 — f-a-hayek
+## Example 1 — friedrich-hayek
 
 Expected output (note the per-axis confidence):
 ```json
 {
-  "id": "f-a-hayek",
+  "id": "friedrich-hayek",
   "canon_status": "core",
   "tradition": "classical_liberal",
   "vocations": [
@@ -172,12 +172,12 @@ Expected output (note the per-axis confidence):
 }
 ```
 
-## Example 6 — h-r-khanna
+## Example 6 — hans-raj-khanna
 
 Expected output (note the per-axis confidence):
 ```json
 {
-  "id": "h-r-khanna",
+  "id": "hans-raj-khanna",
   "canon_status": "extended",
   "tradition": "constitutional_liberal",
   "vocations": [

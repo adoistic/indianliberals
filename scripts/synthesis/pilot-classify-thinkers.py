@@ -38,12 +38,12 @@ DIFF_REPORT = DATA_DIR / "pilot-diff-report.md"
 # MUST stay in sync with scripts/synthesis/prompts/classify-thinkers-anchors.json
 # (same 8 slugs, same order). If you change one, change the other.
 ANCHOR_IDS = [
-    "f-a-hayek",
+    "friedrich-hayek",
     "c-rajagopalachari",
     "dadabhai-naoroji",
     "raja-ram-mohan-roy",
     "jrd-tata",
-    "h-r-khanna",
+    "hans-raj-khanna",
     "mukesh-ambani",
     "jawaharlal-nehru",
 ]

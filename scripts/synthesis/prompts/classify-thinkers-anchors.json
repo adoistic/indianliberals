@@ -1,7 +1,7 @@
 [
   {
     "_comment": "MUST stay in sync with scripts/synthesis/pilot-classify-thinkers.py:ANCHOR_IDS — same 8 slugs, same order.",
-    "id": "f-a-hayek",
+    "id": "friedrich-hayek",
     "expected": {
       "canon_status": "core",
       "tradition": "classical_liberal",
@@ -51,7 +51,7 @@
     "reasoning": "J.R.D. Tata is canon-adjacent rather than core. He embodied liberal practice — opposing the License Raj, defending private enterprise — but he was not a theorist or editorial voice. canon_status is extended (not core) because removing him weakens the practice-side of the archive without leaving a hole in the intellectual canon. tradition is practice because his contribution is industrial and managerial."
   },
   {
-    "id": "h-r-khanna",
+    "id": "hans-raj-khanna",
     "expected": {
       "canon_status": "extended",
       "tradition": "constitutional_liberal",
