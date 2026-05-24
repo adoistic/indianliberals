@@ -6,6 +6,7 @@ author_name: "DM Kulkarni"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/henry-george-single-tax-land-value-taxation/2809653/"
 themes: ["indian-liberals-matter", "single-tax-rate"]
 related_thinkers: 
+  - d-m-kulkarni-libertarian
   - herbert-spencer
 
 related_works: []

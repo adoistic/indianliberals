@@ -26,6 +26,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - bhimrao-ambedkar
+  - d-m-kulkarni-libertarian
   - mahatma-gandhi
 source_channel: "so-musings"
 proposed_themes:

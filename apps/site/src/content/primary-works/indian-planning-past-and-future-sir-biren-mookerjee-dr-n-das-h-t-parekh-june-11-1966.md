@@ -20,6 +20,7 @@ contributors:
     toc_index: 3
 related_thinkers: 
   - john-kenneth-galbraith
+  - p-v-sukhatme
 
 publication:
   language: en

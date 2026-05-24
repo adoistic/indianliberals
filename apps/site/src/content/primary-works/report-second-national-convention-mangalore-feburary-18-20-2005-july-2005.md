@@ -54,6 +54,7 @@ related_thinkers:
   - s-p-sathe
   - s-v-raju
   - claret-dsouza
+  - friedrich-naumann
   - ken-schoolland
   - louella-lobo-prabhu
   - t-subbaya-shetty
