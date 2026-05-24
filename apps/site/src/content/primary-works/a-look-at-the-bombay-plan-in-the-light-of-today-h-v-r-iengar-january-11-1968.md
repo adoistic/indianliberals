@@ -8,9 +8,10 @@ authors:
   - h-v-r-iengar
 editors: []
 contributors: []
-related_thinkers: 
+related_thinkers:
   - a-d-shroff
   - jrd-tata
+  - subhas-chandra-bose
 
 publication:
   language: en

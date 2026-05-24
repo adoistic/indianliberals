@@ -9,9 +9,10 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
-related_thinkers: 
+related_thinkers:
   - a-d-shroff
   - eugene-black
+  - subhas-chandra-bose
 
 publication:
   language: en

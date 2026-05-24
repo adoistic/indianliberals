@@ -10,8 +10,10 @@ editors: []
 contributors:
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
+related_thinkers:
   - minoo-shroff
+  - a-p-j-abdul-kalam
+  - arun-shourie
 
 publication:
   language: en

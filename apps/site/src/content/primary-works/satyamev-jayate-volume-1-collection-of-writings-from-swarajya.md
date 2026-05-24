@@ -8,8 +8,9 @@ authors:
   - c-rajagopalachari
 editors: []
 contributors: []
-related_thinkers: 
+related_thinkers:
   - c-rajagopalachari
+  - anthony-eden
 
 publication:
   language: en

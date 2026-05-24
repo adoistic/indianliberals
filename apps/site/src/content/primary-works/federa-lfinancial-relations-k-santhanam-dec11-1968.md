@@ -12,11 +12,12 @@ contributors:
     thinker: k-santhanam
   - role: introduction
     thinker_unresolved: MURARJI J. VAIDYA
-related_thinkers: 
+related_thinkers:
   - a-d-shroff
   - bhimrao-ambedkar
   - k-m-munshi
   - murarji-vaidya
+  - subhas-chandra-bose
 
 publication:
   language: en

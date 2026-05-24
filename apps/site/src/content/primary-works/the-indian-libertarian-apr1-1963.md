@@ -31,6 +31,7 @@ related_thinkers:
   - gamal-abdel-nasser
   - ralph-borsodi
   - ruth-benedict
+  - humayun-kabir
 
 publication:
   language: en

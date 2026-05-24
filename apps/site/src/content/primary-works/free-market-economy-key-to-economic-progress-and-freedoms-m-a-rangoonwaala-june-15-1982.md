@@ -12,10 +12,11 @@ contributors:
     thinker_unresolved: M. A. Rangoonwala
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers: 
+related_thinkers:
   - a-d-shroff
   - c-rajagopalachari
   - nani-palkhivala
+  - subhas-chandra-bose
 
 publication:
   language: en

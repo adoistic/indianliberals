@@ -8,9 +8,10 @@ authors:
   - jj-irani
 editors: []
 contributors: []
-related_thinkers: 
+related_thinkers:
   - jrd-tata
   - milton-friedman
+  - sp-godrej
 
 publication:
   language: en

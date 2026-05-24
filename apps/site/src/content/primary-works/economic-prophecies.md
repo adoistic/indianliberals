@@ -14,7 +14,7 @@ contributors:
     thinker: r-k-amin
   - role: editor
     thinker: parth-shah
-related_thinkers: 
+related_thinkers:
   - jayaprakash-narayan
   - jrd-tata
   - milton-friedman
@@ -22,6 +22,7 @@ related_thinkers:
   - p-n-haksar
   - peter-bauer
   - vinoba-bhave
+  - sumati-morarjee
 
 publication:
   language: en

@@ -40,6 +40,8 @@ related_thinkers:
   - john-stuart-mill
   - sharad-joshi
   - thomas-aquinas
+  - franz-oppenheimer
+  - sirimavo-bandaranaike
 
 publication:
   language: en

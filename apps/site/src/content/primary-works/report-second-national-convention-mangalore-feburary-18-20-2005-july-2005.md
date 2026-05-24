@@ -59,6 +59,7 @@ related_thinkers:
   - louella-lobo-prabhu
   - t-subbaya-shetty
   - theodor-heuss
+  - a-p-j-abdul-kalam
 
 publication:
   language: en

@@ -42,6 +42,8 @@ related_thinkers:
   - feroz-khan-noon
   - gamal-abdel-nasser
   - vijaya-lakshmi-pandit
+  - a-p-j-abdul-kalam
+  - maulana-abul-kalam-azad
 
 publication:
   language: en

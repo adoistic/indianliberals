@@ -36,8 +36,9 @@ contributors:
   - role: author
     thinker: fazal-ur-rahman
     toc_index: 9
-related_thinkers: 
+related_thinkers:
   - deng-xiaoping
+  - ngapo-ngawang-jigme
 
 publication:
   language: en

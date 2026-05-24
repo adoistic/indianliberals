@@ -9,13 +9,14 @@ editors: []
 contributors:
   - role: foreword
     thinker: c-rajagopalachari
-related_thinkers: 
+related_thinkers:
   - c-rajagopalachari
   - dudley-senanayake
   - karl-marx
   - milovan-djilas
   - s-chandrasekhar
   - vinoba-bhave
+  - sirimavo-bandaranaike
 
 publication:
   language: en
