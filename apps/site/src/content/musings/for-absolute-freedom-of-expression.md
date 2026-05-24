@@ -32,6 +32,7 @@ thinker_mentions:
     key_passages: []
 related_thinkers: 
   - bibek-debroy
+  - immanuel-kant
   - john-stuart-mill
   - rajiv-gandhi
 source_channel: "so-musings"
