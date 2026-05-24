@@ -10,7 +10,7 @@ draft: false
 subject_name: "Free Enterprise and Freedom"
 youtube_url: "https://www.youtube.com/watch?v=DOqQV3_qb3M"
 transcript_status: "none"
-subject: ""
+subject: murarji-vaidya
 ---
 
 In this episode of the Explainer Series, we revisit Murarji J. Vaidya's analysis of economic advancement under the Second Five-year Plan and what it meant for free enterprise.

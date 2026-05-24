@@ -11,7 +11,7 @@ subject_name: "Socialism Reconsidered"
 youtube_url: "https://www.youtube.com/watch?v=sHWzp2Z0ONA"
 transcript_status: "none"
 
-subject: ""
+subject: minoo-masani
 ---
 
 Minoo Masani was an Indian parliamentarian, a public intellectual and an Indian liberal. In 1944, he wrote Socialism Reconsidered that questioned four assumptions of Marxist socialism. This essay reflects Masani's own intellectual journey as he moves from socialist to liberal school of thought.
