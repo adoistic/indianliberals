@@ -4,7 +4,8 @@ title:
   main: A Pragmatic Economic Policy for a Government That Works
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers:

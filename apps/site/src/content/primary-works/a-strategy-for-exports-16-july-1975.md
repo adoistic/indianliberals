@@ -4,7 +4,8 @@ title:
   main: A Strategy for Exports
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - prof-rl-varshney
 editors: []
 contributors: []
 related_thinkers: []

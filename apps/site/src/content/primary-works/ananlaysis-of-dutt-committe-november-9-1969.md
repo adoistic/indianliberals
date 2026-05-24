@@ -4,7 +4,8 @@ title:
   main: An Analysis of Dutt Committee Report on Industrial Licensing
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers:

@@ -6,7 +6,9 @@ title:
 work_type: speech
 authors: []
 editors: []
-contributors: []
+contributors:
+  - role: author
+    thinker_unresolved: Anil B. Divan
 related_thinkers:
   - jawaharlal-nehru
   - bhimrao-ambedkar

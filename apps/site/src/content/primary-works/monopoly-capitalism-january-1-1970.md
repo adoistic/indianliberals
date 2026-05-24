@@ -4,7 +4,8 @@ title:
   main: MONOPOLY CAPITALISM?
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers:

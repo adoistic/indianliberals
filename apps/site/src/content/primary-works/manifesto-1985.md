@@ -4,7 +4,8 @@ title:
   main: Manifesto for Indian Liberals
   subtitle: ""
 work_type: occasional_paper
-authors: []
+authors:
+  - indian-liberal-group
 editors: []
 contributors: []
 related_thinkers: []

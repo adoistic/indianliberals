@@ -6,7 +6,9 @@ title:
 work_type: pamphlet
 authors: []
 editors: []
-contributors: []
+contributors:
+  - role: author
+    thinker_unresolved: Dudley Dillard
 related_thinkers: 
   - a-d-shroff
   - adam-smith

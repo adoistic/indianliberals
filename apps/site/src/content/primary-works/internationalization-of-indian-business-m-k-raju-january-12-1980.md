@@ -6,7 +6,9 @@ title:
 work_type: speech
 authors: []
 editors: []
-contributors: []
+contributors:
+  - role: author
+    thinker_unresolved: M. K. Raju
 related_thinkers:
   - a-d-shroff
 publication:

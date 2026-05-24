@@ -4,7 +4,8 @@ title:
   main: Constitution
   subtitle: ""
 work_type: occasional_paper
-authors: []
+authors:
+  - indian-liberal-group
 editors: []
 contributors: []
 related_thinkers: 

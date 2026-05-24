@@ -4,7 +4,8 @@ title:
   main: Code of Conduct
   subtitle: ""
 work_type: occasional_paper
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers: []

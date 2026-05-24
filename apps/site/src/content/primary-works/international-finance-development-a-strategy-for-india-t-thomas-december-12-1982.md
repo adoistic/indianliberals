@@ -4,7 +4,8 @@ title:
   main: INTERNATIONAL FINANCE FOR DEVELOPMENT — A STRATEGY FOR INDIA
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - t-thomas
 editors: []
 contributors: []
 related_thinkers:

@@ -4,7 +4,8 @@ title:
   main: Cooperatives in the Changing Economy of India
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers:

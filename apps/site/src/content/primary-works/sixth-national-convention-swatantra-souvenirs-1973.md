@@ -4,7 +4,8 @@ title:
   main: Sixth National Convention Swatantra Souvenirs 1973
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - swatantra-party
 editors: []
 contributors: []
 related_thinkers: []

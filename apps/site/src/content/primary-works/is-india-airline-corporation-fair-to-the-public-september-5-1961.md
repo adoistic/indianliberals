@@ -4,7 +4,8 @@ title:
   main: IS INDIAN AIRLINES CORPORATION FAIR TO THE PUBLIC?
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers: []

@@ -4,7 +4,8 @@ title:
   main: "Agriculture & Economic Growth"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - colin-clark
 editors: []
 contributors: []
 related_thinkers: 

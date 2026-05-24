@@ -6,7 +6,9 @@ title:
 work_type: pamphlet
 authors: []
 editors: []
-contributors: []
+contributors:
+  - role: author
+    thinker_unresolved: Kaejee
 related_thinkers: []
 publication:
   language: en

@@ -4,7 +4,8 @@ title:
   main: Forum of Free Enterprise
   subtitle: A Manifesto
 work_type: occasional_paper
-authors: []
+authors:
+  - forum-of-free-enterprise
 editors: []
 contributors: []
 related_thinkers: []

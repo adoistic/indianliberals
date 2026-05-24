@@ -6,7 +6,9 @@ title:
 work_type: speech
 authors: []
 editors: []
-contributors: []
+contributors:
+  - role: author
+    thinker_unresolved: S. Sampath
 related_thinkers:
   - a-d-shroff
   - indira-gandhi
