@@ -39,7 +39,8 @@ themes:
   - economic-policy
   - private-enterprise
   - public-sector
-summary: ""
+summary: |
+  Edited volume from 1968 by M. L. Tannan, Prof. Gangadhar Gadgil and Prof. (Mrs.) C. K. Dalaya, published by Forum of Free Enterprise (Bombay). Topic indicated by themes: banking, nationalisation, economic-policy, private-enterprise, public-sector. Full content not yet imported.
 needs_review: true
 draft: false
 ai:
