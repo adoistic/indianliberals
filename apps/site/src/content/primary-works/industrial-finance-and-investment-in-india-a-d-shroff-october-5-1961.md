@@ -8,7 +8,9 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -43,6 +45,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_explicit_delivery_context_on_visible_pages
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Shroff sharply rebukes the Prime Minister's remark that stock exchanges should be abolished, arguing that in any non-communist economy they remain indispensable for the liquidity and mobility of capital."
+    evidence:
+      - quote: "He sharply rebukes the Prime Minister's remark that stock exchanges should be abolished, arguing that in any non-communist economy they remain indispensable for the liquidity and mobility of capital."
+        context: "Shroff's polemical broadside is aimed at Nehru's anti-stock-exchange remark"
+      - quote: "Shroff defends the stock exchange and rebukes Nehru's remark that exchanges should be abolished, arguing that liquidity of capital is indispensable to a non-communist economy."
+        context: key-points restatement that names Nehru explicitly as the rebuked figure
+    key_passages: []
+
 ---
 ## Summary
 

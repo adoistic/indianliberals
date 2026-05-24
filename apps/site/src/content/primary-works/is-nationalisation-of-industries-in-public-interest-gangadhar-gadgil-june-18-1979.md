@@ -14,11 +14,9 @@ contributors:
   - role: introduction
     thinker: m-r-pai
     toc_index: 1
-related_thinkers:
+related_thinkers: 
   - deng-xiaoping
-  - indira-gandhi
-  - mahatma-gandhi
-  - jrd-tata
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -62,6 +60,17 @@ authors_resolution:
   stubs_referenced:
     - gangadhar-gadgil
   collisions_logged: []
+thinker_mentions:
+  - thinker: deng-xiaoping
+    role: mention
+    reasoning: "The pamphlet invokes Deng twice — once to note that 'even the Chinese under Deng' have abandoned nationalisation, and again to invoke Deng's 'black cat / white cat' pragmatism as the wider liberal critique of dirigisme within which Gadgil's case sits."
+    evidence:
+      - quote: fifty years of European experience (the British Labour Party, Fabians, even the Chinese under Deng) has discredited public ownership as a vehicle for either efficiency or social justice
+        context: "Pai's framing essay enlists Deng's China as the closing item in the global list of socialist retreats from public ownership"
+      - quote: "invoking Deng's \"black cat / white cat\" pragmatism, Gandhian trusteeship, and the comparative record of public-sector banks, LIC, Indian Airlines and the State Trading Corporation as monopolies that have failed consumers."
+        context: "Deng's pragmatist slogan anchors the pamphlet's wider liberal critique of dirigisme"
+    key_passages: []
+
 ---
 
 ## Summary

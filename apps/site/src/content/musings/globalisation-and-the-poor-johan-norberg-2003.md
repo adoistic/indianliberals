@@ -21,6 +21,17 @@ pull_quote: Relative poverty is not a measure of poverty, but of inequality.
 stance: argues-for
 kind: periodical-article
 period_window: reform-era
+thinker_mentions:
+  - thinker: amartya-sen
+    role: mention
+    reasoning: "Norberg leans on Sen's capability-style critique to acknowledge that poverty is wider than income — about powerlessness and unfreedom — before defending material measurement as still indispensable."
+    evidence:
+      - quote: As Amartya Sen, Indian economist and Nobel laureate, has emphasised, poverty is not just a material problem.
+        context: Norberg uses Sen to concede the limits of a pure dollar-a-day poverty line, then argues the absolutist measure still matters
+    key_passages: []
+related_thinkers: 
+  - amartya-sen
+
 ---
 
 _The following excerpt has been taken from the Occasional Paper titled ‘Globalisation and the Poor’ written by Johan Norberg. The paper is based on a contribution of the author to the workshop Campaigning for Free Trade; organised by the Liberal Institute of the Friedrich Naumann Foundation in November 2003._

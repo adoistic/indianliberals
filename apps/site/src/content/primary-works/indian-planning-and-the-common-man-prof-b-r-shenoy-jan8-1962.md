@@ -8,14 +8,14 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
-related_thinkers:
-  - jawaharlal-nehru
-  - eugene-black
+related_thinkers: 
+  - colin-clark
   - friedrich-hayek
-  - ludwig-von-mises
+  - jawaharlal-nehru
   - ludwig-erhard
-  - a-d-shroff
-  - m-r-pai
+  - ludwig-von-mises
+  - peter-bauer
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -50,6 +50,58 @@ physical:
   format: Stapled booklet / pamphlet; printed cover with FFE imprint; 22 numbered interior pages.
 missing_metadata_flags:
   - no_formal_toc_page
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Shenoy's three Forum essays are framed as a sustained attack on the development model defended by Prime Minister Nehru at the Third Plan debate in the Lok Sabha, with Nehru's January 1962 speech as the explicit polemical target."
+    evidence:
+      - quote: "Prof. B. R. Shenoy's 1962 Forum of Free Enterprise pamphlet bundles three of his newspaper essays — two from the Indian Express (28 October 1961) and one from the Times of India (23 October 1961) — into a sustained attack on the development model defended by Prime Minister Nehru at the Third Plan debate in the Lok Sabha."
+        context: "Nehru's Third Plan defence is the explicit polemical target Shenoy is rebutting"
+      - quote: "Shenoy frames the pamphlet as a rebuttal to the Prime Minister's January 1962 Lok Sabha defence of the Third Plan"
+        context: "key-points restatement: Nehru's speech is the occasion of the pamphlet"
+    key_passages: []
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Shenoy's closing reading list — built around Hayek (multiple titles), Mises, Robbins, Roepke, Erhard, Colin Clark, P. T. Bauer and Henry Hazlitt — anchors the polemic in the Mont Pelerin/classical-liberal canon."
+    evidence:
+      - quote: "The pamphlet closes with an appendix listing twenty-one recommended works — Hayek, Mises, Robbins, Roepke, Erhard, Bauer, Hazlitt and others — that constitute Shenoy's classical-liberal canon."
+        context: "Hayek heads Shenoy's recommended reading list, signalling intellectual lineage"
+      - quote: "The appendix's 21-item reading list — Hayek (multiple), Mises, Robbins, Roepke, Erhard, Colin Clark, P. T. Bauer, Henry Hazlitt — anchors the polemic in the Mont Pelerin/classical-liberal tradition."
+        context: key-points restatement of the Hayek-led reading list
+    key_passages: []
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: "Mises appears alongside Hayek in the appendix's 21-item reading list — one of the classical-liberal authors Shenoy commends as the canon against which Indian planning should be measured."
+    evidence:
+      - quote: "The pamphlet closes with an appendix listing twenty-one recommended works — Hayek, Mises, Robbins, Roepke, Erhard, Bauer, Hazlitt and others — that constitute Shenoy's classical-liberal canon."
+        context: "Mises is named in Shenoy's recommended canon"
+      - quote: "The appendix's 21-item reading list — Hayek (multiple), Mises, Robbins, Roepke, Erhard, Colin Clark, P. T. Bauer, Henry Hazlitt — anchors the polemic in the Mont Pelerin/classical-liberal tradition."
+        context: "key-points restatement: Mises in the classical-liberal lineage Shenoy adopts"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Erhard — the architect of the West German Wirtschaftswunder Shenoy elsewhere holds up as the model — is named in the closing reading list as one of the classical-liberal authors who define Shenoy's canon."
+    evidence:
+      - quote: "The pamphlet closes with an appendix listing twenty-one recommended works — Hayek, Mises, Robbins, Roepke, Erhard, Bauer, Hazlitt and others — that constitute Shenoy's classical-liberal canon."
+        context: "Erhard appears in Shenoy's reading list, paired with the German growth-and-low-inflation evidence"
+      - quote: "The appendix's 21-item reading list — Hayek (multiple), Mises, Robbins, Roepke, Erhard, Colin Clark, P. T. Bauer, Henry Hazlitt — anchors the polemic in the Mont Pelerin/classical-liberal tradition."
+        context: "key-points restatement: Erhard named in the canon"
+    key_passages: []
+  - thinker: colin-clark
+    role: mention
+    reasoning: "Colin Clark appears in Shenoy's closing 21-item reading list, alongside Hayek, Mises, Erhard, Bauer and Hazlitt, as one of the classical-liberal economists Shenoy commends to Indian readers."
+    evidence:
+      - quote: "The appendix's 21-item reading list — Hayek (multiple), Mises, Robbins, Roepke, Erhard, Colin Clark, P. T. Bauer, Henry Hazlitt — anchors the polemic in the Mont Pelerin/classical-liberal tradition."
+        context: "Colin Clark is named in Shenoy's canon-building appendix"
+    key_passages: []
+  - thinker: peter-bauer
+    role: mention
+    reasoning: "P. T. Bauer is named in Shenoy's 21-item closing reading list, alongside Hayek and Mises, as a development-economics counterweight to the planning orthodoxy."
+    evidence:
+      - quote: "The appendix's 21-item reading list — Hayek (multiple), Mises, Robbins, Roepke, Erhard, Colin Clark, P. T. Bauer, Henry Hazlitt — anchors the polemic in the Mont Pelerin/classical-liberal tradition."
+        context: "P. T. Bauer named in Shenoy's classical-liberal reading list"
+    key_passages: []
+
 ---
 ## Summary
 

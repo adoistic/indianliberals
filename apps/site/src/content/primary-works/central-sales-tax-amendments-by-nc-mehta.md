@@ -8,10 +8,10 @@ authors:
   - n-c-mehta
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - m-r-pai
   - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +47,22 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
   - author_not_in_authority
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's aphorism on free enterprise opens the pamphlet as one of the Forum of Free Enterprise's standard framing devices, positioning Mehta's technical Sales Tax exposition inside the Forum's broader free-enterprise public-education project."
+    evidence:
+      - quote: an A. D. Shroff aphorism on free enterprise at the front
+        context: "Shroff's aphorism frames the pamphlet's opening and signals the Forum's classical-liberal worldview"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "A quotation from Eugene Black closes Mehta's pamphlet — paired with Shroff's opening aphorism — as one of the Forum of Free Enterprise's customary ideological book-ends framing technical policy commentary inside its free-enterprise mission."
+    evidence:
+      - quote: a Eugene Black quotation at the back
+        context: "Black's quotation closes the pamphlet as the Forum's standard back-cover ideological frame"
+    key_passages: []
+
 ---
 ## Summary
 

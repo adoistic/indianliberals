@@ -8,13 +8,14 @@ authors:
   - f-a-mehta
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - mahatma-gandhi
   - adam-smith
   - ludwig-erhard
-  - jawaharlal-nehru
-  - karl-marx
+  - mahatma-gandhi
+  - minoo-masani
+  - narasimha-rao
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +58,56 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Fredie Mehta delivers the 29th A.D. Shroff Memorial Lecture, positioning Shroff as the namesake patron of the lecture series in which Mehta defends the Narasimha Rao government's 'Middle Path' between Capitalism and Socialism."
+    evidence:
+      - quote: "Dr. Fredie A. Mehta's 'Is There a Middle Way?' is the 29th A.D. Shroff Memorial Lecture, delivered under the auspices of the Forum of Free Enterprise"
+        context: "opens by anchoring the lecture in Shroff's memorial series"
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Mehta enlists Adam Smith as a Middle-Path ancestor by pointing out Smith's true target was the 'Right Wing, Mercantile Lobby' rather than the State as such — re-reading Smith against the laissez-faire caricature to support a complementary role for the Welfare State."
+    evidence:
+      - quote: "Adam Smith's true target (the 'Right Wing, Mercantile Lobby' rather than the State as such)"
+        context: Smith is re-claimed by Mehta as a Middle-Path forerunner rather than an anti-State purist
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Mehta cites Ludwig Erhard's 'socially oriented' market — alongside Bismarck's German capitalism, Sweden, and Thatcher/Reagan-era public spending — as historical evidence that mutually complementary Free Enterprise plus Welfare State is the actual working pattern, not the laissez-faire vs. socialism dichotomy."
+    evidence:
+      - quote: "Otto von Bismarck on 'oiling' German capitalism, Ludwig Erhard's 'socially oriented' market, Roosevelt and Keynes on state intervention"
+        context: "Erhard sits in Mehta's catalogue of Middle-Path historical exemplars"
+      - quote: "Free Enterprise and the Welfare State are presented as mutually complementary, with Sweden, Thatcher- and Reagan-era public spending, and Bismarck/Erhard cited as evidence that 'socially oriented' markets are the actual historical pattern."
+        context: "key-points line restating Erhard's role as a Middle-Path exemplar"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Mehta sketches a seven-plank Trusteeship scheme explicitly drawn from Mahatma Gandhi — preferential share allotments to Indian promoters held in a Specified Trust whose dividends fund poverty alleviation — and closes on Gandhiji's 'talisman' as the moral compass for combining growth with compassion for the poor."
+    evidence:
+      - quote: "he sketches a seven-plank Trusteeship scheme drawn from Mahatma Gandhi: preferential share allotments to Indian promoters held in a Specified Trust whose dividends flow to anti-poverty applications."
+        context: "Gandhi's trusteeship doctrine is the source of Mehta's headline anti-poverty design"
+      - quote: He proposes a seven-plank Trusteeship-Concept scheme, inspired by Mahatma Gandhi, in which Indian promoters receive preferential share allotments held in a Specified Trust whose dividends fund poverty alleviation.
+        context: key-points restatement of the Gandhi-derived trusteeship scheme
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Mehta's appendix invokes Minoo Masani's Mixed Economy thesis as part of the century-long evidence base for the Middle Path, placing Masani alongside the 1944 Bombay Plan, James E. Meade and W. Arthur Lewis on democratic planning."
+    evidence:
+      - quote: "the 1944 Bombay Plan's chapter on national planning, Minoo Masani's Mixed Economy thesis, Prof. Dublin, James E. Meade and W. Arthur Lewis on democratic planning"
+        context: "Masani's Mixed Economy thesis sits in Mehta's catalogue of Middle-Path intellectual predecessors"
+    key_passages: []
+  - thinker: narasimha-rao
+    role: mention
+    reasoning: "Mehta frames his defence of gradualist reform around Prime Minister Narasimha Rao's 'Middle Path' Davos speech, defending it against both pro-reform impatience and left-wing rejection as the appropriate sequencing after forty years of bureaucratic socialism."
+    evidence:
+      - quote: "framed by Prime Minister Narasimha Rao's 'Middle Path' speech at Davos and defended against both pro-reform impatience and left-wing rejection"
+        context: "Rao's Davos formulation is the political anchor for Mehta's gradualist case"
+      - quote: "He defends the Narasimha Rao government's gradualist reform sequencing (the 'Middle Path' Davos speech) against both Right-Wing impatience and Left-Wing rejection"
+        context: "key-points restatement of Mehta's defence of Rao's sequencing"
+    key_passages: []
+
 ---
 
 ## Summary

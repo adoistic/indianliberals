@@ -8,8 +8,9 @@ authors:
   - kv-subrahmanyam
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - k-d-malaviya
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +48,19 @@ missing_metadata_flags:
   - no_formal_toc
   - venue_not_stated
   - no_series_number
+thinker_mentions:
+  - thinker: k-d-malaviya
+    role: mention
+    reasoning: "Malaviya is the central political target of Subrahmanyam's letter — cast as a minister who has repeatedly announced fictitious mineral discoveries (gold in Orissa, sulphur in Kashmir, copper at Khetri, coking coal at Korba) for political effect rather than genuine geological reporting."
+    evidence:
+      - quote: K. V. Subrahmanyam opens by recalling a decade-old announcement by K. D. Malaviya — then Secretary in the Ministry — of a gold belt in Orissa that proved to be a hoax
+        context: "opens the indictment with Malaviya's earliest false-discovery announcement"
+      - quote: "He then turns to Malaviya's more recent announcements: huge copper deposits at Khetri in Rajasthan compared favourably to Katanga and the Rhodesias, and, most damagingly, the 'discovery' of coking coal at Korba"
+        context: "extends the pattern to Malaviya's recent and most damaging coal claim"
+      - quote: the Korba coalfield was no discovery at all — it had been known to and worked by the coal industry long before Malaviya was born
+        context: "the letter's sharpest indictment — Malaviya's signature 'discovery' is a known field"
+    key_passages: []
+
 ---
 ## Summary
 

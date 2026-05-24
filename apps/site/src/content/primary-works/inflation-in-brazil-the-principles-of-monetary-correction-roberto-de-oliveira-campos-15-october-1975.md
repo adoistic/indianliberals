@@ -8,7 +8,9 @@ authors:
   - roberto-de-oliveira-campos
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - milton-friedman
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +55,15 @@ authors_resolution:
   stubs_referenced:
     - roberto-de-oliveira-campos
   collisions_logged: []
+thinker_mentions:
+  - thinker: milton-friedman
+    role: mention
+    reasoning: "Campos cites Friedman's IEA Occasional Paper 41 as the contemporary monetarist reference in his intellectual genealogy of indexation, locating Brazilian monetary correction within the post-1970s debate over inflation policy."
+    evidence:
+      - quote: "Traces the intellectual ancestry of indexation through William Fleetwood, Joseph Lowe, Jevons, Marshall, Irving Fisher and Keynes, citing Milton Friedman's IEA Occasional Paper 41 as a contemporary reference."
+        context: "places Friedman as the modern theoretical anchor in Campos's lineage of monetary-correction thinkers"
+    key_passages: []
+
 ---
 
 ## Summary

@@ -29,6 +29,22 @@ geographic_scope:
   places:
     - "china"
     - "pakistan"
+thinker_mentions:
+  - thinker: n-dandekar
+    role: subject
+    reasoning: "An editorial reconstruction of N. Dandekar's 1967 Lok Sabha speech, in which the Swatantra Party MP attacked India's passive naval posture after the 1965 war and laid out a programme of two fleets, aircraft-carrier-led eastern command, and fortified Andamans — a blueprint partially realised in the decades since."
+    evidence: []
+    key_passages:
+      - quote: The weaknesses in this strategic thinking were exposed by Narayan Dandekar, a Member of Parliament representing the Swatantra Party in the Lok Sabha.
+        what_it_shows: introduces Dandekar as the parliamentary voice who first challenged the post-1965 defensive naval doctrine
+      - quote: Dandekar asserted that an appropriate posture for the armed forces would involve defence from strength. He described it as an aggressively defensive posture.
+        what_it_shows: "captures his signature doctrinal contribution: 'aggressive defence' as a reframing of non-aligned security policy"
+      - quote: In his speech, Dandekar identified Pakistan and China as two hostile countries. He expected India to prepare to defend itself against these two either acting separately or jointly or simultaneously.
+        what_it_shows: shows the realist threat assessment that grounded his naval prescriptions — a two-front posture decades before it became conventional wisdom
+      - quote: The evolving role of the Indian Navy is in tandem with his approach of acting from the position of strength.
+        what_it_shows: "closing editorial verdict; vindicates Dandekar's 1967 doctrine in light of the navy's modern force posture"
+related_thinkers: []
+
 ---
 
 When the world was divided between the communist and the capitalist blocs, India chose to remain non-aligned. The Indian government decided to use its resources primarily to undertake developmental programmes. Considerations of defence and security were always secondary. The accepted objective of the Indian armed forces was the defence of the country. The problems associated with strict adherence to this objective came to the fore after the Indo-Pakistan War of 1965.

@@ -64,12 +64,10 @@ contributors:
     thinker_unresolved: Sumita Kale
   - role: author
     thinker_unresolved: Vijay Kelkar
-related_thinkers:
-  - a-d-shroff
-  - narasimha-rao
-  - manmohan-singh
-  - rajiv-gandhi
-  - atal-bihari-vajpayee
+related_thinkers: 
+  - sunil-bhandare
+  - vijay-kelkar
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -121,6 +119,26 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: vijay-kelkar
+    role: mention
+    reasoning: Vijay Kelkar co-signs the introduction with R. A. Mashelkar and is credited with leading the Pune International Centre policy report that this Forum booklet reproduces.
+    evidence:
+      - quote: "the introduction signed jointly by R. A. Mashelkar and Vijay Kelkar position the report as a 'Big Ideas' roadmap"
+        context: identifies Kelkar as joint author of the framing introduction
+      - quote: "the Forum of Free Enterprise's free-distribution reprint of a Pune International Centre policy report led by Raghunath Mashelkar and Vijay Kelkar"
+        context: key-points line crediting Kelkar with co-leading the underlying PIC report
+    key_passages: []
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: "Sunil S. Bhandare is named as editor of the Forum reprint and frames the reproduction as a non-partisan attempt to push the Pune International Centre's recommendations into wider public debate before the 2014 election."
+    evidence:
+      - quote: "Editor Sunil S. Bhandare frames the reproduction as a non-partisan attempt to push PIC's recommendations into wider public debate before the new government takes office."
+        context: "establishes Bhandare's editorial framing of the booklet's purpose"
+      - quote: edited by Sunil S. Bhandare and timed to the 2014 general election
+        context: key-points line restating his editorial role
+    key_passages: []
+
 ---
 
 ## Summary

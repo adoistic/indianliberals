@@ -5,11 +5,29 @@ pubDate: 2025-11-08T12:43:48
 author_name: "Sauvik Chakraverti"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/population-poverty-prosperity-sauvik-chakraverti/2779838/"
 themes: ["indian-liberals-matter", "overpopulation", "poverty"]
-related_thinkers: ["sauvik-chakraverti"]
+related_thinkers: 
+  - jawaharlal-nehru
+  - mahatma-gandhi
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Chakraverti invokes Gandhi as co-architect of a rural, village-republic vision of India that he sets up as the foil to his own urbanisation-as-prosperity argument.
+    evidence:
+      - quote: Instead of seeing the future of India in terms of thousands of self-governing and self-sufficient village republics (the Gandhi–Nehru vision)
+        context: named as half of the Gandhi–Nehru vision that the essay rejects in favour of an urban civilisation model
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: Chakraverti pairs Nehru with Gandhi as co-author of the village-republic, self-sufficient model of India that his essay sets up as the failed alternative to urban division-of-labour prosperity.
+    evidence:
+      - quote: Instead of seeing the future of India in terms of thousands of self-governing and self-sufficient village republics (the Gandhi–Nehru vision)
+        context: named as half of the Gandhi–Nehru vision the essay rejects in favour of an urban civilisation model
+    key_passages: []
 
 ---
 

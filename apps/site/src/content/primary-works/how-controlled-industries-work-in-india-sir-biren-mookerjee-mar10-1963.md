@@ -12,9 +12,9 @@ contributors:
     thinker: a-d-shroff
   - role: author
     thinker: biren-mookerjee
-related_thinkers:
+related_thinkers: 
   - eugene-black
-  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +49,19 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - author_not_in_authority_file
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Mookerjee reconstructs the 1952–53 World Bank loan negotiations led by Eugene R. Black to argue that the Government of India's 1962 retention-price order breaches the profit-margin undertakings IISCO gave Black's mission, and the booklet is bracketed by a Black epigraph defending private enterprise as 'an affirmative good'."
+    evidence:
+      - quote: "He revisits the 1952–53 negotiations with Eugene R. Black's World Bank mission"
+        context: "middle of the summary; Black's mission is invoked as the institutional witness to the original profit-margin commitment that the Government is now breaking"
+      - quote: "The pamphlet is bracketed by inset epigraphs from Eugene Black ('People must come to accept private enterprise not as a necessary evil, but as an affirmative good')"
+        context: "closing paragraph; Black's epigraph is mobilised as ideological framing for the technical case"
+      - quote: "Reconstructs the 1952–53 World Bank loan negotiations — Eugene R. Black's visit, George D. Woods's Fact-Finding and Feasibility Mission, and the 15 July 1953 agreement"
+        context: "key-points reiteration of Black's role in the original IISCO loan"
+    key_passages: []
+
 ---
 ## Summary
 

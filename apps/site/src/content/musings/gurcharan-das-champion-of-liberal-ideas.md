@@ -27,6 +27,19 @@ period_window: post-reform
 geographic_scope:
   scale: national
   places: []
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "The piece uses Nehru as the named architect of India's socialist turn — the foil against which Das's market-liberal critique of the license raj is staged."
+    evidence:
+      - quote: "India's quest for economic equality during the Nehru era severely impacted the economy."
+        context: frames the post-independence socialist programme as a Nehru-era project that produced economic damage
+      - quote: "Nehru's socialistic tendencies hurt India economically."
+        context: the bluntest line on Nehru — directly attributing economic stagnation to his ideological inclinations
+    key_passages: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 ---
 
 _Gurcharan Das is a prominent liberal thinker promoting individual freedom and free market economics. His critical analysis of inequality, socialism and the pursuit of fairness continues to shape India’s liberal discourse. This article narrates different ideas and viewpoints of Gurcharan Das through his works._

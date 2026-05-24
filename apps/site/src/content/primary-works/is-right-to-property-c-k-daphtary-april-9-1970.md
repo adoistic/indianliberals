@@ -8,8 +8,10 @@ authors:
   - c-k-daphtary
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - ag-mulgaokar
   - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +53,26 @@ authors_resolution:
   stubs_referenced:
     - c-k-daphtary
   collisions_logged: []
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Daphtary closes his speech by re-reading Nehru's Constituent Assembly speech of 10 September 1949 to argue that the framers always meant the judiciary to police 'a fraud on the Constitution' — using Nehru's own words against the post-1969 move to weaken Article 31."
+    evidence:
+      - quote: "Daphtary closes by re-reading Nehru's own Constituent Assembly speech of 10 September 1949, in which Nehru insisted the judiciary should come in 'to see if there has been a fraud on the Constitution.'"
+        context: "Nehru's 1949 speech is mobilised by Daphtary as the framers' own warrant for judicial review of property rights"
+      - quote: "Daphtary cites Nehru's own 1949 Constituent Assembly speech to argue that Article 31 was always meant to be patrolled by the judiciary against 'a fraud on the Constitution'."
+        context: "key-points line restating Daphtary's use of Nehru"
+    key_passages: []
+  - thinker: ag-mulgaokar
+    role: mention
+    reasoning: "Mulgaokar's December 1969 Freedom First essay — reprinted as the booklet's third section — re-frames the property debate around what 'fundamental' can mean if such a right can be abridged by ordinary legislation, and addresses a procedural-constitutional argument directly to President V. V. Giri."
+    evidence:
+      - quote: "Mulgaokar's essay (Section III, reprinted from the December 1969 issue of Freedom First) re-frames the property debate around what 'fundamental' can possibly mean if a fundamental right can be restricted away by ordinary legislative process."
+        context: "opens the description of Mulgaokar's third essay and his central question"
+      - quote: Mulgaokar invokes the 1910 Asquith/Lloyd George precedent — where the Crown insisted on a fresh general election before agreeing to create peers and pass the Budget and the Parliament Act — to argue that major constitutional change requires a popular mandate.
+        context: "shows the British-constitutional analogy at the heart of Mulgaokar's case against amending the property right without a mandate"
+    key_passages: []
+
 ---
 
 ## Summary

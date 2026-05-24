@@ -8,10 +8,10 @@ authors:
   - minoo-shroff
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - h-m-patel
-  - a-d-shroff
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -55,6 +55,26 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi appears adjectivally in Shroff's reading of the Janata government's December 1977 policy — the statement is said to stand 'squarely for Gandhian economic thought and philosophy', framing Gandhi as the ideological pole the new policy explicitly adopts in place of capitalism or communism."
+    evidence:
+      - quote: rejecting both capitalism and communism in favour of a Gandhian framework that decentralises the economic apparatus and lifts agriculture, rural development and cottage and village industry to the centre of planning.
+        context: Gandhi identified as the ideological alternative the Janata policy adopts
+      - quote: "the new statement rejects capitalism and communism and stands 'squarely for Gandhian economic thought and philosophy'."
+        context: key-point restatement of the Gandhian framing of the policy
+    key_passages: []
+  - thinker: h-m-patel
+    role: mention
+    reasoning: "Shroff cites Finance Minister H. M. Patel's own caveat about labour-intensive techniques to concede the political logic of the small-scale thrust while rejecting its arithmetic — using Patel as a friendly witness for the limits of the Janata employment-generation claim."
+    evidence:
+      - quote: "citing Finance Minister H. M. Patel's caveat that 'wasteful techniques' must not be used merely because they employ more people"
+        context: Patel cited as conceding from within the government that labour-intensity cannot justify inefficiency
+      - quote: "Quotes Finance Minister H. M. Patel acknowledging that labour-intensive techniques must not become a euphemism for 'wasteful' ones"
+        context: "key-point restatement of Patel's qualifying caveat"
+    key_passages: []
+
 ---
 
 ## Summary

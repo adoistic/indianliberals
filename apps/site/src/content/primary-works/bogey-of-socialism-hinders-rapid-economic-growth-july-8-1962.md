@@ -8,7 +8,9 @@ authors:
   - forum-of-free-enterprise
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +53,17 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "M. R. Pai appears as the publisher of the leaflet, identifying the anonymous 'Critic' polemic as a Forum of Free Enterprise production — a standard imprint that marks the booklet's institutional provenance."
+    evidence:
+      - quote: and the imprint of M. R. Pai as publisher.
+        context: "Pai's imprint signs off the leaflet as a Forum of Free Enterprise publication"
+      - quote: Published by M. R. Pai for the Forum of Free Enterprise from 235 Dr. Dadabhai Naoroji Road, Bombay
+        context: "the key-points summary records Pai's publisher role at the Forum's Bombay address"
+    key_passages: []
+
 ---
 
 ## Summary

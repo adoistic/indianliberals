@@ -8,7 +8,9 @@ authors:
   - dr-gvk-rao
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - m-narasimhan
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -50,6 +52,15 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: m-narasimhan
+    role: mention
+    reasoning: "Rao leans on the Narasimham Committee's banking-reform framework to justify raising the credit-deposit ratio as a route to closing the Rs. 14,400 crore agricultural-credit gap."
+    evidence:
+      - quote: To close it he proposes raising the credit-deposit ratio per the Narasimham Committee, exempting incremental rural deposits from SLR and CRR
+        context: "Rao invokes the Narasimham Committee's reform framework as the lever for unlocking institutional credit supply to agriculture"
+    key_passages: []
+
 ---
 
 ## Summary

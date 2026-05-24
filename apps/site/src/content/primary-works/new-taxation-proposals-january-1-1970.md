@@ -8,8 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - chintaman-deshmukh
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +48,24 @@ missing_metadata_flags:
   - no_table_of_contents
   - no_isbn
   - no_series_number
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Krishnamachari is the finance minister whose 30 November 1956 mid-year tax package Shroff dissects — the proximate target of the entire pamphlet's critique of capital-gains, super-tax, and compulsory-deposit measures."
+    evidence:
+      - quote: "A. D. Shroff dissects Finance Minister T. T. Krishnamachari's mid-year tax proposals of 30 November 1956"
+        context: Krishnamachari named as the finance minister whose tax package the pamphlet attacks
+      - quote: "reacting to Finance Minister T. T. Krishnamachari's mid-year tax package"
+        context: "key-point restatement of Krishnamachari's role as the proximate target"
+    key_passages: []
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: Deshmukh appears as the previous finance minister whose last budget first introduced the penal super-tax on undistributed dividends now being made heavier — placing him in the policy lineage Shroff is critiquing rather than as a sympathetic figure.
+    evidence:
+      - quote: "first introduced in the previous Finance Minister C. D. Deshmukh's last budget and now made heavier"
+        context: Deshmukh identified as the originator of the penal super-tax measure Krishnamachari is extending
+    key_passages: []
+
 ---
 ## Summary
 

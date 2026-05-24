@@ -5,11 +5,21 @@ pubDate: 2025-08-02T11:34:22
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-unemployment-india-five-year-plans/2711035/"
 themes: ["five-year-plans", "indian-liberals-matter", "planning-commission", "unemployment"]
-related_thinkers: ["g-n-lawande"]
+related_thinkers: 
+  - p-c-mahalanobis
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: "The essay names Mahalanobis's planning strategy as the central failed framework, arguing that its priority on heavy public-sector industries over consumer goods is the root cause of India's growing employment backlog."
+    evidence:
+      - quote: The Mahalanobis strategy, in this respect, has miserably failed because it was based on a wrong assumption, namely, that increasing purchasing power through investment in heavy industries in the public sector, and through expenditure on health, education, and social services, and, secondly, a planned supply of consumer goods could meet the increasing demand
+        context: "core diagnostic claim of the piece — Mahalanobis's investment-led model is identified as the wrong assumption driving Third Plan unemployment"
+    key_passages: []
 
 ---
 

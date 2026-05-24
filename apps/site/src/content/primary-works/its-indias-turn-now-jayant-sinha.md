@@ -10,8 +10,10 @@ editors: []
 contributors:
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
-  - jawaharlal-nehru
+related_thinkers: 
+  - a-d-shroff
+  - minoo-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +59,22 @@ authors_resolution:
   stubs_referenced:
     - jayant-sinha
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Sinha's 2016 address is itself the marquee lecture of the A. D. Shroff Memorial Trust's Golden Jubilee, with Shroff invoked as the institutional anchor for the Forum of Free Enterprise occasion."
+    evidence:
+      - quote: the Diamond Jubilee of the Forum of Free Enterprise and the Golden Jubilee of the A. D. Shroff Memorial Trust
+        context: "opening paragraph; situates Sinha's lecture as a Shroff-Trust occasion"
+    key_passages: []
+  - thinker: minoo-shroff
+    role: mention
+    reasoning: "Minoo R. Shroff supplies the booklet's introduction, framing Sinha's polemical contrast between a 'Nehruvian Sarkar' and a Kautilyan one as the lecture's central contribution."
+    evidence:
+      - quote: "Minoo R. Shroff's introduction underscores the speech's polemical contrast with the 'Nehruvian Sarkar or maibaap' and praises Sinha for differentiating the roles of business and government for a globalised India."
+        context: "closing bullet; positions Minoo Shroff as the editorial framer of Sinha's argument"
+    key_passages: []
+
 ---
 
 ## Summary

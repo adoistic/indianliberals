@@ -9,9 +9,10 @@ editors: []
 contributors:
   - role: author
     thinker_unresolved: S. Sampath
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - indira-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -54,6 +55,22 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Sampath's address is itself the A. D. Shroff Memorial Lecture delivered on 28 October 1975, so the entire booklet sits inside the Shroff lecture series; Shroff is invoked as the namesake-occasion of the lecture."
+    evidence:
+      - quote: Prof. S. Sampath, then Deputy Director of the Indian Institute of Technology, Madras, uses the A. D. Shroff Memorial Lecture (delivered 28 October 1975, published by the Forum of Free Enterprise in 1976) to argue
+        context: opening sentence; Shroff is the institutional patron under whose name Sampath speaks
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Sampath grounds his Indian-context argument by drawing on Indira Gandhi (alongside C. V. Raman, Vikram Sarabhai and Homi Bhabha) — using her as one of the Indian voices behind the case for a domestic scientific base.
+    evidence:
+      - quote: Drawing on Indira Gandhi, C. V. Raman, M. G. K. Menon, Vikram Sarabhai and Homi Bhabha
+        context: opening of the Indian-context section; Indira Gandhi cited as a source for the home-grown-science thesis
+    key_passages: []
+
 ---
 
 ## Summary

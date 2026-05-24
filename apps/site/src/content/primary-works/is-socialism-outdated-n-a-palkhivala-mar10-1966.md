@@ -17,15 +17,15 @@ contributors:
   - role: author
     thinker_unresolved: M. R. MASANI M.P.
     toc_index: 3
-related_thinkers:
-  - jawaharlal-nehru
-  - t-t-krishnamachari
-  - eugene-black
-  - mahatma-gandhi
-  - nikita-khrushchev
-  - milovan-djilas
-  - ludwig-erhard
+related_thinkers: 
+  - ashok-mehta
   - carlos-romulo
+  - jawaharlal-nehru
+  - ludwig-erhard
+  - mahatma-gandhi
+  - minoo-masani
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -66,6 +66,69 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
+thinker_mentions:
+  - thinker: ashok-mehta
+    role: mention
+    reasoning: "Palkhivala's essay uses Asoka Mehta's Saugor University convocation address as its launchpad, treating Mehta's hints at bank nationalisation as a portentous and possibly unauthorised signal of further state ownership."
+    evidence:
+      - quote: "Palkhivala uses Asoka Mehta's convocation address at Saugor University as a launchpad for a broader assault on the central-planning consensus."
+        context: "Mehta's convocation address is the immediate target of Palkhivala's essay"
+      - quote: "Frames Asoka Mehta's Saugor convocation as a portentous and possibly unauthorised signalling of further nationalisation."
+        context: "key-points restatement of Mehta's role as Palkhivala's foil"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Palkhivala marshals Krishnamachari's 5 June 1964 reversal — following Nehru's May 1964 reassurance against bank nationalisation — as evidence of Cabinet drift on the question and a sign that 'the Cabinet alone should speak as a body'."
+    evidence:
+      - quote: "Records Nehru's 22 May 1964 reassurance against bank nationalisation and T. T. Krishnamachari's 5 June 1964 reversal as evidence of Cabinet drift."
+        context: "key-points restatement of the Krishnamachari reversal as Palkhivala's chief evidence of policy incoherence"
+      - quote: "citing Nehru's May 1964 reassurance and T. T. Krishnamachari's June 1964 reversal as evidence that 'the Cabinet alone should speak as a body'"
+        context: "Krishnamachari's reversal anchors Palkhivala's complaint about cabinet drift on bank nationalisation"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is invoked twice: first via his 22 May 1964 reassurance against bank nationalisation that Palkhivala uses to expose Cabinet drift, and second via Masani's quotation of Nehru in Kathmandu (1959) conceding that 'Socialism in a poor country can only mean that it will remain permanently poor'."
+    evidence:
+      - quote: "citing Nehru's May 1964 reassurance and T. T. Krishnamachari's June 1964 reversal as evidence that 'the Cabinet alone should speak as a body'"
+        context: "Nehru's reassurance is Palkhivala's evidence of cabinet incoherence on bank nationalisation"
+      - quote: "Quotes Nehru in Kathmandu (1959) conceding that 'Socialism in a poor country can only mean that it will remain permanently poor', and uses it as an indictment of Indian planning."
+        context: "Masani enlists Nehru's own admission as the booklet's most damning indictment of the planning model"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Masani locates his own liberal turn in the example of Gandhi, whom he reads as an enemy of state violence and a tester of every policy by its effect on the poorest — re-framing Gandhi as a liberal rather than a socialist.
+    evidence:
+      - quote: locates his own liberal turn in the example of Mahatma Gandhi, whom he reads as an enemy of state violence and a tester of every policy by its effect on the poorest
+        context: Gandhi is re-claimed by Masani as the moral source of his liberal turn
+      - quote: "Reframes Gandhi as a liberal whose test of any system was its impact on 'the poorest and the weakest', not as a socialist."
+        context: "key-points restatement of Masani's Gandhian framing"
+    key_passages: []
+  - thinker: carlos-romulo
+    role: mention
+    reasoning: "Masani closes his essay with Carlos Romulo's 'I am going forward' as the liberal's directional reply to the left-right question, turning Romulo's line into the booklet's closing slogan."
+    evidence:
+      - quote: "closes with the slogan that 'in our time all isms have become wasms', invoking Carlos Romulo's 'I am going forward' as the liberal's reply to the left-right question."
+        context: "Romulo's phrase becomes Masani's closing rhetorical flourish"
+      - quote: "Concludes with the 'isms have become wasms' line and Carlos Romulo's 'I am going forward' as the liberal's directional reply."
+        context: key-points restatement of Romulo as the directional anchor
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Masani holds up West Germany under Erhard as evidence that free economies — not 'Etatisme' — lift wages and living standards fastest, using Erhard's record as the empirical case against Indian planning orthodoxy."
+    evidence:
+      - quote: "Holds up West Germany under Erhard, Japan, France, Britain, the Scandinavian countries, the US, Australia, and New Zealand as evidence that free economies — not 'Etatisme' — lift wages and living standards fastest."
+        context: "Erhard's West Germany leads Masani's catalogue of free-economy success stories"
+    key_passages: []
+  - thinker: minoo-masani
+    role: author
+    reasoning: "Masani's essay 'Will Liberalism Survive Socialism?' (reproduced from Swarajya Annual 1966) forms the third section of this multi-author booklet — its byline was not resolved during Phase A, so his in-prose presence is captured here as an author-role record."
+    evidence:
+      - quote: "Swatantra Party MP M. R. Masani's 'Will Liberalism Survive Socialism?' (from Swarajya Annual 1966) parades Soviet shortages, Indian wage stagnation, and West German prosperity to argue that 'isms have become wasms'"
+        context: summary introduces Masani as the third essayist and previews his line of argument
+      - quote: Masani opens with an autobiographical confession that he was once an ardent socialist and author of Socialism Reconsidered, then locates his own liberal turn in the example of Mahatma Gandhi
+        context: "essay-level description of Masani's opening move and Gandhian self-positioning"
+    key_passages: []
+
 ---
 ## Summary
 

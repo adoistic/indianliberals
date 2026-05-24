@@ -8,7 +8,9 @@ authors:
   - milton-friedman
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - friedrich-hayek
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,6 +42,17 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
   format: leaflet (single-essay FFE pamphlet, reprint of a Swarajya article)
+thinker_mentions:
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: Friedman closes his case for a freely floating rupee with an explicitly Hayekian appeal to dispersed knowledge, arguing that a market exchange rate mobilises the specialised information of millions of Indians better than any planner.
+    evidence:
+      - quote: Friedman closes with a Hayekian appeal to dispersed knowledge
+        context: "summary frame: Friedman invokes Hayek's epistemic argument to ground his free-market case for the rupee"
+      - quote: A market rate would harness the dispersed specialised knowledge of millions of Indians — a Hayekian argument that planners, however able, cannot collectively match the aggregate knowledge of the population.
+        context: key-points restatement that names the Hayekian framework as the load-bearing epistemic premise
+    key_passages: []
+
 ---
 ## Summary
 

@@ -8,8 +8,9 @@ authors:
   - k-b-dadiseth
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,6 +43,15 @@ physical:
   pages_total: 20
   pages_total_source: pypdfium2
   format: Booklet/pamphlet — paperback, single-essay reprint of a memorial lecture
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Dadiseth's address is the 32nd A. D. Shroff Memorial Lecture, framing his case for an Indian, trusteeship-style corporate governance against the legacy of state-controlled enterprise that Shroff's Forum of Free Enterprise was founded to oppose."
+    evidence:
+      - quote: Delivered as the 32nd A. D. Shroff Memorial Lecture on 24 October 1997 and published by the Forum of Free Enterprise
+        context: opening line; positions Shroff as the namesake-anchor of the address
+    key_passages: []
+
 ---
 ## Summary
 

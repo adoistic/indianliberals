@@ -17,16 +17,14 @@ contributors:
   - role: author
     thinker: k-santhanam
     toc_index: 3
-related_thinkers:
-  - eugene-black
-  - s-k-patil
-  - bernard-shaw
-  - jrd-tata
+related_thinkers: 
+  - a-d-shroff
   - c-rajagopalachari
+  - eugene-black
   - john-kenneth-galbraith
   - lal-bahadur-shastri
-  - t-t-krishnamachari
-  - a-d-shroff
+  - winston-churchill
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -62,6 +60,54 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: The booklet is framed by sidebar pull-quotes from Eugene Black (paired with A. D. Shroff) defending private enterprise as an affirmative good — the standard Forum of Free Enterprise framing around the three Plan-critique essays.
+    evidence:
+      - quote: The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.
+        context: Black supplies one of the two pull-quotes that frame the Dandeker-Mehta-Santhanam compilation
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff appears alongside Eugene Black in the booklet's sidebar pull-quotes, supplying the Forum of Free Enterprise's affirmative-good framing around the three Plan-critique essays."
+    evidence:
+      - quote: The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.
+        context: Shroff supplies one of the two pull-quotes that frame the booklet
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Mehta invokes Rajaji's quip about a cure that killed the patient's wife to argue for selective rather than blanket capital-issues control."
+    evidence:
+      - quote: "more selective control of capital issues, illustrated by Rajaji's quip about a cure that killed the patient's wife"
+        context: Rajaji is invoked by G. L. Mehta as the witty authority against blanket capital-issues control
+      - quote: Calls for selective capital-issues control rather than blanket restraint; cites Rajaji on cures killing the patient
+        context: "key-points restatement of Mehta's use of Rajaji"
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Mehta dismisses further public-sector steel plants, petro-chemical complexes and the Cochin shipyard as Galbraithian 'symbolic modernism' — using Galbraith's coinage as the polemical label for showpiece investments."
+    evidence:
+      - quote: "closer scrutiny of further petro-chemical complexes, additional public-sector steel plants and the long-delayed Cochin shipyard, which he treats as instances of what \"Prof. Galbraith would call symbolic modernism\""
+        context: "Galbraith's phrase 'symbolic modernism' is the rhetorical device Mehta turns against Plan showpieces"
+      - quote: "Treats further petro-chemical complexes, new public-sector steel plants and the Cochin shipyard as Galbraithian \"symbolic modernism\""
+        context: key-points restatement of the Galbraithian framing
+    key_passages: []
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Santhanam argues that Lal Bahadur Shastri's first year in office has stabilised the country and that the immediate task is plan consolidation rather than fresh expansion — using Shastri's stabilisation as the political ground for his one-year Third-Plan extension."
+    evidence:
+      - quote: "Santhanam's piece — reprinted with the Editor's permission from the Statesman of 24 July 1964 — argues that Lal Bahadur Shastri's first year in office has stabilised the country and that the immediate task is plan consolidation rather than a fresh round of expansion."
+        context: "Shastri's stewardship is Santhanam's political ground for plan consolidation"
+    key_passages: []
+  - thinker: winston-churchill
+    role: mention
+    reasoning: "Santhanam echoes Churchill's refusal to liquidate the empire — hoping the Finance Minister of India will fare better than the Prime Minister of Britain who failed to do likewise — as a rhetorical analogy for his Plan-extension proposal."
+    evidence:
+      - quote: "Echoing Churchill's refusal to liquidate the empire, he hopes the Finance Minister of India will fare better than the Prime Minister of Britain who failed to do likewise."
+        context: Churchill is invoked as the British analogue Santhanam wants the Indian Finance Minister to outdo
+    key_passages: []
+
 ---
 ## Summary
 

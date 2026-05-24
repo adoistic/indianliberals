@@ -12,6 +12,7 @@ draft: false
 author: "bhimrao-ambedkar"
 thinker_mentions: []
 related_thinkers: []
+
 source_channel: "so-musings"
 proposed_themes:
   - "caste-system"

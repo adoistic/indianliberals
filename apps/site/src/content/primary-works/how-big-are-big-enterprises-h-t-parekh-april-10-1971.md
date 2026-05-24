@@ -8,7 +8,10 @@ authors:
   - h-t-parekh
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +49,22 @@ missing_metadata_flags:
   - no_toc
   - no_isbn
   - byline_unresolved_in_authority
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Parekh's pamphlet against the Dutt Committee's 'large house' classification is bracketed by an A. D. Shroff epigraph affirming free enterprise as a positive good, placing his technical case against monopoly law inside the Forum's broader Shroff-anchored classical-liberal frame."
+    evidence:
+      - quote: is framed by paratext quotes from A. D. Shroff and Eugene Black affirming free enterprise as a positive good
+        context: "closing sentence of the summary; locates the booklet inside the Forum's Shroff–Black epigraphic canon"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The Forum frames Parekh's critique of India's monopoly statute with an Eugene Black epigraph affirming private enterprise as a positive good, importing the World Bank president's authority into the booklet's case against treating large Indian houses as monopolies."
+    evidence:
+      - quote: is framed by paratext quotes from A. D. Shroff and Eugene Black affirming free enterprise as a positive good
+        context: "closing sentence; Black's pro-private-enterprise authority brackets the pamphlet's argument"
+    key_passages: []
+
 ---
 ## Summary
 

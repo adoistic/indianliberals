@@ -12,6 +12,7 @@ draft: false
 author: "rukhmabai"
 thinker_mentions: []
 related_thinkers: []
+
 proposed_themes:
   - "biography"
   - "women-in-medicine"

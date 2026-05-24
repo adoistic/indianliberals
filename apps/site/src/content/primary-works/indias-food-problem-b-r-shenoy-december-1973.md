@@ -8,10 +8,11 @@ authors:
   - b-r-shenoy
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - jawaharlal-nehru
   - c-rajagopalachari
+  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +50,31 @@ missing_metadata_flags:
   - no_explicit_publication_year_on_cover_or_colophon
   - no_isbn
   - no_ffe_pamphlet_number_seen_in_chunk
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shenoy's lecture is the Eighth A. D. Shroff Memorial Lecture, anchoring his food-policy critique inside the Forum's classical-liberal lecture series."
+    evidence:
+      - quote: Delivered on 30th October 1973 as the Eighth A. D. Shroff Memorial Lecture and published by the Forum of Free Enterprise
+        context: Shroff is the namesake of the lecture in which Shenoy attacks PL 480 withdrawal
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Shenoy invokes Rajagopalachari's image of 'transferring blood from the right arm to the left' to dismiss domestically-built 'buffer' stocks as a mere transfer of pipe-line inventory rather than real food security."
+    evidence:
+      - quote: what Rajagopalachari called transferring blood from the right arm to the left.
+        context: "Rajaji's metaphor is the rhetorical hammer Shenoy uses against the domestic-buffer claim"
+      - quote: "Dismisses domestically-built 'buffer' stocks as a mere transfer of pipe-line inventory, quoting Rajagopalachari's image of transferring blood from the right arm to the left."
+        context: key-points restatement of the Rajaji quote
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Shenoy cites Nehru's 1948 call for self-sufficiency as a normative anchor when surveying the scope for expanding domestic foodgrain production — turning Nehruvian rhetoric against the post-1972 PL 480 withdrawal."
+    evidence:
+      - quote: "Shenoy closes the rendered portion with a survey of the scope for expanding production — citing the Mysore survey, ICAR's J. S. Kanwar on HYV-plus-fertiliser yield gains, and Nehru's 1948 call for self-sufficiency"
+        context: "Nehru's 1948 self-sufficiency call is the normative anchor Shenoy quotes for an expansion programme"
+    key_passages: []
+
 ---
 ## Summary
 

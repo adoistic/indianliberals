@@ -8,9 +8,9 @@ authors:
   - shailaja-bapat
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - chintaman-deshmukh
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -55,6 +55,15 @@ authors_resolution:
   stubs_referenced:
     - shailaja-bapat
   collisions_logged: []
+thinker_mentions:
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: Bapat builds her indictment of the LIC by measuring its actual performance against the specific promises C. D. Deshmukh made in 1956 on the eve of nationalisation — cheaper insurance, better service, higher efficiency.
+    evidence:
+      - quote: Against the promises C. D. Deshmukh made on the eve of nationalisation in 1956 — cheaper insurance, better service, higher efficiency, growth-oriented investment and employment
+        context: "sets up the evidentiary frame for the entire critique; Deshmukh's promises become the benchmark for measuring LIC's failures"
+    key_passages: []
+
 ---
 
 ## Summary

@@ -25,6 +25,25 @@ period_window: nehruvian-era
 geographic_scope:
   scale: national
   places: []
+thinker_mentions:
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Valicha enlists Adam Smith as libertarianism's defining champion in the historical fight against mercantilism, using him to position the present-day defence of free enterprise within a continuous liberal lineage."
+    evidence:
+      - quote: In the anti-mercantilist epoch, its champion was Adam Smith.
+        context: "closing genealogy of libertarian struggle; Smith named as the movement's first-epoch standard-bearer"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "Valicha places John Stuart Mill alongside Adam Smith in libertarianism's lineage, casting Mill as the defender of liberty during the anti-conservative epoch and using the genealogy to argue that the present anti-socialist fight is the same battle in a new key."
+    evidence:
+      - quote: In the anti-conservative epoch, John Stuart Mill stood out as its defender.
+        context: Mill positioned as the second figure in a three-epoch genealogy of libertarian defenders
+    key_passages: []
+related_thinkers: 
+  - adam-smith
+  - john-stuart-mill
+
 ---
 
 _K D Valicha’s piece “Profit-Shy Asians,” featured in the August 1957 edition of The Indian Libertarian magazine, discussed "free enterprise." The edition was released on the 10th anniversary of the Indian Independence movement. While the country was still carving its niche on the global map, Valicha’s cogent analysis of the significance of free enterprise and the skewed definition and, therefore, aversion to Profit not only gives a glimpse of the country’s economic outlook but also finds relevance even after six decades of publication._

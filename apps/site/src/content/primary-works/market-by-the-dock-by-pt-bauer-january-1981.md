@@ -7,7 +7,9 @@ authors:
   - peter-bauer
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - mh-mody
+
 publication:
   language: en
 provenance:
@@ -36,6 +38,17 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: mh-mody
+    role: mention
+    reasoning: "M. H. Mody supplies the foreword and presides over Bauer's lecture, framing Bauer's central provocation that the market economy is in the dock not because it has failed but because in much of the Third World it has never been tried."
+    evidence:
+      - quote: "A foreword by Minoo H. Mody, who presided over the lecture, frames Bauer's central provocation: the market economy stands accused not because it has failed but because in much of the Third World it has never been tried."
+        context: booklet apparatus; Mody is the FFE editor who both presides and frames the printed version
+      - quote: "Mody links Bauer's argument to a broader critique of the welfare state, which he calls \"the most tragic mistake of the twentieth century\""
+        context: "Mody extends Bauer's market-defence into a critique of the welfare state in his own voice"
+    key_passages: []
+
 ---
 
 ## Summary

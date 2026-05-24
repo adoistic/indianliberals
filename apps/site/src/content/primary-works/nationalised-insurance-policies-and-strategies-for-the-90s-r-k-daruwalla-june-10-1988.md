@@ -12,8 +12,10 @@ contributors:
     thinker_unresolved: R. K. DARUWALLA
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -58,6 +60,24 @@ authors_resolution:
   stubs_referenced:
     - r-k-daruwalla
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is the annual A. D. Shroff Memorial Trust lecture and the booklet's front matter includes a biographical tribute to Shroff — positioning him as the institutional patron under whose name the case for restructuring nationalised insurance is being made."
+    evidence:
+      - quote: Delivered on 28 April 1988 as the annual A. D. Shroff Memorial Trust lecture
+        context: Shroff is the namesake of the memorial lecture series
+      - quote: the biographical tribute to A. D. Shroff
+        context: "front-matter tribute included in the booklet's rendered pages"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala is listed as the author of the booklet's introduction, placing him as the senior endorsing voice for Daruwalla's insider critique of GIC structure."
+    evidence:
+      - quote: "Palkhivala's introduction"
+        context: "Palkhivala writes the booklet's introduction, lending senior endorsement to Daruwalla's argument"
+    key_passages: []
+
 ---
 
 ## Summary

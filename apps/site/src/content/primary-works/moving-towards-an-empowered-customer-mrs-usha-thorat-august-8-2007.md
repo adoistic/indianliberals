@@ -8,12 +8,13 @@ authors:
   - usha-thorat
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - m-r-pai
-  - s-s-tarapore
-  - nani-palkhivala
   - eugene-black
+  - m-r-pai
+  - nani-palkhivala
+  - s-s-tarapore
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -60,6 +61,47 @@ authors_resolution:
   stubs_referenced:
     - usha-thorat
   collisions_logged: []
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The lecture is delivered at the 3rd M. R. Pai Memorial Award Function and opens with a tribute to Pai's consumer-rights campaigns of the 1970s onward, framing his maxim about citizens needing to know and fight for their rights as the moral premise of the entire talk."
+    evidence:
+      - quote: Delivered on 27 June 2007 at the 3rd M. R. Pai Memorial Award Function in Mumbai
+        context: establishes Pai as the namesake-anchor of the entire memorial lecture
+      - quote: Thorat opens with a tribute to M. R. Pai, the consumer activist whose campaigns from the 1970s onward
+        context: "frames Pai's consumer-rights activism as the lineage Thorat's RBI initiatives extend"
+      - quote: Pays tribute to M. R. Pai (1922–2003), Forum of Free Enterprise Secretary and biographer of Nani Palkhivala, whose maxim — that a citizen must know his rights and be willing to fight to assert them — sets the polemical frame of the talk.
+        context: "closing biographical tribute that positions Pai's maxim as the polemical frame of the address"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The booklet closes by printing A. D. Shroff's epigraph on free enterprise as a perennial human institution, alongside Eugene Black's exhortation — positioning Shroff as the ideological patron whose maxim frames the Forum's enduring stance on private enterprise."
+    evidence:
+      - quote: "prints A. D. Shroff's epigraph that 'Free Enterprise was born with man and shall survive as long as man survives,'"
+        context: "Shroff's epigraph serves as the booklet's signature endorsement of free enterprise"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala appears in the closing biographical sketch of M. R. Pai, identified as the subject of Pai's biography — a one-line lineage marker linking Forum of Free Enterprise figures across generations."
+    evidence:
+      - quote: biographer of Nani Palkhivala
+        context: "identifies Palkhivala as the subject of Pai's biography, threading him into the Forum's intellectual lineage"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black appears alongside Shroff in the booklet's closing epigraphs, his exhortation that private enterprise be accepted as 'an affirmative good' invoked as a complementary endorsement of the Forum's free-enterprise creed."
+    evidence:
+      - quote: "Eugene Black's exhortation that private enterprise be accepted 'not as a necessary evil, but as an affirmative good.'"
+        context: "closing pairing with Shroff's epigraph; positions Black's words as a complementary endorsement of private enterprise"
+    key_passages: []
+  - thinker: s-s-tarapore
+    role: mention
+    reasoning: "The Tarapore Committee's May 2004 report on depositor disenfranchisement is the first item Thorat lists in her catalogue of RBI customer-protection initiatives, anchoring the regulatory architecture she describes."
+    evidence:
+      - quote: "the Tarapore Committee's May 2004 report on disenfranchisement of the depositor"
+        context: "opens Thorat's catalogue of recent RBI moves toward customer protection"
+    key_passages: []
+
 ---
 
 ## Summary

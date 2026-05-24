@@ -10,9 +10,11 @@ editors: []
 contributors:
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - chintaman-deshmukh
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -56,6 +58,33 @@ authors_resolution:
   stubs_referenced:
     - g-l-mehta
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is the inaugural A. D. Shroff Memorial Address, and Mehta opens with an extended personal tribute to Shroff — his contemporary at Elphinstone College and the London School of Economics — covering Shroff's roles in the 1944 Bretton Woods delegation, the 1953 Reserve Bank enquiry, the Bombay Plan and the founding of ICICI."
+    evidence:
+      - quote: "\"Industrial Finance in a Mixed Economy\" is the inaugural A. D. Shroff Memorial Address, delivered by G. L. Mehta in Bombay on 14 March 1972 and published the following month by the A. D. Shroff Memorial Trust under N. A. Palkhivala's chairmanship."
+        context: Shroff is the namesake of the inaugural Memorial Address
+      - quote: "Tribute to A. D. Shroff covers his role in the Bretton Woods delegation of 1944, the Reserve Bank's 1953 enquiry into private-industry finance, the Bombay Plan, and the founding Steering Committee of ICICI; Mehta notes Shroff's later turn into a strong critic of Government planning."
+        context: "key-points restatement of Mehta's biographical tribute to Shroff"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala chairs the A. D. Shroff Memorial Trust that publishes Mehta's lecture, and his introduction frames the inaugural address — Mehta's polemical platform sits inside Palkhivala's institutional curation."
+    evidence:
+      - quote: "published the following month by the A. D. Shroff Memorial Trust under N. A. Palkhivala's chairmanship."
+        context: "Palkhivala's chairmanship of the Trust is the institutional frame for Mehta's lecture"
+      - quote: Inaugural A. D. Shroff Memorial Address, delivered by G. L. Mehta on 14 March 1972 in Bombay and published by the A. D. Shroff Memorial Trust on 14 April 1972 with an introduction by N. A. Palkhivala.
+        context: "key-points restatement: Palkhivala writes the introduction"
+    key_passages: []
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: "Deshmukh is named in Mehta's account of the 1944 Bretton Woods delegation — alongside Shroff, Sir Jeremy Raisman and Shanmukham Chetty — establishing the multilateral lineage Mehta traces back through Shroff."
+    evidence:
+      - quote: "recalling Shroff's role in the Bretton Woods delegation of 1944 (led by Sir Jeremy Raisman, with Chintaman Deshmukh and Shanmukham Chetty)"
+        context: Deshmukh is named on the Bretton Woods delegation Mehta foregrounds
+    key_passages: []
+
 ---
 
 ## Summary

@@ -8,10 +8,10 @@ authors:
   - prof-cn-vakil
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - a-d-shroff
-  - m-r-pai
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -55,6 +55,22 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Vakil's anti-inflation polemic is framed by the Forum of Free Enterprise's standing sidebar quotations from Eugene Black, used to align the booklet's case against deficit financing with Black's defence of private enterprise as an affirmative good."
+    evidence:
+      - quote: citing Eugene Black and A. D. Shroff in sidebar quotations
+        context: "the booklet's framing apparatus; Black and Shroff are deployed as the institutional moral chorus"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Vakil's anti-deficit-financing pamphlet is bracketed by the Forum's signature sidebar quotations from A. D. Shroff, linking the booklet's diagnosis of inflation as policy-made to the Forum's founding doctrine of private enterprise as an affirmative good."
+    evidence:
+      - quote: citing Eugene Black and A. D. Shroff in sidebar quotations
+        context: "the booklet's framing apparatus; Shroff's voice is enlisted to vouch for the case against inflationary state expenditure"
+    key_passages: []
+
 ---
 
 ## Summary

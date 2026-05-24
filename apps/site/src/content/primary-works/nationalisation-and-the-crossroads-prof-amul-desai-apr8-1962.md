@@ -8,15 +8,10 @@ authors:
   - amul-desai
 editors: []
 contributors: []
-related_thinkers:
-  - karl-marx
-  - eugene-black
+related_thinkers: 
   - dudley-senanayake
-  - a-d-shroff
-  - ludwig-erhard
-  - friedrich-hayek
-  - ludwig-von-mises
-  - m-r-pai
+  - karl-marx
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -60,6 +55,26 @@ authors_resolution:
   stubs_referenced:
     - amul-desai
   collisions_logged: []
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Desai opens by historicising Marx — arguing that the absence of trade unionism, franchise, and welfare-state legislation in Marx's day made violent overthrow appear necessary, but that those conditions have since collapsed, dissolving the original case for nationalisation."
+    evidence:
+      - quote: "Desai opens by historicising Marx: when Das Capital was written, labour had no right to organise or vote, parliamentary democracy was a fiction, and the welfare state did not yet exist"
+        context: Desai frames Marx as a 19th-century thinker whose premises have been overtaken by 20th-century institutional change
+      - quote: Historicises Marx by arguing that adult franchise, trade unionism, welfare-state legislation and labour parties winning power at the ballot box have dissolved the 19th-century premise that nationalisation is the only escape from capitalist exploitation.
+        context: key-point restatement of the opening Marx-historicisation move
+    key_passages: []
+  - thinker: dudley-senanayake
+    role: mention
+    reasoning: "Senanayake is cited as one of two Asian premiers (alongside U Nu) whose 1960 declarations are presented as public repudiations of nationalisation by governments that had earlier embraced it — international evidence for Desai's worldwide-retreat thesis."
+    evidence:
+      - quote: "Ceylon's Dudley Senanayake declared in March 1960 that nationalisation as an end in itself was something to which his government was 'certainly not wedded'"
+        context: "Senanayake's March 1960 declaration cited as Asian government repudiation of nationalisation doctrine"
+      - quote: "Ceylon Prime Minister Dudley Senanayake's March 26, 1960 declaration as public repudiations of nationalisation by Asian governments that had earlier embraced it."
+        context: "key-point framing of Senanayake's role in the international-evidence section"
+    key_passages: []
+
 ---
 
 ## Summary

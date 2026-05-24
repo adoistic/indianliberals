@@ -8,8 +8,9 @@ authors:
   - l-g-bapat
 editors: []
 contributors: []
-related_thinkers:
-  - friedrich-hayek
+related_thinkers: 
+  - colin-clark
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - byline_unresolved_in_authority
+thinker_mentions:
+  - thinker: colin-clark
+    role: mention
+    reasoning: "Bapat measures India's 18.7 per cent tax-to-national-income ratio against Colin Clark's 20-25 per cent inflationary threshold to dismiss taxation as a primary driver of Indian inflation."
+    evidence:
+      - quote: "Measured against Colin Clark's 20-25 per cent of national income threshold, Indian taxation at 18.7 per cent in 1967-68 was below the inflationary line"
+        context: "applies Clark's threshold to defend Indian tax levels against the cost-push critique"
+      - quote: "1967-68 taxation at 18.7 per cent of national income was below Colin Clark's 20-25 per cent inflationary threshold."
+        context: key-points line restating the Clark benchmark
+    key_passages: []
+
 ---
 ## Summary
 

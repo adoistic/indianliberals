@@ -8,7 +8,10 @@ authors:
   - mukesh-ambani
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +49,22 @@ missing_metadata_flags:
   - no_formal_toc
   - no_isbn
   - no_separate_copyright_page
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Ambani's booklet is bookended by an A. D. Shroff epigraph, framing his 2020-vision argument within the Forum of Free Enterprise's classical-liberal lineage that Shroff founded."
+    evidence:
+      - quote: "An A. D. Shroff epigraph at the front and a Eugene Black epigraph at the back frame the booklet within the Forum's classical-liberal advocacy of private enterprise as an affirmative good."
+        context: "closing note on the booklet's framing — Shroff's words anchor the front of the volume"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black supplies the closing epigraph of Ambani's booklet, lending the former World Bank president's voice to the Forum of Free Enterprise's private-enterprise framing of India's 2020 trajectory."
+    evidence:
+      - quote: "An A. D. Shroff epigraph at the front and a Eugene Black epigraph at the back frame the booklet within the Forum's classical-liberal advocacy of private enterprise as an affirmative good."
+        context: "closing note — Eugene Black's epigraph closes the booklet, framing its argument in classical-liberal terms"
+    key_passages: []
+
 ---
 ## Summary
 

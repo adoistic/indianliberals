@@ -11,8 +11,10 @@ contributors:
     thinker_unresolved: R. N. MALHOTRA
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion\", 235, Dr. D. N. Road, BOMBAY 400 001. (Colophon, p.4: \"Published by M. R. Pai on behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400001, and Printed by S. V. Limaye at the India Printing Works, India Printing House, 42, G. D. Ambekar Marg, Wadala, Bombay 400031.\")"
@@ -54,6 +56,24 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Malhotra's lecture is the 1995 Annual Public Lecture under the A. D. Shroff Memorial Trust, and the rendered chunk reproduces a separate tribute to Shroff (1899-1965) framing the occasion."
+    evidence:
+      - quote: the 1995 Annual Public Lecture of the A. D. Shroff Memorial Trust
+        context: "institutional setting; the entire lecture is delivered under Shroff's memorial trust"
+      - quote: "a tribute to A. D. Shroff (1899-1965), and N. A. Palkhivala's chairman's introduction"
+        context: "booklet apparatus; Shroff's life-dates are foregrounded as the Trust's namesake"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala, as chairman, writes the introduction commending Malhotra's lecture to policy-makers — lending his constitutional authority to the case for opening insurance to private competition."
+    evidence:
+      - quote: "N. A. Palkhivala's chairman's introduction commending the lecture to policy-makers"
+        context: "editorial framing; Palkhivala's imprimatur is used to elevate Malhotra's policy argument"
+    key_passages: []
+
 ---
 
 ## Summary

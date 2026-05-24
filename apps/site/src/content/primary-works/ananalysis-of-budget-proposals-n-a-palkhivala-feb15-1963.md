@@ -8,10 +8,9 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - eugene-black
-  - morarji-desai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +47,17 @@ missing_metadata_flags:
   - explicit_publication_year_not_printed
   - no_table_of_contents
   - no_isbn_issn
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff appears as the ideological book-end of Palkhivala's polemic: a free-enterprise aphorism from him is reproduced to seal the pamphlet's worldview, anchoring Palkhivala's tax critique inside the Forum of Free Enterprise's classical-liberal frame."
+    evidence:
+      - quote: "with A. D. Shroff's epigraph on free enterprise sealing the pamphlet's worldview."
+        context: "Shroff's epigraph closes the pamphlet, positioning Palkhivala's Budget critique inside the Forum's free-enterprise frame"
+      - quote: "Closes with A. D. Shroff's aphorism on free enterprise"
+        context: "the key-points summary again foregrounds Shroff's aphorism as the pamphlet's closing note"
+    key_passages: []
+
 ---
 ## Summary
 

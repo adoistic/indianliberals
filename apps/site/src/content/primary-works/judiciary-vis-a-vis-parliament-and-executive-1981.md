@@ -9,11 +9,10 @@ editors: []
 contributors:
   - role: author
     thinker_unresolved: Anil B. Divan
-related_thinkers:
-  - jawaharlal-nehru
+related_thinkers: 
   - bhimrao-ambedkar
-  - indira-gandhi
-  - mahatma-gandhi
+  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +56,22 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Divan grounds the Indian doctrine of judicial independence in the Constituent Assembly's intent, quoting Nehru alongside Ambedkar and B. N. Rau on the need for judges free from party bias."
+    evidence:
+      - quote: "the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N. Rau on the need for judges free from party bias"
+        context: foundational move; Nehru is invoked as one of three Constituent-Assembly authorities anchoring the post-1950 judicial standard
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is cited as one of the Constituent Assembly framers whose words establish the Indian judiciary's intended independence from party politics."
+    evidence:
+      - quote: "the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N. Rau on the need for judges free from party bias"
+        context: "Divan's framing of the constitutional design for judicial independence"
+    key_passages: []
+
 ---
 
 ## Summary

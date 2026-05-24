@@ -8,7 +8,9 @@ authors:
   - d-v-desai
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +54,15 @@ authors_resolution:
   stubs_referenced:
     - d-v-desai
   collisions_logged: []
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "M. R. Pai is named as the publisher of Desai's Forum of Free Enterprise pamphlet, marking Pai's role as the editorial-institutional steward issuing the practitioner's guide to navigating Nehruvian licensing."
+    evidence:
+      - quote: The pamphlet originated as a 24 May 1961 Forum of Free Enterprise lecture and was issued as booklet on 8 August 1961, published by M. R. Pai.
+        context: key-points block names Pai as the publisher of record for the booklet
+    key_passages: []
+
 ---
 
 ## Summary

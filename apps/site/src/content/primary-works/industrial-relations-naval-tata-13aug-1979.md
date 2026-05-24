@@ -14,10 +14,11 @@ contributors:
   - role: author
     thinker_unresolved: P. C. Mehta
     toc_index: 2
-related_thinkers:
-  - karl-marx
+related_thinkers: 
   - charan-singh
+  - karl-marx
   - morarji-desai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +54,33 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc_page
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Naval Tata invokes Marx via V. M. Dandekar's critique of the bankmen's strike to argue that even socialist categories — social justice, Marxist analysis — cut against trade-union militancy in essential services."
+    evidence:
+      - quote: "Dr. V. M. Dandekar's critique of the bankmen's strike invoking Karl Marx and social justice"
+        context: used to defuse the union charge of anti-labour bias by mobilising socialist authority against strike tactics
+    key_passages: []
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Cited as Prime Minister and addressee of Charan Singh's June 1979 note opposing bonus for railwaymen — positioning Desai's cabinet as the political setting for the Janata-era labour-law and bonus disputes the pamphlet covers."
+    evidence:
+      - quote: a note from the then Finance Minister and Deputy Prime Minister Mr. Charan Singh, addressed to Prime Minister Morarji Desai, opposing the grant of bonus to railwaymen
+        context: frames the bonus controversy at the apex of the Janata cabinet
+    key_passages: []
+  - thinker: charan-singh
+    role: mention
+    reasoning: "Charan Singh's June 1979 note against extending bonus to railwaymen is reproduced in the appendix and used to anchor the employer-side case that bonus has become a statutory privilege of an organised minority at huge fiscal cost."
+    evidence:
+      - quote: a note from the then Finance Minister and Deputy Prime Minister Mr. Charan Singh, addressed to Prime Minister Morarji Desai, opposing the grant of bonus to railwaymen and other employees of Government departmental undertakings
+        context: "introduces the appendix and Charan Singh's argumentative role"
+      - quote: Charan Singh argues that extending bonus to railwaymen would obligate it for all Central Government employees at an annual cost of about Rs.600 crores against a deficit budget of Rs.1,345 crores for 1979-80
+        context: summarises the fiscal core of his case
+      - quote: "Reproduces Charan Singh's June 1979 case against extending bonus to railwaymen and Government departmental employees."
+        context: key-points line restating his contribution
+    key_passages: []
+
 ---
 ## Summary
 

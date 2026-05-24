@@ -12,7 +12,9 @@ contributors:
     thinker_unresolved: Dr. S. D. Naik
   - role: introduction
     thinker: sunil-bhandare
-related_thinkers: []
+related_thinkers: 
+  - sunil-bhandare
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -56,6 +58,15 @@ authors_resolution:
   stubs_referenced:
     - s-d-naik
   collisions_logged: []
+thinker_mentions:
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: "Bhandare supplies the editorial framing for the Naik essay (printed pages 3-6), introducing the booklet's central paradox of jobless growth before Naik's diagnosis begins."
+    evidence:
+      - quote: "After Sunil S. Bhandare's editorial framing (printed pages 3–6), Naik's essay \"What needs to be done to tackle it?\" opens by defining jobless growth"
+        context: Bhandare is named as the editorial-framer who introduces the Naik essay
+    key_passages: []
+
 ---
 
 ## Summary

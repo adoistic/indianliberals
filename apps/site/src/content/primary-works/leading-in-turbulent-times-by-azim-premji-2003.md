@@ -13,7 +13,11 @@ contributors:
     toc_index: 1
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
+  - minoo-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -55,6 +59,29 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's dedication on the inside cover anchors Premji's leadership lectures inside the Forum of Free Enterprise's classical-liberal frame, presenting free enterprise as a survival principle."
+    evidence:
+      - quote: "an A. D. Shroff dedication on the inside cover (\"Free Enterprise was born with man and shall survive as long as man survives\")"
+        context: "the booklet's house furniture; Shroff's epigraph sets the polemical key for Premji's argument"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black's closing quote — that private enterprise is an 'affirmative good' — is the booklet's editorial bookend, used to lift Premji's Values-based corporate ethic into the FFE classical-liberal canon."
+    evidence:
+      - quote: "a closing Eugene Black quote that \"people must come to accept private enterprise not as a necessary evil, but as an affirmative good,\""
+        context: "back-matter dedication; Black supplies the philosophical wrap on Premji's lectures"
+    key_passages: []
+  - thinker: minoo-shroff
+    role: mention
+    reasoning: "Minoo R. Shroff, as FFE President, writes the booklet's introduction — situating Premji's corporate-leadership ethic inside the Forum's broader case for private enterprise."
+    evidence:
+      - quote: an Introduction by FFE President Minoo R. Shroff, a closing Eugene Black quote
+        context: "editorial apparatus surrounding Premji's two speeches; Minoo Shroff is the FFE editor framing the booklet"
+    key_passages: []
+
 ---
 
 ## Summary

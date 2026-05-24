@@ -8,8 +8,9 @@ authors:
   - forum-of-free-enterprise
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +53,17 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "The pamphlet is prefaced by Finance Minister T. T. Krishnamachari's note welcoming constructive criticism — a striking instance of the sitting finance minister endorsing the Forum's anti-'monopoly-capitalism' rebuttal at the official front of the booklet."
+    evidence:
+      - quote: Prefaced by a brief statement of openness from Finance Minister T. T. Krishnamachari, the article defines monopoly narrowly
+        context: "opening editorial framing; Krishnamachari's preface lends ministerial cover to the FFE rebuttal"
+      - quote: framed by an opening note from Finance Minister T. T. Krishnamachari welcoming constructive criticism
+        context: key-points restatement; Krishnamachari named as the official voice opening the pamphlet
+    key_passages: []
+
 ---
 
 ## Summary

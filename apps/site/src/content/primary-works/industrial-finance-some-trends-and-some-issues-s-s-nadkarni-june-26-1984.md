@@ -12,9 +12,10 @@ contributors:
     thinker_unresolved: S. S. NADKARNI
   - role: introduction
     thinker: m-r-pai
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - nani-palkhivala
+  - dr-ig-patel
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -60,6 +61,24 @@ authors_resolution:
   stubs_referenced:
     - s-s-nadkarni
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Nadkarni's address is delivered as the 1984 A. D. Shroff Memorial Trust public lecture, anchoring his survey of Indian industrial finance inside the Shroff/Forum classical-liberal lecture series."
+    evidence:
+      - quote: Delivered as the 1984 A. D. Shroff Memorial Trust public lecture by S. S. Nadkarni
+        context: Shroff is the namesake of the lecture in which Nadkarni surveys industrial finance
+    key_passages: []
+  - thinker: dr-ig-patel
+    role: mention
+    reasoning: "Nadkarni quotes I. G. Patel on the discipline that credit is not a gift or subsidy, using Patel's formulation to ground his managerial agenda for India's nationalised financial system."
+    evidence:
+      - quote: He quotes Dr. I. G. Patel on the discipline that credit is not a gift or subsidy, and lays out a managerial agenda for the financial system
+        context: I. G. Patel supplies the central operating principle Nadkarni applies to the financial system
+      - quote: "Nadkarni accepts that pervasive government influence over banks, LIC, GIC, IDBI etc. is here to stay, and reframes the question from ownership to operational efficiency, quoting Dr. I. G. Patel that 'credit is not a gift or a subsidy'."
+        context: key-points restatement of the I. G. Patel quote
+    key_passages: []
+
 ---
 
 ## Summary

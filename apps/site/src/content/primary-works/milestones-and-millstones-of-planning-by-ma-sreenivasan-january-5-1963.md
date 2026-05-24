@@ -8,9 +8,9 @@ authors:
   - ma-sreenivasan
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - mahatma-gandhi
-  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +45,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Sreenivasan opens by citing Mahatma Gandhi's readiness to admit 'a blunder, even if Himalayan' as the moral warrant for retracing steps in Indian planning — using Gandhi to defend course-correction as statesmanship."
+    evidence:
+      - quote: "Citing Mahatma Gandhi's readiness to admit \"a blunder, even if Himalayan,\" he insists that retracing steps is no failure but a precondition for honest course-correction."
+        context: "opening rhetorical move; Gandhi's example licenses Sreenivasan's call to admit planning failures"
+      - quote: "uses Gandhi's example of admitting blunders to defend retracing steps as statesmanship rather than weakness"
+        context: key-points restatement; Gandhi is the moral authority underwriting honest planning review
+    key_passages: []
+
 ---
 ## Summary
 

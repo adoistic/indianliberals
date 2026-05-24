@@ -8,7 +8,10 @@ authors:
   - colin-clark
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - joseph-stalin
+  - mao-zedong
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +54,24 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: mao-zedong
+    role: mention
+    reasoning: "Clark singles out Mao as the political actor who built the 'disguised unemployment' doctrine into the Great Leap Forward, treating Maoist agriculture as a cautionary failure that disproves rural-surplus-labour theories."
+    evidence:
+      - quote: "the doctrine, he notes, that Mao acted on in the Great Leap Forward 'and the resulting chaos in Chinese agriculture has not yet been fully repaired.'"
+        context: "Clark uses Mao's Great Leap Forward as the policy disaster that operationalised — and disproved — the disguised-unemployment thesis"
+      - quote: Soviet collectivisation (1933), Maoist agriculture (1961), and autarkic policies under Stalin and Franco are presented as cautionary failures
+        context: Maoist agriculture is named alongside Stalinist and Francoist autarky as a counter-example to liberal trade-oriented policy
+    key_passages: []
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: "Stalin appears as the architect of autarkic policy in Clark's catalogue of cautionary failures, paired with Franco's Spain as a non-communist autarky that also suffered."
+    evidence:
+      - quote: autarkic policies under Stalin and Franco are presented as cautionary failures
+        context: Clark names Stalinist autarky alongside Maoist agriculture as evidence that trade-retreating regimes underperform export-oriented ones
+    key_passages: []
+
 ---
 
 ## Summary

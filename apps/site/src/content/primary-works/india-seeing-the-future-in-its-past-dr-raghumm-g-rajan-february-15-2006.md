@@ -12,16 +12,16 @@ contributors:
     thinker: sunil-bhandare
   - role: foreword
     thinker_unresolved: M. R. Shroff
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - nani-palkhivala
-  - jawaharlal-nehru
-  - indira-gandhi
-  - ma-sreenivasan
-  - murarji-vaidya
-  - n-dandekar
-  - m-r-pai
   - eugene-black
+  - indira-gandhi
+  - jawaharlal-nehru
+  - minoo-shroff
+  - nani-palkhivala
+  - rajiv-gandhi
+  - sunil-bhandare
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -65,6 +65,72 @@ authors_resolution:
   stubs_referenced:
     - raghuram-g-rajan
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Rajan opens by saluting Shroff (alongside Palkhivala) as a lonely voice of free enterprise in the decades when Indian regulation, in his view, transferred wealth 'from the honest rich to the dishonest rich' — positioning the lecture inside the Shroff/Forum classical-liberal lineage."
+    evidence:
+      - quote: Rajan opens by saluting A. D. Shroff and Nani Palkhivala as lonely voices of free enterprise
+        context: opening tribute that anchors the lecture in the Shroff lineage
+      - quote: "Rajan situates himself as an IMF bureaucrat speaking 'from the same forum as these stalwarts,' explicitly honouring A. D. Shroff and Nani Palkhivala as lonely defenders of free enterprise in the 1950s-70s."
+        context: key-points restatement of the Shroff tribute
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala is paired with A. D. Shroff in Rajan's opening tribute as one of the two lonely defenders of free enterprise in the planning-era decades, framing the lecture's classical-liberal pedigree."
+    evidence:
+      - quote: "Rajan opens by saluting A. D. Shroff and Nani Palkhivala as lonely voices of free enterprise during decades when Indian regulation, in his view, transferred wealth 'from the honest rich to the dishonest rich,'"
+        context: opening tribute pairing Palkhivala with Shroff as the moral anchors of the lecture
+    key_passages: []
+  - thinker: minoo-shroff
+    role: mention
+    reasoning: "M. R. Shroff's front-matter note on the Forum's fifty-year history frames Rajan's lecture as part of the Golden Jubilee series and bridges the Forum's institutional voice to Rajan's argument."
+    evidence:
+      - quote: "The booklet's front matter — M. R. Shroff's note on the Forum's fifty-year history and Sunil S. Bhandare's editor's preface — frames the lecture as a critique of planning"
+        context: M. R. (Minoo) Shroff supplies the institutional framing for the Jubilee lecture
+    key_passages: []
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: "Bhandare's editor's preface frames Rajan's lecture as a critique of planning that nonetheless credits the post-1980 'constrained adaptation' for India's diversified industrial base."
+    evidence:
+      - quote: "The booklet's front matter — M. R. Shroff's note on the Forum's fifty-year history and Sunil S. Bhandare's editor's preface — frames the lecture as a critique of planning that nonetheless credits the post-1980 'constrained adaptation' for India's diversified industrial base."
+        context: Bhandare supplies the editorial frame that softens the indictment of planning
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Rajan credits Nehru's investment in higher education and science with positioning India to seize liberalisation openings once the political climate shifted — a counterweight to his sharper critique of Nehruvian planning."
+    evidence:
+      - quote: "India's silver lining, he notes, was an unintentionally diversified manufacturing base and Nehru's investment in higher education and science, which positioned the country to seize the liberalisation openings under Indira and Rajiv Gandhi and the deeper 1991 reforms."
+        context: Nehru is given partial credit for the human-capital base that later reforms could exploit
+      - quote: "Rajan argues that India's post-1980 growth was unintentionally well-positioned by a diversified manufacturing base and by Nehruvian investments in higher education, science and public-sector technology (Bharat Electronics, CMC, ECIL, State Bank of India)."
+        context: key-points restatement of the Nehruvian inheritance
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: Rajan dates the first wave of liberalisation to the Indira and Rajiv Gandhi years, treating their policy openings as the prelude to the deeper 1991 reforms.
+    evidence:
+      - quote: to seize the liberalisation openings under Indira and Rajiv Gandhi and the deeper 1991 reforms.
+        context: Indira Gandhi is named as the start of the pre-1991 reform arc
+      - quote: Pre-1991 liberalisation under Indira and Rajiv Gandhi, plus political decentralisation after the decline of Congress dominance, shifted competitive pressure onto state governments
+        context: "key-points: Indira-era liberalisation as the political prelude to state-level reform"
+    key_passages: []
+  - thinker: rajiv-gandhi
+    role: mention
+    reasoning: Rajan credits the Indira and Rajiv Gandhi years with the first liberalisation openings that prepared the way for the deeper 1991 reforms.
+    evidence:
+      - quote: to seize the liberalisation openings under Indira and Rajiv Gandhi and the deeper 1991 reforms.
+        context: Rajiv Gandhi is paired with Indira as the pre-1991 liberalisation phase
+      - quote: Pre-1991 liberalisation under Indira and Rajiv Gandhi, plus political decentralisation after the decline of Congress dominance, shifted competitive pressure onto state governments
+        context: "key-points: Rajiv-era liberalisation framed as a real if uneven shift"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Rajan's lecture booklet carries an Eugene Black epigraph on the back cover — 'People must come to accept private enterprise not as a necessary evil, but as an affirmative good' — which the summary treats as distilling the polemical purpose of the publication."
+    evidence:
+      - quote: "The Eugene Black epigraph on the rear inside cover — 'People must come to accept private enterprise not as a necessary evil, but as an affirmative good' — distils the booklet's polemical purpose."
+        context: Eugene Black quote is the polemical signoff of the booklet
+    key_passages: []
+
 ---
 
 ## Summary

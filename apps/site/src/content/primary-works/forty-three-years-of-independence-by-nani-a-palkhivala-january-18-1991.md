@@ -8,11 +8,10 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jawaharlal-nehru
   - mahatma-gandhi
-  - ralph-waldo-emerson
-  - john-kenneth-galbraith
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +48,24 @@ missing_metadata_flags:
   - no_explicit_publication_year_on_rendered_pages
   - no_table_of_contents
   - no_copyright_page_rendered
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Palkhivala's stocktaking lecture is delivered as the Jawaharlal Nehru Memorial Lecture, framing the entire critique of Indian planning and the permit-licence raj as an address staged inside Nehru's own commemorative space."
+    evidence:
+      - quote: Delivered as the Jawaharlal Nehru Memorial Lecture at Trinity College, Cambridge on 7 November 1990 and published by the Forum of Free Enterprise
+        context: "opening sentence locates the lecture under Nehru's commemorative auspices, against whose planning legacy Palkhivala will argue"
+      - quote: Frames the lecture as Nehru Memorial Lecture (Cambridge, 7 Nov 1990) reviewing forty-three years of Indian independence
+        context: key-points reiteration of the Nehru-memorial framing
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Palkhivala closes the lecture by invoking Gandhi as the exemplar of India's capacity to produce moral leadership in dark hours, quoting him on the spiritual cost of money-pursuit as the redemptive counterpoint to the lecture's indictment of Indian socialism."
+    evidence:
+      - quote: "invoking Mahatma Gandhi as the exemplar who 'made us realize the profound truth that single-minded pursuit of money impoverishes the mind, shrivels the imagination, and desiccates the heart.'"
+        context: "closing movement; Gandhi is held up as the moral resource against which India's post-Independence drift is measured"
+    key_passages: []
+
 ---
 ## Summary
 

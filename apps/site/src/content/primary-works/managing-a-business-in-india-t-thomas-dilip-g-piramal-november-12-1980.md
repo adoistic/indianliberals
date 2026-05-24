@@ -15,9 +15,11 @@ contributors:
   - role: author
     thinker_unresolved: DILIP G. PIRAMAL
     toc_index: 2
-related_thinkers:
-  - mahatma-gandhi
+related_thinkers: 
+  - eugene-black
   - jawaharlal-nehru
+  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -70,6 +72,29 @@ authors_resolution:
     - t-thomas
     - dilip-g-piramal
   collisions_logged: []
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black's epigraph supplies the booklet's polemical key, framing Thomas and Piramal's defence of private enterprise inside the FFE's standard 'affirmative good' creed."
+    evidence:
+      - quote: "An epigraph from Eugene Black — \"People must come to accept private enterprise not as a necessary evil, but as an affirmative good\" — sets the polemical key."
+        context: "opening editorial framing; Black's quotation is foregrounded as the booklet's organising motto"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Thomas closes his lecture by invoking Gandhi (with Nehru) as exemplars of India's tradition of absorbing 'liberal West' influences politically — using the precedent to argue for an equivalent economic opening."
+    evidence:
+      - quote: "the example of Gandhi and Nehru, who drew on the \"liberal West\" to free India politically; a similar opening, he argues, is now needed to free it economically"
+        context: closing peroration; Gandhi is recruited as a precedent for cosmopolitan borrowing in the cause of national renewal
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is paired with Gandhi in Thomas's closing as a figure who drew on the 'liberal West' to free India politically — a precedent for the kind of economic opening Thomas demands in 1980."
+    evidence:
+      - quote: "the example of Gandhi and Nehru, who drew on the \"liberal West\" to free India politically; a similar opening, he argues, is now needed to free it economically"
+        context: closing peroration; Nehru framed as a cosmopolitan borrower whose example justifies economic liberalisation
+    key_passages: []
+
 ---
 
 ## Summary

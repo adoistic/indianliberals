@@ -13,10 +13,9 @@ contributors:
     toc_index: 1
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - morarji-desai
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -60,6 +59,15 @@ authors_resolution:
   stubs_referenced:
     - r-gopalakrishnan
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Gopalakrishnan's bullish 2010 forecast on India's next fifteen years closes with the Forum's customary A. D. Shroff epigraph, positioning a Tata executive's growth optimism inside the Forum's Shroff-anchored classical-liberal lineage."
+    evidence:
+      - quote: alongside the customary Forum of Free Enterprise masthead and an A. D. Shroff epigraph
+        context: "closing paratext; Shroff's epigraph brackets Gopalakrishnan's growth-optimism case in the Forum tradition"
+    key_passages: []
+
 ---
 
 ## Summary

@@ -8,13 +8,14 @@ authors:
   - a-s-ganguly
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - amartya-sen
-  - jagdish-bhagwati
-  - jawaharlal-nehru
-  - rajiv-gandhi
   - eugene-black
+  - jagdish-bhagwati
+  - narasimha-rao
+  - rajiv-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -61,6 +62,52 @@ authors_resolution:
   stubs_referenced:
     - a-s-ganguly
   collisions_logged: []
+thinker_mentions:
+  - thinker: jagdish-bhagwati
+    role: mention
+    reasoning: Ganguly names Bhagwati (with Amartya Sen) as a founder of the modern economic philosophy India needs to address the realities of the poorest of the poor in the post-1991 reform era.
+    evidence:
+      - quote: the modern economic philosophy produced by figures like Amartya Sen and Jagdish Bhagwati
+        context: locates Bhagwati as intellectual scaffolding for post-liberalisation Indian policy
+      - quote: Identifies Amartya Sen and Jagdish Bhagwati as founders of modern economic philosophy relevant to the realities of the poorest of the poor.
+        context: key-points restatement; Bhagwati framed as foundational thinker for Indian reform
+    key_passages: []
+  - thinker: amartya-sen
+    role: mention
+    reasoning: Sen is cited (alongside Bhagwati) as one of the founders of the modern economic philosophy that Ganguly says India must draw on in the post-liberalisation transition.
+    evidence:
+      - quote: the modern economic philosophy produced by figures like Amartya Sen and Jagdish Bhagwati
+        context: Ganguly invokes Sen as an intellectual asset India already possesses for the post-reform decades
+    key_passages: []
+  - thinker: narasimha-rao
+    role: mention
+    reasoning: "The lecture is delivered in the immediate aftermath of the Narasimha Rao government's launch of economic reforms, treated as one of two epochal ruptures (with the Soviet collapse) defining the moment."
+    evidence:
+      - quote: "the collapse of Soviet socialism and the Narasimha Rao government's launch of economic reforms"
+        context: "opening framing of the lecture's historical moment"
+    key_passages: []
+  - thinker: rajiv-gandhi
+    role: mention
+    reasoning: "Ganguly invokes the late Rajiv Gandhi's reform impulse in his closing 'Post Script' to argue that the post-1991 liberalisation is irreversible and continuous with earlier Congress reform aspirations."
+    evidence:
+      - quote: "Ganguly invokes the late Rajiv Gandhi's reform impulse, defends Indians who emigrated and remitted skills back"
+        context: closing peroration; Rajiv Gandhi positioned as a precursor whose impulse the 1991 reforms vindicate
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black's epigraph on the back cover frames Ganguly's lecture inside the FFE house position that private enterprise is an 'affirmative good' rather than a necessary evil."
+    evidence:
+      - quote: "a back-cover epigraph from Eugene Black that private enterprise must be embraced as an \"affirmative good\""
+        context: "booklet apparatus; Black supplies the ideological wrap around Ganguly's reform argument"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is the 26th A. D. Shroff Memorial Lecture, anchoring Ganguly's post-1991 reflection inside the FFE's flagship lecture series in Shroff's name."
+    evidence:
+      - quote: The 26th A.D. Shroff Memorial Lecture, delivered by Dr. Ashok S. Ganguly
+        context: "opening sentence; the entire lecture is delivered under Shroff's memorial series"
+    key_passages: []
+
 ---
 
 ## Summary

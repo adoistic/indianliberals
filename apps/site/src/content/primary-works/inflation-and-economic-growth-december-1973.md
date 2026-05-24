@@ -8,9 +8,10 @@ authors:
   - h-v-r-iengar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - eugene-black
   - jayaprakash-narayan
-  - mahatma-gandhi
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +48,22 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - no_isbn
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The Forum pamphlet opens with a Eugene Black epigraph on private enterprise as 'an affirmative good', framing Iengar's lecture within Black's classical-liberal endorsement of business."
+    evidence:
+      - quote: "prefaced with a Eugene Black epigraph that private enterprise must be accepted \"not as a necessary evil but as an affirmative good.\""
+        context: "opening framing device positioning Black as the booklet's ideological anchor"
+    key_passages: []
+  - thinker: jayaprakash-narayan
+    role: mention
+    reasoning: "Iengar repeatedly returns to JP Narayan's appeal for moral renewal as the ethical foil to his diagnosis of administrative decay and political corruption."
+    evidence:
+      - quote: "Through the discussion he keeps returning to Jayaprakash Narayan's appeal for moral renewal and contrasts Indian sloppiness with the post-revolutionary discipline he observes in China."
+        context: "establishes JP's moral-renewal call as the recurring counterpoint to the lecture's institutional critique"
+    key_passages: []
+
 ---
 ## Summary
 

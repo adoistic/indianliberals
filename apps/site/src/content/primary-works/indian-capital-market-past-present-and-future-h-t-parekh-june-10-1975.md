@@ -8,8 +8,9 @@ authors:
   - h-t-parekh
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -47,6 +48,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - publisher_not_in_authority
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Parekh's 1975 Shroff Memorial Lecture is staged as a personal homage: he regards A. D. Shroff as his 'Guru' and credits him as the moving spirit behind ICICI itself."
+    evidence:
+      - quote: "The opening pages frame the address as a personal homage: Parekh, then chairman of the Industrial Credit and Investment Corporation of India, regards A. D. Shroff as his 'Guru' and credits him as the moving spirit behind ICICI itself."
+        context: "Shroff is named the 'Guru' figure Parekh credits with ICICI's founding"
+      - quote: Lecture is the 1975 A. D. Shroff Memorial Trust annual address, delivered by H. T. Parekh, chairman of ICICI, on 10 June 1975 in Bombay.
+        context: "key-points: Shroff is the namesake of the lecture series"
+    key_passages: []
+
 ---
 ## Summary
 

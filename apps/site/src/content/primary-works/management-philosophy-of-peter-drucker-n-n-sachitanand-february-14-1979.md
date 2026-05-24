@@ -8,7 +8,10 @@ authors:
   - n-n-sachitanand
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -49,6 +52,24 @@ authors_resolution:
   stubs_referenced:
     - n-n-sachitanand
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's epigraph (paired with Eugene Black's) is the Forum's editorial bracket around the Drucker reprint, aligning Drucker's classical-liberal-friendly management philosophy with the FFE's free-enterprise creed."
+    evidence:
+      - quote: "The Forum frames the reprint with epigraphs from A. D. Shroff and Eugene Black insisting that free enterprise is 'an affirmative good'"
+        context: "booklet apparatus; Shroff's epigraph is one of two house-position quotations bracketing the reprint"
+      - quote: "framed by Forum epigraphs from A. D. Shroff and Eugene Black affirming private enterprise as an 'affirmative good'"
+        context: closing key-point; reiterates the structural use of Shroff in framing the Drucker booklet
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black appears (with Shroff) in the Forum's standard epigraphs framing the Drucker reprint, supplying the 'affirmative good' tagline that anchors the booklet to the FFE's editorial line."
+    evidence:
+      - quote: "The Forum frames the reprint with epigraphs from A. D. Shroff and Eugene Black insisting that free enterprise is 'an affirmative good'"
+        context: "editorial apparatus; Black's epigraph is paired with Shroff's at the booklet's threshold"
+    key_passages: []
+
 ---
 
 ## Summary

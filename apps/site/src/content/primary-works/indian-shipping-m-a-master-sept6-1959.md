@@ -8,11 +8,11 @@ authors:
   - m-a-master
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jawaharlal-nehru
   - mahatma-gandhi
-  - lal-bahadur-shastri
-  - c-rajagopalachari
+  - rajendra-prasad
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -58,6 +58,33 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Master's lecture is mounted as a direct polemical response to Nehru's pronouncements that the public sector would be the 'basic, strategic, important and advancing sector' of the economy — treating the expansion of state trading as a betrayal of both private-enterprise achievement and Gandhi's anti-statism."
+    evidence:
+      - quote: "M. A. Master's 1959 lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 23 July 1959 and published as a booklet, is a polemical history of Indian shipping mounted in direct response to Jawaharlal Nehru's pronouncements that the public sector would be the 'basic, strategic, important and advancing sector' of the economy."
+        context: "Nehru's commanding-heights doctrine is the explicit polemical target of Master's lecture"
+      - quote: "Frames the lecture as a response to Nehru's 1959 statements that the public sector will be 'the basic, strategic, important and advancing sector,'"
+        context: key-points restatement of the Nehru-as-target framing
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Master enlists Gandhi against Nehru: the expansion of State Trading is framed as a 'betrayal of Mahatma Gandhi's teaching that economic and political power must not concentrate in the hands of the State', and the body quotes Gandhi that 'Indian shipping had to perish so that British shipping might flourish.'"
+    evidence:
+      - quote: "the expansion of the State Trading Corporation and the proposed decentralisation of private enterprise are a betrayal of Mahatma Gandhi's teaching that economic and political power must not concentrate in the hands of the State"
+        context: Gandhi is invoked as the anti-statist authority against Nehruvian planning
+      - quote: "quotes Gandhi: 'Indian shipping had to perish so that British shipping might flourish.'"
+        context: "Gandhi's terse summary of British colonial shipping policy is the historical hammer Master deploys"
+    key_passages: []
+  - thinker: rajendra-prasad
+    role: mention
+    reasoning: "Rajendra Prasad appears in the body as the figure who laid the foundation-stone of the Visakhapatnam Shipbuilding Yard founded by Walchand in 1941 — Master cites this presidential blessing to underline how private enterprise built India's shipping industry."
+    evidence:
+      - quote: Records the foundation of the Visakhapatnam Shipbuilding Yard by Walchand in 1941 (foundation-stone laid by Rajendra Prasad)
+        context: "Prasad's foundation-stone gesture authenticates the private origin of Indian shipbuilding"
+    key_passages: []
+
 ---
 
 ## Summary

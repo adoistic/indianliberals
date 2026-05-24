@@ -11,11 +11,13 @@ contributors:
     thinker_unresolved: Dr S A Dave
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - karl-marx
-  - t-t-krishnamachari
   - jawaharlal-nehru
+  - karl-marx
+  - p-c-mahalanobis
+  - t-t-krishnamachari
+
 publication:
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion,\" 235, Dr. D. N. Road, BOMBAY - 400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by S. V. Limaye at the India Printing Works, 42, G.D. Ambekar Road, Wadala, Bombay 400 031."
@@ -57,6 +59,49 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Dave's lecture is the A. D. Shroff Memorial Lecture and explicitly credits Shroff with the courage to found the Forum of Free Enterprise in 1956 at the high tide of planning orthodoxy — the ideological act that frames Dave's own conversion narrative."
+    evidence:
+      - quote: "S. A. Dave's 1991 A. D. Shroff Memorial Lecture"
+        context: Shroff is the namesake-anchor of the entire lecture
+      - quote: did he come to appreciate the courage it took A. D. Shroff to found the Forum of Free Enterprise in 1956
+        context: "Dave frames Shroff's 1956 founding as an act of intellectual courage against planning orthodoxy"
+      - quote: "He positions A. D. Shroff's 1956 founding of the Forum of Free Enterprise as an act of unusual intellectual courage at the high tide of planning orthodoxy."
+        context: "key-point restatement of Shroff's foundational role"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx anchors Dave's autobiographical conversion narrative — named as part of the 1950s intellectual diet (Marx, Soviet planning, Mahalanobis model) that he was raised on before turning toward free enterprise."
+    evidence:
+      - quote: "Dave was raised on Marx, Soviet planning and the Mahalanobis model, and saw free enterprise as the cause of India's problems rather than the cure"
+        context: Marx named as one of the formative influences Dave later repudiated
+    key_passages: []
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: The Mahalanobis model is named alongside Marx and Soviet planning as part of the 1950s economics-curriculum orthodoxy that shaped Dave before his conversion to free-enterprise thinking.
+    evidence:
+      - quote: Dave was raised on Marx, Soviet planning and the Mahalanobis model
+        context: "Mahalanobis named as one of the formative planning-era influences in Dave's intellectual autobiography"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Dave traces UTI's institutional lineage to T. T. Krishnamachari's 1963 pitch to Nehru and Krishnamachari's later piloting of the UTI Bill, treating him as the political architect of the Indian mutual-fund movement."
+    evidence:
+      - quote: "He traces UTI from Shri T. T. Krishnamachari's 1963 pitch to Pandit Jawaharlal Nehru"
+        context: Krishnamachari credited as the political originator of UTI
+      - quote: "UTI's lineage is traced from T. T. Krishnamachari's letter to Nehru to Krishnamachari's later piloting of the UTI Bill"
+        context: "extends Krishnamachari's role from idea to legislation"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru appears as the recipient of Krishnamachari's 1963 UTI pitch — a one-line lineage marker placing him at the founding moment of India's mutual-fund regime."
+    evidence:
+      - quote: "Krishnamachari's 1963 pitch to Pandit Jawaharlal Nehru"
+        context: "Nehru positioned as the prime ministerial decision-maker behind UTI's founding"
+    key_passages: []
+
 ---
 
 ## Summary

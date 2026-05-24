@@ -9,9 +9,9 @@ editors: []
 contributors:
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - m-r-pai
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -55,6 +55,15 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "R. C. Shah's address is delivered as the A. D. Shroff Memorial Trust's annual public lecture, positioning Shroff as the namesake patron of the lecture series in which Shah argues India is ready to internationalise its business."
+    evidence:
+      - quote: "Delivered in April 1983 as the A. D. Shroff Memorial Trust's annual public lecture"
+        context: "opens by anchoring Shah's argument within the Shroff memorial series"
+    key_passages: []
+
 ---
 
 ## Summary

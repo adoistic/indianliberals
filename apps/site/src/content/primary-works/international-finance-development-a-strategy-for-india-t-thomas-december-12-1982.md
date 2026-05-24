@@ -8,9 +8,10 @@ authors:
   - t-thomas
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - jrd-tata
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -54,6 +55,24 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "T. Thomas delivers the lecture in Shroff's memorial series and invokes the Bombay Plan precedent associated with Shroff and J. R. D. Tata as the businessman's tradition his own argument extends."
+    evidence:
+      - quote: Delivered as the A. D. Shroff Memorial Lecture in Bombay on 25th October 1982
+        context: establishes the lecture as part of the Shroff memorial series
+      - quote: invoking the Bombay Plan precedent associated with J. R. D. Tata and A. D. Shroff
+        context: positions Shroff as a Bombay-Plan predecessor in the businessman-economist tradition Thomas claims for himself
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "Thomas invokes JRD Tata alongside A. D. Shroff as authors of the Bombay Plan, locating his own businessman's perspective on Indian development financing within their tradition."
+    evidence:
+      - quote: invoking the Bombay Plan precedent associated with J. R. D. Tata and A. D. Shroff
+        context: places JRD Tata in the Bombay-Plan lineage that Thomas extends to the 1980s investment debate
+    key_passages: []
+
 ---
 
 ## Summary

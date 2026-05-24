@@ -8,13 +8,14 @@ authors:
   - f-a-mehta
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - eugene-black
   - jawaharlal-nehru
-  - p-c-mahalanobis
   - jrd-tata
+  - minoo-masani
+  - p-c-mahalanobis
   - r-k-hazari
-  - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -48,6 +49,54 @@ physical:
   pages_total: 15
   pages_total_source: pypdfium2
   format: Saddle-stitched FFE booklet; printed page numbering runs to 24.
+thinker_mentions:
+  - thinker: r-k-hazari
+    role: mention
+    reasoning: "Mehta endorses Hazari's own central finding — that licensing itself, by restricting entry, helped produce the concentration it was meant to prevent — turning Hazari's reports against the anti-concentration argument."
+    evidence:
+      - quote: "Mehta accepts Hazari's own central finding — that licensing itself, by restricting entry, helped produce the concentration it was meant to prevent"
+        context: Hazari is enlisted, against his usual reading, as evidence that licensing causes the concentration it claims to fight
+      - quote: "On 'concentration of economic power', Mehta endorses Dr. R. K. Hazari's own finding that licensing itself, by restricting entry, produced the concentration it was meant to prevent."
+        context: key-points restatement of the Hazari pivot
+    key_passages: []
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: "Mahalanobis is named in Mehta's political-economy lineage as the architect of the Second Plan formulation and one of the foundational figures behind the licensing regime he indicts."
+    evidence:
+      - quote: "Mehta names the political-economy lineage on both sides: M. R. Masani's 1947 booklet's influence on Nehru, G. D. Birla's 1949 assent to a 'primary part' for government, P. C. Mahalanobis's Second Plan formulation, and the contrary cautions of Eugene Black and J. R. D. Tata."
+        context: Mahalanobis is placed in the lineage of figures responsible for the planning architecture Mehta attacks
+    key_passages: []
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "Mehta quotes J. R. D. Tata at length on the Catch-22 facing 'Big Business' under the licensing regime — condemned whether the house stays inactive, diversifies into small ventures, or undertakes major capital-intensive projects — and names Tata as one of the contrary cautions in the political-economy lineage."
+    evidence:
+      - quote: "quotes J. R. D. Tata at length on the Catch-22 in which a 'Big Business' house is condemned whether it stays inactive, diversifies into small ventures, or undertakes major capital-intensive projects."
+        context: "Tata supplies the long quotation that animates Mehta's anti-licensing argument"
+      - quote: "He invokes J. R. D. Tata's framing that a 'Big Business' house is condemned whether it stays inactive, diversifies into small ventures, or undertakes a major capital-intensive project — illustrated by the Tata Fertiliser Project delays."
+        context: key-points restatement of the JRD framing
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Mehta places M. R. Masani's 1947 booklet at the start of the political-economy lineage of figures whose ideas shaped Nehru's planning architecture — one half of the 'on both sides' pairing he sets up."
+    evidence:
+      - quote: "Mehta names the political-economy lineage on both sides: M. R. Masani's 1947 booklet's influence on Nehru, G. D. Birla's 1949 assent to a 'primary part' for government, P. C. Mahalanobis's Second Plan formulation, and the contrary cautions of Eugene Black and J. R. D. Tata."
+        context: "Masani's 1947 booklet is the opening item in Mehta's planning-lineage genealogy"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: Mehta enlists Eugene Black (paired with J. R. D. Tata) as one of the contrary voices warning against the licensing-led planning architecture in his political-economy lineage of the regime he attacks.
+    evidence:
+      - quote: and the contrary cautions of Eugene Black and J. R. D. Tata.
+        context: Black appears as one of the early contrary cautions against the planning architecture Mehta indicts
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru is named in Mehta's political-economy lineage as the figure whose planning architecture was influenced by Masani's 1947 booklet — Mehta uses Nehru to anchor the genealogy of the licensing regime he indicts."
+    evidence:
+      - quote: "M. R. Masani's 1947 booklet's influence on Nehru"
+        context: "Nehru's planning architecture is traced to early Masani influence as part of Mehta's genealogy"
+    key_passages: []
+
 ---
 ## Summary
 

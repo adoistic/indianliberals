@@ -8,7 +8,9 @@ authors:
   - milton-friedman
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - jawaharlal-nehru
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,6 +42,15 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
   format: pamphlet / booklet (saddle-stitched, brown printed wrapper)
+thinker_mentions:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru appears adjectivally in Friedman's closing contest-of-ideas argument, where mid-twentieth-century collectivism is said to have shaped 'Nehruvian India' — a single charged reference identifying Nehru as the embodiment of the planning orthodoxy Friedman is indicting."
+    evidence:
+      - quote: mid-twentieth-century collectivism shaped Nehruvian India
+        context: "Friedman's closing identification of Nehru with the collectivist ideology that diverged India from Meiji Japan's free-trade path"
+    key_passages: []
+
 ---
 ## Summary
 

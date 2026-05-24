@@ -8,10 +8,11 @@ authors:
   - n-c-mehta
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - eugene-black
   - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -44,6 +45,29 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
   format: FFE pamphlet/booklet, soft cover (green); booklet number 18/May-June/2000
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Even a dry tax-law pamphlet on internet commerce is bracketed by the Forum of Free Enterprise's standing inspirational quotes from A. D. Shroff, signalling Shroff as the ideological patron whose imprimatur the Forum's whole pamphlet series carries."
+    evidence:
+      - quote: "bracketed by the Forum's signature inspirational quotes from A. D. Shroff and Eugene Black"
+        context: "publication apparatus; Shroff is paired with Black as the Forum's institutional epigraph-givers"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The booklet is bracketed by the Forum's standing inspirational quotes from Eugene Black, used to align even a narrow practitioner's text on sales tax with the Forum's broader defence of private enterprise as an affirmative good."
+    evidence:
+      - quote: "bracketed by the Forum's signature inspirational quotes from A. D. Shroff and Eugene Black"
+        context: publication apparatus; Black supplies the universal-respectability bookend the Forum reuses across its pamphlet series
+    key_passages: []
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The booklet is published by M. R. Pai, the Forum of Free Enterprise's long-time publisher — a colophon credit that records his curatorial role in surfacing pamphlets like Mehta's on emerging legal questions."
+    evidence:
+      - quote: "is published by M. R. Pai with the Forum's standard non-attribution disclaimer"
+        context: "colophon; Pai is credited as the publisher of the Forum's pamphlet series"
+    key_passages: []
+
 ---
 ## Summary
 

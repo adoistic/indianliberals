@@ -36,11 +36,9 @@ contributors:
   - role: author
     thinker: fazal-ur-rahman
     toc_index: 9
-related_thinkers:
-  - jawaharlal-nehru
-  - mao-zedong
+related_thinkers: 
   - deng-xiaoping
-  - ngapo-ngawang-jigme
+
 publication:
   language: en
   publisher_id: friedrich-naumann-foundation
@@ -80,6 +78,17 @@ missing_metadata_flags:
   - issn_not_found
   - editor_in_chief_not_in_authority_file
   - most_contributors_not_in_authority_file
+thinker_mentions:
+  - thinker: deng-xiaoping
+    role: mention
+    reasoning: "Deng appears in two distinct registers: as the Chinese leader whose 1979 dialogue offer opened the failed negotiation series Samdhong Rinpoche catalogues, and (in Yangchen Dolkar's essay) as the succession question that is destabilising central control in China and creating an opening for Tibetan activism."
+    evidence:
+      - quote: "failed negotiations with China (Deng Xiaoping's 1979 dialogue, the Five Point Peace Programme of 1987, the Strasbourg Proposal of 1988, and the 1991 offer to visit Tibet)"
+        context: Deng named as the leader who initiated the negotiation track judged insincere
+      - quote: "China's internal instability — inflation, unemployment, weakening central control, the Deng Xiaoping succession — creates an opening for Tibetan activists to press their case."
+        context: "Deng's anticipated succession framed by TYC as a strategic opening for Tibetan activism"
+    key_passages: []
+
 ---
 ## Summary
 

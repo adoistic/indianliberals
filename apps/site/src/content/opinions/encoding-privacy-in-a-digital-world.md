@@ -25,6 +25,25 @@ pull_quote: "Arguing that you don't care about the right to privacy because you 
 stance: argues-for
 kind: commentary
 period_window: post-reform
+thinker_mentions:
+  - thinker: amartya-sen
+    role: mention
+    reasoning: "Amartya Sen is named in the author's biographical note as one of the thinkers whose work informs her approach to development economics and policy, signalling Sen's influence on the essay's political-economy lens."
+    evidence:
+      - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
+        context: author bio at the end of the essay; lists Sen as a formative intellectual influence on her economic-policy thinking
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Karl Marx is invoked in the author's biographical note as one of the thinkers she draws on for critique and analysis of economic and developmental policy, flagging an intellectual lineage that includes structural critique alongside liberal economics."
+    evidence:
+      - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
+        context: "author bio at the end of the essay; Marx listed among the author's formative thinkers"
+    key_passages: []
+related_thinkers: 
+  - amartya-sen
+  - karl-marx
+
 ---
 
 _**Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say."**_

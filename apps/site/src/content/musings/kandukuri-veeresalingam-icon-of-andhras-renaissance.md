@@ -27,6 +27,25 @@ geographic_scope:
   scale: regional
   places:
     - "andhra-pradesh"
+thinker_mentions:
+  - thinker: mahadev-govind-ranade
+    role: mention
+    reasoning: "Ranade enters as the contemporary judge whose 1898 acclamation — 'Iswar Chandra Vidyasagar of South' — canonises Veeresalingam within the all-India reform tradition."
+    evidence:
+      - quote: "In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as \"Iswar Chandra Vidyasagar of South\""
+        context: "the essay's pivotal validation — Ranade is invoked as the authority who places Veeresalingam beside Vidyasagar in the reform canon"
+    key_passages: []
+  - thinker: ishwar-chandra-vidyasagar
+    role: mention
+    reasoning: "Vidyasagar is the comparator — Ranade's epithet 'Iswar Chandra Vidyasagar of South' uses the Bengal widow-remarriage reformer as the standard against which Veeresalingam's Andhra work is measured."
+    evidence:
+      - quote: "In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as \"Iswar Chandra Vidyasagar of South\""
+        context: Vidyasagar invoked as the canonical reformer-benchmark; the comparison transfers his moral authority on widow remarriage onto Veeresalingam
+    key_passages: []
+related_thinkers: 
+  - ishwar-chandra-vidyasagar
+  - mahadev-govind-ranade
+
 ---
 
 _Sri Kandukuri Veeresalingam is considered the father of Renaissance in Andhra Pradesh. He was not only a literary figure but also a social reformer. He awakened the masses out of their medieval orthodox customs and superstitions.  He was a multifaceted personality whose literary and revolutionary activities left an indelible mark on Andhra society._

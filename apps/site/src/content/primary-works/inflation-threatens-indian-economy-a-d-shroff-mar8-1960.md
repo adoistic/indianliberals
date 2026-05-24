@@ -8,8 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - mahatma-gandhi
+  - minoo-masani
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -41,6 +43,26 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
   format: Stapled booklet / pamphlet with blue card covers; FFE imprint
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: Shroff faults the silent abandonment of the Karachi Congress ministerial-salary norm — explicitly attributed to Gandhi — as evidence that planning has eroded the rupee and that ministers have compensated themselves for the depreciation.
+    evidence:
+      - quote: faults the Karachi Congress salary cap for being silently discarded against the original spirit advocated by Mahatma Gandhi
+        context: "Gandhi's salary norm is mobilised as the moral benchmark Shroff says has been abandoned"
+      - quote: Faults the abandonment of the Karachi Congress ministerial salary norm advocated by Mahatma Gandhi as evidence that planning has eroded the rupee while ministers compensate themselves for the depreciation.
+        context: key-points restatement of the Gandhi-anchored critique
+    key_passages: []
+  - thinker: minoo-masani
+    role: mention
+    reasoning: "Shroff endorses Masani's Lok Sabha quip that the Finance Minister has become 'a prisoner of the Plan,' borrowing Masani's framing to argue the Budget is ideologically constrained rather than economically reasoned."
+    evidence:
+      - quote: "He endorses M. R. Masani's Lok Sabha quip that the Finance Minister has become 'a prisoner of the Plan,'"
+        context: "Masani's phrase becomes Shroff's central indictment of the Finance Minister"
+      - quote: "Endorses M. R. Masani's Lok Sabha description of the Finance Minister as 'a prisoner of the Plan,' framing the budget as ideologically constrained rather than economically reasoned."
+        context: key-points restatement of the same borrowing
+    key_passages: []
+
 ---
 ## Summary
 

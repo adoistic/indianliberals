@@ -8,11 +8,11 @@ authors:
   - dharamsey-khatau
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - eugene-black
-  - jawaharlal-nehru
   - mahatma-gandhi
-  - a-d-shroff
+  - sarvepalli-radhakrishnan
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -56,6 +56,33 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: sarvepalli-radhakrishnan
+    role: mention
+    reasoning: "Khatau enlists Radhakrishnan's Republic Day broadcast on 'widespread incompetence and gross mismanagement' to indict Public Sector performance, citing him alongside the Planning Commission's own figures."
+    evidence:
+      - quote: "quoting Dr. Radhakrishnan's Republic Day broadcast on 'widespread incompetence and gross mismanagement'"
+        context: Radhakrishnan is invoked as a head-of-state witness to Public Sector failure
+      - quote: "Dr. Radhakrishnan's Republic Day rebuke of incompetence and mismanagement of national resources."
+        context: "key-points restatement of Khatau's use of Radhakrishnan as moral authority"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Khatau frames his defence of private enterprise as Gandhian as well as liberal, invoking Gandhi's warning that doctrinaire schemes which minimise exploitation can also 'destroy individuality, which lies at the root of all progress'."
+    evidence:
+      - quote: "Khatau's frame throughout is Gandhian as well as liberal: he invokes Gandhi's warning that doctrinaire schemes which minimise exploitation can also 'destroy individuality, which lies at the root of all progress'"
+        context: Khatau uses Gandhi to argue that anti-exploitation rhetoric becomes anti-individual once doctrinaire
+      - quote: "Quotes Gandhi on the danger of suppressing individuality 'at the root of all progress'"
+        context: key-points restatement of the Gandhian moral anchor
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Khatau closes by echoing Eugene Black's formulation of private enterprise as 'an affirmative goad' rather than a necessary evil — the standard Forum of Free Enterprise epigraph deployed as his polemical signoff."
+    evidence:
+      - quote: "The closing section is a defence of private enterprise as 'an affirmative goad' (echoing Eugene Black)"
+        context: "Khatau frames his peroration around Black's affirmative-good formulation"
+    key_passages: []
+
 ---
 
 ## Summary

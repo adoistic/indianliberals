@@ -8,8 +8,9 @@ authors:
   - k-b-dadiseth
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +47,15 @@ missing_metadata_flags:
   - no_isbn
   - no_toc_single_author_speech
   - theme_vocabulary_not_provided_in_user_message
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Dadiseth delivers this lecture in Shroff's memory and uses the occasion to argue, in the same Forum of Free Enterprise tradition, that the legacy of state-controlled ownership has produced weak accountability that only a culture of self-regulation can repair."
+    evidence:
+      - quote: Corporate Governance in India is the text of the 32nd A. D. Shroff Memorial Lecture
+        context: opening line establishing Shroff as the namesake of the lecture series
+    key_passages: []
+
 ---
 ## Summary
 

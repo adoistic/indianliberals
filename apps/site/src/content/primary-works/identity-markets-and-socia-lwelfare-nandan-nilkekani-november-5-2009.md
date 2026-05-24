@@ -9,15 +9,10 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - jawaharlal-nehru
-  - jrd-tata
-  - manmohan-singh
-  - atal-bihari-vajpayee
   - eugene-black
-  - sucheta-dalal
-  - minoo-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -63,6 +58,26 @@ authors_resolution:
   stubs_referenced:
     - nandan-nilekani
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Nilekani's UID lecture is the 43rd A. D. Shroff Memorial Lecture and is structured around an explicit homage to Shroff's 1940s–50s defence of competition and 'intellectual capital', with the booklet appending a biographical sketch placing the Aadhaar agenda inside Shroff's classical-liberal lineage."
+    evidence:
+      - quote: This booklet reproduces the 43rd A. D. Shroff Memorial Lecture, delivered by Nandan Nilekani in Mumbai on 27 October 2009 under the auspices of the Forum of Free Enterprise
+        context: opening sentence; Shroff is the namesake under whose memorial auspices the entire UID agenda is delivered
+      - quote: "He opens by saluting Ardeshir Shroff's early advocacy of competition, liberalisation and 'intellectual capital' in an era dominated by faith in planning"
+        context: "summary; Nilekani builds his case for market-led welfare on Shroff's classical-liberal precedent"
+      - quote: a profile of A. D. Shroff — co-author of the 1944 Bombay Plan, founder of the Forum of Free Enterprise in 1956
+        context: "closing biographical sketch ties the UID project to Shroff's Bombay Plan and Forum legacy"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The booklet closes with an Eugene Black epigraph reframing private enterprise as 'an affirmative good', importing the World Bank president's pro-market authority into the Aadhaar pamphlet's argument for market-aligned welfare delivery."
+    evidence:
+      - quote: "a closing Eugene Black epigraph that recasts private enterprise as 'an affirmative good'"
+        context: "closing paragraph; Black's affirmation is used to ideologically frame the UID's market orientation"
+    key_passages: []
+
 ---
 
 ## Summary

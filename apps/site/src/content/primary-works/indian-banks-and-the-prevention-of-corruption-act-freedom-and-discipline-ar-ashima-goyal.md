@@ -9,8 +9,10 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
-related_thinkers:
+related_thinkers: 
   - m-r-pai
+  - sunil-bhandare
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -56,6 +58,24 @@ authors_resolution:
   stubs_referenced:
     - ashima-goyal
   collisions_logged: []
+thinker_mentions:
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: "Bhandare supplies the editorial framing for Goyal's lecture (printed pages 3-6), introducing the booklet's central question of how Indian banks can be disciplined without being criminalised."
+    evidence:
+      - quote: "This Forum of Free Enterprise booklet reproduces Dr. Ashima Goyal's lecture at the Fourteenth M. R. Pai Memorial Award Function (Mumbai, 10 September 2018), preceded by an editorial introduction by Sunil S. Bhandare."
+        context: Bhandare is named as the editorial-introducer who frames the Goyal lecture
+    key_passages: []
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "The lecture is delivered at the Fourteenth M. R. Pai Memorial Award Function, anchoring Goyal's argument inside the Pai/Forum lineage of public-interest economic advocacy."
+    evidence:
+      - quote: "Dr. Ashima Goyal's lecture at the Fourteenth M. R. Pai Memorial Award Function (Mumbai, 10 September 2018)"
+        context: M. R. Pai is the namesake of the lecture series in which Goyal speaks
+      - quote: "Goyal's lecture, delivered at the 14th M. R. Pai Memorial Award Function (Mumbai, 10 Sept 2018) and published by the Forum of Free Enterprise, asks how Indian banking can be disciplined without being criminalised."
+        context: key-points restatement framing Pai as the namesake of the occasion
+    key_passages: []
+
 ---
 
 ## Summary

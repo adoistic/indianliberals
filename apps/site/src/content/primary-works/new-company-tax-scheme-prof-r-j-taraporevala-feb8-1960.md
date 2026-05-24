@@ -8,7 +8,10 @@ authors:
   - r-j-taraporevala
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - morarji-desai
+  - nicholas-kaldor
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -50,6 +53,24 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: nicholas-kaldor
+    role: mention
+    reasoning: "Taraporevala invokes Kaldor as one of the authorities (alongside the Indian Taxation Enquiry Commission, the British Royal Commission, and NCAER) who have condemned the bonus issue tax in principle — enlisting Kaldor's authority for the most pointed reform recommendation in the booklet."
+    evidence:
+      - quote: citing Nicholas Kaldor, the Indian Taxation Enquiry Commission, the British Royal Commission on the Taxation of Profits and Income, and the NCAER as authorities who have condemned the levy in principle
+        context: Kaldor enlisted as the lead-named authority against the bonus issue tax
+      - quote: contrary to the recommendations of Kaldor, the Indian Taxation Enquiry Commission and the Royal Commission on the Taxation of Profits and Income of Britain.
+        context: "key-point restatement of Kaldor's role as the principal-named opponent of the bonus issue tax"
+    key_passages: []
+  - thinker: morarji-desai
+    role: mention
+    reasoning: Taraporevala closes by addressing his structural-reform recommendations directly to Finance Minister Morarji Desai, framing Desai as the political figure who must carry the rationalisation forward to a single flat corporate tax.
+    evidence:
+      - quote: a goal he hopes Finance Minister Morarji Desai will continue to pursue.
+        context: closing address to Desai as the finance minister tasked with carrying the reform forward
+    key_passages: []
+
 ---
 
 ## Summary

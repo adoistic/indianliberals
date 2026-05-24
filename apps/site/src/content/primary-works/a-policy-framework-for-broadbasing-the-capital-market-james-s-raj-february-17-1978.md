@@ -12,9 +12,9 @@ contributors:
     thinker: james-s-raj
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - m-r-pai
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -50,6 +50,17 @@ physical:
 missing_metadata_flags:
   - no_formal_toc
   - publisher_not_in_authority
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The entire lecture is delivered in A. D. Shroff's memory under the auspices of his memorial trust, positioning Shroff as the institutional anchor of Raj's free-market capital-markets argument."
+    evidence:
+      - quote: "James S. Raj's 1978 A. D. Shroff Memorial Lecture"
+        context: "opening identification — the lecture is the named annual address in Shroff's memory"
+      - quote: published by the A. D. Shroff Memorial Trust
+        context: "the publishing institution is itself the Shroff trust, framing the booklet within Shroff's legacy"
+    key_passages: []
+
 ---
 ## Summary
 

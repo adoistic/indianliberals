@@ -8,7 +8,9 @@ authors:
   - vh-pandya
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers: 
+  - m-narasimhan
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +53,15 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: m-narasimhan
+    role: mention
+    reasoning: "Pandya locates SEBI's whole regulatory architecture in the Narasimham Committee's financial-sector reform blueprint, treating Narasimham's recommendations as the ideational source of the 1992 statutory recognition of SEBI and the repeal of the Capital Issues (Control) Act."
+    evidence:
+      - quote: "Locates SEBI's mandate in the Narasimham Committee-inspired financial-sector reforms, with statutory recognition granted in February 1992 alongside the abolition of the Capital Issues (Control) Act and pricing controls."
+        context: "key-points summary; Narasimham is identified as the conceptual progenitor of SEBI's statutory mandate"
+    key_passages: []
+
 ---
 
 ## Summary

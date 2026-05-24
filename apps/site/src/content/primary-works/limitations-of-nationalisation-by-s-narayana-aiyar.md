@@ -8,8 +8,9 @@ authors:
   - narayana-aiyar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +52,15 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Aiyar cites Krishnamachari's invitation of the English expert Mr. Scaife under the Colombo Plan to inspect the Ambernath and Jalahalli machine tool factories, using Scaife's damning report as evidence that government-run enterprises cost five times as much for one-fifth the output."
+    evidence:
+      - quote: He cites an episode in which T. T. Krishnamachari invited an English expert, Mr. Scaife, under the Colombo Plan to examine the Prototype Machine Tool Factory at Ambernath and the Hindustan Machine Tool Factory then under construction at Jalahalli
+        context: "Krishnamachari's own initiative is turned into a damning case against state-run industry"
+    key_passages: []
+
 ---
 
 ## Summary

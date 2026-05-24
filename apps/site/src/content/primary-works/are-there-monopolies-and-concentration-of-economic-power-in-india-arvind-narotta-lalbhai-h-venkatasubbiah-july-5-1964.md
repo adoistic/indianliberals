@@ -15,7 +15,13 @@ contributors:
   - role: author
     thinker_unresolved: Arvind Narottam Lalbhai
     toc_index: 2
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
+  - m-r-pai
+  - p-c-mahalanobis
+  - wilhelm-ropke
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -67,6 +73,49 @@ authors_resolution:
   stubs_referenced:
     - h-venkatasubbiah
   collisions_logged: []
+thinker_mentions:
+  - thinker: m-r-pai
+    role: mention
+    reasoning: M. R. Pai appears as the printer of the booklet, the standard Forum of Free Enterprise imprint that signals the institutional provenance of the two reproduced press articles.
+    evidence:
+      - quote: published in Bombay in July 1964 and printed by M. R. Pai.
+        context: "Pai's imprint identifies the booklet as a Forum of Free Enterprise production"
+    key_passages: []
+  - thinker: wilhelm-ropke
+    role: mention
+    reasoning: "Roepke's Economics of the Free Society supplies the booklet's Appendix of selected quotations, providing the classical-liberal theoretical scaffolding behind Venkatasubbiah and Lalbhai's specifically Indian critiques."
+    evidence:
+      - quote: "an Appendix of selected quotations from Wilhelm Roepke's Economics of the Free Society."
+        context: "Roepke's Economics of the Free Society is reproduced as the theoretical appendix that grounds the Indian critique in classical-liberal economics"
+      - quote: "The Roepke appendix and the closing A. D. Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame"
+        context: "Roepke's selections are explicitly the bridge between the booklet's Indian arguments and the Forum's broader free-enterprise worldview"
+    key_passages: []
+  - thinker: p-c-mahalanobis
+    role: mention
+    reasoning: "The Mahalanobis Committee on Distribution of Income and Levels of Living is the primary target of Venkatasubbiah's lead essay, which dissects what he treats as the Committee's conflation of wealth, economic power and decision-making power, and rejects its prescription of countervailing public-sector concentration."
+    evidence:
+      - quote: The argumentative centre is a sceptical reading of the Mahalanobis Committee on Distribution of Income and Levels of Living
+        context: the Mahalanobis Committee is the central object of critique in the lead essay
+      - quote: "Venkatasubbiah's article — reproduced from The Hindu of 9 May 1964 — is a close, sceptical reading of the Mahalanobis Committee's third term of reference"
+        context: "Venkatasubbiah works through the Committee's third term of reference clause by clause"
+      - quote: "Argues that the Mahalanobis Committee on Distribution of Income and Levels of Living conflates wealth, economic power and decision-making power, producing a 'naive' analysis."
+        context: "the key-points summary records the booklet's central charge against the Mahalanobis Committee's conceptual scaffolding"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's aphorism closes the booklet alongside Eugene Black's, tying the Indian anti-concentration arguments back to the Forum of Free Enterprise's broader classical-liberal frame of free enterprise as an 'affirmative good'."
+    evidence:
+      - quote: "the closing A. D. Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame"
+        context: "Shroff's closing aphorism positions the booklet inside the Forum's free-enterprise tradition"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black's aphorism on free enterprise as an 'affirmative good' frames the booklet alongside Shroff's, providing one of the two ideological book-ends that mark the volume as a Forum of Free Enterprise position statement."
+    evidence:
+      - quote: "Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame of free enterprise as an 'affirmative good'."
+        context: "Black's aphorism is explicitly the source of the booklet's 'affirmative good' framing of private enterprise"
+    key_passages: []
+
 ---
 
 ## Summary

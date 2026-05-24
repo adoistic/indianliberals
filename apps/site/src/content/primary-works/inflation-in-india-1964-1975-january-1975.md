@@ -8,8 +8,9 @@ authors:
   - l-g-bapat
 editors: []
 contributors: []
-related_thinkers:
-  - friedrich-hayek
+related_thinkers: 
+  - colin-clark
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -45,6 +46,17 @@ missing_metadata_flags:
   - no_isbn
   - no_series_number
   - no_formal_toc
+thinker_mentions:
+  - thinker: colin-clark
+    role: mention
+    reasoning: "Bapat invokes Colin Clark's 25 per cent of national income threshold as the empirical benchmark for when total taxation becomes inflationary, using it to argue that Indian taxation in 1967-68 (18.7 per cent) had not yet crossed the inflationary line."
+    evidence:
+      - quote: "total taxation in 1967-68, at 18.7 per cent of national income, was still below Colin Clark's 25 per cent inflationary threshold"
+        context: "Clark's threshold underpins Bapat's rejection of taxation as a primary cause of Indian inflation"
+      - quote: "1967-68 total taxation at 18.7 per cent of national income falls short of Colin Clark's 25 per cent threshold."
+        context: "key-points restatement of the Clark benchmark in Bapat's diagnosis"
+    key_passages: []
+
 ---
 ## Summary
 

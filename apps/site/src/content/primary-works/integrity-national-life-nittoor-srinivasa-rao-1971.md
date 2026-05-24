@@ -8,11 +8,10 @@ authors:
   - nittoor-srinivasa-rao
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - k-santhanam
   - jawaharlal-nehru
-  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +56,24 @@ authors_resolution:
   stubs_referenced:
     - nittoor-srinivasa-rao
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "The lecture is the A. D. Shroff Memorial Lecture, positioning Shroff as the namesake patron whose legacy frames Rao's 1970 address on integrity in public life."
+    evidence:
+      - quote: This booklet reproduces the A. D. Shroff Memorial Lecture delivered by Nittoor Srinivasa Rao
+        context: "opening sentence anchoring the lecture to Shroff's memorial series"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Rao dates the sharpest deterioration in Indian legislative conduct — floor-crossing, defection, and attacks on judges — to the closing years of Nehru's premiership, treating the Nehru era's end as the inflection point in post-Independence corruption."
+    evidence:
+      - quote: "a slide he dates to 'the last days of Jawaharlal Nehru's Prime Ministership.'"
+        context: "Rao's chronological anchor for the post-Independence decline of public integrity"
+      - quote: "dating the sharpest decline in legislative conduct (floor-crossing, defection, attacks on judges and election officials) to the closing years of Nehru's premiership."
+        context: key-points restatement of the Nehru-era inflection
+    key_passages: []
+
 ---
 
 ## Summary

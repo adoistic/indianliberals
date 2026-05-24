@@ -8,9 +8,12 @@ authors:
   - v-p-menon
 editors: []
 contributors: []
-related_thinkers:
-  - warren-hastings
+related_thinkers: 
   - a-d-shroff
+  - eugene-black
+  - sardar-patel
+  - warren-hastings
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -46,6 +49,40 @@ missing_metadata_flags:
   - no_formal_toc
   - no_explicit_imprint_year_on_title_page
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: sardar-patel
+    role: mention
+    reasoning: "Menon's central contrast: Sardar Patel was the lone post-Independence minister who refused to interfere with the services, treated officers fairly and restored their esprit de corps; after his death the Centre filled the vacuum left by weak Chief Ministers and Congress autonomy 'became a dead letter'."
+    evidence:
+      - quote: Menon contrasts this with the brief Patel era, when Sardar Vallabhbhai Patel — alone among the new ministers — refused to interfere with the services, treated officers fairly, and restored their esprit de corps.
+        context: "Patel is held up as the single positive exception to Menon's catalogue of post-Independence administrative decay"
+      - quote: "Singles out Sardar Patel as the exception: he refused to interfere in the services, gave officers fair treatment, dispelled fears after Partition, and re-instilled esprit de corps; after his death the Cabinet became collectively responsible 'only in name' and the Prime Minister effectively ran government."
+        context: "key-points restatement: Patel as the lost golden moment of clean civil-service handling"
+    key_passages: []
+  - thinker: warren-hastings
+    role: mention
+    reasoning: "Menon's historical arc gives Warren Hastings credit for system-building inside the East India Company's chaotic early rule, positioning him in the lineage that produced the pre-1914 ICS Menon prizes."
+    evidence:
+      - quote: "He sketches the East India Company's chaotic early rule, the slow rationalisation through Pitt's Act of 1784, Warren Hastings's system-building, the Crown takeover in 1857, and the steady professionalisation of the Indian Civil Service"
+        context: "Hastings figures in Menon's potted history as the architect of administrative order"
+      - quote: "Traces the British administrative arc from the Company's 'quite disastrous' early essays, through Pitt's Act of 1784, Warren Hastings's system-building, and the 1857 Crown takeover"
+        context: key-points restatement of the Hastings role in the British administrative arc
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The Menon booklet carries marginalia pull-quotes from Eugene Black (paired with A. D. Shroff), signalling the Forum of Free Enterprise's classical-liberal framing of an otherwise bureaucratic critique."
+    evidence:
+      - quote: "The booklet carries marginalia quotes from Eugene Black and A. D. Shroff, signalling the Forum's classical-liberal framing of Menon's bureaucratic critique."
+        context: Black is one of the two pull-quote authorities that frame the booklet
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff appears in the booklet's marginalia quotes (paired with Eugene Black), supplying the Forum of Free Enterprise's classical-liberal frame around Menon's administrative-reform argument."
+    evidence:
+      - quote: "The booklet carries marginalia quotes from Eugene Black and A. D. Shroff, signalling the Forum's classical-liberal framing of Menon's bureaucratic critique."
+        context: "Shroff's pull-quotes provide the Forum's free-enterprise frame around the lecture"
+    key_passages: []
+
 ---
 ## Summary
 

@@ -8,8 +8,9 @@ authors:
   - narayana-aiyar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - t-t-krishnamachari
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +52,15 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: "Aiyar invokes Krishnamachari's invitation of Mr. Scaife from England under the Colombo Plan as the key evidentiary illustration of state-run inefficiency in the machine-tool factories at Ambernath and Jalahalli."
+    evidence:
+      - quote: the report of Mr. Scaife, a tool-man invited from England under the Colombo Plan by Sri T. T. Krishnamachari to examine the Prototype Machine Tool Factory at Ambernath and the Hindustan Machine Tool Factory at Jalahalli
+        context: Krishnamachari is named as the minister whose own consultant exposed the cost penalty of state ownership
+    key_passages: []
+
 ---
 
 ## Summary

@@ -8,9 +8,10 @@ authors:
   - forum-of-free-enterprise
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -55,6 +56,26 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's posthumous declaration on the perpetuity of free enterprise is used as one of the two epigraphs framing the booklet, positioning the Dutt Committee critique as a Forum-of-Free-Enterprise statement of position rather than neutral commentary."
+    evidence:
+      - quote: A. D. Shroff on the perpetuity of free enterprise — frame the booklet as a Forum statement of position rather than a neutral commentary.
+        context: "Shroff's epigraph anchors the booklet ideologically alongside Eugene Black's"
+      - quote: "A. D. Shroff's posthumous declaration on the perpetuity of free enterprise"
+        context: "the key-points summary reiterates Shroff's epigraph as the booklet's closing ideological seal"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black's defence of private enterprise as an 'affirmative good' opens the booklet as one of its two framing epigraphs, casting the Dutt Committee critique inside the Forum's classical-liberal worldview."
+    evidence:
+      - quote: "Eugene Black on accepting private enterprise as an \"affirmative good\""
+        context: "Black's epigraph frames the booklet's defence of large industrial houses inside an explicitly pro-private-enterprise philosophy"
+      - quote: "book-ended by Eugene Black's epigraph defending private enterprise as an \"affirmative good\""
+        context: "the key-points summary names Black's epigraph as one of the two ideological book-ends of the polemic"
+    key_passages: []
+
 ---
 
 ## Summary

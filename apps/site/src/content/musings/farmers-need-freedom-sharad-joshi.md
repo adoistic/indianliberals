@@ -27,6 +27,17 @@ period_window: post-reform
 geographic_scope:
   scale: national
   places: []
+thinker_mentions:
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: "Joshi invokes Stalin's repression of the kulaks as the genealogy of India's post-independence bias against agricultural prices — a single, charged historical analogy used to indict the bureaucratic push for state procurement."
+    evidence:
+      - quote: the kind of economic theory that prompted Stalin to send tanks against kulaks in Russia
+        context: "Joshi traces India's deliberate depression of farm prices back to the same agrarian-extractive logic that drove Stalinist collectivisation"
+    key_passages: []
+related_thinkers: 
+  - joseph-stalin
+
 ---
 
 The following is an article published in the June 2007 edition of the Freedom First magazine. Mr. Sharad Joshi, in this piece titled 'Farmers Need Freedom, Not a Guardian Angel', wrote about the need to free farmers from the shackles of all sorts of bureaucracy. While reflecting upon the developments during that time, he brought forth farmers' issues which have plagued India's republic since a long time but never understood as part of the problem.

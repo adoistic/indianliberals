@@ -8,8 +8,9 @@ authors:
   - gangadhar-gadgil
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jrd-tata
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +58,15 @@ authors_resolution:
   stubs_referenced:
     - gangadhar-gadgil
   collisions_logged: []
+thinker_mentions:
+  - thinker: jrd-tata
+    role: mention
+    reasoning: "Gadgil uses J.R.D. Tata's TISCO running above rated capacity as the empirical counter-case against the under-utilised public-sector steel plants at Bokaro and Durgapur — a contrast at the heart of his efficiency indictment."
+    evidence:
+      - quote: "contrasts public steel plants at Bokaro and Durgapur with J.R.D. Tata's TISCO running above rated capacity"
+        context: central evidentiary contrast; TISCO is invoked as the private benchmark public steel cannot meet
+    key_passages: []
+
 ---
 
 ## Summary

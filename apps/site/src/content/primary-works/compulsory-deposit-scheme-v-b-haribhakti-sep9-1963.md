@@ -14,7 +14,10 @@ contributors:
   - role: author
     thinker_unresolved: H. C. Malkani
     toc_index: 2
-related_thinkers: []
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -51,6 +54,22 @@ physical:
 missing_metadata_flags:
   - editor_not_named
   - no_formal_toc
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Shroff's cover-leaf epigraph — paired with Eugene Black's — frames the booklet's twin critiques of the Compulsory Deposit Scheme inside the Forum of Free Enterprise's classical-liberal argument that compulsory saving on the poor is a contradiction and that government overspending is the real fiscal problem."
+    evidence:
+      - quote: the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms and that government overspending, not private consumption, is the real fiscal problem.
+        context: "Shroff's cover-leaf epigraph is named as one of the two framing devices that anchor the volume's classical-liberal verdict on the C.D.S."
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Black's cover-leaf epigraph — paired with Shroff's — frames the booklet's critiques of the Compulsory Deposit Scheme inside the Forum of Free Enterprise's argument that compulsory saving on low-income earners is incoherent and that government overspending is the real fiscal pathology."
+    evidence:
+      - quote: captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms
+        context: "Black's epigraph is one of the two cover-leaf framings that mark the booklet's classical-liberal verdict on the C.D.S."
+    key_passages: []
+
 ---
 ## Summary
 

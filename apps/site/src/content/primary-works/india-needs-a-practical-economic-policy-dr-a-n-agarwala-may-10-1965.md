@@ -8,10 +8,10 @@ authors:
   - a-n-agarwala
 editors: []
 contributors: []
-related_thinkers:
-  - h-v-r-iengar
-  - lal-bahadur-shastri
+related_thinkers: 
   - john-kenneth-galbraith
+  - lal-bahadur-shastri
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -57,6 +57,24 @@ authors_resolution:
   stubs_referenced:
     - a-n-agarwala
   collisions_logged: []
+thinker_mentions:
+  - thinker: lal-bahadur-shastri
+    role: mention
+    reasoning: "Agarwala aligns his presidential address with Prime Minister Shastri's New Economic Policy — welfare of the common man, manageable plan size, food urgency and quick-yielding projects — treating it as the pragmatic frame his own diagnosis demands."
+    evidence:
+      - quote: "Agarwala then aligns himself with Prime Minister Lal Bahadur Shastri's New Economic Policy"
+        context: "summary's pivot from diagnosis to programme: Shastri's policy is the political anchor Agarwala adopts"
+      - quote: "Endorses PM Lal Bahadur Shastri's New Economic Policy and its emphasis on the common man's welfare, a manageable Fourth Plan, quick-yielding projects, and better implementation machinery."
+        context: key-points reprise of the Shastri endorsement
+    key_passages: []
+  - thinker: john-kenneth-galbraith
+    role: mention
+    reasoning: "Agarwala cites Galbraith (alongside Schumpeter, Fortune, Douglas McGregor, Douglas Jay, John P. Lewis and S. S. Khera) to argue that India suffers less from a shortage of ideas than from a shortage of 'implementation input'."
+    evidence:
+      - quote: "Citing Schumpeter, Fortune, J. K. Galbraith, Douglas McGregor, Douglas Jay, John P. Lewis and S. S. Khera, he argues that India's planners suffer less from a shortage of ideas than from a shortage of \"implementation input\""
+        context: Galbraith is named among the international authorities Agarwala marshals to diagnose Indian implementation failure
+    key_passages: []
+
 ---
 
 ## Summary

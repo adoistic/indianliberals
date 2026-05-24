@@ -8,8 +8,9 @@ authors:
   - john-matthai
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - karl-marx
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -54,6 +55,17 @@ authors_resolution:
   stubs_referenced:
     - john-matthai
   collisions_logged: []
+thinker_mentions:
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Matthai's central historical move is a rereading of Marx — arguing that the case for socialising the means of production rested on nineteenth-century conditions (despotic states, propertied-class capture, weak labour) that no longer obtain in democracies with adult franchise and sovereign parliaments."
+    evidence:
+      - quote: "Marx's thesis of socialising the means of production was a response to nineteenth-century conditions"
+        context: "sets up the historical-relativist argument Matthai uses to deflate nationalisation's doctrinal warrant"
+      - quote: He rereads Marx historically — socialisation of the means of production made sense against nineteenth-century despotism and propertied-class capture, but loses its grip in democratically governed states with adult franchise and a sovereign parliament.
+        context: "key-points restatement; Marx is treated as a thinker whose remedy is bounded by his own century's politics"
+    key_passages: []
+
 ---
 
 ## Summary

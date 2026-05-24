@@ -8,10 +8,9 @@ authors:
   - minoo-shroff
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
+related_thinkers: 
   - eugene-black
-  - m-r-pai
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +52,15 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Minoo Shroff closes the booklet with a Eugene Black epigraph asking that private enterprise be recognised as 'an affirmative good' rather than a necessary evil — using the World Bank president as a globally respectable witness for the Forum of Free Enterprise's central claim."
+    evidence:
+      - quote: "an Eugene Black epigraph asking that private enterprise be accepted 'not as a necessary evil, but as an affirmative good.'"
+        context: "closing flourish; Black's voice supplies the booklet's normative anchor for free enterprise"
+    key_passages: []
+
 ---
 
 ## Summary

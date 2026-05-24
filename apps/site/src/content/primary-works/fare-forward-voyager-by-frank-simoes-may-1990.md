@@ -8,8 +8,10 @@ authors:
   - frank-simoes
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
   - m-r-pai
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -52,6 +54,24 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Simoes's biographical tribute to Vasudev M. Salgaocar is published by the A.D. Shroff Memorial Trust as Volume 3 of its 'Builders of Indian Economy' series, framing the volume institutionally as part of Shroff's posthumous classical-liberal canon-building project."
+    evidence:
+      - quote: "published in May 1990 by the A.D. Shroff Memorial Trust as Volume 3 of its \"Builders of Indian Economy\" series"
+        context: "opening paragraph; locates the book inside the Shroff Memorial Trust's series for canonising Indian industrial pioneers"
+      - quote: "Published May 1990 by the A.D. Shroff Memorial Trust (M. R. Pai, Trustee) as 'Builders of Indian Economy Series: 3'; not for sale, distributed free to schools, colleges and libraries."
+        context: key-points block reiterates the institutional auspices and the free-distribution mission of the Trust
+    key_passages: []
+  - thinker: m-r-pai
+    role: mention
+    reasoning: "M. R. Pai is named as the Trustee of the A.D. Shroff Memorial Trust under whose imprint the Salgaocar tribute volume is issued, anchoring Pai's role as the institutional steward of the Forum of Free Enterprise's posthumous Shroff project."
+    evidence:
+      - quote: "Published May 1990 by the A.D. Shroff Memorial Trust (M. R. Pai, Trustee) as 'Builders of Indian Economy Series: 3'; not for sale, distributed free to schools, colleges and libraries."
+        context: identifies Pai as the trustee responsible for publishing the volume
+    key_passages: []
+
 ---
 
 ## Summary

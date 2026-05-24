@@ -8,10 +8,11 @@ authors:
   - s-s-tarapore
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - joseph-stiglitz
-  - jagdish-bhagwati
+  - nani-palkhivala
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -46,6 +47,33 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - no_formal_toc_single_lecture
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Tarapore's lecture is the 1998 A. D. Shroff Annual Public Lecture and opens with a personal tribute to Shroff (paired with Nani Palkhivala, who invited him to speak)."
+    evidence:
+      - quote: "S. S. Tarapore — economist, former Reserve Bank of India Deputy Governor, and chairman of the RBI Committee on Capital Account Convertibility — delivers the 1998 A. D. Shroff Annual Public Lecture (read on 7 April 1999) on the reform of India's external sector."
+        context: Shroff is the namesake of the lecture series Tarapore delivers
+      - quote: After a personal tribute to Shroff and to Nani Palkhivala, who invited him to speak
+        context: "Tarapore's opening pairs Shroff with Palkhivala as the moral anchors of the address"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala is named as the personal invitor of Tarapore's lecture and paired with A. D. Shroff in Tarapore's opening tribute, anchoring the address in the Forum's classical-liberal lineage."
+    evidence:
+      - quote: After a personal tribute to Shroff and to Nani Palkhivala, who invited him to speak
+        context: Palkhivala is the personal invitor and one of the two figures Tarapore opens by honouring
+    key_passages: []
+  - thinker: joseph-stiglitz
+    role: mention
+    reasoning: "Stiglitz appears twice in Tarapore's argument: as one of the post-crisis authorities on continued interest-rate controls and, more pointedly, in the lecture's controlling phrase that India must not let recent events push it 'from gradualism to zeroism' in external-sector reform."
+    evidence:
+      - quote: "invoking John Williamson and Molly Mahar's 1998 Princeton survey, Joseph Stiglitz on continued interest-rate controls, Jeffrey Frankel's ICRIER lecture on the theory of the second best, and Rudiger Dornbusch's dictum that 'capital controls are an idea whose time is past'."
+        context: Stiglitz is cited inside the academic survey Tarapore uses to situate his sequencing view
+      - quote: "He explicitly cites Stiglitz's phrase to argue that India must not let recent events push it 'from gradualism to zeroism' in external-sector reform."
+        context: "Stiglitz's 'gradualism to zeroism' phrase becomes the rhetorical centerpiece of Tarapore's warning"
+    key_passages: []
+
 ---
 ## Summary
 

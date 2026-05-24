@@ -8,9 +8,10 @@ authors:
   - murarji-vaidya
 editors: []
 contributors: []
-related_thinkers:
-  - eugene-black
+related_thinkers: 
   - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -52,6 +53,22 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The Forum brackets Vaidya's case against punitive taxation of small and medium industries with an Eugene Black pull-quote from the inside-front cover, importing the World Bank president's authority on behalf of the booklet's classical-liberal framing."
+    evidence:
+      - quote: The pamphlet carries Forum of Free Enterprise pull-quotes from Eugene Black of the World Bank on the inside-front cover and from A. D. Shroff on the back panel.
+        context: "closing paratext sentence; Black's pull-quote is part of the Forum's standard ideological bracket around the policy argument"
+    key_passages: []
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Vaidya's pamphlet on the taxation burden facing small and medium industries is bracketed by an A. D. Shroff pull-quote on the back panel, framing the technical tax critique inside the Forum's Shroff-anchored case for free enterprise."
+    evidence:
+      - quote: The pamphlet carries Forum of Free Enterprise pull-quotes from Eugene Black of the World Bank on the inside-front cover and from A. D. Shroff on the back panel.
+        context: "closing paratext sentence; Shroff's back-panel quote frames the booklet inside the Forum's ideological tradition"
+    key_passages: []
+
 ---
 
 ## Summary

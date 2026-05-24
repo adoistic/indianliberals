@@ -8,9 +8,9 @@ authors:
   - s-r-k-rao
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - nani-palkhivala
-  - manmohan-singh
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -47,6 +47,17 @@ missing_metadata_flags:
   - no_explicit_imprint_year_on_cover
   - no_isbn
   - no_formal_toc
+thinker_mentions:
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "S. R. K. Rao credits Palkhivala with popularising his 'Internal Debt Trap' concept after he first enunciated it in May 1986, citing Palkhivala's backing as part of the wider intellectual reception that made the idea travel."
+    evidence:
+      - quote: subsequently attracted backing from N. A. Palkhivala, eminent Indian economists, and the international press
+        context: "Palkhivala is named alongside academic economists and the press as a key endorser of Rao's debt-trap thesis"
+      - quote: "He credits N. A. Palkhivala with popularising the \"Internal Debt Trap\" concept after Rao first enunciated it on 30 May 1986"
+        context: key-points line crediting Palkhivala with carrying the concept into wider currency
+    key_passages: []
+
 ---
 ## Summary
 

@@ -8,10 +8,12 @@ authors:
   - sh-batlivala
 editors: []
 contributors: []
-related_thinkers:
-  - chintaman-deshmukh
+related_thinkers: 
   - abraham-lincoln
+  - chintaman-deshmukh
   - jawaharlal-nehru
+  - sardar-patel
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +55,44 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: sardar-patel
+    role: mention
+    reasoning: "Batlivala marshals Sardar Vallabhbhai Patel's testimony — alongside ex-Finance Minister C. D. Deshmukh's — to argue that the Indian civil service is too thin to run nationalised industries, with Patel reportedly counting only fifteen per cent of officers as good performers."
+    evidence:
+      - quote: He marshals testimony from Sardar Vallabhbhai Patel and former Finance Minister C. D. Deshmukh to argue that the Indian civil service lacks the depth to run nationalised industries
+        context: "Patel's testimony underpins Batlivala's case against extending state control over industry"
+      - quote: "He cites Patel and ex-Finance Minister C. D. Deshmukh to show that the Indian civil service is too thin to run nationalised industries, of whom only fifteen per cent are good performers by Patel's own count."
+        context: "key-points line restating Patel's authority on civil-service capacity"
+    key_passages: []
+  - thinker: chintaman-deshmukh
+    role: mention
+    reasoning: Batlivala invokes C. D. Deshmukh, the former Finance Minister, alongside Patel as authority for the claim that the Indian civil service lacks the depth to run nationalised industries.
+    evidence:
+      - quote: He marshals testimony from Sardar Vallabhbhai Patel and former Finance Minister C. D. Deshmukh to argue that the Indian civil service lacks the depth to run nationalised industries
+        context: "Deshmukh's Finance-Ministry experience is mobilised against nationalisation"
+      - quote: He cites Patel and ex-Finance Minister C. D. Deshmukh to show that the Indian civil service is too thin to run nationalised industries
+        context: "key-points restatement of Deshmukh's role as Batlivala's witness"
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Batlivala uses the brevity of Lincoln's Gettysburg Address (266 words) as one term in his signature comparison against the verbosity of socialist regulation — alongside the Ten Commandments and the Declaration of Independence versus a 26,911-word U.S. price-control order on cabbages."
+    evidence:
+      - quote: "the Ten Commandments run to 297 words, Lincoln's Gettysburg address to 266, the Declaration of Independence to 300, while the U.S. Office of Price Stabilisation's order regulating cabbage prices runs to 26,911."
+        context: "Lincoln's Gettysburg is one of the canonical-text comparators in Batlivala's case that controls breed verbosity"
+      - quote: "Batlivala's signature comparison contrasts the brevity of the Ten Commandments (297 words), Lincoln's Gettysburg Address (266) and the Declaration of Independence (300) with a 26,911-word U.S. Office of Price Stabilisation order regulating cabbage prices, as evidence that controls breed verbosity."
+        context: key-points restatement of the Lincoln-Gettysburg comparator
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Batlivala closes the pamphlet with a back-cover epigraph from Jawaharlal Nehru on material progress and 'the spirit of man' — placed, by Batlivala, as an implicit rebuke of the very planning enthusiasm Nehru himself was leading."
+    evidence:
+      - quote: "a back-cover quotation from Jawaharlal Nehru affirming that material progress must not come \"at the expense of the spirit of man\" — turned, by placement, into an implicit rebuke of the very planning enthusiasm Nehru himself led."
+        context: "Nehru's own words are enlisted against the planning regime he champions"
+      - quote: "The pamphlet closes with the Forum of Free Enterprise imprint and a Nehru epigraph on the back leaf insisting material progress must not be bought at the expense of \"the spirit of man\" — positioned to enlist Nehru against the planning regime he himself champions."
+        context: key-points restatement of the Nehru back-cover device
+    key_passages: []
+
 ---
 
 ## Summary

@@ -9,8 +9,10 @@ editors: []
 contributors:
   - role: author
     thinker_unresolved: M. K. Raju
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+  - eugene-black
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +55,24 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "M. K. Raju delivers his analysis as the A. D. Shroff Memorial Lecture, opening with a tribute to Shroff and his generation's faith in free enterprise as the engine of national development."
+    evidence:
+      - quote: "M. K. Raju's A. D. Shroff Memorial Lecture, delivered in Madras on 27 October 1979"
+        context: "opens by anchoring the lecture in Shroff's memorial series"
+      - quote: "Opening with a tribute to Shroff and his generation's faith in free enterprise as the engine of national development"
+        context: "Raju explicitly frames his post-mortem of Indian joint ventures as a continuation of Shroff's free-enterprise tradition"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "The booklet closes with a Eugene Black back-cover epigraph endorsing private enterprise as 'an affirmative good,' using Black's authority to frame Raju's critique of Indian outbound joint ventures within the Forum's free-enterprise creed."
+    evidence:
+      - quote: "a reminder, via a Eugene Black epigraph on the back cover, that private enterprise must be embraced 'not as a necessary evil, but as an affirmative good.'"
+        context: "Black's line is deployed as the booklet's ideological coda"
+    key_passages: []
+
 ---
 
 ## Summary

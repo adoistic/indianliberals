@@ -8,15 +8,15 @@ authors:
   - y-v-reddy
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
-  - sucheta-dalal
-  - h-v-r-iengar
   - b-n-adarkar
-  - r-k-talwar
-  - n-n-pai
+  - h-v-r-iengar
   - m-narasimhan
-  - c-rangarajan
+  - n-n-pai
+  - r-k-talwar
+  - s-s-tarapore
+
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
@@ -52,6 +52,65 @@ missing_metadata_flags:
   - no_formal_toc
   - publisher_not_in_authority
   - author_not_in_authority_subset
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Reddy frames the lecture as a tribute to A. D. Shroff's classical-liberal advocacy through the Forum of Free Enterprise, anchoring the address in three Shroff vignettes — the IMF quota negotiations, the naming of the IBRD, and the Bombay Plan."
+    evidence:
+      - quote: "this booklet collects Y. V. Reddy's address \"Indian Banking in International Perspective.\" Reddy — then Executive Director at the IMF and a former Deputy Governor of the Reserve Bank of India — frames his lecture as a tribute to Shroff's classical-liberal advocacy through the Forum of Free Enterprise"
+        context: "Shroff is the namesake-anchor of Reddy's lecture and its classical-liberal framing"
+      - quote: "He opens with three episodes that link Shroff to international finance: Shroff's role (with Sir R. K. Shanmukham Chetty) in the IMF quota negotiations; his presence on the Indian delegation that christened the IBRD; and his architecture of the Bombay Plan."
+        context: Reddy uses three Shroff vignettes to establish his international-finance lineage
+    key_passages: []
+  - thinker: h-v-r-iengar
+    role: mention
+    reasoning: "Iengar's 1967 inaugural is treated as the founding entry in the A. D. Shroff Memorial Lecture series on banking, opening the chronological arc Reddy reads through forty years of Indian banking history."
+    evidence:
+      - quote: "The first half of the lecture is a retrospective traversal of every prior A. D. Shroff Memorial Lecture on banking, from H. V. R. Iengar's 1967 inaugural through B. N. Adarkar (1971), R. K. Talwar (1974), J. N. Saxena (1977), R. C. Shah (1983), N. N. Pai, N. Vaghul (1989), M. Narasimham (1993) and S. S. Tarapore."
+        context: "Iengar's 1967 lecture is the start of the Shroff Memorial banking sequence Reddy traces"
+      - quote: A chronological reading of prior Shroff Memorial Lectures (Iengar 1967 through Tarapore) is used as a proxy history of post-independence Indian banking concerns.
+        context: "key-points: Iengar's lecture brackets the chronological reading"
+    key_passages: []
+  - thinker: b-n-adarkar
+    role: mention
+    reasoning: "Adarkar's 1971 lecture is placed in Reddy's traversal of the A. D. Shroff Memorial Lecture series as part of the recurring concerns of public confidence, credit flow and bank reform."
+    evidence:
+      - quote: "from H. V. R. Iengar's 1967 inaugural through B. N. Adarkar (1971), R. K. Talwar (1974)"
+        context: "Adarkar's 1971 Shroff Memorial Lecture is named in Reddy's lineage of prior speakers"
+    key_passages: []
+  - thinker: r-k-talwar
+    role: mention
+    reasoning: "Talwar's 1974 lecture is one of the prior Shroff Memorial Lectures Reddy traverses to build a forty-year proxy history of Indian banking concerns."
+    evidence:
+      - quote: "from H. V. R. Iengar's 1967 inaugural through B. N. Adarkar (1971), R. K. Talwar (1974), J. N. Saxena (1977)"
+        context: "Talwar's 1974 lecture is named in Reddy's chronological sweep of prior Shroff lecturers"
+    key_passages: []
+  - thinker: n-n-pai
+    role: mention
+    reasoning: "N. N. Pai is named in Reddy's chronological survey of A. D. Shroff Memorial Lecturers on banking — one of the recurring voices on credit, nationalisation and professionalism in service."
+    evidence:
+      - quote: R. C. Shah (1983), N. N. Pai, N. Vaghul (1989), M. Narasimham (1993) and S. S. Tarapore.
+        context: "Pai appears in Reddy's roll-call of prior Shroff Memorial banking lecturers"
+    key_passages: []
+  - thinker: m-narasimhan
+    role: mention
+    reasoning: "Narasimham is positioned as the lecturer who named the 'unfinished agenda of reform' that frames Reddy's whole argument — and Reddy treats his 1993 lecture as a watershed in the series."
+    evidence:
+      - quote: M. Narasimham (1993) and S. S. Tarapore.
+        context: "Narasimham's 1993 Shroff lecture is named in Reddy's chronological sweep"
+      - quote: the unfinished agenda of reform that Narasimham named.
+        context: "Narasimham's 'unfinished agenda' is the recurring theme Reddy adopts from him"
+    key_passages: []
+  - thinker: s-s-tarapore
+    role: mention
+    reasoning: "Tarapore is the closing speaker in Reddy's chronological reading of prior Shroff Memorial banking lectures, anchoring the present-day end of the series."
+    evidence:
+      - quote: M. Narasimham (1993) and S. S. Tarapore.
+        context: Tarapore is the most recent prior Shroff Memorial banking lecturer Reddy names
+      - quote: A chronological reading of prior Shroff Memorial Lectures (Iengar 1967 through Tarapore) is used as a proxy history of post-independence Indian banking concerns.
+        context: "key-points: Tarapore closes the bracket on Reddy's chronological reading"
+    key_passages: []
+
 ---
 ## Summary
 

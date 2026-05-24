@@ -25,6 +25,17 @@ period_window: nehruvian-era
 geographic_scope:
   scale: national
   places: []
+thinker_mentions:
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Venkata Rao uses Gandhi's lifetime as the temporal pivot — older value-systems prevailed while Gandhi lived, after which leftist statism overtook public discourse and Indian society lost its bearings."
+    evidence:
+      - quote: "During the life of Gandhi, older ideas of life's values were predominant"
+        context: "Rao locates the intellectual rupture at Gandhi's death — older Indian value-thinking gave way to imported leftist policy"
+    key_passages: []
+related_thinkers: 
+  - mahatma-gandhi
+
 ---
 
 This is an excerpt from an article written by M A Venkata Rao for the September 1958 issue of The Indian Libertarian Journal. In the article, Mr Rao explains how Marxist ideas have corrupted public discourse in favour of statist interventionism and emphasises the need for intellectuals to seek and propagate the truth behind harmful policies to purify public opinion.
