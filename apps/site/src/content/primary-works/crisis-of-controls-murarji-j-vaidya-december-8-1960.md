@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-freedom
+  - free-markets
+  - economic-policy
+  - liberalism
 summary: |-
   Delivered as a public address under the auspices of the Forum of Free Enterprise in Bombay on 18 September 1960 and published as a pamphlet on 8 December 1960, Murarji J. Vaidya's "Crisis of Controls" takes the form of a direct argumentative lecture aimed at business and civic audiences in post-independence India. Opening with the observation that India is simultaneously afflicted by a "crisis of character" (as diagnosed by Vice-President Radhakrishnan), a "crisis of development," and a "dilemma of development" in foreign exchange, Vaidya contends that the worst of these crises is the Crisis of Controls — a creeping, totalising bureaucratic regimentation that has spread from the Planning Commission down to the lowest inspector in every corner of the country.
 

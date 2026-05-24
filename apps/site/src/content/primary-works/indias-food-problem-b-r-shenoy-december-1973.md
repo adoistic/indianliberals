@@ -28,7 +28,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agriculture
+  - economic-policy
+  - economic-planning
 summary: "Delivered on 30th October 1973 as the Eighth A. D. Shroff Memorial Lecture and published by the Forum of Free Enterprise, B. R. Shenoy's lecture argues that India's January 1972 decision to forego PL 480 and other concessional foodgrain imports was a debacle on par with the 1962 military reverses on the northern frontier. He reconstructs how three years of good harvests, a wheat break-through and an 8.1-million-tonne stock cushion bred a misplaced optimism that collapsed when the 1971-72 harvest failed, procurement fell, public-distribution offtake rose and Bangladesh's food crisis forced a 909,000-tonne export — leaving closing stocks at the end of 1972 at just 3.4 million tonnes.\n\nShenoy then sets out the 1973 arithmetic — a roughly 13.2-million-tonne offtake against an 11.7-million-tonne supply — to show that imports of 8.9 million tonnes are unavoidable if reserves are to be kept intact, yet balance-of-payments weakness makes commercial purchases impossible.…"
 needs_review: true
 draft: false

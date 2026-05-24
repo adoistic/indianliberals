@@ -25,7 +25,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector
+  - private-enterprise
+  - free-enterprise
+  - nationalisation
 summary: "This three-page Forum of Free Enterprise pamphlet reprints an October 24, 1956 report from the 'Mail', Madras, of two speeches delivered at the 15th anniversary of the Sri Rama Vilas Service. The industrialist S. Anantharamakrishnan and the administrator-jurist Dr. C. P. Ramaswamy Ayyar mount a paired defence of the private sector at a moment when the Second Five-Year Plan and a wave of nationalisations were tilting the Indian economy toward state ownership. Their joint thesis is that efficiency is structurally impossible in a public undertaking and that the private sector has been doing the country's real economic work without acknowledgement.\n\nRamaswamy Ayyar argues from administrative experience that everything the State has touched has slackened in efficiency 'bit by bit', whereas the private sector has consistently produced 'excellent results'; he calls for a clean enunciation of the Government's policy so that private enterprise can function without misgivings, and notes that even after the recent nationalisations 95 per cent of the country's economic activity still rests in private hands.…"
 needs_review: false
 draft: false

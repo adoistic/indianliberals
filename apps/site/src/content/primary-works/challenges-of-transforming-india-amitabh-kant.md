@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - economic-growth
+  - globalisation
+  - industrial-policy
 summary: |-
   Delivered as the A. D. Shroff Memorial Lecture under the joint auspices of the Forum of Free Enterprise and the A. D. Shroff Memorial Trust in Mumbai on 14 October 2016, and published as a booklet in January 2017, this lecture by Amitabh Kant—then CEO of NITI Aayog—opens with a single diagnostic: India was growing at 7.5 per cent per annum, but nothing short of 9–10 per cent sustained over three decades would be enough to lift its entire population above the poverty line. At India's 2016 per capita income of US$1,580, the difference between 7 per cent and 10 per cent growth by 2032 was the difference between a per capita of US$4,000 and US$6,800—and, at the higher trajectory, the complete elimination of poverty.
 

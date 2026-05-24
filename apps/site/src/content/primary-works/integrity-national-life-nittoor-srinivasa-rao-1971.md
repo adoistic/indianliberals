@@ -28,7 +28,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - civil-society
+  - democracy
 summary: "This booklet reproduces the A. D. Shroff Memorial Lecture delivered by Nittoor Srinivasa Rao — former Chief Justice of Mysore and Central Vigilance Commissioner from 1964 to 1968 — at the Madras Centre of the Forum of Free Enterprise on 7 November 1970. Rao takes 'Integrity in National Life' as a topic 'of basic importance to all systems of society', then narrows the lens to post-Independence India, where, he warns, corruption and the erosion of ethical standards have spread to a point that endangers the country's future.\n\nRao locates the problem in three overlapping zones. First, the moral climate of the community itself: where the prevailing code is corrupt, conformity makes it 'virtually impossible' for an honest functionary to operate, and the higher the level at which low standards are tolerated the more they cascade downward. Second, the political level: he argues that in representative democracy the unscrupulous acquisition and retention of power — through patronage of supporters, favours to financiers, and the wielding of political authority by men 'not of character and calibre' — necessarily demoralises the permanent civil services beneath.…"
 needs_review: true
 draft: false

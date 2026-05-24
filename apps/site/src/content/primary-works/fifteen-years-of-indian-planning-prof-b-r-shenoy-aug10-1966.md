@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-development
+  - economic-policy
 summary: "Delivered as the Walchand Memorial Lecture in Bombay on 7 April 1966 and issued in pamphlet form by the Forum of Free Enterprise that August, B. R. Shenoy's address is a forensic indictment of the first fifteen years of Indian central planning. Shenoy, then Director of the School of Social Sciences at Gujarat University, opens by insisting that economic progress must be measured by mass well-being — chiefly by the per capita availability of food and cloth — and then marshals official statistics to show that on this test the post-1951 record is at best semi-stagnant and on some measures (cereal availability per capita, cotton cloth consumption) worse than the late inter-war years.…"
 needs_review: true
 draft: false

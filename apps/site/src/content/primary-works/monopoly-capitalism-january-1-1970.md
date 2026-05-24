@@ -23,7 +23,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - private-enterprise
+  - industrial-policy
+  - economic-policy
 summary: "This Forum of Free Enterprise pamphlet reprints, with permission, an analytical article from the April/July 1956 issue of the Tata Quarterly that asks whether the rapid post-Independence expansion of private industry in India amounts to 'monopoly capitalism.' Prefaced by a brief statement of openness from Finance Minister T. T. Krishnamachari, the article defines monopoly narrowly — as a combination of barring entry, eliminating competition, driving out rivals, and curtailing output to raise prices — and then tests that definition against the actual structure of Indian industry during the First Five-Year Plan (1951–56).\n\nThe author methodically surveys industrial patterns: the small number of operating units in many new chemical and engineering industries; the existence of substantial unutilised capacity (which the article argues reflects optimistic individual planning rather than collusion); the operation of the licensing system under the Industries (Development and Regulation) Act, 1951; and the trends in prices across closely regulated key industries, young protected industries, and old established consumer-goods industries.…"
 needs_review: true
 draft: false

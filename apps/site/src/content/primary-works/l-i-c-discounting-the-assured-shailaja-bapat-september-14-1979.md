@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - nationalisation
+  - public-sector
+  - economic-reform
 summary: "Shailaja Bapat's 1979 booklet, reproduced by the Forum of Free Enterprise from the June 1979 issue of Imprint, is a sustained policy critique of the Life Insurance Corporation of India twenty-two years after its formation. Her opening premise is structural rather than personal: the failures of LIC are not the fault of the people who run it but of the monopoly form itself, and 'State monopolies' are 'no different from privately owned ones'. Against the promises C. D. Deshmukh made on the eve of nationalisation in 1956 — cheaper insurance, better service, higher efficiency, growth-oriented investment and employment — Bapat assembles an evidentiary indictment drawn from LIC's own valuation reports, the Estimates Committee of the Lok Sabha, and the Administrative Reforms Commission.\n\nOn premium rates, she shows that LIC continues to use the Modified Oriental (1925-35) Ultimate Mortality Table even though successive in-house surveys (1953-54, 1962, the tenth valuation for 1973-75) confirm that actual deaths are between 43 and 45 per cent of those projected; the postal life insurance scheme, working in the same Indian conditions, charges premiums 18-20 per cent lower.…"
 needs_review: true
 draft: false

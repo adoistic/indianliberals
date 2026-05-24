@@ -33,7 +33,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-development
+  - civil-society
+  - liberalism
 summary: "This Forum of Free Enterprise booklet reproduces Dr. R. A. Mashelkar's address \"Shaping Young Minds — Managing Career Expectations\", delivered in August 2008 under the joint auspices of the Lucknow Management Association and the All-India Management Association. Mashelkar, then Chairman of the Governing Council of the National Innovation Foundation and a former Director General of the CSIR, frames India's twenty-first-century challenge as one of \"mind versus mindset\": the Indian mind has never wanted for intellect — it produced the zero and now lays the foundation of the digital economy — but the Indian mindset, captured in the proverb that two Indians together \"neutralize each other\", routinely strips that intellect of its multiplier effect. The argument is that demography, democracy and diversity give India structural advantages over China only if institutional and national mindsets are deliberately rebuilt.\n\nMashelkar develops the thesis autobiographically.…"
 needs_review: true
 draft: false

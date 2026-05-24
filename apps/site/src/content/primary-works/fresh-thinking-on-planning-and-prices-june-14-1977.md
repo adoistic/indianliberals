@@ -52,7 +52,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - inflation
+  - economic-policy
 summary: |-
   Published by the Forum of Free Enterprise in Bombay and dated June 1977, "Fresh Thinking on Planning and Prices" is a compilation pamphlet rather than a single-author essay. It brings together two important planning documents that appeared in the second half of April 1977 — a moment of political and economic transition in India following the end of the Emergency — and frames them as essential reading for citizens concerned with growth, social justice, and the persistent problem of rising prices.
 

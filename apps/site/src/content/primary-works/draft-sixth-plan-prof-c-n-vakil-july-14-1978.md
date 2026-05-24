@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-development
+  - economic-policy
 summary: "Prof. C. N. Vakil's lecture, delivered under the auspices of the Forum of Free Enterprise on 6 June 1978 and published as a booklet on 14 July 1978, offers an early Janata-era critique of India's Draft Sixth Plan (1978–83). Vakil welcomes the Plan's stated departure from earlier Plans — its emphasis on rural development, small-scale industries, a 'minimum needs programme' covering drinking water, housing, roads, elementary education, rural health and electrification, and the explicit recognition that the fruits of three decades of planning have not reached the rural masses. He uses this opening to retell, with some satisfaction, an old defeat: in 1956 he and P. R. Brahmanand had submitted to the Panel of Economists a 'Wage-Goods Model' that prioritised abundant production of food and essentials of life over heavy industry; the Panel, mesmerised by Russian advisers and by P. C. Mahalanobis's Plan Frame, set the suggestion aside. After thirty years, he writes, 'the defects pointed out in 1956 have been realised.'\n\nThe body of the lecture is organised in three sections — Aspirations and Limitations, Techniques of Planning, and Plan Model Should Suit Indian Conditions.…"
 needs_review: false
 draft: false

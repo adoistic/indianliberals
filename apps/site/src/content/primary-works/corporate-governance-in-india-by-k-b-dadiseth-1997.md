@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - private-enterprise
+  - free-enterprise
 summary: "Delivered as the 32nd A. D. Shroff Memorial Lecture on 24 October 1997 and published by the Forum of Free Enterprise, K. B. Dadiseth's address reframes corporate governance for an India that is moving from a controlled economy into globalised competition. Speaking as Chairman of Hindustan Lever, Dadiseth argues that governance must be understood in its widest sense — almost as a trusteeship — and not reduced to statutory checks, committees and counts of non-executive directors. The Cadbury Code and similar prescriptions offer useful broad principles, but India must evolve its own solution because, on average, the basic capabilities of managing companies are still being built.\n\nThe lecture moves through the institutional pillars of the firm. The Board must become the 'directing mind and will' of the corporation, supplying strategy rather than merely satisfying legal obligations. The Chairman, seen in India as the personification of the company, must be the first among equals — custodian of ethics, succession planner and primary link to shareholders.…"
 needs_review: true
 draft: false

@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-development
+  - economic-growth
+  - social-reform
 summary: "Prof. U. R. Rao's T. A. Pai Memorial Lecture (delivered at Hyderabad in January 1997 and published by the Forum of Free Enterprise) frames the next ten years as a decisive window in which India must commit to 'integrated sustainable development' or face a catastrophe of mass starvation. Drawing on the 1992 Rio Summit's language of a 'defining moment in history,' Rao opens with a stark stocktaking of post-independence India: a fivefold rise in GNP and self-sufficiency in food grains since 1950, set against 47% illiteracy, 130-per-thousand under-five mortality, a $1,000 per-capita GDP, rank 135 of 175 on the human development index, and a forest cover below 20%.…"
 needs_review: true
 draft: false

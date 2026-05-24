@@ -22,7 +22,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - civil-society
+  - private-enterprise
 summary: "This brief pamphlet from the Forum of Free Enterprise lays out a 'Code of Conduct' addressed to industrialists, businessmen, and members of the professions in India. Issued by the Forum on the conviction that free enterprise must be defended through visible self-discipline as much as through advocacy, the document argues that the system can only retain its democratic legitimacy if its practitioners uphold high standards of integrity, honesty, hard work, courtesy and continuous initiative.\n\nThe Code then walks through the obligations of each constituency in the productive order. Producers and distributors owe consumers quality goods at reasonable cost, fair measure, and protection from adulteration. Employers owe labour dignified working conditions, fair wages, opportunities for skill-formation, grievance procedures, and recognition of stable democratic trade unions as part of a 'checks and balances' framework for employee-management relations. Management owes shareholders a fair return commensurate with risk, while also maintaining reserves for expansion, modernisation and research.…"
 needs_review: true
 draft: false

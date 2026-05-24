@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - democracy
+  - liberalism
+  - economic-policy
+  - governance
 summary: "Delivered as the Jawaharlal Nehru Memorial Lecture at Trinity College, Cambridge on 7 November 1990 and published by the Forum of Free Enterprise, Nani A. Palkhivala's lecture is a stocktaking of India at forty-three years of independence: an accounting that begins with what the republic inherited and ends with what it has squandered. He opens by celebrating the survival of Indian democracy as the central miracle of the post-war era, naming three inestimable advantages with which the republic began — a five-thousand-year civilisation, the unification effected by British rule, and a 'sublime' Constitution that embeds the substance of the Universal Declaration of Human Rights. The Constitution, he stresses, never enshrined socialism; on the contrary, its Directive Principles rule out state ownership, 'the Monolithic State... which is the hallmark of communism, euphemistically called socialism.'\n\nThe second movement of the lecture is an indictment of what successive governments did with that inheritance.…"
 needs_review: true
 draft: false

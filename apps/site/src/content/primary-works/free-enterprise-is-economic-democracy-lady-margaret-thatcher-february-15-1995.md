@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - economic-freedom
+  - free-markets
+  - liberalism
 summary: "This Forum of Free Enterprise booklet collects two excerpts from Lady Margaret Thatcher: a keynote address delivered in Bombay on 9 September 1994 under the Citibank Leadership Speaker Series (\"Free Enterprise is Economic Democracy\"), and a lecture titled \"The New World Order\" given at the Fraser Institute's 20th Anniversary luncheon in Vancouver in 1994. Together they amount to a compressed manifesto of Thatcherism reframed for an Indian audience on the cusp of liberalisation.\n\nIn the first piece Thatcher argues that economic freedom is itself a form of freedom, that free enterprise is best understood as 'economic democracy,' and that the state's role should be limited but strong — sound on currency and finance, restrained on industry.…"
 needs_review: true
 draft: false

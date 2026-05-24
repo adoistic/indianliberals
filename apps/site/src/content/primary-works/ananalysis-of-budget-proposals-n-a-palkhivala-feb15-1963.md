@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - fiscal-policy
+  - public-finance
+  - economic-policy
 summary: "N. A. Palkhivala's pamphlet — published by the Forum of Free Enterprise on the eve of the post-1962 emergency Budget — is a sustained classical-liberal attack on the 1963-64 Union Budget, with the proposed Super Profits Tax as its central target. Palkhivala opens by insisting that even an emergency cannot suspend \"the principles of economics and the rules which regulate human conduct,\" and uses cross-national comparison (Japan halving its income-tax on the middle classes, US/UK/Germany/France direct-tax reductions, the National Institute's report to the UK Government, articles in The Times, The Economist and Time) to argue that progressive economies grow revenues by lowering rates, not by piling them on already-confiscatory marginal rates of 50% on companies and 87% on individuals.\n\nThe heart of the booklet is a numbered indictment of the Super Profits Tax under eight heads: it taxes capital rather than profit; ignores the labour component of firms like agencies and partnerships; punishes lean-year recoveries; double-taxes corporate-shareholder structures; deters foreign collaboration; freezes new company formation; cripples banks by exhausting their reserve base; and will trigge…"
 needs_review: true
 draft: false

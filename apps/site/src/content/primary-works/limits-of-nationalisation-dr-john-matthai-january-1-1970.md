@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - nationalisation
+  - free-enterprise
+  - socialism
 summary: "Dr. John Matthai's short pamphlet \"Limits of Nationalisation,\" reprinted by the Forum of Free Enterprise from a speech delivered at the Rotary Club, Bombay, mounts a careful, lawyerly case against the general application of nationalisation in Indian industrial policy. Matthai concedes that state enterprise has a legitimate place where there is \"proved necessity\" — defence-related industries are his prima facie example — but insists that free enterprise should be the rule and state ownership the narrowly justified exception, decided industry by industry on the merits rather than by a priori categories or by appeal to a Socialist Pattern of Society.\n\nThe argument rests on two main lines. First, Matthai rereads the genealogy of socialism: he argues that Marx's thesis of socialising the means of production was a response to nineteenth-century conditions — despotic governments, propertied-class capture of the state, and the bargaining weakness of labour — which no longer obtain in democratically governed countries with adult franchise and sovereign parliaments.…"
 needs_review: true
 draft: false

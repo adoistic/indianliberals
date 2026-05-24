@@ -25,7 +25,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - fiscal-policy
+  - economic-planning
+  - public-finance
 summary: "A. D. Shroff's address to the Commerce Graduates' Association in Bombay on 22 May 1957 is a sharp, line-by-line attack on the Union Budget of 1957–58, which he treats as the financial expression of a Second Five-Year Plan that has lost contact with India's productive capacity. Shroff concedes that some deficit financing under planned development is unavoidable, but argues that taxes to cover the Rs. 33-crore current-account deficit could have been raised without the revolutionary new burdens the Finance Minister proposes. The actual package — fresh excises on tea, cloth, matches, sugar, cement and steel ingots, a sharply lowered minimum income-tax slab, a heavier super-tax and bonus tax, a new wealth tax and an unprecedented expenditure tax — is, in his telling, dictated only by the need to extract as much revenue as possible from a population already living at bare subsistence.\n\nThe critique moves outward from prices to politics. Shroff documents how government control of cement and steel has produced shortage, illegitimate State Trading Corporation profits and what he calls open profiteering by the State, even as the private sector is denounced for the same conduct.…"
 needs_review: true
 draft: false

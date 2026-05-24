@@ -30,7 +30,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - private-enterprise
+  - free-enterprise
+  - mixed-economy
+  - political-economy
 summary: "Delivered as the A. D. Shroff Memorial Lecture at the Calcutta Centre of the Forum of Free Enterprise on 27 October 1971, this pamphlet is S. S. Kanoria's attempt — written as the then-President of FICCI — to articulate a positive 'philosophy of business' for Indian private enterprise. Kanoria opens by honouring Shroff as an industrialist-economist whose convictions inspired the Forum, and uses Keynes' dictum about the long reach of ideas to argue that India's economic debates are at root a 'battle of ideas, a struggle for men's minds'. He rejects two extremes: the laissez-faire of Adam Smith and the Manchester School, which he calls 'as dead as the dodo', and full state ownership and centralised planning, which he treats as its dogmatic mirror image.\n\nThe philosophy he advances is that of a mixed economy in which private enterprise is 'infused with social purpose' and accountable to consumers, workers, investors, the state, and the local community.…"
 needs_review: true
 draft: false

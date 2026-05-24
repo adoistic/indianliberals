@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-growth
+  - economic-policy
+  - industrial-policy
 summary: "This Forum of Free Enterprise booklet is Dr. S. D. Naik's diagnosis of India's \"jobless growth\" — economic expansion that fails to produce enough formal jobs. After Sunil S. Bhandare's editorial framing (printed pages 3–6), Naik's essay \"What needs to be done to tackle it?\" opens by defining jobless growth and pointing to a contradiction: India grows at 7–7.5% per year while creating only 4 to 4.5 million jobs against an annual labour-force addition of roughly 12 million. He attributes this paradox to India's failure to build a labour-intensive manufacturing sector along Chinese lines and to the dominance of services, which now employ 30 per cent of the working-age population.\n\nDrawing on Labour Bureau, CMIE and McKinsey Global Institute data, Naik shows that 93 per cent of employment sits in the unorganised sector, that rural wages are at a decade low, and that underemployment runs at 35 per cent. He traces a collapse in India's employment elasticity from 0.44 in 1999–2005 to roughly 0.01, well below the 0.3 global average for 2000–2010.…"
 needs_review: true
 draft: false

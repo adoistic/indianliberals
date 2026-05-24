@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - globalisation
+  - economic-reform
+  - economic-policy
 summary: "Kiran Nanda, Chief Economist of Gujarat Ambuja Cements, delivers a Forum of Free Enterprise booklet based on her keynote address at a Bombay seminar on \"FOREIGN CAPITAL & GLOBALISATION\" in September 1995. She argues that the opening of the Indian economy to foreign capital — central to the New Industrial Policy of 1991 — is indispensable if India is to lift growth from 5–6 per cent to 7–8 per cent. Foreign capital, in her telling, plugs the savings-investment gap, especially in infrastructure (roads, power, telecoms, railways requiring at least $200 billion over a decade), modernises industry, brings managerial and marketing skills, and helps reorient the work culture toward international competitiveness.\n\nThe booklet walks the reader through the architecture of the post-1991 reforms: 51 per cent foreign equity in 34 high-priority industries, amendment of FERA, tariff rationalisation, current-account convertibility, MRTP dilution, GDR issuance, and FII directives.…"
 needs_review: true
 draft: false

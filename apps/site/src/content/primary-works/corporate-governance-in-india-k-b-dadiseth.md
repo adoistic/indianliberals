@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - private-enterprise
+  - free-enterprise
 summary: "Corporate Governance in India is the text of the 32nd A. D. Shroff Memorial Lecture, delivered by K. B. Dadiseth, Chairman of Hindustan Lever Ltd., in Mumbai on 24th October 1997 and published as a booklet by the Forum of Free Enterprise. Dadiseth argues for an expansive, almost trusteeship-like conception of corporate governance: not merely a matter of statutory checks and balances, committees, and counts of non-executive directors, but a culture of conscience, transparency, accountability, and self-regulation that must permeate the whole organisation.\n\nThe lecture is structured around the principal pillars of governance — the Board as the 'directing mind and will' of the corporation, the Chairman as first among equals and custodian of corporate ethics, employees as risk-bearing partners under a shared code of business principles, internal audit reoriented from fault-finding to positive assurance, and public disclosures that communicate trustworthiness.…"
 needs_review: true
 draft: false

@@ -31,7 +31,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - civil-society
+  - rule-of-law
 summary: |-
   Published as a pamphlet by the Forum of Free Enterprise in Mumbai and dated August 25, 2014, this booklet reproduces an article by Dr. Samiran Nundy — gastrointestinal surgeon at Sir Ganga Ram Hospital, New Delhi, and Editor-in-Chief of the journal Current Medicine Research and Practice — that first appeared in that journal's May–June 2014 issue (Vol. 4). The Forum's introduction by President Minoo R. Shroff frames the piece against a backdrop of public outrage: the Union Health Minister, Dr. Harsh Vardhan, had himself used the word "cartelization" on the floor of the Lok Sabha to describe kickback arrangements between doctors and diagnostic laboratories, and US hospitals had been fined nearly $200 million in 2014 for extracting referral fees.
 

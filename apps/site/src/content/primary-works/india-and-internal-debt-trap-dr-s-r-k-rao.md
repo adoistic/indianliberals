@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-finance
+  - fiscal-policy
+  - economic-policy
 summary: "Delivered as the M.V. Sirur Memorial Lecture in Hubli in February 1999 and published by the Forum of Free Enterprise, this pamphlet by Dr. S.R.K. Rao — a former Principal Adviser to the Reserve Bank of India — diagnoses the late-1990s Indian economy and warns that the Centre is sliding into what he had earlier christened the \"Internal Debt Trap\". After acknowledging genuine post-Independence achievements in foodgrains, fertilisers, heavy industry, banking spread and infotech, Rao argues that these gains are dwarfed by population pressure, persistent mass poverty, sluggish 1998-99 GDP growth, agricultural stagnation, industrial deceleration and a fragile external sector marked by widening trade and current-account deficits and only a trickle of FDI relative to China.\n\nMuch of the lecture is a forensic critique of public-sector banking and the financial regulator. Rao tracks Non-Performing Assets at commercial banks past Rs.…"
 needs_review: true
 draft: false

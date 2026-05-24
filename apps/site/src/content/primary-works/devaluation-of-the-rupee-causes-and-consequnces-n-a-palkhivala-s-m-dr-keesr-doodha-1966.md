@@ -35,7 +35,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - fiscal-policy
+  - economic-policy
 summary: "A 1966 Forum of Free Enterprise booklet collecting three responses to the June 1966 devaluation of the rupee. The constitutional lawyer N. A. Palkhivala opens with a talk delivered to the Forum on 27 June 1966 framing devaluation as the legal recognition of an economic fait accompli and listing seven disciplines without which the measure will fail. A pseudonymous columnist 'S. M.' follows with a piece reproduced from the Hindustan Times of 22 June 1966 that defends devaluation against the charge of foreign coercion and ties its success to renewed fiscal restraint and a deferred Fourth Plan. Dr. Kersi D. Doodha, an economist in a commercial bank, closes with a primer on what devaluation actually is, how the IMF's Articles of Agreement frame 'fundamental disequilibrium', and the supply-side conditions under which a change in par value can correct a payments imbalance."
 needs_review: true
 draft: false

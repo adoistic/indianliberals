@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - democracy
+  - socialism
 summary: "Published by the Forum of Free Enterprise in 1956 — and reproduced from the Annual Number of Commerce that same year — A. D. Shroff's pamphlet is a direct rejoinder to Prime Minister Jawaharlal Nehru, who had recently told a Calcutta press conference that democracy and unrestricted private enterprise were incompatible. With the announcement of the 'Socialist pattern of Society' as the national goal, Shroff argues, the relationship between free enterprise and democracy has assumed great significance, and the country must decide whether the drift towards State Capitalism under the plea of a Welfare State threatens to 'enslave man to the State as a totalitarian State'.\n\nShroff concedes that the doctrine of laissez faire is 'dead as dodo' and that the modern State legitimately regulates production, taxation, labour, and dividends. The real question is one of balance: a mixed economy in which a circumscribed free-enterprise sector and a State sector each play 'an important and autonomous role'.…"
 needs_review: true
 draft: false

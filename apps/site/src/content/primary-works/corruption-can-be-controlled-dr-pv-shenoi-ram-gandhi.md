@@ -32,7 +32,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - rule-of-law
+  - civil-society
+  - economic-reform
 summary: |-
   Published by the Forum of Free Enterprise in Mumbai on 14 October 1998, this booklet brings together two complementary addresses on the economics and politics of corruption in India. The first, by Dr. P. V. Shenoi, IAS (Retd.), Director of the Institute for Social and Economic Change, Bangalore, is based on a seminar presentation of January 1998; the second, by Ram Gandhi, immediate Past President of the Indian Merchants' Chamber, is drawn from his welcome address at an IMC meeting of 21 December 1997 at which Prime Minister I. K. Gujral was the chief guest. Both authors share a common premise—that India ranked among the world's ten most corrupt nations—but approach the problem from different angles: Shenoi from the standpoint of administrative and constitutional reform, Gandhi from the standpoint of economic costs and a sequenced action agenda.
 

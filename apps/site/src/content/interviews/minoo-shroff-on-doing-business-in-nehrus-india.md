@@ -2,7 +2,10 @@
 id: "minoo-shroff-on-doing-business-in-nehrus-india"
 title: "Minoo Shroff on Doing Business in Nehru's India"
 pubDate: "2020-11-05T05:03:12Z"
-themes: []
+themes:
+  - "economic-planning"
+  - "private-enterprise"
+  - "industrial-policy"
 language: "en"
 needs_review: true
 draft: false

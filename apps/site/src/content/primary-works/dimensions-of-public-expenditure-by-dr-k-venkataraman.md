@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-finance
+  - fiscal-policy
+  - governance
 summary: "Dr. K. Venkataraman, a former civil servant and Chairman of the Public Expenditure Round Table (PERT) in Chennai, uses this Forum of Free Enterprise booklet to argue that India's public expenditure has grown into a quietly destabilising force that academic and political debate has neglected. Drawing on numbers through the late 1990s, he documents that Central Government expenditure was doubling roughly every five years through the 1980s and 1990s, that the combined fiscal deficit of the Centre and the States hovered near 10% of GDP, and that as much as 86% of the Centre's internal borrowings were going to service existing debt — a trajectory he labels a possible \"debt trap\" in which an entire revenue budget could one day be consumed by interest payments alone.\n\nVenkataraman frames this not just as a budgetary problem but as a paradigm shift that has happened without articulation: the revenue/capital distinction has eroded, subsidies have become a permanent fixture, public capital formation has stalled, and competitive populism between States — symbolised by free agricultural electricity — keeps Chief Ministers trapped in a \"Who will bell the cat?\" stand-off.…"
 needs_review: true
 draft: false

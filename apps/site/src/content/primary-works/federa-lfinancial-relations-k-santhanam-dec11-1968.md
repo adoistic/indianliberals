@@ -34,7 +34,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - public-finance
+  - governance
+  - economic-planning
 summary: "Delivered as the First A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise, K. Santhanam's address surveys the constitutional architecture of Centre–State financial relations in India and argues that planning has bent that architecture out of shape. After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's pioneering work for free enterprise and recall Shroff's own wish for a talk on changing Union–State financial relations, Santhanam traces the lineage of Indian fiscal federalism from Lord Mayo's 1870 devolution through the Government of India Act, 1935, into Articles 268–281 of the Constitution.\n\nSanthanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau, Gopalaswamy Ayyangar and K. M. Munshi — with producing a precise, if cautious, federal scheme in which most taxes are demarcated between Union and States while income-tax and Union excise duties are shareable on the recommendations of a Finance Commission appointed every five years under Article 280.…"
 needs_review: true
 draft: false

@@ -32,7 +32,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - globalisation
+  - economic-reform
 summary: "Delivered on 25 October 2002 as the A. D. Shroff Memorial Public Lecture in Mumbai (sponsored by Bank of India), this booklet collects Y. V. Reddy's address \"Indian Banking in International Perspective.\" Reddy — then Executive Director at the IMF and a former Deputy Governor of the Reserve Bank of India — frames his lecture as a tribute to Shroff's classical-liberal advocacy through the Forum of Free Enterprise, recalling that his own student generation first encountered free-enterprise ideas in contrast with the socialism-oriented declarations of official Indian policy. He opens with three episodes that link Shroff to international finance: Shroff's role (with Sir R. K. Shanmukham Chetty) in the IMF quota negotiations; his presence on the Indian delegation that christened the IBRD; and his architecture of the Bombay Plan.\n\nThe first half of the lecture is a retrospective traversal of every prior A. D. Shroff Memorial Lecture on banking, from H. V. R. Iengar's 1967 inaugural through B. N. Adarkar (1971), R. K. Talwar (1974), J. N. Saxena (1977), R. C. Shah (1983), N. N. Pai, N. Vaghul (1989), M. Narasimham (1993) and S. S. Tarapore.…"
 needs_review: true
 draft: false

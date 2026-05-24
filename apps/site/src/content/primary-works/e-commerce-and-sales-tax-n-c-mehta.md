@@ -28,7 +28,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - fiscal-policy
+  - rule-of-law
 summary: "N. C. Mehta — a chartered accountant and sales-tax specialist writing for the Forum of Free Enterprise — distils, in twelve dense pages, the constitutional and case-law framework that governs how Indian states may tax transactions completed over the internet. The booklet is a faithful piece of practitioner literature: it begins from the Supreme Court's Titaghur Paper Mills doctrine that no state may treat as a taxable 'sale' anything that is not a sale of goods under the Sale of Goods Act, 1930, and then traces how the Forty-sixth Amendment to the Constitution and article 366(29A) extended the states' reach to a list of 'deemed sales' (works contracts, hire-purchase, leases, lottery participation, transfer of right to use goods, and so on).\n\nMehta then surveys the Supreme Court's progressive enlargement of what counts as 'goods' — from electricity (Madhya Pradesh Electricity Board), through lottery tickets (Anraj), to REP licences, exim scrips, patents, trademarks, software packages, DEPB credits, copyrights and know-how.…"
 needs_review: true
 draft: false

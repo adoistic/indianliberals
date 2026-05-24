@@ -16,7 +16,8 @@ provenance:
   source: "ccs_archive"
   scan_quality: "fair"
   notes: "Imported from indianli_liberals DB (id=52, lang=Marathi). Original PDF filename: PDF_52_gjn5yeYodha Shetkari.pdf. OCR pages in DB: 111. OCR quality flag: partial. Author (per DB): Vijay Prulkar."
-themes: []
+themes:
+  - liberalism
 ai_key_points:
   - "The PDF referenced in inventory.json for this entry is mis-linked: it actually contains Ajit Narde's 'Shetkari Sanghatana: Rajakeeya Bhoomika', not Vijay Prulkar's 'Yodha Shetkari'."
   - "A filesystem search across /Volumes/One Touch/Indian Liberals/ for 'yodha' and 'prulkar' returned no matching PDF, so the source file is apparently absent from the archive."

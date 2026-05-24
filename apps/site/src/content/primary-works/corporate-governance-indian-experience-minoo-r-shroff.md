@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - private-enterprise
+  - free-enterprise
 summary: "In this Forum of Free Enterprise booklet (published December 2000), the management consultant and Forum president Minoo R. Shroff offers a brisk practitioner's history of corporate governance in India and an argument for why the moment has arrived to take it seriously. He defines governance as 'management assuming the role of trusteeship' with checks and balances that lift performance, employee morale, shareholder value and social responsibility, insisting that 'the spirit is more important than the form' — codes alone do nothing without commitment at the top.\n\nShroff traces the Indian corporate landscape from a family-dominated, board-as-formality past — with notable exceptions like the House of Tatas, which adopted worker welfare and even social audits decades ahead of legislation, and the 1956 Forum of Free Enterprise Code of Conduct (reproduced as an appendix).…"
 needs_review: false
 draft: false

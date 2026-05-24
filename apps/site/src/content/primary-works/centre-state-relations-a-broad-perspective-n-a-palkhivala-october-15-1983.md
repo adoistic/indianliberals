@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - democracy
+  - rule-of-law
 summary: "Nani A. Palkhivala's 1983 Forum of Free Enterprise pamphlet diagnoses what he treats as the central political pathology of the Indian Republic in the early 1980s: the steady erosion of the federal scheme of the Constitution by an over-mighty Centre. Framing India since 1950 as 'the largest experiment ever undertaken in human history in the art of democratic living', he insists that the Centre is 'nothing but the States in their federal garb', and that the injuries done to the States have been largely self-inflicted by their own representatives in Parliament. The Constitution, he argues, was deliberately written with a bias in favour of the Union, but that bias must operate within reasonable limits; the question of the pamphlet is what those limits are.\n\nThe essay then surveys the principal mechanisms of over-centralisation.…"
 needs_review: true
 draft: false

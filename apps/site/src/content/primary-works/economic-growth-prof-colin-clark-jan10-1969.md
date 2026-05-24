@@ -29,7 +29,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-growth
+  - taxation
+  - economic-policy
 summary: "This Forum of Free Enterprise booklet collects four short lectures and a personal reminiscence by the Oxford economist Colin Clark, delivered in Bombay during his September 1968 visit to India. Section I argues that India's recently accelerated population growth, far from threatening living standards, has been accompanied by faster growth in real product per head: international comparisons of Latin American and Asian developing countries lead Clark to the counter-Malthusian conclusion that population growth rates up to about 3% per year are compatible with, and may even help create, sustained rises in productivity, partly because they raise the proportion of active savers and spread overhead costs of capital. Section II lays out three principles for designing taxation - administrative practicability, economic efficiency, and social justice - and uses them to argue for a 50% cap on top income tax rates, the abolition of estate duties and discriminatory income taxes on investment, restraint on welfare spending, and the substitution of a Value Added Tax for sales tax.…"
 needs_review: false
 draft: false

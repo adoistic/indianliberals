@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - private-enterprise
+  - free-enterprise
 summary: "This booklet reproduces the 15th Bhogilal Leherchand Memorial Lecture, delivered by Adi B. Godrej, Chairman of the Godrej Group, in Mumbai on 8 December 2003 and published in January 2004 by the Forum of Free Enterprise. Writing in the wake of the Enron, Arthur Andersen, Tyco, Global Crossing, Adelphia and Worldcom scandals, Godrej argues that corporate governance is neither a new concept nor a passing management fad: it dates at least to the post-Watergate internal-controls legislation of the 1970s, and the recent spate of malfeasance only makes the case for taking it seriously more urgent. He surveys the institutional history — the Treadway Commission, the Cadbury Code, the Combined Code of the London Stock Exchange, the Blue Ribbon Committee, the OECD Code of 1998 — and in India the Kumar Mangalam Birla, R. H. Patil, M. S. Verma, A. S.…"
 needs_review: false
 draft: false

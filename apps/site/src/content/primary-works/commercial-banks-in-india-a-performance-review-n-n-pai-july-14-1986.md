@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - nationalisation
+  - economic-policy
+  - monetary-policy
 summary: |-
   Delivered as the annual public lecture under the auspices of the A. D. Shroff Memorial Trust in Bombay on 26 May 1986 and released as a booklet on 14 July 1986, this address by N. N. Pai—former Chairman and Managing Director of the Industrial Development Bank of India and Corporation Bank—offers a forensic review of the seventeen years since the nationalisation of fourteen major commercial banks in July 1969. Pai's central argument is that the banking system had achieved genuinely remarkable quantitative gains in social outreach, but that the pace and direction of that expansion had simultaneously degraded quality, eroded profitability, and starved the medium and large industrial sector of working capital.
 

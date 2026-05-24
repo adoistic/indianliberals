@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - fiscal-policy
+  - public-finance
+  - economic-policy
 summary: "A. D. Shroff, President of the Forum of Free Enterprise, delivers a clause-by-clause critique of the Union Budget 1965-66 (originally a talk of 9 March 1965). He opens by praising Finance Minister T. T. Krishnamachari for being unusually transparent — for the first time the budget papers, especially the Economic Survey, allow the tax-payer to see the country's true position — and for the welcome simplification of the tax structure (the folding of surcharges into a unified income-tax). But his approval ends there. The compilers, he argues, habitually underestimate revenue and overestimate expenditure; the upshot is an unnecessary additional tax burden on a country whose statistical machinery is itself decades behind the times.\n\nThe core of the pamphlet is a sustained attack on the rising burden of indirect taxes — customs and especially excise — which have climbed from Rs. 157 crores in 1950-51 to Rs. 827 crores by 1965, falling hardest on items of daily necessity like kerosene, matches and sugar consumed by 62 percent of villagers.…"
 needs_review: true
 draft: false

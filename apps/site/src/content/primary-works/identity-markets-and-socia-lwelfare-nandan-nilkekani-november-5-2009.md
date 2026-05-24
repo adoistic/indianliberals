@@ -34,7 +34,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - economic-development
+  - social-reform
 summary: "This booklet reproduces the 43rd A. D. Shroff Memorial Lecture, delivered by Nandan Nilekani in Mumbai on 27 October 2009 under the auspices of the Forum of Free Enterprise, with an editorial note by Sunil S. Bhandare and a biographical sketch of A. D. Shroff appended. Speaking as the newly appointed chairman of the Unique Identification Authority of India (UIAI), Nilekani frames the UID project as the missing third leg — alongside mobile telephony and online banking — of a technological platform that can transform welfare delivery for India's poor. He opens by saluting Ardeshir Shroff's early advocacy of competition, liberalisation and 'intellectual capital' in an era dominated by faith in planning, and argues that growth in the 1990s and 2000s, however impressive, has failed to dislodge the structural poverty that Shroff diagnosed.\n\nThe core of the lecture is a diagnosis of why Indian welfare schemes — from NREGA to the Indira Awaas Yojana to PDS rations — leak so heavily into fraud, duplicate identities and ghost beneficiaries.…"
 needs_review: true
 draft: false

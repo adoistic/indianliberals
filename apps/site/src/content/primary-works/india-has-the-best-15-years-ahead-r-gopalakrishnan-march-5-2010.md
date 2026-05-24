@@ -32,7 +32,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-growth
+  - economic-development
+  - democracy
 summary: "This Forum of Free Enterprise booklet reproduces an expanded version of R. Gopalakrishnan's Economic Times article of 2 March 2010, written at the time of that year's Union Budget. Gopalakrishnan — then Executive Director of Tata Sons — argues that India is poised for its best ever fifteen-year stretch of growth, framing the country's unusual choice to embrace democracy and constitutional liberalism before capitalism as climbing up the 'down' escalator: confusing in motion, but unambiguously upward. He marshals macro data (a trillion-dollar economy capable of doubling every seven to eight years, an 8 percent growth rate he calls a 'slam dunk', rising per-capita consumption, the cell-phone and two-wheeler revolutions, the doubling of rural non-agricultural employment) to argue that the Hindu rate of growth is now firmly behind India.\n\nHe then lays out nine accelerators — scale, consumption depth, global connectedness, demographic dividend, productivity gains, the displacement of older corporate giants by new ones like Bharti, Suzlon and Essar Oil, the maturing of coalition politics, and the country's broad religious tolerance and entrepreneurial flair.…"
 needs_review: true
 draft: false

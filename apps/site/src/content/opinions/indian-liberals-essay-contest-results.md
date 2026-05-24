@@ -2,7 +2,10 @@
 id: "indian-liberals-essay-contest-results"
 title: "Indian Liberals Essay Contest - Results"
 pubDate: "2020-10-24T17:40:20Z"
-themes: []
+themes:
+  - "liberalism"
+  - "civil-society"
+  - "democracy"
 language: "en"
 needs_review: true
 draft: false

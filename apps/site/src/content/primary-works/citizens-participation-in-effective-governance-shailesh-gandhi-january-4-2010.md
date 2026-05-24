@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - democracy
+  - civil-society
+  - civil-liberties
 summary: "Citizens' Participation in Effective Governance is the text of the 21st Bhogilal Leherchand Memorial Lecture, delivered by then-Central Information Commissioner Shailesh Gandhi in Mumbai on 9 December 2009 and published in January 2010 by the Forum of Free Enterprise. Gandhi opens by reminding readers that the Constituent Assembly, elected by under two per cent of the population, nevertheless framed a Constitution that conceived of India as a vibrant democracy of equal citizens. The promise, he argues, has been hollowed out: India settled for an 'elective democracy' that observes the forms of elections while losing the substance of citizen sovereignty, with the result that ordinary people meet the State with suspicion, derision and anger.\n\nThe bulk of the lecture is a granular indictment of administrative failure built from Gandhi's own files as Information Commissioner.…"
 needs_review: true
 draft: false

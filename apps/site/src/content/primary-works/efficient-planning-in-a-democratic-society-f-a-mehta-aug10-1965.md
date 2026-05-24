@@ -28,7 +28,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - democracy
+  - economic-development
 summary: "Originally delivered as a talk at an international symposium in Turkey in 1964 and issued in August 1965 as a Forum of Free Enterprise booklet, Dr. F. A. Mehta's essay confronts the central post-war development question: whether rapid economic growth can be secured, stimulated, and sustained within a framework of political democracy, individual liberty, and the rule of law. Writing for a readership of over a hundred under-developed countries, Mehta refuses both halves of the prevailing fatalism — that democracy must be sacrificed for growth, or that growth must be slowed to preserve democracy — and instead diagnoses the real source of strain: in the short run, growth itself generates rising prices, consumer-goods shortages, severe inequalities and harder working hours, all of which press on democratic stability before the gains diffuse downward.\n\nThe second and longer half of the booklet turns from the tensions of growth to the methodology of growth — the mechanics and ideology of planning.…"
 needs_review: true
 draft: false

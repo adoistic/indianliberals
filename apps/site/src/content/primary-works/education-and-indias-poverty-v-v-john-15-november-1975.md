@@ -28,7 +28,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - social-reform
+  - economic-development
+  - civil-society
 summary: "Delivered as the tenth A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise in Bombay on 27 October 1975, V. V. John's address argues that India's poverty is at root an educational problem and that the country's universities and colleges have failed in their duty to the poor. John, a former Vice-Chancellor of Jodhpur University, opens by saluting the scholarly studies of poverty by Dandekar and Rath, Fonseca, and Dantwala for moving the debate beyond sentimental generalities, but insists that poverty is ultimately a moral problem whose solution requires the active engagement of the intellectual class. With more than 250 million Indians, including 100 million children, going to bed hungry, he argues, compassion cannot be allowed to retreat into either economic technicality or the convenient fatalism he sees creeping into developed-country attitudes towards the Third World.\n\nThe heart of the lecture is an indictment of Indian higher education as a \"scandalous pyramid of privileges\" subsidised by public funds for an academically privileged minority that returns little of value to the society that paid for its training.…"
 needs_review: true
 draft: false

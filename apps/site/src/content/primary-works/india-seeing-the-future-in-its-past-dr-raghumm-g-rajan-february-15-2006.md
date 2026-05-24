@@ -37,7 +37,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - economic-growth
+  - governance
 summary: "Delivered on 20 January 2006 in Mumbai as part of the Forum of Free Enterprise's Golden Jubilee series, this lecture by IMF Chief Economist Raghuram G. Rajan asks whether the 'buzz' surrounding India's growth at mid-decade is justified, and reads the answer back through the country's post-Independence policy history. Rajan opens by saluting A. D. Shroff and Nani Palkhivala as lonely voices of free enterprise during decades when Indian regulation, in his view, transferred wealth 'from the honest rich to the dishonest rich,' and positions himself, despite his international bureaucratic post, as a sympathetic visitor to that classical-liberal lineage. The booklet's front matter — M. R. Shroff's note on the Forum's fifty-year history and Sunil S.…"
 needs_review: true
 draft: false

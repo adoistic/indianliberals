@@ -28,7 +28,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - mixed-economy
+  - free-enterprise
+  - public-sector
 summary: "Delivered as the Second A. D. Shroff Memorial Lecture in Bombay on 27 October 1967 and published as a Forum of Free Enterprise booklet on 11 January 1968, H. V. R. Iengar's address takes the 1944 Bombay Plan — co-authored by A. D. Shroff alongside Purshotamdas Thakurdas, J. R. D. Tata, G. D. Birla, Sriram, Kasturbhai Lalbhai and John Matthai — as a mirror for India's later experience with state planning. Iengar reads the Bombay Plan as the prototype of the post-independence Planning Commission's approach: massive State intervention, a mixed economy with public-sector primacy, emphasis on heavy industry, foreign capital, and deficit financing. He argues that the Planning Commission \"got its inspiration from the Bombay plan\", and that A. D. Shroff himself was, in 1944, one of its principal proponents.\n\nThe core of the lecture explains why Shroff later broke with that doctrine and set up the Forum of Free Enterprise in 1956.…"
 needs_review: true
 draft: false

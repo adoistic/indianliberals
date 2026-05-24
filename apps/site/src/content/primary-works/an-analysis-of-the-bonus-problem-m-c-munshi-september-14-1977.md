@@ -28,7 +28,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agriculture
+  - economic-development
+  - economic-planning
+  - social-reform
 summary: "Note: the file is labelled \"An Analysis of the Bonus Problem — M. C. Munshi (September 14, 1977)\" in the pipeline, but the rendered booklet is in fact \"Rural Development is Key to Welfare of the Masses\" by J. H. Doshi, President of the Forum of Free Enterprise, based on his presidential address at the Forum's 21st Annual General Meeting in Bombay on 17 October 1977.\n\nDoshi opens with a stock-taking of three decades of independence and twenty-six years of planning: real progress, he concedes, but small compared to the country's potential — a record of lost opportunities driven by policymakers who ignored India's most favourable assets, especially entrepreneurial talent and the Indian diaspora. He marshals an extended quotation from agriculture minister Bhanu Pratap Singh to show that, despite headline buffer stocks and foreign-exchange reserves, per capita consumption of foodgrains, pulses, edible oils, sugar and cloth has fallen; that growth in major crops has stalled since 1960-61; and that industrial growth slipped from 7.9% (1950–65) to 3.3% (1965–75).…"
 needs_review: true
 draft: false

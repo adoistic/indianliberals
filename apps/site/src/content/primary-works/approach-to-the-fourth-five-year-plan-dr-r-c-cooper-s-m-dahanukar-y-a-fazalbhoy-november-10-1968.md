@@ -39,7 +39,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-policy
+  - free-enterprise
+  - mixed-economy
 summary: "Published by the Forum of Free Enterprise on 10 November 1968 to coincide with the Planning Commission's circulation of its 'Approach to the Fourth Five-Year Plan' note, this pamphlet collects three addresses by Dr. Rustom C. Cooper, Y. A. Fazalbhoy and S. M. Dahanukar — a chartered accountant and Indian Merchants' Chamber past president, the head of the All-India Manufacturers' Organisation, and the president of the Maharashtra Chamber of Commerce. The FFE introduction frames the volume as a continuation of its post-1956 campaign against Soviet-style centralised planning, citing inflation, foreign exchange crises, food shortages and industrial recession as vindication of warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R.…"
 needs_review: true
 draft: false

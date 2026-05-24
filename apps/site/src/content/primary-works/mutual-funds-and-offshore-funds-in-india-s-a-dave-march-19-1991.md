@@ -30,7 +30,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - private-enterprise
+  - economic-reform
 summary: "S. A. Dave's 1991 A. D. Shroff Memorial Lecture opens with an unusually candid intellectual autobiography. As a student of economics in the 1950s, Dave was raised on Marx, Soviet planning and the Mahalanobis model, and saw free enterprise as the cause of India's problems rather than the cure; only over time, watching the planning era fail to deliver, did he come to appreciate the courage it took A. D. Shroff to found the Forum of Free Enterprise in 1956. The lecture is framed as homage to Shroff and to the Unit Trust of India, whose ninety lakh unitholders Dave sees as the living test of an institution built entirely on individual trust.\n\nThe first half develops a theory of household saving — safety, liquidity and yield — and explains why mutual funds matter for the small saver who lacks the capital to buy a single growth-share trading lot of Rs. 25,000. Dave defends, as a peculiarly Indian innovation, the practice of declaring assured moderate returns at the launching of a scheme, arguing that this 'unconventional practice' is what drew household savings into the equity cult and that no Indian fund has yet failed its assurances. He traces UTI from Shri T. T.…"
 needs_review: true
 draft: false

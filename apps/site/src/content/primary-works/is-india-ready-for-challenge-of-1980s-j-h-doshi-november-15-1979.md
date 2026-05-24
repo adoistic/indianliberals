@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - free-enterprise
+  - socialism
 summary: "J. H. Doshi delivered this Presidential address at the 23rd Annual General Meeting of the Forum of Free Enterprise in Bombay on 13 November 1979, and the Forum published it as a pamphlet a few days later. Doshi frames India at the close of the 1970s as 'a giant in chains' — chains, he insists, that the country has deliberately forged for itself through bureaucratic controls, statist planning and an entrenched political dogma he names 'Synthetic Socialism'. The address reads as a stock-taking exercise: 28 years after planned economic development was initiated, foodgrain output has barely doubled while millions remain too poor to buy grain from the very buffer stocks that are rotting in unscientific storage; unemployment registrations have shot up from 34 lakhs in 1969 to 136 lakhs in 1979; foreign debt has climbed from Rs. 32 crores in 1951 to over Rs. 7,000 crores; and inflation, running at roughly 17 per cent above the previous year, has by his count been a fixture of Indian life for a quarter-century.\n\nAgainst this gloom, Doshi sets a counter-archive of what citizens have done despite the state — the leap in gem, jewellery and diamond exports from Rs. 10 crores in 1965-66 to Rs.…"
 needs_review: true
 draft: false

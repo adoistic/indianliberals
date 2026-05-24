@@ -36,7 +36,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - inflation
+  - economic-policy
+  - monetary-policy
+  - economic-planning
 summary: "A Package Plan to Fight Inflation gathers four public lectures delivered in July 1974 under the auspices of the Forum of Free Enterprise — by Dr. R. C. Cooper (Bangalore Centre, 11 July), Dhirajlal Maganlal (Bombay, 11 July), Minoo R. Shroff (Bombay, 10 July), and Prof. Gangadhar Gadgil (Bombay, 10 July). Speaking against a backdrop of devaluation, a 54.1% rise in the Wholesale Price Index between May 1972 and May 1974, and the spectre of mass unrest already manifest in Gujarat and Bihar, the four contributors converge on a common diagnosis: India's inflation is not an imported accident but the cumulative product of deficit financing, heavy-industry-biased planning, licensing-permit raj, hoarding, and the suffocation of agriculture and consumer-goods output."
 needs_review: true
 draft: false

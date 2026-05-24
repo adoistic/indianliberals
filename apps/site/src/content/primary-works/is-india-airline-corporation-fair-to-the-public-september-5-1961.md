@@ -23,7 +23,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - nationalisation
+  - public-sector
+  - private-enterprise
 summary: "This Forum of Free Enterprise leaflet — reproduced from an August 1961 editorial in Asian & Indian Skyways — mounts a sustained critique of the Indian Airlines Corporation (IAC) as a case study in the inefficiencies that follow nationalisation. The author opens by conceding that air transport is a national necessity and a public service, but argues that IAC has betrayed both its private-sector predecessors and the travelling public through cost-padding, fare hikes, and an absolute refusal to be challenged. Returning to the August 1953 takeover under Minister for Transport and Communications Jagjivan Ram, the leaflet recalls the original promise that no employee would suffer from nationalisation, then walks through eight years of IAC annual reports to show that this guarantee curdled into a permanent expansion of payroll bearing no relationship to operational need.\n\nThe heart of the pamphlet is an audit of staffing trends against the active fleet. While the number of aircraft on the active list fell from 99 to 73 and the surviving aircraft were flown harder, IAC's headcount climbed from 7,107 at formation to 9,553 by 1959–60 — a 34.4 per cent increase.…"
 needs_review: true
 draft: false

@@ -69,7 +69,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - free-markets
+  - economic-development
+  - liberalism
 summary: "Essays by Foreign Economists is a compilation published in August 1971 by the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets the Forum had previously issued; the volume is explicitly marked 'not for sale' and circulated only to Forum members. In the rendered pages, the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black, addressing the case for free enterprise, the failings of central planning, the conditions for economic growth, foreign aid, the economic thinking of Keynes, and the place of India's private sector. The chunk contains the full text of Friedman's opening essay 'Myths That Keep People Hungry' (reprinted from Harper's Magazine, April 1967), which sets the polemical frame for the volume by contrasting countries where private markets organise economic life with those subject to detailed central planning, and the opening pages of B. A. Tarlton's 1968 Calcutta lecture 'Economic Democracy'."
 needs_review: true
 draft: false

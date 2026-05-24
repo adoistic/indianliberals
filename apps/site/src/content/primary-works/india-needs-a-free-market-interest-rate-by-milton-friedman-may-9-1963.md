@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-markets
+  - monetary-policy
+  - economic-policy
 summary: "Milton Friedman, then Professor of Economics at the University of Chicago, argues in this Forum of Free Enterprise leaflet (reproduced from Swarajya of 30 March 1963) that India's pegged, overvalued rupee is the single biggest weakness of its economy. He observes that while domestic prices have risen 30–40 per cent since 1955, prices in the US, UK and Germany have risen at most 10 per cent — yet the official exchange rate has not moved. The result is that imports look artificially cheap, exports look artificially expensive, and the government has been forced into four increasingly unsustainable strategies for filling the gap: drawing down foreign reserves, taking on foreign aid and loans, imposing direct controls on imports and exports, and tolerating a swelling black market.\n\nFriedman dwells longest on the third recourse — direct controls — because it is the lever on which Indian policy has come to lean hardest.…"
 needs_review: true
 draft: false

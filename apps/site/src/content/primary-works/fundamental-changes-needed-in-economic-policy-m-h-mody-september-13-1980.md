@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-policy
+  - economic-reform
+  - economic-growth
 summary: |-
   Delivered as the keynote address at the Diamond Jubilee Symposium of the Associated Chambers of Commerce and Industry in New Delhi on 20 July 1980, and published by the Forum of Free Enterprise in September 1980, M. H. Mody's address opens with a bleak statistical reckoning. Three decades of planned development had yielded an average GNP growth rate of under 3 per cent annually, and a per capita income growth of just 0.6 per cent during the 1970s — placing India near the bottom of the World Bank's league table, behind Bangladesh and Pakistan. Industrial output barely grew 50 per cent over the decade while Korea's expanded by over 400 per cent; the rupee lost 60 per cent of its value; and in 1979–80, national income fell by 3 per cent, agricultural output by 10 per cent, and inflation surpassed 20 per cent. Against this backdrop, India remained among the world's sixteen poorest nations by per capita income at roughly $150.
 

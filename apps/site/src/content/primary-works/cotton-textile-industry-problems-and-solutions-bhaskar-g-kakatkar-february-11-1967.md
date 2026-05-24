@@ -28,7 +28,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - industrial-policy
+  - agriculture
+  - free-enterprise
+  - economic-policy
 summary: |-
   Delivered as a lecture by Bhaskar G. Kakatkar, Secretary-General of the Indian Cotton Mills Federation, under the auspices of the Forum of Free Enterprise in Bombay on 11 February 1967, and published as a pamphlet with a foreword by R. G. Saraiya dated 16 December 1966, this address surveys the structural crises confronting the Indian cotton textile industry in the mid-1960s. The foreword establishes the context starkly: cotton production reached only 55–56 lakh bales in 1965–66 against a Third Plan target of 70 lakh bales, while India simultaneously held the world's largest acreage under cotton — 20 million acres — yet achieved the lowest yield per acre, at 110–120 lbs against a world average of over 300 lbs.
 

@@ -30,7 +30,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - democracy
+  - liberalism
+  - economic-freedom
+  - economic-planning
 summary: "B. A. Tarlton's 18-page lecture, delivered under the auspices of the Forum of Free Enterprise's Calcutta centre in 1968 and published as a booklet in February 1969, opens with a balance-sheet of disillusionment. Fifteen years after independence the politicians' promised \"sunlit plateaus of prosperity\" remain out of reach, centralised planning has failed to lift average living standards, and India has slid from being a net international creditor of over Rs. 700 crores in 1956 to a net debtor of over Rs. 5,000 crores in 1968. From this prelude Tarlton mounts a sustained case for rethinking what \"economic democracy\" should mean for India.\n\nHe distinguishes a \"classical\" concept of democracy — rule by a particular person, class, or even a majority — from a \"liberal\" concept in which political authority is vested equally in every citizen, anchored by full adult suffrage, periodic elections, an independent judiciary and a free press.…"
 needs_review: true
 draft: false

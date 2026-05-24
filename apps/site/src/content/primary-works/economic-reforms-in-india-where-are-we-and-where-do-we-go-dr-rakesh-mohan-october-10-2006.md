@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - economic-growth
+  - economic-development
+  - economic-policy
 summary: "Rakesh Mohan's 39th A. D. Shroff Memorial Lecture, delivered in Mumbai in December 2005 and published by the Forum of Free Enterprise in 2007, takes stock of fifteen years of economic reform in India and sketches an agenda for the next round. Mohan invokes Malcolm Gladwell's metaphor of the tipping point to argue that countless small, gradual reforms since 1991 have together released a 'burst of entrepreneurial energy', lifting trend growth from around 3–4 per cent for three decades to 6–6.5 per cent, slashing inflation, building comfortable foreign-exchange reserves and pulling poverty down by 23–26 percentage points since independence.…"
 needs_review: true
 draft: false

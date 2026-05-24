@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - inflation
+  - fiscal-policy
+  - economic-planning
 summary: "A. D. Shroff's pamphlet, based on a lecture on the Union Budget 1960/61 delivered in Bombay on 10 March 1960, reads the Government of India's budget against the Finance Ministry's own Economic Survey and argues that the Survey's sober warnings have been ignored. Shroff seizes on the Survey's admission that wholesale prices have risen about 20 per cent since the start of the Second Plan to build a sustained case that India is being pushed into a structural inflation by reckless public expenditure outrunning the supply of goods and services. He commends the anonymous Economic Survey writer for objectivity but accuses the Finance Minister of refusing to accept that diagnosis when framing the budget.\n\nThe substance of the critique is a planning-critique grounded in monetary and fiscal arithmetic. Shroff tracks civil expenditure rising from Rs. 35.56 crores in 1948-49 to Rs. 233.35 crores in 1960-61, foreign exchange reserves dropping by Rs. 2,900 crores since 1956 with Rs.…"
 needs_review: true
 draft: false

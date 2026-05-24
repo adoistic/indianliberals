@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-markets
+  - economic-reform
+  - globalisation
 summary: |-
   First published in The Washington Quarterly (Summer 1996 issue) and reproduced as a Forum of Free Enterprise pamphlet (published November–December 1996) with the sponsorship of the Economics Research Centre founded by the late Prof. B. R. Shenoy, Bradley D. Belt's essay makes the case that the U.S. securities regulatory framework — erected in the shadow of the Great Depression and administered by the SEC for more than 60 years — is fundamentally obsolete and, unless substantially revised, will impair the competitive position of American capital markets in a globalised, technology-driven world. Belt wrote from his position as Director of Capital Markets at the Centre for Strategic and International Studies (CSIS) in Washington, DC, having previously served as Counsel to the SEC and the Senate Banking Committee.
 

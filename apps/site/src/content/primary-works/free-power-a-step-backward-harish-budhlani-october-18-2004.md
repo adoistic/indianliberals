@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - public-sector
+  - economic-policy
 summary: "Free Power: A Step Backward! is a 2004 Forum of Free Enterprise booklet by the Thane-based energy management consultant Harish Budhlani, reprinted from an article in IEEMA Journal (September 2004). Budhlani argues that India's chronic underperformance in the power sector — per capita consumption of about 400 kwh against China's 850 kwh and the United States' 12,300 kwh, capacity-growth halved over 1995–2004, and State Electricity Board commercial losses anticipated at Rs.21,698 crore in 2004–05 — has finally produced a serious piece of reform legislation in the Electricity Act 2003, with provisions to phase out subsidies, deter theft, and put the sector on commercial principles. He warns that the new United Progressive Alliance's Common Minimum Programme proposal to review that Act, and the decisions of Andhra Pradesh, Tamil Nadu and Maharashtra to revive free power for farmers, betray a consensus that all Chief Ministers had reached with the Prime Minister to charge a minimum of 50 paise per unit.\n\nThe core of the booklet is a populism critique grounded in distributional facts.…"
 needs_review: true
 draft: false

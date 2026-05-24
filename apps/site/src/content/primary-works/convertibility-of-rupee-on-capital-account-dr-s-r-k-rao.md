@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - economic-reform
+  - globalisation
+  - fiscal-policy
 summary: "Dr. S.R.K. Rao's pamphlet, based on a 30 September 1997 talk under the auspices of the Forum of Free Enterprise, is a primer on capital account convertibility (CAC) and a stocktaking of where India stood at that moment. Rao defines convertibility on capital account as the freedom to swap local for foreign financial assets and vice versa at market-determined exchange rates without government controls, then lists its advantages: deeper integration with the global economy, cheaper access to foreign capital, portfolio diversification, alignment of domestic with international interest and tax regimes, deterrence of capital flight, and the development of a derivatives and risk-management market.\n\nThe bulk of the pamphlet works through the preconditions and sequencing recommended by the Reserve Bank of India's Committee on Capital Account Convertibility (the Tarapore Committee): fiscal consolidation, an inflation target of 3–5 per cent, financial-sector strengthening, reduction of bank non-performing assets from 13.7 per cent to 5 per cent by 2000 A.D., a cut in average effective CRR to 3 per cent, an REER monitoring band of ±5 per cent, a rise in the current-receipts-to-GDP ratio from …"
 needs_review: true
 draft: false

@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - private-enterprise
+  - socialism
 summary: "Free Enterprise in India is a short Forum of Free Enterprise pamphlet reproducing a 30 March 1956 Times of India article by A. D. Shroff. Writing in the immediate aftermath of the government's declared intention to establish a 'Socialist State' — the political setting of the Second Five Year Plan and the Industrial Policy Resolution of 1956 — Shroff argues that the future role of the private sector can be assessed only in that context. He reads two corollaries into the declaration: the state will assume increasing control of the means of production, and resources available to the private sector will be gradually diverted to the public sector.\n\nThe argumentative core is an urgent call for the private sector to mount a countrywide educative campaign. Shroff contends that 'thousands of thinking people' have been demoralised by the policy and by harsh fiscal measures such as Section 23-A of the Indian Income-tax Act, with some businessmen seriously considering emigration.…"
 needs_review: true
 draft: false

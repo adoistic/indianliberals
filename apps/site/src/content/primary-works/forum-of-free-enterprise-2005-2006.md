@@ -29,7 +29,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - liberalism
+  - civil-society
 summary: "This Forum of Free Enterprise pamphlet reproduces a long extract from Sucheta Dalal's biography 'A.D. Shroff — Titan of Finance Free Enterprise' (Viking/Penguin India, 2000), retelling the institutional origin story of the Forum against the backdrop of the high noon of Nehruvian socialism. The text opens in 1956, with the Congress's 1954 Avadi Resolution committing the country to a 'socialistic pattern of society', Marxist rhetoric becoming the lingua franca of public life, the second wave of nationalisations (transport, then life insurance) advancing, and the income-tax department running an intimidation campaign against the Tatas, Birlas and Sarabhais.…"
 needs_review: true
 draft: false

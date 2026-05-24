@@ -32,7 +32,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - nationalisation
+  - socialism
+  - free-enterprise
 summary: "Prof. Amul Desai's lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on December 19, 1961, surveys the worldwide retreat from nationalisation and argues that India should rethink its commitment to state ownership as an instrument of socialism. Desai opens by historicising Marx: when Das Capital was written, labour had no right to organise or vote, parliamentary democracy was a fiction, and the welfare state did not yet exist — so violent overthrow of the capitalist order appeared to be the only remedy. With trade unionism, social legislation, adult franchise and labour parties returned by ballot, that case has collapsed, and class conflict can no longer be assumed the inevitable corollary of capitalism.\n\nThe bulk of the booklet is a tour of the international evidence. Burma's U Nu, in an April 1960 address to parliament, formally repudiated nationalisation as a doctrine; Ceylon's Dudley Senanayake declared in March 1960 that nationalisation as an end in itself was something to which his government was 'certainly not wedded'.…"
 needs_review: true
 draft: false

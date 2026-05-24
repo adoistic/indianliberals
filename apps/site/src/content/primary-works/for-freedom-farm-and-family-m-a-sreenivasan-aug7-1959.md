@@ -39,7 +39,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agriculture
+  - free-enterprise
+  - democracy
+  - socialism
 summary: "This Forum of Free Enterprise booklet collects three speeches from a meeting organised by the Forum's Bangalore Centre on 29 May 1959 — a gathering that helped launch the political mobilisation which would crystallise as the Swatantra Party. The order is preserved: a welcome speech by M. A. Sreenivasan, chairman of the Bangalore Centre, titled \"Coop and Kotow\"; the main address \"Nagpur and After\" by M. R. Masani, M.P.; and the presidential speech \"For Freedom, Farm and Family\" by C. Rajagopalachari. The argumentative centre is a frontal attack on the Congress's Nagpur Resolution of January 1959 on joint cooperative farming, read as the latest step in a drift toward state capitalism and \"Communist dictatorship\". All three speakers call for a non-Socialist opposition — a \"Middleclass Front\" and \"Small Man's Party\" — to defend peasant proprietorship, parliamentary democracy and free enterprise against what Rajaji names a \"Totalitarian State\"."
 needs_review: true
 draft: false

@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - industrial-policy
+  - private-enterprise
+  - economic-policy
 summary: "Naval H. Tata, President of the Employers' Federation of India, delivers a Forum of Free Enterprise address (14 April 1980) diagnosing what he calls a labour scene of chaos, confusion and despair. He frames the brief in starkly practical terms: 32 million man-days lost to strikes in 1979 alone, illegal lock-outs and gheraos becoming routine, and State Governments amending labour law unilaterally outside the tripartite Labour Conference. The new Government, he argues, cannot revive growth without first restoring cordial industrial relations, and he sets out four areas demanding immediate attention — orderly collective bargaining through truly representative unions, speedy dispute settlement through independent labour courts and voluntary arbitration, prevention of violence with strict enforcement of law and order, and an equitable wage policy with indexing for cost-of-living fluctuations and a clear bonus law.\n\nThe first half of the pamphlet works through each of these heads.…"
 needs_review: true
 draft: false

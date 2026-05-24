@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - fiscal-policy
+  - public-finance
 summary: "Ranina opens with a diagnosis of the Indian economy of 1984 — uncontrollable prices, a stagnant industrial sector, dwindling foreign exchange reserves, the spreading cancer of black money and tax evasion, a flatulent public sector, labour indiscipline, and decaying infrastructure — and argues that the Finance Minister's Budget proposals do nothing to revive industry or to meet the 9 per cent growth target fixed under the Seventh Five-Year Plan. The pamphlet then walks the reader through the Finance Bill, 1984, in three parts: provisions affecting industry, provisions affecting individuals, and miscellaneous provisions.\n\nOn industry, Ranina attacks the persistence of depreciation on historical cost when replacement cost is roughly three times original cost, and proposes either a tax-payer surcharge route or depreciation on double the original cost. He criticises the abolition of weighted deductions under sections 35(2-A), 35(2-B) and 36(1)(ii-a) for scientific research and for salaries paid to blind or physically disabled employees; the discontinuance of the rehabilitation allowance under section 33-B; and the withdrawal of the agricultural-extension deduction under section 35-C.…"
 needs_review: true
 draft: false

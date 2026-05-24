@@ -33,7 +33,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - nationalisation
+  - public-sector
+  - free-enterprise
 summary: "This Forum of Free Enterprise pamphlet asks whether nationalisation still serves the public interest, and answers — emphatically — no. It opens with a brief historical framing piece signed by M. R. Pai, which traces nationalisation back to the socialist response to Industrial Revolution exploitation and argues that fifty years of European experience (the British Labour Party, Fabians, even the Chinese under Deng) has discredited public ownership as a vehicle for either efficiency or social justice. Pai catalogues the failures that drove socialists like Hugh Gaitskell, C. A. R. Crosland, R. H. S. Crossman, U Nu and Lee Kuan Yew to abandon nationalisation: loss of productivity once \"everybody's business became nobody's business\"; bureaucratic indifference to workers; monopoly contempt for consumers (LIC, IAC, the State Trading Corporation); and the illusion that parliamentary control could discipline the resulting bureaucracy.\n\nThe substantive essay is Prof.…"
 needs_review: true
 draft: false

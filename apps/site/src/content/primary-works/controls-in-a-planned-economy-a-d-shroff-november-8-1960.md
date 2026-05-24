@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-freedom
+  - free-enterprise
+  - private-enterprise
 summary: "A. D. Shroff's lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on September 1, 1960 and issued as a pamphlet, argues that the apparatus of controls erected to implement India's Second Five-Year Plan has grown so dense that it has begun to obstruct the very development it was meant to serve. Shroff invokes Hayek's warning that economic control is the control of the means for all our ends, and surveys, sector by sector, the maze of statutes — the Companies Act, the Industries (Development and Regulation) Act, foreign-exchange control, the Controller of Capital Issues, textile control, sugar control, banking control — that an industrialist must navigate before a project can begin.\n\nThe second half of the lecture moves from incident to indictment. Controls, Shroff contends, distort competition, breed vested interests inside the bureaucracy, and reliably generate black markets — a point he reinforces by quoting Winston Churchill.…"
 needs_review: true
 draft: false

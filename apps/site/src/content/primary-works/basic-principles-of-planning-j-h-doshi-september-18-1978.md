@@ -24,7 +24,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-policy
+  - governance
+  - free-enterprise
 summary: "J. H. Doshi, then President of the Forum of Free Enterprise, delivered this address to the Forum's 22nd Annual General Meeting in Bombay on 18 September 1978 — roughly eighteen months after the 1977 ballot-box defeat of the Emergency-era Congress government. He opens by acknowledging that the new government has rightly shifted economic priorities (towards agriculture and rural development, towards employment-intensive technology, towards small and cottage industries, and towards decontrol of food zones and sugar), but argues that growth has nevertheless stalled because the Government has failed to grasp \"the basic principles of planning, viz., strict priorities and its own limitations as an instrument.\" The state, he insists, possesses coercive power but is not omniscient; when it spreads itself thin over too many objectives, it wastes resources mobilised from \"some of the poorest people in the world.\"\n\nDoshi's positive prescription is a sharply truncated state focused on a small set of irreducible public goods: defence, law and order, an efficient judicial system, and physical infrastructure — irrigation, flood control, rural roads, drinking water, primary education, and rural m…"
 needs_review: true
 draft: false

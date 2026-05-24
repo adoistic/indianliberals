@@ -30,7 +30,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - nationalisation
+  - monetary-policy
+  - public-sector
 summary: "Delivered on 30th March 1971 as the second A. D. Shroff Memorial Lecture, B. N. Adarkar — a former Governor of the Reserve Bank of India and at the time Custodian of Central Bank of India Ltd. — uses the occasion to take stock of India's commercial banking system roughly eighteen months after the July 1969 nationalisation of fourteen major banks. Adarkar begins by paying homage to Shroff as a 'crusader for free enterprise' whose convictions in the potentialities of a free market economy he respected even where he did not share them, and then sets out his own brief: review the available data on the working of the nationalised banks and evaluate them against 'some general principles' of sound banking, while disclaiming that his views represent the Government, the RBI or Central Bank of India.\n\nThe lecture's central proposition is that nationalisation has structurally strengthened the banking system — bringing the major nationalised banks into closer harmony with the State Bank group, raising the security of deposits, and creating a better environment for monetary and banking policy — but that the success of the experiment depends on preserving certain disciplines that pre‑date publ…"
 needs_review: true
 draft: false

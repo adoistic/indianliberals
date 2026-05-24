@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - inflation
+  - economic-reform
+  - economic-policy
 summary: "B. R. Shenoy's 1968 Forum of Free Enterprise pamphlet — drawn from a series of articles in *Swarajya* (Madras) — diagnoses India's compounding economic crises as the outcome not of bad monsoons, the Chinese border war or the 1965 Indo-Pakistan conflict, but of fifteen years of avoidable policy mismanagement. The argument unfolds across four chapters (I. Anti-Social Income Shifts; II. Importance of Zero Inflation; III. PL 480 Inflation; IV. A Programme of Reform). Inflation, Shenoy insists, is the tap-root of nearly every ailment — the chronic price acceleration, the foreign-exchange scarcity, the recourse to import licensing and other 'defences', and the perverse income transfers that have fed luxury living among a privileged upper crust while pushing the salaried middle classes toward indigence.\n\nThe pamphlet's central technical claim is that the inflationary finance of recent years has come almost entirely from PL 480 rupee disbursements held with the U.S. Embassy. Shenoy walks through the 1967-68 Budget arithmetic to argue that PL 480 receipts (Rs. 435 crores) exceeded the sale proceeds of PL 480 foodgrains (Rs. 285 crores) by Rs.…"
 needs_review: true
 draft: false

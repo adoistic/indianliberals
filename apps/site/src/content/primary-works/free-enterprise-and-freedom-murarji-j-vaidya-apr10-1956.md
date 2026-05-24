@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - economic-planning
+  - socialism
 summary: "Free Enterprise and Freedom is a short polemical pamphlet (No. 2 in the Forum of Free Enterprise series) reproducing an article by Murarji J. Vaidya from The Times of India of 30 March 1956. Its subject is the draft outline of the Second Five-Year Plan and, more pointedly, the Planning Commission's commitment to the \"Socialist Pattern of Society\" adopted at the Avadi session of the Congress. Vaidya quotes the Commission's own framing at length to show how programmatically the planners have absorbed the Avadi resolution into the basic criterion for what counts as economically advanced.\n\nThe argumentative core is that simultaneously evolving democracy and a socialist pattern in an \"underdeveloped economy working under an infant democracy\" is historically unproven and dangerous.…"
 needs_review: false
 draft: false

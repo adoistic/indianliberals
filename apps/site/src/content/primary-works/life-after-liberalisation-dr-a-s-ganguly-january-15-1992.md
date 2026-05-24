@@ -31,7 +31,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - globalisation
+  - free-enterprise
 summary: "The 26th A.D. Shroff Memorial Lecture, delivered by Dr. Ashok S. Ganguly — then Director of Unilever in London and formerly Chairman of Hindustan Lever — on 24 December 1991 in Bombay and published as a Forum of Free Enterprise pamphlet on 15 January 1992. Ganguly speaks in the immediate aftermath of two epochal ruptures, the collapse of Soviet socialism and the Narasimha Rao government's launch of economic reforms, and uses the platform to think aloud about what daily life, work and political expectation will look like in an India that has formally turned away from the developmental settlement of 1947.\n\nThe address opens with the observation that the \"half-life of innovations\" is collapsing — from a decade in the 1960s to perhaps two years by century's end — and reads the global moment through that lens. Gorbachev's perestroika unleashed forces that the reformers themselves could not control; the collapse of the Comecon bloc has left newly liberated states without trusted institutions; suppressed ethnic and religious conflicts have reopened wounds fifty years closed.…"
 needs_review: true
 draft: false

@@ -29,7 +29,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - private-enterprise
+  - civil-society
 summary: "Ethics in Business and Management collects the text of the 9th Bhogilal Leherchand Memorial Lecture, delivered by D. Veerendra Heggade — the Dharmadhikari (hereditary religious head) of Sri Kshetra Dharmasthala in Karnataka — in Mumbai on 7 January 1998 and presided over by Nani A. Palkhivala. Published as a booklet by the Forum of Free Enterprise, the address asks whether the term 'Ethics' retains any meaning in a modern world enthralled by money, technology and unlimited consumption, and answers by drawing the management vocabulary back to dharmic categories: Artha, Kama, Moksha, and above all Dharma as a restraining force on the acquisition of wealth.\n\nHeggade builds his argument in successive sections — 'Nature—the Best Manager', 'Problems of Parigraha', 'Present Condition', 'A Way Out', 'Dharmasthala Model' and a closing 'Message'. He contrasts the natural restraint embedded in Vedic and Upanishadic ethics (Apariraha, Samyama, Vasudhaiva Kutumbakam) with the 'TINA syndrome' and 'MAD' — Mutually Aided Destruction — that he sees in the science-and-technology-driven business order, in the hands of MNCs and TNCs.…"
 needs_review: true
 draft: false

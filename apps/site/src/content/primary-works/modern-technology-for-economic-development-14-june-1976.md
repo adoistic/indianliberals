@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-development
+  - industrial-policy
+  - economic-growth
 summary: Prof. S. Sampath, then Deputy Director of the Indian Institute of Technology, Madras, uses the A. D. Shroff Memorial Lecture (delivered 28 October 1975, published by the Forum of Free Enterprise in 1976) to argue that modern science and technology are the decisive levers of economic development and that India must learn to harness them on its own terms. The opening section catalogues the explosive pace of twentieth-century invention — from the Wright brothers and the telephone to Sputnik, the integrated circuit, the electronic computer and the communications satellite — and frames technology not as a smoke-belching factory but as a sequence of self-reinforcing stages of idea, realisation and diffusion that reshape the way humans think about and act on their environment.…
 needs_review: true
 draft: false

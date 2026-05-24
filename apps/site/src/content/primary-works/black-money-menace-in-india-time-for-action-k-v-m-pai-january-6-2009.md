@@ -28,7 +28,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - fiscal-policy
+  - governance
 summary: "Black Money Menace in India: Time for Action reproduces a 19 November 2008 Mangalore address by K. V. M. Pai, a former Chief Commissioner of Income Tax, delivered under the joint auspices of the Indian Liberal Group, the Mangalore branch of the Forum of Free Enterprise, and the Economics Research Centre. The booklet opens with a Forum preface that situates Pai's argument inside a long Forum tradition of writing on tax evasion — citing earlier booklets by B. R. Shenoy, B. P. Adarkar, Vadilal Dagli, D. R. Pendse and H. P. Ranina, and a 1999 contribution by N. Vittal — and an editorial note that flags Pai's most dramatic claim: that India tops the Swiss Bank Report's table of foreign deposits.\n\nPai's address moves from diagnosis to remedy. He marshals the Swiss Bank Report 2006 to argue that India holds $1,456 billion — more than Russia, the UK, Ukraine and China combined — and contends that repatriation alone could clear India's foreign debt many times over.…"
 needs_review: true
 draft: false

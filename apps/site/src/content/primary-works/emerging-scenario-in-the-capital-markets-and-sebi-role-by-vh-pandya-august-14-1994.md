@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - governance
+  - economic-reform
 summary: "Delivered as a session at the Forum of Free Enterprise on 28 June 1994 and published shortly thereafter, V.H. Pandya's address surveys the Indian capital market in the third year of the 1991 economic reforms, written from the perspective of an insider — Pandya retired only days later as Senior Executive Director of the Securities and Exchange Board of India (SEBI). He situates the capital market within a transformed macroeconomy: an annual growth rate of about 5.5 percent through the 1980s, a domestic savings pool of roughly Rs. 1,750 billion, primary issuance leaping from around Rs. 90 crores a year in the late 1970s to Rs. 22,000 crores in 1993-94, market capitalisation rising from Rs. 6,750 crores in 1980 to over Rs. 340,000 crores in 1993-94, and the investor population swelling from about 2 million to around 40 million.\n\nThe core of the pamphlet is a stocktaking of SEBI's regulatory architecture as it was being built.…"
 needs_review: false
 draft: false

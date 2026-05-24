@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - free-markets
+  - private-enterprise
 summary: "Delivered as the 1995 Annual Public Lecture under the A. D. Shroff Memorial Trust, R. N. Malhotra — former Governor of the Reserve Bank of India and Chairman of the Government of India Committee on Reforms in the Insurance Sector — argues that India's state-monopoly insurance industry must be opened to competition. He situates the case within the broader liberalisation programme begun in 1991: trade liberalisation, de-licensing, capital-market deepening, foreign-investment inflows, and reform of the banking and financial sectors have, in his telling, produced strong balance-of-payments, growth, and consumer-welfare gains without the dire consequences predicted by critics.…"
 needs_review: true
 draft: false

@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - socialism
+  - economic-planning
+  - private-enterprise
 summary: "Reprinted from The Times of India of 28 December 1956, S. H. Batlivala's short polemic — issued as a Forum of Free Enterprise pamphlet — argues that India's drift toward a \"Socialistic pattern of economy\" misreads the country's actual development needs. Batlivala opens by conceding that private capital alone cannot finance the Government's plans, but he insists that this is a case for collaboration between the private and public sectors, not for taxation that would imperil the Second Five-Year Plan. He marshals testimony from Sardar Vallabhbhai Patel and former Finance Minister C. D. Deshmukh to argue that the Indian civil service lacks the depth to run nationalised industries, and asks whether the Second Plan can succeed when administered by a thinned-out bureaucracy.\n\nThe heart of the piece is a sustained attack on British and Indian planning by analogy. Batlivala quotes Alfred Edwards, a defector from the U.K. Labour Party, on how nationalising the Bank of England, the coal mines, transport, power and steel left British industry with weaker output than before: coal production was 155,000 tons per week below 1938 levels despite mechanisation.…"
 needs_review: false
 draft: false

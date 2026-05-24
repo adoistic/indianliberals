@@ -31,7 +31,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-policy
+  - economic-development
 summary: "Prof. B. R. Shenoy's 1962 Forum of Free Enterprise pamphlet bundles three of his newspaper essays — two from the Indian Express (28 October 1961) and one from the Times of India (23 October 1961) — into a sustained attack on the development model defended by Prime Minister Nehru at the Third Plan debate in the Lok Sabha. Shenoy concedes the headline statistics (national income up 42 per cent in a decade, life expectancy from 24 to 47.5 years, industrial output up 94 per cent) but argues they are a \"misleading bunch of statistics\": the composition of the national product, not its aggregate volume, is the real test of welfare, and on that test India has failed. The output of cotton cloth in common use rose only 1.4 times in a decade while electric lamps rose 2.9 times, radios 5.9 times and sewing machines 9.6 times; per capita foodgrain availability has steadily declined.…"
 needs_review: true
 draft: false

@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - private-enterprise
+  - socialism
 summary: "A. D. Shroff replies to a recent batch of speeches by Prime Minister Jawaharlal Nehru that attacked the private sector, in particular a Calcutta address in which Nehru reportedly said critics in the Private Sector 'can be swept away with a broomstick.' Shroff treats this as evidence of irritation rather than argument: Nehru, he writes, has the political power to wield such a broom but cannot have any permanent effect, and the very sensitiveness on display is 'a weakness of small men born of the consciousness of having made mistakes and not having the moral courage to acknowledge them.' He pointedly contrasts the 'champion Democrat' with General Ayub Khan, whom Nehru has himself described as representing a 'naked military dictatorship', to suggest the Prime Minister's intolerance of dissent sits uneasily with his democratic claims.\n\nThe second half turns to substance.…"
 needs_review: true
 draft: false

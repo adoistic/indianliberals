@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-development
+  - globalisation
+  - economic-reform
 summary: "Delivered as the A. D. Shroff Memorial Lecture in Bombay on 25th October 1982 and published by the Forum of Free Enterprise, T. Thomas — the first Indian Director of Unilever and a former chairman of Hindustan Lever — sets out a businessman's strategy for financing Indian development in a decelerating world economy. He opens by surveying the global landscape: unemployment near 10% in the OECD, world GDP growth falling from over 4% in the 1970s to barely 1% in 1981, and sovereign debts of Poland, Argentina and Mexico ballooning into crisis. Unlike the 1930s, he argues, professionally managed institutions like the IMF and the World Bank, together with determined Western restructuring, should permit a modest recovery to 2–3% growth by 1984, and India's strategy must be built on this hopeful but unoptimistic outlook.\n\nTurning inward, Thomas identifies three phases in independent India's economic evolution — Initiation, Introversion and Isolation — and calls for a fourth phase of Innovation: opening more sectors to private industry, dismantling the obsession with self-reliance, importing modern technology, and rolling back the public sector.…"
 needs_review: true
 draft: false

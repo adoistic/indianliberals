@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-policy
+  - governance
 summary: "M. A. Sreenivasan's pamphlet, reproduced by the Forum of Free Enterprise from his October 1962 articles in the Economic Times, takes its title from the recognition that Indian planning has yielded as many \"millstones\" as milestones. Sreenivasan opens on a cautiously hopeful note: the Prime Minister has finally summoned the State Chief Ministers to a conference \"to engage themselves in a dispassionate, continuous and systematic study of all that hampers the achievement of best results\"—an admission, he argues, that the country's planners and policy-makers can no longer pretend the Plans are working as advertised. Citing Mahatma Gandhi's readiness to admit \"a blunder, even if Himalayan,\" he insists that retracing steps is no failure but a precondition for honest course-correction.\n\nThe heart of the pamphlet is an inventory of concrete planning pathologies.…"
 needs_review: true
 draft: false

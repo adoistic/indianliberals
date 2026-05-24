@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-markets
+  - economic-planning
+  - economic-development
+  - free-enterprise
 summary: "B. R. Shenoy's July 1962 Forum of Free Enterprise leaflet is a direct riposte to J. K. Galbraith, whose pronouncements during his tours of India had cast doubt on those who criticised central planning. Reporting from a Press conference in Ahmedabad, Shenoy notes Galbraith's claim that 'the present tempo of our planning might lead to an authoritarian regime' yet his simultaneous insistence that 'whenever somebody wants to denounce something, he says it is likely to lead to authoritarianism.' Shenoy turns the warning back on its author: it is the architecture of centralised resource allocation, not the rhetoric of its critics, that incubates the authoritarian habit.\n\nThe substantive argument is a critique of the Third Plan's investment pattern. With 65 per cent of investment resources sunk into the Public Sector and 57 per cent of that into 'heavy industries, mammoth river valley projects and costly social overheads,' the productive base for consumer goods, agriculture, textiles and trade is starved of capital.…"
 needs_review: true
 draft: false

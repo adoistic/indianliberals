@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - nationalisation
+  - public-sector
+  - banking
 summary: "An Open Letter to L.I.C., signed by the pseudonymous \"Peregrine\" and reproduced from the Amrit Bazar Patrika of September 1, 1962, is a sceptical reading of the Life Insurance Corporation's first major progress report by a writer who is also a policy-holder. While most papers, the letter notes, have \"sung hallelujah\" to the LIC's claimed jump in new business from Rs. 497.54 crores in 1960 to Rs. 608.82 crores in 1961, Peregrine argues that the corresponding rise in \"business in force\" — Rs. 452 crores, or 19.8 per cent — is too small to be consistent with that growth once first-year lapsation is honestly counted. The gap of Rs. 156.82 crores, he writes, either reflects accounting jugglery or simply measures policies that lapsed within the first year; his own estimate of true first-year lapsation is about Rs. 182.4 crores, or roughly 30 per cent of new business nationally and as high as 59 per cent in pockets such as Jalpaiguri.\n\nThe second half of the letter shifts from arithmetic to incentives. Peregrine traces the LIC's promotional culture back to Morarji Desai's 1959 Lok Sabha exhortation to reach Rs.…"
 needs_review: true
 draft: false

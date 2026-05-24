@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - inflation
+  - monetary-policy
+  - economic-policy
 summary: "Prof. L. G. Bapat's prize-winning Forum of Free Enterprise essay is a textbook-style diagnosis of post-Independence Indian inflation, written for a general audience but anchored in the monetary economics of Fisher, Lerner, Hayek and Schultze. Bapat begins by defining inflation as an unanticipated, unprovided rise in prices above their normal level — and insists that in a controls-and-rationing regime it surfaces not as visible price increases but as queues, black markets and hoarding, i.e., 'suppressed' inflation. The villain, he argues, is the persistent attempt of under-developed economies to consume and invest more than they actually produce, a temptation aggravated by ambitious Keynesian-flavoured development plans copied from the West.\n\nThe core of the booklet is empirical. Drawing on RBI 'Currency and Finance' reports, NCAER's 'Management of Public Debt in India' and the work of K. N. C. Pillai of the Central Statistical Organisation, Bapat tabulates money supply, real national income and wholesale prices from 1951-52 through 1970-71.…"
 needs_review: true
 draft: false

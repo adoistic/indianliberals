@@ -30,7 +30,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - industrial-policy
+  - economic-planning
+  - private-enterprise
 summary: "Sir Biren Mookerjee's March 1963 address — delivered as Chairman of the Indian Iron & Steel Company (IISCO) and circulated as a Forum of Free Enterprise booklet — uses the steel industry as a case study in how India's regime of administered prices and bureaucratic controls is hampering, rather than aiding, industrial development. A. D. Shroff's introduction sets the polemical frame: even committed planners are alarmed at how, under the Second and Third Five-Year Plans, the state has sought to take over as many economic activities as possible, with regulation 'bordering on regimentation' and controls hindering the very growth they were meant to stimulate. Two prefatory notes prepared with the help of S. V.…"
 needs_review: true
 draft: false

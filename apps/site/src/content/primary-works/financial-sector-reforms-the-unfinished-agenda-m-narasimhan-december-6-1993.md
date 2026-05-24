@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - economic-reform
+  - monetary-policy
 summary: "Delivered as the A. D. Shroff Memorial Lecture on Banking in September 1993 and published by the A. D. Shroff Memorial Trust, M. Narasimham — former Reserve Bank Governor and chairman of the Government's Committee on the Financial System — takes stock of India's still-incomplete liberalisation, two years after the 1991 crisis. He frames the lecture as a tribute to Shroff's prescient insistence that a centralised command economy and a pluralist democratic polity do not cohere, and argues that the new economic policy follows from four decades of disappointing results under directed planning rather than from any imported orthodoxy.…"
 needs_review: true
 draft: false

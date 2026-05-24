@@ -22,7 +22,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - democracy
+  - liberalism
 summary: "This short institutional pamphlet is the founding manifesto of the Forum of Free Enterprise, the Bombay-based classical-liberal organisation set up in 1956 at 235 Dr. Dadabhai Naoroji Road. Built as a sequence of declarative 'WE BELIEVE' paragraphs, the text frames democracy and free enterprise as inseparable strands of 'the Indian way of life' and argues that the case for free enterprise is 'going by default' under sustained and unjustified attack — hence the Forum's reason for existing as a vehicle to 'educate public opinion on the fundamentals of Free Enterprise.'\n\nThe manifesto's positive argument is that enterprise is not a recent or alien construct but 'as old as man,' encompassing 'the shopkeeper and the merchant, the farmer and the artisan, the worker and the manager, the doctor and the lawyer.' Profit-seeking, the text insists, is a legitimate expectation of reward for 'honest, productive effort' that must be distinguished sharply from antisocial profiteering.…"
 needs_review: true
 draft: false

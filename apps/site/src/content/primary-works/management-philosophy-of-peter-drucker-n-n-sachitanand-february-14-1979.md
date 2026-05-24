@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - private-enterprise
+  - civil-society
+  - liberalism
 summary: "N. N. Sachitanand's profile, reprinted by the Forum of Free Enterprise from The Hindu of 29 November 1978, presents Peter F. Drucker as the 'living prophet' of management on the occasion of his first visit to India to keynote the Bangalore Management Association's silver jubilee. Sachitanand sketches Drucker's biography — Vienna 1909, apprenticeship in Hamburg, doctorate at Frankfurt, flight from Nazi Germany, the 1942 General Motors study that produced 'Concept of the Corporation' — and explains his self-description as a management philosopher who treats consulting as his laboratory and society as a 'Society of Organisations' in which the manager bears the load that masters once carried.\n\nThe booklet then walks the reader through Drucker's signature positions as he stated them to the Bangalore press: think through purpose and objectives, concentrate resources, and lead from people's strengths rather than their weaknesses.…"
 needs_review: true
 draft: false

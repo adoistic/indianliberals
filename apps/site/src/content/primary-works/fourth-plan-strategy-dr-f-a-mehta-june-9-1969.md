@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-planning
+  - economic-policy
+  - economic-growth
 summary: "Dr. F. A. Mehta, Economic Adviser to a business house, delivered this address under the auspices of the Forum of Free Enterprise in Bombay on 23 April 1969; the Forum published it as a booklet on 9 June 1969. Mehta is responding to the Draft Outline of the Fourth Five-Year Plan (1969-74), just approved by the National Development Council, which he reads as marking — at least formally — the resumption of 'planning' after the so-called three-year Plan Holiday. His central contention is that the entire framework of planning in India has changed: with subjects of plan implementation legally vested in the States, the Planning Commission's role as a co-ordinating agency has been hollowed out, and the NDC itself has degenerated into what he calls a 'Tower of Babel' of conflicting state ministers, threatening to turn elaborate targets and capital-output ratios into mere 'paper-value'.\n\nThe Plan's right priorities — agriculture, power and family planning, with a Rs. 4-4.5 per cent agricultural growth target and the resumption of a Rs. 24,400-crore outlay — are, Mehta argues, necessary but emphatically not sufficient.…"
 needs_review: true
 draft: false

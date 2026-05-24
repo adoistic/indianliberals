@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-development
+  - economic-policy
+  - private-enterprise
 summary: "Writing in 1975-76 as Chairman of ICICI, H. T. Parekh opens with a blunt indictment: after twenty-five years and five Five-Year Plans, India has made no significant dent in its housing shortage — roughly four million units in the cities and twelve million more in the villages. Indian planning, he argues, has consistently treated housing as a low-priority sector, allocating only Rs 4,200 crores (under 8 per cent) of the Fifth Plan and just Rs 600 crores from the public sector. Most of whatever has been built has come from private initiative, supplemented by State Housing Boards, LIC and the newly-established HUDCO.\n\nParekh's central rebuttal to the \"low priority\" argument is economic: housing construction is labour-intensive, with a capital-employment ratio of about Rs 5,000 per worker — five to ten times better than industry or transport — and an investment multiplier in which one Rupee of construction outlay yields Rs 10 of income, largely in wages.…"
 needs_review: true
 draft: false

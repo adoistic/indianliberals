@@ -30,7 +30,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-reform
+  - mixed-economy
+  - free-enterprise
 summary: "Dr. Fredie A. Mehta's 'Is There a Middle Way?' is the 29th A.D. Shroff Memorial Lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 30 November 1994 and published as a pamphlet on 15 January 1995. Mehta poses the central economic question of India's early reform decade: is there a path between Capitalism and Socialism, between the Price Mechanism and Planning, between Efficiency and Equity? His answer is an emphatic yes, framed by Prime Minister Narasimha Rao's 'Middle Path' speech at Davos and defended against both pro-reform impatience and left-wing rejection. He argues that 'a Federal country with innumerable vested interests' and 'a background of 40 years of bureaucratic socialism' cannot perform an overnight miracle; gradualism is required 'both on pragmatic and humane grounds' because in a democracy people 'can be brain-washed; they cannot be brow-beaten'.\n\nMehta then mounts a sustained defence of the proposition that Free Enterprise and a Welfare State are mutually complementary rather than antagonistic.…"
 needs_review: false
 draft: false

@@ -26,7 +26,9 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-markets
+  - economic-reform
 summary: "Forward Trading in Shares is a technical brief by M. R. Mayya, former Executive Director of the Bombay Stock Exchange, written in April 1996 and published as a Forum of Free Enterprise pamphlet. Mayya traces the century-long history of forward or badla trading on Indian exchanges — its prohibition by Government of India on 27 June 1969 as 'contracts for the clearing', its return in 1983 under the new label of 'specified shares', and its second prohibition by SEBI on 13 December 1993. He explains in detail the institutional mechanics: hand delivery contracts, settlement cycles, the role of vyaj badlawalas (financiers who lend money via contango / 'seedha badla') and teji or mal badlawalas (financiers who lend shares via backwardation / 'ulta badla'), and the way carry forward charges emerge from market forces during the badla session.\n\nThe pamphlet's argumentative center is a defence of carry forward trading as economically useful and a sharp critique of SEBI's regulatory posture.…"
 needs_review: true
 draft: false

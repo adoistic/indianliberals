@@ -27,7 +27,9 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - governance
+  - rule-of-law
 summary: "V. P. Menon's pamphlet, based on his 5 August 1958 Forum of Free Enterprise lecture in Bombay, surveys two centuries of Indian administration to argue that the post-Independence machinery has slid into disorganisation. He sketches the East India Company's chaotic early rule, the slow rationalisation through Pitt's Act of 1784, Warren Hastings's system-building, the Crown takeover in 1857, and the steady professionalisation of the Indian Civil Service that, by 1914, made Indian government 'a machine that stood up, in fact, through two World Wars.' That inherited efficiency, he says, has been squandered.\n\nThe core indictment is administrative bloat and political interference.…"
 needs_review: true
 draft: false

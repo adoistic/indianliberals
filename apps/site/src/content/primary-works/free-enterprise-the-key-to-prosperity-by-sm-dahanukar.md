@@ -25,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-enterprise
+  - private-enterprise
+  - economic-development
 summary: "In this Forum of Free Enterprise leaflet, S. M. Dahanukar argues that India's post-Independence industrial and commercial progress — achieved against an initially hostile Governmental attitude — has come overwhelmingly from the spirit of enterprise of the private sector, and that the country's future development requires the Government to give private initiative still more room to operate. He concedes that the official outlook has begun to change since the First Plan and that the Second Plan set targets for the private sector worth Rs. 233 crores, but warns that adequate imports, finance, raw materials, and freedom to expand still need to be assured if private enterprise is to flourish.\n\nThe heart of the pamphlet is an extended West German parable. Dahanukar describes Berlin in 1947, with sixty per cent of the city in rubble, and credits Ludwig Erhard's bold decision to remove controls — taken in the face of predicted chaos — with unleashing the individual initiative that produced the so-called German economic miracle.…"
 needs_review: false
 draft: false

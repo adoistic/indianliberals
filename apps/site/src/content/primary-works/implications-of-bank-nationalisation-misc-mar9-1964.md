@@ -32,7 +32,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - banking
+  - nationalisation
+  - economic-policy
 summary: "Issued by the Bombay-based Forum of Free Enterprise in March 1964, this 28-page booklet bundles three Economic Times articles, two appendices of cautionary quotations and reader letters, and a short editorial introduction to argue against the then-current demand for nationalisation of India's commercial banks. The introduction frames the booklet as an antidote to slogan-driven thinking, insisting that radical changes in the banking economy would 'hurt the much-desired economic growth' and push the country 'towards totalitarianism' unless the public studies the question 'in a rational manner'. The main essay, signed 'Observer', surveys the three standard cases for nationalisation — service-over-profit, mobilisation of deposits for planning, and breaking the monopolistic concentration of credit — and rebuts each in turn, leaning heavily on the underwhelming record of the State Bank of India and the Life Insurance Corporation after their nationalisation in 1955 and 1956.…"
 needs_review: true
 draft: false

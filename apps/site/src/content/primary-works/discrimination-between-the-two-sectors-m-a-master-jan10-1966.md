@@ -27,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector
+  - private-enterprise
+  - economic-planning
+  - mixed-economy
 summary: "M. A. Master's pamphlet, issued by the Forum of Free Enterprise on 10 January 1966, is a sustained polemic against the official position that public and private sectors should be folded into a single 'National Sector' for the purposes of planning discourse. Master argues that the realities of finance, taxation, foreign exchange, pricing policy and corporate law all show that the two sectors have been treated on radically unequal terms — with the Public Sector enjoying privileges denied to the Private Sector. He marshals figures from the first three Plans to show that of Rs. 14,060 crores of total outlay on the Public Sector, roughly 46 per cent came from sources (additional taxation and deficit financing) that carry no obligation to declare dividends or repay capital, while the Private Sector must service every rupee it raises through equity or borrowing.\n\nThe core of the argument is a sector-by-sector inventory of discrimination. Foreign aid and World Bank credits, grants of Rs.…"
 needs_review: false
 draft: false

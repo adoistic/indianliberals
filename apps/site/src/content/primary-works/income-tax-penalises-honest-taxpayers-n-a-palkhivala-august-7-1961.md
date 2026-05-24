@@ -27,7 +27,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - taxation
+  - rule-of-law
+  - fiscal-policy
 summary: "Based on a lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on 25 July 1961, this booklet is N. A. Palkhivala's clause-by-clause critique of the Income-tax Bill that was then before Parliament. Palkhivala argues that the re-enactment of the 1922 Income-tax Act, far from being used as a golden opportunity to bring \"a modicum of justice and fairplay\" into Indian tax law, will inject fresh inequities while leaving almost all of the existing ones unredressed. He frames the country as falling into two divisions: those who conceive and administer the laws, and those who timidly suffer them — and the Bill, in his reading, treats the honest taxpayer as the principal target.\n\nThe bulk of the booklet is a granular walk through more than a dozen specific clauses. Clause 2(47) imports capital-gains tax onto shareholders of amalgamated companies, hitting the middle classes who hold the bulk of corporate share capital. Clause 9 perpetuates a vague doctrine of \"business connection\" that deters foreign capital just when India is wooing it.…"
 needs_review: true
 draft: false
