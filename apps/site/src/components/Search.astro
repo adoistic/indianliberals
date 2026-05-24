@@ -123,13 +123,20 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
     let activeType = "";
 
     // Lazy-load Pagefind only when the user opens the dialog. The index is
-    // emitted to /pagefind/pagefind.js at build time.
+    // emitted to /pagefind/pagefind.js by `pagefind --site dist` during build.
+    //
+    // We MUST hide the URL from Vite's static-analysis layer. Both `import()`
+    // with `/* @vite-ignore */` AND the `public/`-fallback symlink trick fail
+    // because Astro's dev pipeline rejects any module-import of files inside
+    // `public/` ("Cannot import non-asset file …"). The `new Function()`
+    // wrapper turns the import into a runtime evaluation that Vite never sees.
     async function ensurePagefind(): Promise<Pagefind | null> {
       if (pagefind) return pagefind;
       try {
-        // Vite needs the string literal as a hint; in dev (no index built)
-        // this import will fail with a friendly message.
-        pagefind = (await import(/* @vite-ignore */ "/pagefind/pagefind.js")) as Pagefind;
+        const dynamicImport = new Function("url", "return import(url)") as (
+          url: string,
+        ) => Promise<unknown>;
+        pagefind = (await dynamicImport("/pagefind/pagefind.js")) as Pagefind;
         return pagefind;
       } catch (e) {
         console.warn("Pagefind index not found. Run `pnpm build` to generate it.", e);

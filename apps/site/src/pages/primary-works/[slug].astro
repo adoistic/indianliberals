@@ -83,6 +83,17 @@ const contributorSlugs = (fm.contributors ?? [])
 const mentionSlugs = (fm.thinker_mentions ?? [])
   .map((mn: any) => (typeof mn.thinker === "string" ? mn.thinker : mn.thinker?.id))
   .filter(Boolean);
+
+// `related_thinkers` is the Phase-A flat list of thinkers extracted from the
+// source PDF. Many works have it populated even when `thinker_mentions` (the
+// richer Phase-B structure) is empty. Without surfacing related_thinkers here,
+// the thinker page's "Mentioned in" backlink points to a work that gives no
+// visible trace of the thinker. PeopleInPiece de-dupes against authorSlugs +
+// the earlier slug arrays, so we just append; only genuinely-additional
+// related thinkers get a chip.
+const relatedThinkerSlugs = (fm.related_thinkers ?? [])
+  .map((r: any) => (typeof r === "string" ? r : r?.id))
+  .filter(Boolean);
 ---
 
 <BaseLayout
@@ -216,7 +227,7 @@ const mentionSlugs = (fm.thinker_mentions ?? [])
 
     <PeopleInPiece
       authorSlugs={authorSlugs}
-      mentionSlugs={[...contributorSlugs, ...mentionSlugs]}
+      mentionSlugs={[...contributorSlugs, ...mentionSlugs, ...relatedThinkerSlugs]}
       title="People in this work"
     />
 
