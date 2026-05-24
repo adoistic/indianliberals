@@ -12,7 +12,7 @@ themes: []
 affiliations: []
 bio_source: ai_drafted_stub
 needs_review: true
-draft: true
+draft: false
 ai:
   drafted_by: "interactive-claude-session"
   drafted_at: "2026-05-18"

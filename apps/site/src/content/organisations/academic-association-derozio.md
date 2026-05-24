@@ -7,7 +7,7 @@ type: academic
 ideology:
   - reformist
 needs_review: true
-draft: true
+draft: false
 founded_year: 1828
 dissolved_year: 1831
 ---

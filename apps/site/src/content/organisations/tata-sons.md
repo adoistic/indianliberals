@@ -6,7 +6,7 @@ name:
 type: publisher_org
 ideology: []
 needs_review: true
-draft: true
+draft: false
 founded_year: 1917
 ---
 

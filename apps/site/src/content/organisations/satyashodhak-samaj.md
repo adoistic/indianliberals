@@ -8,7 +8,7 @@ ideology:
   - reformist
   - agrarian_reform
 needs_review: true
-draft: true
+draft: false
 founded_year: 1873
 dissolved_year: 1930
 ---

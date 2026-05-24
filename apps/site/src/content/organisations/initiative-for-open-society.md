@@ -7,6 +7,6 @@ type: publisher_org
 ideology:
   - classical_liberal
 needs_review: true
-draft: true
+draft: false
 ---
 

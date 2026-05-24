@@ -6,7 +6,7 @@ name:
 type: international_network
 ideology: []
 needs_review: true
-draft: true
+draft: false
 founded_year: 1987
 ---
 
