@@ -54,6 +54,10 @@ proposal*.pdf
 
 # Pagefind output (regenerated on build)
 /apps/site/pagefind/
+# Dev-only symlink: `ln -s ../dist/pagefind apps/site/public/pagefind`
+# lets Astro dev mode serve the pagefind index that pagefind only builds
+# during `pnpm build`. Don't commit the symlink.
+/apps/site/public/pagefind
 
 # Cloudflare local state
 .mf/
