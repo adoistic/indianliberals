@@ -36,9 +36,12 @@ contributors:
     thinker_unresolved: VERUS
   - role: author
     thinker_unresolved: Scio
-related_thinkers: 
+related_thinkers:
   - kusum-lotwala
   - ma-venkata-rao
+  - feroz-khan-noon
+  - gamal-abdel-nasser
+  - vijaya-lakshmi-pandit
 
 publication:
   language: en

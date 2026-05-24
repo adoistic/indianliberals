@@ -21,7 +21,7 @@ contributors:
     thinker: c-rangarajan
     toc_index: 3
   - role: author
-    thinker_unresolved: Dr. D.K. Srivastava
+    thinker: d-k-srivastava
     toc_index: 3
 related_thinkers: []
 publication:

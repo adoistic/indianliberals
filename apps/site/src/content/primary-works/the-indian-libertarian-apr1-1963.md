@@ -20,13 +20,17 @@ contributors:
   - role: author
     thinker: k-sreeramamurty
     toc_index: 4
-related_thinkers: 
+related_thinkers:
   - c-rajagopalachari
   - jawaharlal-nehru
   - jayaprakash-narayan
   - john-kenneth-galbraith
   - kusum-lotwala
   - ma-venkata-rao
+  - aldous-huxley
+  - gamal-abdel-nasser
+  - ralph-borsodi
+  - ruth-benedict
 
 publication:
   language: en

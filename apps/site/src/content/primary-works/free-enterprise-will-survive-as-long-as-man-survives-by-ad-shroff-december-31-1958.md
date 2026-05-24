@@ -8,9 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers: 
+related_thinkers:
   - a-d-shroff
   - jawaharlal-nehru
+  - ayub-khan
 
 publication:
   language: en

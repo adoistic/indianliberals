@@ -9,9 +9,10 @@ editors: []
 contributors:
   - role: other
     thinker: s-v-raju
-related_thinkers: 
+related_thinkers:
   - gopal-krishna-gokhale
   - s-v-raju
+  - d-v-gundappa
 
 publication:
   language: en

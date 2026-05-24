@@ -2,6 +2,7 @@
 id: socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first
 title: "Socialism hinders India’s industrial growth. We need free enterprise first"
 pubDate: 2025-07-19T11:48:17
+author: dn-hosali
 author_name: "DN Hosali"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first/2695489/"
 themes: ["indian-liberals-matter", "indian-private-sector", "industrialisation"]

@@ -30,12 +30,14 @@ contributors:
   - role: author
     thinker: kd-valicha
     toc_index: 7
-related_thinkers: 
+related_thinkers:
   - benjamin-tucker
   - kd-valicha
   - kusum-lotwala
   - ma-venkata-rao
   - salvador-de-madariaga
+  - bs-sanyal
+  - iskander-mirza
 
 publication:
   language: en

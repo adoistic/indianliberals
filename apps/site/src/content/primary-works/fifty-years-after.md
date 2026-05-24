@@ -45,7 +45,7 @@ contributors:
   - role: author
     thinker: jiban-mukhopadhyay
     toc_index: 10
-related_thinkers: 
+related_thinkers:
   - achyut-patwardhan
   - bhimrao-ambedkar
   - bk-nehru
@@ -58,6 +58,9 @@ related_thinkers:
   - mahatma-gandhi
   - rajiv-gandhi
   - sardar-patel
+  - e-dsouza
+  - r-a-jahagirdar
+  - ramdas-rear-admiral
 
 publication:
   language: en

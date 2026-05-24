@@ -5,8 +5,9 @@ pubDate: 2026-04-04T15:10:59
 author_name: "BS Sanyal"
 theprint_url: "https://theprint.in/opinion/welfarism-poverty-indian-people-bs-sanyal/2896578/"
 themes: ["capitalism", "poverty", "social-welfare"]
-related_thinkers: 
+related_thinkers:
   - jawaharlal-nehru
+  - bs-sanyal
 
 related_works: []
 noindex: true

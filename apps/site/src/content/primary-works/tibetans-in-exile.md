@@ -34,7 +34,7 @@ contributors:
     thinker: erhard-haubold
     toc_index: 8
   - role: author
-    thinker_unresolved: Fazal-ur-Rahman
+    thinker: fazal-ur-rahman
     toc_index: 9
 related_thinkers:
   - jawaharlal-nehru

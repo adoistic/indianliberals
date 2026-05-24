@@ -2,6 +2,7 @@
 id: hitlerite-vegetarianism-india-food-science-sentiment
 title: "Hitlerite vegetarianism is not virtue. India’s food debates need more science, less sentiment"
 pubDate: 2025-10-18T13:13:27
+author: tahir-siddiqui
 author_name: "Tahir Siddiqui"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hitlerite-vegetarianism-india-food-science-sentiment/2766589/"
 themes: ["vegetarianism"]

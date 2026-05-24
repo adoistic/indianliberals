@@ -32,13 +32,14 @@ contributors:
   - role: author
     thinker: s-v-raju
     toc_index: 6
-related_thinkers: 
+related_thinkers:
   - alexis-de-tocqueville
   - ashok-desai
   - frederic-bastiat
   - john-locke
   - john-stuart-mill
   - sharad-joshi
+  - thomas-aquinas
 
 publication:
   language: en

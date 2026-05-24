@@ -17,6 +17,7 @@ related_thinkers:
   - m-l-dantewala
   - albert-hirschman
   - indira-gandhi
+  - ashok-mitra
 publication:
   language: mr
   publisher_id: janashakti-vachak-chalval

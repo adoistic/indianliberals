@@ -27,6 +27,7 @@ related_thinkers:
   - thomas-babington-macaulay
   - dwarkanath-tagore
   - parichand-mitra
+  - ramtanu-lahiri
 publication:
   language: bn
   year: 1904

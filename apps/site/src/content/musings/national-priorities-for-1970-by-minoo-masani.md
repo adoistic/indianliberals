@@ -20,8 +20,9 @@ thinker_mentions:
       - quote: if she knows her constitutional duty, she will dissolve Parliament and go to the people and get a mandate
         context: "Masani directly challenges Indira Gandhi's constitutional legitimacy"
     key_passages: []
-related_thinkers: 
+related_thinkers:
   - indira-gandhi
+  - j-b-kripalani
 proposed_themes:
   - "opposition-politics"
   - "swatantra-party"

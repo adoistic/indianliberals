@@ -27,11 +27,12 @@ contributors:
     toc_index: 6
   - role: author
     thinker: a-d-cohen
-related_thinkers: 
+related_thinkers:
   - kusum-lotwala
   - m-n-roy
   - ma-venkata-rao
   - v-k-krishna-menon
+  - zhou-enlai
 
 publication:
   language: en

@@ -35,7 +35,7 @@ contributors:
   - role: author
     thinker: g-giridhar-prabhu
     toc_index: 12
-related_thinkers: 
+related_thinkers:
   - ajit-karnik
   - g-giridhar-prabhu
   - hernando-de-soto
@@ -53,6 +53,11 @@ related_thinkers:
   - ram-jethmalani
   - s-p-sathe
   - s-v-raju
+  - claret-dsouza
+  - ken-schoolland
+  - louella-lobo-prabhu
+  - t-subbaya-shetty
+  - theodor-heuss
 
 publication:
   language: en

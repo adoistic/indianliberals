@@ -21,11 +21,12 @@ contributors:
     thinker: sanjay-panse
   - role: other
     thinker: ms-seetha
-related_thinkers: 
+related_thinkers:
   - gopal-krishna-gokhale
   - ludwig-von-mises
   - s-v-raju
   - sunil-bhandare
+  - d-v-gundappa
 
 publication:
   language: en
