@@ -3,10 +3,10 @@
     "version": "v1.5-2026-05-17",
     "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
     "counts": {
-      "total": 428,
+      "total": 427,
       "canonical": 97,
       "high": 92,
-      "medium": 239
+      "medium": 238
     },
     "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts.",
     "cluster_collapse_applied": "2026-05-18",
@@ -6220,20 +6220,6 @@
       "death_year": 1917
     },
     {
-      "id": "shivani-a-tannu",
-      "name": {
-        "canonical": "Shivani A. Tannu",
-        "sort": "Tannu, Shivani A.",
-        "also_known_as": []
-      },
-      "tradition": "contemporary_liberal",
-      "nationality": "india",
-      "themes": [],
-      "affiliations": [],
-      "bio_source": "ai_drafted_stub",
-      "needs_review": true
-    },
-    {
       "id": "fatima-sheikh",
       "name": {
         "canonical": "Fatima Sheikh",
@@ -7125,7 +7111,6 @@
     "babytai kamble": "babytai-kamble",
     "c y chintamani": "c-y-chintamani",
     "dadabhai naoroji": "dadabhai-naoroji",
-    "shivani a tannu": "shivani-a-tannu",
     "fatima sheikh": "fatima-sheikh",
     "hamid dalwai": "hamid-dalwai",
     "harish chandra mukherjee": "harish-chandra-mukherjee",
