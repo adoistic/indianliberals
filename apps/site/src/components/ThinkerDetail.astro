@@ -39,7 +39,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
 
 interface Props {
@@ -67,7 +67,7 @@ const [allInterviews, allTheprint, allOpinions, allMusings, allWorks] = await Pr
   getCollection("theprint-mirror", (e) => !e.data.draft),
   getCollection("opinions", (e) => !e.data.draft),
   getCollection("musings", (e) => !e.data.draft),
-  getCollection("primary-works", (e) => !e.data.draft && e.data.language === "en"),
+  getCollection("primary-works", (e) => !e.data.draft && e.data.language === DEFAULT_LOCALE),
 ]);
 
 function refMatches(ref: { id?: string } | string | undefined, id: string): boolean {

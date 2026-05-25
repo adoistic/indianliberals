@@ -33,8 +33,8 @@
 //   needed — for now the string is irrelevant in practice for i18n pages.
 //
 // NOTE on allThinkers filter:
-//   The English template only fetched English thinkers (language === "en"). That
-//   filter is preserved here faithfully — no i18n thinker MDs exist, so it's a
+//   The English template only fetched English thinkers (language === DEFAULT_LOCALE).
+//   That filter is preserved here faithfully — no i18n thinker MDs exist, so it's a
 //   no-op restriction but matches existing behaviour. When i18n thinker MDs land,
 //   this may want revisiting.
 //
@@ -46,7 +46,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
 
 interface Props {
@@ -87,14 +87,14 @@ const publishedHere = allWorks
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
 
 function workHref(w: typeof publishedHere[number]): string {
-  return w.data.language && w.data.language !== "en"
+  return w.data.language && w.data.language !== DEFAULT_LOCALE
     ? `/${w.data.language}/primary-works/${w.id}/`
     : `/primary-works/${w.id}/`;
 }
 
 const allThinkers = await getCollection(
   "thinkers",
-  (t) => !t.data.draft && t.data.language === "en",
+  (t) => !t.data.draft && t.data.language === DEFAULT_LOCALE,
 );
 const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? []).includes(o.id));
 ---
@@ -148,7 +148,7 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
               <a href={workHref(w)} class="block no-underline group">
                 <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
                   {w.data.title.main}
-                  {w.data.language && w.data.language !== "en" && (
+                  {w.data.language && w.data.language !== DEFAULT_LOCALE && (
                     <span class="ml-2 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded text-(--color-fg-muted)">
                       {w.data.language}
                     </span>
