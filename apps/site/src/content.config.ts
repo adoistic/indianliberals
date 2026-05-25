@@ -109,6 +109,38 @@ const thinkers = defineCollection({
   }),
 });
 
+// ─── Contemporary contributors (opinion-piece writers) ───────────────
+// Distinct from `thinkers` (which is the canonical Indian liberal canon).
+// Contributors are CCS fellows / interns / guest writers whose bios
+// were extracted from the trailing bio block of opinion pieces.
+// See docs/superpowers/specs/2026-05-25-contributors-collection-design.md.
+
+const contributors = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/contributors' }),
+  schema: z.object({
+    id: z.string(),
+    name: z.object({
+      canonical: z.string(),
+      sort: z.string(),
+      also_known_as: z.array(z.string()).default([]),
+    }),
+    // Local path under /public, e.g. "/contributors/photos/sanjeet-kashyap.jpg".
+    // Optional — some imported bios had no photo.
+    photo: z.string().optional(),
+    // Optional structured fields. Bios mention these inconsistently;
+    // extraction is best-effort. Curator fills the rest when triaging.
+    affiliation: z.string().optional(),       // e.g. "Centre for Civil Society"
+    role: z.string().optional(),              // e.g. "Indian Liberal Fellow"
+    joined_at: z.number().int().optional(),   // year
+    areas_of_interest: z.array(z.string()).default([]),
+    bio_source: z
+      .enum(['extracted_from_opinion_bio', 'curator', 'imported'])
+      .default('extracted_from_opinion_bio'),
+    needs_review: z.boolean().default(true),
+    draft: z.boolean().default(false),
+  }),
+});
+
 // ─── Tier A: organisations ─────────────────────────────────────────────
 
 const organisations = defineCollection({
@@ -202,11 +234,11 @@ const opinions = defineCollection({
     title: z.string(),
     pubDate: z.coerce.date(),
     // `author_name` is the writer (often "Editorial Team" for CCS profile
-    // pieces); `author` is the structured ref to the writer's thinker
-    // entry when one exists. Most opinions are written by Editorial Team
-    // ABOUT a thinker — that thinker goes in `subject`.
+    // pieces); `author` is the structured ref to the writer's
+    // contributor entry when one exists. Most opinions are written by
+    // Editorial Team ABOUT a thinker — that thinker goes in `subject`.
     author_name: z.string(),
-    author: reference('thinkers').optional(),
+    author: reference('contributors').optional(),
     // `subject` is the thinker the piece profiles, populated for profile-
     // style opinions ("Anandibai Joshee: First Indian Woman Doctor"). Drives
     // the "Profile pieces and interviews about <X>" section on the bio page.
@@ -642,6 +674,7 @@ const graphEdges = defineCollection({
 
 export const collections = {
   thinkers,
+  contributors,
   organisations,
   musings,
   opinions,
