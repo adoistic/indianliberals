@@ -10,15 +10,11 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - jawaharlal-nehru
-  - indira-gandhi
-  - mahatma-gandhi
-  - karl-marx
   - joseph-stalin
-  - lal-bahadur-shastri
-  - rajiv-gandhi
   - shrikant-umrikar
+
 publication:
   language: mr
   publisher_id: janashakti-vachak-chalval
@@ -57,6 +53,33 @@ physical:
   format: paperback book; price ₹ ३००/-
 missing_metadata_flags:
   - no_isbn
+thinker_mentions:
+  - thinker: joseph-stalin
+    role: mention
+    reasoning: "Joshi uses Stalin's collectivisation as the structural analogue to Nehruvian planning — both, in his reading, instances of an urban-industrial agenda extracting surplus from the peasantry at gunpoint or through price suppression."
+    evidence:
+      - quote: "Joshi argues, in the rendered pages, that the Corn Laws controversy, Stalin's collectivisation, and independent India's Nehruvian planning framework all share a common logic"
+        context: "Stalin's collectivisation anchors a tri-national genealogy of anti-peasant industrialisation"
+      - quote: "he draws a pointed comparison between Stalin's collectivisation (which destroyed the kulak class) and Nehru's planning framework (which similarly subordinated farmers to an urban-industrial agenda)"
+        context: "the kulak analogy is made explicit as the engine of Joshi's anti-Nehruvian indictment"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru figures in Joshi's polemic as the architect of the Indian planning framework whose price-suppression of agriculture, Joshi argues, mirrored Stalinist collectivisation in its hostility to the peasant — a foundational target of the Shetkari Sanghatana's critique."
+    evidence:
+      - quote: "Joshi argues, in the rendered pages, that the Corn Laws controversy, Stalin's collectivisation, and independent India's Nehruvian planning framework all share a common logic"
+        context: "Nehruvian planning is the third leg of Joshi's comparative indictment of cheap-food industrialisation"
+      - quote: "he draws a pointed comparison between Stalin's collectivisation (which destroyed the kulak class) and Nehru's planning framework (which similarly subordinated farmers to an urban-industrial agenda), tracing a shared anti-peasant logic across ideological lines"
+        context: "explicitly equates Nehru's planning regime with Stalinism in its agrarian effect"
+    key_passages: []
+  - thinker: shrikant-umrikar
+    role: mention
+    reasoning: "Umrikar (transliterated 'Umarikar' in the volume) signs the publisher's foreword to this collected-works edition, situating the book as a Janashakti Vachak Chalval tribute on Joshi's birth anniversary."
+    evidence:
+      - quote: "The publisher's foreword (signed by Shrikant Anant Umarikar, 2 October 2010) confirms this is a collected edition and situates the volume as a tribute on Joshi's birth anniversary."
+        context: Umrikar is identified as the foreword author and editorial custodian of the collected edition
+    key_passages: []
+
 ---
 ## Summary
 

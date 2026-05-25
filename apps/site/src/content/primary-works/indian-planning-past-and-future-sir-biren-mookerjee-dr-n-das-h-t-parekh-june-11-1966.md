@@ -19,8 +19,11 @@ contributors:
     thinker: h-t-parekh
     toc_index: 3
 related_thinkers: 
+  - colin-clark
+  - eugene-black
   - john-kenneth-galbraith
   - p-v-sukhatme
+
 
 publication:
   language: en
@@ -63,12 +66,37 @@ missing_metadata_flags:
   - year_not_printed
   - no_toc_page
 thinker_mentions:
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Eugene Black is quoted on the frontispiece as the ideological epigraph for the entire volume — his insistence that private enterprise be embraced as 'an affirmative good' rather than a tolerated evil sets the pro-market frame for the three essays that follow."
+    evidence:
+      - quote: "The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as \"an affirmative good\" rather than a tolerated evil."
+        context: "Eugene Black's epigraph opens the booklet and supplies its anti-dirigiste motto"
+    key_passages: []
   - thinker: john-kenneth-galbraith
     role: mention
-    reasoning: "Galbraith's consumption criterion is applied by Das in his data-driven indictment of fifteen years of Indian planning to show that average Indians still lack adequate food, clothing, and shelter."
+    reasoning: "Das builds his statistical indictment of fifteen years of planning by applying Galbraith's consumption criterion to Indian data, using it as a benchmark to show that the average Indian's diet is only three-quarters of the index for poor countries excluding India."
     evidence:
-      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter"
-        context: "Galbraith's analytical framework used to evaluate Indian planning performance"
+      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter, and calls for a fundamental reappraisal of planning strategy."
+        context: "Das's statistical indictment lists Galbraith first among the analytic authorities he marshals against the Plans"
+      - quote: "Applies Galbraith's consumption criterion and Sukhatme's nutrition data to show that the average Indian's diet is only three-quarters of the index for poor countries (excluding India), and that 250 million Indians are undernourished or malnourished."
+        context: "key-points summary deploys Galbraith's criterion to produce the booklet's headline malnutrition figure"
+    key_passages: []
+  - thinker: colin-clark
+    role: mention
+    reasoning: "Colin Clark's investment-employment ratio is one of the analytic instruments Das uses to argue that fifteen years of planning failed to translate aggregate investment into minimum human needs for food, clothing, and shelter."
+    evidence:
+      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter, and calls for a fundamental reappraisal of planning strategy."
+        context: "Das cites Clark's investment-employment ratio as a measurement framework underpinning his case against the Plans"
+    key_passages: []
+  - thinker: p-v-sukhatme
+    role: mention
+    reasoning: "Sukhatme's nutrition studies supply the data on which Das builds his case that India's per-capita foodgrain availability had actually fallen below pre-war levels by 1964, anchoring the volume's claim that planning had failed even on minimum-human-needs criteria."
+    evidence:
+      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter, and calls for a fundamental reappraisal of planning strategy."
+        context: "Sukhatme's nutrition studies sit alongside Galbraith and Clark as Das's empirical authorities"
+      - quote: "Applies Galbraith's consumption criterion and Sukhatme's nutrition data to show that the average Indian's diet is only three-quarters of the index for poor countries (excluding India), and that 250 million Indians are undernourished or malnourished."
+        context: "Sukhatme's data underwrites the 250-million-undernourished headline figure"
     key_passages: []
 
 ---

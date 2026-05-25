@@ -36,9 +36,11 @@ contributors:
   - role: author
     thinker: fazal-ur-rahman
     toc_index: 9
-related_thinkers:
+related_thinkers: 
+  - ajit-bhattacharjea
   - deng-xiaoping
-  - ngapo-ngawang-jigme
+  - samdhong-rinpoche
+
 
 publication:
   language: en
@@ -80,14 +82,32 @@ missing_metadata_flags:
   - editor_in_chief_not_in_authority_file
   - most_contributors_not_in_authority_file
 thinker_mentions:
+  - thinker: ajit-bhattacharjea
+    role: mention
+    reasoning: "Bhattacharjea contributes the central essay on the democratic evolution of the Tibetan exile community, documenting the Dalai Lama's voluntary relinquishment of traditional powers and the 1991 Charter that turned the Assembly of Tibetan People's Deputies into a full parliamentary legislature."
+    evidence:
+      - quote: "Ajit Bhattacharjea traces the thirty-five-year democratic evolution of the Tibetan exile community, centred on the Assembly of Tibetan People's Deputies (parliament-in-exile)."
+        context: "section opener summarising Bhattacharjea's essay 'The Exile Identity and Democratic Vision'"
+      - quote: "Bhattacharjea argues that the exile community's transformation from 'virtual destitutes' to a self-confident, institutionally mature polity is unique in the history of refugee politics"
+        context: "key claim of Bhattacharjea's essay; positions Tibetan democracy-in-exile as historically singular"
+    key_passages: []
+  - thinker: samdhong-rinpoche
+    role: mention
+    reasoning: "Samdhong Rinpoche, as Chairman of the Assembly of Tibetan People's Deputies, articulates the issue's philosophical core: that the Tibetan struggle is a universal human responsibility rooted in Buddhist inter-dependence, and that after failed Chinese negotiations the movement should escalate to a Satyagraha of civil disobedience."
+    evidence:
+      - quote: "Prof. Samdhong Rinpoche, Chairman of the Assembly of Tibetan People's Deputies, sets out the philosophical and strategic foundations of the Tibetan freedom movement."
+        context: "section opener establishing Rinpoche's institutional and philosophical authority in the issue"
+      - quote: "the movement must now consider a Satyagraha ('Insistence on Truth') strategy including civil disobedience and passive resistance"
+        context: "Rinpoche's strategic conclusion; deploys a Gandhian frame for the next phase of Tibetan resistance"
+    key_passages: []
   - thinker: deng-xiaoping
     role: mention
-    reasoning: "Deng appears in two distinct registers: as the Chinese leader whose 1979 dialogue offer opened the failed negotiation series Samdhong Rinpoche catalogues, and (in Yangchen Dolkar's essay) as the succession question that is destabilising central control in China and creating an opening for Tibetan activism."
+    reasoning: "Deng appears twice in Samdhong Rinpoche's and Yangchen Dolkar's essays: as the Chinese counter-party in the 1979 Sino-Tibetan dialogue that the exile leadership ultimately judges insincere, and as the looming succession question whose resolution may open political space for Tibetan activism."
     evidence:
       - quote: "failed negotiations with China (Deng Xiaoping's 1979 dialogue, the Five Point Peace Programme of 1987, the Strasbourg Proposal of 1988, and the 1991 offer to visit Tibet)"
-        context: Deng named as the leader who initiated the negotiation track judged insincere
+        context: "Rinpoche's essay; Deng's 1979 dialogue is the first of four Chinese overtures Rinpoche reads as stalling tactics"
       - quote: "China's internal instability — inflation, unemployment, weakening central control, the Deng Xiaoping succession — creates an opening for Tibetan activists to press their case."
-        context: "Deng's anticipated succession framed by TYC as a strategic opening for Tibetan activism"
+        context: "key-point bullet from Dolkar's youth-strategy essay; treats Deng's mortality as a strategic window for the movement"
     key_passages: []
 
 ---

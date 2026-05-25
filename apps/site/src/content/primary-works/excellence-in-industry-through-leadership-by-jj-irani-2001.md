@@ -8,10 +8,12 @@ authors:
   - jj-irani
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
+  - a-d-shroff
+  - eugene-black
   - jrd-tata
   - milton-friedman
-  - sp-godrej
+
 
 publication:
   language: en
@@ -51,19 +53,37 @@ missing_metadata_flags:
   - no_isbn
   - no_formal_toc
 thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Irani delivers the 35th A. D. Shroff Memorial Lecture; Shroff is invoked through the lecture's standing-frame as the Forum of Free Enterprise's intellectual patron, with his memorial occasion serving as the platform for Irani's defence of stakeholder capitalism."
+    evidence:
+      - quote: Excellence in Industry Through Leadership is the text of the 35th A. D. Shroff Memorial Lecture, delivered by Dr. J. J. Irani
+        context: opening line establishes Shroff as the namesake and frame for the entire address
+    key_passages: []
   - thinker: milton-friedman
     role: mention
-    reasoning: "Irani explicitly frames his lecture as a response to the Friedman doctrine that 'the business of business is business', arguing against single-minded profit maximisation as a long-term recipe for disaster."
+    reasoning: "Friedman serves as Irani's principal foil: the 'business of business is business' doctrine is set up as the orthodoxy against which Tata-style stakeholder capitalism is defended as the truer, longer-horizon path to enterprise excellence."
     evidence:
-      - quote: "most famously expressed by Milton Friedman, that \"the business of business is business.\""
-        context: "Friedman's doctrine is the direct foil against which Irani's stakeholder model of business leadership is constructed"
+      - quote: "Irani uses the occasion to argue against the orthodoxy, most famously expressed by Milton Friedman, that \"the business of business is business.\""
+        context: Friedman is named as the standard-bearer of the doctrine the lecture is built to refute
+      - quote: "Frames the lecture against the Friedman doctrine that \"the business of business is business,\" arguing that single-minded profit maximisation is short-termist and ultimately self-destructive."
+        context: "key-points restatement treating the Friedman doctrine as the lecture's central counter-position"
     key_passages: []
   - thinker: jrd-tata
     role: mention
-    reasoning: "JRD Tata is cited as a successor to Jamshetjee Tata who kept alive the ethical business tradition, and his legacy frames Irani's stakeholder model of industry leadership."
+    reasoning: "JRD Tata is cited by Irani as a living link in the Tata stakeholder tradition and quoted directly to underscore that the group has been willing to sacrifice growth rather than abandon ethical standards — a competitive virtue in Irani's argument."
     evidence:
-      - quote: cites successors R. D. Tata, JRD Tata, and current chairman Ratan Tata as keeping that tradition alive
-        context: JRD Tata named as one of the guardians of the Tata ethical tradition Irani invokes
+      - quote: He cites successors R. D. Tata, JRD Tata, and current chairman Ratan Tata as keeping that tradition alive
+        context: "places JRD within the Tata succession that carries Jamshetjee's stakeholder ethic forward"
+      - quote: "Quotes JRD Tata to argue that the Tatas have deliberately sacrificed up to \"100 per cent growth\" rather than abandon ethical standards, and that this restraint is itself a competitive virtue."
+        context: "JRD's own words are invoked as evidence that ethical restraint is a competitive advantage"
+    key_passages: []
+  - thinker: eugene-black
+    role: mention
+    reasoning: "Irani closes with the Forum's customary Eugene Black epigraph — that private enterprise must be accepted not as a necessary evil but as an affirmative good — using Black's formulation as the rhetorical capstone of his stakeholder-capitalism argument."
+    evidence:
+      - quote: "the Forum's customary Eugene Black epigraph that private enterprise must be accepted not as a necessary evil but as an affirmative good"
+        context: "the lecture ends on Black's affirmative-good formulation, treating it as the Forum's foundational creed"
     key_passages: []
 authors_resolution:
   confidence: high

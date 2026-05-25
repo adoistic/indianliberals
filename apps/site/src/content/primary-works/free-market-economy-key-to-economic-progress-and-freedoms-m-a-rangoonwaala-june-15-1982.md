@@ -12,11 +12,11 @@ contributors:
     thinker_unresolved: M. A. Rangoonwala
   - role: introduction
     thinker: nani-palkhivala
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - c-rajagopalachari
   - nani-palkhivala
-  - subhas-chandra-bose
+
 
 publication:
   language: en
@@ -55,26 +55,28 @@ missing_metadata_flags:
 thinker_mentions:
   - thinker: nani-palkhivala
     role: mention
-    reasoning: "N. A. Palkhivala wrote the introduction for this booklet, setting up Rangoonwala's argument as a plea for market forces and reinforcing it with Rajaji's 'permit-licence-quota raj' phrase."
+    reasoning: "As Forum of Free Enterprise President, Palkhivala writes the introduction that frames Rangoonwala's address, reinforcing it with Rajaji's 'permit-licence-quota raj' slogan and a Daniel Webster epigraph on civic responsibility."
     evidence:
-      - quote: "It is framed by an introduction from the Forum's President N. A. Palkhivala and a short biographical note on the Forum's founder A. D. Shroff."
-        context: Palkhivala as the Forum president providing the framing introduction
+      - quote: "It is framed by an introduction from the Forum's President N. A. Palkhivala"
+        context: "identifies Palkhivala as the framing voice that situates Rangoonwala's address inside the Forum's tradition"
       - quote: "Palkhivala's introduction reinforces the address with Rajaji's \"permit-licence-quota raj\" and a Daniel Webster epigraph on civic responsibility."
-        context: "Palkhivala's substantive contribution to the pamphlet's argument"
-    key_passages: []
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "Rajaji is cited in Palkhivala's introduction for having coined the 'permit-licence-quota raj' phrase, which anchors the pamphlet's central critique of Indian economic controls."
-    evidence:
-      - quote: "attacks the \"permit-licence-quota raj\" that Rajaji had named"
-        context: "Palkhivala's introduction credits Rajaji's coinage as the conceptual anchor of the pamphlet's critique"
+        context: "summary of Palkhivala's editorial frame — Rajaji's coinage paired with a classical liberal epigraph"
     key_passages: []
   - thinker: a-d-shroff
     role: mention
-    reasoning: "A. D. Shroff is referenced in the prefatory biographical note as the Forum's founder, situating the Silver Jubilee address in his legacy."
+    reasoning: "Shroff is invoked as the Forum of Free Enterprise's founder — the booklet carries a biographical note on him alongside Palkhivala's introduction, anchoring Rangoonwala's address in the Shroff-founded institutional lineage."
     evidence:
       - quote: "a short biographical note on the Forum's founder A. D. Shroff"
-        context: "Shroff named as the Forum's founder in the pamphlet's prefatory material"
+        context: Shroff is foregrounded as the institutional ancestor whose biography the booklet reproduces
+    key_passages: []
+  - thinker: c-rajagopalachari
+    role: mention
+    reasoning: "Rajaji's coinage 'permit-licence-quota raj' is invoked twice — by Palkhivala in his introduction and again in the summary's key points — as the rhetorical centrepiece for the booklet's attack on India's interventionist economy."
+    evidence:
+      - quote: "attacks the \"permit-licence-quota raj\" that Rajaji had named"
+        context: "Palkhivala's framing borrows Rajaji's slogan to attack interventionism"
+      - quote: "Palkhivala's introduction reinforces the address with Rajaji's \"permit-licence-quota raj\""
+        context: key-points restatement of the same Rajaji-derived rhetorical anchor
     key_passages: []
 authors_resolution:
   confidence: high

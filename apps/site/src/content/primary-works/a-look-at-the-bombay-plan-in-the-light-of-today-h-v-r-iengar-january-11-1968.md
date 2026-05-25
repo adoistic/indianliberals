@@ -8,10 +8,10 @@ authors:
   - h-v-r-iengar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - jrd-tata
-  - subhas-chandra-bose
+
 
 publication:
   language: en
@@ -53,17 +53,23 @@ missing_metadata_flags:
 thinker_mentions:
   - thinker: a-d-shroff
     role: mention
-    reasoning: "Shroff is the central figure of the lecture: Iengar traces Shroff's evolution from co-author of the 1944 Bombay Plan (which accepted State intervention) to founder of the Forum of Free Enterprise in 1956 and advocate of free markets, framing this intellectual journey as the essay's core argument."
+    reasoning: "Iengar delivers the Second A. D. Shroff Memorial Lecture and uses Shroff's intellectual trajectory — from co-author of the 1944 Bombay Plan to founder of the Forum of Free Enterprise in 1956 — as the spine of his argument against the planning state, closing with Shroff as the exemplar of the liberal business leader's special responsibility."
     evidence:
-      - quote: "H. V. R. Iengar's address takes the 1944 Bombay Plan — co-authored by A. D. Shroff alongside Purshotamdas Thakurdas, J. R. D. Tata, G. D. Birla, Sriram, Kasturbhai Lalbhai and John Matthai — as a mirror for India's later experience with state planning."
-        context: "establishes Shroff's co-authorship of the Bombay Plan as the starting point of the intellectual journey"
+      - quote: Delivered as the Second A. D. Shroff Memorial Lecture in Bombay on 27 October 1967
+        context: "opening sentence anchors the entire lecture in Shroff's memorial frame"
+      - quote: "He argues that the Planning Commission \"got its inspiration from the Bombay plan\", and that A. D. Shroff himself was, in 1944, one of its principal proponents."
+        context: Iengar reads Shroff into the genealogy of the post-independence planning state he later repudiated
+      - quote: The core of the lecture explains why Shroff later broke with that doctrine and set up the Forum of Free Enterprise in 1956.
+        context: "frames Shroff's doctrinal evolution as the lecture's central narrative arc"
     key_passages: []
   - thinker: jrd-tata
     role: mention
-    reasoning: "J. R. D. Tata's call for a 'plan holiday' after the Third Five-Year Plan is cited as a prescient liberal business voice whose warning was eventually vindicated by events."
+    reasoning: "Iengar names J. R. D. Tata both as a 1944 co-signatory of the Bombay Plan and, more pointedly, as the industrialist whose early call for a 'plan holiday' after the third Five-Year Plan was vindicated by events — an illustration of business judgement outrunning state planning."
     evidence:
-      - quote: "He invokes J. R. D. Tata's earlier proposal for a 'plan holiday' after the third Five-Year Plan, noting that events ultimately forced Government to adopt it."
-        context: "Tata's plan holiday proposal is evidence that Indian business leaders recognised the planning experiment's failure before the government did"
+      - quote: the 1944 Bombay Plan — co-authored by A. D. Shroff alongside Purshotamdas Thakurdas, J. R. D. Tata, G. D. Birla, Sriram, Kasturbhai Lalbhai and John Matthai
+        context: places JRD Tata among the original Bombay Plan signatories whose framework Iengar critiques
+      - quote: "He recalls J. R. D. Tata's call (later vindicated by events) for a \"plan holiday\" after the third Five-Year Plan"
+        context: "invokes JRD's prescience to argue that India's planning experiment had failed on its own terms"
     key_passages: []
 
 ---

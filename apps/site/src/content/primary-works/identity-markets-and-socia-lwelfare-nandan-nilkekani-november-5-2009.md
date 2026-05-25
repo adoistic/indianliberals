@@ -9,10 +9,11 @@ authors:
 editors:
   - sunil-bhandare
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
   - eugene-black
-  - subhas-chandra-bose
+  - sunil-bhandare
+
 
 publication:
   language: en
@@ -62,21 +63,28 @@ authors_resolution:
 thinker_mentions:
   - thinker: a-d-shroff
     role: mention
-    reasoning: "Nilekani's UID lecture is the 43rd A. D. Shroff Memorial Lecture and is structured around an explicit homage to Shroff's 1940s–50s defence of competition and 'intellectual capital', with the booklet appending a biographical sketch placing the Aadhaar agenda inside Shroff's classical-liberal lineage."
+    reasoning: "The lecture is the 43rd A. D. Shroff Memorial Lecture and Nilekani repeatedly invokes Shroff's 1940s-50s advocacy of competition and 'intellectual capital' as the lineage from which the UID project descends; the booklet closes with a Forum-authored biography of Shroff."
     evidence:
-      - quote: This booklet reproduces the 43rd A. D. Shroff Memorial Lecture, delivered by Nandan Nilekani in Mumbai on 27 October 2009 under the auspices of the Forum of Free Enterprise
-        context: opening sentence; Shroff is the namesake under whose memorial auspices the entire UID agenda is delivered
+      - quote: with an editorial note by Sunil S. Bhandare and a biographical sketch of A. D. Shroff appended
+        context: frames the entire booklet as an A. D. Shroff Memorial Lecture publication
       - quote: "He opens by saluting Ardeshir Shroff's early advocacy of competition, liberalisation and 'intellectual capital' in an era dominated by faith in planning"
-        context: "summary; Nilekani builds his case for market-led welfare on Shroff's classical-liberal precedent"
-      - quote: a profile of A. D. Shroff — co-author of the 1944 Bombay Plan, founder of the Forum of Free Enterprise in 1956
-        context: "closing biographical sketch ties the UID project to Shroff's Bombay Plan and Forum legacy"
+        context: positions Shroff as the ideological ancestor whose diagnosis of structural poverty still applies
+      - quote: "The booklet concludes with a Forum-authored biography of A. D. Shroff (Bombay Plan co-author, founder of FFE in 1956) framing the UID agenda within India's classical-liberal lineage."
+        context: "closes the booklet by binding the UID agenda to Shroff's classical-liberal lineage"
+    key_passages: []
+  - thinker: sunil-bhandare
+    role: mention
+    reasoning: "Bhandare appears as the editorial-note author who introduces the published booklet of Nilekani's lecture for the Forum of Free Enterprise."
+    evidence:
+      - quote: with an editorial note by Sunil S. Bhandare and a biographical sketch of A. D. Shroff appended
+        context: identifies Bhandare as the editorial voice framing the published lecture
     key_passages: []
   - thinker: eugene-black
     role: mention
-    reasoning: "The booklet closes with an Eugene Black epigraph reframing private enterprise as 'an affirmative good', importing the World Bank president's pro-market authority into the Aadhaar pamphlet's argument for market-aligned welfare delivery."
+    reasoning: "Eugene Black supplies the closing epigraph of the booklet, recast by the Forum to argue that private enterprise is 'an affirmative good'."
     evidence:
-      - quote: "a closing Eugene Black epigraph that recasts private enterprise as 'an affirmative good'"
-        context: "closing paragraph; Black's affirmation is used to ideologically frame the UID's market orientation"
+      - quote: "a closing Eugene Black epigraph that recasts private enterprise as 'an affirmative good'."
+        context: "Black's epigraph anchors the booklet's concluding rhetorical move from defence of enterprise to its positive valorisation"
     key_passages: []
 
 ---

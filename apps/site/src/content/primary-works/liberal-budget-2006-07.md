@@ -9,10 +9,9 @@ editors: []
 contributors:
   - role: other
     thinker: s-v-raju
-related_thinkers:
-  - gopal-krishna-gokhale
-  - s-v-raju
+related_thinkers: 
   - d-v-gundappa
+
 
 publication:
   language: en
@@ -55,19 +54,12 @@ missing_metadata_flags:
   - no_isbn
   - no_publisher_address
 thinker_mentions:
-  - thinker: gopal-krishna-gokhale
+  - thinker: d-v-gundappa
     role: mention
-    reasoning: "Gopal Krishna Gokhale's liberal vision is invoked in the opening statement of liberal philosophy that grounds the Liberal Budget 2006-07, positioning the ILG's fiscal prescriptions within the Indian liberal tradition."
+    reasoning: "Gundappa's warning against selective foreign borrowing is paired with Gokhale's liberal vision in the document's opening philosophical statement, positioning the 2006-07 Liberal Budget inside an explicitly Indian-rooted liberal lineage rather than as imported doctrine."
     evidence:
       - quote: "invoking Gopal Krishna Gokhale's liberal vision and D. V. Gundappa's caution about selective borrowing from foreign ideas"
-        context: "Gokhale cited in the philosophical preamble as the ancestral figure of Indian liberalism against whom the budget's prescriptions are positioned"
-    key_passages: []
-  - thinker: s-v-raju
-    role: mention
-    reasoning: "S. V. Raju is implicitly present through the ILG institutional context, as this is the third Liberal Budget produced under the ILG's Project for Economic Education, which Raju led as Executive Chairman."
-    evidence:
-      - quote: the third alternative budget document produced by the Indian Liberal Group (ILG) under its Project for Economic Education
-        context: S. V. Raju led the ILG as Executive Chairman, making this pamphlet part of his institutional output; confirmed via his named preface role in the companion liberal-budget-building-equitable-society entry
+        context: "Gundappa's caution opens the document's liberal-philosophy preamble, used to defend the budget's Indian provenance against the charge of foreign-mimicry"
     key_passages: []
 authors_resolution:
   confidence: low

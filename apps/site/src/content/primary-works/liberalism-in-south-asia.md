@@ -32,16 +32,18 @@ contributors:
   - role: author
     thinker: s-v-raju
     toc_index: 6
-related_thinkers:
+related_thinkers: 
+  - adam-smith
   - alexis-de-tocqueville
-  - ashok-desai
   - frederic-bastiat
+  - friedrich-naumann
+  - herbert-spencer
+  - jawaharlal-nehru
   - john-locke
   - john-stuart-mill
-  - sharad-joshi
+  - mahatma-gandhi
   - thomas-aquinas
-  - franz-oppenheimer
-  - sirimavo-bandaranaike
+
 
 publication:
   language: en
@@ -81,51 +83,83 @@ physical:
 missing_metadata_flags:
   - issn_not_found
 thinker_mentions:
-  - thinker: sharad-joshi
+  - thinker: friedrich-naumann
     role: mention
-    reasoning: "Sharad Joshi's cover essay on why Indian liberalism never took firm root opens the issue, offering a sweeping historical argument tracing the dominance of Gandhism and Congress socialism over a genuine liberal politics."
+    reasoning: "Friedrich Naumann is invoked as the namesake patron of the Stiftung publishing the issue — his vision of civic education and participatory democracy is presented as the institutional ancestor of the foundation's South Asia work."
     evidence:
-      - quote: "The issue opens with Sharad Joshi's sweeping historical essay on why liberalism never took firm root in India despite a hospitable philosophical environment, arguing that the dominant intellectual traditions — from Gandhian quasi-anarchism to Congress socialism — crowded out a genuine liberal politics."
-        context: "Joshi's essay as the lead piece of the Liberal Times issue"
-      - quote: "Joshi calls for a new liberal party — tentatively referenced as 'Swatantra Bharat' — built on Maharashtrian farmers and urban self-employed workers rather than the old elite."
-        context: "Joshi's prescription in the closing pages of the essay"
+      - quote: "This issue of Liberal Times (Volume III / Number 4, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, takes 'Liberalism in South Asia' as its unifying theme."
+        context: "Naumann's name is carried by the foundation publishing the issue; he supplies the masthead-level institutional identity"
     key_passages: []
-  - thinker: ashok-desai
+  - thinker: mahatma-gandhi
     role: mention
-    reasoning: "Ashok V. Desai's essay in the same issue traces the post-independence control regime to wartime British economic management and distinguishes liberalisation (pragmatic) from liberalism (philosophically grounded), arguing India lacks the latter."
+    reasoning: "Joshi's cover essay treats Gandhi's quasi-anarchist village-economy vision as one of three nationalist streams that crowded out a liberal politics in India — spiritually sincere but, in Joshi's reading, antithetical to liberal modernity."
     evidence:
-      - quote: "Ashok V. Desai's tightly argued piece follows with an analysis of how the post-independence 'control regime' was inherited from wartime British economic management and how the economic liberalisation of the 1990s, while substantively significant, proceeds without any ideological acknowledgment of liberty as a political value."
-        context: "Desai's essay as the second major piece in the Liberal Times issue"
-      - quote: "He distinguishes sharply between 'liberalisation' (the pragmatic relaxation of controls to reduce inefficiency) and 'liberal philosophy', arguing that India belongs to the post-war social-liberal tradition in which liberty is not accepted as the ultimate goal of political systems."
-        context: "Desai's central analytical distinction, with implications for India's reform trajectory"
-    key_passages: []
-  - thinker: frederic-bastiat
-    role: mention
-    reasoning: "Frédéric Bastiat is named by Detmar Doering as one of the 19th-century liberal theorists in his intellectual history of liberalism, appearing at the break point of the essay's rendered pages."
-    evidence:
-      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
-        context: "Bastiat named in the genealogy of 19th-century liberal thought within Doering's intellectual history essay"
-    key_passages: []
-  - thinker: john-stuart-mill
-    role: mention
-    reasoning: John Stuart Mill is named by Doering as one of the major 19th-century liberal theorists in the genealogy of liberal ideas that his essay traces.
-    evidence:
-      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
-        context: "Mill named in the genealogy of liberal thought in Doering's intellectual history"
-    key_passages: []
-  - thinker: alexis-de-tocqueville
-    role: mention
-    reasoning: Alexis de Tocqueville is named by Doering as a 19th-century liberal theorist in his genealogy of liberal ideas.
-    evidence:
-      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
-        context: Tocqueville named in the genealogy of 19th-century liberal thought
+      - quote: "Joshi argues that Gandhi's quasi-anarchist village-economy vision, though spiritually sincere, produced a programme antithetical to liberal modernity, while the Congress socialist tradition actively modelled itself on the USSR."
+        context: "Joshi indicts Gandhi's village-economy programme as one of the proximate causes of liberalism's failure in India"
+      - quote: "Gandhi's village-economy programme combined genuine ecumenism with an economic vision that was static, anti-growth, and antithetical to liberal modernity."
+        context: "key-points summary reprises Joshi's hostile reading of Gandhi's economic vision"
     key_passages: []
   - thinker: john-locke
     role: mention
-    reasoning: "John Locke's Two Treatises of Government is identified by Doering as the first universal rational theory of inalienable rights, a foundational moment in the liberal tradition he traces."
+    reasoning: "In Doering's intellectual-history opening, Locke's Two Treatises of Government (1689) is identified as the first systematic rational theory of inalienable rights — life, liberty, and property — making Locke the foundational figure in his liberal genealogy."
     evidence:
       - quote: "He credits John Locke's Two Treatises of Government (1689) as the first systematic rational theory of inalienable rights — life, liberty, and property."
-        context: "Locke as the inaugural figure in Doering's intellectual-history genealogy of liberalism"
+        context: Doering places Locke as the founding pillar of his liberal genealogy
+      - quote: "Locke's Two Treatises of Government (1689) is identified as the first universal, rational theory of inalienable rights encompassing life, liberty, and property."
+        context: key-points reprise re-anchors Locke as the canonical source of liberal rights theory
+    key_passages: []
+  - thinker: adam-smith
+    role: mention
+    reasoning: "Doering credits Adam Smith and the Physiocrats with developing the 'market economy' as a practical application of liberal principles — positioning Smith as the figure who translated liberal philosophy into political economy."
+    evidence:
+      - quote: "He then notes that Adam Smith's Physiocrats and the Scottish philosophical tradition developed a new approach to economics — the market economy — and that Montesquieu contributed the concept of division of power."
+        context: Doering names Smith as the source of the market-economy concept in his liberal intellectual history
+      - quote: "Adam Smith and the Physiocrats developed the 'market economy' concept as a practical application of liberal principles."
+        context: "key-points reprise reasserts Smith's role as the practical-economics arm of the liberal tradition"
+    key_passages: []
+  - thinker: john-stuart-mill
+    role: mention
+    reasoning: "Mill is named among the nineteenth-century liberal theorists in Doering's closing reference, situating him in the canon of post-Enlightenment liberal thought that the essay traces."
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: Doering catalogues Mill as one of the four nineteenth-century theorists carrying the liberal tradition forward
+    key_passages: []
+  - thinker: alexis-de-tocqueville
+    role: mention
+    reasoning: "Tocqueville is named alongside Mill, Bastiat, and Spencer in Doering's closing reference as one of the nineteenth-century liberal theorists in the canonical liberal genealogy."
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: "Tocqueville is listed in Doering's nineteenth-century liberal canon"
+    key_passages: []
+  - thinker: frederic-bastiat
+    role: mention
+    reasoning: "Bastiat is one of the four nineteenth-century liberal theorists named in Doering's closing reference, situating him in the canon of post-Enlightenment liberal thought."
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: "Bastiat is included in Doering's nineteenth-century liberal canon"
+    key_passages: []
+  - thinker: herbert-spencer
+    role: mention
+    reasoning: "Spencer rounds out the four nineteenth-century liberal theorists named in Doering's closing reference, taking his place in the canonical liberal genealogy traced from Locke through the Enlightenment to the Victorian era."
+    evidence:
+      - quote: The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
+        context: Spencer closes the four-name nineteenth-century liberal canon Doering invokes
+    key_passages: []
+  - thinker: thomas-aquinas
+    role: mention
+    reasoning: "Aquinas is named in Doering's intellectual-history opening as one of the medieval thinkers in the pre-Enlightenment lineage of the idea that power must be limited — placing him in the genealogy that culminates in liberal constitutionalism."
+    evidence:
+      - quote: the idea that power must be limited is as old as mankind, traceable through classical authors (Cicero, Tacitus), medieval thinkers (Thomas Aquinas), and the Reformation.
+        context: Doering invokes Aquinas as the medieval link in the genealogy of limited-government thinking
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Joshi diagnoses post-independence India as a 'Nehruvian socialist brand of statism' — treating Nehru's political doctrine as the named ideological inheritance that smothered Indian liberalism and entrenched a bureaucratic rent-seeking class."
+    evidence:
+      - quote: "He diagnoses the resulting post-independence state as a 'Nehruvian socialist brand of statism' that proved hospitable to bureaucratic rent-seeking and hostile to individual economic freedom."
+        context: Joshi identifies Nehru by name as the doctrinal source of the statist regime that displaced liberalism in India
+      - quote: "The post-independence 'Nehruvian socialist' state, modelled on the USSR, gave power to a bureaucratic class that used regulation and licensing to entrench itself."
+        context: "key-points summary reprises Nehru's name as the label for the post-1947 statist settlement"
     key_passages: []
 
 ---

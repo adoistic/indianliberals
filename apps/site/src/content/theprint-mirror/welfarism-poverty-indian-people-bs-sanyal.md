@@ -5,21 +5,45 @@ pubDate: 2026-04-04T15:10:59
 author_name: "BS Sanyal"
 theprint_url: "https://theprint.in/opinion/welfarism-poverty-indian-people-bs-sanyal/2896578/"
 themes: ["capitalism", "poverty", "social-welfare"]
-related_thinkers:
+related_thinkers: 
+  - gd-parikh
   - jawaharlal-nehru
-  - bs-sanyal
+  - ludwig-von-mises
+
 
 related_works: []
 noindex: true
 needs_review: true
 draft: false
 thinker_mentions:
+  - thinker: gd-parikh
+    role: mention
+    reasoning: "Sanyal anchors his critique of the mixed economy by citing Prof. G. D. Parikh's argument that the 'private sector' under socialist planning becomes private only in name, reducing entrepreneurs to semi-civil servants and tilting mixed economies toward centralisation and bureaucratisation."
+    evidence:
+      - quote: as Prof. G. D. Parikh has pointed out
+        context: Sanyal introduces Parikh as the analytic authority for why a mixed economy is unstable
+      - quote: with the replacement of atomistic decisions about investment by the so-called social priorities, the private sector in such controlled economies ceases to be private and the entrepreneur is often reduced to a semi-civil servant.
+        context: the verbatim Parikh quote Sanyal leans on to discredit mixed-economy compromise
+    key_passages: []
   - thinker: jawaharlal-nehru
     role: mention
-    reasoning: "Nehru is quoted directly on nationalisation's inevitability, his words used to demonstrate that even the Prime Minister acknowledged the welfarist trajectory toward state control."
+    reasoning: "Sanyal singles out Nehru as 'the arch welfarist of India' and quotes him verbatim on nationalisation policy to argue that government assurances to the private sector are hollow — interventionism, once begun, marches toward universal pauperisation."
     evidence:
-      - quote: "The words quoted were recently spelled by the arch welfarist of India, namely, Nehru, who also added, \"We do not know when we shall nationalise them.\""
-        context: "Nehru's own ambiguous admission about nationalisation is cited as evidence that the slide toward total state control is planned, not accidental"
+      - quote: The words quoted were recently spelled by the arch welfarist of India, namely, Nehru
+        context: Sanyal frames Nehru as the personification of the welfarist drift he is attacking
+      - quote: We do not know when we shall nationalise them.
+        context: the verbatim Nehru line Sanyal uses to expose the open-endedness of nationalisation threats
+      - quote: (Jawaharlal Nehru, Independence and After, p. 192).
+        context: "Sanyal's citation anchoring the Nehru quote to a published source"
+    key_passages: []
+  - thinker: ludwig-von-mises
+    role: mention
+    reasoning: Sanyal twice invokes Mises to defend the capitalist position on charity — arguing that interventionism (not capitalism) is what dries up charitable funds, and that welfarists end up lamenting consequences of their own policies.
+    evidence:
+      - quote: as Dr. Mises sardonically points out, it is highly probable that had there been no interventionism sabotaging the market economy, the charity funds in capitalist societies would be more than sufficient.
+        context: Sanyal enlists Mises to rebut the welfarist claim that capitalist charity is structurally inadequate
+      - quote: Dr. Mises thus rightly concludes that in lamenting the paucity of charity funds, the welfarists lament one of the results of their own policies.
+        context: "Sanyal's closing Mises-citation that flips the welfarist case back on itself"
     key_passages: []
 
 ---

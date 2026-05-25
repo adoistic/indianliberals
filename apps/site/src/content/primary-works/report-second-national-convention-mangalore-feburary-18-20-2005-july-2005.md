@@ -35,31 +35,32 @@ contributors:
   - role: author
     thinker: g-giridhar-prabhu
     toc_index: 12
-related_thinkers:
-  - ajit-karnik
-  - g-giridhar-prabhu
+related_thinkers: 
+  - a-p-j-abdul-kalam
+  - abraham-lincoln
+  - claret-dsouza
+  - friedrich-hayek
+  - friedrich-naumann
   - hernando-de-soto
   - hla-hart
+  - indira-gandhi
   - jagdish-bhagwati
+  - jawaharlal-nehru
+  - john-f-kennedy
   - joseph-stiglitz
   - karl-polanyi
+  - ken-schoolland
   - l-k-jha
+  - louella-lobo-prabhu
   - m-c-setalvad
   - minoo-masani
-  - n-vittal
   - nani-palkhivala
   - narasimha-rao
-  - r-m-mohan-rao
+  - rajendra-prasad
   - ram-jethmalani
-  - s-p-sathe
-  - s-v-raju
-  - claret-dsouza
-  - friedrich-naumann
-  - ken-schoolland
-  - louella-lobo-prabhu
   - t-subbaya-shetty
   - theodor-heuss
-  - a-p-j-abdul-kalam
+
 
 publication:
   language: en
@@ -106,134 +107,197 @@ missing_metadata_flags:
 thinker_mentions:
   - thinker: minoo-masani
     role: mention
-    reasoning: The convention was dedicated to Minoo Masani on his birth centenary; the Preface records the gathering mourning his death and the ILG honouring him as a founding member.
+    reasoning: "Masani is the ILG founding figure to whom the convention is explicitly dedicated on his birth centenary, and Vittal's Inaugural Address opens by invoking Masani's four-part definition of liberalism — individual at the centre, tolerance, pragmatism, pluralism — as the doctrinal frame for the entire convention."
     evidence:
-      - quote: The convention was dedicated to the memory of ILG founding member Minoo Masani on his birth centenary.
-        context: "Masani honoured as the ILG's foundational figure in the Preface"
       - quote: "mourning the death of ILG founding member Minoo Masani's birth centenary dedication"
-        context: "the Preface's opening notation of the convention's dedication"
+        context: summary identifies Masani as the founder to whom the convention is dedicated
+      - quote: "He opens by invoking Minoo Masani's definition of liberalism — the individual at the centre, tolerance as the essential spirit, pragmatism as method, and pluralism as outcome — and links this to the ILG's founding principles"
+        context: "Vittal's Inaugural Address adopts Masani's four-part definition as its liberal frame"
+      - quote: "Dedicated to Minoo Masani on his birth centenary; convention mourned two deaths: Dr. Mme Louella Lobo Prabhu and Tsunami victims."
+        context: "key-points reprise reaffirms the convention's dedication to Masani"
     key_passages: []
-  - thinker: n-vittal
+  - thinker: louella-lobo-prabhu
     role: mention
-    reasoning: "N. Vittal delivered the Inaugural Address arguing that accountability is the functional precondition for a liberal society, defining four features of good governance and two informal 'laws' about accountability."
+    reasoning: "Lobo Prabhu had been scheduled to deliver the convention's valedictory address and died on the eve of the gathering — the Preface opens with the ILG mourning her passing alongside the Tsunami victims, marking her as a figure of institutional importance to the Group."
     evidence:
-      - quote: "N. Vittal's Inaugural Address, titled 'Accountability: The Road Map and Guarantee for Liberalism'"
-        context: "Vittal as the first major speaker establishing the convention's thematic argument"
-      - quote: "He opens by invoking Minoo Masani's definition of liberalism — the individual at the centre, tolerance as the essential spirit, pragmatism as method, and pluralism as outcome"
-        context: "Vittal's opening invocation of Masani frames his own argument about accountability"
+      - quote: "the gathering observed two sad duties: mourning the passing of Dr. Mme Louella Lobo Prabhu (who had been scheduled to deliver the valedictory address and died on 31 January, the eve of the convention) and observing condolences for Tsunami victims of December 26, 2004."
+        context: "Preface registers Lobo Prabhu's death as the convention's opening loss"
     key_passages: []
-  - thinker: s-p-sathe
+  - thinker: a-p-j-abdul-kalam
     role: mention
-    reasoning: "S. P. Sathe delivered the Keynote Address providing a rigorous jurisprudential and constitutional analysis of accountability in governance, drawing on H. L. A. Hart and examining India's constitutional history."
+    reasoning: "Vittal draws on President Kalam's observation about human potential to ground the second feature of good governance under liberalism — the dignity of the individual — within his accountability framework."
     evidence:
-      - quote: "S. P. Sathe's Keynote Address, 'Accountability in Governance', begins in the rendered pages with a rigorous jurisprudential and constitutional analysis."
-        context: "Sathe as the keynote speaker for the convention's central theme"
-      - quote: "He then introduces his central concept: accountability as a moral concept — constitutional/liberal democracy is essentially a moral system in which constitutionalism is sustained not merely by law but by morality."
-        context: "Sathe's defining proposition in the address"
-    key_passages: []
-  - thinker: hla-hart
-    role: mention
-    reasoning: "H. L. A. Hart's distinction between 'being obliged' and 'having an obligation' is deployed by Sathe in his Keynote Address to ground the argument that accountability is not merely coerced compliance but a moral concept."
-    evidence:
-      - quote: "He distinguishes obedience out of fear from obedience out of volition, drawing on H. L. A. Hart's distinction between 'being obliged' and 'having an obligation'."
-        context: "Hart's philosophical distinction underpins Sathe's core argument about constitutional accountability"
-    key_passages: []
-  - thinker: m-c-setalvad
-    role: mention
-    reasoning: "M. C. Setalwad's opinion on the President's obligation to act on the Council of Ministers' advice is discussed by Sathe as a landmark moment in India's constitutional history, cited in the keynote address."
-    evidence:
-      - quote: "using the controversy over the President's obligation to act on the advice of the Council of Ministers (from Rajendra Prasad's conflicts with Nehru, through M. C. Setalwad's opinion, to the Supreme Court's eventual endorsement and subsequent constitutional amendment) as a case study"
-        context: "Setalwad's legal opinion cited as a constitutional milestone in Sathe's address"
-    key_passages: []
-  - thinker: ajit-karnik
-    role: mention
-    reasoning: "Ajit Karnik presented a Liberal Position Paper on India's economic liberalisation as the unfinished liberal agenda, drawing on Hayek, Bhagwati, and de Soto and concluding with a Suggested Plan of Action."
-    evidence:
-      - quote: "Ajit Karnik opens with two apparently contradictory propositions: India has made substantial progress since the 1991 liberalisation, yet the country still has a very long way to go before it can deliver the benefits of economic development to its people."
-        context: "Karnik's framing of the liberalisation agenda at the convention"
-      - quote: The Suggested Plan of Action recaps each reform area as a set of specific action points for the Indian Liberal Group.
-        context: "Karnik's essay concludes with actionable recommendations for the ILG"
-    key_passages: []
-  - thinker: jagdish-bhagwati
-    role: mention
-    reasoning: "Jagdish Bhagwati's 'In Defense of Globalisation' is cited favourably by Karnik in his convention paper as the preferred account of trade liberalisation's poverty-reducing effects, against Stiglitz's critique."
-    evidence:
-      - quote: "Bhagwati's \"In Defense of Globalisation\" is preferred to Stiglitz's critique"
-        context: "Karnik endorses Bhagwati's pro-globalisation case in his convention position paper on the unfinished liberal agenda"
-    key_passages: []
-  - thinker: joseph-stiglitz
-    role: mention
-    reasoning: "Stiglitz's critique of globalisation is cited by Karnik as the position he explicitly rejects in favour of Bhagwati's pro-trade account."
-    evidence:
-      - quote: "Bhagwati's \"In Defense of Globalisation\" is preferred to Stiglitz's critique"
-        context: Stiglitz named as the opposing authority Karnik argues against on globalisation
-    key_passages: []
-  - thinker: hernando-de-soto
-    role: mention
-    reasoning: "Karnik draws heavily on Hernando de Soto to argue that property-rights enforcement — not their formal existence — is the key institutional gap for the poor, using de Soto's work on Peru."
-    evidence:
-      - quote: A sixth section, on property rights, draws heavily on Hernando de Soto to argue that it is the enforcement of rights — not their formal existence — that matters for development and that the poor suffer most from their non-enforcement.
-        context: "de Soto's development economics applied to India's property-rights deficit in Karnik's convention paper"
-    key_passages: []
-  - thinker: karl-polanyi
-    role: mention
-    reasoning: "Karnik directly engages Karl Polanyi's 'The Great Transformation' in his conclusion, calling Polanyi's characterisation of market society as a 'satanic mill' graphically false and likening the liberal economist's task to Sisyphus."
-    evidence:
-      - quote: "Karnik engages Karl Polanyi's \"The Great Transformation\" directly, calling Polanyi's characterisation of market society as a \"satanic mill\" graphically false"
-        context: Polanyi is the intellectual foil Karnik argues against in the conclusion of his convention position paper
-    key_passages: []
-  - thinker: r-m-mohan-rao
-    role: mention
-    reasoning: R. M. Mohan Rao presented the Liberal Position Paper on Indian agriculture and rural indebtedness, arguing for a pro-active liberal state that removes Exim restrictions and provides targeted credit and crop insurance.
-    evidence:
-      - quote: "R. M. Mohan Rao's paper is an executive summary of proceedings from a National Seminar on Indian Agriculture and Rural Indebtedness held at Guntur."
-        context: Mohan Rao as the author of one of three major position papers at the convention
-    key_passages: []
-  - thinker: g-giridhar-prabhu
-    role: mention
-    reasoning: "G. Giridhar Prabhu presented the Liberal Position Paper on the administration of justice, arguing for a Judicial Service Commission and radical reform of Article 311 and citing Palkhivala on India's failure to cherish its Constitution."
-    evidence:
-      - quote: "G. Giridhar Prabhu's position paper argues that an independent judiciary is the sine qua non of democracy"
-        context: Prabhu as the author of the justice administration position paper at the convention
-      - quote: "Drawing on Lincoln's definition of democracy and Palkhivala's lament that Indians received a Constitution but not the ability to cherish it"
-        context: "Prabhu's framing of the judicial crisis invokes Palkhivala as an authority"
-    key_passages: []
-  - thinker: nani-palkhivala
-    role: mention
-    reasoning: Nani Palkhivala is invoked by G. Giridhar Prabhu in his position paper on justice as having lamented that Indians received a Constitution but not the ability to cherish it.
-    evidence:
-      - quote: "Drawing on Lincoln's definition of democracy and Palkhivala's lament that Indians received a Constitution but not the ability to cherish it"
-        context: "Palkhivala cited as an authority on India's constitutional failure in Prabhu's justice paper"
-    key_passages: []
-  - thinker: ram-jethmalani
-    role: mention
-    reasoning: Ram Jethmalani is cited by Prabhu for his observation that there are really only two kinds of judges — those who know law and those who know the Law Minister — as evidence that the collegium system is susceptible to political influence.
-    evidence:
-      - quote: "citing the Law Commission's 14th Report and Ram Jethmalani's observation that there are really only two kinds of judges — those who know law and those who know the Law Minister"
-        context: "Jethmalani's epigram cited as evidence of politicisation in India's judicial appointments system"
-    key_passages: []
-  - thinker: narasimha-rao
-    role: mention
-    reasoning: "P. V. Narasimha Rao is credited in S. V. Raju's President's Address with initiating the economic U-turn of 1991, described as the Congress government led by Narasimha Rao and its Finance Minister."
-    evidence:
-      - quote: He credits the Congress government led by Narasimha Rao (and its Finance Minister, now Prime Minister) with initiating the economic U-turn
-        context: "Narasimha Rao credited with the 1991 liberalisation in Raju's historical narrative"
+      - quote: "dignity of the individual (drawing on President Kalam's observation about human potential)"
+        context: "Vittal cites Kalam's observation as the source for the 'dignity of the individual' pillar of liberal governance"
     key_passages: []
   - thinker: l-k-jha
     role: mention
-    reasoning: "L. K. Jha's observation that India erred in calling public servants 'government servants' rather than 'public servants' is cited by N. Vittal in his Inaugural Address to call for a culture change from power to service."
+    reasoning: "Vittal closes his Inaugural Address by citing L. K. Jha's observation that India erred in calling public servants 'government servants' rather than 'public servants' — using Jha to anchor the culture-change argument from a culture of power to one of service."
     evidence:
-      - quote: "cites L. K. Jha's observation that India erred in calling public servants 'government servants' rather than 'public servants'"
-        context: "Jha's observation invoked by Vittal to support his call for a shift from power-culture to service-culture"
+      - quote: "cites L. K. Jha's observation that India erred in calling public servants 'government servants' rather than 'public servants'."
+        context: "Vittal closes his address with Jha's coinage to anchor the proposed culture shift"
     key_passages: []
-  - thinker: s-v-raju
+  - thinker: john-f-kennedy
     role: mention
-    reasoning: "S. V. Raju delivered the President's Address on why India needs a liberal political party, tracing the historical arc from 1947 through the licence-permit-quota raj to the 1991 liberalisation and the ILG's strategic role."
+    reasoning: "Vittal cites Kennedy's 'failure is an orphan' observation, anchored to the Bay of Pigs episode, to underscore the political logic by which accountability evaporates around large public-policy failures."
     evidence:
-      - quote: "S. V. Raju's President's Address, titled 'Reviving the Liberal Dialogue in Contemporary India: Why India Needs a Liberal Political Party — The Role of the Indian Liberal Group'"
-        context: "Raju as the ILG President delivering the convention's keynote political speech"
-      - quote: "He draws on the Swatantra Party's legacy as a model for a principled liberal opposition that believed in free markets, decentralisation, and coalition democracy."
-        context: "Raju situating the ILG's mission in the tradition of the Swatantra Party"
+      - quote: "cites John Kennedy's 'failure is an orphan' observation in the context of the Bay of Pigs"
+        context: "Vittal invokes Kennedy's aphorism to dramatize the difficulty of pinning accountability on failed initiatives"
+    key_passages: []
+  - thinker: hla-hart
+    role: mention
+    reasoning: "Sathe's Keynote Address rests its moral conception of accountability on H. L. A. Hart's distinction between 'being obliged' and 'having an obligation' — using Hart's jurisprudential framework to argue that legitimacy requires more than coerced compliance."
+    evidence:
+      - quote: "He distinguishes obedience out of fear from obedience out of volition, drawing on H. L. A. Hart's distinction between 'being obliged' and 'having an obligation'."
+        context: "Sathe imports Hart's distinction to ground accountability as a moral concept rather than mere coercion"
+      - quote: "H. L. A. Hart's distinction between 'being obliged' and 'having an obligation' underpins Sathe's argument that accountability is not merely coerced compliance."
+        context: "key-points reprise locates Hart at the centre of Sathe's moral framework"
+    key_passages: []
+  - thinker: rajendra-prasad
+    role: mention
+    reasoning: "Sathe uses the historical controversy over Rajendra Prasad's conflicts with Nehru — over whether the President was obliged to act on the Council of Ministers' advice — as a case study in the conversion of unwritten parliamentary conventions into written constitutional rules."
+    evidence:
+      - quote: "using the controversy over the President's obligation to act on the advice of the Council of Ministers (from Rajendra Prasad's conflicts with Nehru, through M. C. Setalwad's opinion, to the Supreme Court's eventual endorsement and subsequent constitutional amendment) as a case study in the conversion of unwritten conventions into written rules."
+        context: "Sathe traces the constitutional-convention question through Rajendra Prasad's stand-off with Nehru"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Nehru appears in Sathe's case study as the Prime Minister whose dispute with Rajendra Prasad over the President's obligation to follow Cabinet advice became the testing-ground for converting unwritten conventions into written constitutional rules."
+    evidence:
+      - quote: "using the controversy over the President's obligation to act on the advice of the Council of Ministers (from Rajendra Prasad's conflicts with Nehru, through M. C. Setalwad's opinion, to the Supreme Court's eventual endorsement and subsequent constitutional amendment) as a case study in the conversion of unwritten conventions into written rules."
+        context: Sathe positions Nehru as the executive pole in the constitutional convention dispute
+    key_passages: []
+  - thinker: m-c-setalvad
+    role: mention
+    reasoning: "Setalvad's legal opinion is the intermediate jurisprudential step in Sathe's reconstruction of how the Prasad–Nehru dispute over Presidential obligation was eventually settled by the Supreme Court and codified by constitutional amendment."
+    evidence:
+      - quote: "using the controversy over the President's obligation to act on the advice of the Council of Ministers (from Rajendra Prasad's conflicts with Nehru, through M. C. Setalwad's opinion, to the Supreme Court's eventual endorsement and subsequent constitutional amendment) as a case study in the conversion of unwritten conventions into written rules."
+        context: "Setalvad's opinion is cited as the bridge between political dispute and judicial settlement"
+    key_passages: []
+  - thinker: indira-gandhi
+    role: mention
+    reasoning: "Sathe cites Mrs. Gandhi's practice of forcing ministers to resign despite legal clearance as a positive Indian precedent for the proposition that healthy political conventions enforce accountability beyond what the law alone requires."
+    evidence:
+      - quote: "giving the examples of Profumo in England and Mrs. Gandhi's forcing of ministers to resign despite legal clearance."
+        context: "Sathe pairs the Profumo case with Mrs. Gandhi's ministerial-resignation practice as exemplars of convention-driven accountability"
+    key_passages: []
+  - thinker: friedrich-hayek
+    role: mention
+    reasoning: "Karnik invokes Hayek's 'Fatal Conceit' as the canonical statement of planning hubris — using it to frame his rejection of the State-versus-market dichotomy in favour of institutional complementarity."
+    evidence:
+      - quote: "Karnik articulates the liberal position as rejecting any false State-versus-market dichotomy in favour of complementarity, invoking Hayek's \"Fatal Conceit\" as the danger of planning hubris."
+        context: "Karnik deploys Hayek's title-concept against planning ambition in his liberal economic argument"
+    key_passages: []
+  - thinker: jagdish-bhagwati
+    role: mention
+    reasoning: "Karnik adjudicates the globalisation debate by explicitly preferring Bhagwati's 'In Defense of Globalisation' to Stiglitz's critique, using Bhagwati as the authority that trade liberalisation unambiguously benefits growth and lowers poverty."
+    evidence:
+      - quote: "globalisation (trade liberalisation unambiguously benefits growth and lowers poverty; Bhagwati's \"In Defense of Globalisation\" is preferred to Stiglitz's critique)"
+        context: "Karnik adopts Bhagwati's pro-globalisation case as his ILG-position authority"
+      - quote: "Globalisation is defended via Bhagwati against Stiglitz: trade liberalisation unambiguously lowers poverty; selective safety nets, not closure, are the correct policy response to transition costs."
+        context: key-points reprise marks Bhagwati as the named authority on the pro-trade side of the debate
+    key_passages: []
+  - thinker: joseph-stiglitz
+    role: mention
+    reasoning: "Stiglitz serves as Karnik's named foil in the globalisation debate — Karnik explicitly prefers Bhagwati's defence of globalisation to Stiglitz's critique, positioning Stiglitz as the leading sceptic Karnik argues against."
+    evidence:
+      - quote: "globalisation (trade liberalisation unambiguously benefits growth and lowers poverty; Bhagwati's \"In Defense of Globalisation\" is preferred to Stiglitz's critique)"
+        context: Karnik names Stiglitz as the principal critic of globalisation he rejects
+      - quote: "Globalisation is defended via Bhagwati against Stiglitz: trade liberalisation unambiguously lowers poverty; selective safety nets, not closure, are the correct policy response to transition costs."
+        context: key-points reprise restates Stiglitz as the named anti-globalisation foil
+    key_passages: []
+  - thinker: hernando-de-soto
+    role: mention
+    reasoning: "Karnik draws heavily on Hernando de Soto for his property-rights section, using de Soto's work on Peru and developing-country experience to argue that it is the enforcement of rights — not their formal existence — that matters for development and that the poor suffer most from non-enforcement."
+    evidence:
+      - quote: A sixth section, on property rights, draws heavily on Hernando de Soto to argue that it is the enforcement of rights — not their formal existence — that matters for development and that the poor suffer most from their non-enforcement.
+        context: Karnik names de Soto as the principal authority on property-rights enforcement as the key institutional gap for the poor
+      - quote: "Property-rights enforcement — not their formal legal existence — is the key institutional gap for the poor, drawing on de Soto's work on Peru and developing-country experience."
+        context: key-points reprise re-credits de Soto for the enforcement-not-existence framing
+    key_passages: []
+  - thinker: karl-polanyi
+    role: mention
+    reasoning: "Karnik engages Polanyi's 'The Great Transformation' directly, calling Polanyi's characterisation of market society as a 'satanic mill' graphically false and treating Polanyi as the rhetorical resource anti-reform forces still draw from."
+    evidence:
+      - quote: "Karnik engages Karl Polanyi's \"The Great Transformation\" directly, calling Polanyi's characterisation of market society as a \"satanic mill\" graphically false, and likening the liberal economist's task of persistently arguing for market institutions to Sisyphus condemned to roll a boulder up a mountain."
+        context: Karnik treats Polanyi as the canonical anti-market thinker his liberal argument must dismantle
+      - quote: "Polanyi's \"Great Transformation\" is challenged directly as a false romanticisation of pre-market society that has become a rhetorical resource for anti-reform forces."
+        context: "key-points reprise reaffirms Polanyi as Karnik's named opponent in the institutional-economics debate"
+    key_passages: []
+  - thinker: abraham-lincoln
+    role: mention
+    reasoning: "Prabhu opens his judicial-reform position paper by invoking Lincoln's definition of democracy — paired with Palkhivala's lament — to frame India's judicial crisis as a failure of the three constitutional pillars to uphold the Rule of Law."
+    evidence:
+      - quote: "Drawing on Lincoln's definition of democracy and Palkhivala's lament that Indians received a Constitution but not the ability to cherish it, Prabhu frames the crisis as a failure of all three constitutional pillars — Legislature, Judiciary, and Executive — to uphold the Rule of Law"
+        context: "Prabhu pairs Lincoln's definition with Palkhivala's lament as the moral-political framing of the paper"
+      - quote: Prabhu opens by invoking Lincoln and Palkhivala to argue that India has a Constitution but has failed to develop the capacity to cherish or enforce it.
+        context: "key-points reprise positions Lincoln as Prabhu's opening democratic authority"
+    key_passages: []
+  - thinker: nani-palkhivala
+    role: mention
+    reasoning: "Palkhivala's lament — that Indians received a Constitution but not the ability to cherish it — supplies the indigenous-liberal authority Prabhu pairs with Lincoln to frame his diagnosis of judicial decay."
+    evidence:
+      - quote: "Drawing on Lincoln's definition of democracy and Palkhivala's lament that Indians received a Constitution but not the ability to cherish it, Prabhu frames the crisis as a failure of all three constitutional pillars — Legislature, Judiciary, and Executive — to uphold the Rule of Law"
+        context: "Palkhivala's lament is the Indian-liberal half of the dual framing that opens Prabhu's paper"
+      - quote: Prabhu opens by invoking Lincoln and Palkhivala to argue that India has a Constitution but has failed to develop the capacity to cherish or enforce it.
+        context: "key-points reprise pairs Palkhivala with Lincoln as Prabhu's twin authorities"
+    key_passages: []
+  - thinker: ram-jethmalani
+    role: mention
+    reasoning: "Prabhu cites Jethmalani's mordant observation that there are really only two kinds of judges — those who know law and those who know the Law Minister — as evidence for the politicisation of the collegium appointments system and his call for a transparent Judicial Service Commission."
+    evidence:
+      - quote: "citing the Law Commission's 14th Report and Ram Jethmalani's observation that there are really only two kinds of judges — those who know law and those who know the Law Minister."
+        context: "Prabhu uses Jethmalani's epigram as the rhetorical core of his attack on the collegium system"
+      - quote: The collegium system for judicial appointments is criticised as non-transparent and susceptible to political and partisan influence, with Ram Jethmalani cited as evidence.
+        context: "key-points reprise highlights Jethmalani as Prabhu's witness against the collegium"
+    key_passages: []
+  - thinker: narasimha-rao
+    role: mention
+    reasoning: "Raju's President's Address credits the Congress government led by Narasimha Rao with initiating India's economic U-turn in the early 1990s — positioning Rao's administration as the historical inflection point Raju's liberal-party argument builds on."
+    evidence:
+      - quote: He credits the Congress government led by Narasimha Rao (and its Finance Minister, now Prime Minister) with initiating the economic U-turn, and observes that successive NDA and UPA governments have continued that direction despite Left pressure.
+        context: "Raju anchors his account of post-1991 liberalisation in Narasimha Rao's premiership"
+    key_passages: []
+  - thinker: friedrich-naumann
+    role: mention
+    reasoning: "Von Welck's address frames the entire Foundation as the institutional projection of Friedrich Naumann's vision of civic education and participatory democracy — devoting a substantial section to Naumann's biography and his 'Free Academy for Politics' as the genealogical origin of the FNF's mission."
+    evidence:
+      - quote: "the Foundation as the institutional vehicle through which Germany's liberal tradition — rooted in Friedrich Naumann's vision of civic education and participatory democracy — is projected internationally."
+        context: "Von Welck names Naumann as the ideological root of the foundation's international mission"
+      - quote: "the Foundation took its name from Friedrich Naumann (1860–1919), a pastor-turned-politician whose most consequential legacy was the plan for a 'Free Academy for Politics' designed to educate citizens for democracy."
+        context: "Von Welck's biographical sketch of Naumann grounds the foundation's civic-education mission"
+      - quote: "The FNF was founded on 19 May 1958 in Germany and takes its name and civic-education mission from Friedrich Naumann (1860–1919), whose 'Free Academy for Politics' concept shaped the Foundation's participatory ethos."
+        context: key-points reprise reaffirms Naumann as the namesake whose pedagogical concept defines the FNF
+    key_passages: []
+  - thinker: theodor-heuss
+    role: mention
+    reasoning: "Von Welck identifies Theodor Heuss — Federal Republic President at the time — as the patron under whom the Friedrich Naumann Foundation was established in 1958, locating Heuss in the foundation's origin story."
+    evidence:
+      - quote: established in Germany on 19 May 1958 under the patronage of Federal Republic President Theodor Heuss
+        context: Von Welck records Heuss as the founding patron of the FNF in 1958
+    key_passages: []
+  - thinker: ken-schoolland
+    role: mention
+    reasoning: "Von Welck closes his address with an extended reading from Ken Schoolland's The Adventures of Jonathan Gullible, presenting 'Jonathan's Guiding Principles' as a distillation of the self-ownership and non-aggression principles that anchor the Foundation's philosophy."
+    evidence:
+      - quote: "The address closes (in the rendered pages) with an extended reading from 'Jonathan's Guiding Principles' in Ken Schooland's The Adventures of Jonathan Gullible, presented as a distillation of self-ownership and non-aggression principles"
+        context: "Von Welck's address turns to Schoolland's libertarian fable as its closing philosophical text"
+      - quote: "The address ends with a reading from Ken Schooland's libertarian fable The Adventures of Jonathan Gullible as a statement of the FNF's philosophical foundations; the text is cut off mid-passage in the rendered pages."
+        context: "key-points reprise reaffirms Schoolland as the closing authority of von Welck's address"
+    key_passages: []
+  - thinker: t-subbaya-shetty
+    role: mention
+    reasoning: "Subbaya Shetty is credited in the Preface's organisational acknowledgements as one of the named organisers of the Mangalore Chapter that hosted the Second National Convention."
+    evidence:
+      - quote: "Mangalore Chapter organisers credited: G. Giridhar Prabhu, T. Subbaya Shetty, S. L. Shanbhogue, M. R. N. Pai, Claret D'Souza, Dr. Satheesh Rao, K. Prakash Rao."
+        context: "Preface's organisational acknowledgements name Subbaya Shetty among the host-chapter organisers"
+    key_passages: []
+  - thinker: claret-dsouza
+    role: mention
+    reasoning: "Claret D'Souza is credited in the Preface as one of the Mangalore Chapter organisers of the Second National Convention, marking her institutional contribution to the gathering."
+    evidence:
+      - quote: "Mangalore Chapter organisers credited: G. Giridhar Prabhu, T. Subbaya Shetty, S. L. Shanbhogue, M. R. N. Pai, Claret D'Souza, Dr. Satheesh Rao, K. Prakash Rao."
+        context: "Preface's organisational acknowledgements list D'Souza among the host-chapter organisers"
     key_passages: []
 
 ---

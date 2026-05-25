@@ -12,9 +12,9 @@ editors: []
 contributors:
   - role: translator
     thinker: kaushal-kishor
-related_thinkers:
-  - abraham-lincoln
-  - parth-shah
+related_thinkers: 
+  - thomas-robert-malthus
+
 publication:
   language: hi
   publisher_id: centre-for-civil-society
@@ -52,6 +52,17 @@ physical:
   pages_total: 97
   pages_total_source: pypdfium2
   format: paperback book
+thinker_mentions:
+  - thinker: thomas-robert-malthus
+    role: mention
+    reasoning: "Chakraverti's primer is positioned as a direct rebuttal of Malthusian population pessimism, with Chapter 2 inverting Malthus's argument by treating population growth as a source of prosperity through the division of labour rather than a cause of poverty."
+    evidence:
+      - quote: directly challenges the Malthusian consensus in Indian public discourse
+        context: "Chapter 2 framed as a structural refutation of Malthus's population thesis as it has settled into Indian public discourse"
+      - quote: Chapter 2 inverts the standard Malthusian argument
+        context: "key-points restatement; the Malthusian frame is the explicit foil against which the book's pro-population case is built"
+    key_passages: []
+
 ---
 ## Summary
 

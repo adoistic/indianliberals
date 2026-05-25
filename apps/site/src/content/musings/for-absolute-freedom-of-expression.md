@@ -11,30 +11,42 @@ draft: false
 thinker_mentions:
   - thinker: john-stuart-mill
     role: mention
-    reasoning: "The essay explicitly revisits Mill's harm principle as the philosophical anchor for its case that freedom of expression must be absolute, using it to set up — and then challenge — the standard liberal boundary on speech."
+    reasoning: "Mill's On Liberty and the Harm Principle are the essay's central scaffolding — Kapoor quotes Mill's introductory chapter at length to argue that opinions, unlike actions, must be unmolested unless their delivery constitutes incitement to violence."
     evidence:
-      - quote: "Mill's idea of the harm principle, the fear of freedom, and the roots of such fear."
-        context: "intro frames the essay's entire argument around Mill's harm principle"
+      - quote: "even John Stuart Mill, arguably the greatest champion of \"the fullest liberty of professing and discussing,\" talked about what came to known as the Harm Principle"
+        context: introduces Mill as the canonical liberal anchor before quoting On Liberty at length
+      - quote: "Mill would not accept any curbs on the freedom of speech except in rare circumstances- to \"an excited mob\" against corn-dealers \"before the house of a corn-dealer.\""
+        context: "Kapoor reads Mill's corn-dealer example as fixing the narrow circumstance where speech can be regulated"
     key_passages: []
   - thinker: bibek-debroy
     role: mention
-    reasoning: "The author cites Debroy's 2007 Indian Express article to represent the position that individual rights are never absolute, then uses it as a foil to argue for genuinely unlimited expression."
+    reasoning: "Bibek Debroy's 2007 Indian Express column is held up as the cautionary example of a liberty-defender confusing freedom of expression with freedom of action — Kapoor singles Debroy out for lumping defamation with perjury and copyright violations as restrictable speech."
     evidence:
-      - quote: "Bibek Debroy's article, titled 'Politics of bans and rights,' in The Indian Express on November 28, 2007."
-        context: "Debroy's piece is quoted as a liberal counter-voice the author disagrees with on the absoluteness of rights"
+      - quote: "Consider Bibek Debroy's article, titled 'Politics of bans and rights,' in The Indian Express on November 28, 2007."
+        context: Kapoor uses Debroy as his within-the-liberal-camp counterexample to illustrate the conceptual mistake the essay aims to clear up
+      - quote: Notice how he mixes various things- freedom of expression with freedom of action, defamation with perjury and copyright violations.
+        context: "Kapoor's direct critique of Debroy's analytic conflation"
+    key_passages: []
+  - thinker: immanuel-kant
+    role: mention
+    reasoning: "Kant's noumenon is invoked to mark the limit of Kapoor's epistemological claim — Kapoor explicitly distances himself from a Kantian assertion that reality is unknowable, instead arguing only that no universal definition of reality exists."
+    evidence:
+      - quote: I do not claim that the reality does not exist or, as Kant said, that it is unknowable (noumenon); this question is beyond the scope of my thesis.
+        context: Kant is bracketed off as the deeper metaphysical position Kapoor declines to defend, narrowing his case to plurality of definitions
     key_passages: []
   - thinker: rajiv-gandhi
     role: mention
-    reasoning: "Rajiv Gandhi's government is cited as the authority that banned The Satanic Verses after a petition by Syed Shahabuddin, illustrating the essay's argument that the Indian state has repeatedly capitulated to censorship pressure."
+    reasoning: "The Rajiv Gandhi government's 1988 ban on Satanic Verses is presented as the Indian watershed proving 'the Indian political class could be subdued by a mix of rhetoric, threat, and downright violence' — the foundational episode for Kapoor's case against expression-restriction-as-cowardice."
     evidence:
-      - quote: Syed Shahabuddin petitioned the Rajiv Gandhi government the same. The government immediately responded and banned the book on October 5.
-        context: concrete historical instance of state censorship used to support the case for absolute expression
+      - quote: Parliamentarian and editor of the monthly magazine Muslim India Syed Shahabuddin petitioned the Rajiv Gandhi government the same. The government immediately responded and banned the book on October 5.
+        context: "the Rajiv Gandhi government's swift Satanic Verses ban is the essay's pivotal case-study of capitulation"
     key_passages: []
 related_thinkers: 
   - bibek-debroy
   - immanuel-kant
   - john-stuart-mill
   - rajiv-gandhi
+
 source_channel: "so-musings"
 proposed_themes:
   - "censorship"

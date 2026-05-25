@@ -14,15 +14,16 @@ contributors:
     thinker: r-k-amin
   - role: editor
     thinker: parth-shah
-related_thinkers:
+related_thinkers: 
   - jayaprakash-narayan
   - jrd-tata
+  - margaret-thatcher
   - milton-friedman
   - minoo-masani
   - p-n-haksar
   - peter-bauer
   - vinoba-bhave
-  - sumati-morarjee
+
 
 publication:
   language: en
@@ -66,56 +67,71 @@ physical:
 thinker_mentions:
   - thinker: milton-friedman
     role: mention
-    reasoning: "Milton Friedman is cited as the most prominent international witness to Shenoy's prophetic status, having called him 'a prophet unhonoured in his own country' as early as 1963, which provides the editorial rationale for the title of the collected works."
+    reasoning: "Friedman supplies the title and the canonisation: he had identified Shenoy as a 'prophet unhonoured in his own country' as early as 1963, and Amin's editorial frame uses Friedman's Nobel authority to vindicate Shenoy's career-long dirigisme critique."
     evidence:
-      - quote: "It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country'"
-        context: "opening tribute establishing Friedman's endorsement as the book's founding authority"
-      - quote: "Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail"
-        context: "framing Shenoy's forecasts as externally validated by Nobel-level witnesses"
+      - quote: "it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail"
+        context: "preface establishes Friedman as one of the two international validators of Shenoy's prophetic stance"
+      - quote: "It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country' and Peter Bauer describing him as 'a hero and a saint.'"
+        context: "Friedman's epithet supplies the volume's title — 'Economic Prophecies' — and its opening rhetorical move"
     key_passages: []
   - thinker: peter-bauer
     role: mention
-    reasoning: "Peter Bauer's description of Shenoy as 'a hero and a saint' is cited alongside Friedman's tribute to establish Shenoy's standing among international development economists who dissented from the aid-and-planning orthodoxy."
+    reasoning: "Bauer is paired with Friedman as the second of two Western witnesses to Shenoy's prophetic stature, his description of Shenoy as 'a hero and a saint' framing the moral as well as the analytical case for posthumous vindication."
     evidence:
-      - quote: "Peter Bauer describing him as 'a hero and a saint.'"
-        context: "Bauer's tribute paired with Friedman's to frame the editors' prefatory vindication of Shenoy"
+      - quote: "it recalls Shenoy's forecast, validated by Nobel Laureate Milton Friedman and Peter Bauer, that India's socialist dirigisme would fail"
+        context: "Bauer co-validates the Shenoy prophecy in the editors' framing"
+      - quote: "It opens with Milton Friedman calling Shenoy 'a prophet unhonoured in his own country' and Peter Bauer describing him as 'a hero and a saint.'"
+        context: "Bauer's 'hero and saint' phrase opens the Editor's Note alongside Friedman's 'prophet' epithet"
     key_passages: []
   - thinker: jrd-tata
     role: mention
-    reasoning: "J. R. D. Tata's warning about communist infiltration into government is the direct trigger for Shenoy's 'Free enterprise in danger' essay, which endorses and elaborates Tata's ASSOCHAM seminar statement."
+    reasoning: "JRD Tata's 1975 ASSOCHAM warning of communist infiltration into government is the explicit hook for Shenoy's 'Free enterprise in danger' essay, with Shenoy positioning himself as Tata's empirical second on the looming public-sector takeover."
     evidence:
       - quote: "Written in May 1975 in support of statements made by industrialist J R D Tata at an ASSOCHAM seminar, 'Free enterprise in danger' argues that communist infiltration into government and the escalating appropriation of private-sector investment resources by the public sector are placing private enterprise on the path to extinction."
-        context: "Tata's public statement is the direct occasion for Shenoy's essay"
+        context: "Tata's seminar speech is the trigger for Shenoy's essay"
+      - quote: "JRD Tata's warning of communist infiltration into key government positions is endorsed and elaborated"
+        context: summary key-point underscoring Tata as the political-economic ally Shenoy is defending
     key_passages: []
   - thinker: p-n-haksar
     role: mention
-    reasoning: "Haksar's counter-claim that 90 per cent of national product still comes from the private sector is directly rebutted by Shenoy, who shifts the diagnostic frame from output share to investment share to show the true extent of public-sector appropriation."
+    reasoning: "Haksar is Shenoy's foil — the Planning Commission deputy chairman whose '90 per cent of national product comes from the private sector' defence Shenoy rebuts by reframing the question around investment-resource share rather than current output."
     evidence:
       - quote: "Shenoy rebuts Planning Commission Deputy Chairman P N Haksar's counter-claim that 90 per cent of national product still comes from the private sector"
-        context: "Shenoy's rebuttal of Haksar establishes the analytical pivot from output share to investment share"
+        context: Haksar is named as the official voice Shenoy is dismantling
+      - quote: "Haksar's 90-per-cent private-sector-output defence is rejected: the decisive variable is the public sector's share of investment resources, not current output"
+        context: summary key-point making the Haksar rebuttal the analytic centrepiece of the essay
     key_passages: []
   - thinker: jayaprakash-narayan
     role: mention
-    reasoning: Jayaprakash Narayan is cited as a political voice who, despite ostensibly supporting free enterprise, hedged his defence of the business community; and as a possible Gandhian prime minister who could not correct the chaos without restructuring public-sector policy.
+    reasoning: "JP appears twice — once as a hypothetical Gandhian prime minister whose moral authority would still be insufficient to reverse the planning-era damage without structural reform, and once as an 'ostensible friend' of free enterprise whose support Shenoy finds inconsistent."
     evidence:
-      - quote: even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays
-        context: "Shenoy's argument that even sympathetic leadership would require radical policy change"
+      - quote: Shenoy closes by arguing that even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays.
+        context: JP invoked as a moral-authority limit case — even his leadership would be inadequate without policy restructuring
       - quote: The essay documents how the Swatantra Party, Jayaprakash Narayan, and M R Masani — ostensibly friends of free enterprise — nevertheless hedged their support for the business community.
-        context: "Shenoy's critique of inconsistency among sympathetic political voices"
+        context: JP is criticised for hedged defence of entrepreneurial freedom
     key_passages: []
   - thinker: vinoba-bhave
     role: mention
-    reasoning: Vinoba Bhave is invoked alongside Jayaprakash Narayan as an example of a sympathetic Gandhian leader who, even if prime minister, could not fix the structural policy crisis without deep cuts in public-sector outlays.
+    reasoning: "Vinoba is paired with JP as the second hypothetical Gandhian prime minister: even Sarvodaya leadership at the top of government, Shenoy argues, would be insufficient to reverse India's economic course without a thorough cut to public-sector outlays."
     evidence:
-      - quote: even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays
-        context: "Shenoy's argument about the structural nature of the policy problem"
+      - quote: Shenoy closes by arguing that even a Gandhian government — with J P Narayan or Vinoba Bhave as prime minister — could not correct the chaos without a thorough restructuring of policies including heavy cuts in public-sector outlays.
+        context: Vinoba named as a hypothetical Gandhian prime minister whose moral authority alone could not redeem the planning-era economy
     key_passages: []
   - thinker: minoo-masani
     role: mention
-    reasoning: "Masani is cited alongside Swatantra Party and Jayaprakash Narayan as among those ostensibly friendly to free enterprise who nevertheless failed to consistently defend entrepreneurial freedom in 'Image of the Indian entrepreneur'."
+    reasoning: "Masani is grouped with the Swatantra Party and JP as an 'ostensible friend' of free enterprise whom Shenoy faults for hedged, inconsistent defence of the Indian businessman against socialist caricature."
     evidence:
       - quote: The essay documents how the Swatantra Party, Jayaprakash Narayan, and M R Masani — ostensibly friends of free enterprise — nevertheless hedged their support for the business community.
-        context: "Shenoy's critique of the half-hearted support for business among political allies"
+        context: Masani is named among the supposed allies who failed to defend entrepreneurial freedom consistently
+      - quote: Even sympathetic political voices (Swatantra, JP, Masani) do not consistently defend entrepreneurial freedom
+        context: summary key-point making Masani part of the failure-of-allies critique
+    key_passages: []
+  - thinker: margaret-thatcher
+    role: mention
+    reasoning: "Thatcher is invoked in Amin's roll-call of post-1978 global vindications of Shenoy — the Thatcher and Reagan turn, the Soviet collapse, and India's 1991 reforms together stand as retrospective proof that Shenoy's anti-statist diagnosis was correct."
+    evidence:
+      - quote: "Post-1978 global events — Thatcher, Reagan, collapse of USSR, India's 1991 liberalisation — are offered as retrospective proof"
+        context: "Thatcher is named in the editor's vindication ledger as one of the historical events that posthumously confirms Shenoy"
     key_passages: []
 
 ---

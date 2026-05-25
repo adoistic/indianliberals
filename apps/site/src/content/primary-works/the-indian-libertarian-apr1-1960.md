@@ -27,12 +27,18 @@ contributors:
     toc_index: 6
   - role: author
     thinker: a-d-cohen
-related_thinkers:
-  - kusum-lotwala
+related_thinkers: 
+  - a-d-cohen
+  - a-ranganathan
+  - bernard-iddings-bell
+  - jawaharlal-nehru
+  - karl-marx
   - m-n-roy
+  - m-n-tholal
   - ma-venkata-rao
   - v-k-krishna-menon
-  - zhou-enlai
+  - v-vijayatunga
+
 
 publication:
   language: en
@@ -72,35 +78,81 @@ physical:
 missing_metadata_flags:
   - no_issn
 thinker_mentions:
-  - thinker: kusum-lotwala
+  - thinker: jawaharlal-nehru
     role: mention
-    reasoning: The Indian Libertarian is the journal edited by Miss Kusum Lotwala; this 1960 issue is part of the same Libertarian Publishers (Private) Ltd. series under her editorship.
+    reasoning: "Nehru is the central political target of the issue: the editorial, Venkata Rao's and Tholal's essays, and the Rationalist Supplement all indict his China policy, his interference in the Nanavati matter, and his attempts to silence Rationalist and Swatantra critics as anti-national."
     evidence:
-      - quote: "The Indian Libertarian (Vol. VIII No. 1, April 1, 1960) is a fortnightly periodical published from Bombay, incorporating the earlier 'Free Economic Review' and 'The Indian Rationalist'."
-        context: "the journal under Lotwala's editorship, per the established editorial succession across volumes"
-    key_passages: []
-  - thinker: ma-venkata-rao
-    role: mention
-    reasoning: "M. A. Venkata Rao wrote 'Containing Red China' arguing for a complete recasting of India's foreign policy toward China, and also contributed the book review of Volin's Soviet collective farm history."
-    evidence:
-      - quote: "M. A. Venkata Rao's essay 'Containing Red China' argues that India's China policy has been disastrously misconceived from the start."
-        context: "Venkata Rao as a named contributor to the 1960 issue's foreign policy argument"
-      - quote: "The book review covers 'The History of a Soviet Collective Farm' by Volin, reviewed by A. Venkata Rao."
-        context: Venkata Rao also as reviewer, drawing parallels to Indian planning
+      - quote: Nehru is criticised for advising the Governor and Chief Minister in the Nanavati matter rather than respecting judicial independence
+        context: editorial bullet; charges Nehru with executive overreach into a judicial process
+      - quote: "Venkata Rao blames Nehru's ideological pro-China bias for India's failure to respond adequately to Chinese aggression on the northern border"
+        context: "Venkata Rao essay summary; frames Nehru's China policy as ideologically captured"
+      - quote: "Tholal criticises Nehru's conflation of personal diplomacy with national interest, arguing that genuine national security cannot rest on one man's relationships"
+        context: "Tholal essay summary; targets the cult-of-personality element in Nehru's foreign policy"
     key_passages: []
   - thinker: v-k-krishna-menon
     role: mention
-    reasoning: "Krishna Menon is accused in the editorial of publicly defending China and acting as Beijing's advocate within the Indian Cabinet, framing India's China policy failure as partly his personal responsibility."
+    reasoning: "Krishna Menon is named in the editorial as Beijing's principal advocate inside the Indian Cabinet, illustrating the issue's argument that pro-China voices in Nehru's inner circle have disarmed Indian foreign policy."
     evidence:
       - quote: "Krishna Menon is accused of publicly defending China and acting as Beijing's advocate within the Indian Cabinet"
-        context: editorial attack on Krishna Menon as a pro-China voice within the Nehru government
+        context: editorial bullet; specific charge of cabinet-level pro-China advocacy
+    key_passages: []
+  - thinker: ma-venkata-rao
+    role: mention
+    reasoning: "Venkata Rao contributes both the lead foreign-policy essay 'Containing Red China' — a sustained brief for abandoning non-alignment and joining SEATO/CENTO — and the book review of Volin's history of Soviet collective farms, used to argue by analogy against Indian planning."
+    evidence:
+      - quote: "M. A. Venkata Rao's essay 'Containing Red China' argues that India's China policy has been disastrously misconceived from the start."
+        context: "section header summary; establishes Venkata Rao as the issue's leading foreign-policy voice"
+      - quote: Argues India should abandon non-alignment and align with SEATO and CENTO as the only effective containment mechanism for Chinese expansion
+        context: "key-point bullet; captures Venkata Rao's core prescription"
+    key_passages: []
+  - thinker: m-n-tholal
+    role: mention
+    reasoning: "Tholal's 'The Silver Lining' reframes the 1959–60 Chinese aggression as a salutary shock that should force India to shed its non-alignment illusions, cultivate military capacity, and break Congress's monopoly on public discourse."
+    evidence:
+      - quote: "M. N. Tholal's 'The Silver Lining' offers a more measured but still critical appraisal of the Chinese crisis, framing it as an opportunity for India to shed its foreign-policy illusions and develop genuine national character."
+        context: "section opener summarising Tholal's essay; captures his contrarian framing of the crisis"
+    key_passages: []
+  - thinker: v-vijayatunga
+    role: mention
+    reasoning: "Vijayatunga's 'Whose Fascist Baby Are You?' relocates the real authoritarian threat in India away from fringe political parties and onto entrenched Brahmanical social authority — an 'unofficial state' that political independence has barely touched."
+    evidence:
+      - quote: "V. Vijayatunga's 'Whose Fascist Baby Are You?' argues that the term 'fascism' is loosely applied in Indian political discourse, and that the real authoritarian danger comes not from any marginal party but from the entrenched social authority of Brahmanical tradition and its institutional heirs in independent India."
+        context: "section opener summarising Vijayatunga's thesis; relocates fascism debate from political parties to caste structure"
+    key_passages: []
+  - thinker: bernard-iddings-bell
+    role: mention
+    reasoning: "Bell's reprinted essay 'A Short History of Political Power' supplies the issue's philosophical scaffolding for fearing mid-century democratic decline, sketching a cycle from aristocracy through plutocracy and mob rule into totalitarianism."
+    evidence:
+      - quote: "Bernard Iddings Bell's 'A Short History of Political Power' (one page rendered) sketches a cyclical theory of political decline: aristocracy degenerates into plutocracy, plutocracy into mob rule, and mob rule into totalitarianism, from which a new aristocracy eventually arises."
+        context: "section opener; summarises Bell's cyclical political theory as deployed in the issue"
     key_passages: []
   - thinker: m-n-roy
     role: mention
-    reasoning: "M. N. Roy's followers attended the Rationalist Supplement seminar recorded in this issue, debating whether Rationalists should align with the Swatantra Party or maintain non-partisan advocacy."
+    reasoning: The Rationalist Supplement is convened by followers of M. N. Roy, anchoring the debate over whether Rationalists should align with Swatantra, stay non-partisan, or oppose Congress in his radical-humanist tradition.
     evidence:
-      - quote: "The Rationalist Supplement (inserted with separate roman-numeral pagination, I–IV) records a discussion held at 'Current Politics' seminar on 13th March in Bombay. Followers of M. N. Roy attended."
-        context: "Roy's intellectual legacy present through his followers at the Rationalist seminar"
+      - quote: Followers of M. N. Roy attended.
+        context: "Rationalist Supplement; identifies the seminar's Royist intellectual lineage"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "In the Rationalist Supplement, S. K. G. Rajan dismisses Marx as an economist while preserving him as a social thinker whose writings exposed capitalist misuse of power — an emblematically liberal-rationalist hedge on Marx's legacy."
+    evidence:
+      - quote: S. K. G. Rajan dismisses Marx as an economist but credits him as a social thinker whose writings exposed the misuse of power by capitalists
+        context: "Rationalist Supplement aside; splits Marx's economic from his social writings"
+    key_passages: []
+  - thinker: a-d-cohen
+    role: mention
+    reasoning: "Cohen contributes a short, forthright essay indicting the caste system as a form of perpetual servitude incompatible with democratic citizenship — extending the issue's critique of unfreedom beyond political authoritarianism into social hierarchy."
+    evidence:
+      - quote: a brief but forthright essay by A. D. Cohen indicts the caste system as a form of perpetual servitude incompatible with democratic citizenship
+        context: "summary of Cohen's essay; positions his critique of caste alongside the issue's other freedom arguments"
+    key_passages: []
+  - thinker: a-ranganathan
+    role: mention
+    reasoning: "Ranganathan is cited in the News Digest's Calicut University item defending English-medium higher education as the indispensable vehicle for scientific and liberal learning in India."
+    evidence:
+      - quote: "a pointed item from the Calicut University notes on English-medium instruction, citing A. Ranganathan's views on the importance of English as a vehicle for higher education and scientific literacy in India"
+        context: News Digest item; uses Ranganathan as authority for the pro-English-medium position
     key_passages: []
 
 ---

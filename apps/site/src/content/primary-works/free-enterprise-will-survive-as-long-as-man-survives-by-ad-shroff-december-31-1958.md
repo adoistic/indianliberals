@@ -8,10 +8,10 @@ authors:
   - a-d-shroff
 editors: []
 contributors: []
-related_thinkers:
-  - a-d-shroff
-  - jawaharlal-nehru
+related_thinkers: 
   - ayub-khan
+  - jawaharlal-nehru
+
 
 publication:
   language: en
@@ -49,23 +49,23 @@ missing_metadata_flags:
   - series_number_not_visible
   - theme_vocabulary_placeholder_in_prompt
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: subject
-    reasoning: "A. D. Shroff's pamphlet responds to Nehru's attacks on private enterprise and argues against monopolistic state food-grain trading, defending the inseparability of private enterprise and democracy."
-    evidence: []
-    key_passages:
-      - quote: "Nehru, he writes, has the political power to wield such a broom but cannot have any permanent effect, and the very sensitiveness on display is 'a weakness of small men born of the consciousness of having made mistakes and not having the moral courage to acknowledge them.'"
-        what_it_shows: "Shroff's characterisation of Nehru's irritability as evidence of bad governance rather than strength"
-      - quote: every diminution of private enterprise erodes the democratic way of life, and every citizen has a right to choose his avocation that State trading curtails
-        what_it_shows: "Shroff's foundational claim linking private enterprise to democratic freedom"
-      - quote: Estimates the displaced private food-grains trade at about Rs. 500 crores.
-        what_it_shows: concrete economic scale of the state-trading displacement Shroff opposes
   - thinker: jawaharlal-nehru
     role: mention
-    reasoning: "Nehru's Calcutta speech claiming that private sector critics 'can be swept away with a broomstick' is the direct provocation to which Shroff's entire pamphlet is a reply."
+    reasoning: "Nehru is the entire occasion of Shroff's reply: a recent batch of Nehru speeches attacking private enterprise — including the Calcutta 'broomstick' threat — is read as evidence of small-man irritation, doctrinal intolerance, and an inconsistency with Nehru's own democratic professions."
     evidence:
       - quote: "A. D. Shroff replies to a recent batch of speeches by Prime Minister Jawaharlal Nehru that attacked the private sector, in particular a Calcutta address in which Nehru reportedly said critics in the Private Sector 'can be swept away with a broomstick.'"
-        context: the provocative statement that triggers the pamphlet
+        context: "opening summary names Nehru's Calcutta address as the trigger for the entire pamphlet"
+      - quote: "Reads Nehru's sensitiveness as small-man weakness and as inconsistent with his own labelling of Ayub Khan's regime a 'naked military dictatorship.'"
+        context: "Shroff uses Nehru's own anti-Ayub rhetoric to expose what he sees as a democratic double standard"
+      - quote: "Against Nehru's contention that private enterprise and democracy can be separated, the Forum of Free Enterprise insists the opposite"
+        context: "frames the Forum's foundational position as a direct rebuttal of a Nehruvian thesis"
+    key_passages: []
+  - thinker: ayub-khan
+    role: mention
+    reasoning: "Shroff weaponises Nehru's own description of Ayub Khan's regime as a 'naked military dictatorship' to expose what he reads as the Prime Minister's intolerance of dissent — turning the Pakistani strongman into a rhetorical mirror held up to Nehru's democratic claims."
+    evidence:
+      - quote: "He pointedly contrasts the 'champion Democrat' with General Ayub Khan, whom Nehru has himself described as representing a 'naked military dictatorship', to suggest the Prime Minister's intolerance of dissent sits uneasily with his democratic claims."
+        context: "Ayub Khan is invoked as a rhetorical foil to embarrass Nehru's self-image as a democrat"
     key_passages: []
 
 ---

@@ -13,16 +13,82 @@ author: "minoo-masani"
 thinker_mentions:
   - thinker: indira-gandhi
     role: mention
-    reasoning: "Masani's press conference is structured around a sustained critique of Indira Gandhi's government, arguing it lacks a democratic mandate and is incapable of meeting the country's four priority needs."
+    reasoning: "Indira Gandhi is the press conference's principal political target — Masani argues she has lost the 1967 mandate after the Congress split, governs through Communist parliamentary support, and is reviving Nehruvian collectivisation of peasant farms under cover of a fresh attack on the fundamental right to property."
     evidence:
-      - quote: Masani argued how the Indira Gandhi government failed to address any of the aforementioned matters of priority
-        context: "editorial framing positions Indira Gandhi's government as the chief target of Masani's critique"
-      - quote: if she knows her constitutional duty, she will dissolve Parliament and go to the people and get a mandate
-        context: "Masani directly challenges Indira Gandhi's constitutional legitimacy"
+      - quote: the original mandate that Mrs Gandhi had got from the people in 1967 has expired as a result of the breaking up of the Party and her losing her majority
+        context: "the constitutional case against Indira Gandhi's continuance opens Masani's address"
+      - quote: What can be more dangerous to the stability and security of the country than a minority government, particularly when it depends for its survival on Communist support?
+        context: Masani frames her government as a security risk because of its Communist dependency
+      - quote: The Marxist Congress Party, led by the Prime Minister, wanted to follow that policy at a time when Marxism itself had become out of date.
+        context: Indira Gandhi as the contemporary inheritor of the misguided Marxian deprivation-of-property logic
     key_passages: []
-related_thinkers:
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Masani twice deploys Nehru against the current Indira Gandhi government — citing Nehru's Kathmandu line that 'socialism in a poor country means only the distribution of poverty' to mock Jagjivan Ram's distribution-over-production claim, and recalling that Nehru's Nagpur Resolution of 1959 was the very provocation that birthed the Swatantra Party."
+    evidence:
+      - quote: "It is interesting that Mr Jawaharlal Nehru, while speaking in Kathmandu in the middle fifties, gave the answer to Mr Jagjivan Ram when he said, \"Socialism in a poor country means only the distribution of poverty.\""
+        context: "Nehru's own line is turned against the Bombay session's redistribution rhetoric"
+      - quote: a similar attack was started by Mr Jawaharlal Nehru after the Nagpur Resolution in 1959. That, in fact, was the provocation for the coming into existence of my Party.
+        context: "Masani identifies the Nagpur Resolution as Swatantra's founding antagonist, making Nehru the original target the new attack revives"
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Masani uses Karl Marx as both validator and target — crediting Marx with correctly diagnosing that liberty requires control over one's physical environment, but indicting him for drawing the wrong conclusion that everyone must therefore be deprived of property rather than be guaranteed it."
+    evidence:
+      - quote: "It is only through control over one's physical environment that, to some extent, one is able to operate as a free man, as Karl Marx said."
+        context: Masani concedes a Marxist premise to invert the conclusion
+      - quote: "Instead of saying that everyone must therefore have property so that everyone may be free, he came to the conclusion that everyone must be deprived of property!"
+        context: "Masani's signature inversion of Marx's logic — the property-as-liberty argument"
+      - quote: "Our basic creed is free competition, a free market economy, plus Gandhiji's theory of Trusteeship. We believe in the Gandhian path to social justice, as opposed to that of Karl Marx."
+        context: "Marx framed as Swatantra's ideological antithesis at the close of the address"
+    key_passages: []
+  - thinker: morarji-desai
+    role: mention
+    reasoning: "Morarji Desai's late conversion to the necessity of coalitions is welcomed by Masani as vindication of his own years-long argument that no single opposition party can replace the Indira government — making Desai a key signal that the era of coalitions has begun."
+    evidence:
+      - quote: I am very glad, therefore, that a strong opponent of coalitions like Mr Morarji Desai has now veered around to the view that coalitions are now inevitable.
+        context: "Desai's reversal supplies the political evidence for Masani's coalitions-thesis"
+    key_passages: []
+  - thinker: j-b-kripalani
+    role: mention
+    reasoning: "Acharya Kripalani's Ahmedabad call for the opposition to stop competing with Mrs Gandhi in socialist slogan-mongering is endorsed by Masani as the right strategic posture for building a broad-based democratic front."
+    evidence:
+      - quote: "I, therefore, welcome Acharya Kripalani's very sane advice, given at Ahmedabad, that opposition parties like the Opposition Congress, the Jan Sangh, and the Socialist parties should stop competing with the Prime Minister in her demagogy."
+        context: "Kripalani's intervention supplies Masani's template for opposition unity"
+    key_passages: []
+  - thinker: ludwig-erhard
+    role: mention
+    reasoning: "Ludwig Erhard, 'the maker of the German miracle', is quoted approvingly as the model for Swatantra's liberalisation programme — 'Let the men and the money loose; and they will make the country strong' — anchoring the Indian free-market case in a concrete post-war success."
+    evidence:
+      - quote: "We agree with Dr Ludwig Erhard, the maker of the German miracle, when he said, \"Let the men and the money loose; and they will make the country strong.\""
+        context: "Erhard supplies the operational slogan for Swatantra's liberalisation creed"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Gandhi anchors Swatantra's positive doctrine — Masani names 'Gandhiji's theory of Trusteeship' and the 'Gandhian path to social justice' as the party's basic creed, explicitly counter-posing Gandhi to Karl Marx as the ideological alternative."
+    evidence:
+      - quote: "Our basic creed is free competition, a free market economy, plus Gandhiji's theory of Trusteeship."
+        context: "Gandhi's Trusteeship doctrine cemented as Swatantra's third leg alongside free competition and free markets"
+      - quote: We believe in the Gandhian path to social justice, as opposed to that of Karl Marx.
+        context: "the explicit Gandhi-versus-Marx framing at the heart of Swatantra's self-definition"
+    key_passages: []
+  - thinker: atal-bihari-vajpayee
+    role: mention
+    reasoning: "Masani repudiates Atal Behari Vajpayee's call to 'Indianise' Muslims, Communists, and Western-leaning citizens — framing Vajpayee's Jan Sangh posture as the obscurantist counter-position from which Swatantra modernism distinguishes itself."
+    evidence:
+      - quote: "Mr Atal Behari Vajpayee of the Jan Sangh is quoted in the _Indian Express_ this morning as saying that there are three classes of people who need to be brought back to the \"path of rectitude\" and \"Indianised\"."
+        context: "Vajpayee's Jan Sangh formulation supplies Masani's foil to define Swatantra modernism against"
+    key_passages: []
+related_thinkers: 
+  - atal-bihari-vajpayee
   - indira-gandhi
   - j-b-kripalani
+  - jawaharlal-nehru
+  - karl-marx
+  - ludwig-erhard
+  - mahatma-gandhi
+  - morarji-desai
+
 proposed_themes:
   - "opposition-politics"
   - "swatantra-party"

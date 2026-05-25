@@ -5,11 +5,29 @@ pubDate: 2026-03-07T12:12:25
 author_name: "G Jayachandran"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-welfarists-right-property-life-liberty/2872286/"
 themes: ["welfare-state"]
-related_thinkers: ["g-jayachandran"]
+related_thinkers: 
+  - karl-marx
+  - ma-venkata-rao
+
 related_works: []
 noindex: true
 needs_review: true
 draft: false
+thinker_mentions:
+  - thinker: ma-venkata-rao
+    role: mention
+    reasoning: "The essay's inline 'Also read' callout points the reader to MA Venkata Rao's companion piece on collectivism, liberty, and the limited state — situating this anti-welfarist argument inside the broader Indian Libertarian Venkata Rao tradition of constitutional-liberal critique."
+    evidence:
+      - quote: "Violent class-war doctrines of Marx became the sole saviour of labour: MA Venkata Rao"
+        context: sidebar cross-reference establishing Venkata Rao as the companion authority on the same anti-collectivist debate
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: "Marx appears via the inline 'Also read' callout's title, framing the welfarist destruction of property rights as continuous with Marx's class-war doctrines that the cross-linked Venkata Rao piece critiques."
+    evidence:
+      - quote: "Violent class-war doctrines of Marx became the sole saviour of labour: MA Venkata Rao"
+        context: sidebar cross-link names Marx as the ideological progenitor whose class-war frame the welfarist programme inherits
+    key_passages: []
 
 ---
 

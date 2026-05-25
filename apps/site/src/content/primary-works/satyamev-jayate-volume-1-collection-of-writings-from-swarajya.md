@@ -8,9 +8,10 @@ authors:
   - c-rajagopalachari
 editors: []
 contributors: []
-related_thinkers:
-  - c-rajagopalachari
-  - anthony-eden
+related_thinkers: 
+  - john-foster-dulles
+  - khasa-subba-rau
+
 
 publication:
   language: en
@@ -51,17 +52,20 @@ missing_metadata_flags:
   - no_toc_page_in_chunk
   - isbn_not_found
 thinker_mentions:
-  - thinker: c-rajagopalachari
-    role: subject
-    reasoning: "The collection presents Rajagopalachari's weekly journalistic pieces for Swarajya between 1956 and 1961, framed as 'protests against errors' aimed at the regimentation of the Congress-ruled government, with Rajaji's voice and persona anchoring every article."
-    evidence: []
-    key_passages:
-      - quote: "Rajaji dedicates the volumes to Khasa Subba Rau, the editor whose encouragement made the Swarajya venture possible, and names the collection after the Sanskrit phrase 'Truth alone prevails' as an act of faith against entrenched official power."
-        what_it_shows: "Rajaji's own framing of the collection as a principled act of dissent, not mere commentary"
-      - quote: "In 'Value of Frank Criticism,' Rajaji invokes Socrates's self-description as a gadfly to argue that India's post-Independence press has surrendered its critical function"
-        what_it_shows: "Rajaji's diagnosis of press failure — the loss of independence that makes the Swarajya project necessary"
-      - quote: "'National and Official' and 'Commonsense vs. Pride' mount a sustained, carefully reasoned case against making Hindi the official language of the Union"
-        what_it_shows: "Rajaji's constitutional-democratic argument on language, distinguishing national culture from coercive state imposition"
+  - thinker: khasa-subba-rau
+    role: mention
+    reasoning: "Khasa Subba Rau is named in the Preface as the Swarajya editor whose encouragement enabled Rajaji's weekly column; the entire two-volume collection is dedicated to him."
+    evidence:
+      - quote: Rajaji dedicates the volumes to Khasa Subba Rau, the editor whose encouragement made the Swarajya venture possible
+        context: Preface; positions Subba Rau as the institutional patron behind the whole project that became Satyam Eva Jayate
+    key_passages: []
+  - thinker: john-foster-dulles
+    role: mention
+    reasoning: "Dulles's doctrine of brinkmanship is the object of Rajaji's foreign-policy critique in 'Brinkmanship at Suez', where it is read as a Cold War posture that compels peace-loving nations into unjust concessions."
+    evidence:
+      - quote: "Rajaji subjects John Foster Dulles's doctrine of brinkmanship to biting analysis, arguing that nuclear deterrence compels peace-loving nations to concede unjust terms"
+        context: "Summary of 'Brinkmanship at Suez'; frames Dulles as the policy author whose doctrine Rajaji takes apart"
+    key_passages: []
 
 ---
 ## Summary

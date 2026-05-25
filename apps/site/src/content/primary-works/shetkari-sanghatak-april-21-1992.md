@@ -19,10 +19,10 @@ contributors:
   - role: author
     thinker_unresolved: श्री. रताराव लहाणु सावरे
     toc_index: 3
-related_thinkers:
+related_thinkers: 
   - bhimrao-ambedkar
   - jyotirao-phule
-  - mahatma-gandhi
+
 publication:
   language: mr
   publisher_id: shetkari-sanghatana
@@ -58,6 +58,28 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
   format: Marathi fortnightly periodical (पाक्षिक); वार्षिक वर्गणी रु. २५, किंमत १ रुपया; posted at Market Yard PSO, Pune 37 on 21st April 1992
+thinker_mentions:
+  - thinker: jyotirao-phule
+    role: mention
+    reasoning: "Phule is the central historical anchor of the issue: Joshi's lead essay reclaims Phule's anti-Brahmin 'Bhat-shahi' critique as a defence of productive labour and the toiling peasant, and recruits Phule's legacy as the philosophical genealogy of the Shetkari Sanghatana's agrarian struggle."
+    evidence:
+      - quote: "Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class."
+        context: "summary frames Phule as Joshi's historical authority for the farmers' movement"
+      - quote: "Joshi's core argument is that Phule's 'Bhat-shahi' (Brahminical rule) stands for the exploiting, non-productive class — urbanised, priestly, bureaucratic — and that Phule's true enemy was economic exploitation of the toiling peasant, not Brahmin caste as such."
+        context: "essay-level paraphrase re-reads Phule's Brahminical-rule critique as a class-economic critique"
+      - quote: "Shetkari Sanghatana's agrarian movement is presented as the true contemporary continuation of Phule's anti-exploitation project."
+        context: "key-points closure positions Phule as the legitimating ancestor of Shetkari Sanghatana's contemporary struggle"
+    key_passages: []
+  - thinker: bhimrao-ambedkar
+    role: mention
+    reasoning: "Ambedkar is invoked as the prior major reinterpreter of Phule whose anti-caste reading Joshi acknowledges but distinguishes from his own anti-exploitation reading — making Ambedkar the foil against which Joshi defends his agrarian-economic appropriation of Phule's legacy."
+    evidence:
+      - quote: "The essay engages extensively with B. R. Ambedkar's later interpretations of Phule, noting that Ambedkar eventually framed Phule's anti-caste work in a different register; Joshi insists Phule was not anti-Hindu but anti-exploiter."
+        context: "Joshi positions his own reading of Phule against Ambedkar's later anti-caste framing"
+      - quote: "Ambedkar's later reinterpretation of Phule is noted and partly distinguished from Joshi's own reading."
+        context: key-points summary marks Ambedkar as the prior interpretive authority Joshi engages and partially diverges from
+    key_passages: []
+
 ---
 ## Summary
 

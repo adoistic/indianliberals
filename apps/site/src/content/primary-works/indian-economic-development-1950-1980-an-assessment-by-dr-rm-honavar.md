@@ -8,8 +8,9 @@ authors:
   - r-m-honavar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - a-d-shroff
+
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -53,6 +54,15 @@ authors_resolution:
   stubs_referenced:
     - r-m-honavar
   collisions_logged: []
+thinker_mentions:
+  - thinker: a-d-shroff
+    role: mention
+    reasoning: "Honavar's stock-taking of three decades of planned development is delivered as the A. D. Shroff Memorial Lecture, framing the entire indictment of India's licensing-and-deficit regime within Shroff's free-enterprise legacy."
+    evidence:
+      - quote: "Indian Economic Development 1950-1980: An Assessment is a Forum of Free Enterprise pamphlet reproducing Dr. R. M. Honavar's A. D. Shroff Memorial Lecture, delivered at the Madras Centre of the Forum in October 1981."
+        context: opening line establishes Shroff as the namesake-anchor of the address
+    key_passages: []
+
 ---
 
 ## Summary

@@ -10,10 +10,9 @@ editors: []
 contributors:
   - role: introduction
     thinker_unresolved: Minoo R. Shroff
-related_thinkers:
+related_thinkers: 
   - minoo-shroff
-  - a-p-j-abdul-kalam
-  - arun-shourie
+
 
 publication:
   language: en
@@ -62,12 +61,12 @@ authors_resolution:
 thinker_mentions:
   - thinker: minoo-shroff
     role: mention
-    reasoning: "Minoo R. Shroff, as President of the Forum of Free Enterprise, writes the introduction to Mashelkar's booklet — placing the address inside the FFE's editorial frame and the Shailesh Kapadia Memorial Trust sponsorship."
+    reasoning: "Minoo Shroff, as President of the Forum of Free Enterprise, writes the introduction to the booklet — the institutional sponsorship that brings Mashelkar's address into the Forum's free-enterprise publication stream two years after delivery."
     evidence:
       - quote: The booklet is introduced by Minoo R. Shroff, President of the Forum of Free Enterprise
-        context: "booklet apparatus; Minoo Shroff serves as the FFE editor framing Mashelkar's address"
-      - quote: introduced by Minoo R. Shroff, President of the Forum of Free Enterprise
-        context: key-points restatement; same editorial role re-affirmed
+        context: "closing biographical sentence of the summary; identifies Shroff's role as Forum president and introducer"
+      - quote: issued on 5 October 2010 with an introduction by Minoo R. Shroff
+        context: "key-point bullet; restates Shroff's introductory role tied to the 2010 publication date"
     key_passages: []
 
 ---

@@ -10,14 +10,10 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
-related_thinkers:
-  - mahatma-gandhi
-  - jawaharlal-nehru
-  - ashok-mehta
-  - m-l-dantewala
-  - albert-hirschman
-  - indira-gandhi
+related_thinkers: 
   - ashok-mitra
+  - m-l-dantewala
+
 publication:
   language: mr
   publisher_id: janashakti-vachak-chalval
@@ -58,6 +54,26 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - toc_entry_77_title_partially_legible
+thinker_mentions:
+  - thinker: ashok-mitra
+    role: mention
+    reasoning: "In the fourth essay 'नवे कलुषा कब्जी', Joshi names Ashok Mitra as part of a post-liberalisation rentier class of economists who defend planning-era price controls while personally benefiting from the system that harms farmers."
+    evidence:
+      - quote: notably Ashok Mitra and Dantewala, who champion planning-era controls while benefiting from them, and exposes how price controls damage farmers
+        context: "Summary of essay 4; pairs Mitra with Dantewala as the named targets of Joshi's anti-planner polemic"
+      - quote: Ashok Mitra and M. L. Dantewala are named as economists who provide ideological cover for planning-era price controls while personally benefiting from the system.
+        context: "Key-point bullet; restates the indictment of Mitra in Joshi's farmer-economics frame"
+    key_passages: []
+  - thinker: m-l-dantewala
+    role: mention
+    reasoning: "Dantewala is paired with Ashok Mitra in Joshi's fourth essay as a representative of the planning-era economists whose price-control advocacy Joshi treats as ideological cover for an extractive bureaucratic class that injures the farmer."
+    evidence:
+      - quote: notably Ashok Mitra and Dantewala, who champion planning-era controls while benefiting from them, and exposes how price controls damage farmers
+        context: Summary of essay 4; identifies Dantewala alongside Mitra as the named planner-economists Joshi attacks
+      - quote: Ashok Mitra and M. L. Dantewala are named as economists who provide ideological cover for planning-era price controls while personally benefiting from the system.
+        context: "Key-point bullet; restates Dantewala's role in Joshi's account of the planning-era rentier class"
+    key_passages: []
+
 ---
 ## Summary
 

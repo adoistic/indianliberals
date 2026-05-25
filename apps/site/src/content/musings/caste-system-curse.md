@@ -12,22 +12,34 @@ draft: false
 thinker_mentions:
   - thinker: bhimrao-ambedkar
     role: mention
-    reasoning: "Ambedkar is quoted extensively on the nature of caste as a mechanical rather than organic social institution, providing the key intellectual authority for the essay's anti-caste argument."
+    reasoning: "Ambedkar is cited twice as the authoritative voice on caste's anti-social character — both for the diagnosis that inter-caste co-operation happens 'mechanically' and for the verdict from his Gandhi-and-Congress book that the caste system is 'non-social but also anti-social'."
     evidence:
-      - quote: "\"mechanically\" as Dr Ambedkar has well put it. The same writer further says in his book \"What Gandhi and Congress have done for the untouchables\" that the caste system is not only \"non-social but also anti-social\"."
-        context: "Ambedkar's scholarly characterisation of caste provides the analytical framework the essay builds on"
+      - quote: "out of a healthy spirit of camaraderie and social co-operation, but \"mechanically\" as Dr Ambedkar has well put it"
+        context: "Kulkarni borrows Ambedkar's exact word to characterise the hollow cross-caste contact of public life"
+      - quote: "The same writer further says in his book \"What Gandhi and Congress have done for the untouchables\" that the caste system is not only \"non-social but also anti-social\""
+        context: "Ambedkar's verdict supplies the essay's strongest single indictment of caste"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Kulkarni closes by quoting Nehru's Discovery of India for the proposition that caste society is incompatible with equality of status and opportunity — using the Prime Minister's own words to anchor the demand for caste's abolition in mainstream Congress doctrine."
+    evidence:
+      - quote: "In the words of our Prime Minister Nehru – \"there can be no equality of status and opportunity within its framework, nor can there be political democracy and much less economic democracy."
+        context: "Kulkarni mobilises Nehru's authority for the essay's closing demand"
+      - quote: "Between these two conceptions, conflict is inherent. Only one of them can survive\" (J. Nehru, 'Discovery of India')."
+        context: the Discovery of India citation seals the argument that caste and democracy cannot coexist
     key_passages: []
   - thinker: mahatma-gandhi
     role: mention
-    reasoning: "Gandhi is referenced through the title of Ambedkar's book — 'What Gandhi and Congress have done for the untouchables' — implicitly positioning Gandhi as a contested figure in the anti-caste struggle."
+    reasoning: "Mahatma Gandhi appears via the title of Ambedkar's book 'What Gandhi and Congress have done for the untouchables', the source Kulkarni quotes for Ambedkar's verdict that the caste system is 'non-social but also anti-social'."
     evidence:
-      - quote: "in his book \"What Gandhi and Congress have done for the untouchables\" that the caste system is not only \"non-social but also anti-social\""
-        context: "Gandhi is invoked via Ambedkar's book title, framing the political record of Gandhi's Congress on untouchability as a subject demanding scrutiny"
+      - quote: "The same writer further says in his book \"What Gandhi and Congress have done for the untouchables\""
+        context: Gandhi enters the essay implicitly as the named subject of the Ambedkar text Kulkarni quotes
     key_passages: []
 related_thinkers: 
   - bhimrao-ambedkar
-  - d-m-kulkarni-libertarian
+  - jawaharlal-nehru
   - mahatma-gandhi
+
 source_channel: "so-musings"
 proposed_themes:
   - "caste-system"

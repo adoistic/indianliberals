@@ -62,13 +62,13 @@ contributors:
   - role: author
     thinker: trupti-parekh
     toc_index: 17
-related_thinkers:
-  - mehboob-desai
-  - swami-anand
-  - mahatma-gandhi
-  - jawaharlal-nehru
-  - rabindranath-tagore
+related_thinkers: 
   - javed-anand
+  - jawaharlal-nehru
+  - mahatma-gandhi
+  - rabindranath-tagore
+  - swami-anand
+
 publication:
   language: gu
   publisher_id: khoj
@@ -107,6 +107,47 @@ missing_metadata_flags:
   - issn_not_found
   - no_publisher_address_formal
   - toc_index_18_no_byline
+thinker_mentions:
+  - thinker: swami-anand
+    role: mention
+    reasoning: "Varsha Chaudhary's field report on tribal women's resistance to liquor in south Gujarat anchors its moral argument in Swami Anand's book Dharti nu Loon (Salt of the Earth), citing it as the literary-cultural reference for the anti-prohibition-failure struggle."
+    evidence:
+      - quote: "The article invokes Swami Anand's book 'Dharti nu Loon' (Salt of the Earth) as a moral reference"
+        context: "Chaudhary's essay invokes Swami Anand as the moral-literary anchor for community resistance to liquor"
+      - quote: "Invokes Swami Anand's 'Dharti nu Loon' as a moral-cultural reference for the stakes of the anti-liquor struggle."
+        context: "key-points restatement positioning Swami Anand's text as the framing reference for the prohibition-failure argument"
+    key_passages: []
+  - thinker: javed-anand
+    role: mention
+    reasoning: "Rajesh Mishra's sadabhavana essay engages Javed Anand's commentary in Communalism Combat as a key interlocutor on Gujarat's communal situation seven years after the 2002 riots."
+    evidence:
+      - quote: "He engages Javeed Anand's commentary in Communalism Combat and analyses why sadabhavana events remain necessary but often fail to produce structural change."
+        context: "Mishra positions Javed Anand's Communalism Combat commentary as a primary critical voice on Gujarat's communal politics"
+      - quote: "Engages Javeed Anand (Communalism Combat) as a commentator on Gujarat's communal situation."
+        context: "key-points restatement naming Javed Anand among the essay's principal interlocutors"
+    key_passages: []
+  - thinker: mahatma-gandhi
+    role: mention
+    reasoning: "Ashvinkumar Karia's critique of moral policing places Gandhi within a combined Western-Indian intellectual tradition — alongside Aristotle, Plato, Nehru and Tagore — that he marshals against coercive moralism."
+    evidence:
+      - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle, Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
+        context: "Gandhi enlisted within Karia's lineage of thinkers opposed to vigilante religious enforcement"
+    key_passages: []
+  - thinker: jawaharlal-nehru
+    role: mention
+    reasoning: "Karia's essay against moral policing invokes Nehru as one of the Indian thinkers in a combined Western-Indian tradition opposing coercive moralism."
+    evidence:
+      - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle, Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
+        context: Nehru cited alongside Gandhi and Tagore as part of the canonical Indian voice against vigilante morality
+    key_passages: []
+  - thinker: rabindranath-tagore
+    role: mention
+    reasoning: "Karia's essay against moral policing invokes Tagore as part of a combined Western-Indian tradition — alongside Gandhi and Nehru — that cultivates inner conscience over external moral enforcement."
+    evidence:
+      - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle, Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
+        context: "Tagore named within Karia's lineage of conscience-based moralists arrayed against coercive religious policing"
+    key_passages: []
+
 ---
 ## Summary
 

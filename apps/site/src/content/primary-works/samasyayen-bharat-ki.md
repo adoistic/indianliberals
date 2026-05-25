@@ -10,13 +10,12 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
-related_thinkers:
-  - indira-gandhi
-  - shivaji
-  - maharana-pratap
+related_thinkers: 
   - karl-marx
-  - napoleon-bonaparte
-  - v-t-krishnamachari
+  - maharana-pratap
+  - shivaji
+  - t-t-krishnamachari
+
 publication:
   language: hi
   publisher_id: shetkari-sanghatana
@@ -56,6 +55,42 @@ physical:
   pages_total: 74
   pages_total_source: pypdfium2
   format: paperback book
+thinker_mentions:
+  - thinker: maharana-pratap
+    role: mention
+    reasoning: Maharana Pratap is named alongside Shivaji as part of the moral-historical tradition of armed resistance that Joshi appropriates from urban nationalist memory to legitimise farmer self-assertion as a continuation of the freedom struggle.
+    evidence:
+      - quote: the concept of freedom that animated anti-colonial struggles — associated with figures such as Maharana Pratap and Shivaji — was appropriated by urban nationalists after 1947 and turned into a tool of continued rural subjugation
+        context: Essay 3 historicises freedom by claiming Pratap and Shivaji as the genealogy of resistance the urban elite seized after Independence
+      - quote: Joshi invokes the moral-historical tradition of armed resistance (Maharana Pratap, Shivaji) to argue that farmer self-assertion is not merely an economic demand but a legitimate continuation of freedom struggle
+        context: "the key-points reprise re-anchors Pratap inside Joshi's farmer-as-freedom-fighter argument"
+    key_passages: []
+  - thinker: shivaji
+    role: mention
+    reasoning: "Shivaji is paired with Maharana Pratap as the second exemplar of the armed-resistance tradition Joshi invokes to dignify the farmer's struggle, drawing on Marathi cultural memory familiar to Shetkari Sanghatana's base."
+    evidence:
+      - quote: the concept of freedom that animated anti-colonial struggles — associated with figures such as Maharana Pratap and Shivaji — was appropriated by urban nationalists after 1947 and turned into a tool of continued rural subjugation
+        context: Essay 3 names Shivaji as part of the resistance lineage Joshi reclaims from post-1947 urban nationalism
+      - quote: Joshi invokes the moral-historical tradition of armed resistance (Maharana Pratap, Shivaji) to argue that farmer self-assertion is not merely an economic demand but a legitimate continuation of freedom struggle
+        context: the key-points summary re-deploys Shivaji to frame farmer mobilisation as the legitimate heir of the armed-resistance tradition
+    key_passages: []
+  - thinker: karl-marx
+    role: mention
+    reasoning: Marx appears twice — first as the inheritor of the Marxist analytic tradition Joshi indicts for treating agriculture as subordinate to industry, then as a thinker Joshi defends in his own right against Indian left-wing critics who use Marxist authority to attack Shetkari Sanghatana.
+    evidence:
+      - quote: the Marxist and mainstream development-economics traditions alike treat agriculture as subordinate to industry, thereby legitimising the continued suppression of farm prices
+        context: Essay 2 indicts the Marxist tradition for the same agrarian extractivism Joshi attacks in mainstream economics
+      - quote: "Marx himself — who is invoked by the organisation's left-wing detractors — has yet to receive recognition from the Indian establishment for his analysis of exploitation"
+        context: "Essay 6 turns the tables on Joshi's left-wing critics by claiming Marx's exploitation analysis as more sympathetic to the Shetkari cause than to its detractors"
+    key_passages: []
+  - thinker: t-t-krishnamachari
+    role: mention
+    reasoning: T. T. Krishnamachari is named as the chair of the 1965 committee whose recommendations shaped the Agricultural Price Commission — the institutional mechanism Joshi indicts as structurally incapable of delivering remunerative farm prices because its real mandate is to keep urban food cheap.
+    evidence:
+      - quote: the Agricultural Price Commission (established partly on the recommendations of a 1965 committee chaired by T.T. Krishnamachari) is structurally incapable of ensuring remunerative prices
+        context: "Essay 3 names Krishnamachari's 1965 committee as the institutional ancestor of the price-suppression mechanism Joshi treats as the engine of rural distress"
+    key_passages: []
+
 ---
 ## Summary
 

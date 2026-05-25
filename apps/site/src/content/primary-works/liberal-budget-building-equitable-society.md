@@ -21,12 +21,9 @@ contributors:
     thinker: sanjay-panse
   - role: other
     thinker: ms-seetha
-related_thinkers:
-  - gopal-krishna-gokhale
-  - ludwig-von-mises
-  - s-v-raju
-  - sunil-bhandare
+related_thinkers: 
   - d-v-gundappa
+
 
 publication:
   language: en
@@ -71,33 +68,12 @@ missing_metadata_flags:
   - no_individual_author_on_title_page
   - editor_not_named
 thinker_mentions:
-  - thinker: s-v-raju
+  - thinker: d-v-gundappa
     role: mention
-    reasoning: "S. V. Raju signed the preface as Executive Chairman, explaining the document's design as a benchmark template for liberal fiscal policy, and acknowledging the UPA government's Common Minimum Programme."
-    evidence:
-      - quote: The preface, signed by S. V. Raju as Executive Chairman, explains that the document was designed as a template and benchmark against which to evaluate actual Union Budgets
-        context: "Raju as institutional author of the preface, establishing the document's purpose"
-    key_passages: []
-  - thinker: sunil-bhandare
-    role: mention
-    reasoning: S. S. Bhandare wrote the Introduction to the Liberal Budget, framing the fiscal environment as severely constrained and arguing that a genuinely liberal economic environment is a precondition for any effective budget.
-    evidence:
-      - quote: "S. S. Bhandare's Introduction characterises the fiscal environment as one of severe constraint, arguing that a genuinely liberal economic environment is a precondition for any effective budget"
-        context: Bhandare as the economic analyst providing the substantive framing for the Liberal Budget
-    key_passages: []
-  - thinker: gopal-krishna-gokhale
-    role: mention
-    reasoning: "Gopal Krishna Gokhale is cited in Chapter 1's opening philosophical statement as a pillar of the Indian liberal tradition grounding the document's prescriptions."
+    reasoning: "D. V. Gundappa is invoked alongside von Mises and Gokhale as one of the philosophical anchors of Chapter 1's statement of the Liberal position, grounding the Indian Liberal Group's fiscal prescriptions in the Kannada liberal tradition."
     evidence:
       - quote: citing Ludwig von Mises, Gopal Krishna Gokhale, and D. V. Gundappa
-        context: "Gokhale named among three liberal authorities grounding the budget's philosophical section"
-    key_passages: []
-  - thinker: ludwig-von-mises
-    role: mention
-    reasoning: "Ludwig von Mises is cited in the Liberal Budget's Chapter 1 philosophical statement as an international authority anchoring the document's liberal economic framework."
-    evidence:
-      - quote: citing Ludwig von Mises, Gopal Krishna Gokhale, and D. V. Gundappa
-        context: von Mises cited as a liberal theoretical authority alongside Indian liberal thinkers
+        context: Chapter 1 opens with a triadic citation that places Gundappa beside an Austrian-school liberal and a Servants-of-India moderate as the philosophical authorities of the Liberal Budget
     key_passages: []
 authors_resolution:
   confidence: low

@@ -10,9 +10,9 @@ authors:
   - sharad-joshi
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - charan-singh
-  - sharad-pawar
+
 publication:
   language: mr
   publisher_id: janashakti-vachak-chalval
@@ -50,6 +50,15 @@ physical:
 missing_metadata_flags:
   - isbn_not_present
   - toc_page_numbers_exceed_pdf_total
+thinker_mentions:
+  - thinker: charan-singh
+    role: mention
+    reasoning: "Charan Singh appears in the publisher's foreword as the subject of one of the four biographical portraits added to the 2015 expanded edition, signalling Joshi's intellectual lineage to the agrarian-politics tradition of the former prime minister."
+    evidence:
+      - quote: "The publisher's foreword by Shrikant Umariker notes that the book received Maharashtra government recognition for outstanding literary creation and that the second edition adds four new essays, including biographical portraits of former Prime Minister Charan Singh, Shetkari Sanghatana leaders Anil Gote and Ramchandrabapu Patil, and a history of the Vakari weekly itself."
+        context: Charan Singh is identified as the subject of one of the four new biographical essays in the expanded edition
+    key_passages: []
+
 ---
 ## Summary
 

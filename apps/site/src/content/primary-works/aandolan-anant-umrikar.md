@@ -10,9 +10,10 @@ authors:
   - anant-umrikar
 editors: []
 contributors: []
-related_thinkers:
+related_thinkers: 
   - sharad-joshi
   - vijay-jawandhia
+
 publication:
   language: mr
   publisher_id: janashakti-books-and-publications
@@ -50,6 +51,28 @@ physical:
 missing_metadata_flags:
   - no_isbn
   - toc_page_start_for_entry1_reads_000_not_001
+thinker_mentions:
+  - thinker: sharad-joshi
+    role: mention
+    reasoning: The book is dedicated to Sharad Joshi and is written entirely from within the Shetkari Sanghatana orbit he led — Umrikar travels with the movement to Parbhani and Delhi, watches Joshi address the crowd, and reproduces Marathi powadas composed in his praise.
+    evidence:
+      - quote: a Marathi-language book of four long reportage essays by Anant Umrikar, a journalist and associate of Shetkari Sanghatana leader Sharad Joshi
+        context: "establishes Umrikar's relationship to Joshi as the movement's intellectual and political leader"
+      - quote: "The book is dedicated to Sharad Joshi and is written entirely within the intellectual and organisational orbit of the Shetkari Sanghatana farmers' movement."
+        context: "the dedication and the book's whole frame are Joshi-centred"
+      - quote: Marathi folk songs (powadas) praising Sharad Joshi are reproduced verbatim in the first essay, signalling that the book blends journalism with movement literature.
+        context: "powadas in Joshi's praise function as movement liturgy embedded in the reportage"
+    key_passages: []
+  - thinker: vijay-jawandhia
+    role: mention
+    reasoning: "Jawandhia is named among the lead Shetkari Sanghatana organisers boarding the Delhi-bound protest train from Parbhani — a brief but structurally important placement of Jawandhia inside the cadre that drove the movement's national mobilisations."
+    evidence:
+      - quote: a large contingent of activists — including named organisers such as Vijay Jawandhia, Bhaskarrao, and Prahlad Patil, alongside many women workers — boards a train from Parbhani and travels north.
+        context: Jawandhia named among the senior cadre leading the Delhi protest contingent
+      - quote: Named activists appearing in the rendered pages include Prasad (Parbhani), Harshendra Deshkar, Anant Gore, Madhav Khandekar, Vijay Jawandhia, Bhaskarrao, and Prahlad Patil
+        context: key-points roll-call of the Sanghatana cadre — Jawandhia inside the Vidarbha-Marathwada leadership
+    key_passages: []
+
 ---
 ## Summary
 
