@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: vikrant-pande
 subject: "sharad-joshi"
 thinker_mentions:
   - thinker: sharad-joshi
@@ -73,10 +74,4 @@ If the workers claim that they can protest by calling strikes, the industrialist
 
 No wonder Sharad Joshi’s challenge fell on deaf ears. Neither the government nor the government employees took it upon themselves to prove Sharad Joshi wrong. He made it a point to draw an example of the state of affairs in the country marked by blatant heedlessness of the government by saying “…this is what happens to the real owner (the common people of India) when the servants (the government bureaucracy and the political class) become the owners.”
 
-(The author has highlighted the key arguments of Sharad Anantrao Joshi from the ninth article - _Khuli Vyavastha ani Sampa_ of his book [_Khulya Vyavasthekade Khulya Manane_](https://indianliberals.in/content/khulya-vayvasthekade-khulya-manane/).)    
-
-![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
-
-**Vikrant Pande**
-
-Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.
+(The author has highlighted the key arguments of Sharad Anantrao Joshi from the ninth article - _Khuli Vyavastha ani Sampa_ of his book [_Khulya Vyavasthekade Khulya Manane_](https://indianliberals.in/content/khulya-vayvasthekade-khulya-manane/).)

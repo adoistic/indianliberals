@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 thinker_mentions:
   - thinker: lal-bahadur-shastri
     role: mention
@@ -96,7 +97,3 @@ In late March 1966, Indira Gandhi visited the US to secure food and foreign exch
 In a follow-up to her successful visit, Asoka Mehta engaged with the World Bank president George Woods and promised to replace import control with tariffs, simplify industrial licensing, and devalue the rupee. On June 6th 1966, the rupee devaluation drive was announced. The decision received flak from all corners mostly on sentimental grounds and put Indira Gandhi in a precarious political position. Even the Congress Working Committee passed a resolution denouncing the government move. More importantly, though, the Johnson administration went back on its promise and the aid did not materialise.
 
 Given the political fallout and the US betrayal, historian Medha Kudaisya has argued that Indira Gandhi decidedly shifted her economic policy away from liberalisation and also shunted out the pro-market technocrats. Nonetheless, the aborted liberalisation drive of the mid-1960s makes for a fascinating what-if account in contemporary Indian history.  ![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

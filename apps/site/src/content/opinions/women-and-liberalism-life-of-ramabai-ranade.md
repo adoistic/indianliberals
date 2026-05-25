@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: devika-dinesh
 subject: "ramabai-ranade"
 thinker_mentions:
   - thinker: ramabai-ranade
@@ -84,6 +85,3 @@ On the political and civic rights front, Ramabai was at the forefront of organis
 Ramabai Ranade’s life and work can be read in her own words in ‘Himself: The Autobiography of a Hindu Lady’, written in Marathi and published in 1910. Like most things Ramabai had done in her life, she was the first woman to write an autobiography in the Marathi language. She details her experiences as a married woman and as a social reformer in this work. Ramabai was, ultimately, one of the most important liberal figures in Indian history whose work has brought about immense change in the conditions of Indian women. What makes her work even more inspiring is the fact that she did not have any precedence to draw upon; she was one of the first women in India to ask for political rights, support girls’ education and work for women’s economic independence. She was essentially one of the pioneers of the Indian women’s movement. Although she claimed to be nothing more than a shadow of her husband, whose own ideals and work initially inspired her to enter social service and activism, it is clear that her work has undeniably altered the social fabric of an erstwhile oppressive society. She grew up in a world where educating women would be laughed upon as a waste of resources, and she left the world after carving out space for women to stand up for themselves. 
 
 The idea of Seva Sadans, or the many women empowerment groups which Ramabai helped steer, becomes important when ascertaining Ramabai’s liberal credentials. She realised the role of civil society, community and entrepreneurship as the way forward for women and throughout her life engaged in harnessing the potential of women by making them economically independent as well as giving them a sense of individual dignity. ![](https://indianliberals.in/wp-content/uploads/2021/01/IMG_20210106_084858_Bokeh__01-scaled-e1610530101294-285x300.jpg)
-**Devika Dinesh**
-
-Devika Dinesh is currently a second-year Integrated Masters student at IIT Madras, who is as undecided about her major as she is about most things in life. However, amongst the few, rare topics in which she has a fiercely decisive stance is that everyone deserves to live in a society that protects and promotes their liberty. At Centre for Civil Society, she worked as an Intern as part of the Indian Liberals Project.

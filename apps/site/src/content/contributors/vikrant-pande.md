@@ -3,6 +3,7 @@ id: vikrant-pande
 name:
   canonical: "Vikrant Pande"
   sort: "Pande, Vikrant"
+photo: "/contributors/photos/vikrant-pande.jpg"
 role: "Indian Liberals Fellow"
 bio_source: extracted_from_opinion_bio
 needs_review: true

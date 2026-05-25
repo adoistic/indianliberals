@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "gopal-ganesh-agarkar"
 thinker_mentions:
   - thinker: gopal-ganesh-agarkar
@@ -110,9 +111,3 @@ As a modern liberal Agarkar was a strong proponent of rationalism and saw morali
 In assessing Agarkar’s legacy in Maharashtra, [N H Kulkarnee](https://books.google.co.in/books?id=6YxpAgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=kulkarnee&f=false) argues that he is adopted most prominently by the organized rationalist movement. However, his writings and activism also influenced Hindutva activist Vinayak Savarkar who sought to rationalise Hindu religion. Even the rise of Marxism in Maharashtra in 1920s was unconsciously influenced by Agarkar, an ardent devotee of John Stuart Mill!
 
 Agarkar today remains a forgotten figure outside Maharashtra. The social reformer’s radical approach though merits him a place in the national pantheon of [Indian Liberals](http://indianliberals.in/).
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

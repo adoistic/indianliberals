@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: kavya-sharma
 subject: "lady-abala-bose"
 thinker_mentions:
   - thinker: lady-abala-bose
@@ -102,7 +103,3 @@ Her drive to educate women went beyond the social hierarchies that are prevalent
 Abala Bose’s aims were not just to expand the access to education, and ameliorate the quality of education. She also believed that basic education was necessary to combat the major societal evils of that time. For this, her efforts were centred around ensuring literacy, and to convey the basic elements of hygiene and sanitation- specifically for women. As an early feminist, Abala also influenced many educationists who came after her.[Saroj Nalini Dutt](https://feminisminindia.com/2019/01/04/abala-bose-pioneer/,) for instance, too emphasised on village reform. She advocated against the orthodoxy that prevented women from getting an education and having agency over their decisions.
 
 As a feminist, Abala Bose dedicated her life to championing the liberal cause, one that would put men and women on the same footing. As a philanthropist, social reformer and educationist, she paved the path for an equitable, progressive, and liberal India of the future. She channelled her resources and privileges towards the betterment of the marginalised sections of society. Though coming from a highly illustrious family and being married to a renowned scientist, Lady Abala Bose made a name for herself in history that often overlooks the efforts made by women.
-
-![](https://indianliberals.in/wp-content/uploads/2021/08/Kavya-Sharma-Yearbook-Picture-scaled-e1628765339239.jpg)
-**Kavya Sharma**
-Kavya holds an undergraduate degree in Economics with a minor in Sociology, and she aims to pave herself a future in the public policy sector. Internet culture, popular culture, and Gen-Z patterns interest her a great deal. Her research interests also include gender, sexuality, media, economy, and development theories. As a fellow at the Centre for Civil Society's Indian Liberals project, Kavya is working on increasing visibility of women in India's historic liberal tradition.

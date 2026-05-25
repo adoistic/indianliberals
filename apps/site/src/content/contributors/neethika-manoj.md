@@ -3,6 +3,7 @@ id: neethika-manoj
 name:
   canonical: "Neethika Manoj"
   sort: "Manoj, Neethika"
+photo: "/contributors/photos/neethika-manoj.jpg"
 bio_source: extracted_from_opinion_bio
 needs_review: true
 draft: false

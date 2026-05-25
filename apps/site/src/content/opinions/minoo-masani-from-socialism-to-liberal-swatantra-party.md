@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "minoo-masani"
 thinker_mentions:
   - thinker: jayaprakash-narayan
@@ -160,9 +161,3 @@ The Swatantra Party’s electoral career was akin to a short-lived boom and bust
 The sorry demise of Swatantra, however, didn’t put an end to Masani’s liberal activism. He would go on to build and nurture civil society organisations wedded to the liberal cause. DRS [winded up](https://ccs.in/sites/all/books/com_books/profiles_in_courage.pdf) after the fall of communism, and the Freedom First shifted focus from anti-communism to positive advocacy of liberalism. The [Leslie Sawhny Programme of Training for Democracy](https://web.archive.org/web/20010809230349/http:/www.liberalsindia.com/indianliberals/profiles/minoomassani.php/) was Masani’s effort to train young people in democracy and build a liberal cadre. He also set up the Project for Economic Education in collaboration with the liberal economist B R Shenoy’s Economic Research Centre to disseminate liberal economic ideas in public domain. In Masani’s institution-building drive could be found lessons for Indian liberals of fostering a pro-liberty public opinion.
 
 Zareer Masani, historian and Minoo’s son, has [argued](https://theprint.in/opinion/no-accident-india-forgot-swatantra-leader-my-father-minoo-masani-the-beef-eating-parsi/250483/) that the public discourse in India has recently seen a revival of Rajaji’s legacy while Minoo, the beef-eating, westernised, and atheist Parsi, remains forgotten. I would argue that in Masani, Indian liberals should find a more appropriate icon to emulate. Rajaji, after all, was a [self-identified conservative](https://penguin.co.in/book/non-fiction/rajaji-a-life/) rooted in his Hindu identity. Minoo Masani, in contrast, drew his ideas from the West to shape liberal India.
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "c-rajagopalachari"
 thinker_mentions:
   - thinker: c-rajagopalachari
@@ -71,12 +72,4 @@ In a surprising endorsement of the Indian policy of non-alignment despite a clea
 
 A veteran practitioner of the Gandhian civil disobedience mode of resistance to power, Rajaji favored morally courageous unilateral moratoriums as the way forward for the nuclear tests ban. In this regard, Nikita Khrushchev’s March 1958 unilateral announcement of the cessation of tests vindicated his belief that ‘there is greater moral power in right action, unilaterally undertaken.’ Interestingly, Rajaji had earlier written to Khrushchev asking the same which might explain his jubilatory tone at this move towards easing the nuclear tension. In service of the cause, he also undertook an arduous tour to meet president Kennedy in 1962. The meeting saw an eloquent Rajaji making case for a unilateral nuclear test moratorium and a charmed Kenndy listening patiently. B K Nehru, the then-ambassador to the US, later [noted](https://books.google.co.in/books/about/Rajaji.html?id=JjPHeRd7_UYC&redir_esc=y) ‘... I had seldom seen a case presented with such lucidity of argument, such economy of speech, such felicity of language, such gentleness of manner and such commands of facts as Rajaji displayed that day. It was interesting to watch President Kennedy’s reactions, for he too was a great admirer of style. One could almost see his eyes open wider and wider in wonder and in admiration of the frail little man who was making this masterly presentation.’ The US tour was followed by a meeting with Pope John XIII seeking his blessing for the campaign against nuclear tests. Rajaji also asked for a Papal plea against the nuclear tests. The Pope delivered on the demand by [issuing](https://books.google.co.in/books/about/Rajaji.html?id=JjPHeRd7_UYC&redir_esc=y) an encyclical containing a plea for stopping the nuclear test explosions. 
 
-In 1963, the Partial Test Ban Treaty followed the suit. In response to Rajaji’s congratulatory letter, Kennedy [acknowledged](https://books.google.co.in/books/about/Rajaji.html?id=JjPHeRd7_UYC&redir_esc=y) the great statesman’s role: ‘Even so limited a beginning cannot help but carry forward the cause of peace for which you have so devoutly laboured.’ Rajaji’s intellectual activism for a world safe from the menace of nuclear weapons stemmed from the conservative concern for stable order and was guided by a belief in the efficacy of Gandhian civil resistance to power. Even at a frail age, his sane voice made a small impact on bipolar powers as recognized in his correspondence with Kennedy and Khrushchev.     
-
-                     
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.
+In 1963, the Partial Test Ban Treaty followed the suit. In response to Rajaji’s congratulatory letter, Kennedy [acknowledged](https://books.google.co.in/books/about/Rajaji.html?id=JjPHeRd7_UYC&redir_esc=y) the great statesman’s role: ‘Even so limited a beginning cannot help but carry forward the cause of peace for which you have so devoutly laboured.’ Rajaji’s intellectual activism for a world safe from the menace of nuclear weapons stemmed from the conservative concern for stable order and was guided by a belief in the efficacy of Gandhian civil resistance to power. Even at a frail age, his sane voice made a small impact on bipolar powers as recognized in his correspondence with Kennedy and Khrushchev.

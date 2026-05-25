@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "ishwar-chandra-vidyasagar"
 thinker_mentions:
   - thinker: ishwar-chandra-vidyasagar
@@ -94,7 +95,3 @@ How does one then assess the reformism of Ishwar Chandra Vidyasagar, the Bengali
 
 The poet-saint Rabindranath Tagore’s pithy tribute accurately captures the stature of Vidyasagar: “One wonders how God, in the process of producing forty million Bengalis, produced a man!”
 **![](https://indianliberals.in/wp-content/uploads/2021/07/Latest-Photograph-264x300.jpg)**
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

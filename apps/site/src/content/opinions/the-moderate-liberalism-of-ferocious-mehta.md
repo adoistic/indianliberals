@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "pherozeshah-mehta"
 thinker_mentions:
   - thinker: pherozeshah-mehta
@@ -75,7 +76,3 @@ The [Ilbert Bill controversy](https://books.google.co.in/books?id=0oVra0ulQ3QC&
 
 Mehta’s advocacy of local self-governance and moderation in politics though had to face challenges from the political extremism of Tilak which demanded “_poorna swaraj_”. And, then the descent of Gandhi on national scene swept aside the “_plea-prayer-petition_” mode of political liberalism in favour of a non-violent mass movement.
 **![](https://indianliberals.in/wp-content/uploads/2021/07/Latest-Photograph-264x300.jpg)**
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

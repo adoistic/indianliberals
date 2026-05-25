@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: vikrant-pande
 subject: "gopal-ganesh-agarkar"
 thinker_mentions:
   - thinker: gopal-ganesh-agarkar
@@ -105,10 +106,4 @@ The Indian public intellectuals such as Agarkar and economists like Ranade deman
 
 Agarkar was convinced that both the British state and the Indian people had something in common. The extremely self-seeking character of the government and the naivety of the common people in India indeed had a point of concurrence - both the Indians and the British fell for protectionism of some sort. It clarifies that Agarkar wanted the state to create good conditions for industries to increase production, trade and commerce. He did not seek protection. His unequivocal rejection of the preferential treatment to products based on the place of their origin and opposition to state or society sponsored protection to businesses is testimony to his belief in fair play and competition.       
 
-A seasoned economist may find his methodology questionable because Agarkar was not an economist. He was still an educationist and editor who believed in liberty for all and all walks of life. Yet he had convictions much like the philosophical radicals in England. The influence of Mill on Agarkar is conspicuous. Agarkar’s commentaries may be carrying a tinge of the 'enlightened despotism' that was the characteristic of philosophical radicals, but his works are still very useful to understand his diligence to expose common people to liberal-individualistic ideas. 
-
-![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
-
-**Vikrant Pande**
-
-Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.
+A seasoned economist may find his methodology questionable because Agarkar was not an economist. He was still an educationist and editor who believed in liberty for all and all walks of life. Yet he had convictions much like the philosophical radicals in England. The influence of Mill on Agarkar is conspicuous. Agarkar’s commentaries may be carrying a tinge of the 'enlightened despotism' that was the characteristic of philosophical radicals, but his works are still very useful to understand his diligence to expose common people to liberal-individualistic ideas.

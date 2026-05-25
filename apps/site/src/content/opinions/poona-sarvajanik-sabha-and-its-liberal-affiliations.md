@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 thinker_mentions:
   - thinker: mahadev-govind-ranade
     role: mention
@@ -72,9 +73,3 @@ According to Mehrotra, under the able leadership of Mahadev Govind Ranade and Ga
 In the years of Deccan famines in 1872, 1876-78, and 1896-97, the Sabha sent its representatives to rural areas to collect accurate information which then were sent to the government demanding adequate famine relief measures. In the 1896-97 famine, the Sabha volunteers also made the peasantry aware of their rights under the Famine Relief Code. Despite the predominantly urban middle-class character of the Sabha, its work as a mediating body between the state and peasantry stemmed from the liberal conviction of the Sabha leaders who sought to operate in the domain of civil society. The Sabha’s mediating role though was essentially contingent upon the state acceptance of its legitimacy.
 
 Hence, it shouldn’t come as a surprise that with the state derecognition of the Sabha as a representative body, it went moribund after 1897. Earlier in 1895, the extremist faction under Tilak had taken control over the Sabha. The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade – left the Sabha to form Deccan Sabha in 1896. During the famine of 1896-97, the extremist criticism of the Bombay government led the latter to pass a resolution on 17th March 1897 derecognising the Sabha as a representative body. The Anglo-Indian press was already hostile to the Sabha due to the threat posed by its representative character. Problems were also exacerbated by the death of Joshi earlier in July 1880 who was the dynamic force behind the Sabha. The rift between liberals and conservatives weakened the prospect of cooperation under the auspices of a single body. The coming of new associations like the Indian National Congress, Abhinav Bharat, Deccan Sabha, Satyashodhak Samaj, Dinabandhu Sarvajanik Sabha, and Servants of India Society in the western province made the older association riven with conflict even more irrelevant in public discourse. In the long run, though, the legacy of the Poona Sarvajanik Sabha lies in its pioneering effort at representative politics and a pan-Indian outlook that has contributed to the making of modern Indian democracy.
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

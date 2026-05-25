@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: naina-ojha
 subject: "babytai-kamble"
 thinker_mentions:
   - thinker: babytai-kamble
@@ -82,6 +83,3 @@ She also published a collection of poems in Marathi titled _Man Bolata_. It main
 Kamble passed away in April 2021, leaving behind a legacy of freedom and equality. Her teachings, motives, and beliefs of education, unity, and morality become foremost to achieve intellectual freedom. She firmly believed in the urgency of young intellectuals who'd be responsible to bring significant change in their lives as well as in the lives of their community. Her ideals and beliefs help us to understand feminism on liberal ideas in a different context. A context which is seldom ignored and silenced. Her experiences as a Dalit woman - reclaiming her agency through entrepreneurship, activism and her biography puts light on the multi dimensional aspects of feminism. It forces one to think about the multifacetedness of narratives and that to visualize those narratives becomes the need of the hour.
 
 **![](https://indianliberals.in/wp-content/uploads/2021/09/bio.png)**
-**Naina Ojha **
-
-Naina is a writer from Ghazibad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.

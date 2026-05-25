@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: kavya-sharma
 subject: "azizun-nisa"
 thinker_mentions:
   - thinker: azizun-nisa
@@ -55,7 +56,3 @@ Azizun Nisa was referred to as a _tawaif_, which unlike today, could be used onl
 The British powers faced threats in the form of courtesans who held powerful, respectable, and well-connected positions in the royal courts. Narratives surrounding courtesans were built up in such a way that stripped them of an idea of respect, and continually reiterating that courtesans do not deserve it. This benefited the colonial powers as it kept these women at bay, and added obstacles in courtesans’ support for rebellion movements along the lines of the 1857 war. This ultimately caused the cultural, political, social, and economic decimation of courtesans’ power and contributions in the royal court.
 
 Women such as Rani Lakshmi Bai and Begum Hazrat Mahal have been at the forefront in discussions about the First War of Independence. At first instance, it could seem to future generations as one of the initial instances of interventions by women in the Indian independence movement. However, though history puts some women under spotlight, those such as Azizun Nisa have been made invisible due to ideas regarding morality and respect, as perpetuated by the British themselves. It is essential that we view all women’s contributions to the freedom struggle, as it would help us better gauge the society from the mid-19th century. We have come over 150 years from the Revolt of 1857, and it is high time that all women involved get their due credit- regardless of their profession or any other social marker.
-
-![](https://indianliberals.in/wp-content/uploads/2021/08/Kavya-Sharma-Yearbook-Picture-scaled-e1628765339239.jpg)
-**Kavya Sharma**
-Kavya holds an undergraduate degree in Economics with a minor in Sociology, and she aims to pave herself a future in the public policy sector. Internet culture, popular culture, and Gen-Z patterns interest her a great deal. Her research interests also include gender, sexuality, media, economy, and development theories. As a fellow at the Centre for Civil Society's Indian Liberals project, Kavya is working on increasing visibility of women in India's historic liberal tradition.

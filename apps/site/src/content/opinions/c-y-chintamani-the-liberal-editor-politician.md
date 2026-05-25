@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "c-y-chintamani"
 thinker_mentions:
   - thinker: c-y-chintamani
@@ -73,7 +74,3 @@ Chintamani’s political career began with the Congress in 1898. He left Congres
 
 Chintamani’s fiercely independent personality was reflected in his unwavering commitment to principles which saw him criticizing fellow liberal travelers as well. Even after he was awarded the Knighthood, his criticism of the British Raj did not cease. Edwin Montagu recognized the genius of the Indian liberal nationalist editor-politician - "An extraordinarily intelligent man, I think the cleverest Indian in debate I have yet seen."         
 **![](https://indianliberals.in/wp-content/uploads/2021/07/Latest-Photograph-264x300.jpg)**
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

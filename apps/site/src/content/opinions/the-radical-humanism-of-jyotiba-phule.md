@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "jyotirao-phule"
 thinker_mentions:
   - thinker: jyotirao-phule
@@ -86,9 +87,3 @@ Like a deft sociologist, Jyotiba Phule traced the continued exercise of power by
 However, it was in the 1880s-90s that the Bahujan unity project of Phule geared towards an exclusive focus on the mobilisation of the Kunbi peasantry. This shift of focus, argues historian Shekhar Bandhopadhyay, led to an assertion of Maratha identity and their Kshatriya-hood. On the flip side, it meant less emphasis on the mobilisation of Dalits. It was, though, not only in the past that Phule sought emancipation. In his search for an emancipatory vision, Phule drew from West as well, and it is here that Indian liberals could stake a claim on him. In 1848, Phule came across Thomas Paine’s “Rights of Man” which was the most widely read pamphlet for reform in Britain in the 1790s. Paine’s ideas were influential in shaping Phule as well. Paine himself belonged to the classical liberal tradition and had provided intellectual support to the American Revolution.
 
 Jyotiba Phule dedicated his pamphlet Ghulamgiri to “the good people of the United States as a token of admiration for their sublime disinterested and self-sacrificing devotion in the cause of Negro slavery”. He also expected his fellow Indians to follow the American abolitionists in their fight for a just and equal order. In Phule, thus, we have an intellectual and activist with a global vision seeking to reform his own society.
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

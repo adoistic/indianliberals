@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "v-s-srinivasa-sastri"
 thinker_mentions:
   - thinker: v-s-srinivasa-sastri
@@ -102,8 +103,3 @@ Sastri’s illustrious career went beyond domestic politics to include his stint
 His status as the “_de facto global ambassador of India_” would further be cemented by his visit to South Africa to make case for the Indian cause, egged on by both Gandhi and the Viceroy. His powerful rhetorical skill based on his mastery over English earned him accolades as well as helped further his cause. In the South African town of Klerksdorp, his public event was disrupted by [bombing](https://medium.com/afro-asian-visions/a-diplomat-a-speech-and-a-bomb-907e67077e5e) which fortunately didn’t cause much damage. Back at home, he would make case for Indian participation in international affairs by arguing that the arrangements made at the high seats of power had implications for India as well. It would thus serve India well to represent itself in the conferences and share responsibilities.
 
 Historians like Bipan Chandra have argued that under the visionary statesmanship of Nehru, Indian Republic punched above its weight in international affairs in initial years. I would argue that in V S Srinivasa Sastri, India has prehistory of outsized involvement in international affairs, dating back to its colonial moment.
-
-![](https://indianliberals.in/wp-content/uploads/2021/07/Latest-Photograph-264x300.jpg)
-
-**Sanjeet Kashyap**
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

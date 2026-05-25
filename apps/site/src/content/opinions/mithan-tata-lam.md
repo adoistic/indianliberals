@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: kavya-sharma
 subject: "mithan-tata-lam"
 thinker_mentions:
   - thinker: mithan-tata-lam
@@ -86,7 +87,3 @@ Mithan Tata Lam passed away in 1981, leaving behind an everlasting legacy that r
 
 In 2021, we mark the 100 year anniversary of women first being enfranchised in Madras. The largest democracy in the world would not be what it is today without the consistent efforts and contributions of women such as Mithan Tata Lam. Hence, it is essential that we remember the efforts of the women who led the way for an inclusive and liberal society for the future generations of Indian women.
 **![](https://indianliberals.in/wp-content/uploads/2021/08/Kavya-Sharma-Yearbook-Picture-scaled-e1628765339239-287x300.jpg)**
-
-**Kavya Sharma**
-
-Kavya holds an undergraduate degree in Economics with a minor in Sociology, and she aims to pave herself a future in the public policy sector. Internet culture, popular culture, and Gen-Z patterns interest her a great deal. Her research interests also include gender, sexuality, media, economy, and development theories. As a fellow at the Centre for Civil Society's Indian Liberals project, Kavya is working on increasing visibility of women in India's historic liberal tradition.

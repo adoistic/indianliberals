@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: chandrasekaran-balakrishnan
 subject: "c-rajagopalachari"
 thinker_mentions:
   - thinker: c-rajagopalachari
@@ -69,9 +70,3 @@ The first forty years of independent India proved that a path chosen for develop
 However, Rajaji had never lost his hope of reviving Indian culture and nourishing it for generations to come. He wrote copiously on major ancient literature of India and Tamil. He firmly observed that _“from among our millions suddenly comes up someone who gives a new lease of life to religion and philosophy among our people.”_ Indian culture would aide for eternal boasting upon the progress of the peaceful social and economic development of all segments of people in years to come. Let’s not forget that our behaviour is our culture. 
 
 _The article is an excerpt from the author's original piece published [here.](https://theverandahclub.com/article/crajagopalacharis-venerable-thoughts-on-culture-90)_
-
-![](https://indianliberals.in/wp-content/uploads/2021/01/Bala.jpg)
-
-**Chandrasekaran Balakrishnan**
-
-Chandrasekaran has been working in the area of public policy in the last fourteen years. He has written many articles and scholarly papers on the history of Indian economic thoughts. He has diverse experience working with central and state governments, corporate, NGOs and academia on various capacities in public policy. He has Masters in Economics from University of Madras and M.Phil in Social Sciences from Devi Ahilya University, Indore.

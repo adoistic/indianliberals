@@ -3,6 +3,7 @@ id: chandrasekaran-balakrishnan
 name:
   canonical: "Chandrasekaran Balakrishnan"
   sort: "Balakrishnan, Chandrasekaran"
+photo: "/contributors/photos/chandrasekaran-balakrishnan.jpg"
 bio_source: extracted_from_opinion_bio
 needs_review: true
 draft: false

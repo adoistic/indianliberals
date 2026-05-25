@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: vikrant-pande
 subject: "hamid-dalwai"
 thinker_mentions:
   - thinker: hamid-dalwai
@@ -90,9 +91,3 @@ Mandal firmly believed that only Secularism can help us. It drives religion out 
 The question persists, as to why we should read the works of Hamid Dalwai or the works of members of the Muslim Satyashodhak Mandal? They were social reformers whose economic ideas were more or less in tandem with the social democrats in the Congress or the Socialist Party. However, their political and social ideas were rooted in individualism. “India [Indian Constitution] has put restrictions that prompt the society to take the path of secularism. The religious liberties have been bestowed upon the individual, not religions.” (Dharmanirapekshata, 1996, p. 57). 
 
 The works of Hamid Dalwai and the Muslim Satyashodhak Mandal have been consciously written in a regional language and without any jargon of the academic language. The main reason behind such a practice is the firm belief in making the public politically informed, with the hope that if the citizens have an informed opinion, they are less likely to be swayed by the rhetorics of the political elites and the clergy. These works have a greater value than just being one more addition to many political ideas because they aim at releasing the citizens from being held emotionally hostage by people in power.
-
-![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
-
-**Vikrant Pande**
-
-Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.

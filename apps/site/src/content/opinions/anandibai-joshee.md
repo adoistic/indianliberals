@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: naina-ojha
 subject: "anandibai-joshee"
 thinker_mentions:
   - thinker: anandibai-joshee
@@ -86,8 +87,3 @@ Dall, Caroline Healey.[_The Life of Dr. Anandabai Joshee: A Kinswoman of the Pun
 Joshi, [Through a Changing Feminist Lens: Three Biographies of Anandibai](https://www.epw.in/journal/2014/33/perspectives/through-changing-feminist-lens.html). "Prachi Gurjarpadhye." _Economic and Political Weekly, Vol. 49, No. 33 _(August 16, 2014): 37-40. Print.
 
 Kosambi, Meera. "[Anandibai Joshee: Retrieving a Fragmented Feminist Image](https://www.jstor.org/stable/4404856)." _Economic and Political Weekly, Vol. 31, No. 49._ (Dec. 7, 1996): 3189-3197. Print.
-
-[](https://indianliberals.in/content/babytai-kamble-resolute-feminism/attachment/bio/)
-
-**Naina Ojha **
-Naina is a writer from Ghaziabad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.

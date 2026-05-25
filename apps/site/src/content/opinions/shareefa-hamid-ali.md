@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: naina-ojha
 subject: "shareefa-hamid-ali"
 thinker_mentions:
   - thinker: shareefa-hamid-ali
@@ -69,8 +70,3 @@ Ali was also appointed to a women's sub-committee of the [National Planning Comm
 In 1947, Ali represented India as one of the fifteen founding members the first [United Nations Commission on the Status of Women](https://www.unwomen.org/en/csw). Ali, alongside other delegates from all around the world established the guiding principles of the Commission. Needless to say, Ali brought her ideas of inclusivity while drafting the principles. The principles include the idea of raising the status of women irrespective of nationality, race, language and religion. These principles continue to guide the functioning of the Commission. Its presence can also be found in the principles of the [United Nations Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights). 
 
 An ardent advocate of individual, human and women's rights, Ali paved the way for younger generations of women to live their lives on their terms.
-
-[](https://indianliberals.in/content/babytai-kamble-resolute-feminism/attachment/bio/)
-
-**Naina Ojha **
-Naina is a writer from Ghaziabad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.

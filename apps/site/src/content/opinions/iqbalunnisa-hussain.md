@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: kavya-sharma
 subject: "iqbalunnisa-hussain"
 thinker_mentions:
   - thinker: iqbalunnisa-hussain
@@ -79,7 +80,3 @@ Just like her continuous efforts, the ostracism too seemed endless. Despite the 
 Iqbalunnisa Hussain’s return from the United Kingdom proved to be the first major step in her road to revolutionise the lives of Indian women- particularly, Muslim women. She led a path-breaking movement to dismantle the patriarchy. Using the power of educating women, and her expressive literary contributions, she managed to stand out of the norm and crack open the insecurity of men, who seethed at the sight of her success and capabilities. Her influence on her contemporaries and on the generations of women who have come after her, is unforgettable. Other reformers such as Khwaja Altaf Hussain authored pieces that shed light on the oppression faced by women. Scholar and reformist duo Mumtaz Ali and Mohammadi Begum together launched a newspaper called _Tehzeeb-e-Niswaan_. The newspaper laid emphasis on societal evils such as child marriage and woemn’s illiteracy.
 
 To this day, the feminist movement, just as other liberal struggles, are dismissed within orthodoxy as ‘modern’ and ‘western’ concepts that are solely aimed at dismantling the status-quo. Iqbalunnisa Hussain’s life and works, among many others, are proof of the fact that the struggle for gender equality has had trailblazing contributions in India’s glorious history.
-
-![](https://indianliberals.in/wp-content/uploads/2021/08/Kavya-Sharma-Yearbook-Picture-scaled-e1628765339239.jpg)
-**Kavya Sharma**
-Kavya holds an undergraduate degree in Economics with a minor in Sociology, and she aims to pave herself a future in the public policy sector. Internet culture, popular culture, and Gen-Z patterns interest her a great deal. Her research interests also include gender, sexuality, media, economy, and development theories. As a fellow at the Centre for Civil Society's Indian Liberals project, Kavya is working on increasing visibility of women in India's historic liberal tradition.

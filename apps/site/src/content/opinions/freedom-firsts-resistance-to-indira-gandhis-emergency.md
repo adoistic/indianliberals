@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "minoo-masani"
 thinker_mentions:
   - thinker: minoo-masani
@@ -118,8 +119,3 @@ Masani’s predictable criticism of India’s nuclear shift appeared in the July
 A self-proclaimed liberal, he saw the test as a hypocritical move from the preachers of socialist doctrine. From the socialist perspective, argued Masani, the money spent on building the bomb ought to be spent on digging wells and minor irrigation projects. What of the crucial importance of nuclear power for Indian national security interest though? Masani did not exactly address this question except for taking the US nuclear aid and reactors for peaceful uses. 
 
 In any case, three things are clear from the discussion so far: Rajaji’s worry about the health fallout of nuclear tests and his constant advocacy for disarmament; Masani’s opposition to indigenous nuclear weapons program on economic grounds; and his support to India seeking nuclear deterrence guarantee, preferably from the US. The archival records concerned with the Swatantra Party’s take on nuclear policy thus belies scholar Yogesh Joshi’s argument [bundling](https://warontherocks.com/2017/03/debating-the-nuclear-legacy-of-india-and-one-of-its-great-cold-war-strategists/) both the Swatantra and Jan Sangh as pro-bomb parties. As Howard Erdman has [argued](https://www.jstor.org/stable/2755178#metadata_info_tab_contents), there was a significant divergence between the Swatantra and Jan Sangh on Indian foreign policy. The ideological and policy difference extended to the nuclear bomb issue as well with the Jan Sangh taking a more bellicose, pro-bomb approach. Thus, not only does this discussion on Swatantra’s approach to nuclear policy seeks to set the record straight on the matter, but also indicates the vibrancy and diversity within the Indian right-wing tradition.
-
-![](https://indianliberals.in/wp-content/uploads/2021/07/Latest-Photograph-264x300.jpg)
-
-**Sanjeet Kashyap**
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 thinker_mentions:
   - thinker: dadabhai-naoroji
     role: subject
@@ -149,9 +150,3 @@ As the economic liberalisation of 1991 has made clear, for the folly of economic
 In my opinion, the moniker that best captures the legacy and status of Indian liberal tradition is ‘forgotten’. Naoroji’s long public career in service of the nation has been no exception to this general trend. In this regard, a new biography of Dadabhai Naoroji, _Naoroji: The Pioneer of Indian Nationalism_, by historian Dinyar Patel might serve as a much-needed corrective though.
 
 _Author’s Note: This article draws heavily on the research of historian Dinyar Patel. The author gratefully acknowledges his contribution._
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

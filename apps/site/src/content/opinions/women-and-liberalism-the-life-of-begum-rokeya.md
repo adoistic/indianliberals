@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: anshu-singh-rathore
 subject: "begum-rokeya"
 thinker_mentions:
   - thinker: begum-rokeya
@@ -72,11 +73,4 @@ In one of her writings, Rokeya gave a clarion call to the women to rise and take
 
 In her various writings, she draws the comparison of both Muslim and Hindu women as to how they have been both subjugated by the patriarchy. In one of her books 'Nari Puja,' she depicts vividly the nature in which the purdah system has plagued and subjugated the women from both ( Hindu and Muslim) religious communities for centuries and how men have treated them like animals and sometimes worse than animals. She asserted the rights of women and wanted men and women to stand side by side in both material and spiritual spheres of life.
 
-Begum Rokeya died on December 9, 1932. Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition. Her commitment to uphold equal rights for men and women, her unwavering resolve to focus on economic independence of women and her use of civil society action as a tool for change, are all liberal values. The lives of women like Begum Rokeya need to be explored more in order to understand the socio-historical context in which liberal values shaped the progress of Indian society. Their focus towards establishing equality as well as dignity of the individual regardless of caste, creed, gender or any other similar consideration, are important lessons to recall and to emulate in light of the liberal struggle for freedom and opportunity. 
-
- 
-
-![](https://indianliberals.in/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-01-at-21.43.30-e1615496711427-150x150.jpeg)
-
-**Anshu Singh Rathore**
-Anshu Singh Rathore is currently a 2nd-year law student at VIT School of Law, VIT Chennai. Apart from academics, he likes to read books, indulge in art and craft activities. A classical liberal who firmly believes in John Locke's idea that 'The End of Law is not to abolish or restrain, but to preserve and enlarge freedom.'
+Begum Rokeya died on December 9, 1932. Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition. Her commitment to uphold equal rights for men and women, her unwavering resolve to focus on economic independence of women and her use of civil society action as a tool for change, are all liberal values. The lives of women like Begum Rokeya need to be explored more in order to understand the socio-historical context in which liberal values shaped the progress of Indian society. Their focus towards establishing equality as well as dignity of the individual regardless of caste, creed, gender or any other similar consideration, are important lessons to recall and to emulate in light of the liberal struggle for freedom and opportunity.

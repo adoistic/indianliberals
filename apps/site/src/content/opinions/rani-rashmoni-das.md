@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: kavya-sharma
 subject: "rani-rashmoni"
 thinker_mentions:
   - thinker: rani-rashmoni
@@ -82,6 +83,3 @@ Given her so-called lower caste and widowhood, the priests refused to accept the
 An icon in Bengali folklore, often hailed as the _Shudra _Queen, _Rani­_ Rashmoni Das made a place for herself among some of the most influential upper-caste men who led the social reform movements of 19th century Bengal. Das remains cemented in Bengali history through the temple, ghats, other infrastructural contributions, as well as her liberal outlook, individualism, and reformist efforts.
 
 **[](https://indianliberals.in/content/mithan-tata-lam/attachment/kavya-sharma-yearbook-picture/)**
-
-**Kavya Sharma**
-Kavya holds an undergraduate degree in Economics with a minor in Sociology, and she aims to pave herself a future in the public policy sector. Internet culture, popular culture, and Gen-Z patterns interest her a great deal. Her research interests also include gender, sexuality, media, economy, and development theories. As a fellow at the Centre for Civil Society’s Indian Liberals project, Kavya is working on increasing visibility of women in India’s historic liberal tradition.

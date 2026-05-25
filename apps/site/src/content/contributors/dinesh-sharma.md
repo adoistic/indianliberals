@@ -3,6 +3,7 @@ id: dinesh-sharma
 name:
   canonical: "Dinesh Sharma"
   sort: "Sharma, Dinesh"
+photo: "/contributors/photos/dinesh-sharma.jpg"
 bio_source: extracted_from_opinion_bio
 needs_review: true
 draft: false

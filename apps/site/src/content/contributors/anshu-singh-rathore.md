@@ -3,6 +3,7 @@ id: anshu-singh-rathore
 name:
   canonical: "Anshu Singh Rathore"
   sort: "Rathore, Anshu Singh"
+photo: "/contributors/photos/anshu-singh-rathore.jpeg"
 bio_source: extracted_from_opinion_bio
 needs_review: true
 draft: false

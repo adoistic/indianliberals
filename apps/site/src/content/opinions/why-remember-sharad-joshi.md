@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: dinesh-sharma
 subject: "sharad-joshi"
 thinker_mentions:
   - thinker: sharad-joshi
@@ -63,8 +64,3 @@ Sharad Joshi ridiculed and pointed out to the leaders who advanced the idea a ca
 I consider myself lucky that I got a chance to meet and interact with him, I got the fortune to hear his golden words from his mouth. I offer my heartfelt tribute to the great soul on this memorial day today.
 
 _(This piece has been sourced, translated and reproduced here with permission from the Facebook wall of Mr Dinesh Sharma.)_
-
-![](https://indianliberals.in/wp-content/uploads/2021/09/Dinesh-Sharma-300x300.jpg)
-**Dinesh Sharma **
-
-Advocate Dinesh Sharma practices law at the district court and the Nagpur bench of Bombay High Court. Across Maharashtra, he is often called to speak on economics and related topics. He is a member of the Maharashtra committee of the Swatantra Bharat Party.

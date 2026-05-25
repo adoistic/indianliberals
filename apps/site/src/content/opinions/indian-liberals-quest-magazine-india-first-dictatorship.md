@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "minoo-masani"
 thinker_mentions:
   - thinker: minoo-masani
@@ -80,9 +81,3 @@ Interestingly though, it was on the issue of population control and compulsory s
 During the Emergency, _Quest_ published in total six issues, from July 1975 to March 1976. These issues included _at least_ eight articles, editorials included, which were related to the Emergency. Far from indirect and theoretical opposition to Mrs. Gandhi’s suspension of Indian democracy (Pullin’s argument), as the above analysis purports to show, _Quest_ stood for press freedom, lent support to A D Gorwala’s _Opinion_ journal, debated the Pavnar statement on lifting the Emergency, criticized the Swaran Singh Committee report, and discussed the trend towards bureaucratic centralization in India. 
 
 To be sure, Quest also lent support to the forced sterilization drive of the Maharashtra government. Yet, instead of facing the wrath of government censor, the editors themselves decided to shut the magazine in mid-1976. Given the fact that _Quest_ was established in 1954 with the mandate to focus less on politics and more on cultural issues, it could plausibly be argued that the journal took a clear oppositional stand against the Emergency, with the support to compulsory sterilization program being the sole exception. Eric Pullin’s study on _Quest_, thus, warrants revision when it comes to the magazine’s role during the Emergency. However, Indian liberals’ opposition to the Emergency was not only limited to the pages of _Quest_. _Freedom First_, another Indian liberal magazine run by enterprising Minoo Masani, played an even more active role in fighting the Emergency.
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

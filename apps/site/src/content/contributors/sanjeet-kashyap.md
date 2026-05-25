@@ -3,6 +3,7 @@ id: sanjeet-kashyap
 name:
   canonical: "Sanjeet Kashyap"
   sort: "Kashyap, Sanjeet"
+photo: "/contributors/photos/sanjeet-kashyap.jpg"
 affiliation: "Centre for Civil Society"
 role: "Indian Liberal Fellow"
 bio_source: extracted_from_opinion_bio

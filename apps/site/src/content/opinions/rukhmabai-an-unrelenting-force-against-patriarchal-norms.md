@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: khushi-rajput
 subject: "rukhmabai"
 thinker_mentions:
   - thinker: rukhmabai
@@ -67,6 +68,3 @@ During this long period of unwavering service, she continued to voice her concer
 
 Rukhmabai’s contributions in the areas of medicine and social justice formed the foundation of the subsequent Indian feminist movements. Her refusal to stay in wedlock triggered crucial debates and public discourse around women’s autonomy within. Her unrelenting spirit to prioritize her education and express her opinions unabashedly in a deeply patriarchal nineteenth-century colonial India is laudable.
 **![](https://indianliberals.in/wp-content/uploads/2021/07/20210315_141544-282x300.jpg)**
-**Khushi Rajput**
-
-Khushi Rajput is currently pursuing Masters in Political Science from the University of Delhi. Her areas of interest include issues pertaining to civil rights, foreign policy and geopolitics.

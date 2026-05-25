@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "homi-mody"
 thinker_mentions:
   - thinker: homi-mody
@@ -153,9 +154,3 @@ _“Agricultural and industrial production is stagnant—there have even been si
 Homi Mody enunciated the Swatantra principles in terms of democratic freedom, social justice, and efficient administration. In the domain of foreign policy, Mody and the Party both advocated a pro-western stance and were critical of the NAM posturing. In the wake of China’s India war in 1962, Homi Mody criticised Nehru’s conduct, “Our so-called neutrality has brought us very few friends, and it is time the Prime Minister stopped airing his concepts of international diplomacy which have landed us in so many difficulties.” In one of his public speeches, he also criticised the Defence Minister VK Menon’s decision of continuing the support to China for its UNSC membership. He demanded the withdrawal of the Indian ambassador to China; resignation of the Defence Minister; and constitution of a National Defence Council to enable effective decision-making for the war.
 
 For all his eloquent witticism, Homi Mody’s role in the Party seemingly was limited as he catered to the westernised, English-speaking, urban constituency of business interests. Nonetheless, it is no unremarkable feat for him to go against the grain when opening up against the government could do real damage to his personal business interests. It becomes more evident when putting in the context of his earlier moderate conduct in the Raj years, maintaining a delicate balance between the colonial administration and the Congress nationalists. What, however, explains the transition of the temperamentally liberal Mody from being a pro-business to a pro-market politician? Mody’s biographer suggests an answer. The political philosophy, in Homi Mody’s case, was guided by a sense of practicality that sought to gain concession without consternation. As the broader context of the political economy changed, Mody’s response invariably varied. What remained constant, though, was his liberal conviction and sense of humour.
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

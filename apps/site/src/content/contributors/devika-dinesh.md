@@ -3,6 +3,7 @@ id: devika-dinesh
 name:
   canonical: "Devika Dinesh"
   sort: "Dinesh, Devika"
+photo: "/contributors/photos/devika-dinesh.jpg"
 affiliation: "Centre for Civil Society"
 role: "intern"
 bio_source: extracted_from_opinion_bio

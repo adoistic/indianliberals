@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "karsandas-mulji"
 thinker_mentions:
   - thinker: karsandas-mulji
@@ -70,7 +71,3 @@ For his contribution in exposing the corrupt practices of religious guru, Mulji 
 
 In assessing his legacy, [Scott](https://www.academia.edu/6412719/Luther_in_the_Tropics_Karsandas_Mulji_and_the_Colonial_Reformation_of_Hinduism_Journal_of_the_American_Academy_of_Religion_) has further argued that Mulji’s reform agenda was “not simply about liberating liberal subjects but rather about producing them.” In that sense, Mulji deserves to occupy the place among the founding fathers in Indian liberal pantheon.
 **![](https://indianliberals.in/wp-content/uploads/2021/07/Latest-Photograph-264x300.jpg)**
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

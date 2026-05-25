@@ -3,6 +3,7 @@ id: kavya-sharma
 name:
   canonical: "Kavya Sharma"
   sort: "Sharma, Kavya"
+photo: "/contributors/photos/kavya-sharma.jpg"
 affiliation: "Centre for Civil Society"
 bio_source: extracted_from_opinion_bio
 needs_review: true

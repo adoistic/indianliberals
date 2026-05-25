@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: sanjeet-kashyap
 subject: "piloo-mody"
 thinker_mentions:
   - thinker: piloo-mody
@@ -73,9 +74,3 @@ Author and parliamentarian [Swapan Dasgupta](https://www.dailypioneer.com/2015/
 While he began his political career with Swatantra, the death of Rajaji and subsequent defeat of the party in 1971 led to an existential crisis. Minoo Masani put in his resignation papers accepting the responsibility for the defeat. In the last general meeting of the party in 1974, Piloo Mody decided to [merge](https://swarajyamag.com/politics/the-rise-and-fall-of-the-swatantra-party/) the party with Charan Singh’s Bhartiya Kranti Dal. The decision came under fire from the liberal intelligentsia for understandable reasons. However, as [S V Raju](https://swarajyamag.com/politics/the-rise-and-fall-of-the-swatantra-party/) admitted, the party was already in terminal decline. Raju traced the [decline of Swatantra](https://ccs.in/sites/all/books/com_books/profiles_in_courage.pdf/) to Masani’s tenure as the president. He was a more efficient organiser-ideologue than the leader. The vacuum created at the organisational level and his lack of popular appeal probably caused damage to the party’s prospects in elections.
 
 I would also argue that the lack of a strong cadre added to the decline as the star leaders either passed away or left the outfit. Swatantra was able to attract people based on leadership and agenda. It was unable to create a loyal vote base though because it lacked organisational setup. Mody later went on to join the Janata Party and served as a parliamentarian till death. In one of his last interviews, he described his plan to create a [new political party](https://www.indiatoday.in/magazine/indiascope/story/19830228-the-world-revolves-around-an-idea-piloo-mody-771282-2013-08-23#ssologin=1#source=magazine/). Nav Nirman was intended to be a political movement of honest and dedicated individuals who would take out hours from their schedule to serve the citizens at the booth level in a constituency. His utopian vision of decentralised political activism though didn’t come to fruition. The project was left midway due to his death.
-
-![](https://indianliberals.in/wp-content/uploads/2020/12/sanjeet.jpg)
-
-**Sanjeet Kashyap**
-
-A classic liberal by persuasion, Sanjeet has a BA in History from Hansraj College, University of Delhi and is currently pursuing his MA in Politics and International Studies from Jawaharlal Nehru University. At Centre for Civil Society, he is the inaugural Indian Liberal Fellow working on the Indian Liberals project of the think-tank. His research interests include but are not limited to political economy, geopolitics, and global history.

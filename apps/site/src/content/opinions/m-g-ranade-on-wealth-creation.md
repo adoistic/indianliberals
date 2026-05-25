@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: vikrant-pande
 subject: "mahadev-govind-ranade"
 thinker_mentions:
   - thinker: mahadev-govind-ranade
@@ -90,10 +91,4 @@ In other countries, the excess gold and silver would get into transactions and t
 
 Ranade proposed a simple but useful solution to increase the possibility of accumulation of wealth in India. He suggested that Indians, at such a juncture, must spend less. He argued for increasing the savings to nullify the effect of the lost 25 crores. He was also clear about how this accumulated wealth was to be used. This capital was to be wisely invested in profit-making businesses. Good returns would create a greater amount of new wealth.
 
-Finally, Ranade warned them against blindly accumulating the money and emphasized why it should be invested and reinvested to create more wealth for one’s own sake and for the nation. Thus Ranade’s solution to the worsening economic condition of India depended on a measured and disciplined frugality and well-thought investment of capital.     
-
-![](https://indianliberals.in/wp-content/uploads/2021/03/Vikrant-picture-300x300.jpg)
-
-**Vikrant Pande**
-
-Vikrant Pande is currently a research scholar at the Department of Civics and Politics (Pherozeshah Mehta Bhavan) at the University of Mumbai. He is faculty for Political Science at Ramnarain Ruia College (Autonomous). He is also an Indian Liberals Fellow with the Centre For Civil Society. The areas of his interest include Political Theory, Political Thought and Indian Political History.
+Finally, Ranade warned them against blindly accumulating the money and emphasized why it should be invested and reinvested to create more wealth for one’s own sake and for the nation. Thus Ranade’s solution to the worsening economic condition of India depended on a measured and disciplined frugality and well-thought investment of capital.

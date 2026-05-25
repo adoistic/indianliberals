@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+author: neethika-manoj
 subject: "hans-raj-khanna"
 thinker_mentions:
   - thinker: hans-raj-khanna
@@ -96,10 +97,4 @@ In my personal opinion, this truly depicts the sheer grace and high moral standa
 
 With reference to the words of eminent philosopher and writer Ayn Rand, H. R. Khanna was able to be the defender of the smallest minority of the world i.e., an individual, during one of the darkest days of Indian Democracy, where the letter of the law was sharpened against any voice that spoke against the State. 
 
-Thus, Justice H.R. Khanna deserves his own niche and spotlight in the history of the growth of liberalism in the Indian context. He pushed forth the values of liberty in a time where it was being muffled by the State, and that too, at the cost of a glorious career. His rigid stand in what he believed and grace in self conduct make him a hero the contemporary world deserves more to know about. 
-
-![](https://indianliberals.in/wp-content/uploads/2021/02/NM-Profile-Picture-e1614237271242-297x300.jpg)
-
-**Neethika Manoj**
-
-Neethika is an undergraduate student of law at the National University of Advanced Legal Studies (NUALS), Cochin.  She is an aspiring corporate lawyer and with regard to activities beyond academics, she volunteers with student organisations like Students For Liberty and AIESEC as she believes that coordinated action goes a long way in making this world a better place. She takes a keen interest in liberalism as a discipline of study and that is what drew her towards working with the Indian Liberals Project.
+Thus, Justice H.R. Khanna deserves his own niche and spotlight in the history of the growth of liberalism in the Indian context. He pushed forth the values of liberty in a time where it was being muffled by the State, and that too, at the cost of a glorious career. His rigid stand in what he believed and grace in self conduct make him a hero the contemporary world deserves more to know about.
