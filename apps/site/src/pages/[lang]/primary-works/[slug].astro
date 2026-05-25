@@ -112,12 +112,6 @@ const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
       )}
     </header>
 
-    {fm.summary && (
-      <div class="text-(--color-fg) leading-relaxed [&_p]:my-4 [&_p]:text-[1.0625rem]" lang={fm.language}>
-        {fm.summary.split(/\n\n+/).map((para) => <p>{para}</p>)}
-      </div>
-    )}
-
     <div class="prose-container mt-10" lang={fm.language}>
       <Content />
     </div>
