@@ -3,10 +3,10 @@
     "version": "v1.5-2026-05-17",
     "purpose": "Authority file seed for thinker resolution. Phase 0.2 byline sweep + Phase 0.3 Opus clustering refine this. Metadata extraction prompts resolve bylines against the byline_lookup map. Entries with confidence: canonical are trusted; medium-confidence entries are candidate names that need cluster-collapse (e.g., 'MR Masani' will collapse into 'minoo-masani' after Phase 0.3).",
     "counts": {
-      "total": 426,
-      "canonical": 112,
-      "high": 177,
-      "medium": 137
+      "total": 428,
+      "canonical": 97,
+      "high": 92,
+      "medium": 239
     },
     "schema_note": "Each entry follows the thinkerName shape from apps/site/src/content.config.ts.",
     "cluster_collapse_applied": "2026-05-18",
@@ -62,20 +62,6 @@
         "proposal",
         "thinkers_collection",
         "wp_author"
-      ]
-    },
-    {
-      "id": "arun-shourie",
-      "name": {
-        "canonical": "Arun Shourie",
-        "full": "Arun Shourie",
-        "sort": "Shourie, Arun"
-      },
-      "birth_year": 1941,
-      "tradition": "contemporary_liberal",
-      "confidence": "canonical",
-      "sources": [
-        "proposal"
       ]
     },
     {
@@ -143,19 +129,6 @@
         "proposal",
         "wp_author",
         "content/theprint-mirror/state-control-india-progress-exploitation-c-rajagopalachari.md"
-      ]
-    },
-    {
-      "id": "christopher-lingle",
-      "name": {
-        "canonical": "Christopher Lingle",
-        "full": "Christopher Lingle",
-        "sort": "Lingle, Christopher"
-      },
-      "tradition": "international_influence",
-      "confidence": "canonical",
-      "sources": [
-        "proposal"
       ]
     },
     {
@@ -675,19 +648,6 @@
       ]
     },
     {
-      "id": "tom-g-palmer",
-      "name": {
-        "canonical": "Tom G. Palmer",
-        "full": "Tom Gordon Palmer",
-        "sort": "Palmer, Tom G."
-      },
-      "tradition": "international_influence",
-      "confidence": "canonical",
-      "sources": [
-        "proposal"
-      ]
-    },
-    {
       "id": "ag-mulgaokar",
       "name": {
         "canonical": "AG Mulgaokar",
@@ -783,17 +743,6 @@
       "confidence": "high",
       "sources": [
         "content/theprint-mirror/socialism-hinders-indias-industrial-growth-we-need-free-enterprise-first.md"
-      ]
-    },
-    {
-      "id": "g-jayachandran",
-      "name": {
-        "canonical": "G Jayachandran",
-        "sort": "Jayachandran, G"
-      },
-      "confidence": "high",
-      "sources": [
-        "content/theprint-mirror/indian-welfarists-right-property-life-liberty.md"
       ]
     },
     {
@@ -1361,17 +1310,6 @@
       ]
     },
     {
-      "id": "sp-godrej",
-      "name": {
-        "canonical": "SP Godrej",
-        "sort": "Godrej, SP"
-      },
-      "confidence": "medium",
-      "sources": [
-        "pdf-filename/forum-of-free-enterprise/population-development-and-environment-by-sp-godrej-december-15-1994.pdf"
-      ]
-    },
-    {
       "id": "ss-bhandare-and-jk-mukhopadhyay",
       "name": {
         "canonical": "SS Bhandare And JK Mukhopadhyay",
@@ -1538,25 +1476,6 @@
       ]
     },
     {
-      "id": "napoleon-bonaparte",
-      "name": {
-        "canonical": "Napoleon Bonaparte",
-        "sort": "Bonaparte, Napoleon",
-        "also_known_as": [
-          "Napoleon",
-          "नेपोलियन",
-          "नेपोलियन बोनापार्ट"
-        ]
-      },
-      "birth_year": 1769,
-      "death_year": 1821,
-      "tradition": "international_influence",
-      "confidence": "canonical",
-      "sources": [
-        "corpus_mention"
-      ]
-    },
-    {
       "id": "maharana-pratap",
       "name": {
         "canonical": "Maharana Pratap",
@@ -1608,31 +1527,6 @@
       },
       "birth_year": 1875,
       "death_year": 1950,
-      "tradition": "nationalist_liberal",
-      "confidence": "canonical",
-      "sources": [
-        "corpus_mention"
-      ]
-    },
-    {
-      "id": "subhas-chandra-bose",
-      "name": {
-        "canonical": "Subhas Chandra Bose",
-        "sort": "Bose, Subhas Chandra",
-        "also_known_as": [
-          "Netaji",
-          "Subhash Chandra Bose",
-          "সুভাষ চন্দ্র বসু",
-          "সুভাষচন্দ্র বসু",
-          "সুভাষ বসু",
-          "সুভাষচন্দ্র",
-          "নেতাজি",
-          "सुभाष चंद्र बोस",
-          "नेताजी"
-        ]
-      },
-      "birth_year": 1897,
-      "death_year": 1945,
       "tradition": "nationalist_liberal",
       "confidence": "canonical",
       "sources": [
@@ -2649,26 +2543,6 @@
       ]
     },
     {
-      "id": "v-t-krishnamachari",
-      "name": {
-        "canonical": "V. T. Krishnamachari",
-        "full": "Vangal Thiruvenkatachari Krishnamachari",
-        "sort": "Krishnamachari, V. T.",
-        "also_known_as": [
-          "VT Krishnamachari",
-          "V T Krishnamachari",
-          "श्री वी. टी. कृष्णमाचारी"
-        ]
-      },
-      "birth_year": 1881,
-      "death_year": 1964,
-      "tradition": "nationalist_liberal",
-      "confidence": "canonical",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "jyotirao-phule",
       "name": {
         "canonical": "Jyotirao Phule",
@@ -2746,20 +2620,6 @@
       ]
     },
     {
-      "id": "david-hare",
-      "name": {
-        "canonical": "David Hare",
-        "sort": "Hare, David"
-      },
-      "birth_year": 1775,
-      "death_year": 1842,
-      "tradition": "social_reformer",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "thomas-babington-macaulay",
       "name": {
         "canonical": "Thomas Babington Macaulay",
@@ -2826,20 +2686,6 @@
       ]
     },
     {
-      "id": "william-adam",
-      "name": {
-        "canonical": "William Adam",
-        "sort": "Adam, William"
-      },
-      "birth_year": 1796,
-      "death_year": 1881,
-      "tradition": "international_influence",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "dwarkanath-tagore",
       "name": {
         "canonical": "Dwarkanath Tagore",
@@ -2852,44 +2698,6 @@
       "death_year": 1846,
       "tradition": "social_reformer",
       "confidence": "canonical",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "krishnamohan-bandyopadhyay",
-      "name": {
-        "canonical": "Krishna Mohan Banerjee",
-        "sort": "Banerjee, Krishna Mohan",
-        "also_known_as": [
-          "Krishnamohan Bandyopadhyay",
-          "Krishna Mohan Bandyopadhyay",
-          "কৃষ্ণমোহন বন্দ্যোপাধ্যায়"
-        ]
-      },
-      "birth_year": 1813,
-      "death_year": 1885,
-      "tradition": "social_reformer",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "radhakanta-deb",
-      "name": {
-        "canonical": "Radhakanta Deb",
-        "sort": "Deb, Radhakanta",
-        "also_known_as": [
-          "Radhakanta Dev",
-          "Raja Radhakanta Deb",
-          "রাধাকান্ত দেব"
-        ]
-      },
-      "birth_year": 1784,
-      "death_year": 1867,
-      "tradition": "social_reformer",
-      "confidence": "high",
       "sources": [
         "phase-0.6-wave2-refresh-2026-05-17"
       ]
@@ -2943,54 +2751,6 @@
       "death_year": 1858,
       "tradition": "social_reformer",
       "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "tarachand-chakrabarty",
-      "name": {
-        "canonical": "Tarachand Chakrabarty",
-        "sort": "Chakrabarty, Tarachand",
-        "also_known_as": [
-          "Tarachand Chakraborty",
-          "তারাচাঁদ চক্রবর্তী"
-        ]
-      },
-      "birth_year": 1804,
-      "death_year": 1855,
-      "tradition": "social_reformer",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "parichand-mitra",
-      "name": {
-        "canonical": "Peary Chand Mitra",
-        "sort": "Mitra, Peary Chand",
-        "also_known_as": [
-          "Parichand Mitra",
-          "প্যারীচাঁদ মিত্র"
-        ]
-      },
-      "birth_year": 1814,
-      "death_year": 1883,
-      "tradition": "social_reformer",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "narayan-mahadev-paramananda",
-      "name": {
-        "canonical": "Narayan Mahadev Paramananda",
-        "sort": "Paramananda, Narayan Mahadev"
-      },
-      "tradition": "social_reformer",
-      "confidence": "medium",
       "sources": [
         "phase-0.6-wave2-refresh-2026-05-17"
       ]
@@ -3075,25 +2835,6 @@
       ]
     },
     {
-      "id": "sirimavo-bandaranaike",
-      "name": {
-        "canonical": "Sirimavo Bandaranaike",
-        "sort": "Bandaranaike, Sirimavo",
-        "also_known_as": [
-          "Mrs. Sirimavo Bandaranaike",
-          "Mrs Srimavo Bandaranaike",
-          "Srimavo Bandaranaike"
-        ]
-      },
-      "birth_year": 1916,
-      "death_year": 2000,
-      "tradition": "international_influence",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "dudley-senanayake",
       "name": {
         "canonical": "Dudley Senanayake",
@@ -3119,23 +2860,6 @@
       },
       "birth_year": 1888,
       "death_year": 1959,
-      "tradition": "international_influence",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "anthony-eden",
-      "name": {
-        "canonical": "Anthony Eden",
-        "sort": "Eden, Anthony",
-        "also_known_as": [
-          "Prime Minister Eden"
-        ]
-      },
-      "birth_year": 1897,
-      "death_year": 1977,
       "tradition": "international_influence",
       "confidence": "high",
       "sources": [
@@ -3433,24 +3157,6 @@
       ]
     },
     {
-      "id": "maulana-abul-kalam-azad",
-      "name": {
-        "canonical": "Maulana Abul Kalam Azad",
-        "sort": "Azad, Maulana Abul Kalam",
-        "also_known_as": [
-          "Maulana Abdul Kalam Azad",
-          "Maulana Azad"
-        ]
-      },
-      "birth_year": 1888,
-      "death_year": 1958,
-      "tradition": "nationalist_liberal",
-      "confidence": "canonical",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "vijaya-lakshmi-pandit",
       "name": {
         "canonical": "Vijaya Lakshmi Pandit",
@@ -3582,20 +3288,6 @@
       "birth_year": 1896,
       "death_year": 1961,
       "tradition": "classical_liberal",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "humayun-kabir",
-      "name": {
-        "canonical": "Humayun Kabir",
-        "sort": "Kabir, Humayun"
-      },
-      "birth_year": 1906,
-      "death_year": 1969,
-      "tradition": "nationalist_liberal",
       "confidence": "high",
       "sources": [
         "phase-0.6-wave2-refresh-2026-05-17"
@@ -4162,20 +3854,6 @@
       ]
     },
     {
-      "id": "franz-oppenheimer",
-      "name": {
-        "canonical": "Franz Oppenheimer",
-        "sort": "Oppenheimer, Franz"
-      },
-      "birth_year": 1864,
-      "death_year": 1943,
-      "tradition": "international_influence",
-      "confidence": "medium",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "sunil-bhandare",
       "name": {
         "canonical": "Sunil S. Bhandare",
@@ -4334,20 +4012,6 @@
       "confidence": "high",
       "sources": [
         "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "d-m-kulkarni-libertarian",
-      "name": {
-        "canonical": "D. M. Kulkarni (Indian Libertarian)",
-        "sort": "Kulkarni, D. M.",
-        "also_known_as": []
-      },
-      "tradition": "classical_liberal",
-      "confidence": "medium",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17",
-        "Editorial note: distinct from existing `dm-kulkarni` entry; confirm in Phase 0.3 cluster collapse"
       ]
     },
     {
@@ -4953,37 +4617,6 @@
       ]
     },
     {
-      "id": "zhou-enlai",
-      "name": {
-        "canonical": "Zhou Enlai",
-        "sort": "Zhou, Enlai",
-        "also_known_as": [
-          "Chou En-lai"
-        ]
-      },
-      "birth_year": 1898,
-      "death_year": 1976,
-      "tradition": "international_influence",
-      "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "ngapo-ngawang-jigme",
-      "name": {
-        "canonical": "Ngapo Ngawang Jigme",
-        "sort": "Ngapo, Ngawang Jigme"
-      },
-      "birth_year": 1910,
-      "death_year": 2009,
-      "tradition": "international_influence",
-      "confidence": "medium",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "samdhong-rinpoche",
       "name": {
         "canonical": "Samdhong Rinpoche",
@@ -5084,21 +4717,6 @@
       ]
     },
     {
-      "id": "mehboob-desai",
-      "name": {
-        "canonical": "Mehboob Desai",
-        "sort": "Desai, Mehboob",
-        "also_known_as": [
-          "મહેબૂબ દેસાઈ"
-        ]
-      },
-      "tradition": "contemporary_liberal",
-      "confidence": "medium",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
       "id": "swami-anand",
       "name": {
         "canonical": "Swami Anand",
@@ -5111,20 +4729,6 @@
       "death_year": 1976,
       "tradition": "social_reformer",
       "confidence": "high",
-      "sources": [
-        "phase-0.6-wave2-refresh-2026-05-17"
-      ]
-    },
-    {
-      "id": "sumati-morarjee",
-      "name": {
-        "canonical": "Sumati Morarjee",
-        "sort": "Morarjee, Sumati"
-      },
-      "birth_year": 1909,
-      "death_year": 1998,
-      "tradition": "classical_liberal",
-      "confidence": "medium",
       "sources": [
         "phase-0.6-wave2-refresh-2026-05-17"
       ]
@@ -6934,7 +6538,6 @@
     "anu aga": "anu-aga",
     "anupam mehta": "anupam-mehta",
     "apj abdul kalam": "a-p-j-abdul-kalam",
-    "arun shourie": "arun-shourie",
     "arvind deshpande": "arvind-deshpande",
     "arvind lalbhai": "arvind-lalbhai",
     "ashok desai": "ashok-desai",
@@ -6976,21 +6579,16 @@
     "charan singh": "charan-singh",
     "chaudhary charan singh": "charan-singh",
     "chhatrapati shivaji": "shivaji",
-    "chou en-lai": "zhou-enlai",
-    "christopher lingle": "christopher-lingle",
     "claret d'souza": "claret-dsouza",
     "colonel nasser": "gamal-abdel-nasser",
     "cr": "c-rajagopalachari",
-    "d m kulkarni": "d-m-kulkarni-libertarian",
     "d r pendse": "d-r-pendse",
     "d v gundappa": "d-v-gundappa",
-    "david hare": "david-hare",
     "de soto": "hernando-de-soto",
     "deepak parekh": "deepak-parekh",
     "deng xiaoping": "deng-xiaoping",
     "derozio": "henry-louis-vivian-derozio",
     "dharamsey khatau": "dharamsey-khatau",
-    "dm kulkarni": "d-m-kulkarni-libertarian",
     "dn hosali": "dn-hosali",
     "dr abhay pethe": "abhay-pethe",
     "dr ac shah": "dr-ac-shah",
@@ -7037,12 +6635,10 @@
     "fazal-ur-rahman": "fazal-ur-rahman",
     "feroz khan noon": "feroz-khan-noon",
     "frank simoes": "frank-simoes",
-    "franz oppenheimer": "franz-oppenheimer",
     "frederic bastiat": "frederic-bastiat",
     "friedrich hayek": "friedrich-hayek",
     "friedrich naumann": "friedrich-naumann",
     "g giridhar prabhu": "g-giridhar-prabhu",
-    "g jayachandran": "g-jayachandran",
     "g n lawande": "g-n-lawande",
     "gandhi": "mahatma-gandhi",
     "gd parikh": "gd-parikh",
@@ -7063,7 +6659,6 @@
     "hla hart": "hla-hart",
     "hp ranina": "hp-ranina",
     "hubertus von welck": "hubertus-von-welck",
-    "humayun kabir": "humayun-kabir",
     "immanuel kant": "immanuel-kant",
     "inder gujral": "i-k-gujral",
     "indira": "indira-gandhi",
@@ -7119,7 +6714,6 @@
     "kishor karia": "kishor-karia",
     "kishore valicha": "kishore-valicha",
     "krishna menon": "v-k-krishna-menon",
-    "krishnamohan bandyopadhyay": "krishnamohan-bandyopadhyay",
     "kusum lotwala": "kusum-lotwala",
     "kusum r lotwala": "kusum-lotwala",
     "kusum shrestha": "kusum-shrestha",
@@ -7166,7 +6760,6 @@
     "margaret thatcher": "margaret-thatcher",
     "marx": "karl-marx",
     "matt ridley": "matt-ridley",
-    "maulana abdul kalam azad": "maulana-abul-kalam-azad",
     "maurice strong": "maurice-strong",
     "mc chagla": "m-c-chagla",
     "mc setalvad": "m-c-setalvad",
@@ -7201,8 +6794,6 @@
     "mr s v raju": "s-v-raju",
     "mr sanjay panse": "sanjay-panse",
     "mr sunil s bhandare": "sunil-bhandare",
-    "mrs sirimavo bandaranaike": "sirimavo-bandaranaike",
-    "mrs srimavo bandaranaike": "sirimavo-bandaranaike",
     "mrs vijayalaxmi pandit": "vijaya-lakshmi-pandit",
     "mrsanjay panse": "sanjay-panse",
     "ms seetha": "ms-seetha",
@@ -7216,17 +6807,12 @@
     "nani a palkhivala": "nani-palkhivala",
     "nani palkhivala": "nani-palkhivala",
     "nani palkhiwala": "nani-palkhivala",
-    "napoleon": "napoleon-bonaparte",
-    "napoleon bonaparte": "napoleon-bonaparte",
     "narasimha rao": "narasimha-rao",
     "narayan k varma": "narayan-varma",
-    "narayan mahadev paramananda": "narayan-mahadev-paramananda",
     "narayan varma": "narayan-varma",
     "narayana aiyar": "narayana-aiyar",
     "narendra nath bhattacharya": "m-n-roy",
     "nehru": "jawaharlal-nehru",
-    "netaji": "subhas-chandra-bose",
-    "ngapo ngawang jigme": "ngapo-ngawang-jigme",
     "om prakash kahol": "om-prakash-kahol",
     "p c mahalanobis": "p-c-mahalanobis",
     "p kodanda rao": "p-kodanda-rao",
@@ -7234,7 +6820,6 @@
     "p v narasimha rao": "narasimha-rao",
     "pandit nehru": "jawaharlal-nehru",
     "pandita ramabai": "pandita-ramabai",
-    "parichand mitra": "parichand-mitra",
     "parth j shah": "parth-shah",
     "patel": "sardar-patel",
     "periyar ramaswami naicker": "periyar-e-v-ramasamy",
@@ -7242,7 +6827,6 @@
     "phiroze j shroff": "phiroze-j-shroff",
     "piya mahatey": "piya-mahatey",
     "polanyi": "karl-polanyi",
-    "prime minister eden": "anthony-eden",
     "prof br shenoy": "b-r-shenoy",
     "prof cn vakil": "prof-cn-vakil",
     "prof mahalanobis": "p-c-mahalanobis",
@@ -7261,7 +6845,6 @@
     "r k hazari": "r-k-hazari",
     "r m mohan rao": "r-m-mohan-rao",
     "rabindranath tagore": "rabindranath-tagore",
-    "radhakanta dev": "radhakanta-deb",
     "raja ram mohan roy": "raja-ram-mohan-roy",
     "rajaji": "c-rajagopalachari",
     "rajendra prasad": "rajendra-prasad",
@@ -7307,16 +6890,12 @@
     "sir biren mookerjee": "biren-mookerjee",
     "sivanath sastri": "sivanath-sastri",
     "sn haji": "sn-haji",
-    "sp godrej": "sp-godrej",
     "sp sathe": "s-p-sathe",
     "ss bhandare": "sunil-bhandare",
     "ss bhandare and jk mukhopadhyay": "ss-bhandare-and-jk-mukhopadhyay",
     "stiglitz": "joseph-stiglitz",
-    "subhas chandra bose": "subhas-chandra-bose",
-    "subhash chandra bose": "subhas-chandra-bose",
     "sudha r shenoy": "sudha-r-shenoy",
     "sujata manohar": "sujata-manohar",
-    "sumati morarjee": "sumati-morarjee",
     "sunil s bhandare": "sunil-bhandare",
     "sv raju": "s-v-raju",
     "t r malthus": "thomas-robert-malthus",
@@ -7324,13 +6903,11 @@
     "t t krishnamachari": "t-t-krishnamachari",
     "tagore": "rabindranath-tagore",
     "tahir siddiqui": "tahir-siddiqui",
-    "tarachand chakrabarty": "tarachand-chakrabarty",
     "thakorelal desai": "thakorelal-desai",
     "theodor heuss": "theodor-heuss",
     "thomas aquinas": "thomas-aquinas",
     "thomas malthus": "thomas-robert-malthus",
     "thomas robert malthus": "thomas-robert-malthus",
-    "tom g palmer": "tom-g-palmer",
     "ttk": "t-t-krishnamachari",
     "utsavananda vidyabagish": "utsavananda-vidyabagish",
     "v k krishna menon": "v-k-krishna-menon",
@@ -7346,7 +6923,6 @@
     "warren hastings": "warren-hastings",
     "wilhelm ropke": "wilhelm-ropke",
     "wilhelm röpke": "wilhelm-ropke",
-    "william adam": "william-adam",
     "willy brandt": "willy-brandt",
     "winston churchill": "winston-churchill",
     "ww rowstow": "ww-rowstow",
@@ -7383,10 +6959,7 @@
     "डॉ पार्थ जे शाह": "parth-shah",
     "दांतेवाला": "m-l-dantewala",
     "धीमती सरोजिनी नायडू": "sarojini-naidu",
-    "नतज": "subhas-chandra-bose",
     "नन पलखवल": "nani-palkhivala",
-    "नपलयन": "napoleon-bonaparte",
-    "नपलयन बनपरट": "napoleon-bonaparte",
     "पडत नहर": "jawaharlal-nehru",
     "पडत रमबई": "pandita-ramabai",
     "ब आर शनय": "b-r-shenoy",
@@ -7417,11 +6990,9 @@
     "शरद जश": "sharad-joshi",
     "शरद पवार": "sharad-pawar",
     "शवज": "shivaji",
-    "श्री वी टी कृष्णमाचारी": "v-t-krishnamachari",
     "श्रीकांत अनंत उमरीकर": "shrikant-umrikar",
     "श्रीकांत उमरीकर": "shrikant-umrikar",
     "स रजगपलचर": "c-rajagopalachari",
-    "सभष चदर बस": "subhas-chandra-bose",
     "सरदर पटल": "sardar-patel",
     "सरदर वललभभई पटल": "sardar-patel",
     "सौविक चक्रवर्ती": "sauvik-chakraverti",
@@ -7431,15 +7002,10 @@
     "ঈশবরচনদর বদযসগর": "ishwar-chandra-vidyasagar",
     "এম এন রায়": "m-n-roy",
     "জয়প্রকাশ নারায়ণ": "jayaprakash-narayan",
-    "নতজ": "subhas-chandra-bose",
     "বগম রকয": "begum-rokeya",
     "মানবেন্দ্র নাথ রায়": "m-n-roy",
     "রবনদরনথ ঠকর": "rabindranath-tagore",
     "রাজীব গান্ধী": "rajiv-gandhi",
-    "সভষ চনদর বস": "subhas-chandra-bose",
-    "সভষ বস": "subhas-chandra-bose",
-    "সভষচনদর": "subhas-chandra-bose",
-    "সভষচনদর বস": "subhas-chandra-bose",
     "અંબરીષ મહેતા": "ambrish-mehta",
     "અનિલ પટેલ": "anil-patel",
     "અશ્વિન કારીઆ": "ashwin-karia",
@@ -7450,7 +7016,6 @@
     "ડંકેશ ઓઝા": "dankesh-oza",
     "તૃપ્તિ પારેખ": "trupti-parekh",
     "તૃષિ પારેખ": "trupti-parekh",
-    "મહેબૂબ દેસાઈ": "mehboob-desai",
     "રાજેશ મિશ્રા": "rajesh-mishra",
     "સુરેશ પરીખ": "suresh-parikh",
     "સ્વામી આનંદ": "swami-anand",
