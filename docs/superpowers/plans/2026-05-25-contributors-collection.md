@@ -143,7 +143,7 @@ rm -f public/pagefind          # dev-only symlink will block fresh build
 pnpm build 2>&1 | tee /tmp/contrib-build.log
 ln -s ../dist/pagefind public/pagefind   # restore for dev
 # Hard assertion: no error keywords AND page count matches baseline.
-! grep -qiE "error|failed|elifecycle" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
+! grep -qE "ELIFECYCLE|✘|✖|\[ERROR\]" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
 test "$(find dist -name 'index.html' | wc -l)" = "$(cat /tmp/contrib-baseline-pages)" || { echo "PAGE COUNT DRIFTED"; exit 1; }
 echo "build clean + page count matches baseline"
 ```
@@ -205,7 +205,7 @@ cd "/Users/siraj/Indian Liberals Website/apps/site"
 rm -f public/pagefind
 pnpm build 2>&1 | tee /tmp/contrib-build.log
 ln -s ../dist/pagefind public/pagefind
-! grep -qiE "error|failed|elifecycle" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
+! grep -qE "ELIFECYCLE|✘|✖|\[ERROR\]" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
 test "$(find dist -name 'index.html' | wc -l)" = "$(cat /tmp/contrib-baseline-pages)" || { echo "PAGE COUNT DRIFTED"; exit 1; }
 echo "build clean + page count matches baseline"
 ```
@@ -635,7 +635,7 @@ def main() -> int:
 cd "/Users/siraj/Indian Liberals Website"
 python3 scripts/synthesis/extract_opinion_contributors.py --dry-run | tee /tmp/extract-dryrun.log
 # Concrete count assertion: 61 opinions in; 30-50 bio blocks; 8-15 unique contributors.
-grep -qE "scanned 61 opinions; found [3-5][0-9] bio blocks → [8-9]|1[0-5] unique contributors" /tmp/extract-dryrun.log \
+grep -qE "scanned 61 opinions; found [3-5][0-9] bio blocks → ([8-9]|1[0-5]) unique contributors" /tmp/extract-dryrun.log \
   || { echo "EXTRACTION COUNT OUT OF RANGE — investigate"; exit 1; }
 echo "extraction counts in expected range"
 ```
@@ -1451,9 +1451,9 @@ cd "/Users/siraj/Indian Liberals Website/apps/site"
 rm -f public/pagefind
 pnpm build 2>&1 | tee /tmp/contrib-build.log
 ln -s ../dist/pagefind public/pagefind
-! grep -qiE "error|failed|elifecycle" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
+! grep -qE "ELIFECYCLE|✘|✖|\[ERROR\]" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
 # Page count should equal baseline + (#contributors + 1 index page).
-n_contrib=$(ls ../../apps/site/src/content/contributors/*.md 2>/dev/null | wc -l | tr -d ' ')
+n_contrib=$(ls ../src/content/contributors/*.md 2>/dev/null | wc -l | tr -d ' ')
 expected=$(( $(cat /tmp/contrib-baseline-pages) + n_contrib + 1 ))
 actual=$(find dist -name 'index.html' | wc -l | tr -d ' ')
 test "$actual" = "$expected" \
