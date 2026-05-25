@@ -1,0 +1,65 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const contributors = await getCollection("contributors", (c) => !c.data.draft);
+  return contributors.map((c) => ({ params: { slug: c.id }, props: { c } }));
+}
+
+const { c } = Astro.props;
+const { Content } = await render(c);
+
+// Pieces written by this contributor.
+const opinions = await getCollection("opinions");
+const byThisContributor = opinions
+  .filter((o) => o.data.author?.id === c.id)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+
+const subtitle = [c.data.role, c.data.affiliation].filter(Boolean).join(" · ");
+---
+
+<BaseLayout title={`${c.data.name.canonical} — Indian Liberals`}>
+  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16">
+    <header class="grid grid-cols-[auto,1fr] gap-6 items-start border-b border-(--color-border) pb-10 mb-10">
+      {c.data.photo ? (
+        <img src={c.data.photo} alt={`Portrait of ${c.data.name.canonical}`} class="w-32 h-32 rounded-sm object-cover" />
+      ) : (
+        <div class="w-32 h-32 bg-(--color-bg-muted) border border-(--color-border) rounded-sm flex items-center justify-center">
+          <span class="text-5xl font-(family-name:--font-display) text-(--color-fg-muted) opacity-30">
+            {c.data.name.canonical[0]}
+          </span>
+        </div>
+      )}
+      <div>
+        <h1 class="text-(--color-fg) leading-tight">{c.data.name.canonical}</h1>
+        {subtitle && (
+          <p class="mt-2 text-(--color-fg-muted) font-(family-name:--font-ui)">{subtitle}</p>
+        )}
+      </div>
+    </header>
+
+    {/* Bio prose (body of the MD) */}
+    <div class="prose-container text-(--color-fg) leading-relaxed">
+      <Content />
+    </div>
+
+    {byThisContributor.length > 0 && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+          Pieces by {c.data.name.canonical.split(" ")[0]} ({byThisContributor.length})
+        </h2>
+        <ul class="space-y-2">
+          {byThisContributor.map((o) => (
+            <li>
+              <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                {o.data.title}
+              </a>
+              <span class="text-(--color-fg-muted) text-xs ml-2">· {new Date(o.data.pubDate).getFullYear()}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </article>
+</BaseLayout>

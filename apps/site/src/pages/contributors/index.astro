@@ -1,0 +1,34 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import ContributorCard from "~/components/ContributorCard.astro";
+
+const contributors = (await getCollection("contributors", (c) => !c.data.draft))
+  .sort((a, b) => a.data.name.sort.localeCompare(b.data.name.sort));
+
+const opinions = await getCollection("opinions");
+const pieceCount = (slug: string) =>
+  opinions.filter((o) => o.data.author?.id === slug).length;
+---
+
+<BaseLayout title="Contributors — Indian Liberals">
+  <article class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+    <header class="border-b border-(--color-border) pb-10 mb-10">
+      <h1 class="text-(--color-fg)">Contributors</h1>
+      <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) max-w-prose">
+        Writers, fellows, and interns who have contributed opinion pieces
+        to indianliberals.in. Distinct from the Indian liberal canon
+        catalogued under <a href="/thinkers/" class="text-(--color-forest-700) hover:underline">thinkers</a>.
+      </p>
+      <p class="mt-4 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+        {contributors.length} contributors
+      </p>
+    </header>
+
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
+      {contributors.map((c) => (
+        <ContributorCard contributor={c} variant="card" pieceCount={pieceCount(c.id)} />
+      ))}
+    </div>
+  </article>
+</BaseLayout>
