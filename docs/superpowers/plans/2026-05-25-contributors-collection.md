@@ -40,6 +40,23 @@
 
 Goal: register the new `contributors` collection in Astro's content config (with the field shape from spec §5), and retype `opinions.author` from `thinkers` to `contributors`. Build should still pass with an empty collection.
 
+### Task 1.0: Capture pre-work baselines
+
+Many downstream assertions compare against the pre-work state. Capture once at the very top so every chunk can reference the same files.
+
+- [ ] **Step 1.0.1: Build the site fresh + record baselines**
+
+```bash
+cd "/Users/siraj/Indian Liberals Website/apps/site"
+rm -f public/pagefind
+pnpm build 2>&1 | tee /tmp/contrib-baseline-build.log
+ln -s ../dist/pagefind public/pagefind
+find dist -name 'index.html' | wc -l > /tmp/contrib-baseline-pages
+echo "baseline pages: $(cat /tmp/contrib-baseline-pages)"
+```
+
+Expected: clean build; baseline-pages count recorded (typically 1274 at the time of writing).
+
 ### Task 1.1: Add the `contributors` collection definition
 
 **Files:**
@@ -87,17 +104,28 @@ const contributors = defineCollection({
 
 - [ ] **Step 1.1.2: Register the collection in the `collections` export**
 
-Modify the existing export block (around line 643). Insert `contributors` next to `thinkers`:
+First anchor the current export block so the edit is exact:
 
-```typescript
-export const collections = {
-  thinkers,
-  contributors,        // ← NEW
-  organisations,
-  musings,
-  // …rest unchanged
-};
+```bash
+cd "/Users/siraj/Indian Liberals Website"
+grep -n "^export const collections" apps/site/src/content.config.ts
+# Note the line number; the block runs ~14 lines.
+sed -n '/^export const collections/,/^};/p' apps/site/src/content.config.ts
 ```
+
+Then use Edit to insert `contributors,` between `thinkers,` and `organisations,`. Exact match (`old_string` / `new_string`):
+
+```
+old_string:
+  thinkers,
+  organisations,
+new_string:
+  thinkers,
+  contributors,
+  organisations,
+```
+
+No other line in the export changes.
 
 - [ ] **Step 1.1.3: Create the empty content dir + .gitkeep**
 
@@ -112,11 +140,15 @@ touch apps/site/src/content/contributors/.gitkeep
 ```bash
 cd "/Users/siraj/Indian Liberals Website/apps/site"
 rm -f public/pagefind          # dev-only symlink will block fresh build
-pnpm build 2>&1 | grep -E "Indexed |error|Error|ELIFECYCLE"
+pnpm build 2>&1 | tee /tmp/contrib-build.log
 ln -s ../dist/pagefind public/pagefind   # restore for dev
+# Hard assertion: no error keywords AND page count matches baseline.
+! grep -qiE "error|failed|elifecycle" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
+test "$(find dist -name 'index.html' | wc -l)" = "$(cat /tmp/contrib-baseline-pages)" || { echo "PAGE COUNT DRIFTED"; exit 1; }
+echo "build clean + page count matches baseline"
 ```
 
-Expected: `Indexed N pages` line prints; no errors. Page count should match the pre-change count exactly (we haven't added any pages, just an empty collection).
+Expected: `build clean + page count matches baseline` (no Astro errors; page count unchanged).
 
 ### Task 1.2: Retype `opinions.author` from `thinkers` to `contributors`
 
@@ -171,11 +203,14 @@ EOF
 ```bash
 cd "/Users/siraj/Indian Liberals Website/apps/site"
 rm -f public/pagefind
-pnpm build 2>&1 | grep -E "Indexed |error|Error|ELIFECYCLE"
+pnpm build 2>&1 | tee /tmp/contrib-build.log
 ln -s ../dist/pagefind public/pagefind
+! grep -qiE "error|failed|elifecycle" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
+test "$(find dist -name 'index.html' | wc -l)" = "$(cat /tmp/contrib-baseline-pages)" || { echo "PAGE COUNT DRIFTED"; exit 1; }
+echo "build clean + page count matches baseline"
 ```
 
-Expected: clean build. Page count is `+1` from baseline (the new `/contributors/shivani-a-tannu/`-ish… wait — no page template yet; Astro builds collection entries but doesn't render pages until we add `pages/contributors/[slug].astro` in Chunk 4). So page count is **unchanged** from baseline.
+Expected: build clean. Page count unchanged from baseline (no `pages/contributors/` template exists yet — Astro builds collection entries but doesn't render detail pages until Chunk 4).
 
 - [ ] **Step 1.2.4: Commit Chunk 1**
 
@@ -457,11 +492,16 @@ def extract_bio_block(body: str) -> dict | None:
     """Find the trailing bio block in an opinion body. Returns
     {name, photo_url, bio} or None if no real bio block is present.
 
-    Walks both patterns; takes the LAST match (the trailing block, not
-    any inline mid-body image). Filters false-positive 'names' that are
-    actually section headings."""
-    last = None
-    for rx in (_BIO_WITH_PHOTO_RX, _BIO_NAME_ONLY_RX):
+    Precedence: pattern A (photo + name + bio) is tried first. If at least
+    one A match survives the false-positive + bio-length filters, the LAST
+    A match wins. Only if NO A match survives do we fall through to pattern
+    B (name + bio without photo).
+
+    This matters because pattern B's name-only regex is broader and can
+    match bold subheadings mid-body — pattern A's image anchor is the
+    strong signal that a real trailing bio block is present."""
+    def _candidates(rx, has_photo: bool):
+        out = []
         for m in rx.finditer(body):
             name = m.group("name").strip()
             if is_false_positive(name):
@@ -469,12 +509,14 @@ def extract_bio_block(body: str) -> dict | None:
             bio = m.group("bio").strip()
             if len(bio) < 80:
                 continue
-            try:
-                photo = m.group("photo")
-            except IndexError:
-                photo = None
-            last = {"name": name, "photo_url": photo, "bio": bio}
-    return last
+            photo = m.group("photo") if has_photo else None
+            out.append({"name": name, "photo_url": photo, "bio": bio})
+        return out
+    a = _candidates(_BIO_WITH_PHOTO_RX, has_photo=True)
+    if a:
+        return a[-1]
+    b = _candidates(_BIO_NAME_ONLY_RX, has_photo=False)
+    return b[-1] if b else None
 ```
 
 - [ ] **Step 2.2.3: Run tests — expect all 11 PASS**
@@ -591,10 +633,14 @@ def main() -> int:
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-python3 scripts/synthesis/extract_opinion_contributors.py --dry-run
+python3 scripts/synthesis/extract_opinion_contributors.py --dry-run | tee /tmp/extract-dryrun.log
+# Concrete count assertion: 61 opinions in; 30-50 bio blocks; 8-15 unique contributors.
+grep -qE "scanned 61 opinions; found [3-5][0-9] bio blocks → [8-9]|1[0-5] unique contributors" /tmp/extract-dryrun.log \
+  || { echo "EXTRACTION COUNT OUT OF RANGE — investigate"; exit 1; }
+echo "extraction counts in expected range"
 ```
 
-Expected: `scanned 61 opinions; found ~45 bio blocks → ~12 unique contributors; new MDs: 0; skipped (already existed): 0` (existing is the shivani stub from Chunk 1, but she's a different slug name; should still be ~12 net new candidates).
+Expected: line of the form `scanned 61 opinions; found 4N bio blocks → 1N unique contributors; new MDs: 0; skipped (already existed): 0`. The `[3-5][0-9]` / `[8-9]|1[0-5]` bracket bounds catch regex regressions.
 
 - [ ] **Step 2.2.6: Run the extraction (live) — produce contributor MDs**
 
@@ -613,14 +659,20 @@ head -10 apps/site/src/content/contributors/sanjeet-kashyap.md
 - [ ] **Step 2.2.7: Run the script AGAIN — verify idempotence**
 
 ```bash
+cd "/Users/siraj/Indian Liberals Website"
+# Snapshot the contributor dir state after the live run from Step 2.2.6.
+git diff --stat apps/site/src/content/contributors/ > /tmp/extract-diff-1.txt
+
+# Re-run and re-snapshot.
 python3 scripts/synthesis/extract_opinion_contributors.py
+git diff --stat apps/site/src/content/contributors/ > /tmp/extract-diff-2.txt
+
+# Diff the snapshots — must be identical (no further mods from the re-run).
+diff /tmp/extract-diff-1.txt /tmp/extract-diff-2.txt && echo "idempotent ✓" \
+  || { echo "NOT IDEMPOTENT — re-run mutated files"; exit 1; }
 ```
 
-Expected: `new MDs: 0; skipped (already existed): ~12`. No file mutations.
-
-```bash
-git status apps/site/src/content/contributors/   # expect only newly-created MDs from the first live run; no further mods
-```
+Expected: `idempotent ✓` printed; exit 0.
 
 - [ ] **Step 2.2.8: Re-build the site — confirm contributor MDs validate against the schema**
 
@@ -742,7 +794,7 @@ Expected: ~13 lines printed, each `downloaded` or `exists`. If any line says `FA
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
 python3 <<'PY'
-import json, re, yaml
+import json, re
 from pathlib import Path
 
 sidecar = Path("data/synthesis/contributor-photo-urls.jsonl")
@@ -1082,15 +1134,20 @@ Expected: ~45 opinion MDs modified.
 - [ ] **Step 3.2.6: Verify idempotence**
 
 ```bash
+cd "/Users/siraj/Indian Liberals Website"
+# Snapshot opinions dir diff after the live run from Step 3.2.5.
+git diff --stat apps/site/src/content/opinions/ > /tmp/wire-diff-1.txt
+
+# Re-run and re-snapshot.
 python3 scripts/synthesis/wire_opinion_contributors.py
+git diff --stat apps/site/src/content/opinions/ > /tmp/wire-diff-2.txt
+
+# Diff the snapshots — must be identical.
+diff /tmp/wire-diff-1.txt /tmp/wire-diff-2.txt && echo "idempotent ✓" \
+  || { echo "NOT IDEMPOTENT — re-run mutated files"; exit 1; }
 ```
 
-Expected: `wire 0 new author refs; strip bio from 0 bodies; ~45 already wired; ~16 no bio match`. No file changes from this second run:
-
-```bash
-git status apps/site/src/content/opinions/ | grep -c "^	modified:"
-# Expected: same count as after Step 3.2.5 (no further mods from this run alone)
-```
+Expected: `idempotent ✓` printed; exit 0.
 
 - [ ] **Step 3.2.7: Build the site**
 
@@ -1150,6 +1207,18 @@ EOF
 
 Goal: render the contributor detail page, the contributor index page, and add a "Written by" card to the opinion page.
 
+### Task 4.0: Sanity-check Tailwind version
+
+The `ContributorCard` styles use Tailwind v4 arbitrary-value-from-CSS-var syntax (`text-(--color-fg)`, `font-(family-name:--font-ui)`). On Tailwind v3 this syntax silently no-ops and the cards render unstyled.
+
+- [ ] **Step 4.0.1: Confirm Tailwind v4 is in use**
+
+```bash
+cd "/Users/siraj/Indian Liberals Website"
+grep '"tailwindcss"' apps/site/package.json
+# Expected: a "^4.x.y" version string. If "^3.x" — STOP and revise component CSS to use Tailwind v3 syntax (e.g., text-[color:var(--color-fg)]).
+```
+
 ### Task 4.1: `ContributorCard` shared component
 
 **Files:**
@@ -1173,9 +1242,12 @@ interface Props {
     };
   };
   variant?: "inline" | "card";
+  // Optional piece count rendered only in the `card` variant
+  // (used on the /contributors/ index per spec §8.2).
+  pieceCount?: number;
 }
 
-const { contributor, variant = "inline" } = Astro.props;
+const { contributor, variant = "inline", pieceCount } = Astro.props;
 const d = contributor.data;
 const subtitle = [d.role, d.affiliation].filter(Boolean).join(" · ");
 ---
@@ -1213,6 +1285,11 @@ const subtitle = [d.role, d.affiliation].filter(Boolean).join(" · ");
     </p>
     {subtitle && (
       <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">{subtitle}</p>
+    )}
+    {typeof pieceCount === "number" && (
+      <p class="mt-1.5 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
+        {pieceCount} {pieceCount === 1 ? "piece" : "pieces"}
+      </p>
     )}
   </a>
 )}
@@ -1330,7 +1407,7 @@ const pieceCount = (slug: string) =>
 
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
       {contributors.map((c) => (
-        <ContributorCard contributor={c} variant="card" />
+        <ContributorCard contributor={c} variant="card" pieceCount={pieceCount(c.id)} />
       ))}
     </div>
   </article>
@@ -1372,11 +1449,19 @@ Find the `<Content />` render block. Immediately after it (before any closing se
 ```bash
 cd "/Users/siraj/Indian Liberals Website/apps/site"
 rm -f public/pagefind
-pnpm build 2>&1 | grep -E "Indexed |error|Error|ELIFECYCLE"
+pnpm build 2>&1 | tee /tmp/contrib-build.log
 ln -s ../dist/pagefind public/pagefind
+! grep -qiE "error|failed|elifecycle" /tmp/contrib-build.log || { echo "BUILD FAILED"; exit 1; }
+# Page count should equal baseline + (#contributors + 1 index page).
+n_contrib=$(ls ../../apps/site/src/content/contributors/*.md 2>/dev/null | wc -l | tr -d ' ')
+expected=$(( $(cat /tmp/contrib-baseline-pages) + n_contrib + 1 ))
+actual=$(find dist -name 'index.html' | wc -l | tr -d ' ')
+test "$actual" = "$expected" \
+  && echo "page count $actual = baseline + $n_contrib contributors + 1 index ✓" \
+  || { echo "PAGE COUNT MISMATCH: expected $expected, got $actual"; exit 1; }
 ```
 
-Expected: page count is +N from baseline where `N = (contributor detail pages) + 1 (contributor index page)`. If there are 12 contributors, expect `+13`.
+Expected: assertion passes with the explicit count.
 
 - [ ] **Step 4.4.4: Smoke-test the rendered pages**
 
@@ -1596,14 +1681,19 @@ grep -c 'href="/contributors/shivani-a-tannu/"' apps/site/dist/opinions/encoding
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-find apps/site/dist -name 'index.html' | wc -l
-# Compare to the pre-work baseline. Delta should equal:
-#   +N (contributor detail pages) + 1 (contributor index) - 1 (deleted shivani thinker)
-# For 12 contributors: delta = +12 + 1 - 1 = +12
+# Page count delta vs the baseline captured in Step 1.0.1.
+baseline=$(cat /tmp/contrib-baseline-pages)
+actual=$(find apps/site/dist -name 'index.html' | wc -l | tr -d ' ')
+n_contrib=$(ls apps/site/src/content/contributors/*.md | wc -l | tr -d ' ')
+# Expected: baseline + n_contrib detail pages + 1 index page - 1 (shivani thinker deleted).
+expected=$(( baseline + n_contrib + 1 - 1 ))
+test "$actual" = "$expected" \
+  && echo "page count $actual = baseline ($baseline) + $n_contrib contrib + 1 index − 1 shivani ✓" \
+  || { echo "MISMATCH: expected $expected, got $actual"; exit 1; }
 
-# /thinkers/ index still renders the canon sections
-grep -c "Liberal canon\|Extended liberal tradition\|Referenced thinkers" apps/site/dist/thinkers/index.html
-# Expected: 3
+# /thinkers/ index still renders the canon sections.
+grep -E "Liberal canon|Extended liberal tradition|Referenced thinkers" apps/site/dist/thinkers/index.html | wc -l
+# Expected: at least 3 (one per section heading).
 ```
 
 ### Task 5.3: Commit + final ship
@@ -1612,9 +1702,13 @@ grep -c "Liberal canon\|Extended liberal tradition\|Referenced thinkers" apps/si
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-git add apps/site/src/content/thinkers/shivani-a-tannu.md \
-        apps/site/src/content/contributors/shivani-a-tannu.md \
+# Sanity-check what's staged. The deletion of the thinker MD was already
+# staged by `git rm` in Step 5.1.2 — don't re-add the deleted path.
+git status --short
+git add apps/site/src/content/contributors/shivani-a-tannu.md \
         data/authority/thinkers.json
+# Verify exactly the right files are staged before committing.
+git diff --cached --stat | tail -3
 git commit -m "$(cat <<'EOF'
 chore(data): migrate shivani-a-tannu thinker → contributor
 
