@@ -1,13 +1,7 @@
 ---
-import BaseLayout from "~/layouts/BaseLayout.astro";
-import { getCollection, render } from "astro:content";
-import {
-  hreflangAlternates,
-  shouldNoindex,
-  LOCALES,
-  DEFAULT_LOCALE,
-  type LangCode,
-} from "~/lib/i18n";
+import { getCollection } from "astro:content";
+import { DEFAULT_LOCALE, LOCALES, type LangCode } from "~/lib/i18n";
+import MusingDetail from "~/components/MusingDetail.astro";
 
 export async function getStaticPaths() {
   const musings = await getCollection(
@@ -23,49 +17,6 @@ export async function getStaticPaths() {
 }
 
 const { m } = Astro.props;
-const { Content } = await render(m);
-
-const hreflang = hreflangAlternates(
-  "musings",
-  m.id,
-  m.data.language,
-  m.data.translations,
-  Astro.site!.origin,
-);
 ---
 
-<BaseLayout
-  title={`${m.data.title} — Indian Liberals`}
-  lang={m.data.language}
-  hreflang={hreflang}
-  noindex={shouldNoindex(m.data.translation_status)}
->
-  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:musing,lang:${m.data.language}`}>
-    <header class="border-b border-(--color-border) pb-8 mb-10">
-      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Musing
-      </p>
-      <h1 class="text-(--color-fg) leading-tight" lang={m.data.language}>{m.data.title}</h1>
-      <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
-        {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
-      </p>
-      {m.data.key_concepts && m.data.key_concepts.length > 0 && (
-        <ul class="flex flex-wrap gap-1.5 mt-3 not-prose">
-          {m.data.key_concepts.map((kc) => (
-            <li>
-              <a
-                href={`/${m.data.language}/musings/?key_concept=${encodeURIComponent(kc)}`}
-                class="inline-block px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg-muted) hover:border-(--color-fg) hover:text-(--color-fg) transition-colors font-(family-name:--font-ui)"
-              >
-                {kc.replace(/-/g, " ")}
-              </a>
-            </li>
-          ))}
-        </ul>
-      )}
-    </header>
-    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5" lang={m.data.language}>
-      <Content />
-    </div>
-  </article>
-</BaseLayout>
+<MusingDetail entry={m} />
