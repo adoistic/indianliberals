@@ -48,7 +48,7 @@ const hreflang = hreflangAlternates(
       <h1 class="text-(--color-fg) leading-tight" lang={o.data.language}>{o.data.title}</h1>
       <p class="mt-4 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
         {new Date(o.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
-        {o.data.author_name && o.data.author_name !== "CCS Editorial Team" && (<><span> · {o.data.author_name}</span></>)}
+        {o.data.author_name && o.data.author_name !== "Editorial Team" && o.data.author_name !== "CCS Editorial Team" && (<><span> · {o.data.author_name}</span></>)}
       </p>
       {o.data.key_concepts && o.data.key_concepts.length > 0 && (
         <ul class="flex flex-wrap gap-1.5 mt-3 not-prose">

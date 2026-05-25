@@ -57,7 +57,7 @@ const mentionSlugs = (o.data.thinker_mentions ?? [])
               {authorEntry.data.name.canonical}
             </a>
           </>
-        ) : o.data.author_name && o.data.author_name !== "CCS Editorial Team" ? (
+        ) : o.data.author_name && o.data.author_name !== "Editorial Team" && o.data.author_name !== "CCS Editorial Team" ? (
           <span> · {o.data.author_name}</span>
         ) : null}
         {subjectEntry && (

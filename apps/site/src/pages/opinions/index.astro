@@ -260,7 +260,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
               <a href={`/opinions/${o.id}/`} class="block no-underline group">
                 <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
                   {new Date(o.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
-                  {o.data.author_name && o.data.author_name !== "CCS Editorial Team" && (<><span> · </span>{o.data.author_name}</>)}
+                  {o.data.author_name && o.data.author_name !== "Editorial Team" && o.data.author_name !== "CCS Editorial Team" && (<><span> · </span>{o.data.author_name}</>)}
                 </p>
                 <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
                   {o.data.title}
