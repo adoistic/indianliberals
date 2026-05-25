@@ -146,7 +146,7 @@ For each opinion MD:
    - **name + bio (no photo)**: `\n**<Name>**\n<bio paragraph>` (where bio ≥ 80 chars)
 2. Filter out false positives by name pattern (section headings like "Introduction", "References", "Conclusion", "Way forward", "Summing Up", "Background", and known doc-title patterns).
 3. Slugify the name (`Sanjeet Kashyap` → `sanjeet-kashyap`).
-4. If `apps/site/src/content/contributors/<slug>.md` already exists, skip (dedupes Sanjeet's 20 occurrences into one MD). If the existing MD's body is shorter than the newly-extracted bio, optionally update (curator-review).
+4. If `apps/site/src/content/contributors/<slug>.md` already exists, skip without writing (dedupes Sanjeet's 20 occurrences into one MD). Re-runs MUST NOT overwrite an existing MD even when the freshly-extracted bio is longer — that preserves idempotence (§10.2 #7) and prevents accidental clobber of curator edits. If a curator wants to refresh from a longer source bio, they delete the MD first and re-run.
 5. Else create the MD with:
    - `id: <slug>`
    - `name.canonical: <extracted name>`, `name.sort: <Surname, Given>`
@@ -206,12 +206,17 @@ Simple grid (matches the `/thinkers/` cards-with-portrait pattern):
 
 After the existing body content, before the footer:
 ```jsx
+---
+import { getEntry } from 'astro:content';
+// `o.data.author` is the Astro reference to the contributors collection.
+const contributor = o.data.author ? await getEntry(o.data.author) : null;
+---
 {contributor && (
   <ContributorCard contributor={contributor} />
 )}
 ```
 
-`ContributorCard` component renders: small photo + name (linked to `/contributors/<slug>/`) + 1-2 sentence affiliation/role line. Reads from the opinion's `author` ref.
+`ContributorCard` component renders: small photo + name (linked to `/contributors/<slug>/`) + 1-2 sentence affiliation/role line. Reads from the opinion's resolved contributor entry.
 
 When `author` is unset, no card renders (graceful fallback for the 16 opinions without a bio block).
 
@@ -271,7 +276,7 @@ Each numbered criterion is independently verifiable.
 
 ### 10.7 Regression
 
-23. Page count delta after the work lands is exactly `+N+1` from current (N contributor detail pages + 1 contributor index page), minus 1 for the deleted shivani-a-tannu thinker page.
+23. Page count delta after the work lands is exactly `+N` from current, where `N = (contributor detail pages) + 1 (contributor index page) − 1 (deleted shivani-a-tannu thinker page)`. Verified via `find apps/site/dist -name 'index.html' | wc -l` before vs after.
 24. `/thinkers/index.html` still renders all canon sections unchanged.
 25. `/thinkers/` page counts (Liberal canon, Extended, Referenced, Awaiting) are unchanged from pre-work counts.
 26. `pnpm build` exits clean.
