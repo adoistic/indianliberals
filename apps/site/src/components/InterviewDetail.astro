@@ -1,0 +1,128 @@
+---
+// InterviewDetail.astro — shared full-UI component for interview entries.
+//
+// INVENTORY — which template each section came from:
+//   FROM English only (previously missing in i18n route):
+//     - subjectEntry resolution via getEntry() — i18n route had no byline at
+//       all; English resolved the subject reference and linked to /thinkers/.
+//     - "With <subject-link> · interviewed by <interviewer>" byline (with
+//       plain-text fallback to subject_name when the ref doesn't resolve).
+//     - PeopleInPiece component (subjectSlugs only; interviews have no author
+//       or thinker_mentions in the schema).
+//     - RelatedSection component.
+//   FROM i18n only (previously extra on that route, NOW unified into component):
+//     - lang={entry.data.language} passed to BaseLayout — the English template
+//       never passed lang, so <html lang> defaulted to BaseLayout's fallback.
+//       Now centralised here for both routes.
+//     - hreflang={hreflangAlternates(...)} — English template never emitted
+//       self-referencing <link rel="alternate"> tags. Now unified.
+//     - noindex={shouldNoindex(entry.data.translation_status)} — English
+//       template never passed noindex. Now unified.
+//   DROPPED from i18n (redundant per prior-chunk convention):
+//     - lang={i.data.language} on <h1> — BaseLayout sets <html lang>; the
+//       per-element attribute was redundant. Dropped.
+//     - lang={i.data.language} on prose-container div — same reason. Dropped.
+//   BOTH routes retained (kept exactly as-is):
+//     - "Interview · audio/video" eyebrow.
+//     - h1 title.
+//     - pubDate formatted with en-IN locale.
+//     - youtubeEmbedSrc() helper (previously duplicated in both templates;
+//       now lives only here).
+//     - YouTube iframe embed when youtube_url parses.
+//     - prose-container block with interview-specific styling.
+//     - data-pagefind-filter="type:interview,lang:X" on <article>.
+//   NOTE: English interview pages now emit <link rel="alternate" hreflang>
+//     and <link rel="canonical"> (BaseLayout default) that they didn't before.
+//     This is a head-only, strictly-additive SEO improvement — every other
+//     collection's English routes already emitted these; interviews was the
+//     only holdout. No visible content change.
+//   No description is passed to BaseLayout (preserved from both originals;
+//   rely on BaseLayout's own default).
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getEntry, render } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import RelatedSection from "~/components/RelatedSection.astro";
+import PeopleInPiece from "~/components/PeopleInPiece.astro";
+
+interface Props {
+  entry: CollectionEntry<"interviews">;
+}
+
+const { entry } = Astro.props;
+// Alias for ergonomics — existing template logic uses `i`.
+const i = entry;
+const { Content } = await render(i);
+
+const hreflang = hreflangAlternates(
+  "interviews",
+  i.id,
+  i.data.language,
+  i.data.translations,
+  Astro.site!.origin,
+);
+
+// Resolve the subject thinker (if linked via the structured ref) so the
+// byline can be a hyperlink to the thinker bio page. Falls back to plain
+// text from subject_name when the resolver didn't find a match.
+const subjectEntry = i.data.subject ? await getEntry(i.data.subject) : null;
+
+function youtubeEmbedSrc(url: string | undefined): string | null {
+  if (!url) return null;
+  const m = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|watch\?v=|v\/))([\w-]+)/);
+  return m ? `https://www.youtube.com/embed/${m[1]}` : null;
+}
+
+const embed = youtubeEmbedSrc(i.data.youtube_url);
+---
+
+<BaseLayout
+  title={`${i.data.title} — Indian Liberals`}
+  lang={i.data.language}
+  hreflang={hreflang}
+  noindex={shouldNoindex(i.data.translation_status)}
+>
+  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:interview,lang:${i.data.language}`}>
+    <header class="border-b border-(--color-border) pb-8 mb-10">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Interview · audio/video
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">{i.data.title}</h1>
+      {(subjectEntry || i.data.subject_name) && (
+        <p class="mt-4 text-base text-(--color-fg) font-(family-name:--font-ui)">
+          With{" "}
+          {subjectEntry ? (
+            <a href={`/thinkers/${subjectEntry.id}/`} class="text-(--color-forest-700) font-semibold">
+              {subjectEntry.data.name.canonical}
+            </a>
+          ) : (
+            i.data.subject_name
+          )}
+          {i.data.interviewer && (
+            <span class="text-(--color-fg-muted)"> · interviewed by {i.data.interviewer}</span>
+          )}
+        </p>
+      )}
+      <p class="mt-2 text-(--color-fg-muted) font-(family-name:--font-ui) text-sm">
+        {new Date(i.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
+      </p>
+    </header>
+
+    {embed && (
+      <div class="aspect-video mb-10 bg-black rounded overflow-hidden">
+        <iframe src={embed} title={i.data.title} class="w-full h-full" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+      </div>
+    )}
+
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700)">
+      <Content />
+    </div>
+
+    {subjectEntry && (
+      <PeopleInPiece subjectSlugs={[subjectEntry.id]} />
+    )}
+
+    <RelatedSection collection="interviews" slug={i.id} viewerLang={i.data.language} />
+  </article>
+</BaseLayout>
