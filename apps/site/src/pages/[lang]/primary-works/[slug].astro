@@ -1,18 +1,7 @@
 ---
-// Lang-prefixed primary-work detail page (Hindi / Gujarati / Marathi / Bengali).
-// Minimal template — picks up content when translated primary-work MDs land.
-// English version with the full UI lives at /pages/primary-works/[slug].astro.
-
-import BaseLayout from "~/layouts/BaseLayout.astro";
-import { getCollection, render } from "astro:content";
-import {
-  hreflangAlternates,
-  shouldNoindex,
-  LOCALES,
-  DEFAULT_LOCALE,
-  type LangCode,
-} from "~/lib/i18n";
-import { resolveAuthorEntries } from "~/lib/resolve-author-entries";
+import { getCollection } from "astro:content";
+import { DEFAULT_LOCALE, LOCALES, type LangCode } from "~/lib/i18n";
+import PrimaryWorkDetail from "~/components/PrimaryWorkDetail.astro";
 
 export async function getStaticPaths() {
   const works = await getCollection(
@@ -21,99 +10,10 @@ export async function getStaticPaths() {
   );
   return works
     .filter((w) => LOCALES.includes(w.data.language as LangCode))
-    .map((w) => ({
-      params: { lang: w.data.language, slug: w.id },
-      props: { w },
-    }));
+    .map((w) => ({ params: { lang: w.data.language, slug: w.id }, props: { w } }));
 }
 
 const { w } = Astro.props;
-const { Content } = await render(w);
-const fm = w.data;
-
-const hreflang = hreflangAlternates(
-  "primary-works",
-  w.id,
-  fm.language,
-  fm.translations,
-  Astro.site!.origin,
-);
-
-// Byline rendering ported from English template for organisational-authorship support (spec 2026-05-23).
-// Scope is byline-only — PeopleInPiece / RelatedSection / Themes / Pull quotes intentionally not ported here.
-const authorEntries = await resolveAuthorEntries(fm.authors, w.id);
-
-const bylineFallback = (fm.contributors ?? [])
-  .filter((c) => c.role === "author")
-  .map((c) => c.thinker_unresolved || c.thinker?.id || "")
-  .filter(Boolean)
-  .join(", ");
-
-const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
 ---
 
-<BaseLayout
-  title={`${fm.title.main} — Indian Liberals`}
-  description={fm.summary ? fm.summary.slice(0, 200) : `Primary work: ${fm.title.main}.`}
-  lang={fm.language}
-  hreflang={hreflang}
-  noindex={shouldNoindex(fm.translation_status)}
->
-  <article
-    class="mx-auto max-w-4xl px-6 py-12 md:py-16"
-    data-pagefind-filter={`type:primary-work,lang:${fm.language}`}
-    data-pagefind-meta={`work_type:${fm.work_type},year:${yearStr}`}
-  >
-    <header class="border-b border-(--color-border) pb-10 mb-10">
-      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        {fm.work_type.replace(/_/g, " ")}
-      </p>
-      <h1 class="text-(--color-fg) leading-tight" lang={fm.language}>
-        {fm.title.main}
-      </h1>
-      {fm.title.subtitle && (
-        <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-xl mt-2" lang={fm.language}>
-          {fm.title.subtitle}
-        </p>
-      )}
-
-      {/* Byline */}
-      {(authorEntries.length > 0 || bylineFallback) && (
-        <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
-          By{" "}
-          {authorEntries.length > 0
-            ? authorEntries.map((e, i) => {
-                const sep = i < authorEntries.length - 1 ? ", " : "";
-                return e.kind === "organisation" ? (
-                  <><a href={`/organisations/${e.id}/`} class="text-(--color-saffron-700)">{e.name}</a><span class="ml-1 inline-block align-middle px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-(family-name:--font-ui) font-semibold bg-(--color-saffron-100) text-(--color-saffron-700)">organisation</span>{sep}</>
-                ) : (
-                  <><a href={`/thinkers/${e.id}/`} class="text-(--color-forest-700)">{e.name}</a>{sep}</>
-                );
-              })
-            : bylineFallback}
-        </p>
-      )}
-
-      {(fm.publication?.year || fm.publication?.publisher_name) && (
-        <p class="mt-3 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-          {fm.publication?.publisher_name && <>{fm.publication.publisher_name} · </>}
-          {fm.publication?.year}
-        </p>
-      )}
-      {fm.pdf_url && (
-        <div class="mt-6 font-(family-name:--font-ui)">
-          <a
-            href={fm.pdf_url}
-            class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-(--color-bg) rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
-          >
-            Read PDF <span aria-hidden>↗</span>
-          </a>
-        </div>
-      )}
-    </header>
-
-    <div class="prose-container mt-10" lang={fm.language}>
-      <Content />
-    </div>
-  </article>
-</BaseLayout>
+<PrimaryWorkDetail entry={w} />

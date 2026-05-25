@@ -1,0 +1,249 @@
+---
+// PrimaryWorkDetail.astro — shared full-UI component for primary-work entries.
+//
+// INVENTORY — which template each section came from:
+//   FROM English only (previously missing in i18n route):
+//     - original_script / translit title paragraphs
+//     - purpose field in work-type label
+//     - pagesNote ("206 pages") badge
+//     - pubLine helper (place · year, vs i18n's simpler publisher · year)
+//     - PDF button wrapper (flex flex-wrap gap-3)
+//     - prose-container div with full Tailwind styling class block
+//     - Pull quotes section (summary_structured.pull_quotes)
+//     - Themes chips section (fm.themes)
+//     - Tier-B disclaimer paragraph
+//     - PeopleInPiece component
+//     - RelatedSection component
+//   FROM i18n only (lang= attrs on h1, subtitle, prose div) — DROPPED per
+//     plan: page-level <html lang> set by BaseLayout covers the whole page;
+//     we only add lang= where text language differs from the page language,
+//     which is only the original_script paragraph (already in English template).
+//   BOTH routes (kept as-is):
+//     - data-pagefind-filter / data-pagefind-meta on article element
+//     - noindex={shouldNoindex(translation_status)}
+//     - hreflangAlternates / lang / hreflang passed to BaseLayout
+//     - byline logic (resolveAuthorEntries + bylineFallback)
+//     - descriptionForMeta (200-char slice; no-summary fallback is language-neutral: fm.title.main)
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { render } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
+import { resolveAuthorEntries, type AuthorEntry } from "~/lib/resolve-author-entries";
+import RelatedSection from "~/components/RelatedSection.astro";
+import PeopleInPiece from "~/components/PeopleInPiece.astro";
+
+interface Props {
+  entry: CollectionEntry<"primary-works">;
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const fm = entry.data;
+
+const hreflang = hreflangAlternates(
+  "primary-works",
+  entry.id,
+  fm.language,
+  fm.translations,
+  Astro.site!.origin,
+);
+
+// Pull resolved author thinker entries for byline + bio links.
+const authorEntries = await resolveAuthorEntries(fm.authors, entry.id);
+
+// Byline string for the header / meta description when no resolved authors.
+const bylineFallback = (fm.contributors ?? [])
+  .filter((c) => c.role === "author")
+  .map((c) => c.thinker_unresolved || c.thinker?.id || "")
+  .filter(Boolean)
+  .join(", ");
+
+const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
+const placeStr = fm.publication?.place || "";
+const pubLine = [placeStr, yearStr].filter(Boolean).join(" · ");
+
+// Page count for the public-facing badge. We deliberately do NOT surface
+// the AI-extraction coverage (e.g. "20 of 206 rendered") here — that's
+// editorial-pipeline detail, not interesting to a reader. Just show the
+// total page count when we know it.
+const pagesNote = (() => {
+  const t = fm.physical?.pages_total ?? fm.physical?.page_count;
+  return t ? `${t} pages` : "";
+})();
+
+const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
+
+// Pull quotes are pulled from structured frontmatter only — they're a
+// shareable-passage UI distinct from the body Key points. Most v1.5
+// entries don't have summary_structured.pull_quotes populated yet; the
+// section simply doesn't render when empty.
+const pullQuotes = (fm.summary_structured?.pull_quotes ?? []).filter(
+  (q) => q && q.verbatim,
+);
+
+const descriptionForMeta = fm.summary
+  ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
+  : fm.title.main;
+
+// Slug lists for the PeopleInPiece chip section.
+const authorSlugs = authorEntries
+  .filter((e): e is Extract<AuthorEntry, { kind: "thinker" }> => e.kind === "thinker")
+  .map((e) => e.id);
+const contributorSlugs = (fm.contributors ?? [])
+  .map((c) => c.thinker?.id)
+  .filter((s): s is string => !!s && !authorSlugs.includes(s));
+const mentionSlugs = (fm.thinker_mentions ?? [])
+  .map((mn: any) => (typeof mn.thinker === "string" ? mn.thinker : mn.thinker?.id))
+  .filter(Boolean);
+
+// `related_thinkers` is the Phase-A flat list of thinkers extracted from the
+// source PDF. Many works have it populated even when `thinker_mentions` (the
+// richer Phase-B structure) is empty. Without surfacing related_thinkers here,
+// the thinker page's "Mentioned in" backlink points to a work that gives no
+// visible trace of the thinker. PeopleInPiece de-dupes against authorSlugs +
+// the earlier slug arrays, so we just append; only genuinely-additional
+// related thinkers get a chip.
+const relatedThinkerSlugs = (fm.related_thinkers ?? [])
+  .map((r: any) => (typeof r === "string" ? r : r?.id))
+  .filter(Boolean);
+---
+
+<BaseLayout
+  title={`${fm.title.main} — Indian Liberals`}
+  description={descriptionForMeta}
+  lang={fm.language}
+  hreflang={hreflang}
+  noindex={shouldNoindex(fm.translation_status)}
+>
+  <article
+    class="mx-auto max-w-4xl px-6 py-12 md:py-16"
+    data-pagefind-filter={`type:primary-work,lang:${fm.language}`}
+    data-pagefind-meta={`work_type:${fm.work_type},year:${yearStr}`}
+  >
+    <header class="border-b border-(--color-border) pb-10 mb-10">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        {fm.work_type.replace(/_/g, " ")}
+        {fm.purpose && ` · ${fm.purpose.replace(/_/g, " ")}`}
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">{fm.title.main}</h1>
+      {fm.title.subtitle && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-xl mt-2">
+          {fm.title.subtitle}
+        </p>
+      )}
+      {fm.title.original_script && fm.title.original_script !== fm.title.main && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-display) text-xl mt-2" lang={fm.language}>
+          {fm.title.original_script}
+        </p>
+      )}
+      {fm.title.translit && fm.title.translit !== fm.title.main && fm.title.translit !== fm.title.original_script && (
+        <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-xl mt-2">
+          {fm.title.translit}
+        </p>
+      )}
+
+      {/* Byline */}
+      {(authorEntries.length > 0 || bylineFallback) && (
+        <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
+          By{" "}
+          {authorEntries.length > 0
+            ? authorEntries.map((e, i) => {
+                const sep = i < authorEntries.length - 1 ? ", " : "";
+                return e.kind === "organisation" ? (
+                  <><a href={`/organisations/${e.id}/`} class="text-(--color-saffron-700)">{e.name}</a><span class="ml-1 inline-block align-middle px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-(family-name:--font-ui) font-semibold bg-(--color-saffron-100) text-(--color-saffron-700)">organisation</span>{sep}</>
+                ) : (
+                  <><a href={`/thinkers/${e.id}/`} class="text-(--color-forest-700)">{e.name}</a>{sep}</>
+                );
+              })
+            : bylineFallback}
+        </p>
+      )}
+
+      {/* Publication line */}
+      {(pubLine || fm.publication?.publisher_name) && (
+        <p class="mt-2 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+          {fm.publication?.publisher_name && (
+            <>{fm.publication.publisher_name}{pubLine && " · "}</>
+          )}
+          {pubLine}
+        </p>
+      )}
+      {pagesNote && (
+        <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">{pagesNote}</p>
+      )}
+
+      {/* PDF link */}
+      {fm.pdf_url && (
+        <div class="mt-6 flex flex-wrap gap-3 font-(family-name:--font-ui)">
+          <a
+            href={fm.pdf_url}
+            class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-(--color-bg) rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
+          >
+            Read PDF <span aria-hidden>↗</span>
+          </a>
+        </div>
+      )}
+    </header>
+
+    {/* Body markdown — contains the full Summary, Key points, and any
+        additional sections the emitter wrote. The frontmatter `summary` and
+        `ai_key_points` fields are intentionally truncated for the search
+        index / og:description; the body is the canonical text shown to
+        readers. The `[&_>_h1]:hidden` rule suppresses the body's duplicate
+        H1 (the page header above already shows the title). */}
+    <div class="prose-container mb-10">
+      <div class="text-(--color-fg) leading-relaxed [&_>_h1]:hidden [&_p]:my-4 [&_p]:text-[1.0625rem] [&_h2]:text-xs [&_h2]:uppercase [&_h2]:tracking-widest [&_h2]:text-(--color-fg-muted) [&_h2]:font-(family-name:--font-ui) [&_h2]:font-semibold [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_ul_li]:my-2 [&_ul_li]:text-[1.0625rem] [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_em]:italic">
+        <Content />
+      </div>
+    </div>
+
+    {/* Pull quotes */}
+    {pullQuotes.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
+          Notable passages
+        </h2>
+        <div class="space-y-6">
+          {pullQuotes.map((q) => (
+            <figure class="border-l-2 border-(--color-saffron-500) pl-5 py-1">
+              <blockquote class="text-lg leading-relaxed text-(--color-fg) italic font-(family-name:--font-display)">
+                "{q.verbatim}"
+              </blockquote>
+              <figcaption class="mt-2 text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui)">
+                {q.why_notable ? q.why_notable.replace(/_/g, " ") : ""}{q.page ? ` · p. ${q.page}` : ""}
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {/* Themes */}
+    {themesPretty.length > 0 && (
+      <aside class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) text-sm">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Themes</h2>
+        <ul class="flex flex-wrap gap-2">
+          {themesPretty.map((th) => (
+            <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg)">{th}</li>
+          ))}
+        </ul>
+      </aside>
+    )}
+
+    {/* Tier-B disclaimer */}
+    <p class="mt-12 pt-6 border-t border-(--color-border) text-xs text-(--color-fg-muted) font-(family-name:--font-ui) italic">
+      Metadata and summary are AI-extracted from the source PDF and reviewed for
+      editorial accuracy. The original work is available via the PDF link above;
+      paragraph-level citation inside the PDF is deferred to a future engagement.
+    </p>
+
+    <PeopleInPiece
+      authorSlugs={authorSlugs}
+      mentionSlugs={[...contributorSlugs, ...mentionSlugs, ...relatedThinkerSlugs]}
+      title="People in this work"
+    />
+
+    <RelatedSection collection="primary-works" slug={entry.id} viewerLang={entry.data.language} />
+  </article>
+</BaseLayout>
