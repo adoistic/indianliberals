@@ -114,6 +114,17 @@ def _parse_untracked_mds(stdout: str) -> list[str]:
     return [line for line in stdout.split("\n") if line.endswith(".md")]
 
 
+def _build_commit_message(*, batch_no: int, count: int, prior_total: int, last_batch: bool) -> str:
+    """Format the commit message for one committer batch."""
+    suffix = " (final flush)" if last_batch else ""
+    return (
+        f"data(primary-works): extraction batch {batch_no} — {count} new MDs{suffix}\n"
+        f"\n"
+        f"Running total this run: {prior_total + count}.\n"
+        f"Source: v1.5 extraction pipeline (run_overnight.py).\n"
+    )
+
+
 # Circuit breaker — pauses ALL workers if we suspect a rate-limit storm.
 class CircuitBreaker:
     """Thread-safe gate. Workers block on `.wait_if_open()` until `.close()` is called.
