@@ -88,3 +88,6 @@ data/synthesis/ner-chunks/
 # LLM extraction request packages (regenerated per dispatch in /tmp)
 /tmp/llm-extract-requests/
 response.json
+
+# Local mirror of prod indianliberals.in (per docs/superpowers/specs/2026-05-26-pdf-link-reconciliation-design.md)
+data/prod-mirror/
