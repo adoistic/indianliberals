@@ -314,5 +314,64 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
     />
 
     <RelatedSection collection="primary-works" slug={entry.id} viewerLang={entry.data.language} />
+
+    <script is:inline>
+      (() => {
+        const tablist = document.querySelector('[role="tablist"]');
+        if (!tablist) return; // No-op for pages without pdf_url.
+
+        const tabs = Array.from(tablist.querySelectorAll('[role="tab"]'));
+        const panels = tabs.map((t) => document.getElementById(t.getAttribute('aria-controls')));
+
+        function activate(idx, { syncHash = true, focusTab = true } = {}) {
+          tabs.forEach((t, i) => {
+            const selected = i === idx;
+            t.setAttribute('aria-selected', selected);
+            t.tabIndex = selected ? 0 : -1;
+            panels[i].hidden = !selected;
+          });
+
+          // Lazy-inject iframe on first activation of the Read PDF panel.
+          if (idx === 1) {
+            const mount = panels[1].querySelector('[data-pdf-mount]');
+            if (mount && !mount.dataset.loaded) {
+              const url = mount.dataset.pdfUrl;
+              const iframe = document.createElement('iframe');
+              iframe.src = url;
+              iframe.title = document.title;
+              iframe.style.width = '100%';
+              iframe.style.height = window.matchMedia('(max-width: 768px)').matches ? '70vh' : '80vh';
+              iframe.style.border = '0';
+              // No loading="lazy" — the iframe is only constructed on click,
+              // so it's already lazy in the meaningful sense.
+              mount.appendChild(iframe);
+              mount.dataset.loaded = 'true';
+            }
+          }
+
+          if (syncHash) {
+            const fragment = idx === 1 ? '#read' : '#summary';
+            history.replaceState(null, '', fragment);
+          }
+          if (focusTab) tabs[idx].focus({ preventScroll: true });
+        }
+
+        tabs.forEach((tab, i) => {
+          tab.addEventListener('click', () => activate(i));
+          tab.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') activate((i + 1) % tabs.length);
+            if (e.key === 'ArrowLeft') activate((i - 1 + tabs.length) % tabs.length);
+          });
+        });
+
+        // Honor initial URL hash. #read → PDF tab. Anything else → Summary.
+        // Do NOT focus the tab on hash-init — a deep-linked visitor expects
+        // to start reading, not to have a tab control under their cursor.
+        const initial = window.location.hash === '#read' ? 1 : 0;
+        if (initial !== 0) {
+          activate(initial, { syncHash: false, focusTab: false });
+        }
+      })();
+    </script>
   </article>
 </BaseLayout>
