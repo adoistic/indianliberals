@@ -67,7 +67,7 @@ print(f'unbaked: {len(list_unbaked_pdfs())}')
 ls apps/site/src/content/primary-works/*.md | wc -l
 # Expected: 377
 
-cd apps/site
+cd "/Users/siraj/Indian Liberals Website/apps/site"
 find dist -name 'index.html' | wc -l 2>/dev/null
 # Expected: 1283 (last known clean build)
 ```
