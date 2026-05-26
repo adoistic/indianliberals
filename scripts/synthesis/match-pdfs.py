@@ -111,7 +111,7 @@ def match_one(md: dict, prod_index_by_slug: dict, all_prod: list[dict]) -> tuple
         limit=5,
     )
 
-    for normalized_title, score, idx in scored:
+    for _matched_title, _score, idx in scored:
         prod = candidates[idx]
         label = lib.tier_match(md, prod)
         if label in ("high", "medium"):
@@ -183,6 +183,12 @@ def main() -> int:
         notes = ""
         if prev_md and prev_md != md["id"]:
             notes = f"DUPLICATE: also matched by {prev_md}"
+            # Retroactively flag the prior row so the applier skips both.
+            for prior in manifest_rows:
+                if prior["md_slug"] == prev_md and prior["prod_slug"] == prod["prod_slug"]:
+                    if "DUPLICATE" not in prior["notes"]:
+                        prior["notes"] = f"DUPLICATE: also matched by {md['id']}"
+                    break
         else:
             used_prod_slugs[prod["prod_slug"]] = md["id"]
         manifest_rows.append({
