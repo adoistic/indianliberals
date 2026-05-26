@@ -137,7 +137,7 @@ def parse_detail(html: str, source_url: str) -> dict:
     for a in soup.find_all("a", href=True):
         href = a["href"].split("?")[0]
         if href.lower().endswith(".pdf"):
-            pdf_url = urljoin(source_url, a["href"])
+            pdf_url = urljoin(source_url, href)
             break
 
     # Page title — <h1> preferred, fallback <title>.
@@ -187,73 +187,72 @@ def main() -> int:
             return 2
 
     CACHE_ROOT.mkdir(parents=True, exist_ok=True)
-    inventory_fh = INVENTORY.open("a", encoding="utf-8")
 
     total_pages = 0
     total_with_pdf = 0
     total_skipped_cached = 0
     seen_detail_urls: set[str] = set()
 
-    for seed in seeds:
-        periodical = periodical_from_seed(seed)
-        print(f"[seed] {periodical} ({seed})")
+    with INVENTORY.open("a", encoding="utf-8") as inventory_fh:
+        for seed in seeds:
+            periodical = periodical_from_seed(seed)
+            print(f"[seed] {periodical} ({seed})")
 
-        # Walk paginated category pages.
-        current = urljoin(BASE, seed)
-        detail_urls: set[str] = set()
-        page_no = 0
-        while current and page_no < 50:  # safety bound
-            page_no += 1
-            print(f"  [category page {page_no}] {current}")
-            time.sleep(interval)
-            r = fetch(session, current)
-            if r is None or r.status_code != 200:
-                break
-            detail_urls.update(discover_detail_urls(r.text, current))
-            current = discover_next_page(r.text, current)
-
-        print(f"  [discovered] {len(detail_urls)} detail URLs")
-
-        # Cap for smoke testing.
-        ordered = sorted(detail_urls)
-        if args.limit:
-            ordered = ordered[: args.limit]
-
-        for url in ordered:
-            if url in seen_detail_urls:
-                continue
-            seen_detail_urls.add(url)
-
-            slug = slug_from_content_url(url)
-            if not slug:
-                continue
-            cache_file = cache_path_for(periodical, slug)
-
-            if cache_file.exists() and not args.refresh:
-                # Use cached HTML.
-                html = cache_file.read_text(encoding="utf-8")
-                total_skipped_cached += 1
-            else:
+            # Walk paginated category pages.
+            current = urljoin(BASE, seed)
+            detail_urls: set[str] = set()
+            page_no = 0
+            while current and page_no < 50:  # safety bound
+                page_no += 1
+                print(f"  [category page {page_no}] {current}")
                 time.sleep(interval)
-                r = fetch(session, url)
+                r = fetch(session, current)
                 if r is None or r.status_code != 200:
+                    break
+                detail_urls.update(discover_detail_urls(r.text, current))
+                current = discover_next_page(r.text, current)
+
+            print(f"  [discovered] {len(detail_urls)} detail URLs")
+
+            # Cap for smoke testing.
+            ordered = sorted(detail_urls)
+            if args.limit:
+                ordered = ordered[: args.limit]
+
+            for url in ordered:
+                if url in seen_detail_urls:
                     continue
-                html = r.text
-                cache_file.parent.mkdir(parents=True, exist_ok=True)
-                cache_file.write_text(html, encoding="utf-8")
+                seen_detail_urls.add(url)
 
-            meta = parse_detail(html, url)
-            row = {
-                "prod_slug": slug,
-                "periodical": periodical,
-                **meta,
-            }
-            inventory_fh.write(json.dumps(row, ensure_ascii=False) + "\n")
-            total_pages += 1
-            if meta["pdf_url"]:
-                total_with_pdf += 1
+                slug = slug_from_content_url(url)
+                if not slug:
+                    continue
+                cache_file = cache_path_for(periodical, slug)
 
-    inventory_fh.close()
+                if cache_file.exists() and not args.refresh:
+                    # Use cached HTML.
+                    html = cache_file.read_text(encoding="utf-8")
+                    total_skipped_cached += 1
+                else:
+                    time.sleep(interval)
+                    r = fetch(session, url)
+                    if r is None or r.status_code != 200:
+                        continue
+                    html = r.text
+                    cache_file.parent.mkdir(parents=True, exist_ok=True)
+                    cache_file.write_text(html, encoding="utf-8")
+
+                meta = parse_detail(html, url)
+                row = {
+                    "prod_slug": slug,
+                    "periodical": periodical,
+                    **meta,
+                }
+                inventory_fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+                total_pages += 1
+                if meta["pdf_url"]:
+                    total_with_pdf += 1
+
     print(f"\nscrape-prod: {total_pages} pages cached, {total_with_pdf} with PDFs, {total_skipped_cached} from cache.")
     print(f"inventory.jsonl: {INVENTORY}")
     return 0
