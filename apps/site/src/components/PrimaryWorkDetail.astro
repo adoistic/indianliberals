@@ -76,7 +76,7 @@ const pagesNote = (() => {
 // Distinct from `pagesNote` (a formatted string used by the header badge).
 // `null` when the page count is unknown — tab label then degrades to
 // "Read full PDF" (no suffix).
-const pageCount: number | null = fm.physical?.pages_total ?? fm.physical?.page_count ?? null;
+const pageCount = fm.physical?.pages_total ?? fm.physical?.page_count ?? null;
 
 const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
 
