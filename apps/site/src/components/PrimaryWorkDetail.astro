@@ -72,6 +72,12 @@ const pagesNote = (() => {
   return t ? `${t} pages` : "";
 })();
 
+// Bare integer for the "Read full PDF · N pages" tab label suffix.
+// Distinct from `pagesNote` (a formatted string used by the header badge).
+// `null` when the page count is unknown — tab label then degrades to
+// "Read full PDF" (no suffix).
+const pageCount: number | null = fm.physical?.pages_total ?? fm.physical?.page_count ?? null;
+
 const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
 
 // Pull quotes are pulled from structured frontmatter only — they're a
@@ -173,17 +179,6 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
         <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">{pagesNote}</p>
       )}
 
-      {/* PDF link */}
-      {fm.pdf_url && (
-        <div class="mt-6 flex flex-wrap gap-3 font-(family-name:--font-ui)">
-          <a
-            href={fm.pdf_url}
-            class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-(--color-bg) rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
-          >
-            Read PDF <span aria-hidden>↗</span>
-          </a>
-        </div>
-      )}
     </header>
 
     {/* Body markdown — contains the full Summary, Key points, and any
@@ -234,8 +229,9 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
     {/* Tier-B disclaimer */}
     <p class="mt-12 pt-6 border-t border-(--color-border) text-xs text-(--color-fg-muted) font-(family-name:--font-ui) italic">
       Metadata and summary are AI-extracted from the source PDF and reviewed for
-      editorial accuracy. The original work is available via the PDF link above;
-      paragraph-level citation inside the PDF is deferred to a future engagement.
+      editorial accuracy. The original work is available via the Read PDF tab above
+      (where present); paragraph-level citation inside the PDF is deferred to a
+      future engagement.
     </p>
 
     <PeopleInPiece
