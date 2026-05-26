@@ -9,6 +9,8 @@ import re
 import string
 import unicodedata
 
+from rapidfuzz import fuzz
+
 
 _LEADING_ARTICLE_RX = re.compile(r"^(the|a|an)\s+", re.IGNORECASE)
 _PUNCT_TABLE = str.maketrans({c: " " for c in string.punctuation})
@@ -48,3 +50,55 @@ def extract_lastname(thinker_slug: str) -> str:
     if not thinker_slug:
         return ""
     return thinker_slug.rsplit("-", 1)[-1]
+
+
+# Confidence thresholds (rapidfuzz.fuzz.token_set_ratio, 0-100 scale).
+THRESHOLD_HIGH = 92
+THRESHOLD_MEDIUM = 80
+
+
+def tier_match(md: dict, prod: dict) -> str | None:
+    """Walk the three-tier ladder. Return the matched confidence label or None.
+
+    md: {"id": str, "title_main": str, "year": int | None, "first_author_slug": str}
+    prod: {"prod_slug": str, "page_title": str, "byline_text": str, "year_string": str,
+           "pdf_url": str | None}  # pdf_url only inspected for page-only detection
+
+    Tiers (first hit wins):
+      1. "exact"     — md.id == prod.prod_slug
+                       (returns "page-only" if prod.pdf_url is None/empty)
+      2. "high"      — normalized-title token_set_ratio ≥ 92 AND md.year present
+                       AND str(md.year) appears in prod.year_string
+      3. "medium"    — ≥ 80 AND year match AND md.first_author_slug's lastname
+                       appears (case-insensitive) in prod.byline_text
+      else: None
+    """
+    # Tier 1: exact slug match.
+    if md["id"] == prod["prod_slug"]:
+        pdf = prod.get("pdf_url")
+        if pdf is None or pdf == "":
+            return "page-only"
+        return "exact"
+
+    # Tiers 2/3 require md.year.
+    if md.get("year") is None:
+        return None
+
+    year_str = str(md["year"])
+    if year_str not in (prod.get("year_string") or ""):
+        return None
+
+    score = fuzz.token_set_ratio(
+        normalize_title(md["title_main"]),
+        normalize_title(prod["page_title"]),
+    )
+
+    if score >= THRESHOLD_HIGH:
+        return "high"
+
+    if score >= THRESHOLD_MEDIUM:
+        lastname = extract_lastname(md.get("first_author_slug") or "")
+        if lastname and lastname.lower() in (prod.get("byline_text") or "").lower():
+            return "medium"
+
+    return None
