@@ -76,3 +76,34 @@ def test_no_frontmatter_returns_skip():
     out, status = mod.insert_pdf_url("no frontmatter here\n", "https://x/y.pdf", force=False)
     assert status == "skip-no-frontmatter"
     assert out == "no frontmatter here\n"
+
+
+SAMPLE_MD_NO_PROVENANCE = """---
+id: sample
+title:
+  main: Sample Work
+work_type: speech
+publication:
+  language: en
+  year: 1980
+rights:
+  status: takedown_on_request
+themes: []
+---
+
+# Body
+"""
+
+
+def test_fallback_appends_when_no_provenance_block():
+    out, status = mod.insert_pdf_url(SAMPLE_MD_NO_PROVENANCE, "https://example.com/x.pdf", force=False)
+    assert status == "inserted"
+    # pdf_url must be INSIDE the frontmatter (before the closing ---)
+    fm_part = out.split("---\n", 2)[1]
+    assert "pdf_url: https://example.com/x.pdf" in fm_part
+    # And at column 0 (root level, not indented)
+    lines = out.split("\n")
+    inserted = next(l for l in lines if l.startswith("pdf_url:"))
+    assert inserted == "pdf_url: https://example.com/x.pdf"
+    # Body still byte-equal to original
+    assert out.split("---\n", 2)[2] == SAMPLE_MD_NO_PROVENANCE.split("---\n", 2)[2]
