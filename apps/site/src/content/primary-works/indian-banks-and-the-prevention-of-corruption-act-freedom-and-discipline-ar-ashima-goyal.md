@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/indian-banks-and-the-prevention-of-corruption-act-freedom-and-discipline-ar-ashima-goyal.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -33,6 +33,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/foreign-exchange-crisis-and-the-way-out-a-d-shroff-feb5-1962.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

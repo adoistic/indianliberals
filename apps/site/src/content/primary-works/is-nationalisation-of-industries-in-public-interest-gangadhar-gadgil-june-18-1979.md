@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/is-nationalisation-of-industries-in-public-interest-gangadhar-gadgil-june-18-1979.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/danger-of-outmoded-socialism-to-indias-welfare-murarji-j-vaidya-janruary-15-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/indian-economic-development-1950-1980-an-assessment-by-dr-rm-honavar.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

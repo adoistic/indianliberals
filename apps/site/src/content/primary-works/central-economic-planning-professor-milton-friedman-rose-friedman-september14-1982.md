@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/central-economic-planning-professor-milton-friedman-rose-friedman-september14-1982.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

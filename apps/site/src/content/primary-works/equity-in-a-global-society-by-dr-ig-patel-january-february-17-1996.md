@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/equity-in-a-global-society-by-dr-ig-patel-january-february-17-1996.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

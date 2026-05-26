@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-reforms-in-india-where-are-we-and-where-do-we-go-dr-rakesh-mohan-october-10-2006.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

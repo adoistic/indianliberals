@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/wp-content/uploads/2020/11/Democracy_In_India.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

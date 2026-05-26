@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economics-of-freedom-m-a-masani-feb12-1965.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

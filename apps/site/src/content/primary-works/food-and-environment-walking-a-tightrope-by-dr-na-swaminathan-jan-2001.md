@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/food-and-environment-walking-a-tightrope-by-dr-na-swaminathan-jan-2001.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
