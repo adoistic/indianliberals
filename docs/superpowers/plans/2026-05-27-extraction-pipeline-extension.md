@@ -97,16 +97,17 @@ Goal: TDD-build two pure functions that the committer thread will use. No I/O, n
 ### Task 1.1: Create test file + scaffolding
 
 **Files:**
-- Create: `scripts/llm-extract/tests/__init__.py` (empty, for pytest discovery if needed)
 - Create: `scripts/llm-extract/tests/test_committer_helpers.py`
+
+(No `__init__.py` needed — pytest is invoked with the test file path directly, bypassing package discovery.)
 
 - [ ] **Step 1.1.1: Check tests/ dir exists**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
 ls scripts/llm-extract/tests/ 2>&1
-# Expected: (existing test_transliteration.py) or "No such file or directory"
-# If missing, create:
+# Expected: existing test_transliteration.py
+# If the dir doesn't exist:
 mkdir -p scripts/llm-extract/tests
 ```
 
@@ -471,11 +472,13 @@ grep -nE "^def main|ThreadPoolExecutor" scripts/llm-extract/run_overnight.py
 In `main()`, find the block that currently looks like:
 
 ```python
-    with ThreadPoolExecutor(max_workers=args.concurrency) as pool:
-        # ... existing dispatch/collect loop ...
+    with ThreadPoolExecutor(max_workers=args.concurrency) as ex:
+        # ... existing dispatch/collect loop, references `ex.submit(...)` ...
 ```
 
-Replace with:
+(The actual loop variable in `run_overnight.py` is named `ex`, not `pool`. Body lines like `ex.submit(...)` and `futs = {ex.submit(...): ...}` use that name. Do NOT rename it — that would create stale references.)
+
+Wrap with the committer setup + try/finally, keeping `as ex:` unchanged:
 
 ```python
     stop_event = threading.Event()
@@ -485,15 +488,15 @@ Replace with:
           f"poll every {COMMIT_POLL_INTERVAL_S}s)", flush=True)
 
     try:
-        with ThreadPoolExecutor(max_workers=args.concurrency) as pool:
-            # ... existing dispatch/collect loop, UNCHANGED ...
+        with ThreadPoolExecutor(max_workers=args.concurrency) as ex:
+            # ... existing dispatch/collect loop, UNCHANGED — all references to `ex` stay `ex` ...
     finally:
         print("[main] signaling committer to flush + exit...", flush=True)
         stop_event.set()
         committer.join(timeout=120)
 ```
 
-**Important:** preserve all existing logic inside the `with ThreadPoolExecutor` block. The only change is adding the wrapper. If the existing code has `signal.signal(SIGTERM, ...)` or similar handlers, leave them; the `finally` clause covers normal exit + KeyboardInterrupt; SIGKILL is documented as a known unrecoverable case in the spec.
+**Important:** preserve all existing logic inside the `with ThreadPoolExecutor` block. The only change is adding the wrapper. Specifically: do NOT rename `ex` to `pool` — every `ex.submit` / `ex` reference in the body must stay valid. If the existing code has `signal.signal(SIGTERM, ...)` or similar handlers, leave them; the `finally` clause covers normal exit + KeyboardInterrupt; SIGTERM and SIGKILL are documented as known abrupt-exit cases (see §4.3.3).
 
 - [ ] **Step 2.4.3: Verify the file still parses**
 
@@ -718,15 +721,18 @@ git log --oneline origin/main | head -10
 - [ ] **Step 4.3.3: Stop early (if needed)**
 
 ```bash
-# Graceful: triggers final flush
-kill -TERM "$(cat /tmp/v1.5-overnight-v2.pid)"
+# Graceful: SIGINT raises KeyboardInterrupt in the main thread, which propagates
+# through the try/finally and triggers the committer's final flush.
+kill -INT "$(cat /tmp/v1.5-overnight-v2.pid)"
 
 # Confirm exit
-sleep 5
+sleep 10
 ps -p "$(cat /tmp/v1.5-overnight-v2.pid)" || echo "✓ stopped"
 tail -5 /tmp/v1.5-overnight-v2.log
 # Expected: "[main] signaling committer..." + "[committer] exiting; total..."
 ```
+
+**Note on SIGTERM:** Python's default `SIGTERM` handler is the OS default — immediate exit, the `try/finally` block does NOT run. If you accidentally `kill -TERM`, the daemon committer dies with the process and any < 20 untracked MDs persist. They're not lost: the next launch's committer picks them up on its first poll (60s in). For a true graceful stop, always use `kill -INT` (or `Ctrl-C` if running foreground).
 
 ### Task 4.4: Wait for completion
 
@@ -778,7 +784,7 @@ ls apps/site/src/content/primary-works/*.md | wc -l
 - [ ] **Step 5.1.3: Build clean**
 
 ```bash
-cd apps/site
+cd "/Users/siraj/Indian Liberals Website/apps/site"
 rm -f public/pagefind
 pnpm build 2>&1 | tee /tmp/v1.5-final-build.log | tail -6
 [ -L public/pagefind ] || ln -s ../dist/pagefind public/pagefind
@@ -795,16 +801,21 @@ find dist -name 'index.html' | wc -l
 - [ ] **Step 5.2.1: Sample 10 random new MDs**
 
 ```bash
-.venv-extract/bin/python3 << 'PYEOF'
+cd "/Users/siraj/Indian Liberals Website"
+
+# Substitute PRE_EXT_SHA below with the SHA captured in Step 0.3
+# (the value from `git rev-parse --short HEAD` BEFORE Chunk 1 ran).
+PRE_EXT_SHA="${PRE_EXT_SHA:?Set this to the SHA recorded in Step 0.3}"
+
+.venv-extract/bin/python3 << PYEOF
 import json, random, re, yaml
 from pathlib import Path
 
 random.seed(0)
 PW = Path("apps/site/src/content/primary-works")
-# "New" = added since 5938f2b (pre-extension SHA — adjust if different)
 import subprocess
 result = subprocess.run(
-    ["git", "diff", "--name-only", "--diff-filter=A", "5938f2b..HEAD", "--", str(PW)],
+    ["git", "diff", "--name-only", "--diff-filter=A", "$PRE_EXT_SHA..HEAD", "--", str(PW)],
     capture_output=True, text=True, cwd=".",
 )
 new_mds = [Path(p) for p in result.stdout.strip().split("\n") if p.endswith(".md")]
@@ -829,6 +840,8 @@ for md in sample:
     print(f"    summary[0]:   {first}")
 PYEOF
 ```
+
+(Note: the heredoc is unquoted (`PYEOF` not `'PYEOF'`) so that `$PRE_EXT_SHA` interpolates from the shell into the embedded Python source.)
 
 Eyeball-check each:
 - Title is non-empty and matches the file's slug roughly
@@ -939,6 +952,8 @@ Summarise:
 - Editorial review of `needs_review: true` MDs.
 - Anthology continuation loop for multi-essay works (existing `cmd_loop` handles this if invoked separately).
 - Populating `pdf_url` for the new MDs (deferred to `match-pdfs.py` re-run; covered in §5.4 but execution is Adnan's call).
+- Cleaning up the 6 honest-placeholder MDs flagged in prior audits.
+- Running the extraction as a cloud routine (the external drive isn't reachable from cloud infra; local nohup is the confirmed venue).
 
 ---
 
