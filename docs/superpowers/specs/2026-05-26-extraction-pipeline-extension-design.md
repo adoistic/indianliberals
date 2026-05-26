@@ -177,6 +177,8 @@ This guarantees the final flush runs before the process exits, even on KeyboardI
 
 ### 5.3 Launch + monitoring
 
+The existing `run_overnight.py` has `--concurrency` default = **12** (not 8 as a stray context line in this spec earlier implied). We explicitly pass `--concurrency 8` for the extension run because the v1.5 batch was tuned at 8 and we want consistent rate-limit behavior; raising to 12 only made sense in earlier debugging passes.
+
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
 nohup .venv-extract/bin/python3 scripts/llm-extract/run_overnight.py \
@@ -246,7 +248,7 @@ GitHub origin/main reflects progress in near-real-time
 | Concurrent manual `git commit` during a run | The committer's `git add` only adds the specific MD files it discovered via `git ls-files --others`. Manual commits in parallel are safe. The 60s polling window keeps races rare. |
 | Pipeline crashes (Python exception in worker) | The exception propagates to `ThreadPoolExecutor` → the future records it. The `finally` clause around the pool fires, signaling the committer to flush. Already-committed MDs are safe. Un-committed-but-emitted MDs persist as untracked → manual commit or re-launch will pick them up. |
 | `kill -KILL` (no chance to flush) | Committer thread is a daemon → dies with process. Untracked MDs persist; next launch's committer picks them up on its first poll. |
-| Duplicate slug — PDF stem matches existing MD | `emit-astro-md.py` (existing emitter) determines the behavior. **Pre-launch check (§8.1)** must confirm whether it overwrites silently, errors, or skips. Behavior must be documented before launch. |
+| Duplicate slug — PDF stem matches existing MD | `emit-astro-md.py` overwrites silently. The emitter's own comment documents this as the intended policy ("Primary-works are 100% machine-emitted ... overwriting is the correct policy"). For this extension run, no slug collisions are expected because `list_unbaked_pdfs()` skips already-baked PDFs by stem, and the 377 existing MDs have stems derived from those same PDF filenames. If a collision happens anyway, the existing MD is overwritten in place. |
 | Empty / corrupted PDF | `rasterize_chunk` returns 0 usable pages → prep aborts → `PREP_FAILED`, skip. |
 | Validator rejects metadata.a/.b output (e.g., disagreement triggers tiebreak; tiebreak also fails) | `collect_one` returns `False` → `COLLECT_FAILED` → MD not emitted → no commit. |
 | Subagent writes malformed JSON to response.json | Dispatcher's `parse_response` raises → recorded as failure → no MD emitted. |
@@ -259,15 +261,16 @@ GitHub origin/main reflects progress in near-real-time
 
 ### 8.1 Pre-launch (smoke + checks)
 
-**Verify duplicate-slug behavior of `emit-astro-md.py`.** Pick one already-baked slug (e.g., `a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980`) and run `emit-astro-md.py` against it with the existing data. Expected: either explicit error OR silent overwrite. Document the actual behavior and verify it's acceptable for the run.
+**Duplicate-slug behavior is already confirmed** as silent overwrite (see §7 row "Duplicate slug" and `emit-astro-md.py` line 483 comment). No pre-launch investigation needed.
 
 **Smoke run on 3 PDFs:**
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
 .venv-extract/bin/python3 scripts/llm-extract/run_overnight.py \
-  --concurrency 2 --limit 3 \
+  --concurrency 2 --smoke 3 \
   2>&1 | tee /tmp/v1.5-smoke.log
 ```
+(The actual flag is `--smoke N`, not `--limit N` — `run_overnight.py` line 372.)
 Expected:
 - 3 PDFs run end-to-end
 - 3 new MDs emitted to `apps/site/src/content/primary-works/`
@@ -332,11 +335,11 @@ Expected: no new content-vs-URL mismatches beyond what was already flagged.
 3. Committer's final-flush ran and pushed any tail batch.
 4. Build clean, page count ≈ 1893 (within 5% of the formula 1283 + count-of-successful-bakes).
 5. Spot-check confirms 10 random new MDs are sensible.
-6. Commit log shows ~31 batched commits ((610 / 20) ≈ 30 batches + 1 final flush).
+6. Commit log shows ≤ ⌈successes/20⌉ + 1 batched commits — at full success that's ~31 ((610 / 20) ≈ 30 + 1 final flush), but realistically lower since some PDFs will hit PREP/META/SUMMARY failures.
 
 ## 10. Open items / follow-ups (separate specs)
 
-- **Duplicate slug handling in `emit-astro-md.py`** — verify pre-launch (§8.1) and document the behavior. If overwrite is silent, decide whether that's acceptable or needs a `--no-overwrite` flag.
+- **(none for slug handling — already confirmed as intentional silent overwrite).**
 - **`pdf_url` discovery for the new ~610 MDs** — re-run `match-pdfs.py` after the batch using the existing prod-mirror inventory + local backup. Likely lands another ~500+ URLs (most prod pages will exist for these slugs).
 - **R2 migration** — long-term plan to host PDFs ourselves and replace prod URLs.
 - **Editorial review of `needs_review: true` MDs** — expected to be a meaningful fraction (10–25%). Out of scope for this run.
