@@ -47,6 +47,12 @@ PDFS_ROOT = Path("/Volumes/One Touch/Indian Liberals/PDFs-by-publisher")
 BAKE_DIR = ROOT / "data" / "bake-off-output"
 PROGRESS_TSV = Path("/tmp/v1.5-overnight-progress.tsv")
 
+# Committer-thread config (auto-commit + auto-push as MDs accumulate).
+COMMIT_BATCH_SIZE = 20
+COMMIT_POLL_INTERVAL_S = 60
+PW_DIR_REL = "apps/site/src/content/primary-works"
+COMMIT_LOG = Path("/tmp/v1.5-overnight-commits.tsv")
+
 # `claude -p` config
 CLAUDE_TIMEOUT_S = 600  # 10 min per LLM call (generous; most should finish in 1-2 min)
 CLAUDE_ALLOWED_TOOLS = "Read,Write"
@@ -123,6 +129,84 @@ def _build_commit_message(*, batch_no: int, count: int, prior_total: int, last_b
         f"Running total this run: {prior_total + count}.\n"
         f"Source: v1.5 extraction pipeline (run_overnight.py).\n"
     )
+
+
+def _commit_and_push(untracked: list[str], *, batch_no: int, prior_total: int, last_batch: bool) -> None:
+    """Stage the given files, commit with a generated message, and push to origin/main.
+
+    Failure modes:
+      - git add fails → CalledProcessError propagates (committer thread catches it).
+      - git commit fails (e.g., pre-commit hook) → CalledProcessError propagates.
+      - git push fails (network, auth, conflict) → logged; commit remains locally; pipeline continues.
+    """
+    subprocess.run(["git", "add", "--"] + untracked, cwd=ROOT, check=True)
+    msg = _build_commit_message(
+        batch_no=batch_no, count=len(untracked),
+        prior_total=prior_total, last_batch=last_batch,
+    )
+    subprocess.run(["git", "commit", "-m", msg], cwd=ROOT, check=True)
+    push = subprocess.run(
+        ["git", "push", "origin", "main"],
+        cwd=ROOT, capture_output=True, text=True,
+    )
+    push_status = "pushed" if push.returncode == 0 else f"push-failed: {push.stderr[:100].strip()}"
+    with COMMIT_LOG.open("a") as f:
+        f.write(
+            f"{int(time.time())}\t{batch_no}\t{len(untracked)}\t"
+            f"{prior_total + len(untracked)}\t{push_status}\n"
+        )
+    print(f"[committer] batch {batch_no}: {len(untracked)} MDs → {push_status}", flush=True)
+
+
+def committer_thread(stop_event: threading.Event) -> None:
+    """Wake every COMMIT_POLL_INTERVAL_S; commit + push when ≥ COMMIT_BATCH_SIZE new MDs exist.
+
+    Idempotent and crash-safe: each poll independently re-discovers untracked MDs via
+    `git ls-files --others`. If the committer dies mid-iteration, the next launch picks
+    up where it left off (untracked MDs persist; nothing is lost).
+
+    On stop_event.set(), runs a final flush — any remaining untracked .md gets one
+    last commit even if the batch threshold isn't reached.
+    """
+    total_committed = 0
+    batch_number = 0
+    while not stop_event.is_set():
+        try:
+            result = subprocess.run(
+                ["git", "ls-files", "--others", "--exclude-standard", "--", PW_DIR_REL],
+                capture_output=True, text=True, cwd=ROOT, check=True,
+            )
+            untracked = _parse_untracked_mds(result.stdout)
+            if len(untracked) >= COMMIT_BATCH_SIZE:
+                batch_number += 1
+                _commit_and_push(
+                    untracked, batch_no=batch_number,
+                    prior_total=total_committed, last_batch=False,
+                )
+                total_committed += len(untracked)
+        except subprocess.CalledProcessError as e:
+            print(f"[committer] git error: {e}; will retry next poll", file=sys.stderr, flush=True)
+        except Exception as e:
+            print(f"[committer] unexpected: {e!r}", file=sys.stderr, flush=True)
+        stop_event.wait(COMMIT_POLL_INTERVAL_S)
+
+    # Final flush — commit any leftover < COMMIT_BATCH_SIZE MDs on shutdown.
+    try:
+        result = subprocess.run(
+            ["git", "ls-files", "--others", "--exclude-standard", "--", PW_DIR_REL],
+            capture_output=True, text=True, cwd=ROOT, check=True,
+        )
+        untracked = _parse_untracked_mds(result.stdout)
+        if untracked:
+            batch_number += 1
+            _commit_and_push(
+                untracked, batch_no=batch_number,
+                prior_total=total_committed, last_batch=True,
+            )
+            total_committed += len(untracked)
+    except Exception as e:
+        print(f"[committer-final-flush] {e!r}", file=sys.stderr, flush=True)
+    print(f"[committer] exiting; total MDs committed this run: {total_committed}", flush=True)
 
 
 # Circuit breaker — pauses ALL workers if we suspect a rate-limit storm.
@@ -412,18 +496,30 @@ def main() -> None:
     t0 = time.time()
     ok = fail = 0
     fail_modes: dict[str, int] = {}
-    with ThreadPoolExecutor(max_workers=args.concurrency) as ex:
-        futs = {ex.submit(process_pdf, p): p for p in pdfs}
-        for fut in as_completed(futs):
-            try:
-                r = fut.result()
-            except Exception as e:
-                r = {"slug": futs[fut], "status": "EXCEPTION", "note": str(e)[:100]}
-            if r["status"] == "OK":
-                ok += 1
-            else:
-                fail += 1
-                fail_modes[r["status"]] = fail_modes.get(r["status"], 0) + 1
+
+    stop_event = threading.Event()
+    committer = threading.Thread(target=committer_thread, args=(stop_event,), daemon=True)
+    committer.start()
+    print(f"[main] committer thread started (batch size {COMMIT_BATCH_SIZE}, "
+          f"poll every {COMMIT_POLL_INTERVAL_S}s)", flush=True)
+
+    try:
+        with ThreadPoolExecutor(max_workers=args.concurrency) as ex:
+            futs = {ex.submit(process_pdf, p): p for p in pdfs}
+            for fut in as_completed(futs):
+                try:
+                    r = fut.result()
+                except Exception as e:
+                    r = {"slug": futs[fut], "status": "EXCEPTION", "note": str(e)[:100]}
+                if r["status"] == "OK":
+                    ok += 1
+                else:
+                    fail += 1
+                    fail_modes[r["status"]] = fail_modes.get(r["status"], 0) + 1
+    finally:
+        print("[main] signaling committer to flush + exit...", flush=True)
+        stop_event.set()
+        committer.join(timeout=120)
 
     elapsed = int(time.time() - t0)
     log_progress("__END__", "DONE", f"ok={ok} fail={fail} elapsed_s={elapsed}")
