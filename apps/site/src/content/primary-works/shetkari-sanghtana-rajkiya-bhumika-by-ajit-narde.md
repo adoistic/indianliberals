@@ -59,6 +59,7 @@ authors_resolution:
   stubs_referenced:
     - ajit-narde
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/shetkari-sanghtana-rajkiya-bhumika-ajit-narde.pdf
 ---
 
 ## Summary

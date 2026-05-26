@@ -76,6 +76,7 @@ authors_resolution:
 contributors:
   - thinker: ambrish-mehta
     role: editor
+pdf_url: https://indianliberals.in/gujarati/khoj-march-april-2007.pdf
 ---
 
 ## Summary

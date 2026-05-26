@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/implications-of-bank-nationalisation-misc-mar9-1964.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

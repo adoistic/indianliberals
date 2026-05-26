@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/is-india-ready-for-challenge-of-1980s-j-h-doshi-november-15-1979.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

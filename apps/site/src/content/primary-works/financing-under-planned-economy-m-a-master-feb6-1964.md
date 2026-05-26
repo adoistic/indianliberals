@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/financing-under-planned-economy-m-a-master-feb6-1964.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

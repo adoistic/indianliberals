@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/marathi/anvyartha-1-sharad-joshi.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

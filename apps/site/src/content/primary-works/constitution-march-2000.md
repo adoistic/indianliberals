@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/indian-liberal-group/constitution-march-2000.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

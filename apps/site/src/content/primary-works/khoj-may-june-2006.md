@@ -68,6 +68,7 @@ contributors:
     role: editor
   - thinker: parth-shah
     role: editor
+pdf_url: https://indianliberals.in/gujarati/khoj-may-june-2006.pdf
 ---
 
 ## Summary

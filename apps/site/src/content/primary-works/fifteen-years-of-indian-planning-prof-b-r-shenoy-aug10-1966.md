@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/fifteen-years-of-indian-planning-prof-b-r-shenoy-aug10-1966.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

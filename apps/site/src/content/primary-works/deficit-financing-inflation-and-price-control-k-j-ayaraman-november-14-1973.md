@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/deficit-financing-inflation-and-price-control-k-j-ayaraman-november-14-1973.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

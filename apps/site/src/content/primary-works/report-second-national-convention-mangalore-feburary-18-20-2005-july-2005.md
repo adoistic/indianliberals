@@ -72,6 +72,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/liberals/report-second-national-convention-mangalore-feburary-18-20-2005-july-2005.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

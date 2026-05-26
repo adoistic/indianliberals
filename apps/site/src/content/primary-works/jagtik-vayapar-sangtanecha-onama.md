@@ -57,6 +57,7 @@ authors_resolution:
   stubs_referenced:
     - dnyaneshwar-m-shelar
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/jagtik-vayapar-sangtanecha-onama.pdf
 ---
 
 ## Summary

@@ -58,6 +58,7 @@ authors_resolution:
   stubs_referenced:
     - shesrav-mohite
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/sheti-vayavsayavaril-arishit-shesrav-mohite.pdf
 ---
 
 ## Summary

@@ -55,6 +55,7 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/shetkari-sanghatana-vichar-aani-karyapadthdti-sharad-joshi.pdf
 ---
 
 ## Summary

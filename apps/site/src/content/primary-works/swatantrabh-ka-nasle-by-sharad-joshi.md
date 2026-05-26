@@ -56,6 +56,7 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/swatantrabh-ka-nasle-sharad-joshi.pdf
 ---
 
 ## Summary

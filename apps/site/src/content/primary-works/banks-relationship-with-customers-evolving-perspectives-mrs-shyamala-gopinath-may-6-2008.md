@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/banks-relationship-with-customers-evolving-perspectives-mrs-shyamala-gopinath-may-6-2008.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

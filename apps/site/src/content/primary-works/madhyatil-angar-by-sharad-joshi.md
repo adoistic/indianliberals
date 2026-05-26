@@ -54,6 +54,7 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/madhyatil-angar-sharad-joshi.pdf
 ---
 
 ## Summary

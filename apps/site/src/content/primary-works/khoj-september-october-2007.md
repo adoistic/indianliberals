@@ -65,6 +65,7 @@ contributors:
     role: editor
   - thinker: parth-shah
     role: editor
+pdf_url: https://indianliberals.in/gujarati/khoj-september-october-2007.pdf
 ---
 
 ## Summary

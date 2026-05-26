@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/bengali/ramtanu-lahiri-o-tatkalin-bangosamaj-sivanath-sastri.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

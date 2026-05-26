@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/forum-of-free-enterprise-2005-2006.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

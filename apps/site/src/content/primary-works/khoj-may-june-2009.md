@@ -66,6 +66,7 @@ contributors:
     role: editor
   - thinker: rajesh-mishra
     role: editor
+pdf_url: https://indianliberals.in/gujarati/khoj-may-june-2009.pdf
 ---
 
 ## Summary

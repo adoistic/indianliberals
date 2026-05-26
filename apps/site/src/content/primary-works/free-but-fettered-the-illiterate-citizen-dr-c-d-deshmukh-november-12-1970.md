@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/free-but-fettered-the-illiterate-citizen-dr-c-d-deshmukh-november-12-1970.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

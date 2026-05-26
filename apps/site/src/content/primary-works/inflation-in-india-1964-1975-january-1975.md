@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/inflation-in-India-1964-1975-january-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
