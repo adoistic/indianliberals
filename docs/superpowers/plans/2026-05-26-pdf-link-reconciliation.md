@@ -435,7 +435,7 @@ def tier_match(md: dict, prod: dict) -> str | None:
     return None
 ```
 
-- [ ] **Step 1.4.4: Run, expect all 20 pass**
+- [ ] **Step 1.4.4: Run, expect all 21 pass**
 
 ```bash
 .venv-extract/bin/python3 -m pytest scripts/synthesis/tests/test_pdf_match_lib.py -v
