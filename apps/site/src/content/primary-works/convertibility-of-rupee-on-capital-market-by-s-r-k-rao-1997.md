@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/convertibility-of-rupee-on-capital-account-dr-s-r-k-rao.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -87,6 +87,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/gujarati/khoj-january-february-2007.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

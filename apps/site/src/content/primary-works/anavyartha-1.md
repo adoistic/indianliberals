@@ -59,6 +59,7 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/anvyartha-1-sharad-joshi.pdf
 ---
 
 ## Summary

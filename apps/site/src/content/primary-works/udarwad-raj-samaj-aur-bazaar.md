@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/liberals/udarwad-raj-samaj-aur-bazar-ka-naya-paath-hindi-book-based-on-free-your-mind.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

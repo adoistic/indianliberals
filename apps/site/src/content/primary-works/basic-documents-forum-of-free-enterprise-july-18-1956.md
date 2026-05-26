@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/basic-documents-forum-of-free-enterprise-july-18-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -55,6 +55,7 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+pdf_url: https://indianliberals.in/marathi/artha-to-sagto-punha-sharad-joshi.pdf
 ---
 
 ## Summary
