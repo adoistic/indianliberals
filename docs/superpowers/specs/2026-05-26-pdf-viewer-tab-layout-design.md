@@ -181,7 +181,8 @@ if (tablist) {
         iframe.style.width = '100%';
         iframe.style.height = window.matchMedia('(max-width: 768px)').matches ? '70vh' : '80vh';
         iframe.style.border = '0';
-        iframe.setAttribute('loading', 'lazy');
+        // No loading="lazy" — the iframe is only constructed on click, so it
+        // is already lazy in the meaningful sense.
         mount.appendChild(iframe);
         mount.dataset.loaded = 'true';
       }
