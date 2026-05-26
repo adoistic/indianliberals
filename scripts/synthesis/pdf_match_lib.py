@@ -81,7 +81,7 @@ def tier_match(md: dict, prod: dict) -> str | None:
         return "exact"
 
     # Tiers 2/3 require md.year.
-    if md.get("year") is None:
+    if md["year"] is None:
         return None
 
     year_str = str(md["year"])
@@ -97,7 +97,7 @@ def tier_match(md: dict, prod: dict) -> str | None:
         return "high"
 
     if score >= THRESHOLD_MEDIUM:
-        lastname = extract_lastname(md.get("first_author_slug") or "")
+        lastname = extract_lastname(md["first_author_slug"] or "")
         if lastname and lastname.lower() in (prod.get("byline_text") or "").lower():
             return "medium"
 
