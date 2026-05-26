@@ -56,3 +56,30 @@ def test_normalize_title_strips_devanagari_diacritics():
     # affects nothing in practice since prod page titles are Latin.
     result = mod.normalize_title("भारत की समस्याएँ — A Study")
     assert result == "a study"
+
+
+def test_extract_year_picks_first_four_digit():
+    assert mod.extract_year("Published 1980, reprint 2001") == 1980
+
+
+def test_extract_year_returns_none_when_missing():
+    assert mod.extract_year("no year here") is None
+
+
+def test_extract_year_handles_1900_to_2099():
+    assert mod.extract_year("1953 lecture") == 1953
+    assert mod.extract_year("2018") == 2018
+    assert mod.extract_year("1899 too early") is None  # outside 1900-2099
+
+
+def test_extract_lastname_from_slug():
+    # "b-r-shenoy" → "shenoy"
+    assert mod.extract_lastname("b-r-shenoy") == "shenoy"
+
+
+def test_extract_lastname_single_token():
+    assert mod.extract_lastname("ambedkar") == "ambedkar"
+
+
+def test_extract_lastname_handles_empty():
+    assert mod.extract_lastname("") == ""
