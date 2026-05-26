@@ -136,9 +136,16 @@ def parse_detail(html: str, source_url: str) -> dict:
     pdf_url = None
     for a in soup.find_all("a", href=True):
         href = a["href"].split("?")[0]
-        if href.lower().endswith(".pdf"):
-            pdf_url = urljoin(source_url, href)
-            break
+        if not href.lower().endswith(".pdf"):
+            continue
+        # Reject placeholder hrefs like ".pdf" or "#.pdf" that satisfy the substring
+        # check but resolve to an empty/fragment-only URL with no actual filename.
+        candidate = urljoin(source_url, href)
+        basename = urlparse(candidate).path.rsplit("/", 1)[-1]
+        if basename in ("", ".pdf"):
+            continue
+        pdf_url = candidate
+        break
 
     # Page title — <h1> preferred, fallback <title>.
     h1 = soup.find("h1")
