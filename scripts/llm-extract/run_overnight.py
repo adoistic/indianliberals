@@ -102,6 +102,18 @@ def parse_reset_seconds(text: str) -> float | None:
         return None
     return secs
 
+
+def _parse_untracked_mds(stdout: str) -> list[str]:
+    """Parse the output of `git ls-files --others --exclude-standard`; return only .md files.
+
+    Handles empty input, whitespace-only input, and trailing blank lines safely.
+    Returns paths in the order they appear in the input.
+    """
+    if not stdout or not stdout.strip():
+        return []
+    return [line for line in stdout.split("\n") if line.endswith(".md")]
+
+
 # Circuit breaker — pauses ALL workers if we suspect a rate-limit storm.
 class CircuitBreaker:
     """Thread-safe gate. Workers block on `.wait_if_open()` until `.close()` is called.
