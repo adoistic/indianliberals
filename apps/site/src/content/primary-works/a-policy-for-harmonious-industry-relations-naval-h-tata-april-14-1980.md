@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-policy-for-harmonious-industry-relations-naval-h-tata-april-14-1980.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/is-india-heading-towards-internal-debt-trap-sks-rao-1988.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

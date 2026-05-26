@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/new-approach-to-overcome-constraints-on-private-sector-by-rd-aga-1980.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

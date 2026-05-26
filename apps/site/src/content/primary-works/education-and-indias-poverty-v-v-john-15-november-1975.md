@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/education-and-indias-poverty-v-v-john-15-november-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

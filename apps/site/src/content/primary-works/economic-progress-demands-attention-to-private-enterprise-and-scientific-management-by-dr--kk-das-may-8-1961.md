@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr.-kk-das-may-8-1961.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

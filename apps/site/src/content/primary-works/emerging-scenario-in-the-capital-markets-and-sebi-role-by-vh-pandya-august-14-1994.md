@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/emerging-scenario-in-the-capital-markets-and-sebi-role-by-vh-pandya-august-14-1994.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

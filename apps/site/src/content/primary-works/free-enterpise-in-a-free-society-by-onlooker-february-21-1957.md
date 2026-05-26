@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/free-enterpise-in-a-free-society-by-onlooker-february-21-1957.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

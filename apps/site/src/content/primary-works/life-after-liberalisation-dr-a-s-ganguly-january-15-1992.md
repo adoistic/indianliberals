@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/life-after-liberalisation-dr-a-s-ganguly-january-15-1992.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/free-enterprise-and-freedom-murarji-j-vaidya-apr10-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-solution-to-the-housing-problem-in-india-h-t-parekh-14-august-1976.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

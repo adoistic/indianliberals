@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/an-economic-review1957-a-d-shroff-dec9-1957.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

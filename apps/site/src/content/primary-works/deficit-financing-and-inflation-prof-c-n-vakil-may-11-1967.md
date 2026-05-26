@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/deficit-financing-and-inflation-prof-c-n-vakil-may-11-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

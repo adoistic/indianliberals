@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/new-company-tax-scheme-prof-r-j-taraporevala-feb8-1960.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

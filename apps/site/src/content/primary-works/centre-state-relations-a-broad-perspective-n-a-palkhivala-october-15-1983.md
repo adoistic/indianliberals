@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/centre-state-relations-a-broad-perspective-n-a-palkhivala-october-15-1983.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

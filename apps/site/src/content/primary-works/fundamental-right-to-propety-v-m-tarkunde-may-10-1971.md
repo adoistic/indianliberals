@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/fundamental-right-to-propety-v-m-tarkunde-may-10-1971.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

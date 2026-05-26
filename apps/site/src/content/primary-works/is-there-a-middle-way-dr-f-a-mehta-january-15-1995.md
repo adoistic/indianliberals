@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/is-there-a-middle-way-dr-f-a-mehta-january-15-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/management-development-dr-surinder-p-s-pruthi-october-12-1971.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

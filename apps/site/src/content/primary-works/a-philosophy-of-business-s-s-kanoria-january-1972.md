@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-philosophy-of-business-s-s-kanoria-january-1972.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

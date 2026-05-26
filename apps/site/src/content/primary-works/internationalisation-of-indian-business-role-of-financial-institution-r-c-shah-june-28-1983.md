@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/internationalisation-of-indian-business-role-of-financial-institution-r-c-shah-june-28-1983.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

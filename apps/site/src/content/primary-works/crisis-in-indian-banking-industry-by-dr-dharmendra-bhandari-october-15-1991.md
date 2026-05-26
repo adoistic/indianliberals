@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/crisis-in-indian-banking-industry-by-dr-dharmendra-bhandari-october-15-1991.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/budget-highlights-gst-where-are-we-today-h-p-ranina-bhavana-doshi.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

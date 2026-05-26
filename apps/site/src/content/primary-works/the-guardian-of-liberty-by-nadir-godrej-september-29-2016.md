@@ -23,6 +23,7 @@ provenance:
   source: ccs_archive
   notes: filename-attested stub; source PDF not yet imported
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-guardian-of-liberty-by-nadir-godrej-september-29-2016.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

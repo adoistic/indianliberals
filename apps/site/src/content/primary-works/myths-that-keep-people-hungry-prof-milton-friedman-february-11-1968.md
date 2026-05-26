@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/myths-that-keep-people-hungry-prof-milton-friedman-february-11-1968.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

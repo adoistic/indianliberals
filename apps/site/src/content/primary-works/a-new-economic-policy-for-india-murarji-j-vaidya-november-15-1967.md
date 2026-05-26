@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-new-economic-policy-for-india-murarji-j-vaidya-november-15-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -32,6 +32,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/are-there-monopolies-and-concentration-of-economic-power-in-india-arvind-narotta-lalbhai-h-venkatasubbiah-july-5-1964.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

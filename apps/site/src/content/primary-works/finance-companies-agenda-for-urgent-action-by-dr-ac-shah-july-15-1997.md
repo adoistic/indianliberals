@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/finance-companies-agenda-for-urgent-action-by-dr-ac-shah-july-15-1997.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

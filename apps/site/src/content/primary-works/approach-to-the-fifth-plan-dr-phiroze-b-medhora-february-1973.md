@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/approach-to-the-fifth-plan-dr-phiroze-b-medhora-february-1973.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

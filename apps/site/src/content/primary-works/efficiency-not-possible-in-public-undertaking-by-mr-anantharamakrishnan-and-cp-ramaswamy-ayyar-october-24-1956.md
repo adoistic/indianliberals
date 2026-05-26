@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/efficiency-not-possible-in-public-undertaking-by-mr-anantharamakrishnan-and-cp-ramaswamy-ayyar-october-24-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

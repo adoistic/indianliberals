@@ -34,6 +34,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/15th-finance-commission-dr-indira-rajaraman-dr-abhay-pethe-dr-c-rangarajan-dr-d-k-srivastava.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

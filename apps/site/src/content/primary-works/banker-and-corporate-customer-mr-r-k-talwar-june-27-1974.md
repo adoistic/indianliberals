@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/approach-to-the-fourth-five-year-plan-dr-r-c-cooper-s-m-dahanukar-y-a-fazalbhoy-november-10-1968.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

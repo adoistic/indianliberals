@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/community-development-b-g-rao-mar8-1961.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-study-of-a-state-monopoly-enterprise-in%20operation-by-m-r-pai-june-9-1963.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -23,6 +23,7 @@ provenance:
   source: ccs_archive
   notes: filename-attested stub; source PDF not yet imported
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/quotas-and-reservations-imperative-action-by-sujata-manohar-2006.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

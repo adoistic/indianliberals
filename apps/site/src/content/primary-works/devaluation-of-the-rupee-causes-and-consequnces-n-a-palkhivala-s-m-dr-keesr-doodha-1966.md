@@ -30,6 +30,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/devaluation-of-the-rupee-causes-and-consequnces-n-a-palkhivala-s-m-dr-keesr-doodha-1966.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

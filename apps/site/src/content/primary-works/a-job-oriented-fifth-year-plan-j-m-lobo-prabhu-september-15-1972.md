@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/international-finance-development-a-strategy-for-india-t-thomas-december-12-1982.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

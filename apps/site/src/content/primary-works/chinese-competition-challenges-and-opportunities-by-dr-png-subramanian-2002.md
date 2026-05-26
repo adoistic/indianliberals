@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/chinese-competition-challenges-and-opportunities-by-dr-png-subramanian-2002.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

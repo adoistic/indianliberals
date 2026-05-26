@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-infirmities-will-continue-under-the-union-budget-1996-97by-hp-ranina.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

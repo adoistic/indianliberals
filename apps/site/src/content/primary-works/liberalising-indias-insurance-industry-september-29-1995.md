@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/liberalising-indias-insurance-industry-september-29-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

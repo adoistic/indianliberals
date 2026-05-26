@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/new-era-of-enriching-hindu-growth-rate-sunil-s-bhandare-march-5-2010.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

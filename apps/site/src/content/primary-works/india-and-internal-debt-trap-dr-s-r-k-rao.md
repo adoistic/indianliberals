@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/india-and-internal-debt-trap-dr-s-r-k-rao.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

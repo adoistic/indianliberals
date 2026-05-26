@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-look-at-the-bombay-plan-in-the-light-of-today-h-v-r-iengar-january-11-1968.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

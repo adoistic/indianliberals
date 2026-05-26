@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/foreign-capital-by-kiran-nanda-december-17-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

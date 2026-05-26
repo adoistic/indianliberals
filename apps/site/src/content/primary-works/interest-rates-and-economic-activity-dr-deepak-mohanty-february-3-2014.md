@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/interest-rates-and-economic-activity-dr-deepak-mohanty-february-3-2014.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

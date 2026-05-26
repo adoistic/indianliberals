@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/inflation-in-brazil-the-principles-of-monetary-correction-roberto-de-oliveira-campos-15-october-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

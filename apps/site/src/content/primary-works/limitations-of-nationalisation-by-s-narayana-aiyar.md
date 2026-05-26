@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/limitations-of-nationalisation-by-S-Narayana-Aiyar.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

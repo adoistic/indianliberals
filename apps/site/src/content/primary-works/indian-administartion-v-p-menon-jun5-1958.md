@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/indian-administartion-v-p-menon-jun5-1958.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

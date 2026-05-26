@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/how-big-are-big-enterprises-h-t-parekh-april-10-1971.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

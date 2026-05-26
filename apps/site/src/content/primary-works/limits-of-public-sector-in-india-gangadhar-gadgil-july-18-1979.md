@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/limits-of-public-sector-in-india-gangadhar-gadgil-july-18-1979.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

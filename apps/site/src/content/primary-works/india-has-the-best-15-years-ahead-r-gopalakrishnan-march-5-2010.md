@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/india-has-the-best-15-years-ahead-r-gopalakrishnan-march-5-2010.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

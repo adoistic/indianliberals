@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-growth-prof-colin-clark-january-10-1969.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

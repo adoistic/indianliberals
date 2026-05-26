@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/ending-hunger-through-sustainable-development-by-maurice-f-strong-november-14-1989.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

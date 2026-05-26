@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/ethics-in-business-industry-and-public-life-n-vittal.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

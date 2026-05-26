@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/an-analysis-of-the-bonus-problem-m-c-munshi-september-14-1977.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

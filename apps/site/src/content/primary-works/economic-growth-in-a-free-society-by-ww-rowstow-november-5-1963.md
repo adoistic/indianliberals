@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-growth-in-a-free-society-by-ww-rowstow-november-5-1963.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

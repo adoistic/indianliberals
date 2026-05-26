@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-democracy-r-a-tariton-february-5-1969.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

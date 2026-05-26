@@ -30,6 +30,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/free-enterprise-in-india-and-freedom-a-d-shroff-january-4-2011.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

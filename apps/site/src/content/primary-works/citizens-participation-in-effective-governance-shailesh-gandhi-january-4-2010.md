@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/citizens-participation-in-effective-governance-shailesh-gandhi-january-4-2010.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

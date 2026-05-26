@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/india-needs-a-practical-economic-policy-dr-a-n-agarwala-May-10-1965.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

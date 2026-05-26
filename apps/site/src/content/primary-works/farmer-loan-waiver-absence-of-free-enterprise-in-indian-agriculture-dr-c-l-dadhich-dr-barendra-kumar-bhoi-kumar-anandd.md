@@ -33,6 +33,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/farmer-loan-waiver-absence-of-free-enterprise-in-indian-agriculture-dr-c-l-dadhich-dr-barendra-kumar-bhoi-kumar-anandd.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

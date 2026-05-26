@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/black-money-and-special-beraer-bonds-scheme-d-r-pendse-vadilal-bagli.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

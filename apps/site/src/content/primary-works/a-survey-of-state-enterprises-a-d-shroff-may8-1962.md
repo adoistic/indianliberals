@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-survey-of-state-enterprises-a-d-shroff-may8-1962.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -35,6 +35,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-central-budget-2004-2005-vis-a-vis-the-liberal-budget-various-july-18-2004.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

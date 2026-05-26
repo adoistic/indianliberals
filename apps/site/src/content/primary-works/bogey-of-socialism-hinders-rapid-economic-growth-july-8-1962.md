@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/bogey-of-socialism-hinders-rapid-economic-growth-july-8-1962.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

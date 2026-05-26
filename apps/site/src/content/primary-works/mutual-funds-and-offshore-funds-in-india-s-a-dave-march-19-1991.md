@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/mutual-funds-and-offshore-funds-in-india-s-a-dave-march-19-1991.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

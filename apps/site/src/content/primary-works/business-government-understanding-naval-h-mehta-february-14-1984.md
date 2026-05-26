@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/business-government-understanding-naval-h-mehta-february-14-1984.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

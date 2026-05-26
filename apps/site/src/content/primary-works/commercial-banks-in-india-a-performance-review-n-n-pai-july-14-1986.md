@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/commercial-banks-in-india-a-performance-review-n-n-pai-july-14-1986.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

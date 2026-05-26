@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/an-integrated-approach-to-pricing-and-marketing-of-the-agricultural-produce-bhanu-pratap-mehta-november-14-1981.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

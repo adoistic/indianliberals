@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/free-enterprise-will-survive-as-long-as-man-survives-by-ad-shroff-december-31-1958.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

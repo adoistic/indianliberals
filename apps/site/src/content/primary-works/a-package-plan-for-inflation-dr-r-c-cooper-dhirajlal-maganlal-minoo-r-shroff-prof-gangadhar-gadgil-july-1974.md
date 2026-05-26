@@ -31,6 +31,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

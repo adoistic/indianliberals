@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/consumers-of-a-state-monopoly-lic-policyholders-ptof-l-g-bapat-15-january-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

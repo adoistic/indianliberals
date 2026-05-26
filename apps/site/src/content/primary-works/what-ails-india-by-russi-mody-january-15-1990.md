@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/What-Ails-India-By-Russi-Mody-January-15-1990.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

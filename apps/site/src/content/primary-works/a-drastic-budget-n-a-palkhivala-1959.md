@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-drastic-budget-n-a-palkhivala-1959.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/development-dimension-to-financial-sector-dr-y-v-reddy-may-5-2010.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

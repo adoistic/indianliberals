@@ -28,6 +28,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/commercial-banks-and-social-control-m-l-tanan-professor-gangadhar-gadgil-professor-c-k-dalaya-march-12-1968.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

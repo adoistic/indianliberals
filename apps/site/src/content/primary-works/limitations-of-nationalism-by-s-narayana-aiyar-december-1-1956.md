@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/limitations-of-nationalism-by-s-narayana-aiyar-december-1-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

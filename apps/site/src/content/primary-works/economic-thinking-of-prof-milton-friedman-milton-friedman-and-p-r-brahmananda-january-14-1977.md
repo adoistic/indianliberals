@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/economic-thinking-of-prof-milton-friedman-milton-friedman-and-p-r-brahmananda-january-14-1977.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

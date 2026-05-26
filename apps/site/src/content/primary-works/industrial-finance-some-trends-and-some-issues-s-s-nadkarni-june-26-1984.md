@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/industrial-finance-some-trends-and-some-issues-s-s-nadkarni-june-26-1984.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/fourth-plan-strategy-dr-f-a-mehta-june-9-1969.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

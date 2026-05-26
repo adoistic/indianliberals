@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/a-formula-for-increasing-agricultural-production-by-ma-sreenivasan-march-8-1964.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

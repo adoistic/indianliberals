@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/education-leadership-and-vision-for-free-india-nani-a-palkhivala.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

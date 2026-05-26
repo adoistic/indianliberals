@@ -28,6 +28,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/air-travel-in-india-safety-and-service-by-wing-commander-vijay-mahajan-alka-sen-rn-kini-june-14-1990.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

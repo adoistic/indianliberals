@@ -77,6 +77,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/innovating-india-road-map-2014-2019-various-april-5-2014.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
