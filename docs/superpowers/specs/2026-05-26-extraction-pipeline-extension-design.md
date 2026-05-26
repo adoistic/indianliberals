@@ -290,7 +290,7 @@ Three logs to watch:
 
 Key health checks while running:
 - `git log --oneline origin/main..HEAD` — should be empty (or transient) if pushes are succeeding
-- `git status --short | grep '^?? apps/site/src/content/primary-works/.*\.md' | wc -l` — should oscillate between 0 and 20 (committer flushes when it crosses 20)
+- `git ls-files --others --exclude-standard -- apps/site/src/content/primary-works/ | grep '\.md$' | wc -l` — should oscillate between 0 and 20 (committer flushes when it crosses 20). Use this exact command — it matches what the committer itself queries, so the count is authoritative.
 - `tail -30 /tmp/v1.5-overnight-v2.log` — look for stack traces or repeated rate-limit pauses
 
 ### 8.3 Final validation (after the run completes)
@@ -333,7 +333,7 @@ Expected: no new content-vs-URL mismatches beyond what was already flagged.
 1. `list_unbaked_pdfs()` returns 0 (or only stuck-failing PDFs documented as known-unrecoverable).
 2. Smoke test passed before the full launch.
 3. Committer's final-flush ran and pushed any tail batch.
-4. Build clean, page count ≈ 1893 (within 5% of the formula 1283 + count-of-successful-bakes).
+4. Build clean, page count ≈ 1893 — i.e., 1283 (current `find apps/site/dist -name 'index.html' | wc -l` baseline from the most recent clean build, pre-extension) plus the number of successful new MDs, within ~5% tolerance. If the baseline shifts before launch, recompute it.
 5. Spot-check confirms 10 random new MDs are sensible.
 6. Commit log shows ≤ ⌈successes/20⌉ + 1 batched commits — at full success that's ~31 ((610 / 20) ≈ 30 + 1 final flush), but realistically lower since some PDFs will hit PREP/META/SUMMARY failures.
 
