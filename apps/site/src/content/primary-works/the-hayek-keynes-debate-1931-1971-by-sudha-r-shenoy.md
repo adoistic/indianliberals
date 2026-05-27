@@ -10,7 +10,14 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- austrian-economics
+- hayek-keynes-debate
+- inflation-and-monetary-policy
+- incomes-policy
+- wage-price-spiral
+- relative-price-structure
+- trade-unions-and-coordination
 needs_review: true
 draft: false
 transcript_status: complete
@@ -18,6 +25,143 @@ youtube_url: https://www.youtube.com/watch?v=SdqP9_U1GjE
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'Sudha R. Shenoy''s article, excerpted from ''A Tiger by the Tail: The Keynesian
+  Legacy of Inflation,'' traces the theoretical confrontation between Keynesian macroeconomics
+  and the Austrian framework developed by Friedrich Hayek from the 1930s through the
+  early 1970s. Shenoy argues that while Keynes'' General Theory (1936) provided a
+  theoretical foundation for aggregative thinking that became orthodoxy by the 1940s,
+  dissenting voices including Hayek, W. H. Hutt, and later Jacob Viner warned that
+  full-employment commitments would generate chronic wage-price spirals.
+
+
+  The central analytical contrast is between Keynes'' aggregative concepts (total
+  demand, total investment) and Hayek''s focus on the structure of relative prices
+  and production, built on foundations laid by Menger, Wieser, Böhm-Bawerk, and Mises.
+  Hayek criticized Keynes'' Treatise on Money for ignoring how monetary expansion
+  distorts the capital structure even when aggregate profits are zero, and questioned
+  the very notion of a ''price level'' that obscures micro-level dislocations.
+
+
+  Shenoy concludes that incomes policies adopted by the UK and US from the 1950s onward
+  merely freeze a given array of prices and wage rates without addressing the discoordinative
+  potential of non-market institutions like unions. To inflate is to have a tiger
+  by the tail: once output depends on inflation, slowing the pace produces recession,
+  and the alternative — permanent wage and price controls — implies a centrally controlled
+  economy.'
+key_points:
+- Keynesian aggregative thinking was widespread in Britain and the US before 1936;
+  the General Theory supplied its theoretical scaffolding rather than originating
+  it.
+- By the 1940s, full-employment commitments (UK 1944 White Paper, UN Charter, US 1946
+  Employment Act) institutionalized the Keynesian framework, but Viner and Hutt warned
+  this would produce chronic upward wage pressure.
+- The 1950s 'cost inflation' discovery led economists toward incomes policies — first
+  as guidelines, later as direct wage and price controls.
+- Hayek's Austrian framework treats prices as empirical signals coordinating production;
+  the 'price level' concept obscures the relative-price distortions that monetary
+  expansion produces.
+- Hayek's 1931 review of Keynes' Treatise on Money in Economica argued that profits
+  in lower stages offsetting losses in higher stages still produces capital-structure
+  contraction and falling output.
+- Lord Robbins' trajectory — from warning in the early 1950s that wage-fixing by the
+  state would be incompatible with political democracy, to advocating incomes policy
+  as 'shock tactics' seventeen years later — illustrates the intellectual capitulation
+  Shenoy critiques.
+- Incomes policies freeze relative wage structures reflecting union 'pushfulness'
+  rather than market allocation, and the only stable alternative is a centrally controlled
+  economy.
+thinker_mentions:
+- thinker: sudha-r-shenoy
+  role: subject
+  reasoning: Shenoy is the author and narrator of this article-as-lecture; the entire
+    text is her exposition of the Hayek-Keynes debate excerpted from her own book.
+  evidence:
+  - quote: The Hayek-Keynes debate, 1931-1971, by Sudha R. Shenoy. This article is
+      excerpted from A Tiger by the Tail, The Keynesian Legacy of Inflation.
+    context: Opening attribution
+  key_passages:
+  - quote: To inflate is to have a tiger by the tail.
+    what_it_shows: Shenoy's signature formulation distilling Hayek's warning about
+      inflation dependency
+  - quote: The major objection to an income policy approach is that it merely freezes
+      a given array of prices and wage rates. It does nothing to bring about coordination
+      or to introduce coordinated institutions into the labor sector.
+    what_it_shows: Shenoy's structural critique of incomes policy as a substitute
+      for institutional reform
+- thinker: friedrich-hayek
+  role: mention
+  reasoning: Hayek is the central protagonist of the debate Shenoy reconstructs; she
+    summarizes his critique of Keynes, his Prices and Production lectures, and his
+    analysis of the relative price structure.
+  evidence:
+  - quote: The doctrines generally accepted among English economists contemporaneous
+      with Keynes were challenged in fundamental respects by an alternative analysis
+      developed on the continent and propounded in Britain by Professor Hayek.
+    context: Framing of Hayek's role
+  - quote: In his first English work, the four lectures published as Prices and Production,
+      Hayek questioned the concept of price level
+    context: Hayek's challenge to aggregative concepts
+  - quote: Hayek criticized Keynes for his neglect of the real structure of production
+    context: Hayek's review of Keynes' Treatise on Money
+  key_passages:
+  - quote: Hayek concentrated on the analysis of the structure of relative prices
+      and their interrelations. He did not adopt the framework of a general equilibrium
+      system nor treat price changes as elements in a dynamic shift between two general
+      equilibria. He regarded prices, rather, as empirical reflectors of specific
+      circumstances
+    what_it_shows: Distinctive Hayekian methodology contrasted with both Keynesian
+      aggregates and Walrasian general equilibrium
+  - quote: The authorities succeeded by means of an easy money policy inaugurated
+      as soon as the symptoms of an impending reaction were noticed in prolonging
+      the boom for two years beyond what would otherwise have been its natural end.
+    what_it_shows: Hayek's direct quoted diagnosis of the 1927-1932 American monetary
+      policy as cause of the Depression's severity
+- thinker: ludwig-von-mises
+  role: mention
+  reasoning: Mises is named as the culmination of the Austrian tradition Hayek built
+    upon, providing the intellectual lineage Shenoy traces.
+  evidence:
+  - quote: Professor Hayek developed on foundations laid by the Austrians Menger,
+      Wieser, and Böhm-Bawerk, culminating in the works of Mises.
+    context: Lineage of Austrian economic theory
+  key_passages:
+  - quote: Professor Hayek developed on foundations laid by the Austrians Menger,
+      Wieser, and Böhm-Bawerk, culminating in the works of Mises.
+    what_it_shows: Positions Mises as the immediate intellectual antecedent of Hayek's
+      price-structure analysis
+- thinker: w-h-hutt
+  role: mention
+  reasoning: Hutt is cited as one of the earliest dissenters who immediately diagnosed
+    the General Theory as inflationary.
+  evidence:
+  - quote: Shortly after the general theory appeared, Professor W. H. Hutt argued
+      that it was a specific for inflation.
+    context: Early critical reception of Keynes
+  key_passages:
+  - quote: Shortly after the general theory appeared, Professor W. H. Hutt argued
+      that it was a specific for inflation.
+    what_it_shows: Hutt as an early voice anticipating the inflationary consequences
+      Shenoy's book traces
+- thinker: nicholas-kaldor
+  role: mention
+  reasoning: Kaldor appears among the group of distinguished economists whose UN report
+    Viner critiqued for evading the wage-inflation question.
+  evidence:
+  - quote: a group of distinguished economists, J. M. Clark, A. Smithies, N. Kaldor,
+      P. Uri, and E. R. Walker.
+    context: Authors of the UN full-employment report
+  key_passages:
+  - quote: Effective demand to provide employment was the key concept in recommendations
+      that Professor Viner rated as much more Keynesian than was the final Keynes
+      himself.
+    what_it_shows: Situates Kaldor among postwar economists who pushed Keynesianism
+      further than Keynes himself
+related_thinkers:
+- friedrich-hayek
+- ludwig-von-mises
+- nicholas-kaldor
+- sudha-r-shenoy
+- w-h-hutt
 ---
 
 # The Hayek-Keynes Debate, 1931-1971 | by Sudha R. Shenoy
