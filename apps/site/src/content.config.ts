@@ -359,6 +359,9 @@ const primaryWorks = defineCollection({
     }),
     youtube_url: z.string().url().optional(),
     transcript_status: z.enum(['none', 'partial', 'complete', 'unavailable']).default('none'),
+    // Editorial description (preserved verbatim from a migrated interview MD's body, if non-garbage).
+    // Distinct from `summary` (the AI-generated synopsis emitted by Phase B enrichment).
+    description: z.string().optional(),
     rights: rightsSchema,
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
