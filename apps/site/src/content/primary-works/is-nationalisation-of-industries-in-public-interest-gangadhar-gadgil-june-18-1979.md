@@ -2,25 +2,29 @@
 id: is-nationalisation-of-industries-in-public-interest-gangadhar-gadgil-june-18-1979
 title:
   main: Is Nationalisation of Industries in Public Interest?
-  subtitle: ""
+  subtitle: ''
 work_type: pamphlet
 authors:
-  - gangadhar-gadgil
+- gangadhar-gadgil
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Prof. Gangadhar Gadgil
-    toc_index: 2
-  - role: introduction
-    thinker: m-r-pai
-    toc_index: 1
-related_thinkers: 
-  - deng-xiaoping
-
+- role: author
+  toc_index: 2
+  thinker: gangadhar-gadgil
+- role: introduction
+  thinker: m-r-pai
+  toc_index: 1
+related_thinkers:
+- deng-xiaoping
+- gangadhar-gadgil
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE\nPIRAMAL MANSION, 235 DR. D. N. ROAD,\nBOMBAY 400 001."
+  publisher_name: 'FORUM OF FREE ENTERPRISE
+
+    PIRAMAL MANSION, 235 DR. D. N. ROAD,
+
+    BOMBAY 400 001.'
   issuer_id: forum-of-free-enterprise
   place: Bombay
 provenance:
@@ -31,12 +35,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - nationalisation
-  - public-sector
-  - free-enterprise
-summary: "This Forum of Free Enterprise pamphlet asks whether nationalisation still serves the public interest, and answers — emphatically — no. It opens with a brief historical framing piece signed by M. R. Pai, which traces nationalisation back to the socialist response to Industrial Revolution exploitation and argues that fifty years of European experience (the British Labour Party, Fabians, even the Chinese under Deng) has discredited public ownership as a vehicle for either efficiency or social justice. Pai catalogues the failures that drove socialists like Hugh Gaitskell, C. A. R. Crosland, R. H. S. Crossman, U Nu and Lee Kuan Yew to abandon nationalisation: loss of productivity once \"everybody's business became nobody's business\"; bureaucratic indifference to workers; monopoly contempt for consumers (LIC, IAC, the State Trading Corporation); and the illusion that parliamentary control could discipline the resulting bureaucracy.\n\nThe substantive essay is Prof.…"
+- nationalisation
+- public-sector
+- free-enterprise
+summary: 'This Forum of Free Enterprise pamphlet asks whether nationalisation still
+  serves the public interest, and answers — emphatically — no. It opens with a brief
+  historical framing piece signed by M. R. Pai, which traces nationalisation back
+  to the socialist response to Industrial Revolution exploitation and argues that
+  fifty years of European experience (the British Labour Party, Fabians, even the
+  Chinese under Deng) has discredited public ownership as a vehicle for either efficiency
+  or social justice. Pai catalogues the failures that drove socialists like Hugh Gaitskell,
+  C. A. R. Crosland, R. H. S. Crossman, U Nu and Lee Kuan Yew to abandon nationalisation:
+  loss of productivity once "everybody''s business became nobody''s business"; bureaucratic
+  indifference to workers; monopoly contempt for consumers (LIC, IAC, the State Trading
+  Corporation); and the illusion that parliamentary control could discipline the resulting
+  bureaucracy.
+
+
+  The substantive essay is Prof.…'
 needs_review: true
 draft: false
 ai:
@@ -49,29 +68,37 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet booklet, cover with FFE crest, single staple-bound issue
 missing_metadata_flags:
-  - no_printed_year_visible
-  - no_formal_toc_page
-  - no_colophon_in_rendered_pages
+- no_printed_year_visible
+- no_formal_toc_page
+- no_colophon_in_rendered_pages
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - Gangadhar Gadgil
+  - Gangadhar Gadgil
   stubs_created: []
   stubs_referenced:
-    - gangadhar-gadgil
+  - gangadhar-gadgil
   collisions_logged: []
 thinker_mentions:
-  - thinker: deng-xiaoping
-    role: mention
-    reasoning: "The pamphlet invokes Deng twice — once to note that 'even the Chinese under Deng' have abandoned nationalisation, and again to invoke Deng's 'black cat / white cat' pragmatism as the wider liberal critique of dirigisme within which Gadgil's case sits."
-    evidence:
-      - quote: fifty years of European experience (the British Labour Party, Fabians, even the Chinese under Deng) has discredited public ownership as a vehicle for either efficiency or social justice
-        context: "Pai's framing essay enlists Deng's China as the closing item in the global list of socialist retreats from public ownership"
-      - quote: "invoking Deng's \"black cat / white cat\" pragmatism, Gandhian trusteeship, and the comparative record of public-sector banks, LIC, Indian Airlines and the State Trading Corporation as monopolies that have failed consumers."
-        context: "Deng's pragmatist slogan anchors the pamphlet's wider liberal critique of dirigisme"
-    key_passages: []
-
+- thinker: deng-xiaoping
+  role: mention
+  reasoning: The pamphlet invokes Deng twice — once to note that 'even the Chinese
+    under Deng' have abandoned nationalisation, and again to invoke Deng's 'black
+    cat / white cat' pragmatism as the wider liberal critique of dirigisme within
+    which Gadgil's case sits.
+  evidence:
+  - quote: fifty years of European experience (the British Labour Party, Fabians,
+      even the Chinese under Deng) has discredited public ownership as a vehicle for
+      either efficiency or social justice
+    context: Pai's framing essay enlists Deng's China as the closing item in the global
+      list of socialist retreats from public ownership
+  - quote: invoking Deng's "black cat / white cat" pragmatism, Gandhian trusteeship,
+      and the comparative record of public-sector banks, LIC, Indian Airlines and
+      the State Trading Corporation as monopolies that have failed consumers.
+    context: Deng's pragmatist slogan anchors the pamphlet's wider liberal critique
+      of dirigisme
+  key_passages: []
 ---
 
 ## Summary

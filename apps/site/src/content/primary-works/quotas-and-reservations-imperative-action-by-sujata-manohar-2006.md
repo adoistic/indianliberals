@@ -7,17 +7,13 @@ work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Justice (Mrs.) Sujata Manohar (Retd.)
-    toc_index: 2
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-    toc_index: 1
-related_thinkers:
-  - a-d-shroff
-  - bhimrao-ambedkar
-  - rabindranath-tagore
-  - minoo-masani
+- role: author
+  toc_index: 2
+  thinker: mrs-sujata-manohar-retd
+- role: introduction
+  toc_index: 1
+  thinker: minoo-r-shroff
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -33,9 +29,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Quotas and Reservations — Imperatives of Affirmative Action is the printed text of a lecture delivered by Justice (Mrs.) Sujata Manohar (Retd.), a former Chief Justice of the Bombay and Kerala High Courts and Supreme Court judge, at the Annual Day of the Leslie Sawhny Endowment programme on 16th May 2006. The pamphlet was published by the Forum of Free Enterprise in Mumbai and opens with an Introduction signed by Minoo R. Shroff, President of the Forum, who frames the address as an incisive analysis of the country's reservations regime and laments that politicians who divide the nation on the basis of religion and caste 'scar a country forever'.\n\nManohar reads the Indian reservations regime against its constitutional intent. Recalling Martin Luther King, Rabindranath Tagore's Geetanjali, and Ambedkar's Constituent Assembly warning that 'castes are anti national', she argues that Articles 14, 15, 16 and 335 were designed to build a non-discriminatory and fraternal order; the special provisions for women, children, Scheduled Castes and Scheduled Tribes were conceived as short-term, reverse-discrimination measures pending empowerment.…"
+summary: 'Quotas and Reservations — Imperatives of Affirmative Action is the printed
+  text of a lecture delivered by Justice (Mrs.) Sujata Manohar (Retd.), a former Chief
+  Justice of the Bombay and Kerala High Courts and Supreme Court judge, at the Annual
+  Day of the Leslie Sawhny Endowment programme on 16th May 2006. The pamphlet was
+  published by the Forum of Free Enterprise in Mumbai and opens with an Introduction
+  signed by Minoo R. Shroff, President of the Forum, who frames the address as an
+  incisive analysis of the country''s reservations regime and laments that politicians
+  who divide the nation on the basis of religion and caste ''scar a country forever''.
+
+
+  Manohar reads the Indian reservations regime against its constitutional intent.
+  Recalling Martin Luther King, Rabindranath Tagore''s Geetanjali, and Ambedkar''s
+  Constituent Assembly warning that ''castes are anti national'', she argues that
+  Articles 14, 15, 16 and 335 were designed to build a non-discriminatory and fraternal
+  order; the special provisions for women, children, Scheduled Castes and Scheduled
+  Tribes were conceived as short-term, reverse-discrimination measures pending empowerment.…'
 needs_review: true
 draft: false
 ai:
@@ -48,9 +60,9 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / booklet
 missing_metadata_flags:
-  - no_formal_table_of_contents
-  - no_isbn_visible
-  - no_copyright_page_visible
+- no_formal_table_of_contents
+- no_isbn_visible
+- no_copyright_page_visible
 ---
 
 # Quotas and Reservations

@@ -2,21 +2,23 @@
 id: the-changing-profile-of-indian-banking-j-n-saxena-june-1-1977
 title:
   main: The Changing Profile of Indian Banking
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: J. N. Saxena
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers:
-  - a-d-shroff
+- role: author
+  thinker: j-n-saxena
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: The A. D. Shroff Memorial Trust, Piramal Mansion, 235, Dr. D. N. Rd., BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by B. D. Nadirshaw at The Bombay Chronicle Press, Horniman Circle, Bombay 400 001.
+  publisher_name: The A. D. Shroff Memorial Trust, Piramal Mansion, 235, Dr. D. N.
+    Rd., BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial
+    Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by B. D. Nadirshaw
+    at The Bombay Chronicle Press, Horniman Circle, Bombay 400 001.
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1977
@@ -28,13 +30,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - finance
-  - economic-policy
-  - public-sector
-summary: "Delivered as the A. D. Shroff Memorial Lecture in Bombay on 25 April 1977 and published by the A. D. Shroff Memorial Trust on 1 June 1977, J. N. Saxena's address surveys what he calls the \"sea-change\" in Indian banking over the preceding decade and a half. Saxena, a career banker who served the Imperial Bank and then the State Bank of India from 1938 to 1970, ran the Bank of India between 1970 and 1975, and is at the time of writing Chairman of the Industrial Development Bank of India, opens with a homage to Shroff's conviction that \"a well informed citizenry is the foundation of enduring democracy\" before turning to the structural, physical, qualitative and conceptual changes that have reshaped Indian banking since 1951.\n\nThe bulk of the lecture as rendered traces three structural shifts. First, the emergence of a dominant public sector — through the 1955 nationalisation of the Imperial Bank into the State Bank of India, the 1968 imposition of \"Social Control\" on banking, and the July 1969 nationalisation of fourteen major banks — which now controls roughly 85 per cent of the banking business.…"
+- banking
+- finance
+- economic-policy
+- public-sector
+summary: 'Delivered as the A. D. Shroff Memorial Lecture in Bombay on 25 April 1977
+  and published by the A. D. Shroff Memorial Trust on 1 June 1977, J. N. Saxena''s
+  address surveys what he calls the "sea-change" in Indian banking over the preceding
+  decade and a half. Saxena, a career banker who served the Imperial Bank and then
+  the State Bank of India from 1938 to 1970, ran the Bank of India between 1970 and
+  1975, and is at the time of writing Chairman of the Industrial Development Bank
+  of India, opens with a homage to Shroff''s conviction that "a well informed citizenry
+  is the foundation of enduring democracy" before turning to the structural, physical,
+  qualitative and conceptual changes that have reshaped Indian banking since 1951.
+
+
+  The bulk of the lecture as rendered traces three structural shifts. First, the emergence
+  of a dominant public sector — through the 1955 nationalisation of the Imperial Bank
+  into the State Bank of India, the 1968 imposition of "Social Control" on banking,
+  and the July 1969 nationalisation of fourteen major banks — which now controls roughly
+  85 per cent of the banking business.…'
 needs_review: true
 draft: false
 ai:
@@ -47,7 +65,7 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / printed memorial lecture booklet
 missing_metadata_flags:
-  - no_formal_toc
+- no_formal_toc
 ---
 
 # The Changing Profile of Indian Banking

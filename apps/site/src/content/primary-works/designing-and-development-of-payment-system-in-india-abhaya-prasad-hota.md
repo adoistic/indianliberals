@@ -2,24 +2,24 @@
 id: designing-and-development-of-payment-system-in-india-abhaya-prasad-hota
 title:
   main: Designing and Development of Payment System in India
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - abhaya-prasad-hota
+- abhaya-prasad-hota
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker: abhaya-prasad-hota
-    toc_index: 1
-  - role: editor
-    thinker: sunil-bhandare
-  - role: foreword
-    thinker_unresolved: Suresh Prabhu
-related_thinkers: 
-  - a-d-shroff
-  - m-r-pai
-
+- role: author
+  thinker: abhaya-prasad-hota
+  toc_index: 1
+- role: editor
+  thinker: sunil-bhandare
+- role: foreword
+  thinker: suresh-prabhu
+related_thinkers:
+- a-d-shroff
+- abhaya-prasad-hota
+- m-r-pai
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -34,14 +34,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - financial-inclusion
-  - economic-policy
-  - technology
-  - consumer-rights
-summary: "This Forum of Free Enterprise booklet prints the acceptance speech that Abhaya Prasad Hota — former Chief General Manager of the Reserve Bank of India and former MD & CEO of the National Payments Corporation of India (NPCI) — delivered on receiving the Thirteenth M. R. Pai Memorial Award in Mumbai on 21st August 2017. The volume opens with a biographical note on M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956 and went on to fight a long series of public-interest battles against telephone departments, banks, Indian Airlines and other monopolies. It is followed by a recorded tribute from Suresh Prabhu, then Union Minister of Commerce and Industry, and an editorial introduction by Sunil S. Bhandare that frames Hota's career as a continuation of Pai's consumer-protection mission, this time through the architecture of payment systems rather than the courts.\n\nHota's own text — beginning on printed page 11 — traces the institutional design of Indian retail payments across roughly three decades.…"
+- banking
+- financial-inclusion
+- economic-policy
+- technology
+- consumer-rights
+summary: 'This Forum of Free Enterprise booklet prints the acceptance speech that
+  Abhaya Prasad Hota — former Chief General Manager of the Reserve Bank of India and
+  former MD & CEO of the National Payments Corporation of India (NPCI) — delivered
+  on receiving the Thirteenth M. R. Pai Memorial Award in Mumbai on 21st August 2017.
+  The volume opens with a biographical note on M. R. Pai (1931–2003), the consumer-rights
+  crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise
+  in 1956 and went on to fight a long series of public-interest battles against telephone
+  departments, banks, Indian Airlines and other monopolies. It is followed by a recorded
+  tribute from Suresh Prabhu, then Union Minister of Commerce and Industry, and an
+  editorial introduction by Sunil S. Bhandare that frames Hota''s career as a continuation
+  of Pai''s consumer-protection mission, this time through the architecture of payment
+  systems rather than the courts.
+
+
+  Hota''s own text — beginning on printed page 11 — traces the institutional design
+  of Indian retail payments across roughly three decades.…'
 needs_review: true
 draft: false
 ai:
@@ -54,29 +70,40 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / booklet (FFE memorial-award publication)
 missing_metadata_flags:
-  - no_formal_toc_page
-  - no_explicit_publication_year
-  - no_isbn
-  - no_publisher_address_visible
+- no_formal_toc_page
+- no_explicit_publication_year
+- no_isbn
+- no_publisher_address_visible
 thinker_mentions:
-  - thinker: m-r-pai
-    role: mention
-    reasoning: "The booklet opens with a biographical note on M. R. Pai as the consumer-rights crusader who co-founded the Forum of Free Enterprise with Shroff, positioning Hota's payment-systems work as a continuation of Pai's consumer-protection mission."
-    evidence:
-      - quote: The volume opens with a biographical note on M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956
-        context: "Pai's biography establishes the consumer-protection lineage within which Hota's payment-systems work is situated"
-      - quote: "Front matter establishes the M. R. Pai lineage of consumer activism — his association with A. D. Shroff at the Forum's 1956 founding"
-        context: "Pai's founding role is the institutional context for the M. R. Pai Memorial Award Hota receives"
-    key_passages: []
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Shroff is named as the co-founder of the Forum of Free Enterprise alongside M. R. Pai, situating the institution's free-enterprise-with-consumer-voice mission as Shroff's founding legacy."
-    evidence:
-      - quote: M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956
-        context: Shroff is identified as the founding partner of the institution whose award Hota is receiving
-    key_passages: []
-
+- thinker: m-r-pai
+  role: mention
+  reasoning: The booklet opens with a biographical note on M. R. Pai as the consumer-rights
+    crusader who co-founded the Forum of Free Enterprise with Shroff, positioning
+    Hota's payment-systems work as a continuation of Pai's consumer-protection mission.
+  evidence:
+  - quote: The volume opens with a biographical note on M. R. Pai (1931–2003), the
+      consumer-rights crusader who joined A. D. Shroff at the founding of the Forum
+      of Free Enterprise in 1956
+    context: Pai's biography establishes the consumer-protection lineage within which
+      Hota's payment-systems work is situated
+  - quote: Front matter establishes the M. R. Pai lineage of consumer activism — his
+      association with A. D. Shroff at the Forum's 1956 founding
+    context: Pai's founding role is the institutional context for the M. R. Pai Memorial
+      Award Hota receives
+  key_passages: []
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff is named as the co-founder of the Forum of Free Enterprise alongside
+    M. R. Pai, situating the institution's free-enterprise-with-consumer-voice mission
+    as Shroff's founding legacy.
+  evidence:
+  - quote: M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff
+      at the founding of the Forum of Free Enterprise in 1956
+    context: Shroff is identified as the founding partner of the institution whose
+      award Hota is receiving
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet prints the acceptance speech that Abhaya Prasad Hota — former Chief General Manager of the Reserve Bank of India and former MD & CEO of the National Payments Corporation of India (NPCI) — delivered on receiving the Thirteenth M. R. Pai Memorial Award in Mumbai on 21st August 2017. The volume opens with a biographical note on M. R. Pai (1931–2003), the consumer-rights crusader who joined A. D. Shroff at the founding of the Forum of Free Enterprise in 1956 and went on to fight a long series of public-interest battles against telephone departments, banks, Indian Airlines and other monopolies. It is followed by a recorded tribute from Suresh Prabhu, then Union Minister of Commerce and Industry, and an editorial introduction by Sunil S. Bhandare that frames Hota's career as a continuation of Pai's consumer-protection mission, this time through the architecture of payment systems rather than the courts.

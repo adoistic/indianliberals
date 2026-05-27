@@ -1,23 +1,25 @@
 ---
 id: mind-vs-mindset-the-grand-indian-challenge-dr-r-a-mashelkar-f-r-s-october-5-2010
 title:
-  main: "Mind Vs Mindset : The Grand Indian Challenge"
-  subtitle: ""
+  main: 'Mind Vs Mindset : The Grand Indian Challenge'
+  subtitle: ''
 work_type: speech
 authors:
-  - r-a-mashelkar
+- r-a-mashelkar
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - minoo-shroff
-
-
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- minoo-shroff
+- r-a-mashelkar
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House. 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House. 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2010
@@ -29,12 +31,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-development
-  - civil-society
-  - liberalism
-summary: "This Forum of Free Enterprise booklet reproduces Dr. R. A. Mashelkar's address \"Shaping Young Minds — Managing Career Expectations\", delivered in August 2008 under the joint auspices of the Lucknow Management Association and the All-India Management Association. Mashelkar, then Chairman of the Governing Council of the National Innovation Foundation and a former Director General of the CSIR, frames India's twenty-first-century challenge as one of \"mind versus mindset\": the Indian mind has never wanted for intellect — it produced the zero and now lays the foundation of the digital economy — but the Indian mindset, captured in the proverb that two Indians together \"neutralize each other\", routinely strips that intellect of its multiplier effect. The argument is that demography, democracy and diversity give India structural advantages over China only if institutional and national mindsets are deliberately rebuilt.\n\nMashelkar develops the thesis autobiographically.…"
+- economic-development
+- civil-society
+- liberalism
+summary: 'This Forum of Free Enterprise booklet reproduces Dr. R. A. Mashelkar''s
+  address "Shaping Young Minds — Managing Career Expectations", delivered in August
+  2008 under the joint auspices of the Lucknow Management Association and the All-India
+  Management Association. Mashelkar, then Chairman of the Governing Council of the
+  National Innovation Foundation and a former Director General of the CSIR, frames
+  India''s twenty-first-century challenge as one of "mind versus mindset": the Indian
+  mind has never wanted for intellect — it produced the zero and now lays the foundation
+  of the digital economy — but the Indian mindset, captured in the proverb that two
+  Indians together "neutralize each other", routinely strips that intellect of its
+  multiplier effect. The argument is that demography, democracy and diversity give
+  India structural advantages over China only if institutional and national mindsets
+  are deliberately rebuilt.
+
+
+  Mashelkar develops the thesis autobiographically.…'
 needs_review: true
 draft: false
 ai:
@@ -45,31 +62,35 @@ physical:
   pages_rendered: 17
   pages_total: 17
   pages_total_source: pypdfium2
-  format: "FFE booklet / pamphlet (back cover prints '5/October/2010' issue marker)"
+  format: FFE booklet / pamphlet (back cover prints '5/October/2010' issue marker)
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
-  - series_number_not_printed
+- no_formal_toc
+- no_isbn
+- series_number_not_printed
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - R. A. Mashelkar
+  - R. A. Mashelkar
   stubs_created: []
   stubs_referenced:
-    - r-a-mashelkar
+  - r-a-mashelkar
   collisions_logged: []
 thinker_mentions:
-  - thinker: minoo-shroff
-    role: mention
-    reasoning: "Minoo Shroff, as President of the Forum of Free Enterprise, writes the introduction to the booklet — the institutional sponsorship that brings Mashelkar's address into the Forum's free-enterprise publication stream two years after delivery."
-    evidence:
-      - quote: The booklet is introduced by Minoo R. Shroff, President of the Forum of Free Enterprise
-        context: "closing biographical sentence of the summary; identifies Shroff's role as Forum president and introducer"
-      - quote: issued on 5 October 2010 with an introduction by Minoo R. Shroff
-        context: "key-point bullet; restates Shroff's introductory role tied to the 2010 publication date"
-    key_passages: []
-
+- thinker: minoo-shroff
+  role: mention
+  reasoning: Minoo Shroff, as President of the Forum of Free Enterprise, writes the
+    introduction to the booklet — the institutional sponsorship that brings Mashelkar's
+    address into the Forum's free-enterprise publication stream two years after delivery.
+  evidence:
+  - quote: The booklet is introduced by Minoo R. Shroff, President of the Forum of
+      Free Enterprise
+    context: closing biographical sentence of the summary; identifies Shroff's role
+      as Forum president and introducer
+  - quote: issued on 5 October 2010 with an introduction by Minoo R. Shroff
+    context: key-point bullet; restates Shroff's introductory role tied to the 2010
+      publication date
+  key_passages: []
 ---
 
 ## Summary

@@ -7,19 +7,20 @@ work_type: pamphlet
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Dudley Dillard
-related_thinkers: 
-  - a-d-shroff
-  - adam-smith
-  - john-stuart-mill
-  - karl-marx
-  - murarji-vaidya
-
+- role: author
+  thinker: dudley-dillard
+related_thinkers:
+- a-d-shroff
+- adam-smith
+- john-stuart-mill
+- karl-marx
+- murarji-vaidya
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 1, and Printed by S. J. Patel, at Onlooker Press,
+    (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1968
@@ -31,12 +32,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - political-economy
-  - economic-policy
-  - fiscal-policy
-summary: "This Forum of Free Enterprise booklet, issued in Bombay on 11 July 1968, reprints an article by University of Maryland economist Dudley Dillard that originally appeared in Review, the journal of the Institute of Public Affairs in Australia. Dillard, author of an earlier popular exposition of The General Theory of Employment, Interest and Money (1940), sets out to answer a question Forum readers had been asking with mounting urgency as Indian debate over deficit financing intensified: was Lord Keynes a socialist or a defender of capitalism? Forum president Murarji J. Vaidya frames the reprint as a service to students of public affairs in India who needed a clear, jargon-free account of Keynes' actual position rather than the caricatures circulating on either side.\n\nThe body of the essay is a compact primer on the Keynesian system. Dillard places Keynes in the classical line that runs from Adam Smith and Ricardo through Mill and Marshall, then traces the General Theory's break with the older orthodoxy represented by Professor Pigou of Cambridge, who had argued that an all-round cut in wages would cure unemployment.…"
+- political-economy
+- economic-policy
+- fiscal-policy
+summary: 'This Forum of Free Enterprise booklet, issued in Bombay on 11 July 1968,
+  reprints an article by University of Maryland economist Dudley Dillard that originally
+  appeared in Review, the journal of the Institute of Public Affairs in Australia.
+  Dillard, author of an earlier popular exposition of The General Theory of Employment,
+  Interest and Money (1940), sets out to answer a question Forum readers had been
+  asking with mounting urgency as Indian debate over deficit financing intensified:
+  was Lord Keynes a socialist or a defender of capitalism? Forum president Murarji
+  J. Vaidya frames the reprint as a service to students of public affairs in India
+  who needed a clear, jargon-free account of Keynes'' actual position rather than
+  the caricatures circulating on either side.
+
+
+  The body of the essay is a compact primer on the Keynesian system. Dillard places
+  Keynes in the classical line that runs from Adam Smith and Ricardo through Mill
+  and Marshall, then traces the General Theory''s break with the older orthodoxy represented
+  by Professor Pigou of Cambridge, who had argued that an all-round cut in wages would
+  cure unemployment.…'
 needs_review: true
 draft: false
 ai:
@@ -47,48 +65,68 @@ physical:
   pages_rendered: 11
   pages_total: 11
   pages_total_source: pypdfium2
-  format: Saddle-stitched booklet / pamphlet, red and cream printed wrappers; FFE imprint
+  format: Saddle-stitched booklet / pamphlet, red and cream printed wrappers; FFE
+    imprint
 missing_metadata_flags:
-  - no_toc
-  - author_not_in_authority_file
+- no_toc
+- author_not_in_authority_file
 thinker_mentions:
-  - thinker: adam-smith
-    role: mention
-    reasoning: Dillard places Keynes in the classical tradition running from Adam Smith, situating him within the lineage of major economists to frame the magnitude of his theoretical break with that tradition.
-    evidence:
-      - quote: "Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill, Karl Marx and Alfred Marshall as a classical-rank figure and compares his disruption of economics to Einstein's of physics."
-        context: "Dillard's placement of Keynes in the classical tradition to establish the significance of his theoretical break"
-    key_passages: []
-  - thinker: john-stuart-mill
-    role: mention
-    reasoning: John Stuart Mill is listed among the classical economists in whose tradition Dillard places Keynes, establishing the lineage from which Keynesian theory departs.
-    evidence:
-      - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill, Karl Marx and Alfred Marshall as a classical-rank figure
-        context: "Mill named in Dillard's classical-tradition lineage for Keynes"
-    key_passages: []
-  - thinker: karl-marx
-    role: mention
-    reasoning: "Marx is invoked both as part of the classical-economist tradition Dillard uses to contextualise Keynes, and as the target of Keynes's open hostility — Keynes dismissed Capital as 'an obsolete textbook'."
-    evidence:
-      - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill, Karl Marx and Alfred Marshall as a classical-rank figure
-        context: Marx placed in the classical tradition from which Keynes emerged
-      - quote: "Dillard records Keynes' open hostility to Marxism — calling Capital 'an obsolete textbook'"
-        context: "Keynes's rejection of Marxism as a key strand in Dillard's argument that Keynes was not a socialist"
-    key_passages: []
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "The pamphlet closes with an A. D. Shroff epigraph on free enterprise, situating Dillard's Keynes exposition within the Forum's ideological project."
-    evidence:
-      - quote: an A. D. Shroff epigraph on free enterprise, and a membership solicitation
-        context: "Shroff's epigraph frames the booklet within the Forum of Free Enterprise's classical-liberal tradition"
-    key_passages: []
-  - thinker: murarji-vaidya
-    role: mention
-    reasoning: "Murarji J. Vaidya, as Forum president, frames the reprint as a service to Indian students and contextualises the booklet's educational purpose for its 1968 readership debating deficit financing."
-    evidence:
-      - quote: "Forum president Murarji J. Vaidya frames the reprint as a service to students of public affairs in India who needed a clear, jargon-free account of Keynes' actual position rather than the caricatures circulating on either side."
-        context: "Vaidya's editorial framing establishes the booklet's purpose in the Indian deficit-financing debate"
-    key_passages: []
+- thinker: adam-smith
+  role: mention
+  reasoning: Dillard places Keynes in the classical tradition running from Adam Smith,
+    situating him within the lineage of major economists to frame the magnitude of
+    his theoretical break with that tradition.
+  evidence:
+  - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill,
+      Karl Marx and Alfred Marshall as a classical-rank figure and compares his disruption
+      of economics to Einstein's of physics.
+    context: Dillard's placement of Keynes in the classical tradition to establish
+      the significance of his theoretical break
+  key_passages: []
+- thinker: john-stuart-mill
+  role: mention
+  reasoning: John Stuart Mill is listed among the classical economists in whose tradition
+    Dillard places Keynes, establishing the lineage from which Keynesian theory departs.
+  evidence:
+  - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill,
+      Karl Marx and Alfred Marshall as a classical-rank figure
+    context: Mill named in Dillard's classical-tradition lineage for Keynes
+  key_passages: []
+- thinker: karl-marx
+  role: mention
+  reasoning: Marx is invoked both as part of the classical-economist tradition Dillard
+    uses to contextualise Keynes, and as the target of Keynes's open hostility — Keynes
+    dismissed Capital as 'an obsolete textbook'.
+  evidence:
+  - quote: Dillard situates Keynes alongside Adam Smith, Ricardo, John Stuart Mill,
+      Karl Marx and Alfred Marshall as a classical-rank figure
+    context: Marx placed in the classical tradition from which Keynes emerged
+  - quote: Dillard records Keynes' open hostility to Marxism — calling Capital 'an
+      obsolete textbook'
+    context: Keynes's rejection of Marxism as a key strand in Dillard's argument that
+      Keynes was not a socialist
+  key_passages: []
+- thinker: a-d-shroff
+  role: mention
+  reasoning: The pamphlet closes with an A. D. Shroff epigraph on free enterprise,
+    situating Dillard's Keynes exposition within the Forum's ideological project.
+  evidence:
+  - quote: an A. D. Shroff epigraph on free enterprise, and a membership solicitation
+    context: Shroff's epigraph frames the booklet within the Forum of Free Enterprise's
+      classical-liberal tradition
+  key_passages: []
+- thinker: murarji-vaidya
+  role: mention
+  reasoning: Murarji J. Vaidya, as Forum president, frames the reprint as a service
+    to Indian students and contextualises the booklet's educational purpose for its
+    1968 readership debating deficit financing.
+  evidence:
+  - quote: Forum president Murarji J. Vaidya frames the reprint as a service to students
+      of public affairs in India who needed a clear, jargon-free account of Keynes'
+      actual position rather than the caricatures circulating on either side.
+    context: Vaidya's editorial framing establishes the booklet's purpose in the Indian
+      deficit-financing debate
+  key_passages: []
 authors_resolution:
   confidence: low
   method: vision

@@ -5,23 +5,24 @@ title:
   subtitle: The Saner Alternative
 work_type: speech
 authors:
-  - anu-aga
+- anu-aga
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Mrs. ANU R. AGA
-    toc_index: 1
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - adam-smith
-  - mahatma-gandhi
-  - minoo-shroff
-
+- role: author
+  toc_index: 1
+  thinker: anu-r-aga
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- adam-smith
+- anu-aga
+- mahatma-gandhi
+- minoo-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI 400 001
+  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI
+    400 001
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2003
@@ -33,12 +34,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - governance
-  - private-enterprise
-  - civil-society
-summary: "Delivered as the 37th A. D. Shroff Memorial Lecture in Mumbai on 5 November 2003 and published by the Forum of Free Enterprise, Anu Aga's address makes a brisk, example-driven case for Corporate Social Responsibility as the 'saner alternative' to a narrow, profit-only conception of business. Aga frames CSR not as charity or PR but as a stewardship obligation that flows from the fact that companies draw their talent, customers and licence-to-operate from the wider community. She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined, and that the live question today is not whether but how CSR should be measured, audited and reported.\n\nThe heart of the talk is a six-sided 'stakeholder hexagon'—customers, employees, shareholders and investors, environment and community, suppliers, and government—with the Board of Trustees at the centre balancing short-term shareholder interests against long-term stewardship.…"
+- governance
+- private-enterprise
+- civil-society
+summary: 'Delivered as the 37th A. D. Shroff Memorial Lecture in Mumbai on 5 November
+  2003 and published by the Forum of Free Enterprise, Anu Aga''s address makes a brisk,
+  example-driven case for Corporate Social Responsibility as the ''saner alternative''
+  to a narrow, profit-only conception of business. Aga frames CSR not as charity or
+  PR but as a stewardship obligation that flows from the fact that companies draw
+  their talent, customers and licence-to-operate from the wider community. She invokes
+  Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of
+  Nations) and Gandhi''s trusteeship model to argue that ethical conduct and commercial
+  success have always been intertwined, and that the live question today is not whether
+  but how CSR should be measured, audited and reported.
+
+
+  The heart of the talk is a six-sided ''stakeholder hexagon''—customers, employees,
+  shareholders and investors, environment and community, suppliers, and government—with
+  the Board of Trustees at the centre balancing short-term shareholder interests against
+  long-term stewardship.…'
 needs_review: false
 draft: false
 ai:
@@ -50,33 +67,47 @@ physical:
   pages_rendered: 20
   pages_total: 27
   pages_total_source: pypdfium2
-  format: Stapled pamphlet booklet; printed text of the 37th A. D. Shroff Memorial Lecture.
+  format: Stapled pamphlet booklet; printed text of the 37th A. D. Shroff Memorial
+    Lecture.
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
-  - author_not_in_authority
+- no_formal_toc
+- no_isbn
+- author_not_in_authority
 thinker_mentions:
-  - thinker: adam-smith
-    role: mention
-    reasoning: Aga invokes Adam Smith as a founding authority for the compatibility of ethics and commerce, specifically citing his Theory of Moral Sentiments alongside The Wealth of Nations to argue that CSR is not in tension with classical economics.
-    evidence:
-      - quote: "She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined"
-        context: Smith cited to give the CSR case classical-liberal intellectual authority
-    key_passages: []
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi's trusteeship model is cited alongside Adam Smith as twin pillars of Aga's argument that CSR is grounded in both Western liberal economics and Indian ethical tradition."
-    evidence:
-      - quote: "She invokes Adam Smith (the author of A Theory of Moral Sentiments as well as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical conduct and commercial success have always been intertwined"
-        context: "Gandhi's trusteeship doctrine positioned as the Indian parallel to Smith's moral philosophy"
-    key_passages: []
-  - thinker: minoo-shroff
-    role: mention
-    reasoning: Minoo R. Shroff introduces the lecture, his presence as Forum of Free Enterprise president giving the CSR address its institutional framing within the liberal economic tradition.
-    evidence:
-      - quote: "The booklet's rendered pages cover the introduction by Minoo R. Shroff and Aga's address through the 'Government' section"
-        context: "Shroff named as the introducer who frames the lecture within the Forum's programme"
-    key_passages: []
+- thinker: adam-smith
+  role: mention
+  reasoning: Aga invokes Adam Smith as a founding authority for the compatibility
+    of ethics and commerce, specifically citing his Theory of Moral Sentiments alongside
+    The Wealth of Nations to argue that CSR is not in tension with classical economics.
+  evidence:
+  - quote: She invokes Adam Smith (the author of A Theory of Moral Sentiments as well
+      as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical
+      conduct and commercial success have always been intertwined
+    context: Smith cited to give the CSR case classical-liberal intellectual authority
+  key_passages: []
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Gandhi's trusteeship model is cited alongside Adam Smith as twin pillars
+    of Aga's argument that CSR is grounded in both Western liberal economics and Indian
+    ethical tradition.
+  evidence:
+  - quote: She invokes Adam Smith (the author of A Theory of Moral Sentiments as well
+      as The Wealth of Nations) and Gandhi's trusteeship model to argue that ethical
+      conduct and commercial success have always been intertwined
+    context: Gandhi's trusteeship doctrine positioned as the Indian parallel to Smith's
+      moral philosophy
+  key_passages: []
+- thinker: minoo-shroff
+  role: mention
+  reasoning: Minoo R. Shroff introduces the lecture, his presence as Forum of Free
+    Enterprise president giving the CSR address its institutional framing within the
+    liberal economic tradition.
+  evidence:
+  - quote: The booklet's rendered pages cover the introduction by Minoo R. Shroff
+      and Aga's address through the 'Government' section
+    context: Shroff named as the introducer who frames the lecture within the Forum's
+      programme
+  key_passages: []
 authors_resolution:
   confidence: high
   method: deterministic

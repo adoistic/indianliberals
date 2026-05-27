@@ -1,23 +1,26 @@
 ---
 id: liberalising-indias-insurance-industry-september-29-1995
 title:
-  main: "LIBERALISING INDIA'S INSURANCE INDUSTRY"
-  subtitle: ""
+  main: LIBERALISING INDIA'S INSURANCE INDUSTRY
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: R. N. MALHOTRA
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers: 
-  - a-d-shroff
-  - nani-palkhivala
-
+- role: author
+  thinker: r-n-malhotra
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers:
+- a-d-shroff
+- nani-palkhivala
 publication:
   language: en
-  publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion\", 235, Dr. D. N. Road, BOMBAY 400 001. (Colophon, p.4: \"Published by M. R. Pai on behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400001, and Printed by S. V. Limaye at the India Printing Works, India Printing House, 42, G. D. Ambekar Marg, Wadala, Bombay 400031.\")"
+  publisher_name: 'Published by THE A. D. SHROFF MEMORIAL TRUST, "Piramal Mansion",
+    235, Dr. D. N. Road, BOMBAY 400 001. (Colophon, p.4: "Published by M. R. Pai on
+    behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay
+    400001, and Printed by S. V. Limaye at the India Printing Works, India Printing
+    House, 42, G. D. Ambekar Marg, Wadala, Bombay 400031.")'
   place: Bombay
   year: 1995
 provenance:
@@ -28,12 +31,21 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-reform
-  - free-markets
-  - private-enterprise
-summary: "Delivered as the 1995 Annual Public Lecture under the A. D. Shroff Memorial Trust, R. N. Malhotra — former Governor of the Reserve Bank of India and Chairman of the Government of India Committee on Reforms in the Insurance Sector — argues that India's state-monopoly insurance industry must be opened to competition. He situates the case within the broader liberalisation programme begun in 1991: trade liberalisation, de-licensing, capital-market deepening, foreign-investment inflows, and reform of the banking and financial sectors have, in his telling, produced strong balance-of-payments, growth, and consumer-welfare gains without the dire consequences predicted by critics.…"
+- economic-reform
+- free-markets
+- private-enterprise
+summary: 'Delivered as the 1995 Annual Public Lecture under the A. D. Shroff Memorial
+  Trust, R. N. Malhotra — former Governor of the Reserve Bank of India and Chairman
+  of the Government of India Committee on Reforms in the Insurance Sector — argues
+  that India''s state-monopoly insurance industry must be opened to competition. He
+  situates the case within the broader liberalisation programme begun in 1991: trade
+  liberalisation, de-licensing, capital-market deepening, foreign-investment inflows,
+  and reform of the banking and financial sectors have, in his telling, produced strong
+  balance-of-payments, growth, and consumer-welfare gains without the dire consequences
+  predicted by critics.…'
 needs_review: true
 draft: false
 ai:
@@ -45,11 +57,12 @@ physical:
   pages_rendered: 20
   pages_total: 38
   pages_total_source: pypdfium2
-  format: Pink-covered pamphlet/booklet; published text of the A. D. Shroff Memorial Trust Annual Public Lecture delivered in Bombay on 13 September 1995.
+  format: Pink-covered pamphlet/booklet; published text of the A. D. Shroff Memorial
+    Trust Annual Public Lecture delivered in Bombay on 13 September 1995.
 missing_metadata_flags:
-  - no_toc
-  - publisher_not_in_authority
-  - author_not_in_authority
+- no_toc
+- publisher_not_in_authority
+- author_not_in_authority
 authors_resolution:
   confidence: low
   method: vision
@@ -58,23 +71,30 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Malhotra's lecture is the 1995 Annual Public Lecture under the A. D. Shroff Memorial Trust, and the rendered chunk reproduces a separate tribute to Shroff (1899-1965) framing the occasion."
-    evidence:
-      - quote: the 1995 Annual Public Lecture of the A. D. Shroff Memorial Trust
-        context: "institutional setting; the entire lecture is delivered under Shroff's memorial trust"
-      - quote: "a tribute to A. D. Shroff (1899-1965), and N. A. Palkhivala's chairman's introduction"
-        context: "booklet apparatus; Shroff's life-dates are foregrounded as the Trust's namesake"
-    key_passages: []
-  - thinker: nani-palkhivala
-    role: mention
-    reasoning: "Palkhivala, as chairman, writes the introduction commending Malhotra's lecture to policy-makers — lending his constitutional authority to the case for opening insurance to private competition."
-    evidence:
-      - quote: "N. A. Palkhivala's chairman's introduction commending the lecture to policy-makers"
-        context: "editorial framing; Palkhivala's imprimatur is used to elevate Malhotra's policy argument"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Malhotra's lecture is the 1995 Annual Public Lecture under the A. D.
+    Shroff Memorial Trust, and the rendered chunk reproduces a separate tribute to
+    Shroff (1899-1965) framing the occasion.
+  evidence:
+  - quote: the 1995 Annual Public Lecture of the A. D. Shroff Memorial Trust
+    context: institutional setting; the entire lecture is delivered under Shroff's
+      memorial trust
+  - quote: a tribute to A. D. Shroff (1899-1965), and N. A. Palkhivala's chairman's
+      introduction
+    context: booklet apparatus; Shroff's life-dates are foregrounded as the Trust's
+      namesake
+  key_passages: []
+- thinker: nani-palkhivala
+  role: mention
+  reasoning: Palkhivala, as chairman, writes the introduction commending Malhotra's
+    lecture to policy-makers — lending his constitutional authority to the case for
+    opening insurance to private competition.
+  evidence:
+  - quote: N. A. Palkhivala's chairman's introduction commending the lecture to policy-makers
+    context: editorial framing; Palkhivala's imprimatur is used to elevate Malhotra's
+      policy argument
+  key_passages: []
 ---
 
 ## Summary

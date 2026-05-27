@@ -2,26 +2,27 @@
 id: some-aspects-of-corporate-management-steve-dembicki-c-c-sutaria-krishna-basrur-july-1969
 title:
   main: Some Aspects of Corporate Management
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: STEVE DEMBICKI
-    toc_index: 1
-  - role: author
-    thinker_unresolved: C. C. SUTARIA
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Mrs. KRISHNA BASRUR
-    toc_index: 3
-related_thinkers:
-  - john-kenneth-galbraith
+- role: author
+  toc_index: 1
+  thinker: steve-dembicki
+- role: author
+  toc_index: 2
+  thinker: c-c-sutaria
+- role: author
+  toc_index: 3
+  thinker: krishna-basrur
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. Pai for the Forum of Free Enterprise, \"Sohrab House\", 235 Dr. Dadabhai Naoroji Road, Bombay-1. and printed by H. Narayan Rao at H. R. Mohan & Co. (Press), 9-B, Cawasjee Patel Street, Bombay-1."
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, "Sohrab
+    House", 235 Dr. Dadabhai Naoroji Road, Bombay-1. and printed by H. Narayan Rao
+    at H. R. Mohan & Co. (Press), 9-B, Cawasjee Patel Street, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1969
@@ -32,9 +33,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This July 1969 Forum of Free Enterprise booklet collects three short essays drawn from the Forum's 'New Horizons in Corporate Sector' lecture series, prefaced by an introduction that frames the corporate sector as decisive for India's industrial development and warns that company law, tax incidence, labour legislation and the general attitude of government and public toward business 'can impede or accelerate the growth of the corporate sector'. Steve Dembicki (a recently retired ILO Chief of Project) argues that India's growth gap is fundamentally a management gap and lays out a philosophy of management development; C. C. Sutaria (President of the Institute of Secretaries) makes a sustained defence of the managing agency system against the 1970 abolition, charging that the decision was driven by 'politics and ideologies rather than economic factors'; and Mrs. Krishna Basrur (Editor of the Consumer Guidance Society Bulletin) sets out the social responsibilities of management toward consumers — safety, honest workmanship, quality standards, continuity of supply — closing with a call for an industrialist's rather than a financier's outlook.…"
+summary: This July 1969 Forum of Free Enterprise booklet collects three short essays
+  drawn from the Forum's 'New Horizons in Corporate Sector' lecture series, prefaced
+  by an introduction that frames the corporate sector as decisive for India's industrial
+  development and warns that company law, tax incidence, labour legislation and the
+  general attitude of government and public toward business 'can impede or accelerate
+  the growth of the corporate sector'. Steve Dembicki (a recently retired ILO Chief
+  of Project) argues that India's growth gap is fundamentally a management gap and
+  lays out a philosophy of management development; C. C. Sutaria (President of the
+  Institute of Secretaries) makes a sustained defence of the managing agency system
+  against the 1970 abolition, charging that the decision was driven by 'politics and
+  ideologies rather than economic factors'; and Mrs. Krishna Basrur (Editor of the
+  Consumer Guidance Society Bulletin) sets out the social responsibilities of management
+  toward consumers — safety, honest workmanship, quality standards, continuity of
+  supply — closing with a call for an industrialist's rather than a financier's outlook.…
 needs_review: true
 draft: false
 ai:
@@ -46,11 +61,12 @@ physical:
   pages_rendered: 20
   pages_total: 20
   pages_total_source: pypdfium2
-  format: Stapled paper booklet/pamphlet with illustrated colour cover; printed in Bombay
+  format: Stapled paper booklet/pamphlet with illustrated colour cover; printed in
+    Bombay
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - no_isbn
+- editor_not_named
+- no_formal_toc_page
+- no_isbn
 ---
 
 # Some Aspects of Corporate Management

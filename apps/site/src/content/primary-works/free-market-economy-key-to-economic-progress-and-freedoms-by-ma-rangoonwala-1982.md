@@ -2,26 +2,26 @@
 id: free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982
 title:
   main: FREE MARKET ECONOMY —Key to Economic Progress and Freedoms
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - ma-rangoonwala
+- ma-rangoonwala
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: M. A. Rangoonwala
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers: 
-  - a-d-shroff
-  - c-rajagopalachari
-  - nani-palkhivala
-
-
+- role: author
+  thinker: m-a-rangoonwala
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers:
+- a-d-shroff
+- c-rajagopalachari
+- ma-rangoonwala
+- nani-palkhivala
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1982
@@ -33,12 +33,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-markets
-  - economic-freedom
-  - free-enterprise
-summary: "Free Market Economy — Key to Economic Progress and Freedoms reproduces M. A. Rangoonwala's January 1982 inaugural address at the Silver Jubilee celebrations of the Forum of Free Enterprise, prefaced by an introduction by N. A. Palkhivala and a short biographical sketch of the Forum's founder-president A. D. Shroff. Rangoonwala, then the immediate past President of the International Chamber of Commerce, argues that the free market is not merely an efficient allocation mechanism but the indispensable foundation of all human freedoms — \"the market and freedom are really synonymous terms.\"\n\nThe bulk of the rendered chunk is a sustained polemic against government planning and the dirigiste state. Rangoonwala rejects the standard justifications for government direction (that the free market produces \"wrong\" goods, or insufficient goods) and exposes the linguistic sleight by which planners rebrand compulsion as merely \"indicative\". He insists that all controls are ultimately \"people control\": the State does not, in the end, control commodities, prices or services in the abstract but only the human beings who manufacture, distribute and consume them.…"
+- free-markets
+- economic-freedom
+- free-enterprise
+summary: 'Free Market Economy — Key to Economic Progress and Freedoms reproduces M.
+  A. Rangoonwala''s January 1982 inaugural address at the Silver Jubilee celebrations
+  of the Forum of Free Enterprise, prefaced by an introduction by N. A. Palkhivala
+  and a short biographical sketch of the Forum''s founder-president A. D. Shroff.
+  Rangoonwala, then the immediate past President of the International Chamber of Commerce,
+  argues that the free market is not merely an efficient allocation mechanism but
+  the indispensable foundation of all human freedoms — "the market and freedom are
+  really synonymous terms."
+
+
+  The bulk of the rendered chunk is a sustained polemic against government planning
+  and the dirigiste state. Rangoonwala rejects the standard justifications for government
+  direction (that the free market produces "wrong" goods, or insufficient goods) and
+  exposes the linguistic sleight by which planners rebrand compulsion as merely "indicative".
+  He insists that all controls are ultimately "people control": the State does not,
+  in the end, control commodities, prices or services in the abstract but only the
+  human beings who manufacture, distribute and consume them.…'
 needs_review: false
 draft: false
 ai:
@@ -49,37 +66,56 @@ physical:
   pages_rendered: 20
   pages_total: 31
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet — Forum of Free Enterprise imprint, blue printed paper cover with FFE roundel
+  format: Pamphlet/booklet — Forum of Free Enterprise imprint, blue printed paper
+    cover with FFE roundel
 missing_metadata_flags:
-  - no_table_of_contents
-  - no_series_number
-  - no_isbn
+- no_table_of_contents
+- no_series_number
+- no_isbn
 thinker_mentions:
-  - thinker: nani-palkhivala
-    role: mention
-    reasoning: "Palkhivala writes the introduction to Rangoonwala's address and frames the booklet's polemical ambition — praising the refusal to apologise for profit, indicting the permit-licence-quota raj, and invoking Daniel Webster on the citizen's duty to safeguard freedom."
-    evidence:
-      - quote: "prefaced by an introduction by N. A. Palkhivala and a short biographical sketch of the Forum's founder-president A. D. Shroff."
-        context: "summary identifies Palkhivala as the booklet's prefacing author"
-      - quote: "Palkhivala's introduction frames the booklet's polemical ambition: he praises Rangoonwala for refusing to apologise for profit, indicts the \"permit-licence-quota raj\" that Rajaji had named, and invokes Daniel Webster on the duty of citizens to safeguard their own freedom."
-        context: "Palkhivala's preface is positioned as the ideological frame for Rangoonwala's anti-statist address"
-      - quote: "Palkhivala's introduction situates the address within the Forum of Free Enterprise's anti-permit-licence-quota tradition and explicitly endorses Rangoonwala's defence of profit and critique of \"omniscient Government\"."
-        context: "key-points summary credits Palkhivala with placing the speech in the FFE's free-market lineage"
-    key_passages: []
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "A. D. Shroff is profiled in the booklet's biographical preface as the founder-president of the Forum of Free Enterprise — the institutional sponsor whose lineage frames Rangoonwala's Silver Jubilee address."
-    evidence:
-      - quote: "prefaced by an introduction by N. A. Palkhivala and a short biographical sketch of the Forum's founder-president A. D. Shroff."
-        context: summary identifies Shroff as the institutional ancestor whose Silver Jubilee the address marks
-    key_passages: []
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "Palkhivala credits Rajaji with having coined the phrase 'permit-licence-quota raj' that the introduction redeploys to indict the Indian regulatory state — positioning Rajaji as the linguistic-political ancestor of the booklet's anti-control argument."
-    evidence:
-      - quote: "indicts the \"permit-licence-quota raj\" that Rajaji had named"
-        context: "Palkhivala's preface attributes the booklet's signature anti-statist epithet to Rajaji"
-    key_passages: []
+- thinker: nani-palkhivala
+  role: mention
+  reasoning: Palkhivala writes the introduction to Rangoonwala's address and frames
+    the booklet's polemical ambition — praising the refusal to apologise for profit,
+    indicting the permit-licence-quota raj, and invoking Daniel Webster on the citizen's
+    duty to safeguard freedom.
+  evidence:
+  - quote: prefaced by an introduction by N. A. Palkhivala and a short biographical
+      sketch of the Forum's founder-president A. D. Shroff.
+    context: summary identifies Palkhivala as the booklet's prefacing author
+  - quote: 'Palkhivala''s introduction frames the booklet''s polemical ambition: he
+      praises Rangoonwala for refusing to apologise for profit, indicts the "permit-licence-quota
+      raj" that Rajaji had named, and invokes Daniel Webster on the duty of citizens
+      to safeguard their own freedom.'
+    context: Palkhivala's preface is positioned as the ideological frame for Rangoonwala's
+      anti-statist address
+  - quote: Palkhivala's introduction situates the address within the Forum of Free
+      Enterprise's anti-permit-licence-quota tradition and explicitly endorses Rangoonwala's
+      defence of profit and critique of "omniscient Government".
+    context: key-points summary credits Palkhivala with placing the speech in the
+      FFE's free-market lineage
+  key_passages: []
+- thinker: a-d-shroff
+  role: mention
+  reasoning: A. D. Shroff is profiled in the booklet's biographical preface as the
+    founder-president of the Forum of Free Enterprise — the institutional sponsor
+    whose lineage frames Rangoonwala's Silver Jubilee address.
+  evidence:
+  - quote: prefaced by an introduction by N. A. Palkhivala and a short biographical
+      sketch of the Forum's founder-president A. D. Shroff.
+    context: summary identifies Shroff as the institutional ancestor whose Silver
+      Jubilee the address marks
+  key_passages: []
+- thinker: c-rajagopalachari
+  role: mention
+  reasoning: Palkhivala credits Rajaji with having coined the phrase 'permit-licence-quota
+    raj' that the introduction redeploys to indict the Indian regulatory state — positioning
+    Rajaji as the linguistic-political ancestor of the booklet's anti-control argument.
+  evidence:
+  - quote: indicts the "permit-licence-quota raj" that Rajaji had named
+    context: Palkhivala's preface attributes the booklet's signature anti-statist
+      epithet to Rajaji
+  key_passages: []
 authors_resolution:
   confidence: high
   method: deterministic

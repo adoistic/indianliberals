@@ -2,64 +2,63 @@
 id: public-opinion-on-private-and-state-enterprises-various-dec9-1962
 title:
   main: Public Opinion on Private and State Enterprises
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: A. SEN GUPTA
-    toc_index: 2
-  - role: author
-    thinker_unresolved: C. K. G.
-    toc_index: 3
-  - role: author
-    thinker_unresolved: D. SRINIVASAIAH
-    toc_index: 4
-  - role: author
-    thinker_unresolved: G. RANGARAJAN
-    toc_index: 5
-  - role: author
-    thinker_unresolved: FIELD OFFICER
-    toc_index: 5
-  - role: author
-    thinker_unresolved: SUBIMAL SEN
-    toc_index: 5
-  - role: author
-    thinker_unresolved: KALIDAS BOSE
-    toc_index: 5
-  - role: author
-    thinker_unresolved: TAPESH CH. GOSWAMI
-    toc_index: 5
-  - role: author
-    thinker_unresolved: N. K. CHAUDHURI
-    toc_index: 5
-  - role: author
-    thinker_unresolved: MADHUKAR N. GOGATE
-    toc_index: 6
-  - role: author
-    thinker_unresolved: A CONSUMER
-    toc_index: 7
-  - role: author
-    thinker_unresolved: NIHAL CHAND JAIN
-    toc_index: 8
-  - role: author
-    thinker_unresolved: M. N. PRASAD
-    toc_index: 9
-  - role: author
-    thinker_unresolved: T. N. KALIDOSS AIYAR
-    toc_index: 10
-  - role: author
-    thinker_unresolved: Y. Z.
-    toc_index: 11
-related_thinkers:
-  - eugene-black
-  - sardar-patel
-  - a-d-shroff
+- role: author
+  toc_index: 2
+  thinker: a-sen-gupta
+- role: author
+  toc_index: 3
+  thinker: c-k-g
+- role: author
+  toc_index: 4
+  thinker: d-srinivasaiah
+- role: author
+  toc_index: 5
+  thinker: g-rangarajan
+- role: author
+  toc_index: 5
+  thinker: field-officer
+- role: author
+  toc_index: 5
+  thinker: subimal-sen
+- role: author
+  toc_index: 5
+  thinker: kalidas-bose
+- role: author
+  toc_index: 5
+  thinker: tapesh-ch-goswami
+- role: author
+  toc_index: 5
+  thinker: n-k-chaudhuri
+- role: author
+  toc_index: 6
+  thinker: madhukar-n-gogate
+- role: author
+  toc_index: 7
+  thinker: a-consumer
+- role: author
+  toc_index: 8
+  thinker: nihal-chand-jain
+- role: author
+  toc_index: 9
+  thinker: m-n-prasad
+- role: author
+  toc_index: 10
+  thinker: t-n-kalidoss-aiyar
+- role: author
+  toc_index: 11
+  thinker: y-z
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. Pai, for Forum of Free Enterprise, \"Sohrab House\", 235, Dr. Dadabhai Naoroji Road, Bombay 1, and printed by S. J. Patel at Hind Kitabs Ltd., Printing Division, Sassoon Docks Colaba, Bombay-5."
+  publisher_name: Published by M. R. Pai, for Forum of Free Enterprise, "Sohrab House",
+    235, Dr. Dadabhai Naoroji Road, Bombay 1, and printed by S. J. Patel at Hind Kitabs
+    Ltd., Printing Division, Sassoon Docks Colaba, Bombay-5.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1962
@@ -71,15 +70,31 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - nationalisation
-  - public-sector
-  - private-enterprise
-  - state-monopoly
-  - consumer-protection
-summary: "This Forum of Free Enterprise booklet, dated 9 December 1962, compiles selected letters to the editor that had appeared in major Indian newspapers — the Statesman of Calcutta, the Indian Express of Bombay, the Hindu of Madras, the Times of India and Navabharath of Mangalore — protesting the inefficiency of nationalised state enterprises. The Forum's brief introduction frames the exercise: freedom, like oxygen, is taken for granted until its supply is threatened, and the nationalisation slogans of the day have obscured the value of private enterprise. By printing letters that contrast the service once rendered by private firms with the bureaucratic torpor that succeeded them, the booklet aims to surface dangers of state monopolies that, in the editor's words, can and often do exploit the ordinary consumer.\n\nThe letters cover a representative spread of state-run undertakings. Subscribers and policy-holders of the Life Insurance Corporation describe lapsed premiums, missing receipts and stonewalling officials; a field officer of the LIC writes from the inside to attack the \"Policy-holder\" reply offered by Mr. P. R.…"
+- free-enterprise
+- nationalisation
+- public-sector
+- private-enterprise
+- state-monopoly
+- consumer-protection
+summary: 'This Forum of Free Enterprise booklet, dated 9 December 1962, compiles selected
+  letters to the editor that had appeared in major Indian newspapers — the Statesman
+  of Calcutta, the Indian Express of Bombay, the Hindu of Madras, the Times of India
+  and Navabharath of Mangalore — protesting the inefficiency of nationalised state
+  enterprises. The Forum''s brief introduction frames the exercise: freedom, like
+  oxygen, is taken for granted until its supply is threatened, and the nationalisation
+  slogans of the day have obscured the value of private enterprise. By printing letters
+  that contrast the service once rendered by private firms with the bureaucratic torpor
+  that succeeded them, the booklet aims to surface dangers of state monopolies that,
+  in the editor''s words, can and often do exploit the ordinary consumer.
+
+
+  The letters cover a representative spread of state-run undertakings. Subscribers
+  and policy-holders of the Life Insurance Corporation describe lapsed premiums, missing
+  receipts and stonewalling officials; a field officer of the LIC writes from the
+  inside to attack the "Policy-holder" reply offered by Mr. P. R.…'
 needs_review: true
 draft: false
 ai:
@@ -91,10 +106,11 @@ physical:
   pages_rendered: 9
   pages_total: 9
   pages_total_source: pypdfium2
-  format: Stapled booklet / pamphlet with green printed cover; 12 numbered interior pages
+  format: Stapled booklet / pamphlet with green printed cover; 12 numbered interior
+    pages
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
+- editor_not_named
+- no_formal_toc_page
 ---
 
 # Public Opinion on Private and State Enterprises

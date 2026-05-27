@@ -2,22 +2,22 @@
 id: quality-in-banking-n-vaghul-december-20-1989
 title:
   main: QUALITY IN BANKING
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: N. VAGHUL
-    toc_index: 1
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers:
-  - a-d-shroff
+- role: author
+  toc_index: 1
+  thinker: n-vaghul
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion,\" 235, Dr. D. N. Road, BOMBAY 400 001."
+  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, "Piramal Mansion,"
+    235, Dr. D. N. Road, BOMBAY 400 001.
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1989
@@ -29,9 +29,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Quality in Banking is the text of the 1989 A. D. Shroff Memorial Lecture, delivered in Bombay on 12 October 1989 by N. Vaghul, then Chairman and Managing Director of the Industrial Credit & Investment Corporation of India Ltd (ICICI) and earlier Chairman of Bank of India. The lecture, published as a booklet by The A. D. Shroff Memorial Trust with an introduction by N. A. Palkhivala, opens by paying tribute to Shroff's early defence of free enterprise at a time when 'the nation was riding a wave of socialism', and argues that the collapse of communism in Russia, Poland and Hungary has now vindicated Shroff's stand. Vaghul then narrows his subject from the broader question of liberalisation to a problem he believes Indian bankers have systematically dodged — the relentless emphasis on quantity over quality.\n\nThe core argument is that Indian banking has confused growth metrics — branch openings, deposit mobilisation, priority-sector targets — with health, and that 'the banking quality has indeed declined' across service, housekeeping and, most seriously, the quality of assets.…"
+summary: 'Quality in Banking is the text of the 1989 A. D. Shroff Memorial Lecture,
+  delivered in Bombay on 12 October 1989 by N. Vaghul, then Chairman and Managing
+  Director of the Industrial Credit & Investment Corporation of India Ltd (ICICI)
+  and earlier Chairman of Bank of India. The lecture, published as a booklet by The
+  A. D. Shroff Memorial Trust with an introduction by N. A. Palkhivala, opens by paying
+  tribute to Shroff''s early defence of free enterprise at a time when ''the nation
+  was riding a wave of socialism'', and argues that the collapse of communism in Russia,
+  Poland and Hungary has now vindicated Shroff''s stand. Vaghul then narrows his subject
+  from the broader question of liberalisation to a problem he believes Indian bankers
+  have systematically dodged — the relentless emphasis on quantity over quality.
+
+
+  The core argument is that Indian banking has confused growth metrics — branch openings,
+  deposit mobilisation, priority-sector targets — with health, and that ''the banking
+  quality has indeed declined'' across service, housekeeping and, most seriously,
+  the quality of assets.…'
 needs_review: true
 draft: false
 ai:
@@ -43,10 +59,11 @@ physical:
   pages_rendered: 20
   pages_total: 24
   pages_total_source: pypdfium2
-  format: Pamphlet / booklet of an annual public lecture (A. D. Shroff Memorial Lecture, delivered 12th October 1989)
+  format: Pamphlet / booklet of an annual public lecture (A. D. Shroff Memorial Lecture,
+    delivered 12th October 1989)
 missing_metadata_flags:
-  - no_formal_toc
-  - essay_continues_past_rendered_chunk
+- no_formal_toc
+- essay_continues_past_rendered_chunk
 ---
 
 # QUALITY IN BANKING

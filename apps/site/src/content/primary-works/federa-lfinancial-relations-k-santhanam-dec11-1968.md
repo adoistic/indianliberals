@@ -2,27 +2,28 @@
 id: federa-lfinancial-relations-k-santhanam-dec11-1968
 title:
   main: Federal Financial Relations in India
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - k-santhanam
+- k-santhanam
 editors: []
 contributors:
-  - role: author
-    thinker: k-santhanam
-  - role: introduction
-    thinker_unresolved: MURARJI J. VAIDYA
-related_thinkers: 
-  - a-d-shroff
-  - bhimrao-ambedkar
-  - k-m-munshi
-  - murarji-vaidya
-
-
+- role: author
+  thinker: k-santhanam
+- role: introduction
+  thinker: murarji-j-vaidya
+related_thinkers:
+- a-d-shroff
+- bhimrao-ambedkar
+- k-m-munshi
+- k-santhanam
+- murarji-vaidya
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235 Dr. Dadabhai Naoroji Road, Bombay-1, and Printed by Michael Andrades at the Bombay Chronicle Press, Horniman Circle, Bombay-1.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235 Dr.
+    Dadabhai Naoroji Road, Bombay-1, and Printed by Michael Andrades at the Bombay
+    Chronicle Press, Horniman Circle, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
@@ -35,13 +36,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - fiscal-policy
-  - public-finance
-  - governance
-  - economic-planning
-summary: "Delivered as the First A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise, K. Santhanam's address surveys the constitutional architecture of Centre–State financial relations in India and argues that planning has bent that architecture out of shape. After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's pioneering work for free enterprise and recall Shroff's own wish for a talk on changing Union–State financial relations, Santhanam traces the lineage of Indian fiscal federalism from Lord Mayo's 1870 devolution through the Government of India Act, 1935, into Articles 268–281 of the Constitution.\n\nSanthanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau, Gopalaswamy Ayyangar and K. M. Munshi — with producing a precise, if cautious, federal scheme in which most taxes are demarcated between Union and States while income-tax and Union excise duties are shareable on the recommendations of a Finance Commission appointed every five years under Article 280.…"
+- fiscal-policy
+- public-finance
+- governance
+- economic-planning
+summary: 'Delivered as the First A. D. Shroff Memorial Lecture under the auspices
+  of the Forum of Free Enterprise, K. Santhanam''s address surveys the constitutional
+  architecture of Centre–State financial relations in India and argues that planning
+  has bent that architecture out of shape. After Murarji J. Vaidya''s presidential
+  remarks, which commemorate Shroff''s pioneering work for free enterprise and recall
+  Shroff''s own wish for a talk on changing Union–State financial relations, Santhanam
+  traces the lineage of Indian fiscal federalism from Lord Mayo''s 1870 devolution
+  through the Government of India Act, 1935, into Articles 268–281 of the Constitution.
+
+
+  Santhanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau, Gopalaswamy
+  Ayyangar and K. M. Munshi — with producing a precise, if cautious, federal scheme
+  in which most taxes are demarcated between Union and States while income-tax and
+  Union excise duties are shareable on the recommendations of a Finance Commission
+  appointed every five years under Article 280.…'
 needs_review: true
 draft: false
 ai:
@@ -53,46 +69,69 @@ physical:
   pages_rendered: 17
   pages_total: 17
   pages_total_source: pypdfium2
-  format: Pamphlet / booklet; printed wrappers; first lecture delivered at Bombay on 27 October 1966 and published as a booklet on 11 December 1966.
+  format: Pamphlet / booklet; printed wrappers; first lecture delivered at Bombay
+    on 27 October 1966 and published as a booklet on 11 December 1966.
 missing_metadata_flags:
-  - no_formal_toc
-  - author_not_in_authority_subset
-  - introducer_not_in_authority_subset
+- no_formal_toc
+- author_not_in_authority_subset
+- introducer_not_in_authority_subset
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "The lecture is the inaugural A. D. Shroff Memorial Lecture and is framed throughout as honouring Shroff's free-enterprise advocacy; Santhanam explicitly notes that Shroff himself had wished for a talk on changing Union–State financial relations, making him the dedicatory anchor of the entire pamphlet."
-    evidence:
-      - quote: Delivered as the First A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise
-        context: opening line; Shroff is the namesake-anchor of the lecture series
-      - quote: "recall Shroff's own wish for a talk on changing Union–State financial relations"
-        context: "Vaidya's presidential remarks; ties Santhanam's specific topic back to Shroff's stated preference"
-    key_passages: []
-  - thinker: murarji-vaidya
-    role: mention
-    reasoning: "Vaidya, as Forum of Free Enterprise president, delivers the presidential remarks that frame the lecture and commemorate Shroff's pioneering free-enterprise work — providing the institutional setting for Santhanam's address."
-    evidence:
-      - quote: "After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's pioneering work for free enterprise and recall Shroff's own wish for a talk on changing Union–State financial relations"
-        context: "transitional sentence after Santhanam's biographical setup; positions Vaidya as the institutional convener"
-      - quote: "framed by Murarji J. Vaidya's introductory remarks honouring Shroff as a champion of free enterprise"
-        context: "key-point bullet; recaps Vaidya's role in commemorating Shroff and introducing the lecture"
-    key_passages: []
-  - thinker: bhimrao-ambedkar
-    role: mention
-    reasoning: "Ambedkar is named first among the Constituent Assembly drafters Santhanam credits with producing the 'masterpiece' federal-finance scheme of Articles 268–281, including the Finance Commission mechanism under Article 280."
-    evidence:
-      - quote: Santhanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau, Gopalaswamy Ayyangar and K. M. Munshi — with producing a precise, if cautious, federal scheme
-        context: central praise of the constitutional drafting team; Ambedkar heads the named quartet
-    key_passages: []
-  - thinker: k-m-munshi
-    role: mention
-    reasoning: "Munshi is named among the four Constituent Assembly drafters Santhanam credits with the federal-finance architecture of Articles 268–281, with the resulting Finance Commission scheme judged a 'masterpiece' compared to the 1935 Act."
-    evidence:
-      - quote: Santhanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau, Gopalaswamy Ayyangar and K. M. Munshi — with producing a precise, if cautious, federal scheme
-        context: Munshi listed alongside Ambedkar as a drafter of the federal-finance provisions
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: The lecture is the inaugural A. D. Shroff Memorial Lecture and is framed
+    throughout as honouring Shroff's free-enterprise advocacy; Santhanam explicitly
+    notes that Shroff himself had wished for a talk on changing Union–State financial
+    relations, making him the dedicatory anchor of the entire pamphlet.
+  evidence:
+  - quote: Delivered as the First A. D. Shroff Memorial Lecture under the auspices
+      of the Forum of Free Enterprise
+    context: opening line; Shroff is the namesake-anchor of the lecture series
+  - quote: recall Shroff's own wish for a talk on changing Union–State financial relations
+    context: Vaidya's presidential remarks; ties Santhanam's specific topic back to
+      Shroff's stated preference
+  key_passages: []
+- thinker: murarji-vaidya
+  role: mention
+  reasoning: Vaidya, as Forum of Free Enterprise president, delivers the presidential
+    remarks that frame the lecture and commemorate Shroff's pioneering free-enterprise
+    work — providing the institutional setting for Santhanam's address.
+  evidence:
+  - quote: After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's
+      pioneering work for free enterprise and recall Shroff's own wish for a talk
+      on changing Union–State financial relations
+    context: transitional sentence after Santhanam's biographical setup; positions
+      Vaidya as the institutional convener
+  - quote: framed by Murarji J. Vaidya's introductory remarks honouring Shroff as
+      a champion of free enterprise
+    context: key-point bullet; recaps Vaidya's role in commemorating Shroff and introducing
+      the lecture
+  key_passages: []
+- thinker: bhimrao-ambedkar
+  role: mention
+  reasoning: Ambedkar is named first among the Constituent Assembly drafters Santhanam
+    credits with producing the 'masterpiece' federal-finance scheme of Articles 268–281,
+    including the Finance Commission mechanism under Article 280.
+  evidence:
+  - quote: Santhanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau,
+      Gopalaswamy Ayyangar and K. M. Munshi — with producing a precise, if cautious,
+      federal scheme
+    context: central praise of the constitutional drafting team; Ambedkar heads the
+      named quartet
+  key_passages: []
+- thinker: k-m-munshi
+  role: mention
+  reasoning: Munshi is named among the four Constituent Assembly drafters Santhanam
+    credits with the federal-finance architecture of Articles 268–281, with the resulting
+    Finance Commission scheme judged a 'masterpiece' compared to the 1935 Act.
+  evidence:
+  - quote: Santhanam credits the Constituent Assembly drafters — Ambedkar, B. N. Rau,
+      Gopalaswamy Ayyangar and K. M. Munshi — with producing a precise, if cautious,
+      federal scheme
+    context: Munshi listed alongside Ambedkar as a drafter of the federal-finance
+      provisions
+  key_passages: []
 ---
+
 ## Summary
 
 Delivered as the First A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise, K. Santhanam's address surveys the constitutional architecture of Centre–State financial relations in India and argues that planning has bent that architecture out of shape. After Murarji J. Vaidya's presidential remarks, which commemorate Shroff's pioneering work for free enterprise and recall Shroff's own wish for a talk on changing Union–State financial relations, Santhanam traces the lineage of Indian fiscal federalism from Lord Mayo's 1870 devolution through the Government of India Act, 1935, into Articles 268–281 of the Constitution.

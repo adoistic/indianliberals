@@ -1,20 +1,20 @@
 ---
 id: indias-jobless-growth-dr-s-d-naik
 title:
-  main: "India's Jobless Growth"
+  main: India's Jobless Growth
   subtitle: What needs to be done to tackle it?
 work_type: pamphlet
 authors:
-  - s-d-naik
+- s-d-naik
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Dr. S. D. Naik
-  - role: introduction
-    thinker: sunil-bhandare
-related_thinkers: 
-  - sunil-bhandare
-
+- role: author
+  thinker: s-d-naik
+- role: introduction
+  thinker: sunil-bhandare
+related_thinkers:
+- s-d-naik
+- sunil-bhandare
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -28,12 +28,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-growth
-  - economic-policy
-  - industrial-policy
-summary: "This Forum of Free Enterprise booklet is Dr. S. D. Naik's diagnosis of India's \"jobless growth\" — economic expansion that fails to produce enough formal jobs. After Sunil S. Bhandare's editorial framing (printed pages 3–6), Naik's essay \"What needs to be done to tackle it?\" opens by defining jobless growth and pointing to a contradiction: India grows at 7–7.5% per year while creating only 4 to 4.5 million jobs against an annual labour-force addition of roughly 12 million. He attributes this paradox to India's failure to build a labour-intensive manufacturing sector along Chinese lines and to the dominance of services, which now employ 30 per cent of the working-age population.\n\nDrawing on Labour Bureau, CMIE and McKinsey Global Institute data, Naik shows that 93 per cent of employment sits in the unorganised sector, that rural wages are at a decade low, and that underemployment runs at 35 per cent. He traces a collapse in India's employment elasticity from 0.44 in 1999–2005 to roughly 0.01, well below the 0.3 global average for 2000–2010.…"
+- economic-growth
+- economic-policy
+- industrial-policy
+summary: 'This Forum of Free Enterprise booklet is Dr. S. D. Naik''s diagnosis of
+  India''s "jobless growth" — economic expansion that fails to produce enough formal
+  jobs. After Sunil S. Bhandare''s editorial framing (printed pages 3–6), Naik''s
+  essay "What needs to be done to tackle it?" opens by defining jobless growth and
+  pointing to a contradiction: India grows at 7–7.5% per year while creating only
+  4 to 4.5 million jobs against an annual labour-force addition of roughly 12 million.
+  He attributes this paradox to India''s failure to build a labour-intensive manufacturing
+  sector along Chinese lines and to the dominance of services, which now employ 30
+  per cent of the working-age population.
+
+
+  Drawing on Labour Bureau, CMIE and McKinsey Global Institute data, Naik shows that
+  93 per cent of employment sits in the unorganised sector, that rural wages are at
+  a decade low, and that underemployment runs at 35 per cent. He traces a collapse
+  in India''s employment elasticity from 0.44 in 1999–2005 to roughly 0.01, well below
+  the 0.3 global average for 2000–2010.…'
 needs_review: true
 draft: false
 ai:
@@ -46,28 +62,30 @@ physical:
   pages_total_source: pypdfium2
   format: FFE booklet/pamphlet; sponsored by Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - no_explicit_publication_year
-  - no_copyright_page_in_chunk
-  - no_formal_toc
-  - no_publisher_address_visible_in_chunk
+- no_explicit_publication_year
+- no_copyright_page_in_chunk
+- no_formal_toc
+- no_publisher_address_visible_in_chunk
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - S. D. Naik
+  - S. D. Naik
   stubs_created: []
   stubs_referenced:
-    - s-d-naik
+  - s-d-naik
   collisions_logged: []
 thinker_mentions:
-  - thinker: sunil-bhandare
-    role: mention
-    reasoning: "Bhandare supplies the editorial framing for the Naik essay (printed pages 3-6), introducing the booklet's central paradox of jobless growth before Naik's diagnosis begins."
-    evidence:
-      - quote: "After Sunil S. Bhandare's editorial framing (printed pages 3–6), Naik's essay \"What needs to be done to tackle it?\" opens by defining jobless growth"
-        context: Bhandare is named as the editorial-framer who introduces the Naik essay
-    key_passages: []
-
+- thinker: sunil-bhandare
+  role: mention
+  reasoning: Bhandare supplies the editorial framing for the Naik essay (printed pages
+    3-6), introducing the booklet's central paradox of jobless growth before Naik's
+    diagnosis begins.
+  evidence:
+  - quote: After Sunil S. Bhandare's editorial framing (printed pages 3–6), Naik's
+      essay "What needs to be done to tackle it?" opens by defining jobless growth
+    context: Bhandare is named as the editorial-framer who introduces the Naik essay
+  key_passages: []
 ---
 
 ## Summary

@@ -141,8 +141,7 @@ thinker_mentions:
       comparisons. China, France, etcetera.
     what_it_shows: Shenoy's case that Smith's method was historical-comparative, fitting
       the Austrian tradition
-- thinker_unresolved: Carl Menger
-  role: mention
+- role: mention
   reasoning: Named repeatedly as the founding 'older Austrian' whose work on capital
     combinations and the catalaxy anchors the lecture, but he is not present in the
     authority list.
@@ -160,8 +159,10 @@ thinker_mentions:
       structure with each firm being only an element in something much bigger.
     what_it_shows: Shenoy attributing the concept of the catalaxy-like aggregate formation
       to Menger
+  thinker: carl-menger
 related_thinkers:
 - adam-smith
+- carl-menger
 - friedrich-hayek
 - ludwig-von-mises
 - sudha-r-shenoy

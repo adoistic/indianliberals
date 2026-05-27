@@ -2,72 +2,71 @@
 id: innovating-india-road-map-2014-2019-various-april-5-2014
 title:
   main: Innovating India - Road Map 2014-19
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: editor
-    thinker: sunil-bhandare
-  - role: foreword
-    thinker_unresolved: Minoo R. Shroff
-  - role: introduction
-    thinker_unresolved: R A Mashelkar
-  - role: introduction
-    thinker_unresolved: Vijay Kelkar
-  - role: author
-    thinker_unresolved: Dileep Padgaonkar
-  - role: author
-    thinker_unresolved: Nitin Desai
-  - role: author
-    thinker_unresolved: Abhay Bang
-  - role: author
-    thinker_unresolved: Abhay Pethe
-  - role: author
-    thinker_unresolved: Abhijit Pawar
-  - role: author
-    thinker_unresolved: Ajit Ranade
-  - role: author
-    thinker_unresolved: Amitav Malik
-  - role: author
-    thinker_unresolved: Arun Firodia
-  - role: author
-    thinker_unresolved: Arun Nigavekar
-  - role: author
-    thinker_unresolved: Ashwin Gambhir
-  - role: author
-    thinker_unresolved: Bhushan Gokhale
-  - role: author
-    thinker_unresolved: Chandrahas Deshpande
-  - role: author
-    thinker_unresolved: Jayant Umranikar
-  - role: author
-    thinker_unresolved: Jayanta Roy
-  - role: author
-    thinker_unresolved: John Kurien
-  - role: author
-    thinker_unresolved: Naim Keruwala
-  - role: author
-    thinker_unresolved: Niranjan Rajadhyaksha
-  - role: author
-    thinker_unresolved: Prakash Hebalkar
-  - role: author
-    thinker_unresolved: Prashant Girbane
-  - role: author
-    thinker_unresolved: Raghunath Mashelkar
-  - role: author
-    thinker_unresolved: Ravi Pandit
-  - role: author
-    thinker_unresolved: Sudhir Devare
-  - role: author
-    thinker_unresolved: Sumita Kale
-  - role: author
-    thinker_unresolved: Vijay Kelkar
-related_thinkers: 
-  - sunil-bhandare
-  - vijay-kelkar
-
+- role: editor
+  thinker: sunil-bhandare
+- role: foreword
+  thinker: minoo-r-shroff
+- role: introduction
+  thinker: r-a-mashelkar
+- role: introduction
+  thinker: vijay-kelkar
+- role: author
+  thinker: dileep-padgaonkar
+- role: author
+  thinker: nitin-desai
+- role: author
+  thinker: abhay-bang
+- role: author
+  thinker: abhay-pethe
+- role: author
+  thinker: abhijit-pawar
+- role: author
+  thinker: ajit-ranade
+- role: author
+  thinker: amitav-malik
+- role: author
+  thinker: arun-firodia
+- role: author
+  thinker: arun-nigavekar
+- role: author
+  thinker: ashwin-gambhir
+- role: author
+  thinker: bhushan-gokhale
+- role: author
+  thinker: chandrahas-deshpande
+- role: author
+  thinker: jayant-umranikar
+- role: author
+  thinker: jayanta-roy
+- role: author
+  thinker: john-kurien
+- role: author
+  thinker: naim-keruwala
+- role: author
+  thinker: niranjan-rajadhyaksha
+- role: author
+  thinker: prakash-hebalkar
+- role: author
+  thinker: prashant-girbane
+- role: author
+  thinker: raghunath-mashelkar
+- role: author
+  thinker: ravi-pandit
+- role: author
+  thinker: sudhir-devare
+- role: author
+  thinker: sumita-kale
+- role: author
+  thinker: vijay-kelkar
+related_thinkers:
+- sunil-bhandare
+- vijay-kelkar
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -82,28 +81,69 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - fiscal-policy
-  - governance
-  - manufacturing
-  - agriculture
-  - urbanisation
-  - social-security
-  - environment
-  - energy-policy
-  - tax-reform
-  - privatisation
-  - civil-society
-summary: |
-  Innovating India – Road Map 2014-19 is a Forum of Free Enterprise booklet that reproduces substantial portions of a policy document of the same name prepared by the Pune International Centre (PIC) and timed to the 2014 general election. Editor Sunil S. Bhandare frames the reproduction as a non-partisan attempt to push PIC's recommendations into wider public debate before the new government takes office. Forum President Minoo R. Shroff's foreword and the introduction signed jointly by R. A. Mashelkar and Vijay Kelkar position the report as a 'Big Ideas' roadmap whose proposed reforms aim to combine rapid growth, equity and quality of life while explicitly eschewing 'competitive populism' and a diminished role for the state.
+- economic-policy
+- fiscal-policy
+- governance
+- manufacturing
+- agriculture
+- urbanisation
+- social-security
+- environment
+- energy-policy
+- tax-reform
+- privatisation
+- civil-society
+summary: 'Innovating India – Road Map 2014-19 is a Forum of Free Enterprise booklet
+  that reproduces substantial portions of a policy document of the same name prepared
+  by the Pune International Centre (PIC) and timed to the 2014 general election. Editor
+  Sunil S. Bhandare frames the reproduction as a non-partisan attempt to push PIC''s
+  recommendations into wider public debate before the new government takes office.
+  Forum President Minoo R. Shroff''s foreword and the introduction signed jointly
+  by R. A. Mashelkar and Vijay Kelkar position the report as a ''Big Ideas'' roadmap
+  whose proposed reforms aim to combine rapid growth, equity and quality of life while
+  explicitly eschewing ''competitive populism'' and a diminished role for the state.
 
-  Section 1, signed by Dileep Padgaonkar on behalf of PIC's Programme Committee, sets out an agenda for development built around eight tectonic shifts the authors see reshaping India — from the state to the market, from government to civil society, from Delhi to the states and panchayats, from upper-caste dominance to the assertiveness of those lower in the order, from older to younger generations, from male-centric to more gender-balanced power, from a techno-phobic to a techno-philic country, and from non-alignment to multi-alignment. Section 2, introduced by Nitin Desai, translates these diagnoses into sector-wise policy recommendations covering fiscal consolidation, privatisation, manufacturing, agriculture, energy, urban renewal, social security and labour-law reform.
 
-  The booklet's substantive chapters are the collaborative work of PIC's larger Programme Committee and sector working groups, whose contributing authors include Abhay Bang (public health and tribal welfare), Abhay Pethe (urban economics and municipal finance), Abhijit Pawar (media, communications and rural enterprise), Ajit Ranade (macro-economics and growth strategy), Amitav Malik (defence technology and strategic affairs), Arun Firodia (manufacturing and industry), Arun Nigavekar (higher education and research), Ashwin Gambhir (renewable energy and decentralised electricity), Bhushan Gokhale (defence and security), Chandrahas Deshpande (fiscal and monetary policy), Jayant Umranikar (policing and internal security), Jayanta Roy (trade and external sector), John Kurien (agriculture and fisheries), Naim Keruwala (urban planning), Niranjan Rajadhyaksha (economic commentary and macro narrative), Prakash Hebalkar (technology, IT and disinvestment), Prashant Girbane (PIC programme coordination on policy synthesis), Ravi Pandit (manufacturing competitiveness and skilling), Sudhir Devare (foreign policy and multi-alignment), and Sumita Kale (social-security architecture and Aadhaar-based delivery). Together they author the chapter-level analysis behind the eight tectonic-shifts framework and the Section 2 sectoral recommendations.
+  Section 1, signed by Dileep Padgaonkar on behalf of PIC''s Programme Committee,
+  sets out an agenda for development built around eight tectonic shifts the authors
+  see reshaping India — from the state to the market, from government to civil society,
+  from Delhi to the states and panchayats, from upper-caste dominance to the assertiveness
+  of those lower in the order, from older to younger generations, from male-centric
+  to more gender-balanced power, from a techno-phobic to a techno-philic country,
+  and from non-alignment to multi-alignment. Section 2, introduced by Nitin Desai,
+  translates these diagnoses into sector-wise policy recommendations covering fiscal
+  consolidation, privatisation, manufacturing, agriculture, energy, urban renewal,
+  social security and labour-law reform.
 
-  The booklet's argumentative centre is a classical-liberal critique of crony capitalism, license-permit residues and 'competitive populism', paired with a constructive case for a regulatory state that polices markets rather than substitutes for them, and a decentralised governance architecture that empowers municipalities, panchayats and state governments to deliver public goods.
+
+  The booklet''s substantive chapters are the collaborative work of PIC''s larger
+  Programme Committee and sector working groups, whose contributing authors include
+  Abhay Bang (public health and tribal welfare), Abhay Pethe (urban economics and
+  municipal finance), Abhijit Pawar (media, communications and rural enterprise),
+  Ajit Ranade (macro-economics and growth strategy), Amitav Malik (defence technology
+  and strategic affairs), Arun Firodia (manufacturing and industry), Arun Nigavekar
+  (higher education and research), Ashwin Gambhir (renewable energy and decentralised
+  electricity), Bhushan Gokhale (defence and security), Chandrahas Deshpande (fiscal
+  and monetary policy), Jayant Umranikar (policing and internal security), Jayanta
+  Roy (trade and external sector), John Kurien (agriculture and fisheries), Naim Keruwala
+  (urban planning), Niranjan Rajadhyaksha (economic commentary and macro narrative),
+  Prakash Hebalkar (technology, IT and disinvestment), Prashant Girbane (PIC programme
+  coordination on policy synthesis), Ravi Pandit (manufacturing competitiveness and
+  skilling), Sudhir Devare (foreign policy and multi-alignment), and Sumita Kale (social-security
+  architecture and Aadhaar-based delivery). Together they author the chapter-level
+  analysis behind the eight tectonic-shifts framework and the Section 2 sectoral recommendations.
+
+
+  The booklet''s argumentative centre is a classical-liberal critique of crony capitalism,
+  license-permit residues and ''competitive populism'', paired with a constructive
+  case for a regulatory state that polices markets rather than substitutes for them,
+  and a decentralised governance architecture that empowers municipalities, panchayats
+  and state governments to deliver public goods.
+
+  '
 needs_review: true
 draft: false
 ai:
@@ -117,9 +157,9 @@ physical:
   pages_total_source: pypdfium2
   format: booklet
 missing_metadata_flags:
-  - no_formal_toc
-  - no_publisher_address_in_chunk
-  - no_isbn
+- no_formal_toc
+- no_publisher_address_in_chunk
+- no_isbn
 authors_resolution:
   confidence: low
   method: vision
@@ -128,25 +168,32 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 thinker_mentions:
-  - thinker: vijay-kelkar
-    role: mention
-    reasoning: Vijay Kelkar co-signs the introduction with R. A. Mashelkar and is credited with leading the Pune International Centre policy report that this Forum booklet reproduces.
-    evidence:
-      - quote: "the introduction signed jointly by R. A. Mashelkar and Vijay Kelkar position the report as a 'Big Ideas' roadmap"
-        context: identifies Kelkar as joint author of the framing introduction
-      - quote: "the Forum of Free Enterprise's free-distribution reprint of a Pune International Centre policy report led by Raghunath Mashelkar and Vijay Kelkar"
-        context: key-points line crediting Kelkar with co-leading the underlying PIC report
-    key_passages: []
-  - thinker: sunil-bhandare
-    role: mention
-    reasoning: "Sunil S. Bhandare is named as editor of the Forum reprint and frames the reproduction as a non-partisan attempt to push the Pune International Centre's recommendations into wider public debate before the 2014 election."
-    evidence:
-      - quote: "Editor Sunil S. Bhandare frames the reproduction as a non-partisan attempt to push PIC's recommendations into wider public debate before the new government takes office."
-        context: "establishes Bhandare's editorial framing of the booklet's purpose"
-      - quote: edited by Sunil S. Bhandare and timed to the 2014 general election
-        context: key-points line restating his editorial role
-    key_passages: []
-
+- thinker: vijay-kelkar
+  role: mention
+  reasoning: Vijay Kelkar co-signs the introduction with R. A. Mashelkar and is credited
+    with leading the Pune International Centre policy report that this Forum booklet
+    reproduces.
+  evidence:
+  - quote: the introduction signed jointly by R. A. Mashelkar and Vijay Kelkar position
+      the report as a 'Big Ideas' roadmap
+    context: identifies Kelkar as joint author of the framing introduction
+  - quote: the Forum of Free Enterprise's free-distribution reprint of a Pune International
+      Centre policy report led by Raghunath Mashelkar and Vijay Kelkar
+    context: key-points line crediting Kelkar with co-leading the underlying PIC report
+  key_passages: []
+- thinker: sunil-bhandare
+  role: mention
+  reasoning: Sunil S. Bhandare is named as editor of the Forum reprint and frames
+    the reproduction as a non-partisan attempt to push the Pune International Centre's
+    recommendations into wider public debate before the 2014 election.
+  evidence:
+  - quote: Editor Sunil S. Bhandare frames the reproduction as a non-partisan attempt
+      to push PIC's recommendations into wider public debate before the new government
+      takes office.
+    context: establishes Bhandare's editorial framing of the booklet's purpose
+  - quote: edited by Sunil S. Bhandare and timed to the 2014 general election
+    context: key-points line restating his editorial role
+  key_passages: []
 ---
 
 ## Summary

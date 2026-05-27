@@ -2,29 +2,29 @@
 id: state-trading-a-d-shroff-jun6-1958
 title:
   main: State Trading
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - a-d-shroff
+- a-d-shroff
 editors: []
 contributors:
-  - role: author
-    thinker: a-d-shroff
-    toc_index: 2
-  - role: author
-    thinker_unresolved: N. Dandeker
-    toc_index: 3
-  - role: author
-    thinker_unresolved: S. C. Bose
-    toc_index: 4
-  - role: author
-    thinker_unresolved: Mr. Murarji J. Vaidya
-    toc_index: 5
-  - role: author
-    thinker_unresolved: D. B. Futnani
-    toc_index: 6
+- role: author
+  thinker: a-d-shroff
+  toc_index: 2
+- role: author
+  toc_index: 3
+  thinker: n-dandeker
+- role: author
+  toc_index: 4
+  thinker: s-c-bose
+- role: author
+  toc_index: 5
+  thinker: murarji-j-vaidya
+- role: author
+  toc_index: 6
+  thinker: d-b-futnani
 related_thinkers:
-  - morarji-desai
+- a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -39,16 +39,31 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - state-intervention
-  - free-enterprise
-  - planned-economy
-  - nationalisation
-  - foreign-trade
-  - economic-policy
-  - parliamentary-democracy
-summary: "This booklet, issued by the Forum of Free Enterprise in Bombay, gathers the addresses delivered at the Forum's Convention on State Trading held in Bombay on April 28, 1958. A. D. Shroff, President of the Forum, presides; the other speakers are N. Dandeker, I.C.S. (Retd.), S. C. Bose of the Utkal Mining and Industrial Association in Calcutta, Murarji J. Vaidya, former President of the Indian Merchants' Chamber, and D. B. Futnani, President of the Iron, Steel and Hardware Merchants' Chamber of India. The introduction frames the volume with a sidebar epigraph from Eugene Black, President of the World Bank, that private enterprise must be accepted not as a necessary evil but as an affirmative good.\n\nThe five speakers converge on a single argument: that the expansion of the State Trading Corporation (S.T.C.) under India's planned-economy doctrine of a 'socialistic pattern of society' is the most sinister encroachment on free enterprise and the democratic way of life since independence.…"
+- state-intervention
+- free-enterprise
+- planned-economy
+- nationalisation
+- foreign-trade
+- economic-policy
+- parliamentary-democracy
+summary: 'This booklet, issued by the Forum of Free Enterprise in Bombay, gathers
+  the addresses delivered at the Forum''s Convention on State Trading held in Bombay
+  on April 28, 1958. A. D. Shroff, President of the Forum, presides; the other speakers
+  are N. Dandeker, I.C.S. (Retd.), S. C. Bose of the Utkal Mining and Industrial Association
+  in Calcutta, Murarji J. Vaidya, former President of the Indian Merchants'' Chamber,
+  and D. B. Futnani, President of the Iron, Steel and Hardware Merchants'' Chamber
+  of India. The introduction frames the volume with a sidebar epigraph from Eugene
+  Black, President of the World Bank, that private enterprise must be accepted not
+  as a necessary evil but as an affirmative good.
+
+
+  The five speakers converge on a single argument: that the expansion of the State
+  Trading Corporation (S.T.C.) under India''s planned-economy doctrine of a ''socialistic
+  pattern of society'' is the most sinister encroachment on free enterprise and the
+  democratic way of life since independence.…'
 needs_review: true
 draft: false
 ai:
@@ -60,12 +75,13 @@ physical:
   pages_rendered: 20
   pages_total: 23
   pages_total_source: pypdfium2
-  format: Stapled booklet / pamphlet, printed cover with green wrapper bearing the Forum of Free Enterprise emblem
+  format: Stapled booklet / pamphlet, printed cover with green wrapper bearing the
+    Forum of Free Enterprise emblem
 missing_metadata_flags:
-  - no_formal_table_of_contents
-  - no_explicit_publication_year_on_visible_pages
-  - editor_not_named
-  - colophon_not_in_chunk
+- no_formal_table_of_contents
+- no_explicit_publication_year_on_visible_pages
+- editor_not_named
+- colophon_not_in_chunk
 ---
 
 # State Trading

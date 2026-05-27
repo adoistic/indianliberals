@@ -2,29 +2,33 @@
 id: private-enterprise-and-politics-a-d-shroff-jun8-1962
 title:
   main: Private Enterprise and Politics
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - a-d-shroff
+- a-d-shroff
 editors: []
 contributors:
-  - role: author
-    thinker: a-d-shroff
-    toc_index: 1
-  - role: author
-    thinker_unresolved: LALCHAND HIRACHAND
-    toc_index: 2
-  - role: author
-    thinker_unresolved: FRANK MORAES
-    toc_index: 3
-  - role: author
-    thinker_unresolved: DR. A. R. WADIA, M.P.
-    toc_index: 4
-related_thinkers: []
+- role: author
+  thinker: a-d-shroff
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: lalchand-hirachand
+- role: author
+  toc_index: 3
+  thinker: frank-moraes
+- role: author
+  toc_index: 4
+  thinker: a-r-wadia-m-p
+related_thinkers:
+- a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Forum of Free Enterprise, \"Sohrab House\", 235 Dr. D. N. Road, Bombay-1. Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road. Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press, Horniman Circle, Bombay-1. 8/June/1962."
+  publisher_name: Forum of Free Enterprise, "Sohrab House", 235 Dr. D. N. Road, Bombay-1.
+    Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji
+    Road. Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press,
+    Horniman Circle, Bombay-1. 8/June/1962.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1962
@@ -36,18 +40,31 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - private-enterprise
-  - economic-policy
-  - democracy
-  - industrialisation
-  - socialism
-  - planning
-  - welfare-state
-  - politics-and-business
-summary: "This 14-page booklet collects four addresses delivered at a symposium organised by the Forum of Free Enterprise in Bombay on 23 January 1962, prompted by debate during the February 1962 General Elections over the place of private enterprise in Indian politics. A. D. Shroff, President of the Forum, presided and opened by urging businessmen to shed their 'moral cowardice' and engage politics directly. He is joined by industrialist Lalchand Hirachand (President, Maharashtra Chamber of Commerce), journalist Frank Moraes (Editor-in-Chief, Indian Express), and educationist Dr. A. R. Wadia, M.P. (Director, Tata School of Social Sciences, Bombay). Across the four talks the contributors converge on a shared thesis: that the post-Independence expansion of state activity has made political abstention impossible for private industry, that the public-sector model is producing waste and unfair competition rather than virtue, and that defending free enterprise is inseparable from defending democracy itself."
+- free-enterprise
+- private-enterprise
+- economic-policy
+- democracy
+- industrialisation
+- socialism
+- planning
+- welfare-state
+- politics-and-business
+summary: 'This 14-page booklet collects four addresses delivered at a symposium organised
+  by the Forum of Free Enterprise in Bombay on 23 January 1962, prompted by debate
+  during the February 1962 General Elections over the place of private enterprise
+  in Indian politics. A. D. Shroff, President of the Forum, presided and opened by
+  urging businessmen to shed their ''moral cowardice'' and engage politics directly.
+  He is joined by industrialist Lalchand Hirachand (President, Maharashtra Chamber
+  of Commerce), journalist Frank Moraes (Editor-in-Chief, Indian Express), and educationist
+  Dr. A. R. Wadia, M.P. (Director, Tata School of Social Sciences, Bombay). Across
+  the four talks the contributors converge on a shared thesis: that the post-Independence
+  expansion of state activity has made political abstention impossible for private
+  industry, that the public-sector model is producing waste and unfair competition
+  rather than virtue, and that defending free enterprise is inseparable from defending
+  democracy itself.'
 needs_review: true
 draft: false
 ai:
@@ -59,10 +76,11 @@ physical:
   pages_rendered: 11
   pages_total: 11
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet — printed booklet with orange-and-dark-green cover, FFE emblem, 14 numbered text pages plus covers
+  format: Pamphlet/booklet — printed booklet with orange-and-dark-green cover, FFE
+    emblem, 14 numbered text pages plus covers
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
+- editor_not_named
+- no_formal_toc_page
 ---
 
 # Private Enterprise and Politics

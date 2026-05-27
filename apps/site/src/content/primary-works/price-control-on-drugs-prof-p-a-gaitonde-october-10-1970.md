@@ -2,25 +2,27 @@
 id: price-control-on-drugs-prof-p-a-gaitonde-october-10-1970
 title:
   main: Price Control on Drugs
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Prof. P. A. Gaitonde
-    toc_index: 1
-  - role: author
-    thinker_unresolved: N. H. Israni
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Champaklal Zaveri
-    toc_index: 3
+- role: author
+  toc_index: 1
+  thinker: p-a-gaitonde
+- role: author
+  toc_index: 2
+  thinker: n-h-israni
+- role: author
+  toc_index: 3
+  thinker: champaklal-zaveri
 related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1. and Printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 1. and Printed by S. J. Patel, at Onlooker Press,
+    (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1970
@@ -32,15 +34,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - price-controls
-  - free-enterprise
-  - industry-regulation
-  - pharmaceuticals
-  - consumer-welfare
-summary: "Published by the Forum of Free Enterprise on 10 October 1970, this pamphlet collects three short polemics opposing the Government of India's Drugs (Prices Control) Order of 16 May 1970. The contributors — economist Prof. P. A. Gaitonde of K. C. College, Bombay; pharmaceutical Managing Director N. H. Israni; and PAMDAL Past President Champaklal Zaveri — share a common argument: in the absence of war or emergency shortage, rigid price control on drugs will throttle competition, deter R&D, reduce supply, and ultimately injure the very consumers it claims to help. The volume marshals price-index data, comparative international evidence, the Tariff Commission's 1968 report, and the confusion produced by the Order's repeated amendments to argue that the industry's growth and the public's health are best served by lower taxes, decanalised raw-material imports, and the discipline of competition rather than by a single-formula government fiat."
+- economic-policy
+- price-controls
+- free-enterprise
+- industry-regulation
+- pharmaceuticals
+- consumer-welfare
+summary: 'Published by the Forum of Free Enterprise on 10 October 1970, this pamphlet
+  collects three short polemics opposing the Government of India''s Drugs (Prices
+  Control) Order of 16 May 1970. The contributors — economist Prof. P. A. Gaitonde
+  of K. C. College, Bombay; pharmaceutical Managing Director N. H. Israni; and PAMDAL
+  Past President Champaklal Zaveri — share a common argument: in the absence of war
+  or emergency shortage, rigid price control on drugs will throttle competition, deter
+  R&D, reduce supply, and ultimately injure the very consumers it claims to help.
+  The volume marshals price-index data, comparative international evidence, the Tariff
+  Commission''s 1968 report, and the confusion produced by the Order''s repeated amendments
+  to argue that the industry''s growth and the public''s health are best served by
+  lower taxes, decanalised raw-material imports, and the discipline of competition
+  rather than by a single-formula government fiat.'
 needs_review: true
 draft: false
 ai:
@@ -52,11 +66,12 @@ physical:
   pages_rendered: 15
   pages_total: 15
   pages_total_source: pypdfium2
-  format: Stapled paper booklet (FFE pamphlet), green printed wrappers; ~21 printed pages of text plus front/back wrappers.
+  format: Stapled paper booklet (FFE pamphlet), green printed wrappers; ~21 printed
+    pages of text plus front/back wrappers.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - no_isbn
+- editor_not_named
+- no_formal_toc_page
+- no_isbn
 ---
 
 # Price Control on Drugs

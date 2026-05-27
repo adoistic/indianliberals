@@ -5,47 +5,47 @@ title:
   subtitle: Tibetans in Exile — The Struggle Continues…
 work_type: periodical_issue
 authors:
-  - ajit-bhattacharjea
-  - samdhong-rinpoche
-  - erhard-haubold
+- ajit-bhattacharjea
+- samdhong-rinpoche
+- erhard-haubold
 editors:
-  - jurgen-axer
-  - geeta-lal
+- jurgen-axer
+- geeta-lal
 contributors:
-  - role: author
-    thinker_unresolved: Pema Thinley
-    toc_index: 1
-  - role: author
-    thinker: ajit-bhattacharjea
-    toc_index: 2
-  - role: author
-    thinker: samdhong-rinpoche
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Yangchen Dolkar
-    toc_index: 5
-  - role: author
-    thinker_unresolved: Nawang Lhamo
-    toc_index: 6
-  - role: author
-    thinker_unresolved: Karma Wangdui
-    toc_index: 7
-  - role: author
-    thinker: erhard-haubold
-    toc_index: 8
-  - role: author
-    thinker: fazal-ur-rahman
-    toc_index: 9
-related_thinkers: 
-  - ajit-bhattacharjea
-  - deng-xiaoping
-  - samdhong-rinpoche
-
-
+- role: author
+  toc_index: 1
+  thinker: pema-thinley
+- role: author
+  thinker: ajit-bhattacharjea
+  toc_index: 2
+- role: author
+  thinker: samdhong-rinpoche
+  toc_index: 3
+- role: author
+  toc_index: 5
+  thinker: yangchen-dolkar
+- role: author
+  toc_index: 6
+  thinker: nawang-lhamo
+- role: author
+  toc_index: 7
+  thinker: karma-wangdui
+- role: author
+  thinker: erhard-haubold
+  toc_index: 8
+- role: author
+  thinker: fazal-ur-rahman
+  toc_index: 9
+related_thinkers:
+- ajit-bhattacharjea
+- deng-xiaoping
+- erhard-haubold
+- samdhong-rinpoche
 publication:
   language: en
   publisher_id: friedrich-naumann-foundation
-  publisher_name: Published by the Friedrich-Naumann-Stiftung, Regional Office South Asia.
+  publisher_name: Published by the Friedrich-Naumann-Stiftung, Regional Office South
+    Asia.
   issuer_id: friedrich-naumann-foundation
   place: New Delhi
   year: 1995
@@ -58,20 +58,62 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - civil-liberties
-  - democracy
-  - human-rights
-  - international-affairs
-  - self-determination
-  - refugees
-summary: |
-  This issue of Liberal Times (Volume III / Number 2, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, is devoted to the Tibetan exile experience under the thematic banner 'Tibetans in Exile — The Struggle Continues…'. The issue assembles voices from Tibetan activists, Indian commentators, German press, and a US Congressional document to examine three interlocking problems: China's ongoing cultural, demographic and ecological destruction of Tibet; the democratic institutions built by the exile community under the Dalai Lama; and the strategies — non-violent resistance, international lobbying, youth mobilisation, and women's political organising — that define the contemporary freedom movement.
+- civil-liberties
+- democracy
+- human-rights
+- international-affairs
+- self-determination
+- refugees
+summary: 'This issue of Liberal Times (Volume III / Number 2, 1995), published by
+  the Friedrich-Naumann-Stiftung Regional Office South Asia, is devoted to the Tibetan
+  exile experience under the thematic banner ''Tibetans in Exile — The Struggle Continues…''.
+  The issue assembles voices from Tibetan activists, Indian commentators, German press,
+  and a US Congressional document to examine three interlocking problems: China''s
+  ongoing cultural, demographic and ecological destruction of Tibet; the democratic
+  institutions built by the exile community under the Dalai Lama; and the strategies
+  — non-violent resistance, international lobbying, youth mobilisation, and women''s
+  political organising — that define the contemporary freedom movement.
 
-  Pema Thinley contributes the cover essay "Tibet: The Tragedy and the Hope," framing Beijing's policy as 'subtle Chinese genocide' through population transfer and cataloguing the destruction of 6,254 monasteries, coercive birth control, environmental devastation, and the exile administration's preservation of language, religion, medicine and handicrafts. Ajit Bhattacharjea, in "The Exile Identity and Democratic Vision," traces the thirty-five-year democratic evolution of the exile community, the Dalai Lama's voluntary relinquishment of traditional powers, and the 1991 Charter that turned the Assembly of Tibetan People's Deputies into a fully parliamentary legislature — calling the transformation 'unique in the history of refugee politics'. Prof. Samdhong Rinpoche, as Chairman of the Assembly of Tibetan People's Deputies, sets out the philosophical and strategic foundations of the movement in "Political Struggle of the Tibetans," grounding the cause in Buddhist inter-dependence, assessing all Chinese overtures since Deng Xiaoping's 1979 dialogue as stalling tactics, and proposing escalation to a Satyagraha of civil disobedience to be decided by referendum.
 
-  Yangchen Dolkar, Information Secretary of the Tibetan Youth Congress, makes the case in "The Role of Youth in the Struggle for Tibetan Independence" for the TYC's role as a 12,000-member loyal opposition and conduit to Chinese dissidents and the peoples of East Turkistan and Inner Mongolia. Nawang Lhamo's "Tibetan Women: Nose-dive into Politics with Devotion" surveys women's activism from the 30,000-strong 1959 Lhasa march to the Tibetan Women's Association's lobbying campaign around the 1995 Beijing Fourth World Conference on Women. Karma Wangdui contributes a further activist essay extending the exile community's first-person testimony. Erhard Haubold (the long-serving South Asia correspondent of the Frankfurter Allgemeine Zeitung) supplies an outside-observer dispatch on the international politics of the Tibet question, and Fazal-ur-Rahman contributes a piece situating Tibet within wider regional and South Asian strategic concerns. The issue also reprints the United States Congress resolution (Foreign Relations Authorization Act, 1992–93) declaring Tibet an occupied country and recognising the Dalai Lama and the government-in-exile as Tibet's true representatives. The editorial perspective throughout is broadly liberal-internationalist, emphasising self-determination, human rights, rule of law, and non-violent civil disobedience as the legitimate basis for Tibet's claim to independence.
+  Pema Thinley contributes the cover essay "Tibet: The Tragedy and the Hope," framing
+  Beijing''s policy as ''subtle Chinese genocide'' through population transfer and
+  cataloguing the destruction of 6,254 monasteries, coercive birth control, environmental
+  devastation, and the exile administration''s preservation of language, religion,
+  medicine and handicrafts. Ajit Bhattacharjea, in "The Exile Identity and Democratic
+  Vision," traces the thirty-five-year democratic evolution of the exile community,
+  the Dalai Lama''s voluntary relinquishment of traditional powers, and the 1991 Charter
+  that turned the Assembly of Tibetan People''s Deputies into a fully parliamentary
+  legislature — calling the transformation ''unique in the history of refugee politics''.
+  Prof. Samdhong Rinpoche, as Chairman of the Assembly of Tibetan People''s Deputies,
+  sets out the philosophical and strategic foundations of the movement in "Political
+  Struggle of the Tibetans," grounding the cause in Buddhist inter-dependence, assessing
+  all Chinese overtures since Deng Xiaoping''s 1979 dialogue as stalling tactics,
+  and proposing escalation to a Satyagraha of civil disobedience to be decided by
+  referendum.
+
+
+  Yangchen Dolkar, Information Secretary of the Tibetan Youth Congress, makes the
+  case in "The Role of Youth in the Struggle for Tibetan Independence" for the TYC''s
+  role as a 12,000-member loyal opposition and conduit to Chinese dissidents and the
+  peoples of East Turkistan and Inner Mongolia. Nawang Lhamo''s "Tibetan Women: Nose-dive
+  into Politics with Devotion" surveys women''s activism from the 30,000-strong 1959
+  Lhasa march to the Tibetan Women''s Association''s lobbying campaign around the
+  1995 Beijing Fourth World Conference on Women. Karma Wangdui contributes a further
+  activist essay extending the exile community''s first-person testimony. Erhard Haubold
+  (the long-serving South Asia correspondent of the Frankfurter Allgemeine Zeitung)
+  supplies an outside-observer dispatch on the international politics of the Tibet
+  question, and Fazal-ur-Rahman contributes a piece situating Tibet within wider regional
+  and South Asian strategic concerns. The issue also reprints the United States Congress
+  resolution (Foreign Relations Authorization Act, 1992–93) declaring Tibet an occupied
+  country and recognising the Dalai Lama and the government-in-exile as Tibet''s true
+  representatives. The editorial perspective throughout is broadly liberal-internationalist,
+  emphasising self-determination, human rights, rule of law, and non-violent civil
+  disobedience as the legitimate basis for Tibet''s claim to independence.
+
+  '
 needs_review: true
 draft: false
 ai:
@@ -84,39 +126,66 @@ physical:
   pages_total_source: pypdfium2
   format: periodical / magazine, saddle-stitched
 missing_metadata_flags:
-  - issn_not_found
-  - editor_in_chief_not_in_authority_file
-  - most_contributors_not_in_authority_file
+- issn_not_found
+- editor_in_chief_not_in_authority_file
+- most_contributors_not_in_authority_file
 thinker_mentions:
-  - thinker: ajit-bhattacharjea
-    role: mention
-    reasoning: "Bhattacharjea contributes the central essay on the democratic evolution of the Tibetan exile community, documenting the Dalai Lama's voluntary relinquishment of traditional powers and the 1991 Charter that turned the Assembly of Tibetan People's Deputies into a full parliamentary legislature."
-    evidence:
-      - quote: "Ajit Bhattacharjea traces the thirty-five-year democratic evolution of the Tibetan exile community, centred on the Assembly of Tibetan People's Deputies (parliament-in-exile)."
-        context: "section opener summarising Bhattacharjea's essay 'The Exile Identity and Democratic Vision'"
-      - quote: "Bhattacharjea argues that the exile community's transformation from 'virtual destitutes' to a self-confident, institutionally mature polity is unique in the history of refugee politics"
-        context: "key claim of Bhattacharjea's essay; positions Tibetan democracy-in-exile as historically singular"
-    key_passages: []
-  - thinker: samdhong-rinpoche
-    role: mention
-    reasoning: "Samdhong Rinpoche, as Chairman of the Assembly of Tibetan People's Deputies, articulates the issue's philosophical core: that the Tibetan struggle is a universal human responsibility rooted in Buddhist inter-dependence, and that after failed Chinese negotiations the movement should escalate to a Satyagraha of civil disobedience."
-    evidence:
-      - quote: "Prof. Samdhong Rinpoche, Chairman of the Assembly of Tibetan People's Deputies, sets out the philosophical and strategic foundations of the Tibetan freedom movement."
-        context: "section opener establishing Rinpoche's institutional and philosophical authority in the issue"
-      - quote: "the movement must now consider a Satyagraha ('Insistence on Truth') strategy including civil disobedience and passive resistance"
-        context: "Rinpoche's strategic conclusion; deploys a Gandhian frame for the next phase of Tibetan resistance"
-    key_passages: []
-  - thinker: deng-xiaoping
-    role: mention
-    reasoning: "Deng appears twice in Samdhong Rinpoche's and Yangchen Dolkar's essays: as the Chinese counter-party in the 1979 Sino-Tibetan dialogue that the exile leadership ultimately judges insincere, and as the looming succession question whose resolution may open political space for Tibetan activism."
-    evidence:
-      - quote: "failed negotiations with China (Deng Xiaoping's 1979 dialogue, the Five Point Peace Programme of 1987, the Strasbourg Proposal of 1988, and the 1991 offer to visit Tibet)"
-        context: "Rinpoche's essay; Deng's 1979 dialogue is the first of four Chinese overtures Rinpoche reads as stalling tactics"
-      - quote: "China's internal instability — inflation, unemployment, weakening central control, the Deng Xiaoping succession — creates an opening for Tibetan activists to press their case."
-        context: "key-point bullet from Dolkar's youth-strategy essay; treats Deng's mortality as a strategic window for the movement"
-    key_passages: []
-
+- thinker: ajit-bhattacharjea
+  role: mention
+  reasoning: Bhattacharjea contributes the central essay on the democratic evolution
+    of the Tibetan exile community, documenting the Dalai Lama's voluntary relinquishment
+    of traditional powers and the 1991 Charter that turned the Assembly of Tibetan
+    People's Deputies into a full parliamentary legislature.
+  evidence:
+  - quote: Ajit Bhattacharjea traces the thirty-five-year democratic evolution of
+      the Tibetan exile community, centred on the Assembly of Tibetan People's Deputies
+      (parliament-in-exile).
+    context: section opener summarising Bhattacharjea's essay 'The Exile Identity
+      and Democratic Vision'
+  - quote: Bhattacharjea argues that the exile community's transformation from 'virtual
+      destitutes' to a self-confident, institutionally mature polity is unique in
+      the history of refugee politics
+    context: key claim of Bhattacharjea's essay; positions Tibetan democracy-in-exile
+      as historically singular
+  key_passages: []
+- thinker: samdhong-rinpoche
+  role: mention
+  reasoning: 'Samdhong Rinpoche, as Chairman of the Assembly of Tibetan People''s
+    Deputies, articulates the issue''s philosophical core: that the Tibetan struggle
+    is a universal human responsibility rooted in Buddhist inter-dependence, and that
+    after failed Chinese negotiations the movement should escalate to a Satyagraha
+    of civil disobedience.'
+  evidence:
+  - quote: Prof. Samdhong Rinpoche, Chairman of the Assembly of Tibetan People's Deputies,
+      sets out the philosophical and strategic foundations of the Tibetan freedom
+      movement.
+    context: section opener establishing Rinpoche's institutional and philosophical
+      authority in the issue
+  - quote: the movement must now consider a Satyagraha ('Insistence on Truth') strategy
+      including civil disobedience and passive resistance
+    context: Rinpoche's strategic conclusion; deploys a Gandhian frame for the next
+      phase of Tibetan resistance
+  key_passages: []
+- thinker: deng-xiaoping
+  role: mention
+  reasoning: 'Deng appears twice in Samdhong Rinpoche''s and Yangchen Dolkar''s essays:
+    as the Chinese counter-party in the 1979 Sino-Tibetan dialogue that the exile
+    leadership ultimately judges insincere, and as the looming succession question
+    whose resolution may open political space for Tibetan activism.'
+  evidence:
+  - quote: failed negotiations with China (Deng Xiaoping's 1979 dialogue, the Five
+      Point Peace Programme of 1987, the Strasbourg Proposal of 1988, and the 1991
+      offer to visit Tibet)
+    context: Rinpoche's essay; Deng's 1979 dialogue is the first of four Chinese overtures
+      Rinpoche reads as stalling tactics
+  - quote: China's internal instability — inflation, unemployment, weakening central
+      control, the Deng Xiaoping succession — creates an opening for Tibetan activists
+      to press their case.
+    context: key-point bullet from Dolkar's youth-strategy essay; treats Deng's mortality
+      as a strategic window for the movement
+  key_passages: []
 ---
+
 ## Summary
 
 This issue of Liberal Times (Volume III / Number 2, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, is devoted to the Tibetan exile experience under the thematic banner 'Tibetans in Exile — The Struggle Continues…'. In the rendered pages, the issue assembles voices from Tibetan activists, Indian commentators, and a US Congressional document to examine three interlocking problems: China's ongoing cultural, demographic and ecological destruction of Tibet; the democratic institutions built by the exile community under the Dalai Lama; and the strategies — non-violent resistance, international lobbying, youth mobilisation, and women's political organising — that define the contemporary freedom movement. The editorial perspective is broadly liberal-internationalist, emphasising self-determination, human rights, rule of law, and non-violent civil disobedience as the legitimate basis for Tibet's claim to independence.

@@ -2,26 +2,26 @@
 id: stock-market-and-turmoil-lessons-for-investors-by-shah-mulraj-simha-2001
 title:
   main: STOCK MARKET IN TURMOIL – LESSONS FOR INVESTORS
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Prof. S. L. N. Simha
-    toc_index: 1
-  - role: author
-    thinker_unresolved: J. Mulraj
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Dr. Ajay Shah
-    toc_index: 3
-related_thinkers:
-  - t-t-krishnamachari
+- role: author
+  toc_index: 1
+  thinker: s-l-n-simha
+- role: author
+  toc_index: 2
+  thinker: j-mulraj
+- role: author
+  toc_index: 3
+  thinker: ajay-shah
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2001
@@ -32,9 +32,22 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Stock Market in Turmoil – Lessons for Investors is a 2001 Forum of Free Enterprise pamphlet collecting three contributions on the Indian stock market crisis that followed the collapse of the early-nineties bull run and the IT-stock hype. Prof. S. L. N. Simha, a former Principal Adviser of the Reserve Bank of India, opens with a forensic essay on \"The Stock Market Debacle\" originally carried by Southern Economist, blaming the Government, the RBI and SEBI more than speculators for permitting bank credit, badla carry-overs, mutual-fund share lending and weak regulatory independence to inflate the bubble. J. Mulraj, a financial analyst and Times of India columnist, follows with \"Some Rules for Investors,\" a talk delivered at a Forum of Free Enterprise meeting in Mumbai on 18 April 2001, tracing the structural shift from open-outcry to screen-based trading, the rise of mutual funds and institutional ownership, and the global dotcom valuation mania. A third contribution by Dr. Ajay Shah is announced on the cover but falls outside the rendered pages."
+summary: Stock Market in Turmoil – Lessons for Investors is a 2001 Forum of Free Enterprise
+  pamphlet collecting three contributions on the Indian stock market crisis that followed
+  the collapse of the early-nineties bull run and the IT-stock hype. Prof. S. L. N.
+  Simha, a former Principal Adviser of the Reserve Bank of India, opens with a forensic
+  essay on "The Stock Market Debacle" originally carried by Southern Economist, blaming
+  the Government, the RBI and SEBI more than speculators for permitting bank credit,
+  badla carry-overs, mutual-fund share lending and weak regulatory independence to
+  inflate the bubble. J. Mulraj, a financial analyst and Times of India columnist,
+  follows with "Some Rules for Investors," a talk delivered at a Forum of Free Enterprise
+  meeting in Mumbai on 18 April 2001, tracing the structural shift from open-outcry
+  to screen-based trading, the rise of mutual funds and institutional ownership, and
+  the global dotcom valuation mania. A third contribution by Dr. Ajay Shah is announced
+  on the cover but falls outside the rendered pages.
 needs_review: true
 draft: false
 ai:
@@ -46,12 +59,13 @@ physical:
   pages_rendered: 20
   pages_total: 32
   pages_total_source: pypdfium2
-  format: FFE booklet/pamphlet — orange-and-white printed wrappers; multi-author essay collection
+  format: FFE booklet/pamphlet — orange-and-white printed wrappers; multi-author essay
+    collection
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - no_explicit_publication_year_on_verso
-  - ajay_shah_essay_not_yet_rendered
+- editor_not_named
+- no_formal_toc_page
+- no_explicit_publication_year_on_verso
+- ajay_shah_essay_not_yet_rendered
 ---
 
 # STOCK MARKET IN TURMOIL – LESSONS FOR INVESTORS

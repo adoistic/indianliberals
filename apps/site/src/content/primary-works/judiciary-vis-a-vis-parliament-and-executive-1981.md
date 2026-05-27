@@ -1,22 +1,25 @@
 ---
 id: judiciary-vis-a-vis-parliament-and-executive-1981
 title:
-  main: "Judiciary Vis a Vis Parliament & Executive"
-  subtitle: ""
+  main: Judiciary Vis a Vis Parliament & Executive
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Anil B. Divan
-related_thinkers: 
-  - bhimrao-ambedkar
-  - jawaharlal-nehru
-
+- role: author
+  thinker: anil-b-divan
+related_thinkers:
+- bhimrao-ambedkar
+- jawaharlal-nehru
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE\nPIRAMAL MANSION, 235 DR. D. N. ROAD,\nBOMBAY 400 001."
+  publisher_name: 'FORUM OF FREE ENTERPRISE
+
+    PIRAMAL MANSION, 235 DR. D. N. ROAD,
+
+    BOMBAY 400 001.'
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1981
@@ -28,12 +31,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - rule-of-law
-  - governance
-  - democracy
-summary: "Anil B. Divan's 1981 keynote address to the Bar Council of India Trust, published as a booklet by the Forum of Free Enterprise, traces the genealogy of judicial independence from Stuart England through colonial India to the first three decades of the Indian Supreme Court. Divan opens with the dictionary sense of 'vis-a-vis' as two parties facing each other, and asks whether the Court's recurrent confrontations with Parliament and the Executive — most recently the new Government's mass transfers of High Court judges and Chief Justices — could harden into 'eyeball to eyeball' confrontation. He grounds the answer in history: Sir Edward Coke's defiance of James I at Westminster Hall in 1608, the Act of Settlement (1701) securing judges' tenure during good behaviour, the colonial-era stand of Sir Peter Grant in Bombay (1829), and Sir Morris Gwyer's wartime striking down of Rule 26 of the Defence of India Rules.\n\nThe address then walks through the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N.…"
+- rule-of-law
+- governance
+- democracy
+summary: 'Anil B. Divan''s 1981 keynote address to the Bar Council of India Trust,
+  published as a booklet by the Forum of Free Enterprise, traces the genealogy of
+  judicial independence from Stuart England through colonial India to the first three
+  decades of the Indian Supreme Court. Divan opens with the dictionary sense of ''vis-a-vis''
+  as two parties facing each other, and asks whether the Court''s recurrent confrontations
+  with Parliament and the Executive — most recently the new Government''s mass transfers
+  of High Court judges and Chief Justices — could harden into ''eyeball to eyeball''
+  confrontation. He grounds the answer in history: Sir Edward Coke''s defiance of
+  James I at Westminster Hall in 1608, the Act of Settlement (1701) securing judges''
+  tenure during good behaviour, the colonial-era stand of Sir Peter Grant in Bombay
+  (1829), and Sir Morris Gwyer''s wartime striking down of Rule 26 of the Defence
+  of India Rules.
+
+
+  The address then walks through the Constituent Assembly''s intent — quoting Nehru,
+  Ambedkar and B. N.…'
 needs_review: true
 draft: false
 ai:
@@ -46,10 +65,10 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / booklet
 missing_metadata_flags:
-  - no_separate_title_page
-  - no_formal_toc
-  - no_explicit_publication_year_on_imprint
-  - no_isbn
+- no_separate_title_page
+- no_formal_toc
+- no_explicit_publication_year_on_imprint
+- no_isbn
 authors_resolution:
   confidence: low
   method: vision
@@ -58,21 +77,26 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 thinker_mentions:
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Divan grounds the Indian doctrine of judicial independence in the Constituent Assembly's intent, quoting Nehru alongside Ambedkar and B. N. Rau on the need for judges free from party bias."
-    evidence:
-      - quote: "the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N. Rau on the need for judges free from party bias"
-        context: foundational move; Nehru is invoked as one of three Constituent-Assembly authorities anchoring the post-1950 judicial standard
-    key_passages: []
-  - thinker: bhimrao-ambedkar
-    role: mention
-    reasoning: "Ambedkar is cited as one of the Constituent Assembly framers whose words establish the Indian judiciary's intended independence from party politics."
-    evidence:
-      - quote: "the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N. Rau on the need for judges free from party bias"
-        context: "Divan's framing of the constitutional design for judicial independence"
-    key_passages: []
-
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Divan grounds the Indian doctrine of judicial independence in the Constituent
+    Assembly's intent, quoting Nehru alongside Ambedkar and B. N. Rau on the need
+    for judges free from party bias.
+  evidence:
+  - quote: the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N. Rau
+      on the need for judges free from party bias
+    context: foundational move; Nehru is invoked as one of three Constituent-Assembly
+      authorities anchoring the post-1950 judicial standard
+  key_passages: []
+- thinker: bhimrao-ambedkar
+  role: mention
+  reasoning: Ambedkar is cited as one of the Constituent Assembly framers whose words
+    establish the Indian judiciary's intended independence from party politics.
+  evidence:
+  - quote: the Constituent Assembly's intent — quoting Nehru, Ambedkar and B. N. Rau
+      on the need for judges free from party bias
+    context: Divan's framing of the constitutional design for judicial independence
+  key_passages: []
 ---
 
 ## Summary

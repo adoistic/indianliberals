@@ -2,25 +2,27 @@
 id: promoting-exports-and-scientific-marketing-s-p-godrej-y-a-fazalbhoy-m-mathias-january-9-1970
 title:
   main: Promoting Exports and Scientific Marketing
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: S. P. GODREJ
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Y. A. FAZALBHOY
-    toc_index: 2
-  - role: author
-    thinker_unresolved: M. MATHIAS
-    toc_index: 3
+- role: author
+  toc_index: 1
+  thinker: s-p-godrej
+- role: author
+  toc_index: 2
+  thinker: y-a-fazalbhoy
+- role: author
+  toc_index: 3
+  thinker: m-mathias
 related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Sohrab House\", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by H. NARAYAN RAO at H. R. MOHAN & CO. (PRESS), 9-B, Cawasjee Patel Street, Bombay-1."
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, "Sohrab
+    House", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by H. NARAYAN RAO
+    at H. R. MOHAN & CO. (PRESS), 9-B, Cawasjee Patel Street, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1970
@@ -32,14 +34,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - trade
-  - exports
-  - marketing
-  - private-enterprise
-summary: "This 1970 Forum of Free Enterprise booklet collects three short addresses delivered in Bombay under the Forum's auspices: 'Some Steps for Export Promotion' by industrialist S. P. Godrej, 'A Strategy for Export Promotion' by Y. A. Fazalbhoy (a former president of the All-India Manufacturer's Organisation), and 'Scientific Marketing' by M. Mathias (a director of Hindustan Lever Limited). The volume's argumentative center is a defence of the Private Sector as the natural engine of India's foreign trade and a critique of the post-bank-nationalisation drift toward state control. Godrej and Fazalbhoy press the case for treating exports as a private-sector domain backed by infrastructure rather than displaced by it, while Mathias argues that the discipline of marketing must be reconceived as a science drawing on economics, statistics, psychology and sociology — a managerial counterpart to the policy programme the first two essays advance."
+- economic-policy
+- trade
+- exports
+- marketing
+- private-enterprise
+summary: 'This 1970 Forum of Free Enterprise booklet collects three short addresses
+  delivered in Bombay under the Forum''s auspices: ''Some Steps for Export Promotion''
+  by industrialist S. P. Godrej, ''A Strategy for Export Promotion'' by Y. A. Fazalbhoy
+  (a former president of the All-India Manufacturer''s Organisation), and ''Scientific
+  Marketing'' by M. Mathias (a director of Hindustan Lever Limited). The volume''s
+  argumentative center is a defence of the Private Sector as the natural engine of
+  India''s foreign trade and a critique of the post-bank-nationalisation drift toward
+  state control. Godrej and Fazalbhoy press the case for treating exports as a private-sector
+  domain backed by infrastructure rather than displaced by it, while Mathias argues
+  that the discipline of marketing must be reconceived as a science drawing on economics,
+  statistics, psychology and sociology — a managerial counterpart to the policy programme
+  the first two essays advance.'
 needs_review: true
 draft: false
 ai:
@@ -51,10 +65,12 @@ physical:
   pages_rendered: 16
   pages_total: 16
   pages_total_source: pypdfium2
-  format: Stapled pamphlet/booklet, illustrated card cover with FFE emblem; three essays based on speeches delivered under the auspices of the Forum of Free Enterprise in Bombay.
+  format: Stapled pamphlet/booklet, illustrated card cover with FFE emblem; three
+    essays based on speeches delivered under the auspices of the Forum of Free Enterprise
+    in Bombay.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
+- editor_not_named
+- no_formal_toc_page
 ---
 
 # Promoting Exports and Scientific Marketing

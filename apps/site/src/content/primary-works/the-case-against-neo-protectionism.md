@@ -116,8 +116,7 @@ thinker_mentions:
       else, they can still gain from specialization and exchange.
     what_it_shows: Mises is cited as the authoritative restatement of comparative-advantage
       logic against neo-protectionism
-- thinker_unresolved: Paul Craig Roberts
-  role: mention
+- role: mention
   reasoning: Paul Craig Roberts is the named target of the entire critique — his essays
     on the Mises website prompted Shenoy to write this rebuttal — but he does not
     appear in the authority list.
@@ -138,8 +137,8 @@ thinker_mentions:
       sometime at some point and the real villain in the piece is capital export.
     what_it_shows: Her summary of what she takes Roberts' protectionist policy implication
       to be
-- thinker_unresolved: Richard Gephardt
-  role: mention
+  thinker: paul-craig-roberts
+- role: mention
   reasoning: U.S. Democratic congressman Richard Gephardt is named as the source of
     a 'patronizing' proposal to impose country-specific minimum wages to police imports
     from low-wage economies; he is not in the authority list.
@@ -155,8 +154,11 @@ thinker_mentions:
       far better than they would have done otherwise throughout South Korea, the newly
       industrialized countries of Southeast Asia.
     what_it_shows: Her empirical riposte to the Gephardt-style 'sweatshop' framing
+  thinker: richard-gephardt
 related_thinkers:
 - ludwig-von-mises
+- paul-craig-roberts
+- richard-gephardt
 - sudha-r-shenoy
 ---
 

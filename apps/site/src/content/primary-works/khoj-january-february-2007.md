@@ -7,80 +7,90 @@ title:
   translit: Khoj — Jīvan ek avirat khoj-āviṣkār
 work_type: periodical_issue
 authors:
-  - ambrish-mehta
-  - suresh-parikh
-  - trupti-parekh
-  - ashwin-karia
-  - rajesh-mishra
-  - himanshi-shelat
-  - dankesh-oza
-  - sauvik-chakraverti
-  - matt-ridley
+- ambrish-mehta
+- suresh-parikh
+- trupti-parekh
+- ashwin-karia
+- rajesh-mishra
+- himanshi-shelat
+- dankesh-oza
+- sauvik-chakraverti
+- matt-ridley
 editors:
-  - ambrish-mehta
+- ambrish-mehta
 contributors:
-  - role: editor
-    thinker: trupti-parekh
-  - role: editor
-    thinker: anil-patel
-  - role: editor
-    thinker: rajesh-mishra
-  - role: author
-    thinker: ambrish-mehta
-    toc_index: 1
-  - role: author
-    thinker: suresh-parikh
-    toc_index: 3
-  - role: author
-    thinker_unresolved: કર્દમ મોડી
-    toc_index: 4
-  - role: author
-    thinker: trupti-parekh
-    toc_index: 5
-  - role: author
-    thinker: ashwin-karia
-    toc_index: 6
-  - role: author
-    thinker: rajesh-mishra
-    toc_index: 7
-  - role: author
-    thinker: himanshi-shelat
-    toc_index: 8
-  - role: author
-    thinker: dankesh-oza
-    toc_index: 9
-  - role: author
-    thinker: trupti-parekh
-    toc_index: 10
-  - role: author
-    thinker: trupti-parekh
-    toc_index: 11
-  - role: author
-    thinker: ambrish-mehta
-    toc_index: 13
-  - role: author
-    thinker_unresolved: પ્રો. કે.વી. પટેલ
-    toc_index: 14
-  - role: author
-    thinker_unresolved: કિરીટ પાનવાલા
-    toc_index: 15
-  - role: author
-    thinker: sauvik-chakraverti
-    toc_index: 16
-  - role: author
-    thinker_unresolved: ફેડરિક બેસ્ટિયાટ
-    toc_index: 17
-  - role: author
-    thinker_unresolved: મુન્શી પ્રેમચંદ
-    toc_index: 18
-  - role: author
-    thinker: matt-ridley
-    toc_index: 19
-related_thinkers: []
+- role: editor
+  thinker: trupti-parekh
+- role: editor
+  thinker: anil-patel
+- role: editor
+  thinker: rajesh-mishra
+- role: author
+  thinker: ambrish-mehta
+  toc_index: 1
+- role: author
+  thinker: suresh-parikh
+  toc_index: 3
+- role: author
+  toc_index: 4
+  thinker: unnamed-figure
+- role: author
+  thinker: trupti-parekh
+  toc_index: 5
+- role: author
+  thinker: ashwin-karia
+  toc_index: 6
+- role: author
+  thinker: rajesh-mishra
+  toc_index: 7
+- role: author
+  thinker: himanshi-shelat
+  toc_index: 8
+- role: author
+  thinker: dankesh-oza
+  toc_index: 9
+- role: author
+  thinker: trupti-parekh
+  toc_index: 10
+- role: author
+  thinker: trupti-parekh
+  toc_index: 11
+- role: author
+  thinker: ambrish-mehta
+  toc_index: 13
+- role: author
+  toc_index: 14
+  thinker: unnamed-figure
+- role: author
+  toc_index: 15
+  thinker: unnamed-figure
+- role: author
+  thinker: sauvik-chakraverti
+  toc_index: 16
+- role: author
+  toc_index: 17
+  thinker: unnamed-figure
+- role: author
+  toc_index: 18
+  thinker: unnamed-figure
+- role: author
+  thinker: matt-ridley
+  toc_index: 19
+related_thinkers:
+- ambrish-mehta
+- ashwin-karia
+- dankesh-oza
+- himanshi-shelat
+- matt-ridley
+- rajesh-mishra
+- sauvik-chakraverti
+- suresh-parikh
+- trupti-parekh
 publication:
   language: gu
   publisher_id: khoj
-  publisher_name: "પ્રથ 'ખોજ' ત્રૈમાસિકનો આ અંક 'આર્ઘ'ના 'પહેલ' કેન્દ (Initiative for Open Society), ફતેગંજ વડોદરા વતી અંબરીષ મહેતાએ પ્રકાશિત કર્યો."
+  publisher_name: પ્રથ 'ખોજ' ત્રૈમાસિકનો આ અંક 'આર્ઘ'ના 'પહેલ' કેન્દ (Initiative for
+    Open Society), ફતેગંજ વડોદરા વતી અંબરીષ મહેતાએ પ્રકાશિત કર્યો.
   place: વડોદરા (Vadodara)
   year: 2007
   edition: વર્ષ ૧, અંક ૧ (Year 1, Issue 1)
@@ -92,20 +102,56 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - civil-liberties
-  - rule-of-law
-  - education-policy
-  - free-trade
-  - property-rights
-  - religion-and-state
-  - social-reform
-  - public-life-and-ethics
-summary: |
-  ખોજ (Khoj) — 'જીવન એક અવિરત ખોજ-આવિષ્કાર' — is the inaugural issue (Year 1, Issue 1, January–February 2007) of a Gujarati liberal periodical published from Vadodara by the Initiative for Open Society (Pahel Kendra), edited by Ambarish Mehta with an editorial board of Trushi Parekh, Anil Patel, and Rajesh Mishra. In the rendered pages (pp. 1–20), the issue announces itself as a forum for civil-society inquiry into questions of freedom, governance, law, and education. The opening quotes from the Rig Veda and Xenophanes establish an epistemological humility that frames the entire enterprise: truth is sought, not declared. The editorial situates the issue around two focal concerns — the passage of the Forest Rights Act 2006 (Van Adhikar Kanoon) and the SEZ controversy — presented as test cases for whether India's liberal constitutional promises reach its most marginalised citizens. Letters from readers engage urban housing policy, zoning, city poverty, and judicial reform, giving the issue a lively public-correspondence character.
+- civil-liberties
+- rule-of-law
+- education-policy
+- free-trade
+- property-rights
+- religion-and-state
+- social-reform
+- public-life-and-ethics
+summary: 'ખોજ (Khoj) — ''જીવન એક અવિરત ખોજ-આવિષ્કાર'' — is the inaugural issue (Year
+  1, Issue 1, January–February 2007) of a Gujarati liberal periodical published from
+  Vadodara by the Initiative for Open Society (Pahel Kendra), edited by Ambarish Mehta
+  with an editorial board of Trushi Parekh, Anil Patel, and Rajesh Mishra. In the
+  rendered pages (pp. 1–20), the issue announces itself as a forum for civil-society
+  inquiry into questions of freedom, governance, law, and education. The opening quotes
+  from the Rig Veda and Xenophanes establish an epistemological humility that frames
+  the entire enterprise: truth is sought, not declared. The editorial situates the
+  issue around two focal concerns — the passage of the Forest Rights Act 2006 (Van
+  Adhikar Kanoon) and the SEZ controversy — presented as test cases for whether India''s
+  liberal constitutional promises reach its most marginalised citizens. Letters from
+  readers engage urban housing policy, zoning, city poverty, and judicial reform,
+  giving the issue a lively public-correspondence character.
 
-  Suresh Parikh ('The Teacher's Work — Not the Potter's, but the Midwife's') argues for a Socratic, facilitative model of teaching that draws out the student's innate capacity rather than moulding a passive recipient, and calls for value-based education. Kardam Modi (કર્દમ મોડી) follows with a philosophical essay on adolescent education that asks whether 'youth education' is a genitive or instrumental compound and argues that values emerge from intergenerational encounter rather than top-down transmission. Trushi Parekh (તૃષિ પારેખ) analyses the Supreme Court's January 2007 nine-judge ruling subjecting post-1973 Ninth Schedule laws to fundamental-rights review, and contributes a separate short celebratory note on civic-legal milestones. Ashwin Karia (અશ્વિન કારીઆ) documents corruption and unaccountable management in the Travancore Devaswom Board and the Sabarimala shrine, framing temple-trust governance as a rule-of-law issue. Rajesh Mishra's dialogic column 'From the Bottom…' (તળિયેથી…) reports encounters with Dalit, adivasi, and rural-poor activists at a Delhi 'Summit of Powerless'. Himanshi Shelat (હિમાંશી શેલત) writes an urgent advocacy piece on missing children and systemic indifference of police and child-welfare institutions in Gujarat. Dankesh Oza (ડંકેશ ઓઝા) uses Swami Sahajanand's Gujarat tour as a foil to critique today's media-driven public figures and sectarian intolerance. A short unsigned piece on page 20 (signed by editorial voice) takes up religious-veto censorship around the film Parzania. Further contributors listed in the masthead — Prof. K. V. Patel (પ્રો. કે.વી. પટેલ), Kirit Panvala (કિરીટ પાનવાલા), Sauvik Chakraverti, a Frédéric Bastiat translation (ફેડરિક બેસ્ટિયાટ), a Munshi Premchand piece (મુન્શી પ્રેમચંદ), and Matt Ridley — appear in pages beyond the rendered chunk.
+
+  Suresh Parikh (''The Teacher''s Work — Not the Potter''s, but the Midwife''s'')
+  argues for a Socratic, facilitative model of teaching that draws out the student''s
+  innate capacity rather than moulding a passive recipient, and calls for value-based
+  education. Kardam Modi (કર્દમ મોડી) follows with a philosophical essay on adolescent
+  education that asks whether ''youth education'' is a genitive or instrumental compound
+  and argues that values emerge from intergenerational encounter rather than top-down
+  transmission. Trushi Parekh (તૃષિ પારેખ) analyses the Supreme Court''s January 2007
+  nine-judge ruling subjecting post-1973 Ninth Schedule laws to fundamental-rights
+  review, and contributes a separate short celebratory note on civic-legal milestones.
+  Ashwin Karia (અશ્વિન કારીઆ) documents corruption and unaccountable management in
+  the Travancore Devaswom Board and the Sabarimala shrine, framing temple-trust governance
+  as a rule-of-law issue. Rajesh Mishra''s dialogic column ''From the Bottom…'' (તળિયેથી…)
+  reports encounters with Dalit, adivasi, and rural-poor activists at a Delhi ''Summit
+  of Powerless''. Himanshi Shelat (હિમાંશી શેલત) writes an urgent advocacy piece on
+  missing children and systemic indifference of police and child-welfare institutions
+  in Gujarat. Dankesh Oza (ડંકેશ ઓઝા) uses Swami Sahajanand''s Gujarat tour as a foil
+  to critique today''s media-driven public figures and sectarian intolerance. A short
+  unsigned piece on page 20 (signed by editorial voice) takes up religious-veto censorship
+  around the film Parzania. Further contributors listed in the masthead — Prof. K.
+  V. Patel (પ્રો. કે.વી. પટેલ), Kirit Panvala (કિરીટ પાનવાલા), Sauvik Chakraverti,
+  a Frédéric Bastiat translation (ફેડરિક બેસ્ટિયાટ), a Munshi Premchand piece (મુન્શી
+  પ્રેમચંદ), and Matt Ridley — appear in pages beyond the rendered chunk.
+
+  '
 needs_review: true
 draft: false
 ai:
@@ -118,9 +164,10 @@ physical:
   pages_total_source: pypdfium2
   format: periodical magazine, staple-bound, colour cover
 missing_metadata_flags:
-  - issn_not_found
-  - no_publisher_address_formal
+- issn_not_found
+- no_publisher_address_formal
 ---
+
 ## Summary
 
 ખોજ (Khoj) — 'જીવન એક અવિરત ખોજ-આવિષ્કાર' — is the inaugural issue (Year 1, Issue 1, January–February 2007) of a Gujarati liberal periodical published from Vadodara by the Initiative for Open Society (Pahel Kendra), edited by Ambarish Mehta with an editorial board of Trushi Parekh, Anil Patel, and Rajesh Mishra. In the rendered pages (pp. 1–20), the issue announces itself as a forum for civil-society inquiry into questions of freedom, governance, law, and education. The opening quotes from the Rig Veda and Xenophanes establish an epistemological humility that frames the entire enterprise: truth is sought, not declared. The editorial situates the issue around two focal concerns — the passage of the Forest Rights Act 2006 (Van Adhikar Kanoon) and the SEZ controversy — presented as test cases for whether India's liberal constitutional promises reach its most marginalised citizens. Letters from readers engage urban housing policy, zoning, city poverty, and judicial reform, giving the issue a lively public-correspondence character. The remaining articles in the rendered chunk cover education philosophy (two pieces), a Supreme Court ruling on the Ninth Schedule, temple-trust corruption in Kerala, a column on Dalit experience from the grassroots, society's treatment of children, lessons from public life drawn from Swami Sahajanand's Gujarat tour, and two short opinion pieces on religious intolerance — together composing a picture of a periodical committed to liberal constitutionalism, civil society watchfulness, and the interface between high policy and everyday injustice.

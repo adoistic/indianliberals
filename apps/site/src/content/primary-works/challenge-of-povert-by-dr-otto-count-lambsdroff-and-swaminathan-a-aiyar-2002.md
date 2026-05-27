@@ -2,31 +2,33 @@
 id: challenge-of-povert-by-dr-otto-count-lambsdroff-and-swaminathan-a-aiyar-2002
 title:
   main: The Challenge of Poverty
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - otto-lambsdorff
-  - swaminathan-a-aiyar
+- otto-lambsdorff
+- swaminathan-a-aiyar
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Dr. Otto Count Lambsdorff
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Swaminathan Anklesaria Aiyar
-    toc_index: 2
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - hernando-de-soto
-  - jagdish-bhagwati
-  - jawaharlal-nehru
-  - milton-friedman
-
+- role: author
+  toc_index: 1
+  thinker: otto-count-lambsdorff
+- role: author
+  toc_index: 2
+  thinker: swaminathan-anklesaria-aiyar
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- hernando-de-soto
+- jagdish-bhagwati
+- jawaharlal-nehru
+- milton-friedman
+- otto-lambsdorff
+- swaminathan-a-aiyar
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2002
@@ -38,21 +40,51 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - poverty
-  - globalisation
-  - liberalisation
-  - free-trade
-  - property-rights
-  - economic-development
-  - welfare-state
-summary: |-
-  This 2002 Forum of Free Enterprise booklet pairs two essays that mount a liberal case against welfare-bureaucracy and anti-globalisation responses to poverty. An editorial introduction by Minoo R. Shroff (FFE President, dated 31st October 2002) frames the volume in the context of the decade-long Indian debate on liberalisation and globalisation, and dedicates the work to FFE founder-president A. D. Shroff. The first essay, by German Free Democrat politician and former Federal Minister of Economics Otto Count Lambsdorff (then chairman of the Friedrich Naumann Stiftung), defends classical liberalism, private property rights, free trade and market-based delivery of services over transfer payments and welfare bureaucracies, leaning heavily on Hernando de Soto's argument that defective property rights are the principal cause of poverty in the global South; Lambsdorff also draws on the Fraser/FNF 'Economic Freedom of the World' index (originally masterminded by Milton Friedman) and Jagdish Bhagwati's defence of WTO-led liberalisation to argue that economic freedom correlates with growth, higher life expectancy, less corruption and lower income inequality.
+- poverty
+- globalisation
+- liberalisation
+- free-trade
+- property-rights
+- economic-development
+- welfare-state
+summary: 'This 2002 Forum of Free Enterprise booklet pairs two essays that mount a
+  liberal case against welfare-bureaucracy and anti-globalisation responses to poverty.
+  An editorial introduction by Minoo R. Shroff (FFE President, dated 31st October
+  2002) frames the volume in the context of the decade-long Indian debate on liberalisation
+  and globalisation, and dedicates the work to FFE founder-president A. D. Shroff.
+  The first essay, by German Free Democrat politician and former Federal Minister
+  of Economics Otto Count Lambsdorff (then chairman of the Friedrich Naumann Stiftung),
+  defends classical liberalism, private property rights, free trade and market-based
+  delivery of services over transfer payments and welfare bureaucracies, leaning heavily
+  on Hernando de Soto''s argument that defective property rights are the principal
+  cause of poverty in the global South; Lambsdorff also draws on the Fraser/FNF ''Economic
+  Freedom of the World'' index (originally masterminded by Milton Friedman) and Jagdish
+  Bhagwati''s defence of WTO-led liberalisation to argue that economic freedom correlates
+  with growth, higher life expectancy, less corruption and lower income inequality.
 
-  The second essay, by Swaminathan Anklesaria Aiyar (Consulting Editor, Economic Times), attacks the anti-globalisation narrative empirically. Conceding that incomes have plummeted in parts of the world since the Soviet collapse, Aiyar inverts the talking point: developing countries that seized the opportunities of globalisation (notably China and India, raising more than 350 million people above the poverty line in the 1990s) have outperformed those that did not, while Africa — which failed to integrate — has suffered the most; among ex-communist nations, Slovenia, Hungary and Estonia rebounded after integrating, while Uzbekistan, Kyrgyzstan, Belarus and Tajikistan, which remained state-dominated, fared worst. He distinguishes 'real' globalisation (policies, institutions, infrastructure and education that let ordinary people participate in the world economy) from a façade of open trade captured by elites (Mobutu's Zaire, post-Soviet Russia), and reads post-colonial autarky — Nehruvian self-sufficiency, central planning, one-party rule — as a category error that conflated 19th-century colonialism with 20th-century economic integration, indicting the collapse of India's world-trade share from 2.5% at independence to 0.4% by 1985 against the counter-example of Singapore and Taiwan.
 
-  Both pieces were originally reproduced from the journal Liberal Times (issue 2/02).
+  The second essay, by Swaminathan Anklesaria Aiyar (Consulting Editor, Economic Times),
+  attacks the anti-globalisation narrative empirically. Conceding that incomes have
+  plummeted in parts of the world since the Soviet collapse, Aiyar inverts the talking
+  point: developing countries that seized the opportunities of globalisation (notably
+  China and India, raising more than 350 million people above the poverty line in
+  the 1990s) have outperformed those that did not, while Africa — which failed to
+  integrate — has suffered the most; among ex-communist nations, Slovenia, Hungary
+  and Estonia rebounded after integrating, while Uzbekistan, Kyrgyzstan, Belarus and
+  Tajikistan, which remained state-dominated, fared worst. He distinguishes ''real''
+  globalisation (policies, institutions, infrastructure and education that let ordinary
+  people participate in the world economy) from a façade of open trade captured by
+  elites (Mobutu''s Zaire, post-Soviet Russia), and reads post-colonial autarky —
+  Nehruvian self-sufficiency, central planning, one-party rule — as a category error
+  that conflated 19th-century colonialism with 20th-century economic integration,
+  indicting the collapse of India''s world-trade share from 2.5% at independence to
+  0.4% by 1985 against the counter-example of Singapore and Taiwan.
+
+
+  Both pieces were originally reproduced from the journal Liberal Times (issue 2/02).'
 needs_review: false
 draft: false
 ai:
@@ -66,50 +98,76 @@ physical:
   pages_total_source: pypdfium2
   format: Stapled FFE booklet/pamphlet, soft green cover with FFE emblem; small octavo.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
-  - no_isbn
+- editor_not_named
+- no_formal_toc
+- no_isbn
 thinker_mentions:
-  - thinker: milton-friedman
-    role: mention
-    reasoning: "Lambsdorff cites the 'Economic Freedom of the World' index as originally masterminded by Milton Friedman to provide empirical evidence that economic freedom correlates with growth, lower corruption and higher life expectancy."
-    evidence:
-      - quote: "drawing on the Fraser/FNF 'Economic Freedom of the World' index (originally masterminded by Milton Friedman) and Jagdish Bhagwati's defence of WTO-led liberalisation, Lambsdorff argues that economic freedom correlates with growth, higher life expectancy, less corruption and lower income inequality"
-        context: "Friedman's intellectual authorship of the EFW index is cited as empirical ballast for the classical-liberal case against poverty"
-    key_passages: []
-  - thinker: jagdish-bhagwati
-    role: mention
-    reasoning: "Lambsdorff pairs Bhagwati's defence of WTO-led liberalisation with the Economic Freedom index data to argue that openness to trade reduces poverty and increases growth."
-    evidence:
-      - quote: "Jagdish Bhagwati's defence of WTO-led liberalisation, Lambsdorff argues that economic freedom correlates with growth, higher life expectancy, less corruption and lower income inequality"
-        context: "Bhagwati cited as a liberal trade authority supporting the pamphlet's anti-poverty argument"
-    key_passages: []
-  - thinker: hernando-de-soto
-    role: mention
-    reasoning: "De Soto's argument that defective property rights trap the poor is the pivotal theoretical claim in Lambsdorff's essay, used to recast property rights as an instrument of poverty alleviation rather than merely a safeguard of existing wealth."
-    evidence:
-      - quote: "leaning heavily on Hernando de Soto's argument that defective property rights are the principal cause of poverty in the global South"
-        context: "De Soto's thesis is Lambsdorff's central analytical anchor for the property-rights solution to poverty"
-      - quote: Hernando de Soto, he contends that the poor in the South already control assets (huts, plots, slum housing) but lack the legal instruments to transform them into capital
-        context: "the 'dead capital' argument is the operational policy prescription flowing from de Soto's framework"
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Aiyar names Nehru as the progenitor of the post-colonial autarky policy — equating globalisation with imperialism — whose legacy of self-sufficiency and socialism caused India's share of world trade to collapse from 2.5% to 0.4%."
-    evidence:
-      - quote: leaders such as Nehru equated globalisation with 19th-century imperialism, opted for self-sufficiency, socialism and one-party rule, and produced over a hundred weak, aid-dependent states
-        context: Nehru is the named exemplar of the post-colonial error that autarky equates with liberation
-      - quote: "India's share of world trade fell from 2.5 percent at independence to 0.4 percent by 1985 while Singapore and Taiwan, derided as neo-colonial puppets, grew rich"
-        context: the empirical indictment of Nehruvian self-sufficiency
-    key_passages: []
+- thinker: milton-friedman
+  role: mention
+  reasoning: Lambsdorff cites the 'Economic Freedom of the World' index as originally
+    masterminded by Milton Friedman to provide empirical evidence that economic freedom
+    correlates with growth, lower corruption and higher life expectancy.
+  evidence:
+  - quote: drawing on the Fraser/FNF 'Economic Freedom of the World' index (originally
+      masterminded by Milton Friedman) and Jagdish Bhagwati's defence of WTO-led liberalisation,
+      Lambsdorff argues that economic freedom correlates with growth, higher life
+      expectancy, less corruption and lower income inequality
+    context: Friedman's intellectual authorship of the EFW index is cited as empirical
+      ballast for the classical-liberal case against poverty
+  key_passages: []
+- thinker: jagdish-bhagwati
+  role: mention
+  reasoning: Lambsdorff pairs Bhagwati's defence of WTO-led liberalisation with the
+    Economic Freedom index data to argue that openness to trade reduces poverty and
+    increases growth.
+  evidence:
+  - quote: Jagdish Bhagwati's defence of WTO-led liberalisation, Lambsdorff argues
+      that economic freedom correlates with growth, higher life expectancy, less corruption
+      and lower income inequality
+    context: Bhagwati cited as a liberal trade authority supporting the pamphlet's
+      anti-poverty argument
+  key_passages: []
+- thinker: hernando-de-soto
+  role: mention
+  reasoning: De Soto's argument that defective property rights trap the poor is the
+    pivotal theoretical claim in Lambsdorff's essay, used to recast property rights
+    as an instrument of poverty alleviation rather than merely a safeguard of existing
+    wealth.
+  evidence:
+  - quote: leaning heavily on Hernando de Soto's argument that defective property
+      rights are the principal cause of poverty in the global South
+    context: De Soto's thesis is Lambsdorff's central analytical anchor for the property-rights
+      solution to poverty
+  - quote: Hernando de Soto, he contends that the poor in the South already control
+      assets (huts, plots, slum housing) but lack the legal instruments to transform
+      them into capital
+    context: the 'dead capital' argument is the operational policy prescription flowing
+      from de Soto's framework
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Aiyar names Nehru as the progenitor of the post-colonial autarky policy
+    — equating globalisation with imperialism — whose legacy of self-sufficiency and
+    socialism caused India's share of world trade to collapse from 2.5% to 0.4%.
+  evidence:
+  - quote: leaders such as Nehru equated globalisation with 19th-century imperialism,
+      opted for self-sufficiency, socialism and one-party rule, and produced over
+      a hundred weak, aid-dependent states
+    context: Nehru is the named exemplar of the post-colonial error that autarky equates
+      with liberation
+  - quote: India's share of world trade fell from 2.5 percent at independence to 0.4
+      percent by 1985 while Singapore and Taiwan, derided as neo-colonial puppets,
+      grew rich
+    context: the empirical indictment of Nehruvian self-sufficiency
+  key_passages: []
 authors_resolution:
   confidence: high
   method: llm
   proposed_unknowns:
-    - Swaminathan A. Aiyar
+  - Swaminathan A. Aiyar
   stubs_created: []
   stubs_referenced:
-    - swaminathan-a-aiyar
+  - swaminathan-a-aiyar
   collisions_logged: []
 ---
 

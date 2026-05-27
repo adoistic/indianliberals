@@ -1,20 +1,18 @@
 ---
 id: growthmanship-fact-or-fallacy-colin-clark-jul11-1965
 title:
-  main: "\"Growthmanship\": Fact and Fallacy"
-  subtitle: ""
+  main: '"Growthmanship": Fact and Fallacy'
+  subtitle: ''
 work_type: essay
 authors: []
 editors: []
 contributors:
-  - role: introduction
-    thinker: a-d-shroff
-  - role: author
-    thinker_unresolved: COLIN CLARK
-    toc_index: 1
-related_thinkers:
-  - adam-smith
-  - jawaharlal-nehru
+- role: introduction
+  thinker: a-d-shroff
+- role: author
+  toc_index: 1
+  thinker: colin-clark
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -30,14 +28,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-growth
-  - free-enterprise
-  - development-economics
-  - capital-formation
-  - economic-planning
-summary: "\"Growthmanship\": Fact and Fallacy is Colin Clark's 1965 essay, reprinted from the January 1965 issue of The Intercollegiate Review and issued by Bombay's Forum of Free Enterprise as a 26-page booklet (Booklet No. 206, dated 11 July 1965) with an introduction by FFE President A. D. Shroff. Clark, then Director of Oxford's Agricultural Economics Research Institute, coins the term \"growthmanship\" to describe an excessive preoccupation with economic growth, the advocacy of unduly simple proposals for obtaining it, and the selective use of statistics to flatter one's preferred political and economic system at the expense of one's opponents.\n\nThe core argument is that the post-war growth models of Sir Roy Harrod, Evsey Domar and Walt Whitman Rostow over-credit capital and under-credit human factors.…"
+- economic-growth
+- free-enterprise
+- development-economics
+- capital-formation
+- economic-planning
+summary: '"Growthmanship": Fact and Fallacy is Colin Clark''s 1965 essay, reprinted
+  from the January 1965 issue of The Intercollegiate Review and issued by Bombay''s
+  Forum of Free Enterprise as a 26-page booklet (Booklet No. 206, dated 11 July 1965)
+  with an introduction by FFE President A. D. Shroff. Clark, then Director of Oxford''s
+  Agricultural Economics Research Institute, coins the term "growthmanship" to describe
+  an excessive preoccupation with economic growth, the advocacy of unduly simple proposals
+  for obtaining it, and the selective use of statistics to flatter one''s preferred
+  political and economic system at the expense of one''s opponents.
+
+
+  The core argument is that the post-war growth models of Sir Roy Harrod, Evsey Domar
+  and Walt Whitman Rostow over-credit capital and under-credit human factors.…'
 needs_review: true
 draft: false
 ai:
@@ -48,10 +58,11 @@ physical:
   pages_rendered: 16
   pages_total: 16
   pages_total_source: pypdfium2
-  format: FFE booklet/pamphlet; printed body paginated through p. 26; reprint of essay originally in The Intercollegiate Review (Jan 1965)
+  format: FFE booklet/pamphlet; printed body paginated through p. 26; reprint of essay
+    originally in The Intercollegiate Review (Jan 1965)
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
+- no_formal_toc
+- no_isbn
 ---
 
 # "Growthmanship": Fact and Fallacy

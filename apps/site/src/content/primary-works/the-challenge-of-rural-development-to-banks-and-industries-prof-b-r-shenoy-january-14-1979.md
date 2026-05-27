@@ -2,24 +2,27 @@
 id: the-challenge-of-rural-development-to-banks-and-industries-prof-b-r-shenoy-january-14-1979
 title:
   main: The Basic Truth About Inflation
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - b-r-shenoy
+- b-r-shenoy
 editors: []
 contributors:
-  - role: author
-    thinker: b-r-shenoy
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Henry Hazlitt
-    toc_index: 2
+- role: author
+  thinker: b-r-shenoy
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: henry-hazlitt
 related_thinkers:
-  - jrd-tata
+- b-r-shenoy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Forum of Free Enterprise, Piramal Mansion, 235 Dr. D. N. Road, Bombay 400 001. Published by M. R. PAI for the Forum of Free Enterprise, 'Piramal Mansion', 235 Dr. Dadabhai Naoroji Road, Bombay-1. and printed by B. D. Nadirshaw at Bombay Chronicle Press, Sayed Abdulla Brelvi Road. Fort. Bombay-1"
+  publisher_name: Forum of Free Enterprise, Piramal Mansion, 235 Dr. D. N. Road, Bombay
+    400 001. Published by M. R. PAI for the Forum of Free Enterprise, 'Piramal Mansion',
+    235 Dr. Dadabhai Naoroji Road, Bombay-1. and printed by B. D. Nadirshaw at Bombay
+    Chronicle Press, Sayed Abdulla Brelvi Road. Fort. Bombay-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1977
@@ -30,13 +33,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - monetary-policy
-  - inflation
-  - macroeconomics
-  - free-enterprise
-summary: "This Forum of Free Enterprise pamphlet — published in Bombay on 14 April 1977 under the title 'The Basic Truth About Inflation' — pairs two essays to argue that inflation in any country is fundamentally a monetary phenomenon driven by government budget deficits, not an accidental price disturbance amenable to administrative controls. Part I, 'Controlling Inflation in India' by Prof. B. R. Shenoy, dismantles the Indira Gandhi government's claim (echoed by the IMF, the World Bank, and J. R. D. Tata) that India had 'reversed inflation', tracing the post-1955 expansion of money supply and the temporary 1975–76 price decline to deficit-financed Reserve Bank credit and police-led hoarding raids rather than any genuine monetary discipline. Part II, '40-Year Inflation in U.S.A.' by Henry Hazlitt (reproduced from The Freeman of October 1976), shows that American consumer prices have been driven by a 119 per cent increase in the M-2 money stock since 1967, with data tables stretching back to 1940 and 1933 — and warns that the cumulative monetary build-up is 'a potential time bomb'.…"
+- monetary-policy
+- inflation
+- macroeconomics
+- free-enterprise
+summary: This Forum of Free Enterprise pamphlet — published in Bombay on 14 April
+  1977 under the title 'The Basic Truth About Inflation' — pairs two essays to argue
+  that inflation in any country is fundamentally a monetary phenomenon driven by government
+  budget deficits, not an accidental price disturbance amenable to administrative
+  controls. Part I, 'Controlling Inflation in India' by Prof. B. R. Shenoy, dismantles
+  the Indira Gandhi government's claim (echoed by the IMF, the World Bank, and J.
+  R. D. Tata) that India had 'reversed inflation', tracing the post-1955 expansion
+  of money supply and the temporary 1975–76 price decline to deficit-financed Reserve
+  Bank credit and police-led hoarding raids rather than any genuine monetary discipline.
+  Part II, '40-Year Inflation in U.S.A.' by Henry Hazlitt (reproduced from The Freeman
+  of October 1976), shows that American consumer prices have been driven by a 119
+  per cent increase in the M-2 money stock since 1967, with data tables stretching
+  back to 1940 and 1933 — and warns that the cumulative monetary build-up is 'a potential
+  time bomb'.…
 needs_review: true
 draft: false
 ai:
@@ -48,11 +65,12 @@ physical:
   pages_rendered: 11
   pages_total: 11
   pages_total_source: pypdfium2
-  format: Forum of Free Enterprise pamphlet booklet (soft cover, ~16 pp.) bundling two reprinted articles on inflation
+  format: Forum of Free Enterprise pamphlet booklet (soft cover, ~16 pp.) bundling
+    two reprinted articles on inflation
 missing_metadata_flags:
-  - no_formal_toc
-  - editor_not_named
-  - filename_metadata_mismatch
+- no_formal_toc
+- editor_not_named
+- filename_metadata_mismatch
 ---
 
 # The Basic Truth About Inflation

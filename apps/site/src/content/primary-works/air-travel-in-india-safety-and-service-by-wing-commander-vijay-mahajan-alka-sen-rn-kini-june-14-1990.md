@@ -2,26 +2,29 @@
 id: air-travel-in-india-safety-and-service-by-wing-commander-vijay-mahajan-alka-sen-rn-kini-june-14-1990
 title:
   main: AIR TRAVEL IN INDIA — SAFETY AND SERVICE
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - vijay-mahajan-aviation
+- vijay-mahajan-aviation
 editors: []
 contributors:
-  - role: author
-    thinker: vijay-mahajan-aviation
-    toc_index: 1
-  - role: author
-    thinker_unresolved: ALKA SEN
-    toc_index: 2
-  - role: author
-    thinker_unresolved: R. N. KINI
-    toc_index: 3
-related_thinkers: []
+- role: author
+  thinker: vijay-mahajan-aviation
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: alka-sen
+- role: author
+  toc_index: 3
+  thinker: r-n-kini
+related_thinkers:
+- vijay-mahajan-aviation
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 400001, and Printed by S. V. Limaye at India Printing Works, 9, Nagindas Master Road Ext. 1, Fort, Bombay 400023.
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 400001, and Printed by S. V. Limaye at India Printing
+    Works, 9, Nagindas Master Road Ext. 1, Fort, Bombay 400023.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1990
@@ -33,13 +36,41 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - privatisation
-  - free-enterprise
-  - public-sector-reform
-summary: |-
-  This Forum of Free Enterprise booklet, dated 14 June 1990, gathers three talks delivered at a public meeting in Bombay on 13th March 1990, in the shadow of the Indian Airlines A-320 crash at Bangalore the previous month. Wing Commander Vijay Mahajan, a former Indian Air Force officer with over 6,000 flying hours, argues that India lacks a national aviation policy, that political and bureaucratic meddling has corroded the airlines' selection, training and route-planning, and that the country's airports, navigational aids and air traffic control are unfit for the traffic that the 1990s will bring; he ends with three reform options — autonomy, deregulation or privatisation — and defends privatisation by comparing British Airways, Lufthansa, KLM, Quantas and Singapore Airlines with their state-owned Indian counterparts. Aviation journalist Alka Sen, editor of Indian Aviation - Civil and Military, locates the problem in indiscipline among employees and in government neglect of infrastructure and senior appointments, endorsing the National Transport Safety Board's tougher pilot-rating procedures and Cockpit Voice Recorder checks, calling for serious follow-through on the Ramdas Committee Report on A320 induction, and praising Civil Aviation Minister Arif Mohammed Khan for treating discipline as a 'non-negotiable issue' while faulting the government for leaving DGCA, IAAI, Indian Airlines and Vayudoot top posts unfilled and for stalling the Rs. 300 crore Bombay-Delhi airport modernisation programme. R. N. Kini, General Manager of Voltas Systems Ltd. and a survivor of the Indian Airlines A-320 crash at Bangalore on 14 February 1990, contributes a short address that distils his experience into 'Ten Commandments' for passengers — fasten seatbelts, learn the emergency-exit literature, listen to the safety briefing, leave hand baggage behind, run from the wreck without looking back, report medical history at hospital — insisting that a crash 'is not the time for decision-making on a participative basis' and recording public appreciation for the air hostesses' presence of mind and for the Bangalore hospital and Indian Airlines staff who attended the injured. The argumentative centre of the volume is a Forum-house case for retreat of the state from civil aviation, with the Tata Commission's recommendations, the booklet repeatedly notes, having been 'consigned to the dustbin' by the bureaucracy.
+- privatisation
+- free-enterprise
+- public-sector-reform
+summary: This Forum of Free Enterprise booklet, dated 14 June 1990, gathers three
+  talks delivered at a public meeting in Bombay on 13th March 1990, in the shadow
+  of the Indian Airlines A-320 crash at Bangalore the previous month. Wing Commander
+  Vijay Mahajan, a former Indian Air Force officer with over 6,000 flying hours, argues
+  that India lacks a national aviation policy, that political and bureaucratic meddling
+  has corroded the airlines' selection, training and route-planning, and that the
+  country's airports, navigational aids and air traffic control are unfit for the
+  traffic that the 1990s will bring; he ends with three reform options — autonomy,
+  deregulation or privatisation — and defends privatisation by comparing British Airways,
+  Lufthansa, KLM, Quantas and Singapore Airlines with their state-owned Indian counterparts.
+  Aviation journalist Alka Sen, editor of Indian Aviation - Civil and Military, locates
+  the problem in indiscipline among employees and in government neglect of infrastructure
+  and senior appointments, endorsing the National Transport Safety Board's tougher
+  pilot-rating procedures and Cockpit Voice Recorder checks, calling for serious follow-through
+  on the Ramdas Committee Report on A320 induction, and praising Civil Aviation Minister
+  Arif Mohammed Khan for treating discipline as a 'non-negotiable issue' while faulting
+  the government for leaving DGCA, IAAI, Indian Airlines and Vayudoot top posts unfilled
+  and for stalling the Rs. 300 crore Bombay-Delhi airport modernisation programme.
+  R. N. Kini, General Manager of Voltas Systems Ltd. and a survivor of the Indian
+  Airlines A-320 crash at Bangalore on 14 February 1990, contributes a short address
+  that distils his experience into 'Ten Commandments' for passengers — fasten seatbelts,
+  learn the emergency-exit literature, listen to the safety briefing, leave hand baggage
+  behind, run from the wreck without looking back, report medical history at hospital
+  — insisting that a crash 'is not the time for decision-making on a participative
+  basis' and recording public appreciation for the air hostesses' presence of mind
+  and for the Bangalore hospital and Indian Airlines staff who attended the injured.
+  The argumentative centre of the volume is a Forum-house case for retreat of the
+  state from civil aviation, with the Tata Commission's recommendations, the booklet
+  repeatedly notes, having been 'consigned to the dustbin' by the bureaucracy.
 needs_review: true
 draft: false
 ai:
@@ -53,10 +84,11 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet/booklet, orange wrappers; FFE publication. Colophon dated 14/June/1990.
 missing_metadata_flags:
-  - no_formal_toc
-  - editor_not_named
-  - section_titles_not_explicit_for_sections_II_and_III
+- no_formal_toc
+- editor_not_named
+- section_titles_not_explicit_for_sections_II_and_III
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet, dated 14 June 1990, gathers three talks delivered at a public meeting in Bombay on 13th March 1990, in the shadow of the Indian Airlines A-320 crash at Bangalore the previous month. Wing Commander Vijay Mahajan, a former Indian Air Force officer with over 6,000 flying hours, argues that India lacks a national aviation policy, that political and bureaucratic meddling has corroded the airlines' selection, training and route-planning, and that the country's airports, navigational aids and air traffic control are unfit for the traffic that the 1990s will bring. Aviation journalist Alka Sen, editor of Indian Aviation - Civil and Military, locates the problem in indiscipline among employees and in government neglect of infrastructure and senior appointments. R. N. Kini, a survivor of the Bangalore A-320 crash, distils his experience into ten commandments for passengers.

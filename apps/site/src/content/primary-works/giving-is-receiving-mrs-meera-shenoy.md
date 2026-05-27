@@ -2,22 +2,19 @@
 id: giving-is-receiving-mrs-meera-shenoy
 title:
   main: Giving is Receiving
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker_unresolved: Mrs. Meera Shenoy
-    toc_index: 2
-  - role: editor
-    thinker: sunil-bhandare
-    toc_index: 1
-related_thinkers:
-  - a-d-shroff
-  - b-r-shenoy
-  - mahatma-gandhi
+- role: author
+  toc_index: 2
+  thinker: meera-shenoy
+- role: editor
+  thinker: sunil-bhandare
+  toc_index: 1
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -31,14 +28,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - civil-society
-  - social-reform
-  - education
-  - economic-development
-  - free-enterprise
-summary: "Giving is Receiving is the printed text of the 30th Bhogilal Leherchand Memorial Lecture, delivered by Meera Shenoy in Mumbai on 5 December 2018 under the auspices of the Bhogilal Leherchand Foundation, the Forum of Free Enterprise, and the A. D. Shroff Memorial Trust. After an editorial introduction by Sunil S. Bhandare framing Shenoy's work against India's paradox of \"jobless growth\" and an unmet \"demographic dividend,\" Shenoy uses the lecture to recount how, after a decade of skilling rural youth, she founded Youth4Jobs to train youth with disabilities and link them to formal-sector employment.\n\nShenoy threads the talk with concrete vignettes — parents in villages who first dismissed the idea of jobs for \"useless children,\" companies that initially asked for trainees who \"look like you and me,\" and entrepreneurs such as Arvind (a wheelchair-using CEO) and former Yum India president Niren Choudhary, who hired speech- and hearing-impaired staff at KFC.…"
+- civil-society
+- social-reform
+- education
+- economic-development
+- free-enterprise
+summary: 'Giving is Receiving is the printed text of the 30th Bhogilal Leherchand
+  Memorial Lecture, delivered by Meera Shenoy in Mumbai on 5 December 2018 under the
+  auspices of the Bhogilal Leherchand Foundation, the Forum of Free Enterprise, and
+  the A. D. Shroff Memorial Trust. After an editorial introduction by Sunil S. Bhandare
+  framing Shenoy''s work against India''s paradox of "jobless growth" and an unmet
+  "demographic dividend," Shenoy uses the lecture to recount how, after a decade of
+  skilling rural youth, she founded Youth4Jobs to train youth with disabilities and
+  link them to formal-sector employment.
+
+
+  Shenoy threads the talk with concrete vignettes — parents in villages who first
+  dismissed the idea of jobs for "useless children," companies that initially asked
+  for trainees who "look like you and me," and entrepreneurs such as Arvind (a wheelchair-using
+  CEO) and former Yum India president Niren Choudhary, who hired speech- and hearing-impaired
+  staff at KFC.…'
 needs_review: true
 draft: false
 ai:
@@ -52,11 +64,11 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet / booklet (saddle-stitched, green soft cover with FFE logo)
 missing_metadata_flags:
-  - no_formal_toc
-  - no_visible_publication_year
-  - no_visible_publisher_address
-  - no_visible_isbn
-  - no_colophon_in_chunk
+- no_formal_toc
+- no_visible_publication_year
+- no_visible_publisher_address
+- no_visible_isbn
+- no_colophon_in_chunk
 ---
 
 # Giving is Receiving

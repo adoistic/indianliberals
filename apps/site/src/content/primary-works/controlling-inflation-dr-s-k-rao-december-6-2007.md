@@ -2,27 +2,30 @@
 id: controlling-inflation-dr-s-k-rao-december-6-2007
 title:
   main: Controlling Inflation
-  subtitle: ""
+  subtitle: ''
 work_type: pamphlet
 authors:
-  - s-r-k-rao
+- s-r-k-rao
 editors: []
 contributors:
-  - role: author
-    thinker: s-r-k-rao
-    toc_index: 1
-  - role: author
-    thinker_unresolved: S.S. BHANDARE
-    toc_index: 2
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - minoo-shroff
-
+- role: author
+  thinker: s-r-k-rao
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: s-s-bhandare
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- minoo-shroff
+- s-r-k-rao
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by S.S. Bhandare for Forum of Free Enterprise, \"Peninsula House\", 235, Dr. D.N. Road, Mumbai 400 001, and printed at Vijay Printing Press, 9-10, 3rd Floor, Mahalaxmi Industrial Estate, Gandhi Nagar, Lower Parel, Mumbai 400 013."
+  publisher_name: Published by S.S. Bhandare for Forum of Free Enterprise, "Peninsula
+    House", 235, Dr. D.N. Road, Mumbai 400 001, and printed at Vijay Printing Press,
+    9-10, 3rd Floor, Mahalaxmi Industrial Estate, Gandhi Nagar, Lower Parel, Mumbai
+    400 013.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2007
@@ -34,17 +37,53 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - monetary-policy
-  - fiscal-policy
-summary: |-
-  Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 2007) that pairs two addresses on India's mid-2000s inflation against the backdrop of surging food and crude oil prices and the Reserve Bank of India's tightening cycle. Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise and propose pragmatic remedies in monetary, fiscal and supply-side policy, with particular emphasis on the credibility gap between the official Wholesale Price Index and the inflation that 'common man' households actually experience.
+- economic-policy
+- monetary-policy
+- fiscal-policy
+summary: 'Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December
+  2007) that pairs two addresses on India''s mid-2000s inflation against the backdrop
+  of surging food and crude oil prices and the Reserve Bank of India''s tightening
+  cycle. Minoo R. Shroff''s introduction (Mumbai, 16 November 2007) frames the booklet
+  as a contribution by two ''eminently qualified'' authors who diagnose the causes
+  of price rise and propose pragmatic remedies in monetary, fiscal and supply-side
+  policy, with particular emphasis on the credibility gap between the official Wholesale
+  Price Index and the inflation that ''common man'' households actually experience.
 
-  The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of India), reworks a 4 June 2007 talk delivered at an Economics Research Centre (ERC) seminar held jointly with the Forum and the Indian Liberal Group in Mumbai. Rao argues that India alone among large economies measures headline inflation through the Wholesale Price Index — a commodity index that ignores services, housing, transport, education and the unorganised sector — and lays the blame for the credibility gap at the door of 'FOG — Failure of Governance', tracing the diagnosis through four causes: commodity-price hardening, supply-demand mismatch in foodgrains, the 'Dilemma of Capital Inflows' from foreign-exchange and FII money (much of it 'hot'), and rising off-balance-sheet public expenditure that threatens FRBM Act 2003 targets. His concrete proposals include an Agricultural Debt Redemption Corporation refinancing small farmers via 10–15-year produce bonds, a stronger public distribution system, vigilance over speculative inflows and strict adherence to the FRBM Act, closing with the line that monetary policy alone cannot curb inflation — fiscal restraint and political pragmatism must work in tandem.
 
-  The second essay, by S.S. Bhandare (formerly Economic Adviser to Tatas), reprints a 29 July 2007 article from MEDC's Monthly News Digest assessing whether the moderation of WPI inflation from 6.7% in February 2007 to 4.3% by end-June 2007 is sustainable. Bhandare shows long-term WPI inflation falling structurally from 10.6% (1991–96) to 4.9% (2001–07) thanks to deregulation, liberalised imports and CENVAT/State VAT rationalisation, but warns that the wholesale figure diverges sharply from CPIs for industrial workers, agricultural labour and the urban middle class (all near 8%) — so the 'common man' still feels inflation 'is still high, and hurting them the most'. He identifies five sustainability risks (liquidity overhang from M3 growth, surging crude prices, basic-industry capacity constraints, infrastructure bottlenecks, and a manpower-driven 'wage push' in services) and outlines a five-pronged strategy — the next agricultural revolution, energy security, infrastructure modernisation, manpower capacity-building and good fiscal governance — concluding soberly that 'the battle against inflation is far from over'.
+  The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of
+  India), reworks a 4 June 2007 talk delivered at an Economics Research Centre (ERC)
+  seminar held jointly with the Forum and the Indian Liberal Group in Mumbai. Rao
+  argues that India alone among large economies measures headline inflation through
+  the Wholesale Price Index — a commodity index that ignores services, housing, transport,
+  education and the unorganised sector — and lays the blame for the credibility gap
+  at the door of ''FOG — Failure of Governance'', tracing the diagnosis through four
+  causes: commodity-price hardening, supply-demand mismatch in foodgrains, the ''Dilemma
+  of Capital Inflows'' from foreign-exchange and FII money (much of it ''hot''), and
+  rising off-balance-sheet public expenditure that threatens FRBM Act 2003 targets.
+  His concrete proposals include an Agricultural Debt Redemption Corporation refinancing
+  small farmers via 10–15-year produce bonds, a stronger public distribution system,
+  vigilance over speculative inflows and strict adherence to the FRBM Act, closing
+  with the line that monetary policy alone cannot curb inflation — fiscal restraint
+  and political pragmatism must work in tandem.
+
+
+  The second essay, by S.S. Bhandare (formerly Economic Adviser to Tatas), reprints
+  a 29 July 2007 article from MEDC''s Monthly News Digest assessing whether the moderation
+  of WPI inflation from 6.7% in February 2007 to 4.3% by end-June 2007 is sustainable.
+  Bhandare shows long-term WPI inflation falling structurally from 10.6% (1991–96)
+  to 4.9% (2001–07) thanks to deregulation, liberalised imports and CENVAT/State VAT
+  rationalisation, but warns that the wholesale figure diverges sharply from CPIs
+  for industrial workers, agricultural labour and the urban middle class (all near
+  8%) — so the ''common man'' still feels inflation ''is still high, and hurting them
+  the most''. He identifies five sustainability risks (liquidity overhang from M3
+  growth, surging crude prices, basic-industry capacity constraints, infrastructure
+  bottlenecks, and a manpower-driven ''wage push'' in services) and outlines a five-pronged
+  strategy — the next agricultural revolution, energy security, infrastructure modernisation,
+  manpower capacity-building and good fiscal governance — concluding soberly that
+  ''the battle against inflation is far from over''.'
 needs_review: true
 draft: false
 ai:
@@ -55,20 +94,26 @@ physical:
   pages_rendered: 17
   pages_total: 17
   pages_total_source: pypdfium2
-  format: FFE pamphlet/booklet; 28 printed book pages (rasterised as 17 PDF spreads, two book pages per PDF page); saddle-stitched, green/white card cover.
+  format: FFE pamphlet/booklet; 28 printed book pages (rasterised as 17 PDF spreads,
+    two book pages per PDF page); saddle-stitched, green/white card cover.
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
+- no_formal_toc_page
+- editor_not_named
 thinker_mentions:
-  - thinker: minoo-shroff
-    role: mention
-    reasoning: "Minoo R. Shroff, as Forum of Free Enterprise president, contributes the introduction to this booklet, framing the two essays and their authors within the Forum's tradition of economic commentary."
-    evidence:
-      - quote: "Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise"
-        context: "Shroff's editorial introduction situates the essays within the Forum's long-standing engagement with economic policy"
-    key_passages: []
-
+- thinker: minoo-shroff
+  role: mention
+  reasoning: Minoo R. Shroff, as Forum of Free Enterprise president, contributes the
+    introduction to this booklet, framing the two essays and their authors within
+    the Forum's tradition of economic commentary.
+  evidence:
+  - quote: Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet
+      as a contribution by two 'eminently qualified' authors who diagnose the causes
+      of price rise
+    context: Shroff's editorial introduction situates the essays within the Forum's
+      long-standing engagement with economic policy
+  key_passages: []
 ---
+
 ## Summary
 
 Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 2007) that pairs two addresses on India's mid-2000s inflation against the backdrop of surging food and crude oil prices and the Reserve Bank of India's tightening cycle. Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise and propose pragmatic remedies in monetary, fiscal and supply-side policy, with particular emphasis on the credibility gap between the official Wholesale Price Index and the inflation that 'common man' households actually experience. The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of India), reworks a 4 June 2007 talk delivered at an Economics Research Centre (ERC) seminar held jointly with the Forum and the Indian Liberal Group in Mumbai; it lays the blame for India's inflation at the door of 'FOG — Failure of Governance'. The second, by S.S. Bhandare (formerly Economic Adviser to Tatas), reprints a 29 July 2007 article from MEDC's Monthly News Digest that assesses whether the moderation of WPI inflation from 6.7% in February 2007 to 4.3% by end-June 2007 is sustainable, and outlines a five-point strategy — agricultural revolution, energy security, infrastructure, manpower capacity, and fiscal governance — to consolidate that gain.

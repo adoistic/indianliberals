@@ -2,28 +2,29 @@
 id: approach-to-the-fourth-five-year-plan-dr-r-c-cooper-s-m-dahanukar-y-a-fazalbhoy-november-10-1968
 title:
   main: Approach to the Fourth Five-Year Plan
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - r-c-cooper
-  - s-m-dahanukar
+- r-c-cooper
+- s-m-dahanukar
 editors: []
 contributors:
-  - role: author
-    thinker: r-c-cooper
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Y. A. Fazalbhoy
-    toc_index: 2
-  - role: author
-    thinker: s-m-dahanukar
-    toc_index: 3
-related_thinkers: 
-  - a-d-shroff
-  - b-r-shenoy
-  - nani-palkhivala
-  - peter-bauer
-
+- role: author
+  thinker: r-c-cooper
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: y-a-fazalbhoy
+- role: author
+  thinker: s-m-dahanukar
+  toc_index: 3
+related_thinkers:
+- a-d-shroff
+- b-r-shenoy
+- nani-palkhivala
+- peter-bauer
+- r-c-cooper
+- s-m-dahanukar
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -39,13 +40,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-planning
-  - economic-policy
-  - free-enterprise
-  - mixed-economy
-summary: "Published by the Forum of Free Enterprise on 10 November 1968 to coincide with the Planning Commission's circulation of its 'Approach to the Fourth Five-Year Plan' note, this pamphlet collects three addresses by Dr. Rustom C. Cooper, Y. A. Fazalbhoy and S. M. Dahanukar — a chartered accountant and Indian Merchants' Chamber past president, the head of the All-India Manufacturers' Organisation, and the president of the Maharashtra Chamber of Commerce. The FFE introduction frames the volume as a continuation of its post-1956 campaign against Soviet-style centralised planning, citing inflation, foreign exchange crises, food shortages and industrial recession as vindication of warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R.…"
+- economic-planning
+- economic-policy
+- free-enterprise
+- mixed-economy
+summary: Published by the Forum of Free Enterprise on 10 November 1968 to coincide
+  with the Planning Commission's circulation of its 'Approach to the Fourth Five-Year
+  Plan' note, this pamphlet collects three addresses by Dr. Rustom C. Cooper, Y. A.
+  Fazalbhoy and S. M. Dahanukar — a chartered accountant and Indian Merchants' Chamber
+  past president, the head of the All-India Manufacturers' Organisation, and the president
+  of the Maharashtra Chamber of Commerce. The FFE introduction frames the volume as
+  a continuation of its post-1956 campaign against Soviet-style centralised planning,
+  citing inflation, foreign exchange crises, food shortages and industrial recession
+  as vindication of warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N.
+  A. Palkhivala, Prof. P. T. Bauer and Prof. B. R.…
 needs_review: true
 draft: false
 ai:
@@ -59,41 +70,59 @@ physical:
   pages_total_source: pypdfium2
   format: Staple-bound pamphlet/booklet, Forum of Free Enterprise imprint
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - year_not_printed_on_visible_pages
-  - colophon_not_seen_in_chunk
+- editor_not_named
+- no_formal_toc_page
+- year_not_printed_on_visible_pages
+- colophon_not_seen_in_chunk
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "The FFE introduction cites Shroff as the lead voice in the Forum's post-1956 campaign against Soviet-style centralised planning, whose warnings about inflation, foreign-exchange crises and food shortages are presented as vindicated by the record."
-    evidence:
-      - quote: citing inflation, foreign exchange crises, food shortages and industrial recession as vindication of warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
-        context: FFE introduction; Shroff heads the list of Forum thinkers whose earlier warnings the current situation confirms
-    key_passages: []
-  - thinker: b-r-shenoy
-    role: mention
-    reasoning: Shenoy is cited alongside Shroff and Palkhivala as one of the Forum intellectuals whose earlier warnings against Soviet-style planning are presented as validated by fifteen years of planning failure.
-    evidence:
-      - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
-        context: "FFE introduction; Shenoy's forecasts are grouped with the other Forum economists whose dissent the current crisis vindicates"
-    key_passages: []
-  - thinker: nani-palkhivala
-    role: mention
-    reasoning: Palkhivala is named among the Forum intellectuals whose warnings against centralised planning are cited as vindicated by fifteen years of Indian economic failure.
-    evidence:
-      - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
-        context: "FFE introduction; Palkhivala's forecasts are grouped with other Forum dissidents whose analysis the planning record has borne out"
-    key_passages: []
-  - thinker: peter-bauer
-    role: mention
-    reasoning: "Peter Bauer is listed among the Forum-associated economists whose earlier critiques of Soviet-style planning are invoked as vindicated by India's food shortages, inflation and foreign-exchange crises."
-    evidence:
-      - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
-        context: "FFE introduction; Bauer's dissent is grouped with other Forum economists whose positions the current crisis confirms"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: The FFE introduction cites Shroff as the lead voice in the Forum's post-1956
+    campaign against Soviet-style centralised planning, whose warnings about inflation,
+    foreign-exchange crises and food shortages are presented as vindicated by the
+    record.
+  evidence:
+  - quote: citing inflation, foreign exchange crises, food shortages and industrial
+      recession as vindication of warnings earlier issued by A. D. Shroff, Murarji
+      J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy
+    context: FFE introduction; Shroff heads the list of Forum thinkers whose earlier
+      warnings the current situation confirms
+  key_passages: []
+- thinker: b-r-shenoy
+  role: mention
+  reasoning: Shenoy is cited alongside Shroff and Palkhivala as one of the Forum intellectuals
+    whose earlier warnings against Soviet-style planning are presented as validated
+    by fifteen years of planning failure.
+  evidence:
+  - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala,
+      Prof. P. T. Bauer and Prof. B. R. Shenoy
+    context: FFE introduction; Shenoy's forecasts are grouped with the other Forum
+      economists whose dissent the current crisis vindicates
+  key_passages: []
+- thinker: nani-palkhivala
+  role: mention
+  reasoning: Palkhivala is named among the Forum intellectuals whose warnings against
+    centralised planning are cited as vindicated by fifteen years of Indian economic
+    failure.
+  evidence:
+  - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala,
+      Prof. P. T. Bauer and Prof. B. R. Shenoy
+    context: FFE introduction; Palkhivala's forecasts are grouped with other Forum
+      dissidents whose analysis the planning record has borne out
+  key_passages: []
+- thinker: peter-bauer
+  role: mention
+  reasoning: Peter Bauer is listed among the Forum-associated economists whose earlier
+    critiques of Soviet-style planning are invoked as vindicated by India's food shortages,
+    inflation and foreign-exchange crises.
+  evidence:
+  - quote: warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala,
+      Prof. P. T. Bauer and Prof. B. R. Shenoy
+    context: FFE introduction; Bauer's dissent is grouped with other Forum economists
+      whose positions the current crisis confirms
+  key_passages: []
 ---
+
 ## Summary
 
 Published by the Forum of Free Enterprise on 10 November 1968 to coincide with the Planning Commission's circulation of its 'Approach to the Fourth Five-Year Plan' note, this pamphlet collects three addresses by Dr. Rustom C. Cooper, Y. A. Fazalbhoy and S. M. Dahanukar — a chartered accountant and Indian Merchants' Chamber past president, the head of the All-India Manufacturers' Organisation, and the president of the Maharashtra Chamber of Commerce. The FFE introduction frames the volume as a continuation of its post-1956 campaign against Soviet-style centralised planning, citing inflation, foreign exchange crises, food shortages and industrial recession as vindication of warnings earlier issued by A. D. Shroff, Murarji J. Vaidya, N. A. Palkhivala, Prof. P. T. Bauer and Prof. B. R. Shenoy.

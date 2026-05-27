@@ -60,8 +60,7 @@ key_points:
 - From the 1980s-90s onwards, the individual pursuit of happiness gained legitimacy
   and people became more rebellious against collectivist constraints.
 thinker_mentions:
-- thinker_unresolved: Nimish Adhia
-  role: subject
+- role: subject
   reasoning: Nimish Adhia is the sole speaker delivering this monologue on Bollywood
     and Indian cultural change, but he does not appear in the authority list.
   evidence:
@@ -91,7 +90,9 @@ thinker_mentions:
       it was previously.
     what_it_shows: States his conclusion about the emergence of individualism in Indian
       culture
-related_thinkers: []
+  thinker: nimish-adhia
+related_thinkers:
+- nimish-adhia
 ---
 
 # Bollywood and Cultural Change in Attitude

@@ -7,25 +7,28 @@ work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Kush Ganatra
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Varsha Srinivasan
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Vasudha Ramakrishna
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Dr. Sabeena Gonsalves
-    toc_index: 4
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
+- role: author
+  toc_index: 1
+  thinker: kush-ganatra
+- role: author
+  toc_index: 2
+  thinker: varsha-srinivasan
+- role: author
+  toc_index: 3
+  thinker: vasudha-ramakrishna
+- role: author
+  toc_index: 4
+  thinker: sabeena-gonsalves
+- role: introduction
+  thinker: minoo-r-shroff
 related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2014
@@ -37,9 +40,24 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Reflections of Enlightened Young Minds collects the four prize-winning speeches from the 49th A.D. Shroff Memorial Inter-Collegiate Elocution Contest, held in Mumbai on 26 January 2014 and published by the Forum of Free Enterprise on 3 April 2014. In a foreword, Forum President Minoo R. Shroff frames the contests — the A.D. Shroff Inter-Collegiate, the Nani A. Palkhivala (for law students) and the M.R. Pai (for schools) — as part of the Forum's youth-empowerment work, citing Dale Carnegie on public speaking as the 'most potent tool' for career advancement, and reporting that more than 4,000 contests across 13 states have drawn 45,000 student speakers since 1965-66. The booklet is sponsored by the Shailesh Kapadia Memorial Trust, with a biographical tribute to the late chartered accountant Shailesh Kapadia (1949-1988).\n\nThe four student speeches gather around three themes flagged on the cover: safety of women, white collar crimes, and civil society and good governance. Kush Ganatra (N. M. College of Commerce & Economics) and Dr. Sabeena Gonsalves (K.C.…"
+summary: 'Reflections of Enlightened Young Minds collects the four prize-winning speeches
+  from the 49th A.D. Shroff Memorial Inter-Collegiate Elocution Contest, held in Mumbai
+  on 26 January 2014 and published by the Forum of Free Enterprise on 3 April 2014.
+  In a foreword, Forum President Minoo R. Shroff frames the contests — the A.D. Shroff
+  Inter-Collegiate, the Nani A. Palkhivala (for law students) and the M.R. Pai (for
+  schools) — as part of the Forum''s youth-empowerment work, citing Dale Carnegie
+  on public speaking as the ''most potent tool'' for career advancement, and reporting
+  that more than 4,000 contests across 13 states have drawn 45,000 student speakers
+  since 1965-66. The booklet is sponsored by the Shailesh Kapadia Memorial Trust,
+  with a biographical tribute to the late chartered accountant Shailesh Kapadia (1949-1988).
+
+
+  The four student speeches gather around three themes flagged on the cover: safety
+  of women, white collar crimes, and civil society and good governance. Kush Ganatra
+  (N. M. College of Commerce & Economics) and Dr. Sabeena Gonsalves (K.C.…'
 needs_review: true
 draft: false
 ai:
@@ -53,8 +71,8 @@ physical:
   pages_total_source: pypdfium2
   format: Stapled booklet / pamphlet, printed in two-page-per-spread layout
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
+- no_formal_toc_page
+- editor_not_named
 ---
 
 # Reflections of Enlightened Young Minds

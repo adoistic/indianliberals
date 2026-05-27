@@ -1,27 +1,26 @@
 ---
 id: planning-and-nationalization-rethinking-in-india-and-abroad-l-n-birla-dr-n-das-january-12-1967
 title:
-  main: "Planning & Nationalisation"
-  subtitle: "Rethinking in India & Abroad"
+  main: Planning & Nationalisation
+  subtitle: Rethinking in India & Abroad
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: L. N. BIRLA
-    toc_index: 1
-  - role: author
-    thinker_unresolved: L. N. BIRLA
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Dr. Nabagopal Das, I.C.S. (Retd.)
-    toc_index: 3
-related_thinkers:
-  - karl-marx
+- role: author
+  toc_index: 1
+  thinker: l-n-birla
+- role: author
+  toc_index: 2
+  thinker: l-n-birla
+- role: author
+  toc_index: 3
+  thinker: nabagopal-das-i-c-s-retd
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE, \"SOHRAB HOUSE\", 235 DR. D. N. ROAD, BOMBAY-1"
+  publisher_name: FORUM OF FREE ENTERPRISE, "SOHRAB HOUSE", 235 DR. D. N. ROAD, BOMBAY-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
 provenance:
@@ -31,9 +30,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Published by the Forum of Free Enterprise in January 1967, this pamphlet collects three short addresses on Indian planning by L. N. Birla and Dr. Nabagopal Das (I.C.S. Retd.). The two Birla pieces — reproduced from the Indian Express (November 12, 1966) and Hindusthan Times (October 3, 1966) — indict the Fourth Plan as an exercise in 'wishful' aggregation that has consistently subordinated the Indian consumer to heavy-industry dogma, mounting taxation, and bureaucratic expenditure. Das's contribution opens a comparative survey of how the doctrine of nationalisation and command planning is being rethought in socialist economies, beginning with the USSR's struggle to reconcile state ownership with consumer demand.\n\nTogether the three essays form a coherent Forum of Free Enterprise argument: that India's planning apparatus must shift from physical-output targets and public-sector expansion to consumer satisfaction, agricultural priority, and a freer role for private enterprise — a corrective the pamphlet draws both from Indian experience under three Plans and from doctrinal reappraisals visible inside the socialist bloc itself."
+summary: 'Published by the Forum of Free Enterprise in January 1967, this pamphlet
+  collects three short addresses on Indian planning by L. N. Birla and Dr. Nabagopal
+  Das (I.C.S. Retd.). The two Birla pieces — reproduced from the Indian Express (November
+  12, 1966) and Hindusthan Times (October 3, 1966) — indict the Fourth Plan as an
+  exercise in ''wishful'' aggregation that has consistently subordinated the Indian
+  consumer to heavy-industry dogma, mounting taxation, and bureaucratic expenditure.
+  Das''s contribution opens a comparative survey of how the doctrine of nationalisation
+  and command planning is being rethought in socialist economies, beginning with the
+  USSR''s struggle to reconcile state ownership with consumer demand.
+
+
+  Together the three essays form a coherent Forum of Free Enterprise argument: that
+  India''s planning apparatus must shift from physical-output targets and public-sector
+  expansion to consumer satisfaction, agricultural priority, and a freer role for
+  private enterprise — a corrective the pamphlet draws both from Indian experience
+  under three Plans and from doctrinal reappraisals visible inside the socialist bloc
+  itself.'
 needs_review: true
 draft: false
 ai:
@@ -47,9 +63,9 @@ physical:
   pages_total_source: pypdfium2
   format: Short booklet / FFE pamphlet; saddle-stitched paper cover, ~32 pp.
 missing_metadata_flags:
-  - editor_not_named
-  - year_not_printed_on_rendered_pages
-  - no_formal_toc_page
+- editor_not_named
+- year_not_printed_on_rendered_pages
+- no_formal_toc_page
 ---
 
 # Planning & Nationalisation

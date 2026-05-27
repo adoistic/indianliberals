@@ -134,8 +134,7 @@ thinker_mentions:
   - quote: this is a election gimmick. And so it is no longer, it should not be valid.
     what_it_shows: Court's characterization of the Vajpayee government's circular,
       explaining why a statute was needed.
-- thinker_unresolved: T. N. Godavarman Thirumulpad
-  role: mention
+- role: mention
   reasoning: Petitioner of the landmark 1995 forest PIL; not present in the authority
     list.
   evidence:
@@ -149,10 +148,12 @@ thinker_mentions:
       the states of India. So it was known as forest case
     what_it_shows: The Godavarman case became the pan-India forest jurisdiction through
       which the 2002 eviction order travelled.
+  thinker: t-n-godavarman-thirumulpad
 related_thinkers:
 - ambrish-mehta
 - atal-bihari-vajpayee
 - manmohan-singh
+- t-n-godavarman-thirumulpad
 - trupti-parekh
 ---
 

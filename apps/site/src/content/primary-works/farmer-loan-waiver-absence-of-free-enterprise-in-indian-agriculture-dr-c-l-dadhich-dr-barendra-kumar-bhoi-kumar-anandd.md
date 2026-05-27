@@ -1,28 +1,29 @@
 ---
 id: farmer-loan-waiver-absence-of-free-enterprise-in-indian-agriculture-dr-c-l-dadhich-dr-barendra-kumar-bhoi-kumar-anandd
 title:
-  main: "Farmer Loan Waiver & Absence of Free Enterprise in Indian Agriculture"
-  subtitle: ""
+  main: Farmer Loan Waiver & Absence of Free Enterprise in Indian Agriculture
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - c-l-dadhich
+- c-l-dadhich
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker: c-l-dadhich
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Dr. Barendra Kumar Bhoi
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Kumar Anand
-    toc_index: 2
-  - role: editor
-    thinker: sunil-bhandare
-  - role: foreword
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: []
+- role: author
+  thinker: c-l-dadhich
+  toc_index: 1
+- role: author
+  toc_index: 1
+  thinker: barendra-kumar-bhoi
+- role: author
+  toc_index: 2
+  thinker: kumar-anand
+- role: editor
+  thinker: sunil-bhandare
+- role: foreword
+  thinker: minoo-r-shroff
+related_thinkers:
+- c-l-dadhich
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -38,13 +39,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - agriculture
-  - free-enterprise
-  - economic-policy
-  - economic-reform
-summary: "This Forum of Free Enterprise booklet, published in memory of chartered accountant Shailesh Kapadia (1949–1988) and sponsored by the Shailesh Kapadia Memorial Trust, bundles two independent essays on the crisis in Indian agriculture written against the backdrop of mounting state-level demands for farm loan waivers. A short editorial by Sunil S. Bhandare and an overview signed by Minoo R. Shroff (President-Emeritus, Forum of Free Enterprise, 8 August 2017) frame the volume's argumentative centre: that rural distress, farmer suicides and chronic indebtedness reflect a deeper unviability of agriculture as an occupation, and that competitive forces simply do not operate in farm input and output markets — leaving loan waivers as a populist soft option rather than a real remedy.\n\nThe first essay, \"Farm Loan Waiver: A Critical Evaluation\" by Dr. C. L. Dadhich (Hon. Secretary, Indian Society of Agricultural Economics; former Director of Rural Economics at the Reserve Bank of India) and Dr.…"
+- agriculture
+- free-enterprise
+- economic-policy
+- economic-reform
+summary: 'This Forum of Free Enterprise booklet, published in memory of chartered
+  accountant Shailesh Kapadia (1949–1988) and sponsored by the Shailesh Kapadia Memorial
+  Trust, bundles two independent essays on the crisis in Indian agriculture written
+  against the backdrop of mounting state-level demands for farm loan waivers. A short
+  editorial by Sunil S. Bhandare and an overview signed by Minoo R. Shroff (President-Emeritus,
+  Forum of Free Enterprise, 8 August 2017) frame the volume''s argumentative centre:
+  that rural distress, farmer suicides and chronic indebtedness reflect a deeper unviability
+  of agriculture as an occupation, and that competitive forces simply do not operate
+  in farm input and output markets — leaving loan waivers as a populist soft option
+  rather than a real remedy.
+
+
+  The first essay, "Farm Loan Waiver: A Critical Evaluation" by Dr. C. L. Dadhich
+  (Hon. Secretary, Indian Society of Agricultural Economics; former Director of Rural
+  Economics at the Reserve Bank of India) and Dr.…'
 needs_review: true
 draft: false
 ai:
@@ -56,14 +72,16 @@ physical:
   pages_rendered: 20
   pages_total: 40
   pages_total_source: pypdfium2
-  format: stapled paper booklet / pamphlet, green cover with FFE roundel; sponsored by Shailesh Kapadia Memorial Trust
+  format: stapled paper booklet / pamphlet, green cover with FFE roundel; sponsored
+    by Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - no_formal_toc
-  - title_page_not_found
-  - no_copyright_page_seen
-  - no_publisher_address
-  - no_series_number
+- no_formal_toc
+- title_page_not_found
+- no_copyright_page_seen
+- no_publisher_address
+- no_series_number
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet, published in memory of chartered accountant Shailesh Kapadia (1949–1988) and sponsored by the Shailesh Kapadia Memorial Trust, bundles two independent essays on the crisis in Indian agriculture written against the backdrop of mounting state-level demands for farm loan waivers. A short editorial by Sunil S. Bhandare and an overview signed by Minoo R. Shroff (President-Emeritus, Forum of Free Enterprise, 8 August 2017) frame the volume's argumentative centre: that rural distress, farmer suicides and chronic indebtedness reflect a deeper unviability of agriculture as an occupation, and that competitive forces simply do not operate in farm input and output markets — leaving loan waivers as a populist soft option rather than a real remedy.

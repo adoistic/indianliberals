@@ -57,8 +57,7 @@ key_points:
 - The 'nanny state' or maibaap model treats citizens as perpetual children and must
   eventually go — but not first.
 thinker_mentions:
-- thinker_unresolved: Vijay Mallya
-  role: mention
+- role: mention
   reasoning: Cited as the paradigmatic case of an industrialist and former MP who
     exploited weak enforcement to evade obligations to employees; no matching slug
     in the authority list.
@@ -72,7 +71,9 @@ thinker_mentions:
       formal sector industrialists.
     what_it_shows: Frames Mallya as evidence that even top-tier industrialists cannot
       yet be trusted absent regulation.
-related_thinkers: []
+  thinker: vijay-mallya
+related_thinkers:
+- vijay-mallya
 ---
 
 # Why is it Difficult to De-regulate Labor in India?

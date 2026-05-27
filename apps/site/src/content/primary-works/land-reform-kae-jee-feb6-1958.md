@@ -2,13 +2,13 @@
 id: land-reform-kae-jee-feb6-1958
 title:
   main: LAND REFORM
-  subtitle: ""
+  subtitle: ''
 work_type: pamphlet
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Kaejee
+- role: author
+  thinker: kaejee
 related_thinkers: []
 publication:
   language: en
@@ -25,16 +25,33 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - land-reform
-  - agrarian-policy
-  - cooperative-farming
-  - collectivisation
-  - economic-planning
-  - private-property
-  - free-enterprise
-summary: "Published by the Forum of Free Enterprise and reprinted from The Mail, Madras (19 January 1959), this short pamphlet by the pseudonymous \"Kaejee\" is a sustained polemic against the Congress government's then-impending land-reform package — fixing a ceiling on individual landholdings and channelling the excised land into cooperative farms. Kaejee argues that, after the abolition of zamindari and princely estates, the new measure is no longer reform but \"an agrarian revolution where the very concept of ownership of land is destroyed,\" and that compulsory alienation of private holdings for cooperative cultivation falls outside the limits of a constitutional, benevolent democracy.\n\nThe substantive core of the argument is demographic and statistical. Drawing on the 1951 Census, Kaejee insists that India's agrarian misery is a problem of land scarcity, not of land distribution: per capita cultivable area is barely 0.79 acre, compared with 15 acres in the United States and 19 in the USSR, and 351 lakh of the 710 lakh \"agriculturists\" are in fact unpaid family helpers or earners drawn into farming for want of alternative livelihoods.…"
+- land-reform
+- agrarian-policy
+- cooperative-farming
+- collectivisation
+- economic-planning
+- private-property
+- free-enterprise
+summary: 'Published by the Forum of Free Enterprise and reprinted from The Mail, Madras
+  (19 January 1959), this short pamphlet by the pseudonymous "Kaejee" is a sustained
+  polemic against the Congress government''s then-impending land-reform package —
+  fixing a ceiling on individual landholdings and channelling the excised land into
+  cooperative farms. Kaejee argues that, after the abolition of zamindari and princely
+  estates, the new measure is no longer reform but "an agrarian revolution where the
+  very concept of ownership of land is destroyed," and that compulsory alienation
+  of private holdings for cooperative cultivation falls outside the limits of a constitutional,
+  benevolent democracy.
+
+
+  The substantive core of the argument is demographic and statistical. Drawing on
+  the 1951 Census, Kaejee insists that India''s agrarian misery is a problem of land
+  scarcity, not of land distribution: per capita cultivable area is barely 0.79 acre,
+  compared with 15 acres in the United States and 19 in the USSR, and 351 lakh of
+  the 710 lakh "agriculturists" are in fact unpaid family helpers or earners drawn
+  into farming for want of alternative livelihoods.…'
 needs_review: true
 draft: false
 ai:
@@ -45,10 +62,11 @@ physical:
   pages_rendered: 7
   pages_total: 7
   pages_total_source: pypdfium2
-  format: "Stapled pamphlet, green-printed paper cover, 8 numbered text pages plus cover and back cover; printed by Leaders' Press Private Ltd., Bombay 10"
+  format: Stapled pamphlet, green-printed paper cover, 8 numbered text pages plus
+    cover and back cover; printed by Leaders' Press Private Ltd., Bombay 10
 missing_metadata_flags:
-  - author_pseudonym_unresolved
-  - publication_year_not_explicitly_printed
+- author_pseudonym_unresolved
+- publication_year_not_explicitly_printed
 authors_resolution:
   confidence: low
   method: vision

@@ -2,28 +2,30 @@
 id: devaluation-of-the-rupee-causes-and-consequnces-n-a-palkhivala-s-m-dr-keesr-doodha-1966
 title:
   main: Devaluation of the Rupee
-  subtitle: "Causes & Consequences"
+  subtitle: Causes & Consequences
 work_type: edited_volume
 authors:
-  - nani-palkhivala
+- nani-palkhivala
 editors: []
 contributors:
-  - role: author
-    thinker: nani-palkhivala
-    toc_index: 1
-  - role: author
-    thinker_unresolved: S. M.
-    toc_index: 2
-  - role: author
-    thinker_unresolved: DR. KERSI D. DOODHA
-    toc_index: 3
-related_thinkers: 
-  - indira-gandhi
-
+- role: author
+  thinker: nani-palkhivala
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: s-m
+- role: author
+  toc_index: 3
+  thinker: kersi-d-doodha
+related_thinkers:
+- indira-gandhi
+- nani-palkhivala
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Sohrab House\", 235, Dr. Dadabhai Naoroji Road, Bombay-1, and printed by H. NARAYAN RAO at H. R. MOHAN & CO. (PRESS). 9-B, Cawasjee Patel Street, Bombay-1."
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, "Sohrab
+    House", 235, Dr. Dadabhai Naoroji Road, Bombay-1, and printed by H. NARAYAN RAO
+    at H. R. MOHAN & CO. (PRESS). 9-B, Cawasjee Patel Street, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
@@ -35,12 +37,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - monetary-policy
-  - fiscal-policy
-  - economic-policy
-summary: "A 1966 Forum of Free Enterprise booklet collecting three responses to the June 1966 devaluation of the rupee. The constitutional lawyer N. A. Palkhivala opens with a talk delivered to the Forum on 27 June 1966 framing devaluation as the legal recognition of an economic fait accompli and listing seven disciplines without which the measure will fail. A pseudonymous columnist 'S. M.' follows with a piece reproduced from the Hindustan Times of 22 June 1966 that defends devaluation against the charge of foreign coercion and ties its success to renewed fiscal restraint and a deferred Fourth Plan. Dr. Kersi D. Doodha, an economist in a commercial bank, closes with a primer on what devaluation actually is, how the IMF's Articles of Agreement frame 'fundamental disequilibrium', and the supply-side conditions under which a change in par value can correct a payments imbalance."
+- monetary-policy
+- fiscal-policy
+- economic-policy
+summary: A 1966 Forum of Free Enterprise booklet collecting three responses to the
+  June 1966 devaluation of the rupee. The constitutional lawyer N. A. Palkhivala opens
+  with a talk delivered to the Forum on 27 June 1966 framing devaluation as the legal
+  recognition of an economic fait accompli and listing seven disciplines without which
+  the measure will fail. A pseudonymous columnist 'S. M.' follows with a piece reproduced
+  from the Hindustan Times of 22 June 1966 that defends devaluation against the charge
+  of foreign coercion and ties its success to renewed fiscal restraint and a deferred
+  Fourth Plan. Dr. Kersi D. Doodha, an economist in a commercial bank, closes with
+  a primer on what devaluation actually is, how the IMF's Articles of Agreement frame
+  'fundamental disequilibrium', and the supply-side conditions under which a change
+  in par value can correct a payments imbalance.
 needs_review: true
 draft: false
 ai:
@@ -54,19 +67,22 @@ physical:
   pages_total_source: pypdfium2
   format: Saddle-stitched pamphlet/booklet, yellow card cover with FFE cogwheel emblem
 missing_metadata_flags:
-  - title_page_not_found
-  - no_formal_toc
-  - editor_not_named
+- title_page_not_found
+- no_formal_toc
+- editor_not_named
 thinker_mentions:
-  - thinker: indira-gandhi
-    role: mention
-    reasoning: The anonymous columnist S.M. mentions Mrs. Gandhi as a recipient of Cabinet warnings about the devaluation, situating her centrally in the political tension around the June 1966 decision.
-    evidence:
-      - quote: including warnings to Mrs. Gandhi and the publicised reservations of Kamaraj
-        context: Mrs. Gandhi is mentioned as a principal political actor absorbing the political heat of the devaluation decision
-    key_passages: []
-
+- thinker: indira-gandhi
+  role: mention
+  reasoning: The anonymous columnist S.M. mentions Mrs. Gandhi as a recipient of Cabinet
+    warnings about the devaluation, situating her centrally in the political tension
+    around the June 1966 decision.
+  evidence:
+  - quote: including warnings to Mrs. Gandhi and the publicised reservations of Kamaraj
+    context: Mrs. Gandhi is mentioned as a principal political actor absorbing the
+      political heat of the devaluation decision
+  key_passages: []
 ---
+
 ## Summary
 
 A 1966 Forum of Free Enterprise booklet collecting three responses to the June 1966 devaluation of the rupee. The constitutional lawyer N. A. Palkhivala opens with a talk delivered to the Forum on 27 June 1966 framing devaluation as the legal recognition of an economic fait accompli and listing seven disciplines without which the measure will fail. A pseudonymous columnist 'S. M.' follows with a piece reproduced from the Hindustan Times of 22 June 1966 that defends devaluation against the charge of foreign coercion and ties its success to renewed fiscal restraint and a deferred Fourth Plan. Dr. Kersi D. Doodha, an economist in a commercial bank, closes with a primer on what devaluation actually is, how the IMF's Articles of Agreement frame 'fundamental disequilibrium', and the supply-side conditions under which a change in par value can correct a payments imbalance.

@@ -2,24 +2,27 @@
 id: industrial-finance-some-trends-and-some-issues-s-s-nadkarni-june-26-1984
 title:
   main: INDUSTRIAL FINANCE—SOME TRENDS AND SOME ISSUES
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - s-s-nadkarni
+- s-s-nadkarni
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: S. S. NADKARNI
-  - role: introduction
-    thinker: m-r-pai
-related_thinkers: 
-  - a-d-shroff
-  - dr-ig-patel
-
+- role: author
+  thinker: s-s-nadkarni
+- role: introduction
+  thinker: m-r-pai
+related_thinkers:
+- a-d-shroff
+- dr-ig-patel
+- s-s-nadkarni
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. Road, BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust. 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by S. V. Limaye at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay 400 023.
+  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. Road,
+    BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial
+    Trust. 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by S. V. Limaye
+    at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay 400 023.
   place: Bombay
   year: 1984
 provenance:
@@ -30,14 +33,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - industrial-policy
-  - finance
-  - capital-markets
-  - banking
-summary: "Delivered as the 1984 A. D. Shroff Memorial Trust public lecture by S. S. Nadkarni, then Chairman and Managing Director of ICICI, this address surveys the structure and direction of Indian industrial finance three and a half decades after independence. Nadkarni opens by setting aside transient controversies in order to identify abiding trends — quantitative and structural growth of the manufacturing sector, the expansion of the entrepreneurial base, dispersal into backward regions, and a Sixth Plan rebalancing in which public and private sector outlays in mining and manufacturing are projected at roughly equal levels. He stresses that the private sector remains the dominant source of value added (81% of factory output) and that the government has begun signalling room for private investment in fertilizers, communications and modernisation.\n\nThe core of the lecture analyses the financial system itself — financial institutions, the capital market, and commercial banks — under the long shadow of nationalisation (LIC 1956, banks 1969, general insurance 1973, IDBI Act 1975).…"
+- economic-policy
+- industrial-policy
+- finance
+- capital-markets
+- banking
+summary: 'Delivered as the 1984 A. D. Shroff Memorial Trust public lecture by S. S.
+  Nadkarni, then Chairman and Managing Director of ICICI, this address surveys the
+  structure and direction of Indian industrial finance three and a half decades after
+  independence. Nadkarni opens by setting aside transient controversies in order to
+  identify abiding trends — quantitative and structural growth of the manufacturing
+  sector, the expansion of the entrepreneurial base, dispersal into backward regions,
+  and a Sixth Plan rebalancing in which public and private sector outlays in mining
+  and manufacturing are projected at roughly equal levels. He stresses that the private
+  sector remains the dominant source of value added (81% of factory output) and that
+  the government has begun signalling room for private investment in fertilizers,
+  communications and modernisation.
+
+
+  The core of the lecture analyses the financial system itself — financial institutions,
+  the capital market, and commercial banks — under the long shadow of nationalisation
+  (LIC 1956, banks 1969, general insurance 1973, IDBI Act 1975).…'
 needs_review: true
 draft: false
 ai:
@@ -51,35 +70,44 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / booklet (printed reprint of an annual public lecture)
 missing_metadata_flags:
-  - no_isbn
-  - no_formal_toc
+- no_isbn
+- no_formal_toc
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - S. S. Nadkarni
+  - S. S. Nadkarni
   stubs_created: []
   stubs_referenced:
-    - s-s-nadkarni
+  - s-s-nadkarni
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Nadkarni's address is delivered as the 1984 A. D. Shroff Memorial Trust public lecture, anchoring his survey of Indian industrial finance inside the Shroff/Forum classical-liberal lecture series."
-    evidence:
-      - quote: Delivered as the 1984 A. D. Shroff Memorial Trust public lecture by S. S. Nadkarni
-        context: Shroff is the namesake of the lecture in which Nadkarni surveys industrial finance
-    key_passages: []
-  - thinker: dr-ig-patel
-    role: mention
-    reasoning: "Nadkarni quotes I. G. Patel on the discipline that credit is not a gift or subsidy, using Patel's formulation to ground his managerial agenda for India's nationalised financial system."
-    evidence:
-      - quote: He quotes Dr. I. G. Patel on the discipline that credit is not a gift or subsidy, and lays out a managerial agenda for the financial system
-        context: I. G. Patel supplies the central operating principle Nadkarni applies to the financial system
-      - quote: "Nadkarni accepts that pervasive government influence over banks, LIC, GIC, IDBI etc. is here to stay, and reframes the question from ownership to operational efficiency, quoting Dr. I. G. Patel that 'credit is not a gift or a subsidy'."
-        context: key-points restatement of the I. G. Patel quote
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Nadkarni's address is delivered as the 1984 A. D. Shroff Memorial Trust
+    public lecture, anchoring his survey of Indian industrial finance inside the Shroff/Forum
+    classical-liberal lecture series.
+  evidence:
+  - quote: Delivered as the 1984 A. D. Shroff Memorial Trust public lecture by S.
+      S. Nadkarni
+    context: Shroff is the namesake of the lecture in which Nadkarni surveys industrial
+      finance
+  key_passages: []
+- thinker: dr-ig-patel
+  role: mention
+  reasoning: Nadkarni quotes I. G. Patel on the discipline that credit is not a gift
+    or subsidy, using Patel's formulation to ground his managerial agenda for India's
+    nationalised financial system.
+  evidence:
+  - quote: He quotes Dr. I. G. Patel on the discipline that credit is not a gift or
+      subsidy, and lays out a managerial agenda for the financial system
+    context: I. G. Patel supplies the central operating principle Nadkarni applies
+      to the financial system
+  - quote: Nadkarni accepts that pervasive government influence over banks, LIC, GIC,
+      IDBI etc. is here to stay, and reframes the question from ownership to operational
+      efficiency, quoting Dr. I. G. Patel that 'credit is not a gift or a subsidy'.
+    context: key-points restatement of the I. G. Patel quote
+  key_passages: []
 ---
 
 ## Summary

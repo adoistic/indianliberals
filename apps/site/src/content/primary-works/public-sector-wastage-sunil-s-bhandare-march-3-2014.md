@@ -2,19 +2,16 @@
 id: public-sector-wastage-sunil-s-bhandare-march-3-2014
 title:
   main: Public Sector Wastage - Issues and Challenges
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - sunil-bhandare
+- sunil-bhandare
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
+- role: introduction
+  thinker: minoo-r-shroff
 related_thinkers:
-  - nani-palkhivala
-  - rajiv-gandhi
-  - b-r-shenoy
-  - c-rangarajan
+- sunil-bhandare
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -30,9 +27,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Sunil S. Bhandare's booklet, originally delivered as a talk at the Nani A. Palkhivala Memorial Trust in Mangalore on 20 January 2014 and reissued by the Forum of Free Enterprise, frames the squandering of India's public resources as a tragedy of national time, energy and manpower. Writing in the policy idiom of the Forum — Minoo R. Shroff's foreword insists on \"the business of government is governance and not business\" — Bhandare argues that India's declining productivity of capital, stalling reforms and rising populism have all been compounded by the wastage embedded in how the Centre, States and public sector undertakings spend money. Wastage in his definition encompasses depletion, drain and leakage: cost and time overruns, excess capacities, mindless misdirected subsidies, loan waivers and write-offs, persistent budgetary support to loss-making PSUs, and the forced extraction of high dividends from cash-rich PSUs.\n\nPart I situates the problem inside the post-2008 global expansion of state spending and the Indian post-reforms surge in combined Centre-State expenditure (a 14.2% annual rate over 1991-92 to 2012-13).…"
+summary: 'Sunil S. Bhandare''s booklet, originally delivered as a talk at the Nani
+  A. Palkhivala Memorial Trust in Mangalore on 20 January 2014 and reissued by the
+  Forum of Free Enterprise, frames the squandering of India''s public resources as
+  a tragedy of national time, energy and manpower. Writing in the policy idiom of
+  the Forum — Minoo R. Shroff''s foreword insists on "the business of government is
+  governance and not business" — Bhandare argues that India''s declining productivity
+  of capital, stalling reforms and rising populism have all been compounded by the
+  wastage embedded in how the Centre, States and public sector undertakings spend
+  money. Wastage in his definition encompasses depletion, drain and leakage: cost
+  and time overruns, excess capacities, mindless misdirected subsidies, loan waivers
+  and write-offs, persistent budgetary support to loss-making PSUs, and the forced
+  extraction of high dividends from cash-rich PSUs.
+
+
+  Part I situates the problem inside the post-2008 global expansion of state spending
+  and the Indian post-reforms surge in combined Centre-State expenditure (a 14.2%
+  annual rate over 1991-92 to 2012-13).…'
 needs_review: true
 draft: false
 ai:
@@ -43,10 +57,11 @@ physical:
   pages_rendered: 20
   pages_total: 21
   pages_total_source: pypdfium2
-  format: FFE pamphlet/booklet; 36 printed pages laid out as two-page spreads in the PDF; sponsored by Shailesh Kapadia Memorial Trust
+  format: FFE pamphlet/booklet; 36 printed pages laid out as two-page spreads in the
+    PDF; sponsored by Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn_or_series_number_visible
+- no_formal_toc
+- no_isbn_or_series_number_visible
 ---
 
 # Public Sector Wastage - Issues and Challenges

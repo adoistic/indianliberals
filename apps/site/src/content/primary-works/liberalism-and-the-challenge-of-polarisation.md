@@ -96,8 +96,7 @@ thinker_mentions:
       be a serious student of anthropology
     what_it_shows: His methodological view that political reform requires understanding
       humanity's long generational arc of change
-- thinker_unresolved: Donald Trump
-  role: mention
+- role: mention
   reasoning: Trump is cited as a contemporary illustration of how tribal instinct,
     rather than rational policy appeal, drives political support; no slug exists in
     the authority list.
@@ -112,8 +111,8 @@ thinker_mentions:
       outbursts and for the very uncivil behavior because of tribalism
     what_it_shows: Trump is used as a live exhibit of Kahneman's 'old brain' instinct
       in mass politics
-- thinker_unresolved: Daniel Kahneman
-  role: mention
+  thinker: donald-trump
+- role: mention
   reasoning: Kahneman's Thinking, Fast and Slow is invoked as the intellectual foundation
     for Narayan's claim that humans are tribal by nature; no slug exists in the authority
     list.
@@ -126,7 +125,10 @@ thinker_mentions:
       our instinct and tribalism on the other hand, the old brain and the new brains.
     what_it_shows: Narayan distilling Kahneman's dual-process framework into a political
       diagnosis
+  thinker: daniel-kahneman
 related_thinkers:
+- daniel-kahneman
+- donald-trump
 - jayaprakash-narayan
 ---
 

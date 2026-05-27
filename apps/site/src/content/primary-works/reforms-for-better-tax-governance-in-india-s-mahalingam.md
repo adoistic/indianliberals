@@ -2,22 +2,18 @@
 id: reforms-for-better-tax-governance-in-india-s-mahalingam
 title:
   main: Reforms for a Better Tax Governance in India
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker_unresolved: S. Mahalingam
-    toc_index: 1
-  - role: editor
-    thinker: sunil-bhandare
-related_thinkers:
-  - a-d-shroff
-  - m-r-pai
-  - nani-palkhivala
-  - sucheta-dalal
+- role: author
+  toc_index: 1
+  thinker: s-mahalingam
+- role: editor
+  thinker: sunil-bhandare
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -33,14 +29,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - tax-policy
-  - public-finance
-  - governance
-  - economic-reform
-  - public-administration
-summary: "This Forum of Free Enterprise booklet reproduces the lecture S. Mahalingam — former Chief Financial Officer and Executive Director of Tata Consultancy Services — delivered in Bangalore on 13 January 2016 under the auspices of the Nani A. Palkhivala Memorial Trust. The first part of the talk is a personal tribute to Palkhivala the jurist, post-budget orator, ambassador and TCS founder-chairman, framed through Mahalingam's own years of working alongside him. The second part pivots into a structural critique of the Indian tax governance system written from the unusual vantage point of a private-sector member of the Tax Administration Reform Commission (TARC) constituted in 2013 under Dr. Parthasarathi Shome.\n\nMahalingam argues that India suffers not merely from bad tax laws but from a broken governance culture: revenue officers chase targets set and monitored by the Finance Minister himself, raise notional and \"protective\" demands they themselves consider far-fetched, refuse to accept any adverse appellate verdict on principle, and lack any service focus toward honest taxpayers.…"
+- tax-policy
+- public-finance
+- governance
+- economic-reform
+- public-administration
+summary: 'This Forum of Free Enterprise booklet reproduces the lecture S. Mahalingam
+  — former Chief Financial Officer and Executive Director of Tata Consultancy Services
+  — delivered in Bangalore on 13 January 2016 under the auspices of the Nani A. Palkhivala
+  Memorial Trust. The first part of the talk is a personal tribute to Palkhivala the
+  jurist, post-budget orator, ambassador and TCS founder-chairman, framed through
+  Mahalingam''s own years of working alongside him. The second part pivots into a
+  structural critique of the Indian tax governance system written from the unusual
+  vantage point of a private-sector member of the Tax Administration Reform Commission
+  (TARC) constituted in 2013 under Dr. Parthasarathi Shome.
+
+
+  Mahalingam argues that India suffers not merely from bad tax laws but from a broken
+  governance culture: revenue officers chase targets set and monitored by the Finance
+  Minister himself, raise notional and "protective" demands they themselves consider
+  far-fetched, refuse to accept any adverse appellate verdict on principle, and lack
+  any service focus toward honest taxpayers.…'
 needs_review: true
 draft: false
 ai:
@@ -52,12 +64,13 @@ physical:
   pages_rendered: 20
   pages_total: 42
   pages_total_source: pypdfium2
-  format: Pamphlet / booklet — single-author speech reprinted by Forum of Free Enterprise; sponsored by Shailesh Kapadia Memorial Trust
+  format: Pamphlet / booklet — single-author speech reprinted by Forum of Free Enterprise;
+    sponsored by Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - no_formal_toc
-  - publication_year_not_printed_on_visible_pages
-  - no_isbn_visible
-  - no_series_number_visible
+- no_formal_toc
+- publication_year_not_printed_on_visible_pages
+- no_isbn_visible
+- no_series_number_visible
 ---
 
 # Reforms for a Better Tax Governance in India

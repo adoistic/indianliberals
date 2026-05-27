@@ -7,68 +7,74 @@ title:
   translit: Khoj — Jivan Ek Avirat Khoj
 work_type: periodical_issue
 authors:
-  - rajesh-mishra
-  - ashwin-karia
-  - ismail-gandhi
-  - ambrish-mehta
-  - mukesh-adenwala
-  - ila-bhatt
-  - trupti-parekh
+- rajesh-mishra
+- ashwin-karia
+- ismail-gandhi
+- ambrish-mehta
+- mukesh-adenwala
+- ila-bhatt
+- trupti-parekh
 editors:
-  - ambrish-mehta
+- ambrish-mehta
 contributors:
-  - role: author
-    thinker: rajesh-mishra
-    toc_index: 3
-  - role: author
-    thinker_unresolved: વર્ષા ચૌધરી
-    toc_index: 4
-  - role: author
-    thinker: ashwin-karia
-    toc_index: 5
-  - role: author
-    thinker_unresolved: મુર્તઝા રઝવી
-    toc_index: 6
-  - role: author
-    thinker: ismail-gandhi
-    toc_index: 7
-  - role: author
-    thinker: rajesh-mishra
-    toc_index: 8
-  - role: author
-    thinker: ambrish-mehta
-    toc_index: 9
-  - role: author
-    thinker_unresolved: પીટર રોબિન્સન
-    toc_index: 10
-  - role: author
-    thinker: mukesh-adenwala
-    toc_index: 11
-  - role: author
-    thinker: ila-bhatt
-    toc_index: 12
-  - role: author
-    thinker_unresolved: ચિરાગ કાયસ્થ
-    toc_index: 13
-  - role: author
-    thinker: trupti-parekh
-    toc_index: 14
-  - role: author
-    thinker: trupti-parekh
-    toc_index: 15
-  - role: author
-    thinker_unresolved: રોહિત/તૃપ્તિ
-    toc_index: 16
-  - role: author
-    thinker: trupti-parekh
-    toc_index: 17
-related_thinkers: 
-  - javed-anand
-  - jawaharlal-nehru
-  - mahatma-gandhi
-  - rabindranath-tagore
-  - swami-anand
-
+- role: author
+  thinker: rajesh-mishra
+  toc_index: 3
+- role: author
+  toc_index: 4
+  thinker: unnamed-figure
+- role: author
+  thinker: ashwin-karia
+  toc_index: 5
+- role: author
+  toc_index: 6
+  thinker: unnamed-figure
+- role: author
+  thinker: ismail-gandhi
+  toc_index: 7
+- role: author
+  thinker: rajesh-mishra
+  toc_index: 8
+- role: author
+  thinker: ambrish-mehta
+  toc_index: 9
+- role: author
+  toc_index: 10
+  thinker: unnamed-figure
+- role: author
+  thinker: mukesh-adenwala
+  toc_index: 11
+- role: author
+  thinker: ila-bhatt
+  toc_index: 12
+- role: author
+  toc_index: 13
+  thinker: unnamed-figure
+- role: author
+  thinker: trupti-parekh
+  toc_index: 14
+- role: author
+  thinker: trupti-parekh
+  toc_index: 15
+- role: author
+  toc_index: 16
+  thinker: unnamed-figure
+- role: author
+  thinker: trupti-parekh
+  toc_index: 17
+related_thinkers:
+- ambrish-mehta
+- ashwin-karia
+- ila-bhatt
+- ismail-gandhi
+- javed-anand
+- jawaharlal-nehru
+- mahatma-gandhi
+- mukesh-adenwala
+- rabindranath-tagore
+- rajesh-mishra
+- swami-anand
+- trupti-parekh
 publication:
   language: gu
   publisher_id: khoj
@@ -84,15 +90,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - civil-society
-  - communalism-secularism
-  - social-reform
-  - urban-poverty
-  - elections-democracy
-summary: "Khoj (ખોજ — જીવન એક અવિરત ખોજ), a Gujarati-language periodical published from Vadodara, presents this combined double issue (January–April 2009, Year 3, Issues 1–2) under the thematic banner 'આર્થિક કટોકટી' (Economic Crisis). In the rendered pages, the issue opens with an editorial by Ambrish Mehta that frames the 2008–09 global financial crisis as an occasion to revisit foundational questions about markets and state regulation, and previews contributions from economist John Taylor (via a Peter Robinson interview), Mukesh Adenwala, and Ela R. Bhatt. The letters section brings a polyphonic range of reader voices on communalism, Muslim identity, and the role of the periodical itself — including a 1942 Gujarati poem 'The Prayer of Youth' by Nathalal Dave of Bhavnagar.…"
+- economic-policy
+- civil-society
+- communalism-secularism
+- social-reform
+- urban-poverty
+- elections-democracy
+summary: Khoj (ખોજ — જીવન એક અવિરત ખોજ), a Gujarati-language periodical published
+  from Vadodara, presents this combined double issue (January–April 2009, Year 3,
+  Issues 1–2) under the thematic banner 'આર્થિક કટોકટી' (Economic Crisis). In the
+  rendered pages, the issue opens with an editorial by Ambrish Mehta that frames the
+  2008–09 global financial crisis as an occasion to revisit foundational questions
+  about markets and state regulation, and previews contributions from economist John
+  Taylor (via a Peter Robinson interview), Mukesh Adenwala, and Ela R. Bhatt. The
+  letters section brings a polyphonic range of reader voices on communalism, Muslim
+  identity, and the role of the periodical itself — including a 1942 Gujarati poem
+  'The Prayer of Youth' by Nathalal Dave of Bhavnagar.…
 needs_review: true
 draft: false
 ai:
@@ -103,53 +119,79 @@ physical:
   pages_rendered: 20
   pages_total: 68
   pages_total_source: pypdfium2
-  format: periodical issue; bi-monthly combined issue (January-February and March-April 2009)
+  format: periodical issue; bi-monthly combined issue (January-February and March-April
+    2009)
 missing_metadata_flags:
-  - issn_not_found
-  - no_publisher_address_formal
-  - toc_index_18_no_byline
+- issn_not_found
+- no_publisher_address_formal
+- toc_index_18_no_byline
 thinker_mentions:
-  - thinker: swami-anand
-    role: mention
-    reasoning: "Varsha Chaudhary's field report on tribal women's resistance to liquor in south Gujarat anchors its moral argument in Swami Anand's book Dharti nu Loon (Salt of the Earth), citing it as the literary-cultural reference for the anti-prohibition-failure struggle."
-    evidence:
-      - quote: "The article invokes Swami Anand's book 'Dharti nu Loon' (Salt of the Earth) as a moral reference"
-        context: "Chaudhary's essay invokes Swami Anand as the moral-literary anchor for community resistance to liquor"
-      - quote: "Invokes Swami Anand's 'Dharti nu Loon' as a moral-cultural reference for the stakes of the anti-liquor struggle."
-        context: "key-points restatement positioning Swami Anand's text as the framing reference for the prohibition-failure argument"
-    key_passages: []
-  - thinker: javed-anand
-    role: mention
-    reasoning: "Rajesh Mishra's sadabhavana essay engages Javed Anand's commentary in Communalism Combat as a key interlocutor on Gujarat's communal situation seven years after the 2002 riots."
-    evidence:
-      - quote: "He engages Javeed Anand's commentary in Communalism Combat and analyses why sadabhavana events remain necessary but often fail to produce structural change."
-        context: "Mishra positions Javed Anand's Communalism Combat commentary as a primary critical voice on Gujarat's communal politics"
-      - quote: "Engages Javeed Anand (Communalism Combat) as a commentator on Gujarat's communal situation."
-        context: "key-points restatement naming Javed Anand among the essay's principal interlocutors"
-    key_passages: []
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Ashvinkumar Karia's critique of moral policing places Gandhi within a combined Western-Indian intellectual tradition — alongside Aristotle, Plato, Nehru and Tagore — that he marshals against coercive moralism."
-    evidence:
-      - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle, Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
-        context: "Gandhi enlisted within Karia's lineage of thinkers opposed to vigilante religious enforcement"
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Karia's essay against moral policing invokes Nehru as one of the Indian thinkers in a combined Western-Indian tradition opposing coercive moralism."
-    evidence:
-      - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle, Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
-        context: Nehru cited alongside Gandhi and Tagore as part of the canonical Indian voice against vigilante morality
-    key_passages: []
-  - thinker: rabindranath-tagore
-    role: mention
-    reasoning: "Karia's essay against moral policing invokes Tagore as part of a combined Western-Indian tradition — alongside Gandhi and Nehru — that cultivates inner conscience over external moral enforcement."
-    evidence:
-      - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle, Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
-        context: "Tagore named within Karia's lineage of conscience-based moralists arrayed against coercive religious policing"
-    key_passages: []
-
+- thinker: swami-anand
+  role: mention
+  reasoning: Varsha Chaudhary's field report on tribal women's resistance to liquor
+    in south Gujarat anchors its moral argument in Swami Anand's book Dharti nu Loon
+    (Salt of the Earth), citing it as the literary-cultural reference for the anti-prohibition-failure
+    struggle.
+  evidence:
+  - quote: The article invokes Swami Anand's book 'Dharti nu Loon' (Salt of the Earth)
+      as a moral reference
+    context: Chaudhary's essay invokes Swami Anand as the moral-literary anchor for
+      community resistance to liquor
+  - quote: Invokes Swami Anand's 'Dharti nu Loon' as a moral-cultural reference for
+      the stakes of the anti-liquor struggle.
+    context: key-points restatement positioning Swami Anand's text as the framing
+      reference for the prohibition-failure argument
+  key_passages: []
+- thinker: javed-anand
+  role: mention
+  reasoning: Rajesh Mishra's sadabhavana essay engages Javed Anand's commentary in
+    Communalism Combat as a key interlocutor on Gujarat's communal situation seven
+    years after the 2002 riots.
+  evidence:
+  - quote: He engages Javeed Anand's commentary in Communalism Combat and analyses
+      why sadabhavana events remain necessary but often fail to produce structural
+      change.
+    context: Mishra positions Javed Anand's Communalism Combat commentary as a primary
+      critical voice on Gujarat's communal politics
+  - quote: Engages Javeed Anand (Communalism Combat) as a commentator on Gujarat's
+      communal situation.
+    context: key-points restatement naming Javed Anand among the essay's principal
+      interlocutors
+  key_passages: []
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Ashvinkumar Karia's critique of moral policing places Gandhi within a
+    combined Western-Indian intellectual tradition — alongside Aristotle, Plato, Nehru
+    and Tagore — that he marshals against coercive moralism.
+  evidence:
+  - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle,
+      Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
+    context: Gandhi enlisted within Karia's lineage of thinkers opposed to vigilante
+      religious enforcement
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Karia's essay against moral policing invokes Nehru as one of the Indian
+    thinkers in a combined Western-Indian tradition opposing coercive moralism.
+  evidence:
+  - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle,
+      Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
+    context: Nehru cited alongside Gandhi and Tagore as part of the canonical Indian
+      voice against vigilante morality
+  key_passages: []
+- thinker: rabindranath-tagore
+  role: mention
+  reasoning: Karia's essay against moral policing invokes Tagore as part of a combined
+    Western-Indian tradition — alongside Gandhi and Nehru — that cultivates inner
+    conscience over external moral enforcement.
+  evidence:
+  - quote: Karia draws on a tradition of Western and Indian thinkers — Aristotle,
+      Plato, Raphael, Gandhi, Nehru, Tagore, Vivekananda — who oppose coercive moralism
+    context: Tagore named within Karia's lineage of conscience-based moralists arrayed
+      against coercive religious policing
+  key_passages: []
 ---
+
 ## Summary
 
 Khoj (ખોજ — જીવન એક અવિરત ખોજ), a Gujarati-language periodical published from Vadodara, presents this combined double issue (January–April 2009, Year 3, Issues 1–2) under the thematic banner 'આર્થિક કટોકટી' (Economic Crisis). In the rendered pages, the issue opens with an editorial by Ambrish Mehta that frames the 2008–09 global financial crisis as an occasion to revisit foundational questions about markets and state regulation, and previews contributions from economist John Taylor (via a Peter Robinson interview), Mukesh Adenwala, and Ela R. Bhatt. The letters section brings a polyphonic range of reader voices on communalism, Muslim identity, and the role of the periodical itself — including a 1942 Gujarati poem 'The Prayer of Youth' by Nathalal Dave of Bhavnagar. The five substantive articles visible in the rendered pages cover: a Hepatitis B outbreak in Modasa traced to unqualified practitioners (Rajesh Mishra); tribal women's resistance to liquor in south Gujarat (Varsha Chaudhary); a critique of 'moral policing' in contemporary India referencing Gandhi, Nehru, and Tagore (Ashvinkumar Karia); a translated analysis of Taliban rule and human rights erosion in Pakistan's Swat Valley (Murtaza Razvi, translated from Dawn by Trupti Parekh); an appeal for Hindu-Muslim communal harmony in the wake of Deoband fatwas (Ismail Gandhi); and a substantive essay on the state of the sadabhavana (goodwill) movement in Gujarat seven years after the 2002 riots (Rajesh Mishra). The thematic centre of gravity in the rendered pages lies at the intersection of civil society, communalism-secularism, and public health — with the economic-crisis frame announced on the cover and in the editorial but not yet developed in the articles falling within the first twenty pages.

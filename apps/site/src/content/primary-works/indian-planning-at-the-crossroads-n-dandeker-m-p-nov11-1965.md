@@ -2,33 +2,36 @@
 id: indian-planning-at-the-crossroads-n-dandeker-m-p-nov11-1965
 title:
   main: Indian Planning at the Cross-Roads
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - k-santhanam
+- k-santhanam
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: N. DANDEKER, M.P.
-    toc_index: 1
-  - role: author
-    thinker_unresolved: G. L. MEHTA
-    toc_index: 2
-  - role: author
-    thinker: k-santhanam
-    toc_index: 3
-related_thinkers: 
-  - a-d-shroff
-  - c-rajagopalachari
-  - eugene-black
-  - john-kenneth-galbraith
-  - lal-bahadur-shastri
-  - winston-churchill
-
+- role: author
+  toc_index: 1
+  thinker: n-dandeker-m-p
+- role: author
+  toc_index: 2
+  thinker: g-l-mehta
+- role: author
+  thinker: k-santhanam
+  toc_index: 3
+related_thinkers:
+- a-d-shroff
+- c-rajagopalachari
+- eugene-black
+- john-kenneth-galbraith
+- k-santhanam
+- lal-bahadur-shastri
+- winston-churchill
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE, \"SOHRAB HOUSE\", 235 DR. D. N. ROAD, BOMBAY-1 / Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs Ltd.) Sassoon Dock Colaba, Bombay-5"
+  publisher_name: FORUM OF FREE ENTERPRISE, "SOHRAB HOUSE", 235 DR. D. N. ROAD, BOMBAY-1
+    / Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji
+    Road, Bombay 1, and Printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs
+    Ltd.) Sassoon Dock Colaba, Bombay-5
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1965
@@ -40,12 +43,24 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-planning
-  - inflation
-  - economic-policy
-summary: "This November 1965 Forum of Free Enterprise booklet bundles three short interventions on the Fourth Five-Year Plan, issued as the Indian economy slid into monetary inflation, a foreign-exchange crunch, and chronic foodgrain shortages. The contributors are N. Dandeker, an M.P. with administrative experience in the I.C.S.; G. L. Mehta, a former Indian Ambassador to the U.S.A., former member of the Planning Commission, and Chairman of the Industrial Credit and Investment Corporation of India; and K. Santhanam, M.P., former Chairman of the Finance Commission, whose piece is reprinted from the Statesman of July 24, 1964. All three reject the Planning Commission's proposed Rs. 21,500-crore Fourth Plan as conceived, but from distinct angles. Dandeker indicts the macro consequences of monetary expansion, the collapse of public utilities, the worsening foreign-exchange position, and \"rupee payment trade\" as a quack remedy, arguing that \"totalitarian\" planning has been eroding the Constitution.…"
+- economic-planning
+- inflation
+- economic-policy
+summary: This November 1965 Forum of Free Enterprise booklet bundles three short interventions
+  on the Fourth Five-Year Plan, issued as the Indian economy slid into monetary inflation,
+  a foreign-exchange crunch, and chronic foodgrain shortages. The contributors are
+  N. Dandeker, an M.P. with administrative experience in the I.C.S.; G. L. Mehta,
+  a former Indian Ambassador to the U.S.A., former member of the Planning Commission,
+  and Chairman of the Industrial Credit and Investment Corporation of India; and K.
+  Santhanam, M.P., former Chairman of the Finance Commission, whose piece is reprinted
+  from the Statesman of July 24, 1964. All three reject the Planning Commission's
+  proposed Rs. 21,500-crore Fourth Plan as conceived, but from distinct angles. Dandeker
+  indicts the macro consequences of monetary expansion, the collapse of public utilities,
+  the worsening foreign-exchange position, and "rupee payment trade" as a quack remedy,
+  arguing that "totalitarian" planning has been eroding the Constitution.…
 needs_review: true
 draft: false
 ai:
@@ -57,59 +72,88 @@ physical:
   pages_rendered: 13
   pages_total: 13
   pages_total_source: pypdfium2
-  format: Saddle-stitched paper booklet; printed pages 1–20 imaged across 13 PDF spreads, orange-and-cream illustrated wrappers.
+  format: Saddle-stitched paper booklet; printed pages 1–20 imaged across 13 PDF spreads,
+    orange-and-cream illustrated wrappers.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
+- editor_not_named
+- no_formal_toc_page
 thinker_mentions:
-  - thinker: eugene-black
-    role: mention
-    reasoning: The booklet is framed by sidebar pull-quotes from Eugene Black (paired with A. D. Shroff) defending private enterprise as an affirmative good — the standard Forum of Free Enterprise framing around the three Plan-critique essays.
-    evidence:
-      - quote: The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.
-        context: Black supplies one of the two pull-quotes that frame the Dandeker-Mehta-Santhanam compilation
-    key_passages: []
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Shroff appears alongside Eugene Black in the booklet's sidebar pull-quotes, supplying the Forum of Free Enterprise's affirmative-good framing around the three Plan-critique essays."
-    evidence:
-      - quote: The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.
-        context: Shroff supplies one of the two pull-quotes that frame the booklet
-    key_passages: []
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "Mehta invokes Rajaji's quip about a cure that killed the patient's wife to argue for selective rather than blanket capital-issues control."
-    evidence:
-      - quote: "more selective control of capital issues, illustrated by Rajaji's quip about a cure that killed the patient's wife"
-        context: Rajaji is invoked by G. L. Mehta as the witty authority against blanket capital-issues control
-      - quote: Calls for selective capital-issues control rather than blanket restraint; cites Rajaji on cures killing the patient
-        context: "key-points restatement of Mehta's use of Rajaji"
-    key_passages: []
-  - thinker: john-kenneth-galbraith
-    role: mention
-    reasoning: "Mehta dismisses further public-sector steel plants, petro-chemical complexes and the Cochin shipyard as Galbraithian 'symbolic modernism' — using Galbraith's coinage as the polemical label for showpiece investments."
-    evidence:
-      - quote: "closer scrutiny of further petro-chemical complexes, additional public-sector steel plants and the long-delayed Cochin shipyard, which he treats as instances of what \"Prof. Galbraith would call symbolic modernism\""
-        context: "Galbraith's phrase 'symbolic modernism' is the rhetorical device Mehta turns against Plan showpieces"
-      - quote: "Treats further petro-chemical complexes, new public-sector steel plants and the Cochin shipyard as Galbraithian \"symbolic modernism\""
-        context: key-points restatement of the Galbraithian framing
-    key_passages: []
-  - thinker: lal-bahadur-shastri
-    role: mention
-    reasoning: "Santhanam argues that Lal Bahadur Shastri's first year in office has stabilised the country and that the immediate task is plan consolidation rather than fresh expansion — using Shastri's stabilisation as the political ground for his one-year Third-Plan extension."
-    evidence:
-      - quote: "Santhanam's piece — reprinted with the Editor's permission from the Statesman of 24 July 1964 — argues that Lal Bahadur Shastri's first year in office has stabilised the country and that the immediate task is plan consolidation rather than a fresh round of expansion."
-        context: "Shastri's stewardship is Santhanam's political ground for plan consolidation"
-    key_passages: []
-  - thinker: winston-churchill
-    role: mention
-    reasoning: "Santhanam echoes Churchill's refusal to liquidate the empire — hoping the Finance Minister of India will fare better than the Prime Minister of Britain who failed to do likewise — as a rhetorical analogy for his Plan-extension proposal."
-    evidence:
-      - quote: "Echoing Churchill's refusal to liquidate the empire, he hopes the Finance Minister of India will fare better than the Prime Minister of Britain who failed to do likewise."
-        context: Churchill is invoked as the British analogue Santhanam wants the Indian Finance Minister to outdo
-    key_passages: []
-
+- thinker: eugene-black
+  role: mention
+  reasoning: The booklet is framed by sidebar pull-quotes from Eugene Black (paired
+    with A. D. Shroff) defending private enterprise as an affirmative good — the standard
+    Forum of Free Enterprise framing around the three Plan-critique essays.
+  evidence:
+  - quote: The booklet is framed by sidebar pull-quotes from Eugene Black and A. D.
+      Shroff defending private enterprise as an affirmative good.
+    context: Black supplies one of the two pull-quotes that frame the Dandeker-Mehta-Santhanam
+      compilation
+  key_passages: []
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff appears alongside Eugene Black in the booklet's sidebar pull-quotes,
+    supplying the Forum of Free Enterprise's affirmative-good framing around the three
+    Plan-critique essays.
+  evidence:
+  - quote: The booklet is framed by sidebar pull-quotes from Eugene Black and A. D.
+      Shroff defending private enterprise as an affirmative good.
+    context: Shroff supplies one of the two pull-quotes that frame the booklet
+  key_passages: []
+- thinker: c-rajagopalachari
+  role: mention
+  reasoning: Mehta invokes Rajaji's quip about a cure that killed the patient's wife
+    to argue for selective rather than blanket capital-issues control.
+  evidence:
+  - quote: more selective control of capital issues, illustrated by Rajaji's quip
+      about a cure that killed the patient's wife
+    context: Rajaji is invoked by G. L. Mehta as the witty authority against blanket
+      capital-issues control
+  - quote: Calls for selective capital-issues control rather than blanket restraint;
+      cites Rajaji on cures killing the patient
+    context: key-points restatement of Mehta's use of Rajaji
+  key_passages: []
+- thinker: john-kenneth-galbraith
+  role: mention
+  reasoning: Mehta dismisses further public-sector steel plants, petro-chemical complexes
+    and the Cochin shipyard as Galbraithian 'symbolic modernism' — using Galbraith's
+    coinage as the polemical label for showpiece investments.
+  evidence:
+  - quote: closer scrutiny of further petro-chemical complexes, additional public-sector
+      steel plants and the long-delayed Cochin shipyard, which he treats as instances
+      of what "Prof. Galbraith would call symbolic modernism"
+    context: Galbraith's phrase 'symbolic modernism' is the rhetorical device Mehta
+      turns against Plan showpieces
+  - quote: Treats further petro-chemical complexes, new public-sector steel plants
+      and the Cochin shipyard as Galbraithian "symbolic modernism"
+    context: key-points restatement of the Galbraithian framing
+  key_passages: []
+- thinker: lal-bahadur-shastri
+  role: mention
+  reasoning: Santhanam argues that Lal Bahadur Shastri's first year in office has
+    stabilised the country and that the immediate task is plan consolidation rather
+    than fresh expansion — using Shastri's stabilisation as the political ground for
+    his one-year Third-Plan extension.
+  evidence:
+  - quote: Santhanam's piece — reprinted with the Editor's permission from the Statesman
+      of 24 July 1964 — argues that Lal Bahadur Shastri's first year in office has
+      stabilised the country and that the immediate task is plan consolidation rather
+      than a fresh round of expansion.
+    context: Shastri's stewardship is Santhanam's political ground for plan consolidation
+  key_passages: []
+- thinker: winston-churchill
+  role: mention
+  reasoning: Santhanam echoes Churchill's refusal to liquidate the empire — hoping
+    the Finance Minister of India will fare better than the Prime Minister of Britain
+    who failed to do likewise — as a rhetorical analogy for his Plan-extension proposal.
+  evidence:
+  - quote: Echoing Churchill's refusal to liquidate the empire, he hopes the Finance
+      Minister of India will fare better than the Prime Minister of Britain who failed
+      to do likewise.
+    context: Churchill is invoked as the British analogue Santhanam wants the Indian
+      Finance Minister to outdo
+  key_passages: []
 ---
+
 ## Summary
 
 This November 1965 Forum of Free Enterprise booklet bundles three short interventions on the Fourth Five-Year Plan, issued as the Indian economy slid into monetary inflation, a foreign-exchange crunch, and chronic foodgrain shortages. The contributors are N. Dandeker, an M.P. with administrative experience in the I.C.S.; G. L. Mehta, a former Indian Ambassador to the U.S.A., former member of the Planning Commission, and Chairman of the Industrial Credit and Investment Corporation of India; and K. Santhanam, M.P., former Chairman of the Finance Commission, whose piece is reprinted from the Statesman of July 24, 1964. All three reject the Planning Commission's proposed Rs. 21,500-crore Fourth Plan as conceived, but from distinct angles. Dandeker indicts the macro consequences of monetary expansion, the collapse of public utilities, the worsening foreign-exchange position, and "rupee payment trade" as a quack remedy, arguing that "totalitarian" planning has been eroding the Constitution. Mehta urges a smaller, more selective Plan, automatic licensing of projects that do not draw on foreign exchange, and scepticism about further public-sector steel plants, petro-chemical complexes, and the Cochin shipyard as Galbraith's "symbolic modernism." Santhanam pleads for a one-year extension of the Third Plan to March 1967, a moratorium on new starts, and self-financing public-sector industries, warning that the assumption that Fourth-Plan outlays must be proportionate to the Third has "become a vested interest." The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.

@@ -2,23 +2,23 @@
 id: social-entrepreneurship-dr-mrs-indu-shahani-april-4-2009
 title:
   main: SOCIAL ENTREPRENEURSHIP
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Dr. (Mrs.) Indu Shahani
-  - role: editor
-    thinker_unresolved: S. S. Bhandare
-related_thinkers:
-  - a-d-shroff
-  - ila-bhatt
-  - mahatma-gandhi
+- role: author
+  thinker: mrs-indu-shahani
+- role: editor
+  thinker: s-s-bhandare
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G D. Ambekar Marg, Wadala, Mumbai
+    400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2009
@@ -31,13 +31,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - civil-society
-  - entrepreneurship
-  - free-enterprise
-  - education
-summary: "Indu Shahani's twentieth Bhogilal Leherchand Memorial Lecture, delivered on 15 December 2008 and published by the Forum of Free Enterprise in April 2009, makes the case that social entrepreneurship — the disciplined application of entrepreneurial tools to large-scale social problems — is the most promising response to the limits of charity, philanthropy and state provision. Shahani opens with the story that drew her into the subject: shortly after becoming the 110th Sheriff of Mumbai she was approached by two returnees from England who proposed the \"Dial 1298 for Ambulance\" service, a cross-subsidy ambulance network modelled on the London Ambulance Service that has grown from two to fifty-one vehicles in three years.\n\nShe defines a social entrepreneur as one who, unlike a business entrepreneur, measures success in terms of impact on society, and sketches an operational framework: a public good delivered to those who cannot otherwise access it; both the founder and the organisation acting as catalysts of change; and the founder eventually morphing into a figurehead for a wider movement. The lecture roams across historical exemplars (Susan B.…"
+- civil-society
+- entrepreneurship
+- free-enterprise
+- education
+summary: 'Indu Shahani''s twentieth Bhogilal Leherchand Memorial Lecture, delivered
+  on 15 December 2008 and published by the Forum of Free Enterprise in April 2009,
+  makes the case that social entrepreneurship — the disciplined application of entrepreneurial
+  tools to large-scale social problems — is the most promising response to the limits
+  of charity, philanthropy and state provision. Shahani opens with the story that
+  drew her into the subject: shortly after becoming the 110th Sheriff of Mumbai she
+  was approached by two returnees from England who proposed the "Dial 1298 for Ambulance"
+  service, a cross-subsidy ambulance network modelled on the London Ambulance Service
+  that has grown from two to fifty-one vehicles in three years.
+
+
+  She defines a social entrepreneur as one who, unlike a business entrepreneur, measures
+  success in terms of impact on society, and sketches an operational framework: a
+  public good delivered to those who cannot otherwise access it; both the founder
+  and the organisation acting as catalysts of change; and the founder eventually morphing
+  into a figurehead for a wider movement. The lecture roams across historical exemplars
+  (Susan B.…'
 needs_review: true
 draft: false
 ai:
@@ -48,10 +65,12 @@ physical:
   pages_rendered: 13
   pages_total: 13
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet; printed page numbering runs to p. 20 (rendered as 13 two-page spread images); FFE-branded cover with brown design, sponsored by Bhogilal Leherchand Foundation.
+  format: Pamphlet/booklet; printed page numbering runs to p. 20 (rendered as 13 two-page
+    spread images); FFE-branded cover with brown design, sponsored by Bhogilal Leherchand
+    Foundation.
 missing_metadata_flags:
-  - no_isbn
-  - no_formal_toc
+- no_isbn
+- no_formal_toc
 ---
 
 # SOCIAL ENTREPRENEURSHIP

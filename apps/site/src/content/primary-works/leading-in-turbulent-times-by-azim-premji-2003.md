@@ -2,26 +2,29 @@
 id: leading-in-turbulent-times-by-azim-premji-2003
 title:
   main: Leading in Turbulent Times
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - azim-premji
+- azim-premji
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: BY AZIM PREMJI
-    toc_index: 1
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - a-d-shroff
-  - eugene-black
-  - minoo-shroff
-
+- role: author
+  toc_index: 1
+  thinker: by-azim-premji
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- a-d-shroff
+- azim-premji
+- eugene-black
+- minoo-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by S. S. Bhandare for the Forum of Free Enterprise, 'Peninsula House', 235, Dr. D. N. Road, Mumbai 400 001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031."
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, 'Peninsula
+    House', 235, Dr. D. N. Road, Mumbai 400 001, and Printed by S. V. Limaye at India
+    Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400
+    031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2003
@@ -33,12 +36,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - private-enterprise
-  - free-enterprise
-  - globalisation
-summary: "This 2003 Forum of Free Enterprise booklet bundles two short pieces by Azim Premji, Chairman of Wipro Corporation: the Bhogilal Leherchand Memorial Lecture he delivered in Mumbai on 2 December 2002 under the title \"Leading in Turbulent Times,\" and his earlier convocation address at IIT Chennai of 27 July 2001, reprinted as \"Opportunities and Challenges.\" Together they sit inside FFE's classical-liberal pamphleteering tradition not as a policy intervention but as a corporate leader's argument that private enterprise must deserve, through its own internal culture, the latitude that liberals seek to defend for it.\n\nThe title essay reads the early-2000s slump — globalisation shock, recession, and the wave of US corporate scams of which Enron is the named case — and argues that the gravest casualty has been investor trust, not balance-sheet value.…"
+- private-enterprise
+- free-enterprise
+- globalisation
+summary: 'This 2003 Forum of Free Enterprise booklet bundles two short pieces by Azim
+  Premji, Chairman of Wipro Corporation: the Bhogilal Leherchand Memorial Lecture
+  he delivered in Mumbai on 2 December 2002 under the title "Leading in Turbulent
+  Times," and his earlier convocation address at IIT Chennai of 27 July 2001, reprinted
+  as "Opportunities and Challenges." Together they sit inside FFE''s classical-liberal
+  pamphleteering tradition not as a policy intervention but as a corporate leader''s
+  argument that private enterprise must deserve, through its own internal culture,
+  the latitude that liberals seek to defend for it.
+
+
+  The title essay reads the early-2000s slump — globalisation shock, recession, and
+  the wave of US corporate scams of which Enron is the named case — and argues that
+  the gravest casualty has been investor trust, not balance-sheet value.…'
 needs_review: false
 draft: false
 ai:
@@ -49,10 +65,11 @@ physical:
   pages_rendered: 20
   pages_total: 20
   pages_total_source: pypdfium2
-  format: Booklet / pamphlet — text of the Bhogilal Leherchand Memorial Lecture printed as a Forum of Free Enterprise booklet.
+  format: Booklet / pamphlet — text of the Bhogilal Leherchand Memorial Lecture printed
+    as a Forum of Free Enterprise booklet.
 missing_metadata_flags:
-  - no_isbn
-  - no_formal_toc
+- no_isbn
+- no_formal_toc
 authors_resolution:
   confidence: high
   method: deterministic
@@ -61,28 +78,39 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Shroff's dedication on the inside cover anchors Premji's leadership lectures inside the Forum of Free Enterprise's classical-liberal frame, presenting free enterprise as a survival principle."
-    evidence:
-      - quote: "an A. D. Shroff dedication on the inside cover (\"Free Enterprise was born with man and shall survive as long as man survives\")"
-        context: "the booklet's house furniture; Shroff's epigraph sets the polemical key for Premji's argument"
-    key_passages: []
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Black's closing quote — that private enterprise is an 'affirmative good' — is the booklet's editorial bookend, used to lift Premji's Values-based corporate ethic into the FFE classical-liberal canon."
-    evidence:
-      - quote: "a closing Eugene Black quote that \"people must come to accept private enterprise not as a necessary evil, but as an affirmative good,\""
-        context: "back-matter dedication; Black supplies the philosophical wrap on Premji's lectures"
-    key_passages: []
-  - thinker: minoo-shroff
-    role: mention
-    reasoning: "Minoo R. Shroff, as FFE President, writes the booklet's introduction — situating Premji's corporate-leadership ethic inside the Forum's broader case for private enterprise."
-    evidence:
-      - quote: an Introduction by FFE President Minoo R. Shroff, a closing Eugene Black quote
-        context: "editorial apparatus surrounding Premji's two speeches; Minoo Shroff is the FFE editor framing the booklet"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff's dedication on the inside cover anchors Premji's leadership lectures
+    inside the Forum of Free Enterprise's classical-liberal frame, presenting free
+    enterprise as a survival principle.
+  evidence:
+  - quote: an A. D. Shroff dedication on the inside cover ("Free Enterprise was born
+      with man and shall survive as long as man survives")
+    context: the booklet's house furniture; Shroff's epigraph sets the polemical key
+      for Premji's argument
+  key_passages: []
+- thinker: eugene-black
+  role: mention
+  reasoning: Black's closing quote — that private enterprise is an 'affirmative good'
+    — is the booklet's editorial bookend, used to lift Premji's Values-based corporate
+    ethic into the FFE classical-liberal canon.
+  evidence:
+  - quote: a closing Eugene Black quote that "people must come to accept private enterprise
+      not as a necessary evil, but as an affirmative good,"
+    context: back-matter dedication; Black supplies the philosophical wrap on Premji's
+      lectures
+  key_passages: []
+- thinker: minoo-shroff
+  role: mention
+  reasoning: Minoo R. Shroff, as FFE President, writes the booklet's introduction
+    — situating Premji's corporate-leadership ethic inside the Forum's broader case
+    for private enterprise.
+  evidence:
+  - quote: an Introduction by FFE President Minoo R. Shroff, a closing Eugene Black
+      quote
+    context: editorial apparatus surrounding Premji's two speeches; Minoo Shroff is
+      the FFE editor framing the booklet
+  key_passages: []
 ---
 
 ## Summary

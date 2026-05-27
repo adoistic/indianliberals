@@ -1,30 +1,30 @@
 ---
 id: indian-planning-past-and-future-sir-biren-mookerjee-dr-n-das-h-t-parekh-june-11-1966
 title:
-  main: "INDIAN PLANNING —PAST & FUTURE"
-  subtitle: ""
+  main: INDIAN PLANNING —PAST & FUTURE
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - biren-mookerjee
-  - h-t-parekh
+- biren-mookerjee
+- h-t-parekh
 editors: []
 contributors:
-  - role: author
-    thinker: biren-mookerjee
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Dr. N. DAS I.C.S. (Retd.)
-    toc_index: 2
-  - role: author
-    thinker: h-t-parekh
-    toc_index: 3
-related_thinkers: 
-  - colin-clark
-  - eugene-black
-  - john-kenneth-galbraith
-  - p-v-sukhatme
-
-
+- role: author
+  thinker: biren-mookerjee
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: n-das
+- role: author
+  thinker: h-t-parekh
+  toc_index: 3
+related_thinkers:
+- biren-mookerjee
+- colin-clark
+- eugene-black
+- h-t-parekh
+- john-kenneth-galbraith
+- p-v-sukhatme
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -40,19 +40,41 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-planning
-  - development-economics
-  - private-enterprise
-  - public-sector
-  - agriculture
-  - inflation
-  - monetary-policy
-summary: |
-  This Forum of Free Enterprise booklet gathers three independent essays by prominent Indian voices in industry, economics, and finance, all converging on a single verdict: fifteen years of Five-Year Plans have failed to improve the material condition of the average Indian, and the Fourth Plan must radically reconsider both its diagnosis and its methods. The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as "an affirmative good" rather than a tolerated evil.
+- economic-planning
+- development-economics
+- private-enterprise
+- public-sector
+- agriculture
+- inflation
+- monetary-policy
+summary: 'This Forum of Free Enterprise booklet gathers three independent essays by
+  prominent Indian voices in industry, economics, and finance, all converging on a
+  single verdict: fifteen years of Five-Year Plans have failed to improve the material
+  condition of the average Indian, and the Fourth Plan must radically reconsider both
+  its diagnosis and its methods. The frontispiece frames the volume''s ideological
+  stance with a Eugene Black epigraph insisting that private enterprise be embraced
+  as "an affirmative good" rather than a tolerated evil.
 
-  Sir Biren Mookerjee's opening essay argues that planning success is impossible without sweeping modernisation — mechanisation, automation, and managerial pragmatism — and lays particular blame on restrictive public-sector licensing and a 'labour monopoly' that prices Indian goods out of world markets. Dr. N. Das (I.C.S. Retd.) furnishes a dense statistical indictment originally published in the Times of India, showing that per-capita income, foodgrain consumption, housing, and employment all registered negligible or negative improvement across the planning period; he marshals Galbraith's consumption criterion, Sukhatme's nutrition studies, and Colin Clark's investment-employment ratio to conclude that planning has failed even on minimum-human-needs criteria. H. T. Parekh, writing as General Manager of ICICI on the eve of the Fourth Plan, reframes the central problem as runaway inflation produced by contradictory fiscal, monetary, and price-control policies — citing the sugar industry as a textbook case of government-industry-farmer collusion — and urges a shift from prestige-driven outlay targets to economical, productivity-oriented resource use.
+
+  Sir Biren Mookerjee''s opening essay argues that planning success is impossible
+  without sweeping modernisation — mechanisation, automation, and managerial pragmatism
+  — and lays particular blame on restrictive public-sector licensing and a ''labour
+  monopoly'' that prices Indian goods out of world markets. Dr. N. Das (I.C.S. Retd.)
+  furnishes a dense statistical indictment originally published in the Times of India,
+  showing that per-capita income, foodgrain consumption, housing, and employment all
+  registered negligible or negative improvement across the planning period; he marshals
+  Galbraith''s consumption criterion, Sukhatme''s nutrition studies, and Colin Clark''s
+  investment-employment ratio to conclude that planning has failed even on minimum-human-needs
+  criteria. H. T. Parekh, writing as General Manager of ICICI on the eve of the Fourth
+  Plan, reframes the central problem as runaway inflation produced by contradictory
+  fiscal, monetary, and price-control policies — citing the sugar industry as a textbook
+  case of government-industry-farmer collusion — and urges a shift from prestige-driven
+  outlay targets to economical, productivity-oriented resource use.
+
+  '
 needs_review: true
 draft: false
 ai:
@@ -66,44 +88,77 @@ physical:
   pages_total_source: pypdfium2
   format: stapled pamphlet / booklet
 missing_metadata_flags:
-  - editor_not_named
-  - year_not_printed
-  - no_toc_page
+- editor_not_named
+- year_not_printed
+- no_toc_page
 thinker_mentions:
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Eugene Black is quoted on the frontispiece as the ideological epigraph for the entire volume — his insistence that private enterprise be embraced as 'an affirmative good' rather than a tolerated evil sets the pro-market frame for the three essays that follow."
-    evidence:
-      - quote: "The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as \"an affirmative good\" rather than a tolerated evil."
-        context: "Eugene Black's epigraph opens the booklet and supplies its anti-dirigiste motto"
-    key_passages: []
-  - thinker: john-kenneth-galbraith
-    role: mention
-    reasoning: "Das builds his statistical indictment of fifteen years of planning by applying Galbraith's consumption criterion to Indian data, using it as a benchmark to show that the average Indian's diet is only three-quarters of the index for poor countries excluding India."
-    evidence:
-      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter, and calls for a fundamental reappraisal of planning strategy."
-        context: "Das's statistical indictment lists Galbraith first among the analytic authorities he marshals against the Plans"
-      - quote: "Applies Galbraith's consumption criterion and Sukhatme's nutrition data to show that the average Indian's diet is only three-quarters of the index for poor countries (excluding India), and that 250 million Indians are undernourished or malnourished."
-        context: "key-points summary deploys Galbraith's criterion to produce the booklet's headline malnutrition figure"
-    key_passages: []
-  - thinker: colin-clark
-    role: mention
-    reasoning: "Colin Clark's investment-employment ratio is one of the analytic instruments Das uses to argue that fifteen years of planning failed to translate aggregate investment into minimum human needs for food, clothing, and shelter."
-    evidence:
-      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter, and calls for a fundamental reappraisal of planning strategy."
-        context: "Das cites Clark's investment-employment ratio as a measurement framework underpinning his case against the Plans"
-    key_passages: []
-  - thinker: p-v-sukhatme
-    role: mention
-    reasoning: "Sukhatme's nutrition studies supply the data on which Das builds his case that India's per-capita foodgrain availability had actually fallen below pre-war levels by 1964, anchoring the volume's claim that planning had failed even on minimum-human-needs criteria."
-    evidence:
-      - quote: "Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies, USAID findings, and Colin Clark's investment-employment ratio, Das concludes that planning has failed to achieve even minimum human needs for food, clothing, and shelter, and calls for a fundamental reappraisal of planning strategy."
-        context: "Sukhatme's nutrition studies sit alongside Galbraith and Clark as Das's empirical authorities"
-      - quote: "Applies Galbraith's consumption criterion and Sukhatme's nutrition data to show that the average Indian's diet is only three-quarters of the index for poor countries (excluding India), and that 250 million Indians are undernourished or malnourished."
-        context: "Sukhatme's data underwrites the 250-million-undernourished headline figure"
-    key_passages: []
-
+- thinker: eugene-black
+  role: mention
+  reasoning: Eugene Black is quoted on the frontispiece as the ideological epigraph
+    for the entire volume — his insistence that private enterprise be embraced as
+    'an affirmative good' rather than a tolerated evil sets the pro-market frame for
+    the three essays that follow.
+  evidence:
+  - quote: The frontispiece frames the volume's ideological stance with a Eugene Black
+      epigraph insisting that private enterprise be embraced as "an affirmative good"
+      rather than a tolerated evil.
+    context: Eugene Black's epigraph opens the booklet and supplies its anti-dirigiste
+      motto
+  key_passages: []
+- thinker: john-kenneth-galbraith
+  role: mention
+  reasoning: Das builds his statistical indictment of fifteen years of planning by
+    applying Galbraith's consumption criterion to Indian data, using it as a benchmark
+    to show that the average Indian's diet is only three-quarters of the index for
+    poor countries excluding India.
+  evidence:
+  - quote: Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies,
+      USAID findings, and Colin Clark's investment-employment ratio, Das concludes
+      that planning has failed to achieve even minimum human needs for food, clothing,
+      and shelter, and calls for a fundamental reappraisal of planning strategy.
+    context: Das's statistical indictment lists Galbraith first among the analytic
+      authorities he marshals against the Plans
+  - quote: Applies Galbraith's consumption criterion and Sukhatme's nutrition data
+      to show that the average Indian's diet is only three-quarters of the index for
+      poor countries (excluding India), and that 250 million Indians are undernourished
+      or malnourished.
+    context: key-points summary deploys Galbraith's criterion to produce the booklet's
+      headline malnutrition figure
+  key_passages: []
+- thinker: colin-clark
+  role: mention
+  reasoning: Colin Clark's investment-employment ratio is one of the analytic instruments
+    Das uses to argue that fifteen years of planning failed to translate aggregate
+    investment into minimum human needs for food, clothing, and shelter.
+  evidence:
+  - quote: Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies,
+      USAID findings, and Colin Clark's investment-employment ratio, Das concludes
+      that planning has failed to achieve even minimum human needs for food, clothing,
+      and shelter, and calls for a fundamental reappraisal of planning strategy.
+    context: Das cites Clark's investment-employment ratio as a measurement framework
+      underpinning his case against the Plans
+  key_passages: []
+- thinker: p-v-sukhatme
+  role: mention
+  reasoning: Sukhatme's nutrition studies supply the data on which Das builds his
+    case that India's per-capita foodgrain availability had actually fallen below
+    pre-war levels by 1964, anchoring the volume's claim that planning had failed
+    even on minimum-human-needs criteria.
+  evidence:
+  - quote: Drawing on Galbraith's consumption criterion, Sukhatme's nutrition studies,
+      USAID findings, and Colin Clark's investment-employment ratio, Das concludes
+      that planning has failed to achieve even minimum human needs for food, clothing,
+      and shelter, and calls for a fundamental reappraisal of planning strategy.
+    context: Sukhatme's nutrition studies sit alongside Galbraith and Clark as Das's
+      empirical authorities
+  - quote: Applies Galbraith's consumption criterion and Sukhatme's nutrition data
+      to show that the average Indian's diet is only three-quarters of the index for
+      poor countries (excluding India), and that 250 million Indians are undernourished
+      or malnourished.
+    context: Sukhatme's data underwrites the 250-million-undernourished headline figure
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet gathers three independent essays by prominent Indian voices in industry, economics, and finance, all converging on a single verdict: fifteen years of Five-Year Plans have failed to improve the material condition of the average Indian, and the Fourth Plan must radically reconsider both its diagnosis and its methods. The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as "an affirmative good" rather than a tolerated evil. Mookerjee's opening essay argues that planning success is impossible without sweeping modernisation—mechanisation, automation, and managerial pragmatism—and lays particular blame on restrictive public-sector licensing and labour-monopoly policies. Das furnishes a dense statistical indictment, showing that per capita income, diet, housing, and employment all registered negligible or negative improvement across the planning period. Parekh, writing on the eve of the Fourth Plan, reframes the central problem as runaway inflation produced by contradictory fiscal, monetary, and price-control policies, and urges a shift from prestige-driven outlay targets to economical, productivity-oriented resource use.

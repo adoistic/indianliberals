@@ -1,39 +1,42 @@
 ---
 id: the-bombay-plan-and-other-essays-a-d-shroff-1968
 title:
-  main: "The Bombay Plan & Other Essays"
-  subtitle: Second A. D. Shroff Memorial Lectures delivered under the auspices of Forum of Free Enterprise
+  main: The Bombay Plan & Other Essays
+  subtitle: Second A. D. Shroff Memorial Lectures delivered under the auspices of
+    Forum of Free Enterprise
 work_type: edited_volume
 authors:
-  - h-v-r-iengar
+- h-v-r-iengar
 editors: []
 contributors:
-  - role: author
-    thinker: h-v-r-iengar
-    toc_index: 1
-  - role: author
-    thinker_unresolved: V. B. Karnik
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Dr. B. C. Ishwardas
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Sudhanshu Kumar Basu
-    toc_index: 4
-  - role: author
-    thinker_unresolved: M. V. Arunachalam
-    toc_index: 5
-  - role: author
-    thinker_unresolved: A. K. Chanda
-    toc_index: 6
-  - role: introduction
-    thinker_unresolved: Murarji J. Vaidya, President, Forum of Free Enterprise
+- role: author
+  thinker: h-v-r-iengar
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: v-b-karnik
+- role: author
+  toc_index: 3
+  thinker: b-c-ishwardas
+- role: author
+  toc_index: 4
+  thinker: sudhanshu-kumar-basu
+- role: author
+  toc_index: 5
+  thinker: m-v-arunachalam
+- role: author
+  toc_index: 6
+  thinker: a-k-chanda
+- role: introduction
+  thinker: murarji-j-vaidya-president-forum-of-free-enterprise
 related_thinkers:
-  - a-d-shroff
-  - jrd-tata
+- h-v-r-iengar
 publication:
   language: en
-  publisher_name: "Lalvani Publishing House, Bombay * Calcutta * New Delhi * Madras. Printed by S. R. Sawant at Ashok Printing Press, Khetwadi Main Road, Bombay 4, and published by S. P. Lalvani, Lalvani Publishing House, 210, Dr. D. N. Road, Bombay 1."
+  publisher_name: Lalvani Publishing House, Bombay * Calcutta * New Delhi * Madras.
+    Printed by S. R. Sawant at Ashok Printing Press, Khetwadi Main Road, Bombay 4,
+    and published by S. P. Lalvani, Lalvani Publishing House, 210, Dr. D. N. Road,
+    Bombay 1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1968
@@ -46,9 +49,20 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "The Bombay Plan and Other Essays (Lalvani Publishing House, 1968) collects the Second A. D. Shroff Memorial Lectures, delivered on 27 October 1967 under the auspices of the Forum of Free Enterprise to honour the memory of A. D. Shroff, who had founded the Forum in 1956. Six contributors — H. V. R. Iengar (a former Governor of the Reserve Bank of India), V. B. Karnik (veteran trade unionist and associate of M. N. Roy), Dr. B. C. Ishwardas, Sudhanshu Kumar Basu, M. V. Arunachalam and A. K. Chanda — address controversies of the late 1960s: the Bombay Plan in retrospect, the wave of gheraos in Bengal, benevolence in business, Centre-State financial relations, a new concept of capitalism, and the public sector. An introduction signed by Murarji J. Vaidya, President of the Forum, situates the lectures as a continuation of Shroff's effort to take economic argument to the ordinary citizen."
+summary: 'The Bombay Plan and Other Essays (Lalvani Publishing House, 1968) collects
+  the Second A. D. Shroff Memorial Lectures, delivered on 27 October 1967 under the
+  auspices of the Forum of Free Enterprise to honour the memory of A. D. Shroff, who
+  had founded the Forum in 1956. Six contributors — H. V. R. Iengar (a former Governor
+  of the Reserve Bank of India), V. B. Karnik (veteran trade unionist and associate
+  of M. N. Roy), Dr. B. C. Ishwardas, Sudhanshu Kumar Basu, M. V. Arunachalam and
+  A. K. Chanda — address controversies of the late 1960s: the Bombay Plan in retrospect,
+  the wave of gheraos in Bengal, benevolence in business, Centre-State financial relations,
+  a new concept of capitalism, and the public sector. An introduction signed by Murarji
+  J. Vaidya, President of the Forum, situates the lectures as a continuation of Shroff''s
+  effort to take economic argument to the ordinary citizen.'
 needs_review: true
 draft: false
 ai:
@@ -60,10 +74,11 @@ physical:
   pages_rendered: 20
   pages_total: 50
   pages_total_source: pypdfium2
-  format: paperback booklet; printed page count exceeds raw PDF page total because the scan presents two book pages per PDF page
+  format: paperback booklet; printed page count exceeds raw PDF page total because
+    the scan presents two book pages per PDF page
 missing_metadata_flags:
-  - editor_not_named
-  - no_isbn
+- editor_not_named
+- no_isbn
 ---
 
 # The Bombay Plan & Other Essays

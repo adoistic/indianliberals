@@ -2,21 +2,22 @@
 id: social-insurance-in-india-b-p-adarkar-june-22-1973
 title:
   main: SOCIAL INSURANCE IN INDIA
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Prof. B. P. ADARKAR
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers:
-  - a-d-shroff
-  - m-r-pai
+- role: author
+  thinker: b-p-adarkar
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
-  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD, BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at The Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-400 001.
+  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD,
+    BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial
+    Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades
+    at The Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-400 001.
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1973
@@ -28,9 +29,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Delivered on 22 June 1973 as the A. D. Shroff Memorial Lecture on Insurance, this is Prof. B. P. Adarkar's retrospective on the social insurance system whose foundations he himself laid in 1944 with his Report on Health Insurance — the document Sardar Patel famously dubbed the work of the 'chhota Beveridge.' Adarkar opens with a striking personal grievance: that the Indian 'Steel Frame' bureaucracy effectively ejected him from his own scheme, terminated his contract in 1946, and similarly drove out his successor Dr. C. L. Katial in 1953 — a pattern he generalises into his 'favourite dictum that In India, it is not Science but Nescience that rules.'\n\nThe rendered chapters define the scope of social insurance (drawing on Beveridge's 'Five Giants' and ILO doctrine), distinguish it from social assistance, and chart the progress of Indian schemes since 1952. Adarkar walks through the Employees' State Insurance Scheme (ESIS), the Employees' Provident Fund (EPF), the Coal Mines and Assam Tea Plantations Provident Fund Schemes, and lay-off/retrenchment compensation, with detailed statistics on coverage growth — ESIS alone now serving 16.7 million beneficiaries.…"
+summary: 'Delivered on 22 June 1973 as the A. D. Shroff Memorial Lecture on Insurance,
+  this is Prof. B. P. Adarkar''s retrospective on the social insurance system whose
+  foundations he himself laid in 1944 with his Report on Health Insurance — the document
+  Sardar Patel famously dubbed the work of the ''chhota Beveridge.'' Adarkar opens
+  with a striking personal grievance: that the Indian ''Steel Frame'' bureaucracy
+  effectively ejected him from his own scheme, terminated his contract in 1946, and
+  similarly drove out his successor Dr. C. L. Katial in 1953 — a pattern he generalises
+  into his ''favourite dictum that In India, it is not Science but Nescience that
+  rules.''
+
+
+  The rendered chapters define the scope of social insurance (drawing on Beveridge''s
+  ''Five Giants'' and ILO doctrine), distinguish it from social assistance, and chart
+  the progress of Indian schemes since 1952. Adarkar walks through the Employees''
+  State Insurance Scheme (ESIS), the Employees'' Provident Fund (EPF), the Coal Mines
+  and Assam Tea Plantations Provident Fund Schemes, and lay-off/retrenchment compensation,
+  with detailed statistics on coverage growth — ESIS alone now serving 16.7 million
+  beneficiaries.…'
 needs_review: true
 draft: false
 ai:
@@ -44,8 +63,8 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / printed booklet
 missing_metadata_flags:
-  - no_formal_toc
-  - publisher_not_in_authority_file_as_publisher
+- no_formal_toc
+- publisher_not_in_authority_file_as_publisher
 ---
 
 # SOCIAL INSURANCE IN INDIA

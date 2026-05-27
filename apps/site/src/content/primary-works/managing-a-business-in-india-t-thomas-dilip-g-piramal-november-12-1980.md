@@ -2,28 +2,30 @@
 id: managing-a-business-in-india-t-thomas-dilip-g-piramal-november-12-1980
 title:
   main: MANAGING A BUSINESS IN INDIA
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - t-thomas
-  - dilip-g-piramal
+- t-thomas
+- dilip-g-piramal
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: T. THOMAS
-    toc_index: 1
-  - role: author
-    thinker_unresolved: DILIP G. PIRAMAL
-    toc_index: 2
-related_thinkers: 
-  - eugene-black
-  - jawaharlal-nehru
-  - mahatma-gandhi
-
+- role: author
+  toc_index: 1
+  thinker: t-thomas
+- role: author
+  toc_index: 2
+  thinker: dilip-g-piramal
+related_thinkers:
+- dilip-g-piramal
+- eugene-black
+- jawaharlal-nehru
+- mahatma-gandhi
+- t-thomas
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1980
@@ -35,16 +37,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - private-enterprise
-  - mixed-economy
-  - industrial-policy
-  - licensing-and-regulation
-  - public-sector
-  - government-business-relations
-  - economic-growth
-summary: "Managing a Business in India is a Forum of Free Enterprise booklet that bundles excerpts from two speeches — one by T. Thomas, the long-serving Chairman of Hindustan Lever Ltd., delivered at the firm's Annual General Meeting in Bombay on 20 June 1980, and another by the young industrialist Dilip G. Piramal. The introduction frames the volume as a periodic stocktaking of the conditions under which private enterprise must operate within India's mixed economy, and argues that if its propositions are taken seriously, the role of private enterprise in national economic development can be secured. An epigraph from Eugene Black — \"People must come to accept private enterprise not as a necessary evil, but as an affirmative good\" — sets the polemical key."
+- private-enterprise
+- mixed-economy
+- industrial-policy
+- licensing-and-regulation
+- public-sector
+- government-business-relations
+- economic-growth
+summary: Managing a Business in India is a Forum of Free Enterprise booklet that bundles
+  excerpts from two speeches — one by T. Thomas, the long-serving Chairman of Hindustan
+  Lever Ltd., delivered at the firm's Annual General Meeting in Bombay on 20 June
+  1980, and another by the young industrialist Dilip G. Piramal. The introduction
+  frames the volume as a periodic stocktaking of the conditions under which private
+  enterprise must operate within India's mixed economy, and argues that if its propositions
+  are taken seriously, the role of private enterprise in national economic development
+  can be secured. An epigraph from Eugene Black — "People must come to accept private
+  enterprise not as a necessary evil, but as an affirmative good" — sets the polemical
+  key.
 needs_review: true
 draft: false
 ai:
@@ -58,44 +70,55 @@ physical:
   pages_total_source: pypdfium2
   format: FFE booklet / pamphlet; printed compilation of excerpts from two speeches
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
-  - year_not_printed_on_cover
-  - section_II_title_not_visible_in_chunk
+- no_formal_toc_page
+- editor_not_named
+- year_not_printed_on_cover
+- section_II_title_not_visible_in_chunk
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - T. Thomas
-    - Dilip G. Piramal
+  - T. Thomas
+  - Dilip G. Piramal
   stubs_created: []
   stubs_referenced:
-    - t-thomas
-    - dilip-g-piramal
+  - t-thomas
+  - dilip-g-piramal
   collisions_logged: []
 thinker_mentions:
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Black's epigraph supplies the booklet's polemical key, framing Thomas and Piramal's defence of private enterprise inside the FFE's standard 'affirmative good' creed."
-    evidence:
-      - quote: "An epigraph from Eugene Black — \"People must come to accept private enterprise not as a necessary evil, but as an affirmative good\" — sets the polemical key."
-        context: "opening editorial framing; Black's quotation is foregrounded as the booklet's organising motto"
-    key_passages: []
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Thomas closes his lecture by invoking Gandhi (with Nehru) as exemplars of India's tradition of absorbing 'liberal West' influences politically — using the precedent to argue for an equivalent economic opening."
-    evidence:
-      - quote: "the example of Gandhi and Nehru, who drew on the \"liberal West\" to free India politically; a similar opening, he argues, is now needed to free it economically"
-        context: closing peroration; Gandhi is recruited as a precedent for cosmopolitan borrowing in the cause of national renewal
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru is paired with Gandhi in Thomas's closing as a figure who drew on the 'liberal West' to free India politically — a precedent for the kind of economic opening Thomas demands in 1980."
-    evidence:
-      - quote: "the example of Gandhi and Nehru, who drew on the \"liberal West\" to free India politically; a similar opening, he argues, is now needed to free it economically"
-        context: closing peroration; Nehru framed as a cosmopolitan borrower whose example justifies economic liberalisation
-    key_passages: []
-
+- thinker: eugene-black
+  role: mention
+  reasoning: Black's epigraph supplies the booklet's polemical key, framing Thomas
+    and Piramal's defence of private enterprise inside the FFE's standard 'affirmative
+    good' creed.
+  evidence:
+  - quote: An epigraph from Eugene Black — "People must come to accept private enterprise
+      not as a necessary evil, but as an affirmative good" — sets the polemical key.
+    context: opening editorial framing; Black's quotation is foregrounded as the booklet's
+      organising motto
+  key_passages: []
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Thomas closes his lecture by invoking Gandhi (with Nehru) as exemplars
+    of India's tradition of absorbing 'liberal West' influences politically — using
+    the precedent to argue for an equivalent economic opening.
+  evidence:
+  - quote: the example of Gandhi and Nehru, who drew on the "liberal West" to free
+      India politically; a similar opening, he argues, is now needed to free it economically
+    context: closing peroration; Gandhi is recruited as a precedent for cosmopolitan
+      borrowing in the cause of national renewal
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is paired with Gandhi in Thomas's closing as a figure who drew
+    on the 'liberal West' to free India politically — a precedent for the kind of
+    economic opening Thomas demands in 1980.
+  evidence:
+  - quote: the example of Gandhi and Nehru, who drew on the "liberal West" to free
+      India politically; a similar opening, he argues, is now needed to free it economically
+    context: closing peroration; Nehru framed as a cosmopolitan borrower whose example
+      justifies economic liberalisation
+  key_passages: []
 ---
 
 ## Summary

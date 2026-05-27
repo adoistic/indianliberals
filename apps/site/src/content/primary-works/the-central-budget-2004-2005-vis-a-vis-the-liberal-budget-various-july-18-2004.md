@@ -2,31 +2,29 @@
 id: the-central-budget-2004-2005-vis-a-vis-the-liberal-budget-various-july-18-2004
 title:
   main: THE CENTRAL BUDGET 2004-2005 VIS-A-VIS THE LIBERAL BUDGET
-  subtitle: ""
+  subtitle: ''
 work_type: pamphlet
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Mr. S.S. Bhandare, Former Economic Adviser, Tata Services Ltd.
-  - role: author
-    thinker_unresolved: Dr. C.S. Deshpande, Executive Director, Maharashtra Economic Development Council
-  - role: author
-    thinker_unresolved: Dr. Ajit Karnik, Head, Department of Economics, University of Mumbai
-  - role: author
-    thinker_unresolved: Mr. Sanjay Panse, Chartered Accountant
-  - role: author
-    thinker_unresolved: Ms. Seetha Parthasarathy, Freelance Journalist and Copy Writer
-related_thinkers:
-  - a-d-shroff
-  - ludwig-von-mises
-  - eugene-black
-  - c-s-deshpande
-  - ajit-karnik
+- role: author
+  thinker: s-s-bhandare-former-economic-adviser-tata-services-ltd
+- role: author
+  thinker: c-s-deshpande-executive-director-maharashtra-economic-develo
+- role: author
+  thinker: ajit-karnik-head-department-of-economics-university-of-mumba
+- role: author
+  thinker: sanjay-panse-chartered-accountant
+- role: author
+  thinker: seetha-parthasarathy-freelance-journalist-and-copy-writer
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by S.S. Bhandare for Forum of Free Enterprise, \"Peninsula House\", 235, Dr. D.N. Road, Mumbai 400 001, and printed at Vijay Printing Press, 9-10, 3rd Floor, Mahalaxmi Industrial Estate, Gandhi Nagar, Lower Parel, Mumbai 400 013."
+  publisher_name: Published by S.S. Bhandare for Forum of Free Enterprise, "Peninsula
+    House", 235, Dr. D.N. Road, Mumbai 400 001, and printed at Vijay Printing Press,
+    9-10, 3rd Floor, Mahalaxmi Industrial Estate, Gandhi Nagar, Lower Parel, Mumbai
+    400 013.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2004
@@ -38,9 +36,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This Forum of Free Enterprise booklet, prepared in July 2004 by the editor S. S. Bhandare (himself a member of the Drafting Group of The Liberal Budget), juxtaposes the Union Budget 2004-05 presented by Finance Minister P. Chidambaram with The Liberal Budget that the Indian Liberal Group released in New Delhi on 23 June 2004. The opening section identifies five 'areas of convergence' — the Finance Minister's commitment to act on the Kelkar Task Force on direct and indirect taxes; the operationalisation of the Fiscal Responsibility and Budget Management Act, 2003 and the projected reduction of revenue and fiscal deficits; the embrace of VAT, integrated taxation of goods and services, and ASEAN-level customs rates; the need to lift the tax-to-GDP ratio from 9.2 per cent to 12.1 per cent by 2006-07; and the social-sector goals embedded in Food for Work, the Mid-Day Meal Scheme, the Provision of Urban Amenities in Rural Areas (PURA), and the Accelerated Irrigation Benefit Programme.\n\nThe second half catalogues 'areas of divergence' that the Liberal Budget treats as decisive.…"
+summary: 'This Forum of Free Enterprise booklet, prepared in July 2004 by the editor
+  S. S. Bhandare (himself a member of the Drafting Group of The Liberal Budget), juxtaposes
+  the Union Budget 2004-05 presented by Finance Minister P. Chidambaram with The Liberal
+  Budget that the Indian Liberal Group released in New Delhi on 23 June 2004. The
+  opening section identifies five ''areas of convergence'' — the Finance Minister''s
+  commitment to act on the Kelkar Task Force on direct and indirect taxes; the operationalisation
+  of the Fiscal Responsibility and Budget Management Act, 2003 and the projected reduction
+  of revenue and fiscal deficits; the embrace of VAT, integrated taxation of goods
+  and services, and ASEAN-level customs rates; the need to lift the tax-to-GDP ratio
+  from 9.2 per cent to 12.1 per cent by 2006-07; and the social-sector goals embedded
+  in Food for Work, the Mid-Day Meal Scheme, the Provision of Urban Amenities in Rural
+  Areas (PURA), and the Accelerated Irrigation Benefit Programme.
+
+
+  The second half catalogues ''areas of divergence'' that the Liberal Budget treats
+  as decisive.…'
 needs_review: true
 draft: false
 ai:
@@ -53,7 +67,7 @@ physical:
   pages_total_source: pypdfium2
   format: Saddle-stitched FFE booklet, ~20 printed interior pages plus covers
 missing_metadata_flags:
-  - editor_not_named
+- editor_not_named
 ---
 
 # THE CENTRAL BUDGET 2004-2005 VIS-A-VIS THE LIBERAL BUDGET

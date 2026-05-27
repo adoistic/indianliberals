@@ -2,28 +2,30 @@
 id: free-enterprise-in-india-and-freedom-a-d-shroff-january-4-2011
 title:
   main: Free Enterprise in India and Freedom
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - a-d-shroff
+- a-d-shroff
 editors: []
 contributors:
-  - role: author
-    thinker: a-d-shroff
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Murarji J. Vaidya
-    toc_index: 2
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - a-d-shroff
-  - murarji-vaidya
-
+- role: author
+  thinker: a-d-shroff
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: murarji-j-vaidya
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- a-d-shroff
+- murarji-vaidya
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2011
@@ -35,16 +37,34 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - private-sector
-  - socialism
-  - five-year-plans
-  - economic-planning
-  - democracy
-  - liberty
-summary: "This 2011 Forum of Free Enterprise pamphlet reproduces two companion articles originally published in The Times of India on 30 March 1956 — A. D. Shroff's \"Free Enterprise in India\" and Murarji J. Vaidya's \"Free Enterprise and Freedom\" — bracketed by a fresh introduction from then-president Minoo R. Shroff that frames the reissue as a tribute to the late Farrok Mulla, a long-serving Forum office-bearer whose family sponsored the booklet. The two essays were prompted by the Government of India's adoption of a \"socialistic pattern of society\" as the credo of the Second Five-Year Plan, and together they argue that assigning the commanding heights of the economy to the public sector will both stifle the private sector that sustained pre-Independence growth and, more dangerously, concentrate economic power in the hands of politicians and bureaucrats in ways that will erode democracy and individual liberty.\n\nShroff's piece concentrates on the practical and morale-based case for the private sector — describing the despondency among small businesspeople under Section 23-A of the Income-tax Act, the misrepresentation of \"the Private Sector\" as a handful of large industrialists, and the in…"
+- free-enterprise
+- private-sector
+- socialism
+- five-year-plans
+- economic-planning
+- democracy
+- liberty
+summary: 'This 2011 Forum of Free Enterprise pamphlet reproduces two companion articles
+  originally published in The Times of India on 30 March 1956 — A. D. Shroff''s "Free
+  Enterprise in India" and Murarji J. Vaidya''s "Free Enterprise and Freedom" — bracketed
+  by a fresh introduction from then-president Minoo R. Shroff that frames the reissue
+  as a tribute to the late Farrok Mulla, a long-serving Forum office-bearer whose
+  family sponsored the booklet. The two essays were prompted by the Government of
+  India''s adoption of a "socialistic pattern of society" as the credo of the Second
+  Five-Year Plan, and together they argue that assigning the commanding heights of
+  the economy to the public sector will both stifle the private sector that sustained
+  pre-Independence growth and, more dangerously, concentrate economic power in the
+  hands of politicians and bureaucrats in ways that will erode democracy and individual
+  liberty.
+
+
+  Shroff''s piece concentrates on the practical and morale-based case for the private
+  sector — describing the despondency among small businesspeople under Section 23-A
+  of the Income-tax Act, the misrepresentation of "the Private Sector" as a handful
+  of large industrialists, and the in…'
 needs_review: true
 draft: false
 ai:
@@ -56,31 +76,44 @@ physical:
   pages_rendered: 16
   pages_total: 16
   pages_total_source: pypdfium2
-  format: Pamphlet / booklet reprinting two newspaper articles originally published in The Times of India, 30th March 1956, with a new Introduction by the FFE President
+  format: Pamphlet / booklet reprinting two newspaper articles originally published
+    in The Times of India, 30th March 1956, with a new Introduction by the FFE President
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
+- no_formal_toc_page
+- editor_not_named
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: subject
-    reasoning: "This 2011 pamphlet reproduces Shroff's foundational 1956 article 'Free Enterprise in India', together with Vaidya's companion piece, prefaced by a fresh introduction. Shroff's essay is one of two primary texts."
-    evidence: []
-    key_passages:
-      - quote: "Shroff calls for an organised, country-wide educative campaign to dispel the caricature of the private sector as a few \"tall poppies\""
-        what_it_shows: "Shroff's prescription: redefine the private sector to include all agriculture and small enterprise"
-      - quote: "a warning that India's thin borderline between democracy and totalitarianism can be crossed unless public opinion becomes vigilant enough to defend the freedom to think and to criticise"
-        what_it_shows: "Shroff's closing civil-liberty warning that gives the 1956 article its enduring force"
-  - thinker: murarji-vaidya
-    role: mention
-    reasoning: "Murarji J. Vaidya's companion 1956 article 'Free Enterprise and Freedom' is the second primary text reproduced in this pamphlet, presenting the constitutional-liberal case against the Second Plan."
-    evidence:
-      - quote: "Murarji J. Vaidya's \"Free Enterprise and Freedom\" — bracketed by a fresh introduction from then-president Minoo R. Shroff"
-        context: "Vaidya's essay is co-primary text of the pamphlet"
-      - quote: "Vaidya's central objection is not that these objectives are themselves illegitimate, but that simultaneous pursuit of socialism and democracy in an under-developed economy carries grave risks"
-        context: "Vaidya's core philosophical position within the pamphlet"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: subject
+  reasoning: This 2011 pamphlet reproduces Shroff's foundational 1956 article 'Free
+    Enterprise in India', together with Vaidya's companion piece, prefaced by a fresh
+    introduction. Shroff's essay is one of two primary texts.
+  evidence: []
+  key_passages:
+  - quote: Shroff calls for an organised, country-wide educative campaign to dispel
+      the caricature of the private sector as a few "tall poppies"
+    what_it_shows: 'Shroff''s prescription: redefine the private sector to include
+      all agriculture and small enterprise'
+  - quote: a warning that India's thin borderline between democracy and totalitarianism
+      can be crossed unless public opinion becomes vigilant enough to defend the freedom
+      to think and to criticise
+    what_it_shows: Shroff's closing civil-liberty warning that gives the 1956 article
+      its enduring force
+- thinker: murarji-vaidya
+  role: mention
+  reasoning: Murarji J. Vaidya's companion 1956 article 'Free Enterprise and Freedom'
+    is the second primary text reproduced in this pamphlet, presenting the constitutional-liberal
+    case against the Second Plan.
+  evidence:
+  - quote: Murarji J. Vaidya's "Free Enterprise and Freedom" — bracketed by a fresh
+      introduction from then-president Minoo R. Shroff
+    context: Vaidya's essay is co-primary text of the pamphlet
+  - quote: Vaidya's central objection is not that these objectives are themselves
+      illegitimate, but that simultaneous pursuit of socialism and democracy in an
+      under-developed economy carries grave risks
+    context: Vaidya's core philosophical position within the pamphlet
+  key_passages: []
 ---
+
 ## Summary
 
 This 2011 Forum of Free Enterprise pamphlet reproduces two companion articles originally published in The Times of India on 30 March 1956 — A. D. Shroff's "Free Enterprise in India" and Murarji J. Vaidya's "Free Enterprise and Freedom" — bracketed by a fresh introduction from then-president Minoo R. Shroff that frames the reissue as a tribute to the late Farrok Mulla, a long-serving Forum office-bearer whose family sponsored the booklet. The two essays were prompted by the Government of India's adoption of a "socialistic pattern of society" as the credo of the Second Five-Year Plan, and together they argue that assigning the commanding heights of the economy to the public sector will both stifle the private sector that sustained pre-Independence growth and, more dangerously, concentrate economic power in the hands of politicians and bureaucrats in ways that will erode democracy and individual liberty.

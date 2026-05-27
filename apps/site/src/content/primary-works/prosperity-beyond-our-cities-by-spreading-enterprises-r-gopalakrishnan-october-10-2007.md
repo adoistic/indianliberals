@@ -2,23 +2,21 @@
 id: prosperity-beyond-our-cities-by-spreading-enterprises-r-gopalakrishnan-october-10-2007
 title:
   main: PROSPERITY BEYOND OUR CITIES BY SPREADING ENTERPRISE
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers:
-  - a-d-shroff
-  - jawaharlal-nehru
-  - c-rajagopalachari
-  - hernando-de-soto
-  - jrd-tata
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Murnbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Murnbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2007
@@ -30,14 +28,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - economic-development
-  - decentralization
-  - entrepreneurship
-  - rural-development
-summary: "Delivered as the 41st A. D. Shroff Memorial Lecture in Mumbai on 12 October 2007 and published as a Forum of Free Enterprise booklet, R. Gopalakrishnan's address argues that India's much-celebrated macro-economic growth has scarcely reached the roughly sixty per cent of the population living in rural areas and small towns — what he calls 'Little India'. The remedy he proposes is not another centrally-administered programme but the deliberate liberation of enterprise through decentralization: returning power, finance and decision-making to villages, panchayats and small-town entrepreneurs so that latent energies are released for socio-economic development.\n\nGopalakrishnan grounds the case historically. He recalls that India was for centuries a 'no-government condition' of self-governing village communities, that Indians were prominent in trade and industry between the seventeenth and nineteenth centuries, and that the Indian enterprise gene has survived invasion, colonial rule and partition. He contrasts that inheritance with post-independence centralization, citing C.…"
+- free-enterprise
+- economic-development
+- decentralization
+- entrepreneurship
+- rural-development
+summary: 'Delivered as the 41st A. D. Shroff Memorial Lecture in Mumbai on 12 October
+  2007 and published as a Forum of Free Enterprise booklet, R. Gopalakrishnan''s address
+  argues that India''s much-celebrated macro-economic growth has scarcely reached
+  the roughly sixty per cent of the population living in rural areas and small towns
+  — what he calls ''Little India''. The remedy he proposes is not another centrally-administered
+  programme but the deliberate liberation of enterprise through decentralization:
+  returning power, finance and decision-making to villages, panchayats and small-town
+  entrepreneurs so that latent energies are released for socio-economic development.
+
+
+  Gopalakrishnan grounds the case historically. He recalls that India was for centuries
+  a ''no-government condition'' of self-governing village communities, that Indians
+  were prominent in trade and industry between the seventeenth and nineteenth centuries,
+  and that the Indian enterprise gene has survived invasion, colonial rule and partition.
+  He contrasts that inheritance with post-independence centralization, citing C.…'
 needs_review: true
 draft: false
 ai:
@@ -49,10 +62,11 @@ physical:
   pages_rendered: 15
   pages_total: 15
   pages_total_source: pypdfium2
-  format: Saddle-stitched pamphlet/booklet, ~22 numbered pages plus front matter; printed by India Printing Works, Mumbai.
+  format: Saddle-stitched pamphlet/booklet, ~22 numbered pages plus front matter;
+    printed by India Printing Works, Mumbai.
 missing_metadata_flags:
-  - no_isbn
-  - no_formal_toc
+- no_isbn
+- no_formal_toc
 ---
 
 # PROSPERITY BEYOND OUR CITIES BY SPREADING ENTERPRISE

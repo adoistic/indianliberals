@@ -2,22 +2,22 @@
 id: compulsory-deposit-scheme-v-b-haribhakti-sep9-1963
 title:
   main: Compulsory Deposit Scheme
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - v-b-haribhakti
+- v-b-haribhakti
 editors: []
 contributors:
-  - role: author
-    thinker: v-b-haribhakti
-    toc_index: 1
-  - role: author
-    thinker_unresolved: H. C. Malkani
-    toc_index: 2
-related_thinkers: 
-  - a-d-shroff
-  - eugene-black
-
+- role: author
+  thinker: v-b-haribhakti
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: h-c-malkani
+related_thinkers:
+- a-d-shroff
+- eugene-black
+- v-b-haribhakti
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -33,13 +33,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - taxation
-  - fiscal-policy
-  - savings
-  - economic-policy
-summary: "This Forum of Free Enterprise pamphlet collects two talks delivered in Bombay on 23 July 1963 attacking the Compulsory Deposit Scheme (C.D.S.) announced by the Finance Minister in the 28 February 1963 Budget Speech. V. B. Haribhakti, a chartered accountant, dissects the statute clause-by-clause to argue that the scheme is gigantic, ill-considered, and impossible to administer fairly on lower-income earners. H. C. Malkani, Principal of Bombay's College of Commerce and Economics, takes up the question of feasibility — comparing C.D.S. to Keynes-inspired British deferred-pay precedents, weighing it against ordinary taxation, and concluding that the implementation machinery is nowhere near ready for the colossal task. Both pieces share the Forum's classical-liberal framing — captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms and that government overspending, not private consumption, is the real fiscal problem."
+- taxation
+- fiscal-policy
+- savings
+- economic-policy
+summary: This Forum of Free Enterprise pamphlet collects two talks delivered in Bombay
+  on 23 July 1963 attacking the Compulsory Deposit Scheme (C.D.S.) announced by the
+  Finance Minister in the 28 February 1963 Budget Speech. V. B. Haribhakti, a chartered
+  accountant, dissects the statute clause-by-clause to argue that the scheme is gigantic,
+  ill-considered, and impossible to administer fairly on lower-income earners. H.
+  C. Malkani, Principal of Bombay's College of Commerce and Economics, takes up the
+  question of feasibility — comparing C.D.S. to Keynes-inspired British deferred-pay
+  precedents, weighing it against ordinary taxation, and concluding that the implementation
+  machinery is nowhere near ready for the colossal task. Both pieces share the Forum's
+  classical-liberal framing — captured in the cover-leaf epigraphs from Eugene Black
+  and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms
+  and that government overspending, not private consumption, is the real fiscal problem.
 needs_review: true
 draft: false
 ai:
@@ -53,25 +65,36 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet booklet; printed pages 1–22 plus covers and end matter
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
+- editor_not_named
+- no_formal_toc
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Shroff's cover-leaf epigraph — paired with Eugene Black's — frames the booklet's twin critiques of the Compulsory Deposit Scheme inside the Forum of Free Enterprise's classical-liberal argument that compulsory saving on the poor is a contradiction and that government overspending is the real fiscal problem."
-    evidence:
-      - quote: the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms and that government overspending, not private consumption, is the real fiscal problem.
-        context: "Shroff's cover-leaf epigraph is named as one of the two framing devices that anchor the volume's classical-liberal verdict on the C.D.S."
-    key_passages: []
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Black's cover-leaf epigraph — paired with Shroff's — frames the booklet's critiques of the Compulsory Deposit Scheme inside the Forum of Free Enterprise's argument that compulsory saving on low-income earners is incoherent and that government overspending is the real fiscal pathology."
-    evidence:
-      - quote: captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms
-        context: "Black's epigraph is one of the two cover-leaf framings that mark the booklet's classical-liberal verdict on the C.D.S."
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff's cover-leaf epigraph — paired with Eugene Black's — frames the
+    booklet's twin critiques of the Compulsory Deposit Scheme inside the Forum of
+    Free Enterprise's classical-liberal argument that compulsory saving on the poor
+    is a contradiction and that government overspending is the real fiscal problem.
+  evidence:
+  - quote: the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory
+      saving on the poor is a contradiction in terms and that government overspending,
+      not private consumption, is the real fiscal problem.
+    context: Shroff's cover-leaf epigraph is named as one of the two framing devices
+      that anchor the volume's classical-liberal verdict on the C.D.S.
+  key_passages: []
+- thinker: eugene-black
+  role: mention
+  reasoning: Black's cover-leaf epigraph — paired with Shroff's — frames the booklet's
+    critiques of the Compulsory Deposit Scheme inside the Forum of Free Enterprise's
+    argument that compulsory saving on low-income earners is incoherent and that government
+    overspending is the real fiscal pathology.
+  evidence:
+  - quote: captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff
+      — that compulsory saving on the poor is a contradiction in terms
+    context: Black's epigraph is one of the two cover-leaf framings that mark the
+      booklet's classical-liberal verdict on the C.D.S.
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise pamphlet collects two talks delivered in Bombay on 23 July 1963 attacking the Compulsory Deposit Scheme (C.D.S.) announced by the Finance Minister in the 28 February 1963 Budget Speech. V. B. Haribhakti, a chartered accountant, dissects the statute clause-by-clause to argue that the scheme is gigantic, ill-considered, and impossible to administer fairly on lower-income earners. H. C. Malkani, Principal of Bombay's College of Commerce and Economics, takes up the question of feasibility — comparing C.D.S. to Keynes-inspired British deferred-pay precedents, weighing it against ordinary taxation, and concluding that the implementation machinery is nowhere near ready for the colossal task. Both pieces share the Forum's classical-liberal framing — captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms and that government overspending, not private consumption, is the real fiscal problem.

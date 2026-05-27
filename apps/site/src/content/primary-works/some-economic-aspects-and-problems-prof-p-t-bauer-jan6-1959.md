@@ -2,17 +2,16 @@
 id: some-economic-aspects-and-problems-prof-p-t-bauer-jan6-1959
 title:
   main: Some Economic Aspects and Problems of Under-Developed Countries
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Prof. P. T. Bauer
-  - role: introduction
-    thinker: a-d-shroff
-related_thinkers:
-  - eugene-black
+- role: author
+  thinker: p-t-bauer
+- role: introduction
+  thinker: a-d-shroff
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -27,13 +26,22 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-development
-  - free-enterprise
-  - economic-planning
-  - industrialisation
-summary: "These two lectures, delivered in Bombay on September 8 and 9, 1958 by P. T. Bauer (Smuts Reader in Commonwealth Studies at Cambridge) and printed by the Forum of Free Enterprise, mount a systematic dismantling of the development-economics orthodoxy of the late 1950s. Bauer's central target is the \"vicious circle of poverty and stagnation\" thesis advanced by Ragnar Nurkse, Gunnar Myrdal, Paul Samuelson and the wider United Nations literature, which inferred from low incomes that poor countries could not save, could not invest, and therefore could not grow without large-scale compulsory saving, state-led industrialisation and inter-governmental transfers.…"
+- economic-development
+- free-enterprise
+- economic-planning
+- industrialisation
+summary: These two lectures, delivered in Bombay on September 8 and 9, 1958 by P.
+  T. Bauer (Smuts Reader in Commonwealth Studies at Cambridge) and printed by the
+  Forum of Free Enterprise, mount a systematic dismantling of the development-economics
+  orthodoxy of the late 1950s. Bauer's central target is the "vicious circle of poverty
+  and stagnation" thesis advanced by Ragnar Nurkse, Gunnar Myrdal, Paul Samuelson
+  and the wider United Nations literature, which inferred from low incomes that poor
+  countries could not save, could not invest, and therefore could not grow without
+  large-scale compulsory saving, state-led industrialisation and inter-governmental
+  transfers.…
 needs_review: true
 draft: false
 ai:
@@ -46,9 +54,9 @@ physical:
   pages_total_source: pypdfium2
   format: Saddle-stitched pamphlet/booklet with printed wrappers; FFE pamphlet format.
 missing_metadata_flags:
-  - no_explicit_publication_year_on_seen_pages
-  - no_table_of_contents
-  - colophon_not_seen_in_chunk
+- no_explicit_publication_year_on_seen_pages
+- no_table_of_contents
+- colophon_not_seen_in_chunk
 ---
 
 # Some Economic Aspects and Problems of Under-Developed Countries

@@ -7,7 +7,7 @@ authors: []
 editors: []
 contributors:
 - role: interviewer
-  thinker_unresolved: Yazad
+  thinker: yazad
 publication:
   language: en
   year: 2020
@@ -113,8 +113,7 @@ thinker_mentions:
       given the existing systemic rigidities.
     what_it_shows: His sober closing warning against expecting a new-party breakthrough,
       urging patient systemic reform instead.
-- thinker_unresolved: Yazad
-  role: mention
+- role: mention
   reasoning: Narayan addresses 'Yazad' in the opening sentence as the interlocutor
     posing the question, but no person of that name appears in the authority list.
   evidence:
@@ -123,8 +122,10 @@ thinker_mentions:
   key_passages:
   - quote: It's a great question, Yazad.
     what_it_shows: Establishes Yazad as the interviewer prompting the monologue.
+  thinker: yazad
 related_thinkers:
 - jayaprakash-narayan
+- yazad
 ---
 
 # The Hope for a Liberal Political Alternative

@@ -7,19 +7,14 @@ work_type: occasional_paper
 authors: []
 editors: []
 contributors:
-  - role: foreword
-    thinker_unresolved: N. A. Palkhivala, Chairman, Board of Trustees
-    toc_index: 2
-related_thinkers:
-  - jrd-tata
-  - jawaharlal-nehru
-  - nani-palkhivala
-  - m-r-pai
-  - h-v-r-iengar
-  - b-n-adarkar
+- role: foreword
+  toc_index: 2
+  thinker: n-a-palkhivala-chairman-board-of-trustees
+related_thinkers: []
 publication:
   language: en
-  publisher_name: The A. D. Shroff Memorial Trust, Sohrab House, 3rd Floor, Dr. D. N. Road, Bombay 400 001
+  publisher_name: The A. D. Shroff Memorial Trust, Sohrab House, 3rd Floor, Dr. D.
+    N. Road, Bombay 400 001
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1972
@@ -30,9 +25,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "The A. D. Shroff Memorial Trust: A report on the first five years 1967-1972 is a commemorative booklet issued by the Trust under the chairmanship of N. A. Palkhivala. It opens with a life-sketch of A. D. Shroff (1899-1965) — a Sydenham College and London School of Economics man who apprenticed at the Chase Bank in London, became a Bombay sharebroker and director of leading Tata enterprises, sat on the National Planning Committee chaired by Jawaharlal Nehru, co-authored the 1944 Bombay Plan, attended the Bretton Woods Conference as an unofficial delegate, chaired the Reserve Bank's Shroff Committee on Finance for the Private Sector, and in 1956 founded the Forum of Free Enterprise to popularise the case for private enterprise and a Code of Conduct for business.\n\nPalkhivala's foreword and the History chapter together trace how a tribute paid by J. R. D. Tata at the Sheriff's condolence meeting of 14th December 1965 catalysed the formation of the Trust, registered on 23rd December 1966, with the House of Tatas pledging 25 per cent of the collection up to a ceiling of Rs.…"
+summary: 'The A. D. Shroff Memorial Trust: A report on the first five years 1967-1972
+  is a commemorative booklet issued by the Trust under the chairmanship of N. A. Palkhivala.
+  It opens with a life-sketch of A. D. Shroff (1899-1965) — a Sydenham College and
+  London School of Economics man who apprenticed at the Chase Bank in London, became
+  a Bombay sharebroker and director of leading Tata enterprises, sat on the National
+  Planning Committee chaired by Jawaharlal Nehru, co-authored the 1944 Bombay Plan,
+  attended the Bretton Woods Conference as an unofficial delegate, chaired the Reserve
+  Bank''s Shroff Committee on Finance for the Private Sector, and in 1956 founded
+  the Forum of Free Enterprise to popularise the case for private enterprise and a
+  Code of Conduct for business.
+
+
+  Palkhivala''s foreword and the History chapter together trace how a tribute paid
+  by J. R. D. Tata at the Sheriff''s condolence meeting of 14th December 1965 catalysed
+  the formation of the Trust, registered on 23rd December 1966, with the House of
+  Tatas pledging 25 per cent of the collection up to a ceiling of Rs.…'
 needs_review: true
 draft: false
 ai:
@@ -44,11 +55,12 @@ physical:
   pages_rendered: 16
   pages_total: 16
   pages_total_source: pypdfium2
-  format: Saddle-stitched illustrated booklet, square format, photo-illustrated; printed at Multiprint, Bombay; designed by Raja Marathe
+  format: Saddle-stitched illustrated booklet, square format, photo-illustrated; printed
+    at Multiprint, Bombay; designed by Raja Marathe
 missing_metadata_flags:
-  - no_explicit_publisher_line
-  - no_isbn
-  - editor_not_named
+- no_explicit_publisher_line
+- no_isbn
+- editor_not_named
 ---
 
 # The A. D. Shroff Memorial Trust

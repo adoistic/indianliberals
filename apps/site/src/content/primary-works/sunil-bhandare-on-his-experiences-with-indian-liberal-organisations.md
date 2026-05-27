@@ -94,8 +94,7 @@ thinker_mentions:
       on understanding the economic reforms process
     what_it_shows: Shows Raju's role as the convener of the liberal reform-era discussions
       Bhandare joined.
-- thinker_unresolved: T. N. Ninan
-  role: mention
+- role: mention
   reasoning: Ninan is named as a participant at the early Leslie Sawhney Programme
     workshop but is not present on the authority list.
   evidence:
@@ -109,8 +108,8 @@ thinker_mentions:
       be the fiscal policy for this country
     what_it_shows: Indicates the calibre of economic journalists/economists drawn
       into the Project for Economic Education's deliberations.
-- thinker_unresolved: Suresh Tendulkar
-  role: mention
+  thinker: t-n-ninan
+- role: mention
   reasoning: Tendulkar is named as a participant at the foundational liberal-budget
     workshop but does not appear in the authority list.
   evidence:
@@ -123,8 +122,8 @@ thinker_mentions:
       be the regulatory institutions and all that
     what_it_shows: Frames the substantive policy questions Tendulkar and others debated
       at the liberal-budget workshops.
-- thinker_unresolved: Geethakrishnan
-  role: mention
+  thinker: suresh-tendulkar
+- role: mention
   reasoning: Identified as the former finance secretary from Chennai who advised the
     liberal budget effort; not present on the authority list.
   evidence:
@@ -137,9 +136,13 @@ thinker_mentions:
       and he was from Chennai and many others.
     what_it_shows: Shows the Project for Economic Education sought senior bureaucratic
       expertise to inform its alternative budgets.
+  thinker: geethakrishnan
 related_thinkers:
+- geethakrishnan
 - s-v-raju
 - sunil-bhandare
+- suresh-tendulkar
+- t-n-ninan
 ---
 
 # Sunil Bhandare on his experiences with Indian liberal organisations

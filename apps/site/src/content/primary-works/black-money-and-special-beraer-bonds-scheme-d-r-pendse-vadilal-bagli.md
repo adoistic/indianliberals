@@ -2,25 +2,26 @@
 id: black-money-and-special-beraer-bonds-scheme-d-r-pendse-vadilal-bagli
 title:
   main: Black Money and Special Bearer Bonds Scheme
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - d-r-pendse
+- d-r-pendse
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Vadilal Dagli
-    toc_index: 1
-  - role: author
-    thinker: d-r-pendse
-    toc_index: 2
-related_thinkers: 
-  - nicholas-kaldor
-
+- role: author
+  toc_index: 1
+  thinker: vadilal-dagli
+- role: author
+  thinker: d-r-pendse
+  toc_index: 2
+related_thinkers:
+- d-r-pendse
+- nicholas-kaldor
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1981
@@ -32,12 +33,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - taxation
-  - fiscal-policy
-  - economic-policy
-summary: "Black Money and Special Bearer Bonds Scheme bundles two short pieces issued by the Forum of Free Enterprise to oppose the Special Bearer Bonds Scheme of 1991 on classical-liberal grounds. Vadilal Dagli, editor of Commerce and chairman of the Dagli Committee on Controls and Subsidies, opens with the polemic 'Respectability for Black Money', casting the bonds as the fifth and most cynical official attempt since 1951 to absorb unaccounted money, and argues that the scheme grants the black-money baron a tax-free premium and statutory immunity while leaving the underlying flow untouched. Economist D. R. Pendse follows with 'The Problem of Black Money', a structured analytical essay that distinguishes illegal-source from tax-evaded legal-source income, surveys magnitude estimates and international comparisons, and begins a seven-point catalogue of underlying causes — controls, scarcities, high tax rates, changing social attitudes, interference with traditional values, low salaries of government servants, and election finance.…"
+- taxation
+- fiscal-policy
+- economic-policy
+summary: Black Money and Special Bearer Bonds Scheme bundles two short pieces issued
+  by the Forum of Free Enterprise to oppose the Special Bearer Bonds Scheme of 1991
+  on classical-liberal grounds. Vadilal Dagli, editor of Commerce and chairman of
+  the Dagli Committee on Controls and Subsidies, opens with the polemic 'Respectability
+  for Black Money', casting the bonds as the fifth and most cynical official attempt
+  since 1951 to absorb unaccounted money, and argues that the scheme grants the black-money
+  baron a tax-free premium and statutory immunity while leaving the underlying flow
+  untouched. Economist D. R. Pendse follows with 'The Problem of Black Money', a structured
+  analytical essay that distinguishes illegal-source from tax-evaded legal-source
+  income, surveys magnitude estimates and international comparisons, and begins a
+  seven-point catalogue of underlying causes — controls, scarcities, high tax rates,
+  changing social attitudes, interference with traditional values, low salaries of
+  government servants, and election finance.…
 needs_review: true
 draft: false
 ai:
@@ -51,19 +65,23 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet (FFE booklet)
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
-  - no_explicit_publication_year_on_cover
+- editor_not_named
+- no_formal_toc
+- no_explicit_publication_year_on_cover
 thinker_mentions:
-  - thinker: nicholas-kaldor
-    role: mention
-    reasoning: "Pendse cites Nicholas Kaldor's 1956 Indian Tax Reform report as authoritative backing for the claim that low government salaries are a root cause of black money and corruption."
-    evidence:
-      - quote: "low salaries of government servants, citing Nicholas Kaldor's 1956 Indian Tax Reform report"
-        context: "Pendse's seven-point catalogue of black-money causes; Kaldor's report is invoked as the expert source on the salary-corruption link"
-    key_passages: []
-
+- thinker: nicholas-kaldor
+  role: mention
+  reasoning: Pendse cites Nicholas Kaldor's 1956 Indian Tax Reform report as authoritative
+    backing for the claim that low government salaries are a root cause of black money
+    and corruption.
+  evidence:
+  - quote: low salaries of government servants, citing Nicholas Kaldor's 1956 Indian
+      Tax Reform report
+    context: Pendse's seven-point catalogue of black-money causes; Kaldor's report
+      is invoked as the expert source on the salary-corruption link
+  key_passages: []
 ---
+
 ## Summary
 
 Black Money and Special Bearer Bonds Scheme bundles two short pieces issued by the Forum of Free Enterprise to oppose the Special Bearer Bonds Scheme of 1991 on classical-liberal grounds. Vadilal Dagli, editor of Commerce and chairman of the Dagli Committee on Controls and Subsidies, opens with the polemic 'Respectability for Black Money', casting the bonds as the fifth and most cynical official attempt since 1951 to absorb unaccounted money, and argues that the scheme grants the black-money baron a tax-free premium and statutory immunity while leaving the underlying flow untouched. Economist D. R. Pendse follows with 'The Problem of Black Money', a structured analytical essay that distinguishes illegal-source from tax-evaded legal-source income, surveys magnitude estimates and international comparisons, and begins a seven-point catalogue of underlying causes — controls, scarcities, high tax rates, changing social attitudes, interference with traditional values, low salaries of government servants, and election finance. Together the pamphlet advances the Forum's standing argument that black money is a man-made consequence of controls, inflation and politicised election finance rather than an inevitable feature of Indian commerce.

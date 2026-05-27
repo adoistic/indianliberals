@@ -2,20 +2,21 @@
 id: taxation-trends-and-its-impact-on-indian-mncs-smahalingam-september-4-2011
 title:
   main: Taxation Trends and its impact on Indian Multinational Companies
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Kanu H. Doshi
-related_thinkers:
-  - a-d-shroff
-  - nani-palkhivala
+- role: introduction
+  thinker: kanu-h-doshi
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2011
@@ -26,15 +27,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - taxation
-  - economic-policy
-  - multinational-corporations
-  - globalization
-  - free-enterprise
-  - information-technology
-summary: "This Forum of Free Enterprise booklet reproduces an inaugural address delivered by S. Mahalingam — Chief Financial Officer and Executive Director of Tata Consultancy Services — at the Forum's August 2011 three-day residential programme on Current Issues in Direct and Indirect Taxation. Mahalingam opens with an extended personal tribute to the late Nani Palkhivala, recalling his work with him at TCS from 1968 onwards, Palkhivala's interventions on tax matters during his ambassadorial years in the United States, and his charitable, civic and cultural philanthropy in Madras. He frames Palkhivala both as the architect of the Indian IT industry's legal foundation and as a model jurist whose advocacy made a free India economically possible.\n\nThe central body of the speech surveys how India's tax architecture is reshaping the operations of Indian multinationals, with TCS used as the running case study.…"
+- taxation
+- economic-policy
+- multinational-corporations
+- globalization
+- free-enterprise
+- information-technology
+summary: 'This Forum of Free Enterprise booklet reproduces an inaugural address delivered
+  by S. Mahalingam — Chief Financial Officer and Executive Director of Tata Consultancy
+  Services — at the Forum''s August 2011 three-day residential programme on Current
+  Issues in Direct and Indirect Taxation. Mahalingam opens with an extended personal
+  tribute to the late Nani Palkhivala, recalling his work with him at TCS from 1968
+  onwards, Palkhivala''s interventions on tax matters during his ambassadorial years
+  in the United States, and his charitable, civic and cultural philanthropy in Madras.
+  He frames Palkhivala both as the architect of the Indian IT industry''s legal foundation
+  and as a model jurist whose advocacy made a free India economically possible.
+
+
+  The central body of the speech surveys how India''s tax architecture is reshaping
+  the operations of Indian multinationals, with TCS used as the running case study.…'
 needs_review: true
 draft: false
 ai:
@@ -47,8 +61,8 @@ physical:
   pages_total_source: pypdfium2
   format: Booklet/pamphlet (FFE publication, ~16 printed pages)
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
+- no_formal_toc
+- no_isbn
 ---
 
 # Taxation Trends and its impact on Indian Multinational Companies

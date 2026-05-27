@@ -2,34 +2,35 @@
 id: state-trading-in-food-grains-a-d-shroff-jun7-1959
 title:
   main: STATE TRADING IN FOODGRAINS
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - a-d-shroff
+- a-d-shroff
 editors: []
 contributors:
-  - role: author
-    thinker: a-d-shroff
-    toc_index: 1
-  - role: author
-    thinker_unresolved: "Devji Rattansey, M.L.C. (Bombay State), Vice-President, Bombay Foodgrains Dealers' Assn."
-    toc_index: 2
-  - role: author
-    thinker_unresolved: "Ranchhoddas Jethabhai, President, Bombay Rice Merchants' Association"
-    toc_index: 3
-  - role: author
-    thinker_unresolved: "M. H. Hasham Premji, President, All-India Foodgrains Dealers' Association"
-    toc_index: 4
-  - role: author
-    thinker_unresolved: Prof. R. K. Amin, Principal, Commerce College, Vallabh Vidya Nagar, Anand
-    toc_index: 5
+- role: author
+  thinker: a-d-shroff
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: devji-rattansey-m-l-c-bombay-state-vice-president-bombay-foo
+- role: author
+  toc_index: 3
+  thinker: ranchhoddas-jethabhai-president-bombay-rice-merchants-associ
+- role: author
+  toc_index: 4
+  thinker: m-h-hasham-premji-president-all-india-foodgrains-dealers-ass
+- role: author
+  toc_index: 5
+  thinker: r-k-amin-principal-commerce-college-vallabh-vidya-nagar-anan
 related_thinkers:
-  - jawaharlal-nehru
-  - mahatma-gandhi
+- a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press, Horniman Circle, Bombay-1.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay
+    Chronicle Press, Horniman Circle, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1959
@@ -41,15 +42,24 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - agriculture
-  - food-policy
-  - state-intervention
-  - free-enterprise
-  - economic-planning
-  - democracy
-summary: "This 1959 booklet from the Forum of Free Enterprise gathers the presidential remarks and four addresses delivered at a Bombay Convention on State Trading in Foodgrains held on 13 March 1959, called in response to the National Development Council's November 1958 decision to take wholesale foodgrain distribution into State hands. A. D. Shroff presides; he is joined by Devji Rattansey (Vice-President of the Bombay Foodgrains Dealers' Association), Ranchhoddas Jethabhai (President of the Bombay Rice Merchants' Association), M. H. Hasham Premji (President of the All-India Foodgrains Dealers' Association) and Prof. R. K. Amin of the Vallabh Vidya Nagar Commerce College, Anand.…"
+- agriculture
+- food-policy
+- state-intervention
+- free-enterprise
+- economic-planning
+- democracy
+summary: This 1959 booklet from the Forum of Free Enterprise gathers the presidential
+  remarks and four addresses delivered at a Bombay Convention on State Trading in
+  Foodgrains held on 13 March 1959, called in response to the National Development
+  Council's November 1958 decision to take wholesale foodgrain distribution into State
+  hands. A. D. Shroff presides; he is joined by Devji Rattansey (Vice-President of
+  the Bombay Foodgrains Dealers' Association), Ranchhoddas Jethabhai (President of
+  the Bombay Rice Merchants' Association), M. H. Hasham Premji (President of the All-India
+  Foodgrains Dealers' Association) and Prof. R. K. Amin of the Vallabh Vidya Nagar
+  Commerce College, Anand.…
 needs_review: true
 draft: false
 ai:
@@ -61,12 +71,13 @@ physical:
   pages_rendered: 19
   pages_total: 19
   pages_total_source: pypdfium2
-  format: Stapled pamphlet/booklet; 32 numbered pages of text plus covers and a front-matter introduction page.
+  format: Stapled pamphlet/booklet; 32 numbered pages of text plus covers and a front-matter
+    introduction page.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - isbn_not_present
-  - printed_pages_14_15_absent_from_pdf
+- editor_not_named
+- no_formal_toc_page
+- isbn_not_present
+- printed_pages_14_15_absent_from_pdf
 ---
 
 # STATE TRADING IN FOODGRAINS

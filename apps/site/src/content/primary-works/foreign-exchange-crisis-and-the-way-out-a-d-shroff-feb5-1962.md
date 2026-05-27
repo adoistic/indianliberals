@@ -2,30 +2,30 @@
 id: foreign-exchange-crisis-and-the-way-out-a-d-shroff-feb5-1962
 title:
   main: FOREIGN EXCHANGE CRISIS — THE WAY OUT
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - a-d-shroff
+- a-d-shroff
 editors: []
 contributors:
-  - role: author
-    thinker: a-d-shroff
-    toc_index: 1
-  - role: author
-    thinker_unresolved: R. V. MURTHY
-    toc_index: 2
-  - role: author
-    thinker_unresolved: DR. LANKA SUNDARAM
-    toc_index: 3
-related_thinkers: 
-  - chintaman-deshmukh
-  - eugene-black
-  - t-t-krishnamachari
-
+- role: author
+  thinker: a-d-shroff
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: r-v-murthy
+- role: author
+  toc_index: 3
+  thinker: lanka-sundaram
+related_thinkers:
+- a-d-shroff
+- chintaman-deshmukh
+- eugene-black
+- t-t-krishnamachari
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE, \"SOHRAB HOUSE\", 235 DR. D. N. ROAD, BOMBAY-1"
+  publisher_name: FORUM OF FREE ENTERPRISE, "SOHRAB HOUSE", 235 DR. D. N. ROAD, BOMBAY-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1963
@@ -38,14 +38,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - foreign-exchange
-  - planning
-  - trade
-  - free-enterprise
-summary: "This Forum of Free Enterprise booklet collects three talks delivered in Bombay, Bangalore and Ahmedabad in the last quarter of 1962, all diagnosing India's foreign exchange crisis at the threshold of the Third Five-Year Plan. The contributors — A. D. Shroff (President of the Forum), R. V. Murthy (Chairman of the Press Guild of India, editor of Records and Statistics) and Dr. Lanka Sundaram (former M.P., editor of Commerce and Industry) — converge on the verdict that the crisis is not a transient shock but a structural product of careless planning, gross underestimation of the foreign-exchange component of the Plans, and the dependence on external assistance that the planners had concealed from themselves and from the public.\n\nShroff traces the collapse of the Second Plan's foreign balances from Rs. 746 crores to Rs. 140 crores despite double the anticipated foreign aid, and unpacks the implications of P.L. 480 and \"tied\" loans. Murthy surveys remedial proposals — IDA loans, export-promotion machinery, mobilisation of private gold hoards — while warning that none will save the country unless the intensity of the problem is honestly recognised.…"
+- economic-policy
+- foreign-exchange
+- planning
+- trade
+- free-enterprise
+summary: 'This Forum of Free Enterprise booklet collects three talks delivered in
+  Bombay, Bangalore and Ahmedabad in the last quarter of 1962, all diagnosing India''s
+  foreign exchange crisis at the threshold of the Third Five-Year Plan. The contributors
+  — A. D. Shroff (President of the Forum), R. V. Murthy (Chairman of the Press Guild
+  of India, editor of Records and Statistics) and Dr. Lanka Sundaram (former M.P.,
+  editor of Commerce and Industry) — converge on the verdict that the crisis is not
+  a transient shock but a structural product of careless planning, gross underestimation
+  of the foreign-exchange component of the Plans, and the dependence on external assistance
+  that the planners had concealed from themselves and from the public.
+
+
+  Shroff traces the collapse of the Second Plan''s foreign balances from Rs. 746 crores
+  to Rs. 140 crores despite double the anticipated foreign aid, and unpacks the implications
+  of P.L. 480 and "tied" loans. Murthy surveys remedial proposals — IDA loans, export-promotion
+  machinery, mobilisation of private gold hoards — while warning that none will save
+  the country unless the intensity of the problem is honestly recognised.…'
 needs_review: true
 draft: false
 ai:
@@ -59,33 +75,48 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet/booklet, side-stapled, printed cover with orange title block
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - publication_year_smudged_on_colophon
+- editor_not_named
+- no_formal_toc_page
+- publication_year_smudged_on_colophon
 thinker_mentions:
-  - thinker: t-t-krishnamachari
-    role: mention
-    reasoning: "Krishnamachari's anti-inflation import spree of 1955-56 is identified by Shroff as the real genesis of the foreign exchange crisis, making him the Finance Minister whose policy decisions turned a structural vulnerability into an acute crisis."
-    evidence:
-      - quote: "He attributes the wreckage to the import spree of 1955–56 ordered under Commerce Minister T. T. Krishnamachari's anti-inflation theory that imports would mop up Plan-induced purchasing power."
-        context: Krishnamachari named as the minister responsible for the policy that triggered the foreign exchange collapse
-    key_passages: []
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Eugene Black is cited in Murthy's essay as an authority on IDA lending, used as part of the survey of remedial financing mechanisms available to India in its foreign exchange crisis."
-    evidence:
-      - quote: more IDA (50-year, near-interest-free) loans from the World Bank, citing Eugene Black
-        context: Murthy cites Black on IDA lending as part of his survey of remedial financing mechanisms
-    key_passages: []
-  - thinker: chintaman-deshmukh
-    role: mention
-    reasoning: "Sundaram recalls C. D. Deshmukh as Finance Minister conceding that compiling Budget documents is 'a race against time', using this admission as a damning illustration of the lack of rigour in India's fiscal planning."
-    evidence:
-      - quote: "Recalls C. D. Deshmukh as Finance Minister conceding that compilation of Budget documents is \"a race against time\" — a confession Sundaram says would be unacceptable in any parliament elsewhere."
-        context: "Deshmukh's own admission deployed as evidence of the chronic unreliability of India's fiscal statistics"
-    key_passages: []
-
+- thinker: t-t-krishnamachari
+  role: mention
+  reasoning: Krishnamachari's anti-inflation import spree of 1955-56 is identified
+    by Shroff as the real genesis of the foreign exchange crisis, making him the Finance
+    Minister whose policy decisions turned a structural vulnerability into an acute
+    crisis.
+  evidence:
+  - quote: He attributes the wreckage to the import spree of 1955–56 ordered under
+      Commerce Minister T. T. Krishnamachari's anti-inflation theory that imports
+      would mop up Plan-induced purchasing power.
+    context: Krishnamachari named as the minister responsible for the policy that
+      triggered the foreign exchange collapse
+  key_passages: []
+- thinker: eugene-black
+  role: mention
+  reasoning: Eugene Black is cited in Murthy's essay as an authority on IDA lending,
+    used as part of the survey of remedial financing mechanisms available to India
+    in its foreign exchange crisis.
+  evidence:
+  - quote: more IDA (50-year, near-interest-free) loans from the World Bank, citing
+      Eugene Black
+    context: Murthy cites Black on IDA lending as part of his survey of remedial financing
+      mechanisms
+  key_passages: []
+- thinker: chintaman-deshmukh
+  role: mention
+  reasoning: Sundaram recalls C. D. Deshmukh as Finance Minister conceding that compiling
+    Budget documents is 'a race against time', using this admission as a damning illustration
+    of the lack of rigour in India's fiscal planning.
+  evidence:
+  - quote: Recalls C. D. Deshmukh as Finance Minister conceding that compilation of
+      Budget documents is "a race against time" — a confession Sundaram says would
+      be unacceptable in any parliament elsewhere.
+    context: Deshmukh's own admission deployed as evidence of the chronic unreliability
+      of India's fiscal statistics
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet collects three talks delivered in Bombay, Bangalore and Ahmedabad in the last quarter of 1962, all diagnosing India's foreign exchange crisis at the threshold of the Third Five-Year Plan. The contributors — A. D. Shroff (President of the Forum), R. V. Murthy (Chairman of the Press Guild of India, editor of Records and Statistics) and Dr. Lanka Sundaram (former M.P., editor of Commerce and Industry) — converge on the verdict that the crisis is not a transient shock but a structural product of careless planning, gross underestimation of the foreign-exchange component of the Plans, and the dependence on external assistance that the planners had concealed from themselves and from the public.

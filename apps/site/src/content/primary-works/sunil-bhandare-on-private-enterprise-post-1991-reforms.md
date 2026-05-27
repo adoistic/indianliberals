@@ -103,8 +103,7 @@ thinker_mentions:
       Economic Education
     what_it_shows: Confirms the referent is S. V. Raju, longtime editor of Freedom
       First
-- thinker_unresolved: T. N. Ninan
-  role: mention
+- role: mention
   reasoning: Journalist T. N. Ninan is named as a participant in the first Nashik
     workshop, but he is not present in the authority list.
   evidence:
@@ -117,8 +116,8 @@ thinker_mentions:
       Tendulkar
     what_it_shows: Identifies Ninan as a key intellectual contributor to the first
       alternative budget deliberations
-- thinker_unresolved: Suresh Tendulkar
-  role: mention
+  thinker: t-n-ninan
+- role: mention
   reasoning: Economist Suresh Tendulkar is named as a participant in the Nashik workshop,
     but is not present in the authority list.
   evidence:
@@ -131,8 +130,8 @@ thinker_mentions:
       be the pricing policy, what should be the regulatory institutions and all that
     what_it_shows: Indicates Tendulkar's involvement in shaping the alternative budget's
       policy framework
-- thinker_unresolved: Geethakrishnan
-  role: mention
+  thinker: suresh-tendulkar
+- role: mention
   reasoning: Former finance secretary R. V. Geethakrishnan is cited as a discussant;
     he is not present in the authority list.
   evidence:
@@ -143,9 +142,13 @@ thinker_mentions:
   - quote: We had discussions with Geethakrishnan who was the former finance secretary
     what_it_shows: Shows the alternative-budget exercise drew on senior former bureaucrats
       for substantive input
+  thinker: geethakrishnan
 related_thinkers:
+- geethakrishnan
 - s-v-raju
 - sunil-bhandare
+- suresh-tendulkar
+- t-n-ninan
 ---
 
 # Sunil Bhandare on private enterprise post 1991 reforms

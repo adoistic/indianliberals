@@ -2,30 +2,33 @@
 id: are-there-monopolies-and-concentration-of-economic-power-in-india-arvind-narotta-lalbhai-h-venkatasubbiah-july-5-1964
 title:
   main: Are There Monopolies and Concentration of Economic Power in India?
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - arvind-lalbhai
-  - h-venkatasubbiah
+- arvind-lalbhai
+- h-venkatasubbiah
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: H. Venkatasubbiah
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Arvind Narottam Lalbhai
-    toc_index: 2
-related_thinkers: 
-  - a-d-shroff
-  - eugene-black
-  - m-r-pai
-  - p-c-mahalanobis
-  - wilhelm-ropke
-
+- role: author
+  toc_index: 1
+  thinker: h-venkatasubbiah
+- role: author
+  toc_index: 2
+  thinker: arvind-narottam-lalbhai
+related_thinkers:
+- a-d-shroff
+- arvind-lalbhai
+- eugene-black
+- h-venkatasubbiah
+- m-r-pai
+- p-c-mahalanobis
+- wilhelm-ropke
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 1, and Printed by S. J. Patel, at Onlooker Press,
+    (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1964
@@ -37,19 +40,36 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - monopoly
-  - economic-freedom
-  - free-enterprise
-  - private-sector
-  - public-sector
-  - state-intervention
-  - mixed-economy
-  - planning
-  - competition
-  - industrial-policy
-summary: "Are There Monopolies and Concentration of Economic Power in India? is a short Forum of Free Enterprise booklet, published in Bombay in July 1964 and printed by M. R. Pai. The Forum frames the booklet as a dispassionate intervention against what it calls 'ill-informed talk' on monopolies and concentration of economic power, and reproduces two newspaper articles already published earlier in 1964 — H. Venkatasubbiah's 'A Naive Analysis of Economic Power' (from The Hindu, 9 May 1964) and Arvind Narottam Lalbhai's 'Government's Obsession with \"Monopolies\" — A Threat to Economic Progress' (from The Economic Times, 15 April 1964) — together with an Appendix of selected quotations from Wilhelm Roepke's Economics of the Free Society.\n\nThe argumentative centre is a sceptical reading of the Mahalanobis Committee on Distribution of Income and Levels of Living: Venkatasubbiah's piece dissects what he treats as the Committee's conceptual confusions between wealth, economic power and decision-making power, and argues that a politicised concentration of economic power in the State is no remedy.…"
+- monopoly
+- economic-freedom
+- free-enterprise
+- private-sector
+- public-sector
+- state-intervention
+- mixed-economy
+- planning
+- competition
+- industrial-policy
+summary: 'Are There Monopolies and Concentration of Economic Power in India? is a
+  short Forum of Free Enterprise booklet, published in Bombay in July 1964 and printed
+  by M. R. Pai. The Forum frames the booklet as a dispassionate intervention against
+  what it calls ''ill-informed talk'' on monopolies and concentration of economic
+  power, and reproduces two newspaper articles already published earlier in 1964 —
+  H. Venkatasubbiah''s ''A Naive Analysis of Economic Power'' (from The Hindu, 9 May
+  1964) and Arvind Narottam Lalbhai''s ''Government''s Obsession with "Monopolies"
+  — A Threat to Economic Progress'' (from The Economic Times, 15 April 1964) — together
+  with an Appendix of selected quotations from Wilhelm Roepke''s Economics of the
+  Free Society.
+
+
+  The argumentative centre is a sceptical reading of the Mahalanobis Committee on
+  Distribution of Income and Levels of Living: Venkatasubbiah''s piece dissects what
+  he treats as the Committee''s conceptual confusions between wealth, economic power
+  and decision-making power, and argues that a politicised concentration of economic
+  power in the State is no remedy.…'
 needs_review: false
 draft: false
 ai:
@@ -61,62 +81,90 @@ physical:
   pages_rendered: 20
   pages_total: 20
   pages_total_source: pypdfium2
-  format: Stapled booklet/pamphlet with red-printed paper cover; 16 pages of numbered content plus front and back matter
+  format: Stapled booklet/pamphlet with red-printed paper cover; 16 pages of numbered
+    content plus front and back matter
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
+- editor_not_named
+- no_formal_toc
 authors_resolution:
   confidence: high
   method: llm
   proposed_unknowns:
-    - H. Venkatasubbiah
+  - H. Venkatasubbiah
   stubs_created: []
   stubs_referenced:
-    - h-venkatasubbiah
+  - h-venkatasubbiah
   collisions_logged: []
 thinker_mentions:
-  - thinker: m-r-pai
-    role: mention
-    reasoning: M. R. Pai appears as the printer of the booklet, the standard Forum of Free Enterprise imprint that signals the institutional provenance of the two reproduced press articles.
-    evidence:
-      - quote: published in Bombay in July 1964 and printed by M. R. Pai.
-        context: "Pai's imprint identifies the booklet as a Forum of Free Enterprise production"
-    key_passages: []
-  - thinker: wilhelm-ropke
-    role: mention
-    reasoning: "Roepke's Economics of the Free Society supplies the booklet's Appendix of selected quotations, providing the classical-liberal theoretical scaffolding behind Venkatasubbiah and Lalbhai's specifically Indian critiques."
-    evidence:
-      - quote: "an Appendix of selected quotations from Wilhelm Roepke's Economics of the Free Society."
-        context: "Roepke's Economics of the Free Society is reproduced as the theoretical appendix that grounds the Indian critique in classical-liberal economics"
-      - quote: "The Roepke appendix and the closing A. D. Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame"
-        context: "Roepke's selections are explicitly the bridge between the booklet's Indian arguments and the Forum's broader free-enterprise worldview"
-    key_passages: []
-  - thinker: p-c-mahalanobis
-    role: mention
-    reasoning: "The Mahalanobis Committee on Distribution of Income and Levels of Living is the primary target of Venkatasubbiah's lead essay, which dissects what he treats as the Committee's conflation of wealth, economic power and decision-making power, and rejects its prescription of countervailing public-sector concentration."
-    evidence:
-      - quote: The argumentative centre is a sceptical reading of the Mahalanobis Committee on Distribution of Income and Levels of Living
-        context: the Mahalanobis Committee is the central object of critique in the lead essay
-      - quote: "Venkatasubbiah's article — reproduced from The Hindu of 9 May 1964 — is a close, sceptical reading of the Mahalanobis Committee's third term of reference"
-        context: "Venkatasubbiah works through the Committee's third term of reference clause by clause"
-      - quote: "Argues that the Mahalanobis Committee on Distribution of Income and Levels of Living conflates wealth, economic power and decision-making power, producing a 'naive' analysis."
-        context: "the key-points summary records the booklet's central charge against the Mahalanobis Committee's conceptual scaffolding"
-    key_passages: []
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Shroff's aphorism closes the booklet alongside Eugene Black's, tying the Indian anti-concentration arguments back to the Forum of Free Enterprise's broader classical-liberal frame of free enterprise as an 'affirmative good'."
-    evidence:
-      - quote: "the closing A. D. Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame"
-        context: "Shroff's closing aphorism positions the booklet inside the Forum's free-enterprise tradition"
-    key_passages: []
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Black's aphorism on free enterprise as an 'affirmative good' frames the booklet alongside Shroff's, providing one of the two ideological book-ends that mark the volume as a Forum of Free Enterprise position statement."
-    evidence:
-      - quote: "Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame of free enterprise as an 'affirmative good'."
-        context: "Black's aphorism is explicitly the source of the booklet's 'affirmative good' framing of private enterprise"
-    key_passages: []
-
+- thinker: m-r-pai
+  role: mention
+  reasoning: M. R. Pai appears as the printer of the booklet, the standard Forum of
+    Free Enterprise imprint that signals the institutional provenance of the two reproduced
+    press articles.
+  evidence:
+  - quote: published in Bombay in July 1964 and printed by M. R. Pai.
+    context: Pai's imprint identifies the booklet as a Forum of Free Enterprise production
+  key_passages: []
+- thinker: wilhelm-ropke
+  role: mention
+  reasoning: Roepke's Economics of the Free Society supplies the booklet's Appendix
+    of selected quotations, providing the classical-liberal theoretical scaffolding
+    behind Venkatasubbiah and Lalbhai's specifically Indian critiques.
+  evidence:
+  - quote: an Appendix of selected quotations from Wilhelm Roepke's Economics of the
+      Free Society.
+    context: Roepke's Economics of the Free Society is reproduced as the theoretical
+      appendix that grounds the Indian critique in classical-liberal economics
+  - quote: The Roepke appendix and the closing A. D. Shroff and Eugene Black aphorisms
+      tie the booklet's particular Indian arguments into the Forum's broader classical-liberal
+      frame
+    context: Roepke's selections are explicitly the bridge between the booklet's Indian
+      arguments and the Forum's broader free-enterprise worldview
+  key_passages: []
+- thinker: p-c-mahalanobis
+  role: mention
+  reasoning: The Mahalanobis Committee on Distribution of Income and Levels of Living
+    is the primary target of Venkatasubbiah's lead essay, which dissects what he treats
+    as the Committee's conflation of wealth, economic power and decision-making power,
+    and rejects its prescription of countervailing public-sector concentration.
+  evidence:
+  - quote: The argumentative centre is a sceptical reading of the Mahalanobis Committee
+      on Distribution of Income and Levels of Living
+    context: the Mahalanobis Committee is the central object of critique in the lead
+      essay
+  - quote: Venkatasubbiah's article — reproduced from The Hindu of 9 May 1964 — is
+      a close, sceptical reading of the Mahalanobis Committee's third term of reference
+    context: Venkatasubbiah works through the Committee's third term of reference
+      clause by clause
+  - quote: Argues that the Mahalanobis Committee on Distribution of Income and Levels
+      of Living conflates wealth, economic power and decision-making power, producing
+      a 'naive' analysis.
+    context: the key-points summary records the booklet's central charge against the
+      Mahalanobis Committee's conceptual scaffolding
+  key_passages: []
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff's aphorism closes the booklet alongside Eugene Black's, tying
+    the Indian anti-concentration arguments back to the Forum of Free Enterprise's
+    broader classical-liberal frame of free enterprise as an 'affirmative good'.
+  evidence:
+  - quote: the closing A. D. Shroff and Eugene Black aphorisms tie the booklet's particular
+      Indian arguments into the Forum's broader classical-liberal frame
+    context: Shroff's closing aphorism positions the booklet inside the Forum's free-enterprise
+      tradition
+  key_passages: []
+- thinker: eugene-black
+  role: mention
+  reasoning: Black's aphorism on free enterprise as an 'affirmative good' frames the
+    booklet alongside Shroff's, providing one of the two ideological book-ends that
+    mark the volume as a Forum of Free Enterprise position statement.
+  evidence:
+  - quote: Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments
+      into the Forum's broader classical-liberal frame of free enterprise as an 'affirmative
+      good'.
+    context: Black's aphorism is explicitly the source of the booklet's 'affirmative
+      good' framing of private enterprise
+  key_passages: []
 ---
 
 ## Summary

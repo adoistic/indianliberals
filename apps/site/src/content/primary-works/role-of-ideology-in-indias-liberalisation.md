@@ -59,8 +59,7 @@ key_points:
 - These cultural shifts, visible in the films of the era, made the liberal policy
   turn of the 1990s politically possible.
 thinker_mentions:
-- thinker_unresolved: Nimish Adhia
-  role: subject
+- role: subject
   reasoning: Adhia is identified in the editorial description as the speaker delivering
     this monologue on the role of ideology in India's liberalisation; he has no matching
     slug in the authority list.
@@ -79,6 +78,7 @@ thinker_mentions:
       the Indian government was able to move towards more economically liberal policies
       in the nineteen nineties
     what_it_shows: His concluding argument linking cultural shifts to policy change
+  thinker: nimish-adhia
 - thinker: jawaharlal-nehru
   role: mention
   reasoning: Adhia repeatedly invokes the 'Nehruvian consensus' as the ideological
@@ -95,6 +95,7 @@ thinker_mentions:
       distinct from communist models
 related_thinkers:
 - jawaharlal-nehru
+- nimish-adhia
 ---
 
 # Role of Ideology in India's Liberalisation

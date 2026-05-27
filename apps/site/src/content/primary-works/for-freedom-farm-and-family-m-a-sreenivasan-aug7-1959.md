@@ -2,32 +2,35 @@
 id: for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959
 title:
   main: For Freedom, Farm And Family
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - ma-sreenivasan
-  - c-rajagopalachari
+- ma-sreenivasan
+- c-rajagopalachari
 editors: []
 contributors:
-  - role: author
-    thinker: ma-sreenivasan
-    toc_index: 1
-  - role: author
-    thinker_unresolved: M. R. Masani, M.P.
-    toc_index: 2
-  - role: author
-    thinker: c-rajagopalachari
-    toc_index: 3
-related_thinkers: 
-  - jawaharlal-nehru
-  - jayaprakash-narayan
-  - ludwig-erhard
-  - n-g-ranga
-
+- role: author
+  thinker: ma-sreenivasan
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: m-r-masani-m-p
+- role: author
+  thinker: c-rajagopalachari
+  toc_index: 3
+related_thinkers:
+- c-rajagopalachari
+- jawaharlal-nehru
+- jayaprakash-narayan
+- ludwig-erhard
+- ma-sreenivasan
+- n-g-ranga
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. Pai, for Forum of Free Enterprise, \"Sohrab House\", 235 Dr. Dadabhai Naoroji Road, Bombay 1, and printed by P. A. Raman at Inland Printers, Victoria Mills Building, 55, Gamdevi Road, Bombay 7."
+  publisher_name: Published by M. R. Pai, for Forum of Free Enterprise, "Sohrab House",
+    235 Dr. Dadabhai Naoroji Road, Bombay 1, and printed by P. A. Raman at Inland
+    Printers, Victoria Mills Building, 55, Gamdevi Road, Bombay 7.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1959
@@ -39,13 +42,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - agriculture
-  - free-enterprise
-  - democracy
-  - socialism
-summary: "This Forum of Free Enterprise booklet collects three speeches from a meeting organised by the Forum's Bangalore Centre on 29 May 1959 — a gathering that helped launch the political mobilisation which would crystallise as the Swatantra Party. The order is preserved: a welcome speech by M. A. Sreenivasan, chairman of the Bangalore Centre, titled \"Coop and Kotow\"; the main address \"Nagpur and After\" by M. R. Masani, M.P.; and the presidential speech \"For Freedom, Farm and Family\" by C. Rajagopalachari. The argumentative centre is a frontal attack on the Congress's Nagpur Resolution of January 1959 on joint cooperative farming, read as the latest step in a drift toward state capitalism and \"Communist dictatorship\". All three speakers call for a non-Socialist opposition — a \"Middleclass Front\" and \"Small Man's Party\" — to defend peasant proprietorship, parliamentary democracy and free enterprise against what Rajaji names a \"Totalitarian State\"."
+- agriculture
+- free-enterprise
+- democracy
+- socialism
+summary: 'This Forum of Free Enterprise booklet collects three speeches from a meeting
+  organised by the Forum''s Bangalore Centre on 29 May 1959 — a gathering that helped
+  launch the political mobilisation which would crystallise as the Swatantra Party.
+  The order is preserved: a welcome speech by M. A. Sreenivasan, chairman of the Bangalore
+  Centre, titled "Coop and Kotow"; the main address "Nagpur and After" by M. R. Masani,
+  M.P.; and the presidential speech "For Freedom, Farm and Family" by C. Rajagopalachari.
+  The argumentative centre is a frontal attack on the Congress''s Nagpur Resolution
+  of January 1959 on joint cooperative farming, read as the latest step in a drift
+  toward state capitalism and "Communist dictatorship". All three speakers call for
+  a non-Socialist opposition — a "Middleclass Front" and "Small Man''s Party" — to
+  defend peasant proprietorship, parliamentary democracy and free enterprise against
+  what Rajaji names a "Totalitarian State".'
 needs_review: true
 draft: false
 ai:
@@ -57,41 +72,54 @@ physical:
   pages_rendered: 19
   pages_total: 19
   pages_total_source: pypdfium2
-  format: Saddle-stitched FFE booklet; cover with title and FFE imprint; back colophon dated 7/Au/59.
+  format: Saddle-stitched FFE booklet; cover with title and FFE imprint; back colophon
+    dated 7/Au/59.
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
+- no_formal_toc_page
+- editor_not_named
 thinker_mentions:
-  - thinker: jayaprakash-narayan
-    role: mention
-    reasoning: Jayaprakash Narayan is cited by Masani as a figure who shares the anti-collectivist diagnosis motivating the new opposition party, lending cross-ideological support to the Swatantra initiative.
-    evidence:
-      - quote: with whom Jayaprakash Narayan and Prof. N. G. Ranga share the diagnosis
-        context: Narayan cited as a cross-spectrum ally who shares the anti-collectivist diagnosis that motivates the new party initiative
-    key_passages: []
-  - thinker: n-g-ranga
-    role: mention
-    reasoning: "N. G. Ranga is cited alongside Jayaprakash Narayan as a political figure who shares Rajagopalachari's and Masani's diagnosis of India's drift toward collectivism, lending peasant-interest credibility to the new party initiative."
-    evidence:
-      - quote: with whom Jayaprakash Narayan and Prof. N. G. Ranga share the diagnosis
-        context: "Ranga named as a co-diagnostician of India's anti-peasant drift"
-    key_passages: []
-  - thinker: ludwig-erhard
-    role: mention
-    reasoning: "Masani invokes Erhard's slogan 'Let the men and the money loose' as the positive economic prescription behind the proposed new party, positioning the initiative within the European social-market tradition."
-    evidence:
-      - quote: "Masani ends with Ludwig Erhard's slogan \"Let the men and the money loose\""
-        context: "Erhard's slogan used as the positive economic manifesto for the non-socialist opposition Masani calls for"
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: Nehru is invoked by Masani and Rajagopalachari as the dominant political figure whose policies are pushing India toward Communist dictatorship and whose eventual departure will expose the need for a viable alternative.
-    evidence:
-      - quote: the broader Nehru-government policy are pushing India toward Communist dictatorship by destroying peasant proprietorship
-        context: "Masani's identification of Nehru-government policy as the primary driver of India's collectivist drift"
-    key_passages: []
-
+- thinker: jayaprakash-narayan
+  role: mention
+  reasoning: Jayaprakash Narayan is cited by Masani as a figure who shares the anti-collectivist
+    diagnosis motivating the new opposition party, lending cross-ideological support
+    to the Swatantra initiative.
+  evidence:
+  - quote: with whom Jayaprakash Narayan and Prof. N. G. Ranga share the diagnosis
+    context: Narayan cited as a cross-spectrum ally who shares the anti-collectivist
+      diagnosis that motivates the new party initiative
+  key_passages: []
+- thinker: n-g-ranga
+  role: mention
+  reasoning: N. G. Ranga is cited alongside Jayaprakash Narayan as a political figure
+    who shares Rajagopalachari's and Masani's diagnosis of India's drift toward collectivism,
+    lending peasant-interest credibility to the new party initiative.
+  evidence:
+  - quote: with whom Jayaprakash Narayan and Prof. N. G. Ranga share the diagnosis
+    context: Ranga named as a co-diagnostician of India's anti-peasant drift
+  key_passages: []
+- thinker: ludwig-erhard
+  role: mention
+  reasoning: Masani invokes Erhard's slogan 'Let the men and the money loose' as the
+    positive economic prescription behind the proposed new party, positioning the
+    initiative within the European social-market tradition.
+  evidence:
+  - quote: Masani ends with Ludwig Erhard's slogan "Let the men and the money loose"
+    context: Erhard's slogan used as the positive economic manifesto for the non-socialist
+      opposition Masani calls for
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is invoked by Masani and Rajagopalachari as the dominant political
+    figure whose policies are pushing India toward Communist dictatorship and whose
+    eventual departure will expose the need for a viable alternative.
+  evidence:
+  - quote: the broader Nehru-government policy are pushing India toward Communist
+      dictatorship by destroying peasant proprietorship
+    context: Masani's identification of Nehru-government policy as the primary driver
+      of India's collectivist drift
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet collects three speeches from a meeting organised by the Forum's Bangalore Centre on 29 May 1959 — a gathering that helped launch the political mobilisation which would crystallise as the Swatantra Party. The order is preserved: a welcome speech by M. A. Sreenivasan, chairman of the Bangalore Centre, titled "Coop and Kotow"; the main address "Nagpur and After" by M. R. Masani, M.P.; and the presidential speech "For Freedom, Farm and Family" by C. Rajagopalachari. The argumentative centre is a frontal attack on the Congress's Nagpur Resolution of January 1959 on joint cooperative farming, read as the latest step in a drift toward state capitalism and "Communist dictatorship". All three speakers call for a non-Socialist opposition — a "Middleclass Front" and "Small Man's Party" — to defend peasant proprietorship, parliamentary democracy and free enterprise against what Rajaji names a "Totalitarian State".

@@ -68,8 +68,7 @@ key_points:
 - He challenged MPs to show that any of them had sought an explicit electoral mandate
   to amend the entire gamut of fundamental rights.
 thinker_mentions:
-- thinker_unresolved: Sriraj Meghrajji
-  role: subject
+- role: subject
   reasoning: The episode is built entirely around explaining Meghrajji's referendum
     bill and his argument that fundamental rights are not amendable by Parliament.
   evidence:
@@ -101,8 +100,8 @@ thinker_mentions:
       but the entire gamut of fundamental rights embodied in Part Three of the Constitution.
     what_it_shows: Meghrajji's democratic-mandate challenge to MPs supporting Nath
       Pai's bill.
-- thinker_unresolved: Nath Pai
-  role: mention
+  thinker: sriraj-meghrajji
+- role: mention
   reasoning: Nath Pai's competing bill — to vest amending power over fundamental rights
     in Parliament — is the proposal Meghrajji is responding to and is discussed at
     length, but he is not in the authority list.
@@ -120,6 +119,7 @@ thinker_mentions:
   - quote: Nath Pai aimed at securing those powers for the Parliament because he believed
       that the Parliament was an elected body of people's chosen representatives.
     what_it_shows: Frames the parliamentary-sovereignty position that Meghrajji opposes.
+  thinker: nath-pai
 - thinker: bhimrao-ambedkar
   role: mention
   reasoning: Meghrajji invokes Ambedkar's own words from the Constituent Assembly
@@ -139,8 +139,7 @@ thinker_mentions:
       are not amendable by the Parliament.
     what_it_shows: Meghrajji's gloss on Ambedkar establishing the entrenchment of
       Part III.
-- thinker_unresolved: M. Hidayatullah
-  role: mention
+- role: mention
   reasoning: The episode opens with Justice Hidayatullah's Golak Nath ruling, which
     is the trigger for the entire Nath Pai / Meghrajji exchange, but he is not in
     the authority list.
@@ -157,8 +156,12 @@ thinker_mentions:
       locomotion, of property, trade, and profession.
     what_it_shows: Hidayatullah's articulation of the liberal-rights baseline the
       episode builds on.
+  thinker: m-hidayatullah
 related_thinkers:
 - bhimrao-ambedkar
+- m-hidayatullah
+- nath-pai
+- sriraj-meghrajji
 ---
 
 # IL Explainer - Ep 6 | Why Are Fundamental Rights Not Amendable?

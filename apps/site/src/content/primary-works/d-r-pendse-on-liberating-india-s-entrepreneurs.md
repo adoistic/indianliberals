@@ -88,8 +88,7 @@ thinker_mentions:
       is good for the country, who cares for the law?
     what_it_shows: Uses JRD as the moral anchor for legitimate entrepreneurship even
       while showing empathy for those who circumvented bad laws
-- thinker_unresolved: Alfred Marshall
-  role: mention
+- role: mention
   reasoning: Pendse quotes the British economist Alfred Marshall at length as the
     intellectual authority for his thesis; Marshall has no entry in the authority
     list.
@@ -105,7 +104,9 @@ thinker_mentions:
       indigenous, can accomplish.
     what_it_shows: The Marshall epigram Pendse uses to crystallize the entrepreneur-versus-government
       thesis
+  thinker: alfred-marshall
 related_thinkers:
+- alfred-marshall
 - d-r-pendse
 - jrd-tata
 ---

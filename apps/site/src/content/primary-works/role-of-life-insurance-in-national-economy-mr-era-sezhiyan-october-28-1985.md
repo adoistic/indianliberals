@@ -2,23 +2,26 @@
 id: role-of-life-insurance-in-national-economy-mr-era-sezhiyan-october-28-1985
 title:
   main: Role of Life Insurance in National Economy
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: ERA SEZHIYAN
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers:
-  - a-d-shroff
-  - m-r-pai
-  - chintaman-deshmukh
+- role: author
+  thinker: era-sezhiyan
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: "Published by\nTHE A. D. SHROFF MEMORIAL TRUST\n235 Dr. D. N. ROAD,\nBOMBAY 400 001."
+  publisher_name: 'Published by
+
+    THE A. D. SHROFF MEMORIAL TRUST
+
+    235 Dr. D. N. ROAD,
+
+    BOMBAY 400 001.'
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1985
@@ -30,13 +33,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - public-finance
-  - nationalisation
-  - insurance
-summary: "Era Sezhiyan's 1985 A. D. Shroff Memorial Lecture, delivered in Bombay on 26 April 1985 and published by the A. D. Shroff Memorial Trust, evaluates the record of nationalised life insurance in India three decades after the 1956 nationalisation. Drawing on his work as Chairman of the LIC Review Committee (1979–80) and his long parliamentary career, Sezhiyan organises his argument around three planks: the benefit of life insurance for individuals and the country, the objectives and performance of the nationalised industry, and the attitude of the Government with concrete suggestions for improvement.\n\nThe early sections explain how life insurance evolved from short-term risk cover into long-term endowment plans that bundle savings with risk protection, and then situate insurance within India's anaemic social-welfare provision.…"
+- economic-policy
+- public-finance
+- nationalisation
+- insurance
+summary: 'Era Sezhiyan''s 1985 A. D. Shroff Memorial Lecture, delivered in Bombay
+  on 26 April 1985 and published by the A. D. Shroff Memorial Trust, evaluates the
+  record of nationalised life insurance in India three decades after the 1956 nationalisation.
+  Drawing on his work as Chairman of the LIC Review Committee (1979–80) and his long
+  parliamentary career, Sezhiyan organises his argument around three planks: the benefit
+  of life insurance for individuals and the country, the objectives and performance
+  of the nationalised industry, and the attitude of the Government with concrete suggestions
+  for improvement.
+
+
+  The early sections explain how life insurance evolved from short-term risk cover
+  into long-term endowment plans that bundle savings with risk protection, and then
+  situate insurance within India''s anaemic social-welfare provision.…'
 needs_review: true
 draft: false
 ai:
@@ -48,10 +64,11 @@ physical:
   pages_rendered: 20
   pages_total: 31
   pages_total_source: pypdfium2
-  format: Booklet / pamphlet; text of the 1985 annual public lecture organised by the A. D. Shroff Memorial Trust
+  format: Booklet / pamphlet; text of the 1985 annual public lecture organised by
+    the A. D. Shroff Memorial Trust
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
+- no_formal_toc
+- no_isbn
 ---
 
 # Role of Life Insurance in National Economy

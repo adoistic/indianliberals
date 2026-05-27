@@ -110,8 +110,7 @@ thinker_mentions:
   - quote: there were at least four assumptions of Marxist socialism that required
       reconsideration
     what_it_shows: Establishes Marxist socialism as the target of the essay's critique.
-- thinker_unresolved: Lenin
-  role: mention
+- role: mention
   reasoning: Lenin is cited as the formulator (following Engels) of the doctrine that
     the state will wither away after the dictatorship of the proletariat. No matching
     slug in the authority list.
@@ -122,8 +121,8 @@ thinker_mentions:
   - quote: indeed as Lenin following Engels put it, the state will then wither away
     what_it_shows: Identifies Lenin as the canonical voice for the second Marxist
       assumption Masani challenges.
-- thinker_unresolved: Friedrich Engels
-  role: mention
+  thinker: lenin
+- role: mention
   reasoning: Engels is named as the original source of the 'state will wither away'
     formulation later restated by Lenin. No matching slug in the authority list.
   evidence:
@@ -133,8 +132,11 @@ thinker_mentions:
   - quote: indeed as Lenin following Engels put it, the state will then wither away
     what_it_shows: Locates Engels as the intellectual antecedent of the Marxist theory
       of the state's dissolution.
+  thinker: friedrich-engels
 related_thinkers:
+- friedrich-engels
 - karl-marx
+- lenin
 - minoo-masani
 ---
 

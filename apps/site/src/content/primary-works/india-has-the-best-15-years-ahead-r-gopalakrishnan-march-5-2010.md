@@ -2,24 +2,27 @@
 id: india-has-the-best-15-years-ahead-r-gopalakrishnan-march-5-2010
 title:
   main: INDIA HAS THE BEST EVER 15 YEARS AHEAD
-  subtitle: ""
+  subtitle: ''
 work_type: essay
 authors:
-  - r-gopalakrishnan
+- r-gopalakrishnan
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: R. Gopalakrishnan
-    toc_index: 1
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - a-d-shroff
-
+- role: author
+  toc_index: 1
+  thinker: r-gopalakrishnan
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- a-d-shroff
+- r-gopalakrishnan
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001. and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001. and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2010
@@ -31,12 +34,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-growth
-  - economic-development
-  - democracy
-summary: "This Forum of Free Enterprise booklet reproduces an expanded version of R. Gopalakrishnan's Economic Times article of 2 March 2010, written at the time of that year's Union Budget. Gopalakrishnan — then Executive Director of Tata Sons — argues that India is poised for its best ever fifteen-year stretch of growth, framing the country's unusual choice to embrace democracy and constitutional liberalism before capitalism as climbing up the 'down' escalator: confusing in motion, but unambiguously upward. He marshals macro data (a trillion-dollar economy capable of doubling every seven to eight years, an 8 percent growth rate he calls a 'slam dunk', rising per-capita consumption, the cell-phone and two-wheeler revolutions, the doubling of rural non-agricultural employment) to argue that the Hindu rate of growth is now firmly behind India.\n\nHe then lays out nine accelerators — scale, consumption depth, global connectedness, demographic dividend, productivity gains, the displacement of older corporate giants by new ones like Bharti, Suzlon and Essar Oil, the maturing of coalition politics, and the country's broad religious tolerance and entrepreneurial flair.…"
+- economic-growth
+- economic-development
+- democracy
+summary: 'This Forum of Free Enterprise booklet reproduces an expanded version of
+  R. Gopalakrishnan''s Economic Times article of 2 March 2010, written at the time
+  of that year''s Union Budget. Gopalakrishnan — then Executive Director of Tata Sons
+  — argues that India is poised for its best ever fifteen-year stretch of growth,
+  framing the country''s unusual choice to embrace democracy and constitutional liberalism
+  before capitalism as climbing up the ''down'' escalator: confusing in motion, but
+  unambiguously upward. He marshals macro data (a trillion-dollar economy capable
+  of doubling every seven to eight years, an 8 percent growth rate he calls a ''slam
+  dunk'', rising per-capita consumption, the cell-phone and two-wheeler revolutions,
+  the doubling of rural non-agricultural employment) to argue that the Hindu rate
+  of growth is now firmly behind India.
+
+
+  He then lays out nine accelerators — scale, consumption depth, global connectedness,
+  demographic dividend, productivity gains, the displacement of older corporate giants
+  by new ones like Bharti, Suzlon and Essar Oil, the maturing of coalition politics,
+  and the country''s broad religious tolerance and entrepreneurial flair.…'
 needs_review: true
 draft: false
 ai:
@@ -47,28 +67,32 @@ physical:
   pages_rendered: 11
   pages_total: 11
   pages_total_source: pypdfium2
-  format: FFE booklet/pamphlet, approx. 16 printed pages; back-cover colophon dated 5/March/2010; sponsored by Shailesh Kapadia Memorial Trust
+  format: FFE booklet/pamphlet, approx. 16 printed pages; back-cover colophon dated
+    5/March/2010; sponsored by Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - no_formal_toc
-  - isbn_not_printed
+- no_formal_toc
+- isbn_not_printed
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - R. Gopalakrishnan
+  - R. Gopalakrishnan
   stubs_created: []
   stubs_referenced:
-    - r-gopalakrishnan
+  - r-gopalakrishnan
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Gopalakrishnan's bullish 2010 forecast on India's next fifteen years closes with the Forum's customary A. D. Shroff epigraph, positioning a Tata executive's growth optimism inside the Forum's Shroff-anchored classical-liberal lineage."
-    evidence:
-      - quote: alongside the customary Forum of Free Enterprise masthead and an A. D. Shroff epigraph
-        context: "closing paratext; Shroff's epigraph brackets Gopalakrishnan's growth-optimism case in the Forum tradition"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Gopalakrishnan's bullish 2010 forecast on India's next fifteen years
+    closes with the Forum's customary A. D. Shroff epigraph, positioning a Tata executive's
+    growth optimism inside the Forum's Shroff-anchored classical-liberal lineage.
+  evidence:
+  - quote: alongside the customary Forum of Free Enterprise masthead and an A. D.
+      Shroff epigraph
+    context: closing paratext; Shroff's epigraph brackets Gopalakrishnan's growth-optimism
+      case in the Forum tradition
+  key_passages: []
 ---
 
 ## Summary

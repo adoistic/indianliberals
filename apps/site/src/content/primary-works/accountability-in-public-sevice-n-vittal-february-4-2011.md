@@ -2,24 +2,27 @@
 id: accountability-in-public-sevice-n-vittal-february-4-2011
 title:
   main: Accountability in Public Service
-  subtitle: ""
+  subtitle: ''
 work_type: pamphlet
 authors:
-  - n-vittal
+- n-vittal
 editors: []
 contributors:
-  - role: author
-    thinker: n-vittal
-  - role: introduction
-    thinker_unresolved: Sunil Bhandare
-related_thinkers: 
-  - m-c-chagla
-  - margaret-thatcher
-
+- role: author
+  thinker: n-vittal
+- role: introduction
+  thinker: sunil-bhandare
+related_thinkers:
+- m-c-chagla
+- margaret-thatcher
+- n-vittal
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2011
@@ -31,14 +34,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - governance
-  - accountability
-  - public-administration
-  - corruption
-  - free-enterprise
-summary: "Reproduced from successive issues of Freedom First (November–December 2010 and January 2011), this Forum of Free Enterprise booklet by former Central Vigilance Commissioner N. Vittal frames accountability as the missing soul of Indian public service. Sunil Bhandare's editorial preface places the essay in the immediate context of the 2010–11 scams and an open letter of fourteen prominent citizens calling for empowered Lok Ayuktas and the Lok Pal Bill, while invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption.\n\nVittal's central argument is a simple equation — Input × Accountability = Output — that he uses to insist accountability is finally fixable only on individual human beings, never on the abstract 'organisation'.…"
+- governance
+- accountability
+- public-administration
+- corruption
+- free-enterprise
+summary: 'Reproduced from successive issues of Freedom First (November–December 2010
+  and January 2011), this Forum of Free Enterprise booklet by former Central Vigilance
+  Commissioner N. Vittal frames accountability as the missing soul of Indian public
+  service. Sunil Bhandare''s editorial preface places the essay in the immediate context
+  of the 2010–11 scams and an open letter of fourteen prominent citizens calling for
+  empowered Lok Ayuktas and the Lok Pal Bill, while invoking M. C. Chagla''s Ninth
+  A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone
+  for the ''principle of zero tolerance'' toward corruption.
+
+
+  Vittal''s central argument is a simple equation — Input × Accountability = Output
+  — that he uses to insist accountability is finally fixable only on individual human
+  beings, never on the abstract ''organisation''.…'
 needs_review: true
 draft: false
 ai:
@@ -50,27 +66,36 @@ physical:
   pages_rendered: 16
   pages_total: 16
   pages_total_source: pypdfium2
-  format: FFE booklet/pamphlet; PDF scanned as 2-up spreads; printed book pages run to at least 26
+  format: FFE booklet/pamphlet; PDF scanned as 2-up spreads; printed book pages run
+    to at least 26
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
+- no_formal_toc
+- no_isbn
 thinker_mentions:
-  - thinker: m-c-chagla
-    role: mention
-    reasoning: "Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary is invoked as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption, framing the ethical horizon of Vittal's essay."
-    evidence:
-      - quote: "invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption"
-        context: "editorial preface; Chagla's lecture is cited as the normative precedent for the accountability argument"
-    key_passages: []
-  - thinker: margaret-thatcher
-    role: mention
-    reasoning: "Vittal explicitly recommends 'Margaret Thatcher-style agencification' of two-thirds of departmental functions as a structural reform model for Indian public administration."
-    evidence:
-      - quote: Margaret Thatcher-style agencification of two-thirds of departmental functions
-        context: "prescriptive section; Thatcher's UK reforms are the template for restructuring India's civil service delivery"
-    key_passages: []
-
+- thinker: m-c-chagla
+  role: mention
+  reasoning: Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary is invoked
+    as a long-standing Forum touchstone for the 'principle of zero tolerance' toward
+    corruption, framing the ethical horizon of Vittal's essay.
+  evidence:
+  - quote: invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary
+      as a long-standing Forum touchstone for the 'principle of zero tolerance' toward
+      corruption
+    context: editorial preface; Chagla's lecture is cited as the normative precedent
+      for the accountability argument
+  key_passages: []
+- thinker: margaret-thatcher
+  role: mention
+  reasoning: Vittal explicitly recommends 'Margaret Thatcher-style agencification'
+    of two-thirds of departmental functions as a structural reform model for Indian
+    public administration.
+  evidence:
+  - quote: Margaret Thatcher-style agencification of two-thirds of departmental functions
+    context: prescriptive section; Thatcher's UK reforms are the template for restructuring
+      India's civil service delivery
+  key_passages: []
 ---
+
 ## Summary
 
 Reproduced from successive issues of Freedom First (November–December 2010 and January 2011), this Forum of Free Enterprise booklet by former Central Vigilance Commissioner N. Vittal frames accountability as the missing soul of Indian public service. Sunil Bhandare's editorial preface places the essay in the immediate context of the 2010–11 scams and an open letter of fourteen prominent citizens calling for empowered Lok Ayuktas and the Lok Pal Bill, while invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone for the 'principle of zero tolerance' toward corruption.

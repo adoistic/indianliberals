@@ -2,25 +2,27 @@
 id: implications-of-bank-nationalisation-misc-mar9-1964
 title:
   main: Implications of Bank Nationalisation
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: "\"OBSERVER\""
-    toc_index: 1
-  - role: author
-    thinker_unresolved: "\"UDAY\""
-    toc_index: 2
-  - role: author
-    thinker_unresolved: "\"UDAY\""
-    toc_index: 3
+- role: author
+  toc_index: 1
+  thinker: observer
+- role: author
+  toc_index: 2
+  thinker: uday
+- role: author
+  toc_index: 3
+  thinker: uday
 related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press, Horniman Circle, Bombay-1.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay
+    Chronicle Press, Horniman Circle, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1964
@@ -32,12 +34,24 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - nationalisation
-  - economic-policy
-summary: "Issued by the Bombay-based Forum of Free Enterprise in March 1964, this 28-page booklet bundles three Economic Times articles, two appendices of cautionary quotations and reader letters, and a short editorial introduction to argue against the then-current demand for nationalisation of India's commercial banks. The introduction frames the booklet as an antidote to slogan-driven thinking, insisting that radical changes in the banking economy would 'hurt the much-desired economic growth' and push the country 'towards totalitarianism' unless the public studies the question 'in a rational manner'. The main essay, signed 'Observer', surveys the three standard cases for nationalisation — service-over-profit, mobilisation of deposits for planning, and breaking the monopolistic concentration of credit — and rebuts each in turn, leaning heavily on the underwhelming record of the State Bank of India and the Life Insurance Corporation after their nationalisation in 1955 and 1956.…"
+- banking
+- nationalisation
+- economic-policy
+summary: Issued by the Bombay-based Forum of Free Enterprise in March 1964, this 28-page
+  booklet bundles three Economic Times articles, two appendices of cautionary quotations
+  and reader letters, and a short editorial introduction to argue against the then-current
+  demand for nationalisation of India's commercial banks. The introduction frames
+  the booklet as an antidote to slogan-driven thinking, insisting that radical changes
+  in the banking economy would 'hurt the much-desired economic growth' and push the
+  country 'towards totalitarianism' unless the public studies the question 'in a rational
+  manner'. The main essay, signed 'Observer', surveys the three standard cases for
+  nationalisation — service-over-profit, mobilisation of deposits for planning, and
+  breaking the monopolistic concentration of credit — and rebuts each in turn, leaning
+  heavily on the underwhelming record of the State Bank of India and the Life Insurance
+  Corporation after their nationalisation in 1955 and 1956.…
 needs_review: true
 draft: false
 ai:
@@ -49,11 +63,12 @@ physical:
   pages_rendered: 19
   pages_total: 19
   pages_total_source: pypdfium2
-  format: Stapled pamphlet/booklet; printed cover (yellow band on dark blue) with FFE crest; 28 numbered pages of body text.
+  format: Stapled pamphlet/booklet; printed cover (yellow band on dark blue) with
+    FFE crest; 28 numbered pages of body text.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - author_bylines_pseudonymous
+- editor_not_named
+- no_formal_toc_page
+- author_bylines_pseudonymous
 authors_resolution:
   confidence: low
   method: vision

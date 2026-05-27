@@ -2,28 +2,28 @@
 id: adapting-indian-industry-to-globalization-tarun-das-may-8-2007
 title:
   main: Adapting Indian Industry to Globalization
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - tarun-das
+- tarun-das
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker: tarun-das
-  - role: editor
-    thinker: sunil-bhandare
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
+- role: author
+  thinker: tarun-das
+- role: editor
+  thinker: sunil-bhandare
+- role: introduction
+  thinker: minoo-r-shroff
 related_thinkers:
-  - a-d-shroff
-  - minoo-shroff
-  - ajit-karnik
-  - eugene-black
+- tarun-das
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S.S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235 Dr. D.N. Road, Mumbai 400 001, and Printed by S.V. Limaye at India Printing Works, India Printing House, 42 G.D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S.S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235 Dr. D.N. Road, Mumbai 400 001, and Printed by S.V. Limaye
+    at India Printing Works, India Printing House, 42 G.D. Ambekar Marg, Wadala, Mumbai
+    400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2007
@@ -35,14 +35,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-liberalization
-  - free-enterprise
-  - globalization
-  - private-sector
-  - industrial-policy
-summary: "Delivered on 19 July 2006 at the Forum of Free Enterprise's Golden Jubilee in Mumbai and published as a 2007 booklet, Tarun Das's address tracks Indian industry's transit from the post-1947 'commanding heights' regime to the open, competitive landscape of the mid-2000s. Speaking as Chief Mentor of the Confederation of Indian Industry, Das frames 1947–1991 as four decades in which 'stringent controls, licensing and regulations with extensive micro management of the private sector' preempted enterprise; 1991 onward then ushers in a continuous regime of competition, foreign capital, and globalised consumer markets in which Indian firms are expected to perform without protection.\n\nThe argumentative centre of the talk is that competitiveness has become an unending discipline rather than a milestone — 'one can not say I am competitive and stop at that' — and that Indian companies must move past the joint-venture model of the mid-1990s towards indigenous strength in technology, R&D, and corporate governance.…"
+- economic-liberalization
+- free-enterprise
+- globalization
+- private-sector
+- industrial-policy
+summary: 'Delivered on 19 July 2006 at the Forum of Free Enterprise''s Golden Jubilee
+  in Mumbai and published as a 2007 booklet, Tarun Das''s address tracks Indian industry''s
+  transit from the post-1947 ''commanding heights'' regime to the open, competitive
+  landscape of the mid-2000s. Speaking as Chief Mentor of the Confederation of Indian
+  Industry, Das frames 1947–1991 as four decades in which ''stringent controls, licensing
+  and regulations with extensive micro management of the private sector'' preempted
+  enterprise; 1991 onward then ushers in a continuous regime of competition, foreign
+  capital, and globalised consumer markets in which Indian firms are expected to perform
+  without protection.
+
+
+  The argumentative centre of the talk is that competitiveness has become an unending
+  discipline rather than a milestone — ''one can not say I am competitive and stop
+  at that'' — and that Indian companies must move past the joint-venture model of
+  the mid-1990s towards indigenous strength in technology, R&D, and corporate governance.…'
 needs_review: true
 draft: false
 ai:
@@ -55,10 +70,11 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet/booklet, saddle-stitched, printed in Mumbai
 missing_metadata_flags:
-  - no_isbn
-  - no_series_number
-  - no_formal_toc
+- no_isbn
+- no_series_number
+- no_formal_toc
 ---
+
 ## Summary
 
 Delivered on 19 July 2006 at the Forum of Free Enterprise's Golden Jubilee in Mumbai and published as a 2007 booklet, Tarun Das's address tracks Indian industry's transit from the post-1947 'commanding heights' regime to the open, competitive landscape of the mid-2000s. Speaking as Chief Mentor of the Confederation of Indian Industry, Das frames 1947–1991 as four decades in which 'stringent controls, licensing and regulations with extensive micro management of the private sector' preempted enterprise; 1991 onward then ushers in a continuous regime of competition, foreign capital, and globalised consumer markets in which Indian firms are expected to perform without protection.

@@ -5,33 +5,33 @@ title:
   subtitle: Based on a Symposium Organised by the Forum of Free Enterprise
 work_type: edited_volume
 authors:
-  - n-c-mehta
+- n-c-mehta
 editors: []
 contributors:
-  - role: foreword
-    thinker: nani-palkhivala
-  - role: introduction
-    thinker: a-d-shroff
-  - role: author
-    thinker_unresolved: S. P. Mehta
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Mrs. Khorshed D. P. Madon
-    toc_index: 2
-  - role: author
-    thinker_unresolved: H. B. Dhondy
-    toc_index: 3
-  - role: author
-    thinker_unresolved: S. R. Vakil
-    toc_index: 4
-  - role: author
-    thinker: n-c-mehta
-    toc_index: 5
-  - role: author
-    thinker_unresolved: S. V. Ghatalia
-    toc_index: 6
+- role: foreword
+  thinker: nani-palkhivala
+- role: introduction
+  thinker: a-d-shroff
+- role: author
+  toc_index: 1
+  thinker: s-p-mehta
+- role: author
+  toc_index: 2
+  thinker: khorshed-d-p-madon
+- role: author
+  toc_index: 3
+  thinker: h-b-dhondy
+- role: author
+  toc_index: 4
+  thinker: s-r-vakil
+- role: author
+  thinker: n-c-mehta
+  toc_index: 5
+- role: author
+  toc_index: 6
+  thinker: s-v-ghatalia
 related_thinkers:
-  - v-k-krishna-menon
+- n-c-mehta
 publication:
   language: en
   publisher_id: popular-prakashan
@@ -48,9 +48,22 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "In the rendered pages, this 1965 Forum of Free Enterprise pocketbook collects talks from a Bombay symposium on how the rapid, repeated amendment of Indian commercial law was affecting business and industry. The front matter rendered here — a foreword by N. A. Palkhivala, an introduction by A. D. Shroff in his capacity as Forum President, and the contents page — frames the project as a complaint against legislative excess: laws so frequent, so complex, and so carelessly drafted that compliance has become near-impossible for laymen and exhausting for experts. The contents page rendered here lists six contributions covering income-tax computation (S. P. Mehta), mercantile law (Khorshed D. P. Madon), company law (H. B. Dhondy), foreign exchange (S. R. Vakil), sales tax (N. C. Mehta), and corporate taxes (S. V. Ghatalia). In the rendered pages, only S. P. Mehta's opening essay on the computation of business profits under the Income-tax Act is substantively visible, and even there the chunk stops one printed page short of its end.…"
+summary: 'In the rendered pages, this 1965 Forum of Free Enterprise pocketbook collects
+  talks from a Bombay symposium on how the rapid, repeated amendment of Indian commercial
+  law was affecting business and industry. The front matter rendered here — a foreword
+  by N. A. Palkhivala, an introduction by A. D. Shroff in his capacity as Forum President,
+  and the contents page — frames the project as a complaint against legislative excess:
+  laws so frequent, so complex, and so carelessly drafted that compliance has become
+  near-impossible for laymen and exhausting for experts. The contents page rendered
+  here lists six contributions covering income-tax computation (S. P. Mehta), mercantile
+  law (Khorshed D. P. Madon), company law (H. B. Dhondy), foreign exchange (S. R.
+  Vakil), sales tax (N. C. Mehta), and corporate taxes (S. V. Ghatalia). In the rendered
+  pages, only S. P. Mehta''s opening essay on the computation of business profits
+  under the Income-tax Act is substantively visible, and even there the chunk stops
+  one printed page short of its end.…'
 needs_review: true
 draft: false
 ai:
@@ -64,7 +77,7 @@ physical:
   pages_total_source: pypdfium2
   format: Pocketbook; soft cover (red cover, monochrome interior)
 missing_metadata_flags:
-  - editor_not_named
+- editor_not_named
 ---
 
 # Recent Changes in Laws Affecting Business and Industry

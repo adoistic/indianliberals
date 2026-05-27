@@ -2,25 +2,24 @@
 id: state-monopoly-of-text-books-november-5-1964
 title:
   main: STATE MONOPOLY OF TEXT-BOOKS
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: other
-    thinker_unresolved: R. K. LAXMAN
-    toc_index: 1
-  - role: author
-    thinker_unresolved: M. R. MASANI, M.P.
-    toc_index: 2
-  - role: author
-    thinker_unresolved: S. S. PATKE
-    toc_index: 3
-  - role: author
-    thinker_unresolved: A. B. Shah
-    toc_index: 4
-related_thinkers:
-  - vinoba-bhave
+- role: other
+  toc_index: 1
+  thinker: r-k-laxman
+- role: author
+  toc_index: 2
+  thinker: m-r-masani-m-p
+- role: author
+  toc_index: 3
+  thinker: s-s-patke
+- role: author
+  toc_index: 4
+  thinker: a-b-shah
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -35,9 +34,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "State Monopoly of Text-Books is a 1964 Forum of Free Enterprise booklet that gathers three pieces against the drift toward government nationalisation of school textbooks, prompted by the scandal of grossly defective Maharashtra-state geography textbooks. A short Forum introduction frames the issue, four R. K. Laxman cartoons reprinted from The Times of India lampoon the policy, and the body of the booklet then reproduces an unsigned essay 'Freedom of Choice' from the Year Book of Education (London/New York, 1960) alongside the texts of two talks delivered at a Forum meeting in Bombay on 5 August 1964 by M. R. Masani M.P. and S. S. Patke, ex-President of the Maharashtra State Federation of Headmasters' Associations. Together the contributors argue, on economic, educational and civil-liberty grounds, that state production and prescription of textbooks degrades quality, raises costs, fosters piracy, restricts the freedom of teachers and authors, and opens the door to political indoctrination of children — and they urge that publishing be left to private and voluntary initiative, with the State at most reviewing approved lists rather than holding a monopoly."
+summary: State Monopoly of Text-Books is a 1964 Forum of Free Enterprise booklet that
+  gathers three pieces against the drift toward government nationalisation of school
+  textbooks, prompted by the scandal of grossly defective Maharashtra-state geography
+  textbooks. A short Forum introduction frames the issue, four R. K. Laxman cartoons
+  reprinted from The Times of India lampoon the policy, and the body of the booklet
+  then reproduces an unsigned essay 'Freedom of Choice' from the Year Book of Education
+  (London/New York, 1960) alongside the texts of two talks delivered at a Forum meeting
+  in Bombay on 5 August 1964 by M. R. Masani M.P. and S. S. Patke, ex-President of
+  the Maharashtra State Federation of Headmasters' Associations. Together the contributors
+  argue, on economic, educational and civil-liberty grounds, that state production
+  and prescription of textbooks degrades quality, raises costs, fosters piracy, restricts
+  the freedom of teachers and authors, and opens the door to political indoctrination
+  of children — and they urge that publishing be left to private and voluntary initiative,
+  with the State at most reviewing approved lists rather than holding a monopoly.
 needs_review: true
 draft: false
 ai:
@@ -51,10 +64,10 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet booklet, red printed paper wrapper, single-staple bound
 missing_metadata_flags:
-  - editor_not_named
-  - no_explicit_year_on_visible_pages
-  - no_formal_toc_page
-  - freedom_of_choice_author_not_named_in_chunk
+- editor_not_named
+- no_explicit_year_on_visible_pages
+- no_formal_toc_page
+- freedom_of_choice_author_not_named_in_chunk
 ---
 
 # STATE MONOPOLY OF TEXT-BOOKS

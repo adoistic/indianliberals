@@ -54,8 +54,7 @@ key_points:
 - His core worldview — democracy delivering freedom, opportunity, fairness and harmony
   — was set by 1974 and has not fundamentally shifted
 thinker_mentions:
-- thinker_unresolved: Jayaprakash Narayan (Lok Satta Movement founder)
-  role: subject
+- role: subject
   reasoning: The monologue's speaker is Dr. Jayaprakash Narayan, founder of the Lok
     Satta Movement (a Telugu former IAS officer born 1956), distinct from the historical
     Lok Nayak Jayaprakash Narayan in the authority list — so he cannot be mapped to
@@ -82,6 +81,7 @@ thinker_mentions:
       justice. It has to be harmony in society. It has to be better living conditions
       for everybody.
     what_it_shows: His distilled credo, framed as the substantive content of democracy
+  thinker: jayaprakash-narayan-lok-satta-movement-founder
 - thinker: jayaprakash-narayan
   role: mention
   reasoning: The speaker explicitly invokes 'Lok Nayak JP' as the movement leader
@@ -104,8 +104,7 @@ thinker_mentions:
       charged and that committed.
     what_it_shows: Captures the moral authority Lok Nayak JP wielded over an entire
       generation of young Indians during the Emergency-era resistance
-- thinker_unresolved: Richard Nixon
-  role: mention
+- role: mention
   reasoning: Nixon is named twice as the counterpoint to India's Emergency — a president
     felled by institutional accountability — but he is not present in the authority
     list, so he is recorded as unresolved.
@@ -122,8 +121,8 @@ thinker_mentions:
       so on and so forth, that was one of the most powerful impressions on my mind.
     what_it_shows: Shows how the Nixon/Watergate comparison cemented his lifelong
       concern with institutional accountability
-- thinker_unresolved: Donald Trump
-  role: mention
+  thinker: richard-nixon
+- role: mention
   reasoning: Trump is named in passing as a contemporary American reference point
     for diminished political accountability standards; not in the authority list.
   evidence:
@@ -136,8 +135,12 @@ thinker_mentions:
       Trump is doing today in America, for instance.
     what_it_shows: Illustrates the speaker's view that the bar for political accountability
       has fallen since the 1970s
+  thinker: donald-trump
 related_thinkers:
+- donald-trump
 - jayaprakash-narayan
+- jayaprakash-narayan-lok-satta-movement-founder
+- richard-nixon
 ---
 
 # The Early Years, Emergency Era and Tryst with Civil Services

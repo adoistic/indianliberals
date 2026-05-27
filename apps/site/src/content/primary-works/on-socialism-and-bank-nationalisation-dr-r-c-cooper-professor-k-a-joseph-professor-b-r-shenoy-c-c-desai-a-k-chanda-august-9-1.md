@@ -2,27 +2,28 @@
 id: on-socialism-and-bank-nationalisation-dr-r-c-cooper-professor-k-a-joseph-professor-b-r-shenoy-c-c-desai-a-k-chanda-august-9-1
 title:
   main: On Socialism and Bank Nationalisation
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - r-c-cooper
-  - b-r-shenoy
+- r-c-cooper
+- b-r-shenoy
 editors: []
 contributors:
-  - role: author
-    thinker: r-c-cooper
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Prof. K. A. JOSEPH
-    toc_index: 2
-  - role: author
-    thinker: b-r-shenoy
-    toc_index: 3
-  - role: author
-    thinker_unresolved: C. C. DESAI, I.C.S. (Retd.), M.P.
-    toc_index: 4
+- role: author
+  thinker: r-c-cooper
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: k-a-joseph
+- role: author
+  thinker: b-r-shenoy
+  toc_index: 3
+- role: author
+  toc_index: 4
+  thinker: c-c-desai-i-c-s-retd-m-p
 related_thinkers:
-  - warren-hastings
+- b-r-shenoy
+- r-c-cooper
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -36,9 +37,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "A Forum of Free Enterprise pamphlet collecting addresses delivered around the July 1969 bank nationalisation by a roster of classical-liberal voices: Dr. R. C. Cooper, Prof. K. A. Joseph, Prof. B. R. Shenoy, C. C. Desai (I.C.S., Retd., M.P.) and — beyond the rendered pages — A. K. Chanda. The contributions read as a coordinated rebuttal of Indira Gandhi's \"New Economic Policy\" note and of the bank nationalisation it heralded, arguing that the diagnosis is wrong (capital is being consumed and misdirected, not hoarded by private bankers), that the remedy is worse than the disease (it brings the country closer to communism rather than to welfare), and that what India actually needs is open competition, decontrol, sound money and a sturdy democratic culture grounded in individual rights.\n\nAcross the four essays seen, the volume's argumentative centre is the claim that India's economic stagnation is the product of a decade and a half of planning, licensing and arbitrary investment priorities — not of free enterprise — and that nationalising banks merely deepens the same political control that has already corroded the cooperative sector and public undertakings.…"
+summary: 'A Forum of Free Enterprise pamphlet collecting addresses delivered around
+  the July 1969 bank nationalisation by a roster of classical-liberal voices: Dr.
+  R. C. Cooper, Prof. K. A. Joseph, Prof. B. R. Shenoy, C. C. Desai (I.C.S., Retd.,
+  M.P.) and — beyond the rendered pages — A. K. Chanda. The contributions read as
+  a coordinated rebuttal of Indira Gandhi''s "New Economic Policy" note and of the
+  bank nationalisation it heralded, arguing that the diagnosis is wrong (capital is
+  being consumed and misdirected, not hoarded by private bankers), that the remedy
+  is worse than the disease (it brings the country closer to communism rather than
+  to welfare), and that what India actually needs is open competition, decontrol,
+  sound money and a sturdy democratic culture grounded in individual rights.
+
+
+  Across the four essays seen, the volume''s argumentative centre is the claim that
+  India''s economic stagnation is the product of a decade and a half of planning,
+  licensing and arbitrary investment priorities — not of free enterprise — and that
+  nationalising banks merely deepens the same political control that has already corroded
+  the cooperative sector and public undertakings.…'
 needs_review: true
 draft: false
 ai:
@@ -52,9 +70,9 @@ physical:
   pages_total_source: pypdfium2
   format: Pamphlet / booklet — Forum of Free Enterprise publication, paperbound
 missing_metadata_flags:
-  - no_formal_toc_page
-  - year_not_printed_on_title_page
-  - editor_not_named
+- no_formal_toc_page
+- year_not_printed_on_title_page
+- editor_not_named
 ---
 
 # On Socialism and Bank Nationalisation

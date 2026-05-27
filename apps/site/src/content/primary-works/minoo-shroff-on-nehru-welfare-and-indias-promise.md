@@ -81,8 +81,7 @@ thinker_mentions:
   - quote: And which is the prime word? The private sector.
     what_it_shows: Names the private sector as the prime driver of post-liberalisation
       growth.
-- thinker_unresolved: Jamsetji Nusserwanji Tata
-  role: mention
+- role: mention
   reasoning: Jamsetji 'JN' Tata, founder of the Tata group and the Indian Institute
     of Science, is invoked as the exemplar of indigenous foresight; he is not present
     in the authority list (only J. R. D. Tata and Naval H. Tata are).
@@ -99,8 +98,8 @@ thinker_mentions:
       discouraged. But one thought that if I get somebody, let me get the best.
     what_it_shows: Frames JN Tata as the prototypical Indian builder who set the standard
       for execution that later India failed to match.
-- thinker_unresolved: Alexander Fleming
-  role: mention
+  thinker: jamsetji-nusserwanji-tata
+- role: mention
   reasoning: The discoverer of penicillin is quoted as a foreign witness to India's
     delivery deficit; he is not present in the authority list of liberal thinkers.
   evidence:
@@ -112,7 +111,10 @@ thinker_mentions:
       Where were the manpower?
     what_it_shows: Crystallises Shroff's argument that India had the hardware and
       the plans but lacked execution capacity.
+  thinker: alexander-fleming
 related_thinkers:
+- alexander-fleming
+- jamsetji-nusserwanji-tata
 - minoo-shroff
 ---
 

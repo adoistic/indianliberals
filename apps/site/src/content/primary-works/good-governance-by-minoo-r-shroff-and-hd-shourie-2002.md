@@ -2,22 +2,23 @@
 id: good-governance-by-minoo-r-shroff-and-hd-shourie-2002
 title:
   main: Good Governance in India
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Minoo R. Shroff
-    toc_index: 1
-  - role: author
-    thinker_unresolved: H. D. Shourie
-    toc_index: 2
+- role: author
+  toc_index: 1
+  thinker: minoo-r-shroff
+- role: author
+  toc_index: 2
+  thinker: h-d-shourie
 related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. Pai for the Forum of Free Enterprise, \"Peninsula House\", 235 Dr. D. N. Road, Mumbai - 400 001."
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, "Peninsula
+    House", 235 Dr. D. N. Road, Mumbai - 400 001.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2002
@@ -28,9 +29,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Good Governance in India is a January–March 2002 booklet published by the Forum of Free Enterprise (Mumbai) that pairs two short addresses on the institutional preconditions for good governance — one trained on the voluntary sector, the other on the machinery of the State. Minoo R. Shroff, President of the Forum, writes on the effective governance of NGOs, importing the Nolan Committee's seven principles of public life (selflessness, integrity, objectivity, accountability, openness, honesty, leadership) into a checklist for Indian charitable boards and their chief executives. H. D. Shourie, Director of Common Cause, reproduces a January 14, 2002 circular he addressed to all Chief Ministers and Chief Secretaries, cataloguing seven concrete remedies for State-level administrative malaise: tenure assurance via a Civil Services Board, grievance redressal, accountability via Citizens Charters, transparency and Right to Information, de-bloating of staff, anti-corruption machinery (CVC, CBI, Lokayukta, Benami and money-laundering laws), and modernisation through e-governance.…"
+summary: 'Good Governance in India is a January–March 2002 booklet published by the
+  Forum of Free Enterprise (Mumbai) that pairs two short addresses on the institutional
+  preconditions for good governance — one trained on the voluntary sector, the other
+  on the machinery of the State. Minoo R. Shroff, President of the Forum, writes on
+  the effective governance of NGOs, importing the Nolan Committee''s seven principles
+  of public life (selflessness, integrity, objectivity, accountability, openness,
+  honesty, leadership) into a checklist for Indian charitable boards and their chief
+  executives. H. D. Shourie, Director of Common Cause, reproduces a January 14, 2002
+  circular he addressed to all Chief Ministers and Chief Secretaries, cataloguing
+  seven concrete remedies for State-level administrative malaise: tenure assurance
+  via a Civil Services Board, grievance redressal, accountability via Citizens Charters,
+  transparency and Right to Information, de-bloating of staff, anti-corruption machinery
+  (CVC, CBI, Lokayukta, Benami and money-laundering laws), and modernisation through
+  e-governance.…'
 needs_review: true
 draft: false
 ai:
@@ -42,10 +57,11 @@ physical:
   pages_rendered: 20
   pages_total: 20
   pages_total_source: pypdfium2
-  format: Stapled pamphlet booklet, approx. 16 printed pages of text in two essays, issued by Forum of Free Enterprise
+  format: Stapled pamphlet booklet, approx. 16 printed pages of text in two essays,
+    issued by Forum of Free Enterprise
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
+- no_formal_toc_page
+- editor_not_named
 ---
 
 # Good Governance in India

@@ -2,21 +2,21 @@
 id: problem-and-prospects-of-developing-countries-s-jannathan-1980
 title:
   main: Problems and Prospects of Developing Countries
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: S. JAGANNATHAN, I.C.S. (RETD.)
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers:
-  - a-d-shroff
-  - jawaharlal-nehru
+- role: author
+  thinker: s-jagannathan-i-c-s-retd
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
-  publisher_name: Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by B. D. Nadirshaw at The Bombay Samachar Press, Horniman Circle, Bombay 400 001.
+  publisher_name: Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust,
+    235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by B. D. Nadirshaw
+    at The Bombay Samachar Press, Horniman Circle, Bombay 400 001.
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1980
@@ -27,9 +27,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This 1980 A. D. Shroff Memorial Trust booklet prints a lecture S. Jagannathan, I.C.S. (Retd.) and former Governor of the Reserve Bank of India, delivered in Madras on 30th October 1980. After tributes to A. D. Shroff and an introduction by N. A. Palkhivala, Jagannathan opens by re-framing the development debate along North-South rather than East-West lines, invoking Nehru's reminder that the salient divide runs between the industrialised North (whether centrally planned or market economy) and the South that is still struggling to develop.\n\nThe bulk of the rendered pages walks through the two oil shocks and their fallout. Jagannathan splits the developing world into oil exporters and oil importers, then divides the importers between middle-income and low-income groups; the latter, he reminds the audience, contains the four South Asian countries that house half the world's absolute poor. He argues the 1979-80 doubling of oil prices is in absolute terms a bigger blow than the 1973-74 quadrupling, and traces how commercial banks bulging with recycled petro-dollars, together with the IMF's new \"oil facility\", carried much of the adjustment after 1973-74.…"
+summary: 'This 1980 A. D. Shroff Memorial Trust booklet prints a lecture S. Jagannathan,
+  I.C.S. (Retd.) and former Governor of the Reserve Bank of India, delivered in Madras
+  on 30th October 1980. After tributes to A. D. Shroff and an introduction by N. A.
+  Palkhivala, Jagannathan opens by re-framing the development debate along North-South
+  rather than East-West lines, invoking Nehru''s reminder that the salient divide
+  runs between the industrialised North (whether centrally planned or market economy)
+  and the South that is still struggling to develop.
+
+
+  The bulk of the rendered pages walks through the two oil shocks and their fallout.
+  Jagannathan splits the developing world into oil exporters and oil importers, then
+  divides the importers between middle-income and low-income groups; the latter, he
+  reminds the audience, contains the four South Asian countries that house half the
+  world''s absolute poor. He argues the 1979-80 doubling of oil prices is in absolute
+  terms a bigger blow than the 1973-74 quadrupling, and traces how commercial banks
+  bulging with recycled petro-dollars, together with the IMF''s new "oil facility",
+  carried much of the adjustment after 1973-74.…'
 needs_review: true
 draft: false
 ai:
@@ -43,7 +60,7 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / printed booklet
 missing_metadata_flags:
-  - no_formal_toc
+- no_formal_toc
 ---
 
 # Problems and Prospects of Developing Countries

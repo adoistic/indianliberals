@@ -7,7 +7,7 @@ authors: []
 editors: []
 contributors:
 - role: interviewer
-  thinker_unresolved: Yazad
+  thinker: yazad
 publication:
   language: en
   year: 2020

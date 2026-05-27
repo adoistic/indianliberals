@@ -5,32 +5,36 @@ title:
   subtitle: Reflections by Experts
 work_type: edited_volume
 authors:
-  - y-v-reddy
-  - s-s-tarapore
+- y-v-reddy
+- s-s-tarapore
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-    toc_index: 1
-  - role: author
-    thinker: y-v-reddy
-    toc_index: 2
-  - role: author
-    thinker: s-s-tarapore
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Mr. Y. H. Malegam
-    toc_index: 4
-related_thinkers: 
-  - a-d-shroff
-  - chintaman-deshmukh
-  - h-t-parekh
-  - r-k-talwar
-
+- role: introduction
+  toc_index: 1
+  thinker: minoo-r-shroff
+- role: author
+  thinker: y-v-reddy
+  toc_index: 2
+- role: author
+  thinker: s-s-tarapore
+  toc_index: 3
+- role: author
+  toc_index: 4
+  thinker: y-h-malegam
+related_thinkers:
+- a-d-shroff
+- chintaman-deshmukh
+- h-t-parekh
+- r-k-talwar
+- s-s-tarapore
+- y-v-reddy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2014
@@ -42,14 +46,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - monetary-policy
-  - financial-sector-reform
-  - private-enterprise
-  - economic-history
-summary: "This Forum of Free Enterprise booklet, published on 03/Feb/2014, gathers the remarks delivered on 25 October 2013 at the Mumbai launch of Bakhtiar K. Dadabhoy's book 'Barons of Banking — Glimpses of Indian Banking History', a volume commissioned at the behest of the A. D. Shroff Memorial Trust. After an Introduction by Forum President Minoo R. Shroff, three substantial addresses follow: Dr. Y. V. Reddy (former RBI Governor and Chairman of the 14th Finance Commission), the economist S. S. Tarapore, and the chartered accountant Y. H. Malegam, who is also a Trustee of the A. D. Shroff Memorial Trust. The contributors converge on the book's framing of six 'barons' — Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era, and Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India.…"
+- banking
+- monetary-policy
+- financial-sector-reform
+- private-enterprise
+- economic-history
+summary: 'This Forum of Free Enterprise booklet, published on 03/Feb/2014, gathers
+  the remarks delivered on 25 October 2013 at the Mumbai launch of Bakhtiar K. Dadabhoy''s
+  book ''Barons of Banking — Glimpses of Indian Banking History'', a volume commissioned
+  at the behest of the A. D. Shroff Memorial Trust. After an Introduction by Forum
+  President Minoo R. Shroff, three substantial addresses follow: Dr. Y. V. Reddy (former
+  RBI Governor and Chairman of the 14th Finance Commission), the economist S. S. Tarapore,
+  and the chartered accountant Y. H. Malegam, who is also a Trustee of the A. D. Shroff
+  Memorial Trust. The contributors converge on the book''s framing of six ''barons''
+  — Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh
+  from the pre-Independence era, and Raj Kumar Talwar, A. D. Shroff and H. T. Parekh
+  from the post-Independence period — as institution-builders whose dharma shaped
+  the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust
+  of India.…'
 needs_review: true
 draft: false
 ai:
@@ -63,40 +80,58 @@ physical:
   pages_total_source: pypdfium2
   format: FFE booklet / pamphlet, 24 printed pages, saddle-stitched
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - no_isbn
+- editor_not_named
+- no_formal_toc_page
+- no_isbn
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Shroff is one of the six 'barons' profiled in the book being launched, with the contributors discussing his role as an institution-builder and the Shroff Committee's findings on private-sector discipline."
-    evidence:
-      - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
-        context: "summary of the book's six subjects; Shroff is one of the three post-Independence banking barons"
-    key_passages: []
-  - thinker: chintaman-deshmukh
-    role: mention
-    reasoning: "C. D. Deshmukh is one of the six banking 'barons' profiled in the book being launched, representing the pre-Independence generation of institution-builders."
-    evidence:
-      - quote: Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era
-        context: "listing of the book's six subjects; Deshmukh is one of the three pre-Independence banking barons"
-    key_passages: []
-  - thinker: h-t-parekh
-    role: mention
-    reasoning: "H. T. Parekh is one of the six banking 'barons' profiled in the book being launched, representing the post-Independence generation of institution-builders alongside Shroff and Talwar."
-    evidence:
-      - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
-        context: "listing of the book's six subjects; Parekh is one of the three post-Independence banking barons"
-    key_passages: []
-  - thinker: r-k-talwar
-    role: mention
-    reasoning: "Raj Kumar Talwar is one of the six banking 'barons' profiled in Dadabhoy's book, and his legacy including the governance of SBI is discussed by the booklet's contributors."
-    evidence:
-      - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
-        context: "core listing of the book's six subjects; Talwar is one of the three post-Independence banking institution-builders"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff is one of the six 'barons' profiled in the book being launched,
+    with the contributors discussing his role as an institution-builder and the Shroff
+    Committee's findings on private-sector discipline.
+  evidence:
+  - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence
+      period — as institution-builders whose dharma shaped the Imperial Bank, the
+      Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
+    context: summary of the book's six subjects; Shroff is one of the three post-Independence
+      banking barons
+  key_passages: []
+- thinker: chintaman-deshmukh
+  role: mention
+  reasoning: C. D. Deshmukh is one of the six banking 'barons' profiled in the book
+    being launched, representing the pre-Independence generation of institution-builders.
+  evidence:
+  - quote: Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D.
+      Deshmukh from the pre-Independence era
+    context: listing of the book's six subjects; Deshmukh is one of the three pre-Independence
+      banking barons
+  key_passages: []
+- thinker: h-t-parekh
+  role: mention
+  reasoning: H. T. Parekh is one of the six banking 'barons' profiled in the book
+    being launched, representing the post-Independence generation of institution-builders
+    alongside Shroff and Talwar.
+  evidence:
+  - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence
+      period — as institution-builders whose dharma shaped the Imperial Bank, the
+      Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
+    context: listing of the book's six subjects; Parekh is one of the three post-Independence
+      banking barons
+  key_passages: []
+- thinker: r-k-talwar
+  role: mention
+  reasoning: Raj Kumar Talwar is one of the six banking 'barons' profiled in Dadabhoy's
+    book, and his legacy including the governance of SBI is discussed by the booklet's
+    contributors.
+  evidence:
+  - quote: Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence
+      period — as institution-builders whose dharma shaped the Imperial Bank, the
+      Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India
+    context: core listing of the book's six subjects; Talwar is one of the three post-Independence
+      banking institution-builders
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet, published on 03/Feb/2014, gathers the remarks delivered on 25 October 2013 at the Mumbai launch of Bakhtiar K. Dadabhoy's book 'Barons of Banking — Glimpses of Indian Banking History', a volume commissioned at the behest of the A. D. Shroff Memorial Trust. After an Introduction by Forum President Minoo R. Shroff, three substantial addresses follow: Dr. Y. V. Reddy (former RBI Governor and Chairman of the 14th Finance Commission), the economist S. S. Tarapore, and the chartered accountant Y. H. Malegam, who is also a Trustee of the A. D. Shroff Memorial Trust. The contributors converge on the book's framing of six 'barons' — Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era, and Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India. Across the three reflections, the booklet uses the lives of the barons to argue for central bank accountability and independence, for revisiting the Shroff Committee's verdict on private-sector discipline, for renewed faith in development banking, and for a future generation of bankers that is younger, more gender-balanced and geographically more diverse. The booklet is sponsored by the Shailesh Kapadia Memorial Trust.

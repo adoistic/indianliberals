@@ -64,8 +64,7 @@ key_points:
 - Cultural mindset about businessmen shapes a country's openness to liberal economic
   policies
 thinker_mentions:
-- thinker_unresolved: Nimish Adhia
-  role: subject
+- role: subject
   reasoning: Adhia is the monologuist named in the editorial description; he is the
     sole speaker delivering the analysis and is not on the authority list.
   evidence:
@@ -87,8 +86,8 @@ thinker_mentions:
       know, they would, they would beat widows and children to pinch pennies out of
       them, then you're not gonna have very liberal economic policies.
     what_it_shows: His linkage of cultural mindset to economic policy openness
-- thinker_unresolved: Amitabh Bachchan
-  role: mention
+  thinker: nimish-adhia
+- role: mention
   reasoning: Bachchan is cited as the actor whose Zanjeer-era line exemplifies 1970s
     anti-business sentiment; he is not present on the authority list.
   evidence:
@@ -101,8 +100,8 @@ thinker_mentions:
       of the earlier era, of the seventies particularly, that all businesses are shady.
     what_it_shows: Bachchan's screen line stands in for a widespread 1970s suspicion
       of business
-- thinker_unresolved: Yash Chopra
-  role: mention
+  thinker: amitabh-bachchan
+- role: mention
   reasoning: Chopra is cited as one of the 1990s filmmakers whose work exemplifies
     the new virtuous-businessman archetype; he is not on the authority list.
   evidence:
@@ -116,8 +115,8 @@ thinker_mentions:
       their servants. They are very solicitous of the women and their family.
     what_it_shows: Describes the virtuous-businessman ideal Adhia attributes to Yash
       Chopra–Karan Johar cinema
-- thinker_unresolved: Karan Johar
-  role: mention
+  thinker: yash-chopra
+- role: mention
   reasoning: Johar is paired with Yash Chopra as the 1990s filmmaker whose work depicts
     moral, wealthy businessmen; he is not on the authority list.
   evidence:
@@ -130,7 +129,12 @@ thinker_mentions:
       or how their morality is being portrayed.
     what_it_shows: Karan Johar's films, alongside Chopra's, exemplify this sweeping
       cinematic reframing
-related_thinkers: []
+  thinker: karan-johar
+related_thinkers:
+- amitabh-bachchan
+- karan-johar
+- nimish-adhia
+- yash-chopra
 ---
 
 # Did Bollywood Liberalise India or Did India Liberalise Bollywood?

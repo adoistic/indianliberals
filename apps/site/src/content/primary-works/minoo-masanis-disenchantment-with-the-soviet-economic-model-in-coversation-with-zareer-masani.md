@@ -9,7 +9,7 @@ authors:
 editors: []
 contributors:
 - role: interviewer
-  thinker_unresolved: Zareer Masani
+  thinker: zareer-masani
 publication:
   language: en
   year: 2020

@@ -2,31 +2,33 @@
 id: business-and-public-welfare-v-k-narasimhan-march-9-1970
 title:
   main: Business and Public Welfare
-  subtitle: Background Papers of Forum of Free Enterprise Convention on Business and Public Welfare
+  subtitle: Background Papers of Forum of Free Enterprise Convention on Business and
+    Public Welfare
 work_type: edited_volume
 authors:
-  - v-k-narasimhan
+- v-k-narasimhan
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: V. K. NARASIMHAN
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Mrs. KRPSHNA BASRUR
-    toc_index: 2
-  - role: author
-    thinker_unresolved: C. G. VAIDYA
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Dr. RAMU PANDIT
-    toc_index: 4
+- role: author
+  toc_index: 1
+  thinker: v-k-narasimhan
+- role: author
+  toc_index: 2
+  thinker: krpshna-basrur
+- role: author
+  toc_index: 3
+  thinker: c-g-vaidya
+- role: author
+  toc_index: 4
+  thinker: ramu-pandit
 related_thinkers:
-  - atal-bihari-vajpayee
-  - lal-bahadur-shastri
+- v-k-narasimhan
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Sohrab House\", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by H. NARAYAN RAO at H. R. MOHAN & CO. (PRESS), 9-B, Cawasjee Patel Street, Bombay-1."
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, "Sohrab
+    House", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by H. NARAYAN RAO
+    at H. R. MOHAN & CO. (PRESS), 9-B, Cawasjee Patel Street, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1970
@@ -38,19 +40,36 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - private-enterprise
-  - mixed-economy
-  - nationalisation
-  - fundamental-rights
-  - right-to-property
-  - consumer-rights
-  - business-ethics
-  - public-sector
-  - rule-of-law
-summary: "This pamphlet collects the background papers prepared for the Forum of Free Enterprise's February 1970 convention on Business and Public Welfare, held in Bombay, together with the convention's seven-point Final Statement adopted on 2 February 1970. The four papers — by V. K. Narasimhan (Resident Editor, Indian Express), Mrs. Krpshna Basrur (Editor, Consumer Guidance Society Bulletin), C. G. Vaidya (Principal, Chintamanrao College of Commerce, Sangli) and Dr. Ramu Pandit (Former Executive Director, Fair Trade Practices Association) — examine, in turn, the constitutional protection of property and enterprise, the consumer's experience of adulteration and profiteering, the public-private balance in India's mixed economy, and the image of the businessman in post-Independence society.\n\nThe volume's argumentative centre is a defensive but reformist case for private enterprise: it warns that doctrinaire socialism and the dilution of Articles 19(6) and 31 threaten the constitutional foundations of business, but it also insists that businessmen earn legitimacy through self-regulation, ethical conduct, consumer protection and visible social responsibility.…"
+- free-enterprise
+- private-enterprise
+- mixed-economy
+- nationalisation
+- fundamental-rights
+- right-to-property
+- consumer-rights
+- business-ethics
+- public-sector
+- rule-of-law
+summary: 'This pamphlet collects the background papers prepared for the Forum of Free
+  Enterprise''s February 1970 convention on Business and Public Welfare, held in Bombay,
+  together with the convention''s seven-point Final Statement adopted on 2 February
+  1970. The four papers — by V. K. Narasimhan (Resident Editor, Indian Express), Mrs.
+  Krpshna Basrur (Editor, Consumer Guidance Society Bulletin), C. G. Vaidya (Principal,
+  Chintamanrao College of Commerce, Sangli) and Dr. Ramu Pandit (Former Executive
+  Director, Fair Trade Practices Association) — examine, in turn, the constitutional
+  protection of property and enterprise, the consumer''s experience of adulteration
+  and profiteering, the public-private balance in India''s mixed economy, and the
+  image of the businessman in post-Independence society.
+
+
+  The volume''s argumentative centre is a defensive but reformist case for private
+  enterprise: it warns that doctrinaire socialism and the dilution of Articles 19(6)
+  and 31 threaten the constitutional foundations of business, but it also insists
+  that businessmen earn legitimacy through self-regulation, ethical conduct, consumer
+  protection and visible social responsibility.…'
 needs_review: true
 draft: false
 ai:
@@ -62,19 +81,20 @@ physical:
   pages_rendered: 14
   pages_total: 14
   pages_total_source: pypdfium2
-  format: Pamphlet / booklet (FFE convention background papers booklet), stapled; back-cover imprint dated 9/March/1970.
+  format: Pamphlet / booklet (FFE convention background papers booklet), stapled;
+    back-cover imprint dated 9/March/1970.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - final_statement_tail_truncated_or_unpaginated
+- editor_not_named
+- no_formal_toc_page
+- final_statement_tail_truncated_or_unpaginated
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - V. K. Narasimhan
+  - V. K. Narasimhan
   stubs_created: []
   stubs_referenced:
-    - v-k-narasimhan
+  - v-k-narasimhan
   collisions_logged: []
 ---
 

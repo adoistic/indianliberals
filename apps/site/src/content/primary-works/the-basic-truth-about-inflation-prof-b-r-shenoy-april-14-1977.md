@@ -2,25 +2,25 @@
 id: the-basic-truth-about-inflation-prof-b-r-shenoy-april-14-1977
 title:
   main: The Basic Truth About Inflation
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - b-r-shenoy
+- b-r-shenoy
 editors: []
 contributors:
-  - role: author
-    thinker: b-r-shenoy
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Henry Hazlitt
-    toc_index: 2
+- role: author
+  thinker: b-r-shenoy
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: henry-hazlitt
 related_thinkers:
-  - a-d-shroff
-  - jrd-tata
+- b-r-shenoy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1977
@@ -31,14 +31,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - monetary-policy
-  - inflation
-  - free-enterprise
-  - fiscal-policy
-summary: "This April 1977 Forum of Free Enterprise booklet pairs two short essays arguing that inflation is, fundamentally, a monetary phenomenon. Part I, B. R. Shenoy's 'Controlling Inflation in India,' attacks the Indira Gandhi government's claim — endorsed by IMF chief H. J. Witteveen, World Bank president Robert S. McNamara, J. R. D. Tata and finally the Congress Party's February 1977 election manifesto — that India had 'reversed inflation' during the Emergency. Shenoy traces the price-index dip from September 1974 to March 1976 to continued deficit budgets financed by Reserve Bank credit, MISA/DIR raids that forced private stocks into government godowns, food imports of 7.38 million tonnes and stalled industrial output, and notes that by February 1977 prices had already climbed back almost to peak. Part II, Henry Hazlitt's '40-Year Inflation in U.S.A.,' reproduced from The Freeman of October 1976, marshals American data showing that the M2 money stock multiplied roughly thirteen-fold while consumer prices rose about four-fold between 1940 and 1976, and warns that the lag between money issue and price response has lulled U.S.…"
+- economic-policy
+- monetary-policy
+- inflation
+- free-enterprise
+- fiscal-policy
+summary: This April 1977 Forum of Free Enterprise booklet pairs two short essays arguing
+  that inflation is, fundamentally, a monetary phenomenon. Part I, B. R. Shenoy's
+  'Controlling Inflation in India,' attacks the Indira Gandhi government's claim —
+  endorsed by IMF chief H. J. Witteveen, World Bank president Robert S. McNamara,
+  J. R. D. Tata and finally the Congress Party's February 1977 election manifesto
+  — that India had 'reversed inflation' during the Emergency. Shenoy traces the price-index
+  dip from September 1974 to March 1976 to continued deficit budgets financed by Reserve
+  Bank credit, MISA/DIR raids that forced private stocks into government godowns,
+  food imports of 7.38 million tonnes and stalled industrial output, and notes that
+  by February 1977 prices had already climbed back almost to peak. Part II, Henry
+  Hazlitt's '40-Year Inflation in U.S.A.,' reproduced from The Freeman of October
+  1976, marshals American data showing that the M2 money stock multiplied roughly
+  thirteen-fold while consumer prices rose about four-fold between 1940 and 1976,
+  and warns that the lag between money issue and price response has lulled U.S.…
 needs_review: true
 draft: false
 ai:
@@ -52,8 +66,8 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet/booklet, two-column reprint of newspaper articles
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
+- editor_not_named
+- no_formal_toc
 ---
 
 # The Basic Truth About Inflation

@@ -5,18 +5,19 @@ title:
   subtitle: Challenges and Opportunities
 work_type: speech
 authors:
-  - dr-png-subramanian
+- dr-png-subramanian
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - deng-xiaoping
-
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- deng-xiaoping
+- dr-png-subramanian
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PENINSULA HOUSE, 235 DR. D. N. ROAD, MUMBAI
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2002
@@ -28,12 +29,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - globalisation
-  - economic-development
-  - economic-policy
-summary: "Delivered as the 36th A. D. Shroff Memorial Lecture in Mumbai on 23 October 2002 and circulated as a Forum of Free Enterprise booklet, P. N. G. Subramanian — a former Consul-General of India in Shanghai — sets out to explain to an Indian liberal audience how China engineered its sustained ascent and what that ascent now means for India. He locates the inflection point in December 1978, when the Party abandoned Class War for what he calls 'Economic Capitalism and Political Socialism', and traces an export-led, foreign-investment-rich growth model that has carried China to roughly $300 billion in exports, a savings rate above 40 per cent of GDP, and the world's tenth-largest trading nation status on the eve of full WTO accession.\n\nThe lecture is candidly admiring of Chinese discipline without endorsing the political model. Subramanian repeatedly contrasts a 'ruthlessly efficient administration' that Indians are 'unaccustomed to', and a perspective-planning horizon stretching to 2030, with India's weaker absorptive capacity, looser governance, and shorter time-frames.…"
+- globalisation
+- economic-development
+- economic-policy
+summary: 'Delivered as the 36th A. D. Shroff Memorial Lecture in Mumbai on 23 October
+  2002 and circulated as a Forum of Free Enterprise booklet, P. N. G. Subramanian
+  — a former Consul-General of India in Shanghai — sets out to explain to an Indian
+  liberal audience how China engineered its sustained ascent and what that ascent
+  now means for India. He locates the inflection point in December 1978, when the
+  Party abandoned Class War for what he calls ''Economic Capitalism and Political
+  Socialism'', and traces an export-led, foreign-investment-rich growth model that
+  has carried China to roughly $300 billion in exports, a savings rate above 40 per
+  cent of GDP, and the world''s tenth-largest trading nation status on the eve of
+  full WTO accession.
+
+
+  The lecture is candidly admiring of Chinese discipline without endorsing the political
+  model. Subramanian repeatedly contrasts a ''ruthlessly efficient administration''
+  that Indians are ''unaccustomed to'', and a perspective-planning horizon stretching
+  to 2030, with India''s weaker absorptive capacity, looser governance, and shorter
+  time-frames.…'
 needs_review: false
 draft: false
 ai:
@@ -47,17 +65,21 @@ physical:
   pages_total_source: pypdfium2
   format: Stapled paper pamphlet / booklet
 missing_metadata_flags:
-  - no_isbn
-  - no_series_number
-  - essay_extends_beyond_chunk
+- no_isbn
+- no_series_number
+- essay_extends_beyond_chunk
 thinker_mentions:
-  - thinker: deng-xiaoping
-    role: mention
-    reasoning: "Subramanian cites Deng Xiaoping's 1976 prioritisation of education as evidence of China's long-horizon human-capital strategy, held up as a discipline that India lacks."
-    evidence:
-      - quote: "citing Deng Xiaoping's 1976 prioritisation of education and Chinese ambitions to manufacture 'ten thousand Singapores'"
-        context: "Deng is invoked as the architect of China's education-first growth strategy that India should emulate"
-    key_passages: []
+- thinker: deng-xiaoping
+  role: mention
+  reasoning: Subramanian cites Deng Xiaoping's 1976 prioritisation of education as
+    evidence of China's long-horizon human-capital strategy, held up as a discipline
+    that India lacks.
+  evidence:
+  - quote: citing Deng Xiaoping's 1976 prioritisation of education and Chinese ambitions
+      to manufacture 'ten thousand Singapores'
+    context: Deng is invoked as the architect of China's education-first growth strategy
+      that India should emulate
+  key_passages: []
 authors_resolution:
   confidence: high
   method: deterministic

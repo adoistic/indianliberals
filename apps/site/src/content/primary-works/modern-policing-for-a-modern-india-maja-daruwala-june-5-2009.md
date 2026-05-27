@@ -2,23 +2,27 @@
 id: modern-policing-for-a-modern-india-maja-daruwala-june-5-2009
 title:
   main: Modern Policing for a Modern India
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - maja-daruwala
+- maja-daruwala
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Mrs. Maja Daruwala
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Julio Ribeiro, IPS (Retd.)
-    toc_index: 2
-related_thinkers: []
+- role: author
+  toc_index: 1
+  thinker: maja-daruwala
+- role: author
+  toc_index: 2
+  thinker: julio-ribeiro-ips-retd
+related_thinkers:
+- maja-daruwala
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Munrbai 400001, and Printed by S. V. Lirnaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr. D. N. Road, Munrbai 400001, and Printed by S. V. Lirnaye
+    at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala,
+    Mumbai 400 031.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2009
@@ -30,16 +34,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - police-reform
-  - criminal-justice
-  - human-rights
-  - rule-of-law
-  - governance
-  - accountability
-  - democracy
-summary: "This Forum of Free Enterprise booklet collects two addresses delivered together in Mumbai on 30 January 2009 — by Maja Daruwala, Executive Director of the Commonwealth Human Rights Initiative (CHRI), and by Julio F. Ribeiro, IPS (Retd.), former Police Commissioner of Mumbai and former Director-General of Police, Punjab. Both speakers diagnose Indian policing as a colonial-era institution that has decayed into a politicised, unaccountable instrument and argue that the Supreme Court's September 2006 directions — fixed tenures, a State Security Commission, a Police Establishment Board, Police Complaints Authorities, and separation of investigation from law-and-order — provide a workable template for reform that the Centre and the states are actively subverting. Daruwala lays out the institutional architecture and CHRI's monitoring of state-level compliance; Ribeiro, speaking after her, frames police reform as the citizen's agenda after 26/11, calling on the middle class that voted to also organise around good leadership, operational independence and the elimination of the politician-bureaucrat-police 'partnership' he sees corroding the service."
+- police-reform
+- criminal-justice
+- human-rights
+- rule-of-law
+- governance
+- accountability
+- democracy
+summary: This Forum of Free Enterprise booklet collects two addresses delivered together
+  in Mumbai on 30 January 2009 — by Maja Daruwala, Executive Director of the Commonwealth
+  Human Rights Initiative (CHRI), and by Julio F. Ribeiro, IPS (Retd.), former Police
+  Commissioner of Mumbai and former Director-General of Police, Punjab. Both speakers
+  diagnose Indian policing as a colonial-era institution that has decayed into a politicised,
+  unaccountable instrument and argue that the Supreme Court's September 2006 directions
+  — fixed tenures, a State Security Commission, a Police Establishment Board, Police
+  Complaints Authorities, and separation of investigation from law-and-order — provide
+  a workable template for reform that the Centre and the states are actively subverting.
+  Daruwala lays out the institutional architecture and CHRI's monitoring of state-level
+  compliance; Ribeiro, speaking after her, frames police reform as the citizen's agenda
+  after 26/11, calling on the middle class that voted to also organise around good
+  leadership, operational independence and the elimination of the politician-bureaucrat-police
+  'partnership' he sees corroding the service.
 needs_review: true
 draft: false
 ai:
@@ -52,16 +70,16 @@ physical:
   pages_total_source: pypdfium2
   format: FFE pamphlet/booklet, 24 printed pages of body text, saddle-stitched
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
+- editor_not_named
+- no_formal_toc
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - Maja Daruwala
+  - Maja Daruwala
   stubs_created: []
   stubs_referenced:
-    - maja-daruwala
+  - maja-daruwala
   collisions_logged: []
 ---
 

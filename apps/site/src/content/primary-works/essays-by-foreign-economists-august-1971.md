@@ -2,62 +2,66 @@
 id: essays-by-foreign-economists-august-1971
 title:
   main: Essays by Foreign Economists
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - milton-friedman
-  - b-a-tarlton
-  - w-h-hutt
-  - eugene-black
+- milton-friedman
+- b-a-tarlton
+- w-h-hutt
+- eugene-black
 editors: []
 contributors:
-  - role: author
-    thinker: milton-friedman
-    toc_index: 1
-  - role: author
-    thinker: b-a-tarlton
-    toc_index: 2
-  - role: author
-    thinker_unresolved: F. A. Hayek
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Prof. G. Carl Wiegand
-    toc_index: 4
-  - role: author
-    thinker: w-h-hutt
-    toc_index: 5
-  - role: author
-    thinker_unresolved: Prof. Colin Clark
-    toc_index: 6
-  - role: author
-    thinker_unresolved: Prof. Colin Clark
-    toc_index: 7
-  - role: author
-    thinker_unresolved: Prof. P. T. Bauer
-    toc_index: 8
-  - role: author
-    thinker_unresolved: Prof. P. T. Bauer
-    toc_index: 9
-  - role: author
-    thinker_unresolved: Prof. P. T. Bauer
-    toc_index: 10
-  - role: author
-    thinker_unresolved: Prof. Dudley Dillard
-    toc_index: 11
-  - role: author
-    thinker: eugene-black
-    toc_index: 12
-related_thinkers: 
-  - colin-clark
-  - eugene-black
-  - friedrich-hayek
-  - peter-bauer
-  - w-h-hutt
-
+- role: author
+  thinker: milton-friedman
+  toc_index: 1
+- role: author
+  thinker: b-a-tarlton
+  toc_index: 2
+- role: author
+  toc_index: 3
+  thinker: f-a-hayek
+- role: author
+  toc_index: 4
+  thinker: g-carl-wiegand
+- role: author
+  thinker: w-h-hutt
+  toc_index: 5
+- role: author
+  toc_index: 6
+  thinker: colin-clark
+- role: author
+  toc_index: 7
+  thinker: colin-clark
+- role: author
+  toc_index: 8
+  thinker: p-t-bauer
+- role: author
+  toc_index: 9
+  thinker: p-t-bauer
+- role: author
+  toc_index: 10
+  thinker: p-t-bauer
+- role: author
+  toc_index: 11
+  thinker: dudley-dillard
+- role: author
+  thinker: eugene-black
+  toc_index: 12
+related_thinkers:
+- b-a-tarlton
+- colin-clark
+- eugene-black
+- friedrich-hayek
+- milton-friedman
+- peter-bauer
+- w-h-hutt
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE, \"Sohrab House\", 235, Dr. Dadabhai Naoroji Road, Bombay-1. Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay-1 and printed by S. J. Patel, at Onlooker Press, (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5."
+  publisher_name: FORUM OF FREE ENTERPRISE, "Sohrab House", 235, Dr. Dadabhai Naoroji
+    Road, Bombay-1. Published by M. R. Pai for the Forum of Free Enterprise, 235,
+    Dr. Dadabhai Naoroji Road, Bombay-1 and printed by S. J. Patel, at Onlooker Press,
+    (Prop. Hind Kitabs Ltd.), Sassoon Dock, Colaba, Bombay-5.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1971
@@ -69,13 +73,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - free-markets
-  - economic-development
-  - liberalism
-summary: "Essays by Foreign Economists is a compilation published in August 1971 by the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets the Forum had previously issued; the volume is explicitly marked 'not for sale' and circulated only to Forum members. In the rendered pages, the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black, addressing the case for free enterprise, the failings of central planning, the conditions for economic growth, foreign aid, the economic thinking of Keynes, and the place of India's private sector. The chunk contains the full text of Friedman's opening essay 'Myths That Keep People Hungry' (reprinted from Harper's Magazine, April 1967), which sets the polemical frame for the volume by contrasting countries where private markets organise economic life with those subject to detailed central planning, and the opening pages of B. A. Tarlton's 1968 Calcutta lecture 'Economic Democracy'."
+- free-enterprise
+- free-markets
+- economic-development
+- liberalism
+summary: Essays by Foreign Economists is a compilation published in August 1971 by
+  the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets
+  the Forum had previously issued; the volume is explicitly marked 'not for sale'
+  and circulated only to Forum members. In the rendered pages, the table of contents
+  lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W.
+  H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and
+  Eugene Black, addressing the case for free enterprise, the failings of central planning,
+  the conditions for economic growth, foreign aid, the economic thinking of Keynes,
+  and the place of India's private sector. The chunk contains the full text of Friedman's
+  opening essay 'Myths That Keep People Hungry' (reprinted from Harper's Magazine,
+  April 1967), which sets the polemical frame for the volume by contrasting countries
+  where private markets organise economic life with those subject to detailed central
+  planning, and the opening pages of B. A. Tarlton's 1968 Calcutta lecture 'Economic
+  Democracy'.
 needs_review: true
 draft: false
 ai:
@@ -87,47 +105,70 @@ physical:
   pages_rendered: 20
   pages_total: 210
   pages_total_source: pypdfium2
-  format: Hardbound compilation volume; copyright vests with respective authors; not for sale, for use of Forum members only.
+  format: Hardbound compilation volume; copyright vests with respective authors; not
+    for sale, for use of Forum members only.
 missing_metadata_flags:
-  - editor_not_named
+- editor_not_named
 thinker_mentions:
-  - thinker: friedrich-hayek
-    role: mention
-    reasoning: "F. A. Hayek is listed in the table of contents as one of the volume's contributors, with an essay on the conditions for free enterprise included in the compilation."
-    evidence:
-      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
-        context: "Hayek listed as a contributor alongside Friedman and Bauer in the Forum's flagship compilation"
-    key_passages: []
-  - thinker: colin-clark
-    role: mention
-    reasoning: Colin Clark contributes two essays to the volume, listed in the table of contents, establishing his presence as a major contributor to this Forum of Free Enterprise compilation.
-    evidence:
-      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
-        context: "Clark named as a double contributor to the Forum's collection of foreign economists"
-    key_passages: []
-  - thinker: peter-bauer
-    role: mention
-    reasoning: Peter Bauer contributes three essays to the volume, the largest single contribution by any author in the table of contents, establishing him as a central figure in this Forum of Free Enterprise compilation.
-    evidence:
-      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
-        context: "Bauer named as the most prolific contributor to the Forum's compiled collection of foreign economists"
-    key_passages: []
-  - thinker: eugene-black
-    role: mention
-    reasoning: "Eugene Black is listed as a contributor in the table of contents of the Forum's flagship compilation of foreign economists."
-    evidence:
-      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
-        context: "Black listed as a contributor to the Forum's compilation of foreign economists"
-    key_passages: []
-  - thinker: w-h-hutt
-    role: mention
-    reasoning: "W. H. Hutt is listed in the table of contents as one of the volume's contributors, establishing his presence in this Forum of Free Enterprise compilation of foreign economists."
-    evidence:
-      - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black
-        context: "Hutt named as a contributor in the Forum's compilation"
-    key_passages: []
-
+- thinker: friedrich-hayek
+  role: mention
+  reasoning: F. A. Hayek is listed in the table of contents as one of the volume's
+    contributors, with an essay on the conditions for free enterprise included in
+    the compilation.
+  evidence:
+  - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F.
+      A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer
+      (three essays), Dudley Dillard, and Eugene Black
+    context: Hayek listed as a contributor alongside Friedman and Bauer in the Forum's
+      flagship compilation
+  key_passages: []
+- thinker: colin-clark
+  role: mention
+  reasoning: Colin Clark contributes two essays to the volume, listed in the table
+    of contents, establishing his presence as a major contributor to this Forum of
+    Free Enterprise compilation.
+  evidence:
+  - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F.
+      A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer
+      (three essays), Dudley Dillard, and Eugene Black
+    context: Clark named as a double contributor to the Forum's collection of foreign
+      economists
+  key_passages: []
+- thinker: peter-bauer
+  role: mention
+  reasoning: Peter Bauer contributes three essays to the volume, the largest single
+    contribution by any author in the table of contents, establishing him as a central
+    figure in this Forum of Free Enterprise compilation.
+  evidence:
+  - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F.
+      A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer
+      (three essays), Dudley Dillard, and Eugene Black
+    context: Bauer named as the most prolific contributor to the Forum's compiled
+      collection of foreign economists
+  key_passages: []
+- thinker: eugene-black
+  role: mention
+  reasoning: Eugene Black is listed as a contributor in the table of contents of the
+    Forum's flagship compilation of foreign economists.
+  evidence:
+  - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F.
+      A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer
+      (three essays), Dudley Dillard, and Eugene Black
+    context: Black listed as a contributor to the Forum's compilation of foreign economists
+  key_passages: []
+- thinker: w-h-hutt
+  role: mention
+  reasoning: W. H. Hutt is listed in the table of contents as one of the volume's
+    contributors, establishing his presence in this Forum of Free Enterprise compilation
+    of foreign economists.
+  evidence:
+  - quote: the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F.
+      A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer
+      (three essays), Dudley Dillard, and Eugene Black
+    context: Hutt named as a contributor in the Forum's compilation
+  key_passages: []
 ---
+
 ## Summary
 
 Essays by Foreign Economists is a compilation published in August 1971 by the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets the Forum had previously issued; the volume is explicitly marked 'not for sale' and circulated only to Forum members. In the rendered pages, the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black, addressing the case for free enterprise, the failings of central planning, the conditions for economic growth, foreign aid, the economic thinking of Keynes, and the place of India's private sector. The chunk contains the full text of Friedman's opening essay 'Myths That Keep People Hungry' (reprinted from Harper's Magazine, April 1967), which sets the polemical frame for the volume by contrasting countries where private markets organise economic life with those subject to detailed central planning, and the opening pages of B. A. Tarlton's 1968 Calcutta lecture 'Economic Democracy'.

@@ -129,8 +129,7 @@ thinker_mentions:
       India.
     what_it_shows: Places Naidu among the lead voices of the 1919 Indian women's suffrage
       deputation to Westminster.
-- thinker_unresolved: Herabai Tata
-  role: mention
+- role: mention
   reasoning: Mithan's mother and a co-leader of the 1919 London suffrage deputation;
     central to Mithan's political formation but not present in the authority list.
   evidence:
@@ -149,8 +148,8 @@ thinker_mentions:
       led to both Herabai and Mithan taking up the cause of women's votes in India.
     what_it_shows: Establishes Herabai as Mithan's co-activist and the maternal vector
       for her suffrage politics.
-- thinker_unresolved: Annie Besant
-  role: mention
+  thinker: herabai-tata
+- role: mention
   reasoning: Named as one of the principal speakers alongside Mithan at the House
     of Commons in 1919, and later as a London influence on her thinking, but no slug
     exists in the authority list.
@@ -169,8 +168,8 @@ thinker_mentions:
       India.
     what_it_shows: Positions Besant in the leadership of the 1919 push for Indian
       women's suffrage.
-- thinker_unresolved: Bhulabhai Desai
-  role: mention
+  thinker: annie-besant
+- role: mention
   reasoning: The senior barrister whose chambers Mithan joined in 1923, marking her
     entry into Bombay High Court practice; not present in the authority list.
   evidence:
@@ -184,7 +183,11 @@ thinker_mentions:
       Law College in Mumbai, the first woman professor of law in India.
     what_it_shows: Names Desai as the mentor under whom Mithan launched her practising
       career.
+  thinker: bhulabhai-desai
 related_thinkers:
+- annie-besant
+- bhulabhai-desai
+- herabai-tata
 - mithan-tata-lam
 - sarojini-naidu
 ---

@@ -2,23 +2,21 @@
 id: opening-up-of-insurance-industry-d-m-satwalekar-april-2-2004
 title:
   main: OPENING UP OF THE INSURANCE INDUSTRY – THREE YEARS ON
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: D M SATWALEKAR
-  - role: introduction
-    thinker_unresolved: M. R. Shroff
-related_thinkers:
-  - a-d-shroff
-  - nani-palkhivala
-  - m-narasimhan
+- role: author
+  thinker: d-m-satwalekar
+- role: introduction
+  thinker: m-r-shroff
+related_thinkers: []
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: Published by THE A.D. SHROFF MEMORIAL TRUST, Peninsula House, 235, Dr. D. N. Road, Mumbai-400 001.
+  publisher_name: Published by THE A.D. SHROFF MEMORIAL TRUST, Peninsula House, 235,
+    Dr. D. N. Road, Mumbai-400 001.
   issuer_id: a-d-shroff-memorial-trust
   place: Mumbai
   year: 2004
@@ -30,9 +28,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Delivered on 10 February 2004 as the A. D. Shroff Memorial Trust's annual public lecture in Mumbai, Deepak M. Satwalekar's address takes stock of the Indian life insurance industry three years after it was opened to private participation by the IRDA Bill of December 1999. Speaking as Managing Director and CEO of HDFC Standard Life Insurance Co. Ltd., Satwalekar frames liberalisation as a continuation of the spirit of A. D. Shroff and the Forum of Free Enterprise, insisting that 'competition is not — and has never been — a zero sum game' and that private entry has, in three years, captured 12.78% of new life business while mobilising Rs. 1,666.3 crores in premium income.\n\nThe central section reports three positive developments since liberalisation: product innovation (unbundled riders, unit-linked plans), the evolution of distribution channels (bancassurance, brokers, the internet alongside the traditional tied-agency model), and a stronger emphasis on consumer awareness underwritten by a partnership between insurers and a media-active regulator.…"
+summary: 'Delivered on 10 February 2004 as the A. D. Shroff Memorial Trust''s annual
+  public lecture in Mumbai, Deepak M. Satwalekar''s address takes stock of the Indian
+  life insurance industry three years after it was opened to private participation
+  by the IRDA Bill of December 1999. Speaking as Managing Director and CEO of HDFC
+  Standard Life Insurance Co. Ltd., Satwalekar frames liberalisation as a continuation
+  of the spirit of A. D. Shroff and the Forum of Free Enterprise, insisting that ''competition
+  is not — and has never been — a zero sum game'' and that private entry has, in three
+  years, captured 12.78% of new life business while mobilising Rs. 1,666.3 crores
+  in premium income.
+
+
+  The central section reports three positive developments since liberalisation: product
+  innovation (unbundled riders, unit-linked plans), the evolution of distribution
+  channels (bancassurance, brokers, the internet alongside the traditional tied-agency
+  model), and a stronger emphasis on consumer awareness underwritten by a partnership
+  between insurers and a media-active regulator.…'
 needs_review: true
 draft: false
 ai:
@@ -46,8 +60,8 @@ physical:
   pages_total_source: pypdfium2
   format: booklet / pamphlet; sponsored by HDFC Ltd.
 missing_metadata_flags:
-  - no_formal_table_of_contents
-  - isbn_not_printed
+- no_formal_table_of_contents
+- isbn_not_printed
 ---
 
 # OPENING UP OF THE INSURANCE INDUSTRY – THREE YEARS ON

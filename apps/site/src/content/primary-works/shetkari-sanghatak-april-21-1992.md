@@ -2,31 +2,32 @@
 id: shetkari-sanghatak-april-21-1992
 title:
   main: शेतकरी संघटक
-  subtitle: ""
+  subtitle: ''
   original_script: शेतकरी संघटक
   translit: Shetkari Sanghatak
 work_type: periodical_issue
 authors:
-  - sharad-joshi
+- sharad-joshi
 editors: []
 contributors:
-  - role: author
-    thinker: sharad-joshi
-    toc_index: 1
-  - role: author
-    thinker_unresolved: श्यामसुंदर वसैरे
-    toc_index: 2
-  - role: author
-    thinker_unresolved: श्री. रताराव लहाणु सावरे
-    toc_index: 3
-related_thinkers: 
-  - bhimrao-ambedkar
-  - jyotirao-phule
-
+- role: author
+  thinker: sharad-joshi
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: unnamed-figure
+- role: author
+  toc_index: 3
+  thinker: unnamed-figure
+related_thinkers:
+- bhimrao-ambedkar
+- jyotirao-phule
+- sharad-joshi
 publication:
   language: mr
   publisher_id: shetkari-sanghatana
-  publisher_name: "संपादक, मुद्रक, प्रकाशक: सुरेशचंद्र स्वारे; मालक – मोहन विठ्ठलराव पवडेवी; मुद्रण स्थळ – वाकण प्रिंटिंग प्रेस, वाकण"
+  publisher_name: 'संपादक, मुद्रक, प्रकाशक: सुरेशचंद्र स्वारे; मालक – मोहन विठ्ठलराव
+    पवडेवी; मुद्रण स्थळ – वाकण प्रिंटिंग प्रेस, वाकण'
   issuer_id: shetkari-sanghatana
   place: वाकण (Wakon), Maharashtra
   year: 1992
@@ -40,14 +41,24 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - agrarian-policy
-  - farmers-rights
-  - rural-economy
-  - social-reform
-  - hinduism-and-liberalism
-summary: "This issue of Shetkari Sanghatak (Year 9, Issue 2, 21 April 1992), the Marathi fortnightly organ of the Shetkari Sanghatana farmers' movement, is anchored by a major polemical essay by Sharad Joshi titled 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ' (The True Meaning of Jotiba's Opposition to Brahmin Domination). Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class. A sidebar box addresses the claim 'Was Jotiba a Hindu nationalist?' and rebuts it on historical grounds.…"
+- agrarian-policy
+- farmers-rights
+- rural-economy
+- social-reform
+- hinduism-and-liberalism
+summary: This issue of Shetkari Sanghatak (Year 9, Issue 2, 21 April 1992), the Marathi
+  fortnightly organ of the Shetkari Sanghatana farmers' movement, is anchored by a
+  major polemical essay by Sharad Joshi titled 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ'
+  (The True Meaning of Jotiba's Opposition to Brahmin Domination). Joshi argues that
+  the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally
+  a defence of productive labour and the exploited peasantry — not a Hindu-communalist
+  project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari
+  Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class.
+  A sidebar box addresses the claim 'Was Jotiba a Hindu nationalist?' and rebuts it
+  on historical grounds.…
 needs_review: true
 draft: false
 ai:
@@ -58,30 +69,53 @@ physical:
   pages_rendered: 8
   pages_total: 8
   pages_total_source: pypdfium2
-  format: Marathi fortnightly periodical (पाक्षिक); वार्षिक वर्गणी रु. २५, किंमत १ रुपया; posted at Market Yard PSO, Pune 37 on 21st April 1992
+  format: Marathi fortnightly periodical (पाक्षिक); वार्षिक वर्गणी रु. २५, किंमत १
+    रुपया; posted at Market Yard PSO, Pune 37 on 21st April 1992
 thinker_mentions:
-  - thinker: jyotirao-phule
-    role: mention
-    reasoning: "Phule is the central historical anchor of the issue: Joshi's lead essay reclaims Phule's anti-Brahmin 'Bhat-shahi' critique as a defence of productive labour and the toiling peasant, and recruits Phule's legacy as the philosophical genealogy of the Shetkari Sanghatana's agrarian struggle."
-    evidence:
-      - quote: "Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class."
-        context: "summary frames Phule as Joshi's historical authority for the farmers' movement"
-      - quote: "Joshi's core argument is that Phule's 'Bhat-shahi' (Brahminical rule) stands for the exploiting, non-productive class — urbanised, priestly, bureaucratic — and that Phule's true enemy was economic exploitation of the toiling peasant, not Brahmin caste as such."
-        context: "essay-level paraphrase re-reads Phule's Brahminical-rule critique as a class-economic critique"
-      - quote: "Shetkari Sanghatana's agrarian movement is presented as the true contemporary continuation of Phule's anti-exploitation project."
-        context: "key-points closure positions Phule as the legitimating ancestor of Shetkari Sanghatana's contemporary struggle"
-    key_passages: []
-  - thinker: bhimrao-ambedkar
-    role: mention
-    reasoning: "Ambedkar is invoked as the prior major reinterpreter of Phule whose anti-caste reading Joshi acknowledges but distinguishes from his own anti-exploitation reading — making Ambedkar the foil against which Joshi defends his agrarian-economic appropriation of Phule's legacy."
-    evidence:
-      - quote: "The essay engages extensively with B. R. Ambedkar's later interpretations of Phule, noting that Ambedkar eventually framed Phule's anti-caste work in a different register; Joshi insists Phule was not anti-Hindu but anti-exploiter."
-        context: "Joshi positions his own reading of Phule against Ambedkar's later anti-caste framing"
-      - quote: "Ambedkar's later reinterpretation of Phule is noted and partly distinguished from Joshi's own reading."
-        context: key-points summary marks Ambedkar as the prior interpretive authority Joshi engages and partially diverges from
-    key_passages: []
-
+- thinker: jyotirao-phule
+  role: mention
+  reasoning: 'Phule is the central historical anchor of the issue: Joshi''s lead essay
+    reclaims Phule''s anti-Brahmin ''Bhat-shahi'' critique as a defence of productive
+    labour and the toiling peasant, and recruits Phule''s legacy as the philosophical
+    genealogy of the Shetkari Sanghatana''s agrarian struggle.'
+  evidence:
+  - quote: Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin
+      campaign was fundamentally a defence of productive labour and the exploited
+      peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one
+      either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique
+      of the Indian state and urban rentier class.
+    context: summary frames Phule as Joshi's historical authority for the farmers'
+      movement
+  - quote: Joshi's core argument is that Phule's 'Bhat-shahi' (Brahminical rule) stands
+      for the exploiting, non-productive class — urbanised, priestly, bureaucratic
+      — and that Phule's true enemy was economic exploitation of the toiling peasant,
+      not Brahmin caste as such.
+    context: essay-level paraphrase re-reads Phule's Brahminical-rule critique as
+      a class-economic critique
+  - quote: Shetkari Sanghatana's agrarian movement is presented as the true contemporary
+      continuation of Phule's anti-exploitation project.
+    context: key-points closure positions Phule as the legitimating ancestor of Shetkari
+      Sanghatana's contemporary struggle
+  key_passages: []
+- thinker: bhimrao-ambedkar
+  role: mention
+  reasoning: Ambedkar is invoked as the prior major reinterpreter of Phule whose anti-caste
+    reading Joshi acknowledges but distinguishes from his own anti-exploitation reading
+    — making Ambedkar the foil against which Joshi defends his agrarian-economic appropriation
+    of Phule's legacy.
+  evidence:
+  - quote: The essay engages extensively with B. R. Ambedkar's later interpretations
+      of Phule, noting that Ambedkar eventually framed Phule's anti-caste work in
+      a different register; Joshi insists Phule was not anti-Hindu but anti-exploiter.
+    context: Joshi positions his own reading of Phule against Ambedkar's later anti-caste
+      framing
+  - quote: Ambedkar's later reinterpretation of Phule is noted and partly distinguished
+      from Joshi's own reading.
+    context: key-points summary marks Ambedkar as the prior interpretive authority
+      Joshi engages and partially diverges from
+  key_passages: []
 ---
+
 ## Summary
 
 This issue of Shetkari Sanghatak (Year 9, Issue 2, 21 April 1992), the Marathi fortnightly organ of the Shetkari Sanghatana farmers' movement, is anchored by a major polemical essay by Sharad Joshi titled 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ' (The True Meaning of Jotiba's Opposition to Brahmin Domination). Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class. A sidebar box addresses the claim 'Was Jotiba a Hindu nationalist?' and rebuts it on historical grounds. The remaining pages carry shorter contributions: a policy manifesto by Shyamsundar Vasare proposing non-agricultural sector taxation to fund farm liberation, a first-person 'If I were Finance Minister' statement by Ratrao Lahanu Savre outlining ten points of agrarian fiscal policy, and three news items — the Supreme Court permitting collective withdrawal of debt-relief petitions, an announcement of a Rs 21 bonus for sugarcane to Central mills, and a report on farmers burning grain and cotton at Delhi's Boat Club on Shetkari Hutatma Din.

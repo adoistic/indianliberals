@@ -2,24 +2,24 @@
 id: population-and-economic-development-in-india-by-nr-narayan-murthy
 title:
   main: Population and Economic Development In India
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: N.R. Narayana Murthy
-    toc_index: 1
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers:
-  - a-d-shroff
-  - jawaharlal-nehru
-  - amartya-sen
+- role: author
+  toc_index: 1
+  thinker: n-r-narayana-murthy
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S.S. Bhandare for Forum of Free Enterprise, Peninsula House, 235, Dr. D.N. Road, Mumbai 400 001, and printed at Vijay Printing Press, 9-10, 3rd Floor, Mahalaxmi Industrial Estate, Gandhi Nagar, Lower Parel, Mumbai 400 013.
+  publisher_name: Published by S.S. Bhandare for Forum of Free Enterprise, Peninsula
+    House, 235, Dr. D.N. Road, Mumbai 400 001, and printed at Vijay Printing Press,
+    9-10, 3rd Floor, Mahalaxmi Industrial Estate, Gandhi Nagar, Lower Parel, Mumbai
+    400 013.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2005
@@ -32,9 +32,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This booklet reproduces the 38th A. D. Shroff Memorial Lecture, delivered by N. R. Narayana Murthy in Mumbai on 8 April 2005 and published by the Forum of Free Enterprise. An introduction by Minoo R. Shroff frames the lecture within the Forum's classical-liberal tradition, recalling A. D. Shroff's stand against the \"ominous clouds of socialism\" gathering over 1950s India and crediting Shroff — and later Nani Palkhivala — with sustaining a three-decade campaign for free enterprise whose fruits, he argues, India is now harvesting through liberalisation.\n\nMurthy's lecture takes up the \"sixty-four million dollar question\" of whether India's billion-strong, fast-growing population is a drag or an opportunity. His answer is neither in itself: drawing on demographic comparisons with China, the East Asian tigers, and the ageing developed economies, he reframes the issue as a \"demographic window of opportunity\" that converts into growth only when accompanied by \"good human capital\" — a workforce equipped with skills, schooling, health, and labour-market access.…"
+summary: 'This booklet reproduces the 38th A. D. Shroff Memorial Lecture, delivered
+  by N. R. Narayana Murthy in Mumbai on 8 April 2005 and published by the Forum of
+  Free Enterprise. An introduction by Minoo R. Shroff frames the lecture within the
+  Forum''s classical-liberal tradition, recalling A. D. Shroff''s stand against the
+  "ominous clouds of socialism" gathering over 1950s India and crediting Shroff —
+  and later Nani Palkhivala — with sustaining a three-decade campaign for free enterprise
+  whose fruits, he argues, India is now harvesting through liberalisation.
+
+
+  Murthy''s lecture takes up the "sixty-four million dollar question" of whether India''s
+  billion-strong, fast-growing population is a drag or an opportunity. His answer
+  is neither in itself: drawing on demographic comparisons with China, the East Asian
+  tigers, and the ageing developed economies, he reframes the issue as a "demographic
+  window of opportunity" that converts into growth only when accompanied by "good
+  human capital" — a workforce equipped with skills, schooling, health, and labour-market
+  access.…'
 needs_review: true
 draft: false
 ai:
@@ -46,10 +62,11 @@ physical:
   pages_rendered: 20
   pages_total: 20
   pages_total_source: pypdfium2
-  format: Saddle-stitched booklet/pamphlet, orange paper covers, printed by Vijay Printing Press, Mumbai
+  format: Saddle-stitched booklet/pamphlet, orange paper covers, printed by Vijay
+    Printing Press, Mumbai
 missing_metadata_flags:
-  - no_formal_toc
-  - author_not_in_authority_subset
+- no_formal_toc
+- author_not_in_authority_subset
 ---
 
 # Population and Economic Development In India

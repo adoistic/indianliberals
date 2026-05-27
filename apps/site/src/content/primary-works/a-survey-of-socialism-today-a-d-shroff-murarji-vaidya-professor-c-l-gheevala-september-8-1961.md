@@ -2,30 +2,30 @@
 id: a-survey-of-socialism-today-a-d-shroff-murarji-vaidya-professor-c-l-gheevala-september-8-1961
 title:
   main: A Survey of Socialism Today
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - a-d-shroff
-  - murarji-vaidya
+- a-d-shroff
+- murarji-vaidya
 editors: []
 contributors:
-  - role: author
-    thinker: a-d-shroff
-    toc_index: 1
-  - role: author
-    thinker: murarji-vaidya
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Prof. C. L. Gheevala
-    toc_index: 3
-related_thinkers: 
-  - a-d-shroff
-  - murarji-vaidya
-
+- role: author
+  thinker: a-d-shroff
+  toc_index: 1
+- role: author
+  thinker: murarji-vaidya
+  toc_index: 2
+- role: author
+  toc_index: 3
+  thinker: c-l-gheevala
+related_thinkers:
+- a-d-shroff
+- murarji-vaidya
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Forum of Free Enterprise, 235 Dr. Dadabhai Naoroji Road, Bombay 1
+  publisher_name: Forum of Free Enterprise, 235 Dr. Dadabhai Naoroji Road, Bombay
+    1
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1961
@@ -37,15 +37,31 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - socialism
-  - economic-planning
-  - free-enterprise
-  - state-enterprise
-  - public-sector
-  - mixed-economy
-summary: "A short pamphlet issued by the Forum of Free Enterprise (Bombay, 1961) collecting three contributions on the meaning and consequences of pursuing a 'socialist pattern of society' in India. The unsigned introduction frames the booklet's central premise — that 'a democratic society and a socialist society cannot be the same; in fact, they are mutually contradictory concepts' — and previews three essays: A. D. Shroff contrasts socialist comprehensive planning with planning for free enterprise, Murarji J. Vaidya reviews state enterprises in Indian democracy, and Prof. C. L. Gheevala subjects the concept of socialism to a searching analysis with comparative reference to socialist experience elsewhere. Two appendices — selected quotations on socialism and a reading list — close the volume.\n\nThe rendered pages cover the cover, an epigraph from Eugene Black of the World Bank, the title page, the two-page introduction, Shroff's essay in full, and the opening seven printed pages of Vaidya's essay. Gheevala's essay and the appendices are not in this chunk.…"
+- socialism
+- economic-planning
+- free-enterprise
+- state-enterprise
+- public-sector
+- mixed-economy
+summary: 'A short pamphlet issued by the Forum of Free Enterprise (Bombay, 1961) collecting
+  three contributions on the meaning and consequences of pursuing a ''socialist pattern
+  of society'' in India. The unsigned introduction frames the booklet''s central premise
+  — that ''a democratic society and a socialist society cannot be the same; in fact,
+  they are mutually contradictory concepts'' — and previews three essays: A. D. Shroff
+  contrasts socialist comprehensive planning with planning for free enterprise, Murarji
+  J. Vaidya reviews state enterprises in Indian democracy, and Prof. C. L. Gheevala
+  subjects the concept of socialism to a searching analysis with comparative reference
+  to socialist experience elsewhere. Two appendices — selected quotations on socialism
+  and a reading list — close the volume.
+
+
+  The rendered pages cover the cover, an epigraph from Eugene Black of the World Bank,
+  the title page, the two-page introduction, Shroff''s essay in full, and the opening
+  seven printed pages of Vaidya''s essay. Gheevala''s essay and the appendices are
+  not in this chunk.…'
 needs_review: true
 draft: false
 ai:
@@ -59,26 +75,32 @@ physical:
   pages_total_source: pypdfium2
   format: Booklet / pamphlet, paperbound, FFE imprint
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - gheevala_essay_not_yet_rendered
+- editor_not_named
+- no_formal_toc_page
+- gheevala_essay_not_yet_rendered
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: Shroff contributes one of the three main essays in this multi-author pamphlet, arguing that socialist comprehensive planning is incompatible with Indian democratic conditions and laying out a positive programme for planning for free enterprise.
-    evidence:
-      - quote: A. D. Shroff contrasts socialist comprehensive planning with planning for free enterprise, Murarji J. Vaidya reviews state enterprises in Indian democracy
-        context: introduction previewing the three essays; Shroff is the lead contributor
-    key_passages: []
-  - thinker: murarji-vaidya
-    role: mention
-    reasoning: Murarji J. Vaidya contributes the second essay reviewing state enterprises in Indian democracy, making him a named contributor to this multi-essay pamphlet.
-    evidence:
-      - quote: Murarji J. Vaidya reviews state enterprises in Indian democracy
-        context: "introduction previewing the three essays; Vaidya's contribution addresses the record of public enterprises"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff contributes one of the three main essays in this multi-author
+    pamphlet, arguing that socialist comprehensive planning is incompatible with Indian
+    democratic conditions and laying out a positive programme for planning for free
+    enterprise.
+  evidence:
+  - quote: A. D. Shroff contrasts socialist comprehensive planning with planning for
+      free enterprise, Murarji J. Vaidya reviews state enterprises in Indian democracy
+    context: introduction previewing the three essays; Shroff is the lead contributor
+  key_passages: []
+- thinker: murarji-vaidya
+  role: mention
+  reasoning: Murarji J. Vaidya contributes the second essay reviewing state enterprises
+    in Indian democracy, making him a named contributor to this multi-essay pamphlet.
+  evidence:
+  - quote: Murarji J. Vaidya reviews state enterprises in Indian democracy
+    context: introduction previewing the three essays; Vaidya's contribution addresses
+      the record of public enterprises
+  key_passages: []
 ---
+
 ## Summary
 
 A short pamphlet issued by the Forum of Free Enterprise (Bombay, 1961) collecting three contributions on the meaning and consequences of pursuing a 'socialist pattern of society' in India. The unsigned introduction frames the booklet's central premise — that 'a democratic society and a socialist society cannot be the same; in fact, they are mutually contradictory concepts' — and previews three essays: A. D. Shroff contrasts socialist comprehensive planning with planning for free enterprise, Murarji J. Vaidya reviews state enterprises in Indian democracy, and Prof. C. L. Gheevala subjects the concept of socialism to a searching analysis with comparative reference to socialist experience elsewhere. Two appendices — selected quotations on socialism and a reading list — close the volume.

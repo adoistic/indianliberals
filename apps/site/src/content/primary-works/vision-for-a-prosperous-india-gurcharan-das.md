@@ -85,8 +85,7 @@ thinker_mentions:
   - quote: And you have to change the attitude of people like the tax department who
       treat everybody like a criminal.
     what_it_shows: His critique of adversarial state-citizen relations in tax administration.
-- thinker_unresolved: Narendra Modi
-  role: mention
+- role: mention
   reasoning: Das references Modi's government and its Ease of Doing Business target;
     'Modi' is not present in the authority list, so left unresolved.
   evidence:
@@ -99,8 +98,10 @@ thinker_mentions:
   - quote: Now Modi had this target of 50. We'll find out what the 2019 will show.
     what_it_shows: Anchors the reform discussion to a specific governmental target
       and timeline.
+  thinker: narendra-modi
 related_thinkers:
 - gurcharan-das
+- narendra-modi
 ---
 
 # Vision for a Prosperous India - Gurcharan Das

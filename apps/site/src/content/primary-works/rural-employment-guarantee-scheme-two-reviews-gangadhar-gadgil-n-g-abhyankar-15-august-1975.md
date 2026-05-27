@@ -2,17 +2,17 @@
 id: rural-employment-guarantee-scheme-two-reviews-gangadhar-gadgil-n-g-abhyankar-15-august-1975
 title:
   main: RURAL EMPLOYMENT GUARANTEE SCHEME—TWO VIEWS
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Prof. GANGADHAR GADGIL
-    toc_index: 1
-  - role: author
-    thinker_unresolved: N. G. ABHYANKAR, I.A.S. (Retd.)
-    toc_index: 2
+- role: author
+  toc_index: 1
+  thinker: gangadhar-gadgil
+- role: author
+  toc_index: 2
+  thinker: n-g-abhyankar-i-a-s-retd
 related_thinkers: []
 publication:
   language: en
@@ -28,9 +28,22 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This Forum of Free Enterprise pamphlet records two opposing addresses delivered at a Bombay symposium on 28 April 1975 assessing the Maharashtra Government's Employment Guarantee Scheme (EGS), the precursor to what would later become India's national rural employment-guarantee policy. The editors frame the volume as a public-education exercise: one speaker, the economist Prof. Gangadhar Gadgil (then Economic Adviser to the Apte Group of Industries), argues that the EGS is a 'welcome and revolutionary measure' that gives concrete content to the Article 41 right to work and channels resources to the poorest rural strata. The other, N. G. Abhyankar, I.A.S. (Retd.), a former Development Commissioner and Finance Secretary of Maharashtra (then Executive Director of the All-India Manufacturers' Organisation), argues the Scheme is a costly diversion of scarce resources toward 'totally unproductive ends' and indistinguishable from earlier scarcity-relief programmes. The two essays appear back to back under a common title and are aimed at students of economics, administrators and policymakers."
+summary: 'This Forum of Free Enterprise pamphlet records two opposing addresses delivered
+  at a Bombay symposium on 28 April 1975 assessing the Maharashtra Government''s Employment
+  Guarantee Scheme (EGS), the precursor to what would later become India''s national
+  rural employment-guarantee policy. The editors frame the volume as a public-education
+  exercise: one speaker, the economist Prof. Gangadhar Gadgil (then Economic Adviser
+  to the Apte Group of Industries), argues that the EGS is a ''welcome and revolutionary
+  measure'' that gives concrete content to the Article 41 right to work and channels
+  resources to the poorest rural strata. The other, N. G. Abhyankar, I.A.S. (Retd.),
+  a former Development Commissioner and Finance Secretary of Maharashtra (then Executive
+  Director of the All-India Manufacturers'' Organisation), argues the Scheme is a
+  costly diversion of scarce resources toward ''totally unproductive ends'' and indistinguishable
+  from earlier scarcity-relief programmes. The two essays appear back to back under
+  a common title and are aimed at students of economics, administrators and policymakers.'
 needs_review: true
 draft: false
 ai:
@@ -42,11 +55,12 @@ physical:
   pages_rendered: 20
   pages_total: 29
   pages_total_source: pypdfium2
-  format: Forum of Free Enterprise pamphlet; symposium proceedings reprinting two talks delivered at FFE on 28 April 1975
+  format: Forum of Free Enterprise pamphlet; symposium proceedings reprinting two
+    talks delivered at FFE on 28 April 1975
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
-  - publication_year_not_printed_on_visible_pages_inferred_from_meeting_date
+- editor_not_named
+- no_formal_toc
+- publication_year_not_printed_on_visible_pages_inferred_from_meeting_date
 ---
 
 # RURAL EMPLOYMENT GUARANTEE SCHEME—TWO VIEWS

@@ -7,28 +7,27 @@ work_type: occasional_paper
 authors: []
 editors: []
 contributors:
-  - role: introduction
-    thinker: s-v-raju
-  - role: introduction
-    thinker_unresolved: S. S. Bhandare
-  - role: other
-    thinker: sunil-bhandare
-  - role: other
-    thinker: ajit-karnik
-  - role: other
-    thinker: c-s-deshpande
-  - role: other
-    thinker: sanjay-panse
-  - role: other
-    thinker: ms-seetha
-related_thinkers: 
-  - d-v-gundappa
-
-
+- role: introduction
+  thinker: s-v-raju
+- role: introduction
+  thinker: s-s-bhandare
+- role: other
+  thinker: sunil-bhandare
+- role: other
+  thinker: ajit-karnik
+- role: other
+  thinker: c-s-deshpande
+- role: other
+  thinker: sanjay-panse
+- role: other
+  thinker: ms-seetha
+related_thinkers:
+- d-v-gundappa
 publication:
   language: en
   publisher_id: indian-liberal-group
-  publisher_name: "Kashmira Rao for the PROJECT FOR ECONOMIC EDUCATION, 3rd floor, Army & Navy Building, 148, Mahatma Gandhi Road, Mumbai 400 001."
+  publisher_name: Kashmira Rao for the PROJECT FOR ECONOMIC EDUCATION, 3rd floor,
+    Army & Navy Building, 148, Mahatma Gandhi Road, Mumbai 400 001.
   issuer_id: indian-liberal-group
   place: Mumbai
   year: 2004
@@ -40,19 +39,35 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - fiscal-policy
-  - public-finance
-  - economic-reform
-  - liberalism
-  - poverty-alleviation
-  - governance
-  - taxation
-  - privatisation
-  - human-development
-  - social-policy
-summary: "*The Liberal Budget: Building an Equitable Society* presents a model fiscal framework developed in 2004 by a Drafting Group convened by the Indian Liberal Group's Project for Economic Education. The preface, signed by S. V. Raju as Executive Chairman, explains that the document was designed as a template and benchmark against which to evaluate actual Union Budgets, and that it draws on consultations held at the Leslie Sawhny Centre in Deviall and with economists and civil servants in Chennai. S. S. Bhandare's Introduction characterises the fiscal environment as one of severe constraint, arguing that a genuinely liberal economic environment is a precondition for any effective budget, and closes with a postscript acknowledging the newly elected UPA government's Common Minimum Programme while asserting that the Liberal Budget's 'human face' is stronger than that of the CMP without diluting liberal reform.\n\nThe Executive Summary states that the Liberal Budget's philosophical bedrock is that 'man is the measure of all things' and that the business of government is governance, not business.…"
+- fiscal-policy
+- public-finance
+- economic-reform
+- liberalism
+- poverty-alleviation
+- governance
+- taxation
+- privatisation
+- human-development
+- social-policy
+summary: '*The Liberal Budget: Building an Equitable Society* presents a model fiscal
+  framework developed in 2004 by a Drafting Group convened by the Indian Liberal Group''s
+  Project for Economic Education. The preface, signed by S. V. Raju as Executive Chairman,
+  explains that the document was designed as a template and benchmark against which
+  to evaluate actual Union Budgets, and that it draws on consultations held at the
+  Leslie Sawhny Centre in Deviall and with economists and civil servants in Chennai.
+  S. S. Bhandare''s Introduction characterises the fiscal environment as one of severe
+  constraint, arguing that a genuinely liberal economic environment is a precondition
+  for any effective budget, and closes with a postscript acknowledging the newly elected
+  UPA government''s Common Minimum Programme while asserting that the Liberal Budget''s
+  ''human face'' is stronger than that of the CMP without diluting liberal reform.
+
+
+  The Executive Summary states that the Liberal Budget''s philosophical bedrock is
+  that ''man is the measure of all things'' and that the business of government is
+  governance, not business.…'
 needs_review: true
 draft: false
 ai:
@@ -66,16 +81,20 @@ physical:
   pages_total_source: pypdfium2
   format: staple-bound booklet
 missing_metadata_flags:
-  - no_individual_author_on_title_page
-  - editor_not_named
+- no_individual_author_on_title_page
+- editor_not_named
 thinker_mentions:
-  - thinker: d-v-gundappa
-    role: mention
-    reasoning: "D. V. Gundappa is invoked alongside von Mises and Gokhale as one of the philosophical anchors of Chapter 1's statement of the Liberal position, grounding the Indian Liberal Group's fiscal prescriptions in the Kannada liberal tradition."
-    evidence:
-      - quote: citing Ludwig von Mises, Gopal Krishna Gokhale, and D. V. Gundappa
-        context: Chapter 1 opens with a triadic citation that places Gundappa beside an Austrian-school liberal and a Servants-of-India moderate as the philosophical authorities of the Liberal Budget
-    key_passages: []
+- thinker: d-v-gundappa
+  role: mention
+  reasoning: D. V. Gundappa is invoked alongside von Mises and Gokhale as one of the
+    philosophical anchors of Chapter 1's statement of the Liberal position, grounding
+    the Indian Liberal Group's fiscal prescriptions in the Kannada liberal tradition.
+  evidence:
+  - quote: citing Ludwig von Mises, Gopal Krishna Gokhale, and D. V. Gundappa
+    context: Chapter 1 opens with a triadic citation that places Gundappa beside an
+      Austrian-school liberal and a Servants-of-India moderate as the philosophical
+      authorities of the Liberal Budget
+  key_passages: []
 authors_resolution:
   confidence: low
   method: vision

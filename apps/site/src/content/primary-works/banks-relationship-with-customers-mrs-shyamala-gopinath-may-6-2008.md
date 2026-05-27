@@ -1,25 +1,28 @@
 ---
 id: banks-relationship-with-customers-mrs-shyamala-gopinath-may-6-2008
 title:
-  main: "Banks' Relationship with Customers - Evolving Perspectives"
-  subtitle: ""
+  main: Banks' Relationship with Customers - Evolving Perspectives
+  subtitle: ''
 work_type: speech
 authors:
-  - shyamala-gopinath
+- shyamala-gopinath
 editors: []
 contributors:
-  - role: author
-    thinker: shyamala-gopinath
-  - role: editor
-    thinker_unresolved: S.S. Bhandare
-related_thinkers: 
-  - m-r-pai
-  - y-v-reddy
-
+- role: author
+  thinker: shyamala-gopinath
+- role: editor
+  thinker: s-s-bhandare
+related_thinkers:
+- m-r-pai
+- shyamala-gopinath
+- y-v-reddy
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by S S Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr D N Road, Mumbai 400001, and Printed by S V Limaye at India Printing Works, India Printing House, 42 G D Ambekar Marg, Wadala, Mumbai 400 031
+  publisher_name: Published by S S Bhandare for the Forum of Free Enterprise, Peninsula
+    House, 2nd Floor, 235, Dr D N Road, Mumbai 400001, and Printed by S V Limaye at
+    India Printing Works, India Printing House, 42 G D Ambekar Marg, Wadala, Mumbai
+    400 031
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2008
@@ -32,13 +35,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - financial-inclusion
-  - consumer-rights
-  - economic-reform
-summary: "Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award Function on 8 April 2008 in Mumbai and issued as a Forum of Free Enterprise booklet, Mrs. Shyamala Gopinath, then Deputy Governor of the Reserve Bank of India, surveys how the banker-customer relationship has been reshaped by the post-1991 liberalisation of Indian banking. She positions her remarks as a tribute to the late M. R. Pai, \"the doyen of consumer activism in India,\" and argues that even in a deregulated environment dominated by private banks, new technology, and rapid product innovation, the consumer's position remains structurally unequal — what she calls an \"information asymmetry, which renders the banker-customer relationship one of unequals.\"\n\nThe address moves systematically through the policy architecture the RBI has built to redress that asymmetry: deregulation of deposit and lending rates, new private-sector licensing in 1993, the revised Banking Ombudsman Scheme, the establishment of the Banking Codes and Standards Board of India (BCSBI) as an autonomous self-regulator, and detailed customer-protection guidelines for deposit accounts, settlement of deceased depositors' claims, KYC, fair-pr…"
+- banking
+- financial-inclusion
+- consumer-rights
+- economic-reform
+summary: 'Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award
+  Function on 8 April 2008 in Mumbai and issued as a Forum of Free Enterprise booklet,
+  Mrs. Shyamala Gopinath, then Deputy Governor of the Reserve Bank of India, surveys
+  how the banker-customer relationship has been reshaped by the post-1991 liberalisation
+  of Indian banking. She positions her remarks as a tribute to the late M. R. Pai,
+  "the doyen of consumer activism in India," and argues that even in a deregulated
+  environment dominated by private banks, new technology, and rapid product innovation,
+  the consumer''s position remains structurally unequal — what she calls an "information
+  asymmetry, which renders the banker-customer relationship one of unequals."
+
+
+  The address moves systematically through the policy architecture the RBI has built
+  to redress that asymmetry: deregulation of deposit and lending rates, new private-sector
+  licensing in 1993, the revised Banking Ombudsman Scheme, the establishment of the
+  Banking Codes and Standards Board of India (BCSBI) as an autonomous self-regulator,
+  and detailed customer-protection guidelines for deposit accounts, settlement of
+  deceased depositors'' claims, KYC, fair-pr…'
 needs_review: true
 draft: false
 ai:
@@ -50,31 +70,44 @@ physical:
   pages_rendered: 19
   pages_total: 19
   pages_total_source: pypdfium2
-  format: Stapled pamphlet booklet issued by the Forum of Free Enterprise; printed text of an address delivered at the 4th M.R. Pai Memorial Award Function, 8 April 2008, Mumbai
+  format: Stapled pamphlet booklet issued by the Forum of Free Enterprise; printed
+    text of an address delivered at the 4th M.R. Pai Memorial Award Function, 8 April
+    2008, Mumbai
 missing_metadata_flags:
-  - no_isbn
-  - no_formal_toc
+- no_isbn
+- no_formal_toc
 thinker_mentions:
-  - thinker: m-r-pai
-    role: mention
-    reasoning: "The address is delivered at the 4th M. R. Pai Memorial Award Function, and Gopinath explicitly positions her remarks as a tribute to Pai as 'the doyen of consumer activism in India,' making his legacy the central ethical frame."
-    evidence:
-      - quote: Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award Function on 8 April 2008
-        context: "opening identification of the occasion; the address exists in the service of honouring Pai's legacy"
-      - quote: "She positions her remarks as a tribute to the late M. R. Pai, \"the doyen of consumer activism in India,\""
-        context: first substantive sentence; Gopinath explicitly names Pai as the person whose legacy she is honouring
-    key_passages: []
-  - thinker: y-v-reddy
-    role: mention
-    reasoning: "Gopinath cites Y. V. Reddy's 2004-05 policy speech on the exclusionary tendencies of post-reform banking, and closes by quoting his definition of banking as a trust-based relationship."
-    evidence:
-      - quote: "citing Y. V. Reddy's 2004-05 policy speech on the exclusionary tendencies of post-reform banking"
-        context: "financial-inclusion section; Reddy's diagnosis frames the problem Gopinath is committed to solving"
-      - quote: "She closes by quoting Reddy on banking as a \"trust-based relationship\""
-        context: "final sentence; Reddy's formulation is the normative aspiration of the whole address"
-    key_passages: []
-
+- thinker: m-r-pai
+  role: mention
+  reasoning: The address is delivered at the 4th M. R. Pai Memorial Award Function,
+    and Gopinath explicitly positions her remarks as a tribute to Pai as 'the doyen
+    of consumer activism in India,' making his legacy the central ethical frame.
+  evidence:
+  - quote: Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award
+      Function on 8 April 2008
+    context: opening identification of the occasion; the address exists in the service
+      of honouring Pai's legacy
+  - quote: She positions her remarks as a tribute to the late M. R. Pai, "the doyen
+      of consumer activism in India,"
+    context: first substantive sentence; Gopinath explicitly names Pai as the person
+      whose legacy she is honouring
+  key_passages: []
+- thinker: y-v-reddy
+  role: mention
+  reasoning: Gopinath cites Y. V. Reddy's 2004-05 policy speech on the exclusionary
+    tendencies of post-reform banking, and closes by quoting his definition of banking
+    as a trust-based relationship.
+  evidence:
+  - quote: citing Y. V. Reddy's 2004-05 policy speech on the exclusionary tendencies
+      of post-reform banking
+    context: financial-inclusion section; Reddy's diagnosis frames the problem Gopinath
+      is committed to solving
+  - quote: She closes by quoting Reddy on banking as a "trust-based relationship"
+    context: final sentence; Reddy's formulation is the normative aspiration of the
+      whole address
+  key_passages: []
 ---
+
 ## Summary
 
 Delivered as the chief-guest address at the 4th M. R. Pai Memorial Award Function on 8 April 2008 in Mumbai and issued as a Forum of Free Enterprise booklet, Mrs. Shyamala Gopinath, then Deputy Governor of the Reserve Bank of India, surveys how the banker-customer relationship has been reshaped by the post-1991 liberalisation of Indian banking. She positions her remarks as a tribute to the late M. R. Pai, "the doyen of consumer activism in India," and argues that even in a deregulated environment dominated by private banks, new technology, and rapid product innovation, the consumer's position remains structurally unequal — what she calls an "information asymmetry, which renders the banker-customer relationship one of unequals."

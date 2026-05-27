@@ -2,23 +2,23 @@
 id: the-bonus-problem-y-d-joshi-s-r-mohandas-dr-m-c-munshi
 title:
   main: The Bonus Problem
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - m-c-munshi
+- m-c-munshi
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Y. D. JOSHI
-    toc_index: 1
-  - role: author
-    thinker_unresolved: S. R. MOHAN DAS
-    toc_index: 2
-  - role: author
-    thinker: m-c-munshi
-    toc_index: 3
+- role: author
+  toc_index: 1
+  thinker: y-d-joshi
+- role: author
+  toc_index: 2
+  thinker: s-r-mohan-das
+- role: author
+  thinker: m-c-munshi
+  toc_index: 3
 related_thinkers:
-  - m-c-chagla
+- m-c-munshi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -33,14 +33,28 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - labour-relations
-  - industrial-policy
-  - economic-policy
-  - free-enterprise
-  - wages-and-compensation
-summary: "The Bonus Problem is a Forum of Free Enterprise pamphlet collecting three talks delivered in Bombay and Bangalore in July 1972 by Y. D. Joshi (Chief Labour Adviser to a business house), S. R. Mohan Das (Director, Industrial Relations Institute of India), and Dr. M. C. Munshi (economist). The three authors converge on a single thesis: the Indian bonus system, which began in 1918 as an ex-gratia gesture from textile employers, has through fifty years of tribunals, commissions, the 1965 Bonus Act, the Khadilkar formula, and a freshly appointed Bonus Review Committee mutated into a juridicalised, ad hoc compensation regime that no party — employers, unions, the Bonus Commission, or the Supreme Court — has been able to define coherently. The pamphlet is framed by an epigraph from Eugene Black (\"People must come to accept private enterprise not as a necessary evil, but as an affirmative good\") and treats the bonus question as a case study in how political interference and successive legislative tinkering corrupt industrial relations and corrode the foundations of free enterprise.…"
+- labour-relations
+- industrial-policy
+- economic-policy
+- free-enterprise
+- wages-and-compensation
+summary: 'The Bonus Problem is a Forum of Free Enterprise pamphlet collecting three
+  talks delivered in Bombay and Bangalore in July 1972 by Y. D. Joshi (Chief Labour
+  Adviser to a business house), S. R. Mohan Das (Director, Industrial Relations Institute
+  of India), and Dr. M. C. Munshi (economist). The three authors converge on a single
+  thesis: the Indian bonus system, which began in 1918 as an ex-gratia gesture from
+  textile employers, has through fifty years of tribunals, commissions, the 1965 Bonus
+  Act, the Khadilkar formula, and a freshly appointed Bonus Review Committee mutated
+  into a juridicalised, ad hoc compensation regime that no party — employers, unions,
+  the Bonus Commission, or the Supreme Court — has been able to define coherently.
+  The pamphlet is framed by an epigraph from Eugene Black ("People must come to accept
+  private enterprise not as a necessary evil, but as an affirmative good") and treats
+  the bonus question as a case study in how political interference and successive
+  legislative tinkering corrupt industrial relations and corrode the foundations of
+  free enterprise.…'
 needs_review: true
 draft: false
 ai:
@@ -54,10 +68,10 @@ physical:
   pages_total_source: pypdfium2
   format: Forum of Free Enterprise pamphlet (paper covers); three talks bound together
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_table_of_contents
-  - publication_year_not_printed_on_visible_pages
-  - no_copyright_or_verso_page_seen
+- editor_not_named
+- no_formal_table_of_contents
+- publication_year_not_printed_on_visible_pages
+- no_copyright_or_verso_page_seen
 ---
 
 # The Bonus Problem

@@ -2,36 +2,33 @@
 id: state-trading-in-a-democracy-dr-s-g-panandikar-aug8-1960
 title:
   main: STATE TRADING IN A DEMOCRACY
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: DR. S. G. PANANDIKAR
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Dr. K. A. HAMIED, B.Sc., M.A., Ph.D. (Berlin). F.R.I.C., M.L.C., J.P.
-    toc_index: 2
-  - role: author
-    thinker_unresolved: M. H. HASHAM PREMJI
-    toc_index: 3
-  - role: author
-    thinker_unresolved: B. M. CHOKSI
-    toc_index: 4
-  - role: author
-    thinker_unresolved: R. V. MURTHY
-    toc_index: 5
-related_thinkers:
-  - abraham-lincoln
-  - ludwig-erhard
-  - mahatma-gandhi
-  - s-k-patil
-  - eugene-black
+- role: author
+  toc_index: 1
+  thinker: s-g-panandikar
+- role: author
+  toc_index: 2
+  thinker: k-a-hamied-b-sc-m-a-ph-d-berlin-f-r-i-c-m-l-c-j-p
+- role: author
+  toc_index: 3
+  thinker: m-h-hasham-premji
+- role: author
+  toc_index: 4
+  thinker: b-m-choksi
+- role: author
+  toc_index: 5
+  thinker: r-v-murthy
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay Chronicle Press, Horniman Circle, Bombay-1.
+  publisher_name: Published by M. R. Pai for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay 1, and Printed by Michael Andrades at the Bombay
+    Chronicle Press, Horniman Circle, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1960
@@ -42,9 +39,17 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "State Trading in a Democracy gathers the speeches delivered at a Forum of Free Enterprise symposium held in Bombay on 6 May 1960, presided over by Dr. S. G. Panandikar. The booklet was published in August 1960 in the wake of a Parliamentary Estimates Committee report on the State Trading Corporation (STC) and amid a countrywide controversy over the STC's rapidly expanding scope. Five speakers — Dr. S. G. Panandikar, Dr. K. A. Hamied, M. H. Hasham Premji (President of the Federation of All-India Foodgrains Dealers' Associations), B. M. Choksi (President of the Paper Traders' Association, Bombay), and R. V.…"
+summary: State Trading in a Democracy gathers the speeches delivered at a Forum of
+  Free Enterprise symposium held in Bombay on 6 May 1960, presided over by Dr. S.
+  G. Panandikar. The booklet was published in August 1960 in the wake of a Parliamentary
+  Estimates Committee report on the State Trading Corporation (STC) and amid a countrywide
+  controversy over the STC's rapidly expanding scope. Five speakers — Dr. S. G. Panandikar,
+  Dr. K. A. Hamied, M. H. Hasham Premji (President of the Federation of All-India
+  Foodgrains Dealers' Associations), B. M. Choksi (President of the Paper Traders'
+  Association, Bombay), and R. V.…
 needs_review: true
 draft: false
 ai:
@@ -56,10 +61,11 @@ physical:
   pages_rendered: 18
   pages_total: 18
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet; symposium proceedings; printed by Bombay Chronicle Press; back cover dated 8/August/1960
+  format: Pamphlet/booklet; symposium proceedings; printed by Bombay Chronicle Press;
+    back cover dated 8/August/1960
 missing_metadata_flags:
-  - formal_toc_not_present
-  - editor_not_named
+- formal_toc_not_present
+- editor_not_named
 ---
 
 # STATE TRADING IN A DEMOCRACY

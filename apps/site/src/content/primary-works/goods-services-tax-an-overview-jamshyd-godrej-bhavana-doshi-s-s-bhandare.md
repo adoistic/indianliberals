@@ -1,21 +1,21 @@
 ---
 id: goods-services-tax-an-overview-jamshyd-godrej-bhavana-doshi-s-s-bhandare
 title:
-  main: "Goods & Services Tax"
+  main: Goods & Services Tax
   subtitle: An Overview
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Jamshyd Godrej
-    toc_index: 1
-  - role: author
-    thinker_unresolved: Bhavna Doshi
-    toc_index: 2
-  - role: author
-    thinker_unresolved: S.S. Bhandare
-    toc_index: 3
+- role: author
+  toc_index: 1
+  thinker: jamshyd-godrej
+- role: author
+  toc_index: 2
+  thinker: bhavna-doshi
+- role: author
+  toc_index: 3
+  thinker: s-s-bhandare
 related_thinkers: []
 publication:
   language: en
@@ -29,9 +29,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This Forum of Free Enterprise booklet collects three short essays giving an overview of India's Goods & Services Tax (GST) shortly after its 1 July 2017 rollout. The cover lists three contributors — Jamshyd Godrej, Bhavna Doshi and S. S. Bhandare — and the booklet is sponsored by the Shailesh Kapadia Memorial Trust, with a memorial page dedicated to the late chartered accountant Shailesh Kapadia (1949–1988) preceding the essays. In the rendered pages, two of the three essays appear: Godrej's brief 'GST: A Business Perspective' (a corporate-leader endorsement of GST as the largest indirect-tax reform since liberalisation) and the opening portion of Bhavna Doshi's longer 'India Goods and Services Tax — a Macro Overview' (a technical mapping of the new dual GST architecture, its constitutional path, and its comparison with Australia, the EU and Canada). The volume's argumentative center, so far as the rendered pages show, is that GST — though imperfectly multi-rated — is a federal-cooperation triumph that simplifies compliance, eliminates cascading, and tilts India toward a single market."
+summary: 'This Forum of Free Enterprise booklet collects three short essays giving
+  an overview of India''s Goods & Services Tax (GST) shortly after its 1 July 2017
+  rollout. The cover lists three contributors — Jamshyd Godrej, Bhavna Doshi and S.
+  S. Bhandare — and the booklet is sponsored by the Shailesh Kapadia Memorial Trust,
+  with a memorial page dedicated to the late chartered accountant Shailesh Kapadia
+  (1949–1988) preceding the essays. In the rendered pages, two of the three essays
+  appear: Godrej''s brief ''GST: A Business Perspective'' (a corporate-leader endorsement
+  of GST as the largest indirect-tax reform since liberalisation) and the opening
+  portion of Bhavna Doshi''s longer ''India Goods and Services Tax — a Macro Overview''
+  (a technical mapping of the new dual GST architecture, its constitutional path,
+  and its comparison with Australia, the EU and Canada). The volume''s argumentative
+  center, so far as the rendered pages show, is that GST — though imperfectly multi-rated
+  — is a federal-cooperation triumph that simplifies compliance, eliminates cascading,
+  and tilts India toward a single market.'
 needs_review: true
 draft: false
 ai:
@@ -45,13 +59,13 @@ physical:
   pages_total_source: pypdfium2
   format: FFE pamphlet/booklet; sponsored by Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - no_formal_toc
-  - year_not_printed_in_rendered_pages
-  - place_not_printed_in_rendered_pages
-  - no_isbn_visible
-  - editor_not_named
-  - third_essay_title_not_yet_rendered
-  - colophon_not_in_chunk
+- no_formal_toc
+- year_not_printed_in_rendered_pages
+- place_not_printed_in_rendered_pages
+- no_isbn_visible
+- editor_not_named
+- third_essay_title_not_yet_rendered
+- colophon_not_in_chunk
 ---
 
 # Goods & Services Tax

@@ -2,25 +2,26 @@
 id: a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974
 title:
   main: A Package Plan to Fight Inflation
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - r-c-cooper
+- r-c-cooper
 editors: []
 contributors:
-  - role: author
-    thinker: r-c-cooper
-    toc_index: 1
-  - role: author
-    thinker_unresolved: DHIRAJLAL MAGANLAL
-    toc_index: 2
-  - role: author
-    thinker_unresolved: MINOO R. SHROFF
-    toc_index: 3
-  - role: author
-    thinker_unresolved: PROF. GANGADHAR GADGIL
-    toc_index: 4
-related_thinkers: []
+- role: author
+  thinker: r-c-cooper
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: dhirajlal-maganlal
+- role: author
+  toc_index: 3
+  thinker: minoo-r-shroff
+- role: author
+  toc_index: 4
+  thinker: gangadhar-gadgil
+related_thinkers:
+- r-c-cooper
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -36,13 +37,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - inflation
-  - economic-policy
-  - monetary-policy
-  - economic-planning
-summary: "A Package Plan to Fight Inflation gathers four public lectures delivered in July 1974 under the auspices of the Forum of Free Enterprise — by Dr. R. C. Cooper (Bangalore Centre, 11 July), Dhirajlal Maganlal (Bombay, 11 July), Minoo R. Shroff (Bombay, 10 July), and Prof. Gangadhar Gadgil (Bombay, 10 July). Speaking against a backdrop of devaluation, a 54.1% rise in the Wholesale Price Index between May 1972 and May 1974, and the spectre of mass unrest already manifest in Gujarat and Bihar, the four contributors converge on a common diagnosis: India's inflation is not an imported accident but the cumulative product of deficit financing, heavy-industry-biased planning, licensing-permit raj, hoarding, and the suffocation of agriculture and consumer-goods output."
+- inflation
+- economic-policy
+- monetary-policy
+- economic-planning
+summary: 'A Package Plan to Fight Inflation gathers four public lectures delivered
+  in July 1974 under the auspices of the Forum of Free Enterprise — by Dr. R. C. Cooper
+  (Bangalore Centre, 11 July), Dhirajlal Maganlal (Bombay, 11 July), Minoo R. Shroff
+  (Bombay, 10 July), and Prof. Gangadhar Gadgil (Bombay, 10 July). Speaking against
+  a backdrop of devaluation, a 54.1% rise in the Wholesale Price Index between May
+  1972 and May 1974, and the spectre of mass unrest already manifest in Gujarat and
+  Bihar, the four contributors converge on a common diagnosis: India''s inflation
+  is not an imported accident but the cumulative product of deficit financing, heavy-industry-biased
+  planning, licensing-permit raj, hoarding, and the suffocation of agriculture and
+  consumer-goods output.'
 needs_review: true
 draft: false
 ai:
@@ -54,12 +65,14 @@ physical:
   pages_rendered: 20
   pages_total: 24
   pages_total_source: pypdfium2
-  format: FFE pamphlet/booklet bundling four public lectures delivered under the auspices of the Forum of Free Enterprise in July 1974
+  format: FFE pamphlet/booklet bundling four public lectures delivered under the auspices
+    of the Forum of Free Enterprise in July 1974
 missing_metadata_flags:
-  - no_formal_toc_page
-  - editor_not_named
-  - no_copyright_page_seen
+- no_formal_toc_page
+- editor_not_named
+- no_copyright_page_seen
 ---
+
 ## Summary
 
 A Package Plan to Fight Inflation gathers four public lectures delivered in July 1974 under the auspices of the Forum of Free Enterprise — by Dr. R. C. Cooper (Bangalore Centre, 11 July), Dhirajlal Maganlal (Bombay, 11 July), Minoo R. Shroff (Bombay, 10 July), and Prof. Gangadhar Gadgil (Bombay, 10 July). Speaking against a backdrop of devaluation, a 54.1% rise in the Wholesale Price Index between May 1972 and May 1974, and the spectre of mass unrest already manifest in Gujarat and Bihar, the four contributors converge on a common diagnosis: India's inflation is not an imported accident but the cumulative product of deficit financing, heavy-industry-biased planning, licensing-permit raj, hoarding, and the suffocation of agriculture and consumer-goods output.

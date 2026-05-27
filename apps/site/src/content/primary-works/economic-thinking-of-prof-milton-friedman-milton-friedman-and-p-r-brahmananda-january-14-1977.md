@@ -2,27 +2,29 @@
 id: economic-thinking-of-prof-milton-friedman-milton-friedman-and-p-r-brahmananda-january-14-1977
 title:
   main: The Economic Thinking of Prof. Milton Friedman
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - milton-friedman
+- milton-friedman
 editors: []
 contributors:
-  - role: author
-    thinker: milton-friedman
-    toc_index: 2
-  - role: author
-    thinker_unresolved: Dr. P. R. Brahmananda
-    toc_index: 3
-related_thinkers: 
-  - a-d-shroff
-  - friedrich-hayek
-  - john-stuart-mill
-
+- role: author
+  thinker: milton-friedman
+  toc_index: 2
+- role: author
+  toc_index: 3
+  thinker: p-r-brahmananda
+related_thinkers:
+- a-d-shroff
+- friedrich-hayek
+- john-stuart-mill
+- milton-friedman
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Piramal Mansion\", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by B. D. Nadirshaw at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1."
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, "Piramal
+    Mansion", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by B. D. Nadirshaw
+    at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1977
@@ -34,16 +36,30 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - monetary-policy
-  - economic-policy
-  - exchange-rate-policy
-  - free-markets
-  - inflation
-  - quantity-theory-of-money
-summary: "Published by the Forum of Free Enterprise on 14 January 1977 to mark Milton Friedman's Nobel Prize, this slim booklet pairs two complementary texts. The first is a reprint of a 1963 article by Friedman himself — 'India Needs A Free Market Exchange Rate' — which the Forum had originally issued as a leaflet in May 1963 and now reproduces with a note that 'developments on India's foreign exchange front have moved in the direction indicated by Prof. Friedman.' The second is 'Milton Friedman — Leader of Monetarist Revolution', a critical appraisal by P. R. Brahmananda, Professor of Monetary Economics at Bombay University, originally published in Commerce on 23 October 1976. Together the two pieces position Friedman as both a practical policy critic of India's exchange-control regime and as the synthesiser who restored the Quantity Theory of Money to the centre of macroeconomics. The Forum supplies a brief introduction and the customary disclaimer that the views are not necessarily its own, while the back matter carries the standard membership appeal and an A. D. Shroff epigraph."
+- free-enterprise
+- monetary-policy
+- economic-policy
+- exchange-rate-policy
+- free-markets
+- inflation
+- quantity-theory-of-money
+summary: Published by the Forum of Free Enterprise on 14 January 1977 to mark Milton
+  Friedman's Nobel Prize, this slim booklet pairs two complementary texts. The first
+  is a reprint of a 1963 article by Friedman himself — 'India Needs A Free Market
+  Exchange Rate' — which the Forum had originally issued as a leaflet in May 1963
+  and now reproduces with a note that 'developments on India's foreign exchange front
+  have moved in the direction indicated by Prof. Friedman.' The second is 'Milton
+  Friedman — Leader of Monetarist Revolution', a critical appraisal by P. R. Brahmananda,
+  Professor of Monetary Economics at Bombay University, originally published in Commerce
+  on 23 October 1976. Together the two pieces position Friedman as both a practical
+  policy critic of India's exchange-control regime and as the synthesiser who restored
+  the Quantity Theory of Money to the centre of macroeconomics. The Forum supplies
+  a brief introduction and the customary disclaimer that the views are not necessarily
+  its own, while the back matter carries the standard membership appeal and an A.
+  D. Shroff epigraph.
 needs_review: true
 draft: false
 ai:
@@ -55,36 +71,53 @@ physical:
   pages_rendered: 20
   pages_total: 20
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet; soft-cover with dark blue cover printed in light type; 16 numbered interior pages.
+  format: Pamphlet/booklet; soft-cover with dark blue cover printed in light type;
+    16 numbered interior pages.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
+- editor_not_named
+- no_formal_toc_page
 thinker_mentions:
-  - thinker: friedrich-hayek
-    role: mention
-    reasoning: "Brahmananda contrasts Friedman with Hayek, citing Hayek's uncompromising anti-inflation stance as the stricter standard against which Friedman's accommodation to Keynesianism falls short, aligning himself with the Austrian position."
-    evidence:
-      - quote: "Hayek, the Austrians, Gurley and Shaw — arguing that Friedman's genuine originality lies less in the propositions themselves than in synthesising them and subjecting them to systematic empirical test."
-        context: "Hayek named among the thinkers whose individual contributions Brahmananda credits, disputing Friedman's originality"
-      - quote: "Contrasts Hayek's uncompromising anti-inflation stance with Friedman's accommodation, aligning the author with classical economists like Ricardo, Hume, J. S. Mill and Marshall who preferred a falling-price-level path on grounds of social justice."
-        context: "key-points summary of Brahmananda's positioning of Hayek against Friedman"
-    key_passages: []
-  - thinker: john-stuart-mill
-    role: mention
-    reasoning: "J. S. Mill is cited by Brahmananda as part of the classical-economist tradition that favoured a falling-price-level path as more conducive to social justice, used to critique Friedman's concessions to inflation."
-    evidence:
-      - quote: aligning the author with classical economists like Ricardo, Hume, J. S. Mill and Marshall who preferred a falling-price-level path on grounds of social justice
-        context: "Brahmananda's alignment with the classical tradition against Friedman's indexation proposal"
-    key_passages: []
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "The back matter carries an A. D. Shroff epigraph, situating Friedman's exchange-rate article within the Forum's classical-liberal tradition."
-    evidence:
-      - quote: the back matter carries the standard membership appeal and an A. D. Shroff epigraph
-        context: "editorial framing placing the booklet in the Forum of Free Enterprise's ideological lineage"
-    key_passages: []
-
+- thinker: friedrich-hayek
+  role: mention
+  reasoning: Brahmananda contrasts Friedman with Hayek, citing Hayek's uncompromising
+    anti-inflation stance as the stricter standard against which Friedman's accommodation
+    to Keynesianism falls short, aligning himself with the Austrian position.
+  evidence:
+  - quote: Hayek, the Austrians, Gurley and Shaw — arguing that Friedman's genuine
+      originality lies less in the propositions themselves than in synthesising them
+      and subjecting them to systematic empirical test.
+    context: Hayek named among the thinkers whose individual contributions Brahmananda
+      credits, disputing Friedman's originality
+  - quote: Contrasts Hayek's uncompromising anti-inflation stance with Friedman's
+      accommodation, aligning the author with classical economists like Ricardo, Hume,
+      J. S. Mill and Marshall who preferred a falling-price-level path on grounds
+      of social justice.
+    context: key-points summary of Brahmananda's positioning of Hayek against Friedman
+  key_passages: []
+- thinker: john-stuart-mill
+  role: mention
+  reasoning: J. S. Mill is cited by Brahmananda as part of the classical-economist
+    tradition that favoured a falling-price-level path as more conducive to social
+    justice, used to critique Friedman's concessions to inflation.
+  evidence:
+  - quote: aligning the author with classical economists like Ricardo, Hume, J. S.
+      Mill and Marshall who preferred a falling-price-level path on grounds of social
+      justice
+    context: Brahmananda's alignment with the classical tradition against Friedman's
+      indexation proposal
+  key_passages: []
+- thinker: a-d-shroff
+  role: mention
+  reasoning: The back matter carries an A. D. Shroff epigraph, situating Friedman's
+    exchange-rate article within the Forum's classical-liberal tradition.
+  evidence:
+  - quote: the back matter carries the standard membership appeal and an A. D. Shroff
+      epigraph
+    context: editorial framing placing the booklet in the Forum of Free Enterprise's
+      ideological lineage
+  key_passages: []
 ---
+
 ## Summary
 
 Published by the Forum of Free Enterprise on 14 January 1977 to mark Milton Friedman's Nobel Prize, this slim booklet pairs two complementary texts. The first is a reprint of a 1963 article by Friedman himself — 'India Needs A Free Market Exchange Rate' — which the Forum had originally issued as a leaflet in May 1963 and now reproduces with a note that 'developments on India's foreign exchange front have moved in the direction indicated by Prof. Friedman.' The second is 'Milton Friedman — Leader of Monetarist Revolution', a critical appraisal by P. R. Brahmananda, Professor of Monetary Economics at Bombay University, originally published in Commerce on 23 October 1976. Together the two pieces position Friedman as both a practical policy critic of India's exchange-control regime and as the synthesiser who restored the Quantity Theory of Money to the centre of macroeconomics. The Forum supplies a brief introduction and the customary disclaimer that the views are not necessarily its own, while the back matter carries the standard membership appeal and an A. D. Shroff epigraph.

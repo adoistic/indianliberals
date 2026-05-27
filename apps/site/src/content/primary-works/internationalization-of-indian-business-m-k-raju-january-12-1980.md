@@ -2,21 +2,22 @@
 id: internationalization-of-indian-business-m-k-raju-january-12-1980
 title:
   main: INTERNATIONALISATION OF INDIAN BUSINESS
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: M. K. Raju
-related_thinkers: 
-  - a-d-shroff
-  - eugene-black
-
+- role: author
+  thinker: m-k-raju
+related_thinkers:
+- a-d-shroff
+- eugene-black
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Piramal Mansion\", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by B. D. Nadirshaw at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1."
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, "Piramal
+    Mansion", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by B. D. Nadirshaw
+    at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1980
@@ -29,14 +30,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-enterprise
-  - industrial-policy
-  - international-trade
-  - foreign-investment
-  - economic-development
-summary: "M. K. Raju's A. D. Shroff Memorial Lecture, delivered in Madras on 27 October 1979 under the auspices of the Forum of Free Enterprise and published as this booklet in January 1980, is a sober post-mortem of India's first decade of outbound joint ventures. Opening with a tribute to Shroff and his generation's faith in free enterprise as the engine of national development, Raju shifts quickly from rhetoric to data: of 345 Indian joint ventures approved abroad by December 1978, only 31% were in production, 26% under implementation, and a striking 43% had been abandoned. A closer survey of 23 manufacturing units in a single South-East Asian host country found just 9% profitable and 70% incurring cash losses.\n\nRaju rejects the standard alibis — interest burden, invisible entry barriers, marginal Indian commitment — as inadequate, and instead builds a multi-dimensional diagnosis.…"
+- free-enterprise
+- industrial-policy
+- international-trade
+- foreign-investment
+- economic-development
+summary: 'M. K. Raju''s A. D. Shroff Memorial Lecture, delivered in Madras on 27 October
+  1979 under the auspices of the Forum of Free Enterprise and published as this booklet
+  in January 1980, is a sober post-mortem of India''s first decade of outbound joint
+  ventures. Opening with a tribute to Shroff and his generation''s faith in free enterprise
+  as the engine of national development, Raju shifts quickly from rhetoric to data:
+  of 345 Indian joint ventures approved abroad by December 1978, only 31% were in
+  production, 26% under implementation, and a striking 43% had been abandoned. A closer
+  survey of 23 manufacturing units in a single South-East Asian host country found
+  just 9% profitable and 70% incurring cash losses.
+
+
+  Raju rejects the standard alibis — interest burden, invisible entry barriers, marginal
+  Indian commitment — as inadequate, and instead builds a multi-dimensional diagnosis.…'
 needs_review: true
 draft: false
 ai:
@@ -48,7 +62,9 @@ physical:
   pages_rendered: 13
   pages_total: 13
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet (20 printed book pages; 13 rendered PDF pages with two book pages per leaf plus cover/colophon). FFE booklet imprint, blue card cover with FFE seal.
+  format: Pamphlet/booklet (20 printed book pages; 13 rendered PDF pages with two
+    book pages per leaf plus cover/colophon). FFE booklet imprint, blue card cover
+    with FFE seal.
 authors_resolution:
   confidence: low
   method: vision
@@ -57,23 +73,32 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "M. K. Raju delivers his analysis as the A. D. Shroff Memorial Lecture, opening with a tribute to Shroff and his generation's faith in free enterprise as the engine of national development."
-    evidence:
-      - quote: "M. K. Raju's A. D. Shroff Memorial Lecture, delivered in Madras on 27 October 1979"
-        context: "opens by anchoring the lecture in Shroff's memorial series"
-      - quote: "Opening with a tribute to Shroff and his generation's faith in free enterprise as the engine of national development"
-        context: "Raju explicitly frames his post-mortem of Indian joint ventures as a continuation of Shroff's free-enterprise tradition"
-    key_passages: []
-  - thinker: eugene-black
-    role: mention
-    reasoning: "The booklet closes with a Eugene Black back-cover epigraph endorsing private enterprise as 'an affirmative good,' using Black's authority to frame Raju's critique of Indian outbound joint ventures within the Forum's free-enterprise creed."
-    evidence:
-      - quote: "a reminder, via a Eugene Black epigraph on the back cover, that private enterprise must be embraced 'not as a necessary evil, but as an affirmative good.'"
-        context: "Black's line is deployed as the booklet's ideological coda"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: M. K. Raju delivers his analysis as the A. D. Shroff Memorial Lecture,
+    opening with a tribute to Shroff and his generation's faith in free enterprise
+    as the engine of national development.
+  evidence:
+  - quote: M. K. Raju's A. D. Shroff Memorial Lecture, delivered in Madras on 27 October
+      1979
+    context: opens by anchoring the lecture in Shroff's memorial series
+  - quote: Opening with a tribute to Shroff and his generation's faith in free enterprise
+      as the engine of national development
+    context: Raju explicitly frames his post-mortem of Indian joint ventures as a
+      continuation of Shroff's free-enterprise tradition
+  key_passages: []
+- thinker: eugene-black
+  role: mention
+  reasoning: The booklet closes with a Eugene Black back-cover epigraph endorsing
+    private enterprise as 'an affirmative good,' using Black's authority to frame
+    Raju's critique of Indian outbound joint ventures within the Forum's free-enterprise
+    creed.
+  evidence:
+  - quote: a reminder, via a Eugene Black epigraph on the back cover, that private
+      enterprise must be embraced 'not as a necessary evil, but as an affirmative
+      good.'
+    context: Black's line is deployed as the booklet's ideological coda
+  key_passages: []
 ---
 
 ## Summary

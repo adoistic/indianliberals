@@ -2,24 +2,25 @@
 id: nationalised-insurance-policies-and-strategies-for-the-90s-r-k-daruwalla-june-10-1988
 title:
   main: NATIONALISED INSURANCE
-  subtitle: "POLICIES & STRATEGIES FOR THE '90S"
+  subtitle: POLICIES & STRATEGIES FOR THE '90S
 work_type: speech
 authors:
-  - r-k-daruwalla
+- r-k-daruwalla
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: R. K. DARUWALLA
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers: 
-  - a-d-shroff
-  - nani-palkhivala
-
+- role: author
+  thinker: r-k-daruwalla
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers:
+- a-d-shroff
+- nani-palkhivala
+- r-k-daruwalla
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD, BOMBAY-400 001.
+  publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD,
+    BOMBAY-400 001.
   place: Bombay
   year: 1988
 provenance:
@@ -30,14 +31,31 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - nationalisation
-  - public-sector
-  - insurance
-  - financial-sector-reform
-summary: "Delivered on 28 April 1988 as the annual A. D. Shroff Memorial Trust lecture and published as a booklet by the Trust two months later, R. K. Daruwalla — a former Chairman of the General Insurance Corporation of India who had spent over forty-five years in the insurance industry — uses the platform to argue that the nationalised insurance industry, having matured since the takeovers of 1956 (life) and 1971/72 (general), now needs a structural rethink before the 1990s. His framing is striking for an insider: rather than relitigate the merits of nationalisation, he treats consolidation as its single most significant gain, then turns to why the existing GIC structure — four subsidiaries each writing every class of business — is no longer fit for the decade ahead.\n\nThe rendered pages cover the booklet's front matter (Trust trustees, Palkhivala's introduction, the biographical tribute to A. D. Shroff) and the first half of the lecture proper, focusing on general insurance. Daruwalla sets out the scale of the industry — gross direct premium of Rs. 184 crores in 1973 rising to roughly Rs. 1,535 crores by 1987, with profits before tax of Rs.…"
+- economic-policy
+- nationalisation
+- public-sector
+- insurance
+- financial-sector-reform
+summary: 'Delivered on 28 April 1988 as the annual A. D. Shroff Memorial Trust lecture
+  and published as a booklet by the Trust two months later, R. K. Daruwalla — a former
+  Chairman of the General Insurance Corporation of India who had spent over forty-five
+  years in the insurance industry — uses the platform to argue that the nationalised
+  insurance industry, having matured since the takeovers of 1956 (life) and 1971/72
+  (general), now needs a structural rethink before the 1990s. His framing is striking
+  for an insider: rather than relitigate the merits of nationalisation, he treats
+  consolidation as its single most significant gain, then turns to why the existing
+  GIC structure — four subsidiaries each writing every class of business — is no longer
+  fit for the decade ahead.
+
+
+  The rendered pages cover the booklet''s front matter (Trust trustees, Palkhivala''s
+  introduction, the biographical tribute to A. D. Shroff) and the first half of the
+  lecture proper, focusing on general insurance. Daruwalla sets out the scale of the
+  industry — gross direct premium of Rs. 184 crores in 1973 rising to roughly Rs.
+  1,535 crores by 1987, with profits before tax of Rs.…'
 needs_review: true
 draft: false
 ai:
@@ -49,36 +67,42 @@ physical:
   pages_rendered: 20
   pages_total: 49
   pages_total_source: pypdfium2
-  format: Booklet / pamphlet reprint of an annual memorial public lecture; printed by S. V. Limaye at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay 400 023, published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust
+  format: Booklet / pamphlet reprint of an annual memorial public lecture; printed
+    by S. V. Limaye at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay
+    400 023, published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust
 missing_metadata_flags:
-  - no_toc_present
+- no_toc_present
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - R. K. Daruwalla
+  - R. K. Daruwalla
   stubs_created: []
   stubs_referenced:
-    - r-k-daruwalla
+  - r-k-daruwalla
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "The lecture is the annual A. D. Shroff Memorial Trust lecture and the booklet's front matter includes a biographical tribute to Shroff — positioning him as the institutional patron under whose name the case for restructuring nationalised insurance is being made."
-    evidence:
-      - quote: Delivered on 28 April 1988 as the annual A. D. Shroff Memorial Trust lecture
-        context: Shroff is the namesake of the memorial lecture series
-      - quote: the biographical tribute to A. D. Shroff
-        context: "front-matter tribute included in the booklet's rendered pages"
-    key_passages: []
-  - thinker: nani-palkhivala
-    role: mention
-    reasoning: "Palkhivala is listed as the author of the booklet's introduction, placing him as the senior endorsing voice for Daruwalla's insider critique of GIC structure."
-    evidence:
-      - quote: "Palkhivala's introduction"
-        context: "Palkhivala writes the booklet's introduction, lending senior endorsement to Daruwalla's argument"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: The lecture is the annual A. D. Shroff Memorial Trust lecture and the
+    booklet's front matter includes a biographical tribute to Shroff — positioning
+    him as the institutional patron under whose name the case for restructuring nationalised
+    insurance is being made.
+  evidence:
+  - quote: Delivered on 28 April 1988 as the annual A. D. Shroff Memorial Trust lecture
+    context: Shroff is the namesake of the memorial lecture series
+  - quote: the biographical tribute to A. D. Shroff
+    context: front-matter tribute included in the booklet's rendered pages
+  key_passages: []
+- thinker: nani-palkhivala
+  role: mention
+  reasoning: Palkhivala is listed as the author of the booklet's introduction, placing
+    him as the senior endorsing voice for Daruwalla's insider critique of GIC structure.
+  evidence:
+  - quote: Palkhivala's introduction
+    context: Palkhivala writes the booklet's introduction, lending senior endorsement
+      to Daruwalla's argument
+  key_passages: []
 ---
 
 ## Summary

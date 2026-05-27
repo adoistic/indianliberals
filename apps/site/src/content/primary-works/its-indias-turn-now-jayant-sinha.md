@@ -1,23 +1,24 @@
 ---
 id: its-indias-turn-now-jayant-sinha
 title:
-  main: "It's India's Turn Now"
-  subtitle: ""
+  main: It's India's Turn Now
+  subtitle: ''
 work_type: speech
 authors:
-  - jayant-sinha
+- jayant-sinha
 editors: []
 contributors:
-  - role: introduction
-    thinker_unresolved: Minoo R. Shroff
-related_thinkers: 
-  - a-d-shroff
-  - minoo-shroff
-
+- role: introduction
+  thinker: minoo-r-shroff
+related_thinkers:
+- a-d-shroff
+- jayant-sinha
+- minoo-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "FORUM OF FREE ENTERPRISE & THE A.D. SHROFF MEMORIAL TRUST, Peninsula House, 235 Dr. D. N. Road, Mumbai 400 001"
+  publisher_name: FORUM OF FREE ENTERPRISE & THE A.D. SHROFF MEMORIAL TRUST, Peninsula
+    House, 235 Dr. D. N. Road, Mumbai 400 001
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2016
@@ -29,14 +30,29 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - free-markets
-  - economic-liberalisation
-  - entrepreneurship
-  - economic-development
-  - globalisation
-summary: "\"It's India's Turn Now\" reproduces the text of an address delivered by Jayant Sinha, then Minister of State for Civil Aviation, in Mumbai on 29 September 2016 to mark the Diamond Jubilee of the Forum of Free Enterprise and the Golden Jubilee of the A. D. Shroff Memorial Trust. Sinha frames the moment as one in which globalist liberalism is under siege — citing the first US presidential debate, the Brexit vote, the rise of European extremist parties and global terrorism — and argues that India, with its single-party majority and a decisive prime minister, is now positioned to take up the vanguard of a new global order and become a \"Vishwa Guru.\"\n\nThe address is organised around three theses. First, India's growth model is inherently frugal and sustainable: with only 2.5% of the world's land, 4% of its fresh water but 17% of its population, India must — and does — generate GDP with far less energy, carbon, capital and leverage than China or the United States, and so its growth is good for the planet as well as for Indians.…"
+- free-markets
+- economic-liberalisation
+- entrepreneurship
+- economic-development
+- globalisation
+summary: '"It''s India''s Turn Now" reproduces the text of an address delivered by
+  Jayant Sinha, then Minister of State for Civil Aviation, in Mumbai on 29 September
+  2016 to mark the Diamond Jubilee of the Forum of Free Enterprise and the Golden
+  Jubilee of the A. D. Shroff Memorial Trust. Sinha frames the moment as one in which
+  globalist liberalism is under siege — citing the first US presidential debate, the
+  Brexit vote, the rise of European extremist parties and global terrorism — and argues
+  that India, with its single-party majority and a decisive prime minister, is now
+  positioned to take up the vanguard of a new global order and become a "Vishwa Guru."
+
+
+  The address is organised around three theses. First, India''s growth model is inherently
+  frugal and sustainable: with only 2.5% of the world''s land, 4% of its fresh water
+  but 17% of its population, India must — and does — generate GDP with far less energy,
+  carbon, capital and leverage than China or the United States, and so its growth
+  is good for the planet as well as for Indians.…'
 needs_review: true
 draft: false
 ai:
@@ -49,33 +65,40 @@ physical:
   pages_total_source: pypdfium2
   format: booklet/pamphlet, free distribution
 missing_metadata_flags:
-  - no_formal_toc
-  - no_isbn
+- no_formal_toc
+- no_isbn
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - Jayant Sinha
+  - Jayant Sinha
   stubs_created: []
   stubs_referenced:
-    - jayant-sinha
+  - jayant-sinha
   collisions_logged: []
 thinker_mentions:
-  - thinker: a-d-shroff
-    role: mention
-    reasoning: "Sinha's 2016 address is itself the marquee lecture of the A. D. Shroff Memorial Trust's Golden Jubilee, with Shroff invoked as the institutional anchor for the Forum of Free Enterprise occasion."
-    evidence:
-      - quote: the Diamond Jubilee of the Forum of Free Enterprise and the Golden Jubilee of the A. D. Shroff Memorial Trust
-        context: "opening paragraph; situates Sinha's lecture as a Shroff-Trust occasion"
-    key_passages: []
-  - thinker: minoo-shroff
-    role: mention
-    reasoning: "Minoo R. Shroff supplies the booklet's introduction, framing Sinha's polemical contrast between a 'Nehruvian Sarkar' and a Kautilyan one as the lecture's central contribution."
-    evidence:
-      - quote: "Minoo R. Shroff's introduction underscores the speech's polemical contrast with the 'Nehruvian Sarkar or maibaap' and praises Sinha for differentiating the roles of business and government for a globalised India."
-        context: "closing bullet; positions Minoo Shroff as the editorial framer of Sinha's argument"
-    key_passages: []
-
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Sinha's 2016 address is itself the marquee lecture of the A. D. Shroff
+    Memorial Trust's Golden Jubilee, with Shroff invoked as the institutional anchor
+    for the Forum of Free Enterprise occasion.
+  evidence:
+  - quote: the Diamond Jubilee of the Forum of Free Enterprise and the Golden Jubilee
+      of the A. D. Shroff Memorial Trust
+    context: opening paragraph; situates Sinha's lecture as a Shroff-Trust occasion
+  key_passages: []
+- thinker: minoo-shroff
+  role: mention
+  reasoning: Minoo R. Shroff supplies the booklet's introduction, framing Sinha's
+    polemical contrast between a 'Nehruvian Sarkar' and a Kautilyan one as the lecture's
+    central contribution.
+  evidence:
+  - quote: Minoo R. Shroff's introduction underscores the speech's polemical contrast
+      with the 'Nehruvian Sarkar or maibaap' and praises Sinha for differentiating
+      the roles of business and government for a globalised India.
+    context: closing bullet; positions Minoo Shroff as the editorial framer of Sinha's
+      argument
+  key_passages: []
 ---
 
 ## Summary

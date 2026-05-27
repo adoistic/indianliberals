@@ -2,27 +2,29 @@
 id: industrial-relations-naval-tata-13aug-1979
 title:
   main: Industrial Relations
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - naval-h-tata
+- naval-h-tata
 editors: []
 contributors:
-  - role: author
-    thinker: naval-h-tata
-    toc_index: 1
-  - role: author
-    thinker_unresolved: P. C. Mehta
-    toc_index: 2
-related_thinkers: 
-  - charan-singh
-  - karl-marx
-  - morarji-desai
-
+- role: author
+  thinker: naval-h-tata
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: p-c-mehta
+related_thinkers:
+- charan-singh
+- karl-marx
+- morarji-desai
+- naval-h-tata
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Piramal Mansion\", 235 Dr. Dadabhai Naoroji Road, Bombay-1. and printed by B. D. Nadirshaw at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1."
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, "Piramal
+    Mansion", 235 Dr. Dadabhai Naoroji Road, Bombay-1. and printed by B. D. Nadirshaw
+    at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1979
@@ -34,12 +36,25 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - industrial-policy
-  - free-enterprise
-  - democracy
-summary: "This Forum of Free Enterprise booklet, issued in Bombay on 13 August 1979, gathers two industry-side interventions in the late-Janata-era debate on labour law and union power, plus an appendix reproducing a Financial Express report on the simultaneous bonus controversy. The opening essay is an extract from Naval H. Tata's inaugural talk of 29 January 1979 at an ASSOCHAM workshop on the Industrial Relations Bill, framing labour-law reform as a human-rights issue and defending the Janata Government's Bill against trade-union opposition. The second essay reproduces P. C. Mehta's 16 April 1979 Forum lecture, 'Democracy and Labour Movement', arguing that industrial peace in a democracy must rest on law rather than trials of strength. The closing appendix carries the Finance Minister Charan Singh's June 1979 case against extending bonus to railwaymen and Government departmental employees. Together the three pieces present a coordinated employer-side and free-enterprise critique of trade-union militancy, wage-productivity drift, and bonus-as-statutory-right."
+- industrial-policy
+- free-enterprise
+- democracy
+summary: This Forum of Free Enterprise booklet, issued in Bombay on 13 August 1979,
+  gathers two industry-side interventions in the late-Janata-era debate on labour
+  law and union power, plus an appendix reproducing a Financial Express report on
+  the simultaneous bonus controversy. The opening essay is an extract from Naval H.
+  Tata's inaugural talk of 29 January 1979 at an ASSOCHAM workshop on the Industrial
+  Relations Bill, framing labour-law reform as a human-rights issue and defending
+  the Janata Government's Bill against trade-union opposition. The second essay reproduces
+  P. C. Mehta's 16 April 1979 Forum lecture, 'Democracy and Labour Movement', arguing
+  that industrial peace in a democracy must rest on law rather than trials of strength.
+  The closing appendix carries the Finance Minister Charan Singh's June 1979 case
+  against extending bonus to railwaymen and Government departmental employees. Together
+  the three pieces present a coordinated employer-side and free-enterprise critique
+  of trade-union militancy, wage-productivity drift, and bonus-as-statutory-right.
 needs_review: true
 draft: false
 ai:
@@ -51,38 +66,54 @@ physical:
   pages_rendered: 11
   pages_total: 11
   pages_total_source: pypdfium2
-  format: Stapled pamphlet/booklet with printed paper covers (red and cream), Forum of Free Enterprise imprint
+  format: Stapled pamphlet/booklet with printed paper covers (red and cream), Forum
+    of Free Enterprise imprint
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
+- editor_not_named
+- no_formal_toc_page
 thinker_mentions:
-  - thinker: karl-marx
-    role: mention
-    reasoning: "Naval Tata invokes Marx via V. M. Dandekar's critique of the bankmen's strike to argue that even socialist categories — social justice, Marxist analysis — cut against trade-union militancy in essential services."
-    evidence:
-      - quote: "Dr. V. M. Dandekar's critique of the bankmen's strike invoking Karl Marx and social justice"
-        context: used to defuse the union charge of anti-labour bias by mobilising socialist authority against strike tactics
-    key_passages: []
-  - thinker: morarji-desai
-    role: mention
-    reasoning: "Cited as Prime Minister and addressee of Charan Singh's June 1979 note opposing bonus for railwaymen — positioning Desai's cabinet as the political setting for the Janata-era labour-law and bonus disputes the pamphlet covers."
-    evidence:
-      - quote: a note from the then Finance Minister and Deputy Prime Minister Mr. Charan Singh, addressed to Prime Minister Morarji Desai, opposing the grant of bonus to railwaymen
-        context: frames the bonus controversy at the apex of the Janata cabinet
-    key_passages: []
-  - thinker: charan-singh
-    role: mention
-    reasoning: "Charan Singh's June 1979 note against extending bonus to railwaymen is reproduced in the appendix and used to anchor the employer-side case that bonus has become a statutory privilege of an organised minority at huge fiscal cost."
-    evidence:
-      - quote: a note from the then Finance Minister and Deputy Prime Minister Mr. Charan Singh, addressed to Prime Minister Morarji Desai, opposing the grant of bonus to railwaymen and other employees of Government departmental undertakings
-        context: "introduces the appendix and Charan Singh's argumentative role"
-      - quote: Charan Singh argues that extending bonus to railwaymen would obligate it for all Central Government employees at an annual cost of about Rs.600 crores against a deficit budget of Rs.1,345 crores for 1979-80
-        context: summarises the fiscal core of his case
-      - quote: "Reproduces Charan Singh's June 1979 case against extending bonus to railwaymen and Government departmental employees."
-        context: key-points line restating his contribution
-    key_passages: []
-
+- thinker: karl-marx
+  role: mention
+  reasoning: Naval Tata invokes Marx via V. M. Dandekar's critique of the bankmen's
+    strike to argue that even socialist categories — social justice, Marxist analysis
+    — cut against trade-union militancy in essential services.
+  evidence:
+  - quote: Dr. V. M. Dandekar's critique of the bankmen's strike invoking Karl Marx
+      and social justice
+    context: used to defuse the union charge of anti-labour bias by mobilising socialist
+      authority against strike tactics
+  key_passages: []
+- thinker: morarji-desai
+  role: mention
+  reasoning: Cited as Prime Minister and addressee of Charan Singh's June 1979 note
+    opposing bonus for railwaymen — positioning Desai's cabinet as the political setting
+    for the Janata-era labour-law and bonus disputes the pamphlet covers.
+  evidence:
+  - quote: a note from the then Finance Minister and Deputy Prime Minister Mr. Charan
+      Singh, addressed to Prime Minister Morarji Desai, opposing the grant of bonus
+      to railwaymen
+    context: frames the bonus controversy at the apex of the Janata cabinet
+  key_passages: []
+- thinker: charan-singh
+  role: mention
+  reasoning: Charan Singh's June 1979 note against extending bonus to railwaymen is
+    reproduced in the appendix and used to anchor the employer-side case that bonus
+    has become a statutory privilege of an organised minority at huge fiscal cost.
+  evidence:
+  - quote: a note from the then Finance Minister and Deputy Prime Minister Mr. Charan
+      Singh, addressed to Prime Minister Morarji Desai, opposing the grant of bonus
+      to railwaymen and other employees of Government departmental undertakings
+    context: introduces the appendix and Charan Singh's argumentative role
+  - quote: Charan Singh argues that extending bonus to railwaymen would obligate it
+      for all Central Government employees at an annual cost of about Rs.600 crores
+      against a deficit budget of Rs.1,345 crores for 1979-80
+    context: summarises the fiscal core of his case
+  - quote: Reproduces Charan Singh's June 1979 case against extending bonus to railwaymen
+      and Government departmental employees.
+    context: key-points line restating his contribution
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet, issued in Bombay on 13 August 1979, gathers two industry-side interventions in the late-Janata-era debate on labour law and union power, plus an appendix reproducing a Financial Express report on the simultaneous bonus controversy. The opening essay is an extract from Naval H. Tata's inaugural talk of 29 January 1979 at an ASSOCHAM workshop on the Industrial Relations Bill, framing labour-law reform as a human-rights issue and defending the Janata Government's Bill against trade-union opposition. The second essay reproduces P. C. Mehta's 16 April 1979 Forum lecture, 'Democracy and Labour Movement', arguing that industrial peace in a democracy must rest on law rather than trials of strength. The closing appendix carries the Finance Minister Charan Singh's June 1979 case against extending bonus to railwaymen and Government departmental employees. Together the three pieces present a coordinated employer-side and free-enterprise critique of trade-union militancy, wage-productivity drift, and bonus-as-statutory-right.

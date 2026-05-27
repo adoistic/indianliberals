@@ -2,21 +2,21 @@
 id: sir-m-visvesvaraya-a-biography-by-t-rangadasappa-1984
 title:
   main: Sir M. Visvesvaraya — A Biography
-  subtitle: ""
+  subtitle: ''
 work_type: book
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: T. RANGADASAPPA
-  - role: introduction
-    thinker: nani-palkhivala
-related_thinkers:
-  - bal-gangadhar-tilak
+- role: author
+  thinker: t-rangadasappa
+- role: introduction
+  thinker: nani-palkhivala
+related_thinkers: []
 publication:
   language: en
   publisher_id: a-d-shroff-memorial-trust
-  publisher_name: "Published by Mr. M. R. Pai, Trustee, The A. D. Shroff Memorial Trust, 'Piramal Mansion', 235 Dr. D. N. Road, Bombay 400 001."
+  publisher_name: Published by Mr. M. R. Pai, Trustee, The A. D. Shroff Memorial Trust,
+    'Piramal Mansion', 235 Dr. D. N. Road, Bombay 400 001.
   issuer_id: a-d-shroff-memorial-trust
   place: Bombay
   year: 1984
@@ -29,14 +29,32 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-development
-  - industrialization
-  - public-administration
-  - biography
-  - nation-building
-summary: "In the rendered pages, T. Rangadasappa opens a short A. D. Shroff Memorial Trust biography of Sir M. Visvesvaraya — published in 1984 to mark the engineer-statesman's 125th birth anniversary in 1985 — with front matter that frames the project in A. D. Shroff's conviction that 'a well-informed citizenry is the foundation of an enduring democracy.' N. A. Palkhivala's introduction places the volume in the Trust's series on 'the builders of modern India' and offers Visvesvaraya as an exemplar of 'absolute integrity, systematic hard work, and a total, selfless dedication to the public cause.'\n\nChapter I, 'A Many-Splendoured Life,' sketches Visvesvaraya in the rendered pages as Bharatha Ratna engineer-statesman whose principal objective was India's economic development through planned industrialisation: the Krishnarajasagar dam on the Cauvery, the block system of irrigation, the automatic sluice gates at Lake Fife, drainage and water schemes for Poona, Hyderabad, Mysore, Sukkur, Nagpur, Bijapur and Aden, and as Dewan of Mysore the founding of the University of Mysore, the Bank of Mysore, the Chamber of Commerce, the College of Engineering and the Mysore Iron and Steel Works at Bhadrava…"
+- economic-development
+- industrialization
+- public-administration
+- biography
+- nation-building
+summary: 'In the rendered pages, T. Rangadasappa opens a short A. D. Shroff Memorial
+  Trust biography of Sir M. Visvesvaraya — published in 1984 to mark the engineer-statesman''s
+  125th birth anniversary in 1985 — with front matter that frames the project in A.
+  D. Shroff''s conviction that ''a well-informed citizenry is the foundation of an
+  enduring democracy.'' N. A. Palkhivala''s introduction places the volume in the
+  Trust''s series on ''the builders of modern India'' and offers Visvesvaraya as an
+  exemplar of ''absolute integrity, systematic hard work, and a total, selfless dedication
+  to the public cause.''
+
+
+  Chapter I, ''A Many-Splendoured Life,'' sketches Visvesvaraya in the rendered pages
+  as Bharatha Ratna engineer-statesman whose principal objective was India''s economic
+  development through planned industrialisation: the Krishnarajasagar dam on the Cauvery,
+  the block system of irrigation, the automatic sluice gates at Lake Fife, drainage
+  and water schemes for Poona, Hyderabad, Mysore, Sukkur, Nagpur, Bijapur and Aden,
+  and as Dewan of Mysore the founding of the University of Mysore, the Bank of Mysore,
+  the Chamber of Commerce, the College of Engineering and the Mysore Iron and Steel
+  Works at Bhadrava…'
 needs_review: true
 draft: false
 ai:
@@ -49,8 +67,8 @@ physical:
   pages_total_source: pypdfium2
   format: Paperback booklet; free distribution to schools, colleges, libraries
 missing_metadata_flags:
-  - no_formal_toc_page
-  - later_chapters_not_in_chunk
+- no_formal_toc_page
+- later_chapters_not_in_chunk
 ---
 
 # Sir M. Visvesvaraya — A Biography

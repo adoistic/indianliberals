@@ -75,8 +75,7 @@ thinker_mentions:
       and shut up women.
     what_it_shows: Captures the core political claim of Rokeya's text as quoted in
       the episode
-- thinker_unresolved: Charlotte Perkins Gilman
-  role: mention
+- role: mention
   reasoning: Cited as a comparative reference point whose *Herland* postdates Rokeya's
     novella; not present in the authority list.
   evidence:
@@ -88,8 +87,10 @@ thinker_mentions:
       or are in charge, and it's a world free of dominance, conflict, and war.
     what_it_shows: Describes Gilman's *Herland* as a parallel feminist utopia, used
       to underline Rokeya's precedence
+  thinker: charlotte-perkins-gilman
 related_thinkers:
 - begum-rokeya
+- charlotte-perkins-gilman
 ---
 
 # IL Explainer - Ep 2 | Sultana's Dream by Begum Rokeya

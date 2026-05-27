@@ -1,33 +1,34 @@
 ---
 id: deregulation-of-savings-banks-usha-thorat-august-4-2011
 title:
-  main: "Deregulation of Savings Banks' Deposit Interest Rates"
-  subtitle: ""
+  main: Deregulation of Savings Banks' Deposit Interest Rates
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - kishori-j-udeshi
-  - s-s-tarapore
+- kishori-j-udeshi
+- s-s-tarapore
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker_unresolved: Usha Thorat
-    toc_index: 1
-  - role: author
-    thinker: kishori-j-udeshi
-    toc_index: 1
-  - role: author
-    thinker: s-s-tarapore
-    toc_index: 1
-  - role: editor
-    thinker: sunil-bhandare
-  - role: author
-    thinker_unresolved: Ashish Das
-    toc_index: 4
-related_thinkers: 
-  - l-k-jha
-  - m-r-pai
-
+- role: author
+  toc_index: 1
+  thinker: usha-thorat
+- role: author
+  thinker: kishori-j-udeshi
+  toc_index: 1
+- role: author
+  thinker: s-s-tarapore
+  toc_index: 1
+- role: editor
+  thinker: sunil-bhandare
+- role: author
+  toc_index: 4
+  thinker: ashish-das
+related_thinkers:
+- kishori-j-udeshi
+- l-k-jha
+- m-r-pai
+- s-s-tarapore
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -42,12 +43,24 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - monetary-policy
-  - economic-reform
-summary: "This Forum of Free Enterprise booklet records the panel discussion at the 7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011, hosted by the All India Bank Depositors' Association (AIBDA) and the Punjab and Maharashtra Cooperative Bank, plus three supporting annexures. Three former Deputy Governors of the Reserve Bank of India — Usha Thorat, Kishori J. Udeshi and S. S. Tarapore — respond to the RBI's April 2011 Discussion Paper on deregulation of the savings bank (SB) deposit interest rate, which had been administered at 4 per cent since May 2011 (3.5 per cent before that). All three agree that deregulation is overdue, that the question is no longer whether but when and how, and that the present moment — with inflation high and the term structure already deregulated since the 1990s — is right. They argue for a phased approach with a regulator-prescribed floor rate, uniform monthly interest application, and clear safeguards for rural, pensioner and small depositors.…"
+- banking
+- monetary-policy
+- economic-reform
+summary: This Forum of Free Enterprise booklet records the panel discussion at the
+  7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011, hosted by the
+  All India Bank Depositors' Association (AIBDA) and the Punjab and Maharashtra Cooperative
+  Bank, plus three supporting annexures. Three former Deputy Governors of the Reserve
+  Bank of India — Usha Thorat, Kishori J. Udeshi and S. S. Tarapore — respond to the
+  RBI's April 2011 Discussion Paper on deregulation of the savings bank (SB) deposit
+  interest rate, which had been administered at 4 per cent since May 2011 (3.5 per
+  cent before that). All three agree that deregulation is overdue, that the question
+  is no longer whether but when and how, and that the present moment — with inflation
+  high and the term structure already deregulated since the 1990s — is right. They
+  argue for a phased approach with a regulator-prescribed floor rate, uniform monthly
+  interest application, and clear safeguards for rural, pensioner and small depositors.…
 needs_review: true
 draft: false
 ai:
@@ -59,29 +72,38 @@ physical:
   pages_rendered: 20
   pages_total: 25
   pages_total_source: pypdfium2
-  format: stapled pamphlet booklet (Forum of Free Enterprise series); pages are scanned 2-up so printed booklet pagination runs higher than PDF page count
+  format: stapled pamphlet booklet (Forum of Free Enterprise series); pages are scanned
+    2-up so printed booklet pagination runs higher than PDF page count
 missing_metadata_flags:
-  - no_formal_toc_page
-  - no_visible_colophon_in_chunk
-  - no_explicit_publication_place
-  - no_explicit_imprint_year_on_cover_or_verso
+- no_formal_toc_page
+- no_visible_colophon_in_chunk
+- no_explicit_publication_place
+- no_explicit_imprint_year_on_cover_or_verso
 thinker_mentions:
-  - thinker: m-r-pai
-    role: mention
-    reasoning: "The panel discussion is held at the M. R. Pai Memorial Award function; Pai's consumer-rights legacy is the occasion's animating frame, and the panel's deposit-protection arguments are explicitly positioned as a continuation of his work."
-    evidence:
-      - quote: the panel discussion at the 7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011
-        context: "Pai's memory is the occasion for the deposit-deregulation debate"
-    key_passages: []
-  - thinker: l-k-jha
-    role: mention
-    reasoning: "Tarapore invokes L. K. Jha's old dictum that fair banking gives the highest possible rate to depositors and the lowest to borrowers as the normative standard by which the regulated savings-bank rate is found wanting."
-    evidence:
-      - quote: "He closes by invoking L. K. Jha's old dictum that fair banking gives the highest possible rate to depositors and the lowest possible rate to borrowers"
-        context: "Jha's dictum as former RBI Governor is the moral benchmark Tarapore uses to indict the status quo on deposit rates"
-    key_passages: []
-
+- thinker: m-r-pai
+  role: mention
+  reasoning: The panel discussion is held at the M. R. Pai Memorial Award function;
+    Pai's consumer-rights legacy is the occasion's animating frame, and the panel's
+    deposit-protection arguments are explicitly positioned as a continuation of his
+    work.
+  evidence:
+  - quote: the panel discussion at the 7th M. R. Pai Memorial Award function held
+      in Mumbai on 7 July 2011
+    context: Pai's memory is the occasion for the deposit-deregulation debate
+  key_passages: []
+- thinker: l-k-jha
+  role: mention
+  reasoning: Tarapore invokes L. K. Jha's old dictum that fair banking gives the highest
+    possible rate to depositors and the lowest to borrowers as the normative standard
+    by which the regulated savings-bank rate is found wanting.
+  evidence:
+  - quote: He closes by invoking L. K. Jha's old dictum that fair banking gives the
+      highest possible rate to depositors and the lowest possible rate to borrowers
+    context: Jha's dictum as former RBI Governor is the moral benchmark Tarapore uses
+      to indict the status quo on deposit rates
+  key_passages: []
 ---
+
 ## Summary
 
 This Forum of Free Enterprise booklet records the panel discussion at the 7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011, hosted by the All India Bank Depositors' Association (AIBDA) and the Punjab and Maharashtra Cooperative Bank, plus three supporting annexures. Three former Deputy Governors of the Reserve Bank of India — Usha Thorat, Kishori J. Udeshi and S. S. Tarapore — respond to the RBI's April 2011 Discussion Paper on deregulation of the savings bank (SB) deposit interest rate, which had been administered at 4 per cent since May 2011 (3.5 per cent before that). All three agree that deregulation is overdue, that the question is no longer whether but when and how, and that the present moment — with inflation high and the term structure already deregulated since the 1990s — is right. They argue for a phased approach with a regulator-prescribed floor rate, uniform monthly interest application, and clear safeguards for rural, pensioner and small depositors. The volume's argumentative centre is that small depositors have been silently taxed by a regulated 4 per cent ceiling against high inflation, and that market-based pricing — supervised but not capped — is the cure. Annexures I and II reproduce AIBDA's initial and revised submissions to the RBI on behalf of depositors; Annexure III, a detailed analytical paper by Prof. Ashish Das of IIT Bombay, marshals data showing persistent negative real returns on SB accounts and dissects how the changeover to daily-balance interest calculation in April 2010, far from helping savers, was offset by RBI's simultaneous cut in the prescribed rate.

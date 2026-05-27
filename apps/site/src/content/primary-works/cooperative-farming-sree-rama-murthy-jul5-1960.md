@@ -2,23 +2,22 @@
 id: cooperative-farming-sree-rama-murthy-jul5-1960
 title:
   main: Co-operative Farming
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors: []
 editors: []
 contributors:
-  - role: author
-    thinker_unresolved: Sree Rama Murthy
-    toc_index: 1
-  - role: author
-    thinker_unresolved: R. Venkata Ramana Rao
-    toc_index: 2
-  - role: author
-    thinker_unresolved: B. P. Patel
-    toc_index: 3
-related_thinkers: 
-  - vinoba-bhave
-
+- role: author
+  toc_index: 1
+  thinker: sree-rama-murthy
+- role: author
+  toc_index: 2
+  thinker: r-venkata-ramana-rao
+- role: author
+  toc_index: 3
+  thinker: b-p-patel
+related_thinkers:
+- vinoba-bhave
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -35,16 +34,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - agriculture
-  - agrarian-economy
-  - co-operatives
-  - planning-critique
-  - free-enterprise
-  - private-property
-  - state-intervention
-summary: "This 1960 Forum of Free Enterprise booklet collects the three prize-winning entries from the Forum's 1959 student essay competition on \"Co-operative Farming.\" Judged by R. V. Murthy, Prof. C. L. Gheevala of the Indian Merchants' Chamber, and M. R. Pai, the volume presents essays by Sree Rama Murthy of Chirala (first prize), R. Venkata Ramana Rao of Quilon (second), and B. P. Patel of Surat (third). All three essays converge on a sceptical verdict: although the Indian National Congress at its Nagpur session (1959) made joint co-operative farming the centrepiece of agrarian policy, the contributors argue that pooling land under joint management is economically unproven, psychologically alien to Indian peasant attachment to the soil, and impossible to introduce without coercion."
+- agriculture
+- agrarian-economy
+- co-operatives
+- planning-critique
+- free-enterprise
+- private-property
+- state-intervention
+summary: 'This 1960 Forum of Free Enterprise booklet collects the three prize-winning
+  entries from the Forum''s 1959 student essay competition on "Co-operative Farming."
+  Judged by R. V. Murthy, Prof. C. L. Gheevala of the Indian Merchants'' Chamber,
+  and M. R. Pai, the volume presents essays by Sree Rama Murthy of Chirala (first
+  prize), R. Venkata Ramana Rao of Quilon (second), and B. P. Patel of Surat (third).
+  All three essays converge on a sceptical verdict: although the Indian National Congress
+  at its Nagpur session (1959) made joint co-operative farming the centrepiece of
+  agrarian policy, the contributors argue that pooling land under joint management
+  is economically unproven, psychologically alien to Indian peasant attachment to
+  the soil, and impossible to introduce without coercion.'
 needs_review: true
 draft: false
 ai:
@@ -56,20 +65,28 @@ physical:
   pages_rendered: 14
   pages_total: 14
   pages_total_source: pypdfium2
-  format: Pamphlet/booklet; saddle-stitched FFE numbered pamphlet (No. 75), 22 printed pages over 14 PDF spreads.
+  format: Pamphlet/booklet; saddle-stitched FFE numbered pamphlet (No. 75), 22 printed
+    pages over 14 PDF spreads.
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc
+- editor_not_named
+- no_formal_toc
 thinker_mentions:
-  - thinker: vinoba-bhave
-    role: mention
-    reasoning: "B.P. Patel invokes Vinoba Bhave's decision to distribute Bhoodan lands to individual cultivators rather than collectives as a moral authority's verdict against co-operative farming — Bhave's own practice contradicting the collectivisation ideal."
-    evidence:
-      - quote: even Acharya Vinoba Bhave has chosen to distribute Bhoodan lands to landless individuals rather than to collectives
-        context: "Bhave's Bhoodan practice is used as a moral trump card against compulsory cooperative farming"
-      - quote: "Invokes Vinoba Bhave's distribution of Bhoodan land to individual cultivators as evidence that even sympathetic moral authorities reject collectivisation"
-        context: "Bhave's choice to give land to individuals rather than collectives is the essay's clinching argument"
-    key_passages: []
+- thinker: vinoba-bhave
+  role: mention
+  reasoning: B.P. Patel invokes Vinoba Bhave's decision to distribute Bhoodan lands
+    to individual cultivators rather than collectives as a moral authority's verdict
+    against co-operative farming — Bhave's own practice contradicting the collectivisation
+    ideal.
+  evidence:
+  - quote: even Acharya Vinoba Bhave has chosen to distribute Bhoodan lands to landless
+      individuals rather than to collectives
+    context: Bhave's Bhoodan practice is used as a moral trump card against compulsory
+      cooperative farming
+  - quote: Invokes Vinoba Bhave's distribution of Bhoodan land to individual cultivators
+      as evidence that even sympathetic moral authorities reject collectivisation
+    context: Bhave's choice to give land to individuals rather than collectives is
+      the essay's clinching argument
+  key_passages: []
 authors_resolution:
   confidence: low
   method: vision

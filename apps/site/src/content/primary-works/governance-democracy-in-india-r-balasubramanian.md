@@ -1,19 +1,18 @@
 ---
 id: governance-democracy-in-india-r-balasubramanian
 title:
-  main: "Governance & Democracy in India"
-  subtitle: ""
+  main: Governance & Democracy in India
+  subtitle: ''
 work_type: speech
 authors: []
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker_unresolved: Dr. R. Balasubramaniam
-  - role: editor
-    thinker: sunil-bhandare
-related_thinkers:
-  - atal-bihari-vajpayee
+- role: author
+  thinker: r-balasubramaniam
+- role: editor
+  thinker: sunil-bhandare
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -26,9 +25,23 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "Governance & Democracy in India is a Forum of Free Enterprise booklet transcribing Dr. R. Balasubramaniam's inaugural keynote address delivered in Berlin on 16 January 2019 at an event organised by the Tagore Center, Embassy of India, in association with the Indian Center for Cultural Relations, New Delhi. Speaking as a medical doctor turned grassroots development activist with three decades of work among India's poorest, Balasubramaniam argues that 'governance', 'democracy' and 'citizenship' cannot be cleanly separated — they are intricately enmeshed and only become legible at the last mile, where a tribal woman in a forest or a small entrepreneur in tier-2 Mysuru actually encounters the state.\n\nThe rendered pages develop the booklet's central diagnosis: India's deepest transition is not economic but cultural — from 'subject-hood' to 'citizen-hood', and from an 'entitlement mindset' to an 'empowerment mindset'.…"
+summary: 'Governance & Democracy in India is a Forum of Free Enterprise booklet transcribing
+  Dr. R. Balasubramaniam''s inaugural keynote address delivered in Berlin on 16 January
+  2019 at an event organised by the Tagore Center, Embassy of India, in association
+  with the Indian Center for Cultural Relations, New Delhi. Speaking as a medical
+  doctor turned grassroots development activist with three decades of work among India''s
+  poorest, Balasubramaniam argues that ''governance'', ''democracy'' and ''citizenship''
+  cannot be cleanly separated — they are intricately enmeshed and only become legible
+  at the last mile, where a tribal woman in a forest or a small entrepreneur in tier-2
+  Mysuru actually encounters the state.
+
+
+  The rendered pages develop the booklet''s central diagnosis: India''s deepest transition
+  is not economic but cultural — from ''subject-hood'' to ''citizen-hood'', and from
+  an ''entitlement mindset'' to an ''empowerment mindset''.…'
 needs_review: true
 draft: false
 ai:
@@ -39,12 +52,13 @@ physical:
   pages_rendered: 20
   pages_total: 36
   pages_total_source: pypdfium2
-  format: pamphlet/booklet (FFE-style); reprint of a keynote address sponsored by Shailesh Kapadia Memorial Trust
+  format: pamphlet/booklet (FFE-style); reprint of a keynote address sponsored by
+    Shailesh Kapadia Memorial Trust
 missing_metadata_flags:
-  - publication_year_not_printed
-  - place_of_publication_not_visible_in_chunk
-  - series_number_not_visible_in_chunk
-  - no_toc_present
+- publication_year_not_printed
+- place_of_publication_not_visible_in_chunk
+- series_number_not_visible_in_chunk
+- no_toc_present
 ---
 
 # Governance & Democracy in India

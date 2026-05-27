@@ -2,20 +2,20 @@
 id: interest-rates-an-insight-rajaram-ajgaonkar
 title:
   main: Interest Rates - An Insight
-  subtitle: ""
+  subtitle: ''
 work_type: pamphlet
 authors:
-  - rajaram-ajgaonkar
+- rajaram-ajgaonkar
 editors:
-  - sunil-bhandare
+- sunil-bhandare
 contributors:
-  - role: author
-    thinker_unresolved: Rajaram Ajgaonkar
-    toc_index: 1
-  - role: editor
-    thinker: sunil-bhandare
+- role: author
+  toc_index: 1
+  thinker: rajaram-ajgaonkar
+- role: editor
+  thinker: sunil-bhandare
 related_thinkers:
-  - a-d-shroff
+- rajaram-ajgaonkar
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
@@ -30,12 +30,26 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - banking
-  - monetary-policy
-  - inflation
-summary: "Rajaram Ajgaonkar's booklet, reproduced from the Bombay Chartered Accountants' Journal (May 2016) and reissued by the Forum of Free Enterprise, offers a primer on how interest rates are set and what their movements mean for an economy. Ajgaonkar, a Chartered Accountant, begins from first principles — interest as the price of borrowed money, alternately framed as rent for a lender, cost of capital for a business, and the cost of preponing consumption for a household — and builds outward toward the macroeconomic forces that move rates.\n\nThe central analytical block surveys the major determinants of interest rates: monetary policy and the central bank's balancing act between growth and inflation, the demand pressure exerted by the growth rate, global and local liquidity (including the way cheap money fuels and then unwinds carry trades), economic and political uncertainty, and the inflation rate itself.…"
+- banking
+- monetary-policy
+- inflation
+summary: 'Rajaram Ajgaonkar''s booklet, reproduced from the Bombay Chartered Accountants''
+  Journal (May 2016) and reissued by the Forum of Free Enterprise, offers a primer
+  on how interest rates are set and what their movements mean for an economy. Ajgaonkar,
+  a Chartered Accountant, begins from first principles — interest as the price of
+  borrowed money, alternately framed as rent for a lender, cost of capital for a business,
+  and the cost of preponing consumption for a household — and builds outward toward
+  the macroeconomic forces that move rates.
+
+
+  The central analytical block surveys the major determinants of interest rates: monetary
+  policy and the central bank''s balancing act between growth and inflation, the demand
+  pressure exerted by the growth rate, global and local liquidity (including the way
+  cheap money fuels and then unwinds carry trades), economic and political uncertainty,
+  and the inflation rate itself.…'
 needs_review: true
 draft: false
 ai:
@@ -48,18 +62,18 @@ physical:
   pages_total_source: pypdfium2
   format: FFE booklet / pamphlet (reprint of Bombay Chartered Accountant Journal article)
 missing_metadata_flags:
-  - no_formal_toc
-  - publication_year_not_printed
-  - no_publisher_address
-  - no_colophon_seen_in_chunk
+- no_formal_toc
+- publication_year_not_printed
+- no_publisher_address
+- no_colophon_seen_in_chunk
 authors_resolution:
   confidence: medium
   method: llm
   proposed_unknowns:
-    - Rajaram Ajgaonkar
+  - Rajaram Ajgaonkar
   stubs_created: []
   stubs_referenced:
-    - rajaram-ajgaonkar
+  - rajaram-ajgaonkar
   collisions_logged: []
 ---
 

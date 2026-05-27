@@ -2,27 +2,28 @@
 id: on-wage-problem-and-industrial-unrest-naval-h-tata-c-v-pavaskar-b-n-srikrishna-january-14-1982
 title:
   main: ON WAGE PROBLEM AND INDUSTRIAL UNREST
-  subtitle: ""
+  subtitle: ''
 work_type: edited_volume
 authors:
-  - naval-h-tata
+- naval-h-tata
 editors: []
 contributors:
-  - role: author
-    thinker: naval-h-tata
-    toc_index: 1
-  - role: author
-    thinker_unresolved: C. V. Pavaskar
-    toc_index: 2
-  - role: author
-    thinker_unresolved: B. N. Srikrishna
-    toc_index: 3
+- role: author
+  thinker: naval-h-tata
+  toc_index: 1
+- role: author
+  toc_index: 2
+  thinker: c-v-pavaskar
+- role: author
+  toc_index: 3
+  thinker: b-n-srikrishna
 related_thinkers:
-  - indira-gandhi
+- naval-h-tata
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY 400 001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, BOMBAY
+    400 001.
   issuer_id: forum-of-free-enterprise
   place: Bombay
 provenance:
@@ -32,9 +33,27 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes: []
-summary: "This Forum of Free Enterprise pamphlet collects three talks on India's wage structure and the deepening industrial unrest of the early 1980s, delivered by Naval H. Tata (President of The Employers' Federation of India), C. V. Pavaskar (Additional Labour Adviser, Bombay Chamber of Commerce & Industry), and the advocate B. N. Srikrishna. Each contribution speaks from a management-and-law standpoint and converges on a shared diagnosis: an ideologically driven, ad hoc state intervention regime — impounded dearness allowance, an undefined profit-sharing bonus, an eroded occupational differential, and weak conciliation machinery — has produced a wage system that is neither fair nor enforceable while militant trade unionism has displaced responsible collective bargaining.\n\nThe remedies the three speakers urge — tripartite consultation before any State labour legislation, productivity-linked bonus, faster adjudication along the lines of the Kantharia Committee, statutory recognition of unions, parity of enforcement between employer-side and union-side breaches, and a defence of collective bargaining as the primus inter pares of dispute settlement — give the volume its argumentative centr…"
+summary: 'This Forum of Free Enterprise pamphlet collects three talks on India''s
+  wage structure and the deepening industrial unrest of the early 1980s, delivered
+  by Naval H. Tata (President of The Employers'' Federation of India), C. V. Pavaskar
+  (Additional Labour Adviser, Bombay Chamber of Commerce & Industry), and the advocate
+  B. N. Srikrishna. Each contribution speaks from a management-and-law standpoint
+  and converges on a shared diagnosis: an ideologically driven, ad hoc state intervention
+  regime — impounded dearness allowance, an undefined profit-sharing bonus, an eroded
+  occupational differential, and weak conciliation machinery — has produced a wage
+  system that is neither fair nor enforceable while militant trade unionism has displaced
+  responsible collective bargaining.
+
+
+  The remedies the three speakers urge — tripartite consultation before any State
+  labour legislation, productivity-linked bonus, faster adjudication along the lines
+  of the Kantharia Committee, statutory recognition of unions, parity of enforcement
+  between employer-side and union-side breaches, and a defence of collective bargaining
+  as the primus inter pares of dispute settlement — give the volume its argumentative
+  centr…'
 needs_review: true
 draft: false
 ai:
@@ -48,10 +67,10 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet / booklet, FFE imprint; staple-bound printed pamphlet
 missing_metadata_flags:
-  - editor_not_named
-  - no_formal_toc_page
-  - publication_year_not_visible_on_rendered_pages
-  - colophon_not_in_chunk
+- editor_not_named
+- no_formal_toc_page
+- publication_year_not_visible_on_rendered_pages
+- colophon_not_in_chunk
 ---
 
 # ON WAGE PROBLEM AND INDUSTRIAL UNREST

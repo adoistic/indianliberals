@@ -5,48 +5,47 @@ title:
   subtitle: Independent Journal of Economic and Public Affairs
 work_type: periodical_issue
 authors:
-  - ma-venkata-rao
-  - m-g-hallar
-  - salvador-de-madariaga
-  - kd-valicha
+- ma-venkata-rao
+- m-g-hallar
+- salvador-de-madariaga
+- kd-valicha
 editors:
-  - kusum-lotwala
+- kusum-lotwala
 contributors:
-  - role: author
-    thinker: ma-venkata-rao
-    toc_index: 2
-  - role: author
-    thinker: m-g-hallar
-    toc_index: 3
-  - role: author
-    thinker_unresolved: Vivek
-    toc_index: 4
-  - role: author
-    thinker_unresolved: Vigilant
-    toc_index: 5
-  - role: author
-    thinker: salvador-de-madariaga
-    toc_index: 6
-  - role: author
-    thinker: kd-valicha
-    toc_index: 7
-related_thinkers: 
-  - benjamin-tucker
-  - bs-sanyal
-  - iskander-mirza
-  - jawaharlal-nehru
-  - jayaprakash-narayan
-  - kd-valicha
-  - kusum-lotwala
-  - m-g-hallar
-  - ma-venkata-rao
-  - salvador-de-madariaga
-
-
+- role: author
+  thinker: ma-venkata-rao
+  toc_index: 2
+- role: author
+  thinker: m-g-hallar
+  toc_index: 3
+- role: author
+  toc_index: 4
+  thinker: vivek
+- role: author
+  toc_index: 5
+  thinker: vigilant
+- role: author
+  thinker: salvador-de-madariaga
+  toc_index: 6
+- role: author
+  thinker: kd-valicha
+  toc_index: 7
+related_thinkers:
+- benjamin-tucker
+- bs-sanyal
+- iskander-mirza
+- jawaharlal-nehru
+- jayaprakash-narayan
+- kd-valicha
+- kusum-lotwala
+- m-g-hallar
+- ma-venkata-rao
+- salvador-de-madariaga
 publication:
   language: en
   publisher_id: the-indian-libertarian
-  publisher_name: Libertarian Publishers (Private) Ltd., 36 Durgadevi Road, Bombay 4
+  publisher_name: Libertarian Publishers (Private) Ltd., 36 Durgadevi Road, Bombay
+    4
   issuer_id: the-indian-libertarian
   place: Bombay
   year: 1957
@@ -59,20 +58,56 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - economic-policy
-  - planning-vs-markets
-  - liberal-democracy
-  - foreign-policy
-  - press-freedom
-  - elections
-summary: |
-  The Indian Libertarian, Vol. V No. 3 (1 April 1957), is a bi-monthly libertarian journal edited by Miss Kusum Lotwala and published by Libertarian Publishers (Private) Ltd., Bombay. This issue appeared immediately after India's second general elections and takes them as its central occasion: the editorial interrogates whether Congress's renewed mandate will deliver genuine democratic governance or deepen the slide toward a one-party monopoly underwritten by planning bureaucracy and press manipulation. The issue's argumentative center is the incompatibility of India's Second Five Year Plan with the liberal values the journal upholds — the Plan is variously characterised as crypto-communist, fiscally ruinous, and intellectually dishonest.
+- economic-policy
+- planning-vs-markets
+- liberal-democracy
+- foreign-policy
+- press-freedom
+- elections
+summary: 'The Indian Libertarian, Vol. V No. 3 (1 April 1957), is a bi-monthly libertarian
+  journal edited by Miss Kusum Lotwala and published by Libertarian Publishers (Private)
+  Ltd., Bombay. This issue appeared immediately after India''s second general elections
+  and takes them as its central occasion: the editorial interrogates whether Congress''s
+  renewed mandate will deliver genuine democratic governance or deepen the slide toward
+  a one-party monopoly underwritten by planning bureaucracy and press manipulation.
+  The issue''s argumentative center is the incompatibility of India''s Second Five
+  Year Plan with the liberal values the journal upholds — the Plan is variously characterised
+  as crypto-communist, fiscally ruinous, and intellectually dishonest.
 
-  M. A. Venkata Rao contributes the issue's signature polemic, "An Economic Plan or… A Communist Plot?", arguing that the Second Five Year Plan replicates Soviet central planning under democratic cover and that its insistence on State ownership of all new industrial capacity above a threshold amounts to covert nationalisation. M. G. Hallar (writing as M. G. Balier) supplies the parallel fiscal indictment, "Interim Budget / On High Road to Insolvency," contending that the planners systematically underestimate Plan costs, dress deficit financing as developmental investment, and have made foreign borrowing a badge of confidence when it is in fact a symptom of domestic resource exhaustion. The pseudonymous "Vivek" contributes "Five Questions on the Elections," a sardonic catechism that interrogates the polling-day declaration of Bombay as a Union Territory, Nehru's intervention in state campaigns, the Congress-Big Business nexus, and Jayaprakash Narayan's withdrawal from formal politics. "Vigilant" authors "West Pakistan Under the Jack-Boot of Mirza," tracing President Iskander Mirza's dismantling of parliamentary government, capture of the press, and use of the Khan Sahib ministry to suppress the Muslim League. K. D. Valicha is the issue's most prolific contributor: his satirical "Talking Through the Hat" lampoons India's foreign-policy commentariat, while the book-review section carries his full-length "Economies of Liberty" and his short note "Not a Loot Cause" defending market-rent collection as philosophically consistent with libertarian property theory.
 
-  Surrounding these essays are Salvador de Madariaga's measured critique of the Eisenhower Doctrine for misreading Arab nationalism as communism, a letters section on press and government, domestic and world news digests, and book reviews promoting libertarian titles including the R. L. Foundation's Libertarian Anthology edited by B. S. Sanyal. The issue also advertises the Libertarian Social Institute's certificate course and the R. L. Foundation's Libertarian Quarterly, signalling a wider institutional ecosystem in 1950s Bombay.
+  M. A. Venkata Rao contributes the issue''s signature polemic, "An Economic Plan
+  or… A Communist Plot?", arguing that the Second Five Year Plan replicates Soviet
+  central planning under democratic cover and that its insistence on State ownership
+  of all new industrial capacity above a threshold amounts to covert nationalisation.
+  M. G. Hallar (writing as M. G. Balier) supplies the parallel fiscal indictment,
+  "Interim Budget / On High Road to Insolvency," contending that the planners systematically
+  underestimate Plan costs, dress deficit financing as developmental investment, and
+  have made foreign borrowing a badge of confidence when it is in fact a symptom of
+  domestic resource exhaustion. The pseudonymous "Vivek" contributes "Five Questions
+  on the Elections," a sardonic catechism that interrogates the polling-day declaration
+  of Bombay as a Union Territory, Nehru''s intervention in state campaigns, the Congress-Big
+  Business nexus, and Jayaprakash Narayan''s withdrawal from formal politics. "Vigilant"
+  authors "West Pakistan Under the Jack-Boot of Mirza," tracing President Iskander
+  Mirza''s dismantling of parliamentary government, capture of the press, and use
+  of the Khan Sahib ministry to suppress the Muslim League. K. D. Valicha is the issue''s
+  most prolific contributor: his satirical "Talking Through the Hat" lampoons India''s
+  foreign-policy commentariat, while the book-review section carries his full-length
+  "Economies of Liberty" and his short note "Not a Loot Cause" defending market-rent
+  collection as philosophically consistent with libertarian property theory.
+
+
+  Surrounding these essays are Salvador de Madariaga''s measured critique of the Eisenhower
+  Doctrine for misreading Arab nationalism as communism, a letters section on press
+  and government, domestic and world news digests, and book reviews promoting libertarian
+  titles including the R. L. Foundation''s Libertarian Anthology edited by B. S. Sanyal.
+  The issue also advertises the Libertarian Social Institute''s certificate course
+  and the R. L. Foundation''s Libertarian Quarterly, signalling a wider institutional
+  ecosystem in 1950s Bombay.
+
+  '
 needs_review: true
 draft: false
 ai:
@@ -85,101 +120,164 @@ physical:
   pages_total_source: pypdfium2
   format: periodical issue, bi-monthly journal, 15 Naye Paise per copy
 missing_metadata_flags:
-  - no_issn
-  - editor_thinker_id_unresolved
+- no_issn
+- editor_thinker_id_unresolved
 thinker_mentions:
-  - thinker: kusum-lotwala
-    role: mention
-    reasoning: Lotwala is named as the editor of The Indian Libertarian, the journal whose April 1957 issue is being summarised — placing her at the institutional centre of the 1950s Bombay libertarian publishing circle.
-    evidence:
-      - quote: is a bi-monthly libertarian journal edited by Miss Kusum Lotwala and published by Libertarian Publishers (Private) Ltd., Bombay.
-        context: masthead identification of Lotwala as editor
-    key_passages: []
-  - thinker: m-g-hallar
-    role: mention
-    reasoning: "Hallar (writing as M. G. Balier) contributes 'Interim Budget / On High Road to Insolvency', a fiscal critique of the Second Five-Year Plan budget that the issue presents as evidence the planning state is driving India toward insolvency through disguised deficit financing."
-    evidence:
-      - quote: "M. G. Balier's 'Interim Budget / On High Road to Insolvency' is a fiscal critique of the government's Second Five Year Plan budget."
-        context: essay attribution — Balier is the Hallar pseudonym in the byline-lookup
-      - quote: "Balier argues that India's planners have systematically underestimated the true cost of the Plan, that deficit financing is being dressed up as developmental investment, and that the country is on a trajectory toward insolvency."
-        context: core thesis of the Balier/Hallar essay
-    key_passages: []
-  - thinker: ma-venkata-rao
-    role: mention
-    reasoning: "Venkata Rao's signature essay 'An Economic Plan or… A Communist Plot?' frames the Second Five-Year Plan as covert Soviet-style central planning, casting the liberty-vs-planning debate as a civilisational choice rather than mere technocracy."
-    evidence:
-      - quote: "M. A. Venkata Rao's 'An Economic Plan or… A Communist Plot?' is a polemical critique of India's Second Five Year Plan"
-        context: essay-level attribution — names Venkata Rao as the lead polemicist of this issue
-      - quote: "Venkata Rao contends that the Plan's architects — whom he treats as fellow-travellers of Soviet ideology — have used the planning apparatus to begin the nationalisation of the commanding heights of the economy under the guise of development."
-        context: "the essay's argumentative core"
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru figures twice in this issue: 'Vivek' questions his intervention in state elections as inappropriate use of Prime Ministerial authority, and a reader in the letters section nominates him as 'the most pathetic public figure' — both expressions of the journal's running attack on Congress-era one-party dominance."
-    evidence:
-      - quote: "whether Prime Minister Nehru's intervention in state elections is appropriate"
-        context: "Vivek's rhetorical question framing Nehru's campaigning as a misuse of office"
-      - quote: "Nehru's active campaigning in state elections is questioned as an inappropriate use of Prime Ministerial authority."
-        context: key-points restatement of the Vivek critique
-      - quote: "One reader nominates Nehru as 'the most pathetic public figure.'"
-        context: "letters-section verdict — the journal's readership openly hostile to Nehru by 1957"
-    key_passages: []
-  - thinker: jayaprakash-narayan
-    role: mention
-    reasoning: "JP appears as one of 'Vivek's' five rhetorical foils: his acknowledged political stature is cited as 'a wasted resource' outside formal politics — a sidelong critique of his Sarvodaya turn away from electoral politics."
-    evidence:
-      - quote: "whether Jayaprakash Narayan's acknowledged political stature is being wasted outside formal politics"
-        context: "Vivek's question — JP's withdrawal from electoral politics framed as a loss to liberal democratic opposition"
-      - quote: "Jayaprakash Narayan's political talent is cited as a wasted resource outside the formal party system."
-        context: key-points restatement of the JP question
-    key_passages: []
-  - thinker: iskander-mirza
-    role: mention
-    reasoning: "'Vigilant's essay on West Pakistan profiles President Mirza as having converted Pakistan's parliamentary government into a one-man authoritarian regime, with the Khan Sahib ministry as his vehicle for dismantling the Muslim League."
-    evidence:
-      - quote: "'West Pakistan Under the Jack-Boot of Mirza' by the pseudonymous 'Vigilant' analyses the consolidation of authoritarian rule in West Pakistan under President Iskander Mirza."
-        context: essay title and subject identification — Mirza as the named villain of the piece
-      - quote: The article argues that Mirza has systematically dismantled parliamentary governance, silenced the press, and used the Khan Sahib ministry as a political vehicle to suppress the Muslim League and other opposition parties.
-        context: "core indictment of Mirza's authoritarian project"
-    key_passages: []
-  - thinker: salvador-de-madariaga
-    role: mention
-    reasoning: "Madariaga contributes a measured critique of the Eisenhower Doctrine, arguing it misidentifies communism as the Middle East's primary threat when Arab nationalism is the deeper force — a classical-liberal European voice giving the journal weight beyond its Bombay milieu."
-    evidence:
-      - quote: "Salvador de Madariaga's 'The Eisenhower Doctrine' is a measured but critical analysis of the United States' Middle East policy as articulated in the Eisenhower Doctrine of early 1957."
-        context: essay attribution — Madariaga as the international liberal voice in this issue
-      - quote: "Madariaga argues that the Doctrine, while understandable as a response to Soviet expansionism, suffers from a fundamental misreading of the political energies at work in the Arab world: it treats communism as the primary threat when the deeper force is Arab nationalism and anti-colonialism."
-        context: "Madariaga's central diagnostic claim"
-    key_passages: []
-  - thinker: kd-valicha
-    role: mention
-    reasoning: "Valicha appears repeatedly across this issue — as the satirist of 'Talking Through the Hat', as a contributor on justice and freedom in the Libertarian Anthology, and as author of 'Economies of Liberty' and the 'Not a Loot Cause' note — making him one of the most prolific voices in this issue of the Bombay libertarian circle."
-    evidence:
-      - quote: "'Talking Through the Hat' by K. D. Valicha is a satirical essay on the type of ill-informed Indian pundit who holds confident opinions on every global and domestic issue while lacking the knowledge or intellectual rigour to sustain them."
-        context: "Valicha's satirical essay — attacks the self-congratulatory non-alignment commentariat"
-      - quote: a piece on justice and freedom by K. D. Valicha
-        context: "Valicha as a contributor to the Libertarian Anthology's classical-liberal canon"
-      - quote: "a review of 'ECONOMIES OF LIBERTY' by K. D. Valicha — described as a sustained argument that the collective welfare state must give way to individual liberty and market economics"
-        context: "Valicha's full-length classical-liberal book reviewed in the same issue"
-    key_passages: []
-  - thinker: bs-sanyal
-    role: mention
-    reasoning: Sanyal edits the Libertarian Anthology reviewed in this issue — the R. L. Foundation volume that the journal presents as a foundational document of the Bombay libertarian circle.
-    evidence:
-      - quote: "a review of 'LIBERTARIAN ANTHOLOGY: A Selection of Essays and Explorations,' published by the R. L. Foundation and edited by B. S. Sanyal."
-        context: Sanyal identified as the editorial architect of the anthology that the journal treats as canonical
-    key_passages: []
-  - thinker: benjamin-tucker
-    role: mention
-    reasoning: Tucker is invoked in the Libertarian Anthology review as the classical anarcho-individualist touchstone behind a piece on monopolies — a striking instance of nineteenth-century American libertarian thought being naturalised into the 1950s Bombay liberal canon.
-    evidence:
-      - quote: a piece on monopolies drawing on Benjamin Tucker
-        context: "anthology essay grounds its anti-monopoly argument in Tucker's individualist anarchism"
-      - quote: "Benjamin Tucker is invoked in the anthology's treatment of monopoly — a classical anarcho-individualist touchstone being cited approvingly in an Indian liberal context."
-        context: key-points restatement explicitly framing the cross-cultural transmission
-    key_passages: []
-
+- thinker: kusum-lotwala
+  role: mention
+  reasoning: Lotwala is named as the editor of The Indian Libertarian, the journal
+    whose April 1957 issue is being summarised — placing her at the institutional
+    centre of the 1950s Bombay libertarian publishing circle.
+  evidence:
+  - quote: is a bi-monthly libertarian journal edited by Miss Kusum Lotwala and published
+      by Libertarian Publishers (Private) Ltd., Bombay.
+    context: masthead identification of Lotwala as editor
+  key_passages: []
+- thinker: m-g-hallar
+  role: mention
+  reasoning: Hallar (writing as M. G. Balier) contributes 'Interim Budget / On High
+    Road to Insolvency', a fiscal critique of the Second Five-Year Plan budget that
+    the issue presents as evidence the planning state is driving India toward insolvency
+    through disguised deficit financing.
+  evidence:
+  - quote: M. G. Balier's 'Interim Budget / On High Road to Insolvency' is a fiscal
+      critique of the government's Second Five Year Plan budget.
+    context: essay attribution — Balier is the Hallar pseudonym in the byline-lookup
+  - quote: Balier argues that India's planners have systematically underestimated
+      the true cost of the Plan, that deficit financing is being dressed up as developmental
+      investment, and that the country is on a trajectory toward insolvency.
+    context: core thesis of the Balier/Hallar essay
+  key_passages: []
+- thinker: ma-venkata-rao
+  role: mention
+  reasoning: Venkata Rao's signature essay 'An Economic Plan or… A Communist Plot?'
+    frames the Second Five-Year Plan as covert Soviet-style central planning, casting
+    the liberty-vs-planning debate as a civilisational choice rather than mere technocracy.
+  evidence:
+  - quote: M. A. Venkata Rao's 'An Economic Plan or… A Communist Plot?' is a polemical
+      critique of India's Second Five Year Plan
+    context: essay-level attribution — names Venkata Rao as the lead polemicist of
+      this issue
+  - quote: Venkata Rao contends that the Plan's architects — whom he treats as fellow-travellers
+      of Soviet ideology — have used the planning apparatus to begin the nationalisation
+      of the commanding heights of the economy under the guise of development.
+    context: the essay's argumentative core
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: 'Nehru figures twice in this issue: ''Vivek'' questions his intervention
+    in state elections as inappropriate use of Prime Ministerial authority, and a
+    reader in the letters section nominates him as ''the most pathetic public figure''
+    — both expressions of the journal''s running attack on Congress-era one-party
+    dominance.'
+  evidence:
+  - quote: whether Prime Minister Nehru's intervention in state elections is appropriate
+    context: Vivek's rhetorical question framing Nehru's campaigning as a misuse of
+      office
+  - quote: Nehru's active campaigning in state elections is questioned as an inappropriate
+      use of Prime Ministerial authority.
+    context: key-points restatement of the Vivek critique
+  - quote: One reader nominates Nehru as 'the most pathetic public figure.'
+    context: letters-section verdict — the journal's readership openly hostile to
+      Nehru by 1957
+  key_passages: []
+- thinker: jayaprakash-narayan
+  role: mention
+  reasoning: 'JP appears as one of ''Vivek''s'' five rhetorical foils: his acknowledged
+    political stature is cited as ''a wasted resource'' outside formal politics —
+    a sidelong critique of his Sarvodaya turn away from electoral politics.'
+  evidence:
+  - quote: whether Jayaprakash Narayan's acknowledged political stature is being wasted
+      outside formal politics
+    context: Vivek's question — JP's withdrawal from electoral politics framed as
+      a loss to liberal democratic opposition
+  - quote: Jayaprakash Narayan's political talent is cited as a wasted resource outside
+      the formal party system.
+    context: key-points restatement of the JP question
+  key_passages: []
+- thinker: iskander-mirza
+  role: mention
+  reasoning: '''Vigilant''s essay on West Pakistan profiles President Mirza as having
+    converted Pakistan''s parliamentary government into a one-man authoritarian regime,
+    with the Khan Sahib ministry as his vehicle for dismantling the Muslim League.'
+  evidence:
+  - quote: '''West Pakistan Under the Jack-Boot of Mirza'' by the pseudonymous ''Vigilant''
+      analyses the consolidation of authoritarian rule in West Pakistan under President
+      Iskander Mirza.'
+    context: essay title and subject identification — Mirza as the named villain of
+      the piece
+  - quote: The article argues that Mirza has systematically dismantled parliamentary
+      governance, silenced the press, and used the Khan Sahib ministry as a political
+      vehicle to suppress the Muslim League and other opposition parties.
+    context: core indictment of Mirza's authoritarian project
+  key_passages: []
+- thinker: salvador-de-madariaga
+  role: mention
+  reasoning: Madariaga contributes a measured critique of the Eisenhower Doctrine,
+    arguing it misidentifies communism as the Middle East's primary threat when Arab
+    nationalism is the deeper force — a classical-liberal European voice giving the
+    journal weight beyond its Bombay milieu.
+  evidence:
+  - quote: Salvador de Madariaga's 'The Eisenhower Doctrine' is a measured but critical
+      analysis of the United States' Middle East policy as articulated in the Eisenhower
+      Doctrine of early 1957.
+    context: essay attribution — Madariaga as the international liberal voice in this
+      issue
+  - quote: 'Madariaga argues that the Doctrine, while understandable as a response
+      to Soviet expansionism, suffers from a fundamental misreading of the political
+      energies at work in the Arab world: it treats communism as the primary threat
+      when the deeper force is Arab nationalism and anti-colonialism.'
+    context: Madariaga's central diagnostic claim
+  key_passages: []
+- thinker: kd-valicha
+  role: mention
+  reasoning: Valicha appears repeatedly across this issue — as the satirist of 'Talking
+    Through the Hat', as a contributor on justice and freedom in the Libertarian Anthology,
+    and as author of 'Economies of Liberty' and the 'Not a Loot Cause' note — making
+    him one of the most prolific voices in this issue of the Bombay libertarian circle.
+  evidence:
+  - quote: '''Talking Through the Hat'' by K. D. Valicha is a satirical essay on the
+      type of ill-informed Indian pundit who holds confident opinions on every global
+      and domestic issue while lacking the knowledge or intellectual rigour to sustain
+      them.'
+    context: Valicha's satirical essay — attacks the self-congratulatory non-alignment
+      commentariat
+  - quote: a piece on justice and freedom by K. D. Valicha
+    context: Valicha as a contributor to the Libertarian Anthology's classical-liberal
+      canon
+  - quote: a review of 'ECONOMIES OF LIBERTY' by K. D. Valicha — described as a sustained
+      argument that the collective welfare state must give way to individual liberty
+      and market economics
+    context: Valicha's full-length classical-liberal book reviewed in the same issue
+  key_passages: []
+- thinker: bs-sanyal
+  role: mention
+  reasoning: Sanyal edits the Libertarian Anthology reviewed in this issue — the R.
+    L. Foundation volume that the journal presents as a foundational document of the
+    Bombay libertarian circle.
+  evidence:
+  - quote: 'a review of ''LIBERTARIAN ANTHOLOGY: A Selection of Essays and Explorations,''
+      published by the R. L. Foundation and edited by B. S. Sanyal.'
+    context: Sanyal identified as the editorial architect of the anthology that the
+      journal treats as canonical
+  key_passages: []
+- thinker: benjamin-tucker
+  role: mention
+  reasoning: Tucker is invoked in the Libertarian Anthology review as the classical
+    anarcho-individualist touchstone behind a piece on monopolies — a striking instance
+    of nineteenth-century American libertarian thought being naturalised into the
+    1950s Bombay liberal canon.
+  evidence:
+  - quote: a piece on monopolies drawing on Benjamin Tucker
+    context: anthology essay grounds its anti-monopoly argument in Tucker's individualist
+      anarchism
+  - quote: Benjamin Tucker is invoked in the anthology's treatment of monopoly — a
+      classical anarcho-individualist touchstone being cited approvingly in an Indian
+      liberal context.
+    context: key-points restatement explicitly framing the cross-cultural transmission
+  key_passages: []
 ---
+
 ## Summary
 
 The Indian Libertarian, Vol. V No. 3 (1 April 1957), is a bi-monthly libertarian journal edited by Miss Kusum Lotwala and published by Libertarian Publishers (Private) Ltd., Bombay. This issue appeared immediately after India's second general elections and takes them as its central occasion: the editorial interrogates whether Congress's renewed mandate will deliver genuine democratic governance or deepen the slide toward a one-party monopoly underwritten by planning bureaucracy and press manipulation. The issue's argumentative center is the incompatibility of India's Second Five Year Plan with the liberal values the journal upholds — the Plan is variously characterised as crypto-communist, fiscally ruinous, and intellectually dishonest. Surrounding that core are articles on West Pakistan's authoritarian deterioration under President Mirza, a sharp critique of the Eisenhower Doctrine by Salvador de Madariaga, a polemic against India's foreign-policy establishment, a letters section on the role of press and government, domestic and world news digests, and book reviews promoting libertarian titles. The issue also advertises the Libertarian Social Institute's certificate course and the R. L. Foundation's Libertarian Quarterly, signalling a wider institutional ecosystem in 1950s Bombay.
