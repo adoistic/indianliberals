@@ -104,33 +104,25 @@ Goal: regenerate manifest, apply only the `exact,high` tier rows, commit the thr
 - Touch: `data/pdf-link-manifest.tsv` (regenerated)
 - Touch: `data/pdf-link-misses.tsv` (regenerated)
 
-- [ ] **Step 1.1.1: Run match-pdfs.py**
+- [ ] **Step 1.1.1: Run match-pdfs.py and capture the log**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-.venv-extract/bin/python3 scripts/synthesis/match-pdfs.py 2>&1 | tail -20
-# Expected stdout (approx): "Wrote N rows to data/pdf-link-manifest.tsv" + "M misses to data/pdf-link-misses.tsv"
+.venv-extract/bin/python3 scripts/synthesis/match-pdfs.py 2>&1 | tee /tmp/v1.5-readiness-match.log | tail -10
+# Expected stdout includes a line like:
+#   match-pdfs: N exact, M high, K medium, P page-only, Q misses (T total).
+# plus "manifest.tsv: N rows (...)" and "misses.tsv: M rows (...)".
 ```
 
-- [ ] **Step 1.1.2: Inspect the manifest summary**
+- [ ] **Step 1.1.2: Read the tier counts from the match summary line**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-awk -F'\t' 'NR>1 {print $1}' data/pdf-link-manifest.tsv | sort | uniq -c | sort -rn
-# Expected output: counts of `exact`, `high`, `medium`, `page-only` rows.
-# Record the `exact` + `high` total — that's what Stream A will apply.
-# Note: column 1 is the confidence tier; column 2 is md_slug, etc. Adjust the awk if the
-# column ordering has changed (see `head -1 data/pdf-link-manifest.tsv` for headers).
-```
-
-- [ ] **Step 1.1.3: Inspect manifest header to confirm column layout**
-
-```bash
-cd "/Users/siraj/Indian Liberals Website"
-head -1 data/pdf-link-manifest.tsv
-# Expected: a header row with column names. The exact names are documented in
-# scripts/synthesis/match-pdfs.py. If the column ordering differs from
-# `confidence \t md_slug \t pdf_url \t ...`, update the awk in Step 1.1.2 accordingly.
+grep "^match-pdfs:" /tmp/v1.5-readiness-match.log
+# Expected: the one summary line printed by match-pdfs.py. The numbers
+# in that line are the tier counts; sum `exact + high` mentally — that's
+# what Stream A's apply step targets. (Most of those are existing MDs that
+# already have pdf_url and will be no-ops; only new-MD rows actually mutate.)
 ```
 
 ### Task 1.2: Dry-run apply
@@ -145,19 +137,24 @@ cd "/Users/siraj/Indian Liberals Website"
 .venv-extract/bin/python3 scripts/synthesis/apply-pdf-urls.py \
   --dry-run --only-confidence exact,high \
   2>&1 | tee /tmp/v1.5-readiness-dryrun.log | tail -30
-# Expected: a list of "would insert pdf_url: <URL> into <slug>.md" lines + a final summary
-# "N inserted, M skipped (already had pdf_url), P skipped (no frontmatter)".
-# Record N — the apply count.
+# Expected: a list of "  [inserted] <slug>: (none) → pdf_url: <URL>" lines
+# (one per row that would mutate) plus a tail block:
+#     statuses:
+#       inserted: N
+#       skip-existing: M
+#       skip-no-frontmatter: P
+# Record N (the "inserted: N" line) — that's the apply count.
 ```
 
-- [ ] **Step 1.2.2: Sanity check — pick 3 random "would insert" entries and verify the URL renders a PDF**
+- [ ] **Step 1.2.2: Sanity check — pick 3 random would-insert entries and eyeball the URLs**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-grep "would insert" /tmp/v1.5-readiness-dryrun.log | shuf -n 3
-# Manually (or via curl -sI) verify each URL looks like a real prod URL ending in .pdf or a
-# tracked redirect. If any URL looks malformed (e.g., empty path, doubled slashes),
-# STOP and surface — the manifest may have a bug.
+grep '\[inserted\]' /tmp/v1.5-readiness-dryrun.log | shuf -n 3
+# The lines have the form "  [inserted] <slug>: (none) → pdf_url: <URL>".
+# Manually (or via curl -sI) verify each URL looks like a real prod URL
+# ending in .pdf or a tracked redirect. If any URL looks malformed (e.g.,
+# empty path, doubled slashes), STOP and surface — the manifest may have a bug.
 ```
 
 ### Task 1.3: Apply + commit + push
@@ -167,15 +164,19 @@ grep "would insert" /tmp/v1.5-readiness-dryrun.log | shuf -n 3
 - Modify: `data/pdf-link-manifest.tsv` (committed for review surface)
 - Modify: `data/pdf-link-misses.tsv` (committed for review surface)
 
-- [ ] **Step 1.3.1: Apply (real, no --dry-run)**
+- [ ] **Step 1.3.1: Apply (real, no --dry-run). Use --no-commit so this plan's own commit step is the source of truth**
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
 .venv-extract/bin/python3 scripts/synthesis/apply-pdf-urls.py \
-  --only-confidence exact,high \
-  2>&1 | tee /tmp/v1.5-readiness-apply.log | tail -10
-# Expected: "N inserted" matches Step 1.2.1's count.
-APPLIED_N=$(grep -oE "[0-9]+ inserted" /tmp/v1.5-readiness-apply.log | head -1 | awk '{print $1}')
+  --only-confidence exact,high --no-commit \
+  2>&1 | tee /tmp/v1.5-readiness-apply.log | tail -15
+# Expected tail: a "statuses:" block with "  inserted: N" matching Step 1.2.1's N.
+# --no-commit suppresses the script's built-in auto-commit (which would otherwise
+# stage + commit with the message "data(primary-works): populate pdf_url from prod
+# indianliberals.in (N=...)"). We re-commit with our own message in Step 1.3.3.
+APPLIED_N=$(grep -E "^\s+inserted:" /tmp/v1.5-readiness-apply.log | head -1 | awk '{print $2}')
+APPLIED_N=${APPLIED_N:-0}
 echo "APPLIED_N=$APPLIED_N"
 ```
 
@@ -195,10 +196,20 @@ git status --short | head -20
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-git commit -m "data(primary-works): apply ${APPLIED_N:?} high-confidence pdf_urls from prod reconciliation"
+if [ "${APPLIED_N:-0}" -gt 0 ]; then
+  git commit -m "data(primary-works): apply ${APPLIED_N} high-confidence pdf_urls from prod reconciliation"
+else
+  # No MDs mutated. The manifest TSVs may still have changed (they're regenerated every run);
+  # if `git diff --cached --quiet` is non-zero, we still want a commit for the TSV refresh.
+  if ! git diff --cached --quiet; then
+    git commit -m "data(synthesis): regenerate pdf-link-manifest.tsv (0 high-confidence applies)"
+  else
+    echo "(nothing to commit — Stream A was a no-op including TSVs)"
+  fi
+fi
 ```
 
-If `APPLIED_N` is 0 (no high-confidence matches were available), do NOT make an empty commit. Skip Step 1.3.3 entirely, surface "Stream A applied 0" in the findings doc, and proceed to Chunk 2.
+If `APPLIED_N` is 0, the findings doc reports "Stream A applied 0"; proceed to Chunk 2 regardless of whether a TSV-only commit landed.
 
 - [ ] **Step 1.3.4: Rebase + push**
 
@@ -242,14 +253,19 @@ echo "PAGE_COUNT=$PAGE_COUNT"
 
 ```bash
 cd "/Users/siraj/Indian Liberals Website"
-# Pick the first MD touched by the apply step
-SAMPLE_SLUG=$(grep -oE "would insert.*into [a-z0-9-]+\.md" /tmp/v1.5-readiness-dryrun.log \
-  | head -1 | grep -oE "[a-z0-9-]+\.md$" | sed 's/\.md$//')
+# Pick the first slug touched by the apply step. The dry-run log lines look like:
+#   "  [inserted] <slug>: (none) → pdf_url: <URL>"
+SAMPLE_SLUG=$(grep '\[inserted\]' /tmp/v1.5-readiness-dryrun.log \
+  | head -1 | sed -E 's/^[[:space:]]*\[inserted\][[:space:]]+([a-z0-9-]+):.*/\1/')
 echo "checking: $SAMPLE_SLUG"
-grep "^pdf_url:" "apps/site/src/content/primary-works/${SAMPLE_SLUG}.md"
-# Expected: pdf_url: https://indianliberals.in/.../.pdf
-grep -c "Read PDF\|pdf_url\|href.*\.pdf" "apps/site/dist/primary-works/${SAMPLE_SLUG}/index.html"
-# Expected: ≥ 1 (the "Read PDF" button is rendered).
+if [ -z "$SAMPLE_SLUG" ]; then
+  echo "(no inserts to spot-check — Stream A was a no-op)"
+else
+  grep "^pdf_url:" "apps/site/src/content/primary-works/${SAMPLE_SLUG}.md"
+  # Expected: pdf_url: https://indianliberals.in/.../.pdf
+  grep -c "Read PDF\|pdf_url\|href.*\.pdf" "apps/site/dist/primary-works/${SAMPLE_SLUG}/index.html"
+  # Expected: ≥ 1 (the "Read PDF" button is rendered).
+fi
 ```
 
 ---
@@ -1053,6 +1069,34 @@ echo "SNAPSHOT_SHA=$SNAPSHOT_SHA"
 # This is the SHA the findings doc cites as "the state of the corpus at audit time."
 ```
 
+- [ ] **Step 4.1.1b: Re-verify Stream B's "53/53 resolve" claim before quoting it**
+
+The Stream B finding was pre-computed during brainstorming. New MDs may have landed since (the extraction pipeline is still running), which could introduce new thinker slugs.
+
+```bash
+cd "/Users/siraj/Indian Liberals Website"
+SLUGS=$(git log --diff-filter=A --name-only --pretty=format: b6be9fe..HEAD \
+  -- apps/site/src/content/primary-works/ \
+  | grep '\.md$' | sort -u \
+  | xargs awk '/^related_thinkers:/{flag=1;next} flag && /^[a-z_]+:/{flag=0} flag && /^  - /{gsub(/^  - /,""); print}' \
+  | sort -u)
+NEW_MD_N=$(git log --diff-filter=A --name-only --pretty=format: b6be9fe..HEAD \
+  -- apps/site/src/content/primary-works/ | grep -c '\.md$')
+TOTAL_SLUGS=$(echo "$SLUGS" | grep -c .)
+MISSING=$(for s in $SLUGS; do [ -f "apps/site/src/content/thinkers/$s.md" ] || echo "$s"; done | wc -l | tr -d ' ')
+RESOLVED=$((TOTAL_SLUGS - MISSING))
+echo "NEW_MD_N=$NEW_MD_N"
+echo "TOTAL_SLUGS=$TOTAL_SLUGS"
+echo "RESOLVED=$RESOLVED"
+echo "MISSING=$MISSING"
+# If MISSING > 0, list them so the findings doc can name them:
+if [ "$MISSING" -gt 0 ]; then
+  echo "--- missing slugs (no thinker MD) ---"
+  for s in $SLUGS; do [ -f "apps/site/src/content/thinkers/$s.md" ] || echo "$s"; done
+fi
+# Use the live numbers in the findings doc — NOT the brainstorming-time "53/53".
+```
+
 - [ ] **Step 4.1.2: Extract summary numbers from the Stream-C and Stream-D logs**
 
 ```bash
@@ -1064,7 +1108,9 @@ echo "=== Stream D summary ==="
 sed -n '1,15p' /tmp/v1.5-readiness-stream-d.log
 echo
 echo "=== Stream A apply count ==="
-grep -E "[0-9]+ inserted" /tmp/v1.5-readiness-apply.log 2>/dev/null || echo "(no apply log — Stream A was a no-op)"
+grep -E "^\s+(inserted|skip-existing|skip-no-frontmatter|replaced):" \
+  /tmp/v1.5-readiness-apply.log 2>/dev/null \
+  || echo "(no apply log — Stream A was a no-op)"
 ```
 
 - [ ] **Step 4.1.3: Author the findings doc**
@@ -1089,8 +1135,10 @@ Create `docs/handoffs/2026-05-27-content-readiness-pass-1.md`. Use this template
 
 ## Stream B — New thinker slugs
 
-- **0 new thinker stubs created.**
-- Distinct slugs referenced by the new MDs: **53**; all 53 resolve to existing thinker files under `apps/site/src/content/thinkers/`.
+- **0 new thinker stubs created** (the extraction pipeline emits primary-works only; thinker stubs come from the byline-resolution pipeline, which has not been re-run for this batch).
+- Distinct thinker slugs referenced by the **<NEW_MD_N>** new MDs: **<TOTAL_SLUGS>**.
+- Resolved to existing thinker files: **<RESOLVED>**.
+- Missing (no thinker file): **<MISSING>**. <If MISSING > 0, list the slugs and add to the follow-ups section as "create thinker stubs for: ...".>
 
 ## Stream C — Cross-reference drift (new MDs only)
 
