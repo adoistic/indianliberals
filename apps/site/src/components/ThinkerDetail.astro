@@ -58,7 +58,8 @@ const { Content } = await render(t);
 //   author  — this thinker WROTE the entry (musings, primary-works,
 //             theprint-mirror, opinions with a thinker-author)
 //   subject — the entry is ABOUT this thinker (opinions w/ `subject`,
-//             interviews w/ `subject`)
+//             interviews where this thinker is the interviewee — formerly
+//             `subject`, now stored in `authors[0]` post-migration)
 //   mention — appears in related_thinkers but is neither author nor
 //             subject. Phase B will populate these from in-prose NER.
 
@@ -86,7 +87,11 @@ function mentionFor(entry: { data: { thinker_mentions?: Array<any> } }, id: stri
 }
 
 // ─── Author role: works/pieces the thinker WROTE ─────────────────────
+// Excludes interviews — the interviewee is in `authors[0]` for schema-fit
+// reasons but conceptually they're the subject, not the author. Interviews
+// are rendered separately in the "About this thinker" section below.
 const worksByThisThinker = allWorks
+  .filter((w) => w.data.work_type !== "interview")
   .filter((w) =>
     (w.data.authors ?? []).some((a) => refMatches(a, t.id)) ||
     (w.data.contributors ?? []).some((c) => refMatches(c.thinker, t.id)),
@@ -432,7 +437,7 @@ const bioSourceLabel =
                 {interviewsAbout.map((i) => (
                   <li>
                     <a href={`/primary-works/${i.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {typeof i.data.title === "string" ? i.data.title : i.data.title?.en ?? i.id}
+                      {typeof i.data.title === "string" ? i.data.title : i.data.title?.main ?? i.id}
                     </a>
                   </li>
                 ))}
