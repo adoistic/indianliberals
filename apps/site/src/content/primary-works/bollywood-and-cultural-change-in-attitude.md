@@ -10,13 +10,13 @@ publication:
   language: en
   year: 2020
 themes:
-- bollywood-and-cinema
+- bollywood
 - cultural-change
-- attitudes-to-business
-- commerce-and-profit
-- economic-liberalisation
+- attitudes-toward-business
+- commerce-and-society
 - individualism-vs-collectivism
-- nehruvian-development
+- economic-liberalization
+- ideology-in-cinema
 needs_review: true
 draft: false
 transcript_status: complete
@@ -28,36 +28,41 @@ description: In this [#IndianLiberals](https://www.youtube.com/results?search_qu
 provenance:
   source: ccs_archive
   scan_quality: unknown
-summary: 'Economist Nimish Adhia traces a cultural shift in Bollywood between the
-  1950s–60s and the 1980s–90s. In the earlier period, heroes were never businessmen
-  — they were pandits, jailers, poets, tour guides — while businessmen were almost
-  inevitably cast as villains, reflecting a deep social suspicion of commerce and
-  profit as zero-sum, antisocial activity. By the 1980s and 1990s, heroes were openly
-  depicted as businessmen, signaling a broader ideological change in which commerce
-  came to be seen as legitimate and socially beneficial.
+summary: 'In this short monologue, Nimish Adhia analyzes how Bollywood films of the
+  1950s and 1960s reflected a deep cultural suspicion of business and commerce in
+  India. Heroes of that era were pandits, jailers, poets, philosophers, or tour guides
+  — never businessmen — while businessmen were almost always cast as villains, reflecting
+  an underlying belief that trade was a zero-sum game and that profit-making was antisocial.
 
 
-  Adhia argues that films did not drive ideology but mirrored it. A second cultural
-  shift he identifies is the decline of the Nehruvian framework in which national-development
-  goals as defined by leaders trumped individual desires — for earning, for consumption,
-  for imported goods. The 1980s–90s brought a more rebellious mood in which individual
-  pursuit of happiness gained legitimacy against the older logic of suppression for
-  the collective good.'
+  Adhia argues that the 1980s and 1990s brought a dramatic shift: heroes were now
+  openly portrayed as businessmen, signaling that commerce was no longer seen as dirty
+  but as something worthy of a protagonist. He frames this as evidence of a broader
+  change in Indian ideology — a recognition that commerce can benefit society as a
+  whole rather than only individuals.
+
+
+  He identifies a second, related cultural change: in the earlier era, the needs of
+  the nation-state as defined by national leaders trumped individual desires, and
+  people endured the suppression of their wants (such as consumption of imported goods
+  or pursuit of profit) for the sake of national economic planning. By the 1980s and
+  1990s, individuals became more rebellious and the personal pursuit of happiness
+  gained legitimacy.'
 key_points:
-- In 1950s–60s Bollywood, heroes were pandits, poets, jailers, or tour guides — never
-  businessmen.
-- Businessmen characters in that era were almost always cast as villains, reflecting
-  suspicion of commerce.
-- The underlying belief framed trade and profit as a zero-sum game where one person's
-  gain was another's loss.
-- By the 1980s–90s, heroes were increasingly depicted as businessmen, marking a dramatic
-  ideological shift.
-- 'Films reflected rather than drove this change: commerce came to be seen as benefiting
-  society as a whole.'
-- 'A parallel shift: national-development priorities as defined by leaders previously
-  overrode individual desires for income, consumption, or imported goods.'
-- By the 1980s–90s, individual pursuit of happiness gained legitimacy and people grew
-  more rebellious against suppression of personal desire.
+- In Bollywood films of the 1950s–60s, heroes were never businessmen; businessmen
+  were almost inevitably cast as villains.
+- The underlying ideology treated commerce and profit-making as antisocial and as
+  a zero-sum game where one's gain was another's loss.
+- Heroes of that era were typically pandits, Joshis, jailers, poets, philosophers,
+  or tour guides — non-commercial roles.
+- In the 1980s and 1990s, films began featuring businessmen as heroes, a dramatic
+  shift reflecting changed cultural beliefs.
+- Films did not have a tryst with any particular ideology but mirrored ideological
+  shifts in Indian society.
+- Earlier, national-state goals as defined by leaders were prioritized over individual
+  desires like consumption of imported goods or business earnings.
+- By the 1980s–90s, individuals became more rebellious and the pursuit of personal
+  happiness was seen as legitimate.
 thinker_mentions: []
 related_thinkers: []
 ---

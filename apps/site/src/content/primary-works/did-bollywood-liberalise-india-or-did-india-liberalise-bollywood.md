@@ -9,15 +9,53 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- bollywood-and-liberalisation
+- cinema-and-society
+- economic-liberalisation
+- portrayal-of-business
+- cultural-feedback-loops
+- indian-cinema-history
+- public-attitudes-to-capitalism
 needs_review: true
 draft: false
 transcript_status: complete
 youtube_url: https://www.youtube.com/watch?v=lqoEQS_LJPI
-description: In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Nimish Adhia answers the crucial question surrounding India's liberalisation and highlights the interplay between Bollywood, Indian society and the economy.
+description: In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals)
+  monologue, Nimish Adhia answers the crucial question surrounding India's liberalisation
+  and highlights the interplay between Bollywood, Indian society and the economy.
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'In this short monologue, Nimish Adhia reflects on the relationship between
+  Bollywood films and India''s economic liberalisation, arguing that the influence
+  ran in both directions. He suggests that liberal ideas in films reflected shifts
+  in Indian society while also reinforcing them, creating a self-sustaining feedback
+  loop rather than a one-way causal arrow.
+
+
+  Adhia illustrates the shift by contrasting cinematic portrayals of businessmen across
+  eras: in 1970s films like Amitabh Bachchan''s Zanjeer, the prevailing sentiment
+  was that ''all businesses are shady,'' while 1990s Yash Chopra-Karan Johar films
+  depicted wealthy business owners as virtuous, kind employers and devoted family
+  men. He argues this 360-degree shift in moral framing of business people mirrors—and
+  helps shape—the kind of economic policies a society is willing to embrace.'
+key_points:
+- Bollywood and Indian society liberalised each other in a self-reinforcing loop rather
+  than one causing the other
+- Filmmakers were not consciously pushing ideology but responding to what audiences
+  wanted to see
+- Self-sacrifice themes stopped selling, prompting experimentation with new themes
+  more aligned with changing sensibilities
+- 1970s films like Zanjeer reflected the popular view that 'all businesses are shady'
+- 1990s Yash Chopra-Karan Johar films portrayed wealthy businessmen as virtuous, moral,
+  and kind to employees and family
+- The cinematic moral rehabilitation of business people parallels India's openness
+  to liberal economic policies
+- If a society believes businessmen are inherently evil, it will not adopt liberal
+  economic policies
+thinker_mentions: []
+related_thinkers: []
 ---
 
 # Did Bollywood Liberalise India or Did India Liberalise Bollywood?
