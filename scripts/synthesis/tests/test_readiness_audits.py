@@ -115,3 +115,83 @@ def test_case_insensitive_match(tmp_path):
     idx = _idx(ThinkerInfo(slug="milton-friedman", canonical="Milton Friedman"))
     d = cross_refs._check_md(md, idx)
     assert d.slugs_not_in_prose == []
+
+
+# -------- audit-thinkers-without-quotes.py tests --------
+
+quotes_audit = _load("audit-thinkers-without-quotes")
+
+
+def test_count_single_quote():
+    """One MD with one evidence quote for thinker X → X has count 1."""
+    text = (
+        "---\n"
+        "id: foo\n"
+        "thinker_mentions:\n"
+        "  - thinker: adam-smith\n"
+        "    role: mention\n"
+        "    evidence:\n"
+        "      - quote: \"He cites Smith on the division of labour.\"\n"
+        "        context: ctx\n"
+        "---\n"
+    )
+    mentions = quotes_audit._extract_mentions(text)
+    assert mentions == [("adam-smith", 1)]
+
+
+def test_count_multiple_quotes_same_thinker():
+    """One MD with three evidence quotes for X → X has count 3."""
+    text = (
+        "---\n"
+        "id: foo\n"
+        "thinker_mentions:\n"
+        "  - thinker: adam-smith\n"
+        "    evidence:\n"
+        "      - quote: q1\n"
+        "      - quote: q2\n"
+        "      - quote: q3\n"
+        "---\n"
+    )
+    mentions = quotes_audit._extract_mentions(text)
+    assert mentions == [("adam-smith", 3)]
+
+
+def test_skip_empty_thinker_mentions():
+    """MD with empty thinker_mentions: [] → contributes nothing."""
+    text = (
+        "---\n"
+        "id: foo\n"
+        "thinker_mentions: []\n"
+        "---\n"
+    )
+    assert quotes_audit._extract_mentions(text) == []
+
+
+def test_skip_malformed_md():
+    """MD with malformed YAML → returns [], doesn't crash."""
+    text = "---\nid: foo\nthinker_mentions: [unclosed list\n---\n"
+    assert quotes_audit._extract_mentions(text) == []
+
+
+def test_format_report_sort_by_canon_status():
+    """canonical entries listed in their own section above referenced entries."""
+    from collections import Counter
+    canon = {
+        "a-canonical-no-quotes": {"canon_status": "canonical", "canonical_name": "Alpha Canon"},
+        "b-canonical-with-quotes": {"canon_status": "canonical", "canonical_name": "Beta Canon"},
+        "c-referenced-no-quotes": {"canon_status": "referenced", "canonical_name": "Gamma Ref"},
+        "d-stub-no-quotes": {"canon_status": "stub", "canonical_name": "Delta Stub"},
+    }
+    inverted: Counter = Counter({"b-canonical-with-quotes": 2})
+    report = quotes_audit._format_report(canon, inverted)
+    # Canonical-zero block precedes referenced-zero block in the output.
+    canonical_idx = report.index("Canonical thinkers with zero quotes")
+    referenced_idx = report.index("Referenced thinkers with zero quotes")
+    assert canonical_idx < referenced_idx
+    # Beta Canon (the one WITH quotes) should NOT appear in either zero list.
+    canonical_zero_section = report[canonical_idx:referenced_idx]
+    assert "b-canonical-with-quotes" not in canonical_zero_section
+    assert "a-canonical-no-quotes" in canonical_zero_section
+    # Gamma Ref should appear in the referenced zero section.
+    referenced_zero_section = report[referenced_idx:]
+    assert "c-referenced-no-quotes" in referenced_zero_section
