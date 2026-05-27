@@ -10,15 +10,91 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- constituency-of-reforms
+- liberal-advocacy
+- crony-capitalism
+- judicial-and-regulatory-reform
+- communication-and-credibility
+- civil-society-networking
+- economic-education
 needs_review: true
 draft: false
 transcript_status: complete
 youtube_url: https://www.youtube.com/watch?v=toFirg2z7bQ
-description: Sunil Bhandare, Advisor, Tata Strategic Management Group discussing ways through which what he calls "constituency of reforms" could be enlarged.
+description: Sunil Bhandare, Advisor, Tata Strategic Management Group discussing ways
+  through which what he calls "constituency of reforms" could be enlarged.
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'Sunil S. Bhandare argues that India''s "constituency of reforms" — those
+  who support liberal economic thinking — remains confined to urban elites, professionals,
+  industrialists, and traders, and has not reached the bottom of the pyramid. He attributes
+  this narrowness to weak communication skills among liberals (contrasting them unfavorably
+  with Prime Minister Modi''s), a credibility deficit fuelled by scams and crony capitalism,
+  and gaps in the regulatory, judicial, and institutional architecture that allow
+  public suspicion of private enterprise to persist. Decades of disillusionment, he
+  says, have left even well-intentioned schemes like Swachh Bharat Yojana being dismissed
+  by ordinary citizens as "photo op" exercises.
+
+
+  To widen the constituency, Bhandare proposes a multi-pronged approach: better networking
+  among like-minded organizations such as the Centre for Civil Society, Freedom First,
+  Liberals India for Good Governance, and the Forum of Free Enterprise; broader dissemination
+  of e-publications; and more workshops, summits, and media-sponsored meets dedicated
+  to liberal thought. He also flags the decline of the Project for Economic Education,
+  attributing it to leadership, funding, and organizational gaps, and warns that funding
+  for purely liberal advocacy is hard to come by without the right institutional scaffolding.'
+key_points:
+- The constituency of reforms in India is restricted to urban elites — professionals,
+  business people, industrialists, traders — and has not reached the bottom of the
+  pyramid.
+- Liberals lack the communication skills needed to broaden their appeal, in contrast
+  to PM Modi's communication style.
+- Public suspicion of private enterprise is fuelled by scams, scandals, and crony
+  capitalism, which in turn reflect gaps in regulatory and judicial institutions.
+- Judicial reforms and stronger regulatory and institutional systems would reduce
+  skepticism toward private enterprise.
+- Fifty years of disillusionment make even credible schemes like Swachh Bharat Yojana
+  be dismissed as photo ops by ordinary citizens.
+- Liberal organizations — CCS, Freedom First, Liberals India for Good Governance,
+  Forum of Free Enterprise — should network across cities and co-sponsor summits and
+  workshops with media partners.
+- The Project for Economic Education has been subdued due to leadership, funding,
+  and organizational problems, and liberal causes struggle to attract dedicated funding.
+thinker_mentions:
+- thinker: sunil-bhandare
+  role: subject
+  reasoning: Bhandare is the interviewee and sole speaker, articulating his analysis
+    of the limits of liberal reform constituencies in India.
+  evidence:
+  - quote: What I would call the constituency of reforms or constituency of liberal
+      economic thinking is still restricted, is restricted to a the urban class within
+      urban class to the elites of the urban class
+    context: Opening framing of his core thesis
+  - quote: that communication skills amongst the liberals is still found wanting
+    context: Diagnosing why liberal advocacy fails to expand
+  - quote: people still as you said very rightly look upon with lot of suspicion on
+      the private enterprise
+    context: On the credibility problem facing liberal economics
+  key_passages:
+  - quote: Now, how does one expand that constituency of reforms, because that is
+      the major challenge for the liberal thought process.
+    what_it_shows: States the central question animating the interview
+  - quote: if you have that system in place, a proper regulatory system in place,
+      institution system in place, judicial reforms in place, probably large part
+      of this skepticism will get out of the system
+    what_it_shows: Links institutional reform to public acceptance of liberal economics
+  - quote: I think your organization that is Centre for Civil Society, Freedom First,
+      Liberals India for Good Governance, Forum of Free Enterprise, I think they need
+      to network
+    what_it_shows: Concrete prescription for civil-society coordination
+  - quote: The Project for Economic Education also got subdued. The one reason for
+      this is that there is basically a leadership problem, and the second is the
+      funds problem, organizational problem.
+    what_it_shows: Diagnoses the decline of a key liberal education initiative
+related_thinkers:
+- sunil-bhandare
 ---
 
 # sunil-bhandare-on-enlarging-the-constituency-of-reforms-in-india

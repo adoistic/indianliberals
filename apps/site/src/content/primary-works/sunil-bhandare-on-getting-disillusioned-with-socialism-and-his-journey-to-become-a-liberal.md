@@ -1,7 +1,8 @@
 ---
 id: sunil-bhandare-on-getting-disillusioned-with-socialism-and-his-journey-to-become-a-liberal
 title:
-  main: Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal
+  main: Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to
+    Become A Liberal
 work_type: interview
 authors:
 - sunil-bhandare
@@ -10,15 +11,154 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- disillusionment-with-socialism
+- license-permit-raj
+- mrtp-act
+- public-sector-critique
+- forum-of-free-enterprise
+- nehruvian-legacy
+- liberal-conversion-narrative
 needs_review: true
 draft: false
 transcript_status: complete
 youtube_url: https://www.youtube.com/watch?v=3S_AFbaYqZs
-description: Sunil Bhandare, Advisor, Tata Strategic Management Group speaks about getting disillusioned with socialism and his journey to become a liberal.
+description: Sunil Bhandare, Advisor, Tata Strategic Management Group speaks about
+  getting disillusioned with socialism and his journey to become a liberal.
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'Sunil S. Bhandare, a long-time Tata Group economist, recounts his ideological
+  journey from Nehruvian socialism to liberal economic thinking. Joining the Reserve
+  Bank of India in 1962 and Tata''s in 1967, he was initially steeped in socialist
+  orthodoxy, even welcoming the 1969 bank nationalization, despite working alongside
+  figures like Nani Palkhivala and being aware of A. D. Shroff, M. R. Pai, and the
+  Forum of Free Enterprise. The failure of the Third Five Year Plan, the resort to
+  plan holidays, and the Emergency forced a reckoning that disillusioned him with
+  the prevailing model.
+
+
+  He describes how Professor B. R. Shenoy''s writings on the public sector vestige
+  convinced him that government had no business being in business, and how his firsthand
+  experience at Tata''s — sending memoranda against the MRTP Act and licensing restrictions,
+  watching Tata Steel and Tata Motors denied expansion as a ''monopoly house'' with
+  merely Rs. 100 crore in assets — exposed the system''s perverse incentives. He recalls
+  JRD Tata''s chairman''s statements protesting denied expansions and distorted steel
+  pricing, and personal indignities like waiting seven years for a telephone and standing
+  in queues for cement, steel, and two-wheelers.
+
+
+  Bhandare concludes that democratic socialism delivered nothing for the common man,
+  generating only inefficiency, corruption, and black markets. He credits S. V. Raju
+  and the Forum of Free Enterprise for drawing him into the liberal fold, and frames
+  his conversion as learning by experience rather than dogma — eventually concluding
+  that liberal economic thinking is simply the right economic thinking.'
+key_points:
+- Bhandare worked at the RBI (1962-67) under a Nehruvian socialist atmosphere and
+  joined Tata's in 1967, initially remaining socialist in orientation until around
+  1974.
+- Even while at Tata's, he supported the 1969 bank nationalization, reflecting how
+  dominant the socialist consensus was at the time.
+- The failure of the Third Five Year Plan, plan holidays, and the Emergency triggered
+  his disillusionment with Nehruvian economic ideology.
+- B. R. Shenoy's writings on the public sector vestige crystallized his view that
+  'the business of government is governance, not business.'
+- Under MRTP rules, a group with Rs. 100 crore in assets was deemed a 'monopoly house'
+  — leading Tata Steel and Tata Motors to be denied capacity expansions despite domestic
+  shortages requiring steel imports.
+- Licensing-era scarcity produced absurd queues — eight years for a two-wheeler, seven
+  years for his own telephone (which his family performed a Puja over when it arrived)
+  — and rampant black markets in cement and steel.
+- Bhandare credits S. V. Raju and the Forum of Free Enterprise with drawing him into
+  liberal thought, concluding that liberal economics is simply 'the right economic
+  thinking.'
+thinker_mentions:
+- thinker: sunil-bhandare
+  role: subject
+  reasoning: Bhandare is the interviewee narrating his personal ideological journey
+    from socialism to liberalism.
+  evidence:
+  - quote: I was working with the Reserve Bank of India from 1962 to '67.
+    context: Opening autobiographical framing
+  - quote: My journey towards liberal thought came very much later. Till about 1974,
+      I was typically a socialist minded in thought process.
+    context: Self-description of his ideological arc
+  key_passages:
+  - quote: we became more practical and we started learning by experience and we became
+      more oriented towards the to towards the right kind of economic thinking. I
+      am not saying liberal economic thinking, right kind economic thinking, because
+      liberal economic thinking eventually has proved to be the right economic thinking.
+    what_it_shows: His closing synthesis equating liberalism with empirically validated
+      economic policy.
+- thinker: b-r-shenoy
+  role: mention
+  reasoning: Shenoy's writings on the public sector are credited as a decisive intellectual
+    influence in Bhandare's conversion.
+  evidence:
+  - quote: there there was a Professor B. R. Shenoy's wonderful speech and articles
+      on the public sector vestige wherein he tried to sort of articulate how the
+      public sector has not done the kind of things which were expected.
+    context: Identifying Shenoy as a formative liberal influence
+  key_passages:
+  - quote: The the the idea of government is needs to be quite different. It has not
+      to be in the business. The the business of the government is to do the governance
+      and not to be in the business.
+    what_it_shows: Bhandare distilling the Shenoy-derived principle that reshaped
+      his thinking.
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is invoked as the architect of the democratic-socialist model whose
+    economic legacy Bhandare came to reject.
+  evidence:
+  - quote: We were under tremendous influence of Nehruvian ideology and that was quite
+      natural because the surroundings in the Reserve Bank of India was typically
+      supportive of that kind of a thought process.
+    context: Describing the dominant ideology of his early career
+  - quote: we believed in that model only because it it came down from Pandit Jawaharlal
+      Nehru and everybody fancied him so well, so much, and that was his legacy.
+    context: Attributing the model's persistence to Nehru's stature
+  key_passages:
+  - quote: But in the economic philosophy of this country and economic planning and
+      strategy, I think he did not do right thing. He could not envisage what could
+      happen by the kind of economic system he was trying to give to the country.
+    what_it_shows: Bhandare's verdict on Nehru's economic legacy while preserving
+      respect for his other contributions.
+- thinker: jrd-tata
+  role: mention
+  reasoning: JRD Tata's chairman's statements protesting licensing-era restrictions
+    are cited as documenting how the system denied private enterprise.
+  evidence:
+  - quote: the JRD Tata, the chairman of the Tata Group used to write in his chairman
+      statement stories about how the companies have been denied the opportunities
+      of expansion and growth.
+    context: JRD's public protest against licensing restrictions
+  key_passages:
+  - quote: he said that if they were given the right kind of prices, probably the
+      Tata Steel would have been able to expand its capacity multifold. And we were
+      importing steel, and the domestic producers were denied the opportunities to
+      expand their production only because there will be so called concentration of
+      economic power.
+    what_it_shows: Concrete grievance — that price controls and MRTP forced steel
+      imports despite suppressed domestic capacity.
+- thinker: s-v-raju
+  role: mention
+  reasoning: Raju is named as the personal contact who connected Bhandare with the
+    Forum of Free Enterprise and the liberal milieu.
+  evidence:
+  - quote: I got in touch with Raju and then also the Forum of Free Enterprise and
+      that's how the the influence started gathering momentum.
+    context: Identifying Raju as the bridge into organized liberal circles
+  key_passages:
+  - quote: And then I started also addressing some of their public meetings on very
+      interesting, but not necessarily deep thinking kind of public meetings.
+    what_it_shows: Shows how the Raju-mediated connection turned Bhandare from listener
+      to active liberal voice.
+related_thinkers:
+- b-r-shenoy
+- jawaharlal-nehru
+- jrd-tata
+- s-v-raju
+- sunil-bhandare
 ---
 
 # Sunil Bhandare on Getting Disillusioned With Socialism and His Journey to Become A Liberal

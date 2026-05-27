@@ -10,15 +10,162 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- free-enterprise
+- economic-education
+- civil-liberties
+- institutional-history
+- liberal-think-tanks
+- youth-leadership
+- public-discourse
 needs_review: true
 draft: false
 transcript_status: complete
 youtube_url: https://www.youtube.com/watch?v=DBdRExrgG2I
-description: S. Divakara, the Director-General of The Forum of Free Enterprise talks about the organisation he has worked most of his life at.
+description: S. Divakara, the Director-General of The Forum of Free Enterprise talks
+  about the organisation he has worked most of his life at.
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'S. Divakara, long-time Director-General of The Forum of Free Enterprise,
+  recounts the institution''s origin and six-decade arc. He traces its founding to
+  a 1956 pair of Times of India articles by A. D. Shroff and Murarji Vaidya advocating
+  the defence of free enterprise — a conversation in the lift at Bombay House between
+  Shroff and Farooq Mulla then crystallised into the Forum itself, with Shroff providing
+  seed funding. From 1956 the Forum focused on educating the public on economic affairs
+  through some 800 booklets and over 2,400 public meetings, hosting figures like Milton
+  Friedman and Peter Bauer despite early hostility from a business community wary
+  of opposing government economic policy.
+
+
+  Divakara recalls his mentor M. R. Pai, with whom he worked from 1964 until Pai''s
+  death in 2003, and describes the Forum''s evolution into a constellation of allied
+  trusts: the A. D. Shroff Memorial Trust, the M. R. Pai Foundation (2004) running
+  leadership camps for youth in small towns across six states, and the Nani Palkhivala
+  Memorial Trust (2004) that organises an annual memorial lecture and confers the
+  Nani Palkhivala Civil Liberties Award. He closes with anecdotes — V. K. R. V. Rao,
+  once a staunch socialist critic, privately endorsing the Forum''s work, and George
+  Fernandes spotted reading a Forum booklet on a flight — to illustrate the brand
+  the Forum has built as a non-profit, non-political platform for economic discourse.'
+key_points:
+- The Forum of Free Enterprise was founded in 1956 by A. D. Shroff after parallel
+  Times of India articles by Shroff and Murarji Vaidya advocated protecting free enterprise,
+  with the founding spark a lift conversation in Bombay House.
+- The Forum's core mission is public economic education, executed through ~800 booklets
+  and more than 2,400 public meetings, mostly in Bombay but extending across India.
+- Internationally renowned economists including Milton Friedman and Peter Bauer have
+  spoken on the Forum's platform.
+- From 1965, under A. D. Shroff's presidency, the Forum added elocution competitions
+  to its long-running All India essay competition for college students.
+- After M. R. Pai's death (2003) and Nani Palkhivala's death (2002), the M. R. Pai
+  Foundation and Nani Palkhivala Memorial Trust were both established in 2004 as allied
+  vehicles.
+- The Nani Palkhivala Memorial Trust runs an annual memorial lecture (delivered by
+  Fali Nariman, Harish Salve, S. H. Kapadia, Soli Sorabjee, Narayana Murthy, Arun
+  Shourie, Bimal Jalan and others) and confers a Civil Liberties Award worth Rs. 2.5
+  lakhs.
+- The M. R. Pai Foundation deliberately targets small towns across Gujarat, Maharashtra,
+  Andhra Pradesh, Tamil Nadu, Karnataka and Goa with 40-50 two-day leadership camps
+  annually.
+thinker_mentions:
+- thinker: s-divakara
+  role: subject
+  reasoning: Divakara is the interviewee, recounting his career at the Forum of Free
+    Enterprise and its history.
+  evidence:
+  - quote: I had the good fortune of working with Mr. M. R. Pai from 1964 till he
+      passed away in 2003.
+    context: Divakara opens by establishing his long tenure with the Forum alongside
+      Pai.
+  - quote: After Mr. Pai died in 2003, we started the M. R. Pai Foundation in 2004
+      and after Mr. Palkhivala passed away in 2002, we started the Nani Palkhivala
+      Memorial Trust in 2004.
+    context: Divakara describing the institutional architecture he has helped run.
+  key_passages:
+  - quote: The forum is still like non profit, non political organization and fortunately
+      for us their brand has been built over a period of now we will be completing
+      sixty years in 2016, that brand name has been built, we are happy about it,
+      wherever I go the forum is recognized
+    what_it_shows: Divakara's self-assessment of the Forum's enduring institutional
+      identity under his stewardship.
+- thinker: a-d-shroff
+  role: mention
+  reasoning: Shroff is the founder of the Forum of Free Enterprise and the central
+    historical figure in Divakara's origin narrative.
+  evidence:
+  - quote: The Forum of Free Enterprise was started in 1956 by Eddie Shroff with the
+      main object of educating the public on economic affairs.
+    context: Divakara naming Shroff as the founder.
+  - quote: Then Eddie Shroff said I will give you the money, you start, I will also
+      be there. That is how the forum started
+    context: Account of Shroff seed-funding the Forum during the Bombay House lift
+      conversation.
+  - quote: In August 1965 when Mr. A. D. Shroff was President of the Forum, he always
+      liked to encourage the young students to participate in economic activities.
+    context: Shroff's role in originating the youth essay and elocution competitions.
+  key_passages:
+  - quote: His belief was every Indian whether you are a doctor, engineer or any other
+      professional should have some knowledge about basic economic problems of the
+      country.
+    what_it_shows: Shroff's foundational vision of economic literacy as a civic duty
+      cutting across professions.
+- thinker: m-r-pai
+  role: mention
+  reasoning: Pai was Divakara's direct mentor at the Forum for nearly four decades
+    and the namesake of one of its allied trusts.
+  evidence:
+  - quote: I had the good fortune of working with Mr. M. R. Pai from 1964 till he
+      passed away in 2003.
+    context: Divakara's foundational professional relationship.
+  - quote: After Mr. Pai died in 2003, we started the M. R. Pai Foundation in 2004
+    context: Pai memorialised in the Forum's allied institutional structure.
+  key_passages:
+  - quote: he was travelling in aircraft and for me I believe Mr. George Fernandes
+      who was a minister at that time, he was in one of the front rows and he happened
+      to see Mr. Pai and then he come where he was sitting he showed a book of the
+      forum to Mr. Pai, Mr. Pai I am reading your booklet, that is the brand that
+      is the popularity of the forum that Mr. Pai has been able to build.
+    what_it_shows: Pai's central role in building the Forum's reach and recognition
+      even among political opponents.
+- thinker: nani-palkhivala
+  role: mention
+  reasoning: Palkhivala anchors the Nani Palkhivala Memorial Trust — one of the Forum's
+    allied vehicles — and its civil liberties award.
+  evidence:
+  - quote: after Mr. Palkhivala passed away in 2002, we started the Nani Palkhivala
+      Memorial Trust in 2004
+    context: Founding of the trust in Palkhivala's name.
+  - quote: The Trust also gives the Nani Palkhivala Civil Liberties Award to those
+      who protect and preserve civil liberties and human rights in India every year.
+    context: Palkhivala's legacy institutionalised through the civil liberties award.
+  key_passages:
+  - quote: Palkhivala Memorial Trust organizes every year a memorial lecture and the
+      first lecture was delivered by Mr. Fali Nariman and then a series of eminent
+      persons have delivered this lecture.
+    what_it_shows: Palkhivala's enduring stature drawing top jurists and public intellectuals
+      into the Forum's orbit.
+- thinker: murarji-vaidya
+  role: mention
+  reasoning: Vaidya co-authored the parallel 1956 Times of India article on free enterprise
+    that catalysed the Forum's founding.
+  evidence:
+  - quote: two articles which appeared in Times of India on 03/31/1956. One was written
+      by Mr. Murarji Vaidya and the other was written by Mr. A. D. Shroff, both were
+      on the same theme about protecting free enterprise in our country.
+    context: Vaidya's article placed alongside Shroff's as the intellectual trigger
+      for the Forum.
+  key_passages:
+  - quote: two articles which appeared in Times of India on 03/31/1956. One was written
+      by Mr. Murarji Vaidya and the other was written by Mr. A. D. Shroff, both were
+      on the same theme about protecting free enterprise in our country.
+    what_it_shows: Vaidya's role as co-instigator of the public argument for free
+      enterprise that crystallised into the Forum.
+related_thinkers:
+- a-d-shroff
+- m-r-pai
+- murarji-vaidya
+- nani-palkhivala
+- s-divakara
 ---
 
 # S. Divakara on The Forum of Free Enterprise
