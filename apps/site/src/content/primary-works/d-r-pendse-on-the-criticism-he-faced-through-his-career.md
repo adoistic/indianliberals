@@ -10,7 +10,14 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- intellectual-courage
+- liberal-economics-in-india
+- 1991-economic-crisis
+- mentorship
+- role-of-the-economic-adviser
+- anti-national-label
+- conviction-over-popularity
 needs_review: true
 draft: false
 transcript_status: complete
@@ -18,6 +25,80 @@ youtube_url: https://www.youtube.com/watch?v=lrZSeDVMwEI
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'D. R. Pendse reflects on the criticism he endured throughout his career
+  as an economist who championed liberal economic views in a climate hostile to them.
+  Politicians, economists, and academics frequently labeled him a ''reactionary,''
+  ''fundamentalist,'' and ''anti-national,'' yet he refused to abandon his convictions,
+  believing time would vindicate his positions. He recounts an anecdote in which a
+  professor of economics, introducing him at a meeting attended by Japanese delegates,
+  publicly admitted that for twenty-five years they had dismissed Pendse as a stooge
+  of monopoly, only to realize—after India''s 1991 crisis when gold had to be transported
+  abroad—that he had been right all along.
+
+
+  Pendse credits JRD Tata with shaping his resolve. When Pendse complained that members
+  of the Octroi alternatives committee (to which JRD had nominated him) refused to
+  accept his views, JRD told him bluntly that he had not been appointed to win any
+  popularity contest—if he was convinced he was right, he must keep saying so emphatically.
+  Pendse describes this counsel as the guiding principle of his life as an economic
+  adviser: to think, analyze, develop sound positions, and then speak them regardless
+  of reception.'
+key_points:
+- Pendse was repeatedly branded reactionary, fundamentalist, and anti-national for
+  his liberal economic positions
+- He insists that history vindicated his views, particularly after India's 1991 balance-of-payments
+  crisis when gold had to be pledged abroad
+- A professor publicly recanted at a meeting, admitting he and others had wrongly
+  considered Pendse a stooge of monopoly for twenty-five years
+- JRD Tata nominated Pendse to the Government of Maharashtra's Octroi alternatives
+  committee as his economist representative
+- JRD's dictum—'we have not put you there to win any popularity contest'—became Pendse's
+  guiding principle
+- Pendse defines the role of an economic adviser as thinking, analyzing, developing
+  right positions, and then speaking them unflinchingly
+- He remains willing to be considered absurd by contemporaries so long as he is convinced
+  of his analysis
+thinker_mentions:
+- thinker: d-r-pendse
+  role: subject
+  reasoning: Pendse is the interviewee narrating his own career-long experience of
+    being labelled anti-national.
+  evidence:
+  - quote: In India, many people, politicians, economists call me anti-national.
+    context: Pendse opens by describing how he was characterized
+  - quote: I'm convinced in my mind that I'm doing the right thing. I will do it.
+    context: his stance toward the criticism
+  key_passages:
+  - quote: I've got so many letters — like reactionary, fundamentalist, anti-national.
+      All these are adjectives for me.
+    what_it_shows: the range of labels applied to him
+  - quote: The economic adviser job is to pursue — to first think, analyze, develop
+      thinking, which is right, and then speak it.
+    what_it_shows: his distilled philosophy of the adviser's role
+- thinker: jrd-tata
+  role: mention
+  reasoning: JRD nominated Pendse to the Octroi committee and gave him the guiding
+    maxim that shaped his career; Pendse refers to his own book 'I After JRD.'
+  evidence:
+  - quote: He put me on a Octroi alternatives committee. He was against the Octroi,
+      and I was also against it.
+    context: JRD's role in placing Pendse on the committee
+  - quote: He said, no. I'm not an economist. I will — my Mister Pendse is our economist.
+      I will request him to be a
+    context: JRD deferring to Pendse on economic matters
+  - quote: in my book, there's a — towards the end, I have written one — one I After
+      JRD
+    context: Pendse references his memoir about JRD
+  key_passages:
+  - quote: remember, we have not put you there to win any popularity contest. If you
+      are convinced that what you are saying is the right thing, you must say it and
+      you must keep on saying it emphatically.
+    what_it_shows: JRD's formative counsel to Pendse
+  - quote: And that is what has guided me.
+    what_it_shows: the lasting influence of JRD's advice on Pendse's working life
+related_thinkers:
+- d-r-pendse
+- jrd-tata
 ---
 
 # D R Pendse on the Criticism he faced through his Career

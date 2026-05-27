@@ -12,11 +12,11 @@ publication:
 themes:
 - bollywood-and-cinema
 - cultural-change
-- attitudes-toward-business
+- attitudes-to-business
 - commerce-and-profit
+- economic-liberalisation
 - individualism-vs-collectivism
-- economic-liberalization
-- national-planning-ideology
+- nehruvian-development
 needs_review: true
 draft: false
 transcript_status: complete
@@ -28,40 +28,36 @@ description: In this [#IndianLiberals](https://www.youtube.com/results?search_qu
 provenance:
   source: ccs_archive
   scan_quality: unknown
-summary: 'Economist and academic Nimish Adhia delivers a monologue analyzing how Hindi
-  cinema reflected shifting Indian cultural attitudes between the 1950s and the 1980s-90s.
-  Drawing on his study of films across these decades, he observes that mid-century
-  Bollywood cast pandits, jailers, poets, and tour guides as heroes, while businessmen
-  were almost invariably villains — a reflection of a broader societal suspicion of
-  commerce and a zero-sum view of profit-making.
+summary: 'Economist Nimish Adhia traces a cultural shift in Bollywood between the
+  1950s–60s and the 1980s–90s. In the earlier period, heroes were never businessmen
+  — they were pandits, jailers, poets, tour guides — while businessmen were almost
+  inevitably cast as villains, reflecting a deep social suspicion of commerce and
+  profit as zero-sum, antisocial activity. By the 1980s and 1990s, heroes were openly
+  depicted as businessmen, signaling a broader ideological change in which commerce
+  came to be seen as legitimate and socially beneficial.
 
 
-  By the 1980s and 1990s, Adhia argues, films began portraying businessmen as legitimate
-  heroes, signaling a deeper ideological transformation. Indians increasingly accepted
-  that commerce could benefit society as a whole, not merely enrich individuals at
-  others'' expense. He frames this not as cinema driving ideology but as cinema mirroring
-  a cultural sea change.
-
-
-  A second shift Adhia identifies is the move from collectivist subordination — where
-  individual desires for business or imported goods were suppressed in service of
-  national economic planning — toward a more rebellious affirmation of individual
-  pursuit of happiness as legitimate in its own right.'
+  Adhia argues that films did not drive ideology but mirrored it. A second cultural
+  shift he identifies is the decline of the Nehruvian framework in which national-development
+  goals as defined by leaders trumped individual desires — for earning, for consumption,
+  for imported goods. The 1980s–90s brought a more rebellious mood in which individual
+  pursuit of happiness gained legitimacy against the older logic of suppression for
+  the collective good.'
 key_points:
-- In 1950s-60s Hindi cinema, heroes were pandits, joshis, jailers, poets, philosophers,
-  or tour guides — never businessmen.
-- Businessmen in mid-century films were almost inevitably cast as villains, reflecting
-  societal suspicion of commerce.
-- The underlying belief was that trade and profit constituted a zero-sum game where
-  one person's gain came at another's loss.
-- By the 1980s-90s, films began depicting businessmen as heroes, marking a dramatic
-  cultural shift.
-- 'Cinema reflected rather than drove the ideological change: Indians grew to see
-  commerce as socially beneficial, not antisocial.'
-- Earlier, the needs of the nation-state were placed above individual desires, and
-  people endured suppression of personal wants for national economic planning.
-- In the 1980s-90s, individual pursuit of happiness became more legitimate, and people
-  grew more rebellious against that suppression.
+- In 1950s–60s Bollywood, heroes were pandits, poets, jailers, or tour guides — never
+  businessmen.
+- Businessmen characters in that era were almost always cast as villains, reflecting
+  suspicion of commerce.
+- The underlying belief framed trade and profit as a zero-sum game where one person's
+  gain was another's loss.
+- By the 1980s–90s, heroes were increasingly depicted as businessmen, marking a dramatic
+  ideological shift.
+- 'Films reflected rather than drove this change: commerce came to be seen as benefiting
+  society as a whole.'
+- 'A parallel shift: national-development priorities as defined by leaders previously
+  overrode individual desires for income, consumption, or imported goods.'
+- By the 1980s–90s, individual pursuit of happiness gained legitimacy and people grew
+  more rebellious against suppression of personal desire.
 thinker_mentions: []
 related_thinkers: []
 ---
