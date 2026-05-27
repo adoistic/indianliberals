@@ -25,7 +25,13 @@ import { z, reference } from 'astro:content';
 // validates this and drops mentions whose quotes don't substring-match.
 
 export const thinkerMention = z.object({
-  thinker: reference('thinkers'),
+  // Either a resolved thinker reference OR an unresolved name string.
+  // Mirrors the `contributors[]` shape: `thinker` is the canonical-slug
+  // reference; `thinker_unresolved` is the literal name when an LLM (or
+  // editorial) couldn't match the mention to a thinker MD on disk.
+  // The enrichment pipelines emit exactly one of the two per entry.
+  thinker: reference('thinkers').optional(),
+  thinker_unresolved: z.string().optional(),
   role: z.enum(['author', 'subject', 'mention']),
   reasoning: z.string(),
   evidence: z.array(z.object({
