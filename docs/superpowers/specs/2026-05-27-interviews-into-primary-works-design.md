@@ -148,6 +148,8 @@ transcript_status: z.enum(
 ).default('none'),                                   // NEW
 ```
 
+Note on `'partial'`: this enum value is reserved for future use — no migration path in this spec emits it. It was carried over from the existing `interviews` schema for forward-compatibility (e.g., a future state where only the first N minutes of a transcript are produced).
+
 The existing `interviews` collection block (the whole `defineCollection({ ... })` for interviews and its entry in the exported collections map) is removed.
 
 ### 5.2 Migration mapping (`migrate-interviews-to-primary-works.py`)
@@ -160,7 +162,7 @@ Per-interview, the field mapping from old MD to new MD:
 | `title` | `title.main` |
 | `pubDate` | `publication.year` (year extracted from ISO date) |
 | `subject` (thinker ref) | `authors: [<subject_ref>]` if present; else `authors: []` |
-| `subject_name` | `title.main` (already from title, redundant; subject_name dropped) |
+| `subject_name` | dropped (covered by `title.main` plus the resolved `authors[0]` name) |
 | `interviewer` (string, empty in all MDs) | `contributors: [{ role: 'interviewer', thinker_unresolved: <value> }]` if non-empty; else `contributors: []` |
 | `youtube_url` | `youtube_url` (unchanged) |
 | `transcript_status` | `transcript_status`, recomputed from disk:<br>• `complete` if `data/interview-transcripts/<slug>.cleaned.md` exists and is non-stub<br>• `none` if it's a SKIP_EMPTY stub<br>• `unavailable` for the 2 podcasts whose audio 404'd |
@@ -169,7 +171,7 @@ Per-interview, the field mapping from old MD to new MD:
 | `needs_review`, `draft` | preserved |
 | `ai` | dropped (will be repopulated in Phase B) |
 | (no field) | `work_type: 'interview'` (NEW, fixed value) |
-| (old body content) | preserved as `description` frontmatter field IF non-garbage (filter: not matching `^type=content&` AND > 80 chars of real content after stripping `Needs editorial review` tail) |
+| (old body content) | preserved as `description` frontmatter field IF non-garbage. **Filter algorithm**: (1) strip the trailing editorial marker via regex `\s*_?\s*type=content&[\s\S]*?Needs editorial review\._?\s*$` and any preceding `[\s\S]*?` linked-source line ending in `]_\.` from the WP migration boilerplate; (2) if the remaining text is shorter than 80 non-whitespace chars, omit the `description` field; (3) otherwise preserve verbatim. |
 | (new body content) | = contents of `data/interview-transcripts/<slug>.cleaned.md` if present, else a one-line "Transcript not available." placeholder |
 
 The script runs once, processes all 72 MDs in slug-sorted order, deletes the source MD only AFTER successfully writing the destination. Idempotent re-run is safe (skips if destination exists with matching shape).
@@ -219,6 +221,7 @@ Produce a SINGLE JSON object with these fields (and nothing else):
   "interviewer_slug": "..." | null,            // slug from the authority list if interviewer matches one; else null
   "thinker_mentions": [
     {
+      "display_name": "<name as the LLM would render it, e.g., 'Peter Bauer'>",
       "thinker": "<slug from authority list>" OR
       "thinker_unresolved": "<name as spoken>",
       "role": "subject" | "mention",
@@ -254,7 +257,12 @@ def validate_and_clamp(llm_output: dict, authority_slugs: set[str]) -> dict:
     - Parse the JSON (with one retry on malformed JSON via a re-prompt).
     - For each thinker_mentions entry:
         - If `thinker` is present but not in authority_slugs:
-          rewrite as `thinker_unresolved: <last-known canonical>` and drop `thinker`.
+          rewrite as `thinker_unresolved: <display_name>` (using the
+          `display_name` field the LLM was instructed to provide), and
+          drop the `thinker` key. If `display_name` is missing or empty,
+          fall back to the literal slug-shaped string the LLM emitted.
+        - Drop `display_name` from the final output — it served only as
+          the fallback identifier and isn't part of the persisted shape.
     - Clamp count caps: ≤5 mentions, ≤5 evidence per, ≤5 key_passages per, ≤7 key_points, ≤7 themes.
     - Return the cleaned dict.
     """
@@ -270,8 +278,8 @@ If `interviewer_slug` is non-null, append to `contributors[]` as `{ role: 'inter
 
 ### 5.4 Skip rules + special cases
 
-- `transcript_status == 'unavailable'` (the 2 podcasts: `ronald-meinardus`, `gp-manish`): skip Phase B. MD stays migrated-but-not-enriched.
-- `transcript_status == 'none'` (a-d-shroff with empty Deepgram result): skip Phase B. MD stays migrated; body is the SKIP_EMPTY stub.
+- `transcript_status == 'unavailable'` (the 2 podcasts whose source MP3s 404'd: full slugs `in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia` and `indian-liberal-tradition-gp-manish`): skip Phase B. MD stays migrated-but-not-enriched.
+- `transcript_status == 'none'` (the empty-Deepgram-result case: full slug `a-d-shroff-champion-of-free-enterprise`): skip Phase B. MD stays migrated; body is the SKIP_EMPTY stub.
 - Transcript length > 80 KB: truncate middle, preserving first 40 KB + last 40 KB + a `(transcript truncated for analysis — full text preserved in MD body)` marker. The MD body itself stays un-truncated; only the LLM input is shortened.
 - LLM rate-limit on `claude -p`: parse `reset in N min`, sleep, retry. Max 3 retries; then skip + log to `/tmp/interview-enrich-fails.tsv`.
 
@@ -348,7 +356,7 @@ Phase B (after Phase A):
 |---|---|
 | `claude -p` returns non-JSON or malformed JSON | Retry once with a stricter prompt suffix ("output ONLY the JSON object — no preamble, no code fence"). If still bad, log to fails TSV, skip the MD. |
 | `claude -p` hits rate-limit | Parse `reset in N min`, sleep, retry. Max 3 attempts per MD. |
-| LLM returns a thinker slug not in the authority list | Validator rewrites as `thinker_unresolved: <name>`. The original slug-shaped string becomes the unresolved-name string. |
+| LLM returns a thinker slug not in the authority list | Validator rewrites as `thinker_unresolved: <display_name>` (using the per-mention `display_name` field the prompt asks the LLM to emit alongside the slug). If `display_name` is also missing, fall back to the literal slug-shaped string. |
 | LLM returns more than the count caps | Validator trims to first N. |
 | LLM returns `interviewer_name: "Interviewer"` or other non-resolution | Skip the `contributors[]` entry; leave it empty. |
 | LLM returns an evidence `quote` that's not actually in the transcript (hallucination) | NOT validated programmatically in this spec (too costly, false-positive-prone). The `needs_review: true` flag is the editorial backstop. |
@@ -378,13 +386,17 @@ Phase B (after Phase A):
 
 ### Integration smoke (Phase B)
 
-Pick `d-r-pendse-on-doing-business-in-india-before-1991-reforms` (long, rich, name-dense). Run Phase B on this single MD. Confirm the output:
-- contains ≥ 3 thinker_mentions, including `d-r-pendse` (subject), `jrd-tata`, and `manmohan-singh` (mentioned heavily for the 1991 reforms).
-- each mention has ≥ 1 key_passage.
-- summary names the Licence-Permit Raj, the MRTP Act, the 1991 reforms.
-- `interviewer_name` is either resolved or null (this transcript has no introduction, so likely null).
+Two smoke MDs to validate the LLM pipeline before launching the full batch:
 
-If the smoke output looks sane, launch the full Phase B batch.
+1. `d-r-pendse-on-doing-business-in-india-before-1991-reforms` (long, rich, name-dense, has `subject:` set). Confirm the output:
+   - contains ≥ 3 thinker_mentions, including `d-r-pendse` (subject), `jrd-tata`, and `manmohan-singh` (mentioned heavily for the 1991 reforms).
+   - each mention has ≥ 1 key_passage.
+   - summary names the Licence-Permit Raj, the MRTP Act, the 1991 reforms.
+   - `interviewer_name` is either resolved or null (this transcript has no introduction, so likely null).
+
+2. `bollywood-and-cultural-change-in-attitude` (monologue, no `subject:` set, no `authors[0]`). Confirm the prompt composition handles the missing-subject branch and produces a sensible summary + at least 2 thinker_mentions for figures referenced in the analysis.
+
+If both smoke outputs look sane, launch the full Phase B batch.
 
 ### Build sanity (both phases)
 
@@ -410,7 +422,10 @@ After Phase B:
 
 ## 10. Open items / follow-ups (separate specs)
 
-- **Interview-detail UI spec** — render the YouTube video embed below the title + above the summary; render the diarized transcript with proper speaker-turn formatting and a "jump to time" affordance; ensure Pagefind indexes the transcript body for full-text search; ensure the existing primary-works listing-page filter UI gets a `work_type: interview` option.
+- **Interview-detail UI spec** — render the YouTube video embed below the title + above the summary; render the diarized transcript with proper speaker-turn formatting and a "jump to time" affordance; ensure Pagefind indexes the transcript body for full-text search; ensure the existing primary-works listing-page filter UI gets a `work_type: interview` option. Specific files this UI spec will touch:
+  - `apps/site/src/components/Search.astro` (currently has an `interview` filter button around line 78 that's wired to the `interviews` collection; needs retargeting to filter primary-works by `work_type`).
+  - `apps/site/src/components/ThinkerDetail.astro` (currently consumes the `interviews` collection directly via `allInterviews` / `interviewsAbout` around lines 65, 100, 425; needs to filter primary-works by `work_type: 'interview'` instead).
+  - The primary-work detail layout (wherever it lives) to add the conditional video embed + transcript section when `work_type === 'interview'`.
 - **Themes collection** — currently empty; the `themes:` strings from this enrichment will need to settle before a canonical themes collection is brainstormed.
 - **Editorial review** of all `needs_review: true` interview MDs (every one of them).
 - **Thinker-stub creation** for any `thinker_unresolved` mentions surfaced by the LLM.
