@@ -341,6 +341,10 @@ const primaryWorks = defineCollection({
     // Editorial description (preserved verbatim from a migrated interview MD's body, if non-garbage).
     // Distinct from `summary` (the AI-generated synopsis emitted by Phase B enrichment).
     description: z.string().optional(),
+    // Phase B enrichment output for interview MDs. The pre-existing
+    // `ai_key_points` field is reserved for the v1.5 PDF-extractor; interviews
+    // use this field instead. Both render the same way at the UI layer.
+    key_points: z.array(z.string()).default([]),
     rights: rightsSchema,
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),

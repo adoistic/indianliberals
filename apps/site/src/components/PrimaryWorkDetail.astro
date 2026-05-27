@@ -81,13 +81,49 @@ const pageCount = fm.physical?.pages_total ?? fm.physical?.page_count ?? null;
 
 const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
 
-// Pull quotes are pulled from structured frontmatter only — they're a
-// shareable-passage UI distinct from the body Key points. Most v1.5
-// entries don't have summary_structured.pull_quotes populated yet; the
-// section simply doesn't render when empty.
-const pullQuotes = (fm.summary_structured?.pull_quotes ?? []).filter(
+// `interview` work_type carries summary / key_points / key_passages in
+// frontmatter (the Phase B enrichment writes them there; the body is the
+// cleaned diarized transcript). For PDF-baked work types, the emit-astro-md
+// step writes those fields INTO the markdown body, so the existing <Content/>
+// render handles them. We branch here to avoid double-rendering for PDFs.
+const isInterview = fm.work_type === "interview";
+const interviewSummary = isInterview ? (fm.summary ?? "").trim() : "";
+const interviewKeyPoints = isInterview ? (fm.key_points ?? []) : [];
+
+// YouTube embed: lift the videoId from any youtube_url shape we know
+// (watch?v=, youtu.be/, embed/). Empty string when not parseable.
+const youtubeVideoId = (() => {
+  if (!fm.youtube_url) return "";
+  const u = String(fm.youtube_url);
+  const watchMatch = u.match(/[?&]v=([a-zA-Z0-9_-]{6,15})/);
+  if (watchMatch) return watchMatch[1];
+  const shortMatch = u.match(/youtu\.be\/([a-zA-Z0-9_-]{6,15})/);
+  if (shortMatch) return shortMatch[1];
+  const embedMatch = u.match(/youtube\.com\/embed\/([a-zA-Z0-9_-]{6,15})/);
+  if (embedMatch) return embedMatch[1];
+  return "";
+})();
+
+// Pull quotes are the "shareable passage" UI. Two sources:
+//   1. summary_structured.pull_quotes — populated by some v1.5 PDF entries.
+//   2. thinker_mentions[].key_passages — populated by Phase B enrichment
+//      (every enriched interview, plus newer PDFs). Each key_passage has
+//      { quote, what_it_shows }; we map onto the existing { verbatim,
+//      why_notable, page } shape so the render path stays uniform.
+const structuredPullQuotes = (fm.summary_structured?.pull_quotes ?? []).filter(
   (q) => q && q.verbatim,
 );
+const mentionPullQuotes = (fm.thinker_mentions ?? []).flatMap((mn: any) => {
+  const passages = Array.isArray(mn?.key_passages) ? mn.key_passages : [];
+  return passages
+    .filter((p: any) => p && typeof p.quote === "string" && p.quote.trim())
+    .map((p: any) => ({
+      verbatim: p.quote,
+      why_notable: p.what_it_shows ?? "",
+      page: undefined,
+    }));
+});
+const pullQuotes = [...structuredPullQuotes, ...mentionPullQuotes];
 
 const descriptionForMeta = fm.summary
   ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
@@ -229,12 +265,62 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       id={fm.pdf_url ? "panel-summary" : undefined}
       aria-labelledby={fm.pdf_url ? "tab-summary" : undefined}
     >
+      {/* Interview-specific blocks: YouTube embed, AI summary, key points.
+          Rendered above the cleaned-transcript body. PDF-baked works skip these
+          because their summary/key_points are emitted INTO the body markdown
+          by emit-astro-md.py and would otherwise double-render. */}
+      {isInterview && youtubeVideoId && (
+        <section class="mb-10">
+          <div class="relative w-full" style="padding-bottom: 56.25%; height: 0;">
+            <iframe
+              src={`https://www.youtube-nocookie.com/embed/${youtubeVideoId}`}
+              title={`YouTube video — ${fm.title.main}`}
+              loading="lazy"
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              class="absolute inset-0 w-full h-full rounded-lg border border-(--color-border)"
+            ></iframe>
+          </div>
+        </section>
+      )}
+
+      {isInterview && interviewSummary && (
+        <section class="mb-10">
+          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) font-semibold mb-4">
+            Summary
+          </h2>
+          <div class="prose-container">
+            {interviewSummary.split(/\n\n+/).map((para) => (
+              <p class="text-[1.0625rem] leading-relaxed text-(--color-fg) my-4">{para}</p>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {isInterview && interviewKeyPoints.length > 0 && (
+        <section class="mb-10">
+          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) font-semibold mb-4">
+            Key points
+          </h2>
+          <ul class="list-disc pl-6 space-y-2">
+            {interviewKeyPoints.map((kp: string) => (
+              <li class="text-[1.0625rem] leading-relaxed text-(--color-fg)">{kp}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {/* Body markdown — contains the full Summary, Key points, and any
           additional sections the emitter wrote. The frontmatter `summary` and
           `ai_key_points` fields are intentionally truncated for the search
           index / og:description; the body is the canonical text shown to
           readers. The `[&_>_h1]:hidden` rule suppresses the body's duplicate
           H1 (the page header above already shows the title). */}
+      {isInterview && (
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) font-semibold mb-4">
+          Transcript
+        </h2>
+      )}
       <div class="prose-container mb-10">
         <div class="text-(--color-fg) leading-relaxed [&_>_h1]:hidden [&_p]:my-4 [&_p]:text-[1.0625rem] [&_h2]:text-xs [&_h2]:uppercase [&_h2]:tracking-widest [&_h2]:text-(--color-fg-muted) [&_h2]:font-(family-name:--font-ui) [&_h2]:font-semibold [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_ul_li]:my-2 [&_ul_li]:text-[1.0625rem] [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_em]:italic">
           <Content />
