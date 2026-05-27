@@ -304,6 +304,7 @@ const primaryWorks = defineCollection({
       'correspondence', // NEW — collected letters between named individuals
       'periodical_issue',
       'reference', // NEW — bibliography / dictionary / catalogue / index
+      'interview',
     ]),
     // Optional sub-type qualifier. See `purposeEnum` definition in schemas/extraction.ts.
     purpose: purposeEnum.optional(),
@@ -356,6 +357,8 @@ const primaryWorks = defineCollection({
       scan_quality: z.enum(['good', 'fair', 'poor', 'unknown']).default('unknown'),
       notes: z.string().optional(),
     }),
+    youtube_url: z.string().url().optional(),
+    transcript_status: z.enum(['none', 'partial', 'complete', 'unavailable']).default('none'),
     rights: rightsSchema,
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
