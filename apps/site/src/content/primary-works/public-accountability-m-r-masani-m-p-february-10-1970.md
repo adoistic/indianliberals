@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/public-accountability-m-r-masani-m-p-february-10-1970.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

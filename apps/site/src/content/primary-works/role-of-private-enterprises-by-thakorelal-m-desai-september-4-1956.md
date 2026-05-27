@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/role-of-private-enterprises-by-thakorelal-m-desai-september-4-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

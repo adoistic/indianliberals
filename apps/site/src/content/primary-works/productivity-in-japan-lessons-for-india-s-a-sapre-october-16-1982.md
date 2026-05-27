@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/productivity-in-japan-lessons-for-india-s-a-sapre-october-16-1982.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

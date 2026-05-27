@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/social-and-economic-significance-of-insurance-in-modern-economic-life-prof-c-n-vakil-june-20-1970.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

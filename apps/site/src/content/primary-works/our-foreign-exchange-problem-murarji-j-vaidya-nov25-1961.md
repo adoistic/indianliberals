@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/our-foreign-exchange-problem-murarji-j-vaidya-nov25-1961.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

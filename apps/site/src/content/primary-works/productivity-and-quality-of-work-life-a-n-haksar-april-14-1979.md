@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/productivity-and-quality-of-work-life-a-n-haksar-april-14-1979.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

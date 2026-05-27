@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/pluralism-&-mixed-economy-a-basis-for-centre-state-relations-v-k-narasimhan-february-14-1978.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

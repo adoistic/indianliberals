@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/role-of-life-insurance-in-national-economy-mr-era-sezhiyan-october-28-1985.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

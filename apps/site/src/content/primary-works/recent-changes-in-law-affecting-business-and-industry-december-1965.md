@@ -43,6 +43,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/recent-changes-in-law-affecting-business-and-industry-december-1965.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

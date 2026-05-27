@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/principles-of-a-sound-personnel-policy-s-r-mohan-das-15-march-1976.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

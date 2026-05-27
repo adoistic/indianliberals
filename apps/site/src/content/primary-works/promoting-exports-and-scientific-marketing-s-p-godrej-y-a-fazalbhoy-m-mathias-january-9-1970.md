@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/promoting-exports-and-scientific-marketing-s-p-godrej-y-a-fazalbhoy-m-mathias-january-9-1970.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

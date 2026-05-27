@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/reshaping-the-constitution-implications-of-the-swaran-singh-committee-recommendations-n-a-palkhivala-20-july-1976.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -66,6 +66,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/public-opinion-on-private-and-state-enterprises-various-dec9-1962.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

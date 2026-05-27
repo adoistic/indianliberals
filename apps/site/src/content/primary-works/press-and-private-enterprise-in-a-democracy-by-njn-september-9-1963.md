@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/press-and-private-enterprise-in-a-democracy-by-NJN-September-9-1963.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

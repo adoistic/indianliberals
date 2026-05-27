@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/public-enterprises-in-india-by-ak-chandra-august-8-1960.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

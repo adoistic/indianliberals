@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/public-action-to-remedy-hunger-prof-amartya-sen.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

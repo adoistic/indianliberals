@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/recession-in-indian-economy-dr-r-ccooper-august-10-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

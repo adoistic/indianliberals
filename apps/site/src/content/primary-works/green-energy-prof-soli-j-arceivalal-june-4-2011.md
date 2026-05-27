@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/green-energy-prof-soli-j-arceivalal-june-4-2011.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/opening-up-of-insurance-industry-d-m-satwalekar-april-2-2004.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

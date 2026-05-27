@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/prosperity-beyond-our-cities-by-spreading-enterprises-r-gopalakrishnan-october-10-2007.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/population-development-and-environment-by-sp-godrej-december-15-1994.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

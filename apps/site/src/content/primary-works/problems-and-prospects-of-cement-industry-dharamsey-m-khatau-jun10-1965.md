@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/problems-and-prospects-of-cement-industry-dharamsey-m-khatau-jun10-1965.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/has-private-enterprise-failed-ad-shroff-230ct-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

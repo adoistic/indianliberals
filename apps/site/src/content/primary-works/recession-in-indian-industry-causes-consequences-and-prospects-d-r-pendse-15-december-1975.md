@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/recession-in-indian-industry-causes-consequences-and-prospects-d-r-pendse-15-december-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

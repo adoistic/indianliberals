@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/sir-m-visvesvaraya-a-biography-by-t-rangadasappa-1984.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
