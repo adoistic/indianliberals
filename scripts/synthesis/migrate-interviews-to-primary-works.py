@@ -123,6 +123,8 @@ def build_new_frontmatter(
         "editors": [],
         "contributors": [],
         "publication": publication,
+        # Required by primary-works schema. Interviews come from CCS's YouTube channel.
+        "provenance": {"source": "ccs_archive", "scan_quality": "unknown"},
         "themes": [],
         "needs_review": True,
         "draft": bool(old_fm.get("draft", False)),

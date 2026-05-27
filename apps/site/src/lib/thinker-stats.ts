@@ -8,8 +8,10 @@
 //   opinions:       worksAuthored ← author
 //                   referencedIn  ← subject + thinker_mentions[].thinker
 //                                   + related_thinkers[]
-//   interviews:     worksAuthored ← (none — interviewee is not author)
-//                   referencedIn  ← subject (the only thinker-ref field on schema)
+//   (interviews are now folded into primary-works with work_type='interview'.
+//    The interviewee lives in authors[0], so they're counted under primary-works
+//    above. Treating the interviewee as `worksAuthored` is a known coarsening;
+//    proper "subject" handling is deferred to the interview-detail-UI follow-up.)
 //   musings:        worksAuthored ← author
 //                   referencedIn  ← thinker_mentions[].thinker + related_thinkers[]
 //   theprint-mirror: worksAuthored ← (none — author_name is a free-text string)
@@ -105,14 +107,7 @@ export async function getThinkerStats(): Promise<Map<string, ThinkerStat>> {
     applyEntry(authored, referenced);
   }
 
-  // interviews — only `subject` is a thinker ref
-  const interviews = await getCollection("interviews");
-  for (const v of interviews) {
-    const referenced = new Set<string>();
-    const subjectId = refToId(v.data.subject as RefLike);
-    if (subjectId) referenced.add(subjectId);
-    applyEntry(new Set(), referenced);
-  }
+  // interviews — folded into primary-works above (work_type='interview').
 
   // musings
   const musings = await getCollection("musings");

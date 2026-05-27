@@ -75,7 +75,9 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
     <button type="button" data-filter-type="organisation" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Orgs</button>
     <button type="button" data-filter-type="musing" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Excerpts</button>
     <button type="button" data-filter-type="opinion" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Opinions</button>
-    <button type="button" data-filter-type="interview" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Interviews</button>
+    {/* Interviews pill removed: interviews are now primary-works with work_type='interview'. */}
+    {/* The pagefind type filter no longer surfaces them as a separate type. Restoring this */}
+    {/* pill needs a dedicated filter facet — deferred to the interview-detail-UI follow-up spec. */}
   </div>
   <div id="search-results" class="max-h-[60vh] overflow-y-auto"></div>
   <p class="px-4 py-3 text-xs text-(--color-fg-muted) border-t border-(--color-border) font-(family-name:--font-ui)">

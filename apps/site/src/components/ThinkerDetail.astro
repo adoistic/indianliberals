@@ -62,13 +62,15 @@ const { Content } = await render(t);
 //   mention — appears in related_thinkers but is neither author nor
 //             subject. Phase B will populate these from in-prose NER.
 
-const [allInterviews, allTheprint, allOpinions, allMusings, allWorks] = await Promise.all([
-  getCollection("interviews", (e) => !e.data.draft),
+const [allTheprint, allOpinions, allMusings, allWorks] = await Promise.all([
   getCollection("theprint-mirror", (e) => !e.data.draft),
   getCollection("opinions", (e) => !e.data.draft),
   getCollection("musings", (e) => !e.data.draft),
   getCollection("primary-works", (e) => !e.data.draft && e.data.language === DEFAULT_LOCALE),
 ]);
+// Interviews are now stored as primary-works with work_type='interview'.
+// The interviewee (formerly `subject`) is migrated into `authors[0]`.
+const allInterviews = allWorks.filter((w) => w.data.work_type === "interview");
 
 function refMatches(ref: { id?: string } | string | undefined, id: string): boolean {
   if (!ref) return false;
@@ -97,7 +99,10 @@ const theprintByThisThinker = allTheprint.filter((p) =>
 );
 
 // ─── Subject role: pieces ABOUT the thinker ──────────────────────────
-const interviewsAbout = allInterviews.filter((i) => refMatches(i.data.subject, t.id));
+// For interviews (now primary-works), the interviewee lives in authors[0].
+const interviewsAbout = allInterviews.filter((i) =>
+  (i.data.authors ?? []).some((a: any) => refMatches(a, t.id))
+);
 const opinionsAbout = allOpinions.filter((o) => refMatches(o.data.subject, t.id));
 
 // ─── Mention role: appears in related_thinkers but not as author/subject ─
@@ -426,8 +431,8 @@ const bioSourceLabel =
               <ul class="space-y-2">
                 {interviewsAbout.map((i) => (
                   <li>
-                    <a href={`/interviews/${i.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {i.data.title}
+                    <a href={`/primary-works/${i.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {typeof i.data.title === "string" ? i.data.title : i.data.title?.en ?? i.id}
                     </a>
                   </li>
                 ))}

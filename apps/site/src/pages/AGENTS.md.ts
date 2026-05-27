@@ -6,7 +6,10 @@ export const GET: APIRoute = async () => {
   const works = await getCollection("primary-works", (w) => !w.data.draft);
   const musings = await getCollection("musings", (m) => !m.data.draft);
   const opinions = await getCollection("opinions", (o) => !o.data.draft);
-  const interviews = await getCollection("interviews", (i) => !i.data.draft);
+  // Interviews are now folded into primary-works with work_type='interview'.
+  const interviews = (await getCollection("primary-works", (w) => !w.data.draft)).filter(
+    (w) => w.data.work_type === "interview",
+  );
   const orgs = await getCollection("organisations", (o) => !o.data.draft);
   const periodicals = await getCollection("periodicals", (p) => !p.data.draft);
   const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
@@ -39,7 +42,7 @@ Agents may quote freely with paragraph-level citations using the
 - **organisations** (\`/organisations/\`) — ${orgs.length} entries
 - **musings** (\`/musings/\`) — ${musings.length} entries
 - **opinions** (\`/opinions/\`) — ${opinions.length} entries
-- **interviews** (\`/interviews/\`) — ${interviews.length} entries
+- **interviews** (\`/primary-works/\` — entries with \`work_type: interview\`) — ${interviews.length} entries
 - **theprint-mirror** (\`/theprint-mirror/\`) — ${theprint.length} entries (noindex)
 
 ### Tier B — primary works and periodicals (metadata + PDF)

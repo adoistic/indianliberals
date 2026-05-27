@@ -1,7 +1,7 @@
 // Astro content collections for the eight Indian Liberals content kinds.
 // This file is the runtime contract that SCHEMA.md is the prose-form of.
 //
-// Tier A = clean content (musings, opinions, interviews, thinker-profiles,
+// Tier A = clean content (musings, opinions, thinker-profiles,
 // organisations, ThePrint mirror). Full markdown body, full-text indexed
 // in Pagefind, paragraph-citable.
 //
@@ -258,27 +258,6 @@ const opinions = defineCollection({
         'editorial',
       ])
       .optional(),
-    ...i18nFields,
-    ai: aiProvenance,
-    needs_review: z.boolean().default(false),
-    draft: z.boolean().default(false),
-  }),
-});
-
-// ─── Tier A: interviews ────────────────────────────────────────────────
-
-const interviews = defineCollection({
-  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/interviews' }),
-  schema: z.object({
-    id: z.string(),
-    title: z.string(),
-    pubDate: z.coerce.date(),
-    subject: reference('thinkers').optional(),
-    subject_name: z.string(),
-    interviewer: z.string().optional(),
-    youtube_url: z.string().url().optional(),
-    transcript_status: z.enum(['none', 'partial', 'complete']).default('none'),
-    themes: z.array(z.string()).default([]),
     ...i18nFields,
     ai: aiProvenance,
     needs_review: z.boolean().default(false),
@@ -684,7 +663,6 @@ export const collections = {
   organisations,
   musings,
   opinions,
-  interviews,
   'primary-works': primaryWorks,
   periodicals,
   'theprint-mirror': theprintMirror,

@@ -15,15 +15,18 @@ export const GET: APIRoute = async ({ site }) => {
   const origin = site!.origin;
 
   // Pull everything in parallel — Astro caches getCollection internally.
-  const [thinkers, orgs, musings, opinions, interviews, works, theprint] = await Promise.all([
+  const [thinkers, orgs, musings, opinions, works, theprint] = await Promise.all([
     getCollection('thinkers', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('organisations', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('musings', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('opinions', (e) => !e.data.draft && e.data.language === 'en'),
-    getCollection('interviews', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('primary-works', (e) => !e.data.draft && e.data.language === 'en'),
     getCollection('theprint-mirror', (e) => !e.data.draft && e.data.language === 'en'),
   ]);
+  // Interviews are now primary-works with work_type='interview' — partition
+  // the primary-works list so the section ordering below is preserved.
+  const interviews = works.filter((w) => w.data.work_type === 'interview');
+  const nonInterviewWorks = works.filter((w) => w.data.work_type !== 'interview');
 
   const lines: string[] = [];
   lines.push('# Indian Liberals — full corpus dump');
@@ -87,10 +90,10 @@ export const GET: APIRoute = async ({ site }) => {
   lines.push('');
   for (const op of opinions) appendEntry('Opinion', op, 'opinions');
 
-  // Interviews
+  // Interviews (folded into primary-works; URL path is /primary-works/)
   lines.push('# Interviews');
   lines.push('');
-  for (const i of interviews) appendEntry('Interview', i, 'interviews');
+  for (const i of interviews) appendEntry('Interview', i, 'primary-works');
 
   // ThePrint mirror — included for agent readability; canonical version is on theprint.in
   lines.push('# ThePrint mirror');
@@ -102,7 +105,7 @@ export const GET: APIRoute = async ({ site }) => {
   lines.push('# Primary works (Tier B — summaries only)');
   lines.push('> Tier B: cite to the PDF, not as if the body text was read.');
   lines.push('');
-  for (const w of works) appendEntry('Primary work', w, 'primary-works');
+  for (const w of nonInterviewWorks) appendEntry('Primary work', w, 'primary-works');
 
   return new Response(lines.join('\n'), {
     headers: {
