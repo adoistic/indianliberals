@@ -16,7 +16,7 @@
 
 ## Stream A — PDF URL backfill
 
-Source manifest: `data/pdf-link-manifest.tsv` (produced by `scripts/data-ingestion/match-pdfs.py`).
+Source manifest: `data/pdf-link-manifest.tsv` (produced by `scripts/synthesis/match-pdfs.py`).
 
 - High-confidence rows applied to MDs: **64**
 - Surgically reverted before commit (matcher false-positives): **2**
@@ -46,7 +46,7 @@ The previous brainstorming-time figure of "53 / 53" was stale; the current corpu
 
 ## Stream C — cross-reference drift in new MDs
 
-Audit: `scripts/data-ingestion/audit-cross-refs.py` against the 99 new MDs.
+Audit: `scripts/synthesis/audit-cross-refs.py` against the 99 new MDs.
 
 - New MDs scanned: **99**
 - Thinker index size: **480**
@@ -97,7 +97,7 @@ Full log: `/tmp/v1.5-readiness-stream-c.log` (421 lines).
 
 ## Stream D — thinkers without inbound pull-quote attribution
 
-Audit: `scripts/data-ingestion/audit-thinkers-without-quotes.py` against all 480 thinker files, joined against `pullQuotes` collected from `data/synthesis/ner-mentions-batch-*.jsonl`.
+Audit: `scripts/synthesis/audit-thinkers-without-quotes.py` against all 480 thinker files. Inputs are MD frontmatter only — for each MD under `apps/site/src/content/{primary-works,opinions,musings,interviews,theprint-mirror}/`, the script parses `thinker_mentions[].evidence[].quote` and increments the count for each mention's thinker slug. No external NER batch files are consulted; the count reflects only what's already baked into frontmatter.
 
 - Total thinker files: **480**
 - Thinkers with ≥1 inbound quote: **204**
@@ -166,11 +166,11 @@ Full log: `/tmp/v1.5-readiness-stream-d.log` (147 lines).
 | Artefact                    | Location                                                                                   |
 | --------------------------- | ------------------------------------------------------------------------------------------ |
 | Stream A apply log          | `/tmp/v1.5-readiness-apply.log`                                                            |
-| Stream A apply script       | `scripts/data-ingestion/apply-pdf-urls.py`                                                 |
+| Stream A apply script       | `scripts/synthesis/apply-pdf-urls.py`                                                 |
 | Stream A manifest           | `data/pdf-link-manifest.tsv`                                                               |
-| Stream C script             | `scripts/data-ingestion/audit-cross-refs.py`                                               |
+| Stream C script             | `scripts/synthesis/audit-cross-refs.py`                                               |
 | Stream C log                | `/tmp/v1.5-readiness-stream-c.log`                                                         |
-| Stream D script             | `scripts/data-ingestion/audit-thinkers-without-quotes.py`                                  |
+| Stream D script             | `scripts/synthesis/audit-thinkers-without-quotes.py`                                  |
 | Stream D log                | `/tmp/v1.5-readiness-stream-d.log`                                                         |
 | Commit (Stream A)           | `1ba7bb8`                                                                                  |
 | Commit (Stream A re-emit)   | `c3e4af1`                                                                                  |
