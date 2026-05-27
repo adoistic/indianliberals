@@ -9,15 +9,61 @@ contributors: []
 publication:
   language: en
   year: 2020
-themes: []
+themes:
+- bollywood-and-cinema
+- cultural-change
+- attitudes-toward-business
+- commerce-and-profit
+- individualism-vs-collectivism
+- economic-liberalization
+- national-planning-ideology
 needs_review: true
 draft: false
 transcript_status: complete
 youtube_url: https://www.youtube.com/watch?v=N6xDBpZ5McA
-description: In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals) monologue, Nimish Adhia talks about the cultural changes within Indian society which affected Bollywood's portrayal of heroes and the overall plot of the movies. He talks about the transition happening between the 1950s and 1980s.
+description: In this [#IndianLiberals](https://www.youtube.com/results?search_query=%23IndianLiberals)
+  monologue, Nimish Adhia talks about the cultural changes within Indian society which
+  affected Bollywood's portrayal of heroes and the overall plot of the movies. He
+  talks about the transition happening between the 1950s and 1980s.
 provenance:
   source: ccs_archive
   scan_quality: unknown
+summary: 'Economist and academic Nimish Adhia delivers a monologue analyzing how Hindi
+  cinema reflected shifting Indian cultural attitudes between the 1950s and the 1980s-90s.
+  Drawing on his study of films across these decades, he observes that mid-century
+  Bollywood cast pandits, jailers, poets, and tour guides as heroes, while businessmen
+  were almost invariably villains — a reflection of a broader societal suspicion of
+  commerce and a zero-sum view of profit-making.
+
+
+  By the 1980s and 1990s, Adhia argues, films began portraying businessmen as legitimate
+  heroes, signaling a deeper ideological transformation. Indians increasingly accepted
+  that commerce could benefit society as a whole, not merely enrich individuals at
+  others'' expense. He frames this not as cinema driving ideology but as cinema mirroring
+  a cultural sea change.
+
+
+  A second shift Adhia identifies is the move from collectivist subordination — where
+  individual desires for business or imported goods were suppressed in service of
+  national economic planning — toward a more rebellious affirmation of individual
+  pursuit of happiness as legitimate in its own right.'
+key_points:
+- In 1950s-60s Hindi cinema, heroes were pandits, joshis, jailers, poets, philosophers,
+  or tour guides — never businessmen.
+- Businessmen in mid-century films were almost inevitably cast as villains, reflecting
+  societal suspicion of commerce.
+- The underlying belief was that trade and profit constituted a zero-sum game where
+  one person's gain came at another's loss.
+- By the 1980s-90s, films began depicting businessmen as heroes, marking a dramatic
+  cultural shift.
+- 'Cinema reflected rather than drove the ideological change: Indians grew to see
+  commerce as socially beneficial, not antisocial.'
+- Earlier, the needs of the nation-state were placed above individual desires, and
+  people endured suppression of personal wants for national economic planning.
+- In the 1980s-90s, individual pursuit of happiness became more legitimate, and people
+  grew more rebellious against that suppression.
+thinker_mentions: []
+related_thinkers: []
 ---
 
 # Bollywood and Cultural Change in Attitude
