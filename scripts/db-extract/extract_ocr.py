@@ -202,8 +202,11 @@ def main() -> None:
             },
             "work_type": infer_work_type(title),
             "authors": [],
+            # No publisher claim: CCS digitised these works but did not
+            # publish them — provenance.source records the archive role.
+            # The real publisher, if recoverable, comes from the v1.5
+            # extraction pass over the PDF itself.
             "publication": {
-                "publisher_name": "Centre for Civil Society / Indian Liberals archive",
                 "year": year,
                 "language": lang_code,
             },

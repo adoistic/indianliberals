@@ -88,7 +88,7 @@ related_thinkers:
 - trupti-parekh
 publication:
   language: gu
-  publisher_id: khoj
+  publisher_id: initiative-for-open-society
   publisher_name: પ્રથ 'ખોજ' ત્રૈમાસિકનો આ અંક 'આર્ઘ'ના 'પહેલ' કેન્દ (Initiative for
     Open Society), ફતેગંજ વડોદરા વતી અંબરીષ મહેતાએ પ્રકાશિત કર્યો.
   place: વડોદરા (Vadodara)

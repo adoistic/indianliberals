@@ -6,8 +6,6 @@ work_type: "book"
 authors:
   - sauvik-chakraverti
 publication: 
-  publisher_id: centre-for-civil-society
-  publisher_name: "Centre for Civil Society / Indian Liberals archive"
   year: 2015
   language: "hi"
 physical: 

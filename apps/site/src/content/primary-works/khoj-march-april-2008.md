@@ -14,9 +14,9 @@ authors:
   - manjula-dabhi
   - asghar-ali-engineer
 publication: 
-  publisher_id: centre-for-civil-society
-  publisher_name: "Centre for Civil Society / Indian Liberals archive"
-  year: 2015
+  publisher_id: initiative-for-open-society
+  publisher_name: "Pahel — Initiative for Open Society, Vadodara"
+  year: 2008
   language: "gu"
 physical: 
   page_count: 44
