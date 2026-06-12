@@ -44,7 +44,10 @@ Agents may quote freely with paragraph-level citations using the
 - **organisations** (\`/organisations/\`) — ${orgs.length} entries
 - **musings** (\`/musings/\`) — ${musings.length} entries
 - **opinions** (\`/opinions/\`) — ${opinions.length} entries
-- **interviews** (\`/primary-works/\` — entries with \`work_type: interview\`) — ${interviews.length} entries
+- **interviews** (\`/interviews/\` — entries with \`work_type: interview\`) — ${interviews.length} entries.
+  Dated by when the recording was conducted or the address delivered
+  (recovered from source credits and internal evidence), not by digitisation
+  date; see \`provenance.notes\` per entry.
 - **theprint-mirror** (\`/theprint-mirror/\`) — ${theprint.length} entries (noindex)
 
 ### Tier B — primary works and periodicals (metadata + PDF)

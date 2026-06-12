@@ -20,6 +20,8 @@ export const GET: APIRoute = async () => {
     "- [Full directory of people](/thinkers/directory/) — includes referenced",
     "  figures from outside the liberal tradition (cited or critiqued, not endorsed)",
     "- [Periodicals by series](/periodicals/)",
+    "- [Interviews & oral history](/interviews/) — recordings with transcripts,",
+    "  dated by when they were conducted (not when digitised)",
     "- [Organisations](/organisations/)",
     "",
     "## Thinkers",
