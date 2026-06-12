@@ -26,24 +26,57 @@ const allMusings = await getCollection("musings", (m) => !m.data.draft);
 const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
 const allOrgs = await getCollection("organisations", (o) => !o.data.draft);
 const stats = [
-  { value: allWorks.length, label: "Primary works" },
+  { value: allWorks.length, label: "Primary works", href: "/primary-works/" },
   {
     value: allWorks.filter((w) => w.data.work_type === "periodical_issue").length,
     label: "Periodical issues",
+    href: "/periodicals/",
   },
   {
     value: allWorks.filter((w) => w.data.work_type === "interview").length,
     label: "Interviews",
+    href: "/primary-works/",
   },
   {
     value: allThinkers.filter((t) =>
       ["core", "extended"].includes(t.data.canon_status),
     ).length,
     label: "Thinkers profiled",
+    href: "/thinkers/",
   },
-  { value: allMusings.length + allOpinions.length, label: "Excerpts & opinions" },
-  { value: allOrgs.length, label: "Organisations" },
+  {
+    value: allMusings.length + allOpinions.length,
+    label: "Excerpts & opinions",
+    href: "/opinions/",
+  },
+  { value: allOrgs.length, label: "Organisations", href: "/organisations/" },
 ];
+
+// Works-per-decade histogram for the stats band. publication.year is the
+// cover date for most works; periodical issues fall back to the year coded
+// in the slug (the imported field recorded the digitisation year for some
+// runs). Single bucket per decade, 1820s onward.
+function workYear(w: (typeof allWorks)[number]): number | null {
+  const slugYear = w.id.match(/(18|19|20)\d{2}/);
+  if (w.data.work_type === "periodical_issue" && slugYear) return Number(slugYear[0]);
+  return w.data.publication?.year ?? (slugYear ? Number(slugYear[0]) : null);
+}
+const decadeCounts = new Map<number, number>();
+for (const w of allWorks) {
+  const y = workYear(w);
+  if (!y || y < 1800 || y > 2030) continue;
+  const d = Math.floor(y / 10) * 10;
+  decadeCounts.set(d, (decadeCounts.get(d) ?? 0) + 1);
+}
+const decadeMin = Math.min(...decadeCounts.keys());
+const decadeMax = Math.max(...decadeCounts.keys());
+const decades: { decade: number; count: number }[] = [];
+for (let d = decadeMin; d <= decadeMax; d += 10) {
+  decades.push({ decade: d, count: decadeCounts.get(d) ?? 0 });
+}
+const decadePeak = Math.max(...decades.map((d) => d.count));
+const datedWorksCount = decades.reduce((sum, d) => sum + d.count, 0);
+const spanYears = decadeMax + 9 - decadeMin;
 ---
 
 <BaseLayout>
@@ -87,22 +120,53 @@ const stats = [
     </div>
   </section>
 
-  <!-- Archive at a glance -->
+  <!-- Archive at a glance: two centuries of the liberal argument -->
   <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
-    <div class="mx-auto max-w-6xl px-6 py-10">
-      <h2 class="sr-only">The archive at a glance</h2>
-      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-x-6 gap-y-8 text-center">
+    <div class="mx-auto max-w-6xl px-6 pt-12 pb-10">
+      <div class="flex items-baseline justify-between flex-wrap gap-2 mb-8">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-forest-700) font-(family-name:--font-ui) font-semibold">
+          The archive at a glance
+        </h2>
+        <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
+          {spanYears > 100 ? "Two centuries" : "Decades"} of the liberal argument, {decadeMin}–{decadeMax + 9}
+        </p>
+      </div>
+
+      {/* Key numbers — each links into its section of the archive */}
+      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 lg:divide-x divide-(--color-border)">
         {stats.map((s) => (
-          <div>
-            <dd class="font-(family-name:--font-display) font-semibold text-3xl md:text-4xl text-(--color-fg) tabular-nums">
-              {s.value.toLocaleString("en-IN")}
-            </dd>
-            <dt class="mt-1 text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui)">
-              {s.label}
-            </dt>
+          <div class="lg:px-6 first:lg:pl-0 last:lg:pr-0 py-2 lg:py-0">
+            <a href={s.href} class="group block no-underline">
+              <dd class="font-(family-name:--font-display) font-semibold text-4xl md:text-[2.75rem] leading-none text-(--color-fg) tabular-nums group-hover:text-(--color-saffron-700) transition-colors">
+                {s.value.toLocaleString("en-IN")}
+              </dd>
+              <dt class="mt-2 text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) group-hover:text-(--color-fg) transition-colors">
+                {s.label} <span aria-hidden class="opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+              </dt>
+            </a>
           </div>
         ))}
       </dl>
+
+      {/* Works per decade — the corpus drawn as a shelf of bars */}
+      <figure class="mt-10" aria-label={`Primary works per decade, ${decadeMin}s to ${decadeMax}s`}>
+        <div class="flex items-end gap-[3px] h-20 md:h-24">
+          {decades.map((d) => (
+            <div
+              class="flex-1 rounded-t-[2px] bg-(--color-saffron-500)/70 hover:bg-(--color-saffron-700) transition-colors min-h-[2px]"
+              style={`height: ${d.count === 0 ? 2 : Math.max(4, Math.round((d.count / decadePeak) * 100))}%`}
+              title={`${d.decade}s — ${d.count === 1 ? "1 work" : `${d.count} works`}`}
+            />
+          ))}
+        </div>
+        <figcaption class="mt-2 flex items-baseline justify-between text-[11px] text-(--color-fg-muted) font-(family-name:--font-ui)">
+          <span>{decadeMin}s</span>
+          <span class="hidden sm:inline">
+            {datedWorksCount.toLocaleString("en-IN")} dated works per decade — from the Bengal Renaissance to the reform era and beyond
+          </span>
+          <span>{decadeMax}s</span>
+        </figcaption>
+      </figure>
     </div>
   </section>
 

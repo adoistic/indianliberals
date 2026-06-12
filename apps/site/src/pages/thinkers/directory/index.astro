@@ -7,6 +7,10 @@
 // the liberal tradition (critics, opponents, contemporaries) are explicitly
 // labelled as such — their presence documents how liberal writing engaged
 // the world, not editorial endorsement.
+//
+// Layout note: with ~670 entries, portrait cards don't scale. This page
+// uses a compact index-row layout (small thumb / monogram + name + dates +
+// corpus stats) with a client-side name filter and a works-only toggle.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
@@ -21,11 +25,9 @@ const allThinkers = (await getCollection("thinkers", (t) => !t.data.draft && t.d
 
 const stats = await getThinkerStats();
 
-const treatmentFor = (t: typeof allThinkers[number]) => {
-  if (t.data.portrait?.caricature) return { src: t.data.portrait.caricature, kind: "caricature" } as const;
-  if (t.data.portrait?.ring_portrait) return { src: t.data.portrait.ring_portrait, kind: "ring" } as const;
-  if (t.data.portrait?.photo) return { src: t.data.portrait.photo, kind: "photo" } as const;
-  return null;
+const thumbFor = (t: typeof allThinkers[number]) => {
+  const p = t.data.portrait;
+  return p?.duotone ?? p?.caricature ?? p?.ring_portrait ?? p?.photo ?? null;
 };
 
 // Sentence-case a vocation enum value: "legal_scholar" → "Legal scholar"
@@ -72,6 +74,10 @@ const totalCount = allThinkers.length;
 const withWorksCount = allThinkers.filter((t) => (stats.get(t.id)?.worksAuthored ?? 0) > 0).length;
 const referencedCount = allThinkers.filter((t) => (stats.get(t.id)?.referencedIn ?? 0) > 0).length;
 const statLine = `${totalCount} people · ${withWorksCount} with works in the archive · ${referencedCount} referenced in other works`;
+
+const sectionCounts = new Map<CanonStatus, number>(
+  sections.map((s) => [s.id, allThinkers.filter((t) => t.data.canon_status === s.id).length]),
+);
 ---
 
 <BaseLayout
@@ -98,16 +104,54 @@ const statLine = `${totalCount} people · ${withWorksCount} with works in the ar
     </div>
   </section>
 
+  {/* Filter toolbar — sticky under the site header */}
+  <div class="sticky top-[4.5rem] z-40 border-b border-(--color-border) bg-(--color-bg)/95 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg)/85">
+    <div class="mx-auto max-w-6xl px-6 py-3 flex items-center gap-x-5 gap-y-2 flex-wrap font-(family-name:--font-ui)">
+      <label class="relative grow max-w-xs">
+        <span class="sr-only">Filter people by name</span>
+        <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" class="absolute left-3 top-1/2 -translate-y-1/2 text-(--color-fg-muted)"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
+        <input
+          id="dir-filter"
+          type="search"
+          placeholder="Filter by name…"
+          autocomplete="off"
+          class="w-full pl-9 pr-3 py-1.5 text-sm bg-(--color-bg-muted) border border-(--color-border) rounded-full outline-none focus:border-(--color-saffron-500) transition-colors"
+        />
+      </label>
+      <label class="flex items-center gap-2 text-sm text-(--color-fg-muted) cursor-pointer select-none">
+        <input id="dir-works-only" type="checkbox" class="accent-(--color-saffron-500)" />
+        With works only
+      </label>
+      <p class="text-xs text-(--color-fg-muted) ml-auto">
+        Showing <strong id="dir-count" class="text-(--color-fg)">{totalCount}</strong> of {totalCount}
+      </p>
+      <nav aria-label="Directory sections" class="hidden lg:flex items-center gap-2 text-xs">
+        {sections.map((s) => (
+          <a
+            href={`#${s.id}-heading`}
+            class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg-muted) hover:text-(--color-fg) hover:border-(--color-fg) transition-colors"
+          >
+            {s.id === "core" ? "Canon" : s.id === "extended" ? "Extended" : s.id === "referenced" ? "Referenced" : "Unclassified"}
+            <span class="opacity-60"> {sectionCounts.get(s.id)}</span>
+          </a>
+        ))}
+      </nav>
+    </div>
+  </div>
+
   {sections.map((section) => {
     const sectionThinkers = allThinkers.filter((t) => t.data.canon_status === section.id);
     if (sectionThinkers.length === 0) return null;
     const headingId = `${section.id}-heading`;
 
     return (
-      <section aria-labelledby={headingId} class="border-b border-(--color-border) last:border-b-0">
+      <section aria-labelledby={headingId} class="dir-section border-b border-(--color-border) last:border-b-0 scroll-mt-32" data-section={section.id}>
         <div class="mx-auto max-w-6xl px-6 py-12">
           <h2 id={headingId} class="text-(--color-fg) text-2xl md:text-3xl font-(family-name:--font-display) mb-3">
             {section.title}
+            <span class="ml-2 text-base font-(family-name:--font-ui) font-normal text-(--color-fg-muted) dir-section-count" data-total={sectionThinkers.length}>
+              {sectionThinkers.length}
+            </span>
           </h2>
           <p class={section.isAwaiting
             ? "text-(--color-fg-muted) text-sm mb-8 font-(family-name:--font-ui) italic max-w-prose"
@@ -115,68 +159,108 @@ const statLine = `${totalCount} people · ${withWorksCount} with works in the ar
           }>
             {section.blurb}
           </p>
-          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
+          <ul class="grid md:grid-cols-2 xl:grid-cols-3 gap-x-8 gap-y-1">
             {sectionThinkers.map((t) => {
-              const treatment = treatmentFor(t);
+              const thumb = thumbFor(t);
               const tStat: ThinkerStat = stats.get(t.id) ?? { worksAuthored: 0, referencedIn: 0 };
-              const vocationCaption = (t.data.vocations ?? []).map(prettifyVocation).join(" · ");
-              const worksText = tStat.worksAuthored === 1 ? "1 work on this site" : `${tStat.worksAuthored} works on this site`;
-              const referencedText = tStat.referencedIn === 1 ? "Referenced in 1 piece" : `Referenced in ${tStat.referencedIn} pieces`;
+              const vocationCaption = (t.data.vocations ?? []).slice(0, 2).map(prettifyVocation).join(" · ");
+              const dates =
+                t.data.birth_year || t.data.death_year
+                  ? `${t.data.birth_year ?? "?"}–${t.data.death_year ?? ""}`
+                  : "";
+              const searchKey = [t.data.name.canonical, ...(t.data.name.also_known_as ?? [])]
+                .join(" ")
+                .toLowerCase();
               const pagefindVocations = (t.data.vocations ?? []).map((v) => `vocation:${v}`).join(",");
 
               return (
-                <a
-                  href={`/thinkers/${t.id}/`}
-                  class="group block no-underline"
-                  data-pagefind-filter={`canon-status:${t.data.canon_status}${pagefindVocations ? "," + pagefindVocations : ""}`}
+                <li
+                  class="dir-row"
+                  data-name={searchKey}
+                  data-works={tStat.worksAuthored}
                 >
-                  <div class="aspect-[3/4] bg-(--color-bg-muted) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
-                    {treatment ? (
-                      <img
-                        src={treatment.src}
-                        alt=""
-                        width="240"
-                        height="320"
-                        loading="lazy"
-                        class={treatment.kind === "ring"
-                          ? "w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
-                          : "w-full h-full object-contain object-bottom group-hover:scale-[1.02] transition-transform duration-300"
-                        }
-                      />
-                    ) : (
-                      <span class="text-(--color-fg-muted) text-4xl font-(family-name:--font-display) opacity-30">
-                        {t.data.name.canonical.charAt(0)}
+                  <a
+                    href={`/thinkers/${t.id}/`}
+                    class="flex items-center gap-3 py-2 px-2 -mx-2 rounded no-underline group hover:bg-(--color-bg-muted) transition-colors"
+                    data-pagefind-filter={`canon-status:${t.data.canon_status}${pagefindVocations ? "," + pagefindVocations : ""}`}
+                  >
+                    <span class="shrink-0 w-10 h-10 rounded-full overflow-hidden bg-(--color-bg-muted) border border-(--color-border) flex items-center justify-center">
+                      {thumb ? (
+                        <img src={thumb} alt="" width="40" height="40" loading="lazy" class="w-full h-full object-cover object-top" />
+                      ) : (
+                        <span class="text-(--color-fg-muted) text-sm font-(family-name:--font-display) opacity-50">
+                          {t.data.name.canonical.charAt(0)}
+                        </span>
+                      )}
+                    </span>
+                    <span class="min-w-0">
+                      <span class="block text-sm font-(family-name:--font-ui) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight truncate">
+                        {t.data.name.canonical}
+                        {dates && <span class="ml-1.5 font-normal text-(--color-fg-muted) text-xs">{dates}</span>}
                       </span>
-                    )}
-                  </div>
-                  <p class="mt-3 text-(--color-fg) font-(family-name:--font-ui) text-sm font-semibold leading-tight">
-                    {t.data.name.canonical}
-                  </p>
-                  {vocationCaption && (
-                    <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-                      {vocationCaption}
-                    </p>
-                  )}
-                  {(tStat.worksAuthored > 0 || tStat.referencedIn > 0) && (
-                    <p class="mt-1.5 flex items-center gap-1.5 flex-wrap">
-                      {tStat.worksAuthored > 0 && (
-                        <span class="inline-block px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-(family-name:--font-ui) font-semibold bg-(--color-forest-100) text-(--color-forest-700)">
-                          {worksText}
-                        </span>
-                      )}
-                      {tStat.referencedIn > 0 && (
-                        <span class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-                          {tStat.worksAuthored > 0 ? "· " : ""}{referencedText}
-                        </span>
-                      )}
-                    </p>
-                  )}
-                </a>
+                      <span class="block text-xs text-(--color-fg-muted) font-(family-name:--font-ui) truncate mt-0.5">
+                        {vocationCaption}
+                        {vocationCaption && (tStat.worksAuthored > 0 || tStat.referencedIn > 0) && " · "}
+                        {tStat.worksAuthored > 0 && (
+                          <span class="text-(--color-forest-700) font-semibold">
+                            {tStat.worksAuthored === 1 ? "1 work" : `${tStat.worksAuthored} works`}
+                          </span>
+                        )}
+                        {tStat.worksAuthored > 0 && tStat.referencedIn > 0 && " · "}
+                        {tStat.referencedIn > 0 && `cited in ${tStat.referencedIn}`}
+                      </span>
+                    </span>
+                  </a>
+                </li>
               );
             })}
-          </div>
+          </ul>
+          <p class="dir-section-empty hidden text-sm text-(--color-fg-muted) font-(family-name:--font-ui) italic">
+            No one in this section matches the filter.
+          </p>
         </div>
       </section>
     );
   })}
+
+  <script is:inline>
+    (function () {
+      const input = document.getElementById("dir-filter");
+      const worksOnly = document.getElementById("dir-works-only");
+      const countEl = document.getElementById("dir-count");
+      const rows = Array.from(document.querySelectorAll(".dir-row"));
+      const sections = Array.from(document.querySelectorAll(".dir-section"));
+
+      function apply() {
+        const q = (input.value || "").trim().toLowerCase();
+        const onlyWorks = worksOnly.checked;
+        let visible = 0;
+        for (const row of rows) {
+          const matches =
+            (!q || row.dataset.name.includes(q)) &&
+            (!onlyWorks || Number(row.dataset.works) > 0);
+          row.style.display = matches ? "" : "none";
+          if (matches) visible++;
+        }
+        countEl.textContent = String(visible);
+        for (const section of sections) {
+          const sectionRows = section.querySelectorAll(".dir-row");
+          let sectionVisible = 0;
+          for (const r of sectionRows) if (r.style.display !== "none") sectionVisible++;
+          const countSpan = section.querySelector(".dir-section-count");
+          if (countSpan) {
+            countSpan.textContent =
+              sectionVisible === Number(countSpan.dataset.total)
+                ? countSpan.dataset.total
+                : sectionVisible + " of " + countSpan.dataset.total;
+          }
+          const empty = section.querySelector(".dir-section-empty");
+          if (empty) empty.classList.toggle("hidden", sectionVisible !== 0);
+        }
+      }
+
+      input.addEventListener("input", apply);
+      worksOnly.addEventListener("change", apply);
+    })();
+  </script>
 </BaseLayout>
