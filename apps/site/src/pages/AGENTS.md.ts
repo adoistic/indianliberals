@@ -25,8 +25,7 @@ significant Indian liberal thinkers, thinker profiles, organisation pages, curat
 excerpts ("musings"), opinion pieces, interviews, and a federated mirror from
 ThePrint's "Indian Liberals Matter" column.
 
-Maintained by the Centre for Civil Society (CCS) in partnership with the
-Friedrich Naumann Foundation for Freedom. Site rebuilt by Thothica.
+Maintained by the Centre for Civil Society (CCS). Site rebuilt by Thothica.
 
 ## Two-tier model
 
