@@ -1,4 +1,13 @@
 ---
+// Landing page — the collection is the hero.
+//
+// Design intent (2026-06 redesign): a world-class archive leads with its
+// holdings, not with copy about itself. The hero is a drifting mosaic of
+// the collection's own portraits and periodical covers; the stats band
+// doubles as a navigable map of the corpus; every doorway card is built
+// from real collection imagery. All motion is CSS-only, staggered via
+// IntersectionObserver, and fully disabled under prefers-reduced-motion.
+
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
@@ -6,8 +15,7 @@ const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 
 const featuredThinkers = allThinkers
   .filter((t) => t.data.featured && t.data.portrait?.duotone)
-  .sort((a, b) => (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999))
-  .slice(0, 6);
+  .sort((a, b) => (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999));
 
 // Latest 6 ThePrint articles — links go out to theprint.in (the canonical
 // home). The federated column updates daily via the theprint-ingest worker
@@ -25,18 +33,12 @@ const allWorks = await getCollection("primary-works", (w) => !w.data.draft);
 const allMusings = await getCollection("musings", (m) => !m.data.draft);
 const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
 const allOrgs = await getCollection("organisations", (o) => !o.data.draft);
+const interviewCount = allWorks.filter((w) => w.data.work_type === "interview").length;
+const periodicalCount = allWorks.filter((w) => w.data.work_type === "periodical_issue").length;
 const stats = [
   { value: allWorks.length, label: "Primary works", href: "/primary-works/" },
-  {
-    value: allWorks.filter((w) => w.data.work_type === "periodical_issue").length,
-    label: "Periodical issues",
-    href: "/periodicals/",
-  },
-  {
-    value: allWorks.filter((w) => w.data.work_type === "interview").length,
-    label: "Interviews",
-    href: "/primary-works/",
-  },
+  { value: periodicalCount, label: "Periodical issues", href: "/periodicals/" },
+  { value: interviewCount, label: "Interviews", href: "/interviews/" },
   {
     value: allThinkers.filter((t) =>
       ["core", "extended"].includes(t.data.canon_status),
@@ -77,53 +79,126 @@ for (let d = decadeMin; d <= decadeMax; d += 10) {
 const decadePeak = Math.max(...decades.map((d) => d.count));
 const datedWorksCount = decades.reduce((sum, d) => sum + d.count, 0);
 const spanYears = decadeMax + 9 - decadeMin;
+
+// ── Hero mosaic ─────────────────────────────────────────────────────────
+// Three slowly drifting columns built from the collection's own imagery:
+// duotone portraits interleaved with periodical covers. Purely decorative
+// (aria-hidden); the same people are reachable through real links below.
+const mosaicPortraits = featuredThinkers
+  .map((t) => t.data.portrait!.duotone!)
+  .slice(0, 18);
+const mosaicCovers = allWorks
+  .filter((w) => w.data.work_type === "periodical_issue" && w.data.cover_image)
+  .map((w) => w.data.cover_image as string)
+  .slice(0, 6);
+// Interleave: a cover after every third portrait, split across 3 columns.
+const mosaicPool: string[] = [];
+let coverIdx = 0;
+mosaicPortraits.forEach((p, i) => {
+  mosaicPool.push(p);
+  if ((i + 1) % 3 === 0 && coverIdx < mosaicCovers.length) {
+    mosaicPool.push(mosaicCovers[coverIdx++]);
+  }
+});
+const mosaicCols: string[][] = [[], [], []];
+mosaicPool.forEach((src, i) => mosaicCols[i % 3].push(src));
+
+// Doorway imagery — real objects from the collection.
+const doorwayPortraits = featuredThinkers.slice(0, 3).map((t) => t.data.portrait!.duotone!);
+const doorwayCovers = mosaicCovers.slice(0, 3);
+const doorwayInterview = (() => {
+  const preferred = allWorks.find((w) => w.id === "union-budget-1992-1993-by-nani-palkhivala");
+  const candidate = preferred ?? allWorks.find((w) => w.data.work_type === "interview" && w.data.youtube_url);
+  const u = candidate?.data.youtube_url ?? "";
+  const m = u.match(/[?&]v=([a-zA-Z0-9_-]{6,15})/) ?? u.match(/youtu\.be\/([a-zA-Z0-9_-]{6,15})/);
+  return m ? `https://i.ytimg.com/vi/${m[1]}/hqdefault.jpg` : "";
+})();
+
+const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
+  src: t.data.portrait!.duotone!,
+  name: t.data.name.canonical,
+  id: t.id,
+}));
 ---
 
 <BaseLayout>
-  <!-- Hero -->
-  <section class="border-b border-(--color-border)">
-    <div class="mx-auto max-w-6xl px-6 py-20 md:py-28 grid md:grid-cols-[1fr_auto] gap-12 items-center">
-      <div>
-        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-4">
-          An online archive of Indian liberal works
+  <!-- ── Hero: the collection is the hero ─────────────────────────── -->
+  <section class="relative border-b border-(--color-border) overflow-hidden">
+    <div class="mx-auto max-w-6xl px-6 py-16 md:py-24 lg:grid lg:grid-cols-[1.1fr_0.9fr] lg:gap-16 lg:items-center">
+      <div class="relative z-10">
+        <p class="flex items-center gap-2.5 text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-5" data-reveal>
+          <img src="/brand/brand-mark-crane.png" alt="" class="h-6 w-6" width="24" height="24" />
+          A digital archive of the Indian liberal tradition
         </p>
-        <h1 class="text-(--color-fg) max-w-2xl">
-          A modern home for the Indian liberal tradition.
+        <h1 class="text-(--color-fg) max-w-xl text-4xl md:text-5xl lg:text-[3.4rem] leading-[1.05] tracking-tight" data-reveal style="--reveal-delay: 60ms">
+          Two centuries of the liberal argument for India.
         </h1>
-        <p class="mt-6 text-lg leading-relaxed text-(--color-fg-muted) max-w-prose">
-          Primary works by historically significant Indian liberal thinkers, alongside thinker profiles, organisation pages, curated excerpts, opinion pieces, interviews, and a federated feed from ThePrint&rsquo;s &ldquo;Indian Liberals Matter&rdquo; column.
+        <p class="mt-6 text-lg leading-relaxed text-(--color-fg-muted) max-w-prose" data-reveal style="--reveal-delay: 120ms">
+          From the Bengal Renaissance to the 1991 reforms and beyond &mdash;
+          {datedWorksCount.toLocaleString("en-IN")} dated works, the periodical
+          runs that carried the debate, the voices that lived it, and the
+          thinkers who made the case for individual liberty, free enterprise,
+          and constitutional governance.
         </p>
-        <div class="mt-8 flex flex-wrap gap-3 font-(family-name:--font-ui)">
+        <div class="mt-8 flex flex-wrap gap-3 font-(family-name:--font-ui)" data-reveal style="--reveal-delay: 180ms">
           <a
-            href="/thinkers/"
+            href="/primary-works/"
             class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-white! rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
           >
-            Browse thinkers <span aria-hidden>→</span>
+            Explore the archive <span aria-hidden>→</span>
           </a>
           <a
-            href="/about/"
+            href="/thinkers/"
             class="inline-flex items-center gap-2 px-5 py-2.5 border border-(--color-border) rounded-full text-sm font-semibold no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors"
           >
-            About this archive
+            Meet the thinkers
           </a>
         </div>
+
+        {/* Mobile: the collection peeks in as a horizontal strip */}
+        <div class="mt-10 flex gap-3 overflow-x-auto pb-2 lg:hidden" data-reveal style="--reveal-delay: 240ms">
+          {heroStripPortraits.map((p) => (
+            <a href={`/thinkers/${p.id}/`} class="shrink-0 no-underline group" aria-label={p.name}>
+              <img
+                src={p.src}
+                alt=""
+                width="96"
+                height="128"
+                loading="lazy"
+                class="h-28 w-21 object-cover rounded-sm border border-(--color-border) group-hover:opacity-90 transition-opacity"
+              />
+            </a>
+          ))}
+        </div>
       </div>
-      <div class="hidden md:block">
-        <img
-          src="/brand/brand-mark-crane.png"
-          alt="The Indian Liberals brand mark — an origami crane in the Indian tricolor"
-          width="220"
-          height="220"
-          class="w-44 h-44 lg:w-56 lg:h-56"
-        />
+
+      {/* Desktop: drifting mosaic of portraits + covers */}
+      <div class="hero-mosaic hidden lg:flex gap-4 h-[34rem]" aria-hidden="true">
+        {mosaicCols.map((col, i) => (
+          <div class={`mosaic-col flex-1 ${i === 1 ? "mosaic-col-down" : ""}`} style={`--drift-dur: ${62 + i * 14}s`}>
+            <div class="mosaic-track flex flex-col gap-4">
+              {[...col, ...col].map((src) => (
+                <img
+                  src={src}
+                  alt=""
+                  width="200"
+                  height="266"
+                  loading="lazy"
+                  decoding="async"
+                  class="w-full aspect-[3/4] object-cover rounded-sm border border-(--color-border) shadow-sm"
+                />
+              ))}
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>
 
-  <!-- Archive at a glance: two centuries of the liberal argument -->
+  <!-- ── The archive at a glance: numbers + the corpus as a timeline ── -->
   <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
     <div class="mx-auto max-w-6xl px-6 pt-12 pb-10">
-      <div class="flex items-baseline justify-between flex-wrap gap-2 mb-8">
+      <div class="flex items-baseline justify-between flex-wrap gap-2 mb-8" data-reveal>
         <h2 class="text-xs uppercase tracking-widest text-(--color-forest-700) font-(family-name:--font-ui) font-semibold">
           The archive at a glance
         </h2>
@@ -133,7 +208,7 @@ const spanYears = decadeMax + 9 - decadeMin;
       </div>
 
       {/* Key numbers — each links into its section of the archive */}
-      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 lg:divide-x divide-(--color-border)">
+      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 lg:divide-x divide-(--color-border)" data-reveal style="--reveal-delay: 80ms">
         {stats.map((s) => (
           <div class="lg:px-6 first:lg:pl-0 last:lg:pr-0 py-2 lg:py-0">
             <a href={s.href} class="group block no-underline">
@@ -149,12 +224,12 @@ const spanYears = decadeMax + 9 - decadeMin;
       </dl>
 
       {/* Works per decade — the corpus drawn as a shelf of bars */}
-      <figure class="mt-10" aria-label={`Primary works per decade, ${decadeMin}s to ${decadeMax}s`}>
-        <div class="flex items-end gap-[3px] h-20 md:h-24">
-          {decades.map((d) => (
+      <figure class="mt-10" aria-label={`Primary works per decade, ${decadeMin}s to ${decadeMax}s`} data-reveal style="--reveal-delay: 160ms">
+        <div class="histogram flex items-end gap-[3px] h-20 md:h-24">
+          {decades.map((d, i) => (
             <div
-              class="flex-1 rounded-t-[2px] bg-(--color-saffron-500)/70 hover:bg-(--color-saffron-700) transition-colors min-h-[2px]"
-              style={`height: ${d.count === 0 ? 2 : Math.max(4, Math.round((d.count / decadePeak) * 100))}%`}
+              class="histogram-bar flex-1 rounded-t-[2px] bg-(--color-saffron-500)/70 hover:bg-(--color-saffron-700) transition-colors min-h-[2px]"
+              style={`height: ${d.count === 0 ? 2 : Math.max(4, Math.round((d.count / decadePeak) * 100))}%; --bar-delay: ${i * 28}ms`}
               title={`${d.decade}s — ${d.count === 1 ? "1 work" : `${d.count} works`}`}
             />
           ))}
@@ -170,67 +245,158 @@ const spanYears = decadeMax + 9 - decadeMin;
     </div>
   </section>
 
-  <!-- Featured thinkers -->
+  <!-- ── Four doorways into the stacks ─────────────────────────────── -->
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-16">
+      <div class="mb-10 max-w-prose" data-reveal>
+        <h2 class="text-(--color-fg)">Begin in the stacks</h2>
+        <p class="text-(--color-fg-muted) mt-2">
+          Four ways into the collection — by work, by run, by voice, by thinker.
+        </p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 font-(family-name:--font-ui)">
+        {/* Primary works — a shelf of spines */}
+        <a href="/primary-works/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal>
+          <div class="h-32 mb-5 flex items-end gap-1.5 px-2" aria-hidden="true">
+            <span class="w-5 h-24 rounded-t-sm bg-(--color-forest-500)/80 group-hover:h-28 transition-all duration-300"></span>
+            <span class="w-5 h-28 rounded-t-sm bg-(--color-saffron-500)/80 group-hover:h-31 transition-all duration-300 delay-75"></span>
+            <span class="w-5 h-20 rounded-t-sm bg-(--color-slate-500)/70 group-hover:h-24 transition-all duration-300 delay-100"></span>
+            <span class="w-5 h-26 rounded-t-sm bg-(--color-gold-500)/80 group-hover:h-30 transition-all duration-300 delay-150"></span>
+            <span class="w-5 h-22 rounded-t-sm bg-(--color-forest-700)/80 group-hover:h-26 transition-all duration-300 delay-200"></span>
+            <span class="w-5 h-27 rounded-t-sm bg-(--color-saffron-700)/80 group-hover:h-31 transition-all duration-300 delay-300"></span>
+          </div>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">Primary works</h3>
+          <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
+            {allWorks.length} books, pamphlets, essays, and speeches — with AI-extracted metadata, summaries, and the source PDFs.
+          </p>
+        </a>
+
+        {/* Periodicals — fanned covers */}
+        <a href="/periodicals/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal style="--reveal-delay: 70ms">
+          <div class="relative h-32 mb-5" aria-hidden="true">
+            {doorwayCovers.map((src, i) => (
+              <img
+                src={src}
+                alt=""
+                width="84"
+                height="112"
+                loading="lazy"
+                class={`absolute top-1 h-28 w-21 object-cover object-top rounded-sm border border-(--color-border) shadow-sm transition-transform duration-300 ${
+                  i === 0
+                    ? "left-2 -rotate-6 group-hover:-rotate-[9deg]"
+                    : i === 1
+                      ? "left-14 rotate-0 z-10 group-hover:-translate-y-1"
+                      : "left-26 rotate-6 group-hover:rotate-[9deg]"
+                }`}
+              />
+            ))}
+          </div>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">The periodical runs</h3>
+          <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
+            {periodicalCount} issues of Khoj, The Indian Libertarian, Liberal Times, and Shetkari Sanghatak — indexed issue by issue.
+          </p>
+        </a>
+
+        {/* Interviews — a still with a play badge */}
+        <a href="/interviews/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal style="--reveal-delay: 140ms">
+          <div class="relative h-32 mb-5 rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted)" aria-hidden="true">
+            {doorwayInterview && (
+              <img src={doorwayInterview} alt="" width="320" height="180" loading="lazy" class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300" />
+            )}
+            <span class="absolute inset-0 flex items-center justify-center">
+              <span class="h-11 w-11 rounded-full bg-black/55 group-hover:bg-(--color-saffron-700)/90 transition-colors flex items-center justify-center">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
+              </span>
+            </span>
+          </div>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">Recorded voices</h3>
+          <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
+            {interviewCount} interviews, oral histories, and historic addresses — from Palkhivala&rsquo;s 1992 budget speech onward, with transcripts.
+          </p>
+        </a>
+
+        {/* Thinkers — overlapping portrait stack */}
+        <a href="/thinkers/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal style="--reveal-delay: 210ms">
+          <div class="relative h-32 mb-5 flex items-center pl-2" aria-hidden="true">
+            {doorwayPortraits.map((src, i) => (
+              <img
+                src={src}
+                alt=""
+                width="88"
+                height="88"
+                loading="lazy"
+                class={`h-22 w-22 rounded-full object-cover object-top border-2 border-(--color-bg) shadow-sm group-hover:-translate-y-0.5 transition-transform duration-300 ${
+                  i > 0 ? "-ml-7" : ""
+                }`}
+                style={`z-index: ${10 - i}`}
+              />
+            ))}
+            <span class="-ml-7 h-22 w-22 rounded-full bg-(--color-bg-muted) border-2 border-(--color-bg) shadow-sm flex items-center justify-center text-sm font-semibold text-(--color-fg-muted)">
+              +{featuredThinkers.length - 3}
+            </span>
+          </div>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">The thinkers</h3>
+          <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
+            The curated canon — and a full directory of every person the corpus engages, clearly labelled.
+          </p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Featured thinkers rail ────────────────────────────────────── -->
   {featuredThinkers.length > 0 && (
-    <section class="border-b border-(--color-border)">
+    <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
       <div class="mx-auto max-w-6xl px-6 py-16">
-        <div class="flex items-end justify-between mb-8 flex-wrap gap-4">
+        <div class="flex items-end justify-between mb-8 flex-wrap gap-4" data-reveal>
           <div>
-            <h2 class="text-(--color-fg)">Featured thinkers</h2>
+            <h2 class="text-(--color-fg)">The canon, in order</h2>
             <p class="text-(--color-fg-muted) mt-2 max-w-prose">
-              Figures who shaped the Indian liberal tradition — from Raja Ram Mohan Roy through the Swatantra-era classical liberals to contemporary commentators.
+              From Raja Ram Mohan Roy to the Swatantra-era classical liberals —
+              the thinkers at the heart of this archive, chronologically.
             </p>
           </div>
           <a href="/thinkers/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
             All thinkers →
           </a>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
-          {featuredThinkers.map((t) => (
-            <a href={`/thinkers/${t.id}/`} class="group no-underline block">
-              <div class="aspect-[3/4] bg-(--color-bg-muted) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
-                {t.data.portrait?.duotone && (
-                  <img src={t.data.portrait.duotone} alt="" width="240" height="320" loading="lazy" class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300" />
-                )}
-              </div>
-              <h3 class="mt-3 font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">{t.data.name.canonical}</h3>
-              {t.data.birth_year && (
-                <p class="text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-                  {t.data.birth_year}–{t.data.death_year ?? ""}
-                </p>
-              )}
-            </a>
-          ))}
+        <div class="rail relative -mx-6 px-6" data-reveal style="--reveal-delay: 80ms">
+          <ul class="flex gap-5 overflow-x-auto snap-x snap-mandatory pb-3" aria-label="Featured thinkers, chronological">
+            {featuredThinkers.map((t) => (
+              <li class="snap-start shrink-0 w-36 md:w-40">
+                <a href={`/thinkers/${t.id}/`} class="group no-underline block">
+                  <div class="aspect-[3/4] bg-(--color-bg) border border-(--color-border) rounded-sm overflow-hidden transition-shadow group-hover:shadow-md">
+                    <img
+                      src={t.data.portrait!.duotone}
+                      alt=""
+                      width="160"
+                      height="214"
+                      loading="lazy"
+                      class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
+                    />
+                  </div>
+                  <h3 class="mt-3 font-(family-name:--font-display) font-semibold text-sm text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">
+                    {t.data.name.canonical}
+                  </h3>
+                  {t.data.birth_year && (
+                    <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mt-0.5">
+                      {t.data.birth_year}–{t.data.death_year ?? ""}
+                    </p>
+                  )}
+                </a>
+              </li>
+            ))}
+          </ul>
         </div>
       </div>
     </section>
   )}
 
-  <!-- What's in the archive -->
-  <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
-    <div class="mx-auto max-w-6xl px-6 py-16">
-      <h2 class="text-(--color-fg) mb-8">What&rsquo;s in the archive</h2>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 font-(family-name:--font-ui)">
-        {[
-          { title: "Primary works", desc: "Books, pamphlets, essays, and speeches by Indian liberal thinkers — served as PDFs with rich AI-extracted metadata, summaries, and key points.", href: "/primary-works/" },
-          { title: "Periodicals", desc: "Khoj, The Indian Libertarian, Liberal Times, and other runs — indexed at the issue level with metadata and AI summaries.", href: "/periodicals/" },
-          { title: "Thinker profiles", desc: "Biographies and bibliographies for each thinker, cross-linked to their works and organisations.", href: "/thinkers/" },
-          { title: "Curated excerpts", desc: "Cleaned passages from primary works — paragraph-addressable, full-text searchable, citable.", href: "/musings/" },
-        ].map((card) => (
-          <a href={card.href} class="block bg-(--color-bg) border border-(--color-border) rounded p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all">
-            <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) mb-2">{card.title}</h3>
-            <p class="text-sm text-(--color-fg-muted) leading-relaxed">{card.desc}</p>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Latest from ThePrint federated column — links go out to theprint.in -->
+  <!-- ── Latest from ThePrint federated column ─────────────────────── -->
   {latestTheprint.length > 0 && (
     <section class="border-b border-(--color-border)">
       <div class="mx-auto max-w-6xl px-6 py-16">
-        <div class="flex items-end justify-between mb-8 flex-wrap gap-4">
+        <div class="flex items-end justify-between mb-8 flex-wrap gap-4" data-reveal>
           <div>
             <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
               From the federated column
@@ -244,7 +410,7 @@ const spanYears = decadeMax + 9 - decadeMin;
             See all →
           </a>
         </div>
-        <ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6" data-reveal style="--reveal-delay: 80ms">
           {latestTheprint.map((p) => (
             <li>
               <a
@@ -268,33 +434,115 @@ const spanYears = decadeMax + 9 - decadeMin;
     </section>
   )}
 
-  <!-- For researchers and AI -->
-  <section>
-    <div class="mx-auto max-w-6xl px-6 py-16 grid md:grid-cols-2 gap-12">
-      <div>
-        <p class="text-xs uppercase tracking-widest text-(--color-forest-700) font-(family-name:--font-ui) font-semibold mb-3">
-          For researchers and AI agents
-        </p>
-        <h2 class="text-(--color-fg) mb-4">A citation-grade source you can trust.</h2>
-        <p class="text-(--color-fg-muted) leading-relaxed mb-4">
-          Every page has a <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">.md</code> sibling for machine readers. The corpus is indexed at <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">/llms.txt</code> and <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">/llms-full.txt</code> following the llms.txt spec.
-        </p>
-        <p class="text-(--color-fg-muted) leading-relaxed">
-          A Model Context Protocol server at <a href="https://mcp.indianliberals.in" class="text-(--color-forest-700)">mcp.indianliberals.in</a> lets your LLM client query the archive directly — see <a href="/AGENTS.md" class="text-(--color-forest-700)">/AGENTS.md</a> for the schema and citation rules.
-        </p>
-      </div>
-      <div>
-        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-          The two-tier model
-        </p>
-        <h2 class="text-(--color-fg) mb-4">Honest about what we know.</h2>
-        <p class="text-(--color-fg-muted) leading-relaxed mb-4">
-          Curated excerpts, opinion pieces, interviews, and profiles are fully searchable and paragraph-citable.
-        </p>
-        <p class="text-(--color-fg-muted) leading-relaxed">
-          Primary-work PDFs surface with rich metadata and AI-generated summaries — paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.
-        </p>
+  <!-- ── Built for citation: researchers, AI agents, the tier model ── -->
+  <section class="bg-(--color-forest-900)">
+    <div class="mx-auto max-w-6xl px-6 py-16 md:py-20">
+      <div class="grid md:grid-cols-2 gap-12">
+        <div data-reveal>
+          <p class="text-xs uppercase tracking-widest text-(--color-gold-300) font-(family-name:--font-ui) font-semibold mb-3">
+            For researchers and AI agents
+          </p>
+          <h2 class="text-white! mb-4">A citation-grade source you can trust.</h2>
+          <p class="text-white/75 leading-relaxed mb-4">
+            Every page has a <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">.md</code> sibling for machine readers. The corpus is indexed at <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">/llms.txt</code> and <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">/llms-full.txt</code> following the llms.txt spec.
+          </p>
+          <p class="text-white/75 leading-relaxed">
+            A Model Context Protocol server at <a href="https://mcp.indianliberals.in" class="text-(--color-gold-300) hover:text-white">mcp.indianliberals.in</a> lets your LLM client query the archive directly — see <a href="/AGENTS.md" class="text-(--color-gold-300) hover:text-white">/AGENTS.md</a> for the schema and citation rules.
+          </p>
+        </div>
+        <div data-reveal style="--reveal-delay: 100ms">
+          <p class="text-xs uppercase tracking-widest text-(--color-gold-300) font-(family-name:--font-ui) font-semibold mb-3">
+            The two-tier model
+          </p>
+          <h2 class="text-white! mb-4">Honest about what we know.</h2>
+          <p class="text-white/75 leading-relaxed mb-4">
+            Curated excerpts, opinion pieces, interviews, and profiles are fully searchable and paragraph-citable.
+          </p>
+          <p class="text-white/75 leading-relaxed">
+            Primary-work PDFs surface with rich metadata and AI-generated summaries — paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.
+          </p>
+        </div>
       </div>
     </div>
   </section>
+
+  <style>
+    /* Scroll reveal — elements drift up as they enter the viewport. The
+       no-js / reduced-motion default is fully visible content. */
+    @media (prefers-reduced-motion: no-preference) {
+      :global(.js-reveal) [data-reveal] {
+        opacity: 0;
+        transform: translateY(14px);
+        transition:
+          opacity 0.6s ease var(--reveal-delay, 0ms),
+          transform 0.6s ease var(--reveal-delay, 0ms);
+      }
+      :global(.js-reveal) [data-reveal].in-view {
+        opacity: 1;
+        transform: none;
+      }
+
+      /* Histogram bars grow out of the baseline, staggered left → right. */
+      :global(.js-reveal) .histogram-bar {
+        transform: scaleY(0);
+        transform-origin: bottom;
+        transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1) var(--bar-delay, 0ms);
+      }
+      :global(.js-reveal) [data-reveal].in-view .histogram-bar {
+        transform: scaleY(1);
+      }
+
+      /* Hero mosaic drift — each column loops over a duplicated track. */
+      .mosaic-track {
+        animation: mosaic-drift var(--drift-dur, 70s) linear infinite;
+      }
+      .mosaic-col-down .mosaic-track {
+        animation-direction: reverse;
+      }
+      @keyframes mosaic-drift {
+        from { transform: translateY(0); }
+        to { transform: translateY(-50%); }
+      }
+    }
+
+    .mosaic-col {
+      overflow: hidden;
+      mask-image: linear-gradient(to bottom, transparent, black 8%, black 92%, transparent);
+      -webkit-mask-image: linear-gradient(to bottom, transparent, black 8%, black 92%, transparent);
+    }
+    .mosaic-col:nth-child(2) {
+      margin-top: -3rem;
+    }
+
+    /* Edge fade on the horizontal thinker rail. */
+    .rail {
+      mask-image: linear-gradient(to right, transparent, black 1.5rem, black calc(100% - 1.5rem), transparent);
+      -webkit-mask-image: linear-gradient(to right, transparent, black 1.5rem, black calc(100% - 1.5rem), transparent);
+    }
+  </style>
+
+  <script is:inline>
+    // Progressive enhancement: only hide-and-reveal when JS is present.
+    document.documentElement.classList.add("js-reveal");
+    (function () {
+      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+      const targets = document.querySelectorAll("[data-reveal]");
+      if (!("IntersectionObserver" in window)) {
+        targets.forEach((el) => el.classList.add("in-view"));
+        return;
+      }
+      const io = new IntersectionObserver(
+        (entries) => {
+          for (const e of entries) {
+            if (e.isIntersecting) {
+              e.target.classList.add("in-view");
+              io.unobserve(e.target);
+            }
+          }
+        },
+        { rootMargin: "0px 0px -8% 0px", threshold: 0.08 },
+      );
+      targets.forEach((el) => io.observe(el));
+    })();
+  </script>
 </BaseLayout>
