@@ -15,6 +15,7 @@ vocations: [statesman, writer, parliamentarian]
 themes: ["classical_liberalism", "anti_communism", "free_enterprise"]
 affiliations: ["swatantra-party", "freedom-first", "indian-liberal-group"]
 portrait:
+  duotone: "/thinkers/duotone/minoo-masani.webp"
   photo: "/thinkers/photos/minoo-masani.jpg"
 bio_source: imported
 needs_review: true

@@ -9,6 +9,9 @@ name:
 tradition: classical_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/john-stuart-mill.webp"
+  photo: "/thinkers/photos/john-stuart-mill-wiki.jpg"
 vocations: [philosopher, economist, writer]
 nationality: uk
 themes: []

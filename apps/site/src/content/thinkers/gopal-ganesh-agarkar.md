@@ -7,6 +7,9 @@ name:
 tradition: social_reformer
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/gopal-ganesh-agarkar.webp"
+  photo: "/thinkers/photos/gopal-ganesh-agarkar-wiki.jpg"
 birth_year: 1856
 death_year: 1895
 vocations: [reformer, editor, writer]

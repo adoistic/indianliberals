@@ -64,6 +64,7 @@ contributors:
   - thinker: ambrish-mehta
     role: editor
 pdf_url: https://indianliberals.in/gujarati/khoj-july-august-2005.pdf
+cover_image: "/periodicals/covers/khoj-july-august-2005.webp"
 ---
 
 ## Summary

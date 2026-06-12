@@ -7,6 +7,9 @@ name:
 tradition: social_reformer
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/mahadev-govind-ranade.webp"
+  photo: "/thinkers/photos/mahadev-govind-ranade-wiki.jpg"
 vocations: [reformer, economist, judge]
 nationality: india
 themes: []

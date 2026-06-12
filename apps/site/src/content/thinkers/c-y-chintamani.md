@@ -7,6 +7,9 @@ name:
 tradition: constitutional_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/c-y-chintamani.webp"
+  photo: "/thinkers/photos/c-y-chintamani-wiki.jpg"
 birth_year: 1880
 death_year: 1941
 vocations: [editor, parliamentarian, journalist]

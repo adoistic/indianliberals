@@ -62,6 +62,7 @@ contributors:
   - thinker: rajesh-mishra
     role: editor
 pdf_url: https://indianliberals.in/gujarati/khoj-july-october-2008.pdf
+cover_image: "/periodicals/covers/khoj-july-october-2008.webp"
 ---
 
 ## Summary

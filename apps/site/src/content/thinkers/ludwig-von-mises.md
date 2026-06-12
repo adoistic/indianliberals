@@ -9,6 +9,9 @@ name:
 tradition: libertarian
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/ludwig-von-mises.webp"
+  photo: "/thinkers/photos/ludwig-von-mises-wiki.jpg"
 vocations: [economist, philosopher, professor]
 nationality: austria
 themes: []

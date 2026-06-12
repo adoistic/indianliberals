@@ -15,6 +15,7 @@ vocations: [reformer, writer, activist]
 themes: ["womens_rights", "education", "social_reform", "religious_freedom"]
 affiliations: ["mukti-mission"]
 portrait:
+  duotone: "/thinkers/duotone/pandita-ramabai.webp"
   photo: "/thinkers/photos/ramabai-pandita.jpg"
 bio_source: feature_article
 needs_review: true

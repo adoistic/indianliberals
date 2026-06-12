@@ -52,6 +52,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-apr1-1960.pdf
+cover_image: "/periodicals/covers/the-indian-libertarian-apr1-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

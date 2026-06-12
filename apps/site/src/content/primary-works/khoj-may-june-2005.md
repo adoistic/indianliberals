@@ -72,6 +72,7 @@ contributors:
   - thinker: ashwin-karia
     role: editor
 pdf_url: https://indianliberals.in/gujarati/khoj-may-june-2005.pdf
+cover_image: "/periodicals/covers/khoj-may-june-2005.webp"
 ---
 
 ## Summary

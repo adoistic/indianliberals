@@ -15,6 +15,7 @@ vocations: [editor, activist, writer]
 themes: ["classical_liberalism", "parliamentary_democracy", "free_enterprise"]
 affiliations: ["indian-liberal-group", "swatantra-party", "forum-of-free-enterprise"]
 portrait:
+  duotone: "/thinkers/duotone/s-v-raju.webp"
   photo: "/thinkers/photos/s-v-raju-original.jpg"
   caricature: "/thinkers/caricatures/s-v-raju.webp"
 bio_source: imported

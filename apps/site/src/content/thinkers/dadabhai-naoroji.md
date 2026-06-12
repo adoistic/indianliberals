@@ -7,6 +7,9 @@ name:
 tradition: constitutional_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/dadabhai-naoroji.webp"
+  photo: "/thinkers/photos/dadabhai-naoroji-wiki.jpg"
 vocations: [statesman, economist, writer]
 nationality: india
 themes: []

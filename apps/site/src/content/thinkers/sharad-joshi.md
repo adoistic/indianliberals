@@ -15,6 +15,7 @@ vocations: [activist, writer, economist, parliamentarian]
 themes: ["agricultural_freedom", "free_markets", "peasant_rights"]
 affiliations: ["shetkari-sanghatana", "swatantra-bharat-paksha"]
 portrait:
+  duotone: "/thinkers/duotone/sharad-joshi.webp"
   photo: "/thinkers/photos/sharad-joshi.jpg"
 bio_source: feature_article
 needs_review: true

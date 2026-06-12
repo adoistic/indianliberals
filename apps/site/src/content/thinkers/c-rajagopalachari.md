@@ -12,6 +12,9 @@ name:
 tradition: classical_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/c-rajagopalachari.webp"
+  photo: "/thinkers/photos/c-rajagopalachari-wiki.jpg"
 vocations: [statesman, writer, editor]
 nationality: india
 themes: []

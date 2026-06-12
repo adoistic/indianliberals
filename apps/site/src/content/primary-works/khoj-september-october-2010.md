@@ -66,6 +66,7 @@ contributors:
   - thinker: rajesh-mishra
     role: editor
 pdf_url: https://indianliberals.in/gujarati/khoj-september-october-2010.pdf
+cover_image: "/periodicals/covers/khoj-september-october-2010.webp"
 ---
 
 ## Summary

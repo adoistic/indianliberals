@@ -12,6 +12,7 @@ vocations: [economist, writer]
 themes: ["free_enterprise", "economic_policy"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:
+  duotone: "/thinkers/duotone/d-r-pendse.webp"
   photo: "/thinkers/photos/d-r-pendse.png"
 bio_source: imported
 needs_review: true

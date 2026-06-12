@@ -7,6 +7,9 @@ name:
 tradition: constitutional_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/v-s-srinivasa-sastri.webp"
+  photo: "/thinkers/photos/v-s-srinivasa-sastri-wiki.jpg"
 vocations: [statesman, diplomat, writer]
 nationality: india
 themes: []

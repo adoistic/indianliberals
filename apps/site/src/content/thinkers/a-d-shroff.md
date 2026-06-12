@@ -15,6 +15,7 @@ vocations: [industrialist, economist, writer]
 themes: ["free_enterprise", "banking", "industrial_policy"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:
+  duotone: "/thinkers/duotone/a-d-shroff.webp"
   photo: "/thinkers/photos/a-d-shroff.png"
   caricature: "/thinkers/caricatures/a-d-shroff.webp"
 bio_source: imported

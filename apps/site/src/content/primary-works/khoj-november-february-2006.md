@@ -63,6 +63,7 @@ contributors:
   - thinker: ambrish-mehta
     role: editor
 pdf_url: https://indianliberals.in/gujarati/khoj-november-december-2006.pdf
+cover_image: "/periodicals/covers/khoj-november-february-2006.webp"
 ---
 
 ## Summary

@@ -15,6 +15,9 @@ name:
 tradition: constitutional_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/m-n-roy.webp"
+  photo: "/thinkers/photos/m-n-roy-wiki.jpg"
 vocations: [philosopher, writer, activist]
 nationality: india
 themes: []

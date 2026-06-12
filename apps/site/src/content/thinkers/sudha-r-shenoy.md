@@ -15,6 +15,7 @@ vocations: [economist, historian, professor]
 themes: ["austrian_economics", "economic_liberty", "monetary_theory"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:
+  duotone: "/thinkers/duotone/sudha-r-shenoy.webp"
   photo: "/thinkers/photos/sudha-r-shenoy.jpg"
 bio_source: imported
 needs_review: true

@@ -92,6 +92,11 @@ const thinkers = defineCollection({
         photo: z.string().optional(),
         caricature: z.string().optional(),
         ring_portrait: z.string().optional(),
+        // Uniform archival duotone derived from photo/caricature by
+        // scripts/synthesis/make-duotone-portraits.py. The curated canon
+        // page renders this for visual consistency (CCS feedback 2.2);
+        // detail pages keep the original photo/caricature.
+        duotone: z.string().optional(),
       })
       .optional(),
     bio_source: z
@@ -422,6 +427,10 @@ const primaryWorks = defineCollection({
     pdf_url: z.string().url().optional(),
     pdf_staging_path: z.string().optional(),
     pdf_size_mb: z.number().optional(),
+    // First-page raster of the source PDF, e.g. "/periodicals/covers/<slug>.webp".
+    // Emitted by scripts/synthesis/make-periodical-covers.py; gives listing
+    // pages a visual shelf instead of text-only cards.
+    cover_image: z.string().optional(),
     // Tier promotion hooks (empty in v1, populated when paragraph-stable IDs land)
     paragraph_ids: z.array(z.string()).default([]),
     clean_markdown_url: z.string().url().optional(),

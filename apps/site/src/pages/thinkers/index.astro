@@ -32,7 +32,10 @@ const influences = featured.filter((t) => t.data.nationality !== "india").sort(b
 
 const directoryCount = allThinkers.length;
 
+// The canon page renders the uniform duotone treatment for consistency
+// (CCS feedback 2.2). Originals remain on the detail pages.
 const treatmentFor = (t: typeof allThinkers[number]) => {
+  if (t.data.portrait?.duotone) return { src: t.data.portrait.duotone, kind: "ring" } as const;
   if (t.data.portrait?.caricature) return { src: t.data.portrait.caricature, kind: "caricature" } as const;
   if (t.data.portrait?.ring_portrait) return { src: t.data.portrait.ring_portrait, kind: "ring" } as const;
   if (t.data.portrait?.photo) return { src: t.data.portrait.photo, kind: "photo" } as const;

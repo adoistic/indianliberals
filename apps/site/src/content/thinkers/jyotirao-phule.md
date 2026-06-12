@@ -12,6 +12,9 @@ name:
 tradition: social_reformer
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/jyotirao-phule.webp"
+  photo: "/thinkers/photos/jyotirao-phule-wiki.jpg"
 vocations: [reformer, writer, activist]
 nationality: india
 themes: []

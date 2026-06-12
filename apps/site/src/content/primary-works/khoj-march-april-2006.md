@@ -81,6 +81,7 @@ contributors:
   - thinker: ambrish-mehta
     role: editor
 pdf_url: https://indianliberals.in/gujarati/khoj-march-april-2006.pdf
+cover_image: "/periodicals/covers/khoj-march-april-2006.webp"
 ---
 
 ## Summary

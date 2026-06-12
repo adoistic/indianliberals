@@ -86,6 +86,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://indianliberals.in/gujarati/khoj-january-april-2009.pdf
+cover_image: "/periodicals/covers/khoj-january-april-2009.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

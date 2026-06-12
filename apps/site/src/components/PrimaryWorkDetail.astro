@@ -164,7 +164,8 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
     data-pagefind-filter={`type:primary-work,lang:${fm.language}`}
     data-pagefind-meta={`work_type:${fm.work_type},year:${yearStr}`}
   >
-    <header class="border-b border-(--color-border) pb-10 mb-10">
+    <header class="border-b border-(--color-border) pb-10 mb-10 md:grid md:grid-cols-[1fr_auto] md:gap-8 items-start">
+      <div>
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
         {fm.work_type.replace(/_/g, " ")}
         {fm.purpose && ` · ${fm.purpose.replace(/_/g, " ")}`}
@@ -215,7 +216,18 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       {pagesNote && (
         <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">{pagesNote}</p>
       )}
+      </div>
 
+      {fm.cover_image && (
+        <img
+          src={fm.cover_image}
+          alt={`First page of ${fm.title.main}`}
+          width="160"
+          height="213"
+          loading="lazy"
+          class="hidden md:block w-36 lg:w-40 border border-(--color-border) rounded-sm shadow-sm"
+        />
+      )}
     </header>
 
     {/* Tab nav — only when this work has a downloadable PDF.

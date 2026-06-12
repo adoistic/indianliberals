@@ -6,6 +6,9 @@ name:
 tradition: classical_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/milton-friedman.webp"
+  photo: "/thinkers/photos/milton-friedman-wiki.jpg"
 birth_year: 1912
 death_year: 2006
 vocations: [economist, philosopher, writer]

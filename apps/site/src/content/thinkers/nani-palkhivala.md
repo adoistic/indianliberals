@@ -15,6 +15,7 @@ vocations: [legal_scholar, writer, diplomat]
 themes: ["constitutional_liberalism", "property_rights", "taxation", "free_enterprise"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:
+  duotone: "/thinkers/duotone/nani-palkhivala.webp"
   photo: "/thinkers/photos/nani-palkhivala.jpg"
 bio_source: imported
 needs_review: true

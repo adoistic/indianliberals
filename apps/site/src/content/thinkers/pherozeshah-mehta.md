@@ -7,6 +7,9 @@ name:
 tradition: constitutional_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/pherozeshah-mehta.webp"
+  photo: "/thinkers/photos/pherozeshah-mehta-wiki.jpg"
 vocations: [statesman, legal_scholar, parliamentarian]
 nationality: india
 themes: []

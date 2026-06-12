@@ -16,6 +16,9 @@ name:
 tradition: social_reformer
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/bhimrao-ambedkar.webp"
+  photo: "/thinkers/photos/bhimrao-ambedkar-wiki.jpg"
 vocations: [reformer, legal_scholar, statesman, economist, writer]
 nationality: india
 themes: []

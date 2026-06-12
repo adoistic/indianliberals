@@ -15,6 +15,7 @@ vocations: [activist, writer, editor]
 themes: ["consumer_rights", "free_enterprise", "banking", "individual_rights"]
 affiliations: ["forum-of-free-enterprise"]
 portrait:
+  duotone: "/thinkers/duotone/m-r-pai.webp"
   photo: "/thinkers/photos/m-r-pai.jpg"
   caricature: "/thinkers/caricatures/m-r-pai.webp"
 bio_source: imported

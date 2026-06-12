@@ -12,6 +12,9 @@ name:
 tradition: social_reformer
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/ishwar-chandra-vidyasagar.webp"
+  photo: "/thinkers/photos/ishwar-chandra-vidyasagar-wiki.jpg"
 vocations: [reformer, writer, professor]
 nationality: india
 themes: []

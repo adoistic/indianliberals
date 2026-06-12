@@ -15,6 +15,7 @@ vocations: [reformer, writer, religious_figure]
 themes: ["social_reform", "religious_reform", "womens_rights", "free_press"]
 affiliations: ["brahmo-samaj"]
 portrait:
+  duotone: "/thinkers/duotone/raja-ram-mohan-roy.webp"
   caricature: "/thinkers/caricatures/raja-ram-mohan-roy.webp"
 bio_source: ai_drafted
 needs_review: true

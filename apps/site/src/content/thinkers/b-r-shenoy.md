@@ -15,6 +15,7 @@ vocations: [economist, professor, writer]
 themes: ["monetary_policy", "anti_planning", "free_trade", "austrian_economics"]
 affiliations: ["gujarat-university", "forum-of-free-enterprise", "mont-pelerin-society"]
 portrait:
+  duotone: "/thinkers/duotone/b-r-shenoy.webp"
   photo: "/thinkers/photos/b-r-shenoy.jpg"
 bio_source: imported
 needs_review: true

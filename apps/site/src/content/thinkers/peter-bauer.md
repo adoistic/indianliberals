@@ -7,6 +7,9 @@ name:
 tradition: classical_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/peter-bauer.webp"
+  photo: "/thinkers/photos/peter-bauer-wiki.jpg"
 vocations: [economist, professor, writer]
 nationality: hungary
 themes: []

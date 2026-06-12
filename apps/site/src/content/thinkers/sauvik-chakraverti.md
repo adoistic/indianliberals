@@ -13,6 +13,7 @@ vocations: [writer, journalist, economist]
 themes: ["austrian_economics", "free_markets", "anti_state"]
 affiliations: []
 portrait:
+  duotone: "/thinkers/duotone/sauvik-chakraverti.webp"
   photo: "/thinkers/photos/sauvik-chakraverti.jpg"
 bio_source: imported
 needs_review: true

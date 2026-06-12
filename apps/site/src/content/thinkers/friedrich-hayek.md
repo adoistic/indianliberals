@@ -7,6 +7,9 @@ name:
 tradition: classical_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/friedrich-hayek.webp"
+  photo: "/thinkers/photos/friedrich-hayek-wiki.jpg"
 vocations: [philosopher, economist, professor]
 nationality: austria
 themes: []

@@ -5,7 +5,8 @@ import { getCollection } from "astro:content";
 const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 
 const featuredThinkers = allThinkers
-  .filter((t) => t.data.portrait?.caricature || t.data.portrait?.ring_portrait)
+  .filter((t) => t.data.featured && t.data.portrait?.duotone)
+  .sort((a, b) => (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999))
   .slice(0, 6);
 
 // Latest 6 ThePrint articles — links go out to theprint.in (the canonical
@@ -124,11 +125,8 @@ const stats = [
           {featuredThinkers.map((t) => (
             <a href={`/thinkers/${t.id}/`} class="group no-underline block">
               <div class="aspect-[3/4] bg-(--color-bg-muted) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
-                {t.data.portrait?.caricature && (
-                  <img src={t.data.portrait.caricature} alt="" width="240" height="320" loading="lazy" class="w-full h-full object-contain object-bottom group-hover:scale-[1.02] transition-transform duration-300" />
-                )}
-                {t.data.portrait?.ring_portrait && !t.data.portrait?.caricature && (
-                  <img src={t.data.portrait.ring_portrait} alt="" width="240" height="320" loading="lazy" class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300" />
+                {t.data.portrait?.duotone && (
+                  <img src={t.data.portrait.duotone} alt="" width="240" height="320" loading="lazy" class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300" />
                 )}
               </div>
               <h3 class="mt-3 font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">{t.data.name.canonical}</h3>

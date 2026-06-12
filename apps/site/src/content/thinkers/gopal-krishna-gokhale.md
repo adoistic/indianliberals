@@ -9,6 +9,9 @@ name:
 tradition: constitutional_liberal
 canon_status: core
 featured: true
+portrait:
+  duotone: "/thinkers/duotone/gopal-krishna-gokhale.webp"
+  photo: "/thinkers/photos/gopal-krishna-gokhale-wiki.jpg"
 vocations: [statesman, writer, parliamentarian]
 nationality: india
 themes: []
