@@ -10,6 +10,7 @@ death_year: 1965
 nationality: india
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [industrialist, economist, writer]
 themes: ["free_enterprise", "banking", "industrial_policy"]
 affiliations: ["forum-of-free-enterprise"]

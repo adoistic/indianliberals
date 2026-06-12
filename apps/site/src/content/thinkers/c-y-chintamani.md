@@ -6,6 +6,9 @@ name:
   also_known_as: []
 tradition: constitutional_liberal
 canon_status: core
+featured: true
+birth_year: 1880
+death_year: 1941
 vocations: [editor, parliamentarian, journalist]
 nationality: india
 themes: []

@@ -10,6 +10,7 @@ death_year: 1922
 nationality: india
 tradition: social_reformer
 canon_status: extended
+featured: true
 vocations: [reformer, writer, activist]
 themes: ["womens_rights", "education", "social_reform", "religious_freedom"]
 affiliations: ["mukti-mission"]

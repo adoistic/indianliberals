@@ -7,6 +7,7 @@ name:
 nationality: india
 tradition: classical_liberal
 canon_status: extended
+featured: true
 vocations: [economist, writer]
 themes: ["free_enterprise", "economic_policy"]
 affiliations: ["forum-of-free-enterprise"]

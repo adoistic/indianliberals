@@ -6,6 +6,7 @@ name:
   also_known_as: []
 tradition: social_reformer
 canon_status: core
+featured: true
 vocations: [reformer, economist, judge]
 nationality: india
 themes: []

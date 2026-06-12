@@ -11,6 +11,7 @@ name:
     - राजाजी
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [statesman, writer, editor]
 nationality: india
 themes: []

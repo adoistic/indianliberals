@@ -6,8 +6,9 @@ name:
   full: Friedrich August von Hayek
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [philosopher, economist, professor]
-nationality: india
+nationality: austria
 themes: []
 affiliations: []
 bio_source: imported

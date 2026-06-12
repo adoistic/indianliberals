@@ -5,8 +5,11 @@ name:
   sort: Friedman, Milton
 tradition: classical_liberal
 canon_status: core
+featured: true
+birth_year: 1912
+death_year: 2006
 vocations: [economist, philosopher, writer]
-nationality: india
+nationality: usa
 themes: []
 affiliations: []
 bio_source: imported

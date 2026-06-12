@@ -14,6 +14,7 @@ name:
     - মানবেন্দ্র নাথ রায়
 tradition: constitutional_liberal
 canon_status: core
+featured: true
 vocations: [philosopher, writer, activist]
 nationality: india
 themes: []

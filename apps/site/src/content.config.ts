@@ -65,6 +65,11 @@ const thinkers = defineCollection({
       'referenced',   // Mentioned in the corpus but outside the liberal tradition
       'unclassified', // Default
     ]).default('unclassified'),
+    // Curated canon page membership. The /thinkers/ landing page shows ONLY
+    // featured entries (legacy-site 13 + select core additions, per CCS
+    // editorial direction 2026-06); everyone else stays reachable via
+    // /thinkers/directory/. Presentation-only — no thinker is ever removed.
+    featured: z.boolean().default(false),
     vocations: z.array(z.enum([
       // Academic / theoretical
       'philosopher', 'economist', 'historian', 'political_scientist',

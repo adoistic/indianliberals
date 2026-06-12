@@ -6,6 +6,9 @@ name:
   also_known_as: []
 tradition: social_reformer
 canon_status: core
+featured: true
+birth_year: 1856
+death_year: 1895
 vocations: [reformer, editor, writer]
 nationality: india
 themes: []

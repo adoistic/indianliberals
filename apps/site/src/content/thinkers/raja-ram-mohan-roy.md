@@ -10,6 +10,7 @@ death_year: 1833
 nationality: india
 tradition: social_reformer
 canon_status: core
+featured: true
 vocations: [reformer, writer, religious_figure]
 themes: ["social_reform", "religious_reform", "womens_rights", "free_press"]
 affiliations: ["brahmo-samaj"]

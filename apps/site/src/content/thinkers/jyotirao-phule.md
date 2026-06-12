@@ -11,6 +11,7 @@ name:
     - जोतीराव फुले
 tradition: social_reformer
 canon_status: core
+featured: true
 vocations: [reformer, writer, activist]
 nationality: india
 themes: []

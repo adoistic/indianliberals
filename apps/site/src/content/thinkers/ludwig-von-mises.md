@@ -8,8 +8,9 @@ name:
     - Von Mises
 tradition: libertarian
 canon_status: core
+featured: true
 vocations: [economist, philosopher, professor]
-nationality: india
+nationality: austria
 themes: []
 affiliations: []
 bio_source: imported

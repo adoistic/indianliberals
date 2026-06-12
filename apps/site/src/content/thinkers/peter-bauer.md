@@ -6,8 +6,9 @@ name:
   full: Peter Thomas Bauer
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [economist, professor, writer]
-nationality: india
+nationality: hungary
 themes: []
 affiliations: []
 bio_source: imported

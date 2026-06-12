@@ -8,6 +8,7 @@ death_year: 2018
 nationality: india
 tradition: libertarian
 canon_status: extended
+featured: true
 vocations: [writer, journalist, economist]
 themes: ["austrian_economics", "free_markets", "anti_state"]
 affiliations: []

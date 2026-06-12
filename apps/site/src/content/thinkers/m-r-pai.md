@@ -10,6 +10,7 @@ death_year: 2003
 nationality: india
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [activist, writer, editor]
 themes: ["consumer_rights", "free_enterprise", "banking", "individual_rights"]
 affiliations: ["forum-of-free-enterprise"]

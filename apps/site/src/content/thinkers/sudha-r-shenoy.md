@@ -10,6 +10,7 @@ death_year: 2008
 nationality: india
 tradition: libertarian
 canon_status: extended
+featured: true
 vocations: [economist, historian, professor]
 themes: ["austrian_economics", "economic_liberty", "monetary_theory"]
 affiliations: ["forum-of-free-enterprise"]

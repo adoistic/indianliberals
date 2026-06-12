@@ -8,6 +8,7 @@ name:
     - Gokhale
 tradition: constitutional_liberal
 canon_status: core
+featured: true
 vocations: [statesman, writer, parliamentarian]
 nationality: india
 themes: []

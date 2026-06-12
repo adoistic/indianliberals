@@ -10,6 +10,7 @@ death_year: 2015
 nationality: india
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [activist, writer, economist, parliamentarian]
 themes: ["agricultural_freedom", "free_markets", "peasant_rights"]
 affiliations: ["shetkari-sanghatana", "swatantra-bharat-paksha"]

@@ -8,8 +8,9 @@ name:
     - JS Mill
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [philosopher, economist, writer]
-nationality: india
+nationality: uk
 themes: []
 affiliations: []
 bio_source: imported

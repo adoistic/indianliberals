@@ -15,6 +15,7 @@ name:
     - भीमराव रामजी आंबेडकर
 tradition: social_reformer
 canon_status: core
+featured: true
 vocations: [reformer, legal_scholar, statesman, economist, writer]
 nationality: india
 themes: []

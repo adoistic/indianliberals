@@ -10,6 +10,7 @@ death_year: 2002
 nationality: india
 tradition: constitutional_liberal
 canon_status: core
+featured: true
 vocations: [legal_scholar, writer, diplomat]
 themes: ["constitutional_liberalism", "property_rights", "taxation", "free_enterprise"]
 affiliations: ["forum-of-free-enterprise"]

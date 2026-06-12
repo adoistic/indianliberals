@@ -10,6 +10,7 @@ death_year: 2015
 nationality: india
 tradition: classical_liberal
 canon_status: core
+featured: true
 vocations: [editor, activist, writer]
 themes: ["classical_liberalism", "parliamentary_democracy", "free_enterprise"]
 affiliations: ["indian-liberal-group", "swatantra-party", "forum-of-free-enterprise"]
