@@ -1,0 +1,191 @@
+---
+// Periodicals index — issues grouped by series.
+//
+// Periodical issues live inside the primary-works collection with
+// work_type: "periodical_issue" (the dedicated `periodicals` collection is
+// empty and reserved for a future migration). This page groups them by
+// series so the archive's runs — Khoj, The Indian Libertarian, Liberal
+// Times, Shetkari Sanghatak — read as coherent shelves rather than being
+// buried in the primary-works listing. Issue links resolve to the existing
+// primary-work detail pages.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { DEFAULT_LOCALE } from "~/lib/i18n";
+
+const issues = await getCollection(
+  "primary-works",
+  (w) => !w.data.draft && w.data.work_type === "periodical_issue",
+);
+
+type Issue = (typeof issues)[number];
+
+// Series detection: title/slug heuristics. The publication.series field in
+// the corpus carries free-text volume info ("Vol. V No. 3"), not the series
+// name, so it can't be used for grouping directly.
+function seriesFor(w: Issue): string {
+  const t = w.data.title.main;
+  if (w.id.startsWith("khoj-") || /^khoj\b/i.test(t) || t.startsWith("ખોજ")) return "khoj";
+  if (/indian libert/i.test(t)) return "indian-libertarian";
+  if (t === "Liberal Times" || (w.data.publication?.series ?? "").startsWith("Liberal Times")) return "liberal-times";
+  if (w.id.startsWith("shetkari-sanghatak") || t.startsWith("शेतकरी संघटक")) return "shetkari-sanghatak";
+  return "other";
+}
+
+const SERIES_META: Record<string, { name: string; native?: string; blurb: string }> = {
+  khoj: {
+    name: "Khoj",
+    native: "ખોજ",
+    blurb:
+      "A bi-monthly Gujarati liberal periodical published from Vadodara under the 'Pahel — Initiative for Open Society', explicitly anchored in the thought of Karl Popper and Friedrich Hayek. The first sustained attempt to debate free markets, poverty, and open-society ideas in Gujarati print.",
+  },
+  "indian-libertarian": {
+    name: "The Indian Libertarian",
+    blurb:
+      "The Bombay fortnightly of the Libertarian Social Institute, published on the 1st and 15th of each month — classical-liberal and libertarian commentary on Indian politics and economics through the Nehruvian decades.",
+  },
+  "liberal-times": {
+    name: "Liberal Times",
+    blurb:
+      "A South Asian liberal-affairs magazine published from New Delhi in the 1990s, carrying essays on liberal politics and policy across the region.",
+  },
+  "shetkari-sanghatak": {
+    name: "Shetkari Sanghatak",
+    native: "शेतकरी संघटक",
+    blurb:
+      "The Marathi organ of Sharad Joshi's Shetkari Sanghatana — the farmers' movement that argued the case for market freedom from the fields rather than the seminar room.",
+  },
+  other: {
+    name: "Other periodicals",
+    blurb: "Periodical issues in the archive that are not yet part of a named run.",
+  },
+};
+
+// Issue year: publication.year is unreliable for digitised runs (it often
+// records the scan/upload year, e.g. Khoj issues marked 2015). Prefer a
+// 4-digit year embedded in the slug, which encodes the cover date.
+function issueYear(w: Issue): number | null {
+  const m = w.id.match(/(18|19|20)\d{2}/);
+  if (m) return Number(m[0]);
+  return w.data.publication?.year ?? null;
+}
+
+// Human label for an issue inside its series section: strip the series name
+// prefix from the title; fall back to a humanised slug remainder for issues
+// whose title is just the masthead (e.g. "ખોજ").
+function issueLabel(w: Issue, seriesId: string): string {
+  const t = w.data.title.main;
+  const meta = SERIES_META[seriesId];
+  const stripped = t
+    .replace(new RegExp(`^${meta.name}\\s*[:—-]\\s*`, "i"), "")
+    .trim();
+  if (stripped && stripped !== t) return stripped;
+  if (stripped === t && !["ખોજ", meta.name, meta.native].includes(t)) return t;
+  // Masthead-only title: humanise the slug remainder ("khoj-january-april-2009"
+  // → "January April 2009").
+  const rest = w.id
+    .replace(/^[a-z]+(-[a-z]+)*?-(?=(january|february|march|april|may|june|july|august|september|october|november|december|apr1))/, "")
+    .replace(/-/g, " ")
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+  return rest || t;
+}
+
+function workHref(w: Issue): string {
+  return w.data.language && w.data.language !== DEFAULT_LOCALE
+    ? `/${w.data.language}/primary-works/${w.id}/`
+    : `/primary-works/${w.id}/`;
+}
+
+const bySeries = new Map<string, Issue[]>();
+for (const w of issues) {
+  const s = seriesFor(w);
+  if (!bySeries.has(s)) bySeries.set(s, []);
+  bySeries.get(s)!.push(w);
+}
+for (const [, list] of bySeries) {
+  list.sort((a, b) => (issueYear(a) ?? 9999) - (issueYear(b) ?? 9999) || a.id.localeCompare(b.id));
+}
+
+const SERIES_ORDER = ["khoj", "indian-libertarian", "liberal-times", "shetkari-sanghatak", "other"];
+const seriesGroups = SERIES_ORDER.filter((s) => bySeries.has(s)).map((s) => {
+  const items = bySeries.get(s)!;
+  const years = items.map(issueYear).filter((y): y is number => y !== null);
+  return {
+    id: s,
+    meta: SERIES_META[s],
+    items,
+    yearRange:
+      years.length > 0
+        ? Math.min(...years) === Math.max(...years)
+          ? String(Math.min(...years))
+          : `${Math.min(...years)}–${Math.max(...years)}`
+        : "",
+  };
+});
+
+const totalIssues = issues.length;
+---
+
+<BaseLayout
+  title="Periodicals — Indian Liberals"
+  description={`${totalIssues} periodical issues across ${seriesGroups.length} series — Khoj, The Indian Libertarian, Liberal Times, and more — indexed at the issue level with metadata and AI summaries.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Periodicals
+      </p>
+      <h1 class="text-(--color-fg) mb-4">The periodical runs</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Magazine and journal issues in the archive, indexed at the issue level
+        with metadata, contributor lists, and AI summaries. Each issue page
+        links the original PDF.
+      </p>
+      <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
+        {totalIssues} issues · {seriesGroups.filter((g) => g.id !== "other").length} series
+      </p>
+    </div>
+  </section>
+
+  {seriesGroups.map((g) => (
+    <section class="border-b border-(--color-border) last:border-b-0">
+      <div class="mx-auto max-w-6xl px-6 py-12">
+        <div class="mb-8 max-w-prose">
+          <h2 class="text-(--color-fg) text-2xl md:text-3xl font-(family-name:--font-display)">
+            {g.meta.name}
+            {g.meta.native && g.meta.native !== g.meta.name && (
+              <span class="text-(--color-fg-muted) font-normal ml-2">{g.meta.native}</span>
+            )}
+          </h2>
+          <p class="text-(--color-fg-muted) text-sm mt-1 font-(family-name:--font-ui)">
+            {g.items.length === 1 ? "1 issue" : `${g.items.length} issues`}
+            {g.yearRange && ` · ${g.yearRange}`}
+          </p>
+          <p class="text-(--color-fg-muted) leading-relaxed mt-3">{g.meta.blurb}</p>
+        </div>
+        <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
+          {g.items.map((w) => (
+            <li>
+              <a
+                href={workHref(w)}
+                class="block h-full p-4 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+              >
+                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug text-sm">
+                  {issueLabel(w, g.id)}
+                </div>
+                <div class="text-xs text-(--color-fg-muted) mt-1.5 flex items-center gap-1.5 flex-wrap">
+                  {issueYear(w) && <span>{issueYear(w)}</span>}
+                  {w.data.language && w.data.language !== "en" && (
+                    <span class="px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">
+                      {w.data.language}
+                    </span>
+                  )}
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  ))}
+</BaseLayout>

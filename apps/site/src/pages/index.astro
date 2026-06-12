@@ -15,6 +15,34 @@ const featuredThinkers = allThinkers
 const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.draft))
   .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate))
   .slice(0, 6);
+
+// Archive stats band — computed at build time so the numbers never drift
+// from the content. Thinker count covers the liberal tradition itself
+// (canon core + extended), not the referenced/unclassified figures who
+// appear in the corpus only through citation.
+const allWorks = await getCollection("primary-works", (w) => !w.data.draft);
+const allMusings = await getCollection("musings", (m) => !m.data.draft);
+const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
+const allOrgs = await getCollection("organisations", (o) => !o.data.draft);
+const stats = [
+  { value: allWorks.length, label: "Primary works" },
+  {
+    value: allWorks.filter((w) => w.data.work_type === "periodical_issue").length,
+    label: "Periodical issues",
+  },
+  {
+    value: allWorks.filter((w) => w.data.work_type === "interview").length,
+    label: "Interviews",
+  },
+  {
+    value: allThinkers.filter((t) =>
+      ["core", "extended"].includes(t.data.canon_status),
+    ).length,
+    label: "Thinkers profiled",
+  },
+  { value: allMusings.length + allOpinions.length, label: "Excerpts & opinions" },
+  { value: allOrgs.length, label: "Organisations" },
+];
 ---
 
 <BaseLayout>
@@ -55,6 +83,25 @@ const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.dr
           class="w-44 h-44 lg:w-56 lg:h-56"
         />
       </div>
+    </div>
+  </section>
+
+  <!-- Archive at a glance -->
+  <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
+    <div class="mx-auto max-w-6xl px-6 py-10">
+      <h2 class="sr-only">The archive at a glance</h2>
+      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-x-6 gap-y-8 text-center">
+        {stats.map((s) => (
+          <div>
+            <dd class="font-(family-name:--font-display) font-semibold text-3xl md:text-4xl text-(--color-fg) tabular-nums">
+              {s.value.toLocaleString("en-IN")}
+            </dd>
+            <dt class="mt-1 text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui)">
+              {s.label}
+            </dt>
+          </div>
+        ))}
+      </dl>
     </div>
   </section>
 
@@ -104,7 +151,7 @@ const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.dr
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 font-(family-name:--font-ui)">
         {[
           { title: "Primary works", desc: "Books, pamphlets, essays, and speeches by Indian liberal thinkers — served as PDFs with rich AI-extracted metadata, summaries, and key points.", href: "/primary-works/" },
-          { title: "Periodicals", desc: "The Indian Libertarian, Freedom First, and other archives — indexed at the issue level with metadata and AI summaries.", href: "/periodicals/" },
+          { title: "Periodicals", desc: "Khoj, The Indian Libertarian, Liberal Times, and other runs — indexed at the issue level with metadata and AI summaries.", href: "/periodicals/" },
           { title: "Thinker profiles", desc: "Biographies and bibliographies for each thinker, cross-linked to their works and organisations.", href: "/thinkers/" },
           { title: "Curated excerpts", desc: "Cleaned passages from primary works — paragraph-addressable, full-text searchable, citable.", href: "/musings/" },
         ].map((card) => (

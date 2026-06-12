@@ -24,6 +24,7 @@ export default defineConfig({
     '/musings/manifesto-for-india-liberals/': '/musings/manifesto-for-indian-liberals/',
     '/musings/the-tiger-caged-concluding-installment-from-the-economists-survey-of-india/':
       '/musings/the-tiger-caged-part-ii/',
+    '/primary-works/khoj-januray-february-2007/': '/primary-works/khoj-january-february-2007/',
   },
   integrations: [
     mdx(),
