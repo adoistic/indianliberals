@@ -8,7 +8,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2019
 themes:
 - labor-deregulation
 - judicial-reform
@@ -27,6 +27,7 @@ description: The Indian State has has a far greater control on labor than in man
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2019-06-04); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'An unnamed speaker (likely a policy commentator or economist) argues that
   while India''s labor regulations create perverse incentives — encouraging firms
   to stay small to access subsidies and evade heavy-handed rules — complete deregulation

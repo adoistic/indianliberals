@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - economic-reforms-1991
 - alternative-budgets
@@ -27,6 +27,7 @@ description: Sunil Bhandare, Advisor, Tata Strategic Management Group talking ab
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Sunil Bhandare recounts his involvement with the Forum of Free Enterprise
   (from the mid-1980s) and the Indian Liberal Group (from the early 1990s), a period
   that coincided with India''s economic reforms. He describes participating in conferences

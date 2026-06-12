@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2019
 themes:
 - socialist-planning-critique
 - central-planning
@@ -28,6 +28,7 @@ description: Why was BR Shenoy, one among few Indian economists who spoke out ag
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2019-03-14); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'This short video discusses why B. R. Shenoy, one of the few Indian economists
   who opposed the socialist planning approach in post-independence India, was treated
   as a prophet without honour in his own country. The speaker — apparently Shenoy''s

@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2018
 themes: []
 needs_review: true
 draft: false
@@ -19,6 +19,7 @@ description: Zareer Masani, author, historian and son of late politician, Minoo 
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2018-11-15); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 ---
 
 Transcript not available.

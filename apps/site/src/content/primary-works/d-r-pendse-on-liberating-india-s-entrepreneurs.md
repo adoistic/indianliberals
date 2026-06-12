@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - entrepreneurship
 - economic-liberalization
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=VJtw5aOk1Pw
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse argues that Indian entrepreneurship is world-class but has
   been systematically curbed by decades of governmental control, licensing, and restrictions.
   He contends that when policy denies legitimate avenues to make money through industry,

@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2019
 themes:
 - economic-growth
 - ease-of-doing-business
@@ -28,6 +28,7 @@ description: We are two years away from celebrating out 75th anniversary of inde
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2019-05-08); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'In this short interview, Gurcharan Das lays out his vision for a prosperous
   India centered on sustained high growth as the precondition for inclusion. He dismisses
   ''jobless growth'' as a misdiagnosis and argues that real equity flows from formal,

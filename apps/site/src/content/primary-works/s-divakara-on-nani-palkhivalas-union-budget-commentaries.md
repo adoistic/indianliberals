@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - forum-of-free-enterprise
 - union-budget-commentary
@@ -29,6 +29,7 @@ description: S. Divakara, Director-General of the Forum of Free Enterprise speak
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'S. Divakara, Director-General of the Forum of Free Enterprise, recounts
   the origin and astonishing growth of Nani Palkhivala''s annual Union Budget commentaries
   in Bombay. M. R. Pai, the Forum''s first Secretary, discovered Palkhivala in January

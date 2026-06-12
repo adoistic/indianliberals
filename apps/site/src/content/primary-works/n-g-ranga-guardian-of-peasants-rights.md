@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2021
+  year: 2018
 themes: []
 needs_review: true
 draft: false
@@ -19,6 +19,7 @@ description: N.G Ranga was one of the few leaders who not only had intimate know
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2018-02-01); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 ---
 
 # N.G. Ranga - Guardian of Peasants' Rights

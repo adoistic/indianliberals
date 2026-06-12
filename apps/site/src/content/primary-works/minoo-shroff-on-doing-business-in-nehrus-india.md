@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - nehruvian-economic-planning
 - licence-permit-raj
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=mkKmQMD_Kcs
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Minoo Shroff reflects on the economic trajectory of post-independence India
   under Jawaharlal Nehru, framing Nehru''s policy choices as ideologically shaped
   by his early-1930s visit to Stalin''s Soviet Union, where he was impressed by rapid

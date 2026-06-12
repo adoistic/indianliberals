@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - economic-liberalism
 - free-enterprise
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=6rYRIs9byu8
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Minoo Shroff reflects on his uncle A. D. Shroff, portraying him as a born
   liberal whose conviction in democracy and free enterprise made him a courageous
   public critic of Nehru-era economic policy. He emphasizes that Shroff distinguished

@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - 1991-reforms
 - imf-conditionality
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=gXe-SwtuHww
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse reflects on the 1991 economic crisis and the subsequent reforms,
   arguing that India''s two decades of socialist policies drove the country to the
   humiliation of physically shipping gold to Geneva to secure foreign exchange. He

@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2019
 themes: []
 needs_review: true
 draft: false
@@ -18,6 +18,7 @@ youtube_url: https://www.youtube.com/watch?v=mfRjMb_2GHY
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2019-05-13); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 ---
 
 # India's Greatest Liberal - Gopal Krishna Gokhale

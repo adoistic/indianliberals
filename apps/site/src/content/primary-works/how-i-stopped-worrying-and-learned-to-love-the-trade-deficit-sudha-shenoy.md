@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2006
 themes:
 - trade-deficit
 - balance-of-payments
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=iQgsvzJaBD8
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Lecture at the Ludwig von Mises Institute, Auburn, Alabama, 26 October 2006 (per Mises Institute video credit; the talk itself says '2006 now'); uploaded to YouTube 2010."
 summary: 'Sudha R. Shenoy delivers a Mises Institute lecture (2006) arguing that the
   U.S. trade deficit, far from being a recent crisis, is a historical phenomenon dating
   to 1980 (trade balance) and 1983 (capital account turnaround), and must be explained

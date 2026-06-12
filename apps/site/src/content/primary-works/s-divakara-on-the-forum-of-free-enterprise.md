@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - free-enterprise
 - economic-education
@@ -27,6 +27,7 @@ description: S. Divakara, the Director-General of The Forum of Free Enterprise t
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'S. Divakara, long-time Director-General of The Forum of Free Enterprise,
   recounts the institution''s origin and six-decade arc. He traces its founding to
   a 1956 pair of Times of India articles by A. D. Shroff and Murarji Vaidya advocating

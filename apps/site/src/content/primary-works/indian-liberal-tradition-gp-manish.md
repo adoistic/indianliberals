@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: null
 themes: []
 needs_review: true
 draft: false
@@ -18,6 +18,7 @@ description: '[wikilogy_video_audio_element contenttype="html5audio" html5link="
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Audio talk from the legacy indianliberals.in archive; recording date not yet established (clearly pre-dates the 2020 import previously used as its date)."
 ---
 
 Transcript not available.

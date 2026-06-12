@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - welfare-entitlement
 - delivery-deficit
@@ -27,6 +27,7 @@ description: Minoo Shroff of the A D Shroff Memorial Trust talks about Nehru, we
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: Minoo Shroff reflects on the entitlement mindset bred by cradle-to-grave
   welfare states, arguing that India inherited a similar dependence on the state even
   as its public services lack a service mindset and capacity to deliver. He praises

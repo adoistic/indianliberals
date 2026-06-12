@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2009
 themes:
 - austrian-economics
 - hayek-keynes-debate
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=SdqP9_U1GjE
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Audio version of the Mises Daily article of 23 April 2009, read by Floy Lilley; the underlying essay first appeared in A Tiger by the Tail (1972). Uploaded to YouTube 2011."
 summary: 'Sudha R. Shenoy''s article, excerpted from ''A Tiger by the Tail: The Keynesian
   Legacy of Inflation,'' traces the theoretical confrontation between Keynesian macroeconomics
   and the Austrian framework developed by Friedrich Hayek from the 1930s through the

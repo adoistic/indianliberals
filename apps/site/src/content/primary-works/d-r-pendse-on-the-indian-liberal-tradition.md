@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - indian-liberal-tradition
 - right-of-center-economics
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=z_7NoDmhvvA
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse reflects on the meaning of being an Indian liberal, framing
   his answer almost entirely through the lens of economic policy. He places liberalism
   on a left-right spectrum and identifies himself with right-of-center economics,

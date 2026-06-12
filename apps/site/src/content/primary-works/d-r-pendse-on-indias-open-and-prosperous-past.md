@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - economic-history
 - free-trade
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=DKkwm22E5bY
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse argues that India''s reputation as a perennially poor and backward
   country is a misreading confined to the last two hundred years. For thousands of
   years before the industrial revolution and the post-independence control regime,

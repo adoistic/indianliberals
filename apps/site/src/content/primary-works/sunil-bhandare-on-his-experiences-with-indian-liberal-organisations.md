@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - forum-of-free-enterprise
 - indian-liberal-group
@@ -28,6 +28,7 @@ description: Sunil Bhandare, Advisor, Tata Strategic Management Group talks abou
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Sunil Bhandare recounts his involvement with Indian liberal organisations
   beginning in the mid-1980s with the Forum of Free Enterprise and continuing in the
   early 1990s with the Indian Liberal Group. He describes attending conferences organised

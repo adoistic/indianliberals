@@ -8,7 +8,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2021
+  year: 2018
 themes: []
 needs_review: true
 draft: false
@@ -18,6 +18,7 @@ description: Swatantra Party was the first political party in India to openly en
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2018-01-18); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 ---
 
 # Swatantra Party : India's First Liberal Party

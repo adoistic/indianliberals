@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2018
 themes:
 - central-planning
 - planning-commission
@@ -27,6 +27,7 @@ description: Jagdish Bhagwati discusses Friedman’s disenchantment with the Pla
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2018-09-25); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Jagdish Bhagwati recounts Milton Friedman''s visit to India and his appearance
   before the Planning Commission, where Friedman bluntly advised that the Commission
   should be wound up. Bhagwati describes Friedman as a sharp debater who, despite

@@ -8,7 +8,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2003
 themes:
 - austrian-economics
 - capital-structure
@@ -24,6 +24,7 @@ youtube_url: https://www.youtube.com/watch?v=R5dXcOx98LU
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recorded at the Mises Institute's Austrian Scholars Conference, 2003 (per Mises Institute video credit); uploaded to YouTube 2010."
 summary: 'Sudha Shenoy delivers a lecture arguing that the ''older Austrians'' — Menger,
   Mises, and Hayek — developed economic theory as an auxiliary discipline for the
   study of history, namely the concrete actions of human beings in particular historical

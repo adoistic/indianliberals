@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - forum-of-free-enterprise
 - ad-shroff-memorial-trust
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=0rI3OuqWi7k
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Minoo Shroff recounts the origins and evolution of the A. D. Shroff Memorial
   Trust, founded a year after A. D. Shroff''s death to carry forward his work in public
   education, financial literacy, publishing biographies, and elocution contests —

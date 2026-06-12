@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - license-raj
 - industrial-licensing
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=vbdFNzbM1P8
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse, who retired in 1991 alongside JRD Tata, recounts what it was
   like to operate inside India''s controlled economy, particularly from 1969 onwards
   when controls intensified. He catalogs the apparatus of the License Raj: industrial

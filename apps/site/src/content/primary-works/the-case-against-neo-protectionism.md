@@ -8,7 +8,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2003
 themes:
 - free-trade
 - protectionism
@@ -24,6 +24,7 @@ youtube_url: https://www.youtube.com/watch?v=u1tih4LpfwA
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Lecture at the Ludwig von Mises Institute, Auburn, Alabama, 18 November 2003 (per Mises Institute video credit); uploaded to YouTube 2012."
 summary: 'In this talk, economist and historian Sudha Shenoy delivers a systematic
   rebuttal to Paul Craig Roberts'' neo-protectionist arguments against U.S. trade
   deficits, capital flows, and the offshoring of manufacturing and services. She argues

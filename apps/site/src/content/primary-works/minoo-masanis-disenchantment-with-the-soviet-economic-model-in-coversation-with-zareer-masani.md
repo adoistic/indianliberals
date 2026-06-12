@@ -12,7 +12,7 @@ contributors:
   thinker: zareer-masani
 publication:
   language: en
-  year: 2020
+  year: 2018
 themes:
 - anti-communism
 - soviet-model-critique
@@ -30,6 +30,7 @@ description: Minoo Masani talks about his disenchantment with Soviet model chara
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2018-11-12); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: Zareer Masani recounts his father Minoo Masani's two visits to the Soviet
   Union in the 1920s and 1930s. Unlike contemporaries such as Krishna Menon and Jawaharlal
   Nehru, Minoo Masani saw past the surface of the Soviet experiment, recognizing its

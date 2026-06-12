@@ -10,7 +10,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2015
 themes:
 - disillusionment-with-socialism
 - license-permit-raj
@@ -28,6 +28,7 @@ description: Sunil Bhandare, Advisor, Tata Strategic Management Group speaks abo
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2015-01-16); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'Sunil S. Bhandare, a long-time Tata Group economist, recounts his ideological
   journey from Nehruvian socialism to liberal economic thinking. Joining the Reserve
   Bank of India in 1962 and Tata''s in 1967, he was initially steeped in socialist

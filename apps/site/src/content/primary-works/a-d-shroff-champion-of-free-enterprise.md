@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2021
+  year: 2019
 themes: []
 needs_review: true
 draft: false
@@ -19,6 +19,7 @@ description: A.D. Shroff (1899-1965) was a champion of free enterprise and a gre
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2019-05-01); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 ---
 
 # A.D. Shroff - Champion of Free Enterprise

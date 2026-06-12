@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - industrialist-economist-partnership
 - indian-economic-policy
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=si8F_I4P8xY
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse reflects on his decades-long working relationship with J. R.
   D. Tata as the in-house economist of the Tata group. He describes a working pattern
   in which he would draft articles or notes on economic policy, send them to JRD for

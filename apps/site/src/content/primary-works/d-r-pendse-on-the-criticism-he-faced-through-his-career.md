@@ -9,7 +9,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2020
+  year: 2016
 themes:
 - intellectual-courage
 - liberal-economics-in-india
@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/watch?v=lrZSeDVMwEI
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Recording dated by YouTube upload (2016-03-07); conducted on or shortly before. Earlier metadata carried the archive-import year instead."
 summary: 'D. R. Pendse reflects on the criticism he endured throughout his career
   as an economist who championed liberal economic views in a climate hostile to them.
   Politicians, economists, and academics frequently labeled him a ''reactionary,''

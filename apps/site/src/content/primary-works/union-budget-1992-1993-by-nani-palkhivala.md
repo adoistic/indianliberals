@@ -8,7 +8,7 @@ editors: []
 contributors: []
 publication:
   language: en
-  year: 2023
+  year: 1992
 themes:
 - liberalisation-1991
 - balance-of-payments
@@ -32,6 +32,7 @@ description: 'Indian jurist and liberal economist Nani A Palkhivala authored a b
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Palkhivala's address on the 1992-93 Union Budget, delivered in 1992 (internal evidence: 'goods worth 33,000 crores as we did in this year'); uploaded to YouTube 2023."
 summary: 'This 2023 video commentary unpacks Nani Palkhivala''s analysis of the Union
   Budget 1992-93, the first budget after India''s 1991 liberalisation. Palkhivala
   called it a ''watershed budget'' marking a new chapter in India''s economic history,
