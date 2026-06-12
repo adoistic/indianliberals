@@ -165,6 +165,14 @@ const organisations = defineCollection({
       'international_network',
     ]),
     ideology: z.array(z.string()).default([]),
+    // 1–2 sentence editorial description shown on the index cards and as
+    // the detail-page lede. AI-drafted 2026-06 (CCS feedback item 3);
+    // editorial refines via Sveltia.
+    description: z.string().optional(),
+    // Path under /public, e.g. "/organisations/logos/ccs.svg". Cards and
+    // detail headers render a monogram tile when absent — most defunct
+    // organisations have no surviving mark.
+    logo: z.string().optional(),
     ...i18nFields,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),

@@ -48,6 +48,7 @@ import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
+import OrgMark from "~/components/OrgMark.astro";
 
 interface Props {
   entry: CollectionEntry<"organisations">;
@@ -110,24 +111,32 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"
     data-pagefind-filter={`type:organisation,lang:${o.data.language}`}
   >
-    <header class="border-b border-(--color-border) pb-10 mb-10">
-      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
-        {o.data.type.replace(/_/g, " ")}
-      </p>
-      <h1 class="text-(--color-fg) leading-tight">{o.data.name.canonical}</h1>
-      {o.data.name.full && o.data.name.full !== o.data.name.canonical && (
-        <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-lg mt-1">
-          {o.data.name.full}
+    <header class="border-b border-(--color-border) pb-10 mb-10 flex gap-6 items-start">
+      <OrgMark name={o.data.name.canonical} logo={o.data.logo} class="w-16 h-16 md:w-20 md:h-20 mt-1" textClass="text-2xl" />
+      <div class="min-w-0">
+        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
+          {o.data.type.replace(/_/g, " ")}
         </p>
-      )}
-      {datesStr && (
-        <p class="text-(--color-fg-muted) font-(family-name:--font-ui) mt-3 text-base">{datesStr}</p>
-      )}
-      {o.data.name.also_known_as.length > 0 && (
-        <p class="text-(--color-fg-muted) text-sm mt-3 font-(family-name:--font-ui)">
-          Also known as: {o.data.name.also_known_as.join(", ")}
-        </p>
-      )}
+        <h1 class="text-(--color-fg) leading-tight">{o.data.name.canonical}</h1>
+        {o.data.name.full && o.data.name.full !== o.data.name.canonical && (
+          <p class="text-(--color-fg-muted) font-(family-name:--font-display) italic text-lg mt-1">
+            {o.data.name.full}
+          </p>
+        )}
+        {datesStr && (
+          <p class="text-(--color-fg-muted) font-(family-name:--font-ui) mt-3 text-base">{datesStr}</p>
+        )}
+        {o.data.name.also_known_as.length > 0 && (
+          <p class="text-(--color-fg-muted) text-sm mt-3 font-(family-name:--font-ui)">
+            Also known as: {o.data.name.also_known_as.join(", ")}
+          </p>
+        )}
+        {o.data.description && (
+          <p class="text-(--color-fg-muted) leading-relaxed mt-4 max-w-prose">
+            {o.data.description}
+          </p>
+        )}
+      </div>
     </header>
 
     <div class="prose-container">

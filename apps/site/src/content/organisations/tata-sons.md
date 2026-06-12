@@ -4,6 +4,7 @@ name:
   canonical: "Tata Sons"
   sort: "Tata Sons"
 type: publisher_org
+description: "The holding company of the Tata group, whose house journals and patronage long supported liberal economic writing."
 ideology: []
 needs_review: true
 draft: false

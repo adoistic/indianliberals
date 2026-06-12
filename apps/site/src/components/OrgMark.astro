@@ -1,0 +1,38 @@
+---
+// OrgMark — organisation visual mark. Renders the logo image when the
+// entry has one; otherwise a monogram tile built from the organisation's
+// initials. Most organisations in the archive are defunct and have no
+// surviving mark, so the monogram is the common case by design — one
+// consistent, archival-feeling treatment rather than a patchwork of
+// scraped logos.
+
+interface Props {
+  name: string;
+  logo?: string | undefined;
+  /** Tailwind size classes for the square tile, e.g. "w-12 h-12". */
+  class?: string;
+  /** Text size class for the monogram letters. */
+  textClass?: string;
+}
+
+const { name, logo, class: sizeClass = "w-12 h-12", textClass = "text-base" } = Astro.props;
+
+const STOPWORDS = new Set(["the", "of", "for", "and", "in", "&"]);
+const initials = name
+  .split(/\s+/)
+  .filter((w) => w && !STOPWORDS.has(w.toLowerCase()))
+  .slice(0, 2)
+  .map((w) => w.charAt(0).toUpperCase())
+  .join("");
+---
+
+{logo ? (
+  <img src={logo} alt="" width="96" height="96" loading="lazy" class={`${sizeClass} object-contain shrink-0`} />
+) : (
+  <span
+    aria-hidden="true"
+    class={`${sizeClass} ${textClass} shrink-0 inline-flex items-center justify-center rounded-sm bg-(--color-bg-muted) border border-(--color-border) font-(family-name:--font-display) font-semibold text-(--color-saffron-700) select-none`}
+  >
+    {initials}
+  </span>
+)}

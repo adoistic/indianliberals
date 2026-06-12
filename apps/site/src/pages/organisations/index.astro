@@ -3,6 +3,7 @@
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import OrgMark from "~/components/OrgMark.astro";
 
 // Hide organisations with zero inbound reference material (`draft: true`
 // is set by /tmp/auto_hide_orphans.py when no work has the org as its
@@ -71,16 +72,24 @@ const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
             <li>
               <a
                 href={`/organisations/${o.id}/`}
-                class="block p-4 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-colors group"
+                class="flex gap-3 h-full p-4 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-colors group"
               >
-                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
-                  {o.data.name.canonical}
-                </div>
-                {(o.data.founded_year || o.data.dissolved_year) && (
-                  <div class="text-xs text-(--color-fg-muted) mt-1">
-                    {o.data.founded_year ?? "?"}–{o.data.dissolved_year ?? ""}
+                <OrgMark name={o.data.name.canonical} logo={o.data.logo} class="w-11 h-11" textClass="text-sm" />
+                <div class="min-w-0">
+                  <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
+                    {o.data.name.canonical}
                   </div>
-                )}
+                  {(o.data.founded_year || o.data.dissolved_year) && (
+                    <div class="text-xs text-(--color-fg-muted) mt-1">
+                      {o.data.founded_year ?? "?"}–{o.data.dissolved_year ?? ""}
+                    </div>
+                  )}
+                  {o.data.description && (
+                    <p class="text-sm text-(--color-fg-muted) leading-snug mt-1.5 line-clamp-3">
+                      {o.data.description}
+                    </p>
+                  )}
+                </div>
               </a>
             </li>
           ))}

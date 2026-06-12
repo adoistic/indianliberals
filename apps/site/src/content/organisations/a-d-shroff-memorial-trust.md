@@ -5,6 +5,7 @@ name:
   sort: "A. D. Shroff Memorial Trust"
   also_known_as: []
 type: publisher_org
+description: "Mumbai trust that publishes lectures and pamphlets honouring A. D. Shroff, co-founder of the Forum of Free Enterprise."
 ideology: []
 needs_review: true
 draft: false

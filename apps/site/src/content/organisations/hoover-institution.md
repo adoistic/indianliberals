@@ -4,6 +4,7 @@ name:
   canonical: "Hoover Institution"
   sort: "Hoover Institution"
 type: academic
+description: "Stanford-based research institution on war, revolution, and peace; an intellectual home to several of the free-market economists in this archive."
 ideology:
   - classical_liberal
 needs_review: true

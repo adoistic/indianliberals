@@ -6,6 +6,7 @@ name:
   also_known_as: ["FFE", "The Forum"]
 founded_year: 1956
 type: think_tank
+description: "Mumbai educational organisation founded by A. D. Shroff in 1956 to make the public case for free enterprise; its lectures and pamphlets form one of the largest runs in this archive."
 ideology: ["classical_liberal", "free_enterprise"]
 needs_review: true
 draft: false
