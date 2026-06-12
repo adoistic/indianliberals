@@ -9,6 +9,22 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   site: 'https://indianliberals.in',
+  // Redirects for slugs removed in the 2026-06 duplicate-content cleanup
+  // (WordPress double-imports that surfaced as repeated entries on the
+  // Opinions/Musings listings). Static build → emitted as meta-refresh pages.
+  redirects: {
+    '/opinions/palkhivalas-lost-battle-shapes-the-future-of-indian-online-gaming-2/':
+      '/opinions/palkhivalas-lost-battle-shapes-the-future-of-indian-online-gaming/',
+    '/opinions/gg-agarkar-modern-indian-liberal-and-reformer-2/':
+      '/opinions/gg-agarkar-modern-indian-liberal-and-reformer/',
+    '/musings/blueprint-for-eradication-of-poverty-bp-godrej-1980/':
+      '/musings/a-blueprint-for-eradication-of-poverty-bp-godrej-1980/',
+    '/musings/in-name-of-freedom-the-us-india-alignment-in-cold-war/':
+      '/musings/the-us-india-alignment-in-cold-war/',
+    '/musings/manifesto-for-india-liberals/': '/musings/manifesto-for-indian-liberals/',
+    '/musings/the-tiger-caged-concluding-installment-from-the-economists-survey-of-india/':
+      '/musings/the-tiger-caged-part-ii/',
+  },
   integrations: [
     mdx(),
     sitemap({
