@@ -32,6 +32,42 @@ const influences = featured.filter((t) => t.data.nationality !== "india").sort(b
 
 const directoryCount = allThinkers.length;
 
+// Unified people search: the canon page only *shows* the curated list, but
+// search must cover the entire thinkers database (CCS round-2 feedback:
+// searching "Mukesh" on this page found nothing even though Mukesh Ambani
+// exists in the extended/referenced directory). We bake a compact index of
+// every person and resolve matches client-side, labelled by section.
+const STATUS_LABEL: Record<string, string> = {
+  core: "Liberal canon",
+  extended: "Extended tradition",
+  referenced: "Referenced figure — outside the tradition",
+  unclassified: "Awaiting classification",
+};
+const STATUS_RANK: Record<string, number> = { core: 0, extended: 1, referenced: 2, unclassified: 3 };
+const searchIndex = allThinkers
+  .map((t) => {
+    const stat = stats.get(t.id);
+    return {
+      s: t.id,
+      n: t.data.name.canonical,
+      a: (t.data.name.also_known_as ?? []).join(" "),
+      c: t.data.canon_status ?? "unclassified",
+      f: t.data.featured ? 1 : 0,
+      d:
+        t.data.birth_year || t.data.death_year
+          ? `${t.data.birth_year ?? "?"}–${t.data.death_year ?? ""}`
+          : "",
+      w: stat?.worksAuthored ?? 0,
+    };
+  })
+  .sort(
+    (a, b) =>
+      b.f - a.f ||
+      (STATUS_RANK[a.c] ?? 3) - (STATUS_RANK[b.c] ?? 3) ||
+      b.w - a.w ||
+      a.n.localeCompare(b.n),
+  );
+
 // The canon page renders the uniform duotone treatment for consistency
 // (CCS feedback 2.2). Originals remain on the detail pages.
 const treatmentFor = (t: typeof allThinkers[number]) => {
@@ -72,8 +108,119 @@ const prettifyVocation = (v: string): string => {
           {directoryCount} people in the full directory
         </a>
       </p>
+
+      {/* Unified people search — covers the whole database, not just this page */}
+      <div class="mt-6 max-w-md font-(family-name:--font-ui)" data-pagefind-ignore>
+        <label class="relative block">
+          <span class="sr-only">Search all {directoryCount} people in the archive</span>
+          <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" class="absolute left-3 top-1/2 -translate-y-1/2 text-(--color-fg-muted)"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
+          <input
+            id="people-search"
+            type="search"
+            placeholder={`Search all ${directoryCount} people — canon, extended, referenced…`}
+            autocomplete="off"
+            aria-describedby="people-search-hint"
+            class="w-full pl-9 pr-3 py-2 text-sm bg-(--color-bg) border border-(--color-border) rounded-full outline-none focus:border-(--color-saffron-500) transition-colors"
+          />
+        </label>
+        <p id="people-search-hint" class="sr-only">
+          Results cover the entire directory, including people outside the curated canon.
+        </p>
+        <div id="people-search-status" class="sr-only" role="status" aria-live="polite"></div>
+        <ul
+          id="people-search-results"
+          class="hidden mt-2 border border-(--color-border) rounded bg-(--color-bg) shadow-sm divide-y divide-(--color-border) overflow-hidden"
+        >
+        </ul>
+      </div>
     </div>
   </section>
+
+  <script is:inline define:vars={{ searchIndex, STATUS_LABEL }}>
+    // Unified thinker search across every section of the database.
+    (function () {
+      const input = document.getElementById("people-search");
+      const list = document.getElementById("people-search-results");
+      const status = document.getElementById("people-search-status");
+      if (!input || !list) return;
+
+      const MAX = 10;
+      const rows = searchIndex.map((p) => ({
+        ...p,
+        key: (p.n + " " + p.a).toLowerCase(),
+        nameLower: p.n.toLowerCase(),
+      }));
+
+      function escapeHtml(s) {
+        return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+      }
+
+      function render(q) {
+        const query = q.trim().toLowerCase();
+        if (query.length < 2) {
+          list.classList.add("hidden");
+          list.innerHTML = "";
+          status.textContent = "";
+          return;
+        }
+        const matches = rows
+          .filter((p) => p.key.includes(query))
+          .sort((a, b) => {
+            const aStarts = a.nameLower.startsWith(query) ? 0 : 1;
+            const bStarts = b.nameLower.startsWith(query) ? 0 : 1;
+            return aStarts - bStarts;
+          })
+          .slice(0, MAX);
+
+        if (matches.length === 0) {
+          list.innerHTML =
+            '<li class="px-4 py-3 text-sm text-(--color-fg-muted)">No one in the archive matches &ldquo;' +
+            escapeHtml(q.trim()) +
+            '&rdquo;.</li>';
+          list.classList.remove("hidden");
+          status.textContent = "No matches";
+          return;
+        }
+        list.innerHTML = matches
+          .map((p) => {
+            const works = p.w > 0 ? (p.w === 1 ? "1 work" : p.w + " works") : "";
+            const label = STATUS_LABEL[p.c] || "";
+            const referenced = p.c === "referenced";
+            return (
+              '<li><a href="/thinkers/' + p.s + '/" class="flex items-baseline justify-between gap-3 px-4 py-2.5 no-underline hover:bg-(--color-bg-muted) transition-colors">' +
+              '<span class="min-w-0"><span class="block text-sm font-semibold text-(--color-fg) truncate">' +
+              escapeHtml(p.n) +
+              (p.d ? ' <span class="font-normal text-xs text-(--color-fg-muted)">' + p.d + "</span>" : "") +
+              "</span>" +
+              (works ? '<span class="block text-xs text-(--color-forest-700)">' + works + "</span>" : "") +
+              "</span>" +
+              '<span class="shrink-0 text-[10px] uppercase tracking-wider px-2 py-0.5 rounded border ' +
+              (referenced
+                ? "border-(--color-border) text-(--color-fg-muted) bg-(--color-bg-muted)"
+                : "border-(--color-forest-100) text-(--color-forest-700) bg-(--color-forest-100)") +
+              '">' +
+              escapeHtml(label) +
+              "</span></a></li>"
+            );
+          })
+          .join("");
+        list.classList.remove("hidden");
+        status.textContent = matches.length + (matches.length === 1 ? " match" : " matches");
+      }
+
+      input.addEventListener("input", () => render(input.value));
+      input.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          input.value = "";
+          render("");
+        }
+        if (e.key === "Enter") {
+          const first = list.querySelector("a");
+          if (first) window.location.href = first.getAttribute("href");
+        }
+      });
+    })();
+  </script>
 
   <section aria-labelledby="canon-heading" class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12">
