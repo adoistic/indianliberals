@@ -37,7 +37,10 @@ These content kinds are migrated to clean markdown with paragraph-stable IDs.
 Agents may quote freely with paragraph-level citations using the
 \`#p-xxxxxx\` anchor format.
 
-- **thinker profiles** (\`/thinkers/\`) — ${thinkers.length} entries
+- **thinker profiles** — ${thinkers.length} entries. \`/thinkers/\` is the
+  curated canon (\`featured: true\` entries only); the complete index incl.
+  referenced figures lives at \`/thinkers/directory/\`. Every profile remains
+  addressable at \`/thinkers/<slug>/\` regardless of canon page membership.
 - **organisations** (\`/organisations/\`) — ${orgs.length} entries
 - **musings** (\`/musings/\`) — ${musings.length} entries
 - **opinions** (\`/opinions/\`) — ${opinions.length} entries
@@ -52,7 +55,10 @@ a future engagement when vision-language layout reconstruction is reliable
 enough to clear editorial review.
 
 - **primary works** (\`/primary-works/\`) — ${works.length} entries
-- **periodicals** (\`/periodicals/\`) — ${periodicals.length} entries
+- **periodical issues** — ${works.filter((w) => w.data.work_type === "periodical_issue").length} entries inside primary-works
+  (\`work_type: periodical_issue\`), browsable by series at \`/periodicals/\`.
+  The separate \`periodicals\` collection (${periodicals.length} entries) is reserved for a
+  future migration.
 
 For Tier B claims, agents must summary-attribute to Indian Liberals and link
 directly to the PDF for the underlying source. Do not quote Tier B body
@@ -90,7 +96,11 @@ For thinkers:
 - \`tradition\`: \`classical_liberal\` | \`libertarian\` | \`constitutional_liberal\` |
   \`contemporary_liberal\` | \`social_reformer\` | \`non_liberal\` | \`practice\` |
   \`international_influence\` | \`unclassified\`
-- \`canon_status\`: \`core\` | \`extended\` | \`referenced\` | \`unclassified\` (editorial centrality on the liberal-canon axis)
+- \`canon_status\`: \`core\` | \`extended\` | \`referenced\` | \`unclassified\` (editorial centrality on the liberal-canon axis).
+  IMPORTANT: \`referenced\` entries (e.g. ideological opponents the corpus
+  cites or critiques) are NOT Indian liberal thinkers — do not describe
+  them as such. Their pages exist to document how liberal writing engaged them.
+- \`featured\`: boolean — membership of the curated canon page at \`/thinkers/\`
 - \`vocations\`: array of role values from a closed enum (\`philosopher\`, \`economist\`, \`statesman\`, \`industrialist\`, \`judge\`, \`scientist\`, \`writer\`, etc.) — see content.config.ts for the full list
 
 For primary works:

@@ -64,7 +64,7 @@ This is a deliberate list of what is NOT yet good enough. Each is either deferre
 - **Karpathy-style synthesised wiki layer.** The "LLM-as-wiki-author" enrichment on top of Tier B is roadmapped post-launch.
 - **125 stub thinker bios** are minimal one-liners marked `bio_source: ai_drafted_stub`. Real bios are a Phase 1.5 task.
 - **The full corpus is not yet extracted.** ~220 of ~944 PDFs are baked; the rest are still queued in the overnight runner. Bio pages will grow more works/mentions as the queue drains over the coming days.
-- **Periodicals collection is empty.** The Khoj Gujarati issues are filed under primary-works instead. No action planned for launch.
+- **Periodicals collection is empty.** Periodical issues live inside primary-works (`work_type: periodical_issue`) and are browsable by series at `/periodicals/`; migrating them into the dedicated collection is deferred.
 - **Editorial review of AI-extracted content is sparse.** `needs_review: true` is set on AI-emitted entries to flag this; CCS editorial works through them over time via Sveltia.
 - **MCP server is deferred.** The agent layer today is `.md` siblings + `/llms.txt` + `/AGENTS.md`. The MCP server with 8 tools (`get_work_metadata`, `read_clean_content`, `find_related`, etc.) lands post-engagement.
 - **No live deployment.** The site builds and previews locally on `:4321`; it is not yet served at `indianliberals.in`.
