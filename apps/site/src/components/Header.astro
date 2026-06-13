@@ -1,63 +1,364 @@
 ---
-import Search from "~/components/Search.astro";
+// Site header — grouped disclosure navigation.
+//
+// Ten flat links wrapped badly at laptop widths and read as generic chrome.
+// The nav now groups destinations into three semantic clusters (People /
+// The collection / Commentary) plus About and Search. Each cluster opens a
+// panel listing its sections with a one-line description and a live count
+// computed from the content collections at build time — the navigation
+// itself tells you the shape and scale of the archive.
+//
+// Accessibility: WAI-ARIA disclosure-navigation pattern. Triggers are real
+// <button>s with aria-expanded/aria-controls; Escape closes and restores
+// focus; focus leaving a group closes its panel; click-outside closes all.
+// Hover open/close is a pointer convenience layered on top, never the only
+// path. The mobile menu is the same content as a full-width disclosure.
 
-const nav = [
-  { label: "Thinkers", href: "/thinkers/" },
-  { label: "Primary works", href: "/primary-works/" },
-  { label: "Periodicals", href: "/periodicals/" },
-  { label: "Interviews", href: "/interviews/" },
-  { label: "Organisations", href: "/organisations/" },
-  { label: "Musings", href: "/musings/" },
-  { label: "Opinions", href: "/opinions/" },
-  { label: "From ThePrint", href: "/theprint-mirror/" },
-  { label: "About", href: "/about/" },
+import Search from "~/components/Search.astro";
+import { getCollection } from "astro:content";
+
+const works = await getCollection("primary-works", (w) => !w.data.draft);
+const thinkers = await getCollection(
+  "thinkers",
+  (t) => !t.data.draft && t.data.language === "en",
+);
+const orgs = await getCollection("organisations", (o) => !o.data.draft);
+const musings = await getCollection("musings", (m) => !m.data.draft);
+const opinions = await getCollection("opinions", (o) => !o.data.draft);
+const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
+
+const featuredCount = thinkers.filter((t) => t.data.featured).length;
+const interviewCount = works.filter((w) => w.data.work_type === "interview").length;
+const periodicalCount = works.filter((w) => w.data.work_type === "periodical_issue").length;
+
+type NavItem = { label: string; href: string; desc: string; count: number };
+type NavGroup = { id: string; label: string; items: NavItem[] };
+
+const groups: NavGroup[] = [
+  {
+    id: "collection",
+    label: "The collection",
+    items: [
+      {
+        label: "Primary works",
+        href: "/primary-works/",
+        desc: "Books, pamphlets, essays, and speeches",
+        count: works.length,
+      },
+      {
+        label: "Periodicals",
+        href: "/periodicals/",
+        desc: "Khoj, The Indian Libertarian, and other runs",
+        count: periodicalCount,
+      },
+      {
+        label: "Interviews",
+        href: "/interviews/",
+        desc: "Oral histories and historic recordings",
+        count: interviewCount,
+      },
+      {
+        label: "Musings",
+        href: "/musings/",
+        desc: "Curated excerpts, paragraph-citable",
+        count: musings.length,
+      },
+    ],
+  },
+  {
+    id: "people",
+    label: "People",
+    items: [
+      {
+        label: "Thinkers",
+        href: "/thinkers/",
+        desc: "The curated canon, chronologically",
+        count: featuredCount,
+      },
+      {
+        label: "Full directory",
+        href: "/thinkers/directory/",
+        desc: "Everyone the corpus engages, labelled",
+        count: thinkers.length,
+      },
+      {
+        label: "Organisations",
+        href: "/organisations/",
+        desc: "Forums, institutes, parties, and presses",
+        count: orgs.length,
+      },
+    ],
+  },
+  {
+    id: "commentary",
+    label: "Commentary",
+    items: [
+      {
+        label: "Opinions",
+        href: "/opinions/",
+        desc: "Essays and tributes from the archive",
+        count: opinions.length,
+      },
+      {
+        label: "From ThePrint",
+        href: "/theprint-mirror/",
+        desc: "The federated “Indian Liberals Matter” column",
+        count: theprint.length,
+      },
+    ],
+  },
 ];
 
 const path = Astro.url.pathname;
+const isActive = (href: string) => path === href || (href !== "/" && path.startsWith(href));
+const groupActive = (g: NavGroup) => g.items.some((i) => isActive(i.href));
+const aboutActive = isActive("/about/");
 ---
 
-<header class="sticky top-0 z-50 border-b border-(--color-border) bg-(--color-bg)/95 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg)/80">
-  <div class="mx-auto max-w-6xl px-6 py-5 flex items-center justify-between gap-8">
-    <a href="/" class="flex items-center gap-3 no-underline" aria-label="Indian Liberals home">
-      <img src="/brand/brand-mark-crane.png" alt="" class="h-9 w-9" width="36" height="36" />
-      <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg)">
-        Indian Liberals
-      </span>
-    </a>
-    <nav aria-label="Primary" class="hidden md:flex md:items-center md:gap-6">
-      <ul class="flex items-center gap-6 text-sm font-(family-name:--font-ui)">
-        {nav.map((item) => {
-          const active = path === item.href || (item.href !== "/" && path.startsWith(item.href));
-          return (
-            <li>
-              <a
-                href={item.href}
-                class:list={[
-                  "no-underline text-(--color-fg-muted) hover:text-(--color-fg) transition-colors",
-                  active && "text-(--color-saffron-700) font-semibold",
-                ]}
-                aria-current={active ? "page" : undefined}
-              >
-                {item.label}
-              </a>
-            </li>
-          );
-        })}
-      </ul>
-      <Search />
-    </nav>
-    <details class="md:hidden relative">
-      <summary class="list-none cursor-pointer text-(--color-fg-muted) p-2">
-        <span class="sr-only">Open menu</span>
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
-      </summary>
-      <ul class="absolute right-0 top-full mt-2 w-56 bg-(--color-bg) border border-(--color-border) rounded shadow-lg p-2 z-10">
-        {nav.map((item) => (
-          <li>
-            <a href={item.href} class="block px-3 py-2 no-underline text-(--color-fg-muted) hover:text-(--color-fg) hover:bg-(--color-bg-muted) rounded">{item.label}</a>
-          </li>
+<header class="sticky top-0 z-50 bg-(--color-bg)/95 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg)/80">
+  {/* Tricolor rule — the flag, reduced to a hairline. */}
+  <span class="block h-[3px] bg-gradient-to-r from-(--color-saffron-500) via-(--color-bg-muted) to-(--color-forest-500)" aria-hidden="true"></span>
+  <div class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between gap-4">
+      <a href="/" class="flex items-center gap-3 no-underline shrink-0" aria-label="Indian Liberals home">
+        <img src="/brand/brand-mark-crane.png" alt="" class="h-9 w-9" width="36" height="36" />
+        <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg) whitespace-nowrap">
+          Indian Liberals
+        </span>
+      </a>
+
+      {/* Desktop: grouped disclosure nav */}
+      <nav aria-label="Primary" class="hidden md:flex md:items-center md:gap-1 font-(family-name:--font-ui)">
+        {groups.map((g) => (
+          <div class="relative" data-nav-group>
+            <button
+              type="button"
+              aria-expanded="false"
+              aria-controls={`nav-panel-${g.id}`}
+              class:list={[
+                "nav-trigger inline-flex items-center gap-1.5 px-3 py-2 text-sm rounded-full no-underline transition-colors",
+                groupActive(g)
+                  ? "text-(--color-saffron-700) font-semibold"
+                  : "text-(--color-fg-muted) hover:text-(--color-fg)",
+              ]}
+            >
+              {g.label}
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+                class="nav-chevron transition-transform duration-150 opacity-60"
+              ><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+            <div
+              id={`nav-panel-${g.id}`}
+              class="nav-panel absolute left-1/2 -translate-x-1/2 top-full pt-3 w-80"
+              hidden
+            >
+              <ul class="bg-(--color-bg) border border-(--color-border) rounded-lg shadow-xl p-2 relative">
+                <span class="absolute -top-px left-1/2 -translate-x-1/2 w-10 h-[3px] rounded-full bg-(--color-saffron-500)" aria-hidden="true"></span>
+                {g.items.map((item) => (
+                  <li>
+                    <a
+                      href={item.href}
+                      aria-current={isActive(item.href) ? "page" : undefined}
+                      class="flex items-baseline justify-between gap-4 px-3 py-2.5 rounded-md no-underline hover:bg-(--color-bg-muted) transition-colors group/item"
+                    >
+                      <span class="min-w-0">
+                        <span
+                          class:list={[
+                            "block text-sm font-(family-name:--font-display) font-semibold leading-tight transition-colors",
+                            isActive(item.href)
+                              ? "text-(--color-saffron-700)"
+                              : "text-(--color-fg) group-hover/item:text-(--color-saffron-700)",
+                          ]}
+                        >
+                          {item.label}
+                        </span>
+                        <span class="block text-xs text-(--color-fg-muted) mt-0.5 leading-snug">{item.desc}</span>
+                      </span>
+                      <span class="shrink-0 text-xs tabular-nums text-(--color-fg-muted) font-(family-name:--font-mono)">
+                        {item.count.toLocaleString("en-IN")}
+                      </span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
         ))}
-      </ul>
-    </details>
+        <a
+          href="/about/"
+          aria-current={aboutActive ? "page" : undefined}
+          class:list={[
+            "px-3 py-2 text-sm rounded-full no-underline transition-colors",
+            aboutActive
+              ? "text-(--color-saffron-700) font-semibold"
+              : "text-(--color-fg-muted) hover:text-(--color-fg)",
+          ]}
+        >
+          About
+        </a>
+      </nav>
+
+      <div class="flex items-center gap-2">
+        <Search />
+        {/* Mobile: full-width disclosure menu */}
+        <button
+          type="button"
+          id="mobile-nav-trigger"
+          aria-expanded="false"
+          aria-controls="mobile-nav-panel"
+          class="md:hidden p-2 text-(--color-fg-muted) hover:text-(--color-fg) transition-colors"
+        >
+          <span class="sr-only">Menu</span>
+          <svg class="mobile-nav-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+          <svg class="mobile-nav-close hidden" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+      </div>
+    </div>
   </div>
+
+  <nav
+    id="mobile-nav-panel"
+    aria-label="Primary"
+    class="md:hidden absolute left-0 right-0 top-full bg-(--color-bg) border-b border-(--color-border) shadow-xl max-h-[calc(100vh-5rem)] overflow-y-auto"
+    hidden
+  >
+    <div class="px-6 py-5 grid gap-6 font-(family-name:--font-ui)">
+      {groups.map((g) => (
+        <div>
+          <p class="text-[10px] uppercase tracking-widest text-(--color-saffron-700) font-semibold mb-1.5">{g.label}</p>
+          <ul>
+            {g.items.map((item) => (
+              <li>
+                <a
+                  href={item.href}
+                  aria-current={isActive(item.href) ? "page" : undefined}
+                  class="flex items-baseline justify-between gap-4 py-2.5 no-underline border-b border-(--color-border)/60"
+                >
+                  <span
+                    class:list={[
+                      "text-[15px] font-(family-name:--font-display) font-semibold",
+                      isActive(item.href) ? "text-(--color-saffron-700)" : "text-(--color-fg)",
+                    ]}
+                  >{item.label}</span>
+                  <span class="text-xs tabular-nums text-(--color-fg-muted) font-(family-name:--font-mono)">
+                    {item.count.toLocaleString("en-IN")}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+      <a href="/about/" class="py-1 no-underline">
+        <span
+          class:list={[
+            "text-[15px] font-(family-name:--font-display) font-semibold",
+            aboutActive ? "text-(--color-saffron-700)" : "text-(--color-fg)",
+          ]}
+        >About</span>
+      </a>
+    </div>
+  </nav>
+
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .nav-panel:not([hidden]) > ul {
+        animation: nav-panel-in 0.16s ease both;
+      }
+      @keyframes nav-panel-in {
+        from {
+          opacity: 0;
+          transform: translateY(-4px);
+        }
+        to {
+          opacity: 1;
+          transform: none;
+        }
+      }
+    }
+    [data-nav-group] .nav-trigger[aria-expanded="true"] .nav-chevron {
+      transform: rotate(180deg);
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      // Disclosure nav: click/keyboard primary, hover as pointer convenience.
+      const navGroups = Array.from(document.querySelectorAll("[data-nav-group]"));
+      function closeGroup(g) {
+        const btn = g.querySelector(".nav-trigger");
+        const panel = g.querySelector(".nav-panel");
+        panel.hidden = true;
+        btn.setAttribute("aria-expanded", "false");
+      }
+      function closeAll(except) {
+        for (const g of navGroups) if (g !== except) closeGroup(g);
+      }
+      for (const g of navGroups) {
+        const btn = g.querySelector(".nav-trigger");
+        const panel = g.querySelector(".nav-panel");
+        let hoverTimer;
+        const open = () => {
+          closeAll(g);
+          panel.hidden = false;
+          btn.setAttribute("aria-expanded", "true");
+        };
+        btn.addEventListener("click", () => {
+          if (panel.hidden) open();
+          else closeGroup(g);
+        });
+        g.addEventListener("mouseenter", () => {
+          if (!window.matchMedia("(hover: hover)").matches) return;
+          clearTimeout(hoverTimer);
+          open();
+        });
+        g.addEventListener("mouseleave", () => {
+          if (!window.matchMedia("(hover: hover)").matches) return;
+          hoverTimer = setTimeout(() => closeGroup(g), 180);
+        });
+        g.addEventListener("focusout", (e) => {
+          if (!g.contains(e.relatedTarget)) closeGroup(g);
+        });
+        g.addEventListener("keydown", (e) => {
+          if (e.key === "Escape" && !panel.hidden) {
+            closeGroup(g);
+            btn.focus();
+          }
+        });
+      }
+      document.addEventListener("click", (e) => {
+        if (!e.target.closest("[data-nav-group]")) closeAll();
+      });
+
+      // Mobile menu disclosure.
+      const mTrigger = document.getElementById("mobile-nav-trigger");
+      const mPanel = document.getElementById("mobile-nav-panel");
+      if (mTrigger && mPanel) {
+        const iconOpen = mTrigger.querySelector(".mobile-nav-open");
+        const iconClose = mTrigger.querySelector(".mobile-nav-close");
+        function setMobile(openState) {
+          mPanel.hidden = !openState;
+          mTrigger.setAttribute("aria-expanded", String(openState));
+          iconOpen.classList.toggle("hidden", openState);
+          iconClose.classList.toggle("hidden", !openState);
+        }
+        mTrigger.addEventListener("click", () => setMobile(mPanel.hidden));
+        mPanel.addEventListener("keydown", (e) => {
+          if (e.key === "Escape") {
+            setMobile(false);
+            mTrigger.focus();
+          }
+        });
+      }
+    })();
+  </script>
 </header>
