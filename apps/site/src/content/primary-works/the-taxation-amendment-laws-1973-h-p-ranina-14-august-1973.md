@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-taxation-amendment-laws-1973-h-p-ranina-14-august-1973.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1974-75-n-a-palkhivala-march-1974.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

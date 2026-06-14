@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1968-69-n-a-palkhivala-april-14-1968.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

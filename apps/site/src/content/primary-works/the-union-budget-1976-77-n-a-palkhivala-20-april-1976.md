@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1976-77-n-a-palkhivala-20-april-1976.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
