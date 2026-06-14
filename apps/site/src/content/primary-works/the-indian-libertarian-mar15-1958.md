@@ -11,7 +11,8 @@ editors:
   - kusum-lotwala
 contributors:
   - role: author
-    thinker_unresolved: Bhailalbhai Patel
+    thinker: b-p-patel
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: Sumant Bankeshwar
@@ -29,7 +30,8 @@ contributors:
     thinker_unresolved: Reinhold Niebuhr
     toc_index: 12
   - role: author
-    thinker_unresolved: Toddy-Tapper
+    thinker: toddy-tapper
+    thinker_unresolved: null
     toc_index: 13
 related_thinkers: []
 publication:

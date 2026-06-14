@@ -17,7 +17,8 @@ contributors:
     thinker: j-k-dhairyawan
     toc_index: 2
   - role: author
-    thinker_unresolved: Vigilant
+    thinker: vigilant
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: Dr. K. N. Kini

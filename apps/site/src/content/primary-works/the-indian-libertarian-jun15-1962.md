@@ -19,7 +19,8 @@ contributors:
     thinker_unresolved: K. P. Padmanabhan Tampy, B.A.
     toc_index: 4
   - role: author
-    thinker_unresolved: Minoo R. Shroff
+    thinker: minoo-r-shroff
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker_unresolved: Wendel Bull

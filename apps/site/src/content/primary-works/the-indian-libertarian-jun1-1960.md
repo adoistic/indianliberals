@@ -18,7 +18,8 @@ contributors:
     thinker_unresolved: Sidney Hook
     toc_index: 4
   - role: author
-    thinker_unresolved: Henry Hazlitt
+    thinker: henry-hazlitt
+    thinker_unresolved: null
     toc_index: 6
 related_thinkers:
   - c-rajagopalachari
