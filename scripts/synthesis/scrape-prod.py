@@ -21,7 +21,9 @@ import argparse
 import json
 import re
 import sys
+import tarfile
 import time
+from collections import defaultdict
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -41,6 +43,11 @@ SEEDS = [
     "/periodicals/freedom-first/",
     "/periodicals/the-indian-libertarian/",
     "/periodicals/swatantra-party/",
+    "/periodicals/indian-liberal-group/",
+    "/periodicals/liberal-times/",
+    "/periodicals/other-publications/",
+    "/periodicals/shetkari-sanghatak/",
+    "/periodicals/khoj/",
     "/regional-literature/bengali/",
     "/regional-literature/gujarati/",
     "/regional-literature/hindi/",
@@ -171,6 +178,57 @@ def cache_path_for(periodical: str, slug: str) -> Path:
     return CACHE_ROOT / periodical / f"{slug}.html"
 
 
+# ── Backup-tarball fallback ────────────────────────────────────────────────
+# Some sections (notably /regional-literature/*) render their listings via
+# JavaScript, so a plain requests crawl of the category page yields zero
+# /content/ links. The PDFs themselves are static files served straight from
+# the server filesystem, which is captured verbatim in the cPanel backup
+# tarball. When a seed yields nothing live AND --backup is supplied, we
+# enumerate that section's PDFs from the tarball instead, so the mirror still
+# covers them. Server static-PDF folders are the URL path component, e.g.
+# /gujarati/<f>.pdf, /marathi/<f>.pdf, /forum-of-free-enterprise/<f>.pdf.
+
+def backup_section_for_seed(seed_path: str) -> str:
+    """Map a seed to the server's static-PDF folder name.
+    '/regional-literature/marathi/' -> 'marathi'; else the last path part."""
+    parts = [p for p in seed_path.split("/") if p]
+    return parts[1] if parts[0] == "regional-literature" else parts[-1]
+
+
+def backup_pdf_index(tarball: Path) -> dict[str, list[str]]:
+    """Scan the backup tarball once; return {section: [pdf_basename, ...]} for
+    every PDF directly under a canonical public_html/<section>/ folder
+    (ignoring -old / _bk snapshot copies)."""
+    idx: dict[str, set] = defaultdict(set)
+    rx = re.compile(r"/public_html/([^/]+)/([^/]+\.pdf)$", re.I)
+    with tarfile.open(tarball, "r:*") as tf:
+        for name in tf.getnames():
+            m = rx.search(name)
+            if m:
+                idx[m.group(1)].add(m.group(2))
+    return {k: sorted(v) for k, v in idx.items()}
+
+
+def backup_rows_for_section(section: str, periodical: str, files: list[str]) -> list[dict]:
+    """Build inventory rows from a section's backup PDF filenames."""
+    rows = []
+    for fname in files:
+        stem = re.sub(r"\.pdf$", "", fname, flags=re.I)
+        slug = re.sub(r"[^a-z0-9]+", "-", stem.lower()).strip("-")
+        ym = _YEAR_RX.search(stem)
+        rows.append({
+            "prod_slug": slug,
+            "periodical": periodical,
+            "pdf_url": f"{BASE}/{section}/{fname}",
+            "page_title": stem.replace("-", " ").strip(),
+            "byline_text": "",
+            "year_string": ym.group(0) if ym else "",
+            "source_url": "",
+            "source": "backup-fallback",
+        })
+    return rows
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--seed", action="append", help="Seed path (e.g. /periodicals/freedom-first/). Repeatable. Default: all known seeds.")
@@ -178,10 +236,20 @@ def main() -> int:
     ap.add_argument("--refresh", action="store_true", help="Ignore cache; re-fetch every page.")
     ap.add_argument("--rps", type=float, default=1.0, help="Max requests per second (default: 1.0).")
     ap.add_argument("--ignore-robots", action="store_true", help="Skip robots.txt check.")
+    ap.add_argument("--backup", type=Path, default=None, help="Path to the cPanel backup tarball; used as a fallback to enumerate a section's static PDFs when its live listing is JS-rendered and yields no links.")
     args = ap.parse_args()
 
     seeds = args.seed or SEEDS
     interval = 1.0 / args.rps if args.rps > 0 else 0
+
+    backup_index: dict[str, list[str]] | None = None
+    if args.backup:
+        if not args.backup.exists():
+            print(f"--backup path not found: {args.backup}", file=sys.stderr)
+            return 2
+        print(f"[backup] indexing {args.backup} ...")
+        backup_index = backup_pdf_index(args.backup)
+        print(f"[backup] indexed {sum(len(v) for v in backup_index.values())} PDFs across {len(backup_index)} sections")
 
     session = requests.Session()
     session.headers["User-Agent"] = USER_AGENT
@@ -220,6 +288,19 @@ def main() -> int:
                 current = discover_next_page(r.text, current)
 
             print(f"  [discovered] {len(detail_urls)} detail URLs")
+
+            # JS-rendered listing yielded nothing live → fall back to the
+            # backup tarball's static PDFs for this section, if available.
+            if not detail_urls and backup_index is not None:
+                section = backup_section_for_seed(seed)
+                files = backup_index.get(section, [])
+                rows = backup_rows_for_section(section, periodical, files)
+                for row in rows:
+                    inventory_fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+                total_pages += len(rows)
+                total_with_pdf += len(rows)
+                print(f"  [backup-fallback] {len(rows)} PDFs from public_html/{section}/")
+                continue
 
             # Cap for smoke testing.
             ordered = sorted(detail_urls)
