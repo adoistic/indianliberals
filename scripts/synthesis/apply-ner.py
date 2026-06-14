@@ -131,11 +131,16 @@ def _yaml_thinker_mentions_block(mentions: list[dict], indent: int = 0) -> str:
 # ─── Frontmatter helpers ───────────────────────────────────────────────
 
 _FRONTMATTER_RX = re.compile(r"^---\n(.*?)\n---\n?(.*)$", re.S)
-_TM_BLOCK_RX = re.compile(
-    r"^thinker_mentions:\s*(?:\[\]|(?:\n[ \t]+.*)+)\n?",
-    re.M,
-)
-_RT_LINE_RX = re.compile(r"^related_thinkers:\s*.*$(?:\n[ \t]+.*)*", re.M)
+# Match a frontmatter key plus its whole value block. A YAML block sequence
+# under a key may be written indented (`  - x`) OR at column 0 (`- x`); both
+# are valid and both appear in this corpus, so the continuation alternation
+# accepts indented lines (`[ \t]+.*`) and column-0 list items (`-.*`). The
+# trailing `\n?` lets the match own its line terminator, which keeps
+# `_replace_or_append_block` idempotent. fm is the frontmatter interior only
+# (no `---` fences), so `-.*` cannot swallow a closing delimiter.
+_BLOCK_TMPL = r"^{key}:.*(?:\n(?:[ \t]+.*|-.*))*\n?"
+_TM_BLOCK_RX = re.compile(_BLOCK_TMPL.format(key="thinker_mentions"), re.M)
+_RT_LINE_RX = re.compile(_BLOCK_TMPL.format(key="related_thinkers"), re.M)
 
 
 def _replace_or_append_block(fm: str, key: str, new_block: str) -> str:
@@ -148,8 +153,14 @@ def _replace_or_append_block(fm: str, key: str, new_block: str) -> str:
         rx = _RT_LINE_RX
     else:
         raise ValueError(f"unknown frontmatter key: {key}")
-    if rx.search(fm):
-        return rx.sub(new_block.rstrip() + "\n", fm)
+    m = rx.search(fm)
+    if m:
+        # Preserve whether the matched block ended with a newline: a block in
+        # the middle of the frontmatter keeps its separator, while a trailing
+        # block (last key) gains no spurious blank line before the closing
+        # `---`. This is what makes re-runs byte-idempotent.
+        trailing = "\n" if m.group(0).endswith("\n") else ""
+        return fm[:m.start()] + new_block.rstrip() + trailing + fm[m.end():]
     if not fm.endswith("\n"):
         fm += "\n"
     return fm + new_block.rstrip() + "\n"
@@ -257,6 +268,91 @@ def _run_tests() -> int:
     return 0 if failed == 0 else 1
 
 
+def _run_block_tests() -> int:
+    """Tests for `_replace_or_append_block`.
+
+    The function must replace an existing YAML block whether its sequence
+    items are written column-0 (`- x`) or indented (`  - x`), handle inline
+    `[]`, append when the key is absent, and — critically — be idempotent:
+    re-running on its own output must yield byte-identical text (no orphaned
+    leftovers from the old block, no creeping blank lines)."""
+    try:
+        import yaml  # optional; value assertions degrade gracefully without it
+    except Exception:
+        yaml = None
+
+    results: list[tuple[bool, str, str]] = []
+
+    def check(label, fm, key, new_block, *, expect_seq=None, validate=None,
+              forbid=(), require=()):
+        out1 = _replace_or_append_block(fm, key, new_block)
+        out2 = _replace_or_append_block(out1, key, new_block)
+        ok, detail = True, ""
+        if out1 != out2:
+            ok, detail = False, "not idempotent (second apply changed output)"
+        for sub in forbid:
+            if ok and sub in out1:
+                ok, detail = False, f"orphaned leftover present: {sub!r}"
+        for sub in require:
+            if ok and sub not in out1:
+                ok, detail = False, f"expected substring missing: {sub!r}"
+        if ok and yaml is not None:
+            try:
+                doc = yaml.safe_load(out1) or {}
+            except Exception as e:
+                ok, detail = False, f"invalid YAML: {str(e)[:80]}"
+            else:
+                if ok and expect_seq is not None and doc.get(key) != expect_seq:
+                    ok, detail = False, f"{key}={doc.get(key)!r} != {expect_seq!r}"
+                if ok and validate is not None:
+                    err = validate(doc)
+                    if err:
+                        ok, detail = False, err
+        results.append((ok, label, detail))
+
+    # 1. column-0 sequence — old items must be replaced, not orphaned
+    check("replace column-0 related_thinkers (no orphan)",
+          "authors:\n- jane-doe\nrelated_thinkers:\n- a-d-shroff\n- jane-doe\npublication:\n  language: en",
+          "related_thinkers", "related_thinkers:\n  - a-d-shroff\n  - minoo-shroff",
+          expect_seq=["a-d-shroff", "minoo-shroff"],
+          validate=lambda d: None if d.get("authors") == ["jane-doe"] and "publication" in d
+          else "lost sibling key (authors/publication)")
+
+    # 2. indented sequence — idempotent, no creeping blank line
+    check("replace indented related_thinkers (idempotent)",
+          "related_thinkers:\n  - x\n  - y\npublication:\n  language: en",
+          "related_thinkers", "related_thinkers:\n  - x\n  - z",
+          expect_seq=["x", "z"])
+
+    # 3. inline [] replacement
+    check("replace inline [] related_thinkers",
+          "related_thinkers: []\npublication:\n  language: en",
+          "related_thinkers", "related_thinkers:\n  - x",
+          expect_seq=["x"])
+
+    # 4. append when key absent
+    check("append related_thinkers when missing",
+          "title: foo",
+          "related_thinkers", "related_thinkers:\n  - x",
+          expect_seq=["x"],
+          validate=lambda d: None if d.get("title") == "foo" else "lost sibling key title")
+
+    # 5. column-0 thinker_mentions (mapping items), last key — no orphan
+    check("replace column-0 thinker_mentions (no orphan, last key)",
+          "title: foo\nthinker_mentions:\n- thinker: a\n  role: mention\n  reasoning: r\n  evidence: []\n  key_passages: []",
+          "thinker_mentions",
+          "thinker_mentions:\n  - thinker: b\n    role: mention\n    reasoning: r2\n    evidence: []\n    key_passages: []",
+          forbid=["\n- thinker: a"],
+          validate=lambda d: None if [m["thinker"] for m in d.get("thinker_mentions", [])] == ["b"]
+          else f"thinker_mentions={d.get('thinker_mentions')!r}")
+
+    failed = sum(1 for ok, _, _ in results if not ok)
+    for ok, label, detail in results:
+        print(f"[{'PASS' if ok else 'FAIL'}] {label}" + (f": {detail}" if detail else ""))
+    print(f"\n{len(results) - failed}/{len(results)} block tests passed")
+    return 0 if failed == 0 else 1
+
+
 # ─── Main ─────────────────────────────────────────────────────────────
 
 def main() -> int:
@@ -267,7 +363,10 @@ def main() -> int:
     args = ap.parse_args()
 
     if args.test:
-        return _run_tests()
+        rc_quote = _run_tests()
+        print()
+        rc_block = _run_block_tests()
+        return rc_quote or rc_block
 
     if not NER_MENTIONS.exists():
         print(f"ERROR: {NER_MENTIONS} missing — run resolve-ner.py first", file=sys.stderr)
