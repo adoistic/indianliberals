@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/warning-soft-historyt-rends-k-m-munshi-jun7-1957.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/union-budget-1980-81-gives-a-stunning-blow-to-the-industry-h-p-ranina-august-11-1980.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

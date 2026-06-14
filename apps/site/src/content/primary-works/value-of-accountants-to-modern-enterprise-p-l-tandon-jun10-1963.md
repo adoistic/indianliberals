@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/value-of-accountants-to-modern-enterprise-p-l-tandon-jun10-1963.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

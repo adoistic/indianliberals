@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/towards-a-self-reliant-economy-lessons-of-the-past-murarji-j-vaidya-jan11-1966.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/union-budget-1982-83-proposals-are-ineffective-h-p-ranina-april-12-1982.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

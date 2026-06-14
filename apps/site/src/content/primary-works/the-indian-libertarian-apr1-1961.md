@@ -57,6 +57,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-apr1-1961.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

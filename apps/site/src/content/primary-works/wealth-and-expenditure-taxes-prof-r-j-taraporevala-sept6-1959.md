@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/wealth-and-expenditure-taxes-prof-r-j-taraporevala-sept6-1959.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

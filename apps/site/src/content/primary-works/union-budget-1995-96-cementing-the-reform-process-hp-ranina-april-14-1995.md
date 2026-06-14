@@ -23,6 +23,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/union-budget-1995-96-cementing-the-reform-process-hp-ranina-april-14-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

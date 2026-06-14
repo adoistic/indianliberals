@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/what-is-expected-of-management-trainee-in-private-eeterprise-by-Dr-Skumar-jain-September-5-1962.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

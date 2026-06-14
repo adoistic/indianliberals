@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/we-are-heading-towards-a-man-made-economic-crisis-by-ad-shroff-february-23-1957.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

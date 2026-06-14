@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/union-budget-1997-98-by-hp-ranina-march-15-1997.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

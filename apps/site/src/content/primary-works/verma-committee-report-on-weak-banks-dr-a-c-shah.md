@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/verma-committee-report-on-weak-banks-dr-a-c-shah.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
