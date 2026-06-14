@@ -20,7 +20,8 @@ contributors:
     thinker_unresolved: Fred G. Clark and Richard Stanton Rimanoczy
     toc_index: 4
   - role: author
-    thinker_unresolved: Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker_unresolved: William Henry Chamberlin

@@ -8,7 +8,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Baburao Patel
+    thinker: b-p-patel
+    thinker_unresolved: null
     toc_index: 2
   - role: author
     thinker_unresolved: S. Ramanathan
@@ -20,7 +21,8 @@ contributors:
     thinker_unresolved: Philip Spratt
     toc_index: 6
   - role: author
-    thinker_unresolved: Ompmkash Kahol
+    thinker: om-prakash-kahol
+    thinker_unresolved: null
     toc_index: 10
   - role: author
     thinker_unresolved: Prof. G. V. Lavande, M.A.

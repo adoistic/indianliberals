@@ -12,7 +12,8 @@ editors:
   - kusum-lotwala
 contributors:
   - role: author
-    thinker_unresolved: Baburao Patel
+    thinker: b-p-patel
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: Lal
@@ -27,7 +28,8 @@ contributors:
     thinker_unresolved: Eric Hotter
     toc_index: 8
   - role: author
-    thinker_unresolved: Jay Kay
+    thinker: jay-kay
+    thinker_unresolved: null
     toc_index: 9
   - role: author
     thinker: ma-venkata-rao

@@ -19,7 +19,8 @@ contributors:
     thinker_unresolved: A. G. Noorani
     toc_index: 4
   - role: author
-    thinker_unresolved: M. S. Prasad
+    thinker: m-n-prasad
+    thinker_unresolved: null
     toc_index: 6
 related_thinkers:
   - jawaharlal-nehru

@@ -28,7 +28,8 @@ contributors:
     thinker_unresolved: Libra
     toc_index: 7
   - role: author
-    thinker_unresolved: Jay Kay
+    thinker: jay-kay
+    thinker_unresolved: null
     toc_index: 8
   - role: author
     thinker_unresolved: V. N. Rudin
