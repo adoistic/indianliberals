@@ -1,0 +1,73 @@
+---
+id: shetkari-sanghatak-aug-21-1991
+title:
+  main: शेतकरी संघटक
+  subtitle: ""
+  original_script: शेतकरी संघटक
+  translit: Shetkari Sanghatak
+work_type: periodical_issue
+authors: []
+editors: []
+contributors: []
+related_thinkers: []
+publication:
+  language: mr
+  publisher_id: shetkari-sanghatana
+  publisher_name: पाक्षिक शेतकरी संघटक, मालक — मोहन विहारीलाल परदेशी; संपादक, मुद्रक, प्रकाशक — सुरेशचंद्र म्हात्रे
+  issuer_id: shetkari-sanghatana
+  place: Pune
+  year: 1991
+  edition: वर्ष ८ वे, अंक ९ वा (Year 8, Issue 9)
+  series: वर्ष ८ वे, अंक ९
+provenance:
+  source: ccs_archive
+  scan_quality: unknown
+pdf_url: https://indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-aug-21-1991.pdf
+rights:
+  status: takedown_on_request
+  license: in-copyright
+  license_url: null
+  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+themes:
+  - agricultural-reform
+  - fiscal-policy
+  - free-trade
+  - governance-reform
+summary: "This is the 21 August 1991 issue (Year 8, Issue 9) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi fortnightly organ of the Shetkari Sanghatana. The issue is policy-heavy and pivots on the economics of state intervention in agriculture. Sharad Joshi's signed lead article 'खतांच्या अनुदानाचे रहस्य' (The secret of fertilizer subsidies) argues that fertilizer subsidies are a deceptive instrument that ultimately depress farm-gate prices rather than help farmers, supported by a comparative data table of fertilizer-to-grain price ratios across Pakistan, Egypt, Japan, India and Korea for 1985-86. The bulk of the issue (pages 4-7) is a numbered, multi-part policy document, 'राष्ट्रीय कृषिनीती' (National Agricultural Policy), Article No. 5, setting out the Sanghatana's positions on agricultural exports, removing export controls, market/marketing systems, panchayat-raj decentralisation (पंचायत राज्य), government machinery (सरकारी यंत्रणा) and cooperative institutions (सहकारी संस्था).…"
+needs_review: true
+draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  drafted_at: 2026-05-17
+  model_version: v1.4
+physical:
+  pages_rendered: 8
+  pages_total: 8
+  pages_total_source: pypdfium2
+  format: Marathi fortnightly newspaper/periodical (पाक्षिक); masthead dated 21 August 1991; Regd. No. 39926/83; annual subscription Rs. 25, single copy Re. 1
+missing_metadata_flags:
+  - no_formal_toc
+  - no_publisher_address
+---
+
+# शेतकरी संघटक
+
+## Summary
+
+This is the 21 August 1991 issue (Year 8, Issue 9) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi fortnightly organ of the Shetkari Sanghatana. The issue is policy-heavy and pivots on the economics of state intervention in agriculture. Sharad Joshi's signed lead article 'खतांच्या अनुदानाचे रहस्य' (The secret of fertilizer subsidies) argues that fertilizer subsidies are a deceptive instrument that ultimately depress farm-gate prices rather than help farmers, supported by a comparative data table of fertilizer-to-grain price ratios across Pakistan, Egypt, Japan, India and Korea for 1985-86. The bulk of the issue (pages 4-7) is a numbered, multi-part policy document, 'राष्ट्रीय कृषिनीती' (National Agricultural Policy), Article No. 5, setting out the Sanghatana's positions on agricultural exports, removing export controls, market/marketing systems, panchayat-raj decentralisation (पंचायत राज्य), government machinery (सरकारी यंत्रणा) and cooperative institutions (सहकारी संस्था). The issue also carries organisational notices: an expanded executive-committee meeting at Alandi on 17/18 September 1991 (signed by Shankar Dhonge, President), a planned march on the District Collector's office over agricultural policy, and a 2 October panchayat-election initiative. The masthead lists owner Mohan Vihari­lal Pardeshi and editor-printer-publisher Sureshchandra Mhatre, Pune.
+
+## Essays
+
+### Essay
+Sharad Joshi's lead article 'खतांच्या अनुदानाचे रहस्य' (The secret of fertilizer subsidies) dissects the political economy of fertilizer subsidies in India. Joshi contends that the subsidy regime is misunderstood: rather than benefiting cultivators, it functions to keep crop and grain prices artificially low and to mask the real terms of trade against agriculture. He marshals a comparative table of fertilizer-versus-grain price ratios across several countries (1985-86) to show how Indian pricing disadvantages the farmer, and argues that abolishing the subsidy alongside freeing prices would be better for agriculture than the existing arrangement. The piece closes by framing the subsidy debate as part of the movement's wider demand to dismantle controls on the farm economy.
+
+- Argues fertilizer subsidies depress farm-gate prices rather than aiding farmers.
+- Uses a cross-country fertilizer-vs-grain price table (1985-86) as evidence.
+- Frames the subsidy as a tool that worsens agriculture's terms of trade.
+- Calls for abolishing the subsidy together with freeing crop prices.
+
+
+---
+
+*Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
+
