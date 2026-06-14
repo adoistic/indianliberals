@@ -15,7 +15,8 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: Vigilant
+    thinker: vigilant
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker: kd-valicha

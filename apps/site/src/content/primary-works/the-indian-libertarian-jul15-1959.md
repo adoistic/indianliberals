@@ -13,7 +13,8 @@ contributors:
     thinker_unresolved: Lawrence Fertig
     toc_index: 2
   - role: author
-    thinker_unresolved: M. A. Venkata Rao
+    thinker: ma-venkata-rao
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker: m-n-tholal
@@ -31,13 +32,15 @@ contributors:
     thinker_unresolved: Norman Casserley
     toc_index: 9
   - role: author
-    thinker_unresolved: S. M.
+    thinker: s-m
+    thinker_unresolved: null
     toc_index: 10
   - role: author
     thinker: g-n-lawande
     toc_index: 11
   - role: author
-    thinker_unresolved: "\"C. R.\""
+    thinker: c-rajagopalachari
+    thinker_unresolved: null
     toc_index: 12
 related_thinkers:
   - jawaharlal-nehru

@@ -19,7 +19,8 @@ contributors:
     thinker_unresolved: Eugene Lyons
     toc_index: 4
   - role: author
-    thinker_unresolved: Jay Kay
+    thinker: jay-kay
+    thinker_unresolved: null
     toc_index: 6
   - role: author
     thinker_unresolved: Sumant S. Bankeshwar

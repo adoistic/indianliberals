@@ -20,10 +20,12 @@ contributors:
     thinker: bs-sanyal
     toc_index: 3
   - role: author
-    thinker_unresolved: Vigilant
+    thinker: vigilant
+    thinker_unresolved: null
     toc_index: 4
   - role: author
-    thinker_unresolved: Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker_unresolved: Ashutosh Lahiry
