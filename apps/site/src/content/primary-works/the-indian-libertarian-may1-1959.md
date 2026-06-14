@@ -13,16 +13,19 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: by M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: by Sir Julian Huxley
     toc_index: 4
   - role: author
-    thinker_unresolved: by J. K. Dhairyawan
+    thinker: j-k-dhairyawan
+    thinker_unresolved: null
     toc_index: 5
   - role: author
-    thinker_unresolved: by Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 7
   - role: author
     thinker_unresolved: by P. Mahadevan

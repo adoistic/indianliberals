@@ -20,13 +20,15 @@ contributors:
     thinker_unresolved: Raja Hutheesing
     toc_index: 6
   - role: author
-    thinker_unresolved: Vigilant
+    thinker: vigilant
+    thinker_unresolved: null
     toc_index: 7
   - role: author
     thinker: ma-venkata-rao
     toc_index: 8
   - role: author
-    thinker_unresolved: Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 9
 related_thinkers:
   - jawaharlal-nehru

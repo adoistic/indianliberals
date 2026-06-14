@@ -24,7 +24,8 @@ contributors:
     thinker: j-k-dhairyawan
     toc_index: 4
   - role: author
-    thinker_unresolved: Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 5
 related_thinkers:
   - jawaharlal-nehru

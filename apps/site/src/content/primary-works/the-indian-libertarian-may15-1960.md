@@ -15,7 +15,8 @@ contributors:
     thinker_unresolved: M. N. Thakkil
     toc_index: 3
   - role: author
-    thinker_unresolved: Shrimati Tarkeshwari Sinha
+    thinker: s-l-n-sinha
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker_unresolved: M. R. Hazarnug

@@ -28,7 +28,8 @@ contributors:
     thinker_unresolved: By Dr. K. N. Kini
     toc_index: 11
   - role: author
-    thinker_unresolved: By John F. Dulles
+    thinker: john-foster-dulles
+    thinker_unresolved: null
     toc_index: 12
 related_thinkers: []
 publication:
