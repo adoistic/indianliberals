@@ -10,10 +10,12 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
-    thinker_unresolved: शरद जोशी (निवडक भाषणांतून)
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 2
   - role: author
     thinker_unresolved: सौ. इंदिरा भानुदास पाटील
@@ -22,7 +24,8 @@ contributors:
     thinker_unresolved: डॉ. आप्पासाहेब पवार
     toc_index: 5
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 7
 related_thinkers:
   - jawaharlal-nehru

@@ -24,7 +24,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - urban-policy
+  - energy-policy
+  - environmental-sustainability
 summary: "This Forum of Free Enterprise pamphlet prints two articles — 'Solar Energy' (pp. 1–7) and 'Space City & Solar Energy' (pp. 8–11) — both drawn from a single public lecture delivered by Dr. Rashmi Mayur in Bombay on 3 July 1978. Mayur, then Director of the Urban Development Institute and a member of the Space City Project Council, frames the late 1970s as a unique moment in the earth's 4.6-billion-year history: human technological civilisation has in two million years become a force on the scale of geological change, and every fragment of that civilisation runs on a single substrate — energy. With conventional fossil reserves projected to be exhausted by about 2010 A.D., and with 90% of India's 625 million people living an unrelieved 'energy crisis' while Americans consume a hundred times more energy per head, the lecture turns to alternatives.\n\nMayur surveys the options open to India and finds each lacking on its own. Coal reserves are large but badly located and dirty, requiring 500 Mwe coal-fired plants whose ash produces 20,000 truckloads of ash and serious health hazards. Hydro could meet only 60% of demand even if fully developed.…"
 needs_review: true
 draft: false

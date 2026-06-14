@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: श्री. पळोड, पुणे
@@ -37,7 +38,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - planning-critique
+  - free-trade
+  - regulatory-state-critique
+  - fiscal-policy
+  - women-rights
+  - economic-liberty
 summary: "This is the 6 March 1992 fortnightly issue of Shetkari Sanghatak (शेतकरी संघटक), the Marathi-language organ of the Shetkari Sanghatana farmers' movement, published from Pune. The lead editorial and a signed analysis by Sharad Joshi (शरद जोशी) read the Union Budget for 1992-93 as a continuation of Nehruvian policy in the agricultural sector — the headline 'शेतीक्षेत्रावरील नेहरूनीतीचा अंमल चालू ठेवणारे अंदाजपत्रक' (a budget that keeps the implementation of Nehru-policy alive on the agricultural sector) frames the issue's polemic. Joshi argues that the talk of liberalisation that surrounded the 1991 reforms stops short of farming: the budget keeps in place input subsidies routed through agencies like NABARD, Rural Development Bank and the Agricultural Refinance Corporation, while withholding remunerative prices and free access to international markets from cultivators.\n\nA second cluster of pages reports from the field.…"
 needs_review: true
 draft: false

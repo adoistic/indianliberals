@@ -28,7 +28,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - civil-service
+  - public-administration
+  - rule-of-law
+  - constitutionalism
+  - anti-corruption
+  - governance-reform
+  - public-sector-critique
 summary: "B. K. Nehru's lecture traces the rise and decay of India's higher civil services from their Bourbon-Napoleonic and Haileybury origins to their political subordination in the late 1990s. He defends the All-India Services settlement that Sardar Vallabhbhai Patel forced through an unwilling Constituent Assembly, and argues that it has since been hollowed out by ministerial interference, transfers used as a weapon, and pervasive corruption rooted in the licence-permit-quota raj.\n\nNehru opens with an institutional history — the Bourbon and Napoleonic prefectoral system, Lord Wellesley's College of Fort William, the East India College at Haileybury, the opening of the ICS examination in 1853, and the parallel Indian examination introduced in 1922 — before turning autobiographical. Recalling his own 1934 selection, he describes a Viva Voce in which he was asked how he could serve the British Government when half his family was in jail, and his answer that he wanted \"to see for himself\" whether being in the ICS would help his people.…"
 needs_review: true
 draft: false

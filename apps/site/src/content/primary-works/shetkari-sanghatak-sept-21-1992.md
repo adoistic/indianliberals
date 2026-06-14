@@ -10,10 +10,12 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: अमृत नारायण भिंदे
@@ -22,19 +24,23 @@ contributors:
     thinker_unresolved: डॉ. केशव पंडितराव देशमुख
     toc_index: 7
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 8
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 9
   - role: author
     thinker_unresolved: श्री. भा. के. वेलिंग
     toc_index: 10
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 11
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 12
   - role: author
     thinker_unresolved: अंकित केसरळीकर

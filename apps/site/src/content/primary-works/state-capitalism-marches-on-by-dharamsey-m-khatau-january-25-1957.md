@@ -25,7 +25,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - economic-liberty
+  - capitalism-defence
+  - free-trade
+  - constitutionalism
 summary: "This pamphlet reproduces extracts from Dharamsey M. Khatau's chairman's speech at the 20th Annual General Meeting of A.C.C. (Associated Cement Companies), delivered in Bombay on 25 January 1957 and circulated by the Forum of Free Enterprise. Khatau argues that the legal scaffolding for a free private sector — once \"properly forged\" — has been rapidly dismantled by a succession of statutes: the new Companies Act, the Industries (Development & Regulation) Act, the amendment of the Banking Companies Act, the new Finance Act, and the surrounding labour legislation. Taken together, he says, these laws no longer leave room for freedom for the private sector, and the issue can no longer be postponed to a vaguer debate about \"preservation of freedom and democratic institutions\".\n\nHe then takes two case studies to show the trend. First, the nationalisation of Life Insurance: an industry that had grown vigorously and served the public conspicuously well has been taken over despite the absence of any clear public-interest case, with new business already lower than before the Life Insurance Corporation came in. Second, State Trading in cement — for which Khatau supplies a detailed narrative.…"
 needs_review: true
 draft: false

@@ -24,7 +24,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - monetary-policy
+  - economic-liberty
 summary: "Professor Russi Jal Taraporevala, delivering a Forum of Free Enterprise lecture in Bombay on 31st May 1971, dissects the Union Budget for 1971-72 against the macroeconomic backdrop of the Fourth Five Year Plan. He argues that national income growth at 5.3-5.5% is barely keeping pace with the Plan target, that industry is stagnating with a growth rate of only 4.7% against an envisaged 8-10%, and that the Economy Survey itself admits public sector enterprises returned just Rs. 7.2 crores on Rs. 4,000 crores of investment. Inflation is resurgent, employment additions of 400,000 are pitifully inadequate, and the budget responds with doles for the unemployed instead of measures to expand productive jobs.\n\nThe heart of the lecture is a withering attack on what Taraporevala calls a \"draconian tax effort.\" He calculates that new levies will eventually exceed Rupees 400 crores annually, making this the heaviest taxation burden India has seen in twenty years. He walks the audience through the inflationary excise duties on cigarettes, motor spirit, soap, glass, cameras and readymade garments; the 20% foreign travel tax; the surcharge on incomes above Rs.…"
 needs_review: true
 draft: false

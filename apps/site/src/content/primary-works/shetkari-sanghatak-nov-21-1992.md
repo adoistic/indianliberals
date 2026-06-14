@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: अ. जमील अ. खलील
@@ -39,7 +40,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - free-trade
+  - planning-critique
+  - regulatory-state-critique
+  - economic-liberty
+  - fiscal-policy
+  - public-sector-critique
+  - farmers-movement
 summary: "This is the 21 November 1992 issue of *Shetkari Sanghatak* (शेतकरी संघटक), the Marathi-language fortnightly of the Shetkari Sanghatana, Year 9, Issue 16 — billed on its masthead as 'आंदोलन विशेषांक — २' (Movement Special — 2). The cover-to-page-4 lead essay, 'गव्हाच्या आयातीचे गौडबंगाल' (The Mystery of the Wheat Imports), is signed by Sharad Joshi and constructs an extended polemic against the P. V. Narasimha Rao government's announcement that it will import wheat from the United States, Canada, Australia and Argentina at a cost Joshi pegs at thousands of crores in scarce foreign exchange. His core charge in the rendered pages is that procurement prices paid to Indian farmers (he cites figures around Rs. 280, Rs. 350 and Rs.…"
 needs_review: true
 draft: false

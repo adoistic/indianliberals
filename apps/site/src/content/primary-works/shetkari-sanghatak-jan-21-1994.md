@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
 related_thinkers:
   - jawaharlal-nehru
@@ -33,7 +34,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - economic-liberty
+  - agricultural-reform
+  - regulatory-state-critique
+  - property-rights
+  - fiscal-policy
+  - party-politics
+  - women-rights
 summary: "This January 21, 1994 issue of Shetkari Sanghatak, the Marathi fortnightly of the Shetkari Sanghatana, is built around two argumentative spines. The front-page editorial 'मागणं लई न्हाई....' by Sharad Joshi takes the upcoming end of the Maharashtra Legislative Assembly term in March 1995 as a pretext to read the electoral landscape: Congress is jockeying internally, regional and caste-bloc players like Sharad Pawar and Mulayam Singh are recalibrating, and the established parties — already worn down by communal arithmetic and a collapsing rural base — are visibly nervous about a Shetkari Sanghatana-allied alternative.…"
 needs_review: true
 draft: false

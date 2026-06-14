@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: पंतप्रधान
@@ -22,7 +23,8 @@ contributors:
     thinker_unresolved: किशोर माधवराव
     toc_index: 5
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 6
   - role: other
     thinker_unresolved: जागतिक बँक
@@ -51,7 +53,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - economic-liberty
+  - planning-critique
+  - free-trade
+  - regulatory-state-critique
+  - public-sector-critique
 summary: "This Marathi fortnightly (Shetkari Sanghatak, Year 9 No. 14, 21 October 1992) is built around the lead article \"नेहरूनीती विरुद्ध खुली अर्थव्यवस्था आणि शेतकरी आंदोलन\" — Sharad Joshi's address to the Shetkari Sanghatana's executive committee meeting at Aurangabad (10–11 October 1992) and his speech to the public rally on 12 October. Joshi opens by contrasting the French farmers' tyre-burning protests against subsidised British wheat (\"Goamans\") imports with the Indian peasantry's own position: the Shetkari Sanghatana is not opposed to imports per se, but it cannot accept subsidised imports that price domestic growers (whose wheat costs around Rs. 280/quintal) out of their own market when foreign wheat is dumped at Rs. 9–8 per kg. He uses this to distinguish genuine friends of the open economy from its self-styled advocates who actually want one-sided liberalisation that punishes farmers.\n\nThe second half of Joshi's speech traces the tradition of opposition to the Nehruvian planning order — from Gandhi-era idealists through later dissenters — and argues that no honest farmer leader can today work within Lenin-and-Marx frames; the rural movement has its own anti-statist genealogy.…"
 needs_review: true
 draft: false

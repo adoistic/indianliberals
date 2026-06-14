@@ -32,7 +32,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - economic-liberty
+  - capitalism-defence
+  - regulatory-state-critique
+  - socialism-debate
+  - cold-war-positioning
+  - governance-reform
+  - agricultural-reform
 summary: "Delivered as A. D. Shroff's Presidential address at the Sixth Annual General Meeting of the Forum of Free Enterprise on 12 December 1962 — weeks after the Chinese invasion — this pamphlet uses the national emergency to argue that India's defence, prosperity and freedom require a wholesale abandonment of what Shroff calls the \"communist model\" of planning adopted in the Second and Third Five-Year Plans. Shroff acknowledges that planning itself is necessary, but locates the present malaise in five concrete errors: neglect of agriculture and consumer industries, an obsession with heavy industry, the spread of state ownership, the suppression of incentives and profit, and the smothering of private enterprise.\n\nThe argument's polemical heart is a long comparative survey of the communist bloc's own retreat from doctrinaire centralism. Shroff marshals citations from Pravda, the Russian Economic Gazette, the Soviet Audit Report, China's grain-import dependency, and statements by Liebermann, Yuryev, Khrushchev and Italy's Palmiro Togliatti to show that even communist regimes are rehabilitating profit, incentives and the freeing of state enterprises from the clutches of central planners.…"
 needs_review: true
 draft: false

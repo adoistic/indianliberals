@@ -25,7 +25,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - fiscal-policy
+  - free-trade
+  - foreign-policy
+  - international-monetary-order
 summary: "Arthur F. Burns delivers a sober diagnosis of the dollar's slide in foreign exchange markets between September 1977 and late 1978, framing the question as one of consequence not only for Americans but for every economy that holds dollar-denominated assets or trades in dollar-priced commodities. He organises the address around four questions: how the dollar has actually performed against the currencies of the ten major industrial countries since the move to floating rates in 1973; why it depreciated so sharply in the recent two-year period; what prospects exist for improvement; and how a more stable international monetary system might be built in the years immediately ahead. The originating venue is the American Enterprise Institute; the Forum of Free Enterprise reproduces the lecture for an Indian readership.\n\nOn causes, Burns refuses any single-factor account. Central banks bought more than $40 billion in defence of the dollar from early 1977, yet failed to arrest the underlying decline; interest-rate differentials that had moved in America's favour failed to attract private capital; and the trade balance deteriorated to a $31 billion deficit in 1977.…"
 needs_review: true
 draft: false

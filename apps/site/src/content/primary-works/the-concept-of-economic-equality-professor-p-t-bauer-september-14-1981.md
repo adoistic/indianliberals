@@ -25,7 +25,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - capitalism-defence
+  - socialism-debate
+  - regulatory-state-critique
+  - public-sector-critique
+  - property-rights
+  - fiscal-policy
+  - egalitarianism-critique
 summary: "P. T. Bauer's booklet, published by the Forum of Free Enterprise in Bombay in September 1981 as excerpts from his paper \"The Grail of Equality\", mounts a sustained classical-liberal critique of the egalitarian project. Bauer argues that the economic differences observed in open societies arise primarily from differences in aptitude, motivation, foresight, and the readiness to seize opportunities — not from exploitation or appropriation. Because such differences are produced rather than confiscated, the language of \"inequality\" prejudges the moral question; \"difference\" is the more accurate and neutral term. Any political programme that sets out to remove these differences must rely on extensive coercion, and so trades the promise of greater equality of income for a far more pronounced inequality of power between rulers and subjects.\n\nBauer then turns the standard rhetoric of redistribution against itself.…"
 needs_review: true
 draft: false

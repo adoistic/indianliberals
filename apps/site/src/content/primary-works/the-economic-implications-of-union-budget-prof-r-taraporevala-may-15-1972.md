@@ -24,7 +24,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - monetary-policy
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - agricultural-reform
+  - capitalism-defence
 summary: "Professor Russi Jal Taraporevala's pamphlet, drawn from a public lecture delivered under the auspices of the Forum of Free Enterprise in Bombay on 24th March 1972, dissects the Union Budget for 1972-73 against the unusually punishing backdrop of the preceding year. He opens by cataloguing the abnormal shocks of 1971-72: an unprecedented influx of more than ten million refugees from the territory then becoming Bangla Desh, drought in Maharashtra and Andhra Pradesh, cyclone in Orissa and floods in Uttar Pradesh, Bihar and West Bengal, the Indo-Pakistan war that put the economy on a war footing, and the sudden suspension of U.S. aid. That the Indian economy still made roughly 4 per cent growth, he argues, testifies to the underlying soundness of its structure.\n\nThe heart of the booklet is a sector-by-sector audit. Agriculture is the bright spot, with foodgrain output reaching 107 million tons in 1970-71.…"
 needs_review: true
 draft: false

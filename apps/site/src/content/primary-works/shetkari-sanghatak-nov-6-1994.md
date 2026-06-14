@@ -13,7 +13,8 @@ contributors:
     thinker_unresolved: सुरेशचंद्र म्हात्रे
     toc_index: 1
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 2
   - role: other
     thinker_unresolved: श्री. राजेंद्र बसर्गेकर

@@ -24,7 +24,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - monetary-policy
+  - planning-critique
+  - public-sector-critique
 summary: "Delivered as a Forum of Free Enterprise public lecture in Bombay on 4 March 1974 and published shortly after, Professor Russi Jal Taraporevala's pamphlet reads the Union Budget for 1974-75 against the backdrop of a battered economy: the 1972 monsoon failure had pushed agriculture into crisis, industrial output had collapsed to a 2.5% decline in 1973-74, wholesale prices had risen by 24% in 1973, and foreign exchange reserves were under pressure from the oil shock. Taraporevala walks systematically through national income, agricultural and industrial production, employment, investment, prices, monetary aggregates, the balance of payments and the deficit, arguing throughout that successive Central Government deficits ran far in excess of estimate and were the principal engine of inflation.\n\nOn the budget itself, Taraporevala is sceptical of the Finance Minister's arithmetic. The official 1974-75 deficit of Rs. 125 crores is, in his view, an underestimate: realistic assumptions about food subsidies, dearness allowance and State assistance suggest a true deficit between Rs. 300 and Rs. 500 crores. He notes that the Plan outlay of Rs.…"
 needs_review: true
 draft: false

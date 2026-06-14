@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: editor
     thinker_unresolved: सुरेशचंद्र म्हात्रे

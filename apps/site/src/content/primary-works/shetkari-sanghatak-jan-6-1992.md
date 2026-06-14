@@ -36,7 +36,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - regulatory-state-critique
+  - public-sector-critique
+  - women-rights
+  - electoral-reform
+  - free-trade
 summary: "This is the 6 January 1992 issue (Year 8, Issue 18) of Shetkari Sanghatak, the Marathi-language fortnightly of Sharad Joshi's Shetkari Sanghatana farmers' movement, edited, printed and published by Sureshchandra Mhatre out of Pune. The eight-page issue carries two policy pieces, an editorial on electoral strategy, the third installment of a serialised political reading of the Ramayana, and back-of-the-book service material (a subscriber list and short notices).\n\nThe lead piece by Vijay Javandhia of Wardha, 'सहकारी सूत गिरणीचा नफा, कापूस उत्पादकांची लूट' (\"Cooperative spinning mill's profit, the plunder of cotton producers\"), works through Maharashtra's cooperative cotton purchase scheme year by year from 1986–87 onward. Javandhia compares the cooperative federation's purchase rates with open-market rates, the spinning mills' production costs (₹630–₹740 per quintal), and their realised sale prices, to argue that the federation has been buying member-growers' cotton below market while the mills retain substantial margins — a structure he characterises as state-administered exploitation rather than cooperation.…"
 needs_review: true
 draft: false

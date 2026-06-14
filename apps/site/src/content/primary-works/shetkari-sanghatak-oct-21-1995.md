@@ -11,7 +11,8 @@ authors:
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: translator
     thinker_unresolved: श्री. मेहूल मुखोपाध्याय

@@ -31,7 +31,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - land-reform
+  - property-rights
+  - planning-critique
+  - socialism-debate
+  - marxism-debate
+  - public-sector-critique
+  - economic-liberty
 summary: "M. R. Masani, M.P., addresses the Forum of Free Enterprise with a polemic distinguishing genuine co-operation from the joint co-operative farming pattern endorsed by the Nagpur Resolution of the Congress Party. Masani opens by establishing his own credentials as a life-long supporter of co-operative credit, marketing and multipurpose societies, then draws a sharp line: true co-operation rests on peasants who own and cultivate their own land, while the Soviet-Chinese model of collective farming pools the land itself and turns owners into wage labour on what was once theirs. He argues the Nagpur programme is being smuggled in by the back door under the language of co-operation and must be opposed by every democrat.\n\nThe pamphlet marshals comparative data to attack the productivity claim behind collectivisation. Drawing on figures for wheat and rice yields in the USA, USSR, UK, Denmark, Japan and an Indian Agricultural Research Institute study on bullock vs. tractor ploughing, Masani argues small farms with better seed, water, credit and know-how out-produce large collectives.…"
 needs_review: true
 draft: false

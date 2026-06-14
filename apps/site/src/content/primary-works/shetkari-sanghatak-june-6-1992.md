@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: संपादक
@@ -35,7 +36,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - economic-liberty
+  - public-sector-critique
+  - regulatory-state-critique
+  - free-trade
+  - women-rights
 summary: "This eight-page Marathi fortnightly issue of Shetkari Sanghatak (Vol. 9, No. 5, dated 6 June 1992) is given over almost entirely to a long policy speech by Sharad Joshi on Maharashtra's Cotton Monopoly Procurement Scheme (\"Maharashtra Ekadhikar Kapus Kharedi Yojana\"), which the state government had convened a fresh round of discussions about. Joshi traces the scheme's history from its 1971 launch as a socialist intervention meant to protect cotton growers from private trader exploitation, and argues that twenty years on it has become the opposite of its founding promise: a low-price guarantee scheme that effectively subsidises the textile-mill lobby with cheap raw cotton at the cultivator's expense. Comparing Maharashtra prices over many seasons with those obtained by the Gujarat cooperative system and by the open market, he marshals year-by-year tables showing Maharashtra growers consistently received lower final prices, smaller weighted averages, and a markedly smaller share of the rui (lint) realisation than Gujarat's cooperative growers.\n\nJoshi's argument is two-pronged. First, the monopoly purchase must end because its administrative costs (he gives figures of roughly Rs.…"
 needs_review: true
 draft: false

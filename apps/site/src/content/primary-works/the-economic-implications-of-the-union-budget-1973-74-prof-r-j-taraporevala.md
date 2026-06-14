@@ -24,7 +24,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - monetary-policy
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - agricultural-reform
 summary: "Professor Russi Jal Taraporevala's lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 2nd March 1973, dissects the Union Budget for 1973-74 against the backdrop of a year of severe stress in the Indian economy. He opens by surveying the macroeconomic landscape — unprecedented kharif-season drought in 1972, a national-income growth rate that had collapsed from 7.3% in 1969-70 to barely 1.5-2% in 1971-72 and 1972-73, stagnant pulse production, slumping oilseeds, and the Economic Survey's own admission that growth had been 'unsatisfactory.' Industrial production, though it rebounded to roughly 7.3% in early 1972, was clouded by power cuts, retarded by the Monopolies and Restrictive Trade Practices Act, and squeezed by a banking system — now state-owned — that was diverting credit from the private sector to the Government.\n\nThe central preoccupation of the lecture is what Taraporevala calls 'galloping inflation.' He marshals price-index data — a 13.7% jump in the wholesale price index in the twelve months to December 1972, food articles up 19.5%, edible oils 26.3%, sugar 38.5% — to argue that supply-side shortages, not demand alone, are the engine of t…"
 needs_review: true
 draft: false

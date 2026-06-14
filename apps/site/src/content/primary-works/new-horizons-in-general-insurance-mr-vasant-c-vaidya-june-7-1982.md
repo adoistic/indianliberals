@@ -26,7 +26,9 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - fiscal-policy
 summary: "In the rendered pages, V. C. Vaidya — former Chairman-cum-Managing Director of New India Assurance Company Limited — delivers the 1982 A. D. Shroff Memorial Lecture as a status review of India's General Insurance Industry one decade after its 1972 nationalisation. He opens by anchoring the talk in Shroff's own legacy at New India (Board member from 1937, Chairman from 1946 until his death in 1965) and reads the present moment as a projection from a base \"soundly established\" under that earlier leadership.\n\nThe core of the rendered text moves through eight signposted sections — Present Position, Business Growth, Claims, Profitability, Investments, Staff Position, Foreign Operations, and Social Obligations — before opening a Problems and Prospects forecast that the chunk does not complete. Vaidya reports that the merger of 107 pre-nationalisation units into four competing subsidiaries (National, New India, Oriental, United India) under the General Insurance Corporation has expanded distribution (Branch Offices up 70% in five years to over 1,250) and pushed gross direct premium from Rs. 161 crores in 1972 to an estimated Rs.…"
 needs_review: true
 draft: false

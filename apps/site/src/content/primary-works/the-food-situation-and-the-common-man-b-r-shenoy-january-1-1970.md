@@ -26,7 +26,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - monetary-policy
+  - agricultural-reform
+  - public-sector-critique
+  - fiscal-policy
+  - economic-liberty
+  - regulatory-state-critique
 summary: "In this Forum of Free Enterprise pamphlet, Professor B. R. Shenoy diagnoses India's post-Independence food crisis as fundamentally a monetary phenomenon rather than an output problem. He organises the argument under five heads — the nature of the problem, its basic causes, the Government's responses, the adequacy of those responses, and remedies — and shows that the General Index of prices has risen 27% since May 1955, with rice and wheat rising 33% and 23% respectively. The root cause, he insists, is that the demand for foodgrains, swollen by money incomes climbing 33% over First-Plan and Second-Plan deficit-financed expenditure, has outrun supplies that grew only 4.8%.\n\nShenoy then evaluates the Government's five 'first-aid' measures — export bans, releases from stocks, fair price shops, imports from Burma and the U.S.A., and credit squeezes against hoarders — and finds each a palliative.…"
 needs_review: true
 draft: false

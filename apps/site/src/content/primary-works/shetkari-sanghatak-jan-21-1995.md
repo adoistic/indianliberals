@@ -13,13 +13,15 @@ contributors:
     thinker_unresolved: सुरेशचंद्र म्हात्रे
     toc_index: 1
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: इंद्रजीत भालेकर
     toc_index: 4
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker_unresolved: इंद्रजीत भालेकर
@@ -28,19 +30,22 @@ contributors:
     thinker_unresolved: इंद्रजीत भालेकर
     toc_index: 7
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 8
   - role: author
     thinker_unresolved: प्रा. ज. न. स. फरांदे
     toc_index: 10
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 15
   - role: author
     thinker_unresolved: मोरेश्वर टेमुर्डे, संयोजक, स्वतंत्र भारत पक्ष, महाराष्ट्र
     toc_index: 14
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 17
 related_thinkers:
   - jawaharlal-nehru
@@ -61,7 +66,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - economic-liberty
+  - party-politics
+  - electoral-reform
+  - governance-reform
+  - anti-corruption
+  - property-rights
 summary: "This is a 12-page issue of the Marathi fortnightly Shetkari Sanghatak (शेतकरी संघटक, Year 11, Issue 17, 6–21 January 1995), the in-house periodical of Sharad Joshi's Shetkari Sanghatana. The issue is built around a single political event: the launch of the Swatantra Bharat Paksha — the Sanghatana's electoral wing — and its manifesto for the February 1995 Maharashtra Vidhan Sabha elections. The lead editorial by Sureshchandra Mhatre, titled 'पिशाच महाल उद्ध्वस्त करण्यासाठी' ('To demolish the demon palace'), frames the election as a campaign to dismantle the Nehruvian licence-permit state that has, in the editor's reading, hollowed out the farmer, the trader and the small entrepreneur alike.\n\nThe centrepiece of the issue is the formal election manifesto (jahirnama, pp. 6–7) of Swatantra Bharat Paksha.…"
 needs_review: true
 draft: false

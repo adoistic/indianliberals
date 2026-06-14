@@ -4,7 +4,8 @@ title:
   main: The Gift Tax
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers: []

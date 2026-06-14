@@ -24,7 +24,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - public-sector-critique
+  - planning-critique
+  - monetary-policy
+  - agricultural-reform
+  - capitalism-defence
+  - economic-liberty
 summary: "Professor Russi Jal Taraporevala, writing in this Forum of Free Enterprise pamphlet (reproducing an article from the Economic Times followed by a separate analysis of taxation proposals), reads the Union Budget for 1969-70 as an instrument whose macroeconomic posture is broadly defensible but whose strategy toward the private sector is timid. He opens by setting the budget against the recent record: National Income fell 5.7 per cent in 1965-66, recovered slowly through 1966-67, and jumped 8.9 per cent in 1967-68; food-grain output rebounded from 72 million tons in 1965-66 to an estimated 96 million tons in 1968-69; and, most remarkably, the general price index actually fell one per cent in 1968 — the first such decline since 1955 — even though the Centre ran a Rs. 260 crore deficit. From this he draws his most heterodox claim of the pamphlet: that large-scale deficit financing does not invariably feed inflation when real output is rising faster than money supply.\n\nThe central diagnosis is fiscal strain on the Centre, driven by rising transfers to the States and runaway defence spending — Rs. 1,110 crores in 1969-70, more than one-fifth of the entire Central Budget.…"
 needs_review: true
 draft: false

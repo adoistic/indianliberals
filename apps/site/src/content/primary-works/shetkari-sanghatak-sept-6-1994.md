@@ -10,13 +10,15 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: श्री. एल. सी. कोळे
     toc_index: 2
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 2
   - role: author
     thinker_unresolved: संचालक मंडळ, शिवार इंडस्ट्रीज लिमिटेड

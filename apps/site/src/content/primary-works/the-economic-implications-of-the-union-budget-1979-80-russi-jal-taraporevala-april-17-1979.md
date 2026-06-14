@@ -26,7 +26,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - monetary-policy
+  - planning-critique
+  - public-sector-critique
+  - agricultural-reform
 summary: "This pamphlet reproduces the text of a public lecture delivered by Professor Russi Jal Taraporevala under the auspices of the Forum of Free Enterprise in Bombay on 5th March 1979, assessing the Union Budget 1979-80 presented by Finance Minister Charan Singh. In the rendered pages, Taraporevala sets the budget against the macro-economic scenario inherited from 1978-79 — two excellent agricultural years, an industrial recovery, record foreign-exchange reserves above Rs. 5,000 crores, and remarkable wholesale price stability achieved despite a 50 per cent expansion of money supply over three years. Against this favourable backdrop he traces the disappointing per capita growth record of two decades of planning, with per capita GDP at 1970-71 prices rising at just 1.12 per cent annually between 1961-62 and 1976-77 and decelerating to 0.62 per cent in the latter eight years, leaving 46 per cent of Indians below the poverty line.\n\nTaraporevala's central argumentative thread in the rendered pages is that Charan Singh squandered a once-in-a-million opportunity.…"
 needs_review: true
 draft: false

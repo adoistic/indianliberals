@@ -27,7 +27,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - monetary-policy
+  - planning-critique
+  - public-sector-critique
+  - agricultural-reform
+  - economic-liberty
 summary: "Professor Russi Jal Taraporevala's lecture, delivered in Bombay on 4 March 1974 under the auspices of the Forum of Free Enterprise and other organisations, walks the reader systematically through the macroeconomic setting in which Finance Minister Y. B. Chavan's Union Budget for 1974-75 was framed. Taraporevala opens by sketching the strain that the failure of the 1972 kharif monsoon imposed on agriculture and industry, the partial revival after October 1973, and the sub-target rates of growth that left the Fourth Plan limping along — national income growth unlikely to exceed 3.5 per cent against the 5.7 per cent target, agricultural output in 1973-74 little better than four years earlier, and industrial production running at roughly half its postulated 8-10 per cent rate.\n\nThe core of the booklet is a sectoral diagnosis of inflation, fiscal indiscipline, and a swollen but unprofitable public sector. Wholesale prices rose 19.2 per cent in 1973 and food prices by 24 per cent; central budgets ran cumulative deficits of nearly Rs. 2,100 crores across the Fourth Plan years; the 101 public-sector undertakings together earned only Rs.…"
 needs_review: true
 draft: false

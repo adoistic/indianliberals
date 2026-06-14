@@ -25,7 +25,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - regulatory-state-critique
+  - property-rights
+  - agricultural-reform
+  - public-sector-critique
+  - fiscal-policy
+  - rule-of-law
+  - judicial-independence
+  - constitutionalism
 summary: "Adopted at the Swatantra Party's Preparatory Convention in Bombay on August 1 and 2, 1959, this Statement of Principles sets out the twenty-one foundational planks of the new party in a numbered, declarative form. The opening clauses commit the party to social justice and equality of opportunity without distinction of religion, caste, occupation, or political affiliation, while staking out the party's defining position: maximum freedom for the individual and minimum interference by the State, with state action confined to preventing anti-social activity, protecting the weaker sections, and creating conditions in which private initiative can be fruitful. The document explicitly opposes the trajectory of \"increasing State interference of the kind now being pursued,\" and frames its alternative around the Gandhian principle of Trusteeship rather than State compulsion.\n\nThe middle clauses translate this anti-statist frame into concrete economic positions.…"
 needs_review: true
 draft: false

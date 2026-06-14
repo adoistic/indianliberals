@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: बजरंग मलिक
@@ -19,7 +20,8 @@ contributors:
     thinker_unresolved: श्री. रमेश मुधोळकर
     toc_index: 3
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker_unresolved: स्वामी डी. डी.
@@ -31,7 +33,8 @@ contributors:
     thinker_unresolved: बाबूभाई जैन
     toc_index: 7
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 11
   - role: editor
     thinker_unresolved: सुरेशचंद्र म्हात्रे

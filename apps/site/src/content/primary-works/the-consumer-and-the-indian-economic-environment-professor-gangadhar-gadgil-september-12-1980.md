@@ -24,7 +24,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - economic-liberty
+  - free-trade
+  - fiscal-policy
+  - monetary-policy
+  - capitalism-defence
+  - individual-rights
+  - consumer-protection
 summary: "Prof. Gangadhar Gadgil — economist and President of the Bombay branch of the Federation of Consumers' Associations — uses this Forum of Free Enterprise booklet, based on a talk to consumer-association workers, to argue that India's post-1947 economic environment has been structurally hostile to the consumer. He opens with the structural inheritance: a large, poor population that spends 60–80 per cent of its income on food, an enduring food deficit, weak commercial and transport infrastructure, and an illiterate, unorganised buyer who is easy prey for short-weight, adulterated, and overpriced goods. Government, he concedes, has built food stocks, controlled prices, standardised weights and measures, set up the Food Corporation and the Indian Standards Institute, and passed the Monopolies and Restrictive Trade Practices Act — but these palliatives have failed to dislodge the deeper causes of consumer distress.\n\nThe second half of the booklet turns those causes into a sustained critique of Indian planning.…"
 needs_review: true
 draft: false

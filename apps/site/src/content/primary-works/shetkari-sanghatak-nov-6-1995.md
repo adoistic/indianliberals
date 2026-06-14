@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: — शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 5
   - role: translator
     thinker_unresolved: "भाषांतर : श्री. महेश मुधोळकर (१९५४)"
@@ -37,7 +38,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - regulatory-state-critique
+  - anti-corruption
+  - socialism-debate
+  - economic-liberty
+  - party-politics
+  - free-trade
 summary: "This is the 6 November 1995 fortnightly issue (Year 12, No. 12) of Shetkari Sanghatak, the Marathi organ of Sharad Joshi's Shetkari Sanghatana. The lead editorial, 'पराजयाचा विजयोत्सव' (A Victory Celebration of Defeat), reports on a rally Joshi addressed after his loss in a recent Vidhan Sabha by-election; the piece frames the electoral defeat as a moral victory for the agitation, and the issue announces 10 November as 'शेतकरी हुतात्मा स्मरण दिन' (Farmer Martyr Memorial Day) for slain Sangathana activists.\n\nThe centre of the issue is the text of four resolutions passed by the Karyakarini (executive committee) at Nagpur on 1 November 1995: on the disappointing pace of economic reform; on the sugarcane crisis caused by Congress-era zonal restriction (झोनबंदी) laws and the proposed forced takeover of sick cooperative sugar mills, which the Sangathana protests with a 'हातोडा मोर्चा' (hammer march) at Ambajogai on 15 November; on the खरेदी कर (purchase tax) charged by agricultural produce market committees, which the resolution demands be lifted; and on the renewed extension of the state cotton monopoly-procurement scheme, which the resolution attacks as a vehicle of corruption sustai…"
 needs_review: true
 draft: false

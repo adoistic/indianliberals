@@ -10,7 +10,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: देवराम अंभुरे, गणेशनगर, जि. अहमदनगर
@@ -19,7 +20,8 @@ contributors:
     thinker_unresolved: बबरुवाहन रसाळे, वाकळी, जि. लातूर
     toc_index: 3
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 4
   - role: translator
     thinker_unresolved: श्री गोपालराव पारुडे, पुणे

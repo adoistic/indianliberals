@@ -24,7 +24,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - climate-policy
+  - environmental-policy
+  - property-rights
+  - foreign-policy
+  - agricultural-reform
 summary: "Dr. S. D. Naik's booklet, issued by the Forum of Free Enterprise in the wake of the 2018 Nobel Prize for Economics (awarded to William D. Nordhaus and Paul M. Romer), surveys the climate-change problem as both a scientific reality and a development-policy challenge. The opening pages frame climate change as 'no more an environmental concern' but 'the biggest development challenge for the planet', with multi-sectoral and disproportionately poor-hurting effects. Naik then walks the reader through the basics — weather versus climate, the land-sea warming contrast, rising aerosol concentrations and consequent air pollution — drawing on a 'Nature Climate Change' study and on NOAA data showing 2018 as the hottest year on record and the 2014–2018 stretch as the warmest five-year span in 139 years of measurement.\n\nA long middle section, headed 'The Climate Crisis', synthesises two landmark findings: the Hindukush Himalaya Assessment led by Philippus Wester (warning that two-thirds of Himalayan glaciers risk melting by 2100, with cascading consequences for the Ganga, Indus, Yellow and Mekong river systems and for 1.5 billion people downstream), and a NASA Jet Propulsion Laboratory study o…"
 needs_review: true
 draft: false

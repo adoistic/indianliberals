@@ -27,7 +27,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - monetary-policy
+  - fiscal-policy
+  - public-sector-critique
+  - regulatory-state-critique
+  - free-trade
+  - capitalism-defence
 summary: "Adapted from a talk delivered at Ahmedabad on 12 January 1967, N. A. Palkhivala's pamphlet diagnoses what he calls India's self-inflicted economic distress and lays the blame squarely at the door of government policy. Drawing on a Committee on Economic Development study of Latin America, he argues that the dominant variable behind a nation's economic fate is not natural endowment or population but the policy pursued by its rulers — and on six tests (monetary stability, fiscal policy, export policy, climate for free enterprise, balance between agriculture and industry, and openness to foreign capital) India serves \"as a warning, and not an example, to the rest of mankind.\"\n\nPalkhivala marshals statistics relentlessly. He documents 28 percent and 25 percent rises in the wholesale price index and food prices over a decade, a real-national-income decline of 4.7 percent in 1965–66, mounting foreign debt of Rs. 2,629 crores by the end of the third Plan and deficit financing crossing Rs. 1,150 crores.…"
 needs_review: true
 draft: false

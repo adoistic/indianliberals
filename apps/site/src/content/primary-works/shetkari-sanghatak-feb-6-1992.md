@@ -13,7 +13,8 @@ contributors:
     thinker_unresolved: सौ. सुमन अग्रवाल
     toc_index: 3
   - role: author
-    thinker_unresolved: शरद जोशी
+    thinker: sharad-joshi
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker_unresolved: Katrine A. Saito
