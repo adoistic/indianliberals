@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-2011-12-direct-taxi-mplications-kanu-h-doshi-april-3-2011.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

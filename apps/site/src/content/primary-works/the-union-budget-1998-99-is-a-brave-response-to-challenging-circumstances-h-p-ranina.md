@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1998-99-is-a-brave-response-to-challenging-circumstances-h-p-ranina.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

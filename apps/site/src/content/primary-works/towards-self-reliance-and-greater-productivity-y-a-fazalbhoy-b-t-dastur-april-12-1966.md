@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/towards-self-reliance-and-greater-productivity-y-a-fazalbhoy-b-t-dastur-april-12-1966.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

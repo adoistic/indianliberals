@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-2018-19-h-p-ranina-sunil-s-bhandare.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

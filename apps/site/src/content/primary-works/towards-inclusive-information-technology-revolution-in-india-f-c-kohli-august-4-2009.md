@@ -1,0 +1,79 @@
+---
+id: towards-inclusive-information-technology-revolution-in-india-f-c-kohli-august-4-2009
+title:
+  main: Towards Inclusive Information Technology Revolution in India
+  subtitle: ""
+work_type: speech
+authors: []
+editors:
+  - sunil-bhandare
+contributors: []
+related_thinkers: []
+publication:
+  language: en
+  publisher_id: forum-of-free-enterprise
+  publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula House, 2nd Floor, 235, Dr. D. N. Road, Mumbai 400001, and Printed by S. V. Limaye at India Printing Works, India Printing House, 42 G. D. Ambekar Marg, Wadala, Mumbai 400 031.
+  issuer_id: forum-of-free-enterprise
+  place: Mumbai
+  year: 2009
+provenance:
+  source: ccs_archive
+  scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/towards-inclusive-information-technology-revolution-in-india-f-c-kohli-august-4-2009.pdf
+rights:
+  status: takedown_on_request
+  license: in-copyright
+  license_url: null
+  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+themes:
+  - technology
+  - education
+  - economic-liberty
+summary: "This Forum of Free Enterprise booklet reproduces F. C. Kohli's acceptance speech for a Lifetime Achievement Award (2008-09), delivered at a Bombay Management Association function. Kohli, the TCS pioneer widely called the father of India's IT industry, reflects on more than fifty years in technology and offers a candid, comparative assessment of where Indian IT stands. He argues that although India pioneered software export and consultancy — creating jobs and export revenue exceeding US$60 billion — it captures only a small fraction of the global software and services market (about 2.7%) and lags badly in hardware, where its share is well under 1%. China, by contrast, has built far larger software revenue and a massive domestic hardware output. Kohli's central worry is that computerization within India remains extremely low and concentrated, and the benefits of software have not reached inadequately served or deprived sections of society and the economy."
+needs_review: true
+draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  drafted_at: 2026-05-17
+  model_version: v1.4
+physical:
+  pages_rendered: 11
+  pages_total: 11
+  pages_total_source: pypdfium2
+  format: "Forum of Free Enterprise booklet; text of F. C. Kohli's Lifetime Achievement Award (2008-09) acceptance speech delivered at a Bombay Management Association function, reproduced with his permission for public education."
+missing_metadata_flags:
+  - series_number_not_found
+---
+
+# Towards Inclusive Information Technology Revolution in India
+
+*By F. C. KOHLI*
+
+## Summary
+
+This Forum of Free Enterprise booklet reproduces F. C. Kohli's acceptance speech for a Lifetime Achievement Award (2008-09), delivered at a Bombay Management Association function. Kohli, the TCS pioneer widely called the father of India's IT industry, reflects on more than fifty years in technology and offers a candid, comparative assessment of where Indian IT stands. He argues that although India pioneered software export and consultancy — creating jobs and export revenue exceeding US$60 billion — it captures only a small fraction of the global software and services market (about 2.7%) and lags badly in hardware, where its share is well under 1%. China, by contrast, has built far larger software revenue and a massive domestic hardware output. Kohli's central worry is that computerization within India remains extremely low and concentrated, and the benefits of software have not reached inadequately served or deprived sections of society and the economy.
+
+## Key points
+
+- Kohli traces his career across Tata Electric and TCS and his early-1970s conviction that India could lead, not just join, the information-technology revolution.
+
+- India pioneered software export/consultancy (revenue over US$60 billion, ~$50 billion from exports) but holds only about 2.7% of the ~$2,200 billion global software-and-services market.
+
+- India's hardware industry (~$12 billion) is a tiny 0.7% of the global total, far behind China's roughly $200 billion output.
+
+- Computerization inside India is extremely low; he urges far wider use across government, defence, agriculture, education and retail.
+
+- Calls for software in India's 22-plus languages and affordable hardware to serve the ~900 million people who do not speak English.
+
+- Stresses building microelectronics capability and engineers, citing initiatives to upgrade microelectronics education at engineering colleges.
+
+- Sees IT as a tool for inclusive development — supporting small-scale industry, small engineering units (e.g. Coimbatore), and India's 10-12 million small shops against the threat of large retail chains.
+
+- Closes that excellence in education requires discipline, sacrifice and enhanced resources, with the refrain 'We have miles to go.'
+
+
+
+---
+
+*Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
+

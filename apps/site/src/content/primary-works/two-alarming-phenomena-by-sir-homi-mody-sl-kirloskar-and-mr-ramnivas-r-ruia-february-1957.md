@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/two-alarming-phenomena-by-sir-homi-mody-sl-kirloskar-and-mr-ramnivas-r-ruia-february-1957.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

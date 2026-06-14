@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1995-96-by-passing-parliamentary-select-comittee-n-a-palkhivala-march-21-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

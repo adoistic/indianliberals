@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-2012-13--minoo-r-shroff-april-2-2012.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

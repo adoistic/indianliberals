@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1983-84-proposals-will-weaken-industry-h-p-ranina-april-12-1983.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

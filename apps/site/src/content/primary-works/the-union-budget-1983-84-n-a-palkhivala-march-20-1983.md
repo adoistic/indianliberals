@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-1983-84-n-a-palkhivala-march-20-1983.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

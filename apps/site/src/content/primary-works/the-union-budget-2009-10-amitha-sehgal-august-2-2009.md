@@ -31,6 +31,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-union-budget-2009-10-amitha-sehgal-august-2-2009.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
