@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/socialism-has-it-become-a-doctrine-of-the-past-by-ad-shroff.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

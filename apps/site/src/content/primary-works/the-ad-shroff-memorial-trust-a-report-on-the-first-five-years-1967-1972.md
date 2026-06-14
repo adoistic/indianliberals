@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-ad-shroff-memorial-trust-a-report-on-the-first-five-years-1967-1972.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/good-governance-by-minoo-r-shroff-and-hd-shourie-2002.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

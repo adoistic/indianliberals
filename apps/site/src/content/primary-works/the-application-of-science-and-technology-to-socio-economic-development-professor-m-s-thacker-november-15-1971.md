@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-application-of-science-and-technology-to-socio-economic-development-professor-m-s-thacker-november-15-1971.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

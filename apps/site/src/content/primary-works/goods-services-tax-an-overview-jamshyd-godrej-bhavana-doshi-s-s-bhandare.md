@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/goods-services-tax-an-overview-jamshyd-godrej-bhavana-doshi-s-s-bhandare.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

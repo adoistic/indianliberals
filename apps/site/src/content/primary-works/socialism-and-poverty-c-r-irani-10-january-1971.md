@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/socialism-and-poverty-c-r-irani-10-january-1971.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

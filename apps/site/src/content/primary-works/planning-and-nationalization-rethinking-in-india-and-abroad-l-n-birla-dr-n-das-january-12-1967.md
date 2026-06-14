@@ -26,6 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/planning-and-nationalization-rethinking-in-india-and-abroad-l-n-birla-dr-n-das-january-12-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

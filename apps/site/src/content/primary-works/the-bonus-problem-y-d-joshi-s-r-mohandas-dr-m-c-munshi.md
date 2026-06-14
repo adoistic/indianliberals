@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-bonus-problem-y-d-joshi-s-r-mohandas-dr-m-c-munshi.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

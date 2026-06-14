@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/organized-crime-and-economic-development-in-india-dr-ajit-kumar-sinha.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

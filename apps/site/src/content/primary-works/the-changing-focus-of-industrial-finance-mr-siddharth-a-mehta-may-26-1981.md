@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-changing-focus-of-industrial-finance-mr-siddharth-a-mehta-may-26-1981.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

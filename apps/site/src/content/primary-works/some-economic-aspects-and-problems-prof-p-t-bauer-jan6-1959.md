@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/some-economic-aspects-and-problems-prof-p-t-bauer-jan6-1959.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/on-wage-problem-and-industrial-unrest-naval-h-tata-c-v-pavaskar-b-n-srikrishna-january-14-1982.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

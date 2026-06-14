@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-challenges-before-the-insurance-industry-in-india-g-n-bajpai-2002.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

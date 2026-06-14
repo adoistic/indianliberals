@@ -27,6 +27,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-basic-truth-about-inflation-prof-b-r-shenoy-april-14-1977.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

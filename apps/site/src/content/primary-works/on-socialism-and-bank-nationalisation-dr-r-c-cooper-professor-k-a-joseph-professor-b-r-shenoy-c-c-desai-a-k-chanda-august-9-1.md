@@ -33,6 +33,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/on-socialism-and-bank-nationalisation-dr-r-c-cooper-professor-k-a-joseph-professor-b-r-shenoy-c-c-desai-a-k-chanda-august-9-1.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

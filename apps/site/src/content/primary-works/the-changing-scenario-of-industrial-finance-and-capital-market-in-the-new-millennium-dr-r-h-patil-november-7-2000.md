@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-changing-scenario-of-industrial-finance-and-capital-market-in-the-new-millennium-dr-r-h-patil-november-7-2000.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

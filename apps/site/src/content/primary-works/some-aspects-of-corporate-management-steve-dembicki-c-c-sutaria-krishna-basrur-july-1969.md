@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/some-aspects-of-corporate-management-steve-dembicki,c-c-sutaria-krishna-basrur-july-1969.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

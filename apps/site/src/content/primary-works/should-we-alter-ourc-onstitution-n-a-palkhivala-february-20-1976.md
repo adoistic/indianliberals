@@ -16,6 +16,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/should-we-alter-ourc-onstitution-n-a-palkhivala-february-20-1976.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/reflection-on-the-changing-scenario-of-the-indian-stock-marketst-m-r-mayya-december-21-1994.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

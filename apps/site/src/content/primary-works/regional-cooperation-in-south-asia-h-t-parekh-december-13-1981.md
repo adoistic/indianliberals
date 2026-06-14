@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/regional-cooperation-in-south-asia-h-t-parekh-december-13-1981.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

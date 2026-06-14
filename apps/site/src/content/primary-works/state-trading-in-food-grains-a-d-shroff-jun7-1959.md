@@ -38,6 +38,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/state-trading-in-food-grains-a-d-shroff-jun7-1959.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

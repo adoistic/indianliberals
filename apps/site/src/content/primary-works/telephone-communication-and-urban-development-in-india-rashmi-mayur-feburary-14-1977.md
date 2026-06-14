@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/telephone-communication-and-urban-development-in-india-rashmi-mayur-feburary-14-1977.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

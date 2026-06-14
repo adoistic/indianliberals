@@ -22,6 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-chinese-economic-experiment-lessons-for-india-j-h-doshi-november-16-1978.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
