@@ -32,6 +32,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-new-gold-policy-b-s-mahajan-d-r-pendse-gangadhar-gadgil-and-s-n-sonawala-may-14-1978.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

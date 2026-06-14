@@ -41,6 +41,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-feb-21-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

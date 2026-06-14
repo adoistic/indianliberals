@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-need-for-economic-statesmanship-s-l-kirloskar-december-10-1969.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

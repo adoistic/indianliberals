@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-mess-we-are-in-n-a-palkhivala-11-august-1974.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
