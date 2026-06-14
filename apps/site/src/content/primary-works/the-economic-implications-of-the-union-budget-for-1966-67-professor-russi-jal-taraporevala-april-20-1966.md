@@ -4,7 +4,8 @@ title:
   main: THE ECONOMIC IMPLICATIONS OF THE UNION BUDGET FOR 1966-67
   subtitle: CHANGES RECOMMENDED TO SPUR GROWTH
 work_type: pamphlet
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers:

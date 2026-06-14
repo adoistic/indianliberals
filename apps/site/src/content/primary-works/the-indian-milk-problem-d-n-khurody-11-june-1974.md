@@ -4,7 +4,8 @@ title:
   main: The Indian Milk Problem
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - d-n-khurody
 editors: []
 contributors: []
 related_thinkers: []

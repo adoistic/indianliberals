@@ -12,10 +12,12 @@ contributors:
     thinker: nani-palkhivala
     toc_index: 1
   - role: author
-    thinker_unresolved: R. G. Saraiya
+    thinker: r-g-saraiya
+    thinker_unresolved: null
     toc_index: 2
   - role: author
-    thinker_unresolved: M. H. Mody
+    thinker: mh-mody
+    thinker_unresolved: null
     toc_index: 3
 related_thinkers:
   - john-kenneth-galbraith

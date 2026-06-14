@@ -8,10 +8,12 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: DHIRAJLAL MAGANLAL
+    thinker: dhirajlal-maganlal
+    thinker_unresolved: null
     toc_index: 1
   - role: author
-    thinker_unresolved: DR. A. KRISHNASWAMI
+    thinker: dr-a-krishnaswami
+    thinker_unresolved: null
     toc_index: 2
 related_thinkers:
   - eugene-black

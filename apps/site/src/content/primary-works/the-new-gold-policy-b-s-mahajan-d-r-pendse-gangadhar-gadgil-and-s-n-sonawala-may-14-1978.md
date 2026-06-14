@@ -16,7 +16,8 @@ contributors:
     thinker: d-r-pendse
     toc_index: 2
   - role: author
-    thinker_unresolved: Prof. Gangadhar Gadgil
+    thinker: gangadhar-gadgil
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: S. N. Sonawala

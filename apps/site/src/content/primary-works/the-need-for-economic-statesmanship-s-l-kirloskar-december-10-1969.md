@@ -4,7 +4,8 @@ title:
   main: The Need for Economic Statesmanship
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-l-kirloskar
 editors: []
 contributors: []
 related_thinkers:

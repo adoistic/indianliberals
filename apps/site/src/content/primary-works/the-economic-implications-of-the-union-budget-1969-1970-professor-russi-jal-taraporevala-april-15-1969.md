@@ -4,7 +4,8 @@ title:
   main: THE ECONOMIC IMPLICATIONS OF THE UNION BUDGET, 1969-70
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers: []

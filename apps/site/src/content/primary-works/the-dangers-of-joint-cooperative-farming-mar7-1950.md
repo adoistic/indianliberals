@@ -4,7 +4,8 @@ title:
   main: THE DANGERS OF JOINT CO-OPERATIVE FARMING
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-r-masani-m-p
 editors: []
 contributors: []
 related_thinkers:

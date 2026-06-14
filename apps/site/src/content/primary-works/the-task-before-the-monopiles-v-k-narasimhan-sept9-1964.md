@@ -4,7 +4,8 @@ title:
   main: State Monopolies and the Citizen in a Democracy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - v-k-narasimhan
 editors: []
 contributors: []
 related_thinkers:

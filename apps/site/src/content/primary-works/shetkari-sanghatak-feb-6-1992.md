@@ -42,7 +42,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the 6 February 1992 fortnightly issue of Shetkari Sanghatak (शेतकरी संघटक), Year 8, Issue 20, the Marathi-language organ of the Shetkari Sanghatana, the farmers' organisation led by Sharad Joshi. Across the rendered pages the issue threads together two organising priorities for the movement: mobilising rural women through the Shetkari Mahila Aghadi for the Zilla Parishad and Panchayat Samiti elections scheduled for 25 February 1992, and preparing cadres for a state-wide Rasta Roko (road-blockade) agitation on 8 February 1992 against the Centre's handling of the new liberalisation programme. The lead pieces argue that the 30% reservation for women in local bodies is meaningless without organised women candidates, while a centre-page programmatic note explains why farmers, despite welcoming the broad move toward economic openness, are mobilising against the residual licence-permit controls on agricultural processing, domestic trade and exports. A translated extract from a World Bank-affiliated paper on women in LDC agriculture, and a closing position note by Sharad Joshi himself on the demands placed before Finance Minister Manmohan Singh, round out the issue."
 needs_review: true
 draft: false

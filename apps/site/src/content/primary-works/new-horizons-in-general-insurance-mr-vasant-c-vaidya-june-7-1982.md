@@ -4,7 +4,8 @@ title:
   main: New Horizons in the General Insurance Industry
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - v-c-vaidya
 editors: []
 contributors: []
 related_thinkers:

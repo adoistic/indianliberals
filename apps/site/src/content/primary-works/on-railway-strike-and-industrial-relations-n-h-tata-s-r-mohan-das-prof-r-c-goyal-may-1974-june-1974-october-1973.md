@@ -8,10 +8,12 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: N. H. Tata
+    thinker: naval-h-tata
+    thinker_unresolved: null
     toc_index: 1
   - role: author
-    thinker_unresolved: S. R. Mohan Das
+    thinker: s-r-mohan-das
+    thinker_unresolved: null
     toc_index: 2
   - role: author
     thinker_unresolved: Prof. R. C. Goyal

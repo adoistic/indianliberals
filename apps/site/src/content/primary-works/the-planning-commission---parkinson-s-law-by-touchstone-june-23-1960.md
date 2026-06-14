@@ -4,7 +4,8 @@ title:
   main: "The Planning Commission & Parkinson's Law"
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - touchstone
 editors: []
 contributors: []
 related_thinkers:

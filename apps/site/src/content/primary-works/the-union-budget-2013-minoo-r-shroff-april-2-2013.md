@@ -4,7 +4,10 @@ title:
   main: "The Union Budget 2013-14: Economic & Direct Tax Implications"
   subtitle: "Economic & Direct Tax Implications"
 work_type: pamphlet
-authors: []
+authors:
+  - minoo-r-shroff
+  - s-s-bhandare
+  - kanu-h-doshi
 editors: []
 contributors: []
 related_thinkers: []

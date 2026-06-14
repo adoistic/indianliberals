@@ -4,7 +4,8 @@ title:
   main: The Indian Press is a Private Industry in Public Service
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - a-b-nair
 editors: []
 contributors: []
 related_thinkers: []

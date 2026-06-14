@@ -4,7 +4,8 @@ title:
   main: The Reform of the Judiciary
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - hans-raj-khanna
 editors: []
 contributors: []
 related_thinkers:

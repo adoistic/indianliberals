@@ -4,7 +4,8 @@ title:
   main: The Indian Constitution and Judiciary
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-p-b-mukharji
 editors: []
 contributors: []
 related_thinkers:

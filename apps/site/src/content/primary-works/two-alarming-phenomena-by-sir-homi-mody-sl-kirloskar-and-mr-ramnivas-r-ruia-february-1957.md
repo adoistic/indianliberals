@@ -12,10 +12,12 @@ contributors:
     thinker: homi-mody
     toc_index: 1
   - role: author
-    thinker_unresolved: Mr. S. L. Kirloskar
+    thinker: s-l-kirloskar
+    thinker_unresolved: null
     toc_index: 2
   - role: author
-    thinker_unresolved: Mr. Ramnivas R. Ruia
+    thinker: ramniwas-ruia
+    thinker_unresolved: null
     toc_index: 3
 related_thinkers:
   - abraham-lincoln

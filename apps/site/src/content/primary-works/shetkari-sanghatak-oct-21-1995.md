@@ -44,7 +44,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This fortnightly issue (Year 12, Issue 11, dated 21 October 1995) of the Marathi-language periodical Shetkari Sanghatak — the house organ of Sharad Joshi's Shetkari Sanghatana farmers' movement, published from Pune — carries four substantive items alongside Diwali greetings, organisational notices, and observances for Baliraj Day (30 October) and Farmer Martyrs' Day (10 November). In the rendered pages the lead essay is Sharad Joshi's 'प्रशिक्षणाचा खरा अर्थ' (The Real Meaning of Training), excerpted from his pre-camp address of 6 August 1995, arguing that the movement's training programme is not classroom instruction but the cultivation of independent economic reasoning among farmers. A serialised Marathi translation by Shri. Medha Mudholkar of George Orwell's Animal Farm continues with chapter four, 'गोठ्याची लढाई' (The Battle of the Cowshed). Dr. Manavendra Kachole of Aurangabad contributes a constitutional-political polemic, 'या देशावर राज्य कुणाचे?' (Whose State Rules This Country?), arguing that the post-independence Indian state has never genuinely consulted the public on policy.…"
 needs_review: true
 draft: false

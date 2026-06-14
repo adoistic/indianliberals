@@ -17,7 +17,8 @@ contributors:
     thinker: ma-sreenivasan
     toc_index: 2
   - role: author
-    thinker_unresolved: Dr. Kersi Doodha
+    thinker: kersi-d-doodha
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker: phiroze-j-shroff

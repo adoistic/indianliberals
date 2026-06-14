@@ -40,7 +40,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the 21 March 1995 fortnightly issue of Shetkari Sanghatak (शेतकरी संघटक), Vol. 11, No. 19, the Marathi-language organ of the Shetkari Sanghatana farmers' movement and the newly formed Swatantra Bharat Paksha. The issue is anchored by a long polemical essay from movement founder Sharad Joshi titled 'महात्माजींचा पराभव' (Mahatmaji's Defeat), a heterodox reading of Gandhian thought that argues Gandhi's economic and village-development vision was buried by Nehruvian socialism rather than carried forward, and that Joshi sees himself as a legitimate inheritor of Gandhi's 'sarvodaya' impulse via the farmers' movement.…"
 needs_review: true
 draft: false

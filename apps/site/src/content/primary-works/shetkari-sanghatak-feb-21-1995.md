@@ -50,7 +50,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the 21 February 1995 issue of Shetkari Sanghatak (शेतकरी संघटक), the Marathi-language fortnightly of the Shetkari Sanghatana, Year 11 Issue 18. The issue is built around the upcoming Maharashtra Vidhan Sabha elections of February 1995 and the newly formed Swatantra Bharat Paksha (Free India Party) led by Sharad Joshi, the farmers'-movement leader. The lead piece is a compiled transcript of Joshi's campaign speeches arguing that the freedom won in 1947 was incomplete because state planning, the licence-permit-quota regime, and forced cooperative cartels have replaced foreign rulers with domestic looters. Other items include the full election manifesto of the Swatantra Bharat Paksha, an appeal by Sou. Indira Bhanusu Patil for uncontested gram-panchayat elections by women, an interview with Dr.…"
 needs_review: true
 draft: false

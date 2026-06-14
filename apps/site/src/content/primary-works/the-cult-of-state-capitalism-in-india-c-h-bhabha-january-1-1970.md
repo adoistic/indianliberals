@@ -4,7 +4,8 @@ title:
   main: The Cult of State Capitalism in India
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - c-h-bhabha
 editors: []
 contributors: []
 related_thinkers:

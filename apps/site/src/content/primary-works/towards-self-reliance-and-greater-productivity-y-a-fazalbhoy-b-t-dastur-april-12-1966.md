@@ -8,7 +8,8 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Y. A. Fazalbhoy
+    thinker: y-a-fazalbhoy
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: B. T. Dastur

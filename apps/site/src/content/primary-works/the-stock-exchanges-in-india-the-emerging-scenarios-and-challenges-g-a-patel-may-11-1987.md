@@ -4,11 +4,13 @@ title:
   main: Stock Exchanges in India — Emerging Scenario and Challenges
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - g-s-patel
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: G. S. Patel
+    thinker: g-s-patel
+    thinker_unresolved: null
   - role: introduction
     thinker: nani-palkhivala
 related_thinkers:

@@ -4,7 +4,8 @@ title:
   main: Towards Inclusive Information Technology Revolution in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - f-c-kohli
 editors:
   - sunil-bhandare
 contributors: []

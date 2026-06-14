@@ -9,7 +9,8 @@ editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: "Prof. Kanu H. Doshi*"
+    thinker: kanu-h-doshi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: "Miss Divya Vasantharajan*"

@@ -49,7 +49,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "Issue 9 of Year 11 of Shetkari Sanghatak — the Marathi-language fortnightly of Sharad Joshi's Shetkari Sanghatana — dated 6 September 1994. The eight-page issue is built around five pieces. The lead front-page essay by Sharad Joshi, framed as a reflection on the two-decade arc from the 1974 Bucharest UN population conference to the upcoming 1994 Cairo conference, attacks India's family-planning bureaucracy and argues that population falls naturally where prosperity and open systems take hold, not through coercion or planning. A second piece is an open letter from a retired teacher, Shri P. L. Kolhe, calling for the same 'open-system' logic to be extended to schooling, with a printed reply from Sharad Joshi endorsing competitive, market-based education. A long article and accompanying Memorandum of Association introduce Shivar Industries (India) Ltd., a new Shetkari Sanghatana-promoted retail company that aims to build a chain of farm-to-consumer stores on the Marks & Spencer model.…"
 needs_review: true
 draft: false

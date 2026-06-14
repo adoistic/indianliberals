@@ -4,7 +4,8 @@ title:
   main: The Place of Free Enterprise in a Backward Economy
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - dn-hosali
 editors: []
 contributors: []
 related_thinkers:

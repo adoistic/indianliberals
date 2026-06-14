@@ -4,7 +4,8 @@ title:
   main: THE ECONOMIC IMPLICATIONS OF UNION BUDGET 1977-78
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers:

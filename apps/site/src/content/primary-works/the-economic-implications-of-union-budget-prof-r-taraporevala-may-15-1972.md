@@ -4,7 +4,8 @@ title:
   main: THE ECONOMIC IMPLICATIONS OF THE UNION BUDGET, 1972-73
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers: []

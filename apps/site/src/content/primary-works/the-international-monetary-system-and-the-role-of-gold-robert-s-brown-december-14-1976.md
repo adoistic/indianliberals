@@ -4,7 +4,8 @@ title:
   main: "The International Monetary System & the Role of Gold"
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - robert-s-brown
 editors: []
 contributors: []
 related_thinkers: []

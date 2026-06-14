@@ -4,7 +4,8 @@ title:
   main: The Future of Free Enterprise in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - m-r-masani-m-p
 editors: []
 contributors: []
 related_thinkers:

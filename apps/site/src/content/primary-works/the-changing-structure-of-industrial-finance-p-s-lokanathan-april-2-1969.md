@@ -4,7 +4,8 @@ title:
   main: The Changing Structure of Industrial Finance
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-p-s-lokanathan
 editors: []
 contributors: []
 related_thinkers:

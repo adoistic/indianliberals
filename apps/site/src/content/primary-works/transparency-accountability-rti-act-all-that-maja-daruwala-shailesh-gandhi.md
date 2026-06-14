@@ -10,7 +10,8 @@ editors:
   - sunil-bhandare
 contributors:
   - role: author
-    thinker_unresolved: Maja Daruwala
+    thinker: maja-daruwala
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker: shailesh-gandhi

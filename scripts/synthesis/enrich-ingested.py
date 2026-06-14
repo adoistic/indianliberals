@@ -33,25 +33,55 @@ _HONOR = re.compile(r"\b(dr|prof|professor|mr|mrs|ms|miss|justice|sir|capt|capta
                     r"the late|late|rtd|retd|i\.?c\.?s|m\.?p|m\.?l\.?a)\b", re.I)
 def norm(s: str) -> str:
     s = (s or "").lower()
+    s = re.sub(r"^\s*by\s+", " ", s)          # strip leading "By "
     s = re.sub(r"\(.*?\)", " ", s)            # drop (Retd.) etc.
     s = _HONOR.sub(" ", s)
     s = re.sub(r"[^a-z0-9ऀ-ॿঀ-৿ ]+", " ", s)  # keep latin + devanagari + bengali
     return re.sub(r"\s+", " ", s).strip()
 
+def _li_key(n: str):
+    """(lastname, first-initial) for a latin normalized name; None if not usable."""
+    toks = [t for t in n.split() if t]
+    if len(toks) >= 2 and toks[0].isascii():
+        return (toks[-1], toks[0][0])
+    return None
+
 def es(stem: str) -> str:
     return re.sub(r"[^a-zA-Z0-9_-]+", "-", stem).strip("-").lower()
 
+import yaml
+THINKERS = ROOT / "apps/site/src/content/thinkers"
 def load_authority():
-    doc = json.loads(AUTH.read_text())
-    lut = {}
-    for t in doc["thinkers"]:
-        nm = t["name"]
-        for form in [nm.get("canonical"), nm.get("full")] + (nm.get("also_known_as") or []):
+    """Build the lookup from the CONTENT thinker files (richer aliases than the
+    authority JSON, incl. Latin + Devanagari forms)."""
+    lut = {}; li = {}
+    for p in THINKERS.glob("*.md"):
+        m = FR.match(p.read_text(errors="ignore"))
+        if not m: continue
+        try: fm = yaml.safe_load(m.group(2)) or {}
+        except Exception: continue
+        tid = fm.get("id") or p.stem
+        nm = fm.get("name") or {}
+        akas = nm.get("also_known_as") or []
+        for form in [nm.get("canonical"), nm.get("full")] + akas:
             if form:
-                k = norm(form)
+                k = norm(str(form))
                 if k and k not in lut:
-                    lut[k] = t["id"]
-    return doc, lut
+                    lut[k] = tid
+        # lastname+initial index from canonical/full only (not aka — less noise)
+        for form in [nm.get("canonical"), nm.get("full")]:
+            key = _li_key(norm(str(form))) if form else None
+            if key:
+                li.setdefault(key, set()).add(tid)
+    return lut, li
+
+def resolve(byline, lut, li):
+    n = norm(byline)
+    if n in lut: return lut[n]
+    key = _li_key(n)
+    if key and len(li.get(key, ())) == 1:
+        return next(iter(li[key]))
+    return None
 
 FR = re.compile(r"^(---\n)(.*?)(\n---\n?)(.*)$", re.S)
 
@@ -79,7 +109,7 @@ def read_summary(bd: pathlib.Path):
 
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
-    doc, lut = load_authority()
+    lut, li = load_authority()
     bdmap = bake_dir_map()
     backlog = list(csv.DictReader(open(BACKLOG)))
     mds = [PW / (es(r["filename"][:-4]) + ".md") for r in backlog]
@@ -109,7 +139,7 @@ def main():
             ids = []
             for a in (meta.get("authors") or []):
                 bv = a.get("byline_verbatim") or ""
-                hit = lut.get(norm(bv))
+                hit = resolve(bv, lut, li)
                 if hit and hit not in ids: ids.append(hit)
                 elif bv and not hit: unmatched[bv.strip()] += 1
             if ids:
@@ -121,7 +151,7 @@ def main():
         if mode in ("", "--authors-only") and "thinker_unresolved:" in fm:
             def repl(mo):
                 indent, name = mo.group(1), mo.group(2).strip().strip('"\'')
-                hit = lut.get(norm(name))
+                hit = resolve(name, lut, li)
                 if hit:
                     repl.n += 1
                     return f"{indent}thinker: {hit}\n{indent}thinker_unresolved: null"

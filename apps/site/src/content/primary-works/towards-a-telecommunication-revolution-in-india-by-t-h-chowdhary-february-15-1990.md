@@ -4,7 +4,8 @@ title:
   main: Towards a Telecommunications Revolution in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - t-h-chowdary
 editors: []
 contributors: []
 related_thinkers: []

@@ -4,7 +4,8 @@ title:
   main: The Economic Implications of the Union Budget, 1973-74
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers: []

@@ -16,7 +16,8 @@ contributors:
     thinker: r-c-cooper
     toc_index: 2
   - role: author
-    thinker_unresolved: Prof. C. L. Gheevala
+    thinker: c-l-gheevala
+    thinker_unresolved: null
     toc_index: 3
 related_thinkers:
   - karl-marx

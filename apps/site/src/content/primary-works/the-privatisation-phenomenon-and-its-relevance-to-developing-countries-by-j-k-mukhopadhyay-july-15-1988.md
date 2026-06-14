@@ -4,7 +4,8 @@ title:
   main: The Privatisation Phenomenon and Its Relevance to Developing Countries
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - jiban-mukhopadhyay
 editors: []
 contributors: []
 related_thinkers:

@@ -4,7 +4,8 @@ title:
   main: The Problem of Rising Prices — Causes and Remedy
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - a-s-bhaskar
 editors: []
 contributors: []
 related_thinkers: []

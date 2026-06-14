@@ -42,7 +42,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This 21 October 1994 issue of the Marathi fortnightly Shetkari Sanghatak (Year 11, Issue 12) is built around the run-up to the Sixth Convention of the Shetkari Sanghatana at Kasturchand Park, Nagpur on 12 November 1994. Sharad Joshi opens the issue with the lead essay 'खुली व्यवस्था व अ-राज्यवाद' (Open System and Anti-Statism), arguing that liberalisation is not Manmohan Singh's invention but a return to Gandhi's anti-statist instincts that Nehru's planning had buried, and that the 1980 Shetkari Sanghatana movement was always rooted in this anti-statist (अ-राज्यवादी) economics. The issue then carries supporting editorials on what government has become versus what it should be, a defence of competition and experience as the only real teachers (citing Ayn Rand and Art Buchwald), a fifteen-year retrospective on the Sanghatana, and a sidebar arguing that 'open system is a path, not a stage'. The women's-policy plank is anchored by MLA C. Saroj Kashikar (president, Shetkari Mahila Aghadi) in a long critique of the Maharashtra government's June 1994 women's policy; Ajay Anmol of the U.P. Kisan Union contributes a Hindi marching-poem 'आजादी की सेना फिर तैयार करो'.…"
 needs_review: true
 draft: false

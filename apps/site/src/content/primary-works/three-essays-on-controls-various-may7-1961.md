@@ -11,7 +11,8 @@ contributors:
     thinker_unresolved: K. S. VARGHESE
     toc_index: 1
   - role: author
-    thinker_unresolved: G. RANGA RAO
+    thinker: dr-gvk-rao
+    thinker_unresolved: null
     toc_index: 2
   - role: author
     thinker_unresolved: S. JOSEPH

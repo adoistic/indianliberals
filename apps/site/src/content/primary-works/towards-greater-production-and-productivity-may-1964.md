@@ -8,13 +8,15 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: H. B. Dhondy
+    thinker: h-b-dhondy
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker_unresolved: B. S. Kalsi
     toc_index: 2
   - role: author
-    thinker_unresolved: S. V. Ghatalia
+    thinker: s-v-ghatalia
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: Dr. F. S. Noorani

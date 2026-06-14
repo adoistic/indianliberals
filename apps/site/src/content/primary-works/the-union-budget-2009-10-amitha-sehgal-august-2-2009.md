@@ -15,7 +15,8 @@ contributors:
     thinker_unresolved: "Divya Vasantharajan*"
     toc_index: 2
   - role: author
-    thinker_unresolved: "Kanu H. Doshi*"
+    thinker: kanu-h-doshi
+    thinker_unresolved: null
     toc_index: 3
   - role: editor
     thinker: sunil-bhandare

@@ -4,7 +4,8 @@ title:
   main: The Next Phase of Structural Transformation — I-nomics
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - piya-mahtaney
 editors: []
 contributors: []
 related_thinkers:

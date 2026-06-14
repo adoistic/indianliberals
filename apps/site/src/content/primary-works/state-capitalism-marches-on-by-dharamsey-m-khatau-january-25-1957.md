@@ -4,7 +4,8 @@ title:
   main: STATE CAPITALISM MARCHES ON
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dharamsey-khatau
 editors: []
 contributors: []
 related_thinkers:

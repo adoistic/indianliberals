@@ -43,7 +43,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the September 21, 1991 issue of Shetkari Sanghatak (शेतकरी संघटक), a Marathi fortnightly published by the Shetkari Sanghatana movement and edited by Sureshchandra Mhatre. The eight-page issue carries three pieces, all by Sharad Joshi (शरद जोशी), the movement's founder, written in the weeks immediately following the Narasimha Rao government's economic liberalization announcement of July 1991. The lead piece is an \"open response\" from farmers to the new Prime Minister, listing ten concrete demands on what a credible liberalisation must do for agriculture. The second piece is Joshi's preface to the Marathi edition of the \"National Agricultural Policy\" document drafted by the Devi Lal–chaired advisory committee under V. P. Singh's government and shelved by the Chandrashekhar and Narasimha Rao governments. The third piece, marking twelve years of the Shetkari Sanghatana, is a reflective essay arguing that the agitational phase (the \"embers\") has done its work and that the movement now needs an intellectual and educational flame, anchored by Jefferson's dictum that eternal vigilance is the price of freedom.…"
 needs_review: true
 draft: false

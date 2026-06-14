@@ -4,7 +4,8 @@ title:
   main: Towards Our Safe and Secure Energy Future
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-anil-kakodkar
 editors: []
 contributors: []
 related_thinkers:

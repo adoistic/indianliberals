@@ -4,7 +4,8 @@ title:
   main: The Dollar and the International Monetary System
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - arthur-f-burns
 editors: []
 contributors: []
 related_thinkers:

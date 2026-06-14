@@ -4,7 +4,8 @@ title:
   main: The Position of Directors Under the Companies Act
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - k-l-rao
 editors: []
 contributors: []
 related_thinkers: []

@@ -4,7 +4,8 @@ title:
   main: Solar Energy
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-rashmi-mayur
 editors: []
 contributors: []
 related_thinkers: []

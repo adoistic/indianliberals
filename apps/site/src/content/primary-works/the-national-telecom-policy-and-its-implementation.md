@@ -4,7 +4,8 @@ title:
   main: The National Telecom Policy and Its Implementation
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - t-h-chowdary
 editors: []
 contributors: []
 related_thinkers: []

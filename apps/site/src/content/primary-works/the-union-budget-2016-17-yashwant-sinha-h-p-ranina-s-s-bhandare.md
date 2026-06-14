@@ -15,10 +15,12 @@ contributors:
     thinker: hp-ranina
     toc_index: 2
   - role: author
-    thinker_unresolved: S. S. Bhandare
+    thinker: s-s-bhandare
+    thinker_unresolved: null
     toc_index: 3
   - role: introduction
-    thinker_unresolved: Minoo R. Shroff
+    thinker: minoo-r-shroff
+    thinker_unresolved: null
 related_thinkers: []
 publication:
   language: en

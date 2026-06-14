@@ -4,7 +4,8 @@ title:
   main: The Role of Free Enterprise
   subtitle: A Case For Economic Democracy
 work_type: essay
-authors: []
+authors:
+  - m-r-masani-m-p
 editors: []
 contributors: []
 related_thinkers:

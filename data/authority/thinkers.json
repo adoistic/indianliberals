@@ -6490,6 +6490,278 @@
       "affiliations": [],
       "bio_source": "ai_drafted_stub",
       "needs_review": true
+    },
+    {
+      "id": "v-c-vaidya",
+      "name": {
+        "canonical": "V. C. Vaidya",
+        "sort": "V. C. Vaidya",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "dr-rashmi-mayur",
+      "name": {
+        "canonical": "Dr. Rashmi Mayur",
+        "sort": "Dr. Rashmi Mayur",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "c-h-bhabha",
+      "name": {
+        "canonical": "C. H. Bhabha",
+        "sort": "C. H. Bhabha",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "dr-p-s-lokanathan",
+      "name": {
+        "canonical": "Dr. P. S. Lokanathan",
+        "sort": "Dr. P. S. Lokanathan",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "arthur-f-burns",
+      "name": {
+        "canonical": "Arthur F. Burns",
+        "sort": "Arthur F. Burns",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "j-d-choksi",
+      "name": {
+        "canonical": "J. D. Choksi",
+        "sort": "J. D. Choksi",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "s-l-kirloskar",
+      "name": {
+        "canonical": "S. L. Kirloskar",
+        "sort": "S. L. Kirloskar",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "capt-dinshaw-j-dastur",
+      "name": {
+        "canonical": "Capt. Dinshaw J. Dastur",
+        "sort": "Capt. Dinshaw J. Dastur",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "dr-p-b-mukharji",
+      "name": {
+        "canonical": "Dr. P. B. Mukharji",
+        "sort": "Dr. P. B. Mukharji",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "n-rangachary",
+      "name": {
+        "canonical": "N. Rangachary",
+        "sort": "N. Rangachary",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "d-n-khurody",
+      "name": {
+        "canonical": "D. N. Khurody",
+        "sort": "D. N. Khurody",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "a-b-nair",
+      "name": {
+        "canonical": "A. B. Nair",
+        "sort": "A. B. Nair",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "robert-s-brown",
+      "name": {
+        "canonical": "Robert S. Brown",
+        "sort": "Robert S. Brown",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "t-h-chowdary",
+      "name": {
+        "canonical": "T. H. Chowdary",
+        "sort": "T. H. Chowdary",
+        "also_known_as": [
+          "T.H. CHOWDARY"
+        ]
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "piya-mahtaney",
+      "name": {
+        "canonical": "Piya Mahtaney",
+        "sort": "Piya Mahtaney",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "touchstone",
+      "name": {
+        "canonical": "Touchstone",
+        "sort": "Touchstone",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "dr-b-k-tandon",
+      "name": {
+        "canonical": "Dr. B. K. Tandon",
+        "sort": "Dr. B. K. Tandon",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "p-m-agerwala",
+      "name": {
+        "canonical": "P. M. Agerwala",
+        "sort": "P. M. Agerwala",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "a-s-bhaskar",
+      "name": {
+        "canonical": "A. S. Bhaskar",
+        "sort": "A. S. Bhaskar",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "air-chief-marshal-p-c-lal",
+      "name": {
+        "canonical": "Air Chief Marshal P. C. Lal",
+        "sort": "Air Chief Marshal P. C. Lal",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "james-d-hodgson",
+      "name": {
+        "canonical": "James D. Hodgson",
+        "sort": "James D. Hodgson",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "g-s-patel",
+      "name": {
+        "canonical": "G. S. Patel",
+        "sort": "G. S. Patel",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "dr-a-krishnaswami",
+      "name": {
+        "canonical": "Dr. A. Krishnaswami",
+        "sort": "Dr. A. Krishnaswami",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "prof-m-ruthnaswamy",
+      "name": {
+        "canonical": "Prof. M. Ruthnaswamy",
+        "sort": "Prof. M. Ruthnaswamy",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "f-c-kohli",
+      "name": {
+        "canonical": "F. C. Kohli",
+        "sort": "F. C. Kohli",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "dr-anil-kakodkar",
+      "name": {
+        "canonical": "Dr. Anil Kakodkar",
+        "sort": "Dr. Anil Kakodkar",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
+    },
+    {
+      "id": "rashad-kaldany",
+      "name": {
+        "canonical": "Rashad Kaldany",
+        "sort": "Rashad Kaldany",
+        "also_known_as": []
+      },
+      "confidence": "low",
+      "sources": []
     }
   ],
   "byline_lookup": {

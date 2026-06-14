@@ -4,7 +4,8 @@ title:
   main: "\"The New Class\" in a State Dominated Economy"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - mh-mody
 editors: []
 contributors: []
 related_thinkers:

@@ -4,7 +4,8 @@ title:
   main: The Menace of Inflation
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - n-dandeker
 editors: []
 contributors: []
 related_thinkers: []

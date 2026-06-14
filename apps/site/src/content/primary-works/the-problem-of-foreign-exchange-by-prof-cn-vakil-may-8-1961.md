@@ -4,7 +4,8 @@ title:
   main: The Problem of Foreign Exchange
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - c-n-vakil
 editors: []
 contributors: []
 related_thinkers: []

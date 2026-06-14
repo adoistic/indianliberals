@@ -4,7 +4,8 @@ title:
   main: The Concept of Economic Equality
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - p-t-bauer
 editors: []
 contributors: []
 related_thinkers:

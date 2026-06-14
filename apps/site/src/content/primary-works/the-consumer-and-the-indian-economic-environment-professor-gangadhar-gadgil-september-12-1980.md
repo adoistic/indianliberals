@@ -4,7 +4,8 @@ title:
   main: The Consumer and the Indian Economic Environment
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - gangadhar-gadgil
 editors: []
 contributors: []
 related_thinkers: []

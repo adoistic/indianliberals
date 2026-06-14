@@ -11,7 +11,8 @@ contributors:
     thinker_unresolved: C. C. Chokshi
     toc_index: 1
   - role: author
-    thinker_unresolved: Dhirajlal Maganlal
+    thinker: dhirajlal-maganlal
+    thinker_unresolved: null
     toc_index: 2
   - role: author
     thinker_unresolved: R. L. N. Vijayanagar

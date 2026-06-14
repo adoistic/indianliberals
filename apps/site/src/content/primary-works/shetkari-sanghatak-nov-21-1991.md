@@ -37,7 +37,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This Marathi-language fortnightly issue of शेतकरी संघटक (Shetkari Sanghatak), dated 21 November 1991, is organised around the massive Shegaon farmers' rally held on 10 November 1991 and is dominated by the address of Shetkari Sanghatana's leader Sharad Joshi. In the rendered pages the issue carries Joshi's speech proclaiming a new phase of struggle ('नव्या लढाईची घोषणा') and a 'Bharat Dashak' (1991–2000) to liberate the country from its debt crisis; a short reflective piece by Gopal Paranjape on who the true 'मानकरी' (honour-bearers) of the Shegaon gathering were; the collective Shegaon Jahirnama (Shegaon Manifesto) issued by the assembled peasantry; and a news report ('शेगाव मेलाव्याचा वृत्तांत') summarising the meeting's resolutions. The argumentative centre is a sharp critique of post-Independence agricultural and industrial policy as anti-farmer ('शेतकरीविरोधी'), and a call for a new national agricultural policy built around free trade in farm produce, deregulation of agricultural processing and exports, and the liberation of the metaphorical 'सीता' (the peasantry, here a 'स्वयंसिद्धा सीता') from her forty-year वनवास."
 needs_review: true
 draft: false

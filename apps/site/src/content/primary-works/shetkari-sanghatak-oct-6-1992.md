@@ -46,7 +46,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This 6 October 1992 issue of Shetkari Sanghatak (शेतकरी संघटक) — Year 9, No. 13, the Marathi fortnightly of the Shetkari Sanghatana — is built around Sharad Joshi's lead editorial calling for a 'second leap' (दुसरी छलांग) of the farmers' movement: beyond merely demanding price relief and opposing Nehruvian planning, the Sanghatana must articulate an affirmative free-market programme and a new method of agitation, or, Joshi warns, the defeat of Nehruvianism will yield no victory for Bharat. Several news pieces show the movement enacting this Nehru-critique in the street: on Gandhi Jayanti (2 October 1992) volunteers ritually burned copies of 'Nehru's policy' at Sevagram (Mahatma Gandhi's ashram), Akola, and Amravati, where the local 'Nehru Maidan' was simultaneously renamed 'Mahatma Jotiba Phule Maidan'.…"
 needs_review: true
 draft: false

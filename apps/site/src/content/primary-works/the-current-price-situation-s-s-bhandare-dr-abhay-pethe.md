@@ -9,7 +9,8 @@ authors:
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: S.S. Bhandare
+    thinker: s-s-bhandare
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker: abhay-pethe

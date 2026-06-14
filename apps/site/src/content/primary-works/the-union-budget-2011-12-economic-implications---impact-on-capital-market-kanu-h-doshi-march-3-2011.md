@@ -4,7 +4,8 @@ title:
   main: "The Union Budget 2011-12: Direct Tax Implications"
   subtitle: Direct Tax Implications
 work_type: pamphlet
-authors: []
+authors:
+  - kanu-h-doshi
 editors: []
 contributors: []
 related_thinkers: []

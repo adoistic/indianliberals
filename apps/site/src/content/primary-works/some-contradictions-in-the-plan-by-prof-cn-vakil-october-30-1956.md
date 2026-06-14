@@ -4,7 +4,8 @@ title:
   main: SOME CONTRADICTIONS IN THE PLAN
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - c-n-vakil
 editors: []
 contributors: []
 related_thinkers: []

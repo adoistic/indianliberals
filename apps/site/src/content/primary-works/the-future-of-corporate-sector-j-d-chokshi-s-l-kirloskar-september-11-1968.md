@@ -4,14 +4,18 @@ title:
   main: The Future of Corporate Sector in India
   subtitle: ""
 work_type: edited_volume
-authors: []
+authors:
+  - j-d-choksi
+  - s-l-kirloskar
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: J. D. CHOKSI
+    thinker: j-d-choksi
+    thinker_unresolved: null
     toc_index: 1
   - role: author
-    thinker_unresolved: S. L. KIRLOSKAR
+    thinker: s-l-kirloskar
+    thinker_unresolved: null
     toc_index: 2
 related_thinkers: []
 publication:

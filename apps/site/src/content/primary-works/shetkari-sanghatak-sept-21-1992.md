@@ -65,7 +65,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This 21 September 1992 issue of the Marathi fortnightly Shetkari Sanghatak (year 9, number 12) is the house organ of Shetkari Sanghatana, the farmers' movement led by Sharad Joshi. The eight rendered pages are dominated by two long policy interventions by Joshi himself — a front-page essay arguing that India's milk surplus is the work of price liberalisation rather than the cooperative-and-NDDB apparatus, and a long position paper on the August 1992 fertilizer price hike titled 'Subsidy is not the answer — no alms, we want the price of our sweat.' The issue also carries field news from the Nagpur and Nanded propaganda tour, an announcement cancelling the Majghar farm-display, a reader-survey form on farmers' economic condition, a 'सं. न. वि. वि.' letters column with short pieces by Sharad Joshi and others on farm taxation, four-fold (chaturang) farming, the prohibition campaign in Gadchiroli and the Sindhudurg loan-waiver, and two back-page columns — Joshi's 'उत्पन्नाची उलटी गंगा' (the inverted Ganga of farm income) and Akhil Kesarsaikar's testimonial on quitting chemical fertilisers.…"
 needs_review: true
 draft: false

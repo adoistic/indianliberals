@@ -59,7 +59,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is Year 12, Issue 9 of Shetkari Sanghatak (शेतकरी संघटक), a Marathi fortnightly newspaper of the Shetkari Sanghatana, dated 21 September 1995 and edited by Sharad Joshi. The issue is anchored by two Sharad Joshi editorials — a long polemical essay reading the just-concluded Beijing UN Women's Conference as an elite NGO carnival that bypasses the working peasant woman, and a sharp attack on the Nehruvian land-ceiling regime as a fraud sold in the name of land reform. Around these sit a translated companion piece on Beijing by Vasudev Malik, a serialised Marathi translation of George Orwell's Animal Farm (chapter 'स्वराज्य अवतरले') by Meghan Mudholkar, Govind Joshi's field report on the breakdown of the Maharashtra cotton monopoly procurement scheme, an organisational notice listing the newly appointed district chiefs (jilhapramukhs) of the Sanghatana, advertisements for the Krishi Arth Prabodhini training camps, a long reportage on a bold woman sarpanch facing local goons and a passive administration, a poem 'हिव' by Swami D. D., and birthday thanks from Sharad Joshi himself.…"
 needs_review: true
 draft: false

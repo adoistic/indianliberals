@@ -8,10 +8,12 @@ authors: []
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Minoo H. Mody
+    thinker: mh-mody
+    thinker_unresolved: null
     toc_index: 1
   - role: author
-    thinker_unresolved: Dr. A. C. Chhatrapati
+    thinker: a-c-chhatrapati
+    thinker_unresolved: null
     toc_index: 2
 related_thinkers:
   - p-c-mahalanobis

@@ -4,7 +4,8 @@ title:
   main: The Population Problem
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - dr-b-k-tandon
 editors: []
 contributors: []
 related_thinkers: []

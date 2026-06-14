@@ -56,7 +56,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This 6 October 1995 issue of Shetkari Sanghatak — the Marathi fortnightly of the Shetkari Sanghatana edited from Pune — is largely a Sharad Joshi number, opening with two extended polemics under his byline. The lead piece, \"कापूस एकाधिकाराचा मृत्युलेख\" (\"An Obituary for the Cotton Monopoly\"), reads Maharashtra's decision to admit private traders into cotton procurement as the death certificate of the state's Cotton Monopoly Procurement Scheme launched in Indira Gandhi's time, and dismisses the official line that the move is a one-year emergency measure rather than a confession that thirty years of price-fixing impoverished growers and enriched the bureaucracy. The second front-page essay, \"कोसळत्या व्यवस्थेतील पडझड\" (\"Cracks in a Collapsing System\"), uses the death of postal officer Sharad Joshi at Bharatpur and a fatal Firozabad railway accident as set-pieces for a wider attack on India's nationalised post, telegraph and railway monopolies — institutions, Joshi argues, that survive on subsidy and prestige while the public increasingly bypasses them via couriers and private transport."
 needs_review: true
 draft: false

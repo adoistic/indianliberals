@@ -44,7 +44,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the 21 June 1992 fortnightly issue (Year 9, No. 6) of Shetkari Sanghatak, the Marathi-language organ of the Shetkari Sanghatana farmers' movement. The issue is anchored by two substantive pieces in the rendered pages: a long front-page polemic by Sharad Joshi titled '´भारता´च्या मानगुटी नेहरुवादाचे भूत' (“The Ghost of Nehruvianism on India's Shoulders”), timed to the 23 May commemorations of Jawaharlal Nehru's death anniversary, which uses the occasion to attack Nehruvian dirigisme, mixed-economy planning and the Nehru-Gandhi dynasty as obstacles to India's liberalisation; and a report-essay by Gail Omvedt of Kasegaon (Sangli) on the women activists of the Shetkari Sanghatana's 'Lakshmimukti' (women's land-rights) campaign and the broader stri-mukti movement that grew out of it after 2 October 1990.…"
 needs_review: true
 draft: false

@@ -4,7 +4,8 @@ title:
   main: Trends in Industrial Finance in India and Elsewhere
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - rashad-kaldany
 editors: []
 contributors: []
 related_thinkers: []

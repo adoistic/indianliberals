@@ -4,7 +4,8 @@ title:
   main: The Indian Insurance Industry
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - n-rangachary
 editors: []
 contributors:
   - role: introduction

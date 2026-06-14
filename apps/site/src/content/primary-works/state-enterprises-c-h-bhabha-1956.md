@@ -4,7 +4,8 @@ title:
   main: State Enterprises
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - c-h-bhabha
 editors: []
 contributors: []
 related_thinkers:

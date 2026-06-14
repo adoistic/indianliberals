@@ -4,7 +4,8 @@ title:
   main: The Role of Labour in Japanese Economic Miracle
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - james-d-hodgson
 editors: []
 contributors: []
 related_thinkers: []

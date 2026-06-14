@@ -4,7 +4,8 @@ title:
   main: "The Public Sector — A Manager's Report"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - air-chief-marshal-p-c-lal
 editors: []
 contributors: []
 related_thinkers:

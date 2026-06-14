@@ -36,7 +36,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This 6 September 1992 issue of the Marathi fortnightly शेतकरी संघटक (Shetkari Sanghatak, Year 9, No. 11) — the masthead organ of Shetkari Sanghatana — is dominated by a long signed essay from Sharad Joshi explaining why he declined to attend the first anniversary of the Vasantrao Naik Smruti Pratishthan despite a personal invitation from Maharashtra Chief Minister Sudhakarrao Naik. The piece functions as a polemical audit of the late Vasantrao Naik's agricultural and dairy record (Roshanara cotton variety, the 1980 cotton monopoly procurement scheme, Operation Flood's Aarey/Dudh Mahapur extension to Maharashtra) and frames the Sanghatana's enduring grievance against the Nehruvian state-controlled price regime for farm produce.…"
 needs_review: true
 draft: false

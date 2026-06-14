@@ -4,7 +4,8 @@ title:
   main: The Climate Change - Issues and Challenges
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - s-d-naik
 editors:
   - sunil-bhandare
 contributors: []

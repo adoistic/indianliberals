@@ -44,7 +44,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - individual-liberty
+  - free-market
+  - limited-government
+  - liberalism-as-tradition
 summary: "Volume X, Number 1 of The Indian Libertarian — a Bombay fortnightly that 'stands for free economy and limited government' and campaigns for English as the lingua franca of India — frames the months after the 1962 general elections as a moment of testing for Indian constitutional liberalism. An unsigned editorial surveys the Geneva Disarmament Conference, the widening Sino-Soviet rift, and the integration of Goa, while 'Here and There' sketches domestic news. Bylined essays by M. A. Venkata Rao, M. N. Tholal and J. M. Lobo Prabhu interrogate the post-election Congress hegemony, defend freedom of information against Nehru's qualifications, and warn that the constitutional 'watchman' has fallen asleep. The Delhi Letter mocks Nehru's foreign and Punjab policy; a Book Review notes a fresh American study of Indian Communism; and 'Gleanings from the Press' and 'News & Views' compile dissenting voices from Biju Patnaik, Rajaji, the Ahmedabad Citizens' Conference and the Dalai Lama.…"
 needs_review: true
 draft: false

@@ -4,7 +4,8 @@ title:
   main: The Garland Canal Project
   subtitle: "Answer to India's Flood, Food and Unemployment Problems"
 work_type: speech
-authors: []
+authors:
+  - capt-dinshaw-j-dastur
 editors: []
 contributors: []
 related_thinkers:

@@ -41,7 +41,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the 6 November 1994 issue of Shetkari Sanghatak (Marathi: शेतकरी संघटक), the fortnightly mouthpiece of Sharad Joshi's Shetkari Sanghatana, published as a special number (विशेषांक) for the joint Nagpur Adhiveshan of the Sanghatana and the Shetkari Mahila Aghadi held on 12 November 1994. Subtitled राजकीय भूमिकेचे दशक: सन १९८४ ते १९९४ (\"Decade of the Political Stance: 1984 to 1994\"), the issue is a curated retrospective: it reprints the organisation's earlier editorial statements, candidate-selection circulars, and post-mortems on every major electoral cycle since the movement first decided to step from agitation into the ballot — the 1984 cooperative-society polls, the 1984 Lok Sabha, the 1985 Maharashtra Vidhan Sabha, the 1987 Nanded by-election, the 1989 and 1991 Lok Sabha contests, the 1987 panchayati-raj framework, and the 1992 panchayat polls fought by the Shetkari Mahila Aghadi.\n\nThe volume's argumentative centre, set in editor Sureshchandra Mhatre's foreword and Sharad Joshi's open letter to Dainik Lokmat (गच्छ सूकर। भद्रं ते।), is that the Sanghatana's contested decade of electoral engagement was the necessary political extension of its 'अर्थवादी' (economy-first) mo…"
 needs_review: true
 draft: false

@@ -45,7 +45,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This is the 6 November 1991 fortnightly issue (Year 8, Issue 14) of Shetkari Sanghatak (शेतकरी संघटक), the Marathi-language organ of Sharad Joshi's Shetkari Sanghatana, published from Pune. The issue is built around four substantive items: a lead essay by Sharad Joshi titled 'शेतकरी आंदोलनाचे उद्दिष्ट' (The objective of the farmers' movement) that argues the movement's aim is not to seek subsidies from the state but to secure remunerative prices through a genuinely open market for agricultural produce; an unsigned editorial 'बदल की पुढचे पाऊल?' (Change or the next step?) reflecting on the Sanghatana's direction on the eve of its annual gathering and the re-issue of 'भारतीय शेतीची प्यादेविरू'; Vijay Jawandhia's polemical piece 'नाव बुनकरांचे, नफा नसली वाडीयांचा!!' rebutting Indian Cotton Mill Federation president Nusli Wadia's call to dissolve the Maharashtra cotton monopoly procurement scheme (एकाधिकार) and the central Cotton Corporation of India (CCI) — Jawandhia argues their abolition would benefit Wadia's mills rather than handloom weavers; and an interview by Baburao Hadole and the Chamale sarpanch with Latur cultivator Bhimrao Tondre titled 'राष्ट्रीय संपत्ती संभाळणारा शेतकर…"
 needs_review: true
 draft: false

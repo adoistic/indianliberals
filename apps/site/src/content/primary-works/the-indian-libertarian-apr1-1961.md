@@ -11,7 +11,8 @@ contributors:
     thinker_unresolved: By WILLIAM HENRY CHAMBERLIN
     toc_index: 2
   - role: author
-    thinker_unresolved: By M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: By S. Ramanathan
@@ -61,7 +62,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - individual-liberty
+  - free-market
+  - limited-government
+  - liberalism-as-tradition
 summary: "The 1 April 1961 issue of The Indian Libertarian (Vol. IX, No. 1) is a sixteen-page Bombay fortnightly edited by D. M. Kulkarni for Libertarian Publishers Private Ltd., carrying the masthead slogan \"We Stand For Free Economy and Limited Government.\" The issue opens with an unsigned editorial on the death of Union Home Minister Govind Ballabh Pant and the depletion of Congress's Old Guard, then runs three signed political essays — William Henry Chamberlin's case for American prosperity as proof that economic freedom pays, M. N. Tholal's reckoning of whether Pakistan or Communist China is now India's principal adversary, and a fortnightly Delhi Letter on Soviet alignment with Peking after Pant's exit. The four-page Rationalist Supplement, edited at the Indian Rationalist Association's national headquarters, contains S. Ramanathan on the movement's new building, J. V. Duhig on parallels between Communism and Catholicism, and a Colin McCall essay on Darwin's intellectual legacy.…"
 needs_review: true
 draft: false

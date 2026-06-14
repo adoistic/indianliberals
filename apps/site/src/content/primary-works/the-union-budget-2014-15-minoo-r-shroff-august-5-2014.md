@@ -9,13 +9,15 @@ authors:
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Minoo R. Shroff
+    thinker: minoo-r-shroff
+    thinker_unresolved: null
     toc_index: 1
   - role: author
     thinker: sunil-bhandare
     toc_index: 2
   - role: author
-    thinker_unresolved: Prof. Kanu H. Doshi
+    thinker: kanu-h-doshi
+    thinker_unresolved: null
     toc_index: 3
 related_thinkers: []
 publication:

@@ -4,11 +4,13 @@ title:
   main: Towards a Healthy India
   subtitle: A Call for Action
 work_type: book
-authors: []
+authors:
+  - r-balasubramaniam
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: Dr. R. Balasubramaniam
+    thinker: r-balasubramaniam
+    thinker_unresolved: null
   - role: author
     thinker_unresolved: Dr. Prashanth N. Srinivas
 related_thinkers: []

@@ -4,7 +4,8 @@ title:
   main: The Power Crisis
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - p-m-agerwala
 editors: []
 contributors: []
 related_thinkers: []

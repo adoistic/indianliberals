@@ -46,7 +46,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - farmers-movement
+  - rural-economy
+  - free-market
+  - price-controls
 summary: "This issue of Shetkari Sanghatak (Marathi fortnightly, Year 10, Issue 18) — the publication of Sharad Joshi's Shetkari Sanghatana — is built around two interlocking arguments: the case for the Sanghatana to step out of the Janata Dal umbrella and contest elections in its own right, and the case that the Narasimha Rao government's economic reforms must be extended to agriculture rather than stop at industry. The lead editorial 'पाटी पुसली, आता पुढे....' by Sharad Joshi reports the 30 December 1993 meeting at the Maharashtra Vidhan Bhavan convened by Speaker Madhukarrao Chowdhary with the five Sanghatana-backed Janata Dal MLAs (Moreshwar Tembhe, Vasantrao Bande, Vaman Chatap, Jivraj Tondchirkar and Saroj Kashikar) and announces a fresh political beginning under the Sanghatana's own banner. A second long piece reproduces Joshi's 19 December 1993 open letter to the Prime Minister, asking that the GATT/Dunkel-led liberalisation also dismantle the old controls on agriculture (Essential Commodities Act, sugar/cotton/oilseed monopolies, levy rules, MEP and dumping schemes) and offer an exit policy for sick public-sector units.…"
 needs_review: true
 draft: false

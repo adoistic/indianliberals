@@ -4,7 +4,8 @@ title:
   main: Third Five-Year Plan — Its Premises Examined
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - dr-a-krishnaswami
 editors: []
 contributors: []
 related_thinkers: []

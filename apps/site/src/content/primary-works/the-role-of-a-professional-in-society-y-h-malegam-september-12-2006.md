@@ -4,7 +4,8 @@ title:
   main: The Role of a Professional in Society
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - y-h-malegam
 editors: []
 contributors: []
 related_thinkers:

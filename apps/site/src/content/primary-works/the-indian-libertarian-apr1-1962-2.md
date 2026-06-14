@@ -12,10 +12,12 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: By M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 3
   - role: author
-    thinker_unresolved: By K. Sreeramamurty
+    thinker: k-sreeramamurty
+    thinker_unresolved: null
     toc_index: 4
   - role: editor
     thinker_unresolved: D. M. KULKARNI
@@ -49,7 +51,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - individual-liberty
+  - free-market
+  - limited-government
+  - liberalism-as-tradition
 summary: "This April 1, 1963 issue (Vol. XI) of The Indian Libertarian, edited by D. M. Kulkarni and published by Libertarian Publishers Pvt. Ltd. from Bombay, gathers an editorial, three signed essays, a Delhi Letter, a book review, and the regular Gleanings/News/Dear Editor sections. The argumentative centre is two-fold: a defence of classical-liberal politics against both Nehruvian 'secularism' (which the editorial recasts as a 'civil state') and against communist-style revolution in the wake of the Sino-Indian crisis. M. A. Venkata Rao attacks the Russian and Chinese revolutions as economically unnecessary and humanly destructive; M. N. Tholal contests Jayaprakash Narayan's advocacy of nonviolent resistance to Chinese aggression; K. Sreeramamurty defends English as the medium of higher education; the Delhi Letter assesses the danger of a joint Sino-Pakistani attack on India; the news pages survey U.S. aid (Galbraith, Morarji Desai), Rajaji's call for national leadership, and Nehru's policies on Hindi."
 needs_review: true
 draft: false

@@ -4,7 +4,8 @@ title:
   main: Towards an Economical Administration in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - prof-m-ruthnaswamy
 editors: []
 contributors: []
 related_thinkers: []
