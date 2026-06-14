@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-environment-in-india-1967-n-a-palkhivala-august-11-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

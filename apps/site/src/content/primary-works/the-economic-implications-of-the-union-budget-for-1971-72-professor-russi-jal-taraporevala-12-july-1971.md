@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-for-1971-72-professor-russi-jal-taraporevala-12-july-1971.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

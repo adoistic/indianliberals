@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-1973-74-prof-r-j-taraporevala.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

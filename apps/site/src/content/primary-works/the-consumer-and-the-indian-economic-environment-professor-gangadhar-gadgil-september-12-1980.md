@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-consumer-and-the-indian-economic-environment-professor-gangadhar-gadgil-september-12-1980.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

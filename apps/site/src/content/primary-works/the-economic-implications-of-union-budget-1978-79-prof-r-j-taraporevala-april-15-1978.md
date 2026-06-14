@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-union-budget-1978-79-prof-r-j-taraporevala-april-15-1978.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

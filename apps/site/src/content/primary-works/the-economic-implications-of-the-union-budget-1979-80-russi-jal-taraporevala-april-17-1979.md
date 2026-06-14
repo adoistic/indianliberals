@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-1979-80-russi-jal-taraporevala-april-17-1979.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

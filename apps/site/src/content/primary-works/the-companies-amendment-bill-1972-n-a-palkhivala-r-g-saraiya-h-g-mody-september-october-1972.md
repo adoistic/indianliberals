@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-companies-amendment-bill-1972-n-a-palkhivala-r-g-saraiya-h-g-mody-september-october-1972.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

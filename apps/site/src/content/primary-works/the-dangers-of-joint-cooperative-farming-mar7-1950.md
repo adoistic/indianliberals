@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-dangers-of-joint-cooperative-farming-mar7-1950.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

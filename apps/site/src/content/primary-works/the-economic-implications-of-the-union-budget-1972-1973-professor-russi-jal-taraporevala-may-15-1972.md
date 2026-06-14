@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-1972-1973-professor-russi-jal-taraporevala-may-15-1972.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

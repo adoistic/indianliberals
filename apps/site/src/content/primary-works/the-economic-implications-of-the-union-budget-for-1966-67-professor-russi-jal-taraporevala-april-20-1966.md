@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-for-1966-67-professor-russi-jal-taraporevala-april-20-1966.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

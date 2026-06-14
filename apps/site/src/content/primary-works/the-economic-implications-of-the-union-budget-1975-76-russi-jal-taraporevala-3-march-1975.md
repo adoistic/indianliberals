@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-1975-76-russi-jal-taraporevala-3-march-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

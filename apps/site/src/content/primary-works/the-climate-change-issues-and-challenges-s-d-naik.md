@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-climate-change-issues-and-challenges-s-d-naik.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

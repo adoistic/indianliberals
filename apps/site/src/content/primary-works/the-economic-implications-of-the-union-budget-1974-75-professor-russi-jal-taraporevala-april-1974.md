@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-1974-75-professor-russi-jal-taraporevala-april-1974.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
