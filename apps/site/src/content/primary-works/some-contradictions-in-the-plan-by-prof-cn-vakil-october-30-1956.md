@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/some-contradictions-in-the-plan-by-prof-cn-vakil-october-30-1956.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

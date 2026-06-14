@@ -20,6 +20,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/new-horizons-in-general-insurance-mr-vasant-c-vaidya-june-7-1982.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

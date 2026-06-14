@@ -25,6 +25,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/on-rising-prices-and-black-money-dr-a-k-sur-professor-b-r-shenoy-september-12-19711.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

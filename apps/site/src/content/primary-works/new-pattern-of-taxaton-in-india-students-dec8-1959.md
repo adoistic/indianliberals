@@ -29,6 +29,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/new-pattern-of-taxaton-in-india-students-dec8-1959.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
