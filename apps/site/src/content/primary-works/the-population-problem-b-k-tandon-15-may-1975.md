@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-population%20problem-b-k-tandon-15-may-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

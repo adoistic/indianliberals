@@ -24,6 +24,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-role-of-the-central-banking-authority-and-commercial-bank-in-a-planned-economy-h-v-r-iengar-december-6-1967.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

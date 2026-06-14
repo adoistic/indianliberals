@@ -21,6 +21,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-role-of-a-professional-in-society-y-h-malegam-september-12-2006.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

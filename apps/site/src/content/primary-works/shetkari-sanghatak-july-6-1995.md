@@ -32,6 +32,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-july-6-1995.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

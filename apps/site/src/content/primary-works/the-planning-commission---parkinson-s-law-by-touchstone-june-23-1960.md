@@ -19,6 +19,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-planning-commission-&-parkinson-s-law-by-touchstone-june-23-1960.pdf
 rights:
   status: takedown_on_request
   license: in-copyright

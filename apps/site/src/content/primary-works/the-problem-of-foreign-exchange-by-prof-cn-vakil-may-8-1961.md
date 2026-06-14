@@ -18,6 +18,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+pdf_url: https://indianliberals.in/forum-of-free-enterprise/the-problem-of-foreign-exchange-by-prof-cn-vakil-may-8-1961.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
