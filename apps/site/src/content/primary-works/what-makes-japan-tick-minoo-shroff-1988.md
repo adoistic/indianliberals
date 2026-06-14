@@ -4,7 +4,8 @@ title:
   main: "WHAT MAKES JAPAN TICK: SOME LESSONS FOR INDIA"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - minoo-r-shroff
 editors: []
 contributors: []
 related_thinkers:

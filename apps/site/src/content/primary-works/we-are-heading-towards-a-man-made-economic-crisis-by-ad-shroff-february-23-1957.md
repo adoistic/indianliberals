@@ -28,7 +28,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - economic-liberty
+  - monetary-policy
+  - fiscal-policy
+  - public-sector-critique
+  - socialism-debate
 summary: "Based on a talk at the Surat Rotary Club on 23 February 1957, A. D. Shroff argues that India is sliding into a self-inflicted economic crisis whose ultimate cause is not the Suez disturbance or the loss of Kashmiri food supplies but the ambition and arithmetic of the Second Five-Year Plan itself. The Plan, originally pegged at Rs 4,800 crores and now likely to climb to Rs 5,300 crores, was framed without regard to either domestic resources or the foreign credit India could realistically raise, and its targets — a 25 per cent rise in national income within five years — have generated cost overruns, shipment delays, and shortages of steel and cement that are choking ordinary industrial activity.\n\nShroff catalogues the symptoms of a planning bureaucracy that has lost touch with economic reality: imported steel at Rs 615 per ton against Indian steel produced for Rs 293, currency notes pouring out of the Nasik Printing Press to sustain government spending, and a foreign exchange reserve drawn down from Rs 117 crores to Rs 8 crores, forcing him personally to negotiate a 127.5 million-dollar loan from the IMF at the Bretton Woods Conference.…"
 needs_review: true
 draft: false

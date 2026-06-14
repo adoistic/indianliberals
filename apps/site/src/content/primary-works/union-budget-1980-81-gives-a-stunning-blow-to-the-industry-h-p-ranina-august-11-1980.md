@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - regulatory-state-critique
+  - capitalism-defence
+  - economic-liberty
 summary: "H. P. Ranina, a tax authority writing for the Forum of Free Enterprise, dissects Finance Minister R. Venkataraman's Union Budget 1980-81 and argues that, behind the rhetoric of relief for the common man and for industry, the fiscal proposals will in fact deal industry a crippling blow. After conceding that excise reductions on consumer items like toothpaste, soaps, pressure cookers and life-saving drugs will mitigate the household tax burden at the margin, Ranina insists the real need is to bring the price level down substantially — something the Budget does not address, particularly given the hike in oil prices and railway freight that will intensify cost-push inflation.\n\nThe bulk of the booklet is a clause-by-clause critique of the income-tax amendments. The extra fifty per cent depreciation in the year of installation is dismissed as a postponement of liability rather than a real relief, because section 34 caps cumulative depreciation at the original cost of the asset; Ranina argues that meaningful incentive would require depreciating capital assets on replacement cost.…"
 needs_review: true
 draft: false

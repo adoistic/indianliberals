@@ -4,7 +4,8 @@ title:
   main: Wealth and Expenditure Taxes
   subtitle: "Their Effect on the Indian Economy & the Common Man"
 work_type: speech
-authors: []
+authors:
+  - r-j-taraporevala
 editors: []
 contributors: []
 related_thinkers:
@@ -26,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - economic-liberty
+  - property-rights
+  - planning-critique
+  - public-sector-critique
+  - capitalism-defence
+  - regulatory-state-critique
 summary: "Prof. Russi Jal Taraporevala's pamphlet, drawn from public lectures delivered under the auspices of the Forum of Free Enterprise at the Indian Merchants' Chamber in Bombay (19 August 1957) and at Wadia College Hall in Poona (27 August 1957), is a systematic attack on the wealth tax and expenditure tax introduced in the Government of India's then-recent budget. Taraporevala argues that the two novel taxes, layered on top of already steep income tax and super tax, take the total direct and indirect tax burden beyond that of any previous Indian budget and amount, at higher slabs, to the outright confiscation of private capital and wealth.…"
 needs_review: true
 draft: false

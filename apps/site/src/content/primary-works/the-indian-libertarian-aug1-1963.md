@@ -17,7 +17,8 @@ contributors:
     thinker_unresolved: By Seth W. Howard
     toc_index: 3
   - role: author
-    thinker_unresolved: By M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker: ma-venkata-rao

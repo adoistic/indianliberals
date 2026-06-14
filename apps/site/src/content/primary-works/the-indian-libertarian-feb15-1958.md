@@ -19,7 +19,8 @@ contributors:
     thinker_unresolved: Prof. R. J. Taraporewalla
     toc_index: 3
   - role: author
-    thinker_unresolved: Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker: kd-valicha
@@ -34,7 +35,8 @@ contributors:
     thinker_unresolved: G. T. Olarenshaw
     toc_index: 10
   - role: author
-    thinker_unresolved: Jay Kay
+    thinker: jay-kay
+    thinker_unresolved: null
     toc_index: 11
   - role: author
     thinker: ma-venkata-rao

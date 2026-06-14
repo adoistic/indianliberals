@@ -14,7 +14,8 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: Scio
+    thinker: scio
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker: kd-valicha
@@ -29,7 +30,8 @@ contributors:
     thinker_unresolved: Mehta Puran Chand
     toc_index: 7
   - role: author
-    thinker_unresolved: Vigilant
+    thinker: vigilant
+    thinker_unresolved: null
     toc_index: 8
   - role: author
     thinker_unresolved: James Peter Warkaane

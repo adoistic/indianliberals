@@ -14,16 +14,19 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: By M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker: g-n-lawande
     toc_index: 4
   - role: author
-    thinker_unresolved: By Phiroz J. Shroff
+    thinker: phiroze-j-shroff
+    thinker_unresolved: null
     toc_index: 4
   - role: author
-    thinker_unresolved: By J. M. Lobo Prabhu
+    thinker: j-m-lobo-prabhu
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker: c-rajagopalachari

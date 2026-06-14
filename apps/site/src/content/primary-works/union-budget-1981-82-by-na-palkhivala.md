@@ -27,7 +27,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - economic-liberty
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - free-trade
+  - press-freedom
+  - anti-corruption
+  - monetary-policy
 summary: "N. A. Palkhivala's booklet is a sustained, unsparing critique of the Union Budget of 1981-82, drawn together from a public talk in Bombay, the M. Ct. M. Chidambaram Chettyar Memorial Lecture in Madras, an address in Bangalore, and articles in the Times of India and the Hindustan Times. Palkhivala frames the budget against the backdrop of an anaemic economy: agricultural output up only 0.5 per cent and industrial output only 2.5 per cent over the two-year horizon, real GNP up 1.7 per cent, per capita GNP down 2.2 per cent, foreign exchange reserves just sufficient for five months of imports, and inflation understated by the Finance Minister's switch from average-index to point-to-point comparisons.\n\nHis central thesis is the quadruple verdict that gives the booklet its rhetorical spine: the budget is psychologically perfect, politically clever, economically unsound, and strategically a costly failure.…"
 needs_review: true
 draft: false

@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - capitalism-defence
+  - economic-liberty
+  - industrial-management
+  - management-accounting
 summary: "P. L. Tandon, then Chairman of Hindustan Lever Ltd., delivered this talk under the auspices of the Forum of Free Enterprise in Bombay in June 1963 to argue that the Indian economy's rapid diversification and specialisation have outrun the traditional, book-keeping conception of the accountant's role. He frames an industrial enterprise as three major sectors — production, marketing and buying — whose success depends on output value exceeding input value, and he insists that accountants must move from custodial book-keeping to active stewardship of yield on resources employed.\n\nThe core of the pamphlet is a sustained brief for management accounting as distinct from historical and statutory recording. Tandon walks through its practical mechanics: an annual estimate and budget feeding forecasts for sales, production, capital expenditure, marketing and cash flow; results presented to the board within ten days on the principle of \"reporting by exception\"; a variable-costs concept for marketing management; and the treatment of depreciation and direct factory labour as fixed costs in the short term.…"
 needs_review: true
 draft: false

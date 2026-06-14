@@ -18,7 +18,8 @@ contributors:
     thinker: m-n-tholal
     toc_index: 4
   - role: author
-    thinker_unresolved: Vivek
+    thinker: vivek
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker: g-n-lawande
@@ -27,10 +28,12 @@ contributors:
     thinker_unresolved: M. R. Roshan Pramji
     toc_index: 8
   - role: author
-    thinker_unresolved: Observer
+    thinker: observer
+    thinker_unresolved: null
     toc_index: 9
   - role: author
-    thinker_unresolved: Prof. Rooz J. Taraporevala
+    thinker: r-j-taraporevala
+    thinker_unresolved: null
     toc_index: 10
   - role: author
     thinker_unresolved: K. K. Sinha

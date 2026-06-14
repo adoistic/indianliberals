@@ -30,7 +30,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - regulatory-state-critique
+  - free-trade
+  - economic-liberty
+  - indirect-taxation
+  - federalism
 summary: "P. C. Randeria's booklet, published by the Forum of Free Enterprise in March 1977 as an outgrowth of a Bombay Chamber of Commerce paper, walks the general reader through three areas of indirect taxation that he believes urgently need reform: Value Added Tax (VAT), central excise, and octroi. The framing essay on VAT surveys the levy's origin in France in 1954, its 1967 adoption across the EEC, its uneven extension to Latin American and Francophone-African developing countries, and the UK's hesitant move to VAT in 1973 only after a decade-long Richardson Committee debate. Randeria insists that VAT in theory — a comprehensive, single-rate, neutral consumption tax — almost never survives contact with reality: exemptions, zero-rating, multiple rates and a heavy paperwork burden dilute every advantage that pure VAT is supposed to deliver, and he warns that for a federal system like India the choice between national and sub-national VAT raises hard constitutional questions about how receipts would be split between Centre and States.\n\nThe second part traces the conceptual lineage of excise from a Webster's dictionary definition through Mauryan salt and liquor duties, Firuz Tughluq's mem…"
 needs_review: true
 draft: false

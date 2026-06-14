@@ -21,7 +21,8 @@ contributors:
     thinker_unresolved: Prof. G. P. Bhattacharjee
     toc_index: 4
   - role: author
-    thinker_unresolved: S. R. Mohan Das
+    thinker: s-r-mohan-das
+    thinker_unresolved: null
     toc_index: 5
   - role: author
     thinker: c-rajagopalachari

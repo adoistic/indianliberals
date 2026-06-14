@@ -16,7 +16,8 @@ contributors:
     thinker: m-n-tholal
     toc_index: 3
   - role: author
-    thinker_unresolved: Prof. G. Carl Wiegand
+    thinker: g-carl-wiegand
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker_unresolved: S. G. Hart

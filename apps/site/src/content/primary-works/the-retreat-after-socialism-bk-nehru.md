@@ -9,7 +9,8 @@ authors:
 editors: []
 contributors:
   - role: foreword
-    thinker_unresolved: M.R. Masani
+    thinker: m-r-masani-m-p
+    thinker_unresolved: null
 related_thinkers:
   - chintaman-deshmukh
   - adam-smith

@@ -26,7 +26,8 @@ contributors:
   - role: author
     thinker: c-rajagopalachari
   - role: author
-    thinker_unresolved: M. R. Masani
+    thinker: m-r-masani-m-p
+    thinker_unresolved: null
     toc_index: 9
 related_thinkers:
   - jawaharlal-nehru

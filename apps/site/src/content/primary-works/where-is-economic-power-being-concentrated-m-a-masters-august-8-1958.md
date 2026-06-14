@@ -4,7 +4,8 @@ title:
   main: WHERE IS ECONOMIC POWER BEING CONCENTRATED?
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-a-master
 editors: []
 contributors: []
 related_thinkers:
@@ -27,7 +28,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - capitalism-defence
+  - economic-liberty
+  - fiscal-policy
 summary: "M. A. Master's 1958 Forum of Free Enterprise pamphlet inverts the standard Nehruvian charge that free enterprise concentrates economic power in a few hands. Surveying the post-Independence regulatory landscape — the Industrial Development and Regulation Act, the Capital Issues Controller, exchange and licensing controls, taxation policy, the Planning Commission and the Estimates Committee's findings — Master argues that the locus of economic power has migrated decisively from the private sector to the State, and that the constantly repeated allegation against private enterprise is empirically false.\n\nMaster builds the case sector by sector. He notes the wide shareholder bases of Tata Steel, Scindia, the Central Bank and A.C.C.…"
 needs_review: true
 draft: false

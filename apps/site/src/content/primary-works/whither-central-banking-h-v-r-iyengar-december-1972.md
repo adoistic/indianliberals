@@ -25,7 +25,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - public-sector-critique
+  - planning-critique
+  - agricultural-reform
+  - fiscal-policy
+  - regulatory-state-critique
+  - central-bank-independence
 summary: "Drawing on his decade-old vantage as a former Governor of the Reserve Bank of India, H. V. R. Iyengar uses his inaugural remarks at a Madras banking seminar (1 December 1972) to take stock of what the Indian banking system has become — and to warn against the political colonisation of monetary policy. He grants that nationalisation in 1969 accelerated branch expansion, deposit insurance, refinance facilities, and the diversification of banking into developmental work, but insists that much of this trajectory was already laid down in the pre-nationalisation years. The injection of politics into banking, he writes, is \"not an unmixed blessing\": deposit mobilisation has been buoyed by deficit financing, credit has been pushed onto weak and priority sectors without regard to ultimate viability, and the over-emphasis on speed has come at the cost of quality and discipline.\n\nThe largest section of the booklet diagnoses the failure of the co-operative movement on which seventy years of rural-credit policy had been staked.…"
 needs_review: true
 draft: false

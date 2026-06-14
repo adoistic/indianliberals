@@ -4,7 +4,8 @@ title:
   main: Will 10-Point Programme Lead to Socialism?
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - c-n-vakil
 editors: []
 contributors: []
 related_thinkers: []

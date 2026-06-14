@@ -23,7 +23,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - economic-liberty
+  - regulatory-state-critique
+  - capitalism-defence
+  - property-rights
+  - civil-liberty
+  - anti-corruption
+  - planning-critique
 summary: "This Forum of Free Enterprise pamphlet, published from 235 Dr. Dadabhai Naoroji Road in Bombay, is a sustained classical-liberal polemic against the Wealth Tax newly introduced in India in addition to existing income tax. After acknowledging that taxation legitimately raises revenue, promotes savings for industrial development and reduces wide disparities in wealth, the pamphlet walks through the Wealth Tax Bill's coverage and rates — Rs. 2 lakhs for individuals, Rs. 3 lakhs for Hindu joint families, Rs. 5 lakhs for companies, with a graduated structure rising to 1½% — before concluding that the tax is 'a mask which hides something dangerous to our democratic way of life and economic progress.'\n\nThe argument is double-pronged. Economically, the pamphlet contends that levying Wealth Tax at India's early industrial stage will retard capital formation, drive wealth underground into gold and jewellery, and amount to double or treble taxation when companies and shareholders are both hit.…"
 needs_review: true
 draft: false

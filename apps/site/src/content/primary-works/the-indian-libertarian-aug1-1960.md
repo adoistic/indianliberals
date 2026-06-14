@@ -19,10 +19,12 @@ contributors:
     thinker: m-n-tholal
     toc_index: 3
   - role: author
-    thinker_unresolved: Prof. Karot A Joseph
+    thinker: k-a-joseph
+    thinker_unresolved: null
     toc_index: 4
   - role: author
-    thinker_unresolved: Vaman H. Pandit
+    thinker: vijaya-lakshmi-pandit
+    thinker_unresolved: null
     toc_index: 6
   - role: author
     thinker_unresolved: Waran

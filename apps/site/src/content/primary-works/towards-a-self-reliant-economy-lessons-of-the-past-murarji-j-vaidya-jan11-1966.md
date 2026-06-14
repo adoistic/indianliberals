@@ -4,7 +4,8 @@ title:
   main: "TOWARDS A SELF-RELIANT ECONOMY: LESSONS OF THE PAST"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - murarji-j-vaidya
 editors: []
 contributors: []
 related_thinkers:
@@ -32,7 +33,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - economic-liberty
+  - monetary-policy
+  - fiscal-policy
+  - agricultural-reform
+  - capitalism-defence
+  - socialism-debate
+  - regulatory-state-critique
 summary: "Delivered as the Presidential Address at the ninth annual general meeting of the Forum of Free Enterprise in Bombay on 22 November 1965 (and printed by the Forum on 11 January 1966), Murarji J. Vaidya's pamphlet argues that India's quest for rapid economic development through comprehensive central planning has produced an interconnected crisis of rising prices, foodgrain shortages, investment-market collapse and foreign-exchange shortage. Opening with Gokhale's 1907 prophecy that the present generation must be content to serve India \"mainly by our failure\", Vaidya redefines self-reliance as the opposite of autarchy: a productive capacity strong enough to defend the country, feed it and trade for what it cannot produce economically.\n\nThe diagnostic core of the address blames the Mahalanobis-era strategy of First and Second Plans that privileged heavy and infrastructure industries while starving agriculture and consumer goods of capital — pushing demand into the hands of the public, fuelling deficit financing, and producing the \"highest taxed nation\" tag coined by N. A. Palkhivala.…"
 needs_review: true
 draft: false

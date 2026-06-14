@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - water-policy
+  - environmental-sustainability
+  - urban-policy
+  - agricultural-reform
 summary: "Water Futures: It's Everybody's Business is the text of the 24th Bhogilal Leherchand Memorial Lecture, delivered by Rohini Nilekani in Mumbai on 7th December 2012 under the auspices of the Forum of Free Enterprise. Drawing on nearly a decade of work through Arghyam, the public-charitable organisation she founded and funded, Nilekani argues that water has become a civilisational issue. Per-capita availability in India has fallen from roughly 6,008 cubic metres per person in 1947 to about 1,700 in 2001, and is projected to dip below 1,000 by 2030–2050, even as urbanisation, industrialisation and rising aspirations push consumption upward and surface and groundwater alike are polluted and overdrawn.\n\nThe lecture is organised around three sectoral sites of the crisis — agriculture (more than 80% of freshwater use, much of it irresponsibly applied to rice in Punjab and Haryana or sugarcane in Rajasthan), industry (8–13% and rising with GDP, with the Mithi, Yamuna and even the Ganga as 'mute testimony to our indifference'), and cities (with grotesque inequalities, where rich Mumbai neighbourhoods get 400 lpcd while northern slums survive on 36).…"
 needs_review: true
 draft: false

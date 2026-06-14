@@ -4,7 +4,8 @@ title:
   main: WTO and Indian Industry
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - s-s-bhandare
 editors: []
 contributors: []
 related_thinkers: []

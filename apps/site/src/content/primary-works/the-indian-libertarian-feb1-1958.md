@@ -24,7 +24,8 @@ contributors:
     thinker_unresolved: M. G. Bailur
     toc_index: 5
   - role: author
-    thinker_unresolved: Jay Kay
+    thinker: jay-kay
+    thinker_unresolved: null
     toc_index: 7
   - role: author
     thinker_unresolved: Charles A. Willoughby

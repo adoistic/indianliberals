@@ -27,7 +27,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - fiscal-policy
+  - regulatory-state-critique
+  - capitalism-defence
+  - monetary-policy
 summary: "A. D. Shroff's presidential address at the second general body meeting of the Forum of Free Enterprise, delivered in Bombay on 16 July 1958, is an audit of the Forum's first two years and a polemic against the economic management of Jawaharlal Nehru's government. Shroff opens by claiming that consistent public-education work has begun to puncture the policy fog in New Delhi — most concretely, that the Forum's campaign against the \"obnoxious\" compulsory deposits introduced in the 30 November 1956 budget has yielded a temporary suspension that, he predicts, will soon become permanent removal from the statute book.\n\nFrom there the address widens into a sustained critique of the Second Five-Year Plan. Shroff argues that the warnings the Forum issued eighteen months earlier about the foreign-exchange and resource positions — for which it was dismissed as a \"panic-monger\" — have been vindicated by Finance Ministry behaviour over the preceding three or four months. He goes further: the over-ambitious nature of the Plan has, in his view, brought India \"to the verge of international insolvency,\" and the record of the two ex-Finance Ministers responsible — C. D. Deshmukh and T. T.…"
 needs_review: true
 draft: false

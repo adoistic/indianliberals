@@ -4,13 +4,16 @@ title:
   main: Value Sytems in Public Services
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - ak-purwar
 editors: []
 contributors:
   - role: author
-    thinker_unresolved: A.K. Purwar
+    thinker: ak-purwar
+    thinker_unresolved: null
   - role: introduction
-    thinker_unresolved: Minoo R. Shroff
+    thinker: minoo-r-shroff
+    thinker_unresolved: null
 related_thinkers:
   - abraham-lincoln
   - azim-premji
@@ -32,7 +35,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - governance-reform
+  - anti-corruption
+  - capitalism-defence
 summary: "A. K. Purwar, then Chairman of the State Bank of India, uses the 16th Bhogilal Leherchand Memorial Lecture — delivered under the auspices of the Forum of Free Enterprise on 10 December 2004 and printed here as a Forum booklet — to argue that the renewal of Indian public services is fundamentally a problem of values rather than of structure. He reframes the live \"public versus private enterprise\" debate as one that turns less on ownership than on the value system a workforce internalises: integrity, commitment to excellence, passion for the work, and teamwork. Honesty, he insists with a David S. Border epigraph, is not a bonus in a public servant — it is the fundamental requirement of the role.\n\nThe lecture leans on illustrative case material to make its point that sector is incidental and culture decisive.…"
 needs_review: true
 draft: false

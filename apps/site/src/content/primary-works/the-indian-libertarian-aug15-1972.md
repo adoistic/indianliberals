@@ -12,13 +12,15 @@ contributors:
     thinker: a-ranganathan
     toc_index: 2
   - role: author
-    thinker_unresolved: By M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: By K. Kumar Sekhar
     toc_index: 5
   - role: author
-    thinker_unresolved: By S. R. Mohan Das
+    thinker: s-r-mohan-das
+    thinker_unresolved: null
     toc_index: 6
   - role: author
     thinker_unresolved: By Dr. R. S. Nigam

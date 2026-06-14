@@ -25,7 +25,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - regulatory-state-critique
+  - fiscal-policy
+  - anti-corruption
+  - economic-liberty
+  - agricultural-reform
 summary: "H. P. Ranina's pamphlet — reprinted by the Forum of Free Enterprise from a 1972 Financial Express series — endorses the Wanchoo Committee's diagnosis that India's black money problem is rooted in confiscatory tax rates and a suffocating apparatus of controls, licences and permits, rather than in any irreducible moral failing of the citizenry. Ranina praises the Committee for naming high direct-tax rates, an economy of shortages, the licence-permit system, the ban on company donations to political parties, sales-tax levels and weak enforcement as the engines of evasion, and for prescribing across-the-board rate reduction and liberalisation of controls as the only durable cure.\n\nRanina works through the Committee's main proposals one by one. He argues that a marginal rate of 97.75% makes tax evasion forty-three times more profitable than honest earning, that the 81% rise in the wholesale price index between 1961-62 and 1971-72 demands a higher exemption limit than the Rs. 5,000 the Committee left unchanged, and that the licence-permit raj has made black money 'indispensable to business men' — both through import-licence premiums and through the pugree system bred by Rent Control.…"
 needs_review: true
 draft: false

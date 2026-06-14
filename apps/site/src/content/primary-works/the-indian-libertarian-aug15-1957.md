@@ -14,10 +14,12 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: By J. K. Dhairyawan
+    thinker: j-k-dhairyawan
+    thinker_unresolved: null
     toc_index: 3
   - role: author
-    thinker_unresolved: By B. S. Sanyal
+    thinker: bs-sanyal
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker: a-ranganathan
@@ -29,7 +31,8 @@ contributors:
     thinker_unresolved: "By \"Sudarshan\""
     toc_index: 7
   - role: author
-    thinker_unresolved: By K. D. Valicha
+    thinker: kd-valicha
+    thinker_unresolved: null
     toc_index: 8
 related_thinkers:
   - mahatma-gandhi

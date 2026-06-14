@@ -26,7 +26,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - urban-policy
+  - planning-critique
+  - agricultural-reform
+  - land-reform
+  - regional-planning
 summary: "Dr. F. P. Antia's pamphlet, built from two lectures delivered at Punjab University's Department of Commerce & Business Management at Chandigarh and issued by the Forum of Free Enterprise in 1977, opens with the proposition that shelter is, after food, life's most basic essential, and that the housing structure has from earliest times been bound up with civic dignity, productivity, and a household's sense of privacy. From this premise he moves to the 1971 Census, which counted 109 million Indians as urban out of 548 million, and shows that, despite a modest urbanisation ratio of 20 per cent, India already commands the world's third-largest urban population, with Calcutta, Bombay, and Delhi sitting among the world's twenty-five largest cities. Antia argues that this urban population has been congregating ever more densely into the biggest centres while the quality of life in those centres has collapsed.\n\nThe middle of the pamphlet summarises survey work by D. T. Lakdawala, V. K. Rao, and J. F. Bulsara — and the Rajwade and Gadgil committees — on housing in Bombay, Calcutta, Delhi, and Madras.…"
 needs_review: true
 draft: false
