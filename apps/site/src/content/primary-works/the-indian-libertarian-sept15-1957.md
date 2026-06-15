@@ -16,7 +16,8 @@ contributors:
     thinker_unresolved: "\"Fairplay\""
     toc_index: 2
   - role: author
-    thinker_unresolved: S. A. Das
+    thinker: s-r-mohan-das
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker: j-k-dhairyawan
