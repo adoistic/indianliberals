@@ -26,7 +26,8 @@ contributors:
     thinker_unresolved: Varahamira
     toc_index: 6
   - role: author
-    thinker_unresolved: Baburao Patel
+    thinker: b-p-patel
+    thinker_unresolved: null
     toc_index: 7
   - role: author
     thinker_unresolved: Azad

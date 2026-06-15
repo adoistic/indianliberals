@@ -12,7 +12,8 @@ contributors:
     thinker: ma-venkata-rao
     toc_index: 2
   - role: author
-    thinker_unresolved: By M. N. Tholal
+    thinker: m-n-tholal
+    thinker_unresolved: null
     toc_index: 3
   - role: author
     thinker_unresolved: By S. Ramanathan

@@ -16,7 +16,8 @@ contributors:
     thinker: m-n-tholal
     toc_index: 3
   - role: author
-    thinker_unresolved: John Clark Ridpath
+    thinker: john-ridpath
+    thinker_unresolved: null
     toc_index: 4
 related_thinkers:
   - mahatma-gandhi

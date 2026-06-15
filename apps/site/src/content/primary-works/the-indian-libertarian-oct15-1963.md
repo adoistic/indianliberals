@@ -16,7 +16,8 @@ contributors:
     thinker: m-n-tholal
     toc_index: 3
   - role: author
-    thinker_unresolved: Dr. Rustom Cooper
+    thinker: r-c-cooper
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker_unresolved: K. Vedamurthy
