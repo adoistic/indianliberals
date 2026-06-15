@@ -18,7 +18,8 @@ contributors:
     thinker_unresolved: Lal
     toc_index: 3
   - role: author
-    thinker_unresolved: Vigilant
+    thinker: vigilant
+    thinker_unresolved: null
     toc_index: 4
   - role: author
     thinker: bs-sanyal

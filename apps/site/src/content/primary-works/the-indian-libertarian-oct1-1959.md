@@ -23,7 +23,8 @@ contributors:
     thinker: a-ranganathan
     toc_index: 5
   - role: author
-    thinker_unresolved: V. Vogeswara Rao
+    thinker: v-k-r-v-rao
+    thinker_unresolved: null
     toc_index: 6
   - role: author
     thinker: j-k-dhairyawan
