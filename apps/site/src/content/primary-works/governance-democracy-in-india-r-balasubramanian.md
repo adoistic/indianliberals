@@ -4,7 +4,8 @@ title:
   main: Governance & Democracy in India
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - r-balasubramaniam
 editors:
 - sunil-bhandare
 contributors:
@@ -28,7 +29,12 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - governance-reform
+  - party-politics
+  - constitutionalism
+  - emergency-critique
+  - active-citizenship
 summary: 'Governance & Democracy in India is a Forum of Free Enterprise booklet transcribing
   Dr. R. Balasubramaniam''s inaugural keynote address delivered in Berlin on 16 January
   2019 at an event organised by the Tagore Center, Embassy of India, in association

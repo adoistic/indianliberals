@@ -4,7 +4,8 @@ title:
   main: Resources for the Third Plan
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - m-a-master
 editors: []
 contributors: []
 related_thinkers:
@@ -27,7 +28,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - fiscal-policy
+  - monetary-policy
+  - capitalism-defence
 summary: "M. A. Master's \"Resources for the Third Plan\" is the printed text of a speech delivered at the Forum of Free Enterprise in Bombay on 25 October 1960, six months before the Third Five-Year Plan was to begin on 1 April 1961. Master sets aside the Plan's wider socialistic objectives — a \"socialistic pattern of society,\" removal of income inequality, full employment, higher living standards — to confront a single question: how is the Plan to be financed, both internally and externally? He frames the inquiry as a sober audit of what the Second Plan actually taught India about resource-raising under planning.\n\nThe core of the booklet is a tabulation of five \"lessons\" from the Second Plan, each one a gap between estimate and outcome. The three steel plants estimated at Rs. 300 crores rose past Rs. 620; foodgrain imports planned at Rs. 144 crores reached Rs. 4,694 crores; the adverse balance of trade swelled from an estimated Rs. 700 crores to Rs. 1,500; withdrawals from the Sterling Balances overshot estimates by more than 100 per cent; and revenue raised by additional taxation in the name of the Plan — about Rs. 604 crores — was absorbed instead by non-Plan expenditure.…"
 needs_review: true
 draft: false

@@ -4,7 +4,8 @@ title:
   main: Plans and Perspectives
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - bg-verghese
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - economic-liberty
+  - regulatory-state-critique
 summary: "B. G. Verghese's 'Plans and Perspectives', reproduced by the Forum of Free Enterprise from The Times of India of 14 December 1960, opens with a sharp diagnostic claim: 'Two kinds of planning co-exist in Delhi each destructive of the other.' The Government, Verghese argues, has become so preoccupied with noticing this detail or perhaps with accepting this situation as a reflection of its own ambivalent thinking, that the real object of planning — to promote production and progress and not thwart initiative and inhibit growth — has been lost. He uses the case of natural gas at the Naharkatiya and Barauni oilfields in Assam to anchor the critique with hard numbers: roughly 38 million cubic feet a day of 'associated' gas (rising with the production of 2.75 million tons of refined oil), plus eleven million cubic feet of 'non-associated' gas, of which only a fraction is currently being put to use.…"
 needs_review: true
 draft: false

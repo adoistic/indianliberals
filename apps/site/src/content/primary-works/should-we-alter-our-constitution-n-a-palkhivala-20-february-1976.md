@@ -26,7 +26,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - constitutionalism
+  - rule-of-law
+  - judicial-independence
+  - separation-of-powers
+  - civil-liberty
+  - individual-rights
+  - emergency-critique
+  - federalism
+  - basic-structure-doctrine
 summary: "Delivered in February 1976 (and reprinted from the Illustrated Weekly of India, January 4–10, 1976), this Forum of Free Enterprise pamphlet by N. A. Palkhivala is a constitutional-lawyer's alarm bell against a then-circulating paper of 'Some Suggestions' for amending the Indian Constitution. Palkhivala opens with a wry meditation on the imperfection of law and the relentlessness of India's 'law-making industry,' insisting that the most useful reform Parliament could grant the country is a stated period during which no new laws are passed. From there he pivots to his central preoccupation: the indispensability of an independent judiciary as the only effective check on executive excess, illustrated by examples ranging from the Bombay Police Commissioner's blanket ban on assemblies of five (struck down as ultra vires on 18 December 1975) to the Bhanudas Krishna Gawde case in which government counsel suggested detenus could be denied food, or even shot, without remedy under Article 226 while the Presidential Order suspending Article 21 was in force.\n\nThe core argument rests on the Supreme Court's 1973 decision in Kesavananda Bharati's case, which held that Parliament cannot alter or …"
 needs_review: true
 draft: false

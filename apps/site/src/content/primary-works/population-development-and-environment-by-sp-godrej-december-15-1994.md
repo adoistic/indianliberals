@@ -4,7 +4,8 @@ title:
   main: Population, Development and Environment
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-p-godrej
 editors: []
 contributors: []
 related_thinkers:
@@ -26,7 +27,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - health-policy
+  - education
+  - women-rights
+  - economic-liberty
+  - planning-critique
+  - emergency-critique
+  - capitalism-defence
+  - secularism
+  - population-policy
+  - environment-and-conservation
 summary: "Published by the Forum of Free Enterprise in December 1994, this twelve-page booklet reproduces S. P. Godrej's keynote address to a WWF-India seminar in New Delhi in November 1994. Godrej, an industrialist and Vice-President of the World Wide Fund for Nature - India, argues that the new economic policy's promise will not be realised so long as India fails to confront its 'population holocaust'. Development, environment and population, he contends, constitute a trinity in which the third element relentlessly degrades the other two: India must support 16 per cent of the world's population on 2.5 per cent of its land and 1.5 per cent of its income, while 170 million go hungry, 48 per cent remain illiterate, and 1.3 million hectares of forest are cleared every year.\n\nThe essay reads as a polemic of missed opportunities. Godrej notes that India was the first country to adopt family planning as state policy and the first to open a birth-control clinic (Mysore, 1930), yet has fallen behind Sri Lanka, Korea, Taiwan, Indonesia and Japan.…"
 needs_review: true
 draft: false

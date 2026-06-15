@@ -4,7 +4,9 @@ title:
   main: Planning & Nationalisation
   subtitle: Rethinking in India & Abroad
 work_type: edited_volume
-authors: []
+authors:
+  - l-n-birla
+  - n-das
 editors: []
 contributors:
 - role: author

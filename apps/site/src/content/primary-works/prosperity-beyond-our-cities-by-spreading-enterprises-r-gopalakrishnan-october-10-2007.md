@@ -4,7 +4,8 @@ title:
   main: PROSPERITY BEYOND OUR CITIES BY SPREADING ENTERPRISE
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - r-gopalakrishnan
 editors: []
 contributors:
 - role: introduction

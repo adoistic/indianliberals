@@ -27,7 +27,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - fiscal-policy
+  - public-sector-critique
+  - agricultural-reform
+  - economic-liberty
 summary: "\"Planning in India\" is a Forum of Free Enterprise pamphlet by A. D. Shroff, drawn from a talk delivered at Vivekananda College, Madras, on January 17, 1957. Shroff opens by tying sustained political independence to economic strength: with 365 million people to feed and an income roughly one-twenty-eighth of the American level, India has both the need and the room to raise mass living standards. He accepts that planned development is the sensible route, but insists the objective must be lifting people up rather than levelling them down — and illustrates the point with a fable about French Communists discovering, when the country's wealth is divided equally, that the average worker would have to surrender money rather than receive any.\n\nMost of the address is a sectoral diagnosis.…"
 needs_review: true
 draft: false

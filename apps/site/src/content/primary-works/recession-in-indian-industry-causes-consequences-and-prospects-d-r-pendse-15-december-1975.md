@@ -27,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - monetary-policy
+  - fiscal-policy
+  - public-sector-critique
+  - regulatory-state-critique
+  - economic-liberty
+  - capitalism-defence
 summary: "D. R. Pendse, then Economic Adviser to a business house, reprints in this Forum of Free Enterprise booklet two Indian Express columns from late October and early November 1975 that together diagnose, weigh, and forecast the recession then engulfing Indian industry. The first essay, \"Causes and Consequences,\" notes that the debate over whether recessionary tendencies exist is finally over: textiles, cars, steel, air-conditioners, consumer durables, basic engineering goods and even high-priority lines such as fertilisers and tractors are all in trouble. Pendse identifies five interlocking causes — inadequate consumer purchasing power, overlicensing that built capacity vastly out of step with demand (television sets licensed at over three lakh against output of 74,000; dry cells licensed at 1,521 million against 635 million produced), sharp price escalations following decontrols and tax hikes, the crackdown on black money that hit luxury-oriented and service industries, and imbalances in plan performance, especially the Fourth Plan's 49 per cent shortfall in power generation that starved downstream industries of demand.\n\nPendse refuses to treat the recession as wholly malign.…"
 needs_review: true
 draft: false

@@ -4,7 +4,8 @@ title:
   main: Role of Free Enterprise
   subtitle: Indian Shipping
 work_type: essay
-authors: []
+authors:
+  - sn-haji
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - capitalism-defence
+  - public-sector-critique
+  - planning-critique
+  - industrial-history
+  - colonial-economic-policy
 summary: "S. N. Haji's short article, reprinted from The Times of India of 2 October 1956 and reissued by the Forum of Free Enterprise, builds a historical case for Indian private enterprise by walking through the survival and revival of the country's modern shipping industry. He argues that shipping is the field in which Indian nationals have given the best account of themselves under free enterprise, despite the deliberate hostility of British policy: Navigation Acts that strangled the older Indian sail and ship-building traditions, a controlling British bureaucracy in the post-sail era, and a foreign-owned coastal fleet propped up by an imperial government.\n\nThe central narrative is the founding of the Scindia Steam Navigation Company in 1919, which Haji presents as the economic counterpart of the political independence movement.…"
 needs_review: true
 draft: false

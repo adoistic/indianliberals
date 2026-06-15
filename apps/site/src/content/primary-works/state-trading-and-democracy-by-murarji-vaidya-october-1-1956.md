@@ -26,7 +26,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - economic-liberty
+  - free-trade
+  - regulatory-state-critique
 summary: "Reprinted from The Times of India of 1 October 1956 and circulated as a pamphlet by the Forum of Free Enterprise, Murarji Vaidya's \"State Trading And Democracy: 'Doctrinaire Dogmas'\" attacks the recently formed State Trading Corporation of India. Vaidya argues that even as communist-bloc economists are quietly retreating from their command-economy commitments, India is drifting in the opposite direction — toward nationalisation and state trading — in deference to ideological slogans rather than evidence.\n\nHe marshals two principal authorities. First, he reports on the post-war congress of Polish economists in which Prof. Oscar Lange complained of the lack of proper statistical data and bureaucratic mishandling of economic problems, and in which Prof. W. Brus made a powerful plea for reinstating the law of supply and demand against Marxian dogma. Second, he cites J. R. D. Tata's annual TISCO address, which warned of a drift toward a highly centralised form of state capitalism.…"
 needs_review: true
 draft: false

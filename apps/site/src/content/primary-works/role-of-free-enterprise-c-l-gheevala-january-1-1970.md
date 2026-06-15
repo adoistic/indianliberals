@@ -4,7 +4,8 @@ title:
   main: ROLE OF FREE ENTERPRISE IN SECOND PLAN
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - c-l-gheevala
 editors: []
 contributors: []
 related_thinkers:

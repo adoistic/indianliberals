@@ -4,7 +4,8 @@ title:
   main: PROSPERITY THROUGH FREE ECONOMY — A CASE STUDY OF TAIWAN
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - kv-narain
 editors: []
 contributors: []
 related_thinkers: []

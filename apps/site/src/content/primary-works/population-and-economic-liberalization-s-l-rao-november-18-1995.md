@@ -4,7 +4,8 @@ title:
   main: Population and Economic Liberalization
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-r-k-rao
 editors: []
 contributors: []
 related_thinkers:
@@ -27,7 +28,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - free-trade
+  - women-rights
+  - health-policy
+  - education
+  - population-policy
+  - human-development
 summary: "Delivered as the 30th A. D. Shroff Memorial Lecture at the Forum of Free Enterprise in Bombay on 3 November 1995, S. L. Rao's address argues that the economic freedoms India has begun to enjoy since 1991 must now be extended to population policy. Rather than persisting with target-driven family planning and large-scale female sterilisation, Rao calls for a re-orientation of government effort toward investment in human capital — child nutrition, infant mortality reduction, female schooling, adult female literacy, maternal health and basic preventive services — delivered through better-targeted programmes that actually reach the poor.\n\nThe heart of the lecture is a comparative reading of India against China, Thailand, Malaysia and South Korea. Drawing on the National Family Health Survey (1992), the 1995 Human Development Report and NCAER work, Rao shows that India's East Asian neighbours have moved faster on fertility, infant mortality, female life expectancy, schooling and inequality because they invested earlier in women's education, health and labour-force participation, built credible local government, and (in China's case) carried out land reform and basic social security.…"
 needs_review: true
 draft: false

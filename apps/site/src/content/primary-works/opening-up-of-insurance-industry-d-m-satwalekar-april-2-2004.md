@@ -4,7 +4,8 @@ title:
   main: OPENING UP OF THE INSURANCE INDUSTRY – THREE YEARS ON
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - d-m-satwalekar
 editors: []
 contributors:
 - role: author
@@ -30,7 +31,13 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - regulatory-state-critique
+  - public-sector-critique
+  - capitalism-defence
+  - insurance-reform
+  - pension-reform
 summary: 'Delivered on 10 February 2004 as the A. D. Shroff Memorial Trust''s annual
   public lecture in Mumbai, Deepak M. Satwalekar''s address takes stock of the Indian
   life insurance industry three years after it was opened to private participation

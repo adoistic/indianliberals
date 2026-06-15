@@ -27,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - agricultural-reform
+  - public-sector-critique
+  - regulatory-state-critique
+  - economic-liberty
+  - governance-reform
+  - food-policy
 summary: "Ajit Prasad Jain, a former Union Food Minister, dissects two of independent India's most consequential food-policy decisions: the 1956 commitment to raise foodgrain production from 75 to 80 million tons under the second Plan, and the fall-1958 resolution that the State should take over the wholesale trade in foodgrains. Both, he writes, 'descended meteor-like from the sky', taken at meetings of the National Development Council without prior consultation, papers, or notes — and put up before the Council essentially as faits accomplis. He uses the occasion to anatomise the N.D.C. itself: an extra-constitutional body with no formal link to the Cabinet, suited equally to debate and to no real responsibility, where Chief Ministers attend by courtesy and the Prime Minister's compromise instincts paper over genuine conflicts between Centre and States.\n\nThe heart of the pamphlet is Jain's account of how the food-production target was inflated.…"
 needs_review: true
 draft: false

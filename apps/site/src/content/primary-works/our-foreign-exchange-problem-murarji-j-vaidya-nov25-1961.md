@@ -4,7 +4,8 @@ title:
   main: OUR FOREIGN EXCHANGE PROBLEM CAN BE SOLVED BY A NEW EXPORT POLICY
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - murarji-j-vaidya
 editors: []
 contributors: []
 related_thinkers:
@@ -25,7 +26,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - free-trade
+  - economic-liberty
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - foreign-policy
+  - cold-war-positioning
+  - capitalism-defence
 summary: "In this 1961 Forum of Free Enterprise pamphlet, Murarji J. Vaidya argues that India's chronic foreign-exchange deficit cannot be cured by tighter import controls and ought to be tackled through a more liberal export policy that leans on private enterprise rather than the State Trading Corporation. He opens with the data — exports of Rs. 6,300 million against imports of Rs. 10,100 million in 1960, with the gap widening from Rs. 2,900 million in 1958 to a likely Rs. 3,200 million in 1961 — to insist that the solution does not lie in further restricting imports but in expanding earnings abroad.\n\nVaidya then dissects why the medium-term credits extended by Western governments since 1956 have failed to translate into commissioned plant on schedule: licensing delays, Government-to-Government negotiations skewing project priorities, and a chronic distrust between the political-official class and the commercial community.…"
 needs_review: true
 draft: false

@@ -24,7 +24,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - fiscal-policy
+  - governance-reform
+  - planning-critique
+  - infrastructure-policy
 summary: "B. S. D. Baliga, a former Chairman of the Railway Board, delivered this lecture under the auspices of the Forum of Free Enterprise in Bombay on 10 May 1982. The pamphlet sketches the historical arc of Indian Railways from their 1853 origin as a vehicle for British import-export trade through the post-Independence consolidation of rates, wages, and through-traffic, and then turns to the operational and political pressures the system faces in the 1980s. Baliga argues that the network has handled vastly more traffic since 1947 with broadly improved freight efficiency, but that ageing rolling stock, chronic underfunding, and over-staffing have eroded passenger service quality and stretched safety margins.\n\nThe core diagnosis is twofold. First, the Railways are starved of capital: the Planning Commission has allotted only half the Sixth Plan demand, the Depreciation Fund has been chronically under-provided, dividends are paid on a never-revalued book capital, and political reluctance to raise rates and fares since 1967 has driven the system into the red.…"
 needs_review: true
 draft: false

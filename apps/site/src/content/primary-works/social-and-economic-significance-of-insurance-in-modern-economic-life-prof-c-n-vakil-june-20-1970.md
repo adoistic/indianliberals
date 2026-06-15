@@ -4,7 +4,8 @@ title:
   main: Social and Economic Significance of Insurance in Modern Economic Life
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - c-n-vakil
 editors: []
 contributors:
   - role: foreword
@@ -26,7 +27,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - planning-critique
+  - socialism-debate
+  - regulatory-state-critique
+  - fiscal-policy
+  - economic-liberty
+  - capitalism-defence
+  - insurance-and-risk
 summary: "Prof. C. N. Vakil delivers the third A. D. Shroff Memorial Lecture (25 March 1970) on the place of insurance in a modern, risk-laden economy. He opens with a panoramic claim about modern economic life — that the scale, speed and interdependence of production, transport and international trade have multiplied the range of personal and property risks. Insurance, he argues, is the institutional device by which these risks are shifted, and without it the gigantic enterprises of the modern world and the international trade that stimulates them would be impossible. He carefully separates Life Insurance, a long-term contract that also mobilises household savings into a large investible pool, from General Insurance, a short-term, reinsurance-driven business whose accumulated funds are necessarily modest.\n\nFrom this exposition Vakil pivots to a critique of how the Indian state has applied Socialism to the insurance sector. He concedes that the goals attached to the word — equality of opportunity, removal of inequality, better distribution — are largely shared across parties, but warns that the chosen instrument, nationalisation, has gone unexamined.…"
 needs_review: true
 draft: false

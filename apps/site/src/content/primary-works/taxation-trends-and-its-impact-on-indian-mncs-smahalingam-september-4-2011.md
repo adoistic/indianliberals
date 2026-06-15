@@ -4,7 +4,8 @@ title:
   main: Taxation Trends and its impact on Indian Multinational Companies
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - s-mahalingam
 editors: []
 contributors:
 - role: introduction

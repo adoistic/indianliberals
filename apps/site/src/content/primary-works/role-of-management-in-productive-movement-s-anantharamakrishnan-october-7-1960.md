@@ -26,7 +26,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - capitalism-defence
+  - industrial-productivity
+  - management-training
 summary: "S. Anantharamakrishnan's pamphlet reproduces the text of a speech delivered in Madras under the auspices of the Madras Productivity Council on June 28, 1960, and reissued by the Forum of Free Enterprise. He frames productivity as a national-development imperative: with capital, foreign exchange, plant, and trained manpower all in acutely short supply, and the country's population projected at 527 million by 1971, India cannot afford to multiply plants before extracting the maximum output from those already running. Productivity, he insists, is no longer 'ivory-tower speculation' but a 'new way of life' in industry.\n\nThe core argument is that responsibility for the productivity drive sits with three parties — Government, employers, and workers — but the operative burden falls on management. Anantharamakrishnan rejects the common reflex of equating productivity with labour productivity alone, calling it 'basically wrong'.…"
 needs_review: true
 draft: false

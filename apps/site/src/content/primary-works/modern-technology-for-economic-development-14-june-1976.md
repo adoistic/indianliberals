@@ -4,7 +4,8 @@ title:
   main: Modern Technology for Economic Development
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - s-sampath
 editors: []
 contributors:
 - role: author

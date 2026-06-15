@@ -4,7 +4,8 @@ title:
   main: Sales Tax
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - jamshed-antia
 editors: []
 contributors: []
 related_thinkers: []

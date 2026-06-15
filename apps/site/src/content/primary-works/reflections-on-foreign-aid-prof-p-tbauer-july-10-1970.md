@@ -4,7 +4,8 @@ title:
   main: REFLECTIONS ON FOREIGN AID
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - p-t-bauer
 editors: []
 contributors: []
 related_thinkers:
@@ -25,7 +26,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - foreign-policy
+  - planning-critique
+  - public-sector-critique
+  - cold-war-positioning
+  - capitalism-defence
+  - economic-liberty
 summary: "Prof. P. T. Bauer's lecture, delivered at the Forum of Free Enterprise in Bombay on 3 February 1970 and published as a Forum booklet in July 1970, mounts a frontal attack on the prevailing development-economics consensus that inter-governmental grants and subsidised loans are indispensable for the progress of poor countries. Bauer treats this consensus as an unexamined axiom and dismantles it on empirical and analytical grounds: all developed countries themselves rose out of poverty without foreign aid, many under-developed countries advanced rapidly between 1880 and 1960 without external transfers, and India, after fifteen years of large-scale aid, ended the 1960s more dependent on foreign food and foreign exchange than before. If a population is not interested in material advance — Bauer uses the Navajo case alongside other examples — neither aid nor anything else can produce development.\n\nMost of the booklet inventories the active harms Bauer attributes to aid.…"
 needs_review: true
 draft: false

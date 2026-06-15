@@ -27,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - regulatory-state-critique
+  - civil-liberty
+  - rule-of-law
+  - planning-critique
+  - individual-rights
+  - property-rights
 summary: "N. A. Palkhivala's pamphlet, based on a talk delivered under the auspices of the Forum of Free Enterprise in Bombay on December 2, 1957, treats 1957 as a watershed in Indian fiscal history. He argues that, almost unnoticed, the country has passed through a revolution in its taxation laws, and organises his critique under three heads: the introduction of new taxes, the complication of existing ones, and the growing use of taxation as an instrument of executive control over private life.\n\nThe first part dissects the new Wealth-tax, Expenditure-tax and Capital Gains tax. Palkhivala attacks the Wealth-tax Act, 1957 for resting on the subjective opinion of the Wealth-tax Officer (Sections 2(m), 3 and 7), for amounting to virtual expropriation by swallowing income, and for irrationally taxing companies — a measure even Prof. Kaldor, who conceived the combined levy, opposed. He pillories the Expenditure-tax as a fourth bite at the same cake and a futile attempt to discourage ostentation, citing William Pitt's Napoleonic-war income-tax as proof that 'temporary' taxes never die.…"
 needs_review: true
 draft: false

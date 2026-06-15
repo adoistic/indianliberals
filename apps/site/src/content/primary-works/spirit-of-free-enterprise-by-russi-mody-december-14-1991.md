@@ -30,7 +30,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - capitalism-defence
+  - socialism-debate
+  - marxism-debate
+  - free-trade
+  - fiscal-policy
 summary: "Russi Mody, then Chairman and Managing Director of the Tata Iron & Steel Co. Ltd., delivered this address on the 'Spirit of Free Enterprise' at a seminar of the Confederation of Engineering Industry (Northern Region) in New Delhi on 3 April 1991. The Forum of Free Enterprise reproduced it as a booklet on 14 December 1991. Mody opens by insisting it should no longer be necessary to debate free enterprise — its superiority has been demonstrated by every country, from Singapore and Korea to Britain and Germany, that has shed state controls. India's poverty, he argues, is self-inflicted: the country is 'literally and physically broke' because successive governments since Independence have run an economy modelled on Russian planning instead of releasing the productive energies that Indians display so readily abroad.\n\nThe address moves through a brisk history of the modern world — the Industrial Revolution, the Fabian and Marxist reaction, the rise and collapse of the Soviet bloc — and lands on Adam Smith as the intellectual anchor of the case for self-interest disciplined by competition.…"
 needs_review: true
 draft: false

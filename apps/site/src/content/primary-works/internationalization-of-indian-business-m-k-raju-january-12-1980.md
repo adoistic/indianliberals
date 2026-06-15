@@ -4,7 +4,8 @@ title:
   main: INTERNATIONALISATION OF INDIAN BUSINESS
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - m-k-raju
 editors: []
 contributors:
 - role: author

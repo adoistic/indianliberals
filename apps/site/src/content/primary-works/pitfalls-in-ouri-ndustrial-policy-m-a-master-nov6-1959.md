@@ -4,7 +4,8 @@ title:
   main: PITFALLS IN OUR INDUSTRIAL POLICY
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-a-master
 editors: []
 contributors: []
 related_thinkers:

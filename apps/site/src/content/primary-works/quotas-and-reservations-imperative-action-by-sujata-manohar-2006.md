@@ -4,7 +4,8 @@ title:
   main: Quotas and Reservations
   subtitle: Imperatives of Affirmative Action
 work_type: speech
-authors: []
+authors:
+  - mrs-sujata-manohar-retd
 editors: []
 contributors:
 - role: author
@@ -31,7 +32,17 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - constitutionalism
+  - rule-of-law
+  - individual-rights
+  - dalit-rights
+  - women-rights
+  - education
+  - governance-reform
+  - judicial-independence
+  - civil-liberty
+  - affirmative-action
 summary: 'Quotas and Reservations — Imperatives of Affirmative Action is the printed
   text of a lecture delivered by Justice (Mrs.) Sujata Manohar (Retd.), a former Chief
   Justice of the Bombay and Kerala High Courts and Supreme Court judge, at the Annual

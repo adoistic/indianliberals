@@ -4,7 +4,10 @@ title:
   main: STOCK MARKET IN TURMOIL – LESSONS FOR INVESTORS
   subtitle: ''
 work_type: edited_volume
-authors: []
+authors:
+  - s-l-n-simha
+  - j-mulraj
+  - ajay-shah
 editors: []
 contributors:
 - role: author

@@ -27,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - monetary-policy
+  - planning-critique
+  - regulatory-state-critique
+  - capitalism-defence
+  - economic-liberty
+  - fiscal-policy
 summary: "Published by the Forum of Free Enterprise in late 1966, this 16-page booklet is a compact polemic against the Indian National Congress's then-mooted 'social control' over commercial banks, which the Forum reads as a euphemism for staged nationalisation. The pamphlet is assembled rather than authored: it opens with a syndicated article by the pseudonymous 'Candidus' reproduced from the Amrit Bazar Patrika of 15 September 1966, followed by a Times of India piece (7 October 1966) by A. S. Bhaskar, Financial Editor of that paper, and a resolution adopted by the Reserve Bank of India Employees' Association in Bombay in July 1964 opposing nationalisation. The remainder collects letters to the editor — from S. N. Iyer in Madras, S. G. Subramanian in Tirunelveli, N. Goyal in Ganganagar, and Taradas Dutt in Calcutta — alongside excerpted statements from Burma's Premier U Nu, the Soviet economist V. Tyagunenko, and the 1965 Kenyan government paper African Socialism and its Application to Planning in Kenya. The booklet is bookended by epigraphs from Eugene Black and A. D.…"
 needs_review: true
 draft: false

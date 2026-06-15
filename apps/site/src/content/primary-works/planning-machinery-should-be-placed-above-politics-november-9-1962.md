@@ -24,7 +24,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - governance-reform
+  - party-politics
+  - fiscal-policy
 summary: "This short Forum of Free Enterprise pamphlet reproduces an unsigned editorial from The Economic Times of 6 September 1962. The editorial complains that, amid the storm of public criticism over the shortfalls of the Third Five-Year Plan, the one institution that has so far escaped its share of blame — the Planning Commission itself — is the very body whose work is at fault. Even Planning Minister Nanda's own report to Parliament on the first year of the Plan, the editorial notes, was a 'scrappy, disjointed narration of truths and half-truths'.\n\nThe core charge is technical and political. Despite a vast planning apparatus — the Perspective Planning Division, central and state planning cells, panels of economists and statisticians, the Indian Statistical Institute, the Central Statistical Organisation, and the Reserve Bank's Research Department — the Plan's projections in cement, steel, electricity, coal, transport and fertilisers have 'gone hay-wire' within a year of publication.…"
 needs_review: true
 draft: false

@@ -23,7 +23,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - forestry-policy
+  - environmental-policy
+  - rural-development
+  - natural-resource-conservation
 summary: "Y. M. L. Sharma, a retired Chief Conservator of Forests for Karnataka and visiting professor of Farm Forestry at the University of Agricultural Sciences, Bangalore, uses this Forum of Free Enterprise booklet to make the case that forestry must be reconceived as a basic developmental asset on par with power, irrigation and agriculture. He opens with a survey of India's forest endowment — sixteen major forest types covering 22.7 per cent of the country, 93 per cent state-owned, much of it degraded — and contrasts the country's per-hectare forest revenue (Rs 21.50 gross, Rs 11.50 net) with West Germany (Rs 565/130), Switzerland (Rs 494/190) and Austria, to show how dramatically India under-invests in and under-realises its forest wealth.\n\nThe booklet's central argument is that 'production forestry' alone — the National Commission on Agriculture's plan to raise one lakh hectares of manmade forests a year at Rs 242 crores in the first decade — will not meet the country's swelling demands for fuel wood, fodder, manure leaf and small timber.…"
 needs_review: true
 draft: false

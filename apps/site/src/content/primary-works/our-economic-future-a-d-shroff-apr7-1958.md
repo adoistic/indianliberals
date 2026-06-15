@@ -27,7 +27,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - fiscal-policy
+  - monetary-policy
+  - anti-corruption
+  - capitalism-defence
 summary: "Delivered as a talk under the auspices of the Forum of Free Enterprise in Bangalore on 17 January 1958 and reprinted as a Forum pamphlet, A. D. Shroff's \"Our Economic Future\" is a sharply argued indictment of the policy regime built around the Second Five-Year Plan. Shroff opens by chiding the country for letting regional quarrels over language and States' reorganisation distract it from an unusually difficult economic situation. He then walks the lay reader through the principal symptoms: a recurring food shortage that has forced Government to import grain at heavy cost in foreign exchange; sterling balances that fell by Rs. 330 crores in a single week of January 1958; an outstanding gap of Rs. 700 crores against the Plan's remaining requirements; and a Capital Market \"practically dead\" because confiscatory direct taxation has destroyed the incentive to save and invest.\n\nThe diagnosis is unsparing.…"
 needs_review: true
 draft: false

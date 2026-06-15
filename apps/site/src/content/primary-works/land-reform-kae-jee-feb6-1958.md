@@ -4,7 +4,8 @@ title:
   main: LAND REFORM
   subtitle: ''
 work_type: pamphlet
-authors: []
+authors:
+  - kaejee
 editors: []
 contributors:
 - role: author

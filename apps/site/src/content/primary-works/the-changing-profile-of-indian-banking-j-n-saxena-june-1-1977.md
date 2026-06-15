@@ -4,7 +4,8 @@ title:
   main: The Changing Profile of Indian Banking
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - j-n-saxena
 editors: []
 contributors:
 - role: author

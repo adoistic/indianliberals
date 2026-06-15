@@ -4,7 +4,8 @@ title:
   main: Telephone Communication and Urban Development In India
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - dr-rashmi-mayur
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - urban-policy
+  - public-sector-critique
+  - governance-reform
+  - telecommunications-policy
+  - infrastructure-policy
 summary: "Dr. Rashmi Mayur, a futurologist and Director of the Urban Systems Centre at NITIE Powai, examines the failing state of telephone services in Bombay and argues that adequate telecommunications infrastructure is a precondition for India's economic development. Opening with a Parisian visitor's coinage of the word 'telefrustration' after two days of failed attempts to call Colaba from Malad, Mayur sets a paradox: in an age when humans can speak to one another across 238,000 miles to the moon, it remains agonising to place a 25-mile call within a single city. He frames the telephone as 'a vital force for modernization and development', noting that more than fifty per cent of Indian telephones sit in major urban centres even though only twenty per cent of the population lives there, and that urban life — business, government, medical emergency, fire, police — has become inconceivable without it.\n\nThe booklet builds its case from a sample survey of 3,000 Bombay subscribers and operational data from the Bombay Telephone Company.…"
 needs_review: true
 draft: false

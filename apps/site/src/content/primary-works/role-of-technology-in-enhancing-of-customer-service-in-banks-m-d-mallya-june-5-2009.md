@@ -27,7 +27,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - governance-reform
+  - public-sector-critique
+  - banking-reform
+  - financial-inclusion
+  - technology-policy
 summary: "M. D. Mallya, then Chairman and Managing Director of Bank of Baroda, uses this Forum of Free Enterprise booklet — the text of his Chief Guest address at the Fifth M.R. Pai Memorial Award function in Mumbai on 30th June 2009 — to argue that information and communication technology has become the central enabler of quality customer service in Indian banking. He frames customer confidence as the foundation of any banking system and identifies three dimensions of service quality: accessibility (branch and virtual presence), a wide range of liability and asset products, and the human element of processing and delivery.\n\nThe address traces an arc from the pre-Independence private banking system through the 1935 founding of the Reserve Bank of India, the 1969 and 1980 waves of nationalisation, and the post-1991 Narasimham Committee reforms that opened the field to new-generation private and foreign banks.…"
 needs_review: true
 draft: false

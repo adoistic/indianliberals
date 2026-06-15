@@ -4,7 +4,8 @@ title:
   main: MUTUAL FUNDS AND OFFSHORE FUNDS IN INDIA
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - s-a-dave
 editors: []
 contributors:
 - role: author

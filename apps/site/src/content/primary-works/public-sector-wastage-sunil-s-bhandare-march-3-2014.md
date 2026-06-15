@@ -29,7 +29,15 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - fiscal-policy
+  - governance-reform
+  - anti-corruption
+  - economic-liberty
+  - regulatory-state-critique
+  - planning-critique
+  - capitalism-defence
 summary: 'Sunil S. Bhandare''s booklet, originally delivered as a talk at the Nani
   A. Palkhivala Memorial Trust in Mangalore on 20 January 2014 and reissued by the
   Forum of Free Enterprise, frames the squandering of India''s public resources as

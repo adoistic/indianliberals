@@ -27,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - press-freedom
+  - civil-liberty
+  - free-speech
+  - emergency-critique
+  - individual-rights
+  - judicial-independence
+  - rule-of-law
 summary: "C. R. Irani's A. D. Shroff Memorial Lecture, delivered for the Forum of Free Enterprise on 19 October 1977 and issued as a booklet on 16 January 1978, argues that press freedoms are not adjacent to human rights but constitutive of them. Irani opens with US Secretary of State Cyrus Vance's three-part definition of human rights — protection from governmental violation of the person, fulfilment of basic needs, and political and civil liberties — and uses Solzhenitsyn's image of peoples who 'soar unhampered over the peaks of freedom' only to lose the will to defend it. His diagnosis is that free peoples are seduced into slavery because they are unwilling to pay the continuing price of liberty.\n\nThe centre of the lecture is a first-hand narrative of the assault on the Indian press from 1969 onward, climaxing in the Emergency of 1975.…"
 needs_review: true
 draft: false

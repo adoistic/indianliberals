@@ -108,12 +108,18 @@ def read_summary(bd: pathlib.Path):
     return {}
 
 def main():
-    mode = sys.argv[1] if len(sys.argv) > 1 else ""
+    mode = next((a for a in sys.argv[1:] if a in ("--themes-only","--authors-only")), "")
     lut, li = load_authority()
     bdmap = bake_dir_map()
-    backlog = list(csv.DictReader(open(BACKLOG)))
-    mds = [PW / (es(r["filename"][:-4]) + ".md") for r in backlog]
-    mds = [p for p in dict.fromkeys(mds) if p.exists()]
+    if "--all-bake" in sys.argv:
+        # Every MD that has a matching bake-off dir (covers earlier batches the
+        # backlog CSV never listed), keyed by emit-slug.
+        mds = [PW / (slug + ".md") for slug in bdmap]
+        mds = [p for p in dict.fromkeys(mds) if p.exists()]
+    else:
+        backlog = list(csv.DictReader(open(BACKLOG)))
+        mds = [PW / (es(r["filename"][:-4]) + ".md") for r in backlog]
+        mds = [p for p in dict.fromkeys(mds) if p.exists()]
 
     stat = Counter(); unmatched = Counter()
     for p in mds:

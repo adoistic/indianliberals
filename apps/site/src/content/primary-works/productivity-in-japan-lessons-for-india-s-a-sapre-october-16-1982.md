@@ -24,7 +24,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - capitalism-defence
+  - economic-liberty
+  - industrial-productivity
+  - management-philosophy
+  - industrial-relations
+  - comparative-development
 summary: "S. A. Sapre, then Director of the Institute for the Study of Work and co-author of \"The Incredible Japanese,\" delivers a Forum of Free Enterprise pamphlet (based on a public lecture given in Bombay on 13 September 1982) that argues India can learn from Japan's post-war productivity miracle. The pamphlet opens with a stark contrast: Japan, ruined after the Second World War, has become the world's third-richest country with near-100% literacy, a 1% needy population, and very low crime, while India ranks as the ninth poorest country with 47% below the poverty line and a per capita GNP of $190 against Japan's $8,800.…"
 needs_review: true
 draft: false

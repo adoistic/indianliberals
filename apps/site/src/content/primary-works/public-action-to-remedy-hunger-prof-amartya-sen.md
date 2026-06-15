@@ -32,7 +32,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - health-policy
+  - education
+  - agricultural-reform
+  - public-provisioning
+  - hunger-and-famine
+  - press-freedom
 summary: "Public Action to Remedy Hunger reprints Amartya Sen's 1990 Arturo Tanco Memorial Lecture, reissued by the Forum of Free Enterprise in November 1998 to mark his Nobel Prize. In the rendered pages, Sen distinguishes two faces of hunger — transient but violent famines and the more persistent, less spectacular phenomenon of endemic undernourishment — and argues that both yield to systematic public action, including legislation, an open press, democratic accountability, and the active engagement of markets, civil society, and the state working in concert. He rejects the fatalism that has long dampened preventive effort, illustrating it through James Mill's gloomy 1816 letter to David Ricardo, and insists that the 'inflamed minds of the lower orders' have historically been closer to the truth than the resigned philosophers.\n\nOn endemic deprivation, Sen develops a now-familiar comparative argument: countries and regions that have invested in basic health care, female education, and public provisioning — Kerala, Sri Lanka, Costa Rica, Chile, Jamaica, and pre-1979 China — outperform much richer 'unaimed opulence' economies such as Brazil and Oman in life expectancy and child mortality.…"
 needs_review: true
 draft: false

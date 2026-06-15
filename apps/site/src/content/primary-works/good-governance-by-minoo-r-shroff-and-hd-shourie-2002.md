@@ -4,7 +4,9 @@ title:
   main: Good Governance in India
   subtitle: ''
 work_type: edited_volume
-authors: []
+authors:
+  - minoo-r-shroff
+  - h-d-shourie
 editors: []
 contributors:
 - role: author

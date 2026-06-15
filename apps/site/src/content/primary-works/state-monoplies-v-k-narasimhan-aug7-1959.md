@@ -4,7 +4,8 @@ title:
   main: STATE MONOPOLIES AND THE CITIZEN IN A DEMOCRACY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - v-k-narasimhan
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - economic-liberty
+  - constitutionalism
+  - property-rights
+  - capitalism-defence
+  - regulatory-state-critique
+  - rule-of-law
 summary: "V. K. Narasimhan, then Assistant Editor of *The Hindu*, uses this 1959 Forum of Free Enterprise booklet — based on a lecture he delivered in Bombay on 22 May 1959 — to ask a constitutional and democratic-theory question: how far is the creation and maintenance of State monopolies in goods and services compatible with the right of citizens in a democracy to operate similar enterprises? The trigger, he says, was the 1956 nationalisation of life insurance by ordinance, where a working private industry was absorbed into a state monopoly without organised protest. Behind that silence Narasimhan locates a deeper failure: democratic-minded public men did not register the danger of the First Amendment of 1951, which inserted a sweeping clause into Article 19(6) allowing the State to operate any trade, business, industry or service to the partial or complete exclusion of citizens, with no equivalent constitutional safeguard.\n\nThe core of the booklet is a close reading of the 1951 amendment's drafting history. Narasimhan traces it back to the Allahabad High Court judgment in the U.P.…"
 needs_review: true
 draft: false

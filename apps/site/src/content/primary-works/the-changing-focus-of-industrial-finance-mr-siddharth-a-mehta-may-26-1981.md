@@ -4,7 +4,8 @@ title:
   main: The Changing Focus of Industrial Finance
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-p-mehta
 editors: []
 contributors: []
 related_thinkers:
@@ -25,7 +26,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - monetary-policy
+  - fiscal-policy
+  - economic-liberty
+  - capitalism-defence
+  - industrial-finance
+  - banking-nationalisation-critique
 summary: "Delivered as the A. D. Shroff Memorial Lecture in Bombay on 11 February 1981, Siddharth S. Mehta — then Chairman and Managing Director of ICICI — uses the occasion to chart how Indian industrial finance was reshaped between Independence and the early 1980s, and to question whether the institutional and regulatory architecture built up since 1951 still serves industry well. He traces the rise of all-India term-financing institutions (IFCI, ICICI, IDBI, UTI, LIC, GIC) together with State Finance Corporations, joint-sector Industrial Development Corporations and Technical Consultancy Organisations, arguing that the institutional framework has grown well beyond what was envisaged in the 1950s and now offers a near-complete package of financial services to industry.\n\nThe second half of the rendered pages turns to the strain showing through this edifice. Mehta notes that bank-branch expansion after nationalisation has slowed and that the scope for raising the domestic saving ratio is limited, even as foreign-exchange pressures from rising oil prices, dwindling official development assistance and growing protectionism point to a future in which resources must work harder.…"
 needs_review: true
 draft: false

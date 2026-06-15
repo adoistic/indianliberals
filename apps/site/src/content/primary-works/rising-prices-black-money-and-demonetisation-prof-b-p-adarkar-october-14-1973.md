@@ -4,7 +4,8 @@ title:
   main: RISING PRICES, BLACK MONEY AND DEMONETISATION
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - b-p-adarkar
 editors: []
 contributors: []
 related_thinkers:

@@ -4,7 +4,8 @@ title:
   main: Judiciary Vis a Vis Parliament & Executive
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - anil-b-divan
 editors: []
 contributors:
 - role: author

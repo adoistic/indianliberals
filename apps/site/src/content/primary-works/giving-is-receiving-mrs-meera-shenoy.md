@@ -4,7 +4,8 @@ title:
   main: Giving is Receiving
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - meera-shenoy
 editors:
 - sunil-bhandare
 contributors:

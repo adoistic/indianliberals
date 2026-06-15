@@ -4,7 +4,8 @@ title:
   main: QUALITY IN BANKING
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - n-vaghul
 editors: []
 contributors:
 - role: author
@@ -31,7 +32,16 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - regulatory-state-critique
+  - public-sector-critique
+  - economic-liberty
+  - capitalism-defence
+  - planning-critique
+  - biographical-tribute
+  - banking-reform
+  - transparency-and-disclosure
 summary: 'Quality in Banking is the text of the 1989 A. D. Shroff Memorial Lecture,
   delivered in Bombay on 12 October 1989 by N. Vaghul, then Chairman and Managing
   Director of the Industrial Credit & Investment Corporation of India Ltd (ICICI)

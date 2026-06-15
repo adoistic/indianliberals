@@ -39,7 +39,16 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - public-sector-critique
+  - economic-liberty
+  - capitalism-defence
+  - regulatory-state-critique
+  - free-trade
+  - planning-critique
+  - tax-reform
+  - disinvestment-privatisation
 summary: 'This Forum of Free Enterprise booklet, prepared in July 2004 by the editor
   S. S. Bhandare (himself a member of the Drafting Group of The Liberal Budget), juxtaposes
   the Union Budget 2004-05 presented by Finance Minister P. Chidambaram with The Liberal

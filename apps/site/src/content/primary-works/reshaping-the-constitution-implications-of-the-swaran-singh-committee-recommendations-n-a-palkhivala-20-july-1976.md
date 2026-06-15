@@ -25,7 +25,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - constitutionalism
+  - rule-of-law
+  - judicial-independence
+  - separation-of-powers
+  - civil-liberty
+  - individual-rights
+  - property-rights
+  - emergency-critique
+  - socialism-debate
+  - secularism
 summary: "Written in the heart of the Emergency, this Forum of Free Enterprise pamphlet reprints N. A. Palkhivala's polemic against the Swaran Singh Committee's report on constitutional amendments. Palkhivala concedes a handful of innocuous proposals — moving agriculture and education to the Concurrent List, allowing localised Emergency proclamations, setting up service tribunals — but argues that the Committee's central thrust would in reality alter the basic structure of the Constitution. He frames the moment as a civic emergency in itself, warning a complacent public that the proposals are debated less than the monsoon or the price of onions, and that posterity will ask where citizens were when their freedoms were put up for discussion.\n\nThe core of the tract is a constitutional-law argument against the proposed amendment of Article 368, which would put parliamentary amendments beyond the reach of any court.…"
 needs_review: true
 draft: false

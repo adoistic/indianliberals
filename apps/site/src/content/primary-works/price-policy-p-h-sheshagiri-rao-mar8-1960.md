@@ -26,7 +26,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - capitalism-defence
+  - economic-liberty
+  - regulatory-state-critique
+  - fiscal-policy
+  - agricultural-reform
 summary: "P. H. Sheshagiri Rao's pamphlet, published by the Forum of Free Enterprise on 8 March 1960 and drawn from a 1959 lecture at the Institute of World Culture in Bangalore, takes as its provocation two contemporary moves: the All-India Congress Committee's Chandigarh resolution to widen nationalised industry and trade, and the National Development Council's decision to push ahead with state trading in foodgrains. Rao argues that the ruling party is treating nationalisation as a matter of ideology and sentiment, and that it falls to the intelligentsia to bring the question down to earth by asking a single hard question: at what price will nationalised industry and trade deliver goods to the consumer?\n\nHe walks the reader through the economics of price formation in buyers' and sellers' markets, in shortage and emergency, and through the four contract types familiar from procurement — formed, farmed, negotiated and cost-plus. He then turns this taxonomy on the State itself.…"
 needs_review: true
 draft: false

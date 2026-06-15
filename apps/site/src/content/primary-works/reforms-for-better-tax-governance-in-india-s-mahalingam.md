@@ -4,7 +4,8 @@ title:
   main: Reforms for a Better Tax Governance in India
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - s-mahalingam
 editors:
 - sunil-bhandare
 contributors:

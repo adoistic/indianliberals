@@ -26,7 +26,9 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - education
+  - governance-reform
 summary: "Delivered as the 33rd A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise in Mumbai on 7 December 1998, Dr. (Miss) A. S. Desai's address frames Indian higher education as a system standing between a twentieth century preoccupied with material resources and a twenty-first century built on knowledge and information. Speaking as Chairperson of the University Grants Commission, she argues that India can ill afford the complacency of believing the country cannot bear the costs of an expanded university system — on the contrary, the country cannot afford NOT to invest in it.\n\nThe lecture surveys the quantitative growth of the system since Independence — from a handful of universities at 1947 to 228 universities and roughly 9,703 colleges by 1997-98 — and judges the expansion to have been 'poorly planned': one college established every day and one university every three to four months, but only 6 per cent of the 17-23 age cohort enrolled, well behind Malaysia, Thailand or Singapore.…"
 needs_review: true
 draft: false

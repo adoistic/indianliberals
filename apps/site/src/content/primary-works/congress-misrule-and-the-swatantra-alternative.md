@@ -4,7 +4,8 @@ title:
   main: Congress Misrule and the Swatantra Alternative
   subtitle: ""
 work_type: book
-authors: []
+authors:
+  - m-r-masani-m-p
 editors: []
 contributors:
   - role: foreword

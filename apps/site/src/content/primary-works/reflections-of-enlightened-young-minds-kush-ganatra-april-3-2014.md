@@ -4,7 +4,11 @@ title:
   main: Reflections of Enlightened Young Minds
   subtitle: Safety of Women, White Collar Crimes, Civil Society and Good Governance
 work_type: edited_volume
-authors: []
+authors:
+  - kush-ganatra
+  - varsha-srinivasan
+  - vasudha-ramakrishna
+  - sabeena-gonsalves
 editors: []
 contributors:
 - role: author

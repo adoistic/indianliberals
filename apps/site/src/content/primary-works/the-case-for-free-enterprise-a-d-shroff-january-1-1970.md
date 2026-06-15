@@ -26,7 +26,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - regulatory-state-critique
+  - public-sector-critique
+  - capitalism-defence
+  - civil-liberty
+  - free-speech
+  - press-freedom
 summary: "A. D. Shroff delivers the welcome address at the First Convention of the Forum of Free Enterprise, held on April 25 in Bombay, and uses it to recap why the Forum was launched on July 18, 1956 and what it has been doing in its first nine months. Its promoters were convinced that the case for Free Enterprise was 'going by default' in India, that planned development was being read as a mandate for ever more regulation, and that an organised body was needed to put before the public both Free Enterprise's past achievements and its capacity to contribute to rapid, large-scale national development. The Forum, Shroff insists, is an educational and non-political institution — not a political party in waiting — and will continue its work 'undeterred by official frowns or even threats' directed at its workers.\n\nThe argumentative core is a defence of Free Enterprise inside, not against, planned development. Shroff accepts planning, a measure of control and regulation, and the goal of a higher standard of living through reduced disparities.…"
 needs_review: true
 draft: false

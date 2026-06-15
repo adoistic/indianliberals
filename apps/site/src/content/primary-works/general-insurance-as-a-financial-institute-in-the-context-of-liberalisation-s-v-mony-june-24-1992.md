@@ -26,7 +26,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - public-sector-critique
+  - planning-critique
+  - regulatory-state-critique
+  - free-trade
+  - financial-services-liberalisation
 summary: "Delivered as the A. D. Shroff Memorial Trust's 1992 annual lecture on insurance, S. V. Mony — then Chairman of the General Insurance Corporation of India — uses the moment of India's 1991 structural adjustment to argue that liberalisation is the right direction for the country's financial services, but that financial-sector liberalisation must not be confused with deregulation. In the rendered pages he situates the reform turn against the planned-development model, citing the Finance Minister's 1992-93 budget speech and the Statement of Industrial Policy of 24th July 1991 to acknowledge that the public sector's 'commanding heights' role has produced poor productivity, overmanning and a low return on capital, making some public enterprises 'a burden rather than an asset to the government.'\n\nMony then builds the conceptual frame for the rest of the lecture: services as a catalyst of socio-economic development, the rapid rise of services to 41% of India's GDP, and financial services — banking, insurance, leasing, securities, asset management — as the connective tissue of a modern economy.…"
 needs_review: true
 draft: false

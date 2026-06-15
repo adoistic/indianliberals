@@ -26,7 +26,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - education
+  - biographical-tribute
+  - vocational-education
+  - skill-development
+  - automation-and-labour
 summary: "S. Ramadorai's lecture in memory of Nani A. Palkhivala, delivered at IIT Bombay on 25 September 2018 and published by the Forum of Free Enterprise, makes the case that India's neglect of vocational education has become an existential problem. He sets out the gap with hard numbers — only about 2.3% of India's workforce has received formal skills training, against 96% in South Korea, 80% in Japan, 75% in Germany, 68% in the UK and 40% in China — and argues that the country celebrated the power of the mind and denigrated the artistry of the hands, building the IIT's but starving the ITI's. The result is a workforce unready for the structural shifts now underway: a transition from agriculture to services, modernisation, globalisation, and a knowledge economy that absorbs millions of young entrants every year.\n\nThe lecture opens with an editorial introduction by Sunil S.…"
 needs_review: true
 draft: false

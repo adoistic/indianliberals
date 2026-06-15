@@ -4,7 +4,8 @@ title:
   main: PROFITS IN A PLANNED ECONOMY
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - m-a-master
 editors: []
 contributors: []
 related_thinkers:
@@ -29,7 +30,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - capitalism-defence
+  - fiscal-policy
+  - economic-liberty
+  - regulatory-state-critique
 summary: "M. A. Master's pamphlet, published by the Forum of Free Enterprise in February 1965, mounts a case for the legitimacy and necessity of profits within India's planned economy. Master opens by observing that profit-making is recognised everywhere — even in Communist states — as essential to the stability and growth of national economies, and that the post-independence equation of profit with un-patriotism distorted the early years of Indian planning. He traces how the planners' faith in \"no-profit, no-loss\" working of public enterprises began to crack during the Second Plan when resources fell short, prompting the Congress Planning Sub-Committee under U. N. Dhebar (September 1959) and successive Union Finance Ministers — Morarji Desai and T. T. Krishnamachari — to insist that public enterprises must earn profits to finance investment in railways, irrigation, fertiliser plants and steel.\n\nThe core of the pamphlet is an empirical accounting of how the Public Sector has actually performed.…"
 needs_review: true
 draft: false

@@ -29,7 +29,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - monetary-policy
+  - fiscal-policy
+  - free-trade
+  - capitalism-defence
+  - regulatory-state-critique
+  - post-crisis-policy
+  - financial-stability
 summary: "This booklet reproduces the 45th A. D. Shroff Memorial Lecture, delivered by Dr. Subir Gokarn — then Deputy Governor of the Reserve Bank of India — at the Indian Merchants' Chamber, Mumbai, on 2 November 2011 under the auspices of the Forum of Free Enterprise. Gokarn's central proposition is that the balance between efficiency and stability must be built into India's development strategy: reforms that open the economy to competition and accelerate growth have to be complemented by safeguards that contain the risks those very reforms generate. He reads the post-1991 record through this lens and argues that the same balance explains both the dream run of 2003-08 (when GDP averaged 8.9 per cent) and the relatively short-lived, transitory impact of the 2008 global financial crisis on India compared with developed economies.\n\nUsing a 2x2 matrix of favourable / unfavourable global and domestic conditions, Gokarn maps Indian performance from 2003 to 2010, frames 2008-10 as the crisis quadrant, and treats 2011-onward as the new question.…"
 needs_review: true
 draft: false

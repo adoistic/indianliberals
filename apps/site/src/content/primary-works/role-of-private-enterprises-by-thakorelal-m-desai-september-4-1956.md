@@ -4,7 +4,8 @@ title:
   main: ROLE OF PRIVATE ENTERPRISE
   subtitle: Some Unjustified Charges
 work_type: essay
-authors: []
+authors:
+  - thakorelal-desai
 editors: []
 contributors: []
 related_thinkers:

@@ -28,7 +28,12 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - biographical-tribute
+  - indian-liberal-history
+  - education
+  - capitalism-defence
+  - liberalism-as-tradition
 summary: 'The A. D. Shroff Memorial Trust: A report on the first five years 1967-1972
   is a commemorative booklet issued by the Trust under the chairmanship of N. A. Palkhivala.
   It opens with a life-sketch of A. D. Shroff (1899-1965) — a Sydenham College and

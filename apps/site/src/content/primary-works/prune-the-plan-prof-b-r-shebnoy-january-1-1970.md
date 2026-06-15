@@ -25,7 +25,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - fiscal-policy
+  - monetary-policy
+  - economic-liberty
+  - civil-liberty
 summary: "Prune the Plan is the full text of an address by Professor B. R. Shenoy, delivered in Bombay on June 17, 1957, on the Union Budget and the Second Five-Year Plan. Shenoy opens with the arithmetic of the Plan: the first two years' outlay of about Rs. 1,600 crores is roughly 75% of the contemplated expenditure, the Government insists it will stick to the Plan whatever the difficulties, yet the resources to do so simply do not exist either at home or from abroad. The whole of the Plan's overall resource gap of Rs. 2,500 crores, he argues, sits inside the Public Sector, while the Private Sector's own target of Rs. 2,400 crores is already fully committed — so any attempt to close the gap by tapping private savings amounts to confiscation rather than democratic finance.\n\nThe core argument is austerely classical: economic development is a function of invested savings, and a poor country with per-capita income of Rs. 23.42 a month against America's Rs. 775 cannot will into existence resources it does not have.…"
 needs_review: true
 draft: false

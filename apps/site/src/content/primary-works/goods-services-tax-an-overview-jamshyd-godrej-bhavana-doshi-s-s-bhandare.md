@@ -4,7 +4,10 @@ title:
   main: Goods & Services Tax
   subtitle: An Overview
 work_type: edited_volume
-authors: []
+authors:
+  - jamshyd-godrej
+  - bhavna-doshi
+  - s-s-bhandare
 editors: []
 contributors:
 - role: author

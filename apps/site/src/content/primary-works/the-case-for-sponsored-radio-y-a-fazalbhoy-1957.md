@@ -4,7 +4,8 @@ title:
   main: THE CASE FOR SPONSORED RADIO
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - y-a-fazalbhoy
 editors: []
 contributors: []
 related_thinkers:
@@ -26,7 +27,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - public-sector-critique
+  - regulatory-state-critique
+  - capitalism-defence
 summary: "Y. A. Fazalbhoy's 1957 pamphlet, drawn from an address to the Santa Cruz Rotary Club in Bombay, makes the case for permitting privately owned, advertiser-funded \"Sponsored Radio\" to operate in India alongside the state-run All-India Radio. Writing against the recent verdict of Dr. Keskar, the Minister for Information & Broadcasting, that commercial broadcasting would lower programme quality and let foreign industrial interests dominate the airwaves, Fazalbhoy is careful to clarify his proposal: he does not ask that AIR adopt commercial broadcasting or that its network be handed over to private enterprise, only that sponsored stations be allowed to supplement it.\n\nThe argument is structured as a pragmatic answer to each of the government's objections. Fazalbhoy treats broadcasting as a far-reaching publicity medium that can extend market reach to villages, stimulate Indian industry, and supplement AIR's own programming, much as advertising-funded newspapers supplement the state. He invokes the cinema as a parallel: a free, taxed, culturally vigorous enterprise that has not corrupted national taste.…"
 needs_review: true
 draft: false

@@ -22,7 +22,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - constitutionalism
+  - rule-of-law
+  - judicial-independence
+  - civil-liberty
+  - separation-of-powers
+  - emergency-critique
+  - individual-rights
 summary: "Written during the Emergency and reprinted from the Illustrated Weekly of India (4-10 January 1976), N. A. Palkhivala's pamphlet is a constitutional alarm bell. He opens with the wry observation that, however acute the recession, the law-making industry remains in perpetual boom, and argues that what India needs is respite from the Niagara of Rules and Notifications rather than fresh amendments. The Supreme Court and High Courts, he insists, must never be deprived of their power under Articles 32 and 226 to interpret the Constitution and shield citizens from executive excess. He invokes Lord Atkin in Eshugbayi Eleko's case to defend the British-derived tradition that judges must not shrink from confronting the executive, and offers contemporary illustrations—the Bombay Police Commissioner's blanket ban on assemblies of five or more, struck down on 18 December 1975, and the startling proposition in Bhanudas Krishna Gawde's case that a detenu could not contest even an order forbidding him to eat.\n\nThe argumentative core is a defence of the Supreme Court's April 1973 ruling in Kesavananda Bharati that Parliament cannot alter or destroy the Constitution's basic structure.…"
 needs_review: true
 draft: false

@@ -28,7 +28,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - economic-liberty
+  - public-sector-critique
+  - agricultural-reform
+  - capitalism-defence
+  - emergency-critique
+  - regulatory-state-critique
+  - press-freedom
+  - free-speech
+  - decentralisation
 summary: "J. H. Doshi, an industrialist and President of the Forum of Free Enterprise, reports on a ten-day Federation of Indian Chambers of Commerce & Industry delegation visit to China in 1978, comparing it with a previous trip in 1958. He frames China and India as the two great post-war experiments in economic growth — one totalitarian-socialist, the other a democracy newly emerging from Emergency rule — and uses observations from Peking, Shanghai, Hangchow and Canton to take stock of what three decades of central planning have delivered. Doshi credits China with conspicuous gains in agriculture (afforestation, water conservation, cropping intensity, 280 million tonnes of foodgrains against India's 125), in heavy industry (steel, coal, petro-chemicals, ambitious 1985 targets), and in basic living standards: full employment of a sort, clean public spaces, rationed essentials, low wage disparity, and a visibly fed population with no beggars.\n\nBut the report is equally insistent on the costs and the recent reversal. There is no press, no freedom of expression, no freedom of movement; everything is rationed; even marriage requires departmental permission.…"
 needs_review: true
 draft: false

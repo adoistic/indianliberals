@@ -24,7 +24,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - economic-liberty
+  - regulatory-state-critique
+  - public-sector-critique
+  - cold-war-positioning
+  - governance-reform
+  - free-trade
+  - federalism
+  - restructuring-as-global-process
 summary: "Viren J. Shah's 1988 Forum of Free Enterprise pamphlet treats Mikhail Gorbachev's perestroika not as a Soviet curiosity but as the local expression of a planet-wide turn against over-centralised economic management. Drawing extensively on long block-quotations from Gorbachev's 'Perestroika: New Thinking for our Country and the World', Shah lets the General Secretary make the case in his own voice: that the old Soviet machinery lacked inner stimuli for self-development, that wages had been detached from end results, that ministries had to surrender day-to-day regimentation, and that enterprises should henceforth operate on the principle 'everything which is not prohibited by law is allowed.' Shah pauses to note that the diagnostic passages echo, with uncanny fidelity, Milovan Djilas's analysis of the communist 'New Class' written three decades earlier.\n\nThe second movement of the address widens the lens.…"
 needs_review: true
 draft: false

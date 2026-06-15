@@ -4,7 +4,8 @@ title:
   main: Revival of Swadeshi Spirit —An Answer to Smuggling
   subtitle: ""
 work_type: pamphlet
-authors: []
+authors:
+  - s-r-vakil
 editors: []
 contributors: []
 related_thinkers:
@@ -26,7 +27,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - regulatory-state-critique
+  - monetary-policy
+  - public-sector-critique
+  - anti-corruption
+  - rule-of-law
+  - fiscal-policy
+  - swadeshi-and-self-reliance
+  - smuggling-and-black-market
 summary: "S. R. Vakil's 1974 pamphlet, published by the Forum of Free Enterprise (Bombay) and based on public lectures he had been delivering as a Bombay solicitor and authority on foreign exchange laws, frames smuggling as the urgent moral and economic crisis of post-independence India. Vakil opens with an autobiographical recollection of the Salt Satyagraha during his school days in Surat and offers a twin thesis: that the 'Parallel Government' run by smugglers can only be uprooted by reviving the Swadeshi spirit and boycotting foreign luxury goods, and that 'Religion and Economics are obverse and reverse of the same coin'.\n\nThe body of the pamphlet marshals striking trade statistics — Dubai's role as a free-port clearing house for gold, silver, watches, transistors, textiles and consumer luxuries; sterling-denominated import figures for 1962–1969; British estimates of Indian silver hoards at five thousand million ounces (£4.8 billion / Rs. 9,000 crores) in 1968; and the 39,925,100 ounces of Indian silver officially exported from Dubai to Britain in eleven months of 1968.…"
 needs_review: true
 draft: false

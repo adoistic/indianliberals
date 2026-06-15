@@ -27,7 +27,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - planning-critique
+  - public-sector-critique
+  - capitalism-defence
+  - regulatory-state-critique
 summary: "A. D. Shroff's October 1956 address to the Commerce Graduates' Association in Bombay is a point-by-point rebuttal of two then-current charges against Indian private enterprise: Union Commerce and Industry Minister T. T. Krishnamachari's quip at Madurai that 'Private Enterprise has failed me', and the Prime Minister's contention in Calcutta that private enterprise and democracy are incompatible. Shroff acknowledges the constraints of the post-Independence regulatory environment — 'discriminating protection', the Industries (Development and Regulation) Act of 1951, and the nationalisation of the Imperial Bank, life insurance and Indian Airlines — and argues that private industry has nonetheless carried the bulk of the country's industrial growth.\n\nHe marshals official data to make the case: the Planning Commission's own publication concedes that public-sector investment under the First Plan was running far below the estimate of Rs.…"
 needs_review: true
 draft: false

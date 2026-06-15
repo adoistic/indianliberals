@@ -4,7 +4,8 @@ title:
   main: Some Economic Aspects and Problems of Under-Developed Countries
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - p-t-bauer
 editors: []
 contributors:
 - role: author

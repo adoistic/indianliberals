@@ -4,7 +4,8 @@ title:
   main: Population and Economic Development In India
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - n-r-narayana-murthy
 editors: []
 contributors:
 - role: author
@@ -34,7 +35,17 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - education
+  - health-policy
+  - urban-policy
+  - capitalism-defence
+  - biographical-tribute
+  - liberalism-as-tradition
+  - governance-reform
+  - population-policy
+  - human-capital
 summary: 'This booklet reproduces the 38th A. D. Shroff Memorial Lecture, delivered
   by N. R. Narayana Murthy in Mumbai on 8 April 2005 and published by the Forum of
   Free Enterprise. An introduction by Minoo R. Shroff frames the lecture within the

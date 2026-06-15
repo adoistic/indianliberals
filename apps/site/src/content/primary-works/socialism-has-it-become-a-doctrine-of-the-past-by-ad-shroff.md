@@ -24,7 +24,12 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - socialism-debate
+  - planning-critique
+  - public-sector-critique
+  - capitalism-defence
+  - economic-liberty
 summary: "A. D. Shroff's pamphlet, issued by the Forum of Free Enterprise, mounts a brisk polemic against the Indian socialist consensus of the late 1950s. Shroff opens by inverting the familiar charge that free-enterprise advocates are 'out of date': in his telling, it is the Indian socialists and communists who cling to dogmas that even Austria, Yugoslavia and the United Kingdom's own Labour Party have begun to discard. To make that case he marshals a string of testimonies from senior British Labour figures — Clement Attlee, Aneurin Bevan, R. H. S. Crossman, Norman Dodds, Francis Noel-Baker, and the economist Thomas Balogh — each conceding that nationalisation had failed to deliver on its theoretical promises and had often left workers and consumers worse off than under private industry.\n\nShroff then turns the lens onto India. He argues that the country's public-sector enterprises, far from being more humane or efficient than private firms, have generated a bureaucratic class he calls 'Chota Hitlers' — officials so convinced of their own indispensability that they cannot conceive of the private sector outperforming them.…"
 needs_review: true
 draft: false

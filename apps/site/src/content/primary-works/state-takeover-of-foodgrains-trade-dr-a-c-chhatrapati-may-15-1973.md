@@ -4,7 +4,8 @@ title:
   main: STATE TAKEOVER OF FOODGRAINS TRADE
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - a-c-chhatrapati
 editors: []
 contributors: []
 related_thinkers:
@@ -25,7 +26,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - agricultural-reform
+  - economic-liberty
+  - regulatory-state-critique
+  - free-trade
+  - socialism-debate
+  - capitalism-defence
 summary: "Dr. A. C. Chhatrapati's pamphlet argues that the Government of India's 1973 decision to take over the wholesale trade in wheat and rice is an unwise and unworkable expansion of state economic power, taken without serious public debate. Drawing on his expertise in agricultural economics, he walks the reader through the role of the private wholesaler — financing producers, grading produce, storing surpluses, smoothing price movements between primary and consuming markets — and contends that no democratic country has abandoned free markets in foodgrains; only Communist regimes have done so, and they are now retreating from the experiment. He warns that the stated objectives of the takeover (eliminating speculation, ensuring remunerative prices to farmers, reasonable prices to consumers, and elimination of intermediaries) cannot be reconciled with the operational reality that the Food Corporation of India (FCI) is already procuring wheat at Rs. 76 per quintal but selling at Rs. 78, and would have to absorb Rs. 18.45 per quintal of subsidy on wheat and Rs.…"
 needs_review: true
 draft: false

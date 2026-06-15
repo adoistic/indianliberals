@@ -30,7 +30,9 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - capitalism-defence
+  - economic-liberty
 summary: "Delivered on 12 January 1979 as the Murarji Vaidya Memorial Lecture under the joint auspices of the Bombay Productivity Council and the Murarji J. Vaidya Memorial Trust, A. N. Haksar's address — published in April 1979 as a Forum of Free Enterprise booklet — sets out to rescue the word \"Productivity\" from its many competing meanings and to weld it to a humane management philosophy. Haksar, then Chairman of India Tobacco Company, complains that productivity has \"as many different meanings and interpretations as the word Socialism\" and that departmentalised accountants, engineers, purchase managers and personnel officers each mutilate the term to suit their own discipline; the predictable result, he says, is the cost-cutting drive that \"starts with a bang\" and \"dies with a whimper.\"\n\nAt the heart of the lecture is a conceptual substitution: in place of \"Productivity\" Haksar proposes \"Internal Profit\" — the quality, quantity and cost of goods and services entirely under the company's control — paired with \"external profit\" from the marketplace.…"
 needs_review: true
 draft: false

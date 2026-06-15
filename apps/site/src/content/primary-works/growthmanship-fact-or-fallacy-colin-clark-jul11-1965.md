@@ -4,7 +4,8 @@ title:
   main: '"Growthmanship": Fact and Fallacy'
   subtitle: ''
 work_type: essay
-authors: []
+authors:
+  - colin-clark
 editors: []
 contributors:
 - role: introduction

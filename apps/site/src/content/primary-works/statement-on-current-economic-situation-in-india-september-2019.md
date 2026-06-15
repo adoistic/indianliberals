@@ -25,7 +25,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-liberty
+  - public-sector-critique
+  - regulatory-state-critique
+  - fiscal-policy
+  - free-trade
+  - governance-reform
+  - property-rights
+  - women-rights
 summary: "Published in September 2019 by the Forum of Free Enterprise, this short booklet is an institutional position paper addressed to Parliament and the wider public on India's then-slowing economy. The Forum frames the moment — a six-year-low GDP growth rate of 5%, the stated ambition of a $5 trillion economy by 2024, and a million young people entering the workforce each month — as a 1991-style opportunity to push through structural reform. It calls for a special session of Parliament that listens to industry and agriculture and commits to a higher growth trajectory of 8–9% sustained over seven years, arguing that with an unstable external environment the answers must be found internally.\n\nThe core of the statement is a numbered list of eight critical issues on the relationship between government and the private sector: (1) the role of government should be confined to rules of the game and law and order, with major spending channelled through the private sector and the release of an estimated Rs 12 lakh crore of undisputed government dues; (2) loss-making public sector units such as Air India, BSNL and MTNL must be disinvested, banks and insurance companies privatised, with divestmen…"
 needs_review: true
 draft: false

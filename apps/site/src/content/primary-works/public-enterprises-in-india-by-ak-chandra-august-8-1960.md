@@ -4,7 +4,8 @@ title:
   main: PUBLIC ENTERPRISES IN INDIA
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - a-k-chanda
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - planning-critique
+  - regulatory-state-critique
+  - governance-reform
+  - economic-liberty
+  - state-enterprise-autonomy
 summary: "A. K. Chanda, writing as Comptroller and Auditor-General of India, examines the rapid post-Independence expansion of state enterprise in India and argues that the institutional habits of departmental government are choking the very public ventures the Centre has staked its industrial future on. He traces the lineage of the public sector from the nationalisation of the railways in 1924 and the equity capital of the Reserve Bank to the Industrial Policy Resolution of 1948, which made state initiative \"a significant ingredient of her economic development\". Drawing on Herbert Morrison and on British experience under nationalisation, Chanda insists that a corporate enterprise needs autonomy and elasticity if it is to deliver the very purposes for which it was created.\n\nThe essay then turns to the practical record. Chanda catalogues failures of planning, location, and execution — the loss of eighteen months at Rourkela, the eleven-crore Konar Dam dedicated by the Prime Minister but not yet producing a kilowatt of power or an irrigated acre, contracts placed with under-qualified firms despite warnings, and the political and parochial pressures determining the siting of steel refineries.…"
 needs_review: true
 draft: false

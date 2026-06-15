@@ -4,7 +4,8 @@ title:
   main: REGULATION OF THE CAPITAL MARKET AND THE ROLE OF SEBI
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - gv-ramakrishna
 editors: []
 contributors: []
 related_thinkers:

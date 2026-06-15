@@ -26,7 +26,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - fiscal-policy
+  - economic-liberty
+  - land-reform
+  - federalism
+  - food-policy
 summary: "T. A. Pai, identified on the title page as the first Chairman of the Food Corporation of India, delivers a sharply practical critique of India's food policy seventeen years after independence and three Five-Year Plans. Writing in September 1966 against the backdrop of monsoon failures and continued dependence on imported wheat (notably PL-480 shipments from the United States), Pai argues that India faces a still graver problem as its population swells by another 7.5 crores in the coming five years, and that the only durable answer is to raise per-acre yields through hybrid seeds, fertilisers, assured water, and chemical pest control — a technology-led agricultural revolution rather than another round of incremental planning.\n\nMuch of the booklet is an inventory of failures Pai locates in the deficit States (Kerala, Maharashtra, Gujarat, West Bengal), in the bottlenecks of milling, storage, transport, and distribution, and in the surplus States' reluctance to part with their grain.…"
 needs_review: true
 draft: false

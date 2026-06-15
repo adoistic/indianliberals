@@ -4,7 +4,8 @@ title:
   main: PRINCIPLES OF A SOUND PERSONNEL POLICY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - s-r-mohan-das
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - capitalism-defence
+  - industrial-relations
+  - human-resources-management
 summary: "S. R. Mohan Das, Director of the Industrial Relations Institute of India, sets out the architecture of an effective personnel policy for industrial organisations. Adapted from a talk delivered at the Forum of Free Enterprise on 26 September 1975 and issued by the Forum as a booklet in March 1976, the text distinguishes material from human resources and argues that under-developed societies err in assuming that sheer population can be slotted into the industrial system without a prior 'quality transformation'. Personnel management, on Mohan Das's account, is the integrated discipline of generating, selecting, inducting, training, utilising and severing human resources so they can function as an integrated team across the work and non-work spheres of the enterprise.\n\nThe argumentative spine is a typology of three interest groups inside the organisation — owners, employees with management responsibilities, and workmen — plus three external constituencies (government, suppliers, clients). Each carries partisan claims, and the personnel function exists to mediate them as a continuous, multi-level, power-balancing relationship rather than a litigatory or peace-keeping exercise.…"
 needs_review: true
 draft: false

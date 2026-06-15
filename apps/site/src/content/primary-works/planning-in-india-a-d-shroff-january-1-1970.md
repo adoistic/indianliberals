@@ -27,7 +27,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - economic-liberty
+  - fiscal-policy
+  - monetary-policy
+  - public-sector-critique
+  - agricultural-reform
+  - capitalism-defence
 summary: "Delivered as a talk at Vivekananda College, Madras, on 17 January 1957 and reprinted by the Forum of Free Enterprise, this pamphlet is A. D. Shroff's pointed but reasoned critique of India's Second Five-Year Plan. Shroff opens by establishing his own planning credentials — he had a hand in the 1944 Bombay Plan, drafted by eight businessmen — and accepts that a poor country with a fast-growing population must develop in a planned way. His argument is not against planning as such, but against planning that lets ideology displace economic reality.\n\nThe central charge is that the government has set political priorities (heavy industry over consumer goods, public sector over private) ahead of practical ones (food and cloth for a population growing by five million a year). He walks through cotton, jute, handloom, and steel to show how partition, ideology, and over-ambition have produced gluts in some sectors and shortages in others.…"
 needs_review: true
 draft: false

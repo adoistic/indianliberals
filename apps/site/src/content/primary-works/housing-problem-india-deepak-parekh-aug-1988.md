@@ -4,7 +4,8 @@ title:
   main: Housing Problem in India — Today and 2000 A.D.
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - deepak-parekh
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - urban-policy
+  - regulatory-state-critique
+  - property-rights
+  - planning-critique
+  - public-sector-critique
+  - economic-liberty
+  - housing-policy
 summary: "Deepak S. Parekh, then Managing Director of HDFC, uses a Forum of Free Enterprise lecture (delivered 1 June 1988) to lay out the scale, causes and likely trajectory of India's housing shortage as the country approaches the year 2000. He concedes that the early post-independence neglect of housing was understandable while food, irrigation and heavy industry took priority, but argues that with food production no longer an overriding crisis, housing and education are now the country's two paramount basic-needs problems. Using NBO data he charts a shortage rising from 9 million units in 1951 to a projected 39.1 million by 2001, with about 30 million urban Indians already living in slums and one-fifth of the population effectively houseless or sub-standardly housed.\n\nParekh traces the worsening situation to five reinforcing factors: a population explosion projected to cross one billion by 2000, accelerating rural-to-urban migration (urban growth at ~4% versus general 2–2.5%), the historically low priority accorded to housing in the Five-Year Plans (investment falling from 34% in the First Plan to ~10% in the Seventh, public housing investment from 16% to 1.6%), restrictive laws and re…"
 needs_review: true
 draft: false

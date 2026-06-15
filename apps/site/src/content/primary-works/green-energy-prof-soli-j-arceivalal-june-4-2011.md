@@ -26,7 +26,10 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - energy-policy
+  - environmental-policy
+  - public-sector-critique
 summary: "Green Energy is a Forum of Free Enterprise booklet by Prof. Soli J. Arceivala, an environmental engineer and former Chief Environmental Health expert with WHO/UN South-East Asia. Editor Sunil S. Bhandare's introduction frames the core dilemma: India's per capita energy availability must rise six-fold over the coming decades, yet its room for additional carbon emissions is only about three-fold — a structural mismatch between development aspiration and ecological constraint. Arceivala's reply, written in plain prose for a general policy audience, is that India must mainstream renewables now and treat them as the price-competitive default rather than a virtuous luxury.\n\nThe bulk of the booklet is a practitioner's tour of alternative-energy options. Arceivala concentrates on the three he judges most viable at 2011 prices — wind, solar, and biomass — and folds in shorter sections on hydro, shale gas, coal gas, LNG/CNG/LPG, biofuels (Jatropha and ethanol), nuclear, wave, and geo-thermal energy. Each is examined for installed capacity, capital cost, payback, land requirements, and policy frictions.…"
 needs_review: true
 draft: false

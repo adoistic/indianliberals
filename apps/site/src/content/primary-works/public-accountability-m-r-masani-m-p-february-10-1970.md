@@ -4,7 +4,8 @@ title:
   main: PUBLIC ACCOUNTABILITY
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - m-r-masani-m-p
 editors: []
 contributors: []
 related_thinkers:
@@ -26,7 +27,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - planning-critique
+  - capitalism-defence
+  - governance-reform
+  - separation-of-powers
+  - economic-liberty
 summary: "M. R. Masani's lecture, delivered under the auspices of the Forum of Free Enterprise in Bombay on 8 October 1969 and printed as a booklet on 10 February 1970, argues that public accountability — Parliament's actual capacity to scrutinise the expenditure of public money and the conduct of public enterprises — is the indispensable instrument by which untamed power is restrained in a parliamentary democracy. Drawing on his recent two-year term as Chairman of the Public Accounts Committee (1967–69), Masani opens with the old maxim 'no taxation without representation' and surveys three constitutional levers available to MPs: the vote on Demands for Budget Grants, parliamentary questions, and the standing financial committees (Public Accounts, Estimates, Public Undertakings). He finds each blunted in Indian practice: budget cuts are token, questions are wasted on the trivial, and even the committees suffer from a time-lag between spending and investigation that drains their findings of bite.\n\nThe bulk of the lecture is a sharp indictment of state industrial and commercial enterprises.…"
 needs_review: true
 draft: false

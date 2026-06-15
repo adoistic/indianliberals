@@ -4,7 +4,8 @@ title:
   main: Reflections on Global Trends and Sustainable Development
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - piya-mahtaney
 editors: []
 contributors: []
 related_thinkers: []
@@ -25,7 +26,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - socialism-debate
+  - regulatory-state-critique
+  - economic-liberty
+  - sustainable-development
+  - globalisation-critique
+  - poverty-reduction
 summary: "Piya Mahtaney opens this Forum of Free Enterprise booklet by characterising current global trends as \"chaotic, contradictory, perplexing and disappointing\" and asks whether the avowed objective of sustainable development can be achieved within a decade or two. Her central move is to refuse both purist positions on offer: she rejects the simplistic equation of higher inequality with higher growth, and she equally rejects the assumption that privatisation and deregulation will, on their own, deliver equity. Empirical evidence linking growth to poverty reduction, she notes, is mixed; redistributive tools have disincentive effects; and growth gains eroded by skewed income distribution are no real gains at all.\n\nThe middle of the essay marshals the Eastern bloc and former Soviet Union experience as evidence against market-fundamentalist optimism. For the period 1990–99 the GDP index for 25 transition countries and the FSU stood at 65 per cent and 54 per cent of pre-transition output respectively; Mahtaney attributes this contraction to weak states, the lack of well-defined central–local relations, an underdeveloped civil society, and the absence of accountability mechanisms.…"
 needs_review: true
 draft: false

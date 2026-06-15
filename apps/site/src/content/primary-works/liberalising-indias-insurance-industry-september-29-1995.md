@@ -4,7 +4,8 @@ title:
   main: LIBERALISING INDIA'S INSURANCE INDUSTRY
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - r-n-malhotra
 editors: []
 contributors:
 - role: author

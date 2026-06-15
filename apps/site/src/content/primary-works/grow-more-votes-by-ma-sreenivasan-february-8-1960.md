@@ -29,7 +29,16 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - agricultural-reform
+  - land-reform
+  - property-rights
+  - public-sector-critique
+  - party-politics
+  - socialism-debate
+  - capitalism-defence
+  - governance-reform
 summary: "\"Grow More Votes\" is a polemical Forum of Free Enterprise leaflet by M. A. Sreenivasan, dated 8 February 1960, that punningly turns the government's \"Grow More Food\" campaign on its head. Triggered by Union Food Minister A. P. Jain's resignation and the Lok Sabha debate that followed, Sreenivasan asks why an independent India of plenty of land and labour continues to import hundreds of crores of rupees worth of foodgrains every year. His single-word answer is \"Politics\" — agriculture, he argues, has been smothered by what he calls the \"Juggernaut of Avadi,\" the Socialist Pattern of Society, and by a ruling class of \"political panjandrums\" whose obsession with vote-catching slogans like \"Land belongs to the People\" and \"Land to the Landless\" has destroyed the security of land as property.\n\nThe leaflet defends private property in land by invoking the traditional Indian categories of sthira (permanent, immoveable property) and astha bhoga thejas swamyam (the owner's right to enjoy his land as long as the sun and moon last), and laments that title to land is now \"a scrap of paper that flutters about in each political breeze.\" Sreenivasan attacks absentee landlordism by Congress polit…"
 needs_review: true
 draft: false

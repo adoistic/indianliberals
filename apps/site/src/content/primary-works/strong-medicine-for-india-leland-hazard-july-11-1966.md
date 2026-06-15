@@ -29,7 +29,17 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - public-sector-critique
+  - regulatory-state-critique
+  - economic-liberty
+  - capitalism-defence
+  - agricultural-reform
+  - foreign-policy
+  - cold-war-positioning
+  - fiscal-policy
+  - foreign-aid-conditionality
 summary: "Leland Hazard's pamphlet, first published in the December 1965 Atlantic Monthly and reissued by the Forum of Free Enterprise in July 1966, is a Cold-War-era polemic that prescribes \"strong medicine\" for a country he depicts as militarily lifted by the Pakistan crisis but still hobbled by chronic economic and administrative diseases. Writing as a frequent visitor to India and a former industrialist-academic, Hazard urges the Western donor world to attach conditions to its aid: India must first put its own house in order before more grants, loans, and technical assistance keep flowing. He frames the failed Five-Year Plans, the swollen Delhi bureaucracy, and the cult of state ownership as obstacles that decades of well-meaning but unconditional foreign aid have allowed to harden.\n\nThe core argument is a critique of Nehruvian planning and what Hazard, citing John Kenneth Galbraith, calls \"post office socialism.\" He insists on decontrol of prices and competition, reform of the tax base, simplification of administration, and the replacement of seniority-bound generalist bureaucrats by technicians promoted on merit.…"
 needs_review: true
 draft: false

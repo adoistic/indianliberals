@@ -4,7 +4,8 @@ title:
   main: SOCIAL INSURANCE IN INDIA
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - b-p-adarkar
 editors: []
 contributors:
 - role: author
@@ -31,7 +32,12 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - health-policy
+  - public-sector-critique
+  - regulatory-state-critique
+  - planning-critique
+  - social-security-policy
 summary: 'Delivered on 22 June 1973 as the A. D. Shroff Memorial Lecture on Insurance,
   this is Prof. B. P. Adarkar''s retrospective on the social insurance system whose
   foundations he himself laid in 1944 with his Report on Health Insurance — the document

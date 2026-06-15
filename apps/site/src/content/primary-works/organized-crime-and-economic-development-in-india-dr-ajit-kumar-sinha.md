@@ -4,7 +4,8 @@ title:
   main: Organised Crime and Economic Development in India
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - anand-sinha
 editors: []
 contributors: []
 related_thinkers:
@@ -24,7 +25,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - anti-corruption
+  - regulatory-state-critique
+  - economic-liberty
+  - property-rights
+  - rule-of-law
+  - governance-reform
+  - organised-crime-and-development
 summary: "Dr. Ajit Kumar Sinha, then immediate past president of the Indian Economic Association, uses his 1999 Presidential address (reproduced by the Forum of Free Enterprise) to argue that organised crime — not just slow reform or weak institutions — has become the binding constraint on India's market transition. Writing at the close of the first decade of post-1991 liberalisation, he concedes that successive governments have held to a common economic agenda, but observes that headline indicators (HDI rank of 132/174, per-capita GNP rank of 165/210, FDI absorption a fraction of China's) lag behind expectations. The reason, he insists, is that markets cannot function without effective property rights, predictable law and protection of life and property — and crime syndicates have steadily eroded all three.\n\nThe pamphlet then walks through the evidence trail: the 1993 Vohra Committee's account of an entrenched nexus between criminals, politicians, bureaucracy and police; the Supreme Court's 1997 directive that produced a follow-up high-level committee under N. N. Vohra with B. G. Deshmukh and S. V.…"
 needs_review: true
 draft: false

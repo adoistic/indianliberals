@@ -4,7 +4,8 @@ title:
   main: "PLURALISM & MIXED ECONOMY — A BASIS FOR CENTRE-STATE RELATIONS"
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - v-k-narasimhan
 editors: []
 contributors: []
 related_thinkers:

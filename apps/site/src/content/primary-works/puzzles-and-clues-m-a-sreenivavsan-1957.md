@@ -29,7 +29,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - economic-liberty
+  - public-sector-critique
+  - regulatory-state-critique
+  - fiscal-policy
+  - capitalism-defence
+  - civil-liberty
 summary: "Published by the Forum of Free Enterprise in 1957 (reprinted from the Commerce Annual of that year), M. A. Sreenivasan's pamphlet diagnoses India's malaise at the end of the first decade of independence. Sreenivasan opens by conceding the period's impressive monuments — dams, hydro-electric installations, government factories, research laboratories — only to insist that real poverty, unemployment, and a rising cost of living remain untouched, and that the socialist pattern of society has further degraded middle-class life. The trouble, he argues, is a Government-made confusion: contradictory ministerial pronouncements on food control, taxation, deficit financing, and the place of the State leave the ordinary citizen bewildered, while a 'cocksureness' and 'unhealthy superiority complex' among rulers fresh to high office breed habits of idolatry and kowtowing.\n\nThe pamphlet's argumentative core is a libertarian-leaning warning against the intoxication of power. Sreenivasan recalls serving under autocratic maharajas and viceroys and judges that no viceroy or maharaja ever wielded as much unbridled authority as the present heads of the Central and State Governments.…"
 needs_review: true
 draft: false

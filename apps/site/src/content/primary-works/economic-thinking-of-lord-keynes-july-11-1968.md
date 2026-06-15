@@ -4,7 +4,8 @@ title:
   main: ECONOMIC THINKING OF LORD KEYNES
   subtitle: Socialist or Capitalist?
 work_type: pamphlet
-authors: []
+authors:
+  - dudley-dillard
 editors: []
 contributors:
 - role: author

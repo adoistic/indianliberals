@@ -32,7 +32,14 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - liberalism-as-tradition
+  - civil-liberty
+  - free-speech
+  - emergency-critique
+  - biographical-tribute
+  - press-freedom
+  - role-of-intellectuals
 summary: "This booklet reproduces the 14th A. D. Shroff Memorial Lecture, delivered by Prof. P. G. Mavalankar under the auspices of the Forum of Free Enterprise in Bombay on 30th October 1979. Opening with a tribute to A. D. Shroff as a rare individual whose clarity of thought, hard work and vision made him an effective crusader on the National Planning Committee and the Bombay Plan, Mavalankar argues that the real Shroff legacy is the discipline of expressing one's views firmly, without waiting for authority's permission. He insists, against the prevailing Indian habit, that public life is far vaster than political life — and that India's tragedy is the conflation of the two, which has polluted public life with the venalities of party politics.\n\nMavalankar then anatomises the intellectual. Drawing on Pericles, Lincoln, Mao Tse-Tung, J. S.…"
 needs_review: true
 draft: false

@@ -4,7 +4,8 @@ title:
   main: Problems and Prospects of Developing Countries
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - s-jagannathan-i-c-s-retd
 editors: []
 contributors:
 - role: author
@@ -30,7 +31,14 @@ rights:
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society;
     reproduced for archival access.
-themes: []
+themes:
+  - foreign-policy
+  - free-trade
+  - fiscal-policy
+  - monetary-policy
+  - agricultural-reform
+  - international-development
+  - north-south-relations
 summary: 'This 1980 A. D. Shroff Memorial Trust booklet prints a lecture S. Jagannathan,
   I.C.S. (Retd.) and former Governor of the Reserve Bank of India, delivered in Madras
   on 30th October 1980. After tributes to A. D. Shroff and an introduction by N. A.

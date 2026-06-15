@@ -4,7 +4,8 @@ title:
   main: SOCIAL ENTREPRENEURSHIP
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - mrs-indu-shahani
 editors: []
 contributors:
 - role: author

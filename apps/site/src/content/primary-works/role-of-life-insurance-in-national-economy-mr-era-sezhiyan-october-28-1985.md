@@ -4,7 +4,8 @@ title:
   main: Role of Life Insurance in National Economy
   subtitle: ''
 work_type: speech
-authors: []
+authors:
+  - era-sezhiyan
 editors: []
 contributors:
 - role: author

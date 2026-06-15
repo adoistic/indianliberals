@@ -4,7 +4,8 @@ title:
   main: Success in Agriculture Through Free Enterprise
   subtitle: ""
 work_type: speech
-authors: []
+authors:
+  - jr-henshaw
 editors: []
 contributors: []
 related_thinkers:
@@ -25,7 +26,13 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - agricultural-reform
+  - economic-liberty
+  - regulatory-state-critique
+  - fiscal-policy
+  - capitalism-defence
+  - property-rights
 summary: "In this Forum of Free Enterprise pamphlet — drawn from his presidential address to the 71st United Planters' Association of Southern India (UPASI) annual conference on September 1, 1964 — J. R. Henshaw argues that the conspicuous productivity gains made by South Indian plantation industries since 1947 (tea, coffee and rubber output all sharply up despite pests, disease and rising costs) prove the case for treating agriculture as a business rather than a sentimental way of life. The 'most important element' in farm progress, he insists, is first-class scientific management; ceilings on personal holdings and other land-reform measures aimed only at redistribution add little to the national economic dividend.\n\nThe second half of the pamphlet is a sustained critique of India's fiscal treatment of plantations. Henshaw argues that the cumulative weight of competing Central and State income taxes on agricultural income — uniquely Indian, in his telling — is starving the industry of the reserves it needs to expand.…"
 needs_review: true
 draft: false

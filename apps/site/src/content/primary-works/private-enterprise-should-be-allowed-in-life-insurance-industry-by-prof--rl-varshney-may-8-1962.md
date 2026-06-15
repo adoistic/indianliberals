@@ -4,7 +4,8 @@ title:
   main: PRIVATE ENTERPRISE SHOULD BE ALLOWED IN LIFE INSURANCE INDUSTRY
   subtitle: ""
 work_type: essay
-authors: []
+authors:
+  - prof-rl-varshney
 editors: []
 contributors: []
 related_thinkers: []
@@ -24,7 +25,11 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - public-sector-critique
+  - economic-liberty
+  - capitalism-defence
+  - regulatory-state-critique
 summary: "Prof. R. L. Varshney, an assistant professor at Lucknow University, mounts a sustained critique of the Life Insurance Corporation of India (LIC) six years after the 1956 nationalisation of life insurance, arguing that on every important index — premium rates, bonuses, agent quality, claims handling, expense ratios, and product range — the state monopoly has under-performed the private insurers it displaced. He marshals concrete comparisons: at the time of nationalisation an official communique promised a Re. 1 reduction in premiums per Rs. 1,000 of sum assured, yet in fact pre-nationalisation premium rates of leading Indian companies such as the Oriental and the New Asiatic were already lower than what the LIC now charges, and the bonuses paid out have fallen short of pre-takeover expectations. The growth in new business — Rs.…"
 needs_review: true
 draft: false

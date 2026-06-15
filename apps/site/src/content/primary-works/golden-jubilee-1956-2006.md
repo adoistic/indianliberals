@@ -31,7 +31,15 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - planning-critique
+  - capitalism-defence
+  - economic-liberty
+  - regulatory-state-critique
+  - fiscal-policy
+  - public-sector-critique
+  - biographical-tribute
+  - indian-liberal-history
 summary: "This short institutional retrospective, issued by the Forum of Free Enterprise to mark its golden jubilee, narrates the Forum's half-century journey from its 1956 founding to 2006. It locates the organisation's genesis in the \"ominous clouds of socialism\" of the mid-1950s: the Government's commitment to a state-directed economy, the nationalisations of coal, civil aviation and life insurance, and a propaganda climate that, in the Forum's reading, slandered private enterprise. A.D. Shroff and a circle of businessmen-publicists — Murarji Vaidya, M.A. Master, M.A. Sreenivasan and others — concluded that a centralised command economy was incompatible with a pluralist democracy, and built the Forum as a vehicle of economic education to defend the private sector and stem what they saw as drift toward totalitarianism.\n\nThe narrative tracks the Forum's institutional milestones: a 1957 Code of Conduct for business; Nani Palkhivala's long presidency (1968–2000) and his crusade against confiscatory taxation through the treatise *The Highest Taxed Nation*; an indictment of the licence-permit regime that, by the booklet's account, held GDP growth to 3.5% and per-capita income growth to 1.3% b…"
 needs_review: true
 draft: false

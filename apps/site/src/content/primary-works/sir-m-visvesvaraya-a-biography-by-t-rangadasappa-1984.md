@@ -4,7 +4,8 @@ title:
   main: Sir M. Visvesvaraya — A Biography
   subtitle: ''
 work_type: book
-authors: []
+authors:
+  - t-rangadasappa
 editors: []
 contributors:
 - role: author
