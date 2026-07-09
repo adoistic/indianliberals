@@ -1,0 +1,66 @@
+name: ThePrint auto-ingest
+
+# Mirrors new "Indian Liberals Matter" column pieces from ThePrint into the
+# repo as theprint-mirror markdown, then commits them. This runs entirely on
+# GitHub Actions — no Cloudflare deploy required — so ingestion is automatic.
+#
+# Schedule: weekly on Saturday (CCS round-2 feedback #16). Also runnable on
+# demand via the "Run workflow" button (workflow_dispatch).
+#
+# To also ingest the Hindi column, set a repository variable RSS_FEED_URL_HI
+# (Settings → Secrets and variables → Actions → Variables) to the Hindi
+# "Indian Liberals Matter" RSS URL; its pieces are mirrored with language: "hi".
+
+on:
+  schedule:
+    - cron: "30 4 * * 6" # Saturdays 04:30 UTC = 10:00 IST
+  workflow_dispatch:
+
+# Never run two ingests at once.
+concurrency:
+  group: theprint-ingest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history for the admin-edit guard)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install ingest dependencies
+        working-directory: apps/theprint-ingest
+        run: npm install --no-audit --no-fund
+
+      - name: Run ingest
+        id: ingest
+        working-directory: apps/theprint-ingest
+        env:
+          # Feeds. RSS_FEED_URL_HI is optional (repo variable); leave unset for English only.
+          RSS_FEED_URL: "https://theprint.in/category/opinion/indian-liberals-matter/feed/"
+          RSS_FEED_URL_HI: ${{ vars.RSS_FEED_URL_HI }}
+          BOT_COMMIT_EMAIL: "theprint-ingest@indianliberals.in"
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+        run: npm run ingest:repo
+
+      - name: Commit new mirror files
+        run: |
+          git config user.name "theprint-ingest-bot"
+          git config user.email "theprint-ingest@indianliberals.in"
+          if [ -n "$(git status --porcelain apps/site/src/content/theprint-mirror)" ]; then
+            git add apps/site/src/content/theprint-mirror
+            git commit -m "chore(theprint-ingest): weekly mirror update [skip ci]"
+            git push
+          else
+            echo "No new or changed ThePrint pieces."
+          fi
