@@ -313,7 +313,7 @@ const primaryWorks = defineCollection({
       .array(
         z.object({
           thinker: reference('thinkers').optional(),
-          thinker_unresolved: z.string().optional(),
+          thinker_unresolved: z.string().nullable().optional(),
           role: z.string(), // "author" | "editor" | "translator" | "foreword" | "introduction" | other
           toc_index: z.number().int().optional(),
         }),
