@@ -1,6 +1,9 @@
 // ThePrint ingest worker — scheduled (cron) handler.
 //
-// Daily flow:
+// Runs weekly (Saturday) and mirrors one or more "Indian Liberals Matter"
+// column feeds (English always; Hindi when RSS_FEED_URL_HI is configured).
+//
+// Per-feed flow:
 //   1. Fetch the "Indian Liberals Matter" RSS feed.
 //   2. Load the blocklist from the repo (data/theprint-blocklist.json).
 //   3. For each feed item, in order, up to MAX_ITEMS_PER_RUN:
@@ -28,6 +31,10 @@ interface Env {
   BOT_COMMIT_AUTHOR: string;
   BOT_COMMIT_EMAIL: string;
   RSS_FEED_URL: string;
+  // Optional Hindi "Indian Liberals Matter" column feed. When set, its items
+  // are mirrored with language: "hi" (CCS round-2 feedback #16a). Leave unset
+  // and the worker behaves exactly as before (English only).
+  RSS_FEED_URL_HI?: string;
   CONTENT_PATH: string;
   BLOCKLIST_PATH: string;
   MAX_ITEMS_PER_RUN: string;
@@ -90,24 +97,15 @@ async function runIngest(env: Env, mode: 'cron' | 'manual'): Promise<IngestSumma
   };
 
   try {
-    // 1. Fetch the RSS feed
-    log('fetching_feed', { url: env.RSS_FEED_URL });
-    const feedResp = await fetch(env.RSS_FEED_URL, {
-      headers: {
-        // Identify ourselves so ThePrint can rate-limit / contact us if needed.
-        'User-Agent': 'indianliberals-theprint-ingest/0.1 (+https://indianliberals.in)',
-        'Accept': 'application/rss+xml, application/xml, text/xml',
-      },
-    });
-    if (!feedResp.ok) {
-      throw new Error(`RSS fetch failed: ${feedResp.status} ${feedResp.statusText}`);
-    }
-    const feedXml = await feedResp.text();
-    const items = parseRssFeed(feedXml);
-    summary.itemsFetched = items.length;
-    log('feed_parsed', { items: items.length });
+    // The set of column feeds to mirror. English is always present; the Hindi
+    // "Indian Liberals Matter" column is added when RSS_FEED_URL_HI is set
+    // (CCS round-2 feedback #16a). Adding more languages is a config change.
+    const feeds: { url: string; language: string }[] = [
+      { url: env.RSS_FEED_URL, language: 'en' },
+    ];
+    if (env.RSS_FEED_URL_HI) feeds.push({ url: env.RSS_FEED_URL_HI, language: 'hi' });
 
-    // 2. Load the blocklist (best-effort — empty if file missing)
+    // GitHub client + blocklist, loaded once for all feeds.
     const gh = new GitHubClient({
       token: env.GITHUB_TOKEN,
       repo: env.GITHUB_REPO,
@@ -129,52 +127,77 @@ async function runIngest(env: Env, mode: 'cron' | 'manual'): Promise<IngestSumma
       // intentionally-removed file, but the admin-edit guard catches that).
     }
 
-    // 3. Iterate items
     const maxItems = parseInt(env.MAX_ITEMS_PER_RUN, 10) || 10;
     const mirroredOnIso = new Date().toISOString().slice(0, 10);
 
-    for (const item of items.slice(0, maxItems)) {
-      summary.itemsConsidered += 1;
-      const slug = slugFromUrl(item.link, item.title);
-      const path = `${env.CONTENT_PATH}/${slug}.md`;
-
+    for (const feed of feeds) {
+      // 1. Fetch the feed. A failure on one feed must not abort the others.
+      log('fetching_feed', { url: feed.url, language: feed.language });
+      let items;
       try {
-        // (a) Blocklist
-        if (blocklist.has(item.link.toLowerCase())) {
-          summary.skippedBlocklist.push(slug);
-          continue;
+        const feedResp = await fetch(feed.url, {
+          headers: {
+            // Identify ourselves so ThePrint can rate-limit / contact us if needed.
+            'User-Agent': 'indianliberals-theprint-ingest/0.1 (+https://indianliberals.in)',
+            'Accept': 'application/rss+xml, application/xml, text/xml',
+          },
+        });
+        if (!feedResp.ok) {
+          throw new Error(`RSS fetch failed: ${feedResp.status} ${feedResp.statusText}`);
         }
-
-        // (b) Admin-edit guard — Critical Gap T20 fix
-        const lastCommit = await gh.lastCommitAuthor(path);
-        if (isAdminEdited(lastCommit, env.BOT_COMMIT_EMAIL)) {
-          summary.skippedAdminEdit.push(slug);
-          log('skip_admin_edited', { slug, lastCommit });
-          continue;
-        }
-
-        // (c) Generate target content
-        const targetContent = rssItemToMarkdown(item, { mirroredOnIso, slug });
-
-        // (d) Read existing for no-op detection
-        const existing = await gh.getFile(path);
-        if (existing && existing.content === targetContent) {
-          summary.skippedNoChange.push(slug);
-          continue;
-        }
-
-        // (e) Write
-        const message = existing
-          ? `chore(theprint-ingest): refresh ${slug}`
-          : `feat(theprint-ingest): mirror ${slug}`;
-        await gh.putFile(path, targetContent, { sha: existing?.sha, message });
-
-        if (existing) summary.updated.push(slug);
-        else summary.created.push(slug);
-        log(existing ? 'updated' : 'created', { slug, url: item.link });
+        items = parseRssFeed(await feedResp.text());
       } catch (e) {
-        summary.errors.push({ slug, reason: String(e) });
-        log('item_error', { slug, error: String(e) });
+        summary.errors.push({ slug: `__feed_${feed.language}__`, reason: String(e) });
+        log('feed_error', { url: feed.url, language: feed.language, error: String(e) });
+        continue;
+      }
+      summary.itemsFetched += items.length;
+      log('feed_parsed', { language: feed.language, items: items.length });
+
+      // 2. Iterate this feed's items
+      for (const item of items.slice(0, maxItems)) {
+        summary.itemsConsidered += 1;
+        const slug = slugFromUrl(item.link, item.title);
+        const path = `${env.CONTENT_PATH}/${slug}.md`;
+
+        try {
+          // (a) Blocklist
+          if (blocklist.has(item.link.toLowerCase())) {
+            summary.skippedBlocklist.push(slug);
+            continue;
+          }
+
+          // (b) Admin-edit guard — Critical Gap T20 fix
+          const lastCommit = await gh.lastCommitAuthor(path);
+          if (isAdminEdited(lastCommit, env.BOT_COMMIT_EMAIL)) {
+            summary.skippedAdminEdit.push(slug);
+            log('skip_admin_edited', { slug, lastCommit });
+            continue;
+          }
+
+          // (c) Generate target content (language-tagged for non-en columns)
+          const targetContent = rssItemToMarkdown(item, { mirroredOnIso, slug, language: feed.language });
+
+          // (d) Read existing for no-op detection
+          const existing = await gh.getFile(path);
+          if (existing && existing.content === targetContent) {
+            summary.skippedNoChange.push(slug);
+            continue;
+          }
+
+          // (e) Write
+          const message = existing
+            ? `chore(theprint-ingest): refresh ${slug}`
+            : `feat(theprint-ingest): mirror ${slug}`;
+          await gh.putFile(path, targetContent, { sha: existing?.sha, message });
+
+          if (existing) summary.updated.push(slug);
+          else summary.created.push(slug);
+          log(existing ? 'updated' : 'created', { slug, url: item.link, language: feed.language });
+        } catch (e) {
+          summary.errors.push({ slug, reason: String(e) });
+          log('item_error', { slug, error: String(e) });
+        }
       }
     }
   } catch (e) {

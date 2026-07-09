@@ -69,12 +69,16 @@ const searchIndex = allThinkers
   );
 
 // The canon page renders the uniform duotone treatment for consistency
-// (CCS feedback 2.2). Originals remain on the detail pages.
+// (CCS feedback 2.2). Originals remain on the detail pages. `mono` marks a
+// source that is already black-and-white (the pre-generated duotone); any
+// other fallback (a colour photo or ring portrait) is forced to grayscale at
+// render so no colour image slips onto the home/canon rails (CCS round-2
+// feedback #18b).
 const treatmentFor = (t: typeof allThinkers[number]) => {
-  if (t.data.portrait?.duotone) return { src: t.data.portrait.duotone, kind: "ring" } as const;
-  if (t.data.portrait?.caricature) return { src: t.data.portrait.caricature, kind: "caricature" } as const;
-  if (t.data.portrait?.ring_portrait) return { src: t.data.portrait.ring_portrait, kind: "ring" } as const;
-  if (t.data.portrait?.photo) return { src: t.data.portrait.photo, kind: "photo" } as const;
+  if (t.data.portrait?.duotone) return { src: t.data.portrait.duotone, kind: "ring", mono: true } as const;
+  if (t.data.portrait?.caricature) return { src: t.data.portrait.caricature, kind: "caricature", mono: false } as const;
+  if (t.data.portrait?.ring_portrait) return { src: t.data.portrait.ring_portrait, kind: "ring", mono: false } as const;
+  if (t.data.portrait?.photo) return { src: t.data.portrait.photo, kind: "photo", mono: false } as const;
   return null;
 };
 
@@ -243,10 +247,9 @@ const prettifyVocation = (v: string): string => {
                     width="240"
                     height="320"
                     loading="lazy"
-                    class={treatment.kind === "ring"
-                      ? "w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
-                      : "w-full h-full object-contain object-bottom group-hover:scale-[1.02] transition-transform duration-300"
-                    }
+                    class={`${treatment.kind === "ring"
+                      ? "w-full h-full object-cover"
+                      : "w-full h-full object-contain object-bottom"} ${treatment.mono ? "" : "grayscale"} group-hover:scale-[1.02] transition-transform duration-300`}
                   />
                 ) : (
                   <span class="text-(--color-fg-muted) text-4xl font-(family-name:--font-display) opacity-30">
@@ -305,7 +308,7 @@ const prettifyVocation = (v: string): string => {
               <a href={`/thinkers/${t.id}/`} class="group block no-underline">
                 <div class="aspect-square bg-(--color-bg) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
                   {treatment ? (
-                    <img src={treatment.src} alt="" width="180" height="180" loading="lazy" class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300" />
+                    <img src={treatment.src} alt="" width="180" height="180" loading="lazy" class={`w-full h-full object-cover ${treatment.mono ? "" : "grayscale"} group-hover:scale-[1.02] transition-transform duration-300`} />
                   ) : (
                     <span class="text-(--color-fg-muted) text-3xl font-(family-name:--font-display) opacity-30">
                       {t.data.name.canonical.charAt(0)}

@@ -17,6 +17,13 @@ export interface MdEmitOpts {
   mirroredOnIso: string; // YYYY-MM-DD
   /** Article slug — used as the entry id. */
   slug: string;
+  /**
+   * Language code of the source column ('en', 'hi', ...). Defaults to 'en'.
+   * A `language:` frontmatter line is emitted only for non-English pieces, so
+   * existing English mirror files stay byte-identical (the no-op guard in the
+   * worker depends on that). Hindi ThePrint columns come through this path.
+   */
+  language?: string;
 }
 
 export function rssItemToMarkdown(item: RssItem, opts: MdEmitOpts): string {
@@ -39,6 +46,11 @@ function emitFrontmatter(item: RssItem, opts: MdEmitOpts): string {
   lines.push(`pubDate: ${item.pubDate.toISOString()}`);
   lines.push(`author_name: ${yamlString(item.author || 'ThePrint contributor')}`);
   lines.push(`theprint_url: ${yamlString(item.link)}`);
+  // Only emit `language` for non-English columns; English is the schema
+  // default and omitting it keeps existing en files byte-identical.
+  if (opts.language && opts.language !== 'en') {
+    lines.push(`language: ${yamlString(opts.language)}`);
+  }
   lines.push(`themes: ${themes.length ? `[${themes.map(yamlString).join(', ')}]` : '[]'}`);
   lines.push(`related_thinkers: []`);
   lines.push(`related_works: []`);
