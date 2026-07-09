@@ -9,7 +9,14 @@ import OrgMark from "~/components/OrgMark.astro";
 // is set by /tmp/auto_hide_orphans.py when no work has the org as its
 // publisher/issuer AND no thinker lists it in affiliations[]). Re-run
 // that script after content changes to update the visibility.
-const orgs = await getCollection("organisations", (o) => !o.data.draft && o.data.language === "en");
+// `hide_from_index` excludes non-liberal / referenced-only entities (e.g. the
+// Indian National Congress) from this listing while keeping the record intact:
+// its detail page still builds and stays linkable from thinker affiliations
+// (CCS round-2 feedback #13/#14). Hide, never delete.
+const orgs = await getCollection(
+  "organisations",
+  (o) => !o.data.draft && !o.data.hide_from_index && o.data.language === "en",
+);
 
 // Group by type, then alphabetically within each group.
 const byType = new Map<string, typeof orgs>();

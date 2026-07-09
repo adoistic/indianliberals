@@ -291,11 +291,14 @@ thinkers:
 
   - id: d-r-pendse
     canonical_name: "D. R. Pendse"
-    full_name: "D. R. Pendse"  # [NEEDS REVIEW] — full expansion needed
+    full_name: "Dattatraya Ramchandra Pendse"
     sort_name: "Pendse, D. R."
     also_known_as: []
-    birth_year: null  # [NEEDS REVIEW]
-    death_year: null  # [NEEDS REVIEW]
+    # Born 6 September 1930 (Pune); died May 2018 (Mumbai). Sourced from his own
+    # site drpendse.com and CCS's memorial post; the thinker MD's "7 September
+    # 1969" was an OCR artifact. CCS round-2 feedback #6.
+    birth_year: 1930
+    death_year: 2018
     nationality: india
     tradition: classical_liberal
     portrait:
@@ -327,8 +330,14 @@ thinkers:
     full_name: "Sauvik Chakraverti"
     sort_name: "Chakraverti, Sauvik"
     also_known_as: []
-    birth_year: 1957  # [NEEDS REVIEW]
-    death_year: 2018
+    # Death corrected to 2014 (was 2018): obituary "A Libertarian Rock Star
+    # That India Never Had" on spontaneousorder.in (CCS-affiliated), dated
+    # 27 Oct 2014, states he died on 23 October 2014 in Goa. Birth 1956 is
+    # consistent across secondary sources but has no primary citation — confirm
+    # against his Indian Liberals bio / LinkedIn before treating as final.
+    # CCS round-2 feedback #6.
+    birth_year: 1956  # secondary sources only — confirm
+    death_year: 2014
     nationality: india
     tradition: classical_liberal
     portrait:

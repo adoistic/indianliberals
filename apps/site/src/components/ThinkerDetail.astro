@@ -90,10 +90,19 @@ function mentionFor(entry: { data: { thinker_mentions?: Array<any> } }, id: stri
 // Excludes interviews - the interviewee is in `authors[0]` for schema-fit
 // reasons but conceptually they're the subject, not the author. Interviews
 // are rendered separately in the "About this thinker" section below.
+// Authored primary works: this thinker is a named author. Contributor-only
+// works (editor/translator/foreword etc., where they're NOT in authors[]) are
+// treated as "Contributed to" and counted as referenced, matching
+// thinker-stats.ts, so the authored count is identical to the landing page
+// (CCS round-2 feedback #11).
 const worksByThisThinker = allWorks
   .filter((w) => w.data.work_type !== "interview")
+  .filter((w) => (w.data.authors ?? []).some((a) => refMatches(a, t.id)))
+  .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
+const contributedWorks = allWorks
+  .filter((w) => w.data.work_type !== "interview")
   .filter((w) =>
-    (w.data.authors ?? []).some((a) => refMatches(a, t.id)) ||
+    !(w.data.authors ?? []).some((a) => refMatches(a, t.id)) &&
     (w.data.contributors ?? []).some((c) => refMatches(c.thinker, t.id)),
   )
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
@@ -134,12 +143,19 @@ const workMentions = allWorks
   )
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
 
+// Authored-only count. ThePrint-mirror pieces are NOT authored works: the
+// thinker appears in them via related_thinkers[] (a mention), so they belong
+// under "Mentioned in", not here. Folding them into the authored count was
+// inflating this figure above the authored-only count shown on the thinkers
+// landing page (CCS round-2 feedback #11). The landing page reads
+// worksAuthored from thinker-stats.ts, which likewise excludes ThePrint.
 const authorshipCount =
   worksByThisThinker.length + musingsByThisThinker.length +
-  opinionsByThisThinker.length + theprintByThisThinker.length;
+  opinionsByThisThinker.length;
 const aboutCount = interviewsAbout.length + opinionsAbout.length;
 const mentionCount =
-  opinionMentions.length + musingMentions.length + workMentions.length;
+  opinionMentions.length + musingMentions.length + workMentions.length +
+  theprintByThisThinker.length + contributedWorks.length;
 
 // Phase B - collect every (entry, mention) pair across the three
 // mention-bearing role buckets for the synthesis section. Grouped by
@@ -413,24 +429,6 @@ const bioSourceLabel =
               </ul>
             </div>
           )}
-          {theprintByThisThinker.length > 0 && (
-            <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">In ThePrint ({theprintByThisThinker.length})</h3>
-              <ul class="space-y-2">
-                {theprintByThisThinker.slice(0, 10).map((p) => (
-                  <li>
-                    <a href={p.data.theprint_url} target="_blank" rel="noopener canonical" class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {p.data.title}
-                      <span aria-hidden class="text-(--color-fg-muted) ml-1">↗</span>
-                    </a>
-                  </li>
-                ))}
-                {theprintByThisThinker.length > 10 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {theprintByThisThinker.length - 10} more</li>
-                )}
-              </ul>
-            </div>
-          )}
         </div>
       </section>
     )}
@@ -580,6 +578,42 @@ const bioSourceLabel =
                     </li>
                   );
                 })}
+              </ul>
+            </div>
+          )}
+          {contributedWorks.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Contributed to ({contributedWorks.length})</h3>
+              <ul class="space-y-2">
+                {contributedWorks.slice(0, 15).map((w) => (
+                  <li>
+                    <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {w.data.title.main}
+                      <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
+                    </a>
+                  </li>
+                ))}
+                {contributedWorks.length > 15 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {contributedWorks.length - 15} more</li>
+                )}
+              </ul>
+            </div>
+          )}
+          {theprintByThisThinker.length > 0 && (
+            <div>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">In ThePrint ({theprintByThisThinker.length})</h3>
+              <ul class="space-y-2">
+                {theprintByThisThinker.slice(0, 10).map((p) => (
+                  <li>
+                    <a href={p.data.theprint_url} target="_blank" rel="noopener canonical" class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                      {p.data.title}
+                      <span aria-hidden class="text-(--color-fg-muted) ml-1">↗</span>
+                    </a>
+                  </li>
+                ))}
+                {theprintByThisThinker.length > 10 && (
+                  <li class="text-sm text-(--color-fg-muted)">…and {theprintByThisThinker.length - 10} more</li>
+                )}
               </ul>
             </div>
           )}

@@ -4,7 +4,8 @@ name:
   canonical: "Sauvik Chakraverti"
   sort: "Chakraverti, Sauvik"
   also_known_as: []
-death_year: 2018
+birth_year: 1956
+death_year: 2014
 nationality: india
 tradition: libertarian
 canon_status: extended

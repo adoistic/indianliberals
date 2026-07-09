@@ -325,6 +325,27 @@ function themesAttr(w: (typeof works)[number]): string {
           applyFilters();
         });
       }
+
+      // Deep-link support: ?decade=1950 (or a comma list) pre-selects the
+      // decade filter. The homepage per-decade histogram bars link here.
+      (function initFromURL() {
+        const usp = new URLSearchParams(window.location.search);
+        const decadeParam = usp.get('decade');
+        if (!decadeParam) return;
+        let matched = false;
+        for (const piece of decadeParam.split(',').map((s) => s.trim()).filter(Boolean)) {
+          state.decade.add(piece);
+        }
+        document.querySelectorAll('.pw-chip').forEach((btn) => {
+          if (btn.dataset.filterDecade && state.decade.has(btn.dataset.filterDecade)) {
+            ACTIVE.forEach((c) => btn.classList.add(c));
+            IDLE.forEach((c) => btn.classList.remove(c));
+            matched = true;
+          }
+        });
+        if (matched) applyFilters();
+        else state.decade.clear(); // unknown decade: leave the full list visible
+      })();
     })();
   </script>
 </BaseLayout>

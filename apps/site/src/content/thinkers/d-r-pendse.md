@@ -4,6 +4,8 @@ name:
   canonical: "D. R. Pendse"
   sort: "Pendse, D. R."
   also_known_as: []
+birth_year: 1930
+death_year: 2018
 nationality: india
 tradition: classical_liberal
 canon_status: extended
@@ -19,7 +21,7 @@ needs_review: true
 draft: false
 ---
 
-Dattatreya R Pendse was born on 6 September 1930/ 7 September 1969 in Pune, India. He earned a Bachelor’s degree in economics, statistics and mathematics from Pune University and a B.A. and an M.A. degree from Cambridge University. He was fondly called Dada Pendse by his friends and colleagues.
+Dattatreya R Pendse was born on 6 September 1930 in Pune, India. He earned a Bachelor’s degree in economics, statistics and mathematics from Pune University and a B.A. and an M.A. degree from Cambridge University. He was fondly called Dada Pendse by his friends and colleagues.
 
 For twenty years, he was the Chief Economist to India’s Tata Group of Industries and to the Group Chairman, JRD Tata, and other senior Group directors. JRD considered him to be easily the most readable economist in the country. Before joining the Tatas, Pendse occupied senior positions in the Government of India in the Ministries of Finance and Commerce & Industry for over ten years.
 

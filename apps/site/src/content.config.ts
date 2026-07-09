@@ -181,6 +181,13 @@ const organisations = defineCollection({
     ...i18nFields,
     needs_review: z.boolean().default(false),
     draft: z.boolean().default(false),
+    // Keep the record (its detail page still builds and stays linkable from
+    // thinker affiliations) but exclude it from the /organisations/ index
+    // listing. Used for entities that appear only because thinkers operated
+    // within them (e.g. the Indian National Congress) and are not part of
+    // "our" liberal organisations. CCS round-2 feedback #13/#14 — hide, not
+    // delete.
+    hide_from_index: z.boolean().default(false),
   }),
 });
 

@@ -8,6 +8,10 @@ description: "The party of the freedom movement, founded in 1885. The early mode
 ideology: []
 needs_review: true
 draft: false
+# Hidden from the /organisations/ listing per CCS round-2 feedback #13: the INC
+# is not one of "our" liberal organisations. The record is kept (its page still
+# builds and stays linkable from thinker affiliations, e.g. Gokhale, Rajaji).
+hide_from_index: true
 founded_year: 1885
 ---
 

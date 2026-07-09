@@ -177,6 +177,10 @@ organisations:
     dissolved_year: null
     type: political_party
     ideology: [nationalism]  # broad-church; specific liberal phase noted in member affiliations
+    # Kept as a linkable entity (referenced by member affiliations) but hidden
+    # from the /organisations/ listing: the INC is not one of "our" liberal
+    # organisations (CCS round-2 feedback #13). Hide, never delete.
+    hide_from_index: true
     note: "India's pre-independence umbrella nationalist movement, now a political party. Many liberal figures (Gokhale, Rajaji pre-1959) operated within Congress before liberal politics split off."
 
   # ============================================================

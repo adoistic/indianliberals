@@ -68,9 +68,15 @@ export async function getThinkerStats(): Promise<Map<string, ThinkerStat>> {
   for (const w of primaryWorks) {
     const authored = new Set<string>();
     const referenced = new Set<string>();
+    // Interviews live in primary-works with work_type='interview' and the
+    // interviewee in authors[0]. The interviewee is the SUBJECT, not the
+    // author, so they count as referenced, not authored. This keeps the
+    // authored count aligned with the per-thinker detail page, which lists
+    // interviews under "About this thinker" (CCS round-2 feedback #11).
+    const isInterview = w.data.work_type === "interview";
     for (const a of w.data.authors ?? []) {
       const id = refToId(a as RefLike);
-      if (id) authored.add(id);
+      if (id) (isInterview ? referenced : authored).add(id);
     }
     for (const c of w.data.contributors ?? []) {
       const id = refToId(c.thinker as RefLike);
