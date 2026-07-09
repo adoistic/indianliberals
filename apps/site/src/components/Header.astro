@@ -75,12 +75,9 @@ const groups: NavGroup[] = [
         desc: "The curated canon, chronologically",
         count: featuredCount,
       },
-      {
-        label: "Full directory",
-        href: "/thinkers/directory/",
-        desc: "Everyone the corpus engages, labelled",
-        count: thinkers.length,
-      },
+      // "Full directory" (/thinkers/directory/) is intentionally hidden from
+      // the nav per CCS direction; the page still builds and is reachable by
+      // direct URL, it is just not surfaced. Do not delete it.
       {
         label: "Organisations",
         href: "/organisations/",

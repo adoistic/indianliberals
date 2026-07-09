@@ -107,10 +107,7 @@ const prettifyVocation = (v: string): string => {
         movement of the 1980s.
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
-        {canon.length} canonical thinkers · {influences.length} international influences ·
-        <a href="/thinkers/directory/" class="text-(--color-forest-700) hover:text-(--color-fg)">
-          {directoryCount} people in the full directory
-        </a>
+        {canon.length} canonical thinkers · {influences.length} international influences
       </p>
 
       {/* Unified people search, covers the whole database, not just this page */}
@@ -331,23 +328,7 @@ const prettifyVocation = (v: string): string => {
     </section>
   )}
 
-  <section>
-    <div class="mx-auto max-w-6xl px-6 py-12">
-      <a
-        href="/thinkers/directory/"
-        class="block p-6 md:p-8 border border-(--color-border) rounded no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
-      >
-        <h2 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl mb-2">
-          Looking for someone else? Browse the full directory <span aria-hidden>→</span>
-        </h2>
-        <p class="text-(--color-fg-muted) leading-relaxed max-w-prose text-sm font-(family-name:--font-ui)">
-          The archive references {directoryCount} people in all, the broader liberal
-          tradition, contemporary commentators, and figures from outside the
-          tradition who appear in these pages through citation, critique, or
-          debate. Their presence reflects their role in liberal writing, not
-          editorial endorsement.
-        </p>
-      </a>
-    </div>
-  </section>
+  {/* The "Browse the full directory" entry point is intentionally hidden per
+      CCS direction. The directory page (/thinkers/directory/) still builds and
+      is reachable by direct URL; it is simply not surfaced here. Not deleted. */}
 </BaseLayout>
