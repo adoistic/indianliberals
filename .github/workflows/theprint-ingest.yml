@@ -7,9 +7,9 @@ name: ThePrint auto-ingest
 # Schedule: weekly on Saturday (CCS round-2 feedback #16). Also runnable on
 # demand via the "Run workflow" button (workflow_dispatch).
 #
-# To also ingest the Hindi column, set a repository variable RSS_FEED_URL_HI
-# (Settings → Secrets and variables → Actions → Variables) to the Hindi
-# "Indian Liberals Matter" RSS URL; its pieces are mirrored with language: "hi".
+# Ingests both the English column (RSS) and the Hindi column. The Hindi column
+# has no working RSS feed, so it is pulled from the WordPress REST API instead
+# (hindi.theprint.in, category 326160) and mirrored with language: "hi".
 
 on:
   schedule:
@@ -46,9 +46,13 @@ jobs:
         id: ingest
         working-directory: apps/theprint-ingest
         env:
-          # Feeds. RSS_FEED_URL_HI is optional (repo variable); leave unset for English only.
+          # English column (RSS).
           RSS_FEED_URL: "https://theprint.in/category/opinion/indian-liberals-matter/feed/"
-          RSS_FEED_URL_HI: ${{ vars.RSS_FEED_URL_HI }}
+          # Hindi column (WordPress REST API — the Hindi RSS feed 404s). Override
+          # HINDI_WP_CATEGORY via a repo variable if ThePrint changes the id.
+          INGEST_HINDI: "1"
+          HINDI_WP_BASE: "https://hindi.theprint.in"
+          HINDI_WP_CATEGORY: ${{ vars.HINDI_WP_CATEGORY || '326160' }}
           BOT_COMMIT_EMAIL: "theprint-ingest@indianliberals.in"
           GITHUB_WORKSPACE: ${{ github.workspace }}
         run: npm run ingest:repo

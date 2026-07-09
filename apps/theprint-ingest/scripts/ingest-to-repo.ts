@@ -13,8 +13,9 @@
 import { readFile, writeFile, stat } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
 import { join, resolve } from 'node:path';
-import { parseRssFeed, slugFromUrl } from '../src/rss';
+import { parseRssFeed, slugFromUrl, type RssItem } from '../src/rss';
 import { rssItemToMarkdown } from '../src/markdown';
+import { fetchWpRestItems } from '../src/wp-rest';
 
 // Repo root: two levels up from apps/theprint-ingest, resolved from cwd so the
 // workflow can run this from the repo root or the package dir.
@@ -26,10 +27,24 @@ const MAX_ITEMS = parseInt(process.env.MAX_ITEMS_PER_RUN || '25', 10) || 25;
 const BOT_EMAIL = process.env.BOT_COMMIT_EMAIL || 'theprint-ingest@indianliberals.in';
 const RSS_FEED_URL =
   process.env.RSS_FEED_URL || 'https://theprint.in/category/opinion/indian-liberals-matter/feed/';
-const RSS_FEED_URL_HI = process.env.RSS_FEED_URL_HI || '';
 
-const feeds: { url: string; language: string }[] = [{ url: RSS_FEED_URL, language: 'en' }];
-if (RSS_FEED_URL_HI) feeds.push({ url: RSS_FEED_URL_HI, language: 'hi' });
+// Ingestion sources. English comes from the WordPress RSS feed. Hindi has no
+// working RSS (the category /feed/ 404s), so it is pulled from the WordPress
+// REST API instead — a genuinely separate path. Hindi is opt-in via
+// INGEST_HINDI=1 so an English-only run stays unchanged.
+type Source =
+  | { type: 'rss'; language: string; url: string }
+  | { type: 'wp'; language: string; base: string; categoryId: number };
+
+const sources: Source[] = [{ type: 'rss', language: 'en', url: RSS_FEED_URL }];
+if (process.env.INGEST_HINDI === '1' || process.env.INGEST_HINDI === 'true') {
+  sources.push({
+    type: 'wp',
+    language: 'hi',
+    base: process.env.HINDI_WP_BASE || 'https://hindi.theprint.in',
+    categoryId: parseInt(process.env.HINDI_WP_CATEGORY || '326160', 10),
+  });
+}
 
 const summary = {
   created: [] as string[],
@@ -77,19 +92,23 @@ async function run() {
   const blocklist = await loadBlocklist();
   const mirroredOnIso = new Date().toISOString().slice(0, 10);
 
-  for (const feed of feeds) {
-    let items;
+  for (const src of sources) {
+    let items: RssItem[];
     try {
-      const resp = await fetch(feed.url, {
-        headers: {
-          'User-Agent': 'indianliberals-theprint-ingest/0.1 (+https://indianliberals.in)',
-          Accept: 'application/rss+xml, application/xml, text/xml',
-        },
-      });
-      if (!resp.ok) throw new Error(`RSS fetch failed: ${resp.status} ${resp.statusText}`);
-      items = parseRssFeed(await resp.text());
+      if (src.type === 'rss') {
+        const resp = await fetch(src.url, {
+          headers: {
+            'User-Agent': 'indianliberals-theprint-ingest/0.1 (+https://indianliberals.in)',
+            Accept: 'application/rss+xml, application/xml, text/xml',
+          },
+        });
+        if (!resp.ok) throw new Error(`RSS fetch failed: ${resp.status} ${resp.statusText}`);
+        items = parseRssFeed(await resp.text());
+      } else {
+        items = await fetchWpRestItems({ base: src.base, categoryId: src.categoryId, max: MAX_ITEMS });
+      }
     } catch (e) {
-      summary.errors.push({ slug: `__feed_${feed.language}__`, reason: String(e) });
+      summary.errors.push({ slug: `__feed_${src.language}__`, reason: String(e) });
       continue;
     }
 
@@ -110,7 +129,7 @@ async function run() {
             continue;
           }
         }
-        const content = rssItemToMarkdown(item, { mirroredOnIso, slug, language: feed.language });
+        const content = rssItemToMarkdown(item, { mirroredOnIso, slug, language: src.language });
         if (await fileExists(abs)) {
           const existing = await readFile(abs, 'utf8');
           if (existing === content) {

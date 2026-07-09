@@ -109,7 +109,14 @@ export function slugFromUrl(url: string, fallbackTitle: string): string {
   try {
     const u = new URL(url);
     const parts = u.pathname.split('/').filter(Boolean);
-    const colIdx = parts.indexOf('indian-liberals-matter');
+    // The English column path segment is 'indian-liberals-matter'
+    // (theprint.in/opinion/indian-liberals-matter/<slug>/<id>/); the Hindi
+    // column uses 'indianliberalsmatter'
+    // (hindi.theprint.in/indianliberalsmatter/<slug>/<id>/). Both carry an
+    // ASCII slug in the following segment.
+    const colIdx = parts.findIndex(
+      (p) => p === 'indian-liberals-matter' || p === 'indianliberalsmatter',
+    );
     if (colIdx >= 0 && parts[colIdx + 1]) {
       return parts[colIdx + 1];
     }

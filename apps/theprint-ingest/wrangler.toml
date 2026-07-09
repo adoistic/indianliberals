@@ -28,11 +28,12 @@ BOT_COMMIT_EMAIL = "theprint-ingest@indianliberals.in"
 # The "Indian Liberals Matter" column RSS feed (English).
 RSS_FEED_URL = "https://theprint.in/category/opinion/indian-liberals-matter/feed/"
 
-# Hindi "Indian Liberals Matter" column feed (CCS round-2 feedback #16a). When
-# set, its items are mirrored with language: "hi" and become Hindi-searchable
-# via Pagefind. LEFT UNSET pending the exact Hindi column URL from ThePrint —
-# fill in the real /hindi/.../feed/ URL once confirmed, then redeploy.
-# RSS_FEED_URL_HI = "https://hindi.theprint.in/category/opinion/<slug>/feed/"
+# NOTE on Hindi: the Hindi "Indian Liberals Matter" column has NO working RSS
+# feed (hindi.theprint.in/category/indianliberalsmatter/feed/ returns a 404),
+# so Hindi is ingested from the WordPress REST API instead. That path lives in
+# the GitHub Actions runner (scripts/ingest-to-repo.ts + src/wp-rest.ts), which
+# is the live auto-ingest today. This Worker currently handles English RSS only;
+# port src/wp-rest.ts here too if/when the Worker is deployed.
 
 # Path inside the repo where new mirror MDs land.
 CONTENT_PATH = "apps/site/src/content/theprint-mirror"
