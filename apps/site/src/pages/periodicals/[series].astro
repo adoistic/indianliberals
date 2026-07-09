@@ -1,0 +1,85 @@
+---
+// One periodical run: /periodicals/<series>/ shows the issues of a single series,
+// linked out from the series-first index (CCS round-2 feedback #10).
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import {
+  getPeriodicalSeries,
+  issueLabel,
+  issueYear,
+  workHref,
+  type SeriesGroup,
+} from "~/lib/periodicals";
+
+export async function getStaticPaths() {
+  const series = await getPeriodicalSeries();
+  return series.map((g) => ({ params: { series: g.id }, props: { group: g } }));
+}
+
+const { group } = Astro.props as { group: SeriesGroup };
+const g = group;
+---
+
+<BaseLayout
+  title={`${g.meta.name} · Periodicals · Indian Liberals`}
+  description={`${g.items.length} issue${g.items.length === 1 ? "" : "s"} of ${g.meta.name}${g.yearRange ? ` (${g.yearRange})` : ""}, indexed at the issue level with metadata and AI summaries.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        <a href="/periodicals/" class="hover:text-(--color-fg)">Periodicals</a>
+        <span aria-hidden> / </span>{g.meta.name}
+      </p>
+      <h1 class="text-(--color-fg) mb-2 font-(family-name:--font-display)">
+        {g.meta.name}
+        {g.meta.native && g.meta.native !== g.meta.name && (
+          <span class="text-(--color-fg-muted) font-normal ml-2">{g.meta.native}</span>
+        )}
+      </h1>
+      <p class="text-(--color-fg-muted) text-sm mb-4 font-(family-name:--font-ui)">
+        {g.items.length === 1 ? "1 issue" : `${g.items.length} issues`}
+        {g.yearRange && ` · ${g.yearRange}`}
+      </p>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{g.meta.blurb}</p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
+      {g.items.map((w) => (
+        <li>
+          <a
+            href={workHref(w)}
+            class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+          >
+            {w.data.cover_image && (
+              <div class="aspect-[3/4] bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
+                <img
+                  src={w.data.cover_image}
+                  alt=""
+                  width="240"
+                  height="320"
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300"
+                />
+              </div>
+            )}
+            <div class="p-4">
+              <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug text-sm">
+                {issueLabel(w, g.id)}
+              </div>
+              <div class="text-xs text-(--color-fg-muted) mt-1.5 flex items-center gap-1.5 flex-wrap">
+                {issueYear(w) && <span>{issueYear(w)}</span>}
+                {w.data.language && w.data.language !== "en" && (
+                  <span class="px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">
+                    {w.data.language}
+                  </span>
+                )}
+              </div>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>
