@@ -24,7 +24,7 @@ interface Props {
 }
 
 const {
-  title = "Indian Liberals — An Online Archive of Indian Liberal Works",
+  title = "Indian Liberals: An Online Archive of Indian Liberal Works",
   description = "A digital archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, and curated excerpts from the figures who built the case for liberty in modern India.",
   lang = "en",
   noindex = false,
@@ -55,7 +55,7 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
 
     {noindex && <meta name="robots" content="noindex,follow" />}
 
-    <!-- hreflang alternates — bidirectional translation graph.
+    <!-- hreflang alternates, bidirectional translation graph.
          Every page in a translation set lists every other language version,
          a self-referential entry, and an x-default. -->
     {hreflang.map((alt) => (

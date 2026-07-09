@@ -1,5 +1,5 @@
 ---
-// Landing page — the collection is the hero.
+// Landing page, the collection is the hero.
 //
 // Design intent (2026-06 redesign): a world-class archive leads with its
 // holdings, not with copy about itself. The hero is a drifting mosaic of
@@ -17,7 +17,7 @@ const featuredThinkers = allThinkers
   .filter((t) => t.data.featured && t.data.portrait?.duotone)
   .sort((a, b) => (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999));
 
-// Latest 6 ThePrint articles — links go out to theprint.in (the canonical
+// Latest 6 ThePrint articles, links go out to theprint.in (the canonical
 // home). The federated column updates daily via the theprint-ingest worker
 // (apps/theprint-ingest), so this list reflects the freshest pieces in
 // the "Indian Liberals Matter" column on each build.
@@ -25,7 +25,7 @@ const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.dr
   .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate))
   .slice(0, 6);
 
-// Archive stats band — computed at build time so the numbers never drift
+// Archive stats band, computed at build time so the numbers never drift
 // from the content. Thinker count covers the liberal tradition itself
 // (canon core + extended), not the referenced/unclassified figures who
 // appear in the corpus only through citation.
@@ -103,7 +103,7 @@ mosaicPortraits.forEach((p, i) => {
 const mosaicCols: string[][] = [[], [], []];
 mosaicPool.forEach((src, i) => mosaicCols[i % 3].push(src));
 
-// Doorway imagery — real objects from the collection.
+// Doorway imagery, real objects from the collection.
 const doorwayPortraits = featuredThinkers.slice(0, 3).map((t) => t.data.portrait!.duotone!);
 const doorwayCovers = mosaicCovers.slice(0, 3);
 const doorwayInterview = (() => {
@@ -124,17 +124,16 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
 <BaseLayout>
   <!-- ── Hero: the collection is the hero ─────────────────────────── -->
   <section class="relative border-b border-(--color-border) overflow-hidden">
-    <div class="mx-auto max-w-6xl px-6 py-16 md:py-24 lg:grid lg:grid-cols-[1.1fr_0.9fr] lg:gap-16 lg:items-center">
+    <div class="mx-auto max-w-6xl px-6 pt-8 pb-16 md:pt-12 md:pb-24 lg:grid lg:grid-cols-[1.1fr_0.9fr] lg:gap-16 lg:items-center">
       <div class="relative z-10">
-        <p class="flex items-center gap-2.5 text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-5" data-reveal>
-          <img src="/brand/brand-mark-crane.png" alt="" class="h-6 w-6" width="24" height="24" />
+        <p class="text-lg md:text-xl text-(--color-saffron-700) font-(family-name:--font-ui) font-medium mb-4" data-reveal>
           A digital archive of the Indian liberal tradition
         </p>
         <h1 class="text-(--color-fg) max-w-xl text-4xl md:text-5xl lg:text-[3.4rem] leading-[1.05] tracking-tight" data-reveal style="--reveal-delay: 60ms">
           Two centuries of the liberal argument for India.
         </h1>
         <p class="mt-6 text-lg leading-relaxed text-(--color-fg-muted) max-w-prose" data-reveal style="--reveal-delay: 120ms">
-          From the Bengal Renaissance to the 1991 reforms and beyond &mdash;
+          From the Bengal Renaissance to the 1991 reforms and beyond:
           {datedWorksCount.toLocaleString("en-IN")} dated works, the periodical
           runs that carried the debate, the voices that lived it, and the
           thinkers who made the case for individual liberty, free enterprise,
@@ -207,7 +206,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         </p>
       </div>
 
-      {/* Key numbers — each links into its section of the archive */}
+      {/* Key numbers, each links into its section of the archive */}
       <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 lg:divide-x divide-(--color-border)" data-reveal style="--reveal-delay: 80ms">
         {stats.map((s) => (
           <div class="lg:px-6 first:lg:pl-0 last:lg:pr-0 py-2 lg:py-0">
@@ -223,21 +222,21 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         ))}
       </dl>
 
-      {/* Works per decade — the corpus drawn as a shelf of bars */}
+      {/* Works per decade, the corpus drawn as a shelf of bars */}
       <figure class="mt-10" aria-label={`Primary works per decade, ${decadeMin}s to ${decadeMax}s`} data-reveal style="--reveal-delay: 160ms">
         <div class="histogram flex items-end gap-[3px] h-20 md:h-24">
           {decades.map((d, i) => (
             <div
               class="histogram-bar flex-1 rounded-t-[2px] bg-(--color-saffron-500)/70 hover:bg-(--color-saffron-700) transition-colors min-h-[2px]"
               style={`height: ${d.count === 0 ? 2 : Math.max(4, Math.round((d.count / decadePeak) * 100))}%; --bar-delay: ${i * 28}ms`}
-              title={`${d.decade}s — ${d.count === 1 ? "1 work" : `${d.count} works`}`}
+              title={`${d.decade}s: ${d.count === 1 ? "1 work" : `${d.count} works`}`}
             />
           ))}
         </div>
         <figcaption class="mt-2 flex items-baseline justify-between text-[11px] text-(--color-fg-muted) font-(family-name:--font-ui)">
           <span>{decadeMin}s</span>
           <span class="hidden sm:inline">
-            {datedWorksCount.toLocaleString("en-IN")} dated works per decade — from the Bengal Renaissance to the reform era and beyond
+            {datedWorksCount.toLocaleString("en-IN")} dated works per decade, from the Bengal Renaissance to the reform era and beyond
           </span>
           <span>{decadeMax}s</span>
         </figcaption>
@@ -249,13 +248,15 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-16">
       <div class="mb-10 max-w-prose" data-reveal>
-        <h2 class="text-(--color-fg)">Begin in the stacks</h2>
+        <h2 class="text-(--color-fg)">Browse the collection</h2>
         <p class="text-(--color-fg-muted) mt-2">
-          Four ways into the collection — by work, by run, by voice, by thinker.
+          Four sections, organised by what you are looking for: the individual
+          works, the periodical runs, the recorded interviews, and the people
+          behind them.
         </p>
       </div>
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 font-(family-name:--font-ui)">
-        {/* Primary works — a shelf of spines */}
+        {/* Primary works, a shelf of spines */}
         <a href="/primary-works/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal>
           <div class="h-32 mb-5 flex items-end gap-1.5 px-2" aria-hidden="true">
             <span class="w-5 h-24 rounded-t-sm bg-(--color-forest-500)/80 group-hover:h-28 transition-all duration-300"></span>
@@ -267,11 +268,11 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
           </div>
           <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">Primary works</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            {allWorks.length} books, pamphlets, essays, and speeches — with AI-extracted metadata, summaries, and the source PDFs.
+            {allWorks.length} books, pamphlets, essays, and speeches, with AI-extracted metadata, summaries, and the source PDFs.
           </p>
         </a>
 
-        {/* Periodicals — fanned covers */}
+        {/* Periodicals, fanned covers */}
         <a href="/periodicals/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal style="--reveal-delay: 70ms">
           <div class="relative h-32 mb-5" aria-hidden="true">
             {doorwayCovers.map((src, i) => (
@@ -293,11 +294,11 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
           </div>
           <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">The periodical runs</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            {periodicalCount} issues of Khoj, The Indian Libertarian, Liberal Times, and Shetkari Sanghatak — indexed issue by issue.
+            {periodicalCount} issues of Khoj, The Indian Libertarian, Liberal Times, and Shetkari Sanghatak, indexed issue by issue.
           </p>
         </a>
 
-        {/* Interviews — a still with a play badge */}
+        {/* Interviews, a still with a play badge */}
         <a href="/interviews/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal style="--reveal-delay: 140ms">
           <div class="relative h-32 mb-5 rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted)" aria-hidden="true">
             {doorwayInterview && (
@@ -311,11 +312,11 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
           </div>
           <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">Recorded voices</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            {interviewCount} interviews, oral histories, and historic addresses — from Palkhivala&rsquo;s 1992 budget speech onward, with transcripts.
+            {interviewCount} interviews, oral histories, and historic addresses, from Palkhivala&rsquo;s 1992 budget speech onward, with transcripts.
           </p>
         </a>
 
-        {/* Thinkers — overlapping portrait stack */}
+        {/* Thinkers, overlapping portrait stack */}
         <a href="/thinkers/" class="doorway group block bg-(--color-bg) border border-(--color-border) rounded-lg p-5 no-underline hover:shadow-md hover:-translate-y-0.5 transition-all" data-reveal style="--reveal-delay: 210ms">
           <div class="relative h-32 mb-5 flex items-center pl-2" aria-hidden="true">
             {doorwayPortraits.map((src, i) => (
@@ -337,7 +338,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
           </div>
           <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">The thinkers</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            The curated canon — and a full directory of every person the corpus engages, clearly labelled.
+            The curated canon, plus a full directory of every person the corpus engages, clearly labelled.
           </p>
         </a>
       </div>
@@ -352,7 +353,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
           <div>
             <h2 class="text-(--color-fg)">The canon, in order</h2>
             <p class="text-(--color-fg-muted) mt-2 max-w-prose">
-              From Raja Ram Mohan Roy to the Swatantra-era classical liberals —
+              From Raja Ram Mohan Roy to the Swatantra-era classical liberals:
               the thinkers at the heart of this archive, chronologically.
             </p>
           </div>
@@ -447,7 +448,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
             Every page has a <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">.md</code> sibling for machine readers. The corpus is indexed at <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">/llms.txt</code> and <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">/llms-full.txt</code> following the llms.txt spec.
           </p>
           <p class="text-white/75 leading-relaxed">
-            A Model Context Protocol server at <a href="https://mcp.indianliberals.in" class="text-(--color-gold-300)! hover:text-white! decoration-(--color-gold-300)/50!">mcp.indianliberals.in</a> lets your LLM client query the archive directly — see <a href="/AGENTS.md" class="text-(--color-gold-300)! hover:text-white! decoration-(--color-gold-300)/50!">/AGENTS.md</a> for the schema and citation rules.
+            A Model Context Protocol server at <a href="https://mcp.indianliberals.in" class="text-(--color-gold-300)! hover:text-white! decoration-(--color-gold-300)/50!">mcp.indianliberals.in</a> lets your LLM client query the archive directly. See <a href="/AGENTS.md" class="text-(--color-gold-300)! hover:text-white! decoration-(--color-gold-300)/50!">/AGENTS.md</a> for the schema and citation rules.
           </p>
         </div>
         <div data-reveal style="--reveal-delay: 100ms">
@@ -459,7 +460,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
             Curated excerpts, opinion pieces, interviews, and profiles are fully searchable and paragraph-citable.
           </p>
           <p class="text-white/75 leading-relaxed">
-            Primary-work PDFs surface with rich metadata and AI-generated summaries — paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.
+            Primary-work PDFs surface with rich metadata and AI-generated summaries. Paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.
           </p>
         </div>
       </div>
@@ -467,7 +468,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
   </section>
 
   <style>
-    /* Scroll reveal — elements drift up as they enter the viewport. The
+    /* Scroll reveal, elements drift up as they enter the viewport. The
        no-js / reduced-motion default is fully visible content. */
     @media (prefers-reduced-motion: no-preference) {
       :global(.js-reveal) [data-reveal] {
@@ -492,7 +493,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         transform: scaleY(1);
       }
 
-      /* Hero mosaic drift — each column loops over a duplicated track. */
+      /* Hero mosaic drift, each column loops over a duplicated track. */
       .mosaic-track {
         animation: mosaic-drift var(--drift-dur, 70s) linear infinite;
       }

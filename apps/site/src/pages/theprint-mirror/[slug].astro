@@ -1,14 +1,14 @@
 ---
 // Per-article landing page for an Indian Liberals Matter ThePrint piece.
 //
-// HUMAN view: minimal — title, byline (linking to thinker bio when
+// HUMAN view: minimal, title, byline (linking to thinker bio when
 // resolved), date, and a prominent "Read on ThePrint" CTA. We do NOT
 // render the article body for human readers; canonical content lives on
 // theprint.in and that's where readers should go. The page sets
 // noindex so search engines don't surface this stub.
 //
 // AI agents read the full body via the sibling endpoint at
-// `/theprint-mirror/<slug>.md` — that's the route that fulfils the
+// `/theprint-mirror/<slug>.md`, that's the route that fulfils the
 // "AI-readable, human-redirected" intent.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
@@ -41,7 +41,7 @@ const mentionSlugs = (p.data.thinker_mentions ?? [])
 ---
 
 <BaseLayout
-  title={`${p.data.title} — ThePrint mirror — Indian Liberals`}
+  title={`${p.data.title} · ThePrint mirror · Indian Liberals`}
   description={`Mirror of ThePrint piece by ${p.data.author_name}, published ${new Date(p.data.pubDate).toLocaleDateString("en-IN")}.`}
   lang={p.data.language}
   hreflang={hreflang}
@@ -66,7 +66,7 @@ const mentionSlugs = (p.data.thinker_mentions ?? [])
       </p>
     </header>
 
-    {/* Outbound CTA — the canonical article lives on theprint.in; readers
+    {/* Outbound CTA, the canonical article lives on theprint.in; readers
         go there. We deliberately do not render the body for humans. */}
     <div class="text-center py-8">
       <a
@@ -94,7 +94,7 @@ const mentionSlugs = (p.data.thinker_mentions ?? [])
     <footer class="mt-8 pt-6 border-t border-(--color-border) text-xs text-(--color-fg-muted) font-(family-name:--font-ui) text-center">
       <p>
         Canonical version: <a href={p.data.theprint_url} class="text-(--color-forest-700)" target="_blank" rel="noopener canonical">{p.data.theprint_url}</a>.
-        This page is for navigation only — full article body is on ThePrint
+        This page is for navigation only; the full article body is on ThePrint
         (and available to AI agents via the <code>.md</code> sibling).
       </p>
     </footer>

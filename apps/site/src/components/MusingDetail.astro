@@ -1,22 +1,22 @@
 ---
-// MusingDetail.astro — shared full-UI component for musing entries.
+// MusingDetail.astro - shared full-UI component for musing entries.
 //
-// INVENTORY — which template each section came from:
+// INVENTORY - which template each section came from:
 //   FROM English only (previously missing in i18n route):
-//     - authorEntry resolution via getEntry() — i18n route had no byline at all.
+//     - authorEntry resolution via getEntry() - i18n route had no byline at all.
 //     - "· By <thinker>" byline link pointing to /thinkers/<id>/ (musings link
-//       to thinkers, not contributors — author is a thinker reference).
+//       to thinkers, not contributors - author is a thinker reference).
 //     - PeopleInPiece component (authorSlugs + mentionSlugs; musings have no
 //       subjectSlugs).
 //     - RelatedSection component.
-//     - "· excerpt" suffix in eyebrow — i18n template showed only "Musing".
+//     - "· excerpt" suffix in eyebrow - i18n template showed only "Musing".
 //       Per plan: English is source of truth; shared component renders
 //       "Musing · excerpt". When i18n musing MDs land, they get the same
 //       eyebrow.
 //   FROM i18n only (previously extra, now DROPPED per plan):
-//     - lang={m.data.language} on <h1> — BaseLayout already sets <html lang>;
+//     - lang={m.data.language} on <h1> - BaseLayout already sets <html lang>;
 //       per-element attribute was redundant. Dropped here.
-//     - lang={m.data.language} on prose-container div — same reason. Dropped.
+//     - lang={m.data.language} on prose-container div - same reason. Dropped.
 //   BOTH routes retained (kept as-is):
 //     - pubDate formatted with en-IN locale.
 //     - key_concepts chips.
@@ -26,7 +26,7 @@
 //     - hreflangAlternates / lang / hreflang passed to BaseLayout.
 //   LANG-CONDITIONAL:
 //     - key_concepts chip link prefix computed via pathForCollection("musings",
-//       language) — same shared helper used by OpinionDetail (Chunk 4).
+//       language) - same shared helper used by OpinionDetail (Chunk 4).
 //   No description is passed to BaseLayout (preserved from both originals;
 //   rely on BaseLayout's own default).
 
@@ -42,7 +42,7 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-// Alias for ergonomics — existing template logic uses `m`.
+// Alias for ergonomics - existing template logic uses `m`.
 const m = entry;
 const { Content } = await render(m);
 
@@ -71,7 +71,7 @@ const musingsListBase = pathForCollection("musings", m.data.language);
 ---
 
 <BaseLayout
-  title={`${m.data.title} — Indian Liberals`}
+  title={`${m.data.title} · Indian Liberals`}
   lang={m.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(m.data.translation_status)}

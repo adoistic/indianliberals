@@ -1,5 +1,5 @@
 ---
-// Primary-works index — chronological list with faceted client-side filters.
+// Primary-works index - chronological list with faceted client-side filters.
 //
 // Filters (Type / Decade / Theme) are pure client-side JS toggling `<li>`
 // visibility via data-* attributes. No server, no API; works on the static
@@ -71,7 +71,7 @@ function themesAttr(w: (typeof works)[number]): string {
 ---
 
 <BaseLayout
-  title="Primary works — Indian Liberals"
+  title="Primary works · Indian Liberals"
   description={`${totalCount} primary works by Indian liberal thinkers, from speeches and pamphlets to books and essays. Metadata + AI summary + PDF.`}
 >
   <section class="border-b border-(--color-border)">
@@ -91,7 +91,7 @@ function themesAttr(w: (typeof works)[number]): string {
   </section>
 
   <div class="mx-auto max-w-6xl px-6 py-12 md:grid md:grid-cols-[220px_1fr] md:gap-10" data-pagefind-ignore>
-    {/* Filter sidebar — sticky left rail on md+, stacks on top on mobile */}
+    {/* Filter sidebar - sticky left rail on md+, stacks on top on mobile */}
     <aside
       class="
         font-(family-name:--font-ui) text-sm mb-8 md:mb-0

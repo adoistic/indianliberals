@@ -11,9 +11,6 @@ const musings = (await getCollection("musings", (m) => !m.data.draft && m.data.l
 const themeCounts = new Map<string, number>();
 const decadeCounts = new Map<number, number>();
 const kindCounts = new Map<string, number>();
-const periodCounts = new Map<string, number>();
-const stanceCounts = new Map<string, number>();
-const scaleCounts = new Map<string, number>();
 const placeCounts = new Map<string, number>();
 const keyConceptCounts = new Map<string, number>();
 for (const m of musings) {
@@ -22,10 +19,6 @@ for (const m of musings) {
   const dec = Math.floor(y / 10) * 10;
   decadeCounts.set(dec, (decadeCounts.get(dec) ?? 0) + 1);
   if (m.data.kind) kindCounts.set(m.data.kind, (kindCounts.get(m.data.kind) ?? 0) + 1);
-  if (m.data.period_window) periodCounts.set(m.data.period_window, (periodCounts.get(m.data.period_window) ?? 0) + 1);
-  if (m.data.stance) stanceCounts.set(m.data.stance, (stanceCounts.get(m.data.stance) ?? 0) + 1);
-  const sc = m.data.geographic_scope?.scale;
-  if (sc) scaleCounts.set(sc, (scaleCounts.get(sc) ?? 0) + 1);
   for (const p of m.data.geographic_scope?.places ?? []) {
     placeCounts.set(p, (placeCounts.get(p) ?? 0) + 1);
   }
@@ -33,27 +26,20 @@ for (const m of musings) {
     keyConceptCounts.set(c, (keyConceptCounts.get(c) ?? 0) + 1);
   }
 }
-// Drop bucket-label leftovers from themes facet (defensive — Step 0 should have already cleared them).
+// Drop bucket-label leftovers from themes facet (defensive - Step 0 should have already cleared them).
 const BUCKET_DROP = new Set(["so-musings", "events", "opinions", "lectures", "marathi-articles"]);
 const themeOptions = [...themeCounts.entries()]
   .filter(([t]) => !BUCKET_DROP.has(t))
   .sort((a, b) => b[1] - a[1])
   .slice(0, 30);
 const decadeOptions = [...decadeCounts.entries()].sort((a, b) => b[0] - a[0]);
-// Era ordering: chronological
-const PERIOD_ORDER = ["pre-independence", "nehruvian-era", "late-license-raj", "reform-era", "post-reform"];
-const periodOptions = PERIOD_ORDER
-  .filter((p) => periodCounts.has(p))
-  .map((p) => [p, periodCounts.get(p) as number] as [string, number]);
 const kindOptions = [...kindCounts.entries()].sort((a, b) => b[1] - a[1]);
-const stanceOptions = [...stanceCounts.entries()].sort((a, b) => b[1] - a[1]);
-const scaleOptions = [...scaleCounts.entries()].sort((a, b) => b[1] - a[1]);
 const placeOptions = [...placeCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 30);
 const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 30);
 ---
 
 <BaseLayout
-  title="Musings — Indian Liberals"
+  title="Musings · Indian Liberals"
   description="Curated excerpts from the primary works of the Indian liberal tradition. Paragraph-citable, full-text searchable."
 >
   <section class="border-b border-(--color-border)">
@@ -63,7 +49,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
       </p>
       <h1 class="text-(--color-fg) mb-4">Curated excerpts from the primary works</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        Short, focused passages from books, pamphlets, and essays in the corpus — paragraph-citable, full-text searchable, linked back to the source work.
+        Short, focused passages from books, pamphlets, and essays in the corpus: paragraph-citable, full-text searchable, linked back to the source work.
       </p>
     </div>
   </section>
@@ -117,63 +103,6 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
                   class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
                 >
                   {k.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
-                </button>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
-
-      {periodOptions.length > 0 && (
-        <div class="mb-5">
-          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Period</h3>
-          <ul class="flex flex-wrap gap-1.5">
-            {periodOptions.map(([p, n]) => (
-              <li>
-                <button
-                  type="button"
-                  data-filter-period={p}
-                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
-                >
-                  {p.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
-                </button>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
-
-      {stanceOptions.length > 0 && (
-        <div class="mb-5">
-          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Stance</h3>
-          <ul class="flex flex-wrap gap-1.5">
-            {stanceOptions.map(([s, n]) => (
-              <li>
-                <button
-                  type="button"
-                  data-filter-stance={s}
-                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
-                >
-                  {s.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
-                </button>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
-
-      {scaleOptions.length > 0 && (
-        <div class="mb-5">
-          <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Scale</h3>
-          <ul class="flex flex-wrap gap-1.5">
-            {scaleOptions.map(([s, n]) => (
-              <li>
-                <button
-                  type="button"
-                  data-filter-scale={s}
-                  class="m-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors"
-                >
-                  {s.replace(/-/g, " ")} <span class="opacity-70">({n})</span>
                 </button>
               </li>
             ))}
@@ -251,9 +180,6 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
               data-decade={String(dec)}
               data-themes={(m.data.themes ?? []).join(" ")}
               data-kind={m.data.kind ?? ""}
-              data-period={m.data.period_window ?? ""}
-              data-stance={m.data.stance ?? ""}
-              data-scale={m.data.geographic_scope?.scale ?? ""}
               data-places={(m.data.geographic_scope?.places ?? []).join(" ")}
               data-key-concepts={(m.data.key_concepts ?? []).join(" ")}
             >
@@ -287,9 +213,6 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         decade: new Set(),
         theme: new Set(),
         kind: new Set(),
-        period: new Set(),
-        stance: new Set(),
-        scale: new Set(),
         place: new Set(),
         keyConcept: new Set(),
       };
@@ -304,9 +227,6 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         decade: 'decade',
         theme: 'themes',
         kind: 'kind',
-        period: 'period',
-        stance: 'stance',
-        scale: 'scale',
         place: 'places',
         keyConcept: 'keyConcepts',
       };
@@ -353,13 +273,10 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         applyFilters();
       }
 
-      // URL param namespace: ?theme=, ?kind=, ?period=, ?stance=, ?scale=, ?place=, ?key_concept=, ?decade=
+      // URL param namespace: ?theme=, ?kind=, ?place=, ?key_concept=, ?decade=
       const URL_KEYS = {
         theme: 'theme',
         kind: 'kind',
-        period: 'period',
-        stance: 'stance',
-        scale: 'scale',
         place: 'place',
         keyConcept: 'key_concept',
         decade: 'decade',
@@ -379,7 +296,6 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           let activated = false;
           for (const [facet, attr] of Object.entries({
             kind: 'filterKind', decade: 'filterDecade', theme: 'filterTheme',
-            period: 'filterPeriod', stance: 'filterStance', scale: 'filterScale',
             place: 'filterPlace', keyConcept: 'filterKeyConcept',
           })) {
             const v = btn.dataset[attr];
@@ -411,9 +327,6 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           if (btn.dataset.filterDecade) toggle(btn, 'decade', btn.dataset.filterDecade);
           else if (btn.dataset.filterTheme) toggle(btn, 'theme', btn.dataset.filterTheme);
           else if (btn.dataset.filterKind) toggle(btn, 'kind', btn.dataset.filterKind);
-          else if (btn.dataset.filterPeriod) toggle(btn, 'period', btn.dataset.filterPeriod);
-          else if (btn.dataset.filterStance) toggle(btn, 'stance', btn.dataset.filterStance);
-          else if (btn.dataset.filterScale) toggle(btn, 'scale', btn.dataset.filterScale);
           else if (btn.dataset.filterPlace) toggle(btn, 'place', btn.dataset.filterPlace);
           else if (btn.dataset.filterKeyConcept) toggle(btn, 'keyConcept', btn.dataset.filterKeyConcept);
         });

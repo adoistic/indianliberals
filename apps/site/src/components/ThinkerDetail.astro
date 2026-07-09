@@ -1,7 +1,7 @@
 ---
-// ThinkerDetail.astro — shared full-UI component for thinker entries.
+// ThinkerDetail.astro - shared full-UI component for thinker entries.
 //
-// INVENTORY — which template each section came from:
+// INVENTORY - which template each section came from:
 //   FROM English only (previously missing in i18n route):
 //     - full name italic paragraph (name.full when different from canonical)
 //     - Also known as line (name.also_known_as)
@@ -15,7 +15,7 @@
 //     - "Mentioned in" section (primary works, opinion pieces, excerpts with evidence)
 //     - RelatedSection component
 //     - description meta string (language-keyed note below)
-//   FROM i18n only (lang= attrs on h1 and prose-div) — DROPPED per plan:
+//   FROM i18n only (lang= attrs on h1 and prose-div) - DROPPED per plan:
 //     BaseLayout sets the page-level <html lang>; per-element lang= is only
 //     needed where the element's language differs from the page language.
 //     The i18n template's `lang={t.data.language}` on <h1> and the prose div
@@ -28,7 +28,7 @@
 //     - noindex={shouldNoindex(translation_status)}
 //     - hreflangAlternates / lang / hreflang passed to BaseLayout
 //     - prose-container block with [&_p]:my-5 styling (thinker variant, NOT the
-//       [&_>_h1]:hidden primary-works variant — thinker bios do not emit an H1)
+//       [&_>_h1]:hidden primary-works variant - thinker bios do not emit an H1)
 //
 // NOTE on description meta string:
 //   The fallback `"Biographical profile of NAME (DATES)."` is English-language.
@@ -47,7 +47,7 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-// Alias for ergonomics — all existing template logic uses `t`.
+// Alias for ergonomics - all existing template logic uses `t`.
 const t = entry;
 const { Content } = await render(t);
 
@@ -55,12 +55,12 @@ const { Content } = await render(t);
 // has a structured ref pointing to one or more thinkers; we partition
 // per the three-role model defined in the cross-link audit spec:
 //
-//   author  — this thinker WROTE the entry (musings, primary-works,
+//   author  - this thinker WROTE the entry (musings, primary-works,
 //             theprint-mirror, opinions with a thinker-author)
-//   subject — the entry is ABOUT this thinker (opinions w/ `subject`,
-//             interviews where this thinker is the interviewee — formerly
+//   subject - the entry is ABOUT this thinker (opinions w/ `subject`,
+//             interviews where this thinker is the interviewee - formerly
 //             `subject`, now stored in `authors[0]` post-migration)
-//   mention — appears in related_thinkers but is neither author nor
+//   mention - appears in related_thinkers but is neither author nor
 //             subject. Phase B will populate these from in-prose NER.
 
 const [allTheprint, allOpinions, allMusings, allWorks] = await Promise.all([
@@ -79,7 +79,7 @@ function refMatches(ref: { id?: string } | string | undefined, id: string): bool
   return ref.id === id;
 }
 
-// Phase B — given any entry and the thinker we're rendering, find the
+// Phase B - given any entry and the thinker we're rendering, find the
 // matching thinker_mentions[] row (or undefined). Used by every section
 // that wants to render evidence/key_passages alongside the entry link.
 function mentionFor(entry: { data: { thinker_mentions?: Array<any> } }, id: string) {
@@ -87,7 +87,7 @@ function mentionFor(entry: { data: { thinker_mentions?: Array<any> } }, id: stri
 }
 
 // ─── Author role: works/pieces the thinker WROTE ─────────────────────
-// Excludes interviews — the interviewee is in `authors[0]` for schema-fit
+// Excludes interviews - the interviewee is in `authors[0]` for schema-fit
 // reasons but conceptually they're the subject, not the author. Interviews
 // are rendered separately in the "About this thinker" section below.
 const worksByThisThinker = allWorks
@@ -123,7 +123,7 @@ const musingMentions = allMusings.filter((m) =>
 // Primary-works where this thinker is mentioned in body prose but not
 // an author/contributor. The emitter now projects cross_thinker_mentions
 // from the extraction's summary_structured payload into the work's
-// related_thinkers[] — so touchstones like Adam Smith, Hayek, Lincoln,
+// related_thinkers[] - so touchstones like Adam Smith, Hayek, Lincoln,
 // Marx, Bernard Shaw etc. surface here even though they didn't write
 // anything in this corpus.
 const workMentions = allWorks
@@ -141,7 +141,7 @@ const aboutCount = interviewsAbout.length + opinionsAbout.length;
 const mentionCount =
   opinionMentions.length + musingMentions.length + workMentions.length;
 
-// Phase B — collect every (entry, mention) pair across the three
+// Phase B - collect every (entry, mention) pair across the three
 // mention-bearing role buckets for the synthesis section. Grouped by
 // role so we can render role-bucketed prose like the parent spec calls
 // for: "Authored N works including X, Y, Z. Referenced in M others
@@ -163,7 +163,7 @@ const allMentionRows: MentionRow[] = ([
 
 const hasPhaseBData = subjectMentions.length > 0 || allMentionRows.length > 0;
 
-// For the inline "...including X, Y, Z" lists — pick up to 3 representative
+// For the inline "...including X, Y, Z" lists - pick up to 3 representative
 // works by title, preferring the most-quoted (longest evidence list).
 function topByEvidence(rows: MentionRow[], limit = 3): MentionRow[] {
   return [...rows]
@@ -196,7 +196,7 @@ const datesStr =
       : "";
 
 // Bio source is editorial provenance. We surface it only when it's
-// genuinely useful to a public reader — i.e., when the bio is an
+// genuinely useful to a public reader - i.e., when the bio is an
 // editorial feature article. The other values ("imported",
 // "ai_drafted", "ai_drafted_stub", "canonical") are admin signals
 // that should not appear in the public UI.
@@ -205,7 +205,7 @@ const bioSourceLabel =
 ---
 
 <BaseLayout
-  title={`${t.data.name.canonical} — Indian Liberals`}
+  title={`${t.data.name.canonical} · Indian Liberals`}
   description={`Biographical profile of ${t.data.name.canonical}${datesStr ? ` (${datesStr})` : ""}.`}
   lang={t.data.language}
   hreflang={hreflang}
@@ -262,7 +262,7 @@ const bioSourceLabel =
         <strong class="text-(--color-fg)">Referenced figure.</strong>{" "}
         {t.data.name.canonical} is not part of the Indian liberal tradition.
         This page exists because works in the archive cite, discuss, or
-        critique them — see the works listed below for the context.
+        critique them. See the works listed below for the context.
       </aside>
     )}
 
@@ -312,7 +312,7 @@ const bioSourceLabel =
           {subjectMentions.length > 0 && (
             <p>
               Subject of {subjectMentions.length} profile {subjectMentions.length === 1 ? "piece" : "pieces"}
-              {" — including "}
+              {", including "}
               {subjectMentions.slice(0, 3).map((row, i) => (
                 <Fragment>
                   {i > 0 && (i === Math.min(subjectMentions.length, 3) - 1 ? ", and " : ", ")}
@@ -329,7 +329,7 @@ const bioSourceLabel =
               Referenced in {allMentionRows.length} other {allMentionRows.length === 1 ? "work" : "works"}
               {topMentions.length > 0 && (
                 <Fragment>
-                  {" — including "}
+                  {", including "}
                   {topMentions.map((row, i) => (
                     <Fragment>
                       {i > 0 && (i === topMentions.length - 1 ? ", and " : ", ")}
@@ -473,7 +473,7 @@ const bioSourceLabel =
                           {passages.map((kp: any) => (
                             <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
                               "{kp.quote}"
-                              {kp.what_it_shows && <span class="not-italic text-(--color-fg-muted) ml-1">— {kp.what_it_shows}</span>}
+                              {kp.what_it_shows && <span class="not-italic text-(--color-fg-muted) ml-1">· {kp.what_it_shows}</span>}
                             </li>
                           ))}
                         </ul>
@@ -513,7 +513,7 @@ const bioSourceLabel =
                           {quotes.map((ev: any) => (
                             <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
                               "{ev.quote}"
-                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">· {ev.context}</span>}
                             </li>
                           ))}
                         </ul>
@@ -544,7 +544,7 @@ const bioSourceLabel =
                           {quotes.map((ev: any) => (
                             <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
                               "{ev.quote}"
-                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">· {ev.context}</span>}
                             </li>
                           ))}
                         </ul>
@@ -572,7 +572,7 @@ const bioSourceLabel =
                           {quotes.map((ev: any) => (
                             <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
                               "{ev.quote}"
-                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">— {ev.context}</span>}
+                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">· {ev.context}</span>}
                             </li>
                           ))}
                         </ul>

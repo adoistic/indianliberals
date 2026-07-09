@@ -1,11 +1,11 @@
 ---
-// Periodicals index — issues grouped by series.
+// Periodicals index, issues grouped by series.
 //
 // Periodical issues live inside the primary-works collection with
 // work_type: "periodical_issue" (the dedicated `periodicals` collection is
 // empty and reserved for a future migration). This page groups them by
-// series so the archive's runs — Khoj, The Indian Libertarian, Liberal
-// Times, Shetkari Sanghatak — read as coherent shelves rather than being
+// series so the archive's runs, Khoj, The Indian Libertarian, Liberal
+// Times, Shetkari Sanghatak, read as coherent shelves rather than being
 // buried in the primary-works listing. Issue links resolve to the existing
 // primary-work detail pages.
 
@@ -37,12 +37,12 @@ const SERIES_META: Record<string, { name: string; native?: string; blurb: string
     name: "Khoj",
     native: "ખોજ",
     blurb:
-      "A bi-monthly Gujarati liberal periodical published from Vadodara under the 'Pahel — Initiative for Open Society', explicitly anchored in the thought of Karl Popper and Friedrich Hayek. The first sustained attempt to debate free markets, poverty, and open-society ideas in Gujarati print.",
+      "A bi-monthly Gujarati liberal periodical published from Vadodara under the 'Pahel, Initiative for Open Society', explicitly anchored in the thought of Karl Popper and Friedrich Hayek. The first sustained attempt to debate free markets, poverty, and open-society ideas in Gujarati print.",
   },
   "indian-libertarian": {
     name: "The Indian Libertarian",
     blurb:
-      "The Bombay fortnightly of the Libertarian Social Institute, published on the 1st and 15th of each month — classical-liberal and libertarian commentary on Indian politics and economics through the Nehruvian decades.",
+      "The Bombay fortnightly of the Libertarian Social Institute, published on the 1st and 15th of each month, classical-liberal and libertarian commentary on Indian politics and economics through the Nehruvian decades.",
   },
   "liberal-times": {
     name: "Liberal Times",
@@ -53,7 +53,7 @@ const SERIES_META: Record<string, { name: string; native?: string; blurb: string
     name: "Shetkari Sanghatak",
     native: "शेतकरी संघटक",
     blurb:
-      "The Marathi organ of Sharad Joshi's Shetkari Sanghatana — the farmers' movement that argued the case for market freedom from the fields rather than the seminar room.",
+      "The Marathi organ of Sharad Joshi's Shetkari Sanghatana, the farmers' movement that argued the case for market freedom from the fields rather than the seminar room.",
   },
   other: {
     name: "Other periodicals",
@@ -127,8 +127,8 @@ const totalIssues = issues.length;
 ---
 
 <BaseLayout
-  title="Periodicals — Indian Liberals"
-  description={`${totalIssues} periodical issues across ${seriesGroups.length} series — Khoj, The Indian Libertarian, Liberal Times, and more — indexed at the issue level with metadata and AI summaries.`}
+  title="Periodicals · Indian Liberals"
+  description={`${totalIssues} periodical issues across ${seriesGroups.length} series, Khoj, The Indian Libertarian, Liberal Times, and more, indexed at the issue level with metadata and AI summaries.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">

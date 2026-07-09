@@ -1,5 +1,5 @@
 ---
-// Organisations index — alphabetical list grouped by type.
+// Organisations index, alphabetical list grouped by type.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
@@ -44,8 +44,8 @@ const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
 ---
 
 <BaseLayout
-  title="Organisations — Indian Liberals"
-  description={`${orgs.length} organisations — think tanks, publishers, political parties, and reform societies that built the Indian liberal tradition.`}
+  title="Organisations · Indian Liberals"
+  description={`${orgs.length} organisations, think tanks, publishers, political parties, and reform societies that built the Indian liberal tradition.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-5xl px-6 py-16">
@@ -54,7 +54,7 @@ const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
       </p>
       <h1 class="text-(--color-fg) leading-tight">Organisations</h1>
       <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
-        {orgs.length} organisations — think tanks, publishers, political
+        {orgs.length} organisations, think tanks, publishers, political
         parties, reform societies, and professional bodies that hosted,
         published, or were debated by Indian liberal thinkers. Each profile
         cross-links the works published or issued by the organisation and

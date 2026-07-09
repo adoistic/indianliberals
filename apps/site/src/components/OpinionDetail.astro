@@ -1,12 +1,12 @@
 ---
-// OpinionDetail.astro — shared full-UI component for opinion entries.
+// OpinionDetail.astro - shared full-UI component for opinion entries.
 //
-// INVENTORY — which template each section came from:
+// INVENTORY - which template each section came from:
 //   FROM English only (previously missing in i18n route):
-//     - authorEntry resolution via getEntry() — i18n only used the raw
+//     - authorEntry resolution via getEntry() - i18n only used the raw
 //       author_name string fallback; now both routes resolve the contributor
 //       reference when present.
-//     - subjectEntry resolution via getEntry() — i18n lacked the "About
+//     - subjectEntry resolution via getEntry() - i18n lacked the "About
 //       <thinker>" link in the byline; English already had it.
 //     - ContributorCard "Written by" card (shown when authorEntry resolves);
 //       i18n template had no card at all. Per plan: contributors are
@@ -14,7 +14,7 @@
 //     - PeopleInPiece component (author/subject/mention slugs).
 //     - RelatedSection component.
 //   FROM i18n only (previously extra, now DROPPED per plan):
-//     - lang={o.data.language} on <h1> and on the prose-container div —
+//     - lang={o.data.language} on <h1> and on the prose-container div -
 //       BaseLayout already sets <html lang> to the page language, so these
 //       per-element attributes were redundant. Dropped here.
 //   BOTH routes retained (kept as-is):
@@ -30,7 +30,7 @@
 //   LANG-CONDITIONAL:
 //     - key_concepts chip link prefix differs between English (/opinions/) and
 //       i18n (/<lang>/opinions/). The component computes `opinionsListBase`
-//       via pathForCollection() from ~/lib/i18n — the shared helper that
+//       via pathForCollection() from ~/lib/i18n - the shared helper that
 //       musings/interviews should also use (Chunks 5/6).
 //   No description is passed to BaseLayout from either original template;
 //   that is preserved here (rely on BaseLayout's own default).
@@ -48,7 +48,7 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-// Alias for ergonomics — existing template logic uses `o`.
+// Alias for ergonomics - existing template logic uses `o`.
 const o = entry;
 const { Content } = await render(o);
 
@@ -77,7 +77,7 @@ const opinionsListBase = pathForCollection("opinions", o.data.language);
 ---
 
 <BaseLayout
-  title={`${o.data.title} — Indian Liberals`}
+  title={`${o.data.title} · Indian Liberals`}
   lang={o.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(o.data.translation_status)}

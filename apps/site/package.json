@@ -12,7 +12,8 @@
     "build:index": "pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
-    "check": "astro check"
+    "check": "astro check",
+    "lint:emdash": "node scripts/lint-no-emdash.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.6",

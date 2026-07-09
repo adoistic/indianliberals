@@ -1,7 +1,7 @@
 ---
 // Public-facing index for the ThePrint "Indian Liberals Matter" column.
 //
-// Each item links DIRECTLY to theprint.in — humans never land on the
+// Each item links DIRECTLY to theprint.in, humans never land on the
 // internal mirror page. The internal /theprint-mirror/<slug>/ routes
 // remain for AI agents (the .md siblings and AGENTS.md reference them)
 // but they're not surfaced to human readers anywhere.
@@ -18,8 +18,8 @@ const posts = (await getCollection("theprint-mirror", (p) => !p.data.draft)).sor
 ---
 
 <BaseLayout
-  title="From ThePrint — Indian Liberals Matter"
-  description="The Indian Liberals Matter column on ThePrint — a regular surface for the Indian liberal tradition. Each article links to ThePrint."
+  title="From ThePrint · Indian Liberals Matter"
+  description="The Indian Liberals Matter column on ThePrint, a regular surface for the Indian liberal tradition. Each article links to ThePrint."
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -30,7 +30,7 @@ const posts = (await getCollection("theprint-mirror", (p) => !p.data.draft)).sor
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
         A regular column on ThePrint surfacing the Indian liberal tradition
         for a contemporary readership. We catalogue every piece here and
-        link out to ThePrint where the canonical version lives — each
+        link out to ThePrint where the canonical version lives. Each
         article opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.
       </p>
     </div>

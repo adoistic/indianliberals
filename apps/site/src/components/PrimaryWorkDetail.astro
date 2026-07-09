@@ -1,7 +1,7 @@
 ---
-// PrimaryWorkDetail.astro — shared full-UI component for primary-work entries.
+// PrimaryWorkDetail.astro, shared full-UI component for primary-work entries.
 //
-// INVENTORY — which template each section came from:
+// INVENTORY, which template each section came from:
 //   FROM English only (previously missing in i18n route):
 //     - original_script / translit title paragraphs
 //     - purpose field in work-type label
@@ -15,7 +15,7 @@
 //     - Tier-B disclaimer paragraph
 //     - PeopleInPiece component
 //     - RelatedSection component
-//   FROM i18n only (lang= attrs on h1, subtitle, prose div) — DROPPED per
+//   FROM i18n only (lang= attrs on h1, subtitle, prose div), DROPPED per
 //     plan: page-level <html lang> set by BaseLayout covers the whole page;
 //     we only add lang= where text language differs from the page language,
 //     which is only the original_script paragraph (already in English template).
@@ -65,7 +65,7 @@ const placeStr = fm.publication?.place || "";
 const pubLine = [placeStr, yearStr].filter(Boolean).join(" · ");
 
 // Page count for the public-facing badge. We deliberately do NOT surface
-// the AI-extraction coverage (e.g. "20 of 206 rendered") here — that's
+// the AI-extraction coverage (e.g. "20 of 206 rendered") here, that's
 // editorial-pipeline detail, not interesting to a reader. Just show the
 // total page count when we know it.
 const pagesNote = (() => {
@@ -75,7 +75,7 @@ const pagesNote = (() => {
 
 // Bare integer for the "Read full PDF · N pages" tab label suffix.
 // Distinct from `pagesNote` (a formatted string used by the header badge).
-// `null` when the page count is unknown — tab label then degrades to
+// `null` when the page count is unknown, tab label then degrades to
 // "Read full PDF" (no suffix).
 const pageCount = fm.physical?.pages_total ?? fm.physical?.page_count ?? null;
 
@@ -105,8 +105,8 @@ const youtubeVideoId = (() => {
 })();
 
 // Pull quotes are the "shareable passage" UI. Two sources:
-//   1. summary_structured.pull_quotes — populated by some v1.5 PDF entries.
-//   2. thinker_mentions[].key_passages — populated by Phase B enrichment
+//   1. summary_structured.pull_quotes, populated by some v1.5 PDF entries.
+//   2. thinker_mentions[].key_passages, populated by Phase B enrichment
 //      (every enriched interview, plus newer PDFs). Each key_passage has
 //      { quote, what_it_shows }; we map onto the existing { verbatim,
 //      why_notable, page } shape so the render path stays uniform.
@@ -153,7 +153,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
 ---
 
 <BaseLayout
-  title={`${fm.title.main} — Indian Liberals`}
+  title={`${fm.title.main} · Indian Liberals`}
   description={descriptionForMeta}
   lang={fm.language}
   hreflang={hreflang}
@@ -230,7 +230,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       )}
     </header>
 
-    {/* Tab nav — only when this work has a downloadable PDF.
+    {/* Tab nav, only when this work has a downloadable PDF.
         Both buttons share identical Tailwind classes; aria-selected: drives the active style. */}
     {fm.pdf_url && (
       <div
@@ -271,7 +271,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
 
     {/* Summary tabpanel (in tab mode) or just the body section (no-PDF mode).
         When fm.pdf_url is unset, role/id/aria-labelledby are all undefined and
-        Astro omits them — the div renders as a plain wrapper. */}
+        Astro omits them, the div renders as a plain wrapper. */}
     <div
       role={fm.pdf_url ? "tabpanel" : undefined}
       id={fm.pdf_url ? "panel-summary" : undefined}
@@ -286,7 +286,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
           <div class="relative w-full" style="padding-bottom: 56.25%; height: 0;">
             <iframe
               src={`https://www.youtube-nocookie.com/embed/${youtubeVideoId}`}
-              title={`YouTube video — ${fm.title.main}`}
+              title={`YouTube video: ${fm.title.main}`}
               loading="lazy"
               allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
@@ -322,7 +322,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
         </section>
       )}
 
-      {/* Body markdown — contains the full Summary, Key points, and any
+      {/* Body markdown, contains the full Summary, Key points, and any
           additional sections the emitter wrote. The frontmatter `summary` and
           `ai_key_points` fields are intentionally truncated for the search
           index / og:description; the body is the canonical text shown to
@@ -361,7 +361,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       )}
     </div>
 
-    {/* Read PDF tabpanel — only when this work has a downloadable PDF.
+    {/* Read PDF tabpanel, only when this work has a downloadable PDF.
         Iframe is NOT rendered server-side; the inline script at the bottom
         injects it lazily on first tab activation. */}
     {fm.pdf_url && (
@@ -441,7 +441,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
               iframe.style.width = '100%';
               iframe.style.height = window.matchMedia('(max-width: 768px)').matches ? '70vh' : '80vh';
               iframe.style.border = '0';
-              // No loading="lazy" — the iframe is only constructed on click,
+              // No loading="lazy", the iframe is only constructed on click,
               // so it's already lazy in the meaningful sense.
               mount.appendChild(iframe);
               mount.dataset.loaded = 'true';
@@ -464,7 +464,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
         });
 
         // Honor initial URL hash. #read → PDF tab. Anything else → Summary.
-        // Do NOT focus the tab on hash-init — a deep-linked visitor expects
+        // Do NOT focus the tab on hash-init, a deep-linked visitor expects
         // to start reading, not to have a tab control under their cursor.
         const initial = window.location.hash === '#read' ? 1 : 0;
         if (initial !== 0) {

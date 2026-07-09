@@ -1,14 +1,14 @@
 ---
-// Thinkers landing page — the curated canon.
+// Thinkers landing page, the curated canon.
 //
 // Per CCS editorial direction (2026-06 review round): this page features a
-// small, curated list of the most significant thinkers — seeded from the
+// small, curated list of the most significant thinkers, seeded from the
 // legacy indianliberals.in "Indian Liberals" listing plus select additions
 // from the canon-core classification. Membership is controlled by the
 // `featured: true` frontmatter flag (Sveltia-editable, presentation-only).
 //
-// Everyone else in the corpus — the extended tradition, referenced figures,
-// and entries awaiting classification — remains reachable through
+// Everyone else in the corpus, the extended tradition, referenced figures,
+// and entries awaiting classification, remains reachable through
 // /thinkers/directory/. No thinker is removed from the archive by this
 // page; the cross-mention graph depends on them.
 
@@ -23,7 +23,7 @@ const allThinkers = await getCollection(
 const stats = await getThinkerStats();
 
 const featured = allThinkers.filter((t) => t.data.featured);
-// Chronological — the canon reads as the story of the tradition.
+// Chronological, the canon reads as the story of the tradition.
 const byBirth = (a: typeof featured[number], b: typeof featured[number]) =>
   (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999) ||
   a.data.name.sort.localeCompare(b.data.name.sort);
@@ -40,7 +40,7 @@ const directoryCount = allThinkers.length;
 const STATUS_LABEL: Record<string, string> = {
   core: "Liberal canon",
   extended: "Extended tradition",
-  referenced: "Referenced figure — outside the tradition",
+  referenced: "Referenced figure, outside the tradition",
   unclassified: "Awaiting classification",
 };
 const STATUS_RANK: Record<string, number> = { core: 0, extended: 1, referenced: 2, unclassified: 3 };
@@ -86,8 +86,8 @@ const prettifyVocation = (v: string): string => {
 ---
 
 <BaseLayout
-  title="Thinkers — Indian Liberals"
-  description="The curated canon of the Indian liberal tradition — from Raja Ram Mohan Roy through the Swatantra-era classical liberals."
+  title="Thinkers · Indian Liberals"
+  description="The curated canon of the Indian liberal tradition, from Raja Ram Mohan Roy through the Swatantra-era classical liberals."
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -96,7 +96,7 @@ const prettifyVocation = (v: string): string => {
       </p>
       <h1 class="text-(--color-fg) mb-4">The Indian liberal canon</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        The thinkers at the heart of this archive — the reformers, economists,
+        The thinkers at the heart of this archive, the reformers, economists,
         statesmen, and editors who built the case for individual liberty, free
         enterprise, and constitutional governance in modern India. Presented
         chronologically, from the early social reformers to the farmers&rsquo;
@@ -109,7 +109,7 @@ const prettifyVocation = (v: string): string => {
         </a>
       </p>
 
-      {/* Unified people search — covers the whole database, not just this page */}
+      {/* Unified people search, covers the whole database, not just this page */}
       <div class="mt-6 max-w-md font-(family-name:--font-ui)" data-pagefind-ignore>
         <label class="relative block">
           <span class="sr-only">Search all {directoryCount} people in the archive</span>
@@ -117,7 +117,7 @@ const prettifyVocation = (v: string): string => {
           <input
             id="people-search"
             type="search"
-            placeholder={`Search all ${directoryCount} people — canon, extended, referenced…`}
+            placeholder={`Search all ${directoryCount} people, canon, extended, referenced…`}
             autocomplete="off"
             aria-describedby="people-search-hint"
             class="w-full pl-9 pr-3 py-2 text-sm bg-(--color-bg) border border-(--color-border) rounded-full outline-none focus:border-(--color-saffron-500) transition-colors"
@@ -338,7 +338,7 @@ const prettifyVocation = (v: string): string => {
           Looking for someone else? Browse the full directory <span aria-hidden>→</span>
         </h2>
         <p class="text-(--color-fg-muted) leading-relaxed max-w-prose text-sm font-(family-name:--font-ui)">
-          The archive references {directoryCount} people in all — the broader liberal
+          The archive references {directoryCount} people in all, the broader liberal
           tradition, contemporary commentators, and figures from outside the
           tradition who appear in these pages through citation, critique, or
           debate. Their presence reflects their role in liberal writing, not

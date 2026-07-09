@@ -1,11 +1,11 @@
 ---
-// Site header — grouped disclosure navigation.
+// Site header: grouped disclosure navigation.
 //
 // Ten flat links wrapped badly at laptop widths and read as generic chrome.
 // The nav now groups destinations into three semantic clusters (People /
 // The collection / Commentary) plus About and Search. Each cluster opens a
 // panel listing its sections with a one-line description and a live count
-// computed from the content collections at build time — the navigation
+// computed from the content collections at build time; the navigation
 // itself tells you the shape and scale of the archive.
 //
 // Accessibility: WAI-ARIA disclosure-navigation pattern. Triggers are real
@@ -37,7 +37,7 @@ type NavGroup = { id: string; label: string; items: NavItem[] };
 const groups: NavGroup[] = [
   {
     id: "collection",
-    label: "The collection",
+    label: "Collections",
     items: [
       {
         label: "Primary works",
@@ -116,7 +116,7 @@ const aboutActive = isActive("/about/");
 ---
 
 <header class="sticky top-0 z-50 bg-(--color-bg)/95 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg)/80">
-  {/* Tricolor rule — the flag, reduced to a hairline. */}
+  {/* Tricolor rule: the flag, reduced to a hairline. */}
   <span class="block h-[3px] bg-gradient-to-r from-(--color-saffron-500) via-(--color-bg-muted) to-(--color-forest-500)" aria-hidden="true"></span>
   <div class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between gap-4">

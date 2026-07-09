@@ -1,9 +1,44 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
+
+// The eight content kinds, grouped by tier, for the "What you'll find here"
+// grid. Icons are simple inline stroke SVGs keyed by `icon`.
+const tierA = {
+  label: "Tier A",
+  heading: "Clean content",
+  note: "Already-clean text: fully searchable and paragraph-citable.",
+  kinds: [
+    { name: "Musings", href: "/musings/", desc: "Curated excerpts from the primary works.", icon: "quote" },
+    { name: "Opinions", href: "/opinions/", desc: "First-party commentary and feature essays.", icon: "pen" },
+    { name: "Interviews", href: "/interviews/", desc: "Oral histories and historic recorded addresses.", icon: "mic" },
+    { name: "Thinkers", href: "/thinkers/", desc: "Profiles of the people in the tradition.", icon: "users" },
+    { name: "Organisations", href: "/organisations/", desc: "The institutions that carried the movement.", icon: "building" },
+    { name: "From ThePrint", href: "/theprint-mirror/", desc: "A federated mirror of the ThePrint column.", icon: "news" },
+  ],
+};
+const tierB = {
+  label: "Tier B",
+  heading: "Primary sources",
+  note: "PDFs surfaced with AI-extracted metadata, summaries, and key points.",
+  kinds: [
+    { name: "Primary works", href: "/primary-works/", desc: "Books, pamphlets, essays, and speeches.", icon: "book" },
+    { name: "Periodicals", href: "/periodicals/", desc: "Complete runs, indexed issue by issue.", icon: "layers" },
+  ],
+};
+const icons: Record<string, string> = {
+  quote: '<path d="M7 7h4v6H5v-2a4 4 0 0 1 2-4Zm10 0h4v6h-6v-2a4 4 0 0 1 2-4Z"/>',
+  pen: '<path d="m12 20 9-9-4-4-9 9v4h4Z"/><path d="m14 6 4 4"/>',
+  mic: '<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/>',
+  users: '<circle cx="9" cy="8" r="3"/><path d="M3 20a6 6 0 0 1 12 0M16 6a3 3 0 0 1 0 6M21 20a5 5 0 0 0-4-5"/>',
+  building: '<rect x="5" y="3" width="14" height="18" rx="1"/><path d="M9 7h2M13 7h2M9 11h2M13 11h2M9 15h2M13 15h2"/>',
+  news: '<rect x="3" y="5" width="14" height="14" rx="1"/><path d="M17 8h3a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H6M7 9h6M7 13h6M7 17h3"/>',
+  book: '<path d="M5 4a1 1 0 0 1 1-1h13v16H6a1 1 0 0 0-1 1V4Z"/><path d="M5 18a1 1 0 0 0 1 1h13"/>',
+  layers: '<path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 13 9 5 9-5"/>',
+};
 ---
 
 <BaseLayout
-  title="About — Indian Liberals"
+  title="About · Indian Liberals"
   description="About the Indian Liberals project: who maintains it, why it exists, and how it works."
 >
   <article class="mx-auto max-w-3xl px-6 py-16">
@@ -19,13 +54,52 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
       <p class="my-5">
         The archive is maintained by the <a href="https://ccs.in" class="text-(--color-forest-700)">Centre for Civil Society</a>. The site you are reading was rebuilt by <a href="https://thothica.com" class="text-(--color-forest-700)">Thothica</a> using the same architectural template that powers <a href="https://falsafa.ai" class="text-(--color-forest-700)">Falsafa</a> and <a href="https://libertylighthouse.ccs.in" class="text-(--color-forest-700)">Liberty Lighthouse</a>.
       </p>
+    </div>
 
-      <h2 class="mt-12 mb-4 text-(--color-fg)">What you&rsquo;ll find here</h2>
-      <p class="my-5">
-        Eight content kinds, organised in two tiers. <strong>Tier A</strong> is already-clean content — musings, opinion pieces, interviews, thinker profiles, organisation pages, and the ThePrint mirror — fully searchable and paragraph-citable. <strong>Tier B</strong> is the primary-work and periodical PDFs — surfaced with rich AI-extracted metadata, summaries, and key points, with the PDF itself as the canonical reference.
+    {/* What you'll find here - the eight content kinds, grouped by tier.
+        Rendered outside .prose-container so the cards keep chrome-link
+        styling (no underline). */}
+    <section class="mt-14 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">What you&rsquo;ll find here</h2>
+      <p class="mt-2 mb-8 text-(--color-fg-muted) leading-relaxed">
+        Eight content kinds, organised in two tiers.
       </p>
 
-      <h2 class="mt-12 mb-4 text-(--color-fg)">For researchers and AI agents</h2>
+      {[tierA, tierB].map((tier) => (
+        <div class="mb-8">
+          <div class="flex items-baseline gap-3 mb-4 pb-2 border-b border-(--color-border)">
+            <span class="inline-flex items-center rounded-full bg-(--color-saffron-500)/15 px-2.5 py-0.5 text-xs font-semibold uppercase tracking-wider text-(--color-saffron-700)">
+              {tier.label}
+            </span>
+            <span class="text-sm font-semibold text-(--color-fg)">{tier.heading}</span>
+            <span class="hidden sm:inline text-xs text-(--color-fg-muted)">{tier.note}</span>
+          </div>
+          <div class="grid gap-3 sm:grid-cols-2">
+            {tier.kinds.map((k) => (
+              <a
+                href={k.href}
+                class="group flex items-start gap-3 rounded-lg border border-(--color-border) bg-(--color-bg) p-4 no-underline! hover:border-(--color-fg) hover:shadow-sm transition-all"
+              >
+                <span class="mt-0.5 shrink-0 text-(--color-forest-700) group-hover:text-(--color-saffron-700) transition-colors" aria-hidden="true">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" set:html={icons[k.icon]} />
+                </span>
+                <span class="min-w-0">
+                  <span class="block text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
+                    {k.name}
+                  </span>
+                  <span class="block text-xs text-(--color-fg-muted) leading-relaxed mt-0.5">
+                    {k.desc}
+                  </span>
+                </span>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] mt-14">
+      <h2 class="mb-4 text-(--color-fg)">For researchers and AI agents</h2>
       <p class="my-5">
         Every HTML page has a markdown sibling at the same URL with <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">.md</code> appended. The curated index lives at <a href="/llms.txt" class="text-(--color-forest-700)">/llms.txt</a>; the full archive (every Tier A piece in full, every Tier B summary) lives at <a href="/llms-full.txt" class="text-(--color-forest-700)">/llms-full.txt</a>. The schema, citation rules, and tier system are documented at <a href="/AGENTS.md" class="text-(--color-forest-700)">/AGENTS.md</a>.
       </p>
@@ -35,7 +109,7 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 
       <h2 class="mt-12 mb-4 text-(--color-fg)">Citation</h2>
       <p class="my-5">
-        Tier A pieces carry paragraph-stable IDs of the form <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">#p-xxxxxx</code> — deep-link citable. Tier B primary-work claims should be attributed at summary-level to Indian Liberals and link directly to the PDF for the underlying source. The full citation policy is in <a href="/AGENTS.md" class="text-(--color-forest-700)">/AGENTS.md</a>.
+        Tier A pieces carry paragraph-stable IDs of the form <code class="font-(family-name:--font-mono) text-sm bg-(--color-bg-muted) px-1.5 py-0.5 rounded">#p-xxxxxx</code>, deep-link citable. Tier B primary-work claims should be attributed at summary-level to Indian Liberals and link directly to the PDF for the underlying source. The full citation policy is in <a href="/AGENTS.md" class="text-(--color-forest-700)">/AGENTS.md</a>.
       </p>
     </div>
   </article>

@@ -14,7 +14,7 @@ export const GET: APIRoute = async () => {
   const periodicals = await getCollection("periodicals", (p) => !p.data.draft);
   const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
 
-  const body = `# AGENTS.md — Indian Liberals
+  const body = `# AGENTS.md · Indian Liberals
 
 Schema, citation rules, and tier system for autonomous agents reading this site.
 
