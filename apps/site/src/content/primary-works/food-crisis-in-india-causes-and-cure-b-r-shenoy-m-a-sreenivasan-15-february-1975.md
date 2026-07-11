@@ -28,7 +28,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://indianliberals.in/forum-of-free-enterprise/food-crisis-in-india-causes-and-cure-b-r-shenoy-m-a-sreenivasan-15-february-1975.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/food-crisis-in-india-causes-and-cure-b-r-shenoy-m-a-sreenivasan-15-february-1975.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
