@@ -51,7 +51,7 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
-pdf_url: https://indianliberals.in/marathi/vedepir-anant-umrikar.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/vedepir-anant-umrikar.pdf
 ---
 
 ## Summary
