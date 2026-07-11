@@ -59,7 +59,7 @@ authors_resolution:
 contributors:
   - thinker: kaushal-kishor
     role: translator
-pdf_url: https://indianliberals.in/liberals/udarwad-raj-samaj-aur-bazar-ka-naya-paath-hindi-book-based-on-free-your-mind.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/udarwad-raj-samaj-aur-bazar-ka-naya-paath-hindi-book-based-on-free-your-mind.pdf
 ---
 
 ## Summary
