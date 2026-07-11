@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/profit-is-a-necessity-for-the-economy-profiteering-is-not-arvind-narottam-lalbhai/969377/) on 2026-07-09. Originally published 2026-05-09. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/profit-is-a-necessity-for-the-economy-profiteering-is-not-arvind-narottam-lalbhai/969377/) on 2026-07-11. Originally published 2026-05-09. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # मुनाफा अर्थव्यवस्था की जरूरत है, मुनाफाखोरी नहीं — अरविंद नरोत्तम लालभाई
 

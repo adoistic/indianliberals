@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/welfare-state-or-a-harmful-state-gn-lawande/926366/) on 2026-07-09. Originally published 2026-01-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/welfare-state-or-a-harmful-state-gn-lawande/926366/) on 2026-07-11. Originally published 2026-01-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # कल्याणकारी राज्य देश के लिए सामाजिक और आर्थिक आपदा: जीएन लवांडे
 
