@@ -22,7 +22,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://indianliberals.in/forum-of-free-enterprise/where-is-economic-power-being-concentrated-m-a-masters-august-8-1958.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/where-is-economic-power-being-concentrated-m-a-masters-august-8-1958.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
