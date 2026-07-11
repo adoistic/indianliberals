@@ -56,7 +56,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://indianliberals.in/liberal-times/liberalism-in-south-asia.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberal-times/liberalism-in-south-asia.pdf
 cover_image: "/periodicals/covers/liberalism-in-south-asia.webp"
 rights:
   status: takedown_on_request
