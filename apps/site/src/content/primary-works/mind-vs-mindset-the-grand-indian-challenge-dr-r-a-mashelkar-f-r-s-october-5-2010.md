@@ -26,7 +26,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://indianliberals.in/forum-of-free-enterprise/mind-vs-mindset-the-grand-indian-challenge-dr-r-a-mashelkar-f-r-s-october-5-2010.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/mind-vs-mindset-the-grand-indian-challenge-dr-r-a-mashelkar-f-r-s-october-5-2010.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
