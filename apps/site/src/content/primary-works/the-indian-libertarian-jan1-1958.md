@@ -59,7 +59,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan1-1958.pdf
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-jan1-1958.pdf
 rights:
   status: takedown_on_request
   license: in-copyright
