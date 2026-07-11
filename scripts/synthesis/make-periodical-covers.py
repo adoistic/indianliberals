@@ -34,11 +34,14 @@ WIDTH = 480
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--glob", default="*.md",
+                    help="filename glob to scope the run (default: all *.md; "
+                         "e.g. 'ff*.md' for just Freedom First)")
     args = ap.parse_args()
 
     OUT.mkdir(parents=True, exist_ok=True)
     ok, failed = 0, []
-    for f in sorted(WORKS.glob("*.md")):
+    for f in sorted(WORKS.glob(args.glob)):
         t = f.read_text()
         if not re.search(r'^work_type: "?periodical_issue"?$', t, re.M):
             continue
