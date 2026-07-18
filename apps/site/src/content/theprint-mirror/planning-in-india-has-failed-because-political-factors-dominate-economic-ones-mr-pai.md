@@ -11,7 +11,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/planning-in-india-has-failed-because-political-factors-dominate-economic-ones-mr-pai/2939160/) on 2026-07-11. Originally published 2026-05-23. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/planning-in-india-has-failed-because-political-factors-dominate-economic-ones-mr-pai/2939160/) on 2026-07-18. Originally published 2026-05-23. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Planning in India has failed because political factors dominate economic ones: MR Pai
 

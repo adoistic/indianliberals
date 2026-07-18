@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/social-injustice-cannot-be-avoided-in-a-socialist-economic-system-b-r-shenoy/948088/) on 2026-07-11. Originally published 2026-03-22. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/social-injustice-cannot-be-avoided-in-a-socialist-economic-system-b-r-shenoy/948088/) on 2026-07-18. Originally published 2026-03-22. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # समाजवादी आर्थिक प्रणाली में सामाजिक अन्याय को टाला नहीं जा सकता: बीआर शेनॉय
 

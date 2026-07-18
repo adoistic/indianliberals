@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/increasing-government-interference-in-the-freedom-of-universities-is-a-threat-to-democracy-g-d-parikh/972313/) on 2026-07-11. Originally published 2026-05-16. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/increasing-government-interference-in-the-freedom-of-universities-is-a-threat-to-democracy-g-d-parikh/972313/) on 2026-07-18. Originally published 2026-05-16. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # विश्वविद्यालयों की आज़ादी पर बढ़ता सरकारी हस्तक्षेप लोकतंत्र के लिए खतरा: जी. डी. पारिख
 
