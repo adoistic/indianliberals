@@ -149,9 +149,14 @@ const workMentions = allWorks
 // inflating this figure above the authored-only count shown on the thinkers
 // landing page (CCS round-2 feedback #11). The landing page reads
 // worksAuthored from thinker-stats.ts, which likewise excludes ThePrint.
+// "By <name>" counts only works this thinker genuinely authored (primary
+// works + opinion pieces). Excerpts (musings) get their OWN section below:
+// an excerpt in this archive may be a quoted passage, a summary, or an
+// editorial description, so folding it under "By <name>" wrongly reads as
+// their authorship and confuses readers (Adnan, 2026-07).
 const authorshipCount =
-  worksByThisThinker.length + musingsByThisThinker.length +
-  opinionsByThisThinker.length;
+  worksByThisThinker.length + opinionsByThisThinker.length;
+const excerptCount = musingsByThisThinker.length;
 const aboutCount = interviewsAbout.length + opinionsAbout.length;
 const mentionCount =
   opinionMentions.length + musingMentions.length + workMentions.length +
@@ -398,23 +403,6 @@ const bioSourceLabel =
               </ul>
             </div>
           )}
-          {musingsByThisThinker.length > 0 && (
-            <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Excerpts ({musingsByThisThinker.length})</h3>
-              <ul class="space-y-2">
-                {musingsByThisThinker.slice(0, 10).map((m) => (
-                  <li>
-                    <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {m.data.title}
-                    </a>
-                  </li>
-                ))}
-                {musingsByThisThinker.length > 10 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {musingsByThisThinker.length - 10} more</li>
-                )}
-              </ul>
-            </div>
-          )}
           {opinionsByThisThinker.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionsByThisThinker.length})</h3>
@@ -430,6 +418,32 @@ const bioSourceLabel =
             </div>
           )}
         </div>
+      </section>
+    )}
+
+    {/* ── Excerpts: passages associated with this thinker ─────────── */}
+    {/* Its own section, deliberately separate from "By <name>": an excerpt
+        here may be a quoted passage, a summary, or an editorial description,
+        not necessarily prose the thinker wrote (Adnan, 2026-07). */}
+    {excerptCount > 0 && (
+      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-2">
+          Excerpts ({excerptCount})
+        </h2>
+        <p class="text-sm text-(--color-fg-muted) leading-relaxed mb-4 max-w-prose">
+          Short passages from the archive associated with {t.data.name.canonical}.
+          An excerpt may be a quoted passage, a summary, or an editorial
+          description, so these are kept separate from the works {t.data.name.canonical} authored.
+        </p>
+        <ul class="grid gap-x-6 gap-y-2 md:grid-cols-2">
+          {musingsByThisThinker.map((m) => (
+            <li>
+              <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
+                {m.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
       </section>
     )}
 
