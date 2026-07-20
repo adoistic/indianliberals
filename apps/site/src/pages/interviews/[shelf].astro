@@ -1,0 +1,135 @@
+---
+// One interview shelf: /interviews/<shelf>/ shows the recordings of a single
+// figure (their oral history) or a single themed collection (historic lectures,
+// topical talks, IL Explainers, or the conversations), linked from the
+// periodical-style index. Mirrors /periodicals/[series]/. (Adnan, 2026-07)
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import {
+  getInterviewShelves,
+  videoIdFor,
+  durationFor,
+  speakerFor,
+  workHref,
+  type Shelf,
+} from "~/lib/interviews";
+
+export async function getStaticPaths() {
+  const { figures, collections } = await getInterviewShelves();
+  return [...figures, ...collections].map((s) => ({
+    params: { shelf: s.slug },
+    props: { shelf: s },
+  }));
+}
+
+const { shelf } = Astro.props as { shelf: Shelf };
+const s = shelf;
+
+// Per-card speaker byline is useful in collections (which mix voices); in a
+// figure shelf every recording is the same person, so we suppress it.
+const thinkers = await getCollection("thinkers");
+const thinkerById = new Map(thinkers.map((t) => [t.id, t]));
+const showSpeaker = s.kind === "collection";
+
+const count = s.items.length;
+const kindLabel = s.kind === "figure" ? "conversation" : "recording";
+---
+
+<BaseLayout
+  title={`${s.title} · Interviews · Indian Liberals`}
+  description={`${count} ${kindLabel}${count === 1 ? "" : "s"}${s.yearRange ? ` (${s.yearRange})` : ""} — ${s.title}, from the Indian Liberals recorded-voices archive.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        <a href="/interviews/" class="hover:text-(--color-fg)">Interviews</a>
+        <span aria-hidden> / </span>{s.kind === "figure" ? "By figure" : "Collections"}
+      </p>
+      <div class="flex items-start gap-5">
+        {s.kind === "figure" && (
+          <div class="shrink-0 w-24 md:w-28 aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-end justify-center">
+            {s.portrait ? (
+              <img src={s.portrait} alt="" width="160" height="214" loading="lazy" class="w-full h-full object-cover" />
+            ) : (
+              <span aria-hidden="true" class="text-(--color-saffron-700) text-3xl font-(family-name:--font-display) font-semibold opacity-60">
+                {s.title.charAt(0)}
+              </span>
+            )}
+          </div>
+        )}
+        <div class="min-w-0">
+          <h1 class="text-(--color-fg) mb-2 font-(family-name:--font-display)">{s.title}</h1>
+          <p class="text-(--color-fg-muted) text-sm mb-4 font-(family-name:--font-ui)">
+            {count} {kindLabel}{count === 1 ? "" : "s"}
+            {s.yearRange && ` · ${s.yearRange}`}
+          </p>
+          <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{s.blurb}</p>
+          {s.kind === "figure" && s.thinkerId && (
+            <p class="mt-4 font-(family-name:--font-ui) text-sm">
+              <a href={`/thinkers/${s.thinkerId}/`} class="font-semibold text-(--color-forest-700) hover:text-(--color-fg) no-underline">
+                Read {s.title}&rsquo;s profile <span aria-hidden>→</span>
+              </a>
+            </p>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
+      {s.items.map((w) => {
+        const vid = videoIdFor(w);
+        const dur = durationFor(w);
+        const y = w.data.publication?.year;
+        const sp = showSpeaker ? speakerFor(w, thinkerById) : null;
+        return (
+          <li>
+            <a
+              href={workHref(w)}
+              class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+            >
+              <div class="relative aspect-video bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
+                {vid ? (
+                  <img
+                    src={`https://i.ytimg.com/vi/${vid}/hqdefault.jpg`}
+                    alt=""
+                    width="320"
+                    height="180"
+                    loading="lazy"
+                    class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
+                  />
+                ) : (
+                  <div class="w-full h-full flex items-center justify-center text-(--color-fg-muted)" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg>
+                  </div>
+                )}
+                <span class="absolute inset-0 flex items-center justify-center" aria-hidden="true">
+                  <span class="h-9 w-9 rounded-full bg-black/55 group-hover:bg-(--color-saffron-700)/90 transition-colors flex items-center justify-center">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
+                  </span>
+                </span>
+                {dur && (
+                  <span class="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/70 text-white text-[10px] tracking-wide">
+                    {dur}
+                  </span>
+                )}
+              </div>
+              <div class="p-3">
+                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug text-sm">
+                  {w.data.title.main}
+                </div>
+                <div class="text-xs text-(--color-fg-muted) mt-1">
+                  {sp?.name}
+                  {sp?.name && y && " · "}
+                  {y}
+                </div>
+              </div>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</BaseLayout>

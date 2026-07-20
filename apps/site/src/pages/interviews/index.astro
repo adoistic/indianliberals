@@ -1,192 +1,23 @@
 ---
-// Interviews index, recorded voices of the Indian liberal tradition.
+// Interviews index — the recorded voices of the Indian liberal tradition,
+// presented like the periodical space (CCS round-2 model, Adnan 2026-07):
+// a wall of openable cards rather than one long scroll. You pick a *figure*
+// (an interviewee whose oral history spans several sittings) or a *collection*
+// (historic lectures, topical talks, IL Explainers, or the conversations) and
+// open it at /interviews/<shelf>/ to see the recordings inside.
 //
-// Interviews live inside the primary-works collection with
-// work_type: "interview". This page gives them a curated home instead of
-// leaving them buried in the primary-works listing: oral histories grouped
-// by interviewee, historic lectures and addresses, topical talks and
-// monologues, and the animated IL Explainer shorts. Card links resolve to
-// the existing primary-work detail pages (which carry the embedded player
-// and the cleaned transcript).
-//
-// Dating note: publication.year now records the year the recording was
-// made / the address was delivered (recovered from source credits and
-// internal evidence), not the year it was imported into the archive, see
-// provenance.notes on each entry.
+// All grouping logic and the figure/collection split live in
+// ~/lib/interviews.ts (shared with the per-shelf page).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
-import { getCollection } from "astro:content";
-import { DEFAULT_LOCALE } from "~/lib/i18n";
+import { getInterviewShelves } from "~/lib/interviews";
 
-const interviews = await getCollection(
-  "primary-works",
-  (w) => !w.data.draft && w.data.work_type === "interview",
-);
-const thinkers = await getCollection("thinkers");
-const thinkerById = new Map(thinkers.map((t) => [t.id, t]));
-
-type Entry = (typeof interviews)[number];
-
-function videoIdFor(w: Entry): string {
-  const u = w.data.youtube_url ?? "";
-  const m =
-    u.match(/[?&]v=([a-zA-Z0-9_-]{6,15})/) ??
-    u.match(/youtu\.be\/([a-zA-Z0-9_-]{6,15})/) ??
-    u.match(/youtube\.com\/embed\/([a-zA-Z0-9_-]{6,15})/);
-  return m ? m[1] : "";
-}
-
-// Duration is baked into the transcript body header ("Duration: 1536.4s").
-function durationFor(w: Entry): string {
-  const m = (w.body ?? "").match(/^Duration: (\d+)/m);
-  if (!m) return "";
-  const mins = Math.round(Number(m[1]) / 60);
-  return mins < 1 ? "1 min" : `${mins} min`;
-}
-
-// Speaker byline: resolved author thinker first; otherwise the first named
-// speaker tag in the diarized transcript ("**Sudha Shenoy** (00:02):").
-function speakerFor(w: Entry): { name: string; thinkerId?: string } | null {
-  const a = w.data.authors?.[0];
-  if (a && thinkerById.has(a.id)) {
-    return { name: thinkerById.get(a.id)!.data.name.canonical, thinkerId: a.id };
-  }
-  const m = (w.body ?? "").match(/^\*\*(?!Speaker\b|Narrator\b)([^*]+?)\*\* \(/m);
-  return m ? { name: m[1].trim() } : null;
-}
-
-function workHref(w: Entry): string {
-  return w.data.language && w.data.language !== DEFAULT_LOCALE
-    ? `/${w.data.language}/primary-works/${w.id}/`
-    : `/primary-works/${w.id}/`;
-}
-
-// ── Grouping ────────────────────────────────────────────────────────────
-const EXPLAINER_IDS = new Set([
-  "women-liberals-dr-janaki",
-  "the-life-legacy-of-lady-abala-bose",
-  "mithan-tata-lam-an-indian-lawyer-and-suffragist",
-]);
-const LECTURE_IDS = new Set([
-  "union-budget-1992-1993-by-nani-palkhivala",
-  "an-auxiliary-for-historians-the-contribution-of-older-austrians",
-  "the-case-against-neo-protectionism",
-  "how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy",
-  "the-new-global-marketplace-sudha-shenoy",
-  "the-hayek-keynes-debate-1931-1971-by-sudha-r-shenoy",
-  "indian-liberal-tradition-gp-manish",
-]);
-const ORAL_PREFIXES = ["d-r-pendse-on", "minoo-shroff-on", "sunil-bhandare-on", "s-divakara-on"];
-const ORAL_IDS = new Set([
-  "minoo-masani-on-nehrus-adoption-of-socialism-in-conversation-with-zareer-masani",
-  "minoo-masanis-disenchantment-with-the-soviet-economic-model-in-coversation-with-zareer-masani",
-  "jagdish-bhagwati-on-milton-friedman",
-  "in-conversation-with-ronald-meinardus-regional-director-fnf-south-asia",
-  // Lok Satta founder Jayaprakash Narayan's 2020 conversation series.
-  "the-early-years-emergency-era-and-tryst-with-civil-services",
-  "the-challenges-for-liberal-grassroots-movements",
-  "the-hope-for-a-liberal-political-alternative",
-  "the-relationship-between-citizen-and-state",
-]);
-
-type GroupId = "oral" | "lectures" | "talks" | "explainers";
-function groupFor(w: Entry): GroupId {
-  if (w.id.startsWith("il-explainer") || EXPLAINER_IDS.has(w.id)) return "explainers";
-  if (LECTURE_IDS.has(w.id)) return "lectures";
-  if (ORAL_PREFIXES.some((p) => w.id.startsWith(p)) || ORAL_IDS.has(w.id)) return "oral";
-  return "talks";
-}
-
-const byGroup: Record<GroupId, Entry[]> = { oral: [], lectures: [], talks: [], explainers: [] };
-for (const w of interviews) byGroup[groupFor(w)].push(w);
-
-// Oral histories: sub-group by speaker so each sitting reads as one shelf.
-type OralShelf = {
-  name: string;
-  thinkerId?: string;
-  portrait?: string;
-  items: Entry[];
-  yearRange: string;
-};
-const oralByName = new Map<string, OralShelf>();
-for (const w of byGroup.oral) {
-  const sp = speakerFor(w) ?? { name: "Conversations" };
-  if (!oralByName.has(sp.name)) {
-    const t = sp.thinkerId ? thinkerById.get(sp.thinkerId) : undefined;
-    const portraitData = t?.data.portrait as
-      | { duotone?: string; caricature?: string; ring_portrait?: string }
-      | undefined;
-    oralByName.set(sp.name, {
-      name: sp.name,
-      thinkerId: sp.thinkerId,
-      portrait: portraitData?.duotone ?? portraitData?.caricature ?? portraitData?.ring_portrait,
-      items: [],
-      yearRange: "",
-    });
-  }
-  oralByName.get(sp.name)!.items.push(w);
-}
-const oralShelves = [...oralByName.values()]
-  .sort((a, b) => b.items.length - a.items.length || a.name.localeCompare(b.name));
-for (const shelf of oralShelves) {
-  shelf.items.sort((a, b) => a.data.title.main.localeCompare(b.data.title.main));
-  const years = shelf.items
-    .map((w) => w.data.publication?.year)
-    .filter((y): y is number => y != null);
-  if (years.length > 0) {
-    const lo = Math.min(...years);
-    const hi = Math.max(...years);
-    shelf.yearRange = lo === hi ? String(lo) : `${lo}–${hi}`;
-  }
-}
-
-byGroup.lectures.sort(
-  (a, b) => (a.data.publication?.year ?? 9999) - (b.data.publication?.year ?? 9999),
-);
-byGroup.talks.sort(
-  (a, b) =>
-    (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0) ||
-    a.data.title.main.localeCompare(b.data.title.main),
-);
-byGroup.explainers.sort((a, b) => a.id.localeCompare(b.id));
-
-const total = interviews.length;
-const years = interviews
-  .map((w) => w.data.publication?.year)
-  .filter((y): y is number => y != null);
-const yearSpan = `${Math.min(...years)}–${Math.max(...years)}`;
-
-const SECTION_META: { id: GroupId; title: string; blurb: string }[] = [
-  {
-    id: "oral",
-    title: "Oral histories",
-    blurb:
-      "Sit-down conversations with veterans of the Indian liberal movement, economists, business leaders, and organisers recalling the licence raj, the 1991 reforms, and the institutions they built.",
-  },
-  {
-    id: "lectures",
-    title: "Historic lectures & addresses",
-    blurb:
-      "Recordings of addresses delivered decades before they reached the archive, from Nani Palkhivala's 1992 Union Budget address to Sudha Shenoy's lectures at the Mises Institute.",
-  },
-  {
-    id: "talks",
-    title: "Talks & monologues",
-    blurb:
-      "Topical talks from the #IndianLiberals series, Bollywood and liberalisation, forest rights, the farmers' movement, populism, and the state of the liberal project.",
-  },
-  {
-    id: "explainers",
-    title: "IL Explainers",
-    blurb:
-      "Short animated explainers on landmark liberal texts and under-told figures, B.R. Shenoy, Begum Rokeya, Tagore's Streer Potro, and the women liberals series.",
-  },
-];
+const { figures, collections, total, yearSpan } = await getInterviewShelves();
 ---
 
 <BaseLayout
   title="Interviews & oral history · Indian Liberals"
-  description={`${total} recorded interviews, oral histories, lectures, and explainers spanning ${yearSpan}, with transcripts, AI summaries, and embedded video.`}
+  description={`${total} recorded interviews, oral histories, lectures, and explainers spanning ${yearSpan}. Open a figure to hear their oral history, or browse the themed collections.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -195,11 +26,12 @@ const SECTION_META: { id: GroupId; title: string; blurb: string }[] = [
       </p>
       <h1 class="text-(--color-fg) mb-4">Interviews &amp; oral history</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        The spoken record of the Indian liberal tradition: oral-history
-        conversations with people who lived the licence raj and the 1991
-        reforms, historic addresses recovered from tape, and topical talks.
-        Every recording carries a cleaned transcript, an AI summary, and the
-        original video or audio.
+        The spoken record of the Indian liberal tradition. Open a figure to hear
+        their oral history — the people who lived the licence raj and the 1991
+        reforms, sitting down to tell it — or browse the themed collections of
+        historic addresses, topical talks, animated explainers, and
+        conversations. Every recording carries a cleaned transcript, an AI
+        summary, and the original video.
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {total} recordings · {yearSpan} · transcripts included
@@ -207,162 +39,104 @@ const SECTION_META: { id: GroupId; title: string; blurb: string }[] = [
     </div>
   </section>
 
-  {SECTION_META.map((sec) => (
-    <section class="border-b border-(--color-border) last:border-b-0">
+  {/* ── By figure ─────────────────────────────────────────────────── */}
+  {figures.length > 0 && (
+    <section class="border-b border-(--color-border)">
       <div class="mx-auto max-w-6xl px-6 py-12">
         <div class="mb-8 max-w-prose">
-          <h2 class="text-(--color-fg) text-2xl md:text-3xl font-(family-name:--font-display)">{sec.title}</h2>
-          <p class="text-(--color-fg-muted) text-sm mt-1 font-(family-name:--font-ui)">
-            {(sec.id === "oral" ? byGroup.oral : byGroup[sec.id]).length} recordings
+          <h2 class="text-(--color-fg) text-2xl md:text-3xl font-(family-name:--font-display)">By figure</h2>
+          <p class="text-(--color-fg-muted) leading-relaxed mt-2">
+            Interviewees whose oral histories run across several sittings. Open a
+            figure to see every conversation with them in one place.
           </p>
-          <p class="text-(--color-fg-muted) leading-relaxed mt-3">{sec.blurb}</p>
         </div>
-
-        {sec.id === "oral" ? (
-          <div class="space-y-10">
-            {oralShelves.map((shelf) => (
-              <div>
-                <div class="flex items-center gap-3 mb-4">
-                  {shelf.portrait ? (
+        <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-8 font-(family-name:--font-ui)">
+          {figures.map((f) => (
+            <li>
+              <a href={`/interviews/${f.slug}/`} class="group block no-underline">
+                <div class="aspect-[3/4] bg-(--color-bg-muted) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
+                  {f.portrait ? (
                     <img
-                      src={shelf.portrait}
+                      src={f.portrait}
                       alt=""
-                      width="44"
-                      height="44"
+                      width="240"
+                      height="320"
                       loading="lazy"
-                      class="h-11 w-11 rounded-full object-cover border border-(--color-border)"
+                      class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
                     />
                   ) : (
-                    <span
-                      aria-hidden="true"
-                      class="h-11 w-11 rounded-full bg-(--color-bg-muted) border border-(--color-border) flex items-center justify-center font-(family-name:--font-display) font-semibold text-(--color-saffron-700)"
-                    >
-                      {shelf.name.charAt(0)}
+                    <span aria-hidden="true" class="text-(--color-saffron-700) text-4xl font-(family-name:--font-display) font-semibold opacity-60">
+                      {f.title.charAt(0)}
                     </span>
                   )}
-                  <div>
-                    <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) leading-tight">
-                      {shelf.thinkerId ? (
-                        <a href={`/thinkers/${shelf.thinkerId}/`} class="no-underline hover:text-(--color-saffron-700) transition-colors">
-                          {shelf.name}
-                        </a>
-                      ) : (
-                        shelf.name
-                      )}
-                    </h3>
-                    <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-                      {shelf.items.length === 1 ? "1 conversation" : `${shelf.items.length} conversations`}
-                      {shelf.yearRange && ` · ${shelf.yearRange}`}
-                    </p>
-                  </div>
                 </div>
-                <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
-                  {shelf.items.map((w) => {
-                    const vid = videoIdFor(w);
-                    const dur = durationFor(w);
-                    const y = w.data.publication?.year;
-                    return (
-                      <li>
-                        <a
-                          href={workHref(w)}
-                          class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
-                        >
-                          <div class="relative aspect-video bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
-                            {vid ? (
-                              <img
-                                src={`https://i.ytimg.com/vi/${vid}/hqdefault.jpg`}
-                                alt=""
-                                width="320"
-                                height="180"
-                                loading="lazy"
-                                class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
-                              />
-                            ) : (
-                              <div class="w-full h-full flex items-center justify-center text-(--color-fg-muted)" aria-hidden="true">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg>
-                              </div>
-                            )}
-                            <span class="absolute inset-0 flex items-center justify-center" aria-hidden="true">
-                              <span class="h-9 w-9 rounded-full bg-black/55 group-hover:bg-(--color-saffron-700)/90 transition-colors flex items-center justify-center">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
-                              </span>
-                            </span>
-                            {dur && (
-                              <span class="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/70 text-white text-[10px] tracking-wide">
-                                {dur}
-                              </span>
-                            )}
-                          </div>
-                          <div class="p-3">
-                            <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug text-sm">
-                              {w.data.title.main}
-                            </div>
-                            {y && <div class="text-xs text-(--color-fg-muted) mt-1">{y}</div>}
-                          </div>
-                        </a>
-                      </li>
-                    );
-                  })}
-                </ul>
-              </div>
-            ))}
-          </div>
-        ) : (
-          <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
-            {byGroup[sec.id].map((w) => {
-              const vid = videoIdFor(w);
-              const dur = durationFor(w);
-              const sp = speakerFor(w);
-              const y = w.data.publication?.year;
-              return (
-                <li>
-                  <a
-                    href={workHref(w)}
-                    class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
-                  >
-                    <div class="relative aspect-video bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
-                      {vid ? (
-                        <img
-                          src={`https://i.ytimg.com/vi/${vid}/hqdefault.jpg`}
-                          alt=""
-                          width="320"
-                          height="180"
-                          loading="lazy"
-                          class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
-                        />
-                      ) : (
-                        <div class="w-full h-full flex items-center justify-center text-(--color-fg-muted)" aria-hidden="true">
-                          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg>
-                        </div>
-                      )}
-                      <span class="absolute inset-0 flex items-center justify-center" aria-hidden="true">
-                        <span class="h-9 w-9 rounded-full bg-black/55 group-hover:bg-(--color-saffron-700)/90 transition-colors flex items-center justify-center">
-                          <svg width="14" height="14" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
-                        </span>
-                      </span>
-                      {dur && (
-                        <span class="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/70 text-white text-[10px] tracking-wide">
-                          {dur}
-                        </span>
-                      )}
-                    </div>
-                    <div class="p-3">
-                      <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug text-sm">
-                        {w.data.title.main}
-                      </div>
-                      <div class="text-xs text-(--color-fg-muted) mt-1">
-                        {sp?.name}
-                        {sp?.name && y && " · "}
-                        {y}
-                      </div>
-                    </div>
-                  </a>
-                </li>
-              );
-            })}
-          </ul>
-        )}
+                <h3 class="mt-3 text-(--color-fg) font-semibold text-sm leading-tight group-hover:text-(--color-saffron-700) transition-colors">
+                  {f.title}
+                </h3>
+                <p class="text-xs text-(--color-fg-muted) mt-0.5">
+                  {f.items.length === 1 ? "1 conversation" : `${f.items.length} conversations`}
+                  {f.yearRange && ` · ${f.yearRange}`}
+                </p>
+              </a>
+            </li>
+          ))}
+        </ul>
       </div>
     </section>
-  ))}
+  )}
+
+  {/* ── Collections ───────────────────────────────────────────────── */}
+  {collections.length > 0 && (
+    <section>
+      <div class="mx-auto max-w-6xl px-6 py-12">
+        <div class="mb-8 max-w-prose">
+          <h2 class="text-(--color-fg) text-2xl md:text-3xl font-(family-name:--font-display)">Collections</h2>
+          <p class="text-(--color-fg-muted) leading-relaxed mt-2">
+            Recordings grouped by kind rather than by person — addresses, talks,
+            explainers, and the conversations.
+          </p>
+        </div>
+        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 font-(family-name:--font-ui)">
+          {collections.map((c) => (
+            <li>
+              <a
+                href={`/interviews/${c.slug}/`}
+                class="flex gap-4 h-full p-4 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-md hover:-translate-y-0.5 transition-all group"
+              >
+                <div class="shrink-0 w-28 aspect-video rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center">
+                  {c.thumb ? (
+                    <img
+                      src={c.thumb}
+                      alt=""
+                      width="160"
+                      height="90"
+                      loading="lazy"
+                      class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
+                    />
+                  ) : (
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="text-(--color-fg-muted)" aria-hidden="true"><path d="m22 8-6 4 6 4V8z"/><rect x="2" y="6" width="14" height="12" rx="2"/></svg>
+                  )}
+                </div>
+                <div class="min-w-0 flex flex-col">
+                  <h3 class="font-(family-name:--font-display) font-semibold text-lg text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">
+                    {c.title}
+                  </h3>
+                  <p class="text-xs text-(--color-fg-muted) mt-1 mb-2">
+                    {c.items.length === 1 ? "1 recording" : `${c.items.length} recordings`}
+                    {c.yearRange && ` · ${c.yearRange}`}
+                  </p>
+                  <p class="text-sm text-(--color-fg-muted) leading-snug line-clamp-3">
+                    {c.blurb}
+                  </p>
+                  <span class="mt-auto pt-2 text-xs font-semibold text-(--color-forest-700) group-hover:text-(--color-fg) transition-colors">
+                    Browse recordings <span aria-hidden>→</span>
+                  </span>
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
 </BaseLayout>
