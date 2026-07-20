@@ -4,6 +4,7 @@ name:
   canonical: "John Templeton Foundation"
   sort: "John Templeton Foundation"
 type: international_network
+logo: "/organisations/logos/john-templeton-foundation.svg"
 description: "US foundation funding research at the intersection of markets, character, and human flourishing."
 ideology: []
 needs_review: true

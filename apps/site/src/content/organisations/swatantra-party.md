@@ -7,6 +7,7 @@ name:
 founded_year: 1959
 dissolved_year: 1974
 type: political_party
+logo: "/organisations/logos/swatantra-party.svg"
 description: "The classical-liberal opposition party founded in 1959 by Rajagopalachari, Masani, and Ranga against the 'licence-permit-quota raj'; dissolved in 1974."
 ideology: ["classical_liberal", "free_enterprise", "individual_rights"]
 needs_review: true

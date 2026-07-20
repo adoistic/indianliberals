@@ -4,6 +4,7 @@ name:
   canonical: "Ford Foundation"
   sort: "Ford Foundation"
 type: international_network
+logo: "/organisations/logos/ford-foundation.svg"
 description: "American philanthropic foundation whose grants shaped Indian planning, agriculture, and social-science research from the 1950s onward."
 ideology: []
 needs_review: true

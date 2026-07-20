@@ -4,6 +4,7 @@ name:
   canonical: "Mont Pelerin Society"
   sort: "Mont Pelerin Society"
 type: international_network
+logo: "/organisations/logos/mont-pelerin-society.png"
 description: "The international society of classical-liberal scholars convened by Hayek at Mont Pèlerin in 1947; B. R. Shenoy was its first Indian member."
 ideology:
   - classical_liberal
