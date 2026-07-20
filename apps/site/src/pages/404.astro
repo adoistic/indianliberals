@@ -1,0 +1,58 @@
+---
+// Custom 404 page. Its real job is as important as its copy: Cloudflare Pages
+// serves this file (emitted to dist/404.html) with a proper **404 status** for
+// any request that matches no static asset or redirect rule.
+//
+// Why that matters (Adnan, 2026-07): without it, missing paths returned a
+// 200-status HTML page. Under public/_headers, `/_astro/*` carries a 1-year
+// `immutable` cache header — so during a deploy, a request for a not-yet-
+// propagated hashed asset (e.g. /_astro/x.css) returned that 200 HTML and it
+// got cached under the asset URL. Browsers then rejected the "stylesheet"
+// (it was HTML) and the page rendered unstyled on the custom domain. A real
+// 404 status can't be mistaken for — or cached as — a valid asset.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+
+const sections = [
+  { name: "Primary works", href: "/primary-works/" },
+  { name: "Periodicals", href: "/periodicals/" },
+  { name: "Interviews", href: "/interviews/" },
+  { name: "Thinkers", href: "/thinkers/" },
+  { name: "Organisations", href: "/organisations/" },
+  { name: "Opinions", href: "/opinions/" },
+];
+---
+
+<BaseLayout
+  title="Page not found · Indian Liberals"
+  description="The page you were looking for could not be found."
+  noindex={true}
+>
+  <section class="mx-auto max-w-3xl px-6 py-20 md:py-28 text-center">
+    <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+      Error 404
+    </p>
+    <h1 class="text-(--color-fg) leading-tight mb-4">This page could not be found.</h1>
+    <p class="text-(--color-fg-muted) leading-relaxed max-w-prose mx-auto">
+      The link may be outdated, or the work may have moved as the archive was
+      rebuilt. Try the search, or start from one of the collections below.
+    </p>
+    <div class="mt-8 flex flex-wrap justify-center gap-3 font-(family-name:--font-ui)">
+      <a
+        href="/"
+        class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-white! rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
+      >
+        Back to the archive <span aria-hidden>→</span>
+      </a>
+    </div>
+    <ul class="mt-12 flex flex-wrap justify-center gap-x-6 gap-y-2 font-(family-name:--font-ui) text-sm">
+      {sections.map((s) => (
+        <li>
+          <a href={s.href} class="text-(--color-forest-700) hover:text-(--color-fg) no-underline">
+            {s.name}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>
