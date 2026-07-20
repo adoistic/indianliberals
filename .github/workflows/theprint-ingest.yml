@@ -63,7 +63,15 @@ jobs:
           git config user.email "theprint-ingest@indianliberals.in"
           if [ -n "$(git status --porcelain apps/site/src/content/theprint-mirror)" ]; then
             git add apps/site/src/content/theprint-mirror
-            git commit -m "chore(theprint-ingest): weekly mirror update [skip ci]"
+            # NO [skip ci] here. The site auto-deploys via the git-connected
+            # Cloudflare Pages project (indianliberals.in), and Cloudflare Pages
+            # honours [skip ci] in the commit message — with it, the ingest
+            # pushed the new column pieces to the repo but the production build
+            # never ran, so the live "Latest from ThePrint" column never
+            # refreshed. Dropping the marker lets the weekly ingest trigger a
+            # Pages deploy. This workflow only runs on schedule/dispatch (never
+            # on: push), so the push can't re-trigger it (Adnan, 2026-07).
+            git commit -m "chore(theprint-ingest): weekly mirror update"
             git push
           else
             echo "No new or changed ThePrint pieces."
