@@ -10,11 +10,17 @@
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import { getPeriodicalSeries } from "~/lib/periodicals";
 
 const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 
+// This is the *Indian* liberals archive: the hero, canon rail, and doorways
+// lead with Indian thinkers. The international influences (Mill, Hayek, Mises,
+// Friedman, Bauer) remain featured and fully reachable through the directory
+// and their own pages, but they are not surfaced on the landing imagery — the
+// emphasis belongs to the Indian tradition (Adnan, 2026-07).
 const featuredThinkers = allThinkers
-  .filter((t) => t.data.featured && t.data.portrait?.duotone)
+  .filter((t) => t.data.featured && t.data.portrait?.duotone && t.data.nationality === "india")
   .sort((a, b) => (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999));
 
 // Latest 6 ThePrint articles, links go out to theprint.in (the canonical
@@ -87,10 +93,25 @@ const spanYears = decadeMax + 9 - decadeMin;
 const mosaicPortraits = featuredThinkers
   .map((t) => t.data.portrait!.duotone!)
   .slice(0, 18);
-const mosaicCovers = allWorks
-  .filter((w) => w.data.work_type === "periodical_issue" && w.data.cover_image)
-  .map((w) => w.data.cover_image as string)
-  .slice(0, 6);
+// Covers for the hero mosaic + doorways, picked round-robin across the named
+// runs so the shelf reads as the whole periodical collection, not just Freedom
+// First — whose ~470 ff### issues otherwise sort first alphabetically and crowd
+// every other title out of a plain slice (Adnan, 2026-07).
+const periodicalSeries = await getPeriodicalSeries();
+function diversifiedCovers(limit: number): string[] {
+  const perSeries = periodicalSeries.map((g) =>
+    g.items.filter((w) => w.data.cover_image).map((w) => w.data.cover_image as string),
+  );
+  const out: string[] = [];
+  for (let round = 0; out.length < limit && perSeries.some((a) => a.length > round); round++) {
+    for (const arr of perSeries) {
+      if (arr[round]) out.push(arr[round]);
+      if (out.length >= limit) break;
+    }
+  }
+  return out;
+}
+const mosaicCovers = diversifiedCovers(6);
 // Interleave: a cover after every third portrait, split across 3 columns.
 const mosaicPool: string[] = [];
 let coverIdx = 0;

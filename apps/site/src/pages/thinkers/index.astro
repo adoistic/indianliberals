@@ -28,7 +28,10 @@ const byBirth = (a: typeof featured[number], b: typeof featured[number]) =>
   (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999) ||
   a.data.name.sort.localeCompare(b.data.name.sort);
 const canon = featured.filter((t) => t.data.nationality === "india").sort(byBirth);
-const influences = featured.filter((t) => t.data.nationality !== "india").sort(byBirth);
+// International influences (Mill, Hayek, Mises, Friedman, Bauer) stay in the
+// archive and the unified search below, but are no longer shown on this page:
+// the Indian liberals themselves are the canon this page presents (Adnan,
+// 2026-07). They remain reachable via search and their own detail pages.
 
 const directoryCount = allThinkers.length;
 
@@ -107,7 +110,7 @@ const prettifyVocation = (v: string): string => {
         movement of the 1980s.
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
-        {canon.length} canonical thinkers · {influences.length} international influences
+        {canon.length} canonical thinkers
       </p>
 
       {/* Unified people search, covers the whole database, not just this page */}
@@ -287,46 +290,6 @@ const prettifyVocation = (v: string): string => {
       </div>
     </div>
   </section>
-
-  {influences.length > 0 && (
-    <section aria-labelledby="influences-heading" class="border-b border-(--color-border) bg-(--color-bg-muted)">
-      <div class="mx-auto max-w-6xl px-6 py-12">
-        <h2 id="influences-heading" class="text-(--color-fg) text-2xl md:text-3xl font-(family-name:--font-display) mb-3">
-          International influences
-        </h2>
-        <p class="text-(--color-fg-muted) leading-relaxed mb-8 max-w-prose">
-          Thinkers from the wider liberal tradition whose ideas the Indian
-          liberals read, translated, debated, and built upon.
-        </p>
-        <div class="grid grid-cols-3 md:grid-cols-5 gap-x-6 gap-y-8">
-          {influences.map((t) => {
-            const treatment = treatmentFor(t);
-            return (
-              <a href={`/thinkers/${t.id}/`} class="group block no-underline">
-                <div class="aspect-square bg-(--color-bg) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
-                  {treatment ? (
-                    <img src={treatment.src} alt="" width="180" height="180" loading="lazy" class={`w-full h-full object-cover ${treatment.mono ? "" : "grayscale"} group-hover:scale-[1.02] transition-transform duration-300`} />
-                  ) : (
-                    <span class="text-(--color-fg-muted) text-3xl font-(family-name:--font-display) opacity-30">
-                      {t.data.name.canonical.charAt(0)}
-                    </span>
-                  )}
-                </div>
-                <p class="mt-2 text-(--color-fg) font-(family-name:--font-ui) text-sm font-semibold leading-tight">
-                  {t.data.name.canonical}
-                </p>
-                {t.data.birth_year && (
-                  <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mt-0.5">
-                    {t.data.birth_year}–{t.data.death_year ?? ""}
-                  </p>
-                )}
-              </a>
-            );
-          })}
-        </div>
-      </div>
-    </section>
-  )}
 
   {/* The "Browse the full directory" entry point is intentionally hidden per
       CCS direction. The directory page (/thinkers/directory/) still builds and
