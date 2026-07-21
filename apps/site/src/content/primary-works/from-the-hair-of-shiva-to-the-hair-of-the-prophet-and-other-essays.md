@@ -32,6 +32,9 @@ themes:
   - rule-of-law
   - public-sector-critique
 summary: "In the rendered pages (front matter plus the opening essays of a 40-essay collection), Sauvik Chakraverti sets out a deliberately simple, polemical case for classical liberalism aimed at lay readers rather than economists. The foreword frames the whole book as 'enjoyable politico-economic journalism' in the tradition of Bastiat and Hazlitt, written so that non-specialists 'may not only enjoy the read but also appreciate the importance of Freedom: Freedom From The State' (p.4); the author signs off 'Onwards to a free India - and then, a free world' and dates the piece January 2004. The contents page (rendered pp.6-8) shows the volume organised into five Parts - Evil, Good, the travelogue sequence that gives the book its title, Stray Thoughts, and Law - each chapter a short, exclamatory essay.\n\nThe essays visible in the rendered pages develop a single thesis. 'Evil!' argues that there are only two ways to survive - earning in the market or living off others by plunder - and brands India's socialist 'license-permit-quota raj' as institutionalised theft dressed up as democracy.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/from-the-hair-of-shiva-to-the-hair-of-the-prophet-and-other-essays.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/from-the-hair-of-shiva-to-the-hair-of-the-prophet-and-other-essays.webp"
+pdf_size_mb: 0.85
 needs_review: true
 draft: false
 ai:

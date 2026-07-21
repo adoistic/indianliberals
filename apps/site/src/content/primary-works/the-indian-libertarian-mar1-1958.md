@@ -67,6 +67,9 @@ themes:
   - foreign-policy
   - language-policy
 summary: "This March 1, 1958 issue (Vol. V No. 24) of The Indian Libertarian, the Bombay fortnightly that stood 'for free economy and libertarian democracy', leads with an editorial surveying the Arab world after the union of Egypt and Syria, the revolt in Sumatra, and Soviet penetration of the Middle East, drawing a 'lesson to India' about the dangers of one-party drift. The bylined articles range across rationalism (M. A. Venkata Rao), a critique of 'social democracy' as a contradiction in terms (Ashutosh Lahiry), the strategic meaning of the Russian Sputniks (a reprinted James Burnham piece), a polemic for English as India's link language, and sharp anti-Congress satire under pseudonyms. Standing departments — Letters to the Editor, Political Prosings, On The News Front and Book Reviews — frame the issue's classical-liberal, anti-statist editorial stance. In the rendered pages the recurring theme is hostility to political opportunism and to socialist economic planning."
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-mar1-1958.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-mar1-1958.webp"
+pdf_size_mb: 1.91
 needs_review: true
 draft: false
 ai:

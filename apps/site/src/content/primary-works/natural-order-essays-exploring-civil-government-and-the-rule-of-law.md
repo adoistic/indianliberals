@@ -31,6 +31,9 @@ themes:
   - liberalism-as-tradition
   - constitutionalism
 summary: "In the rendered pages (cover, dedication 'To Varuna', contents, the Introduction and the opening of Chapter One), Sauvik Chakraverti sets out a classical-liberal manifesto on civil government and the rule of law. The Introduction ('The Historical Setting of this Volume') diagnoses, in the rendered pages, a 'quiet crisis... a crisis of legitimacy' in the socialist Indian state: a government that 'does not know how to govern,' that taxes the productive to 'teach the unlettered' while courts and police fail and over 100,000 people die yearly on 'India's anarchical streets.' Chakraverti argues that India 'aped English institutions without the liberal ideals upon which they are based,' and proposes to trace how the rule of law emerged in England — a lineage running, in the rendered pages, from John Locke through the Scottish Enlightenment to Hayek, with Peter Bauer, Hernando de Soto and B. R. Shenoy cited as defenders of liberal ideals for the Third World.\n\nIn the rendered pages, Chapter One ('The Presumption of Natural Order') develops the book's central idea: that a spontaneous order exists in society independent of any single will.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/natural-order-essays-exploring-civil-government-and-the-rule-of-law.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/natural-order-essays-exploring-civil-government-and-the-rule-of-law.webp"
+pdf_size_mb: 1.22
 needs_review: true
 draft: false
 ai:

@@ -47,6 +47,9 @@ themes:
   - economic-liberty
   - agricultural-reform
 summary: "This issue of The Indian Libertarian (Vol. VIII, No. 14, printed masthead date 15 October 1960; the source file is mislabelled 'jan15-1961'), edited by Kusum Lotwala, leads with an editorial, 'Nehru at the UNO Assembly', assessing the Prime Minister's first appearance at the United Nations General Assembly against the backdrop of the Cold War, the Congo crisis, Khrushchev, and the contest between the Western bloc and the Afro-Asian neutrals. The signed articles run the journal's classical-liberal and anti-communist line: M. A. Venkata Rao's 'The Impact of Land Reforms on Agriculturists' warns that ceiling-and-redistribution land reform harms the productive landowning class; M. N. Tholal's 'Five Neutrals' Nostrum' is sceptical of the non-aligned bloc's peace formula at the UN; an unsigned 'Twentieth Anniversary of an Aggression' and Frederic Sondern's reprinted 'Red Lure For the World's Youth' (on the Soviet-sponsored World Youth Festival in Vienna) press the anti-Soviet case; and J. M. Lobo Prabhu's 'Strikes By Government Permission' treats labour regulation.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-jan15-1961.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-jan15-1961.webp"
+pdf_size_mb: 1.77
 needs_review: true
 draft: false
 ai:

@@ -33,6 +33,9 @@ themes:
   - urban-policy
   - public-sector-critique
 summary: "Four Wheels for All is a libertarian polemic by the journalist Sauvik Chakraverti, published as Liberty Institute Occasional Paper No. 18 (2008) in partnership with the Friedrich Naumann Stiftung. Across the rendered pages, Chakraverti builds the opening movements of a single sustained argument: that universal car ownership is not a luxury but a precondition of prosperity, and that decades of Indian socialism deliberately denied ordinary Indians 'proper wheels.' He opens with a paean to the automobile as an extension of human mobility — invoking the wheel as 'an extension of the foot,' the Ford Model-T that 'put America on wheels,' and the vastly enlarged 'geographical opportunity circle' a car gives its owner — and argues that the benefits of one person's mobility 'trickle down' to those without cars (as when car-owning specialist doctors reach his villages in South Goa).\n\nThe paper then turns historical and combative.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/four-wheels-for-all-the-case-of-rapid-automobilisation-of-india.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/four-wheels-for-all-the-case-of-rapid-automobilisation-of-india.webp"
+pdf_size_mb: 1.68
 needs_review: true
 draft: false
 ai:

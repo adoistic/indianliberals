@@ -25,6 +25,9 @@ themes:
   - urbanisation
   - economic-education
 summary: "These opening five chapters of *A Beginner's Guide to Political Economy* lay out a polemical, free-market primer aimed at young or lay readers, illustrated with line drawings, verse insets and 'Points to Ponder' question boxes. Chapter 1 ('Know Thyself') argues that the capacity to trade is what makes humans uniquely 'economic' (Homo Economicus) and wealth-generating; Chapter 2 ('Population Causes Prosperity') inverts the standard Indian-economics claim that India's population causes poverty, contending instead that dense, urbanised places are rich precisely because they permit a deeper division of labour. The author treats self-sufficiency as 'economic suicide' and roads/urbanisation as the real engines of prosperity, blaming India's urban squalor on an undersupply of roads rather than on overcrowding.\n\nChapters 3 through 5 turn to why the state mishandles the economy.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/free-your-mind-a-beginners-guide-to-political-economy.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/free-your-mind-a-beginners-guide-to-political-economy.webp"
+pdf_size_mb: 2.83
 needs_review: true
 draft: false
 ai:

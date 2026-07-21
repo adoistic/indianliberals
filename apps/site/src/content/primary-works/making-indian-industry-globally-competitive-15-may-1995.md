@@ -33,6 +33,9 @@ themes:
   - planning-critique
   - education
 summary: "This booklet reproduces the Twelfth T. A. Pai Memorial Lecture, delivered by Nani A. Palkhivala in Bombay on 17 January 1995 under the auspices of the T. A. Pai Institute of Management, Manipal, and published by the Forum of Free Enterprise. Opening with a tribute to the late T. A. Pai of Manipal as a rare blend of vision and pragmatism, Palkhivala argues that entrepreneurship 'comes naturally to Indians' and that the liberalization launched after 1991 finally let the 'arthritic economy' begin to perform like an athletic one.\n\nThe core of the lecture is a programme for making Indian industry globally competitive.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/making-indian-industry-globally-competitive-15-may-1995.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/making-indian-industry-globally-competitive-15-may-1995.webp"
+pdf_size_mb: 0.15
 needs_review: true
 draft: false
 ai:

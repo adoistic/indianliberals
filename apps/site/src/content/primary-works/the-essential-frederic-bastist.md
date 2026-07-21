@@ -44,6 +44,9 @@ themes:
   - limited-government
   - political-economy
 summary: "In the rendered pages, this Liberty Institute anthology (Classics Revisited series, 2007) opens with its editorial apparatus rather than Bastiat's own essays. Sauvik Chakraverti's Editor's Note recounts how he discovered Frédéric Bastiat in 1995 through Liberty Institute's liberty workshops and through Bastiat's The Law, an encounter that convinced him 'economic journalism mattered' and shaped his own career; Barun S. Mitra's Publisher's Note (September 2007) frames the volume as a revival of a thinker 'almost forgotten in his native country,' thanking the Foundation for Economic Education, Liberty Fund, Jacques de Guenin, and the Friedrich Naumann Stiftung. The bulk of the rendered text is Detmar Doering's prefatory essay 'On Frédéric Bastiat,' which uses the famous candlemakers' petition to introduce Bastiat as the supreme satirist of protectionism, then sketches his biography (Bayonne 1801, his turn to economics via Adam Smith and the British free-traders, the 1844 Journal des économistes article, his election to the 1848 National Assembly) and surveys his contested reputation among later economists.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/the-essential-frederic-bastist.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-essential-frederic-bastist.webp"
+pdf_size_mb: 1.33
 needs_review: true
 draft: false
 ai:

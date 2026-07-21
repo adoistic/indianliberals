@@ -27,6 +27,9 @@ themes:
   - public-sector-critique
   - anti-corruption
 summary: "In this short January 1998 pamphlet, the economist D. R. Pendse delivers a sharply critical post-mortem of India's Voluntary Disclosure of Incomes Scheme (VDIS), the tax-amnesty programme that closed on 31 December 1997. Pendse argues that the scheme's success cannot be judged because policymakers never stated its objective, so he tests it against the three goals their statements implied: collecting revenue, widening the tax net, and tackling black money. On each count he finds it a failure. The roughly Rs. 10,000 crores collected, he contends, will mostly flow to the States and be squandered on revenue (not capital) expenditure; the scheme will not widen the tax net because evaders likely under-reported again rather than entering the system honestly; and a one-time amnesty does nothing to stop the streams of corruption and public-expenditure 'leakages' that generate black money in the first place.\n\nThe deeper objection is moral and systemic.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/is-vdis-a-success-january-1998.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/is-vdis-a-success-january-1998.webp"
+pdf_size_mb: 0.05
 needs_review: true
 draft: false
 ai:

@@ -35,6 +35,9 @@ themes:
   - planning-and-controls
   - inflation
 summary: "These archival pages, drawn from the Friedrich A. von Hayek Collection (Box 50) at the Hoover Institution, pair a substantial economic 'Note' by B. R. Shenoy with a 1964 covering letter to Hayek himself. The bulk of the rendered pages (the twelve-section Note issued from Shenoy's Economics Research Centre in New Delhi) dissects the effects of the Indian Union Budget for 1969-70, assembled from two pre-budget articles in the Hindustan Times (24-25 February 1969) and two post-budget articles in The Times of India (13-14 March 1969). Shenoy argues that the Indian economy, far from 'moving out of the woods' as the budget speech claimed, remains gripped by three structural ailments: social injustice, capital consumption, and capital misdirection.\n\nIn the rendered pages Shenoy builds a tightly empirical case.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/shenoy-hayek-correspondences-set-i-hoover-institution-archives.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/shenoy-hayek-correspondences-set-i-hoover-institution-archives.webp"
+pdf_size_mb: 3.45
 needs_review: true
 draft: false
 ai:

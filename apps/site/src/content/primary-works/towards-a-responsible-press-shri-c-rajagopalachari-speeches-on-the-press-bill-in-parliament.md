@@ -30,6 +30,9 @@ themes:
   - constitutionalism
   - free-speech
 summary: "This Government of India (Publications Division) volume collects C. Rajagopalachari's parliamentary speeches, delivered as Union Home Minister in September-October 1951, on the Press (Objectionable Matter) Bill, 1951. In the rendered pages, the booklet opens with the Bill's Statement of Objects and Reasons — which presents the measure as fulfilling a promise made during the First Amendment debates to replace the 'objectionable features' of the Press (Emergency Powers) Act, 1931 with a law in consonance with the new Constitution — and then moves into Rajaji's principal speech introducing the Bill.\n\nIn the rendered pages Rajagopalachari frames the Bill as an attempt to curb only proven, repeated abuses of press freedom — incitement to violence, sabotage, and grossly scurrilous, indecent, or obscene matter — rather than to impose pre-censorship. He stresses procedural safeguards: no action in anticipation, security demanded only after a judicial authority (a sessions judge) finds actual abuse following a full trial, the right to trial by a special jury drawn from those experienced in journalism or public affairs, and a right of appeal.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/towards-a-responsible-press-shri-c-rajagopalachari-speeches-on-the-press-bill-in-parliament.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/towards-a-responsible-press-shri-c-rajagopalachari-speeches-on-the-press-bill-in-parliament.webp"
+pdf_size_mb: 6.2
 needs_review: true
 draft: false
 ai:

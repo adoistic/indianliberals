@@ -34,6 +34,9 @@ themes:
   - biographical-tribute
   - free-trade
 summary: "In this Centre for Civil Society 'Viewpoint 4' essay, Sauvik Chakraverti writes a tribute to the recently deceased development economist Lord Peter (P. T.) Bauer, hailing him as 'the greatest development economist that ever lived' and 'a true friend of the world's poor.' Against what he calls the 'bleeding hearts brigade,' Chakraverti celebrates Bauer as the man who most trenchantly opposed foreign aid — Bauer's line that government-to-government aid transfers wealth 'from the poor of the rich countries to the rich of the poor countries' — and argues that aid manufactured permanent Third World poverty by propping up corrupt, predatory states.\n\nThe essay builds its case through a series of Indian illustrations of Bauer's insight that the poor possess economic skill and knowledge that planning ignores.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/peter-bauer-a-true-friend-of-the-worlds-poor-ccs-viewpoint-4.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/peter-bauer-a-true-friend-of-the-worlds-poor-ccs-viewpoint-4.webp"
+pdf_size_mb: 1.05
 needs_review: true
 draft: false
 ai:

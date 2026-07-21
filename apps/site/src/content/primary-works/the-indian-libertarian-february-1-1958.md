@@ -61,6 +61,9 @@ themes:
   - foreign-affairs
   - secularism
 summary: "In the rendered pages, this 1 February 1958 'Sheikh Abdullah Special' of The Indian Libertarian (Vol. V No. 22, the Bombay fortnightly edited by Miss Kusum Lotwala) is dominated by the Kashmir question and Indo-Pakistan relations. The editorial responds to Pakistan Prime Minister Feroz Khan Noon's reported threat to Indian nationals, raises 'some pertinent questions' about the security of Muslims and refugees, and warns of a revived Razakar movement in Hyderabad. The lead articles in the rendered pages turn on Sheikh Abdullah's renewed agitation in Kashmir: M. A. Venkata Rao examines 'Sheikh Abdullah and Indian Policy', defending a firm, secular Indian line while criticising the Nehru government's vacillation, and Sumant S. Bankeshwar's polemic 'Sheikh Abdullah: The Mad Mullah on the Rampage' attacks the Sheikh as a communal demagogue. 'Lal' contributes a sharp anti-Nehru piece, 'Nehru: The Trouble-Maker', and M. G. Bailur offers 'The Ethics of Toleration.' In the rendered pages the issue's later items listed in the contents — including Charles A.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/the-indian-libertarian-february-1-1958.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-february-1-1958.webp"
+pdf_size_mb: 1.92
 needs_review: true
 draft: false
 ai:

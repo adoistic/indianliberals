@@ -30,6 +30,9 @@ themes:
   - inflation
   - economic-policy
 summary: "This is B.R. Shenoy's celebrated minority \"Note of Dissent\" against the Memorandum of the Panel of Economists that underpinned the Plan Frame of India's Second Five Year Plan (1956–61). Written in 1955 and originally appended to the Planning Commission's planning documents, the note (reproduced here from a 1998 Economics Research Centre edition, with key passages highlighted in red) records Shenoy's inability to subscribe to his colleagues' views on three counts: the size of the Plan, deficit financing as a means of raising real resources, and certain policy and institutional implications of the Plan Frame.\n\nOn the size of the Plan, Shenoy argues that the proposed outlay — built on a 25–27 per cent rise in national income and an investment programme of the order of Rs. 8,800 crores — outruns the country's available real resources, since total net investment cannot exceed the community's net savings plus foreign assistance.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/a-note-of-dissent-on-the-memorandum-of-the-panel-of-economists.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/a-note-of-dissent-on-the-memorandum-of-the-panel-of-economists.webp"
+pdf_size_mb: 0.05
 needs_review: true
 draft: false
 ai:

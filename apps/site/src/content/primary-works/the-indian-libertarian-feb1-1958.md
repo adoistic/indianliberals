@@ -65,6 +65,9 @@ rights:
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
 themes: []
 summary: "This is a 'Sheikh Abdullah Special' number of The Indian Libertarian (Vol. V, No. 22, 1 February 1958), an English-language Bombay fortnightly that bills itself as an 'Independent Journal of Economic and Public Affairs' which stands 'for free economy and libertarian democracy'. Edited by Miss Kusum Lotwala and published by the Libertarian Social Institute, the issue is built around the Government of India's continued detention of Sheikh Abdullah and uses that case to attack what the journal sees as Pandit Nehru's disregard for constitutional propriety, his appeasement of Pakistan, and his drift toward statist 'finished despotism' at home. The lead editorial and the long pieces by M. A. Venkata Rao, Sumant Bankeshwar and the columnist 'Lal' carry that polemical centre, supported by reprinted reactions of the Indian press to Abdullah's re-arrest. Around this Kashmir spine the issue gathers its standard libertarian preoccupations: M. G. Bailur on the ethics of toleration, the in-house 'Drift Way' column on the Mundhra–Krishnamachari scandal, a column on inflation as a state-run 'swindle', B. R. Shenoy on food prices, A. D.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-feb1-1958.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-feb1-1958.webp"
+pdf_size_mb: 1.92
 needs_review: true
 draft: false
 ai:

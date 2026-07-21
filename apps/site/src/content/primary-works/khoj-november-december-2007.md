@@ -84,6 +84,9 @@ themes:
   - nuclear-policy
   - democracy
 summary: "Khoj (\"ખોજ — જીવન એક અવિરત ખોજ\", roughly \"Life, an unending quest\") is a Gujarati liberal little-magazine published from Vadodara; this is Year 1, Issue 5 (cover and masthead date September-October 2007, despite the file name). Edited by Ambarish Mehta with an editorial board and a wide advisory committee, the issue opens with bilingual epigraphs (a Rig Veda verse and the Greek sceptic Xenophanes) and an editorial, then runs a substantial letters-and-responses section before its main features. In the rendered pages the issue is dominated by an ongoing debate on \"Vigyan-Adhyatma\" (science vs. spirituality) and on whether free markets automatically produce prosperity, alongside topical commentary on civil liberties, the India-US nuclear deal, and the Sethusamudram canal project. The magazine prints translated pieces by liberal and libertarian authors (Leonard E. Read's \"I, Pencil\", Sauvik Chakravarti, Fareed Zakaria) and carries explicitly classical-liberal arguments about knowledge, markets and individual freedom."
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/gujarati/khoj-november-december-2007.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/khoj-november-december-2007.webp"
+pdf_size_mb: 3.44
 needs_review: true
 draft: false
 ai:

@@ -53,6 +53,9 @@ themes:
   - democracy
   - agrarian-reform
 summary: "In the rendered pages, this 15 June 1957 issue of The Indian Libertarian (Vol. V No. 8, the Bombay fortnightly edited by Miss Kusum Lotwala) opens with an editorial on Indo-Pakistan friction — the 'Grim Humour of Pak Protest' over Kashmir and a wry section headed 'India has been Russia' — before turning to its signature anti-Nehru, anti-Communist commentary. J. K. Dhairyawan's lead article, 'Nehru, the High Pontiff of Pseudo-Saints in Khaddar', mocks the cult of Gandhian sanctity around the Congress leadership in the setting of an A.I.C.C. meeting. A. Ranganathan's 'The Making of Modern India' is a more reflective survey of the nineteenth-century Indian Renaissance and its reform movements, centring on Raja Ram Mohan Roy and the Brahmo Samaj. The issue also carries Sumant Bankeshwar's 'Communism—Not an Ideology but A Conspiracy', Miss P. Pillai on 'Co-operation in Agriculture', Dr. K. N. Kini's 'Revolutionising Indian Life', and a four-page Supplement of the Research Department of the R. L. Foundation, whose rendered essay 'Money' by K. D. Valicha (edited by B. S. Sanyal) sketches the origins and theory of money.…"
+pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/the-indian-libertarian-june-15-1957.pdf
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-june-15-1957.webp"
+pdf_size_mb: 1.56
 needs_review: true
 draft: false
 ai:
