@@ -21,7 +21,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/some-reflections-on-the-food-problem-in-india-t-a-pai-september-11-1966.pdf
-cover_image: "/primary-works/covers/some-reflections-on-the-food-problem-in-india-t-a-pai-september-11-1966.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/some-reflections-on-the-food-problem-in-india-t-a-pai-september-11-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

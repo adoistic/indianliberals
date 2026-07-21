@@ -72,7 +72,7 @@ contributors:
   - thinker: ashwin-karia
     role: editor
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/gujarati/khoj-may-june-2005.pdf
-cover_image: "/periodicals/covers/khoj-may-june-2005.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/khoj-may-june-2005.webp"
 ---
 
 ## Summary

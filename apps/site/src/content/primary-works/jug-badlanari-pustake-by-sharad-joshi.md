@@ -55,7 +55,7 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/jug-badlanari-pustake-sharad-joshi.pdf
-cover_image: "/primary-works/covers/jug-badlanari-pustake-by-sharad-joshi.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/jug-badlanari-pustake-by-sharad-joshi.webp"
 ---
 
 ## Summary

@@ -23,7 +23,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/a-socialist-society-cannot-be-democratic-t-mathew-june-8-1960.pdf
-cover_image: "/primary-works/covers/a-socialist-society-cannot-be-democratic-t-mathew-june-8-1960.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/a-socialist-society-cannot-be-democratic-t-mathew-june-8-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

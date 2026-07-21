@@ -54,7 +54,7 @@ authors_resolution:
   stubs_referenced: []
   collisions_logged: []
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/baliche-rajey-yenar-aahe-sharad-joshi.pdf
-cover_image: "/primary-works/covers/baliche-rajey-yenar-aahe-by-sharad-joshi.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/baliche-rajey-yenar-aahe-by-sharad-joshi.webp"
 ---
 
 ## Summary

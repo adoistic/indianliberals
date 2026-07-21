@@ -21,7 +21,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/from-the-industrial-age-to-the-information-age-by-bardley-d-belt.pdf
-cover_image: "/primary-works/covers/from-the-industrial-age-to-the-information-age-by-bardley-d-belt.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/from-the-industrial-age-to-the-information-age-by-bardley-d-belt.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

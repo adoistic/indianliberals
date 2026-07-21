@@ -22,7 +22,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/how-to-start-an-industry-d-v-desai-august-8-1961.pdf
-cover_image: "/primary-works/covers/how-to-start-an-industry-d-v-desai-august-8-1961.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/how-to-start-an-industry-d-v-desai-august-8-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

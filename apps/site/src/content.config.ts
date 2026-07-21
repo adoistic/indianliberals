@@ -443,9 +443,10 @@ const primaryWorks = defineCollection({
     pdf_url: z.string().url().optional(),
     pdf_staging_path: z.string().optional(),
     pdf_size_mb: z.number().optional(),
-    // First-page raster of the source PDF, e.g. "/periodicals/covers/<slug>.webp".
-    // Emitted by scripts/synthesis/make-periodical-covers.py; gives listing
-    // pages a visual shelf instead of text-only cards.
+    // First-page raster of the source PDF, hosted on R2 alongside the PDFs,
+    // e.g. "https://pub-<hash>.r2.dev/covers/<slug>.webp" (Adnan, 2026-07 —
+    // moved off the repo to R2 to match the PDF hosting). Gives listing pages a
+    // visual shelf instead of text-only cards.
     cover_image: z.string().optional(),
     // Tier promotion hooks (empty in v1, populated when paragraph-stable IDs land)
     paragraph_ids: z.array(z.string()).default([]),

@@ -27,7 +27,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-stock-exchanges-in-india-the-emerging-scenarios-and-challenges-g-a-patel-may-11-1987.pdf
-cover_image: "/primary-works/covers/the-stock-exchanges-in-india-the-emerging-scenarios-and-challenges-g-a-patel-may-11-1987.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-stock-exchanges-in-india-the-emerging-scenarios-and-challenges-g-a-patel-may-11-1987.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -24,7 +24,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/towards-a-healthy-india-a-call-for-action-dr-r-balasubramanian-dr-prashanth-n-srinivas.pdf
-cover_image: "/primary-works/covers/towards-a-healthy-india-a-call-for-action-dr-r-balasubramanian-dr-prashanth-n-srinivas.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/towards-a-healthy-india-a-call-for-action-dr-r-balasubramanian-dr-prashanth-n-srinivas.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

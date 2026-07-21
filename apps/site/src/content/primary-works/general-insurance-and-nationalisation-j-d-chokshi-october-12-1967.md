@@ -23,7 +23,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/general-insurance-and-nationalisation-j-d-chokshi-october-12-1967.pdf
-cover_image: "/primary-works/covers/general-insurance-and-nationalisation-j-d-chokshi-october-12-1967.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/general-insurance-and-nationalisation-j-d-chokshi-october-12-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

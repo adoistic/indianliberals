@@ -21,7 +21,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-task-before-the-monopiles-v-k-narasimhan-sept9-1964.pdf
-cover_image: "/primary-works/covers/the-task-before-the-monopiles-v-k-narasimhan-sept9-1964.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-task-before-the-monopiles-v-k-narasimhan-sept9-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

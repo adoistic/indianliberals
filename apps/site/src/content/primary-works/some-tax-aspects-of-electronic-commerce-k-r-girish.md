@@ -19,7 +19,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/some-tax-aspects-of-electronic-commerce-k-r-girish.pdf
-cover_image: "/primary-works/covers/some-tax-aspects-of-electronic-commerce-k-r-girish.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/some-tax-aspects-of-electronic-commerce-k-r-girish.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

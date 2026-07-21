@@ -21,7 +21,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/higher-education-at-the-cross-roads-of-the-twentieth-and-twenty-first-centuries-dr-miss-a-s-desai.pdf
-cover_image: "/primary-works/covers/higher-education-at-the-cross-roads-of-the-twentieth-and-twenty-first-centuries-dr-miss-a-s-desai.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/higher-education-at-the-cross-roads-of-the-twentieth-and-twenty-first-centuries-dr-miss-a-s-desai.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,7 +21,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-1975-76-russi-jal-taraporevala-3-march-1975.pdf
-cover_image: "/primary-works/covers/the-economic-implications-of-the-union-budget-1975-76-russi-jal-taraporevala-3-march-1975.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-economic-implications-of-the-union-budget-1975-76-russi-jal-taraporevala-3-march-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

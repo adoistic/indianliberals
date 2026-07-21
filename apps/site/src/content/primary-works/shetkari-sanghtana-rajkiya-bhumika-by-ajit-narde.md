@@ -58,7 +58,7 @@ authors_resolution:
     - ajit-narde
   collisions_logged: []
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/shetkari-sanghtana-rajkiya-bhumika-ajit-narde.pdf
-cover_image: "/primary-works/covers/shetkari-sanghtana-rajkiya-bhumika-by-ajit-narde.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/shetkari-sanghtana-rajkiya-bhumika-by-ajit-narde.webp"
 ---
 
 ## Summary

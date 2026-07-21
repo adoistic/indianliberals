@@ -20,7 +20,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/crisis-in-indian-banking-industry-by-dr-dharmendra-bhandari-october-15-1991.pdf
-cover_image: "/primary-works/covers/crisis-in-indian-banking-industry-by-dr-dharmendra-bhandari-october-15-1991.webp"
+cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/crisis-in-indian-banking-industry-by-dr-dharmendra-bhandari-october-15-1991.webp"
 rights:
   status: takedown_on_request
   license: in-copyright
