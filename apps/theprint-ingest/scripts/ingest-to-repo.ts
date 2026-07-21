@@ -15,7 +15,7 @@ import { execFileSync } from 'node:child_process';
 import { join, resolve } from 'node:path';
 import { parseRssFeed, slugFromUrl, type RssItem } from '../src/rss';
 import { rssItemToMarkdown } from '../src/markdown';
-import { fetchWpRestItems } from '../src/wp-rest';
+import { fetchWpRestItems, fetchFeaturedImageMap, fetchOgImage } from '../src/wp-rest';
 
 // Repo root: two levels up from apps/theprint-ingest, resolved from cwd so the
 // workflow can run this from the repo root or the package dir.
@@ -104,6 +104,23 @@ async function run() {
         });
         if (!resp.ok) throw new Error(`RSS fetch failed: ${resp.status} ${resp.statusText}`);
         items = parseRssFeed(await resp.text());
+        // The RSS feed carries no images; the same posts on the WP REST API
+        // do. Join featured-image URLs onto the parsed items by slug.
+        // Non-fatal: a REST hiccup just means this run's pieces go out
+        // without hero_image (a later run's refresh pass fills them in).
+        try {
+          const imgMap = await fetchFeaturedImageMap({
+            base: process.env.THEPRINT_EN_WP_BASE || 'https://theprint.in',
+            categoryId: parseInt(process.env.THEPRINT_EN_WP_CATEGORY || '618434', 10),
+          });
+          for (const item of items) {
+            const slug = slugFromUrl(item.link, item.title);
+            const img = imgMap.get(slug);
+            if (img) item.heroImage = img;
+          }
+        } catch (e) {
+          summary.errors.push({ slug: `__featured_media_${src.language}__`, reason: String(e) });
+        }
       } else {
         items = await fetchWpRestItems({ base: src.base, categoryId: src.categoryId, max: MAX_ITEMS });
       }
@@ -120,6 +137,17 @@ async function run() {
         if (blocklist.has(item.link.toLowerCase())) {
           summary.skippedBlocklist.push(slug);
           continue;
+        }
+        // Image fallback: posts without WP featured media (seen on the
+        // Hindi column) still expose og:image on the article page. One
+        // extra fetch, only for the items that need it; failures mean the
+        // piece just goes out without an image.
+        if (!item.heroImage) {
+          try {
+            item.heroImage = await fetchOgImage(item.link);
+          } catch {
+            /* non-fatal */
+          }
         }
         // Admin-edit guard: never clobber a file a human last touched via the CMS.
         if (await fileExists(abs)) {

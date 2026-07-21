@@ -47,8 +47,13 @@ const filters = [
       </p>
     </div>
   </section>
+  {/* Image-led card grid (Adnan, 2026-07): with featured images now coming
+      through from ThePrint, the column reads as a proper magazine wall —
+      same card language as the homepage's "Latest from ThePrint" section,
+      three across on desktop. The language filter operates on the same
+      .tp-item elements as before. */}
   <section>
-    <div class="mx-auto max-w-3xl px-6 py-12">
+    <div class="mx-auto max-w-6xl px-6 py-12">
       <div class="flex items-center justify-between gap-4 flex-wrap mb-8">
         <p class="text-(--color-fg-muted) text-sm font-(family-name:--font-ui)">
           <span id="tp-count">{posts.length}</span> pieces · sorted by most recent.
@@ -68,26 +73,46 @@ const filters = [
           </div>
         )}
       </div>
-      <ul class="divide-y divide-(--color-border)" id="tp-list">
+      <ul class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" id="tp-list">
         {posts.map((p) => (
-          <li class="tp-item py-6" data-lang={langOf(p)}>
+          <li class="tp-item" data-lang={langOf(p)}>
             <a
               href={p.data.theprint_url}
               target="_blank"
               rel="noopener canonical"
-              class="block no-underline group"
+              class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-md hover:-translate-y-0.5 transition-all group"
               lang={langOf(p)}
             >
-              <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
-                {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })} · {p.data.author_name}
-                {langOf(p) === "hi" && (
-                  <span class="ml-2 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">हिन्दी</span>
+              <div class="aspect-video bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
+                {p.data.hero_image ? (
+                  <img
+                    src={p.data.hero_image}
+                    alt=""
+                    width="480"
+                    height="270"
+                    loading="lazy"
+                    decoding="async"
+                    referrerpolicy="no-referrer"
+                    class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
+                  />
+                ) : (
+                  <div class="w-full h-full flex items-center justify-center text-(--color-fg-muted)" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><rect x="3" y="5" width="14" height="14" rx="1"/><path d="M17 8h3a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H6M7 9h6M7 13h6M7 17h3"/></svg>
+                  </div>
                 )}
-              </p>
-              <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
-                {p.data.title}
-                <span class="inline-block ml-1 text-(--color-fg-muted) text-sm align-middle" aria-hidden>↗</span>
-              </h2>
+              </div>
+              <div class="p-4">
+                <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1.5">
+                  {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" })} · {p.data.author_name}
+                  {langOf(p) === "hi" && (
+                    <span class="ml-2 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded">हिन्दी</span>
+                  )}
+                </p>
+                <h2 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg leading-snug">
+                  {p.data.title}
+                  <span class="inline-block ml-1 text-(--color-fg-muted) text-sm align-middle" aria-hidden>↗</span>
+                </h2>
+              </div>
             </a>
           </li>
         ))}

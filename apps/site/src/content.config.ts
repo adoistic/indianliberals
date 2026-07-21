@@ -549,6 +549,10 @@ const theprintMirror = defineCollection({
     pubDate: z.coerce.date(),
     author_name: z.string(),
     theprint_url: z.string().url(),
+    // Featured image on ThePrint's CDN (hotlinked, not mirrored — their
+    // photos are agency-licensed). Joined in by the ingest from the WP REST
+    // API; the RSS feed itself carries no images.
+    hero_image: z.string().url().optional(),
     themes: z.array(z.string()).default([]),
     related_thinkers: z.array(reference('thinkers')).default([]),
     thinker_mentions: z.array(thinkerMention).default([]),

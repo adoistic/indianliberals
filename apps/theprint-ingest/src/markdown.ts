@@ -46,6 +46,13 @@ function emitFrontmatter(item: RssItem, opts: MdEmitOpts): string {
   lines.push(`pubDate: ${item.pubDate.toISOString()}`);
   lines.push(`author_name: ${yamlString(item.author || 'ThePrint contributor')}`);
   lines.push(`theprint_url: ${yamlString(item.link)}`);
+  // Featured image on ThePrint's CDN, joined in from the WP REST API (the
+  // RSS feed itself has no images). Hotlinked, never mirrored: ThePrint's
+  // photos are agency-licensed, so we display them in the federation context
+  // with the canonical link out rather than redistributing copies.
+  if (item.heroImage) {
+    lines.push(`hero_image: ${yamlString(item.heroImage)}`);
+  }
   // Only emit `language` for non-English columns; English is the schema
   // default and omitting it keeps existing en files byte-identical.
   if (opts.language && opts.language !== 'en') {

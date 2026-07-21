@@ -449,15 +449,31 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
                 href={p.data.theprint_url}
                 target="_blank"
                 rel="noopener canonical"
-                class="block h-full p-5 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+                class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
               >
-                <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) mb-2">
-                  {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" })} · {p.data.author_name}
-                </p>
-                <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
-                  {p.data.title}
-                  <span aria-hidden class="inline-block ml-1 text-(--color-fg-muted) text-sm">↗</span>
-                </h3>
+                {p.data.hero_image && (
+                  <div class="aspect-video bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
+                    <img
+                      src={p.data.hero_image}
+                      alt=""
+                      width="480"
+                      height="270"
+                      loading="lazy"
+                      decoding="async"
+                      referrerpolicy="no-referrer"
+                      class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
+                    />
+                  </div>
+                )}
+                <div class="p-5">
+                  <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) mb-2">
+                    {new Date(p.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" })} · {p.data.author_name}
+                  </p>
+                  <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
+                    {p.data.title}
+                    <span aria-hidden class="inline-block ml-1 text-(--color-fg-muted) text-sm">↗</span>
+                  </h3>
+                </div>
               </a>
             </li>
           ))}

@@ -13,6 +13,13 @@ export interface RssItem {
   description: string;     // <description> — usually the article excerpt
   contentHtml: string;     // <content:encoded> — full article HTML
   categories: string[];    // <category> tags
+  /**
+   * Featured-image URL on ThePrint's CDN. The RSS feed does NOT carry
+   * images, so this is undefined for freshly-parsed RSS items; the ingest
+   * runner joins it in from the WP REST API (see fetchFeaturedImageMap in
+   * wp-rest.ts). WP-REST-sourced items (Hindi) get it directly.
+   */
+  heroImage?: string;
 }
 
 /**

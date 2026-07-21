@@ -16,6 +16,7 @@ import type { RssItem } from './rss';
 
 interface WpPost {
   link: string;
+  slug?: string;
   date_gmt?: string;
   title?: { rendered?: string };
   excerpt?: { rendered?: string };
@@ -23,6 +24,7 @@ interface WpPost {
   _embedded?: {
     author?: { name?: string }[];
     'wp:term'?: { taxonomy?: string; name?: string }[][];
+    'wp:featuredmedia'?: { source_url?: string }[];
   };
 }
 
@@ -84,6 +86,63 @@ export async function fetchWpRestItems(opts: {
       description,
       contentHtml: contentHtml || description,
       categories,
+      heroImage: p._embedded?.['wp:featuredmedia']?.[0]?.source_url || undefined,
     } satisfies RssItem;
   });
+}
+
+/**
+ * Featured-image lookup for the RSS-sourced (English) column. The RSS feed
+ * carries no images, but the same posts are exposed through the WP REST API
+ * with `_embed`-ed featured media. Returns a slug → source_url map covering
+ * the category's most recent posts; the ingest runner joins it onto RSS items
+ * by slug. Failures should be non-fatal upstream — images are an enhancement,
+ * not a requirement, so callers catch and continue without them.
+ */
+export async function fetchFeaturedImageMap(opts: {
+  base: string;
+  categoryId: number;
+  max?: number;
+}): Promise<Map<string, string>> {
+  const perPage = Math.min(Math.max(opts.max ?? 100, 1), 100);
+  const url =
+    `${opts.base.replace(/\/$/, '')}/wp-json/wp/v2/posts` +
+    `?categories=${opts.categoryId}&per_page=${perPage}&orderby=date&order=desc` +
+    `&_fields=slug,link,_links,_embedded&_embed=wp:featuredmedia`;
+  const resp = await fetch(url, {
+    headers: { 'User-Agent': UA, Accept: 'application/json' },
+  });
+  if (!resp.ok) {
+    throw new Error(`WP REST featured-media fetch failed: ${resp.status} ${resp.statusText}`);
+  }
+  const posts = (await resp.json()) as WpPost[];
+  if (!Array.isArray(posts)) throw new Error('WP REST returned a non-array payload');
+
+  const map = new Map<string, string>();
+  for (const p of posts) {
+    const src = p._embedded?.['wp:featuredmedia']?.[0]?.source_url;
+    // Slug from the API field, falling back to the last URL segment.
+    const slug = p.slug || (p.link ?? '').replace(/\/+$/, '').split('/').pop() || '';
+    if (slug && src) map.set(slug, src);
+  }
+  return map;
+}
+
+/**
+ * Last-resort image lookup: the article page's og:image meta tag. Some posts
+ * have no WP featured media attached (seen on the Hindi column) but every
+ * ThePrint article page still carries og:image for social cards. One fetch
+ * per article — callers should only reach for this when the REST map came
+ * up empty for a slug, and treat failures as "no image".
+ */
+export async function fetchOgImage(articleUrl: string): Promise<string | undefined> {
+  const resp = await fetch(articleUrl, {
+    headers: { 'User-Agent': UA, Accept: 'text/html' },
+  });
+  if (!resp.ok) return undefined;
+  const html = await resp.text();
+  const m =
+    html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ??
+    html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+  return m?.[1] || undefined;
 }
