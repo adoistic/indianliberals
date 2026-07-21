@@ -8,6 +8,7 @@
 // page).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogSection } from "~/lib/og";
 import { getPeriodicalSeries } from "~/lib/periodicals";
 
 const seriesGroups = await getPeriodicalSeries();
@@ -16,6 +17,7 @@ const totalIssues = seriesGroups.reduce((n, g) => n + g.items.length, 0);
 ---
 
 <BaseLayout
+  ogImage={ogSection("periodicals")}
   title="Periodicals · Indian Liberals"
   description={`${totalIssues} periodical issues across ${namedSeries.length} runs: The Indian Libertarian, Khoj, Shetkari Sanghatak, Freedom First, and more, indexed at the issue level with metadata and AI summaries.`}
 >

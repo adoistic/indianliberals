@@ -2,6 +2,7 @@
 // Organisations index, alphabetical list grouped by type.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import OrgMark from "~/components/OrgMark.astro";
 
@@ -51,6 +52,7 @@ const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
 ---
 
 <BaseLayout
+  ogImage={ogSection("organisations")}
   title="Organisations · Indian Liberals"
   description={`${orgs.length} organisations, think tanks, publishers, political parties, and reform societies that built the Indian liberal tradition.`}
 >

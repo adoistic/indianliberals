@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogSection } from "~/lib/og";
 
 // The eight content kinds, grouped by tier, for the "What you'll find here"
 // grid. Icons are simple inline stroke SVGs keyed by `icon`.
@@ -38,6 +39,7 @@ const icons: Record<string, string> = {
 ---
 
 <BaseLayout
+  ogImage={ogSection("about")}
   title="About · Indian Liberals"
   description="About the Indian Liberals project: who maintains it, why it exists, and how it works."
 >

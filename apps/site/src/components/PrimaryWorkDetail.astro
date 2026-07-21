@@ -27,6 +27,7 @@
 //     - descriptionForMeta (200-char slice; no-summary fallback is language-neutral: fm.title.main)
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogWork } from "~/lib/og";
 import { render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
@@ -158,6 +159,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
   lang={fm.language}
   hreflang={hreflang}
   noindex={shouldNoindex(fm.translation_status)}
+  ogImage={ogWork(entry.id, Boolean(fm.cover_image))}
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"

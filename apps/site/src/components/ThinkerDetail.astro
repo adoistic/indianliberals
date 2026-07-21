@@ -37,6 +37,7 @@
 //   irrelevant in practice for i18n pages.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogThinker } from "~/lib/og";
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
@@ -231,6 +232,7 @@ const bioSourceLabel =
   lang={t.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(t.data.translation_status)}
+  ogImage={ogThinker(t.id, Boolean(t.data.portrait?.photo || t.data.portrait?.duotone || t.data.portrait?.caricature))}
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"

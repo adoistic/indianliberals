@@ -1,7 +1,7 @@
 ---
 id: market-by-the-dock-by-pt-bauer-january-1981
 title:
-  main: market-by-the-dock-by-pt-bauer-january-1981
+  main: "The Market in the Dock"
 work_type: book
 authors:
   - peter-bauer
