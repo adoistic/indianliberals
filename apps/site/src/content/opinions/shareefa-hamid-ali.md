@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/shareefa-hamid-ali.webp"
 author: naina-ojha
 subject: "shareefa-hamid-ali"
 thinker_mentions:

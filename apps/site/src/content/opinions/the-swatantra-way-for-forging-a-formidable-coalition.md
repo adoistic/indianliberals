@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/the-swatantra-way-for-forging-a-formidable-coalition.webp"
 thinker_mentions:
   - thinker: minoo-masani
     role: mention

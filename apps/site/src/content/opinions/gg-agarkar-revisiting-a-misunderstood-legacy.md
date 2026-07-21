@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/gg-agarkar-revisiting-a-misunderstood-legacy.webp"
 author: vikrant-pande
 subject: "gopal-ganesh-agarkar"
 thinker_mentions:

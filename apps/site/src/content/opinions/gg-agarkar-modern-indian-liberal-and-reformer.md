@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/gg-agarkar-modern-indian-liberal-and-reformer.webp"
 author: sanjeet-kashyap
 subject: "gopal-ganesh-agarkar"
 thinker_mentions:

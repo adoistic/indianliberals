@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/women-and-liberalism-life-of-ramabai-ranade.webp"
 author: devika-dinesh
 subject: "ramabai-ranade"
 thinker_mentions:

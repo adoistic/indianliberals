@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/indian-liberals-essay-contest.webp"
 thinker_mentions:
   - thinker: minoo-masani
     role: mention

@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/mithan-tata-lam.webp"
 author: kavya-sharma
 subject: "mithan-tata-lam"
 thinker_mentions:

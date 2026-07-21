@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/harish-chandra-mukherjee-a-less-known-liberal.webp"
 subject: "harish-chandra-mukherjee"
 thinker_mentions:
   - thinker: harish-chandra-mukherjee

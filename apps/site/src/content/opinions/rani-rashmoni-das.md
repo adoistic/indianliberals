@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/rani-rashmoni-das.webp"
 author: kavya-sharma
 subject: "rani-rashmoni"
 thinker_mentions:

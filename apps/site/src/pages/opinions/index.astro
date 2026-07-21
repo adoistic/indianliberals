@@ -168,32 +168,60 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
       )}
     </aside>
 
-    {/* Listing column */}
+    {/* Listing column — image-led magazine grid (restored from the legacy
+        site's opinions-and-events cards, Adnan 2026-07). The newest piece
+        reads as a full-width lead; the rest sit in a two-column card grid.
+        Every card keeps the .o-item data attributes so the filter script
+        works unchanged — filtering the lead away simply reflows the grid. */}
     <div class="min-w-0">
-      <ul class="divide-y divide-(--color-border)" id="o-list">
-        {opinions.map((o) => {
+      <ul class="grid gap-x-6 gap-y-10 sm:grid-cols-2" id="o-list">
+        {opinions.map((o, idx) => {
           const y = new Date(o.data.pubDate).getFullYear();
           const dec = Math.floor(y / 10) * 10;
+          const lead = idx === 0;
+          const byline =
+            o.data.author_name &&
+            o.data.author_name !== "Editorial Team" &&
+            o.data.author_name !== "CCS Editorial Team"
+              ? o.data.author_name
+              : null;
           return (
             <li
-              class="o-item py-6"
+              class={`o-item ${lead ? "sm:col-span-2" : ""}`}
               data-decade={String(dec)}
               data-themes={(o.data.themes ?? []).join(" ")}
               data-kind={o.data.kind ?? ""}
               data-places={(o.data.geographic_scope?.places ?? []).join(" ")}
               data-key-concepts={(o.data.key_concepts ?? []).join(" ")}
             >
-              <a href={`/opinions/${o.id}/`} class="block no-underline group">
+              <a href={`/opinions/${o.id}/`} class="block no-underline group h-full">
+                {o.data.hero_image && (
+                  <div
+                    class={`${lead ? "aspect-[21/10]" : "aspect-[16/10]"} overflow-hidden rounded-sm border border-(--color-border) bg-(--color-bg-muted) mb-4 transition-shadow group-hover:shadow-md`}
+                  >
+                    <img
+                      src={o.data.hero_image}
+                      alt=""
+                      width={lead ? "1024" : "640"}
+                      height={lead ? "488" : "400"}
+                      loading={lead ? "eager" : "lazy"}
+                      decoding="async"
+                      class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300"
+                    />
+                  </div>
+                )}
                 <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
                   {new Date(o.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
-                  {o.data.author_name && o.data.author_name !== "Editorial Team" && o.data.author_name !== "CCS Editorial Team" && (<><span> · </span>{o.data.author_name}</>)}
+                  {byline && (<><span> · </span>{byline}</>)}
                 </p>
-                <h2 class="font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-xl leading-snug">
+                <h2
+                  class={`font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug ${lead ? "text-2xl md:text-3xl max-w-2xl" : "text-xl"}`}
+                >
                   {o.data.title}
                 </h2>
                 {o.data.pull_quote && (
                   <p
-                    class="text-sm text-(--color-fg-muted) italic mt-2 line-clamp-2"
+                    class={`text-sm text-(--color-fg-muted) italic mt-2 ${lead ? "line-clamp-2 max-w-2xl" : "line-clamp-2"}`}
                     set:html={`&ldquo;${inlineMd(o.data.pull_quote)}&rdquo;`}
                   />
                 )}

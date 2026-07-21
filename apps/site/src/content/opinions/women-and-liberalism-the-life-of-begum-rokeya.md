@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/women-and-liberalism-the-life-of-begum-rokeya.webp"
 author: anshu-singh-rathore
 subject: "begum-rokeya"
 thinker_mentions:

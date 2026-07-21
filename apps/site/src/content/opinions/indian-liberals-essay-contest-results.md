@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/indian-liberals-essay-contest-results.webp"
 source_channel: "editorial-events"
 proposed_themes:
   - "essay-contest"

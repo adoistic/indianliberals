@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/n-dandekar-on-the-role-of-the-indian-navy.webp"
 subject: "n-dandekar"
 source_channel: "editorial-opinions"
 proposed_themes:

@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/fourth-industrial-revolution-what-it-means-for-india.webp"
 source_channel: "editorial-opinions"
 proposed_themes:
   - "artificial-intelligence"

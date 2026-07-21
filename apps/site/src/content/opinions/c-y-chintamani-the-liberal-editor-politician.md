@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/c-y-chintamani-the-liberal-editor-politician.webp"
 author: sanjeet-kashyap
 subject: "c-y-chintamani"
 thinker_mentions:

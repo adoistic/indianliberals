@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/hriday-nath-kunzru-the-liberal-institution-builder.webp"
 subject: "hriday-nath-kunzru"
 thinker_mentions:
   - thinker: hriday-nath-kunzru

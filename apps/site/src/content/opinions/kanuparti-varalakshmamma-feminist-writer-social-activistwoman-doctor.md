@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor.webp"
 subject: "kanuparti-varalakshmamma"
 thinker_mentions:
   - thinker: kanuparti-varalakshmamma

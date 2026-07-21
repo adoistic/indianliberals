@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/hamid-dalwai-and-the-muslim-satyashodhak-mandal.webp"
 author: vikrant-pande
 subject: "hamid-dalwai"
 thinker_mentions:

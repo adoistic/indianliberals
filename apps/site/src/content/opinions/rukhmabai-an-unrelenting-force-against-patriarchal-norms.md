@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/rukhmabai-an-unrelenting-force-against-patriarchal-norms.webp"
 author: khushi-rajput
 subject: "rukhmabai"
 thinker_mentions:

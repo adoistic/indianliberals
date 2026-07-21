@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/minoo-masani-from-socialism-to-liberal-swatantra-party.webp"
 author: sanjeet-kashyap
 subject: "minoo-masani"
 thinker_mentions:

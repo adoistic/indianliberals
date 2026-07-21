@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/karsandas-mulji-the-forgotten-indian-luther.webp"
 author: sanjeet-kashyap
 subject: "karsandas-mulji"
 thinker_mentions:

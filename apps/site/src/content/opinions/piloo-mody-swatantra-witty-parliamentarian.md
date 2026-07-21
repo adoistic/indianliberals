@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/piloo-mody-swatantra-witty-parliamentarian.webp"
 author: sanjeet-kashyap
 subject: "piloo-mody"
 thinker_mentions:

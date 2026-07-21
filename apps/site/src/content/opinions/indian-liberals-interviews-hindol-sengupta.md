@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/indian-liberals-interviews-hindol-sengupta.webp"
 subject: "hindol-sengupta"
 thinker_mentions:
   - thinker: hindol-sengupta

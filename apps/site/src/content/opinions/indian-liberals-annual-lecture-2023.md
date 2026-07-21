@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/indian-liberals-annual-lecture-2023.webp"
 thinker_mentions:
   - thinker: gurcharan-das
     role: mention

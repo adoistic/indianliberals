@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/poona-sarvajanik-sabha-and-its-liberal-affiliations.webp"
 author: sanjeet-kashyap
 thinker_mentions:
   - thinker: mahadev-govind-ranade

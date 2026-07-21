@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/b-r-ambedkar-social-reform-failure-of-indian-liberalism.webp"
 author: sanjeet-kashyap
 subject: "bhimrao-ambedkar"
 thinker_mentions:

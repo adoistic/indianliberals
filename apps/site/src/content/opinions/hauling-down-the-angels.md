@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/hauling-down-the-angels.webp"
 source_channel: "editorial-opinions"
 proposed_themes:
   - "angel-investment"

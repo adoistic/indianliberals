@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/hans-raj-khanna-justice-speaking-truth-to-power.webp"
 author: neethika-manoj
 subject: "hans-raj-khanna"
 thinker_mentions:

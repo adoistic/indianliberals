@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/palkhivalas-lost-battle-shapes-the-future-of-indian-online-gaming.webp"
 thinker_mentions:
   - thinker: nani-palkhivala
     role: subject

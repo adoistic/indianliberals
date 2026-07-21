@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/rajagopalacharis-thoughts-on-culture.webp"
 author: chandrasekaran-balakrishnan
 subject: "c-rajagopalachari"
 thinker_mentions:

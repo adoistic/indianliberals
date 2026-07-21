@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/the-liberalism-of-ishwar-chandra-vidyasagar.webp"
 author: sanjeet-kashyap
 subject: "ishwar-chandra-vidyasagar"
 thinker_mentions:

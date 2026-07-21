@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/b-r-shenoy-indias-first-neoliberal.webp"
 author: sanjeet-kashyap
 subject: "b-r-shenoy"
 thinker_mentions:

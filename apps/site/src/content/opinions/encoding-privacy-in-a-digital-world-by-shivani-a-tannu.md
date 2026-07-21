@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/encoding-privacy-in-a-digital-world-by-shivani-a-tannu.webp"
 author: "shivani-a-tannu"
 source_channel: "editorial-opinions"
 proposed_themes:

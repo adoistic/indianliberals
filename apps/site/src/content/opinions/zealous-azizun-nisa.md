@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/zealous-azizun-nisa.webp"
 author: kavya-sharma
 subject: "azizun-nisa"
 thinker_mentions:

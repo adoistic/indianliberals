@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/v-s-srinivasa-sastri.webp"
 author: sanjeet-kashyap
 subject: "v-s-srinivasa-sastri"
 thinker_mentions:

@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/the-radical-humanism-of-jyotiba-phule.webp"
 author: sanjeet-kashyap
 subject: "jyotirao-phule"
 thinker_mentions:

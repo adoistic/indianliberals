@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/anandibai-joshee.webp"
 author: naina-ojha
 subject: "anandibai-joshee"
 thinker_mentions:

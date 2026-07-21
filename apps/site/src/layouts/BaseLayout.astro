@@ -21,6 +21,9 @@ interface Props {
   hreflang?: HreflangAlternate[];
   /** Override the canonical URL (defaults to the current request URL). */
   canonical?: string;
+  /** Social-card image path (og:image). Site-relative, e.g.
+   *  "/opinions/covers/anandibai-joshee.webp". Falls back to the brand logo. */
+  ogImage?: string;
 }
 
 const {
@@ -30,6 +33,7 @@ const {
   noindex = false,
   hreflang = [],
   canonical,
+  ogImage,
 } = Astro.props;
 
 const resolvedCanonical =
@@ -71,7 +75,7 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={resolvedCanonical} />
-    <meta property="og:image" content={new URL("/brand/logo.png", Astro.site)} />
+    <meta property="og:image" content={new URL(ogImage ?? "/brand/logo.png", Astro.site)} />
     <meta property="og:locale" content={ogLocale} />
     {ogLocaleAlternates.map((loc) => (
       <meta property="og:locale:alternate" content={loc} />

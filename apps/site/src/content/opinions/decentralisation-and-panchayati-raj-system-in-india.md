@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/decentralisation-and-panchayati-raj-system-in-india.webp"
 thinker_mentions: []
 related_thinkers: []
 source_channel: "editorial-events"

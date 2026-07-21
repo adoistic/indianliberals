@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/diversity-democracy-and-dissent.webp"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

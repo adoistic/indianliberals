@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/why-remember-sharad-joshi.webp"
 author: dinesh-sharma
 subject: "sharad-joshi"
 thinker_mentions:

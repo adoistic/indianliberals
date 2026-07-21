@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/sharad-joshi-and-the-crisis-of-trade-unions.webp"
 author: vikrant-pande
 subject: "sharad-joshi"
 thinker_mentions:

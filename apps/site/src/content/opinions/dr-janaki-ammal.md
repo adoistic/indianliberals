@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/dr-janaki-ammal.webp"
 subject: "janaki-ammal"
 thinker_mentions:
   - thinker: janaki-ammal

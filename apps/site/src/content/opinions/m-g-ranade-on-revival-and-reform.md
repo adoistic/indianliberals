@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/m-g-ranade-on-revival-and-reform.webp"
 author: vikrant-pande
 subject: "mahadev-govind-ranade"
 thinker_mentions:

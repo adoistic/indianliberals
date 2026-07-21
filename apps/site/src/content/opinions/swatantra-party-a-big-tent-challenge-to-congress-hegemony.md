@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/swatantra-party-a-big-tent-challenge-to-congress-hegemony.webp"
 author: sanjeet-kashyap
 thinker_mentions:
   - thinker: minoo-masani

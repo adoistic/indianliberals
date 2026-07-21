@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism.webp"
 author: sanjeet-kashyap
 thinker_mentions:
   - thinker: dadabhai-naoroji

@@ -264,6 +264,10 @@ const opinions = defineCollection({
     // Editorial Team ABOUT a thinker — that thinker goes in `subject`.
     author_name: z.string(),
     author: reference('contributors').optional(),
+    // Featured image recovered from the legacy WordPress site (the old
+    // opinions-and-events cards), e.g. "/opinions/covers/<slug>.webp".
+    // Drives the card grid on /opinions/ and the hero on the detail page.
+    hero_image: z.string().optional(),
     // `subject` is the thinker the piece profiles, populated for profile-
     // style opinions ("Anandibai Joshee: First Indian Woman Doctor"). Drives
     // the "Profile pieces and interviews about <X>" section on the bio page.

@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/the-unwavering-feminism-of-tarabai-shinde.webp"
 author: prarthana-puthran
 subject: "tarabai-shinde"
 thinker_mentions:

@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/rajajis-views-on-nuclear-bomb.webp"
 author: sanjeet-kashyap
 subject: "c-rajagopalachari"
 thinker_mentions:

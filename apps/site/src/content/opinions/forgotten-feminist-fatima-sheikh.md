@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/forgotten-feminist-fatima-sheikh.webp"
 subject: "fatima-sheikh"
 thinker_mentions:
   - thinker: fatima-sheikh

@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/the-resolute-abala-bose.webp"
 author: kavya-sharma
 subject: "lady-abala-bose"
 thinker_mentions:

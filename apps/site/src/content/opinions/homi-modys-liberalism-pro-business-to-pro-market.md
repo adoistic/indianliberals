@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/homi-modys-liberalism-pro-business-to-pro-market.webp"
 author: sanjeet-kashyap
 subject: "homi-mody"
 thinker_mentions:

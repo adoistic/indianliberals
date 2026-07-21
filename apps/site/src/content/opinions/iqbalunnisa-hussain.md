@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author_name: "Editorial Team"
+hero_image: "/opinions/covers/iqbalunnisa-hussain.webp"
 author: kavya-sharma
 subject: "iqbalunnisa-hussain"
 thinker_mentions:
