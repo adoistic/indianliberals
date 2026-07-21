@@ -26,6 +26,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/giving-is-receiving-mrs-meera-shenoy.pdf
+cover_image: "/primary-works/covers/giving-is-receiving-mrs-meera-shenoy.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

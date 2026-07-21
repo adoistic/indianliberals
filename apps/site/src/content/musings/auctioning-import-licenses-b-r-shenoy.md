@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
+hero_image: "/thinkers/photos/b-r-shenoy.jpg"
 source_channel: "indian-libertarian"
 proposed_themes:
   - "anti-corruption"

@@ -12,6 +12,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
+hero_image: "/musings/covers/free-enterprise-in-danger-b-r-shenoy-1975.webp"
 thinker_mentions:
   - thinker: jrd-tata
     role: mention

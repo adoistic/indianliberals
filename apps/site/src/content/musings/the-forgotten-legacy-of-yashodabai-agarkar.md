@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "yashodabai-agarkar"
+hero_image: "/musings/covers/the-forgotten-legacy-of-yashodabai-agarkar.webp"
 thinker_mentions:
   - thinker: gopal-ganesh-agarkar
     role: mention

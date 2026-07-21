@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "sharad-joshi"
+hero_image: "/thinkers/photos/sharad-joshi.jpg"
 thinker_mentions:
   - thinker: adam-smith
     role: mention

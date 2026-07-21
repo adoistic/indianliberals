@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "gurajada-apparao"
+hero_image: "/musings/covers/gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "feminism"

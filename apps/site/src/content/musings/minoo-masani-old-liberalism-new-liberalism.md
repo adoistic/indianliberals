@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+hero_image: "/thinkers/photos/minoo-masani.jpg"
 thinker_mentions:
   - thinker: dadabhai-naoroji
     role: mention

@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ma-rangoonwala"
+hero_image: "/musings/covers/commerce-and-control-barriers-to-free-enterprise-m-a-rangoonwala-1982.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "trade-barriers"

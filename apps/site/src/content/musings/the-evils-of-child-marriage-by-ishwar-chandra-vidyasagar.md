@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ishwar-chandra-vidyasagar"
+hero_image: "/thinkers/photos/ishwar-chandra-vidyasagar-wiki.jpg"
 thinker_mentions: []
 related_thinkers: []
 proposed_themes:

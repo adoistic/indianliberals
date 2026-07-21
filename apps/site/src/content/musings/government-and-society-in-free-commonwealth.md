@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "sauvik-chakraverti"
+hero_image: "/thinkers/photos/sauvik-chakraverti.jpg"
 thinker_mentions:
   - thinker: john-locke
     role: mention

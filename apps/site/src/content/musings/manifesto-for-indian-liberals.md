@@ -2,6 +2,7 @@
 id: "manifesto-for-indian-liberals"
 title: "Manifesto for Indian Liberals"
 pubDate: "2024-05-13T11:32:21Z"
+hero_image: "/musings/covers/manifesto-for-indian-liberals.webp"
 themes:
   - "civil-liberties"
   - "democracy"

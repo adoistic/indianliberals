@@ -188,49 +188,69 @@ function themesAttr(w: (typeof works)[number]): string {
     {/* Listing column */}
     <div id="pw-list" class="min-w-0">
     {decades.map((d) => (
-      <section class="mb-12 pw-section" data-decade={String(d.start)}>
+      <section class="mb-14 pw-section" data-decade={String(d.start)}>
         <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[4.75rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
           {d.label}
         </h2>
-        <ul class="divide-y divide-(--color-border)">
+        {/* Cover-led grid. Each work leads with the first page of its PDF
+            (portrait 3:4, not the landscape card used for opinions); works
+            without a rendered cover fall back to a titled spine tile so the
+            grid stays even. Filter JS toggles these .pw-item cells. */}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-8 font-(family-name:--font-ui)">
           {d.works.map((w) => {
             const y = w.data.publication?.year;
-            const pubName = w.data.publication?.publisher_name;
-            const subtitle = w.data.title.subtitle;
             const byline = (w.data.contributors ?? [])
               .filter((c) => c.role === "author")
               .map((c) => c.thinker_unresolved || (c.thinker as { id?: string } | undefined)?.id || "")
               .filter(Boolean)
+              .map((s) => s.replace(/-/g, " "))
               .join(", ");
+            const cover = w.data.cover_image;
             return (
               <li
-                class="pw-item py-5"
+                class="pw-item"
                 data-type={w.data.work_type}
                 data-decade={String(d.start)}
                 data-themes={themesAttr(w)}
                 data-language={w.data.language ?? "en"}
               >
-                <a href={pathForEntry("primary-works", w.id, (w.data.language ?? "en") as LangCode)} class="block group no-underline">
-                  <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug">
+                <a href={pathForEntry("primary-works", w.id, (w.data.language ?? "en") as LangCode)} class="group block no-underline h-full">
+                  <div class="aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) transition-shadow group-hover:shadow-md relative">
+                    {cover ? (
+                      <img
+                        src={cover}
+                        alt=""
+                        width="240"
+                        height="320"
+                        loading="lazy"
+                        decoding="async"
+                        class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300"
+                      />
+                    ) : (
+                      <div class="w-full h-full flex flex-col items-center justify-center gap-2 px-3 text-center">
+                        <span aria-hidden="true" class="font-(family-name:--font-display) text-3xl text-(--color-saffron-700)/60 leading-none">
+                          {w.data.title.main.replace(/^(the|a|an) /i, "").charAt(0)}
+                        </span>
+                        <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted)">
+                          {w.data.work_type.replace(/_/g, " ")}
+                        </span>
+                      </div>
+                    )}
+                    {w.data.language && w.data.language !== "en" && (
+                      <span class="absolute top-1.5 right-1.5 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg)/85 border border-(--color-border) rounded">
+                        {w.data.language}
+                      </span>
+                    )}
+                  </div>
+                  <h3 class="mt-2.5 text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-2">
                     {w.data.title.main}
-                    {subtitle && <span class="text-(--color-fg-muted) font-normal italic">: {subtitle}</span>}
                   </h3>
-                  {w.data.title.original_script && w.data.title.original_script !== w.data.title.main && (
-                    <p class="mt-0.5 text-sm text-(--color-fg-muted) font-(family-name:--font-display)" lang={w.data.language}>
-                      {w.data.title.original_script}
-                    </p>
-                  )}
-                  {w.data.title.translit && w.data.title.translit !== w.data.title.main && w.data.title.translit !== w.data.title.original_script && (
-                    <p class="mt-0.5 text-sm text-(--color-fg-muted) font-(family-name:--font-display) italic">
-                      {w.data.title.translit}
-                    </p>
-                  )}
-                  <p class="mt-1 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-                    {byline && <>{byline} · </>}
-                    {y && <>{y}</>}
-                    {pubName && <> · {pubName.split(/[\.,]/)[0]}</>}
-                    <span class="ml-2 px-2 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs uppercase tracking-wider">
-                      {w.data.work_type.replace(/_/g, " ")}
+                  <p class="mt-1 text-xs text-(--color-fg-muted) leading-snug">
+                    {byline && <span class="line-clamp-1">{byline}</span>}
+                    <span>
+                      {y && <>{y}</>}
+                      {y && <> · </>}
+                      <span class="uppercase tracking-wider">{w.data.work_type.replace(/_/g, " ")}</span>
                     </span>
                   </p>
                 </a>

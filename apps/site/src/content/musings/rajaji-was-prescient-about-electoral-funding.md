@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "c-rajagopalachari"
+hero_image: "/thinkers/photos/c-rajagopalachari-wiki.jpg"
 source_channel: "so-musings"
 proposed_themes:
   - "crony-capitalism"

@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "k-santhanam"
+hero_image: "/musings/covers/socialism-or-state-capitalism.webp"
 thinker_mentions:
   - thinker: karl-marx
     role: mention

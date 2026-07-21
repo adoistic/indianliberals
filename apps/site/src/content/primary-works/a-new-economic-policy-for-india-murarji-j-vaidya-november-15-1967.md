@@ -23,6 +23,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/a-new-economic-policy-for-india-murarji-j-vaidya-november-15-1967.pdf
+cover_image: "/primary-works/covers/a-new-economic-policy-for-india-murarji-j-vaidya-november-15-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

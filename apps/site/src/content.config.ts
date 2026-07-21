@@ -225,6 +225,11 @@ const musings = defineCollection({
     pubDate: z.coerce.date(),
     excerpt_of: z.string().optional(), // primary-works ID
     author: reference('thinkers').optional(),
+    // Featured image, e.g. "/musings/covers/<slug>.webp". Recovered from the
+    // legacy WordPress musings cards (topical imagery), with a fallback to the
+    // source work's cover for musings the archive didn't preserve. Drives the
+    // image-led card grid on /musings/ and the hero on the detail page.
+    hero_image: z.string().optional(),
     // `related_thinkers` carries thinkers mentioned inside the body of
     // the excerpt but who are neither the author nor the subject. Drives
     // the "Mentioned in" section on bio pages. Empty in Phase A; populated

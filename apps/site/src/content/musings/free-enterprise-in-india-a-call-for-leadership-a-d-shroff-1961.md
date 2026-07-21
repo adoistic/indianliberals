@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-d-shroff"
+hero_image: "/musings/covers/free-enterprise-in-india-a-call-for-leadership-a-d-shroff-1961.webp"
 thinker_mentions:
   - thinker: jayaprakash-narayan
     role: mention

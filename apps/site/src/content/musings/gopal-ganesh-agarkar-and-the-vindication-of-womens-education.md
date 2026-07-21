@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "gopal-ganesh-agarkar"
+hero_image: "/musings/covers/gopal-ganesh-agarkar-and-the-vindication-of-womens-education.webp"
 thinker_mentions:
   - thinker: bal-gangadhar-tilak
     role: mention

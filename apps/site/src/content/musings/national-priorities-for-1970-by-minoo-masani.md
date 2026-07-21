@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+hero_image: "/musings/covers/national-priorities-for-1970-by-minoo-masani.webp"
 thinker_mentions:
   - thinker: indira-gandhi
     role: mention

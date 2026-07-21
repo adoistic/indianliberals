@@ -16,6 +16,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/market-by-the-dock-by-pt-bauer-january-1981.pdf
+cover_image: "/primary-works/covers/market-by-the-dock-by-pt-bauer-january-1981.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

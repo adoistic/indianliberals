@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "gopal-krishna-gokhale"
+hero_image: "/musings/covers/bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "moderate-nationalism"

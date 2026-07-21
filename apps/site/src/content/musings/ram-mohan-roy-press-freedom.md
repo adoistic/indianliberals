@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "raja-ram-mohan-roy"
+hero_image: "/thinkers/duotone/raja-ram-mohan-roy.webp"
 thinker_mentions: []
 related_thinkers: []
 source_channel: "so-musings"

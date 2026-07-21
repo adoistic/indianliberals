@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "f-p-antia"
+hero_image: "/musings/covers/whithering-indian-urbanisation-fp-antia.webp"
 proposed_themes:
   - "housing"
   - "urban-planning"

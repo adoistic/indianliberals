@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "gurcharan-das"
+hero_image: "/musings/covers/gurcharan-das-champion-of-liberal-ideas.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "inequality"

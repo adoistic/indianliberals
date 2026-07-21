@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "sharad-joshi"
+hero_image: "/thinkers/photos/sharad-joshi.jpg"
 source_channel: "so-musings"
 proposed_themes:
   - "farmer-distress"

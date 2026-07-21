@@ -27,6 +27,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/udarwad-raj-samaj-aur-bazar-ka-naya-paath-hindi-book-based-on-free-your-mind.pdf
+cover_image: "/primary-works/covers/udarwad-raj-samaj-aur-bazaar.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

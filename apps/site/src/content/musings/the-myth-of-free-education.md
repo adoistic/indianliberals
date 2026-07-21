@@ -2,6 +2,7 @@
 id: "the-myth-of-free-education"
 title: "The Myth of Free Education"
 pubDate: "2024-08-05T14:45:50Z"
+hero_image: "/musings/covers/the-myth-of-free-education.webp"
 themes:
   - "economic-policy"
   - "public-finance"

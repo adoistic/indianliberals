@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "bhimrao-ambedkar"
+hero_image: "/thinkers/photos/bhimrao-ambedkar-wiki.jpg"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

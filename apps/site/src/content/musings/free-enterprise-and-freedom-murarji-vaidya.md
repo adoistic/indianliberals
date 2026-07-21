@@ -12,6 +12,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "murarji-vaidya"
+hero_image: "/musings/covers/free-enterprise-and-freedom-murarji-vaidya.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "concentration-of-economic-power"

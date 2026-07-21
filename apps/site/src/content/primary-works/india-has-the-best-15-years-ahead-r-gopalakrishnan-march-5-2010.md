@@ -30,6 +30,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/india-has-the-best-15-years-ahead-r-gopalakrishnan-march-5-2010.pdf
+cover_image: "/primary-works/covers/india-has-the-best-15-years-ahead-r-gopalakrishnan-march-5-2010.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

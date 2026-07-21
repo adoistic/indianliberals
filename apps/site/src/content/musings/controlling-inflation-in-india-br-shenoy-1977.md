@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-r-shenoy"
+hero_image: "/musings/covers/controlling-inflation-in-india-br-shenoy-1977.webp"
 thinker_mentions:
   - thinker: jrd-tata
     role: mention

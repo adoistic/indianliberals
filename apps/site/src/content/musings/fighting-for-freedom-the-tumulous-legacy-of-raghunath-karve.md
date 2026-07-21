@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "raghunath-karve"
+hero_image: "/musings/covers/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve.webp"
 thinker_mentions:
   - thinker: bhimrao-ambedkar
     role: mention

@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "c-rajagopalachari"
+hero_image: "/musings/covers/rajaji-man-with-a-mission.webp"
 thinker_mentions:
   - thinker: c-rajagopalachari
     role: subject

@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "pandita-ramabai"
+hero_image: "/thinkers/photos/ramabai-pandita.jpg"
 thinker_mentions:
   - thinker: anandibai-joshee
     role: mention

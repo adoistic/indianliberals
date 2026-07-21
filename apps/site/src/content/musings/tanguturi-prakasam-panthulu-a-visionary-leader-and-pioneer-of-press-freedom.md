@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "tanguturi-prakasam"
+hero_image: "/musings/covers/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom.webp"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

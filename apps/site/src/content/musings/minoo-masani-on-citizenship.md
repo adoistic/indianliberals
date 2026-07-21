@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+hero_image: "/musings/covers/minoo-masani-on-citizenship.webp"
 thinker_mentions:
   - thinker: jawaharlal-nehru
     role: mention

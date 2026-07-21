@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-masani"
+hero_image: "/musings/covers/planning-by-minoo-masani-1945.webp"
 thinker_mentions:
   - thinker: abraham-lincoln
     role: mention

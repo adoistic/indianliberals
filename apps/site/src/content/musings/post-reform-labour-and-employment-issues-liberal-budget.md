@@ -2,6 +2,7 @@
 id: "post-reform-labour-and-employment-issues-liberal-budget"
 title: "Post Reform Labour and Employment Issues - The Liberal Budget"
 pubDate: "2024-07-01T14:36:07Z"
+hero_image: "/musings/covers/post-reform-labour-and-employment-issues-liberal-budget.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

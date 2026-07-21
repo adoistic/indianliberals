@@ -2,6 +2,7 @@
 id: "indian-agricultural-policy-in-a-nutshell"
 title: "Indian agricultural policy in a nutshell"
 pubDate: "2023-12-20T16:49:31Z"
+hero_image: "/musings/covers/indian-agricultural-policy-in-a-nutshell.webp"
 themes:
   - "agriculture"
   - "economic-policy"

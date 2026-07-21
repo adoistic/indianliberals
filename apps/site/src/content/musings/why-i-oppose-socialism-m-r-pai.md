@@ -13,6 +13,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "m-r-pai"
+hero_image: "/thinkers/photos/m-r-pai.jpg"
 source_channel: "so-musings"
 proposed_themes: []
 key_concepts:

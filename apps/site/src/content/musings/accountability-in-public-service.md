@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "n-vittal"
+hero_image: "/musings/covers/accountability-in-public-service.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "accountability"

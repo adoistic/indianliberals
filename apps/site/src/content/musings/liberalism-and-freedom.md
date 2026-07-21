@@ -2,6 +2,7 @@
 id: "liberalism-and-freedom"
 title: "Liberalism and Freedom"
 pubDate: "2020-11-16T06:25:21Z"
+hero_image: "/musings/covers/liberalism-and-freedom.webp"
 themes:
   - "democracy"
   - "free-markets"

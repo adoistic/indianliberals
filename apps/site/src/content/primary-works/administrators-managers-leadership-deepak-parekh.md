@@ -20,6 +20,7 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/administrators-managers-and-leadership-by-deepak-parekh-1997.pdf
+cover_image: "/primary-works/covers/administrators-managers-leadership-deepak-parekh.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

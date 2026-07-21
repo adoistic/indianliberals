@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "kandukuri-veeresalingam"
+hero_image: "/musings/covers/kandukuri-veeresalingam-icon-of-andhras-renaissance.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "renaissance"

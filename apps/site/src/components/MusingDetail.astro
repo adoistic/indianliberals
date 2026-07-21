@@ -75,6 +75,7 @@ const musingsListBase = pathForCollection("musings", m.data.language);
   lang={m.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(m.data.translation_status)}
+  ogImage={m.data.hero_image}
 >
   <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:musing,lang:${m.data.language}`}>
     <header class="border-b border-(--color-border) pb-8 mb-10">
@@ -108,6 +109,23 @@ const musingsListBase = pathForCollection("musings", m.data.language);
         </ul>
       )}
     </header>
+
+    {/* Featured image — recovered from the legacy musings cards, falling back
+        to the source work's cover for pieces the archive didn't preserve. */}
+    {m.data.hero_image && (
+      <figure class="mb-10">
+        <img
+          src={m.data.hero_image}
+          alt=""
+          width="1024"
+          height="576"
+          fetchpriority="high"
+          decoding="async"
+          class="w-full h-auto max-h-[28rem] object-cover object-top rounded-sm border border-(--color-border) bg-(--color-bg-muted)"
+        />
+      </figure>
+    )}
+
     <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5">
       <Content />
     </div>

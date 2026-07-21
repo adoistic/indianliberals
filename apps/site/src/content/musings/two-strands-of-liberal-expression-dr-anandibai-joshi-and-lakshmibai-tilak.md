@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "lakshmibai-tilak"
+hero_image: "/musings/covers/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak.webp"
 thinker_mentions:
   - thinker: anandibai-joshee
     role: subject

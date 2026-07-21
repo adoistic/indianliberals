@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "bp-godrej"
+hero_image: "/musings/covers/a-blueprint-for-eradication-of-poverty-bp-godrej-1980.webp"
 thinker_mentions:
   - thinker: bernard-shaw
     role: mention

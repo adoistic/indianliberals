@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-d-shroff"
+hero_image: "/thinkers/photos/a-d-shroff.png"
 thinker_mentions:
   - thinker: t-t-krishnamachari
     role: mention

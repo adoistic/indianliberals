@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "kd-valicha"
+hero_image: "/musings/covers/profit-shy-asians-by-kd-valicha.webp"
 proposed_themes:
   - "profit-motive"
 key_concepts:

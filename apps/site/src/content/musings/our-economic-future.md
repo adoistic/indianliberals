@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-d-shroff"
+hero_image: "/thinkers/photos/a-d-shroff.png"
 source_channel: "so-musings"
 proposed_themes:
   - "food-shortage"

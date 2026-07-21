@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "muthulakshmi-reddi"
+hero_image: "/musings/covers/dr-muthulakshmi-reddi-beacon-of-womens-liberty.webp"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

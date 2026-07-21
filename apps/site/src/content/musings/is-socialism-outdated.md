@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "nani-palkhivala"
+hero_image: "/thinkers/photos/nani-palkhivala.jpg"
 thinker_mentions:
   - thinker: jawaharlal-nehru
     role: mention

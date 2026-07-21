@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "n-g-ranga"
+hero_image: "/musings/covers/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart.webp"
 thinker_mentions:
   - thinker: kandukuri-veeresalingam
     role: mention

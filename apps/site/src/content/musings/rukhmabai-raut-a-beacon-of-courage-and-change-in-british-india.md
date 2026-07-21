@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "rukhmabai"
+hero_image: "/musings/covers/rukhmabai-raut-a-beacon-of-courage-and-change-in-british-india.webp"
 thinker_mentions: []
 related_thinkers: []
 

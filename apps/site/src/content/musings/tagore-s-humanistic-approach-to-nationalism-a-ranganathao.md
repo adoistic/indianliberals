@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "a-ranganathan"
+hero_image: "/musings/covers/tagore-s-humanistic-approach-to-nationalism-a-ranganathao.webp"
 thinker_mentions:
   - thinker: rabindranath-tagore
     role: subject

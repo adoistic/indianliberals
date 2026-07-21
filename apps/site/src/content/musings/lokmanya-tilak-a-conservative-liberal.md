@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "bal-gangadhar-tilak"
+hero_image: "/musings/covers/lokmanya-tilak-a-conservative-liberal.webp"
 thinker_mentions:
   - thinker: gopal-krishna-gokhale
     role: mention
