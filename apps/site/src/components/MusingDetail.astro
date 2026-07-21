@@ -32,6 +32,7 @@
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { articleNode, breadcrumbNode } from "~/lib/schema";
+import { metaExcerpt } from "~/lib/excerpt";
 import { ogMusing } from "~/lib/og";
 import { getEntry, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -70,10 +71,15 @@ const mentionSlugs = (m.data.thinker_mentions ?? [])
 // LANG-CONDITIONAL: chip links must point at the correct collection index.
 // Computed via the shared pathForCollection() helper (see ~/lib/i18n).
 const musingsListBase = pathForCollection("musings", m.data.language);
+
+// Unique per-page meta description: classification pull-quote, else the
+// first prose sentence(s) of the excerpt body.
+const descriptionForMeta = m.data.pull_quote?.trim() || metaExcerpt(m.body ?? "");
 ---
 
 <BaseLayout
   title={`${m.data.title} · Indian Liberals`}
+  description={descriptionForMeta}
   lang={m.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(m.data.translation_status)}
@@ -87,7 +93,7 @@ const musingsListBase = pathForCollection("musings", m.data.language);
       authorName: authorEntry?.data.name.canonical,
       authorPath: authorEntry ? `/thinkers/${authorEntry.id}/` : undefined,
       image: m.data.hero_image,
-      description: m.data.pull_quote,
+      description: descriptionForMeta,
       themes: m.data.themes,
       inLanguage: m.data.language,
     }),

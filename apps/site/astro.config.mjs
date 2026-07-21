@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { remarkParagraphIds } from './src/plugins/remark-paragraph-ids.mjs';
+import { remarkDemoteH1 } from './src/plugins/remark-demote-h1.mjs';
 
 // Cloudflare Pages adapter — uncomment when deploying.
 // import cloudflare from '@astrojs/cloudflare';
@@ -31,7 +32,7 @@ export default defineConfig({
     // Paragraph-stable citation anchors (id="p-xxxxxx") on every rendered
     // paragraph. Same derivation as the .md-sibling annotations — see
     // src/lib/paragraph-id.mjs.
-    remarkPlugins: [remarkParagraphIds],
+    remarkPlugins: [remarkDemoteH1, remarkParagraphIds],
   },
   integrations: [
     mdx(),

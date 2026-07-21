@@ -37,6 +37,7 @@
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { articleNode, breadcrumbNode } from "~/lib/schema";
+import { metaExcerpt } from "~/lib/excerpt";
 import { ogOpinion } from "~/lib/og";
 import { getEntry, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -76,10 +77,15 @@ const mentionSlugs = (o.data.thinker_mentions ?? [])
 // Computed via the shared pathForCollection() helper (see ~/lib/i18n) so the
 // same pattern works for musings/interviews without re-implementing the logic.
 const opinionsListBase = pathForCollection("opinions", o.data.language);
+
+// Unique per-page meta description: classification pull-quote, else the
+// first prose sentence(s) of the piece.
+const descriptionForMeta = o.data.pull_quote?.trim() || metaExcerpt(o.body ?? "");
 ---
 
 <BaseLayout
   title={`${o.data.title} · Indian Liberals`}
+  description={descriptionForMeta}
   lang={o.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(o.data.translation_status)}
@@ -95,7 +101,7 @@ const opinionsListBase = pathForCollection("opinions", o.data.language);
       aboutName: subjectEntry?.data.name.canonical,
       aboutPath: subjectEntry ? `/thinkers/${subjectEntry.id}/` : undefined,
       image: o.data.hero_image,
-      description: o.data.pull_quote,
+      description: descriptionForMeta,
       themes: o.data.themes,
       inLanguage: o.data.language,
     }),
