@@ -14,6 +14,7 @@ related_thinkers: []
 publication:
   language: mr
   publisher_name: "Shetkari Prakashan"
+  publisher_id: shetkari-prakashan
   place: Maharashtra
 provenance:
   source: ccs_archive

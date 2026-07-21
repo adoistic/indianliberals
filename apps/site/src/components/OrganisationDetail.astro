@@ -50,6 +50,7 @@ import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
 import OrgMark from "~/components/OrgMark.astro";
+import { orgMentions } from "~/lib/org-mentions";
 
 interface Props {
   entry: CollectionEntry<"organisations">;
@@ -84,8 +85,19 @@ const allWorks = await getCollection(
   "primary-works",
   (w) => !w.data.draft,
 );
+// A work belongs on this page when the org published/issued it OR authored/
+// edited it (party manifestos, institutional pamphlets — authors[] can
+// reference organisations, which the old publisher-only filter missed).
+const orgRef = (refs?: { collection: string; id: string }[]) =>
+  (refs ?? []).some((r) => r.collection === "organisations" && r.id === o.id);
 const publishedHere = allWorks
-  .filter((w) => w.data.publication?.publisher_id === o.id || w.data.publication?.issuer_id === o.id)
+  .filter(
+    (w) =>
+      w.data.publication?.publisher_id === o.id ||
+      w.data.publication?.issuer_id === o.id ||
+      orgRef(w.data.authors as never) ||
+      orgRef(w.data.editors as never),
+  )
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
 
 function workHref(w: typeof publishedHere[number]): string {
@@ -99,6 +111,20 @@ const allThinkers = await getCollection(
   (t) => !t.data.draft && t.data.language === DEFAULT_LOCALE,
 );
 const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? []).includes(o.id));
+
+// Prose mentions across the archive (thinker bios, opinions, musings, work
+// summaries). This is what gives context-only organisations their purpose:
+// structured affiliations/graph-edges were never populated, but the prose
+// names them constantly. See ~/lib/org-mentions.
+const mentionedIn = (await orgMentions(o.id)).filter(
+  (m) => !publishedHere.some((w) => w.id === m.id),
+);
+const MENTION_LABEL: Record<string, string> = {
+  thinker: "Thinker",
+  opinion: "Opinion",
+  musing: "Musing",
+  work: "Work",
+};
 ---
 
 <BaseLayout
@@ -205,6 +231,34 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
             </li>
           ))}
         </ul>
+      </section>
+    )}
+
+    {/* Prose mentions across the archive (see ~/lib/org-mentions) */}
+    {mentionedIn.length > 0 && (
+      <section class="mt-12 pt-8 border-t border-(--color-border)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
+          Mentioned in ({mentionedIn.length})
+        </h2>
+        <ul class="divide-y divide-(--color-border)">
+          {mentionedIn.slice(0, 30).map((m) => (
+            <li class="py-3">
+              <a href={m.href} class="flex items-baseline gap-3 no-underline group">
+                <span class="shrink-0 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded text-(--color-fg-muted) font-(family-name:--font-ui)">
+                  {MENTION_LABEL[m.kind]}
+                </span>
+                <span class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
+                  {m.title}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        {mentionedIn.length > 30 && (
+          <p class="mt-4 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+            …and {mentionedIn.length - 30} more
+          </p>
+        )}
       </section>
     )}
 
