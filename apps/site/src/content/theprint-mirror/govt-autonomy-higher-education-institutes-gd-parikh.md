@@ -4,6 +4,7 @@ title: "Govt should respect the autonomy of higher education institutes: GD Pari
 pubDate: 2026-05-16T10:14:06
 author_name: "GD Parikh"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/govt-autonomy-higher-education-institutes-gd-parikh/2932764/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/05/feature-image-84.jpg"
 themes: ["academic-freedom", "educational-institutes", "higher-education", "indian-liberals-matter"]
 related_thinkers: ["gd-parikh"]
 related_works: []

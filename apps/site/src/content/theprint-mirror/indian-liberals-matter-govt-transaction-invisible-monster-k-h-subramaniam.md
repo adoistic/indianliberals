@@ -4,6 +4,7 @@ title: "Govt looms behind every transaction like an invisible monster: K H Subra
 pubDate: 2026-07-18T04:30:21.000Z
 author_name: "K H Subramaniam"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-liberals-matter-govt-transaction-invisible-monster-k-h-subramaniam/2989567/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2024/09/ANI-20240924132434.jpg"
 themes: ["indian-liberals-matter", "budget", "excise-duty", "tax"]
 related_thinkers: []
 related_works: []

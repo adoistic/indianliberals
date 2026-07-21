@@ -4,6 +4,7 @@ title: "जब सरकार सबका कल्याण तय करत�
 pubDate: 2026-03-07T06:30:19.000Z
 author_name: "जी. जयचंद्रन"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/when-government-decides-welfare-g-jaychandaran/941501/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/01/welfare-state.png"
 language: "hi"
 themes: []
 related_thinkers: []

@@ -4,6 +4,7 @@ title: "The Press is not artillery — neither for the ruling party nor the Oppo
 pubDate: 2025-10-25T11:59:56
 author_name: "Sachin Sen"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/free-press-sachin-sen/2770399/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2020/10/journ.jpeg"
 themes: ["free-press", "freedom-of-press"]
 related_thinkers: ["sachin-sen"]
 related_works: []

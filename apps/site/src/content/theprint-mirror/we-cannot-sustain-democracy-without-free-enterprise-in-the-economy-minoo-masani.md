@@ -4,6 +4,7 @@ title: "अर्थव्यवस्था में मुक्त उद्
 pubDate: 2026-05-02T07:22:54.000Z
 author_name: "मीनू मसानी"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/we-cannot-sustain-democracy-without-free-enterprise-in-the-economy-minoo-masani/965271/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2023/01/Economy.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

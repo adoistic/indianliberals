@@ -4,6 +4,7 @@ title: "Socialist planners aggravated unemployment problem"
 pubDate: 2025-08-02T11:34:22
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-unemployment-india-five-year-plans/2711035/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2020/07/Nehru.jpg"
 themes: ["five-year-plans", "indian-liberals-matter", "planning-commission", "unemployment"]
 related_thinkers: 
   - p-c-mahalanobis

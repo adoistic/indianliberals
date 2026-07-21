@@ -4,6 +4,7 @@ title: "Russian-style socialism dominated Nehru’s imagination. It was disastro
 pubDate: 2025-09-13T11:58:15
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/russian-socialism-nehru-imagination/2742456/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/03/Untitled-design-3-2.png"
 themes: ["jawaharlal-nehru", "planning-commission", "socialism"]
 related_thinkers: 
   - jawaharlal-nehru

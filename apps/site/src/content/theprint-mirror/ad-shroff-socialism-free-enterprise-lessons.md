@@ -4,6 +4,7 @@ title: "Free-enterprise features are reshaping Russia’s socialist institutions
 pubDate: 2025-11-29T11:23:28
 author_name: "AD Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/ad-shroff-socialism-free-enterprise-lessons/2794663/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/11/Митинг_на_Невском_проспекте_1917-e1764395013151.jpg"
 themes: ["russia", "soviet-union"]
 related_thinkers: 
   - a-d-shroff

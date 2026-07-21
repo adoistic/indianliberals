@@ -4,6 +4,7 @@ title: "Was India’s public sector born out of European envy?"
 pubDate: 2025-09-20T13:54:34
 author_name: "BP Godrej"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/was-indias-public-sector-born-out-of-european-envy/2747391/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/09/feature-image-14.jpg"
 themes: ["free-market", "public-sector"]
 related_thinkers: 
   - bernard-shaw

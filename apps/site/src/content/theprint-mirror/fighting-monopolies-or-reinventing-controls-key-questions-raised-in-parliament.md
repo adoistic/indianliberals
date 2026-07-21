@@ -4,6 +4,7 @@ title: "एकाधिकार के खिलाफ लड़ाई या �
 pubDate: 2026-06-13T08:34:08.000Z
 author_name: "एम. आर. मसानी"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/fighting-monopolies-or-reinventing-controls-key-questions-raised-in-parliament/985310/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2025/12/FEATURE-IMAGES-2025-12-29T163535.074.png"
 language: "hi"
 themes: []
 related_thinkers: []

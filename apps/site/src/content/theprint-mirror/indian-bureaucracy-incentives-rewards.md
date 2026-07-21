@@ -4,6 +4,7 @@ title: "Indian bureaucracy should be given incentives and rewards: MH Mody"
 pubDate: 2026-01-03T10:45:18
 author_name: "MH Mody"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-bureaucracy-incentives-rewards/2817020/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/03/Indian-Civil-Services-Illustration.jpg"
 themes: ["bureaucracy", "indian-bureaucracy"]
 related_thinkers: ["mh-mody"]
 related_works: []

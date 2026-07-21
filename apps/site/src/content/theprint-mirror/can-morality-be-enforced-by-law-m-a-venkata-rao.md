@@ -4,6 +4,7 @@ title: "शराबबंदी और व्यक्तिगत स्वत
 pubDate: 2026-04-11T07:37:13.000Z
 author_name: "एमए वेंकट राव"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/can-morality-be-enforced-by-law-m-a-venkata-rao/956758/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2020/05/alcohol-696x392-1.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

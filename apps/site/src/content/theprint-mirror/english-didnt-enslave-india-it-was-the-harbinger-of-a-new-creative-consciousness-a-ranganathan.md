@@ -4,6 +4,7 @@ title: "English didn’t enslave India. It was the harbinger of a new creative c
 pubDate: 2025-10-04T09:26:20
 author_name: "A Ranganathan"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/english-didnt-enslave-india-it-was-the-harbinger-of-a-new-creative-consciousness-a-ranganathan/2756857/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2023/08/ANI-20230806142037-e1759513634925.jpg"
 themes: ["indian-liberals-matter", "rabindranath-tagore"]
 related_thinkers: 
   - a-ranganathan

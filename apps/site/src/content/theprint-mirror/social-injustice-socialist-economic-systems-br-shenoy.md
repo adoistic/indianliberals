@@ -4,6 +4,7 @@ title: "Social injustice is inevitable under socialist economic systems: BR Shen
 pubDate: 2026-03-21T10:52:05
 author_name: "BR Shenoy"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/social-injustice-socialist-economic-systems-br-shenoy/2884958/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/feature-image-6-1.jpg"
 themes: ["communist", "consumer-sovereignty", "employment"]
 related_thinkers: ["b-r-shenoy"]
 related_works: []

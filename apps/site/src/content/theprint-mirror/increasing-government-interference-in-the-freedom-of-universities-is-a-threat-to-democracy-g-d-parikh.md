@@ -4,6 +4,7 @@ title: "विश्वविद्यालयों की आज़ादी 
 pubDate: 2026-05-16T06:25:49.000Z
 author_name: "जी. डी. पारिख"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/increasing-government-interference-in-the-freedom-of-universities-is-a-threat-to-democracy-g-d-parikh/972313/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2024/03/FEATURE-IMAGES-2024-03-06T131047.911.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

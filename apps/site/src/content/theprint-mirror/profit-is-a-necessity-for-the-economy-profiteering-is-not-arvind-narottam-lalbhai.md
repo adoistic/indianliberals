@@ -4,6 +4,7 @@ title: "मुनाफा अर्थव्यवस्था की जरू
 pubDate: 2026-05-09T07:43:16.000Z
 author_name: "अरविंद नरोत्तम लालभाई"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/profit-is-a-necessity-for-the-economy-profiteering-is-not-arvind-narottam-lalbhai/969377/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2019/05/Ninan-piggy-bank2-696x392.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

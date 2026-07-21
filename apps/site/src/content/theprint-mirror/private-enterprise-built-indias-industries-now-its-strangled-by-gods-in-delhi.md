@@ -4,6 +4,7 @@ title: "Private enterprise built India’s industries. Now it’s strangled by G
 pubDate: 2025-07-05T11:52:10
 author_name: "M.A. Master"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi/2680404/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/07/feature-image-2025-07-05T114751.452-1.jpg"
 themes: ["indian-liberals-matter", "private-sector", "psu"]
 related_thinkers: 
   - a-d-shroff

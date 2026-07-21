@@ -4,6 +4,7 @@ title: "From Vedanta, India turned to Nehruvian socialism and buried its liberal
 pubDate: 2025-08-30T14:48:42
 author_name: "Sharad Joshi"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-liberalism-vedanta-nehruvian-socialism/2732308/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/08/feature-image-2-7.jpg"
 themes: ["indian-liberals-matter", "liberalism", "nehruvian-india", "socialism", "statism"]
 related_thinkers: 
   - adam-smith

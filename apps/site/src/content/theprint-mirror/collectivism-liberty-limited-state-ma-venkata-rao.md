@@ -4,6 +4,7 @@ title: "Violent class-war doctrines of Marx became the sole saviour of labour: M
 pubDate: 2026-02-28T12:57:22
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/collectivism-liberty-limited-state-ma-venkata-rao/2866268/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2022/03/Marxism.jpg"
 themes: ["indian-liberals-matter", "john-stuart-mill", "karl-marx", "libertarianism", "marxism"]
 related_thinkers: 
   - john-stuart-mill

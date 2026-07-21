@@ -4,6 +4,7 @@ title: "Worker has no freedom in socialist society. India is moving in that dire
 pubDate: 2026-04-25T11:57:15
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/worker-in-socialist-society-india-ma-venkata-rao/2913464/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2024/01/women-2.jpg"
 themes: ["free-economy", "indian-society", "socialism"]
 related_thinkers: 
   - karl-marx

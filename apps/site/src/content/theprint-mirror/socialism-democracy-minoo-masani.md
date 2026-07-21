@@ -4,6 +4,7 @@ title: "The so-called ‘socialist pattern’ and democracy cannot co-exist for 
 pubDate: 2026-02-14T11:28:58
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/socialism-democracy-minoo-masani/2854700/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/02/feature-image-2.jpg"
 themes: ["liberalism", "majority-rule", "minoo-masani"]
 related_thinkers: 
   - mahatma-gandhi

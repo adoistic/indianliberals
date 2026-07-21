@@ -4,6 +4,7 @@ title: "Fall of the Indian economists is their own doing: MR Pai"
 pubDate: 2026-06-06T03:47:01.000Z
 author_name: "M R Pai"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-economists-mr-pai/2951999/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/04/2026-04-15T025909Z_1_LYNXMPEM3E033_RTROPTP_4_INDIA-MARKETS-RUPEE-scaled-e1776230329777.jpg"
 themes: ["indian-liberals-matter", "governance", "indian-economy", "indian-liberalism"]
 related_thinkers: []
 related_works: []

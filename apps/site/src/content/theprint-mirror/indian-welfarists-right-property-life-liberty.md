@@ -4,6 +4,7 @@ title: "Indian welfarists destroyed right to property by guaranteeing rights to 
 pubDate: 2026-03-07T12:12:25
 author_name: "G Jayachandran"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/indian-welfarists-right-property-life-liberty/2872286/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2023/03/12-1.jpg"
 themes: ["welfare-state"]
 related_thinkers: 
   - karl-marx

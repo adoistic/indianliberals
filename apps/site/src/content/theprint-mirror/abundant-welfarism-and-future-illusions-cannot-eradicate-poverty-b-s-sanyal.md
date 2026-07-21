@@ -4,6 +4,7 @@ title: "कल्याणवाद और भविष्य के भ्र�
 pubDate: 2026-04-04T11:10:35.000Z
 author_name: "बी.एस. सान्याल"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/abundant-welfarism-and-future-illusions-cannot-eradicate-poverty-b-s-sanyal/953966/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2019/02/2018_7img01_Jul_2018_PTI7_1_2018_0000101B-644x420.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

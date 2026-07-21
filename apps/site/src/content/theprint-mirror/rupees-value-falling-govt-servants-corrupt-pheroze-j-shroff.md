@@ -4,6 +4,7 @@ title: "When the rupee’s value keeps falling, govt servants grow more corrupt:
 pubDate: 2026-05-30T09:06:08.000Z
 author_name: "Pheroze J. Shroff"
 theprint_url: "https://theprint.in/opinion/rupees-value-falling-govt-servants-corrupt-pheroze-j-shroff/2945839/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/11/indian-rupee.png"
 themes: ["indian-liberals-matter", "opinion", "central-government", "corruption", "indian-economy", "prime-minister"]
 related_thinkers: []
 related_works: []

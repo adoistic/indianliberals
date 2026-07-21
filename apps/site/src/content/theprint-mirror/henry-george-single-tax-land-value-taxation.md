@@ -4,6 +4,7 @@ title: "Henry George’s Single Tax offers a democratic alternative to communist
 pubDate: 2025-12-20T11:48:50
 author_name: "DM Kulkarni"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/henry-george-single-tax-land-value-taxation/2809653/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/12/grain-cart-e1766211263675.jpg"
 themes: ["indian-liberals-matter", "single-tax-rate"]
 related_thinkers: 
   - herbert-spencer

@@ -4,6 +4,7 @@ title: "समाजवाद का ‘स्वर्ग’ या भ्र�
 pubDate: 2026-06-27T06:28:58.000Z
 author_name: "एच. आर. पासरीचा"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/socialisms-paradise-or-illusion-nationalization-control-and-the-question-of-the-indian-economy/991335/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2023/08/Photo-69.png"
 language: "hi"
 themes: []
 related_thinkers: []

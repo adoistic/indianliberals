@@ -4,6 +4,7 @@ title: "Congress was committed to alcohol ban law without being practical: MA Ve
 pubDate: 2026-04-11T13:12:18
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/congress-alcohol-ban-ma-venkata-rao/2902018/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/04/Andre-lecture-3.jpg"
 themes: ["alcohol-ban", "congress", "gandhian-ideology"]
 related_thinkers: 
   - ma-venkata-rao

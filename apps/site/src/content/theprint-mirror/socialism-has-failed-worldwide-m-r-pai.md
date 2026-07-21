@@ -4,6 +4,7 @@ title: "समाजवाद दुनिया भर में नाका�
 pubDate: 2026-06-20T06:32:30.000Z
 author_name: "एमआर पाई"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/socialism-has-failed-worldwide-m-r-pai/988460/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2022/04/1084px-Kolkata_4131122903.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

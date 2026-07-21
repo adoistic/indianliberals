@@ -4,6 +4,7 @@ title: "Marxism extinguishes democratic rights the moment it captures power: MA 
 pubDate: 2026-01-24T13:11:31
 author_name: "MA Venkata Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/marxism-democratic-rights-ma-venkata-rao/2835440/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2022/03/Marxism.jpg"
 themes: ["communism", "karl-marx", "libertarianism", "marxism", "soviet-union"]
 related_thinkers: 
   - joseph-stalin

@@ -4,6 +4,7 @@ title: "Prices, like water, will find their own level. Controls breed vested int
 pubDate: 2025-06-28T10:00:18
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/prices-like-water-will-find-their-own-level-controls-breed-vested-interests-minoo-masani/2670255/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2019/06/Minoo-Masani-Swatantra-Party.jpg"
 themes: ["indian-liberals-matter", "minoo-masani"]
 related_thinkers: 
   - l-k-jha

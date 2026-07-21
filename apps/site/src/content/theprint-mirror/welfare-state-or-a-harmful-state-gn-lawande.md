@@ -4,6 +4,7 @@ title: "कल्याणकारी राज्य देश के लि�
 pubDate: 2026-01-31T06:10:08.000Z
 author_name: "जीएन लावंडे"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/welfare-state-or-a-harmful-state-gn-lawande/926366/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/01/welfare-state.png"
 language: "hi"
 themes: []
 related_thinkers: []

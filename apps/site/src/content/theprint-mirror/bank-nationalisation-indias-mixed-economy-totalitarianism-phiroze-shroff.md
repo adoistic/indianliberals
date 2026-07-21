@@ -4,6 +4,7 @@ title: "Bank nationalisation will be a blow to India’s mixed economy, lead to 
 pubDate: 2025-08-09T10:47:29
 author_name: "Phiroze J Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff/2717568/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2018/02/Column-01.jpg"
 themes: ["bank-nationalisation", "free-market", "indian-liberals-matter", "nationalisation-of-banks"]
 related_thinkers: 
   - phiroze-j-shroff

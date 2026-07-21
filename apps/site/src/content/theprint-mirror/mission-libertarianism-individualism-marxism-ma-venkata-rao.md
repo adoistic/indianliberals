@@ -4,6 +4,7 @@ title: "मिशन लिबरटेरियनिज्म: मार्क
 pubDate: 2026-02-28T07:45:43.000Z
 author_name: "एमए वेंकट राव"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/mission-libertarianism-individualism-marxism-ma-venkata-rao/939537/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/02/marx.png"
 language: "hi"
 themes: []
 related_thinkers: []

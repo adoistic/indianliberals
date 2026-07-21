@@ -4,6 +4,7 @@ title: "लोकतंत्र की असली परीक्षा र�
 pubDate: 2026-07-11T08:57:09.000Z
 author_name: "वीबी कर्णिक"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/true-test-of-democracy-lies-not-in-political-rights-but-in-economic-rights-vb-karnik/998034/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2019/10/emloyment-pib.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

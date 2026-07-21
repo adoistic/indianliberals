@@ -4,6 +4,7 @@ title: "बड़े पैमाने पर बेरोजगारी क�
 pubDate: 2026-02-08T07:36:51.000Z
 author_name: "बीएस अय्यर"
 theprint_url: "https://hindi.theprint.in/opinion/capitalism-is-not-responsible-unemployment-bs-iyer/930460/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/02/capitalism.png"
 language: "hi"
 themes: []
 related_thinkers: []

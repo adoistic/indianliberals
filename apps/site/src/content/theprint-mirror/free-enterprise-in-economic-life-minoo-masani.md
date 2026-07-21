@@ -4,6 +4,7 @@ title: "Without free enterprise in economic life, we cannot maintain democracy: 
 pubDate: 2026-05-02T12:25:34
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/free-enterprise-in-economic-life-minoo-masani/2920077/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2024/04/Indian-economy.jpg"
 themes: ["democracy", "free-market", "india-russia", "opposition"]
 related_thinkers: 
   - minoo-masani

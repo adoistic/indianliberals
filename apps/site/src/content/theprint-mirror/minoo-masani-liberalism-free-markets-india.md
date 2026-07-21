@@ -4,6 +4,7 @@ title: "Liberal methods reach social justice faster than socialism: Minoo Masani
 pubDate: 2026-01-10T15:51:16
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-free-markets-india/2823730/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2019/06/Minoo-Masani-Swatantra-Party.jpg"
 themes: ["indian-liberals-matter", "liberalism", "socialism"]
 related_thinkers: 
   - carlos-romulo

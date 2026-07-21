@@ -4,6 +4,7 @@ title: "Farmers’ agitations started in developed states like Coimbatore & Ludh
 pubDate: 2026-03-28T10:07:57
 author_name: "Sharad Joshi"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/farmers-agitations-coimbatore-ludhiana-sharad-joshi/2890665/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/slogan.jpg"
 themes: ["agriculture", "farmers-agitation", "sharad-joshi"]
 related_thinkers: 
   - sharad-joshi

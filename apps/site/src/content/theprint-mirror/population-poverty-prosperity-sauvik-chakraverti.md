@@ -4,6 +4,7 @@ title: "Population causes poverty is the devil’s philosophy. It causes prosper
 pubDate: 2025-11-08T12:43:48
 author_name: "Sauvik Chakraverti"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/population-poverty-prosperity-sauvik-chakraverti/2779838/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2024/09/population-reuters.jpg"
 themes: ["indian-liberals-matter", "overpopulation", "poverty"]
 related_thinkers: 
   - jawaharlal-nehru

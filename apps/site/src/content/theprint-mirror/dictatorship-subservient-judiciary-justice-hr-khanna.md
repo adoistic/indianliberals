@@ -4,6 +4,7 @@ title: "Nothing suits dictatorship more than a subservient judiciary: Justice HR
 pubDate: 2025-11-02T12:07:53
 author_name: "Hans Raj Khanna"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/dictatorship-subservient-judiciary-justice-hr-khanna/2775553/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/11/HR-Khanna-e1762065192728.jpg"
 themes: ["freedom-of-speech", "indian-judiciary", "indian-liberals-matter", "justice-h-r-khanna"]
 related_thinkers: 
   - a-d-shroff

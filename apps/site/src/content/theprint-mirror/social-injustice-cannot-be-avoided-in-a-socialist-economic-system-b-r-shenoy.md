@@ -4,6 +4,7 @@ title: "समाजवादी आर्थिक प्रणाली मे
 pubDate: 2026-03-22T05:32:49.000Z
 author_name: "बीआर शेनॉय"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/social-injustice-cannot-be-avoided-in-a-socialist-economic-system-b-r-shenoy/948088/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/03/FEATURE-IMAGES-2026-03-21T140401.223.png"
 language: "hi"
 themes: []
 related_thinkers: []

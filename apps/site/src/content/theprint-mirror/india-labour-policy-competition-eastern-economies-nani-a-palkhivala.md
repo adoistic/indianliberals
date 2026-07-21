@@ -4,6 +4,7 @@ title: "India’s labour policy left it unable to compete with other eastern eco
 pubDate: 2025-11-22T12:01:24
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/india-labour-policy-competition-eastern-economies-nani-a-palkhivala/2789818/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2020/10/NINAN-03.10.jpg"
 themes: ["labour-policies"]
 related_thinkers: []
 

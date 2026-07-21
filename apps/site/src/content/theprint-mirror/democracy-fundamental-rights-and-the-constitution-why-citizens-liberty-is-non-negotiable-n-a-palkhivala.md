@@ -4,6 +4,7 @@ title: "लोकतंत्र, मौलिक अधिकार और स�
 pubDate: 2026-07-04T10:48:44.000Z
 author_name: "एन.ए. पालखीवाला"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/democracy-fundamental-rights-and-the-constitution-why-citizens-liberty-is-non-negotiable-n-a-palkhivala/994443/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/02/FEATURE-IMAGES-1-9.png"
 language: "hi"
 themes: []
 related_thinkers: []

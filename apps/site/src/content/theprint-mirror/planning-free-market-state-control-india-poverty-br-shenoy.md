@@ -4,6 +4,7 @@ title: "Planning for the free market, not state control, will lift India out of 
 pubDate: 2025-08-23T17:09:52
 author_name: "BR Shenoy"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-free-market-state-control-india-poverty-br-shenoy/2727537/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/01/IMG_6028-scaled-e1755948597516.jpg"
 themes: ["b-r-shenoy", "indian-liberals-matter", "planning-commission", "statism"]
 related_thinkers: 
   - john-kenneth-galbraith

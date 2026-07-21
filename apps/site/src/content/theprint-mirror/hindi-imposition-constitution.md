@@ -4,6 +4,7 @@ title: "No constitutional provision deserves repeal more than the one imposing H
 pubDate: 2025-12-06T11:43:14
 author_name: "P Kodanda Rao"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hindi-imposition-constitution/2799636/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/07/feature-image-2025-07-10T155811.812.jpg"
 themes: ["constituent-assembly", "hindi-imposition"]
 related_thinkers: 
   - bhimrao-ambedkar

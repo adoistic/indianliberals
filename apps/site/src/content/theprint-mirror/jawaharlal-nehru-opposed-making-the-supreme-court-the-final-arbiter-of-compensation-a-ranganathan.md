@@ -4,6 +4,7 @@ title: "जवाहरलाल नेहरू ने सुप्रीम �
 pubDate: 2026-04-18T11:07:34.000Z
 author_name: "ए. रंगनाथन"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/jawaharlal-nehru-opposed-making-the-supreme-court-the-final-arbiter-of-compensation-a-ranganathan/960104/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2019/01/Nehru.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

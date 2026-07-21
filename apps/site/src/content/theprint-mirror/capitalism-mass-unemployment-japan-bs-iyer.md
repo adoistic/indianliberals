@@ -4,6 +4,7 @@ title: "Capitalism isn’t responsible for mass unemployment. Look at Japan, Sin
 pubDate: 2026-02-07T12:12:47
 author_name: "BS Iyer"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/capitalism-mass-unemployment-japan-bs-iyer/2848007/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2022/10/capitalism.jpg"
 themes: ["capitalism", "socialism", "unemployment"]
 related_thinkers: 
   - bs-iyer

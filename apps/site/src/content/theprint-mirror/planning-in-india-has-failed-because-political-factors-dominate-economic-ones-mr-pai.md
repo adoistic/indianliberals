@@ -4,6 +4,7 @@ title: "Planning in India has failed because political factors dominate economic
 pubDate: 2026-05-23T05:27:28.000Z
 author_name: "M R Pai"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/planning-in-india-has-failed-because-political-factors-dominate-economic-ones-mr-pai/2939160/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2020/10/poverty-1875324_1920-e1779478343761.jpg"
 themes: ["indian-liberals-matter", "opinion", "economic-planning", "economic-policy", "indian-liberalism", "indian-planning", "liberalism", "mangalore-ranga-pai"]
 related_thinkers: []
 related_works: []

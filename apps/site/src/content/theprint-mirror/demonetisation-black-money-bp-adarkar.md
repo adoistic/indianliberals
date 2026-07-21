@@ -4,6 +4,7 @@ title: "Demonetisation is a wild hit at the bull’s eye. It will not hurt the g
 pubDate: 2025-12-27T10:31:52
 author_name: "BP Adarkar"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/demonetisation-black-money-bp-adarkar/2813221/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2017/09/Demonetisation-queue-Scott-EdmundsFlickr-e1583400704145.jpg"
 themes: ["black-money", "demonetisation", "indian-liberals-matter"]
 related_thinkers: 
   - bp-adarkar

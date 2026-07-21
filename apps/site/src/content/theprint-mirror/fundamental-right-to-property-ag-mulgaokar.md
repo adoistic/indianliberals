@@ -4,6 +4,7 @@ title: "If fundamental right to property can be taken away, so can all the other
 pubDate: 2025-10-11T12:09:05
 author_name: "AG Mulgaokar"
 theprint_url: "https://theprint.in/opinion/fundamental-right-to-property-ag-mulgaokar/2761912/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2011/07/photos-for-speed-desk-2024-03-12T171629.728-1024x576.png-1.jpg"
 themes: ["fundamental-right", "right-to-property"]
 related_thinkers: ["ag-mulgaokar"]
 related_works: []

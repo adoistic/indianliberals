@@ -4,6 +4,7 @@ title: "‘जहां सत्ता पर निगरानी नही�
 pubDate: 2026-05-30T07:33:56.000Z
 author_name: "फ़िरोज़ जे. श्रॉफ"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/where-there-is-no-oversight-of-power-corruption-thrives-pheroze-j-shroff/979083/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/05/corruption.png"
 language: "hi"
 themes: []
 related_thinkers: []

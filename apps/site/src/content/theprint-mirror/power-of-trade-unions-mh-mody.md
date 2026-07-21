@@ -4,6 +4,7 @@ title: "Why legal provisions are necessary to curb the power of trade unions: MH
 pubDate: 2026-02-21T11:04:08
 author_name: "MH Mody"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/power-of-trade-unions-mh-mody/2859967/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2020/05/Workers-union.jpg"
 themes: ["trade-union"]
 related_thinkers: ["mh-mody"]
 related_works: []

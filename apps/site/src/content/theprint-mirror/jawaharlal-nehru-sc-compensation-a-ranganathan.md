@@ -4,6 +4,7 @@ title: "Jawaharlal Nehru opposed idea of SC being final arbiter of compensation:
 pubDate: 2026-04-18T11:15:16
 author_name: "A Ranganathan"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/jawaharlal-nehru-sc-compensation-a-ranganathan/2907825/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/02/feature-image-3-1.jpg"
 themes: ["individualism", "jawaharlal-nehru", "supreme-court-of-india"]
 related_thinkers: 
   - jawaharlal-nehru

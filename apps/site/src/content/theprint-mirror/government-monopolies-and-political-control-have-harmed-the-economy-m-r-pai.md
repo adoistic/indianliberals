@@ -4,6 +4,7 @@ title: "सरकारी एकाधिकार और राजनीति
 pubDate: 2026-05-23T08:40:57.000Z
 author_name: "एमआर पाई"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/government-monopolies-and-political-control-have-harmed-the-economy-m-r-pai/975998/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2022/10/Poverty-index-1.jpg"
 language: "hi"
 themes: []
 related_thinkers: []

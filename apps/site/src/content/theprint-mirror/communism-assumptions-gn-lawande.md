@@ -4,6 +4,7 @@ title: "Communism is based on self-deluding assumptions, it can’t be realised 
 pubDate: 2026-03-14T11:30:15
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/communism-assumptions-gn-lawande/2878812/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/feature-image-52.jpg"
 themes: ["capitalism", "communism", "society"]
 related_thinkers: 
   - g-n-lawande

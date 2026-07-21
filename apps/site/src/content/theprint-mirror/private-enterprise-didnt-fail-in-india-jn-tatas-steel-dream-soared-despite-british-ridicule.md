@@ -4,6 +4,7 @@ title: "Private enterprise didn’t fail in India. JN Tata’s steel dream soare
 pubDate: 2025-07-12T11:54:46
 author_name: "AD Shroff"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule/2688008/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2023/03/Feature-Image-2023-03-03T175614.593.jpg"
 themes: ["indian-liberals-matter", "private-enterprise"]
 related_thinkers: 
   - t-t-krishnamachari

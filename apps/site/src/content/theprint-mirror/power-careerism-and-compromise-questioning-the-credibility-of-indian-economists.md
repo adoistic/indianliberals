@@ -4,6 +4,7 @@ title: "भारतीय अर्थशास्त्रियों का 
 pubDate: 2026-06-06T05:26:34.000Z
 author_name: "एम. आर. पाई"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/power-careerism-and-compromise-questioning-the-credibility-of-indian-economists/982091/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/06/FEATURE-IMAGES-2026-06-06T105404.396-1.png"
 language: "hi"
 themes: []
 related_thinkers: []

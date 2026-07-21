@@ -4,6 +4,7 @@ title: "There’s no need for the outdated and ridiculous shroud of secrecy arou
 pubDate: 2026-01-17T13:00:32
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/nani-palkhivala-poverty-economic-growth-liberalism/2829385/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2024/11/it.jpg"
 themes: ["economic-policies", "indian-liberals-matter", "nani-palkhivala", "poverty"]
 related_thinkers: ["nani-palkhivala"]
 related_works: []

@@ -4,6 +4,7 @@ title: "Welfare state is socially and economically a national disaster: GN Lawan
 pubDate: 2026-01-31T09:34:09
 author_name: "G N Lawande"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/welfare-state-is-socially-and-economically-a-national-disaster-gn-lawande/2841240/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2023/03/12-1.jpg"
 themes: ["employment", "socialism", "welfare-state"]
 related_thinkers: 
   - abraham-lincoln

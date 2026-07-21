@@ -4,6 +4,7 @@ title: "Like a gambler, govts squandered India’s legacy through mindless socia
 pubDate: 2025-08-16T12:20:45
 author_name: "Nani Palkhivala"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala/2722087/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/01/Nani-Palkhivala-lecture-e1737208236823.jpg"
 themes: ["indian-constitution", "indian-liberals-matter", "socialism"]
 related_thinkers: 
   - alexis-de-tocqueville

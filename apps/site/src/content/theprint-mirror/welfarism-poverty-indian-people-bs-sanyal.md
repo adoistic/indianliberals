@@ -4,6 +4,7 @@ title: "No amount of welfarism and futurist illusion can remove poverty of India
 pubDate: 2026-04-04T15:10:59
 author_name: "BS Sanyal"
 theprint_url: "https://theprint.in/opinion/welfarism-poverty-indian-people-bs-sanyal/2896578/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2021/06/food-3-scaled.jpg"
 themes: ["capitalism", "poverty", "social-welfare"]
 related_thinkers: 
   - gd-parikh

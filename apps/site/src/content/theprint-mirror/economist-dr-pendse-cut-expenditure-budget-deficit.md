@@ -4,6 +4,7 @@ title: "Economist DR Pendse’s 7-point plan to cut expenditure and control budg
 pubDate: 2025-09-27T11:27:16
 author_name: "DR Pendse"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/economist-dr-pendse-cut-expenditure-budget-deficit/2752397/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2025/09/feature-image-2-6.jpg"
 themes: ["fiscal-deficit", "govt-expenditure"]
 related_thinkers: 
   - d-r-pendse

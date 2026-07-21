@@ -4,6 +4,7 @@ title: "An inefficient entrepreneur deserves to be branded as anti-social: Arvin
 pubDate: 2026-05-09T10:20:57
 author_name: "Arvind Lalbhai"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/inefficient-entrepreneur-anti-social-arvind-narottam-lalbhai/2926117/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2019/09/budget-gap.jpg"
 themes: ["entrepreneurs", "indian-liberals-matter", "private-sector"]
 related_thinkers: ["arvind-lalbhai"]
 related_works: []

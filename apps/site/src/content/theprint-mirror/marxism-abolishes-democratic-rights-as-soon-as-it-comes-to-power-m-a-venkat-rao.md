@@ -4,6 +4,7 @@ title: "मार्क्सवाद सत्ता में आते ह�
 pubDate: 2026-01-25T08:30:30.000Z
 author_name: "एमए वेंकट राव"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/marxism-abolishes-democratic-rights-as-soon-as-it-comes-to-power-m-a-venkat-rao/923982/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/01/karl-marx.png"
 language: "hi"
 themes: []
 related_thinkers: []

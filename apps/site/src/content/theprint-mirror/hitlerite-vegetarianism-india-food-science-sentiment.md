@@ -5,6 +5,7 @@ pubDate: 2025-10-18T13:13:27
 author: tahir-siddiqui
 author_name: "Tahir Siddiqui"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/hitlerite-vegetarianism-india-food-science-sentiment/2766589/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-26-at-12.01.43-PM.jpeg"
 themes: ["vegetarianism"]
 related_thinkers: 
   - jawaharlal-nehru

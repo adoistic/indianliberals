@@ -4,6 +4,7 @@ title: "‘समाजवादी ढांचा’ और लोकतंत
 pubDate: 2026-02-16T09:54:53.000Z
 author_name: "मीनू मसानी"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/the-so-called-socialist-pattern-and-democracy-cannot-co-exist-for-long-minoo-masani/934124/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/02/FEATURE-IMAGES-31.png"
 language: "hi"
 themes: []
 related_thinkers: []

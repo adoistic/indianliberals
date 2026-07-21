@@ -4,6 +4,7 @@ title: "जहां राज्य विचार नियंत्रित
 pubDate: 2026-04-25T06:31:01.000Z
 author_name: "एमए वेंकट राव"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/state-controls-thought-freedom-ends-ma-venkata-rao/962773/"
+hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2023/04/pic-31.png"
 language: "hi"
 themes: []
 related_thinkers: []

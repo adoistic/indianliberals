@@ -4,6 +4,7 @@ title: "Socialism doesn’t deliver prosperity or produce equality. Does it give
 pubDate: 2025-07-26T09:44:16
 author_name: "Minoo Masani"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/minoo-masani-liberalism-vs-socialism-liberal-democracy/2702912/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2018/06/Column06.jpg"
 themes: ["indian-liberals-matter", "liberal-democracy", "liberalism", "minoo-masani", "socialism"]
 related_thinkers: 
   - mahatma-gandhi

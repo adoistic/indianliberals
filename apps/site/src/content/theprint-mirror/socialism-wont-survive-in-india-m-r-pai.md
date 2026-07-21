@@ -4,6 +4,7 @@ title: "Socialism has failed everywhere, it won’t survive in India: M. R. Pai"
 pubDate: 2026-06-20T06:13:05.000Z
 author_name: "M R Pai"
 theprint_url: "https://theprint.in/opinion/socialism-wont-survive-in-india-m-r-pai/2964818/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2026/06/soci.jpg"
 themes: ["indian-liberals-matter", "opinion", "indian-politics", "socialism"]
 related_thinkers: []
 related_works: []

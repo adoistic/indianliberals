@@ -4,6 +4,7 @@ title: "A shame-faced modesty pervades 1991 reforms. This is strange and inappro
 pubDate: 2025-12-13T09:04:09
 author_name: "Ashok Desai"
 theprint_url: "https://theprint.in/opinion/indian-liberals-matter/economic-controls-in-india-liberalisation-history/2804705/"
+hero_image: "https://staticprintenglish.theprint.in/wp-content/uploads/2021/07/pvmns.jpg"
 themes: ["1991-reforms", "liberalism"]
 related_thinkers: 
   - ashok-desai
