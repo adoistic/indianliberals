@@ -1,0 +1,56 @@
+# indianliberals.in — open archive of the Indian liberal tradition.
+# All crawlers welcome, including AI/LLM crawlers: this archive exists to
+# be read, cited, and quoted. Machine-readable entry points:
+#   https://indianliberals.in/llms.txt        (curated index for LLMs)
+#   https://indianliberals.in/llms-full.txt   (full corpus index)
+#   https://indianliberals.in/AGENTS.md       (agent instructions)
+#   https://mcp.indianliberals.in             (MCP server + REST API)
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# AI crawlers, explicitly welcome (redundant with * but unambiguous)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://indianliberals.in/sitemap-index.xml

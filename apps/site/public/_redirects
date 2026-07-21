@@ -79,3 +79,21 @@
 /wp-content/uploads/2026/06/FF213.pdf  https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/freedom-first/freedom-first-feb1-1970.pdf  301
 /wp-content/uploads/2026/06/FF262.pdf  https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/freedom-first/freedom-first-mar1-1974.pdf  301
 /wp-content/uploads/2026/07/FF225.pdf  https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/freedom-first/freedom-first-feb1-1971.pdf  301
+
+# ── Legacy WP PDF directories → R2 (blanket prefix rules) ──────────────
+# The R2 keys mirror the old WordPress paths exactly, so any old direct-PDF
+# link not covered by the hand-verified rules above falls through to these.
+# Static (exact) rules take precedence over these dynamic splats.
+/forum-of-free-enterprise/*  https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/:splat  301
+/freedom-first/*             https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/freedom-first/:splat             301
+/the-indian-libertarian/*    https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/:splat    301
+/khoj/*                      https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/khoj/:splat                      301
+/liberal-times/*             https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberal-times/:splat             301
+/other-publications/*        https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/other-publications/:splat        301
+/shetkari-sanghatak/*        https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/shetkari-sanghatak/:splat        301
+/swatantra-party/*           https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/swatantra-party/:splat           301
+/indian-liberal-group/*      https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/indian-liberal-group/:splat      301
+/liberals/*                  https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/:splat                  301
+
+# Old WP entry points
+/index.php  /  301
