@@ -8,6 +8,7 @@
 // page).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getPeriodicalSeries } from "~/lib/periodicals";
 
@@ -17,6 +18,13 @@ const totalIssues = seriesGroups.reduce((n, g) => n + g.items.length, 0);
 ---
 
 <BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/periodicals/", name: "Periodicals" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Periodicals", "/periodicals/"],
+    ]),
+  ]}
   ogImage={ogSection("periodicals")}
   title="Periodicals · Indian Liberals"
   description={`${totalIssues} periodical issues across ${namedSeries.length} runs: The Indian Libertarian, Khoj, Shetkari Sanghatak, Freedom First, and more, indexed at the issue level with metadata and AI summaries.`}

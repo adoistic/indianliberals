@@ -36,6 +36,13 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
+      // ThePrint mirror detail pages are noindex by design (theprint.in keeps
+      // the SEO weight); listing them in the sitemap contradicts that signal
+      // and triggers "submitted URL marked noindex" warnings. The section
+      // landing page stays.
+      filter: (page) =>
+        !page.includes('/theprint-mirror/') ||
+        page.endsWith('/theprint-mirror/'),
       // Emit hreflang alternates per Google's multilingual guidelines.
       // Each URL in the sitemap gets <xhtml:link rel="alternate" hreflang="X">
       // for every available language version. We provide the map directly so

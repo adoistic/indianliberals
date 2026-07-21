@@ -44,6 +44,7 @@
 //   <slug>/; English works link to /primary-works/<slug>/.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { organisationDetailNode, breadcrumbNode } from "~/lib/schema";
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
@@ -106,6 +107,14 @@ const affiliatedThinkers = allThinkers.filter((t) => (t.data.affiliations ?? [])
   lang={o.data.language}
   hreflang={hreflang}
   noindex={shouldNoindex(o.data.translation_status)}
+  schema={[
+    organisationDetailNode(o, Astro.url.pathname),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Organisations", "/organisations/"],
+      [o.data.name.canonical, Astro.url.pathname],
+    ]),
+  ]}
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"

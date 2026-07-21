@@ -31,6 +31,7 @@
 //   rely on BaseLayout's own default).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { articleNode, breadcrumbNode } from "~/lib/schema";
 import { ogMusing } from "~/lib/og";
 import { getEntry, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -77,6 +78,25 @@ const musingsListBase = pathForCollection("musings", m.data.language);
   hreflang={hreflang}
   noindex={shouldNoindex(m.data.translation_status)}
   ogImage={ogMusing(m.id, Boolean(m.data.hero_image))}
+  ogType="article"
+  schema={[
+    articleNode({
+      pagePath: Astro.url.pathname,
+      headline: m.data.title,
+      datePublished: m.data.pubDate,
+      authorName: authorEntry?.data.name.canonical,
+      authorPath: authorEntry ? `/thinkers/${authorEntry.id}/` : undefined,
+      image: m.data.hero_image,
+      description: m.data.pull_quote,
+      themes: m.data.themes,
+      inLanguage: m.data.language,
+    }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Musings", "/musings/"],
+      [m.data.title, Astro.url.pathname],
+    ]),
+  ]}
 >
   <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:musing,lang:${m.data.language}`}>
     <header class="border-b border-(--color-border) pb-8 mb-10">

@@ -10,6 +10,7 @@
 // ~/lib/interviews.ts (shared with the per-shelf page).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getInterviewShelves } from "~/lib/interviews";
 
@@ -17,6 +18,13 @@ const { figures, collections, total, yearSpan } = await getInterviewShelves();
 ---
 
 <BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/interviews/", name: "Interviews & oral history" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Interviews & oral history", "/interviews/"],
+    ]),
+  ]}
   ogImage={ogSection("interviews")}
   title="Interviews & oral history · Indian Liberals"
   description={`${total} recorded interviews, oral histories, lectures, and explainers spanning ${yearSpan}. Open a figure to hear their oral history, or browse the themed collections.`}

@@ -13,6 +13,7 @@
 // page; the cross-mention graph depends on them.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { getThinkerStats, type ThinkerStat } from "~/lib/thinker-stats";
@@ -94,6 +95,13 @@ const prettifyVocation = (v: string): string => {
 ---
 
 <BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/thinkers/", name: "Thinkers" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Thinkers", "/thinkers/"],
+    ]),
+  ]}
   ogImage={ogSection("thinkers")}
   title="Thinkers · Indian Liberals"
   description="The curated canon of the Indian liberal tradition, from Raja Ram Mohan Roy through the Swatantra-era classical liberals."

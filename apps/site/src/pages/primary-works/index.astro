@@ -6,6 +6,7 @@
 // build. Reset button clears all selections.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { LANG_NAMES, pathForEntry, type LangCode } from "~/lib/i18n";
@@ -87,6 +88,13 @@ function themesAttr(w: (typeof works)[number]): string {
 ---
 
 <BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/primary-works/", name: "Primary works" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Primary works", "/primary-works/"],
+    ]),
+  ]}
   ogImage={ogSection("primary-works")}
   title="Primary works · Indian Liberals"
   description={`${totalCount} primary works by Indian liberal thinkers, from speeches and pamphlets to books and essays. Metadata + AI summary + PDF.`}

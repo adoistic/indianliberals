@@ -36,6 +36,7 @@
 //   that is preserved here (rely on BaseLayout's own default).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { articleNode, breadcrumbNode } from "~/lib/schema";
 import { ogOpinion } from "~/lib/og";
 import { getEntry, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -83,6 +84,27 @@ const opinionsListBase = pathForCollection("opinions", o.data.language);
   hreflang={hreflang}
   noindex={shouldNoindex(o.data.translation_status)}
   ogImage={ogOpinion(o.id, Boolean(o.data.hero_image))}
+  ogType="article"
+  schema={[
+    articleNode({
+      pagePath: Astro.url.pathname,
+      headline: o.data.title,
+      datePublished: o.data.pubDate,
+      authorName: authorEntry?.data.name.canonical ?? o.data.author_name,
+      authorPath: authorEntry ? `/contributors/${authorEntry.id}/` : undefined,
+      aboutName: subjectEntry?.data.name.canonical,
+      aboutPath: subjectEntry ? `/thinkers/${subjectEntry.id}/` : undefined,
+      image: o.data.hero_image,
+      description: o.data.pull_quote,
+      themes: o.data.themes,
+      inLanguage: o.data.language,
+    }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Opinions", "/opinions/"],
+      [o.data.title, Astro.url.pathname],
+    ]),
+  ]}
 >
   <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:opinion,lang:${o.data.language}`}>
     <header class="border-b border-(--color-border) pb-8 mb-10">

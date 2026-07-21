@@ -37,6 +37,7 @@
 //   irrelevant in practice for i18n pages.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { thinkerNodes, breadcrumbNode } from "~/lib/schema";
 import { ogThinker } from "~/lib/og";
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -233,6 +234,15 @@ const bioSourceLabel =
   hreflang={hreflang}
   noindex={shouldNoindex(t.data.translation_status)}
   ogImage={ogThinker(t.id, Boolean(t.data.portrait?.photo || t.data.portrait?.duotone || t.data.portrait?.caricature))}
+  ogType="profile"
+  schema={[
+    ...thinkerNodes(t, Astro.url.pathname),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Thinkers", "/thinkers/"],
+      [t.data.name.canonical, Astro.url.pathname],
+    ]),
+  ]}
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"

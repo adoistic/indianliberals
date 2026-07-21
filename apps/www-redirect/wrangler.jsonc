@@ -1,0 +1,25 @@
+// www.indianliberals.in → indianliberals.in canonical-host redirect.
+//
+// The www DNS record predates the rebuild and pointed at a dead origin
+// (Cloudflare 522 on every www URL). This one-file Worker 301s every
+// www request to the apex, preserving path and query, so old www links
+// and any search entries consolidate onto the canonical host.
+//
+// Deploy: npx wrangler deploy   (from apps/www-redirect/)
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "indianliberals-www-redirect",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-01",
+  // A worker ROUTE, not a custom domain: the www DNS record already exists
+  // (proxied, pointing at the dead pre-rebuild origin — hence the 522s) and
+  // the wrangler OAuth grant has workers_routes:write but no dns:write. The
+  // route intercepts every proxied www request before the origin is dialled,
+  // so the dead origin stops mattering.
+  "routes": [
+    {
+      "pattern": "www.indianliberals.in/*",
+      "zone_name": "indianliberals.in"
+    }
+  ]
+}

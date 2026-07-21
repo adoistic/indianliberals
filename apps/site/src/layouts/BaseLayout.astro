@@ -4,6 +4,7 @@ import Header from "~/components/Header.astro";
 import Footer from "~/components/Footer.astro";
 import { BCP47, OG_LOCALE, type LangCode } from "~/lib/i18n";
 import { OG_HOME } from "~/lib/og";
+import { organizationNode, webSiteNode } from "~/lib/schema";
 
 interface HreflangAlternate {
   hreflang: string;
@@ -25,6 +26,11 @@ interface Props {
   /** Social-card image path (og:image). Site-relative, e.g.
    *  "/opinions/covers/anandibai-joshee.webp". Falls back to the brand logo. */
   ogImage?: string;
+  /** og:type ("article", "book", "profile"). Defaults to "website". */
+  ogType?: string;
+  /** Page-specific JSON-LD nodes (built with ~/lib/schema helpers). They are
+   *  appended to the sitewide Organization + WebSite @graph. */
+  schema?: Record<string, unknown>[];
 }
 
 const {
@@ -35,6 +41,8 @@ const {
   hreflang = [],
   canonical,
   ogImage,
+  ogType = "website",
+  schema = [],
 } = Astro.props;
 
 const resolvedCanonical =
@@ -44,6 +52,13 @@ const ogLocaleAlternates = hreflang
   .filter((h) => h.hreflang !== "x-default" && h.hreflang !== BCP47[lang as LangCode])
   .map((h) => h.hreflang.replace("-", "_"));
 const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
+
+// One JSON-LD graph per page: sitewide publisher + website nodes, then any
+// page-specific nodes (work, person, article, breadcrumbs, ...).
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [organizationNode(), webSiteNode(), ...schema],
+});
 ---
 
 <!doctype html>
@@ -74,7 +89,7 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
 
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={resolvedCanonical} />
     <meta property="og:image" content={new URL(ogImage ?? OG_HOME, Astro.site)} />
     <meta property="og:image:width" content="1200" />
@@ -89,6 +104,8 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
     ))}
 
     <meta name="generator" content={Astro.generator} />
+
+    <script type="application/ld+json" set:html={jsonLd} />
   </head>
   <body>
     <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:bg-(--color-bg) focus:text-(--color-forest-700) focus:px-3 focus:py-2 focus:rounded focus:border focus:border-(--color-border)">

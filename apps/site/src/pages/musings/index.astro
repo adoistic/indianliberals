@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { inlineMd } from "~/lib/inline-md";
@@ -40,6 +41,13 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
 ---
 
 <BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/musings/", name: "Musings" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Musings", "/musings/"],
+    ]),
+  ]}
   ogImage={ogSection("musings")}
   title="Musings · Indian Liberals"
   description="Curated excerpts from the primary works of the Indian liberal tradition. Paragraph-citable, full-text searchable."
