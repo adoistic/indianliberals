@@ -2,6 +2,7 @@
 id: "india-the-tiger-caged"
 title: "India, the Tiger Caged"
 pubDate: "2020-11-16T07:37:58Z"
+hero_image: "/musings/stock/economy-4.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

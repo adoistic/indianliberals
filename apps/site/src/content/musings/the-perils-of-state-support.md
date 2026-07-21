@@ -2,6 +2,7 @@
 id: "the-perils-of-state-support"
 title: "The Perils of State Support"
 pubDate: "2020-11-16T07:12:42Z"
+hero_image: "/musings/stock/society-2.webp"
 themes:
   - "civil-society"
   - "liberalism"

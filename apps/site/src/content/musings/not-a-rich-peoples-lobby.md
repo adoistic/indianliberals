@@ -2,6 +2,7 @@
 id: "not-a-rich-peoples-lobby"
 title: "Not a Rich People’s Lobby"
 pubDate: "2020-11-16T08:42:13Z"
+hero_image: "/musings/stock/enterprise-2.webp"
 themes:
   - "free-enterprise"
   - "free-markets"

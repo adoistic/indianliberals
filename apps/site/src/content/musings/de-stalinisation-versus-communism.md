@@ -2,6 +2,7 @@
 id: "de-stalinisation-versus-communism"
 title: "De-Stalinisation Versus Communism"
 pubDate: "2020-11-16T07:03:23Z"
+hero_image: "/musings/stock/liberalism-2.webp"
 themes:
   - "liberalism"
   - "socialism"

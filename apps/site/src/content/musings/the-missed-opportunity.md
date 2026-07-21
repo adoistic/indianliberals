@@ -2,6 +2,7 @@
 id: "the-missed-opportunity"
 title: "The Missed Opportunity"
 pubDate: "2023-02-08T10:55:23Z"
+hero_image: "/musings/stock/economy-5.webp"
 themes:
   - "economic-policy"
   - "fiscal-policy"

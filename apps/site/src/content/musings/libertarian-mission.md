@@ -2,6 +2,7 @@
 id: "libertarian-mission"
 title: "The Mission of Libertarianism"
 pubDate: "2020-11-16T09:12:57Z"
+hero_image: "/musings/stock/enterprise-1.webp"
 themes:
   - "free-enterprise"
   - "liberalism"

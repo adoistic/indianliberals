@@ -2,6 +2,7 @@
 id: "prospects-of-democracy-in-india"
 title: "Prospects of Democracy in India"
 pubDate: "2023-01-11T11:21:15Z"
+hero_image: "/musings/stock/democracy-1.webp"
 themes:
   - "democracy"
   - "governance"

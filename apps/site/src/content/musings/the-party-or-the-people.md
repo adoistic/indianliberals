@@ -2,6 +2,7 @@
 id: "the-party-or-the-people"
 title: "The Party or the People?"
 pubDate: "2023-01-17T13:42:26Z"
+hero_image: "/musings/stock/democracy-5.webp"
 themes:
   - "democracy"
   - "governance"

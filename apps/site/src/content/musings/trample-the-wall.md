@@ -2,6 +2,7 @@
 id: "trample-the-wall"
 title: "Trample the Wall"
 pubDate: "2020-11-16T07:21:05Z"
+hero_image: "/musings/stock/liberty-3.webp"
 themes:
   - "civil-liberties"
   - "free-markets"

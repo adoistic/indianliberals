@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "piloo-mody"
+hero_image: "/musings/stock/liberty-2.webp"
 thinker_mentions:
   - thinker: abraham-lincoln
     role: mention

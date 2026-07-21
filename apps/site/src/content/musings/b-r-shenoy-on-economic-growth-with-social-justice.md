@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: ""
+hero_image: "/musings/stock/economy-3.webp"
 thinker_mentions:
   - thinker: ludwig-erhard
     role: mention

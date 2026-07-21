@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "n-dandekar"
+hero_image: "/musings/stock/economy-2.webp"
 thinker_mentions:
   - thinker: murarji-vaidya
     role: mention

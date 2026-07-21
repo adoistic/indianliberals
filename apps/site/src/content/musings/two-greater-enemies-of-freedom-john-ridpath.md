@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "john-ridpath"
+hero_image: "/musings/stock/liberty-4.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "over-organisation"

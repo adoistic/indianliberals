@@ -2,6 +2,7 @@
 id: "democracy-and-liberalism-contrasting-ideals"
 title: "Democracy and Liberalism : Contrasting Ideals"
 pubDate: "2021-03-12T09:03:16Z"
+hero_image: "/musings/stock/democracy-2.webp"
 themes:
   - "democracy"
   - "liberalism"

@@ -2,6 +2,7 @@
 id: "the-us-india-alignment-in-cold-war"
 title: "The US-India Alignment in Cold War"
 pubDate: "2020-11-16T06:51:44Z"
+hero_image: "/musings/stock/liberalism-2.webp"
 themes:
   - "liberalism"
 language: "en"

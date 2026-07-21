@@ -2,6 +2,7 @@
 id: "freedom-of-self-expression"
 title: "Freedom of Self-Expression"
 pubDate: "2021-02-05T09:01:16Z"
+hero_image: "/musings/stock/liberty-2.webp"
 themes:
   - "civil-liberties"
   - "liberalism"

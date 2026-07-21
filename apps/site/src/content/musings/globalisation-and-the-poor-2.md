@@ -2,6 +2,7 @@
 id: "globalisation-and-the-poor-2"
 title: "Globalisation and The Poor"
 pubDate: "2021-10-08T06:37:42Z"
+hero_image: "/musings/stock/globalisation-1.webp"
 themes:
   - "globalisation"
 language: "en"

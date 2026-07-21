@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "m-a-master"
+hero_image: "/musings/stock/enterprise-3.webp"
 thinker_mentions:
   - thinker: jawaharlal-nehru
     role: mention

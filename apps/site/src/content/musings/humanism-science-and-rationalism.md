@@ -2,6 +2,7 @@
 id: "humanism-science-and-rationalism"
 title: "Humanism, Science and Rationalism"
 pubDate: "2021-07-09T09:32:28Z"
+hero_image: "/musings/stock/liberalism-3.webp"
 themes:
   - "liberalism"
 language: "en"

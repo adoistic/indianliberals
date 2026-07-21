@@ -2,6 +2,7 @@
 id: "making-indian-industry-globally-competitive"
 title: "Making Indian Industry Globally Competitive"
 pubDate: "2022-10-21T06:10:49Z"
+hero_image: "/musings/stock/economy-4.webp"
 themes:
   - "economic-reform"
   - "free-enterprise"

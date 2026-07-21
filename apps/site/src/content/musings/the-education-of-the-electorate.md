@@ -2,6 +2,7 @@
 id: "the-education-of-the-electorate"
 title: "The Education of the Electorate"
 pubDate: "2023-01-04T07:02:59Z"
+hero_image: "/musings/stock/democracy-3.webp"
 themes:
   - "democracy"
 language: "en"

@@ -2,6 +2,7 @@
 id: "the-three-meanings-of-secularism"
 title: "The Three Meanings of Secularism"
 pubDate: "2021-07-03T11:05:11Z"
+hero_image: "/musings/stock/society-3.webp"
 themes:
   - "civil-society"
   - "liberalism"

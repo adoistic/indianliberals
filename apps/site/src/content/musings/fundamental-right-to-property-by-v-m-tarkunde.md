@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "v-m-tarkunde"
+hero_image: "/musings/stock/liberty-3.webp"
 proposed_themes:
   - "constitutional-rights"
   - "property-rights"

@@ -2,6 +2,7 @@
 id: "the-light-of-the-indian-constitution"
 title: "The Light of the Constitution"
 pubDate: "2022-11-16T06:50:22Z"
+hero_image: "/musings/stock/liberty-1.webp"
 themes:
   - "civil-liberties"
   - "democracy"

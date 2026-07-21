@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "f-a-mehta"
+hero_image: "/musings/stock/economy-5.webp"
 thinker_mentions:
   - thinker: bernard-shaw
     role: mention

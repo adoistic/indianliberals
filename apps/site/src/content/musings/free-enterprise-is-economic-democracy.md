@@ -2,6 +2,7 @@
 id: "free-enterprise-is-economic-democracy"
 title: "Free Enterprise is Economic Democracy"
 pubDate: "2020-11-16T08:00:52Z"
+hero_image: "/musings/stock/democracy-2.webp"
 themes:
   - "democracy"
   - "economic-freedom"

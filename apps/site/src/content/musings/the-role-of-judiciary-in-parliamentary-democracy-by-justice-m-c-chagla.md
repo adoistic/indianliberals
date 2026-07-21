@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "m-c-chagla"
+hero_image: "/musings/stock/democracy-1.webp"
 thinker_mentions:
   - thinker: a-d-shroff
     role: mention

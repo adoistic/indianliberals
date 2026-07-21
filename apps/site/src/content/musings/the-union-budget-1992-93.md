@@ -2,6 +2,7 @@
 id: "the-union-budget-1992-93"
 title: "THE UNION BUDGET 1992-93 by Nani Palkhivala"
 pubDate: "2022-02-02T09:41:33Z"
+hero_image: "/musings/stock/economy-3.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

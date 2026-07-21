@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "v-p-menon"
+hero_image: "/musings/stock/democracy-5.webp"
 thinker_mentions:
   - thinker: sardar-patel
     role: mention

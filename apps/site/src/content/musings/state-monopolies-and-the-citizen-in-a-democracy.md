@@ -2,6 +2,7 @@
 id: "state-monopolies-and-the-citizen-in-a-democracy"
 title: "STATE MONOPOLIES AND THE CITIZEN IN A DEMOCRACY"
 pubDate: "2021-10-15T07:58:06Z"
+hero_image: "/musings/stock/liberty-2.webp"
 themes:
   - "civil-liberties"
   - "democracy"

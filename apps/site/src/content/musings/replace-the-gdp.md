@@ -2,6 +2,7 @@
 id: "replace-the-gdp"
 title: "Replace the GDP"
 pubDate: "2020-11-16T07:29:01Z"
+hero_image: "/musings/stock/economy-2.webp"
 themes:
   - "economic-development"
   - "political-economy"

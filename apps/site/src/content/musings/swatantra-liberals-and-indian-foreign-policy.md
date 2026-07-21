@@ -2,6 +2,7 @@
 id: "swatantra-liberals-and-indian-foreign-policy"
 title: "Swatantra Liberals and Indian Foreign Policy"
 pubDate: "2020-11-16T06:43:31Z"
+hero_image: "/musings/stock/liberalism-3.webp"
 themes:
   - "liberalism"
 language: "en"

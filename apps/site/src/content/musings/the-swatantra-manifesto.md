@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "g-n-lawande"
+hero_image: "/musings/stock/economy-1.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "party-manifesto"

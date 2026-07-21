@@ -2,6 +2,7 @@
 id: "the-task-before-a-free-people"
 title: "Nani Palkhivala: The Task Before A Free People"
 pubDate: "2022-10-18T07:52:22Z"
+hero_image: "/musings/stock/liberty-2.webp"
 themes:
   - "civil-liberties"
   - "democracy"

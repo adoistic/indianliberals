@@ -2,6 +2,7 @@
 id: "gold-problem-india"
 title: "The Gold Problem in India"
 pubDate: "2020-11-16T09:25:27Z"
+hero_image: "/musings/stock/economy-1.webp"
 themes:
   - "economic-policy"
   - "monetary-policy"

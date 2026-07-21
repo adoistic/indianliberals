@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "rajkumari-amrit-kaur"
+hero_image: "/musings/stock/society-3.webp"
 thinker_mentions:
   - thinker: gopal-krishna-gokhale
     role: mention

@@ -2,6 +2,7 @@
 id: "the-emerging-scenario-in-education-2"
 title: "The Emerging Scenario in Education"
 pubDate: "2021-12-29T09:40:12Z"
+hero_image: "/musings/stock/reform-1.webp"
 themes:
   - "social-reform"
 language: "en"

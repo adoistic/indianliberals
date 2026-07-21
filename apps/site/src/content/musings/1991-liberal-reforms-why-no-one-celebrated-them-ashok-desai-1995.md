@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ashok-desai"
+hero_image: "/musings/stock/economy-1.webp"
 thinker_mentions:
   - thinker: jagdish-bhagwati
     role: mention

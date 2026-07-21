@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "s-s-tarapore"
+hero_image: "/musings/stock/agriculture-1.webp"
 thinker_mentions:
   - thinker: indira-gandhi
     role: mention

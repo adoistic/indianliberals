@@ -2,6 +2,7 @@
 id: "hope-for-indian-liberals"
 title: "Any Hope for Indian Liberals?"
 pubDate: "2020-11-16T09:41:50Z"
+hero_image: "/musings/stock/democracy-3.webp"
 themes:
   - "democracy"
   - "economic-reform"

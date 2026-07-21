@@ -2,6 +2,7 @@
 id: "the-tiger-caged-part-ii"
 title: "The Tiger Caged – Part II"
 pubDate: "2020-11-16T07:35:48Z"
+hero_image: "/musings/stock/economy-2.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

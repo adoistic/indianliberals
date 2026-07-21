@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ma-sreenivasan"
+hero_image: "/musings/stock/economy-6.webp"
 thinker_mentions:
   - thinker: winston-churchill
     role: mention

@@ -2,6 +2,7 @@
 id: "obstacles-to-liberalisation-and-market-economy"
 title: "OBSTACLES TO LIBERALISATION AND MARKET ECONOMY"
 pubDate: "2022-07-21T18:45:41Z"
+hero_image: "/musings/stock/economy-6.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

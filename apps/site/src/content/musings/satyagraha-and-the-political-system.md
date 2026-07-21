@@ -2,6 +2,7 @@
 id: "satyagraha-and-the-political-system"
 title: "Satyagraha and the Political System"
 pubDate: "2021-06-11T09:37:14Z"
+hero_image: "/musings/stock/society-4.webp"
 themes:
   - "civil-society"
   - "democracy"

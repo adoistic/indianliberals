@@ -2,6 +2,7 @@
 id: "a-democracy-at-war"
 title: "A Democracy at War"
 pubDate: "2020-11-16T06:52:08Z"
+hero_image: "/musings/stock/liberty-1.webp"
 themes:
   - "civil-liberties"
   - "democracy"

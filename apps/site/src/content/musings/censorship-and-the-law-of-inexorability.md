@@ -2,6 +2,7 @@
 id: "censorship-and-the-law-of-inexorability"
 title: "Censorship and the Law of Inexorability"
 pubDate: "2021-10-29T07:35:34Z"
+hero_image: "/musings/stock/liberty-4.webp"
 themes:
   - "civil-liberties"
   - "democracy"

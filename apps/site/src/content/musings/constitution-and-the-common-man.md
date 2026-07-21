@@ -2,6 +2,7 @@
 id: "constitution-and-the-common-man"
 title: "Constitution And The Common Man"
 pubDate: "2022-11-23T00:00:35Z"
+hero_image: "/musings/stock/liberty-1.webp"
 themes:
   - "civil-liberties"
   - "democracy"

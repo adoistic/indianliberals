@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
+hero_image: "/musings/stock/liberalism-2.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "intellectual-history"

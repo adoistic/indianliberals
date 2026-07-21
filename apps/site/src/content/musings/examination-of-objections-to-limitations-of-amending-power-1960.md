@@ -2,6 +2,7 @@
 id: "examination-of-objections-to-limitations-of-amending-power-1960"
 title: "Examination of Objections to Limitations of Amending Power"
 pubDate: "2024-01-26T16:26:58Z"
+hero_image: "/musings/stock/liberty-4.webp"
 themes:
   - "civil-liberties"
   - "democracy"

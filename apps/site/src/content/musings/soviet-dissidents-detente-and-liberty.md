@@ -2,6 +2,7 @@
 id: "soviet-dissidents-detente-and-liberty"
 title: "Soviet Dissidents, Detente and Liberty"
 pubDate: "2020-11-16T07:25:33Z"
+hero_image: "/musings/stock/liberty-1.webp"
 themes:
   - "civil-liberties"
   - "liberalism"

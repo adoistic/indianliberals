@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "minoo-shroff"
+hero_image: "/musings/stock/economy-6.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "industrialisation"

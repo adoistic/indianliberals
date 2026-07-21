@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "voltaire"
+hero_image: "/musings/stock/enterprise-3.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "enlightenment-thought"

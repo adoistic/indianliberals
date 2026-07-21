@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "parth-shah"
+hero_image: "/musings/stock/society-2.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "education-policy"

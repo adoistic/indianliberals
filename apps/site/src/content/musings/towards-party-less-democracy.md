@@ -2,6 +2,7 @@
 id: "towards-party-less-democracy"
 title: "Towards Party-less Democracy"
 pubDate: "2021-04-15T19:22:06Z"
+hero_image: "/musings/stock/democracy-4.webp"
 themes:
   - "democracy"
   - "governance"

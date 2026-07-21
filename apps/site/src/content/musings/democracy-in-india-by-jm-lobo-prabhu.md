@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "j-m-lobo-prabhu"
+hero_image: "/musings/stock/democracy-3.webp"
 thinker_mentions: []
 related_thinkers: []
 source_channel: "so-musings"

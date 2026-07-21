@@ -2,6 +2,7 @@
 id: "the-indian-libertarian-3"
 title: "The Indian Libertarian"
 pubDate: "2020-11-09T04:26:11Z"
+hero_image: "/musings/stock/liberalism-1.webp"
 themes:
   - "liberalism"
 language: "en"

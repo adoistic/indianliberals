@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "sadanand-varde"
+hero_image: "/musings/stock/society-1.webp"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

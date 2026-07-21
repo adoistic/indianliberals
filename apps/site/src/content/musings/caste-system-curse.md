@@ -2,6 +2,7 @@
 id: "caste-system-curse"
 title: "Caste System, Greatest Curse of India"
 pubDate: "2020-11-16T08:50:35Z"
+hero_image: "/musings/stock/society-4.webp"
 themes:
   - "civil-society"
   - "liberalism"

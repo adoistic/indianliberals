@@ -2,6 +2,7 @@
 id: "do-we-deserve-our-prime-ministers"
 title: "Do We Deserve Our Prime Ministers?"
 pubDate: "2020-11-16T09:39:32Z"
+hero_image: "/musings/stock/democracy-4.webp"
 themes:
   - "democracy"
   - "governance"

@@ -2,6 +2,7 @@
 id: "the-retreat-from-socialism"
 title: "The Retreat from Socialism"
 pubDate: "2020-11-16T10:00:05Z"
+hero_image: "/musings/stock/economy-4.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

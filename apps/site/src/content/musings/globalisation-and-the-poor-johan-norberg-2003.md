@@ -8,6 +8,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "johan-norberg"
+hero_image: "/musings/stock/globalisation-2.webp"
 proposed_themes:
   - "anti-globalisation"
   - "free-trade"

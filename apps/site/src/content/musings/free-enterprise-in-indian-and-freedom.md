@@ -2,6 +2,7 @@
 id: "free-enterprise-in-indian-and-freedom"
 title: "FREE ENTERPRISE IN INDIA AND FREEDOM"
 pubDate: "2022-07-12T08:35:15Z"
+hero_image: "/musings/stock/economy-5.webp"
 themes:
   - "economic-planning"
   - "free-enterprise"

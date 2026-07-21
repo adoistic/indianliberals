@@ -2,6 +2,7 @@
 id: "war-between-opposing-ideologies"
 title: "War Between Opposing Ideologies"
 pubDate: "2020-11-16T06:38:01Z"
+hero_image: "/musings/stock/democracy-5.webp"
 themes:
   - "democracy"
   - "liberalism"

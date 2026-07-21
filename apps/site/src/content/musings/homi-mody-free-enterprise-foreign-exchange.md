@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "homi-mody"
+hero_image: "/musings/stock/economy-2.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "foreign-exchange"

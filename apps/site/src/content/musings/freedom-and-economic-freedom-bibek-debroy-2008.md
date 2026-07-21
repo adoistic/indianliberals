@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "bibek-debroy"
+hero_image: "/musings/stock/liberty-1.webp"
 thinker_mentions:
   - thinker: friedrich-hayek
     role: mention

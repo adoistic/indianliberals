@@ -2,6 +2,7 @@
 id: "wastage-in-public-sector-enterprises"
 title: "Wastage in Public Sector Enterprises"
 pubDate: "2020-11-16T09:54:44Z"
+hero_image: "/musings/stock/economy-5.webp"
 themes:
   - "economic-policy"
   - "public-sector"

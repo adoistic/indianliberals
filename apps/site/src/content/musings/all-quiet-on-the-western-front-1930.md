@@ -2,6 +2,7 @@
 id: "all-quiet-on-the-western-front-1930"
 title: "All Quiet on the Western Front"
 pubDate: "2020-11-16T06:31:22Z"
+hero_image: "/musings/stock/liberty-2.webp"
 themes:
   - "civil-liberties"
   - "liberalism"

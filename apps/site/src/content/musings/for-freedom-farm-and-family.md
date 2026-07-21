@@ -2,6 +2,7 @@
 id: "for-freedom-farm-and-family"
 title: "For Freedom, Farm and Family"
 pubDate: "2022-12-07T05:19:21Z"
+hero_image: "/musings/stock/agriculture-1.webp"
 themes:
   - "agriculture"
   - "democracy"

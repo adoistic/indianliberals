@@ -2,6 +2,7 @@
 id: "agricultural-policy-of-swatantra-party"
 title: "Agricultural Policy of Swatantra Party"
 pubDate: "2020-11-16T09:04:03Z"
+hero_image: "/musings/stock/agriculture-3.webp"
 themes:
   - "agriculture"
   - "economic-policy"

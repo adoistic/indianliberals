@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "g-n-lawande"
+hero_image: "/musings/stock/economy-5.webp"
 thinker_mentions:
   - thinker: karl-marx
     role: mention

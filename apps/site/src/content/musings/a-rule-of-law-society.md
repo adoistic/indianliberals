@@ -2,6 +2,7 @@
 id: "a-rule-of-law-society"
 title: "A Rule of Law Society!"
 pubDate: "2020-11-16T09:20:36Z"
+hero_image: "/musings/stock/society-2.webp"
 themes:
   - "civil-society"
   - "liberalism"

@@ -2,6 +2,7 @@
 id: "the-place-of-free-enterprise-in-a-backward-economy"
 title: "The Place of Free Enterprise in a Backward Economy"
 pubDate: "2024-07-15T13:01:10Z"
+hero_image: "/musings/stock/economy-1.webp"
 themes:
   - "economic-policy"
   - "free-enterprise"

@@ -2,6 +2,7 @@
 id: "fifteen-years-of-planning"
 title: "Fifteen Years of Indian Planning"
 pubDate: "2020-12-06T15:02:20Z"
+hero_image: "/musings/stock/economy-3.webp"
 themes:
   - "economic-planning"
   - "economic-policy"

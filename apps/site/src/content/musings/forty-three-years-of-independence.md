@@ -2,6 +2,7 @@
 id: "forty-three-years-of-independence"
 title: "Forty-Three Years of Independence"
 pubDate: "2022-08-03T06:01:05Z"
+hero_image: "/musings/stock/democracy-1.webp"
 themes:
   - "democracy"
   - "liberalism"

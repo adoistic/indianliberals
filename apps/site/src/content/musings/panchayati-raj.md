@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "jayaprakash-narayan"
+hero_image: "/musings/stock/democracy-5.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "decentralisation"

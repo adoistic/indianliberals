@@ -2,6 +2,7 @@
 id: "art-versus-law-and-order"
 title: "ART VERSUS LAW AND ORDER"
 pubDate: "2021-10-22T05:05:26Z"
+hero_image: "/musings/stock/liberty-3.webp"
 themes:
   - "civil-liberties"
   - "democracy"

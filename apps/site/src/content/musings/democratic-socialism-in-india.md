@@ -2,6 +2,7 @@
 id: "democratic-socialism-in-india"
 title: "Democratic Socialism in India - A Symposium"
 pubDate: "2021-09-10T05:20:56Z"
+hero_image: "/musings/stock/society-1.webp"
 themes:
   - "civil-society"
   - "democracy"

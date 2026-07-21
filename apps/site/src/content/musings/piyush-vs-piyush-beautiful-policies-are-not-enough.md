@@ -2,6 +2,7 @@
 id: "piyush-vs-piyush-beautiful-policies-are-not-enough"
 title: "Piyush vs Piyush -‘Beautiful Policies are Not Enough’"
 pubDate: "2020-11-16T10:02:16Z"
+hero_image: "/musings/stock/economy-1.webp"
 themes:
   - "economic-policy"
   - "governance"

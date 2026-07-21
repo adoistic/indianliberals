@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "rabindranath-tagore"
+hero_image: "/musings/stock/society-1.webp"
 thinker_mentions: []
 related_thinkers: []
 source_channel: "so-musings"

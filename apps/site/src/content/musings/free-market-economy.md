@@ -2,6 +2,7 @@
 id: "free-market-economy"
 title: "FREE MARKET ECONOMY: Key to Economic Progress and Freedoms"
 pubDate: "2022-06-20T06:26:34Z"
+hero_image: "/musings/stock/economy-6.webp"
 themes:
   - "economic-freedom"
   - "free-enterprise"

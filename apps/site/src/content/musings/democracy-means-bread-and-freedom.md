@@ -2,6 +2,7 @@
 id: "democracy-means-bread-and-freedom"
 title: "Democracy Means Bread And Freedom"
 pubDate: "2022-12-21T00:00:39Z"
+hero_image: "/musings/stock/liberty-3.webp"
 themes:
   - "civil-liberties"
   - "democracy"

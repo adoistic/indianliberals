@@ -2,6 +2,7 @@
 id: "economics-of-freedom"
 title: "Economics of Freedom"
 pubDate: "2023-05-17T12:19:08Z"
+hero_image: "/musings/stock/economy-2.webp"
 themes:
   - "economic-freedom"
   - "free-enterprise"

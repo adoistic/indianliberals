@@ -2,6 +2,7 @@
 id: "grievances-in-and-of-the-supreme-court"
 title: "Grievances in and of the Supreme Court"
 pubDate: "2020-11-16T10:06:11Z"
+hero_image: "/musings/stock/society-4.webp"
 themes:
   - "civil-society"
   - "governance"

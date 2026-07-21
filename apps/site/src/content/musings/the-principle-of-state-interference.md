@@ -2,6 +2,7 @@
 id: "the-principle-of-state-interference"
 title: "The Principle of State Interference"
 pubDate: "2021-06-25T08:28:18Z"
+hero_image: "/musings/stock/economy-2.webp"
 themes:
   - "economic-policy"
   - "liberalism"

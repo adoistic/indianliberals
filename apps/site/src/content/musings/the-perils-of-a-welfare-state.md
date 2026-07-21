@@ -2,6 +2,7 @@
 id: "the-perils-of-a-welfare-state"
 title: "The Perils of a Welfare State"
 pubDate: "2020-11-16T06:28:25Z"
+hero_image: "/musings/stock/economy-6.webp"
 themes:
   - "economic-policy"
   - "public-finance"

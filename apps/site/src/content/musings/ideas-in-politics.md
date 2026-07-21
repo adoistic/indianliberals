@@ -2,6 +2,7 @@
 id: "ideas-in-politics"
 title: "The Role of Ideas in Politics"
 pubDate: "2020-11-16T09:31:24Z"
+hero_image: "/musings/stock/democracy-4.webp"
 themes:
   - "democracy"
   - "liberalism"

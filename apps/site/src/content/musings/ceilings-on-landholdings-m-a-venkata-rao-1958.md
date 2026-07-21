@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
+hero_image: "/musings/stock/agriculture-1.webp"
 source_channel: "indian-libertarian"
 proposed_themes:
   - "land-reform"

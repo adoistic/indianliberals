@@ -2,6 +2,7 @@
 id: "consumer-sovereignty-leads-to-rapid-economic-development"
 title: "CONSUMER SOVEREIGNTY LEADS TO RAPID ECONOMIC DEVELOPMENT"
 pubDate: "2022-06-03T07:32:12Z"
+hero_image: "/musings/stock/economy-5.webp"
 themes:
   - "economic-development"
   - "economic-planning"

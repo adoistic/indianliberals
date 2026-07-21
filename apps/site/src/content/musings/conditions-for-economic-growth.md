@@ -2,6 +2,7 @@
 id: "conditions-for-economic-growth"
 title: "Conditions for Economic Growth"
 pubDate: "2020-11-16T09:37:51Z"
+hero_image: "/musings/stock/agriculture-2.webp"
 themes:
   - "agriculture"
   - "economic-growth"

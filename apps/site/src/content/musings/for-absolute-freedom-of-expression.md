@@ -2,6 +2,7 @@
 id: "for-absolute-freedom-of-expression"
 title: "For Absolute Freedom of Expression"
 pubDate: "2021-09-30T07:53:37Z"
+hero_image: "/musings/stock/liberty-5.webp"
 themes:
   - "civil-liberties"
   - "liberalism"

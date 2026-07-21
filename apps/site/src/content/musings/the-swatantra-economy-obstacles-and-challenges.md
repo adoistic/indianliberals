@@ -2,6 +2,7 @@
 id: "the-swatantra-economy-obstacles-and-challenges"
 title: "The Swatantra Economy : Obstacles and Challenges"
 pubDate: "2021-03-25T12:56:55Z"
+hero_image: "/musings/stock/economy-6.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

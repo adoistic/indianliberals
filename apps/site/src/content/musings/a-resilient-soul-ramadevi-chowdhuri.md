@@ -9,6 +9,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ramadevi-chowdhury"
+hero_image: "/musings/stock/society-1.webp"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention

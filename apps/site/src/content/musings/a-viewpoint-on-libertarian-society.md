@@ -2,6 +2,7 @@
 id: "a-viewpoint-on-libertarian-society"
 title: "A Viewpoint on Libertarian Society"
 pubDate: "2021-06-18T09:02:03Z"
+hero_image: "/musings/stock/society-3.webp"
 themes:
   - "civil-society"
   - "democracy"

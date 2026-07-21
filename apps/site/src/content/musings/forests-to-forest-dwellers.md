@@ -2,6 +2,7 @@
 id: "forests-to-forest-dwellers"
 title: "Forests to Forest Dwellers"
 pubDate: "2020-11-16T09:57:41Z"
+hero_image: "/musings/stock/society-3.webp"
 themes:
   - "civil-society"
   - "private-enterprise"

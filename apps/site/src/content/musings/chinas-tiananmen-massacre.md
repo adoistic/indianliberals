@@ -2,6 +2,7 @@
 id: "chinas-tiananmen-massacre"
 title: "China’s Tiananmen Massacre"
 pubDate: "2020-11-16T06:58:25Z"
+hero_image: "/musings/stock/liberty-5.webp"
 themes:
   - "civil-liberties"
   - "democracy"

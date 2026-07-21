@@ -2,6 +2,7 @@
 id: "the-essence-of-democracy"
 title: "The Essence of Democracy"
 pubDate: "2021-03-08T20:44:35Z"
+hero_image: "/musings/stock/liberty-4.webp"
 themes:
   - "civil-liberties"
   - "democracy"

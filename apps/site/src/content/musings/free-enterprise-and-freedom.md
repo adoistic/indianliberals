@@ -12,6 +12,7 @@ language: "en"
 needs_review: true
 draft: false
 author: ""
+hero_image: "/musings/stock/economy-4.webp"
 source_channel: "so-musings"
 proposed_themes: []
 key_concepts:

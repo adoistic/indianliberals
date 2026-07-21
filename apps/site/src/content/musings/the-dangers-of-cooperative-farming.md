@@ -2,6 +2,7 @@
 id: "the-dangers-of-cooperative-farming"
 title: "THE DANGERS OF JOINT CO-OPERATIVE FARMING"
 pubDate: "2021-11-12T14:21:32Z"
+hero_image: "/musings/stock/agriculture-3.webp"
 themes:
   - "agriculture"
   - "economic-policy"

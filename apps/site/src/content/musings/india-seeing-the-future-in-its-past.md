@@ -2,6 +2,7 @@
 id: "india-seeing-the-future-in-its-past"
 title: "India: Seeing the Future in its Past"
 pubDate: "2020-11-16T07:39:46Z"
+hero_image: "/musings/stock/economy-3.webp"
 themes:
   - "economic-policy"
   - "economic-reform"

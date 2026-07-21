@@ -2,6 +2,7 @@
 id: "to-prosperity-through-freedom-v-r-1960"
 title: "To Prosperity through Freedom"
 pubDate: "2024-05-20T17:01:04Z"
+hero_image: "/musings/stock/economy-4.webp"
 themes:
   - "economic-policy"
   - "free-enterprise"

@@ -2,6 +2,7 @@
 id: "all-quiet-on-the-western-front-1930-2"
 title: "A Dialogue Between Socrates And Lenin"
 pubDate: "2020-11-16T06:34:40Z"
+hero_image: "/musings/stock/liberalism-1.webp"
 themes:
   - "liberalism"
   - "socialism"

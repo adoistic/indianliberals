@@ -2,6 +2,7 @@
 id: "the-individual-and-indian-constitution"
 title: "The Individual and Indian Constitution"
 pubDate: "2022-11-02T00:00:46Z"
+hero_image: "/musings/stock/liberty-5.webp"
 themes:
   - "civil-liberties"
   - "democracy"

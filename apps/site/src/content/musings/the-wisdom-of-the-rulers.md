@@ -2,6 +2,7 @@
 id: "the-wisdom-of-the-rulers"
 title: "The Wisdom of the Rulers"
 pubDate: "2021-05-18T10:16:04Z"
+hero_image: "/musings/stock/democracy-3.webp"
 themes:
   - "democracy"
   - "governance"

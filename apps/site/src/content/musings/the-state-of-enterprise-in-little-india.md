@@ -2,6 +2,7 @@
 id: "the-state-of-enterprise-in-little-india"
 title: "The State of Enterprise in Free India"
 pubDate: "2024-08-12T16:52:16Z"
+hero_image: "/musings/stock/economy-5.webp"
 themes:
   - "economic-development"
   - "free-enterprise"

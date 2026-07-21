@@ -2,6 +2,7 @@
 id: "philosophy-of-freedom"
 title: "Philosophy of Freedom"
 pubDate: "2021-04-23T08:43:27Z"
+hero_image: "/musings/stock/liberty-4.webp"
 themes:
   - "civil-liberties"
   - "liberalism"

@@ -2,6 +2,7 @@
 id: "swatantra-party-foundation-year"
 title: "Swatantra Party: 64th Foundation Year"
 pubDate: "2023-06-04T12:45:23Z"
+hero_image: "/musings/stock/democracy-2.webp"
 themes:
   - "democracy"
   - "free-enterprise"

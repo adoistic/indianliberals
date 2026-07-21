@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "ma-venkata-rao"
+hero_image: "/musings/stock/society-2.webp"
 thinker_mentions:
   - thinker: jawaharlal-nehru
     role: mention

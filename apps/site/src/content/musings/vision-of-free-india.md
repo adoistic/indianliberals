@@ -2,6 +2,7 @@
 id: "vision-of-free-india"
 title: "Nani Palkhivala: Education, Leadership, and Vision of Free India"
 pubDate: "2022-10-05T19:28:59Z"
+hero_image: "/musings/stock/enterprise-2.webp"
 themes:
   - "free-enterprise"
   - "liberalism"

@@ -2,6 +2,7 @@
 id: "shetkari-sangathana-history-farmers-movement-india"
 title: "The Shetkari Sangathana and the History of the Farmers' Movement in India"
 pubDate: "2024-05-27T10:10:57Z"
+hero_image: "/musings/stock/agriculture-2.webp"
 themes:
   - "agriculture"
   - "economic-freedom"

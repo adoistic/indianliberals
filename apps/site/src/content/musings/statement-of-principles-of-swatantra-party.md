@@ -2,6 +2,7 @@
 id: "statement-of-principles-of-swatantra-party"
 title: "Statement of the Principles of Swatantra Party"
 pubDate: "2021-06-04T12:56:17Z"
+hero_image: "/musings/stock/economy-3.webp"
 themes:
   - "economic-freedom"
   - "free-enterprise"

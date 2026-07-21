@@ -2,6 +2,7 @@
 id: "the-budget-versus-the-people-2"
 title: "The Budget Versus The People"
 pubDate: "2023-02-03T13:47:50Z"
+hero_image: "/musings/stock/economy-4.webp"
 themes:
   - "economic-policy"
   - "fiscal-policy"

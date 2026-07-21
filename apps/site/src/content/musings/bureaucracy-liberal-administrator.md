@@ -2,6 +2,7 @@
 id: "bureaucracy-liberal-administrator"
 title: "Bureaucracy and the Liberal Administrator"
 pubDate: "2024-04-21T23:37:53Z"
+hero_image: "/musings/stock/democracy-1.webp"
 themes:
   - "governance"
   - "liberalism"

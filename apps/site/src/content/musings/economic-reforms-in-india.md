@@ -11,6 +11,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "rakesh-mohan"
+hero_image: "/musings/stock/agriculture-3.webp"
 thinker_mentions:
   - thinker: a-d-shroff
     role: mention

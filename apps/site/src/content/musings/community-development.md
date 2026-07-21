@@ -10,6 +10,7 @@ language: "en"
 needs_review: true
 draft: false
 author: "b-g-rao"
+hero_image: "/musings/stock/economy-4.webp"
 source_channel: "so-musings"
 proposed_themes:
   - "rural-development"

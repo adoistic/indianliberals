@@ -2,6 +2,7 @@
 id: "khoj-january-february-2008"
 title: "Khoj : January - February, 2008"
 pubDate: "2020-10-25T06:37:48Z"
+hero_image: "/musings/stock/liberalism-1.webp"
 themes:
   - "liberalism"
   - "civil-society"

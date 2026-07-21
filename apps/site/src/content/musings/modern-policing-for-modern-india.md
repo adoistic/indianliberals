@@ -2,6 +2,7 @@
 id: "modern-policing-for-modern-india"
 title: "Modern Policing for Modern India"
 pubDate: "2021-01-29T07:08:47Z"
+hero_image: "/musings/stock/liberty-3.webp"
 themes:
   - "civil-liberties"
   - "civil-society"

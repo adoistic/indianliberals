@@ -2,6 +2,7 @@
 id: "the-indian-constitution-and-judiciary"
 title: "The Indian Constitution And Judiciary"
 pubDate: "2022-11-09T00:00:00Z"
+hero_image: "/musings/stock/democracy-4.webp"
 themes:
   - "democracy"
   - "governance"

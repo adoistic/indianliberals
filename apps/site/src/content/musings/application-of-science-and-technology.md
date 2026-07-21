@@ -2,6 +2,7 @@
 id: "application-of-science-and-technology"
 title: "THE APPLICATION OF SCIENCE AND TECHNOLOGY TO SOCIO-ECONOMIC DEVELOPMENT"
 pubDate: "2022-02-28T04:48:10Z"
+hero_image: "/musings/stock/economy-2.webp"
 themes:
   - "economic-development"
 language: "en"

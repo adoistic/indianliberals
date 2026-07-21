@@ -2,6 +2,7 @@
 id: "have-we-lost-our-will-to-be-free"
 title: "Have We Lost Our Will To Be Free?"
 pubDate: "2023-08-16T14:37:01Z"
+hero_image: "/musings/stock/liberty-5.webp"
 themes:
   - "civil-liberties"
   - "economic-freedom"

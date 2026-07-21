@@ -2,6 +2,7 @@
 id: "fundamental-rights-protection-against-tyranny"
 title: "Fundamental Rights: Our Protection Against Tyranny"
 pubDate: "2022-08-23T08:38:06Z"
+hero_image: "/musings/stock/liberty-4.webp"
 themes:
   - "civil-liberties"
   - "democracy"

@@ -2,6 +2,7 @@
 id: "making-capital-out-of-consumer-goods"
 title: "MAKING CAPITAL OUT OF CONSUMER GOODS"
 pubDate: "2022-07-07T19:40:54Z"
+hero_image: "/musings/stock/economy-3.webp"
 themes:
   - "economic-policy"
   - "free-enterprise"

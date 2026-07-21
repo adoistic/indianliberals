@@ -2,6 +2,7 @@
 id: "libertarian-happy-new-year"
 title: "We Wish You A Happy New Year!"
 pubDate: "2020-11-16T09:15:57Z"
+hero_image: "/musings/stock/liberty-2.webp"
 themes:
   - "civil-liberties"
   - "liberalism"
