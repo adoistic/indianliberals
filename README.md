@@ -10,7 +10,7 @@ The legacy site runs on WordPress. Indexing is shallow, metadata is inconsistent
 
 - A fast, static Astro site on Cloudflare, with a Git-based CMS so editors never see a database.
 - A rich AI-extracted metadata layer over the primary-works PDFs — author normalisation, year, themes, publisher provenance, AI summaries, key points, cross-thinker mentions with verbatim evidence — language-agnostic at the schema level.
-- An AI/agent layer: `.md` siblings on every page, `/llms.txt` and `/llms-full.txt`, an `/AGENTS.md` schema, and (post-launch) an MCP server at `mcp.indianliberals.in` for frontier LLMs to query the corpus directly.
+- An AI/agent layer: `.md` siblings on every page (paragraph-annotated), `/llms.txt` and `/llms-full.txt`, an `/AGENTS.md` schema, build-time `/api/*.json` data endpoints, and a live MCP server at [mcp.indianliberals.in](https://mcp.indianliberals.in) (Streamable HTTP + REST + OpenAPI) for any LLM client to query the corpus directly.
 - Multilingual search via Pagefind with per-language analyzers — English alongside Hindi, Gujarati, Marathi, Bengali. 4 languages currently indexed; 1,225 pages, ~28,000 words.
 - An honest two-tier model: clean content (musings, opinions, interviews, profiles, organisation pages, the ThePrint mirror) is fully searchable and paragraph-citable; primary-work PDFs surface as rich metadata + AI summary + link, with paragraph-level citation deferred to a future engagement once vision-language layout reconstruction matures.
 
@@ -66,8 +66,7 @@ This is a deliberate list of what is NOT yet good enough. Each is either deferre
 - **The full corpus is not yet extracted.** ~220 of ~944 PDFs are baked; the rest are still queued in the overnight runner. Bio pages will grow more works/mentions as the queue drains over the coming days.
 - **Periodicals collection is empty.** Periodical issues live inside primary-works (`work_type: periodical_issue`) and are browsable by series at `/periodicals/`; migrating them into the dedicated collection is deferred.
 - **Editorial review of AI-extracted content is sparse.** `needs_review: true` is set on AI-emitted entries to flag this; CCS editorial works through them over time via Sveltia.
-- **MCP server is deferred.** The agent layer today is `.md` siblings + `/llms.txt` + `/AGENTS.md`. The MCP server with 8 tools (`get_work_metadata`, `read_clean_content`, `find_related`, etc.) lands post-engagement.
-- **No live deployment.** The site builds and previews locally on `:4321`; it is not yet served at `indianliberals.in`.
+- **MCP server is live** at `mcp.indianliberals.in` (2026-07): the 8-tool surface (`get_work_metadata`, `read_clean_content`, `get_passage`, `find_related`, etc.) plus ChatGPT-connector `search`/`fetch` aliases, served as a stateless Cloudflare Worker (`apps/mcp`) over the site's build-generated `/api/*.json` endpoints — new content flows in automatically on every deploy.
 
 ## Stack
 
@@ -81,7 +80,7 @@ Every choice below is already in production on either [Falsafa](https://falsafa.
 | Search | Pagefind with per-language analyzers |
 | Metadata extraction | Frontier LLM via headless `claude -p` CLI, parallelised, rate-limit-aware |
 | PDF serving | Direct R2 links (pdf.js viewer not in scope for v1) |
-| MCP server | Cloudflare Workers, deferred to post-engagement |
+| MCP server | Cloudflare Worker (`apps/mcp`), live at mcp.indianliberals.in — Streamable HTTP MCP + REST + OpenAPI 3.1, zero runtime deps |
 | Repo layout | Monorepo (`apps/`, `scripts/`, `data/`) |
 
 ## Repository layout

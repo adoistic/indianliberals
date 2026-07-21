@@ -1,0 +1,14 @@
+{
+  "name": "@indianliberals/mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MCP server + REST/OpenAPI facade for the Indian Liberals archive (mcp.indianliberals.in). Stateless Cloudflare Worker over the site's build-generated agent endpoints — zero runtime dependencies.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^4.24.0"
+  }
+}

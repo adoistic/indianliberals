@@ -1,0 +1,26 @@
+// MCP server for the Indian Liberals archive — mcp.indianliberals.in
+//
+// A thin, stateless Cloudflare Worker. It holds NO content: every tool
+// reads the build-generated /api/*.json endpoints and .md siblings on
+// indianliberals.in, so each site deploy (new works, thinkers, musings…)
+// flows into the MCP automatically with zero changes here.
+//
+// Deploy: npx wrangler deploy   (from apps/mcp/)
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "indianliberals-mcp",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-07-01",
+  "routes": [
+    {
+      "pattern": "mcp.indianliberals.in",
+      "custom_domain": true
+    }
+  ],
+  "vars": {
+    "SITE_ORIGIN": "https://indianliberals.in"
+  },
+  "observability": {
+    "enabled": true
+  }
+}

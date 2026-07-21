@@ -117,15 +117,30 @@ For primary works:
 
 ## Sibling endpoints
 
-- \`<page-url>.md\` — markdown body of any HTML page
+- \`<page-url>.md\` — markdown body of any HTML page. Tier-A paragraphs
+  carry \`<!-- #p-xxxxxx -->\` annotations matching the \`id\` anchors on the
+  rendered page, so citations minted from either surface resolve on both.
 - \`/llms.txt\` — curated index in the llms.txt spec
 - \`/llms-full.txt\` — every Tier-A piece in full plus every Tier-B summary
 - \`/thinkers/<slug>.md\`, \`/primary-works/<slug>.md\`, etc.
+- \`/api/meta.json\` — collection counts + endpoint directory
+- \`/api/works.json\`, \`/api/works/<id>.json\` — works catalogue + per-work detail
+- \`/api/thinkers.json\` — thinker profiles with bio snippets
+- \`/api/search-index.json\` — compact tier-flagged search index, all kinds
+- \`/api/cross-links.json\` — TF-IDF related-entries map
 
 ## MCP server
 
-A Model Context Protocol server lives at \`mcp.indianliberals.in\` with the
-v1 tool surface:
+A Model Context Protocol server is live at
+**\`https://mcp.indianliberals.in/mcp\`** (Streamable HTTP, no auth).
+Human-readable setup instructions for every client — Claude custom
+connectors, Claude Code, ChatGPT connectors and Custom GPT Actions,
+Cursor, the Anthropic/OpenAI/Gemini APIs — are at
+\`https://mcp.indianliberals.in/\`. The same tools are mirrored as plain
+REST at \`https://mcp.indianliberals.in/api/<tool>\` with an OpenAPI 3.1
+spec at \`/openapi.json\`.
+
+The v1 tool surface:
 
 | Tool | Scope | Returns |
 |---|---|---|
@@ -134,9 +149,13 @@ v1 tool surface:
 | \`get_work_metadata\` | A + B | Author, year, publisher, summary, key points, themes, pdf_url for B, read_url for A |
 | \`read_clean_content\` | A only | Body of a musing, opinion, interview, profile, or org page as markdown with \`#p-xxxxxx\` annotations |
 | \`get_passage\` | A only | Specific paragraphs by ID — the citation primitive |
-| \`search_corpus\` | All | Pagefind-backed search; results flagged by tier so agent knows whether to quote or summarise |
+| \`search_corpus\` | All | Full-text search over the build-time index; results flagged by tier so agent knows whether to quote or summarise |
 | \`find_related\` | All | TF-IDF cross-links across content kinds |
 | \`read_index\` | — | The curated \`/llms.txt\` |
+| \`search\` / \`fetch\` | All | Aliases of the above in the shape ChatGPT connectors require |
+
+The server is a stateless proxy over the \`/api/*.json\` build artifacts
+above — it reflects new content automatically on every site deploy.
 
 ## Crawler policy
 
@@ -150,9 +169,9 @@ v1 tool surface:
 
 - A retrieval chatbot. The host LLM (whichever client you bring) does the
   reasoning. The MCP server only returns text and structure.
-- A vector database. Pagefind + structured metadata + \`.md\` siblings give
-  agents everything similarity search would, plus the structure that
-  similarity search flattens into noise.
+- A vector database. Full-text search + structured metadata + \`.md\`
+  siblings give agents everything similarity search would, plus the
+  structure that similarity search flattens into noise.
 - A primary-work full-text search (in v1). PDFs are linked, summaries are
   attributable, paragraph-level citation inside primary works waits for the
   next engagement.

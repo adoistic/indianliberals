@@ -55,7 +55,7 @@ Promotion hooks for Tier B → Tier A are designed into the schema now (nullable
 
 Every HTML URL has a `.md` sibling. `/llms.txt` is the curated index (llms.txt spec). `/llms-full.txt` holds every Tier-A content kind in full plus every Tier-B summary, in one file. `/AGENTS.md` documents the schema, citation rules, and tier system for autonomous agents. `/SKILL.md` is the manual fallback for Claude users without an MCP client.
 
-The MCP server is a thin Node service on Cloudflare Workers. It exposes eight tools that return text and structure — no LLM inside. The host model (whichever the user runs in Claude Desktop, Cursor, Codex, or a browser) does the reasoning. Tools are scoped to what v1 can answer well; `read_primary_work` and `get_primary_work_passage` arrive in the future engagement when paragraph IDs land on primary works.
+The MCP server (`apps/mcp`, live at `mcp.indianliberals.in`) is a stateless zero-dependency Cloudflare Worker. It exposes the eight promised tools (plus `search`/`fetch` aliases in the shape ChatGPT connectors require) over three facades at once — MCP Streamable HTTP at `/mcp`, plain REST at `/api/<tool>`, and an OpenAPI 3.1 spec at `/openapi.json` for Custom GPT Actions — all driven by one tool registry. It holds no content: every tool reads the site's build-generated `/api/*.json` endpoints and paragraph-annotated `.md` siblings, so each site deploy flows into the MCP automatically with no server change. No LLM inside — the host model (whichever the user runs in Claude, ChatGPT, Cursor, Codex, or an API stack) does the reasoning. `read_primary_work` and `get_primary_work_passage` arrive in the future engagement when paragraph IDs land on primary works.
 
 ## Why no vector database
 

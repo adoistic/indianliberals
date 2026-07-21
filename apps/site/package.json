@@ -26,7 +26,10 @@
     "@fontsource/source-serif-4": "^5.2.7",
     "@tailwindcss/vite": "^4.1.16",
     "astro": "^5.16.4",
-    "tailwindcss": "^4.1.16"
+    "mdast-util-to-string": "^4.0.0",
+    "remark-parse": "^11.0.0",
+    "tailwindcss": "^4.1.16",
+    "unified": "^11.0.5"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",

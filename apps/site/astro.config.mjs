@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
+import { remarkParagraphIds } from './src/plugins/remark-paragraph-ids.mjs';
 
 // Cloudflare Pages adapter — uncomment when deploying.
 // import cloudflare from '@astrojs/cloudflare';
@@ -25,6 +26,12 @@ export default defineConfig({
     '/musings/the-tiger-caged-concluding-installment-from-the-economists-survey-of-india/':
       '/musings/the-tiger-caged-part-ii/',
     '/primary-works/khoj-januray-february-2007/': '/primary-works/khoj-january-february-2007/',
+  },
+  markdown: {
+    // Paragraph-stable citation anchors (id="p-xxxxxx") on every rendered
+    // paragraph. Same derivation as the .md-sibling annotations — see
+    // src/lib/paragraph-id.mjs.
+    remarkPlugins: [remarkParagraphIds],
   },
   integrations: [
     mdx(),

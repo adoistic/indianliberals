@@ -10,8 +10,34 @@
 // `<col>/[slug].md.ts` calls `renderMdSibling()` to compose the response.
 
 import type { CollectionEntry, CollectionKey } from 'astro:content';
+import { unified } from 'unified';
+import remarkParse from 'remark-parse';
+import { toString as mdastToString } from 'mdast-util-to-string';
+import { paragraphIdsFor } from './paragraph-id.mjs';
 
 const SITE_NAME = 'Indian Liberals';
+
+/**
+ * Append a `<!-- #p-xxxxxx -->` annotation to every top-level paragraph
+ * of a markdown body. Same ID derivation as the rendered-HTML anchors
+ * (src/plugins/remark-paragraph-ids.mjs), so an agent reading the .md
+ * sibling can cite `<page-url>#p-xxxxxx` and the link resolves — and the
+ * MCP server's get_passage tool extracts paragraphs by these markers.
+ */
+export function annotateParagraphIds(body: string): string {
+  const tree = unified().use(remarkParse).parse(body);
+  const paragraphs = (tree.children ?? []).filter(
+    (n) => n.type === 'paragraph' && typeof n.position?.end?.offset === 'number',
+  );
+  const ids = paragraphIdsFor(paragraphs.map((n) => mdastToString(n)));
+  let out = body;
+  // Insert back-to-front so earlier offsets stay valid.
+  for (let i = paragraphs.length - 1; i >= 0; i--) {
+    const offset = paragraphs[i].position!.end!.offset!;
+    out = out.slice(0, offset) + ` <!-- #${ids[i]} -->` + out.slice(offset);
+  }
+  return out;
+}
 
 interface ResolvedTitle {
   primary: string;
@@ -72,7 +98,7 @@ export function renderMdSibling(
   // For graph-edges (JSON loader), body is undefined; we serve frontmatter
   // as JSON-in-code-fence instead.
   if (typeof entry.body === 'string' && entry.body.length > 0) {
-    lines.push(entry.body.trim());
+    lines.push(annotateParagraphIds(entry.body.trim()));
   } else {
     // Fallback for entries whose body is empty (JSON loaders, stub MDs)
     lines.push('```json');
