@@ -44,7 +44,7 @@ const totalIssues = seriesGroups.reduce((n, g) => n + g.items.length, 0);
             href={`/periodicals/${g.id}/`}
             class="flex gap-4 h-full p-4 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-md hover:-translate-y-0.5 transition-all group"
           >
-            <div class="shrink-0 w-20 md:w-24 aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center">
+            <div class="self-start shrink-0 w-20 md:w-24 aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center">
               {g.cover ? (
                 <img
                   src={g.cover}
