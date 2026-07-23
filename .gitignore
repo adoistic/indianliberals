@@ -94,3 +94,10 @@ data/prod-mirror/
 
 # Visual brainstorming companion mockups
 .superpowers/
+
+# Video-ingestion working artifacts (transcripts embedded in the MD entries;
+# audio deleted after use; models re-downloadable). See scripts/interviews/.
+/data/audio/
+/data/models/
+/data/transcripts/
+/data/interview-transcripts/
