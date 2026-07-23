@@ -1,0 +1,101 @@
+---
+// One lecture series: /lectures/<series>/ shows the recordings of a single
+// series (B.R. Shenoy Memorial Lecture, Indian Liberals Annual Lecture, or the
+// historic addresses). Mirrors /interviews/[shelf]/. (Adnan, 2026-07)
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { getLectureSeries, type LectureSeries } from "~/lib/lectures";
+import { videoIdFor, durationFor, speakerFor, workHref } from "~/lib/video";
+
+export async function getStaticPaths() {
+  const { series } = await getLectureSeries();
+  return series.map((s) => ({ params: { series: s.slug }, props: { shelf: s } }));
+}
+
+const { shelf } = Astro.props as { shelf: LectureSeries };
+const s = shelf;
+
+const thinkers = await getCollection("thinkers");
+const thinkerById = new Map(thinkers.map((t) => [t.id, t]));
+
+const count = s.items.length;
+---
+
+<BaseLayout
+  title={`${s.title} · Lectures · Indian Liberals`}
+  description={`${count} lecture${count === 1 ? "" : "s"}${s.yearRange ? ` (${s.yearRange})` : ""} — ${s.title}, from the Indian Liberals recorded-voices archive.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        <a href="/lectures/" class="hover:text-(--color-fg)">Lectures</a>
+        <span aria-hidden> / </span>{s.title}
+      </p>
+      <div class="min-w-0">
+        <h1 class="text-(--color-fg) mb-2 font-(family-name:--font-display)">{s.title}</h1>
+        <p class="text-(--color-fg-muted) text-sm mb-4 font-(family-name:--font-ui)">
+          {count} lecture{count === 1 ? "" : "s"}
+          {s.yearRange && ` · ${s.yearRange}`}
+        </p>
+        <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{s.blurb}</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
+      {s.items.map((w) => {
+        const vid = videoIdFor(w);
+        const dur = durationFor(w);
+        const y = w.data.publication?.year;
+        const sp = speakerFor(w, thinkerById);
+        return (
+          <li>
+            <a
+              href={workHref(w)}
+              class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+            >
+              <div class="relative aspect-video bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
+                {vid ? (
+                  <img
+                    src={`https://i.ytimg.com/vi/${vid}/hqdefault.jpg`}
+                    alt=""
+                    width="320"
+                    height="180"
+                    loading="lazy"
+                    class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
+                  />
+                ) : (
+                  <div class="w-full h-full flex items-center justify-center text-(--color-fg-muted)" aria-hidden="true">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg>
+                  </div>
+                )}
+                <span class="absolute inset-0 flex items-center justify-center" aria-hidden="true">
+                  <span class="h-9 w-9 rounded-full bg-black/55 group-hover:bg-(--color-saffron-700)/90 transition-colors flex items-center justify-center">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
+                  </span>
+                </span>
+                {dur && (
+                  <span class="absolute bottom-1.5 right-1.5 px-1.5 py-0.5 rounded bg-black/70 text-white text-[10px] tracking-wide">
+                    {dur}
+                  </span>
+                )}
+              </div>
+              <div class="p-3">
+                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug text-sm">
+                  {w.data.title.main}
+                </div>
+                <div class="text-xs text-(--color-fg-muted) mt-1">
+                  {sp?.name}
+                  {sp?.name && y && " · "}
+                  {y}
+                </div>
+              </div>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</BaseLayout>

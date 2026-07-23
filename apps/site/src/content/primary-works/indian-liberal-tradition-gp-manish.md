@@ -2,7 +2,7 @@
 id: indian-liberal-tradition-gp-manish
 title:
   main: Indian Liberal Tradition - GP Manish
-work_type: interview
+work_type: lecture
 authors:
 - gp-manish
 editors: []

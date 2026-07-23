@@ -2,7 +2,7 @@
 id: the-new-global-marketplace-sudha-shenoy
 title:
   main: The New Global Marketplace | Sudha Shenoy
-work_type: interview
+work_type: lecture
 authors:
 - sudha-r-shenoy
 editors: []

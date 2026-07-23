@@ -29,6 +29,7 @@ const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
 
 const featuredCount = thinkers.filter((t) => t.data.featured).length;
 const interviewCount = works.filter((w) => w.data.work_type === "interview").length;
+const lectureCount = works.filter((w) => w.data.work_type === "lecture").length;
 const periodicalCount = works.filter((w) => w.data.work_type === "periodical_issue").length;
 
 type NavItem = { label: string; href: string; desc: string; count: number };
@@ -56,6 +57,12 @@ const groups: NavGroup[] = [
         href: "/interviews/",
         desc: "Oral histories and historic recordings",
         count: interviewCount,
+      },
+      {
+        label: "Lectures",
+        href: "/lectures/",
+        desc: "Annual, memorial, and historic addresses",
+        count: lectureCount,
       },
       {
         label: "Musings",

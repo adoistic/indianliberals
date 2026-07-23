@@ -2,7 +2,7 @@
 id: the-hayek-keynes-debate-1931-1971-by-sudha-r-shenoy
 title:
   main: The Hayek-Keynes Debate, 1931-1971 | by Sudha R. Shenoy
-work_type: interview
+work_type: lecture
 authors:
 - sudha-r-shenoy
 editors: []

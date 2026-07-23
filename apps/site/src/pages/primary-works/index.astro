@@ -15,15 +15,17 @@ import { getPeriodicalSeries } from "~/lib/periodicals";
 // Two kinds live in this collection for schema reasons but don't belong in
 // this list of individual documents (Adnan, 2026-07):
 //   • interviews (work_type "interview") — recorded voices, home at /interviews/.
+//   • lectures (work_type "lecture") — recorded addresses, home at /lectures/.
 //   • periodical issues (work_type "periodical_issue") — hundreds of individual
 //     issues that swamp the page; they belong to their runs at /periodicals/.
-// Both are excluded here; their detail pages still build and stay reachable.
+// All are excluded here; their detail pages still build and stay reachable.
 // Periodicals are re-surfaced below as a compact band of *runs* instead.
 const allWorks = await getCollection(
   "primary-works",
   (w) =>
     !w.data.draft &&
     w.data.work_type !== "interview" &&
+    w.data.work_type !== "lecture" &&
     w.data.work_type !== "periodical_issue",
 );
 

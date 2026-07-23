@@ -2,7 +2,7 @@
 id: an-auxiliary-for-historians-the-contribution-of-older-austrians
 title:
   main: 'An Auxiliary for Historians: The Contribution of Older Austrians'
-work_type: interview
+work_type: lecture
 authors: []
 editors: []
 contributors: []

@@ -88,7 +88,8 @@ const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
 // cleaned diarized transcript). For PDF-baked work types, the emit-astro-md
 // step writes those fields INTO the markdown body, so the existing <Content/>
 // render handles them. We branch here to avoid double-rendering for PDFs.
-const isInterview = fm.work_type === "interview";
+// `lecture` shares the interview shape (diarized transcript + frontmatter summary).
+const isInterview = fm.work_type === "interview" || fm.work_type === "lecture";
 const interviewSummary = isInterview ? (fm.summary ?? "").trim() : "";
 const interviewKeyPoints = isInterview ? (fm.key_points ?? []) : [];
 

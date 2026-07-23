@@ -2,7 +2,7 @@
 id: how-i-stopped-worrying-and-learned-to-love-the-trade-deficit-sudha-shenoy
 title:
   main: How I Stopped Worrying and Learned to Love the Trade Deficit | Sudha Shenoy
-work_type: interview
+work_type: lecture
 authors:
 - sudha-r-shenoy
 editors: []
