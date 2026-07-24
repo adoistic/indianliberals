@@ -247,20 +247,20 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
       <figure class="mt-10" aria-label={`Primary works per decade, ${decadeMin}s to ${decadeMax}s`} data-reveal style="--reveal-delay: 160ms">
         <div class="histogram flex items-end gap-[3px] h-20 md:h-24">
           {decades.map((d, i) => {
-            const barClass = "histogram-bar block flex-1 rounded-t-[2px] bg-(--color-saffron-500)/70 hover:bg-(--color-saffron-700) transition-colors min-h-[2px]";
+            const barClass = "histogram-bar relative block flex-1 rounded-t-[2px] bg-(--color-saffron-500)/70 hover:bg-(--color-saffron-700) transition-colors min-h-[2px]";
             const barStyle = `height: ${d.count === 0 ? 2 : Math.max(4, Math.round((d.count / decadePeak) * 100))}%; --bar-delay: ${i * 28}ms`;
             const label = d.count === 1 ? "1 work" : `${d.count} works`;
-            const title = `${d.decade}s: ${label}`;
+            const tip = `${d.decade}s · ${label}`;
             return d.count > 0 ? (
               <a
                 href={`/primary-works/?decade=${d.decade}`}
                 class={barClass}
                 style={barStyle}
-                title={title}
+                data-tip={tip}
                 aria-label={`${label} from the ${d.decade}s`}
               />
             ) : (
-              <div class={barClass} style={barStyle} title={title} aria-hidden="true" />
+              <div class={barClass} style={barStyle} data-tip={tip} aria-hidden="true" />
             );
           })}
         </div>
@@ -550,6 +550,43 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
       @keyframes mosaic-drift {
         from { transform: translateY(0); }
         to { transform: translateY(-50%); }
+      }
+    }
+
+    /* Instant, styled tooltip on the works-per-decade bars — the intermediate
+       decades carry no visible axis label, so hovering (or keyboard-focusing)
+       a bar names its decade and count immediately, without the sluggish
+       native title delay. */
+    .histogram-bar::after {
+      content: attr(data-tip);
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-bottom: 6px;
+      padding: 3px 8px;
+      border-radius: 6px;
+      background: var(--color-fg);
+      color: var(--color-bg);
+      font-family: var(--font-ui);
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 1.1;
+      white-space: nowrap;
+      letter-spacing: 0.01em;
+      box-shadow: 0 2px 8px rgb(0 0 0 / 0.18);
+      opacity: 0;
+      pointer-events: none;
+      z-index: 20;
+      transition: opacity 0.12s ease;
+    }
+    .histogram-bar:hover::after,
+    .histogram-bar:focus-visible::after {
+      opacity: 1;
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .histogram-bar::after {
+        transition: opacity 0.12s ease;
       }
     }
 
