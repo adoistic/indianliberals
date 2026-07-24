@@ -2,7 +2,7 @@
 id: union-budget-1992-1993-by-nani-palkhivala
 title:
   main: Union Budget 1992-93 by Nani Palkhivala
-work_type: interview
+work_type: lecture
 authors: []
 editors: []
 contributors: []

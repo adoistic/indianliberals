@@ -318,6 +318,7 @@ const primaryWorks = defineCollection({
       'periodical_issue',
       'reference', // NEW — bibliography / dictionary / catalogue / index
       'interview',
+      'lecture', // NEW — formal named lecture (annual/memorial series, addresses); rendered under /lectures/
     ]),
     // Optional sub-type qualifier. See `purposeEnum` definition in schemas/extraction.ts.
     purpose: purposeEnum.optional(),
@@ -372,6 +373,12 @@ const primaryWorks = defineCollection({
     }),
     youtube_url: z.string().url().optional(),
     transcript_status: z.enum(['none', 'partial', 'complete', 'unavailable']).default('none'),
+    // Explicit editorial routing for video works (interview/lecture), preferred
+    // over the id-pattern heuristics in lib/interviews.ts. `video_group` places
+    // an interview on an /interviews/ shelf; `speaker_name` names the figure
+    // when the speaker has no thinker profile (so it can't live in `authors`).
+    video_group: z.enum(['oral', 'talks', 'explainers', 'conversations']).optional(),
+    speaker_name: z.string().optional(),
     // Editorial description (preserved verbatim from a migrated interview MD's body, if non-garbage).
     // Distinct from `summary` (the AI-generated synopsis emitted by Phase B enrichment).
     description: z.string().optional(),

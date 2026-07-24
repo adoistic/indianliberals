@@ -2,7 +2,7 @@
 id: the-case-against-neo-protectionism
 title:
   main: The Case Against Neo-Protectionism
-work_type: interview
+work_type: lecture
 authors: []
 editors: []
 contributors: []
