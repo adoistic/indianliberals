@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/jawaharlal-nehru-opposed-making-the-supreme-court-the-final-arbiter-of-compensation-a-ranganathan/960104/) on 2026-07-18. Originally published 2026-04-18. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/jawaharlal-nehru-opposed-making-the-supreme-court-the-final-arbiter-of-compensation-a-ranganathan/960104/) on 2026-07-25. Originally published 2026-04-18. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # जवाहरलाल नेहरू ने सुप्रीम कोर्ट को मुआवज़े का अंतिम निर्णायक बनाने का विरोध किया: ए. रंगनाथन
 

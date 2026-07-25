@@ -1,45 +1,45 @@
 ---
-id: power-of-trade-unions-mh-mody
-title: "Why legal provisions are necessary to curb the power of trade unions: MH Mody"
-pubDate: 2026-02-21T11:04:08
-author_name: "MH Mody"
-theprint_url: "https://theprint.in/opinion/indian-liberals-matter/power-of-trade-unions-mh-mody/2859967/"
+id: "power-of-trade-unions-mh-mody"
+title: "ट्रेड यूनियनों की शक्ति पर नियंत्रण के लिए कानूनी प्रावधान क्यों जरूरी हैं: एमएच मोदी"
+pubDate: 2026-02-21T06:40:18.000Z
+author_name: "एमएच मोदी"
+theprint_url: "https://hindi.theprint.in/indianliberalsmatter/power-of-trade-unions-mh-mody/936385/"
 hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2020/05/Workers-union.jpg"
-themes: ["trade-union"]
-related_thinkers: ["mh-mody"]
+language: "hi"
+themes: []
+related_thinkers: []
 related_works: []
 noindex: true
 needs_review: true
 draft: false
-
 ---
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/power-of-trade-unions-mh-mody/936385/) on 2026-07-25. Originally published 2026-02-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/power-of-trade-unions-mh-mody/2859967/) on 2026-05-16. Originally published 2026-02-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+# ट्रेड यूनियनों की शक्ति पर नियंत्रण के लिए कानूनी प्रावधान क्यों जरूरी हैं: एमएच मोदी
 
-# Why legal provisions are necessary to curb the power of trade unions: MH Mody
+आज दुनिया की तमाम बड़ी अर्थव्यवस्थाओं में श्रमिक संघ आंदोलनों की महत्वपूर्ण भूमिका हो गई है. यहां तक कि जिन कम्युनिस्ट देशों में इसे बेरहमी से दबाया जाता है, वहां भी ये यूनियनें अपनी मांगें मनवाने के लिए सिस्टम पर दबाव बनाने में कामयाब रहती हैं. पोलैंड में हाल ही में जो कुछ हुआ, वह इसका जीता-जागता उदाहरण है कि कम्युनिस्ट देशों में भी ये आंदोलन क्या कर सकते हैं.
 
-The trade union movement has come to play a very significant role in all the advanced economies of the world. Even where the movement is ruthlessly suppressed, as in communist countries, it still exerts a pressure upon the system to achieve some of its ends. Recent developments in Poland are an illustration of what could happen even in communist countries.
+भारत और ज्यादातर पश्चिमी देशों में ट्रेड यूनियन शुरू करने का असली मकसद मजदूरों के कामकाज के हालात सुधारना था. इसमें कोई दो राय नहीं कि शुरुआती दौर में इन श्रमिक संघों ने मजदूरों की हालत बेहतर बनाने में बहुत बड़ा योगदान दिया. आज भी अर्थव्यवस्था के कई हिस्सों में ईमानदारी से यूनियन चलाने की जरूरत है.
 
-The trade union movement in most western countries as well as in India was started to improve the working conditions of the work force. There is no question that they made a very substantial contribution, in the early stages of the movement, to ameliorating the conditions of the working classes and there is scope even now for *bona fide* trade union activities in certain sectors of the economy. But trade union bosses soon came to realise that their power lay not only in their capacity to withhold their labour from the employer. In a modern democracy, they had also acquired the power to influence, if not actually to coerce, the political system. The trade union movement therefore has become a very important and significant part of the political system in most countries, except possibly in America where, in spite of the power which they have, the trade unions have continued to have a healthy distrust of the political system.
+लेकिन जल्दी ही यूनियनों के बड़े नेताओं को यह समझ आ गया कि उनकी असली ताकत सिर्फ काम रोकने या हड़ताल करने में नहीं है. आधुनिक लोकतंत्र ने उन्हें वह शक्ति प्रदान की है जिससे वे पूरी राजनीतिक व्यवस्था को प्रभावित कर सकें, या कहें कि उसे अपनी बात मनवाने पर मजबूर कर सकें. यही वजह है कि ज्यादातर देशों में ट्रेड यूनियन अब राजनीति का एक अहम हिस्सा बन गई हैं. हालांकि, अमेरिका थोड़ा अलग है. वहां यूनियनों के पास ताकत तो बहुत है, लेकिन वे आज भी राजनीतिक सिस्टम से एक दूरी बनाकर रखती हैं और उस पर पूरी तरह भरोसा नहीं करतीं.
 
-Employers themselves have contributed not a little to add to the power of the trade unions. This happens where they are engaged in activities which are of a monopolistic or oligopolistic nature, or where the goods are in short supply as in the controlled economies of the developing countries. Employers have in these circumstances not hesitated to arrive at liberal settlements with their trade unions in paying wages and other benefits which are totally out of line with their skills, or comparable levels of salary in other industries. In India, for instance, many employers, in spite of a legal provision to the contrary, have made under various guises settlements involving payment of bonus at rates of 35 to 40 per cent. This they have been able to do because they have felt confident that the increased burden will be passed on to the consumer in the form of higher prices without in any way impairing the profitability of their businesses. We have instances now of large public companies where company drivers appear in the list of persons drawing a remuneration of more than Rs. 3,000 per month and yet there are people who even today pay a salary of Rs 300 per month to the drivers employed by them.
+नियोक्ताओं ने स्वयं भी ट्रेड यूनियनों की शक्ति बढ़ाने में कम योगदान नहीं दिया है. ऐसा उन स्थितियों में होता है जब वे ऐसे कार्यों में संलग्न होते हैं जिनकी प्रकृति एकाधिकारवादी या अल्पाधिकारवादी होती है, या जब वस्तुओं की कमी होती है, जैसा कि विकासशील देशों की नियंत्रित अर्थव्यवस्थाओं में देखा जाता है.
 
-By a tacit concurrence, businessmen and trade unions are able to raise the wages of their work forces only at the expense of reducing employment opportunities or at the expense of other workers who receive lower wages. Several economists have felt that collective bargaining will inevitably lead to an increase in both unemployment and the rate of inflation.
+इन परिस्थितियों में नियोक्ताओं ने अपनी ट्रेड यूनियनों के साथ उदार समझौते करने में संकोच नहीं किया है, जिनके अंतर्गत वे ऐसे वेतन और अन्य लाभ प्रदान करते हैं जो कर्मचारियों की योग्यता या अन्य उद्योगों में तुलनीय वेतन स्तरों की तुलना में बिल्कुल असंगत होते हैं.
 
-I think that it is necessary to make suitable legal provisions for curbing the power of the trade unions along the following lines:-
+उदाहरण के लिए, भारत में अनेक नियोक्ताओं ने, विपरीत कानूनी प्रावधान होने के बावजूद, विभिन्न बहानों के तहत 35 से 40 प्रतिशत की दर से बोनस देने वाले समझौते किए हैं. वे ऐसा इसलिए कर पाए क्योंकि उन्हें विश्वास था कि इस अतिरिक्त बोझ को वे ऊंची कीमतों के रूप में उपभोक्ताओं पर डाल सकेंगे, वो भी अपने व्यवसाय की लाभप्रदता को किसी भी प्रकार से प्रभावित किए बिना.
 
-(a) Elimination of inter-union rivalry through a provision that only one union will be recognised as a bargaining agent in any manufacturing enterprise.
+अब हमारे पास बड़े सार्वजनिक उपक्रमों के उदाहरण हैं जहां कंपनी के ड्राइवर उन व्यक्तियों की सूची में दिखाई देते हैं जिन्हें प्रति माह 3,000 रुपये से अधिक पारिश्रमिक मिलता है, जबकि आज भी कुछ लोग अपने यहां कार्यरत ड्राइवरों को मात्र 300 रुपये प्रतिमाह वेतन देते हैं.
 
-(b) In order that the actual status of the union can be ascertained, a system of union checkoff must be introduced so that union contributions can be collected in a *bona-fide* and voluntary manner.
+व्यवसायियों और ट्रेड यूनियनों की एक मौन सहमति के परिणामस्वरूप वे अपने कर्मचारियों के वेतन में वृद्धि केवल रोजगार के अवसरों में कमी करके या उन अन्य श्रमिकों की कीमत पर कर सकते हैं जो कम वेतन प्राप्त करते हैं. कई अर्थशास्त्रियों का मत रहा है कि सामूहिक सौदेबाज़ी अनिवार्य रूप से बेरोज़गारी तथा मुद्रास्फीति दोनों में वृद्धि का कारण बनेगी.
 
-(c) All contracts entered into by a union would be legally binding and the union and its officials would be liable for financial and other penalties for breach of contracts as in the case of any other commercial contract.
+मेरा मानना है कि ट्रेड यूनियनों की शक्ति को नियंत्रित करने के लिए निम्नलिखित तरीके से उचित कानूनी प्रावधान करना आवश्यक है.
 
-(d) No strikes can be started except as a result of a strike ballot and with the support of a majority of the work force, whether unionised or not.
+- अलग-अलग यूनियनों के बीच होने वाली प्रतिस्पर्धा को समाप्त किया जाए. इसके लिए यह व्यवस्था हो कि किसी भी विनिर्माण इकाई में केवल एक ही यूनियन को वार्ता के प्रतिनिधि के रूप में मान्यता दी जाए.
+- यूनियन की वास्तविक स्थिति का पता लगाने के लिए यूनियन चेक-ऑफ प्रणाली लागू की जाए, ताकि यूनियनों के अंशदानों को सही और स्वैच्छिक तरीके से एकत्र किया जा सके.
+- यूनियन द्वारा किए गए सभी समझौते कानूनी रूप से बाध्यकारी हों. यदि समझौते का उल्लंघन हो, तो यूनियन और उसके पदाधिकारी भी अन्य व्यावसायिक अनुबंधों की तरह आर्थिक और अन्य दंड के लिए जिम्मेदार हों.
+- हड़ताल तभी शुरू की जा सके जब उसके लिए मतदान कराया गया हो और उसे कुल कार्यबल, चाहे वे यूनियन के सदस्य हों या नहीं, के बहुमत का समर्थन प्राप्त हो.
 
-The collusion between the new class of bureaucrats, politicians, businessmen and trade union bosses perpetuates itself partly because of the short-run benefits and also partly because they see no way out of the system. The average businessman realises that his profits in the existing system are only illusory. They are the profits of inflation. The real worth of his enterprise is not going to sustain him long. The bureaucrat is also aware of the limits to the fiscal capacity of the government, and of the fact that the bureaucracy’s expenditure of government resources does not create my great wealth. 
+***यह लेख [सेंटर फ़ॉर सिविल सोसाइटी](https://ccs.in/) की [इंडियन लिबरल्स परियोजना](https://indianliberals.in/) नामक इंडियन लिबरल्स आर्काइव की सीरीज़ का हिस्सा है. *इस लेख को ‘फोरम ऑफ फ्री एंटरप्राइज़’ से लिया गया है, जिसका प्रकाशन दिसंबर 1980 में हुआ था. *मूल संस्करण को पढ़ने के लिए यहां [क्लिक](https://indianliberals.in/forum-of-free-enterprise/the-new-class-in-a-state-dominated-economy-by-mh-moody-1980.pdf) करें.***
 
-As has been demonstrated in India, the limit of taxation is reached soon enough and there are therefore no additional resources available. Hence the constant complaint of the politician, at least in this country, of a resource constraint. The politician too nurses a fear that if the economy does not grow, it would be prone to internal turbulence as well as external dangers. The trade union bosses know only too well that their action has reduced the growth of employment, and the rapidly growing but unorganised group of rural workers, the self-employed and the workers in the unorganised sector constitute a threat to their cosy system.
-
-It is time now that the bureaucrat, the politician, the businessman and the trade union boss shed their cloak of pretence and open up to the real issues that threaten a bleak future. If they begin to be true to themselves and prepare themselves for a workable reform, there should not be any question about their being able to change the system. A vicious system is not amenable to change, without those operating it themselves accepting the need for reform. I feel that the time has now come for this. There.is a slow recognition even in our country that there is a need for a radical reform of the present system. There is, still a lot of groping in the dark about what needs to be done but I personally feel that it is a hopeful sign that there is a recognition of the need for reform.
-
-*This essay is part of a series from the [Indian Liberals archive](https://indianliberals.in))**, a project of the [Centre for Civil Society](https://ccs.in))**. This article is excerpted from an essay titled ‘The New Class in a State Dominated Economy’ by MH Mody, published in the journal “Forum of Free Enterprise” in December 1980. The original version can be read [here](https://indianliberals.in/forum-of-free-enterprise/the-new-class-in-a-state-dominated-economy-by-mh-moody-1980.pdf).*
+**यह भी पढ़ें: [मार्क्सवाद सत्ता में आते ही लोकतांत्रिक अधिकारों को खत्म कर देता है: एमए वेंकट राव](https://hindi.theprint.in/indianliberalsmatter/marxism-abolishes-democratic-rights-as-soon-as-it-comes-to-power-m-a-venkat-rao/923982/)**
