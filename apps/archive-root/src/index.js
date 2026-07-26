@@ -74,7 +74,13 @@ export default {
       const start = object.range.offset ?? 0;
       const length = object.range.length ?? object.size - start;
       headers.set("content-range", `bytes ${start}-${start + length - 1}/${object.size}`);
+      headers.set("content-length", String(length));
       status = 206;
+    } else {
+      // writeHttpMetadata does NOT set content-length. Without this a HEAD —
+      // which carries no body to infer the size from — advertises 0 bytes, so
+      // crawlers and download managers see every document as empty.
+      headers.set("content-length", String(object.size));
     }
 
     return new Response(request.method === "HEAD" ? null : object.body, { status, headers });

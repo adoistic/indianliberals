@@ -58,6 +58,20 @@ for (const w of works) {
 
 const totalCount = works.length;
 
+// The language a reader is filtering for is the language of the DOCUMENT, which
+// is `publication.language`. The top-level `language` is a different thing — it
+// is the locale the entry's page is routed under, and for a stretch of the
+// archive the two disagree: 65 works (the whole Shetkari Sanghatak run, both
+// Bengali tracts, four Hindi works) carry publication.language mr/bn/hi while
+// their top-level language was never set, so they defaulted to English. Faceting
+// on the routing field made those documents unfindable by their own language,
+// and made Bengali vanish from the filter entirely.
+//
+// So: facet on the document's language, but keep routing on the entry's locale
+// (see pathForEntry below) — the page genuinely lives where it lives.
+const textLanguage = (w: (typeof works)[number]) =>
+  w.data.publication?.language ?? w.data.language ?? "en";
+
 // Build facet vocabularies for the filter UI.
 const typeCounts = new Map<string, number>();
 const themeCounts = new Map<string, number>();
@@ -65,7 +79,7 @@ const languageCounts = new Map<string, number>();
 for (const w of works) {
   const t = w.data.work_type;
   typeCounts.set(t, (typeCounts.get(t) ?? 0) + 1);
-  const lang = w.data.language ?? "en";
+  const lang = textLanguage(w);
   languageCounts.set(lang, (languageCounts.get(lang) ?? 0) + 1);
   for (const th of w.data.themes ?? []) {
     themeCounts.set(th, (themeCounts.get(th) ?? 0) + 1);
@@ -290,7 +304,7 @@ function themesAttr(w: (typeof works)[number]): string {
                 data-type={w.data.work_type}
                 data-decade={String(d.start)}
                 data-themes={themesAttr(w)}
-                data-language={w.data.language ?? "en"}
+                data-language={textLanguage(w)}
               >
                 <a href={pathForEntry("primary-works", w.id, (w.data.language ?? "en") as LangCode)} class="group block no-underline h-full">
                   <div class="aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) transition-shadow group-hover:shadow-md relative">
