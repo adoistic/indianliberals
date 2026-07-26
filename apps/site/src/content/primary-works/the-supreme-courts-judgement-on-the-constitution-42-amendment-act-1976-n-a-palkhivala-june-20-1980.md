@@ -1,19 +1,21 @@
 ---
 id: the-supreme-courts-judgement-on-the-constitution-42-amendment-act-1976-n-a-palkhivala-june-20-1980
 title:
-  main: "The Supreme Court's Judgment on the Constitution (42nd Amendment) Act, 1976"
+  main: The Supreme Court's Judgment on the Constitution (42nd Amendment) Act, 1976
   subtitle: Rekindling the Light of the Constitution
 work_type: essay
 authors:
-  - nani-palkhivala
+- nani-palkhivala
 editors: []
 contributors: []
 related_thinkers:
-  - indira-gandhi
+- indira-gandhi
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay-400001, and printed at TATA PRESS Ltd., 414, Veer Savarkar Marg, Prabhadevi, Bombay-400 025.
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay-400001, and printed at TATA PRESS Ltd., 414, Veer
+    Savarkar Marg, Prabhadevi, Bombay-400 025.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1980
@@ -22,18 +24,37 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-supreme-courts-judgement-on-the-constitution-42-amendment-act-1976-n-a-palkhivala-june-20-1980.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-supreme-courts-judgement-on-the-constitution-42-amendment-act-1976-n-a-palkhivala-june-20-1980.webp"
+cover_image: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-supreme-courts-judgement-on-the-constitution-42-amendment-act-1976-n-a-palkhivala-june-20-1980.webp
 rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - constitutionalism
-  - rule-of-law
-  - individual-freedom
-  - judiciary
-summary: "In this Forum of Free Enterprise booklet, the jurist N. A. Palkhivala welcomes the Supreme Court's judgment striking down Sections 4 and 55 of the Constitution (Forty-Second Amendment) Act, 1976, framing it as the rekindling of 'the light of the Constitution' that had been extinguished when the Amendment was rushed through Parliament during the Emergency, days after Divali 1976. He argues that the Constitution is the priceless heritage of every Indian, designed to keep the country rich in individual freedom even while poor in per capita income, and that the Supreme Court's role is to act as its watchdog rather than the poodle of the party in power.\n\nDrawing on the basic-structure doctrine of Kesavananda Bharati (1973) and its application in the 1976 case voiding the constitutional amendment that shielded the Prime Minister's election, Palkhivala contends that Parliament, being a creature of the Constitution, cannot use its amending power under Article 368 to destroy the Constitution's basic structure.…"
+- constitutionalism
+- rule-of-law
+- individual-freedom
+- judiciary
+- judicial-review
+- individual-liberty
+- emergency
+- separation-of-powers
+summary: 'In this Forum of Free Enterprise booklet, the jurist N. A. Palkhivala welcomes
+  the Supreme Court''s judgment striking down Sections 4 and 55 of the Constitution
+  (Forty-Second Amendment) Act, 1976, framing it as the rekindling of ''the light
+  of the Constitution'' that had been extinguished when the Amendment was rushed through
+  Parliament during the Emergency, days after Divali 1976. He argues that the Constitution
+  is the priceless heritage of every Indian, designed to keep the country rich in
+  individual freedom even while poor in per capita income, and that the Supreme Court''s
+  role is to act as its watchdog rather than the poodle of the party in power.
+
+
+  Drawing on the basic-structure doctrine of Kesavananda Bharati (1973) and its application
+  in the 1976 case voiding the constitutional amendment that shielded the Prime Minister''s
+  election, Palkhivala contends that Parliament, being a creature of the Constitution,
+  cannot use its amending power under Article 368 to destroy the Constitution''s basic
+  structure.…'
 needs_review: true
 draft: false
 ai:
@@ -44,7 +65,8 @@ physical:
   pages_rendered: 13
   pages_total: 13
   pages_total_source: pypdfium2
-  format: FFE booklet/pamphlet; text reprinted from Indian Express (May 16 and 17, 1980)
+  format: FFE booklet/pamphlet; text reprinted from Indian Express (May 16 and 17,
+    1980)
 ---
 
 # The Supreme Court's Judgment on the Constitution (42nd Amendment) Act, 1976

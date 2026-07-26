@@ -2,17 +2,19 @@
 id: administrators-managers-and-leadership-by-deepak-parekh-1997
 title:
   main: Administrators, Managers and Leadership
-  subtitle: ""
+  subtitle: ''
 work_type: speech
 authors:
-  - deepak-parekh
+- deepak-parekh
 editors: []
 contributors: []
-related_thinkers: []
+related_thinkers:
+- a-d-shroff
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, MUMBAI 400001.
+  publisher_name: FORUM OF FREE ENTERPRISE, PIRAMAL MANSION, 235 DR. D. N. ROAD, MUMBAI
+    400001.
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 1997
@@ -21,17 +23,38 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/administrators-managers-and-leadership-by-deepak-parekh-1997.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/administrators-managers-and-leadership-by-deepak-parekh-1997.webp"
+cover_image: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/administrators-managers-and-leadership-by-deepak-parekh-1997.webp
 rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - governance
-  - economic-reform
-  - civil-society
-summary: "Delivered as the Lalit Doshi Memorial Lecture in Mumbai on 4th August 1997 and reprinted by the Forum of Free Enterprise, Deepak Parekh — then Chairman of HDFC — uses the occasion to argue that India's bureaucratic cadre must consciously evolve from administrators into managers and finally into leaders. He sketches the three roles as a developmental arc: the administrator ensures that decisions are executed and rules followed; the manager organises and reacts to information and external stimuli; the leader overlays both with risk-taking, vision, and the charisma to inspire willing followers. The lecture is anchored in the contention that the ICS legacy inherited from the British, while disciplined, produced a rule-bound and at times elitist civil service whose attitudes must now be re-engineered in step with India's liberalisation.\n\nThe core argument unfolds through a discussion of the emerging environment.…"
+- governance
+- economic-reform
+- civil-society
+- leadership
+- bureaucracy
+- private-sector
+- civil-services
+- management
+summary: 'Delivered as the Lalit Doshi Memorial Lecture in Mumbai on 4 August 1997
+  and reprinted by the Forum of Free Enterprise, Deepak Parekh''s address argues that
+  India''s post-liberalisation moment demands a deliberate metamorphosis of its civil
+  services from rule-bound administrators into managers and, ultimately, leaders.
+  Parekh begins by distinguishing the three roles: an administrator ensures decisions
+  are executed and rules followed; a manager organises people and information to react
+  to external stimuli; a leader adds risk-taking, foresight and the charisma to inspire
+  willing followers. He treats his late friend Lalit Doshi as the case study — a celebrated
+  IAS officer whose work on inward investment to Maharashtra showed bureaucracy at
+  its best.
+
+
+  The core diagnosis is that the ICS-to-IAS legacy bred an elitist, rule-bound officialdom
+  that suited an information-scarce industrial age but is now obsolete. With liberalisation,
+  the state must shrink from patron-licenser-enforcer to partner-facilitator. Parekh
+  borrows the Singapore Inc.…'
 needs_review: true
 draft: false
 ai:
@@ -45,31 +68,33 @@ physical:
   pages_total_source: pypdfium2
   format: pamphlet (paperback booklet)
 missing_metadata_flags:
-  - year_not_printed_on_title_page
-  - colophon_not_seen
+- year_not_printed_on_title_page
+- colophon_not_seen
 ---
 ## Summary
 
-Delivered as the Lalit Doshi Memorial Lecture in Mumbai on 4th August 1997 and reprinted by the Forum of Free Enterprise, Deepak Parekh — then Chairman of HDFC — uses the occasion to argue that India's bureaucratic cadre must consciously evolve from administrators into managers and finally into leaders. He sketches the three roles as a developmental arc: the administrator ensures that decisions are executed and rules followed; the manager organises and reacts to information and external stimuli; the leader overlays both with risk-taking, vision, and the charisma to inspire willing followers. The lecture is anchored in the contention that the ICS legacy inherited from the British, while disciplined, produced a rule-bound and at times elitist civil service whose attitudes must now be re-engineered in step with India's liberalisation.
+Delivered as the Lalit Doshi Memorial Lecture in Mumbai on 4 August 1997 and reprinted by the Forum of Free Enterprise, Deepak Parekh's address argues that India's post-liberalisation moment demands a deliberate metamorphosis of its civil services from rule-bound administrators into managers and, ultimately, leaders. Parekh begins by distinguishing the three roles: an administrator ensures decisions are executed and rules followed; a manager organises people and information to react to external stimuli; a leader adds risk-taking, foresight and the charisma to inspire willing followers. He treats his late friend Lalit Doshi as the case study — a celebrated IAS officer whose work on inward investment to Maharashtra showed bureaucracy at its best.
 
-The core argument unfolds through a discussion of the emerging environment. With governments rightly retreating from breadmaking and bicycles, Parekh insists that bureaucracy must shift from patron, licenser and enforcer to facilitator and partner — a transition he illustrates with Singapore Inc., where the head of state delivers an annual chairman-style report and the civil services work in tandem with private enterprise. He maps the same arc on to career progression: an IAS probationer should hone administrative skills until the level of director, develop managerial skills up to joint secretary, and be groomed for leadership thereafter, much as a corporate Vice-President is prepared for a CEO role. Examples from the central, state and PSU cadres convince him that the talent exists; the problem is that too few make the full transition, and that top slots are too often filled with officers carrying only a few months of residual tenure — a structural design that makes vision and judgement calls almost impossible.
+The core diagnosis is that the ICS-to-IAS legacy bred an elitist, rule-bound officialdom that suited an information-scarce industrial age but is now obsolete. With liberalisation, the state must shrink from patron-licenser-enforcer to partner-facilitator. Parekh borrows the Singapore Inc. analogy — civil services working in tandem with the private sector, with the head of state issuing a chairman's-style annual report — and urges India's bureaucracy to follow CEOs in evolving from administrator to manager to leader. He calls for in-service training (Stanford, Oxford-style executive courses), lateral entry of private-sector talent, and the cultivation of specialists alongside generalists.
 
-The second half turns to governance. Corporate governance in family-run private firms needs strengthening, but Parekh reserves his sharpest critique for public-sector corporate governance, where PSU boards are subservient to ministries, government nominees crowd out independent representation, and managements are encouraged to maintain the status quo. He extends the same diagnostic to the state itself: a peculiarly complex legal, fiscal and regulatory environment that regulates rather than supervises and complicates rather than clarifies, producing what he memorably calls a 'corruption tax'. The remedy is a concerted re-engineering of government procedures — the famous file-noting system, he argues, suits rule-based administration but breaks down under public-private partnership where judgement calls are routine — together with the development of specialists inside the civil service and a willingness to draw talent from the private sector. The rendered chunk closes as Parekh begins his final section on what constitutes a good leader, naming customers and employees as the two constituencies that emerging leaders must serve.
+On governance, Parekh argues that the loudest deficits sit in the public sector: PSU boards subservient to ministries, CEO appointments delayed, and accountability missing. He attacks the "peculiarly complex legal, fiscal and regulatory" environment that "regulates rather than supervises; complicates rather than clarifies" and coins the line that complexity generates "a corruption tax which accrue to others rather than the exchequer." Two structural pathologies receive special censure: the colonial-era filing system, ill-suited to public-private partnership projects that require quick judgement calls, and the practice of filling top bureaucratic slots with officers who have only months of tenure left — leaving them risk-averse, especially given the threat that pensions could be revoked years into retirement.
+
+Parekh closes by sketching the leader of tomorrow: customer-and-employee facing, willing to re-engineer government as the corporate sector has re-engineered itself, and citing IL&FS as proof that talented IAS officers, given specialist roles, deliver outsized results. The rendered chunk runs through page 18 of a 24-page pamphlet; the closing pages on what constitutes a good leader continue beyond this set.
 
 ## Key points
 
-- Parekh posits a three-tier developmental arc — administrator (rule-executor), manager (process-organiser and information-handler), and leader (risk-taker with vision and the charisma to inspire willing followers).
+- Frames a three-tier hierarchy — administrator, manager, leader — and argues that India's civil services must climb it, with probationers honing administrative skills to director level, joint secretaries shifting to managerial focus, and senior bureaucrats consciously cultivating leadership.
 
-- He attributes the rule-bound, sometimes elitist character of the Indian bureaucracy to its ICS inheritance and argues that liberalisation now demands a shift in approach and a segmentation of roles.
+- Treats the ICS/IAS legacy as a rule-bound, elitist inheritance suited to an information-scarce industrial age but obsolete in an information-rich, liberalised economy where government must become a partner and facilitator, not a patron-licenser-enforcer.
 
-- Career segmentation should mirror corporate grooming: administrative skill at probationer-to-director level, managerial skill from joint secretary onward, and conscious leadership development at the top.
+- Proposes Singapore Inc. as a model: civil services working in tandem with the private sector under a unified national framework, with the head of state issuing a chairman-style annual report on the country's balance sheet.
 
-- The role of the state must move from patron, licenser and enforcer to partner, facilitator and regulator — illustrated through the Singapore Inc. model and through India's own creation of bodies like NHAI and TRAI.
+- Diagnoses public-sector governance as the real corporate-governance crisis — PSU boards subservient to ministries, CEO appointments delayed, accountability absent — and contrasts this with private-sector AGMs scrutinised by analysts and financial journalists.
 
-- Public-sector corporate governance is the weakest link: PSU boards are subservient to ministries, lack independent representation, and managements are pushed toward inertia rather than risk.
+- Attacks India's regulatory complexity as itself a corruption-generating mechanism, coining the line that complexity is a "corruption tax which accrue to others rather than the exchequer."
 
-- A peculiarly complex Indian regulatory environment regulates rather than supervises and complicates rather than clarifies, producing what Parekh terms a 'corruption tax' that accrues to others rather than the exchequer.
+- Identifies two structural pathologies of governance: the century-old colonial filing system, which breaks down on judgement-call decisions needed for public-private partnership projects; and the practice of filling top bureaucratic slots with officers whose residual tenure is only months, sapping vision and risk appetite.
 
-- Filling the highest bureaucratic slots with officers who have only months of residual service makes leadership impossible, since no CEO can lead within a horizon of a few months.
+- Notes that the threat of post-retirement pension revocation and decades-later allegations from junior officers' file notings disincentivises bureaucrats from making honest judgement calls — a candid defence of risk-averse senior officials.
 
-- Civil services need to cultivate specialists alongside generalists and should be opened more systematically to talent from the private sector, as Parekh has done at IL&FS.
+- Calls for specialist tracks within the civil services alongside general-management grooming, and for opening the doors consciously to private-sector lateral entry, citing IL&FS's success in deploying seconded IAS officers.

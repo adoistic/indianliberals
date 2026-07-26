@@ -5,14 +5,16 @@ title:
   subtitle: Bypassing Parliamentary Select Committee
 work_type: speech
 authors:
-  - nani-palkhivala
+- nani-palkhivala
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise
-  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, 235, Dr. Dadabhai Naoroji Road, Bombay-400 001, and printed at TATA PRESS Ltd., 414, Veer Savarkar Marg, Prabhadevi, Bombay 400 025.
+  publisher_name: Published by M. R. PAI for the Forum of Free Enterprise, 235, Dr.
+    Dadabhai Naoroji Road, Bombay-400 001, and printed at TATA PRESS Ltd., 414, Veer
+    Savarkar Marg, Prabhadevi, Bombay 400 025.
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1995
@@ -21,18 +23,40 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-union-budget-1995-96-by-passing-parliamentary-select-comittee-n-a-palkhivala-march-21-1995.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-union-budget-1995-96-by-passing-parliamentary-select-comittee-n-a-palkhivala-march-21-1995.webp"
+cover_image: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-union-budget-1995-96-by-passing-parliamentary-select-comittee-n-a-palkhivala-march-21-1995.webp
 rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - fiscal-policy
-  - economic-liberty
-  - free-trade
-  - capitalism-defence
-summary: "In this Forum of Free Enterprise booklet, drawn from a Plus Channel / Doordarshan presentation of 18 March 1995 and follow-up newspaper articles, Nani A. Palkhivala reviews the Union Budget of 1995-96 — the fifth framed by Dr. Manmohan Singh, whom he characterises as having shifted from 'the technocrat' to 'the politician.' He judges the budget's chief merit to be continuity: it sustains the trajectory of lower taxes, liberalization, and globalization set by the first four reform budgets, with no retreat from those ideals. His central criticism is that the Finance Minister has taken no fresh step forward in any new direction, and he rejects the reading that recent state-election results were a popular rejection of reform, attributing them instead to public disgust with corruption and the inefficiency of those in power.\n\nPalkhivala renews specific tax grievances: the personal-tax exemption threshold (raised only from Rs. 35,000 to Rs.…"
+- fiscal-policy
+- economic-liberty
+- free-trade
+- capitalism-defence
+- economic-liberalization
+- free-market
+- taxation
+- globalization
+- economic-reform
+summary: 'In this Forum of Free Enterprise booklet, Nani A. Palkhivala — the Forum''s
+  President — appraises Dr. Manmohan Singh''s 1995-96 Union Budget, the fifth and,
+  in his reading, weakest of Singh''s budgets. He praises the broad continuity of
+  the reform agenda — lower taxes, liberalization, globalization — and rejects the
+  idea that the recent state-election losses were a popular rejection of reform, arguing
+  instead that voters punished corruption and inefficiency. His central criticism
+  is that the Finance Minister failed to advance the reforms: no concrete move to
+  deregulate insurance despite the Malhotra Committee''s recommendations, an inadequate
+  raising of the personal income-tax exemption threshold against rupee erosion, and
+  a fiscal deficit likely to exceed target.
+
+
+  The sharper part of the booklet, reflected in its subtitle ''Bypassing Parliamentary
+  Select Committee'', is a lawyer''s indictment of specific Finance Bill provisions
+  that, Palkhivala argues, breach faith and good tax law: the withdrawal of investment-allowance
+  and development-rebate reliefs without notice, the proposal to let the Central Government
+  prescribe accounting standards by executive notification under Section 145 (t…'
 needs_review: true
 draft: false
 ai:
