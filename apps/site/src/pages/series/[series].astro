@@ -1,0 +1,123 @@
+---
+// One run: /series/<id>/ lists the works in a single named series, ordered by
+// printed number where the run is numbered and by date otherwise.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
+import {
+  getAllSeriesGroups,
+  itemYear,
+  ordinalOf,
+  workHref,
+  KIND_LABEL,
+  type SeriesGroup,
+} from "~/lib/series";
+
+export async function getStaticPaths() {
+  const groups = await getAllSeriesGroups();
+  return groups.map((g) => ({ params: { series: g.entry.id }, props: { group: g } }));
+}
+
+const { group } = Astro.props as { group: SeriesGroup };
+const g = group;
+const d = g.entry.data;
+const parent = d.parent_series
+  ? (await getAllSeriesGroups()).find((x) => x.entry.id === d.parent_series)
+  : undefined;
+const numberedCount = g.items.filter((w) => ordinalOf(w) !== null).length;
+---
+
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: `/series/${g.entry.id}/`, name: d.name }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Series", "/series/"],
+      [d.name, `/series/${g.entry.id}/`],
+    ]),
+  ]}
+  title={`${d.name} · Series · Indian Liberals`}
+  description={`${g.items.length} work${g.items.length === 1 ? "" : "s"} in the ${d.name}${g.yearRange ? ` (${g.yearRange})` : ""}, indexed with metadata and AI summaries.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        <a href="/series/" class="hover:text-(--color-fg)">Series</a>
+        {parent && (
+          <>
+            <span aria-hidden> / </span>
+            <a href={`/series/${parent.entry.id}/`} class="hover:text-(--color-fg)">
+              {parent.entry.data.name}
+            </a>
+          </>
+        )}
+        <span aria-hidden> / </span>{d.name}
+      </p>
+      <h1 class="text-(--color-fg) mb-2 font-(family-name:--font-display)">{d.name}</h1>
+      <p class="text-(--color-fg-muted) text-sm mb-4 font-(family-name:--font-ui)">
+        {KIND_LABEL[d.kind]} · {g.items.length === 1 ? "1 work" : `${g.items.length} works`}
+        {g.yearRange && ` · ${g.yearRange}`}
+      </p>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{d.blurb}</p>
+
+      {d.numbered && g.gaps.length > 0 && (
+        <p class="text-(--color-fg-muted) text-xs mt-4 font-(family-name:--font-ui) border-l-2 border-(--color-border) pl-3">
+          Numbered run, incomplete: {numberedCount} of {g.items.length} works here
+          carry a confirmed number. Missing below No. {Math.max(...g.ordinals)}
+          — {g.gaps.join(", ")}.
+        </p>
+      )}
+
+      {g.children.length > 0 && (
+        <p class="text-sm mt-4 font-(family-name:--font-ui)">
+          <span class="text-(--color-fg-muted)">Sub-series: </span>
+          {g.children.map((c, i) => (
+            <>
+              {i > 0 && <span class="text-(--color-fg-muted)"> · </span>}
+              <a href={`/series/${c.entry.id}/`} class="text-(--color-forest-700)">
+                {c.entry.data.name} ({c.items.length})
+              </a>
+            </>
+          ))}
+        </p>
+      )}
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
+      {g.items.map((w) => (
+        <li>
+          <a
+            href={workHref(w)}
+            class="block h-full bg-(--color-bg) border border-(--color-border) rounded overflow-hidden no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+          >
+            {w.data.cover_image && (
+              <div class="aspect-[3/4] bg-(--color-bg-muted) border-b border-(--color-border) overflow-hidden">
+                <img
+                  src={w.data.cover_image}
+                  alt=""
+                  width="240"
+                  height="320"
+                  loading="lazy"
+                  class="w-full h-full object-cover object-top group-hover:scale-[1.03] transition-transform duration-300"
+                />
+              </div>
+            )}
+            <div class="p-3">
+              {ordinalOf(w) !== null && (
+                <span class="inline-block px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-semibold bg-(--color-saffron-100) text-(--color-saffron-700) mb-1">
+                  No. {ordinalOf(w)}
+                </span>
+              )}
+              <h2 class="text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-3">
+                {w.data.title.main}
+              </h2>
+              <p class="text-xs text-(--color-fg-muted) mt-1">{itemYear(w) ?? "—"}</p>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

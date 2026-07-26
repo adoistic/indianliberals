@@ -32,6 +32,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1970
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -104,6 +105,24 @@ authors_resolution:
 This pamphlet collects the background papers prepared for the Forum of Free Enterprise's February 1970 convention on Business and Public Welfare, held in Bombay, together with the convention's seven-point Final Statement adopted on 2 February 1970. The four papers — by V. K. Narasimhan (Resident Editor, Indian Express), Mrs. Krpshna Basrur (Editor, Consumer Guidance Society Bulletin), C. G. Vaidya (Principal, Chintamanrao College of Commerce, Sangli) and Dr. Ramu Pandit (Former Executive Director, Fair Trade Practices Association) — examine, in turn, the constitutional protection of property and enterprise, the consumer's experience of adulteration and profiteering, the public-private balance in India's mixed economy, and the image of the businessman in post-Independence society.
 
 The volume's argumentative centre is a defensive but reformist case for private enterprise: it warns that doctrinaire socialism and the dilution of Articles 19(6) and 31 threaten the constitutional foundations of business, but it also insists that businessmen earn legitimacy through self-regulation, ethical conduct, consumer protection and visible social responsibility. The Final Statement codifies these positions into a programme calling for a competitive mixed economy, restraint on nationalisation, professionalised self-discipline by traders, a stronger consumer movement, and an end to the inefficiency of State enterprises.
+
+## Key points
+
+- The pamphlet collects four background papers and the seven-point Final Statement from the Forum of Free Enterprise's February 1970 Bombay convention on Business and Public Welfare.
+
+- V. K. Narasimhan warns that dilution of Articles 19(6) and 31 has enabled nationalisation, such as the ordinance nationalising fourteen commercial banks, without any independent public-interest inquiry.
+
+- Narasimhan endorses a Jana Sangh proposal requiring prior judicial enquiry before any nationalisation, and names gherao tactics tolerated in West Bengal and Kerala as a threat to the Rule of Law.
+
+- Mrs. Krpshna Basrur cites a Fair Trade Practices Association survey finding fifty per cent of Bombay tradesmen reputed to profiteer, plus a Directorate of Health finding of roughly thirty per cent food adulteration.
+
+- Basrur calls for active, complaint-writing consumers and expanded product certification schemes such as Agmark and ISI to discipline small traders and improve labelling practices.
+
+- C. G. Vaidya traces the post-1947 adoption of mixed-economy planning and argues the public sector's rapid post-1951 expansion has often proceeded without efficiency or adequate justification.
+
+- Vaidya characterises the co-operative sector as functioning more as a Government-directed movement than as a genuine peoples' movement rooted in voluntary participation.
+
+- The convention's seven-point Final Statement, adopted on 2 February 1970, calls for a competitive mixed economy, restraint on nationalisation, and an end to the inefficiency of State enterprises.
 
 ## Essays
 

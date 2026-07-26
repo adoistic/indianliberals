@@ -20,6 +20,7 @@ publication:
   publisher_name: Forum of Free Enterprise
   issuer_id: forum-of-free-enterprise
   place: Mumbai
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

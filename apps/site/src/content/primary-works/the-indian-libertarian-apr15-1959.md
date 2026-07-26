@@ -89,6 +89,24 @@ physical:
 
 The April 15, 1959 number of The Indian Libertarian (Vol. VII No. 2), edited by Edith Iathwala for the Libertarian Social Institute in Bombay, is a 'Special Tibetan Issue' whose editorial spine condemns the Nehru government's handling of the Tibetan crisis as a 'double standard of morality'. The editorial 'Tibet, India and China' and T. L. Kantam's lead essay 'Tibet: The Story of A Betrayal' read the arrival of the Dalai Lama in Indian territory as exposing the bankruptcy of the 1954 Indo-Chinese Panchsheel Treaty and the cynical breaking of Mao Tsetung's earlier assurances that the autonomy, economy and polity of Tibet would be respected. The remainder of the issue gathers the magazine's familiar classical-liberal commentary: K. Kumara Sekhar charges that Nehru's Marxist conditioning makes him 'an anachronism of our times'; A. Ranganathan attacks the Nagpur Congress resolution on co-operative farming as a delusion drawn from Soviet and Chinese models; M. A. Venkata Rao welcomes the new Independent Parliamentary Group as a long-awaited rightist alternative; Sudarshan offers a sympathetic profile of K. B. Hedgewar and the RSS as the 'First Swayamsewak'; Frank Chodorov (reprinted) defends free will and the market against bureaucratic planning; Robert C. Tyson warns of an American fiscal point of no return; and Gopala Iyer Jayachandran dissects Community Planning as a third tier of unproductive bureaucracy. The volume mixes Tibet polemic, anti-planning economics, and party-political commentary in roughly equal measure.
 
+## Key points
+
+- This 'Special Tibetan Issue' (Vol. VII, No. 2, 15 April 1959) opens with the editorial 'Tibet, India and China', which reads the Dalai Lama's flight into Indian territory as exposing the bankruptcy of the 1954 Panchsheel Treaty.
+
+- The editorial contrasts Nehru's cautious, non-committal stance toward Tibetan refugees with Austria's 1956 welcome of Hungarian refugees fleeing the Red Army, naming this gap a 'double standard of morality'.
+
+- T. L. Kantam's 'Tibet: The Story of A Betrayal' narrates the Chinese subjugation of Tibet as a long, premeditated betrayal, tracing historical dynastic ties between India, Tibet and China.
+
+- Kantam presents the Dalai Lama and the Tashi Lama as the religious-political institutions that Beijing is working to dissolve, and treats the world's relative silence on Tibet as itself a moral failing.
+
+- K. Kumara Sekhar's 'Nehru—An Anachronism of our Times' attributes Nehru's reluctance to break with Beijing to a mind formed by British public-school socialism and Marxist conditioning.
+
+- A. Ranganathan attacks the Nagpur Congress resolution on co-operative farming as a delusion imported from Soviet and Chinese models, while M. A. Venkata Rao welcomes the newly formed Independent Parliamentary Group as a long-awaited rightist alternative to Congress.
+
+- Sudarshan offers a sympathetic profile of K. B. Hedgewar and the RSS as the 'First Swayamsewak', while Frank Chodorov's reprinted piece defends free will and the market against bureaucratic planning.
+
+- Gopala Iyer Jayachandran's essay dissects Community Planning as a third, unproductive tier of bureaucracy, and Robert C. Tyson warns of an approaching American fiscal point of no return.
+
 ## Essays
 
 ### Tibet, India and China (Editorial)

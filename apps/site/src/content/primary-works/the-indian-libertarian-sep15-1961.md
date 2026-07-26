@@ -64,6 +64,22 @@ physical:
 
 This September 15, 1961 issue (Vol. IX No. 12) of The Indian Libertarian, the Bombay journal of free economy and limited government edited by D. M. Kulkarni, opens with an unsigned editorial, 'Russia's Hydrogen-Rattling At The Free World,' that reads the Soviet resumption of thermonuclear tests and the Berlin crisis as proof that Russia's professions of 'peaceful competition' and 'co-existence' are a hoax. In the rendered pages the issue carries M. A. Venkata Rao's 'A Social Philosophy For Our Times,' M. N. Tholal's 'Legislation Or Chicanery?,' an unsigned piece on 'Acharya Kripalani On Urdu,' J. M. Lobo Prabhu's 'Consequences Of Foreign Policy,' and a separately paginated Economic Supplement carrying Prof. G. N. Lawande's 'Keynes And The Trade Cycle.' The issue argues a classical-liberal case against communism and economic planning, for limited government and a free economy, and engages the language question through the Urdu debate.
 
+## Key points
+
+- The unsigned editorial 'Russia's Hydrogen-Rattling At The Free World' reads the Soviet resumption of thermonuclear tests and the Berlin crisis as proof that Moscow's professions of peaceful coexistence are a hoax.
+
+- M. A. Venkata Rao's 'A Social Philosophy For Our Times' sets a liberal-humanist conception of society, grounded in the value and freedom of the individual, against the collectivist and Marxist-Leninist creeds of the age.
+
+- M. N. Tholal's 'Legislation Or Chicanery?' argues that a proposed Indian Penal Code amendment dresses up the curtailment of individual liberty in the language of reform, treating it as a case of state overreach.
+
+- An unsigned piece, 'Acharya Kripalani On Urdu', enters the language controversy through Kripalani's stand on Urdu, framing the language's status alongside Hindi and the regional languages as a test of linguistic freedom.
+
+- J. M. Lobo Prabhu's 'Consequences Of Foreign Policy' argues that India's professed non-alignment and idealism carry material security costs against Cold War realities that its rhetoric tends to obscure.
+
+- A separately paginated Economic Supplement carries Prof. G. N. Lawande's 'Keynes And The Trade Cycle', extending the issue's economic commentary.
+
+- Across its essays the issue presses a classical-liberal case against communism and economic planning while advocating limited government and a free economy.
+
 ## Essays
 
 ### A Social Philosophy For Our Times

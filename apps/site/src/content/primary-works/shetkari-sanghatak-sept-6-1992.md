@@ -66,6 +66,26 @@ missing_metadata_flags:
 
 This 6 September 1992 issue of the Marathi fortnightly शेतकरी संघटक (Shetkari Sanghatak, Year 9, No. 11) — the masthead organ of Shetkari Sanghatana — is dominated by a long signed essay from Sharad Joshi explaining why he declined to attend the first anniversary of the Vasantrao Naik Smruti Pratishthan despite a personal invitation from Maharashtra Chief Minister Sudhakarrao Naik. The piece functions as a polemical audit of the late Vasantrao Naik's agricultural and dairy record (Roshanara cotton variety, the 1980 cotton monopoly procurement scheme, Operation Flood's Aarey/Dudh Mahapur extension to Maharashtra) and frames the Sanghatana's enduring grievance against the Nehruvian state-controlled price regime for farm produce. The same Nehruvian-policy thread runs through the rest of the issue: a report on the Krutisamiti (action committee) meeting at Nanded on 24–25 August 1992, news reports of the symbolic burning of Nehru-policy effigies on 9 August (Kranti Din) at Javalgaon and Nanded, an editorial on India's medal-less Barcelona Olympics linking sports failure to per-capita poverty, a piece on the cotton/wheat/milk import policy of Narasimha Rao's government titled "केंद्र सरकारचे पुन्हा, येरे माझ्या मागल्या", G. H. Agashe's analysis of the economics of foreign milk-powder imports, the Kharif 1992–93 minimum support price table, the launch of a household-level survey of farmer economic conditions (1980 vs 1992 baselines) by Shetkari Sanghatak, and a back-cover commentary on P. V. Narasimha Rao's 15 August 1992 Red Fort speech.
 
+## Key points
+
+- The issue's lead essay by Sharad Joshi, an open reply to Chief Minister Sudhakarrao Naik, explains his refusal to attend the first anniversary of the Vasantrao Naik Smruti Pratishthan.
+
+- Joshi blames the 1980 burning of Roshanara cotton crops on a variety promoted during Vasantrao Naik's tenure, citing it as a founding grievance of the Shetkari Sanghatana.
+
+- The essay describes the Maharashtra State Cotton Monopoly Procurement Scheme as a transfer of roughly two hundred crore rupees from farmers to the Congress party fund and the cotton-ginning lobby.
+
+- Joshi reads Operation Flood's Dudh Mahapur dairy extension as a device to depress domestic milk prices through subsidised foreign milk-powder imports, harming independent dairy growers.
+
+- Joshi insists the Sanghatana's demand is not a higher administered price but the complete withdrawal of the state's administered-price regime for farm produce.
+
+- An unsigned editorial reads India's medal-less performance at the 1992 Barcelona Olympics as a downstream effect of socialist economic policy rather than a coaching or talent deficit, cross-tabulating the medal table by per-capita income.
+
+- The editorial notes that the 815 Barcelona medals were shared among just 30 countries drawn overwhelmingly from richer income bands, with populous low-income countries such as India virtually absent.
+
+- A report on the Shetkari Sanghatana's 24-25 August 1992 Nanded action-committee meeting, presided over by Shankar Dhondge, lists a programme including outreach for the Lakshmi Mukti women's land-rights initiative.
+
+- The issue also records the symbolic burning of Nehru-policy effigies at Javalgaon and Nanded on 9 August, marked locally as Kranti Din.
+
 ## Essays
 
 ### शेतकऱ्यांच्या पोटावर नव्हे, पाठीवर थाप मारणारा राजा हवा

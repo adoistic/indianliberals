@@ -17,6 +17,7 @@ publication:
   place: Bombay
   year: 1969
   series: A. D. Shroff Memorial Trust — Second Public Lecture
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

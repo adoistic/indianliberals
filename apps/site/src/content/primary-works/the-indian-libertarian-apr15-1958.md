@@ -77,6 +77,22 @@ The April 15, 1958 issue of The Indian Libertarian (Vol. VI No. 3), the Bombay-b
 
 The issue's argumentative centre is suspicion of statism in all its forms — Nehruvian planning at home, Khrushchevite consolidation in Moscow, Nasserite pan-Arabism abroad — paired with an insistent classical-liberal vocabulary of individual rights, rule of law and free economy. Recurring polemical targets are the Congress establishment (especially around the Mundhra disclosures and the LIC), Soviet 'collective leadership', and what the editors call the 'personality cult' in Indian politics.
 
+## Key points
+
+- The 15 April 1958 issue of The Indian Libertarian, Vol. VI No. 3, collects an editorial, eight signed and unsigned essays, news columns and book reviews under the standing masthead "We Stand For Free Economy And Libertarian Democracy."
+
+- Reader letters address the Kashmir situation and Sheikh Abdullah, expressing concern over Pakistan's border conduct and calling for a firmer Indian policy.
+
+- The unsigned editorial reads the new United Arab Republic and the Iraq-Jordan federation as evidence that events in Arab Asia are moving toward a dramatic issue, warning of a possible collision between Soviet and Western interests.
+
+- The editorial also attacks the Centre's conciliatory overtures toward Sheikh Abdullah and Pakistan while welcoming Vice-President Radhakrishnan's franker public statements on Indo-Pakistan relations.
+
+- M. A. Venkata Rao's essay, "India and Islam," argues India still has not come to terms with Islam after a millennium of contact, and calls for a "realistic philosophy of common citizenship" rather than communal formulas.
+
+- "Untimely Cloud Over India" treats Finance Minister T. T. Krishnamachari's resignation over the Mundhra-LIC affair as a structural scandal exposing the dangers of an overgrown public sector.
+
+- T. L. Kantam's "Khrushchev Reaches the Pinnacle" traces the Soviet succession struggle since Stalin's 1953 death through Malenkov's tenure and the "collective leadership" of Bulganin and Khrushchev.
+
 ## Essays
 
 ### Letters to the Editor

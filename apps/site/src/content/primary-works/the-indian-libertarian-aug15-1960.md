@@ -84,6 +84,24 @@ missing_metadata_flags:
 
 The August 15, 1960 issue of The Indian Libertarian (Vol. VIII, No. 10), an independent Bombay-based journal of economic and public affairs that styles itself as standing for 'free economy and libertarian democracy', combines a multi-part editorial with five signed articles, a four-page economic supplement, a Delhi correspondent's column, a book review, and an extended report on the first annual convention of the newly founded Swatantra Party. The issue's centre of gravity is the emergence of an organised liberal opposition: V. P. Menon explains Swatantra's concept of democratic freedom, the convention coverage tracks the party's resolutions and Rajaji's leadership, and a sympathetic review presents F. A. Hayek's The Constitution of Liberty as the philosophical companion to that political project. Around this core, M. A. Venkata Rao reads John Kennedy's nomination as the opening of a new American 'frontier'; M. N. Tholal surveys democratic awakenings against authoritarian regimes; A. D. Gorwala questions the depth of Soviet–Indian friendship; G. N. Lawande dissects the private-sector implications of the Third Five Year Plan; and B. R. Shenoy contrasts free and controlled economies through a first-hand visit to East and West Berlin. The Delhi Letter satirises India's official language politics, while the editorials criticise Nehru's handling of Nagaland, Macmillan's African embarrassments, the Russian Security Council vetoes, and de Gaulle–Adenauer rapprochement.
 
+## Key points
+
+- The multi-part editorial welcomes Nagaland's statehood within the Indian Union but blames British and missionary influence, including support for rebel leader Phizo, for the secessionist demand.
+
+- The editorial recalls that the Attlee government refused in 1947 to transfer the Naga areas to independent India, and criticises acceptance of the Pay Commission award as fiscally indefensible.
+
+- Extended coverage tracks the resolutions and Rajaji's leadership at the first annual convention of the newly founded Swatantra Party, alongside V. P. Menon's account of the party's concept of democratic freedom.
+
+- A sympathetic review presents F. A. Hayek's The Constitution of Liberty as the philosophical companion to the emerging Swatantra political project.
+
+- M. A. Venkata Rao's America's New Frontier reads John Kennedy's nomination as opening a Rooseveltian new frontier and treats the Republicans as defenders of decentralisation against federal expansion.
+
+- M. N. Tholal's Demos Raising Its Head surveys press-freedom struggles in Pakistan and General Ayub Khan's difficulties as evidence of a popular tide against authoritarian rule.
+
+- Tholal draws on John Kenneth Galbraith's critique of large public services to argue that elaborate state apparatus is no substitute for self-government rooted in personal responsibility.
+
+- A. D. Gorwala questions the depth of Soviet-Indian friendship, while G. N. Lawande examines the private-sector implications of the Third Five-Year Plan and B. R. Shenoy contrasts free and controlled economies from a visit to East and West Berlin.
+
 ## Essays
 
 ### EDITORIAL

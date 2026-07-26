@@ -27,6 +27,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 2014
+  series_id: ffe-union-budget
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -66,6 +67,22 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet collects three commentaries on India's Union Budget 2014-15, the first budget of the newly elected BJP government under Prime Minister Narendra Modi. In the rendered pages, the lead essay by Minoo R. Shroff (President, Forum of Free Enterprise) assesses Finance Minister Arun Jaitley's debut budget as an 'encouraging but halting' first step that gestures toward reform without decisively confronting subsidies, inflation, retrospective taxation, or public-sector reform. A second contribution surveys the budget against the Economic Survey's structural-reform prescriptions, and a third (by Prof. Kanu H. Doshi) walks through the direct-tax and capital-gains amendments in the Finance Bill. The volume is sponsored by the Shailesh Kapadia Memorial Trust and frames the budget from a classical-liberal, pro-market standpoint, welcoming infrastructure, manufacturing, and FDI measures while pressing for bolder fiscal and structural action.
+
+## Key points
+
+- The booklet, sponsored by the Shailesh Kapadia Memorial Trust, collects three commentaries on the newly elected BJP government's first Union Budget for 2014-15, presented by Finance Minister Arun Jaitley.
+
+- Minoo R. Shroff, President of the Forum of Free Enterprise, reads Jaitley's debut budget as encouraging but halting, reformist in intent yet incremental in execution.
+
+- Shroff welcomes the budget's infrastructure thrust, including 100 Smart Cities, the Delhi-Mumbai Industrial Corridor, and a proposed National Industrial Corridor Authority, alongside a manufacturing and ease-of-doing-business push.
+
+- He praises the liberalisation of FDI caps in defence and insurance from 26 to 49 per cent, while noting that majority control still rests with Indian nationals.
+
+- Shroff criticises the budget's failure to remove the retrospective tax amendment and its continued avoidance of subsidy reform, consumer inflation, and the government's 51 per cent stake in weak public-sector banks.
+
+- He backs the proposed Expenditure Management Commission but warns it should not be staffed solely by bureaucrats, and projects a moderate recovery toward 5.4 to 5.9 per cent real GDP growth.
+
+- A second contribution weighs the budget against the Economic Survey's structural-reform prescriptions, and Prof. Kanu H. Doshi's essay walks through the Finance Bill's direct-tax and capital-gains amendments.
 
 ## Essays
 

@@ -31,6 +31,7 @@ const featuredCount = thinkers.filter((t) => t.data.featured).length;
 const interviewCount = works.filter((w) => w.data.work_type === "interview").length;
 const lectureCount = works.filter((w) => w.data.work_type === "lecture").length;
 const periodicalCount = works.filter((w) => w.data.work_type === "periodical_issue").length;
+const seriesCount = (await getCollection("series", (s) => !s.data.draft)).length;
 
 type NavItem = { label: string; href: string; desc: string; count: number };
 type NavGroup = { id: string; label: string; items: NavItem[] };
@@ -51,6 +52,12 @@ const groups: NavGroup[] = [
         href: "/periodicals/",
         desc: "Khoj, The Indian Libertarian, and other runs",
         count: periodicalCount,
+      },
+      {
+        label: "Series",
+        href: "/series/",
+        desc: "Booklet runs, memorial lectures, annual analyses",
+        count: seriesCount,
       },
       {
         label: "Interviews",

@@ -63,6 +63,20 @@ physical:
 
 This June 1, 1962 issue (Vol. X No. 5) of The Indian Libertarian, the Bombay fortnightly edited by D. M. Kulkarni under the masthead 'we stand for free economy and limited government,' is preoccupied with the communist advance in South-East Asia and with the case for the free market. The editorial, 'Red Star Over South-East Asia,' argues that Russia and China are exploiting ideological divisions and broken agreements to extend communist control from Pakistan and India in the West to Vietnam and Laos in the East. M. A. Venkata Rao's 'Crisis In South-East Asia' examines the unravelling SEATO position and the 1954/1962 Geneva settlements over Laos; M. N. Tholal's 'Ripening Fruit Of Non-Alignment' presents the loss of ground in Laos as the predictable harvest of India's non-aligned policy; and Paul L. Poirot's 'One Man's Gain' is a reprinted free-market essay rebutting the 'law of the jungle' belief that one person's gain must come at another's loss, defending voluntary exchange and private property. The issue also carries a Delhi Letter, a book review, a 'Gleanings from the Press' column, news and views, and a 'Dear Editor' correspondence section.
 
+## Key points
+
+- The 1 June 1962 issue, Vol. X No. 5, of The Indian Libertarian, edited by D. M. Kulkarni under the masthead "we stand for free economy and limited government," is preoccupied with the communist advance in South-East Asia.
+
+- The editorial, "Red Star Over South-East Asia," argues Russia and China are exploiting ideological divisions and "faked" disputes to extend communist control from Pakistan and India in the west to Vietnam and Laos in the east.
+
+- M. A. Venkata Rao's "Crisis In South-East Asia" surveys the unravelling SEATO position and the 1954 and 1962 Geneva settlements over Laos, questioning how far a neutralised Laos can hold.
+
+- M. N. Tholal's "Ripening Fruit Of Non-Alignment" presents the loss of ground in Laos as the predictable harvest of India's non-aligned foreign policy, arguing neutrality has emboldened aggression.
+
+- Paul L. Poirot's reprinted essay, "One Man's Gain," rebuts the "law of the jungle" belief that one person's gain must come at another's loss, defending voluntary exchange and private property.
+
+- The issue also carries a Delhi Letter, a book review, a "Gleanings from the Press" column, news and views, and a "Dear Editor" correspondence section.
+
 ## Essays
 
 ### Editorial

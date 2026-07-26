@@ -28,6 +28,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1974
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -65,6 +66,24 @@ missing_metadata_flags:
 ## Summary
 
 This 1974 Forum of Free Enterprise booklet diagnoses the shortages then gripping the Indian economy, treating inflation and scarcity as 'two sides of the same coin' rooted in defective economic policy rather than mere bad luck. An unsigned editorial introduction frames the volume and narrows the inquiry to three essential commodities in short supply, while an opening survey article sets the general problem of scarcities in perspective. The four contributors - D. R. Pendse on scarcities and inflation, C. V. Mariwala on vanaspati, B. D. Somani on paper, and M. R. Meher on coal - argue from a free-enterprise standpoint that government controls, licensing restrictions on large industrial houses, and nationalisation are the principal causes of shortages and high prices, and that the remedy lies in more production rather than more controls.
+
+## Key points
+
+- D. R. Pendse argues scarcity and inflation persist because vested interests, including black marketeers, certain producers, political parties and even governments, benefit from perpetuating them.
+
+- Pendse cites the National Development Council's 1973-74 paddy procurement price of about Rs. 110 per quintal against the Agricultural Prices Commission's recommended Rs. 63, and Uttar Pradesh sugarcane fixed at Rs. 12-13 versus the Centre's Rs. 8.
+
+- C. V. Mariwala, chairman of the Vanaspati Manufacturers' Association, argues that price control imposed as a temporary 1963 measure under the Defence of India Rules became permanent and is itself a major cause of production instability.
+
+- Mariwala contends vanaspati usefully extends the country's fat resources by turning non-traditional oils such as cottonseed and imported palm, soya and sunflower into accepted edible fat.
+
+- B. D. Somani attributes stagnant paper output of roughly eight lakh tonnes across 1971-73 to government policy that ideologically blocks large industrial houses from expanding or setting up new units.
+
+- Somani notes India was importing newsprint at Rs. 3,500-4,000 per tonne even as administrative delays held up clearance for domestic capacity expansion.
+
+- M. R. Meher's essay on coal, reproduced from the Financial Express, presents nationalised coal corporations as running at a loss while railways, power and steel industries pay higher prices, calling nationalisation an "egregious blunder."
+
+- Meher blames wage-board awards and union pressure, rather than economic logic, for cost increases of 31 to 43 percent by coal grade after nationalisation.
 
 ## Essays
 

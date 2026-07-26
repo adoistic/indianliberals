@@ -78,6 +78,26 @@ physical:
 
 The 1 December 1959 issue of The Indian Libertarian (Vol. VII No. 21), a Bombay fortnightly that styles itself as an 'Independent Journal of Economic and Public Affairs' standing 'For Free Economy and Libertarian Democracy', is dominated by the magazine's reaction to two interlocking events of late 1959: Jawaharlal Nehru's seventieth birthday and the launch of C. Rajagopalachari's Swatantra Party. The editorial offers a measured, ambivalent tribute to Nehru — praising his secularism, anti-provincialism and steadfast patriotism while pinning the Five Year Plans and the policy of non-involvement on his shoulders as 'grave and catastrophic failures'. A signed companion piece by 'Democrat' welcomes the Swatantra Party as a long-overdue parliamentary vehicle for classical-liberal opinion, and M. N. Tholal's polemic 'Nehru Must Go' calls for the Prime Minister's resignation over the handling of the Chinese aggression on India's northern borders. Reginald Hargreaves's strategic essay 'Can India be Defended?' surveys the country's military options against China, while A. R. Field's 'Russia Scales the Himalayas' tracks Soviet penetration of Nepal, Sikkim and Bhutan in the rendered pages. The mid-issue Rationalist Supplement carries a condensed report on the 33rd Congress of the World Union of Freethinkers held at Brussels, and the World of Books section opens Daniel Bell's two-part essay 'The Meaning of Alienation — II' on the young Marx. Across these contributions the volume's argumentative centre — in the rendered pages — is a coordinated assault on Nehruvian planning, non-alignment and what the editors call the 'illusion of the epoch', socialism of the Marxist variety.
 
+## Key points
+
+- The unsigned editorial marks Jawaharlal Nehru's seventieth birthday with a guarded tribute, praising his secularism, anti-provincialism, and patriotism while calling the Five Year Plans and the policy of non-alignment and Panchsheel "grave and catastrophic failures."
+
+- A companion passage in the editorial welcomes the newly founded Swatantra Party around C. Rajagopalachari as the answer to the "stifling nature of socialism," calling its twenty-one-point manifesto a direct challenge to Nehruvian economic policy.
+
+- Elsewhere, the editorial reports on the Communist Party of India's Meerut conference and a violent mob attack on the Indian Merchants' Chamber at Kanpur over the Nagpur land-reform resolution.
+
+- Writing under the pseudonym "Democrat," a contributor traces the Swatantra Party's origins to the land-reform resolution at the Nagpur Congress and the subsequent June 1959 Madras conclave convened by Rajagopalachari.
+
+- "Democrat" charges that the State Trading Corporation's grain monopoly, the nationalisation of life insurance, and the Mahalanobis-designed Third Plan target of Rs. 10,000 crores have driven the country toward bankruptcy.
+
+- The same writer names Marxist socialism the "illusion of the epoch" and presents the Swatantra Party as its principled parliamentary challenger, warning it leads "ultimately to totalitarianism and the extinction of the free way of life."
+
+- M. N. Tholal's polemic "Nehru Must Go" calls for the Prime Minister's resignation, tracing a pattern of "acquiescence of complicity" in Chinese expansion from Nehru's silence on Tibet through the Panchsheel-era exchanges.
+
+- Reginald Hargreaves's essay "Can India be Defended?" surveys the country's military options against China, while A. R. Field's "Russia Scales the Himalayas" tracks Soviet penetration of Nepal, Sikkim, and Bhutan.
+
+- The mid-issue Rationalist Supplement reports on the 33rd Congress of the World Union of Freethinkers held at Brussels, and the World of Books section opens the second part of Daniel Bell's essay on the young Marx.
+
 ## Essays
 
 ### EDITORIAL — Pandit Nehru is Seventy

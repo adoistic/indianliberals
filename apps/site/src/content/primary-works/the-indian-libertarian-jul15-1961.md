@@ -64,6 +64,24 @@ physical:
 
 This issue of The Indian Libertarian (Vol. IX No. 8, July 15, 1961), edited by Kusum Lotwala in Bombay, leads with an editorial on the renewed Assam language crisis, where the Brahmaputra Valley's Bengali-speaking minority resists the imposition of Assamese as the sole official language and the recommendations of the Sinha Commission. The issue carries M. A. Venkata Rao on 'The Will To Be A Nation', a meditation on what binds India's diverse peoples into a nation; M. N. Tholal's appreciation of the nationalist leader Madan Mohan Malaviya; and 'R.' (J. S.) Narayana Ayyar's continuing series indicting the Prime Minister's domestic and foreign policy failures. A boxed feature, 'Essentials of Free Government', gathers classical-liberal aphorisms from Edmund Burke, W. H. Chamberlin and Madison, alongside the regular Economic Supplement, Delhi Letter, book review, press gleanings, news columns and a letter to the editor. Across the rendered pages the issue presses the journal's federalist and free-government convictions against linguistic majoritarianism and centralising state power.
 
+## Key points
+
+- The editorial 'The Assamese Problem Flares Up Again' reports the Assam government's move to make Assamese the sole official language reigniting agitation among the Bengali-speaking minority of the Brahmaputra Valley and the hill peoples.
+
+- The editorial reviews the Sinha Commission's recommendations and Cachar district's resistance, treating the episode as a test of whether India can accommodate linguistic minorities without coercion.
+
+- A boxed panel titled 'Essentials of Free Government' reinforces the editorial's argument with quotations from Edmund Burke, W. H. Chamberlin and Madison on consent and liberty.
+
+- M. A. Venkata Rao's 'The Will To Be A Nation' surveys India's diversity of regions, languages and communities, treating nationhood as a matter of shared will rather than mere geography.
+
+- Venkata Rao warns against the centrifugal pull of linguistic and communal particularism as a threat to India's cohesion as a nation.
+
+- M. N. Tholal offers a personal appreciation of nationalist leader and educationist Madan Mohan Malaviya, reflecting on his character, discipline and place in the freedom movement.
+
+- J. S. Narayana Ayyar, writing under the byline 'R.', continues his series indicting the Prime Minister's record in a fourth instalment headed 'Failure of Domestic and Foreign Policies'.
+
+- Narayana Ayyar charges that the government's planning, economic management, China policy and non-alignment stance have together failed the country, questioning the leadership's direction for its future.
+
 ## Essays
 
 ### Editorial: The Assamese Problem Flares Up Again

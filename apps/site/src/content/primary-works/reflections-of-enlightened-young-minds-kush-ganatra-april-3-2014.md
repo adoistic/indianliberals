@@ -36,6 +36,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2014
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -89,6 +90,24 @@ missing_metadata_flags:
 Reflections of Enlightened Young Minds collects the four prize-winning speeches from the 49th A.D. Shroff Memorial Inter-Collegiate Elocution Contest, held in Mumbai on 26 January 2014 and published by the Forum of Free Enterprise on 3 April 2014. In a foreword, Forum President Minoo R. Shroff frames the contests — the A.D. Shroff Inter-Collegiate, the Nani A. Palkhivala (for law students) and the M.R. Pai (for schools) — as part of the Forum's youth-empowerment work, citing Dale Carnegie on public speaking as the 'most potent tool' for career advancement, and reporting that more than 4,000 contests across 13 states have drawn 45,000 student speakers since 1965-66. The booklet is sponsored by the Shailesh Kapadia Memorial Trust, with a biographical tribute to the late chartered accountant Shailesh Kapadia (1949-1988).
 
 The four student speeches gather around three themes flagged on the cover: safety of women, white collar crimes, and civil society and good governance. Kush Ganatra (N. M. College of Commerce & Economics) and Dr. Sabeena Gonsalves (K.C. Law College) both speak on 'Role of Civil Society in Ensuring Safety of Women', taking the post-Nirbhaya conversation as their starting point and arguing that legal reform alone cannot fix entrenched cultural and psychological patterns. Varsha Srinivasan (R. A. Podar College) treats white collar crime as a quiet but compounding threat to economic stability, citing Enron, Lehman Brothers, the 2G scam, Kalmadi and Lalu as Indian and global instances. Vasudha Ramakrishna (Ramnarain Ruia College) traces governance from the Greek root kubernesis to argue that India's bottleneck is not policy design but implementation, gesturing at stalled power capacity and Mumbai infrastructure projects. The closing matter carries an aphorism from Eugene Black, former World Bank President, on private enterprise as 'an affirmative good,' and a short note on the Forum's mission and membership.
+
+## Key points
+
+- The booklet collects the four prize-winning speeches from the 49th A. D. Shroff Memorial Inter-Collegiate Elocution Contest held in Mumbai on 26 January 2014, sponsored by the Shailesh Kapadia Memorial Trust.
+
+- Forum President Minoo R. Shroff's foreword reports that more than 4,000 elocution contests across 13 states have drawn 45,000 student speakers since 1965-66, framing the programme as youth-empowerment work.
+
+- Kush Ganatra of N. M. College of Commerce and Economics argues India's response to violence against women is reactionary, citing a G20 survey that ranked India worst for women, ahead of Saudi Arabia.
+
+- Ganatra notes National Crime Bureau data showing fewer than 30 per cent of reported rapes in 2010 ended in conviction, and diagnoses a 'ghar ka mamla hai' habit of treating domestic violence as private.
+
+- Dr. Sabeena Gonsalves of K. C. Law College likewise addresses the role of civil society in ensuring women's safety, taking the post-Nirbhaya public conversation as her starting point.
+
+- Varsha Srinivasan of R. A. Podar College treats white-collar crime as a macroeconomic threat, citing Enron, Lehman Brothers and the WorldCom scam, which cost 33,000 jobs in a single day.
+
+- Srinivasan reports a 108 per cent jump in white-collar arrests by the Indian crime branch in 2011, from 71 to 148 cases, and lists twenty-five sub-categories of fraud.
+
+- Vasudha Ramakrishna of Ramnarain Ruia College traces the word governance to its Greek root kubernesis to argue India's core problem is implementation, pointing to stalled power capacity and Mumbai infrastructure projects.
 
 ## Essays
 

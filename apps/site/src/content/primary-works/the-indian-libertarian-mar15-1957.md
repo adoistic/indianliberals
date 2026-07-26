@@ -74,6 +74,24 @@ physical:
 
 The Indian Libertarian, Vol. V No. 2 (15 March 1957), is an issue of the Bombay fortnightly 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala, appearing under the banner 'We Stand for Free Economy and Liberal Democracy.' This issue is framed by the second Indian general elections of 1957: an unsigned editorial attacks Nehru's foreign policy and his statements on Kashmir and Pakistan, while the lead article by M. A. Venkata Rao reflects on the election results and the prospects of opposition liberalism. Other contributions critique Gandhian thought (J. K. Dhairyawan), assess the Radical Humanist movement of M. N. Roy ('Vigilant'), continue a series on social and religious reform (Dr. K. N. Kini), and debate Pakistan's statehood and India's policy toward it (P. Y. Deshpande). The issue closes with the recurring 'The Great Betrayal' commentary on the Cold War, a 'Mind of the Nation' press-digest section, news roundups, and book reviews.
 
+## Key points
+
+- Framed by India's second general elections of 1957, the editorial attacks Nehru's foreign policy and his statements on Kashmir and Pakistan.
+
+- M. A. Venkata Rao's 'Some Reflections on the General Elections' argues Congress dominates through organisation, money and patronage rather than ideas, and distinguishes democratic 'precept' from actual 'practice' in Indian politics.
+
+- J. K. Dhairyawan's 'Mahatma Unmasked' offers a critical reassessment of Gandhi, drawing on P. Chandra Ghosh's work to argue his saintly reputation masks a record of political contradiction and failure.
+
+- Writing under the pseudonym 'Vigilant', a contributor uses the Kashmir question to test and find wanting the consistency of M. N. Roy's Radical Humanist movement.
+
+- Dr. K. N. Kini's serial 'Revolutionising Indian Life' (Part II) calls for rooting out superstition and reorienting worship away from idolatry, and links this cultural reform to a broader economic case against socialism.
+
+- P. Y. Deshpande's 'Is Pakistan A State?' questions whether Pakistan meets the criteria of genuine statehood, citing its geographic division and dependence on foreign powers.
+
+- 'The Great Betrayal' revisits Western dealings with the Soviet Union since the Second World War, commenting critically on Rockefeller-funded internationalism.
+
+- The 'Mind of the Nation' press digest foregrounds Nehru's foreign policy and Kashmir ahead of United Nations discussions, and the issue closes with a review of Ludwig von Mises's 'Anti-Capitalist Mentality'.
+
 ## Essays
 
 ### Some Reflections on the General Elections

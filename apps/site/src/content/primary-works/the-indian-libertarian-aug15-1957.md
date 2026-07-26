@@ -80,6 +80,24 @@ missing_metadata_flags:
 
 This is the Independence Day Special issue of The Indian Libertarian (Vol. V, No. 12, 15 August 1957), an 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala and published by the Libertarian Social Institute, Bombay. Across editorials and contributed essays it marks the tenth anniversary of Indian independence as an occasion for stocks-taking rather than jubilation, and it indicts what its contributors see as a slide toward state planning, regimentation and Soviet-style economics under the Second Five Year Plan. The masthead motto 'We stand for Free Economy and Liberal Democracy' frames the issue's argumentative center: M. A. Venkata Rao reads the linguistic-states reorganisation as a warning against the politics of mass passion; J. K. Dhairyawan attacks the very phrase 'won freedom' and calls 1947 a 'donated' transfer of power; B. S. Sanyal surveys the year 1957 and the totalitarian drift in Kerala; A. Ranganathan examines whether the Constitution's individual-rights chapter has survived a decade of executive aggrandisement; 'Sudarshan' defends a non-aligned but morally serious foreign policy; and K. D. Valicha twice argues — on profits and on strategy — that Indian liberalism must choose private enterprise and Western alignment over fashionable middle paths. A central four-page R. L. Foundation supplement edited by Sanyal carries the issue's most explicit polemic against socialism, with the line 'Communism is slavery' as its rhetorical anchor.
 
+## Key points
+
+- The Independence Day Special issue (Vol. V, No. 12, 15 August 1957), edited by Kusum Lotwala, marks the tenth anniversary of independence as an occasion for stock-taking rather than jubilation, indicting a slide toward state planning under the Second Five Year Plan.
+
+- The unsigned editorial calls Krishna Menon's description of British military action in Oman as 'unfortunate' an uncalled-for piece of moralising that harms Indo-British amity, and urges an honest accounting of Pakistani objections in the Indus canal-waters dispute.
+
+- It also treats Major-General Akbar Khan's plan to recover Kashmir through what it calls subversion as a serious strategic threat the Indian government should not dismiss.
+
+- M. A. Venkata Rao's editorial reads the linguistic reorganisation of the states, producing Karnataka and Madhya Pradesh, as a warning that mass passion and 'fissiparous tendencies' threaten to override constitutional unity, and proposes English as the federal link language.
+
+- J. K. Dhairyawan's 'A Decade of Donated Freedom' argues independence was 'donated' to India by a Britain exhausted by the Second World War and committed under the Labour government to decolonisation, not 'won' by Congress agitation alone.
+
+- Dhairyawan warns that a people who believe their freedom was earned by satyagraha alone will neither defend it nor confront the costs of socialist drift.
+
+- B. S. Sanyal reads 1957 as a hinge in which the gains of independence are placed at risk, pointing to the Communist victory in Kerala as a symptom of totalitarian drift.
+
+- A central four-page R. L. Foundation supplement edited by Sanyal carries the issue's sharpest polemic against socialism, anchored on the line 'Communism is slavery.'
+
 ## Essays
 
 ### Essay 0

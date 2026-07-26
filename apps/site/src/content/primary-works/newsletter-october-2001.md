@@ -60,6 +60,26 @@ missing_metadata_flags:
 
 "The Liberal Position" is the members' newsletter of the Indian Liberal Group; this is its inaugural issue (No. 1, October 2001), issued from the Group's Mumbai national headquarters and marked "For Private Circulation only." The issue has two parts. The first is a long signed letter from ILG President S. V. Raju that doubles as an editorial: it introduces the newsletter, reminds members of the liberal values that led them to revive and reorganise the ILG in 2000, reports on the Group's website and its recent seminars and chapter activities across India, and shares (anonymised) member responses to a candid status report admitting the organisation's slow progress. The second part is "Annexure (A)," a detailed set of draft amendments to the ILG's Constitution proposed by Raju, aimed at simplifying the organisational structure ahead of the Group's First National Convention (tentatively February 2002). The issue also tells members that a reprint of founder Minoo Masani's book "We Indians" — funded by the Sir Dorabji Tata Trust — is enclosed.
 
+## Key points
+
+- ILG President S. V. Raju's inaugural letter frames "The Liberal Position" as a way to bridge the digital divide between members with and without internet access and to strengthen fraternal ties.
+
+- Raju restates the Indian Liberal Group's core values of freedom, responsibility, tolerance, social justice and equality of opportunity, alongside its defence of personal liberty, free expression and property rights.
+
+- He explains that the ILG, founded in 1964 as essentially a debating group, was reorganised in 2000 to become action-oriented, and laments that economic liberalisation begun in 1991 has since stalled.
+
+- Raju argues that corruption poses a graver threat to India than terrorism and promotes the Group's new website alongside a calendar of 2001 seminars and new chapter inaugurations in Andhra Pradesh, Kerala, Vidarbha and Maharashtra.
+
+- The letter reproduces anonymised member feedback candidly acknowledging the organisation's slow growth, including calls for a stronger centre and a focus on a few concrete projects.
+
+- "Annexure (A)", also drafted by Raju, proposes simplifying the ILG's Constitution by replacing its multi-tier structure with a leaner National Executive, State Chapters and Local Chapters.
+
+- The draft amendments leave Articles 1 to 3 on the Group's name, objectives and headquarters unchanged, inviting member comment by 10 November 2001 ahead of the First National Convention.
+
+- Interim authority is vested in an ad-hoc National Executive capped at twelve members until organisational elections are held, with the Convention tentatively set for February 2002.
+
+- The issue also announces that a reprint of founder Minoo Masani's book "We Indians", funded by the Sir Dorabji Tata Trust, is enclosed with the newsletter.
+
 ## Essays
 
 ### President's letter / 'Dear Friend' (inaugural editorial)

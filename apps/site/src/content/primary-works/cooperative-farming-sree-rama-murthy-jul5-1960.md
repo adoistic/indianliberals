@@ -25,10 +25,11 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1960
-  series: 75/July/1960
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: 75/July/1960. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/cooperative-farming-sree-rama-murthy-jul5-1960.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/cooperative-farming-sree-rama-murthy-jul5-1960.webp"
 rights:
@@ -100,6 +101,26 @@ authors_resolution:
 ## Summary
 
 This 1960 Forum of Free Enterprise booklet collects the three prize-winning entries from the Forum's 1959 student essay competition on "Co-operative Farming." Judged by R. V. Murthy, Prof. C. L. Gheevala of the Indian Merchants' Chamber, and M. R. Pai, the volume presents essays by Sree Rama Murthy of Chirala (first prize), R. Venkata Ramana Rao of Quilon (second), and B. P. Patel of Surat (third). All three essays converge on a sceptical verdict: although the Indian National Congress at its Nagpur session (1959) made joint co-operative farming the centrepiece of agrarian policy, the contributors argue that pooling land under joint management is economically unproven, psychologically alien to Indian peasant attachment to the soil, and impossible to introduce without coercion.
+
+## Key points
+
+- The booklet collects the three prize-winning essays from the Forum's 1959 student competition on Co-operative Farming, judged by R. V. Murthy, Prof. C. L. Gheevala and M. R. Pai.
+
+- First-prize winner Sree Rama Murthy of Chirala distinguishes four meanings of co-operative farming and argues only joint and collective forms extinguish individual land ownership.
+
+- Murthy cites the Planning Commission's own survey finding that in ten of twenty sample co-operative farming societies members did no farm work at all, and thirteen relied on hired labour.
+
+- Murthy proposes Co-operative Individual Farming, combining service co-operatives for credit and marketing with secure individual land rights, as the workable alternative to joint cultivation.
+
+- Second-prize essayist R. Venkata Ramana Rao of Quilon accepts the Nagpur Resolution's call for service co-operatives but rejects pooled joint cultivation as unworkable in Indian conditions.
+
+- Ramana Rao reads Russian and Chinese collectivisation as products of compulsion tied to industrial labour needs, and Yugoslavia's retreat from collective farming as a response to falling output.
+
+- Third-prize essayist B. P. Patel of Surat argues that Indian holdings are too small and scattered for the economies of scale that joint-farming proponents claim.
+
+- Patel catalogues indirect coercions, including registrar control over loans, seed, fertiliser, transport and irrigation priority, by which the state would force peasants into co-operative societies.
+
+- All three essays conclude that, despite the Indian National Congress making joint co-operative farming central to agrarian policy at its 1959 Nagpur session, land pooling remains economically unproven and psychologically alien to Indian peasants.
 
 ## Essays
 

@@ -17,6 +17,8 @@ publication:
   place: Mumbai
   year: 1998
   series: 33rd A.D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 33
 provenance:
   source: ccs_archive
   scan_quality: unknown

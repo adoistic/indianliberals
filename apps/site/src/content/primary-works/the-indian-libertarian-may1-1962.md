@@ -64,6 +64,20 @@ physical:
 
 This issue of The Indian Libertarian (Vol. X, No. 3, May 1, 1962), an independent Bombay journal standing 'for free economy and limited government,' opens with an editorial on Nehru's new post-election cabinet and proceeds through signed essays on communism, the national-language question, and party politics, followed by recurring departments (Delhi Letter, Book Review, Gleanings from the Press, News & Views). In the rendered pages, M. A. Venkata Rao writes on 'The Trojan Horse' of communist infiltration, M. N. Tholal addresses 'Our National Language' and the Hindi/Sanskrit debate, and H. B. Isaac argues for 'Party Integration' among India's non-Congress opposition.
 
+## Key points
+
+- This 1 May 1962 issue of The Indian Libertarian (Vol. X, No. 3) opens with an editorial, 'Mr. Nehru's Hotch-Potch Government', on Nehru's new post-election cabinet.
+
+- The editorial reads the cabinet as predominantly Rightist in makeup, crediting China's economic troubles and electoral signals with sobering Nehru's socialism, and framing the Swatantra Party as the real opposition.
+
+- M. A. Venkata Rao's 'The Trojan Horse' warns that communist parties operate as a concealed force inside democratic society, advancing through the very liberties an open polity grants them.
+
+- M. N. Tholal's 'Our National Language' weighs the competing claims of Hindi and Sanskrit in the national-language debate, engaging contemporary correspondents including one named Katju.
+
+- H. B. Isaac's 'Party Integration' argues for consolidating India's fragmented non-Congress and opposition forces into a coherent bloc, weighing individual conscience against party discipline in making the case.
+
+- Standing departments in the issue include a Delhi Letter, a Book Review, Gleanings from the Press, and News & Views.
+
 ## Essays
 
 ### Editorial

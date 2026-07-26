@@ -19,6 +19,8 @@ publication:
   place: Bombay
   year: 1969
   series: Fourth A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 4
 provenance:
   source: ccs_archive
   scan_quality: unknown

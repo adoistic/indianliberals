@@ -29,6 +29,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 2016
+  series_id: ffe-union-budget
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -68,6 +69,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet reproduces presentations on the Union Budget 2016-17 delivered at a public meeting held in Mumbai on 1 March 2016, jointly organised by the Forum, the Nani A. Palkhivala Memorial Trust, the Bombay Chartered Accountants' Society and the Council for Fair Business Practices. The contributors are veteran tax expert H. P. Ranina and former Union Finance Minister Yashwant Sinha, who spoke at the meeting, together with an analysis of the budget's economic implications by S. S. Bhandare; Minoo R. Shroff, President of the Forum, supplies the Introduction. In the rendered pages, Shroff's Introduction reports that both speakers judged the economy basically healthy and the budget 'well crafted and refreshingly different', awarding it 8 out of 10, while flagging concern over the quality of the fiscal deficit and the burden of the Seventh Pay Commission and OROP. Yashwant Sinha's lead address dwells on fiscal-deficit quality, the FRBM framework he steered as Finance Minister, and the use of public investment in roads, railways and housing to drive growth.
+
+## Key points
+
+- The booklet reproduces presentations from a 1 March 2016 Mumbai meeting on the Union Budget 2016-17, jointly organised by the Forum of Free Enterprise, the Nani A. Palkhivala Memorial Trust, the Bombay Chartered Accountants' Society and the Council for Fair Business Practices.
+
+- Minoo R. Shroff's Introduction reports that both speakers rated the budget well crafted and refreshingly different, awarding it 8 out of 10 while flagging the fiscal deficit's quality.
+
+- Shroff's Introduction also flags concern over the burden the Seventh Pay Commission award and One Rank One Pension impose on the exchequer alongside the budget's other commitments.
+
+- Yashwant Sinha distinguishes the headline fiscal deficit from the revenue deficit, arguing that the quality of the deficit matters more than its headline size in assessing the budget.
+
+- Sinha recalls persuading Prime Minister Vajpayee to back the FRBM Act, passed in 2003 and notified in 2004, to compel fiscal discipline on future governments.
+
+- Sinha frames excessive government borrowing as a breach of intergenerational equity, in which the present generation imposes financial burdens on generations not yet born.
+
+- Sinha blames the revenue deficit's sharp deterioration in 2008-09 on populist measures including the farmers' debt waiver, the Sixth Pay Commission award and NREGA spending.
+
+- Sinha notes the 2016-17 budget meets its 3.5 per cent fiscal-deficit target but still misses the 2.4 per cent revenue-deficit target he considers the more telling figure.
+
+- Sinha recalls that raising the housing-loan interest deduction from Rs. 15,000 to Rs. 1,50,000 during his own tenure as Finance Minister produced a veritable boom in housing.
 
 ## Essays
 

@@ -71,6 +71,22 @@ physical:
 
 The Indian Libertarian, Vol. VII No. 20 (15 November 1959), is an issue of the Bombay classical-liberal fortnightly edited by Miss Kusum Lotwala, published at the height of the 1959 Sino-Indian border crisis. The editorial amplifies General Cariappa's call for action against Chinese incursions in Ladakh, and the lead articles sustain that theme: M. A. Venkata Rao dissects 'The Red Dragon in Ladakh or the Mao-Menon Line', M. N. Tholal warns that India is 'Playing the Communist Game', an unsigned report alleges a 'Secret Sino-Pak Plot to Grab Kashmir', and Shurokh Sabavala examines how 'Tibet Agitates India'. The issue's four-page Economic Supplement carries Prof. G. N. Lawande's essays on capital accumulation, economic development and monetary control, while the Delhi Letter ('Cariappa Says the Last Word'), Daniel Bell's review-essay on Marx and alienation ('The World of Books'), Book Reviews, 'Gleanings from the Press', and a News Digest complete it. The recurring commitments are national defence against Chinese expansion, scepticism of non-alignment, and a classical-liberal defence of free enterprise and individual liberty.
 
+## Key points
+
+- This 15 November 1959 issue, Vol. VII No. 20, edited by Kusum Lotwala, was published at the height of the 1959 Sino-Indian border crisis, with its editorial amplifying General Cariappa's call for action against Chinese incursions in Ladakh.
+
+- M. A. Venkata Rao's The Red Dragon in Ladakh or the Mao-Menon Line links Chinese expansionism under Mao to what he calls the accommodating posture of Defence Minister Krishna Menon.
+
+- M. N. Tholal's We are Playing the Communist Game charges India with a false sense of security on the border and argues current policy inadvertently serves communist ends.
+
+- An unsigned report from Ladakh alleges a Secret Sino-Pak Plot to Grab Kashmir, warning of a possible coordinated Chinese-Pakistani move on the territory that coming winter.
+
+- Shurokh Sabavala's Tibet Agitates India links the Chinese suppression of Tibet and the Dalai Lama's flight to Indian public opinion and the country's own security.
+
+- The Economic Supplement carries Prof. G. N. Lawande's essays on capital accumulation and monetary control, arguing that growth depends on domestic savings rather than coercion or inflationary finance.
+
+- A Delhi Letter, Cariappa Says the Last Word, reports the political fallout of the general's China intervention, and Daniel Bell contributes a review-essay on the historical Marx.
+
 ## Essays
 
 ### Editorial: General Cariappa's Call for Action Against the Chinese

@@ -92,6 +92,26 @@ This 1 August 1957 issue of The Indian Libertarian (Vol. V, No. 11), edited by K
 
 The issue carries a four-page inserted "Supplement of the Research Department of the R. L. Foundation" (paginated A–D) with essays by B. S. Sanyal on the failure of socialism ("Bread and Circuses"), K. D. Valicha on foreign investment, and a manifesto-style piece, "My Belief and Hope," by the American co-operative theorist James Peter Warbasse. The remainder of the rendered pages cover defence policy (Mehta Puran Chand on nuclear weapons), a long news-analytic feature on a Pakistani propaganda offensive over Kashmir, a statement of purpose for the Libertarian Social Institute, and reports on the R. L. Foundation's reading room and seminars. World News and Book Reviews advertised in the table of contents were not in the rendered chunk.
 
+## Key points
+
+- The unsigned editorial, "The Hard Core of Indo-Pak Troubles," argues Pakistan's Kashmir claim is a constitutive demand whose fulfilment would mean the gradual absorption of Indian Muslim regions, not a mere frontier dispute.
+
+- It also praises Acharya Kripalani's tougher line on Kashmir while criticising the Suhrawardy mission to Washington and Iskander Mirza's parallel diplomatic offensive in Western capitals.
+
+- Elsewhere, the editorial accuses Nehru's government of "dangerous complacency" toward Pakistani rearmament, Chinese expansion into Tibet, and Soviet penetration of West Asia.
+
+- A second editorial column cites Frank E. Holman's "Dangers of Treaty Law" to argue American foreign aid is being squandered on regimes hostile to the United States and the free world.
+
+- M. A. Venkata Rao argues a surplus of food grains and industrial raw materials is the only honest foundation for India's industrial drive, reading the 1957 price crisis as the product of statutory procurement and ceiling prices.
+
+- Venkata Rao contrasts India's controlled economy with nineteenth-century free-trade England and Lancashire's mills, calling for dismantling controls and restoring the price mechanism to let surplus accumulate through voluntary peasant exchange.
+
+- He treats the Second Five Year Plan's economic logic as incompatible with libertarian economics, faulting the Essential Commodities Bill for worsening the food-price crisis.
+
+- Writing pseudonymously as "SCIO," a contributor reads Pakistan's domestic political instability under martial administration as the driver of its external posture toward India over Kashmir.
+
+- "SCIO" argues Pakistan's grievance over the Indus waters dispute is being grafted onto the Kashmir grievance to build a case for a military "showdown" with India.
+
 ## Essays
 
 ### EDITORIAL

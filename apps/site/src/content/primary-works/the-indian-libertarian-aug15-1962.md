@@ -84,6 +84,24 @@ physical:
 
 The August 15, 1962 issue of The Indian Libertarian (Vol. X, No. 10) marks the fifteenth anniversary of Indian independence with a sharply critical editorial that contrasts mere 'Self-Government' with the 'Good Government' the Liberals say has eluded India under Nehru. The issue mixes signed political commentary (M. A. Venkata Rao on science and spirituality, M. N. Tholal on the Gandhi–Nehru succession), a four-page Economic Supplement carrying reprints by American free-market writers Prof. G. Carl Wiegand and S. G. Hart, a 'Delhi Letter' on the deteriorating border situation and the Akali split, a review of P. T. Bauer's Indian Economic Policy and Development, and the standard Gleanings and News & Views columns. The argumentative center is a classical-liberal indictment of statism at home (planning, public-sector expansion, monopoly Congress) coupled with anxiety about Chinese intransigence on the frontier, supplemented by imported American libertarian theory presenting capitalism, decentralised enterprise and the 'forgotten' taxpayer as alternatives to state-led modernisation.
 
+## Key points
+
+- Marking the fifteenth anniversary of independence, the editorial 'Self-Government or Good Government?' contrasts the 'Self-Government' India has attained with the 'Good Government' the journal says has eluded it under Nehru.
+
+- It reads Nehru's foreign-policy 'Neutralism' as tilting toward the Communist bloc and argues that Gokhale's dictum favouring self-government over good government has been misused to excuse low-quality rule.
+
+- The editorial calls for liquidating the remaining French and Portuguese enclaves and attacks prohibition and other state-imposed moralism as anti-liberty policy.
+
+- M. A. Venkata Rao's 'Science And Spirituality' argues that science and spirituality are compatible, attacking Marxist materialism as both theoretically incoherent and politically tyrannical.
+
+- Venkata Rao links the dignity of the individual and the rights of the citizen to a non-materialist, spiritualist conception of personality rather than to dialectical materialism.
+
+- M. N. Tholal's serial 'Gandhi–Nehru Succession—III' treats the real post-1947 contest as one between Patel and Nehru, tracing Purushottam Das Tandon's ouster from the Congress presidency and Govind Ballabh Pant's rise to the Home portfolio.
+
+- The four-page Economic Supplement carries Prof. G. Carl Wiegand's 'The Real Path of Economic Development', which contrasts failed large-state industrialisation programmes in Latin America with the dispersed, decentralised capitalist growth of the United States.
+
+- The issue also runs a review of P. T. Bauer's 'Indian Economic Policy and Development' and a Delhi Letter on the deteriorating border situation and the Akali split.
+
 ## Essays
 
 ### EDITORIAL — Self-Government or Good Government?

@@ -32,6 +32,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -163,6 +164,26 @@ thinker_mentions:
 ## Summary
 
 This Forum of Free Enterprise booklet gathers three independent essays by prominent Indian voices in industry, economics, and finance, all converging on a single verdict: fifteen years of Five-Year Plans have failed to improve the material condition of the average Indian, and the Fourth Plan must radically reconsider both its diagnosis and its methods. The frontispiece frames the volume's ideological stance with a Eugene Black epigraph insisting that private enterprise be embraced as "an affirmative good" rather than a tolerated evil. Mookerjee's opening essay argues that planning success is impossible without sweeping modernisation—mechanisation, automation, and managerial pragmatism—and lays particular blame on restrictive public-sector licensing and labour-monopoly policies. Das furnishes a dense statistical indictment, showing that per capita income, diet, housing, and employment all registered negligible or negative improvement across the planning period. Parekh, writing on the eve of the Fourth Plan, reframes the central problem as runaway inflation produced by contradictory fiscal, monetary, and price-control policies, and urges a shift from prestige-driven outlay targets to economical, productivity-oriented resource use.
+
+## Key points
+
+- Sir Biren Mookerjee invokes Lewis Carroll's Red Queen allegory to argue that fifteen years of Five-Year Plans have left India running hard without real progress.
+
+- Mookerjee contrasts Indian agriculture, where seventy percent of workers cannot produce enough food for the country, with New Zealand, where mechanised farming lets one worker feed ninety-six people.
+
+- Mookerjee blames a 'labour monopoly' and government appeasement of trade unions for rising production costs that price Indian exports out of world markets.
+
+- Dr N. Das's Times of India analysis shows national income rose 68.7 percent between 1950 and 1965, but population growth absorbed most of the gain, leaving only about 27 percent as real per capita increase.
+
+- Das's diet surveys find per capita daily foodgrain availability fell below pre-war levels by the mid-1960s, undermining official claims of nutritional progress under planning.
+
+- Das reports the housing shortage more than tripled and the unemployment backlog grew from 4.1 million to an estimated 12 million by the end of the Third Plan.
+
+- Das draws on Galbraith's consumption criterion and Sukhatme's nutrition studies to argue planning failed to meet even minimum human needs for food, clothing and shelter.
+
+- H. T. Parekh, writing as General Manager of ICICI, reframes the Fourth Plan's central problem as runaway inflation caused by contradictory fiscal, monetary and price-control policies rather than insufficient plan size.
+
+- Parekh cites the sugar industry as a case of collusion among government, industry and farmers, and urges a shift from prestige-driven outlay targets toward economical, productivity-oriented resource use.
 
 ## Essays
 

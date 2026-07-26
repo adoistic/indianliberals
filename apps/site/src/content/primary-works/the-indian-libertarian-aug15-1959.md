@@ -81,6 +81,22 @@ The August 15, 1959 number of The Indian Libertarian (Vol. VII, No. 14), the Bom
 
 The issue functions as a partisan record of the new Swatantra Party's founding rhetoric: an editorial section on the Swatantra Party follows the Kerala leader, and a sidebar on page 8, 'Heard at the Swatantra Party Pandal', prints terse aphorisms attributed to Ruthnasawmy, H. P. Mody, K. M. Munshi, M. R. Masani, and B. Satyanarayana. News Digest items, a notice from the Libertarian Social Institute, Bangalore, and the journal's standing 'WE STAND FOR FREE ECONOMY AND LIBERTARIAN DEMOCRACY / MAKE ENGLISH THE LINGUA FRANCA OF INDIA' masthead frame the contents.
 
+## Key points
+
+- The 15 August 1959 issue, Vol. VII No. 14, edited by Kusum Lotwalla, leads with an editorial defending the Centre's use of Article 356 to dismiss the Communist ministry in Kerala.
+
+- The Kerala editorial charges the Namboodiripad government with corruption and class warfare against opponents, and frames the newly launched Swatantra Party as the constitutional alternative to Congress and the Communist Party.
+
+- M. A. Venkata Rao's Second Thoughts on Foreign Policy treats the Chinese seizure of Tibet as a hinge event and argues that non-alignment has left India without Western support.
+
+- M. N. Tholal's Enemies of English or India? opposes replacing English with Hindi as India's lingua franca, distinguishing Rajagopalachari's reasoned reservations from wholesale anti-English sentiment.
+
+- Y. V. Visveswaran's The Struggling Sector surveys private enterprise hemmed in by the 1948 Industrial Policy Resolution and the 1956 Avadi Resolution, quoting Barbara Wootton against the idea that planning kills enterprise.
+
+- A sidebar, Heard at the Swatantra Party Pandal, prints aphorisms attributed to Ruthnasawmy, H. P. Mody, K. M. Munshi, M. R. Masani and B. Satyanarayana.
+
+- The issue's masthead declares the journal stands for free economy and libertarian democracy and calls for making English the lingua franca of India.
+
 ## Essays
 
 ### EDITORIAL (Kerala)

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bungalows-for-all-sauvik-chakraverti",
+    "member": true,
+    "series_id": "liberty-institute-occasional-paper",
+    "ordinal": null,
+    "evidence": "A Liberty Institute Occasional Paper by the Indian classical-liberal writer Sauvik Chakraverti",
+    "confidence": "high"
+  },
+  {
+    "id": "fare-forward-voyager-by-frank-simoes-may-1990",
+    "member": true,
+    "series_id": "builders-of-indian-economy",
+    "ordinal": 3,
+    "evidence": "published in May 1990 by the A.D. Shroff Memorial Trust as Volume 3 of its \"Builders of Indian Economy\" series",
+    "confidence": "high"
+  },
+  {
+    "id": "globalisation-and-the-poor",
+    "member": true,
+    "series_id": "liberty-institute-occasional-paper",
+    "ordinal": null,
+    "evidence": "Globalisation and the Poor is a Liberty Institute Occasional Paper by the Swedish classical-liberal writer Johan Norberg",
+    "confidence": "high"
+  },
+  {
+    "id": "is-there-a-middle-way-dr-f-a-mehta-january-15-1995",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 29,
+    "evidence": "the 29th A.D. Shroff Memorial Lecture, delivered under the auspices of the Forum of Free Enterprise",
+    "confidence": "high"
+  },
+  {
+    "id": "liberal-budget-reforms-for-poor",
+    "member": true,
+    "series_id": "ilg-liberal-budget",
+    "ordinal": 4,
+    "evidence": "the Indian Liberal Group's fourth annual alternative budget proposal (LB4)",
+    "confidence": "high"
+  },
+  {
+    "id": "population-and-economic-development-in-india-by-nr-narayan-murthy",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 38,
+    "evidence": "the 38th A. D. Shroff Memorial Lecture, delivered by N. R. Narayana Murthy in Mumbai on 8 April 2005",
+    "confidence": "high"
+  },
+  {
+    "id": "role-of-intellectuals-in-public-life-prof-p-g-mavalankar-october-1979",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 14,
+    "evidence": "the 14th A. D. Shroff Memorial Lecture, delivered by Prof. P. G. Mavalankar",
+    "confidence": "high"
+  },
+  {
+    "id": "the-central-budget-2004-2005-vis-a-vis-the-liberal-budget-various-july-18-2004",
+    "member": false,
+    "series_id": null,
+    "ordinal": null,
+    "evidence": "juxtaposes the Union Budget 2004-05 with The Liberal Budget that the Indian Liberal Group released; itself is a FFE comparison analysis, not an instance of The Liberal Budget series",
+    "confidence": "high"
+  },
+  {
+    "id": "the-indian-libertarian-jan-1971",
+    "member": true,
+    "series_id": "selections-from-the-indian-libertarian",
+    "ordinal": null,
+    "evidence": "Part III of 'Selections from The Indian Libertarian', subtitled 'Miscellaneous Articles'",
+    "confidence": "high"
+  },
+  {
+    "id": "the-role-of-the-judiciary-in-parliamentary-democracy-m-c-chagla-28-october-1974",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 9,
+    "evidence": "the ninth A. D. Shroff Memorial Lecture, delivered in Bombay on 28 October 1974",
+    "confidence": "high"
+  }
+]

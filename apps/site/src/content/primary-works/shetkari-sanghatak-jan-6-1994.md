@@ -75,6 +75,24 @@ missing_metadata_flags:
 
 This issue of Shetkari Sanghatak (Marathi fortnightly, Year 10, Issue 18) — the publication of Sharad Joshi's Shetkari Sanghatana — is built around two interlocking arguments: the case for the Sanghatana to step out of the Janata Dal umbrella and contest elections in its own right, and the case that the Narasimha Rao government's economic reforms must be extended to agriculture rather than stop at industry. The lead editorial 'पाटी पुसली, आता पुढे....' by Sharad Joshi reports the 30 December 1993 meeting at the Maharashtra Vidhan Bhavan convened by Speaker Madhukarrao Chowdhary with the five Sanghatana-backed Janata Dal MLAs (Moreshwar Tembhe, Vasantrao Bande, Vaman Chatap, Jivraj Tondchirkar and Saroj Kashikar) and announces a fresh political beginning under the Sanghatana's own banner. A second long piece reproduces Joshi's 19 December 1993 open letter to the Prime Minister, asking that the GATT/Dunkel-led liberalisation also dismantle the old controls on agriculture (Essential Commodities Act, sugar/cotton/oilseed monopolies, levy rules, MEP and dumping schemes) and offer an exit policy for sick public-sector units. Shorter items cover the Gujarat Khedut Samaj's 26 January 1994 agitation against the Ankleshwar gas project, a World Bank ranking placing India among the world's poorest economies, the Maharashtra Chief Minister's renewed pledge to close liquor shops on women's resolutions, an organisational order from Pasha Patel mobilising cadres to Ankleshwar, and an appeal from Shetkari Mahila Aghadi chair Saroj Kashikar to back the 26 January 1994 anti-liquor satyagraha.
 
+## Key points
+
+- This Year 10, Issue 18 number of Shetkari Sanghatak reports the 30 December 1993 Vidhan Bhavan meeting, convened by Speaker Madhukarrao Chowdhary, between five Sanghatana-backed Janata Dal MLAs and the organisation's leadership.
+
+- Sharad Joshi's lead editorial, Slate wiped clean, now onward, calls the Sanghatana's Janata Dal alliance a third failed experiment and announces the movement's return to independent electoral politics.
+
+- Joshi cites the 1980 Aurangabad convention as the source of the Sanghatana's organisational strength and announces a forthcoming 71st convention to formalise the political pivot, alongside Pasha Patel's elevation as president.
+
+- A second piece reproduces Joshi's 19 December 1993 open letter to the Prime Minister, defending India's accession to the GATT/Dunkel agreement signed at Geneva on 15 December 1993.
+
+- The letter demands repeal of Essential Commodities Act controls, cooperative monopolies on cotton and sugarcane, and the Minimum Export Price, arguing liberalisation must extend to agriculture as it has to industry.
+
+- Joshi warns that if farmers are taken for granted and left inside old controls while industry benefits from reform, the entire liberalisation programme will lose credibility.
+
+- Shorter items cover the Gujarat Khedut Samaj's planned 26 January 1994 agitation at Ankleshwar against a gas-pipeline project and a World Bank ranking placing India among the world's poorest economies.
+
+- The issue also reports the Maharashtra Chief Minister's pledge to close liquor shops on women's resolutions and carries Saroj Kashikar's appeal, as chair of the Shetkari Mahila Aghadi, backing the anti-liquor satyagraha.
+
 ## Essays
 
 ### पाटी पुसली, आता पुढे....

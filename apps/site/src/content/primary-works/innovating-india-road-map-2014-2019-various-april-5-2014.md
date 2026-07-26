@@ -73,6 +73,7 @@ publication:
   publisher_name: Forum of Free Enterprise
   issuer_id: forum-of-free-enterprise
   year: 2014
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

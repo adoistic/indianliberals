@@ -77,6 +77,22 @@ missing_metadata_flags:
 
 In the rendered pages, this 15 June 1957 issue of The Indian Libertarian (Vol. V No. 8, the Bombay fortnightly edited by Miss Kusum Lotwala) opens with an editorial on Indo-Pakistan friction — the 'Grim Humour of Pak Protest' over Kashmir and a wry section headed 'India has been Russia' — before turning to its signature anti-Nehru, anti-Communist commentary. J. K. Dhairyawan's lead article, 'Nehru, the High Pontiff of Pseudo-Saints in Khaddar', mocks the cult of Gandhian sanctity around the Congress leadership in the setting of an A.I.C.C. meeting. A. Ranganathan's 'The Making of Modern India' is a more reflective survey of the nineteenth-century Indian Renaissance and its reform movements, centring on Raja Ram Mohan Roy and the Brahmo Samaj. The issue also carries Sumant Bankeshwar's 'Communism—Not an Ideology but A Conspiracy', Miss P. Pillai on 'Co-operation in Agriculture', Dr. K. N. Kini's 'Revolutionising Indian Life', and a four-page Supplement of the Research Department of the R. L. Foundation, whose rendered essay 'Money' by K. D. Valicha (edited by B. S. Sanyal) sketches the origins and theory of money. In the rendered pages the standing departments listed in the contents — 'The Mind of the Nation', news round-ups, and Book Reviews — appear only in the contents box or in passing.
 
+## Key points
+
+- The editorial addresses Indo-Pakistan friction over Kashmir under the headings 'Grim Humour of Pak Protest' and 'India has been Russia'.
+
+- J. K. Dhairyawan's lead article, 'Nehru, the High Pontiff of Pseudo-Saints in Khaddar', satirises the cult of Gandhian sanctity surrounding Nehru and the Congress leadership at an A.I.C.C. meeting.
+
+- Dhairyawan contends that this cult of 'Mahatmaism' — the ostentatious display of homespun khaddar and sainthood — substitutes moral posture for sound economic and public policy.
+
+- A. Ranganathan's 'The Making of Modern India' surveys the nineteenth-century Indian Renaissance, centring on Raja Ram Mohan Roy and the Brahmo Samaj.
+
+- Ranganathan treats the Indian encounter with Western thought and the reform of Hindu society as the very dynamic that shaped a reforming, liberal modern India.
+
+- Sumant Bankeshwar contributes 'Communism—Not an Ideology but A Conspiracy', while Miss P. Pillai writes on 'Co-operation in Agriculture' and Dr. K. N. Kini offers 'Revolutionising Indian Life'.
+
+- A four-page Research Department Supplement of the R. L. Foundation carries K. D. Valicha's essay 'Money', edited by B. S. Sanyal, sketching the origins and theory of money.
+
 ## Essays
 
 ### Nehru, the High Pontiff of Pseudo-Saints in Khadi

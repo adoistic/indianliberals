@@ -78,6 +78,22 @@ missing_metadata_flags:
 
 This is the May 15, 1958 issue (Vol. VI, No. 5) of The Indian Libertarian, a twice-monthly Bombay 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review,' edited by Miss Kusum Lotwala under the banner 'We stand for free economy and libertarian democracy.' In the rendered pages the issue is built around a sustained critique of Nehru and Congress governance — J. K. Dhairyawan on 'Our Topsy-Turvy Prime Minister,' a note on 'Nehru's Failure,' G. B. Verghese on 'The Hamletian Nehru,' Raja Hutheesing's 'Oh, Weep for Adonis,' and 'Vivek' on the ills of the Congress — alongside foreign-affairs alarm ('War With India Is Inevitable' by 'Vigilant'), M. A. Venkata Rao's defence of economic freedom, an economic supplement, and a polemic that 'Free Education Is A Fraud.' Its argumentative center is classical-liberal: hostility to one-party Congress dominance and state planning, and a defence of economic and political liberty against socialist and communist tendencies.
 
+## Key points
+
+- J. K. Dhairyawan's Our Topsy-Turvy Prime Minister offers a critical portrait of Nehru, charging him with inconsistency and a confusion of liberal professions with statist practice.
+
+- Dhairyawan's essay sets the issue's sustained anti-Nehru tone, faulting the Prime Minister's handling of both parliamentary democracy and national economic policy.
+
+- M. A. Venkata Rao's Economic Freedom defends economic liberty against socialism and class-war politics, arguing that freedom of thought, feeling and labour are inseparably bound together.
+
+- In the same essay, Venkata Rao warns against the Russian economic model and casts private enterprise as the foundation of a free society.
+
+- G. B. Verghese's The Hamletian Nehru and Raja Hutheesing's Oh, Weep for Adonis extend the issue's critique of Nehru's leadership.
+
+- A piece signed Vigilant, titled War With India Is Inevitable, voices foreign-affairs alarm about the international situation elsewhere in the same issue.
+
+- The issue also carries a note titled Nehru's Failure, a column by Vivek on the ills of the Congress, and a polemic arguing that Free Education Is A Fraud.
+
 ## Essays
 
 ### Our Topsy-Turvy Prime Minister

@@ -67,6 +67,22 @@ physical:
 
 This 1 October 1962 issue of The Indian Libertarian (Vol. X No. 13) appears against the backdrop of escalating Chinese incursions into the North-East Frontier Agency. Its unsigned lead editorial, 'Hit Out Or Get Out,' attacks the Nehru government's irresolution toward Chinese aggression in NEFA, while the bylined articles range across foreign-policy alignment, national integration, monetary policy, and the meaning of 'Left' and 'Right' in Indian politics. Contributors include M. A. Venkata Rao on a Western defence pact, M. N. Tholal on emotional versus enforced integration, S. Narayanaswamy on the practicality of mobilizing private gold, and C. Rajagopalachari on the Left/Right distinction. A 'Delhi Letter' surveys the India-China-Nepal triangle. The issue carries the journal's standing masthead slogan, 'We Stand For Free Economy And Limited Government.'
 
+## Key points
+
+- The 1 October 1962 issue, Vol. X No. 13, appears against escalating Chinese incursions into the North-East Frontier Agency, with its lead editorial 'Hit Out Or Get Out' attacking the Nehru government's irresolution.
+
+- M. A. Venkata Rao argues the Chinese threat exposes the bankruptcy of non-alignment and presses the case for a defence pact with the West despite the cost to India's declared neutralist posture.
+
+- M. N. Tholal distinguishes genuine national integration from what he calls flunkeyism and merely emotional integration, invoking Gandhi's writings to argue that real unity requires tolerance rather than imposed sentiment.
+
+- S. Narayanaswamy examines whether mobilizing India's privately held gold and jewellery is a practical proposition for reserves and development finance, noting the deep popular attachment to gold as security.
+
+- Narayanaswamy reviews the limited success of earlier gold-mobilization appeals and the administrative and political obstacles standing in the way of a fresh scheme.
+
+- C. Rajagopalachari's 'Left And Right' challenges the conventional political vocabulary, arguing that state control and centralized planning grouped under the Left banner do not necessarily serve the common people.
+
+- Rajagopalachari defends economic freedom and decentralization as having at least as strong a claim to the progressive label as socialist planning does.
+
 ## Essays
 
 ### A Defence Pact With The West

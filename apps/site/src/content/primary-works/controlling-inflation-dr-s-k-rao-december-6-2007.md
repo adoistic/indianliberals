@@ -29,6 +29,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2007
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -118,6 +119,26 @@ thinker_mentions:
 ## Summary
 
 Controlling Inflation is a Forum of Free Enterprise booklet (Mumbai, 6 December 2007) that pairs two addresses on India's mid-2000s inflation against the backdrop of surging food and crude oil prices and the Reserve Bank of India's tightening cycle. Minoo R. Shroff's introduction (Mumbai, 16 November 2007) frames the booklet as a contribution by two 'eminently qualified' authors who diagnose the causes of price rise and propose pragmatic remedies in monetary, fiscal and supply-side policy, with particular emphasis on the credibility gap between the official Wholesale Price Index and the inflation that 'common man' households actually experience. The first essay, by Dr. S.R.K. Rao (formerly Principal Adviser, Reserve Bank of India), reworks a 4 June 2007 talk delivered at an Economics Research Centre (ERC) seminar held jointly with the Forum and the Indian Liberal Group in Mumbai; it lays the blame for India's inflation at the door of 'FOG — Failure of Governance'. The second, by S.S. Bhandare (formerly Economic Adviser to Tatas), reprints a 29 July 2007 article from MEDC's Monthly News Digest that assesses whether the moderation of WPI inflation from 6.7% in February 2007 to 4.3% by end-June 2007 is sustainable, and outlines a five-point strategy — agricultural revolution, energy security, infrastructure, manpower capacity, and fiscal governance — to consolidate that gain.
+
+## Key points
+
+- Controlling Inflation, a Forum of Free Enterprise booklet published in Mumbai on 6 December 2007, pairs two addresses on India's mid-2000s inflation set against surging food and crude oil prices and the Reserve Bank's tightening cycle.
+
+- Minoo R. Shroff's introduction, dated 16 November 2007, frames the booklet as the work of two 'eminently qualified' authors diagnosing the causes of price rise and proposing monetary, fiscal and supply-side remedies.
+
+- Dr. S.R.K. Rao, reworking a 4 June 2007 talk given jointly with the Indian Liberal Group, argues India alone among large economies measures inflation through the Wholesale Price Index, which ignores services, housing, transport and education.
+
+- Rao diagnoses the credibility gap as 'FOG — Failure of Governance', tracing it to commodity-price hardening, a foodgrain supply-demand mismatch, the 'Dilemma of Capital Inflows' from hot foreign money, and rising off-balance-sheet public expenditure.
+
+- He proposes an Agricultural Debt Redemption Corporation to refinance small farmers through ten-to-fifteen-year produce bonds, a strengthened public distribution system, vigilance over speculative capital inflows, and strict adherence to the FRBM Act of 2003.
+
+- Rao concludes that monetary policy alone cannot curb inflation, insisting fiscal restraint and political pragmatism must work alongside the Reserve Bank's measures.
+
+- S. S. Bhandare's essay, reprinted from a 29 July 2007 MEDC Monthly News Digest article, questions whether the fall in WPI inflation from 6.7 percent in February to 4.3 percent by end-June 2007 will hold.
+
+- Bhandare shows long-term WPI inflation falling structurally from 10.6 percent in 1991-96 to 4.9 percent in 2001-07 due to deregulation, liberalised imports and CENVAT and State VAT rationalisation, even as consumer price indices stayed near 8 percent.
+
+- He identifies five risks to continued disinflation, including a liquidity overhang from M3 growth and surging crude prices, and proposes a five-pronged response covering agriculture, energy security, infrastructure, manpower and fiscal governance.
 
 ## Essays
 

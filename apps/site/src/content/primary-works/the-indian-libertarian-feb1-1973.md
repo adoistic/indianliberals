@@ -78,6 +78,22 @@ physical:
 
 The Indian Libertarian, Vol. XVIII No. 21 (1 February 1973), edited by Kusum Lotvala and published fortnightly from Bombay by Libertarian Publishers, is a classical-liberal journal of public affairs. The lead editorial 'Pie in the Sky Again' attacks the Indira Gandhi government's stubborn attachment to Soviet-style five-year planning after the famines and shortages it produced, arguing that Nehru's prestige still trumps any willingness to revise course. The issue also carries an obituary essay 'Restored Balance in Indian Politics' on the death of C. Rajagopalachari, M. N. Tholal's polemic faulting the Swatantra Party for its conciliatory posture toward Bhutto's Pakistan, a short 'India and the CIA' note arguing that only a competent 'rightist fifth column' inside India can effectively counter foreign subversion, a Delhi Letter on P. N. Haksar's sudden retirement and Akali charges of corruption against Mrs. Gandhi's ministers, G. Vijayam's long report on the first World Atheist Meet at Vijayawada, A. Ranganathan's science feature on chemotherapy, I. Satya Sundaram's diagnosis of India's price spiral, and James A. Weber's libertarian rejoinder to US population-control advocacy.
 
+## Key points
+
+- The 1 February 1973 issue, Vol. XVIII No. 21, edited by Kusum Lotvala, leads with 'Pie in the Sky Again', arguing Soviet-modelled Indian planning has repeatedly failed to deliver goods, noting even Russia imports grain from capitalist countries.
+
+- The editorial accuses Mrs. Indira Gandhi's government of clinging to the planning framework because Nehru's posthumous prestige and the careers of Congressmen like Morarji Desai depend on it, despite the Fourth Plan's disastrous close.
+
+- The editorial holds up the First Five-Year Plan's agricultural focus as the pragmatic alternative to what it dismisses as reckless, planning-driven 'growthmanship'.
+
+- An obituary essay signed 'K. Kumara' frames C. Rajagopalachari's death as the loss of the figure who restored balance to Indian politics after it drifted leftward under Nehru, calling him a sworn enemy of Karl Marx.
+
+- A. Ranganathan's science feature traces chemotherapy from Paracelsus and the iatrochemists through Ehrlich's salvarsan, Domagk's prontosil, and Fleming's 1929 discovery of penicillin, noting the new problem of bactericidal resistance it opened up.
+
+- M. N. Tholal's Delhi Letter accuses the Swatantra Party leadership of 'suicidal mania' for its conciliatory posture toward Z. A. Bhutto's Pakistan, arguing it sacrifices principle for tactical respectability.
+
+- The issue also carries a Delhi Letter on P. N. Haksar's sudden retirement and Akali charges of corruption against Mrs. Gandhi's ministers, alongside G. Vijayam's report on the first World Atheist Meet at Vijayawada.
+
 ## Essays
 
 ### Pie in The Sky Again

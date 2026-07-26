@@ -42,6 +42,7 @@ publication:
   year: 1964
   edition: First Published May 1964 (Vaishak 1886)
   series: Forum of Free Enterprise pocketbook (fourth in the series)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -78,6 +79,20 @@ missing_metadata_flags:
 ## Summary
 
 In the rendered pages, 'Towards Greater Production & Productivity' presents itself as a symposium organised by the Forum of Free Enterprise and published as a popular pocketbook by Popular Prakashan (May 1964). An introduction signed by A. D. Shroff, President of the Forum, frames the volume's purpose: economic development in an underdeveloped country is the elimination of poverty, there is 'no royal path' to it, and greater production and productivity from existing resources is the essential pre-requisite because only that maximises the wealth available for savings and investment. The book collects seven practical essays — on forms of business organisation, personnel policy, standard costing, modern marketing, decision-making, industrial relations, and materials management — based on a series of Forum lectures and aimed at improving the production and productivity of enterprises. In the rendered pages only the opening of the first essay is visible; the remaining essays fall outside this chunk.
+
+## Key points
+
+- A. D. Shroff's introduction frames the book's purpose: since there is 'no royal path' to eliminating poverty in an underdeveloped country, raising production and productivity from existing resources is the essential prerequisite for savings and investment.
+
+- The pocketbook collects seven essays drawn from Forum of Free Enterprise lectures, covering business organisation, personnel policy, standard costing, modern marketing, decision-making, industrial relations, and materials management.
+
+- Chartered accountant H. B. Dhondy opens the volume by arguing that businessmen carefully plan machinery, finance and markets but routinely neglect the choice of legal form for their enterprise.
+
+- Dhondy illustrates the cost of this neglect with an international firm whose Indian business suffered after being converted into a public company unsuited to its need for continuous, on-the-spot managerial risk-taking.
+
+- He surveys the forms of business organisation available to a small or medium entrepreneur — sole proprietorship, partnership, and private or public company — weighing independence against corporate structure.
+
+- Dhondy identifies limited liability of shareholders, arising from a company's separate legal personality, as the single most important factor behind the growth of joint-stock companies.
 
 ## Essays
 

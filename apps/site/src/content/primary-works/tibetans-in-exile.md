@@ -191,6 +191,24 @@ thinker_mentions:
 
 This issue of Liberal Times (Volume III / Number 2, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, is devoted to the Tibetan exile experience under the thematic banner 'Tibetans in Exile — The Struggle Continues…'. In the rendered pages, the issue assembles voices from Tibetan activists, Indian commentators, and a US Congressional document to examine three interlocking problems: China's ongoing cultural, demographic and ecological destruction of Tibet; the democratic institutions built by the exile community under the Dalai Lama; and the strategies — non-violent resistance, international lobbying, youth mobilisation, and women's political organising — that define the contemporary freedom movement. The editorial perspective is broadly liberal-internationalist, emphasising self-determination, human rights, rule of law, and non-violent civil disobedience as the legitimate basis for Tibet's claim to independence.
 
+## Key points
+
+- Pema Thinley's cover essay "Tibet: The Tragedy and the Hope" describes Chinese policy as subtle genocide through population transfer and documents the destruction of 6,254 monasteries alongside coercive birth control and environmental devastation.
+
+- Ajit Bhattacharjea's "The Exile Identity and Democratic Vision" traces thirty-five years of democratic development among Tibetan exiles, culminating in the 1991 Charter that turned the Assembly of Tibetan People's Deputies into a fully parliamentary legislature.
+
+- Prof. Samdhong Rinpoche, chairman of the Assembly of Tibetan People's Deputies, grounds the freedom movement in Buddhist inter-dependence and proposes escalating to a Satyagraha of civil disobedience decided by referendum.
+
+- Yangchen Dolkar's essay on Tibetan youth presents the 12,000-member Tibetan Youth Congress as a loyal opposition that also serves as a conduit to Chinese dissidents and the peoples of East Turkistan and Inner Mongolia.
+
+- Nawang Lhamo surveys women's political activism from the 30,000-strong 1959 Lhasa march to the Tibetan Women's Association's lobbying at the 1995 Beijing Fourth World Conference on Women.
+
+- Karma Wangdui contributes further first-person testimony from the exile community, while Erhard Haubold of the Frankfurter Allgemeine Zeitung supplies an outside dispatch on Tibet's international politics.
+
+- Fazal-ur-Rahman situates the Tibet question within wider South Asian regional and strategic concerns, reflecting the issue's broadly liberal-internationalist emphasis on self-determination and human rights.
+
+- The issue reprints a United States Congress resolution from the Foreign Relations Authorization Act of 1992-93 declaring Tibet occupied and recognising the Dalai Lama's government-in-exile as its true representative.
+
 ## Essays
 
 ### Tibet: The Tragedy and the Hope

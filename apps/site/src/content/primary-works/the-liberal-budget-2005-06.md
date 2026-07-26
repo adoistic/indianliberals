@@ -16,6 +16,8 @@ publication:
   place: Mumbai
   year: 2005
   series: "The Liberal Budget"
+  series_id: ilg-liberal-budget
+  series_ordinal: 2
 provenance:
   source: ccs_archive
   scan_quality: fair

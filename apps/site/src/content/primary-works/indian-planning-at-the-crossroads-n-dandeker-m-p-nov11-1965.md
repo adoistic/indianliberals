@@ -35,6 +35,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1965
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -158,6 +159,26 @@ thinker_mentions:
 ## Summary
 
 This November 1965 Forum of Free Enterprise booklet bundles three short interventions on the Fourth Five-Year Plan, issued as the Indian economy slid into monetary inflation, a foreign-exchange crunch, and chronic foodgrain shortages. The contributors are N. Dandeker, an M.P. with administrative experience in the I.C.S.; G. L. Mehta, a former Indian Ambassador to the U.S.A., former member of the Planning Commission, and Chairman of the Industrial Credit and Investment Corporation of India; and K. Santhanam, M.P., former Chairman of the Finance Commission, whose piece is reprinted from the Statesman of July 24, 1964. All three reject the Planning Commission's proposed Rs. 21,500-crore Fourth Plan as conceived, but from distinct angles. Dandeker indicts the macro consequences of monetary expansion, the collapse of public utilities, the worsening foreign-exchange position, and "rupee payment trade" as a quack remedy, arguing that "totalitarian" planning has been eroding the Constitution. Mehta urges a smaller, more selective Plan, automatic licensing of projects that do not draw on foreign exchange, and scepticism about further public-sector steel plants, petro-chemical complexes, and the Cochin shipyard as Galbraith's "symbolic modernism." Santhanam pleads for a one-year extension of the Third Plan to March 1967, a moratorium on new starts, and self-financing public-sector industries, warning that the assumption that Fourth-Plan outlays must be proportionate to the Third has "become a vested interest." The booklet is framed by sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative good.
+
+## Key points
+
+- The booklet bundles three short interventions on the Fourth Five-Year Plan, published by the Forum of Free Enterprise in November 1965 amid monetary inflation, a foreign-exchange crunch and foodgrain shortages.
+
+- All three contributors — N. Dandeker, G. L. Mehta and K. Santhanam — reject the Planning Commission's proposed Rs. 21,500-crore Fourth Plan as conceived, though from distinct angles.
+
+- Dandeker, an M.P. with I.C.S. administrative experience, cites money supply growing 43.7 per cent between 1960 and 1964 against only 17.5 per cent growth in national income as evidence of monetary overheating.
+
+- Dandeker dismisses 'rupee payment trade' as a quack remedy for the foreign-exchange crisis and argues that totalitarian-style planning has been steadily eroding the Constitution.
+
+- G. L. Mehta, a former Indian Ambassador to the United States and former Planning Commission member, urges a smaller, more selective Plan with automatic licensing for projects that do not draw on foreign exchange.
+
+- Mehta voices scepticism about further public-sector steel plants, petro-chemical complexes and the Cochin shipyard, terming them instances of Galbraith's 'symbolic modernism'.
+
+- K. Santhanam, a former Chairman of the Finance Commission, pleads instead for a one-year extension of the Third Plan to March 1967 and a moratorium on new project starts.
+
+- Santhanam, whose piece is reprinted from the Statesman of 24 July 1964, argues that treating Fourth-Plan outlays as necessarily proportionate to the Third Plan has itself 'become a vested interest'.
+
+- The booklet frames its arguments with sidebar pull-quotes from Eugene Black and A. D. Shroff defending private enterprise as an affirmative economic good.
 
 ## Essays
 

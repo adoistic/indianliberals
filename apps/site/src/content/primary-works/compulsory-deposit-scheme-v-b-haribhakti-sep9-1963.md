@@ -25,6 +25,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1963
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -99,6 +100,22 @@ thinker_mentions:
 ## Summary
 
 This Forum of Free Enterprise pamphlet collects two talks delivered in Bombay on 23 July 1963 attacking the Compulsory Deposit Scheme (C.D.S.) announced by the Finance Minister in the 28 February 1963 Budget Speech. V. B. Haribhakti, a chartered accountant, dissects the statute clause-by-clause to argue that the scheme is gigantic, ill-considered, and impossible to administer fairly on lower-income earners. H. C. Malkani, Principal of Bombay's College of Commerce and Economics, takes up the question of feasibility — comparing C.D.S. to Keynes-inspired British deferred-pay precedents, weighing it against ordinary taxation, and concluding that the implementation machinery is nowhere near ready for the colossal task. Both pieces share the Forum's classical-liberal framing — captured in the cover-leaf epigraphs from Eugene Black and A. D. Shroff — that compulsory saving on the poor is a contradiction in terms and that government overspending, not private consumption, is the real fiscal problem.
+
+## Key points
+
+- Chartered accountant V. B. Haribhakti opens by calling the Compulsory Deposit Scheme a 'Frankenstein' born of only four paragraphs of the sixty-nine-paragraph 1963 Budget Speech and drafted in haste.
+
+- Haribhakti works through the statute's five categories of compulsory depositors, its Rs. 12-crore revenue target, and definitional gaps between the C.D.S. Act and the Income-tax Act around 'salary' and 'person'.
+
+- He cites India's per-capita income of Rs. 292.50 against Rs. 11,118 in the United States, plus a survey showing 85% of urban households had nil or negative savings, to argue compulsion cannot work below Rs. 3,000 income.
+
+- H. C. Malkani, Principal of Bombay's College of Commerce and Economics, recalls Lord Keynes's wartime British precedent for compulsory saving but concludes the scheme's implementation machinery is not ready for so large a task.
+
+- Malkani notes the Third Plan required an 11.5% saving rate but achieved only about 8.5%, treating this shortfall as the scheme's real motivation without endorsing it as the remedy.
+
+- He points to NCAER findings that employees earning Rs. 1,500 to 3,000 monthly have almost no net savings, and to the eight lakh accounts the scheme would require in Bombay City alone.
+
+- Both contributors, framed by cover-leaf epigraphs from Eugene Black and A. D. Shroff, conclude that compulsory saving imposed on the poor is a contradiction and that curbing government overspending is the real fiscal remedy.
 
 ## Essays
 

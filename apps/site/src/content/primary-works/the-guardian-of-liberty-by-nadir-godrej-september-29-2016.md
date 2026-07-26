@@ -19,6 +19,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2016
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   notes: filename-attested stub; source PDF not yet imported
@@ -51,3 +52,13 @@ pipeline. Once imported, the `summary`, `summary_structured`, `physical`,
 `kind`, `themes`, and `key_points` fields can be populated. Until then,
 this MD exists only to give Nadir Godrej a corpus backlink for his own
 authored work.
+
+## Key points
+
+- "The Guardian of Liberty" is a Forum of Free Enterprise pamphlet credited to Nadir Godrej and dated 29 September 2016, per the archive's authority-file attestation.
+
+- The archive holds this entry only as a stub, generated from the authority file's pdf-filename attestation rather than from an extracted reading of the source text.
+
+- The underlying source PDF has not yet been ingested through the archive's bake-off and extraction pipeline, so no summary, themes, or key points have been derived from its actual content.
+
+- The stub exists solely so that Nadir Godrej's thinker page can backlink to this attested authored work pending full processing.

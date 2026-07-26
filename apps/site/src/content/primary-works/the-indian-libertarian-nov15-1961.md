@@ -68,6 +68,22 @@ missing_metadata_flags:
 
 This Diwali (Vol. IX No. 16, 15 November 1961) number of The Indian Libertarian, a Bombay classical-liberal journal that 'stands for free economy and limited government', opens with a message from C. Rajagopalachari praising the journal's defence of freedom against 'the ignorant and wicked doctrines of State compulsion'. In the rendered pages the issue's argumentative centre is national integration: a lead editorial on the Bombay North by-election contest between Acharya Kripalani and Krishna Menon, followed by essays from M. A. Venkata Rao on the cultural foundations of national integration and M. N. Tholal on Muslims and national integration, plus a cultural piece by K. T. Padmanabhan Tampy on the Kerala art-form Thullal. Later sections (Economic Supplement, Delhi Letter, Book Review, Swatantra Manifesto, Gleanings, News and Views) were present in the chunk but are largely beyond the rendered essay pages.
 
+## Key points
+
+- C. Rajagopalachari opens the Diwali issue with a message praising the journal's defence of freedom against the ignorant and wicked doctrines of State compulsion.
+
+- The lead editorial The Patriot vs. The Fellow-Traveller frames the Bombay North by-election as a contest between Acharya Kripalani, backed by the Swatantra-PSP-Jana Sangh Troika, and Krishna Menon, backed by Nehru.
+
+- The editorial accuses Nehru of abandoning propriety to help his protege Menon, casting Kripalani as a man of selfless service and Menon as a fellow-traveller of the Red Moscowites.
+
+- M. A. Venkata Rao's Aspects of National Integration traces communal outbreaks such as the Jabalpur riots to a clash of religiously rooted cultures rather than mere disorder.
+
+- Venkata Rao argues genuine national integration requires a shared spiritual and cultural foundation, not force or exhortation, and reviews India's historical capacity to absorb diverse communities.
+
+- M. N. Tholal's Muslims and National Integration weighs assimilation against the demands of a creative, secular culture and the tension between communal loyalty and shared national life.
+
+- K. T. Padmanabhan Tampy's cultural essay on Thullal, Kerala's popular solo dance-narrative art form, credits the poet Kunchan Nambiar with originating the genre and describes its three recognised varieties.
+
 ## Essays
 
 ### Editorial: The Patriot vs. The Fellow-Traveller

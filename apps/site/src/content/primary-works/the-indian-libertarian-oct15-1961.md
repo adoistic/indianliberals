@@ -69,6 +69,20 @@ physical:
 
 This October 15, 1961 issue of The Indian Libertarian (Vol. IX No. 14), the Bombay fortnightly 'Independent Journal of Free Economy and Public Affairs' now edited by D. M. Kulkarni, leads with a sharply anti-Nehru editorial and follows with signed essays on modernity, secular practice, the social cost of the motor car, and the Congress and language politics. In the rendered pages the editorial 'Nehru's Learned Ignorance' attacks Nehru's self-symbolisation and his attack on the Swatantra Party; M. A. Venkata Rao reflects on 'The Modern Spirit' and the clash of tradition and Western modernism; M. N. Tholal in 'Precept Versus Practice' scrutinises the National Integration Conference's school-prayer proposal against the Constitution's secular guarantees; J. M. Richards weighs the high civilisational price of letting motor cars dominate; and S. R. Narayana Ayyar examines 'The Congress And Linguism'. The issue's stance is classical-liberal and limited-government, hostile to statism, centralisation, and what it casts as Nehruvian authoritarian rhetoric.
 
+## Key points
+
+- The 15 October 1961 issue (Vol. IX, No. 14), now edited by D. M. Kulkarni, leads with the editorial 'Nehru's Learned Ignorance,' quoting his Cawnpore declaration 'I am the symbol of some thoughts, aims and goals of the nation.'
+
+- The editorial likens Nehru's self-symbolisation to Louis XIV's 'I am the State' and condemns his attack on the Swatantra Party at the National Integration meeting as political blackmail and intimidation.
+
+- M. A. Venkata Rao's 'The Modern Spirit' takes Nehru's description of steel plants and irrigation projects as 'temples' as a starting point for examining the clash between traditional Indian society and Western modernism.
+
+- M. N. Tholal's 'Precept Versus Practice' objects that the National Integration Conference's proposal for a common school prayer defeats the Constitution's Preamble guarantees of justice, equality of status and equality of opportunity.
+
+- J. M. Richards's 'Men in Motor Cars' itemises the price of motor-car dominance: towns ripped apart by new roads, the high cost of road building, and time lost to traffic congestion and the search for parking.
+
+- S. R. Narayana Ayyar's 'The Congress and Linguism' connects the language-politics question to Third Plan economic policy, citing planners' proposal to raise roughly Rupees seventeen hundred ten crores in taxes and the resulting burden on the common man.
+
 ## Essays
 
 ### Editorial

@@ -67,6 +67,24 @@ missing_metadata_flags:
 
 This Marathi-language fortnightly issue of शेतकरी संघटक (Shetkari Sanghatak), dated 21 November 1991, is organised around the massive Shegaon farmers' rally held on 10 November 1991 and is dominated by the address of Shetkari Sanghatana's leader Sharad Joshi. In the rendered pages the issue carries Joshi's speech proclaiming a new phase of struggle ('नव्या लढाईची घोषणा') and a 'Bharat Dashak' (1991–2000) to liberate the country from its debt crisis; a short reflective piece by Gopal Paranjape on who the true 'मानकरी' (honour-bearers) of the Shegaon gathering were; the collective Shegaon Jahirnama (Shegaon Manifesto) issued by the assembled peasantry; and a news report ('शेगाव मेलाव्याचा वृत्तांत') summarising the meeting's resolutions. The argumentative centre is a sharp critique of post-Independence agricultural and industrial policy as anti-farmer ('शेतकरीविरोधी'), and a call for a new national agricultural policy built around free trade in farm produce, deregulation of agricultural processing and exports, and the liberation of the metaphorical 'सीता' (the peasantry, here a 'स्वयंसिद्धा सीता') from her forty-year वनवास.
 
+## Key points
+
+- Sharad Joshi's Shegaon address declares 1991-2000 the "Bharat Dashak," a decade meant to free India from its debt crisis through agricultural revival, invoking a sant-poet's vision of an awaited just king.
+
+- Joshi announces the Shetkari Sanghatana's acceptance of a National Agricultural Policy drafted by its own standing advisory committee, distinguishing farmer, wage-labour, commercial and export agriculture and demanding deregulation in each.
+
+- Joshi warns the government that if it fails to respond to the movement's demands, the agitation will move from rural Maharashtra into the cities.
+
+- Gopal Paranjape's column "Shegaon Melavyache Mankari" asks who truly deserves credit for the rally, setting aside Sharad Joshi to honour the ordinary farmers and farm-women who travelled from across Vidarbha and Maharashtra.
+
+- Paranjape's piece foregrounds women, the poor and distant travellers who slept in the open and brought their own water and bhakri as the movement's moral centre, correcting leader-centred coverage.
+
+- The Shegaon Manifesto, issued on 10 November 1991 in the collective voice of the assembled farmers, distinguishes "Bharat," the peasant majority, from "India," the post-Independence urban elite.
+
+- The manifesto indicts forty years of governance for producing poverty, unemployment, illiteracy, unbalanced urbanisation, foreign and domestic debt, black money, corruption and communal violence.
+
+- The manifesto's programmatic demands call for a National Agricultural Policy, free internal and external trade in farm produce, deregulation of agro-processing and exports, and citizen rights to consent-based governance and free association.
+
 ## Essays
 
 ### नव्या लढाईची घोषणा

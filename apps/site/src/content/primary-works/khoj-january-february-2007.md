@@ -173,6 +173,26 @@ missing_metadata_flags:
 
 ખોજ (Khoj) — 'જીવન એક અવિરત ખોજ-આવિષ્કાર' — is the inaugural issue (Year 1, Issue 1, January–February 2007) of a Gujarati liberal periodical published from Vadodara by the Initiative for Open Society (Pahel Kendra), edited by Ambarish Mehta with an editorial board of Trushi Parekh, Anil Patel, and Rajesh Mishra. In the rendered pages (pp. 1–20), the issue announces itself as a forum for civil-society inquiry into questions of freedom, governance, law, and education. The opening quotes from the Rig Veda and Xenophanes establish an epistemological humility that frames the entire enterprise: truth is sought, not declared. The editorial situates the issue around two focal concerns — the passage of the Forest Rights Act 2006 (Van Adhikar Kanoon) and the SEZ controversy — presented as test cases for whether India's liberal constitutional promises reach its most marginalised citizens. Letters from readers engage urban housing policy, zoning, city poverty, and judicial reform, giving the issue a lively public-correspondence character. The remaining articles in the rendered chunk cover education philosophy (two pieces), a Supreme Court ruling on the Ninth Schedule, temple-trust corruption in Kerala, a column on Dalit experience from the grassroots, society's treatment of children, lessons from public life drawn from Swami Sahajanand's Gujarat tour, and two short opinion pieces on religious intolerance — together composing a picture of a periodical committed to liberal constitutionalism, civil society watchfulness, and the interface between high policy and everyday injustice.
 
+## Key points
+
+- The inaugural issue of Khoj, dated January to February 2007, was published from Vadodara by the Initiative for Open Society, also known as Pahel Kendra, and edited by Ambarish Mehta.
+
+- Its editorial board comprised Trushi Parekh, Anil Patel, and Rajesh Mishra, and opening quotations from the Rig Veda and Xenophanes frame the periodical's stance of epistemological humility, treating truth as sought rather than declared.
+
+- The editorial centres on the passage of the Forest Rights Act 2006 and the SEZ controversy, treating both as tests of whether India's constitutional promises reach its most marginalised citizens.
+
+- Reader letters engage urban housing policy, zoning, city poverty, and judicial reform, giving the inaugural issue a lively character of public correspondence between readers and editors.
+
+- Suresh Parikh argues for a Socratic, midwife-like model of teaching that draws out a student's innate capacity rather than moulding a passive recipient of instruction.
+
+- Kardam Modi's philosophical essay on adolescent education argues that values emerge from intergenerational encounter rather than from top-down transmission by teachers or curricula.
+
+- Trushi Parekh analyses the Supreme Court's January 2007 nine-judge ruling that subjected post-1973 Ninth Schedule laws to review under the fundamental rights of the Constitution.
+
+- Ashwin Karia documents corruption and unaccountable management in the Travancore Devaswom Board and the Sabarimala shrine, framing temple-trust governance as a rule-of-law issue.
+
+- Himanshi Shelat writes on missing children and the systemic indifference of police and child-welfare institutions in Gujarat, while an unsigned piece takes up religious-veto censorship of the film Parzania.
+
 ## Essays
 
 ### સંપાદકીય

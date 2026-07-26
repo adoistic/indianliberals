@@ -71,6 +71,20 @@ missing_metadata_flags:
 
 This March 1, 1960 issue (Vol. VII No. 27) of The Indian Libertarian leads with an editorial, 'The Russian Dictator in India', on Soviet Premier Khrushchev's five-day visit, reading his praise of Indian non-alignment and his tour of Soviet-aided projects (the Bhilai steel plant, Suratgarh farm) against the backdrop of Chinese aggression on India's northern borders at Longju and Ladakh. The bylined articles cover M. A. Venkata Rao on the Kerala elections and the fall of the Communist ministry, M. N. Tholal on the implications of non-alignment, a reprinted William Henry Chamberlin piece on the eclipse of European socialism, and a four-page Rationalist Supplement by D. M. Kulkarni attacking the caste system as India's greatest curse. Across the rendered pages the issue sustains the journal's classical-liberal, anti-communist and rationalist commitments.
 
+## Key points
+
+- The lead editorial, 'The Russian Dictator in India', reads Khrushchev's five-day visit and praise for Indian non-alignment against Chinese aggression at Longju and Ladakh on India's northern border.
+
+- M. A. Venkata Rao's 'Kerala Elections and After' treats the 1960 Kerala result, which ended the Communist ministry, as a victory for constitutional politics over communism's advance in India.
+
+- M. N. Tholal's 'Implications of Non-Alignment' argues genuine non-alignment is being hollowed into a pose, questioning whether India's even-handedness survives contact with Cold War realities.
+
+- William Henry Chamberlin's reprinted 'European Socialism in Eclipse' argues prosperity and experience since 1951 have discredited large-scale nationalisation, citing the German Social Democrats' shift away from doctrinaire socialism.
+
+- D. M. Kulkarni's Rationalist Supplement, 'Caste System, Greatest Curse of India', traces caste's evolution into a rigid hereditary order that corrodes national unity and individual worth.
+
+- Kulkarni calls for the dismantling of the caste system as an essential condition for India's social and economic modernisation.
+
 ## Essays
 
 ### Kerala Elections and After

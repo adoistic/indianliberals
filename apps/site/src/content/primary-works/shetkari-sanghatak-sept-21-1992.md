@@ -95,6 +95,24 @@ missing_metadata_flags:
 
 This 21 September 1992 issue of the Marathi fortnightly Shetkari Sanghatak (year 9, number 12) is the house organ of Shetkari Sanghatana, the farmers' movement led by Sharad Joshi. The eight rendered pages are dominated by two long policy interventions by Joshi himself — a front-page essay arguing that India's milk surplus is the work of price liberalisation rather than the cooperative-and-NDDB apparatus, and a long position paper on the August 1992 fertilizer price hike titled 'Subsidy is not the answer — no alms, we want the price of our sweat.' The issue also carries field news from the Nagpur and Nanded propaganda tour, an announcement cancelling the Majghar farm-display, a reader-survey form on farmers' economic condition, a 'सं. न. वि. वि.' letters column with short pieces by Sharad Joshi and others on farm taxation, four-fold (chaturang) farming, the prohibition campaign in Gadchiroli and the Sindhudurg loan-waiver, and two back-page columns — Joshi's 'उत्पन्नाची उलटी गंगा' (the inverted Ganga of farm income) and Akhil Kesarsaikar's testimonial on quitting chemical fertilisers. The argumentative centre throughout is the same: farmers prosper when policy clears markets and gets out of the way; cooperatives, subsidies, parastatals and the urban-biased terms of trade are the problem, not the cure.
 
+## Key points
+
+- Sharad Joshi's lead essay 'दूध : सहकार विरुद्ध शेतकरी' (Milk: Cooperative versus Farmer) attacks a resolution by Maharashtra cooperative-dairy leaders to keep private players out of milk as protection of a political cartel.
+
+- Joshi reads India's post-1991 milk surplus as a response to price liberalisation rather than an achievement of the NDDB-anchored cooperative system, quoting Dr. Verghese Kurien on the model's dependence on monopoly.
+
+- He cites Supreme Court interpretation of Operation Flood and the central essential-commodities law as instruments letting the centre override state-level dairy liberalisation, and calls for an open market where farmers may sell to private buyers.
+
+- In a second position paper responding to the August 1992 fertilizer price hike, Joshi rejects both the price increase and the underlying principle of fertilizer subsidy itself.
+
+- He argues the subsidy is captured mainly by manufacturers and by irrigated-belt farmers in five or six states such as Punjab, Haryana and Tamil Nadu, not by the dryland majority.
+
+- Joshi cites India's per-hectare fertilizer use as still far below European levels and frames public-sector fertilizer plants as high-cost incumbents whose losses have been used to justify the subsidy.
+
+- He replaces the demand for cheaper inputs with a demand for output prices at world parity, summarised in the phrase 'घामाचे दाम' (the price of our sweat).
+
+- A separate news report covers the Sanghatana's propaganda tour through Nagpur and Nanded districts, including village meetings and a Mahatma Gandhi Jayanti pandal, run jointly with the Shetkari Mahila Aghadi.
+
 ## Essays
 
 ### दूध : सहकार विरुद्ध शेतकरी

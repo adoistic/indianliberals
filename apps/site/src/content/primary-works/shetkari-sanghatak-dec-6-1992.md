@@ -59,6 +59,20 @@ missing_metadata_flags:
 
 This twelve-page issue of the Marathi fortnightly Shetkari Sanghatak (Year 9, Issue 17, 6 December 1992) is an 'Agitation Special Issue No. 2' (आंदोलन विशेषांक - २), a mobilising number for Sharad Joshi's Shetkari Sanghatana ahead of a mass action at the Gateway of India / Nhava Sheva, Bombay, planned for 9-12 December 1992. The lead article 'धर्मक्षेत्र कुरुक्षेत्र — न्हावा शेवा', signed by Sharad Joshi, casts the coming agitation in Mahabharata terms — the field of battle as a field of dharma — and rallies farmers to march on the Bombay docks against import policy and state control of agricultural trade. The interior pages carry agitation slogans (including 'Government Hands off Economy' and 'भीक नको, घेऊ घामाचे दाम' — not alms but the price of our sweat), trade-policy argument, and statistical tables on wheat, cotton and onion production and exports marshalling the case that government import and pricing policy has betrayed the Indian farmer. The full-page back cover, 'बंदर न्हेरू गद्दार गेहूँ रोकेंगे', announces the Gateway of India action and urges farmers across Maharashtra to converge on Bombay.
 
+## Key points
+
+- This "Agitation Special Issue No. 2" of Shetkari Sanghatak (Year 9, Issue 17, 6 December 1992) mobilises Sharad Joshi's Shetkari Sanghatana for a mass action at the Gateway of India and Nhava Sheva planned for 9-12 December 1992.
+
+- The lead article, "Dharmakshetra Kurukshetra — Nhava Sheva" by Sharad Joshi, casts the coming agitation in Mahabharata terms, framing the Bombay docks protest as a righteous battlefield of dharma.
+
+- Joshi's article attacks state control of agricultural trade and import policy, arguing the farmer is reduced to begging rather than receiving fair prices for produce.
+
+- The issue's slogan page compiles Marathi and Hindi rallying cries, including "Government Hands off Economy" and "bhik nako, gheu ghamache daam" (not alms, but the price of our sweat).
+
+- Interior pages present statistical tables on wheat, cotton and onion production and exports to argue that government import and pricing policy has betrayed the Indian farmer.
+
+- The full-page back cover, "Bandar Nehru gaddar gehun rokenge," announces the Gateway of India action and urges farmers across Maharashtra to converge on Bombay.
+
 ## Essays
 
 ### धर्मक्षेत्र कुरुक्षेत्र — न्हावा शेवा

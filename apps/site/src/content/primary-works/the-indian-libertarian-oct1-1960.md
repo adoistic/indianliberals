@@ -65,6 +65,24 @@ physical:
 
 This 1 October 1960 issue of The Indian Libertarian (Vol. VIII No. 13), the fortnightly classical-liberal journal edited by Kusoom Lotwalla, opens with an editorial marking the centenary of the engineer-statesman Sir M. Visvesvaraya, holding him up as a model of public service, integrity and nation-building. The substantive articles range across foreign policy, economics and Indian thought: M. A. Venkata Rao contrasts Nehru's doctrine of Panchsheela and non-interference with Kautilya's realist Mandala theory of the balance of power; M. N. Thoiral examines Khrushchev's disarmament diplomacy at the United Nations against the backdrop of the Cold War and the Congo crisis; and S. Ramanathan continues a study of Lokayata, the materialist (Charvaka) tradition in Indian philosophy, as a rationalist heritage. A reprinted Swatantra Party statement, 'Inflation — Your Personal Enemy', explains inflation as a tax on incomes and savings. The issue also carries the journal's four-page Rationalist Supplement.
 
+## Key points
+
+- The editorial commemorates the hundredth birthday of Sir M. Visvesvaraya on 15 September, surveying his engineering achievements including the Krishnarajendra Reservoir, the Sukkur dam, and sanitary and flood-control works for Poona.
+
+- It holds up Visvesvaraya's tenure as Dewan of Mysore, his administrative reforms and his scrupulous integrity as a model of public service for modern India.
+
+- M. A. Venkata Rao's essay sets Nehru's doctrine of Panchsheela non-interference against Kautilya's ancient Mandala theory of balance-of-power statecraft, arguing the realist Kautilyan view better suits a nation facing aggressive neighbours.
+
+- M. N. Thoiral's 'Khrushchev and Disarmament' reads the Soviet leader's disarmament proposals at the United Nations as Cold War manoeuvring rather than genuine peace-making, weighing them against Soviet conduct in the Congo.
+
+- S. Ramanathan's continuing study of Lokayata, the materialist Charvaka school of classical Indian philosophy, traces its rationalist, anti-supernatural doctrines as an indigenous rationalist heritage.
+
+- A reprinted Swatantra Party statement, 'Inflation — Your Personal Enemy', adopted on the party's 18 September Party Day, defines inflation as a hidden tax that erodes incomes and savings.
+
+- The inflation statement frames the fight against rising prices as both a personal and a national concern for ordinary citizens.
+
+- The issue also carries the journal's four-page Rationalist Supplement, continuing its programme of rationalist and classical-liberal commentary alongside the main fortnightly's political and economic coverage.
+
 ## Essays
 
 ### Editorial: Dr. M. Visvesvaraya is 100 Years Old on 15th

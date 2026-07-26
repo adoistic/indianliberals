@@ -22,6 +22,7 @@ publication:
   place: Bombay
   year: 1958
   series: Government Expenditure series
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

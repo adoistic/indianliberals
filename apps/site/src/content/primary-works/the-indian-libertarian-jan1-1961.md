@@ -66,6 +66,20 @@ physical:
 
 This 1 January 1961 issue of The Indian Libertarian (Vol. VIII No. 19), the Bombay fortnightly edited by Kusum Lotwala, opens with an obituary editorial for Ellen Roy, the Radical Humanist and widow of M. N. Roy, and runs signed articles on socialism and inflation, the Congo crisis, and Indian materialist philosophy (Lokayata), alongside a Rationalist Supplement and standing departments. The full twenty-page issue is rendered, though the signed articles run past their opening pages. The journal's frame remains classical-liberal: a critique of socialism's inflationary consequences and a realist reading of Cold War interventions, set beside a tribute to the radical-humanist tradition.
 
+## Key points
+
+- The editorial obituary 'The Sad Demise of Mrs. Ellen Roy' mourns Ellen Roy, widow of M. N. Roy, who was murdered at Dehra Dun on 14 December 1960.
+
+- It traces her path from the Congress and the Radical Democratic Party into the Radical Humanist Movement and notes she continued editing The Radical Humanist after her husband's death.
+
+- M. A. Venkata Rao's 'Socialism and Inflation' argues that socialist programmes, by promising more than economies can deliver, drive inflation and so erode the welfare of the people they claim to serve.
+
+- Venkata Rao treats inflation as a hidden tax on the population and argues for monetary discipline over socialist economic method as the sounder policy course.
+
+- M. N. Tholal's 'Fishing in Congo's Waters' takes up the 1960-61 Congo crisis, engaging Nehru's position and the role of UN Secretary-General Dag Hammarskjold.
+
+- Tholal's essay continues the journal's characteristically sceptical reading of Cold War interventions by the great powers and the United Nations in the newly independent Congo.
+
 ## Essays
 
 ### Editorial

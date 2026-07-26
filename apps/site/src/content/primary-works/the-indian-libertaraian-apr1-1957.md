@@ -283,6 +283,24 @@ thinker_mentions:
 
 The Indian Libertarian, Vol. V No. 3 (1 April 1957), is a bi-monthly libertarian journal edited by Miss Kusum Lotwala and published by Libertarian Publishers (Private) Ltd., Bombay. This issue appeared immediately after India's second general elections and takes them as its central occasion: the editorial interrogates whether Congress's renewed mandate will deliver genuine democratic governance or deepen the slide toward a one-party monopoly underwritten by planning bureaucracy and press manipulation. The issue's argumentative center is the incompatibility of India's Second Five Year Plan with the liberal values the journal upholds — the Plan is variously characterised as crypto-communist, fiscally ruinous, and intellectually dishonest. Surrounding that core are articles on West Pakistan's authoritarian deterioration under President Mirza, a sharp critique of the Eisenhower Doctrine by Salvador de Madariaga, a polemic against India's foreign-policy establishment, a letters section on the role of press and government, domestic and world news digests, and book reviews promoting libertarian titles. The issue also advertises the Libertarian Social Institute's certificate course and the R. L. Foundation's Libertarian Quarterly, signalling a wider institutional ecosystem in 1950s Bombay.
 
+## Key points
+
+- The Indian Libertarian, Vol. V No. 3, dated 1 April 1957 and edited by Kusum Lotwala, appeared immediately after India's second general elections, and its editorial questions whether Congress's renewed mandate signals genuine democratic governance.
+
+- The editorial attributes Congress's victory partly to its control of the press and propaganda machine, citing electoral defeats in Maharashtra and Gujarat as evidence the party has lost contact with voters.
+
+- M. A. Venkata Rao's 'An Economic Plan or... A Communist Plot?' argues the Second Five Year Plan replicates Soviet central planning under democratic cover, singling out State ownership of new industrial capacity as the decisive element.
+
+- M. G. Hallar's 'Interim Budget / On High Road to Insolvency' cites an overall deficit of Rs. 218 crore as evidence that deficit financing is being dressed up as developmental investment.
+
+- Hallar argues that foreign borrowing, presented as a badge of international confidence, is actually a symptom of domestic resource exhaustion, and that no effective opposition to the trend exists.
+
+- The pseudonymous 'Vivek' poses five rhetorical questions on the election result, including Bombay's polling-day declaration as a Union Territory and Jayaprakash Narayan's withdrawal from formal politics.
+
+- 'Vigilant' traces President Iskander Mirza's dismantling of parliamentary government in West Pakistan, his capture of the press, and his use of the Khan Sahib ministry to suppress the Muslim League.
+
+- Salvador de Madariaga critiques the Eisenhower Doctrine for misreading Arab nationalism as communism, while K. D. Valicha contributes a satirical column lampooning India's foreign-policy commentariat.
+
 ## Essays
 
 ### Editorial: The Elections and After

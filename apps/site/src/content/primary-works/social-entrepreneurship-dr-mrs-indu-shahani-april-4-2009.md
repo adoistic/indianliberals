@@ -24,6 +24,7 @@ publication:
   place: Mumbai
   year: 2009
   series: Bhogilal Leherchand Memorial Lecture (20th)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

@@ -69,6 +69,22 @@ physical:
 
 This issue of The Indian Libertarian (Vol. VIII, No. 14, printed masthead date 15 October 1960; the source file is mislabelled 'jan15-1961'), edited by Kusum Lotwala, leads with an editorial, 'Nehru at the UNO Assembly', assessing the Prime Minister's first appearance at the United Nations General Assembly against the backdrop of the Cold War, the Congo crisis, Khrushchev, and the contest between the Western bloc and the Afro-Asian neutrals. The signed articles run the journal's classical-liberal and anti-communist line: M. A. Venkata Rao's 'The Impact of Land Reforms on Agriculturists' warns that ceiling-and-redistribution land reform harms the productive landowning class; M. N. Tholal's 'Five Neutrals' Nostrum' is sceptical of the non-aligned bloc's peace formula at the UN; an unsigned 'Twentieth Anniversary of an Aggression' and Frederic Sondern's reprinted 'Red Lure For the World's Youth' (on the Soviet-sponsored World Youth Festival in Vienna) press the anti-Soviet case; and J. M. Lobo Prabhu's 'Strikes By Government Permission' treats labour regulation. Regular departments — an Economic Supplement, Delhi Letter, Book Review, Tit-Bits, Gleanings from the Press, News and Views, and a Letter to the Editor — complete the issue, with the later department pages not fully in the rendered set.
 
+## Key points
+
+- The lead editorial, 'Nehru at the UNO Assembly', assesses the Prime Minister's first UN General Assembly appearance against the Cold War, the Congo crisis, and the contest between the Western bloc and the Afro-Asian neutrals.
+
+- M. A. Venkata Rao's 'The Impact of Land Reforms on Agriculturists' argues that ceiling-and-redistribution land reform penalises the productive landowning class and undermines efficiency and capital formation in agriculture rather than raising output.
+
+- M. N. Tholal's 'Five Neutrals' Nostrum' doubts that the non-aligned bloc's proposal for renewed Eisenhower-Khrushchev contact can resolve the superpower deadlock at the United Nations General Assembly.
+
+- An unsigned piece, 'Twentieth Anniversary of an Aggression', and Frederic Sondern's reprinted Reader's Digest essay 'Red Lure For the World's Youth' press the issue's anti-Soviet case.
+
+- Sondern's piece frames the Soviet-organised World Youth Festival in Vienna as a propaganda operation whose appeals to peace and friendship mask a recruitment drive aimed at Western and Afro-Asian youth.
+
+- J. M. Lobo Prabhu's 'Strikes By Government Permission' takes up the journal's recurring theme of labour regulation in the context of industrial disputes.
+
+- The issue, edited by Kusum Lotwala, rounds out with an Economic Supplement, Delhi Letter, Book Review, Tit-Bits, and Gleanings from the Press departments.
+
 ## Essays
 
 ### The Impact of Land Reforms on Agriculturists

@@ -18,10 +18,12 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 1999
-  series: 14/May-June/1999
+  series_id: bhogilal-leherchand-memorial-lecture
+  series_ordinal: 10
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: 14/May-June/1999. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/ethics-in-business-industry-and-public-life-n-vittal.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/ethics-in-business-industry-and-public-life-n-vittal.webp"
 rights:

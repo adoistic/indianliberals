@@ -26,6 +26,8 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2003
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 37
 provenance:
   source: ccs_archive
   scan_quality: unknown

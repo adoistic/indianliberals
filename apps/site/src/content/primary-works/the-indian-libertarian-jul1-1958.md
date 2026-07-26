@@ -83,6 +83,22 @@ physical:
 
 This 1 July 1958 issue (Vol. VI No. 8) of The Indian Libertarian — the Bombay 'Independent Journal of Economic and Public Affairs', edited by Kusum Lotwala and standing 'for free economy and libertarian democracy' — is built around rights, foreign affairs, and the journal's free-market economics. The editorial treats the Pakistan-Naga conspiracy, the Assam tax dispute, and the canal-waters question, while M. A. Venkata Rao writes on 'Minority Rights' and the barrister Sujata K. Desai examines 'Fundamental Rights and Their Amendment' in light of constitutional cases. Sumant Bankeshwar diagnoses 'Confusion in the Congress Crowd', M. N. Tholal considers an 'Islamic Renaissance', and C. Rajagopalachari contributes 'Provocative Pakistan'. An Economic Supplement carries free-market analysis — including Prof. G. N. Lawande on unemployment and integrated taxation and Kishore Valicha's 'France—A Lesson to India' — and the number closes with science writing, Frederick C. Barghoorn on Soviet-American exchanges, Libertarian Social Institute activities, and book reviews.
 
+## Key points
+
+- This 1 July 1958 issue, Vol. VI No. 8, edited by Kusum Lotwala, opens with an editorial addressing an alleged Pakistan-Naga conspiracy, a new tax dispute in Assam, the Kerala situation, and the canal-waters question with Pakistan.
+
+- M. A. Venkata Rao's Minority Rights argues minority protection in a liberal democracy should rest on individual rights rather than group privilege, linking the discussion to the R. L. Foundation's programme.
+
+- Barrister Sujata K. Desai's Fundamental Rights and Their Amendment weighs the tension between Parliament's amending power and the entrenchment of individual rights, including provisions concerning Scheduled Castes.
+
+- Sumant Bankeshwar contributes Confusion in the Congress Crowd, M. N. Tholal writes on an Islamic Renaissance, and C. Rajagopalachari contributes Provocative Pakistan.
+
+- The Economic Supplement opens with Prof. G. N. Lawande's Unemployment and Integrated Taxation, which casts state planning and integrated taxation as aggravating rather than relieving unemployment.
+
+- Kishore Valicha's companion piece, France—A Lesson to India, continues the supplement's free-market argument against state planning, drawing a cautionary economic lesson for Indian policymakers from the French experience.
+
+- The issue closes with science writing, Frederick C. Barghoorn on Soviet-American exchanges, notes on Libertarian Social Institute activities, and book reviews.
+
 ## Essays
 
 ### EDITORIAL

@@ -67,6 +67,24 @@ physical:
 
 This July 1, 1960 issue of The Indian Libertarian (Vol. VIII No. 7), edited by Kusum Lotwala in Bombay and incorporating the 'Free Economic Review' and 'The Indian Rationalist', combines the magazine's free-economy editorial line with foreign-policy, communal-politics, and philosophical essays. In the rendered pages the editorial reads the socialist and communist agitation against the Japan-American Mutual Security Treaty — the mobs surrounding the U.S. press officer Mr. Hagerty's car — as a warning of Chinese-backed subversion in Asia, and urges India to forge an Indo-American defence understanding. The signed essays then range from M. A. Venkata Rao on a libertarian path to world peace after the collapse of the Paris Summit, to M. N. Tholal on the Akali Dal's Punjabi Suba demand, Ralph Borsodi's decentralist 'Four-Fold Law of Living', and Lawrence Noonan's meditation 'Eternal Love'. Standing departments — a Rationalist Supplement, a Delhi Letter, Gleanings from the Press, News and Views, and Letters to the Editor — round out the issue.
 
+## Key points
+
+- The 1 July 1960 issue of The Indian Libertarian, Vol. VIII No. 7, edited by Kusum Lotwala and incorporating the "Free Economic Review" and "The Indian Rationalist," combines free-economy editorial commentary with foreign-policy and philosophical essays.
+
+- The editorial, "Jap-American Treaty in Trouble," reads the socialist and communist mobs surrounding U.S. press officer Mr. Hagerty's car in Japan as Communist-orchestrated agitation against the Japan-American Mutual Security Treaty.
+
+- The editorial urges India to forge an Indo-American defence understanding and calls on patriotic forces of all parties to counter Communist mobilisation over the "Chinese menace."
+
+- M. A. Venkata Rao's "A Libertarian Policy for World Peace" takes the collapse of the Paris Summit as evidence that lasting peace cannot rest on summit diplomacy between armed power blocs.
+
+- M. N. Tholal's "Punjabi Suba or Sikh State" examines the Shiromani Akali Dal's demand under Master Tara Singh, weighing whether it is genuine linguistic reorganisation or a covert bid for a Sikh state.
+
+- Ralph Borsodi's "The Four-Fold Law of Living" lays out a decentralist philosophy organised around four orders of law, physical, social, economic and moral, that a sound life must satisfy together.
+
+- Lawrence Noonan's "Eternal Love" is a reflective, quasi-philosophical meditation distinguishing transient attachment from a deeper, more abiding and permanent form of love.
+
+- Standing departments, including a Rationalist Supplement, a Delhi Letter, Gleanings from the Press, News and Views, and Letters to the Editor, round out the issue.
+
 ## Essays
 
 ### Editorial

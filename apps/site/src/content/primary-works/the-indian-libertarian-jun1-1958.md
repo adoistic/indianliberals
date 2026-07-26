@@ -86,6 +86,26 @@ missing_metadata_flags:
 
 This June 1, 1958 issue (Vol. VI No. 6) of The Indian Libertarian, the Bombay 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala, leads with M. A. Venkata Rao on the crisis convulsing the Congress and ranges across Cold War foreign policy, internal security, and anti-communist polemic under the banner 'We stand for free economy and libertarian democracy.' Pseudonymous columnists ('Daneshmand', 'Vigilant', 'Vivek') warn against war-mongering, lax security, and political farce, while B. S. Sanyal anatomises a 'Moscow-Cairo Axis' and Ashutosh Lahiry reads a deepening national crisis. A bound-in four-page Economic Supplement treats taxation, oil prices, and 'The Question of Planned Parentage'. Articles from printed page 17 onward — Sumanth Bankeshwar on land reforms, Ralph J. Cordiner on U.S. business leadership, and the tail departments — fall beyond the rendered pages and are not summarised here.
 
+## Key points
+
+- M. A. Venkata Rao's "Nehru and the Congress Crisis" reads the party's internal feuds as a failure of Nehru-era leadership caught between socialist rhetoric and practical governance, weakening its response to communism.
+
+- Writing as 'Daneshmand' in the recurring column 'This Is Pakistan', one contributor charges Pakistani actors with deliberately fanning the flames of war over Kashmir and the border.
+
+- B. S. Sanyal's "The Moscow-Cairo Axis" argues that an aligned Soviet-Egyptian bloc under Nasser is outmanoeuvring naive Indian non-alignment diplomacy.
+
+- Writing as 'Vigilant', a security column questions the adequacy of India's internal security, alleging money and effort flow toward Pakistani espionage.
+
+- Writing as 'Vivek', a further column, "The Great Farce", mocks a recent political episode as theatrical posturing divorced from actual conduct.
+
+- An unsigned piece, "Congress Illusions About the Communists", argues the ruling party misreads the Communist Party as an ordinary rival rather than a disciplined movement bent on capturing the state.
+
+- Ashutosh Lahiry's "The Deepening Crisis" blames socialist standardisation and regimentation for worsening India's economic and political malaise over the preceding year.
+
+- The bound-in Economic Supplement argues current taxation policy penalises productive capital and welcomes a recent reduction in oil prices as a benefit to consumers.
+
+- "The Question of Planned Parentage" takes up family planning, weighing healthy families, food supply and education against population growth as an economic question.
+
 ## Essays
 
 ### Nehru and the Congress Crisis

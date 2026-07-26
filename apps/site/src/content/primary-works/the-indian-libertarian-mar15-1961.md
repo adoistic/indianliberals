@@ -68,6 +68,20 @@ physical:
 
 The Indian Libertarian, Vol. VIII No. 24 (15 March 1961), is an issue of the Bombay fortnightly now edited by D. M. Kulkarni and flying the banner 'We Stand for Free Economy and Limited Government.' The editorial opens with the death of Home Minister Govind Vallabh Pant ('The Great Patriarch Passes Away') on 7 March 1961 and turns to communal disturbances in Jabalpur and Madhya Pradesh, Indian troops in the Congo, and the case for the private sector. The issue's analytical core is M. A. Venkata Rao's essay on 'The Muslim Problem in India' and M. N. Tholal's polemic against 'Nehru's Smokescreens', joined by J. M. Lobo Prabhu on planning for law and order and S. R. Narayana Ayyar's 'Thoughts for our Politicians.' A separately paginated Economic Supplement carries B. Ramakrishnan's critique of the 1961-62 Central Budget as 'soaking the rich and fleecing the poor', alongside a Delhi Letter, book review, press gleanings and news departments.
 
+## Key points
+
+- The 15 March 1961 issue of The Indian Libertarian (Vol. VIII, No. 24), edited by D. M. Kulkarni, opens with an editorial marking the death of Home Minister Govind Vallabh Pant on 7 March 1961 alongside coverage of communal disturbances in Jabalpur and Madhya Pradesh.
+
+- The same editorial addresses Indian troops serving in the Congo and restates the journal's case for the private sector against continued state economic control.
+
+- M. A. Venkata Rao's 'The Muslim Problem in India' examines the position of Muslims within the Indian polity after Partition, arguing for equal citizenship grounded in secular and constitutional principles rather than communal appeasement.
+
+- M. N. Tholal's 'Nehru's Smokescreens' accuses the Prime Minister of using rhetoric to mask policy failures, building its case around a Rajagopalachari speech in Delhi and diagnosing a governmental 'fear complex'.
+
+- J. M. Lobo Prabhu, writing as a retired I.C.S. officer, argues in 'Planning for Law and Order' that maintaining order is government's first duty and has been neglected amid the emphasis on economic planning.
+
+- In the Economic Supplement, B. Ramakrishnan's 'Soaking the Rich and Fleecing the Poor' critiques the 1961-62 Central Budget for failing to hold the price line while shifting fiscal burdens onto ordinary people despite its redistributive claims.
+
 ## Essays
 
 ### The Muslim Problem in India

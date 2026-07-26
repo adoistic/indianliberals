@@ -18,6 +18,8 @@ publication:
   place: New Delhi
   year: 2008
   series: Liberty Institute Occasional Paper 18
+  series_id: liberty-institute-occasional-paper
+  series_ordinal: 18
 provenance:
   source: ccs_archive
   scan_quality: unknown

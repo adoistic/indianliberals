@@ -66,6 +66,22 @@ physical:
 
 This January 15, 1963 issue (Vol. X No. 20) of The Indian Libertarian, an independent Bombay journal of public affairs edited by D. M. Kulkarni, appears in the immediate aftermath of the 1962 Sino-Indian war. Its lead editorial argues that India's freedom and security must be the nation's first concern while insisting that world peace remains the common concern of all, and it ranges across the Chinese threat, the Katanga secession crisis in the Congo, and a critique of the Nehru government's handling of the Indo-China dispute. The issue collects bylined contributions on national renewal and socialist politics — M. V. Venkata Rao on the psychological revolution India needs, M. N. Thola on socialist unity — alongside an Economic Supplement carrying J. M. Lobo Prabhu's 'A Victory Plan' and Marshall I. Goldman's analysis of Sino-Soviet trade as a barometer of the widening rift between Moscow and Peking. Standing departments (Delhi Letter, Book Review, Gleanings from the Press, News and Views) round out the number.
 
+## Key points
+
+- This 15 January 1963 issue of The Indian Libertarian (Vol. X No. 20), edited by D. M. Kulkarni, appears in the immediate aftermath of the 1962 Sino-Indian war.
+
+- The lead editorial argues India's freedom and security are the nation's first concern even as world peace remains the common concern of all, and devotes a section to the Katanga secession crisis in the Congo.
+
+- M. A. Venkata Rao's 'Wanted a Revolution in National Psychology' argues India needs a wholesale revolution in national outlook, not merely administrative reform, against the backdrop of the Chinese aggression.
+
+- M. N. Thola's 'Socialist Unity' examines relations among the Praja Socialist Party, the Socialist Party and Congress socialism, and expresses scepticism about the durability of any proposed merger.
+
+- Marshall I. Goldman's Economic Supplement essay reads Sino-Soviet trade figures as a barometer of the widening rift between Moscow and Peking, presenting a multi-year table of trade volumes.
+
+- J. M. Lobo Prabhu contributes 'A Victory Plan' to the same Economic Supplement that carries Goldman's statistical analysis of Sino-Soviet commerce.
+
+- Standing departments in the issue include a Delhi Letter, a Book Review, Gleanings from the Press, and News and Views.
+
 ## Essays
 
 ### India's Freedom And Security Are Our First Concern; World Peace The Common Concern Of All

@@ -29,6 +29,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1974
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -77,6 +78,24 @@ missing_metadata_flags:
 ## Summary
 
 A Package Plan to Fight Inflation gathers four public lectures delivered in July 1974 under the auspices of the Forum of Free Enterprise — by Dr. R. C. Cooper (Bangalore Centre, 11 July), Dhirajlal Maganlal (Bombay, 11 July), Minoo R. Shroff (Bombay, 10 July), and Prof. Gangadhar Gadgil (Bombay, 10 July). Speaking against a backdrop of devaluation, a 54.1% rise in the Wholesale Price Index between May 1972 and May 1974, and the spectre of mass unrest already manifest in Gujarat and Bihar, the four contributors converge on a common diagnosis: India's inflation is not an imported accident but the cumulative product of deficit financing, heavy-industry-biased planning, licensing-permit raj, hoarding, and the suffocation of agriculture and consumer-goods output.
+
+## Key points
+
+- Four Forum of Free Enterprise lectures, delivered in July 1974 by R. C. Cooper, Dhirajlal Maganlal, Minoo R. Shroff, and Gangadhar Gadgil, converge on inflation as the cumulative product of deficit financing, heavy-industry planning bias, and licensing controls rather than an imported accident.
+
+- Dr. R. C. Cooper calls for scrapping the licence-permit-quota system outright and narrowing the Monopolies and Restrictive Trade Practices Act so it targets actual consumer exploitation rather than penalising industrial scale.
+
+- Cooper proposes a rural-roads programme of at least Rs. 500 crores a year as a make-work and growth multiplier, alongside Free Trade Zones to attract labour-intensive West German, Japanese, and American industry.
+
+- Dhirajlal Maganlal traces the roots of the inflation to the Second Five-Year Plan's heavy-industry bias and neglect of agriculture, citing an 80 per cent price rise across the Second and Third Plans and a 57 per cent devaluation in 1966.
+
+- Maganlal reports that prices rose 29 per cent and money supply 17 per cent in 1973-74 alone, while the rupee's purchasing power fell 19 per cent, and calls inflation "the worst form of taxation on weaker sections."
+
+- Maganlal demands an end to deficit financing, citing unauthorised overdrafts on the Reserve Bank of Rs. 1,200 crores in 1973-74, and recommends demonetising high-denomination notes through schemes such as SEMIBOMBLA.
+
+- Minoo R. Shroff rejects the claim that India's inflation is merely part of a benign global trend, noting Wholesale Price Index inflation rose 54.1 per cent between May 1972 and May 1974 against under 2.5 per cent compound growth through the 1950s.
+
+- Shroff attributes the acceleration to falling per-capita foodgrain availability, stagnant industrial production, and missed Fourth Plan targets in cloth, fertilisers, cement, steel, and aluminium that fell short by 15 to 60 per cent.
 
 ## Essays
 

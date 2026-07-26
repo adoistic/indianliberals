@@ -32,6 +32,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1964
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -173,6 +174,24 @@ thinker_mentions:
 Are There Monopolies and Concentration of Economic Power in India? is a short Forum of Free Enterprise booklet, published in Bombay in July 1964 and printed by M. R. Pai. The Forum frames the booklet as a dispassionate intervention against what it calls 'ill-informed talk' on monopolies and concentration of economic power, and reproduces two newspaper articles already published earlier in 1964 — H. Venkatasubbiah's 'A Naive Analysis of Economic Power' (from The Hindu, 9 May 1964) and Arvind Narottam Lalbhai's 'Government's Obsession with "Monopolies" — A Threat to Economic Progress' (from The Economic Times, 15 April 1964) — together with an Appendix of selected quotations from Wilhelm Roepke's Economics of the Free Society.
 
 The argumentative centre is a sceptical reading of the Mahalanobis Committee on Distribution of Income and Levels of Living: Venkatasubbiah's piece dissects what he treats as the Committee's conceptual confusions between wealth, economic power and decision-making power, and argues that a politicised concentration of economic power in the State is no remedy. Lalbhai goes further, arguing that the 'monopolies' under attack do not in fact exist, that the Government's anti-concentration policy itself produces sellers' markets and inflation, and that 'if capitalism is bad, State capitalism is worse'. The Roepke appendix and the closing A. D. Shroff and Eugene Black aphorisms tie the booklet's particular Indian arguments into the Forum's broader classical-liberal frame of free enterprise as an 'affirmative good'.
+
+## Key points
+
+- Are There Monopolies and Concentration of Economic Power in India? is a Forum of Free Enterprise booklet published in Bombay in July 1964 and printed under M. R. Pai.
+
+- H. Venkatasubbiah's essay 'A Naive Analysis of Economic Power', reprinted from The Hindu of 9 May 1964, argues the Mahalanobis Committee conflates wealth, economic power, and decision-making power.
+
+- Venkatasubbiah rejects the Committee's proposal to build 'countervailing' public-sector power as a remedy, calling it merely one form of concentration answering another form of concentration.
+
+- Venkatasubbiah cites the Vivian Bose Commission's enquiries into the Dalmia-Jain group to argue that the real problem is policing decision-making power, not its mere existence.
+
+- Arvind Narottam Lalbhai's essay 'Government's Obsession with "Monopolies"', reprinted from The Economic Times of 15 April 1964, contends that the monopolies under Government attack do not in fact exist.
+
+- Lalbhai argues that the Government's own anti-concentration policy produces the sellers' markets and inflation it claims to fight, declaring that 'if capitalism is bad, State capitalism is worse'.
+
+- Lalbhai cites Fortune magazine's 1963 list of the 500 largest U.S. corporations, comparing General Motors to the 500th-ranked Interlake Iron, to argue Indian firms are dwarfed by American counterparts.
+
+- An Appendix reproduces selected quotations from Wilhelm Roepke's Economics of the Free Society, tying the booklet's Indian arguments to the Forum's broader classical-liberal frame.
 
 ## Essays
 

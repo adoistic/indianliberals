@@ -81,6 +81,26 @@ physical:
 
 This November 1, 1959 'Special Divali Issue' of The Indian Libertarian (Vol. VII No. 19), a Bombay fortnightly edited by Miss Kusum Lotwala for Libertarian Publishers, gathers an unsigned editorial and a cluster of essays unified by a single preoccupation in the rendered pages: the threat that communism poses to India's economy, polity, and trade-union freedom, set against the contemporary backdrop of Chinese border incursions and Indo-Pakistan relations under Ayub Khan. The editorial weighs an 'Indo-Pakistan detente' alongside the Chinese menace in Ladakh, NEFA and Tibet, while the bylined articles—M. A. Venkata Rao on trade unions, M. N. Tholal contrasting communism with communalism, A. Ranganathan on parliamentary democracy, Sharokh Sabavala on China's 'Red Offensive in Asia', and Bertram D. Wolfe on communist vulnerability—argue from a classical-liberal, anti-collectivist standpoint. A separately paginated 'Rationalist Supplement' (pp. I–IV) carries pieces on the Catholic church, rationalism, and the origin of priesthood. Coverage here is drawn from the rendered front portion of the issue.
 
+## Key points
+
+- M. A. Venkata Rao contrasts workers' rights under free societies, where they may organise, strike, and change employers, with communist states, where unions become "tools of state" serving the regime.
+
+- Venkata Rao cites Lenin's formula casting the trade union as "a school of administration, a school of management, a school of communism," rather than a defender of workers' interests.
+
+- He notes that Soviet and Eastern-bloc trade-union charters make strikes offences under common law, converting unions into "transmission belts" for Communist High Command orders.
+
+- M. N. Tholal argues communism is more dangerous than the communalism Indian opinion usually fears most, since it claims a monopoly of office and denies minorities any equal right to rule.
+
+- Tholal cites the Soviet succession from Lenin through Stalin to Khrushchev as proof that communism's monopoly on power makes internecine conflict and dictatorship structurally unavoidable.
+
+- Tholal criticises Nehru's foreign policy for resting on flawed assumptions about communism and for failing to expose its true nature, reviewing the Andhra split inside the Praja Socialist Party.
+
+- A. Ranganathan attacks Indian politicians who romanticise a "mythical institution of the soil," defending inherited British parliamentary democracy against nativist appeals to ancient village republics.
+
+- Ranganathan invokes Ambedkar's critique of village life to rebut the idealisation of village republics, while faulting the Communist Party for treating Parliament as a mere stepping-stone to power.
+
+- Sharokh Sabavala, reporting on India for the Christian Science Monitor, surveys China's "Red Offensive," noting Chinese forces captured border posts over 1,000 miles apart in NEFA and Ladakh while Peking advanced cartographic claims to Nepal, Sikkim, Bhutan, and Assam.
+
 ## Essays
 
 ### Communism and Trade Unions

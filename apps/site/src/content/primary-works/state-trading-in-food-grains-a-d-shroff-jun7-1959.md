@@ -34,10 +34,11 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1959
-  series: 7/Je/59
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: 7/Je/59. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/state-trading-in-food-grains-a-d-shroff-jun7-1959.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/state-trading-in-food-grains-a-d-shroff-jun7-1959.webp"
 rights:
@@ -89,6 +90,24 @@ missing_metadata_flags:
 This 1959 booklet from the Forum of Free Enterprise gathers the presidential remarks and four addresses delivered at a Bombay Convention on State Trading in Foodgrains held on 13 March 1959, called in response to the National Development Council's November 1958 decision to take wholesale foodgrain distribution into State hands. A. D. Shroff presides; he is joined by Devji Rattansey (Vice-President of the Bombay Foodgrains Dealers' Association), Ranchhoddas Jethabhai (President of the Bombay Rice Merchants' Association), M. H. Hasham Premji (President of the All-India Foodgrains Dealers' Association) and Prof. R. K. Amin of the Vallabh Vidya Nagar Commerce College, Anand. The contributors agree that the foodgrains crisis is fundamentally a problem of production rather than distribution, that the existing private trade is more efficient than the State machinery proposes to replace it, and that the policy is being pushed to deflect attention from the Government's deficit-financing failures.
 
 The volume's argumentative centre is twofold: a moral and constitutional warning that the Indian liberty experiment is being eroded by an expanding bureaucratic State whose appetite for control runs from 'pins to motor cars', and an applied economic case that procurement, price-fixing and the elimination of three lakh foodgrain merchants will impoverish cultivators, swell unemployment, and worsen the very price-rise it claims to cure. Speakers repeatedly invoke the failures of wartime rationing under Rafi Ahmed Kidwai's decontrol, cite the Asoka Mehta and Food Inquiry Committee reports, and call instead for improved production incentives, the removal of food zones, an all-India advisory board of merchants, and licensed (not state-monopolised) trade.
+
+## Key points
+
+- A. D. Shroff's presidential address, "A Danger to Democratic Way of Life", contrasts moral condemnation of private merchant profit with public praise for the State Trading Corporation's Rs. 53-crore surplus on cement.
+
+- Shroff argues that forcing roughly 300,000 foodgrain merchants to surrender their trade to the State Trading Corporation violates the constitutional freedom to choose one's own avocation.
+
+- Devji Rattansey, vice-president of the Bombay Foodgrains Dealers' Association, argues the National Development Council's November 1958 decision was a hasty response to a 5 to 8 per cent price rise caused by an inaccurate rabi harvest forecast, not trader misconduct.
+
+- Rattansey notes that the Asoka Mehta Committee's structural remedies, including a Price Structure Board and wealth taxes, were quietly dropped while only its state-trading recommendation survived.
+
+- Rattansey shows bank advances against foodgrain stocks had barely grown, rebutting the charge that traders were hoarding for profit, and proposes removing food zones in favour of an all-India advisory council of merchants.
+
+- Ranchhoddas Jethabhai, president of the Bombay Rice Merchants' Association, contributes an address titled "A Novel Idea", though only its opening page survives in the rendered text.
+
+- M. H. Hasham Premji, president of the All-India Foodgrains Dealers' Association, and Prof. R. K. Amin of Vallabh Vidya Nagar Commerce College also address the convention alongside Shroff and Rattansey.
+
+- The convention was convened on 13 March 1959 in Bombay after the National Development Council resolved in November 1958 to move wholesale foodgrain distribution into state hands.
 
 ## Essays
 

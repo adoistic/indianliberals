@@ -18,10 +18,11 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2000
-  series: 20/Aug.-Sept./2000
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: 20/Aug.-Sept./2000. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/nurturing-management-talent-in-india-kumar-mangalam-birla.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/nurturing-management-talent-in-india-kumar-mangalam-birla.webp"
 rights:

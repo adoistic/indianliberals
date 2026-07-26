@@ -68,6 +68,20 @@ physical:
 
 This January 1, 1962 issue (Vol. IX No. 19) of The Indian Libertarian, the Bombay journal edited by D. M. Kulkarni that stands for 'free economy and limited government,' opens with an editorial on the liberation of Goa, arguing that India's military action against Portuguese colonialism—though peaceful settlement had failed—was justified after years of Portuguese brutality against Goan Satyagrahis. The issue gathers commentary from several contributors: M. A. Venkata Rao on the libertarian conception of society against the Congress 'socialistic pattern,' M. N. Tholal's polemic on Nehru and Krishna Menon's defence handling, a reprinted C. L. Sulzberger piece on Khrushchev's foreign policy, and A. Ranganathan on the individual under the Indian Constitution. Regular departments—Delhi Letter, Book Review, Gleanings from the Press, News & Views, and Dear Editor—round out the number.
 
+## Key points
+
+- The 1 January 1962 issue of The Indian Libertarian (Vol. IX, No. 19), edited by D. M. Kulkarni under the banner 'free economy and limited government', opens with an editorial titled 'Peaceful But Not Non-Violent' defending India's military liberation of Goa from Portuguese rule.
+
+- The editorial recounts Goan patriots mounting non-violent Satyagraha from 1945 only to be 'kicked, beaten and badly mauled and even shot dead' by Portuguese troops, arguing repeated attempts at peaceful settlement had proven futile against Salazar's intransigence.
+
+- M. A. Venkata Rao's 'The Libertarian Pattern Of Society' diagnoses an 'alarming lack of intellectual integrity and conscience' in Indian public life and attacks the ruling Congress party's drift toward a 'socialistic pattern of society'.
+
+- M. N. Tholal's 'The Nehru-Menon Game' scrutinises a 4 December Rajya Sabha exchange in which the Prime Minister is accused of giving evasive replies on Chinese intrusions in Ladakh, framing the Nehru-Menon defence partnership as a game of evasions.
+
+- A reprinted New York Times piece by C. L. Sulzberger, 'Khrushchev's Policy Of Peaceful Co-extinction', reads the Soviet leader's coexistence rhetoric as a contest in which each superpower seeks to outlast the other.
+
+- A. Ranganathan's 'The Individual And The Indian Constitution' draws on Sir Ivor Jennings's description of the Constitution as 'essentially an individualist document', weighing amendments affecting the Right to Property against that individualist tradition.
+
 ## Essays
 
 ### Editorial

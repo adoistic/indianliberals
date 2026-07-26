@@ -65,6 +65,22 @@ physical:
 
 This March 1, 1962 issue (Vol. IX No. 23) of The Indian Libertarian appears just as India's Third General Election is being held. The lead editorial, 'Gain to Indian Democracy from the Third General Election,' welcomes the deepening of democratic consciousness while warning that the chief contestants — Congress, Communists and Praja Socialists — are all committed to some variety of Marxian socialism, leaving the parties of 'Freedom and Free Enterprise,' spearheaded by the Swatantra, to crack a hard nut. The signed articles continue the journal's classical-liberal project: M. A. Venkata Rao's 'Progressive Humanism' contrasts a humanism grounded in liberty with the Marxist programme, and M. N. Tholal's 'Bharatiya Culture' takes up the question of India's cultural output and its place in the modern world. A 'Delhi Letter' on an opposition flop and the journal's regular Rationalist Supplement round out the issue.
 
+## Key points
+
+- This 1 March 1962 issue, Vol. IX No. 23, appears during India's Third General Election, and its lead editorial frames the contest as socialist Congress and Communists against the Freedom-and-Free-Enterprise Swatantra Party.
+
+- The editorial argues that Congress's own Third Five Year Plan is hardly distinguishable from the Soviet model and notes rising unemployment and a widening rich-poor gap despite successive plans.
+
+- M. A. Venkata Rao's Progressive Humanism offers a constructive alternative to Marxist socialism, critiquing the Marxist theory of the state as an instrument of class domination.
+
+- Venkata Rao grounds his humanism in liberty and the dispersion of property and economic power, defending private enterprise against concentration of power in the state.
+
+- M. N. Tholal's Bharatiya Culture, prompted by a fellow journalist's confusion over an earlier article, weighs Indian against Western culture through figures such as Tilak and Gandhi.
+
+- A Delhi Letter, An Opposition Flop Worries Mr. Nehru, reports Nehru's unease that the opposition has failed to take root, surveying Hindu Sabha and Jan Sangh candidate strength before the poll.
+
+- The Delhi correspondent treats the thinness of the opposition as itself a danger to the health of Indian democracy, alongside coverage of the Pakistan crisis.
+
 ## Essays
 
 ### Editorial

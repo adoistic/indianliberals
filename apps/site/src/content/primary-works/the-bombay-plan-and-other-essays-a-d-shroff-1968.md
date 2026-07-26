@@ -42,6 +42,7 @@ publication:
   year: 1968
   edition: First Published 1968
   series: A. D. Shroff Memorial Lectures (Second)
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -88,6 +89,26 @@ missing_metadata_flags:
 ## Summary
 
 The Bombay Plan and Other Essays (Lalvani Publishing House, 1968) collects the Second A. D. Shroff Memorial Lectures, delivered on 27 October 1967 under the auspices of the Forum of Free Enterprise to honour the memory of A. D. Shroff, who had founded the Forum in 1956. Six contributors — H. V. R. Iengar (a former Governor of the Reserve Bank of India), V. B. Karnik (veteran trade unionist and associate of M. N. Roy), Dr. B. C. Ishwardas, Sudhanshu Kumar Basu, M. V. Arunachalam and A. K. Chanda — address controversies of the late 1960s: the Bombay Plan in retrospect, the wave of gheraos in Bengal, benevolence in business, Centre-State financial relations, a new concept of capitalism, and the public sector. An introduction signed by Murarji J. Vaidya, President of the Forum, situates the lectures as a continuation of Shroff's effort to take economic argument to the ordinary citizen.
+
+## Key points
+
+- The volume collects the Second A. D. Shroff Memorial Lectures, delivered 27 October 1967 under the Forum of Free Enterprise to honour Shroff, who founded the Forum in 1956, with an introduction by Forum president Murarji J. Vaidya.
+
+- H. V. R. Iengar, a former Reserve Bank of India Governor, argues the 1944 Bombay Plan and the Planning Commission's later plans share the same basic philosophy of a mixed economy with state-led heavy industry and foreign capital.
+
+- Iengar locates the real divergence in the space allowed to private enterprise against an expanding public sector, and in the rigour of controls over prices, profits, dividends and foreign exchange.
+
+- He attributes Shroff's later disenchantment to the growth of a 'monolithic' Congress, intolerance of dissent, and the rhetorical turn toward a 'Socialist Pattern of Society' that foreclosed the entrepreneurial spirit the Bombay Plan had assumed.
+
+- He defends the Forum of Free Enterprise's position that laissez-faire has no place in contemporary India but that a planned economy must still be powered by free enterprise voluntarily co-operating with the state.
+
+- V. B. Karnik, a veteran trade unionist and associate of M. N. Roy, treats the wave of gheraos that engulfed Bengal under the 1967 United Front ministry as fundamentally an economic problem, not merely a law-and-order issue.
+
+- Karnik documents gheraos spreading from factories into offices, schools and municipal boards, and shows the United Front's Labour Minister instructed police not to intervene without ministerial sanction.
+
+- He cites the Calcutta High Court's Full Bench judgment by Chief Justice D. N. Sinha, which defined a gherao as a physical blockade incapable of qualifying as legitimate trade-union activity.
+
+- Karnik argues gheraos are typically staged by small militant groups rather than the mass of workers, and that the concessions they extract are quickly repudiated, undermining established trade unions in the long run.
 
 ## Essays
 

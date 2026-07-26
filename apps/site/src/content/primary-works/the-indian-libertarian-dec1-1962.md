@@ -76,6 +76,24 @@ missing_metadata_flags:
 
 The December 1, 1962 number of The Indian Libertarian (Vol. X No. 17, edited by D. M. Kulkarni) is an Indo-China-war issue. Almost every page in the rendered set responds, directly or obliquely, to the Chinese offensive that opened in late October 1962 and to the political fallout the conflict was producing inside India. The unsigned editorial, M. A. Venkata Rao's essay 'War With China', M. N. Tholal's 'Non-Alignment A Moral Imperative?', and C. Rajagopalachari's short 'The Task Before Us' together frame Peking's aggression as the moment at which India's official non-alignment, its earlier appeasement of the Chinese leadership, and its faith in negotiated settlement must all be discarded. A 'Delhi Letter' from the magazine's correspondent then reports on Nehru beginning to argue in Parliament for India's drawing closer to NATO and SEATO. Shorter standing departments — a Book Review, 'Gleanings from the Press', 'News & Views', and a 'Dear Editor' column — round out an issue that reads throughout as a Liberal / Swatantra-leaning rebuke of Congress defence and foreign policy, and as a celebration of the parliamentary agitation that forced V. K. Krishna Menon's resignation as Defence Minister.
 
+## Key points
+
+- The unsigned editorial 'Hate Communism to Win the War' argues India's military reverses in NEFA and Ladakh stem from decades of refusing to treat Communism as a hostile ideology, embracing Peking instead through 'Hindi-Chini bhai-bhai' rhetoric.
+
+- M. A. Venkata Rao's 'War With China' reads the Chinese advance as the predictable harvest of a foreign policy that trusted declarations rather than credible military power, revisiting the McMahon Line and Panchsheel record.
+
+- Venkata Rao calls for rapid rearmament, conscription, and civil discipline, along with abandoning the vocabulary of non-alignment in responding to what he frames as Chinese totalitarian aggression.
+
+- M. N. Tholal's 'Non-Alignment A Moral Imperative?' distinguishes tactical non-alignment from its moral justification, concluding Nehru's version left India militarily and diplomatically isolated in the face of Chinese aggression.
+
+- C. Rajagopalachari contributes the short piece 'The Task Before Us', joining the issue's shared call for India to discard appeasement and non-alignment's language toward China.
+
+- A Delhi Letter from the magazine's correspondent reports Nehru beginning to argue in Parliament for India to draw closer to NATO and SEATO.
+
+- The issue reads throughout as a celebration of the parliamentary agitation that forced V. K. Krishna Menon's resignation as Defence Minister.
+
+- Standing departments, a Book Review, 'Gleanings from the Press', 'News & Views', and a 'Dear Editor' column, round out the December 1962 Indo-China war number edited by D. M. Kulkarni.
+
 ## Essays
 
 ### EDITORIAL

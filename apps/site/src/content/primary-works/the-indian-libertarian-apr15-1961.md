@@ -74,6 +74,24 @@ The April 15, 1961 issue of The Indian Libertarian (Vol. IX, No. 2), edited by D
 
 The centerpiece is a four-page Economic Supplement built around a libertarian 'Declaration Of Principle And Policy' for solving the land problem through a single tax on the annual value of land, illustrated by D. M. Kulkarni's account of land-value taxation in practice (citing Henry George, the Australian states, and New Zealand) and a Land and Liberty piece distinguishing 'just' from 'wrongful' taxation. A Delhi Letter on the Congress rout in the New Delhi municipal elections, a Tom Jones review of Henry Hazlitt's 'What You Should Know About Inflation', press gleanings on Morarji Desai's tax proposals and the scapegoating of the press for the Jabalpur riots, and News & Views items on Tibet, the Soviet Union, U.K. trade-union investments and the 1962 general elections complete the issue. The advertising back-page lists books by Bakunin, Proudhon, Rocker, Borsodi, Von Mises and Sitaram Goel from Libertarian Publishers' catalogue.
 
+## Key points
+
+- The 15 April 1961 issue of The Indian Libertarian (Vol. IX, No. 2), edited by D. M. Kulkarni, opens with three editorials on Louis Fisher's confederation proposal, preventive detention after the Jabalpur riots, and Nehru's expected concessions to Ayub Khan over Indus waters and Kashmir.
+
+- M. A. Venkata Rao contributes an essay on the historical origins of democracy and the limits of majority rule, while M. N. Tholal's 'Nehru Facing Both Ways' attacks India's drift toward bloc politics.
+
+- A reprinted essay by Stephen Pearl Andrews defends the sovereignty of the individual against the protective state, extending the journal's classical-liberal line into nineteenth-century political theory.
+
+- The centrepiece Economic Supplement builds around a libertarian 'Declaration Of Principle And Policy' proposing a single tax on the annual value of land as a solution to the land problem.
+
+- D. M. Kulkarni illustrates the single-tax proposal with an account of land-value taxation as practised by Henry George, the Australian states and New Zealand, alongside a Land and Liberty piece distinguishing 'just' from 'wrongful' taxation.
+
+- A Delhi Letter reports the Congress rout in the New Delhi municipal elections, and Tom Jones reviews Henry Hazlitt's 'What You Should Know About Inflation'.
+
+- Press gleanings cover Morarji Desai's tax proposals and the scapegoating of the press for the Jabalpur riots, while News and Views items track Tibet, the Soviet Union, British trade-union investments and the coming 1962 general elections.
+
+- The advertising back page lists titles by Bakunin, Proudhon, Rocker, Borsodi, Von Mises and Sitaram Goel from the Libertarian Publishers' catalogue, signalling the journal's broader ideological range.
+
 ## Essays
 
 ### Editorial — Confederation with Pakistan; Jabalpur Riots and the Home Ministry; Nehru's Further Concessions to Ayub Khan?; India and America

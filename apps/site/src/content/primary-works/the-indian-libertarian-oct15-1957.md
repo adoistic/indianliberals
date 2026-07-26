@@ -74,6 +74,22 @@ physical:
 
 The 1 October 1957 issue of The Indian Libertarian (Vol. V No. 15), edited by Miss Kusum Lotwala and issued from the Libertarian Social Institute in Bombay, leads with foreign policy and a critique of Nehru-era planning. The unsigned editorial, 'Goa As Foreign Base,' treats the Portuguese enclave of Goa as a security problem and weighs the role of the Western Powers and the Soviet bloc. M. A. Venkata Rao supplies a long essay on India's foreign policy and non-alignment, 'Lal' reflects on the 'Hindu Way of Life' and communal relations, and B. S. Sanyal reports on Nehru's Jammu speech and on the Hyderabad Razakar figure Razvi. Further pieces by J. K. Dhairyawan and Sanyal turn to T. T. Krishnamachari and Nehru's critics, and a four-page inserted supplement from the Research Department of the R. L. Foundation reviews Spencer Heath's 'Citadel, Market and Altar.' The masthead carries the journal's standing slogan, 'We Stand For Free Economy And Liberal Democracy.'
 
+## Key points
+
+- The unsigned editorial "Goa as Foreign Base" treats the Portuguese enclave as a security problem, weighing the roles of the Western Powers and the Soviet bloc.
+
+- M. A. Venkata Rao's essay on India's foreign policy examines the reception of Indian non-alignment abroad and questions whether the posture genuinely serves security and economic interests or merely flatters domestic opinion.
+
+- Venkata Rao comments on Krishna Menon's part in shaping India's foreign policy and raises the question of foreign aid and the "apologetics" of non-alignment.
+
+- Writing under the name "Lal," a contributor reflects on the "Hindu Way of Life," recalling the Khilafat movement and Maulana Mohamed Ali to distinguish genuine tolerance from communalism.
+
+- B. S. Sanyal's report "Thus Spake Nehru at Jammu" scrutinises the prime minister's National Conference address, noting the gap between its rhetoric and the unresolved Kashmir question.
+
+- Further pieces by J. K. Dhairyawan and Sanyal turn to T. T. Krishnamachari and Nehru's critics, extending the issue's running critique of Congress leadership.
+
+- A four-page inserted supplement from the Research Department of the R. L. Foundation reviews Spencer Heath's "Citadel, Market and Altar," bringing an American libertarian text before Indian readers.
+
 ## Essays
 
 ### India's Foreign Aid

@@ -143,6 +143,26 @@ Economic Prophecies (Centre for Civil Society, 2004) is the first of a two-volum
 
 In the rendered pages, three essays from Section A (Context) are partially or fully visible. Essay 1 — 'Free enterprise in danger' (May 1975) — warns that communist infiltration into government, combined with the progressive appropriation of private-sector investment resources by the public sector, is placing private enterprise on the path to extinction. Shenoy marshals data on public-sector capital appropriations, the conversion of loans to equity, and stagnant per-capita incomes to argue that the prevailing 'schizophrenic policies' cannot be corrected without heavy cuts in public-sector outlays. Essay 2 — 'Image of the Indian entrepreneur' (October 1970) — rehabilitates the Vaishya trading community against socialist caricature, tracing the institutional roots of the hundi credit system and documenting how policy hostility to enterprise has distorted the public image of Indian businessmen. The essay quotes spokesmen of Swatantra Party and Jayaprakash Narayan to show that even ostensible friends of business community were unwilling to defend entrepreneurial freedom consistently.
 
+## Key points
+
+- Economic Prophecies, edited by R. K. Amin and Parth J. Shah, is the first of a two-volume collected-works edition of B. R. Shenoy's writings spanning 1954 to 1978.
+
+- The volume assembles 36 essays across five thematic sections — Context, Planning, Foreign Aid, Policy Critiques and Agriculture — drawn from periodicals, newspapers and lecture forums.
+
+- Amin's editors' preface recalls that Milton Friedman and Peter Bauer both validated Shenoy's forecast that India's socialist dirigisme would ultimately fail, and situates his relevance for a post-1991 generation.
+
+- The title was chosen because Friedman had identified Shenoy as a prophet as early as 1963, with this volume aimed at general readers and its companion, Theoretical Vision, at students of economics.
+
+- In 'Free enterprise in danger' (May 1975), Shenoy warns that communist infiltration of government and mounting public-sector appropriation of private investment resources are driving private enterprise toward extinction.
+
+- He projects that by 1980 government appropriation of private capital, including loan-to-equity conversions, could bring roughly half of industrial and mining capital under state ownership.
+
+- Shenoy calculates that 1973-74 plan outlays of Rs 41,250 million generate Rs 8,250 to 16,500 million annually in corrupt kickback payments, turning investment into dead-weight consumer income.
+
+- 'Image of the Indian entrepreneur' (October 1970) defends the Vaishya trading community and the hundi credit system against socialist caricature of Indian businessmen.
+
+- The Editor's Note recounts Amin meeting Shenoy shortly before his death on 8 February 1978, when Shenoy voiced despair over failing to move the government's policies.
+
 ## Essays
 
 ### Essay 0

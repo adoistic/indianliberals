@@ -24,6 +24,7 @@ publication:
   place: Bombay
   year: 1977
   series: A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

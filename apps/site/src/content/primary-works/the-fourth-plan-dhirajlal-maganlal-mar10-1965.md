@@ -27,6 +27,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1965
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -66,6 +67,26 @@ missing_metadata_flags:
 ## Summary
 
 The Fourth Plan is a short Forum of Free Enterprise booklet (Bombay, 10 March 1965) that gathers two contemporaneous critiques of the Planning Commission's Memorandum on India's Fourth Five-Year Plan. The first piece is Dhirajlal Maganlal's presidential address to the Indian Merchants' Chamber (delivered 15 December 1964); the second is Dr. A. Krishnaswami's two-part Hindustan Times article (23 and 25 December 1964). Both authors accept the goal of rapid growth but argue that the Plan's outlay targets are over-ambitious and detached from the resource realities exposed by the mid-term appraisal of the Third Plan. Their shared argumentative center is a plea for realism in resource mobilisation, restraint on deficit financing and taxation, and a larger, freer role for private enterprise. Interstitial pages reprint free-market epigraphs from Eugene Black, Milton Friedman, and A. D. Shroff, and the booklet carries the Forum's standard disclaimer that the views are not necessarily its own.
+
+## Key points
+
+- The booklet gathers two contemporaneous critiques of the Planning Commission's Fourth Five-Year Plan Memorandum, Dhirajlal Maganlal's presidential address to the Indian Merchants' Chamber and Dr. A. Krishnaswami's two-part Hindustan Times article, both from December 1964.
+
+- Maganlal reports that the Fourth Plan outlay was pared from a Working Group figure of Rs 30,000 crore to a compromise of Rs 21,500-22,500 crore, still nearly double the Third Plan.
+
+- Maganlal notes that Third Plan expectations were belied, with national income rising about 10 per cent against an anticipated 30 per cent, owing to agricultural shortfalls, inflation and over-investment in heavy capital-goods industries.
+
+- Maganlal calls for restraint on deficit financing, taxation and non-development expenditure, and urges that private enterprise be given a fuller, affirmative role rather than treated as a residual source of resources.
+
+- Dr. A. Krishnaswami reads the Fourth Plan Memorandum as full of generalities and pieties, arguing its targets are not real targets but expressions of intention.
+
+- Krishnaswami highlights domestic excess liquidity and rising prices alongside dwindling foreign-exchange reserves and heavy IMF repayment obligations as the imbalances exposed by the Third Plan's mid-term appraisal.
+
+- Using a table of selected production targets for food grains, coal, steel, cement, fertiliser and electricity, Krishnaswami shows 1963-64 output falling well short of mid-term expectations.
+
+- Krishnaswami criticises the Plan Memorandum's mechanical, determinist model of planning, which treats investment as the sole straight-line determinant of economic growth.
+
+- Krishnaswami advocates a strategy of consolidation, conserving scarce resources and concentrating on agriculture and quick-yielding projects rather than pursuing the Plan's ambitious targets.
 
 ## Essays
 

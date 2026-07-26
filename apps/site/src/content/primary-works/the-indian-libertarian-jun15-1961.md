@@ -71,6 +71,22 @@ physical:
 
 The June 15, 1961 issue (Vol. IX No. 6) of The Indian Libertarian, Bombay's classical-liberal 'Independent Journal of Economic and Public Affairs' now flying the slogan 'We stand for free economy and limited government,' opens with an editorial on the Cachar firings and the Bengali-language agitation in Assam. It gathers M. A. Venkata Rao on the sentiment of democracy, M. N. Tholal's argument that English alone can hold India together against Hindi imposition, S. R. Narayana Ayyar on the Prime Minister and national disintegration, and A. Ranganathan on recent events in Madras, plus an Economic Supplement essay by Prof. G. N. Lawande on employment under the Third Plan. The issue presses a free-enterprise, limited-government, anti-imposition line while defending English and constitutional democracy.
 
+## Key points
+
+- The 15 June 1961 issue, Vol. IX No. 6, now carrying the slogan 'We stand for free economy and limited government', opens with an editorial on the Cachar firings during the Bengali-language Satyagraha in Assam.
+
+- The editorial criticises the imposition of Assamese on Bengali-speaking Cachar and frames the resulting violence as a failure of both administration and language policy.
+
+- M. A. Venkata Rao's 'The Sentiment of Democracy' argues democracy depends on a shared sentiment and culture of liberty rather than formal machinery alone, warning India lacks this deeper temper.
+
+- M. N. Tholal's 'English Alone Can Save Us' defends English as the only language capable of holding a linguistically divided India together, opposing Hindi imposition in light of the Assam agitation.
+
+- S. R. Narayana Ayyar's 'The Prime Minister And The Future Of Our Country' charges the Nehru government with presiding over 'all-round national disintegration', invoking Tilak as a contrasting model of leadership.
+
+- A. Ranganathan surveys recent political and economic events in Madras around the Third Five Year Plan and the work of the Forum of Free Enterprise through a free-enterprise lens.
+
+- Prof. G. N. Lawande's Economic Supplement essay, 'Employment In The Third Plan', questions whether planned development can absorb India's growing labour force and finds the Plan's targets inadequate.
+
 ## Essays
 
 ### Editorial

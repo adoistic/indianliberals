@@ -68,6 +68,24 @@ physical:
 
 The 15 October 1959 issue of The Indian Libertarian (Vol. VII No. 18), edited by Miss Kusum Lotwala for the Libertarian Social Institute, Bombay, is dominated by the Cold War and by the deteriorating Sino-Indian frontier. The unsigned editorial, 'China Interferes With Nasser's UAR,' reads Red China's reach into the Middle East against the rivalries of the Communist bloc. M. A. Venkata Rao analyses Khrushchev's visit to America, M. N. Tholal argues that 'China Wins the First Round' in its border confrontation with India, and J. K. Dhairyawan offers a Mark Twain-flavoured 'Innocent Abroad' reading of the Khrushchev tour. A signed piece by 'Democrat' makes the 'Case of Comrade Krishna Menon,' criticising the Defence Minister over the China crisis, and an inserted four-page Economic Supplement carries Prof. G. N. Lawande on Marx's theory of value and surplus-value. The masthead slogan reads 'We Stand For Free Economy And Libertarian Democracy.'
 
+## Key points
+
+- The 15 October 1959 issue of The Indian Libertarian (Vol. VII No. 18), edited by Miss Kusum Lotwala for the Libertarian Social Institute, is dominated by the Cold War and the deteriorating Sino-Indian frontier.
+
+- The unsigned editorial, 'China Interferes With Nasser's UAR', reads Red China's reach into the Middle East against the rivalries of the wider Communist bloc.
+
+- M. A. Venkata Rao analyses Khrushchev's 1959 visit to America, weighing the prospects for US-Soviet coexistence against the longer arc of Soviet conduct since 1917.
+
+- M. N. Tholal's 'China Wins the First Round' opens with a Dickensian allusion to argue India lost the opening exchange in its frontier confrontation with China over disputed territory.
+
+- J. K. Dhairyawan's 'The "Innocent" Abroad — A New Version' borrows Mark Twain's conceit to cast Khrushchev's American tour as a propaganda contest between the United States and the USSR.
+
+- Writing as 'Democrat', 'Case of Comrade Krishna Menon' indicts the Defence Minister over his handling of the Service Chiefs amid the deteriorating China frontier situation.
+
+- Prof. G. N. Lawande's Economic Supplement essay addresses Marx's theory of value and surplus-value across four inserted pages of the issue.
+
+- The masthead of this issue carries the slogan 'We Stand For Free Economy And Libertarian Democracy', a variant of the journal's usual formula.
+
 ## Essays
 
 ### Khrushchev's Visit to America

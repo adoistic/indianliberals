@@ -35,6 +35,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -192,6 +193,26 @@ thinker_mentions:
 ## Summary
 
 This March 1966 Forum of Free Enterprise booklet stitches together three short polemics that frame socialism as an exhausted creed and liberalism as its successor. N. A. Palkhivala's 'The Shells of Socialism' (reproduced from the Economic Times of 7 February 1966) attacks Asoka Mehta's Saugor University convocation address and the drift toward bank nationalisation; former British Prime Minister Sir Alec Douglas-Home's 'Why Socialism Always Fails' (via INFA) argues that socialism collides with human nature and the profit motive; and Swatantra Party MP M. R. Masani's 'Will Liberalism Survive Socialism?' (from Swarajya Annual 1966) parades Soviet shortages, Indian wage stagnation, and West German prosperity to argue that 'isms have become wasms' and that liberalism — not State-ism — is the quicker road to social justice. The three pieces share a common publisher, a common antagonist (Indian planning orthodoxy in the wake of Nehru's death and the food crisis), and a common rhetorical posture: socialism is morally enervating, economically sterile, and globally in retreat.
+
+## Key points
+
+- The booklet gathers three 1966 polemics, by N. A. Palkhivala, former British Prime Minister Sir Alec Douglas-Home, and Swatantra Party MP M. R. Masani, arguing that socialism is an exhausted creed.
+
+- Palkhivala's The Shells of Socialism, reprinted from the Economic Times of 7 February 1966, attacks Asoka Mehta's Saugor University convocation address for signalling further bank nationalisation.
+
+- Palkhivala notes that the State Bank already held 25 per cent of paid-up capital and 32 per cent of deposits of all Indian scheduled banks, making further nationalisation redundant.
+
+- Palkhivala records Nehru's 22 May 1964 reassurance against bank nationalisation and T. T. Krishnamachari's reversal of that position on 5 June 1964 as evidence of Cabinet drift.
+
+- Palkhivala argues India's food crisis calls for incentives to landholders rather than heavier taxation, and reclaims the Constitution's language of justice and equality of opportunity against the empty label of socialism.
+
+- Sir Alec Douglas-Home's Why Socialism Always Fails argues that state ownership denies the profit motive and reward for skill, so that production under socialism sinks to the pace of the slowest worker.
+
+- Douglas-Home observes that even Russia itself was shifting toward incentive, profit and reward under what he calls a bureaucratic form of state capitalism.
+
+- M. R. Masani's Will Liberalism Survive Socialism reframes Mahatma Gandhi as a liberal who tested every policy by its effect on the poorest rather than as a socialist.
+
+- Masani contrasts Soviet housing, food and wage inequality with the rising living standards of West Germany, Japan, Britain, France and Scandinavia under free-market economies, concluding that all isms have become wasms.
 
 ## Essays
 

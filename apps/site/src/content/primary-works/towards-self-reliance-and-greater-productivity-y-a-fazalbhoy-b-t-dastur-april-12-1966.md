@@ -23,6 +23,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -59,6 +60,22 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet, issued for the 1966 India Productivity Year, gathers two essays under the banner of self-reliance and greater productivity. In an introduction dated 12 April 1966, FFE President Murarji J. Vaidya frames the volume as the Forum's educative contribution to the national drive for greater production and productivity amid economic crisis. The first essay, by industrialist Y. A. Fazalbhoy (President of the Bombay Productivity Council), argues for self-reliance through indigenous research, improved productivity and quality in private enterprise; the second, by business executive B. T. Dastur, offers a practical catalogue of measures for raising office productivity. Together the essays press the case that free enterprise must earn its place by lowering costs, cutting waste and building indigenous technological capacity.
+
+## Key points
+
+- Issued for the 1966 India Productivity Year, this Forum of Free Enterprise booklet gathers two essays under FFE President Murarji J. Vaidya's introduction of 12 April 1966, framing productivity as the nation's educative response to economic crisis.
+
+- Y. A. Fazalbhoy, President of the Bombay Productivity Council, writes against the backdrop of the Fourth Plan, the 1962 and 1965 wars, and a foreign-exchange deficit, quoting Lal Bahadur Shastri that self-reliance is 'an attitude of mind'.
+
+- Fazalbhoy argues free enterprise must lower costs through higher productivity, improve quality and plant layout, and build indigenous research facilities to limit dependence on foreign technology.
+
+- He holds that placing dynamic, progressive personalities in key private-sector positions is the essential prerequisite for harnessing Indian scientific research, concluding that research and industry must become part and parcel of each other.
+
+- B. T. Dastur's 'Office Productivity' laments that India's Productivity Year focused attention on factories and raw materials while excluding office-economy gains even from national incentive awards.
+
+- Dastur diagnoses office waste as arising from delay, a 'Backlog Syndrome', poor arrangement, uncodified responsibilities, functional rigidity and neglect of the working environment.
+
+- He prescribes a review technique questioning every form and procedure, minimising correspondence and copies, re-using envelopes and files, economising on stationery, and rewarding staff strictly by results and merit.
 
 ## Essays
 

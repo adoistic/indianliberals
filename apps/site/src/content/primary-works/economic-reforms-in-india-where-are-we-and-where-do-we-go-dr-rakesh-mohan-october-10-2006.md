@@ -19,6 +19,7 @@ publication:
   place: Mumbai
   year: 2007
   series: A. D. Shroff Memorial Lecture (39th)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2009
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -87,6 +88,26 @@ authors_resolution:
 ## Summary
 
 This Forum of Free Enterprise booklet collects two addresses delivered together in Mumbai on 30 January 2009 — by Maja Daruwala, Executive Director of the Commonwealth Human Rights Initiative (CHRI), and by Julio F. Ribeiro, IPS (Retd.), former Police Commissioner of Mumbai and former Director-General of Police, Punjab. Both speakers diagnose Indian policing as a colonial-era institution that has decayed into a politicised, unaccountable instrument and argue that the Supreme Court's September 2006 directions — fixed tenures, a State Security Commission, a Police Establishment Board, Police Complaints Authorities, and separation of investigation from law-and-order — provide a workable template for reform that the Centre and the states are actively subverting. Daruwala lays out the institutional architecture and CHRI's monitoring of state-level compliance; Ribeiro, speaking after her, frames police reform as the citizen's agenda after 26/11, calling on the middle class that voted to also organise around good leadership, operational independence and the elimination of the politician-bureaucrat-police 'partnership' he sees corroding the service.
+
+## Key points
+
+- Maja Daruwala, Executive Director of the Commonwealth Human Rights Initiative, cites National Human Rights Commission and Transparency International data showing 60 to 80 per cent of public complaints are filed against the police.
+
+- The address argues the colonial-era 1861 Police Act model is incompatible with a Constitution under which citizens and police are equal subjects of law, prioritising intelligence-gathering over service.
+
+- It goes on to detail the Supreme Court's September 2006 directions in the Prakash Singh case: a State Security Commission, fixed tenure for the police chief, a Police Establishment Board, and Police Complaints Authorities.
+
+- Daruwala documents widespread state non-compliance, singling out Maharashtra's State Security Council under Justice Shri Krishna, with more than sixty members but no real enforcement power, as an ornamental response.
+
+- Daruwala closes by urging Mumbai residents to move beyond demanding more police weapons and equipment and instead insist on structural change to make the police responsive to public needs and rights.
+
+- Julio Ribeiro, former Police Commissioner of Mumbai and former Director-General of Police, Punjab, treats the 26 November 2008 attacks as a watershed that forced the middle class to care about police reform for the first time.
+
+- He defines operational independence concretely as freedom from political interference in postings, transfers, and punishments from Deputy Superintendent down to constable, naming this the key to breaking a corrupt politician-bureaucrat-police "partnership."
+
+- Ribeiro calls for separating the investigation arm of the police from the law-and-order arm so that investigations proceed under the Bombay Police Act and the rule of law rather than political control.
+
+- The address closes by endorsing the National Police Commission scheme devised under Dharma Vira and recalling Ribeiro's own public interest litigation that secured the reversal of reinstatements of dismissed officers.
 
 ## Essays
 

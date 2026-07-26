@@ -85,6 +85,24 @@ missing_metadata_flags:
 
 The Indian Libertarian Vol. VIII No. 2 (April 15, 1960) is a fortnightly issue of the Bombay-based liberal-libertarian periodical that opens with a long editorial on President Nasser's expanding influence across the Arab world and India's diplomatic response, followed by feature essays on the newly founded Swatantra Party, Afro-Asian solidarity, the meaning of socialism, an Economic Supplement defending free enterprise, and a survey of cultural freedom in republican India. The issue knits together international affairs (Nasser, the South African race war, French atomic tests in the Sahara, the Tibet question), domestic politics (Swatantra versus Congress, Krishna Menon's defence policy, the Bombay High Court's ruling on the Governor's order), and the standing classical-liberal preoccupations of the journal — defending free economy against the Planning Commission's controls, criticising the drift of Nehruvian foreign policy, and warning against the erosion of cultural and intellectual liberty under what its writers see as Congress orthodoxy.
 
+## Key points
+
+- The unsigned editorial reads President Nasser's consolidation of authority across the Arab world as evidence that India's cultivation of Egypt has produced little reciprocal support on Kashmir or other Indian concerns.
+
+- It also endorses H. M. Patel's parliamentary criticism of defence preparedness and questions Krishna Menon's leadership, alongside condemning French nuclear testing in the Sahara.
+
+- The editorial reads the Sharpeville massacre and South Africa's racial regime as a defining moral test for the Afro-Asian bloc and the Commonwealth.
+
+- M. A. Venkata Rao's 'Prospects Before the Swatantra Party' argues that the Prime Minister's evident anxiety about the new party proves India finally has a coherent liberal opposition grounded in free economy and constitutional restraint.
+
+- Venkata Rao invokes Hayek and Mises to place the Swatantra programme within the international classical-liberal revival and rejects the charge that Indian liberalism is an imperial import.
+
+- M. N. Thakur's 'Afro-Asian Solidarity' calls the slogan one that 'cannot bear a moment's scrutiny', arguing Arab states have consistently backed Pakistan over India on Kashmir at the United Nations.
+
+- Thakur cites the Security Council's voting record on Kashmir and the Sino-Indian border crisis as proof that professed Afro-Asian unity has not translated into practical support for India.
+
+- The journal reprints Polish philosopher Leszek Kolakowski's essay 'What Is Socialism?', a text set in type in Warsaw in 1957 but never published there, which enumerates by negation what socialism is not.
+
 ## Essays
 
 ### EDITORIAL — President Nasser in India

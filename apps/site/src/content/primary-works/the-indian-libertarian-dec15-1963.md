@@ -78,6 +78,24 @@ physical:
 
 Volume XI, No. 18 of The Indian Libertarian (December 15, 1963) is a 20-page periodical issue edited by D. M. Kulkarni and published by Libertarian Publishers (Private) Ltd., Bombay. It opens with an editorial assessing the task before President Lyndon Johnson after the assassination of John F. Kennedy, locating American leadership inside the wider Cold War contest with Communism. The issue then alternates between three concerns its classical-liberal editors return to throughout: the foreign-policy posture of the West after Kennedy's death (Venkata Rao on the balance of power and collective security), the domestic critique of Nehruvian planning and rhetoric (Tholal on Nehru's 'fanciful image', C. Rajagopalachari on the workman who quarrels with his tools), and the threats posed by further state encroachment on the economy (a four-page Economic Supplement carrying G. N. Lawande on capital formation and Phiroze J. Shroff against bank nationalisation, alongside J. M. Lobo Prabhu on a 'national minimum'). A Delhi Letter on the manoeuvres against Sucheta Kripalani in Uttar Pradesh, a 'Flight from Communism' note quoting Dr. Ludwig Erhard on the East–West divide, a book review, 'The Mind of the Nation', 'News and Views', and a reader's letter close the issue. The argumentative centre is a defence of individual liberty and private enterprise against what the contributors see as a creeping 'democratic socialism' at home and an unresolved Communist threat abroad.
 
+## Key points
+
+- The unsigned editorial treats Kennedy's assassination as the loss of the leader who had begun giving the West a coherent strategy against Communism, citing the Cuban missile crisis and the test-ban treaty.
+
+- The editorial urges incoming President Johnson not to confuse peaceful coexistence with accommodation of Communist expansion, and calls for renewed Atlantic solidarity against neutralism.
+
+- M. A. Venkata Rao's Balance of Power And Collective Security frames the Sino-Soviet split as the decisive new fact of post-Cuba great-power politics and India's frontier security.
+
+- Venkata Rao reads Pakistan's overtures to both Washington and Peking as deliberate encirclement of India, treating non-alignment as inadequate and defending collective security pacts instead.
+
+- M. N. Tholal's Nehru's Fanciful Image reads Nehru's autobiographical and political writings as self-flattery mistaken for analysis, arguing a politics of personality has displaced a politics of results.
+
+- Tholal treats the 1962 border defeat with China as the moment when Nehru's public image and the country's actual condition finally separated in public view.
+
+- G. N. Lawande opens a four-page Economic Supplement with a case for capital formation as the precondition of growth in underdeveloped countries, alongside Phiroze J. Shroff's essay against bank nationalisation.
+
+- The Economic Supplement also carries J. M. Lobo Prabhu's essay on a national minimum, and a Delhi Letter covers political manoeuvres against Sucheta Kripalani in Uttar Pradesh.
+
 ## Essays
 
 ### EDITORIAL: The Task Before President Johnson

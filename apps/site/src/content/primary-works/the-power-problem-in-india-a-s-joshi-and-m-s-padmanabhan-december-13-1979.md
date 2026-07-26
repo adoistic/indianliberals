@@ -21,6 +21,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1979
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -59,6 +60,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet gathers two lectures on India's power problem, presented in two numbered parts: Part I by A. S. Joshi, a former Technical Member of the Maharashtra State Electricity Board (based on a lecture delivered under FFE auspices in Bombay on 8th August 1979), and Part II by M. S. Padmanabhan. In the rendered pages, only Part I (Joshi) is present; Part II falls in the unrendered portion of the booklet. The volume's argumentative center is a critical appraisal of how India has planned and managed its electric-power sector since independence, and what structural reforms are needed to close the chronic gap between target and achievement.
+
+## Key points
+
+- A. S. Joshi, a former technical member of the Maharashtra State Electricity Board, delivers Part I of the booklet, based on a lecture given under Forum of Free Enterprise auspices in Bombay on 8 August 1979.
+
+- Joshi credits India's power sector with a roughly sixteen-fold rise in installed capacity, from 1,700 megawatts in 1950 to about 26,000 megawatts by 1978-79, and a twenty-fold rise in generation.
+
+- He documents plan-by-plan shortfalls between anticipated and actual capacity additions, reaching about 50 per cent during the Fourth Plan period of 1969 to 1974.
+
+- Joshi attributes the shortfalls to non-sequential and delayed plant deliveries, poor equipment quality and BHEL's near-monopoly over manufacturing, alongside cumbersome tender and sanctioning procedures.
+
+- He argues rural electrification, while beneficial, has damaged the finances and service quality of State Electricity Boards through rising transmission losses in low-density areas.
+
+- Joshi proposes giving the power sector the highest national priority, above defence, and creating a Central Electricity Generating Board with executive authority supported by Regional Boards.
+
+- He recommends delinking power planning from the rigid five-year-plan cycle in favour of a continuous rolling basis, with minimum annual capacity-addition targets.
+
+- Joshi calls for settling inter-state river-water disputes to accelerate hydel schemes and for establishing manufacturing capacity that competes with BHEL.
+
+- Part II of the booklet, by M. S. Padmanabhan, falls outside the rendered pages and is not represented in the summarised text.
 
 ## Essays
 

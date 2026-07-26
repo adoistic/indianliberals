@@ -81,6 +81,26 @@ physical:
 
 The 15 December 1959 issue of The Indian Libertarian (Vol. VII No. 22) is dominated by a single argumentative line: Indian non-alignment has become a strategic liability and the country's foreign and economic policies need to be re-thought against the backdrop of Chinese aggression on the Himalayan frontier. The lead editorial treats Nehru's pledge to defend Nepal against an attack as an Asian Monroe Doctrine without the means to back it; M. A. Venkata Rao argues that the doctrine of non-alignment was always a moralistic disguise for left-leaning sympathies; M. N. Tholal reads Krishna Menon's recent speeches as inadvertent admissions of military weakness; and Bertram D. Wolfe contributes a long analytic essay on the structural vulnerabilities of communism that U.S. policy fails to exploit. A four-page Economic Supplement turns to domestic questions — G. N. Lawande on the conditions under which foreign aid actually accelerates development, and the columnist 'Piem' on the case for a larger private-sector role in the Third Plan. The issue closes with D. M. K.'s polemic against the Bombay Rents Control Act, a Delhi Letter on appeasement in non-alignment, and a book review of Ram Gopal's India of Vedic Kalpasutras. Taken together, the issue is a coordinated classical-liberal critique of the Nehruvian foreign-policy consensus and of the planning state, written in the immediate aftermath of the Sino-Indian border crisis.
 
+## Key points
+
+- The lead editorial, 'Nehru's Monroe Doctrine for Asia', argues Nehru's pledge to defend Nepal against Chinese attack is a unilateral guarantee India lacks the strength to honour, since Nepal maintains embassies with America, the USSR and China.
+
+- It notes that Bhutan has likewise begun speaking of independence and may follow Nepal's example in opening diplomatic ties with third powers.
+
+- A companion piece cites Sukarno's expulsion of Chinese petty traders from Indonesia as proof that even friendly Asian states find Peking impossible to live with.
+
+- The editorial cluster reports Rajagopalachari conceding from a Swatantra platform that India's non-alignment has produced neither friends nor security.
+
+- M. A. Venkata Rao's 'The Folly of Non-Alignment' argues Indian foreign policy is a moralised tilt toward the communist bloc, tracing errors from the 1950 refusal to back South Korea to accepting China's occupation of Tibet.
+
+- Rao treats Krishna Menon's continuation as Defence Minister as proof Nehru cannot or will not correct course, and calls for explicit alignment with the democratic West.
+
+- M. N. Tholal's 'Menon Gives Away the Show' reads Krishna Menon's recent speeches as inadvertent admissions of shortages in equipment, roads and trained personnel on the Himalayan frontier.
+
+- Tholal treats Lt. Gen. Thimayya's resignation as further evidence that civil-military relations had broken down under Menon's ministry.
+
+- Bertram D. Wolfe contributes a long analytic essay on the structural vulnerabilities of communism that U.S. policy fails to exploit, alongside an Economic Supplement on foreign aid and the Third Plan's private-sector role.
+
 ## Essays
 
 ### EDITORIAL (Nehru's Monroe Doctrine for Asia)

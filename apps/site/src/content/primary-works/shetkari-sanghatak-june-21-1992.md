@@ -73,6 +73,24 @@ missing_metadata_flags:
 
 This is the 21 June 1992 fortnightly issue (Year 9, No. 6) of Shetkari Sanghatak, the Marathi-language organ of the Shetkari Sanghatana farmers' movement. The issue is anchored by two substantive pieces in the rendered pages: a long front-page polemic by Sharad Joshi titled '´भारता´च्या मानगुटी नेहरुवादाचे भूत' (“The Ghost of Nehruvianism on India's Shoulders”), timed to the 23 May commemorations of Jawaharlal Nehru's death anniversary, which uses the occasion to attack Nehruvian dirigisme, mixed-economy planning and the Nehru-Gandhi dynasty as obstacles to India's liberalisation; and a report-essay by Gail Omvedt of Kasegaon (Sangli) on the women activists of the Shetkari Sanghatana's 'Lakshmimukti' (women's land-rights) campaign and the broader stri-mukti movement that grew out of it after 2 October 1990. In the rendered pages, supporting matter includes a side news item on a daily-wage worker dismissed for wearing the Sanghatana's badge and a village-level ban on MLAs in Parbhani district; an announcement and life-subscriber list for the Majghar Sheti agricultural exhibition; and a 'Sitasheti' technical column on the fourth experiment in the Prayog Parivar method of soil-and-seed agronomy. The volume's argumentative centre, across these pieces, is the Sanghatana's classical-liberal agrarian programme: economic opening for farmers, dismantling of state-protectionist planning, and the linkage of women's emancipation to property rights in land.
 
+## Key points
+
+- Sharad Joshi's front-page polemic, timed to the 23 May observance of Jawaharlal Nehru's death anniversary, calls Nehruvianism a 'ghost' still riding on India's back despite producing three Nehru-Gandhi prime ministers in succession.
+
+- Joshi argues Nehru's economic synthesis of socialist planning, public-sector dominance and a closed economy has collapsed alongside the fall of Stalinism and Leninism internationally.
+
+- He recovers Sardar Vallabhbhai Patel, Subhash Chandra Bose, Maulana Azad and Govind Vallabh Pant as contemporaries Nehru sidelined, to challenge the official Nehru-centric account of independence.
+
+- Joshi claims that Nehru himself, in his final phase, was already shifting toward an open economic policy, so post-1991 liberalisation completes rather than breaks with Nehru's own late direction.
+
+- Side reports describe a daily-wage worker dismissed in Maharashtra for wearing the Shetkari Sanghatana badge and a Parbhani-district village-level ban on MLAs, offered as field evidence for Joshi's critique.
+
+- Gail Omvedt of Kasegaon profiles the Sanghatana's 'Lakshmimukti' campaign, launched 2 October 1990 with the Shetkari Mahila Aghadi to register farm land jointly in the names of farmers' wives.
+
+- Omvedt reports roughly one and a half lakh women had already engaged with the campaign, comparing its rural reach to the 1962 land-ceiling agitation.
+
+- She situates the campaign as a successor to the reformism of Jotiba Phule and Babasaheb Ambedkar and names organisers such as Swavalan and Liliana who run its mobilisation work.
+
 ## Essays
 
 ### 'भारता'च्या मानगुटी नेहरूवादाचे भूत

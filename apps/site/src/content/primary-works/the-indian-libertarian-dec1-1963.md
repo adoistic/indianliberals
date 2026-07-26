@@ -72,6 +72,26 @@ physical:
 
 This 1 December 1963 issue of The Indian Libertarian (Vol. XI, No. 17), edited by D. M. Kulkarni for Libertarian Publishers in Bombay, gathers a Bombay-liberal protest against the cooperative-farming turn taken at the Congress's Nasik session, an alarmed reading of Maoist China's territorial ambitions in South and South-East Asia, and a polemic on the legitimacy of ideological 'groupism' inside the ruling Congress. A Delhi Letter reports on the post-Kamaraj-Plan jostling within the AICC; further columns review Wilhelm Roepke's defence of the social-market economy, applaud Aligarh University's switch to English-medium instruction, and round up news on Cold War realignment, India's foreign-debt burden and Sino-Indian frontier policy.
 
+## Key points
+
+- Editor D. M. Kulkarni's editorial "Agricultural Progress or 'Collective' Chaos?" attacks the Congress's Nasik-session endorsement of cooperative joint farming as a fresh push toward Soviet-style collectivism, pointing to famines under Stalin, Khrushchev and Mao as warnings.
+
+- A companion editorial, "Well Done, Aligarh University!", welcomes the university's decision to adopt English as its medium of instruction and to broaden governance beyond a closed community.
+
+- M. A. Venkata Rao's "India And China" reads Communist China as a permanently unsatisfied nation seeking the wealth of South and South-East Asia, from India and Burma to Indonesia, Korea and Formosa.
+
+- Venkata Rao interprets the widening Sino-Soviet quarrel as Peking positioning itself as a rival pole of world communism rather than moderating its revolutionary intent.
+
+- M. N. Tholal's "What is Wrong with Groupism?" defends factional disagreement inside the ruling Congress as healthy, citing the Gokhale-Tilak division and the 1907 Surat split as productive historical precedent.
+
+- The "Delhi Letter", titled "Nehru's Coup D' Grace", reports the AICC's circulation of a democratic-socialism paper and reads the Kamaraj Plan as an instrument for reshuffling Congress patronage as Indira Gandhi rises to Joint Secretary.
+
+- Shrimati Prema Nandakumar's "Guided Democracy" tracks the euphemistic political vocabulary adopted by Sukarno's Indonesia, Ayub Khan's Pakistan, Nasser's Egypt and Ne Win's Burma to dress up personal rule.
+
+- Nandakumar warns that any Congress adoption of similar euphemistic phrasing in India would dissolve parliamentary accountability into the discretion of a single charismatic leader.
+
+- The issue closes with a book review of "Economics of the Free Society", credited to J. Chamberlain, rounding out its blend of political commentary and economic argument.
+
 ## Essays
 
 ### Agricultural Progress or 'Collective' Chaos?

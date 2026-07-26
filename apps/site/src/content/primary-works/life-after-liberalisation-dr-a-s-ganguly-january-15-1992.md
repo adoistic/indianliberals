@@ -24,6 +24,8 @@ publication:
   place: Bombay
   year: 1992
   series: 26th A.D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 26
 provenance:
   source: ccs_archive
   scan_quality: unknown

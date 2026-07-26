@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2016
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -63,6 +64,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet collects two speeches delivered at the Twelfth M. R. Pai Memorial Award Function in Mumbai on 6 May 2016 — by Maja Daruwala, Director of the Commonwealth Human Rights Initiative and the function's Chief Guest, and by Shailesh Gandhi, the foremost RTI activist and former Central Information Commissioner who received the award. In an introduction signed by editor Sunil S. Bhandare, the Forum frames transparency and accountability as the key hallmarks of good governance and the weak links of India's political ethos, and identifies common threads between the two speeches: both build on the Supreme Court's landmark Jayantilal N. Mistry judgment compelling RBI disclosure of bank inspection reports, both warn of mounting political resistance to the Right to Information Act, and both call on citizens to take active responsibility for defending it. The rendered pages cover the editor's introduction and the whole of Daruwala's essay; Shailesh Gandhi's essay falls in the unrendered tail of the booklet.
+
+## Key points
+
+- The booklet collects two speeches from the Twelfth M. R. Pai Memorial Award Function in Mumbai on 6 May 2016, by Chief Guest Maja Daruwala and award recipient Shailesh Gandhi, a former Central Information Commissioner.
+
+- Editor Sunil S. Bhandare's introduction identifies common threads in both speeches, reliance on the Supreme Court's Jayantilal N. Mistry judgment and warnings of mounting political resistance to the Right to Information Act.
+
+- Maja Daruwala's address centres on the Jayantilal N. Mistry judgment, which forced RBI disclosure of bank inspection and audit reports under the RTI Act.
+
+- Daruwala rejects the RBI's claims that disclosure would breach a fiduciary duty, harm the national economic interest, or violate banks' commercial confidence.
+
+- Daruwala argues that an informed, sovereign citizenry is better placed to evaluate the legislature and executive, so disclosure of irregularities strengthens rather than endangers economic security.
+
+- Daruwala uses banks' own RTI statistics, submitted to the Central Information Commission, to refute the constraint theory and burden theory that portray RTI requests as a bureaucratic nuisance.
+
+- Daruwala calls for data-driven rather than assertion-driven policy analysis before any government moves to restrict citizens' access to information under the Right to Information Act.
+
+- Daruwala warns that resistance to RTI now ranges from non-compliance and intimidation to the murder of more than two dozen RTI activists, with questioning increasingly recast as anti-national.
+
+- Bhandare's introduction frames transparency and accountability as key hallmarks of good governance and identifies them as persistent weak points in India's political culture.
 
 ## Essays
 

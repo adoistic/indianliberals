@@ -67,6 +67,20 @@ physical:
 
 This June 1, 1960 issue (Vol. VIII No. 5) of The Indian Libertarian, a Bombay fortnightly edited by Kusum Lotwala that stood 'for free economy and libertarian democracy,' is dominated by the Cold War in the rendered pages. The unsigned editorial, 'Khrushchev Torpedoes the Summit Conference,' dissects the collapse of the Paris summit after the U-2 spy-plane incident, arguing that the Soviet premier exploited the episode for propaganda while the Western powers blundered into a moral trap. Companion pieces extend the free-economy and anti-Communist line: 'To Prosperity through Freedom' (signed V. R.) restates the Swatantra Party's philosophy as declared at its Patna convention, 'Summit for Propaganda' by M. N. Tholal reads the failed conference as a Soviet stratagem, and a reprinted essay by the American philosopher Sidney Hook, 'Peace and Freedom,' insists peace cannot be bought at the price of freedom. The issue also carries an interleaved four-page Rationalist Supplement (numbered I-IV), a Henry Hazlitt column on 'Inflation Vs. Morality,' a Delhi Letter, a book review, news and views, and letters to the editor.
 
+## Key points
+
+- The unsigned editorial, 'Khrushchev Torpedoes the Summit Conference', reads the Paris summit's collapse after the U-2 incident as Khrushchev's deliberate propaganda manoeuvre following his truculent opening speech against Eisenhower.
+
+- It faults Washington's clumsy handling of the U-2 disclosures while arguing that all nations spy on one another, making Khrushchev's moral outrage hypocritical.
+
+- 'To Prosperity through Freedom', signed V. R., restates the Swatantra Party's philosophy as declared at its Patna convention of 19-20 March 1960, framing Indian politics as a contest between collectivism and freedom-based prosperity.
+
+- M. N. Tholal's 'Summit for Propaganda' argues Khrushchev shrewdly engineered the summit's failure to extract maximum propaganda value rather than suffering a genuine diplomatic miscalculation.
+
+- Sidney Hook's reprinted 'Peace and Freedom', from The New Leader, insists peace cannot be purchased at the price of freedom and that the two values cannot be cleanly traded against each other.
+
+- The issue also carries a four-page Rationalist Supplement, a Henry Hazlitt column on 'Inflation Vs. Morality', a Delhi Letter, a book review and letters to the editor.
+
 ## Essays
 
 ### Editorial

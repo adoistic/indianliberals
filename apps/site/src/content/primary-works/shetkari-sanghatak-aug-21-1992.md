@@ -57,6 +57,22 @@ missing_metadata_flags:
 
 This is the 21 August 1992 issue (Year 9, Issue 10) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi fortnightly organ of the Shetkari Sanghatana. The issue is given over almost entirely to a single long signed essay by Sharad Joshi, 'बुद्धिसंपदेच्या चाच्यांचा कांगावा' (loosely, 'the clamour of the pirates of intellectual property'), which mounts a free-trade defence of the patent system and intellectual-property regime against the swadeshi (स्वदेशी) critique then dominant in Indian debate. Writing in the context of the GATT Uruguay Round and the Dunkel draft, Joshi argues that the patent/IP framework (and bodies such as WIPO) is not a Western imposition to be feared but a market institution that can serve Indian farmers and innovators; he attacks the protectionist 'swadeshi' position as self-defeating, links it to the movement's 'सीताजोती' campaign on plant-variety and bio-diversity rights, and examines US trade pressure (Super-301) and the Narasimha Rao government's liberalisation. A boxed item on page 8 carries a data table of world sugar-production rankings. The masthead lists owner Mohan Vihari­lal Pardeshi and editor-printer-publisher Sureshchandra Mhatre, Pune.
 
+## Key points
+
+- This 21 August 1992 issue, Year 9 Issue 10, of the Marathi fortnightly Shetkari Sanghatak, the organ of the Shetkari Sanghatana, is given over almost entirely to a single long essay by Sharad Joshi.
+
+- Joshi's essay, "बुद्धिसंपदेच्या चाच्यांचा कांगावा" ("the clamour of the pirates of intellectual property"), mounts a free-trade defence of the patent and intellectual-property system against the swadeshi critique then dominant in Indian debate.
+
+- Writing amid the GATT Uruguay Round and the Dunkel draft, Joshi argues the patent framework and bodies such as WIPO are market institutions that can serve Indian farmers and innovators rather than a Western imposition.
+
+- Joshi rejects the claim that the Dunkel draft would "enslave" Indian agriculture, arguing the loudest protectionist opposition shields entrenched interests rather than protecting cultivators.
+
+- He links the debate to the Sanghatana's own "सीताजोती" campaign on plant-variety and bio-diversity rights, and examines the pressure of US Super-301 trade sanctions on the Narasimha Rao government's liberalisation.
+
+- A boxed item on page 8 carries a data table ranking world sugar-producing countries, set alongside Joshi's essay on patents.
+
+- The masthead of this Year 9 fortnightly number lists owner Mohan Vihari­lal Pardeshi and editor-printer-publisher Sureshchandra Mhatre, both based in Pune.
+
 ## Essays
 
 ### Essay

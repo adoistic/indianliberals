@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1962
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -81,6 +82,24 @@ missing_metadata_flags:
 This Forum of Free Enterprise booklet reproduces a symposium held in Bombay on 3 November 1961 on the implications of the European Common Market (ECM) for India. Three speakers — Dr. Hannan Ezekiel (Financial Editor, Economic Times), C. K. Narayanaswami (Assistant Editor, Free Press Journal), and Prof. C. L. Gheevala (Secretary, Indian Merchants' Chamber) — assess what Britain's anticipated entry into the European Economic Community would mean for Indian exports, the Commonwealth preference regime, and India's wider development strategy. A brief editorial introduction (drawn from a Deutsche Bank publication on the European Economic Community) summarises the Treaty of Rome's customs-union, social-policy and capital-mobility provisions and prints a 1959 chart comparing the Six with the USA and the USSR on population, steel, electricity, vehicles and external trade.
 
 Across the three contributions the speakers diverge in tone but converge on a single editorial line: Britain's accession is essentially inevitable, India will lose some Commonwealth preferences, and the right response is internal economic discipline, faster industrialisation and a search for new markets — not protest against Europe. Ezekiel reads British entry as 'a very good idea' that will pull world trade toward the more liberal policies championed by the Kennedy administration and the Economic Commission for Europe. Narayanaswami warns against treating Britain as a betrayer and urges India to develop its own immense domestic market and, in the longer run, to build an Afro-Asian common market alongside African and Asian neighbours. Gheevala concentrates on foreign-exchange and competitiveness implications, documents India's heavy export dependence on the UK and the Six (around 35% of total exports combined), and argues that the country's high-cost, inflation-prone economy under defective planning must be reformed if India is to meet the slogan he calls operative: 'Export or stagnate'.
+
+## Key points
+
+- Dr. Hannan Ezekiel opens the symposium by laying out the Rome Treaty's twelve-year, three-stage timetable for a customs union and common external tariff among the Six.
+
+- Ezekiel identifies textiles, where India then enjoyed roughly a seventeen per cent Commonwealth preference, as the export category most exposed if Britain joins the Common Market.
+
+- He reads British accession as 'a very good idea' because it pulls Europe, and world trade policy generally, toward the liberal tariff regime favoured by the Kennedy administration and the Economic Commission for Europe.
+
+- C. K. Narayanaswami traces the Common Market's lineage from the 1949 Council of Europe statute through the Coal and Steel Community and Euratom to the 1957 Treaty of Rome.
+
+- He argues Britain's accession should not be read as betrayal and urges India instead to develop its vast domestic market and pursue an eventual Afro-Asian common market.
+
+- Prof. C. L. Gheevala documents India's heavy export dependence on Britain and the Six, around thirty-five per cent of total exports combined, and warns of the foreign-exchange risk.
+
+- He argues India's high-cost, inflation-prone economy under defective planning must be reformed to meet what he calls the operative slogan, 'Export or stagnate'.
+
+- A brief editorial introduction, drawn from a Deutsche Bank publication, summarises the Treaty of Rome's customs-union and capital-mobility provisions alongside a 1959 comparative chart of the Six against the USA and USSR.
 
 ## Essays
 

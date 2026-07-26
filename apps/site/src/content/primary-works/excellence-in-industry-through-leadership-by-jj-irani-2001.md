@@ -23,6 +23,8 @@ publication:
   place: Mumbai
   year: 2001
   series: A. D. Shroff Memorial Lecture, 35th
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 35
 provenance:
   source: ccs_archive
   scan_quality: unknown

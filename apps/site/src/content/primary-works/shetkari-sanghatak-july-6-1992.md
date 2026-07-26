@@ -83,6 +83,22 @@ missing_metadata_flags:
 
 Shetkari Sanghatak (शेतकरी संघटक), the Marathi-language fortnightly of the agrarian-reform Shetkari Sanghatana founded by Sharad Joshi, devotes this issue (Year 9, No. 7, dated 6 July 1992) to a sustained polemic against the Nehruvian intellectual settlement and its post-1991 inheritors. Joshi's lead essay 'नीरो चे वारस' ('Nero's Heirs') casts the new environmentalist, anti-Dunkel and anti-multinational chorus as the latest avatar of the closed-economy, planning-state mentality that Nehru bequeathed. Companion pieces extend the critique to the cotton monopoly purchase scheme (Joshi's open letter refusing committee membership), the dairy 'permit raj' that survives the 1991 liberalisation only for rural 'Bharat', and the dynastic corruption embodied in the Rajiv Gandhi-era 'Idvellisia/KGB' affair. A reported summary of Joshi's Sapre Smarak lecture at Sangli broadens the indictment to Nehru's political failures — Kashmir, the Sino-Indian collapse — alongside the economic ones, while Mo. Ha. Ajagaonkar's column attacks the Sharad Pawar electoral machine in Maharashtra. Gail Omvedt contributes the second half of her field report on the Lakshmimukti (women's land-rights) movement, including her North-American tour and meetings with U.S. Green Party feminists. Two short closing items from the ground — a drought-year editorial urging subsistence cropping and a reportorial note on a farmer-run night market at Wakad, Pune that bypasses middlemen — extend the issue's market-versus-state frame into operational practice. The back page also reproduces the Sanghatana's masthead notice 'ऊठ किसाना घे मशाल, अन्यायाला जाळ खुशाल' alongside the official cotton-scheme price-and-grade table.
 
+## Key points
+
+- This 6 July 1992 issue (Year 9, No. 7) of Shetkari Sanghatak leads with Sharad Joshi's 'नीरो चे वारस' (Nero's Heirs), which casts Nehru as 'Nero' and today's environmentalist, anti-Dunkel and anti-multinational lobby as his ideological heirs.
+
+- Joshi distinguishes 'Bharat' (rural producers) from 'India' (urban consumers) and argues that both Nehruvian planners and the new environmentalists have served the latter at the expense of the former.
+
+- He defends the Dunkel draft of the GATT Uruguay Round as the first credible external pressure capable of dismantling India's licence-permit-quota regime.
+
+- In a companion open letter to the Maharashtra Minister of Cooperation and Textiles, Joshi formally declines a seat on the Cotton Monopoly Purchase Scheme committee, calling the scheme anti-farmer by design.
+
+- A boxed sidebar asks why the courage shown in exposing certain financial scandals was absent in the Bofors affair, reading it as the untouchable scandal of the Congress establishment.
+
+- Gail Omvedt contributes the concluding half of her field report on the Lakshmimukti women's land-rights movement, recounting meetings with Green Party women and activist Dr. Aileen Diamond during a United States tour.
+
+- Mo. Ha. Ajagaonkar's column separately attacks the Sharad Pawar electoral machine in Maharashtra, while a drought-year editorial urges subsistence cropping and a report covers a farmer-run night market at Wakad, Pune that bypasses middlemen.
+
 ## Essays
 
 ### 'नीरो' चे वारस

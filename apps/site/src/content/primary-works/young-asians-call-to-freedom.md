@@ -95,6 +95,24 @@ missing_metadata_flags:
 
 Freedom Writers: Young Asians' Call to Freedom is an anthology published in December 2008 by the Young Liberals and Democrats of Asia (YLDA) to mark its fifth anniversary, with support from the Taiwan Foundation For Democracy and the Friedrich Naumann Foundation for Liberty. In the rendered pages, the front matter and the opening of the first thematic chapter establish the volume's purpose: to give recognition to the political thought of young Asian liberals through a compilation of essays on regional issues, organised into three chapters — Education and Freedom of Expression, Asian Values and Human Rights, and Youth Empowerment and Participation. The editors frame the book, in the rendered pages, as deliberately stressing 'challenges over successes, dissonance over harmony,' positioning the next generation of Asian liberal youth in a continuing struggle for freedom and democracy against authoritarian legacies.
 
+## Key points
+
+- Jan-Argy Tolentino, YLDA Secretary General, traces the Young Liberals and Democrats of Asia's founding to a 2002 Council of Asian Liberals and Democrats workshop in Manila and its formal establishment in Phnom Penh in 2003.
+
+- Tolentino presents the anthology as a fifth-anniversary benchmark of the youth network's progress, thanking the Taiwan Foundation for Democracy and the Friedrich Naumann Foundation for Liberty for their support.
+
+- The Introduction, titled "The Calling," frames Asia as a continent whose freedom struggles have repeatedly been youth-led, invoking Benigno and Corazon Aquino, Aung San Suu Kyi, and Chee Soon Juan.
+
+- The editors state the volume's three goals: preserving and shaping Asian youth political thought, encouraging youth involvement through writing, and stimulating critical discussion, while deliberately privileging challenges over achievements.
+
+- Neric Accosta's preface to Chapter One, "Freedom of Expression, Expression of Freedom," argues education and free expression are inseparable, since education is the cultivation of critical, creative thinking in an atmosphere of freedom.
+
+- Accosta, writing as the parent of a twelve-year-old, highlights new media such as YouTube and blogs as giving young people a literal voice that authoritarian governments seek to suppress.
+
+- Wendi Boxx's essay recounts her 2006 volunteer work in rural Uttar Pradesh with the Pardada Pardadi Educational Society, founded by industrialist-turned-idealist Sam Singh to educate girls in the Anupshahr district.
+
+- Boxx frames the Pardada Pardadi school, whose name translates as "grandparents," as a vehicle for equality and opportunity that gives young women the standing to declare "I am not a burden."
+
 ## Essays
 
 ### Message

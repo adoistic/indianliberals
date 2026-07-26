@@ -84,6 +84,26 @@ physical:
 
 The June 15, 1959 issue (Vol. VII No. 10) of The Indian Libertarian, Bombay's classical-liberal 'Independent Journal of Economic and Public Affairs,' leads with an editorial on the constitutional crisis in Communist-governed Kerala and gathers commentary on the Cold War, food and population, Tibet, agrarian collectivisation, and press freedom. Contributors include M. N. Tholal on John Foster Dulles, M. A. Venkata Rao on the case for a new rightist party, A. Ranganathan on the economics of food and population, K. Kumara Sekhar on the Communist threat to Tibet and Asia, T. L. Kantam on agrarian reform as deception, S. S. Bankeshwar on attacks on the free press, and Lawrence Barth on the roots of disorder, plus a reprint of Acharya Kripalani's Lok Sabha speech. The issue's center of gravity is anti-Communist and pro-free-enterprise, defending private property and a free press against socialist planning.
 
+## Key points
+
+- The editorial Crisis in Kerala analyses the confrontation triggered by the Communist state government's Education Act, which antagonised Catholic and Nair school managements under the leadership of Mannath Padmanabhan.
+
+- The editorial blames a combination of Congress and PSP political missteps and Communist consolidation of power for deepening the Kerala crisis.
+
+- M. N. Tholal's Dulles: A Dedicated Statesman defends US Secretary of State John Foster Dulles's anti-communist brinkmanship as principled statesmanship, against the grain of prevailing Indian opinion.
+
+- M. A. Venkata Rao's A New Rightist Party argues that India's existing party system leaves liberal and free-enterprise opinion unrepresented, criticising socialistic drift and cooperative-farming schemes.
+
+- A. Ranganathan's The Economics of Food and Population in India weighs food supply against population growth, invoking Malthus and the memory of the 1943 Bengal famine.
+
+- K. Kumara Sekhar's The Problem of Tibet treats the Tibetan crisis as evidence that Chinese communism endangers the whole of Asia and criticises Nehru's policy toward China.
+
+- T. L. Kantam's Agrarian Reform: A Gigantic Deception, the second installment of a Whither China series, attacks planned-economy agrarian reform and collective farming as a deception of the peasantry.
+
+- S. S. Bankeshwar's Attack on Free Press argues that press freedom is inseparable from the freedom of the citizen, warning that totalitarian governments invariably move to capture the press.
+
+- Lawrence Barth's Digging the Roots of Chaos traces contemporary social disorder to mistaken underlying ideas about man and society rather than to surface politics.
+
 ## Essays
 
 ### Editorial

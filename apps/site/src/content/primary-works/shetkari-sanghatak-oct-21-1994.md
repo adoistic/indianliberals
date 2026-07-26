@@ -72,6 +72,24 @@ missing_metadata_flags:
 
 This 21 October 1994 issue of the Marathi fortnightly Shetkari Sanghatak (Year 11, Issue 12) is built around the run-up to the Sixth Convention of the Shetkari Sanghatana at Kasturchand Park, Nagpur on 12 November 1994. Sharad Joshi opens the issue with the lead essay 'खुली व्यवस्था व अ-राज्यवाद' (Open System and Anti-Statism), arguing that liberalisation is not Manmohan Singh's invention but a return to Gandhi's anti-statist instincts that Nehru's planning had buried, and that the 1980 Shetkari Sanghatana movement was always rooted in this anti-statist (अ-राज्यवादी) economics. The issue then carries supporting editorials on what government has become versus what it should be, a defence of competition and experience as the only real teachers (citing Ayn Rand and Art Buchwald), a fifteen-year retrospective on the Sanghatana, and a sidebar arguing that 'open system is a path, not a stage'. The women's-policy plank is anchored by MLA C. Saroj Kashikar (president, Shetkari Mahila Aghadi) in a long critique of the Maharashtra government's June 1994 women's policy; Ajay Anmol of the U.P. Kisan Union contributes a Hindi marching-poem 'आजादी की सेना फिर तैयार करो'. Sharad Joshi's accounting circular for the convention, news of the release of Prakash Pohare and other activists from Akola, and the joint Mahila Aghadi–Sanghatana convention announcement on the back cover round out the number.
 
+## Key points
+
+- Sharad Joshi's front-page editorial 'खुली व्यवस्था व अ-राज्यवाद' argues that economic liberalisation is not Manmohan Singh's invention but a return to Mahatma Gandhi's anti-statist instincts that Nehru's central planning had buried.
+
+- Joshi traces a lineage from Khrushchev's 1956 critique of Stalinist economics to the Shetkari Sanghatana's own 1980 charter identifying the state, not market failure, as the farmer's chief adversary.
+
+- He reframes garibi-hatao welfarism as a project that perpetuates dependency and positions the coming Sixth Convention at Kasturchand Park, Nagpur, on 12 November 1994 as a declaration of anti-statist agrarian liberalism.
+
+- An unsigned editorial contrasts what government has become with what it should be, arguing essential economic functions like agriculture and trade work best when left outside conscious state direction, as with the body's autonomic functions.
+
+- A companion piece cites Ayn Rand and Art Buchwald to defend open competition and lived experience as the only real teachers, dismissing moral objections to competition's casualties.
+
+- A fifteen-year retrospective on the Shetkari Sanghatana contrasts its 'समृद्ध भारत' (rich peasant) demand with the rival 'गरीब विचार' (poor-peasant) ideology of conventional politicians.
+
+- MLA C. Saroj Kashikar, president of the Shetkari Mahila Aghadi, contributes a long critique of the Maharashtra government's June 1994 women's policy.
+
+- Ajay Anmol of the U.P. Kisan Union contributes the Hindi marching-poem 'आजादी की सेना फिर तैयार करो', and the issue reports the release of activist Prakash Pohare from Akola.
+
 ## Essays
 
 ### नागपूर अधिवेशन कशासाठी? / खुली व्यवस्था व अ-राज्यवाद

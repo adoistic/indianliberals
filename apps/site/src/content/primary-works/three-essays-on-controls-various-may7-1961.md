@@ -28,6 +28,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1961
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -67,6 +68,24 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet collects the three prize-winning essays from FFE's 1960 all-India college essay competition on the theme "Controls in a Planned Economy". An editorial Introduction (printed p.1) names the judges (Prof. R. K. Amin, Mr. R. V. Murthy, and FFE Secretary M. R. Pai) and the three winners, and the essays follow in prize order. Across all three, the argumentative centre is a critique of pervasive State controls in India's planned economy and an admiring contrast with West Germany's post-war "social market economy" under Ludwig Erhard. The essayists concede that some measure of planning and indirect control is inevitable in an under-developed economy, but argue that direct, detailed controls breed black-markets, bureaucratic regimentation, and inefficiency, and that competition and the free price mechanism are the surer route to growth.
+
+## Key points
+
+- This Forum of Free Enterprise booklet collects the three prize-winning essays from FFE's 1960 all-India college essay competition on 'Controls in a Planned Economy', judged by Prof. R. K. Amin, Mr. R. V. Murthy and FFE Secretary M. R. Pai.
+
+- First-prize winner K. S. Varghese argues that planning need not mean collectivism and points to West Germany's post-war 'economic miracle' under Ludwig Erhard as proof that a free economic order outperforms socialisation.
+
+- Varghese contends that nationalised industry subordinates commercial efficiency and consumer interest to political control, and that the democratic state's proper role is to supervise and encourage rather than itself operate services.
+
+- Second-prize winner G. Ranga Rao distinguishes direct controls such as rationing and licensing, which distort the price system and feed the black market, from preferable indirect fiscal and monetary checks.
+
+- Ranga Rao documents India's money supply rising from Rs. 1,803.79 crores in 1951-52 to Rs. 2,497.87 crores by 1958-59 across the successive Five-Year Plans.
+
+- Third-prize winner S. Joseph traces the eclipse of laissez-faire since the Great Depression and calculates the administrative cost of rationing to government at Rs. 9.5 crores in 1952-53 alone.
+
+- Joseph notes that Mahatma Gandhi himself deprecated controls for impairing self-reliance, and that deficit financing administered through the Reserve Bank failed to adequately check the price level.
+
+- All three essayists hold up West Germany's market-led recovery under Erhard as the contrasting model India's planners should study, even while conceding that some planning remains inevitable in an under-developed economy.
 
 ## Essays
 

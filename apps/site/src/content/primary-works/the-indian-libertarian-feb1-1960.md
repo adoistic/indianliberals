@@ -94,6 +94,24 @@ The February 1, 1960 issue of The Indian Libertarian (Vol. VII No. 25) opens wit
 
 The central Rationalist Supplement (pp. I–IV) carries S. Ramanathan's protest against the humiliating prasadam-distribution practice at the Tiruchendur temple — directed at the Central Minister of State for Railways, S. V. Ramasami — alongside J. W. N. Watkins's long account of the show-trial of Hungarian political prisoner Paul Ignotus, and an obituary of M. V. V. K. Rangachari, an early figure of the Indian Rationalist movement. The back half of the issue gathers the Delhi Letter ('India Out For Conciliation'), commentary on Akali politics and the demand for nonalignment-cum-joint-defence, a review by D. M. Kulkarni of D. P. Mukerji's Modern Indian Culture, G. N. Lawande's reading of new Chinese population data, A. Ranganathan's report on Kerala under Communism and Sri E. B. K. Doss's piece on the India–Tibet–China triangle. Across its forty short items the issue defines a classical-liberal editorial line — anti-Communist, sceptical of Nehruvian planning and foreign policy, hospitable to Swatantra and to rationalist social reform.
 
+## Key points
+
+- The lead editorial treats the peacock-themed pandal at the 65th Congress session in Bangalore (14-18 January 1960) as an emblem of post-independence Congress vanity, noting session expenses crossed Rs. 20 lakh amid rising prices and unemployment.
+
+- It records that Mahavir Tyagi's resolution for Congress economy was initially overruled by top leaders before being formally adopted, and reads N. Sanjiva Reddi's election as party president as a generational break.
+
+- Writing as 'Democrat', an essay lays out the newly adopted Swatantra Party agricultural policy, which retains the peasant family farm and cooperative marketing while accepting a ceiling on holdings tied to productive use.
+
+- The Swatantra policy is presented as a middle path between Congress collectivist planning and older landlord-bureaucratic structures rather than as doctrinaire laissez-faire absolutism.
+
+- M. N. Tholal's 'Nehru's Bluff and Bluster' argues the new Sino-Soviet treaty proves Russian neutrality between China and India is fictional, criticising Nehru's vacillation on the McMahon Line.
+
+- Tholal reprints short anti-communist verdicts from Bertrand Russell, Stephen Spender, Ignazio Silone, John Dos Passos and André Gide to argue India's official sympathy toward the communist bloc is indefensible.
+
+- The Rationalist Supplement carries S. Ramanathan's protest against a prasadam-distribution practice at the Tiruchendur temple directed at Central Minister S. V. Ramasami, alongside J. W. N. Watkins's account of a Hungarian show trial.
+
+- Standing departments in the issue include a Delhi Letter on Indian conciliation diplomacy, a review by D. M. Kulkarni of D. P. Mukerji's Modern Indian Culture, and A. Ranganathan's report on Kerala under Communist rule.
+
 ## Essays
 
 ### EDITORIAL — Congress Session at Bangalore

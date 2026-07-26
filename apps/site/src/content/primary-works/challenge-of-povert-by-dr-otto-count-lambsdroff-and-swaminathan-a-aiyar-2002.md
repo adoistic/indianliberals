@@ -32,6 +32,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2002
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -175,6 +176,24 @@ authors_resolution:
 ## Summary
 
 This 2002 Forum of Free Enterprise booklet pairs two essays that mount a liberal case against welfare-bureaucracy and anti-globalisation responses to poverty. An editorial introduction by Minoo R. Shroff (FFE President, dated 31st October 2002) frames the volume in the context of the decade-long Indian debate on liberalisation and globalisation, and dedicates the work to FFE founder-president A. D. Shroff. The first essay, by German Free Democrat politician and former Federal Minister of Economics Otto Count Lambsdorff (then chairman of the Friedrich Naumann Stiftung), defends classical liberalism, private property rights, free trade and market-based delivery of services over transfer payments and welfare bureaucracies, leaning heavily on Hernando de Soto's argument that defective property rights are the principal cause of poverty in the global South. The second essay, by Swaminathan Anklesaria Aiyar (Consulting Editor, Economic Times), attacks the anti-globalisation narrative empirically: countries that integrated with the world economy (China, India, Slovenia, Hungary, Estonia) rose, while those that pursued autarky and one-party paternalism (much of Africa, Belarus, Uzbekistan, Nehruvian India before 1991) stagnated. Both pieces were originally reproduced from the journal Liberal Times (issue 2/02).
+
+## Key points
+
+- This 2002 Forum of Free Enterprise booklet pairs two essays making a liberal case against welfare bureaucracy and anti-globalisation responses to poverty, both reprinted from the journal Liberal Times.
+
+- FFE President Minoo R. Shroff's editorial introduction, dated 31 October 2002, frames the volume within the decade-long Indian debate on liberalisation and dedicates it to founder-president A. D. Shroff.
+
+- Otto Count Lambsdorff, former German Federal Minister of Economics and chairman of the Friedrich Naumann Stiftung, argues that private property rights, not transfer payments, are the proper instrument for alleviating poverty.
+
+- Lambsdorff draws on Hernando de Soto's thesis that defective property rights are the principal cause of poverty in the global South, citing roughly nine trillion US dollars of unused "dead" capital.
+
+- Lambsdorff cites the Fraser/Friedrich Naumann Stiftung "Economic Freedom of the World" index, originally devised by Milton Friedman, and Jagdish Bhagwati's defence of WTO-led liberalisation to link economic freedom with growth and lower corruption.
+
+- Swaminathan Anklesaria Aiyar's companion essay argues that countries which embraced globalisation, notably China and India, lifted more than 350 million people above the poverty line during the 1990s.
+
+- Aiyar contrasts the integrating economies of Slovenia, Hungary and Estonia with the state-dominated Uzbekistan, Kyrgyzstan, Belarus and Tajikistan, which fared worst among the ex-communist states.
+
+- Aiyar reads Nehruvian self-sufficiency and central planning as a category error conflating nineteenth-century colonialism with twentieth-century economic integration, citing India's world-trade share falling from 2.5 percent at independence to 0.4 percent by 1985.
 
 ## Essays
 

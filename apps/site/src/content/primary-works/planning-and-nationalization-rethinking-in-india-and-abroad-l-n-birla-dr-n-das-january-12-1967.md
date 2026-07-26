@@ -25,6 +25,7 @@ publication:
   publisher_name: FORUM OF FREE ENTERPRISE, "SOHRAB HOUSE", 235 DR. D. N. ROAD, BOMBAY-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -81,6 +82,24 @@ missing_metadata_flags:
 Published by the Forum of Free Enterprise in January 1967, this pamphlet collects three short addresses on Indian planning by L. N. Birla and Dr. Nabagopal Das (I.C.S. Retd.). The two Birla pieces — reproduced from the Indian Express (November 12, 1966) and Hindusthan Times (October 3, 1966) — indict the Fourth Plan as an exercise in 'wishful' aggregation that has consistently subordinated the Indian consumer to heavy-industry dogma, mounting taxation, and bureaucratic expenditure. Das's contribution opens a comparative survey of how the doctrine of nationalisation and command planning is being rethought in socialist economies, beginning with the USSR's struggle to reconcile state ownership with consumer demand.
 
 Together the three essays form a coherent Forum of Free Enterprise argument: that India's planning apparatus must shift from physical-output targets and public-sector expansion to consumer satisfaction, agricultural priority, and a freer role for private enterprise — a corrective the pamphlet draws both from Indian experience under three Plans and from doctrinal reappraisals visible inside the socialist bloc itself.
+
+## Key points
+
+- L. N. Birla's 'Consumer, Forgotten Factor in Indian Planning' (Indian Express, 12 November 1966) argues fifteen years of planning have privileged producer-goods industries over daily consumer needs such as food, cloth and housing.
+
+- Birla reports that per-capita cloth availability fell from 15.8 metres before World War II to 14.4 metres in 1965, while over three-fourths of industrial investment went to producer goods.
+
+- He calls for a 'new economic logic' that drops prestige projects like Bokaro, lowers taxation that has crushed corporate savings, and judges the Plan by physical supply rather than financial targets.
+
+- In 'An Alternative to Wishful Planning' (Hindusthan Times, 3 October 1966), Birla shows Public Sector enterprises returned only 1.2 per cent on capital against an assumed 12 per cent and met 41 per cent of physical targets versus 71 per cent for the Private Sector.
+
+- He notes per-capita income fell from Rs 326 in 1960-61 to Rs 325 in 1965-66 despite a Rs 8,630-crore Third Plan outlay, and urges confining government to infrastructure while freeing agriculture from controls.
+
+- Birla contends the Public Sector is not an alternative to the Private Sector but a costlier rival that crowds out scarce investment funds through compulsory instruments and taxation.
+
+- Dr. Nabagopal Das opens his address by observing that nationalisation, once socialism's linchpin, has lost much of its old appeal even within socialist economies.
+
+- Das begins a comparative survey of the USSR's struggle to reconcile state ownership with consumer demand, suggesting India's planning should absorb the same doctrinal reappraisal underway inside the socialist bloc.
 
 ## Essays
 

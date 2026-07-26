@@ -82,6 +82,22 @@ physical:
 
 The August 15, 1963 issue (Vol. XI No. 10) of The Indian Libertarian, edited by D. M. Kulkarni and published from Bombay by Libertarian Publishers Pvt. Ltd., gathers an editorial, four signed essays, an Economic Supplement, a Delhi Letter, a book review, news round-ups and a reader letter. The argumentative centre is twofold: a sceptical reading of Cold War realignments in the wake of the Partial Nuclear Test-Ban Treaty, and a domestic critique of Nehruvian planning, Congress factionalism and rising prices. M. A. Venkata Rao argues that liberal humanism must reclaim social imagination from Marxist Utopias; M. N. Tholal dissects the U.P. Congress succession war; J. M. Lobo Prabhu reads the Kamaraj-Plan cabinet reshuffle as Nehru's retreat; Prof. G. N. Lawande devotes the supplement to inflation and the common man, with a companion piece by Edna Shaker on U.S. paternalism over American Indians; a review of R. M. MacIver's Conflict of Loyalties and a reader letter on holding politicians to account round out the issue.
 
+## Key points
+
+- The unsigned lead editorial reads the Moscow Partial Nuclear Test-Ban Treaty as consolidating Soviet-Anglo-American detente rather than advancing genuine disarmament, since it leaves underground and Chinese nuclear testing untouched.
+
+- M. A. Venkata Rao's 'Social Imagination and Revolution' argues the Indian intelligentsia has surrendered its imagination to Marxist categories, reconstructing an alternative humanist lineage running through the Enlightenment and the French and American revolutions.
+
+- M. N. Tholal's 'War of Ambitions' anatomises the fall of Uttar Pradesh Chief Minister C. B. Gupta and the manoeuvring of figures such as Kamlapati Tripathi as evidence the Kamaraj Plan reshuffled Congress players without reforming the party.
+
+- Prof. G. N. Lawande's Economic Supplement traces the steady climb of consumer prices since the Second Plan to deficit financing, exchange controls and public-sector expansion rather than to crop failure.
+
+- Lawande argues wage and dearness-allowance adjustments merely ratify inflation rather than curing it, in a supplement paired with Edna Shaker's piece on U.S. Bureau of Indian Affairs paternalism over reservation Indians.
+
+- J. M. Lobo Prabhu's 'Nehru's Retreat' reads the Kamaraj Plan cabinet reshuffle as a retreat forced on Nehru by the China defeat, the rupee crisis and Planning Commission failures.
+
+- The issue also carries a Delhi Letter, a book review of R. M. MacIver's Conflict of Loyalties, and a reader letter on holding politicians accountable.
+
 ## Essays
 
 ### EDITORIAL: 'First Step' Towards What: World Peace Or World Domination?

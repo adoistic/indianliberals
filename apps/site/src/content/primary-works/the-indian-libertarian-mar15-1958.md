@@ -77,6 +77,22 @@ physical:
 
 The Indian Libertarian, Vol. VI No. 1 (15 March 1958), is a 'Land Reforms Special' of the Bombay fortnightly edited by Kusum Lotwala. The issue mounts a sustained classical-liberal critique of Congress land-reform policy, framing ceilings on landholding and 'co-operative farming' as a non-violent 'purge' of the productive yeoman farmer and an assault on property rights. Lead contributions by Bhailalbhai Patel (Sardar Vallabhbhai Vidyapeeth) on the Bombay-State land problem, Sumant Bankeshwar on the Congress and the farmer, and M. A. Venkata Rao on the proposed 'purge' of the sturdy yeoman anchor the theme. The issue widens to refugee and Partition questions (Kishore Valicha on Hindu refugees and 'Pak hatred'; George Leather on Pakistan's statehood), Cold War analysis (Reinhold Niebuhr on why the U.S.A. is 'losing to the Russians' after Sputnik), and recurring departments attacking 'welfarism' and defending sound money and a libertarian philosophy of property.
 
+## Key points
+
+- Bhailalbhai Patel, Vice-Chancellor of Sardar Vallabhbhai Vidyapeeth, examines the land problem in Bombay State and defends owner-cultivation against state schemes of co-operative and collective farming.
+
+- Sumant Bankeshwar's 'The Congress and the Farmer' attacks 'total nationalisation' and the socialist drift of agrarian policy, defending the 'property instinct' as fundamental to the cultivator.
+
+- M. A. Venkata Rao's 'A Non-violent "Purge" of the Sturdy Yeoman' characterises the Second Five Year Plan's land policy, with its ceilings and pressure toward co-operative farming, as 'confiscatory methods' driven by hostility to property.
+
+- Kishore Valicha (K. D. Valicha) documents the continuing exodus of Hindu refugees from East Pakistan and connects their suffering to the unresolved aftermath of Partition.
+
+- George Leather's 'The Question Mark In Pakistan' questions whether a state built on the basis of Islam can cohere durably, and weighs the implications of Pakistani instability for India.
+
+- A section titled 'The Congress Is Cheating the Common Man' argues that libertarian philosophy and private ownership, not state economic management, offer the route to practical prosperity.
+
+- The issue reprints Reinhold Niebuhr's 'Why Is U.S.A. Losing to Russians?', which reads Soviet scientific and educational advances after Sputnik as exposing American complacency.
+
 ## Essays
 
 ### The Land Problem in Bombay State

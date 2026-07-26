@@ -78,6 +78,20 @@ missing_metadata_flags:
 
 This is the 15 May 1957 issue (Vol. V, No. 6) of The Indian Libertarian, a twice-monthly Bombay 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review' and edited by Miss Kusum Lotwala under the banner 'We stand for free economy and liberal democracy.' In the rendered pages the issue is dominated by foreign-affairs commentary clustered around Kashmir, Pakistan, and the Cold War: M. A. Venkata Rao on theocratic fanaticism versus world peace, Josef Korbel on 'Nehru, the UN and Kashmir,' a 'Vigilant'-bylined piece on 'Political Bankruptcy in Pakistan,' M. N. Tholal on India and Arab nationalism, and K. D. Valicha on the Kashmir imbroglio, alongside an economic note on 'Soviet Capital in American Industries' and the journal's regular news and review departments. The argumentative center is classical-liberal and anti-theocratic, defending secular liberal democracy and a free economy while reading the Kashmir dispute and Pakistani politics with skepticism.
 
+## Key points
+
+- This 15 May 1957 issue, Vol. V No. 6, edited by Kusum Lotwala, is dominated by foreign-affairs commentary clustered around Kashmir, Pakistan and the Cold War.
+
+- M. A. Venkata Rao's Theocratic Fanaticism and World Peace names theocratic fanaticism as the principal danger to world peace, contrasting closed religious dogma with the open liberal temper of secular democracy.
+
+- Josef Korbel's Nehru, the UN and Kashmir reviews the Kashmir dispute before the UN Security Council, laying out the mutual charges between India and Pakistan and treating Nehru's handling critically.
+
+- A piece signed Vigilant, titled Political Bankruptcy in Pakistan, diagnoses chronic constitutional and communal instability across West and East Pakistan.
+
+- M. N. Tholal contributes a piece on India and Arab nationalism, and K. D. Valicha writes on the Kashmir imbroglio, continuing the issue's foreign-policy focus.
+
+- An economic note titled Soviet Capital in American Industries appears alongside the journal's regular news, review and press-gleanings departments in the closing pages of this issue.
+
 ## Essays
 
 ### Theocratic Fanaticism and World Peace

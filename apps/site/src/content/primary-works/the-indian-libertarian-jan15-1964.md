@@ -71,6 +71,22 @@ physical:
 
 This January 15, 1964 issue (Vol. XI No. 20) of The Indian Libertarian — an independent Bombay journal of public affairs edited by D. M. Kulkarni and published by Libertarian Publishers — opens the year with an editorial dissecting what it calls the 'camouflage' of Khrushchev's 'Fresh Wind' message, reading Soviet peace overtures as a tactical disguise rather than a genuine thaw. The number gathers M. A. Venkata Rao's survey of 'Prospects for 1964', M. N. Thola's reflection 'Thought, Word, and Deed', and a substantial Economic Supplement whose contributors press the journal's free-market case against state socialism — A. D. Shroff asking 'Will Democratic Socialism Help India?', J. M. Lobo Prabhu on the 'Zero Hour for Democracy', and Prof. B. R. Shenoy on state planning and economic progress. A Delhi Letter (including S. S. Chaula's 'A Philosophical Journey to the West'), a book review, and standing departments complete the issue.
 
+## Key points
+
+- The lead editorial reads Khrushchev's 'Fresh Wind' new-year message as tactical camouflage rather than a genuine thaw, cautioning the West against misreading Soviet peace rhetoric.
+
+- M. A. Venkata Rao's 'Prospects for 1964' surveys the global outlook after President Kennedy's assassination, weighing NATO strains and Franco-American tensions over de Gaulle's policy for their implications for India.
+
+- M. N. Thola's 'Thought, Word, and Deed' meditates on the gap between professed ideals and actual conduct, contrasting Eastern and Western habits of moral profession.
+
+- A. D. Shroff's Economic Supplement essay 'Will Democratic Socialism Help India?' answers in the negative, warning that democratic socialism still concentrates economic power in the state despite its moderate label.
+
+- Shroff argues private enterprise and free markets, not expanded public-sector control, are the true path to India's progress.
+
+- The supplement continues with J. M. Lobo Prabhu's 'Zero Hour for Democracy' and Prof. B. R. Shenoy's critique of state planning and economic progress.
+
+- A Delhi Letter including S. S. Chaula's 'A Philosophical Journey to the West' and a book review round out the issue's standing departments.
+
 ## Essays
 
 ### EDITORIAL: The Camouflage of K's 'Fresh Wind' Message

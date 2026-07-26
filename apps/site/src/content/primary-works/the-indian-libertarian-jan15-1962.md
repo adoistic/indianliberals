@@ -60,6 +60,20 @@ physical:
 
 The 15 January 1962 issue (Vol. IX, No. 20) of The Indian Libertarian — the Bombay fortnightly now edited by D. M. Kulkarni and flying the masthead slogan 'We Stand for Free Economy and Limited Government' — is dominated by India's December 1961 military annexation of Goa. The editorial, 'The Future of the U.N.O.', reflects on the United Nations after a year of crises (the Congo, the death of Secretary-General Hammarskjold, the Soviet Troika plan) and notes the Afro-Asian bloc's pressure for liberation of colonial enclaves such as Goa. The two signed articles take up Goa directly: M. A. Venkata Rao's 'Foreign Policy After Goa' weighs what the use of force against the Portuguese enclave means for India's non-alignment and its standing abroad, while M. N. Tholal's 'The Goa Imbroglio' examines the contradictions of Nehru's account of the action and its place in the wider Cold War debate over colonialism and non-violence. Regular departments — an Economic Supplement, Delhi Letter, Book Review, Gleanings from the Press, and News & Views — complete the issue.
 
+## Key points
+
+- The editorial "The Future of the U.N.O." reflects on the United Nations after a year of crises including the Congo conflict, the death of Secretary-General Hammarskjold, and the Soviet Troika plan.
+
+- The editorial also notes growing Afro-Asian bloc pressure at the United Nations for the liberation of remaining colonial enclaves such as Portuguese-held Goa.
+
+- M. A. Venkata Rao's "Foreign Policy After Goa" does not dispute India's underlying case against Portuguese colonial rule, but probes the tension between the country's professed non-violence and its resort to military force.
+
+- Venkata Rao weighs how the Goa action affects India's moral standing and its relations with both Western powers and the Afro-Asian world.
+
+- M. N. Tholal's "The Goa Imbroglio" scrutinises inconsistencies in Nehru's official account of the action, situating the episode within the wider Cold War debate over colonialism.
+
+- Tholal argues the Goa episode exposes a gap between India's stated liberal principles and its actual conduct in international affairs.
+
 ## Essays
 
 ### Foreign Policy After Goa

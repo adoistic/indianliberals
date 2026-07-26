@@ -67,6 +67,18 @@ missing_metadata_flags:
 
 This is the May 1, 1967 issue (Vol. XV, No. 3) of The Indian Libertarian, an independent Bombay journal of public affairs edited by Kusum Lotvala, whose cover slogan urges 'Make English the Lingua Franca of India.' In the rendered pages the issue opens with an editorial on the 1967 general-election aftermath that calls for electing K. Subba Rao and 'cleaning up the mess' of Congress governance, then ranges across cultural, communal, and economic commentary: A. Ranganathan on the Tamil contribution to Indian culture, M. N. Thakkil on whether Muslims can be secular voters, a Delhi political letter, and a running column 'In This Our Day' by Leo Maria touching the wider freedom-and-government debate. The issue's argumentative center is classical-liberal: skepticism of Congress dominance and state planning, paired with a defence of individual and cultural liberty.
 
+## Key points
+
+- The 1 May 1967 issue (Vol. XV, No. 3) of The Indian Libertarian, edited by Kusum Lotvala, responds to the 1967 general election with an editorial urging readers to 'Elect Subba Rao and Clean Up the Mess' of Congress governance.
+
+- The editorial frames the Congress party's reduced post-election position as an opening for opposition and reform-minded forces, delivering a classical-liberal critique of one-party rule and corruption.
+
+- A. Ranganathan's 'The Tamil Contribution to Indian Culture' traces Tamil literary, devotional and classical traditions and situates them within a broader pan-Indian cultural inheritance.
+
+- M. N. Thakkil's essay, printed under the running theme 'The Freudian Election,' asks whether Muslim voters can act as a secular rather than communal bloc in the wake of the election.
+
+- The issue's cover slogan urges making English the lingua franca of India, and a running column, 'In This Our Day' by Leo Maria, touches on the broader freedom-and-government debate.
+
 ## Essays
 
 ### Editorial: Elect Subba Rao And Clean Up The Mess

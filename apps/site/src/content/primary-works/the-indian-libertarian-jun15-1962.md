@@ -70,6 +70,22 @@ physical:
 
 This June 15, 1962 issue (Vol. X No. 6) of The Indian Libertarian, the Bombay free-market and limited-government fortnightly, opens with an unsigned editorial on Britain's proposed entry into the European Common Market (E.C.M.) and the anxieties this raised among Commonwealth trade partners such as India, Ceylon and Pakistan. The issue gathers signed articles on non-alignment, communal psychology and Indian art, plus a four-page Economic Supplement by Minoo R. Shroff on the burden of population growth on India's planning effort. Recurring departments — a Delhi Letter, a book review, Gleanings from the Press and News & Views — round out the number, sustaining the journal's classical-liberal, anti-planning editorial line.
 
+## Key points
+
+- The unsigned editorial addresses Britain's proposed entry into the European Common Market and the anxieties it raised among Commonwealth trade partners such as India, Ceylon and Pakistan.
+
+- M. A. Venkata Rao's "The Limits of Neutrality" distinguishes principled non-alignment from what he sees as growing opportunism in Indian diplomacy, testing the doctrine against India's relations with the United States, the Soviet Union, Pakistan and China.
+
+- M. N. Tholal's "Psychology and Communalism" treats communal feeling as a psychological habit of mind to be analysed rather than simply condemned, drawing on episodes tied to the Jana Sangh.
+
+- K. P. Padmanabhan Tampy's essay on Raja Ravi Varma appreciates the painter's watercolours and oils, situating his work within the development of modern Indian painting.
+
+- Minoo R. Shroff's Economic Supplement, "Impact of Population Growth on Planning," cites India's 1961 population of 438 million growing at about 2.15 percent a year as overwhelming the gains of the Five-Year Plans.
+
+- Shroff notes that foodgrain output rose only about 22 million tons against a 21.5 percent rise in population, with unemployment estimated at roughly 9 million in 1961 and projected to worsen under the Third Plan.
+
+- Shroff points out that India's net population increase between 1951 and 1961 exceeded the total population of any European country except the Soviet Union.
+
 ## Essays
 
 ### The Limits of Neutrality

@@ -61,6 +61,24 @@ missing_metadata_flags:
 
 This four-page issue of the Marathi fortnightly Shetkari Sanghatak (Year 9, Issue 18, 21 December 1992), the organ of Sharad Joshi's Shetkari Sanghatana farmers' movement, leads with a report-and-commentary on the suspension of a planned farmers' agitation in Maharashtra. In the rendered pages the lead piece, signed by Sharad Joshi, explains why a Bombay/Maharashtra-wide protest over cotton and agricultural produce pricing and export-import policy was again postponed, framing it against the Sanghatana's long-running campaign for remunerative prices and freer agricultural trade. A second article by Bhagyashree Kolekar argues for farmer awareness and consumer-court redress against sugar cooperatives, page three carries a long roster of life-subscribers/members of the organisation, and the back page prints a notice for an executive-committee (कार्यकारिणी) meeting at Wardha on 28 December 1992 along with the publication colophon.
 
+## Key points
+
+- Sharad Joshi's lead article, 'Shetkaryanchi Ladhai Punha Ekda Sthagit', reports that the Shetkari Sanghatana's planned Maharashtra-wide farmers' agitation has been postponed for a second time.
+
+- Joshi ties the postponement to a Bombay meeting held between 1 and 12 December 1992 and to the movement's grievances over cotton procurement, import duties and export policy.
+
+- Joshi presents the suspension as a tactical pause rather than an abandonment of the Sanghatana's long-running campaign for remunerative prices and freer agricultural trade.
+
+- Bhagyashree Kolekar's article, headed 'Shetkaryanchi Jagrukta', urges farmers to use consumer-grievance forums against sugar cooperatives that mishandle their produce, treating this as a practical form of member accountability.
+
+- Kolekar recounts a specific dispute at a sugar mill near Bhosari in Pune district, where a farmer's sugarcane was allegedly under-weighed or mishandled by the cooperative's staff.
+
+- Kolekar frames farmers as both producers and consumers who are entitled to hold cooperative sugar mills accountable through the same consumer-court redress mechanisms available to any buyer.
+
+- The issue's third page carries a lengthy roster of the Shetkari Sanghatana's life-subscribers and members, documenting the organisational reach of the farmers' movement in late 1992.
+
+- The back page announces an executive-committee meeting of the Sanghatana at Wardha on 28 December 1992, printed alongside the publication's colophon and masthead details.
+
 ## Essays
 
 ### शेतकऱ्यांची लढाई पुन्हा एकदा स्थगित

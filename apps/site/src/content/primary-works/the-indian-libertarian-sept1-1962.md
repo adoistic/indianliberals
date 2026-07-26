@@ -65,6 +65,24 @@ physical:
 
 This September 1, 1962 issue (Vol. X No. 11) of The Indian Libertarian, a Bombay free-market and rationalist fortnightly edited by D. M. Kulkarni, leads with an editorial on India's national-language controversy and carries signed articles on the public sector, China's strategic encirclement of India, and disarmament, alongside standing departments (Delhi Letter, Book Review, Gleanings from the Press, News & Views). Its argumentative center is classical-liberal: it opposes the spread of the public sector, defends English as a progressive lingua franca against Hindi imposition, and reads Indian non-alignment skeptically in the shadow of Chinese pressure on the Himalayan frontier.
 
+## Key points
+
+- The unsigned editorial, "National Language or Progressive Language?", argues Hindi, spoken natively by only about 40 percent of Indians, cannot yet serve as a scientific or administrative lingua franca and that imposing it coerces the non-Hindi majority.
+
+- The editorial defends English as the established gateway to modern science, technology and contact with the outside world, framing the debate as parallel to an earlier "Self-Government or Good Government?" editorial.
+
+- M. A. Venkata Rao's "The Public Sector and Economic Freedom" argues that the expansion of state-run industry under planning erodes individual economic freedom and concentrates power dangerously in government hands.
+
+- Venkata Rao defends competition, private enterprise and dispersed initiative as the real engines of growth, warning that nationalisation substitutes bureaucratic control for the spur of free enterprise.
+
+- M. N. Tholal's "Noose Round India," replying to a Lok Sabha debate on Ladakh, argues that India's professed non-alignment has become a "dishonourable" posture incompatible with Chinese encroachment on the Himalayan frontier.
+
+- Tholal contends genuine non-alignment is impossible between aggressor and victim, faulting the government for refusing to align for its own self-defence.
+
+- P. Kodanda Rao's "Second Front for India's Disarmament" reports on the Anti-Nuclear Arms Convention, calling for a second front on disarmament through both international and domestic channels.
+
+- The "Delhi Letter," subtitled "Nonalignment, A Green Signal for China," argues that Nehru's renewed emphasis on non-alignment effectively emboldens Chinese pressure on the Ladakh frontier.
+
 ## Essays
 
 ### Editorial: National Language Or Progressive Language?

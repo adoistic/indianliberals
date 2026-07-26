@@ -29,6 +29,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -87,6 +88,26 @@ thinker_mentions:
 ## Summary
 
 A 1966 Forum of Free Enterprise booklet collecting three responses to the June 1966 devaluation of the rupee. The constitutional lawyer N. A. Palkhivala opens with a talk delivered to the Forum on 27 June 1966 framing devaluation as the legal recognition of an economic fait accompli and listing seven disciplines without which the measure will fail. A pseudonymous columnist 'S. M.' follows with a piece reproduced from the Hindustan Times of 22 June 1966 that defends devaluation against the charge of foreign coercion and ties its success to renewed fiscal restraint and a deferred Fourth Plan. Dr. Kersi D. Doodha, an economist in a commercial bank, closes with a primer on what devaluation actually is, how the IMF's Articles of Agreement frame 'fundamental disequilibrium', and the supply-side conditions under which a change in par value can correct a payments imbalance.
+
+## Key points
+
+- Palkhivala frames the June 1966 devaluation of the rupee as the government's de jure recognition of a de facto position economics had already imposed, warning its benefit is more confessional than remedial.
+
+- In the same talk, Palkhivala contrasts a French and Yugoslav path of disciplined post-devaluation recovery with an Indonesian path of hyperinflation, arguing devaluation alone only opens the choice.
+
+- The talk also rejects the charge that the United States and the World Bank coerced India into devaluing, calling such blame a sign that economic distress has not cost Indians their sense of humour.
+
+- Seven concrete prescriptions follow, including removing the new 10 per cent industrial surcharge, granting depreciation on debt-revalued fixed assets, and ending frequent changes in export duty.
+
+- Writing pseudonymously in the Hindustan Times of 22 June 1966, "S. M." treats International Monetary Fund pressure on India as advice a borrowing country must judge on its merits rather than as imposed coercion.
+
+- The same piece argues that Manubhai Shah's system of selective export incentives already amounted to an undeclared devaluation, so making the change official ends the smuggling premium and revives remittances from abroad.
+
+- "S. M." insists devaluation succeeds only if joined to four disciplines: fiscal restraint, abandoning production-restricting controls, using installed capacity first, and deferring the Fourth Plan by at least a year.
+
+- Dr. Kersi D. Doodha's closing essay explains that devaluation targets the rupee's external par value to restore equilibrium between internal and foreign prices, rejecting the popular conflation with falling domestic purchasing power.
+
+- Doodha walks through the International Monetary Fund's Articles of Agreement definition of "fundamental disequilibrium" and its distinction between temporary and fundamental balance-of-payments disturbances.
 
 ## Essays
 

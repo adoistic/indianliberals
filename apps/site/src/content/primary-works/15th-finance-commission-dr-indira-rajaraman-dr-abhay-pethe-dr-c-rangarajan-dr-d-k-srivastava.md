@@ -31,6 +31,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 2018
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -76,6 +77,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet, edited by Sunil S. Bhandare and sponsored by the Shailesh Kapadia Memorial Trust, compiles three Livemint articles (all May 2018) by four senior Indian economists on the contested Terms of Reference (ToR) of the 15th Finance Commission, constituted in November 2017 and due to submit its recommendations by October 2019 for the award period 2020–25. The collection addresses the most politically charged provision of the ToR — the shift from 1971 to 2011 census population data for determining state shares — as well as the appropriate size of the vertical divisible pool, the use of GST data for measuring taxable capacity, migration-related fiscal strains, and the governance of cities. Bhandare's editorial introduction identifies five cross-cutting themes on which all three articles converge: the intellectual case for using current (2011) population figures, the constitutional question of whether the divisible pool share should be fixed by amendment rather than by each FC, the equalization logic of the formula, the role of GST in revealing true relative taxable capacities, and the neglect of urban local bodies.
+
+## Key points
+
+- This Forum of Free Enterprise booklet, edited by Sunil S. Bhandare and sponsored by the Shailesh Kapadia Memorial Trust, compiles three May 2018 Livemint articles by four economists on the 15th Finance Commission's Terms of Reference.
+
+- Bhandare's editorial introduction identifies five cross-cutting themes: support for 2011 census figures, fixing the divisible pool share by constitutional amendment, the formula's equalization logic, GST as a measure of taxable capacity, and neglect of urban local bodies.
+
+- Indira Rajaraman rebuts the April 2018 Thiruvananthapuram protest by southern finance ministers, arguing the decline in southern states' statutory shares mostly predated the 14th Finance Commission and reflects faster economic growth rather than bias.
+
+- She argues GST offers the first direct cross-state measure of relative taxable capacity, reducing reliance on the imperfect state domestic product proxies that earlier finance commissions were forced to use.
+
+- Rajaraman also contends that temporary migration, uncaptured by census counts, creates real fiscal strain on destination states that current allocation formulas fail to compensate adequately.
+
+- Abhay Pethe endorses the 2011 census figures, dismisses the 'Business As Usual' north-south divide argument as premature, and attributes the real risk of division to the commission's lack of southern representation.
+
+- Pethe dissents from the other authors by arguing the 14th Finance Commission's 42 percent devolution rate was wrong-headed and should be cut to 36 percent, while also urging better funding for urban local bodies.
+
+- C. Rangarajan and D. K. Srivastava jointly propose a constitutional amendment to fix the vertical divisible-pool share permanently, removing it from each Finance Commission's discretion, and argue equalization and growth need not conflict.
+
+- All three articles converge in rejecting the 1971 census as a basis for allocating state shares, calling the earlier freeze 'irrelevant and long-outdated' compared with the 2011 population figures.
 
 ## Essays
 

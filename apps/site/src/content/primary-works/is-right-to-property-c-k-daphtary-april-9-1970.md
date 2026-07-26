@@ -19,6 +19,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1970
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -80,6 +81,22 @@ thinker_mentions:
 ## Summary
 
 This April 1970 Forum of Free Enterprise booklet, titled 'Is Right to Property Not Fundamental?', bundles three essays defending the place of the right to property within Part III of the Indian Constitution at a moment when the Congress government was preparing to dilute or remove Article 31. C. K. Daphtary, former Attorney-General of India, opens with a speech he delivered at the Forum's New Delhi Centre on 6 February 1970 that traces the constitutional history of property from the Round Table Conferences through the Fourth Amendment and the Supreme Court's compensation jurisprudence. He is followed by the constitutional commentator A. G. Noorani (reprinted from the Indian Express, 29-30 December 1969) and by A. G. Mulgaokar (reprinted from Freedom First, December 1969). All three contributors converge on the argument that property is the foundation of every other liberty, that judicial review of compensation is what stops 'just equivalent' from collapsing into 'illusory', and that removing the right from the Fundamental Rights chapter would license confiscation and weaken the Rule of Law.
+
+## Key points
+
+- This April 1970 Forum of Free Enterprise booklet bundles three essays defending the constitutional right to property in Part III just as the Congress government prepared to dilute or remove Article 31.
+
+- C. K. Daphtary, former Attorney-General of India, delivers a speech at the Forum's New Delhi Centre on 6 February 1970 tracing property's constitutional history from the Round Table Conferences through the Fourth Amendment and the Supreme Court's compensation rulings.
+
+- Daphtary cites Nehru's own 1949 Constituent Assembly speech to argue the judiciary was always meant to intervene against 'a fraud on the Constitution', warning that removing the right entirely 'opens the flood-gates of confiscation and expropriation'.
+
+- A. G. Noorani's essay, reprinted from the Indian Express of 29-30 December 1969, traces the campaign to strip property from the Fundamental Rights chapter to Communist origins now embraced by Congress ministers such as K. V. Raghunatha Reddy.
+
+- Noorani draws on Granville Austin's history of the Fourth Amendment and Justice Hidayatullah's reasoning in Golak Nath to argue the framers deliberately made fundamental rights, including property, subject to judicial review.
+
+- He compares Article 15 of the 1949 West German Basic Law, which preserves judicial recourse over compensation, with the 1965 International Commission of Jurists conference in Bangkok, which endorsed nationalisation only with fair compensation set by an independent tribunal.
+
+- All three contributors converge on treating property as the foundation of every other liberty and judicial review of compensation as the safeguard preventing 'just equivalent' from collapsing into 'illusory'.
 
 ## Essays
 

@@ -18,6 +18,7 @@ publication:
   publisher_name: "With compliments of: FORUM OF FREE ENTERPRISE, \"Sohrab House\", 235, Dr. Dadabhai Naoroji Road, Bombay-1"
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

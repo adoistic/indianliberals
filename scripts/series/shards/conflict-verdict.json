@@ -1,0 +1,107 @@
+[
+  {
+    "id": "federa-lfinancial-relations-k-santhanam-dec11-1968",
+    "ordinal": 1,
+    "duplicate_of": null,
+    "reason": "publication.series: 'First A. D. Shroff Memorial Lecture'; summary: 'Delivered as the First A. D. Shroff Memorial Lecture'",
+    "confidence": "high"
+  },
+  {
+    "id": "the-indian-constitution-and-judiciary-p-b-mukharji-october-1973",
+    "ordinal": null,
+    "duplicate_of": null,
+    "reason": "Summary states 'first A. D. Shroff Memorial Lecture under the auspices of the Calcutta Centre'—qualified as local, not series ordinal. No series field provided.",
+    "confidence": "high"
+  },
+  {
+    "id": "a-look-at-the-bombay-plan-in-the-light-of-today-h-v-r-iengar-january-11-1968",
+    "ordinal": 2,
+    "duplicate_of": null,
+    "reason": "publication.series: 'Second A. D. Shroff Memorial Lecture'; summary: 'Delivered as the Second A. D. Shroff Memorial Lecture in Bombay on 27 October 1967'",
+    "confidence": "high"
+  },
+  {
+    "id": "the-changing-structure-of-industrial-finance-p-s-lokanathan-april-2-1969",
+    "ordinal": 2,
+    "duplicate_of": null,
+    "reason": "Summary: 'Delivering the second A. D. Shroff Memorial Lecture on 24 February 1969'",
+    "confidence": "low"
+  },
+  {
+    "id": "the-bombay-plan-and-other-essays-a-d-shroff-1968",
+    "ordinal": 2,
+    "duplicate_of": null,
+    "reason": "publication.series: 'A. D. Shroff Memorial Lectures (Second)'; summary: 'collects the Second A. D. Shroff Memorial Lectures, delivered on 27 October 1967'",
+    "confidence": "high"
+  },
+  {
+    "id": "property-rights-k-subba-rao-dec10-1968",
+    "ordinal": 3,
+    "duplicate_of": null,
+    "reason": "publication.series: 'The Third A. D. Shroff Memorial Lecture'; summary: 'uses the Third A. D. Shroff Memorial Lecture (delivered 28 October 1968)'",
+    "confidence": "high"
+  },
+  {
+    "id": "social-and-economic-significance-of-insurance-in-modern-economic-life-prof-c-n-vakil-june-20-1970",
+    "ordinal": 3,
+    "duplicate_of": null,
+    "reason": "physical.format: 'third annual A. D. Shroff Memorial Lecture, delivered 25 March 1970'; summary: 'Prof. C. N. Vakil delivers the third A. D. Shroff Memorial Lecture'",
+    "confidence": "high"
+  },
+  {
+    "id": "planning-at-cross-purposes-s-bhootalingam-december-1970",
+    "ordinal": 5,
+    "duplicate_of": null,
+    "reason": "publication.series: 'Fifth A. D. Shroff Memorial Lecture'; summary: 'Delivered as the Fifth A. D. Shroff Memorial Lecture in Delhi on 27 October 1970'",
+    "confidence": "high"
+  },
+  {
+    "id": "free-but-fettered-the-illiterate-citizen-dr-c-d-deshmukh-november-12-1970",
+    "ordinal": 5,
+    "duplicate_of": null,
+    "reason": "publication.series: 'Fifth A. D. Shroff Memorial Lecture'; summary: 'Delivered on 27 October 1970 as the Fifth A. D. Shroff Memorial Lecture'",
+    "confidence": "high"
+  },
+  {
+    "id": "concentration-of-economic-power-dr-pendse-july-14-1972",
+    "ordinal": 6,
+    "duplicate_of": null,
+    "reason": "Summary: 'Delivered as the Sixth A. D. Shroff Memorial Lecture in Poona in 1971'",
+    "confidence": "high"
+  },
+  {
+    "id": "the-application-of-science-and-technology-to-socio-economic-development-professor-m-s-thacker-november-15-1971",
+    "ordinal": 6,
+    "duplicate_of": null,
+    "reason": "publication.series: 'Sixth A. D. Shroff Memorial Lecture'; summary: 'Delivered as the Sixth A. D. Shroff Memorial Lecture under the auspices of the Forum of Free Enterprise on 28th October 1971'",
+    "confidence": "high"
+  },
+  {
+    "id": "the-role-of-judiciary-in-parliamentary-democracy-m-c-chagla-january-4-2011",
+    "ordinal": 9,
+    "duplicate_of": "the-role-of-the-judiciary-in-parliamentary-democracy-m-c-chagla-28-october-1974",
+    "reason": "Summary: 'Forum of Free Enterprise pamphlet (issued January 2011) reproduces the text of Justice M. C. Chagla's ninth A. D. Shroff Memorial Lecture, delivered in Bombay on 28th October 1974' (2011 reprint of 1974 original)",
+    "confidence": "high"
+  },
+  {
+    "id": "the-role-of-the-judiciary-in-parliamentary-democracy-m-c-chagla-28-october-1974",
+    "ordinal": 9,
+    "duplicate_of": null,
+    "reason": "publication.series: 'Ninth A. D. Shroff Memorial Lecture'; summary: 'reproduces the ninth A. D. Shroff Memorial Lecture, delivered in Bombay on 28 October 1974'",
+    "confidence": "high"
+  },
+  {
+    "id": "corporate-governance-in-india-by-k-b-dadiseth-1997",
+    "ordinal": 32,
+    "duplicate_of": null,
+    "reason": "Summary: 'Delivered as the 32nd A. D. Shroff Memorial Lecture on 24 October 1997'",
+    "confidence": "high"
+  },
+  {
+    "id": "corporate-governance-in-india-k-b-dadiseth",
+    "ordinal": 32,
+    "duplicate_of": "corporate-governance-in-india-by-k-b-dadiseth-1997",
+    "reason": "Summary: 'the 32nd A. D. Shroff Memorial Lecture, delivered by K. B. Dadiseth...in Mumbai on 24th October 1997' (duplicate scan of same lecture by same speaker, same date, same ordinal)",
+    "confidence": "high"
+  }
+]

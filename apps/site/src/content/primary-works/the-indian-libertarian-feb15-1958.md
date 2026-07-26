@@ -82,6 +82,24 @@ physical:
 
 This 15 February 1958 number of The Indian Libertarian (Vol. V, No. 23) — the fortnightly self-described 'Independent Journal of Economic and Public Affairs' edited from Bombay by Miss Kusum Lotwala — leads with an editorial on the just-announced merger of Egypt and Syria into the United Arab Republic, reading it through the lenses of Pan-Islamism, the Baghdad Pact, and what the editor calls a fresh wave of 'Brahmanical Ascendancy' inside the Indian polity. The rest of the issue is a sampler of the magazine's standing preoccupations: a long Forum-style essay by Prof. R. J. Taraporewalla arguing that India now carries the heaviest direct-tax burden in the world; 'Vivek' on the directionlessness of the Second Plan; Ven on Congress's drift toward 'non-violent communism' after the Gauhati pronouncements on collectivisation; K. D. Valicha on the Nehru–Suhrawardy correspondence and the renewed exodus of Hindus from East Pakistan; J. Mazumdar's profile of the neglected revolutionary M. P. T. Acharya; G. T. Olarenshaw's portrait of Hong Kong as a 'taxless magnet'; Sydney Gruson (reprinted from The New York Times) on Leszek Kolakowski's revisionist Marxism in Poland; Jay Kay's 'Drift Way' welcoming the Centre's tougher line on Kerala's Communist ministry; and M. A. Venkata Rao on the prospects of the Jan Sangh. Across the rendered pages the issue stakes out the magazine's standing positions — free economy at home, scepticism of planning and high taxation, civil liberty against communism abroad, and a Liberal–Hindu nationalist conversation about the future of the non-Congress opposition.
 
+## Key points
+
+- The unsigned editorial reads the newly announced Egypt-Syria merger into the United Arab Republic as a step toward Pan-Islamism that could tilt Muslim opinion on Kashmir against India, rather than a triumph of secular Arab nationalism.
+
+- The editorial coins "Brahmanical Ascendancy" as a domestic warning that the Congress establishment is sliding back toward a narrow, caste-coloured leadership style.
+
+- "Ven's" essay "Non-violent Communism" reads Congress President U. N. Dhebar's Gauhati pronouncements on gramdan and joint farming, endorsed by Nehru, as full collectivisation under a peaceful Indian idiom.
+
+- Ven predicts that once the state allocates agricultural labour, the Indian peasant will become a Soviet-style labourer working at officials' pleasure, with private property in land sacrificed.
+
+- Prof. R. J. Taraporewalla's "Heaviest Taxation in the World" compares Indian income, corporate and indirect tax rates against the United States and Britain to argue India bears the world's heaviest fiscal load.
+
+- Taraporewalla links high marginal rates and the proposed wealth and expenditure taxes to the collapse of voluntary saving, recommending sharp cuts to top rates instead.
+
+- "Vivek's" essay "A Plan Without a Plan" surveys the unravelling Second Five Year Plan, treating public quarrels among senior ministers as evidence the Planning Commission has lost control of its own targets.
+
+- The issue also carries K. D. Valicha on the Nehru-Suhrawardy correspondence and the renewed exodus of Hindus from East Pakistan, and J. Mazumdar's profile of the neglected revolutionary M. P. T. Acharya.
+
 ## Essays
 
 ### EDITORIAL

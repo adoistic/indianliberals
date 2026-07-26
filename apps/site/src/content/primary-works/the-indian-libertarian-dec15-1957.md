@@ -73,6 +73,24 @@ physical:
 
 The 15 December 1957 issue of The Indian Libertarian, the Bombay-based 'Independent Journal of Economic and Public Affairs' edited by Miss Kusum Lotwala, runs an editorial that ranges across Kashmir at the UN Security Council, India's worsening foreign-exchange and food situation, the West's failure to extend material backing, the North African crisis, the dangers of two-camp Cold War alignment, and Dr Taraka Nath Das's warnings of a plot against the country. Three signed pieces anchor the issue: M. A. Venkata Rao argues that an imported parliamentary democracy will not survive without a deliberate programme of civic education; Baburao Patel republishes the substance of a 1952 prophecy on Sheikh Abdullah's 'perfidy' to claim vindication after the Sheikh's dismissal and arrest in Kashmir; and a 'Lal' continues an earlier polemic on Jinnah and Gandhi by reading the Khilafat alliance and Maulana Mohammad Ali's joint-electorate scheme as a strategic dead end for Hindu–Muslim unity. F. G. Clark attacks steeply progressive income tax as a Prohibition-style corrupter of taxpayers and administrators; the Hungarian student refugee Alpar Bujdoso marks the first anniversary of the 1956 revolution; and a 'Shape of Things to Come' dispatch reads Nehru's seminar remark about an 'increasing conflict' between parliamentary democracy and full-blooded private enterprise as an admission against interest. The chunk closes mid-way through the 'On the News Front' roundup, with the issue's book reviews and letters to the editor falling past the rendered pages.
 
+## Key points
+
+- The 15 December 1957 issue of The Indian Libertarian (Vol. V No. 19), edited by Miss Kusum Lotwala, runs an editorial on Kashmir at the UN Security Council and India's worsening foreign-exchange and food situation.
+
+- The editorial notes that Krishna Menon secured another adjournment of the Kashmir question at the UN, with Dr Graham returning as mediator after Soviet delegate Mr Sobolev's supportive intervention.
+
+- M. A. Venkata Rao's essay 'Education for Democracy' argues India's borrowed parliamentary constitution cannot sustain itself without deliberate civic education, tracing the Western pedigree from Plato through Marx.
+
+- Baburao Patel republishes the substance of a 1952 prophecy on Sheikh Abdullah's 'perfidy' to claim vindication after the Sheikh's dismissal and arrest in Kashmir.
+
+- Writing as 'Lal', an essay on 'Jinnah and Gandhi' reads the Khilafat alliance and Maulana Mohammad Ali's joint-electorate scheme, reserving fifteen per cent of seats for Muslims, as a strategic dead end.
+
+- F. G. Clark attacks steeply progressive income tax as a Prohibition-style corrupter of both taxpayers and the administrators who enforce it.
+
+- Hungarian student refugee Alpar Bujdoso contributes a piece marking the first anniversary of the 1956 Hungarian revolution against Soviet rule.
+
+- A 'Shape of Things to Come' dispatch reads Nehru's seminar remark about an 'increasing conflict' between parliamentary democracy and private enterprise as an admission against interest.
+
 ## Essays
 
 ### EDITORIAL

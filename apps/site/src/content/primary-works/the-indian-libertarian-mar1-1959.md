@@ -83,6 +83,22 @@ missing_metadata_flags:
 
 This March 1, 1959 issue (Vol. VI No. 24) of The Indian Libertarian opens with an editorial on renewed firing along the Assam and West Bengal borders with East Pakistan, reading the incidents as a test of Indian resolve and a warning against complacency toward Pakistan and the spread of communism in the region. The issue's bylined articles run from M. A. Venkata Rao on communism and land reforms, through a Libertarian Supplement by Prof. G. N. Lawande on fiscal policy and economic development, M. A. Sreenivasan's 'Pancha Stotra' (drawn from a Forum of Free Enterprise presidential address), G. Jayachandran's defence of a limited reading of the welfare state, and A. Ranganathan's survey of the state of the Indian economy. Across the rendered pages the unifying note is the journal's classical-liberal suspicion of socialist planning, collectivised land reform, and the unbounded welfare state.
 
+## Key points
+
+- The editorial on renewed firing along the Assam and West Bengal borders with East Pakistan reads the incidents as a test of Indian resolve and warns against complacency toward Pakistan and the spread of communism in the region.
+
+- M. A. Venkata Rao's "Communism and Land Reforms" argues that communist-style land redistribution delivers the peasant to the state rather than liberating him, and defends private property in land as a bulwark of freedom.
+
+- Prof. G. N. Lawande's Libertarian Supplement essay, "Fiscal Policy & Economic Development", sets out principles of sound public finance and argues that tax policy should be designed to encourage enterprise and capital formation rather than penalise it.
+
+- M. A. Sreenivasan's "Pancha Stotra", adapted from a Forum of Free Enterprise presidential address at Bangalore, offers a five-fold tribute to economic freedom and defends the productive private citizen against official suspicion.
+
+- G. Jayachandran's "A Plea for a Better Understanding of the Welfare State" concedes that society owes members a baseline of security but warns that an open-ended welfare state erodes self-reliance and individual freedom.
+
+- Jayachandran pleads for a clearly bounded conception of the welfare state rather than the unlimited collectivism the term has come to license.
+
+- A. Ranganathan's "The State of the Indian Economy" opens with N. G. Ranga's criticism of the Nagpur land-reform approach as luring the country toward Marxism, before surveying the economy's condition under planning.
+
 ## Essays
 
 ### Communism and Land Reforms

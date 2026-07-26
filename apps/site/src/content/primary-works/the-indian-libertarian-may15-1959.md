@@ -86,6 +86,22 @@ missing_metadata_flags:
 
 This is the May 15, 1959 issue (Vol. VII, No. 8) of The Indian Libertarian, a Bombay 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review,' edited by Miss Kusum Lotwala under the banner 'We stand for free economy and libertarian democracy.' In the rendered pages the issue is framed by the 1959 Sino-Tibetan crisis: the editorial 'China Is Angry with India Over Tibet' rebukes Nehru's friendship policy with China and recounts the Tibetan revolt and the 1951 Sino-Tibetan agreement, while S. Ramanathan and Anthony Ellenjimittam treat the Dalai Lama and the flight from Lhasa. Domestic commentary turns on a critique of Nehru and planning — M. N. Tholal's 'Humpty-Dumpty Nehru's Fall,' M. A. Venkata Rao's 'Limits of State Action,' H. V. Kamath, K. Kumar Sekhar on Congress leadership, and 'The Impact of the Plan on the Common Man' — alongside reprinted classical-liberal essays by Frank Chodorov and Silvio Gesell and a 'Diamat' piece by Philip Spratt. The argumentative center is classical-liberal: skepticism of state planning and Nehruvian foreign policy, and a defence of market freedom.
 
+## Key points
+
+- The 15 May 1959 issue, Vol. VII No. 8, of The Indian Libertarian, edited by Miss Kusum Lotwala and incorporating the "Free Economic Review," is framed in the rendered pages by the 1959 Sino-Tibetan crisis.
+
+- The editorial, "China Is Angry with India Over Tibet," rebukes Nehru's friendship policy toward China, citing the autonomy clauses of the 1951 Sino-Tibetan Agreement and the Tibetan revolt.
+
+- M. A. Venkata Rao's "The Limits of State Action" is a classical-liberal essay warning against the rapid inroads of planning into economic life and defending individual initiative and the market.
+
+- Domestic commentary in the wider issue turns on M. N. Tholal's "Humpty-Dumpty Nehru's Fall" and a piece titled "The Impact of the Plan on the Common Man," both critiques of Nehru and state planning.
+
+- S. Ramanathan and Anthony Ellenjimittam contribute pieces treating the Dalai Lama and the flight from Lhasa amid the unfolding Tibetan crisis.
+
+- The same number reprints classical-liberal essays by Frank Chodorov and Silvio Gesell, and carries a separate 'Diamat' piece contributed by Philip Spratt.
+
+- The journal's argumentative centre throughout is scepticism of state planning and Nehruvian foreign policy paired with a defence of market freedom.
+
 ## Essays
 
 ### Editorial: China Is Angry with India

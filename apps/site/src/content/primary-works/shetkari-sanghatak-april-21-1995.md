@@ -57,6 +57,20 @@ missing_metadata_flags:
 
 This is the 21 April 1995 issue (Year 12, Issue 1) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi fortnightly organ of the Shetkari Sanghatana, the Maharashtra farmers' movement led by Sharad Joshi. The issue marks the movement's entry into its twelfth year and is built around a theme of self-examination ('संकल्प आत्मपरीक्षणाचा' — a resolve for self-scrutiny). Most of the contents are open letters and signed articles addressed to Sharad Joshi ('शरदभाऊ' / 'मा. शरद जोशी यांसी सप्रेम नमस्कार'), reflecting on the recent 1995 Maharashtra Assembly elections in which the movement's newly floated political party, the Swatantra Bharat Paksha (स्वतंत्र भारत पक्ष / Independent Bharat Party), contested for the first time and won two seats. Contributors — farmers and activists writing from villages across Nashik, Jalgaon, Nagpur, Pune, Solapur, Bhandara and Ahmednagar districts — debate whether the electoral result is a defeat or a beginning, whether the movement should remain an agitation ('आंदोलन') or become an electoral party, and urge introspection about organisational weaknesses. A recurring news item reports that Sharad Joshi has returned from hospital and his health is improving. The masthead notes the publication is a fortnightly (पाक्षिक), Regd. No. 39926/83, with editor-printer-publisher Sureshchandra Mhatre, Pune.
 
+## Key points
+
+- The 21 April 1995 issue of Shetkari Sanghatak, the Marathi fortnightly of Sharad Joshi's Shetkari Sanghatana, opens its twelfth year with the theme 'a resolve for self-scrutiny' rather than celebration.
+
+- The lead article, 'A Resolve for Self-Examination' by Sureshchandra Mhatre, recalls the movement's origin in the 1983 hunger strike at Smriti Mandir and argues remembrance and oath-taking are not enough without honest self-criticism.
+
+- Most contents are open letters addressed to Sharad Joshi from farmers and activists writing across Nashik, Jalgaon, Nagpur, Pune, Solapur, Bhandara and Ahmednagar districts, including well-wishes from Pushpa Sandhan and Nanubai Gawali urging him to protect his health after illness.
+
+- Contributors debate the movement's newly floated Swatantra Bharat Paksha, which contested the 1995 Maharashtra Assembly elections for the first time and won two seats, disputing whether the result is a defeat or a beginning.
+
+- The issue asks whether the Shetkari Sanghatana should remain a street agitation or transform itself into an electoral party, and urges introspection about the movement's organisational weaknesses.
+
+- A recurring news item across the issue reports that Sharad Joshi has returned home from hospital and that his health is steadily improving, reassuring readers of the movement's founder.
+
 ## Essays
 
 ### Essay

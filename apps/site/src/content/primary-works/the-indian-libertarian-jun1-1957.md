@@ -78,6 +78,22 @@ missing_metadata_flags:
 
 This 1 June 1957 issue (Vol. V No. 7) of The Indian Libertarian, the Bombay 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala and incorporating the Free Economic Review, gathers a cluster of anti-socialist and anti-communist polemics around its banner cause: 'We stand for free economy and liberal democracy.' J. K. Dhairyawan attacks the Union budget's tax proposals as 'financial lunacy', M. A. Venkata Rao reads Vinoba Bhave's Bhoodan movement as communism entering by the back door, and Sumant Bankeshwar argues that communism is less an ideology than a conspiracy. Foreign-affairs pieces — a 'Vigilant' column on Pakistan's anti-India campaign and A. M. Rosenthal's reprinted New York Times profile of Krishna Menon — sit alongside P. Kodanda Rao's constitutional plea for unitary finance and the journal's standing departments (editorial, Mind of the Nation, Indian News Parade, World News, Book Review).
 
+## Key points
+
+- J. K. Dhairyawan's "Essay in Financial Lunacy" attacks the Union Finance Minister's budget proposals, arguing that new and increased taxes on income, capital and enterprise penalise saving and reflect a socialist drift in fiscal policy.
+
+- M. A. Venkata Rao's "Bhoodan or Communism by the Backdoor?" argues Vinoba Bhave's land-gift movement, despite its Gandhian idiom, dissolves private property into collective village ownership and so prepares the ground for communism.
+
+- Writing as "Vigilant," a columnist argues Pakistan's intensifying anti-India campaign over Kashmir is a deliberate diversion meant to mask internal political chaos and economic frustration.
+
+- A. M. Rosenthal's reprinted New York Times profile portrays V. K. Krishna Menon as a figure whose combative diplomatic style built his personal reputation at the cost of India's international standing.
+
+- Sumant Bankeshwar's "Communism — Not an Ideology but a Conspiracy" denies the Communist Party any status as a genuine ideology, recasting it as a Moscow-directed conspiracy amid the Communist accession to power in Kerala.
+
+- P. Kodanda Rao of the Servants of India Society makes a constitutional case for unitary finance, arguing the federal division of taxing and spending powers between Union and States produces fiscal incoherence.
+
+- The issue's standing departments — Mind of the Nation, Indian News Parade, World News and Book Review — round out a number organised entirely around the banner "We stand for free economy and liberal democracy."
+
 ## Essays
 
 ### Essay In Financial Lunacy

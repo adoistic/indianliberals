@@ -65,6 +65,22 @@ physical:
 
 The Indian Libertarian, Vol. XI No. 12 (September 15, 1963), edited by D. M. Kulkarni and published from Bombay, is a fortnightly classical-liberal journal of public affairs. The issue opens with the editorial 'Mend The Congress or End It,' which argues that the ruling Congress has decayed into a corrupt, statist machine and presses the case for a credible non-Congress, democratic alternative. M. A. Venkata Rao follows with 'Democracy And Constitutional Amendments,' a constitutionalist critique of the post-independence amendments (notably the property and 'rule of mind' debates), and M. N. Tholal contributes 'Bolstering Non-alignment,' a sceptical reading of Nehruvian foreign policy. The four-page Economic Supplement bundles a note on Minoo Masani's attack on governmental controls and planning together with J. M. Lobo Prabhu's 'A New Tax Structure,' and the issue closes with the Delhi Letter, Book-Review, 'The Mind of the Nation,' News And Views, and Dear Editor departments.
 
+## Key points
+
+- This 15 September 1963 issue, Vol. XI No. 12, edited by D. M. Kulkarni, opens with the editorial Mend The Congress or End It, arguing the ruling party has decayed into a corrupt, statist machine.
+
+- The editorial distinguishes a latent democratic wing within Congress from its dominant controls-and-planning tendency, arguing for internal reform or replacement by a principled non-Congress democratic alternative.
+
+- M. A. Venkata Rao's Democracy And Constitutional Amendments reads the wave of post-independence amendments touching property and fundamental rights as a test of whether the Constitution still protects individuals against the state.
+
+- M. N. Tholal's Bolstering Non-alignment questions how far India's non-aligned foreign policy actually serves Indian interests, weighing the gap between its professed neutrality and its real-world tilts.
+
+- The Economic Supplement reports Minoo Masani's parliamentary attack on state monopolies, governmental controls and centralised economic planning as obstacles to India's growth and enterprise.
+
+- J. M. Lobo Prabhu's A New Tax Structure critiques the existing tax system's effect on incentives and savings and proposes a redesign more favourable to enterprise and capital formation.
+
+- The issue closes with a Delhi Letter, a book review, The Mind of the Nation, News and Views, and a Dear Editor column.
+
 ## Essays
 
 ### Editorial: Mend The Congress or End It

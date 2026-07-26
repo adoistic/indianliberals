@@ -81,6 +81,24 @@ missing_metadata_flags:
 
 This April 1, 1963 issue (Vol. XI) of The Indian Libertarian, edited by D. M. Kulkarni and published by Libertarian Publishers Pvt. Ltd. from Bombay, gathers an editorial, three signed essays, a Delhi Letter, a book review, and the regular Gleanings/News/Dear Editor sections. The argumentative centre is two-fold: a defence of classical-liberal politics against both Nehruvian 'secularism' (which the editorial recasts as a 'civil state') and against communist-style revolution in the wake of the Sino-Indian crisis. M. A. Venkata Rao attacks the Russian and Chinese revolutions as economically unnecessary and humanly destructive; M. N. Tholal contests Jayaprakash Narayan's advocacy of nonviolent resistance to Chinese aggression; K. Sreeramamurty defends English as the medium of higher education; the Delhi Letter assesses the danger of a joint Sino-Pakistani attack on India; the news pages survey U.S. aid (Galbraith, Morarji Desai), Rajaji's call for national leadership, and Nehru's policies on Hindi.
 
+## Key points
+
+- The editorial proposes replacing Nehru's 'Secular State' formulation with a 'Civil State', arguing India is neutral toward creeds without being hostile to religion, unlike Pakistan's avowedly Muslim state.
+
+- It invokes the Vijayanagar empire, Mughal rule and Shivaji to argue that protecting Hindus and other communities from religious imposition is a legitimate civic concern.
+
+- M. A. Venkata Rao argues the Russian and Chinese communist revolutions were historically unnecessary, since they failed to raise living standards above those in capitalist Western states.
+
+- He compares Tsarist Russia's pre-1917 trajectory and pre-Meiji Japan to argue gradual industrial reform, not Bolshevik or Maoist seizure of property, was the rational path.
+
+- M. N. Tholal contests Jayaprakash Narayan's Rajasthan University address urging nonviolent resistance to Chinese aggression, arguing unarmed civilian resistance against a Communist invader would produce mass killings rather than moral victory.
+
+- K. Sreeramamurty defends English as the medium of higher education, welcoming Andhra Pradesh's introduction of English from Standard III and citing Nobel laureate I. I. Rabi on science requiring English.
+
+- The Delhi Letter assesses the danger of a joint Sino-Pakistani attack on India following the 1962 border war and reports on Sino-Pakistani border talks and Indo-Pakistani negotiations over Kashmir.
+
+- The news pages survey U.S. aid discussions involving Galbraith and Morarji Desai, Rajaji's call for national leadership, and Nehru's policies on Hindi.
+
 ## Essays
 
 ### Essay 0

@@ -57,6 +57,24 @@ missing_metadata_flags:
 
 This is the 6 April 1992 issue (Year 9, Issue 1) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi fortnightly organ of the Shetkari Sanghatana, published on शेतकरी हुतात्मा स्मृतिदिन (Farmers' Martyrs' Memorial Day) and marking the paper's entry into its ninth year. The issue's argumentative centre is the Lakshmimukti (लक्ष्मीमुक्ती) campaign — the movement's drive to transfer land into women's names — and the lead article by Sharad Joshi, 'सीतेचे उदाहरण हाच प्रभावी मार्ग आहे' (Sita's example is the effective path), defends this approach through the figure of Sita while engaging objections rooted in religion and tradition. Surrounding pieces develop the movement's free-market and agrarian programme: an editorial 'मी अर्थमंत्री असतो तर—' (If I were Finance Minister), Vijay Jawandhia's 'स्वदेशी अभियान - विदेशी धान्य' (Swadeshi campaign, foreign grain) on the contradictions of import-dependent self-reliance, Bhaskar Borawake's 'उपोषणाने काय साधले?' (What did the fast achieve?), and reports on village-level processing industry, farmers benefiting from open trade, and a 6 April wheat-burning protest by Punjab and Haryana farmers in Delhi. Contributions come from activists across Maharashtra (Jalna, Latur, Amravati, Parbhani), and the masthead lists owner Mohan Vihari­lal Pardeshi and editor-printer-publisher Sureshchandra Mhatre, Pune.
 
+## Key points
+
+- This 6 April 1992 issue of Shetkari Sanghatak, Year 9, Issue 1, published on Farmers' Martyrs' Memorial Day, marks the paper's entry into its ninth year and centres on the Lakshmimukti land-transfer campaign.
+
+- Sharad Joshi's lead article, Sita's example is the effective path, defends transferring agricultural land into women's names by invoking Sita as a model of dignity, answering charges that the campaign is anti-religious or anti-tradition.
+
+- Joshi argues that a culturally rooted appeal persuades more effectively than confrontation and ties the Lakshmimukti drive to the Shetkari Sanghatana's wider programme of freeing farmers and rural society.
+
+- An editorial titled If I were Finance Minister sets out the movement's own free-market prescriptions for fiscal policy, contrasting them with the government's actual approach.
+
+- Vijay Jawandhia's article Swadeshi campaign, foreign grain examines the contradiction of a self-reliance movement that still depends on imported grain, questioning the logic of the swadeshi position.
+
+- Bhaskar Borawake's piece What did the fast achieve? assesses the practical outcomes of a recent hunger-strike protest, weighing what concessions, if any, it won from the authorities.
+
+- The issue reports on village-level processing industry, farmers benefiting from open trade, and a 6 April wheat-burning protest staged by Punjab and Haryana farmers in Delhi.
+
+- Contributions in the issue come from Sanghatana activists across Maharashtra districts including Jalna, Latur, Amravati and Parbhani, reflecting the movement's regional organisational reach.
+
 ## Essays
 
 ### Essay

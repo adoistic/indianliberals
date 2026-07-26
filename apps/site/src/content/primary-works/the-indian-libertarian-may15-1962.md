@@ -78,6 +78,20 @@ missing_metadata_flags:
 
 This is the 15 May 1957 issue (Vol. V, No. 6) of The Indian Libertarian, a twice-monthly Bombay 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review' and edited by Miss Kusum Lotwala under the banner 'We stand for free economy and liberal democracy.' In the rendered pages the issue is dominated by foreign-affairs commentary clustered around Kashmir, Pakistan, and the Cold War: M. A. Venkata Rao on theocratic fanaticism versus world peace, Josef Korbel on 'Nehru, the UN and Kashmir,' a 'Vigilant'-bylined piece on 'Political Bankruptcy in Pakistan,' M. N. Tholal on India and Arab nationalism, and K. D. Valicha on the Kashmir imbroglio, alongside an economic note on 'Soviet Capital in American Industries' and the journal's regular news and review departments. The argumentative center is classical-liberal and anti-theocratic, defending secular liberal democracy and a free economy while reading the Kashmir dispute and Pakistani politics with skepticism.
 
+## Key points
+
+- This 15 May 1957 issue of The Indian Libertarian (Vol. V, No. 6), edited by Miss Kusum Lotwala and incorporating the 'Free Economic Review', is dominated by foreign-affairs commentary on Kashmir, Pakistan and the Cold War.
+
+- M. A. Venkata Rao's 'Theocratic Fanaticism and World Peace' names religious dogmatism as the principal threat to world peace, contrasting closed theocratic politics with the open temper of secular liberal democracy.
+
+- Josef Korbel's 'Nehru, The UN and Kashmir' reviews the Kashmir dispute before the UN Security Council, laying out the mutual charges between India and Pakistan and the unresolved constituent-assembly question, while treating Nehru's handling of the dispute critically.
+
+- Writing under the pen name 'Vigilant', 'Political Bankruptcy in Pakistan' diagnoses chronic constitutional and communal instability across West and East Pakistan, reading the country's troubles as a cautionary case against theocratic governance.
+
+- M. N. Tholal contributes a piece on India and Arab nationalism, and K. D. Valicha writes on the broader Kashmir imbroglio, extending the issue's foreign-policy focus.
+
+- An economic note titled 'Soviet Capital in American Industries' extends the journal's Cold War commentary from geopolitics into international finance.
+
 ## Essays
 
 ### Theocratic Fanaticism and World Peace

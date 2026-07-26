@@ -28,6 +28,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1979
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -118,6 +119,24 @@ thinker_mentions:
 ## Summary
 
 This Forum of Free Enterprise booklet, issued in Bombay on 13 August 1979, gathers two industry-side interventions in the late-Janata-era debate on labour law and union power, plus an appendix reproducing a Financial Express report on the simultaneous bonus controversy. The opening essay is an extract from Naval H. Tata's inaugural talk of 29 January 1979 at an ASSOCHAM workshop on the Industrial Relations Bill, framing labour-law reform as a human-rights issue and defending the Janata Government's Bill against trade-union opposition. The second essay reproduces P. C. Mehta's 16 April 1979 Forum lecture, 'Democracy and Labour Movement', arguing that industrial peace in a democracy must rest on law rather than trials of strength. The closing appendix carries the Finance Minister Charan Singh's June 1979 case against extending bonus to railwaymen and Government departmental employees. Together the three pieces present a coordinated employer-side and free-enterprise critique of trade-union militancy, wage-productivity drift, and bonus-as-statutory-right.
+
+## Key points
+
+- Naval H. Tata, then President of the Employers' Federation of India, frames the Industrial Relations Bill as a human-rights measure that protects citizens from union-led disruption of essential services such as Railways, Airlines, Dockyards and Banks.
+
+- Tata cites a daily wage of Rs. 25.65 for an unskilled metropolitan worker and Rs. 100 for a white-collar employee, arguing organised labour in Bombay and Calcutta is not underpaid and that absentee privileges inflate costs.
+
+- He invokes the Bhoothalingam Committee's findings on wage-productivity disparity and points to Switzerland's referendum-based union restraint and the Callaghan-Thatcher consensus in Britain as models for curbing union bargaining power.
+
+- P. C. Mehta, a member of the Janata Government's Ravindra Varma Committee, defines industrial relations through two questions: the conditions under which work is done and how its proceeds are divided.
+
+- Mehta argues democracy is the middle position between totalitarianism and anarchy, requiring separation of legislative, judicial and executive functions and self-imposed restraint by every party involved.
+
+- He warns that the right to organise and bargain collectively, while fundamental, is being abused to substitute 'trial of strength' for 'trial of issues', risking a drift of democracy toward feudalism.
+
+- Mehta contends the organised industrial worker is already an elite compared with the unorganised landless poor, so economic growth rather than coercive redistribution is the true route to social change.
+
+- An appendix reproduces Finance Minister Charan Singh's June 1979 case against extending statutory bonus to railwaymen and Government departmental employees.
 
 ## Essays
 

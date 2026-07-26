@@ -28,6 +28,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1974
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -63,6 +64,24 @@ missing_metadata_flags:
 ## Summary
 
 This 1974 Forum of Free Enterprise booklet collects three pieces — a reprinted Financial Express article by N. H. Tata, a Bombay lecture by S. R. Mohan Das, and the A. D. Shroff Memorial Lecture delivered in New Delhi by Prof. R. C. Goyal — all responding to the nation-wide Indian railway strike of 1974 and the broader crisis of industrial relations under a mixed economy. The contributors, though writing from different vantage points (employer body, industrial-relations commentator, public-administration academic), converge on a common diagnosis: a wage and bonus structure detached from profit or productivity, a regulatory framework that treats workers as wards of the state while excluding them from genuine collective bargaining, and a Government that simultaneously promotes trade unionism and undercuts it by acting as both legislator and largest employer.
+
+## Key points
+
+- N. H. Tata, writing for the Employers' Federation of India, blames the Bonus Act of 1965 for fixing a minimum bonus unrelated to profit or productivity, converting bonus into a disguised wage increase.
+
+- Tata notes the Government's pre-election move in 1974 to raise the minimum bonus from four to 8.33 percent created a windfall for organised industry while more than 85 million unorganised workers received no bonus or job security at all.
+
+- Tata argues the right to strike is not a fundamental right but derives from a Human Rights Convention, and must be balanced against an employer's right to lock-out and restricted by Parliament in essential services.
+
+- S. R. Mohan Das traces the strike to civil-service attitudes inherited from British Charter Companies that stop the Railway Board from behaving like industrial management, calling it a "cultural block."
+
+- Mohan Das describes the Government fragmenting railway unions by backing the INTUC-sponsored National Federation of Indian Railwaymen against Jayaprakash Narayan's All-India Railwaymen's Federation, then arresting leaders on 2 May.
+
+- Mohan Das estimates a settlement of about Rs. 140 crores would have cost less than the damage the strike inflicted on steel production and the resulting black-market price spike.
+
+- Prof. R. C. Goyal's A. D. Shroff Memorial Lecture frames Indian industrial relations against a Western liberal-democratic model, asking how autonomous unions and collective bargaining fit a mixed economy where the state is both largest employer and rule-maker.
+
+- Goyal shows registered trade unions grew from 4,623 with an average membership of 781 in 1951-52 to 15,314 unions averaging just 546 members by 1965, evidence of fragmentation despite official calls for healthy trade unionism.
 
 ## Essays
 

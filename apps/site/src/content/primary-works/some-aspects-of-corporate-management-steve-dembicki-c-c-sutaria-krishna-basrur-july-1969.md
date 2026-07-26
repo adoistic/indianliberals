@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1969
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -76,6 +77,24 @@ missing_metadata_flags:
 ## Summary
 
 This July 1969 Forum of Free Enterprise booklet collects three short essays drawn from the Forum's 'New Horizons in Corporate Sector' lecture series, prefaced by an introduction that frames the corporate sector as decisive for India's industrial development and warns that company law, tax incidence, labour legislation and the general attitude of government and public toward business 'can impede or accelerate the growth of the corporate sector'. Steve Dembicki (a recently retired ILO Chief of Project) argues that India's growth gap is fundamentally a management gap and lays out a philosophy of management development; C. C. Sutaria (President of the Institute of Secretaries) makes a sustained defence of the managing agency system against the 1970 abolition, charging that the decision was driven by 'politics and ideologies rather than economic factors'; and Mrs. Krishna Basrur (Editor of the Consumer Guidance Society Bulletin) sets out the social responsibilities of management toward consumers — safety, honest workmanship, quality standards, continuity of supply — closing with a call for an industrialist's rather than a financier's outlook. The volume's argumentative centre is a Forum-of-Free-Enterprise defence of the corporate sector as the engine of Indian economic development at a moment when government policy was tightening around it.
+
+## Key points
+
+- Steve Dembicki, a recently retired ILO Chief of Project, argues the gap between the United States and Europe is essentially a management gap rather than a technological one, borrowing Servan-Schreiber's "American Challenge" framing.
+
+- Dembicki reduces effective management development to three principles: selecting the right people, placing them in the right jobs, and letting them grow for their own benefit as well as the organisation's.
+
+- Dembicki appends a list of seventeen recommended management titles by authors including Drucker, Galbraith, Sloan, McClelland, and Carnegie as a study programme for Indian managers.
+
+- C. C. Sutaria, President of the Institute of Secretaries, defends the managing agency system ahead of its 1970 statutory abolition, charging that the decision rests on "politics and ideologies rather than economic factors."
+
+- Sutaria credits the 674 managing agents then operating with financing, promoting, and managing nearly all Indian industry at low cost because their remuneration was tied to profit.
+
+- Sutaria warns that replacing managing agents with Boards of Directors paid fixed salaries outside Companies Act Sections 198 and 309 will prove costlier, given India's scarcity of professional managerial talent.
+
+- Mrs. Krishna Basrur, Editor of the Consumer Guidance Society Bulletin, argues management's primary responsibility to consumers is safety, citing adulterated foodstuffs, defective electrical appliances, and toxic paint on toys as violations.
+
+- Basrur cites the free sale of Metanil yellow, a prohibited colouring sold as edible across Bombay and, she says, perhaps all over India, as a concrete example of unsafe practice.
 
 ## Essays
 

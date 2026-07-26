@@ -90,6 +90,24 @@ missing_metadata_flags:
 
 This is Year 12, Issue 9 of Shetkari Sanghatak (शेतकरी संघटक), a Marathi fortnightly newspaper of the Shetkari Sanghatana, dated 21 September 1995 and edited by Sharad Joshi. The issue is anchored by two Sharad Joshi editorials — a long polemical essay reading the just-concluded Beijing UN Women's Conference as an elite NGO carnival that bypasses the working peasant woman, and a sharp attack on the Nehruvian land-ceiling regime as a fraud sold in the name of land reform. Around these sit a translated companion piece on Beijing by Vasudev Malik, a serialised Marathi translation of George Orwell's Animal Farm (chapter 'स्वराज्य अवतरले') by Meghan Mudholkar, Govind Joshi's field report on the breakdown of the Maharashtra cotton monopoly procurement scheme, an organisational notice listing the newly appointed district chiefs (jilhapramukhs) of the Sanghatana, advertisements for the Krishi Arth Prabodhini training camps, a long reportage on a bold woman sarpanch facing local goons and a passive administration, a poem 'हिव' by Swami D. D., and birthday thanks from Sharad Joshi himself. The issue's argumentative centre is a classical-liberal/agrarian-reform critique of state planning, controlled markets and elite-led 'empowerment' discourse, with the recurring slogan in a boxed insert: 'मुक्त अर्थव्यवस्था येत आहे, तिला कोणीही थांबवू शकणार नाही.'
 
+## Key points
+
+- This Year 12, Issue 9 of the Marathi fortnightly Shetkari Sanghatak, dated 21 September 1995 and edited by Sharad Joshi, is anchored by two Joshi editorials on the Beijing Women's Conference and the Nehruvian land-ceiling regime.
+
+- Joshi's lead editorial reads the Fourth UN World Conference on Women, which concluded in Beijing on 15 September 1995 with some 140 government delegations and roughly 30,000 NGO representatives at the parallel Huairou meet, as an elite carnival bypassing the ordinary working woman.
+
+- He contrasts urban, reservation-bred women's leadership with the organic emergence of the Shetkari Mahila Aghadi within the farmers' movement, arguing that borrowed Western 'empowerment' vocabulary diverts attention from land, property and market reform.
+
+- In a second editorial Joshi attacks the Nehruvian land-ceiling regime as a fraud sold to the country in the name of land reform.
+
+- Vasudev Malik translates a companion piece from the Indian Express of 6 September 1995, written as a letter from rural Indian women to Beijing-bound delegates contrasting monsoon village life with the comfort of conference halls.
+
+- The issue serialises Meghan Mudholkar's Marathi translation of George Orwell's Animal Farm, running its second chapter in which the pigs systematise old Major's ideas into Animalism and the animals spontaneously drive Mr Jones off the farm.
+
+- Govind Joshi files a field report on the breakdown of the Maharashtra cotton monopoly procurement scheme, and the issue also carries reportage on a woman sarpanch confronting local goons and a passive local administration.
+
+- A boxed insert repeats the recurring slogan that the free economy is coming and cannot be stopped, alongside a poem by Swami D. D. and Sharad Joshi's own note of thanks for birthday greetings.
+
 ## Essays
 
 ### 'सक्षमीकृत' मुखंडींचा बेजिंगी उरूस

@@ -74,6 +74,26 @@ physical:
 
 The June 15, 1960 issue (Vol. VIII No. 6) of The Indian Libertarian, now subtitled an 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review' and 'The Indian Rationalist,' opens with an editorial on Congress 'revitalisation' at the Poona AICC sessions and Nehru's role there. It carries M. A. Venkata Rao on the collapse of the Paris summit, M. N. Tholal on the bright prospects of the new Swatantra Party, E. H. Potter's critical appraisal of V. K. Krishna Menon, and A. Ranganathan on a decade of Sino-Indian disillusionment, alongside an Economic Supplement essay on capital accumulation and economic growth signed 'Sputnik.' The issue sustains the journal's classical-liberal, anti-Communist line, championing the Swatantra alternative and free-enterprise economics against Congress planning and Nehruvian foreign policy.
 
+## Key points
+
+- The editorial, "Congress Party Revitalisation: AICC Sessions at Poona," reports rank-and-file dissatisfaction with the party High Command and the Hanumanthaiya proposal to broaden the Working Committee.
+
+- It reads the party's post-Poona "revitalisation" rhetoric as largely futile and insincere, noting Jawaharlal Nehru's ambivalent role in the proceedings after his recent foreign tours.
+
+- M. A. Venkata Rao's "Aftermath of the Summit" assesses the collapse of the Paris summit between Khrushchev and the Western powers following the U-2 affair, reading it as confirming the unreliability of Soviet coexistence.
+
+- M. N. Tholal's "Swatantra's Bright Chances" surveys the newly formed Swatantra Party's conference and organisation, engaging its leadership including Rajaji and N. G. Ranga.
+
+- Tholal frames the newly formed Swatantra Party as a credible free-enterprise alternative to Congress, reporting on its organisational prospects following the party's founding conference.
+
+- E. H. Potter's "Krishna Menon's Achievements" offers a sharply critical appraisal of Defence Minister V. K. Krishna Menon, questioning his record and treating his prominence as a liability rather than an achievement.
+
+- A. Ranganathan's essay traces a decade of Sino-Indian relations from early Panchsheel optimism to disillusionment over Tibet and the frontier, criticising Indian policy toward China as naive.
+
+- The Economic Supplement essay "Capital Accumulation and Economic Growth," signed pseudonymously as "Sputnik," argues capital accumulation is central to developing countries' growth and weighs saving and investment against state-directed growth.
+
+- This same piece includes a critique of Marx's labour theory of value as part of its argument for private enterprise over state direction.
+
 ## Essays
 
 ### Editorial

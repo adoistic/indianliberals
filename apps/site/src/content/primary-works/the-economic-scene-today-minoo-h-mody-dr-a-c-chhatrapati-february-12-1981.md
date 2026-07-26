@@ -25,6 +25,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1981
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -66,6 +67,24 @@ missing_metadata_flags:
 ## Summary
 
 A short Forum of Free Enterprise booklet pairing two addresses on the Indian economy at the turn of the 1980s: Minoo H. Mody's presidential address at the ASSOCHAM workshop in New Delhi on industrial policy and macroeconomic management, and Dr. A. C. Chhatrapati's lecture at the Forum in Bombay on 22 January 1981 on the new wave of farmers' agitations. Read together, the two pieces frame industrial licensing and the suppression of agricultural prices as twin failures of three decades of planned development, and argue that the next phase of policy should accept the entrepreneurial logic now visible in both the factory and the field rather than treating either sector as a passive subject of administrative control.
+
+## Key points
+
+- This Forum of Free Enterprise booklet pairs Minoo H. Mody's presidential address to the ASSOCHAM workshop in New Delhi on industrial policy with Dr. A. C. Chhatrapati's 22 January 1981 Forum lecture in Bombay on the new farmers' agitations.
+
+- Mody describes a 'varying picture of prosperity and crisis': a bumper kharif harvest offsetting the prior year's 3 percent GNP decline, even as industrial production fell 1.8 percent and capacity utilisation dropped across steel, cement, aluminium and electric motors.
+
+- He calls the new Industrial Policy's relaxations 'welcome but timid' and proposes a five-year 'open season' suspending licensing in the core sector, opening state-sector activities to private participation, and accepting deferred-credit imports from a recessionary West.
+
+- Mody opposes the Wanchoo Committee's proposals to end the interest deduction or levy a 1 percent tax on capital, arguing they would deepen rather than ease the existing investment famine facing Indian industry.
+
+- Quoting the economist M. Adiseshiah, Mody calls the licence and exemption system the principal generator of black money and the parallel economy, noting that 40 percent of Indians remained below the poverty line after thirty years of planning.
+
+- Dr. A. C. Chhatrapati argues that thirty years of development have turned the once-fatalistic Indian farmer into an entrepreneur who reads price signals like an industrialist, explaining the sudden, non-political agitations spreading across several states.
+
+- He documents the gap between manufactured and agricultural price indices widening to 14 percent in 1979-80 and roughly 30 percent by late 1980, while support prices rose only about 10 percent against a 40 percent general price increase.
+
+- Chhatrapati notes that Agricultural Prices Commission recommendations were 'repeatedly set aside' by state governments, and prescribes parity-based support prices, an enforcement agency, better storage and orderly regulated markets as remedies.
 
 ## Essays
 

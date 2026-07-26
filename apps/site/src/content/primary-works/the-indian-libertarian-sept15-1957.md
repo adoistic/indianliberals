@@ -80,6 +80,24 @@ physical:
 
 This 15 September 1957 issue (Vol. V No. 14) of The Indian Libertarian, the Bombay free-economy and liberal-democracy fortnightly then edited by Kusum Lotwala, ranges across foreign policy, defence, and political philosophy. Its lead pieces engage A. D. Gorwala's views on India-Pakistan policy, ask whether India's security and defence are adequate, and dissect the Oman oil crisis and the Imam. An embedded four-page (A-D) Research Department supplement of the R. L. Foundation reprints Ludwig von Mises on full employment and monetary policy; A. Ranganathan reflects on the politics of removing statues; and S. A. Das offers an essay on humanism. The issue's argumentative center is a classical-liberal, anti-socialist reading of Indian foreign and economic policy in the early Cold War.
 
+## Key points
+
+- This 15 September 1957 issue of The Indian Libertarian (Vol. V No. 14), edited by Kusum Lotwala, ranges across foreign policy, defence, and political philosophy.
+
+- Signed 'Fairplay', 'Gorwala on India's Policy Towards Pakistan' reports A. D. Gorwala's address to the Indian Council of World Affairs, calling for a realist reappraisal of India's Pakistan policy.
+
+- S. A. Das's 'Humanism' sketches the philosophy from Nehru down to modern variants, distinguishing genuine humanism centred on human dignity and reason from sentimental imitations.
+
+- J. K. Dhairyawan's 'Are our Security and Defence Measures Adequate?' questions whether India's military preparedness matches the threat from Pakistan and the wider region.
+
+- The Research Department supplement of the R. L. Foundation, edited by B. S. Sanyal, reprints Ludwig von Mises's 'Full Employment and Monetary Policy' across four pages.
+
+- Mises's reprinted essay blames above-market trade-union wage rates for involuntary unemployment and argues that inflationary 'full employment' policy only debases the currency.
+
+- A. Ranganathan's 'Removal of Statues' critiques the drive to tear down colonial-era monuments as immature nationalism, invoking Tagore, Gandhi and Churchill in the argument.
+
+- B. S. Sanyal's 'Oman, Oil And The Imam' analyses the 1957 Omani crisis and the Imam's revolt, reading it as a failure of British policy in the Gulf.
+
 ## Essays
 
 ### Gorwala on India's Policy Towards Pakistan

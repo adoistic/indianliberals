@@ -75,6 +75,24 @@ missing_metadata_flags:
 
 This is the 6 November 1991 fortnightly issue (Year 8, Issue 14) of Shetkari Sanghatak (शेतकरी संघटक), the Marathi-language organ of Sharad Joshi's Shetkari Sanghatana, published from Pune. The issue is built around four substantive items: a lead essay by Sharad Joshi titled 'शेतकरी आंदोलनाचे उद्दिष्ट' (The objective of the farmers' movement) that argues the movement's aim is not to seek subsidies from the state but to secure remunerative prices through a genuinely open market for agricultural produce; an unsigned editorial 'बदल की पुढचे पाऊल?' (Change or the next step?) reflecting on the Sanghatana's direction on the eve of its annual gathering and the re-issue of 'भारतीय शेतीची प्यादेविरू'; Vijay Jawandhia's polemical piece 'नाव बुनकरांचे, नफा नसली वाडीयांचा!!' rebutting Indian Cotton Mill Federation president Nusli Wadia's call to dissolve the Maharashtra cotton monopoly procurement scheme (एकाधिकार) and the central Cotton Corporation of India (CCI) — Jawandhia argues their abolition would benefit Wadia's mills rather than handloom weavers; and an interview by Baburao Hadole and the Chamale sarpanch with Latur cultivator Bhimrao Tondre titled 'राष्ट्रीय संपत्ती संभाळणारा शेतकरी', condemning chemical fertilisers and pesticides as a curse rather than a boon. The remaining pages carry news of Sharad Joshi's 19-23 October Vidarbha 'Lakshmimukti / Gramgaurav Samarambh' tour granting land in cultivators' wives' names with public honour, president Kishor Mhadhakar's Nashik-Jalgaon-Dhule district tour, an announcement of a processing-technology training camp jointly with Shetkari Mahila Aghadi, the standard Sanghatana pledge ('प्रतिज्ञा'), a fresh list of life subscribers registered the previous month, and a back-cover call for the annual gathering at Shegaon (Buldhana) on 10 November 1991 where the Marathi edition of Joshi's 'राष्ट्रीय कृषिनीती' (National Agricultural Policy) will be released.
 
+## Key points
+
+- Sharad Joshi's lead essay, 'Shetkari Andolanache Uddishta', argues the farmers' movement seeks remunerative prices through a genuinely open market, not subsidies sought in supplication from the state.
+
+- Joshi rejects both the 'Regulatory price mechanism' and the 'Public utility price mechanism', laying out three paths for the agricultural surplus and endorsing organised collective market entry, conditional on genuine openness at home and abroad.
+
+- He invokes the colonial-era 'Imperial preference' as a warning against false market openness and calls for a 'Safety-fuse-mechanism' to guard against price shocks.
+
+- An unsigned editorial, 'Badal Ki Pudhache Paul?', reflects on the Sanghatana's direction ahead of its annual gathering and the forthcoming re-issue of 'Bharatiya Shetichi Pyadeviru'.
+
+- Vijay Jawandhia rebuts Indian Cotton Mill Federation president Nusli Wadia's call to dissolve Maharashtra's cotton monopoly procurement scheme and the Cotton Corporation of India, arguing abolition would benefit mill owners rather than handloom weavers.
+
+- Jawandhia marshals cotton price, procurement, and export data from 1985-86 through 1991-92 and traces the scheme's political history from its introduction under Indira Gandhi through the tenures of Ramnivas Mirdha, Ashok Gehlot, Ajit Yadav, and Sharad Pawar.
+
+- An interview with Latur cultivator Bhimrao Tondre, titled 'Rashtriya Sampatti Sambhalnara Shetkari', condemns chemical fertilisers and pesticides as a curse rather than a boon for farming.
+
+- Other pages report Sharad Joshi's October 1991 Vidarbha tour granting land in cultivators' wives' names under the Lakshmimukti/Gramgaurav Samarambh campaign and announce the annual gathering at Shegaon, where the Marathi edition of his agricultural policy work was to be released.
+
 ## Essays
 
 ### शेतकरी आंदोलनाचे उद्दिष्ट

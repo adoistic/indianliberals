@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1970
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -79,6 +80,24 @@ missing_metadata_flags:
 ## Summary
 
 This 1970 Forum of Free Enterprise booklet collects three short addresses delivered in Bombay under the Forum's auspices: 'Some Steps for Export Promotion' by industrialist S. P. Godrej, 'A Strategy for Export Promotion' by Y. A. Fazalbhoy (a former president of the All-India Manufacturer's Organisation), and 'Scientific Marketing' by M. Mathias (a director of Hindustan Lever Limited). The volume's argumentative center is a defence of the Private Sector as the natural engine of India's foreign trade and a critique of the post-bank-nationalisation drift toward state control. Godrej and Fazalbhoy press the case for treating exports as a private-sector domain backed by infrastructure rather than displaced by it, while Mathias argues that the discipline of marketing must be reconceived as a science drawing on economics, statistics, psychology and sociology — a managerial counterpart to the policy programme the first two essays advance.
+
+## Key points
+
+- This 1970 Forum of Free Enterprise booklet collects three Bombay addresses defending the Private Sector as the natural engine of India's foreign trade, delivered against the backdrop of bank nationalisation.
+
+- S. P. Godrej's "Some Steps for Export Promotion" names the 1969 bank nationalisations and talk of nationalising foreign trade as an ideological drag on export recovery after devaluation.
+
+- Godrej lists concrete firm-level reforms, including product development, marketing research, design and packaging, multilingual sales literature, and publicity at fairs such as Expo-70 Osaka, and calls for a permanent export department in every firm.
+
+- Godrej endorses joint ventures abroad as a way around tariff walls and dumping pressure, and singles out tourism as an "invisible export" the Private Sector should lead.
+
+- Y. A. Fazalbhoy's "A Strategy for Export Promotion" quantifies India's export slowdown at 2.2 per cent annual growth during 1966-69 against a Fourth Plan target of about 7 per cent.
+
+- Fazalbhoy notes India's share of world exports fell from 2.1 per cent to under 1 per cent over eighteen years and urges diversification from tea, jute and cotton textiles toward engineering goods, iron ore and chemicals.
+
+- Fazalbhoy proposes a Commerce Ministry Export Promotion Wing that grades factories by export share and rewards top exporters with priority machinery access and transferable import-licence vouchers.
+
+- M. Mathias's "Scientific Marketing" argues the discipline must be reconceived as a science drawing on economics, statistics, psychology and sociology, organised around the consumer's interest rather than the producer's.
 
 ## Essays
 

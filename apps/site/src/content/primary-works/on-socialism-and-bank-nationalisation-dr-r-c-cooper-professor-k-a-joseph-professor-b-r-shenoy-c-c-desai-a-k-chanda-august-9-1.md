@@ -30,6 +30,7 @@ publication:
   publisher_name: FORUM OF FREE ENTERPRISE, SOHRAB HOUSE, 235 DR. D. N. ROAD, BOMBAY-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -84,6 +85,24 @@ missing_metadata_flags:
 A Forum of Free Enterprise pamphlet collecting addresses delivered around the July 1969 bank nationalisation by a roster of classical-liberal voices: Dr. R. C. Cooper, Prof. K. A. Joseph, Prof. B. R. Shenoy, C. C. Desai (I.C.S., Retd., M.P.) and — beyond the rendered pages — A. K. Chanda. The contributions read as a coordinated rebuttal of Indira Gandhi's "New Economic Policy" note and of the bank nationalisation it heralded, arguing that the diagnosis is wrong (capital is being consumed and misdirected, not hoarded by private bankers), that the remedy is worse than the disease (it brings the country closer to communism rather than to welfare), and that what India actually needs is open competition, decontrol, sound money and a sturdy democratic culture grounded in individual rights.
 
 Across the four essays seen, the volume's argumentative centre is the claim that India's economic stagnation is the product of a decade and a half of planning, licensing and arbitrary investment priorities — not of free enterprise — and that nationalising banks merely deepens the same political control that has already corroded the cooperative sector and public undertakings. The contributors variously appeal to British and Soviet experience with socialism, the cooperative banks' history of failure, and the practical mechanics of capital markets, savings and small-borrower credit to argue that bank nationalisation has no economic justification and that only basic policy changes — not retrograde slogans — can restore growth and democratic stability.
+
+## Key points
+
+- Dr. R. C. Cooper, vice-president of the Forum of Free Enterprise, works point-by-point through Indira Gandhi's "New Economic Policy" note, testing each of its thirteen suggestions on economic merit alone.
+
+- Cooper cites a "Demonstration Effect" of politician spending, noting the Prime Minister's new residence cost Rs. 23 lakhs and the Maharashtra Chief Minister's sumptuary allowance rose from Rs. 15,000 to Rs. 1 lakh.
+
+- Cooper blames industrial licensing for barring new entrepreneurs and driving brain drain, quoting the line that for every Dr. Khorana who is known there are a hundred unknown ones.
+
+- Prof. K. A. Joseph of Presidency College, Madras, portrays British post-war socialism, quoting Seaman's phrase 'competition without prizes, statistics without end', as a record of promised prosperity delivering misery.
+
+- Joseph, drawing on Friedman, describes Soviet planning as exploitation of labour for the profit of the State and Communist Party, without freedom of thought or expression.
+
+- Joseph likens contemporary Indian corruption and nepotism to the Clive and Warren Hastings era of 'shaking the pagoda tree' and calls instead for a democracy fertilised by free enterprise and competition.
+
+- Prof. B. R. Shenoy, Director of the Economic Research Centre, argues in "Not Nationalisation of Banks, But Basic Policy Changes are Required" that basic policy reform, not nationalisation, is the answer to India's banking problems.
+
+- C. C. Desai, a retired member of the Indian Civil Service and Member of Parliament, joins Cooper, Joseph and Shenoy in the volume's coordinated rebuttal of the July 1969 bank nationalisation.
 
 ## Essays
 

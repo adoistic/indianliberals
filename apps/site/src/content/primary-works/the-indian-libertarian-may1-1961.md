@@ -71,6 +71,22 @@ physical:
 
 The June 15, 1961 issue (Vol. IX No. 6) of The Indian Libertarian, Bombay's classical-liberal 'Independent Journal of Economic and Public Affairs' now flying the slogan 'We stand for free economy and limited government,' opens with an editorial on the Cachar firings and the Bengali-language agitation in Assam. It gathers M. A. Venkata Rao on the sentiment of democracy, M. N. Tholal's argument that English alone can hold India together against Hindi imposition, S. R. Narayana Ayyar on the Prime Minister and national disintegration, and A. Ranganathan on recent events in Madras, plus an Economic Supplement essay by Prof. G. N. Lawande on employment under the Third Plan. The issue presses a free-enterprise, limited-government, anti-imposition line while defending English and constitutional democracy.
 
+## Key points
+
+- The editorial "The Cachar Firings" addresses police violence during the Bengali-language Satyagraha in Assam's Cachar district and criticises the imposition of Assamese on Bengali-speaking areas as an administrative failure.
+
+- M. A. Venkata Rao's "The Sentiment of Democracy" argues that self-government depends less on formal institutions than on a shared democratic sentiment and culture, using the English example, and warns that India lacks this deeper temper.
+
+- M. N. Tholal's "English Alone Can Save Us" defends English as the only language capable of holding a linguistically divided India together against the imposition of Hindi.
+
+- Tholal connects Hindi-language broadcasts and language nationalism to the threat posed to national unity by the ongoing Assam linguistic agitation.
+
+- S. R. Narayana Ayyar's article, the second part of a series titled "The Prime Minister And The Future Of Our Country", charges the Nehru government with presiding over 'all-round national disintegration' and invokes Tilak as a contrasting model of leadership.
+
+- A. Ranganathan's "Some Recent Events In Madras" surveys political and economic developments in the city around the Third Five Year Plan, including the work of the Forum of Free Enterprise, through a free-enterprise lens.
+
+- Prof. G. N. Lawande's Economic Supplement essay, "Employment In The Third Plan", questions whether planned development can absorb India's growing labour force and argues the Plan's employment targets fall short.
+
 ## Essays
 
 ### Editorial

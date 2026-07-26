@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1966
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -64,6 +65,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise booklet collects three talks delivered at an FFE symposium in Bombay on 3 September 1966 on the future of India's managing agency system, the dominant form of corporate control in colonial and early-independence India. Written against the backdrop of the I. G. Patel Committee report (received March 1966) and the Union Cabinet's apparent decision to discontinue managing agencies across all five industries it examined, the three contributors mount a broadly common defence: that the managing agency system, though historically marred by abuses, has been effectively disciplined by the Companies Act of 1956 and remains a useful instrument for industrial finance and entrepreneurship. C. C. Chokshi (a chartered accountant) argues the Government's outlook needs re-orientation; Dhirajlal Maganlal (Bombay Shareholders' Association) argues shareholders desire the system's continuation; and R. L. N. Vijayanagar (Secretary, Bombay Millowners' Association) argues the inquiry committee ignored the textile industry's capital needs and that abuse is not peculiar to managing agencies. The volume's argumentative center is that regulation, not abolition, is the right remedy, and that abolishing the system would damage industrial finance and modernisation.
+
+## Key points
+
+- C. C. Chokshi notes the Companies Act has placed managing agents in a "straight-jacket" stricter than that imposed on managing directors or managers, following decades of tightening regulation.
+
+- The same address points out that the I. G. Patel Committee recommended discouraging managing agencies in only three of five industries examined and never recommended abolition under Section 324.
+
+- It further argues the Government already holds sufficient power under Section 326 of the Companies Act to refuse appointments and curb concentration of economic power without abolishing the system.
+
+- Chokshi contends the Cabinet's decision to abolish managing agencies across all five industries rests on political rather than economic grounds, citing the House of Tatas as a case of efficient group management.
+
+- Dhirajlal Maganlal argues the 1956 Companies Act already curbed the malpractices of 1947-1954, producing an improvement in the system that even the Government has acknowledged.
+
+- The same address notes that managing-agency remuneration fell from 11.5 per cent in 1956 to about 9 per cent in later years, supporting a reasonable ceiling rather than outright abolition.
+
+- Maganlal warns abolition would deprive managed companies of managing-agent loans and guarantees, weaken the link between investors and new enterprises, and harm small middle-class investors.
+
+- R. L. N. Vijayanagar, Secretary of the Bombay Millowners' Association, cites the decline in managing agencies from 3,944 agents managing 5,055 companies in 1954-55 to 860 agents managing 1,236 companies by March 1965 as proof existing restrictions already deter abuse.
+
+- Vijayanagar criticises the inquiry committee for relying on outdated 1963-64 data and for ignoring the textile industry's specific capital needs when recommending change.
 
 ## Essays
 

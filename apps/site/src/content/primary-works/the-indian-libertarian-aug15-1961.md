@@ -77,6 +77,24 @@ This August 15, 1961 issue of The Indian Libertarian (Vol. IX, No. 10), edited b
 
 The issue's bound Economic Supplement (pages I–IV) carries G. N. Lawande on whether the Third Plan can produce a Rostow-style 'take-off', J. M. Lobo Prabhu on the economic platforms of the contesting parties, and a reprint of Thomas Paine's Agrarian Justice. A short comment piece titled 'Socialism' lampoons U Nu's Burmese socialism by parable, a Delhi Letter dissects Master Tara Singh's Punjabi Suba fast, a book review treats C. Northcote Parkinson's The Law and the Profits, and the issue closes with Gleanings from the Press, News & Views, and a Letter to the Editor on national unity. Throughout, the magazine defends free economy and limited government against planning, socialism, and what it sees as Nehruvian drift.
 
+## Key points
+
+- The 15 August 1961 issue of The Indian Libertarian, Vol. IX No. 10, edited by D. M. Kulkarni for Libertarian Publishers, opens with an editorial bloc on Pakistan's renewed hostility over Kashmir following Ayub Khan's American tour.
+
+- The editorial's "Kuwait and Kerala" section reads Iraq's claim on Kuwait and Britain's swift counter as a warning for India, cautioning against the Nawab-style oil-state model.
+
+- "The Orissa Elections" section frames the state's impending mid-term poll as a test of whether the Swatantra Party and the Ganatantra Parishad can dent Congress hegemony.
+
+- M. A. Venkata Rao's "Educating The Educators" argues Indian universities must themselves be reformed before they can produce citizens capable of defending a constitutional, science-based liberal democracy against communism.
+
+- Venkata Rao locates a deficit of "national civic sense" as the central failure of Indian higher education, given the country's diversity and provincial chauvinisms.
+
+- M. N. Tholal's "Towards Freedom Or Slavery?" turns Communist anti-colonial rhetoric back on its source, arguing Soviet rule over Central Asia and Chinese rule over Tibet constitute textbook colonialism.
+
+- The issue's bound Economic Supplement carries G. N. Lawande on whether the Third Plan can produce a Rostow-style "take-off," J. M. Lobo Prabhu on the contesting parties' economic platforms, and a reprint of Thomas Paine's Agrarian Justice.
+
+- A. Ranganathan supplies an appreciation of the late Khasa Subba Rau, editor of Swarajya, and a book review treats C. Northcote Parkinson's The Law and the Profits.
+
 ## Essays
 
 ### EDITORIAL (Pakistan's Sabre-Rattling)

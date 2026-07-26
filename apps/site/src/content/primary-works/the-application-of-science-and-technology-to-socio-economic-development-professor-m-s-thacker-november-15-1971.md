@@ -18,6 +18,7 @@ publication:
   place: Bombay
   year: 1971
   series: Sixth A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

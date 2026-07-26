@@ -91,6 +91,22 @@ missing_metadata_flags:
 
 This March 1, 1958 issue (Vol. V No. 24) of The Indian Libertarian, the Bombay fortnightly that stood 'for free economy and libertarian democracy', leads with an editorial surveying the Arab world after the union of Egypt and Syria, the revolt in Sumatra, and Soviet penetration of the Middle East, drawing a 'lesson to India' about the dangers of one-party drift. The bylined articles range across rationalism (M. A. Venkata Rao), a critique of 'social democracy' as a contradiction in terms (Ashutosh Lahiry), the strategic meaning of the Russian Sputniks (a reprinted James Burnham piece), a polemic for English as India's link language, and sharp anti-Congress satire under pseudonyms. Standing departments — Letters to the Editor, Political Prosings, On The News Front and Book Reviews — frame the issue's classical-liberal, anti-statist editorial stance. In the rendered pages the recurring theme is hostility to political opportunism and to socialist economic planning.
 
+## Key points
+
+- The lead editorial surveys the Arab world after the union of Egypt and Syria and the revolt in Sumatra, drawing a 'lesson to India' about the dangers of one-party political drift.
+
+- M. A. Venkata Rao's 'Reason and Rationalism' defends reason as the proper instrument for examining social life while cautioning against a corrosive rationalism that discards custom embodying tested practical wisdom.
+
+- Ashutosh Lahiry's '"Social Democracy" Is A Contradiction In Terms' argues socialist economic planning necessarily erodes the personal freedom and decentralised initiative that democracy depends on.
+
+- A reprinted James Burnham essay, 'The Answer to Russian Sputniks', reads the Soviet satellite launches as a strategic and political challenge to the West rather than a narrow technological event.
+
+- Writing as 'Capricon', 'English — The Supreme Gift of Saraswati' defends English as India's link and learning language, opposing its displacement by Hindi or regional tongues.
+
+- The issue's cover carries the masthead campaign slogan 'Make English the Official Language of India', aligning the Capricon essay with the journal's broader editorial stance.
+
+- Kishore Valicha's 'A Thieves' Kitchen of Opportunist Politicians' uses Pakistani Prime Minister Mohammad Ali's conduct as a case study to indict opportunist politicians across the subcontinent who treat public office as personal plunder.
+
 ## Essays
 
 ### Reason and Rationalism

@@ -79,6 +79,26 @@ missing_metadata_flags:
 
 Issue 9 of Year 11 of Shetkari Sanghatak — the Marathi-language fortnightly of Sharad Joshi's Shetkari Sanghatana — dated 6 September 1994. The eight-page issue is built around five pieces. The lead front-page essay by Sharad Joshi, framed as a reflection on the two-decade arc from the 1974 Bucharest UN population conference to the upcoming 1994 Cairo conference, attacks India's family-planning bureaucracy and argues that population falls naturally where prosperity and open systems take hold, not through coercion or planning. A second piece is an open letter from a retired teacher, Shri P. L. Kolhe, calling for the same 'open-system' logic to be extended to schooling, with a printed reply from Sharad Joshi endorsing competitive, market-based education. A long article and accompanying Memorandum of Association introduce Shivar Industries (India) Ltd., a new Shetkari Sanghatana-promoted retail company that aims to build a chain of farm-to-consumer stores on the Marks & Spencer model. Short news items report Shetkari Mahila Aghadi's success in shutting six liquor shops in Nagpur district and the preparations under way for the Sanghatana's sixth all-Maharashtra Adhiveshan in Nagpur on 12 November 1994; the back page carries the convention's mass-mobilisation appeal.
 
+## Key points
+
+- Sharad Joshi's lead editorial spans the twenty years from the 1974 Bucharest UN population conference to the 1994 Cairo conference, noting India's family-planning budget rose from Rs 8 crore to Rs 400 crore with negligible demographic results.
+
+- Joshi argues that poor families do not experience children as a burden, contending that fertility falls with rising prosperity rather than with state pressure or contraceptive supply.
+
+- Joshi recalls the Sanjay Gandhi-era forced-sterilisation drives as the canonical failure of bureaucratic population planning and prescribes economic liberty and women's empowerment as the real remedy.
+
+- Retired teacher P. L. Kolhe's open letter calls for the Sanghatana's 'open system' philosophy to be extended to schooling, criticising fixed pay-scales and recognition rules that protect mediocre government-controlled schools.
+
+- Sharad Joshi's printed reply endorses Kolhe's proposal, framing education as another state-monopolised sector where opening entry, fees and recognition would let good schools flourish.
+
+- A page-four article introduces Shivar Industries (India) Ltd., a Shetkari Sanghatana-promoted retail company modelled on Marks & Spencer that plans thirty farm-to-consumer outlets by 30 September 1994 and one hundred by year end.
+
+- The Shivar Industries piece argues Marks & Spencer did more for the poor than Marx and Engels, positioning the venture as a way for farmers to bypass middlemen and licensed traders.
+
+- Short news items report that the Shetkari Mahila Aghadi, the movement's women's front, succeeded in shutting six liquor shops in Nagpur district through direct local agitation.
+
+- The issue previews the Shetkari Sanghatana's sixth all-Maharashtra Adhiveshan convention, scheduled for Nagpur on 12 November 1994, with the back page carrying a mass-mobilisation appeal for it.
+
 ## Essays
 
 ### आता कुटुंबकल्याणाचे कल्याण

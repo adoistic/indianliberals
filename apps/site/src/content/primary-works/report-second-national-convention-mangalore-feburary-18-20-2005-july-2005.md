@@ -314,6 +314,26 @@ This volume is the formal proceedings report of the Second National Convention o
 
 The volume as a whole (115 pages) also contains addresses by Hubertus von Welck (FNSt) and S. V. Raju, a Delegates' Session with organisational business and constitutional amendments, three Liberal Position Papers on economic liberalisation (Ajit Karnik), Indian agriculture (R. M. Mohan Rao), and administration of justice (G. Giridhar Prabhu), plus annexures on the ILG strategy 2005–2010, a President's Report annexure, and a delegate list — none of which appear in the rendered pages.
 
+## Key points
+
+- The report documents the Indian Liberal Group's Second National Convention, held February 18-20, 2005 at the T. V. Raman Pai Convention Centre, Mangalore, on the theme Accountability in Governance.
+
+- N. Vittal's Inaugural Address traces accountability to individual responsibility, professional codes of conduct and enforcement mechanisms, and calls for radical reform of Article 311 alongside a shift from power to public service.
+
+- S. P. Sathe's Keynote Address grounds accountability as a moral concept using H. L. A. Hart's distinction between being obliged and having an obligation, and analyses the Anti-Defection Law and the Rajendra Prasad-Nehru dispute.
+
+- Hubertus von Welck of the Friedrich Naumann Foundation traces the foundation's origins under Theodor Heuss and closes his address on promoting liberalism globally with a reading from Ken Schoolland's Jonathan Gullible.
+
+- S. V. Raju's President's Address appeals to GenerationNext, credits Narasimha Rao's government with the 1991 economic U-turn, and argues for a new Liberal Party built on the Swatantra Party's legacy.
+
+- Ajit Karnik's position paper invokes Hayek's Fatal Conceit and Hernando de Soto's property-rights theory to defend economic liberalisation against Karl Polanyi's satanic mill framing of the market.
+
+- R. M. Mohan Rao's paper on agriculture and rural indebtedness recommends Kisan Credit Cards, mandatory agricultural bank lending, and village-level crop insurance to reverse post-liberalisation farm distress.
+
+- G. Giridhar Prabhu's paper on the administration of justice invokes Lincoln and Palkhivala to demand a transparent Judicial Service Commission and a five-year timeline for judicial reform.
+
+- The convention, dedicated to ILG founder Minoo Masani's birth centenary, drew only 52 of 319 members, and its annexures record the ILG's 2005-2010 strategy and a delegate list.
+
 ## Essays
 
 ### Preface

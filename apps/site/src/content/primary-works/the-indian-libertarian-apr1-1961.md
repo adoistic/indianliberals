@@ -91,6 +91,24 @@ missing_metadata_flags:
 
 The 1 April 1961 issue of The Indian Libertarian (Vol. IX, No. 1) is a sixteen-page Bombay fortnightly edited by D. M. Kulkarni for Libertarian Publishers Private Ltd., carrying the masthead slogan "We Stand For Free Economy and Limited Government." The issue opens with an unsigned editorial on the death of Union Home Minister Govind Ballabh Pant and the depletion of Congress's Old Guard, then runs three signed political essays — William Henry Chamberlin's case for American prosperity as proof that economic freedom pays, M. N. Tholal's reckoning of whether Pakistan or Communist China is now India's principal adversary, and a fortnightly Delhi Letter on Soviet alignment with Peking after Pant's exit. The four-page Rationalist Supplement, edited at the Indian Rationalist Association's national headquarters, contains S. Ramanathan on the movement's new building, J. V. Duhig on parallels between Communism and Catholicism, and a Colin McCall essay on Darwin's intellectual legacy. The issue closes with a report on King Mahendra's dissolution of Nepal's parliament, a book review of Buddha And Buddhism, gleanings from the press, news and views, a reader's letter on Lincoln and statism, and house advertisements for Libertarian Publishers and Duncan Road Flour Mills.
 
+## Key points
+
+- The 1 April 1961 issue of The Indian Libertarian (Vol. IX, No. 1) is a sixteen-page Bombay fortnightly edited by D. M. Kulkarni, carrying the slogan 'We Stand For Free Economy and Limited Government'.
+
+- The unsigned lead editorial mourns Govind Ballabh Pant as one of Congress's last 'Old Guard' figures and weighs the succession contest between Morarji Desai and Lal Bahadur Shastri.
+
+- William Henry Chamberlin's essay 'Freedom Does Pay' contrasts the post-war recovery of West Germany under Ludwig Erhard with the stagnation of the Soviet bloc as evidence for economic freedom.
+
+- M. N. Tholal's essay 'Who Is Our Enemy No. 1?' names Communist China, not Pakistan, as India's principal adversary because the territorial and ideological stakes are larger.
+
+- Tholal warns that Communists in Kerala and elsewhere could form a fifth column amplifying external pressure should relations with China deteriorate further.
+
+- The four-page Rationalist Supplement, edited at the Indian Rationalist Association's headquarters, carries S. Ramanathan's call for Indian rationalists to acquire permanent premises like the new American Humanist Association headquarters at Yellow Springs, Ohio.
+
+- The Rationalist Supplement also includes J. V. Duhig on parallels between Communism and Catholicism and a Colin McCall essay on Darwin's intellectual legacy.
+
+- The issue closes with a report on King Mahendra's dissolution of Nepal's parliament, a review of Buddha And Buddhism, and a reader's letter on Lincoln and statism.
+
 ## Essays
 
 ### EDITORIAL (After G. R. Pant; The Muslim Tension; President's Commission; Nagaland Inaugurated)

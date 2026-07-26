@@ -26,6 +26,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1972
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -81,6 +82,24 @@ missing_metadata_flags:
 ## Summary
 
 The Bonus Problem is a Forum of Free Enterprise pamphlet collecting three talks delivered in Bombay and Bangalore in July 1972 by Y. D. Joshi (Chief Labour Adviser to a business house), S. R. Mohan Das (Director, Industrial Relations Institute of India), and Dr. M. C. Munshi (economist). The three authors converge on a single thesis: the Indian bonus system, which began in 1918 as an ex-gratia gesture from textile employers, has through fifty years of tribunals, commissions, the 1965 Bonus Act, the Khadilkar formula, and a freshly appointed Bonus Review Committee mutated into a juridicalised, ad hoc compensation regime that no party — employers, unions, the Bonus Commission, or the Supreme Court — has been able to define coherently. The pamphlet is framed by an epigraph from Eugene Black ("People must come to accept private enterprise not as a necessary evil, but as an affirmative good") and treats the bonus question as a case study in how political interference and successive legislative tinkering corrupt industrial relations and corrode the foundations of free enterprise. The contributors urge settlement by negotiation across the table rather than by ministerial pressure or fresh statutory ceilings.
+
+## Key points
+
+- The pamphlet gathers three July 1972 talks delivered in Bombay and Bangalore by Y. D. Joshi, S. R. Mohan Das and Dr. M. C. Munshi, framed by an epigraph from Eugene Black on private enterprise as an affirmative good.
+
+- Y. D. Joshi traces bonus from its origin in 1918 as a textile employers' gift, through Chief Justice M. C. Chagla's 1944 General Motors ruling tying bonus to profits, to the tribunal formula the Supreme Court endorsed in 1959.
+
+- Joshi identifies the Central Labour Ministry's Khadilkar formula, an additional 4 per cent advance payment, as the root cause of reopening a bonus question the 1965 Bonus Act had largely settled.
+
+- He rejects raising the Act's 4 per cent minimum or 20 per cent maximum, warning that imposing 8 per cent on loss-making units would retard industrial growth, and urges settlement by negotiation.
+
+- S. R. Mohan Das calls bonus an anarchic compensation method that mutated from ex-gratia gift to profit-sharing to a vague gap-filler between subsistence, fair and living wages under INTUC pressure.
+
+- Mohan Das warns that ad hoc bonus expectations are spreading beyond industry into civil service, municipal and Zilla Parishad employment, corrupting wage structures across the public sector.
+
+- He argues the newly constituted Bonus Review Committee has already been pre-empted by the Labour Minister's declared position that the minimum cannot fall below 8 per cent.
+
+- Dr. M. C. Munshi's economic analysis traces bonus through six conceptual stages, concluding with the Supreme Court's Greaves Cotton ruling that bonus is surplus-based rather than a deferred wage.
 
 ## Essays
 

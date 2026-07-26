@@ -58,6 +58,22 @@ missing_metadata_flags:
 
 This is the 6 August 1995 issue (Year 12, Issue 6) of the Marathi fortnightly शेतकरी संघटक (Shetkari Sanghatak), the organ of Sharad Joshi's Shetkari Sanghatana. In the rendered pages it carries a front-page editorial on Gram Panchayat elections and the new reservation of seats for women, signed by the editor; a signed argumentative essay by Gail Omvedt urging the Swatantra Bharat Paksha (the movement's political wing) to abandon its political isolation; and several news boxes — an obituary for the journalist Anil Kokil, a notice that activist Chetna Gala of the Shetkari Mahila Aghadi won an American 'Resourceful Woman' award, and an editorial note on the coming Lok Sabha elections. The issue's centre of gravity, in the rendered pages, is electoral strategy and women's political participation within an agrarian-liberal frame: the editor weighs how women candidates fare under the new reservation, while Omvedt argues the farmers' party must build alliances rather than stand apart.
 
+## Key points
+
+- The unsigned front-page editorial reports on Gram Panchayat elections conducted under the newly mandated 33 per cent reservation of seats for women, citing concrete village cases such as Rukhmini's contest.
+
+- The editorial notes instances where men manoeuvred behind women candidates in the reserved seats, and closes by positioning the paper's economics as an open market stance against socialism and 'Market Socialism'.
+
+- Gail Omvedt of Kasegaon, Sangli, argues in a signed essay that the Swatantra Bharat Paksha, the Shetkari Sanghatana's political wing, lost the recent assembly elections chiefly because it contested in political isolation.
+
+- Omvedt urges the party to build a 'third force' democratic front by allying with progressive, Dalit and bahujan movements ahead of the coming Lok Sabha elections.
+
+- A news item carries an obituary for the journalist Anil Kokil, marking his death within the issue's standing coverage of the movement's circle.
+
+- Another notice reports that activist Chetna Gala of the Shetkari Mahila Aghadi received an American 'Resourceful Woman' award, recognising her work within the farmers' movement.
+
+- Across the editorial and Omvedt's essay, the issue's throughline is electoral strategy and women's political participation viewed through an agrarian, open-market lens.
+
 ## Essays
 
 ### ग्रामपंचायत निवडणुका व महिला राखीव जागा

@@ -77,6 +77,22 @@ The Indian Libertarian Vol. IX No. 18 (December 15, 1961) is a fortnightly issue
 
 The Economic Supplement carries Prof. G. N. Lawande's exposition of 'The Swatantra Manifesto' and the second instalment of Wendel Bull's 'Equalizing Opportunities — Next Step For Mankind', both pressing the case for market-based development against state planning. News and political reportage dominate the rest of the issue: a Delhi Letter on India's diplomatic defeats over Tibet and China, an extended account of the Swatantra Party Convention at Agra (its draft manifesto, resolutions on China and government policy, and M. R. Masani's role), M. A. Venkata Rao's review of F. A. Hayek's 'The Constitution of Liberty', a 'Gleanings from the Press' column, and a 'News & Views' miscellany. Across the issue the editorial centre of gravity is anti-statist, sympathetic to the Swatantra Party, and sharply critical of Nehru's domestic socialism and China policy alike.
 
+## Key points
+
+- Volume nine, number eighteen of The Indian Libertarian, dated 15 December 1961, carries the unsigned editorial 'Nehru's Statism,' charging that the Prime Minister and Congress have abandoned individual freedom for a 'socialistic pattern' mirroring the collectivist world.
+
+- The same editorial treats the Swatantra Party as the legitimate liberal alternative to Congress collectivism and endorses the proposed Malaysian Federation, uniting Malaya, Singapore, North Borneo, Sarawak and Brunei, as a voluntary liberal-constitutional experiment.
+
+- M. A. Venkata Rao's 'Democratic Statesmanship Today' argues democratic leadership is a philosophical vocation requiring competence in political philosophy, and warns that new-democracy Asia is most threatened by the incompetence of its own elected legislators.
+
+- Rao calls for a sustained civic education in political philosophy and the history of liberty, citing Lincoln as the standing example of democratic statesmanship.
+
+- M. N. Tholal's 'Nehru's New Way of Thinking' reads the Prime Minister's foreign-policy accommodations with China and the Soviet Union, and his comparison to Tito's Yugoslavia, as rhetoric papering over Congress's policy failures.
+
+- Prof. G. N. Lawande's Economic Supplement piece expounds the Swatantra Manifesto, while Wendel Bull's second instalment of 'Equalizing Opportunities' presses the case for market-based development against state planning.
+
+- The issue also carries an extended account of the Swatantra Party Convention at Agra, covering its draft manifesto, resolutions on China policy, and M. R. Masani's role, alongside M. A. Venkata Rao's review of Hayek's The Constitution of Liberty.
+
 ## Essays
 
 ### Democratic Statesmanship Today

@@ -33,6 +33,8 @@ publication:
   issuer_id: indian-liberal-group
   year: 2007
   series: The Liberal Budget
+  series_id: ilg-liberal-budget
+  series_ordinal: 4
 provenance:
   source: ccs_archive
   scan_quality: unknown

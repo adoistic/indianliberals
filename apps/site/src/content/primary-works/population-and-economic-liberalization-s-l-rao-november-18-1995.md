@@ -19,6 +19,8 @@ publication:
   place: Bombay
   year: 1995
   series: 30th A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 30
 provenance:
   source: ccs_archive
   scan_quality: unknown

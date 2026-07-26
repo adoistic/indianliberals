@@ -19,6 +19,7 @@ publication:
   publisher_name: "FORUM OF FREE ENTERPRISE\nPENINSULA HOUSE, 235, Dr. D. N. Road\nMUMBAI 400 001."
   issuer_id: forum-of-free-enterprise
   place: Mumbai
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

@@ -66,6 +66,20 @@ physical:
 
 This October 15, 1962 issue of The Indian Libertarian (Vol. X No. 14), the Bombay fortnightly edited by D. M. Kulkarni, leads with an editorial on national integration and carries signed essays on caste and nationhood, Indo-Nepal relations, and the perils of over-organisation. In the rendered pages the editorial 'Wanted: A Rational Approach to National Integration' critiques the Emotional Integration Committee report chaired by Dr. Sampurnanand and argues that integration is a means, not an end; M. A. Venkata Rao's 'From Caste To Nation' takes recent events around caste-based reservation in colleges as occasion to revisit nation-making; M. N. Tholal's 'Nepal Exposes India' reads the reshuffle of Nepal's cabinet and King Mahendra's moves as embarrassing for Indian foreign policy; and a reprinted piece by the nineteenth-century American author John Clark Ridpath, 'Two Greatest Enemies Of Freedom,' attacks over-organisation. The issue's classical-liberal, limited-government stance frames each topic against the dangers of statism and centralised control.
 
+## Key points
+
+- This 15 October 1962 issue, Vol. X No. 14, edited by D. M. Kulkarni, leads with the editorial Wanted: A Rational Approach to National Integration, critiquing the Emotional Integration Committee report chaired by Dr. Sampurnanand.
+
+- The editorial argues emotional integration is only a means and not an end, tracing India's National Consciousness to Liberal Education and enlightened British administration before its later degeneration into dogmatic politics.
+
+- M. A. Venkata Rao's From Caste To Nation engages caste-based reservation in medical and engineering colleges, citing quotas for scheduled castes, scheduled tribes and backward classes as an obstacle to nation-building.
+
+- M. N. Tholal's Nepal Exposes India reads King Mahendra's cabinet reshuffle, restoring the foreign portfolio to Dr. Tulsi Giri and dropping Rishikesh Shah, as exposing the weakness of Indian policy toward Nepal.
+
+- Tholal cites a communique claiming that India's attitude to Nepal had not changed even after Shah's Delhi talks, despite charges that anti-national elements have been receiving all sorts of aid.
+
+- A reprinted essay by nineteenth-century American author John Clark Ridpath, Two Greatest Enemies Of Freedom, names over-organisation as a force that has extinguished the life and soul within social and political institutions.
+
 ## Essays
 
 ### Editorial

@@ -79,6 +79,24 @@ physical:
 
 This July 1, 1959 issue of The Indian Libertarian (Vol. VII No. 11), edited by Kusum Lotwala and published from Bombay, gathers editorial commentary and signed essays around the magazine's classical-liberal and anti-collectivist program. In the rendered pages the issue opens with editorials on the popular revolt against the Communist ministry in Kerala and the constitutional means of contesting it, then runs essays distinguishing the 'profit motive' from the 'power motive' (M. N. Thakkar), assessing the newly formed Swatantra Party (M. A. Venkat Rao), debating compensation for expropriated property (Kusum C. Cooper), and reading C. Rajagopalachari's new party through a libertarian lens (S. Ramananthan). A second cluster of pieces turns to Cold War and Asian affairs — Laos and Tibet as illustrations of Communist subversion (Damodar J. Prabhu), the ethics of civil disobedience (Antony Elenjimittam), a translated satirical catechism 'What Is Socialism?' by the Polish philosopher Leszek Kolakowski, and an anonymous historical meditation on the Tibetan tragedy — before closing with a News Digest and lighter features.
 
+## Key points
+
+- M. N. Thakkar's Profit Motive Vs. Power Motive argues the lust for power, not private enterprise, is the more dangerous and corrupting force, citing Napoleon and the French Revolution as cautionary cases.
+
+- Thakkar also invokes the rise of Hitler and Mussolini to argue that concentrated state power, not the marketplace, is what breeds tyranny in modern society.
+
+- M. A. Venkata Rao's essay assesses the newly launched Swatantra Party's economic and social programme as a viable free-enterprise opposition to Congress rule.
+
+- Kusum C. Cooper's Compensation of Expropriation analyses Article 31 of the Constitution and the Fourth Amendment of 1955 governing compensation for acquired property.
+
+- S. Ramananthan tests C. Rajagopalachari's new party against libertarian standards, asking how far its programme advances individual freedom and limits state power.
+
+- Damodar J. Prabhu's essay on Laos and Tibet reads events in both countries as illustrations of externally directed Communist sabotage and infiltration across Asia.
+
+- Antony Elenjimittam's Ethics Of Civil Disobedience traces the moral basis of non-violent resistance through Tolstoi, Thoreau and Gandhi, distinguishing principled disobedience from mere law-breaking.
+
+- Leszek Kolakowski's What Is Socialism?, a banned Polish student-paper article reprinted from the New Leader of New York, defines socialism entirely by negation, each clause indicting censorship, informers and show trials.
+
 ## Essays
 
 ### Profit Motive Vs. Power Motive

@@ -77,6 +77,24 @@ physical:
 
 This 1 October 1959 issue of The Indian Libertarian (Vol. VII No. 17), the fortnightly classical-liberal journal edited by Kusoom Lotwalla and now incorporating 'The Indian Rationalist', is dominated by the China-India border crisis and by the journal's twin causes of free-market liberalism and rationalism. The editorial reads Khrushchev's visit to the United States through Cold War eyes, contrasting Soviet propaganda triumphs (Sputnik, the moon rocket) with the realities of the Communist system. The foreign-policy cluster is sharply critical of Nehru: M. A. Venkata Rao calls for a rethinking of foreign policy in light of Chinese aggression along the McMahon Line and in NEFA/Tibet, M. N. Thoiral demands 'a new government' and attacks the doctrine of non-violence, and B. G. Pradhan dissects the 'fallacies' of India's foreign policy and the failure of Panch Sheel. A. Ranganathan defends English against 'Hindi fanaticism', and V. Yogeswara Rao profiles Dayananda Saraswati as 'the great path finder of modern India'. The issue also carries the journal's four-page Rationalist Supplement (a plan for a rationalist society and a piece on individuality).
 
+## Key points
+
+- The editorial Khrushchev Arrives in the U.S.A. reads the Soviet leader's visit as Cold War propaganda theatre, conceding the impact of the Sputnik and moon-rocket launches timed to coincide with it.
+
+- The editorial argues these Soviet triumphs reflect a system that pours resources into prestige projects and state power while neglecting the ordinary citizen, contrasting this with India's under-developed education and talent.
+
+- M. A. Venkata Rao's Rethinking Foreign Policy argues that Chinese aggression along the disputed Himalayan frontier exposes the bankruptcy of Nehru's foreign policy.
+
+- Venkata Rao reviews Chou En-lai's repudiation of the McMahon Line and Chinese incursions into NEFA and Tibet, calling for a realist reassessment that treats China as a threat.
+
+- M. N. Thoiral's Wanted a New Government attacks the Nehru government's commitment to non-violence as a liability in the face of Chinese aggression and demands a change of government.
+
+- B. G. Pradhan's Fallacies of India's Foreign Policy centres on the McMahon Line dispute and the breakdown of Panch Sheel as a basis for trust with China.
+
+- A. Ranganathan's This Menace of Hindi Fanaticism defends English against the imposition of Hindi as India's sole national language, echoing the journal's slogan to make English the country's lingua franca.
+
+- V. Yogeswara Rao's The Great Path Finder of Modern India profiles Mool Shankar, or Dayananda Saraswati, founder of the Arya Samaj, as a pioneering reformer of modern India.
+
 ## Essays
 
 ### Editorial: Khrushchev Arrives in the U.S.A.

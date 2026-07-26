@@ -15,6 +15,7 @@ publication:
   publisher_name: FORUM OF FREE ENTERPRISE, SOHRAB HOUSE, 235, Dr. D. N. ROAD, BOMBAY-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

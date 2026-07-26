@@ -30,6 +30,7 @@ publication:
   place: Bombay
   year: 1963
   series: FFE Pamphlet 35
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -123,6 +124,24 @@ thinker_mentions:
 This Forum of Free Enterprise booklet collects three talks delivered in Bombay, Bangalore and Ahmedabad in the last quarter of 1962, all diagnosing India's foreign exchange crisis at the threshold of the Third Five-Year Plan. The contributors — A. D. Shroff (President of the Forum), R. V. Murthy (Chairman of the Press Guild of India, editor of Records and Statistics) and Dr. Lanka Sundaram (former M.P., editor of Commerce and Industry) — converge on the verdict that the crisis is not a transient shock but a structural product of careless planning, gross underestimation of the foreign-exchange component of the Plans, and the dependence on external assistance that the planners had concealed from themselves and from the public.
 
 Shroff traces the collapse of the Second Plan's foreign balances from Rs. 746 crores to Rs. 140 crores despite double the anticipated foreign aid, and unpacks the implications of P.L. 480 and "tied" loans. Murthy surveys remedial proposals — IDA loans, export-promotion machinery, mobilisation of private gold hoards — while warning that none will save the country unless the intensity of the problem is honestly recognised. Sundaram, the most polemical of the three, attacks the unreliability of government statistics, the camouflaging of Plan documents, and the absence of parliamentary scrutiny over treaties such as those tied to P.L. 480, P.L. 665, GATT, the E.C.M. and the Treaty of Rome, calling for a non-political National Committee on Budget reforms before "our economy will be a runaway horse".
+
+## Key points
+
+- A. D. Shroff, R. V. Murthy and Dr. Lanka Sundaram each argue, in talks delivered at Bombay, Bangalore and Ahmedabad in late 1962, that India's foreign exchange crisis is a structural product of careless planning rather than a passing shock.
+
+- Shroff shows that despite receiving Rupees sixteen hundred crores of foreign assistance, double the anticipated amount, India's London balances still collapsed from Rupees seven hundred forty-six crores to Rupees one hundred forty crores by the end of the Second Plan.
+
+- He traces the crisis to the 1955-56 import spree ordered by Commerce Minister T. T. Krishnamachari on the theory that imports would mop up Plan-induced purchasing power and curb inflation.
+
+- Shroff distinguishes development imports from maintenance imports of components and raw materials, warning that the three new steel plants will idle without continued maintenance imports even as installed capacity grows.
+
+- With Rupees five hundred crores of loan repayments due in the Third Plan, Shroff warns India faces the prospect of being unable to honour its external obligations.
+
+- R. V. Murthy contrasts India's meagre reserve of about Rupees three thousand crores, covering roughly two and a half months of imports, with far larger reserves held by West Germany, the United States, France and Britain.
+
+- Murthy urges a separate Ministry for International Trade and Export Promotion, more low-interest IDA loans from the World Bank, and emulation of Japan's export adaptability, while rejecting compulsory mobilisation of private gold hoards as politically unworkable.
+
+- Dr. Lanka Sundaram attacks the unreliability of government statistics and the absence of parliamentary scrutiny over treaties tied to P.L. 480, GATT and the Treaty of Rome, calling for a non-political National Committee on Budget reforms.
 
 ## Essays
 

@@ -66,6 +66,24 @@ missing_metadata_flags:
 
 This 6 February 1994 issue of the Marathi fortnightly Shetkari Sanghatak (Year 10, Issue 20) — the house organ of Sharad Joshi's Shetkari Sanghatana — is dominated by two argumentative threads. The opening polemic by Sharad Joshi ("मध्यममार्गी पंतप्रधान") skewers Prime Minister P. V. Narasimha Rao as a 'middle-path' leader who praises open-market reform in speeches while clinging to the Nehru–Mahalanobis subsidy-and-quota apparatus, arguing that half-hearted liberalisation is bleeding the exchequer without delivering relief to farmers or consumers. The second thread is on-the-ground reportage from the Akola–Amravati–Buldhana cotton-belt agitation ("बळीराज्य अवतरले" and a sidebar by Mo. Vi. Tembhurni in both Marathi and Hindi), documenting the Shetkari Sanghatana's 'Kapus Seemapaar' (cotton-across-the-border) campaign against the Centre's cotton-export ban, the police lathi-charge of women farmers near Buldhana on 23 January 1994, and the arrest of agitation chief Prakash Pohare. Shorter items announce the rescheduling of the Shetkari Mahila Aghadi training shibir and a forthcoming 'Baliraj Andolan Visheshank' (21 March 1994), and carry an obituary of Sarjerao Patil of Kurdu (Solapur) — a long-time activist who joined Sharad Joshi's Madha-taluka cycle yatra in 1981/82.
 
+## Key points
+
+- Sharad Joshi's lead essay 'Madhyamamargi Pantpradhan' casts Prime Minister P. V. Narasimha Rao as a middle-path leader who praises open-market reform in speeches while his budgets still reproduce Nehru-Mahalanobis subsidy and quota controls.
+
+- Joshi cites government subsidies of about Rupees thirty-eight thousand crores and administrative expenditure of about Rupees twenty-one thousand crores as evidence that no real fiscal correction has accompanied the reform rhetoric.
+
+- He treats the cotton-export ban as the decisive test of the Prime Minister's sincerity, holding up Indonesia, Thailand, South Korea and Hong Kong as small economies that advanced through genuinely open systems.
+
+- An unsigned dispatch, 'Baliraj Awatarle,' chronicles the Shetkari Sanghatana's 'Kapus Seemapaar' cross-border cotton campaign against the Centre's export ban across Akola, Amravati and Buldhana districts from November 1993 to January 1994.
+
+- It reports the 23 January 1994 police lathi-charge of women farmers from Vaghini village, marching under the slogan 'our cotton, we are the owners,' and names Prakash Pohare as the agitation leader who was arrested.
+
+- A sidebar announces the postponement of the Shetkari Mahila Aghadi training camp and Lakshmi-Mukti mahamelava, originally set for 9 to 11 February 1994 at Yeval, citing unavoidable reasons.
+
+- A column by Mo. Vi. Tembhurni, Vice-President of the Maharashtra Vidhan Sabha, argues the cotton-export ban is anti-farmer, suppressing domestic prices and denying farmers the international price the WTO trade regime would otherwise allow.
+
+- The issue closes with an obituary for Sarjerao Patil of Kurdu, Solapur, a longtime activist who had joined Sharad Joshi's Madha-taluka cycle yatra in 1981-82.
+
 ## Essays
 
 ### मध्यममार्गी पंतप्रधान

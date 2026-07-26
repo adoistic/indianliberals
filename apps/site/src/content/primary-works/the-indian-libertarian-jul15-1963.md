@@ -73,6 +73,22 @@ missing_metadata_flags:
 
 This July 15, 1963 issue (Vol. XI No. 8) of The Indian Libertarian, an independent Bombay journal of public affairs edited by D. M. Kulkarni, leads with an editorial reading the Sino-Soviet ideological split as a contest between Khrushchev's 'liberalism' and Mao's dogmatism, and argues that India's leaders misread both. The issue's argumentative center is foreign policy and the defence of liberal-market economics against socialist planning: M. A. Venkata Rao ties foreign policy to underlying philosophy, M. N. Tholal dissects India's 'clever' non-alignment, and B. Shiva Rao surveys the national language controversy. A bound-in four-page Economic Supplement (paginated I-IV) carries G. N. Lawande on taxation and economic growth and a continuation piece by Phillip H. Moore defending business against being made the scapegoat for inflation. Shorter departments — a Delhi Letter, a book review, 'The Mind of the Nation', and 'News and Views' — round out the issue.
 
+## Key points
+
+- The 15 July 1963 issue, Vol. XI No. 8, edited by D. M. Kulkarni, leads with an editorial reading the Sino-Soviet split as a contest between Khrushchev's pragmatic liberalism and Mao's rigid dogmatism.
+
+- The editorial attributes Soviet shifts to internal economic pressure and the demands of coexistence, casting Mao as committed to permanent revolutionary struggle, and warns Indian leaders overestimate Soviet liberalisation.
+
+- M. A. Venkata Rao argues that a nation's foreign policy is inseparable from its underlying philosophy of democracy, criticising India's non-alignment as philosophically rootless expediency.
+
+- M. N. Tholal's 'Our Clever Foreign Policy' argues non-alignment has yielded little real advantage and that India overrates its own diplomatic ingenuity in world affairs.
+
+- G. N. Lawande's Economic Supplement essay argues the tax burden has risen sharply since independence, choking off the capital formation a growing economy requires for expansion.
+
+- A companion Economic Supplement piece by Phillip H. Moore argues that business is wrongly scapegoated for inflation actually driven by government monetary and fiscal policy.
+
+- B. Shiva Rao reviews the national language controversy, recalling the Congress Working Committee's handling of the Hindi-versus-English dispute and warning against alienating non-Hindi regions.
+
 ## Essays
 
 ### Khrushchev's Liberalism versus Mao's Dogmatism

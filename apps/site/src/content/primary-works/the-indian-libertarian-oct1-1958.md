@@ -61,6 +61,20 @@ physical:
 
 This 1 October 1958 issue of The Indian Libertarian (Vol. VI No. 14), the fortnightly 'Independent Journal of Economic and Public Affairs' edited by Kusoom Lotwalla, opens with an editorial on the Nehru-Noon border agreement that ceded territory to Pakistan, which the paper reads as a surrender rather than a settlement. In the rendered pages the issue mixes the journal's signature classical-liberal manifesto writing with sharply anti-Nehru, anti-communist commentary on the politics of 1958: M. A. Venkata Rao restates the philosophical mission of libertarianism, M. N. Thoiral attacks the Berubari/border deal with Pakistan, and a cluster of foreign-affairs pieces (T. L. Kantam on the Formosa/Quemoy crisis, L. N. S. on 'Communist China on the Rampage', and an item on American policy toward Pakistan and Iran) track the Cold War as it reached the subcontinent. Sumant S. Bankeshwar's piece warns that the newly elected communist government of E. M. S. Namboodiripad in Kerala foreshadows civil war and a communist beach-head in India.
 
+## Key points
+
+- The 1 October 1958 issue of The Indian Libertarian (Vol. VI, No. 14), edited by Kusoom Lotwalla, opens with the editorial 'Border Agreement or Surrender', condemning the Nehru-Noon agreement that ceded the Berubari union and Hussainiwala-area enclaves to Pakistan without parliamentary sanction.
+
+- M. A. Venkata Rao's 'The Mission of Libertarianism' presents the philosophical case for the libertarian movement, tracing liberal thought from the European Enlightenment through the rise of socialism and arguing the subordination of the individual to the State is the central error of the age.
+
+- M. N. Tholal's 'Nehru Fooled Again' attacks the same border agreement as evidence that the Prime Minister has once more been outmanoeuvred by Pakistan, raising the question of Parliament's sovereignty over territorial cessions.
+
+- T. L. Kantam's 'Islands of War?' surveys the Quemoy and Matsu crisis and the 'two Chinas' question, weighing the danger that the contest between Communist China and Nationalist Formosa could draw the great powers into war.
+
+- Sumant S. Bankeshwar's 'Namboodiripad's Threat of Civil War' attacks the elected communist government of E. M. S. Namboodiripad in Kerala, warning of Chinese and Soviet 'volunteers' for 'liberation' and criticising Panch Sheel as cover for communist advance.
+
+- A piece by L. N. S., 'Communist China on the Rampage', reads the 1958 Middle East crisis as evidence of a wider communist offensive and questions the wisdom of Indian non-alignment in the face of it.
+
 ## Essays
 
 ### Editorial: Border Agreement or Surrender

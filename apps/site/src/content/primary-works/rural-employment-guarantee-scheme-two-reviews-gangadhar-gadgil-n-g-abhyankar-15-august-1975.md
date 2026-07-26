@@ -21,6 +21,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1975
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -70,6 +71,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise pamphlet records two opposing addresses delivered at a Bombay symposium on 28 April 1975 assessing the Maharashtra Government's Employment Guarantee Scheme (EGS), the precursor to what would later become India's national rural employment-guarantee policy. The editors frame the volume as a public-education exercise: one speaker, the economist Prof. Gangadhar Gadgil (then Economic Adviser to the Apte Group of Industries), argues that the EGS is a 'welcome and revolutionary measure' that gives concrete content to the Article 41 right to work and channels resources to the poorest rural strata. The other, N. G. Abhyankar, I.A.S. (Retd.), a former Development Commissioner and Finance Secretary of Maharashtra (then Executive Director of the All-India Manufacturers' Organisation), argues the Scheme is a costly diversion of scarce resources toward 'totally unproductive ends' and indistinguishable from earlier scarcity-relief programmes. The two essays appear back to back under a common title and are aimed at students of economics, administrators and policymakers.
+
+## Key points
+
+- The pamphlet records two opposing addresses delivered at a Bombay symposium on 28 April 1975 assessing Maharashtra's Employment Guarantee Scheme, the precursor to India's national rural-employment policy.
+
+- Economist Gangadhar Gadgil calls the scheme welcome and revolutionary, tracing its growth from a Rs 10 crore experiment in 1972 to a Rs 50 crore programme covering rural areas and small municipal towns.
+
+- Gadgil rebuts the charge that the funding cess is regressive by noting big farmers already bear over 75 per cent of indirect taxes, and estimates the true unemployment-coverage cost at Rs 150 crore against the Rs 50 crore budget.
+
+- Gadgil proposes that wage-works be organised through co-operatives of small farmers and landless labourers, producing durable assets such as afforestation, percolation tanks and Khar-land bunding rather than mere wage-doles.
+
+- Gadgil controversially urges tying scheme participation to vasectomy for workers with two or more children and to literacy camps for their children.
+
+- Former Development Commissioner N. G. Abhyankar counters that the scheme guarantees only non-agricultural rural work and that the Centre had refused to share its cost on a 50:50 basis.
+
+- Abhyankar argues that the approved works, such as open wells and contour-bunds, have low labour absorption per rupee and mostly demand skilled rather than unskilled labour.
+
+- Abhyankar cites an Agricultural Refinance Corporation field study finding contour-bunding added nil productivity in Maharashtra, and notes that 1969-72 scarcity-relief rural roads typically washed away in the next monsoon.
+
+- Abhyankar concludes that the scheme's open-ended, district-collector-driven model lets locally entrenched vested interests dictate which works are started, making it a permanent scarcity-relief programme rather than a revolutionary reform.
 
 ## Essays
 

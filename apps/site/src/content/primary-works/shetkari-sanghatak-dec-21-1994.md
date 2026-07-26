@@ -59,6 +59,24 @@ missing_metadata_flags:
 
 This eight-page issue of the Marathi fortnightly Shetkari Sanghatak (Year 11, Issue 16, 21 December 1994), the organ of Sharad Joshi's Shetkari Sanghatana, is built around a land-rights agitation at Chikhli-Kudalwadi near Pune, where farmers' land was being acquired by a development authority (Pimpri-Chinchwad / 'Telco' lands) at prices the movement deemed confiscatory. The lead article 'जमीन आमची भाव आमचा' (Our land, our price), signed by Sharad Joshi, develops the Sanghatana's demand that landowning farmers — not the state or industry — decide the price of land, casting compulsory acquisition as the latest front of the movement's wider fight for remunerative prices and market freedom. A page-five report welcomes a High Court ruling that frees non-member growers to sell sugarcane outside the 'sugar barons'' cooperative monopoly; page six reports the Chikhli sit-in (ठिय्या आंदोलन) and announces a related meeting; and page seven gathers datelined field correspondent reports of 'रास्ता रोको' (road-blockade) actions across Beed, Sangli/Walwa and Parbhani districts on 1 December 1994. The back page reprints the agitation call signed by Saroj Kashikar (Shetkari Mahila Aghadi) and Pasha Patel (Shetkari Sanghatana).
 
+## Key points
+
+- The lead article "जमीन आमची भाव आमचा" (Our Land, Our Price), signed by Sharad Joshi, demands that landowning farmers, not the state or industry, decide the price of their land.
+
+- Joshi's article attacks the compulsory acquisition of farmland at Chikhli-Kudalwadi near Pune, for Pimpri-Chinchwad and Telco-area development, at rates the Shetkari Sanghatana calls confiscatory.
+
+- Joshi frames the Chikhli-Kudalwadi land fight as the latest front of the Sanghatana's longer campaign for remunerative agricultural prices and open markets, recounting the agitation begun on 21 December 1994.
+
+- An unsigned report welcomes a High Court bench ruling that frees non-member cane growers to sell sugarcane outside the cooperative sugar factories' monopoly, calling it a defeat for the "sugar barons."
+
+- It reads the sugarcane ruling as vindication of the Sanghatana's long-standing position that growers should not be bound to a single mill but should be free to sell in an open market.
+
+- Page seven compiles datelined correspondent reports of "रास्ता रोको" road-blockade actions held on 1 December 1994 at Morewadi in Beed district, Peth Naka in Sangli's Walwa taluka, and Gunda in Parbhani district.
+
+- These field reports list local leaders and participant counts at each site, noting that the coordinated road-blockade protest spread to roughly twenty locations across Maharashtra.
+
+- The back page reprints the agitation call signed by Saroj Kashikar of the Shetkari Mahila Aghadi and Pasha Patel of the Shetkari Sanghatana.
+
 ## Essays
 
 ### जमीन आमची भाव आमचा

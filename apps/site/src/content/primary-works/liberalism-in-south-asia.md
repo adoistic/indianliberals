@@ -172,6 +172,22 @@ thinker_mentions:
 
 This issue of Liberal Times (Volume III / Number 4, 1995), published by the Friedrich-Naumann-Stiftung Regional Office South Asia, takes 'Liberalism in South Asia' as its unifying theme. In the rendered pages, six contributors — from India, Sri Lanka, Nepal, and Germany — survey the state of liberal thought and practice across the region. The issue opens with Sharad Joshi's sweeping historical essay on why liberalism never took firm root in India despite a hospitable philosophical environment, arguing that the dominant intellectual traditions — from Gandhian quasi-anarchism to Congress socialism — crowded out a genuine liberal politics. Ashok V. Desai's tightly argued piece follows with an analysis of how the post-independence 'control regime' was inherited from wartime British economic management and how the economic liberalisation of the 1990s, while substantively significant, proceeds without any ideological acknowledgment of liberty as a political value. Chanaka Amaratunga surveys the surprisingly resilient liberal tradition in Sri Lanka, centred on the Liberal Party and its programme of federalism, proportional representation, and ethnic reconciliation. Kusum Shrestha examines Nepal's 1990 Constitution as an expression of liberal constitutionalism — sovereignty in the people, supremacy of the Constitution, an independent judiciary, and a formal bill of fundamental rights — while noting the dualistic gap between aspirational 'Directive Principles' and judicially enforceable rights. Detmar Doering opens a brief intellectual history of liberalism, tracing its lineage from Locke through 19th-century liberals and the post-war social-liberal divergence; only the first page of that essay falls within this chunk.
 
+## Key points
+
+- Sharad Joshi opens the issue with a historical essay arguing that Gandhian quasi-anarchism and Congress socialism crowded out a genuine liberal politics in India, producing a 'Nehruvian socialist brand of statism'.
+
+- Ashok V. Desai traces India's post-independence control regime to wartime British economic management and argues the 1990s liberalisation proceeds without any ideological acknowledgment of liberty as a political value.
+
+- Chanaka Amaratunga surveys Sri Lanka's resilient liberal tradition, centred on the Liberal Party's programme of federalism, proportional representation, and ethnic reconciliation.
+
+- Kusum Shrestha reads Nepal's 1990 Constitution as liberal constitutionalism grounded in popular sovereignty and an independent judiciary, while flagging the gap between justiciable rights and aspirational Directive Principles.
+
+- Detmar Doering's brief intellectual history of liberalism traces its lineage from classical antiquity through Locke's Two Treatises of 1689, though only the essay's first page falls within the rendered chunk.
+
+- S. V. Raju, the Freedom First editor and Indian Liberal Group figure, is listed as a contributor whose piece lies in the unrendered pages beyond page twenty.
+
+- The issue is edited by Jurgen Axer for the Friedrich-Naumann-Stiftung's Regional Office South Asia and unites six contributors from India, Sri Lanka, Nepal, and Germany under the theme of liberalism in South Asia.
+
 ## Essays
 
 ### Any Hope for Indian Liberals?

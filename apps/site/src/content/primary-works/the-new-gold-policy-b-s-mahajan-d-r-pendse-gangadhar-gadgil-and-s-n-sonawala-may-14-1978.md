@@ -30,6 +30,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1978
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -69,6 +70,24 @@ missing_metadata_flags:
 ## Summary
 
 The New Gold Policy is a Forum of Free Enterprise booklet compiling talks from a symposium held in Bombay on 3 April 1978, prompted by the Union Budget 1978-79 proposal that the Government of India sell gold from its own stocks (and possibly import gold) to the public. Four contributors examine the move from distinct vantage points: B. S. Mahajan (a founder of the All-India Sarafa Association) argues from the jewellery-export and trade angle that the Gold Control Act should be scrapped; D. R. Pendse (Economic Adviser to Tatas) treats it as an economist and welcomes the gold sale as 'the golden solution'; Prof. Gangadhar Gadgil (an economist) stresses price stability; and S. N. Sonawala (Vice-President of the Bombay Bullion Association) answers common objections from the bullion trade's perspective. The shared thread is a market-friendly, anti-control reading of India's gold problem: that the 15-year-old Gold Control regime failed to stop smuggling, harmed goldsmiths, and that selling government gold can curb smuggling, mobilise idle savings, and raise revenue.
+
+## Key points
+
+- B. S. Mahajan, a founder of the All-India Sarafa Association, argues the Gold Control Rules, enacted in January 1963 under the Defence of India Rules, turned gold from a solution into a problem.
+
+- Mahajan notes smuggling, once costing Rs. 40-60 crores in foreign exchange yearly, fell mainly because the United States ended gold-price control around 1970, not because of the controls, and proposes a Voluntary Disclosure Scheme alongside government sale at international prices.
+
+- D. R. Pendse, Economic Adviser to Tatas, calls the government gold sale 'the golden solution' and insists its success depends on pricing gold competitively against smugglers and keeping transactions counter-simple.
+
+- Pendse proposes crediting the scheme's proceeds to a punningly named 'new FERA', a Fund for Employment in Rural Area, and urges keeping Indian gold prices high to maximise the profit-funding price gap.
+
+- Prof. Gangadhar Gadgil divides the 1978-79 Budget proposal into a domestic anti-smuggling sale of roughly Rs. 500 crores and a sale to jewellery exporters at international prices.
+
+- Gadgil observes that import bans on gold were never successfully enforced even during the Emergency and argues that price stability is essential if Indians are to be weaned off gold.
+
+- S. N. Sonawala, Vice-President of the Bombay Bullion Association, frames the government sale as serving two objectives, curbing inflation and checking smuggling, and rebuts the charge that it would encourage black money.
+
+- The symposium's shared thread reads the fifteen-year-old Gold Control regime as a failure that harmed goldsmiths and argues government gold sale can curb smuggling while mobilising idle savings.
 
 ## Essays
 

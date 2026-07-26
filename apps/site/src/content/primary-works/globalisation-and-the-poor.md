@@ -17,6 +17,7 @@ publication:
   place: New Delhi
   year: 2003
   series: Liberty Institute Occasional Paper
+  series_id: liberty-institute-occasional-paper
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -16,6 +16,7 @@ publication:
   publisher_name: "FORUM OF FREE ENTERPRISE\nPIRAMAL MANSION, 235 DR. D. N. ROAD,\nBOMBAY 400 001."
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

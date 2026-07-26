@@ -75,6 +75,18 @@ physical:
 
 This issue of The Indian Libertarian (Vol. V No. 15, 1 October 1957), edited by Kusum Lotwala, runs the journal's classical-liberal line through the foreign-policy and domestic controversies of the day. In the rendered pages the editorial, 'Goa As Foreign Base', criticises Indian policy toward Goa and Western bases; M. A. Venkata Rao analyses 'India's Foreign Policy' and its non-alignment; a contributor writing as 'Lal' reflects on 'The Hindu Way of Life'; and B. S. Sanyal reports Nehru's foreign-policy pronouncements in 'Thus Spake Nehru at Jammu'. Further items on Razvi, Krishnamachari, and 'the Semantic Trojan Horse of Nehru Planning' extend the issue's critique of Congress policy.
 
+## Key points
+
+- The editorial 'Goa As Foreign Base' examines statements by the Prime Minister and Defence Minister on Goa and Western military bases, probing the consistency of India's stance on foreign bases.
+
+- M. A. Venkata Rao's 'India's Foreign Policy' scrutinises the premises of Indian non-alignment, questioning whether professed neutrality between the Western and Communist blocs actually serves the country's interests.
+
+- Writing as 'Lal', an essay titled 'The Hindu Way of Life' reflects on Hinduism as a way of life rather than a narrow creed, engaging Khilafat-era communal memory and Gandhian thought.
+
+- B. S. Sanyal's 'Thus Spake Nehru at Jammu' reports and dissects Nehru's foreign-policy address at a National Conference meeting in Jammu, scrutinising his claims on Kashmir, Pakistan and non-alignment.
+
+- Further items in the issue extend the critique of Congress policy through pieces referencing Razvi, Krishnamachari and what one contributor calls the 'Semantic Trojan Horse of Nehru Planning'.
+
 ## Essays
 
 ### Editorial: Goa As Foreign Base

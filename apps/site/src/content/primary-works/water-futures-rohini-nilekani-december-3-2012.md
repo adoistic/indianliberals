@@ -17,6 +17,8 @@ publication:
   place: Mumbai
   year: 2012
   series: 24th Bhogilal Leherchand Memorial Lecture
+  series_id: bhogilal-leherchand-memorial-lecture
+  series_ordinal: 24
 provenance:
   source: ccs_archive
   scan_quality: unknown

@@ -18,10 +18,11 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2006
-  series: June-Sept./2006/12
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: June-Sept./2006/12. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-role-of-a-professional-in-society-y-h-malegam-september-12-2006.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-role-of-a-professional-in-society-y-h-malegam-september-12-2006.webp"
 rights:

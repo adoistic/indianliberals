@@ -75,6 +75,24 @@ This issue of The Indian Libertarian (Vol VIII, No. 17, December 1, 1960), an in
 
 The rest of the issue carries M. A. Venkata Rao's article 'The Lengthening Shadow of Government' (a classical-liberal critique of the post-1917 drift toward unlimited governmental activity, public-sector enterprise and bureaucratised education), the third instalment of M. N. Tholal's polemic 'Neutral Nations' Claptrap' (attacking the Afro-Asian 'fellow-traveller' bloc at the U.N.), a four-page Rationalist Supplement containing S. Ramanathan on 'The Innate Weakness Of Rationalism' and Denis Cabell on 'Humanism And Shelley', plus a longer Ramanathan essay on 'Lokayata: Indian Materialism', a Delhi Letter on 'China Bamboozling India', Erich Godinger's review of A Concise History of the Communist Party of the Soviet Union, and the regular Gleanings from the Press and News & Views columns. The unifying thread is the journal's standing line — 'WE STAND FOR FREE ECONOMY AND LIBERTARIAN DEMOCRACY' — applied to both external Cold-War posture and internal anti-statist economics.
 
+## Key points
+
+- The 1 December 1960 issue, Vol VIII, No. 17, opens with an editorial that uses the Kennedy-Nixon contest to attack Nehru's government for dropping a Bill penalising pro-Chinese Communist propaganda in the northern border areas.
+
+- The editorial cites the Home Minister's withdrawal of the Bill for fear of displeasing Russia and China as proof of pro-Communist leanings at the top of the Congress government, unlike Nasser's suppression of Communists.
+
+- The editorial surveys Cold War trouble spots, including Cuba, Berlin, Laos, the Congo, South Vietnam, and Algeria, and appeals to the incoming Kennedy administration to abandon Eisenhower-era passivity.
+
+- M. A. Venkata Rao's 'The Lengthening Shadow of Government' traces the post-1917 rise of unhampered state activity from socialism through the Welfare State into India's Three Plans.
+
+- Venkata Rao faults the Second and Third Plans for taxing private incomes to fund a Public Sector that crowds out private enterprise, and criticises the bureaucratisation of universities through civil-service-style salary grades.
+
+- Venkata Rao calls Cooperative Farming a half-way house to collective farms on the road to full socialism, predicting the stagnation and loss of liberty such systems tend to produce.
+
+- M. N. Tholal's third instalment of 'Neutral Nations' Claptrap' attacks Afro-Asian sponsors of a U.N. resolution calling for Eisenhower-Khrushchev talks as posturing as honest brokers.
+
+- The Rationalist Supplement carries S. Ramanathan on 'The Innate Weakness Of Rationalism' and 'Lokayata: Indian Materialism', plus Denis Cabell on 'Humanism And Shelley' and a review of Soviet Communist Party history.
+
 ## Essays
 
 ### EDITORIAL — Action Against Communist Propagandists Dropped; The American President-Elect: Mr. Kennedy; The P.M., The Press and Mr. Khrushchov

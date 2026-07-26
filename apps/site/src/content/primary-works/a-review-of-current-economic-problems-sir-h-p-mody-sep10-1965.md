@@ -30,6 +30,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1965
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -118,6 +119,24 @@ thinker_mentions:
 ## Summary
 
 A slim Forum of Free Enterprise booklet dated 10 September 1965, collecting three short pieces that together amount to a classical-liberal post-mortem on the first decade and a half of Indian planning. Sir H. P. Mody opens with a polemic against the planning apparatus itself; Prof. B. R. Shenoy diagnoses the food crisis as the product of deficit financing and the misdirection of public-sector resources rather than hoarding; and P. S. Narayan walks through the country's foreign exchange crisis, arguing that ad-hoc controls and devaluation are no substitute for getting at the fiscal and monetary fundamentals. The shared frame is that India's troubles are self-inflicted by ever-larger plans, expanding public expenditure, and bureaucratic controls, and that consolidation, fiscal discipline, and a serious rehabilitation of private enterprise are the only honest remedies.
+
+## Key points
+
+- Sir H. P. Mody's address 'Whither Indian Planning?' argues that each Five-Year Plan has been required to grow larger than its failed predecessor, faulting large-scale public enterprises for aggravating shortages rather than relieving them.
+
+- Mody cites Ashok Mehta's own admission that India is the most heavily taxed country in the world as evidence that the burden imposed by planning has become indefensible.
+
+- Prof. B. R. Shenoy's essay rejects the theory that hoarders and traders caused the food crisis, tracing it instead to deficit financing by the Planning Commission, Finance Ministry, and Reserve Bank.
+
+- Shenoy notes that only 6.7 per cent of plan investment went to agriculture even though 70 per cent of investment resources were raised through public appropriation, calling this the structural distortion behind food scarcity.
+
+- Shenoy argues that anti-usury legislation stripped tenant farmers of access to money-lender credit without providing a working substitute, worsening rather than improving their overall creditworthiness.
+
+- P. S. Narayan surveys the foreign exchange crisis, noting reserves fell from Rs. 188 crores in March 1964 to Rs. 116 crores in March 1965 while an IMF standby credit was consumed within a year.
+
+- Narayan criticises measures such as the raised Bank Rate, a ten per cent regulatory duty surcharge, and compulsory import deposits as piecemeal steps that squeeze credit for small industries while leaving inflationary government spending untouched.
+
+- Citing A. D. Shroff, Narayan rejects devaluation and moratorium in favour of consolidation, completion of projects already underway, and a Fourth Plan outlay set with realism rather than gigantism.
 
 ## Essays
 

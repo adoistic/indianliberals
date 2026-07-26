@@ -63,6 +63,26 @@ physical:
 
 The 1 February 1963 issue of The Indian Libertarian (Vol. X No. 21), edited by D. M. Kulkarni and issued from Bombay by Libertarian Publishers, is dominated by the aftermath of the Sino-Indian war and the diplomatic fallout from the Colombo Conference of neutral powers. The unsigned editorial castigates Nehru's government for entertaining the Colombo Proposals as a basis for negotiation with Peking, M. A. Venkata Rao calls for a wholesale rethinking of India's defence philosophy and an Asian collective-security pact, and M. N. Tholal subjects the doctrine of non-alignment to a sustained critique. The reportage section combines Susan Hunt's first-person account of refugees fleeing Communist China into Hong Kong with a Delhi Letter linking the Kashmir question to a Sino-Russian 'puppet-show,' a review of Lord Radcliffe's Reith Lectures on power, gleanings from the press on a proposed Congress 'private army,' news briefs from Washington, Phnom Penh and elsewhere, and reader correspondence on university federalism and Madras sales tax.
 
+## Key points
+
+- The unsigned editorial 'Colombo Proposals: Misleading, Sinister and Disastrous' argues the proposals freeze rather than reverse Chinese gains in Bhutan, NEFA and Ladakh, and demands complete Chinese withdrawal to the pre-1962 line.
+
+- The editorial accuses Nehru and Krishna Menon of misrepresenting the Colombo Proposals to Parliament and holds up De Gaulle's distrust of Anglo-American dominance as a model of independent foreign policy.
+
+- M. A. Venkata Rao argues that the NEFA debacle disproves 'panchsheel' confidence in communist neighbourliness and calls for an Asian collective-security pact modelled on ANZUS, drawing in Malaya, the Philippines, Indonesia, Australia, New Zealand and the United States.
+
+- Venkata Rao criticises self-reliance rhetoric as incompatible with India's national budget and industrial base, insisting rearmament requires active Western and Commonwealth partnership.
+
+- M. N. Tholal's essay recasts non-alignment as a timid 'Safety First' doctrine that left India exposed to communist subversion, proposing interdependence with Western democracies as a more realistic guarantee of sovereignty.
+
+- Susan Hunt's Hong Kong despatch describes refugees continuing to escape Communist China across a fortified border, blaming the Great Leap Forward and the commune system for famine conditions on the mainland.
+
+- Hunt notes that food parcels mailed from Hong Kong relatives sustain families on the mainland, and that émigré associations and churches carry out most resettlement work for new arrivals.
+
+- A Delhi Letter links the Kashmir question to what it calls a Sino-Russian 'puppet-show', while a separate review covers Lord Radcliffe's Reith Lectures on power.
+
+- The issue carries press gleanings on a proposed Congress 'private army' and reader correspondence on university federalism and the Madras sales tax.
+
 ## Essays
 
 ### EDITORIAL: Colombo Proposals: Misleading, Sinister and Disastrous

@@ -73,6 +73,20 @@ physical:
 
 This 1 July 1957 issue (Vol. V No. 9) of The Indian Libertarian — the Bombay 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala, published by the R. L. Foundation, and standing 'for free economy and liberal democracy' — leads with three banner themes: 'Thoughts on Budget', 'Pakistani Politics in a Flux', and 'Socialism on Retreat'. Its editorial reports on a new party forming in Pakistan and the wider regional politics, while M. A. Venkata Rao dissects the Finance Minister's budget and a lead article argues that socialism is in worldwide retreat. The number carries commentary on Pakistan (by 'Vigilant' and K. D. Valicha), on American aid to India, and a Research Department supplement of the R. L. Foundation whose contributions include M. V. Balakrishna Rao's 'The Socialist Regression' and A. Ranganathan on the making of modern India, alongside anti-communist polemic and the journal's regular news and review departments.
 
+## Key points
+
+- The 1 July 1957 issue (Vol. V, No. 9) of The Indian Libertarian, edited by Kusum Lotwala and published by the R. L. Foundation, leads with three themes: the Union budget, Pakistani political flux, and socialism's worldwide retreat.
+
+- The editorial reports the formation of a new national party in Pakistan amid political flux and connects regional questions, including Kashmir, to the journal's liberal-democratic outlook.
+
+- M. A. Venkata Rao's 'Thoughts on Budget' examines the Finance Minister's new tax proposals and criticises the budget's expansion of state economic control as evidence of the government's broader economic direction.
+
+- 'Socialism on the Retreat' claims socialism is losing ground worldwide, citing the Mexican government's turn away from doctrinaire collectivism as an example of a swing back toward free enterprise.
+
+- The Research Department supplement of the R. L. Foundation opens with M. V. Balakrishna Rao's 'The Socialist Regression,' arguing Marx misread economic history and that socialism marks a regression rather than progress.
+
+- A. Ranganathan's contribution to the same supplement, 'The Making of Modern India,' examines the intellectual and political formation of the modern Indian nation.
+
 ## Essays
 
 ### EDITORIAL

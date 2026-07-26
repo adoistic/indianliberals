@@ -87,6 +87,22 @@ missing_metadata_flags:
 
 This 6 October 1995 issue of Shetkari Sanghatak — the Marathi fortnightly of the Shetkari Sanghatana edited from Pune — is largely a Sharad Joshi number, opening with two extended polemics under his byline. The lead piece, "कापूस एकाधिकाराचा मृत्युलेख" ("An Obituary for the Cotton Monopoly"), reads Maharashtra's decision to admit private traders into cotton procurement as the death certificate of the state's Cotton Monopoly Procurement Scheme launched in Indira Gandhi's time, and dismisses the official line that the move is a one-year emergency measure rather than a confession that thirty years of price-fixing impoverished growers and enriched the bureaucracy. The second front-page essay, "कोसळत्या व्यवस्थेतील पडझड" ("Cracks in a Collapsing System"), uses the death of postal officer Sharad Joshi at Bharatpur and a fatal Firozabad railway accident as set-pieces for a wider attack on India's nationalised post, telegraph and railway monopolies — institutions, Joshi argues, that survive on subsidy and prestige while the public increasingly bypasses them via couriers and private transport.
 
+## Key points
+
+- This 6 October 1995 issue of the Marathi fortnightly Shetkari Sanghatak is largely a Sharad Joshi number, led by two extended polemics under his byline.
+
+- Joshi's lead essay, "कापूस एकाधिकाराचा मृत्युलेख" ("An Obituary for the Cotton Monopoly"), reads Maharashtra's admission of private traders into cotton procurement as the death of the state's Cotton Monopoly Procurement Scheme launched in Indira Gandhi's time.
+
+- Joshi quantifies the cost of thirty years of monopoly procurement at Rs. 200 to 500 per quintal below prices prevailing in Gujarat, Haryana, Punjab and Andhra Pradesh.
+
+- He rejects the government's characterisation of the change as a one-year emergency measure, insisting the scheme's failure is structural, and demands repeal of the procurement law and a fully free cotton trade.
+
+- Joshi's second essay, "कोसळत्या व्यवस्थेतील पडझड" ("Cracks in a Collapsing System"), uses the death of a postal officer at Bharatpur and a fatal Firozabad railway accident to indict India's nationalised post, telegraph and railway monopolies.
+
+- He argues these state monopolies survive on subsidy and prestige while the public increasingly bypasses them through couriers and private transport, closing with an appeal against suppressing inconvenient facts.
+
+- The issue also carries the third instalment of a Marathi serialisation of George Orwell's Animal Farm, translated by Shri Ramesh Mushlikar and placed alongside Joshi's polemics as a parable of the licence-permit state.
+
 ## Essays
 
 ### कापूस एकाधिकाराचा मृत्युलेख

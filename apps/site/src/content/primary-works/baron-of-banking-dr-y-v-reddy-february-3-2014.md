@@ -38,6 +38,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2014
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -136,6 +137,24 @@ thinker_mentions:
 ## Summary
 
 This Forum of Free Enterprise booklet, published on 03/Feb/2014, gathers the remarks delivered on 25 October 2013 at the Mumbai launch of Bakhtiar K. Dadabhoy's book 'Barons of Banking — Glimpses of Indian Banking History', a volume commissioned at the behest of the A. D. Shroff Memorial Trust. After an Introduction by Forum President Minoo R. Shroff, three substantial addresses follow: Dr. Y. V. Reddy (former RBI Governor and Chairman of the 14th Finance Commission), the economist S. S. Tarapore, and the chartered accountant Y. H. Malegam, who is also a Trustee of the A. D. Shroff Memorial Trust. The contributors converge on the book's framing of six 'barons' — Sir Sorabji Pochkhanawalla, Sir Purushottamdas Thakurdas and Sir C. D. Deshmukh from the pre-Independence era, and Raj Kumar Talwar, A. D. Shroff and H. T. Parekh from the post-Independence period — as institution-builders whose dharma shaped the Imperial Bank, the Reserve Bank of India, SBI, ICICI, IDBI and the Unit Trust of India. Across the three reflections, the booklet uses the lives of the barons to argue for central bank accountability and independence, for revisiting the Shroff Committee's verdict on private-sector discipline, for renewed faith in development banking, and for a future generation of bankers that is younger, more gender-balanced and geographically more diverse. The booklet is sponsored by the Shailesh Kapadia Memorial Trust.
+
+## Key points
+
+- Minoo R. Shroff's Introduction frames the booklet as a précis of three addresses delivered at the 25 October 2013 Mumbai launch of Bakhtiar Dadabhoy's book, commissioned by the A. D. Shroff Memorial Trust.
+
+- The book profiles six 'barons' — Sorabji Pochkhanawalla, Purushottamdas Thakurdas and C. D. Deshmukh before independence, and Raj Kumar Talwar, A. D. Shroff and H. T. Parekh after — as institution-builders.
+
+- Y. V. Reddy reads the book as proof that institutions are creatures of individuals, invoking Pochkhanawalla's doctrine that thrift-banking is a banker's highest service to defend household savings over consumer credit.
+
+- Reddy argues that central bank independence and accountability gained fresh salience after the global financial crisis and questions whether public-sector banks warrant the governance standards applied to private banks, citing the Talwar affair.
+
+- He calls for a future generation of bankers who are younger, more gender-balanced, geographically diverse and include returnees from global financial centres.
+
+- S. S. Tarapore predicts the book will become 'the locus classicus on India's monetary and banking history' and singles out Thakurdas's Note of Dissent against the Hilton Young Commission as still relevant.
+
+- Tarapore recalls A. D. Shroff's commendation by Keynes at Bretton Woods and the nationalist sympathies that later cost him the RBI Deputy Governorship.
+
+- Y. H. Malegam, who conceived the book on the model of Liaquat Ahmed's 'Lords of Finance', insists that history must be critical assessment of the past rather than mere narration.
 
 ## Essays
 

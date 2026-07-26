@@ -23,6 +23,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 1998
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -58,6 +59,26 @@ missing_metadata_flags:
 ## Summary
 
 This Forum of Free Enterprise pamphlet collects two talks delivered at a Mumbai public meeting on 18 August 1998, in the immediate aftermath of an inflationary scare that saw the Wholesale Price Index touch 8.78% year-on-year. The first essay, by Tata Services economic advisor S.S. Bhandare, reads the spike as a primarily supply-side phenomenon — poor monsoon, traders exploiting shortages of potatoes, onions and oilseeds — compounded by a persistent fiscal deficit and an accelerating procurement-price ratchet, and prescribes a fresh wave of green revolution, fiscal consolidation that protects capital spending, and better governance. The second essay, by Mumbai University economist Dr. Abhay Pethe, steps back from current-events diagnosis to ask what a price structure actually is — comparing it to blood pressure in the body — and to argue that the dynamics of expectations (vividly on display in the contagion of the Asian currency crisis) are central to understanding inflation.
+
+## Key points
+
+- The pamphlet collects two talks delivered at a Mumbai public meeting on 18 August 1998, shortly after the Wholesale Price Index touched 8.78 per cent year-on-year, the highest reading since November 1995.
+
+- Tata Services economic advisor S. S. Bhandare traces the spike chiefly to a supply-side shock, with potato prices up 378.6 per cent and onion prices up 82.4 per cent after a 3.7 per cent fall in 1997-98 agricultural output.
+
+- Bhandare also points to a widening inflationary gap, with M3 money-supply growth of 17.6 per cent far outpacing real GDP growth of 5.1 per cent and a fiscal deficit reaching 6.1 per cent of GDP against a 4.5 per cent target.
+
+- He identifies a 'ratchet effect' in which minimum support prices for paddy, wheat, sugarcane, cotton and jute rose 10-12 per cent annually through the 1990s, against 5-7 per cent in the 1980s.
+
+- Bhandare recommends a fresh green revolution to raise crop productivity 30-50 per cent within five to seven years, alongside fiscal consolidation that protects capital expenditure.
+
+- Mumbai University economist Dr. Abhay Pethe instead asks what a price structure is, comparing it to blood pressure in the body — necessary, but alarming once fluctuations cross a threshold.
+
+- Pethe argues that a relative price structure operating under unhindered market forces produces 'optimal or efficient' resource allocation, making 'getting the prices right' central to reform.
+
+- He stresses that agents act on what they believe to be true rather than on truth itself, attributing much of the Asian currency crisis's contagion to such mistaken expectations.
+
+- Pethe notes that measuring inflation is inherently arbitrary, since the choice of index — CPI, WPI or GDP deflator — and of base year depends on the purpose for which it is built.
 
 ## Essays
 

@@ -74,6 +74,22 @@ physical:
 
 This 15 July 1957 issue of The Indian Libertarian (Vol. V No. 10), edited by Kusum Lotwala in Bombay under the slogan 'We Stand For Free Economy And Liberal Democracy', is a strongly anti-communist and anti-statist number that pairs a foreign-policy editorial with essays diagnosing India's drift toward socialism and probing the cracks within the Soviet bloc. In the rendered pages the editorial covers Pakistani propaganda against India, India's diplomatic posture, and the canal-waters dispute; M. A. Venkata Rao's lead essay frames a 'national crisis' rooted in the Congress leadership's mistakes and the costs of planning; J. K. Dhairyawan dissects Nehru's 'fancies and fixations' on socialism; and Eugene Lyons (author of 'Assignment in Utopia') forecasts a coming revolt within Russia. Further essays — Jay Kay on intellectual ferment behind the Iron Curtain, Sumant S. Bankeshwar on communism as conspiracy rather than ideology, and S. R. Narayan Iyer's 'Saint Abroad, Sinner At Home' — extend the anti-collectivist argument, alongside news departments, book reviews and an R. L. Foundation research supplement.
 
+## Key points
+
+- The editorial's three connected notes charge Pakistan with a propaganda campaign against India over Kashmir, criticise the inconsistency of India's diplomatic posture, and survey the dispute over partition of canal waters.
+
+- M. A. Venkata Rao's 'National Crisis and the Way Out' ties India's political and economic crisis to the costs of the Second Five Year Plan and a swollen defence budget, faulting Congress leadership's mistakes.
+
+- Venkata Rao warns of the combined danger posed by socialism and communism, pointing toward a liberal, free-economy alternative as the country's way out of the crisis.
+
+- J. K. Dhairyawan's 'Nehru—His Fancies and Fixations' portrays the Prime Minister as a Scandinavian-style social democrat whose fixation on socialism and the public sector, the author argues, misdirects India.
+
+- Eugene Lyons, author of Assignment in Utopia, predicts in 'The Coming Revolt in Russia' a coming revolt against Soviet tyranny paralleling Hungary, describing the 'double-mind' of citizens who conform outwardly while dissenting inwardly.
+
+- Jay Kay's 'Intellectual Ferment Behind the Iron Curtain' surveys stirrings of independent thought among Communist-bloc intellectuals, reading them as a crack in totalitarian control.
+
+- Sumant S. Bankeshwar's 'Communism—Not an Ideology but a Conspiracy' argues communism is best understood as an organised political conspiracy and challenges the Marxian myth of the classless society, citing George Woodcock.
+
 ## Essays
 
 ### Editorial

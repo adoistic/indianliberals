@@ -64,6 +64,24 @@ physical:
 
 This March 15, 1963 issue of The Indian Libertarian (Vol. X No. 24), a Bombay fortnightly edited by D. M. Kulkarni, is dominated by the aftermath of the 1962 Sino-Indian war and India's place in the Cold War. The lead editorial argues India can still rally South-East Asia against Chinese expansion if it sheds non-alignment; M. A. Venkata Rao anatomises the nature of Communist China's regime; M. N. Tholal attacks Indian 'complacency' in defence and foreign policy; and a Delhi Letter reports on the Prime Minister's framing of the issues before Parliament. The issue also carries an Economic Supplement, a section on press freedom (Nehru on freedom of the press), book reviews, 'Gleanings from the Press', 'News and Views', and a letters column. Throughout, the journal presses a classical-liberal, anti-Communist line and its standing slogan, 'Make English the lingua franca of India.'
 
+## Key points
+
+- The unsigned lead editorial argues that despite the 1962 reverses, India retains the moral and strategic standing to lead South-East Asia against Chinese expansion, provided it abandons the illusions of non-alignment.
+
+- The editorial casts the China threat as both military and ideological, urging a clear Western-aligned posture toward the Communist regime in Peking.
+
+- M. A. Venkata Rao's 'The Nature of the Red Regime of China' traces how the Communist Party consolidated totalitarian power and argues its expansionist doctrine precludes genuine accommodation with its neighbours.
+
+- M. N. Tholal's 'Complacency With A Vengeance' attacks Indian leaders, including Nehru, for substituting official self-assurance and slogans for serious defence preparedness in the shadow of the China debacle.
+
+- A Delhi Letter reports the Prime Minister's framing of defence, economic and foreign-policy issues before Parliament in the aftermath of the border conflict, touching on personal taxation and fiscal questions.
+
+- Indira Avasty's piece weighs India's strategic options in the Sino-Indian conflict, considering the choice between non-alignment and Western military aid.
+
+- The issue's Economic Supplement and a section on press freedom cite Nehru's own past statements on freedom of the press.
+
+- Regular departments including book reviews, 'Gleanings from the Press', 'News and Views' and a letters column round out the issue's classical-liberal, anti-Communist line.
+
 ## Essays
 
 ### India Can Still Save South-East Asia

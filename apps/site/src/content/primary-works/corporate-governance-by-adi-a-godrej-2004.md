@@ -19,6 +19,8 @@ publication:
   place: Mumbai
   year: 2004
   series: 15th Bhogilal Leherchand Memorial Lecture
+  series_id: bhogilal-leherchand-memorial-lecture
+  series_ordinal: 15
 provenance:
   source: ccs_archive
   scan_quality: unknown

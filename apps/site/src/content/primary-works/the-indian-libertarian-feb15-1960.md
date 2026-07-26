@@ -75,6 +75,24 @@ physical:
 
 The 15 February 1960 issue of The Indian Libertarian (Vol. VII No. 26) leads with an editorial celebrating the Congress-PSP-Muslim League Democratic Front's victory over the Communists in Kerala, and tracks two other current concerns of the magazine: Khrushchev and Mikoyan's high-profile visit to India (read as a Soviet drive to consolidate ideological ground in the subcontinent) and the early Sino-Indian border friction. M. A. Venkata Rao's signed leader urges a Swatantra-Party rethinking of the right to strike along lines of compulsory arbitration, while M. N. Tholal attacks the Nehruvian doctrine of non-alignment for leaving India militarily exposed to Chinese aggression. Prof. G. P. Bhattacharjee argues that negotiation with Communist powers can only succeed from a position of military strength, and S. R. Mohan Das catalogues evidence against Nehru's view that Chinese Communists are 'different' from their Soviet counterparts. The issue's centre-fold Economic Supplement, edited by Murari Lotwala, anchors the libertarian case for free enterprise: C. Rajagopalachari draws on Antoine Pinay's French recovery and Ludwig Erhard's West German miracle to argue that deficit financing and socialist controls produce bankruptcy rather than prosperity, Prof. G. N. Lawande critiques wasteful public expenditure under planning, and K. S. Wood lays out free-enterprise first principles. The closing departments — a Delhi Letter on the Congress-PSP-League alliance and the patriotism question, two book reviews (A. D. Gorwala on Suhas Chatterjee's Danger from Communist China and M. A. Venkata Rao on S. Chandrasekhar's Population and Family Planning in India), a News Digest by G. N. Lawande, and a sharp note by Mahavir Tyagi on corruption in the public sector — round out a number whose ideological centre is consistent: a critique of Nehruvian planning and non-alignment from a classical-liberal and anti-Communist position.
 
+## Key points
+
+- The lead editorial celebrates the Democratic Front of Congress, PSP, and Muslim League winning sixty-six of ninety declared Kerala seats against nineteen for the Communists, crediting the Adviser regime's restoration of impartial law and order.
+
+- The editorial reads Khrushchev and Mikoyan's high-profile India visit as a Soviet ideological-propaganda offensive and treats Khrushchev's Supreme Soviet no-first-use nuclear pledge as a propaganda gesture rather than a genuine concession.
+
+- M. A. Venkata Rao's 'Rethinking Strikes' argues political and Communist-led strikes function as economic warfare and urges the Swatantra Party to adopt compulsory arbitration with binding awards as its central labour policy.
+
+- M. N. Tholal's 'The Stranglehold of Non-alignment' accuses Nehru of treating Panchsheel as a personal article of faith after Chinese violations began and of dressing up military weakness as Gandhian principle.
+
+- Prof. G. P. Bhattacharjee argues negotiation with Communist powers can only succeed from a position of military strength, while S. R. Mohan Das catalogues evidence against Nehru's claim that Chinese Communists differ from their Soviet counterparts.
+
+- The centre-fold Economic Supplement, edited by Murari Lotwala, carries C. Rajagopalachari drawing on Antoine Pinay's French recovery and Ludwig Erhard's West German miracle to argue deficit financing and socialist controls produce bankruptcy rather than prosperity.
+
+- Prof. G. N. Lawande critiques wasteful public expenditure under planning in the same supplement, while K. S. Wood lays out free-enterprise first principles.
+
+- Closing departments include a Delhi Letter on the Congress-PSP-League alliance, book reviews of works on Communist China and family planning, and a note by Mahavir Tyagi on public-sector corruption.
+
 ## Essays
 
 ### EDITORIAL — Kerala Rejects the Communists

@@ -58,6 +58,22 @@ missing_metadata_flags:
 
 This is the 21 August 1995 issue (Year 12, Issue 7) of the Marathi fortnightly शेतकरी संघटक (Shetkari Sanghatak), the organ of Sharad Joshi's farmers' movement Shetkari Sanghatana. In the rendered pages the issue is dominated by two long signed pieces by Sharad Joshi: a front-page polemic against the cow-slaughter ban, reframing it as 'गोपाल हत्या' (the killing of cattle-keepers), and a heartfelt obituary-tribute, 'शंकरराव गेले', remembering the activist Shankarrao. Around them sit movement correspondence and notices — a Kolhapur district report demanding a halt to coercive recovery of enhanced land revenue (शेतसारा), a poem 'अंधारदूत' by Subhash Naktode, and condolence notices for movement members. The issue's argumentative centre, in the rendered pages, is an agrarian-liberal economics of livestock: Joshi argues that cattle have value to farmers only as productive, tradeable assets, and that a religiously-motivated slaughter ban, by stripping aged cattle of market value, harms the very farmers and animals it claims to protect.
 
+## Key points
+
+- This 21 August 1995 issue (Year 12, No. 7) of the Marathi fortnightly Shetkari Sanghatak is dominated by two long signed pieces by Sharad Joshi, founder of the Shetkari Sanghatana farmers' movement.
+
+- Joshi's front-page essay reframes a cattle-slaughter ban as 'गोपाल हत्या' — the killing of cattle-keepers — arguing that aged cattle become a pure economic burden once they can no longer be sold.
+
+- He marshals comparative figures on milk yields and herd-keeping costs across India, Pakistan, Ethiopia, Tanzania and Kenya to argue that market incentives, not sentiment, sustain healthy livestock.
+
+- Joshi distinguishes religious reverence for the cow from rational animal husbandry, invoking Gandhi and Radhakrishnan, and casts the ban as urban, upper-caste sentiment imposed on farmers.
+
+- His second essay, 'शंकरराव गेले', is an obituary-tribute to Sanghatana activist Shankarrao, who died of lung cancer on 7 August 1995.
+
+- It recalls Shankarrao's agitational work across Maharashtra, Punjab, Gujarat and Chandigarh, including jail terms, and his association with the weekly 'Warkari'.
+
+- Around these two pieces, the issue also carries a Kolhapur district report demanding a halt to the coercive recovery of enhanced land revenue (शेतसारा) and a poem, 'अंधारदूत', by Subhash Naktode.
+
 ## Essays
 
 ### गोवंश हत्या बंदी? नव्हे, 'गो'पाल हत्या

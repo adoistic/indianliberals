@@ -75,6 +75,24 @@ Vol. X No. 9 of The Indian Libertarian (1 August 1962), edited by D. M. Kulkarni
 
 The collection's argumentative center is a classical-liberal worry about both ends of the Cold War: it celebrates the revival of British Liberalism as a check on Conservative drift, condemns Indian flirtation with Soviet supply lines, and recycles Frédéric Bastiat's distinction of three kinds of government on the back cover. Across pieces, the magazine stands 'FOR FREE ECONOMY AND LIMITED GOVERNMENT' and treats socialism, central planning, and Krishna-Menon-style defence procurement as variants of the same plunder.
 
+## Key points
+
+- Vol. X No. 9 of The Indian Libertarian (1 August 1962), edited by D. M. Kulkarni for Libertarian Publishers Private Ltd., Bombay, stands 'FOR FREE ECONOMY AND LIMITED GOVERNMENT'.
+
+- The unsigned editorial reads Harold Macmillan's July 1962 Cabinet purge, including the dropping of Chancellor Selwyn Lloyd, as proof that Liberalism has regained a 'balance of power' role in British politics.
+
+- M. A. Venkata Rao's essay 'The Crisis In Our Foreign Policy' attacks the Krishna Menon-backed plan to manufacture Soviet MiG fighter planes in India under licence as a break from non-alignment.
+
+- Venkata Rao argues that Western withdrawal from Goa removed any rational ground for India to lean toward Moscow, and warns Soviet ground personnel would give Moscow a foothold in Indian aviation.
+
+- M. N. Tholal's essay 'Gandhi—Nehru Succession — II' argues Nehruvian socialism owes more to Marx and to Mussolini-style statism than to Gandhi's village-centric, voluntarist ethic.
+
+- Tholal names M. N. Roy, Subhas Bose, Jayaprakash Narayan and Acharya Patwardhan as the radicals whose marginalisation by Nehru defined the true line of Gandhian succession.
+
+- Dean Russell's reprinted essay 'Socialism Is Not The Answer' argues that thinly disguised socialist policies such as minimum wages and rent control undermine a free economy.
+
+- A Delhi Letter, 'The Chinese Puzzle', addresses the China-India border question, and the back cover recycles Frédéric Bastiat's distinction of three kinds of government.
+
 ## Essays
 
 ### EDITORIAL — The Crisis In Our Foreign Policy

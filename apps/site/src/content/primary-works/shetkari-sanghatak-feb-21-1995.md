@@ -81,6 +81,24 @@ missing_metadata_flags:
 
 This is the 21 February 1995 issue of Shetkari Sanghatak (शेतकरी संघटक), the Marathi-language fortnightly of the Shetkari Sanghatana, Year 11 Issue 18. The issue is built around the upcoming Maharashtra Vidhan Sabha elections of February 1995 and the newly formed Swatantra Bharat Paksha (Free India Party) led by Sharad Joshi, the farmers'-movement leader. The lead piece is a compiled transcript of Joshi's campaign speeches arguing that the freedom won in 1947 was incomplete because state planning, the licence-permit-quota regime, and forced cooperative cartels have replaced foreign rulers with domestic looters. Other items include the full election manifesto of the Swatantra Bharat Paksha, an appeal by Sou. Indira Bhanusu Patil for uncontested gram-panchayat elections by women, an interview with Dr. Appasaheb Pawar declaring the cooperative sector obsolete, a sidebar questioning caste reservations through the Mandal Commission, and a back-page open letter from Joshi to the party's candidates announcing the start of "the decisive phase of the freedom struggle." The volume's argumentative center is a classical-liberal, free-market reframing of the agrarian movement: hostility to Nehruvian planning, cooperative sugar-baron politics, and the Congress, Janata, BJP, and Shiv Sena alike, paired with demands for free agricultural markets, an end to land ceilings, privatization of public enterprises, and devolution of power to ordinary cultivators.
 
+## Key points
+
+- This is the 21 February 1995 issue of Shetkari Sanghatak, Year 11 Issue 18, the Marathi-language fortnightly of the Shetkari Sanghatana, built around the upcoming Maharashtra Vidhan Sabha elections.
+
+- The lead piece is a compiled transcript of Sharad Joshi's campaign speeches, drawn from his address at Umarkhed, Yavatmal, arguing that state planning left the 1947 freedom struggle incomplete.
+
+- Joshi compares American farm support prices with Indian procurement rates, claiming Indian farmers receive only 28 to 32 per cent of world prices for cotton, sugarcane and food grains.
+
+- Joshi attacks the Maharashtra cooperative sugar lobby and Sharad Pawar's politics as a privatised cartel paying cultivators as little as two rupees a kilo for sugarcane.
+
+- The issue carries the full election manifesto of the newly formed Swatantra Bharat Paksha, calling for free agricultural markets and abolition of the licence-permit-quota regime.
+
+- The manifesto also demands repeal of Maharashtra's land-ceiling and tenancy laws and privatisation of state-run banks, corporations and public-sector enterprises.
+
+- Sou. Indira Bhanusu Patil contributes an appeal titled 'Let us conduct gram-panchayat elections without contest,' urging women to use reserved panchayat seats for village consensus rather than partisan contest.
+
+- Other items include an interview with Dr. Appasaheb Pawar declaring the cooperative sector obsolete and a sidebar questioning caste reservations under the Mandal Commission.
+
 ## Essays
 
 ### देशाला लुटण्याच्या गुप्ता घेऊ पाहाणाऱ्यांच्या तावडीतून देशाला वाचविण्यासाठी

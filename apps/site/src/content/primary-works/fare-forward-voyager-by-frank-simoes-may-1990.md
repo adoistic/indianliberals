@@ -20,6 +20,8 @@ publication:
   year: 1990
   edition: First published May 1990
   series: "Builders of Indian Economy Series : 3"
+  series_id: builders-of-indian-economy
+  series_ordinal: 3
 provenance:
   source: ccs_archive
   scan_quality: unknown

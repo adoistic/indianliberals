@@ -78,6 +78,22 @@ missing_metadata_flags:
 
 This 1 September 1960 issue of The Indian Libertarian (Vol. VIII No. 11), the Bombay fortnightly that 'stands for free economy and libertarian democracy' and incorporates the Free Economic Review and The Indian Rationalist, opens in the rendered pages with an Independence Day editorial ('Independence Day Reflections') brooding over fissiparous tendencies, the Assamese-Bengali conflict in Upper Assam, and the Chinese threat on the Himalayan frontier. The bylined articles in the rendered pages press the journal's anti-statist, anti-communist line: M. A. Venkata Rao's 'National Introspection' diagnoses national disunity and the failures of Congress nation-building; M. N. Thölal's 'India's Enemies are Nehru's Friends' attacks Nehru's foreign and domestic alignments; and S. Ramanathan's 'Lokayata: Indian Materialism' recovers the ancient Indian materialist (Charvaka/Lokayata) tradition for the rationalist cause. The bound Rationalist Supplement leads with James Plender's 'Madame Blavatsky Unveiled,' and the issue continues with cold-war pieces by Edward J. Webster ('Communist Capitalist') and James Burnham ('Mythical World of Kremlinology') plus standing departments.
 
+## Key points
+
+- The editorial 'Independence Day Reflections', marking the thirteenth anniversary of independence, dwells on the Assamese-Bengali riots in Upper Assam and Cachar and the Chinese threat poised on the northern frontier.
+
+- It argues that public opinion must revive a national patriotism transcending provincial and communal loyalties to meet these combined internal and external dangers together.
+
+- M. A. Venkata Rao's 'National Introspection' faults the Congress's record and the planning-era state for failing to build genuine national unity or sound institutions.
+
+- M. N. Tholal's 'India's Enemies are Nehru's Friends' argues that Nehru cultivates figures hostile to India abroad while distrusting the country's own defenders, framing this as a paradox of inverted loyalties.
+
+- S. Ramanathan's 'Lokayata: Indian Materialism' reviews a book on the ancient Charvaka/Lokayata school, recovering it as an indigenous Indian precedent for rationalism and this-worldly scepticism.
+
+- The bound Rationalist Supplement leads with James Plender's 'Madame Blavatsky Unveiled' and continues with Cold War pieces by Edward J. Webster and James Burnham.
+
+- Edward J. Webster's 'Communist Capitalist' and James Burnham's 'Mythical World of Kremlinology' extend the supplement's anti-communist commentary into Cold War geopolitics.
+
 ## Essays
 
 ### Editorial: Independence Day Reflections

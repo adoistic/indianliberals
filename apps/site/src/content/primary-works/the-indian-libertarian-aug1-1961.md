@@ -82,6 +82,26 @@ physical:
 
 The Indian Libertarian Vol. IX No. 9 (August 1, 1961) opens with a sharp editorial attacking President Ayub Khan's Washington diplomacy and Nehru's deference toward Pakistani complaints about Indian rearmament, then ranges across Kashmir, the Shastri Formula for Assam's language dispute, Britain's bid for the European Common Market, and a denunciation of Soviet 'distortion of language.' The issue's signed articles continue the journal's classical-liberal house line: M. A. Venkata Rao reviews Karl Popper's defence of the open society against fascist and Soviet totalitarianism; M. N. Tholal attacks the Uttar Pradesh Language Committee's coercive treatment of Urdu speakers; S. R. Narayana Ayyar argues, in the fifth installment of a serial, that Nehru should resign over his Pakistan policy; and J. M. Lobo Prabhu uses the Planning Commission's own admissions to indict state enterprises as fiscally ruinous. A four-page Rationalist Supplement carries pieces by S. Ramanathan on the future of rationalism, P. Kodanda Rao on dowry, Roy V. Rosa on the 'Tower of Babel,' and an unsigned 'Mechanical Prayers.' A Delhi Letter on Nehru's principles, a feature on Master Tara Singh, a review of Stephen J. Tonsor's Philosophy of Edmund Burke, and News & Views columns round out the number.
 
+## Key points
+
+- The editorial "Pakistan and India" reads President Ayub Khan's American tour as a tactical performance masking renewed hostility, and criticises Nehru for granting Pakistan Rs. 83 crores under the Canal Waters agreement while indulging its complaints about Indian rearmament.
+
+- The editorial also attacks the Shastri Formula for Assam's language dispute as a Congress fudge suppressing Bengali grievances, and reads Britain's prospective entry into the European Common Market as a threat to Commonwealth trade preferences.
+
+- M. A. Venkata Rao's review of Karl Popper's "The Open Society and its Enemies" presents Popper as the leading philosophical opponent of both Nazi and Soviet totalitarianism, tracing closed-society thinking from Plato through Hegel to Marx.
+
+- Venkata Rao highlights Popper's warning that organised pressure groups, or 'corporations', are democracy's chief everyday corrupter, and that proportional representation worsens political fragmentation.
+
+- M. N. Tholal's "Linguistic Fanaticism" attacks the Uttar Pradesh Language Committee's recommendations for downgrading Urdu, arguing that vested interests in the bureaucracy and legal profession are dressed up as Hindi enthusiasts.
+
+- Tholal contrasts an artificial, Sanskritised register of Hindi being constructed in Uttar Pradesh with the natural hybrid Hindustani used by writers such as Mohammad Iqbal.
+
+- S. R. Narayana Ayyar, in the fifth installment of a serial, argues that Nehru should resign over his handling of Pakistan policy, while J. M. Lobo Prabhu uses the Planning Commission's own admissions to indict state enterprises as fiscally ruinous.
+
+- The four-page Rationalist Supplement carries S. Ramanathan on the future of rationalism, P. Kodanda Rao on dowry, and Roy V. Rosa's piece on the 'Tower of Babel'.
+
+- Further departments include a Delhi Letter on Nehru's principles, a feature on Master Tara Singh, and a review of Stephen J. Tonsor's "Philosophy of Edmund Burke".
+
 ## Essays
 
 ### EDITORIAL
