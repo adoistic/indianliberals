@@ -117,3 +117,7 @@
 /mr/primary-works/angarmala-by-sharad-joshi/   /mr/primary-works/angarmala-sharad-joshi/   301
 /mr/primary-works/baliche-rajey-yenar-aahe-by-sharad-joshi/   /mr/primary-works/baliche-rajey-yenar-aahe-sharad-joshi/   301
 /hi/primary-works/udarwad-raj-samaj-aur-bazaar/   /hi/primary-works/udarwad-raj-samaj-aur-bazaar-ka-naya-paath/   301
+
+# /series/ merged into /periodicals/ (2026-07-26): one "Series & Periodicals"
+# index. Per-series detail pages keep their /series/<id>/ URLs.
+/series/   /periodicals/   301

@@ -31,7 +31,9 @@ const featuredCount = thinkers.filter((t) => t.data.featured).length;
 const interviewCount = works.filter((w) => w.data.work_type === "interview").length;
 const lectureCount = works.filter((w) => w.data.work_type === "lecture").length;
 const periodicalCount = works.filter((w) => w.data.work_type === "periodical_issue").length;
-const seriesCount = (await getCollection("series", (s) => !s.data.draft)).length;
+// Works belonging to a named non-periodical run. Counting `series` entities
+// here instead would put "10" next to a nav item covering ~600 works.
+const seriesWorkCount = works.filter((w) => w.data.publication?.series_id).length;
 
 type NavItem = { label: string; href: string; desc: string; count: number };
 type NavGroup = { id: string; label: string; items: NavItem[] };
@@ -48,16 +50,10 @@ const groups: NavGroup[] = [
         count: works.length,
       },
       {
-        label: "Periodicals",
+        label: "Series & Periodicals",
         href: "/periodicals/",
-        desc: "Khoj, The Indian Libertarian, and other runs",
-        count: periodicalCount,
-      },
-      {
-        label: "Series",
-        href: "/series/",
-        desc: "Booklet runs, memorial lectures, annual analyses",
-        count: seriesCount,
+        desc: "Forum booklets, Freedom First, budgets, memorial lectures",
+        count: periodicalCount + seriesWorkCount,
       },
       {
         label: "Interviews",

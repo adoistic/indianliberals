@@ -11,6 +11,7 @@ import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { LANG_NAMES, pathForEntry, type LangCode } from "~/lib/i18n";
 import { getPeriodicalSeries } from "~/lib/periodicals";
+import { getSeries, countAll } from "~/lib/series";
 
 // Two kinds live in this collection for schema reasons but don't belong in
 // this list of individual documents (Adnan, 2026-07):
@@ -29,9 +30,36 @@ const allWorks = await getCollection(
     w.data.work_type !== "periodical_issue",
 );
 
-// Periodical runs (series cards) for the band above the works grid.
+// The band above the grid shows every named RUN in the archive, both kinds:
+// the periodical runs (dated magazine issues, which are excluded from the grid
+// above) and the non-periodical runs (the Forum booklets, the annual budget
+// analyses, the memorial lectures — whose items DO appear in the grid). They
+// used to be two separate destinations; both now open into the single
+// "Series & Periodicals" index at /periodicals/.
 const periodicalSeries = (await getPeriodicalSeries()).filter((g) => g.id !== "other");
 const periodicalIssueCount = periodicalSeries.reduce((n, g) => n + g.items.length, 0);
+const nonPeriodicalRuns = await getSeries();
+const seriesWorkCount = nonPeriodicalRuns.reduce((n, g) => n + countAll(g), 0);
+
+type RunCard = { href: string; name: string; native?: string; cover: string | null; count: number; unit: string };
+const runCards: RunCard[] = [
+  ...nonPeriodicalRuns.map((g) => ({
+    href: `/series/${g.entry.id}/`,
+    name: g.entry.data.name,
+    cover: g.cover,
+    count: countAll(g),
+    unit: "works",
+  })),
+  ...periodicalSeries.map((g) => ({
+    href: `/periodicals/${g.id}/`,
+    name: g.meta.name,
+    native: g.meta.native,
+    cover: g.cover,
+    count: g.items.length,
+    unit: "issues",
+  })),
+].sort((a, b) => b.count - a.count);
+const runWorkTotal = periodicalIssueCount + seriesWorkCount;
 
 // Sort by publication year desc, then title for stable ordering within a year.
 const works = allWorks.slice().sort((a, b) => {
@@ -123,39 +151,42 @@ function themesAttr(w: (typeof works)[number]): string {
       <h1 class="text-(--color-fg) leading-tight">Primary works</h1>
       <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
         {totalCount.toLocaleString("en-IN")} books, pamphlets, essays, and
-        speeches by historically significant Indian liberal thinkers — the
-        individual works. Each surfaces with rich AI-extracted metadata, a prose
-        summary, key points, and the source PDF. The periodical runs are
-        indexed separately, issue by issue.
+        speeches by historically significant Indian liberal thinkers, indexed
+        one document at a time. Each surfaces with rich AI-extracted metadata, a
+        prose summary, key points, and the source PDF. Most of them also belong
+        to a run — a booklet series, a magazine, an annual budget analysis — and
+        those are collected under
+        <a href="/periodicals/" class="text-(--color-forest-700)">Series &amp; Periodicals</a>.
       </p>
     </div>
   </section>
 
-  {/* Periodical runs — the periodicals aren't listed issue-by-issue here
-      (that would bury the individual works); they're their own collection,
-      shown as a shelf of runs that opens into /periodicals/. */}
-  {periodicalSeries.length > 0 && (
+  {/* Every named run, both kinds, on one shelf. Most of this archive was
+      published in runs rather than as one-off books, so this belongs above the
+      grid, not tucked below it. */}
+  {runCards.length > 0 && (
     <section class="border-b border-(--color-border) bg-(--color-bg-muted)">
       <div class="mx-auto max-w-6xl px-6 py-10">
         <div class="flex items-baseline justify-between gap-4 flex-wrap mb-6">
           <div>
-            <h2 class="text-(--color-fg) font-(family-name:--font-display) text-2xl">The periodical runs</h2>
+            <h2 class="text-(--color-fg) font-(family-name:--font-display) text-2xl">Series &amp; periodicals</h2>
             <p class="text-(--color-fg-muted) text-sm mt-1 font-(family-name:--font-ui)">
-              {periodicalIssueCount.toLocaleString("en-IN")} issues across {periodicalSeries.length} runs, indexed separately.
+              {runWorkTotal.toLocaleString("en-IN")} works across {runCards.length} runs — the Forum
+              of Free Enterprise booklets, the magazines, the annual budgets and the memorial lectures.
             </p>
           </div>
           <a href="/periodicals/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
-            All periodicals →
+            All runs →
           </a>
         </div>
         <ul class="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4 font-(family-name:--font-ui)">
-          {periodicalSeries.map((g) => (
+          {runCards.map((c) => (
             <li>
-              <a href={`/periodicals/${g.id}/`} class="group block no-underline">
+              <a href={c.href} class="group block no-underline">
                 <div class="aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg) flex items-center justify-center transition-shadow group-hover:shadow-md">
-                  {g.cover ? (
+                  {c.cover ? (
                     <img
-                      src={g.cover}
+                      src={c.cover}
                       alt=""
                       width="160"
                       height="213"
@@ -164,15 +195,15 @@ function themesAttr(w: (typeof works)[number]): string {
                     />
                   ) : (
                     <span class="font-(family-name:--font-display) text-xl text-(--color-fg-muted) px-2 text-center leading-tight">
-                      {g.meta.name.split(" ").slice(0, 2).map((s) => s[0]).join("")}
+                      {c.name.split(" ").slice(0, 2).map((s) => s[0]).join("")}
                     </span>
                   )}
                 </div>
                 <h3 class="mt-2 text-xs font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight line-clamp-2">
-                  {g.meta.name}
+                  {c.name}
                 </h3>
                 <p class="text-[11px] text-(--color-fg-muted) mt-0.5">
-                  {g.items.length} {g.items.length === 1 ? "issue" : "issues"}
+                  {c.count} {c.count === 1 ? c.unit.replace(/s$/, "") : c.unit}
                 </p>
               </a>
             </li>

@@ -1,54 +1,155 @@
 ---
-// Periodicals index, series-first (CCS round-2 feedback #10).
+// Series & Periodicals — the single index of every named run in the archive.
 //
-// The landing view is a grid of the periodical *runs* (one card per series:
-// cover + name + issue count + span), not a flat wall of every issue. Clicking
-// a card opens that run's issues at /periodicals/<series>/. Grouping logic and
-// series metadata live in ~/lib/periodicals.ts (shared with the per-series
-// page).
+// This used to be two surfaces: /periodicals/ for dated magazine issues and
+// /series/ for the non-periodical runs (the Forum of Free Enterprise booklets,
+// the annual budget analyses, the memorial lectures). That split asked a reader
+// to know, before clicking, whether the Forum's booklets counted as a
+// "periodical" — a distinction that matters to a cataloguer and to nobody else.
+// Both now live here under one heading, still grouped so the difference stays
+// visible where it is actually useful.
+//
+// Detail pages keep their existing URLs (/periodicals/<id>/ and /series/<id>/)
+// so nothing already linked breaks; /series/ redirects here.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getPeriodicalSeries } from "~/lib/periodicals";
+import { getSeries, KIND_LABEL, countAll } from "~/lib/series";
 
-const seriesGroups = await getPeriodicalSeries();
-const namedSeries = seriesGroups.filter((g) => g.id !== "other");
-const totalIssues = seriesGroups.reduce((n, g) => n + g.items.length, 0);
+const periodicalGroups = await getPeriodicalSeries();
+const seriesGroups = await getSeries();
+
+const issueCount = periodicalGroups.reduce((n, g) => n + g.items.length, 0);
+const seriesWorkCount = seriesGroups.reduce((n, g) => n + countAll(g), 0);
+const runCount = periodicalGroups.length + seriesGroups.length;
+const totalWorks = issueCount + seriesWorkCount;
 ---
 
 <BaseLayout
   schema={[
-    collectionPageNode({ pagePath: "/periodicals/", name: "Periodicals" }),
+    collectionPageNode({ pagePath: "/periodicals/", name: "Series & Periodicals" }),
     breadcrumbNode([
       ["Home", "/"],
-      ["Periodicals", "/periodicals/"],
+      ["Series & Periodicals", "/periodicals/"],
     ]),
   ]}
   ogImage={ogSection("periodicals")}
-  title="Periodicals · Indian Liberals"
-  description={`${totalIssues} periodical issues across ${namedSeries.length} runs: The Indian Libertarian, Khoj, Shetkari Sanghatak, Freedom First, and more, indexed at the issue level with metadata and AI summaries.`}
+  title="Series & Periodicals · Indian Liberals"
+  description={`${totalWorks} works across ${runCount} runs — the Forum of Free Enterprise booklets, Freedom First, The Indian Libertarian, Khoj, Shetkari Sanghatak, the annual budget analyses and the memorial lectures, indexed item by item.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Periodicals
+        Series &amp; Periodicals
       </p>
-      <h1 class="text-(--color-fg) mb-4">The periodical runs</h1>
+      <h1 class="text-(--color-fg) mb-4">The runs</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        The liberal periodicals of modern India, indexed issue by issue with
-        metadata, contributor lists, and AI summaries. Choose a run to browse
-        its issues; each issue page links the original PDF.
+        Most of this archive was not published as one-off books. It came out in
+        runs — a fortnightly journal, a booklet series that lasted fifty years, a
+        budget analysis every spring, a memorial lecture every autumn. Read in
+        sequence they show an argument being made and remade over decades. Choose
+        a run to browse it; every item links its original PDF.
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
-        {totalIssues} issues · {namedSeries.length} runs
+        {totalWorks} works · {runCount} runs
       </p>
     </div>
   </section>
 
-  <div class="mx-auto max-w-6xl px-6 py-12">
+  {/* Non-periodical runs lead: the Forum booklets are the single largest body
+      of work in the archive, and listing them under the magazines would
+      misrepresent the shape of the collection. */}
+  <div class="mx-auto max-w-6xl px-6 pt-12">
+    <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-1">
+      Booklet series, lectures &amp; annual analyses
+    </h2>
+    <p class="text-(--color-fg-muted) text-sm mb-6 font-(family-name:--font-ui)">
+      {seriesWorkCount} works · {seriesGroups.length} runs
+    </p>
+  </div>
+
+  <div class="mx-auto max-w-6xl px-6 space-y-10">
+    {seriesGroups.map((g) => (
+      <section>
+        <a
+          href={`/series/${g.entry.id}/`}
+          class="flex gap-5 p-5 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-md transition-all group font-(family-name:--font-ui)"
+        >
+          <div class="self-start shrink-0 w-24 md:w-28 aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center">
+            {g.cover ? (
+              <img
+                src={g.cover}
+                alt=""
+                width="140"
+                height="187"
+                loading="lazy"
+                class="w-full h-full object-cover object-top group-hover:scale-[1.03] transition-transform duration-300"
+              />
+            ) : (
+              <span class="font-(family-name:--font-display) text-2xl text-(--color-fg-muted)">
+                {g.entry.data.name.split(" ").slice(0, 2).map((s) => s[0]).join("")}
+              </span>
+            )}
+          </div>
+          <div class="min-w-0">
+            <span class="inline-block px-1.5 py-0.5 rounded text-[10px] uppercase tracking-wider font-semibold bg-(--color-saffron-100) text-(--color-saffron-700) mb-1.5">
+              {KIND_LABEL[g.entry.data.kind]}
+            </span>
+            <h3 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">
+              {g.entry.data.name}
+            </h3>
+            <p class="text-xs text-(--color-fg-muted) mt-1 mb-2">
+              {countAll(g)} {countAll(g) === 1 ? "work" : "works"}
+              {g.yearRange && ` · ${g.yearRange}`}
+              {g.children.length > 0 && ` · ${g.children.length} sub-series`}
+            </p>
+            <p class="text-sm text-(--color-fg-muted) leading-snug line-clamp-3">
+              {g.entry.data.blurb}
+            </p>
+          </div>
+        </a>
+
+        {g.children.length > 0 && (
+          <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mt-3 ml-0 md:ml-8 font-(family-name:--font-ui)">
+            {g.children.map((c) => (
+              <li>
+                <a
+                  href={`/series/${c.entry.id}/`}
+                  class="block h-full p-3.5 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-all group"
+                >
+                  <span class="text-[10px] uppercase tracking-wider font-semibold text-(--color-fg-muted)">
+                    {KIND_LABEL[c.entry.data.kind]}
+                  </span>
+                  <h4 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight mt-0.5">
+                    {c.entry.data.name}
+                  </h4>
+                  <p class="text-xs text-(--color-fg-muted) mt-1">
+                    {c.items.length} {c.items.length === 1 ? "work" : "works"}
+                    {c.yearRange && ` · ${c.yearRange}`}
+                  </p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
+    ))}
+  </div>
+
+  <div class="mx-auto max-w-6xl px-6 pt-14">
+    <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-1">
+      Periodicals
+    </h2>
+    <p class="text-(--color-fg-muted) text-sm mb-6 font-(family-name:--font-ui)">
+      {issueCount} issues · {periodicalGroups.length} runs, indexed issue by issue
+    </p>
+  </div>
+
+  <div class="mx-auto max-w-6xl px-6 pb-14">
     <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 font-(family-name:--font-ui)">
-      {seriesGroups.map((g) => (
+      {periodicalGroups.map((g) => (
         <li>
           <a
             href={`/periodicals/${g.id}/`}
@@ -71,12 +172,12 @@ const totalIssues = seriesGroups.reduce((n, g) => n + g.items.length, 0);
               )}
             </div>
             <div class="min-w-0 flex flex-col">
-              <h2 class="font-(family-name:--font-display) font-semibold text-lg text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">
+              <h3 class="font-(family-name:--font-display) font-semibold text-lg text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">
                 {g.meta.name}
                 {g.meta.native && g.meta.native !== g.meta.name && (
                   <span class="text-(--color-fg-muted) font-normal text-sm ml-1.5">{g.meta.native}</span>
                 )}
-              </h2>
+              </h3>
               <p class="text-xs text-(--color-fg-muted) mt-1 mb-2">
                 {g.items.length === 1 ? "1 issue" : `${g.items.length} issues`}
                 {g.yearRange && ` · ${g.yearRange}`}

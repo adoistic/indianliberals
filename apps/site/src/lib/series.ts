@@ -136,6 +136,15 @@ async function buildGroup(entry: SeriesEntry, byseries: Map<string, Item[]>): Pr
 }
 
 /**
+ * Works in a run including its sub-series — the A. D. Shroff lectures are part
+ * of the Forum's booklet run, so the Forum's headline count has to include them
+ * or the two numbers on screen contradict each other.
+ */
+export function countAll(g: SeriesGroup): number {
+  return g.items.length + g.children.reduce((n, c) => n + countAll(c), 0);
+}
+
+/**
  * All series, nested one level (a memorial lecture sits under the booklet run
  * that printed it) and ordered by kind then size.
  */
