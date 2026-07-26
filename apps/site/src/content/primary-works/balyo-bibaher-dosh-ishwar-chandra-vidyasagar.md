@@ -13,6 +13,9 @@ contributors: []
 related_thinkers: []
 publication:
   language: bn
+  year: 1850
+  publisher_name: Sarva Subhakari
+  place: Calcutta
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -28,28 +31,56 @@ themes:
 - social-reform
 - women
 - marriage
+- education
 - family-law
-summary: 'Written in Bengali, ''বাল্য বিবাহের দোষ'' (Balya Bibaher Dosh — ''The Harms
-  of Child Marriage'') is a short polemical pamphlet by Ishwar Chandra Vidyasagar
-  directed against the practice of marrying off young girls before they have reached
-  physical or intellectual maturity. The pamphlet opens by identifying child marriage
-  as a deep-rooted social ill in Bengali Hindu society and argues, on grounds of compassion
-  and reason, that the practice inflicts severe bodily harm on young girls who are
-  compelled to bear the physical demands of conjugal life and childbearing before
-  their bodies are capable of sustaining them. Vidyasagar draws on observable suffering
-  — premature widowhood, physical debility, and stunted lives — to make a case that
-  the custom cannot be defended by appeal to tradition alone.
+- civil-society
+summary: 'The Bengali original. Vidyasagar''s first published work, which appeared
+  in 1850 in the Calcutta Bengali monthly *Sarva Subhakari* and opened the campaign
+  against child marriage he pursued for the rest of his life. He begins with the scriptural
+  arithmetic he means to demolish: the Smriti texts hold that marrying off an eight-year-old
+  earns her parents the merit of Gouri-daan, a nine-year-old that of Prithvi-daan,
+  a ten-year-old a passage to the holy realms after death. Enchanted by these "imaginary
+  attainments", he writes, the country took up the custom and stopped asking what
+  it cost. He then names the pressure that makes refusal impossible: a girl who begins
+  to menstruate unmarried in her father''s house is held to damn seven generations
+  of her ancestors, and her parents are made impure, ostracised, forbidden to eat
+  beside others. Anyone whose conscience revolts against this finds the thought rising
+  "like streaks of lightning, merely to fade to the timid darkness within".
 
 
-  The pamphlet''s second movement turns to the social and intellectual consequences:
-  child marriage keeps women in ignorance, denies them the possibility of education
-  and self-development, and entrenches a subordinate status that the author regards
-  as unjust.…
+  The case is built on several fronts. Marriage before either party can feel love
+  produces households of discord, and children raised inside them; neither bride nor
+  groom is allowed to meet, speak to or even look at the other before parents and
+  the GhaTak settle the match. Boys and girls married as children spend the years
+  meant for education learning to arouse and entertain each other, and emerge with
+  the form of human beings but little of what makes one. Physicians hold that children
+  conceived by parents who are not yet physically mature die in infancy or grow up
+  infirm, so the custom defeats the reproductive purpose marriage exists to serve.
+  Vidyasagar also argues, in terms that read uncomfortably now, that the feebleness
+  he ascribes to Bengalis and Odias follows from the practice, contrasting them with
+  the western regions of the subcontinent where marriage waits for maturity and men
+  still enter the royal armies; India was once called Veer Prasavini, the begetter
+  of heroes. He notes that the shastras describe eight forms of marriage, and that
+  the prevalent ones, along with swayamvara where the bride chose, all presumed adults.
 
 
-  This PDF contains the complete work: the Bengali original first, then the English
-  translation, separated by a divider page. The two were digitised as separate scans
-  and are also catalogued separately; either record opens the same combined document.'
+  Two arguments carry the most weight. On women''s education: a mother is a child''s
+  first and most persuasive teacher, European children are taught early because European
+  women are educated, and in Bengal a girl''s schooling stops at her wedding, after
+  which she learns pots and ladles instead. Reformers who want women educated must
+  therefore attack child marriage first, because the two cannot coexist. On widowhood:
+  mortality is highest between birth and twenty, so child marriage manufactures child
+  widows, and he describes what he has watched, girls half dead with thirst on nights
+  of prescribed fasting, tongues dried, nobody willing to break custom far enough
+  to offer water or medicine. He answers the standard defence, that abolition would
+  loose the young into licentiousness, by arguing that an education which builds moral
+  character makes the fear groundless. He closes by calling the piece an introduction,
+  with the evidence still to come.
+
+
+  This PDF holds the complete work: the Bengali original first, then the English translation,
+  separated by a divider page. The two were digitised as separate scans and are catalogued
+  separately; either record opens the same document.'
 needs_review: true
 draft: false
 ai:
@@ -58,7 +89,7 @@ ai:
   model_version: v1.4
 physical:
   pages_rendered: 4
-  pages_total: 13
+  pages_total: 16
   pages_total_source: pypdfium2
   format: pamphlet, printed Bengali text, photographed from bound volume
 missing_metadata_flags:
@@ -71,24 +102,35 @@ translations:
 related_works:
 - the-vice-of-child-marriages-by-ishwar-chandra-vidyasagar
 ---
+
+# বাল্যবিবাহের দোষ
+
 ## Summary
 
-Written in Bengali, 'বাল্য বিবাহের দোষ' (Balya Bibaher Dosh — 'The Harms of Child Marriage') is a short polemical pamphlet by Ishwar Chandra Vidyasagar directed against the practice of marrying off young girls before they have reached physical or intellectual maturity. The pamphlet opens by identifying child marriage as a deep-rooted social ill in Bengali Hindu society and argues, on grounds of compassion and reason, that the practice inflicts severe bodily harm on young girls who are compelled to bear the physical demands of conjugal life and childbearing before their bodies are capable of sustaining them. Vidyasagar draws on observable suffering — premature widowhood, physical debility, and stunted lives — to make a case that the custom cannot be defended by appeal to tradition alone.
+The Bengali original. Vidyasagar's first published work, which appeared in 1850 in the Calcutta Bengali monthly *Sarva Subhakari* and opened the campaign against child marriage he pursued for the rest of his life. He begins with the scriptural arithmetic he means to demolish: the Smriti texts hold that marrying off an eight-year-old earns her parents the merit of Gouri-daan, a nine-year-old that of Prithvi-daan, a ten-year-old a passage to the holy realms after death. Enchanted by these "imaginary attainments", he writes, the country took up the custom and stopped asking what it cost. He then names the pressure that makes refusal impossible: a girl who begins to menstruate unmarried in her father's house is held to damn seven generations of her ancestors, and her parents are made impure, ostracised, forbidden to eat beside others. Anyone whose conscience revolts against this finds the thought rising "like streaks of lightning, merely to fade to the timid darkness within".
 
-The pamphlet's second movement turns to the social and intellectual consequences: child marriage keeps women in ignorance, denies them the possibility of education and self-development, and entrenches a subordinate status that the author regards as unjust. Vidyasagar appeals directly to educated men and reformers, arguing that those with the capacity to understand the harm bear a special responsibility to resist it. The pamphlet closes with a direct exhortation to abandon the practice in the interest of women's welfare and the health of society as a whole. No other named thinkers are cited; the argument is built entirely on moral reasoning and appeal to lived consequences.
+The case is built on several fronts. Marriage before either party can feel love produces households of discord, and children raised inside them; neither bride nor groom is allowed to meet, speak to or even look at the other before parents and the GhaTak settle the match. Boys and girls married as children spend the years meant for education learning to arouse and entertain each other, and emerge with the form of human beings but little of what makes one. Physicians hold that children conceived by parents who are not yet physically mature die in infancy or grow up infirm, so the custom defeats the reproductive purpose marriage exists to serve. Vidyasagar also argues, in terms that read uncomfortably now, that the feebleness he ascribes to Bengalis and Odias follows from the practice, contrasting them with the western regions of the subcontinent where marriage waits for maturity and men still enter the royal armies; India was once called Veer Prasavini, the begetter of heroes. He notes that the shastras describe eight forms of marriage, and that the prevalent ones, along with swayamvara where the bride chose, all presumed adults.
+
+Two arguments carry the most weight. On women's education: a mother is a child's first and most persuasive teacher, European children are taught early because European women are educated, and in Bengal a girl's schooling stops at her wedding, after which she learns pots and ladles instead. Reformers who want women educated must therefore attack child marriage first, because the two cannot coexist. On widowhood: mortality is highest between birth and twenty, so child marriage manufactures child widows, and he describes what he has watched, girls half dead with thirst on nights of prescribed fasting, tongues dried, nobody willing to break custom far enough to offer water or medicine. He answers the standard defence, that abolition would loose the young into licentiousness, by arguing that an education which builds moral character makes the fear groundless. He closes by calling the piece an introduction, with the evidence still to come.
 
 ## Key points
 
-- Child marriage (বাল্য বিবাহ) is identified as a pervasive harm in Bengali Hindu society, not merely a private misfortune.
+- Written in 1850 for the Calcutta Bengali monthly *Sarva Subhakari*, this is the first of the many articles and monographs Vidyasagar published across his life as a social reformer.
 
-- The pamphlet argues that premature marriage ruins young girls' physical health by subjecting them to conjugal life and childbearing before their bodies are mature.
+- He opens on the Smriti doctrine that marrying off a girl at eight, nine or ten earns her parents the merits of Gouri-daan, Prithvi-daan and a passage to the holy realms, and dismisses these as "imaginary attainments" pursued with no regard to consequences.
 
-- Early marriage leads to early widowhood, compounding the suffering of women who have barely emerged from childhood.
+- The custom is enforced from the other side too: a girl who menstruates unmarried at her father's house is held to send seven generations of ancestors to hell, while her parents become impure, are ostracised and may not eat beside others.
 
-- Tradition and scriptural sanction are explicitly rejected as sufficient defenses for a custom that causes manifest suffering.
+- Marriage contracted before either party can feel love produces households of discord, and the couple get no say in it, forbidden to meet, converse with or even look at one another before parents and the GhaTak fix the match.
 
-- Educated men and social reformers are addressed as having a particular moral duty to oppose child marriage.
+- Children married as children spend the years meant for schooling learning to arouse and entertain one another, and so forfeit the education that would make them whole human beings.
 
-- The argument proceeds entirely from rational and compassionate premises, without citation of external authorities.
+- Physicians hold that children conceived before their parents are physically mature die in infancy or grow up infirm, so the custom defeats the very purpose marriage exists to serve.
 
-- The pamphlet ends with a direct appeal to society to abolish the practice for the sake of women's welfare and social progress.
+- Vidyasagar attributes the feebleness he ascribes to Bengalis and Odias to the practice, contrasting them with western regions of the subcontinent where marriage waits for maturity and men still serve in the royal armies; India, he notes, was once called Veer Prasavini, the begetter of heroes.
+
+- Women's education is impossible while the custom stands: a mother is a child's earliest and most persuasive teacher, but a Bengali girl's schooling ends at her wedding, so reformers who want educated women must abolish child marriage first.
+
+- Because mortality is highest between birth and twenty, child marriage manufactures child widows, condemned to fasts he has watched leave girls half dead with thirst while nobody dares offer water or medicine; the same isolation, he adds, invites secret relationships and the risk of feticide.
+
+- He answers the defence that abolition would encourage licentiousness by arguing that an education teaching right from wrong forestalls it, and ends by calling the essay an introduction, with the fuller case still to be made.
