@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indian-liberals-matter-govt-transaction-invisible-monster-k-h-subramaniam/2989567/) on 2026-07-18. Originally published 2026-07-18. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indian-liberals-matter-govt-transaction-invisible-monster-k-h-subramaniam/2989567/) on 2026-07-25. Originally published 2026-07-18. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Govt looms behind every transaction like an invisible monster: K H Subramaniam
 

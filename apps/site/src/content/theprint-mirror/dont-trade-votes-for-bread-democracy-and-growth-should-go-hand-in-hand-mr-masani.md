@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/dont-trade-votes-for-bread-democracy-and-growth-should-go-hand-in-hand-mr-masani/2977593/) on 2026-07-18. Originally published 2026-07-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/dont-trade-votes-for-bread-democracy-and-growth-should-go-hand-in-hand-mr-masani/2977593/) on 2026-07-25. Originally published 2026-07-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Don’t trade votes for bread. Democracy and growth should go hand in hand: MR Masani
 

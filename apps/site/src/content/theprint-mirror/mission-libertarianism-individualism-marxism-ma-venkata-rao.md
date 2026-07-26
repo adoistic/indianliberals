@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/mission-libertarianism-individualism-marxism-ma-venkata-rao/939537/) on 2026-07-18. Originally published 2026-02-28. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/mission-libertarianism-individualism-marxism-ma-venkata-rao/939537/) on 2026-07-25. Originally published 2026-02-28. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # मिशन लिबरटेरियनिज्म: मार्क्सवादी सामूहिकतावाद के बीच व्यक्तिवाद की नई चुनौती—एमए वेंकट राव
 

@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/government-monopolies-and-political-control-have-harmed-the-economy-m-r-pai/975998/) on 2026-07-18. Originally published 2026-05-23. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/government-monopolies-and-political-control-have-harmed-the-economy-m-r-pai/975998/) on 2026-07-25. Originally published 2026-05-23. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # सरकारी एकाधिकार और राजनीतिक नियंत्रण ने अर्थव्यवस्था को पहुंचाया नुकसान—एमआर पाई
 

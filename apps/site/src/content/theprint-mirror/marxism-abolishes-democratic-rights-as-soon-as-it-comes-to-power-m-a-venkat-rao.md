@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/marxism-abolishes-democratic-rights-as-soon-as-it-comes-to-power-m-a-venkat-rao/923982/) on 2026-07-18. Originally published 2026-01-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/marxism-abolishes-democratic-rights-as-soon-as-it-comes-to-power-m-a-venkat-rao/923982/) on 2026-07-25. Originally published 2026-01-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # मार्क्सवाद सत्ता में आते ही लोकतांत्रिक अधिकारों को खत्म कर देता है: एमए वेंकट राव
 
