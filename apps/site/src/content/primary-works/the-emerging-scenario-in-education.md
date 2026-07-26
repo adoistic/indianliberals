@@ -17,6 +17,8 @@ publication:
   place: Mumbai
   year: 2011
   series: Nani A. Palkhivala Memorial Lecture
+  series_id: nani-palkhivala-memorial-lecture
+  series_ordinal: 8
 provenance:
   source: ccs_archive
   scan_quality: fair

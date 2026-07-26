@@ -19,6 +19,8 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2010
+  series_id: bhogilal-leherchand-memorial-lecture
+  series_ordinal: 21
 provenance:
   source: ccs_archive
   scan_quality: unknown

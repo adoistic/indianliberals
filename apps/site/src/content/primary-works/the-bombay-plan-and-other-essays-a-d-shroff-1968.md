@@ -42,6 +42,7 @@ publication:
   year: 1968
   edition: First Published 1968
   series: A. D. Shroff Memorial Lectures (Second)
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

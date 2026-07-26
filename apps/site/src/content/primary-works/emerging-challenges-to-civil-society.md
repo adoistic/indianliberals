@@ -17,6 +17,8 @@ publication:
   year: 2009
   edition: "First Published: October 2009"
   series: Nani A. Palkhivala Memorial Lecture, Sixth
+  series_id: nani-palkhivala-memorial-lecture
+  series_ordinal: 6
 provenance:
   source: ccs_archive
   scan_quality: unknown

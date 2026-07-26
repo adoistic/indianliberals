@@ -19,6 +19,7 @@ publication:
   publisher_id: forum-of-free-enterprise
   publisher_name: Forum of Free Enterprise
   issuer_id: forum-of-free-enterprise
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

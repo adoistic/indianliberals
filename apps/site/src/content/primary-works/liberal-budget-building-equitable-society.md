@@ -31,6 +31,7 @@ publication:
   issuer_id: indian-liberal-group
   place: Mumbai
   year: 2004
+  series_id: ilg-liberal-budget
 provenance:
   source: ccs_archive
   scan_quality: unknown

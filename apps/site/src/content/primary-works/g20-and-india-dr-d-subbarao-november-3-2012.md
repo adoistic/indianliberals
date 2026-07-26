@@ -21,6 +21,8 @@ publication:
   place: Mumbai
   year: 2012
   series: 46th A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 46
 provenance:
   source: ccs_archive
   scan_quality: unknown

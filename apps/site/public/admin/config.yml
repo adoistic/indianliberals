@@ -422,7 +422,9 @@ collections:
           - { label: "Place of publication", name: place, widget: string, required: false }
           - { label: "Year", name: year, widget: number, value_type: int, required: false }
           - { label: "Edition", name: edition, widget: string, required: false }
-          - { label: "Series", name: series, widget: string, required: false }
+          - { label: "Series label (as printed)", name: series, widget: string, required: false, hint: "Free text exactly as printed on the item, e.g. 'Sixth A. D. Shroff Memorial Lecture'. Descriptive only — it does not group anything." }
+          - { label: "Series", name: series_id, widget: relation, collection: series, search_fields: [name], value_field: id, display_fields: [name], required: false, hint: "The named run this work belongs to — this is what /series/ groups on. Pick the MOST SPECIFIC one (an A. D. Shroff lecture, not the parent FFE booklets)." }
+          - { label: "Number within the series", name: series_ordinal, widget: number, value_type: int, min: 1, required: false, hint: "Only when the item states its own number. Leave blank for date-ordered runs like the FFE booklets." }
           - { label: "Language of the work itself", name: language, widget: string, default: "en", hint: "Different from the catalog entry's language — this is what language the actual PDF text is in." }
       - label: "Provenance — where the scan came from"
         name: provenance
@@ -465,6 +467,36 @@ collections:
       - *needs_review
       - *draft
       - { label: "Editor notes (Markdown — for editorial commentary, NOT the work text)", name: body, widget: markdown, required: false }
+
+  # ───── Series — named non-periodical runs ───────────────────────────────
+  - name: series
+    label: "Series — booklet runs, memorial lectures, annual analyses"
+    label_singular: "Series"
+    description: >
+      Named runs that are NOT periodicals: a publisher's booklet series, an
+      annual memorial lecture, a numbered occasional-paper run. Works join a
+      series via the "Series" field on the primary work. For dated issues of a
+      magazine use Periodicals instead.
+    folder: apps/site/src/content/series
+    create: true
+    slug: "{{fields.id}}"
+    identifier_field: id
+    summary: "{{name}}"
+    fields:
+      - { label: "ID (slug)", name: id, widget: string }
+      - { label: "Name", name: name, widget: string }
+      - { label: "Native-script name", name: native, widget: string, required: false }
+      - { label: "Blurb", name: blurb, widget: text, hint: "What the run is, who published it, why it hangs together. Shown on the series card and page." }
+      - label: "Kind of run"
+        name: kind
+        widget: select
+        options: [booklet_series, lecture_series, occasional_papers, annual_analysis, multi_part_work]
+      - { label: "Publisher ID", name: publisher_id, widget: string, required: false }
+      - { label: "Issuer ID", name: issuer_id, widget: string, required: false }
+      - { label: "Parent series", name: parent_series, widget: relation, collection: series, search_fields: [name], value_field: id, display_fields: [name], required: false, hint: "e.g. the A. D. Shroff Memorial Lecture sits inside the Forum of Free Enterprise booklet run." }
+      - { label: "Items carry a printed number", name: numbered, widget: boolean, default: false, hint: "True only if the items themselves are serially numbered. The FFE booklets are NOT — their colophon carries a date." }
+      - *needs_review
+      - *draft
 
   # ───── Tier B: Periodicals ──────────────────────────────────────────────
   - name: periodicals

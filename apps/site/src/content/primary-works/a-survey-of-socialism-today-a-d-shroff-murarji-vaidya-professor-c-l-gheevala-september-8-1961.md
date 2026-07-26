@@ -29,6 +29,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1961
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

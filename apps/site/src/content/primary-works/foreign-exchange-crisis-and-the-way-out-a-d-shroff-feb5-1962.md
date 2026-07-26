@@ -30,6 +30,7 @@ publication:
   place: Bombay
   year: 1963
   series: FFE Pamphlet 35
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

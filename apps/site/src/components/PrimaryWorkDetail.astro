@@ -35,6 +35,7 @@ import { hreflangAlternates, shouldNoindex } from "~/lib/i18n";
 import { resolveAuthorEntries, type AuthorEntry } from "~/lib/resolve-author-entries";
 import RelatedSection from "~/components/RelatedSection.astro";
 import PeopleInPiece from "~/components/PeopleInPiece.astro";
+import { seriesOf } from "~/lib/series";
 
 interface Props {
   entry: CollectionEntry<"primary-works">;
@@ -65,6 +66,11 @@ const bylineFallback = (fm.contributors ?? [])
 const yearStr = fm.publication?.year != null ? String(fm.publication.year) : "";
 const placeStr = fm.publication?.place || "";
 const pubLine = [placeStr, yearStr].filter(Boolean).join(" · ");
+
+// The named run this work belongs to, so a booklet reads as the Nth of a
+// series rather than as an orphan. Null for standalone works.
+const series = await seriesOf(entry);
+const seriesOrdinal = fm.publication?.series_ordinal ?? null;
 
 // Page count for the public-facing badge. We deliberately do NOT surface
 // the AI-extraction coverage (e.g. "20 of 206 rendered") here, that's
@@ -228,6 +234,17 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       )}
       {pagesNote && (
         <p class="mt-1 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">{pagesNote}</p>
+      )}
+
+      {series && (
+        <p class="mt-2 text-sm font-(family-name:--font-ui)">
+          <span class="text-(--color-fg-muted)">
+            {seriesOrdinal !== null ? `No. ${seriesOrdinal} in ` : "Part of "}
+          </span>
+          <a href={`/series/${series.id}/`} class="text-(--color-forest-700)">
+            {series.data.name}
+          </a>
+        </p>
       )}
       </div>
 

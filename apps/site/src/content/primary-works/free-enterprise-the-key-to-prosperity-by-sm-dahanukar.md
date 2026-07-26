@@ -17,6 +17,7 @@ publication:
   publisher_name: "Published by M. R. Pai for Forum of Free Enterprise, \"Sohrab House\", 235 Dr. Dadabhai Naoroji Road, Bombay 1, and printed by P. A. Raman at Inland Printers, 55 Gamdevi Road, Bombay 7."
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

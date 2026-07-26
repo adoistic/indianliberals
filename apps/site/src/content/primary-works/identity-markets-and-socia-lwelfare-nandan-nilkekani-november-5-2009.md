@@ -23,6 +23,7 @@ publication:
   place: Mumbai
   year: 2009
   series: A. D. Shroff Memorial Lecture (43rd)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

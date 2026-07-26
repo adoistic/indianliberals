@@ -28,6 +28,8 @@ publication:
   place: Bombay
   year: 1966
   series: First A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 1
 provenance:
   source: ccs_archive
   scan_quality: unknown

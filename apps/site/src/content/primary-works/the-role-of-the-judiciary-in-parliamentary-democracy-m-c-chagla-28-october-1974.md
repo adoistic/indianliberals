@@ -17,6 +17,8 @@ publication:
   place: Bombay
   year: 1974
   series: Ninth A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 9
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -27,6 +29,8 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+related_works:
+  - the-role-of-judiciary-in-parliamentary-democracy-m-c-chagla-january-4-2011
 themes:
   - judiciary
   - constitutionalism

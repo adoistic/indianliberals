@@ -42,6 +42,7 @@ publication:
   year: 1964
   edition: First Published May 1964 (Vaishak 1886)
   series: Forum of Free Enterprise pocketbook (fourth in the series)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

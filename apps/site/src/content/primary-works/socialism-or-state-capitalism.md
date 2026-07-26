@@ -24,6 +24,7 @@ publication:
   publisher_name: "Forum of Free Enterprise, Bombay"
   place: Bombay
   year: 1970
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: fair

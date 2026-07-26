@@ -40,6 +40,7 @@ publication:
   place: Bombay
   year: 1965
   edition: First Published, December 1965
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

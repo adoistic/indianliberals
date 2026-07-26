@@ -18,6 +18,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1981
+  series_id: ffe-union-budget
 provenance:
   source: ccs_archive
   scan_quality: unknown

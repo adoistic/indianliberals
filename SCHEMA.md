@@ -20,6 +20,43 @@ It is written in this order deliberately: extraction reads first, editors read s
 
 *To be drafted in Phase 0 week 1.*
 
+### Q2b. Series vs periodicals vs lectures (2026-07-26)
+
+Three surfaces group works into runs, and they must not overlap:
+
+| Surface | Keyed on | Covers |
+|---|---|---|
+| `/periodicals/` | `work_type: periodical_issue` | dated issues of a serial — Freedom First, The Indian Libertarian, Khoj, Shetkari Sanghatak |
+| `/lectures/` | `work_type: lecture` | video recordings of annual/memorial lectures |
+| `/series/` | `publication.series_id` → `series` collection | named **non-periodical print runs** — publisher booklet series, printed memorial lectures, numbered occasional papers, recurring annual analyses |
+
+**Why a third surface.** ~600 works in the archive were published as part of a
+run but are not periodical issues: the Forum of Free Enterprise booklets, the
+A. D. Shroff Memorial Lecture, the annual union-budget analyses. Before this
+they rendered as loose standalone works, because `publication.series` was
+free-text consumed by nothing but the agent API. `series_id` is a real
+`reference('series')`, so grouping is editor-controllable from Sveltia rather
+than by slug regex.
+
+**Field split on `publication`:**
+- `series` — free text exactly as printed on the item ("Sixth A. D. Shroff Memorial Lecture"). Descriptive; groups nothing.
+- `series_id` — reference into the `series` collection. A work carries its **most specific** series (an A. D. Shroff lecture gets `ad-shroff-memorial-lecture`, not the parent `ffe-booklets`); nesting is expressed by `parent_series` on the series entity.
+- `series_ordinal` — this item's own printed number, when it states one.
+
+**Two rules learned the hard way:**
+
+1. *The FFE booklets are not numbered.* The colophon on the back page carries
+   the printing date (`9/August/1962`), not a booklet number. The v1.4
+   extractor read 20 of these as series designations; they have been cleared
+   into `provenance.notes`. Set `numbered: false` for date-ordered runs.
+2. *A cited ordinal is not this work's ordinal.* Records frequently reference
+   another lecture in the run ("invoking Chagla's Ninth A. D. Shroff Memorial
+   Lecture"). And the Forum's regional centres numbered their own local runs —
+   Mukharji's 1973 booklet is "the first ... under the auspices of the Calcutta
+   Centre", not the first of the series. Where two works claim one number and
+   neither can be shown to hold it, `series_ordinal` is left unset rather than
+   guessed; the series page reports the gaps.
+
 ## Q3. Authority files (authors, publishers, organisations)
 
 **First-call position (2026-05-16):** pre-populate. Library practice — draft the authority file first (even if incomplete), have the LLM map extracted names against it, flag unmatched for human review. The alternative (let extraction propose free text, normalise later) is faster on day one and dramatically worse after the first 50 records.

@@ -17,6 +17,7 @@ publication:
   place: Bombay
   year: 1958
   series: The New Pattern of Taxation (series of talks)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

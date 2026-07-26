@@ -29,6 +29,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2007
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

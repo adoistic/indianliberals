@@ -20,6 +20,8 @@ publication:
   place: Mumbai
   year: 2011
   series: A. D. Shroff Memorial Lecture (45th)
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 45
 provenance:
   source: ccs_archive
   scan_quality: unknown

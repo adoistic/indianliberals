@@ -20,6 +20,7 @@ publication:
   place: Bombay
   year: 1981
   series: "Selections from 'The Indian Libertarian', Part II"
+  series_id: selections-from-the-indian-libertarian
 provenance:
   source: ccs_archive
   scan_quality: unknown

@@ -23,6 +23,8 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1980
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 14
 provenance:
   source: ccs_archive
   scan_quality: unknown

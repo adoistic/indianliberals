@@ -21,6 +21,8 @@ publication:
   place: Mumbai
   year: 2006
   series: Project for Economic Education
+  series_id: ilg-liberal-budget
+  series_ordinal: 3
 provenance:
   source: ccs_archive
   scan_quality: unknown

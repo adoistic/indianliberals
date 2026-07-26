@@ -20,6 +20,7 @@ publication:
   issuer_id: libertarian-publishers
   place: Bombay
   series: "Selections from 'The Indian Libertarian', Part III"
+  series_id: selections-from-the-indian-libertarian
 provenance:
   source: ccs_archive
   scan_quality: unknown

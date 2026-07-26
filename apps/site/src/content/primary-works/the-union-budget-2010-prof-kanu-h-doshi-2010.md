@@ -25,6 +25,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2010
+  series_id: ffe-union-budget
 provenance:
   source: ccs_archive
   scan_quality: unknown

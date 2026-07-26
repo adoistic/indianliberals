@@ -19,6 +19,8 @@ publication:
   publisher_name: CENTRE FOR CIVIL SOCIETY
   issuer_id: centre-for-civil-society
   series: Viewpoint 4
+  series_id: ccs-viewpoint
+  series_ordinal: 4
 provenance:
   source: ccs_archive
   scan_quality: unknown

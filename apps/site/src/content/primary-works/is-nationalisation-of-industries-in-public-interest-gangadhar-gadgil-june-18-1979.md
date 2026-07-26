@@ -27,6 +27,7 @@ publication:
     BOMBAY 400 001.'
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

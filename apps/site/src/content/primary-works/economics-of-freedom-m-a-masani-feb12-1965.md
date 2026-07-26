@@ -19,6 +19,7 @@ publication:
   publisher_name: FORUM OF FREE ENTERPRISE, 235, DR. DADABHAI NAOROJI ROAD, BOMBAY-1
   issuer_id: forum-of-free-enterprise
   place: Bombay
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

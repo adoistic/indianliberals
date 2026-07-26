@@ -18,6 +18,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   series: Forum of Free Enterprise leaflet — New No. 86 / Old No. 20
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

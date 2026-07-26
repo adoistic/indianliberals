@@ -18,6 +18,8 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 1997
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 32
 provenance:
   source: ccs_archive
   scan_quality: unknown
@@ -28,6 +30,8 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+related_works:
+  - corporate-governance-in-india-k-b-dadiseth
 themes:
   - governance
   - private-enterprise

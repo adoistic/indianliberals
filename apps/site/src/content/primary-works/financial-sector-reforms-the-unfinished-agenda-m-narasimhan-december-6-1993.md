@@ -18,6 +18,7 @@ publication:
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion\", 235, Dr. D. N. Road, BOMBAY 400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by S. V. Limaye at the India Printing Works, India Printing House, 42, G.D. Ambekar Marg, Wadala, Bombay 400 031."
   place: Bombay
   year: 1993
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

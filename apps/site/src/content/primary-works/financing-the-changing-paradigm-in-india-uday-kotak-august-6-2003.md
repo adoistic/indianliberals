@@ -18,6 +18,7 @@ publication:
   place: Mumbai
   year: 2003
   series: A. D. Shroff Memorial Trust Annual Public Lecture
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

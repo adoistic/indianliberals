@@ -1,0 +1,82 @@
+[
+  {
+    "id": "accountability-in-public-sevice-n-vittal-february-4-2011",
+    "member": false,
+    "series_id": null,
+    "ordinal": null,
+    "evidence": "invoking M. C. Chagla's Ninth A. D. Shroff Memorial Lecture on the judiciary as a long-standing Forum touchstone",
+    "confidence": "high"
+  },
+  {
+    "id": "emerging-challenges-to-civil-society",
+    "member": true,
+    "series_id": "nani-palkhivala-memorial-lecture",
+    "ordinal": 6,
+    "evidence": "This pamphlet prints the Sixth Nani A. Palkhivala Memorial Lecture",
+    "confidence": "high"
+  },
+  {
+    "id": "free-but-fettered-the-illiterate-citizen-dr-c-d-deshmukh-november-12-1970",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 5,
+    "evidence": "Delivered on 27 October 1970 as the Fifth A. D. Shroff Memorial Lecture",
+    "confidence": "high"
+  },
+  {
+    "id": "inflation-in-brazil-the-principles-of-monetary-correction-roberto-de-oliveira-campos-15-october-1975",
+    "member": false,
+    "series_id": null,
+    "ordinal": null,
+    "evidence": "citing Milton Friedman's IEA Occasional Paper 41 as a contemporary reference",
+    "confidence": "high"
+  },
+  {
+    "id": "liberal-budget-building-equitable-society",
+    "member": true,
+    "series_id": "ilg-liberal-budget",
+    "ordinal": null,
+    "evidence": "The Liberal Budget: Building An Equitable Society presents a model fiscal framework",
+    "confidence": "high"
+  },
+  {
+    "id": "peter-bauer-a-true-friend-of-the-worlds-poor-ccs-viewpoint-4",
+    "member": true,
+    "series_id": "ccs-viewpoint",
+    "ordinal": 4,
+    "evidence": "In this Centre for Civil Society 'Viewpoint 4' essay, Sauvik Chakraverti writes",
+    "confidence": "high"
+  },
+  {
+    "id": "property-rights-k-subba-rao-dec10-1968",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 3,
+    "evidence": "K. Subba Rao uses the Third A. D. Shroff Memorial Lecture",
+    "confidence": "high"
+  },
+  {
+    "id": "the-bombay-plan-and-other-essays-a-d-shroff-1968",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 2,
+    "evidence": "collects the Second A. D. Shroff Memorial Lectures, delivered on 27 October 1967",
+    "confidence": "high"
+  },
+  {
+    "id": "the-indian-libertarian-jan-1971-2",
+    "member": true,
+    "series_id": "selections-from-the-indian-libertarian",
+    "ordinal": null,
+    "evidence": "Part II of 'Selections from The Indian Libertarian', a thematic anthology",
+    "confidence": "high"
+  },
+  {
+    "id": "the-role-of-judiciary-in-parliamentary-democracy-m-c-chagla-january-4-2011",
+    "member": true,
+    "series_id": "ad-shroff-memorial-lecture",
+    "ordinal": 9,
+    "evidence": "Justice M. C. Chagla's ninth A. D. Shroff Memorial Lecture, delivered in Bombay on 28th October 1974",
+    "confidence": "high"
+  }
+]

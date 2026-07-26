@@ -19,6 +19,7 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1982
+  series_id: ad-shroff-memorial-lecture
 provenance:
   source: ccs_archive
   scan_quality: unknown

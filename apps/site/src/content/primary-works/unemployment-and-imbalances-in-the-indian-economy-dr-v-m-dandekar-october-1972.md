@@ -17,6 +17,8 @@ publication:
   place: Bombay
   year: 1972
   series: Seventh A. D. Shroff Memorial Lecture
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 7
 provenance:
   source: ccs_archive
   scan_quality: unknown

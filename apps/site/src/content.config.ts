@@ -346,7 +346,16 @@ const primaryWorks = defineCollection({
       place: z.string().optional(),
       year: z.number().int().nullable().optional(),
       edition: z.string().optional(),
+      // Free-text label exactly as printed on the item ("Sixth A. D. Shroff
+      // Memorial Lecture"). Descriptive only — it does not group anything.
       series: z.string().optional(),
+      // Membership in a named non-periodical run. This is what /series/ groups
+      // on. A work carries its MOST SPECIFIC series: an A. D. Shroff lecture
+      // gets `ad-shroff-memorial-lecture`, not the parent `ffe-booklets`.
+      series_id: reference('series').optional(),
+      // This item's own number within the run, when it is numbered. Null for
+      // date-ordered runs, and for items whose number was never recorded.
+      series_ordinal: z.number().int().positive().optional(),
       language: z.string().default('en'),
     }),
     physical: z
@@ -608,6 +617,47 @@ const themes = defineCollection({
   }),
 });
 
+// SERIES — named non-periodical runs: publisher booklet series, annual memorial
+// lectures, numbered occasional-paper runs, recurring annual analyses.
+//
+// This is the third series surface, alongside /periodicals/ (dated issues of a
+// serial, keyed off work_type: "periodical_issue") and /lectures/ (video
+// recordings, keyed off work_type: "lecture"). A print series is none of those:
+// each item is a standalone document that happens to be the Nth in a run. Works
+// join a series through `publication.series_id`; `publication.series` stays as
+// the free-text label printed on the item itself.
+
+const series = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/series' }),
+  schema: z.object({
+    id: z.string(),
+    name: z.string(),
+    // Shown under the name; the run's own subtitle or alternate designation.
+    native: z.string().optional(),
+    blurb: z.string(),
+    // What kind of run this is — drives grouping on the /series/ index.
+    kind: z.enum([
+      'booklet_series', // a publisher's numbered/unnumbered booklet run
+      'lecture_series', // an annual or memorial named lecture
+      'occasional_papers', // a numbered occasional-paper run
+      'annual_analysis', // a recurring yearly commentary (e.g. the union budget)
+      'multi_part_work', // a work issued in parts/volumes
+    ]),
+    publisher_id: z.string().optional(),
+    issuer_id: z.string().optional(),
+    // Nesting: the A. D. Shroff Memorial Lecture booklets are themselves part of
+    // the wider Forum of Free Enterprise run.
+    parent_series: z.string().optional(),
+    // True when items carry their own printed number (so we can render "No. 12"
+    // and flag gaps). False for date-ordered runs like the FFE booklets, whose
+    // colophon carries a date rather than a serial number.
+    numbered: z.boolean().default(false),
+    ai: aiProvenance,
+    needs_review: z.boolean().default(true),
+    draft: z.boolean().default(false),
+  }),
+});
+
 // PERIOD-WINDOWS — works grouped by decade or named era (Pass 4).
 // Editorial context + key debates + key works for each period.
 
@@ -719,6 +769,7 @@ export const collections = {
   opinions,
   'primary-works': primaryWorks,
   periodicals,
+  series,
   'theprint-mirror': theprintMirror,
   // Synthesis layer outputs (populated by Phase 4):
   themes,

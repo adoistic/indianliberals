@@ -23,6 +23,7 @@ publication:
   place: Mumbai
   year: 1998
   edition: Reprint (originally published July 1991)
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

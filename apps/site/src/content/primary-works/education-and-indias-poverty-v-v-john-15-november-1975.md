@@ -20,6 +20,8 @@ publication:
   place: Bombay
   year: 1975
   series: A. D. Shroff Memorial Lecture (tenth)
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 10
 provenance:
   source: ccs_archive
   scan_quality: unknown

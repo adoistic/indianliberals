@@ -18,10 +18,12 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Mumbai
   year: 2011
-  series: 4/January/2011
+  series_id: ad-shroff-memorial-lecture
+  series_ordinal: 9
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: 4/January/2011. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/the-role-of-judiciary-in-parliamentary-democracy-m-c-chagla-january-4-2011.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-role-of-judiciary-in-parliamentary-democracy-m-c-chagla-january-4-2011.webp"
 rights:
@@ -29,6 +31,8 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+related_works:
+  - the-role-of-the-judiciary-in-parliamentary-democracy-m-c-chagla-28-october-1974
 themes:
   - judiciary
   - rule-of-law

@@ -89,6 +89,17 @@ export async function buildWorkCard(w: CollectionEntry<'primary-works'>) {
     year: d.publication?.year ?? null,
     language: d.publication?.language ?? 'en',
     ...(d.publication?.series ? { series: d.publication.series } : {}),
+    ...(d.publication?.series_id
+      ? {
+          series_id:
+            typeof d.publication.series_id === 'string'
+              ? d.publication.series_id
+              : d.publication.series_id.id,
+        }
+      : {}),
+    ...(d.publication?.series_ordinal != null
+      ? { series_ordinal: d.publication.series_ordinal }
+      : {}),
     themes: d.themes ?? [],
     ...(d.pdf_url ? { pdf_url: d.pdf_url } : {}),
     ...(d.cover_image ? { cover_image: d.cover_image } : {}),

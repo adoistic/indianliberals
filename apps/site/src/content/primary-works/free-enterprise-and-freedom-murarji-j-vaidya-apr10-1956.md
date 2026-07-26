@@ -19,6 +19,7 @@ publication:
   place: Bombay
   year: 1956
   series: Forum of Free Enterprise Pamphlet No. 2
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown

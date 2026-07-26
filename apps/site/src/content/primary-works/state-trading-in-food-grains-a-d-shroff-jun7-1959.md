@@ -34,10 +34,11 @@ publication:
   issuer_id: forum-of-free-enterprise
   place: Bombay
   year: 1959
-  series: 7/Je/59
+  series_id: ffe-booklets
 provenance:
   source: ccs_archive
   scan_quality: unknown
+  notes: "Colophon date as printed: 7/Je/59. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/state-trading-in-food-grains-a-d-shroff-jun7-1959.pdf
 cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/state-trading-in-food-grains-a-d-shroff-jun7-1959.webp"
 rights:

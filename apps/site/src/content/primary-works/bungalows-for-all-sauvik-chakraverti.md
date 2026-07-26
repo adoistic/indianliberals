@@ -16,6 +16,7 @@ publication:
   issuer_id: liberty-institute
   place: New Delhi
   series: Liberty Institute Occasional Paper
+  series_id: liberty-institute-occasional-paper
 provenance:
   source: ccs_archive
   scan_quality: fair

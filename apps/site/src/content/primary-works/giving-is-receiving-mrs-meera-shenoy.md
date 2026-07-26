@@ -22,6 +22,8 @@ publication:
   publisher_name: Forum of Free Enterprise
   issuer_id: forum-of-free-enterprise
   year: 2018
+  series_id: bhogilal-leherchand-memorial-lecture
+  series_ordinal: 30
 provenance:
   source: ccs_archive
   scan_quality: unknown
