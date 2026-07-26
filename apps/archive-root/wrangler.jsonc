@@ -1,0 +1,22 @@
+// archive.indianliberals.in — bucket serving + a front page at "/".
+//
+// Deploy for verification first:   npx wrangler deploy            (workers.dev)
+// Then attach the hostname by adding the `routes` block below and redeploying,
+// after removing archive.indianliberals.in as an R2 custom domain in the
+// dashboard (a hostname can only belong to one thing).
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "indianliberals-archive-root",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-01",
+  "workers_dev": true,
+  "r2_buckets": [
+    {
+      "binding": "ARCHIVE",
+      "bucket_name": "indianliberals-archive"
+    }
+  ],
+  "routes": [
+    { "pattern": "archive.indianliberals.in/*", "zone_name": "indianliberals.in" }
+  ]
+}
