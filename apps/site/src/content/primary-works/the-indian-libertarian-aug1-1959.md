@@ -72,6 +72,24 @@ physical:
 
 This August 1, 1959 issue of The Indian Libertarian (Vol. VII No. 13) is built around the Tibet crisis, the launch of the Swatantra Party, and a sustained critique of Nehruvian planning. The unsigned editorial casts India's foreign-policy options on Tibet and Red China as a binary between Western-aligned resistance and de facto satellite status. M. A. Venkata Rao's reading of C. Rajagopalachari's open letter to the Prime Minister supplies the issue's economic spine, attacking heavy-industry-first planning and confiscatory taxation. M. N. Tholal urges the new Swatantra Party to seize its opening, and T. L. Kantam supplies a long survey of Communist China's foreign policy from 1949 onward. A Delhi Letter on Kerala and the Constitution, a wide-ranging News Digest, and a 'Did You Know' feature by Scio fill out the issue.
 
+## Key points
+
+- The unsigned editorial frames India's Tibet policy as a stark choice between recognising and resisting Red Chinese imperialism alongside Western democracies or accepting de facto satellite status.
+
+- The editorial notes Delhi has never let the Dalai Lama exercise any governmental function in exile and has refused to raise the Tibet question again at the United Nations.
+
+- M. A. Venkata Rao reads C. Rajagopalachari's open letter to Nehru, published in the Hindustan Times, as the founding economic statement of the new Swatantra Party.
+
+- Venkata Rao argues the Third Plan's reliance on confiscatory taxation and forced loans to raise thousands of crores is incompatible with democratic procedure, and that its heavy-industry bias repeats Soviet planning errors.
+
+- M. N. Tholal urges the newly launched Swatantra Party not to squander its moment, crediting Rajagopalachari's prestige while diagnosing why Acharya Kripalani's KMPP and Subhas Bose's earlier breakaways failed to dent Congress dominance.
+
+- Tholal treats the succession question opened by Rafi Ahmed Kidwai's death and Pratap Singh Kairon's Punjab as case studies in Congress organisational politics.
+
+- T. L. Kantam traces Communist China's foreign policy from the 1949 founding of the People's Republic through the deterioration of Sino-Indian relations after the Tibet crisis.
+
+- The "Behind the News" column reads the Tyagi Committee's judicial-reform proposals, a Communist-allied turn in Indonesian politics, and American military aid to Pakistan as instances of India's reactive and ideologically muddled foreign policy.
+
 ## Essays
 
 ### EDITORIAL

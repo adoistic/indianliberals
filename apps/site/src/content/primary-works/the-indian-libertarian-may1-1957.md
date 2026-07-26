@@ -76,6 +76,22 @@ physical:
 
 This 1 May 1957 issue of The Indian Libertarian (Vol. V No. 5), a Bombay fortnightly edited by Miss Kusum Lotwala and published from Arya Bhuvan, Sandhurst Road, surveys Cold War foreign policy and domestic liberalism from a free-economy, anti-Communist standpoint. The editorial weighs India's posture toward Egypt, Israel and the Middle East and the politics of Kashmir; M. A. Venkata Rao distinguishes 'true' from 'false' land reform; an unsigned piece dismisses the Praja Socialist Party as 'a boneless wonder' for allying with Communists; James Kielty sketches the basis of a libertarian society; and articles on the American arming of Pakistan, Israel, Tito's break with Moscow, and India's 'deceptive' foreign policy fill out the issue. A John Foster Dulles text ('Waging Peace') is reprinted, and the issue advertises the Libertarian Social Institute and its Libertarian Quarterly.
 
+## Key points
+
+- M. A. Venkata Rao distinguishes "true" land reform, which secures property rights and productive cultivation, from a socialist "false" reform that dispossesses owners and installs what he calls a new tyranny.
+
+- An unsigned commentary reprinted from the Times of India ridicules the Praja Socialist Party as "a boneless wonder" for cooperating with Communists in some states while opposing them elsewhere.
+
+- The Praja Socialist Party commentary accuses the party of accommodating communal and reactionary forces, reading its shifting alliances as evidence of an absence of principle.
+
+- James Kielty argues libertarianism is not utopianism but rests on general acceptance of shared responsibility and a refusal to hand power to a minority.
+
+- Kielty accepts reduced "stability" as the necessary price of a genuinely free society, distinguishing his conception of libertarianism sharply from utopian thought.
+
+- Writing under the pseudonym "Kamal," a contributor's "Motives Analysed" piece examines American arming of Pakistan as a destabilising Cold War manoeuvre that endangers India.
+
+- "Kamal" questions the strategic rationale offered for American arms to Pakistan, arguing that subcontinental military pacts serve American rather than regional interests.
+
 ## Essays
 
 ### Land Reform—True & False

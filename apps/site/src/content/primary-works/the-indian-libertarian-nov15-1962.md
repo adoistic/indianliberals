@@ -66,6 +66,22 @@ physical:
 
 This issue of The Indian Libertarian (Vol. X No. 16, 15 November 1962), edited by D. M. Kulkarni, appears in the immediate aftermath of the Chinese attack on India's northern frontier, and the rendered pages are dominated by the Sino-Indian War and the crisis it forces upon Nehru's non-alignment policy. The editorial argues for a 'sure road to world peace', while M. A. Venkata Rao draws the demands and lessons of the war and M. N. Tholal asks whether self-preservation now requires abandoning non-alignment. A. Ranganathan contributes a literary-political essay on Tagore's humanistic approach to Indian nationalism, and a Delhi Letter ('Exit, Mr. Menon!') marks the political fall of Krishna Menon as Defence Minister.
 
+## Key points
+
+- This issue of The Indian Libertarian, Vol. X No. 16, 15 November 1962, edited by D. M. Kulkarni, appears in the immediate aftermath of the Chinese attack on India's northern frontier.
+
+- The editorial, "The Sure Road To World Peace," argues that lasting peace cannot rest on appeasement or unilateral disarmament and criticises the illusions of a non-aligned posture that left India unprepared.
+
+- M. A. Venkata Rao's "The Demands And Lessons Of War" reads the Chinese attack on the NEFA and Ladakh frontiers as a decisive repudiation of India's trust in Communist China's professions of friendship.
+
+- M. N. Tholal's "Self-Preservation Or Non-Alignment?" weighs the record of non-alignment against the fact of Chinese aggression, drawing on press commentary to argue self-preservation must now take priority.
+
+- A. Ranganathan's "Tagore's Humanistic Approach To Indian Nationalism" sets Rabindranath Tagore's universalist humanism against more militant or ideological conceptions of the nation.
+
+- Ranganathan's essay on Tagore closes by invoking Rajagopalachari's own commentary on the same theme, published in the pages of the journal Swarajya.
+
+- A Delhi Letter titled "Exit, Mr. Menon!" marks the political fall of Krishna Menon as Defence Minister in the aftermath of the war.
+
 ## Essays
 
 ### Editorial

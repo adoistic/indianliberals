@@ -73,6 +73,22 @@ missing_metadata_flags:
 
 This 15 September 1959 issue of The Indian Libertarian (Vol. VII No. 16), the Bombay fortnightly edited by Kusum Lotvala, opens in the rendered pages with an editorial on the Nehru-Ayub Khan meeting at Palam, weighing the prospects of an India-Pakistan settlement against long-standing distrust. The bylined articles in the rendered pages press the journal's liberal, anti-statist and anti-communist line: M. A. Venkata Rao's 'In Place of Panchsheela' calls for a sterner alternative to the discredited Panchsheel doctrine after Chinese aggression, and M. N. Thölal's 'Nehru Undermining India's Freedom' argues that Nehru's policies erode India's liberty from within. The bound Economic Supplement leads with Prof. G. N. Lawande's 'Co-operative Farming: The Path To Serfdom,' an attack on collectivised agriculture, and continues with G. T. Olarenshaw's 'Finance is not Money' and P. Spratt's 'Diamat' (on dialectical materialism). Standing departments (Delhi Letter, Book Reviews, News Digest, Letter to the Editor) round out the issue.
 
+## Key points
+
+- The 15 September 1959 issue of The Indian Libertarian (Vol. VII, No. 16), edited by Kusum Lotvala, opens with an editorial on the Nehru-Ayub Khan meeting at Palam aerodrome, which produced goodwill despite lacking a formal agenda.
+
+- The editorial weighs the prospects of a durable India-Pakistan settlement against the two countries' long hostility and the mounting Chinese threat on the Himalayan frontier.
+
+- M. A. Venkata Rao's 'In Place of Panchsheela' declares the doctrine of peaceful coexistence discredited by Chinese aggression in Ladakh and Tibet, calling for India to adopt a realistic defence policy in its place.
+
+- M. N. Tholal's 'Nehru Undermining India's Freedom' locates the gravest threat to Indian liberty not in external enemies but in the government's own drift toward centralised, statist economic and political control.
+
+- The bound Economic Supplement leads with Prof. G. N. Lawande's 'Co-operative Farming: The Path To Serfdom', which argues that pooling land under collectivised farming destroys peasant incentive and independence without solving the food problem.
+
+- Lawande reads the Nagpur resolution on cooperative farming as a coercive, anti-liberal turn in agricultural policy, extending the same road-to-serfdom argument he applies elsewhere to the welfare state.
+
+- The supplement also carries G. T. Olarenshaw's 'Finance is not Money' and P. Spratt's 'Diamat', a piece on dialectical materialism, rounding out the issue's economic and philosophical commentary.
+
 ## Essays
 
 ### Editorial: Nehru Ayub Khan Meeting

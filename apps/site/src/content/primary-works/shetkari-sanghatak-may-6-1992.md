@@ -63,6 +63,26 @@ missing_metadata_flags:
 
 This 6 May 1992 issue (Year 9, No. 3) of Shetkari Sanghatak, the Marathi fortnightly of Sharad Joshi's Shetkari Sanghatana farmers' movement, gathers a mix of organisational, economic, and gender-reform writing aimed at Maharashtra's farming readership. The front page carries a draft constitution (घटनेचा मसुदा) restructuring the Sanghatana's membership and office-bearer rules, alongside reportage on the movement's executive meeting. The economic centrepiece is a long critique of the state cotton monopoly-procurement scheme (एकाधिकार कापूस खरेदी योजना), arguing that its seven defects make its closure welcome to farmers; a satirical 'If I were Finance Minister' piece reinforces the free-market, anti-state-control line. A large share of the issue documents the movement's 'Lakshmi Mukti' women's-empowerment campaign — first-person testimonies by rural women on receiving land in their own names, a 'Sitasheti' agronomy/correspondence column, and a symposium ('What did Lakshmi Mukti give me?'). Across the rendered pages the through-line is the Sanghatana's signature fusion of agrarian free-market economics with women's land-rights reform.
 
+## Key points
+
+- This 6 May 1992 issue, Year 9, No. 3, of Shetkari Sanghatak carries a draft constitution for the Shetkari Sanghatana that opens membership to all farmers regardless of caste, religion, language, or province.
+
+- The draft constitution defines the powers of conventions, regional and district representation, and the election and removal procedures for the executive committee and president, with a notice of a 15 May meeting at Nashik.
+
+- Shamsundar Baror's satirical column 'If I were Finance Minister' calls for removing curbs on agricultural trade and produce pricing, echoing the Sanghatana's broader free-market economics.
+
+- Shri Wa. Darade's essay argues that Maharashtra's monopoly cotton-procurement scheme is beset by seven defects, including delayed and below-market payments and bureaucratic mishandling, so that its closure is a relief rather than a betrayal.
+
+- Darade advocates an open, competitive market with prompt payment as the alternative to state monopoly procurement, citing scheme deficits and reform-committee recommendations as supporting evidence.
+
+- Ku. Avantika Patil's testimony recounts a 15 March 1992 Lakshmi Mukti event at Udgir, organised by the Shetkari Mahila Aghadi, at which women received land titled in their own names.
+
+- Patil reflects on the dignity, security, and changed standing that land ownership brings to rural women, touching on dowry, labour, and caste along the way.
+
+- The 'Sitasheti' column by Veena Lokankar combines practical agronomy, including guidance on preparing composted soil timed to the monsoon, with a section of reader correspondence.
+
+- A report announces a 'Majghar Sheti' homestead-farming exhibition with four display categories: fresh produce, processed goods, preserved and pickled items, and dried value-added items.
+
 ## Essays
 
 ### शेतकरी संघटना — घटनेचा मसुदा

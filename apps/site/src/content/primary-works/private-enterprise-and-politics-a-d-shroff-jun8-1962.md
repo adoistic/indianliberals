@@ -91,6 +91,26 @@ missing_metadata_flags:
 
 This 14-page booklet collects four addresses delivered at a symposium organised by the Forum of Free Enterprise in Bombay on 23 January 1962, prompted by debate during the February 1962 General Elections over the place of private enterprise in Indian politics. A. D. Shroff, President of the Forum, presided and opened by urging businessmen to shed their 'moral cowardice' and engage politics directly. He is joined by industrialist Lalchand Hirachand (President, Maharashtra Chamber of Commerce), journalist Frank Moraes (Editor-in-Chief, Indian Express), and educationist Dr. A. R. Wadia, M.P. (Director, Tata School of Social Sciences, Bombay). Across the four talks the contributors converge on a shared thesis: that the post-Independence expansion of state activity has made political abstention impossible for private industry, that the public-sector model is producing waste and unfair competition rather than virtue, and that defending free enterprise is inseparable from defending democracy itself.
 
+## Key points
+
+- The booklet collects four addresses from a 23 January 1962 Forum of Free Enterprise symposium in Bombay, held amid General Election debate over private enterprise's place in politics.
+
+- A. D. Shroff, presiding, urges businessmen to shed their moral cowardice and recalls the Indian Merchants' Chamber's political activism during the freedom struggle.
+
+- Shroff warns that automatic deference to the ruling party is the method of Fascist Mussolini, and binds the cause of business to the survival of democracy itself.
+
+- Lalchand Hirachand cites the State Trading Corporation's cement profiteering, flagged by Parliament's Estimates Committee, to argue that public enterprises hold no monopoly on virtue over private ones.
+
+- Hirachand argues profit-making, once dismissed as anti-social, is now widely recognised as absolutely essential for the development of Indian industry and trade.
+
+- Frank Moraes contends government's primary function is to secure law, order and economic and social justice rather than to substitute itself for private initiative.
+
+- Moraes argues India is a developing, not underdeveloped, country that now needs the stimulus of private enterprise, faulting the Five-Year Plans for producing a wasteful, top-heavy state apparatus.
+
+- Moraes criticises Indian and Asian historians for instinctively equating industrialisation with capitalism and colonialism, calling it a case of confused and arrested thinking.
+
+- Dr. A. R. Wadia, M.P., Director of the Tata School of Social Sciences, closes the symposium by arguing that private enterprise should take an active interest in politics.
+
 ## Essays
 
 ### BUSINESS MEN MUST PICK UP COURAGE

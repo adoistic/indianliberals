@@ -88,6 +88,24 @@ missing_metadata_flags:
 
 In the rendered pages, this 1965 Forum of Free Enterprise pocketbook collects talks from a Bombay symposium on how the rapid, repeated amendment of Indian commercial law was affecting business and industry. The front matter rendered here — a foreword by N. A. Palkhivala, an introduction by A. D. Shroff in his capacity as Forum President, and the contents page — frames the project as a complaint against legislative excess: laws so frequent, so complex, and so carelessly drafted that compliance has become near-impossible for laymen and exhausting for experts. The contents page rendered here lists six contributions covering income-tax computation (S. P. Mehta), mercantile law (Khorshed D. P. Madon), company law (H. B. Dhondy), foreign exchange (S. R. Vakil), sales tax (N. C. Mehta), and corporate taxes (S. V. Ghatalia). In the rendered pages, only S. P. Mehta's opening essay on the computation of business profits under the Income-tax Act is substantively visible, and even there the chunk stops one printed page short of its end. The argumentative centre observable in the rendered pages is the rule-of-law claim — Shroff's insistence that good and simple laws are a precondition for economic functioning, and Palkhivala's catalogue of defects (uncertainty, complexity, injustice, careless drafting) — applied to the specific irritants the contributors knew best as practising advocates and chartered accountants.
 
+## Key points
+
+- This 1965 Forum of Free Enterprise pocketbook collects talks from a Bombay symposium on how frequent, complex amendment of Indian commercial law was burdening business and industry.
+
+- N. A. Palkhivala supplies the foreword and A. D. Shroff, writing as Forum President, an introduction framing the project as a complaint against careless and excessive legislative drafting.
+
+- The contents list six contributions: S. P. Mehta on income-tax computation, Khorshed D. P. Madon on mercantile law, H. B. Dhondy on company law, S. R. Vakil on foreign exchange, N. C. Mehta on sales tax, and S. V. Ghatalia on corporate taxes.
+
+- Only S. P. Mehta's opening essay on computing business profits under the Income-tax Act survives in the rendered material, breaking off one printed page short of its end.
+
+- Mehta cites the Supreme Court's Krishna Menon ruling, in which even a Vedanta philosopher's voluntary receipts from a disciple were taxed as vocation income, to show how elastically 'business' is defined.
+
+- He criticises the Income-Tax Officer's latitude to reject account books on flimsy grounds and the routine disallowance of pre-commencement expenses and payments to relatives of controlling shareholders.
+
+- Mehta treats the Supreme Court's 2-1 ruling in Pingle's Industries and Abdul Kayoom, holding royalty payments to be non-deductible capital expenditure, as commercially unrealistic and ripe for legislative reversal.
+
+- He resists extending the Haji Aziz & Bros and Abdul Shakoor precedents, arguing a bona fide payment should not be disallowed merely because an incidental law was breached.
+
 ## Essays
 
 ### Few aspects of computation of Business Profits under Income-tax Act

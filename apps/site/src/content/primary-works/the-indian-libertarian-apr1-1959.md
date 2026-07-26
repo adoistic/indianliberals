@@ -91,6 +91,24 @@ missing_metadata_flags:
 
 This 1 April 1959 number of The Indian Libertarian (Vol. VII, No. 1) — the Bombay-based fortnightly that stands, as its masthead declares, for free enterprise and libertarian democracy — opens with a multi-pronged editorial against the newly-signed United States–Pakistan military pact, the renewed Chinese aggression in Tibet that has 'ignored Panchsheel again', and the proposed transfer of Berubari to East Pakistan, which a unanimous West Bengal Legislature has condemned. A 'Behind the News' column scrutinises Colonel Nasser's apparent retreat in the face of Iraqi Communist activity and the parallel rumbling in Tibet against Mao Tse-tung's regime. M. A. Venkata Rao argues at length for a new all-India opposition party built on decentralisation, free enterprise, and Gandhian social justice; J. K. Dhairyawan attacks 'planning' as a Marxist euphemism for bungling, chaos, and confusion; M. N. Tholal opens a long historical examination of the genesis of Pakistan, drawing chiefly on Maulana Azad's India Wins Her Freedom; and the satirical column 'Pedlar's Pack' takes its swipes at the international scene. The inserted four-page Indian Libertarian Supplement carries Prof. G. N. Lawande's critique of the Third Five Year Plan as a utopian measure and Adib's defence of the private sector against Mr. Nehru's expanding public sector. The issue closes with a Reader's Miscellany of aphorisms, the 'Did You Know' illustrated factoids by Scio, and the opening instalment of K. Kumara Sekhar's reflection on 'Socialism and Mr. Nehru'. Across its contributions the issue presents a remarkably unified classical-liberal challenge to Nehruvian planning, to the Soviet bloc abroad, and to Pakistan's new alignment with American military power on India's borders.
 
+## Key points
+
+- The lead editorial condemns the newly signed United States-Pakistan military pact as folding Pakistan into the American defence ring around Soviet Russia rather than offering genuine local protection.
+
+- The editorial also protests renewed Chinese aggression in Tibet as proof that Panchsheel has been ignored again, and backs the West Bengal Legislature's unanimous rejection of the Berubari transfer to East Pakistan.
+
+- M. A. Venkata Rao argues for a new all-India opposition party built on democratic decentralisation, free-enterprise economics, and Gandhian social justice, warning that without one politics will narrow to Congress and the Communists.
+
+- J. K. Dhairyawan attacks Nehruvian economic 'planning' as nothing more than a Marxist euphemism for bureaucratic bungling, chaos, and confusion in the management of the economy.
+
+- M. N. Tholal opens a long historical examination of the genesis of Pakistan, drawing chiefly on Maulana Azad's memoir India Wins Her Freedom.
+
+- The inserted Indian Libertarian Supplement carries Prof. G. N. Lawande's critique of the Third Five Year Plan as a utopian measure and Adib's defence of the private sector against Nehru's expanding public sector.
+
+- A 'Behind the News' column reads Colonel Nasser's apparent retreat as a response to Iraqi Communist activity, alongside parallel unrest in Tibet against Mao Tse-tung's regime.
+
+- The issue closes with a Reader's Miscellany of aphorisms, illustrated 'Did You Know' factoids by Scio, and the opening instalment of K. Kumara Sekhar's reflection on 'Socialism and Mr. Nehru'.
+
 ## Essays
 
 ### Editorial

@@ -62,6 +62,22 @@ missing_metadata_flags:
 
 The 15 October 1958 issue of The Indian Libertarian (Vol. VI No. 15), edited by Miss Kusum Lotwala for the Libertarian Social Institute, Bombay, ranges across South Asian security, the politics of the region, and a free-market critique of planning. Its unsigned editorial treats 'Pakistan — The Important Subject,' while M. A. Venkata Rao opens the issue with a long essay on 'Economic Philosophy' surveying India's economic crisis, industrialisation, and agricultural reform. A piece signed 'Vandsasa' analyses the Pakistan Navy; T. L. Kantam reports on the army's seizure of power in Burma in 'Burma in Travail'; and a reprinted extract, 'God's Work for Nehru,' attacks Communism in Kerala. A several-page 'Indian Liberal Supplement' carries free-economy material, including H. M. Pai on 'Keynes and Free Economy' and 'G. N. L.' on Wilhelm Roepke and European economic integration, and Acharya Kripalani argues that the same policy-makers who brought India to the brink of bankruptcy will repeat their errors. The masthead slogan reads 'We Stand For Free Economy And Libertarian Democracy.'
 
+## Key points
+
+- The unsigned editorial addresses "Pakistan — The Important Subject" amid the issue's broader focus on South Asian security and regional politics.
+
+- M. A. Venkata Rao's "Economic Philosophy" diagnoses India's economic crisis through the structure of the Five-Year Plans, weighing industrialisation against agricultural reform and the economy's dependence on the monsoon and food-population balances.
+
+- A contributor writing under the pseudonym 'Vandsasa' analyses the strength and strategic posture of the Pakistan Navy as part of the issue's regional-security coverage.
+
+- T. L. Kantam's "Burma in Travail: Civil Authority Surrendered to Military" reports the Burmese army's assumption of power under General Ne Win, traces the nationalism and instability that preceded the takeover, and presents the episode as a cautionary case for the wider region.
+
+- A reprinted extract, titled "God's Work for Nehru", is included in the issue to attack what it describes as the growing influence of Communism in the state of Kerala.
+
+- The Indian Liberal Supplement carries H. M. Pai on "Keynes and Free Economy" and a piece signed 'G. N. L.' on Wilhelm Roepke and European economic integration.
+
+- Acharya Kripalani argues in the same supplement that the policymakers who brought India to the brink of bankruptcy will repeat their errors if left unchecked.
+
 ## Essays
 
 ### Economic Philosophy

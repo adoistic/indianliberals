@@ -109,6 +109,24 @@ A short pamphlet issued by the Forum of Free Enterprise (Bombay, 1961) collectin
 
 The rendered pages cover the cover, an epigraph from Eugene Black of the World Bank, the title page, the two-page introduction, Shroff's essay in full, and the opening seven printed pages of Vaidya's essay. Gheevala's essay and the appendices are not in this chunk. The booklet reads as an argumentative intervention: it accepts the case for planning in an underdeveloped economy but insists planning need not be monolithic, totalitarian, or hostile to private enterprise; instead the State should act as a 'catalyst' that builds infrastructure, fosters competition, and respects private property, while State Undertakings should be justified case by case on grounds of efficiency, accountability and consumer welfare rather than ideological compulsion.
 
+## Key points
+
+- A. D. Shroff argues that private enterprise is not opposed to planning, noting the 1944 Bombay Plan was drafted by industrialists and that under the First Five-Year Plan the private sector over-fulfilled its investment targets while the public sector fell about forty percent short.
+
+- Shroff contends the Second Five-Year Plan imported Soviet-style totalitarian planning techniques, including all-comprehensive central direction and a heavy-industry bias that starved agriculture, structurally incompatible with a pluralistic Indian democracy.
+
+- The essay's proposed alternative, "planning for free enterprise," calls on the State to build infrastructure, foster competition rather than monopoly, and act as a catalyst instead of a substitute for private and joint-stock enterprise.
+
+- Murarji J. Vaidya argues that India's "public sector" is not genuinely public, surveying eight varieties of State Undertaking catalogued by a Congress Parliamentary Party sub-committee, from statutory corporations to port trusts.
+
+- He points to the diversion of ordnance factories into truck production, despite idle private automobile capacity, as a cause of arms shortages just as Chinese "Communist imperialism" threatens India's frontier.
+
+- Six criteria, in Vaidya's account, must justify any State Undertaking: that it be productive rather than ideological, free of monopoly power over consumers, and run efficiently and economically.
+
+- Prof. C. L. Gheevala's contribution subjects the concept of socialism to a searching analysis with comparative reference to socialist experience elsewhere.
+
+- The unsigned introduction frames the booklet's central premise that a democratic society and a socialist society are mutually contradictory concepts, previewing all three essays in turn.
+
 ## Essays
 
 ### Socialist Planning vs. Planning for Free Enterprise & Prosperity

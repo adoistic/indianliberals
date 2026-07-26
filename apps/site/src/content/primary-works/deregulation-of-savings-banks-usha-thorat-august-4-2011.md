@@ -110,6 +110,26 @@ thinker_mentions:
 
 This Forum of Free Enterprise booklet records the panel discussion at the 7th M. R. Pai Memorial Award function held in Mumbai on 7 July 2011, hosted by the All India Bank Depositors' Association (AIBDA) and the Punjab and Maharashtra Cooperative Bank, plus three supporting annexures. Three former Deputy Governors of the Reserve Bank of India — Usha Thorat, Kishori J. Udeshi and S. S. Tarapore — respond to the RBI's April 2011 Discussion Paper on deregulation of the savings bank (SB) deposit interest rate, which had been administered at 4 per cent since May 2011 (3.5 per cent before that). All three agree that deregulation is overdue, that the question is no longer whether but when and how, and that the present moment — with inflation high and the term structure already deregulated since the 1990s — is right. They argue for a phased approach with a regulator-prescribed floor rate, uniform monthly interest application, and clear safeguards for rural, pensioner and small depositors. The volume's argumentative centre is that small depositors have been silently taxed by a regulated 4 per cent ceiling against high inflation, and that market-based pricing — supervised but not capped — is the cure. Annexures I and II reproduce AIBDA's initial and revised submissions to the RBI on behalf of depositors; Annexure III, a detailed analytical paper by Prof. Ashish Das of IIT Bombay, marshals data showing persistent negative real returns on SB accounts and dissects how the changeover to daily-balance interest calculation in April 2010, far from helping savers, was offset by RBI's simultaneous cut in the prescribed rate.
 
+## Key points
+
+- Usha Thorat argues deregulation of the savings bank deposit rate is no longer in question, only its timing, and that a period of high inflation such as 2011 is the right window because depositors can switch banks freely.
+
+- Thorat proposes a temporary floor rate to stop banks pushing savings rates below 3.5 per cent as happened during the 2009-10 liquidity glut, while warning the floor itself could ossify into a ceiling.
+
+- Thorat dismisses the asset-liability-mismatch objection, calculating that a one percentage point rise in savings rates would add only about 25 basis points to banks' overall deposit costs.
+
+- Kishori J. Udeshi notes that the share of savings deposits in aggregate bank deposits fell from 24 per cent in 2005 to 22.1 per cent in 2009, questioning whether deregulation alone can reverse the decline.
+
+- Udeshi cites Indonesia and Malaysia to argue that deregulation without central-bank inflation-anchoring produces negative real returns for savers, insisting the true goal must be a sustained positive real interest rate.
+
+- Udeshi urges depositors to accept higher transactional charges on cheque books and ATMs as the price of liberalised interest rates, ending decades of cross-subsidisation.
+
+- Udeshi calls for the Deposit Insurance and Credit Guarantee Corporation to be given broader powers to act as a vigilant overseer of depositors' interests.
+
+- Prof. Ashish Das's annexed paper shows persistent negative real returns on savings accounts and finds that the April 2010 shift to daily-balance interest calculation was offset by the RBI's simultaneous cut in the prescribed rate.
+
+- All three former RBI Deputy Governors agree on a phased approach with a regulator-prescribed floor rate, uniform monthly interest application, and safeguards for rural, pensioner and small depositors.
+
 ## Essays
 
 ### Deregulation of Savings Banks' Deposit Interest Rates

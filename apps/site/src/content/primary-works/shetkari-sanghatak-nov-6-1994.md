@@ -75,6 +75,24 @@ This is the 6 November 1994 issue of Shetkari Sanghatak (Marathi: शेतक�
 
 The volume's argumentative centre, set in editor Sureshchandra Mhatre's foreword and Sharad Joshi's open letter to Dainik Lokmat (गच्छ सूकर। भद्रं ते।), is that the Sanghatana's contested decade of electoral engagement was the necessary political extension of its 'अर्थवादी' (economy-first) movement for remunerative agricultural prices — and that the chief enemy of that economy-first politics has been जातीयवाद (caste/communal politics), wielded both by the Congress system and by Hindu-Muslim communal mobilisations to fracture farmer solidarity. The retrospective frames Shetkari Sanghatana's electoral interventions as a refusal of cadre-party machinery in favour of issue-driven, single-plank campaigning around शेतीमालाचा भाव (the price of agricultural produce), and uses the 1985 Vidhan Sabha results to argue that this plank, not any candidate, was "the most effective winning candidate" of the decade.
 
+## Key points
+
+- This special Nagpur Adhiveshan number, dated 6 November 1994, is subtitled "Decade of the Political Stance: 1984 to 1994" and was published for the joint sixth Shetkari Sanghatana and fourth Shetkari Mahila Aghadi convention held on 12 November.
+
+- Editor Sureshchandra Mhatre's foreword explains that the issue reprints editorial statements, candidate-selection circulars and post-mortems from every major electoral cycle the Sanghatana fought between 1984 and 1994.
+
+- Mhatre argues that although the central government formally accepted an open economy after 1991, state machinery and the political class still resist genuine liberalisation of agriculture.
+
+- Sharad Joshi's open letter to the editor of Lokmat responds to an October 1994 editorial and defends the right to criticise Mahatma Gandhi and the Nehru lineage even on Gandhi's 125th birth anniversary.
+
+- Joshi argues the Indira Gandhi years marked a deeper break from the freedom movement's legacy than is conventionally admitted, and accuses a clique of courtiers of weaponising the family's symbolic capital to sustain the Congress.
+
+- A reprinted 1984 article explains why the Sanghatana, until then purely an agitational body, decided to contest that year's cooperative-society elections in Maharashtra.
+
+- The article treats sugar and cotton cooperatives as the chief patronage instrument by which the political class extracted surplus from cultivators, and reprints a seven-point manifesto pledge demanding price-floor guarantees and transparent levies.
+
+- The retrospective also covers the Sanghatana's 1985 Vidhan Sabha campaign, the 1987 Nanded by-election, the 1989 and 1991 Lok Sabha contests, and the 1992 panchayat polls fought by the Shetkari Mahila Aghadi.
+
 ## Essays
 
 ### बळीराजाच्या शोधात संघटकेकेचा खारीचा वाटा

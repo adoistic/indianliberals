@@ -81,6 +81,24 @@ missing_metadata_flags:
 
 This April 1977 Forum of Free Enterprise booklet pairs two short essays arguing that inflation is, fundamentally, a monetary phenomenon. Part I, B. R. Shenoy's 'Controlling Inflation in India,' attacks the Indira Gandhi government's claim — endorsed by IMF chief H. J. Witteveen, World Bank president Robert S. McNamara, J. R. D. Tata and finally the Congress Party's February 1977 election manifesto — that India had 'reversed inflation' during the Emergency. Shenoy traces the price-index dip from September 1974 to March 1976 to continued deficit budgets financed by Reserve Bank credit, MISA/DIR raids that forced private stocks into government godowns, food imports of 7.38 million tonnes and stalled industrial output, and notes that by February 1977 prices had already climbed back almost to peak. Part II, Henry Hazlitt's '40-Year Inflation in U.S.A.,' reproduced from The Freeman of October 1976, marshals American data showing that the M2 money stock multiplied roughly thirteen-fold while consumer prices rose about four-fold between 1940 and 1976, and warns that the lag between money issue and price response has lulled U.S. policymakers into treating an accumulating monetary overhang as if it were a benign secular trend rather than a 'potential time bomb.'
 
+## Key points
+
+- B. R. Shenoy's 'Controlling Inflation in India' defines inflation as a money-supply expansion in excess of output growth, tracing India's chronic deficit budgeting since 1950-51 as its primary source.
+
+- Shenoy shows money supply grew 6.5 times while prices grew 3.86 times between 1954-55 and 1975-76, and reads the anomalous price dip after September 1974 as an 'artificially produced phenomenon'.
+
+- He attributes the 1974-76 price decline to MISA and DIR hoarding raids, tightened bank credit, food imports of 7.38 million tonnes and weak industrial demand rather than genuine policy success.
+
+- Shenoy rejects claims by IMF chief H. J. Witteveen, World Bank president Robert McNamara, J. R. D. Tata and the Congress Party's 1977 manifesto that the Emergency had reversed inflation.
+
+- He notes that by 12 February 1977 the General Prices Index had climbed back to 327.3, nearly its 1955 peak, confirming that the price decline could not be sustained.
+
+- Henry Hazlitt's '40-Year Inflation in U.S.A.', reprinted from The Freeman, argues American inflation is decades old rather than recent, tracing wholesale prices to 314 per cent of their 1940 level by mid-1976.
+
+- Hazlitt reports the American money stock grew roughly thirteen-fold between 1940 and 1976 while consumer prices rose only about four-fold, a gap he attributes partly to productivity gains and shifting expectations.
+
+- He warns that the accumulated 1939-1976 monetary overhang is a 'potential time bomb' that could push prices upward faster than the money supply once public expectations shift.
+
 ## Essays
 
 ### Controlling Inflation in India

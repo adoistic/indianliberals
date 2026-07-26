@@ -70,6 +70,26 @@ missing_metadata_flags:
 
 This is the 21 March 1995 fortnightly issue of Shetkari Sanghatak (शेतकरी संघटक), Vol. 11, No. 19, the Marathi-language organ of the Shetkari Sanghatana farmers' movement and the newly formed Swatantra Bharat Paksha. The issue is anchored by a long polemical essay from movement founder Sharad Joshi titled 'महात्माजींचा पराभव' (Mahatmaji's Defeat), a heterodox reading of Gandhian thought that argues Gandhi's economic and village-development vision was buried by Nehruvian socialism rather than carried forward, and that Joshi sees himself as a legitimate inheritor of Gandhi's 'sarvodaya' impulse via the farmers' movement. The remainder of the eight-page issue mixes movement news (Punjab–Haryana farmers burning wheat in Delhi to protest procurement prices), a women's-front profile of activist Jayashree Rajput who chased off loan-recovery officers in Chopda taluka, an obituary for the elder brother of martyr Babu Genu, a column on the new Swatantra Bharat Paksha MLAs in the Maharashtra Vidhan Sabha (Wamanrao Chatap and Dilip Borse), Aesop's-fable retellings deployed as political parables, a critique of farm-loan certificates ('हा साप आणि ही काठी'), and a closing health bulletin reporting that Sharad Joshi's condition is improving rapidly after timely treatment.
 
+## Key points
+
+- Sharad Joshi's lead essay 'Mahatmaji's Defeat' opens with his admission that he never met Gandhi in person, having reached Wardha a day after Gandhi's departure.
+
+- Joshi rejects the caricature of Gandhi as an anti-modern village-romantic, presenting Gandhian thought as a 'dynamic' tradition compatible with technology and development.
+
+- Joshi argues that Gandhi's economic vision was not carried forward but effectively buried by Nehru's post-1947 capture of the Congress under Soviet-style socialist cover.
+
+- He poses three rhetorical questions about why the poor still wear mill cloth instead of khadi, why sarvodaya has not arrived after forty-seven years, and why villages are emptier than before.
+
+- Joshi positions the Shetkari Sanghatana and the newly formed Swatantra Bharat Paksha as the legitimate contemporary inheritors of Gandhi's village-development vision.
+
+- A news report describes farmer leaders from the Bharatiya Kisan Union burning wheat in Delhi on 15 March 1995 to protest procurement prices set well below the cost of production.
+
+- The report cites an outstanding forty-eight thousand crore rupees in central-government dues owed to Indian farmers as the underlying grievance behind the protest.
+
+- The issue carries a women's-front profile of activist Jayashree Rajput, who chased off loan-recovery officers in Chopda taluka, alongside a critique of farm-loan certificates likening them to a snake and a stick.
+
+- A closing health bulletin reports that Sharad Joshi's condition was improving rapidly following timely treatment, reassuring the movement's readership about their leader's wellbeing.
+
 ## Essays
 
 ### महात्माजींचा पराभव

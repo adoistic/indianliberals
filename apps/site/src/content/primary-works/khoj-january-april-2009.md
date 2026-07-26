@@ -197,6 +197,26 @@ thinker_mentions:
 
 Khoj (ખોજ — જીવન એક અવિરત ખોજ), a Gujarati-language periodical published from Vadodara, presents this combined double issue (January–April 2009, Year 3, Issues 1–2) under the thematic banner 'આર્થિક કટોકટી' (Economic Crisis). In the rendered pages, the issue opens with an editorial by Ambrish Mehta that frames the 2008–09 global financial crisis as an occasion to revisit foundational questions about markets and state regulation, and previews contributions from economist John Taylor (via a Peter Robinson interview), Mukesh Adenwala, and Ela R. Bhatt. The letters section brings a polyphonic range of reader voices on communalism, Muslim identity, and the role of the periodical itself — including a 1942 Gujarati poem 'The Prayer of Youth' by Nathalal Dave of Bhavnagar. The five substantive articles visible in the rendered pages cover: a Hepatitis B outbreak in Modasa traced to unqualified practitioners (Rajesh Mishra); tribal women's resistance to liquor in south Gujarat (Varsha Chaudhary); a critique of 'moral policing' in contemporary India referencing Gandhi, Nehru, and Tagore (Ashvinkumar Karia); a translated analysis of Taliban rule and human rights erosion in Pakistan's Swat Valley (Murtaza Razvi, translated from Dawn by Trupti Parekh); an appeal for Hindu-Muslim communal harmony in the wake of Deoband fatwas (Ismail Gandhi); and a substantive essay on the state of the sadabhavana (goodwill) movement in Gujarat seven years after the 2002 riots (Rajesh Mishra). The thematic centre of gravity in the rendered pages lies at the intersection of civil society, communalism-secularism, and public health — with the economic-crisis frame announced on the cover and in the editorial but not yet developed in the articles falling within the first twenty pages.
 
+## Key points
+
+- Ambrish Mehta's editorial frames the 2008-09 global financial crisis as an occasion to revisit foundational questions about markets and state regulation, citing economist John Taylor's view that government intervention and regulatory failure were primary causes.
+
+- The editorial previews upcoming contributions on the crisis from John Taylor, via a Peter Robinson interview, Mukesh Adenwala, and Ela R. Bhatt, whose piece addresses poverty.
+
+- A 1942 Gujarati poem, "The Prayer of Youth" by Nathalal Dave of Bhavnagar, is reprinted in the letters section, addressing freedom of conscience and resistance to tyranny.
+
+- Reader Hakim Rangwala's letter from Bhavnagar advocates Hindu-Muslim goodwill and calls on Muslim institutions to speak out clearly against terrorism following the November 2008 Mumbai attacks.
+
+- Rajesh Mishra's investigative article documents a Hepatitis B outbreak in Modasa caused by unsafe injections from unqualified Rural Medical Practitioner doctors, citing IANS reports and virologist Dr. Vidya Acharkar.
+
+- Varsha Chaudhary's article examines tribal women's resistance to liquor in south Gujarat, one of five substantive articles anchoring the issue's civil society and public health themes.
+
+- Ashvinkumar Karia's essay offers a critique of "moral policing" in contemporary India, drawing on the legacies of Gandhi, Nehru, and Tagore to ground its argument historically.
+
+- Murtaza Razvi's essay, translated from Dawn by Trupti Parekh, analyses Taliban rule and the erosion of human rights in Pakistan's Swat Valley.
+
+- In a second essay, Mishra assesses the state of Gujarat's sadabhavana, or goodwill, movement seven years after the 2002 communal riots.
+
 ## Essays
 
 ### સંપાદકીય

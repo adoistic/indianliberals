@@ -109,6 +109,22 @@ missing_metadata_flags:
 
 Khoj ("ખોજ — જીવન એક અવિરત ખોજ", roughly "Life, an unending quest") is a Gujarati liberal little-magazine published from Vadodara; this is Year 1, Issue 5 (cover and masthead date September-October 2007, despite the file name). Edited by Ambarish Mehta with an editorial board and a wide advisory committee, the issue opens with bilingual epigraphs (a Rig Veda verse and the Greek sceptic Xenophanes) and an editorial, then runs a substantial letters-and-responses section before its main features. In the rendered pages the issue is dominated by an ongoing debate on "Vigyan-Adhyatma" (science vs. spirituality) and on whether free markets automatically produce prosperity, alongside topical commentary on civil liberties, the India-US nuclear deal, and the Sethusamudram canal project. The magazine prints translated pieces by liberal and libertarian authors (Leonard E. Read's "I, Pencil", Sauvik Chakravarti, Fareed Zakaria) and carries explicitly classical-liberal arguments about knowledge, markets and individual freedom.
 
+## Key points
+
+- Jayanti Patel and fellow contributors continue Khoj's Vigyan-Adhyatma debate, distinguishing science's public, reproducible verification from spirituality's inward, person-specific experience and warning against treating subjective claims as objective truth.
+
+- Kirit Panvala's essay on Yakub Memon argues that even those accused of the 1993 Mumbai serial blasts deserve a fair trial, scrutinising the TADA court's verdict and standard of evidence rather than defending the accused.
+
+- Mukesh Adenwala's rejoinder to Anil Patel accepts individual liberty as central but disputes that market institutions automatically produce prosperity, arguing capitalism's European success depended on secularism, rule of law and an independent judiciary.
+
+- T. S. Gopi Rethinaraj defends the July 2007 India-US civil nuclear agreement as a chance to end India's nuclear "apartheid," discussing Nuclear Suppliers Group safeguards while dismissing both left and right objections as ideological.
+
+- Tripti Parekh's piece on the Sethusamudram canal sets aside the "Ram Setu" religious controversy to question, on economic and environmental grounds, whether shipping-time savings justify the dredging costs and ecological risk.
+
+- The issue prints Gujarati translations of libertarian writers, including Leonard E. Read's "I, Pencil," alongside pieces by Sauvik Chakravarti and Fareed Zakaria.
+
+- Edited by Ambarish Mehta with an editorial board and advisory committee, the issue opens with bilingual epigraphs from the Rig Veda and the Greek sceptic Xenophanes before its editorial and letters section.
+
 ## Essays
 
 ### વિજ્ઞાન - આધ્યાત્મ

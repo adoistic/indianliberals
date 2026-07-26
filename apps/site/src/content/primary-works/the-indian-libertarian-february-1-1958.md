@@ -85,6 +85,22 @@ missing_metadata_flags:
 
 In the rendered pages, this 1 February 1958 'Sheikh Abdullah Special' of The Indian Libertarian (Vol. V No. 22, the Bombay fortnightly edited by Miss Kusum Lotwala) is dominated by the Kashmir question and Indo-Pakistan relations. The editorial responds to Pakistan Prime Minister Feroz Khan Noon's reported threat to Indian nationals, raises 'some pertinent questions' about the security of Muslims and refugees, and warns of a revived Razakar movement in Hyderabad. The lead articles in the rendered pages turn on Sheikh Abdullah's renewed agitation in Kashmir: M. A. Venkata Rao examines 'Sheikh Abdullah and Indian Policy', defending a firm, secular Indian line while criticising the Nehru government's vacillation, and Sumant S. Bankeshwar's polemic 'Sheikh Abdullah: The Mad Mullah on the Rampage' attacks the Sheikh as a communal demagogue. 'Lal' contributes a sharp anti-Nehru piece, 'Nehru: The Trouble-Maker', and M. G. Bailur offers 'The Ethics of Toleration.' In the rendered pages the issue's later items listed in the contents — including Charles A. Willoughby on 'Western Strategic Blind Alley', Howard Fast's 'Open Letter to Soviet Writers', George Richmond Walker's 'Answer to World Dilemma', and the Soviet-economy and book-review sections — appear only in the contents box, not as fully rendered article text.
 
+## Key points
+
+- The 1 February 1958 "Sheikh Abdullah Special" issue, Vol. V No. 22, of the Bombay fortnightly The Indian Libertarian, edited by Miss Kusum Lotwala, is dominated by the Kashmir question and Indo-Pakistan relations.
+
+- The editorial responds to Pakistan Prime Minister Feroz Khan Noon's reported threat to Indian nationals and warns of a revived Razakar movement in Hyderabad.
+
+- M. A. Venkata Rao's lead article, "Sheikh Abdullah and Indian Policy," defends a firm, secular Indian line while criticising the Nehru government's vacillation over Kashmir.
+
+- Sumant S. Bankeshwar's polemic, "Sheikh Abdullah: The Mad Mullah on the Rampage," portrays the Kashmiri leader as a communal demagogue endangering the Valley's accession to India.
+
+- Writing under the pen-name "Lal," a contributor delivers "Nehru: The Trouble-Maker," a blunt indictment of Jawaharlal Nehru's leadership that contrasts him unfavourably with Gandhi.
+
+- M. G. Bailur contributes "The Ethics of Toleration" alongside the issue's other essays on the Kashmir agitation and Indian secular policy.
+
+- Later items listed in the contents, including Charles A. Willoughby on "Western Strategic Blind Alley" and Howard Fast's "Open Letter to Soviet Writers," appear only in the contents box rather than as fully rendered article text.
+
 ## Essays
 
 ### Sheikh Abdullah and Indian Policy

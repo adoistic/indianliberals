@@ -64,6 +64,22 @@ missing_metadata_flags:
 
 This is Part II of 'Selections from The Indian Libertarian', a thematic anthology compiled by editor D. M. Kulkarni of articles drawn from the Bombay journal founded by R. B. Lotwala, covering the period 1971 to 1981. The opening section is a memorial to Lotwala (d. 12 March 1971), a Bombay flour-mill magnate and press baron who bankrolled radical, rationalist and libertarian causes in early-twentieth-century India and patronised M. N. Roy. The rest of the volume groups reprinted articles by subject — Libertarianism, Economics, Democratic Politics, Foreign Policy, Language and Rationalism — presenting the journal's classical-liberal and Georgist 'single tax' positions, its rationalist and secular-humanist commitments, and its sharp criticism of socialism, casteism and Congress politics. In the rendered pages the anthology argues, through a review of Tibor Machan's 'The Libertarian Alternative' and articles on Henry George's single tax, that liberty rests on property rights and a strictly limited state.
 
+## Key points
+
+- Part II of 'Selections from The Indian Libertarian,' compiled by editor D. M. Kulkarni, opens with a life-sketch memorial to founder R. B. Lotwala, who died 12 March 1971 at Deolali aged ninety-five.
+
+- Lotwala, a Bombay flour-mill industrialist who founded the Hindustan Press and The Hindustan daily, is presented as the financial backer who sustained M. N. Roy's propagation of communist doctrine in India from 1919 to 1929.
+
+- A companion piece, 'R. B. Lotwala the Rationalist,' traces his libertarianism to Bakunin and Kropotkin and criticises the 'double life' of educated Indians who privately reject but publicly observe superstition, singling out Nehru as an example.
+
+- A review of Tibor R. Machan's thirty-seven essay anthology The Libertarian Alternative summarises its core doctrine that every person owns his own life and labour and that property rights are the foundation of all other rights.
+
+- The review names libertarian writers including Mises, Hazlitt, Friedman, Rothbard and Hospers, and argues government should answer 'no' to minimum wages, price-fixing and managing the money supply.
+
+- Two further articles set out Henry George's single-tax proposal to fund government from a tax on land value, reflecting Lotwala's own late-life interest in land-value taxation as a remedy for poverty.
+
+- A closing piece contrasts Japan's postwar economic prosperity with India's stagnation, arguing that Japan's success vindicates market-oriented development over state planning as a lesson for Indian policy.
+
 ## Essays
 
 ### R. B. Lotwala: The Prophet of Human Freedom — A Life-Sketch

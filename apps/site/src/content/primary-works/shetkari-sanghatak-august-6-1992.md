@@ -60,6 +60,22 @@ missing_metadata_flags:
 
 This is the 6 August 1992 issue (Year 9, Issue 9) of the Marathi fortnightly शेतकरी संघटक (Shetkari Sanghatak), the organ of Sharad Joshi's Shetkari Sanghatana. In the rendered pages the issue is built around a single polemical theme — a critique of 'swadeshi' economic nationalism just as India's liberalisation was beginning. Sharad Joshi's front-page lead, 'काळ्या इंग्रजाची भगवी स्वदेशी', attacks the Sangh/BJP brand of swadeshi as a saffron reincarnation of colonial mercantilism that strangles farmers. The same argument is carried by satellite pieces: Siraj Shaikh's 'स्वदेशीवाल्यांनो, डोळे उघडून प्या', a reproduced editorial on liberalising the dairy economy ('दुधाला मोकळा वारा लागू द्या'), a satirical fable 'कथा, देशी कामगारांची' mocking anti-computer protectionism, a commentary on President Shankar Dayal Sharma ('असमर्थ राष्ट्रपती?') with a table of developing-country external debt from the World Development Report 1992, and Vijay Jawandhia's protest that a Rs. 50/quintal cotton bonus betrays growers. In the rendered pages the issue's argumentative centre is a free-trade, anti-protectionist defence of the farmer against 'swadeshi' as a new form of internal colonial exploitation.
 
+## Key points
+
+- This 6 August 1992 issue (Year 9, Issue 9) of the Marathi fortnightly Shetkari Sanghatak, organ of Sharad Joshi's Shetkari Sanghatana, is built around a sustained critique of 'swadeshi' economic nationalism just as Indian liberalisation began.
+
+- Sharad Joshi's front-page lead, translated as 'The Saffron Swadeshi of the Black Englishman', attacks the Sangh Parivar and BJP's brand of swadeshi as a saffron reincarnation of European mercantilism that strangles the Indian farmer.
+
+- Joshi distinguishes Gandhian swadeshi from its 1990s revival, equates protectionism with the mercantilism that once enriched England, France and Germany, and dismisses swadeshi advocates as 'soldiers dragged along behind the times'.
+
+- Siraj Shaikh's companion piece, 'Swadeshi-mongers, Open Your Eyes and Drink', invokes the Quit India movement of 9 August 1942 and Gandhi's own swadeshi and gram-swaraj programme to argue that protectionism dressed as patriotism harms ordinary producers.
+
+- The issue also reproduces an editorial arguing for liberalising the dairy economy, titled 'Let Fresh Air Reach the Milk Trade', calling for opening dairy markets rather than continued state control.
+
+- A satirical fable, 'The Story of Indigenous Workers', mocks protectionist opposition to computers, while a commentary on President Shankar Dayal Sharma questions his effectiveness alongside a table of developing-country external debt drawn from the World Development Report 1992.
+
+- Vijay Jawandhia protests that a cotton bonus of only Rs. 50 per quintal betrays growers, reinforcing the issue's free-trade, anti-protectionist defence of the farmer against 'swadeshi' as a form of internal exploitation.
+
 ## Essays
 
 ### काळ्या इंग्रजाची भगवी 'स्वदेशी'

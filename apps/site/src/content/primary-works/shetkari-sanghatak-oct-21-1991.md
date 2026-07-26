@@ -67,6 +67,24 @@ missing_metadata_flags:
 
 This is the 21 October 1991 fortnightly issue (Year 8, Issue 13) of Shetkari Sanghatak, the Marathi-language organ of Sharad Joshi's Shetkari Sanghatana, published from Shivajinagar, Pune, with Sureshchandra Mhatre as editor-printer-publisher. The issue is dominated by Sharad Joshi's long lead essay 'Baliraj-yachi disha' (The direction of Baliraj), which reads the just-announced Manmohan Singh liberalisation reforms through the Sanghatana's farmers'-eye lens: he treats the 1991 crisis as the bankruptcy of the Nehruvian socialist-bureaucratic system rather than its accident, dismisses the cooperative sugar and dairy industries (including a sharp critique of Verghese Kurien's Operation Flood) as 'Chaitgiri' (Bharat against India), and insists that the path forward is the agrarian, decentralised 'Baliraj' direction rather than any new edition of bureaucratic Nehru-pattern industrialisation. Around this argument the issue stitches together movement reportage and commemorations: a report from Nanded and Parbhani on the Lakshmimukti Gram-Gaurav samaroh (mass transfer of land into the names of farmers' wives in 14 villages), a long first-person tribute by Asha Yadav of the Shetkari Mahila Aghadi recalling her work with Sharad Joshi and the late Lilatai Joshi, an editorial on the price imbalance between agricultural and industrial goods together with a shraddhanjali for Lilatai Joshi on her ninth death-anniversary, a policy article by MLA Dr Vasant Bonde arguing for rural electrification and electric cables as a vardan (boon) for Vidarbha cotton growers, the Sanghatana president's late-1991 tour itinerary, and a Bhaubeej letter from Joshi's sister Lilatai Aamore (Shetkari Mahila Aghadi, Bhivapur).
 
+## Key points
+
+- This is the 21 October 1991 fortnightly issue of Shetkari Sanghatak, Year 8 Issue 13, published from Shivajinagar, Pune, with Sureshchandra Mhatre as editor-printer-publisher.
+
+- Sharad Joshi's lead essay 'Baliraj-yachi disha' reads the newly announced Manmohan Singh liberalisation reforms as the visible bankruptcy of the entire Nehruvian socialist economy rather than a passing accident.
+
+- Joshi coins the term 'Chaitgiri' for bureaucracy-driven, Nehru-pattern industrial complexes and attacks cooperative sugar and dairy cooperatives as machinery that favours urban consumers at farmers' expense.
+
+- Joshi singles out Verghese Kurien's Operation Flood for using imported milk powder and butter-oil to undercut the prices Indian dairy farmers could otherwise command.
+
+- A report describes the Lakshmimukti Gram-Gaurav ceremony held on 5-6 October 1991, in which farmers across 14 Nanded-district villages transferred shares of farmland into their wives' names.
+
+- Asha Yadav of the Shetkari Mahila Aghadi contributes a first-person memoir recalling the November 1989 women's agitation, a night in police custody, and a 30,000-strong gathering at Nashik.
+
+- MLA Dr Vasant Bonde contributes a policy article arguing that rural electrification and electric cables would be a boon for cotton growers in Vidarbha.
+
+- The issue also carries an editorial on the price imbalance between agricultural and industrial goods and a tribute marking the ninth death-anniversary of Lilatai Joshi.
+
 ## Essays
 
 ### बळीराज्याची दिशा

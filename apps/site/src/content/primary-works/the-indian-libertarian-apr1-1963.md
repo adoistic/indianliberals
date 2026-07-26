@@ -189,6 +189,20 @@ thinker_mentions:
 
 This issue of The Indian Libertarian (Vol. XI No. 1, April 1963) is the opening number of the journal's eleventh volume and ranges across four of the most contested questions facing India in early 1963: the proper constitutional character of the Indian state (secular vs. civil), the futility of communist revolution as a developmental strategy, the political philosophy of Jayaprakash Narayan, the place of English in Indian education, and the looming strategic threat posed by a possible Sino-Pakistani joint military action. The editorial sets a polemical tone by arguing that Prime Minister Nehru misconceives the word 'secular' and that what India needs is not a state indifferent to religion but a 'civil' state defined by equality before law and freedom of conscience. The remaining feature essays engage M. A. Venkata Rao's scepticism about communist revolution's track record on welfare, M. N. Tholal's critical analysis of Jayaprakash Narayan's Gandhian non-violence as a foreign-policy guide, and K. Sreeramamurty's defence of English as the medium of instruction in Indian higher education. The Delhi Letter section, a book review of Ralph Borsodi's The Challenge of Asia, press gleanings, news items, and a letters column round out the issue. Together, the articles project a consistent classical-liberal and anti-socialist orientation — sceptical of state planning, concerned about civil liberties, and pragmatic on defence and language policy.
 
+## Key points
+
+- This opening number of Volume XI, dated April 1963, leads with an unsigned editorial, Secular State or Civil State?, arguing Nehru misapplies the term secular and that India instead needs a civil state defined by equality before law.
+
+- M. A. Venkata Rao's An Unnecessary Revolution challenges the premise that communist revolution was historically necessary, citing Soviet and Chinese wage and living-standard data against Western capitalist democracies.
+
+- Venkata Rao closes with a six-point manifesto of what a free society and free economy require, contrasting each point explicitly with communist practice.
+
+- M. N. Tholal's essay on Jayaprakash Narayan argues his political philosophy is incoherent, since his Gandhian commitment to non-violence could not be reconciled with his endorsement of India's response to the 1962 Chinese aggression.
+
+- K. Sreeramamurty contributes a defence of English as the medium of instruction in Indian higher education, arguing it remains the practical language of administration and scholarship across a linguistically divided country.
+
+- The issue also carries a Delhi Letter, a book review of Ralph Borsodi's The Challenge of Asia, press gleanings, news items and a letters column.
+
 ## Essays
 
 ### 'Secular' State or 'Civil' State?

@@ -66,6 +66,18 @@ physical:
 
 This issue of The Indian Libertarian (Vol. XI No. 16, 15 November 1963), edited by D. M. Kulkarni, sustains the journal's classical-liberal, anti-collectivist line. The rendered pages pair a domestic critique with an external one: the editorial attacks Nehruvian Congress planning as 'Congress Sovietism in a Democratic Garb', while M. A. Venkata Rao surveys 'The Reign of Terror in Red China'. M. N. Tholal's 'The Toll for the Brave' reflects through Gandhi's autobiography, and P. Kodanda Rao argues for stronger machinery for the prevention of corruption. A Delhi Letter on the 'Hocus-Pocus of Non-alignment' continues the journal's running attack on Indian foreign policy.
 
+## Key points
+
+- The editorial 'Congress Sovietism In a Democratic Garb' argues that Congress planning and socialism amount to Soviet-style collectivism dressed in democratic forms, eroding the very democracy it claims to serve.
+
+- M. A. Venkata Rao's 'The Reign of Terror In Red China' portrays Communist China as a police state ruling through terror and indoctrination, using it as a cautionary case against collectivism.
+
+- M. N. Tholal's 'The Toll for the Brave' reflects on courage and self-mastery through episodes from Gandhi's autobiography, 'The Story of My Experiments with Truth'.
+
+- P. Kodanda Rao's 'Prevention of Corruption' treats corruption as a problem of institutional design rather than mere individual morality, and a Delhi Letter, 'Hocus-Pocus of Non-alignment', continues the journal's running attack on Indian foreign policy.
+
+- Kodanda Rao calls for robust procedures and official accountability, tying clean public life to the wider liberal concern with disciplining state power.
+
 ## Essays
 
 ### Editorial: Congress Sovietism In a Democratic Garb

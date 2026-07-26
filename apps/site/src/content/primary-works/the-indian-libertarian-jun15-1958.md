@@ -78,6 +78,22 @@ physical:
 
 This June 15, 1958 issue (Vol. VI No. 7) of The Indian Libertarian, an 'Independent Journal of Economic and Public Affairs' published by the Libertarian Publishers of Bombay, gathers polemical commentary on free-market economics, the Nehru government, and Indian foreign policy. The rendered pages carry an unsigned editorial on national character and Pakistan, V. R.'s argument against a Kashmir-valley plebiscite, J. K. Dhairyawan's and M. N. Tholal's critiques of Nehru, C. Rajagopalachari's call for a new opposition party, and an Economic Supplement essay by Prof. G. N. Lawande attacking the welfare state as a road to serfdom. The issue's argumentative center is a classical-liberal defence of private enterprise and a sustained critique of Congress economic planning and Nehruvian leadership.
 
+## Key points
+
+- The unsigned editorial diagnoses a 'mental softness' in Indian public life and calls for hard-headed understanding of Pakistan and Islam rather than sentimental appeasement of national questions.
+
+- Writing under the initials V. R., an essay opposes a Kashmir-valley plebiscite, characterising political Islam as 'fanatically exclusive' and arguing the vote would be tilted in favour of 'the aggressor'.
+
+- J. K. Dhairyawan's 'Nehru has Missed His Vocation' argues the Prime Minister's talents suited authorship rather than administration, criticising his handling of Pakistan and of corruption in government.
+
+- M. N. Tholal's 'Nehru's Follies' presses Nehru's attitude toward Hinduism, untouchability, and Gandhi's legacy, framing his 'follies' as rooted in a misreading of India's religious culture.
+
+- C. Rajagopalachari argues in 'Need of a New Party Now' that Congress's one-party monopoly has bred 'parrot culture', calling for a new opposition party and foreshadowing the Swatantra Party he would soon found.
+
+- Prof. G. N. Lawande's Economic Supplement essay asks whether India is becoming a 'welfare or an ill-fare state', invoking the road-to-serfdom thesis to attack the welfare state as a 'grand fiction'.
+
+- Lawande argues welfare-statism is a direct attack on liberty and that genuine economic emancipation requires private enterprise rather than state planning.
+
 ## Essays
 
 ### Editorial

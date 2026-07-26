@@ -79,6 +79,24 @@ State Trading in a Democracy gathers the speeches delivered at a Forum of Free E
 
 The contributors place their critique in the tradition of liberal political economy: Hamied invokes Lincoln's definition of democracy and Ludwig Erhard's umpire-versus-player analogy, Premji warns that state trading in foodgrains will end in compulsory procurement and rationing, while Murthy documents specific operational failures in cement and manganese exports. The volume's argumentative center is that competition — not state monopoly — is the safeguard against the joint exploitation of producer and consumer, and that the State's proper role lies in education, public health, infrastructure and a fair playing field rather than in usurping commercial functions traders have performed for generations.
 
+## Key points
+
+- Dr. S. G. Panandikar, presiding over the symposium, argues that the State Trading Corporation's harm flows specifically from its monopoly character, since acting as monopoly buyer and seller squeezes producer and consumer alike.
+
+- Panandikar concludes the STC should be dispensed with altogether, trusting private traders to perform the essential function of trading at minimum social cost.
+
+- Dr. K. A. Hamied invokes Lincoln's definition of democracy and Ludwig Erhard's umpire-versus-player analogy to argue that a democratic State should referee the economic game rather than trade in it directly.
+
+- Hamied contrasts the Canadian Commercial Corporation's fifty-one-person staff with the STC's 1,540 employees handling lower turnover, and cites zonal wheat-price gaps between Delhi, Ghaziabad, and Bombay as evidence of state-created distortion.
+
+- M. H. Hasham Premji, President of the Federation of All-India Foodgrains Dealers' Associations, warns that extending state trading into foodgrains is a political project that will end in compulsory rationing.
+
+- B. M. Choksi, President of the Bombay Paper Traders' Association, adds the paper trade's case to the symposium's shared indictment of the STC's bureaucratic incompetence and expanding monopoly scope.
+
+- R. V. Murthy documents specific operational failures in the STC's cement and manganese export dealings as evidence of bureaucratic mismanagement.
+
+- The volume's shared argument holds that competition rather than state monopoly protects producer and consumer, with the State's proper role confined to education, health, and infrastructure.
+
 ## Essays
 
 ### MONOPOLY PRACTICES OF STATE TRADING CORPORATION HURT NATIONAL ECONOMY

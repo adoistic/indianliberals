@@ -66,6 +66,18 @@ physical:
 
 This July 1, 1962 issue of The Indian Libertarian (Vol. X No. 7), edited by D. M. Kulkarni in Bombay under the banner 'We Stand For Free Economy And Limited Government', is dominated by foreign policy and the national-language controversy. In the rendered pages the editorial, 'The Day Of The Judgment Is At Hand', attacks Defence Minister Krishna Menon and the proposed deal to acquire Soviet MIG fighter planes, warning that drawing India into the Soviet orbit betrays its democratic commitments and weakens its position against Pakistan. M. A. Venkata Rao then contrasts the Russian and American systems as rival civilisations, while two essays — M. N. Tholal's 'Hindi Experiments' and P. Kodanda Rao's 'Hindi Raj And Hindu Raj' — dissect the politics of imposing Hindi as the national language, the Sanskritised Hindi of official broadcasting, and the threat of linguistic disintegration. Standing departments (Delhi Letter, Book Review, News & Views, Gleanings from the Press) close the issue.
 
+## Key points
+
+- The editorial 'The Day Of The Judgment Is At Hand' condemns the proposed acquisition of Soviet MIG fighter planes and Defence Minister Krishna Menon's argument that India is free to buy military hardware from any source.
+
+- It warns that the deal risks drawing India into military dependence on the Soviet Union under the shadow of the Warsaw Pact, and argues a defence understanding with America and Britain would better serve Kashmir policy.
+
+- M. A. Venkata Rao's 'Russia Versus The United States Of America' frames the Cold War as a clash between two whole civilisations, weighing the systems on civil liberty and invoking the Yalta agreement.
+
+- M. N. Tholal's 'Hindi Experiments', opening from Nehru's 13 June press conference, attacks the artificial, heavily Sanskritised Hindi propagated through All India Radio and warns it breeds national disintegration rather than unity.
+
+- P. Kodanda Rao's 'Hindi Raj And Hindu Raj' equates the imposition of Hindi as sole national language with a broader 'Hindu Raj' threatening non-Hindi-speaking minorities, and defends the three-language formula and the continued role of English as safeguards against majoritarian domination.
+
 ## Essays
 
 ### Editorial

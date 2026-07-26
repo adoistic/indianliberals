@@ -81,6 +81,22 @@ physical:
 
 This 1 September 1957 issue of The Indian Libertarian (Vol V No. 13), the Bombay-based 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala, gathers editorials and signed commentary defending a free economy and liberal democracy against what its contributors see as the Nehru government's drift toward communism and a faltering foreign policy. The lead pieces argue for limited constitutional government, warn that the Congress is capitulating to communist methods, scrutinise India's stance toward Nepal and its non-aligned foreign policy, and reprint material from the R. L. Foundation and observers such as Guy Wint and Milovan Djilas. In the rendered pages, the connecting thread is a constitutionalist, market-liberal critique of state expansion at home and ambivalence abroad.
 
+## Key points
+
+- The unsigned editorial 'Double Law in Kashmir — A Matter of Double Standard' challenges the special constitutional status retained by Kashmir within the Indian Union as inconsistent with national integration and democratic accountability.
+
+- M. A. Venkata Rao's 'Liberty and Limited Government' argues that liberty depends on government restrained by law rather than the mere absence of government, and that concentrated state power is freedom's chief danger.
+
+- J. K. Dhairyawan's 'Congress Capitulates to Communism' charges the ruling party with surrendering to communist ideas and methods while eroding constitutional and parliamentary safeguards.
+
+- K. D. Valicha's 'The Challenge of Nepal' treats Nepal as a strategic and ideological test of India's regional policy, weighing the country's exposure to communist influence.
+
+- A. D. Gorwalla's 'Our Foreign Policy Under Fire' tabulates comparative figures on American and Soviet aid to India to question the coherence of the government's non-aligned foreign policy.
+
+- The issue reprints commentary from the R. L. Foundation and from observers Guy Wint and Milovan Djilas alongside the original signed contributions from staff writers.
+
+- Across its editorials and essays the issue advances a constitutionalist, market-liberal critique of state expansion at home paired with ambivalence toward the Nehru government's foreign policy abroad.
+
 ## Essays
 
 ### Editorial

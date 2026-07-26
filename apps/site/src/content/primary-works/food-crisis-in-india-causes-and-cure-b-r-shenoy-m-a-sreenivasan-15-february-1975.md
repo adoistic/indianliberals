@@ -64,6 +64,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise pamphlet, dated 15 February 1975, collects two short essays on India's food crisis prefaced by an anonymous Forum introduction. The lead piece, drawn from Prof. B. R. Shenoy's inaugural address to the Farmers' Federation of India convention at Pathankot on 20 December 1974, argues that India's persistent foodgrain deficits are the cumulative result of policy choices that have starved agriculture of capital while privileging heavy industry, public-sector outlays, deficit financing and below-market procurement. The companion essay by M. A. Sreenivasan, a former Agriculture Minister of Mysore, asks why Indian plantations — coffee, tea, rubber — flourish on the same earth and monsoon under which foodgrain agriculture languishes, and traces the disparity to colonial-era land-revenue provisions, security of title and the legal-political treatment of cultivation as an industry. The introduction crystallises the argumentative centre of the volume: the crisis is one of production, not distribution; food zones, monopoly procurement and deficit financing aggravate it; and the remedy lies in restoring agriculture's claim on national investment resources.
 
+## Key points
+
+- This Forum of Free Enterprise pamphlet, dated 15 February 1975, collects two essays on India's food crisis prefaced by an anonymous Forum introduction.
+
+- B. R. Shenoy's lead essay, drawn from his inaugural address to the Farmers' Federation of India convention at Pathankot on 20 December 1974, blames foodgrain deficits on policy choices favouring heavy industry over agriculture.
+
+- Shenoy states that India appropriated 65 per cent of total investment resources to a public sector that produces only 3.5 to 6.3 per cent of national product.
+
+- Shenoy attributes the 1973-74 ration cuts of 36 per cent in Bombay and 26 per cent in Calcutta to the collapse of buffer stocks after the 1972 surrender of PL-480 entitlements.
+
+- Shenoy argues that inflation is a monetary phenomenon caused by deficit financing of budgets rather than by farm prices, contradicting the Agricultural Prices Commission's contrary view.
+
+- M. A. Sreenivasan, a former Agriculture Minister of Mysore, asks why Indian plantations such as coffee, tea and rubber flourish while foodgrain agriculture languishes on the same soil and monsoon.
+
+- Sreenivasan traces the disparity to colonial-era Mysore land-revenue provisions, including a waste-land grant scheme priced at Rs. 20 per 0.405 hectares with a 30-year assessment guarantee.
+
+- The pamphlet's introduction crystallises its shared argument that the crisis is one of production rather than distribution, worsened by food zones, monopoly procurement, and deficit financing.
+
 ## Essays
 
 ### FOOD CRISIS IN INDIA — CAUSES & CURE

@@ -67,6 +67,24 @@ physical:
 
 This November 1, 1961 issue of The Indian Libertarian (Vol. IX No. 15), the Bombay fortnightly published by Libertarian Publishers and edited by D. M. Kulkarni, leads with an unsigned editorial, 'A Realistic Approach to Congo', which praises India's measured support for the Katanga cease-fire and criticises Nehru's harsher anti-colonialist rhetoric, invoking the late M. N. Roy's warning that political independence does not by itself mean real freedom for a backward society. The four bylined essays in the issue range across education, party politics, regional culture, and the condition of students: M. A. Venkata Rao on 'Education and Nation Making', M. N. Tholal on 'Conspiracy Against Jana Sangh', K. P. Padmanabhan Tampy on the Kerala dance-drama 'Velakali', and S. R. Narayana Ayyar on 'The Tragic Plight of Students'. The masthead motto has shifted from 'Libertarian Democracy' to 'We Stand for Free Economy and Limited Government'. The full 16-page issue is in the rendered pages.
 
+## Key points
+
+- The unsigned editorial, "A Realistic Approach to Congo," praises India's measured support for the Katanga cease-fire while criticising Nehru's harsher anti-colonialist rhetoric.
+
+- The editorial invokes the late M. N. Roy's warning that political independence alone does not guarantee real freedom for a backward society.
+
+- M. A. Venkata Rao's "Education and Nation Making" argues education is the central instrument of nation-building, distinguishing genuine schooling that cultivates moral and intellectual independence from mere literacy or vocational drill.
+
+- M. N. Tholal's "Conspiracy Against Jana Sangh" examines communal disturbances around the Aligarh Muslim University Convocation, arguing the Jana Sangh was unfairly scapegoated while Congress evaded the real communal concessions at issue.
+
+- K. P. Padmanabhan Tampy's "Indigenous Art Forms of Kerala: Velakali" describes the martial dance-drama associated with the Padmanabhaswamy Temple in Trivandrum, detailing its costume, make-up and enactment of the Kurukshetra battle.
+
+- S. R. Narayana Ayyar's "The Tragic Plight of Students" blames overcrowded institutions and the decay of teaching authority, rather than students themselves, for indiscipline and unrest.
+
+- Narayana Ayyar calls for restoring the moral relationship between teacher and taught as the precondition for any improvement in student life, arguing education has been reduced to mere instruction and exam-passing.
+
+- The issue's masthead motto has shifted from "Libertarian Democracy" to "We Stand for Free Economy and Limited Government," marking a change in the journal's stated self-description.
+
 ## Essays
 
 ### Education and Nation Making

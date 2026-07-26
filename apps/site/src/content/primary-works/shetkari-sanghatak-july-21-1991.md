@@ -80,6 +80,24 @@ missing_metadata_flags:
 
 This is the July 21, 1991 fortnightly issue (Year 8, No. 7) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi bulletin of the Shetkari Sanghatana farmers' movement, edited and printed at Chakan with Surechandra Mhatre as editor and Mohan Vihari Naresh as owner. The issue is dominated by two pieces from Sharad Joshi: a front-page editorial 'नाणे निधी — एक शेवग्याचे झाड' ('The IMF — A Drumstick Tree') arguing that the foreign-exchange crisis is symptomatic of the collapse of Nehruvian planning, and the third installment ('लेखांक ३') of his serialised 'राष्ट्रीय कृषिनीती' (National Agricultural Policy), translated into Marathi by Gopalrao Parande. Around these sit a letter to the editor from Devram Ambhure of Ganeshnagar, a short verse 'झेंडा लुटला गेला' by Babuvahan Rishale, an instalment of a translated piece titled 'गरीबांची गरीबी वाढविणारा श्रीमंती मदतीचा हात' which draws on Graham Hancock's 'Lords of Poverty' to critique foreign aid, and a short reportage 'प्रश्न : हरियाणातील शेतकरी बायांचा' by Sandhya Engle of Yavatmal on the condition of Haryana's farm women. Across these pieces the issue advances a single argumentative centre: that India's 1991 crisis is the bankruptcy of Nehruvian socialism, that turning to the IMF is a quick-yielding 'drumstick tree' rather than a structural cure, and that real development must come from agricultural liberalisation, freer markets, and an end to the state's extractive treatment of the peasantry.
 
+## Key points
+
+- Sharad Joshi's front-page editorial, framed around the image of the IMF as a drumstick tree, reads the 1991 foreign-exchange crisis as confirmation that Nehruvian economic planning has collapsed.
+
+- Joshi distinguishes industrialisation, which he treats as a mere symptom, from development, which he defines as the growth of a whole society's economic and social freedoms.
+
+- Joshi argues the Nehruvian state extracted surplus from agriculture through manipulated terms of trade, leaving rural India impoverished under decades of planning.
+
+- Joshi dismisses the IMF loan as a quick yield of foreign exchange rather than a structural cure, proposing an export-oriented, agriculture-led open economy instead.
+
+- The third instalment of Joshi's serialised National Agricultural Policy, translated into Marathi by Gopalrao Parande, sets out a Life-support Programme covering land use, soil conservation and irrigation reform.
+
+- That instalment further addresses mechanisation, seed and varietal development, and diversification into dairy, fisheries and horticulture as parts of the same agricultural programme.
+
+- A reader's letter from Devram Ambhure of Ganeshnagar endorses Joshi's framing of liberalisers versus socialists but warns the Sanghatana has not prepared its activists to seize the new opening.
+
+- Babuvahan Rishale's short verse laments that Gandhi's promised village-republic flag was looted away before it could be unfurled amid the empty stomachs of the famished.
+
 ## Essays
 
 ### नाणे निधी – एक शेवग्याचे झाड

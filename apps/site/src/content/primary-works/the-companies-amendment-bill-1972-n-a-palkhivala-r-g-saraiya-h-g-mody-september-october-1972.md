@@ -70,6 +70,24 @@ missing_metadata_flags:
 
 Published by the Forum of Free Enterprise (Bombay) in 1972, this slim booklet collects three addresses delivered between September and October 1972 — N. A. Palkhivala's public lecture of 15 September, and discussion-meeting talks by R. G. Saraiya and M. H. Mody on 10 October — attacking the Companies (Amendment) Bill 1972. The three speakers, drawn from constitutional law, banking and the accounting profession respectively, share a single argumentative centre: that the Bill imposes a degree of governmental control over the day-to-day life of the corporate sector unknown anywhere else in the world, and that its provisions on take-over bids, deemed-public-company status, auditor rotation, compulsory dividend distribution and benami holdings will hit small and medium enterprise hardest while substituting bureaucratic discretion for judicial determination.
 
+## Key points
+
+- Published by the Forum of Free Enterprise in 1972, this booklet collects three addresses delivered between September and October that year attacking the Companies (Amendment) Bill 1972.
+
+- N. A. Palkhivala's lecture, "Provisions Detrimental to Public Interest," calls the Bill a "bureaucratic seizure of all levers of power" whose stated public-interest purpose is contradicted by nearly every operative clause.
+
+- Palkhivala argues the loosened "same management" definition would deem unrelated companies grouped over a single shared director, and that any private company holding ten per cent of a public company's capital would itself become public.
+
+- Palkhivala objects to the three-year cap on auditor tenure and to the transfer of judicial powers over diversification and registered-office shifts from the courts to the Government.
+
+- R. G. Saraiya, who chaired the Banking Commission, questions Clause 5's deemed-public-company test of Rs. 25 lakhs paid-up capital and Rs. 50 lakhs turnover as sweeping in small companies where no public interest is involved.
+
+- Saraiya invokes the Banking Commission's own recommendation that private companies accepting non-cheaqueable deposits from shareholders need not be regulated, and warns Rural Bank subsidiaries would be crippled under the public-company regime.
+
+- M. H. Mody, a chartered accountant, contrasts the Bill's lack of prior expert study with the Bhabha Commission and Daftary and Shastry Committee at home and the Cohen and Jenkins Committees in Britain.
+
+- Mody criticises the haste of a public-comment period extended by only fifteen days and, citing the UK's City Code on Take-over Bids, argues legitimate take-over activity should be encouraged rather than throttled by Sections 108A to 108G.
+
 ## Essays
 
 ### Provisions Detrimental to Public Interest

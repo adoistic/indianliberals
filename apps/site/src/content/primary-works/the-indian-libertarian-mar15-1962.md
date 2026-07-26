@@ -62,6 +62,22 @@ physical:
 
 The Indian Libertarian, Vol. IX No. 24 (15 March 1962), edited by D. M. Kulkarni, appears under the banner 'We Stand for Free Economy and Limited Government' just after the third Indian general election. The editorial, 'The Vanquished Victor', dissects the North Bombay contest in which Defence Minister Krishna Menon defeated veteran ex-Congress President Acharya J. B. Kripalani, arguing that Menon's win was hollow and secured by 'dirty tactics'. M. A. Venkata Rao's 'Elections And Democracy' reflects on what the results reveal about the maturity of Indian democracy, while M. N. Tholal's 'General Election Results' analyses party performance and the prospects of the opposition. Eric Michelsen contributes '16 Years Under Communism — The Chronicle Of A Subject People', a Cold War account of life under communism. A separately paginated Economic Supplement, a Delhi Letter, book review, press gleanings and news departments round out the issue.
 
+## Key points
+
+- The editorial The Vanquished Victor dissects the North Bombay parliamentary contest in which Defence Minister Krishna Menon defeated veteran ex-Congress President Acharya J. B. Kripalani.
+
+- The editorial argues that Krishna Menon's North Bombay victory was hollow, secured through dirty tactics rather than through a genuine electoral mandate.
+
+- M. A. Venkata Rao's Elections And Democracy reflects on the third general election as a test of India's democratic maturity, distinguishing formal voting from genuine democratic participation.
+
+- Venkata Rao stresses that healthy democracy depends on an informed and engaged electorate rather than the periodic casting of votes alone.
+
+- M. N. Tholal's General Election Results assesses Congress's dominant performance against the opposition parties, including the Swatantra Party, in the 1962 polls.
+
+- Eric Michelsen's 16 Years Under Communism chronicles life under communist rule, drawing on the East German experience from 1945 onward.
+
+- Michelsen documents the consolidation of one-party control, the suppression of independent parties, and the role of indoctrination in reducing a people to subjection.
+
 ## Essays
 
 ### Elections And Democracy

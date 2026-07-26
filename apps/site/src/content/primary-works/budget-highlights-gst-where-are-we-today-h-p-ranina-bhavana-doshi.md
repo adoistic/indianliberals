@@ -78,6 +78,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet bundles two short policy commentaries on India's Interim Budget for FY 2019-20 and the state of the Goods and Services Tax regime, prefaced by an Editorial Introduction signed by Sunil S. Bhandare. The first article, by Forum President H. P. Ranina, surveys Finance Minister Piyush Goyal's Interim Budget and reads it as a 'road map' for a digitised, manufacturing-led economy that holds fiscal consolidation at 3.4% of GDP while extending social-security cover, direct income support to small farmers, and a conceptual Universal Basic Income. The second article, by indirect-tax expert Bhavna Doshi, takes stock of GST as a 'mixed bag' — what is amiss in compliance, rate design and federal coordination, and what the GST Council should change so the regime settles down faster. In the rendered pages only the Editorial Introduction (pp. 1–4) and the Ranina article (pp. 5 onward, seen through p. 18) appear; Doshi's article is not in this chunk and is summarised in this paragraph only by reference to the editor's preview, not extracted from her own text.
 
+## Key points
+
+- The booklet bundles two Forum of Free Enterprise commentaries on the Interim Budget for FY 2019-20 and the state of the Goods and Services Tax, prefaced by an Editorial Introduction signed by Sunil S. Bhandare.
+
+- Forum President H. P. Ranina reads Finance Minister Piyush Goyal's Interim Budget as a road map for a digitised, manufacturing-led economy that holds the fiscal deficit at 3.4 per cent of GDP.
+
+- Ranina highlights a new unorganised-sector pension paying Rs. 3,000 a month from age 60 and a conceptual Universal Basic Income delivered through Jan Dhan accounts as the budget's social-security centrepiece.
+
+- He notes public-sector bank recapitalisation, Insolvency and Bankruptcy Code recoveries of roughly Rs. 3 lakh crore, and a 2 per cent interest rebate for GST-registered small and medium units.
+
+- On direct tax, Ranina describes the enlarged Section 87-A rebate taking incomes up to about Rs. 9 lakh to zero tax and a 25 per cent rise in the standard deduction to Rs. 50,000.
+
+- He calls GST the biggest tax reform since Independence, citing monthly revenue averaging Rs. 97,000 crore, crossing Rs. 1 lakh crore in January 2019, and a doubled small-business exemption of Rs. 40 lakh.
+
+- Indirect-tax expert Bhavna Doshi's companion article assesses GST as a mixed bag, identifying shortcomings in compliance, rate design and federal coordination for the GST Council to address.
+
+- Ranina's essay closes on the Finance Minister's Vision 2030 framing of infrastructure, digitisation, pollution-free transport and rural industrialisation, cited alongside claims of 27 kilometres of highway built per day.
+
 ## Essays
 
 ### Budget Highlights — Laying the Foundation for the Second Largest Economy

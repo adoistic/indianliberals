@@ -78,6 +78,24 @@ physical:
 
 This 1 September 1957 issue (Vol. V No. 13) of The Indian Libertarian, the Bombay journal 'standing for free economy and liberal democracy' edited by Miss Kusum Lotwala, opens with an editorial, 'Double Law in Kashmir — A Matter of Double Standard,' attacking the special constitutional position of Kashmir as a betrayal of the principle of one law for all Indians. The rendered pages carry the issue's lead pieces: M. A. Venkata Rao's 'Liberty and Limited Government,' J. K. Dhairyawan's 'Congress Capitulates to Communism,' K. D. Valicha's 'The Challenge of Nepal,' and A. D. Gorwalla's 'Our Foreign Policy Under Fire,' alongside reprinted commentary from Guy Wint and Milovan Djilas and a research supplement from the R. L. Foundation. Throughout, the journal presses a classical-liberal case for limited government and individual liberty and against the Congress government's perceived drift toward communism and socialist economic policy.
 
+## Key points
+
+- The unsigned editorial, "Double Law in Kashmir — A Matter of Double Standard," attacks Kashmir's special constitutional position as a betrayal of the principle of one law for all Indians.
+
+- M. A. Venkata Rao defines liberty as freedom from arbitrary state power, arguing that an Opposition's central duty is to keep government within bounds.
+
+- Venkata Rao prescribes strict constitutional limitation of government's economic and political reach as the remedy for the erosion of freedom in India.
+
+- J. K. Dhairyawan charges that Congress has "capitulated to communism," reading the ruling party's economic programme and tolerance of communist influence as a surrender of liberal and constitutional principle.
+
+- Dhairyawan reads Congress policy as drifting toward a totalitarian model under the banner of democratic socialism, contrasting it with liberal constitutionalism.
+
+- K. D. Valicha examines "the challenge of Nepal," weighing the Himalayan kingdom's political instability and shifting foreign alignment as a strategic problem for India's neighbourhood policy.
+
+- Valicha situates Nepal within the wider regional contest between democratic and communist influence, questioning the soundness of India's approach to its neighbours.
+
+- A. D. Gorwalla puts India's foreign policy "under fire," subjecting the government's professed non-alignment and idealism to critical scrutiny and faulting it for confusing posture with strategy.
+
 ## Essays
 
 ### Liberty and Limited Government

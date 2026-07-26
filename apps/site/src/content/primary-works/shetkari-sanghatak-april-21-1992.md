@@ -121,6 +121,22 @@ thinker_mentions:
 
 This issue of Shetkari Sanghatak (Year 9, Issue 2, 21 April 1992), the Marathi fortnightly organ of the Shetkari Sanghatana farmers' movement, is anchored by a major polemical essay by Sharad Joshi titled 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ' (The True Meaning of Jotiba's Opposition to Brahmin Domination). Joshi argues that the 19th-century reformer Jyotiba Phule's anti-Brahmin campaign was fundamentally a defence of productive labour and the exploited peasantry — not a Hindu-communalist project, and not a Muslim-sympathising one either — and recruits Phule for the Shetkari Sanghatana's agrarian-liberal critique of the Indian state and urban rentier class. A sidebar box addresses the claim 'Was Jotiba a Hindu nationalist?' and rebuts it on historical grounds. The remaining pages carry shorter contributions: a policy manifesto by Shyamsundar Vasare proposing non-agricultural sector taxation to fund farm liberation, a first-person 'If I were Finance Minister' statement by Ratrao Lahanu Savre outlining ten points of agrarian fiscal policy, and three news items — the Supreme Court permitting collective withdrawal of debt-relief petitions, an announcement of a Rs 21 bonus for sugarcane to Central mills, and a report on farmers burning grain and cotton at Delhi's Boat Club on Shetkari Hutatma Din.
 
+## Key points
+
+- Sharad Joshi's lead essay 'जोतिबांच्या भटशाही विरोधाचा खरा अर्थ' argues that Jyotiba Phule's nineteenth-century anti-Brahmin campaign targeted the exploiting non-productive class rather than Brahmin caste or Hinduism itself.
+
+- Joshi rebuts both Rashtriya Swayamsevak Sangh attempts to claim Phule as a proto-Hindu-nationalist figure and readings that cast Phule's solidarity with Muslims as anti-Hindu communalism.
+
+- The essay engages B. R. Ambedkar's later reinterpretation of Phule and positions the contemporary Shetkari Sanghatana farmers' movement as the authentic heir of Phule's anti-exploitation project.
+
+- Shyamsundar Vasare's manifesto 'बिगरशेतीक्षेत्राला बेसण घालून शेतीला स्वतंत्र करीन' proposes taxing the entire non-agricultural sector to fund farmers' debt relief and free agricultural inputs.
+
+- Ratrao Lahanu Savre's 'मी अर्थमंत्री असतो तर' outlines ten fiscal planks as a hypothetical finance minister, including abolishing land revenue and cancelling all agricultural loan obligations.
+
+- A news item reports the Supreme Court permitting Shetkari Sanghatana to collectively withdraw debt-relief petitions filed on behalf of farmers across Maharashtra.
+
+- The issue also notes a Rs 21 bonus announced for sugarcane delivered to Central mills and farmers burning grain and cotton at Delhi's Boat Club on Shetkari Hutatma Din.
+
 ## Essays
 
 ### जोतिबांच्या 'भटशाही' विरोधाचा खरा अर्थ

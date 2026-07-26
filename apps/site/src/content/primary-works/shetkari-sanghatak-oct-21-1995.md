@@ -75,6 +75,24 @@ missing_metadata_flags:
 
 This fortnightly issue (Year 12, Issue 11, dated 21 October 1995) of the Marathi-language periodical Shetkari Sanghatak — the house organ of Sharad Joshi's Shetkari Sanghatana farmers' movement, published from Pune — carries four substantive items alongside Diwali greetings, organisational notices, and observances for Baliraj Day (30 October) and Farmer Martyrs' Day (10 November). In the rendered pages the lead essay is Sharad Joshi's 'प्रशिक्षणाचा खरा अर्थ' (The Real Meaning of Training), excerpted from his pre-camp address of 6 August 1995, arguing that the movement's training programme is not classroom instruction but the cultivation of independent economic reasoning among farmers. A serialised Marathi translation by Shri. Medha Mudholkar of George Orwell's Animal Farm continues with chapter four, 'गोठ्याची लढाई' (The Battle of the Cowshed). Dr. Manavendra Kachole of Aurangabad contributes a constitutional-political polemic, 'या देशावर राज्य कुणाचे?' (Whose State Rules This Country?), arguing that the post-independence Indian state has never genuinely consulted the public on policy. A featured editorial extract titled 'स्वराज्याची गुरुकिल्ली' reproduces a passage from Gandhi's Hind Swaraj on the duty of civil disobedience to unjust law. The issue closes with notices of cadre training camps at the Krishi Arth Prabodhini in Ambethan and a joint executive meeting of Shetkari Sanghatana and Shetkari Mahila Aghadi scheduled in Nagpur on 9 November 1995.
 
+## Key points
+
+- The 21 October 1995 issue of Shetkari Sanghatak carries Sharad Joshi's 'Prashikshanacha Khara Arth,' excerpted from his 6 August 1995 pre-camp address, distinguishing the movement's training from formal schooling as something built from the farmer's own economic experience.
+
+- Joshi names the Sanghatana's central achievement as shifting the public debate from subsidies and charity toward remunerative prices for agricultural produce, against the initial ridicule of mainstream economists and political parties.
+
+- The issue serialises chapter four, 'Gothyachi Ladhai' (The Battle of the Cowshed), of Medha Mudholkar's Marathi translation of George Orwell's Animal Farm, in which Snowball leads the animals' defence against the returning humans.
+
+- An editorial sidebar frames Orwell's fable as a warning against revolutionary elites who capture power and then betray the ordinary people in whose name they claimed to act.
+
+- Dr. Manavendra Kachole of Aurangabad, in 'Ya Deshavar Rajya Kunache,' argues that citizens of independent India have never been genuinely consulted on policy and that the political class has converged on preserving patronage structures.
+
+- Kachole treats party alternation as cosmetic since the underlying administrative class and its incentives remain unchanged, and reposes the question of where sovereignty actually resides as unsettled rather than settled by the Constitution.
+
+- A boxed feature, 'Swarajyachi Gurukilli,' reproduces a passage from Gandhi's Hind Swaraj on the duty of civil disobedience against unjust law.
+
+- The issue also carries Diwali greetings, observances for Baliraj Day and Farmer Martyrs' Day, and notices of cadre training camps at the Krishi Arth Prabodhini in Ambethan and a joint executive meeting in Nagpur.
+
 ## Essays
 
 ### प्रशिक्षणाचा खरा अर्थ

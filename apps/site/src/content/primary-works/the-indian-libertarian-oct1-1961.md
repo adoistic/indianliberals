@@ -66,6 +66,24 @@ physical:
 
 This 1 October 1961 issue of The Indian Libertarian (Vol. IX No. 13) appears under a new editor, D. M. Kulkarni, and a revised banner — 'Independent Journal of Free Economy and Public Affairs', with the cover slogan now 'We stand for free economy and limited government'. The editorial weighs Britain's bid to join the European Common Market against its Commonwealth ties, reporting the Accra conference of Commonwealth trade ministers and the fears of Canada, Australia and India about British entry. The featured articles turn to democracy and foreign affairs: M. A. Venkata Rao argues that the health of Indian democracy depends on 'the education of the electorate'; M. N. Thoiral assesses the 1961 Belgrade Conference of non-aligned nations ('The Belgrade Gradient'); and A. Gopalakrishnamurthy mounts a sharp attack on what he calls 'Nehru's Amoralism', faulting the Prime Minister's non-alignment and his response to the Soviet resumption of nuclear testing. The issue, complete in twenty pages, also carries the journal's Rationalist Supplement and standing departments (Delhi Letter, Book Review, Gleanings from the Press, News & Views, Letters).
 
+## Key points
+
+- The editorial, "The Commonwealth, Great Britain and E.C.M.," reports the Accra conference of more than 100 Commonwealth trade delegates on Britain's bid to join the European Common Market.
+
+- It records objections from Canada's George Hees, Australia's Lake, and India's Morarji Desai that British entry into the Common Market would erode Commonwealth trade preferences.
+
+- Britain's reassurance that nothing need change at once is set against Commonwealth anxieties, with the editorial invoking Lester B. Pearson on the intangible strength of shared Commonwealth values.
+
+- M. A. Venkata Rao's "The Education of the Electorate" ties the health of Indian democracy to the political understanding of its voters, examining party demagoguery and the manipulation of mass opinion at elections.
+
+- Venkata Rao argues an uneducated electorate turns elections into manipulation and treats civic education as the precondition for sound self-government.
+
+- M. N. Tholal's "The Belgrade Gradient" assesses the September 1961 Belgrade Conference of twenty-five non-aligned nations, reading it as evasive in the face of Cold War realities including the resumption of nuclear testing.
+
+- A. Gopalakrishnamurthy's "Nehru's Amoralism" argues the Prime Minister is not the moralist he is reputed to be but an amoralist who "helps himself" under the guise of high principle.
+
+- Gopalakrishnamurthy reads Nehru's non-alignment, his Belgrade diplomacy, and his muted response to the Soviet resumption of nuclear testing as evidence of self-serving expediency masked by principle.
+
 ## Essays
 
 ### Editorial: The Commonwealth, Great Britain and E.C.M.

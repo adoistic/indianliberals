@@ -89,6 +89,22 @@ physical:
 
 This 1 January 1959 issue of The Indian Libertarian (Vol. VI No. 20), the Bombay fortnightly edited by Kusum Lotwala, opens with an editorial on 'The Fall of Mao-Tse-Tung' and runs more than a dozen short articles and departments on Indian foreign policy, the China border question, economic planning, decolonisation in Africa, and the failings of the Congress. The rendered pages carry the masthead, the editorial, and the opening of two signed articles by M. A. Venkata Rao and M. N. Tholal. The journal's classical-liberal frame is constant: scepticism of Nehruvian planning and of accommodation with communist China, paired with a defence of free economy and a free press.
 
+## Key points
+
+- The 1 January 1959 issue of The Indian Libertarian, Vol. VI No. 20, edited by Kusum Lotwala, opens with an editorial titled "The Fall of Mao-Tse-Tung" and runs more than a dozen short articles and departments.
+
+- The rendered pages carry the masthead, editorial and the opening of two signed articles addressing Indian foreign policy, the China border question, economic planning and decolonisation in Africa.
+
+- M. A. Venkata Rao's "Our Borders with China" weighs the cartographic ambiguities and historical background of India's northern frontier, arguing India's boundary claims rest on firmer ground than the government allows.
+
+- Venkata Rao's essay warns against complacency toward Chinese intentions on the disputed Sino-Indian frontier, sitting within the issue's wider scepticism of Nehru's China policy.
+
+- M. N. Tholal's "'Enemies' of the Plan" examines the rhetoric by which critics of state economic planning are cast as enemies of national development.
+
+- Tholal connects the planning debate to communal and political tensions of the moment, extending the journal's recurring critique of state economic planning.
+
+- The journal's classical-liberal frame runs throughout the issue: scepticism of Nehruvian planning and of accommodation with communist China, paired with a defence of free economy and a free press.
+
 ## Essays
 
 ### Our Borders with China

@@ -318,6 +318,26 @@ The Indian Libertarian, Vol. VI No. 2 (April 1, 1958) is a sixteen-article fortn
 
 The issue opens with a letters column and a two-page editorial attacking the Arab Union, Indian foreign policy toward Pakistan, and the Congress Party's failure to discipline itself. Subsequent articles by named and pseudonymous contributors dissect the 'mixed economy' doctrine as intellectually bankrupt, portray Nehru as psychologically unstable and politically erratic, expose Pakistan's arms-spending and anti-India stance as reason to abandon sentimental friendship, and challenge the ostrich-like quality of pro-Pakistan sentiment in Indian political circles. Lighter features include a health column on vitamins, a satirical 'True Tales' strip on Helen Keller (by VERUS), a Toddy-Tapper column lampooning the Gandhi cap as political symbol, and a Danish welfare-state cautionary tale. Pages 19–20 reprint or adapt foreign material arguing that police oppression disqualifies India from socialism, and that Soviet Russia is not genuinely communist. Pages 21–28 (entries 14–16: 'Suggested Programme For A New Party', 'On the News Front', and 'Book Reviews') were not rendered in this chunk.
 
+## Key points
+
+- M. A. Venkata Rao's lead essay "'Mixed' Economy — A Broken Reed" brands the mixed-economy doctrine an intellectual evasion and calls the nationalisation of the Life Insurance Corporation "legalised robbery."
+
+- Venkata Rao argues the Constitution's compensation clauses for expropriation are a facade because Parliament can amend them at will, citing a Supreme Court judgment as evidence.
+
+- J. K. Dhairyawan's "Nehru — A Bundle of Frayed Nerves" reads Nehru's dismissal of Chief Ministers and parliamentary irritability as personal insecurity, citing the prime minister's own Ahmednagar Fort prison diary confessing a dictatorial temper.
+
+- The unsigned editorial calls Colonel Nasser a dictator exploiting pan-Arab sentiment rather than a genuine liberator, and urges India to abandon its romantic support for the Arab Union.
+
+- The editorial condemns the proposed Personal Income Tax law as discouraging enterprise and rewarding evasion, alongside a sidebar attacking the Muslim League's communal electoral appeals.
+
+- "Vigilant's" article "Noon Wants India to Commit Political Harikari" documents Pakistan's tripled defence budget and threats from Prime Minister Feroz Khan Noon.
+
+- "Vivek's" column "Nehru's Illusions" criticises the prime minister's stated views on Soviet satellite states, Sino-Indian friendship, and the economics behind the Planning Commission's targets.
+
+- Kishore Valicha's "And the Ostrich with Its Head in the Sand" challenges Indian advocates of Pakistan-friendship with evidence of Pakistani rearmament and its SEATO and CENTO alignment.
+
+- "Jay Kay's" column "Holding the Mirror to the Congress Face" catalogues Congress Party scandals, including a forgery investigation, the case shielding Vijaya Lakshmi Pandit, and a Bombay election murder.
+
 ## Essays
 
 ### Letters to the Editor

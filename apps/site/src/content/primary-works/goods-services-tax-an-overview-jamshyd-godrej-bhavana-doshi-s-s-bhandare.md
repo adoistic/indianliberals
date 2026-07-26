@@ -82,6 +82,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet collects three short essays giving an overview of India's Goods & Services Tax (GST) shortly after its 1 July 2017 rollout. The cover lists three contributors — Jamshyd Godrej, Bhavna Doshi and S. S. Bhandare — and the booklet is sponsored by the Shailesh Kapadia Memorial Trust, with a memorial page dedicated to the late chartered accountant Shailesh Kapadia (1949–1988) preceding the essays. In the rendered pages, two of the three essays appear: Godrej's brief 'GST: A Business Perspective' (a corporate-leader endorsement of GST as the largest indirect-tax reform since liberalisation) and the opening portion of Bhavna Doshi's longer 'India Goods and Services Tax — a Macro Overview' (a technical mapping of the new dual GST architecture, its constitutional path, and its comparison with Australia, the EU and Canada). The volume's argumentative center, so far as the rendered pages show, is that GST — though imperfectly multi-rated — is a federal-cooperation triumph that simplifies compliance, eliminates cascading, and tilts India toward a single market.
 
+## Key points
+
+- This Forum of Free Enterprise booklet, sponsored by the Shailesh Kapadia Memorial Trust, collects essays surveying India's Goods and Services Tax shortly after its 1 July 2017 rollout, preceded by a memorial page for the late chartered accountant Shailesh Kapadia.
+
+- Jamshyd Godrej's "GST: A Business Perspective" calls GST the biggest indirect-tax reform since the 1991 liberalisation, anchored in the 122nd Constitution Amendment and the formation of the GST Council.
+
+- Godrej argues the single-umbrella levy ends the burden of navigating varied state-by-state rules and identifies the consumer as the largest beneficiary, since most consumer-price-index items are lower-rated or exempted.
+
+- Godrej notes GST forces a shift from the manufacture-sale-service framework to a "supply" concept, requiring firms to overhaul accounting and ERP systems, and voices a preference for a single low rate.
+
+- Bhavna Doshi's "India Goods and Services Tax — a Macro Overview" traces the nine-year negotiation through the Empowered Committee of State Finance Ministers to the Constitution (One Hundred and First) Amendment Act, 2016.
+
+- Doshi compares India's dual GST model against Australia's federal GST of 2000, the European Union's 1977 Sixth VAT Directive, and Canada's mixed national-provincial HST and PST system.
+
+- Doshi explains the IGST settlement mechanism and the elimination of C, F and I forms and inter-state check posts as part of the new credit-chain logic.
+
+- Doshi reads the GST Council's voting design, in which neither the Centre nor the states alone can override decisions, as a federal-cooperation breakthrough for Indian fiscal governance.
+
 ## Essays
 
 ### GST : A Business Perspective

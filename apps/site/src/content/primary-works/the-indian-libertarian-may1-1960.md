@@ -68,6 +68,22 @@ physical:
 
 The June 15, 1960 issue (Vol. VIII No. 6) of The Indian Libertarian, now subtitled an 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review' and 'The Indian Rationalist,' opens with an editorial on Congress 'revitalisation' at the Poona AICC sessions and Nehru's role there. It carries M. A. Venkata Rao on the collapse of the Paris summit, M. N. Tholal on the bright prospects of the new Swatantra Party, E. H. Potter's critical appraisal of V. K. Krishna Menon, and A. Ranganathan on a decade of Sino-Indian disillusionment, alongside an Economic Supplement essay on capital accumulation and economic growth signed 'Sputnik.' The issue sustains the journal's classical-liberal, anti-Communist line, championing the Swatantra alternative and free-enterprise economics against Congress planning and Nehruvian foreign policy.
 
+## Key points
+
+- The lead editorial reviews the Congress party's 'revitalisation' attempt at its Poona AICC sessions following Nehru's foreign tours, treating the Hanumanthaiya proposal to broaden the Working Committee as ultimately futile and insincere.
+
+- An essay on the international situation reads the collapse of the Paris summit between Khrushchev and the Western powers, following the U-2 affair, as confirming the unreliability of Soviet coexistence and a hardening of Cold War lines.
+
+- Coverage of the newly formed Swatantra Party surveys its conference and organisation, engaging leaders including Rajaji and N. G. Ranga, and argues the party has a genuine opening as a free-enterprise alternative to Congress.
+
+- A critical appraisal of Defence Minister V. K. Krishna Menon questions his record and reputation, treating his prominence as a liability rather than an achievement.
+
+- A. Ranganathan's Delhi Letter traces a decade of Sino-Indian relations from early Panchsheel optimism to disillusionment over Tibet and the frontier, criticising Indian policy toward China as naive.
+
+- The Economic Supplement essay 'Capital Accumulation and Economic Growth', signed pseudonymously as 'Sputnik', argues development of underdeveloped countries turns on capital accumulation and includes a critique of Marx's labour theory of value.
+
+- The Sputnik essay weighs the roles of saving, investment, and private enterprise against state-directed growth as the more reliable path to capital accumulation.
+
 ## Essays
 
 ### Editorial

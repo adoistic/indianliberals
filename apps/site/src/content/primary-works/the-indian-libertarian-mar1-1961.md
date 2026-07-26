@@ -66,6 +66,22 @@ physical:
 
 This March 1, 1961 issue (Vol. VIII No. 23) of The Indian Libertarian, the Bombay fortnightly that 'stands for free economy and limited government,' opens with an editorial on the murder of Patrice Lumumba and the Congo crisis, arguing that UN trusteeship is preferable to 'tribal jingoism' and warning that mere nationalism without freedom, dignity and democracy is not enough. A companion editorial, 'The Congress in the Doldrums,' diagnoses a Congress party drained of its members' loyalty and torn by factional power-struggles. The signed articles in the rendered pages develop the journal's classical-liberal, anti-communist line: M. A. Venkata Rao on the diplomacy of the Congo crisis, M. N. Tholal on the failure of democracy in Asia, and the Norwegian liberal economist Trygve J. B. Hoff on Soviet economists quietly abandoning Marxian value theory. The issue also carries a four-page Rationalist Supplement opening with S. Ramanathan's obituary tribute to the Tamil Self-Respect movement figure Sami Chidambaranar.
 
+## Key points
+
+- The 1 March 1961 issue (Vol. VIII, No. 23) of The Indian Libertarian responds to the murder of Patrice Lumumba by arguing UN trusteeship of Congo is preferable to 'tribal jingoism' while rejecting the Communist framing of the killing.
+
+- The lead editorial criticises the Nehru government's 'partisan attitude' toward Lumumba's faction and insists independence must be harmonised with freedom, dignity, welfare and individual liberty rather than mere nationalism.
+
+- A companion editorial, 'The Congress in the Doldrums,' diagnoses a Congress party drained of its members' loyalty and consumed by factional power struggles as elections approach.
+
+- M. A. Venkata Rao's 'What Next in Congo?' faults the Western and Christian powers for excessive legalism over the UN charter while casting Soviet conduct in Africa as aggressive 'power diplomacy.'
+
+- M. N. Tholal's 'Failure of Democracy in Asia' argues, against the consensus of a Delhi seminar, that Asian peoples were not prepared to fight for democratic self-government and readily exchanged it for authoritarian rule.
+
+- The Norwegian economist Trygve J. B. Hoff's 'Soviet Economists Part Company with Marx' credits Marx with identifying pricing as the central problem of a planned economy, then reports Soviet economists themselves retreating from Marx's rejection of markets.
+
+- A four-page Rationalist Supplement opens with S. Ramanathan's obituary of Sami Chidambaranar, a pioneer of the Tamil Self-Respect movement who defied caste by contracting a self-respect marriage to a widow without priests or religious ceremony.
+
 ## Essays
 
 ### Editorial

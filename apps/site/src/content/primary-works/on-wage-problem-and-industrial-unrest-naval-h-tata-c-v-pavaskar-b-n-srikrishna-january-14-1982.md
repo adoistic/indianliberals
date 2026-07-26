@@ -86,6 +86,24 @@ This Forum of Free Enterprise pamphlet collects three talks on India's wage stru
 
 The remedies the three speakers urge — tripartite consultation before any State labour legislation, productivity-linked bonus, faster adjudication along the lines of the Kantharia Committee, statutory recognition of unions, parity of enforcement between employer-side and union-side breaches, and a defence of collective bargaining as the primus inter pares of dispute settlement — give the volume its argumentative centre. The collection reads as a coordinated employers-and-bar critique of the post-Independence labour settlement, published from Bombay under the Forum's classical-liberal banner.
 
+## Key points
+
+- This Forum of Free Enterprise pamphlet collects three talks on India's wage structure and early-1980s industrial unrest, delivered by Naval H. Tata, C. V. Pavaskar, and B. N. Srikrishna.
+
+- Naval H. Tata, President of The Employers' Federation of India, notes that reports of the National Labour Commission, the Bhoothalingam Committee, and the Chakrabarty Committee were routinely shelved without explanation.
+
+- Tata calls the profit-sharing bonus law the single biggest source of industrial discord and welcomes the elimination of Section 34(iii) despite trade-union opposition to its removal.
+
+- Tata proposes that future labour legislation pass through tripartite consultation and that a comprehensive wage policy restore inter-occupational and inter-industry pay differentials.
+
+- C. V. Pavaskar, Additional Labour Adviser of the Bombay Chamber of Commerce & Industry, argues the Industrial Disputes Act, 1947 has failed as collective bargaining degenerates into coercive bargaining.
+
+- Pavaskar draws on the Kantharia Committee's compulsory pre-trial hearing scheme to propose faster adjudication and statutory recognition of unions along the Maharashtra precedent.
+
+- Pavaskar calls for parity of enforcement between employer-side statutes such as the Factories Act and Provident Fund law and union-side breaches of settlements.
+
+- The three speakers converge on tripartite consultation, productivity-linked bonus, and a defence of collective bargaining as remedies to weak conciliation machinery and militant trade unionism.
+
 ## Essays
 
 ### I (untitled section by Naval H. Tata)

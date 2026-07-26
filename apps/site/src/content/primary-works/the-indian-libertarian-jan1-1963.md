@@ -64,6 +64,24 @@ physical:
 
 This January 1, 1963 issue (Vol. X No. 19) of The Indian Libertarian, edited by D. M. Kulkarni, is preoccupied with the geopolitical fallout of China's 1962 aggression against India and the credibility of Indian non-alignment. The editorial '‘Brothers’, ‘Friends’ And ‘Foes’' reflects on betrayed Sino-Indian friendship; M. A. Venkata Rao analyses Russia's global policy and what it means for India's non-alignment; M. N. Tholal scrutinises Nehru's defence of non-alignment after the China war; and Yang Shih-Chan continues a critical assessment of the Communist regime in China. A Delhi Letter on political realism and the regular Book Review, Gleanings, and News & Views departments complete the number.
 
+## Key points
+
+- The unsigned editorial 'Brothers', 'Friends' And 'Foes' responds to China's 1962 aggression against India, reflecting bitterly on the collapse of the Hindi-Chini-bhai-bhai sentiment of brotherhood.
+
+- The editorial goes on to reassess which nations count as India's real friends and which as foes in the aftermath of the border war.
+
+- M. A. Venkata Rao's Russia's Global Policy and India's Non-alignment argues that Khrushchev favours gradual infiltration over open revolution while still paying lip service to world Communist doctrine.
+
+- Venkata Rao questions whether India's policy of non-alignment can hold its footing between the Soviet and Western blocs given this calculated Soviet strategy.
+
+- M. N. Tholal's Nehru on Non-Alignment examines the Prime Minister's continued defence of non-alignment after the China war, weighing his claim that the policy was disturbed but not invalidated.
+
+- Tholal probes whether India's declared policy of non-alignment can remain credible once a professedly non-aligned nation has itself been militarily attacked.
+
+- Yang Shih-Chan's The Achievements (?) of the Communist Regime in China, continued from the 15 December 1962 issue, offers a sceptical accounting of the Chinese Communist record.
+
+- Yang Shih-Chan weighs the regime's methods of compulsion against its officially claimed economic and social achievements, casting doubt on their legitimacy.
+
 ## Essays
 
 ### Editorial: 'Brothers', 'Friends' And 'Foes'

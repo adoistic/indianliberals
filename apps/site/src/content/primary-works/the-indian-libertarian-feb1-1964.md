@@ -75,6 +75,26 @@ missing_metadata_flags:
 
 The Indian Libertarian, Vol. XI No. 21 (1 February 1964), edited by D. M. Kulkarni for Libertarian Publishers Private Ltd., Bombay, is a sixteen-page fortnightly of public-affairs commentary written from a classical-liberal vantage. The issue opens with an editorial scolding the Government of India for its diplomatic complacency toward Pakistan after the Holy Relic disturbances in Kashmir and for indulging what it calls the religious fanaticism of an Arab-summit bloc led by Nasser; a sardonic side-piece urges Nehru to enjoy his "well-earned rest" and stop directing affairs from his sick-bed. The body of the issue carries argumentative pieces by M. A. Venkata Rao on the ideological coordinates of the Congress at Bhubaneswar, M. N. Tholal on the contradiction of grafting Soviet-style socialist planning onto a still-feudal Indian society, a James Kent continuation defending property as a precondition of liberty, Morarji J. Vaiyda's institutional sketch of the International Chamber of Commerce and India's place in it, and the Delhi Letter on the "Kamaraj Curse" — the Kamaraj Plan's effect on Congress organisation and succession politics. J. M. Lobo Prabhu's lead polemic reads Nehru as a Communist by conduct if not by label, and the issue closes with a John Chamberlain book review of "The Sickness of Socialised Medicine," a Mind of the Nation column on the changing history of socialism, a News & Views round-up, and a Dear Editor section featuring Henry Meulen of "The Individualist" and notes on Chagla, Swaran Singh and Asoka Mehta.
 
+## Key points
+
+- The unsigned editorial accuses the Indian government of confusing non-violence with timidity in its response to renewed Pakistani assertiveness on Kashmir following the Hazratbal Holy Relic disturbances.
+
+- A second editorial strand, "Religious Fanaticism of Arab Nations," attacks the Cairo Arab summit of Nasser, Tito, Nehru, Sukarno, and Ben Bella for taking sides against Israel under cover of non-alignment.
+
+- A closing editorial item, "Let Mr. Nehru Enjoy His Well-Earned Rest," suggests the Prime Minister's continued direction of government affairs from convalescence is itself a national risk.
+
+- M. A. Venkata Rao reads the Bhubaneswar Congress session as the party's first open admission that Indian economic performance had fallen short of its promises.
+
+- Venkata Rao traces India's doctrine of inevitable socialism to Hegel's dialectic and Marx's appropriation of it, arguing that Indian planning treats state ownership as scientifically certain rather than historically chosen.
+
+- M. N. Tholal argues that India is harnessing a socialist horse to a feudal cart, since the Soviet planning model assumes an industrial base and a disciplined wage-earning population that Indian conditions do not supply.
+
+- Tholal draws on Khrushchev's remarks about peaceful coexistence to argue the Soviet model is itself mellowing, and treats property rights as the missing institutional anchor for genuine Indian reform.
+
+- Morarji J. Vaiyda, President of the Indian Council of Foreign Trade, describes the International Chamber of Commerce's seven specialised commissions covering banking, transport, restrictive business practices, distribution, advertising, taxation, and arbitration.
+
+- Vaiyda stresses the ICC's role at GATT, the UN Commission on International Commodity Trade, and UNCTAD as the chief organised voice of private enterprise in multilateral economic forums.
+
 ## Essays
 
 ### Paskistan's Perfidy And India's Pusillanimity

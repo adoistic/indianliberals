@@ -79,6 +79,22 @@ missing_metadata_flags:
 
 In the rendered pages, this 1 April 1959 issue of The Indian Libertarian (Vol. VII No. 1) — the Bombay fortnightly 'for free economy and libertarian democracy' edited by Miss Kusum Lotwala — leads with an unsigned editorial on India's external crises (the Kashmir and canal-waters disputes, the US-Pakistan military pact and the American Ambassador's reassurances, the Communist party's 'Hate America' campaign, and a contested transfer of the Sherabati hydro-electric project). The bylined articles in the rendered pages press the journal's anti-planning, anti-Communist line: M. A. Venkata Rao argues for a new opposition party built on free-economy principles; J. K. Dhairyawan attacks state planning as a 'Marxist euphemism for bungling'; and M. N. Tholal reviews Maulana Abul Kalam Azad's India Wins Freedom under the title 'The Genesis of Pakistan.' A four-page Libertarian Supplement (with 'A Reader's Miscellany' of liberal aphorisms) and shorter features round out the issue. In the rendered pages the later articles listed in the contents — Kumara Sekhar on 'Socialism and Mr. Nehru', William Henry Chamberlin on 'Khrushchev's Bogus Challenge', and T. L. Kantam on 'Revolt in Central Africa' — appear only in the contents box and supplement matter, not as fully rendered article text.
 
+## Key points
+
+- The unsigned lead editorial surveys India's external crises, including the Kashmir and canal-waters disputes, the US-Pakistan military pact, and a contested transfer of the Sherabati hydro-electric project.
+
+- M. A. Venkata Rao calls for a new opposition party built on free-economy and democratic principles, explicitly warning against the party drifting toward Communism as it takes shape.
+
+- J. K. Dhairyawan's polemic frames economic planning as a Marxist euphemism that in practice produces bungling, chaos and confusion rather than the prosperity it promises to deliver.
+
+- M. N. Tholal reviews Maulana Abul Kalam Azad's India Wins Freedom under the title The Genesis of Pakistan, examining Congress decisions and Muslim League politics behind Partition.
+
+- The bylined articles press the journal's anti-planning line, linking social justice to a free economy rather than to state planning across the opening pages of the issue.
+
+- A four-page Libertarian Supplement includes A Reader's Miscellany, a running collection of liberal aphorisms placed alongside the issue's shorter features.
+
+- Later articles listed in the contents, including Kumara Sekhar on Socialism and Mr. Nehru and William Henry Chamberlin on Khrushchev's Bogus Challenge, appear only as contents-box entries, not as rendered text.
+
 ## Essays
 
 ### Building a new Party

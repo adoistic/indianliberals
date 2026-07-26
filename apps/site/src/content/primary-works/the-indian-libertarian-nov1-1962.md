@@ -75,6 +75,22 @@ missing_metadata_flags:
 
 This November 1, 1962 Diwali Issue of The Indian Libertarian (Vol. X No. 15), the Bombay fortnightly of Libertarian Publishers, opens with an unsigned editorial, 'West Berlin, Simply Non-Negotiable', which casts the Berlin crisis as a Cold War flashpoint and defends the Western allies' refusal to concede the city to Soviet pressure. The five bylined essays range across India's strategic and cultural predicament on the eve of the 1962 border war: M. A. Venkata Rao's 'India At The Cross-roads', M. N. Tholal's 'Statesmanship Or Megalomania?', P. Kodanda Rao on 'Kashmir', A. Ranganathan's 'Some Reflections On National Integration', and Indira Awasty's 'English As The Lingua Franca Of India'. Together they press a classical-liberal case for free economy, limited government, national unity, and the retention of English as a link language. The full 20-page issue is in the rendered pages.
 
+## Key points
+
+- The unsigned editorial 'West Berlin, Simply Non-Negotiable' casts the Berlin crisis as a Cold War flashpoint and defends the Western allies' refusal to concede the city to Soviet pressure.
+
+- M. A. Venkata Rao's 'India At The Cross-roads', written as 'Thoughts on Diwali', weighs central planning and statism against individual liberty and uses the festival's light-versus-darkness imagery for India's national choice.
+
+- M. N. Tholal's 'Statesmanship Or Megalomania?' draws on members of Ceylon's House of Parliament to contrast public-spirited restraint with the inflated self-regard of leaders who mistake ambition for national greatness.
+
+- P. Kodanda Rao's 'Kashmir' reviews the dispute's reference to the United Nations Security Council and India's obligations around the promised plebiscite, arguing for a realistic rather than emotional assessment.
+
+- A. Ranganathan's 'Some Reflections On National Integration' starts from the Official Language Commission's report and treats integration as a matter of shared institutions and a common link language rather than coercion.
+
+- Indira Awasty's 'English As The Lingua Franca Of India' defends English's established role in education, science, and administration as serving national unity without privileging any one region.
+
+- Awasty's essay opposes linguistic nationalism as divisive, arguing the difficulty of imposing any single Indian language nationally makes English the pragmatic choice as link language.
+
 ## Essays
 
 ### India At The Cross-roads

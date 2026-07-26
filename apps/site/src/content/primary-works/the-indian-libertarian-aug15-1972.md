@@ -88,6 +88,24 @@ physical:
 
 This Silver Jubilee number of The Indian Libertarian (Vol. XVIII, No. 10, 15 August 1972) brackets the twenty-fifth anniversary of Indian independence with an editorial homage to the founding generation of liberal nationalists and a sheaf of contemporary commentaries that read 1947's economic and political promises against present discontents. The unsigned editorial 'Founders of India's Freedom' lauds Dadabhai Naoroji, Mahadev Govind Ranade, Pherozeshah Mehta, Gokhale, Shrinivas Shastri, Tejbahadur Sapru and their successors as scholar-statesmen who fused nationalist passion with constitutional restraint and economic realism. A. Ranganathan revisits the language question, M. N. Tholal reports on Vinoba Bhave's and Jayaprakash Narayan's role in the Chambal Valley dacoit surrender, K. Kumara Sekhar files a Delhi Letter and a separate Silver Jubilee meditation on India's 'overrating' of freedom-as-an-end, S. R. Mohan Das attacks bonus as an ad hoc 'anarchic' compensation method, Dr. R. S. Nigam analyses Britain's E.E.C. entry and its sterling-area fallout, K.S. pillories Bombay's policing of the National Anthem, M. Ruthnaswamy reports on a Delhi seminar on scientific research and rural reconstruction, and John A. Sparks defends free-market pricing against the textbook fiction of the rapacious 'monopolist'. P. Kodanda Rao counsels remembering British liberal allies alongside Gen. Dyer, and an 'Observer' note assesses the Monopolies and Restrictive Trade Practices Act of 1969 against the Mahalanobis, Hazari and Dutt enquiry reports. The argumentative centre is the contrast between classical-liberal first principles and the planned, statist trajectory of post-Independence India.
 
+## Key points
+
+- This Silver Jubilee number of The Indian Libertarian (Vol. XVIII, No. 10, 15 August 1972) marks the twenty-fifth anniversary of Indian independence with an unsigned editorial celebrating Dadabhai Naoroji, Mahadev Govind Ranade, Pherozeshah Mehta and Gokhale as the founding 'galaxy of profoundly wise men'.
+
+- The editorial indicts the post-Independence 'partial socialisation' of the economy, the suppression of cooperative enterprise and the bureaucratic capture of the state, while treating Mrs Indira Gandhi's December 1971 war leadership as a measured tribute rather than an endorsement of her domestic programme.
+
+- A. Ranganathan revisits the language question, defending English as the pan-Indian medium of administration and scholarship while arguing Sanskrit never became a popular tongue, and citing Ambedkar's drafting role and Suniti Kumar Chatterji's linguistic authority.
+
+- M. N. Tholal reports on the Chambal Valley dacoit surrender and the credit dispute between Madhya Pradesh Chief Minister Sethi and Jayaprakash Narayan, quoting Vinoba Bhave's warning against victimising jailed dacoits.
+
+- S. R. Mohan Das attacks the bonus system as an ad hoc and 'anarchic' method of compensation, while Dr. R. S. Nigam analyses Britain's entry into the European Economic Community and its fallout for the sterling area.
+
+- John A. Sparks defends free-market pricing against what he calls the textbook fiction of the rapacious 'monopolist', and an 'Observer' column assesses the Monopolies and Restrictive Trade Practices Act of 1969 against the Mahalanobis, Hazari and Dutt enquiry reports.
+
+- K. Kumara Sekhar contributes a Delhi Letter and a separate Silver Jubilee meditation on India's tendency to 'overrate' freedom as an end in itself rather than a means to further reform.
+
+- P. Kodanda Rao urges readers to remember Britain's liberal allies of the independence struggle alongside figures such as General Dyer, while a column by 'K.S.' criticises Bombay's policing of the National Anthem.
+
 ## Essays
 
 ### EDITORIAL: Founders of India's Freedom

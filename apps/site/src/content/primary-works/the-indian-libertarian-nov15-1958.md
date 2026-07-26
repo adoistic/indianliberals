@@ -83,6 +83,24 @@ physical:
 
 The Indian Libertarian, Vol. VI No. 17 (15 November 1958), is an issue of the Bombay classical-liberal fortnightly edited by Miss Kusum Lotwala. In the rendered pages the issue leads with an editorial on the new military dictatorship in Pakistan, reading Ayub Khan's coup as a warning about the fragility of democracy in the subcontinent and pressing for a re-orientation of India's foreign policy. M. A. Venkata Rao's 'Land Reforms' offers a liberal critique of statist agrarian policy, Sumanth Bankeshwar reports from 'Inside Red China', Anthony Elenjimittam analyses the 'Nemesis of Military Dictatorship', M. N. Tholal weighs India 'Between Two Stools' of the Cold War, Varahamira gives a factual history of the Indo-Pakistan canal-waters dispute, and Baburao Patel contributes a rousing nationalist-liberal exhortation ('Arise! Awake! And Stop Not!'). The issue also carries the four-page Libertarian Supplement — Prof. G. N. Lawande's monetary essay 'Do Banks Create Money?' — plus 'CA IRA' (Azad), 'A Blow to Export Trade', and Martin Bronfenbrenner's 'Danger in the Far East'. Throughout, the issue defends free enterprise, individual liberty and the rule of law while sustaining a vigilant anti-communist, pro-Western line.
 
+## Key points
+
+- The editorial, 'Dictatorship in Pakistan', reads General Ayub Khan's coup as the collapse of fragile parliamentary democracy and a warning that demands a re-orientation of India's foreign policy.
+
+- M. A. Venkata Rao's 'Land Reforms' critiques statist, coercive approaches to agrarian restructuring, arguing that secure property rights and free initiative, not bureaucratic control, sustain agricultural output.
+
+- Sumanth Bankeshwar's 'Inside Red China' surveys the repressive methods of Chinese Communist rule, describing regimentation and the human cost of collectivisation as a warning for India's own borders.
+
+- Anthony Elenjimittam's 'Nemesis of Military Dictatorship' argues that military regimes carry within them the seeds of their own eventual collapse and cannot deliver durable legitimacy.
+
+- M. N. Tholal's 'Between Two Stools' argues non-alignment leaves India caught uncomfortably between the Western and communist blocs, serving neither its security nor its liberal values.
+
+- Varahamira's 'A Brief History of the Canal Waters Dispute' recounts the partition-era division of the Indus river system between India and Pakistan and the disputes it produced.
+
+- Baburao Patel's 'Arise! Awake! And Stop Not!' opens from Nehru's August 1958 remarks and borrows its refrain from Vivekananda to call Indians to civic awakening.
+
+- The four-page Libertarian Supplement carries Prof. G. N. Lawande's monetary essay 'Do Banks Create Money?' alongside Martin Bronfenbrenner's 'Danger in the Far East'.
+
 ## Essays
 
 ### Editorial: Dictatorship in Pakistan

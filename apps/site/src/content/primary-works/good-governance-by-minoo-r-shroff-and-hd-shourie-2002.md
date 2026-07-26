@@ -77,6 +77,24 @@ missing_metadata_flags:
 
 Good Governance in India is a January–March 2002 booklet published by the Forum of Free Enterprise (Mumbai) that pairs two short addresses on the institutional preconditions for good governance — one trained on the voluntary sector, the other on the machinery of the State. Minoo R. Shroff, President of the Forum, writes on the effective governance of NGOs, importing the Nolan Committee's seven principles of public life (selflessness, integrity, objectivity, accountability, openness, honesty, leadership) into a checklist for Indian charitable boards and their chief executives. H. D. Shourie, Director of Common Cause, reproduces a January 14, 2002 circular he addressed to all Chief Ministers and Chief Secretaries, cataloguing seven concrete remedies for State-level administrative malaise: tenure assurance via a Civil Services Board, grievance redressal, accountability via Citizens Charters, transparency and Right to Information, de-bloating of staff, anti-corruption machinery (CVC, CBI, Lokayukta, Benami and money-laundering laws), and modernisation through e-governance. Both pieces frame Indian state and civil-society failure as a problem of culture-of-office — bribery, opaque transfers, conflict of interest — and converge on the prescription that boards, chairmen, and chief executives must lead by personal example and operate under codified, monitored standards.
 
+## Key points
+
+- The booklet pairs two January-March 2002 addresses published by the Forum of Free Enterprise: Minoo R. Shroff on NGO governance and H. D. Shourie on reforming State administration.
+
+- Shroff imports the Nolan Committee's seven principles of public life -- selflessness, integrity, objectivity, accountability, openness, honesty, leadership -- as the template for an Indian NGO Charter of Governance.
+
+- Shroff proposes board term limits of no more than ten years and a retirement-age cap around seventy-five to keep NGO boards refreshed with new members.
+
+- Shroff insists on merit-based hiring with no nepotism whatsoever, matched to an internal audit function backed by reputed Chartered Accountants for NGO chief executives.
+
+- Shourie reproduces his 14 January 2002 circular to all Chief Ministers and Chief Secretaries, citing Uttar Pradesh's six-month average officer tenure as evidence of politically motivated transfers.
+
+- Shourie reports 41,647 cases pending across thirty-three Benches of the Central Administrative Tribunal, drawn from 3,45,436 cases filed with it since 1985.
+
+- Shourie's seven-point reform programme covers a statutory Civil Services Board, Citizens Charters, freedom-of-information legislation, de-bloated staffing, anti-corruption enforcement via the CVC, CBI and Lokayukta, and e-governance.
+
+- Shourie cites Orissa's reported diversion of cyclone relief funds toward staff salaries as an example of why de-bloating state administration is urgent.
+
 ## Essays
 
 ### Effective Governance of NGOs

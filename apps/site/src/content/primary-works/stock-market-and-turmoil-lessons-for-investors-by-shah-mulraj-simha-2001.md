@@ -82,6 +82,26 @@ missing_metadata_flags:
 
 Stock Market in Turmoil – Lessons for Investors is a 2001 Forum of Free Enterprise pamphlet collecting three contributions on the Indian stock market crisis that followed the collapse of the early-nineties bull run and the IT-stock hype. Prof. S. L. N. Simha, a former Principal Adviser of the Reserve Bank of India, opens with a forensic essay on "The Stock Market Debacle" originally carried by Southern Economist, blaming the Government, the RBI and SEBI more than speculators for permitting bank credit, badla carry-overs, mutual-fund share lending and weak regulatory independence to inflate the bubble. J. Mulraj, a financial analyst and Times of India columnist, follows with "Some Rules for Investors," a talk delivered at a Forum of Free Enterprise meeting in Mumbai on 18 April 2001, tracing the structural shift from open-outcry to screen-based trading, the rise of mutual funds and institutional ownership, and the global dotcom valuation mania. A third contribution by Dr. Ajay Shah is announced on the cover but falls outside the rendered pages.
 
+## Key points
+
+- Stock Market in Turmoil – Lessons for Investors is a 2001 Forum of Free Enterprise pamphlet collecting contributions on the Indian stock market crisis that followed the collapse of the IT-stock bull run.
+
+- Prof. S. L. N. Simha, a former Principal Adviser of the Reserve Bank of India, opens with 'The Stock Market Debacle', reprinted from Southern Economist, blaming Government, RBI and SEBI more than speculators.
+
+- Simha proposes restructuring SEBI along the lines of the U.S. SEC, with statutory independence, five-year board tenures, and insulation from the Finance Ministry.
+
+- Simha invokes Keynes's beauty-contest analogy to argue that even eminent experts cannot reliably price equities, and warns small savers off direct equity exposure.
+
+- Simha cites the near-bankruptcy of the hedge fund Long-Term Capital Management to caution against rushing to introduce derivatives trading in India beyond stock-index futures.
+
+- J. Mulraj, a financial analyst and Times of India columnist, delivered 'Some Rules for Investors' at a Forum of Free Enterprise meeting in Mumbai on 18 April 2001.
+
+- Mulraj traces the shift from open-outcry floor trading to screen-based, paperless settlement after foreign brokerage entry, alongside a parallel shift from individual to institutional share ownership.
+
+- Mulraj cites Lucent Technologies' fall after thirteen quarters of beating expectations, alongside the Infosys correction, as evidence that open-ended NAV-based mutual funds encourage corporate short-termism.
+
+- A third contribution by Dr. Ajay Shah is announced on the pamphlet's cover but falls outside the rendered pages of this record.
+
 ## Essays
 
 ### The Stock Market Debacle

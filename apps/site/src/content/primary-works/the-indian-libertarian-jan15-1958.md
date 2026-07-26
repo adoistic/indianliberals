@@ -86,6 +86,26 @@ physical:
 
 This 15 January 1958 'Republic Day Special' (Vol. V No. 21) of The Indian Libertarian, edited by Miss Kusum Lotwala and issued from the Libertarian Social Institute in Bombay, blends Republic Day reflection, Cold War commentary, and India's language and social-reform debates. In the rendered pages, the editorial examines Pakistan's currency-note symbolism and the idea of an Islamic state; V. R. marks Republic Day; M. A. Venkata Rao reviews 1957 at home and abroad; Charles A. Willoughby surveys Western strategy against the Soviet bloc; Dr. K. N. Kini continues a series on revolutionising Indian life; 'Lal' defends Madan Mohan Malaviya against charges of communalism; and 'Libra' attacks 'Hindi hysteria' and Panchashila economics, championing English. Later items listed in the table of contents—'Split in the Kremlin,' 'Sentence on Liberty,' and the Book Reviews—begin past the rendered pages.
 
+## Key points
+
+- The unsigned editorial opens with "Jinnah's Picture on Currency Notes," reading Pakistan's choice of imagery as a window onto its self-conception as an Islamic state.
+
+- The editorial comments on a Lahore Islamic conference and on "Islam and Spiritual Outlook," treating these developments critically from the journal's liberal, secular standpoint.
+
+- M. A. Venkata Rao's "1957: At Home and Abroad" surveys the past year's Indian and international politics, reading 1957 as a year that tested liberal and democratic assumptions both at home and abroad.
+
+- Charles A. Willoughby's "Western Blind Alley," subtitled "Red Chenghiz Khans on the Move," argues the Western powers have walked into a strategic dead end in the Cold War through a loss of conviction.
+
+- Willoughby attributes Western decline to inconsistent application of liberal principles in the contest with Soviet power, framing the Cold War as a contest the West is mishandling.
+
+- Writing as "Lal," a contributor defends Pandit Madan Mohan Malaviya against charges of cowardice and communalism, an essay occasioned by the unveiling of his portrait in the Central Hall of Parliament.
+
+- "Lal" invokes S. Radhakrishnan's characterisation of Malaviya to rebut the charge that he was either timid or a Hindu communalist in his political conduct.
+
+- Writing as "Libra," a contributor attacks the imposition of Hindi as India's national language, noting Hindi is the mother tongue of only a minority of Indians, and defends English instead.
+
+- "Libra" links the language question to wider failures of economic and foreign policy, warning against a feverish, coercive linguistic nationalism under the banner of "Panchashila."
+
 ## Essays
 
 ### Editorial

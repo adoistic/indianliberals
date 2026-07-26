@@ -67,6 +67,26 @@ physical:
 
 This issue of The Indian Libertarian (Vol. VIII No. 8, July 15, 1960), edited by Kusum Lotwala in Bombay and incorporating the 'Free Economic Review' and 'The Indian Rationalist', opens with an editorial on the threatened general strike by Central Government employees over pay and dearness-allowance demands, which it criticises as an unjustifiable ultimatum even while granting the reasonableness of cost-of-living linkage. The issue carries M. A. Venkatrao on the U.S.A. and Indian freedom (with a discussion of Ayub Khan's Pakistan), M. N. Tholal on student indiscipline, a four-page Economic Supplement of free-market essays (Prof. C. R. Lawande on population and planning, an essay on agricultural development, and E. C. Riegel's 'Trade A Unifier'), Satya Roy on communist treachery, and the American individualist Laurence Labadie on the origin and nature of government, alongside the regular Delhi Letter, press gleanings, and news columns. Across the rendered pages the issue presses a libertarian case against state planning, coercive government, and socialist economic policy.
 
+## Key points
+
+- The editorial addresses a threatened near-general strike by Central Government employees and railwaymen demanding wages linked to the cost-of-living index and pay rises beyond the Second Pay Commission's recommendations.
+
+- The editorial accepts the principle of automatic cost-of-living wage linkage, citing its acceptance by liberal governments such as the United States, but condemns the strike ultimatum as an unjustifiable and reckless tactic.
+
+- M. A. Venkata Rao's The U.S.A. and Indian Freedom examines the relationship between American leadership of the free world and India's own path, digressing into General Ayub Khan's defence posture in Pakistan.
+
+- M. N. Tholal's Student Indiscipline reflects on the causes of student unrest, drawing on his own student days in a section titled The Elder Brother.
+
+- Tholal frames student indiscipline partly as a reaction to unsympathetic, heavy-handed administration rather than as a simple failing of the young.
+
+- Laurence Labadie's Origin and Nature of Government argues that government, in its actual historical form, rests on coercion and the indirect increase of power.
+
+- Labadie distinguishes the individual's inalienable right of self-defence from the institutional apparatus of the State, treating political violence as qualitatively different from personal self-defence.
+
+- The issue's Economic Supplement carries free-market essays, including Prof. C. R. Lawande on population and planning and E. C. Riegel's Trade A Unifier.
+
+- The issue also carries Satya Roy's piece on communist treachery alongside the regular Delhi Letter, press gleanings and news columns.
+
 ## Essays
 
 ### Editorial: Central Government Employees' Threat of Strike

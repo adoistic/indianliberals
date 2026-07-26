@@ -66,6 +66,22 @@ physical:
 
 The 15 January 1960 issue (Vol. VII, No. 24) of The Indian Libertarian, the Bombay fortnightly edited by Kusum Lotwala and now subtitled 'Journal of Economic and Public Affairs' (incorporating the Free Economic Review and The Indian Rationalist), opens with a long editorial, 'A Political Review of 1959', surveying the year's events — the Nagpur Congress resolution on cooperative joint farming, the founding of the Swatantra (Freedom) Party under Rajagopalachari, Masani, and Ranga, Kerala politics, food-grain trade policy, and the Chinese border aggression in NEFA and Ladakh. The signed articles carry the journal's classical-liberal economics: M. A. Venkata Rao's 'What is Wrong with Planning?' indicts state planning as a method of regimentation, K. Kumara Sekhar's 'Spread Hindi — But why Oust English?' defends English in the language debate, William Paton's 'Enforcement of Fair Competition' argues for competition over administered controls, and Albert Morgan's 'Labour Is Not the Sole Source of Wealth' contests the labour theory of value. Regular departments — an Economic Supplement, Delhi Letter, Book Reviews, Gleanings from the Press, News Digest, In Lighter Vein, and a Letter to the Editor — round out the issue; the later department pages were not all in the rendered set.
 
+## Key points
+
+- The lead editorial, "A Political Review of 1959," surveys the Nagpur Congress resolution on cooperative joint farming, the founding of the Swatantra Party under Rajagopalachari, Masani and Ranga, and Chinese border aggression in NEFA and Ladakh.
+
+- M. A. Venkata Rao's "What Is Wrong with Planning?" argues that Indian economic planning's central defect is its premise, not its execution, treating comprehensive state direction as a form of regimentation that smothers private initiative.
+
+- K. Kumara Sekhar's "Spread Hindi — But Why Oust English?" accepts promoting Hindi while defending English's practical, unifying role across a multilingual India.
+
+- William Paton's "Enforcement of Fair Competition" argues that competition is itself the most effective form of regulation, and that government's proper role is to enforce fair competition rather than displace markets with administered controls.
+
+- Albert Morgan's "Labour Is Not the Sole Source of Wealth" rejects the labour theory of value, crediting capital and enterprise alongside labour in the creation of wealth.
+
+- The issue is published under the subtitle "Journal of Economic and Public Affairs," having absorbed the earlier Free Economic Review and The Indian Rationalist.
+
+- Regular departments round out the number, including an Economic Supplement, Delhi Letter, Book Reviews, Gleanings from the Press and a News Digest.
+
 ## Essays
 
 ### What is Wrong with Planning?

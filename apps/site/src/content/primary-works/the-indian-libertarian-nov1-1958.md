@@ -86,6 +86,24 @@ missing_metadata_flags:
 
 This is the May 15, 1959 issue (Vol. VII, No. 8) of The Indian Libertarian, a Bombay 'Independent Journal of Economic and Public Affairs' incorporating the 'Free Economic Review,' edited by Miss Kusum Lotwala under the banner 'We stand for free economy and libertarian democracy.' In the rendered pages the issue is framed by the 1959 Sino-Tibetan crisis: the editorial 'China Is Angry with India Over Tibet' rebukes Nehru's friendship policy with China and recounts the Tibetan revolt and the 1951 Sino-Tibetan agreement, while S. Ramanathan and Anthony Ellenjimittam treat the Dalai Lama and the flight from Lhasa. Domestic commentary turns on a critique of Nehru and planning — M. N. Tholal's 'Humpty-Dumpty Nehru's Fall,' M. A. Venkata Rao's 'Limits of State Action,' H. V. Kamath, K. Kumar Sekhar on Congress leadership, and 'The Impact of the Plan on the Common Man' — alongside reprinted classical-liberal essays by Frank Chodorov and Silvio Gesell and a 'Diamat' piece by Philip Spratt. The argumentative center is classical-liberal: skepticism of state planning and Nehruvian foreign policy, and a defence of market freedom.
 
+## Key points
+
+- The editorial 'China Is Angry with India Over Tibet' rebukes Nehru's professions of Sino-Indian friendship in light of Chinese hostility over Tibet, citing the autonomy clauses of the 1951 Sino-Tibetan Agreement.
+
+- The editorial sympathises with the Tibetan people and faults the Indian government for failing to name a clear charge against Chinese conduct in Tibet.
+
+- M. A. Venkata Rao's 'The Limits of State Action' argues the state's role must be strictly confined, warning against the rapid inroads of planning into economic life and defending individual initiative and the market.
+
+- M. N. Tholal's 'Humpty-Dumpty Nehru's Fall' offers a critical assessment of Nehru's declining political standing amid the planning and foreign-policy controversies of the period.
+
+- S. Ramanathan and Anthony Ellenjimittam contribute pieces on the Dalai Lama and the flight from Lhasa during the 1959 Tibetan revolt.
+
+- H. V. Kamath and K. Kumar Sekhar address Congress party leadership, while a further piece examines 'The Impact of the Plan on the Common Man'.
+
+- The issue reprints classical-liberal essays by Frank Chodorov and Silvio Gesell alongside a 'Diamat' piece by Philip Spratt critiquing dialectical materialism.
+
+- Throughout, the issue presses a classical-liberal line sceptical of state planning and Nehruvian foreign policy, defending market freedom and individual initiative against the era's planning consensus.
+
 ## Essays
 
 ### Editorial: China Is Angry with India

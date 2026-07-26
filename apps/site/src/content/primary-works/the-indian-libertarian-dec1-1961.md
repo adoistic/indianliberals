@@ -74,6 +74,24 @@ physical:
 
 This issue of The Indian Libertarian (Vol. IX No. 17, December 1, 1961) is pitched at the eve of the February 1962 general elections and reads as the Forum of Free Enterprise's case against Nehruvian socialism. The unsigned editorial christens the newly released Swatantra manifesto the 'Small Man's Manifesto' — speaking, it argues, for the farmer, small trader, manufacturer, professor, teacher, skilled worker and technician left bewildered by the Congress's drift toward Stalinist-Leninist Marxism. M. A. Venkata Rao broadens the polemic into a meditation on what philosophical wisdom and character voters should demand of their rulers, drawing on Plato, Marcus Aurelius, Chanakya and the Indian Shastric tradition. M. N. Tholal continues his series on the place of Muslims in Indian national integration; J. M. Lobo Prabhu mocks Nehru's foreign travels as a 'wanderlust'; and a Delhi Letter raises fresh alarm about Chinese incursions in Ladakh. A book review introduces readers to Irving L. Horowitz's anthology on classical anarchism, while 'Gleanings from the Press' covers the Khrushchev–Molotov feud and 'News & Views' gathers items on language policy, the Berlin Wall and a Kerala Communist victory. The number closes with the editor's 'Panchashila in Action' note tracking new Chinese posts on the Indian border.
 
+## Key points
+
+- The unsigned editorial christens the newly released Swatantra Party manifesto the "Small Man's Manifesto," casting it as the political voice of the farmer, small trader, professor, teacher and technician left homeless by Congress's socialism.
+
+- The editorial argues the Praja Socialist Party can no longer justify a separate existence outside Congress, leaving Swatantra as the only genuinely independent opposition ahead of the February 1962 elections.
+
+- M. A. Venkata Rao's "The Wisdom of the Rulers" asks what philosophical character voters should demand of leaders, drawing on Plato, Marcus Aurelius, Chanakya and Yajnavalkya alongside the Indian Shastric idea of the Raja's dharma.
+
+- Venkata Rao reads Plato's Republic as the originating model of the totalitarian closed society later inherited by Marxism-Leninism, and defends the family, private property and personal conscience against it.
+
+- M. N. Tholal's series "Muslims and National Integration" argues the historical inheritance of the Caliphate and the Sunni-Shia succession dispute produced a habit of looking to a supra-national community of belief rather than the territorial nation.
+
+- Tholal contends genuine integration requires Indian Muslims to treat religion as personal conscience while accepting the Indian state as their sole political loyalty, weighing the dangers of pan-Islamism and the Ulema's political role.
+
+- J. M. Lobo Prabhu mocks Nehru's foreign travels as a "wanderlust," while a Delhi Letter raises fresh alarm about Chinese incursions into Ladakh.
+
+- The issue's closing "Panchashila in Action" note tracks new Chinese military posts appearing along the Indian border, and a book review introduces Irving L. Horowitz's anthology on classical anarchism.
+
 ## Essays
 
 ### EDITORIAL — The "Small" Man's Manifesto

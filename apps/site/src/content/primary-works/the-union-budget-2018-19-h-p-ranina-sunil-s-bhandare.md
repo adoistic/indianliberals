@@ -64,6 +64,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet collects commentary on the Union Budget 2018-19 by tax expert H. P. Ranina and economist Sunil S. Bhandare. In the rendered pages, Ranina's lead essay, 'A Vision Document for Inclusive Growth', is based on a talk he delivered in Mumbai on 1 February 2018 at a meeting organised jointly by the Nani A. Palkhivala Memorial Trust, the Forum of Free Enterprise and the Bombay Chartered Accountants' Society. Reading from a pro-market, fiscally cautious vantage, Ranina treats this last full budget before the next general elections as a tightrope walk between fiscal consolidation and growth, surveying its tax-revenue assumptions, the new National Health Protection Scheme, agriculture and minimum support prices, ease-of-living measures, and incentives for small enterprises and start-ups. Sunil S. Bhandare's companion analysis lies beyond the rendered pages.
 
+## Key points
+
+- This Forum of Free Enterprise booklet collects commentary on the Union Budget 2018-19 by tax expert H. P. Ranina and economist Sunil S. Bhandare, though only Ranina's essay appears in the rendered pages.
+
+- Ranina's essay, "A Vision Document for Inclusive Growth," is based on a talk delivered in Mumbai on 1 February 2018 at a meeting jointly organised by the Nani A. Palkhivala Memorial Trust, the Forum of Free Enterprise and the Bombay Chartered Accountants' Society.
+
+- Ranina frames the 2018-19 budget, the last full budget before the next general elections, as a tightrope walk between fiscal consolidation and growth, built on an 11.5 percent nominal growth assumption.
+
+- He welcomes the National Health Protection Scheme, covering more than 100 million families with up to Rs. 5 lakh of cover per family, as a shift toward universal welfare.
+
+- He warns that the health scheme, higher minimum support prices set on the Swaminathan formula, oil prices and bank recapitalisation may make the 3.3 percent fiscal deficit target hard to hold.
+
+- Ranina notes marked GST-driven tax buoyancy for 2017-18 and observes that net tax revenue is largely consumed by establishment costs, pensions, defence and interest payments.
+
+- He praises "ease of living" measures such as free LPG and electricity connections and rural and urban housing, alongside education and tourism initiatives.
+
+- Ranina reads incentives for small and medium enterprises and start-ups, including the liberalised Section 80-JJAA employment deduction and Section 80-IAC tax holiday, as steps toward labour reform and job creation.
+
 ## Essays
 
 ### A Vision Document for Inclusive Growth

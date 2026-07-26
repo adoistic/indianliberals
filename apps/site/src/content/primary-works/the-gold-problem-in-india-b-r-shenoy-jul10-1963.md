@@ -72,6 +72,24 @@ missing_metadata_flags:
 
 The Gold Problem in India is a Forum of Free Enterprise booklet collecting four essays that examine, from historical, economic and constitutional angles, the gold smuggling problem and the Government of India's Gold Control Rules that came into force on 10 January 1963. The unsigned Introduction frames the volume as part of the Forum's practice of stimulating public thinking on national economic problems, presenting Prof. B. R. Shenoy (an authority on the gold problem, Director of the School of Social Sciences, Gujarat University), Mr. M. A. Sreenivasan (former Chairman of the Kolar Gold Mines), Dr. Kersi Doodha (Department of Economics, University of Bombay) and Mr. Phiroze J. Shroff (economist and authority on constitutional law). The argumentative centre, in the rendered pages, is a classical-liberal critique of gold control: the contributors trace smuggling to the gap between official and free-market gold prices, argue that controls treat symptoms rather than causes, and contend that the Rules interfere with fundamental rights and Directive Principles. Across the four pieces the common prescription is to close the price gap and restore confidence in the rupee rather than to police the bullion trade.
 
+## Key points
+
+- The booklet collects four essays on India's gold smuggling problem and the Gold Control Rules that took effect on 10 January 1963, contributed by B. R. Shenoy, M. A. Sreenivasan, Kersi Doodha, and Phiroze J. Shroff.
+
+- B. R. Shenoy locates the root cause of smuggling in the gap between the official gold price and the much higher free-market price, which makes smuggling extremely profitable for those involved.
+
+- Shenoy reviews the government's escalating policy steps from 21 August 1962 through the 10 January 1963 Gold Control Rules, concluding that controls cannot succeed while the price gap persists.
+
+- M. A. Sreenivasan, a former Chairman of the Kolar Gold Mines, recounts the nationalisation and decline of the Kolar Gold Fields as a matter of political face-saving rather than economic logic.
+
+- Sreenivasan urges renewed prospecting and a properly resourced Gold Mining Development Fund rather than coercive campaigns urging citizens to surrender ornaments to the National Defence Fund.
+
+- Kersi Doodha traces the historic Indian preference for hoarding gold and silver as a store of value back to the transition from barter to a common medium of exchange.
+
+- Doodha links the propensity to hoard gold to the gap between desired savings and productive investment in a developing economy, and reviews the government's gold-bonds scheme with scepticism about its inducements.
+
+- Phiroze J. Shroff argues that the Gold Control Rules, promulgated under section 3 of the Defence of India Act 1962, impose severe restrictions on the age-old business of goldsmiths.
+
 ## Essays
 
 ### The Gold Problem in India

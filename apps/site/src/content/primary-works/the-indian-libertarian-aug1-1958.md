@@ -84,6 +84,22 @@ The August 1, 1958 issue of The Indian Libertarian (Vol. VI, No. 10) is dominate
 
 The issue's libertarian core appears in V. R.'s 'The Principle of State Interference', in the Indian Libertarian Supplement (which carries 'Wanted: A New Intellectual Elite' by Chanakya and Frédéric Bastiat's classic 'On Stopping Competition'), and in shorter pieces critiquing welfare-state rhetoric, anti-prostitution legislation, and the conduct of the Reserve Bank. The volume thus knits together anti-communism, scepticism of state planning, defence of free competition, and an editorial campaign for English as India's official language, all framed under the masthead motto 'We Stand For Free Economy And Libertarian Democracy.'
 
+## Key points
+
+- The 1 August 1958 issue, Vol. VI, No. 10, is dominated by the Cold War crisis in West Asia following the Iraqi coup and the landing of American and British troops in Lebanon and Jordan.
+
+- The editorial's first part alleges that Pakistani embassies and trade missions were used as cover for military reconnaissance inside India, accusing the government of laxity in monitoring foreign personnel.
+
+- The editorial's second part, 'The Lesson of Lebanon for India', argues that doctrinaire non-alignment leaves small states exposed to Soviet-sponsored indirect aggression and urges India to reinforce its own frontiers.
+
+- M. A. Venkata Rao reads Nasser-led Arab nationalism as an instrument of Soviet indirect aggression and defends the Anglo-American Lebanon landings as legitimate under the U.N. Charter.
+
+- Writing as 'V. R.', an essay on 'The Principle of State Interference' cites Europe's post-war retreat from state-controlled economies as evidence Indian planners are repeating mistakes already abandoned elsewhere.
+
+- M. N. Tholal's 'Farewell, Neutrality' argues that the Iraqi coup and Western interventions in Lebanon and Jordan make India's posture of equidistance a moral pretence, calling on Nehru to abandon it.
+
+- The Indian Libertarian Supplement carries Chanakya's 'Wanted: A New Intellectual Elite' and Frédéric Bastiat's 'On Stopping Competition' alongside shorter pieces critiquing welfare-state rhetoric and anti-prostitution legislation.
+
 ## Essays
 
 ### Letter to the Editor

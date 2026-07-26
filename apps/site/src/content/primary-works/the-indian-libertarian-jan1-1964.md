@@ -68,6 +68,22 @@ physical:
 
 This January 1, 1964 issue (Vol. XI No. 19) of The Indian Libertarian, edited by D. M. Kulkarni, mixes Indian party politics with Cold War foreign affairs. The editorial celebrates the Congress party's heavy electoral defeat in Goa; M. A. Venkata Rao surveys American foreign policy and its posture toward the Communist bloc; M. N. Tholal asks 'Whom To Follow?' in a meditation on political leadership and integrity; A. G. Noorani draws a pointed analogy between Nehru and Neville Chamberlain's appeasement; and Prof. M. S. Prasad examines the Congress party's internal Kamraj Plan. A Delhi Letter on disarray in the Communist 'Red Camp,' plus Book Review, The Mind of the Nation, News and Views, and Dear Editor departments complete the number.
 
+## Key points
+
+- The unsigned editorial 'Congress Badly Trounced in Goa' reads the Congress party's decisive defeat in the Goa election as a considered popular verdict the ruling party would do well to accept rather than dismiss.
+
+- M. A. Venkata Rao's 'American Foreign Policy' weighs the United States' responsibilities as leader of the free world against the demands of Cold War rivalry with the Communist bloc, considering implications for India and other non-aligned states.
+
+- M. N. Tholal's essay 'Whom To Follow?' argues that even great leaders cannot foresee precisely how events will unfold, and asks how the public should choose whom to follow when no leader's judgement is infallible.
+
+- A. G. Noorani's 'Nehru and Chamberlain' draws a pointed historical analogy between Jawaharlal Nehru and Neville Chamberlain, arguing that Nehru's methods, like Chamberlain's appeasement, were exposed as inadequate by events.
+
+- Prof. M. S. Prasad's 'The Congress and the Kamraj Plan' examines the internal reorganisation scheme under which senior Congress leaders resigned government office to devote themselves to party work.
+
+- Prasad traces how the All-India Congress Committee handled the Kamraj Plan and reads its implementation as a revealing window onto power and discipline within the ruling party.
+
+- The issue includes a Delhi Letter reporting disarray within the Communist 'Red Camp', alongside regular Book Review, Mind of the Nation and Dear Editor departments.
+
 ## Essays
 
 ### Editorial: Congress Badly Trounced in Goa

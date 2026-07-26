@@ -95,6 +95,24 @@ This booklet, issued by the Forum of Free Enterprise in Bombay, gathers the addr
 
 The five speakers converge on a single argument: that the expansion of the State Trading Corporation (S.T.C.) under India's planned-economy doctrine of a 'socialistic pattern of society' is the most sinister encroachment on free enterprise and the democratic way of life since independence. Shroff calls it a 'Twentieth Century East India Company'; Dandeker mounts a constitutional argument that any new State activity must be 'demonstrably necessary' in the public interest and that the absence of autonomy invites backdoor political abuse; Bose documents the wreckage of the mineral and ore trade — manganese, iron ore, mica — under STC monopoly pricing; Vaidya argues that centralised barter deals with Communist countries are simultaneously corrupting export discipline and breeding a clientele dependent on the ruling party; Futnani details the fiscal and procurement disasters in steel imports, where amateur State purchasing has driven up costs by roughly forty per cent. The unifying thesis is that State Trading concentrates favour, finance and discretionary patronage in the hands of bureaucrats and the ruling party, hollowing out parliamentary democracy from within.
 
+## Key points
+
+- A. D. Shroff, presiding as Forum President, brands the State Trading Corporation "the Twentieth Century East India Company" and calls the nationalisation of life insurance and creation of the STC the Government's two most indefensible acts.
+
+- Shroff argues the STC has demoralised the merchant class, ruining hundreds of merchants and reducing others to silent fear, and warns it is now extending into petrol and newsprint distribution.
+
+- N. Dandeker mounts a constitutional argument that any new State economic activity must be "demonstrably necessary in the public interests," proposing a two-pronged test of whether objectives are achievable by ordinary citizens or by regulated private enterprise.
+
+- Dandeker contends the State Trading Corporation has never been forced to meet this test in advance, with its results instead rationalised after the fact, and that its unlimited finance makes it a de facto monopoly no private trader can rival.
+
+- S. C. Bose of the Utkal Mining and Industrial Association documents damage to the manganese, iron ore and mica trade under STC monopoly pricing.
+
+- Murarji J. Vaidya, former President of the Indian Merchants' Chamber, argues that centralised barter deals with Communist countries corrupt export discipline and breed a clientele dependent on the ruling party.
+
+- D. B. Futnani, President of the Iron, Steel and Hardware Merchants' Chamber of India, details fiscal and procurement failures in steel imports, where amateur State purchasing raised costs by roughly forty per cent.
+
+- The volume's introduction cites an epigraph from World Bank President Eugene Black insisting private enterprise be accepted "not as a necessary evil but as an affirmative good."
+
 ## Essays
 
 ### INTRODUCTION

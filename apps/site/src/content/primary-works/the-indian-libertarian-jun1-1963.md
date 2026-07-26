@@ -64,6 +64,22 @@ physical:
 
 This June 1, 1963 issue (Vol. XI No. 5) of The Indian Libertarian, the Bombay fortnightly edited by D. M. Kulkarni and here carrying a redesigned cover as 'An Independent Journal of Public Affairs,' opens with an editorial, 'Bread or Socialism?', that pits the productive promise of free enterprise against the claims of socialist planning in a hungry India. M. A. Venkata Rao's 'Collective Responsibility' is a work of political theory weighing collective against individual responsibility and drawing on Indian sources; M. N. Tholal continues his serial 'The Mysterious Rajkot Fast' (part II), re-examining Gandhi's 1939 fast at Rajkot; and Mildred J. Loomis contributes 'Ralph Borsodi: Man of Action,' a profile of the American decentralist and homesteading reformer behind the School of Living and the 'Green Revolution' of self-sufficient living. The issue rounds out with a Delhi Letter on 'The Indo-Pak Tug of War,' a book review, 'The Mind of the Nation,' news and views, and a 'Dear Editor' section. Its argumentative centre is the journal's defence of economic freedom and individual responsibility against socialism and collectivism.
 
+## Key points
+
+- The editorial 'Bread or Socialism?' frames India's development choice as one between the material abundance a free, productive economy can deliver and doctrinaire socialist planning.
+
+- M. A. Venkata Rao's 'Collective Responsibility' is a political-theory essay arguing, from a British rule-book maxim and Indian sources, that collective responsibility must rest on and not dissolve individual conscience.
+
+- M. N. Tholal's serial 'The Mysterious Rajkot Fast' (part II) re-examines Gandhi's controversial 1939 fast at Rajkot, which Gandhi himself later admitted had been a mistake.
+
+- Tholal probes the political bargaining and contradictions surrounding the Rajkot fast to scrutinise Gandhi's use of fasting as a political instrument.
+
+- Mildred J. Loomis's 'Ralph Borsodi: Man of Action' profiles the American decentralist Ralph Borsodi, resisting the label of mere 'visionary' by stressing that he put his ideas into practice.
+
+- Loomis traces Borsodi's founding of the School of Living and his 'Green Revolution' of decentralised, family-scale, self-sufficient production as a practical alternative to industrial dependence.
+
+- The issue closes with a Delhi Letter on 'The Indo-Pak Tug of War', a book review, and the standing 'Mind of the Nation' and 'Dear Editor' sections.
+
 ## Essays
 
 ### Editorial: Bread or Socialism?

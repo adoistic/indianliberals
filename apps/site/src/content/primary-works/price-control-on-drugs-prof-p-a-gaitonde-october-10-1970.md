@@ -82,6 +82,24 @@ missing_metadata_flags:
 
 Published by the Forum of Free Enterprise on 10 October 1970, this pamphlet collects three short polemics opposing the Government of India's Drugs (Prices Control) Order of 16 May 1970. The contributors — economist Prof. P. A. Gaitonde of K. C. College, Bombay; pharmaceutical Managing Director N. H. Israni; and PAMDAL Past President Champaklal Zaveri — share a common argument: in the absence of war or emergency shortage, rigid price control on drugs will throttle competition, deter R&D, reduce supply, and ultimately injure the very consumers it claims to help. The volume marshals price-index data, comparative international evidence, the Tariff Commission's 1968 report, and the confusion produced by the Order's repeated amendments to argue that the industry's growth and the public's health are best served by lower taxes, decanalised raw-material imports, and the discipline of competition rather than by a single-formula government fiat.
 
+## Key points
+
+- Prof. P. A. Gaitonde concedes price controls may be justified during war or shortage but argues that, absent those conditions, competition rather than coercion drives falling prices under the Drugs (Prices Control) Order of May 1970.
+
+- He cites wholesale price index data showing drug prices rose only 88.7 per cent against a general index rise of 111.6 per cent between 1956-57 and 1968-69, undercutting the government's premise of runaway drug prices.
+
+- Gaitonde argues the Order's mark-up formula, limiting margins to as little as 75 per cent over cost, leaves too thin a margin to fund the four-year, capital-intensive research cycle new drugs require.
+
+- He recommends cheaper raw materials from the public sector, lower indirect taxation on inputs, and a growth-oriented climate rather than a price freeze to meet the projected Rupees seven hundred fifty crores of needed investment.
+
+- N. H. Israni, a pharmaceutical managing director, shows that competition already drove prices down before 1963, with Tetracycline capsules falling from Rupees two point five zero in 1956 to Rupees one point one five by 1963.
+
+- Israni reports that manufacturers voluntarily cut prices of about 1,100 products by 50 to 66 per cent, saving consumers roughly Rupees fifteen crores annually, before the government imposed its rigid pricing formula.
+
+- He calls India the only country in the world applying so rigid a price-formula approach to pharmaceuticals, and proposes abolishing controls, intensifying competition, and treating industry as a partner rather than a target of compulsion.
+
+- Champaklal Zaveri, immediate past president of PAMDAL, joins Gaitonde and Israni in warning that rigid price control, absent war or emergency shortage, will throttle competition, deter research, reduce supply and ultimately injure the consumers it claims to protect.
+
 ## Essays
 
 ### Price Control on Drugs

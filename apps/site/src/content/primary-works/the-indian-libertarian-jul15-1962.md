@@ -67,6 +67,22 @@ physical:
 
 This issue of The Indian Libertarian (Vol. X No. 8, July 15, 1962), edited by Kusum Lotwala in Bombay, now carries the cover slogan 'We Stand For Free Economy and Limited Government'. Its editorial reads the Algerian National Liberation Front's referendum victory of July 1962 as a warning that newly independent nations risk internal strife and civil war once the unifying struggle for freedom ends. The issue then turns inward: M. A. Venkata Rao analyses the 'central flow' of Congress leadership and the Dravida separatist agitation in Madras; M. N. Tholal weighs the Gandhi-to-Nehru succession and the future of Congress leadership; and A. Ranganathan reflects on the place of the intellectual in society. A four-page Economic Supplement carries Dr. N. Das's critical survey of 'State Enterprises in India', alongside the regular Delhi Letter, book review, press gleanings and news columns. Across the rendered pages the issue argues a limited-government, free-economy line against state enterprise and centralised political power.
 
+## Key points
+
+- The editorial "Algeria's Main Problem" reads the National Liberation Front's overwhelming July 1962 referendum victory as a jubilant but precarious moment, warning of post-independence factional splits.
+
+- The editorial notes the Ben Bella-Ben Khedda rupture and rifts within the army command, drawing the general lesson that newly free nations must guard against post-liberation civil strife.
+
+- M. A. Venkata Rao examines the "central flow" of Congress leadership after the 1962 elections, addressing the Dravida Kazhagam and Dravida Munnetra Kazhagam separatist agitation in Madras.
+
+- Venkata Rao frames the questions of Congress leadership succession and regional separatism as tests of the party's capacity to hold the nation together.
+
+- M. N. Tholal reflects on Gandhi's designation of Nehru as his successor, touching on the Poona Pact and the internal dynamics of Congress organisation during the freedom movement.
+
+- The Economic Supplement carries Dr. N. Das's critical survey, "State Enterprises in India," questioning the pricing and profitability of public-sector enterprises under "no-profit-no-loss" policies.
+
+- Das argues that political and bureaucratic control undermines the efficient running of India's state enterprises, surveying their growth and performance since independence.
+
 ## Essays
 
 ### Editorial: Algeria's Main Problem

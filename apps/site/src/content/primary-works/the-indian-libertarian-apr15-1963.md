@@ -71,6 +71,26 @@ missing_metadata_flags:
 
 The Indian Libertarian, Vol. XI No. 2 (15 April 1963), is a fortnightly periodical edited by D. M. Kulkarni and issued from Bombay by Libertarian Publishers (Private) Ltd. Its masthead promises 'An Independent Journal of Public Affairs' and carries the campaigning slogan 'Make English the Lingua Franca of India.' The issue opens with an unsigned editorial replying to President Radhakrishnan's recent address on complacency, turning the President's complaint back on the Congress government and faulting it for the Krishna Menon era at the Defence Ministry, zig-zags in non-alignment, and the Ganges river-waters dispute with Pakistan. M. A. Venkata Rao contributes a comparative essay on Russian versus Persian nation-building; M. N. Tholal revisits old All-India Congress Committee resolutions under the heading 'Ghosts of History.' A four-page Economic Supplement (folios I-IV) carries Prof. G. N. Lawande on planning and employment, an Australian reprint on 'Britain, The Giant Invalid,' and Austen Nazareth on small business as the keystone of developing nations. A. G. Noorani surveys the post-Nehru succession field; a Delhi Letter dissects the K. D. Malaviya mineral-ores controversy; the issue closes with a book review of Acharya Vinoba Bhave's Democratic Values, a press-gleanings column, news briefs from Geneva, Washington, New York and Guatemala, and a Dear Editor page dominated by the national-language debate.
 
+## Key points
+
+- An unsigned editorial answers President Radhakrishnan's charge of public complacency by inverting it, arguing the real complacency lies in the Congress government's own conduct.
+
+- The editorial reads Radhakrishnan's address as a tacit admission that central planning has failed and that private enterprise must be relied upon.
+
+- It attacks the 'vicious system' in the Defence Ministry under V. K. Krishna Menon and criticises India's zig-zags between non-alignment, the Commonwealth and African solidarity.
+
+- The editorial calls India's position on the Ganges river-waters dispute with Pakistan feeble and irresolute, and closes with a 'Food for Thought' sidebar of liberty quotations from Webster, Burke and Rudolf Rocker.
+
+- M. A. Venkata Rao's essay 'Herd Instinct And Nation-Building' contrasts the Russian and Persian revolutions to argue that reform cut off from a nation's own cultural tradition either collapses or must be propped up by force.
+
+- Venkata Rao draws the lesson that a young nation like India must distinguish between borrowing foreign techniques and importing alien spiritual content, anchoring reform in its own civilisational past.
+
+- M. N. Tholal's column 'Ghosts of History' revisits 1920s Congress Working Committee resolutions on Bengal, Maharashtra and Muslim representation to argue today's minority-safeguard and federalism debates are not new.
+
+- The Economic Supplement carries Prof. G. N. Lawande on planning and employment, an Australian reprint on 'Britain, The Giant Invalid', and Austen Nazareth arguing small business is the keystone of developing nations.
+
+- A. G. Noorani surveys the field of contenders for the post-Nehru succession, while a Delhi Letter examines the K. D. Malaviya mineral-ores controversy and the issue closes with a review of Vinoba Bhave's Democratic Values.
+
 ## Essays
 
 ### EDITORIAL: Who is Complacent Please, People or The Government?

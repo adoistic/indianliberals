@@ -66,6 +66,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet (series 8/D/59, December 1959) collects the three prize-winning essays from the FFE's 1958 student essay competition on 'The New Pattern of Taxation in India'. An unsigned editorial introduction frames the competition, names the panel of judges — Dr. D. T. Lakdavala (University of Bombay), Mr. R. V. Murthy and Prof. R. J. Taraporevala — and prints a marginal note from Eugene Black of the World Bank arguing that people must come to accept private enterprise 'not as a necessary evil, but as an affirmative good'. The three essays — by R. S. Sivaramakrishnan (Christian College, Madras), E. S. Ganesh (Jamshedpur Co-operative College) and M. V. Nadkarni (Karnatak College, Dharwar) — converge on a shared critique. Each writer accepts that the Second Five-Year Plan demands more revenue but argues that the post-Kaldor structure of Income-tax, Super-tax, Surcharge, Wealth Tax, Expenditure Tax, Gift Tax, Capital Gains Tax and Estate Duty has stacked complementary levies on the same narrow base of high-income individuals and companies, dampening private saving, capital formation and the appetite to invest. The volume closes with the FFE's customary disclaimer and A. D. Shroff's motto on the back inner cover. The full 20-page booklet was rendered for this pass.
 
+## Key points
+
+- The booklet collects the three prize-winning essays from the Forum of Free Enterprise's 1958 student essay competition on 'The New Pattern of Taxation in India', judged by Dr. D. T. Lakdavala, Mr. R. V. Murthy, and Prof. R. J. Taraporevala.
+
+- R. S. Sivaramakrishnan reads the New Pattern as a Kaldor-driven attempt to graft Wealth, Expenditure, Capital Gains, Annual Capital, and Gift taxes onto an already heavy direct-tax base carried by a narrow group of taxpayers.
+
+- Sivaramakrishnan argues the cumulative incidence on a small minority of taxpayers reaches marginal rates of 84 per cent and is administratively unenforceable in practice.
+
+- Sivaramakrishnan treats the Capital Gains Tax and Estate Duty as direct disincentives to risk-capital formation at a time when industry is starved of equity finance.
+
+- E. S. Ganesh defines sound tax policy by the twin tests of greater production and better distribution, arguing lowered income-tax rates were offset by the Wealth and Expenditure taxes sealing off both saving and spending.
+
+- Ganesh catalogues contradictions in company taxation, including the Excess Dividends Tax penalising distributed profits and Section 23A penalising retained profits, and calls the Wealth Tax on companies a case of double taxation.
+
+- Ganesh closes on Chief Justice Marshall's dictum that the power to tax is the power to destroy, endorsing C. D. Deshmukh's call for taxation that is 'less repugnant and more voluntary'.
+
+- M. V. Nadkarni evaluates the New Pattern against four stated objectives, namely meeting the Plan's revenue needs, promoting savings, minimising evasion, and making taxes broad-based and progressive, while conceding it is comprehensive.
+
 ## Essays
 
 ### I

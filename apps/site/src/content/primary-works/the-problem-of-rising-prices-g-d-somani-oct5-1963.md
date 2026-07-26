@@ -63,6 +63,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet gathers excerpts from statements issued by several Indian commercial and industrial bodies and from the presidential speeches of their chambers, all addressing the sharp rise in prices in 1962-63. As the introduction explains, it compiles relevant material from various organisations to give students of economics an insight into the causes of price rise, and adds an appendix on the much-debated cost-of-living index. The contributions share a common diagnosis from the business community: that inflation is driven principally by a supply-demand gap in foodgrains and essential commodities, by deficit financing and heavy Emergency-era defence expenditure, and by the cumulative burden of indirect taxation, excise duties and railway freight increases — rather than by trade profiteering. Across the excerpts the chambers press the government to prioritise increased production, relax movement and price controls, and reconsider its tax policy, while defending private trade against the charge of being responsible for rising prices. Named individual contributions come from G. D. Somani (Indian Merchants' Chamber) and Lalchand Hirachand (Maharashtra Chamber of Commerce), alongside statements from the Bengal National Chamber, the Indian Chamber of Commerce (Calcutta), the Gujarat Chamber and the Association of Indian Trade and Industry.
 
+## Key points
+
+- This Forum of Free Enterprise booklet gathers excerpts from statements by several Indian commercial and industrial bodies addressing the sharp rise in prices during 1962-63.
+
+- The Bengal National Chamber of Commerce & Industry's memorandum to the West Bengal Price Inquiry Committee cites money supply rising from Rs. 1,804 crore in 1951 to Rs. 3,406 crore by April 1963.
+
+- The Bengal Chamber's memorandum notes excise revenue rose from Rs. 67.54 crore in 1950-51 to Rs. 489.31 crore in 1961-62, adding to the cost of goods.
+
+- G. D. Somani, President of the Indian Merchants' Chamber, Bombay, argues that the steep rise in indirect taxation since 1962-63 has fed directly into prices and needs objective study.
+
+- Somani reports that output of producer goods rose only around 14 per cent against rising effective demand, widening the underlying supply-demand gap.
+
+- Lalchand Hirachand, President of the Maharashtra Chamber of Commerce, Bombay, argues that government price policy should rest on increasing production rather than on administrative controls.
+
+- Across the excerpts the chambers press government to prioritise increased production and reconsider tax policy while defending private trade against the charge of profiteering.
+
+- An appendix to the booklet addresses the much-debated cost-of-living index used to measure the impact of the price rise on ordinary households.
+
 ## Essays
 
 ### Factors Influencing Price Movements (Memorandum to the Price Inquiry Committee)

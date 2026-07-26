@@ -84,6 +84,24 @@ missing_metadata_flags:
 
 This June 1, 1959 issue (Vol. VII No. 9) of The Indian Libertarian, the Bombay 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala, is dominated by the Tibetan crisis and the collapse of 'Panchsheela'. The unsigned editorial reflects on the Dalai Lama, the Buddha and India in the wake of China's suppression of Tibet, and M. A. Venkata Rao argues that the flight of the Dalai Lama exposes the bankruptcy of Nehru's Five-Principles policy toward China. M. N. Tholal and J. K. Dhairyawan press the critique of Nehru's leadership, A. Ranganathan reflects on the individual and the Constitution, T. L. Kantam analyses China's 'uninterrupted revolution', Laurance Barth digs at the roots of Indian chaos, and Sir David Kelly and an unsigned piece scrutinise Pakistan. A report on C. D. Deshmukh's plea for a national government and the standing departments (News Digest, Letters) close the issue.
 
+## Key points
+
+- This 1 June 1959 issue of The Indian Libertarian (Vol. VII No. 9), edited by Kusum Lotwala, is dominated by the Tibetan crisis and the collapse of 'Panchsheela'.
+
+- The unsigned editorial, 'Dalai Lama, the Buddha and India', notes that the Dalai Lama's own sermon omitted China's suppression of Tibet despite tributes paid by leaders including Radhakrishnan.
+
+- M. A. Venkata Rao's 'Tibet and "Panchsheela"' argues the Tibetan revolt and the Dalai Lama's flight to India exposed Nehru's Five Principles of peaceful coexistence with China as an illusion.
+
+- M. N. Tholal's 'Nehru is Flogging A Dead Horse' charges Nehru with persisting in discredited China and non-alignment policies long after events discredited them.
+
+- J. K. Dhairyawan's 'Nehru, The Big National Problem' argues the Prime Minister's personal dominance and characteristic indecision have become obstacles to sound government.
+
+- T. L. Kantam's 'Wither China?—The Uninterrupted Revolution' traces the Maoist doctrine of permanent revolution and links it to China's aggressive conduct, including in Tibet.
+
+- Sir David Kelly's 'Pakistan Has No Business to keep Bombers' argues Pakistan's bomber force is disproportionate to any legitimate defensive need and destabilises the subcontinent.
+
+- A. Ranganathan's 'The Individual and the Constitution' measures the constitutional order by how far it actually secures individual freedom against encroachments of the state.
+
 ## Essays
 
 ### Editorial: Dalai Lama, the Buddha and India

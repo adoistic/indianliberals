@@ -58,6 +58,26 @@ physical:
 
 This is the 21 December 1991 issue (Year 8, Issue 17) of the Marathi fortnightly शेतकरी संघटक (Shetkari Sanghatak), the organ of Sharad Joshi's Shetkari Sanghatana, a substantial 16-page number with a formal contents box. Its spine, in the rendered pages, is Sharad Joshi's long front-page address 'भारत दशकातील चतुरंग शेती' (Diversified farming in the India of the decade), which argues that the early pain of economic liberalisation is 'the price of freedom' for the farmer and calls for value-added, market-oriented, technology-using agriculture. The rest of the issue turns to the movement's organisational and ideological life as it heads into the February 1992 local-body elections: a report of the 15-17 December Wardha leadership meeting, the Shetkari Mahila Aghadi's election manifesto demanding genuine (not proxy) women's representation under the new 30% reservation, the newly-constituted Sanghatana executive roster, and two pieces elaborating Joshi's 'Sita' idiom — a Ramayana allegory of Sita's 'second exile' tied to the women's front, and a practical 'Sitasheti' (low-external-input natural farming) guide on composting. In the rendered pages the issue's argumentative centre is the linkage of economic-freedom-for-farmers with women's political agency and an ecological, self-reliant farming method.
 
+## Key points
+
+- The issue's lead article, Sharad Joshi's Bharat Dashakatil Chaturang Sheti, argues that farmers must move beyond raw-crop production into processing, value addition and market-oriented, technology-using agriculture.
+
+- Joshi frames the early disruption of economic liberalisation as the price of freedom for farmers, contrasting the closed, state-directed Nehru-Indira-Rajiv Gandhi era with an open, competitive economy modelled partly on China and Japan.
+
+- The Shetkari Mahila Aghadi's election manifesto for the February 1992 Zilla Parishad and Panchayat Samiti polls welcomes the state's new 30 per cent reservation of seats for women.
+
+- The manifesto warns that reservation could be hollowed out by proxy women candidates fronting for established male leaders, and demands genuine representatives who understand rural women's problems.
+
+- The Shetkari Mahila Aghadi presents itself as the only organisation representing rural Maharashtra's women across every caste, creed and region.
+
+- A serialised piece retells the Ramayana episode of Sita's exile, citing Valmiki with verse references, printed to mark a Swayamsiddha Sita temple resolution.
+
+- This Sita retelling functions within the issue as an allegory for the women's front's idiom of the self-reliant, swayamsiddha woman.
+
+- A second installment of the Sitasheti natural-farming series, credited to the Krishi Arth Prabodhini of Khed, Pune, explains composting, soil bacteria, nitrogen and the soil food chain.
+
+- The Sitasheti installment teaches farmers to build fertile soil from farm and household waste and closes with an appeal inviting readers to register and share their own experiments.
+
 ## Essays
 
 ### भारत दशकातील चतुरंग शेती

@@ -73,6 +73,22 @@ missing_metadata_flags:
 
 This is the September 21, 1991 issue of Shetkari Sanghatak (शेतकरी संघटक), a Marathi fortnightly published by the Shetkari Sanghatana movement and edited by Sureshchandra Mhatre. The eight-page issue carries three pieces, all by Sharad Joshi (शरद जोशी), the movement's founder, written in the weeks immediately following the Narasimha Rao government's economic liberalization announcement of July 1991. The lead piece is an "open response" from farmers to the new Prime Minister, listing ten concrete demands on what a credible liberalisation must do for agriculture. The second piece is Joshi's preface to the Marathi edition of the "National Agricultural Policy" document drafted by the Devi Lal–chaired advisory committee under V. P. Singh's government and shelved by the Chandrashekhar and Narasimha Rao governments. The third piece, marking twelve years of the Shetkari Sanghatana, is a reflective essay arguing that the agitational phase (the "embers") has done its work and that the movement now needs an intellectual and educational flame, anchored by Jefferson's dictum that eternal vigilance is the price of freedom. The argumentative centre of the issue is a classical-liberal critique of the Nehru-Mahalanobis development model and an insistence that genuine liberalisation must dismantle monopoly procurement, price controls, export restrictions and the urban bias that have impoverished Indian farmers.
 
+## Key points
+
+- This 21 September 1991 issue (Vol. 8, No. 11) carries three pieces, all by Sharad Joshi, written weeks after the Narasimha Rao government's July 1991 liberalisation announcement.
+
+- The lead item is an open letter from farmers to the Prime Minister setting out ten demands, including full freedom to export agricultural produce and removal of quantitative export caps and bans.
+
+- It also calls for licensing small, farm-linked processing units such as oilseed, poultry and dairy plants in rural areas, and for abolishing the procurement regime that holds farm prices below world levels.
+
+- Joshi's preface to the Marathi edition of the 'National Agricultural Policy' recounts how the Devi Lal-chaired advisory committee, on which he himself sat, drafted the policy under V. P. Singh's government in March 1990 before it was shelved by the Chandrashekhar and Narasimha Rao governments.
+
+- He presents the Marathi edition, published through Janashakti/Shetkari Prakashan, as a reference text for farmer-activists to use against continuing official policy drift.
+
+- The third essay, marking twelve years of the Shetkari Sanghatana, argues the movement's agitational 'embers' have done their work and that an intellectual and educational 'flame' is now needed, invoking Jefferson's dictum that eternal vigilance is the price of freedom.
+
+- Across all three pieces, Joshi names the Nehru-Mahalanobis development model as the structural source of the bias against Indian agriculture that liberalisation must reverse.
+
 ## Essays
 
 ### इंडियाच्या पंतप्रधानांना शेतकऱ्यांचा अनावृत प्रतिसाद

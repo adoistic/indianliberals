@@ -65,6 +65,26 @@ physical:
 
 This Forum of Free Enterprise booklet, edited by Sunil S. Bhandare, gathers three presentations on the Union Budget for 2009-10 — the first budget of the newly re-elected Congress-led coalition — under the heading 'Three Critical Dimensions'. Bhandare's Editor's Note frames the volume around the high expectations that the 'Left being left out' would let the government push aggressive long-pending reforms, and concedes the budget conveyed 'different perspectives for different experts'. The three contributors approach the budget from complementary angles: Amitha Sehgal offers a macro-fiscal critique measuring the budget against the Planning Commission's Vision 2020; Divya Vasantharajan reads the micro, sector-by-sector impact on the capital market; and the chartered accountant Kanu H. Doshi works through the direct-tax proposals clause by clause. Across the three, the booklet balances alarm over India's mounting fiscal deficit and debt against cautious optimism about growth, employment and market revival.
 
+## Key points
+
+- Sunil S. Bhandare's Editor's Note frames the booklet around high expectations that the Congress-led coalition, with the Left 'left out', would push long-pending economic reforms in the 2009-10 budget.
+
+- Amitha Sehgal measures the budget against the Planning Commission's Vision 2020 report and finds it flawed on fiscal deficit control and employment generation.
+
+- Sehgal flags a fiscal deficit heading toward 6.8 per cent of GDP, a combined Centre-state deficit near 13 per cent, and interest payments consuming 56 per cent of the fiscal deficit.
+
+- She credits sustained capital expenditure during the global meltdown but criticises NREGA wages for crowding out private farm labour and neglecting agricultural investment.
+
+- Divya Vasantharajan reads the equity markets as bullish on post-election political stability despite an initial fall on Budget day, 3 August, before recovery.
+
+- Vasantharajan maps sectoral winners including oil and gas under Section 80-IB, roads through a 23 per cent NHDP rise, and relief for white goods, housing, pharmaceuticals and textiles.
+
+- She predicts a bullish year for the capital market, forecasting the Sensex could return to 21,000 on rising FII inflows and disinvestment signals.
+
+- Kanu H. Doshi's clause-by-clause review of the Finance (No.2) Bill, 2009 covers the raised basic exemption to Rs 1,60,000, abolition of the Fringe Benefit Tax, and the Minimum Alternate Tax rise to 15 per cent.
+
+- Doshi registers mixed feelings, welcoming the scrapped personal surcharge and FBT while regretting the retained 10 per cent company surcharge and 3 per cent education cess.
+
 ## Essays
 
 ### The Union Budget 2009-2010: Does It Dovetail With Vision 2020?

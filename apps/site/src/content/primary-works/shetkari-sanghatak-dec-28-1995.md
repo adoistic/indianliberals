@@ -63,6 +63,20 @@ missing_metadata_flags:
 
 This eight-page issue of the Marathi fortnightly Shetkari Sanghatak (Year 12, Issue 15, 28 December 1995), the organ of Sharad Joshi's Shetkari Sanghatana, is dominated by the verbatim text of a long Sharad Joshi speech, 'केवळ स्वातंत्र्यासाठी' (Only for freedom), delivered on 12 December 1995 at Narkhed in Nagpur district on a commemoration day (smriti-din). Reflecting in the aftermath of an election setback, Joshi insists the movement's purpose was never power but freedom — economic freedom for the farmer and the right to set prices and dispose of one's own produce and land in an open market — and rebuts critics who read the electoral defeat as a verdict against that cause. A signed column by Dr. Manavendra Kachole, 'अर्थशास्त्रात काय शिकवतात?', questions what academic economics teaches farmers' children, and a short 'पळून कसे चालेल?' note invokes Rajaji on facing rather than fleeing hardship. The back pages report the successful conclusion of a hunger strike and announce a Shetkari Mahila Aghadi (women's wing) gathering at Akola on 11-12 January 1996, signed by Indira Bhanudas Patil.
 
+## Key points
+
+- This 28 December 1995 issue, Year 12, Issue 15, of the Marathi fortnightly Shetkari Sanghatak, organ of Sharad Joshi's Shetkari Sanghatana, is dominated by the verbatim text of a speech Joshi delivered on 12 December 1995 at Narkhed in Nagpur district.
+
+- Speaking after an electoral setback, Sharad Joshi insists the movement's purpose was never political power but freedom, above all the farmer's economic liberty to set prices and dispose of produce and land in an open market.
+
+- Joshi rebuts critics who read the movement's electoral defeat as a verdict against its underlying cause, reaffirming that the struggle concerns liberty itself rather than office or power.
+
+- Dr. Manavendra Kachole's column questions what academic economics teaches farmers' children, criticising it as disconnected from agrarian reality and calling for a curriculum grounded in farmers' lived conditions.
+
+- A short accompanying note invokes C. Rajagopalachari on the futility of fleeing hardship rather than facing it directly, reinforcing the issue's tone of resilience.
+
+- The issue's back pages report the successful conclusion of a hunger strike and announce a Shetkari Mahila Aghadi women's-wing gathering at Akola on 11 and 12 January 1996.
+
 ## Essays
 
 ### केवळ स्वातंत्र्यासाठी.....

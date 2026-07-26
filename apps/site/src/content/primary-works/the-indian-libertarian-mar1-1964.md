@@ -68,6 +68,22 @@ physical:
 
 This March 1, 1964 issue (Vol. XI No. 23) of The Indian Libertarian, edited by D. M. Kulkarni, opens with an editorial, 'The Kashmir Tangle Must Be Resolved,' written as the UN Security Council again takes up Kashmir, urging a firm but conciliatory settlement. The signed articles carry the journal's classical-liberal politics: M. A. Venkata Rao's 'Swatantra Challenges Congress' reports the Swatantra Party's Bangalore convention as a constitutionalist challenge to Congress's socialist drift; M. N. Tholal's 'Mr. Nehru and His Decisions' is a critical assessment of the ageing Prime Minister's record of choices; and Seth W. Howard's 'U.P. Accreditation Rules and the Freedom of the Press' attacks new state rules as a threat to press freedom. A Delhi Letter and shorter pieces, including P. Kuppu Rao's 'Anglo — Phobes,' complete the issue.
 
+## Key points
+
+- The 1 March 1964 issue, Vol. XI No. 23, of The Indian Libertarian, edited by D. M. Kulkarni, opens with the editorial "The Kashmir Tangle Must Be Resolved," prompted by the UN Security Council again taking up the dispute.
+
+- The editorial weighs the "gains and losses" of India's diplomatic position and calls for a firm national and foreign policy to end the deadlock rather than let it fester before international opinion.
+
+- M. A. Venkata Rao's "Swatantra Challenges Congress" reports the Swatantra Party's Bangalore convention as marked progress for a constitutionalist, free-enterprise opposition to Congress's socialist economic policy.
+
+- M. N. Tholal's "Mr. Nehru and His Decisions" argues that many of the ageing Prime Minister's major decisions have plainly miscarried, indicting his personal dominance over national policy.
+
+- Seth W. Howard's "U.P. Accreditation Rules and the Freedom of the Press" attacks new Uttar Pradesh rules giving officials discretionary power to reward compliant journalists and punish critics.
+
+- Howard contrasts the accreditation measure with democratic norms of a free press, calling it a "very surprising" encroachment the United States and other democracies would not countenance.
+
+- A Delhi Letter and shorter pieces, including P. Kuppu Rao's "Anglo — Phobes," complete the issue alongside the editorial and the three signed essays.
+
 ## Essays
 
 ### Editorial: The Kashmir Tangle Must Be Resolved

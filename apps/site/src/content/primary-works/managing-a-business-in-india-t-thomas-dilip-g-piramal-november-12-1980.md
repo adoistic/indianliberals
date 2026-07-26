@@ -127,6 +127,26 @@ thinker_mentions:
 
 Managing a Business in India is a Forum of Free Enterprise booklet that bundles excerpts from two speeches — one by T. Thomas, the long-serving Chairman of Hindustan Lever Ltd., delivered at the firm's Annual General Meeting in Bombay on 20 June 1980, and another by the young industrialist Dilip G. Piramal. The introduction frames the volume as a periodic stocktaking of the conditions under which private enterprise must operate within India's mixed economy, and argues that if its propositions are taken seriously, the role of private enterprise in national economic development can be secured. An epigraph from Eugene Black — "People must come to accept private enterprise not as a necessary evil, but as an affirmative good" — sets the polemical key.
 
+## Key points
+
+- T. Thomas, Chairman of Hindustan Lever, argues that managing pervasive government controls, including industrial licensing, the MRTP Act, the Companies Act, and price and remuneration restraints, has become the dominant task of Indian chief executives.
+
+- Thomas traces how decision-making authority migrated upward from Joint Secretaries in the 1960s to Cabinet Committees and the Cabinet itself by the 1970s, slowing the economy and increasing negative decisions.
+
+- He holds up Japan's Meiji-era partnership between government and private industry as the model India failed to follow, citing British Steel and British Leyland as evidence of the costs of public-sector ownership.
+
+- Drawing on a 1977 National Council of Applied Economic Research study, Thomas itemises the damage done by price controls, including black markets, quality erosion, bureaucratic corruption and neglect of consumer welfare.
+
+- He rejects the Janata government's 'small is beautiful' philosophy as unrealistic, proposing instead a formula of 'small with large' in which large-scale industry remains essential to growth.
+
+- Thomas's policy proposals include five per cent annual cumulative growth permission for existing industrial units, inflation-indexed licensing thresholds, free-trade-zone treatment for export factories, and IAS officers seconded to private companies.
+
+- He calls for cash limits on public-sector enterprises and for opening urban power generation and offshore oil exploration to private firms as further steps to expand enterprise.
+
+- Thomas closes by invoking Gandhi's and Nehru's borrowing from the liberal West to free India politically, arguing a parallel economic opening is now needed to free it economically.
+
+- The booklet pairs Thomas's address, delivered at Hindustan Lever's 1980 annual general meeting, with a companion speech by young industrialist Dilip G. Piramal as a joint stocktaking of conditions for private enterprise in India's mixed economy.
+
 ## Essays
 
 ### Relationship with Environment

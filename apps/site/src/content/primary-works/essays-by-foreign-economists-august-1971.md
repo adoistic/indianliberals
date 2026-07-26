@@ -175,6 +175,24 @@ thinker_mentions:
 
 Essays by Foreign Economists is a compilation published in August 1971 by the Forum of Free Enterprise, Bombay (M. R. Pai, publisher), gathering twelve booklets the Forum had previously issued; the volume is explicitly marked 'not for sale' and circulated only to Forum members. In the rendered pages, the table of contents lists pieces by Milton Friedman, B. A. Tarlton, F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark (two essays), P. T. Bauer (three essays), Dudley Dillard, and Eugene Black, addressing the case for free enterprise, the failings of central planning, the conditions for economic growth, foreign aid, the economic thinking of Keynes, and the place of India's private sector. The chunk contains the full text of Friedman's opening essay 'Myths That Keep People Hungry' (reprinted from Harper's Magazine, April 1967), which sets the polemical frame for the volume by contrasting countries where private markets organise economic life with those subject to detailed central planning, and the opening pages of B. A. Tarlton's 1968 Calcutta lecture 'Economic Democracy'.
 
+## Key points
+
+- Milton Friedman's essay "Myths That Keep People Hungry," reprinted from Harper's Magazine, argues that wherever private markets organise economic life people gain material progress and freedom, unlike under detailed state control.
+
+- The essay contrasts West Germany, Israel, Singapore, Malaya and post-Meiji Japan as cases of market-led progress against East Germany, Egypt, Indonesia, post-Independence India, Yugoslavia and Russia.
+
+- A statistical anchor is that in the Soviet Union only three percent of cultivated land held in private plots nonetheless produced one-third of total agricultural output.
+
+- Examples of waste under Indian controls include the ban on new car production, which forced buyers to pay around $1,500 for a 1950 Buick, and bureaucratic cotton "procurement" replacing market exchange.
+
+- B. A. Tarlton's 1968 Calcutta lecture "Economic Democracy" tracks India's shift from a net international creditor of over Rs. 700 crores in 1956 to a net debtor of over Rs. 5,000 crores by 1968.
+
+- Tarlton observes that the Planning Commission had been reduced to advisory functions and the Fourth Plan shelved for three years, reading these as signs of disillusion after two decades of planning.
+
+- Tarlton distinguishes a "classical" conception of democracy as rule by the common people from a "liberal" conception resting on equal political authority for every citizen, using the distinction to interrogate India's economic policy.
+
+- Beyond Friedman and Tarlton, the volume gathers Forum of Free Enterprise booklets by F. A. Hayek, G. Carl Wiegand, W. H. Hutt, Colin Clark, P. T. Bauer, Dudley Dillard and Eugene Black on planning, growth, foreign aid and Keynesian thought.
+
 ## Essays
 
 ### Myths that keep People Hungry

@@ -90,6 +90,24 @@ missing_metadata_flags:
 
 This is a 'Sheikh Abdullah Special' number of The Indian Libertarian (Vol. V, No. 22, 1 February 1958), an English-language Bombay fortnightly that bills itself as an 'Independent Journal of Economic and Public Affairs' which stands 'for free economy and libertarian democracy'. Edited by Miss Kusum Lotwala and published by the Libertarian Social Institute, the issue is built around the Government of India's continued detention of Sheikh Abdullah and uses that case to attack what the journal sees as Pandit Nehru's disregard for constitutional propriety, his appeasement of Pakistan, and his drift toward statist 'finished despotism' at home. The lead editorial and the long pieces by M. A. Venkata Rao, Sumant Bankeshwar and the columnist 'Lal' carry that polemical centre, supported by reprinted reactions of the Indian press to Abdullah's re-arrest. Around this Kashmir spine the issue gathers its standard libertarian preoccupations: M. G. Bailur on the ethics of toleration, the in-house 'Drift Way' column on the Mundhra–Krishnamachari scandal, a column on inflation as a state-run 'swindle', B. R. Shenoy on food prices, A. D. Shroff on Mundhra, plus three transplanted Cold War items — Charles A. Willoughby on Western strategy, Howard Fast's open letter to Soviet writers, and George Richmond Walker on the clash of ideologies. The argumentative centre is that civil liberty, economic liberty and constitutional procedure are a single bundle, and that the Congress government is dismantling all three at once.
 
+## Key points
+
+- This "Sheikh Abdullah Special" issue of The Indian Libertarian, Vol. V No. 22, 1 February 1958, edited by Miss Kusum Lotwala and published by the Libertarian Social Institute, is built around the Government of India's continued detention of Sheikh Abdullah.
+
+- The unsigned editorial treats Pakistani Prime Minister Feroze Khan Noon's threat to reduce Hindus to forced labour as proof of a totalitarian turn, and accuses the Government of India of meeting it with diplomatic silence.
+
+- The editorial reads Abdullah's re-arrest as evidence that Nehru's government detains first and justifies later, and frames the revived Razakar agitation in Hyderabad as a domestic counterpart to Pakistani communalism.
+
+- M. A. Venkata Rao's "Sheikh Abdullah and Indian Policy" traces the original error to Mahatma Gandhi's instinct of treating princely states as matters for elite negotiation rather than popular will.
+
+- Venkata Rao connects the Kashmir mishandling to Indian softness toward Pakistani interlocutors such as President Iskander Mirza, Mohammed Ali Bogra and Ambassador Nawab Sir Mohammed Hidayatullah.
+
+- Sumant Bankeshwar's piece recalls that Nehru installed Abdullah as premier directly out of the Maharaja's prisons in 1947, and reads every subsequent crisis as the price of that original act of personalised patronage.
+
+- The issue also carries M. G. Bailur on the ethics of toleration, the in-house "Drift Way" column on the Mundhra-Krishnamachari scandal, B. R. Shenoy on food prices, and A. D. Shroff on Mundhra.
+
+- Three transplanted Cold War items round out the number: Charles A. Willoughby on Western strategy, Howard Fast's open letter to Soviet writers, and George Richmond Walker on the clash of ideologies.
+
 ## Essays
 
 ### Editorial

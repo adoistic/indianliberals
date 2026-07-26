@@ -92,6 +92,18 @@ physical:
 
 This New Year Special issue of The Indian Libertarian (Vol. V No. 20, 1 January 1958), a Bombay fortnightly edited by Kusum Lotwala and subtitled an 'Independent Journal of Economic and Public Affairs', gathers an editorial plus more than a dozen short polemical pieces by named and pseudonymous contributors. The rendered pages carry the masthead and advertising matter, a New Year greeting essay setting out the journal's libertarian creed, an editorial on Pakistan and Indian foreign policy, and the opening of two signed articles. The argumentative center is a classical-liberal defence of free economy and 'libertarian democracy' against state trading, Nehruvian planning, and communism, combined with sharp commentary on Congress politics and Hindu-Muslim relations.
 
+## Key points
+
+- The lead editorial, Nehru on Pakistan, responds to a prime ministerial speech on Indo-Pakistan relations and self-determination, urging a foreign policy grounded in realism rather than sentiment.
+
+- A companion editorial note, The Animosity of External Affairs, criticises the conduct and posture of India's external-affairs establishment under the Nehru government.
+
+- Baburao Patel's The Bitter Truth opens with Nehru's June 1957 address to the Commonwealth Prime Ministers' Conference in London, setting up a sceptical reading of Anglo-Indian relations.
+
+- A piece signed Lal, When Congress High Command Double-Crossed the Muslims, alleges the Congress leadership manoeuvred against Muslim political interests around the time of partition.
+
+- The issue's overall stance combines a classical-liberal defence of free economy and libertarian democracy with sharp commentary on Congress politics and Hindu-Muslim relations.
+
 ## Essays
 
 ### Editorial

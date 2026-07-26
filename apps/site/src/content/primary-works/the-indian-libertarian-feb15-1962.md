@@ -65,6 +65,22 @@ physical:
 
 This February 15, 1962 issue (Vol. IX No. 22) of The Indian Libertarian, a Bombay fortnightly edited by D. M. Kulkarni that 'stands for free economy and limited government', appears on the eve of India's general elections and is dominated by election commentary. The unsigned editorial frames the contest as a choice between 'the Swatantra's freedom or Congress slavery', accusing the Congress of imposing a 'brand of Socialism' under the name of freedom. M. A. Venkata Rao dissects the Congress Party's election manifesto, M. N. Tholal reads the 'portents from Nepal', and A. Pampapathy Rao argues that intellectuals have a stake in the forthcoming elections. The issue also carries a four-page Economic Supplement, 'Holding The Price Level' by Waheed A. Gani, a 'Delhi Letter' titled 'On The Road To Slavery Again', a book review, and 'Gleanings from the Press' and 'News & Views' columns.
 
+## Key points
+
+- This 15 February 1962 issue of The Indian Libertarian (Vol. IX No. 22), edited by D. M. Kulkarni, appears on the eve of India's general elections and is dominated by election commentary.
+
+- The unsigned editorial, 'Voters' Choice: The Swatantra's Freedom or Congress Slavery?', charges that Congress used its legislative majority to confiscate property and impose socialism in the name of freedom.
+
+- The editorial closes with a set of 'Quotable Quotes', including a line attributed to C. Rajagopalachari about the Swatantra Party.
+
+- M. A. Venkata Rao examines the Congress Party's election manifesto as propaganda for continued single-party rule, contrasting its stated promises with the party's actual record.
+
+- M. N. Tholal's 'Portents From Nepal' reads King Mahendra's assertion of royal power against parliamentary government as a warning sign for the wider region.
+
+- A. Pampapathy Rao's 'Intellectuals And Forthcoming Elections' argues intellectuals cannot remain neutral, framing the choice before voters as one between liberty and collectivist alternatives.
+
+- The issue also carries a four-page Economic Supplement, 'Holding The Price Level' by Waheed A. Gani, and a Delhi Letter titled 'On The Road To Slavery Again'.
+
 ## Essays
 
 ### Editorial: Voters' Choice — The Swatantra's Freedom or Congress Slavery?

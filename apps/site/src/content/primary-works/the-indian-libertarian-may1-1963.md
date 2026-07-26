@@ -68,6 +68,20 @@ physical:
 
 This issue of The Indian Libertarian (Vol. XI, No. 3, May 1, 1963), an 'Independent Journal of Public Affairs' edited by D. M. Kulkarni, leads with an editorial on the national-language question ('English Is Inevitable') and carries signed essays on moral philosophy, satire on Indian politics, the state of the Congress (A.I.C.C.), and a reprinted American libertarian critique of socialism, followed by recurring departments (Book Review, Gleanings From The Press, News and Views). In the rendered pages, M. A. Venkata Rao writes on 'The Corruption of Moral Ideals,' J. M. Lobo Prabhu offers the satire 'Curtain Call at Pompapur,' M. N. Tholal surveys the Congress in 'A. I. C. C. At Sea,' and Leonard E. Read argues that 'Socialism, A Barren System' cannot generate prosperity.
 
+## Key points
+
+- The editorial 'English Is Inevitable' defends English as India's practical lingua franca and remains sceptical of official efforts to displace it with Hindi.
+
+- M. A. Venkata Rao's 'The Corruption of Moral Ideals' argues India's moral standards have been degraded by a politics that treats commercial and self-interested motives as legitimate ends.
+
+- J. M. Lobo Prabhu's satirical sketch 'Curtain Call at Pompapur', set in the fictional 'Republic of Pompapur', uses allegory and irony to lampoon Indian political manners.
+
+- M. N. Tholal's 'A. I. C. C. At Sea' reads the All-India Congress Committee's internal debates as evidence of drift and confusion within the ruling party.
+
+- Leonard E. Read's reprinted American essay 'Socialism, A Barren System' distinguishes private from state socialism and argues coercive economic direction cannot generate prosperity.
+
+- The issue continues the journal's masthead commitment to making English the lingua franca of India alongside its regular Book Review and Gleanings From The Press departments.
+
 ## Essays
 
 ### Editorial: English Is Inevitable

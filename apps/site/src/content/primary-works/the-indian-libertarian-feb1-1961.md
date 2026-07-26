@@ -86,6 +86,22 @@ missing_metadata_flags:
 
 The 1 February 1961 issue of The Indian Libertarian (Vol. VIII, No. 21) is the journal's regular fortnightly compendium of editorial commentary, political critique, and a mid-issue four-page Rationalist Supplement. The lead editorial denounces a revival of Muslim League activity following the Bhavnagar Congress session and argues that the secular republic must treat citizens by merit rather than by religious community. M. A. Venkata Rao contrasts a republican with a socialist pattern of society and defends democratic capitalism against the encroaching planner state; M. N. Tholal accuses Congress of having long deceived the country about Chinese aggression on the Himalayan frontier; J. M. Lobo Prabhu surveys the broader collapse of Nehruvian foreign policy. The Rationalist Supplement opens with S. Ramanathan's tribute to Ellen Roy, who has taken up the editing of The Radical Humanist after the death of M. N. Roy, followed by A. D. Howell Smith on metaphysical materialism and R. C. Trail on humanism and science. The back half carries Sumanth Bankeshwar's analysis of Congress succession after Nehru, an essay on Soviet colonialism in the satellite states, a Delhi Letter on Krishna Menon's handling of Chinese border encroachment, and the customary press gleanings, news columns and book lists from the Libertarian Publishers shelf in Bombay.
 
+## Key points
+
+- The 1 February 1961 issue of The Indian Libertarian (Vol. VIII, No. 21) opens with an editorial denouncing a revival of Muslim League activity after the Bhavnagar Congress session, insisting the secular republic must treat citizens by merit rather than religious community.
+
+- The same editorial salutes the strengthening of Indo-Nepal relations following the King of Nepal's visit, deplores Chinese encroachment in the Himalayas, and welcomes the Queen's announced visit as a reaffirmation of Commonwealth ties.
+
+- M. A. Venkata Rao, writing for Republic Day, contrasts a republican with a socialist pattern of society and defends democratic capitalism against the planner state, closing with an aphorism attributed to Hilaire Belloc.
+
+- M. N. Tholal accuses the Congress government of concealing Chinese aggression on the Himalayan frontier from the country, attacking the official 'flies in the ointment' theory and criticising Nehru's reliance on Krishna Menon's diplomacy.
+
+- J. M. Lobo Prabhu surveys what he casts as the broader collapse of Nehruvian foreign policy across the subcontinent and beyond.
+
+- The Rationalist Supplement opens with S. Ramanathan's tribute to Ellen Roy, who took over editing The Radical Humanist after the death of M. N. Roy, followed by essays from A. D. Howell Smith on metaphysical materialism and R. C. Trail on humanism and science.
+
+- Sumanth Bankeshwar analyses the question of Congress succession after Nehru, while a further piece examines Soviet colonialism in the satellite states and a Delhi Letter covers Krishna Menon's handling of the Chinese border encroachment.
+
 ## Essays
 
 ### Editorial

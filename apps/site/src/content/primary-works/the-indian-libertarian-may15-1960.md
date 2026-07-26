@@ -67,6 +67,20 @@ missing_metadata_flags:
 
 This is the May 1, 1967 issue (Vol. XV, No. 3) of The Indian Libertarian, an independent Bombay journal of public affairs edited by Kusum Lotvala, whose cover slogan urges 'Make English the Lingua Franca of India.' In the rendered pages the issue opens with an editorial on the 1967 general-election aftermath that calls for electing K. Subba Rao and 'cleaning up the mess' of Congress governance, then ranges across cultural, communal, and economic commentary: A. Ranganathan on the Tamil contribution to Indian culture, M. N. Thakkil on whether Muslims can be secular voters, a Delhi political letter, and a running column 'In This Our Day' by Leo Maria touching the wider freedom-and-government debate. The issue's argumentative center is classical-liberal: skepticism of Congress dominance and state planning, paired with a defence of individual and cultural liberty.
 
+## Key points
+
+- The lead editorial 'Elect Subba Rao And Clean Up The Mess' responds to the 1967 general election results, backing K. Subba Rao and framing Congress's weakened position as an opening for opposition and reform.
+
+- It criticises entrenched one-party Congress governance and endemic corruption in the wake of the party's reduced mandate following the 1967 general election.
+
+- A. Ranganathan's 'The Tamil Contribution To Indian Culture' traces literary and devotional strands of Tamil civilisation and situates them within the broader Indian cultural inheritance.
+
+- M. N. Thakkil's essay, printed under the running theme 'The Freudian Election', asks whether Muslim voters can act as a secular rather than a communal bloc in the wake of the poll.
+
+- Thakkil's piece weighs communal religious identity against the ideal of secular citizenship in the specific context of contemporary Indian electoral and political behaviour.
+
+- The issue's cover slogan urges making English the lingua franca of India, reflecting the journal's classical-liberal scepticism of both Congress dominance and state planning.
+
 ## Essays
 
 ### Editorial: Elect Subba Rao And Clean Up The Mess

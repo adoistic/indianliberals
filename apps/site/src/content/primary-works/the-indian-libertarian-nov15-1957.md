@@ -88,6 +88,24 @@ physical:
 
 The Indian Libertarian, Diwali Special Issue (15 November 1957), is an issue of the Bombay classical-liberal fortnightly edited by Miss Kusum Lotwala and run by the Libertarian Social Institute. In the rendered pages the issue opens with an editorial of 'Diwali reflections' urging individual responsibility and warning against welfare-state collectivism, followed by J. K. Dhairyawan's call to 'clear the debris of ten years' of post-independence policy and 'Chanakya's' argument for a new opposition party. M. N. Tholal attacks the compulsory imposition of Hindi ('This Hindi Mania') in defence of English as a unifying language, Om Prakash Kahol treats the Kashmir question and India's security, and Nautamal C. Tejpal draws a parallel between India and Soviet Russia. Shorter pieces by 'Libra' (political fads and individual freedom), K. M. Munshi ('Welfare Implies Freedom'), and Sumant Bankeshwar (Syria as the first Soviet satellite in the Middle East) round out the rendered portion, along with the unsigned 'Sheer Madness'. The issue's consistent commitments are individual liberty, free enterprise, the rule of law, English as India's link language, and a firmly anti-communist, pro-Western foreign-policy stance.
 
+## Key points
+
+- The Indian Libertarian's Diwali Special Issue of 15 November 1957, edited by Miss Kusum Lotwala for the Libertarian Social Institute, opens with an editorial, 'Some Diwali Reflections', warning against welfare-state paternalism.
+
+- J. K. Dhairyawan's 'Clear the Debris of Ten Years' indicts a decade of nationalised industry, controls and planning for producing inefficiency and dependence since independence.
+
+- Writing as 'Chanakya', 'The Sanction for A New Party' argues democracy requires an organised liberal opposition and calls for the scattered forces of free enterprise to coalesce into a new party.
+
+- M. N. Tholal's 'This Hindi Mania' opposes compulsory imposition of Hindi, defending English as India's neutral link language and warning of resulting inequity for the South and Bengal.
+
+- Prof. Om Prakash Kahol's 'Kashmir Issue and Safety of India' catalogues a series of Indian policy 'blunders' on Kashmir and ties the dispute directly to national security.
+
+- Nautamal C. Tejpal's 'India and Russia — A Parallel' warns that India's drift toward centralised planning and one-party dominance mirrors the early Soviet trajectory.
+
+- 'Libra's' 'Political Fads & Individual Freedom' cites the late Professor Laski and prohibitionist examples to argue that faddish moral crusades curtail personal liberty.
+
+- K. M. Munshi's 'Welfare Implies Freedom' and Sumant Bankeshwar's piece on Syria as the first Soviet satellite in the Middle East also appear in the rendered issue.
+
 ## Essays
 
 ### Editorial

@@ -64,6 +64,22 @@ missing_metadata_flags:
 
 This 6 October 1994 issue (Year 11, No. 11) of Shetkari Sanghatak, the Marathi fortnightly of the Shetkari Sanghatana farmers' movement, is dominated by two campaigns. The front pages report the movement's renewed agitation to shut down the state-protected liquor shop at Mana (दारू दुकान बंदी), reopened under police protection, and Sharad Joshi's resolve to close it again — with accounts of activists' hunger-strikes, mass arrests, rasta-roko blockades, and the movement's reading of the liquor trade as state-sponsored predation on rural households and women. The second strand is mobilisation for a joint convention (संयुक्त अधिवेशन) at Nagpur on 12 November 1994, including a long programmatic essay, 'Why the Nagpur Convention?', that restates the Sanghatana's case for an open economy (खुली व्यवस्था) and a 'non-state' order against socialism, bureaucracy, and political controls, organised under headings such as 'How is the government?', 'How should the government be?', and 'The open order is not a stage but a path.' A signed essay argues that real expertise, not paper degrees, should be given scope, and the back page carries the convention notice over the colophon.
 
+## Key points
+
+- The lead report describes the liquor shop at Mana in Akola district reopening under police protection, and Sharad Joshi leading a renewed campaign to shut it down again.
+
+- The renewed agitation includes activists' hunger-strikes and mass arrests, framing the liquor trade as state-protected predation on rural households and women.
+
+- Dispatches report activist Prakash Pohare withdrawing his hunger-strike, a police supari or contract taken over the shop, and a rasta-roko road blockade staged at Varkhed.
+
+- A programmatic essay, published as Joshi's Maharashtra tour begins on 20 September, sets out the case for a joint Sanghatana convention to be held at Nagpur on 12 November 1994.
+
+- The essay defends an open economic order and non-statism against the post-1947 Nehruvian socialist and planning model it blames for impoverishing farmers and society.
+
+- A boxed notice lists the Nagpur Convention's Aurangabad-district preparatory committee, naming Dr. Manavendra Kachole as coordinating-committee head alongside taluka-wise office-bearers.
+
+- Shri Vrudhajirao Mulik's signed essay argues that policy and farm administration should draw on genuine practising farmers rather than on paper-qualified graduates.
+
 ## Essays
 
 ### पोलीस संरक्षणात पुन्हा सुरू झालेले माना येथील दारू दुकान — शरद जोशींच्या नेतृत्वात पुन्हा बंद करण्याचा निर्धार

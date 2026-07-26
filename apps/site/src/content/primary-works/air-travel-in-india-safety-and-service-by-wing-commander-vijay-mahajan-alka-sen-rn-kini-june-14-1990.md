@@ -97,6 +97,26 @@ This Forum of Free Enterprise booklet, dated 14 June 1990, gathers three talks d
 
 The argumentative centre of the volume is a Forum-house case for retreat of the state from civil aviation: Mahajan ends with three options — making the corporations autonomous, deregulating, or privatising — and defends privatisation by comparing British Airways, Lufthansa, KLM, Quantas and Singapore Airlines with their state-owned Indian counterparts. The Tata Commission's recommendations, the booklet repeatedly notes, have been "consigned to the dustbin" by the bureaucracy.
 
+## Key points
+
+- Wing Commander Vijay Mahajan argues India lacks a national aviation policy and that political and bureaucratic interference has corroded pilot selection, training, and route planning.
+
+- Mahajan catalogues India's four international airports as unfit for growing traffic and proposes three reform paths, autonomy, deregulation, or privatisation, defending privatisation through comparisons with British Airways, Lufthansa, KLM, Qantas, and Singapore Airlines.
+
+- Alka Sen, editor of Indian Aviation - Civil and Military, locates the safety problem in employee indiscipline and government neglect rather than inadequate training, endorsing the National Transport Safety Board's tougher pilot-rating and Cockpit Voice Recorder checks.
+
+- Sen calls for follow-through on the Ramdas Committee Report into the Airbus A320 induction and praises Civil Aviation Minister Arif Mohammed Khan for treating discipline as a non-negotiable issue.
+
+- She also faults the government for leaving DGCA, IAAI, Indian Airlines, and Vayudoot leadership posts unfilled and for stalling the Rs. 300 crore Bombay-Delhi airport modernisation programme.
+
+- R. N. Kini, General Manager of Voltas Systems and a survivor of the 14 February 1990 Bangalore A-320 crash, distils his experience into ten commandments for passenger survival.
+
+- His commandments include fastening seatbelts, learning the emergency-exit literature, heeding the safety briefing, leaving hand baggage behind, and running from wreckage without looking back.
+
+- He insists a crash is not the moment for participative decision-making and records public appreciation for the air hostesses and the Bangalore hospital staff who attended the injured.
+
+- Across the three talks the volume repeatedly notes that the Tata Commission's recommendations on civil aviation reform have been consigned to the dustbin by the bureaucracy.
+
 ## Essays
 
 ### AIR TRAVEL IN INDIA — SAFETY AND SERVICE

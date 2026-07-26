@@ -84,6 +84,26 @@ physical:
 
 This 15 April 1962 issue of *The Indian Libertarian* (Vol. X No. 2) — an independent journal of economic and public affairs that 'stands for free economy and limited government' and is edited by D. M. Kulkarni for Libertarian Publishers Pvt. Ltd., Bombay — pairs an editorial on the post-colonial slide towards dictatorship in Afro-Asia with signed essays by M. A. Venkata Rao on civil-service administration and national integration, M. N. Tholal on India's confrontation with Western liberal values, and A. Ranganathan on sycophancy under Nehru. A four-page Economic Supplement carries Prof. S. Kesava Iyengar's statistical critique of the Third Plan and a long excerpt of Ambassador J. K. Galbraith's Ahmedabad address on the causes of poverty. The back half of the issue runs a Delhi Letter on the post-third-general-election political mood, a review of John Strachey's *The Great Awakening*, 'Gleanings from the Press' built around a Frank Moraes column, and a 'Dear Editor' contribution defending Swatantra Party planning. Across its sections the issue holds together as a classical-liberal periodical attacking central planning, one-party drift, ministerial sycophancy and the survival of the licence-permit regime, while welcoming Swatantra's gains in the new Lok Sabha.
 
+## Key points
+
+- The unsigned lead editorial, Democracy at Bay in Afro-Asia, argues that Ghana under Nkrumah, Pakistan under Ayub Khan, Ceylon under Mrs. Bandaranaike, and Burma under its army have all slid into one-party rule or military regimes since independence.
+
+- The editorial attributes the failure of liberal-democratic ideas to take root in post-colonial states to imperialism, regional rivalries and social reaction, reading new dictatorships as posing in the name of democracy and freedom.
+
+- M. A. Venkata Rao's Administration And National Integration warns that pressure on civil servants to identify emotionally with the ruling party under slogans of socialism and national integration is corroding administrative neutrality.
+
+- Venkata Rao calls for civic education and a liberal-democratic ethos as an alternative to the monolithic one-party atmosphere he sees overtaking Indian governance.
+
+- M. N. Tholal's Anglo-Hindu Encounter reads modern India as the meeting of an Anglo-Saxon liberal-democratic order built on rights and due process and a Hindu social order whose toleration has not yet translated into political liberty.
+
+- Tholal disputes the traditionalism of Vinoba Bhave and Jayaprakash Narayan, arguing their categories underplay how much modern Indian freedom owes to the liberal English inheritance.
+
+- A. Ranganathan's The Cult Of Yesmanship In India uses a P. G. Wodehouse comic frame, along with John W. Gardner's Self-Renewal and American debates over McCarthyism, to attack sycophancy around Nehru and his cabinet.
+
+- The issue's Economic Supplement carries Prof. S. Kesava Iyengar's statistical critique of the Third Plan alongside an excerpt of Ambassador J. K. Galbraith's Ahmedabad address on the causes of poverty.
+
+- The back pages include a Delhi Letter on the post-third-general-election political mood and a review of John Strachey's The Great Awakening.
+
 ## Essays
 
 ### Editorial — Democracy At Bay In Afro-Asia

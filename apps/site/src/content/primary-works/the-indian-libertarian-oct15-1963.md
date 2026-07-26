@@ -73,6 +73,24 @@ physical:
 
 This Diwali Issue of The Indian Libertarian (Vol. XI No. 14, October 15, 1963), the Bombay fortnightly edited by D. M. Kulkarni and now styled 'An Independent Journal of Public Affairs,' opens with an editorial on Congress leadership and follows with signed essays attacking Marxism and Leninism, analysing a constitutional amendment, and defending the Swatantra Party. In the rendered pages the editorial asks whether Mr. S. K. Patil will measure up to his task and reflects on the leader's position between party and people; M. A. Venkata Rao argues in 'The Failure of Marxism in the West' that the Marxian prophecy of proletarian revolution has been falsified in America and Western Europe since 1945; M. N. Tholal in 'We are Leninists' reads India's non-alignment as objectively serving Russia's Leninist foreign policy; Dr. Rustom C. Cooper examines the Seventeenth Amendment's effect on the Indian farmer and citizen through compensation and land-acquisition law; and K. Vedamurthy assesses 'Swatantra's Contribution to Democratic Thought and Practice.' The issue's classical-liberal, anti-communist stance frames each topic against the threat of socialist and statist orthodoxy.
 
+## Key points
+
+- The editorial Will Mr. S. K. Patil measure up to the task? weighs Patil's standing within the Congress Cabinet and party amid corruption and factional pressures on leadership.
+
+- M. A. Venkata Rao's The Failure of Marxism in the West argues Marx's prophecy of proletarian revolution has been falsified in America and Western Europe since 1945.
+
+- Venkata Rao observes that the American worker enjoys the benefits of socialism without socialisation, and pleads for a thorough, country-wide examination of Marxism in India.
+
+- M. N. Tholal's We are Leninists takes Lenin's line that the way to London lies through Peking and Calcutta to argue Russia's foreign policy depends on India's non-alignment.
+
+- Tholal claims the end of Indian non-alignment would simultaneously end China's expansionist dream and hand Russia its greatest political defeat in Asia.
+
+- Dr. Rustom C. Cooper's essay on the Seventeenth Amendment Bill, introduced 6 May 1963, notes compensation under the Kerala Act can run as low as one per cent of the Land Acquisition Act value.
+
+- Cooper frames the amendment, which extends Article 31A's definition of estate to ryotwari land, as eroding the property protections of the farmer and citizen.
+
+- K. Vedamurthy's Swatantra's Contribution to Democratic Thought and Practice situates the party's classical-liberal position against the prevailing planned-economy consensus of the period.
+
 ## Essays
 
 ### Editorial: Will Mr. S. K. Patil measure up to the task?

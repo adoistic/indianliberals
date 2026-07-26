@@ -72,6 +72,20 @@ physical:
 
 This 1 January 1960 issue of The Indian Libertarian (Vol. VII No. 23), the Bombay fortnightly edited by Kusum Lotwala and now 'Incorporating the Free Economic Review and The Indian Rationalist', leads with an editorial on 'India and Israel' and runs signed articles on the Indo-Pakistan defence question, the Sino-Soviet bloc, and the nature of communist aggression, alongside standing departments (Delhi Letter, News Digest, In Lighter Vein) and a Rationalist Supplement by William Henry Chamberlin on 'India's Economic Road'. The rendered pages carry the masthead, the editorial, and the opening of two signed articles by M. A. Venkata Rao and M. N. Tholal. The issue's argumentative center is a realist, anti-communist foreign-policy stance coupled with the journal's free-economy creed.
 
+## Key points
+
+- The 1 January 1960 issue's editorial, 'India and Israel', questions why India, despite formally recognising Israel, has declined to fully actualise diplomatic relations with it.
+
+- It reads Nehru's pro-Arab tilt as a balance-of-power response to Pakistan's ambition to lead the Islamic world, and argues genuine impartiality would require normal ties with both Israel and Turkey.
+
+- M. A. Venkata Rao's 'Indo-Pakistan Regional Defence Pact' weighs proposals for a joint India-Pakistan defence arrangement against the unresolved Kashmir dispute and mutual distrust between the two countries.
+
+- M. N. Tholal's 'Between The Sino-Russian Pincers' examines India's position squeezed between Chinese and Soviet pressure, warning against complacency toward communist intentions on India's frontiers.
+
+- The issue's Rationalist Supplement carries William Henry Chamberlin's essay 'India's Economic Road', and standing departments include a Delhi Letter, a News Digest, and an 'In Lighter Vein' column.
+
+- Across the editorial and both signed essays, the issue's argumentative centre is a realist, anti-communist foreign-policy stance paired with the journal's free-economy creed.
+
 ## Essays
 
 ### Editorial

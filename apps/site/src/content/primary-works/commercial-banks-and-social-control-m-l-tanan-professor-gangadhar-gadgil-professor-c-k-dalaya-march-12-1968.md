@@ -69,3 +69,15 @@ missing_metadata_flags:
 - series_number_not_visible
 ---
 
+
+## Key points
+
+- Published in 1968 by the Forum of Free Enterprise in Bombay, the volume is jointly edited by M. L. Tannan, Prof. Gangadhar Gadgil and Prof. (Mrs.) C. K. Dalaya.
+
+- Its title, Commercial Banks and Social Control, signals a focus on state oversight of banking practice rather than outright nationalisation.
+
+- The work is indexed under the themes of banking, nationalisation, economic policy, private enterprise and the public sector, situating it within debates over state versus market control of banking.
+
+- The three named contributors together address the tension between private banking autonomy and the social control implied by the volume's title.
+
+- As a Forum of Free Enterprise publication, the volume situates the commercial-banking debate within the Forum's private-enterprise orientation, per its own thematic tagging.

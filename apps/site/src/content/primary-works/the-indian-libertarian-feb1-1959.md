@@ -87,6 +87,26 @@ physical:
 
 This 1 February 1959 issue of The Indian Libertarian (Vol. IV No. 22) opens with an editorial bloc on the West Bengal Assembly's unanimous censure of Nehru's agreement to cede half of the Berubari Union to Pakistan, paired with a sceptical reading of the Indus Canal Waters negotiation; the editorial argues the Central Government has consistently misjudged Pakistani intransigence and that Indian assets are being bartered away under World Bank pressure. A 'Behind the News' section assesses C. Rajagopalachari's call for an all-India opposition and his coining of 'non-violent socialism' as a slogan to rally anti-Congress forces, and turns a sharp eye on the new Gandhi Peace Foundation. The body of the issue carries longer essays by M. A. Venkata Rao on the Nagpur Congress session's socialist resolutions, M. N. Tholal on the gap between Congress words and deeds, Vivek on the politicisation of the public services, K. K. Sinha on West Bengal's prospects after the 1957 elections, an anonymous report on the suppression of intellectual life in East Germany, and Sidney Hook on the compatibility of socialism with democracy. A 'Libertarian Supplement' bundles four economic-policy pieces — G. N. Lawande on family planning inside the Plan, M. B. Roshan Premji on state trading in food-grains, an 'Observer' essay on planning and unemployment, and Rasul J. Turagvewala on the economic effects of Indian taxation. The collective argumentative centre of the issue is a libertarian critique of the Nagpur Congress turn toward joint cooperative farming and statist planning, framed against the touchstones of property rights, civil liberty, and democratic accountability.
 
+## Key points
+
+- The editorial backs the West Bengal Assembly's unanimous censure of Nehru's agreement to cede half of the Berubari Union to Pakistan and criticises the Indus Canal Waters settlement as a surrender of Indian assets under World Bank pressure.
+
+- It cites the discovery of Pakistani agents in Saurashtra as evidence that New Delhi's conciliatory posture is being read in Karachi as weakness.
+
+- The 'Behind the News' section reads C. Rajagopalachari's call for an all-India opposition under the slogan 'non-violent socialism' as a tactical device unlikely to unite liberals, Swatantra-minded businessmen and dissenting socialists.
+
+- It also treats the newly formed Gandhi Peace Foundation with suspicion, suggesting it will function as a Congress publicity organ rather than an independent moral force.
+
+- M. A. Venkata Rao's 'Congress Session at Nagpur' reads the Nagpur resolutions on joint cooperative farming and land-holding ceilings as a doctrinal, not merely pragmatic, turn toward socialism.
+
+- Venkata Rao calls for a liberal opposition that defends private property and individual initiative as preconditions for democracy rather than negotiating over rates of socialisation.
+
+- M. N. Tholal's 'Words vs Deeds' contrasts the ceremonial veneration of Gandhian principles with the gap between Congress rhetoric and its actual governing practice.
+
+- A 'Libertarian Supplement' bundles four economic-policy pieces, including G. N. Lawande on family planning within the Plan and Rasul J. Turagvewala on the economic effects of Indian taxation.
+
+- The issue also carries K. K. Sinha's assessment of West Bengal's prospects after the 1957 elections and Sidney Hook's essay on the compatibility of socialism with democracy.
+
 ## Essays
 
 ### Editorial

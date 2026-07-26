@@ -62,6 +62,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet pairs two thematic clusters of contemporary Indian economic anxiety — rising prices and black money — in a uniform editorial format: a short publisher's "Introductory Note" framing each problem in plain language for a general reader, followed by a scholarly contribution from a named economist. The first half opens with an unsigned editorial diagnosis of inflation as a problem of Government mismanagement (heavy taxation, public-sector losses, bank nationalisation, deficit financing by the back-door through the RBI) and then reproduces a long article by Dr. A. K. Sur, "A Study in the Growth and Causes of Inflation in India" (originally in Economic Affairs, March 1971), which traces Indian price history from the idyll of the 1930s through wartime shortage, Partition, the Korean War, the second-plan spurt, the 1962 emergency and the "alarming" rise from 1970. The second half, introduced on the last rendered page, turns to black money and the "parallel economy" admitted by the Union Finance Minister, and is to be developed in an article by Prof. B. R. Shenoy that lies beyond this 20-page chunk.
 
+## Key points
+
+- The booklet pairs a short editorial note with a scholarly article on each theme, credentialing Dr. A. K. Sur by his Calcutta Stock Exchange tenure and Prof. B. R. Shenoy by his Gujarat University and IMF posts.
+
+- An unsigned introductory note frames fifteen years of continuous inflation as harming fixed-income groups, citing a currency-value index that ranks India at 56 against Switzerland's 74 and the USA's 79.
+
+- The note reports India's price level rising three and a half times the world average over eight years and tabulates Bombay household-staple price increases for salt, tea, kerosene, and tur dal between 1961 and 1971.
+
+- It attributes inflation to Government mismanagement, noting money supply roughly tripled from Rs. 2,026 crores in 1951 to over Rs. 7,000 crores in 1971 while national income only doubled.
+
+- Nationalised banks borrowing from the Reserve Bank of India to fund deficits is identified as 'deficit financing by the back-door', alongside heavy taxation and public-sector losses.
+
+- Dr. A. K. Sur's article, reprinted from Economic Affairs of March 1971, traces Indian price history from the cheap 1930s through wartime shortage, the 1943 Bengal famine, Partition, and the Korean War.
+
+- Sur links inflation to deficit financing across successive plans, rising from Rs. 333 crores in the First Plan to a proposed Rs. 800 crores in the Fourth, and to mounting public-sector losses.
+
+- The pamphlet's second half turns to black money and the 'parallel economy' admitted by the Union Finance Minister, to be developed in an article by Prof. B. R. Shenoy beyond the rendered pages.
+
 ## Essays
 
 ### INTRODUCTION

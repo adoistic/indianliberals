@@ -92,6 +92,24 @@ physical:
 
 This fortnightly issue of The Indian Libertarian (Vol. VII No. 12, July 15, 1959), edited by Kusum Lotwala in Bombay, gathers the journal's characteristic mix of free-market economics, anti-planning polemic, and political commentary. The lead editorial debates two Union Education Ministry proposals (compulsory schooling to age 14 and a means-tested scholarship scheme) and cooperative farming; subsequent articles range across international monetary policy (Lawrence Fertig on the dollar), the Kerala communist-government crisis, the public-versus-private-sector debate, India's Pakistan policy, a critique of Chinese communes, education philosophy, and reports on the emerging Swatantra (New) Party. Through the rendered pages the issue argues a consistent classical-liberal line: that state planning, public-sector expansion, and communist models are economically and politically corrosive, while individual initiative and private enterprise are the engines of development.
 
+## Key points
+
+- The 15 July 1959 issue of The Indian Libertarian (Vol. VII, No. 12), edited by Kusum Lotwala, opens by welcoming the Union Education Ministry's plan to extend compulsory schooling to age 14 by 1975 and fund 10,000 scholarships for poor students.
+
+- The editorial also weighs cooperative farming as a remedy for disguised rural unemployment, citing Minister S. K. Dey and Dr. V. K. R. V. Rao on whether it can genuinely absorb underemployed labour.
+
+- Lawrence Fertig predicts the US dollar will move onto the defensive internationally as restored currency convertibility and the recovery of other economies shift global trade balances.
+
+- M. A. Venkata Rao examines the agitation against Kerala's elected Communist government, centred on the Kerala Education Act, and weighs the constitutional question of central intervention against a duly elected state government.
+
+- M. N. Tholal's 'Public Versus Private' argues the expanding public sector produces inefficiency in transport and services, citing bus operations and administrative bloat to press the case for private enterprise.
+
+- T. L. Kantam's 'The Truth About Communes' traces China's Great Leap Forward, quoting the party organ Jen-min jih-pao on the progressive abolition of private property, land and livestock under the commune system.
+
+- Anthony Ellenjimittan's 'Why Creative Education?' warns that education has become a department of the state under communist and fascist patterns alike, praising independent educators Gandhi, Tagore and Sri Aurobindo against schools' scramble for government recognition.
+
+- Balraj Puri examines India's Pakistan policy by weighing emotional reactions against national interest, while Norman Casserley profiles the Astor family's fur-trade fortune as America's first millionaire dynasty.
+
 ## Essays
 
 ### Editorial: Two Educational Proposals

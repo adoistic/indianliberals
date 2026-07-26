@@ -79,6 +79,26 @@ missing_metadata_flags:
 
 This 1 December 1958 issue (Vol. VI, No. 18) of The Indian Libertarian — a Bombay fortnightly subtitled 'An Independent Journal of Economic and Public Affairs' that 'stands for free economy and libertarian democracy' — ranges across world affairs and Indian domestic policy from a classical-liberal, anti-communist standpoint. In the rendered pages the editorial dissects the 1958 coup in Sudan and Nasser's pan-Arab propaganda; bylined commentary attacks one-party dominance in India (S. Ramanathan), Nehru's foreign-policy drift (Baburao Patel; the 'New Delhi Letter'), Soviet treaty-breaking (Eugene Lyons), and the emerging Sino-Soviet rivalry (Philip Spratt). A four-page 'Libertarian Supplement' carries the issue's economic core: a case that abolishing Bombay's Rent Control Act would solve the housing shortage, a critique of deficit financing and planned 'economic development', and a statement of libertarian free-economy principles. Shorter features cover the Dulles dilemma in the Middle East, Ralph Borsodi's decentralist peace mission, news notes, and Libertarian Social Institute activities. The recurring argument across the rendered pages is that statism — whether Soviet planning, Indian socialism, or price and rent controls — destroys both prosperity and freedom.
 
+## Key points
+
+- The unsigned editorial 'The Coup in Sudan' reads the 1958 military takeover as a collapse of democracy rooted in the fusion of religion and politics and in Nasser's Pan-Arab ambitions.
+
+- Baburao Patel's 'Arise! Awake! And Stop Not!' exhorts Indians to shake off complacency and drift, engaging the Hindu-Muslim question and the conduct of Pakistan's Muslim League leadership.
+
+- S. Ramanathan's essay 'This Business of One-Party Rule' warns that single-party dominance, even when democratically elected, tends toward dictatorship, citing the entrenched position of the Indian National Congress.
+
+- The 'New Delhi Letter' column, 'Hugging a Dead Pact', criticises the Nehru-Noon India-Pakistan understanding as exhausted, reporting Tara Singh's political defeat and a caste crisis in Uttar Pradesh.
+
+- Eugene Lyons's 'Negotiating with the Kremlin' compiles a record of Soviet treaty violations to argue that Moscow's signed agreements offer the West no real security.
+
+- Philip Spratt's 'China versus Russia' analyses the emerging Sino-Soviet competition for leadership of the world communist movement and predicts the partnership will prove unstable.
+
+- Prof. G. V. Lavande's contribution to the Libertarian Supplement argues that abolishing Bombay's Rent Control Act, rather than any new regulation, would resolve the city's housing shortage.
+
+- A piece signed 'Academicus', titled 'Deficit Financing and Economic Development', attacks inflationary deficit financing and state-led economic development planning as twin threats to a sound economy.
+
+- The supplement closes with 'Libertarianism and Free Economy', stating the positive case that a free economy is the foundation of liberty.
+
 ## Essays
 
 ### Behind the News

@@ -76,6 +76,24 @@ physical:
 
 This 15 September 1958 issue (Vol. VI No. 13) of The Indian Libertarian, the Bombay free-economy and liberal-democracy fortnightly edited by Kusum Lotwala, is dominated by Pakistan and the Cold War in the Middle East. Its editorial diagnoses 'the psychology of Pakistan'; M. A. Venkata Rao argues against ceilings on landholdings; an anonymous 'Libertarian' assesses 'the Pak menace'; T. L. Kantam examines Britain's stake in the Middle East; and Peregrine Worsthorne's reprinted piece reads the Soviet view of the West. Shorter items include a judge's statement on tax justice, a commentary on the Noon-Nehru talks, a tribute to the late Glyn Thomas, and a supplement reporting on the Montreal Commonwealth conference and India's food problem. The issue's center is a classical-liberal, anti-collectivist treatment of foreign policy, defence, and property rights.
 
+## Key points
+
+- The editorial, 'The Psychology of Pakistan', traces Indo-Pakistani tension to a settled national psychology rooted in Pakistan's founding premise rather than to isolated disputes.
+
+- M. A. Venkata Rao's 'Ceilings On Landholdings' attacks proposed caps on agricultural holdings as an unjust interference with property rights that would fragment productive farms and deter investment.
+
+- 'The Pak-Menace', by 'A Libertarian', characterises Pakistan's military build-up and irredentist posture as a standing menace requiring policy grounded in strategic realism rather than sentimental hopes of friendship.
+
+- T. L. Kantam's 'Britain's Stake In Middle East' surveys the decline of British dominance in the Gulf after the 1958 upheavals, centring oil and the sheikhdoms in his analysis.
+
+- Peregrine Worsthorne's reprinted 'How The Russians See It' argues Moscow reads Western disunity and hesitation as weakness and opportunity in the Cold War.
+
+- 'Noon-Nehru Talks', by 'Yaranamira', reviews the negotiations between Pakistan's Firoz Khan Noon and Jawaharlal Nehru sceptically, warning against expecting a durable settlement from summit diplomacy.
+
+- Anthony Elenjimittam's tribute, 'The Legacy Of The Late Glyn Thomas', frames the late economist's ideas as a genuine contribution to liberal economic thought.
+
+- A supplement reports on the Montreal Commonwealth conference and India's food problem alongside a judge's statement on tax justice.
+
 ## Essays
 
 ### Editorial: The Psychology of Pakistan

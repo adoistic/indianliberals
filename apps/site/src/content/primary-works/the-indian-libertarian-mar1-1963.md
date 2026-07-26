@@ -65,6 +65,20 @@ physical:
 
 This March 1, 1963 issue (Vol. X No. 23) of The Indian Libertarian, now subtitled 'An Independent Journal of Public Affairs' and edited by D. M. Kulkarni, leads with an editorial, 'Patriots and Patriots,' distinguishing genuine patriotism from its hollow or self-serving imitations amid the post-1962 mood of national emergency. The signed articles span the journal's recurring concerns: M. A. Venkata Rao's 'Marx's Philosophy of History' is a critical exposition (drawing on Karl Popper) of historical materialism; M. N. Tholal's 'Prohibition: The Only Solution' argues the social case for prohibition; and Krishnan Gujral's 'Roosevelt's Interest in Indian Independence,' timed to the anniversary of F. D. Roosevelt's birth, reconstructs American pressure on Britain over Indian freedom. A Rationalist Supplement and a 'Delhi Letter' on foreign military aid complete the issue.
 
+## Key points
+
+- The editorial Patriots and Patriots, written amid the post-1962-emergency mood, distinguishes opportunist copper patriots from disinterested twenty-four-carat and pure gold patriots serving the nation.
+
+- M. A. Venkata Rao's Marx's Philosophy of History concedes Marxism is among the precious heritages of freedom before faulting it for reducing democracy and religion to economic forces.
+
+- Venkata Rao draws explicitly on Karl Popper's critique of historicism to challenge the claim that historical development follows knowable, inevitable stages toward a predetermined end.
+
+- M. N. Tholal's Prohibition: The Only Solution, prompted by a Government of Bombay committee studying prohibition, marshals case material on liquor's toll on labouring households.
+
+- Tholal presses the moral and social case for a total ban on liquor over mere regulation or temperance, while conceding the practical difficulties of enforcement.
+
+- Krishnan Gujral's essay, reprinted from the U.S.A. Information Service to mark Franklin D. Roosevelt's birth anniversary, reconstructs Roosevelt's wartime pressure on Britain over Indian freedom.
+
 ## Essays
 
 ### Editorial: Patriots And Patriots

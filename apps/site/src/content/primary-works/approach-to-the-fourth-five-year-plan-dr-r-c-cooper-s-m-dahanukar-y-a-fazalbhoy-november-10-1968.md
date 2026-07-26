@@ -131,6 +131,24 @@ Published by the Forum of Free Enterprise on 10 November 1968 to coincide with t
 
 The three contributors converge on a single argumentative centre: fifteen years of plans have produced a 'marginal' economy by Asian standards, the Planning Commission has been doctrinaire, over-ambitious and overly bureaucratic, and the Fourth Plan can only succeed if it is resource-based rather than need-based, gives the private sector greater latitude, conditions further public-sector investment on a 10 per cent rate of return, and replaces licensing with a more permissive industrial policy.
 
+## Key points
+
+- Dr. Rustom C. Cooper, a past president of the Institute of Chartered Accountants of India, argues Indian planning has reached a crossroads after three Plans and an enforced plan holiday, forcing a choice between balanced and imbalanced growth strategies.
+
+- Cooper's audit finds average growth of 3.3 per cent against 6 to 8 per cent in Japan, Thailand, China and Korea, with per capita national income rising only 1.2 per cent between 1951 and 1966.
+
+- Cooper identifies seven planning errors, including doctrinaire and over-ambitious targets, resource over-estimation and Centre-State discord, and proposes ten remedies including performance budgeting and a 10 per cent minimum return on public-sector capital.
+
+- Y. A. Fazalbhoy, president of the All-India Manufacturers' Organisation, endorses the Planning Commission's "Growth with Stability" language but argues it still hesitates to extend industrial delicensing to its full effect on production.
+
+- Fazalbhoy defends delicensing against fears of monopoly and small-firm displacement by citing American legislation such as the Small Business Act and Justice Learned Hand's warning against confusing restraint of monopoly with loss of common freedom.
+
+- A further plank in his argument urges a more liberal policy on importing foreign technical know-how, noting that royalty payments rose only from Rs. 16 crores in 1957-58 to Rs. 32 crores in 1967-68.
+
+- S. M. Dahanukar, president of the Maharashtra Chamber of Commerce, joins Cooper and Fazalbhoy in arguing that the Fourth Plan should be resource-based rather than need-based and grant private enterprise greater latitude.
+
+- The Forum of Free Enterprise's introduction frames the volume as continuing its post-1956 campaign against Soviet-style centralised planning, citing inflation, foreign-exchange crises and food shortages as vindication of earlier warnings by A. D. Shroff and B. R. Shenoy.
+
 ## Essays
 
 ### Approach to the Fourth Plan — Indian Planning at Crossroads

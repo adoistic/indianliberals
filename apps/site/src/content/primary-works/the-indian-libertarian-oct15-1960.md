@@ -71,6 +71,24 @@ physical:
 
 This October 15, 1960 issue of The Indian Libertarian (Vol. VIII No. 14), a Bombay fortnightly edited by Kusum Lotwala, gathers an unsigned editorial with several signed articles on Cold War diplomacy, domestic land policy, and anti-communist polemic. In the rendered pages the editorial assesses Nehru's first appearance at the UN General Assembly against the backdrop of Khrushchev's theatrics over the Congo and disarmament; M. A. Venkata Rao examines the impact of land reforms on agriculturists following an All-India Agriculturists' Federation seminar; M. N. Tholal dissects the 'five neutrals' resolution and Khrushchev's bid to sway the American elections; an unsigned piece marks the twentieth anniversary of the Soviet annexation of the Baltic States; Frederic Sondern reports on Soviet propaganda at the Vienna World Youth Festival; and J. M. Lobo Prabhu argues against state-permissioned strikes. The issue's editorial center is classical-liberal and firmly anti-communist, defending free economy and 'libertarian democracy' against both Soviet expansionism and domestic statist drift.
 
+## Key points
+
+- The editorial 'Nehru at the UNO Assembly' reads Khrushchev's Congo intervention on behalf of Patrice Lumumba as propaganda aimed at newly enfranchised African nations while crediting Nehru with a useful mediating role.
+
+- M. A. Venkata Rao's 'The Impact of Land Reforms on Agriculturists' reports on an All-India Agriculturists' Federation seminar at Bangalore, 24-25 September, warning that land ceilings follow a 'communist pattern'.
+
+- Venkata Rao notes small agriculturists cannot afford election expenses far above the statutory Rs 10,000 limit, forcing reliance on urban political patrons.
+
+- M. N. Tholal's 'Five Neutrals' Nostrum' argues Khrushchev's real aim in visiting the USA was to influence the American presidential elections, evidenced by his numerous press conferences.
+
+- An unsigned piece marks the twentieth anniversary of the Soviet annexation of the Baltic States, recalling mass deportations to NKVD dungeons and forced-labour camps.
+
+- It cites the Baltic States' Freedom Council's manifesto appealing to the free world not to lose sight of the Baltic problem.
+
+- Frederic Sondern's 'Red Lure For the World's Youth' reports on the Vienna World Youth Festival as a heavily funded Soviet propaganda effort aimed at capturing non-Soviet youth.
+
+- J. M. Lobo Prabhu contributes an essay arguing against state-permissioned strikes as part of the issue's defence of free economy and libertarian democracy.
+
 ## Essays
 
 ### Editorial

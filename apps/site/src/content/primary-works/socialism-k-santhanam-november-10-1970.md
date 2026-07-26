@@ -71,6 +71,26 @@ This 28-page Forum of Free Enterprise booklet, dated 10 November 1970, gathers t
 
 The volume is editorially polemical but draws on heterogeneous authorities — Marx and Engels are read historically rather than dismissed, while the contributors cite J. R. D. Tata's praise of Singapore, B. R. Shenoy on income redistribution, A. B. Shah on socialism's Indian patronage class, and the British revisionists Crosland and Crossman on the limits of nationalisation. The cumulative case is that genuine socialist objectives — productive employment, social security, dispersed economic power — are better served by a regulated mixed economy with a strong private sector than by the steady extension of bureaucratic State ownership.
 
+## Key points
+
+- K. Santhanam argues that twentieth-century Western capitalism has transformed since Marx's day, diffusing ownership through shareholders and redistributing surpluses through welfare-state taxation.
+
+- Santhanam holds that Stalin's Soviet Union did not achieve socialism but built total State Capitalism, with the State itself acting as a single, totalitarian capitalist.
+
+- Santhanam faults India's Planning Commission for equating State Capitalism with socialism by extending state ownership into consumer industries such as cars, scooters, hotels, sugar mills and textiles.
+
+- For Santhanam, genuine socialism means full employment on a living wage, free social services and comprehensive social security, pursued through decentralised private production rather than nationalisation.
+
+- Dr R. C. Cooper distinguishes a modern '20th Century Socialism', which rejects Marxian class warfare and absolute equality in favour of equality of opportunity and dispersed ownership.
+
+- Cooper cites B. R. Shenoy's finding that Indian nationalisation has transferred income upward from the middle and lower classes rather than redistributing it downward.
+
+- Cooper contrasts J. R. D. Tata's account of Singapore's pro-enterprise growth with India's stagnation, alongside Australia, Japan, Hong Kong, Formosa, Thailand and Malaysia as evidence that prosperity follows when the state governs rather than trades.
+
+- Cooper lists nine features of 20th Century Socialism, including reliance on private enterprise, removal of paralysing controls and hostility to confiscatory taxation, and warns the Fourth Plan will leave 27 million unemployed by 1975.
+
+- Both essayists conclude that a regulated mixed economy with a strong private sector serves socialism's declared goals of employment, equality and social security better than continued extension of bureaucratic State ownership.
+
 ## Essays
 
 ### Socialism or State Capitalism?

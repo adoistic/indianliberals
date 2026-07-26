@@ -65,6 +65,26 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet gathers three 1971 lectures on unemployment, each reprinted from a separate address, under an editorial introduction that frames unemployment of the illiterate and the highly educated alike as 'the most pressing problem of the Indian economy today.' B. K. Nehru argues that employment can only follow from increased production, not from currency expansion or make-work relief; Prof. K. B. Suri analyses the distinct character of rural under-employment and calls for a massive public-works programme to convert idle rural labour into capital; and S. N. Lal concentrates on the educated unemployed, urging a reorientation of the education system toward employment, encouragement of self-employment and small-scale ancillary industry, and vocational guidance. The contributors share a common diagnosis of urgency and a constructive, market-leaning bias, stressing productivity and entrepreneurship over state pension or subsidy schemes.
 
+## Key points
+
+- B. K. Nehru, then Governor of Assam, Meghalaya, and Nagaland, argues unemployment reflects low returns from employment and that increased production, not currency expansion, must be the nation's first priority.
+
+- The same address distinguishes mere "employment" from genuinely productive "gainful employment," warning that paying people without producing goods and services is a monetary illusion that simply pushes up prices.
+
+- Nehru cites Lenin's New Economic Policy after the October Revolution to argue that ideological objectives must yield to the imperative of production, justifying pragmatic concessions to private enterprise and capital.
+
+- Prof. K. B. Suri, Reader in Demography at the Indian Institute of Population Studies, Bombay, distinguishes rural under-employment, largely seasonal and disguised, from open urban joblessness, noting roughly three-quarters of India's unemployment is rural.
+
+- The same lecture criticises official measurement as unreliable, citing inconsistent Planning Commission man-year estimates, National Sample Survey discrepancies, and a Reserve Bank of India figure placing the backlog at 12.6 million by 1969.
+
+- Suri proposes a massive labour-intensive public-works programme in irrigation, roads, market centres, and warehousing to convert idle rural manpower into durable capital, citing Dandekar and Rath's estimate of Rs. 822 crores in supplemental income.
+
+- S. N. Lal, Director of E.I.D. Parry Ltd. and Chairman of the Employers' Federation of Southern India, projects educated unemployment rising from 8.9 lakhs in 1966 to 16.3 lakhs in 1970.
+
+- The same address calls educated unemployment the most socially dangerous form, citing unrest in West Bengal and the Naxalite movement, and rejects pensions in favour of reorienting education toward employment.
+
+- Lal points to the ancillary-supplier networks of Tata, Voltas, and Kirloskar, alongside the Apprentices Act and expanded vocational guidance, as models for absorbing educated youth into self-employment and small industry.
+
 ## Essays
 
 ### The First Priority

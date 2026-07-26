@@ -73,6 +73,22 @@ physical:
 
 This 6 October 1992 issue of Shetkari Sanghatak (शेतकरी संघटक) — Year 9, No. 13, the Marathi fortnightly of the Shetkari Sanghatana — is built around Sharad Joshi's lead editorial calling for a 'second leap' (दुसरी छलांग) of the farmers' movement: beyond merely demanding price relief and opposing Nehruvian planning, the Sanghatana must articulate an affirmative free-market programme and a new method of agitation, or, Joshi warns, the defeat of Nehruvianism will yield no victory for Bharat. Several news pieces show the movement enacting this Nehru-critique in the street: on Gandhi Jayanti (2 October 1992) volunteers ritually burned copies of 'Nehru's policy' at Sevagram (Mahatma Gandhi's ashram), Akola, and Amravati, where the local 'Nehru Maidan' was simultaneously renamed 'Mahatma Jotiba Phule Maidan'. The issue also carries an Indian Express reprint on gender discrimination as a cause of poverty, a short item on chemical/pesticide residues in food, an announcement that a Krishi Arth Prabodhini economic-condition survey of farmers will be serialised from 21 October 1992, news of impending wage and electricity-tariff increases for agriculture, the live-subscriber list as of 1 August–1 October 1992, a Karyakarini meeting notice, and the statutory ownership declaration of the periodical.
 
+## Key points
+
+- This 6 October 1992 issue, Year 9, No. 13, leads with Sharad Joshi's editorial calling for a second leap beyond price-relief demands toward a positive free-market programme, quoting his book Prachalit Arthavyavasthevar Nava Prakash-2.
+
+- Joshi argues that demanding lower input prices and higher output prices keeps the movement inside the subsidy logic it originally set out to attack, and urges mobilising traders and small industry into a coalition.
+
+- On Gandhi Jayanti, 2 October 1992, volunteers ritually burned copies of Nehru's policy at Sevagram, Akola and Amravati, where the local Nehru Maidan was simultaneously renamed Mahatma Jotiba Phule Maidan.
+
+- A reprinted Indian Express report, drawing on fieldwork with rural women in Andhra Pradesh, frames gender discrimination in wages and land access as a structural cause of rural poverty.
+
+- A consumer-side notice reports that pesticide residues found in an Indo-Asian chemical company's tea, dal and ghee triggered a distributor boycott, with a Kolhapur firm reportedly losing 1,500 quintals of dal.
+
+- The issue announces a Krishi Arth Prabodhini household-economy survey of farmers across 21 districts, to be serialised from 21 October 1992 and grounded in Joshi's Chaturang Sheti framework.
+
+- The masthead and organisational notices record the periodical's live-subscriber list for August to October 1992 alongside a notice of an upcoming Karyakarini committee meeting.
+
 ## Essays
 
 ### शेतकरी आंदोलन कुंठित व्हायचे नसेल तर –

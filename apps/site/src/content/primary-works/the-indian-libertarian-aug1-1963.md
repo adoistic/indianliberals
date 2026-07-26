@@ -72,6 +72,26 @@ physical:
 
 The Indian Libertarian Vol. XI No. 9 (August 1, 1963), edited by D. M. Kulkarni and published by Libertarian Publishers Private Ltd., Bombay, opens with an editorial arguing that language is not the essence of nationhood and pressing the case for English as India's lingua franca over imposed Hindi. The body of the issue is dominated by M. A. Venkata Rao's long analytical essay on Karl Marx, India and world communism, which reads the Sino-Soviet split, the Cuban missile crisis, and the China-India border conflict as exposing the Communist project as conspiratorial power-seizure dressed in humanitarian rhetoric. Seth W. Howard's parable 'The Barber's Gold' lampoons Morarji Desai's budget through a king-and-barber fable, M. N. Tholal's 'The Way of Careerists' skewers what he calls Nehru's Gandhian-flavoured opportunism in the wake of the Chandigarh speech, and an unsigned Delhi Letter handicaps the succession contest among Shastri, Indira Gandhi, Morarji Desai, Y. B. Chavan and Jagjivan Ram against the backdrop of Jaya Prakash Narayan's and Rajaji's rival reform proposals.
 
+## Key points
+
+- The unsigned editorial rejects the claim that a single national language is the essence of nationhood, citing Prussia's absorption of Slavic populations and Heine's polyglot Germany as counter-examples.
+
+- It defends English as India's practical lingua franca for clarity of thought and federation-binding utility, framing Hindi imposition as a Congress-driven expedient that risks fracturing the country.
+
+- The editorial also raises the worsening position of Indians in East Africa and warns Nehru against personality cult, careerism and an 'Anti-India Defence Lobby' around him.
+
+- M. A. Venkata Rao's 'Karl Marx, India And Communism' calls the Communist Party 'primarily a conspiracy to do violence and seize power by force' rather than a humanitarian movement.
+
+- He reads the Sino-Soviet split, the Cuban missile crisis and the Sino-Indian border war as evidence that Khrushchev's 'peaceful coexistence' and Maoist militancy are two faces of the same revolutionary project.
+
+- Venkata Rao warns that Indian Communists' ultimate loyalty runs to the international party line rather than to the nation.
+
+- Seth W. Howard's fable 'The Barber's Gold', prompted by Morarji Desai's budget, satirises rulers who hear only flattering reports while inconvenient truths seep out regardless.
+
+- M. N. Tholal's 'The Way Of Careerists' reads Nehru's Chandigarh speech as evidence he has turned the 'Gandhian technique' of renunciation into a careerist's borrowed moral capital.
+
+- An unsigned Delhi Letter handicaps the succession contest among Shastri, Indira Gandhi, Morarji Desai, Y. B. Chavan and Jagjivan Ram against rival reform proposals from Jayaprakash Narayan and Rajaji.
+
 ## Essays
 
 ### Language, Not Of The Essence Of a Nation

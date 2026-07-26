@@ -72,6 +72,20 @@ physical:
 
 This May 1, 1958 issue of The Indian Libertarian (Vol. VI No. 4), the Bombay fortnightly edited by Miss Kusum Lotwala, runs heavily on subcontinental and Cold War politics from a free-economy, anti-Communist standpoint. The editorial reports Pakistani troop massing on the Assam border and reviews communal tension and Kashmir; M. A. Venkata Rao surveys 'The Punjab Cauldron' of linguistic and communal agitation; T. L. Kantam treats Algeria as an international problem; pseudonymous pieces ('Daneshmand', 'Libra') cover Pakistan and political gossip; and Sumant Bankeshwar's 'Red Mundhras of Kerala' attacks the Communist ministry there. Further items ask 'Who are the Real Enemies of India?', allege a 'Fraud on Delhi Electorate', and discuss a 'Plot to End Pakistan', closing with an Economic Supplement, news notes and book reviews. The masthead slogan now reads 'Make English the Official Language of India.'
 
+## Key points
+
+- The 1 May 1958 issue, Vol. VI No. 4, now flying the slogan 'Make English the Official Language of India', leads with an editorial reporting Pakistani troop massing on the Assam border amid communal tension over Kashmir.
+
+- M. A. Venkata Rao's 'The Punjab Cauldron' analyses linguistic and communal agitation in the Punjab, warning that carving states along language or religious lines endangers national integration.
+
+- Venkata Rao reads Hindu-Sikh friction in Punjab as symptomatic of a wider politics of fragmentation, arguing for liberal-democratic cohesion over sectional demands and claims.
+
+- T. L. Kantam's 'Algeria, An International Problem' frames the Algerian war as bearing on the wider Cold War contest rather than a matter France can settle alone.
+
+- Sumant Bankeshwar's 'Red Mundhras of Kerala' accuses the state's Communist ministry of corruption, drawing an analogy to the national Mundhra financial scandal to discredit its claim to clean governance.
+
+- The issue also carries pieces asking 'Who are the Real Enemies of India?', alleging a 'Fraud on Delhi Electorate', and discussing a reported 'Plot to End Pakistan'.
+
 ## Essays
 
 ### The Punjab Cauldron

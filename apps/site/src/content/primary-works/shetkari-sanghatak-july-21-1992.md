@@ -66,6 +66,24 @@ missing_metadata_flags:
 
 Issue 8 of Year 9 of the Marathi fortnightly Shetkari Sanghatak, dated 21 July 1992, is anchored by Sharad Joshi's long lead essay on the Ayodhya question and built out with shorter pieces on the political economy and movement-organisational concerns of the Shetkari Sanghatana. Joshi opens by asking, pointedly, whether any party — BJP, Congress, the Vajpayee-led judicial-negotiation track or the Mulayam Singh-led secular bloc — actually wants the Ram Janmabhoomi-Babri Masjid dispute resolved, and outlines a six-point compromise that would leave the disputed site to those who consider it Ram's birthplace while building a new mosque close by. The issue is interleaved with the Sanghatana's signature concerns: a Nanded organiser's complaint that cadres feel rudderless without training; a Hindi reflection by Manvendra Prakritya on the Ram-Masjid impasse; reports on the flight of NRI deposits and a renewed foreign-exchange crunch; a sharp jab at Manmohan Singh's reform rhetoric; an attack on grain imports under the Narasimha Rao government as proof that the centre is sinking into food dependence; and front-page-style headlines arguing that the Indian state recoils from a real National Agricultural Policy even as it (selectively) frees small industry from the licence raj. A women's section and a notice about the Lakshmi Mukti programme's data-collection round-table round out the number.
 
+## Key points
+
+- Issue 8 of Year 9 of the Marathi fortnightly Shetkari Sanghatak, dated 21 July 1992, is anchored by Sharad Joshi's long lead essay on the Ayodhya question.
+
+- Joshi's essay, "अयोध्या प्रश्न सोडवण्याची कुणाला इच्छा आहे का हो?", asks whether the BJP, Congress, the Vajpayee-led judicial track or the Mulayam Singh-led secular bloc actually wants the Ram Janmabhoomi-Babri Masjid dispute resolved.
+
+- Joshi proposes a four-point compromise: hand the disputed site to those who revere it as Ram's birthplace, leave the existing mosque undefiled, build a new mosque near the temple precinct, and settle by negotiation rather than litigation.
+
+- He dismisses the rival "samanvay" reconciliation formulae of the Vajpayee and Mulayam Singh camps as cover for political inaction, and criticises Kalyan Singh's Uttar Pradesh government and the cadre's cricket-tour distractions.
+
+- Vitthal Bhandarwad of Kosmet, Nanded, argues Sanghatana cadres feel strategically adrift for lack of training and proposes a three-day district-level shibir covering Joshi's economic framework and the movement's policy positions.
+
+- A short report, citing Economic Times figures, warns that non-resident Indians have begun withdrawing deposits from Indian banks, reading the outflow as a vote of no confidence in the new industrial and monetary regime.
+
+- Writing in Hindi, Manvendra Prakritya's "राम-मस्जिद करने में जाता क्या है?" argues governments have cleared the way for temple construction and that the movement's insistence on the Babri site itself keeps the dispute alive.
+
+- The number is rounded out by a women's section and a notice announcing a data-collection round-table connected to the Sanghatana's Lakshmi Mukti programme.
+
 ## Essays
 
 ### अयोध्या प्रश्न सोडवण्याची कुणाला इच्छा आहे का हो?

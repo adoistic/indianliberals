@@ -68,6 +68,20 @@ physical:
 
 The Indian Libertarian, Vol. X No. 12 (September 15, 1962), is a fortnightly classical-liberal journal published from Bombay by Libertarian Publishers under the masthead motto 'We Stand For Free Economy And Limited Government.' This issue leads with an unsigned editorial, 'The Defeat Of Congress-Communist Reaction,' which reads the year's general-election results as evidence that the Congress is 'no longer the political party it once was' and warns of a tacit Congress–Communist alignment. It is followed by M. A. Venkata Rao's analysis of India and the European Common Market, the fourth instalment of M. N. Tholal's serial 'Gandhi–Nehru Succession,' a reprinted Dean Russell piece, 'Basis Of Liberty,' and a four-page Economic Supplement carrying G. N. Lawande's 'Export Promotion And Foreign Collaboration.' Standing departments — Delhi Letter, Book Review, Gleanings from the Press, News & Views, and Dear Editor — round out the number.
 
+## Key points
+
+- Volume ten, number twelve of The Indian Libertarian, dated 15 September 1962, leads with the editorial 'The Defeat of Congress-Communist Reaction,' arguing that although Congress remained the largest party after the year's elections, its strength was 'considerably depleted.'
+
+- The editorial alleges a tacit Congress-Communist alliance, citing Kerala and the Chittoor by-election, and frames totalitarian planning and 'all-embracing statism' as a programme shared by Congress and the CPI.
+
+- M. A. Venkata Rao examines India's stance toward the European Common Market, weighing the loss of imperial-preference advantages for Indian exports if Britain enters, within a larger case for free trade over economic insularity.
+
+- The fourth instalment of M. N. Tholal's serial 'Gandhi-Nehru Succession' compares British and Indian habits of compromise and faction, reading Congress's internal manoeuvring as symptomatic of a deeper leadership crisis.
+
+- A reprinted essay by the American writer Dean Russell, 'Basis of Liberty,' restates the moral and institutional foundations of individual freedom in classical-liberal terms.
+
+- Prof. G. N. Lawande's Economic Supplement piece, 'Export Promotion and Foreign Collaboration,' uses early Five-Year-Plan trade statistics to weigh the benefits and limits of foreign collaboration and capital.
+
 ## Essays
 
 ### Editorial: The Defeat Of Congress-Communist Reaction

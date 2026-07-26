@@ -57,6 +57,22 @@ missing_metadata_flags:
 
 This is the 21 August 1991 issue (Year 8, Issue 9) of शेतकरी संघटक (Shetkari Sanghatak), the Marathi fortnightly organ of the Shetkari Sanghatana. The issue is policy-heavy and pivots on the economics of state intervention in agriculture. Sharad Joshi's signed lead article 'खतांच्या अनुदानाचे रहस्य' (The secret of fertilizer subsidies) argues that fertilizer subsidies are a deceptive instrument that ultimately depress farm-gate prices rather than help farmers, supported by a comparative data table of fertilizer-to-grain price ratios across Pakistan, Egypt, Japan, India and Korea for 1985-86. The bulk of the issue (pages 4-7) is a numbered, multi-part policy document, 'राष्ट्रीय कृषिनीती' (National Agricultural Policy), Article No. 5, setting out the Sanghatana's positions on agricultural exports, removing export controls, market/marketing systems, panchayat-raj decentralisation (पंचायत राज्य), government machinery (सरकारी यंत्रणा) and cooperative institutions (सहकारी संस्था). The issue also carries organisational notices: an expanded executive-committee meeting at Alandi on 17/18 September 1991 (signed by Shankar Dhonge, President), a planned march on the District Collector's office over agricultural policy, and a 2 October panchayat-election initiative. The masthead lists owner Mohan Vihari­lal Pardeshi and editor-printer-publisher Sureshchandra Mhatre, Pune.
 
+## Key points
+
+- Sharad Joshi's lead article on the secret of fertilizer subsidies argues that the subsidy regime functions to keep crop and grain prices artificially low rather than benefit cultivators.
+
+- Joshi supports his argument with a comparative table of fertilizer-to-grain price ratios across Pakistan, Egypt, Japan, India and Korea for the year 1985-86.
+
+- Joshi calls for abolishing the fertilizer subsidy together with freeing crop prices as a better course for Indian agriculture than the existing arrangement.
+
+- Pages four to seven carry Article No. 5 of the serialised National Agricultural Policy, covering agricultural exports, removal of export controls, and market and marketing systems.
+
+- The same policy document goes on to address panchayat-raj decentralisation, government machinery, and the role of cooperative institutions in rural administration.
+
+- An organisational notice announces an expanded executive-committee meeting at Alandi on 17-18 September 1991, signed by Shankar Dhonge in his capacity as President.
+
+- The issue also reports plans for a march on the District Collector's office over agricultural policy and a 2 October initiative tied to panchayat elections.
+
 ## Essays
 
 ### Essay

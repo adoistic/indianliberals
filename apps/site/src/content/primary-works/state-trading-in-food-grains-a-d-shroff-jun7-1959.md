@@ -91,6 +91,24 @@ This 1959 booklet from the Forum of Free Enterprise gathers the presidential rem
 
 The volume's argumentative centre is twofold: a moral and constitutional warning that the Indian liberty experiment is being eroded by an expanding bureaucratic State whose appetite for control runs from 'pins to motor cars', and an applied economic case that procurement, price-fixing and the elimination of three lakh foodgrain merchants will impoverish cultivators, swell unemployment, and worsen the very price-rise it claims to cure. Speakers repeatedly invoke the failures of wartime rationing under Rafi Ahmed Kidwai's decontrol, cite the Asoka Mehta and Food Inquiry Committee reports, and call instead for improved production incentives, the removal of food zones, an all-India advisory board of merchants, and licensed (not state-monopolised) trade.
 
+## Key points
+
+- A. D. Shroff's presidential address, "A Danger to Democratic Way of Life", contrasts moral condemnation of private merchant profit with public praise for the State Trading Corporation's Rs. 53-crore surplus on cement.
+
+- Shroff argues that forcing roughly 300,000 foodgrain merchants to surrender their trade to the State Trading Corporation violates the constitutional freedom to choose one's own avocation.
+
+- Devji Rattansey, vice-president of the Bombay Foodgrains Dealers' Association, argues the National Development Council's November 1958 decision was a hasty response to a 5 to 8 per cent price rise caused by an inaccurate rabi harvest forecast, not trader misconduct.
+
+- Rattansey notes that the Asoka Mehta Committee's structural remedies, including a Price Structure Board and wealth taxes, were quietly dropped while only its state-trading recommendation survived.
+
+- Rattansey shows bank advances against foodgrain stocks had barely grown, rebutting the charge that traders were hoarding for profit, and proposes removing food zones in favour of an all-India advisory council of merchants.
+
+- Ranchhoddas Jethabhai, president of the Bombay Rice Merchants' Association, contributes an address titled "A Novel Idea", though only its opening page survives in the rendered text.
+
+- M. H. Hasham Premji, president of the All-India Foodgrains Dealers' Association, and Prof. R. K. Amin of Vallabh Vidya Nagar Commerce College also address the convention alongside Shroff and Rattansey.
+
+- The convention was convened on 13 March 1959 in Bombay after the National Development Council resolved in November 1958 to move wholesale foodgrain distribution into state hands.
+
 ## Essays
 
 ### A DANGER TO DEMOCRATIC WAY OF LIFE

@@ -90,6 +90,24 @@ This Forum of Free Enterprise booklet, published in memory of chartered accounta
 
 The first essay, "Farm Loan Waiver: A Critical Evaluation" by Dr. C. L. Dadhich (Hon. Secretary, Indian Society of Agricultural Economics; former Director of Rural Economics at the Reserve Bank of India) and Dr. Barendra Kumar Bhoi (recently retired Principal Adviser and Head of Monetary Policy Department, RBI), uses NSSO and RBI data to argue that fragmented landholdings, growing reliance on non-institutional credit and an inefficient value chain dominated by middlemen have made cultivation structurally loss-making, and that competitive loan waivers distort credit culture without addressing the underlying causes. The second essay by Kumar Anand, described in the editorial as a young economic-liberal thinker, locates the same crisis in the absence of market principles at the input and output levels and questions whether central planning has truly been abandoned despite the dissolution of the Planning Commission. The rendered pages cover the front-matter, the foreword, the editorial and the opening sections (Introduction; Agrarian Distress; Rural Indebtedness; Inefficient Value Chain) of the first essay through printed page 18.
 
+## Key points
+
+- Dr. C. L. Dadhich, a former director of rural economics at the Reserve Bank of India, and Dr. Barendra Kumar Bhoi, a retired principal adviser and head of the RBI's monetary policy department, jointly author "Farm Loan Waiver: A Critical Evaluation".
+
+- Dadhich and Bhoi cite NSSO's 59th round from 2003 showing 40 per cent of farmers wanted to quit farming, and its 70th round from 2013 showing two-thirds of agricultural households now spend more than they earn.
+
+- The essay reports that institutional credit's share of rural lending fell from 69.4 per cent in 1991 to 56 per cent in 2012, with banks and cooperatives favouring asset-rich households over the poor.
+
+- Fragmented landholdings, growing reliance on non-institutional credit and an inefficient value chain dominated by middlemen are identified as the structural causes making cultivation loss-making rather than any single crop failure.
+
+- Kumar Anand, described as a young economic-liberal thinker, contributes a second essay locating the agrarian crisis in the absence of market principles at both the input and output levels of farming.
+
+- Anand questions whether central planning has genuinely been abandoned in Indian agriculture despite the formal dissolution of the Planning Commission.
+
+- Sunil S. Bhandare's editorial and Minoo R. Shroff's overview, dated 8 August 2017, frame farm loan waivers as a populist soft option that fails to address the deeper unviability of agriculture as an occupation.
+
+- This Forum of Free Enterprise booklet is published in memory of chartered accountant Shailesh Kapadia, who lived from 1949 to 1988, and is sponsored by the Shailesh Kapadia Memorial Trust.
+
 ## Essays
 
 ### Farmer Loan Waiver - A Critical Evaluation

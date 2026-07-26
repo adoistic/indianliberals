@@ -77,6 +77,26 @@ physical:
 
 This 1 December 1957 issue of The Indian Libertarian (Vol. V No. 18), edited by Kusum Lotwala and published from Bombay, opens with a multi-section editorial on India's Kashmir diplomacy and then ranges across the global Cold War, Pakistan's internal politics, the language controversy at home, and a programmatic statement of liberal economic doctrine. The featured cover items — 'The Challenge of the Sputnik', 'This Is Pakistan' and 'The Battle Of Languages' — frame the issue's argumentative centre: that the West has been complacent in the face of Soviet technological prowess, that Pakistan's hostility toward Kashmir is a betrayal of trust, and that India must accept English as a working lingua franca rather than impose Hindi by fiat. B. R. Shenoy's lead theoretical essay, 'My Idea of a Welfare State', sets the magazine's classical-liberal frame: a welfare state must be minimal in scope, defined by equality of opportunity rather than directed economic outcomes. The issue's contributors — M. A. Venkata Rao, Baburao Patel, J. K. Dhairyawan, B. R. Shenoy and the pseudonymous 'Al-Kafir' — together press the journal's standing slogan, 'We Stand For Free Economy And Liberal Democracy'.
 
+## Key points
+
+- The unsigned editorial defends V. K. Krishna Menon's performance at the United Nations Security Council on the Kashmir question as brilliant and forceful diplomacy.
+
+- The editorial reads the British-American resolution proposing a second mission by Dr. Graham as a procedural retreat that revives stale 1948-49 positions on Kashmir.
+
+- The editorial accuses Pakistani Prime Minister Noon of orchestrating a sabotage campaign against Kashmir and treats the newly announced union of Egypt and Syria as a serious strategic shift in West Asia.
+
+- B. R. Shenoy's lead essay, My Idea of a Welfare State, argues that a welfare state must remain minimal in scope, defined by equality of opportunity rather than directed economic outcomes.
+
+- M. A. Venkata Rao's The Challenge of the Sputniks reads the Soviet satellite launches as a defeat of Western prestige, quoting Clare Booth Luce on the shock running through American opinion.
+
+- Venkata Rao urges the free world to fundamentally rethink its containment strategy and proposes a Gandhian register of moral incentives as a supplement to Western strategic doctrine.
+
+- Baburao Patel's Biting the Hand that Feeds recounts Sheikh Mohamed Abdullah's August 1953 arrest and dismissal as Prime Minister of Jammu and Kashmir as a turning point Pakistan has refused to acknowledge.
+
+- Patel traces the succession of Pakistani leaders from Liaqat Ali Khan through Iskander Mirza as a chain of expedient nationalism built on the Kashmir grievance.
+
+- J. K. Dhairyawan's This Battle of Languages Must End invokes Lokmanya Tilak's pragmatic engagement with the language question to argue for accepting English as India's working lingua franca.
+
 ## Essays
 
 ### EDITORIAL

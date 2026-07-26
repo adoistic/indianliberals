@@ -63,6 +63,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise booklet, edited by Sunil S. Bhandare and sponsored by the Shailesh Kapadia Memorial Trust, pairs two articles on the Union Budget for 2010-11. Bhandare's Introduction sets the scene against a 'fortuitous backdrop' of economic turnaround — 7.2% real GDP growth, double-digit industrial resurgence, a rising Sensex and returning capital flows — while flagging formidable risks of high food inflation, unsustainable deficits and rising indebtedness, and identifying five forces (agricultural resurgence, rural development, infrastructure thrust, social-sector spending, and tax reform via the Direct Tax Code and GST) driving the Finance Minister's bid for a virtuous cycle. The first article, by the chartered accountant Prof. Kanu H. Doshi, examines the implications of the direct-tax changes; the second, by financial analyst Divya Vasantharajan, reads the budget's sectoral impact on the capital market. Together they offer expert, cautiously optimistic appraisals from a free-enterprise standpoint.
 
+## Key points
+
+- Editor Sunil S. Bhandare's introduction frames the 2010-11 budget against a 'fortuitous backdrop' of 7.2 per cent real GDP growth, double-digit industrial resurgence, a rising Sensex and returning capital flows, alongside risks of food inflation and rising deficits.
+
+- Bhandare identifies five forces driving the budget's bid for a virtuous cycle: agricultural resurgence, rural development, an infrastructure thrust, social-sector spending, and tax reform through the Direct Tax Code and GST.
+
+- Prof. Kanu H. Doshi argues the budget presented by Finance Minister Pranab Mukherjee on 26 February is 'for Khas Admi,' the taxpaying investor, since for the first time it widened income tax slabs to leave taxpayers more after-tax income.
+
+- Doshi tabulates the revised slabs, taxing income up to Rupees five lakh at ten per cent and reserving the thirty per cent rate for income above Rupees eight lakh, yielding tax savings of up to about Rupees fifty-one thousand five hundred.
+
+- He details amendments including enlarged Section 35AD deductions for new hotels, raised Section 44AB tax-audit turnover thresholds, and higher TDS limits, reading them as preparation for the Direct Tax Code and GST from April 2011.
+
+- Financial analyst Divya Vasantharajan opens by noting Foreign Institutional Investment of twenty-three billion dollars by 10 March 2010 lifted the Sensex from nine thousand to seventeen thousand five hundred by May 2010.
+
+- She surveys sectoral impact across agriculture, textiles, banking, energy and infrastructure, noting Rupees one thousand seven hundred thirty-five billion allocated to infrastructure and India's roughly seventy per cent import dependence on oil and gas.
+
+- Vasantharajan concludes that India's once-feared youthful population has become the economy's growth driver, positioning the country to pursue double-digit growth.
+
 ## Essays
 
 ### The Budget is for Khas Admi

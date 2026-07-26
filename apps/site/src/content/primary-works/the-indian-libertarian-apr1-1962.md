@@ -73,6 +73,24 @@ missing_metadata_flags:
 
 Volume X, Number 1 of The Indian Libertarian — a Bombay fortnightly that 'stands for free economy and limited government' and campaigns for English as the lingua franca of India — frames the months after the 1962 general elections as a moment of testing for Indian constitutional liberalism. An unsigned editorial surveys the Geneva Disarmament Conference, the widening Sino-Soviet rift, and the integration of Goa, while 'Here and There' sketches domestic news. Bylined essays by M. A. Venkata Rao, M. N. Tholal and J. M. Lobo Prabhu interrogate the post-election Congress hegemony, defend freedom of information against Nehru's qualifications, and warn that the constitutional 'watchman' has fallen asleep. The Delhi Letter mocks Nehru's foreign and Punjab policy; a Book Review notes a fresh American study of Indian Communism; and 'Gleanings from the Press' and 'News & Views' compile dissenting voices from Biju Patnaik, Rajaji, the Ahmedabad Citizens' Conference and the Dalai Lama. Taken together, the issue articulates the journal's classical-liberal idiom: hostility to one-party Congress dominance, scepticism of planning, defence of free speech and federal pluralism, and steady alignment with the West in the Cold War.
 
+## Key points
+
+- Volume ten, number one of The Indian Libertarian, dated 1 April 1962, frames the months after the 1962 general elections as a test of Indian constitutional liberalism against Congress's post-election hegemony.
+
+- The unsigned editorial reports Russia treating the Geneva disarmament talks as a propaganda exercise while the West insists on adequate inspection of an Atom-Test-Ban Treaty, and welcomes the constitutional integration of Goa, Daman and Diu into the Union.
+
+- M. A. Venkata Rao's 'Information Vs Ignorance' reads the election results as a chastening verdict on Congress dominance, welcoming Swatantra, the Praja Socialist Party, Jana Sangh and the Communists as a credible parliamentary check on executive power.
+
+- In another essay Venkata Rao argues democracy requires a contestable two-bloc politics rather than a permanent ruling party, and calls for dismantling the sectarian identification of Congress with the national interest.
+
+- M. N. Tholal's 'Watchman, What of the Night?' attacks Nehru's claim, made at a UN seminar, that the principle of 'truth at all costs' can be misused, arguing suppression by states is the true threat to public reason.
+
+- Tholal points to Cuba's abolition of free elections as proof of what follows when governments escape the discipline of an informed electorate.
+
+- J. M. Lobo Prabhu, a retired ICS officer, warns that Congress's renewed majority hollows out the Constitution's role as watchman against arbitrary power, and closes on Lincoln's reminder that an uneducated electorate risks 'dangerous franchise.'
+
+- The Delhi Letter portrays Nehru as a pettifogging Prime Minister on Berlin, NATO and the Punjabi Suba agitation, while a book review notes a fresh American study of Indian Communism and Gleanings from the Press compiles dissent from Biju Patnaik, Rajaji and the Dalai Lama.
+
 ## Essays
 
 ### The Crucial Years Ahead

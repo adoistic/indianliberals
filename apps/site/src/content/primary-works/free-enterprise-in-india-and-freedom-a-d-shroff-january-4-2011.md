@@ -122,6 +122,26 @@ This 2011 Forum of Free Enterprise pamphlet reproduces two companion articles or
 
 Shroff's piece concentrates on the practical and morale-based case for the private sector — describing the despondency among small businesspeople under Section 23-A of the Income-tax Act, the misrepresentation of "the Private Sector" as a handful of large industrialists, and the indispensable role of agriculture, trade and small enterprise — and calls for an organised, country-wide educative campaign by the Forum and like-minded bodies. Vaidya's essay treats the same Second Plan documents as a political-philosophical problem: drawing on the experience of Eastern European countries that slid from socialism into communism, he warns that simultaneous pursuit of socialism and democracy in an under-developed economy risks sacrificing the latter, and that institutional changes envisaged by the Planners are dictated by the Avadi resolution rather than by any economic necessity. The introduction concludes that Forum's 1950s campaign has "in some way led to the liberalisation of the economy and the assignment of a larger role to the private sector after 1991".
 
+## Key points
+
+- The pamphlet reprints two companion articles from The Times of India of 30 March 1956, A. D. Shroff's Free Enterprise in India and Murarji J. Vaidya's Free Enterprise and Freedom, reissued in 2011 as a tribute to the late Farrok Mulla.
+
+- Minoo R. Shroff's introduction frames both essays as responses to the government's adoption of a socialistic pattern of society as the credo of the Second Five-Year Plan.
+
+- A. D. Shroff argues that Section 23-A of the Income-tax Act and related fiscal measures were breeding a defeatist mentality among small businesspeople, amounting to a suicide of the Private Sector.
+
+- Shroff cites National Income Committee figures showing Small Enterprises produced Rs. 910 crores of net output in 1950-51 against Rs. 550 crores from Factory Establishments, employing 11.5 million workers against 3 million.
+
+- He calls for an organised, country-wide educative campaign by chambers of commerce and trade associations to counter the caricature of the private sector as a handful of large industrialists.
+
+- Shroff singles out press vilification of private life-insurance management ahead of nationalisation as a template for how the state justifies expanding public ownership of the economy.
+
+- Murarji J. Vaidya reads the Second Plan's draft outline as a near-final commitment to the Avadi resolution's Socialistic Pattern of Society, hardened into plain socialism by subsequent Congress speeches.
+
+- Vaidya warns that Eastern European countries which pursued socialism and democracy simultaneously slid into communism, losing both, and cautions India against the same trajectory.
+
+- The introduction credits the Forum's 1950s campaign with having in some way led to the liberalisation of the economy and the private sector's larger role after 1991.
+
 ## Essays
 
 ### Free Enterprise in India

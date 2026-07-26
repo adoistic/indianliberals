@@ -70,6 +70,20 @@ physical:
 
 This June 1, 1961 issue (Vol. IX No. 5) of The Indian Libertarian, the Bombay fortnightly edited by D. M. Kulkarni whose masthead now stands 'for free economy and limited government,' opens with an editorial reading the failed Bay of Pigs landing as 'Cuba: A Set-back to the Free World' and moves through Cold War commentary on Laos, South Vietnam, and the contest with communism. The literary and biographical heart of the issue comprises M. A. Venkata Rao's appreciation 'Rabindranath Tagore And Humanism,' M. N. Tholal's affectionate portrait of 'Motilal Nehru' as 'a true democrat,' and S. R. Narayana Ayyar's critical reflection 'The Prime Minister And The Future Of Our Country.' The issue also carries an interleaved four-page Rationalist Supplement (I-IV), a Delhi Letter, a book review, a 'Gleanings from the Press' column, and news and views. Its argumentative centre is the journal's classical-liberal, anti-communist defence of economic freedom and limited government against state planning and Soviet expansion.
 
+## Key points
+
+- This 1 June 1961 issue, Vol. IX No. 5, edited by D. M. Kulkarni, opens with the editorial Cuba: A Set-back to the Free World, reading the failed Bay of Pigs landing as a propaganda victory for Castro and Moscow.
+
+- The editorial surveys the communist advance in Laos and South Vietnam and doubts the durability of an Austrian type of neutrality for Laos.
+
+- M. A. Venkata Rao's Rabindranath Tagore And Humanism, written for the poet's birth centenary, reads Tagore's universalism and faith in the individual as a counter to collectivist currents.
+
+- M. N. Tholal's Motilal Nehru is a personal recollection portraying the Congress leader as a true democrat who met others as equals despite his wealth, implicitly contrasting his temperament with later Congress politics.
+
+- S. R. Narayana Ayyar's The Prime Minister And The Future Of Our Country questions the personalised concentration of authority around Nehru and its implications for accountable government.
+
+- The issue also carries a four-page Rationalist Supplement, a Delhi Letter, a book review, and a Gleanings from the Press column.
+
 ## Essays
 
 ### Editorial (Queen Elizabeth in India; Conspiracy to Murder Leaders; etc.)

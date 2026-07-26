@@ -314,6 +314,26 @@ Fifty Years After … is a slim proceedings booklet published in 1997 by the Pro
 
 The governing question across the volume is whether the freedoms for which the independence generation fought have been delivered to ordinary Indians. The contributors reach a broadly shared negative verdict: the economy was captured by a permit-licence-quota raj that produced a vast public sector, fiscal profligacy, and entrenched bureaucratic rent-seeking; democratic institutions have degenerated into a VIP Republic serving politicians and goondas rather than citizens; mass illiteracy, inadequate health care, and poor infrastructure remain stubborn failures fifty years on. Yet several speakers — notably Justice Jahagirdar and Dr. Usha Mehta — resist pure pessimism, arguing that the constitutional framework has proved resilient and that civil society, the armed forces, and voluntary organisations can still push reform forward. The discussions section adds concrete proposals on municipal schooling, family planning, nutrition, women's employment, and community entitlements, giving the volume a policy-reform as well as retrospective character.
 
+## Key points
+
+- Sadanand Varde dates the moral decline of Indian public life to Indira Gandhi's transformation of Congress into a family business and catalogues over two lakh crore rupees sunk in loss-making public sector units.
+
+- Varde skewers the 'VIP Republic' of rent-free MP bungalows and competitive populism that he says drains resources from education and health.
+
+- K. F. Rustomji opens the Discussions section reporting that four hundred million Indians live below the poverty line, seventy per cent are illiterate, and sessions courts take eight to ten years to convict.
+
+- Maj. Gen. (retd.) E. D'Souza identifies constitutional collapse and the absence of a viable alternative to Congress as India's twin root failures, quoting B. K. Nehru on the gulf between founders and present rulers.
+
+- Arvind Deshpande's essay 'Today's Pindaris' invokes Achyut Patwardhan's warning that 1990s India resembles 1837, twenty years before 1857 and a phase of anarchy.
+
+- Dr. Maneesha Tikekar attributes the failure to build civil society to excessive governmentalisation in a hierarchy-bound culture where politics fills the vacuum left by absent social mobility.
+
+- Dr. Usha Mehta, drawing on her own service under Gandhi, defends non-violent means and notes India alone among comparable post-colonial states has never fallen under military rule.
+
+- Justice R. A. Jahagirdar takes the most optimistic line, invoking Ambedkar's opposition to panchayat rule against the Gandhian Gram Swaraj ideal and concluding 'the patient is still alive and curable'.
+
+- Indumati Parikh reframes freedom through M. N. Roy's definition of continuous removal of impediments to human development, addressing rural schooling, family planning, and primary health care failures.
+
 ## Essays
 
 ### Is This the Freedom We Fought For?

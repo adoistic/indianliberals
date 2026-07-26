@@ -70,6 +70,22 @@ missing_metadata_flags:
 
 This 1 September 1959 issue of The Indian Libertarian (Vol. VII No. 15), a Bombay fortnightly 'Independent Journal of Free Economy and Public Affairs,' leads in the rendered pages with editorials on 'External Dangers: Soviet Imperialism' and 'Chinese Designs on India,' framing the journal's Cold War liberal anti-totalitarian stance. The bylined articles in the rendered pages argue against communal and statist drift in Indian politics: M. A. Venkata Rao examines the revival of the Muslim League and Muslim political ideology, M. N. Thölal attacks the Congress 'house that Nehru built,' A. Ranganathan parses Frank Anthony's language resolution and Nehru's reply, K. Kumara Sekhar charges that the Congress is 'behind the times,' and H. V. Kamath warns of a Chinese 'secret plan for a Himalayan Federation' encircling India. The issue also carries a bound 'Rationalist Supplement' whose lead piece, 'The Revival' by S. Ramanathan, celebrates the relaunch of the rationalist/freethought movement in India.
 
+## Key points
+
+- The 1 September 1959 issue of The Indian Libertarian, Vol. VII No. 15, leads with editorials on "External Dangers: Soviet Imperialism" and "Chinese Designs on India," framing the journal's Cold War anti-totalitarian stance.
+
+- M. A. Venkata Rao traces the revival of the Muslim League in Kerala coalition politics against the Communist ministry, reading it as a resurgence of Muslim "two-nation" political ideology.
+
+- A. Ranganathan's response to Frank Anthony's language resolution and Nehru's reply defends English as a vital "additional" link language and instrument of national integration rather than a colonial relic.
+
+- K. Kumara Sekhar's "Congress Behind the Times" argues the party has grown out of the national movement but failed to modernise, using its record in Kerala as a case study of statist, centralising drift.
+
+- H. V. Kamath's "China's Secret Plan for a Himalayan Federation" warns that Chinese cartographic claims, road-building and border encroachments in Ladakh and NEFA point toward absorbing Tibet, Nepal, Sikkim and Bhutan.
+
+- The bound "Rationalist Supplement" leads with S. Ramanathan's "The Revival," celebrating the relaunch of the rationalist and freethought movement in India under the patronage of the Indian Rationalist.
+
+- Ramanathan argues rationalism, by abolishing the fear of death and the apparatus of priestcraft, would redirect human energy toward worldly human betterment, while conceding the difficulty of reaching the masses.
+
 ## Essays
 
 ### Revival of The Muslim League

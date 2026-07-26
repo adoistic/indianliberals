@@ -126,6 +126,26 @@ thinker_mentions:
 
 This Forum of Free Enterprise booklet collects three speeches from a meeting organised by the Forum's Bangalore Centre on 29 May 1959 — a gathering that helped launch the political mobilisation which would crystallise as the Swatantra Party. The order is preserved: a welcome speech by M. A. Sreenivasan, chairman of the Bangalore Centre, titled "Coop and Kotow"; the main address "Nagpur and After" by M. R. Masani, M.P.; and the presidential speech "For Freedom, Farm and Family" by C. Rajagopalachari. The argumentative centre is a frontal attack on the Congress's Nagpur Resolution of January 1959 on joint cooperative farming, read as the latest step in a drift toward state capitalism and "Communist dictatorship". All three speakers call for a non-Socialist opposition — a "Middleclass Front" and "Small Man's Party" — to defend peasant proprietorship, parliamentary democracy and free enterprise against what Rajaji names a "Totalitarian State".
 
+## Key points
+
+- M. A. Sreenivasan's welcome speech, 'Coop and Kotow', frames the Bangalore gathering as a stand by Rajaji and Minoo Masani against slums, dearer food, a falling rupee and unemployment eleven years after independence.
+
+- Sreenivasan casts the Congress's Nagpur Resolution on joint farming as a 'Violent Co-operation' that threatens the very freedom won through Gandhian non-violent non-co-operation.
+
+- M. R. Masani's address, 'Nagpur and After', argues the Nagpur Resolution and Nehru-government policy are pushing India toward Communist dictatorship by destroying peasant proprietorship and disenfranchising voters.
+
+- Masani cites Iron Curtain Eastern Europe, Hungary, Tibet and Polish reformers' recantations to insist that State Capitalism and collective agriculture cannot coexist with parliamentary democracy.
+
+- He calls for a new 'Middleclass Front' and 'Small Man's Party' rooted in peasant proprietors, professionals and teachers, quoting Ludwig Erhard's slogan 'Let the men and the money loose'.
+
+- C. Rajagopalachari's presidential address, 'For Freedom, Farm and Family', blames citizens' loss of independent thinking for the country's drift and names 'megalomania' the disease of Indian planning.
+
+- Rajaji attacks the Nagpur Resolution's joint farming and management proposals as destructive of the owner-cultivator's incentive to produce food.
+
+- He warns against State Trading in foodgrains, quoting the Gujarati proverb that when the state takes to trade the people take to begging, and against taxation that closes one business to fund another.
+
+- All three speakers converge on building a non-Socialist opposition before the 1962 election to defend peasant proprietorship, parliamentary democracy and free enterprise against a 'Totalitarian State'.
+
 ## Essays
 
 ### "Coop and Kotow"

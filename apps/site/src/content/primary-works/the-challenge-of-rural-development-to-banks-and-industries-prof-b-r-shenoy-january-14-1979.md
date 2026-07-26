@@ -82,6 +82,24 @@ missing_metadata_flags:
 
 This Forum of Free Enterprise pamphlet — published in Bombay on 14 April 1977 under the title 'The Basic Truth About Inflation' — pairs two essays to argue that inflation in any country is fundamentally a monetary phenomenon driven by government budget deficits, not an accidental price disturbance amenable to administrative controls. Part I, 'Controlling Inflation in India' by Prof. B. R. Shenoy, dismantles the Indira Gandhi government's claim (echoed by the IMF, the World Bank, and J. R. D. Tata) that India had 'reversed inflation', tracing the post-1955 expansion of money supply and the temporary 1975–76 price decline to deficit-financed Reserve Bank credit and police-led hoarding raids rather than any genuine monetary discipline. Part II, '40-Year Inflation in U.S.A.' by Henry Hazlitt (reproduced from The Freeman of October 1976), shows that American consumer prices have been driven by a 119 per cent increase in the M-2 money stock since 1967, with data tables stretching back to 1940 and 1933 — and warns that the cumulative monetary build-up is 'a potential time bomb'. Read together, the two essays make a single classical-liberal case: governments cause inflation by spending beyond their revenues, and only honest fiscal and monetary discipline — not price controls, raids, or index-manipulation — can stop it.
 
+## Key points
+
+- The pamphlet pairs Prof. B. R. Shenoy's Controlling Inflation in India with Henry Hazlitt's 40-Year Inflation in U.S.A., reprinted from The Freeman of October 1976.
+
+- Shenoy rejects the Indira Gandhi government's claim, endorsed by IMF chief Witteveen, World Bank president McNamara and J. R. D. Tata, that India had reversed inflation.
+
+- Shenoy shows India's money supply grew 6.5 times between 1954-55 and 1975-76 while the General Prices Index rose 3.86 times, collapsing real wages to 40 paise of their earlier value by 1970-71.
+
+- Shenoy argues the 1974-76 price decline began in September 1974, before the Emergency, and was produced by police raids on stockists, credit restrictions and the unloading of 7.38 million tonnes of imported foodgrains.
+
+- Shenoy coins the term the Raisman trick to describe using an administratively engineered price dip to misrepresent underlying fiscal indiscipline as genuine monetary success.
+
+- Hazlitt argues American inflation is not a recent phenomenon but an unbroken decades-long trend, with the dollar's purchasing power falling to about 24 cents of its 1940 value by 1976.
+
+- Hazlitt reports the M-2 money stock rose 119 per cent since 1967 while consumer prices rose 74 per cent, attributing the gap to M-2's composition, productivity gains and lagging public expectations.
+
+- Hazlitt warns that subjective public expectations about inflation could shift suddenly, letting prices race ahead of the underlying money stock at any moment.
+
 ## Essays
 
 ### Controlling Inflation in India

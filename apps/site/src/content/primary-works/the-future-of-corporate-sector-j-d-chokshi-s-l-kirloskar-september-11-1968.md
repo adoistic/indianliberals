@@ -69,6 +69,26 @@ missing_metadata_flags:
 
 Issued as a Forum of Free Enterprise booklet, 'The Future of Corporate Sector in India' gathers two contributions on the place of private industry in late-1960s India. Part I, 'The Corporate Sector & Political Parties' by J. D. Choksi (based on a talk delivered under FFE auspices in Bombay on June 20, 1968), is a wide-ranging indictment of government over-regulation of business; Part II, 'The Stock-Holders and the End of the Managing Agency' by S. L. Kirloskar, defends the managing agency system against the imminent legislative move to abolish it. Both pieces argue that economic decisions are being driven by political motive rather than economic logic, and that India's corporations should be placed above politics yet subject to the law. The rendered pages contain the whole of Choksi's part and the opening of Kirloskar's part.
 
+## Key points
+
+- J. D. Choksi argues that twenty-five years after independence India's political leadership shows 'almost complete amnesia' on economic matters, with industrialists sharing blame for ceding the field to politicians.
+
+- Choksi cites indiscriminate licensing, price controls and constant company-law amendments as having set back the economy, using the steel industry's price-distribution machinery under the Joint Parliamentary Committee as his central illustration.
+
+- Choksi defends the managing agency system as a sound structure already restrained by the Company Law, calling its proposed abolition an amazing waste of public funds and time.
+
+- On corporate political funding, Choksi favours a transparent, audited system of election finance over an outright ban, warning that a ban would merely drive contributions underground as black money.
+
+- Choksi insists corporations and industries should be placed above politics, yet always remain subject to the laws of the nation, echoing the volume's title theme of a corporate sector free from partisan capture.
+
+- S. L. Kirloskar contends that the bill to abolish the managing agency system is already before Parliament, which is swayed more by political expediency than by economic argument.
+
+- Kirloskar notes that a post-war generation conditioned to accept economic restraint as natural is gaining influence and turning hostile to institutions like the managing agency.
+
+- Kirloskar argues no decisive case has actually been made against the managing agency system, since both the Monopolies Commission and a recent government committee failed to clinch it.
+
+- Kirloskar traces the managing agency's historical origin to a scarcity of venture capital and entrepreneurial talent, cautioning stockholders against assuming today's apparent capital availability removes the need for it.
+
 ## Essays
 
 ### The Corporate Sector & Political Parties

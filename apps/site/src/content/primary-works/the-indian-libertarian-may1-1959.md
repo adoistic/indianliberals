@@ -79,6 +79,22 @@ physical:
 
 This May 1, 1959 issue of The Indian Libertarian (Vol. VII No. 3), the Bombay free-economy fortnightly, is dominated by the Dalai Lama's flight into Indian asylum and the deepening Tibet–China crisis. The lengthy editorial weighs how Nehru should handle Chinese displeasure over India's reception of the Dalai Lama, framing it as a forced 'choice' between China and the West. M. A. Venkata Rao reviews land reforms in Pakistan; M. N. Tholal offers a tribute to the recently retired U.S. Secretary of State John Foster Dulles; Sir Julian Huxley's piece urges the U.N. to evolve a world population policy; and further articles cover Dahyabhai Patel's impressions, a debate among libertarians (Labadie, Lawande and Meulen), Communist designs, and Cold War prospects. The masthead retains the slogan 'Make English the Lingua Franca of India.'
 
+## Key points
+
+- The editorial on the Dalai Lama's asylum reviews the 1951 treaty and China's erosion of Tibetan autonomy, arguing Nehru's cautious Madras statement can no longer sustain "equal friendship with both the tiger and the cow."
+
+- The editorial concludes that India must now choose between China and the West rather than continue its studied neutrality on the Tibet question.
+
+- M. A. Venkata Rao's essay on land reforms in Pakistan reads the measures against Islam's egalitarian tradition, treating them as a realisable contrast to Indian land policy rather than mere rhetoric.
+
+- M. N. Tholal's tribute to the retiring U.S. Secretary of State John Foster Dulles defends his Cold War record of containment and firmness toward Soviet expansion.
+
+- Sir Julian Huxley's contribution declares a world population crisis and calls on the United Nations to evolve a deliberate international population policy rather than allow drift.
+
+- Huxley links human ecology to finite earth resources, warning that unchecked population growth threatens to outstrip food supply and other resources unless nations act through reasoned international coordination.
+
+- Further articles cover Dahyabhai Patel's impressions, a debate among libertarians Labadie, Lawande and Meulen, Communist designs and Cold War prospects, while the masthead retains the slogan "Make English the Lingua Franca of India."
+
 ## Essays
 
 ### Editorial: Dalai Lama

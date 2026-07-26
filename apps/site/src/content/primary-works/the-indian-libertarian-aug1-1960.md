@@ -93,6 +93,24 @@ missing_metadata_flags:
 
 The 1 August 1960 issue of The Indian Libertarian (Vol. VIII, No. 9) leads with a sharply-worded editorial on the just-collapsed Central Government Employees' Strike, arguing that a strike in essential public services amounted to a general strike — an act of war against state and society that the public was right to refuse. Subsequent editorial notes treat the rise of Hindi imperialism in Assam, the Punjabi Suba agitation, and a Congress proposal for compulsory national service for students. Feature articles by M. A. Venkata Rao on the international situation, M. N. Tholal on the failure of democracy in India, and Prof. Karot A. Joseph on free enterprise as the durable basis of a free society fill out the main pages. A four-page Rationalist Supplement honours the recently-deceased Bombay industrialist and rationalist R. B. Lotvala with a biographical sketch by S. Ramanathan and reproduces Lotvala's own essay on the Sisyphean task of the Indian rationalist. Shorter pieces by Vaman H. Pandit (on the threat posed to English by linguistic provincialism), Waran (a Parkinson's-Law-style tabulation of bloating central government employment) and a Delhi Letter on the Assam language imbroglio and the Subramaniam case round out the rendered pages.
 
+## Key points
+
+- The lead editorial argues that the just-collapsed Central Government Employees' Strike amounted to a general strike and 'an act of war against the government and society at large' that the public was right to refuse to support.
+
+- The editorial concedes striking employees were worse off than the general public and need relief, while rebuking the Centre's coercive Bengali/Hindi language policy in Assam and welcoming the Akali Dal's Punjabi Suba demand as a legitimate constitutional question.
+
+- A further editorial note rejects the Congress proposal for compulsory national service for students as a sovietising device that would militarise youth.
+
+- M. A. Venkata Rao's 'International Situation' surveys the post-U-2 US-Soviet standoff, Communist-led student agitations on American campuses, the Cuban crisis under Castro, and the unfolding Congo independence.
+
+- M. N. Tholal's 'Failure of Democracy in India' attributes democratic hollowing-out to an overwhelmingly illiterate electorate voting on caste and communal cues and reads Indira Gandhi's elevation to the Congress presidency as the entry of dynastic politics.
+
+- Prof. Karot A. Joseph argues in 'Free Enterprise — Durable Basis of a Free Society' that economic concentration in state hands destroys the conditions for a free society regardless of egalitarian intent.
+
+- A four-page Rationalist Supplement honours the recently deceased industrialist and rationalist R. B. Lotvala with a biographical sketch by S. Ramanathan and reproduces Lotvala's own essay on the Sisyphean task of the Indian rationalist.
+
+- Shorter pieces cover the threat linguistic provincialism poses to English, a Parkinson's-Law-style tabulation of bloating central government employment by Waran, and a Delhi Letter on the Assam language imbroglio and the Subramaniam case.
+
 ## Essays
 
 ### EDITORIAL — The Defeat of the Central Government Employees' Strike / Provincialism in Assam

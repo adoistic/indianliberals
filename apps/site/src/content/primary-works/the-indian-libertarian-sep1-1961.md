@@ -70,6 +70,20 @@ missing_metadata_flags:
 
 This 1 September 1961 issue of The Indian Libertarian (Vol. IX No. 11), the Bombay fortnightly edited by D. M. Kulkarni that now declares 'WE STAND FOR FREE ECONOMY AND LIMITED GOVERNMENT,' opens in the rendered pages with an Independence Day editorial lamenting external dangers (the Chinese annexation of 1,200 square miles in Ladakh, the loss of Goa, troubles in Assam and the Punjab) and internal communal strife. The bylined articles in the rendered pages develop the journal's liberal-nationalist line: M. A. Venkata Rao's 'National Ideals And Social Forces' weighs the social forces shaping the new nation against its professed ideals; M. N. Thölal's 'The Fat Is In The Fire' treats the Master Tara Singh agitation and Sikh-Punjabi communal politics; and P. Kodanda Rao's 'Integration' argues the case for genuine national integration over coerced uniformity. The bound Rationalist Supplement leads with S. Ramanathan's profile 'Mrs. Kunjitham Guruswami,' and the issue closes with standing departments (Delhi Letter, Book Review, Gleanings, News & Views, Letter to the Editor).
 
+## Key points
+
+- The 'Independence Day' editorial catalogues external dangers including the Chinese Red Army's occupation of roughly 1,200 square miles of territory in Ladakh, unresolved Goa and Kashmir questions, and communal trouble in Assam and the Punjab, faulting the Prime Minister's complacency.
+
+- M. A. Venkata Rao's 'National Ideals And Social Forces' draws on the French and Russian revolutions to argue that national ideals divorced from actual social forces miscarry, pressing for a liberal, integrative basis for the nation.
+
+- M. N. Tholal's 'The Fat Is In The Fire' takes up Master Tara Singh's agitation and the Punjabi Suba demand, reading the fast as inflaming communal-linguistic politics and treating the crisis as largely self-inflicted.
+
+- P. Kodanda Rao's 'Integration' argues that genuine national integration must rest on consent and shared liberal citizenship rather than imposed uniformity, distinguishing it from mere centralisation.
+
+- The bound Rationalist Supplement leads with S. Ramanathan's profile of Mrs. Kunjitham Guruswami, presented as an exemplary case of rationalist and reformist commitment.
+
+- The issue closes with standing departments — Delhi Letter, Book Review, Gleanings, News and Views and a Letter to the Editor — rounding out its mix of political commentary and record-keeping.
+
 ## Essays
 
 ### Editorial: Independence Day

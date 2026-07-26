@@ -88,6 +88,22 @@ thinker_mentions:
 
 Black Money and Special Bearer Bonds Scheme bundles two short pieces issued by the Forum of Free Enterprise to oppose the Special Bearer Bonds Scheme of 1991 on classical-liberal grounds. Vadilal Dagli, editor of Commerce and chairman of the Dagli Committee on Controls and Subsidies, opens with the polemic 'Respectability for Black Money', casting the bonds as the fifth and most cynical official attempt since 1951 to absorb unaccounted money, and argues that the scheme grants the black-money baron a tax-free premium and statutory immunity while leaving the underlying flow untouched. Economist D. R. Pendse follows with 'The Problem of Black Money', a structured analytical essay that distinguishes illegal-source from tax-evaded legal-source income, surveys magnitude estimates and international comparisons, and begins a seven-point catalogue of underlying causes — controls, scarcities, high tax rates, changing social attitudes, interference with traditional values, low salaries of government servants, and election finance. Together the pamphlet advances the Forum's standing argument that black money is a man-made consequence of controls, inflation and politicised election finance rather than an inevitable feature of Indian commerce.
 
+## Key points
+
+- Vadilal Dagli's essay 'Respectability for Black Money' treats the Special Bearer Bonds Scheme of 1991 as the fifth official attempt since 1951 to surface unaccounted money, after earlier voluntary disclosure schemes and the 1978 demonetisation.
+
+- Dagli argues the new bonds reward past holdouts with a tax-free twenty per cent maturity premium, immunity from prosecution, and bank credit against the bonds, granting respectability to politicians, officials and bribe-taking professionals.
+
+- He proposes a four-point reform: capping money-supply growth a few points above real income growth, sunsetting controls older than three years, legislating audited public financing of political parties, and cutting the top income-tax rate to fifty per cent.
+
+- D. R. Pendse's companion essay 'The Problem of Black Money,' reprinted from The Economic Times, distinguishes illegal-source income such as smuggling and bribes from legal income concealed by professionals, and rejects the idea of a separate parallel economy.
+
+- Pendse settles on a working estimate of roughly ten per cent of national income, about Rupees eleven thousand crores, drawing on the Wanchoo Committee formula and international comparisons with the United States and Britain.
+
+- He begins a seven-cause catalogue for black money's growth, covering price and import controls, scarcities, punitively high marginal tax rates, changing social attitudes, low government salaries, and the financing of elections and political parties.
+
+- Both essays present black money as a man-made consequence of controls, inflation and politicised election finance rather than an inevitable feature of Indian commerce, and warn that the Bonds Scheme leaves the underlying flow untouched.
+
 ## Essays
 
 ### Respectability for Black Money

@@ -66,6 +66,24 @@ physical:
 
 This September 1, 1963 issue (Vol. XI No. 11) of The Indian Libertarian, the Bombay classical-liberal fortnightly edited by D. M. Kulkarni, is dominated by Congress-party politics and the crisis of one-man rule. Its editorial argues that only 'de-Nehruization' can save India; M. A. Venkata Rao analyses the relationship of party and government; M. N. Tholal dissects the Congress's reorganisation muddle; and a Delhi Letter profiles the socialist firebrand Ram Manohar Lohia. Shorter pieces report on life in East Berlin, Rajaji's 'Permit-Licence-Yug' critique of controls, a review of Ernest Barker on government, and a column on the persistence of Stalinism. The issue's argumentative center is a liberal critique of personalised, over-centralised Congress rule and the permit-licence economy.
 
+## Key points
+
+- The editorial 'Only De-Nehruization Will Save India' argues the concentration of power around Nehru has hollowed out Congress and Indian governance, reading the Kamaraj Plan and resulting resignations as symptoms rather than cures.
+
+- M. A. Venkata Rao's 'Party And Government', occasioned by the Kamaraj Plan, argues that fusing a single ruling party with the machinery of the State converts government office into an instrument of patronage rather than service.
+
+- M. N. Tholal's 'Congress Cart Before The Congress Horse' responds to Kamaraj's AICC-adopted resignation proposal, arguing it inverts the proper party-government relationship and leaves the real concentration of power untouched.
+
+- C. Rajagopalachari's column 'Permit-Licence-Yug' attacks the controls-and-permits regime of the planned economy, coining the phrase to cast licensing as the defining affliction stifling enterprise and breeding corruption.
+
+- Elsewhere, a short reportage sketch, 'How They Live In East Berlin', contrasts regimented scarcity in the Communist East with conditions in the West.
+
+- A Delhi Letter, 'Lohia, The Lion-hearted', profiles socialist leader Ram Manohar Lohia's combative parliamentary clashes with Nehru while noting Lohia's own ideological excesses alongside his courage.
+
+- The Book Review treats Ernest Barker's 'Reflections on Government' as a liberal study of representative, constitutional government, aligning it with the journal's constitutionalist outlook.
+
+- The column 'The Mind Of The Nation', subtitled 'Stalinism Still Remains', argues that despite formal de-Stalinisation the underlying apparatus and habits of Stalinist rule persist because the system, not the man, was the problem.
+
 ## Essays
 
 ### Editorial: Only De-Nehruization Will Save India

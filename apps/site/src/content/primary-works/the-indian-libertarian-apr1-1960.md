@@ -169,6 +169,26 @@ The Indian Libertarian (Vol. VIII No. 1, April 1, 1960) is a fortnightly periodi
 
 The issue also carries a pointed piece by V. Vijayatunga examining the survival of Brahmanical social authority in independent India under the label 'fascism', and a short philosophical essay by Bernard Iddings Bell tracing the historical cycle by which political power degenerates from aristocracy through plutocracy to mob rule. The Delhi Letter reports on the early fortunes of the Swatantra Party and urges mergers among liberal and opposition parties, while a brief but forthright essay by A. D. Cohen indicts the caste system as a form of perpetual servitude incompatible with democratic citizenship. A book review covers Volin's history of Soviet collective farms. The News Digest and Bangalore Letter round out the issue with brief items on corruption, linguistic policy, and the Congress party's growing dominance of state institutions.
 
+## Key points
+
+- The unsigned editorial, "High-Handedness of the Governor of Bombay", condemns the Governor's intervention to shield Commander Nanavati from service-regulation consequences after his murder conviction as executive overreach without constitutional warrant.
+
+- The editorial extends its attack to Nehru's China policy, accusing him of dismissing warnings about Chinese aggression and of failing to build the military preparedness an honest appraisal would require.
+
+- M. A. Venkata Rao's "Containing Red China" calls for abandoning non-alignment, joining SEATO and CENTO, recognising Tibetan independence, and inviting American military assistance to counter Chinese expansion.
+
+- Venkata Rao also urges investment in roads, supply lines and forward bases along the Himalayan frontier, and separately reviews Volin's "The History of a Soviet Collective Farm" as a cautionary account of Stalinist collectivisation.
+
+- M. N. Tholal's "The Silver Lining" reads the Chinese crisis as a salutary shock that should force India to shed its 'Hindi-Chini bhai-bhai' illusions and cultivate civic courage and military capacity.
+
+- Tholal calls for replacing Congress-controlled discourse with genuine pluralism and criticises the Congress habit of treating dissent from Nehru's personal diplomacy as treachery.
+
+- V. Vijayatunga examines the survival of Brahmanical social authority in independent India under the label 'fascism', while Bernard Iddings Bell traces the historical cycle by which political power degenerates from aristocracy through plutocracy to mob rule.
+
+- A. D. Cohen indicts the caste system as a form of perpetual servitude incompatible with democratic citizenship, and the Delhi Letter reports on the Swatantra Party's early fortunes while urging mergers among liberal and opposition parties.
+
+- The Rationalist Supplement records a Bombay seminar in which followers of M. N. Roy debate whether Rationalists should align with the Swatantra Party or remain non-partisan.
+
 ## Essays
 
 ### EDITORIAL

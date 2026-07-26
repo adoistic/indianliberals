@@ -68,6 +68,24 @@ This is Issue 4, Year 12 (21 June 1995) of *Shetkari Sanghatak* (शेतकर
 
 The central political question taken up at the Ambethan meeting is how the Sanghatana should read its support for the BJP-Shiv Sena alliance that ousted Congress in the February 1995 Maharashtra assembly elections — Sharad Joshi's framing rejects the view that the rural movement was 'broken' by the result, insists that 'the people are with us' must remain the working presumption of any kāryakartā, and points to the new non-Congress government as continuity with the Sanghatana's long anti-Congress orientation. The volume is in Marathi throughout; the key organisational terms recurring across the issue are विस्तारीत कार्यकारिणी (extended working committee), जोतीबा गाव (a model-village award named for Jyotiba Phule), and लक्ष्मीमुक्ती (the campaign to register agricultural land in women's names).
 
+## Key points
+
+- Issue 4, Year 12 (21 June 1995) of the Marathi fortnightly Shetkari Sanghatak, edited by Sureshchandra Mhatre and printed in Pune, reports on the Shetkari Sanghatana's extended working-committee meeting held at Ambethan on 3-4 June 1995.
+
+- The committee read the February 1995 Maharashtra assembly result, which toppled Congress and installed the state's first non-Congress government, as a vindication of the Sanghatana's long political direction rather than a setback.
+
+- Newly elected office-bearers named in the report are Ram Newale, Saroj Kashikar, Raghunathrao Patil, Shankar Dhondge and Purushottam Lahoti, succeeding an outgoing committee that included Bhaskarrao Borade and Kishore Madhavkar.
+
+- Sharad Joshi's closing remarks argue that a karyakarta must presume the people are with the movement, treating any apparent gap in support as the movement's own failing to correct rather than the people's fault.
+
+- A profile of Shankar Dhondge, elected president for a second time, traces his career from his first term in 1986 through the Nanded district committee and notes he fielded six candidates in the recent Maharashtra assembly elections.
+
+- Balubhau Jain of Alibag contributes an opinion piece arguing that Sanghatana meetings have shifted from being driven by ordinary karyakartas to being dominated by office-bearers and functionaries.
+
+- Indirabai Bhanudas Patil, elected president of the Shetkari Mahila Aghadi, sets out a four-point agenda covering Lakshmimukti land rights for women, prohibition, maternity leave and greater female participation in decision-making.
+
+- A back-page notice announces enrolment for the Krishi Arth Prabodhini training camp scheduled to be held at Ambethan in September 1995.
+
 ## Essays
 
 ### विस्तारीत कार्यकारिणी बैठक ३/४ जून १९९५ — वृत्तांत / अध्यक्ष शंकर धोंडगे

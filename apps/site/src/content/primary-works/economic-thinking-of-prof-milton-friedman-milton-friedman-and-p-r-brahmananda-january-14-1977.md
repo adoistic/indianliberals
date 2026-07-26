@@ -124,6 +124,24 @@ thinker_mentions:
 
 Published by the Forum of Free Enterprise on 14 January 1977 to mark Milton Friedman's Nobel Prize, this slim booklet pairs two complementary texts. The first is a reprint of a 1963 article by Friedman himself — 'India Needs A Free Market Exchange Rate' — which the Forum had originally issued as a leaflet in May 1963 and now reproduces with a note that 'developments on India's foreign exchange front have moved in the direction indicated by Prof. Friedman.' The second is 'Milton Friedman — Leader of Monetarist Revolution', a critical appraisal by P. R. Brahmananda, Professor of Monetary Economics at Bombay University, originally published in Commerce on 23 October 1976. Together the two pieces position Friedman as both a practical policy critic of India's exchange-control regime and as the synthesiser who restored the Quantity Theory of Money to the centre of macroeconomics. The Forum supplies a brief introduction and the customary disclaimer that the views are not necessarily its own, while the back matter carries the standard membership appeal and an A. D. Shroff epigraph.
 
+## Key points
+
+- Published on 14 January 1977 by the Forum of Free Enterprise to mark Milton Friedman's Nobel Prize, the booklet reprints Friedman's 1963 article 'India Needs A Free Market Exchange Rate' alongside P. R. Brahmananda's appraisal from Commerce, 23 October 1976.
+
+- Friedman diagnoses the pegged, overvalued rupee as the 'Achilles heel' of the Indian economy, noting domestic prices rose 30 to 40 per cent between 1955 and 1963 against at most 10 per cent in the US, UK, and Germany.
+
+- Friedman catalogues four official responses to maintaining the peg: drawing down reserves, soliciting foreign aid and loans, tightening exchange and import controls, and an expanding unofficial black market channel.
+
+- Friedman argues that direct import licensing misallocates imports, breeds corruption around licence-granting, and generates windfall rents for the fortunate few without stimulating exports.
+
+- Friedman predicts an imminent devaluation but rejects any new fixed peg, advocating instead a floating exchange rate combined with the abolition of quotas and export subsidies.
+
+- Brahmananda frames Friedman as the 'hedgehog' who restored the Quantity Theory of Money to macroeconomics, laying out its modern form in ten propositions covering the money multiplier, velocity, and demand for money.
+
+- Brahmananda credits earlier economists, including Fisher, Hawtrey, Robertson, Simons, Patinkin, Hayek, Gurley, and Shaw, for individual propositions, locating Friedman's originality in synthesis and empirical testing rather than invention.
+
+- Brahmananda criticises Friedman for partly surrendering to Keynesianism by conceding effective demand under short-run conditions, and for advocating full indexation, which he reads as abandoning the fight against inflation.
+
 ## Essays
 
 ### Introduction

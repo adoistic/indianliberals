@@ -62,6 +62,20 @@ physical:
 
 This February 15, 1963 issue (Vol. X No. 22) of The Indian Libertarian, the Bombay fortnightly edited by D. M. Kulkarni for the Libertarian Publishers, is preoccupied with international affairs in the immediate aftermath of the 1962 Sino-Indian war and de Gaulle's reshaping of Europe. The editorial, 'One Man Over Europe Again?', reads de Gaulle's veto of Britain's entry into the Common Market as a single man once more bending Europe to his will and unsettling the Anglo-American alliance. M. A. Venkata Rao's 'Morale And Leadership in War-time' reflects on national morale and leadership in the wake of the Chinese invasion, and M. N. Tholal's 'All Roads Lead to Alignment' argues that the Chinese attack has exposed the bankruptcy of non-alignment. The issue also carries a four-page Economic Supplement, a 'Delhi Letter' titled 'Escalation Into Surrender', a book review, and the 'Gleanings from the Press' and 'News and Views' columns.
 
+## Key points
+
+- The editorial 'One Man Over Europe Again?' reads de Gaulle's veto of Britain's entry into the Common Market as one man again imposing his will on Europe and straining the Anglo-American alliance.
+
+- M. A. Venkata Rao's 'Morale And Leadership in War-time' responds to the 1962 Chinese invasion, opening from the failed Colombo Proposals and the unresolved clearance of Chinese forces.
+
+- Venkata Rao argues that national morale and political leadership are the decisive factors shaping India's military and diplomatic response to Chinese aggression.
+
+- M. N. Tholal's 'All Roads Lead to Alignment' argues the 1962 war exposed the bankruptcy of non-alignment, since India turned to the U.S.A. and U.K. for arms and defence.
+
+- Tholal draws on General Thimayya's assessment to contend that events are pushing India inexorably toward alignment with the Western powers.
+
+- The issue also carries a four-page Economic Supplement, a Delhi Letter titled 'Escalation Into Surrender', and a book review alongside the regular news columns.
+
 ## Essays
 
 ### Editorial: One Man Over Europe Again?

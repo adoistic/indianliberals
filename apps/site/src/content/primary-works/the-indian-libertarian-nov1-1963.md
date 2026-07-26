@@ -71,6 +71,26 @@ physical:
 
 The Indian Libertarian, Vol. XI No. 15 (November 1, 1963), is a fortnightly issue of the Bombay classical-liberal journal edited by D. M. Kulkarni and published by the Libertarian Publishers. This issue leads with an editorial on what it calls a 'two-pronged Red drive' against the Indo-Pakistan subcontinent, arguing that Chinese and Soviet communism threaten the region and urging Indo-Pak rapprochement and alignment with the West. The remaining articles range across social philosophy (M. A. Venkata Rao on the vacuum in Indian social thought), a polemic warning of 'creeping fascism' under Nehru's government (M. N. Tholal), a defence of liberal democracy against authoritarianism (Seth W. Howard), a Delhi Letter on Nehru and the rule of law, and a book review of an American social-thought volume. Regular departments — 'The Mind of the Nation', 'News and Views', and 'Dear Editor' — round out the issue. The recurring frame across all pieces is anti-communism abroad and a defence of individual liberty, the rule of law, and free enterprise at home.
 
+## Key points
+
+- The editorial, "The Two-pronged Red Drive Towards The Indo-Pak Sub-continent", argues that Chinese and Soviet communism are exploiting the India-Pakistan rift and urges both Indo-Pak rapprochement and closer alignment with the West.
+
+- It rejects non-alignment as a posture inadequate to the communist threat and criticises Indian complacency about the scale of the danger.
+
+- M. A. Venkata Rao's "The Danger Of A Vacuum In Social Thought" argues that the decline of traditional religious sanction has left a gap in Indian social thought that collectivist and totalitarian ideologies threaten to fill.
+
+- Venkata Rao calls for liberals to supply a constructive social philosophy grounded in individual freedom and reason before communism occupies the vacuum.
+
+- M. N. Tholal's "The March Of Fascism In India" warns that Congress dominance under Nehru fosters concentrated, unchecked executive power dressed in democratic and socialist language.
+
+- Seth W. Howard's "Democracy Or Jungle Law?" defends constitutional liberal democracy against the lawlessness he associates with communist and authoritarian rule, tracing a 'path to communism' through the erosion of legal restraint.
+
+- The Delhi Letter, "Mr. Nehru And The Rule Of Law", examines tensions between the executive and judiciary and touches on Kashmir's constitutional future and the standing of the Supreme Court.
+
+- Lilian Hardenberg's companion piece, "Liberte", proposes a test for economic policy rooted in individual freedom, drawing comparisons to Western liberal democracies.
+
+- Morton C. Blackman reviews a volume on "Social Thought In America", while "The Mind Of The Nation" digests press opinion including items on Congress dominance and India's retention of the Formosa seat.
+
 ## Essays
 
 ### The Two-pronged Red Drive Towards The Indo-Pak Sub-continent

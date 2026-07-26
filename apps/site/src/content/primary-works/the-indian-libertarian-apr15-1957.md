@@ -79,6 +79,24 @@ physical:
 
 The 15 April 1957 number of The Indian Libertarian (Vol. V, No. 4), edited by Kusum Lotwala for the Libertarian Publishers (Private) Ltd., Bombay, gathers an editorial, six signed essays, three standing departments and a book notice under the masthead promise to 'stand for free economy and liberal democracy.' Its argumentative center is twofold: a sustained alarm at what the editors see as the steady drift of Indian policy under the Second Five-Year Plan towards Soviet-style collectivism (in agriculture, in trade, in the currency, and in school curricula), and a sharply liberal-democratic reading of contemporary foreign affairs — Pakistan's anti-India fifth-column press, the prospects of war between the United States and Communist China, the Hungarian aftermath of de-Stalinisation, the breakdown of representative government in newly independent Islamic states, and the Suez settlement. Recurring contributors include M. A. Venkata Rao on agriculture and the Suez canal, Dr. K. N. Kini on Sino-American conflict, James Burnham on the post-Stalin Kremlin, the columnists 'Vigilant' and 'Vivek' on internal subversion and black-marketing, and J. K. Dhairyawan on democracy in Islamic nations; K. D. Valicha closes the issue with a review of J. D. Sethi and K. L. Gauba's Our Economic Problems.
 
+## Key points
+
+- The unsigned editorial Collapse of Democracy in Islamic Countries reads the post-1918 political history of Egypt, Syria, Saudi Arabia, Jordan and Iraq as a record of repeated democratic failure.
+
+- A companion editorial, Red Star Over Kerala, treats the swearing-in of the state's new Communist ministry as a national emergency for liberal democracy in India.
+
+- The editorial pages attack compulsory cooperative and joint farming schemes as the destruction of independent peasant proprietorship, and warn that schools and youth organisations are the regime's next instrument.
+
+- M. A. Venkata Rao's Agricultural Statesmanship reads the Second Five-Year Plan as a decisive shift toward Soviet-style collectivisation and defends the independent cultivator as democracy's political mainstay.
+
+- Venkata Rao closes his essay by invoking Adam Smith's verdict on colonial monopoly as a classical-liberal parable against the Plan's home-grown monopolies in food and trade.
+
+- Dr. K. N. Kini's essay on a possible U.S.-China war argues that Communist China has grown harder to intimidate since 1953 and that Pakistan is a liability to American strategy.
+
+- James Burnham's De-Stalinisation argues that Khrushchev's Kremlin has abandoned only Stalinism's most embarrassing features while preserving its substance of terror, party monopoly and expansion.
+
+- Burnham warns Western observers and Indian neutralists against mistaking Khrushchev's tactical adjustments after the Hungarian massacre for a genuine structural liberalisation of Communist rule.
+
 ## Essays
 
 ### EDITORIAL

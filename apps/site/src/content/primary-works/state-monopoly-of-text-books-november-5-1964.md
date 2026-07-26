@@ -79,6 +79,24 @@ missing_metadata_flags:
 
 State Monopoly of Text-Books is a 1964 Forum of Free Enterprise booklet that gathers three pieces against the drift toward government nationalisation of school textbooks, prompted by the scandal of grossly defective Maharashtra-state geography textbooks. A short Forum introduction frames the issue, four R. K. Laxman cartoons reprinted from The Times of India lampoon the policy, and the body of the booklet then reproduces an unsigned essay 'Freedom of Choice' from the Year Book of Education (London/New York, 1960) alongside the texts of two talks delivered at a Forum meeting in Bombay on 5 August 1964 by M. R. Masani M.P. and S. S. Patke, ex-President of the Maharashtra State Federation of Headmasters' Associations. Together the contributors argue, on economic, educational and civil-liberty grounds, that state production and prescription of textbooks degrades quality, raises costs, fosters piracy, restricts the freedom of teachers and authors, and opens the door to political indoctrination of children — and they urge that publishing be left to private and voluntary initiative, with the State at most reviewing approved lists rather than holding a monopoly.
 
+## Key points
+
+- The booklet gathers three pieces opposing state nationalisation of school textbooks, prompted by the scandal of defective Maharashtra-government geography textbooks, alongside four R. K. Laxman cartoons reprinted from The Times of India.
+
+- An essay reprinted from the Year Book of Education, London and New York 1960, argues that single-text national systems exist mainly in Communist countries and produce technically dated, pedagogically conservative books.
+
+- The Year Book essay contends that claimed economic savings from state textbook production are largely illusory once hidden departmental costs and forgone competitive efficiencies are properly counted.
+
+- The essay's central objection is political rather than economic: state production of textbooks implies censorship, restricts teachers' choice, and stifles the diversity that good schooling requires.
+
+- M. R. Masani, M.P., insists that 'nationalisation of text-books' is a misnomer for what is actually a state monopoly of publication, comparable only to practice in Communist and Fascist regimes.
+
+- Masani traces textbook policy from 1824 under British rule, when official series like the Lipidhara and Gannit dominated, through an early-twentieth-century withdrawal in favour of private publishers, to a renewed state monopoly drive.
+
+- Masani cites Justice Balakrishna Ayyar's 1959 Madras High Court judgment on a mangled abridgement of Quentin Durward and a Press Trust of India estimate of Rs. 10 crores lost to counterfeiting.
+
+- Masani details a Bihar shortfall of roughly Rs. 35 lakhs a year in the Free India Readers and arithmetic books, attributing the piracy to extortionate state margins, erratic supply, and stingy trade discounts.
+
 ## Essays
 
 ### You Said It

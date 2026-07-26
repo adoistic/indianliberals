@@ -65,6 +65,20 @@ missing_metadata_flags:
 
 This 1 September 1958 issue (Vol. VI No. 13) of The Indian Libertarian, the Bombay journal of free economy and libertarian democracy edited by Miss Kusum Lotwala, leads with an editorial, 'Pak Aggression on the Eastern Borders,' urging firmness in defence of India's eastern frontier against Pakistani incursions. In the rendered pages the issue carries M. A. Venkata Rao's 'Corruption of Thought,' M. N. Tholal's 'Kashmir: India's Unanswerable Case,' V. R.'s 'Man Against State — American Utopias,' A. N. S.'s 'The Leader in Quest of Himself,' and a reprint of Lawson E. Reno's 'Police Power.' Across these pieces the journal presses its classical-liberal line: a defence of clear thinking and the free individual against collectivist confusion, a constitutional case for India's claim to Kashmir, and scepticism toward the expanding powers of the state.
 
+## Key points
+
+- The 1 September 1958 issue, Vol. VI No. 13, leads with an editorial, 'Pak Aggression on the Eastern Borders', urging firmness in defence of India's eastern frontier against Pakistani incursions.
+
+- M. A. Venkata Rao's 'Corruption of Thought' diagnoses muddled, sloganeering public discourse as the precondition of bad politics, defending disciplined reasoning as a liberal civic duty.
+
+- Venkata Rao traces the country's drift toward collectivism partly to this prior failure of intellectual honesty among its public commentators and leaders.
+
+- M. N. Tholal's 'Kashmir: India's Unanswerable Case' argues from Pandit Premnath Bazaz and the Partition agreement that India's title to Kashmir is constitutionally and democratically sound.
+
+- Writing as 'V. R.', 'Man Against State — American Utopias' surveys the American individualist-anarchist tradition, taking Josiah Warren as its exemplar of the free individual standing prior to and against the state.
+
+- 'A. N. S.'s 'The Leader in Quest of Himself' reflects on political leadership as a matter of self-knowledge, arguing a leader who has not mastered himself cannot give a nation stable direction.
+
 ## Essays
 
 ### Conception of Thought

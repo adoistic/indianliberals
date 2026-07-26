@@ -70,6 +70,24 @@ physical:
 
 This 15 February 1961 issue (Vol. VIII, No. 22) of The Indian Libertarian — the Bombay fortnightly of the Libertarian Publishers, which 'stands for free economy and limited government' — opens with an editorial on Queen Elizabeth II's visit to India and on a conspiracy to murder Indian leaders, then ranges across foreign policy, ideology, and economics from a classical-liberal, anti-communist stance. M. A. Venkata Rao assesses President Kennedy's 'New Frontiers'; M. N. Thoial dissects the 'psychology of non-alignment' as self-deception serving the communist bloc; and S. Ramanathan revisits 'Lokayata', India's ancient materialist tradition. A four-page 'Economic Supplement' by William Henry Chamberlin is the issue's analytical core, arguing that forced growth and Soviet-style planning are a 'mirage' and that Soviet and Communist-Chinese agriculture is a cautionary failure. Laurence Labadie comments sceptically on disarmament schemes for avoiding atomic war, a 'Delhi Letter' attacks the Congress government's authoritarian drift, and book-review, press-gleaning, and news columns round out the issue. The through-line is that economic freedom and limited government, not planning or non-alignment, secure both prosperity and liberty.
 
+## Key points
+
+- The editorial reads Queen Elizabeth II's visit to Delhi, Jaipur and beyond as genuine goodwill toward Britain rather than revived loyalism, and hopes it will secure British backing against Chinese border aggression at the coming Commonwealth Prime Ministers' meeting.
+
+- A further editorial, "Conspiracy to Murder Leaders", reflects on a plot uncovered in the Punjab, recalling the passions of the 1947 Partition.
+
+- M. A. Venkata Rao's "President Kennedy's 'New Frontiers'" weighs the new American administration's call for sacrifice against the backdrop of communist advances across Asia, Africa and Latin America.
+
+- M. N. Thoial's "Psychology of Non-Alignment" attacks India's non-aligned foreign policy as self-deception that in practice excuses communist aggression while criticising the West.
+
+- S. Ramanathan's "Lokayata: Indian Materialism", the second essay in a series, expounds the ancient Charvaka school as evidence that scepticism and free inquiry are native to Indian thought.
+
+- William Henry Chamberlin's four-page Economic Supplement argues that forced state-directed growth is a statist 'mirage', contrasting incentive-driven American expansion with the distortions of Soviet planning.
+
+- Chamberlin's companion piece contends that collectivised agriculture has been a disaster in both the Soviet Union and Communist China, and urges India to rely instead on individual cultivators, credit and education.
+
+- Laurence Labadie contributes a sceptical individualist-anarchist critique of contemporary proposals by 'modern saviours' for avoiding atomic war through disarmament and world-government schemes.
+
 ## Essays
 
 ### Editorial (Queen Elizabeth in India; Conspiracy to Murder Leaders; etc.)

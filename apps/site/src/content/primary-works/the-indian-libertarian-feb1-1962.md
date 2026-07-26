@@ -73,6 +73,26 @@ physical:
 
 The 1 February 1962 issue of The Indian Libertarian (Vol. IX No. 21), edited from Bombay under the masthead 'We stand for free economy and limited government,' opens with a hard-edged editorial against what it calls the Nehru-Menon drift of the Indian National Congress towards a 'Red precipice,' diagnosing crypto-communist capture after the deaths of Vallabhbhai Patel and the exit of C. Rajagopalachari, and warning that Jawaharlal Nehru's defence of V. K. Krishna Menon over the Kashmir, Goa and China questions has put national security in the hands of a fellow-traveller faction. The remainder of the issue extends this argument across registers: M. A. Venkata Rao dissects the Communist Party of India's election manifesto as a Trojan horse for Soviet-style total nationalisation; M. N. Tholal sketches a wry political-organisational portrait of Nehru's lieutenants through the figures of Devadas Gandhi, Maulana Azad and Rafi Ahmed Kidwai at the High Command; and K. P. Padmanabhan Tampy supplies a cultural piece on the artisan caste of Aranmula in Kerala that perfected the metal mirror. Standing departments — a Delhi Letter on Election Commissioner Sukumar Sen, a book review of Joseph S. Thompson's Taxation's New Frontier, Gleanings from the Press, News & Views on Krishna Menon's overtures to Peking and Moscow, and a Dear Editor letter on 'taxation, the foundation of theft' — round out a number whose argumentative centre is the defence of a free economy, parliamentary opposition and constitutionalism against what the journal sees as a one-party drift in Indian politics.
 
+## Key points
+
+- The unsigned editorial Nehru-Menon's Red Hell For India argues the Congress party is drifting toward the dangerous Red precipice now that the moderating influence of Vallabhbhai Patel and C. Rajagopalachari is gone.
+
+- The editorial treats Nehru's public defence of Defence Minister V. K. Krishna Menon over Kashmir, the Goa action and the China border as evidence that the Prime Minister has been captured by crypto-communist lieutenants.
+
+- The editorial reads India's Goa policy as a foolish colonial Salazar-comparison gambit designed to insulate Menon from charges of pro-Peking sympathies.
+
+- Companion sub-leaders in the editorial call for a real parliamentary opposition and cite Pakistan's Ayub Khan basic democracies experiment as a cautionary mirror for Indian constitutional democracy.
+
+- M. A. Venkata Rao's The Communist Party's Manifesto reads the CPI's 1962 election programme as a Trojan horse for the wholesale nationalisation of agriculture, industry, banking, foreign trade and the press.
+
+- Venkata Rao cites Khrushchev's national democracy doctrine to argue the CPI cannot recognise a national interest distinct from the global Soviet bloc, and warns that its cooperative-farming proposals would be coercive.
+
+- M. N. Tholal's Mr. Nehru And His Lieutenants traces the careers of Devadas Gandhi, Rafi Ahmed Kidwai, Maulana Azad and Khaliquzzaman to argue that Nehru's Congress lieutenants have been successively co-opted, neutralised or eased out.
+
+- Tholal reads the Congress High Command's editorial appointment manoeuvres, including a rebuff to Devadas Gandhi at the Hindustan Times, as a contest for recruiting compliant subordinates rather than a contest of programmes.
+
+- K. P. Padmanabhan Tampy contributes a cultural piece on the Aranmula artisan caste of Kerala, credited with perfecting the traditional metal mirror.
+
 ## Essays
 
 ### EDITORIAL — Nehru-Menon's 'Red' Hell for India

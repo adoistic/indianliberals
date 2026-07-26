@@ -66,6 +66,24 @@ missing_metadata_flags:
 
 This short Forum of Free Enterprise leaflet (February 1957) gathers three contemporary utterances by leaders in the field of free enterprise to dramatise what it calls 'two alarming phenomena': the progressive concentration of economic power in political and bureaucratic hands, and an unremitting tendency on the part of Government and its spokesmen to belittle and throttle free enterprise. The Forum presents excerpts from Sir Homi Mody's presidential address to the Employers' Federation of India, S. L. Kirloskar's presidential address to the Indian Machine Tool Manufacturers' Association, and a press statement by the industrialist Ramnivas R. Ruia. Together the three voices warn that heavy taxation, exchange controls, expanding State trading, and policy-induced fear are sapping private initiative and enterprise at a critical moment in India's Second Five-Year Plan.
 
+## Key points
+
+- Sir Homi Mody, addressing the Employers' Federation of India's twenty-fourth annual general meeting in Calcutta on 26 February 1957, warns that the Second Five-Year Plan under-estimated its foreign-exchange needs and will provoke dangerously high additional taxation.
+
+- Mody argues liberty is lost not in one stroke but through gradual, step-by-step abridgement, and criticises the revised Industrial Policy Statement's expansion of State trading into private enterprise's legitimate sphere.
+
+- Mody invokes Abraham Lincoln's dictum on the proper limits of government to argue that commerce and trade are ill-suited to bureaucratic administration.
+
+- S. L. Kirloskar, in his presidential address to the Indian Machine Tool Manufacturers' Association's tenth annual general meeting, contends that recent political, financial, industrial and labour policies have dampened new and existing private enterprise.
+
+- Kirloskar warns that innumerable rules and regulations deter entrepreneurs from risk-taking, and that constant government criticism of the private sector breeds fear that saps entrepreneurial spirit.
+
+- Ramnivas R. Ruia's February 1957 press statement calls for coordination among the Ministries of Finance, Commerce and Industries, and Agriculture to make the Second Plan succeed.
+
+- Ruia defends cotton forward and futures trading as a legitimate hedging mechanism against the government's prior ban, arguing that suppressing forward contracts merely displaces speculation and raises prices.
+
+- Ruia criticises the Commerce and Industries Minister's conditions on forward trading, likening regulation that ignores crop considerations to racing without permitting speculation.
+
 ## Essays
 
 ### Presidential address of Sir Homi Mody at the Twenty-Fourth Annual General Meeting of the Employers' Federation of India at Calcutta on February 26, 1957

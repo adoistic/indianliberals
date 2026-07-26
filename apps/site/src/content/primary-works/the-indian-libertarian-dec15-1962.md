@@ -79,6 +79,22 @@ The 15 December 1962 number of The Indian Libertarian (Vol. X No. 18), edited by
 
 The four-page pulled-out Economic Supplement carries Prof. C. N. Lavande on 'Defence or Economic Growth' and M. A. Master on 'Foreign Aid — The Problem of Utilisation', both arguing that the Third Plan and U.S. P.L.-480 assistance are being mis-deployed and that defence cannot be financed without recasting planning priorities. Yang Shih-Chan's reprinted open letter to Mao Tse-tung — a remarkable first-person dissent from a Communist Party finance professor in Wuhan — supplies the issue's longest indictment of the Chinese regime. The closing Press Gleanings and News & Views pages collate quotations from Mr. Nehru, Defence Minister Y. B. Chavan, Ambassador B. K. Nehru, General Kelly and The New York Times around the same theme: vigilance against China, scepticism of Pancha Sheel, and a hardening of the liberal-libertarian critique of Congress rule.
 
+## Key points
+
+- This 15 December 1962 issue, Vol. X No. 18, edited by D. M. Kulkarni, appears in the immediate aftermath of the Sino-Indian war and argues the defeat exposed the bankruptcy of Nehruvian non-alignment and Panchsheel.
+
+- The lead editorial, Seek Ye First the Kingdom of Freedom, frames the choice facing India as between a kingdom of freedom and the totalitarian illusions of Marxism-Leninism, quoting James Burnham to mock Ambassador Galbraith's earlier optimism about Indian planning.
+
+- M. A. Venkata Rao's Rethinking Prohibition mounts a classical-liberal case against the ban on alcohol, invoking the failure of American Prohibition and arguing lost excise revenue is indefensible while defence finance strains the exchequer.
+
+- M. N. Tholal's Nehru's Noble Retreat credits Nehru's refusal to purge the Congress party after the NEFA rout, tracing his dependence on the Communist Party of India in domestic legislative manoeuvring.
+
+- A Delhi letter reports Jayaprakash Narayan's call for Defence Minister Krishna Menon's resignation and the formation of a war cabinet.
+
+- The Economic Supplement carries Prof. C. N. Lavande on Defence or Economic Growth and M. A. Master on Foreign Aid, both arguing the Third Plan and US P.L.-480 aid are being mis-deployed.
+
+- Yang Shih-Chan's reprinted open letter to Mao Tse-tung, written by a Communist Party finance professor in Wuhan, supplies the issue's longest first-person indictment of the Chinese regime.
+
 ## Essays
 
 ### EDITORIAL — Seek Ye First The Kingdom Of Freedom

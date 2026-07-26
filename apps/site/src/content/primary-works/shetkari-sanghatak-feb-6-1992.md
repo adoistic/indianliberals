@@ -72,6 +72,22 @@ missing_metadata_flags:
 
 This is the 6 February 1992 fortnightly issue of Shetkari Sanghatak (शेतकरी संघटक), Year 8, Issue 20, the Marathi-language organ of the Shetkari Sanghatana, the farmers' organisation led by Sharad Joshi. Across the rendered pages the issue threads together two organising priorities for the movement: mobilising rural women through the Shetkari Mahila Aghadi for the Zilla Parishad and Panchayat Samiti elections scheduled for 25 February 1992, and preparing cadres for a state-wide Rasta Roko (road-blockade) agitation on 8 February 1992 against the Centre's handling of the new liberalisation programme. The lead pieces argue that the 30% reservation for women in local bodies is meaningless without organised women candidates, while a centre-page programmatic note explains why farmers, despite welcoming the broad move toward economic openness, are mobilising against the residual licence-permit controls on agricultural processing, domestic trade and exports. A translated extract from a World Bank-affiliated paper on women in LDC agriculture, and a closing position note by Sharad Joshi himself on the demands placed before Finance Minister Manmohan Singh, round out the issue.
 
+## Key points
+
+- The lead essay argues the Shetkari Mahila Aghadi, the women's front of the Shetkari Sanghatana, must field organised women candidates or the new 30 per cent panchayat reservation will be captured by relatives of male politicians.
+
+- It credits sustained pressure from Sharad Joshi's organisation for placing the panchayat women's quota on the political agenda and details the Aghadi's 'Sita Sheti' and 'Mauj Sheti' women-led farming initiatives.
+
+- An unsigned 'Bhumika' note sets out the rationale for the state-wide Rasta Roko agitation on 8 February 1992, arguing the licence-permit raj on agricultural processing, trade and exports survives the government's liberalisation rhetoric.
+
+- It traces the Sanghatana's escalating meetings at Sevagram on 10 November 1991, at Sitamau, and in Delhi with the Kisan Samvay Samiti on 18-19 January 1992 leading to direct action.
+
+- The note demands removal of restrictions on processing, exporting and inter-state trading of agricultural produce, and on farmers' freedom to choose whether to enter those activities themselves.
+
+- Sushma Agrawal, President of the Shetkari Mahila Aghadi, announces roughly 400 women candidates for the 25 February 1992 Zilla Parishad and Panchayat Samiti elections, backed by about 400 male Sanghatana candidates.
+
+- She logs preparatory meetings at Aurangabad on 24 January chaired by Sudhakar Naik and at Akkalkuva on 26 January chaired by Saroj Kashikar, plus a planned 5 February meeting with the Chief Minister.
+
 ## Essays
 
 ### खऱ्या विकास कार्याच्या सुरुवातीसाठी शेतकरी महिला आघाडी

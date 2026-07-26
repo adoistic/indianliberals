@@ -73,6 +73,22 @@ physical:
 
 This November 1, 1960 issue of The Indian Libertarian (Vol. VIII No. 15), the Bombay fortnightly edited by Miss Kusum Lotwala for Libertarian Publishers, opens with an unsigned editorial, 'Nehru's Role in the UNO', that scrutinises Nehru's conduct at the UN General Assembly—his neutralist resolution on contacts between Khrushchev and Eisenhower, his pro-Arab tilt, and his certification of Soviet satellites as non-colonial—judging his neutralism to be 'more than neutral in favour of Russia and its bloc'. The bylined essays in the rendered pages turn on the power of ideas in politics, the rhetoric of the neutral nations, and Indian intellectual history: M. A. Venkata Rao on 'The Role of Ideas in Politics', M. N. Tholal on 'Neutral Nations' Claptrap', and S. Ramanathan on 'Lokayata—Indian Materialism' and (in the Rationalist Supplement) the 'Spiritual Glory of India'. A separately paginated Rationalist Supplement (pp. I–IV) carries the journal's standing rationalist content. Essays on Dhairyawan's 'When a Philosopher Turns a Politician' and Vivek's 'Factions and the Congress' are listed in the contents but fall outside the rendered pages.
 
+## Key points
+
+- The 1 November 1960 issue, Vol. VIII No. 15, opens with an editorial, 'Nehru's Role in the UNO', judging Nehru's neutralism at the UN General Assembly to be more than neutral in favour of Russia and its bloc.
+
+- The editorial cites Nehru's resolution urging Khrushchev-Eisenhower contacts, his pro-Arab tilt, and his certification of Soviet satellites as non-colonial as evidence of this pro-Soviet lean.
+
+- M. A. Venkata Rao's 'The Role of Ideas in Politics' argues intellectual authority has been captured by Marxist ideas and by Planning Commission reports that embody socialist dogma unconfronted by independent thought.
+
+- Venkata Rao praises the Libertarian Social Institute under M. R. Lotvala of Bombay for evaluating current political and economic ideas from first principles.
+
+- M. N. Tholal's 'Neutral Nations' Claptrap' questions whether the neutral-nations bloc deserves respect, using Nasser's Arab nationalism as the exemplary case of false neutrality masking expansionism.
+
+- S. Ramanathan's 'Lokayata—Indian Materialism' recovers the ancient Charvaka materialist tradition and its rejection of the Vedas, using the parable of the chanting dogs to satirise Brahminical ritual authority.
+
+- A companion Rationalist Supplement piece by Ramanathan, 'Spiritual Glory of India', extends the argument into a critique of India's reputation for otherworldly spirituality.
+
 ## Essays
 
 ### The Role of Ideas in Politics

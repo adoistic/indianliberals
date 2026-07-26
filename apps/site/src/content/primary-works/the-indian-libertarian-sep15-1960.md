@@ -72,6 +72,26 @@ physical:
 
 This September 15, 1960 issue (Vol. VIII No. 12) of The Indian Libertarian, an independent Bombay journal of free economy and libertarian democracy edited by Miss Kusum Lotwala, leads with an unsigned editorial on 'Regionalism versus Nationalism' that reads the contemporary Assam language agitation as a symptom of the Congress government's centralising drift and provincial chauvinism. In the rendered pages the issue gathers commentary on the politics of the early 1960s: M. A. Venkata Rao on the Assam crisis, M. N. Tholal's polemic against India's 'pseudo-peace merchants' and Nehru's foreign policy, A. Ranganathan's reflections on the national language controversy, S. R. Narayan Iyer on the communist threat, and a separately paginated 'Economic Supplement' carrying Prof. G. N. Lawande's essay 'Socialism and Democracy.' Across these pieces the journal argues a consistent classical-liberal line: against linguistic and provincial fragmentation, against socialist economic planning, and for English as a unifying link language and a free economy.
 
+## Key points
+
+- The unsigned editorial Regionalism versus Nationalism reads the contemporary Assam language agitation as a symptom of the Congress government's centralising drift and provincial chauvinism.
+
+- M. A. Venkata Rao's The Challenge of Assam argues that hasty, ill-considered linguistic reorganisation of Indian states has inflamed rather than settled provincial sentiment.
+
+- Venkata Rao connects the Assam disturbances to weak central leadership and treats them as a test of India's ability to reconcile regional feeling with national unity.
+
+- M. N. Tholal's Our Pseudo-Peace Merchants attacks Nehru's foreign-policy professions of peace, treating them as a confession of weakness rather than principle.
+
+- Tholal further distinguishes genuine peace from what he characterises as outright capitulation to aggression dressed up as a peace policy.
+
+- A. Ranganathan's Some Reflections on the Language Controversy opens from Frank Anthony's denunciation of the President's address and links the English-versus-regional-languages debate to the question of national cohesion.
+
+- S. R. Narayan Iyer's The Menace from the Communists warns that the Communist Party represents a standing threat to Indian democracy, opening from a mid-August prime-ministerial speech.
+
+- Narayan Iyer reads the central government's continued tolerance of communist agitation as a form of dangerous complacency in the face of that threat.
+
+- The issue's separately paginated Economic Supplement carries Prof. G. N. Lawande's essay Socialism and Democracy, extending the journal's free-market line.
+
 ## Essays
 
 ### The Challenge of Assam

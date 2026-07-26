@@ -62,6 +62,24 @@ missing_metadata_flags:
 
 This 1973 Forum of Free Enterprise booklet pairs two diagnostic essays on India's unemployment crisis from different angles. Dr. M. C. Munshi opens with 'The Problem of the Educated Unemployed', a critique of the Five-Year Plans' failure to generate employment, citing rising registrations at Employment Exchanges, the swelling backlog of unemployed graduates and engineers, and a sociological dimension that has now outgrown a purely economic diagnosis. He surveys a range of state and Centre-sponsored remedial schemes — Bhagwati Committee proposals, State Bank entrepreneur loans, Small-Scale Industries lead programmes — and argues that Chambers of Commerce, on a regional or atomistic basis, should take responsibility for designing and executing relief, including large-scale entrepreneur schemes and trade-union-led Unemployment Insurance. Prof. Pravin Visaria's companion essay, 'Rural Unemployment and Underemployment in India', shifts focus to the 80 per cent of Indians living in villages. Drawing on the National Sample Survey and the 1971 census, he argues that rural India suffers not from open unemployment but from substantial underemployment, hidden by seasonal agricultural rhythms and household-industry decline against modern competition. He calls for 'disagriculturalisation' of the rural economy through non-agricultural employment, better roads, marketing, credit, and a willingness on the part of the rural rich — beneficiaries of the Green Revolution — to fund the rural facilities that the well-to-do have so far resisted.
 
+## Key points
+
+- Dr. M. C. Munshi's 'The Problem of the Educated Unemployed' argues the Five-Year Plans paid only lip-service to employment generation, with the Second Plan the sole exception offering specific programmes.
+
+- Munshi cites Employment Exchange registrations rising from 3.01 million in 1968 to 6.89 million in 1972, with women job-seekers nearly doubling from 485,000 to 705,000 over roughly the same period.
+
+- Munshi argues educated unemployment has become a sociological rather than purely economic problem, requiring social-security thinking on the scale of a Beveridge Report or Volume.
+
+- Munshi proposes that Chambers of Commerce 'adopt' regions on the model of Arvind Mafatlal's organisation, running entrepreneur clusters, industry-sponsored ventures, and a trade-union-administered Unemployment Insurance scheme.
+
+- Prof. Pravin Visaria opens from the 1971 census finding that eighty per cent of India's population lives in roughly 567,000 villages at subsistence income levels.
+
+- Visaria argues rural India suffers not from open unemployment but from chronic underemployment, which he estimates at four to five per cent of available man-weeks, hidden by seasonal agricultural rhythms.
+
+- Visaria finds two-thirds of rural workers are self-employed or own-account workers on small holdings, and that the bottom thirty to forty per cent of households, disproportionately Scheduled Castes and Tribes, sit outside the labour force.
+
+- Visaria calls for 'disagriculturalisation' of the rural economy through expanded non-agricultural employment and improved roads, marketing, credit, health, and education facilities.
+
 ## Essays
 
 ### The Problem of the Educated Unemployed

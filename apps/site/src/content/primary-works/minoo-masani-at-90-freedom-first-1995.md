@@ -63,6 +63,24 @@ missing_metadata_flags:
 
 In the rendered pages, this is a special tribute issue of Freedom First ('A Quarterly of Liberal Ideas'), dated 20 November 1995, marking the 90th year of the magazine's founder, Minoo Masani. Edited by S. V. Raju, the volume gathers extracts from Masani's own books and speeches across more than five decades — each chapter tagged with its year of origin — rather than commissioned tributes from others, so that (in the rendered pages) the honouree speaks in his own voice. The editorial 'Between Ourselves' note frames the collection as a 'wealth of knowledge and wisdom' offered to a younger generation, and the acknowledgements credit sources including Our India, We Indians, The Growing Human Family, Picture of A Plan and Against the Tide. The rendered pages cover the front matter and the first three chapters, drawn from Masani's early popular works of 1940-1945; the remaining seventeen chapters (on the Swatantra Party, the Emergency, foreign policy, the Constitution and more) lie beyond this chunk.
 
+## Key points
+
+- The issue is a tribute marking Freedom First founder Minoo Masani's ninetieth year, compiled by editor S. V. Raju from extracts of Masani's own books and speeches spanning more than five decades rather than commissioned essays by others.
+
+- In 'Hindostan Hamara,' drawn from his 1940 primer Our India, Masani argues national progress depends on the character of ordinary citizens rather than on government, since 'every nation gets the government it deserves.'
+
+- The same essay stages a debate between a 'Modernist' favouring machines and a 'Back-to-the-Village-Man,' which Masani resolves with the formula 'Maximum Employment plus Maximum Production plus Equitable Distribution' for industrialising India.
+
+- 'Reconsidering Socialism,' reproduced from his 1944 essay that became Socialism Reconsidered, revisits Masani's earlier faith in nationalisation and warns that a fully collectivised economy can hand control to a new bureaucratic and managerial class.
+
+- That essay insists production being socialised is not the same as distribution being socialised, concluding that bureaucracy is merely replaced by more bureaucracy rather than by genuine socialism.
+
+- Masani defends individual liberty and democratic means over ends, repudiating the communist maxim that the end justifies the means, and points to the Scandinavian democracies and Gandhi's ethics as models of humane socialism.
+
+- In 'Planning,' dated 1945, Masani likens a national Plan to a medical injection that can cure or kill a country depending on who administers it, so it must be entrusted only to a genuinely representative government.
+
+- That essay echoes Lincoln's formulation of government 'of the people, by the people and for the people' as the only kind of authority fit to organise increased production and its equitable distribution.
+
 ## Essays
 
 ### Hindostan Hamara
