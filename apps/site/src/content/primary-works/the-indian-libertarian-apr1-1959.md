@@ -2,44 +2,45 @@
 id: the-indian-libertarian-apr1-1959
 title:
   main: The Indian Libertarian
-  subtitle: Independent Journal of Free Economy and Public Affairs — Vol. VII No. 1, April 1, 1959
+  subtitle: Independent Journal of Free Economy and Public Affairs — Vol. VII No.
+    1, April 1, 1959
 work_type: periodical_issue
 authors:
-  - ma-venkata-rao
-  - j-k-dhairyawan
-  - m-n-tholal
-  - g-n-lawande
+- ma-venkata-rao
+- j-k-dhairyawan
+- m-n-tholal
+- g-n-lawande
 editors:
-  - kusum-lotwala
+- kusum-lotwala
 contributors:
-  - role: author
-    thinker: ma-venkata-rao
-    toc_index: 2
-  - role: author
-    thinker: j-k-dhairyawan
-    toc_index: 3
-  - role: author
-    thinker: m-n-tholal
-    toc_index: 4
-  - role: author
-    thinker_unresolved: Libra
-    toc_index: 5
-  - role: author
-    thinker: g-n-lawande
-    toc_index: 6
-  - role: author
-    thinker_unresolved: Adib
-    toc_index: 7
-  - role: author
-    thinker_unresolved: K. Kumara Sekhar B.A.
-    toc_index: 9
-  - role: author
-    thinker_unresolved: F. L. Antoun
-    toc_index: 11
+- role: author
+  thinker: ma-venkata-rao
+  toc_index: 2
+- role: author
+  thinker: j-k-dhairyawan
+  toc_index: 3
+- role: author
+  thinker: m-n-tholal
+  toc_index: 4
+- role: author
+  thinker_unresolved: Libra
+  toc_index: 5
+- role: author
+  thinker: g-n-lawande
+  toc_index: 6
+- role: author
+  thinker_unresolved: Adib
+  toc_index: 7
+- role: author
+  thinker_unresolved: K. Kumara Sekhar B.A.
+  toc_index: 9
+- role: author
+  thinker_unresolved: F. L. Antoun
+  toc_index: 11
 related_thinkers:
-  - mao-zedong
-  - jawaharlal-nehru
-  - mahatma-gandhi
+- mao-zedong
+- jawaharlal-nehru
+- mahatma-gandhi
 publication:
   language: en
   publisher_id: the-indian-libertarian
@@ -52,24 +53,43 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
 pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-apr1-1959.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-apr1-1959.webp"
+cover_image: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-apr1-1959.webp
 rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - classical-liberalism
-  - free-enterprise
-  - anti-planning
-  - anti-communism
-  - foreign-policy
-  - indian-politics
-  - partition-and-pakistan
-  - tibet-and-china
-  - agrarian-policy
-  - public-versus-private-sector
-summary: "This 1 April 1959 number of The Indian Libertarian (Vol. VII, No. 1) — the Bombay-based fortnightly that stands, as its masthead declares, for free enterprise and libertarian democracy — opens with a multi-pronged editorial against the newly-signed United States–Pakistan military pact, the renewed Chinese aggression in Tibet that has 'ignored Panchsheel again', and the proposed transfer of Berubari to East Pakistan, which a unanimous West Bengal Legislature has condemned. A 'Behind the News' column scrutinises Colonel Nasser's apparent retreat in the face of Iraqi Communist activity and the parallel rumbling in Tibet against Mao Tse-tung's regime. M. A. Venkata Rao argues at length for a new all-India opposition party built on decentralisation, free enterprise, and Gandhian social justice; J. K. Dhairyawan attacks 'planning' as a Marxist euphemism for bungling, chaos, and confusion; M. N. Tholal opens a long historical examination of the genesis of Pakistan, drawing chiefly on Maulana Azad's India Wins Her Freedom; and the satirical column 'Pedlar's Pack' takes its swipes at the international scene. The inserted four-page Indian Libertarian Supplement carries Prof. G. N.…"
+- classical-liberalism
+- free-enterprise
+- anti-planning
+- anti-communism
+- foreign-policy
+- indian-politics
+- partition-and-pakistan
+- tibet-and-china
+- agrarian-policy
+- public-versus-private-sector
+- free-markets
+- planning-critique
+- democracy
+- foreign-affairs
+summary: This 1 April 1959 number of The Indian Libertarian (Vol. VII, No. 1) — the
+  Bombay-based fortnightly that stands, as its masthead declares, for free enterprise
+  and libertarian democracy — opens with a multi-pronged editorial against the newly-signed
+  United States–Pakistan military pact, the renewed Chinese aggression in Tibet that
+  has 'ignored Panchsheel again', and the proposed transfer of Berubari to East Pakistan,
+  which a unanimous West Bengal Legislature has condemned. A 'Behind the News' column
+  scrutinises Colonel Nasser's apparent retreat in the face of Iraqi Communist activity
+  and the parallel rumbling in Tibet against Mao Tse-tung's regime. M. A. Venkata
+  Rao argues at length for a new all-India opposition party built on decentralisation,
+  free enterprise, and Gandhian social justice; J. K. Dhairyawan attacks 'planning'
+  as a Marxist euphemism for bungling, chaos, and confusion; M. N. Tholal opens a
+  long historical examination of the genesis of Pakistan, drawing chiefly on Maulana
+  Azad's India Wins Her Freedom; and the satirical column 'Pedlar's Pack' takes its
+  swipes at the international scene. The inserted four-page Indian Libertarian Supplement
+  carries Prof. G. N.…
 needs_review: true
 draft: false
 ai:
@@ -80,9 +100,10 @@ physical:
   pages_rendered: 20
   pages_total: 28
   pages_total_source: pypdfium2
-  format: Fortnightly periodical, single issue; main pagination plus a four-page roman-numbered (i–iv) Libertarian Supplement inserted between printed pages 12 and 13
+  format: Fortnightly periodical, single issue; main pagination plus a four-page roman-numbered
+    (i–iv) Libertarian Supplement inserted between printed pages 12 and 13
 missing_metadata_flags:
-  - issn_not_printed
+- issn_not_printed
 ---
 
 # The Indian Libertarian
