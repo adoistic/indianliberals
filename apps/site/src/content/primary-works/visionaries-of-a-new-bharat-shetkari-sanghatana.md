@@ -31,8 +31,8 @@ themes:
   - liberalisation
   - property-rights
 summary: "This English-language promotional booklet profiles the Shetkari Sanghatana (SS), the Maharashtra-based farmers' organisation founded in the late 1970s by Sharad Joshi, presenting its history, ideology and policy positions to a general readership. It opens with a capsule history of farmers' movements in India, tracing rural poverty from the British-era Zamindari and Ryotwari systems through post-independence 'low-cost economy' policies that, in the SS reading, deliberately depressed agricultural prices to subsidise urban industrialisation. Against this backdrop it describes the 'new agrarian mobilization' of the early 1980s, in which SS and allied bodies under the Kisan Co-ordination Committee led mass agitations around a single demand: remunerative prices and freedom of access to markets and technology.\n\nThe booklet's argumentative centre is Sharad Joshi's theory of the 'Bharat-India' divide, which recasts the country's primary contradiction not as a geographic town-versus-country split but as one between 'Bharat' (the exploited rural and unorganised sector) and 'India' (a 'westernized industrial bureaucratic elite' inheriting colonial patterns of exploitation).…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/visionaries-of-a-new-bharat-shetkari-sanghatana.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/visionaries-of-a-new-bharat-shetkari-sanghatana.webp"
+pdf_url: https://archive.indianliberals.in/liberals/visionaries-of-a-new-bharat-shetkari-sanghatana.pdf
+cover_image: "https://archive.indianliberals.in/covers/visionaries-of-a-new-bharat-shetkari-sanghatana.webp"
 pdf_size_mb: 9.78
 needs_review: true
 draft: false

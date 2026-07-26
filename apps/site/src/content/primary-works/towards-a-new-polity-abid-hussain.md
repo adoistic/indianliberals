@@ -20,8 +20,8 @@ provenance:
   source: ccs_archive
   scan_quality: fair
   notes: "Rajaji Birthday Lecture, 1993; copyright The Rajaji Foundation."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/other-publications/towards-a-new-polity-abid-hussain.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/towards-a-new-polity-abid-hussain.webp"
+pdf_url: https://archive.indianliberals.in/other-publications/towards-a-new-polity-abid-hussain.pdf
+cover_image: "https://archive.indianliberals.in/covers/towards-a-new-polity-abid-hussain.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -53,8 +53,8 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/artha-to-sagto-punha-sharad-joshi.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/artha-to-sangto-punha-by-sharad-joshi.webp"
+pdf_url: https://archive.indianliberals.in/marathi/artha-to-sagto-punha-sharad-joshi.pdf
+cover_image: "https://archive.indianliberals.in/covers/artha-to-sangto-punha-by-sharad-joshi.webp"
 ---
 
 ## Summary

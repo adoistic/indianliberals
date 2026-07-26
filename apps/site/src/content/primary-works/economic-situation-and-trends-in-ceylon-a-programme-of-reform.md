@@ -27,8 +27,8 @@ themes:
   - planning-critique
   - public-sector-critique
 summary: "This 1966 policy report by the classical-liberal economist B. R. Shenoy diagnoses the economy of Ceylon (now Sri Lanka) and prescribes a market-oriented reform programme. Shenoy opens with a clinical metaphor: the 'body economy, like the human body, is a living organism,' whose health is read through three 'economic P's' — Production, Prices, and the Balance of Payments. In the rendered pages he works through the first three diagnostic sections. On Production, he shows real income growing under 2% a year (1960-65) against 2.7% population growth, so that per-capita income is actually declining, and he ties the shortage of national savings (down from 13.6% of GNP in 1959 to 10.7% in 1965) to consumption-boosting socialist policies, especially subsidies on food, relief and social services that amounted to 45.7% of revenue collections.\n\nOn Prices, Shenoy argues that in an under-developed economy like Ceylon's, inflation 'ensues from budget deficits' rather than from commercial-bank credit, because currency notes dominate monetary circulation.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/economic-situation-and-trends-in-ceylon-a-programme-of-reform.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/economic-situation-and-trends-in-ceylon-a-programme-of-reform.webp"
+pdf_url: https://archive.indianliberals.in/liberals/economic-situation-and-trends-in-ceylon-a-programme-of-reform.pdf
+cover_image: "https://archive.indianliberals.in/covers/economic-situation-and-trends-in-ceylon-a-programme-of-reform.webp"
 pdf_size_mb: 23.33
 needs_review: true
 draft: false

@@ -27,8 +27,8 @@ themes:
   - soviet-union
   - political-economy
 summary: "This Marathi-language excerpt comprises the whole of the first chapter — 'मूक इतिहास' ('Mute History') — of the book 'सोव्हिएत साम्राज्याचा उदय आणि अस्त' ('The Rise and Fall of the Soviet Empire'). In the rendered pages the chapter opens with the span of Soviet power, from the Communist seizure of the Russian state in 1917 to its formal dissolution in December 1991, and argues that to understand the rise of that empire and of totalitarian rule one must look back centuries earlier — to the long social, cultural, political and economic history of the land, since (in the author's framing) civilisation develops by inheriting and refining the qualities and shortcomings of preceding generations.\n\nThe bulk of the chapter, in the rendered pages, is a geographical and ethnographic history of Russia.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/soviet-samarajya-uday-ani-astha-original-c-1.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/soviet-samarajya-uday-ani-astha-original-c-1.webp"
+pdf_url: https://archive.indianliberals.in/marathi/soviet-samarajya-uday-ani-astha-original-c-1.pdf
+cover_image: "https://archive.indianliberals.in/covers/soviet-samarajya-uday-ani-astha-original-c-1.webp"
 pdf_size_mb: 1.28
 needs_review: true
 draft: false

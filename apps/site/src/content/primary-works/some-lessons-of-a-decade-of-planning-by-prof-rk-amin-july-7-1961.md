@@ -22,8 +22,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/some-lessons-of-a-decade-of-planning-by-prof-RK-Amin-July-7-1961.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/some-lessons-of-a-decade-of-planning-by-prof-rk-amin-july-7-1961.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/some-lessons-of-a-decade-of-planning-by-prof-RK-Amin-July-7-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/some-lessons-of-a-decade-of-planning-by-prof-rk-amin-july-7-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

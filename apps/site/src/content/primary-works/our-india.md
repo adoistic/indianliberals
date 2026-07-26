@@ -24,8 +24,8 @@ themes:
   - economic-liberty
   - indian-liberal-history
 summary: "'Our India' by Minoo Masani is an illustrated introduction to India written for young readers, opening with a pictorial textile cover and a twelve-chapter table of contents (from 'One in Five' through 'Hindostán Hamárá'). In the rendered pages the book's first chapter, 'One in Five,' establishes its scale-and-wonder method: it tells the reader that one person in every five on earth is an Indian, that India is nearly a fifth of the human race and second only to China in population, and that the country is as large as the whole of Europe excluding Russia. Through accessible analogies, bold woodcut-style illustrations, and rhetorical questions addressed directly to the child reader, Masani invites Indians to feel both the importance and the responsibility of their numbers and size.\n\nThe chapter then turns from size to geography and human variety.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/our-india.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/our-india.webp"
+pdf_url: https://archive.indianliberals.in/liberals/our-india.pdf
+cover_image: "https://archive.indianliberals.in/covers/our-india.webp"
 pdf_size_mb: 5.95
 needs_review: true
 draft: false

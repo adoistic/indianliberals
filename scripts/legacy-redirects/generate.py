@@ -36,7 +36,7 @@ from urllib.parse import urlparse, unquote
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CONTENT = os.path.join(ROOT, "apps/site/src/content")
 MAP_PATH = os.path.join(ROOT, "apps/site/functions/_legacy/map.json")
-R2 = "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/"
+R2 = "https://archive.indianliberals.in/"
 
 FALLBACK_LANDING = {
     "forum-of-free-enterprise": "/organisations/forum-of-free-enterprise/",

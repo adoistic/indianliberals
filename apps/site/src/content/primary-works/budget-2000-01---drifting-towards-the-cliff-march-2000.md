@@ -27,8 +27,8 @@ themes:
   - public-finance
   - economic-reform
 summary: "In this 2000 Mumbai pamphlet, the economist D. R. Pendse offers a sharply critical reading of the Union Budget for 2000-01, opening with the verdict that while a few measures are deft, the budget as a whole leaves critical fiscal issues 'needlessly brushed under the carpet' even as 'the fisc drifts towards the cliff.' He organises the argument in three sections. Section I ('Some Budget Moves: A Mixed Bag') itemises specific proposals, grading each as creditable or not — praising the cut in the FM's discretionary exemption powers and dividend-tax changes, while faulting deletion of Section 54EA/54EB capital-gains relief and the raising of the corporate-surcharge.\n\nSection II ('The Budget Fumbles, the Economy Grows') argues the paradox at the heart of the work: although the fiscal position is deeply disturbing — Pendse marshals figures on ballooning government borrowing, interest payments and the fiscal deficit as a share of GDP — the broader economic outlook still offers scope for relief, with GDP growth recovering. He warns that runaway expenditure and rising debt-service have brought India repeatedly close to the kind of balance-of-payments crisis it narrowly escaped in 1991.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/budget-2000-01-drifting-towards-the-cliff-march-2000.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/budget-2000-01---drifting-towards-the-cliff-march-2000.webp"
+pdf_url: https://archive.indianliberals.in/liberals/budget-2000-01-drifting-towards-the-cliff-march-2000.pdf
+cover_image: "https://archive.indianliberals.in/covers/budget-2000-01---drifting-towards-the-cliff-march-2000.webp"
 pdf_size_mb: 0.26
 needs_review: true
 draft: false

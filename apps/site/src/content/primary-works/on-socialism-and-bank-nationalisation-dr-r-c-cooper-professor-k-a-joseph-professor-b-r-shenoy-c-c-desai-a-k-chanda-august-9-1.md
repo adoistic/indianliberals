@@ -34,8 +34,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/on-socialism-and-bank-nationalisation-dr-r-c-cooper-professor-k-a-joseph-professor-b-r-shenoy-c-c-desai-a-k-chanda-august-9-1.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/on-socialism-and-bank-nationalisation-dr-r-c-cooper-professor-k-a-joseph-professor-b-r-shenoy-c-c-desai-a-k-chanda-august-9-1.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/on-socialism-and-bank-nationalisation-dr-r-c-cooper-professor-k-a-joseph-professor-b-r-shenoy-c-c-desai-a-k-chanda-august-9-1.pdf
+cover_image: "https://archive.indianliberals.in/covers/on-socialism-and-bank-nationalisation-dr-r-c-cooper-professor-k-a-joseph-professor-b-r-shenoy-c-c-desai-a-k-chanda-august-9-1.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

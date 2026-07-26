@@ -16,8 +16,8 @@ provenance:
   source: ccs_archive
   scan_quality: poor
   notes: "Swatantra Party pamphlet by M. R. Masani. The scan has no reliable OCR text layer; the summary is drawn from the legible cover matter and the well-documented Swatantra creed, and awaits editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/swatantra-party/what-the-swatantra-party-stands-for-m-r-masani.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/what-the-swatantra-party-stands-for-m-r-masani.webp"
+pdf_url: https://archive.indianliberals.in/swatantra-party/what-the-swatantra-party-stands-for-m-r-masani.pdf
+cover_image: "https://archive.indianliberals.in/covers/what-the-swatantra-party-stands-for-m-r-masani.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

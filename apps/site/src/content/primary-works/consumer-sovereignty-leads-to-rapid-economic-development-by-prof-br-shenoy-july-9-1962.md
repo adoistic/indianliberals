@@ -22,8 +22,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/consumer-sovereignty-leads-to-Rapid-Economic-Development-by-prof-BR-Shenoy-July-9-1962.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/consumer-sovereignty-leads-to-rapid-economic-development-by-prof-br-shenoy-july-9-1962.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/consumer-sovereignty-leads-to-Rapid-Economic-Development-by-prof-BR-Shenoy-July-9-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/consumer-sovereignty-leads-to-rapid-economic-development-by-prof-br-shenoy-july-9-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -15,8 +15,8 @@ provenance:
   source: ccs_archive
   scan_quality: poor
   notes: "Swatantra Party pamphlet on land reform. The scan has no reliable OCR text layer; the summary is drawn from the title, publisher, and the party's well-documented position, and awaits editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/swatantra-party/real-land-reforms-swatantra.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/real-land-reforms-swatantra.webp"
+pdf_url: https://archive.indianliberals.in/swatantra-party/real-land-reforms-swatantra.pdf
+cover_image: "https://archive.indianliberals.in/covers/real-land-reforms-swatantra.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -15,8 +15,8 @@ provenance:
   source: ccs_archive
   scan_quality: poor
   notes: "Pamphlet by C. Rajagopalachari (Rajaji). The scan has no reliable OCR text layer; the summary is drawn from the title, author, and Rajaji's well-documented concerns, and awaits editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/social-and-religious-decay-c-rajagopalachari.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/social-and-religious-decay-c-rajagopalachari.webp"
+pdf_url: https://archive.indianliberals.in/liberals/social-and-religious-decay-c-rajagopalachari.pdf
+cover_image: "https://archive.indianliberals.in/covers/social-and-religious-decay-c-rajagopalachari.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

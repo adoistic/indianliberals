@@ -30,8 +30,8 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
   notes: "Colophon date as printed: 2.5/Aug./2014. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/corruption-in-indian-medecine-dr-s-nundy-august-25-2014.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/corruption-in-indian-medecine-dr-s-nundy-august-25-2014.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/corruption-in-indian-medecine-dr-s-nundy-august-25-2014.pdf
+cover_image: "https://archive.indianliberals.in/covers/corruption-in-indian-medecine-dr-s-nundy-august-25-2014.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

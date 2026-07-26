@@ -25,8 +25,8 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
   notes: "Colophon date as printed: FFE Booklet 18/May-June/2000. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/e-commerce-and-sales-tax-n-c-mehta.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/e-commerce-and-sales-tax-n-c-mehta.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/e-commerce-and-sales-tax-n-c-mehta.pdf
+cover_image: "https://archive.indianliberals.in/covers/e-commerce-and-sales-tax-n-c-mehta.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

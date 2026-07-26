@@ -27,8 +27,8 @@ themes:
   - free-trade
   - public-sector-critique
 summary: "Written in Bombay in February 1995, this two-part pamphlet by the economist D. R. Pendse offers a practitioner's reading of India's economic climate on the eve of the 1995-96 Union Budget. Part I, 'Current Economic Environment for Business,' runs as a compact 'executive summary' of the parameters shaping business in post-liberalisation India: the durability of reforms, inflation, the budget, interest rates, capital-account convertibility, the rupee-dollar exchange rate, exports, and elections. Pendse's recurring worry is fiscal: he traces the 1991 crisis to 'huge fiscal deficits,' notes that the deficit which was cut to 6% of GDP has ballooned back toward Rs.65,000 crore (about 7.3%) for 1994-95, and warns that any 1995-96 budget figure above 5% of GDP should be read as a reversal of reforms 'to that extent.' He is sceptical of populist pre-election budgeting, cautious on full capital-account convertibility, and warns that high interest rates will persist because of the government's own market borrowing.\n\nPart II, 'The Budget We Need,' turns prescriptive.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/current-economic-environment-for-business-the-budget-we-need-february-1995.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/current-economic-environment-for-business---the-budget-we-need-february-1995.webp"
+pdf_url: https://archive.indianliberals.in/liberals/current-economic-environment-for-business-the-budget-we-need-february-1995.pdf
+cover_image: "https://archive.indianliberals.in/covers/current-economic-environment-for-business---the-budget-we-need-february-1995.webp"
 pdf_size_mb: 0.17
 needs_review: true
 draft: false

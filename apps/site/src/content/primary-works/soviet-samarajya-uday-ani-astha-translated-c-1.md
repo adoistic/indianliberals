@@ -27,8 +27,8 @@ themes:
   - soviet-union
   - political-economy
 summary: "This is the English translation of the first chapter — 'Chapter 1: Silent History' — of the book 'The Rise and Fall of the Soviet Empire' (Marathi: 'सोव्हिएत साम्राज्याचा उदय आणि अस्त'), presented here as a five-page typed document. In the rendered pages the chapter dates Soviet power from the Bolshevik revolution of 1917 to the regime's official end in December 1991, and argues that the rise and fall of that empire can only be understood against the much longer arc of Russian history: just as children inherit the good and bad qualities of their parents, the author writes, societies inherit the long-term cultural, social, political and economic traits of those who came before.\n\nMost of the chapter, in the rendered pages, is a geography-driven history of Russia and its peoples. It describes the vast Russian landmass — roughly 81,000,000 square miles, comparable to all of North America — its plains, forests, rivers (the 2,400-mile Volga) and mineral wealth, and its 'Eurasian' position between Europe and Asia, citing Plekhanov's view that Russia is more European than Asiatic.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/soviet-samarajya-uday-ani-astha-translated-c-1.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/soviet-samarajya-uday-ani-astha-translated-c-1.webp"
+pdf_url: https://archive.indianliberals.in/marathi/soviet-samarajya-uday-ani-astha-translated-c-1.pdf
+cover_image: "https://archive.indianliberals.in/covers/soviet-samarajya-uday-ani-astha-translated-c-1.webp"
 pdf_size_mb: 0.11
 needs_review: true
 draft: false

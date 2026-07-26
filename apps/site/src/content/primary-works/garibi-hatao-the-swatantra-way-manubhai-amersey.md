@@ -17,8 +17,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: fair
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/swatantra-party/garibi-hatao-the-swatantra-way-manubhai-amersey.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/garibi-hatao-the-swatantra-way-manubhai-amersey.webp"
+pdf_url: https://archive.indianliberals.in/swatantra-party/garibi-hatao-the-swatantra-way-manubhai-amersey.pdf
+cover_image: "https://archive.indianliberals.in/covers/garibi-hatao-the-swatantra-way-manubhai-amersey.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -59,8 +59,8 @@ themes:
   - foreign-policy
   - press-freedom
 summary: "This 1 September 1957 issue of The Indian Libertarian (Vol V No. 13), the Bombay-based 'Independent Journal of Economic and Public Affairs' edited by Kusum Lotwala, gathers editorials and signed commentary defending a free economy and liberal democracy against what its contributors see as the Nehru government's drift toward communism and a faltering foreign policy. The lead pieces argue for limited constitutional government, warn that the Congress is capitulating to communist methods, scrutinise India's stance toward Nepal and its non-aligned foreign policy, and reprint material from the R. L. Foundation and observers such as Guy Wint and Milovan Djilas. In the rendered pages, the connecting thread is a constitutionalist, market-liberal critique of state expansion at home and ambivalence abroad."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/the-indian-libertarian-sep-1-1957.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-sep-1-1957.webp"
+pdf_url: https://archive.indianliberals.in/liberals/the-indian-libertarian-sep-1-1957.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-indian-libertarian-sep-1-1957.webp"
 pdf_size_mb: 1.5
 needs_review: true
 draft: false

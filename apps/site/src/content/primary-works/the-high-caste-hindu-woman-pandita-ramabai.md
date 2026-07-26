@@ -17,8 +17,8 @@ provenance:
   source: ccs_archive
   scan_quality: fair
   notes: "A reprint of Pandita Ramabai's 1887 book. The scan has no reliable OCR text layer; the summary is drawn from the well-documented content and significance of the work and awaits editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/the-high-caste-hindu-woman-pandita-ramabai.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-high-caste-hindu-woman-pandita-ramabai.webp"
+pdf_url: https://archive.indianliberals.in/liberals/the-high-caste-hindu-woman-pandita-ramabai.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-high-caste-hindu-woman-pandita-ramabai.webp"
 rights:
   status: public_domain
   license: public_domain

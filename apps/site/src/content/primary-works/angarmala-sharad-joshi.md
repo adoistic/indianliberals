@@ -22,8 +22,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/angarmala-sharad-joshi.pdf
-cover_image: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/angarmala-sharad-joshi.webp
+pdf_url: https://archive.indianliberals.in/marathi/angarmala-sharad-joshi.pdf
+cover_image: https://archive.indianliberals.in/covers/angarmala-sharad-joshi.webp
 rights:
   status: takedown_on_request
   license: in-copyright

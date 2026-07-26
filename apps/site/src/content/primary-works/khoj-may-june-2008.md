@@ -61,8 +61,8 @@ contributors:
     role: editor
   - thinker: rajesh-mishra
     role: editor
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/gujarati/khoj-may-june-2008.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/khoj-may-june-2008.webp"
+pdf_url: https://archive.indianliberals.in/gujarati/khoj-may-june-2008.pdf
+cover_image: "https://archive.indianliberals.in/covers/khoj-may-june-2008.webp"
 ---
 
 ## Summary

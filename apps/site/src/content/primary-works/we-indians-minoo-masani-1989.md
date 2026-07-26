@@ -36,8 +36,8 @@ themes:
   - secularism
   - democracy
 summary: "We Indians is Minoo Masani's popular, illustrated primer on Indian identity, conceived as a companion to his hugely successful 1940 children's book Our India and written for a young readership. In the rendered pages — the front matter and the opening chapters — Masani sets out to answer, in plain and conversational prose, who Indians are: where they come from, what their cultural and spiritual heritage is, and what it means to be 'a good Indian'. The 2001 edition seen here is a reprint by the Indian Liberal Group of the work Oxford University Press first published in 1989, with cartoons by R. K. Laxman; a 'Preface to Second Edition' by S. V. Raju thanks OUP and the Sir Dorabji Tata Trust and notes the text is unchanged save for updated statistical footnotes.\n\nChapter 1, 'What Are Little Indians Made Of?', riffs on the English nursery rhyme to ask what the 'little Indian' is composed of, and answers in terms of racial and ethnic mixing — a blend of Caucasian, Scythian, Mongoloid and (in larger proportion) Dravidian elements, varying by region.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/we-indians-minoo-masani-1989.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/we-indians-minoo-masani-1989.webp"
+pdf_url: https://archive.indianliberals.in/liberals/we-indians-minoo-masani-1989.pdf
+cover_image: "https://archive.indianliberals.in/covers/we-indians-minoo-masani-1989.webp"
 pdf_size_mb: 1.32
 needs_review: true
 draft: false

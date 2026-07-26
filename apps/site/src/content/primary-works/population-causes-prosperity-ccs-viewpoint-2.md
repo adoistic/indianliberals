@@ -33,8 +33,8 @@ themes:
   - planning-critique
   - free-trade
 summary: "In this Centre for Civil Society 'Viewpoint 2' essay, Sauvik Chakraverti inverts the orthodox Indian view of population, arguing that 'population causes prosperity' rather than poverty. He observes that the world's densely populated cities — Hong Kong, Singapore, Tokyo, New York, London — are precisely where wealth, cars, cellphones and millionaires concentrate, and that urbanisation is also the cure for high birth rates because urban dwellers find small families 'economic.' On this basis he calls for a radical rethink of the 'population problem' that government-approved economics textbooks teach schoolchildren, condemning the coercive 'cure' (Sanjay Gandhi's forced sterilisations) as anathema in a free society and as resting on a false premise.\n\nThe core of the argument is economic. In the 'Homo Economicus' section, Chakraverti follows Adam Smith's 'propensity to truck, barter and exchange' to claim that only human beings have an 'economy' because only they trade and specialise; population density is therefore a precondition of the division of labour and of wealth creation, making cities 'the ant hills of human colonists' whose purpose is wealth creation.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/population-causes-prosperity-ccs-viewpoint-2.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/population-causes-prosperity-ccs-viewpoint-2.webp"
+pdf_url: https://archive.indianliberals.in/liberals/population-causes-prosperity-ccs-viewpoint-2.pdf
+cover_image: "https://archive.indianliberals.in/covers/population-causes-prosperity-ccs-viewpoint-2.webp"
 pdf_size_mb: 0.38
 needs_review: true
 draft: false

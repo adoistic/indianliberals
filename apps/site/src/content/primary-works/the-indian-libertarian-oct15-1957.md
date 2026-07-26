@@ -52,8 +52,8 @@ themes:
   - free-markets
   - limited-government
 summary: "The 1 October 1957 issue of The Indian Libertarian (Vol. V No. 15), edited by Miss Kusum Lotwala and issued from the Libertarian Social Institute in Bombay, leads with foreign policy and a critique of Nehru-era planning. The unsigned editorial, 'Goa As Foreign Base,' treats the Portuguese enclave of Goa as a security problem and weighs the role of the Western Powers and the Soviet bloc. M. A. Venkata Rao supplies a long essay on India's foreign policy and non-alignment, 'Lal' reflects on the 'Hindu Way of Life' and communal relations, and B. S. Sanyal reports on Nehru's Jammu speech and on the Hyderabad Razakar figure Razvi. Further pieces by J. K. Dhairyawan and Sanyal turn to T. T. Krishnamachari and Nehru's critics, and a four-page inserted supplement from the Research Department of the R. L. Foundation reviews Spencer Heath's 'Citadel, Market and Altar.' The masthead carries the journal's standing slogan, 'We Stand For Free Economy And Liberal Democracy.'"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-oct15-1957.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-oct15-1957.webp"
+pdf_url: https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct15-1957.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-indian-libertarian-oct15-1957.webp"
 pdf_size_mb: 1.48
 needs_review: true
 draft: false

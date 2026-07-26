@@ -34,8 +34,8 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
   notes: "Colophon date as printed: 8/June-July/2007. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/economic-reforms-and-the-relevance-of-b-r-shenoy-mrs-kishori-j-udeshi-june-8-2007.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/economic-reforms-and-the-relevance-of-b-r-shenoy-mrs-kishori-j-udeshi-june-8-2007.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/economic-reforms-and-the-relevance-of-b-r-shenoy-mrs-kishori-j-udeshi-june-8-2007.pdf
+cover_image: "https://archive.indianliberals.in/covers/economic-reforms-and-the-relevance-of-b-r-shenoy-mrs-kishori-j-udeshi-june-8-2007.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

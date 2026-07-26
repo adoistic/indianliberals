@@ -32,8 +32,8 @@ themes:
   - civil-society
   - public-service
 summary: "In the rendered pages (front matter plus the opening chapters of a 107-page biography), S. V. Raju introduces M. R. Pai as an 'uncommon common man' and explains why he undertook the book: invited by Gita Pai and S. Divakara, Raju found that what he knew of his friend of over four decades was only 'the proverbial tip of the iceberg.' The Foreword (by Ajay Piramal, Chairman of the M.R. Pai Foundation) and the authorial Introduction frame Pai as a one-man consumer movement and a builder of the Forum of Free Enterprise rather than a conventional public figure, and Raju states his aim is to tell the story plainly and let readers draw their own lessons.\n\nThe chapters seen in the rendered pages trace Pai's origins and early life. Chapter 1 ('Mangalore's Ranganna') sets him among the Gowd Saraswat Brahmins of coastal Karnataka, records his birth at Manjeshwar on 7 May 1931, and portrays the boy 'Ranganna' as quiet, studious, an avid amateur photographer and an early writer who circulated a handwritten Kannada neighbourhood newsletter; a youthful nationalist and socialist who would later become a champion of free enterprise.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/m-r-pai-the-story-of-an-uncommon-man-by-s-v-raju-2008.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/m-r-pai-the-story-of-an-uncommon-man-by-s-v-raju-2008.webp"
+pdf_url: https://archive.indianliberals.in/liberals/m-r-pai-the-story-of-an-uncommon-man-by-s-v-raju-2008.pdf
+cover_image: "https://archive.indianliberals.in/covers/m-r-pai-the-story-of-an-uncommon-man-by-s-v-raju-2008.webp"
 pdf_size_mb: 2.26
 needs_review: true
 draft: false

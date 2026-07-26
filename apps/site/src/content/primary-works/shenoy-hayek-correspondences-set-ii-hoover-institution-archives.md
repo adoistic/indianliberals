@@ -37,8 +37,8 @@ themes:
   - fiscal-policy
   - foreign-policy
 summary: "Set II of the Shenoy-Hayek archival materials, held in the Friedrich A. von Hayek Collection at the Hoover Institution, documents a 1959 two-way exchange between the Indian economist B. R. Shenoy and Friedrich von Hayek, together with the newspaper writings that occasioned it. The correspondence opens with Shenoy's 13 October 1959 letter from the School of Social Sciences, Gujarat University, reporting on his visit to Zurich, Beirut and the Oxford meeting of the Mont Pelerin Society, and proposing that the Society hold a panel discussion on Indian economic conditions. Hayek replies on 20 October 1959, expressing delight at hearing from Shenoy and admitting that 'my own understanding of Indian affairs' had been transformed; a December 1959 letter, signed 'F. A. Hayek, President,' formally invites Shenoy to become a member of the Mont Pelerin Society.\n\nThe bulk of the rendered pages are the writings Shenoy enclosed: a typescript essay, 'Free Market Economy for India,' and two clipped Times of India items.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/shenoy-hayek-correspondences-set-ii-hoover-institution-archives.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/shenoy-hayek-correspondences-set-ii-hoover-institution-archives.webp"
+pdf_url: https://archive.indianliberals.in/liberals/shenoy-hayek-correspondences-set-ii-hoover-institution-archives.pdf
+cover_image: "https://archive.indianliberals.in/covers/shenoy-hayek-correspondences-set-ii-hoover-institution-archives.webp"
 pdf_size_mb: 1.95
 needs_review: true
 draft: false
