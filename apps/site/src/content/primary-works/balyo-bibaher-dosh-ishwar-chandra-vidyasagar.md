@@ -2,12 +2,12 @@
 id: balyo-bibaher-dosh-ishwar-chandra-vidyasagar
 title:
   main: বাল্য বিবাহের দোষ
-  subtitle: ""
+  subtitle: ''
   original_script: বাল্য বিবাহের দোষ
   translit: Balya Bibaher Dosh
 work_type: pamphlet
 authors:
-  - ishwar-chandra-vidyasagar
+- ishwar-chandra-vidyasagar
 editors: []
 contributors: []
 related_thinkers: []
@@ -16,19 +16,40 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://archive.indianliberals.in/bengali/balyo-bibaher-dosh-Ishwar-chandra-vidyasagar.pdf
-cover_image: "https://archive.indianliberals.in/covers/balyo-bibaher-dosh-ishwar-chandra-vidyasagar.webp"
+pdf_url: https://archive.indianliberals.in/combined/balyo-bibaher-dosh-vidyasagar-bengali-and-english.pdf
+cover_image: https://archive.indianliberals.in/covers/balyo-bibaher-dosh-ishwar-chandra-vidyasagar.webp
 rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - social-reform
-  - women
-  - marriage
-  - family-law
-summary: "Written in Bengali, 'বাল্য বিবাহের দোষ' (Balya Bibaher Dosh — 'The Harms of Child Marriage') is a short polemical pamphlet by Ishwar Chandra Vidyasagar directed against the practice of marrying off young girls before they have reached physical or intellectual maturity. The pamphlet opens by identifying child marriage as a deep-rooted social ill in Bengali Hindu society and argues, on grounds of compassion and reason, that the practice inflicts severe bodily harm on young girls who are compelled to bear the physical demands of conjugal life and childbearing before their bodies are capable of sustaining them. Vidyasagar draws on observable suffering — premature widowhood, physical debility, and stunted lives — to make a case that the custom cannot be defended by appeal to tradition alone.\n\nThe pamphlet's second movement turns to the social and intellectual consequences: child marriage keeps women in ignorance, denies them the possibility of education and self-development, and entrenches a subordinate status that the author regards as unjust.…"
+- social-reform
+- women
+- marriage
+- family-law
+summary: 'Written in Bengali, ''বাল্য বিবাহের দোষ'' (Balya Bibaher Dosh — ''The Harms
+  of Child Marriage'') is a short polemical pamphlet by Ishwar Chandra Vidyasagar
+  directed against the practice of marrying off young girls before they have reached
+  physical or intellectual maturity. The pamphlet opens by identifying child marriage
+  as a deep-rooted social ill in Bengali Hindu society and argues, on grounds of compassion
+  and reason, that the practice inflicts severe bodily harm on young girls who are
+  compelled to bear the physical demands of conjugal life and childbearing before
+  their bodies are capable of sustaining them. Vidyasagar draws on observable suffering
+  — premature widowhood, physical debility, and stunted lives — to make a case that
+  the custom cannot be defended by appeal to tradition alone.
+
+
+  The pamphlet''s second movement turns to the social and intellectual consequences:
+  child marriage keeps women in ignorance, denies them the possibility of education
+  and self-development, and entrenches a subordinate status that the author regards
+  as unjust.…
+
+
+  This PDF contains the complete work: the Bengali original first, then the English
+  translation, separated by a divider page. The two were digitised as separate scans
+  and are also catalogued separately; either record opens the same combined document.'
 needs_review: true
 draft: false
 ai:
@@ -37,14 +58,18 @@ ai:
   model_version: v1.4
 physical:
   pages_rendered: 4
-  pages_total: 4
+  pages_total: 13
   pages_total_source: pypdfium2
   format: pamphlet, printed Bengali text, photographed from bound volume
 missing_metadata_flags:
-  - no_title_page_found
-  - no_publisher_address
-  - year_not_found
-  - byline_not_explicitly_printed_on_visible_pages
+- no_title_page_found
+- no_publisher_address
+- year_not_found
+- byline_not_explicitly_printed_on_visible_pages
+translations:
+  en: the-vice-of-child-marriages-by-ishwar-chandra-vidyasagar
+related_works:
+- the-vice-of-child-marriages-by-ishwar-chandra-vidyasagar
 ---
 ## Summary
 

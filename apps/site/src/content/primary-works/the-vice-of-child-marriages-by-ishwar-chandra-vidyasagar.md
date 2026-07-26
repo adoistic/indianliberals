@@ -6,12 +6,11 @@ title:
   translit: Balyo-Bibaher Dosh
 work_type: essay
 authors:
-  - ishwar-chandra-vidyasagar
+- ishwar-chandra-vidyasagar
 editors: []
 contributors: []
-related_thinkers: 
-  - ishwar-chandra-vidyasagar
-
+related_thinkers:
+- ishwar-chandra-vidyasagar
 publication:
   language: en
   publisher_name: Sarva Subhakari
@@ -20,18 +19,39 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://archive.indianliberals.in/bengali/the-vice-of-child-marriages-by-ishwar-chandra-vidyasagar.pdf
-cover_image: "https://archive.indianliberals.in/covers/the-vice-of-child-marriages-by-ishwar-chandra-vidyasagar.webp"
+pdf_url: https://archive.indianliberals.in/combined/balyo-bibaher-dosh-vidyasagar-bengali-and-english.pdf
+cover_image: https://archive.indianliberals.in/covers/the-vice-of-child-marriages-by-ishwar-chandra-vidyasagar.webp
 rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - social-reform
-  - civil-society
-  - civil-liberties
-summary: "Ishwar Chandra Vidyasagar's essay 'The Vice of Child Marriages' (Balyo-Bibaher Dosh), originally published in 1850 in the Calcutta-based Bengali periodical Sarva Subhakari and presented here in English translation, mounts a sustained reformist attack on the custom of marrying off pre-pubescent girls. Vidyasagar opens by dismantling the scriptural rationale — the Smriti-Shastra's promises of Gouri-daan and Prithvi-daan for parents who marry off eight- and nine-year-old daughters — arguing that the rigid corollary that an unmarried menstruating girl damns seven generations of ancestors makes child marriage socially coercive rather than spiritually meritorious. He then catalogues the human costs: marriages contracted before the boys and girls are capable of love or consent, conjugal misery, families riven by 'discord and disaffection', and a culture in which young couples 'practise the arts of titillating' instead of receiving education.\n\nThe essay's distinctive move is to fuse moral, physiological, and what would later be called liberal-developmental arguments into a single chain.…"
+- social-reform
+- civil-society
+- civil-liberties
+summary: 'Ishwar Chandra Vidyasagar''s essay ''The Vice of Child Marriages'' (Balyo-Bibaher
+  Dosh), originally published in 1850 in the Calcutta-based Bengali periodical Sarva
+  Subhakari and presented here in English translation, mounts a sustained reformist
+  attack on the custom of marrying off pre-pubescent girls. Vidyasagar opens by dismantling
+  the scriptural rationale — the Smriti-Shastra''s promises of Gouri-daan and Prithvi-daan
+  for parents who marry off eight- and nine-year-old daughters — arguing that the
+  rigid corollary that an unmarried menstruating girl damns seven generations of ancestors
+  makes child marriage socially coercive rather than spiritually meritorious. He then
+  catalogues the human costs: marriages contracted before the boys and girls are capable
+  of love or consent, conjugal misery, families riven by ''discord and disaffection'',
+  and a culture in which young couples ''practise the arts of titillating'' instead
+  of receiving education.
+
+
+  The essay''s distinctive move is to fuse moral, physiological, and what would later
+  be called liberal-developmental arguments into a single chain.…
+
+
+  This PDF contains the complete work: the Bengali original first, then the English
+  translation, separated by a divider page. The two were digitised as separate scans
+  and are also catalogued separately; either record opens the same combined document.'
 needs_review: true
 draft: false
 ai:
@@ -40,29 +60,47 @@ ai:
   model_version: v1.4
 physical:
   pages_rendered: 7
-  pages_total: 7
+  pages_total: 13
   pages_total_source: pypdfium2
-  format: English translation of a Bengali periodical article; rendered as a 7-page document with the headline title on page 1 and an explanatory footnote on page 7.
+  format: English translation of a Bengali periodical article; rendered as a 7-page
+    document with the headline title on page 1 and an explanatory footnote on page
+    7.
 missing_metadata_flags:
-  - no_title_page
-  - no_colophon
-  - no_publisher_address
-  - translator_not_named
-  - translation_publication_date_unknown
-  - theme_vocabulary_not_supplied_in_prompt
+- no_title_page
+- no_colophon
+- no_publisher_address
+- translator_not_named
+- translation_publication_date_unknown
+- theme_vocabulary_not_supplied_in_prompt
 thinker_mentions:
-  - thinker: ishwar-chandra-vidyasagar
-    role: subject
-    reasoning: "The entry is an English translation of Vidyasagar's 1850 essay 'The Vice of Child Marriages', which mounts a sustained reformist attack on child marriage, coupling women's education with the case against early marriage."
-    evidence: []
-    key_passages:
-      - quote: "Vidyasagar opens by dismantling the scriptural rationale — the Smriti-Shastra's promises of Gouri-daan and Prithvi-daan for parents who marry off eight- and nine-year-old daughters — arguing that the rigid corollary that an unmarried menstruating girl damns seven generations of ancestors makes child marriage socially coercive rather than spiritually meritorious."
-        what_it_shows: "Vidyasagar's method: turning the shastric logic against itself to expose the coercive rather than meritorious nature of child marriage"
-      - quote: "mothers are children's most influential teachers and that a society which marries girls off the moment they learn the alphabet cannot educate its women at all"
-        what_it_shows: "Vidyasagar's linking of anti-child-marriage advocacy to the women's education cause"
-      - quote: "enforced fasting without water, shaved heads, starvation, and the suspicion that drives some young widows into 'secretive, licentious relationships' and even feticide"
-        what_it_shows: "Vidyasagar's catalogue of child-widow cruelties, the strongest humanitarian argument for reform"
-
+- thinker: ishwar-chandra-vidyasagar
+  role: subject
+  reasoning: The entry is an English translation of Vidyasagar's 1850 essay 'The Vice
+    of Child Marriages', which mounts a sustained reformist attack on child marriage,
+    coupling women's education with the case against early marriage.
+  evidence: []
+  key_passages:
+  - quote: Vidyasagar opens by dismantling the scriptural rationale — the Smriti-Shastra's
+      promises of Gouri-daan and Prithvi-daan for parents who marry off eight- and
+      nine-year-old daughters — arguing that the rigid corollary that an unmarried
+      menstruating girl damns seven generations of ancestors makes child marriage
+      socially coercive rather than spiritually meritorious.
+    what_it_shows: 'Vidyasagar''s method: turning the shastric logic against itself
+      to expose the coercive rather than meritorious nature of child marriage'
+  - quote: mothers are children's most influential teachers and that a society which
+      marries girls off the moment they learn the alphabet cannot educate its women
+      at all
+    what_it_shows: Vidyasagar's linking of anti-child-marriage advocacy to the women's
+      education cause
+  - quote: enforced fasting without water, shaved heads, starvation, and the suspicion
+      that drives some young widows into 'secretive, licentious relationships' and
+      even feticide
+    what_it_shows: Vidyasagar's catalogue of child-widow cruelties, the strongest
+      humanitarian argument for reform
+translations:
+  bn: balyo-bibaher-dosh-ishwar-chandra-vidyasagar
+related_works:
+- balyo-bibaher-dosh-ishwar-chandra-vidyasagar
 ---
 ## Summary
 

@@ -2,7 +2,7 @@
 id: soviet-samarajya-uday-ani-astha-translated-c-1
 title:
   main: The Rise and Fall of the Soviet Empire
-  subtitle: ""
+  subtitle: ''
   original_script: सोव्हिएत साम्राज्याचा उदय आणि अस्त
   translit: Sovhiet Samrajyacha Uday ani Asta
 work_type: book
@@ -19,16 +19,37 @@ rights:
   status: takedown_on_request
   license: in-copyright
   license_url: null
-  rights_statement: Rights held by original publishers / Centre for Civil Society; reproduced for archival access.
+  rights_statement: Rights held by original publishers / Centre for Civil Society;
+    reproduced for archival access.
 themes:
-  - communism-critique
-  - cold-war
-  - history
-  - soviet-union
-  - political-economy
-summary: "This is the English translation of the first chapter — 'Chapter 1: Silent History' — of the book 'The Rise and Fall of the Soviet Empire' (Marathi: 'सोव्हिएत साम्राज्याचा उदय आणि अस्त'), presented here as a five-page typed document. In the rendered pages the chapter dates Soviet power from the Bolshevik revolution of 1917 to the regime's official end in December 1991, and argues that the rise and fall of that empire can only be understood against the much longer arc of Russian history: just as children inherit the good and bad qualities of their parents, the author writes, societies inherit the long-term cultural, social, political and economic traits of those who came before.\n\nMost of the chapter, in the rendered pages, is a geography-driven history of Russia and its peoples. It describes the vast Russian landmass — roughly 81,000,000 square miles, comparable to all of North America — its plains, forests, rivers (the 2,400-mile Volga) and mineral wealth, and its 'Eurasian' position between Europe and Asia, citing Plekhanov's view that Russia is more European than Asiatic.…"
-pdf_url: https://archive.indianliberals.in/marathi/soviet-samarajya-uday-ani-astha-translated-c-1.pdf
-cover_image: "https://archive.indianliberals.in/covers/soviet-samarajya-uday-ani-astha-translated-c-1.webp"
+- communism-critique
+- cold-war
+- history
+- soviet-union
+- political-economy
+summary: 'This is the English translation of the first chapter — ''Chapter 1: Silent
+  History'' — of the book ''The Rise and Fall of the Soviet Empire'' (Marathi: ''सोव्हिएत
+  साम्राज्याचा उदय आणि अस्त''), presented here as a five-page typed document. In the
+  rendered pages the chapter dates Soviet power from the Bolshevik revolution of 1917
+  to the regime''s official end in December 1991, and argues that the rise and fall
+  of that empire can only be understood against the much longer arc of Russian history:
+  just as children inherit the good and bad qualities of their parents, the author
+  writes, societies inherit the long-term cultural, social, political and economic
+  traits of those who came before.
+
+
+  Most of the chapter, in the rendered pages, is a geography-driven history of Russia
+  and its peoples. It describes the vast Russian landmass — roughly 81,000,000 square
+  miles, comparable to all of North America — its plains, forests, rivers (the 2,400-mile
+  Volga) and mineral wealth, and its ''Eurasian'' position between Europe and Asia,
+  citing Plekhanov''s view that Russia is more European than Asiatic.…
+
+
+  This PDF contains the complete work: the Marathi original first, then the English
+  translation, separated by a divider page. The two were digitised as separate scans
+  and are also catalogued separately; either record opens the same combined document.'
+pdf_url: https://archive.indianliberals.in/combined/soviet-samarajya-uday-ani-astha-marathi-and-english.pdf
+cover_image: https://archive.indianliberals.in/covers/soviet-samarajya-uday-ani-astha-translated-c-1.webp
 pdf_size_mb: 0.11
 needs_review: true
 draft: false
@@ -38,15 +59,20 @@ ai:
   model_version: v1.4
 physical:
   pages_rendered: 5
-  pages_total: 5
+  pages_total: 12
   pages_total_source: pypdfium2
-  format: "5-page typed/digital English-translation document of Chapter 1 only ('Chapter 1: Silent History'), printed pages 1-5; no title page or colophon."
+  format: '5-page typed/digital English-translation document of Chapter 1 only (''Chapter
+    1: Silent History''), printed pages 1-5; no title page or colophon.'
 missing_metadata_flags:
-  - title_page_not_found
-  - author_not_named
-  - no_publisher
-  - year_not_printed
-  - no_colophon
+- title_page_not_found
+- author_not_named
+- no_publisher
+- year_not_printed
+- no_colophon
+translations:
+  mr: soviet-samarajya-uday-ani-astha-original-c-1
+related_works:
+- soviet-samarajya-uday-ani-astha-original-c-1
 ---
 
 # The Rise and Fall of the Soviet Empire
