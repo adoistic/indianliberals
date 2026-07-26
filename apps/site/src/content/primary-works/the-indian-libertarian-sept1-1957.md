@@ -56,8 +56,8 @@ themes:
   - foreign-policy
   - economic-freedom
 summary: "This 1 September 1957 issue (Vol. V No. 13) of The Indian Libertarian, the Bombay journal 'standing for free economy and liberal democracy' edited by Miss Kusum Lotwala, opens with an editorial, 'Double Law in Kashmir — A Matter of Double Standard,' attacking the special constitutional position of Kashmir as a betrayal of the principle of one law for all Indians. The rendered pages carry the issue's lead pieces: M. A. Venkata Rao's 'Liberty and Limited Government,' J. K. Dhairyawan's 'Congress Capitulates to Communism,' K. D. Valicha's 'The Challenge of Nepal,' and A. D. Gorwalla's 'Our Foreign Policy Under Fire,' alongside reprinted commentary from Guy Wint and Milovan Djilas and a research supplement from the R. L. Foundation. Throughout, the journal presses a classical-liberal case for limited government and individual liberty and against the Congress government's perceived drift toward communism and socialist economic policy."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/the-indian-libertarian/the-indian-libertarian-sept1-1957.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-indian-libertarian-sept1-1957.webp"
+pdf_url: https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-sept1-1957.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-indian-libertarian-sept1-1957.webp"
 pdf_size_mb: 1.5
 needs_review: true
 draft: false

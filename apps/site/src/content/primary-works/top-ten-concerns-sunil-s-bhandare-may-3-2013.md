@@ -23,8 +23,8 @@ provenance:
   source: ccs_archive
   scan_quality: unknown
   notes: "Colophon date as printed: FFE booklet 03/May-Sept./2013. (Recorded as publication.series by the v1.4 extractor; it is a printing date, not a series designation.)"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/top-ten-concerns-sunil-s-bhandare-may-3-2013.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/top-ten-concerns-sunil-s-bhandare-may-3-2013.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/top-ten-concerns-sunil-s-bhandare-may-3-2013.pdf
+cover_image: "https://archive.indianliberals.in/covers/top-ten-concerns-sunil-s-bhandare-may-3-2013.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

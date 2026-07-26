@@ -19,8 +19,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/planning-machinery-should-be-placed-above-politics-november-9-1962.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/planning-machinery-should-be-placed-above-politics-november-9-1962.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/planning-machinery-should-be-placed-above-politics-november-9-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/planning-machinery-should-be-placed-above-politics-november-9-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

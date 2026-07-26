@@ -14,8 +14,8 @@ provenance:
   source: ccs_archive
   scan_quality: poor
   notes: "A short social-reform tract against child marriage. The scan is image-only with no reliable OCR text layer and no legible author; this is a bibliographic record with a link to the PDF, pending OCR and editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/evils-of-child-marriage.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/evils-of-child-marriage.webp"
+pdf_url: https://archive.indianliberals.in/liberals/evils-of-child-marriage.pdf
+cover_image: "https://archive.indianliberals.in/covers/evils-of-child-marriage.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -26,8 +26,8 @@ themes:
   - individual-rights
   - governance-reform
 summary: "This two-page typescript is the address C. Rajagopalachari delivered at his swearing-in as Governor-General of India on 21 June 1948 — the first Indian, succeeding Lord Mountbatten, to hold the office. Rajagopalachari opens by thanking those present for lifting the occasion 'from the place of a mere ceremony to that of human fellowship and cooperation,' and acknowledges the historic significance of one 'who belongs to the soil' being entrusted with the headship of the state. He pays a graceful tribute to his predecessor's detachment and energy, while modestly admitting his own inexperience in arms and diplomacy.\n\nThe substance of the speech is a plea for national unity and pluralism in the immediate aftermath of Partition.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/speech-made-by-c-rajagopalachari-at-the-swearing-in-ceremony-for-the-position-of-governor-general-of-india.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/speech-made-by-c-rajagopalachari-at-the-swearing-in-ceremony-for-the-position-of-governor-general-of-india.webp"
+pdf_url: https://archive.indianliberals.in/liberals/speech-made-by-c-rajagopalachari-at-the-swearing-in-ceremony-for-the-position-of-governor-general-of-india.pdf
+cover_image: "https://archive.indianliberals.in/covers/speech-made-by-c-rajagopalachari-at-the-swearing-in-ceremony-for-the-position-of-governor-general-of-india.webp"
 pdf_size_mb: 0.11
 needs_review: true
 draft: false

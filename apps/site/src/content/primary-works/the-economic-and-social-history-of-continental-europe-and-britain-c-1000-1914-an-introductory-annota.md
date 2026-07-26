@@ -23,8 +23,8 @@ themes:
   - free-trade
   - liberalism-as-tradition
 summary: "This three-page document is an anonymous, opinionated annotated reading-list — 'for economists' — on the economic and social history of Continental Europe and Britain from roughly 1000 to 1914. Its discursive introduction is as much a methodological manifesto as a bibliography: the compiler separates the Continent from Britain because the modern developed world is Anglophone, warns of 'factual overload,' and counsels readers to take the older Austrian economists' view that it is 'the facts of the various stories that count,' not 'empirical work' in the conventional sense. The reader is urged to study the real social world, to start from the nineteenth century and work backwards, and to appreciate 'the tremendous significance of the Golden Century between 1815 & 1914.'\n\nThe references themselves are grouped into two sections. Section A (Continental Europe) lists works by Robert Bartlett, Euan Cameron, T. C. W. Blanning, Peter Rietbergen and Sidney Pollard, spanning the making of medieval Europe through the industrialization of 1760-1970.…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/the-economic-and-social-history-of-continental-europe-and-britain-c-1000-1914-an-introductory-annota.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-economic-and-social-history-of-continental-europe-and-britain-c-1000-1914-an-introductory-annota.webp"
+pdf_url: https://archive.indianliberals.in/liberals/the-economic-and-social-history-of-continental-europe-and-britain-c-1000-1914-an-introductory-annota.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-economic-and-social-history-of-continental-europe-and-britain-c-1000-1914-an-introductory-annota.webp"
 pdf_size_mb: 0.29
 needs_review: true
 draft: false

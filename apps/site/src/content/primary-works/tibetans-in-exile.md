@@ -53,8 +53,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberal-times/tibetans-in-exile.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/tibetans-in-exile.webp"
+pdf_url: https://archive.indianliberals.in/liberal-times/tibetans-in-exile.pdf
+cover_image: "https://archive.indianliberals.in/covers/tibetans-in-exile.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

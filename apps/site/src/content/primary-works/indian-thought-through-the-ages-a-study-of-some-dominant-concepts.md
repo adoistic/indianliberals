@@ -30,8 +30,8 @@ themes:
   - rule-of-law
   - individual-rights
 summary: "In the rendered pages — the front matter plus the opening of Chapter One — B. G. Gokhale frames *Indian Thought Through the Ages* (1961) as a historian's attempt to trace nine 'dominant concepts' that have shaped Indian thinking across the centuries, rather than a conventional political history or a survey of Indian philosophy. The preface (printed pp. vii–viii) sets out the scheme: a chapter on the Indian view of history, then chapters on the three classical aims of life (Dharma, Artha, Kama), on Karma and Punarjanma and Samsara, on authority and freedom, on war and non-violence, and a closing essay on 'Man Perfected' (Uttamapurusha).…"
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/indian-thought-through-the-ages-a-study-of-some-dominant-concepts.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/indian-thought-through-the-ages-a-study-of-some-dominant-concepts.webp"
+pdf_url: https://archive.indianliberals.in/liberals/indian-thought-through-the-ages-a-study-of-some-dominant-concepts.pdf
+cover_image: "https://archive.indianliberals.in/covers/indian-thought-through-the-ages-a-study-of-some-dominant-concepts.webp"
 pdf_size_mb: 13.83
 needs_review: true
 draft: false

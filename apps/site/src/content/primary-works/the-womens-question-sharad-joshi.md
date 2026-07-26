@@ -19,8 +19,8 @@ provenance:
   source: ccs_archive
   scan_quality: poor
   notes: "Background paper prepared for the deliberations of the women's conference convened by the Shetkari Sanghatana at Chandvad, District Nashik, 9 November 1986. English text; the scan has a poor OCR layer, so the summary is drawn from the legible framing and the known context of the Chandvad conference and awaits editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/shetkari-sanghatak/the-womens-question-sharad-joshi.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-womens-question-sharad-joshi.webp"
+pdf_url: https://archive.indianliberals.in/shetkari-sanghatak/the-womens-question-sharad-joshi.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-womens-question-sharad-joshi.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

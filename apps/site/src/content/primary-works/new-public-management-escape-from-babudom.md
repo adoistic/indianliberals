@@ -20,8 +20,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/liberals/new-public-management-escape-from-babudom.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/new-public-management-escape-from-babudom.webp"
+pdf_url: https://archive.indianliberals.in/liberals/new-public-management-escape-from-babudom.pdf
+cover_image: "https://archive.indianliberals.in/covers/new-public-management-escape-from-babudom.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

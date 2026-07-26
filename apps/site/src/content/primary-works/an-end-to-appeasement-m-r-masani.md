@@ -18,8 +18,8 @@ provenance:
   source: ccs_archive
   scan_quality: poor
   notes: "Reprint of an M. R. Masani article from Freedom First (No. 91, December 1970). The scan has no reliable OCR text layer; the summary is drawn from the legible masthead and Masani's documented positions, and awaits editorial review."
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/freedom-first/an-end-to-appeasement-m-r-masani.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/an-end-to-appeasement-m-r-masani.webp"
+pdf_url: https://archive.indianliberals.in/freedom-first/an-end-to-appeasement-m-r-masani.pdf
+cover_image: "https://archive.indianliberals.in/covers/an-end-to-appeasement-m-r-masani.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

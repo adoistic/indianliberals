@@ -23,8 +23,8 @@ provenance:
   source: ccs_archive
   scan_quality: fair
   notes: Lecture delivered extempore on 7 February 2011; first published June 2011.
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/other-publications/the-emerging-scenario-in-education.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-emerging-scenario-in-education.webp"
+pdf_url: https://archive.indianliberals.in/other-publications/the-emerging-scenario-in-education.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-emerging-scenario-in-education.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

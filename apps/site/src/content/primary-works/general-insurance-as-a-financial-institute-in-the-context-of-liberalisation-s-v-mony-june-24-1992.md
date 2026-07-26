@@ -20,8 +20,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/general-insurance-as-a-financial-institute-in-the-context-of-liberalisation-s-v-mony-june-24-1992.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/general-insurance-as-a-financial-institute-in-the-context-of-liberalisation-s-v-mony-june-24-1992.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/general-insurance-as-a-financial-institute-in-the-context-of-liberalisation-s-v-mony-june-24-1992.pdf
+cover_image: "https://archive.indianliberals.in/covers/general-insurance-as-a-financial-institute-in-the-context-of-liberalisation-s-v-mony-june-24-1992.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

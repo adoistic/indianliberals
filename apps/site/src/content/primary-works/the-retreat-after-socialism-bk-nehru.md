@@ -27,8 +27,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/indian-liberal-group/the-retreat-after-socialism-bk-nehru.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/the-retreat-after-socialism-bk-nehru.webp"
+pdf_url: https://archive.indianliberals.in/indian-liberal-group/the-retreat-after-socialism-bk-nehru.pdf
+cover_image: "https://archive.indianliberals.in/covers/the-retreat-after-socialism-bk-nehru.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

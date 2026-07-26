@@ -56,8 +56,8 @@ authors_resolution:
   stubs_referenced:
     - shesrav-mohite
   collisions_logged: []
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/marathi/sheti-vayavsayavaril-arishit-shesrav-mohite.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/sheti-vayavsayavaril-arishit-by-shesrav-mohite.webp"
+pdf_url: https://archive.indianliberals.in/marathi/sheti-vayavsayavaril-arishit-shesrav-mohite.pdf
+cover_image: "https://archive.indianliberals.in/covers/sheti-vayavsayavaril-arishit-by-shesrav-mohite.webp"
 ---
 
 ## Summary

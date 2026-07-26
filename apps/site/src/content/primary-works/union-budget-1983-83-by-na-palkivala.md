@@ -20,8 +20,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/union-budget-1983-83-by-na-palkivala.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/union-budget-1983-83-by-na-palkivala.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/union-budget-1983-83-by-na-palkivala.pdf
+cover_image: "https://archive.indianliberals.in/covers/union-budget-1983-83-by-na-palkivala.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

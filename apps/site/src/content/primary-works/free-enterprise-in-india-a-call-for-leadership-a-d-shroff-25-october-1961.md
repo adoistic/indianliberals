@@ -25,8 +25,8 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
-pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/forum-of-free-enterprise/free-enterprise-in-india-a-call-for-leadership-a-d-shroff-25-october-1961.pdf
-cover_image: "https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/covers/free-enterprise-in-india-a-call-for-leadership-a-d-shroff-25-october-1961.webp"
+pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/free-enterprise-in-india-a-call-for-leadership-a-d-shroff-25-october-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/free-enterprise-in-india-a-call-for-leadership-a-d-shroff-25-october-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright
