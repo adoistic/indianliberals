@@ -131,6 +131,7 @@ python3 scripts/eval/grade.py scripts/eval/runs/run.json --write
 | Of those, genuinely misjoined | **127** (54% precision) |
 | Misjoined files it never flagged | **37** |
 | True scope | **164 files · 369 sections** (7.0% of 5,289 sections in 765 multi-article works) |
+| After repair | **35 files · 42 sections** (0.8%) |
 
 Mass-editing the 234 list would have corrupted about 107 correctly-labelled
 files and still missed 37 broken ones. The handoff was right to insist on
@@ -163,17 +164,39 @@ gaps, scored only where the prose positively identifies an article.
 - `scripts/heading-offset/measure.py` — measures the misjoin, per section
 - `scripts/heading-offset/repair.py` — aligns and rewrites
 
-Applied: **55 files rewritten, 371 section labels corrected, 0 prose lines
-altered** (verified by comparing prose lines as a multiset before and after, on
-all 55). Orphaned headings are kept in page order with a note rather than
-dropped, because the article was in the issue.
+Applied over several passes to convergence: **209 content files changed, 0
+duplicate headings introduced, 0 prose lines altered**, verified after every
+pass by comparing the non-heading, non-byline lines as a multiset against the
+pre-repair commit. Orphaned headings are kept in page order with a note rather
+than dropped, because the article was in the issue.
 
-**109 misjoined files were deliberately not touched** and are listed in
-`scripts/heading-offset/repair-report.json`: 78 where the global alignment
-agrees with the current labels anyway, 27 with too little evidence, 4 where the
-prose contradicts the alignment. `ff097` is among them despite being
-hand-confirmed, because its prose quotes no matchable titles. These need a human
-or a vision pass over the PDFs.
+**Result: 164 files and 369 misjoined sections (7.0%) down to 35 files and 42
+sections (0.8%).** 29 of the 35 have a single disagreeing section left.
+
+The remainder is listed in `scripts/heading-offset/repair-report.json`: files
+with too little evidence to align, a handful where the prose contradicts the
+best alignment, and cases where the correct repair would need a heading to
+appear twice for reasons the tool cannot confirm. They need a human or a vision
+pass over the PDFs. Four of the 42 involve an `Essay N` placeholder rather than
+a real title.
+
+Getting from 55 files to here took four corrections to the tooling, each found
+by checking rather than assuming:
+
+1. A hand audit of 12 files the tool had skipped as "alignment matches current
+   labels" found **12 of 12 genuinely misjoined**. A contradicted pairing was
+   scoring the same as an unevidenced one, so the correct shift was priced out
+   whenever a file had only one confirmed pairing, which most broken files do.
+2. The first fix introduced **71 duplicate headings across 54 files**, because a
+   gapped prose block derives a title from its own prose and that title can
+   collide. The content was reverted wholesale and replayed under a guard that
+   refuses any rewrite which would repeat a heading.
+3. Placeholder sections were being re-read as prose on the next pass, growing
+   two files by a section every run and leaving them oscillating forever.
+4. A possessive apostrophe was opening a quotation: in *"Paul Ignotus's essay
+   'The Hungarian Revolution'"* the first candidate began at Ignotus's
+   apostrophe, shifting every candidate after it and reporting a correctly
+   labelled section as misjoined.
 
 Three subtleties that cost time and would cost it again:
 

@@ -105,6 +105,7 @@ The 1 February 1961 issue of The Indian Libertarian (Vol. VIII, No. 21) is the j
 ## Essays
 
 ### Editorial
+
 The unsigned editorial reacts to the Bhavnagar session of Congress, where the leadership formally noticed a revival of Muslim League and Jami-Islami activity and a Muslim meeting at Karachi that demanded a separate egalitarian and generous constitution of 1950 — in effect a Muslim theocratic state or Caliphate. Against Congress's reflex appeal to the majority to play 'Big Brother', the editorial argues that in a modern democratic republic there can be no political distinction between majority and minority for purposes of office, education, voting or administration, only the rule of law applied to individuals on merit. Muslims, the editorial writes, must confine their 'minority rights' to religious fellowship for observance, abandon the demand to live as citizens apart from others, and rebuild a non-communal patriotism that the Gandhi-Nehru Congress had culpably appeased. A second half of the editorial salutes the strengthening of Indo-Nepal relations after the King of Nepal's visit, deplores the Chinese encroachment in the Himalayas, and welcomes the announced visit of the Queen to India as a symbolic reaffirmation of Indian membership in the wider Commonwealth of free nations.
 
 - Bhavnagar Congress session noted a revival of Muslim League and separatist Muslim activity, met by a familiar Congress resolution courting the minority
@@ -113,8 +114,7 @@ The unsigned editorial reacts to the Bhavnagar session of Congress, where the le
 - Madras meeting at Gokhale Hall is read as evidence that ordinary Muslims will repudiate pro-League agitation
 - Salutes Indo-Nepal rapprochement and welcomes the visit of the Queen to India as affirmation of Commonwealth ties
 
-### Republican or Socialist Pattern of Society
-*By MA Venkata Rao*
+### Essay 2
 
 M. A. Venkata Rao uses Republic Day as the occasion to draw a sharp line between a republican and a socialist pattern of society. The Constitution describes India as a sovereign democratic republic and, he insists, this is not a mere lawyer's formula: it specifies a political order in which citizens hold equal civic standing under the rule of law, with the executive bound by the legislature and the judiciary. Against Congress's 'socialist pattern' rhetoric, Venkata Rao argues that a republic so understood is incompatible with the totalising claims of socialism, which subordinates property, association and conscience to the planner state. He defends decentralisation, voluntary association and the institutional separation of economic and political power as the substance of liberty, and closes with an aphorism (attributed to Hilaire Belloc) that the constitutional order, not the planned one, is the only one fit for civilised life.
 
@@ -124,8 +124,7 @@ M. A. Venkata Rao uses Republic Day as the occasion to draw a sharp line between
 - Defends voluntary association, decentralisation and the separation of economic from political power as substantive liberty
 - Closes with an authority quotation (Belloc) on democracy and capitalism as the precondition of civilised life
 
-### Congress Deceiving the Country
-*By M. N. Tholal*
+### flies in the ointment
 
 M. N. Tholal accuses the ruling Congress of deceiving the country about Chinese encroachment on the Himalayan frontier. The Nehru government, he writes, was aware of Chinese intentions years before it disclosed them to Parliament, and even now confines itself to verbal protest while ceded territory grows. Tholal attacks the so-called 'flies in the ointment' theory by which official spokesmen treat each fresh Chinese advance as an aberration of an otherwise friendly neighbour, and warns that the government's refusal to admit the seriousness of the threat — combined with its dependence on Krishna Menon's diplomacy — is corroding the integrity of public life. The essay closes with a call for an honest reckoning with the costs of past appeasement and a demand that the question of the future of the frontier be put openly to the country.
 
@@ -135,8 +134,7 @@ M. N. Tholal accuses the ruling Congress of deceiving the country about Chinese 
 - Argues that integrity in public life requires an honest accounting of past mistakes
 - Calls for an open debate on the future of the Himalayan frontier instead of complacent reassurance
 
-### Collapse of Foreign Policy
-*By J. M. Lobo Prabhu*
+### Essay 4
 
 J. M. Lobo Prabhu reads the recent record of Indian diplomacy as a collapse, not a setback. From Tibet to Goa to the Himalayan frontier, he argues, the government's working assumption that a posture of non-alignment will translate into moral leverage has produced neither concessions nor security. Statements made by ministers in Parliament, he writes, are contradicted within weeks by the facts on the ground; Indian initiatives in the United Nations and in the Commonwealth have failed to win allies, and the country's economic dependence on foreign assistance — particularly American — is now incompatible with the proud rhetoric of independence. Lobo Prabhu calls for a foreign policy founded on a clear accounting of national interests, the building of credible alliances, and the abandonment of an ideologised neutralism that has alienated friends without disarming adversaries.
 
@@ -146,8 +144,8 @@ J. M. Lobo Prabhu reads the recent record of Indian diplomacy as a collapse, not
 - Calls for explicit recognition of national interest as the basis of foreign relations
 - Urges the building of credible alliances in place of an ideologised neutralism
 
-### After Nehru, Who and What?
-*By Sumanth Bankeshwar*
+### Republican or Socialist Pattern of Society
+*By MA Venkata Rao*
 
 S. Ramanathan opens the Rationalist Supplement with a memorial to Ellen Roy, whose recent death has cast a gloom over the intellectual life of India. Ramanathan recalls her loyalty to M. N. Roy through his years in the Communist International and the ECCI, her presence in the Communist press both as wife and as independent thinker, and the time when the foulest abuse of Com. Roy from Moscow could not shake the respect in which individual Communists held her. He notes her work editing Roy's manuscripts after his death, her travels to collect material from many countries, and her decision to take over the editorship of The Radical Humanist herself; he hopes that Mr. Sibnarayan Ray and others will share the burden.
 
@@ -157,7 +155,9 @@ S. Ramanathan opens the Rationalist Supplement with a memorial to Ellen Roy, who
 - Announces her decision, before her death, to edit The Radical Humanist herself
 - Invokes Sibnarayan Ray as a likely collaborator in continuing the journal
 
-### Is There a Soviet Colonialism?
+### Congress Deceiving the Country
+*By M. N. Tholal*
+
 A. D. Howell Smith offers a primer on metaphysical materialism for the Rationalist Supplement, distinguishing it from the laboratory shorthand sometimes called 'methodological' materialism. Materialism, he argues, is not committed to the doctrine that only matter exists but to the claim that what we call mind, ideas and feelings are properly understood as functions of organised matter — the brain. The essay reviews idealist objections (that thought is logically prior to its objects), defends the materialist account of consciousness as an emergent property of biological structure, and closes with a section on modern materialism as the working framework of the natural sciences, citing the indifference of working physicists and biologists to the older theological and idealist alternatives.
 
 - Distinguishes metaphysical materialism from a merely methodological reduction of phenomena to matter
@@ -166,7 +166,9 @@ A. D. Howell Smith offers a primer on metaphysical materialism for the Rationali
 - Treats modern materialism as the working framework of the natural sciences
 - Frames the essay as a primer for the Rationalist Supplement's reader, not as polemic
 
-### Delhi Letter
+### Collapse of Foreign Policy
+*By J. M. Lobo Prabhu*
+
 R. C. Trail argues that humanism, science and rationalism form a single intellectual tradition committed to the open examination of evidence and to the rejection of revelation as a source of public truth. He treats Indian religious revivalism with the same scepticism he applies to Christian dogmatism, and draws a sharp boundary between private faith and the institutions of an open society. The piece closes with a long block quotation from Dr. B. R. Ambedkar's 'The Buddha and his Dhamma' on the rationalist character of the Buddha's teaching, used as an Indian witness to the rationalist tradition the essay defends.
 
 - Treats humanism, science and rationalism as a single intellectual lineage
@@ -175,8 +177,8 @@ R. C. Trail argues that humanism, science and rationalism form a single intellec
 - Closes with an Ambedkar quotation positioning the Buddha as an Indian rationalist witness
 - Frames rationalism as a defence of the conditions of an open society
 
-### Rationalist Supplement: Ellen Roy
-*By S. Ramanathan*
+### After Nehru, Who and What?
+*By Sumanth Bankeshwar*
 
 Sumanth Bankeshwar takes up the question 'After Nehru, who and what?' and uses it as an entry point for a structural account of the Congress succession problem. He notes that the cult of Nehru's personality has crowded out the institutional cultivation of successors, so that the obvious candidates — Pandit Pant, Lal Bahadur Shastri, Morarji Desai, Y. B. Chavan, Jagjivan Ram and Indira Gandhi — are evaluated by the country less on their own merits than on their proximity to Nehru. Bankeshwar argues that the more pressing question is not 'who' but 'what': whether the Congress system itself, with its mix of personal patronage and inherited socialist rhetoric, can survive the loss of its central figure, and whether the opposition can offer an alternative more substantive than the Swatantra Party's still-nascent classical liberal platform.
 
@@ -186,7 +188,21 @@ Sumanth Bankeshwar takes up the question 'After Nehru, who and what?' and uses i
 - Treats the cult of Nehru's personality as having crowded out the institutional cultivation of successors
 - Identifies the Swatantra Party as the most credible — but still embryonic — opposition platform
 
+### Is There a Soviet Colonialism?
+
+*No summary was extracted for this article. Listed for completeness.*
+
+### Delhi Letter
+
+*No summary was extracted for this article. Listed for completeness.*
+
+### Rationalist Supplement: Ellen Roy
+*By S. Ramanathan*
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### Gleanings from the Press
+
 An unsigned essay asks whether the Soviet Union, formally committed to anti-colonialism, is itself a colonial power in Eastern Europe. The article surveys the absorption of the Baltic states — Estonia, Latvia and Lithuania — into the USSR in 1945, the suppression of the German Social Democrats in the Soviet zone in 1946, the imposition of one-party rule in Romania in 1947, and the violent ends of independent governments in Czechoslovakia (1948), East Germany (1953), Poland (1956) and Hungary (1956). The essay treats this record as a textbook case of colonialism by another name — direct military presence, planted local agents, the destruction of independent political and civil institutions and the extraction of economic surplus to the metropolitan power.
 
 - Argues that the Soviet Union is materially a colonial power despite its anti-colonial rhetoric
@@ -196,6 +212,7 @@ An unsigned essay asks whether the Soviet Union, formally committed to anti-colo
 - Treats direct military presence and the destruction of independent institutions as the criteria of colonialism
 
 ### News & Views
+
 The Delhi Letter, datelined from a press conference, reports that V. K. Krishna Menon has 'given the green light' to Chinese encroachment by publicly downplaying the loss of territory in Ladakh and the Aksai Chin. The correspondent reads Menon's statements as a deliberate softening of the country's position in advance of a settlement that will ratify the Chinese hold on roughly fourteen thousand square miles of territory. The article catalogues the exchange between Nehru and Chou En-lai, the silence on the McMahon Line, and the contrast between the Defence Minister's reassurances and the operational facts on the ground; it ends by warning that the Indian press is being asked to substitute the government's diplomatic vocabulary for honest reporting.
 
 - Reads Krishna Menon's press-conference statements as a softening of India's position on Chinese encroachment
@@ -205,6 +222,7 @@ The Delhi Letter, datelined from a press conference, reports that V. K. Krishna 
 - Warns that the press is being asked to adopt the government's diplomatic vocabulary
 
 ### Essay 11
+
 The Gleanings from the Press column reprints excerpts from other Indian newspapers under captions chosen by the editor: the Indian Express's 'Libero Dominante of Prime Minister Nehru', a piece from Karachi on the prospects of fresh Sino-Indian talks, the New Yorker's 'Caliph of Islam' on Nasser's role, and the Times Indian on the decline of the Congress. The column functions as a curated reading of what the rest of the press is saying about the questions the issue has already taken up — Muslim communalism, foreign-policy collapse, and the looming Congress succession — and lets the journal underline its own argumentative line through other writers' words.
 
 - Reprints excerpts from the Indian Express on Nehru's dominance over the Congress
@@ -214,6 +232,7 @@ The Gleanings from the Press column reprints excerpts from other Indian newspape
 - Functions as a curated press digest reinforcing the issue's editorial line
 
 ### Essay 12
+
 The News & Views column closes the issue with three short items: 'The Truth of the Spy-Ring Law is Told Now' (on the prosecution of a small Bombay espionage case), 'The Tragi-Comedy of Our Foreign Policy' (a one-paragraph extension of Lobo Prabhu's earlier piece), and 'The Party with the Crutches' (on the Praja Socialist Party's reliance on Congress dissidents). The issue then carries a Libertarian Social Institute notice that M. A. Venkata Rao addressed a book discussion meeting on Hayek's The Constitution of Liberty in Bangalore, lists new accessions to the R. L. Foundation Library (Hayek, von Mises, Borsodi, Proudhon, Bakunin, Hempingway and others), and ends on the back cover with 'Books for Your Shelf' advertised by Libertarian Publishers — Bakunin, Rudolf Rocker, Proudhon, Mises, Sitaram Goel's 'The Conquest of China' — alongside the colophon naming K. R. Lotwala as editor and G. N. Lawande as printer.
 
 - News & Views runs three sharp short items on espionage, foreign policy and the PSP

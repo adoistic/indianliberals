@@ -285,10 +285,12 @@ def rebuild(body: str, secs: list[dict], headings: list[dict], pairing: list[int
 
     used = {j for j in pairing if j is not None}
     emitted: set[int] = set()
+    emitted_headings: list[str] = []
 
     def emit_orphan(k: int) -> None:
         """A heading no prose claimed. The article was in the issue, so keep it."""
         pieces.append(f"### {headings[k]['heading']}\n")
+        emitted_headings.append(headings[k]["heading"])
         if headings[k]["byline"]:
             pieces.append(f"*By {headings[k]['byline']}*\n")
         pieces.append(f"\n{ORPHAN_NOTE}\n\n")
@@ -309,15 +311,38 @@ def rebuild(body: str, secs: list[dict], headings: list[dict], pairing: list[int
             source = "aligned"
         else:
             derived = self_title(sec)
-            if derived is None:
-                # No evidence at all. Leave the label exactly as found rather
-                # than guess; measure.py already reports these.
-                new_heading, new_byline, source = sec["heading"], sec["byline"], "unchanged"
-            else:
+            previous = emitted_headings[-1] if emitted_headings else None
+            author = self_author(sec)
+
+            if derived is not None and fold(derived) == fold(previous or ""):
+                # A column continued across pages: the second block names the
+                # same piece as the one above it. The archive has several of
+                # these ("Point Counter Point" runs on, "Of Cabbages and Kings"
+                # carries two batches). Emit the prose under the heading already
+                # standing rather than repeating it.
+                pieces.append(sec["prose"] if sec["prose"].startswith("\n") else "\n" + sec["prose"])
+                changes.append({
+                    "index": i,
+                    "from": {"heading": sec["heading"], "byline": sec["byline"]},
+                    "to": {"heading": previous, "byline": None},
+                    "source": "continuation of the preceding section",
+                })
+                continue
+
+            if derived is not None and fold(derived) not in {fold(h) for h in emitted_headings}:
                 new_heading = derived
-                author = self_author(sec)
                 new_byline = author
                 source = "derived from prose"
+            else:
+                # Either the prose names no title, or the title it names is
+                # already standing elsewhere in the issue and this is not a
+                # continuation of it. Inventing a heading would be a guess and
+                # repeating one would be a lie, so use the pipeline's own
+                # neutral placeholder, which claims nothing, and keep whatever
+                # author the prose does name.
+                new_heading = f"Essay {i + 1}"
+                new_byline = author
+                source = "unlabelled: neutral placeholder"
 
         if new_heading != sec["heading"] or new_byline != sec["byline"]:
             changes.append(
@@ -330,6 +355,7 @@ def rebuild(body: str, secs: list[dict], headings: list[dict], pairing: list[int
             )
 
         pieces.append(f"### {new_heading}\n")
+        emitted_headings.append(new_heading)
         if new_byline:
             pieces.append(f"*By {new_byline}*\n")
         # Preserve the blank line that separated the label block from the prose.

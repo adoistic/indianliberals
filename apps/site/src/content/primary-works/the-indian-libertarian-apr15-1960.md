@@ -106,6 +106,7 @@ The Indian Libertarian Vol. VIII No. 2 (April 15, 1960) is a fortnightly issue o
 ## Essays
 
 ### EDITORIAL — President Nasser in India
+
 The unsigned editorial 'President Nasser' surveys the consolidation of Nasser's authority over the United Arab Republic and his shifting relations with Iraq, Jordan, Syria, Sudan, Saudi Arabia, Tunisia and Israel. It argues that Nasser's brand of Arab nationalism — bolstered by a propaganda apparatus and pan-Arab ambition — has become the dominant force in West Asia, that India's friendship with Egypt has so far yielded little political return, and that smaller Arab states fear absorption into the UAR. Adjacent editorial notes cover Mr. H. M. Patel's critique of defence policy and Krishna Menon's stewardship, the Bombay High Court decision on the Governor's order touching the Bombay-Maharashtra dispute, the South African racial crisis after Sharpeville, the Afro-Asian bloc's posture at the UN, Pakistan's proposal for a Lahore–Dacca railway across Indian territory, and Nehru's condemnation of French atomic tests in the Sahara.
 
 - Frames President Nasser as the central political broker of the Arab world and reads regional realignments through his ambitions.
@@ -147,8 +148,8 @@ The journal reprints an essay by the Polish philosopher Leszek Kołakowski, 'Wha
 - Includes denials of regimes that imprison dissenters, dictate philosophy, or treat citizens as instruments of party power.
 - Frames the absence of liberty of opinion as the decisive disqualification of any claim to socialism.
 
-### ECONOMIC SUPPLEMENT — Why Free Economy? / Economic Chaos—A Way Out / Sound Growth
-*By G N Lawande*
+### Why Free Economy?
+*By In the issue*
 
 In the issue's Economic Supplement, Prof. G. N. Lawande opens with 'Why Free Economy?' — an argument that economic development in underdeveloped countries has been wrongly identified with the volume of financial resources mobilised through public taxation, public borrowing and deficit finance. Lawande contends that real per-capita income gains follow from the productive use of resources and the institutional setting in which decisions are made, not from the size of state outlays alone. He criticises the Indian habit of treating planning targets as ends in themselves, warns that inflationary deficit finance erodes savings, and argues that an economy organised around private decision-making and market signals — a 'free economy' — is the more realistic route to development than further extensions of state direction.
 
@@ -158,8 +159,8 @@ In the issue's Economic Supplement, Prof. G. N. Lawande opens with 'Why Free Eco
 - Defends decentralised, market-based decision-making as the practical alternative to extended state planning.
 - Frames the choice between planning and free economy as one about the locus of decision, not merely the level of investment.
 
-### Cultural Freedom Since Independence — Recent Trends in Republican India
-*By A. Ranganathan*
+### ECONOMIC SUPPLEMENT — Why Free Economy? / Economic Chaos—A Way Out / Sound Growth
+*By G N Lawande*
 
 The second Economic Supplement piece, 'Economic Chaos — A Way Out' by M. V. Sastry, argues, in the words of its subtitle, that 'a little planning is as impossible as a little pregnancy.' Sastry insists that the half-measures favoured by Indian policy — a public sector grafted onto a private economy, statutory controls layered over surviving markets, and a Planning Commission that issues directives while the cabinet improvises — combine the worst features of both regimes. He calls for an honest choice: either full centralisation on the Soviet model, or a thorough turn to a free economy under stable monetary rules and a limited state. The essay reads as a companion piece to Lawande's, sharpening the political argument that the Indian middle way is unstable.
 
@@ -169,8 +170,8 @@ The second Economic Supplement piece, 'Economic Chaos — A Way Out' by M. V. Sa
 - Calls for a clear constitutional and political choice between full centralisation and a genuine free economy.
 - Links the case for free economy to monetary stability and a restrained, rule-bound state.
 
-### DELHI LETTER — Swatantra Alarming Congress & Jan Sangh
-*By A Ranganathan*
+### Cultural Freedom Since Independence — Recent Trends in Republican India
+*By A. Ranganathan*
 
 A. Ranganathan's 'Cultural Freedom Since Independence — Recent Trends in Republican India' surveys the climate for liberal thought, scholarly enquiry and creative writing in the Republic. He argues that the liberal intelligentsia has lost ground to officially sponsored cultural bodies and to a public mood that confuses uniformity with national purpose. The piece treats episodes of political pressure on writers and academics, the use of state patronage to reward orthodoxy, and the dependence of literary and academic institutions on central funding as evidence that the conditions for cultural freedom have narrowed since 1947. Ranganathan situates the Indian case in the wider international debate on cultural freedom and argues for institutional and intellectual pluralism as the safeguard against drift toward conformity.
 
@@ -180,7 +181,9 @@ A. Ranganathan's 'Cultural Freedom Since Independence — Recent Trends in Repub
 - Locates the Indian case within the international Congress for Cultural Freedom debate.
 - Calls for autonomous institutions as the structural condition for free thought.
 
-### BOMBAY ROUND UP — Friendly Approach to All Problems
+### DELHI LETTER — Swatantra Alarming Congress & Jan Sangh
+*By A Ranganathan*
+
 The 'Delhi Letter', filed by the journal's correspondent, reports on political currents in the capital. The opening dispatch, 'Swatantra Alarming Congress & Jan Sangh', notes that the Swatantra Party's growth has discomforted both the ruling Congress and the Jan Sangh, and reads the cross-party reaction as a sign of the party's emerging weight. Subsequent items cover the language question and the controversy over the use of Hindi versus English in administration and Parliament, the Lobsang Tibetan refugee claim of an Everest crossing, and Governor Gadgil's controversial remarks. The Letter is gossipy in tone but substantive in its tracking of how the new liberal opposition is shifting alignments within the Congress system.
 
 - Reports that the Swatantra Party's growth is alarming both the Congress and the Jan Sangh.
@@ -189,7 +192,12 @@ The 'Delhi Letter', filed by the journal's correspondent, reports on political c
 - Covers Governor Gadgil's contested public remarks.
 - Treats Delhi politics as a barometer of the wider liberal-conservative realignment underway in 1960.
 
+### BOMBAY ROUND UP — Friendly Approach to All Problems
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### BOOKS AND VIEWS / Book Reviews — The Revolt in Tibet (by Frank Moraes)
+
 The Book Reviews section opens with a notice of Frank Moraes's 'The Revolt in Tibet' (Macmillan, 1960; price Rs. 7.50), summarising Moraes's narrative of the Chinese suppression of the 1959 Tibetan uprising and the flight of the Dalai Lama. The review reads the book as a useful primer on the Sino-Tibetan crisis for Indian readers and as a corrective to officially favoured accounts that played down the implications of Chinese rule for Indian security on the Himalayan frontier.
 
 - Notices Frank Moraes's 'The Revolt in Tibet' as the headline book reviewed in this issue.

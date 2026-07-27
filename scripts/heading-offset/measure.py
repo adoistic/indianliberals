@@ -48,7 +48,16 @@ SUSPECTED = HERE / "suspected.json"
 OUT = HERE / "measured.json"
 
 # Titles the prose quotes about itself. Straight and curly, single and double.
-QUOTED_RE = re.compile(r"['\"‘’“”]([^'\"‘’“”]{4,90})['\"‘’“”]")
+#
+# The lookarounds matter more than they look. Without them the apostrophe in a
+# possessive opens a quotation: "Paul Ignotus's essay 'The Hungarian
+# Revolution'" started its first candidate at Ignotus's apostrophe, giving
+# "s essay " and shifting every candidate after it, so a correctly labelled
+# section was reported as misjoined. A real opening quote is not preceded by a
+# letter, and a real closing quote is not followed by one.
+QUOTED_RE = re.compile(
+    r"(?<![A-Za-z])[\"'‘“]([^\"'’“”]{4,90})[\"'’”](?![A-Za-z])"
+)
 # "Raman Desai's opening piece argues…" / "M. A. Venkata Rao's 'De-Militarisation…'"
 POSSESSIVE_RE = re.compile(r"^([A-Z][A-Za-z.’' -]{2,40}?)[’']s\s")
 BYLINE_RE = re.compile(r"^\*By\s+(?:by\s+)?(.+?)\*\s*$")
@@ -120,23 +129,43 @@ def surname(name: str) -> str:
     return parts[-1] if parts else ""
 
 
-def identify(prose: str, headings: list[str]) -> int | None:
+def identify_all(prose: str, headings: list[str]) -> set[int]:
     """
-    Which heading does this prose block claim as its own?
+    Which headings could this prose block be claiming as its own?
 
-    Only the *first* quoted title that matches any heading counts. A summary
-    routinely mentions the article after it ("It is followed by James McAuley's
-    poem 'Innocent by Definition'"), and crediting every quotation made prose
-    blocks appear to claim two headings at once, which is what misled the first
-    version of the aligner. The self-identification comes first; everything after
-    it is a cross-reference.
+    Only the *first* quoted title that matches anything counts, because a
+    summary routinely mentions the article after it ("It is followed by James
+    McAuley's poem 'Innocent by Definition'") and crediting every quotation made
+    blocks appear to claim two headings at once.
+
+    But that one title can legitimately match more than one heading: an issue
+    may run "The Hungarian Revolution" as both a lead essay and a review, and
+    returning only the first match accused the second of being misjoined when it
+    was correctly labelled all along. So return every heading the title fits and
+    let the caller decide.
     """
     opening = prose[:400]
     for candidate in QUOTED_RE.findall(opening):
-        for index, heading in enumerate(headings):
-            if same_title(heading, candidate):
-                return index
-    return None
+        matches = {i for i, heading in enumerate(headings) if same_title(heading, candidate)}
+        if matches:
+            return matches
+    return set()
+
+
+def identify(prose: str, headings: list[str], own: int | None = None) -> int | None:
+    """
+    The single heading this prose claims, resolving ties in favour of `own`.
+
+    When the title fits several headings and one of them is the heading already
+    standing above this prose, that is the answer: the label is corroborated,
+    not contradicted.
+    """
+    matches = identify_all(prose, headings)
+    if not matches:
+        return None
+    if own is not None and own in matches:
+        return own
+    return min(matches)
 
 
 def strip_frontmatter(text: str) -> str:
@@ -184,7 +213,7 @@ def analyse(slug: str, body: str) -> dict | None:
 
         # Which heading in this file does the prose claim as its own? Exactly
         # one, or none: see identify().
-        claimed_index = identify(prose, headings)
+        claimed_index = identify(prose, headings, own=index)
 
         verdict = "undetermined"
         points_to = None

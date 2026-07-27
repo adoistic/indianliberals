@@ -114,6 +114,7 @@ The 1 August 1960 issue of The Indian Libertarian (Vol. VIII, No. 9) leads with 
 ## Essays
 
 ### EDITORIAL — The Defeat of the Central Government Employees' Strike / Provincialism in Assam
+
 The lead editorial, "The Defeat of the Central Government Employees' Strike," treats the five-day strike called by Mr. Guruswamy and other leaders as a victory for the rule of law. The paper concedes that striking employees were worse off than the general public and need relief, but draws a hard line on the legality of the strike itself: a stoppage in essential services like railways, post offices and defence is a general strike, an "act of war against the government and society at large" that the public was right to refuse to support. A second editorial note welcomes the formation of the Akali Dal's Punjabi Suba demand into a constitutional question and rebukes the Centre's coercive language policy in Assam, where the imposition of Bengali and Hindi has provoked tribal agitations. A third note opposes the Congress proposal for compulsory national service for students as a sovietising device that would militarise youth.
 
 - Strikes in essential public services are characterised as general strikes amounting to an act of war against the state.
@@ -153,7 +154,8 @@ Prof. Karot A. Joseph's "Free Enterprise — Durable Basis of a Free Society" ar
 - Diffused private property and competitive enterprise are framed as the only durable institutional guarantees of liberty.
 - The argument is illustrated by the Indian Constitution's emergency-powers and special-powers provisions.
 
-### RATIONALIST SUPPLEMENT (R. B. Lotvala, a Life Sketch by S. Ramanathan; A Message to My Fellow-Rationalists by R. B. Lotvala; poem by Richard J. Briggs)
+### Essay 5
+
 The Rationalist Supplement opens with S. Ramanathan's biographical sketch of Ranchhoddas Bhavan Lotvala (1875–), the Bombay flour-mill industrialist who used his fortune to bankroll Indian rationalism and the labour press. Born into the Gosain cult at Vallabhacharias, Lotvala escaped religious superstition through self-education in modern science and philosophy and converted his Duncan Road flour mill into a hub of progressive thought. Ramanathan recounts Lotvala's patronage of the Indian Sociologist, his support for Anthony Elenjimittam's reformist work, his founding of the Libertarian Book House and the Lotvala Trust, and the role of the Arya Bhavan as a meeting-place for the early Indian peasant movement led by Indulal K. Yagnik. The piece presents Lotvala as a self-made Rationalist whose patronage was the indispensable material condition for the survival of free-thought publishing in Bombay.
 
 - Lotvala's escape from the Vallabhacharia / Gosain cult is told as a paradigmatic case of self-rescue through modern science and philosophy.
@@ -161,8 +163,7 @@ The Rationalist Supplement opens with S. Ramanathan's biographical sketch of Ran
 - Arya Bhavan, his residence, hosted the early Indian peasant-movement meetings under Indulal K. Yagnik.
 - Anthony Elenjimittam is acknowledged as a fellow-traveller whose writing Lotvala supported.
 
-### Let Us Not Disturb the Living Voice of Life
-*By Vaman H. Pandit*
+### RATIONALIST SUPPLEMENT (R. B. Lotvala, a Life Sketch by S. Ramanathan; A Message to My Fellow-Rationalists by R. B. Lotvala; poem by Richard J. Briggs)
 
 R. B. Lotvala's own essay, "A Message to My Fellow-Rationalists," subtitled "Rationalist's Task in India — A Sisyphus Labour," diagnoses the peculiar difficulty of Indian rationalism: where European free-thought could build on a Renaissance and a scientific revolution that loosened the grip of revealed religion, the Indian rationalist must clear a field still covered by astrology, palmistry and caste-religious ritual that even the educated reproduce uncritically. Lotvala traces the genealogy of modern liberty through the English, American and French revolutions and contrasts it with the Indian record: a Renaissance gestured at, a real revolution never carried through, and a freedom that is purely political because economic and social bondage remain. He argues that the rationalist must therefore work simultaneously on superstition, caste and the economic basis of caste.
 
@@ -172,8 +173,8 @@ R. B. Lotvala's own essay, "A Message to My Fellow-Rationalists," subtitled "Rat
 - Lotvala argues that political freedom without economic and social emancipation is hollow.
 - The rationalist's task is reframed as simultaneous struggle against superstition, caste and the economic basis of caste.
 
-### Parkinson's Law with a Vengeance
-*By Waran*
+### Let Us Not Disturb the Living Voice of Life
+*By Vaman H. Pandit*
 
 Vaman H. Pandit's "Let Us Not Disturb the Living Voice of Life" defends the place of English as the link language of India against the regional-language purists. Pandit reports on the difficulty of teaching English under the new schemes that have downgraded it in school curricula, and warns that displacing English will not promote Hindi or any regional language to its functional role — it will simply impoverish public life and cut the educated Indian off from the world's scholarship.
 
@@ -181,8 +182,8 @@ Vaman H. Pandit's "Let Us Not Disturb the Living Voice of Life" defends the plac
 - Schemes that downgrade English in school curricula are reported to be failing in their stated aim.
 - Displacing English is argued to impoverish public life rather than to elevate any regional language.
 
-### DELHI LETTER — Power Politics In Full Swing
-*By From Our Correspondent*
+### Parkinson's Law with a Vengeance
+*By Waran*
 
 Waran's "Parkinson's Law with a Vengeance" presents a month-by-month table of employment in Central Government establishments (excluding railways) from February 1958 through February 1959, showing a steady rise from roughly 6.93 lakh to over 7.16 lakh employees, and traces the parallel growth of civil-administration expenditure from Rs. 35.50 crores in 1948-49 to a budgeted Rs. 2.22 crores per quarter by 1959-60. Waran argues that the government's claim to be solving the unemployment problem by absorbing labour is an unintended consequence of its socialist commitments, and that so long as the State expands administrative employment as a substitute for productive activity, costs will outrun any improvement in service.
 
@@ -191,7 +192,13 @@ Waran's "Parkinson's Law with a Vengeance" presents a month-by-month table of em
 - Waran argues that socialism's commitment to absorb labour through state employment is the structural cause of the bloat.
 - Hiring is described as growing faster than the productive functions it is supposed to deliver.
 
+### DELHI LETTER — Power Politics In Full Swing
+*By From Our Correspondent*
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### GLEANINGS FROM THE PRESS
+
 The Delhi Letter, "Power Politics in Full Swing," reports from the capital on the manoeuvring inside Congress as Pandit Nehru's grip on the party visibly loosens and the succession question begins to be discussed openly. The correspondent argues that the unifying Gandhian-Nehruvian frame that held the party together is breaking down, and treats the Assam language imbroglio (where the imposition of Assamese has alienated the Bengali-speaking population) and the Subramaniam case as twin demonstrations of the Centre's growing administrative drift. Both episodes are read as evidence that the moral capital accumulated under Gandhi and the freedom struggle is now being consumed faster than it can be replaced.
 
 - Pandit Nehru's hold over the Congress party is described as visibly weakening in the rendered pages.

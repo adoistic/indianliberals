@@ -13,9 +13,9 @@ contributors: []
 related_thinkers: []
 publication:
   language: mr
-  publisher_name: "Shetkari Prakashan"
-  publisher_id: shetkari-prakashan
-  place: Aurangabad
+  publisher_id: janashakti-vachak-chalval
+  publisher_name: जनशक्ती वाचक चळवळ, पिनाक, २४४-समर्थनगर, औरंगाबाद-४३१००१
+  place: औरंगाबाद
   year: 2010
 provenance:
   source: ccs_archive

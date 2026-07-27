@@ -98,7 +98,8 @@ Volume XI, No. 18 of The Indian Libertarian (December 15, 1963) is a 20-page per
 
 ## Essays
 
-### EDITORIAL: The Task Before President Johnson
+### Essay 1
+
 The unsigned editorial reflects on the task awaiting President Lyndon Johnson in the wake of John F. Kennedy's assassination. It frames Kennedy as the most dynamic political figure of the post-war period and treats his death as the loss of a leader who had begun to give the West a coherent answer to Communism — most visibly in the Cuban missile crisis and the test-ban treaty. The piece urges Johnson to continue this firm posture, warning that Communism remains 'an insidious force' that uses every relaxation of vigilance to extend its reach, and that the leaders of the free world must not mistake coexistence for accommodation. It closes by sketching what the editors regard as the unfinished agenda — bridging the gulf between the West and the uncommitted nations, strengthening NATO, and resisting any drift toward neutralism dressed up as peace.
 
 - Treats Kennedy's death as the loss of the figure who had begun giving the West a coherent strategy against Communism.
@@ -107,8 +108,7 @@ The unsigned editorial reflects on the task awaiting President Lyndon Johnson in
 - Argues that the free world must keep faith with the uncommitted nations rather than concede them to Communism.
 - Calls for renewed Atlantic solidarity and continued American leadership of the democratic camp.
 
-### Balance of Power And Collective Security
-*By MA Venkata Rao*
+### EDITORIAL: The Task Before President Johnson
 
 M. A. Venkata Rao surveys the world balance of power after the Cuban missile crisis and the Sino-Soviet split. He argues that the central problem of Indian policy is to face the new shape of Soviet Russia in Russian costume and a Soviet Russia that has rediscovered older national ambitions, while Communist China has begun pursuing an independent and more aggressive line of its own. The essay traces the strain inside the Communist camp, the Soviet bid to relax tension in Europe, and the implications for India of Pakistan's deepening alignment with both Western powers and China. Venkata Rao concludes that India cannot rely on non-alignment as a sufficient guarantee of security; collective security arrangements with the Western democracies, rather than ritual neutralism, are the only realistic guarantee against the encirclement he sees taking shape on the subcontinent's frontiers.
 
@@ -118,8 +118,8 @@ M. A. Venkata Rao surveys the world balance of power after the Cuban missile cri
 - Defends collective security pacts with the Western democracies as the realistic answer.
 - Notes the limits of disarmament negotiations so long as Communist ambitions remain unchecked.
 
-### Nehru's Fanciful Image
-*By M. N. Tholal*
+### Balance of Power And Collective Security
+*By MA Venkata Rao*
 
 M. N. Tholal attacks what he calls Nehru's 'fanciful image' of himself and of India, taking the Prime Minister's autobiographical and political writings as a sustained exercise in self-flattery that has been mistaken for thought. The essay argues that Nehru's rhetorical habit of describing his own emotions and intentions has stood in for serious analysis of policy, and that this habit accounts for the gap between India's professed ideals and its actual condition. Tholal returns repeatedly to Nehru's handling of China and to the post-1962 disenchantment, treating the border defeat as the moment when the image and the country finally separated in public view. The piece is polemical rather than systematic, but its target is consistent: a politics of personality and gesture that, in the author's view, has substituted itself for a politics of results.
 
@@ -129,8 +129,8 @@ M. N. Tholal attacks what he calls Nehru's 'fanciful image' of himself and of In
 - Argues that Nehru's rhetorical habit has insulated him from criticism inside the Congress.
 - Connects the cult of the leader to the larger drift toward bureaucratic socialism.
 
-### ECONOMIC SUPPLEMENT
-*By G N Lawande*
+### Nehru's Fanciful Image
+*By M. N. Tholal*
 
 Opening the four-page Economic Supplement, Prof. G. N. Lawande lays out a textbook case for capital formation as the precondition of growth in underdeveloped countries. He argues, in the rendered pages, that growth rests on population dynamics, the supply of technology, and above all on the availability of capital; that the marginal productivity of capital and the rate of saving therefore become the strategic variables of any plan; and that, in an economy of scarce skills and low wage incomes, voluntary saving must be supplemented by efficient mobilisation of human capital through education and training. The piece is a defence of capital-formation theory against the Keynesian view that aggregate demand alone can sustain growth, and it argues that Indian planners have under-weighted productivity and the savings constraint in favour of consumption stimulus.
 
@@ -140,8 +140,8 @@ Opening the four-page Economic Supplement, Prof. G. N. Lawande lays out a textbo
 - Treats the rate of saving as the strategic variable of any serious plan.
 - Implies that Indian planning has neglected productivity in favour of consumption stimulus.
 
-### A National Minimum
-*By J. M. Lobo Prabhu*
+### ECONOMIC SUPPLEMENT
+*By G N Lawande*
 
 The Economic Supplement's second piece, by Phiroze J. Shroff, is a direct rebuttal of the recurring demand to nationalise India's commercial banks. He argues that the cry for nationalisation rests on a misreading of how Indian banks actually allocate credit, and that taking the banks under state ownership would lodge the supply of working capital inside an administrative machine already overburdened with priorities. The essay warns that a nationalised banking system would become an instrument of political patronage rather than of productive credit, would destroy the discipline that depositors impose on bank managements, and would weaken the parliamentary scrutiny that private banks must currently submit to. For Shroff, bank nationalisation is therefore both an economic mistake and a constitutional one — a transfer of one more sphere of decision from citizens and shareholders to ministers and officials.
 
@@ -151,8 +151,8 @@ The Economic Supplement's second piece, by Phiroze J. Shroff, is a direct rebutt
 - Reads nationalisation as a constitutional as well as an economic loss.
 - Connects the proposal to the wider drift toward 'democratic socialism' he opposes.
 
-### DELHI LETTER: Ganging up Against Sucheta Kripalani
-*By From Our Correspondent*
+### A National Minimum
+*By J. M. Lobo Prabhu*
 
 J. M. Lobo Prabhu's 'A National Minimum' asks what minimum standard of life the Indian state can credibly promise its citizens, and finds the answer in the Plans wanting. He treats T. T. Krishnamachari's proposals as a symptom of a planning machinery that prefers grand redistributive announcements to the productivity gains that would actually raise the floor. Prabhu argues that a genuine national minimum cannot be legislated by ministers but must rest on enlarged output, on opening sheltered sectors to competition, and on letting the cultivator and the small employer keep enough of their earnings to invest. The piece reads the central planners' rhetoric of minimum standards as an alibi for continuing to direct resources toward priorities that have failed to lift the peasant.
 
@@ -162,8 +162,8 @@ J. M. Lobo Prabhu's 'A National Minimum' asks what minimum standard of life the 
 - Calls for opening sheltered sectors to competition rather than enlarging the public sector.
 - Sees ministerial minimum-standard rhetoric as cover for failed central allocation.
 
-### Workman Quarrels with his tools
-*By C. Rajagopalachari*
+### DELHI LETTER: Ganging up Against Sucheta Kripalani
+*By From Our Correspondent*
 
 The 'Delhi Letter' reports on the moves underway to dislodge Sucheta Kripalani from the chief ministership of Uttar Pradesh and to pre-empt the formation of a stable Congress government in the state. The correspondent traces the alliances among aspirants to her job, the role of the Congress high command in encouraging the manoeuvre, and the wider implication that intra-party rivalry has become the substitute for policy in the country's largest state. The piece treats the affair as evidence of the Congress's failure to settle the line between central direction and state autonomy, and as one more reason that the party's claim to monopolise government is wearing thin. A short companion item, 'Flight from Communism', records the recent figures for refugees from East to West Germany and quotes Dr. Ludwig Erhard on the meaning of the Berlin Wall.
 
@@ -173,7 +173,7 @@ The 'Delhi Letter' reports on the moves underway to dislodge Sucheta Kripalani f
 - Quotes the East-to-West refugee figures as the standing rebuttal to East German legitimacy claims.
 - Cites Erhard on the Berlin Wall as evidence that the Communist bloc is held together by force.
 
-### Book Review
+### Workman Quarrels with his tools
 *By C. Rajagopalachari*
 
 C. Rajagopalachari's 'Workman Quarrels With His Tools' is a short, sharp attack on proposals to amend the Fundamental Rights chapter of the Indian Constitution in order to enlarge the state's reach over private property and enterprise. Rajaji treats those amendments as the workman blaming his tools rather than his own want of skill, and argues that the Constitution's framers gave the Republic adequate instruments and that the failures laid at the chapter's door belong elsewhere — to a Government that has substituted the rhetoric of socialism for the work of administration. The piece is a model of his polemical style: short paragraphs, plain English, and a single image — the bad workman — carried through the argument.
@@ -184,7 +184,9 @@ C. Rajagopalachari's 'Workman Quarrels With His Tools' is a short, sharp attack 
 - Treats the rhetoric of socialism as a substitute for governance, not a programme.
 - Calls on liberals to challenge any reading of the Constitution that subordinates property to the state.
 
-### The Mind of the Nation
+### Book Review
+*By C. Rajagopalachari*
+
 The Book Review section carries a notice of the Report of the Committee on the Welfare of Women, Children, and the Family, with publication details. The reviewer summarises the report's diagnosis of the gaps between welfare promises and welfare delivery and notes its recommendations on early childhood, family allowances, and women's employment. The notice is brief and descriptive rather than evaluative.
 
 - Notice of an official report on the welfare of women, children, and the family.
@@ -193,7 +195,8 @@ The Book Review section carries a notice of the Report of the Committee on the W
 - Notes the proposed approach to women's employment.
 - Brief and descriptive rather than evaluative.
 
-### News and Views
+### The Mind of the Nation
+
 'The Mind of the Nation' reprints, from Freedom First, R. Desai's note 'Foretaste of Democratic Socialism', which protests the Government of India's ban on the sale and distribution of George N. Patterson's 'Peking Vs. Delhi' on the ground that the book contains prejudicial reports. Desai argues that this is a precedent that no liberal can let pass: a government that finds prejudice in expert analysis has already conceded the case for censorship. The piece treats Mr. Nehru and Mr. Nanda as the responsible figures and warns that the line between protecting state security and silencing dissenting views has been quietly crossed.
 
 - Reads the ban on Patterson's 'Peking Vs. Delhi' as a precedent for political censorship.
@@ -202,7 +205,8 @@ The Book Review section carries a notice of the Report of the Committee on the W
 - Calls 'democratic socialism' a euphemism for narrowing the field of permissible opinion.
 - Reprints from Freedom First, signalling the wider liberal protest.
 
-### Dear Editor
+### News and Views
+
 'News and Views' carries three items. The first records the modernisation of the Indian Navy with jet aircraft and submarines and the conversion of the Dabolim airfield in Goa into a naval air station. The second reports that pro-Peking Communists are planning to set up a 'new Communist International' to capture parties already loyal to Khrushchev. The third quotes the West German Chancellor, Dr. Ludwig Erhard, on his opposition to American troop withdrawals from Europe, his characterisation of the U.S. presence as a security and a safeguard, and the views of Atal Bihari Vajpayee that Congress rule has failed to defend the country against Chinese aggression. A short De Gaulle item on French monarchism and a Peking note close the section.
 
 - Reports the modernisation of the Indian Navy and the conversion of Dabolim into a naval air station.
@@ -211,7 +215,12 @@ The Book Review section carries a notice of the Report of the Committee on the W
 - Reports Atal Bihari Vajpayee's charge that Congress rule has failed against Chinese aggression.
 - Closes with shorter notes on De Gaulle and Peking's reaction to Kennedy's death.
 
+### Dear Editor
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### Essay 12
+
 A single letter from Md. Athaur Rahman, Honorary General Secretary of the Blooming Literary Society in Madras, dated 11-11-1963, thanks the editors for The Indian Libertarian, calls it an informative, educative, and instructive magazine that occupies a unique and honoured position in the country's intellectual reading, and wishes it a long life.
 
 - Letter of appreciation from Md. Athaur Rahman, Madras.
