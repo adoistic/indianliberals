@@ -248,7 +248,7 @@ import { COLLECTIONS } from '../lib/collections';
     </form>
   </section>
 
-  <style>
+  <style is:global>
     [hidden] { display: none !important; }
 
     .lede { max-width: 44rem; }
@@ -310,7 +310,6 @@ import { COLLECTIONS } from '../lib/collections';
     details.groupcard > summary .count { font-family: var(--sans); font-size: .8rem; color: var(--body); }
     details.groupcard > .inner { padding: 0 1.5rem 1.5rem; }
 
-    .req { font-weight: 400; font-size: .75rem; color: var(--stop); letter-spacing: .04em; text-transform: uppercase; }
     .check { display: flex; align-items: center; gap: .5rem; }
     .check input { width: auto; }
     .checks { display: grid; gap: .35rem .9rem; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); }
@@ -337,6 +336,7 @@ import { COLLECTIONS } from '../lib/collections';
 
   <script>
     import { collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import { GROUP_ORDER, groupLabel, groupNote } from '../lib/groups';
     import {
       buildPrompt,
       parseModelOutput,
@@ -390,6 +390,27 @@ import { COLLECTIONS } from '../lib/collections';
     let coverUrl = '';
     let slugEdited = false;
     let counter = 0;
+    /** Set once the entry has been written, so leaving afterwards is not a loss. */
+    let saved = false;
+
+    // Somebody who has spent twenty minutes typing a summary and then clicks
+    // "Archive" in the navigation should be asked, not silently emptied.
+    window.addEventListener('beforeunload', (event) => {
+      if (saved) return;
+      const started =
+        heldFile !== null ||
+        bodyText.trim() !== '' ||
+        Object.keys(record).some((key) => {
+          const value = record[key];
+          if (value === null || value === undefined || value === '') return false;
+          if (Array.isArray(value)) return value.length > 0;
+          if (typeof value === 'object') return Object.keys(value as object).length > 0;
+          return true;
+        });
+      if (!started) return;
+      event.preventDefault();
+      event.returnValue = '';
+    });
 
     const nextId = () => `f${(counter += 1)}`;
 
@@ -537,7 +558,7 @@ import { COLLECTIONS } from '../lib/collections';
 
     function labelFor(field: Field, id: string): HTMLLabelElement {
       const label = el('label', { for: id }, field.label);
-      if (field.required) add(label, ' ', el('span', { class: 'req' }, 'needed'));
+      if (field.required) add(label, ' ', el('span', { class: 'req' }, 'required'));
       return label;
     }
 
@@ -856,25 +877,6 @@ import { COLLECTIONS } from '../lib/collections';
 
     // ── Building the whole form ────────────────────────────────────────
 
-    const GROUP_ORDER = ['essential', 'publication', 'people', 'classification', 'files', 'advanced'] as const;
-
-    const GROUP_LABEL: Record<string, string> = {
-      essential: 'The essentials',
-      publication: 'Publication details',
-      people: 'People',
-      classification: 'Themes and classification',
-      files: 'Files, pictures and rights',
-      advanced: 'Everything else',
-    };
-
-    const GROUP_SAYS: Record<string, string> = {
-      publication: 'Who printed it, where, and how long it is.',
-      people: 'Everyone involved, and everyone the text talks about.',
-      classification: 'How the entry is filed and found.',
-      files: 'The scan, its pictures, and what the archive may do with it.',
-      advanced: 'Machine records, translations and workflow flags. Most of this can stay empty.',
-    };
-
     function buildForm(): void {
       const holder = document.getElementById('fields');
       if (!holder || !chosen) return;
@@ -888,18 +890,18 @@ import { COLLECTIONS } from '../lib/collections';
 
         if (group === 'essential') {
           const card = el('div', { class: 'card groupcard' });
-          add(card, el('h3', {}, GROUP_LABEL[group]), el('hr', { class: 'rule' }));
+          add(card, el('h3', {}, groupLabel(group)), el('hr', { class: 'rule' }));
           for (const field of fields) add(card, renderField(field, field.name.split('.')));
           add(holder, card);
           continue;
         }
 
         const card = el('details', { class: 'card groupcard' });
-        const summary = el('summary', {}, GROUP_LABEL[group]);
+        const summary = el('summary', {}, groupLabel(group));
         add(summary, ' ', el('span', { class: 'count' }, `${fields.length} fields`));
         add(card, summary);
         const inner = el('div', { class: 'inner' });
-        if (GROUP_SAYS[group]) add(inner, el('p', { class: 'hint', style: 'margin-bottom:1rem' }, GROUP_SAYS[group]));
+        if (groupNote(group)) add(inner, el('p', { class: 'hint', style: 'margin-bottom:1rem' }, groupNote(group)));
         for (const field of fields) add(inner, renderField(field, field.name.split('.')));
         add(card, inner);
         add(holder, card);
@@ -1444,6 +1446,7 @@ import { COLLECTIONS } from '../lib/collections';
           return;
         }
 
+        saved = true;
         const box = el('div', { class: 'notice' });
         add(box, el('p', { style: 'margin:0 0 .5rem' }, el('strong', {}, 'Saved. ')));
         add(

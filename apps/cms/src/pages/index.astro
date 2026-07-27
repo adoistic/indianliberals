@@ -89,9 +89,14 @@ const jobs = [
     .holdings { margin-top: 3rem; }
     .small { font-size: 1.05rem; margin-bottom: 1rem; }
     .counts { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
+  </style>
+
+  <!-- The tiles below are written in after the count arrives, so scoped rules
+       would never reach them. -->
+  <style is:global>
     .count { background: var(--tile); border-radius: 12px; padding: .85rem 1rem; }
     .count .n { font-family: var(--serif); font-size: 1.5rem; color: var(--brown); line-height: 1; font-variant-numeric: tabular-nums; }
-    .count .k { font-size: .78rem; margin-top: .25rem; }
+    .count .k { font-size: .78rem; margin-top: .25rem; color: var(--body); }
   </style>
 
   <script>

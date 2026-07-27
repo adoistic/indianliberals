@@ -45,6 +45,9 @@ import Shell from '../layouts/Shell.astro';
               and we will write one for you.
             </p>
           </div>
+          <div id="changed" class="changed">
+            <p class="none">Nothing has changed yet.</p>
+          </div>
           <button class="btn btn-primary" id="savebtn" type="button" style="width:100%">
             Save to the archive
           </button>
@@ -101,7 +104,11 @@ import Shell from '../layouts/Shell.astro';
     .group > summary .n { font-size: .8rem; color: var(--body); font-family: var(--sans); margin-left: .5rem; }
     .groupbody { margin-top: 1rem; }
 
-    .req { color: var(--stop); }
+    .changed { margin-bottom: .9rem; font-size: .88rem; }
+    .changed .none { margin: 0; color: var(--body); opacity: .75; }
+    .changed .some { margin: 0 0 .35rem; font-weight: 600; color: var(--brown); }
+    .changed ul { margin: 0; padding-left: 1.05rem; color: var(--body); }
+    .changed li { margin: .12rem 0; }
     .tick { display: flex; align-items: center; gap: .6rem; }
     .tick input { width: auto; }
     .tick label { margin: 0; font-weight: 400; }
@@ -126,6 +133,7 @@ import Shell from '../layouts/Shell.astro';
     import { watchUser, roleFor } from '../lib/firebase';
     import { canPublish, type Role } from '../lib/roles';
     import { collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import { GROUPS } from '../lib/groups';
     import { toMarkdownFile } from '../lib/ingest';
     import type { User } from 'firebase/auth';
 
@@ -508,12 +516,103 @@ import Shell from '../layouts/Shell.astro';
     }
 
     let pending = 0;
+    // ── What has changed since you opened it ───────────────────────────
+    //
+    // An archivist who has been scrolling for ten minutes cannot be expected to
+    // remember whether they actually touched anything. So the page says. It
+    // also means the Save button cannot write an empty commit, and that
+    // closing the tab on unsaved work asks first.
+
+    let openedData: Record<string, unknown> | null = null;
+    let openedBody = '';
+
+    /**
+     * Compare two values the way a person would.
+     *
+     * A field that held an empty string and now holds nothing at all has not
+     * been changed by anybody, however differently the two look in JSON. The
+     * same goes for an empty list and an absent one. Without this, clearing an
+     * already-blank box reports a change and offers to save it.
+     */
+    function sameValue(a: unknown, b: unknown): boolean {
+      const blank = (value: unknown): boolean =>
+        value === undefined ||
+        value === null ||
+        value === '' ||
+        (Array.isArray(value) && value.length === 0) ||
+        (typeof value === 'object' && !Array.isArray(value) && Object.keys(value as object).length === 0);
+      if (blank(a) && blank(b)) return true;
+      return JSON.stringify(a) === JSON.stringify(b);
+    }
+
+    /** Field labels whose values differ from the ones the file was opened with. */
+    function changedFields(): string[] {
+      if (!collection || openedData === null) return [];
+      const opened = openedData;
+      const names: string[] = [];
+      const walk = (fields: Field[], prefix: string): void => {
+        for (const field of fields) {
+          const path = prefix ? `${prefix}.${field.name}` : field.name;
+          // A group whose parts are listed separately does not also name
+          // itself, or one edit would read as two changes.
+          const descends = Boolean(field.fields) && field.kind === 'object';
+          if (descends) walk(field.fields!, path);
+          else if (!sameValue(getPath(data, path), getPath(opened, path))) names.push(field.label);
+        }
+      };
+      walk(collection.fields, '');
+      return names;
+    }
+
+    function showChanges(): boolean {
+      const box = document.getElementById('changed');
+      if (!box || openedData === null) return false;
+
+      const names = changedFields();
+      const bodyMoved = bodyInput.value !== openedBody;
+      const touched = names.length > 0 || bodyMoved;
+
+      if (!touched) {
+        box.innerHTML = '<p class="none">Nothing has changed yet.</p>';
+      } else {
+        const all = names.slice();
+        if (bodyMoved) all.push(collection?.bodyLabel ?? 'The written part');
+        const shown = all.slice(0, 6);
+        const rest = all.length - shown.length;
+        box.innerHTML =
+          `<p class="some">${all.length === 1 ? 'One change' : `${all.length} changes`} not yet saved</p>` +
+          `<ul>${shown.map((name) => `<li>${esc(name)}</li>`).join('')}` +
+          `${rest > 0 ? `<li>and ${rest} more</li>` : ''}</ul>`;
+      }
+
+      // Nothing to save is not an error, it is just nothing to save.
+      if (canPublish(role)) saveBtn.disabled = !touched;
+      return touched;
+    }
+
+    /** Remember the state the file arrived in, so changes can be measured against it. */
+    function markOpened(): void {
+      openedData = JSON.parse(JSON.stringify(data));
+      openedBody = bodyInput.value;
+      showChanges();
+    }
+
+    window.addEventListener('beforeunload', (event) => {
+      if (openedData === null) return;
+      if (!changedFields().length && bodyInput.value === openedBody) return;
+      // Chrome still wants returnValue set; preventDefault alone is enough
+      // everywhere else, and setting both is harmless.
+      event.preventDefault();
+      event.returnValue = '';
+    });
+
     function refresh(): void {
       window.clearTimeout(pending);
       pending = window.setTimeout(() => {
         const file = buildFile();
         previewBox.textContent = file;
         dashWarn.hidden = !/[—–]/.test(file);
+        showChanges();
         const heading = collection ? getPath(data, collection.titleField) : null;
         if (typeof heading === 'string' && heading.trim()) {
           document.getElementById('title')!.textContent = heading;
@@ -525,7 +624,7 @@ import Shell from '../layouts/Shell.astro';
 
     function labelHtml(field: Field, id?: string): string {
       const star = field.required
-        ? ' <span class="req" title="Every entry needs this one">(needed)</span>'
+        ? ' <span class="req" title="This one cannot be left empty">required</span>'
         : '';
       const forPart = id ? ` for="${esc(id)}"` : '';
       return `<label${forPart}>${esc(field.label)}${star}</label>`;
@@ -720,27 +819,6 @@ import Shell from '../layouts/Shell.astro';
     }
 
     // ── Groups ─────────────────────────────────────────────────────────
-
-    const GROUPS: { id: Field['group']; label: string; note: string }[] = [
-      { id: 'essential', label: 'The details that matter', note: '' },
-      { id: 'publication', label: 'Publication', note: 'Who printed it, where, and when.' },
-      { id: 'people', label: 'People and contents', note: 'Who is in it, and what is inside it.' },
-      {
-        id: 'classification',
-        label: 'Subjects and filing',
-        note: 'The tags that decide where this turns up on the site.',
-      },
-      {
-        id: 'files',
-        label: 'Files and rights',
-        note: 'The scan, the pictures, and the copyright position.',
-      },
-      {
-        id: 'advanced',
-        label: 'Machine records and settings',
-        note: 'Written by the extraction scripts. There is rarely a reason to change any of it.',
-      },
-    ];
 
     function buildForm(def: CollectionDef): void {
       const parts: string[] = [];
@@ -1028,11 +1106,13 @@ import Shell from '../layouts/Shell.astro';
           : '';
         say('Saved. The site rebuilds in a few minutes and readers see it then.', 'good', link);
         summaryInput.value = '';
+        markOpened();
         await refreshSha();
       } catch (error) {
         say(`Could not save: ${(error as Error).message}`, 'bad');
       } finally {
-        saveBtn.disabled = !canPublish(role);
+        if (!canPublish(role)) saveBtn.disabled = true;
+        else showChanges();
       }
     }
 
@@ -1119,6 +1199,7 @@ import Shell from '../layouts/Shell.astro';
 
       stage.hidden = true;
       editor.hidden = false;
+      markOpened();
       refresh();
       void fillDatalists();
     });

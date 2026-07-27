@@ -159,3 +159,13 @@ pre { background: var(--tile); padding: 1rem; border-radius: 10px; overflow-x: a
 .stack > * + * { margin-top: 1rem; }
 .row { display: flex; gap: 0.75rem; align-items: center; }
 .grow { flex: 1; min-width: 0; }
+
+/* The marker beside a field that cannot be left empty. Both forms draw their
+   labels at runtime, so this lives here rather than in either page. */
+.req {
+  font-weight: 400;
+  font-size: 0.75rem;
+  color: var(--stop);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
