@@ -238,6 +238,31 @@ export async function buildThinkers() {
     .sort((a, b) => (a.name.sort ?? a.name.canonical).localeCompare(b.name.sort ?? b.name.canonical));
 }
 
+export async function buildOrganisations() {
+  const orgs = await getCollection('organisations', notDraftEn);
+  return orgs
+    .map((o) => {
+      const d = o.data as AnyData;
+      return {
+        id: o.id,
+        name: {
+          canonical: d.name.canonical,
+          ...(d.name.sort ? { sort: d.name.sort } : {}),
+          ...(d.name.also_known_as?.length ? { also_known_as: d.name.also_known_as } : {}),
+        },
+        type: d.type,
+        founded_year: d.founded_year ?? null,
+        dissolved_year: d.dissolved_year ?? null,
+        ideology: d.ideology ?? [],
+        description: d.description ?? null,
+        url: urlFor('organisations', o.id),
+        md_url: mdUrlFor('organisations', o.id),
+        snippet: snippet(o.body, 300),
+      };
+    })
+    .sort((a, b) => (a.name.sort ?? a.name.canonical).localeCompare(b.name.sort ?? b.name.canonical));
+}
+
 // ─── Search index (all content kinds, tier-flagged) ────────────────────
 
 export interface SearchDoc {
@@ -438,6 +463,7 @@ export async function buildMeta(siteOrigin: string) {
       '/api/works.json',
       '/api/works/<id>.json',
       '/api/thinkers.json',
+      '/api/organisations.json',
       '/api/search-index.json',
       '/api/cross-links.json',
     ],
