@@ -204,9 +204,17 @@ import { COLLECTIONS } from '../lib/collections';
           headers: { Authorization: `Bearer ${token}` },
         });
         const data = (await response.json()) as { entries?: Entry[]; error?: string };
-        if (!response.ok) throw new Error(data.error ?? `The server said ${response.status}.`);
+        // A collection nobody has filed anything under has no folder in the
+        // archive at all, so asking for it comes back as a miss. That is not
+        // an error worth showing anybody: it is simply empty.
+        const missing = response.status === 404 || /\b404\b/.test(data.error ?? '');
+        if (!response.ok && !missing) {
+          throw new Error(data.error ?? `The server said ${response.status}.`);
+        }
 
-        const entries = (data.entries ?? []).sort((a, b) => a.slug.localeCompare(b.slug));
+        const entries = (missing ? [] : (data.entries ?? [])).sort((a, b) =>
+          a.slug.localeCompare(b.slug),
+        );
         cache.set(id, entries);
         if (current === id) render();
       } catch (error) {

@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run lint:dashes && astro build",
+    "build": "npm run lint:dashes && npm test && astro build",
     "preview": "wrangler pages dev dist",
     "deploy": "npm run build && wrangler pages deploy dist --project-name thothica-cms --branch main",
     "lint:dashes": "node scripts/lint-dashes.mjs",
-    "check": "astro check"
+    "check": "astro check",
+    "test": "node scripts/test-yaml-quoting.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.6",

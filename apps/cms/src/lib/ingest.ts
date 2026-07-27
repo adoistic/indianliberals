@@ -293,8 +293,16 @@ function yamlValue(value: unknown, indent: string): string {
     if (value.includes('\n')) {
       return `|\n${value.split('\n').map((l) => `${indent}  ${l}`).join('\n')}`;
     }
-    // Quote anything YAML might read as something other than a string.
-    const risky = /^[\s>|&*!%@`{[]|:\s|#|^-|^(yes|no|true|false|null|on|off)$/i.test(value);
+    // Quote anything YAML might read as something other than a plain string.
+    //
+    // The leading class includes both quote characters, which is not obvious
+    // and was missing at first. Several works carry a title held inside its own
+    // quotation marks, as `'"A Total War on Indian Poverty"'`. Emitted
+    // unquoted, YAML reads the outer marks as the string delimiters and the
+    // marks vanish from the record on the next save. Silent, and exactly the
+    // kind of loss nobody notices until the archive disagrees with the page.
+    const risky =
+      /^[\s>|&*!%@`{}[\],'"]|:\s|\s#|#\s|^-|^(yes|no|true|false|null|on|off|~)$/i.test(value);
     return risky || value === '' ? JSON.stringify(value) : value;
   }
   if (Array.isArray(value)) {

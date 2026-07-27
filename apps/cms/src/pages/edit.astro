@@ -201,8 +201,36 @@ import Shell from '../layouts/Shell.astro';
       return folded ? out.join(' ').replace(/\s+/g, ' ').trim() : out.join('\n');
     }
 
+    /**
+     * A plain or quoted value may run on over several more-indented lines,
+     * which is how the scripts that wrote most of this archive wrap long
+     * sentences. Put it back together the way YAML would: one space per line
+     * break, and a real line break wherever the file left a blank line.
+     */
+    function foldPlain(parts: string[]): string {
+      let text = '';
+      let breaks = 0;
+      for (let i = 0; i < parts.length; i++) {
+        if (parts[i] === '') {
+          if (i) breaks += 1;
+          continue;
+        }
+        text = i === 0 ? parts[i] : text + (breaks ? '\n'.repeat(breaks) : ' ') + parts[i];
+        breaks = 0;
+      }
+      return text;
+    }
+
+    function runOn(rows: Row[], first: string, from: number, to: number): unknown {
+      const parts = [first];
+      for (let k = from; k < to; k++) parts.push(rows[k].blank ? '' : rows[k].text);
+      return scalar(foldPlain(parts));
+    }
+
     const BLOCK = /^[|>][-+]?\d*$/;
     const KEYLINE = /^[^:\s][^:]*:(\s|$)/;
+    /** Anything opening with a quote or a bracket is a value, never a key. */
+    const QUOTED = /^['"[{]/;
 
     function endOfBlock(rows: Row[], start: number, to: number, indent: number): number {
       let end = start;
@@ -274,8 +302,7 @@ import Shell from '../layouts/Shell.astro';
         } else if (BLOCK.test(rest)) {
           out[key] = blockScalar(rows, i + 1, end, rest.startsWith('>'));
         } else {
-          out[key] = scalar(rest);
-          for (let k = i + 1; k < end; k++) if (!rows[k].blank) kept.push(rows[k].raw);
+          out[key] = runOn(rows, rest, i + 1, end);
         }
         i = end;
       }
@@ -310,7 +337,7 @@ import Shell from '../layouts/Shell.astro';
           out.push(end > i + 1 ? parseBlock(rows, i + 1, end, kept) : null);
         } else if (BLOCK.test(rest)) {
           out.push(blockScalar(rows, i + 1, end, rest.startsWith('>')));
-        } else if (KEYLINE.test(rest)) {
+        } else if (KEYLINE.test(rest) && !QUOTED.test(rest)) {
           // A row of a list of objects. Its first key sits on the dash line, so
           // put that key back on a line of its own and read the row as a map.
           let child = indent + 2;
@@ -321,8 +348,7 @@ import Shell from '../layouts/Shell.astro';
           const sub = [head, ...rows.slice(i + 1, end)];
           out.push(parseMap(sub, 0, sub.length, child, kept));
         } else {
-          out.push(scalar(rest));
-          for (let k = i + 1; k < end; k++) if (!rows[k].blank) kept.push(rows[k].raw);
+          out.push(runOn(rows, rest, i + 1, end));
         }
         i = end;
       }
@@ -334,9 +360,10 @@ import Shell from '../layouts/Shell.astro';
       while (i < to && rows[i].blank) i += 1;
       if (i >= to) return null;
       const indent = rows[i].indent;
-      return isItem(rows[i])
-        ? parseSeq(rows, i, to, indent, kept)
-        : parseMap(rows, i, to, indent, kept);
+      if (isItem(rows[i])) return parseSeq(rows, i, to, indent, kept);
+      // A value is allowed to begin on the line after the key that owns it.
+      if (rows[i].text.indexOf(':') <= 0) return runOn(rows, rows[i].text, i + 1, to);
+      return parseMap(rows, i, to, indent, kept);
     }
 
     interface Split {
