@@ -103,7 +103,7 @@ M. A. Venkata Rao examines the character of the 'Red Regime' in China, tracing h
 - Positions liberal democracy as the contrasting alternative
 
 ### Complacency With A Vengeance
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal's 'Complacency With A Vengeance' is a polemic against what he sees as Indian leaders' — and Nehru's — complacency in defence and foreign affairs, written in the shadow of the China debacle. He charges that official self-assurance and slogans have substituted for serious preparedness.
 
@@ -120,7 +120,7 @@ The Delhi Letter reports on the Prime Minister framing the issues before Parliam
 - Touches on personal taxation and fiscal questions
 
 ### India's Strategy In Sino-Indian Conflict
-*By By Indira Avasty*
+*By Indira Avasty*
 
 Indira Avasty's short piece sets out a strategy for India in the Sino-Indian conflict, weighing alliances, non-alignment and the question of foreign military aid in defending against further Chinese pressure.
 

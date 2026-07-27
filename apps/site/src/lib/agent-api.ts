@@ -111,15 +111,80 @@ export async function buildWorkCard(w: CollectionEntry<'primary-works'>) {
   };
 }
 
+/** Pull the bullets out of a `## <name>` section of a work's markdown body. */
+function bodyBullets(body: string, name: string): string[] {
+  // `$(?![\s\S])` for end-of-input, not `$`. Under the `m` flag `$` matches the
+  // end of the *first* line, so the lazy capture stopped immediately and every
+  // section came back empty.
+  const section = new RegExp(
+    `^##\\s+${name}\\s*$([\\s\\S]*?)(?=^##\\s|$(?![\\s\\S]))`,
+    'm',
+  ).exec(body ?? '');
+  if (!section) return [];
+  return section[1]
+    .split('\n')
+    .map((line) => line.trim())
+    .filter((line) => line.startsWith('- '))
+    .map((line) => line.slice(2).trim())
+    .filter(Boolean);
+}
+
+/**
+ * The per-article summaries under a multi-article work's `## Essays` region.
+ *
+ * These exist for 780 works and were, until now, unreachable through any
+ * documented tool: `read_clean_content` refuses Tier B and `get_work_metadata`
+ * never carried them, while the site served them all along at the `md_url` this
+ * same response hands out. So an agent was told the text did not exist and
+ * given its address in the same breath. Surfacing them here closes that, and
+ * the field name says plainly what they are, because they are summary prose
+ * written by our extraction pipeline and not transcribed source text.
+ */
+function articleSummaries(body: string): { heading: string; byline: string | null; summary: string }[] {
+  const out: { heading: string; byline: string | null; summary: string }[] = [];
+  const chunks = (body ?? '').split(/^### /m).slice(1);
+  for (const chunk of chunks) {
+    const lines = chunk.split('\n');
+    const heading = (lines[0] ?? '').trim();
+    if (!heading) continue;
+    let byline: string | null = null;
+    let start = 1;
+    for (let i = 1; i < Math.min(4, lines.length); i += 1) {
+      const match = /^\*By\s+(.+?)\*\s*$/.exec(lines[i].trim());
+      if (match) {
+        byline = match[1].trim();
+        start = i + 1;
+        break;
+      }
+      if (lines[i].trim()) break;
+    }
+    const summary = lines
+      .slice(start)
+      .filter((line) => !line.trim().startsWith('- '))
+      .join(' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    out.push({ heading, byline, summary });
+  }
+  return out;
+}
+
 export async function buildWorkDetail(w: CollectionEntry<'primary-works'>) {
   const d = w.data as AnyData;
   const card = await buildWorkCard(w);
+  const body = w.body ?? '';
+  // The digests live in the markdown body rather than frontmatter for most
+  // works, which left `key_points` empty in all but 121 of 1,531 API responses.
   const keyPoints: string[] =
-    (d.ai_key_points?.length ? d.ai_key_points : d.key_points) ?? [];
+    (d.ai_key_points?.length ? d.ai_key_points : d.key_points)?.length
+      ? (d.ai_key_points?.length ? d.ai_key_points : d.key_points)
+      : bodyBullets(body, 'Key points');
+  const articles = articleSummaries(body);
   return {
     ...card,
     summary: d.summary || d.ai_summary || null,
     key_points: keyPoints,
+    ...(articles.length ? { article_summaries: articles } : {}),
     ...(d.description ? { description: d.description } : {}),
     publication: d.publication ?? {},
     ...(d.physical?.pages_total ? { pages_total: d.physical.pages_total } : {}),
@@ -188,6 +253,22 @@ export interface SearchDoc {
   themes: string[];
   year: number | null;
   text: string;
+  /**
+   * Whether this document actually carries quotable prose.
+   *
+   * Tier A promises paragraph-stable citations, but 436 of 695 thinker profiles
+   * and 49 of 52 organisation pages are frontmatter only: the rendered page is a
+   * block of JSON with no paragraphs, so there is no `#p-xxxxxx` anchor to cite
+   * and never was. Tier is about what an agent MAY do with a document; this is
+   * about whether the document gives it anything to do it with. An agent should
+   * not promise a paragraph citation for a document where `citable` is false.
+   */
+  citable: boolean;
+}
+
+/** A document is citable when it has body prose for the anchor plugin to id. */
+function hasProse(body: string | undefined): boolean {
+  return (body ?? '').replace(/```[\s\S]*?```/g, '').trim().length > 0;
 }
 
 export async function buildSearchIndex(): Promise<SearchDoc[]> {
@@ -209,6 +290,7 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
       themes: d.themes ?? [],
       year: d.birth_year ?? null,
       text: snippet(t.body),
+      citable: hasProse(t.body),
     });
   }
 
@@ -228,6 +310,7 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
       themes: d.ideology ?? [],
       year: d.founded_year ?? null,
       text: snippet([d.description ?? '', o.body ?? ''].join(' ')),
+      citable: hasProse(o.body),
     });
   }
 
@@ -247,6 +330,7 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
       themes: d.themes ?? [],
       year: d.pubDate ? new Date(d.pubDate).getFullYear() : null,
       text: snippet(m.body),
+      citable: hasProse(m.body),
     });
   }
 
@@ -266,6 +350,7 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
       themes: d.themes ?? [],
       year: d.pubDate ? new Date(d.pubDate).getFullYear() : null,
       text: snippet(o.body),
+      citable: hasProse(o.body),
     });
   }
 
@@ -290,6 +375,10 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
         tier === 'A'
           ? snippet([d.description ?? '', w.body ?? ''].join(' '))
           : snippet(d.summary || d.ai_summary || d.description),
+      // Only the interview transcripts are Tier A here, and only those carry
+      // quotable prose. A Tier B work's body holds our summaries, not source
+      // text, so it is never paragraph-citable however much of it there is.
+      citable: tier === 'A' && hasProse(w.body),
     });
   }
 
@@ -309,6 +398,7 @@ export async function buildSearchIndex(): Promise<SearchDoc[]> {
       themes: d.themes ?? [],
       year: d.pubDate ? new Date(d.pubDate).getFullYear() : null,
       text: snippet(d.ai_summary || p.body),
+      citable: hasProse(p.body),
     });
   }
 

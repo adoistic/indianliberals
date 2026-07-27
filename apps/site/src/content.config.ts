@@ -450,7 +450,10 @@ const primaryWorks = defineCollection({
     // imported from the legacy DB whose OCR text was stripped).
     needs_extraction: z.boolean().default(false),
     // v1.2 fields — extent caveat, TOC drift, recommended authority additions, dispatch observability.
-    extent_caveat: z.boolean().default(false),     // v1.2 D5 — true when pages_rendered/pages_total < 0.3
+    // v1.2 D5 — true when pages_rendered/pages_total < 0.3. May instead carry a
+    // one-line string spelling out exactly what the summary was based on, for
+    // hand-read image-only scans where the bare boolean loses useful detail.
+    extent_caveat: z.union([z.boolean(), z.string()]).default(false),
     toc_drift_detected: z.boolean().default(false),  // v1.2 D14 — true when chunk 1's TOC disagreed with chunk 2's rendered position
     recommended_authority_additions: z.array(recommendedAuthorityAddition).default([]),  // v1.2 D10
     dispatch_count: z.number().int().optional(),    // v1.2 — total subagent dispatches consumed during extraction

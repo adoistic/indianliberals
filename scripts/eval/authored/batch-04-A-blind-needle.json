@@ -1,0 +1,137 @@
+{
+ "batch": 4,
+ "cell": { "tier": "A", "retrieval": "blind", "shape": "needle" },
+ "questions": [
+  {
+   "id": "il-0071",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Which Carnatic composer did a writer on free expression trace to the tradition of the Purvacharyas?",
+   "expected": {
+    "docs": ["musings:freedom-of-self-expression"],
+    "paragraph_ids": { "musings:freedom-of-self-expression": ["p-09bb7b"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Tyagaraja", "Purvacharyas"]
+   },
+   "rationale": "The paragraph is the only place in the corpus linking Tyagaraja to the Purvacharyas."
+  },
+  {
+   "id": "il-0072",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "In which town did a Telugu-language writer who spoke out against child marriage and for divorce reform found a named organisation for women's welfare, and what was that organisation called?",
+   "expected": {
+    "docs": ["opinions:kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor"],
+    "paragraph_ids": { "opinions:kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor": ["p-15ceed"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bapatla", "Stri Hitaishini Mandali"]
+   },
+   "rationale": "Only this paragraph names both the Bapatla location and the Stri Hitaishini Mandali she founded there."
+  },
+  {
+   "id": "il-0073",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Which novelist is quoted on 'the freedom to offend' at the close of a passage recounting the Galileo affair, and what is the title of the 1610 publication of telescope observations that the passage cites as the offending idea?",
+   "expected": {
+    "docs": ["musings:for-absolute-freedom-of-expression"],
+    "paragraph_ids": { "musings:for-absolute-freedom-of-expression": ["p-5896ad"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Rushdie", "Sidereus Nuncius"]
+   },
+   "rationale": "The Sidereus Nuncius/Galileo illustration and the closing Rushdie quote occur together only in this paragraph."
+  },
+  {
+   "id": "il-0074",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "What untranslated term denoted villages officially listed as uninhabited that mysteriously produced ration claims once economic controls took hold, and what fictitious relative commonly appeared as an extra mouth to feed on such-era ration cards?",
+   "expected": {
+    "docs": ["musings:controls-and-freedom"],
+    "paragraph_ids": { "musings:controls-and-freedom": ["p-aad849"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Becharak", "grand-aunt"]
+   },
+   "rationale": "The term Becharak and the ghost-relative ration-card detail appear only in this paragraph's account of evading controls."
+  },
+  {
+   "id": "il-0075",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Research into which region's insects, once mocked as a joke topic, led to a breakthrough in pest control and crop care, and what mathematical field once dismissed as 'useless intellectual gymnastics' went on to found computer science?",
+   "expected": {
+    "docs": ["musings:application-of-science-and-technology"],
+    "paragraph_ids": { "musings:application-of-science-and-technology": ["p-a2cbdc"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Papuan", "Boolean algebra"]
+   },
+   "rationale": "Only this paragraph pairs the Papuan-insects joke with the Boolean-algebra-to-computing lineage as science spin-offs."
+  },
+  {
+   "id": "il-0076",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Which two-wheeler maker was cited, with a figure of 1.7 million motorcycles, as the largest producer of its kind, and which company was named Best GM supplier, in an illustration of newfound industrial confidence?",
+   "expected": {
+    "docs": ["musings:economic-reforms-in-india"],
+    "paragraph_ids": { "musings:economic-reforms-in-india": ["p-99838b"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Hero Honda", "Sundaram Clayton"]
+   },
+   "rationale": "Only this paragraph's list of success stories names both Hero Honda's motorcycle output and Sundaram Clayton's GM-supplier award."
+  },
+  {
+   "id": "il-0077",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Which two European figures are invoked in an essay on economic gradualism, one for insisting that capitalism must be 'oiled' with safety-nets of social security, the other for insisting the market mechanism must be made 'socially oriented'?",
+   "expected": {
+    "docs": ["musings:is-there-a-middle-way-dr-fredie-a-mehta"],
+    "paragraph_ids": { "musings:is-there-a-middle-way-dr-fredie-a-mehta": ["p-120c18"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Otto von Bismark", "Ludwig von Erhard"]
+   },
+   "rationale": "Only this paragraph pairs Bismark's 'oiled' safety-net remark with Erhard's 'socially oriented' market phrase."
+  },
+  {
+   "id": "il-0078",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Which clergyman administered baptism to a Marathi autobiographer who had refused it from English missionaries or upper-caste Christians, and what were the names of the three beggar children she later adopted?",
+   "expected": {
+    "docs": ["musings:two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak"],
+    "paragraph_ids": { "musings:two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak": ["p-10f090"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Vaniramji Bapuji Ohol", "Houshi", "Bhiku"]
+   },
+   "rationale": "Only this paragraph names the officiating clergyman and the adopted children by name."
+  },
+  {
+   "id": "il-0079",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Which historian is credited with the claim that Victorian paternalism blamed liberal reformism for the revolt of 1857, and which mystic guru was increasingly drawing the Bengali bhadralok away from a disillusioned social reformer's cause at that time?",
+   "expected": {
+    "docs": ["opinions:the-liberalism-of-ishwar-chandra-vidyasagar"],
+    "paragraph_ids": { "opinions:the-liberalism-of-ishwar-chandra-vidyasagar": ["p-ab5fb4"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Shekhar Bandhopadhyay", "Ramakrishna"]
+   },
+   "rationale": "Only this paragraph attributes the 1857/Victorian-paternalism claim to Bandhopadhyay and names Ramakrishna as the rival draw on the bhadralok."
+  },
+  {
+   "id": "il-0080",
+   "skip": true,
+   "reason": "The paragraph is abstract rhetoric about 'the Organisation' versus 'the Man' with no proper noun, number, date, place, institution, or work title to anchor a needle question; any answer_must_contain string would be an ordinary word, not a distinctive one."
+  }
+ ]
+}

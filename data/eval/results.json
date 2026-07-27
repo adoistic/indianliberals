@@ -1,0 +1,8326 @@
+{
+ "schema_version": 1,
+ "graded_at": "2026-07-27T14:32:41Z",
+ "run_file": "run.json",
+ "label": "claude-sonnet-5 via the live MCP surface",
+ "pool_id": "il-eval-v1",
+ "pool_size": 256,
+ "summary": {
+  "n": 256,
+  "loose": 0.873,
+  "graded": 0.707,
+  "strict": 0.5801,
+  "violations": 0,
+  "content_failures": 25,
+  "distribution": {
+   "1": 128,
+   "0.5": 106,
+   "0": 22
+  },
+  "cells": {
+   "A/blind/multi": {
+    "n": 22,
+    "loose": 0.9318,
+    "graded": 0.6591,
+    "strict": 0.4773
+   },
+   "A/blind/needle": {
+    "n": 34,
+    "loose": 1.0,
+    "graded": 0.9412,
+    "strict": 0.5
+   },
+   "A/blind/single": {
+    "n": 37,
+    "loose": 0.8919,
+    "graded": 0.6892,
+    "strict": 0.4459
+   },
+   "A/named/single": {
+    "n": 29,
+    "loose": 0.9655,
+    "graded": 0.6379,
+    "strict": 0.4828
+   },
+   "B/blind/multi": {
+    "n": 20,
+    "loose": 0.85,
+    "graded": 0.725,
+    "strict": 0.725
+   },
+   "B/blind/single": {
+    "n": 35,
+    "loose": 0.7429,
+    "graded": 0.6714,
+    "strict": 0.6714
+   },
+   "B/named/single": {
+    "n": 30,
+    "loose": 0.7667,
+    "graded": 0.7333,
+    "strict": 0.7333
+   },
+   "mixed/blind/multi": {
+    "n": 31,
+    "loose": 0.871,
+    "graded": 0.5,
+    "strict": 0.5
+   },
+   "none/named/abstention": {
+    "n": 18,
+    "loose": 0.8333,
+    "graded": 0.8333,
+    "strict": 0.8333
+   },
+   "reach:beyond_tools": {
+    "n": 17,
+    "loose": 0.6765,
+    "graded": 0.4706,
+    "strict": 0.4706
+   },
+   "reach:via_tools": {
+    "n": 239,
+    "loose": 0.887,
+    "graded": 0.7238,
+    "strict": 0.5879
+   },
+   "retrieval:blind": {
+    "n": 179,
+    "loose": 0.8799,
+    "graded": 0.7011,
+    "strict": 0.5447
+   },
+   "retrieval:named": {
+    "n": 77,
+    "loose": 0.8571,
+    "graded": 0.7208,
+    "strict": 0.6623
+   },
+   "shape:abstention": {
+    "n": 18,
+    "loose": 0.8333,
+    "graded": 0.8333,
+    "strict": 0.8333
+   },
+   "shape:multi": {
+    "n": 73,
+    "loose": 0.8836,
+    "graded": 0.6096,
+    "strict": 0.5548
+   },
+   "shape:needle": {
+    "n": 34,
+    "loose": 1.0,
+    "graded": 0.9412,
+    "strict": 0.5
+   },
+   "shape:single": {
+    "n": 131,
+    "loose": 0.8397,
+    "graded": 0.6832,
+    "strict": 0.5802
+   },
+   "tier:A": {
+    "n": 122,
+    "loose": 0.9467,
+    "graded": 0.7418,
+    "strict": 0.4754
+   },
+   "tier:B": {
+    "n": 85,
+    "loose": 0.7765,
+    "graded": 0.7059,
+    "strict": 0.7059
+   },
+   "tier:mixed": {
+    "n": 31,
+    "loose": 0.871,
+    "graded": 0.5,
+    "strict": 0.5
+   },
+   "tier:none": {
+    "n": 18,
+    "loose": 0.8333,
+    "graded": 0.8333,
+    "strict": 0.8333
+   }
+  },
+  "unanswered": 0,
+  "retracted": 0
+ },
+ "questions": [
+  {
+   "id": "il-0001",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:censorship-and-the-law-of-inexorability",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-67e5cb"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0002",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:minoo-masani-from-socialism-to-liberal-swatantra-party",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-87b0d1"
+     ],
+     "expected_anchors": [
+      "p-6035af"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0003",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:consumer-sovereignty-leads-to-rapid-economic-development",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0a42e3"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0004",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:economic-growth-with-social-justice-1969",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9e1a06"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0005",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:socialism-democracy-minoo-masani",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0df90b"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0006",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:hans-raj-khanna-justice-speaking-truth-to-power",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-db9863"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0007",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:b-r-shenoy-on-economic-growth-with-social-justice",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-cccef2"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0008",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "thinkers:d-r-pendse",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-29e2f4"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0009",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:iqbalunnisa-hussain",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-f98271"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0010",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:the-swatantra-way-for-forging-a-formidable-coalition",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-5810fd"
+     ],
+     "expected_anchors": [
+      "p-4551e2"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0011",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:babytai-kambles-resolute-feminism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e6d431"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0012",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-tiger-caged-part-ii",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-add2a6"
+     ],
+     "valid_anchors": [
+      "p-add2a6"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-add2a6"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0013",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:free-enterprise-in-indian-and-freedom",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-79e19d"
+     ],
+     "valid_anchors": [
+      "p-79e19d"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-79e19d"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0015",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:india-the-tiger-caged",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-bb34bc"
+     ],
+     "valid_anchors": [
+      "p-bb34bc"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-bb34bc"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0016",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "thinkers:b-r-shenoy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-72c209"
+     ],
+     "valid_anchors": [
+      "p-72c209"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-72c209"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0017",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:examination-of-objections-to-limitations-of-amending-power-1960",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-b7ffcf"
+     ],
+     "valid_anchors": [
+      "p-b7ffcf"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-b7ffcf"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0018",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:il-explainer-ep-5-free-enterprise-and-freedom",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-f21be0"
+     ],
+     "valid_anchors": [
+      "p-f21be0"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-f21be0"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0019",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:homi-modys-liberalism-pro-business-to-pro-market",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-35f725"
+     ],
+     "valid_anchors": [
+      "p-35f725"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-35f725"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0020",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "July 6, 1968"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:not-a-rich-peoples-lobby",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-fc0bac"
+     ],
+     "valid_anchors": [
+      "p-fc0bac"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-fc0bac"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0021",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:panchayati-raj",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-586927"
+     ],
+     "valid_anchors": [
+      "p-586927"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-586927"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0022",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:d-r-pendse-on-indias-open-and-prosperous-past",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-27f2d9"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0023",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:deepak-lal-on-grameen-bank-and-microfinance-institutions",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-2135b8"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0024",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:is-socialism-outdated",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-557bcc"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0025",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:dr-janaki-ammal",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c55912"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0026",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:ideas-in-politics",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-9faea5"
+     ],
+     "expected_anchors": [
+      "p-3fb2d3"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0027",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:il-explainer-ep-3-streer-potro-tagore",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-477e38"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0028",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:how-liberal-is-the-constitution-of-india-by-dr-sudhir-krishnaswamy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-994b61"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0029",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:women-and-liberalism-life-of-ramabai-ranade",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a4b3a0"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0030",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:economic-controls-in-india-liberalisation-history",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-f4d564"
+     ],
+     "valid_anchors": [
+      "p-f4d564"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-f4d564"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0031",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-wisdom-of-the-rulers",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-0346ba"
+     ],
+     "valid_anchors": [
+      "p-0346ba"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0346ba"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0032",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:jamshed-antia-views-on-sales-tax",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-3ae588"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0033",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-perils-of-state-support",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0184ef"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0034",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:towards-party-less-democracy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6e027e"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0035",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:communism-assumptions-gn-lawande",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-280546"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0036",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:d-r-pendse-on-his-relationship-with-jrd-tata",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e61529"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0039",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:controlling-inflation-in-india-br-shenoy-1977",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e08f11"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0040",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:fashioning-tools-for-peoples-movement",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-85fc59",
+      "p-a337ef"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0041",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:s-divakara-on-nani-palkhivalas-union-budget-commentaries",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-3e0341"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0042",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:jawaharlal-nehru-sc-compensation-a-ranganathan",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a397b3"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0043",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "Mahak Hotel"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:art-versus-law-and-order",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a50960",
+      "p-dcfe2f"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0044",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "Hanumanthaiya"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-principle-of-state-interference",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a38992"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0045",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:indian-liberals-quest-magazine-india-first-dictatorship",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-5c232a",
+      "p-9e67ed"
+     ],
+     "expected_anchors": [
+      "p-5c232a",
+      "p-bedb70"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0046",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:welfarism-poverty-indian-people-bs-sanyal",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6e9460"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0047",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:prospects-of-democracy-in-india",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-46592e"
+     ],
+     "valid_anchors": [
+      "p-46592e"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-46592e"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0048",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-evils-of-child-marriage-by-ishwar-chandra-vidyasagar",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-9036ed"
+     ],
+     "valid_anchors": [
+      "p-9036ed"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9036ed"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0049",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:role-of-civil-society-in-the-pandemic",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-618985"
+     ],
+     "valid_anchors": [
+      "p-618985"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-618985"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0050",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "Peter Bauer"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:b-r-shenoy-indias-first-neoliberal",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0093dd",
+      "p-662694"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0051",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Fredrick Bartlett"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:caste-system-curse",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-e80ef9"
+     ],
+     "valid_anchors": [
+      "p-e80ef9"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e80ef9"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0052",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:all-quiet-on-the-western-front-1930",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-be7bb6"
+     ],
+     "valid_anchors": [
+      "p-be7bb6"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-be7bb6"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0053",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:encoding-privacy-in-a-digital-world",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-a42c99"
+     ],
+     "valid_anchors": [
+      "p-a42c99"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a42c99"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0055",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:m-g-ranade-on-wealth-creation",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-c7a0ff"
+     ],
+     "valid_anchors": [
+      "p-c7a0ff"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c7a0ff"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0056",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:hitlerite-vegetarianism-india-food-science-sentiment",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-f5ee37"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0057",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-822176"
+     ],
+     "valid_anchors": [
+      "p-822176"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-822176"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0058",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:anandibai-joshee",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-1c5429"
+     ],
+     "valid_anchors": [
+      "p-1c5429"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-1c5429"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0059",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:jagdish-bhagwati-discussing-his-book-india-planning-for-industrialization",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-e6e3f1"
+     ],
+     "valid_anchors": [
+      "p-e6e3f1"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e6e3f1"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0060",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:ad-shroff-socialism-free-enterprise-lessons",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9e6b1e"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0061",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "organisations:swatantra-party",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-35a90c"
+     ],
+     "valid_anchors": [
+      "p-35a90c"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-35a90c"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0062",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:tribals-and-development-countering-the-myths",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-c68a6d"
+     ],
+     "valid_anchors": [
+      "p-c68a6d"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c68a6d"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0063",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:ceilings-on-landholdings-m-a-venkata-rao-1958",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-ed6ee5"
+     ],
+     "valid_anchors": [
+      "p-ed6ee5"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-ed6ee5"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0064",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:dangerous-counter-philosophy-piloo-mody",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-87cf9e"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0065",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:libertarian-happy-new-year",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-5ca438"
+     ],
+     "valid_anchors": [
+      "p-5ca438"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-5ca438"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0066",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:sharad-joshi-on-liberalism-in-india",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-6dfefd"
+     ],
+     "valid_anchors": [
+      "p-6dfefd"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6dfefd"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0067",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:on-nehrus-cult-like-personality-in-conversation-with-zareer-masani",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-7bfc1b"
+     ],
+     "valid_anchors": [
+      "p-7bfc1b"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-7bfc1b"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0068",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:russian-socialism-nehru-imagination",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c56251"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0069",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:rajagopalacharis-thoughts-on-culture",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-fbc174"
+     ],
+     "valid_anchors": [
+      "p-fbc174"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-248e77"
+     ],
+     "expected_anchors": [
+      "p-248e77",
+      "p-fbc174"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0070",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:free-market-economy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-33f6d7"
+     ],
+     "valid_anchors": [
+      "p-33f6d7"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0fc798",
+      "p-33f6d7"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0071",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:freedom-of-self-expression",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-09bb7b"
+     ],
+     "valid_anchors": [
+      "p-09bb7b"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-09bb7b"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0072",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-15ceed"
+     ],
+     "valid_anchors": [
+      "p-15ceed"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-15ceed"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0073",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:for-absolute-freedom-of-expression",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-5896ad"
+     ],
+     "valid_anchors": [
+      "p-5896ad"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-5896ad"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0074",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:controls-and-freedom",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-aad849"
+     ],
+     "valid_anchors": [
+      "p-aad849"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-aad849"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0075",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:application-of-science-and-technology",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-a2cbdc"
+     ],
+     "valid_anchors": [
+      "p-a2cbdc"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a2cbdc"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0076",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:economic-reforms-in-india",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-99838b"
+     ],
+     "valid_anchors": [
+      "p-99838b"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-99838b"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0077",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:is-there-a-middle-way-dr-fredie-a-mehta",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-120c18"
+     ],
+     "valid_anchors": [
+      "p-120c18"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-120c18"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0078",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-10f090"
+     ],
+     "valid_anchors": [
+      "p-10f090"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-10f090"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0079",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:the-liberalism-of-ishwar-chandra-vidyasagar",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-ab5fb4"
+     ],
+     "valid_anchors": [
+      "p-ab5fb4"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-ab5fb4"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0081",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:zealous-azizun-nisa",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-0df691"
+     ],
+     "valid_anchors": [
+      "p-0df691"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0df691"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0082",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-universality-of-human-values-m-r-masani",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-ba7528"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0083",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-retreat-from-socialism-2",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-b286fa"
+     ],
+     "valid_anchors": [
+      "p-b286fa"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-b286fa"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0084",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-8d7db3"
+     ],
+     "valid_anchors": [
+      "p-8d7db3"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-8d7db3"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0085",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:gg-agarkar-revisiting-a-misunderstood-legacy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-3cfa8a"
+     ],
+     "valid_anchors": [
+      "p-3cfa8a"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-3cfa8a"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0086",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:hamid-dalwai-and-the-muslim-satyashodhak-mandal",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-65159e"
+     ],
+     "valid_anchors": [
+      "p-65159e"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-65159e"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0087",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:planning-free-market-state-control-india-poverty-br-shenoy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-52a510"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0088",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:kandukuri-veeresalingam-icon-of-andhras-renaissance",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-e639bf"
+     ],
+     "valid_anchors": [
+      "p-e639bf"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e639bf"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0089",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:diversity-democracy-and-dissent",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-ac3b38"
+     ],
+     "valid_anchors": [
+      "p-ac3b38"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-ac3b38"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0090",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:trample-the-wall",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-bccb44"
+     ],
+     "valid_anchors": [
+      "p-bccb44"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6216cc"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0091",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:sagarika-ghose-battle-of-ideologies",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-75168f"
+     ],
+     "valid_anchors": [
+      "p-75168f"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-75168f"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0092",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:indian-liberals-interviews-hindol-sengupta",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-62721b"
+     ],
+     "valid_anchors": [
+      "p-62721b"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-62721b"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0093",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:to-prosperity-through-freedom-v-r-1960",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-aff294"
+     ],
+     "valid_anchors": [
+      "p-aff294"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-aff294"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0094",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:the-unwavering-feminism-of-tarabai-shinde",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-301f24"
+     ],
+     "valid_anchors": [
+      "p-301f24"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-301f24"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0095",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:my-idea-of-a-welfare-state",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-aa4446"
+     ],
+     "valid_anchors": [
+      "p-aa4446"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-d0429f"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0096",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-task-before-a-free-people",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-4861b8"
+     ],
+     "valid_anchors": [
+      "p-4861b8"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-4861b8"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0097",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-us-india-alignment-in-cold-war",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-c4c4af"
+     ],
+     "valid_anchors": [
+      "p-c4c4af"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c4c4af"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0098",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:a-resilient-soul-ramadevi-chowdhuri",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-526ffa"
+     ],
+     "valid_anchors": [
+      "p-526ffa"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-526ffa"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0099",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:a-rule-of-law-society",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-52f8ac"
+     ],
+     "valid_anchors": [
+      "p-52f8ac"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-52f8ac"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0100",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:rajkumari-amrit-kaur-philanthropy-and-politics",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-3631dd"
+     ],
+     "valid_anchors": [
+      "p-3631dd"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-3631dd"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0101",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:babytai-kamble-resolute-feminism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-8564ff"
+     ],
+     "valid_anchors": [
+      "p-8564ff"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-8564ff"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0102",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:fourth-industrial-revolution-what-it-means-for-india",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-713046"
+     ],
+     "valid_anchors": [
+      "p-713046"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-713046"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0103",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-forgotten-legacy-of-yashodabai-agarkar",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-3a83e9"
+     ],
+     "valid_anchors": [
+      "p-3a83e9"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-3a83e9"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0104",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:m-g-ranade-on-revival-and-reform",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-9cad0d"
+     ],
+     "valid_anchors": [
+      "p-9cad0d"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9cad0d"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0105",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:humanism-science-and-rationalism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-025000"
+     ],
+     "valid_anchors": [
+      "p-025000"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-025000"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0106",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:forty-three-years-of-independence",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-370354"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-f4070b"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0107",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:forest-departments-incentives-and-the-environment",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-47b592"
+     ],
+     "valid_anchors": [
+      "p-47b592"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-47b592"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:indias-forest-dwellers-from-owners-to-encroachers",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-44a2b5"
+     ],
+     "valid_anchors": [
+      "p-44a2b5"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-44a2b5"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0108",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "thinkers:nani-palkhivala",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-60e520"
+     ],
+     "valid_anchors": [
+      "p-60e520"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-60e520"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:nani-palkhivala-publications-to-serve-public-education",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-bf52e3"
+     ],
+     "valid_anchors": [
+      "p-bf52e3"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-bf52e3"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0109",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:has-private-enterprise-failed-a-d-shroff",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-ff7c45"
+     ],
+     "valid_anchors": [
+      "p-ff7c45"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-ff7c45"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-191748"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0111",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:india-socialism-common-man-capitalist",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-20ca54"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a4ef46"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0112",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:your-prosperity-through-freedom",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-1123bb"
+     ],
+     "valid_anchors": [
+      "p-1123bb"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-1123bb"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:free-enterprise-in-economic-life-minoo-masani",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a95f5f"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0113",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:sharad-joshi-tragedy-of-being-a-farmer-in-india",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-927f81"
+     ],
+     "valid_anchors": [
+      "p-927f81"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-927f81"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:unchanged-quarter-century-for-farmers-sharad-joshi",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-08e564"
+     ],
+     "valid_anchors": [
+      "p-08e564"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-08e564"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0114",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "thinkers:sauvik-chakraverti",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-196e77"
+     ],
+     "valid_anchors": [
+      "p-196e77"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-196e77"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:population-causes-prosperity",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-7676cc"
+     ],
+     "valid_anchors": [
+      "p-7676cc"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-7676cc"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0115",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-missed-opportunity",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-5a2dfe"
+     ],
+     "valid_anchors": [
+      "p-5a2dfe"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-5a2dfe"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:the-budget-versus-the-people-2",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-c7728c"
+     ],
+     "valid_anchors": [
+      "p-c7728c"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c7728c"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0116",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:the-moderate-liberalism-of-ferocious-mehta",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-bd530f"
+     ],
+     "valid_anchors": [
+      "p-bd530f"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-c71dde"
+     ],
+     "expected_anchors": [
+      "p-bd530f"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "opinions:v-s-srinivasa-sastri",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-0fd3a2"
+     ],
+     "valid_anchors": [
+      "p-0fd3a2"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-c71dde"
+     ],
+     "expected_anchors": [
+      "p-0fd3a2"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0117",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:voltaire-on-trade",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-26a985"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "musings:minoo-masani-liberalism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-f6ab50"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0118",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:philosophy-of-freedom",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-56adc0"
+     ],
+     "valid_anchors": [
+      "p-56adc0"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-56adc0"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:freedom-and-economic-freedom-bibek-debroy-2008",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-c48758"
+     ],
+     "valid_anchors": [
+      "p-c48758"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c48758"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0119",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:b-r-ambedkar-social-reform-failure-of-indian-liberalism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-2db4d4"
+     ],
+     "valid_anchors": [
+      "p-2db4d4"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-2db4d4"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "opinions:swatantra-party-a-big-tent-challenge-to-congress-hegemony",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-e05ceb"
+     ],
+     "valid_anchors": [
+      "p-e05ceb"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e05ceb"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0121",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:demonetisation-black-money-bp-adarkar",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-3a50aa"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:planning-unemployment-india-five-year-plans",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-7a9ab9"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0122",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "April 28, 1958"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:limits-and-limitations-of-state-trading",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-6be4b3"
+     ],
+     "valid_anchors": [
+      "p-6be4b3"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6be4b3"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:state-monopolies-and-the-citizen-in-a-democracy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-9ed42b"
+     ],
+     "valid_anchors": [
+      "p-9ed42b"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9ed42b"
+     ],
+     "on_target": true,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0123",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:pitfalls-in-our-industrial-policy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-8f8998"
+     ],
+     "valid_anchors": [
+      "p-8f8998"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-8f8998"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-71fa53"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0124",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:democracy-in-india-by-jm-lobo-prabhu",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-6b1da2"
+     ],
+     "valid_anchors": [
+      "p-6b1da2"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6b1da2"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:the-individual-and-indian-constitution",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-7ff480"
+     ],
+     "valid_anchors": [
+      "p-7ff480"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9b92ee"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0125",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:a-blueprint-for-eradication-of-poverty-bp-godrej-1980",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-870ca5"
+     ],
+     "valid_anchors": [
+      "p-870ca5"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-870ca5"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "theprint-mirror:was-indias-public-sector-born-out-of-european-envy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-b23acb"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0127",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:secular-state-rajaji",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-684773"
+     ],
+     "valid_anchors": [
+      "p-684773"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-684773"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "musings:the-three-meanings-of-secularism",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-8969d7"
+     ],
+     "valid_anchors": [
+      "p-8969d7"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-144fde"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0128",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "G.D.H. Cole"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:nani-palkhivala-on-socialism",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-2b5d2d"
+     ],
+     "expected_anchors": [
+      "p-1f1f68",
+      "p-420a9f"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "musings:planning-by-minoo-masani-1945",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-2b5d2d"
+     ],
+     "expected_anchors": [
+      "p-622cee"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0129",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Acharya NG Ranga Agricultural University"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-142e7b",
+      "p-6d6eb8"
+     ],
+     "expected_anchors": [
+      "p-6d6eb8",
+      "p-7c8626"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "musings:tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-142e7b",
+      "p-6d6eb8"
+     ],
+     "expected_anchors": [
+      "p-142e7b",
+      "p-bc597c"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0130",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Nehruvian consensus"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:bollywood-and-cultural-change-in-attitude",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-72693d"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:role-of-ideology-in-indias-liberalisation",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-25ee1a"
+     ],
+     "on_target": false,
+     "fetched": []
+    }
+   ]
+  },
+  {
+   "id": "il-0131",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "fourteen"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff058",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1957.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0132",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:shetkari-sanghatak-dec-6-1992",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-dec-6-1992.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0133",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:income-tax-penalises-honest-taxpayers-n-a-palkhivala-august-7-1961",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/income-tax-penalises-honest-taxpayers-n-a-palkhivala-august-7-1961.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0134",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-privatisation-phenomenon-jiban-k-mukhopadhyay-july-1988",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-privatisation-phenomenon-jiban-k-mukhopadhyay-july-1988.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0135",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff204",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-may1-1969.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0136",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff279",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-feb1-1976.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0137",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:productivity-in-japan-lessons-for-india-s-a-sapre-october-16-1982",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/productivity-in-japan-lessons-for-india-s-a-sapre-october-16-1982.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0138",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-economic-and-social-history-of-continental-europe-and-britain-c-1000-1914-an-introductory-annota",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/liberals/the-economic-and-social-history-of-continental-europe-and-britain-c-1000-1914-an-introductory-annota.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0139",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff508",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-oct1-2009.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0140",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-oct15-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct15-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0141",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-dec1-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-dec1-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0142",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff293",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-1977.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0143",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:shetkari-sanghatak-dec-6-1994",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-dec-6-1994.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0144",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:consumers-of-a-state-monopoly-lic-policyholders-ptof-l-g-bapat-15-january-1975",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/consumers-of-a-state-monopoly-lic-policyholders-ptof-l-g-bapat-15-january-1975.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0145",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-dec15-1962",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-dec15-1962.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0146",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:two-years-of-achievement-a-d-shroff-1958",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/two-years-of-achievement-a-d-shroff-1958.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0147",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:industrial-finance-and-investment-in-india-a-d-shroff-october-5-1961",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/industrial-finance-and-investment-in-india-a-d-shroff-october-5-1961.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0148",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:integrity-national-life-nittoor-srinivasa-rao-1971",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/integrity-national-life-nittoor-srinivasa-rao-1971.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0149",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-jul1-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jul1-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0150",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:controls-in-a-planned-economy-a-d-shroff-november-8-1960",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/controls-in-a-planned-economy-a-d-shroff-november-8-1960.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0151",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff436",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1998.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0152",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0153",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "twenty-one"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:statement-of-principles-of-the-swatantra-party-aug2-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": false,
+     "pdf_url": "https://archive.indianliberals.in/swatantra-party/statement-of-principles-of-the-swatantra-party-aug2-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0154",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff468",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-2006.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0155",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff223",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-1970.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0156",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:foreign-capital-by-kiran-nanda-december-17-1995",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/foreign-capital-by-kiran-nanda-december-17-1995.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0157",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:new-company-tax-scheme-prof-r-j-taraporevala-feb8-1960",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/new-company-tax-scheme-prof-r-j-taraporevala-feb8-1960.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0158",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:indian-shipping-m-a-master-sept6-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/indian-shipping-m-a-master-sept6-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0159",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "Depends on Who's Asking"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff531",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2011.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0160",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "May 27, 1998"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff438",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jul1-1998.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0161",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-challenges-before-the-insurance-industry-in-india-g-n-bajpai-2002",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-challenges-before-the-insurance-industry-in-india-g-n-bajpai-2002.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0162",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:reflections-on-foreign-aid-prof-p-tbauer-july-10-1970",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/reflections-on-foreign-aid-prof-p-tbauer-july-10-1970.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0163",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:financing-the-changing-paradigm-in-india-uday-kotak-august-6-2003",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/financing-the-changing-paradigm-in-india-uday-kotak-august-6-2003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0164",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff526",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-2011.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0165",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:analysis-of-direct-tax-laws-amendment-bill-dinesh-vyas-1988",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/analysis-of-direct-tax-laws-amendment-bill-dinesh-vyas-1988.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0166",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-aug1-1961",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-aug1-1961.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0167",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:giving-is-receiving-mrs-meera-shenoy",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/giving-is-receiving-mrs-meera-shenoy.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0168",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:rights-duties-and-obligations-n-k-petigara-jun10-1964",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/rights-duties-and-obligations-n-k-petigara-jun10-1964.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0169",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff244",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1972.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0170",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-essence-of-democracy-minoo-masani",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/other-publications/the-essence-of-democracy-minoo-masani.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0171",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff136",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1963.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0172",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:wanchoo-committee-report-on-black-money-h-p-ranina",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/wanchoo-committee-report-on-black-money-h-p-ranina.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0173",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:efficient-planning-in-a-democratic-society-f-a-mehta-aug10-1965",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/efficient-planning-in-a-democratic-society-f-a-mehta-aug10-1965.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0174",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff373",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1984.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0175",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff052",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1956.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0176",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff246",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1972.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0177",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:union-budget-of-1989-90-provides-no-remedies-for-economic-ills-by-hp-ranina-april-12-1989",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/union-budget-of-1989-90-provides-no-remedies-for-economic-ills-by-hp-ranina-april-12-1989.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0178",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-jul15-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jul15-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0179",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-hp-ranina-april-13-1993",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-HP-ranina-april-13-1993.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0180",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff540",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jun1-2012.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0181",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:wealth-tax-january-1-1970",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/wealth-tax-january-1-1970.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0182",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff034",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1955.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0183",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0184",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff539",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-may1-2012.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0185",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff374",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-1984.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0186",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:infrastructure-public-goods-and-markets-kirit-s-parekh",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/infrastructure-public-goods-and-markets-kirit-s-parekh.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0187",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "15 per 1000"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff229",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jun1-1971.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0188",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff031",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-1954.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0189",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Palkhivala"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff214",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1970.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0190",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "5 million",
+    "360 million"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff008",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": false,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1953.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0191",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr--kk-das-may-8-1961",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr.-kk-das-may-8-1961.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0192",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "over-administered",
+    "underregulated"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:financial-sector-reforms-the-unfinished-agenda-m-narasimhan-december-6-1993",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/financial-sector-reforms-the-unfinished-agenda-m-narasimhan-december-6-1993.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0193",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "8 million",
+    "October 1980"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff337",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1981.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0194",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "93%"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:centre-state-relations-a-broad-perspective-n-a-palkhivala-october-15-1983",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/centre-state-relations-a-broad-perspective-n-a-palkhivala-october-15-1983.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0195",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "reach": "beyond_tools",
+   "loose": 0.0,
+   "graded": 0.0,
+   "strict": 0.0,
+   "content_ok": false,
+   "missing_strings": [
+    "Charvaka",
+    "Indian Skeptic"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff510",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-2009.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0196",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "311",
+    "Official Secrets Act"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff536",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-feb1-2012.pdf"
+    },
+    {
+     "doc": "primary-works:accountability-in-public-sevice-n-vittal-february-4-2011",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/accountability-in-public-sevice-n-vittal-february-4-2011.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0197",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff254",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jul1-1973.pdf"
+    },
+    {
+     "doc": "primary-works:ff198",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1968.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0198",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-role-of-labour-in-japanese-economic-miracle-james-d-hodgson-june-14-1978",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-role-of-labour-in-japanese-economic-miracle-james-d-hodgson-june-14-1978.pdf"
+    },
+    {
+     "doc": "primary-works:ff138",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1963.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0199",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-nov15-1957",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-nov15-1957.pdf"
+    },
+    {
+     "doc": "primary-works:address-first-national-convention-ilg-von-welck-2002",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/indian-liberal-group/address-first-national-convention-ilg-von-welck-2002.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0200",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:transition-in-civil-services-by-bk-nehru-2000",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/transition-in-civil-services-by-bk-nehru-2000.pdf"
+    },
+    {
+     "doc": "primary-works:ff311",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-oct1-1978.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0201",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:whither-indian-urbanisation-f-p-antia-1977",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/whither-indian-urbanisation-f-p-antia-1977.pdf"
+    },
+    {
+     "doc": "primary-works:bungalows-for-all-sauvik-chakraverti",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/liberals/bungalows-for-all-sauvik-chakraverti.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0202",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff213",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-feb1-1970.pdf"
+    },
+    {
+     "doc": "primary-works:democracy-in-india-j-m-lobo-prabhu-may8-1960",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/democracy-in-india-j-m-lobo-prabhu-may8-1960.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0203",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff236",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1972.pdf"
+    },
+    {
+     "doc": "primary-works:a-free-press-is-linked-with-free-enterprise---a-free-society-by-dr-sachin-sen-june-8-1960",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0204",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:towards-greater-production-and-productivity-may-1964",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/towards-greater-production-and-productivity-may-1964.pdf"
+    },
+    {
+     "doc": "primary-works:golden-jubilee-1956-2006",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/golden-jubilee-1956-2006.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0205",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-mar1-1964",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-mar1-1964.pdf"
+    },
+    {
+     "doc": "primary-works:a-drastic-budget-n-a-palkhivala-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/a-drastic-budget-n-a-palkhivala-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0206",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Akola"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:shetkari-sanghatak-oct-6-1994",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-oct-6-1994.pdf"
+    },
+    {
+     "doc": "primary-works:cooperatives-in-the-changing-economy-of-india",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/cooperatives-in-the-changing-economy-of-india.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0207",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:the-indian-libertarian-jan-1971-2",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan-1971-2.pdf"
+    },
+    {
+     "doc": "primary-works:the-indian-libertarian-jan-1971",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan-1971.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0208",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff053",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-oct1-1956.pdf"
+    },
+    {
+     "doc": "primary-works:an-end-to-appeasement-m-r-masani",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/an-end-to-appeasement-m-r-masani.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0209",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:economic-situation-and-trends-in-ceylon-a-programme-of-reform",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/liberals/economic-situation-and-trends-in-ceylon-a-programme-of-reform.pdf"
+    },
+    {
+     "doc": "primary-works:a-historic-budget-by-hp-ranina-april-13-1994",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/a-historic-budget-by-hp-ranina-april-13-1994.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0210",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Australian"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:whither-central-banking-h-v-r-iyengar-december-1972",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/whither-central-banking-h-v-r-iyengar-december-1972.pdf"
+    },
+    {
+     "doc": "primary-works:a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0211",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff543",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2012.pdf"
+    },
+    {
+     "doc": "primary-works:administrators-managers-and-leadership-by-deepak-parekh-1997",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/administrators-managers-and-leadership-by-deepak-parekh-1997.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0212",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "beyond_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff314",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1979.pdf"
+    },
+    {
+     "doc": "primary-works:ff238",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1972.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0213",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:ff099",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-aug1-1960.pdf"
+    },
+    {
+     "doc": "primary-works:ff220",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1970.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0214",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:business-and-public-welfare-v-k-narasimhan-march-9-1970",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/business-and-public-welfare-v-k-narasimhan-march-9-1970.pdf"
+    },
+    {
+     "doc": "primary-works:pluralism---mixed-economy-a-basis-for-centre-state-relations-v-k-narasimhan-february-14-1978",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/pluralism-&-mixed-economy-a-basis-for-centre-state-relations-v-k-narasimhan-february-14-1978.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0215",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:governance-democracy-in-india-r-balasubramanian",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/governance-democracy-in-india-r-balasubramanian.pdf"
+    },
+    {
+     "doc": "primary-works:report-second-national-convention-mangalore-feburary-18-20-2005-july-2005",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/liberals/report-second-national-convention-mangalore-feburary-18-20-2005-july-2005.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0216",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:crushing-burden-of-taxation-nani-palkhivala-1958",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-9dc500"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:inflation-in-india-l-g-bapat",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/inflation-in-india-l-g-bapat.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0217",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:br-shenoys-early-life-and-association-with-independence-movement",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0d3c77"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff142",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1964.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0218",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "156"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-emerging-scenario-in-education-2",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-d34b4c"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:deficit-financing-inflation-and-price-control-k-j-ayaraman-november-14-1973",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/deficit-financing-inflation-and-price-control-k-j-ayaraman-november-14-1973.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0219",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:the-resolute-abala-bose",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6b9b8f"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-indian-libertarian-oct1-1957",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct1-1957.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0220",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:minoo-shroff-on-nehru-welfare-and-indias-promise",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-181ece"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-indian-libertarian-feb1-1958",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-feb1-1958.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0221",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "beyond_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:d-r-pendse-on-the-1991-crisis",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-990742"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff070",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1958.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0222",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:indian-liberals-annual-lecture-2023",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-96099b"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff062",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-jul1-1957.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0223",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:democratic-socialism-in-india",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-1078b6"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff409",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-1991.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0224",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:why-remember-sharad-joshi",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-8a4cb8"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-economic-implications-of-the-union-budget-for-1966-67-professor-russi-jal-taraporevala-april-20-1966",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-for-1966-67-professor-russi-jal-taraporevala-april-20-1966.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0225",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:deepak-lal-on-f-a-hayek-and-milton-friedman",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-d6cdd3"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-union-budget-2018-19-h-p-ranina-sunil-s-bhandare",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-union-budget-2018-19-h-p-ranina-sunil-s-bhandare.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0227",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-universality-of-human-values",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-6e500f"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-problem-of-rising-prices-causes-a-s-bhaskar-aug9-1964",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-problem-of-rising-prices-causes-a-s-bhaskar-aug9-1964.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0228",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:bollywoods-transition-from-socialism-to-liberal-ideas",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-80d610"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:shetkari-sanghatak-dec-28-1995",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-dec-28-1995.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0229",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:war-between-opposing-ideologies",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-c91034"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:cooperative-farming-sree-rama-murthy-jul5-1960",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/cooperative-farming-sree-rama-murthy-jul5-1960.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0231",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "organisations:forum-of-free-enterprise",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-7fbcfc"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:economy-and-efficiency-in-public-administration-in-india-c-s-venkatachar-may-8-1963",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/economy-and-efficiency-in-public-administration-in-india-c-s-venkatachar-may-8-1963.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0232",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:constitution-and-the-common-man",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-d8468f"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:shetkari-sanghatak-jan-21-1995",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-jan-21-1995.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0233",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:indian-liberalism-vedanta-nehruvian-socialism",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-66277b"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-need-for-economic-statesmanship-s-l-kirloskar-december-10-1969",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/the-need-for-economic-statesmanship-s-l-kirloskar-december-10-1969.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0234",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:centre-for-civil-society-a-journey-in-time",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-fa3d2c"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:public-accountability-m-r-masani-m-p-february-10-1970",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/public-accountability-m-r-masani-m-p-february-10-1970.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0235",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:hindi-imposition-constitution",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [
+      "p-5f340b"
+     ],
+     "valid_anchors": [
+      "p-5f340b"
+     ],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-5f340b"
+     ],
+     "on_target": true,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff252",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-may1-1973.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0238",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:the-essence-of-democracy-3",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-cc9c30"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0239",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "thinkers:raja-ram-mohan-roy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-8a3f72"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff042",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1955.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0240",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:making-capital-out-of-consumer-goods",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-e70884"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff495",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2008.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0241",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "opinions:piloo-mody-swatantra-witty-parliamentarian",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-a3c5bd"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:fresh-thinking-on-planning-and-prices-june-14-1977",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/fresh-thinking-on-planning-and-prices-june-14-1977.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0242",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": false,
+   "missing_strings": [
+    "Bikaji"
+   ],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:rukhmabai-an-unrelenting-force-against-patriarchy-indian-liberals",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-44163a"
+     ],
+     "expected_anchors": [
+      "p-af3bc5"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff232",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1971.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0243",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:homi-mody-free-enterprise-foreign-exchange",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-b73ef6"
+     ],
+     "expected_anchors": [
+      "p-5a1890",
+      "p-8948dd"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:compensation-or-expropriation-by-dr-rustom-c-cooper",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/compensation-or-expropriation-by-dr-rustom-c-cooper.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0244",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "primary-works:sunil-bhandare-on-private-enterprise-post-1991-reforms",
+     "tier": "A",
+     "named": false,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-bb4cd4"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:at-liberty-to-express-and-offend",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/other-publications/at-liberty-to-express-and-offend.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0245",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "theprint-mirror:indian-bureaucracy-incentives-rewards",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-4e614f",
+      "p-ec446c"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:market-by-the-dock-by-pt-bauer-january-1981",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/market-by-the-dock-by-pt-bauer-january-1981.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0246",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:fundamental-rights-protection-against-tyranny",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-0512c4"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:ff247",
+     "tier": "B",
+     "named": false,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-1972.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0247",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "thinkers:minoo-masani",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-04e457"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:economic-development-of-backward-areas-d-r-pendse-september-14-1976",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/economic-development-of-backward-areas-d-r-pendse-september-14-1976.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0248",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:piyush-vs-piyush-beautiful-policies-are-not-enough",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [
+      "p-08f0e8"
+     ],
+     "expected_anchors": [
+      "p-d4a0d4"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:essays-by-foreign-economists-august-1971",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/forum-of-free-enterprise/essays-by-foreign-economists-august-1971.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0249",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:india-seeing-the-future-in-its-past",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-1712d9"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-indian-libertarian-jan1-1963",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": true,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan1-1963.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-0250",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "docs": [
+    {
+     "doc": "musings:obstacles-to-liberalisation-and-market-economy",
+     "tier": "A",
+     "named": true,
+     "cited_anchors": [],
+     "valid_anchors": [],
+     "invented_anchors": [],
+     "unattached_anchors": [],
+     "expected_anchors": [
+      "p-4776bf"
+     ],
+     "on_target": false,
+     "fetched": []
+    },
+    {
+     "doc": "primary-works:the-indian-libertarian-jun1-1959",
+     "tier": "B",
+     "named": true,
+     "pdf_linked": false,
+     "attributed": true,
+     "pdf_url": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1959.pdf"
+    }
+   ]
+  },
+  {
+   "id": "il-abs-001",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1921
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-002",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1924
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-003",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1925
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-004",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1926
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-005",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1927
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-006",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1929
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-007",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1931
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-008",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1932
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-009",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1934
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-010",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": false,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1935
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-011",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1936
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-012",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": false,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1938
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-013",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": false,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1943
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-014",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": true,
+   "absent": {
+    "year": 1944
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-015",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 1.0,
+   "graded": 1.0,
+   "strict": 1.0,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": true,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1945
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-016",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": false,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1946
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-017",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": false,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1947
+   },
+   "docs": []
+  },
+  {
+   "id": "il-abs-018",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "reach": "via_tools",
+   "loose": 0.5,
+   "graded": 0.5,
+   "strict": 0.5,
+   "content_ok": true,
+   "missing_strings": [],
+   "ungrounded_quotes": [],
+   "violation": false,
+   "abstained": false,
+   "fabricated": false,
+   "cited_work": false,
+   "absent": {
+    "year": 1951
+   },
+   "docs": []
+  }
+ ]
+}

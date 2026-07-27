@@ -1,0 +1,150 @@
+{
+ "batch": 5,
+ "cell": {
+  "tier": "A",
+  "retrieval": "blind",
+  "shape": "needle"
+ },
+ "questions": [
+  {
+   "id": "il-0081",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A woman remembered as a courtesan of Lurkee Mahil took up the role of a warrior and strategist during the Revolt of 1857, helping a rebel cavalry unit operating out of Kanpur. In which city was she born, and by what other name was she also known?",
+   "expected": {
+    "docs": ["opinions:zealous-azizun-nisa"],
+    "paragraph_ids": { "opinions:zealous-azizun-nisa": ["p-0df691"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Lucknow", "Azizun Bai"]
+   },
+   "rationale": "Only this paragraph gives Azizun Nisa's birthplace and alternate name; both are verbatim, distinctive, and absent from the question."
+  },
+  {
+   "id": "il-0082",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A writer arguing that no part of humanity could be written off — militarily, ideologically, or morally — invoked both Abraham Lincoln's warning that no nation could remain half slave and half free, and the words of an English poet on human interconnectedness, in a shrinking world. Name the poet.",
+   "expected": {
+    "docs": ["musings:the-universality-of-human-values-m-r-masani"],
+    "paragraph_ids": { "musings:the-universality-of-human-values-m-r-masani": ["p-ba7528"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["John Donne"]
+   },
+   "rationale": "The paragraph names John Donne as the poet invoked alongside the Lincoln reference; the question describes the argument without naming the poet, author, or work."
+  },
+  {
+   "id": "il-0083",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A lecturer, thanking a mentor whose guidance had nurtured 'this Centre' into what it had become, proposed an alternative title for his talk on the worldwide retreat of socialism — a Persian-language phrase likening the departure of heresy from the Kaaba to what would remain of the faith. What was that alternative title, in full?",
+   "expected": {
+    "docs": ["musings:the-retreat-from-socialism-2"],
+    "paragraph_ids": { "musings:the-retreat-from-socialism-2": ["p-b286fa"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Khezad", "musalmani"]
+   },
+   "rationale": "The Persian alternative title is a one-off phrase in the corpus; its distinctive transliterated words serve as the needle since no other names appear in the paragraph."
+  },
+  {
+   "id": "il-0084",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "In 1851, an Indian reformer and his colleagues founded both a Zoroastrian reform society and a Gujarati-language newspaper that campaigned against child marriage and the practice of nautches. Name the newspaper and the society.",
+   "expected": {
+    "docs": ["opinions:dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism"],
+    "paragraph_ids": { "opinions:dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism": ["p-8d7db3"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Rast Goftar", "Rahnumae Mazdayasnan Sabha"]
+   },
+   "rationale": "Both organisation names are verbatim, distinctive, and given only in this paragraph; the question withholds Naoroji's name."
+  },
+  {
+   "id": "il-0085",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "In discussing India's economic decline under colonial rule, a social reformer credited two Indian judges, alongside Dadabhai Naoroji, with devising ways to stimulate the country's industries and commerce without violating the laws of economics. Name the two judges.",
+   "expected": {
+    "docs": ["opinions:gg-agarkar-revisiting-a-misunderstood-legacy"],
+    "paragraph_ids": { "opinions:gg-agarkar-revisiting-a-misunderstood-legacy": ["p-3cfa8a"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Justice Telang", "Justice Ranade"]
+   },
+   "rationale": "The two judges are named only alongside Naoroji in this paragraph; the question uses Naoroji (not the subject of this piece) as the findable anchor while withholding Agarkar's name."
+  },
+  {
+   "id": "il-0086",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A Marathi social reformer's book contrasting communalism in India with the medieval history of Europe traces the Arab invasion of Europe through Gibraltar in 711 CE, noting that Arab forces reached a city in France within 21 years, before a Christian pushback was completed with the fall of a certain city in 1492. Name the book, and the city whose fall in 1492 completed that reconquest.",
+   "expected": {
+    "docs": ["opinions:hamid-dalwai-and-the-muslim-satyashodhak-mandal"],
+    "paragraph_ids": { "opinions:hamid-dalwai-and-the-muslim-satyashodhak-mandal": ["p-65159e"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Rashtriya Ekatmata ani Bharatiya Musalman", "Granada"]
+   },
+   "rationale": "The book title and the fall of Granada in 1492 are the two checkable facts unique to this paragraph; the question omits Hamid Dalwai's name and the organisation named in the title."
+  },
+  {
+   "id": "il-0087",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "An article on India's planning debates blames two clusters of Western economists for keeping Indian universities wedded to outmoded dirigiste doctrines — one cluster of 'pronounced left-wingers.' Name two of the four economists in that left-wing cluster.",
+   "expected": {
+    "docs": ["theprint-mirror:planning-free-market-state-control-india-poverty-br-shenoy"],
+    "paragraph_ids": { "theprint-mirror:planning-free-market-state-control-india-poverty-br-shenoy": ["p-52a510"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Baloghs", "Bettelheims"]
+   },
+   "rationale": "The named economist clusters occur only in this paragraph; the question withholds the author's name (BR Shenoy) and the article title."
+  },
+  {
+   "id": "il-0088",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A social reformer from a Brahmin family nonetheless criticised the upper-class attitudes of Brahmins in his writings, and produced several plays skewering Brahmin priests, including one in 1886 dramatizing a devotee king's story, and another in 1889. Name these two plays.",
+   "expected": {
+    "docs": ["musings:kandukuri-veeresalingam-icon-of-andhras-renaissance"],
+    "paragraph_ids": { "musings:kandukuri-veeresalingam-icon-of-andhras-renaissance": ["p-e639bf"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Satya Harischandra", "Tiryag- Vidvan Mahasabha"]
+   },
+   "rationale": "The two play titles with their years are given only in this paragraph; the question withholds Veeresalingam's name."
+  },
+  {
+   "id": "il-0089",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "India's long tradition of dissent, reaching back to disputes between the brahman and shraman (nastik) traditions, is said to find an echo in the works of a certain ancient writer, in the Ashokan inscriptions, and in the writings of a medieval scholar who described a counter religion of the Shramanas. Name these two writers.",
+   "expected": {
+    "docs": ["opinions:diversity-democracy-and-dissent"],
+    "paragraph_ids": { "opinions:diversity-democracy-and-dissent": ["p-ac3b38"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Megasthenes", "Al Beruni"]
+   },
+   "rationale": "Megasthenes and Al Beruni are named together only in this paragraph; the question avoids reproducing the four-word article title."
+  },
+  {
+   "id": "il-0090",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "During an incident at Checkpoint Charlie, a man lay mortally wounded for about half an hour, moaning for help, before he died, while American troops held back from giving him medical aid for fear of the consequences — an episode said to have exposed the weakness of the Western position in Berlin. Name the man who died at Checkpoint Charlie.",
+   "expected": {
+    "docs": ["musings:trample-the-wall"],
+    "paragraph_ids": { "musings:trample-the-wall": ["p-6216cc"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Fechter"]
+   },
+   "rationale": "Fechter's surname is the one distinctive, verbatim fact this paragraph supplies, and it is withheld from the question itself."
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "batch": 16,
+ "cell": {
+  "tier": "B",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0206",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 1994 account describes a farmers' movement renewing its campaign to shut down a government-protected liquor shop while also promoting a fully 'open', non-state economic order ahead of an upcoming convention. A separate booklet explains how a change in cooperative law freed voluntary local associations from a state registrar's sweeping powers over registration, bylaws and liquidation. In which district was the contested liquor shop located, and what court case does the booklet cite as having upheld the state's power to control cooperatives by statute?",
+   "expected": {
+    "docs": ["primary-works:shetkari-sanghatak-oct-6-1994", "primary-works:cooperatives-in-the-changing-economy-of-india"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:shetkari-sanghatak-oct-6-1994": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-oct-6-1994.pdf",
+     "primary-works:cooperatives-in-the-changing-economy-of-india": "https://archive.indianliberals.in/forum-of-free-enterprise/cooperatives-in-the-changing-economy-of-india.pdf"
+    },
+    "answer_must_contain": ["Akola", "Daman Singh"]
+   },
+   "rationale": "The district name sits only in the periodical's liquor-shop report, and the case name sits only in the cooperatives booklet's legal section; both must be retrieved to answer either half."
+  },
+  {
+   "id": "il-0207",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One volume contains a review of a thirty-seven-essay anthology on libertarian thought, describing it as naming economists and philosophers such as Mises, Hazlitt, Friedman, Rothbard and Hospers among its contributors. A companion volume in the same anthology series contains a tribute to an Indian statesman, branding him a lone fighter against 'the cult of Nehruism' and contrasting his struggle against home-bred despotism with an earlier leader's fight against foreign rule. Who edited the anthology reviewed in the first volume, and who wrote the tribute in the second?",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-jan-1971-2", "primary-works:the-indian-libertarian-jan-1971"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-jan-1971-2": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan-1971-2.pdf",
+     "primary-works:the-indian-libertarian-jan-1971": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan-1971.pdf"
+    },
+    "answer_must_contain": ["Machan", "Shroff"]
+   },
+   "rationale": "The anthology editor's name is only in Part II's book-review summary and the tribute's byline is only in Part III's contents, so both companion volumes must be read."
+  },
+  {
+   "id": "il-0208",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 1956 report describes a press conference at which secret Communist Party of India documents from its Fourth Congress were made public, including a closed-session speech responding to the 20th Congress of the Soviet Communist Party. A separate, much shorter piece -- a reproduced magazine article by a prominent anti-communist Indian liberal -- argues that India's foreign and security policy needed to abandon a longstanding habit of appeasement. Name the CPI leader who delivered the closed-session speech, and give the issue number of the magazine from which the appeasement article was reproduced.",
+   "expected": {
+    "docs": ["primary-works:ff053", "primary-works:an-end-to-appeasement-m-r-masani"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff053": "https://archive.indianliberals.in/freedom-first/freedom-first-oct1-1956.pdf",
+     "primary-works:an-end-to-appeasement-m-r-masani": "https://archive.indianliberals.in/freedom-first/an-end-to-appeasement-m-r-masani.pdf"
+    },
+    "answer_must_contain": ["Ajoy Ghosh", "91"]
+   },
+   "rationale": "The CPI leader's name is only in the 1956 issue's editorial on the leaked documents, and the reproduced article's issue number is only in the short appeasement piece's own note on its origin."
+  },
+  {
+   "id": "il-0209",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 1960s diagnostic report on a South Asian economy identifies an over-valued currency -- pegged at a fixed exchange rate since a specific year under colonial-era arrangements -- as one of three core problems, alongside a savings shortage and inflationary budget deficits. A separate 1990s commentary on an Indian Union Budget explains how new tax provisions aimed to expand the taxpayer base beyond a strikingly small existing total, in a country with a much larger middle class. In what year was that exchange rate originally fixed, and how many taxpayers did the existing base amount to before the reform?",
+   "expected": {
+    "docs": ["primary-works:economic-situation-and-trends-in-ceylon-a-programme-of-reform", "primary-works:a-historic-budget-by-hp-ranina-april-13-1994"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:economic-situation-and-trends-in-ceylon-a-programme-of-reform": "https://archive.indianliberals.in/liberals/economic-situation-and-trends-in-ceylon-a-programme-of-reform.pdf",
+     "primary-works:a-historic-budget-by-hp-ranina-april-13-1994": "https://archive.indianliberals.in/forum-of-free-enterprise/a-historic-budget-by-hp-ranina-april-13-1994.pdf"
+    },
+    "answer_must_contain": ["1925", "8-million"]
+   },
+   "rationale": "The currency's fixing year is stated only in the Ceylon diagnostic report and the pre-reform taxpayer count only in the Indian budget commentary, so both must be consulted."
+  },
+  {
+   "id": "il-0210",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One central banker's speech from the early 1970s argues that automatically issuing short-term government bills to cover budget deficits undermines the central bank's purpose, and proposes that any credit expansion above a threshold be debated openly in Parliament, following the practice of a specific other country. Around the same time, a set of public lectures on inflation includes one speaker's proposal for a scheme, referred to by a coined acronym, for demonetising high-denomination currency notes. Which country's practice does the central banker's speech recommend as a parliamentary model, and what is the coined name of the demonetisation scheme?",
+   "expected": {
+    "docs": ["primary-works:whither-central-banking-h-v-r-iyengar-december-1972", "primary-works:a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:whither-central-banking-h-v-r-iyengar-december-1972": "https://archive.indianliberals.in/forum-of-free-enterprise/whither-central-banking-h-v-r-iyengar-december-1972.pdf",
+     "primary-works:a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974": "https://archive.indianliberals.in/forum-of-free-enterprise/a-package-plan-for-inflation-dr-r-c-cooper-dhirajlal-maganlal-minoo-r-shroff-prof-gangadhar-gadgil-july-1974.pdf"
+    },
+    "answer_must_contain": ["Australian", "SEMIBOMBLA"]
+   },
+   "rationale": "The 'Australian model' reference sits only in the central-banking speech and the SEMIBOMBLA scheme only in the inflation lecture volume; neither fact substitutes for the other."
+  },
+  {
+   "id": "il-0211",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 2012 magazine issue covers a Mumbai riot near a well-known maidan on 11 August, alongside an article proposing solar energy as a remedy for power-grid failures. A separate 1997 lecture on transforming India's civil services envisions bureaucrats and business working together under a single national framework, taking a small Southeast Asian city-state as its model, and argues that regulatory complexity itself functions like a tax paid to intermediaries rather than the government. Who wrote the solar-energy article, and which organisation does the lecture cite as a successful example of deploying government officers on secondment to the private sector?",
+   "expected": {
+    "docs": ["primary-works:ff543", "primary-works:administrators-managers-and-leadership-by-deepak-parekh-1997"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff543": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2012.pdf",
+     "primary-works:administrators-managers-and-leadership-by-deepak-parekh-1997": "https://archive.indianliberals.in/forum-of-free-enterprise/administrators-managers-and-leadership-by-deepak-parekh-1997.pdf"
+    },
+    "answer_must_contain": ["Bhide", "IL&FS"]
+   },
+   "rationale": "The solar-energy byline appears only in the 2012 issue's table of contents and the IL&FS example only in the 1997 lecture's closing section on lateral entry."
+  },
+  {
+   "id": "il-0212",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One human-rights-themed special issue from 1979 quotes a French priest's eyewitness account of a Southeast Asian revolutionary regime's brutality, and cites a Planning Commission estimate of the share of India's rural and urban population living below the poverty line in 1977-78. An earlier 1972 issue of the same periodical reviews a book about a Soviet scientist's forced psychiatric confinement at a named hospital, imposed as punishment for his political dissent. Name the French priest quoted in the 1979 issue, and name the hospital where the Soviet scientist was confined.",
+   "expected": {
+    "docs": ["primary-works:ff314", "primary-works:ff238"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff314": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1979.pdf",
+     "primary-works:ff238": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1972.pdf"
+    },
+    "answer_must_contain": ["Ponchaud", "Kaluga"]
+   },
+   "rationale": "The priest's name is quoted only within the 1979 Cambodia passage and the hospital's name only within the 1972 book review of the Medvedev brothers' account."
+  },
+  {
+   "id": "il-0213",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 1960 issue includes a review of a book about the Soviet agent who assassinated a prominent exiled revolutionary with an ice-axe in Mexico. A later 1970 issue of the same periodical includes an essay disputing the case for large-scale land redistribution, citing a named economist's conclusion that India has little scope for such 'distributist' land reform. Name the assassin discussed in the 1960 review, and name the economist cited in the 1970 essay.",
+   "expected": {
+    "docs": ["primary-works:ff099", "primary-works:ff220"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff099": "https://archive.indianliberals.in/freedom-first/freedom-first-aug1-1960.pdf",
+     "primary-works:ff220": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1970.pdf"
+    },
+    "answer_must_contain": ["Mercader", "Lipton"]
+   },
+   "rationale": "The assassin's name is in the 1960 book-review article and the economist's name is in the 1970 land-reform essay; the two issues do not overlap in content."
+  },
+  {
+   "id": "il-0214",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "The same commentator on Indian federalism and free enterprise wrote two documents eight years apart. In an earlier 1970 piece, he criticises a bank-nationalisation ordinance and endorses a political party's proposal requiring prior judicial enquiry before any future nationalisation. In a later lecture delivered as a memorial tribute, he identifies a particular general election as the moment that broke India's 'unitary' one-party political pattern. Name the political party whose proposal he endorses in the earlier piece, and give the year of the general election identified as the watershed in the later lecture.",
+   "expected": {
+    "docs": ["primary-works:business-and-public-welfare-v-k-narasimhan-march-9-1970", "primary-works:pluralism---mixed-economy-a-basis-for-centre-state-relations-v-k-narasimhan-february-14-1978"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:business-and-public-welfare-v-k-narasimhan-march-9-1970": "https://archive.indianliberals.in/forum-of-free-enterprise/business-and-public-welfare-v-k-narasimhan-march-9-1970.pdf",
+     "primary-works:pluralism---mixed-economy-a-basis-for-centre-state-relations-v-k-narasimhan-february-14-1978": "https://archive.indianliberals.in/forum-of-free-enterprise/pluralism-&-mixed-economy-a-basis-for-centre-state-relations-v-k-narasimhan-february-14-1978.pdf"
+    },
+    "answer_must_contain": ["Jana Sangh", "1967"]
+   },
+   "rationale": "The party endorsement appears only in the earlier bank-nationalisation piece and the watershed election year only in the later memorial lecture, requiring both to be read despite the shared author."
+  },
+  {
+   "id": "il-0215",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One booklet illustrates its argument about 'last mile' governance with a story about an elderly tribal woman's pension, tying her eventual financial inclusion to a specific digital identity and banking initiative known by an acronym. A separate report on a governance-themed national convention, dedicated to the birth centenary of a Liberal Group's founder, includes a position paper that invokes a renowned economist's concept describing the intellectual arrogance behind state planning. Give the acronym for the digital initiative named in the first document, and name the economist whose concept is invoked in the second document's position paper.",
+   "expected": {
+    "docs": ["primary-works:governance-democracy-in-india-r-balasubramanian", "primary-works:report-second-national-convention-mangalore-feburary-18-20-2005-july-2005"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:governance-democracy-in-india-r-balasubramanian": "https://archive.indianliberals.in/forum-of-free-enterprise/governance-democracy-in-india-r-balasubramanian.pdf",
+     "primary-works:report-second-national-convention-mangalore-feburary-18-20-2005-july-2005": "https://archive.indianliberals.in/liberals/report-second-national-convention-mangalore-feburary-18-20-2005-july-2005.pdf"
+    },
+    "answer_must_contain": ["JAM", "Hayek"]
+   },
+   "rationale": "The acronym for the digital stack appears only in the Berlin keynote's pension parable and the economist's name only in the convention report's economic-liberalisation position paper."
+  }
+ ]
+}

@@ -109,7 +109,7 @@ A. Ranganathan responds to Mr. Frank Anthony's resolution on the status of Engli
 - Structured as a point-by-point rejoinder.
 
 ### Congress Behind the Times
-*By By K. Kumara Sekhar*
+*By K. Kumara Sekhar*
 
 K. Kumara Sekhar argues that the Congress party is 'behind the times,' having grown out of a national movement but failing to keep pace with the economic and political needs of independent India. In the rendered pages he criticises the party's record in Kerala and its drift toward a centralised, statist style of governance, contending that the Congress has not modernised its thinking to match the country's problems.
 
@@ -119,7 +119,7 @@ K. Kumara Sekhar argues that the Congress party is 'behind the times,' having gr
 - Calls implicitly for a more liberal, forward-looking politics.
 
 ### China's Secret Plan for a Himalayan Federation
-*By By H. V. Kamath*
+*By H. V. Kamath*
 
 H. V. Kamath warns that China is pursuing a 'secret plan for a Himalayan Federation' that would absorb Tibet, Nepal, Sikkim, Bhutan and the Indian border regions into a Chinese-dominated bloc. In the rendered pages he reads China's cartographic claims, road-building and border encroachments in Ladakh and NEFA as evidence of an expansionist design, and urges India to drop illusions of friendship and defend its frontiers and Himalayan neighbours firmly.
 
@@ -129,7 +129,7 @@ H. V. Kamath warns that China is pursuing a 'secret plan for a Himalayan Federat
 - Calls for a firm Indian defence policy and protection of border states.
 
 ### The Revival (Rationalist Supplement)
-*By By S. Ramanathan*
+*By S. Ramanathan*
 
 In the bound 'Rationalist Supplement,' S. Ramanathan's lead article 'The Revival' welcomes the relaunch of the rationalist movement in India under the patronage of the Indian Rationalist (Ranchhoddas Bhavan Lotvala). In the rendered pages he argues that rationalism, by abolishing the fear of death and the apparatus of priestcraft, would release vast human energy for constructive, this-worldly human happiness, while conceding the difficulty of carrying freethought to the masses.
 

@@ -104,6 +104,7 @@ The 15 December 1959 issue of The Indian Libertarian (Vol. VII No. 22) is domina
 ## Essays
 
 ### EDITORIAL (Nehru's Monroe Doctrine for Asia)
+
 The unsigned lead editorial, 'Nehru's Monroe Doctrine for Asia', responds to Nehru's announcement that India would treat any Chinese attack on Nepal as an attack on India. The editors argue that this commitment is a unilateral guarantee that the Nepalese government under B. P. Koirala has not solicited and that India lacks the strength to honour: Nepal continues to have embassies in Khatmandu from America, the USSR and now China, and even Bhutan has begun to speak of 'independence' and may follow Nepal in opening ties with third powers. The same editorial cluster contains two further pieces — 'Indonesia Has Trouble With China', which uses Sukarno's expulsion of Chinese petty traders to argue that even ostensibly friendly Asian states find Peking impossible to live with; and 'C. R. Admits the Failure of Non-Alignment', which reports Rajagopalachari's Swatantra speech accepting that India's foreign policy has produced neither friends nor security. The editorial position is that non-alignment, far from being a posture of strength, has left India diplomatically isolated at precisely the moment its northern frontier is under armed challenge.
 
 - Nehru's pledge to defend Nepal is framed as an Asian Monroe Doctrine without the military or diplomatic capacity to back it
@@ -125,7 +126,7 @@ M. A. Venkata Rao's 'The Folly of Non-Alignment' argues that India's foreign pol
 - Rao calls for explicit alignment with the democratic West and an ideological break with planning-state socialism
 
 ### Menon Gives Away the Show
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal's 'Menon Gives Away the Show' reads Krishna Menon's recent speeches as a series of inadvertent admissions that the Defence Ministry has been caught unprepared by the Chinese on the Himalayan frontier. Tholal contrasts Menon's earlier confident claims about Indian preparedness against speeches that now concede shortages of equipment, road infrastructure and trained personnel, and treats Lt. Gen. Thimayya's resignation episode as further evidence that the civil-military relationship has broken down. The piece is unsparing toward what Tholal calls the rudeness and insolence of Menon's parliamentary style and treats his diplomatic posturing on disarmament and on Tito as substitutes for the harder work of actually equipping the army. Tholal's underlying argument is that Menon's continued tenure is itself a foreign-policy statement — one that signals to Peking that India will not take its own defence seriously.
 
@@ -135,7 +136,7 @@ M. N. Tholal's 'Menon Gives Away the Show' reads Krishna Menon's recent speeches
 - Diplomatic posturing on disarmament and Tito is presented as a substitute for genuine defence preparation
 
 ### An Analysis of U. S. Policy and Communist Vulnerability
-*By by Bertram D. Wolfe*
+*By Bertram D. Wolfe*
 
 Bertram D. Wolfe's 'An Analysis of U. S. Policy and Communist Vulnerability' — reprinted from the November 1959 New Leader — argues that American Cold War strategy under-rates the structural fragilities of the Soviet and Chinese systems. Wolfe contends that the communist states, far from being monolithic and inevitable, suffer from chronic legitimacy deficits, from the strategy-versus-tactics tension that bedevils any vanguard party, and from the long-run untenability of forced collectivisation. The essay traces the Leninist doctrine of strategy and tactics through Russian collectivisation and into Maoist applications, and treats the Russian peasant rising and the Hungarian revolt as evidence that the system is structurally fragile rather than ideologically secure. The article is, by Indian Libertarian standards, a long and technical piece of Cold War analysis; its function in this issue is to supply the argumentative arsenal with which the editors and Venkata Rao attack non-alignment.
 
@@ -144,8 +145,7 @@ Bertram D. Wolfe's 'An Analysis of U. S. Policy and Communist Vulnerability' —
 - Forced collectivisation in Russia and Maoist applications in China are presented as long-run structural weaknesses
 - The Hungarian revolt and the Russian peasant rising are cited as evidence of latent vulnerability inside the bloc
 
-### ECONOMIC SUPPLEMENT (Foreign Aid and Economic Development by Prof. G. N. Lawande; Private Sector and Third Plan by "Faces")
-*By G N Lawande*
+### Foreign Aid and Economic Development
 
 Opening the four-page Economic Supplement, G. N. Lawande's 'Foreign Aid and Economic Development' sets out the conditions under which external assistance actually accelerates development rather than entrenching dependence. Lawande draws a sharp line between aid that reinforces the recipient's own savings and investment capacity and aid that substitutes for domestic effort; the former is productive, the latter corrosive. He works through the standard donor instruments — grants, soft loans, food aid, technical assistance — and argues that what determines their usefulness is not the size of the inflow but the absorptive capacity, planning quality and savings rate of the recipient. The piece is written for an Indian audience reading it in the run-up to the Third Plan: Lawande's implicit message is that foreign aid is a complement to, never a substitute for, a domestic policy regime that rewards productive investment.
 
@@ -154,8 +154,8 @@ Opening the four-page Economic Supplement, G. N. Lawande's 'Foreign Aid and Econ
 - Absorptive capacity and planning quality are treated as the binding constraints on aid effectiveness
 - The piece is positioned as a corrective for Third Plan expectations that foreign aid will close the savings-investment gap on its own
 
-### The Futility of the Bombay Rents Control Act
-*By by D. M. K.*
+### ECONOMIC SUPPLEMENT (Foreign Aid and Economic Development by Prof. G. N. Lawande; Private Sector and Third Plan by "Faces")
+*By G N Lawande*
 
 The Economic Supplement's second piece, 'Private Sector and Third Plan' by the columnist 'Piem', makes the classical-liberal case for a larger and more genuinely autonomous private sector in the upcoming Third Five Year Plan. Piem reviews the record of the Second Plan, arguing that public-sector industrial projects have over-run their budgets and under-delivered output while the private sector has met or exceeded its targets despite a regulatory environment designed to constrain it. The piece treats the Planning Commission's enthusiasm for further nationalisation and licensing as not merely inefficient but as a direct threat to the household savings on which the Plan's investment targets depend. Piem's prescription is to liberalise licensing, narrow the public sector to genuine natural monopolies and infrastructure, and let private enterprise carry the bulk of new industrial investment.
 
@@ -164,8 +164,8 @@ The Economic Supplement's second piece, 'Private Sector and Third Plan' by the c
 - Piem argues for narrowing the public sector to natural monopolies and infrastructure
 - The piece reads as the editorial line of the Indian Libertarian inside the Third Plan debate
 
-### DELHI LETTER (Appeasement Implicit in Non-alignment — From Our Correspondent)
-*By From Our Correspondent*
+### The Futility of the Bombay Rents Control Act
+*By D. M. K.*
 
 D. M. K.'s 'The Futility of the Bombay Rents Control Act' argues that rent control in Bombay, originally a wartime emergency measure to protect tenants from the housing pressure created by refugee inflow, has hardened into a permanent regime that now produces the opposite of its intended effect. The piece works through how frozen rents have collapsed new private construction, how protected tenancies have created a privileged class of long-term occupants, and how the resulting black market in 'pugree' payments and side-deals transfers most of the value the law was meant to capture for tenants into the hands of intermediaries and landlords. D. M. K. then turns to the technicalities — the standard-rent formula, the categories of permitted increase, the special protections for refugee tenants — and shows how each provision has produced predictable evasion. The article reads as a classical-liberal case study in how a well-meaning intervention in a price system, sustained past its emergency rationale, ends up entrenching scarcity and unfairness rather than relieving them.
 
@@ -174,7 +174,13 @@ D. M. K.'s 'The Futility of the Bombay Rents Control Act' argues that rent contr
 - The 'pugree' black market is presented as the predictable consequence of binding price ceilings
 - Protected tenancies create a privileged class of incumbents at the expense of new entrants and refugees
 
+### DELHI LETTER (Appeasement Implicit in Non-alignment — From Our Correspondent)
+*By From Our Correspondent*
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### BOOK REVIEWS
+
 The 'Delhi Letter' from the magazine's Delhi correspondent argues that appeasement is now structurally implicit in Indian non-alignment. The correspondent surveys recent diplomatic traffic — the American presidential visit, Khrushchev's overtures, Indian dealings with Pakistan under Ayub Khan and with the smaller Arab and Asian states — and concludes that the policy of refusing alignment in fact obliges India to soften its responses to whichever great power is exerting immediate pressure. The piece is unimpressed by the parliamentary debate on the Chinese aggression, which it finds long on platitudes about peace and short on operational decisions about the frontier. Eisenhower's expected visit is treated as a political opportunity that the government is unlikely to use; the correspondent also notes the absence of any serious public discussion of the Sino-Indian boundary question's diplomatic options. The letter functions as the Delhi-eye-view complement to the volume's broader editorial line.
 
 - Non-alignment is recast as appeasement in operational form
@@ -183,6 +189,7 @@ The 'Delhi Letter' from the magazine's Delhi correspondent argues that appeaseme
 - Indian dealings with Ayub Khan's Pakistan are noted as evidence that even managed neighbours read the Indian posture as weakness
 
 ### NEWS DIGEST
+
 The issue's Book Reviews open with a notice of Ram Gopal's 'India of Vedic Kalpasutras' (National Publishing House, Delhi, 1959), a study of the Vedic Kalpasutra literature — the texts of Apastamba, Baudhayana, Gautama and Vasishtha — as a source for Vedic social and religious life. The reviewer situates the book against the existing scholarship of Dr. P. V. Kane and other Dharmasastra commentators, treats Ram Gopal's reconstruction of the period as careful and well-evidenced, and notes a few points of methodological disagreement. Only the first review is visible on the rendered final page; subsequent reviews continue past page 20 and are not included in the rendered set.
 
 - Ram Gopal's 'India of Vedic Kalpasutras' is reviewed as a careful reconstruction of Vedic society from the Kalpasutra literature

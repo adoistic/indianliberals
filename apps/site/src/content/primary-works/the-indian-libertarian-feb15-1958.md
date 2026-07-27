@@ -112,7 +112,7 @@ The unsigned editorial opens with the announcement of the Egypt–Syria merger i
 - Sets the issue's broader frame: free economy at home, libertarian democracy against both communism and theocratic blocs abroad.
 
 ### Non-violent Communism
-*By by Ven*
+*By Ven*
 
 'Ven' reads Congress President U. N. Dhebar's recent Gauhati pronouncements — and the Prime Minister's subsequent endorsement — as a commitment to gramdan, joint farming and full collectivisation under the cover of a peaceful, Indian idiom. The essay argues that the new line is 'non-violent communism' only in name: once the State takes over the land and decides how much labour is needed where, the apparatus that emerges will be indistinguishable from the Soviet model, with private property in land sacrificed, peasant initiative blunted, and the producer reduced to a labourer working at the pleasure of officials. The author warns that the Indian record so far gives no reason to expect that a Communist transformation will be either peaceful or productive.
 
@@ -123,7 +123,7 @@ The unsigned editorial opens with the announcement of the Egypt–Syria merger i
 - Calls on liberals to challenge the assumption that Indian socialism will be milder than its foreign predecessors.
 
 ### Heaviest Taxation In the World
-*By by Prof. R. J. Taraporewalla*
+*By Prof. R. J. Taraporewalla*
 
 Prof. R. J. Taraporewalla mounts a long, comparison-driven argument that India in 1958 carries the heaviest direct-tax burden in the world. He works through individual income tax, corporate tax, capital-gains tax, the proposed wealth tax and expenditure tax, and the cumulative effect of indirect taxes, setting Indian rates against those of the United States, Britain and other industrial economies. The essay concludes that the present structure of taxation — defended on egalitarian grounds — destroys both the inducement and the capacity to save, starves the private sector of capital, and so undermines the very capital formation on which the Plans rely. He recommends a sharp reduction of top rates, a lighter touch on companies, and the abandonment of the proposed wealth and expenditure taxes.
 
@@ -134,7 +134,7 @@ Prof. R. J. Taraporewalla mounts a long, comparison-driven argument that India i
 - Calls for cuts to top rates and abandonment of the proposed wealth and expenditure taxes.
 
 ### A Plan Without A Plan
-*By by Vivek*
+*By Vivek*
 
 'Vivek' surveys the unravelling of the Second Five Year Plan and concludes that the Government is now improvising — issuing successive 'cores' and revised priorities while quietly admitting that targets, financing and physical supplies do not add up. The essay reads the public quarrels inside the Cabinet between senior ministers as evidence that the Planning Commission no longer commands either the data or the political authority to guide the economy. The writer's deeper point is that planning of the Indian type cannot work without information and prices that only a market generates; the result of trying to plan without those signals is exactly the present spectacle of a plan without a plan.
 
@@ -145,7 +145,7 @@ Prof. R. J. Taraporewalla mounts a long, comparison-driven argument that India i
 - Frames the title — 'A Plan Without A Plan' — as the natural outcome of planning without markets.
 
 ### Our Relations With Pakistan
-*By by K. D. Valicha*
+*By K. D. Valicha*
 
 K. D. Valicha walks the reader through the recent Nehru–Suhrawardy correspondence on the Indus waters, joint defence and the no-war declaration, and through the renewed and now very large exodus of minorities from East Pakistan. He argues that India's habit of treating Pakistan as a normal neighbour, capable of being reasoned with by personal letters between Prime Ministers, ignores the underlying political reality that Pakistan's leadership draws legitimacy from anti-Indian and pan-Islamic sentiment. The essay catalogues the new flight of refugees from East Bengal — running, on his figures, into hundreds of thousands — and reads it as evidence that the Nehru-Liaquat formula on minorities has effectively broken down.
 
@@ -156,7 +156,7 @@ K. D. Valicha walks the reader through the recent Nehru–Suhrawardy corresponde
 - Concludes that India should drop the assumption of normal-neighbour reasoning and plan for prolonged hostility.
 
 ### A Story of A Neglected Freedom Fighter
-*By by J. Mazumdar*
+*By J. Mazumdar*
 
 J. Mazumdar offers a brief obituary-portrait of the revolutionary M. P. T. Acharya, who, the article reports, passed away on 30 March 1954 at his Bombay residence and whose name has been largely forgotten in the official histories of the freedom movement. Mazumdar traces Acharya's flight from British India, his work with Raja Mahendra Pratap, Maulana Barakatullah and others in setting up the Provisional Government of India in Kabul, his negotiations with the Bolshevik regime and Lenin, and his later years as one of the few Indian revolutionaries to break openly with Soviet Communism. The piece is at once a biographical tribute and an argument that the freedom movement was wider — and more libertarian — than the Congress-centric narrative admits.
 
@@ -183,7 +183,7 @@ This short unsigned essay revisits the long argument about Islam's relation to W
 - Connects the analysis to the issue's lead editorial on the UAR merger.
 
 ### A Polish Plea For Liberty
-*By by Sydney Gruson*
+*By Sydney Gruson*
 
 Reprinted from The New York Times, Sydney Gruson's report introduces Indian readers to the young Polish philosopher Leszek Kolakowski, whose articles in the Warsaw weekly Nowa Kultura have become the centre of the post-October revisionist debate. Gruson sketches Kolakowski's argument that Marxism has degenerated into a closed institutional doctrine and that human values — truth, dignity, intellectual honesty — must be defended against the apparatus, even against the Party that claims to embody them. The piece is included in the issue as one more piece of evidence — alongside the editorial on the UAR and Ven's essay on collectivisation — that the world-historical defence of liberty is now being fought as much inside the Communist bloc as outside it.
 
@@ -193,7 +193,7 @@ Reprinted from The New York Times, Sydney Gruson's report introduces Indian read
 - Aligns with the issue's wider argument that anti-communism and humanism are now allied causes.
 
 ### India As A Taxless Magnet
-*By by G. T. Olarenshaw*
+*By G. T. Olarenshaw*
 
 G. T. Olarenshaw profiles Hong Kong as what he calls a 'taxless magnet' — a small Crown Colony that has built a manufacturing and trading economy by holding its tax regime almost flat and refusing to chase its citizens or its companies through a battery of new levies. The essay contrasts Hong Kong's success with India's posture (described in Taraporewalla's article earlier in the issue) and argues that capital, enterprise and skilled labour move toward jurisdictions that tax lightly and govern predictably. The implicit lesson for India is that fiscal restraint, not fiscal ambition, is the more reliable path to industrial growth.
 
@@ -203,7 +203,7 @@ G. T. Olarenshaw profiles Hong Kong as what he calls a 'taxless magnet' — a sm
 - Implicitly contrasts Hong Kong's position with the Indian tax regime described elsewhere in the issue.
 
 ### In the Driftway
-*By by Jay Kay*
+*By Jay Kay*
 
 Jay Kay's 'Drift Way' column for this fortnight, headlined 'Welcome Deviation From Appeasement', reads the Centre's recent firmer line on the Communist ministry in Kerala as a long-overdue correction of what the columnist sees as years of indulgence toward Communist participation in legitimate institutions. The column links the Kerala question to a broader argument that fellow-travelling within the Congress and the Government has reached a point where it is no longer plausible to treat domestic Communists as just another democratic party. Jay Kay welcomes any move that distinguishes constitutional opposition from organised subversion and urges that the new tone be maintained.
 
@@ -213,7 +213,7 @@ Jay Kay's 'Drift Way' column for this fortnight, headlined 'Welcome Deviation Fr
 - Urges the Government to maintain the firmer tone rather than retreat to the previous accommodation.
 
 ### Where Stands Jan Sangh
-*By by M. A. Venkata Rao*
+*By M. A. Venkata Rao*
 
 M. A. Venkata Rao asks where the Bharatiya Jan Sangh now stands as a political force. The opening pages of his essay sketch the party's roots in the Punjab Hindu Sabha and the larger Hindu Mahasabha tradition, mark its break under S. P. Mookerjee from the Mahasabha's confessional politics, and locate it within the wider field of non-Congress opposition alongside the Liberal, Swatantra-tending and Praja Socialist forces that the magazine usually addresses. Rao treats the question of whether the Jan Sangh can outgrow its Hindi-belt and Hindu-revivalist base, become a credible national alternative to Congress, and absorb a broader liberal-conservative constituency as the central problem the party will have to solve through the coming general election. The essay is cut off at the end of the rendered pages and the rest of the analysis lies beyond this chunk.
 

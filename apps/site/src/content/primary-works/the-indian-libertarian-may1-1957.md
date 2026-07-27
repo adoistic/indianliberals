@@ -113,7 +113,7 @@ This unsigned commentary, drawn from the Times of India, ridicules the Praja Soc
 - Reprinted from the Times of India
 
 ### A View-Point on Libertarian Society
-*By By James Kielty*
+*By James Kielty*
 
 James Kielty argues that libertarianism is not utopianism: it can be conceived only by accepting the permanence of human problems and the willingness to share in solving them through responsible action. A libertarian society, he contends, rests on general acceptance of responsibility and a refusal to hand power to a minority, so that achievements come at the cost of less superficial 'stability.'
 
@@ -123,7 +123,7 @@ James Kielty argues that libertarianism is not utopianism: it can be conceived o
 - Accepts reduced 'stability' as the price of a free society
 
 ### American Arming of Pakistan
-*By By "Kamal"*
+*By "Kamal"*
 
 Written under the pseudonym 'Kamal', this 'Motives Analysed' piece examines the American arming of Pakistan, treating it as a destabilising Cold War manoeuvre that endangers India. It questions the strategic rationale offered for the arms and weighs how military pacts in the subcontinent serve American rather than regional interests.
 

@@ -119,7 +119,7 @@ M. A. Venkata Rao calls for a wholesale rethink of Indian foreign policy after w
 - Criticises the diplomatic premium placed on remaining friendly with aggressive neighbours.
 
 ### Enemies of English or India?
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal opposes the Congress drive to replace English with Hindi as India's lingua franca, arguing that English is in fact the 'mightiest pillar of freedom' available to a federation of distinct linguistic nations. He distinguishes Chakravarti Rajagopalachari's reasoned reservations about Hindi from the wholesale anti-English ideology of the Hindi enthusiasts, and contends that English is the practical glue of the all-India bureaucracy, the universities, and the press. Tholal sees the imposition of Hindi as a form of cultural majoritarianism that will erode rather than build the Indian Union.
 
@@ -129,7 +129,7 @@ M. N. Tholal opposes the Congress drive to replace English with Hindi as India's
 - Frames the language question as a civil-liberty and federalism issue, not a nationalist one.
 
 ### The Struggling Sector
-*By By Y. V. Visveswaran, M. A.*
+*By Y. V. Visveswaran, M. A.*
 
 Y. V. Visveswaran surveys the 'struggling sector' — Indian private enterprise — and finds it boxed in by central planning, the 1948 Industrial Policy Resolution, and the 1956 Avadi Resolution's preference for the public sector. Quoting Barbara Wootton's warning that '"Economic Planning" does not mean the death warrant of all private enterprise', he argues that the Indian private sector has nonetheless been forced into 'a period of trial and tribulations, stresses and strains' and is treated as a Cinderella in the Five-Year Plan map of the world. The article cites A. D. Shroff and Lal Bahadur Shastri on the need to reward and unshackle private enterprise, and closes with a sidebar of quotable lines from the Swatantra Party Pandal.
 
@@ -175,7 +175,7 @@ Reginald Jebb's 'Socialist Propaganda' argues, against the conventional Fabian c
 - Closes with the 'false claims of socialism' as a polemical frame.
 
 ### The Organonic Concept of Health and Its Social Consequences
-*By By Ola Raknes, Ph.D.*
+*By Ola Raknes, Ph.D.*
 
 Ola Raknes, drawing on Wilhelm Reich's orgone research, sketches an 'organomic' concept of health in which health is not merely the absence of disease but the free pulsation of biological energy across the whole organism. He argues that the medical profession has failed to supply a positive definition of health, that diagnostic specialisation by organ obscures the unity of the organism, and that armoured patterns of muscular and emotional restriction in modern life — produced by sexual repression and authoritarian upbringing — are the underlying source of widespread psychosomatic illness. The piece presents these claims as the social consequence of an 'organomic' rather than mechanistic medicine.
 

@@ -120,7 +120,7 @@ M. A. Venkata Rao's 'Agricultural Statesmanship' argues that with the Second Fiv
 - Closes with Adam Smith's Wealth of Nations passage on the colony trade as classical-liberal warning.
 
 ### Will U.S.A. Risk a War with China
-*By by Dr. K. N. Kini*
+*By Dr. K. N. Kini*
 
 Dr. K. N. Kini's 'Will U.S.A. Risk a War with China?' weighs Washington's apparent willingness to use Asian forces — and, if necessary, atomic weapons — against the People's Republic. He revisits the Korean precedent of 'making Asians fight Asians', argues that the Chinese have grown more difficult to intimidate since 1953, and treats Pakistan's strategic value to the United States as fragile because Karachi's anti-India obsession compromises any genuine SEATO commitment in the region.
 
@@ -130,7 +130,7 @@ Dr. K. N. Kini's 'Will U.S.A. Risk a War with China?' weighs Washington's appare
 - Assesses SEATO and other alliance frameworks as insufficient anchors for U.S. policy in Asia.
 
 ### De-Stalinisation
-*By by James Burnham*
+*By James Burnham*
 
 James Burnham's 'De-Stalinisation' argues that, after the Hungarian massacre and a renewed brutality of tone from the Kremlin, the talk of de-Stalinisation in the West has been overtaken by events. Burnham distinguishes Stalinism as a fused complex — police terror, single-party monopoly, planning, ideological mobilisation, expansion — and contends that the present Soviet leadership has surrendered only the most embarrassing of these features (the personal cult, the most flagrant frame-ups) while preserving the substance. He warns Western observers and Indian neutralists against reading Khrushchev's tactical adjustments as a structural liberalisation of the Communist order.
 
@@ -140,7 +140,7 @@ James Burnham's 'De-Stalinisation' argues that, after the Hungarian massacre and
 - Cautions Western and Indian opinion against credulous interpretations of 'de-Stalinisation'.
 
 ### Pak. Fifth-Columnists in India
-*By by Vigilant*
+*By Vigilant*
 
 The columnist 'Vigilant' surveys what he calls the Pakistani fifth column inside India. Beginning from the observation that Pakistan is 'perpetually carrying on a campaign of hate and hatred against India', the column argues that Karachi's propaganda is being amplified inside India by a network of sympathetic Urdu papers and informal cells, and presses the Indian Government to treat overt and covert Pakistani propaganda inside the country as a security matter rather than a free-speech curiosity.
 
@@ -149,7 +149,7 @@ The columnist 'Vigilant' surveys what he calls the Pakistani fifth column inside
 - Calls on the Government of India to act against the network as a security threat.
 
 ### Government Encouraged Black Marketing
-*By by Vivek*
+*By Vivek*
 
 Writing under the byline 'Vivek', the columnist takes T. T. Krishnamachari's recent budget-debate admission as confirmation that the regime of permits, controls and rationing has itself produced India's black market. The piece argues that the price-control and licensing apparatus erected since the Second Plan rewards diversion and bribery, and that the Finance Minister's candour is less a confession than an indictment of the planning system that made black-marketing structurally rational for the trader.
 
@@ -158,7 +158,7 @@ Writing under the byline 'Vivek', the columnist takes T. T. Krishnamachari's rec
 - Treats the planning apparatus, not the trader, as the originating cause of the parallel economy.
 
 ### Democracy at Discount in Islamic Nations
-*By by J. K. Dhairyawan*
+*By J. K. Dhairyawan*
 
 J. K. Dhairyawan opens 'Democracy at Discount in Islamic Nations' by invoking F. A. Ridley's recent characterisation of organised Roman Catholicism and organised Islam as the twin evils of the modern age, and proceeds to survey the post-1918 record of representative government across Egypt, Syria, Saudi Arabia, Jordan, Iraq, Iran, Pakistan and Indonesia. The essay argues that none of these states has consolidated a working constitutional order, that political life in each has alternated between military strongmen and clerical reaction, and that this pattern follows from the inability of Islamic legal and social culture to admit the separation of religion and state on which liberal democracy depends.
 

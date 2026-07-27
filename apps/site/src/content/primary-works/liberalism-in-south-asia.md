@@ -204,7 +204,7 @@ Sharad Joshi's cover essay asks whether Indian liberalism has any political futu
 - Joshi calls for a new liberal party — tentatively referenced as 'Swatantra Bharat' — built on Maharashtrian farmers and urban self-employed workers rather than the old elite.
 
 ### Liberalisation and Liberalism in India
-*By By Dr. Ashok V. Desai*
+*By Dr. Ashok V. Desai*
 
 Ashok V. Desai's essay traces the origins of India's post-independence 'control regime' to the wartime British economic machine that India inherited in 1947, and then explains why the economic liberalisation of the 1990s has proceeded without any accompanying liberal ideology. Desai catalogues the major instruments — industrial licensing, capital-flow controls, import controls, agricultural procurement and distribution controls, and discriminatory taxation — as mechanisms that were originally wartime expedients but became entrenched because powerful interests grew up around them. He distinguishes sharply between 'liberalisation' (the pragmatic relaxation of controls to reduce inefficiency) and 'liberal philosophy', arguing that India belongs to the post-war social-liberal tradition in which liberty is not accepted as the ultimate goal of political systems. The essay closes by observing that the foreign enterprise is perceived as a structural threat to domestic actors at every level of the economy, which explains the paradox of strong growth coexisting with pervasive shame and no public celebration of reform.
 
@@ -215,7 +215,7 @@ Ashok V. Desai's essay traces the origins of India's post-independence 'control 
 - The essay distinguishes clearly between liberalisation (a set of policy changes) and liberalism (a philosophy of individual freedom).
 
 ### Liberalism in Sri Lanka
-*By By Dr. Chanaka Amaratunga*
+*By Dr. Chanaka Amaratunga*
 
 Chanaka Amaratunga's essay surveys the surprisingly resilient prospects for liberalism in Sri Lanka. He opens with a long history of Sri Lanka's constitutional evolution — two constitutions (1972 and 1978), each drafted in a spirit of majoritarianism — and documents how political authoritarianism, ethnic conflict, and the civil war involving the LTTE have dominated the post-independence decades. Against this, he identifies several structural advantages: Sri Lanka's unbroken tradition of elected government since 1833, its adoption of proportional representation in 1989, and the active role of the Council for Liberal Democracy (CLD) and the Liberal Party (a full member of the Liberal International since 1987). The essay then outlines the Liberal Party's five-area reform programme: constitutional reform, resolution of ethnic conflict, economic reform, media freedom, and social freedom and criminal-law reform. Amaratunga argues that the party's sustained advocacy for federalism and maximum devolution of power to the provinces as the route to ethnic reconciliation distinguishes Sri Lankan liberalism in the region. He concludes that despite many illiberal features, Sri Lanka's history of constitutional government and small but committed liberal constituency make its prospects 'brighter than elsewhere in the South Asian region'.
 
@@ -227,7 +227,7 @@ Chanaka Amaratunga's essay surveys the surprisingly resilient prospects for libe
 - Liberals in Sri Lanka strongly oppose the death penalty, corporal punishment, censorship, and criminalisation of consensual adult acts.
 
 ### Liberal Aspects of Nepal's Constitution
-*By By Kusum Shrestha*
+*By Kusum Shrestha*
 
 Kusum Shrestha's essay reads Nepal's 1990 Constitution as an expression of liberal constitutionalism, arising out of the democratic movement that forced King Birendra to abandon the panchayat system. The essay catalogues the liberal structural features of the new constitution: sovereignty in the people, supremacy of the Constitution over any act of state, an independent judiciary, checks and balances between the King, the Parliament, and the executive, and an explicit bill of twelve fundamental rights — including rights to equality, personal liberty, freedom from preventive detention, press and publication rights, right to information, cultural and educational rights, right to religion, right to privacy, right to freedom from exile, and right to constitutional remedies. Shrestha identifies a 'dualistic approach' as the constitution's main limitation: civil and political rights are guaranteed and justiciable, but social, economic, and cultural rights are placed in 'Directive Principles and Policies of the State', which are aspirational and non-justiciable. She concludes that the challenge is to translate the liberal and democratic values embodied in the constitution into living reality, so that democratic and progressive aspirations of the people can be addressed.
 
@@ -239,7 +239,7 @@ Kusum Shrestha's essay reads Nepal's 1990 Constitution as an expression of liber
 - The essay ends with a call to translate constitutional liberal values into democratic reality to meet the aspirations of the people.
 
 ### Liberalism: The Eternal Quest for Freedom
-*By By Dr. Detmar Doering*
+*By Dr. Detmar Doering*
 
 Only the first page of Detmar Doering's essay falls within this chunk (printed page 20). In the rendered page, Doering opens with an intellectual-history argument: the idea that power must be limited is as old as mankind, traceable through classical authors (Cicero, Tacitus), medieval thinkers (Thomas Aquinas), and the Reformation. He credits John Locke's Two Treatises of Government (1689) as the first systematic rational theory of inalienable rights — life, liberty, and property. He then notes that Adam Smith's Physiocrats and the Scottish philosophical tradition developed a new approach to economics — the market economy — and that Montesquieu contributed the concept of division of power. The essay breaks off on page 20 with a reference to 19th-century liberal theorists including John Stuart Mill, Alexis de Tocqueville, Frédéric Bastiat, and Herbert Spencer.
 

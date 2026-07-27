@@ -121,7 +121,7 @@ The unsigned lead editorial mourns Govind Ballabh Pant as one of the last "immor
 - Warns that Nagaland's elevation may invite further linguistic and ethnic fragmentation
 
 ### Freedom Does Pay
-*By By WILLIAM HENRY CHAMBERLIN*
+*By WILLIAM HENRY CHAMBERLIN*
 
 William Henry Chamberlin's signed essay argues that the citizen of the United States is materially better off from infancy to old age than counterparts in any country where private initiative is hobbled or the dynamic forces of the market restricted. He contrasts the post-war recovery of West Germany under Ludwig Erhard, France, and Italy — economies released from controls — with the stagnation of East Germany and the Soviet bloc, and reproduces a "Four Freedoms" inventory (movement, occupation, enterprise, exchange) which he says nineteenth-century liberalism took for granted and which the welfare and planning states of the twentieth have steadily eroded.
 
@@ -131,7 +131,7 @@ William Henry Chamberlin's signed essay argues that the citizen of the United St
 - Argues that the war state and the welfare state share a common appetite for restricting market exchange
 
 ### Who Is Our Enemy No. 1?
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal asks whether Communist China or Pakistan should now be regarded as India's principal adversary and concludes that the threat from Peking is the larger, structural one — territorial, ideological, and backed by a great-power patron — while the Pakistan quarrel, however bitter, is bilateral and in principle negotiable. He surveys the Muslim position in Kashmir, the running argument over a plebiscite, and the alignment of pro-Communist parties in Kerala and elsewhere, and warns that domestic Communists may make common cause with external pressure if relations with China sour further. A pendant page of "Thoughts on Liberty" reprints aphorisms from Diderot, Lao Tze, Goethe and others, and a short anecdote ("Why 'Tiger'?") closes the section.
 
@@ -141,7 +141,7 @@ M. N. Tholal asks whether Communist China or Pakistan should now be regarded as 
 - Brackets the political argument with a reprinted page of liberty aphorisms from Diderot, Lao Tze and Goethe
 
 ### RATIONALIST SUPPLEMENT — Our National Head Quarters
-*By By S. Ramanathan*
+*By S. Ramanathan*
 
 Opening the four-page Rationalist Supplement, S. Ramanathan reports on the new American Humanist Association headquarters at Yellow Springs, Ohio — a "Humanist House" built on twenty acres — and uses it to argue that Indian rationalists must also acquire physical premises if their movement is to outlast its founders. He surveys the present Indian organisational landscape, in which Rationalist and Humanist groups, the Radical Humanist constituency of M. N. Roy, and assorted local atheist societies all rent borrowed space, and pleads for a national centre at which a library, lecture hall, and exchange-of-ideas room can be permanently established.
 
@@ -150,7 +150,7 @@ Opening the four-page Rationalist Supplement, S. Ramanathan reports on the new A
 - Names the M. N. Roy stream of radical humanism as one of the constituencies a national centre would have to accommodate
 
 ### Communism And Catholicism
-*By By Dr. J. V. Dubig*
+*By Dr. J. V. Dubig*
 
 Dr. J. V. Duhig argues that Communism is best understood as a religion — a vast organisation upholding political power against critical thought, with a creed, a saint-list, a clergy and an excommunication machinery — and that the closest analogue in form is not Protestant Christianity but the Roman Catholic Church. He runs the parallels through Party congresses functioning as ecumenical councils, the Politburo as curia, the rehabilitation and the show-trial as analogues of canonisation and the auto-da-fé, and concludes that the two systems share enough institutional DNA that liberals must guard against both even as they remain analytically distinct.
 
@@ -159,7 +159,7 @@ Dr. J. V. Duhig argues that Communism is best understood as a religion — a vas
 - Maps Politburo to curia, Party congresses to ecumenical councils, and the show-trial to the auto-da-fé
 
 ### The Door Darwin Opened
-*By By Colin McCall*
+*By Colin McCall*
 
 Colin McCall reviews the long shadow cast by Darwin's Origin of Species, arguing that evolution is now so much the common sense of biology that even theologians have been forced to absorb it, but that the metaphysical door Darwin opened — naturalism, the absence of design, the kinship of human and animal — remains a live argument. He surveys Darwin's nineteenth-century reception (Wallace, Lyell, Spencer), the Scopes controversy in America, and the persistence of literalist "fundamentalist" objection, and closes with a short editorial on mature intellectual methods signed by Don Werkheiser.
 

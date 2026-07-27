@@ -61,7 +61,7 @@ missing_metadata_flags:
 
 # STRONG MEDICINE FOR INDIA
 
-*By By LELAND HAZARD*
+*By LELAND HAZARD*
 
 ## Summary
 

@@ -1,0 +1,170 @@
+{
+ "batch": 22,
+ "cell": {
+  "tier": "B",
+  "retrieval": "named",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0141",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In The Indian Libertarian's 1 December 1959 issue, the contributor writing under the pseudonym 'Democrat' blames the country's drift toward bankruptcy partly on a Third Plan target designed by which economist, and what was that Rupee-crore figure?",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-dec1-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-dec1-1959": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-dec1-1959.pdf"
+    },
+    "answer_must_contain": ["Mahalanobis", "10,000"]
+   },
+   "rationale": "The 'Democrat' article names Mahalanobis and the Rs. 10,000 crore Third Plan target as the cause of the bankruptcy charge; both figures are stated only in this issue's summary of that piece."
+  },
+  {
+   "id": "il-0142",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In M. R. Masani's editorial 'The Lady and the Elephant' in Freedom First No. 293 (April 1977), what June 1975 court verdict does he cite as the origin of the crisis, and what phrase does he use to describe Indira Gandhi's subsequent refusal to resign?",
+   "expected": {
+    "docs": ["primary-works:ff293"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff293": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-1977.pdf"
+    },
+    "answer_must_contain": ["Allahabad High Court", "constitutional coup"]
+   },
+   "rationale": "Masani's editorial names the Allahabad High Court's June 1975 verdict and calls Gandhi's response a 'constitutional coup d'etat'; both are unique to this issue's summary."
+  },
+  {
+   "id": "il-0143",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the 6 December 1994 issue of Shetkari Sanghatak, where exactly (village and district) did police open fire on protesting farmers, as reported in that issue?",
+   "expected": {
+    "docs": ["primary-works:shetkari-sanghatak-dec-6-1994"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:shetkari-sanghatak-dec-6-1994": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-dec-6-1994.pdf"
+    },
+    "answer_must_contain": ["Hiwari", "Yavatmal"]
+   },
+   "rationale": "The issue's reportage names Hiwari village in Yavatmal district as the site of the police firing; the place-names are the only mechanically checkable facts here."
+  },
+  {
+   "id": "il-0144",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Prof. L. G. Bapat's 1975 Forum of Free Enterprise pamphlet on LIC policyholders, what mortality table, and from what years, does he say LIC still bases its premium tariffs on?",
+   "expected": {
+    "docs": ["primary-works:consumers-of-a-state-monopoly-lic-policyholders-ptof-l-g-bapat-15-january-1975"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:consumers-of-a-state-monopoly-lic-policyholders-ptof-l-g-bapat-15-january-1975": "https://archive.indianliberals.in/forum-of-free-enterprise/consumers-of-a-state-monopoly-lic-policyholders-ptof-l-g-bapat-15-january-1975.pdf"
+    },
+    "answer_must_contain": ["Oriental", "1925-35"]
+   },
+   "rationale": "Bapat identifies LIC's obsolete pricing basis as the Oriental (1925-35) Ultimate Mortality Table, a fact stated only in this pamphlet's summary."
+  },
+  {
+   "id": "il-0145",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In The Indian Libertarian's 15 December 1962 issue, the Delhi Letter reports Jayaprakash Narayan calling for which Cabinet minister's resignation, and for the formation of what?",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-dec15-1962"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-dec15-1962": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-dec15-1962.pdf"
+    },
+    "answer_must_contain": ["Krishna Menon", "war cabinet"]
+   },
+   "rationale": "The Delhi Letter names Krishna Menon's resignation and a war cabinet as Jayaprakash Narayan's demands, unique to this issue."
+  },
+  {
+   "id": "il-0146",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In A. D. Shroff's 1958 address 'Two Years of Achievement' to the Forum of Free Enterprise, which two former Finance Ministers does he say there is a 'strong case' for impeaching over the country's economic condition?",
+   "expected": {
+    "docs": ["primary-works:two-years-of-achievement-a-d-shroff-1958"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:two-years-of-achievement-a-d-shroff-1958": "https://archive.indianliberals.in/forum-of-free-enterprise/two-years-of-achievement-a-d-shroff-1958.pdf"
+    },
+    "answer_must_contain": ["Deshmukh", "Krishnamachari"]
+   },
+   "rationale": "Shroff names C. D. Deshmukh and T. T. Krishnamachari as the ex-Finance Ministers he would impeach; the surnames appear only in this address's summary."
+  },
+  {
+   "id": "il-0147",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In A. D. Shroff's 1961 pamphlet 'Industrial Finance and Investment in India', to what price did Tata Iron and Steel Company's Rs. 30 deferred shares rise during the First World War, and what percentage of profits does Shroff say Section 23-A(1) of the income-tax law forces closely-held companies to distribute?",
+   "expected": {
+    "docs": ["primary-works:industrial-finance-and-investment-in-india-a-d-shroff-october-5-1961"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:industrial-finance-and-investment-in-india-a-d-shroff-october-5-1961": "https://archive.indianliberals.in/forum-of-free-enterprise/industrial-finance-and-investment-in-india-a-d-shroff-october-5-1961.pdf"
+    },
+    "answer_must_contain": ["1,600", "50%"]
+   },
+   "rationale": "The pamphlet's summary gives both the Rs. 1,600 peak price of the deferred shares and the 50% forced-distribution rate under Section 23-A(1)."
+  },
+  {
+   "id": "il-0148",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Nittoor Srinivasa Rao's 'Integrity in National Life' (delivered as the A. D. Shroff Memorial Lecture), which two classical works — one Indian, one Greek — does he cite to frame integrity as a universal problem of organised life?",
+   "expected": {
+    "docs": ["primary-works:integrity-national-life-nittoor-srinivasa-rao-1971"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:integrity-national-life-nittoor-srinivasa-rao-1971": "https://archive.indianliberals.in/forum-of-free-enterprise/integrity-national-life-nittoor-srinivasa-rao-1971.pdf"
+    },
+    "answer_must_contain": ["Arthasastra", "Frogs"]
+   },
+   "rationale": "Rao opens by citing Kautilya's Arthasastra and Aristophanes' 'The Frogs', a pairing unique to this lecture's summary."
+  },
+  {
+   "id": "il-0149",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In The Indian Libertarian's 1 July 1959 issue, whose banned Polish student-paper piece, reprinted from the New Leader of New York, appears in translation, and what is its title?",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-jul1-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-jul1-1959": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jul1-1959.pdf"
+    },
+    "answer_must_contain": ["Kolakowski", "What Is Socialism"]
+   },
+   "rationale": "The issue reprints Leszek Kolakowski's 'What Is Socialism?' from the New Leader of New York; author and title are stated only in this issue's summary."
+  },
+  {
+   "id": "il-0150",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In A. D. Shroff's 1960 lecture 'Controls in a Planned Economy', how many Dodge cars does he say scarce foreign exchange was diverted to import for ministers and officials, and whose 'laws' does he invoke to characterise bureaucratic growth?",
+   "expected": {
+    "docs": ["primary-works:controls-in-a-planned-economy-a-d-shroff-november-8-1960"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:controls-in-a-planned-economy-a-d-shroff-november-8-1960": "https://archive.indianliberals.in/forum-of-free-enterprise/controls-in-a-planned-economy-a-d-shroff-november-8-1960.pdf"
+    },
+    "answer_must_contain": ["160", "Parkinson"]
+   },
+   "rationale": "Shroff cites the diversion of foreign exchange for 160 Dodge cars and invokes Northcote Parkinson's laws; both facts are unique to this lecture's summary."
+  }
+ ]
+}

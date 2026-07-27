@@ -105,7 +105,7 @@ M. A. Venkata Rao argues that India's defence philosophy and military doctrine r
 - Air, naval and ground rearmament require active Western and Commonwealth partnership.
 
 ### The Nuances of Non-alignment
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal mounts a polemical critique of non-alignment as a doctrine of 'Safety First' that, in his reading, has left India neither safe nor respected. Surveying the record from independence to the Sino-Indian war, he argues that the country was always exposed to communist subversion, that non-alignment offered no protection, and that the government's claim to occupy a moral perch above Cold War rivalries is a self-deception. The essay closes by calling for interdependence with the democracies, presenting alignment with the West not as a loss of sovereignty but as the most realistic guarantee of it.
 
@@ -115,7 +115,7 @@ M. N. Tholal mounts a polemical critique of non-alignment as a doctrine of 'Safe
 - Nehru's foreign policy is held responsible for inviting, rather than averting, aggression.
 
 ### Under The Red Flag
-*By By Susan Hunt*
+*By Susan Hunt*
 
 Susan Hunt files a despatch from Hong Kong describing the surge of refugees who continue to break out of Communist China through the New Territories border, despite armed border patrols on both sides. She narrates the human cost of the Great Leap Forward: starvation in the countryside, the failure of the people's communes, and a thriving traffic in food parcels mailed from Hong Kong relatives to families on the mainland. The piece pairs vignettes of individual escapes with a calmer accounting of how émigré associations and church groups in Hong Kong absorb the new arrivals.
 

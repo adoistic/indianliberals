@@ -124,7 +124,7 @@ The unsigned lead editorial reports on the 65th Congress session at Bangalore (1
 - Sets up the issue's overall posture: sympathetic to anti-Congress liberal alternatives such as the Swatantra Party.
 
 ### Agricultural Policy of the Swatantra Party
-*By By "Democrat"*
+*By "Democrat"*
 
 Writing under the pen-name 'Democrat', the author lays out the agricultural policy newly adopted by the Swatantra Party at its first national convention. Against the All India Agriculturists' Federation's preferred drafting committee, the Party's leadership has overridden the strongest free-market drafts to insist on retaining peasant family-farming, cooperative marketing and processing as the unit of rural reorganisation, while accepting a ceiling on holdings tied to productive use. The piece insists that the Swatantra approach is not laissez-faire absolutism but a 'middle path' between Congress collectivist planning and unrestrained landlordism — protecting the cultivating peasant against the State as much as against the older Zamindari order.
 
@@ -135,7 +135,7 @@ Writing under the pen-name 'Democrat', the author lays out the agricultural poli
 - Presents the policy as defending the peasant from both Congress planning and surviving landlord-bureaucratic structures.
 
 ### Nehru's Bluff and Bluster
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal opens his polemic with the bald claim that 'Russian neutrality between China and India' is a fiction now exploded by the latest Sino-Soviet declarations. The argument moves from the Sino-Soviet treaty to Nehru's vacillating posture on the McMahon Line, charging that India's Prime Minister has alternated between hollow self-reliance and panic appeals for great-power conciliation. Tholal then turns the article into an anthology, reprinting short verdicts on Communism by Bertrand Russell, Brian Horrocks, C. D. Darlington, Stephen Spender, Ignazio Silone, John Dos Passos and André Gide — each used to argue that India's official sympathy for the Communist bloc is intellectually indefensible and strategically suicidal.
 
@@ -155,7 +155,7 @@ An unsigned leader on the Sino-Indian border surveys the cartographic and milita
 - Calls for clear-eyed recognition that conciliation cannot reverse facts on the ground.
 
 ### Rationalist Supplement — The Prasadam Incident
-*By By S. Ramanathan*
+*By S. Ramanathan*
 
 S. Ramanathan, opening the Rationalist Supplement, takes up the controversy at the Tiruchendur temple in the deep South, where the Central Minister of State for Railways, S. V. Ramasami, was scheduled to address a Lawyers' Conference. A worshippers' protocol at this particular temple denies devotees direct contact with the prasadam: instead the priests scatter cow-dung-ash, scramble for the leaf-bundles, and require the worshippers to pick up the bundles 'from a distance' on pain of being forbidden to approach the idol. Ramasami publicly condemned the practice and refused to receive prasadam under those conditions; Ramanathan defends him, treating the temple custom as a humiliation 'inconsistent with human rights of equality guaranteed under the Constitution' and uses the incident to argue for legislative intervention against caste-driven temple practice.
 
@@ -166,7 +166,7 @@ S. Ramanathan, opening the Rationalist Supplement, takes up the controversy at t
 - Calls on the Central Cabinet and Congress High Command to back the Minister against orthodox pressure.
 
 ### Rationalist Supplement — Political Prisoner in Hungary
-*By By J. W. N. Watkins*
+*By J. W. N. Watkins*
 
 J. W. N. Watkins reconstructs the experience of Paul Ignotus, a Hungarian writer and political prisoner in the Stalinist and post-Stalinist period. Watkins describes the texture of the show trial — fantastic confessions extracted by what the article calls Pavlovian conditioning combined with simpler beatings, sleep deprivation, hunger and starvation diets — and the way Hungarian Communist functionaries such as Tibor Szonyi, László Rajk, János Kádár and Imre Nagy in turn became victims of the system they had built. The piece then describes Ignotus's release after the 1956 thaw and the renewed wave of repression that followed Soviet intervention. Throughout, Watkins uses the Hungarian case to argue that the Communist state's internal logic produces fear, denunciation and self-cannibalisation regardless of which faction is briefly in power.
 

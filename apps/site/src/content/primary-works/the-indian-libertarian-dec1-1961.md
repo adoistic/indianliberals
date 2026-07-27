@@ -126,7 +126,7 @@ Continuing a series begun in the previous issue, M. N. Tholal examines what stan
 - Calls on Indian Muslims to treat their religion as personal conscience and reserve political loyalty for the Indian state.
 
 ### Nehru's Wanderlust
-*By by J. M. Lobo Prabhu I.C.S. (Retd.)*
+*By J. M. Lobo Prabhu I.C.S. (Retd.)*
 
 J. M. Lobo Prabhu mocks Jawaharlal Nehru's relentless foreign travel — fresh from Belgrade and Moscow, the Prime Minister is now off to the United States and Mexico — as the 'wanderlust' of a man who treats himself as the travelling salesman of the world's problems. The piece needles Nehru's habit of intervening in distant crises while shrinking from a clear posture on the issues nearest home, especially the Chinese pressure on India's borders and the Berlin question. Lobo Prabhu argues that the world would be a safer place if a few major powers were left to manage their own affairs without Nehru's freelancing arbitration, and that the meeting with President Kennedy will only confirm how little leverage India's neutralist diplomacy actually carries when set against the realities of Cold War alignment.
 

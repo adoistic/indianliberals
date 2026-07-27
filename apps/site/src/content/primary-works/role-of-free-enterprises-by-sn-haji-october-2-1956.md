@@ -54,7 +54,7 @@ missing_metadata_flags:
 
 # Role of Free Enterprise
 
-*By By S. N. HAJI*
+*By S. N. HAJI*
 
 ## Summary
 

@@ -1,0 +1,170 @@
+{
+ "batch": 23,
+ "cell": {
+  "tier": "B",
+  "retrieval": "named",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0151",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to Indian Liberals' summary of Freedom First issue No. 436 (January–March 1998), which finance minister's 1997-98 budget does the issue credit, alongside the United Front coalition's Common Minimum Programme, with sustaining reform momentum despite coalition instability?",
+   "expected": {
+    "docs": ["primary-works:ff436"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff436": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1998.pdf"
+    },
+    "answer_must_contain": ["Chidambaram", "dream budget"]
+   },
+   "rationale": "Jiban K. Mukhopadhyay's contribution to Freedom First No. 436 names P. Chidambaram's 1997-98 'dream budget' as sustaining reform momentum amid coalition instability; this is a single fact stated in the brief's summary and key points."
+  },
+  {
+   "id": "il-0152",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In J. M. Lobo Prabhu's 1972 Forum of Free Enterprise pamphlet 'A Job-Oriented Fifth Five-Year Plan', how many hectares of idle and waste land does he identify as developable for agriculture, and which state government's 'Standing Offer of Work' programme does he hold up as a model the Fifth Plan should generalise?",
+   "expected": {
+    "docs": ["primary-works:a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972": "https://archive.indianliberals.in/forum-of-free-enterprise/a-job-oriented-fifth-year-plan-j-m-lobo-prabhu-september-15-1972.pdf"
+    },
+    "answer_must_contain": ["16.6 million", "Maharashtra"]
+   },
+   "rationale": "The brief's key points state 16.6 million hectares of idle and waste land are identified as developable, and the Maharashtra Government's Standing Offer of Work programme is held up as a constitutional model — both facts in a single key point of the brief."
+  },
+  {
+   "id": "il-0153",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to Indian Liberals' summary of the Swatantra Party's 1959 Statement of Principles, how many numbered principles does the document contain, and what does Principle 19 commit the party to uphold regarding the courts?",
+   "expected": {
+    "docs": ["primary-works:statement-of-principles-of-the-swatantra-party-aug2-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:statement-of-principles-of-the-swatantra-party-aug2-1959": "https://archive.indianliberals.in/swatantra-party/statement-of-principles-of-the-swatantra-party-aug2-1959.pdf"
+    },
+    "answer_must_contain": ["twenty-one", "judicial review"]
+   },
+   "rationale": "The brief states the Statement is organised as twenty-one numbered principles, and Principle 19 commits the party to the rule of law and full play of judicial review — both explicit in the brief's key points."
+  },
+  {
+   "id": "il-0154",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Freedom First issue No. 468 (January–March 2006), Sharad Bailur defends universal suffrage against whose proposed restriction of the vote to the educated, and what alternative electoral system does he propose to restore single-party majorities?",
+   "expected": {
+    "docs": ["primary-works:ff468"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff468": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-2006.pdf"
+    },
+    "answer_must_contain": ["Palkhivala", "two-round"]
+   },
+   "rationale": "The brief's key points state Bailur defends universal suffrage against Nani Palkhivala's proposed literacy restriction while proposing a two-round electoral runoff system, both in the same sentence of the source material."
+  },
+  {
+   "id": "il-0155",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Freedom First issue No. 223 (December 1970), C. S. Venkatachar's essay 'Article 356 - Use And Abuse' traces the provision to which section of the 1935 Government of India Act, and which state's 1951 case does he cite among the provision's earliest invocations?",
+   "expected": {
+    "docs": ["primary-works:ff223"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff223": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-1970.pdf"
+    },
+    "answer_must_contain": ["Section 93", "Punjab"]
+   },
+   "rationale": "The brief's key points state Venkatachar traces Article 356 to Section 93 of the 1935 Government of India Act and lists Punjab (1951) among its earliest invocations."
+  },
+  {
+   "id": "il-0156",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Kiran Nanda's 1995 Forum of Free Enterprise booklet 'Foreign Capital', what were FDI approvals in rupees for 1991 and for 1994, according to the figures she cites?",
+   "expected": {
+    "docs": ["primary-works:foreign-capital-by-kiran-nanda-december-17-1995"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:foreign-capital-by-kiran-nanda-december-17-1995": "https://archive.indianliberals.in/forum-of-free-enterprise/foreign-capital-by-kiran-nanda-december-17-1995.pdf"
+    },
+    "answer_must_contain": ["Rs.5.3", "Rs.118.6"]
+   },
+   "rationale": "The brief's key points state FDI approvals rose from Rs.5.3 bn (1991) to Rs.118.6 bn (1994), a single verbatim figure pair from the source."
+  },
+  {
+   "id": "il-0157",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Prof. R. J. Taraporevala's 1960 pamphlet on the Finance Act's new company tax scheme, what tax rate range does he recommend as a single flat non-refundable tax on gross corporate profits, and which penal super-tax section does he recommend abolishing along with it?",
+   "expected": {
+    "docs": ["primary-works:new-company-tax-scheme-prof-r-j-taraporevala-feb8-1960"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:new-company-tax-scheme-prof-r-j-taraporevala-feb8-1960": "https://archive.indianliberals.in/forum-of-free-enterprise/new-company-tax-scheme-prof-r-j-taraporevala-feb8-1960.pdf"
+    },
+    "answer_must_contain": ["35 and 40 percent", "Section 23A"]
+   },
+   "rationale": "The brief's final key point states Taraporevala recommends a flat tax of between 35 and 40 percent alongside abolition of Section 23A and the bonus issue tax, both in the same sentence of the source."
+  },
+  {
+   "id": "il-0158",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In M. A. Master's 1959 Forum of Free Enterprise lecture 'Indian Shipping: Its Struggles and Achievements', whose 1923 attempt to buy out the Scindia Steam Navigation Company does he recount, and in what year does he say the Visakhapatnam Shipbuilding Yard was founded by Walchand?",
+   "expected": {
+    "docs": ["primary-works:indian-shipping-m-a-master-sept6-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:indian-shipping-m-a-master-sept6-1959": "https://archive.indianliberals.in/forum-of-free-enterprise/indian-shipping-m-a-master-sept6-1959.pdf"
+    },
+    "answer_must_contain": ["Lord Inchcape", "1941"]
+   },
+   "rationale": "The brief's key points name Lord Inchcape's failed 1923 buyout attempt of the Scindia Steam Navigation Company and the 1941 founding of the Visakhapatnam Shipbuilding Yard by Walchand."
+  },
+  {
+   "id": "il-0159",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Freedom First issue No. 531 (September 2011), the cover pairs Anna Hazare's Ram Lila rally with an older image of which leader addressing crowds in 1975, and what is the title of D. S. Ranga Rao's article comparing the two Lokpal bills?",
+   "expected": {
+    "docs": ["primary-works:ff531"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff531": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2011.pdf"
+    },
+    "answer_must_contain": ["Jayaprakash Narayan", "Depends on Who's Asking"]
+   },
+   "rationale": "The brief states the cover pairs Hazare's rally with an older image of Jayaprakash Narayan addressing crowds in 1975, and lists D. S. Ranga Rao's article titled 'Two Lokpal Bills: Which is Better? Depends on Who's Asking.'"
+  },
+  {
+   "id": "il-0160",
+   "tier": "B",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to Freedom First issue No. 438 (July–September 1998), on what date did the magazine's founder, Minoo Masani, die?",
+   "expected": {
+    "docs": ["primary-works:ff438"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff438": "https://archive.indianliberals.in/freedom-first/freedom-first-jul1-1998.pdf"
+    },
+    "answer_must_contain": ["May 27, 1998"]
+   },
+   "rationale": "The brief's summary and key points state the issue marks Minoo Masani's death on May 27, 1998, a single unambiguous date fact."
+  }
+ ]
+}

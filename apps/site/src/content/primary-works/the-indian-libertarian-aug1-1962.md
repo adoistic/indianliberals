@@ -95,8 +95,7 @@ The collection's argumentative center is a classical-liberal worry about both en
 
 ## Essays
 
-### EDITORIAL — The Crisis In Our Foreign Policy
-*By M. A. Venkata Rao*
+### Conservative Liberals
 
 The unsigned editorial reads Harold Macmillan's July 1962 Cabinet purge — the dropping of Chancellor Selwyn Lloyd, the elevation of R. A. Butler to Deputy Prime Minister and First Secretary of State, and the promotion of younger 'Conservative Liberals' — as proof that the political center of gravity in Britain has shifted decisively toward Liberalism. The editorial argues that after a long eclipse between the wars, Liberal ideology has regained its 'balance of power' role: with the middle class holding the trump cards, neither Labour nor the Conservatives can govern without absorbing Liberal economic and constitutional principles, and the 'pay-pause' wage-restriction policy of the deposed Chancellor is cited as the kind of statist overreach that triggered the realignment.
 
@@ -105,8 +104,8 @@ The unsigned editorial reads Harold Macmillan's July 1962 Cabinet purge — the 
 - Frames the long inter-war Liberal eclipse as now reversed by middle-class voters holding 'balance of power' between Labour and Conservative.
 - Positions younger 'Conservative Liberals' as the ideological winners of the reshuffle.
 
-### Gandhi—Nehru Succession
-*By MA Venkata Rao*
+### EDITORIAL — The Crisis In Our Foreign Policy
+*By M. A. Venkata Rao*
 
 M. A. Venkata Rao's signed essay 'The Crisis In Our Foreign Policy' attacks the Defence Ministry's proposal to manufacture Soviet MiG fighter planes in India under licence. He treats the move — pressed publicly by Krishna Menon and quietly accepted by the Cabinet — as a step that drags India out of non-alignment and into the Soviet orbit at exactly the moment when the West, by quitting Goa, has 'freed India' of any reason to lean toward the USSR. He surveys the regional fallout (Pakistan's deepening alignment with the U.S., Portuguese-American naval cooperation, a possible joint Pak-Chinese front against Bangalore-based industries), and warns that the MiG deal will give Soviet technicians, advisers and ground staff a 'foothold of an unsuspected and ominous character' in India's military aviation infrastructure.
 
@@ -116,8 +115,8 @@ M. A. Venkata Rao's signed essay 'The Crisis In Our Foreign Policy' attacks the 
 - Warns that Soviet ground personnel embedded in Indian aircraft factories constitute a strategic 'foothold of an unsuspected and ominous character'.
 - Frames the J. P. Nehru government's choice as a betrayal of the 'cherished policy of non-alignment' it publicly professes.
 
-### Socialism Is Not The Answer
-*By By Dean Russell*
+### Gandhi—Nehru Succession
+*By MA Venkata Rao*
 
 M. N. Tholal's 'Gandhi—Nehru Succession — II' is the second instalment of a long polemical essay weighing whether Jawaharlal Nehru can credibly be called the heir of Mahatma Gandhi. Tholal argues that Gandhi's 'tortured', non-violent freedom struggle is being domesticated by Nehru's Congress into a top-down, semi-socialist state-building project that owes more to Mussolini and Karl Marx than to Gandhi's village-centric, voluntarist ethic. He revisits the 1922 Bardoli suspension, the 1942 Quit India movement, and the elevation of Sardar Patel to argue that Gandhi's true political successors were the radicals (M. N. Roy, Subhas Bose, Jayaprakash Narayan, Acharya Patwardhan) Nehru pushed aside.
 
@@ -126,8 +125,8 @@ M. N. Tholal's 'Gandhi—Nehru Succession — II' is the second instalment of a 
 - Names M. N. Roy, Subhas Bose, J. P. Narayan, and Acharya Patwardhan as the radicals whose marginalisation defined the actual line of succession.
 - Reads 'spinning' and the rural ideal as Gandhi's core programmatic legacy, betrayed by the Planning-Commission state.
 
-### DELHI LETTER — The Chinese Puzzle
-*By From Our Correspondent*
+### Socialism Is Not The Answer
+*By Dean Russell*
 
 Dean Russell's reprinted essay 'Socialism Is Not The Answer' argues that thinly disguised socialist policies — minimum wages, rent control, compulsory union membership, government housing — all rest on the conceit that 'government must provide' and end by destroying the competitive system that produced the standard of living the planners want to redistribute. Russell uses his own experience moving from rural Virginia to Washington as a parable: state-built apartments, cheap subsidies, and bureaucratic 'fair shares' shrink personal responsibility, produce sub-standard goods, and shift the meaning of freedom from self-direction to dependency. He closes with a warning that the very people clamouring for socialist guarantees would rebel against the regimentation that genuine socialism requires.
 
@@ -136,7 +135,9 @@ Dean Russell's reprinted essay 'Socialism Is Not The Answer' argues that thinly 
 - Argues that 'government must provide' is the slogan that ends competitive economy and individual initiative.
 - Closes with the warning that real socialism's regimentation would be rejected by the very voters now demanding its benefits.
 
-### Book Review — Understanding Profits
+### DELHI LETTER — The Chinese Puzzle
+*By From Our Correspondent*
+
 An unsigned Delhi Letter ('From Our Correspondent') titled 'The Chinese Puzzle' surveys the way the Nehru government, the External Affairs Ministry and the Prime Minister himself have been forced by Chinese intransigence on the border to abandon their preferred posture of withdrawal and reluctance. The correspondent reports debates inside the Ministry, the role of Krishna Menon, and the politically awkward fact that Indian schools and Anglo-Indian institutions are increasingly involved in the wider Cold-War posture. The letter closes with notes on Indo-Pak diplomacy and the Pakistan Constitution.
 
 - Reports the Ministry of External Affairs is being dragged off its preferred low posture by Chinese pressure on the border.
@@ -144,20 +145,23 @@ An unsigned Delhi Letter ('From Our Correspondent') titled 'The Chinese Puzzle' 
 - Connects domestic education policy (Anglo-Indian schools) to the broader Sino-Indian strategic question.
 - Briefly evaluates the Pakistani Constitution as a political instrument.
 
-### Gleanings from the Press
+### Book Review — Understanding Profits
+
 The Book Review section, captioned 'UNDERSTANDING PROFITS', notices the Asia Publishing House Indian edition of Kenneth McFarland and Elmer L. Winter's defence of profits, recommending it as an accessible primer on why profit-seeking firms — rather than state plans — best serve consumers and workers. The reviewer reads the volume as a useful counter to the dominant Indian intellectual mood, which assumes profit is exploitative.
 
 - Notices the Indian edition of McFarland and Winter's 'Understanding Profits' published by Asia Publishing House.
 - Reads it as a defence of profits as the engine of consumer welfare, not a sign of exploitation.
 - Recommends it to Indian readers as antidote to anti-business orthodoxy.
 
-### News & Views
+### Gleanings from the Press
+
 'Gleanings from the Press' clips short notices from contemporary papers, including coverage of Indo-Chinese tension, a Peking-Tokyo meeting, and other foreign-policy items the editors think their classical-liberal readership ought to mark. The section serves as a curated index of how mainstream Indian newspapers are framing the foreign-policy crises the journal's longer essays attack head-on.
 
 - Clip-style notices on Indo-Chinese tension and East-Asian diplomacy.
 - Functions as a curated press scan for the journal's classical-liberal readership.
 
-### Essay 8
+### News & Views
+
 The 'News & Views' column highlights Mr. Duncan Sandys's address on India's economic progress before the British Chambers of Commerce, the contribution of insurance and banking to industrial finance, and contested questions of equity-sharing and managing-agency reform. A second item reports on educational news from Andhra (Telugu vs. English as medium of instruction in colleges) and university affairs in Bhaktavatsalam's domain. The page closes with the journal's standing notes on Indian liberal events.
 
 - Reports Duncan Sandys's London speech on the importance of private capital in India's growth.
@@ -168,4 +172,8 @@ The 'News & Views' column highlights Mr. Duncan Sandys's address on India's econ
 ---
 
 *Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
+
+### Essay 8
+
+*No summary was extracted for this article. Listed for completeness.*
 

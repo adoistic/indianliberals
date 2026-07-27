@@ -1,0 +1,177 @@
+{
+ "batch": 26,
+ "cell": {
+  "tier": "mixed",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0236",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "An essay on India's economic reforms uses a specific two-word phrase to describe the kind of economy that socialist-era licensing produced by curbing competition and consumer choice — what is that phrase? Separately, a farmers'-movement periodical's issue dated 21 March 1992 leads with its founder's elegiac front-page essay mourning a family death — what issue number, within that year's volume, is this particular issue?",
+   "expected": {
+    "docs": ["musings:the-perils-of-a-welfare-state", "primary-works:shetkari-sanghatak-march-21-1992"],
+    "paragraph_ids": {
+     "musings:the-perils-of-a-welfare-state": ["p-dbfc86"]
+    },
+    "pdf_urls": {
+     "primary-works:shetkari-sanghatak-march-21-1992": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-march-21-1992.pdf"
+    },
+    "answer_must_contain": ["shortage economy", "Issue 23"]
+   },
+   "rationale": "\"Shortage economy\" is the essay's own coinage for licensing's effect and appears only in that paragraph; the issue number is bibliographic metadata unique to that periodical issue, so a full answer needs both sources."
+  },
+  {
+   "id": "il-0237",
+   "skip": true,
+   "reason": "The Tier A source is an unfilled auto-generated stub ('Editorial review pending') with no substantive content beyond the subject's name and title — there is no fact to pair with the Tier B work for a genuine multi-source question, and any question would have to lean on the subject's own name, which blind retrieval forbids."
+  },
+  {
+   "id": "il-0238",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One essay on democracy quotes a nineteenth-century Italian political theorist's warning that a society stops being democratic once government becomes the sole employer and landlord, leaving no independent social force able to oppose it. A speech given at a business-advocacy body's Silver Jubilee argues that all so-called economic controls are, in truth, only ever controls on people rather than on goods, since goods themselves have no preferences. Name the Italian theorist quoted in the first piece, and the international trade body whose immediate past presidency the speaker in the second piece had just held.",
+   "expected": {
+    "docs": ["musings:the-essence-of-democracy-3", "primary-works:free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982"],
+    "paragraph_ids": {
+     "musings:the-essence-of-democracy-3": ["p-cc9c30"]
+    },
+    "pdf_urls": {
+     "primary-works:free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982": "https://archive.indianliberals.in/forum-of-free-enterprise/free-market-economy-key-to-economic-progress-and-freedoms-by-ma-rangoonwala-1982.pdf"
+    },
+    "answer_must_contain": ["Croce", "International Chamber of Commerce"]
+   },
+   "rationale": "The Croce reference is unique to this essay's paragraph on autonomous social forces; the ICC presidency detail is unique to the Rangoonwala speech's introduction, so the answer needs both."
+  },
+  {
+   "id": "il-0239",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A nineteenth-century Bengal social reformer, remembered as an early defender of press freedom, submitted a formal memorial to the Governor-General protesting a licensing ordinance imposed on Indian-language newspapers — in what year did he submit it? Separately, an unsigned notes section in a Cold War-era periodical issue from 1955 criticises a newly proposed government body for publishing books, warning that it risks something specific at the expense of private publishers — what does the note say it risks?",
+   "expected": {
+    "docs": ["thinkers:raja-ram-mohan-roy", "primary-works:ff042"],
+    "paragraph_ids": {
+     "thinkers:raja-ram-mohan-roy": ["p-8a3f72"]
+    },
+    "pdf_urls": {
+     "primary-works:ff042": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1955.pdf"
+    },
+    "answer_must_contain": ["1823", "political favouritism"]
+   },
+   "rationale": "The 1823 memorial date is specific to the thinker's biography paragraph, and the National Book Trust warning is specific to that 1955 issue's notes section; neither fact substitutes for the other."
+  },
+  {
+   "id": "il-0240",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1989 address given during a business-advocacy body's Silver Jubilee celebrations refers to an ongoing annual lecture series held in memory of the body's founder — what number lecture in that series was being delivered that day? Separately, a special section on terrorism in a periodical issue from September 2008 argues for a proposed federal anti-terrorism agency by pointing to a nineteenth-century British suppression campaign against a criminal cult as a historical model — name the cult.",
+   "expected": {
+    "docs": ["musings:making-capital-out-of-consumer-goods", "primary-works:ff495"],
+    "paragraph_ids": {
+     "musings:making-capital-out-of-consumer-goods": ["p-e70884"]
+    },
+    "pdf_urls": {
+     "primary-works:ff495": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2008.pdf"
+    },
+    "answer_must_contain": ["24th", "Thuggee"]
+   },
+   "rationale": "The lecture's ordinal number is stated only in the musing's opening paragraph, and the Thuggee parallel is specific to the Balachandran essay in that 2008 issue; both must be retrieved."
+  },
+  {
+   "id": "il-0241",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A parliamentarian associated with a market-oriented opposition party, jailed after the 1975 Emergency, wrote a book on democracy during his prison term and later hoped to launch a grassroots political movement built on booth-level volunteer service — what name did he give the proposed movement? Separately, a June 1977 compilation pamphlet on India's economic direction summarises a monetarist scheme for capping inflation, built around a constitutional cap on money-supply growth and known by its own acronym — what is that acronym?",
+   "expected": {
+    "docs": ["opinions:piloo-mody-swatantra-witty-parliamentarian", "primary-works:fresh-thinking-on-planning-and-prices-june-14-1977"],
+    "paragraph_ids": {
+     "opinions:piloo-mody-swatantra-witty-parliamentarian": ["p-a3c5bd"]
+    },
+    "pdf_urls": {
+     "primary-works:fresh-thinking-on-planning-and-prices-june-14-1977": "https://archive.indianliberals.in/forum-of-free-enterprise/fresh-thinking-on-planning-and-prices-june-14-1977.pdf"
+    },
+    "answer_must_contain": ["Nav Nirman", "FULLMANGAL"]
+   },
+   "rationale": "\"Nav Nirman\" names the movement described only in the profile's closing paragraph; \"FULLMANGAL\" names the anti-inflation scheme summarised only in the pamphlet, so both sources are required."
+  },
+  {
+   "id": "il-0242",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A young woman in nineteenth-century Bombay refused to live with the husband to whom she had been married as a child, prompting a court case that sought to force her back to him — name the husband. She later trained as a doctor at which named university? Separately, a periodical issue from September 1971 carries an open letter, from a former Indian Ambassador to the United States, accusing American arms support for a regional crackdown of amounting to what serious crime?",
+   "expected": {
+    "docs": ["primary-works:rukhmabai-an-unrelenting-force-against-patriarchy-indian-liberals", "primary-works:ff232"],
+    "paragraph_ids": {
+     "primary-works:rukhmabai-an-unrelenting-force-against-patriarchy-indian-liberals": ["p-af3bc5"]
+    },
+    "pdf_urls": {
+     "primary-works:ff232": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1971.pdf"
+    },
+    "answer_must_contain": ["Bikaji", "University of London", "genocide"]
+   },
+   "rationale": "The husband's name and the London medical degree come only from the transcript's biographical paragraph; the genocide accusation is unique to G. L. Mehta's open letter in that 1971 issue, so both sources are needed."
+  },
+  {
+   "id": "il-0243",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1957 presidential address to an employers' federation recounts the government's takeover, by executive order, of the internal trade in one particular commodity — which commodity? The same address closes by quoting a maxim on the limits of legitimate government from which American president? Separately, a constitutional-law pamphlet on property rights anchors its argument in a real compensation case involving a named company under a 1953 West Bengal land-acquisition law — name the company.",
+   "expected": {
+    "docs": ["musings:homi-mody-free-enterprise-foreign-exchange", "primary-works:compensation-or-expropriation-by-dr-rustom-c-cooper"],
+    "paragraph_ids": {
+     "musings:homi-mody-free-enterprise-foreign-exchange": ["p-5a1890", "p-8948dd"]
+    },
+    "pdf_urls": {
+     "primary-works:compensation-or-expropriation-by-dr-rustom-c-cooper": "https://archive.indianliberals.in/forum-of-free-enterprise/compensation-or-expropriation-by-dr-rustom-c-cooper.pdf"
+    },
+    "answer_must_contain": ["cement", "Lincoln", "Port Canning"]
+   },
+   "rationale": "The cement takeover and Lincoln attribution are unique to the 1957 address's two paragraphs; the Port Canning case is unique to the pamphlet's worked example, so the full answer requires both."
+  },
+  {
+   "id": "il-0244",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "An interviewee recalls that a noted business journalist attended the first of a series of early-1990s conferences near Nashik, organised to shape an alternative liberal budget — name that journalist (surname is sufficient). Separately, a 2012 book making an absolutist case for free speech treats a 1988 ban on a controversial novel as the watershed moment that emboldened religious hardliners in India — name the novel.",
+   "expected": {
+    "docs": ["primary-works:sunil-bhandare-on-private-enterprise-post-1991-reforms", "primary-works:at-liberty-to-express-and-offend"],
+    "paragraph_ids": {
+     "primary-works:sunil-bhandare-on-private-enterprise-post-1991-reforms": ["p-bb4cd4"]
+    },
+    "pdf_urls": {
+     "primary-works:at-liberty-to-express-and-offend": "https://archive.indianliberals.in/other-publications/at-liberty-to-express-and-offend.pdf"
+    },
+    "answer_must_contain": ["Ninan", "Satanic Verses"]
+   },
+   "rationale": "The journalist's name is mentioned only in the interview transcript's paragraph on the Nashik conference; the novel is named only in the free-speech book's summary, so both sources are required."
+  },
+  {
+   "id": "il-0245",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A piece on reforming the bureaucracy recalls that it began as an address to an international seminar held in a particular Indian coastal state, and proposes a 'sunset law' capping how long any government department may run before requiring fresh legislative approval — name the state, and the length of that cap. Separately, a 1979 lecture on market economies argues that hostility to markets in the Third World is partly propagated through international bodies, and lists several United Nations agencies by their acronyms — name one of the acronyms it lists.",
+   "expected": {
+    "docs": ["theprint-mirror:indian-bureaucracy-incentives-rewards", "primary-works:market-by-the-dock-by-pt-bauer-january-1981"],
+    "paragraph_ids": {
+     "theprint-mirror:indian-bureaucracy-incentives-rewards": ["p-ec446c", "p-4e614f"]
+    },
+    "pdf_urls": {
+     "primary-works:market-by-the-dock-by-pt-bauer-january-1981": "https://archive.indianliberals.in/forum-of-free-enterprise/market-by-the-dock-by-pt-bauer-january-1981.pdf"
+    },
+    "answer_must_contain": ["Goa", "ten years", "ECAFE"]
+   },
+   "rationale": "Goa and the ten-year sunset cap come only from the bureaucracy piece's origin note and rule paragraph; ECAFE is one of the UN agencies named only in the Bauer lecture's summary, so both sources are needed."
+  }
+ ]
+}

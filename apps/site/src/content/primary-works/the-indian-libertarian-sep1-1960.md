@@ -115,7 +115,7 @@ M. A. Venkata Rao's 'National Introspection' argues that India, having won freed
 - Argues unity must rest on shared institutions, not coercion.
 
 ### India's Enemies are Nehru's Friends
-*By by M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Thölal's polemic 'India's Enemies are Nehru's Friends' argues that the figures and forces Nehru cultivates abroad and indulges at home are precisely those hostile to India's interests. In the rendered pages he indicts the government's handling of the Congress, of frontier security, and of fellow-travelling sympathisers, casting Nehru's judgement of friends and enemies as fatally inverted.
 
@@ -125,7 +125,7 @@ M. N. Thölal's polemic 'India's Enemies are Nehru's Friends' argues that the fi
 - Continues the journal's anti-Nehru, anti-fellow-traveller line.
 
 ### Lokayata: Indian Materialism
-*By by S. Ramanathan*
+*By S. Ramanathan*
 
 S. Ramanathan's 'Lokayata: Indian Materialism' reviews a book on the ancient Indian materialist school and recovers the Charvaka/Lokayata tradition as an indigenous precedent for rationalism. In the rendered pages he draws on this materialist lineage to argue that scepticism and this-worldly reason are native to Indian thought, not foreign imports, situating contemporary Indian rationalism within a long domestic heritage.
 

@@ -1,0 +1,89 @@
+{
+ "batch": 3,
+ "cell": {
+  "tier": "A",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0126",
+   "skip": true,
+   "reason": "The second source's brief supplies only its ThePrint mirror boilerplate paragraph (no actual article content), so no genuine multi-source question can be built that requires reading both pieces."
+  },
+  {
+   "id": "il-0127",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One essay contended that India's constitutional idea of a secular state sits closer to a particular foreign country's model than to the European one. Another essay, drawing on a 1993 magazine piece, distinguished several different senses in which a society or state could be called secular, including one built on equal respect for every religion. Which foreign country's concept did the first essay say India's conception was nearer to, and what hyphenated term did the second essay use for that equal-respect value?",
+   "expected": {
+    "docs": ["musings:secular-state-rajaji", "musings:the-three-meanings-of-secularism"],
+    "paragraph_ids": {
+     "musings:secular-state-rajaji": ["p-684773"],
+     "musings:the-three-meanings-of-secularism": ["p-144fde"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["American concept", "sarva-dharma-samabhava"]
+   },
+   "rationale": "Only the first essay states which country's model India's secular concept is said to resemble, and only the second names the sarva-dharma-samabhava value; a correct answer needs both."
+  },
+  {
+   "id": "il-0128",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One article accused a government minister's convocation speech of implicitly threatening the nationalisation of commercial banks and argued that pragmatism, not ideology alone, should guide banking policy. A separate, decades-earlier article on economic planning argued that ownership matters less than control, approvingly quoting a British socialist writer who said not everything need be socialized at once. Name the minister criticized in the first piece and the British socialist writer quoted in the second.",
+   "expected": {
+    "docs": ["musings:nani-palkhivala-on-socialism", "musings:planning-by-minoo-masani-1945"],
+    "paragraph_ids": {
+     "musings:nani-palkhivala-on-socialism": ["p-420a9f", "p-1f1f68"],
+     "musings:planning-by-minoo-masani-1945": ["p-622cee"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Asoka Mehta", "G.D.H. Cole"]
+   },
+   "rationale": "The minister's name appears only in the banking article and the socialist writer's name only in the planning article, so both sources are needed to answer both halves."
+  },
+  {
+   "id": "il-0129",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "Two political figures both worked closely with the founder of the Swatantra party: one was invited by him to serve as the party's president for a decade, while the other, before entering politics, founded an English-language daily newspaper in 1921 and later became the first chief minister of a newly formed state. Name the university that today bears the name of the first figure, and name the state whose first chief minister was the second.",
+   "expected": {
+    "docs": [
+     "musings:acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart",
+     "musings:tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom"
+    ],
+    "paragraph_ids": {
+     "musings:acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart": ["p-7c8626", "p-6d6eb8"],
+     "musings:tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom": ["p-bc597c", "p-142e7b"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Acharya NG Ranga Agricultural University", "Andhra State"]
+   },
+   "rationale": "The university name is stated only in the Ranga profile and the state name only in the Prakasam profile, so a correct answer must draw on both."
+  },
+  {
+   "id": "il-0130",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One recollection of Hindi cinema noted that heroes before a certain era were drawn from a specific set of professions and were never businessmen, listing several examples of these professions. A separate commentary on India's economic reforms named the governing economic philosophy that provided the ideological justification for restricting business freedom after independence. Name one of the non-business professions listed in the first account, and name the economic philosophy described in the second.",
+   "expected": {
+    "docs": [
+     "primary-works:bollywood-and-cultural-change-in-attitude",
+     "primary-works:role-of-ideology-in-indias-liberalisation"
+    ],
+    "paragraph_ids": {
+     "primary-works:bollywood-and-cultural-change-in-attitude": ["p-72693d"],
+     "primary-works:role-of-ideology-in-indias-liberalisation": ["p-25ee1a"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Joshis", "Nehruvian consensus"]
+   },
+   "rationale": "The list of pre-businessman film professions appears only in the Bollywood recollection and the named policy consensus only in the ideology commentary, so both are required."
+  }
+ ]
+}

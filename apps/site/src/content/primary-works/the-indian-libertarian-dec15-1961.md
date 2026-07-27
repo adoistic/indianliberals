@@ -96,7 +96,7 @@ The Economic Supplement carries Prof. G. N. Lawande's exposition of 'The Swatant
 ## Essays
 
 ### Democratic Statesmanship Today
-*By By M. A. Venkata Rao*
+*By M. A. Venkata Rao*
 
 The unsigned lead editorial, 'Nehru's Statism', argues that the Prime Minister has given the go-by to the ideals of individual freedom and liberty in whose name Indians fought British rule. It reads Nehru's defence of the 'socialistic pattern' and his hostility to the new Swatantra Party as evidence that the Congress has aligned itself, in spirit and method, with the collectivist regimes the journal opposes. The editorial uses recent statements from the Congress leadership as a frame to insist that the genuinely Indian alternative is a free people based on free enterprise.
 
@@ -122,7 +122,7 @@ Rao surveys the qualifications he thinks democratic leadership requires — comp
 - Uses Lincoln (and indirectly Marx) as the polar examples that frame the modern political imagination.
 
 ### Economic Supplement — The Swatantra Manifesto
-*By By Prof. G. N. Lawande, M.A.*
+*By Prof. G. N. Lawande, M.A.*
 
 M. N. Tholal's 'Nehru's New Way Of Thinking' is a polemical column on the Prime Minister's foreign policy, written in the wake of recent border tensions and a fresh round of speeches at home and abroad. Tholal argues that Nehru's 'new way of thinking' amounts to a series of accommodations with Communist powers — particularly China and the Soviet Union — that Indian liberals cannot accept, and that the public is increasingly unwilling to swallow either.
 

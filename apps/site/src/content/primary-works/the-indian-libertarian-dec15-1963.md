@@ -119,7 +119,7 @@ M. A. Venkata Rao surveys the world balance of power after the Cuban missile cri
 - Notes the limits of disarmament negotiations so long as Communist ambitions remain unchecked.
 
 ### Nehru's Fanciful Image
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal attacks what he calls Nehru's 'fanciful image' of himself and of India, taking the Prime Minister's autobiographical and political writings as a sustained exercise in self-flattery that has been mistaken for thought. The essay argues that Nehru's rhetorical habit of describing his own emotions and intentions has stood in for serious analysis of policy, and that this habit accounts for the gap between India's professed ideals and its actual condition. Tholal returns repeatedly to Nehru's handling of China and to the post-1962 disenchantment, treating the border defeat as the moment when the image and the country finally separated in public view. The piece is polemical rather than systematic, but its target is consistent: a politics of personality and gesture that, in the author's view, has substituted itself for a politics of results.
 
@@ -141,7 +141,7 @@ Opening the four-page Economic Supplement, Prof. G. N. Lawande lays out a textbo
 - Implies that Indian planning has neglected productivity in favour of consumption stimulus.
 
 ### A National Minimum
-*By By J. M. Lobo Prabhu*
+*By J. M. Lobo Prabhu*
 
 The Economic Supplement's second piece, by Phiroze J. Shroff, is a direct rebuttal of the recurring demand to nationalise India's commercial banks. He argues that the cry for nationalisation rests on a misreading of how Indian banks actually allocate credit, and that taking the banks under state ownership would lodge the supply of working capital inside an administrative machine already overburdened with priorities. The essay warns that a nationalised banking system would become an instrument of political patronage rather than of productive credit, would destroy the discipline that depositors impose on bank managements, and would weaken the parliamentary scrutiny that private banks must currently submit to. For Shroff, bank nationalisation is therefore both an economic mistake and a constitutional one — a transfer of one more sphere of decision from citizens and shareholders to ministers and officials.
 
@@ -163,7 +163,7 @@ J. M. Lobo Prabhu's 'A National Minimum' asks what minimum standard of life the 
 - Sees ministerial minimum-standard rhetoric as cover for failed central allocation.
 
 ### Workman Quarrels with his tools
-*By By C. Rajagopalachari*
+*By C. Rajagopalachari*
 
 The 'Delhi Letter' reports on the moves underway to dislodge Sucheta Kripalani from the chief ministership of Uttar Pradesh and to pre-empt the formation of a stable Congress government in the state. The correspondent traces the alliances among aspirants to her job, the role of the Congress high command in encouraging the manoeuvre, and the wider implication that intra-party rivalry has become the substitute for policy in the country's largest state. The piece treats the affair as evidence of the Congress's failure to settle the line between central direction and state autonomy, and as one more reason that the party's claim to monopolise government is wearing thin. A short companion item, 'Flight from Communism', records the recent figures for refugees from East to West Germany and quotes Dr. Ludwig Erhard on the meaning of the Berlin Wall.
 

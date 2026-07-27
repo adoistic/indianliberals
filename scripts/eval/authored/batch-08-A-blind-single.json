@@ -1,0 +1,134 @@
+{
+ "batch": 8,
+ "cell": { "tier": "A", "retrieval": "blind", "shape": "single" },
+ "questions": [
+  {
+   "id": "il-0031",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay comparing ancient Indian ideas of kingship with Plato's philosopher-kings also draws a grim comparison to religious persecution in Europe. How many heretics does it say were burned by the authority of the Inquisition Court?",
+   "expected": {
+    "docs": ["musings:the-wisdom-of-the-rulers"],
+    "paragraph_ids": { "musings:the-wisdom-of-the-rulers": ["p-0346ba"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["30,000"]
+   },
+   "rationale": "The 30,000-heretic figure for the Inquisition Court appears only in this paragraph's aside on religious persecution."
+  },
+  {
+   "id": "il-0032",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An analysis of India's sales tax history says one province was the first to adopt a General Sales Tax, in 1938. Which province was it?",
+   "expected": {
+    "docs": ["musings:jamshed-antia-views-on-sales-tax"],
+    "paragraph_ids": { "musings:jamshed-antia-views-on-sales-tax": ["p-3ae588"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Madras"]
+   },
+   "rationale": "The opening paragraph names Madras as the first Province to adopt the General Sales Tax, in 1938."
+  },
+  {
+   "id": "il-0033",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "Which American political scientist, quoted in an essay about the tension between intellectual life and the exercise of power, wrote that a president 'cannot still the voice of truth'?",
+   "expected": {
+    "docs": ["musings:the-perils-of-state-support"],
+    "paragraph_ids": { "musings:the-perils-of-state-support": ["p-0184ef"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Morgenthau"]
+   },
+   "rationale": "Hans Morgenthau and this exact quotation from his 'Truth and Power' appear only in this paragraph."
+  },
+  {
+   "id": "il-0034",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay proposing an alternative to party-based elections points to one European country as already running a version of the idea, crediting its cantons and culture of public service. Which country is named?",
+   "expected": {
+    "docs": ["musings:towards-party-less-democracy"],
+    "paragraph_ids": { "musings:towards-party-less-democracy": ["p-6e027e"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Switzerland"]
+   },
+   "rationale": "Switzerland is the only country cited as an existing example of ministers chosen on merit across party lines."
+  },
+  {
+   "id": "il-0035",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An opinion piece contends that progress requires a few individuals to rise to the top so others can emulate them, and dates this idea to a particular year. What year does it cite?",
+   "expected": {
+    "docs": ["theprint-mirror:communism-assumptions-gn-lawande"],
+    "paragraph_ids": { "theprint-mirror:communism-assumptions-gn-lawande": ["p-280546"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["1958"]
+   },
+   "rationale": "The piece dates this claim about progress and emulation to 1958, its only substantive content paragraph."
+  },
+  {
+   "id": "il-0036",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In a recorded oral history, an economist recalls that his business patron never obstructed any article, speech, or comment he made, however consequential. Among the reforms he claims credit for proposing, alongside gold control and industrial licensing changes, which act does he say was 'canceled'?",
+   "expected": {
+    "docs": ["primary-works:d-r-pendse-on-his-relationship-with-jrd-tata"],
+    "paragraph_ids": { "primary-works:d-r-pendse-on-his-relationship-with-jrd-tata": ["p-e61529"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Monopoly act"]
+   },
+   "rationale": "The speaker explicitly credits himself with proposing that the Monopoly act be canceled, alongside gold control and industrial licensing."
+  },
+  {
+   "id": "il-0037",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "skip": true,
+   "reason": "The brief's only content is one anonymous speaker's abstract reflection on pandemic-era left-right convergence and moral outrage, with no proper noun, number, date, or institution distinctive enough for a sound answer_must_contain string; the sole candidate ('The US') is too short and too common a substring to check reliably."
+  },
+  {
+   "id": "il-0038",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "skip": true,
+   "reason": "The only content is an auto-created editorial stub with 'Editorial review pending' — no substantive fact exists to ask about without inventing one."
+  },
+  {
+   "id": "il-0039",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay on inflation notes that an IMF chief endorsed India's official claim of having reversed inflation during a visit to the country, alongside the World Bank president. Name the IMF chief.",
+   "expected": {
+    "docs": ["musings:controlling-inflation-in-india-br-shenoy-1977"],
+    "paragraph_ids": { "musings:controlling-inflation-in-india-br-shenoy-1977": ["p-e08f11"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Witteveen"]
+   },
+   "rationale": "Witteveen is named as the IMF chief who endorsed India's inflation-reversal claim, only in this paragraph."
+  },
+  {
+   "id": "il-0040",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In an oral history about grassroots civic tools, a speaker describes assembling a nonpartisan panel of former judges and police officials that collected thousands of public submissions on corrupt candidates, ultimately naming a final list of contestants with criminal records. How many candidates appeared on that list?",
+   "expected": {
+    "docs": ["primary-works:fashioning-tools-for-peoples-movement"],
+    "paragraph_ids": { "primary-works:fashioning-tools-for-peoples-movement": ["p-85fc59", "p-a337ef"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["42"]
+   },
+   "rationale": "The speaker gives the final tally of 42 criminals contesting office, following the panel's review of 2600 public submissions."
+  }
+ ]
+}

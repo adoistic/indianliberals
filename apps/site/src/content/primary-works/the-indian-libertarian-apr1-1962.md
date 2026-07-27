@@ -93,8 +93,7 @@ Volume X, Number 1 of The Indian Libertarian — a Bombay fortnightly that 'stan
 
 ## Essays
 
-### The Crucial Years Ahead
-*By M. A. Venkata Rao*
+### Disarmament Conference
 
 The unsigned editorial bundles four short pieces. 'Disarmament Conference' reports on the 17-Nation conference at Geneva, arguing that Russia is using the meetings as a propaganda platform to embarrass the United States while America and Britain insist on adequate inspection of an Atom-Test-Ban Treaty. 'The Chinese Puzzle' reads the widening Sino-Soviet split through Chinese resentment of de-Stalinisation and Moscow's tactical disengagement from Asia. 'Goa Integration With India' welcomes the Goa, Daman and Diu Integration Amendment Bill as the constitutional completion of liberation. 'Here and There' surveys domestic news, including Mr. Lal Bahadur Shastri's denial that the Congress is drifting toward a single-party state.
 
@@ -103,8 +102,8 @@ The unsigned editorial bundles four short pieces. 'Disarmament Conference' repor
 - The editorial endorses the constitutional integration of Goa, Daman and Diu into the Union.
 - Lal Bahadur Shastri's reassurances cannot conceal Congress's drift toward one-party dominance.
 
-### Information Vs Ignorance
-*By MA Venkata Rao*
+### The Crucial Years Ahead
+*By M. A. Venkata Rao*
 
 M. A. Venkata Rao reads the 1962 general election results as a chastening verdict on the Congress's two-decade dominance. He welcomes the emergence of four credible opposition forces — Swatantra, the Praja Socialist Party, Jana Sangh and the Communists — and urges them to function as a serious parliamentary check rather than as spoilers, while pressing the ruling party to surrender its sectarian identification of national interest with party programme. The essay frames the years ahead as a test of whether India can build a self-correcting two-bloc politics on constitutional foundations rather than slide further into single-party planning.
 
@@ -113,8 +112,8 @@ M. A. Venkata Rao reads the 1962 general election results as a chastening verdic
 - Constitutional democracy requires a contestable two-bloc politics, not a permanent ruling party.
 - Sectarian identification of party with state must be dismantled if pluralism is to survive.
 
-### Watchman, What of the Night?
-*By J. M. Lobo Prabhu I.C.S. (Retd)*
+### Information Vs Ignorance
+*By MA Venkata Rao*
 
 M. N. Tholal attacks Mr. Nehru's claim — made at a UN Seminar on Freedom of Information — that the principle of 'truth at all costs' can be misused. Tholal argues the inverse: suppression and selective disclosure by states are the principal threat to public reason, and a citizen's right to know is the precondition of a free order. He links the argument to Cuba, where, he says, the abolition of free elections proves what happens when governments are released from the discipline of an informed electorate.
 
@@ -123,8 +122,8 @@ M. N. Tholal attacks Mr. Nehru's claim — made at a UN Seminar on Freedom of In
 - Cuba, on Tholal's reading, shows the end-state of restricted-information regimes.
 - Nehru's qualifications on press freedom are a danger sign for Indian liberty.
 
-### Delhi Letter — Our Pettifogging Prime Minister
-*By From Our Correspondent*
+### Watchman, What of the Night?
+*By J. M. Lobo Prabhu I.C.S. (Retd)*
 
 J. M. Lobo Prabhu, a retired ICS officer, reads Congress's renewed legislative majority as a warning rather than a mandate. The Constitution, he argues, was designed to function as a watchman against arbitrary power, but is being slowly hollowed out by patronage politics and by parties that confuse themselves with the State. The essay calls on the press, the judiciary and civic associations to play the role the founders assigned them, and closes with a Lincoln epigraph on the contested meaning of 'liberty' — warning that universal franchise without an informed electorate degenerates into 'dangerous franchise'.
 
@@ -133,7 +132,9 @@ J. M. Lobo Prabhu, a retired ICS officer, reads Congress's renewed legislative m
 - Universal franchise without an educated electorate risks degenerating into 'dangerous franchise'.
 - Lincoln's reminder that 'liberty' is contested supplies the essay's polemical anchor.
 
-### Book Review
+### Delhi Letter — Our Pettifogging Prime Minister
+*By From Our Correspondent*
+
 The Delhi Letter, by an unnamed correspondent, savages Mr. Nehru's recent Rajya Sabha pronouncements on Berlin, NATO, the Cold War, and Master Tara Singh's Punjabi Suba agitation. The Prime Minister is portrayed as a pettifogger — pedantic, indecisive, and prone to undermine his own ministers' decisions. The correspondent reads Nehru's discomfort with NATO and his accommodation of Khrushchev as evidence of an instinctive tilt toward Soviet positions, and argues that the Punjab crisis has been mishandled by a centre that prefers slogans to settlement.
 
 - Nehru's Rajya Sabha replies betray indecision and an instinct to defer to Moscow.
@@ -141,20 +142,23 @@ The Delhi Letter, by an unnamed correspondent, savages Mr. Nehru's recent Rajya 
 - Domestic crises — Punjab in particular — are being mismanaged from the centre.
 - The premiership has become a cult of personal pettifoggery rather than statesmanship.
 
-### Gleanings from the Press
+### Book Review
+
 A short notice on 'Communism in India' by Gene D. Overstreet and Marshall Windmiller commends the authors for a thorough, documentary history of the Communist Party of India and its strategic alignments with Moscow. The reviewer notes the book's value in tracing how planning ideology and Soviet sympathies entered Indian government through advisers around Mahalanobis, and reads Professor Galbraith's recent remarks as a sign that even sympathetic Western liberals have begun to question the Nehru government's planning regime.
 
 - Overstreet and Windmiller's history of the CPI is welcomed as a documentary corrective.
 - Planning ideology and Soviet methods entered Indian statecraft through advisers around Mahalanobis.
 - The reviewer reads Galbraith's recent assessments as Western disenchantment with Indian planning.
 
-### News & Views
+### Gleanings from the Press
+
 'Gleanings from the Press' opens with Orissa Chief Minister Biju Patnaik's startling charge that the Congress had become 'totalitarian', a confession the Liberals seize on as evidence from inside the ruling party itself. Adjacent items reprint editorial calls for fiscal restraint and warn against the use of administrative power to penalise critical newspapers.
 
 - Biju Patnaik publicly described the Congress as 'totalitarian', a remark the Liberals turn against the ruling party.
 - The column foregrounds press freedom and fiscal restraint as the test cases for the new government.
 
-### Essay 8
+### News & Views
+
 'News & Views' assembles a long miscellany. FICCI is reported as concerned about runaway municipal expenditure under civic heads. A new Parliamentary Board of the Swatantra Party is announced. Rajaji's bitter allegations against the Congress are reprinted alongside the Ahmedabad Citizens' Conference call to retain English as a link language, the Dalai Lama's appeal for Indo-Chinese mediation, and a note on the Liberal opposition's plans for the territorial army.
 
 - FICCI flags municipal extravagance as a fiscal-policy concern.
@@ -167,4 +171,8 @@ A short notice on 'Communism in India' by Gene D. Overstreet and Marshall Windmi
 ---
 
 *Generated by the v1.5 extraction pipeline. Awaiting editorial review.*
+
+### Essay 8
+
+*No summary was extracted for this article. Listed for completeness.*
 

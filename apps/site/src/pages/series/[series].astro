@@ -64,7 +64,7 @@ const numberedCount = g.items.filter((w) => ordinalOf(w) !== null).length;
         <p class="text-(--color-fg-muted) text-xs mt-4 font-(family-name:--font-ui) border-l-2 border-(--color-border) pl-3">
           Numbered run, incomplete: {numberedCount} of {g.items.length} works here
           carry a confirmed number. Missing below No. {Math.max(...g.ordinals)}
-          — {g.gaps.join(", ")}.
+          : {g.gaps.join(", ")}.
         </p>
       )}
 

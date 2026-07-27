@@ -1,0 +1,179 @@
+{
+ "batch": 2,
+ "cell": {
+  "tier": "A",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0116",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "Two early Indian liberal politicians each built reputations through institutional work before turning to wider politics. One earned the title 'Father of the Municipal Government' in a major Indian city and became its municipal commissioner in a particular year; the other, a schoolteacher-turned-editor who joined public life after reading a confidential pamphlet, later argued at a 1921 conference for the citizenship rights of Indians living in British dominions. In what year did the first become municipal commissioner, and what was the name of the 1921 conference?",
+   "expected": {
+    "docs": ["opinions:the-moderate-liberalism-of-ferocious-mehta", "opinions:v-s-srinivasa-sastri"],
+    "paragraph_ids": {
+     "opinions:the-moderate-liberalism-of-ferocious-mehta": ["p-bd530f"],
+     "opinions:v-s-srinivasa-sastri": ["p-0fd3a2"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["1873", "Imperial Conference"]
+   },
+   "rationale": "The municipal-commissioner year is stated only in the Mehta profile and the 1921 conference name only in the Sastri profile, so both must be consulted."
+  },
+  {
+   "id": "il-0117",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "An 18th-century satirical essay on commerce imagines a merchant who 'dispatches Orders from his Compting-House' to two named trading ports, while a 20th-century liberal essay on liberalism compares everyday consumer choice to casting a vote and gives two example brand names for soap. Name one of the two ports mentioned in the first passage, and one of the two soap brands mentioned in the second.",
+   "expected": {
+    "docs": ["musings:voltaire-on-trade", "musings:minoo-masani-liberalism"],
+    "paragraph_ids": {
+     "musings:voltaire-on-trade": ["p-26a985"],
+     "musings:minoo-masani-liberalism": ["p-f6ab50"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Grand Cairo", "Hamam"]
+   },
+   "rationale": "The trading port appears only in the trade essay and the soap brand only in the liberalism essay, so a complete answer needs both."
+  },
+  {
+   "id": "il-0118",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "Two Indian liberal essays on freedom each lean on a well-known outside authority. One defines freedom functionally by quoting the title of a Polish-British anthropologist's book; the other traces the negative-versus-positive-rights distinction to a famous work whose author is often invoked by market liberals worldwide. Name the anthropologist's book, and name the title of the other essay's central reference work.",
+   "expected": {
+    "docs": ["musings:philosophy-of-freedom", "musings:freedom-and-economic-freedom-bibek-debroy-2008"],
+    "paragraph_ids": {
+     "musings:philosophy-of-freedom": ["p-56adc0"],
+     "musings:freedom-and-economic-freedom-bibek-debroy-2008": ["p-c48758"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Freedom and Civilisation", "Road to Serfdom"]
+   },
+   "rationale": "Each essay cites a different outside book to ground its argument, so the pair of titles can only be assembled by reading both."
+  },
+  {
+   "id": "il-0119",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One address delivered to commemorate a liberal social reformer's 101st birthday diagnosed the disappearance of an early liberal party from Indian politics as fatal to popular government. A different piece describes a rival liberal-leaning party founded soon after, whose formation was triggered by fears sparked at a Congress session held in a particular city. In what year was the commemorative address delivered, and in which city was the Congress session that triggered the new party's founding held?",
+   "expected": {
+    "docs": ["opinions:b-r-ambedkar-social-reform-failure-of-indian-liberalism", "opinions:swatantra-party-a-big-tent-challenge-to-congress-hegemony"],
+    "paragraph_ids": {
+     "opinions:b-r-ambedkar-social-reform-failure-of-indian-liberalism": ["p-2db4d4"],
+     "opinions:swatantra-party-a-big-tent-challenge-to-congress-hegemony": ["p-e05ceb"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["1943", "Nagpur"]
+   },
+   "rationale": "The speech's year sits only in the Ambedkar piece and the triggering city only in the Swatantra piece, forcing use of both sources."
+  },
+  {
+   "id": "il-0120",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "An audio narration adapting a 1977 economist's paper on consumer control of the economy explains that under communism individuals lack fundamental economic rights and the economy also lacks a specific institutional mechanism for trading goods ahead of time. A mirrored archival copy of an opinion piece by the same economist notes it was originally published on a specific date before being re-hosted for AI-agent readability. Name that missing institutional mechanism, and give the original publication date of the mirrored opinion piece.",
+   "expected": {
+    "docs": ["theprint-mirror:social-injustice-socialist-economic-systems-br-shenoy", "primary-works:il-explainer-ep1-br-shenoy"],
+    "paragraph_ids": {
+     "theprint-mirror:social-injustice-socialist-economic-systems-br-shenoy": ["p-d888df"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["forward markets", "2026-03-21"]
+   },
+   "rationale": "The missing-market detail lives only in the video transcript and the original publication date only in the mirror's boilerplate notice, so both must be checked."
+  },
+  {
+   "id": "il-0121",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One essay proposing remedies for black money suggests the Government let holders surrender it for a specific percentage of its value in white money, up to a fixed 1974 deadline. Another essay analyzing employment under India's Five-Year Plans states the expected addition to the labour force during the Third Plan period (1961-66). What percentage does the first essay propose for that early surrender window, and what was the expected addition to the labour force cited by the second essay for that period?",
+   "expected": {
+    "docs": ["theprint-mirror:demonetisation-black-money-bp-adarkar", "theprint-mirror:planning-unemployment-india-five-year-plans"],
+    "paragraph_ids": {
+     "theprint-mirror:demonetisation-black-money-bp-adarkar": ["p-3a50aa"],
+     "theprint-mirror:planning-unemployment-india-five-year-plans": ["p-7a9ab9"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["90%", "17 million"]
+   },
+   "rationale": "The surrender percentage is unique to the black-money essay and the labour-force figure unique to the unemployment essay, so both are required."
+  },
+  {
+   "id": "il-0122",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1958 speech delivered at a business forum's convention on state trading argues that any new state economic activity must meet a specific public-interest test. A separate 1959 essay on state monopolies traces the constitutional amendment permitting the state to exclude citizens from a trade to an earlier judgment that struck down a state government's cancellation of certain transport licences as contrary to a specific law. Name that law, and give the exact date on which the convention (where the public-interest-test speech was delivered) took place.",
+   "expected": {
+    "docs": ["musings:limits-and-limitations-of-state-trading", "musings:state-monopolies-and-the-citizen-in-a-democracy"],
+    "paragraph_ids": {
+     "musings:limits-and-limitations-of-state-trading": ["p-6be4b3"],
+     "musings:state-monopolies-and-the-citizen-in-a-democracy": ["p-9ed42b"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Motor Vehicles Act", "April 28, 1958"]
+   },
+   "rationale": "The convention date is only in the state-trading speech and the cited law only in the state-monopolies essay, so both sources are necessary."
+  },
+  {
+   "id": "il-0123",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 1959 booklet on industrial policy identifies a specific nationalisation event as the 'first breach' in India's stated industrial policy. A separate essay by the same author uses a named industrialist as a hypothetical example of an entrepreneur who could still be blocked from running his company by decision-makers in the capital. On what date in the early 1950s did that 'first breach' nationalisation occur, and what is the name of the hypothetical industrialist used as the example?",
+   "expected": {
+    "docs": ["musings:pitfalls-in-our-industrial-policy", "theprint-mirror:private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi"],
+    "paragraph_ids": {
+     "musings:pitfalls-in-our-industrial-policy": ["p-8f8998"],
+     "theprint-mirror:private-enterprise-built-indias-industries-now-its-strangled-by-gods-in-delhi": ["p-71fa53"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["August 1953", "A. D. Shroff"]
+   },
+   "rationale": "The nationalisation date sits only in the industrial-policy booklet and the named industrialist only in the companion essay, requiring both."
+  },
+  {
+   "id": "il-0124",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 1959 prize-winning essay on Indian democracy cites a specific low percentage return earned on the Centre's state-enterprise investment for a particular year. A separate 1959 essay on the constitution and the individual quotes a public figure who contrasted a land-ceiling law with a historic category of landed estates seized earlier. What percentage return does the first essay cite, and what category of estates does the quoted figure name for contrast?",
+   "expected": {
+    "docs": ["musings:democracy-in-india-by-jm-lobo-prabhu", "musings:the-individual-and-indian-constitution"],
+    "paragraph_ids": {
+     "musings:democracy-in-india-by-jm-lobo-prabhu": ["p-6b1da2"],
+     "musings:the-individual-and-indian-constitution": ["p-9b92ee"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["1 per cent", "Zamindaris"]
+   },
+   "rationale": "The investment-return figure appears only in the democracy essay and the estate category only in the constitution essay, so both are needed."
+  },
+  {
+   "id": "il-0125",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "Two archived pieces about poverty and economic policy in India draw on the same 1980 essay but preserve different amounts of it. One, cut short partway through, cites specific 1968 and 1978 poverty-rate percentages and a total headcount below the poverty line. The fuller version continues further and quotes a British poet-essayist on the connection between controlling the production of wealth and controlling human life itself. What total headcount does the shorter version cite for people below the poverty line, and who is the poet-essayist quoted near the end of the fuller version?",
+   "expected": {
+    "docs": ["musings:a-blueprint-for-eradication-of-poverty-bp-godrej-1980", "theprint-mirror:was-indias-public-sector-born-out-of-european-envy"],
+    "paragraph_ids": {
+     "musings:a-blueprint-for-eradication-of-poverty-bp-godrej-1980": ["p-870ca5"],
+     "theprint-mirror:was-indias-public-sector-born-out-of-european-envy": ["p-b23acb"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["356 million", "Hilaire Belloc"]
+   },
+   "rationale": "The headcount figure was trimmed from the fuller mirror while the poet-essayist quote was added only in the fuller mirror, so the two versions must both be read."
+  }
+ ]
+}

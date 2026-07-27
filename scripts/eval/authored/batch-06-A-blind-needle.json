@@ -1,0 +1,146 @@
+{
+ "batch": 6,
+ "cell": { "tier": "A", "retrieval": "blind", "shape": "needle" },
+ "questions": [
+  {
+   "id": "il-0091",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "In a discussion of religious identity before British colonial census-taking, one speaker describes a transactional, patchily integrated pre-colonial world using a paired set of adjectives. What are the two adjectives used together to describe this world?",
+   "expected": {
+    "docs": ["primary-works:sagarika-ghose-battle-of-ideologies"],
+    "paragraph_ids": { "primary-works:sagarika-ghose-battle-of-ideologies": ["p-75168f"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Islamisate", "Indic"]
+   },
+   "rationale": "This paragraph is the only place in the corpus pairing 'Islamisate' and 'Indic' to describe the pre-colonial world of intermingled devotion."
+  },
+  {
+   "id": "il-0092",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "One interview describes an author who was voted onto a global ideas platform's list of '33 Entrepreneurs Who Make The World A Better Place,' and whose second-named book won an award in 2018. Name the platform and the award.",
+   "expected": {
+    "docs": ["opinions:indian-liberals-interviews-hindol-sengupta"],
+    "paragraph_ids": { "opinions:indian-liberals-interviews-hindol-sengupta": ["p-62721b"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["IdeaMensch", "Wilbur Award"]
+   },
+   "rationale": "Only this paragraph names IdeaMensch as the platform and the Wilbur Award as the 2018 prize for the interviewee's second book."
+  },
+  {
+   "id": "il-0093",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "One essay compares several 20th-century national ideologies to their dreams — the Nazi's superman, Mussolini's revived empire, the communists' New Mass Man — before turning to a freedom leader whose vision was a republic of autonomous villages living an 'Arcadian life' close to nature. Name that leader and the book in which he set out this vision.",
+   "expected": {
+    "docs": ["musings:to-prosperity-through-freedom-v-r-1960"],
+    "paragraph_ids": { "musings:to-prosperity-through-freedom-v-r-1960": ["p-aff294"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Gandhi", "Hind Swaraj"]
+   },
+   "rationale": "This paragraph's list of national ideological dreams closes with Gandhi and Hind Swaraj, distinguishing it from generic discussions of the same leader."
+  },
+  {
+   "id": "il-0094",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A biting critique of society women's meetings says they arrive in fancy shawls and embroidered turbans, get through 'a whole ton of supari nuts' and 'cartloads of betel leaves' — and then use up a tank full of what, before going home having accomplished nothing?",
+   "expected": {
+    "docs": ["opinions:the-unwavering-feminism-of-tarabai-shinde"],
+    "paragraph_ids": { "opinions:the-unwavering-feminism-of-tarabai-shinde": ["p-301f24"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["rosewater"]
+   },
+   "rationale": "The quoted critique's specific list of consumed items, ending in a tank of rosewater, appears only in this paragraph."
+  },
+  {
+   "id": "il-0095",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "An essay on traditional Indian values for regulating economic and desire-satisfying activities coins two adjectives — one for wealth-and-income-acquiring activities, one for want-satisfying activities. What are they called?",
+   "expected": {
+    "docs": ["musings:my-idea-of-a-welfare-state"],
+    "paragraph_ids": { "musings:my-idea-of-a-welfare-state": ["p-d0429f"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Arthic", "Kamic"]
+   },
+   "rationale": "The coined terms Arthic and Kamic, for the two categories of daily activity, appear only in this paragraph."
+  },
+  {
+   "id": "il-0096",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A reflection on India's 1977 election victory refers to the winning coalition not simply as the Janata Party but by a compound name including another party's initials. What was that compound name?",
+   "expected": {
+    "docs": ["musings:the-task-before-a-free-people"],
+    "paragraph_ids": { "musings:the-task-before-a-free-people": ["p-4861b8"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Janata-CFD"]
+   },
+   "rationale": "The compound name 'Janata-CFD party' for the 1977 winning coalition appears only in this paragraph."
+  },
+  {
+   "id": "il-0097",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A piece on the 1962 border war states that the Dalai Lama and his followers were driven out of Tibet by Chinese forces in a specific year — earlier than the year usually cited. What year does the piece give, and what dismissive epithet does it use for the Chinese forces occupying Tibet?",
+   "expected": {
+    "docs": ["musings:the-us-india-alignment-in-cold-war"],
+    "paragraph_ids": { "musings:the-us-india-alignment-in-cold-war": ["p-c4c4af"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["1960", "Red bandits"]
+   },
+   "rationale": "This paragraph's idiosyncratic 1960 dating of the Dalai Lama's exile and its 'Red bandits' epithet appear together only here."
+  },
+  {
+   "id": "il-0098",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A social worker born in Cuttack on 3 December 1899, daughter of Basanta Kumari Devi and Gopal Ballav Das, was the niece of a lawyer and social reformer honoured with the title 'Utkal Gaurab' for his role in unifying Odisha. Name that reformer.",
+   "expected": {
+    "docs": ["musings:a-resilient-soul-ramadevi-chowdhuri"],
+    "paragraph_ids": { "musings:a-resilient-soul-ramadevi-chowdhuri": ["p-526ffa"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Madhusudhan Das"]
+   },
+   "rationale": "This paragraph is the only place naming Madhusudhan Das as the profiled woman's uncle."
+  },
+  {
+   "id": "il-0099",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "An essay on property rights over river water gives an example of a ghost town on the banks of the Yamuna, 40 km from Dehra Doon, whose irrigation department owns the town but is broke. Name the town.",
+   "expected": {
+    "docs": ["musings:a-rule-of-law-society"],
+    "paragraph_ids": { "musings:a-rule-of-law-society": ["p-52f8ac"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Dakpathar"]
+   },
+   "rationale": "Dakpathar is named as the specific ghost town only in this paragraph."
+  },
+  {
+   "id": "il-0100",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A woman born on 2 February 1889 into the royal family of Kapurthala was introduced to nationalist politics through Gopal Krishna Gokhale's influence on her father. Name her father, as given in the profile.",
+   "expected": {
+    "docs": ["musings:rajkumari-amrit-kaur-philanthropy-and-politics"],
+    "paragraph_ids": { "musings:rajkumari-amrit-kaur-philanthropy-and-politics": ["p-3631dd"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Harnam Singh Ahluwalia"]
+   },
+   "rationale": "This paragraph is the only place naming Harnam Singh Ahluwalia as her father, connected to Gokhale's influence."
+  }
+ ]
+}

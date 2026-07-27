@@ -1,0 +1,170 @@
+{
+ "batch": 19,
+ "cell": {
+  "tier": "B",
+  "retrieval": "blind",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0181",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A pamphlet opposing a newly imposed tax on personal fortunes warned that strict enforcement would turn tax inspectors into something like a repressive police force rummaging through citizens' own homes. What memorable term did the pamphlet use for this feared outcome, and what wealth threshold did it set below which a Hindu joint family would owe nothing under the new tax?",
+   "expected": {
+    "docs": ["primary-works:wealth-tax-january-1-1970"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:wealth-tax-january-1-1970": "https://archive.indianliberals.in/forum-of-free-enterprise/wealth-tax-january-1-1970.pdf"
+    },
+    "answer_must_contain": ["Police Raj", "Rs. 3 lakhs"]
+   },
+   "rationale": "Only this pamphlet's enforcement warning is framed as a 'Police Raj', and its Rs. 3 lakh HUF exemption is a specific figure stated once in the source."
+  },
+  {
+   "id": "il-0182",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A conference on cultural freedom held in Rangoon in February 1955 opened with an inaugural address from the city's mayor, who warned that the expanding welfare state's planning apparatus risked becoming 'a new form of imperialism.' Who was this mayor, and how many countries were represented among the conference's delegates?",
+   "expected": {
+    "docs": ["primary-works:ff034"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff034": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1955.pdf"
+    },
+    "answer_must_contain": ["U Ba Nyunt", "twelve"]
+   },
+   "rationale": "The issue's report on the Rangoon conference names U Ba Nyunt as the inaugural speaker and states delegates came from twelve countries — both facts unique to this issue's coverage."
+  },
+  {
+   "id": "il-0183",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "At a 1959 meeting in Bangalore that helped launch a new non-Socialist opposition party, a speaker quoted a West German economics minister's slogan calling for the state to 'let the men and the money loose.' Name that minister, and give the year of the national election the speakers said this new opposition needed to be ready for.",
+   "expected": {
+    "docs": ["primary-works:for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959": "https://archive.indianliberals.in/forum-of-free-enterprise/for-freedom-farm-and-family-m-a-sreenivasan-aug7-1959.pdf"
+    },
+    "answer_must_contain": ["Erhard", "1962"]
+   },
+   "rationale": "The Erhard quotation and the 1962-election target are both stated once, in the speech surveying the case for a new Middleclass Front/Small Man's Party."
+  },
+  {
+   "id": "il-0184",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 2012 editorial responding to a wave of corruption and misgovernance stories proposed a four-front strategy to fight it, while also criticising that year's Union Budget over a controversial tax anti-avoidance rule. Name the acronym for that rule, and name either of the two authors whose paper on national peril and the criminalisation of politics the editorial also referenced.",
+   "expected": {
+    "docs": ["primary-works:ff539"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff539": "https://archive.indianliberals.in/freedom-first/freedom-first-may1-2012.pdf"
+    },
+    "answer_must_contain": ["GAAR", "Khumbhojkar"]
+   },
+   "rationale": "The GAAR criticism and the Athale/Khumbhojkar paper reference both appear in this issue's editorial and nowhere else in the corpus in this combination."
+  },
+  {
+   "id": "il-0185",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1984 book review argued that a futurist's vision of decentralised, 'electronic cottage' economies amounted to a modernised version of Mahatma Gandhi's ideals, coining a term for this synthesis that the reviewer said would replace Marxism. Whose book was under review, and what term did the reviewer coin?",
+   "expected": {
+    "docs": ["primary-works:ff374"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff374": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-1984.pdf"
+    },
+    "answer_must_contain": ["Toffler", "Neo-Gandhism"]
+   },
+   "rationale": "The review of Toffler's The Third Wave and its coined label 'Neo-Gandhism' are unique to this issue's book-review section."
+  },
+  {
+   "id": "il-0186",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1998 memorial lecture on India's chronic underinvestment in infrastructure proposed tradable pollution permits sized to a city's absorptive capacity, illustrating the idea with a numeric example for one city. Which city did the lecture use as its example, and how many individual 1-kilogram permits would be issued under its proposed emissions cap?",
+   "expected": {
+    "docs": ["primary-works:infrastructure-public-goods-and-markets-kirit-s-parekh"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:infrastructure-public-goods-and-markets-kirit-s-parekh": "https://archive.indianliberals.in/forum-of-free-enterprise/infrastructure-public-goods-and-markets-kirit-s-parekh.pdf"
+    },
+    "answer_must_contain": ["Mumbai", "100,000"]
+   },
+   "rationale": "The Mumbai emissions-permit example with its 100,000-permit figure is a specific illustrative number given only in this lecture."
+  },
+  {
+   "id": "il-0187",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A June 1971 essay on press freedom, prompted by a Prime Minister's talk of a 'committed' press, cited newspaper circulation figures to argue that India's coverage gap reflected low literacy rather than editorial bias. What circulation figure per 1000 population did the essay give for Indian newspapers, and which East Asian country did it cite as having a much higher figure?",
+   "expected": {
+    "docs": ["primary-works:ff229"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff229": "https://archive.indianliberals.in/freedom-first/freedom-first-jun1-1971.pdf"
+    },
+    "answer_must_contain": ["15 per 1000", "Japan"]
+   },
+   "rationale": "The 15-per-1000 circulation figure and the Japan comparison appear together only in this issue's press-freedom essay."
+  },
+  {
+   "id": "il-0188",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A December 1954 essay accused an anonymous Times of India columnist of selectively quoting Western anti-Communist writers to make them look foolish. What was the columnist's real name behind the pseudonym, and what was the pseudonym itself?",
+   "expected": {
+    "docs": ["primary-works:ff031"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff031": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-1954.pdf"
+    },
+    "answer_must_contain": ["Sham Lal", "Adib"]
+   },
+   "rationale": "The unmasking of 'Adib' as Sham Lal is a specific reveal made only in this issue's polemical essay."
+  },
+  {
+   "id": "il-0189",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A March 1970 legal commentary on a Supreme Court ruling that struck down a bank-nationalisation law closed by crediting two people's skilled advocacy for bringing the constitutional issues before the Court — one a doctor who filed the case, the other a leading lawyer who argued it. Name both individuals.",
+   "expected": {
+    "docs": ["primary-works:ff214"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff214": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1970.pdf"
+    },
+    "answer_must_contain": ["R. C. Cooper", "Palkhivala"]
+   },
+   "rationale": "The closing credit to Dr. R. C. Cooper and Palkhivala is a specific detail from this issue's bank-nationalisation analysis."
+  },
+  {
+   "id": "il-0190",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A January 1953 report on a scientist's presidential address to a British science association cited India's First Five-Year Plan data to argue that public-health gains, without matching investment in education, could create ethically troubling population pressure. What annual population growth figure did the address cite for India, and out of what total population?",
+   "expected": {
+    "docs": ["primary-works:ff008"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff008": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1953.pdf"
+    },
+    "answer_must_contain": ["5 million", "360 million"]
+   },
+   "rationale": "The 5-million annual growth against a 360-million population base is a specific statistic given only in this issue's excerpted address."
+  }
+ ]
+}

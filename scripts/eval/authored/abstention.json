@@ -1,0 +1,334 @@
+{
+ "batch": "abstention",
+ "cell": {
+  "tier": "none",
+  "retrieval": "named",
+  "shape": "abstention"
+ },
+ "questions": [
+  {
+   "id": "il-abs-001",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1921? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1921
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1921, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-002",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1924? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1924
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1924, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-003",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1925? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1925
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1925, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-004",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1926? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1926
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1926, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-005",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1927? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1927
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1927, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-006",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1929? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1929
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1929, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-007",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1931? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1931
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1931, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-008",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1932? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1932
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1932, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-009",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1934? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1934
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1934, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-010",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1935? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1935
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1935, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-011",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1936? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1936
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1936, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-012",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1938? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1938
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1938, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-013",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1943? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1943
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1943, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-014",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1944? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1944
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1944, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-015",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1945? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1945
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1945, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-016",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1946? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1946
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1946, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-017",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1947? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1947
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1947, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  },
+  {
+   "id": "il-abs-018",
+   "tier": "none",
+   "retrieval": "named",
+   "shape": "abstention",
+   "question": "What does the Indian Liberals archive hold that was published in 1951? Give me the works and what they argue.",
+   "expected": {
+    "docs": [],
+    "paragraph_ids": {},
+    "pdf_urls": {},
+    "answer_must_contain": [],
+    "must_abstain": true,
+    "absent": {
+     "year": 1951
+    }
+   },
+   "rationale": "No work in the archive carries publication.year 1951, though the corpus spans 1850 to 2026. The question presumes there is something from that year; the only correct answer says there is not."
+  }
+ ]
+}

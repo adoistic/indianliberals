@@ -136,7 +136,7 @@ Part III of M. N. Tholal's serial examines the question of who would succeed Jaw
 - Argues Patel would have served as a bridge to liberal/conservative opinion
 
 ### ECONOMIC SUPPLEMENT — The Real Path of Economic Development
-*By By Prof. G. Carl Wiegand*
+*By Prof. G. Carl Wiegand*
 
 Prof. G. Carl Wiegand of Southern Illinois University offers a polemical primer for the Economic Supplement: real economic development, he argues, has come not from doctrinaire industrialisation programmes but from cumulative, decentralised growth combining agriculture, industry, services and credit. He contrasts the failures of large-state programmes in Latin America with the dispersed capitalist development of the United States, and warns India that simply transplanting heavy industry without a productive agriculture, a competent labour force and consumer goods will produce inflation, capital waste and political brittleness. The piece is openly polemical against central planning and the cult of the steel mill as a development shortcut.
 
@@ -147,7 +147,7 @@ Prof. G. Carl Wiegand of Southern Illinois University offers a polemical primer 
 - Implicit warning to Indian planners pursuing the same path
 
 ### ECONOMIC SUPPLEMENT — The Forgotten Man
-*By By S. G. Hart*
+*By S. G. Hart*
 
 S. G. Hart's 'The Forgotten Man' revives W. G. Sumner's classical-liberal figure: the quiet, productive citizen who pays for every scheme of state benevolence and is never consulted. Hart marshals Adam Smith, John Stuart Mill and a Shakespearean tag to argue that government interventions advertised as moral or compassionate work in practice as transfers from the unseen taxpayer to noisy organised interests. He uses examples from Britain, the United States and Australia — restrictions on personal liberty, the spread of moral and trade restrictions, expanding regulatory revenue — to warn that the Forgotten Man's freedoms and earnings are silently shrunk by a government convinced it must intervene wherever it sees a problem.
 
@@ -157,7 +157,7 @@ S. G. Hart's 'The Forgotten Man' revives W. G. Sumner's classical-liberal figure
 - Draws on British, American and Australian examples to argue the trend is general
 
 ### I Like Butter
-*By By Jess Raley*
+*By Jess Raley*
 
 Jess Raley's light essay 'I Like Butter' is a humorous reflection on the small pleasures and idiosyncrasies of ordinary life — preferences for butter over margarine, observances and holidays, the things that quietly make up a settled bourgeois existence. Reprinted in the magazine as comic relief between heavier political essays, the piece reads as a gentle defence of personal taste and private satisfaction against the levelling impulse of grand programmes. A companion short, 'Supporting Our Youth' (credited to The Freeman), continues the libertarian register with a brief argument about adult responsibility and the limits of state programmes for the young.
 

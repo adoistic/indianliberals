@@ -114,7 +114,7 @@ M. A. Venkata Rao argues that the constitutional architecture India borrowed fro
 - Rao reads liberal education as itself a defence against socialist and totalitarian capture of the State.
 
 ### Jinnah and Gandhi
-*By by Lal*
+*By Lal*
 
 Writing under the by-line 'Lal', this instalment defends an earlier piece that argued Gandhi's embrace of the Khilafat cause damaged rather than served Hindu–Muslim unity. The author reviews what the Khilafat meant — the institution of the Caliph as the Prophet's successor — and reads Gandhi's alliance with Mohammad Ali and Shaukat Ali as a tactical mistake whose communal after-effects long outlived the campaign. The continuation on page 14 reproduces Maulana Mohammad Ali's own 'solution' to the communal question — a joint-electorate scheme reserving a minimum of fifteen per cent of seats for Muslims — which Lal treats as a formula Congress would never accept and as evidence that even the most sincere Muslim nationalist of that generation could not square mass politics with majority rule. The piece ends on a note about individual freedom as a faculty that any honest national settlement would have to protect.
 
@@ -124,7 +124,7 @@ Writing under the by-line 'Lal', this instalment defends an earlier piece that a
 - Treats individual freedom — not communal mathematics — as the only durable settlement.
 
 ### An Old Tale of Traitors
-*By by Baburao Patel*
+*By Baburao Patel*
 
 Baburao Patel reprints — and claims vindication for — an article he had published on 13 April 1952, sixteen months before Sheikh Abdullah's dismissal and arrest as Prime Minister of Kashmir. Patel treats the Sheikh's career as the central case of a regional Muslim leader exploiting Nehru's personal affection while playing communal cards, and details the charges of 'deception, espionage, corruption, maladministration and establishment of foreign contacts of a kind dangerous to peace and prosperity of the state'. The piece moves through the politics of the Kashmir succession (Bakshi Ghulam Mohammad), the Sheikh's earlier flights to Karachi, a reading of his agitation in idiom drawn from Muslim history, and a final indictment of Indian national policy for repeatedly mistaking religious-political adventurers for nationalist statesmen.
 
@@ -135,7 +135,7 @@ Baburao Patel reprints — and claims vindication for — an article he had publ
 - Ends with a general warning against confusing communal mobilisers with nationalist leaders.
 
 ### Some Thoughts on Progressive Income Tax
-*By by F. G. Clark*
+*By F. G. Clark*
 
 F. G. Clark, in an extract from his book The Economic Facts of Life, attacks steeply progressive income tax as a moral and administrative disaster. He compares the modern tax code to American Prohibition: a law that no honest citizen consents to obey makes a nation of unrepentant cheats, corrupts both administrators and the administered, and rewards only the most ruthless tax planner. Encouragement to cheating, he argues, is woven into the structure of the levy itself, and the only honest remedy is to give up the principle that any given rupee of income can be taxed at rates an individual would refuse to pay voluntarily. The piece is short and largely aphoristic, with a closing note that an individual's freedom from confiscatory taxation is part of the same bundle of liberties as civil and political freedom.
 
@@ -145,7 +145,7 @@ F. G. Clark, in an extract from his book The Economic Facts of Life, attacks ste
 - Frames freedom from confiscatory taxation as part of the same liberty bundle as civil and political rights.
 
 ### Reflections of a Revolutionary of Our Times
-*By by Alpar Bujdoso*
+*By Alpar Bujdoso*
 
 Writing as a Hungarian student refugee, Alpar Bujdoso marks the first anniversary of the 1956 Hungarian Revolution. He recalls the fierce October days of popular uprising, the Soviet reconquest, and the long shadow they have cast over those forced into exile, and uses the date to argue that the rising was not a failed adventure but a moral turning point in the post-war Communist world. The piece moves between personal memory and political reading: the revolution is presented as evidence that freedom is a universal demand rather than a Western or material problem, and as a reproach to those in the West who would now treat the Hungarian case as closed.
 

@@ -1,0 +1,170 @@
+{
+ "batch": 17,
+ "cell": {
+  "tier": "B",
+  "retrieval": "blind",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0161",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 2002 lecture surveying the challenges facing India's newly liberalised insurance sector reported that worldwide insurance premiums totalled how many billion US dollars in the year 2000?",
+   "expected": {
+    "docs": ["primary-works:the-challenges-before-the-insurance-industry-in-india-g-n-bajpai-2002"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-challenges-before-the-insurance-industry-in-india-g-n-bajpai-2002": "https://archive.indianliberals.in/forum-of-free-enterprise/the-challenges-before-the-insurance-industry-in-india-g-n-bajpai-2002.pdf"
+    },
+    "answer_must_contain": ["2,443.7"]
+   },
+   "rationale": "The figure US$2,443.7bn in worldwide premiums for 2000 is stated only in this work's global benchmarking passage; the question describes the lecture's subject without naming its title or speaker."
+  },
+  {
+   "id": "il-0162",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A critique of foreign-aid orthodoxy pointed to two pieces of Indian infrastructure built through private investment rather than subsidised public capital as historical counter-examples. What were they?",
+   "expected": {
+    "docs": ["primary-works:reflections-on-foreign-aid-prof-p-tbauer-july-10-1970"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:reflections-on-foreign-aid-prof-p-tbauer-july-10-1970": "https://archive.indianliberals.in/forum-of-free-enterprise/reflections-on-foreign-aid-prof-p-tbauer-july-10-1970.pdf"
+    },
+    "answer_must_contain": ["Indian Railways", "Calcutta Tramways"]
+   },
+   "rationale": "Indian Railways and Calcutta Tramways are cited only in this lecture's argument about private capital outperforming subsidised public capital; the question omits the speaker's name and the title."
+  },
+  {
+   "id": "il-0163",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 2003 lecture on shifts reshaping Indian financial services coined a new category tied to the 9/11 attacks and the India-Pakistan military tensions of May 2002. What did it name that category?",
+   "expected": {
+    "docs": ["primary-works:financing-the-changing-paradigm-in-india-uday-kotak-august-6-2003"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:financing-the-changing-paradigm-in-india-uday-kotak-august-6-2003": "https://archive.indianliberals.in/forum-of-free-enterprise/financing-the-changing-paradigm-in-india-uday-kotak-august-6-2003.pdf"
+    },
+    "answer_must_contain": ["event risk"]
+   },
+   "rationale": "The term 'event risk' as a CEO concern arising from 9/11 and the 2002 India-Pakistan tensions appears only in this lecture; the question avoids the speaker's name, the title, and the memorial-lecture series."
+  },
+  {
+   "id": "il-0164",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In the wake of the Fukushima disaster, an editor explained that planned articles on a specific Indian nuclear power project would still run, while calling for calm, dispassionate debate. Which project was it?",
+   "expected": {
+    "docs": ["primary-works:ff526"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff526": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-2011.pdf"
+    },
+    "answer_must_contain": ["Jaitapur"]
+   },
+   "rationale": "The editorial's explanation for continuing to cover the Jaitapur Nuclear Power Project despite Fukushima is specific to this issue; the question names neither the periodical nor its editor."
+  },
+  {
+   "id": "il-0165",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A commentary on a 1988 amendment to India's tax code objected to a provision that widened the definition of 'income' to tax employee allowances retroactively. From what date did that retrospective change take effect?",
+   "expected": {
+    "docs": ["primary-works:analysis-of-direct-tax-laws-amendment-bill-dinesh-vyas-1988"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:analysis-of-direct-tax-laws-amendment-bill-dinesh-vyas-1988": "https://archive.indianliberals.in/forum-of-free-enterprise/analysis-of-direct-tax-laws-amendment-bill-dinesh-vyas-1988.pdf"
+    },
+    "answer_must_contain": ["1 April 1962"]
+   },
+   "rationale": "The retrospective effective date of 1 April 1962 for the Section 2(24) 'income' widening is specific to this commentary; the question avoids the author's name and the bill's formal title."
+  },
+  {
+   "id": "il-0166",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An August 1961 editorial accused Nehru of granting Pakistan a specific sum under the Canal Waters agreement even while indulging its complaints about Indian rearmament. How much was it?",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-aug1-1961"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-aug1-1961": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-aug1-1961.pdf"
+    },
+    "answer_must_contain": ["Rs. 83 crores"]
+   },
+   "rationale": "The Rs. 83 crore figure under the Canal Waters agreement appears only in this issue's editorial; the question does not name the periodical or any bylined writer."
+  },
+  {
+   "id": "il-0167",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 2018 memorial lecture on employing youth with disabilities described a Chennai pilot placing cashiers with speech and hearing impairments, who were preferred by a striking share of surveyed consumers over speaking cashiers. What was that share?",
+   "expected": {
+    "docs": ["primary-works:giving-is-receiving-mrs-meera-shenoy"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:giving-is-receiving-mrs-meera-shenoy": "https://archive.indianliberals.in/forum-of-free-enterprise/giving-is-receiving-mrs-meera-shenoy.pdf"
+    },
+    "answer_must_contain": ["97%"]
+   },
+   "rationale": "The 97% consumer-preference figure from the Chennai cashier pilot is unique to this lecture; the question omits the speaker's name and the lecture's title."
+  },
+  {
+   "id": "il-0168",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1964 talk on the legal position of Indian company directors cited an Allahabad High Court ruling that let courts treat a parent and subsidiary as a single enterprise, holding the holding company's directors liable for the subsidiary's losses. Which businessman was the defendant named in that case?",
+   "expected": {
+    "docs": ["primary-works:rights-duties-and-obligations-n-k-petigara-jun10-1964"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:rights-duties-and-obligations-n-k-petigara-jun10-1964": "https://archive.indianliberals.in/forum-of-free-enterprise/rights-duties-and-obligations-n-k-petigara-jun10-1964.pdf"
+    },
+    "answer_must_contain": ["Haridas Mundhra"]
+   },
+   "rationale": "The Life Insurance Corporation v. Haridas Mundhra case is discussed only in this talk's account of directors' liability; the question names neither the speaker nor the talk's title."
+  },
+  {
+   "id": "il-0169",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A September 1972 periodical column recounted the suppression of an independent Elphinstone College student magazine after its first issue included a story on abortion. What was that magazine called?",
+   "expected": {
+    "docs": ["primary-works:ff244"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff244": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1972.pdf"
+    },
+    "answer_must_contain": ["Experiment"]
+   },
+   "rationale": "The suppressed Elphinstone magazine 'Experiment' is named only in this issue's student-press column; the question avoids the periodical's name and the columnist's byline."
+  },
+  {
+   "id": "il-0170",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1989 lecture arguing that mere majority rule is not true democracy attributed to a particular writer the memorable description of sham elections in African autocracies as amounting to one vote, cast only once. Who was that writer?",
+   "expected": {
+    "docs": ["primary-works:the-essence-of-democracy-minoo-masani"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-essence-of-democracy-minoo-masani": "https://archive.indianliberals.in/other-publications/the-essence-of-democracy-minoo-masani.pdf"
+    },
+    "answer_must_contain": ["Elspeth Huxley"]
+   },
+   "rationale": "The Elspeth Huxley attribution for the 'one man one vote, once' line is specific to this lecture's argument against majority rule; the question omits the speaker's name and the lecture's title."
+  }
+ ]
+}

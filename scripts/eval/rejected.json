@@ -1,0 +1,64 @@
+{
+ "rejected": [
+  {
+   "id": "il-0110",
+   "question": "One profile describes an early birth-control and sex-education advocate who was twice prosecuted over content in his Marathi monthly magazine — what fine did the court impose after the second prosecution? A separate, Marathi-language profile describes a moderate nationalist leader who in 1897 presented India's economic hardships before a British Royal Commission — name that commission.",
+   "problems": [
+    "answer_must_contain 'Welby Commission' is not in the source material"
+   ]
+  },
+  {
+   "id": "il-0120",
+   "question": "An audio narration adapting a 1977 economist's paper on consumer control of the economy explains that under communism individuals lack fundamental economic rights and the economy also lacks a specific institutional mechanism for trading goods ahead of time. A mirrored archival copy of an opinion piece by the same economist notes it was originally published on a specific date before being re-hosted for AI-agent readability. Name that missing institutional mechanism, and give the original publication date of the mirrored opinion piece.",
+   "problems": [
+    "primary-works:il-explainer-ep1-br-shenoy is Tier A but has no paragraph_ids"
+   ]
+  },
+  {
+   "id": "il-0236",
+   "question": "An essay on India's economic reforms uses a specific two-word phrase to describe the kind of economy that socialist-era licensing produced by curbing competition and consumer choice — what is that phrase? Separately, a farmers'-movement periodical's issue dated 21 March 1992 leads with its founder's elegiac front-page essay mourning a family death — what issue number, within that year's volume, is this particular issue?",
+   "problems": [
+    "answer_must_contain 'Issue 23' is not in the source material"
+   ]
+  }
+ ],
+ "skipped": [
+  {
+   "id": "il-0126",
+   "reason": "The second source's brief supplies only its ThePrint mirror boilerplate paragraph (no actual article content), so no genuine multi-source question can be built that requires reading both pieces."
+  },
+  {
+   "id": "il-0080",
+   "reason": "The paragraph is abstract rhetoric about 'the Organisation' versus 'the Man' with no proper noun, number, date, place, institution, or work title to anchor a needle question; any answer_must_contain string would be an ordinary word, not a distinctive one."
+  },
+  {
+   "id": "il-0037",
+   "reason": "The brief's only content is one anonymous speaker's abstract reflection on pandemic-era left-right convergence and moral outrage, with no proper noun, number, date, or institution distinctive enough for a sound answer_must_contain string; the sole candidate ('The US') is too short and too common a substring to check reliably."
+  },
+  {
+   "id": "il-0038",
+   "reason": "The only content is an auto-created editorial stub with 'Editorial review pending' — no substantive fact exists to ask about without inventing one."
+  },
+  {
+   "id": "il-0054",
+   "reason": "Source is a heavily garbled Hindi speech-to-text transcript (repeated nonsense runs, truncated/corrupted words). The one legible fact (land transferred via a scheme referenced only in Devanagari) would force an English-speaking agent to reproduce untranslated Devanagari text verbatim in answer_must_contain, which is not a sound comprehension check and risks false negatives unrelated to whether the agent actually read the source."
+  },
+  {
+   "id": "il-0014",
+   "reason": "The only content is an auto-created editorial stub with 'Editorial review pending' — no substantive fact exists to ask about without inventing one."
+  },
+  {
+   "id": "il-0226",
+   "reason": "No thematic or factual thread links the suffragist-lawyer's biography to the Cold War/agrarian-policy journal issue; any pairing would be two unrelated facts stapled together rather than a genuine two-source question."
+  },
+  {
+   "id": "il-0230",
+   "reason": "Tier A source (R. K. Amin) is only an auto-created stub with no substantive content ('Editorial review pending') — there is nothing citable there to build a genuine question from."
+  },
+  {
+   "id": "il-0237",
+   "reason": "The Tier A source is an unfilled auto-generated stub ('Editorial review pending') with no substantive content beyond the subject's name and title — there is no fact to pair with the Tier B work for a genuine multi-source question, and any question would have to lean on the subject's own name, which blind retrieval forbids."
+  }
+ ],
+ "missing_batch_files": []
+}

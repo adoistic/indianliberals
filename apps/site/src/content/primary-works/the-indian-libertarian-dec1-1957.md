@@ -120,7 +120,7 @@ M. A. Venkata Rao reads the Soviet Sputnik launches as a turning point in the gl
 - A Gandhian register of incentives is proposed as a moral supplement to Western strategic doctrine.
 
 ### Biting the Hand that Feeds
-*By by Baburao Patel*
+*By Baburao Patel*
 
 Baburao Patel's polemic argues that Pakistan, far from being a good neighbour, has bitten the hand that feeds it. He recounts the treatment of Sheikh Mohamed Abdullah after his August 1953 arrest and dismissal as Prime Minister of Jammu and Kashmir, the political turbulence in Pakistan, and the succession of leaders from Liaqat Ali Khan onward who, on his reading, have used the Kashmir grievance to manage internal failure. The piece sets out what Patel calls 'India's Greatest Sacrifice for Pakistan' and argues that India has been gagged in international forums while Pakistan's case has been amplified. Sub-sections on 'The Turn-Coat', 'India Is Gagged' and 'The Lion's Threat' carry the argument forward.
 
@@ -131,7 +131,7 @@ Baburao Patel's polemic argues that Pakistan, far from being a good neighbour, h
 - The essay invokes 'India's Greatest Sacrifice for Pakistan' to argue that goodwill has been a one-way transfer.
 
 ### This Battle of Languages Must End
-*By by J. K. Dhairyawan*
+*By J. K. Dhairyawan*
 
 J. K. Dhairyawan argues that the time has come to end India's protracted battle of languages by accepting English as the country's working lingua franca. He surveys the historical record — including Lokmanya Tilak's pragmatic endorsement of an Indian language of administration — and contends that no indigenous tongue has yet been able to take English's place at the level of higher administration, science and inter-provincial communication. The essay reads the push for Hindi as imposition from above and warns that linguistic chauvinism has begun to fracture national unity.
 
@@ -160,7 +160,7 @@ B. R. Shenoy of the Gokhale Institute of Politics and Economics, Gujarat Univers
 - Shenoy treats the free market as the principal engine of rising material welfare.
 
 ### This is Pakistan
-*By by Al-Kafir*
+*By Al-Kafir*
 
 Writing under the pseudonym 'Al-Kafir', the author reads the appointment of I. I. Chundrigar as the new Prime Minister of Pakistan as the latest twist in an unstable parliamentary game. The piece surveys the manoeuvring between the Muslim League and the Republican Party, the 'apparent victory' on the issue of separate electorates, the local strength of the Muslim League in West and East Pakistan, and the role of Sir Feroz Khan Noon and Dr. Khan Sahib in shaping events. The argument is that Pakistan's politics has become a contest of expedients rather than a settled constitutional order.
 

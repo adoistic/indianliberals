@@ -102,6 +102,12 @@ This April 1, 1963 issue (Vol. XI) of The Indian Libertarian, edited by D. M. Ku
 ## Essays
 
 ### Essay 0
+
+*No summary was extracted for this article. Listed for completeness.*
+
+### 'Secular' State or 'Civil' State?
+*By MA Venkata Rao*
+
 The lead editorial argues that Nehru's use of the term 'Secular State' is loose and confused, and proposes the term 'Civil State' as a more accurate description of an India in which the state is neutral towards creeds but not hostile to religion. The editor distinguishes India's situation from Pakistan, characterised as an avowedly Muslim theocratic state, and draws on Indian history (the Vijayanagar empire, Mughal rule, Shivaji) to argue that protection of Hindus and other communities from religious imposition is a legitimate civic concern. The editorial closes by warning that confused secular rhetoric leaves majority cultural-religious life politically defenceless.
 
 - The Prime Minister's invocation of 'Secular State' lacks a clear definition and is politically unstable.
@@ -110,8 +116,8 @@ The lead editorial argues that Nehru's use of the term 'Secular State' is loose 
 - Indian history is read as showing the costs of state-sponsored religious dominance.
 - The Indian Liberal Group is urged to enter the secular-vs-civil debate as an active voice.
 
-### 'Secular' State or 'Civil' State?
-*By MA Venkata Rao*
+### An Unnecessary Revolution
+*By M. A. Venkata Rao*
 
 M. A. Venkata Rao argues that the Russian and Chinese communist revolutions were historically 'unnecessary' — they did not produce economic equality, did not raise the common person above living standards in capitalist Western states, and destroyed the security and liberty their own peoples enjoyed. He compares Tsarist Russia's pre-1917 trajectory with that of the British and Japanese economies and contends that piecemeal reform under industrial discipline, not Bolshevik or Maoist seizure of property, was the rational path. The essay closes with a numbered statement of 'Anarchist Principles' drawn from classical liberal and individualist anarchist sources, defending private property, voluntary association and free competition against socialist planning.
 
@@ -121,8 +127,8 @@ M. A. Venkata Rao argues that the Russian and Chinese communist revolutions were
 - The 'paradise' of Russian and Chinese communism is one the poor flee at risk of death.
 - Classical-liberal / individualist-anarchist principles are restated as a positive alternative.
 
-### An Unnecessary Revolution
-*By By M. A. Venkata Rao*
+### The Political Philosophy of Jaya Prakash Narain
+*By M. N. Tholal*
 
 M. N. Tholal takes apart Jayaprakash Narayan's address at the Convocation of Rajasthan University, in which JP urged a doctrine of nonviolent resistance even to Chinese aggression. Tholal argues that JP's prescription mistakes the situation: an unarmed civilian resistance against a Communist invader would lead to mass killings, not the moral victory Gandhian nonviolence achieved against the British. He invokes the late Acharya Narendra Dev and the early socialist tradition to show that JP has migrated away from political realism toward a sentimental Sarvodaya idealism that cannot answer the security question India faces after 1962.
 
@@ -132,8 +138,8 @@ M. N. Tholal takes apart Jayaprakash Narayan's address at the Convocation of Raj
 - JP's drift from socialist political realism toward Sarvodaya is criticised.
 - Acharya Narendra Dev is cited as a contrast point inside JP's own tradition.
 
-### The Political Philosophy of Jaya Prakash Narain
-*By By M. N. Tholal*
+### English in Schools and Colleges
+*By K. Sreeramamurty*
 
 K. Sreeramamurty defends the place of English in Indian schools and colleges. He welcomes the Andhra Pradesh government's decision to introduce English from the third standard and argues that a working knowledge of English is indispensable for the present generation of students, who will become India's future leaders. He draws on the example of universities (Andhra, Lucknow, Allahabad, Patna, Baroda) where English remains the medium of instruction and cites the Nobel laureate I. I. Rabi on the difficulty of pursuing modern science without English.
 
@@ -143,8 +149,8 @@ K. Sreeramamurty defends the place of English in Indian schools and colleges. He
 - Nobel laureate I. I. Rabi is cited to support keeping English in science education.
 - Premature switch to regional-language instruction would degrade higher learning.
 
-### English in Schools and Colleges
-*By By K. Sreeramamurty*
+### DELHI LETTER: Joint Sino-Pak Attack on India?
+*By (From Our Correspondent)*
 
 The Delhi Letter (from 'Our Correspondent') assesses the prospect of a coordinated Chinese-Pakistani attack on India following the 1962 border war. It reports on Sino-Pakistani border talks, Pakistani diplomatic moves around Kashmir, and Indo-Pakistani negotiations in which the Indian side is described as making concessions whose strategic worth is unclear. The correspondent reads American policy through Ambassador Galbraith's interventions and President Kennedy's signals, and worries that a Pacific-Pact or Anglo-Saxon-Federation approach is not materialising fast enough to deter a two-front threat.
 
@@ -154,8 +160,8 @@ The Delhi Letter (from 'Our Correspondent') assesses the prospect of a coordinat
 - A regional security architecture (Pacific Pact / Anglo-Saxon Federation) is invoked as a possible answer.
 - The Indian establishment is judged slow to absorb the security implications.
 
-### DELHI LETTER: Joint Sino-Pak Attack on India?
-*By (From Our Correspondent)*
+### Book Review
+*By MA Venkata Rao*
 
 A short notice reviews Patterns of Culture by Ruth Benedict, situating the book within American cultural anthropology and recommending its comparative-anthropology approach to readers interested in the foundations of social order. The reviewer summarises Benedict's argument that cultures are integrated wholes whose values cohere across institutions, and treats the book as a useful corrective to crude evolutionary or universalist readings of human social life.
 
@@ -164,8 +170,7 @@ A short notice reviews Patterns of Culture by Ruth Benedict, situating the book 
 - Cultures are presented as integrated configurations of value.
 - The review highlights the book's continued relevance decades after its first edition.
 
-### Book Review
-*By MA Venkata Rao*
+### Gleanings from the Press
 
 Under 'Gleanings from the Press,' M. A. Venkata Rao reflects on the 'peacockery' of the Indian government — the gap between official self-image and substantive achievement — and on the way prestige politics distorts policy choices. He links this critique to the Nehruvian planning state's habits of public display.
 
@@ -173,7 +178,8 @@ Under 'Gleanings from the Press,' M. A. Venkata Rao reflects on the 'peacockery'
 - Prestige-driven projects are distinguished from substantive policy.
 - The Nehruvian style is read as encouraging this habit.
 
-### Gleanings from the Press
+### association in Ahmedabad pushing for English from the fifth standard; Nehru
+
 The News & Views columns string together brief items from across India and the world: Khrushchev's diplomacy with Peking; the announcement of the largest U.S. interest-free loan ($240 million) to India, signed by Morarji Desai and Ambassador John Kenneth Galbraith with L. K. Jha for the finance ministry; a parents' association in Ahmedabad pushing for English from the fifth standard; Nehru's worries about Hindi-Tamil conflict; Aldous Huxley's pessimism about overpopulation in underdeveloped nations; H. M. Patel urging India to accept Western defence aid; Rajaji declaring readiness to lead the nation; and Y. B. Chavan's defence record being praised.
 
 - U.S. signs the largest-ever interest-free loan to India: $240 million.
@@ -183,6 +189,7 @@ The News & Views columns string together brief items from across India and the w
 - Nehru is reported as wary of Hindi-vs-regional-language conflict.
 
 ### News and Views
+
 The 'Dear Editor' page collects short reader letters on Prohibition and on what one correspondent calls 'Nehru's Tragedy' — the argument that the Prime Minister's administration has not lived up to its early promise and that the Daily press is failing to hold it to account.
 
 - Reader letters address Prohibition policy and Nehru's record.

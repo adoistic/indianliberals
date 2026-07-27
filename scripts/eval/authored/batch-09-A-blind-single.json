@@ -1,0 +1,170 @@
+{
+ "batch": 9,
+ "cell": {
+  "tier": "A",
+  "retrieval": "blind",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0041",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An account describes a well-known Indian tax lawyer's annual public lecture on the government's budget, held in Bombay from the 1950s onward, and how the venue changed as crowds grew far too large for each site. Which cricket stadium did the lecture eventually move to, and who first suggested the move, half in jest?",
+   "expected": {
+    "docs": ["primary-works:s-divakara-on-nani-palkhivalas-union-budget-commentaries"],
+    "paragraph_ids": {
+     "primary-works:s-divakara-on-nani-palkhivalas-union-budget-commentaries": ["p-3e0341"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Brabourne Stadium", "Vijay Merchant"]
+   },
+   "rationale": "Only this recollection names the venue succession ending at Brabourne Stadium and Vijay Merchant's half-joking suggestion to move there."
+  },
+  {
+   "id": "il-0042",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A short 1962 commentary in the archive contends that, absent any judicial check on the fairness of a payout for property taken by the state, the outcome depends entirely on the mood of Parliament — swinging between two opposite extremes. What two terms does the piece use for these two extremes?",
+   "expected": {
+    "docs": ["theprint-mirror:jawaharlal-nehru-sc-compensation-a-ranganathan"],
+    "paragraph_ids": {
+     "theprint-mirror:jawaharlal-nehru-sc-compensation-a-ranganathan": ["p-a397b3"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["just compensation", "confiscation"]
+   },
+   "rationale": "The pull-quote paragraph is the only place stating the two possible outcomes — just compensation or confiscation — of an unreviewed payout."
+  },
+  {
+   "id": "il-0043",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An account of a 1993 arson attack on a hotel in Turkey, sparked by a mob incensed at the presence of a writer who had translated part of a controversial novel, describes intellectuals gathering there to honour a 16th-century poet. Name the poet being honoured, and the hotel where the attack took place.",
+   "expected": {
+    "docs": ["musings:art-versus-law-and-order"],
+    "paragraph_ids": {
+     "musings:art-versus-law-and-order": ["p-a50960", "p-dcfe2f"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Pir Sultan Abdal", "Mahak Hotel"]
+   },
+   "rationale": "Only this essay's account of the Sivas arson names the Mahak Hotel and the poet Pir Sultan Abdal being commemorated."
+  },
+  {
+   "id": "il-0044",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A commentator in the archive quotes a former Chief Minister of Mysore who compared India's official socialist creed to a syncretic religion once imposed by a Mughal emperor on his court, saying it vanished like mist after the emperor's death. Name the religion and the Chief Minister who made the comparison.",
+   "expected": {
+    "docs": ["musings:the-principle-of-state-interference"],
+    "paragraph_ids": {
+     "musings:the-principle-of-state-interference": ["p-a38992"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Din-i-ilahi", "Hanumanthaiya"]
+   },
+   "rationale": "Only this paragraph attributes the Din-i-ilahi comparison to Sri Hanumanthaiya."
+  },
+  {
+   "id": "il-0045",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay revisits a historian's claim that a certain magazine 'opposed Gandhi's policies only indirectly, if at all' during the 1975-77 Emergency, then challenges this by cataloguing the magazine's actual anti-Emergency articles. Name the historian who made that original claim.",
+   "expected": {
+    "docs": ["opinions:indian-liberals-quest-magazine-india-first-dictatorship"],
+    "paragraph_ids": {
+     "opinions:indian-liberals-quest-magazine-india-first-dictatorship": ["p-bedb70", "p-5c232a"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Eric Pullin"]
+   },
+   "rationale": "Only these paragraphs name Eric Pullin as the historian whose 'only indirectly, if at all' claim the essay sets out to revise."
+  },
+  {
+   "id": "il-0046",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A brief opinion piece in the archive argues that the methods of a certain welfare-state approach reduce the productivity of human effort and so harm the welfare of both incapacitated people and those without any physical limitation. In what year did the writer make this argument, and what single word does the piece use for the group of people who face no physical limitation?",
+   "expected": {
+    "docs": ["theprint-mirror:welfarism-poverty-indian-people-bs-sanyal"],
+    "paragraph_ids": {
+     "theprint-mirror:welfarism-poverty-indian-people-bs-sanyal": ["p-6e9460"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["1957", "able-bodied"]
+   },
+   "rationale": "Only this pull-quote paragraph dates the argument to 1957 and pairs 'invalids' with 'the able-bodied'."
+  },
+  {
+   "id": "il-0047",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay assessing whether representative democracy would endure in India after independence complains that one particular administrative report is very difficult to find in Bombay. Whose report is it, and which region's administration does it review?",
+   "expected": {
+    "docs": ["musings:prospects-of-democracy-in-india"],
+    "paragraph_ids": {
+     "musings:prospects-of-democracy-in-india": ["p-46592e"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Gorwala", "Mysore"]
+   },
+   "rationale": "Only this paragraph names Mr Gorwala's report on the administration of Mysore as scarce in Bombay."
+  },
+  {
+   "id": "il-0048",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "Literary historians later identified a certain essay on child marriage as the very first of many articles and monographs written over his lifetime by a particular nineteenth-century Bengali educationist and social reformer. Which historian made that identification, and in what year?",
+   "expected": {
+    "docs": ["musings:the-evils-of-child-marriage-by-ishwar-chandra-vidyasagar"],
+    "paragraph_ids": {
+     "musings:the-evils-of-child-marriage-by-ishwar-chandra-vidyasagar": ["p-9036ed"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Gopal Halder", "1972"]
+   },
+   "rationale": "Only this paragraph credits literary historian Gopal Halder's 1972 finding that this was the reformer's very first published piece."
+  },
+  {
+   "id": "il-0049",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A recorded discussion about the state's expanding role during the COVID-19 lockdown argues that most of the initial relief for India's daily-wage earners and small street entrepreneurs came not from government but from civil society, since officials don't know where such people live. How many million people does the speaker estimate belong to this daily-wage-earning group, and what alternative to a central database does the speaker propose for contact tracing, so that location data stays only on people's own devices?",
+   "expected": {
+    "docs": ["primary-works:role-of-civil-society-in-the-pandemic"],
+    "paragraph_ids": {
+     "primary-works:role-of-civil-society-in-the-pandemic": ["p-618985"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["700 millions", "cell phones"]
+   },
+   "rationale": "The single transcript paragraph is the only source giving the '700 millions' estimate and proposing keeping contact-tracing data on people's cell phones instead of a central database."
+  },
+  {
+   "id": "il-0050",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "Which economist's attention was captured by an Indian monetary economist's formal dissent to his country's Second Five-Year Plan Frame, leading to that economist inducting him into a prominent international free-market society's 1959 Oxford meeting?",
+   "expected": {
+    "docs": ["opinions:b-r-shenoy-indias-first-neoliberal"],
+    "paragraph_ids": {
+     "opinions:b-r-shenoy-indias-first-neoliberal": ["p-0093dd", "p-662694"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Peter Bauer", "Mont Pelerin"]
+   },
+   "rationale": "Only this paragraph credits Peter Bauer with inducting the economist into the Mont Pelerin Society's 1959 Oxford meeting after reading his Plan dissent."
+  }
+ ]
+}

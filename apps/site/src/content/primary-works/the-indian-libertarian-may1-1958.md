@@ -99,7 +99,7 @@ M. A. Venkata Rao examines the 'Punjab Cauldron' of linguistic and communal agit
 - Argues for liberal-democratic cohesion over sectional demands
 
 ### Algeria, An International Problem
-*By by T. L. Kantam*
+*By T. L. Kantam*
 
 T. L. Kantam frames the Algerian war as an international rather than purely French problem. Sketching its historical background and the failure of metropolitan France's response, he argues the conflict's outcome bears on the wider Cold War contest and the cause of national self-determination, and that it cannot be settled by France alone.
 
@@ -109,7 +109,7 @@ T. L. Kantam frames the Algerian war as an international rather than purely Fren
 - Argues France cannot resolve it unilaterally
 
 ### Red "Mundhras" of Kerala
-*By by Sumant Bankeshwar*
+*By Sumant Bankeshwar*
 
 Sumant Bankeshwar's 'Red Mundhras of Kerala' attacks the Communist state government in Kerala, alleging corruption and misuse of office on a scale he likens to the national Mundhra scandal. He argues that the Communist ministry's conduct exposes high-ranking leaders and discredits the party's claim to clean governance.
 

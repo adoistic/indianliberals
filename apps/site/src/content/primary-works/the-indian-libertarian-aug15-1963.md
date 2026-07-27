@@ -121,7 +121,7 @@ M. A. Venkata Rao argues that the Indian intelligentsia has surrendered its soci
 - Fellow-travellers must be disabused of the equation of socialism with progress.
 
 ### War Of Ambitions
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal anatomises the war of ambitions inside the Uttar Pradesh Congress, taking the fall of Chief Minister C. B. Gupta and the manoeuvring around his successor as a case study in the Congress system's drift from politics to court intrigue. He reads the rise and fall of factional figures like Kamlapati Tripathi, Pandit Mohan Lal Gautam, Banarsi Das and others as evidence that the Kamaraj Plan has not cleansed the party but only re-shuffled the players. The essay treats U.P. as a microcosm of an exhausted ruling party whose ambitions have outgrown its programme.
 
@@ -142,7 +142,7 @@ Prof. G. N. Lawande's Economic Supplement reads the steady climb of consumer pri
 - Both pieces argue that price stability and dignity depend on enforceable property rights.
 
 ### Nehru's Retreat
-*By By J. M. Lobo Prabhu*
+*By J. M. Lobo Prabhu*
 
 J. M. Lobo Prabhu reads the Kamaraj-Plan cabinet reshuffle as Nehru's retreat under the cumulative weight of the China defeat, the rupee crisis and Planning Commission failures. He argues that the new line-up – with Lal Bahadur Shastri, Gulzarilal Nanda and Indira Gandhi promoted while veterans depart – is less a renewal than a closing of ranks. The exit of Morarji Desai and the elevation of state-level loyalists are read as the Congress high command's choice of survival over reform.
 

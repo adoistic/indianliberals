@@ -135,7 +135,7 @@ M. A. Venkata Rao opens with the libertarian thesis that a surplus of food grain
 - Treats the Second Five Year Plan's logic as incompatible with libertarian economics.
 
 ### Is Pakistan Preparing for a Showdown?
-*By by Scio*
+*By Scio*
 
 Writing under the pseudonym "SCIO," the contributor surveys the run-up to a possible Pakistani military move on Kashmir following the August 1947 partition. The essay reviews the failure of constitutional processes in Pakistan, divisions within its political class, and the entry of West Pakistan into a martial-administrative phase. It treats the public threats from the Pakistani President as more than rhetoric and warns that Pakistan's grievance machinery — the "additional grievance" of the Indus waters dispute, the unsettled status of Kashmir — is being assembled into a case for a "showdown."
 
@@ -145,7 +145,7 @@ Writing under the pseudonym "SCIO," the contributor surveys the run-up to a poss
 - Frames the prospect of a 'showdown' as a likely 1957 contingency.
 
 ### Spoonerism and the Irish Bull
-*By by K. D. Valicha*
+*By K. D. Valicha*
 
 K. D. Valicha uses the rhetorical figures of the Spoonerism (transposed sounds) and the Irish Bull (a self-contradicting statement) as a frame for cold-war double-talk. The essay glosses Suhrawardy's posture toward America, the Soviet record under Stalin and Khrushchev, and the contortions of left-wing Indian commentary. Valicha argues that the language of friendship-with-everyone collapses into incoherence the moment it is tested against the record of Hungary, Korea and similar episodes, and that Indian foreign-policy commentary is full of such Irish Bulls.
 
@@ -155,7 +155,7 @@ K. D. Valicha uses the rhetorical figures of the Spoonerism (transposed sounds) 
 - Targets Indian left commentary as full of self-contradicting praise.
 
 ### Our Foreign Policy
-*By by Sumant S. Bankeshwar*
+*By Sumant S. Bankeshwar*
 
 Sumant S. Bankeshwar argues that India's foreign policy has been miscast for a hundred years past as a search for moral leadership when what is needed is a sober assessment of imminent dangers — chiefly Pakistan's drift into the orbit of foreign powers and the Communist bloc's pressure across India's northern frontier. He calls for a re-orientation that recognises Pakistan as a hostile state, identifies the Communist threat as the principal external danger, and ties India's defence and economic policy to that recognition rather than to non-alignment of a sentimental kind.
 
@@ -175,7 +175,7 @@ The four-page Supplement of the Research Department of the R. L. Foundation, edi
 - Warbasse offers a libertarian credo of voluntary co-operation.
 
 ### Nuclear Weapons for Our Defence
-*By by Mehta Puran Chand*
+*By Mehta Puran Chand*
 
 Mehta Puran Chand endorses the case (associated with the Kunzru plea) that the Indian Defence Forces should be equipped with nuclear and thermonuclear weapons, arguing that India's situation in 1957 resembles the threat environment of 1947–48 closely enough to justify the same kind of decision. A companion column, "The Mind of the Nation," warns against a perceived rightward drift in public opinion, and a short notice, "Pak Preparation in Full Swing," reports on high-level military meetings in Karachi involving President Iskander Mirza, Prime Minister Suhrawardy, and former premiers.
 
@@ -185,7 +185,7 @@ Mehta Puran Chand endorses the case (associated with the Kunzru plea) that the I
 - Implicitly treats Pakistan, not abstract powers, as the principal target of nuclear deterrence.
 
 ### Pak Smear-Campaign in Full Swing
-*By by Vigilant*
+*By Vigilant*
 
 Writing under the pseudonym "Vigilant," the contributor tracks what he calls a Pakistani smear-campaign against India running in parallel through the press, the United Nations and the diplomatic circuit. The essay reads the Suhrawardy mission to Washington, the President's tour of Europe and an accompanying "Plebiscite Front" propaganda effort as a coordinated assault on India's Kashmir position. It urges that India answer this offensive by exposing Pakistan's own conduct in Pakistan-Occupied Kashmir and by refusing to let plebiscite rhetoric set the terms of debate.
 

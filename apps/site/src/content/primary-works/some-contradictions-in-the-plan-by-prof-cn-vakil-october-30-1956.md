@@ -52,7 +52,7 @@ missing_metadata_flags:
 
 # SOME CONTRADICTIONS IN THE PLAN
 
-*By By Prof. C. N. VAKIL*
+*By Prof. C. N. VAKIL*
 
 ## Summary
 

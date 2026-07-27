@@ -1,0 +1,180 @@
+{
+ "batch": 15,
+ "cell": {
+  "tier": "B",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0196",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 2012 periodical issue carries a cover tribute to a renowned Indian mathematician, and a companion booklet on accountability in Indian public service, reprinted from magazine columns around the same period, names the specific constitutional article (by number) it blames for shielding civil servants from dismissal, and the wartime-era law it blames for entrenching bureaucratic secrecy in government. Name the mathematician honoured on the cover, the constitutional article number, and the law.",
+   "expected": {
+    "docs": ["primary-works:ff536", "primary-works:accountability-in-public-sevice-n-vittal-february-4-2011"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff536": "https://archive.indianliberals.in/freedom-first/freedom-first-feb1-2012.pdf",
+     "primary-works:accountability-in-public-sevice-n-vittal-february-4-2011": "https://archive.indianliberals.in/forum-of-free-enterprise/accountability-in-public-sevice-n-vittal-february-4-2011.pdf"
+    },
+    "answer_must_contain": ["Ramanujan", "311", "Official Secrets Act"]
+   },
+   "rationale": "The Ramanujan cover tribute is unique to the February 2012 issue and the Article 311 / Official Secrets Act indictment is unique to the Vittal accountability booklet; a full answer needs both."
+  },
+  {
+   "id": "il-0197",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One periodical issue from mid-1973 reprints, as a documentary exclusive, a Soviet physicist's postscript to an earlier memorandum he had addressed to a top Soviet leader without ever receiving a reply. A separate issue of the same kind of publication, from five years earlier, reports a Moscow trial of dissidents who had protested a Soviet-led invasion of a Central European country. Name the Soviet physicist and dissident, the Soviet leader to whom his postscript was addressed, and the country whose invasion the Moscow-tried dissidents were protesting.",
+   "expected": {
+    "docs": ["primary-works:ff254", "primary-works:ff198"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff254": "https://archive.indianliberals.in/freedom-first/freedom-first-jul1-1973.pdf",
+     "primary-works:ff198": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1968.pdf"
+    },
+    "answer_must_contain": ["Sakharov", "Brezhnev", "Czechoslovakia"]
+   },
+   "rationale": "Sakharov's postscript to Brezhnev is unique to the July 1973 issue, and the Czechoslovakia-invasion trial report is unique to the November 1968 issue; both are needed for a full answer."
+  },
+  {
+   "id": "il-0198",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "An address delivered at an American business school, later reprinted for Indian free-enterprise readers, examines how Japan's labour practices differed from American norms and ties its lessons to a contemporary Indian government committee report on labour. A separate periodical piece from fifteen years earlier accuses Indian industrial planners of copying a foreign country's model of prioritising heavy industry over agriculture, crediting the model's introduction to a named Indian economist. Name the American business school where the address was delivered, the Indian government committee report the reprint's introduction ties it to, and the economist blamed for shaping India's heavy-industry-first planning.",
+   "expected": {
+    "docs": ["primary-works:the-role-of-labour-in-japanese-economic-miracle-james-d-hodgson-june-14-1978", "primary-works:ff138"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-role-of-labour-in-japanese-economic-miracle-james-d-hodgson-june-14-1978": "https://archive.indianliberals.in/forum-of-free-enterprise/the-role-of-labour-in-japanese-economic-miracle-james-d-hodgson-june-14-1978.pdf",
+     "primary-works:ff138": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1963.pdf"
+    },
+    "answer_must_contain": ["Wharton", "Bhootalingam", "Mahalanobis"]
+   },
+   "rationale": "The Wharton venue and Bhootalingam Committee reference are unique to the Hodgson pamphlet, and the Mahalanobis attribution for 'steel first' planning is unique to the 1963 Freedom First issue."
+  },
+  {
+   "id": "il-0199",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A Diwali-themed 1957 magazine article, written under a classical pseudonym, argues that democracy requires a new organised liberal party to oppose the ruling party. A 2002 speech given at the launch conclave of a newly formed liberal advocacy organisation, delivered by the regional director of a German political foundation, poses a strategic question about whether that organisation should become a political party or remain a pressure group, and situates it within a worldwide count of liberal parties spanning dozens of countries. Name the pseudonym under which the 1957 article was written, and state how many countries the 2002 speech says those liberal parties span.",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-nov15-1957", "primary-works:address-first-national-convention-ilg-von-welck-2002"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-nov15-1957": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-nov15-1957.pdf",
+     "primary-works:address-first-national-convention-ilg-von-welck-2002": "https://archive.indianliberals.in/indian-liberal-group/address-first-national-convention-ilg-von-welck-2002.pdf"
+    },
+    "answer_must_contain": ["Chanakya", "67"]
+   },
+   "rationale": "The pseudonym 'Chanakya' is unique to the 1957 Diwali issue and the 67-country figure is unique to the von Welck convention address."
+  },
+  {
+   "id": "il-0200",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One lecture on the erosion of civil-service integrity is written by someone who is also listed among several prominent attendees at an international seminar on Third World development reported in a separate periodical issue from the same decade. That lecture traces the origin of a competitive entrance examination for the civil service to a specific year, while the periodical's seminar report names the Indian city that hosted the gathering. Give the year the competitive examination began, and name the host city of the seminar.",
+   "expected": {
+    "docs": ["primary-works:transition-in-civil-services-by-bk-nehru-2000", "primary-works:ff311"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:transition-in-civil-services-by-bk-nehru-2000": "https://archive.indianliberals.in/forum-of-free-enterprise/transition-in-civil-services-by-bk-nehru-2000.pdf",
+     "primary-works:ff311": "https://archive.indianliberals.in/freedom-first/freedom-first-oct1-1978.pdf"
+    },
+    "answer_must_contain": ["1853", "Srinagar"]
+   },
+   "rationale": "The 1853 examination date is unique to the B. K. Nehru lecture, and the Srinagar seminar location is unique to the October 1978 Freedom First issue in which he is listed as an attendee."
+  },
+  {
+   "id": "il-0201",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One work on Indian urban planning endorses a hierarchical neighbourhood-unit model borrowed from a specific planned Indian city, capping density at a stated number of persons per acre. A separate, undated paper on India's housing shortage argues that all of the country's officially approved special economic zones could fit inside the unused land of one district in a particular state. Name the planned city cited as the model in the first work along with its density cap, and name the state whose district could reportedly hold every sanctioned SEZ.",
+   "expected": {
+    "docs": ["primary-works:whither-indian-urbanisation-f-p-antia-1977", "primary-works:bungalows-for-all-sauvik-chakraverti"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:whither-indian-urbanisation-f-p-antia-1977": "https://archive.indianliberals.in/forum-of-free-enterprise/whither-indian-urbanisation-f-p-antia-1977.pdf",
+     "primary-works:bungalows-for-all-sauvik-chakraverti": "https://archive.indianliberals.in/liberals/bungalows-for-all-sauvik-chakraverti.pdf"
+    },
+    "answer_must_contain": ["Chandigarh", "75", "Goa"]
+   },
+   "rationale": "The Chandigarh model with its 75-persons-per-acre cap is unique to the Antia urbanisation pamphlet, and the south Goa SEZ claim is unique to the Chakraverti paper."
+  },
+  {
+   "id": "il-0202",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1970 magazine essay opposing socialism in India cites the collapse of small banks following a nationalisation as evidence of the harm state control does to ordinary citizens. A separate, earlier prize-winning essay on the Indian constitution invokes a British judge's book about administrative overreach to characterise India's expanding system of tribunals exempt from ordinary courts. Name the year of the bank nationalisation cited in the 1970 essay, and name the British judge whose book on administrative overreach is invoked in the earlier essay.",
+   "expected": {
+    "docs": ["primary-works:ff213", "primary-works:democracy-in-india-j-m-lobo-prabhu-may8-1960"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff213": "https://archive.indianliberals.in/freedom-first/freedom-first-feb1-1970.pdf",
+     "primary-works:democracy-in-india-j-m-lobo-prabhu-may8-1960": "https://archive.indianliberals.in/forum-of-free-enterprise/democracy-in-india-j-m-lobo-prabhu-may8-1960.pdf"
+    },
+    "answer_must_contain": ["1969", "Hewett"]
+   },
+   "rationale": "The 1969 bank-nationalisation reference is unique to the Pai essay in Freedom First No. 213, and the Hewett 'New Despotism' citation is unique to the Lobo Prabhu constitutional essay."
+  },
+  {
+   "id": "il-0203",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A magazine editorial marking its own approaching twentieth anniversary quotes a well-known opposition leader's description of a specific constitutional amendment, by number, as a 'reactionary and totalitarian' step threatening press freedom. A separate 1960 leaflet on the press's dependence on economic liberty was written by someone who at the time edited a named Patna newspaper. Name the constitutional amendment number the editorial cites, and name the Patna newspaper the leaflet's author edited.",
+   "expected": {
+    "docs": ["primary-works:ff236", "primary-works:a-free-press-is-linked-with-free-enterprise---a-free-society-by-dr-sachin-sen-june-8-1960"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff236": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1972.pdf",
+     "primary-works:a-free-press-is-linked-with-free-enterprise---a-free-society-by-dr-sachin-sen-june-8-1960": "https://archive.indianliberals.in/forum-of-free-enterprise/a-free-press-is-linked-with-free-enterprise-&-a-free-society-by-dr-sachin-sen-june-8-1960.pdf"
+    },
+    "answer_must_contain": ["25th", "Indian Nation"]
+   },
+   "rationale": "The 25th Amendment citation is unique to the January 1972 Freedom First editorial, and the Indian Nation editorship is unique to the Sachin Sen leaflet."
+  },
+  {
+   "id": "il-0204",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "The introduction to a 1964 pocketbook of practical business essays, written by the sponsoring organisation's president, argues there is 'no royal path' to eliminating poverty and that raising production and productivity from existing resources is the essential prerequisite. That same organisation's fiftieth-anniversary retrospective, published decades later, names this person as its founder-leader and states the average annual GDP growth rate it says India achieved under the licence-permit regime between 1951 and 1980. Name the founder-leader, and give that GDP growth percentage.",
+   "expected": {
+    "docs": ["primary-works:towards-greater-production-and-productivity-may-1964", "primary-works:golden-jubilee-1956-2006"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:towards-greater-production-and-productivity-may-1964": "https://archive.indianliberals.in/forum-of-free-enterprise/towards-greater-production-and-productivity-may-1964.pdf",
+     "primary-works:golden-jubilee-1956-2006": "https://archive.indianliberals.in/forum-of-free-enterprise/golden-jubilee-1956-2006.pdf"
+    },
+    "answer_must_contain": ["Shroff", "3.5"]
+   },
+   "rationale": "Naming Shroff as founder-leader and the 3.5% GDP growth figure both come only from the golden jubilee retrospective, while the pocketbook alone supplies the 'no royal path' introduction the question describes."
+  },
+  {
+   "id": "il-0205",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A March 1964 magazine article attacks new press-accreditation rules introduced by a specific Indian state government, arguing officials could use the rules to reward compliant journalists and punish critics. A speech delivered five years earlier under a business advocacy forum's auspices shows arithmetically that combined income-tax, super-tax and wealth-tax on someone with a stated amount of capital could exceed a specific percentage of that income. Name the Indian state (or its standard abbreviation) whose press-accreditation rules are criticised, and give the percentage the combined taxes are said to exceed.",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-mar1-1964", "primary-works:a-drastic-budget-n-a-palkhivala-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-mar1-1964": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-mar1-1964.pdf",
+     "primary-works:a-drastic-budget-n-a-palkhivala-1959": "https://archive.indianliberals.in/forum-of-free-enterprise/a-drastic-budget-n-a-palkhivala-1959.pdf"
+    },
+    "answer_must_contain": ["U.P.", "109"]
+   },
+   "rationale": "The U.P. accreditation-rules critique is unique to the March 1964 Indian Libertarian issue, and the 109 per cent tax-burden figure is unique to the Palkhivala budget speech."
+  }
+ ]
+}

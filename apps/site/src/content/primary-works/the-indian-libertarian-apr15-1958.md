@@ -129,7 +129,7 @@ M. A. Venkata Rao argues that 'one of the historic failures of the Indian people
 - Calls for stricter parliamentary control over public investment institutions
 
 ### Khrushchev Reaches the Pinnacle
-*By By T. L. Kantam*
+*By T. L. Kantam*
 
 T. L. Kantam reads Khrushchev's elevation to the Premiership as the close of a succession struggle that began with Stalin's death in 1953. The essay tracks the sequence — Malenkov's brief tenure as Premier, the 'collective leadership' of Bulganin and Khrushchev, the expulsion of Molotov, Kaganovich, Malenkov and Pervukhin from the central committee, and now Bulganin's effective demotion — and concludes that Khrushchev has now achieved a personal monopoly comparable to Stalin's. Kantam treats the episode as confirmation that Soviet collective leadership is a myth, that the Twentieth Congress's denunciation of the cult of personality has produced a new cult, and that the same totalitarian logic drives both phases.
 
@@ -139,7 +139,7 @@ T. L. Kantam reads Khrushchev's elevation to the Premiership as the close of a s
 - Argues a second cult of personality has replaced the first
 
 ### India and the Middle-East
-*By By Sumant S. Bankeshwar*
+*By Sumant S. Bankeshwar*
 
 Sumant Bankeshwar argues that Indian public opinion is poorly informed on the Middle East and that New Delhi's policy of supporting the Arab states against Israel has been driven less by analysis than by anti-imperial reflex and domestic communal arithmetic. He surveys the 1948 war, the Suez crisis, the formation of the United Arab Republic and the Iraq-Jordan response, and contends that India's pro-Arab tilt has neither advanced peace nor secured reciprocal goodwill, while ignoring Israel's record as a small democracy in a region of authoritarian regimes. The essay ends by urging a more balanced posture that does not subordinate India's foreign policy to its internal Muslim politics.
 
@@ -149,7 +149,7 @@ Sumant Bankeshwar argues that Indian public opinion is poorly informed on the Mi
 - Calls for a balanced rather than reflexively anti-Israeli line
 
 ### Abolish Caste By Legislation
-*By By S. Ramanathan*
+*By S. Ramanathan*
 
 S. Ramanathan, founder of the Indian Rationalist Association and former Madras minister, issues a manifesto for the legislative abolition of caste, co-signed by Hindu, Muslim, Christian, Parsi and other intellectuals. The essay treats caste as 'the most important problem that confronts the people of India to-day', argues that what began as a functional division has hardened into a hereditary religious institution that disfigures public life, and rejects the gradualist view that caste will dissolve on its own under economic change. Ramanathan presses the case that the State has the same standing to abolish caste by statute that it had to abolish untouchability or sati, and presents the technical mechanism — a prohibition on marriages within the same caste, framed as an attack on endogamy, 'the essence of caste'. The manifesto closes with a draft signature page and a public appeal.
 
@@ -168,7 +168,7 @@ An unsigned primer defines libertarianism as a politics built on the preservatio
 - Asserts that rights of man precede the State
 
 ### The Personality Cult In India
-*By By Lal*
+*By Lal*
 
 Writing under the pseudonym 'Lal', the columnist contends that the Mundhra-LIC scandal has exposed a deeper sickness in Indian public life: the personality cult around Jawaharlal Nehru, which has hollowed out the institutions of parliamentary scrutiny. The essay argues that the Prime Minister's prestige is now used to deflect rather than answer the affairs of state, that admirers refuse to credit any failure to him while attributing every achievement to him personally, and that the result is a country in which one man's reputation has substituted for institutional accountability. The piece reaches back to Gandhi's role in independence-era politics and to Jinnah's contrasting rationalism to argue that India has now lost the habit of holding its leaders to account.
 
@@ -178,7 +178,7 @@ Writing under the pseudonym 'Lal', the columnist contends that the Mundhra-LIC s
 - Argues admirers attribute every success and no failure to Nehru personally
 
 ### Nehru Is Crying For The Moon
-*By By Kishore Valicha*
+*By Kishore Valicha*
 
 Kishore Valicha attacks Nehru's renewed overtures to Pakistan as a wishful exercise — 'crying for the moon' — that ignores Pakistan's own democratic deficit and its sponsorship of sabotage and propaganda inside India. The piece argues that Pakistan's repeated postponement of its constitution and its drift toward dictatorship make it a poor partner for the kind of sentimental friendship Nehru is offering, and that Pandit Pant's recent statements compound the error by underplaying the security threat. The essay closes by linking the Pakistan policy to the wider personality-cult problem: Nehru's foreign policy, like his domestic record, is shielded from criticism by his prestige.
 

@@ -110,7 +110,7 @@ The unsigned editorial 'Pandit Nehru is Seventy' uses the Prime Minister's seven
 - Treats the Chinese aggression as the lens through which all Government policy must now be re-examined.
 
 ### A Party of Freedom
-*By By "Democrat"*
+*By "Democrat"*
 
 Writing under the pseudonym 'Democrat', the author surveys the formation of the Swatantra Party of 'Shri C. Rajagopalachari, Prof. Ranga, and Mr. M. R. Masani', tracing its origins to the land-reform resolution at the Nagpur Congress and the subsequent Madras conclave of June 1959 convened under Rajagopalachari's aegis as 'friend, philosopher and guide'. The piece presents the Swatantra Party as a 'Party of Freedom' organised around the 'central principle' of the 'dynamics of progress in the economic and other spheres' being 'released more by individual freedom than by socialist control'. It charges that the Nehru Government's planning, the State Trading Corporation's grain monopoly, the Life Insurance nationalisation and the Mahalanobis-designed Third Plan target of Rs 10,000 crores have led the country toward bankruptcy and totalitarianism. 'Democrat' then frames the Swatantra Party as the parliamentary instrument of an All-India organisation 'born after the State' to articulate liberal opposition across the country.
 
@@ -121,7 +121,7 @@ Writing under the pseudonym 'Democrat', the author surveys the formation of the 
 - Reads the Swatantra Party's twenty-one-point manifesto as the doctrinal counterpart to the Forum of Free Enterprise's earlier critique.
 
 ### Nehru Must Go
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal's signed polemic argues that Nehru should resign over his handling of the Chinese aggression on India's Himalayan frontier. Tholal opens by accusing Nehru of 'cantankerousness' and a misplaced personal animus toward Kashmir; he then walks through what he calls Nehru's pattern of 'acquiescence of complicity' in Chinese expansion — from his refusal to take a public stand on Tibet through the secret bargains struck during the Panchsheel-era exchanges. Tholal contends that the threats of retirement Nehru periodically dangles before the country and his loyal lieutenants in the Cabinet are themselves political instruments that paralyse opposition. Citing Gandhi's example in 1947, he insists India should have stood with the West in clear-eyed alignment rather than indulging the 'amazing conduct' of treating Communist China as a fraternal partner. The piece reads as a direct ultimatum: Nehru's continuation in office is, in Tholal's view, incompatible with India's national survival.
 
@@ -153,7 +153,7 @@ The mid-issue Rationalist Supplement, condensed from articles by Colin McCall an
 - Reads humanism as the contemporary inheritor of the rule-of-law and freedom-of-conscience tradition.
 
 ### Russia Scales the Himalayas
-*By By A. R. Field*
+*By A. R. Field*
 
 A. R. Field's geopolitical essay reads the Soviet penetration of the Himalayan rim as the strategic complement to the Chinese pressure on India's northern frontier. The piece opens with Premier Khrushchev's official visit to Nepal in February 1959 — '14,500 tons of Soviet technicalo-economic equipment' and an interest-free loan — and reads it as the foothold for an enduring Russian role in Nepal, Sikkim and Bhutan. Field then turns to the parallel Chinese moves: an attempt to drive a wedge between Nepal and India through soft-power presents and roadbuilding; the rolling occupation of border tracts; the 'amazing conduct' of treating buffer states as zones of Chinese protection. He closes the rendered pages with a short notice of A. D. Shroff's address on 'State Ownership is a Failure' and a paragraph on the State Trading Corporation as a case study in the practical defects of public ownership.
 
@@ -163,7 +163,7 @@ A. R. Field's geopolitical essay reads the Soviet penetration of the Himalayan r
 - Closes the rendered pages with a notice of A. D. Shroff's argument that 'State Ownership is a Failure' and a brief on State Trading Corporation problems.
 
 ### THE WORLD OF BOOKS — The Meaning of Alienation – II
-*By By Daniel Bell*
+*By Daniel Bell*
 
 Daniel Bell's essay, the second in his series for The World of Books, develops the 'Quest for the historical Marx' begun in the previous issue. Working from the radical sociology of the young Hegelians and the Encyclopaedists, Bell argues that the early Marx's central category was not yet class but alienation — the rupture between the labourer, his product, and the 'species being'. Tracing the term through Hegel, Feuerbach and the 1844 Paris Manuscripts, Bell reads the young Marx as a critic of property and Christianity in a single move: private property is the form religious estrangement takes in industrial society. The essay closes the rendered pages with a contrast between the 'humanist' young Marx of the 1844 manuscripts and the 'economic' mature Marx of Capital, suggesting that the rediscovery of the early texts has reorganised mid-twentieth-century debate on what Marxism actually demands of its inheritors.
 

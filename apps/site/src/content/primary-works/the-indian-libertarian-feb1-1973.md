@@ -106,7 +106,7 @@ The unsigned editorial 'Pie in the Sky Again' opens by arguing that India's econ
 - Welfare socialism has been absorbed into Western capitalist democracies without their abandoning courage to face economic realities
 
 ### Chemistry in The Conquest of Disease
-*By By A Ranganathan*
+*By A Ranganathan*
 
 Signed 'By K. Kumara' and subtitled '(A rebel to the last)', this column treats C. Rajagopalachari's recent death as the loss of the man who 'restored balance in Indian politics' after Gandhi's assassination, when Nehru's leadership had left the country 'leaning left and left, with its right side almost paralysed'. Kumara presents Rajaji as the rare entrepreneurial, classically liberal voice in the Indian elite, a sworn enemy of Karl Marx whose Swatantra Party gave political shape to an alternative philosophy of limited government. The piece dwells on Rajaji's wit, his weekly journalistic columns, and his refusal to abandon his views even as the Swatantra Party suffered electoral setbacks, presenting his death-pangs as not merely those of a man but of an Indian liberal politics that has 'now lost its Field Marshal'.
 
@@ -137,7 +137,7 @@ M. N. Tholal's polemic accuses the Swatantra Party's leadership of 'suicidal man
 - India is urged to wait patiently and not concede recognition of Bangla Desh's claim without consent of Dhaka
 
 ### World Atheist Meet
-*By By G. Vijayam*
+*By G. Vijayam*
 
 A short column signed 'K. S.' argues that during the Nehru regime any mention of CIA activity in India was officially denied, but that with serious press reports and PM-level acknowledgement of foreign-power activity it is now no longer possible to pretend. Yet, the author writes, shame at admitting India's inability to handle subversion stops the government from naming the United States. The piece's polemical climax is the recommendation that India needs its own competent 'rightist fifth column' — an efficient counterpart to the leftist columns serving Soviet and Chinese intelligence — capable of using the system's own money and personnel against subversion.
 
@@ -148,7 +148,7 @@ A short column signed 'K. S.' argues that during the Nehru regime any mention of
 - Government ineffectiveness against subversion is held to be the real threat to freedom and security
 
 ### Anatomy of Price Spiral
-*By By I. Satya Sundaram*
+*By I. Satya Sundaram*
 
 The Delhi Letter, 'From Our Correspondent', is built around the sudden retirement of P. N. Haksar as the Prime Minister's Principal Private Secretary and the political fallout in early 1973. It treats Haksar's exit as a calculated stage-managed move to elevate his anti-Communist successor while leaving the planning ministry (under D. P. Dhar) still pro-Communist. The column then turns to Morarji Desai's speech at the Jan Palach memorial, which used the Czech student's self-immolation to attack the drift toward Soviet-style government in India; to Balraj Madhok's claim that India is already a satellite of the Soviet Union; and to the Akali Party's memorandum charging four Central Ministers, including Bansilal, with corruption. It ends on the political consequences of Andhra disturbances over the Mulki Rules, which the correspondent reads as a serious puncture in Indira Gandhi's national popularity.
 
@@ -159,7 +159,7 @@ The Delhi Letter, 'From Our Correspondent', is built around the sudden retiremen
 - Andhra disturbances over the Mulki Rules are read as evidence that Indira Gandhi's popularity is no longer unassailable
 
 ### The Population Question
-*By By James A. Weber*
+*By James A. Weber*
 
 G. Vijayam reports on the first World Atheist Meet, held at the Atheist Centre, Patamata, Vijayawada, from 22-26 December 1972, with 120 delegates and observers from India and two from the USA. The piece presents the conference as an unprecedented international gathering of rationalists, humanists, free thinkers and secularists, and prints fraternal messages from Nigel Sinnoughtt of The Free Thinker, Khorean Arisian of the New York Society for Ethical Culture, James Hervery Johnson of the American Association for the Advancement of Atheism, the Atheist Society of Australia, and the Humanist Association of Bangla Desh. Gora's keynote sets atheism against theism as the choice between human freedom and divinely sanctioned hierarchies, arguing that every prophet has been more atheistic than his contemporaries and that atheism is the master key to dignity, equality and a positive alternative to the present corrupt social, political and economic system. The report closes by listing the regional and national bodies that formed under the meet's umbrella and the resolutions passed against caste, untouchability, religious patronage and apartheid.
 

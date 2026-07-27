@@ -108,7 +108,8 @@ This Silver Jubilee number of The Indian Libertarian (Vol. XVIII, No. 10, 15 Aug
 
 ## Essays
 
-### EDITORIAL: Founders of India's Freedom
+### s freedom owed more to a
+
 The unsigned editorial uses the Silver Jubilee occasion to argue that India's freedom owed more to a 'galaxy of profoundly wise men' than to mass agitation alone. It celebrates Dadabhai Naoroji as the 'Father of Indian Nationalism' and propounder of the Drain theory, Mahadev Govind Ranade as a foundational economic thinker and social reformer, and Pherozeshah Mehta, Madan Mohan Malaviya, Gokhale, Shrinivas Shastri, and Tejbahadur Sapru as constitutional liberals who never lost sight of administrative realities. Their style is contrasted with the later, more populist Gandhian phase and with Mrs. Indira Gandhi's recent assertiveness during the December war with Pakistan.
 
 The editorial then turns critical: while the country has retained democratic forms and the secular character of its politics, it has failed to honour the founders' liberal economic vision. It indicts the post-Independence 'partial socialisation' of the economy, the suppression of cooperative enterprise, the strangling of small producers by monopolistic regulation, and the bureaucratic capture of the state by privileged castes, lamenting that 'auromondo on current problems' — i.e., the founders' warnings — has gone unheeded.
@@ -119,8 +120,7 @@ The editorial then turns critical: while the country has retained democratic for
 - Indicts post-Independence 'partial socialisation' and bureaucratic privilege as betrayals of liberal first principles.
 - Uses Mrs. Indira Gandhi's December 1971 war leadership as a measured tribute, not an endorsement of her domestic programme.
 
-### Twenty Five Years of Freedom
-*By A Ranganathan*
+### EDITORIAL: Founders of India's Freedom
 
 A. Ranganathan revisits the language question on India's twenty-fifth anniversary and argues, against post-1947 linguistic nationalism, that English remains the only truly pan-Indian medium of administration, scholarship and modern science. He traces the history of Sanskrit as a once-living scholarly language that nonetheless 'never became the popular tongue of the people', contrasts this with the fertility of vernaculars like Bengali and Tamil, and surveys the rise of national languages in Renaissance Europe (French, English, German) through writers like Petrarch, Boccaccio, Chaucer, Spenser and Luther. The implication is that an artificially imposed Hindi cannot, by official decree alone, become India's working medium.
 
@@ -132,8 +132,8 @@ Ranganathan defends English as 'a window on the world' and as the language of In
 - Defends English as the de facto pan-Indian medium of higher learning and constitutional life.
 - Cites Ambedkar's drafting and Suniti Kumar Chatterji's scholarship to argue for bilingual realism.
 
-### The Chambal Valley Miracle
-*By By M. N. Tholal*
+### Twenty Five Years of Freedom
+*By A Ranganathan*
 
 M. N. Tholal reports on the Chambal Valley dacoit surrender and on the political quarrel between Madhya Pradesh Chief Minister Mr. Sethi and Jayaprakash Narayan over credit for the operation. Tholal quotes Acharya Vinoba Bhave's warning that 'new dacoit gangs will spring up if the Madhya Pradesh Government, in its concern with issues of prestige on the surrender of more than 400 dacoits, allows the jailed dacoits to be victimised', and reproduces Jayaprakash Narayan's own disclaimer of credit: 'I do not believe it is in my power or my sacrifice that has brought this about and I have no doubt it is a divine miracle.'
 
@@ -145,8 +145,8 @@ The piece sharply criticises Chief Minister Sethi for publicly attacking Narayan
 - Documents the M.P. administration's resentment of Sarvodaya mediation.
 - Argues that visiting restrictions on Sarvodaya workers threaten the operation's success.
 
-### DELHI LETTER: Peace Under Duress
-*By (From Our Correspondent)*
+### The Chambal Valley Miracle
+*By M. N. Tholal*
 
 An unsigned Delhi Letter, 'Peace Under Duress', surveys ratification politics in the wake of the December 1971 war and the Simla accord. Filed by 'Our Correspondent', it reports the Lok Sabha's procedural debate, Uttar Pradesh Chief Minister Kamalapati Tripathi's intervention in the legislature, and the centre's attempts to project the peace as durable while opposition voices and a section of the press warn that ratification has been obtained under conditions of political pressure rather than open argument. The piece is brief — a single page — and functions as an editorial gloss on the gap between government communiqués and the texture of legislative consent.
 
@@ -155,8 +155,8 @@ An unsigned Delhi Letter, 'Peace Under Duress', surveys ratification politics in
 - Reads the central government's projection of durable peace against opposition and press scepticism.
 - Highlights the journal's interest in parliamentary procedure as a test of liberal politics.
 
-### Silver Jubilee of Independence
-*By By K. Kumar Sekhar*
+### DELHI LETTER: Peace Under Duress
+*By (From Our Correspondent)*
 
 K. Kumara Sekhar uses the Silver Jubilee occasion to argue that India has spent twenty-five years 'overrating freedom' as an end in itself when freedom is properly only a means to constructive national life. He targets the cult of 'liberation' — a word, he writes, that has been given 'an oversize place in our perspective, so as to cloud our vision of future' — and contrasts the elaborate symbolism of post-1947 nationalism with the unfulfilled economic and civic substance that should have followed it. The opening tribute to Nehru's 'tryst with destiny' speech is read against the ledger of the next quarter-century: stagnation, mass poverty and an Afro-Asian elite that mistakes 'liberation fights' for the harder work of nation-building.
 
@@ -168,8 +168,8 @@ The essay closes with an indictment of the 'leaders of tomorrow' — those who '
 - Reads Nehru's 'tryst with destiny' against the bleak ledger of poverty and stagnation.
 - Calls for less 'over-valuing political independence' and more 'economic independence'.
 
-### Bonus—An Anarchic Compensation Method
-*By By S. R. Mohan Das*
+### Silver Jubilee of Independence
+*By K. Kumar Sekhar*
 
 S. R. Mohan Das attacks the institution of bonus as it has evolved in Indian labour relations, arguing that it is an 'ad hoc anarchic' supplement bolted onto an industrial wage system that already ought to be 'organised and structured'. He traces the history of bonus from its origin as an ex gratia gesture by employers — 'galling to the pride and status of citizens in a democratic system' — to its conversion into a profit-sharing concept via INTUC-led semantic ingenuity, and finally to a statutory entitlement codified through the Bonus Act, the Bonus Review Committee, and a stream of L.I.C.-style litigation in which 'no matter what happens, the Government shall not reduce its share of statutory return'.
 
@@ -181,8 +181,8 @@ For Mohan Das the bonus regime is structurally illogical: it presupposes that pr
 - Predicts public-sector employees (State and Central offices, Zilla Parishads, Municipal Councils) will inevitably demand parity.
 - Concludes that only a 'structured wage and salary system' will dissolve the contradictions.
 
-### British Entry Into E.E.C. Its Impact on India
-*By By Dr. R. S. Nigam*
+### Bonus—An Anarchic Compensation Method
+*By S. R. Mohan Das*
 
 Dr. R. S. Nigam analyses the implications for India of the United Kingdom's entry into the European Economic Community alongside Denmark, Ireland and Norway, with the Treaty of Accession signed at Brussels. He outlines the immediate consequences for the Commonwealth sugar preference regime, for sterling balances, and for the Indian export basket — particularly tea, jute, leather and textiles — and reads the Kennedy Round tariff reductions and the Generalised Scheme of Preferences against the loss of Imperial preferences that British EEC membership entails.
 
@@ -194,8 +194,8 @@ Nigam argues that the EEC enlargement is 'pieces of a mosaic' constructing a mul
 - Names UNCTAD, GATT, OECD, IMF, IBRD as the new institutional matrix.
 - Urges Indian commercial-policy coordination with other developing economies over the coming decade.
 
-### Only Action: Little Thought
-*By By K. S.*
+### British Entry Into E.E.C. Its Impact on India
+*By Dr. R. S. Nigam*
 
 K. Kumara Sekhar ('K.S.') opens with a sarcastic indictment of Mrs. Indira Gandhi's habit of 'distributing her congratulatory “kation”' to subordinates while the substantive grievances of Indian women — domestic legal disabilities, the impotence of the women's wing of the Congress Party, the bureaucratised tokenism of public office — go unaddressed. The piece argues that the women's movement has been captured by party politicking and by the prestige economy of 'action' without thought, and that the genuine emancipation of Indian women would require dismantling the legal and customary constraints that no ministerial photo-op can dislodge.
 
@@ -207,8 +207,8 @@ In the second half Sekhar broadens the argument to cover the general post-Indepe
 - Reads Indian women's status as a structural test of the founders' liberal promise.
 - Ties the critique back to the Silver Jubilee meditation on overrating political freedom.
 
-### Scientific Research and Rural Reconstruction
-*By By Rathanaswamy*
+### Only Action: Little Thought
+*By K. S.*
 
 An unsigned editorial item — signed 'K.S.' at the foot — attacks the Bombay Police Commissioner for arresting 'dozens of persons for walking out of theatres while the national anthem is being sung'. The author argues that the Commissioner has fundamentally misread the offence: the substance of disrespect is intentional dishonour, not the ceremonial fact of leaving a hall before a recorded tune ends. The piece marshals the Victor Hugo allusion to 'Javert' in Les Misérables — the policeman who serves the form of the law against its purpose — to indict an administration that arrests citizens for routine civil behaviour and trivialises a 'great and beautiful national anthem' by playing it 'at the end of even film shows'.
 
@@ -220,8 +220,8 @@ The argument is a small but pointed defence of civil liberty in public space, an
 - Invokes Victor Hugo's 'Javert' as the type of the form-obsessed policeman.
 - Reads the episode as a free-speech and civil-liberty issue.
 
-### Can Monopolist Charge Anything?
-*By By John A. Sparks*
+### Scientific Research and Rural Reconstruction
+*By Rathanaswamy*
 
 M. Ruthnaswamy reports on a New Delhi seminar of about fifty 'eminent scientists' convened under the chairmanship of the Union Scientific Adviser to consider how scientific research can be applied to rural reconstruction. He surveys the seminar's prescriptions — coordinated village agricultural extension, financial resources for State Agriculture and Veterinary Universities, the involvement of newly established State and Central financial institutions, and the creation of small research clusters in 'compact areas' built around an Agricultural University — and weighs the political-economy difficulties of getting Central and State governments to fund such a programme at a time when 'lavish expenditure on financial institutions' has crowded out applied research budgets.
 
@@ -233,7 +233,9 @@ The piece argues that the institutional plumbing exists — IDBI, IFCI, the Nati
 - Critiques the skew of Indian science toward defence and metropolitan prestige.
 - Treats rural reconstruction as the test of Indian science's social usefulness.
 
-### Essay 11
+### Can Monopolist Charge Anything?
+*By John A. Sparks*
+
 John A. Sparks defends free-market pricing against what he treats as the textbook fiction of the 'monopolist who can charge anything he wants'. He argues that the popular caricature — drawn from the economic-principles classroom — confuses ownership of supply with control of demand, and that no producer, however dominant, can extract a price independent of what consumers are willing and able to pay. A so-called monopolist who pushes price above the demand schedule simply fails to sell; one who supplies a non-essential good is constrained by substitutes; one who supplies an essential good must reckon with the long-run entry of competitors.
 
 The essay is a compressed primer in subjective-value economics: it treats prices as discovery mechanisms, not as administered rents, and it argues that 'monopoly pricing' as the textbook describes it has 'never existed' in the unhampered market and exists in real economies only where the state enforces it. Sparks's polemical aim is to puncture the analytic premise behind the M.R.T.P. Act and its like.
@@ -244,7 +246,12 @@ The essay is a compressed primer in subjective-value economics: it treats prices
 - Treats prices as discovery mechanisms rather than administered rents.
 - Implicitly polemicises against the analytic basis of the M.R.T.P. Act.
 
+### Essay 11
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### Essay 12
+
 P. Kodanda Rao argues, against a reported government plan to include a reference to the Jallianwala Bagh massacre in the Silver Jubilee commemoration, that such a reference would be a 'great pity' — likely to provoke anti-British sentiment 'on this joyous occasion'. He recalls the long line of British liberals who acted as allies of Indian self-government — Macaulay, Lord Bentinck, Lord Ripon, A. O. Hume, Sir William Wedderburn, Sir Henry Cotton, E. S. Montagu and Annie Besant — and quotes Bal Gangadhar Tilak's tribute to the British rule for the 'inestimable benefit' of 'bringing together the different nationalities and races of India, so that a United Nation may grow together'. The piece ends with a plea to 'recall with gratitude the good that British rule and British friends had rendered to India and forget Gen. Dyer and his like'.
 
 - Opposes a planned Jallianwala Bagh reference in the Silver Jubilee.
@@ -254,6 +261,7 @@ P. Kodanda Rao argues, against a reported government plan to include a reference
 - Counsels remembering benefactors and 'forgetting Gen. Dyer and his like'.
 
 ### Essay 13
+
 Writing under the pseudonym 'Observer', the columnist traces the history of the Monopolies and Restrictive Trade Practices Act of 1969 from Nehru's 1959 decision to set up an enquiry committee on 'who had benefited from the additional income that had been generated in the country by the development efforts of the first two Five Year Plans'. The article walks through the chain of enquiries — the Mahalanobis Committee, the Monopolies Inquiry Commission (1965), the Hazari Committee (1967) and the Dutt Committee (1969) — that culminated in the MRTP Act of 1970, and argues that the Act has 'virtually closed the door for big business to expand' outside core industries (coal, iron and steel, heavy engineering, basic chemicals).
 
 'Observer' criticises the legislation for treating concentration of economic power as a self-sufficient cause for restriction, 'without investigating whether this concentration has been used for the public good or to the public detriment'. The Dutt Committee's own finding that only 3 of 73 sample industrial houses had misused industrial licences is cited as evidence that the MRTP framework over-reaches relative to the actual record of abuse.

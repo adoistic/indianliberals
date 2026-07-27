@@ -1,0 +1,150 @@
+{
+ "batch": 11,
+ "cell": {
+  "tier": "A",
+  "retrieval": "blind",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0061",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A political party was founded by Rajaji, Minoo Masani, N. G. Ranga, and K. M. Munshi in opposition to Nehruvian central planning, and became the largest opposition party in the Lok Sabha after the 1967 general election. How many seats did it hold in the fourth Lok Sabha, and which party did it merge into when it dissolved in 1974?",
+   "expected": {
+    "docs": ["organisations:swatantra-party"],
+    "paragraph_ids": { "organisations:swatantra-party": ["p-35a90c"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["44 seats", "Bharatiya Lok Dal"]
+   },
+   "rationale": "The founders and merger detail single out the profile without naming the party itself; the seat count and merger target are the two checkable facts."
+  },
+  {
+   "id": "il-0062",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In an account of tribal communities and rural development, a speaker describes how villagers, once they began receiving a specific kind of land document, first invested in land-levelling and irrigation before planting orchards. What abbreviation does the speaker use for that land document, and over how many years did he say the landscape of the villages visibly changed?",
+   "expected": {
+    "docs": ["primary-works:tribals-and-development-countering-the-myths"],
+    "paragraph_ids": { "primary-works:tribals-and-development-countering-the-myths": ["p-c68a6d"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["FRA titles", "three years"]
+   },
+   "rationale": "The abbreviation and the timeframe only surface in the interview transcript itself and are not implied by the question."
+  },
+  {
+   "id": "il-0063",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay opposing 1958 land-ceiling proposals in South Indian states says that Kerala's bill would seize wetland holdings above a set acreage, while Mysore and Andhra capped permissible landholding by the annual income it produced instead. What was Kerala's acreage ceiling, and what annual income figure (in rupees) did the Mysore and Andhra proposals use to define a permissible holding?",
+   "expected": {
+    "docs": ["musings:ceilings-on-landholdings-m-a-venkata-rao-1958"],
+    "paragraph_ids": { "musings:ceilings-on-landholdings-m-a-venkata-rao-1958": ["p-ed6ee5"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["15 acres", "5,400"]
+   },
+   "rationale": "The author's name and the publication are withheld; the two figures come from a single paragraph and prove the essay was actually read."
+  },
+  {
+   "id": "il-0064",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A passage likens the age-old conflict between labour and capital first to a line from a U.S. Supreme Court Justice, and then to a 'correct response' offered decades later by a senior Catholic religious leader. In what year did the Justice make his remark, and what structure -- explicitly said to be 'not' a weapon -- does the religious leader's response liken professional organisations and unions to?",
+   "expected": {
+    "docs": ["musings:dangerous-counter-philosophy-piloo-mody"],
+    "paragraph_ids": { "musings:dangerous-counter-philosophy-piloo-mody": ["p-87cf9e"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["1896", "bridge which unites"]
+   },
+   "rationale": "Neither the book's author nor its title is named; the year and the bridge metaphor are only found in this one paragraph of quoted authorities."
+  },
+  {
+   "id": "il-0065",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A New Year message from a liberty-focused institute headquartered in Bombay says it was 'keeping aloft the torch of Libertarianism' through branches in several other Indian cities. What is the institute's full name, and which city is listed first among its branches?",
+   "expected": {
+    "docs": ["musings:libertarian-happy-new-year"],
+    "paragraph_ids": { "musings:libertarian-happy-new-year": ["p-5ca438"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Libertarian Social Institute", "Bangalore"]
+   },
+   "rationale": "The author's name and the piece's own title are withheld; the institute's name and the ordering of its branch cities can only come from the closing paragraph."
+  },
+  {
+   "id": "il-0066",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A retrospective on liberal politics in India recounts a 1994 attempt to launch a new liberal party that won over a million votes in a state legislative election but ended up with only a couple of seats. What was the name of this party, and which state's assembly election was it contesting?",
+   "expected": {
+    "docs": ["musings:sharad-joshi-on-liberalism-in-india"],
+    "paragraph_ids": { "musings:sharad-joshi-on-liberalism-in-india": ["p-6dfefd"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Swatantra Bharat", "Maharashtra"]
+   },
+   "rationale": "The author's name is withheld; the 1994 party's name and the state whose assembly it contested are both distinctive and come from a single paragraph."
+  },
+  {
+   "id": "il-0067",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In a conversation about a dynastic political family in India, one leader's sister -- after presiding over a global assembly in New York -- held two further diplomatic postings before her final one in Washington. What were those two postings, in order (city only)?",
+   "expected": {
+    "docs": ["primary-works:on-nehrus-cult-like-personality-in-conversation-with-zareer-masani"],
+    "paragraph_ids": { "primary-works:on-nehrus-cult-like-personality-in-conversation-with-zareer-masani": ["p-7bfc1b"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["London", "Moscow"]
+   },
+   "rationale": "The interview's subject and interlocutor are never named; the sequence of postings between the UN presidency and the Washington posting is a specific fact only in this transcript passage."
+  },
+  {
+   "id": "il-0068",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay critical of India's post-independence economic planning cites a specialist in the economics of underdeveloped countries who, after studying the government's development plans, concluded it seemed more interested in one particular ideology than in economic development itself. What is the specialist's surname, and at which university was he based?",
+   "expected": {
+    "docs": ["theprint-mirror:russian-socialism-nehru-imagination"],
+    "paragraph_ids": { "theprint-mirror:russian-socialism-nehru-imagination": ["p-c56251"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bauer", "University of London"]
+   },
+   "rationale": "The essay's author, subject, and original publication are all withheld; the quoted specialist's surname and university only appear in this one paragraph."
+  },
+  {
+   "id": "il-0069",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A veteran independence-era statesman and Tamil-literature scholar was invited by a Mumbai-based cultural institution in the late 1950s to deliver a lecture series on culture, later published by the institution as a book that went through several editions. Name the institution, and name one artistic domain he said his lectures would have nothing to say about.",
+   "expected": {
+    "docs": ["opinions:rajagopalacharis-thoughts-on-culture"],
+    "paragraph_ids": { "opinions:rajagopalacharis-thoughts-on-culture": ["p-248e77", "p-fbc174"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bharatiya Vidya Bhavan", "silver screen"]
+   },
+   "rationale": "The profile's subject is described by role rather than named; the hosting institution and the disclaimed artistic domain each come from a distinct paragraph."
+  },
+  {
+   "id": "il-0070",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A speech delivered at an organisation's Silver Jubilee celebration on January 12, 1982, praised its 'very great' founder and the leaders who upheld his standards since. Name the founder, and name the person leading the organisation at the time of the speech.",
+   "expected": {
+    "docs": ["musings:free-market-economy"],
+    "paragraph_ids": { "musings:free-market-economy": ["p-0fc798", "p-33f6d7"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["A. D. Shroff", "N. A. Palkhivala"]
+   },
+   "rationale": "The speaker and the hosting body's name are withheld; the founder and sitting president are named only in the paragraph recounting the organisation's leadership history."
+  }
+ ]
+}

@@ -3,11 +3,11 @@
   "type": "module",
   "version": "0.1.0",
   "private": true,
-  "description": "Astro static site for indianliberals.in — the digital archive of the Indian liberal tradition.",
+  "description": "Astro static site for indianliberals.in \u2014 the digital archive of the Indian liberal tradition.",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "npm run lint:emdash && astro build && pagefind --site dist",
     "build:astro-only": "astro build",
     "build:index": "pagefind --site dist",
     "preview": "astro preview",

@@ -1,0 +1,146 @@
+{
+ "batch": 12,
+ "cell": { "tier": "A", "retrieval": "named", "shape": "single" },
+ "questions": [
+  {
+   "id": "il-0001",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Ravi Shanker Kapoor's essay 'Censorship and the Law of Inexorability,' which 1959 Mrinal Sen film did Jawaharlal Nehru's government ban for two years?",
+   "expected": {
+    "docs": ["musings:censorship-and-the-law-of-inexorability"],
+    "paragraph_ids": { "musings:censorship-and-the-law-of-inexorability": ["p-67e5cb"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Neel Akasher Neechey"]
+   },
+   "rationale": "Paragraph p-67e5cb is the only place naming the specific Mrinal Sen film banned by the Nehru government for two years."
+  },
+  {
+   "id": "il-0002",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to Indian Liberals' profile 'Minoo Masani: From Socialism to Liberal Swatantra Party,' what was the title of the 1944 pamphlet in which Masani questioned four core assumptions of Marxism?",
+   "expected": {
+    "docs": ["opinions:minoo-masani-from-socialism-to-liberal-swatantra-party"],
+    "paragraph_ids": { "opinions:minoo-masani-from-socialism-to-liberal-swatantra-party": ["p-6035af"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Socialism Reconsidered"]
+   },
+   "rationale": "Paragraph p-6035af names the 1944 pamphlet 'Socialism Reconsidered' as the work that tested Marxist assumptions."
+  },
+  {
+   "id": "il-0003",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In B.R. Shenoy's article 'Consumer Sovereignty Leads to Rapid Economic Development,' which Canadian-American economist's claim that planning is crucial to economic development does he counter?",
+   "expected": {
+    "docs": ["musings:consumer-sovereignty-leads-to-rapid-economic-development"],
+    "paragraph_ids": { "musings:consumer-sovereignty-leads-to-rapid-economic-development": ["p-0a42e3"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Galbraith"]
+   },
+   "rationale": "The opening paragraph identifies Galbraith as the economist whose pro-planning claim the article rebuts."
+  },
+  {
+   "id": "il-0004",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "At what New Delhi lecture series did Nani Palkhivala deliver 'Economic Growth with Social Justice' in 1969?",
+   "expected": {
+    "docs": ["musings:economic-growth-with-social-justice-1969"],
+    "paragraph_ids": { "musings:economic-growth-with-social-justice-1969": ["p-9e1a06"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Shriram Memorial Lecture"]
+   },
+   "rationale": "Paragraph p-9e1a06 states the piece was delivered as the Shriram Memorial Lecture in New Delhi in 1969."
+  },
+  {
+   "id": "il-0005",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Minoo Masani's ThePrint essay on why the 'socialist pattern' and democracy cannot co-exist for long, which Italian theorist does he cite as having foreseen that a state acting as sole employer and landlord ceases to be democratic?",
+   "expected": {
+    "docs": ["theprint-mirror:socialism-democracy-minoo-masani"],
+    "paragraph_ids": { "theprint-mirror:socialism-democracy-minoo-masani": ["p-0df90b"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Benedetto Croce"]
+   },
+   "rationale": "Paragraph p-0df90b credits Benedetto Croce with this 19th-century foresight about the state as sole employer and landlord."
+  },
+  {
+   "id": "il-0006",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the Indian Liberals profile 'Justice H.R. Khanna and the Art of Speaking Truth to Power,' who was appointed Chief Justice of India in his place after his dissenting opinion in the Habeas Corpus case?",
+   "expected": {
+    "docs": ["opinions:hans-raj-khanna-justice-speaking-truth-to-power"],
+    "paragraph_ids": { "opinions:hans-raj-khanna-justice-speaking-truth-to-power": ["p-db9863"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["M.H. Beg"]
+   },
+   "rationale": "Paragraph p-db9863 names Justice M.H. Beg as the judge appointed Chief Justice over the more senior Khanna."
+  },
+  {
+   "id": "il-0007",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In B.R. Shenoy's 1977 paper on economic growth with social justice, which economist did he quote on private ownership of the means of production being the foundation of civilization?",
+   "expected": {
+    "docs": ["musings:b-r-shenoy-on-economic-growth-with-social-justice"],
+    "paragraph_ids": { "musings:b-r-shenoy-on-economic-growth-with-social-justice": ["p-cccef2"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Ludwig von Mises"]
+   },
+   "rationale": "Paragraph p-cccef2 attributes this quotation on private property and civilization to Ludwig von Mises."
+  },
+  {
+   "id": "il-0008",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the Indian Liberals profile of D.R. Pendse, what did he call the one-man think tank he ran from Mumbai after retiring from the Tatas?",
+   "expected": {
+    "docs": ["thinkers:d-r-pendse"],
+    "paragraph_ids": { "thinkers:d-r-pendse": ["p-29e2f4"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Centre for Economic Policy Advice"]
+   },
+   "rationale": "Paragraph p-29e2f4 names the think tank as the 'Centre for Economic Policy Advice.'"
+  },
+  {
+   "id": "il-0009",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the Indian Liberals profile of Iqbalunnisa Hussain, what is the title of her 1944 work offering a scathing critique of patriarchy within a Muslim household?",
+   "expected": {
+    "docs": ["opinions:iqbalunnisa-hussain"],
+    "paragraph_ids": { "opinions:iqbalunnisa-hussain": ["p-f98271"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Purdah and Polygamy"]
+   },
+   "rationale": "Paragraph p-f98271 names 'Purdah and Polygamy: Life in a Muslim Household' (1944) as this critique of patriarchy."
+  },
+  {
+   "id": "il-0010",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the Indian Liberals essay on the Swatantra Party's coalition strategy, which Swatantrite analysed the 1967 state election results and proposed that opposition parties divide states among themselves rather than compete?",
+   "expected": {
+    "docs": ["opinions:the-swatantra-way-for-forging-a-formidable-coalition"],
+    "paragraph_ids": { "opinions:the-swatantra-way-for-forging-a-formidable-coalition": ["p-4551e2"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Sohrab Batlivala"]
+   },
+   "rationale": "Paragraph p-4551e2 credits Sohrab Batlivala with this observation and proposal about the 1967 results."
+  }
+ ]
+}

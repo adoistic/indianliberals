@@ -1,0 +1,141 @@
+{
+ "batch": 13,
+ "cell": {
+  "tier": "A",
+  "retrieval": "named",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0011",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the Indian Liberals piece on Babytai Kamble's resolute feminism, what is the title of her groundbreaking autobiography that exposed the harsh realities faced by Dalit women?",
+   "expected": {
+    "docs": ["primary-works:babytai-kambles-resolute-feminism"],
+    "paragraph_ids": { "primary-works:babytai-kambles-resolute-feminism": ["p-e6d431"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["The Prisons We Broke"]
+   },
+   "rationale": "The paragraph names the autobiography verbatim; it is the only checkable fact in the two short paragraphs."
+  },
+  {
+   "id": "il-0012",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In 'The Tiger Caged – Part II', the Freedom First excerpt on India's protected import regime, how many 'canalising agencies' does the piece say the government used to hold a monopoly over certain imports?",
+   "expected": {
+    "docs": ["musings:the-tiger-caged-part-ii"],
+    "paragraph_ids": { "musings:the-tiger-caged-part-ii": ["p-add2a6"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["16", "newsprint"]
+   },
+   "rationale": "The figure of 16 canalising agencies, alongside the list ending in newsprint, appears only in this paragraph."
+  },
+  {
+   "id": "il-0013",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to A. D. Shroff's essay 'Free Enterprise in India and Freedom', what were the 1950-51 net output values, in crores, of 'Small Enterprises' and of 'Factory Establishments', per the National Income Committee's estimates?",
+   "expected": {
+    "docs": ["musings:free-enterprise-in-indian-and-freedom"],
+    "paragraph_ids": { "musings:free-enterprise-in-indian-and-freedom": ["p-79e19d"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["910", "550"]
+   },
+   "rationale": "Both figures come from the same sentence contrasting Small Enterprises and Factory Establishments output in 1950-51."
+  },
+  {
+   "id": "il-0014",
+   "skip": true,
+   "reason": "The only content is an auto-created editorial stub with 'Editorial review pending' — no substantive fact exists to ask about without inventing one."
+  },
+  {
+   "id": "il-0015",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In 'India, the Tiger Caged', the Freedom First excerpt from The Economist's 1991 Survey of India, what sea does the piece say the Hindu injunction forbids Indians from crossing?",
+   "expected": {
+    "docs": ["musings:india-the-tiger-caged"],
+    "paragraph_ids": { "musings:india-the-tiger-caged": ["p-bb34bc"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["black sea"]
+   },
+   "rationale": "The 'black sea' injunction is a specific, distinctive detail unique to this paragraph and distinct from the companion Part II piece."
+  },
+  {
+   "id": "il-0016",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to Indian Liberals' profile of B. R. Shenoy, in which city was he jailed for his participation in the freedom struggle?",
+   "expected": {
+    "docs": ["thinkers:b-r-shenoy"],
+    "paragraph_ids": { "thinkers:b-r-shenoy": ["p-72c209"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Nagpur"]
+   },
+   "rationale": "The profile states plainly that Shenoy was jailed at Nagpur during the freedom struggle."
+  },
+  {
+   "id": "il-0017",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Nani Palkhivala's 'Our Constitution Defaced and Defiled', which 1967 Supreme Court decision reversed the position the 1951 Sankari Prasad case had taken on Parliament's amending power?",
+   "expected": {
+    "docs": ["musings:examination-of-objections-to-limitations-of-amending-power-1960"],
+    "paragraph_ids": { "musings:examination-of-objections-to-limitations-of-amending-power-1960": ["p-b7ffcf"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Golaknath"]
+   },
+   "rationale": "The paragraph names Golaknath as the 1967 decision reversing Sankari Prasad, a fact stated nowhere else in the brief."
+  },
+  {
+   "id": "il-0018",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the IL Explainer episode on Murarji Vaidya's essay on free enterprise and freedom, in what year was the essay originally written?",
+   "expected": {
+    "docs": ["primary-works:il-explainer-ep-5-free-enterprise-and-freedom"],
+    "paragraph_ids": { "primary-works:il-explainer-ep-5-free-enterprise-and-freedom": ["p-f21be0"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["1956"]
+   },
+   "rationale": "The transcript states outright that the discussed essay was written in 1956."
+  },
+  {
+   "id": "il-0019",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the profile of Homi Mody's shift from pro-business to pro-market liberalism, what role did Mody accept on the Swatantra Party's organising committee after Masani wrote to him in 1959?",
+   "expected": {
+    "docs": ["opinions:homi-modys-liberalism-pro-business-to-pro-market"],
+    "paragraph_ids": { "opinions:homi-modys-liberalism-pro-business-to-pro-market": ["p-35f725"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["treasurer"]
+   },
+   "rationale": "The paragraph states Mody came on board as treasurer of the organising committee, a specific, checkable role."
+  },
+  {
+   "id": "il-0020",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to the musing 'Not a Rich People's Lobby', reproducing Rajaji's defence of the Swatantra Party, on what specific date was Rajaji's article originally published?",
+   "expected": {
+    "docs": ["musings:not-a-rich-peoples-lobby"],
+    "paragraph_ids": { "musings:not-a-rich-peoples-lobby": ["p-fc0bac"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["July 6, 1968"]
+   },
+   "rationale": "The introductory note gives the exact publication date of Rajaji's article, a fact stated only once in the brief."
+  }
+ ]
+}

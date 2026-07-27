@@ -1,0 +1,782 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogSection } from "~/lib/og";
+import pool from "../../../../../data/eval/pool.json";
+import resultsJson from "../../../../../data/eval/results.json";
+
+// Imported, not read from disk. An earlier version used
+// readFileSync(new URL(..., import.meta.url)) and silently rendered the "no run
+// published yet" state in the built site: Vite bundles this page into a chunk,
+// so import.meta.url no longer points at src/pages/eval/ and the read always
+// threw into the catch. The sibling .ts endpoint gets away with the same trick
+// because endpoints keep their module path, which is why /eval/results.json was
+// correct while the page it sits next to was not. A static import cannot drift.
+//
+// data/eval/results.json is committed, so this always resolves. A run that has
+// not been graded yet is represented by the file's own contents rather than by
+// its absence, so the honest "no score" state still renders.
+type Cell = { n: number; loose: number; graded: number; strict: number };
+type Results = {
+  graded_at: string;
+  label: string;
+  pool_size: number;
+  summary: {
+    n: number;
+    loose: number;
+    graded: number;
+    strict: number;
+    violations: number;
+    content_failures: number;
+    unanswered: number;
+    distribution: Record<string, number>;
+    cells: Record<string, Cell>;
+  };
+  questions: {
+    id: string;
+    tier: string;
+    retrieval: string;
+    shape: string;
+    graded: number;
+    strict: number;
+    loose: number;
+    violation: boolean;
+  }[];
+};
+
+const candidate = resultsJson as unknown as Results | null;
+// Treat a file with no graded questions as "not run", so a placeholder cannot
+// masquerade as a score.
+const results: Results | null =
+  candidate && candidate.summary && candidate.summary.n > 0 ? candidate : null;
+
+const pct = (n: number) => `${(n * 100).toFixed(1)}%`;
+const scoreById = new Map(results?.questions.map((q) => [q.id, q]) ?? []);
+
+const CELL_ORDER = [
+  "A/named/single",
+  "A/blind/single",
+  "A/blind/needle",
+  "A/blind/multi",
+  "B/named/single",
+  "B/blind/single",
+  "B/blind/multi",
+  "mixed/blind/multi",
+  "none/named/abstention",
+];
+
+const CELL_BLURB: Record<string, string> = {
+  "A/named/single": "The question names the source. Pure citation discipline.",
+  "A/blind/single": "Concept only. The agent must find the document itself.",
+  "A/blind/needle": "One obscure fact, in one paragraph, named nowhere.",
+  "A/blind/multi": "Two clean sources have to be brought together.",
+  "B/named/single": "The work is named; the agent must not overclaim about it.",
+  "B/blind/single": "Find a summary-only work from its subject matter alone.",
+  "B/blind/multi": "Several primary works, none of them named.",
+  "mixed/blind/multi": "One quotable source and one summary-only source, in one answer.",
+  "none/named/abstention": "The archive holds nothing. Saying so is the only right answer.",
+};
+
+const cellRows = CELL_ORDER.map((key) => {
+  const [tier, retrieval, shape] = key.split("/");
+  const inPool = pool.questions.filter(
+    (q: any) => q.tier === tier && q.retrieval === retrieval && q.shape === shape,
+  ).length;
+  return { key, tier, retrieval, shape, inPool, cell: results?.summary.cells[key] ?? null };
+}).filter((r) => r.inPool > 0);
+
+const tierRows = ["A", "B", "mixed", "none"].map((t) => ({
+  label: t === "mixed" ? "Both tiers" : t === "none" ? "Neither (abstention)" : `Tier ${t}`,
+  n: pool.questions.filter((q: any) => q.tier === t).length,
+  cell: results?.summary.cells[`tier:${t}`] ?? null,
+}));
+
+// Whether a question's answer is obtainable through the documented MCP tools,
+// or only from text those tools decline to return. For Tier B the tools expose
+// the summary and little else, while the per-article summaries sit at the very
+// `md_url` the API hands out. Splitting the score this way keeps a thin agent
+// surface from being read as poor citation discipline.
+const reachRows = ["via_tools", "beyond_tools"].map((r) => ({
+  key: r,
+  label:
+    r === "via_tools"
+      ? "Answerable from what the tools return"
+      : "Needs detail the tools decline to return",
+  n: pool.questions.filter((q: any) => (q.reach ?? "via_tools") === r).length,
+  cell: results?.summary.cells[`reach:${r}`] ?? null,
+}));
+
+const retrievalRows = ["named", "blind"].map((r) => ({
+  label: r === "named" ? "Source named in the question" : "Source not named, so the agent must find it",
+  n: pool.questions.filter((q: any) => q.retrieval === r).length,
+  cell: results?.summary.cells[`retrieval:${r}`] ?? null,
+}));
+
+// Show every question. The pool being public is the point: a score nobody can
+// inspect is a marketing number.
+const browsable = pool.questions.map((q: any) => ({
+  id: q.id,
+  tier: q.tier,
+  retrieval: q.retrieval,
+  shape: q.shape,
+  question: q.question,
+  docs: q.expected.docs as string[],
+  anchors: Object.values(q.expected.paragraph_ids ?? {}).flat() as string[],
+  must: (q.expected.answer_must_contain ?? []) as string[],
+  score: scoreById.get(q.id)?.graded ?? null,
+}));
+
+const tierPill = (tier: string) =>
+  tier === "A"
+    ? "bg-(--color-forest-500)/15 text-(--color-forest-700)"
+    : tier === "B"
+      ? "bg-(--color-saffron-500)/15 text-(--color-saffron-700)"
+      : tier === "none"
+        ? "bg-(--color-slate-500)/15 text-(--color-slate-700)"
+        : "bg-(--color-gold-500)/20 text-(--color-gold-700)";
+
+const tierLabel = (tier: string) =>
+  tier === "mixed" ? "A + B" : tier === "none" ? "Not held" : `Tier ${tier}`;
+
+// The abstention cell reports one number the others cannot: how often an agent
+// invented a source rather than admit the archive had nothing.
+const abstention = results?.questions.filter((q) => q.shape === "abstention") ?? [];
+const fabricated = abstention.filter((q: any) => q.fabricated).length;
+---
+
+<BaseLayout
+  ogImage={ogSection("about")}
+  title="Eval · Indian Liberals"
+  description="The deterministic evaluation behind this archive's two-tier citation model: a public question pool, a grader with no LLM in it, and the current score."
+>
+  <article class="mx-auto max-w-4xl px-6 py-16">
+    <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+      Eval
+    </p>
+    <h1 class="mb-3">What this archive will let an agent claim.</h1>
+    <p class="mb-8 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+      Adnan Abbasi, founder of <a href="https://thothica.com" class="text-(--color-forest-700)">Thothica</a>.
+      The method is written up in full in
+      <a href="/eval/paper/" class="text-(--color-forest-700)">the paper</a>.
+    </p>
+
+    {/* .prose-container centres itself at 65ch, which is narrower than this
+        page's max-w-4xl, so it would sit right of the heading. Keep the class
+        for its inline-link styling and pin the block left instead. */}
+    <div class="prose-container mx-0! text-(--color-fg) leading-relaxed text-[1.0625rem]">
+      <p class="my-5">
+        This archive makes a promise with two halves. Some of its content is clean
+        enough to quote, down to the paragraph. The rest is a scanned PDF that we
+        have summarised but not transcribed, and an agent that quotes from it is
+        making something up. The whole design rests on that line holding.
+      </p>
+      <p class="my-5">
+        A promise like that should be measured, not asserted. So the pool of
+        questions below is public, the grader is arithmetic rather than judgement,
+        and the score is whatever it is.
+      </p>
+    </div>
+
+    {/* ---- Headline score ------------------------------------------------ */}
+    <section class="mt-14 font-(family-name:--font-ui)">
+      {results ? (
+        <div class="rounded-xl border border-(--color-border) bg-(--color-bg-muted) p-6 sm:p-8">
+          <div class="flex flex-wrap items-end gap-x-10 gap-y-6">
+            <div>
+              <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold">
+                Graded score
+              </p>
+              <p class="mt-1 text-5xl font-semibold text-(--color-fg) tabular-nums">
+                {pct(results.summary.graded)}
+              </p>
+              <p class="mt-1 text-xs text-(--color-fg-muted)">
+                {results.summary.n} of {results.pool_size} questions
+              </p>
+            </div>
+            <div class="flex gap-8">
+              <div>
+                <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold">
+                  Loose
+                </p>
+                <p class="mt-1 text-2xl text-(--color-fg-muted) tabular-nums">
+                  {pct(results.summary.loose)}
+                </p>
+                <p class="text-xs text-(--color-fg-muted)">source merely named</p>
+              </div>
+              <div>
+                <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold">
+                  Strict
+                </p>
+                <p class="mt-1 text-2xl text-(--color-fg-muted) tabular-nums">
+                  {pct(results.summary.strict)}
+                </p>
+                <p class="text-xs text-(--color-fg-muted)">citation proven by tool trace</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="mt-6 pt-6 border-t border-(--color-border) grid gap-4 sm:grid-cols-3 text-sm">
+            <p class="text-(--color-fg-muted)">
+              <span class="font-semibold text-(--color-fg) tabular-nums">
+                {results.summary.distribution["1"]}
+              </span>{" "}
+              scored 1 ·{" "}
+              <span class="font-semibold text-(--color-fg) tabular-nums">
+                {results.summary.distribution["0.5"]}
+              </span>{" "}
+              scored 0.5 ·{" "}
+              <span class="font-semibold text-(--color-fg) tabular-nums">
+                {results.summary.distribution["0"]}
+              </span>{" "}
+              scored 0
+            </p>
+            <p class="text-(--color-fg-muted)">
+              <span class="font-semibold text-(--color-fg) tabular-nums">
+                {results.summary.violations}
+              </span>{" "}
+              answers quoted text the archive does not publish
+            </p>
+            <p class="text-(--color-fg-muted)">
+              Run: {results.label} · graded {results.graded_at.slice(0, 10)}
+            </p>
+          </div>
+        </div>
+      ) : (
+        <div class="rounded-xl border border-dashed border-(--color-border) bg-(--color-bg-muted) p-6 text-sm text-(--color-fg-muted)">
+          <p class="font-semibold text-(--color-fg)">No run published yet.</p>
+          <p class="mt-1">
+            The pool and the grading method below are complete and frozen. A score
+            appears here once a run has been graded.
+          </p>
+        </div>
+      )}
+    </section>
+
+    {/* ---- The two tiers ------------------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">The two tiers</h2>
+      <div class="mt-6 grid gap-4 sm:grid-cols-2">
+        <div class="rounded-lg border border-(--color-border) p-5">
+          <span class="inline-flex items-center rounded-full bg-(--color-forest-500)/15 px-2.5 py-0.5 text-xs font-semibold uppercase tracking-wider text-(--color-forest-700)">
+            Tier A
+          </span>
+          <p class="mt-3 text-sm text-(--color-fg) leading-relaxed">
+            Thinker profiles, organisations, curated excerpts, opinion pieces,
+            interviews, and the ThePrint mirror. Clean text with stable paragraph
+            anchors. An agent may quote these and must cite the anchor.
+          </p>
+          <p class="mt-3 text-xs text-(--color-fg-muted) font-(family-name:--font-mono)">
+            https://indianliberals.in/musings/…/#p-28a62e
+          </p>
+        </div>
+        <div class="rounded-lg border border-(--color-border) p-5">
+          <span class="inline-flex items-center rounded-full bg-(--color-saffron-500)/15 px-2.5 py-0.5 text-xs font-semibold uppercase tracking-wider text-(--color-saffron-700)">
+            Tier B
+          </span>
+          <p class="mt-3 text-sm text-(--color-fg) leading-relaxed">
+            The primary works: scanned PDFs with metadata and an AI summary. There
+            is no transcribed body text, so there is nothing to quote. An agent
+            must attribute the summary to us and link the PDF.
+          </p>
+          <p class="mt-3 text-xs text-(--color-fg-muted) leading-relaxed">
+            &ldquo;According to Indian Liberals&rsquo; summary of <em>&lt;work&gt;</em>
+            (&lt;year&gt;), … PDF: &lt;url&gt;&rdquo;
+          </p>
+        </div>
+      </div>
+    </section>
+
+    {/* ---- Method -------------------------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">How it is graded</h2>
+      <p class="mt-2 mb-6 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        No model judges an answer. Every score comes from substring matching and
+        citation-shape validation, so the same answer graded twice gets the same
+        number, and anyone can re-run it.
+      </p>
+
+      <div class="overflow-x-auto rounded-lg border border-(--color-border)">
+        <table class="w-full text-sm">
+          <thead class="bg-(--color-bg-muted) text-left">
+            <tr>
+              <th class="px-4 py-3 font-semibold">Score</th>
+              <th class="px-4 py-3 font-semibold">Tier A question</th>
+              <th class="px-4 py-3 font-semibold">Tier B question</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-(--color-border)">
+            <tr>
+              <td class="px-4 py-3 font-semibold tabular-nums align-top">1</td>
+              <td class="px-4 py-3 text-(--color-fg-muted) align-top">
+                Every expected source cited as a page URL carrying a paragraph
+                anchor that genuinely exists on that page.
+              </td>
+              <td class="px-4 py-3 text-(--color-fg-muted) align-top">
+                Every expected work named, attributed as our summary, and linked
+                to its working PDF.
+              </td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3 font-semibold tabular-nums align-top">0.5</td>
+              <td class="px-4 py-3 text-(--color-fg-muted) align-top">
+                Source named, but the anchor is missing, malformed, or belongs to
+                a different page.
+              </td>
+              <td class="px-4 py-3 text-(--color-fg-muted) align-top">
+                Work named, but the summary attribution or the PDF link is
+                missing.
+              </td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3 font-semibold tabular-nums align-top">0</td>
+              <td class="px-4 py-3 text-(--color-fg-muted) align-top" colspan="2">
+                An expected source never appears at all.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="mt-6 rounded-lg border-l-2 border-(--color-saffron-500) bg-(--color-saffron-50) px-5 py-4">
+        <p class="text-sm font-semibold text-(--color-fg)">
+          One rule overrides all of the above.
+        </p>
+        <p class="mt-2 text-sm text-(--color-fg-muted) leading-relaxed">
+          If an answer presents eight or more words as a source&rsquo;s own text,
+          and that text appears nowhere the archive publishes, the answer scores
+          zero no matter how well it cites. The archive holds no transcribed
+          primary-work prose, so a quotation from one cannot be real. This is the
+          check the two-tier claim actually rests on.
+        </p>
+      </div>
+
+      <p class="mt-6 text-sm text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        Multi-source questions follow the same rubric across every expected
+        source: all of them cited scores 1, none of them scores 0, and any partial
+        result scores 0.5. Naming the right source without reproducing the
+        distinctive content it contains caps a question at 0.5, which is retrieval
+        without reading.
+      </p>
+    </section>
+
+    {/* ---- Why three numbers -------------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">Why three numbers</h2>
+      <p class="mt-2 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        An agent can name a work it never opened. Reporting only the number that
+        rewards this would overstate what the archive delivers, so all three are
+        published and the gap between them is the interesting part.
+      </p>
+      <dl class="mt-6 grid gap-4 sm:grid-cols-3 text-sm">
+        <div class="rounded-lg border border-(--color-border) p-4">
+          <dt class="font-semibold text-(--color-fg)">Loose</dt>
+          <dd class="mt-1 text-(--color-fg-muted) leading-relaxed">
+            The expected source is named somewhere in the answer. Nothing more.
+          </dd>
+        </div>
+        <div class="rounded-lg border border-(--color-border) p-4 ring-1 ring-(--color-saffron-500)/30">
+          <dt class="font-semibold text-(--color-fg)">Graded</dt>
+          <dd class="mt-1 text-(--color-fg-muted) leading-relaxed">
+            The headline. Citation discipline, on the 0 / 0.5 / 1 rubric above.
+          </dd>
+        </div>
+        <div class="rounded-lg border border-(--color-border) p-4">
+          <dt class="font-semibold text-(--color-fg)">Strict</dt>
+          <dd class="mt-1 text-(--color-fg-muted) leading-relaxed">
+            Graded, but a paragraph citation only counts if the agent&rsquo;s tool
+            trace shows it actually fetched that paragraph.
+          </dd>
+        </div>
+      </dl>
+    </section>
+
+    {/* ---- Pool composition and per-cell results ------------------------ */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">
+        The pool: {pool.counts.questions} questions
+      </h2>
+      <p class="mt-2 mb-6 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        Built by sampling the corpus from a fixed seed, so coverage is a property
+        of the archive rather than of whoever wrote the questions. Most questions
+        do not name their source: a reader does not know what is in here, and an
+        archive that only answers when you already know the answer is not much of
+        an archive.
+      </p>
+
+      <div class="overflow-x-auto rounded-lg border border-(--color-border)">
+        <table class="w-full text-sm">
+          <thead class="bg-(--color-bg-muted) text-left">
+            <tr>
+              <th class="px-4 py-3 font-semibold">Kind of question</th>
+              <th class="px-4 py-3 font-semibold text-right">In pool</th>
+              {results && <th class="px-4 py-3 font-semibold text-right">Graded</th>}
+              {results && <th class="px-4 py-3 font-semibold text-right">Strict</th>}
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-(--color-border)">
+            {cellRows.map((row) => (
+              <tr>
+                <td class="px-4 py-3 align-top">
+                  <span class={`inline-flex items-center rounded-full px-2 py-0.5 text-xs font-semibold uppercase tracking-wider ${tierPill(row.tier)}`}>
+                    {tierLabel(row.tier)}
+                  </span>
+                  <span class="ml-2 text-(--color-fg) font-medium">
+                    {row.retrieval === "named" ? "named" : "blind"} · {row.shape}
+                  </span>
+                  <span class="block mt-1 text-xs text-(--color-fg-muted)">
+                    {CELL_BLURB[row.key]}
+                  </span>
+                </td>
+                <td class="px-4 py-3 text-right tabular-nums align-top">{row.inPool}</td>
+                {results && (
+                  <td class="px-4 py-3 text-right tabular-nums align-top font-semibold">
+                    {row.cell ? pct(row.cell.graded) : "not run"}
+                  </td>
+                )}
+                {results && (
+                  <td class="px-4 py-3 text-right tabular-nums align-top text-(--color-fg-muted)">
+                    {row.cell ? pct(row.cell.strict) : "not run"}
+                  </td>
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="mt-6 grid gap-4 sm:grid-cols-2">
+        <div class="rounded-lg border border-(--color-border) p-4">
+          <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold mb-3">
+            By tier
+          </p>
+          <ul class="space-y-2 text-sm">
+            {tierRows.filter((r) => r.n > 0).map((row) => (
+              <li class="flex items-baseline justify-between gap-4">
+                <span class="text-(--color-fg)">{row.label}</span>
+                <span class="text-(--color-fg-muted) tabular-nums">
+                  {row.n}
+                  {row.cell && <span class="ml-3 font-semibold text-(--color-fg)">{pct(row.cell.graded)}</span>}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div class="rounded-lg border border-(--color-border) p-4">
+          <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold mb-3">
+            By retrieval difficulty
+          </p>
+          <ul class="space-y-2 text-sm">
+            {retrievalRows.filter((r) => r.n > 0).map((row) => (
+              <li class="flex items-baseline justify-between gap-4">
+                <span class="text-(--color-fg)">{row.label}</span>
+                <span class="text-(--color-fg-muted) tabular-nums shrink-0">
+                  {row.n}
+                  {row.cell && <span class="ml-3 font-semibold text-(--color-fg)">{pct(row.cell.graded)}</span>}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    {/* ---- The reachability finding ------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">
+        What the tools will actually hand over
+      </h2>
+      <p class="mt-2 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        Building the pool turned up a gap, and closing it was the single largest
+        improvement to come out of this exercise. For a Tier B work the tools used
+        to return the summary and little else. The archive held a great deal more:
+        key-point digests for 1,515 works and a per-article summary for 781 of
+        them, all sitting in the markdown body the API was already handing out the
+        address of, while
+        <code class="font-(family-name:--font-mono) text-xs">read_clean_content</code>
+        answered a Tier B request with &ldquo;no trusted body text exists&rdquo;. An
+        agent was told the text was not there and given its address in the same
+        breath.
+      </p>
+      <p class="mt-3 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        A third of the pool needed detail on the far side of that. Now
+        <code class="font-(family-name:--font-mono) text-xs">get_work_metadata</code>
+        returns the digests and the per-article summaries, and the refusal says
+        what is actually true: no transcribed source text exists, which is the
+        thing an agent must not quote. What remains out of reach is counted apart
+        below rather than folded into the headline, because a thin retrieval
+        surface should not read as poor citation discipline.
+      </p>
+
+      <div class="mt-6 overflow-x-auto rounded-lg border border-(--color-border)">
+        <table class="w-full text-sm">
+          <thead class="bg-(--color-bg-muted) text-left">
+            <tr>
+              <th class="px-4 py-3 font-semibold">Questions</th>
+              <th class="px-4 py-3 font-semibold text-right">In pool</th>
+              {results && <th class="px-4 py-3 font-semibold text-right">Graded</th>}
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-(--color-border)">
+            {reachRows.filter((r) => r.n > 0).map((row) => (
+              <tr>
+                <td class="px-4 py-3 text-(--color-fg)">{row.label}</td>
+                <td class="px-4 py-3 text-right tabular-nums">{row.n}</td>
+                {results && (
+                  <td class="px-4 py-3 text-right tabular-nums font-semibold">
+                    {row.cell ? pct(row.cell.graded) : "not run"}
+                  </td>
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="mt-3 text-xs text-(--color-fg-muted)">
+        Nothing here undermines the two-tier claim. The per-article text is
+        summary prose written by our extraction pipeline, not transcribed source
+        text, so it remains something to attribute rather than quote.
+      </p>
+    </section>
+
+    {/* ---- Abstention ---------------------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">
+        Asking for something that is not here
+      </h2>
+      <p class="mt-2 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        Every other question asks whether an agent can find what the archive has.
+        The last group asks what it does when the archive has nothing. The corpus
+        runs from 1850 to 2026, and ninety-seven years inside that range hold no
+        work at all, 1947 among them. The question takes for granted that there
+        is something from that year, because that is how the question gets asked,
+        and the only correct answer says there is not.
+      </p>
+      <p class="mt-3 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        Citing a work scores zero here, unless the answer has already said we
+        hold nothing from that year, in which case pointing at what we do hold
+        nearby is more useful than a bare denial. An earlier version of this cell
+        asked what a given person had written, and had to be abandoned: the
+        archive records authorship four different ways, the agents kept correctly
+        finding works our own metadata said were not there, and a check strict
+        enough to trust left no one to ask about. The
+        <a href="/eval/paper/" class="text-(--color-forest-700)">paper</a> tells
+        that story properly.
+      </p>
+
+      {results && abstention.length > 0 && (
+        <div class="mt-6 grid gap-4 sm:grid-cols-3 text-sm">
+          <div class="rounded-lg border border-(--color-border) p-4">
+            <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold">
+              Said so plainly
+            </p>
+            <p class="mt-1 text-2xl font-semibold text-(--color-fg) tabular-nums">
+              {abstention.filter((q) => q.graded === 1).length}
+              <span class="text-base text-(--color-fg-muted)"> / {abstention.length}</span>
+            </p>
+          </div>
+          <div class="rounded-lg border border-(--color-border) p-4">
+            <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold">
+              Hedged
+            </p>
+            <p class="mt-1 text-2xl font-semibold text-(--color-fg) tabular-nums">
+              {abstention.filter((q) => q.graded === 0.5).length}
+            </p>
+          </div>
+          <div class="rounded-lg border border-(--color-border) p-4">
+            <p class="text-xs uppercase tracking-wider text-(--color-fg-muted) font-semibold">
+              Cited a work anyway
+            </p>
+            <p class="mt-1 text-2xl font-semibold text-(--color-fg) tabular-nums">{fabricated}</p>
+          </div>
+        </div>
+      )}
+    </section>
+
+    {/* ---- Browse the pool ---------------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">Every question</h2>
+      <p class="mt-2 mb-6 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        The full pool, with the sources each question expects and the strings its
+        answer must contain. A score nobody can inspect is a marketing number.
+      </p>
+
+      <div class="flex flex-wrap gap-2 mb-4" data-eval-filters>
+        <button type="button" data-filter="all" class="eval-chip is-active">All</button>
+        <button type="button" data-filter="A" class="eval-chip">Tier A</button>
+        <button type="button" data-filter="B" class="eval-chip">Tier B</button>
+        <button type="button" data-filter="mixed" class="eval-chip">Both tiers</button>
+        <button type="button" data-filter="blind" class="eval-chip">Blind</button>
+        <button type="button" data-filter="named" class="eval-chip">Named</button>
+        <button type="button" data-filter="needle" class="eval-chip">Needles</button>
+        <button type="button" data-filter="multi" class="eval-chip">Multi-source</button>
+      </div>
+
+      <ol class="space-y-2" data-eval-list>
+        {browsable.map((q) => (
+          <li
+            data-tier={q.tier}
+            data-retrieval={q.retrieval}
+            data-shape={q.shape}
+            class="rounded-lg border border-(--color-border) overflow-hidden"
+          >
+            <details>
+              <summary class="cursor-pointer list-none px-4 py-3 hover:bg-(--color-bg-muted) transition-colors">
+                <div class="flex items-start gap-3">
+                  <span class="font-(family-name:--font-mono) text-xs text-(--color-fg-muted) mt-0.5 shrink-0">
+                    {q.id}
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="block text-sm text-(--color-fg) leading-relaxed">{q.question}</span>
+                    <span class="mt-1.5 flex flex-wrap items-center gap-1.5">
+                      <span class={`inline-flex items-center rounded-full px-2 py-0.5 text-[0.6875rem] font-semibold uppercase tracking-wider ${tierPill(q.tier)}`}>
+                        {tierLabel(q.tier)}
+                      </span>
+                      <span class="text-[0.6875rem] uppercase tracking-wider text-(--color-fg-muted)">
+                        {q.retrieval} · {q.shape}
+                      </span>
+                    </span>
+                  </span>
+                  {q.score !== null && (
+                    <span
+                      class="shrink-0 font-(family-name:--font-mono) text-xs tabular-nums px-2 py-0.5 rounded"
+                      style={`background:${q.score === 1 ? "color-mix(in oklch, var(--color-forest-500) 18%, transparent)" : q.score === 0.5 ? "color-mix(in oklch, var(--color-gold-500) 22%, transparent)" : "color-mix(in oklch, var(--color-saffron-500) 18%, transparent)"}`}
+                    >
+                      {q.score}
+                    </span>
+                  )}
+                </div>
+              </summary>
+              <div class="px-4 pb-4 pt-1 border-t border-(--color-border) bg-(--color-bg-muted) text-xs space-y-2">
+                <p>
+                  <span class="font-semibold text-(--color-fg)">Expected sources:</span>{" "}
+                  <span class="font-(family-name:--font-mono) text-(--color-fg-muted)">
+                    {q.docs.join(", ")}
+                  </span>
+                </p>
+                {q.anchors.length > 0 && (
+                  <p>
+                    <span class="font-semibold text-(--color-fg)">Paragraph anchors:</span>{" "}
+                    <span class="font-(family-name:--font-mono) text-(--color-fg-muted)">
+                      {q.anchors.join(", ")}
+                    </span>
+                  </p>
+                )}
+                <p>
+                  <span class="font-semibold text-(--color-fg)">Answer must contain:</span>{" "}
+                  <span class="text-(--color-fg-muted)">
+                    {q.must.map((m) => `“${m}”`).join(", ")}
+                  </span>
+                </p>
+              </div>
+            </details>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    {/* ---- Raw data and limitations ------------------------------------- */}
+    <section class="mt-16 font-(family-name:--font-ui)">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">Raw data</h2>
+      <ul class="mt-4 space-y-2 text-sm">
+        <li>
+          <a href="/eval/pool.json" class="text-(--color-forest-700) font-(family-name:--font-mono)">
+            /eval/pool.json
+          </a>
+          <span class="text-(--color-fg-muted)">: the frozen question pool</span>
+        </li>
+        {results && (
+          <li>
+            <a href="/eval/results.json" class="text-(--color-forest-700) font-(family-name:--font-mono)">
+              /eval/results.json
+            </a>
+            <span class="text-(--color-fg-muted)">: the graded run, question by question</span>
+          </li>
+        )}
+        <li>
+          <a href="/AGENTS.md" class="text-(--color-forest-700) font-(family-name:--font-mono)">
+            /AGENTS.md
+          </a>
+          <span class="text-(--color-fg-muted)">
+            {": "}the citation contract the agents under test are given
+          </span>
+        </li>
+      </ul>
+
+      <h2 class="mt-12 text-(--color-fg) font-(family-name:--font-display)">What this does not measure</h2>
+      <ul class="mt-4 space-y-3 text-sm text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        <li>
+          <span class="font-semibold text-(--color-fg)">Factual correctness.</span>{" "}
+          The grader checks whether the right sources were found and cited
+          honestly, not whether every sentence around them is true.
+        </li>
+        <li>
+          <span class="font-semibold text-(--color-fg)">Paraphrase.</span> A
+          correct answer that avoids the expected distinctive strings scores below
+          its merit. Substring matching cannot tell a good paraphrase from a miss,
+          and the alternative is a model judge, which is not reproducible.
+        </li>
+        <li>
+          <span class="font-semibold text-(--color-fg)">Tool traces.</span> The
+          strict score trusts the trace the agent reports. A cooperative agent
+          reports it faithfully; an adversarial one could not be caught this way.
+          The graded score does not use the trace at all.
+        </li>
+        <li>
+          <span class="font-semibold text-(--color-fg)">
+            Tier A pages with nothing to cite.
+          </span>{" "}
+          Several hundred thinker and organisation pages hold only structured
+          metadata, with no prose and therefore no paragraph anchors. The pool
+          draws Tier A questions only from pages that genuinely carry anchors, so
+          the score does not average in documents no agent could have cited.
+        </li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .eval-chip {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    border: 1px solid var(--color-border);
+    color: var(--color-fg-muted);
+    background: var(--color-bg);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .eval-chip:hover {
+    border-color: var(--color-fg-muted);
+    color: var(--color-fg);
+  }
+  .eval-chip.is-active {
+    background: var(--color-fg);
+    border-color: var(--color-fg);
+    color: var(--color-bg);
+  }
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+</style>
+
+<script>
+  // Progressive: the full list is server-rendered, and these chips only hide
+  // rows. With JS off the page still shows every question.
+  const wrap = document.querySelector("[data-eval-filters]");
+  const list = document.querySelector("[data-eval-list]");
+  if (wrap && list) {
+    const items = Array.from(list.children) as HTMLElement[];
+    wrap.addEventListener("click", (event) => {
+      const button = (event.target as HTMLElement).closest("button[data-filter]");
+      if (!(button instanceof HTMLElement)) return;
+      const filter = button.dataset.filter ?? "all";
+      wrap.querySelectorAll("button").forEach((b) => b.classList.toggle("is-active", b === button));
+      for (const item of items) {
+        const { tier, retrieval, shape } = item.dataset;
+        item.hidden =
+          filter !== "all" && filter !== tier && filter !== retrieval && filter !== shape;
+      }
+    });
+  }
+</script>

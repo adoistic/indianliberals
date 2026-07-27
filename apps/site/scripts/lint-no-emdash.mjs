@@ -24,6 +24,10 @@ const ALLOW = [
   // periodicals/index.astro: regex that strips a leading "Name — " / "Name: "
   // / "Name - " prefix from imported issue titles. The — is matched data, not UI copy.
   /\[:—-\]/,
+  // series/[series].astro: an em dash standing in for a missing year in a card.
+  // A placeholder glyph in a data slot is typographic convention, not prose, and
+  // spelling it out would not fit the cell.
+  /\?\?\s*"—"/,
 ];
 
 function walk(dir, out = []) {
@@ -46,7 +50,31 @@ for (const root of ROOTS) {
   }
   for (const file of files) {
     const lines = readFileSync(file, "utf8").split("\n");
+    // Comments are not copy. This check exists because CCS reads em dashes in
+    // the *rendered* text as AI-generated; an em dash in a note to the next
+    // developer is invisible to a reader. Scanning them made the check fail on
+    // main, which is worse than not having it: nobody could use it, and real em
+    // dashes crept back into visible copy behind the noise.
+    let inBlockComment = false;
     lines.forEach((line, i) => {
+      const trimmed = line.trim();
+
+      // Track /* … */ and JSX {/* … */} spans across lines.
+      const opens = /\/\*|\{\/\*/.test(line);
+      const closes = /\*\/\}?/.test(line);
+      const wasInBlock = inBlockComment;
+      if (opens && !closes) inBlockComment = true;
+      else if (closes && inBlockComment) inBlockComment = false;
+
+      const isComment =
+        wasInBlock ||
+        inBlockComment ||
+        trimmed.startsWith("//") ||
+        trimmed.startsWith("*") ||
+        trimmed.startsWith("/*") ||
+        trimmed.startsWith("{/*");
+
+      if (isComment) return;
       if (!/—|&mdash;/.test(line)) return;
       if (ALLOW.some((re) => re.test(line))) return;
       hits.push(`${file}:${i + 1}: ${line.trim()}`);

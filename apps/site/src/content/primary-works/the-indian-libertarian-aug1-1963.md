@@ -119,7 +119,7 @@ The essay then turns to India: it warns that Indian Communists' loyalty is final
 - Warns that Indian Communists' first loyalty is to the international party, not the nation.
 
 ### The Barber's Gold
-*By By Seth W. Howard*
+*By Seth W. Howard*
 
 Seth W. Howard's short prose piece frames itself as a fable triggered by Morarji Desai's budget and the comfortable living of Union ministers. A king relies entirely on his Prime Minister and barber for news of the realm; the Minister tells him only what is convenient, while the barber, sworn to confidence, eventually has to whisper the king's secret into a hole in the ground. The moral is bent at India's political class: rulers who hear only flattering reports from courtiers will find the inconvenient truth seeping out from below them whether they wish it or not.
 
@@ -128,7 +128,7 @@ Seth W. Howard's short prose piece frames itself as a fable triggered by Morarji
 - Argues unwelcome truths surface despite efforts to suppress them.
 
 ### The Way Of Careerists
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal reads Nehru's Chandigarh speech as proof that the Prime Minister has perfected the 'Gandhian technique' as a career instrument rather than a moral discipline. The essay argues that Nehru has mastered the rhetorical register of self-sacrifice and renunciation while in practice retaining power, and that the speech's appeal to the Mahatma is therefore a careerist's borrowing of moral capital. Tholal extends the critique into a broader account of the post-Independence political class: the careerist learns to clothe ambition in Gandhian, socialist or constitutional vocabulary as the occasion requires.
 

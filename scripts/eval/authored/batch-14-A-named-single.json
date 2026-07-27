@@ -1,0 +1,146 @@
+{
+ "batch": 14,
+ "cell": { "tier": "A", "retrieval": "named", "shape": "single" },
+ "questions": [
+  {
+   "id": "il-0021",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Jayaprakash Narayan's essay 'Panchayati Raj,' what name does he suggest for a non-party, purely educative body of voters that might be formed to serve the electorate?",
+   "expected": {
+    "docs": ["musings:panchayati-raj"],
+    "paragraph_ids": { "musings:panchayati-raj": ["p-586927"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["All-India Voters' Association"]
+   },
+   "rationale": "The paragraph names this proposed body once and only in this form; a correct answer must reproduce Narayan's own coinage."
+  },
+  {
+   "id": "il-0022",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "According to D. R. Pendse's talk on India's 'Open and Prosperous Past,' for how many years, by his account, has India been a closed and poor country compared to its long history before that?",
+   "expected": {
+    "docs": ["primary-works:d-r-pendse-on-indias-open-and-prosperous-past"],
+    "paragraph_ids": { "primary-works:d-r-pendse-on-indias-open-and-prosperous-past": ["p-27f2d9"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["two hundred years"]
+   },
+   "rationale": "The single transcribed paragraph repeats this duration as the core claim of the talk, so it is directly checkable."
+  },
+  {
+   "id": "il-0023",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the recorded discussion 'Deepak Lal on Grameen Bank and Microfinance Institutions,' what traditional Indian rotating-savings system does a speaker cite as a precedent, illustrating it with an example of putting in 10 rupees each round?",
+   "expected": {
+    "docs": ["primary-works:deepak-lal-on-grameen-bank-and-microfinance-institutions"],
+    "paragraph_ids": { "primary-works:deepak-lal-on-grameen-bank-and-microfinance-institutions": ["p-2135b8"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["chit funds", "10 rupees"]
+   },
+   "rationale": "Both the institution's name and the illustrative figure appear only in this one exchange."
+  },
+  {
+   "id": "il-0024",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Nani Palkhivala's essay 'The Shells of Socialism,' which minister announced on 5 June 1964 that nationalisation should be the last step in any effort to control banks?",
+   "expected": {
+    "docs": ["musings:is-socialism-outdated"],
+    "paragraph_ids": { "musings:is-socialism-outdated": ["p-557bcc"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["T. T. Krishnamachari"]
+   },
+   "rationale": "The minister's name and the date are given together in a single paragraph, making the attribution unambiguous."
+  },
+  {
+   "id": "il-0025",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the profile of Dr Janaki Ammal, which Kerala valley did she help defend by joining protests against a proposed hydropower dam across the river Kunthipuzha?",
+   "expected": {
+    "docs": ["opinions:dr-janaki-ammal"],
+    "paragraph_ids": { "opinions:dr-janaki-ammal": ["p-c55912"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Silent Valley"]
+   },
+   "rationale": "The valley's name is stated once in the paragraph describing her environmental activism."
+  },
+  {
+   "id": "il-0026",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "'The Role of Ideas in Politics' excerpts an article by M A Venkata Rao — in which magazine was it originally published, and in what month and year?",
+   "expected": {
+    "docs": ["musings:ideas-in-politics"],
+    "paragraph_ids": { "musings:ideas-in-politics": ["p-3fb2d3"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Indian Libertarian Magazine", "November 1960"]
+   },
+   "rationale": "The prefatory paragraph gives both the publication and the exact month and year in one sentence."
+  },
+  {
+   "id": "il-0027",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the discussion of Tagore's Streer Potro, what is the name of the young widow whom Mrinal stands up for, who eventually takes her own life?",
+   "expected": {
+    "docs": ["primary-works:il-explainer-ep-3-streer-potro-tagore"],
+    "paragraph_ids": { "primary-works:il-explainer-ep-3-streer-potro-tagore": ["p-477e38"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bindu"]
+   },
+   "rationale": "The widow is named only in the second speaker's turn, so citing it proves the source was read past the opening summary."
+  },
+  {
+   "id": "il-0028",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Dr Sudhir Krishnaswamy's lecture on how liberal the Indian Constitution is, which Chief Justice does he credit with a brief 'spurt' in the Supreme Court's use of liberal principles just before retiring?",
+   "expected": {
+    "docs": ["primary-works:how-liberal-is-the-constitution-of-india-by-dr-sudhir-krishnaswamy"],
+    "paragraph_ids": { "primary-works:how-liberal-is-the-constitution-of-india-by-dr-sudhir-krishnaswamy": ["p-994b61"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Mishra"]
+   },
+   "rationale": "The lecture names this single judge as responsible for the spurt, stated once in this paragraph."
+  },
+  {
+   "id": "il-0029",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In the profile of Ramabai Ranade, the girls' school she founded in Pune was originally called the Poona Native Girls High School — what is it known as today?",
+   "expected": {
+    "docs": ["opinions:women-and-liberalism-life-of-ramabai-ranade"],
+    "paragraph_ids": { "opinions:women-and-liberalism-life-of-ramabai-ranade": ["p-a4b3a0"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Huzurpaga"]
+   },
+   "rationale": "The school's current name is given once, immediately after its founding is described."
+  },
+  {
+   "id": "il-0030",
+   "tier": "A",
+   "retrieval": "named",
+   "shape": "single",
+   "question": "In Ashok Desai's essay on the 1991 reforms, which two economists does he credit with coining the term 'liberalisation episodes' for India's earlier bouts of relaxed controls?",
+   "expected": {
+    "docs": ["theprint-mirror:economic-controls-in-india-liberalisation-history"],
+    "paragraph_ids": { "theprint-mirror:economic-controls-in-india-liberalisation-history": ["p-f4d564"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bhagwati", "Srinivasan"]
+   },
+   "rationale": "Both names are given together, verbatim, as the coiners of this specific term in one paragraph."
+  }
+ ]
+}

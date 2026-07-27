@@ -105,7 +105,7 @@ M. A. Venkata Rao's 'National Ideals And Social Forces' examines the gap between
 - Argues for a liberal, integrative national foundation.
 
 ### The Fat Is In The Fire
-*By by M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Thölal's 'The Fat Is In The Fire' takes up the Sikh-Punjabi communal agitation, centred on Master Tara Singh and the Punjabi Suba demand. In the rendered pages he reads the fast and the slogans around it as evidence that communal and linguistic mobilisation has been let loose with dangerous consequences, casting the episode as a self-inflicted crisis for the Indian polity.
 
@@ -115,7 +115,7 @@ M. N. Thölal's 'The Fat Is In The Fire' takes up the Sikh-Punjabi communal agit
 - Continues the journal's wariness of communal mobilisation.
 
 ### Integration
-*By by P. Kodanda Rao*
+*By P. Kodanda Rao*
 
 P. Kodanda Rao's 'Integration' argues that genuine national integration must be built on consent and shared liberal citizenship rather than imposed uniformity. In the rendered pages he distinguishes true integration from mere centralisation, treating the unity of a diverse India as a task of accommodation among its religious, linguistic and regional communities.
 

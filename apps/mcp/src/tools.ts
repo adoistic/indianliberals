@@ -262,8 +262,14 @@ export const TOOLS: Tool[] = [
     handler: async (args, env) => {
       const doc = await resolveDoc(env, String(args.id));
       if (doc.tier !== 'A') {
+        // Say what is true. The older wording ("no trusted body text exists")
+        // read as "there is nothing here", while the site was serving
+        // per-article summaries for 780 works at the md_url this API hands out,
+        // and get_work_metadata now returns them as `article_summaries`. What
+        // does not exist is transcribed *source* text, which is the thing an
+        // agent must not quote.
         throw new ToolError(
-          `"${doc.key}" is Tier B — no trusted body text exists, only an AI summary. Call get_work_metadata with id "${doc.id}" for the summary + pdf_url, and attribute claims per /AGENTS.md.`,
+          `"${doc.key}" is Tier B: the archive holds no transcribed source text for it, so there is nothing here to quote. Call get_work_metadata with id "${doc.id}" for the summary, key points, per-article summaries where they exist, and the pdf_url. Attribute any claim to Indian Liberals' summary and link the PDF, per /AGENTS.md.`,
         );
       }
       if (!doc.md_url) throw new ToolError(`"${doc.key}" has no markdown sibling.`);

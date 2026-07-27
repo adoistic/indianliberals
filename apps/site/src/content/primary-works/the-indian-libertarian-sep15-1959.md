@@ -110,7 +110,7 @@ M. A. Venkata Rao's 'In Place of Panchsheela' argues that the Panchsheel doctrin
 - Frames the lesson in liberal-democratic terms.
 
 ### Nehru Undermining India's Freedom
-*By by M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Thölal's 'Nehru Undermining India's Freedom' contends that the gravest threat to Indian liberty is not external but internal — the drift of Nehru's government toward centralised, statist control. In the rendered pages he argues that the Prime Minister's economic and political direction, his handling of dissent, and his accommodation of socialist and fellow-travelling forces are steadily hollowing out the freedoms independence was meant to secure.
 

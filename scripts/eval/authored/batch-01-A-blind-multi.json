@@ -1,0 +1,210 @@
+{
+ "batch": 1,
+ "cell": {
+  "tier": "A",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0106",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One full-text version of a 1990 memorial lecture reflecting on more than four decades of Indian self-governance mentions a Delhi memorial where a list of Mahatma Gandhi's 'Seven Deadly Sins' is inscribed — what memorial is that? A shorter, mirrored version of the same lecture closes by naming the organisation that published it as a monograph the following year. Which organisation was that?",
+   "expected": {
+    "docs": [
+     "musings:forty-three-years-of-independence",
+     "theprint-mirror:like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala"
+    ],
+    "paragraph_ids": {
+     "musings:forty-three-years-of-independence": ["p-370354"],
+     "theprint-mirror:like-a-gambler-govts-squandered-indias-legacy-through-mindless-socialism-nani-palkhivala": ["p-f4070b"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Gandhi Samadhi", "Forum of Free Enterprise"]
+   },
+   "rationale": "The Gandhi Samadhi / Seven Deadly Sins reference survives only in the fuller lecture text, which the mirrored excerpt omits; the mirror's closing note is the only place naming the Forum of Free Enterprise as the monograph's 1991 publisher."
+  },
+  {
+   "id": "il-0107",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One first-hand account of forest-rights work names the piece of legislation whose stated philosophy is to give local communities ownership over both minor and major forest produce — what is that law called? A separate account, tracing how tribal communities lost control of forest land under colonial rule, names the year from which the legal assertion of state ownership over such land is said to date. What year is that?",
+   "expected": {
+    "docs": [
+     "primary-works:forest-departments-incentives-and-the-environment",
+     "primary-works:indias-forest-dwellers-from-owners-to-encroachers"
+    ],
+    "paragraph_ids": {
+     "primary-works:forest-departments-incentives-and-the-environment": ["p-47b592"],
+     "primary-works:indias-forest-dwellers-from-owners-to-encroachers": ["p-44a2b5"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Forest Rights Act", "1927"]
+   },
+   "rationale": "The Forest Rights Act is named only in the incentives-focused transcript, while the 1927 starting point for the colonial assertion of forest ownership is named only in the dispossession-history transcript."
+  },
+  {
+   "id": "il-0108",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One profile of a well-known twentieth-century Indian jurist names an institute he founded to advance the democratic ideals associated with Jayaprakash Narayan — what is that institute called? A tribute to the same jurist, written by a close associate, names the publishing house that in 1994 issued a compilation of his essays ranging from a profile of an early nationalist economist to commentary on a state governor's dismissal. Which publishing house was that?",
+   "expected": {
+    "docs": [
+     "thinkers:nani-palkhivala",
+     "musings:nani-palkhivala-publications-to-serve-public-education"
+    ],
+    "paragraph_ids": {
+     "thinkers:nani-palkhivala": ["p-60e520"],
+     "musings:nani-palkhivala-publications-to-serve-public-education": ["p-bf52e3"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Jayaprakash Institute", "UBS Publishers"]
+   },
+   "rationale": "The institute founded to carry forward JP's legacy is named only in the biographical profile, while the 1994 publisher of the essay compilation is named only in the associate's tribute."
+  },
+  {
+   "id": "il-0109",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One version of a 1956 address to a graduates' association gives the exact number of shareholders in a major Indian steel company, cited to rebut the claim that private industry concentrates economic power — how many shareholders? A mirrored, abridged version of the same address closes with an editorial note giving the exact date in 1956 on which the underlying monograph was first published. What date is that?",
+   "expected": {
+    "docs": [
+     "musings:has-private-enterprise-failed-a-d-shroff",
+     "theprint-mirror:private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule"
+    ],
+    "paragraph_ids": {
+     "musings:has-private-enterprise-failed-a-d-shroff": ["p-ff7c45"],
+     "theprint-mirror:private-enterprise-didnt-fail-in-india-jn-tatas-steel-dream-soared-despite-british-ridicule": ["p-191748"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["42,000", "23 October 1956"]
+   },
+   "rationale": "The 42,000-shareholder figure for Tata Iron & Steel appears only in the fuller musings version, which the abridged mirror cuts; the mirror's closing attribution note is the only place giving the monograph's exact 23 October 1956 publication date."
+  },
+  {
+   "id": "il-0110",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One profile describes an early birth-control and sex-education advocate who was twice prosecuted over content in his Marathi monthly magazine — what fine did the court impose after the second prosecution? A separate, Marathi-language profile describes a moderate nationalist leader who in 1897 presented India's economic hardships before a British Royal Commission — name that commission.",
+   "expected": {
+    "docs": [
+     "musings:fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve",
+     "musings:bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale"
+    ],
+    "paragraph_ids": {
+     "musings:fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve": ["p-e98942"],
+     "musings:bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale": ["p-051f4b"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Rs. 200", "Welby Commission"]
+   },
+   "rationale": "The second prosecution's fine appears only in the profile of the birth-control advocate; the Welby Commission testimony appears only in the Marathi-language profile of the moderate nationalist leader."
+  },
+  {
+   "id": "il-0111",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One short 1974 excerpt asks what a worker needs, besides ample wages, in order to buy property — what two-word method of accumulation does it name? A separate 1963 essay opposing a proposed nationalisation of an entire industry closes by naming the periodical whose economic supplement first carried it. Name that periodical.",
+   "expected": {
+    "docs": [
+     "theprint-mirror:india-socialism-common-man-capitalist",
+     "theprint-mirror:bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff"
+    ],
+    "paragraph_ids": {
+     "theprint-mirror:india-socialism-common-man-capitalist": ["p-20ca54"],
+     "theprint-mirror:bank-nationalisation-indias-mixed-economy-totalitarianism-phiroze-shroff": ["p-a4ef46"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["judicious saving", "Indian Libertarian"]
+   },
+   "rationale": "The 'judicious saving' phrase appears only in the short 1974 excerpt; the Indian Libertarian attribution appears only in the bank-nationalisation essay's closing note."
+  },
+  {
+   "id": "il-0112",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One work explaining how economic freedom builds prosperity credits an illustrator by name in its opening description — who illustrated it? A separate, much shorter piece lists several kinds of economically independent people — a professional, a businessman, an agricultural category, an artisan, and a self-employed man — who can 'stand on their own legs' and afford to disagree with government. Which agricultural category appears in that list?",
+   "expected": {
+    "docs": [
+     "musings:your-prosperity-through-freedom",
+     "theprint-mirror:free-enterprise-in-economic-life-minoo-masani"
+    ],
+    "paragraph_ids": {
+     "musings:your-prosperity-through-freedom": ["p-1123bb"],
+     "theprint-mirror:free-enterprise-in-economic-life-minoo-masani": ["p-a95f5f"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Eric Francis", "landed peasant"]
+   },
+   "rationale": "The illustrator credit appears only in the graphic-novel piece's opening description; the 'landed peasant' category appears only in the separate short excerpt listing economically independent people."
+  },
+  {
+   "id": "il-0113",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "Using the Aggregate Measurement of Support as its yardstick, one Rajya Sabha speech on farmer suicides puts the cumulative loss to Indian farmers between 1980 and 2000 at a specific sum in crores of rupees — what sum? A separate piece on the same price-support measure gives its negative value for fourteen major crops in a single year, 1996-97 — what sum is that?",
+   "expected": {
+    "docs": [
+     "musings:sharad-joshi-tragedy-of-being-a-farmer-in-india",
+     "musings:unchanged-quarter-century-for-farmers-sharad-joshi"
+    ],
+    "paragraph_ids": {
+     "musings:sharad-joshi-tragedy-of-being-a-farmer-in-india": ["p-927f81"],
+     "musings:unchanged-quarter-century-for-farmers-sharad-joshi": ["p-08e564"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["300,000 crore", "113,000 crore"]
+   },
+   "rationale": "The 1980-2000 cumulative loss figure appears only in the Rajya Sabha speech; the 1996-97 negative AMS figure for fourteen crops appears only in the separate article on the farmers' movement."
+  },
+  {
+   "id": "il-0114",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One profile of a libertarian Indian columnist notes that he received a named international prize from a former British Prime Minister at a London ceremony — what is that prize called? A separate excerpt from one of his own political-economy handbooks cites a corporate-sponsored survey, naming the two firms behind it, that ranked Indian cities the worst in the world. Name those two firms.",
+   "expected": {
+    "docs": [
+     "thinkers:sauvik-chakraverti",
+     "musings:population-causes-prosperity"
+    ],
+    "paragraph_ids": {
+     "thinkers:sauvik-chakraverti": ["p-196e77"],
+     "musings:population-causes-prosperity": ["p-7676cc"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bastiat Prize", "Arthur Andersen-Fortune"]
+   },
+   "rationale": "The Bastiat Prize appears only in the biographical profile; the Arthur Andersen-Fortune survey appears only in the excerpt from the columnist's own handbook."
+  },
+  {
+   "id": "il-0115",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One critique of an earlier Five Year Plan's record notes that food production reached only a specific total in million tonnes, well short of its target — what was that total? A separate critique, of a following year's Union Budget, gives the government's provision for defence expenditure that year in crores of rupees — what was that figure?",
+   "expected": {
+    "docs": [
+     "musings:the-missed-opportunity",
+     "musings:the-budget-versus-the-people-2"
+    ],
+    "paragraph_ids": {
+     "musings:the-missed-opportunity": ["p-5a2dfe"],
+     "musings:the-budget-versus-the-people-2": ["p-c7728c"]
+    },
+    "pdf_urls": {},
+    "answer_must_contain": ["74 million tonnes", "879 crores"]
+   },
+   "rationale": "The food-production shortfall figure appears only in the critique of the earlier Plan period; the defence-expenditure figure appears only in the separate critique of the following year's Union Budget."
+  }
+ ]
+}

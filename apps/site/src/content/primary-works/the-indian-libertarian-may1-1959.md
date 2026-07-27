@@ -116,7 +116,7 @@ M. A. Venkata Rao examines land reforms in Pakistan, treating them as a positive
 - Treats reform as realisable rather than merely rhetorical
 
 ### John Foster Dulles:—A Tribute
-*By by M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal's tribute to John Foster Dulles, written on his resignation as U.S. Secretary of State, defends Dulles's record as an architect of containment and Cold War firmness against Communist expansion. Tholal reviews how Dulles fulfilled the pledge of resisting Soviet advances and assesses his place in the contest with the Communist powers.
 
@@ -126,7 +126,7 @@ M. N. Tholal's tribute to John Foster Dulles, written on his resignation as U.S.
 - Assesses his historical standing in the Cold War
 
 ### U. N. Must Evolve Population Policy
-*By by Sir Julian Huxley*
+*By Sir Julian Huxley*
 
 Sir Julian Huxley argues that the world is passing through a population crisis and that the U.N. must evolve a deliberate population policy. Linking human ecology to earth resources, he warns that unchecked numbers will outstrip food and resources, and calls for regimentation of population growth through reasoned international action rather than drift.
 

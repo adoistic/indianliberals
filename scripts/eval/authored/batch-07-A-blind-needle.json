@@ -1,0 +1,76 @@
+{
+ "batch": 7,
+ "cell": { "tier": "A", "retrieval": "blind", "shape": "needle" },
+ "questions": [
+  {
+   "id": "il-0101",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A raja and his wife founded a Mahila Mandal in a small Maharashtra town to advance Dalit women's right to education and employment. In which town was it based, and what was the royal family's surname?",
+   "expected": {
+    "docs": ["opinions:babytai-kamble-resolute-feminism"],
+    "paragraph_ids": { "opinions:babytai-kamble-resolute-feminism": ["p-8564ff"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Phaltan", "Nimbalkar"]
+   },
+   "rationale": "The paragraph is the only place in the corpus naming Phaltan and the Nimbalkar family as founders of this Mahila Mandal."
+  },
+  {
+   "id": "il-0102",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "One assessment of India's push toward AI-enabled digital transformation gives a five-year growth figure for the country's AI sector, plus how much private investment in it rose between 2016 and 2017. What was the five-year growth figure, and what were the 2016 and 2017 investment amounts?",
+   "expected": {
+    "docs": ["opinions:fourth-industrial-revolution-what-it-means-for-india"],
+    "paragraph_ids": { "opinions:fourth-industrial-revolution-what-it-means-for-india": ["p-713046"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["$150 million", "$44 million", "$73 million"]
+   },
+   "rationale": "These three dollar figures appear together only in this paragraph's account of India's AI investment growth."
+  },
+  {
+   "id": "il-0103",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "A woman married at age nine in 1877 had been born a few years earlier under a different name. Her husband, a social reformer, was later imprisoned for seven months for defaming a British-appointed regent. What was her birth name, and in what year was he imprisoned?",
+   "expected": {
+    "docs": ["musings:the-forgotten-legacy-of-yashodabai-agarkar"],
+    "paragraph_ids": { "musings:the-forgotten-legacy-of-yashodabai-agarkar": ["p-3a83e9"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Ambu Phadke", "1883"]
+   },
+   "rationale": "Only this paragraph gives her birth name, Ambu Phadke, alongside the 1883 imprisonment for defamation of a British-appointed regent."
+  },
+  {
+   "id": "il-0104",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "Arguing against a wholesale return to bygone Hindu social practices, a writer named a specific old custom that let a widow bear sons with her deceased husband's brother, and separately cited a ritual involving suspension from hooks as evidence of how brutal past practices had been. What was the custom called, and what was the hook ritual called?",
+   "expected": {
+    "docs": ["opinions:m-g-ranade-on-revival-and-reform"],
+    "paragraph_ids": { "opinions:m-g-ranade-on-revival-and-reform": ["p-9cad0d"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Niyoga", "hook-swinging"]
+   },
+   "rationale": "The Niyoga system and hook-swinging are named together only in this paragraph's list of discarded Hindu customs."
+  },
+  {
+   "id": "il-0105",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "needle",
+   "question": "An essay on rationalism quotes a historian of Greek thought crediting a particular ancient Greek system with turning the world's formation from a supernatural event into a natural one. Who was the historian quoted, and what was that system called?",
+   "expected": {
+    "docs": ["musings:humanism-science-and-rationalism"],
+    "paragraph_ids": { "musings:humanism-science-and-rationalism": ["p-025000"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Cornford", "Milesian"]
+   },
+   "rationale": "Cornford's name and the Milesian system appear together only in this quoted paragraph on the origins of rational naturalism."
+  }
+ ]
+}

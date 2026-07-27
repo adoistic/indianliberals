@@ -1,0 +1,150 @@
+{
+ "batch": 24,
+ "cell": {
+  "tier": "mixed",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0216",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1958 critique of Indian tax law singled out a piece of legislation rushed through Parliament with its Select Committee given less than a week to report, warning that such haste produced loose drafting and unjust provisions. A separate analysis of India's money-supply growth between 1951 and 1970 identified deficit financing as the principal domestic channel behind the currency's expansion. What was the name of the hastily passed tax act, and what money-supply figure, in crores of rupees, did the analysis record for 1970-71?",
+   "expected": {
+    "docs": ["musings:crushing-burden-of-taxation-nani-palkhivala-1958", "primary-works:inflation-in-india-l-g-bapat"],
+    "paragraph_ids": { "musings:crushing-burden-of-taxation-nani-palkhivala-1958": ["p-9dc500"] },
+    "pdf_urls": { "primary-works:inflation-in-india-l-g-bapat": "https://archive.indianliberals.in/forum-of-free-enterprise/inflation-in-india-l-g-bapat.pdf" },
+    "answer_must_contain": ["Gift Tax Act", "6,987"]
+   },
+   "rationale": "Only the tax essay's paragraph on rushed legislation names the Gift Tax Act, and only the inflation booklet's money-supply table gives the 1970-71 figure; both are needed."
+  },
+  {
+   "id": "il-0217",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One oral history recalls a scholarship student who, after finishing his degree at a university founded by a nationalist educationist, won a further scholarship to study economics in London, where one of his teachers was an Austrian-school economist; he went on to publish one of the first papers by an Indian economist in a refereed international journal. A separate report on a political party's convention held in Bangalore on 1-2 February describes its general secretary's candid admission about the section of Big Business the party depended on for funds. Name the London institution where the student studied economics, and quote the phrase the general secretary used to describe that section of Big Business.",
+   "expected": {
+    "docs": ["primary-works:br-shenoys-early-life-and-association-with-independence-movement", "primary-works:ff142"],
+    "paragraph_ids": { "primary-works:br-shenoys-early-life-and-association-with-independence-movement": ["p-0d3c77"] },
+    "pdf_urls": { "primary-works:ff142": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1964.pdf" },
+    "answer_must_contain": ["London School of Economics", "supine and cowardly"]
+   },
+   "rationale": "Only the oral history names the London School of Economics as the student's institution, and only this Freedom First issue's convention report quotes 'supine and cowardly' for the party's donor base; both are needed."
+  },
+  {
+   "id": "il-0218",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One memorial lecture, comparing India's investment in higher education to that of other nations, cited how many researchers per million people India had, against far higher figures in America and Scandinavia. A separate analysis of a specific inflationary crisis reported how much deficit financing the government had run up in just the first three months of a fiscal year, against a far smaller sum budgeted for the entire year. What was India's researchers-per-million figure, and what was the three-month deficit-financing figure, in crores of rupees?",
+   "expected": {
+    "docs": ["musings:the-emerging-scenario-in-education-2", "primary-works:deficit-financing-inflation-and-price-control-k-j-ayaraman-november-14-1973"],
+    "paragraph_ids": { "musings:the-emerging-scenario-in-education-2": ["p-d34b4c"] },
+    "pdf_urls": { "primary-works:deficit-financing-inflation-and-price-control-k-j-ayaraman-november-14-1973": "https://archive.indianliberals.in/forum-of-free-enterprise/deficit-financing-inflation-and-price-control-k-j-ayaraman-november-14-1973.pdf" },
+    "answer_must_contain": ["156", "380 crores"]
+   },
+   "rationale": "Only the education lecture gives India's 156-per-million research figure, and only the inflation-crisis analysis gives the Rs. 380 crore three-month deficit-financing figure; both are needed."
+  },
+  {
+   "id": "il-0219",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One profile describes a 1917 delegation that met with a British official during constitutional-reform negotiations, a delegation whose members later helped secure women's right to vote in a particular Indian city in 1921. A separate 1957 periodical issue carries a report scrutinising a national leader's foreign-policy address delivered at a conference in a northern Indian town. In which city were women first granted the right to vote, per the profile, and in which town was the address examined by the periodical delivered?",
+   "expected": {
+    "docs": ["opinions:the-resolute-abala-bose", "primary-works:the-indian-libertarian-oct1-1957"],
+    "paragraph_ids": { "opinions:the-resolute-abala-bose": ["p-6b9b8f"] },
+    "pdf_urls": { "primary-works:the-indian-libertarian-oct1-1957": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct1-1957.pdf" },
+    "answer_must_contain": ["Madras", "Jammu"]
+   },
+   "rationale": "Only the profile's delegation paragraph names Madras as the city of the 1921 vote, and only this periodical issue's report names Jammu as the site of the scrutinised address; both are needed."
+  },
+  {
+   "id": "il-0220",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One interviewee recalled that a leading Indian industrialist was ridiculed for founding an institute of higher learning in a decade when detractors said he could not even feed his own people. A separate periodical's 1958 special issue about a re-arrested regional leader recalls that the Prime Minister had, in 1947, installed him straight out of the previous ruler's prison and onto what the piece calls 'the throne of' a particular office. In what decade, as phrased by the interviewee, was the institute founded, and what office's throne did the piece say the leader was installed onto?",
+   "expected": {
+    "docs": ["primary-works:minoo-shroff-on-nehru-welfare-and-indias-promise", "primary-works:the-indian-libertarian-feb1-1958"],
+    "paragraph_ids": { "primary-works:minoo-shroff-on-nehru-welfare-and-indias-promise": ["p-181ece"] },
+    "pdf_urls": { "primary-works:the-indian-libertarian-feb1-1958": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-feb1-1958.pdf" },
+    "answer_must_contain": ["eighteen nineties", "Premiership"]
+   },
+   "rationale": "Only the interview phrases the founding decade as 'eighteen nineties', and only this special issue's account uses 'the throne of Premiership' for the 1947 installation; both are needed."
+  },
+  {
+   "id": "il-0221",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One economist recalled telling a newspaper, in a widely reprinted eight-column interview, that the 'shortest route' between two Indian cities ran through a particular foreign capital -- his way of explaining why he took his reform arguments abroad rather than only to the domestic government. A separate periodical from the same era, reporting on a purge that followed a foreign leader's short-lived call for open criticism, named the official whose report put the number of people investigated at 17.7 lakh. Name the foreign capital in the economist's phrase, and name the official whose report gave that figure.",
+   "expected": {
+    "docs": ["primary-works:d-r-pendse-on-the-1991-crisis", "primary-works:ff070"],
+    "paragraph_ids": { "primary-works:d-r-pendse-on-the-1991-crisis": ["p-990742"] },
+    "pdf_urls": { "primary-works:ff070": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1958.pdf" },
+    "answer_must_contain": ["Washington", "Lo Jui-ching"]
+   },
+   "rationale": "Only the economist's recollection names Washington in the 'shortest route' quote, and only this Freedom First issue's Notes section names Lo Jui-ching's report; both are needed."
+  },
+  {
+   "id": "il-0222",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One 2023 piece about a series of talks on classical liberal ideas notes that the archive hosting them had, by that year, translated texts from four regional languages and reached nearly a certain number of digitized pages. A separate 1957 periodical issue reports that a Communist leader's security forces had liquidated a specific number of people between 1949 and 1954, by the leader's own admission. Name the four regional languages the archive's translated texts come from, and give the number of people the leader admitted his security forces had liquidated.",
+   "expected": {
+    "docs": ["opinions:indian-liberals-annual-lecture-2023", "primary-works:ff062"],
+    "paragraph_ids": { "opinions:indian-liberals-annual-lecture-2023": ["p-96099b"] },
+    "pdf_urls": { "primary-works:ff062": "https://archive.indianliberals.in/freedom-first/freedom-first-jul1-1957.pdf" },
+    "answer_must_contain": ["Gujarati", "800,000"]
+   },
+   "rationale": "Only this piece's paragraph lists Hindi, Marathi, Gujarati and Bengali as the archive's translated languages, and only this Freedom First issue's Mao piece cites the 800,000 liquidation admission; both are needed."
+  },
+  {
+   "id": "il-0223",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One essay comparing the fortunes of a political-economic movement in the West against its fortunes in India closes by noting that a Pune-based social-research organisation convened two seminars, with the assistance of a national social-science research body. A separate 1991 periodical issue carries a tribute written on the occasion of a veteran industrialist's retirement as chairman of a major trust group. Name the Pune-based organisation that convened the seminars, and name the group whose chairmanship the tribute's subject was retiring from.",
+   "expected": {
+    "docs": ["musings:democratic-socialism-in-india", "primary-works:ff409"],
+    "paragraph_ids": { "musings:democratic-socialism-in-india": ["p-1078b6"] },
+    "pdf_urls": { "primary-works:ff409": "https://archive.indianliberals.in/freedom-first/freedom-first-apr1-1991.pdf" },
+    "answer_must_contain": ["Samaj Prabodhan Sanstha", "Tata Sons"]
+   },
+   "rationale": "Only the essay's closing paragraph names the Samaj Prabodhan Sanstha as convener of the Pune seminars, and only this Freedom First issue's tribute names Tata Sons as the chairmanship being vacated; both are needed."
+  },
+  {
+   "id": "il-0224",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One tribute recalls that meeting its subject on a specific date in the mid-1990s reshaped how the narrator judged political leaders ever after. A separate pamphlet reviewing a mid-1960s Union Budget as a verdict on a five-year economic plan reports that industrial growth had slumped from one percentage to another over the plan period. Give the exact date, including the year, that the tribute's narrator met its subject, and give the lower of the two industrial-growth percentages cited in the budget review.",
+   "expected": {
+    "docs": ["opinions:why-remember-sharad-joshi", "primary-works:the-economic-implications-of-the-union-budget-for-1966-67-professor-russi-jal-taraporevala-april-20-1966"],
+    "paragraph_ids": { "opinions:why-remember-sharad-joshi": ["p-8a4cb8"] },
+    "pdf_urls": { "primary-works:the-economic-implications-of-the-union-budget-for-1966-67-professor-russi-jal-taraporevala-april-20-1966": "https://archive.indianliberals.in/forum-of-free-enterprise/the-economic-implications-of-the-union-budget-for-1966-67-professor-russi-jal-taraporevala-april-20-1966.pdf" },
+    "answer_must_contain": ["25 December 1994", "7.5 per cent"]
+   },
+   "rationale": "Only the tribute's paragraph gives the 25 December 1994 meeting date, and only the budget pamphlet gives the 11 to 7.5 per cent industrial-growth slump; both are needed."
+  },
+  {
+   "id": "il-0225",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One economist recalled that a British think tank devoted to classical liberalism was among the few such venues in England at the time, and that meeting two prominent free-market economists there proved a turning point in his own thinking. He recalled being told by one of those economists, an Austrian-school theorist who had just finished a major work on political philosophy, that his monetarist colleague was 'on the same side politically' but was, in the theorist's own phrase, a certain kind of economist who did not believe in econometrics. A separate 2018 essay describes a national health scheme, discussed in a Union Budget review, that promised medical cover up to a specific rupee amount per family. Complete the theorist's two-word description of his colleague, and give the per-family rupee cover amount for the health scheme.",
+   "expected": {
+    "docs": ["primary-works:deepak-lal-on-f-a-hayek-and-milton-friedman", "primary-works:the-union-budget-2018-19-h-p-ranina-sunil-s-bhandare"],
+    "paragraph_ids": { "primary-works:deepak-lal-on-f-a-hayek-and-milton-friedman": ["p-d6cdd3"] },
+    "pdf_urls": { "primary-works:the-union-budget-2018-19-h-p-ranina-sunil-s-bhandare": "https://archive.indianliberals.in/forum-of-free-enterprise/the-union-budget-2018-19-h-p-ranina-sunil-s-bhandare.pdf" },
+    "answer_must_contain": ["fine tuner", "Rs. 5 lakh"]
+   },
+   "rationale": "Only this interview's paragraph quotes the theorist calling his colleague a 'fine tuner', and only the budget essay gives the Rs. 5 lakh per-family health-scheme cover; both are needed."
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "batch": 25,
+ "cell": { "tier": "mixed", "retrieval": "blind", "shape": "multi" },
+ "questions": [
+  {
+   "id": "il-0226",
+   "skip": true,
+   "reason": "No thematic or factual thread links the suffragist-lawyer's biography to the Cold War/agrarian-policy journal issue; any pairing would be two unrelated facts stapled together rather than a genuine two-source question."
+  },
+  {
+   "id": "il-0227",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1952 essay written amid Cold War anxieties responds to a scientist's warning that unlimited population growth threatens the world's food supply, and notes that an international population-planning conference due to meet in Bombay will include a well-known American birth-control pioneer. A later booklet diagnosing the causes of India's rising prices quantifies the country's annual population growth rate as a driver of a nationwide shortage in one staple crop category. Name the birth-control pioneer mentioned as attending the Bombay conference, and state the annual population growth percentage the booklet blames for outpacing food supply.",
+   "expected": {
+    "docs": ["musings:the-universality-of-human-values", "primary-works:the-problem-of-rising-prices-causes-a-s-bhaskar-aug9-1964"],
+    "paragraph_ids": { "musings:the-universality-of-human-values": ["p-6e500f"] },
+    "pdf_urls": { "primary-works:the-problem-of-rising-prices-causes-a-s-bhaskar-aug9-1964": "https://archive.indianliberals.in/forum-of-free-enterprise/the-problem-of-rising-prices-causes-a-s-bhaskar-aug9-1964.pdf" },
+    "answer_must_contain": ["Sanger", "2.3 per cent"]
+   },
+   "rationale": "The 1952 essay names Margaret Sanger as a coming Bombay conference participant, and the 1964 pamphlet gives 2.3 per cent as the population growth rate behind the price crisis; both figures are unique to their respective sources."
+  },
+  {
+   "id": "il-0228",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 2020 talk about how Hindi cinema moved away from valorising collective self-sacrifice cites a 1950s–60s film in which the mother-heroine kills her own son to preserve her village's honour, contrasting this with the individualism of later decades' films. A Marathi farmers' movement's fortnightly periodical, in an issue from the very end of 1995, prints a leader's speech delivered soon after an electoral defeat, insisting the movement's real aim was never political power. Name the film with the self-sacrificing mother, and give the specific date and place where the leader delivered that speech.",
+   "expected": {
+    "docs": ["primary-works:bollywoods-transition-from-socialism-to-liberal-ideas", "primary-works:shetkari-sanghatak-dec-28-1995"],
+    "paragraph_ids": { "primary-works:bollywoods-transition-from-socialism-to-liberal-ideas": ["p-80d610"] },
+    "pdf_urls": { "primary-works:shetkari-sanghatak-dec-28-1995": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-dec-28-1995.pdf" },
+    "answer_must_contain": ["Mother India", "Narkhed", "12 December 1995"]
+   },
+   "rationale": "The talk names Mother India as the self-sacrifice example, and the periodical's summary gives the exact date and place (Narkhed, 12 December 1995) of the speech, unique to each source."
+  },
+  {
+   "id": "il-0229",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A musing quotes a Southeast Asian nation's first prime minister recalling how, as independence approached, he personally persuaded a communist insurgent commander to end his armed struggle, later concluding from that conversation that communism would tolerate no rival ideology. A separate booklet compiling three student essays on land policy argues that a communist power's collectivisation of agriculture succeeded only through coercion tied to industrial labour demands, drawing a parallel with a Balkan country's abandonment of collective farming once output fell. Name the insurgent commander the prime minister says he persuaded to end the armed struggle, and name the Balkan country whose retreat from collective farming is cited as a parallel.",
+   "expected": {
+    "docs": ["musings:war-between-opposing-ideologies", "primary-works:cooperative-farming-sree-rama-murthy-jul5-1960"],
+    "paragraph_ids": { "musings:war-between-opposing-ideologies": ["p-c91034"] },
+    "pdf_urls": { "primary-works:cooperative-farming-sree-rama-murthy-jul5-1960": "https://archive.indianliberals.in/forum-of-free-enterprise/cooperative-farming-sree-rama-murthy-jul5-1960.pdf" },
+    "answer_must_contain": ["Chin Peng", "Yugoslavia"]
+   },
+   "rationale": "The musing names Chin Peng as the communist leader persuaded to stand down, and the essay booklet names Yugoslavia's retreat from collective farming as the parallel case; each fact is unique to its source."
+  },
+  {
+   "id": "il-0230",
+   "skip": true,
+   "reason": "Tier A source (R. K. Amin) is only an auto-created stub with no substantive content ('Editorial review pending') — there is nothing citable there to build a genuine question from."
+  },
+  {
+   "id": "il-0231",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One organisation founded in Mumbai in 1956 to make the case for private enterprise to the Indian public has, according to its profile, produced one of the largest single bodies of primary works in the Indian classical-liberal tradition; its General Secretary held that post for two decades. A 1963 pamphlet the organisation published diagnoses a new form of corruption that, in a proverb attributed to one nationality, 'rots from head downwards.' Name the person who held the General Secretary post for two decades, and give the nationality of the proverb used to describe this new corruption.",
+   "expected": {
+    "docs": ["organisations:forum-of-free-enterprise", "primary-works:economy-and-efficiency-in-public-administration-in-india-c-s-venkatachar-may-8-1963"],
+    "paragraph_ids": { "organisations:forum-of-free-enterprise": ["p-7fbcfc"] },
+    "pdf_urls": { "primary-works:economy-and-efficiency-in-public-administration-in-india-c-s-venkatachar-may-8-1963": "https://archive.indianliberals.in/forum-of-free-enterprise/economy-and-efficiency-in-public-administration-in-india-c-s-venkatachar-may-8-1963.pdf" },
+    "answer_must_contain": ["M. R. Pai", "Turkish"]
+   },
+   "rationale": "The organisation's profile names M. R. Pai as General Secretary 1956–76, and the pamphlet it published uses a Turkish proverb for the new corruption; the pamphlet is itself a work of the profiled organisation."
+  },
+  {
+   "id": "il-0232",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A 1971 lecture excerpt defending a fundamental right — before it would later be downgraded from Fundamental Right status — quotes a Renaissance political theorist's observation about what men would sooner forgive than the loss of their property. A 1995 election manifesto for a fledgling farmers' party, printed in a farmers' movement periodical ahead of that year's state assembly election, lists the restoration of this same right to farmers as a core plank of its reform programme. Name the Renaissance theorist quoted in the 1971 lecture, and name the party whose manifesto calls for restoring this right to farmers.",
+   "expected": {
+    "docs": ["musings:constitution-and-the-common-man", "primary-works:shetkari-sanghatak-jan-21-1995"],
+    "paragraph_ids": { "musings:constitution-and-the-common-man": ["p-d8468f"] },
+    "pdf_urls": { "primary-works:shetkari-sanghatak-jan-21-1995": "https://archive.indianliberals.in/shetkari-sanghatak/shetkari-sanghatak-jan-21-1995.pdf" },
+    "answer_must_contain": ["Machiavelli", "Swatantra Bharat Paksha"]
+   },
+   "rationale": "The 1971 lecture quotes Machiavelli on property confiscation, and the 1995 periodical's manifesto for Swatantra Bharat Paksha lists property-rights restoration for farmers as a plank; both facts are unique to their sources."
+  },
+  {
+   "id": "il-0233",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "An essay reflecting on Indian liberalism's fortunes describes a newer liberal party's 1994 debut in Maharashtra's state Assembly elections, where it polled over a million votes but won only two seats. A separate 1969 memorial lecture illustrates genuine economic statesmanship by contrasting a British Prime Minister who 'promised everything and gave nothing' with his wartime successor who promised only blood, toil, tears and sweat. Name the newer liberal party described in the essay, and name the earlier British Prime Minister described as having 'promised everything and gave nothing.'",
+   "expected": {
+    "docs": ["theprint-mirror:indian-liberalism-vedanta-nehruvian-socialism", "primary-works:the-need-for-economic-statesmanship-s-l-kirloskar-december-10-1969"],
+    "paragraph_ids": { "theprint-mirror:indian-liberalism-vedanta-nehruvian-socialism": ["p-66277b"] },
+    "pdf_urls": { "primary-works:the-need-for-economic-statesmanship-s-l-kirloskar-december-10-1969": "https://archive.indianliberals.in/forum-of-free-enterprise/the-need-for-economic-statesmanship-s-l-kirloskar-december-10-1969.pdf" },
+    "answer_must_contain": ["Swatantra Bharat", "Neville Chamberlain"]
+   },
+   "rationale": "The essay names Swatantra Bharat as the 1994 party that won two seats, and the memorial lecture names Neville Chamberlain as the leader who 'promised everything and gave nothing'; both facts are unique to their sources."
+  },
+  {
+   "id": "il-0234",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A retrospective interview recalls a think tank founder's memory of an early talk to a newspaper's editorial team, where a senior staffer's first question was about which intelligence agency was funding him — a suspicion the founder says was popularised by a national leader's rhetoric about a 'foreign hand.' A separate 1970 booklet, the text of a lecture delivered by a sitting Member of Parliament shortly after his two-year term chairing a specific parliamentary financial committee, opens by invoking the old maxim 'no taxation without representation.' Name the intelligence agency the staffer asked about, and name the parliamentary committee the speaker had chaired.",
+   "expected": {
+    "docs": ["primary-works:centre-for-civil-society-a-journey-in-time", "primary-works:public-accountability-m-r-masani-m-p-february-10-1970"],
+    "paragraph_ids": { "primary-works:centre-for-civil-society-a-journey-in-time": ["p-fa3d2c"] },
+    "pdf_urls": { "primary-works:public-accountability-m-r-masani-m-p-february-10-1970": "https://archive.indianliberals.in/forum-of-free-enterprise/public-accountability-m-r-masani-m-p-february-10-1970.pdf" },
+    "answer_must_contain": ["CIA", "Public Accounts Committee"]
+   },
+   "rationale": "The interview recounts the 'how much is CIA paying you?' question, and the booklet's summary states the speaker's two-year chairmanship of the Public Accounts Committee; both facts are unique to their sources."
+  },
+  {
+   "id": "il-0235",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "A ThePrint-mirrored essay on the constitutional imposition of Hindi as India's official language recounts a near-tied Constituent Assembly vote, quoting the Drafting Committee chairman's own book for the exact tally. A 1973 magazine's lead editorial, warning that the government was drifting toward a particular ideological character, sets out an alternative reform programme in response. Name the book quoted for the Constituent Assembly's tally on the Hindi question, and give the ideological label — quoted in the original — that the editorial uses for the government's drift.",
+   "expected": {
+    "docs": ["theprint-mirror:hindi-imposition-constitution", "primary-works:ff252"],
+    "paragraph_ids": { "theprint-mirror:hindi-imposition-constitution": ["p-5f340b"] },
+    "pdf_urls": { "primary-works:ff252": "https://archive.indianliberals.in/freedom-first/freedom-first-may1-1973.pdf" },
+    "answer_must_contain": ["Thoughts On Linguistic States", "monopolist and Marxist"]
+   },
+   "rationale": "The essay quotes Ambedkar's book Thoughts On Linguistic States for the 77–78 tally, and the 1973 issue's editorial warns of a 'monopolist and Marxist' drift; both phrases are unique to their sources."
+  }
+ ]
+}

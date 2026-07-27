@@ -1,0 +1,137 @@
+{
+ "batch": 10,
+ "cell": { "tier": "A", "retrieval": "blind", "shape": "single" },
+ "questions": [
+  {
+   "id": "il-0051",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay diagnosing caste as India's foremost obstacle to progress quotes a psychologist's remark that caste was 'one of the hard points of Hindu culture,' borrowing the line from a scholarly book on caste and race in India. Name the psychologist quoted, and the scholar whose book supplied the quotation.",
+   "expected": {
+    "docs": ["musings:caste-system-curse"],
+    "paragraph_ids": { "musings:caste-system-curse": ["p-e80ef9"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Fredrick Bartlett", "Ghurye"]
+   },
+   "rationale": "Only this paragraph names Fredrick Bartlett's phrase and attributes it to Prof Ghurye's book, without naming the essay's own author or title."
+  },
+  {
+   "id": "il-0052",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In a piece recounting a war film's darkly comic moments, one soldier proposes a mock-sporting way to end all future wars: fence off a field, sell tickets, then have the kings, cabinets, and generals fight it out in their underpants with a specific weapon, best country wins. Which soldier proposes this idea?",
+   "expected": {
+    "docs": ["musings:all-quiet-on-the-western-front-1930"],
+    "paragraph_ids": { "musings:all-quiet-on-the-western-front-1930": ["p-be7bb6"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Katczinsky"]
+   },
+   "rationale": "The 'rope off a field and fight with clubs' proposal is spoken by Katczinsky alone in this paragraph; the question never names the film."
+  },
+  {
+   "id": "il-0053",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay on privacy in the digital age quotes a U.S. senator's warning to Mark Zuckerberg at a congressional hearing: \"If you and other social media companies do not get your act in order, none of us are going to have any privacy anymore.\" Which senator, and from which state, delivered this warning?",
+   "expected": {
+    "docs": ["opinions:encoding-privacy-in-a-digital-world"],
+    "paragraph_ids": { "opinions:encoding-privacy-in-a-digital-world": ["p-a42c99"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Bill Nelson", "Florida"]
+   },
+   "rationale": "The paragraph is the only place naming 'Senator Bill Nelson of Florida' alongside this exact quotation; the essay itself is bylined only to an editorial team."
+  },
+  {
+   "id": "il-0054",
+   "skip": true,
+   "reason": "Source is a heavily garbled Hindi speech-to-text transcript (repeated nonsense runs, truncated/corrupted words). The one legible fact (land transferred via a scheme referenced only in Devanagari) would force an English-speaking agent to reproduce untranslated Devanagari text verbatim in answer_must_contain, which is not a sound comprehension check and risks false negatives unrelated to whether the agent actually read the source."
+  },
+  {
+   "id": "il-0055",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "Two speeches analysing India's worsening economic condition were delivered at a meeting of Pune's trading community on 8 December 1872, later collected into a booklet on trade. At what venue in Pune was this meeting held?",
+   "expected": {
+    "docs": ["opinions:m-g-ranade-on-wealth-creation"],
+    "paragraph_ids": { "opinions:m-g-ranade-on-wealth-creation": ["p-c7a0ff"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Phadtare Wada"]
+   },
+   "rationale": "Only this paragraph names Phadtare Wada as the meeting venue on that date; the question avoids naming the speaker being profiled."
+  },
+  {
+   "id": "il-0056",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An archived essay skeptical of vegetarianism's health claims mentions a field of study that Russian scientists reportedly developed to treat decayed gums and other diseases of the mouth and stomach. What was this field of study called?",
+   "expected": {
+    "docs": ["theprint-mirror:hitlerite-vegetarianism-india-food-science-sentiment"],
+    "paragraph_ids": { "theprint-mirror:hitlerite-vegetarianism-india-food-science-sentiment": ["p-f5ee37"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Onionology"]
+   },
+   "rationale": "The coined term 'Onionology' occurs nowhere else in the corpus and is unambiguous once found."
+  },
+  {
+   "id": "il-0057",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In an archived essay on an 1892 Telugu play about a forced remarriage and a dowry-style bride-price, its manipulative would-be social reformer is compared to a lovable rogue from a Charles Dickens novel. Name that Dickens character.",
+   "expected": {
+    "docs": ["musings:gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam"],
+    "paragraph_ids": { "musings:gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam": ["p-822176"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Jingle"]
+   },
+   "rationale": "Only this paragraph draws the comparison between the character Girisam and 'Mr. Jingle of The Pickwick Papers'; the playwright's name and the play's title are never used in the question."
+  },
+  {
+   "id": "il-0058",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An archived profile of a 19th-century Indian trailblazer describes how a letter published in an American missionary review caught the eye of a Philadelphia missionary, who was then persuaded to fully support her ambition to study medicine abroad. Name this missionary.",
+   "expected": {
+    "docs": ["opinions:anandibai-joshee"],
+    "paragraph_ids": { "opinions:anandibai-joshee": ["p-1c5429"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Carpenter"]
+   },
+   "rationale": "The paragraph names B.F Carpenter as the missionary persuaded to support her; the question omits her name and the article's title."
+  },
+  {
+   "id": "il-0059",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In a recorded conversation about India's industrial licensing system, the speakers recall being publicly accused by a political party of secretly working for a foreign intelligence agency. Which party made the accusation, and which agency did they name?",
+   "expected": {
+    "docs": ["primary-works:jagdish-bhagwati-discussing-his-book-india-planning-for-industrialization"],
+    "paragraph_ids": { "primary-works:jagdish-bhagwati-discussing-his-book-india-planning-for-industrialization": ["p-e6e3f1"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["Communist Party of India", "CIA"]
+   },
+   "rationale": "This is the only paragraph where the Communist Party of India's 'CIA agents' accusation appears; the question avoids the speaker's name and the book title."
+  },
+  {
+   "id": "il-0060",
+   "tier": "A",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An essay examining shifts inside socialist economies quotes a British thinker's observation that socialism was like a hat which had lost its shape because too many people had worn it. Who made this observation?",
+   "expected": {
+    "docs": ["theprint-mirror:ad-shroff-socialism-free-enterprise-lessons"],
+    "paragraph_ids": { "theprint-mirror:ad-shroff-socialism-free-enterprise-lessons": ["p-9e6b1e"] },
+    "pdf_urls": {},
+    "answer_must_contain": ["C. E. M. Joad"]
+   },
+   "rationale": "Only this paragraph attributes the 'hat which had lost its shape' line to C. E. M. Joad; the question avoids naming the essay's own byline."
+  }
+ ]
+}

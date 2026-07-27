@@ -37,6 +37,13 @@ These content kinds are migrated to clean markdown with paragraph-stable IDs.
 Agents may quote freely with paragraph-level citations using the
 \`#p-xxxxxx\` anchor format.
 
+**Check \`citable\` before promising a paragraph citation.** Tier A says what you
+may do with a document; \`citable\` in \`/api/search-index.json\` says whether the
+document gives you anything to do it with. Several hundred thinker and
+organisation entries are structured metadata only: the page renders as a JSON
+block with no prose, so it carries no \`#p-xxxxxx\` anchor and never did. For
+those, cite the page URL without an anchor, and do not present a quotation.
+
 - **thinker profiles** — ${thinkers.length} entries. \`/thinkers/\` is the
   curated canon (\`featured: true\` entries only); the complete index incl.
   referenced figures lives at \`/thinkers/directory/\`. Every profile remains

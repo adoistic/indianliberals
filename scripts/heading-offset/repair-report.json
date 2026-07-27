@@ -1,0 +1,8082 @@
+[
+ {
+  "id": "ff013",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   null,
+   8
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "The Scientist's Responsibility",
+     "byline": "Philip Spratt"
+    },
+    "to": {
+     "heading": "Notes (Congress Bans \"Peace\" Front; Trojan Camel; Symphonie Pathetique; Preservation of Wild Life; Theft of Names; History's Revenge)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Notes (Congress Bans \"Peace\" Front; Trojan Camel; Symphonie Pathetique; Preservation of Wild Life; Theft of Names; History's Revenge)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Godspeed",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Godspeed",
+     "byline": null
+    },
+    "to": {
+     "heading": "Release The Prisoners",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Release The Prisoners",
+     "byline": null
+    },
+    "to": {
+     "heading": "Adlai Stevenson Meets I.C.C.F.",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Adlai Stevenson Meets I.C.C.F.",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Role Of Social Reform",
+     "byline": "Prabhakar Padhye"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "The Role Of Social Reform",
+     "byline": "Prabhakar Padhye"
+    },
+    "to": {
+     "heading": "C.C.F. News (Bon Voyage to Playwright; A New Trans-Atlantic Alliance; They Shall Have Music; Berlin Confreres Contact Refugees; Cuadernos Begins Publication)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "C.C.F. News (Bon Voyage to Playwright; A New Trans-Atlantic Alliance; They Shall Have Music; Berlin Confreres Contact Refugees; Cuadernos Begins Publication)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Report on the American Communist",
+     "byline": "M. V. Pradhan"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff016",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Notes (Autonomy For Radio; Commercial Broadcasts?; Iran Saved; The Right to Travel; Citizens' Meetings; Polio in Bucharest; British Defeatism)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Another Landmark",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Science And Freedom",
+     "byline": "Francois Bondy"
+    },
+    "to": {
+     "heading": "Notes (Autonomy For Radio; Commercial Broadcasts?; Iran Saved; The Right to Travel; Citizens' Meetings; Polio in Bucharest; British Defeatism)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Universality Of Human Values",
+     "byline": "R. H. S. Crossman, M.P. / M. R. Masani"
+    },
+    "to": {
+     "heading": "Science And Freedom",
+     "byline": "Francois Bondy"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Review: Lucifer And The Lord (by Jean-Paul Sartre)",
+     "byline": "R.H."
+    },
+    "to": {
+     "heading": "The Universality Of Human Values",
+     "byline": "R. H. S. Crossman, M.P. / M. R. Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "A Year Of Achievement — Annual Report of ICCF: May 1952 - August 1953",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Lucifer And The Lord (by Jean-Paul Sartre)",
+     "byline": "R.H."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "A Year Of Achievement — Annual Report of ICCF: May 1952 - August 1953",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Essay 8",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff030",
+  "sections": 13,
+  "confirmed": 3,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   null,
+   null,
+   null,
+   null,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 7,
+    "from": {
+     "heading": "Letter to the Editor: \"All India Association Of Democratic Lawyers\"",
+     "byline": "Shankar Shetty"
+    },
+    "to": {
+     "heading": "s New Footprints of the Trojan Horse, a history of communism",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "s cold analytical approach fails to convey sympathy for Baudelaire",
+     "byline": "Margaret Johnson reviews Martin Turnell"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review (The Web of Subversion; New Footprints of the Trojan Horse; Baudelaire, A Study of His Poetry; Poems by Nasim Hikmet; Books In Brief)",
+     "byline": "G.D.P. / Zaffar Futehally / Benedick / R.H."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Essay 12",
+     "byline": null
+    },
+    "to": {
+     "heading": "Letter to the Editor: \"All India Association Of Democratic Lawyers\"",
+     "byline": "Shankar Shetty"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 12,
+    "from": {
+     "heading": "Essay 13",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff033",
+  "sections": 10,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Notes (Scientific Spirit; Yugoslav Experiment; Rajaji's Appeal; Freedom in East Germany; Chinese Labourers for Soviet Russia; Cultural Delegations?; Cultured Pearls)",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Problems Of Cultural Freedom In Asia",
+     "byline": "Prabhakar Padhye"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Conference On Cultural Freedom In Asia",
+     "byline": null
+    },
+    "to": {
+     "heading": "Notes (Scientific Spirit; Yugoslav Experiment; Rajaji's Appeal; Freedom in East Germany; Chinese Labourers for Soviet Russia; Cultural Delegations?; Cultured Pearls)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Historical Position Of Communist China: Doctrine And Reality",
+     "byline": "Karl A. Wittfogel"
+    },
+    "to": {
+     "heading": "Conference On Cultural Freedom In Asia",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "A Journal Of Arts And Ideas: 'Quest'",
+     "byline": "Nissim Ezekiel"
+    },
+    "to": {
+     "heading": "The Historical Position Of Communist China: Doctrine And Reality",
+     "byline": "Karl A. Wittfogel"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "C. C. F. News",
+     "byline": null
+    },
+    "to": {
+     "heading": "A Journal Of Arts And Ideas: 'Quest'",
+     "byline": "Nissim Ezekiel"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Reviews (Burma under the Japanese; Heritage of Buddha; McCarthy and the Communists; Marxism: Past and Present)",
+     "byline": "V.B.K.; Madan Lal Sharma; Faiz Noorani; Gopal Krishna"
+    },
+    "to": {
+     "heading": "C. C. F. News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Letters to the Editor (Call Of The Hour; Real Wages In Soviet Russia)",
+     "byline": "J. K. Kotewal; J. Dubashi"
+    },
+    "to": {
+     "heading": "Reviews (Burma under the Japanese; Heritage of Buddha; McCarthy and the Communists; Marxism: Past and Present)",
+     "byline": "V.B.K.; Madan Lal Sharma; Faiz Noorani; Gopal Krishna"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Letters to the Editor (Call Of The Hour; Real Wages In Soviet Russia)",
+     "byline": "J. K. Kotewal; J. Dubashi"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff042",
+  "sections": 8,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "The Milan Conference—A Report",
+     "byline": "M. R. Masani"
+    },
+    "to": {
+     "heading": "Notes (A New Asian Republic; North East Tribal Problem; Essentials of Democracy; A Commendable Lead; National Book Trust; D. R. S. Vindicated)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Indonesia; A Confused Picture",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Milan Conference—A Report",
+     "byline": "M. R. Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "History In The Making In Soviet Russia",
+     "byline": null
+    },
+    "to": {
+     "heading": "Indonesia; A Confused Picture",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Review: Blowing Up India (Philip Spratt); The Soviet Impact on Society (Dr. Dagobert D. Runes)",
+     "byline": "Aziz Madni; M.B.S."
+    },
+    "to": {
+     "heading": "History In The Making In Soviet Russia",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Blowing Up India (Philip Spratt); The Soviet Impact on Society (Dr. Dagobert D. Runes)",
+     "byline": "Aziz Madni; M.B.S."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Essay 8",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff048",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   null,
+   7
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Two Thousand Five Hundred Years",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "Notes (Ten Days That Shook Khrushchev; His Waterloo)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Notes (Ten Days That Shook Khrushchev; His Waterloo)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Notes (Mao And Stalin; South Vietnam Free At Last; So What?; Iron Curtain For India?; Illusion Shattered)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Notes (Mao And Stalin; South Vietnam Free At Last; So What?; Iron Curtain For India?; Illusion Shattered)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Copyright Bill: Author's Viewpoint",
+     "byline": "S. R. Tikekar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Copyright Bill: Author's Viewpoint",
+     "byline": "S. R. Tikekar"
+    },
+    "to": {
+     "heading": "The End Of Equality In U.S.S.R.",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The End Of Equality In U.S.S.R.",
+     "byline": null
+    },
+    "to": {
+     "heading": "Prospects Of Democracy In India",
+     "byline": "Nabakishore Das"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Prospects Of Democracy In India",
+     "byline": "Nabakishore Das"
+    },
+    "to": {
+     "heading": "Review: Why I Oppose Communism",
+     "byline": "A. A."
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff049",
+  "sections": 10,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   null,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Neogy Upsets The Apple Cart",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "Verdict On China",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "James T. Farrell",
+     "byline": null
+    },
+    "to": {
+     "heading": "Neogy Upsets The Apple Cart",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Operation Lullaby",
+     "byline": null
+    },
+    "to": {
+     "heading": "James T. Farrell",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Review: The Philippine Answer to Communism (by Alwin H. Scaff)",
+     "byline": "V.B.K."
+    },
+    "to": {
+     "heading": "Operation Lullaby",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "I.C.C.F. Seminar In Poona",
+     "byline": "(From A Correspondent)"
+    },
+    "to": {
+     "heading": "Review: The Philippine Answer to Communism (by Alwin H. Scaff)",
+     "byline": "V.B.K."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "To The Editor: Inequality In Soviet Russia",
+     "byline": "A Soldier"
+    },
+    "to": {
+     "heading": "all-out force and all-out friendship",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Social Democrats In Communist Jails: The List That Enraged Khrushchev (Supplement)",
+     "byline": null
+    },
+    "to": {
+     "heading": "I.C.C.F. Seminar In Poona",
+     "byline": "(From A Correspondent)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "To The Editor: Inequality In Soviet Russia",
+     "byline": "A Soldier"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "Social Democrats In Communist Jails: The List That Enraged Khrushchev (Supplement)",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff052",
+  "sections": 8,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   null,
+   3,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Asian Writers' Conference",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "The Elections And After In Indonesia",
+     "byline": "From a Political Correspondent"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "An Open Letter To A Fellow-Traveller",
+     "byline": "Eugene Lyons"
+    },
+    "to": {
+     "heading": "Asian Writers' Conference",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Review: Stalin versus Marx",
+     "byline": "M. A. V."
+    },
+    "to": {
+     "heading": "Innocents At Helsinki,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Essay 6",
+     "byline": null
+    },
+    "to": {
+     "heading": "An Open Letter To A Fellow-Traveller",
+     "byline": "Eugene Lyons"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff061",
+  "sections": 6,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   4,
+   5,
+   null,
+   null
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "An Interview With Dedijer",
+     "byline": "Hans Edward Teglers"
+    },
+    "to": {
+     "heading": "Essay 5",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Review: Ghana (autobiography of Dr. Kwame Nkruma)",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "Essay 6",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Essay 5",
+     "byline": null
+    },
+    "to": {
+     "heading": "s 1954 disgrace and was himself imprisoned for",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff063",
+  "sections": 9,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   8
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "U. N. Report On Hungary",
+     "byline": null
+    },
+    "to": {
+     "heading": "Notes (For The Record; Order Of Priorities)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Hungarian Revolution",
+     "byline": "Paul Ignotus"
+    },
+    "to": {
+     "heading": "U. N. Report On Hungary",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Education Or Indoctrination?",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Hungarian Revolution",
+     "byline": "Paul Ignotus"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "On The Chinese Road!",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "Education Or Indoctrination?",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Review: Freedom in Contemporary Society by Samuel Eliot Morison",
+     "byline": "Adam Adil"
+    },
+    "to": {
+     "heading": "On The Chinese Road!",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Letter To The Editor",
+     "byline": "(Rev.) T. Mascarenhas"
+    },
+    "to": {
+     "heading": "Review: Freedom in Contemporary Society by Samuel Eliot Morison",
+     "byline": "Adam Adil"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff065",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   5,
+   6,
+   7,
+   null,
+   null,
+   null,
+   null,
+   null,
+   8
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "'Kerala Communists Are Different...'",
+     "byline": "Jupiter"
+    },
+    "to": {
+     "heading": "Letters to the Editor",
+     "byline": "G. G. Natu; K. S. Singh"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Ilya Ehrenburg Rebels",
+     "byline": "James Critchlow"
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Our Vote On Hungary",
+     "byline": "V. B. Karnik"
+    },
+    "to": {
+     "heading": "Essay 8",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Letters to the Editor",
+     "byline": "G. G. Natu; K. S. Singh"
+    },
+    "to": {
+     "heading": "s official language by 1965, following the Official Language Commission",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "s view, that English is a",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Essay 8",
+     "byline": null
+    },
+    "to": {
+     "heading": "letters. G. G. Natu praises the Christian Democratic Party",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff066",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   null
+  ],
+  "detail": [
+   {
+    "index": 5,
+    "from": {
+     "heading": "Review: Battle For The Mind by William Sargant",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "West Bengal Bank Employees' Strike",
+     "byline": "(Contributed)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "West Bengal Bank Employees' Strike",
+     "byline": "(Contributed)"
+    },
+    "to": {
+     "heading": "Segregation In South Africa",
+     "byline": "R. S. Pandey"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Segregation In South Africa",
+     "byline": "R. S. Pandey"
+    },
+    "to": {
+     "heading": "With Many Voices,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "1 pairing(s) contradicted by the prose"
+ },
+ {
+  "id": "ff068",
+  "sections": 9,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "A Significant Conference",
+     "byline": "V. B. Karnik"
+    },
+    "to": {
+     "heading": "The Democratic Alternative,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "A Meeting With Djilas' Wife",
+     "byline": "Max Lerner"
+    },
+    "to": {
+     "heading": "A Significant Conference",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Notes (Spectre Of National Communism / Events In Indonesia / Frank Appraisal / Curse Of Untouchability)",
+     "byline": null
+    },
+    "to": {
+     "heading": "A Meeting With Djilas' Wife",
+     "byline": "Max Lerner"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Writer And The Commissar",
+     "byline": "Howard Fast"
+    },
+    "to": {
+     "heading": "Notes (Spectre Of National Communism / Events In Indonesia / Frank Appraisal / Curse Of Untouchability)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The Passionate Sceptic: Bertrand Russell",
+     "byline": "Adam Adil"
+    },
+    "to": {
+     "heading": "The Writer And The Commissar",
+     "byline": "Howard Fast"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "I. C. C. F. Conference: A Report",
+     "byline": "A Correspondent"
+    },
+    "to": {
+     "heading": "The Passionate Sceptic: Bertrand Russell",
+     "byline": "Adam Adil"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Review: Russia Revisited (by Louis Fischer)",
+     "byline": "B. K. Desai"
+    },
+    "to": {
+     "heading": "I. C. C. F. Conference: A Report",
+     "byline": "A Correspondent"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff075",
+  "sections": 7,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   null,
+   null,
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Who Are The Aggressors?",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "Aftermath Of Nagy Execution",
+     "byline": "B. K. Desai"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "A Kiss For Big Brother",
+     "byline": "Bela Kiraly"
+    },
+    "to": {
+     "heading": "A Grave Mistake",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "News From Poland",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "Who Are The Aggressors?",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Essay 6",
+     "byline": null
+    },
+    "to": {
+     "heading": "A Kiss For Big Brother",
+     "byline": "Bela Kiraly"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Essay 7",
+     "byline": null
+    },
+    "to": {
+     "heading": "News From Poland",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff077",
+  "sections": 7,
+  "confirmed": 4,
+  "contradicted": 1,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   2,
+   null,
+   3,
+   4,
+   5
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Impact Of Science",
+     "byline": "Michael Polanyi"
+    },
+    "to": {
+     "heading": "Khrushchev-Mao Tse-tung Meeting",
+     "byline": "Roderick Macfarquhar"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Review: Liberal Democracy (by Massimo Salvador)",
+     "byline": "Adam Adil"
+    },
+    "to": {
+     "heading": "The Impact Of Science",
+     "byline": "Michael Polanyi"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Kerala Under Communism",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Liberal Democracy (by Massimo Salvador)",
+     "byline": "Adam Adil"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Kerala Under Communism",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff079",
+  "sections": 9,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   0,
+   1,
+   2,
+   null,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 4,
+    "from": {
+     "heading": "Revolutions And Foreign Money",
+     "byline": "Philip Spratt"
+    },
+    "to": {
+     "heading": "Visitors To India",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Light On The Communist Scene",
+     "byline": "Raymond Postgate"
+    },
+    "to": {
+     "heading": "Revolutions And Foreign Money",
+     "byline": "Philip Spratt"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Indian Writers On Boris Pasternak",
+     "byline": "Statement by Tarasankar Banerjee et al.; and by Madame Sophia Wadia, M. R. Masani et al."
+    },
+    "to": {
+     "heading": "Light On The Communist Scene",
+     "byline": "Raymond Postgate"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Indian Writers On Boris Pasternak",
+     "byline": "Statement by Tarasankar Banerjee et al.; and by Madame Sophia Wadia, M. R. Masani et al."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff083",
+  "sections": 10,
+  "confirmed": 7,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   null,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 6,
+    "from": {
+     "heading": "Leon Trotsky as Diarist",
+     "byline": "Bertram D. Wolfe"
+    },
+    "to": {
+     "heading": "Solidarity With Tibet",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Review: Back to Life (Poems from Behind the Iron Curtain, ed. Robert Conquest)",
+     "byline": "John Wain"
+    },
+    "to": {
+     "heading": "Leon Trotsky as Diarist",
+     "byline": "Bertram D. Wolfe"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Back to Life (Poems from Behind the Iron Curtain, ed. Robert Conquest)",
+     "byline": "John Wain"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff084",
+  "sections": 11,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Panchsheel And Tibet",
+     "byline": "V. B. Karnik"
+    },
+    "to": {
+     "heading": "born in sin",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Notes (Chinese Campaign; Independence, Only Solution; Communists In Power)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Panchsheel And Tibet",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Crisis In The Communist Party",
+     "byline": "(From A Correspondent)"
+    },
+    "to": {
+     "heading": "Notes (Chinese Campaign; Independence, Only Solution; Communists In Power)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Green Against Red",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "Crisis In The Communist Party",
+     "byline": "(From A Correspondent)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "A Front Conference In Calcutta",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "Green Against Red",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Tibet And Indian Communists",
+     "byline": "S. R. Mohan Das"
+    },
+    "to": {
+     "heading": "A Front Conference In Calcutta",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Are There Political Prisoners In USSR?",
+     "byline": "Mironenko"
+    },
+    "to": {
+     "heading": "Tibet And Indian Communists",
+     "byline": "S. R. Mohan Das"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "The Other Algeria",
+     "byline": "Sal Tas"
+    },
+    "to": {
+     "heading": "Are There Political Prisoners In USSR?",
+     "byline": "Mironenko"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Facts About Collective Farms In USSR",
+     "byline": "S. Kabysh"
+    },
+    "to": {
+     "heading": "The Other Algeria",
+     "byline": "Sal Tas"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff085",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 8,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Why We Have A Cold War",
+     "byline": "William Henry Chamberlin"
+    },
+    "to": {
+     "heading": "Where Is The Enthusiasm?",
+     "byline": "Onlooker"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Notes (Restrictions on Dalai Lama; Nehru And Tibet; Joint Defence; Language Problem; Lolita; John Foster Dulles)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Why We Have A Cold War",
+     "byline": "William Henry Chamberlin"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Communist Rule In Tibet",
+     "byline": "open letter by Thubten Nyenjik, Abbot of Gyantse Monastery and Governor of Gyantse Province"
+    },
+    "to": {
+     "heading": "Notes (Restrictions on Dalai Lama; Nehru And Tibet; Joint Defence; Language Problem; Lolita; John Foster Dulles)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Long Live Personality!",
+     "byline": null
+    },
+    "to": {
+     "heading": "Communist Rule In Tibet",
+     "byline": "open letter by Thubten Nyenjik, Abbot of Gyantse Monastery and Governor of Gyantse Province"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Science And Freedom Committee's Protest",
+     "byline": null
+    },
+    "to": {
+     "heading": "Long Live Personality!",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "News & Views (Chinese Workers' Earnings; Students Sentenced For Treason; Flight of Physicians; Intellectuals Flee East Germany; Elections In Europe Show Decline In Communist Influence; Secret Film Performances In Prague)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Science And Freedom Committee's Protest",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "News & Views (Chinese Workers' Earnings; Students Sentenced For Treason; Flight of Physicians; Intellectuals Flee East Germany; Elections In Europe Show Decline In Communist Influence; Secret Film Performances In Prague)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff097",
+  "sections": 8,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   null,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "India, Tibet and China (advertisement for book by B. K. Desai)",
+     "byline": "B. K. Desai"
+    },
+    "to": {
+     "heading": "Maharashtra Seminar",
+     "byline": "(From A Correspondent)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Maharashtra Seminar",
+     "byline": "(From A Correspondent)"
+    },
+    "to": {
+     "heading": "Universities Behind The Iron Curtain",
+     "byline": "Gabriel Gersh"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Universities Behind The Iron Curtain",
+     "byline": "Gabriel Gersh"
+    },
+    "to": {
+     "heading": "s April 1960 publication of extracts from Alexander Tvardovsky",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff114",
+  "sections": 8,
+  "confirmed": 3,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   0,
+   1,
+   null,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "Nasser And Nkrumah",
+     "byline": "S. Sharangpani"
+    },
+    "to": {
+     "heading": "Why I Contest From North Bombay?",
+     "byline": "Acharya J. B. Kripalani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Rethinking U.N. Policy In The Congo",
+     "byline": "M. A. Venkata Rao"
+    },
+    "to": {
+     "heading": "Nasser And Nkrumah",
+     "byline": "S. Sharangpani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Without Comment",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "Rethinking U.N. Policy In The Congo",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Without Comment",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Notes (Choice of Freedom; Terrorising Tactics; Another Front Organisation)",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff127",
+  "sections": 7,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   null
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "A Democracy At War",
+     "byline": "M. R. Masani"
+    },
+    "to": {
+     "heading": "The Iron Curtain And World Peace",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "The Iron Curtain And World Peace",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "Sri Aurobindo On Chinese Design",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Sri Aurobindo On Chinese Design",
+     "byline": null
+    },
+    "to": {
+     "heading": "Will Chiang Attack Chinese Mainland?",
+     "byline": "U. S. News & World Report"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Will Chiang Attack Chinese Mainland?",
+     "byline": "U. S. News & World Report"
+    },
+    "to": {
+     "heading": "Ideological Warfare In Russia",
+     "byline": "Intelligence Digest"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Ideological Warfare In Russia",
+     "byline": "Intelligence Digest"
+    },
+    "to": {
+     "heading": "War Between Opposing Ideologies",
+     "byline": "Tunku Abdul Rehman"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "War Between Opposing Ideologies",
+     "byline": "Tunku Abdul Rehman"
+    },
+    "to": {
+     "heading": "Some Thoughts On Defence",
+     "byline": "N. C. Zamindar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Some Thoughts On Defence",
+     "byline": "N. C. Zamindar"
+    },
+    "to": {
+     "heading": "The Sino-Soviet Conflict 1956-1961",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff132",
+  "sections": 10,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Individual Liberty And The Law",
+     "byline": "S. Natarajan"
+    },
+    "to": {
+     "heading": "Security And Public Services",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Failure Of Gold Control In Russia",
+     "byline": "Roman O. Zybenko"
+    },
+    "to": {
+     "heading": "Individual Liberty And The Law",
+     "byline": "S. Natarajan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Spirit Of Lincoln",
+     "byline": "A. B. Shah"
+    },
+    "to": {
+     "heading": "Failure Of Gold Control In Russia",
+     "byline": "Roman O. Zybenko"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "A Brave New World",
+     "byline": "M. D. Kini"
+    },
+    "to": {
+     "heading": "The Spirit Of Lincoln",
+     "byline": "A. B. Shah"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Ceylon Faces Communist Challenge",
+     "byline": "Rama Swarup Sabherwal"
+    },
+    "to": {
+     "heading": "A Brave New World",
+     "byline": "M. D. Kini"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Dohad Parliamentary Bye-Election",
+     "byline": "Kamalashanker Pandya"
+    },
+    "to": {
+     "heading": "Ceylon Faces Communist Challenge",
+     "byline": "Rama Swarup Sabherwal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Review: Communist China and Asia (by A. Doak Barnett)",
+     "byline": "S. P. Aiyar"
+    },
+    "to": {
+     "heading": "Dohad Parliamentary Bye-Election",
+     "byline": "Kamalashanker Pandya"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Communist China and Asia (by A. Doak Barnett)",
+     "byline": "S. P. Aiyar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Tatar Triolet (poem)",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff138",
+  "sections": 6,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   null,
+   null,
+   0,
+   1,
+   3,
+   4
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "The Press and The Emergency",
+     "byline": "S. Natarajan"
+    },
+    "to": {
+     "heading": "code of conduct",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "\"Sacred\" Steel?",
+     "byline": "M. R. Pai"
+    },
+    "to": {
+     "heading": "The Press and The Emergency",
+     "byline": "S. Natarajan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Seventeenth Amendment",
+     "byline": "V. B. Karnik"
+    },
+    "to": {
+     "heading": "The Denning Report And India",
+     "byline": "A. G. Mulgaonkar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The Civic Strike: Another View",
+     "byline": "Madhu Limaye"
+    },
+    "to": {
+     "heading": "The Seventeenth Amendment",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Formosa Today",
+     "byline": "From a Correspondent"
+    },
+    "to": {
+     "heading": "The Civic Strike: Another View",
+     "byline": "Madhu Limaye"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff191",
+  "sections": 6,
+  "confirmed": 4,
+  "contradicted": 1,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   null,
+   2,
+   3,
+   5
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Towards Understanding Madras Politics",
+     "byline": "K. Vedamurthy / P. S. Sridhara Murthy (writing in response to M. D. Kini's earlier article), with reply by M. D. Kini"
+    },
+    "to": {
+     "heading": "s Freeman review of James Burnham",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Unrest In Poland",
+     "byline": "(Contributed)"
+    },
+    "to": {
+     "heading": "Towards Understanding Madras Politics",
+     "byline": "K. Vedamurthy / P. S. Sridhara Murthy (writing in response to M. D. Kini's earlier article), with reply by M. D. Kini"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Without Comment",
+     "byline": null
+    },
+    "to": {
+     "heading": "Unrest In Poland",
+     "byline": "(Contributed)"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "1 pairing(s) contradicted by the prose"
+ },
+ {
+  "id": "ff192",
+  "sections": 10,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   null,
+   4,
+   null,
+   5,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 5,
+    "from": {
+     "heading": "Towards Understanding Madras Politics",
+     "byline": "Mr. Vedamurthy / Mr. Sridhara Murthy / Mr. M. D. Kini"
+    },
+    "to": {
+     "heading": "Another Year Of 'Cultural Revolution'",
+     "byline": "(Contributed)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Review: Mahajan Report Uncovered (review of A. R. Antulay, Allied Publishers)",
+     "byline": "V. B. K."
+    },
+    "to": {
+     "heading": "s book critiquing the Mahajan Commission",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Leslie Sawhny Programme Of Training For Democracy",
+     "byline": null
+    },
+    "to": {
+     "heading": "Towards Understanding Madras Politics",
+     "byline": "Mr. Vedamurthy / Mr. Sridhara Murthy / Mr. M. D. Kini"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff199",
+  "sections": 9,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   0,
+   null,
+   null,
+   null,
+   null,
+   1,
+   4,
+   5,
+   6
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Reorganisation Of Assam",
+     "byline": "V. B. Karnik"
+    },
+    "to": {
+     "heading": "s hill tribes, inherited from British-era",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Terror Under Stalin",
+     "byline": "John Gross"
+    },
+    "to": {
+     "heading": "s account of the terror",
+     "byline": "John Gross reviews Robert Conquest"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Freedom Of Press, Uses And Abuses",
+     "byline": "G. A. Abba"
+    },
+    "to": {
+     "heading": "s obscenity complaint against a Blitz pin-up photograph, Karanjia",
+     "byline": "G. A. Abba defends the Bombay High Court"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Reviews: Tagore and Communism; Peaceful Coexistence and Intellectual Freedom; Brezhnev Doctrine",
+     "byline": "V. K."
+    },
+    "to": {
+     "heading": "Reorganisation Of Assam",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Democracy And Development",
+     "byline": "A. A. Deshpande"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Essay 8",
+     "byline": null
+    },
+    "to": {
+     "heading": "Reviews: Tagore and Communism; Peaceful Coexistence and Intellectual Freedom; Brezhnev Doctrine",
+     "byline": "V. K."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff206",
+  "sections": 7,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 2,
+  "pairing": [
+   null,
+   0,
+   1,
+   3,
+   4,
+   5,
+   6
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Violence In Calcutta",
+     "byline": "(A Correspondent)"
+    },
+    "to": {
+     "heading": "World Communist Congress",
+     "byline": "Adam Adil"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "The Leadership Of 1970s",
+     "byline": "M. R. Pai"
+    },
+    "to": {
+     "heading": "Violence In Calcutta",
+     "byline": "(A Correspondent)"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff207",
+  "sections": 12,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   null,
+   null,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 7,
+    "from": {
+     "heading": "Review: Strategies of Revolutionary Warfare",
+     "byline": "(Lt-Col.) M. R. Chandvadkar"
+    },
+    "to": {
+     "heading": "false information",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Strategies of Revolutionary Warfare",
+     "byline": "(Lt-Col.) M. R. Chandvadkar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "Letter to the Editor: Hindu-Muslim Problem",
+     "byline": "A. B. Shah / V. B. Karnik (reply)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Essay 12",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff209",
+  "sections": 8,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "P. M. And Party President",
+     "byline": "A. G. Mulgaonkar"
+    },
+    "to": {
+     "heading": "Pink Knights-Errant",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Bengal Report: Indira Gandhi's Visit And After",
+     "byline": "Analyst"
+    },
+    "to": {
+     "heading": "P. M. And Party President",
+     "byline": "A. G. Mulgaonkar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Moscow's Design For Asia",
+     "byline": "U.S. News & World Report"
+    },
+    "to": {
+     "heading": "Bengal Report: Indira Gandhi's Visit And After",
+     "byline": "Analyst"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff220",
+  "sections": 9,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 1,
+  "pairing": [
+   0,
+   null,
+   1,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Birth Of The Indian National Congress",
+     "byline": "A. G. Mulgaokar"
+    },
+    "to": {
+     "heading": "West Asia-Combat Of Illusions",
+     "byline": "Arvind A. Deshpande"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff235",
+  "sections": 12,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   null,
+   null,
+   null,
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11
+  ],
+  "detail": [
+   {
+    "index": 4,
+    "from": {
+     "heading": "The Meaning Of Jodhpur",
+     "byline": "A. B. Shah"
+    },
+    "to": {
+     "heading": "C.P.M. In Wilderness",
+     "byline": "R. Muthuswamy"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Rural Servitude (review of Involuntary Journey to Siberia by Andrei Amalrik)",
+     "byline": "Abraham Brumberg"
+    },
+    "to": {
+     "heading": "The End Of The U.N.?",
+     "byline": "M. R. Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Review: Mahatma Gandhi: The Man and his Mission (by U. R. Rao, ed. G. S. Pohekar, United Asia Publications)",
+     "byline": "V. B. Patankar"
+    },
+    "to": {
+     "heading": "Population Problem (extracts from an interview with Mr Robert McNamara, President of the World Bank, published in the Observer of London; interviewer Mr Frances Cairncross)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Letter to the Editor: We And America",
+     "byline": "N. J. Tavaria"
+    },
+    "to": {
+     "heading": "The Meaning Of Jodhpur",
+     "byline": "A. B. Shah"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff242",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   null,
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "The Helpless Supervisor",
+     "byline": "Vrunda Moghe"
+    },
+    "to": {
+     "heading": "Helpers Clubs",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Music and the Fifty-five Year Plan",
+     "byline": "R. K. Narayan"
+    },
+    "to": {
+     "heading": "The Helpless Supervisor",
+     "byline": "Vrunda Moghe"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "His Lordship The Judge",
+     "byline": "A. G. Noorani"
+    },
+    "to": {
+     "heading": "Slow Scientists and Fast Machines",
+     "byline": "Sharu S. Rangnekar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Philosophers and Kings",
+     "byline": "Anil Dharkar"
+    },
+    "to": {
+     "heading": "Music and the Fifty-five Year Plan",
+     "byline": "R. K. Narayan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Essay 6",
+     "byline": null
+    },
+    "to": {
+     "heading": "His Lordship The Judge",
+     "byline": "A. G. Noorani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Essay 7",
+     "byline": null
+    },
+    "to": {
+     "heading": "Philosophers and Kings",
+     "byline": "Anil Dharkar"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff250",
+  "sections": 10,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Day Labour, Light Denied",
+     "byline": "Raghunath Rakibe"
+    },
+    "to": {
+     "heading": "Andhra in Ferment",
+     "byline": "B. Ratnasabhapati"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "World Liberals Meet",
+     "byline": null
+    },
+    "to": {
+     "heading": "Day Labour, Light Denied",
+     "byline": "Raghunath Rakibe"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Come All Ye Faithful",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "World Liberals Meet",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "A Case Against the Hippies",
+     "byline": "Nissim Ezekiel"
+    },
+    "to": {
+     "heading": "Come All Ye Faithful",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Confessions of a Workaholic (review of Dr. Wayne Oates)",
+     "byline": "R. K. Laxman"
+    },
+    "to": {
+     "heading": "A Case Against the Hippies",
+     "byline": "Nissim Ezekiel"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Aretino's Dialogues (review)",
+     "byline": "A. H. Desai"
+    },
+    "to": {
+     "heading": "Confessions of a Workaholic (review of Dr. Wayne Oates)",
+     "byline": "R. K. Laxman"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Sakharam Not a Binder",
+     "byline": "J. R. Patel"
+    },
+    "to": {
+     "heading": "Aretino's Dialogues (review)",
+     "byline": "A. H. Desai"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Sakharam Not a Binder",
+     "byline": "J. R. Patel"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff261",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 5,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Prof. Dandekar's Utopia",
+     "byline": "Geeta Gopalakrishnan"
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "The Arab-Israeli Conflict: India's Policy in Retrospect and Prospect",
+     "byline": "B. P. Adarkar"
+    },
+    "to": {
+     "heading": "Prof. Dandekar's Utopia",
+     "byline": "Geeta Gopalakrishnan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Gokhale and Western Education—II",
+     "byline": "P. N. Driver"
+    },
+    "to": {
+     "heading": "The Arab-Israeli Conflict: India's Policy in Retrospect and Prospect",
+     "byline": "B. P. Adarkar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Reviews — Kumaramangalam's Thesis",
+     "byline": "Manohar Malgonkar"
+    },
+    "to": {
+     "heading": "Gokhale and Western Education—II",
+     "byline": "P. N. Driver"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Reviews — The Melting Pot",
+     "byline": "Joan Contractor"
+    },
+    "to": {
+     "heading": "Reviews — Kumaramangalam's Thesis",
+     "byline": "Manohar Malgonkar"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff262",
+  "sections": 10,
+  "confirmed": 3,
+  "contradicted": 1,
+  "changes": 5,
+  "pairing": [
+   0,
+   null,
+   null,
+   1,
+   2,
+   3,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Under Siege",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "insult to the whole world",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "On Understanding Totalitarianism",
+     "byline": "A. H. Doctor"
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Blessings of Indian Socialism",
+     "byline": "H. R. Pasricha"
+    },
+    "to": {
+     "heading": "Under Siege",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The French Connection (Film review)",
+     "byline": "Joan Contractor"
+    },
+    "to": {
+     "heading": "On Understanding Totalitarianism",
+     "byline": "A. H. Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Reviews: Life in the Wilderness (Veran Jivan by Kamalashankar Pandya)",
+     "byline": "Ramesh M. Bhatt"
+    },
+    "to": {
+     "heading": "Blessings of Indian Socialism",
+     "byline": "H. R. Pasricha"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff263",
+  "sections": 9,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 0,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [],
+  "action": "skip",
+  "reason": "alignment matches current labels"
+ },
+ {
+  "id": "ff272",
+  "sections": 10,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 9,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "University Autonomy—Indian Style",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Indian Ocean--Soviet Machinations",
+     "byline": "Peter Sager"
+    },
+    "to": {
+     "heading": "University Autonomy—Indian Style",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Guilty Silence",
+     "byline": "James Burnham"
+    },
+    "to": {
+     "heading": "Indian Ocean--Soviet Machinations",
+     "byline": "Peter Sager"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "This Side of Paradise: The Great Gatsby (film review)",
+     "byline": "Manjula Padmanabhan"
+    },
+    "to": {
+     "heading": "Guilty Silence",
+     "byline": "James Burnham"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "The Tragedy of Being Impotent (theatre review)",
+     "byline": "G.D."
+    },
+    "to": {
+     "heading": "This Side of Paradise: The Great Gatsby (film review)",
+     "byline": "Manjula Padmanabhan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Scholar Extraordinary: The Life of Professor Max Müller (book review)",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Tragedy of Being Impotent (theatre review)",
+     "byline": "G.D."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Multi-Nationals Are Not Anti-National",
+     "byline": null
+    },
+    "to": {
+     "heading": "Scholar Extraordinary: The Life of Professor Max Müller (book review)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Multi-Nationals Are Not Anti-National",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff273",
+  "sections": 10,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   null,
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Congress Declares War on Farmers",
+     "byline": "J. G. Tiwari"
+    },
+    "to": {
+     "heading": "s secret Narora conclave marks an escalation of a two-year-old campaign against India",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Open Letter to Mrs. Gandhi",
+     "byline": "S. N. Misra"
+    },
+    "to": {
+     "heading": "Congress Declares War on Farmers",
+     "byline": "J. G. Tiwari"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Here Comes the Judge",
+     "byline": "Manjula Padmanabhan"
+    },
+    "to": {
+     "heading": "Open Letter to Mrs. Gandhi",
+     "byline": "S. N. Misra"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff279",
+  "sections": 13,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Greek Philosophers Confirmed",
+     "byline": "James Burnham"
+    },
+    "to": {
+     "heading": "Repentant Panther",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "A Face-Lift Operation",
+     "byline": "J. B. H. Wadia"
+    },
+    "to": {
+     "heading": "s standing among allies. It is followed by",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "\"Secular Democratic Palestine\"",
+     "byline": "Nitin G. Raut"
+    },
+    "to": {
+     "heading": "s Addis Ababa conference (12 Jan 1976) splitting over recognition of the Luanda MPLA",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Review: Kipling: The Glass, The Shadow and the Fire by Philip Mason",
+     "byline": "Mehra Masani"
+    },
+    "to": {
+     "heading": "Preserving Our Democratic Structure",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Review: Plain Speaking. An Oral Biography of Harry S. Truman by Merle Miller",
+     "byline": "Rusi J. Daruwala"
+    },
+    "to": {
+     "heading": "'Cry Long and Hard Your Tears of Repentance'",
+     "byline": "Bernard Levin"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Review: In My Way by Lord George Brown (Bread and Peace)",
+     "byline": "T. G. Joshi"
+    },
+    "to": {
+     "heading": "Greek Philosophers Confirmed",
+     "byline": "James Burnham"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Essay 8",
+     "byline": null
+    },
+    "to": {
+     "heading": "A Face-Lift Operation",
+     "byline": "J. B. H. Wadia"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "\"Secular Democratic Palestine\"",
+     "byline": "Nitin G. Raut"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Kipling: The Glass, The Shadow and the Fire by Philip Mason",
+     "byline": "Mehra Masani"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff281",
+  "sections": 10,
+  "confirmed": 2,
+  "contradicted": 1,
+  "changes": 4,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "World News: Solzhenitsyn Fears Fall of West",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Lord George-Brown Quits Labour",
+     "byline": null
+    },
+    "to": {
+     "heading": "World News: Solzhenitsyn Fears Fall of West",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Moscow Censor Sold Books to Black Market",
+     "byline": "Robert C. Toth"
+    },
+    "to": {
+     "heading": "Lord George-Brown Quits Labour",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Nepotism in Pyongyang",
+     "byline": null
+    },
+    "to": {
+     "heading": "Moscow Censor Sold Books to Black Market",
+     "byline": "Robert C. Toth"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff282",
+  "sections": 7,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   null,
+   null,
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Dying with Dignity",
+     "byline": "Fredoon P. Antia"
+    },
+    "to": {
+     "heading": "s editors as a striking echo -- from behind the Iron Curtain -- of Daniel Moynihan",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "World News",
+     "byline": null
+    },
+    "to": {
+     "heading": "Dying with Dignity",
+     "byline": "Fredoon P. Antia"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Review: The \"Only Man\" (My Life by Golda Meir)",
+     "byline": "Nitin G. Bafna"
+    },
+    "to": {
+     "heading": "Why Marxism Is Left Behind",
+     "byline": "Bryan Magee, M.P."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Essay 6",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: The \"Only Man\" (My Life by Golda Meir)",
+     "byline": "Nitin G. Bafna"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Essay 7",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff284",
+  "sections": 10,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 9,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Third World Racism at U.N.",
+     "byline": "Eldridge Cleaver"
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Solzhenitsyn on Socialism",
+     "byline": "Alexander Solzhenitsyn"
+    },
+    "to": {
+     "heading": "Third World Racism at U.N.",
+     "byline": "Eldridge Cleaver"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Reviews: The 'Freedom First' Case (Law of Press Censorship in India by Soli J. Sorabjee) / World of Hunger: A Strategy for Survival",
+     "byline": "Sujata Manohar / Fredoon Antia"
+    },
+    "to": {
+     "heading": "Solzhenitsyn on Socialism",
+     "byline": "Alexander Solzhenitsyn"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Letter: 'Socialist' Republic?",
+     "byline": "P. L. Mayekar"
+    },
+    "to": {
+     "heading": "Reviews: The 'Freedom First' Case (Law of Press Censorship in India by Soli J. Sorabjee) / World of Hunger: A Strategy for Survival",
+     "byline": "Sujata Manohar / Fredoon Antia"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Acharya Kripalani's Petition Admitted",
+     "byline": "From a Legal Correspondent"
+    },
+    "to": {
+     "heading": "Letter: 'Socialist' Republic?",
+     "byline": "P. L. Mayekar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "World News (Reuter, Times, Telegraph, Guardian excerpts)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Acharya Kripalani's Petition Admitted",
+     "byline": "From a Legal Correspondent"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "to": {
+     "heading": "World News (Reuter, Times, Telegraph, Guardian excerpts)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff287",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 5,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "And Now the 44th / Between You and Me and The Lamp Post",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between You and Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "To the Soviet Citizen: Solzhenitsyn's Commandment",
+     "byline": "Bernard Levin"
+    },
+    "to": {
+     "heading": "And Now the 44th / Between You and Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "World News",
+     "byline": null
+    },
+    "to": {
+     "heading": "To the Soviet Citizen: Solzhenitsyn's Commandment",
+     "byline": "Bernard Levin"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The Poetry of Violence (Films)",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "J. P.: His Biography (review of Allen and Wendy Scrafe, Orient Longman, 1975)",
+     "byline": "S. P. Aiyar"
+    },
+    "to": {
+     "heading": "The Poetry of Violence (Films)",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "1 pairing(s) contradicted by the prose"
+ },
+ {
+  "id": "ff288",
+  "sections": 9,
+  "confirmed": 5,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   null,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 6,
+    "from": {
+     "heading": "Reviews: The R Document (Irving Wallace) / Crossman Affair (Hugo Young)",
+     "byline": "S. V. Raju"
+    },
+    "to": {
+     "heading": "Letters (On Discipline; Are Gandhiji's Writings Objectionable?)",
+     "byline": "M. Murlidhar; N. C. Zamindar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Reviews: The R Document (Irving Wallace) / Crossman Affair (Hugo Young)",
+     "byline": "S. V. Raju"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff291",
+  "sections": 11,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "The Lebanese Crisis",
+     "byline": "Nitin G. Raut"
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "International P.E.N. Congress — A Report",
+     "byline": "M. R. Masani"
+    },
+    "to": {
+     "heading": "The Lebanese Crisis",
+     "byline": "Nitin G. Raut"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Review: Broadcasting and the People (Mehra Masani)",
+     "byline": "A Media Man"
+    },
+    "to": {
+     "heading": "International P.E.N. Congress — A Report",
+     "byline": "M. R. Masani"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff292",
+  "sections": 11,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 10,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Lady and the Tiger",
+     "byline": "M. R. Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "In Defense of the Judiciary",
+     "byline": "V. D. Tulzapurkar"
+    },
+    "to": {
+     "heading": "Between You & Me and The Lamp Post",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Irani Honoured: Freedom House Award",
+     "byline": null
+    },
+    "to": {
+     "heading": "In Defense of the Judiciary",
+     "byline": "V. D. Tulzapurkar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Wanted—A Pinch of Snuff",
+     "byline": "M. R. Masani"
+    },
+    "to": {
+     "heading": "Irani Honoured: Freedom House Award",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "World News",
+     "byline": null
+    },
+    "to": {
+     "heading": "Wanted—A Pinch of Snuff",
+     "byline": "M. R. Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Letters: Euthanasia Again",
+     "byline": "F. P. Antia"
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Letters: The Coming General Elections",
+     "byline": "C. Cardoza"
+    },
+    "to": {
+     "heading": "Letters: Euthanasia Again",
+     "byline": "F. P. Antia"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Review: A Voice from the Chorus by Abraham Tertz",
+     "byline": "A. G. Noorani"
+    },
+    "to": {
+     "heading": "Letters: The Coming General Elections",
+     "byline": "C. Cardoza"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: A Voice from the Chorus by Abraham Tertz",
+     "byline": "A. G. Noorani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff293",
+  "sections": 9,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 8,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Has USSR Achieved Atheism?",
+     "byline": "M. Murlidhar"
+    },
+    "to": {
+     "heading": "The Lady and the Elephant",
+     "byline": "M. R. Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Rise and Fall of Michael Foot",
+     "byline": "E.P. (abridged from an article in Free Nation, London)"
+    },
+    "to": {
+     "heading": "Has USSR Achieved Atheism?",
+     "byline": "M. Murlidhar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Rajaji and Freedom",
+     "byline": "N. K. Seetharaman"
+    },
+    "to": {
+     "heading": "Rise and Fall of Michael Foot",
+     "byline": "E.P. (abridged from an article in Free Nation, London)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "World News",
+     "byline": null
+    },
+    "to": {
+     "heading": "Rajaji and Freedom",
+     "byline": "N. K. Seetharaman"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Review: What an Innings! (on Survey magazine's 100th issue)",
+     "byline": "Bernard Levin, courtesy: The Times"
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Bertram D. Wolfe (obituary note)",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: What an Innings! (on Survey magazine's 100th issue)",
+     "byline": "Bernard Levin, courtesy: The Times"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Bertram D. Wolfe (obituary note)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Essay 9",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff296",
+  "sections": 10,
+  "confirmed": 3,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Frontiers of Freedom Within Us",
+     "byline": "Vladimir Bukovsky"
+    },
+    "to": {
+     "heading": "A Homespun Prime Minister",
+     "byline": "S. V. Raju"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Am I A McCarthyite?",
+     "byline": "Brian Crozier"
+    },
+    "to": {
+     "heading": "Frontiers of Freedom Within Us",
+     "byline": "Vladimir Bukovsky"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Concerns of Government & Democracy",
+     "byline": "'Mitradev'"
+    },
+    "to": {
+     "heading": "Am I A McCarthyite?",
+     "byline": "Brian Crozier"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "World News",
+     "byline": null
+    },
+    "to": {
+     "heading": "Concerns of Government & Democracy",
+     "byline": "'Mitradev'"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "The Relevance of Rajaji (Letter)",
+     "byline": "P. S. Sridhara Murthy"
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Review: The Final Days (Bob Woodward and Carl Bernstein)",
+     "byline": "Nitin Raut"
+    },
+    "to": {
+     "heading": "The Relevance of Rajaji (Letter)",
+     "byline": "P. S. Sridhara Murthy"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Review: Sitting Comfortably",
+     "byline": "Harold Jackson"
+    },
+    "to": {
+     "heading": "Review: The Final Days (Bob Woodward and Carl Bernstein)",
+     "byline": "Nitin Raut"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Review: Sitting Comfortably",
+     "byline": "Harold Jackson"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff305",
+  "sections": 12,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   null,
+   null,
+   null,
+   9
+  ],
+  "detail": [
+   {
+    "index": 6,
+    "from": {
+     "heading": "Letter: Mr. Vajpayee's Volte Face",
+     "byline": "Sheila Sumant"
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "World News",
+     "byline": null
+    },
+    "to": {
+     "heading": "Frankly Speaking (Ministry-Making in Maharashtra; The Budget Hurts; Sikkim; Campaign Sidelights)",
+     "byline": "Achyut Patwardhan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Frankly Speaking (Ministry-Making in Maharashtra; The Budget Hurts; Sikkim; Campaign Sidelights)",
+     "byline": "Achyut Patwardhan"
+    },
+    "to": {
+     "heading": "s Marx & Gandhi (Popular Prakashan), a comparative study written largely during Dandavate",
+     "byline": "Achyut Patwardhan reviews Madhu Dandavate"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "On Safeguarding Freedom",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Essay 12",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff310",
+  "sections": 10,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 2,
+  "pairing": [
+   null,
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "\"Frightening, Yet Invaluable\"",
+     "byline": "Bernard Levin"
+    },
+    "to": {
+     "heading": "War Against Dissidents",
+     "byline": "V. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Humour in Law",
+     "byline": "K. S. Venkateswaran"
+    },
+    "to": {
+     "heading": "\"Frightening, Yet Invaluable\"",
+     "byline": "Bernard Levin"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff311",
+  "sections": 11,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   4,
+   5,
+   null,
+   null,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Learning the Right Lessons",
+     "byline": "P. G. Mavalankar M.P."
+    },
+    "to": {
+     "heading": "Film Review: \"Ghatashradda\" — Unrelieved Gloom",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Book Review: India's Economic Policy. A Gandhian Blueprint by Charan Singh",
+     "byline": "Sonal Shah"
+    },
+    "to": {
+     "heading": "A Truly National War Memorial",
+     "byline": "Maj. Gen. E. D'Souza PVSM (Retd.)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Film Review: \"Ghatashradda\" — Unrelieved Gloom",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "Problems of the Third World",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff312",
+  "sections": 10,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   null,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Our Foreign Policy is Our Business / Camp David Accord / Mud in Your Tea",
+     "byline": "SVR / GD"
+    },
+    "to": {
+     "heading": "Yukrand as I Saw and Felt",
+     "byline": "D. B. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Yukrand as I Saw and Felt",
+     "byline": "D. B. Karnik"
+    },
+    "to": {
+     "heading": "Going to Acton Green?",
+     "byline": "James Cameron"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Going to Acton Green?",
+     "byline": "James Cameron"
+    },
+    "to": {
+     "heading": "Two Delegations A Day",
+     "byline": "Sadananda Mukerjee"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff316",
+  "sections": 8,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Taxation vs Civilisation",
+     "byline": "Ian Ball"
+    },
+    "to": {
+     "heading": "Of Cabbages & Kings",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Book Review: Gokhale (by B. R. Nanda)",
+     "byline": "S. P. Aiyar"
+    },
+    "to": {
+     "heading": "Taxation vs Civilisation",
+     "byline": "Ian Ball"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Book Review: Indian Women Today (by Dr. Girija Khanna and Mariamma A. Verghese)",
+     "byline": "Mehra Masani"
+    },
+    "to": {
+     "heading": "Book Review: Gokhale (by B. R. Nanda)",
+     "byline": "S. P. Aiyar"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff318",
+  "sections": 11,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 8,
+  "pairing": [
+   0,
+   5,
+   6,
+   7,
+   8,
+   null,
+   null,
+   null,
+   null,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Pitting Krishna Versus Christ",
+     "byline": "MADHU MEHTA"
+    },
+    "to": {
+     "heading": "Letter: Frisking St. George",
+     "byline": "S. A. A. PINTO"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "An Unwise Bill",
+     "byline": "RAJMOHAN GANDHI"
+    },
+    "to": {
+     "heading": "Bhutto -- Murderer or Murdered?",
+     "byline": "K. B. Lam"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Violates A Fundamental Right",
+     "byline": "GEORGE MENEZES"
+    },
+    "to": {
+     "heading": "Oh No, Calcutta!",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Threat to Communal Harmony",
+     "byline": "A. WILLIAMS, S. J."
+    },
+    "to": {
+     "heading": "The Great Tax Revolt",
+     "byline": "K. S. Venkateswaran"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Letter: Frisking St. George",
+     "byline": "S. A. A. PINTO"
+    },
+    "to": {
+     "heading": "s letter signed S. A. A. Pinto responds to a Freedom First item (",
+     "byline": "A reader"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Bhutto -- Murderer or Murdered?",
+     "byline": "K. B. Lam"
+    },
+    "to": {
+     "heading": "World News",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Oh No, Calcutta!",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "With West Bengal Chief Ministers,",
+     "byline": "V. B. Karnik reviews Saroj Chakrabarty"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "The Great Tax Revolt",
+     "byline": "K. S. Venkateswaran"
+    },
+    "to": {
+     "heading": "praising Mehta",
+     "byline": "Vrunda Moghe Dev reviews Ved Mehta"
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff319",
+  "sections": 11,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 8,
+  "pairing": [
+   0,
+   1,
+   null,
+   2,
+   null,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Politics in the States",
+     "byline": "S. Sahay"
+    },
+    "to": {
+     "heading": "Too Corny for Words",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "C. Y. Chintamani - A Tribute",
+     "byline": "Capt. R.L. Rau (Retd.)"
+    },
+    "to": {
+     "heading": "Politics in the States",
+     "byline": "S. Sahay"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "World News (Islam In Marxland; Pot Calls Kettle Back; Dissecting Soviet Society)",
+     "byline": "Richard Beeston, The Daily Telegraph / various wire sources"
+    },
+    "to": {
+     "heading": "C. Y. Chintamani - A Tribute",
+     "byline": "Capt. R.L. Rau (Retd.)"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Grievances in a Workers' Paradise",
+     "byline": "The Daily Telegraph, April 30"
+    },
+    "to": {
+     "heading": "Moonlighting - British Style",
+     "byline": "Alan Osborn"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Book Review: Living and Learning (Muriel Wasi); Land Tenure and Peasant in South Asia (Robert Eric Frykenberg)",
+     "byline": "S. P. AIYAR / Prof. (Mrs.) S. RAMACHANDRAN"
+    },
+    "to": {
+     "heading": "Grievances in a Workers' Paradise",
+     "byline": "The Daily Telegraph, April 30"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Book Review: Indian Hockey (Sunil Gujral)",
+     "byline": "C. L. PROUDFOOT"
+    },
+    "to": {
+     "heading": "Book Review: Living and Learning (Muriel Wasi); Land Tenure and Peasant in South Asia (Robert Eric Frykenberg)",
+     "byline": "S. P. AIYAR / Prof. (Mrs.) S. RAMACHANDRAN"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Book Review: Indian Hockey (Sunil Gujral)",
+     "byline": "C. L. PROUDFOOT"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "With Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff323",
+  "sections": 11,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   2,
+   3,
+   5,
+   null,
+   null,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Caretaker or Undertaker?",
+     "byline": null
+    },
+    "to": {
+     "heading": "Of Cabbages & Kings: Airport 1979",
+     "byline": "GD"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Of Cabbages & Kings: Airport 1979",
+     "byline": "GD"
+    },
+    "to": {
+     "heading": "There's Plenty Where It Comes From",
+     "byline": "SVR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "There's Plenty Where It Comes From",
+     "byline": "SVR"
+    },
+    "to": {
+     "heading": "Brain Failure",
+     "byline": "William Gooddy M.D. FRCP"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff328",
+  "sections": 7,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   null,
+   null
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Assemblies Dissolved",
+     "byline": "S. V. RAJU"
+    },
+    "to": {
+     "heading": "Our Trade Unions: Will They Face the Challenge of the Eighties?",
+     "byline": "V. B. KARNIK"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "A Blue-Print for National Reconciliation",
+     "byline": "Hindustani Andolan"
+    },
+    "to": {
+     "heading": "Voices I: A Sense of Failure",
+     "byline": "NISSIM EZEKIEL"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Our Trade Unions: Will They Face the Challenge of the Eighties?",
+     "byline": "V. B. KARNIK"
+    },
+    "to": {
+     "heading": "Voices II: Revival of Islam",
+     "byline": "PREETHI BIDDAPA"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Voices I: A Sense of Failure",
+     "byline": "NISSIM EZEKIEL"
+    },
+    "to": {
+     "heading": "Voices III: The English Textbook",
+     "byline": "SHAMA FUTEHALLY"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Voices II: Revival of Islam",
+     "byline": "PREETHI BIDDAPA"
+    },
+    "to": {
+     "heading": "Encounters of the Southern Kind",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Voices III: The English Textbook",
+     "byline": "SHAMA FUTEHALLY"
+    },
+    "to": {
+     "heading": "Forward with Nature,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Encounters of the Southern Kind",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "The Liberal International View,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff340",
+  "sections": 9,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 2,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   7,
+   null,
+   null,
+   8
+  ],
+  "detail": [
+   {
+    "index": 4,
+    "from": {
+     "heading": "Voices 1: Crucial Roles",
+     "byline": "C. RAJU"
+    },
+    "to": {
+     "heading": "Voices 3: Macbeth in Bombay - Audience Response",
+     "byline": "INDU SARAIYA"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Voices 2: On Pankaj Mullick",
+     "byline": "YASHVANT TRIVEDI"
+    },
+    "to": {
+     "heading": "WANTED: A new broom for the Ministry of Information and Broadcasting",
+     "byline": "MEHRA MASANI"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff344",
+  "sections": 11,
+  "confirmed": 3,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   null,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 7,
+    "from": {
+     "heading": "The World of Books (reviews of Indira Gandhi In the Crucible of Leadership and a Shashi Deshpande story collection)",
+     "byline": "PREETHI BIDDAPA; HUTOXI MEHENTI"
+    },
+    "to": {
+     "heading": "People's Union for Civil Liberties — Resolutions",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Unemphasized Issues in Economics",
+     "byline": "SAMPATH S. IYENGAR"
+    },
+    "to": {
+     "heading": "The World of Books (reviews of Indira Gandhi In the Crucible of Leadership and a Shashi Deshpande story collection)",
+     "byline": "PREETHI BIDDAPA; HUTOXI MEHENTI"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Indo-Pak Relations",
+     "byline": "P. M. KAMATH"
+    },
+    "to": {
+     "heading": "Unemphasized Issues in Economics",
+     "byline": "SAMPATH S. IYENGAR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "Indo-Pak Relations",
+     "byline": "P. M. KAMATH"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff347",
+  "sections": 8,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   6,
+   null,
+   7
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "Sadat: Another View",
+     "byline": "Arvind A. Deshpande"
+    },
+    "to": {
+     "heading": "Voices-1: 36 Chowringhee Lane",
+     "byline": "Ramni Taneja"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Voices-1: 36 Chowringhee Lane",
+     "byline": "Ramni Taneja"
+    },
+    "to": {
+     "heading": "Voices-2: The Right To Die",
+     "byline": "Praja R. Parekh"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Voices-2: The Right To Die",
+     "byline": "Praja R. Parekh"
+    },
+    "to": {
+     "heading": "Tribute to A. B. Shah (extracts from a speech at the condolence meeting held at Pune on 16 October 1981)",
+     "byline": "A. Solomon"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff350",
+  "sections": 12,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 2,
+  "pairing": [
+   null,
+   0,
+   1,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Easy and Dangerous Dependence",
+     "byline": "Rama Swarup"
+    },
+    "to": {
+     "heading": "A Variety of Comment (1. The Judges' Case; 2. Irish Prisons)",
+     "byline": "K. S. Venkateswaran"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "The Non-Alignment Movement — Myth or Reality?",
+     "byline": "S. S. Bankeshwar"
+    },
+    "to": {
+     "heading": "Easy and Dangerous Dependence",
+     "byline": "Rama Swarup"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff358",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   null,
+   8
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "A Fair Deal",
+     "byline": "M. R. Masani"
+    },
+    "to": {
+     "heading": "Corruption in the Communist Fatherland",
+     "byline": "AZIZ MADNI"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Corruption in the Communist Fatherland",
+     "byline": "AZIZ MADNI"
+    },
+    "to": {
+     "heading": "H. V. Kamath - a true Karma Yogi",
+     "byline": "S. S. BANKESHWAR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "H. V. Kamath - a true Karma Yogi",
+     "byline": "S. S. BANKESHWAR"
+    },
+    "to": {
+     "heading": "Book Review: The Bandicoot Run by Manohar Malgaonkar",
+     "byline": "SANDHYA HARIHARAN"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Book Review: The Bandicoot Run by Manohar Malgaonkar",
+     "byline": "SANDHYA HARIHARAN"
+    },
+    "to": {
+     "heading": "Kabul's Debt To Moscow Requires Piping Out Of Its Gas For 10 Years",
+     "byline": "RAMA SWARUP"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff360",
+  "sections": 12,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   null,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Economic Malaise in India (A Report)",
+     "byline": null
+    },
+    "to": {
+     "heading": "In the Name of Secularism",
+     "byline": "NITIN G. RAUT"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Food Crisis In Socialist Countries",
+     "byline": "A. KUMAR"
+    },
+    "to": {
+     "heading": "The Economic Malaise in India (A Report)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Two Insights (Andropov; Non-Alignment)",
+     "byline": "M. R. MASANI"
+    },
+    "to": {
+     "heading": "Food Crisis In Socialist Countries",
+     "byline": "A. KUMAR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Consumer Education in Schools",
+     "byline": "M. R. Pai"
+    },
+    "to": {
+     "heading": "Two Insights (Andropov; Non-Alignment)",
+     "byline": "M. R. MASANI"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff367",
+  "sections": 6,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 0,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "detail": [],
+  "action": "skip",
+  "reason": "alignment matches current labels"
+ },
+ {
+  "id": "ff372",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   1,
+   2,
+   3,
+   null,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "\"I'm Fighting for Value-based, Clean Politics\" (interview with Ramakrishna Hegde)",
+     "byline": "SUMANT BANKESHWAR"
+    },
+    "to": {
+     "heading": "\"I'll Take the Matter to the People's Court\" - Moily (interview with Veerappa Moily)",
+     "byline": "SUMANT BANKESHWAR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "\"I'll Take the Matter to the People's Court\" - Moily (interview with Veerappa Moily)",
+     "byline": "SUMANT BANKESHWAR"
+    },
+    "to": {
+     "heading": "Calling UNESCO's Bluff",
+     "byline": "K. S. Venkateswaran"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Calling UNESCO's Bluff",
+     "byline": "K. S. Venkateswaran"
+    },
+    "to": {
+     "heading": "As I See It",
+     "byline": "Minoo Masani"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff387",
+  "sections": 6,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   0,
+   null,
+   null,
+   null,
+   1,
+   2
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Operation Flood",
+     "byline": "Minoo Masani"
+    },
+    "to": {
+     "heading": "died when India achieved independence,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Remembering the Emergency",
+     "byline": "R. Srinivasan"
+    },
+    "to": {
+     "heading": "sole-throwing",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Gandhi Jayanti Thoughts",
+     "byline": "C. Rajagopalachari"
+    },
+    "to": {
+     "heading": "Operation Flood",
+     "byline": "Minoo Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Report of Seminar on Reservation",
+     "byline": null
+    },
+    "to": {
+     "heading": "Remembering the Emergency",
+     "byline": "R. Srinivasan"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff421",
+  "sections": 5,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   null,
+   null,
+   0,
+   1,
+   2
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "The Masani Viewpoint",
+     "byline": null
+    },
+    "to": {
+     "heading": "s explainer piece answers reader requests to clarify what GATT (the",
+     "byline": "S. V. Raju"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "The Great American Bubble",
+     "byline": "Sharad Bailur"
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "The Right to Choose a Dignified Death",
+     "byline": "B. N. Colabawalla"
+    },
+    "to": {
+     "heading": "The Masani Viewpoint",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "West Asia: New Challenges to Peace",
+     "byline": "Nitin G. Raut"
+    },
+    "to": {
+     "heading": "The Great American Bubble",
+     "byline": "Sharad Bailur"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff425",
+  "sections": 8,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   null,
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "18 Months of Indira's India: Why the Emergency was not Unexpected",
+     "byline": "Minoo Masani"
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "18 Months of Indira's India: When Freedom First and Bhumiputra battled the Censors",
+     "byline": "S. P. Aiyar & S. V. Raju"
+    },
+    "to": {
+     "heading": "Of Cabbages and Kings",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "18 Months of Indira's India: When Lawyers Did Indian Democracy Proud",
+     "byline": "M. A. Rane"
+    },
+    "to": {
+     "heading": "18 Months of Indira's India: Why the Emergency was not Unexpected",
+     "byline": "Minoo Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "18 Months of Indira's India: A Letter to Comrade K. A. Abbas",
+     "byline": "N. G. Jog"
+    },
+    "to": {
+     "heading": "18 Months of Indira's India: When Freedom First and Bhumiputra battled the Censors",
+     "byline": "S. P. Aiyar & S. V. Raju"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Socialism and Secularism in the Constitution of India",
+     "byline": "Subash C. Kashyap"
+    },
+    "to": {
+     "heading": "18 Months of Indira's India: When Lawyers Did Indian Democracy Proud",
+     "byline": "M. A. Rane"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "The Sovereign Nation State at the Crossroads of History",
+     "byline": "B. Ramesh Babu"
+    },
+    "to": {
+     "heading": "18 Months of Indira's India: A Letter to Comrade K. A. Abbas",
+     "byline": "N. G. Jog"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff430",
+  "sections": 6,
+  "confirmed": 5,
+  "contradicted": 1,
+  "changes": 0,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "detail": [],
+  "action": "skip",
+  "reason": "1 pairing(s) contradicted by the prose"
+ },
+ {
+  "id": "ff431",
+  "sections": 8,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Of Cabbages & Kings",
+     "byline": null
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "CTBT and all that ... / The Future of Arms Control",
+     "byline": "Rajesh M. Basrur"
+    },
+    "to": {
+     "heading": "Of Cabbages & Kings",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "India's Objections",
+     "byline": "E. D'Souza"
+    },
+    "to": {
+     "heading": "CTBT and all that ... / The Future of Arms Control",
+     "byline": "Rajesh M. Basrur"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff433",
+  "sections": 6,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   null,
+   0,
+   1,
+   3,
+   4,
+   5
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "A 'Catch 22' Situation",
+     "byline": "A. K. R. Hemmady"
+    },
+    "to": {
+     "heading": "Between Ourselves",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Need to Avoid Doctrinaire Approach",
+     "byline": "K. S. Puttaswamy"
+    },
+    "to": {
+     "heading": "A 'Catch 22' Situation",
+     "byline": "A. K. R. Hemmady"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Politics of Corruption",
+     "byline": "Mangesh Kulkarni"
+    },
+    "to": {
+     "heading": "Need to Avoid Doctrinaire Approach",
+     "byline": "K. S. Puttaswamy"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff447",
+  "sections": 12,
+  "confirmed": 3,
+  "contradicted": 1,
+  "changes": 2,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   5,
+   6,
+   null,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "detail": [
+   {
+    "index": 4,
+    "from": {
+     "heading": "The Enemy Within - II / Containing Corruption",
+     "byline": null
+    },
+    "to": {
+     "heading": "J. R. D. Tata: A Pragmatic Visionary",
+     "byline": "Prem Vaidya"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "J. R. D. Tata: A Pragmatic Visionary",
+     "byline": "Prem Vaidya"
+    },
+    "to": {
+     "heading": "Justice M. C. Chagla - A Centenary Tribute",
+     "byline": "Arvind Deshpande"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff463",
+  "sections": 7,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 1,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   null,
+   5
+  ],
+  "detail": [
+   {
+    "index": 6,
+    "from": {
+     "heading": "Is there a Water Shortage?",
+     "byline": "Kusum Choppra"
+    },
+    "to": {
+     "heading": "U.S. Presidential Elections - An Analysis",
+     "byline": "V. Balachandran"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff465",
+  "sections": 11,
+  "confirmed": 6,
+  "contradicted": 0,
+  "changes": 8,
+  "pairing": [
+   0,
+   1,
+   null,
+   null,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "Cover Feature: From Tibet to TAR - The Annexation of Tibet",
+     "byline": "Ajay B. Agrawal"
+    },
+    "to": {
+     "heading": "Tibet - The Travail Continues,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The Irony of the Bandung Conference",
+     "byline": "Claude Arpi"
+    },
+    "to": {
+     "heading": "Why I oppose Communism",
+     "byline": "Minoo Masani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "The Dalai Lama's Statement of March 10, 2005",
+     "byline": "The Dalai Lama"
+    },
+    "to": {
+     "heading": "Cover Feature: From Tibet to TAR - The Annexation of Tibet",
+     "byline": "Ajay B. Agrawal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Misunderstanding the Dalai Lama",
+     "byline": "Aspi Mistry"
+    },
+    "to": {
+     "heading": "The Irony of the Bandung Conference",
+     "byline": "Claude Arpi"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Now is Not the Time for A Negotiated Settlement",
+     "byline": "Pema Thinley"
+    },
+    "to": {
+     "heading": "The Dalai Lama's Statement of March 10, 2005",
+     "byline": "The Dalai Lama"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Tibetan Independence is not Negotiable",
+     "byline": "Tenzin Tsundue"
+    },
+    "to": {
+     "heading": "Misunderstanding the Dalai Lama",
+     "byline": "Aspi Mistry"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "A Protest that Captured World Attention",
+     "byline": null
+    },
+    "to": {
+     "heading": "Now is Not the Time for A Negotiated Settlement",
+     "byline": "Pema Thinley"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Economics: The Liberal Budget 2005 - The Way Forward",
+     "byline": null
+    },
+    "to": {
+     "heading": "Tibetan Independence is not Negotiable",
+     "byline": "Tenzin Tsundue"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff466",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 1,
+  "pairing": [
+   null,
+   0,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Of Cabbages and Kings",
+     "byline": null
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff467",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Of Cabbages and Kings",
+     "byline": null
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Increasing Intolerance and Suppression of Dissent (Cover Feature)",
+     "byline": "Soli Sorabjee"
+    },
+    "to": {
+     "heading": "Of Cabbages and Kings",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Women on the Top: Intolerance as a Political Weapon",
+     "byline": "Geeta Doctor"
+    },
+    "to": {
+     "heading": "Increasing Intolerance and Suppression of Dissent (Cover Feature)",
+     "byline": "Soli Sorabjee"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Terrorism",
+     "byline": "V. Balachandran"
+    },
+    "to": {
+     "heading": "Women on the Top: Intolerance as a Political Weapon",
+     "byline": "Geeta Doctor"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff471",
+  "sections": 12,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   null,
+   null,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 6,
+    "from": {
+     "heading": "George Kennan",
+     "byline": "V. Balachandran"
+    },
+    "to": {
+     "heading": "s short reservations-symposium contribution argues the real",
+     "byline": "Saratchandra Panda"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Book Review: National Resurgence in India",
+     "byline": "Professor R. V. Chari"
+    },
+    "to": {
+     "heading": "The Reservation Conundrum (symposium: Without Reservations / The Need of the Hour / Doing Away with Reservations - Gradually)",
+     "byline": "Bapu Satyanarayana; Saratchandra Panda; Santosh Nedungadi"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Between Ourselves ...",
+     "byline": "S. V. Raju"
+    },
+    "to": {
+     "heading": "George Kennan",
+     "byline": "V. Balachandran"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Book Review: National Resurgence in India",
+     "byline": "Professor R. V. Chari"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between Ourselves ...",
+     "byline": "S. V. Raju"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Essay 12",
+     "byline": null
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff473",
+  "sections": 8,
+  "confirmed": 2,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Essay 0",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Of Cabbages and Kings",
+     "byline": "SVR"
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Dharma in Politics",
+     "byline": "S.L.N. Simha"
+    },
+    "to": {
+     "heading": "Of Cabbages and Kings",
+     "byline": "SVR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "\"Things Fall Apart; the Centre Cannot Hold\"",
+     "byline": "R.Srinivasan"
+    },
+    "to": {
+     "heading": "Dharma in Politics",
+     "byline": "S.L.N. Simha"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "\"Things Fall Apart; the Centre Cannot Hold\"",
+     "byline": "R.Srinivasan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "The Tragedy of Being a Farmer In India (The Rural Perspective)",
+     "byline": "Sharad Joshi"
+    },
+    "to": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff476",
+  "sections": 10,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Crime and Punishment",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "The Nithari Killings",
+     "byline": "R. Srinivasan"
+    },
+    "to": {
+     "heading": "Crime and Punishment",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Nithari and Us - Another Culprit",
+     "byline": "Seetha"
+    },
+    "to": {
+     "heading": "The Nithari Killings",
+     "byline": "R. Srinivasan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Three Predictions about India",
+     "byline": "Kishore Mahbubani"
+    },
+    "to": {
+     "heading": "Nithari and Us - Another Culprit",
+     "byline": "Seetha"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Containing Political Corruption",
+     "byline": "Ganesh Sovani"
+    },
+    "to": {
+     "heading": "Three Predictions about India",
+     "byline": "Kishore Mahbubani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "Containing Political Corruption",
+     "byline": "Ganesh Sovani"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "A Liberal Party for India",
+     "byline": "Subroto Roy"
+    },
+    "to": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff481",
+  "sections": 10,
+  "confirmed": 2,
+  "contradicted": 1,
+  "changes": 1,
+  "pairing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   null,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 7,
+    "from": {
+     "heading": "Book Review: The Twilight of the Nation State — Globalisation, Chaos And War by Prem Shankar Jha",
+     "byline": "Professor S. V. Kogekar"
+    },
+    "to": {
+     "heading": "The Twilight of the Nation State,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff484",
+  "sections": 12,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 11,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   null,
+   null,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Point Counter Point (Ramsetu Again / \"Kaoboys of RAW\" / Coalition Dharma / Celebrity Prosecution)",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "The Nuclear Deal - A Calculated Risk (Will Accelerate Economic Growth / It Will Pull India Backward / It is Good For India)",
+     "byline": "S. C. Sharma / N. S. Venkataraman / T. S. Gopi Rethinaraj"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "J. B. D'Souza R.I.P. - What Mattered to Him was Public Service",
+     "byline": "Dilip D'Souza / Shirish Patel / Naresh Fernandes / S. V. Raju"
+    },
+    "to": {
+     "heading": "Point Counter Point (Ramsetu Again / \"Kaoboys of RAW\" / Coalition Dharma / Celebrity Prosecution)",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Hot Air Balloons from the Red Fort / The Rural Perspective",
+     "byline": "Sharad Joshi"
+    },
+    "to": {
+     "heading": "J. B. D'Souza R.I.P. - What Mattered to Him was Public Service",
+     "byline": "Dilip D'Souza / Shirish Patel / Naresh Fernandes / S. V. Raju"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Cornucopia: Equal Justice for All?",
+     "byline": "Firoze Hirjikaka"
+    },
+    "to": {
+     "heading": "Hot Air Balloons from the Red Fort / The Rural Perspective",
+     "byline": "Sharad Joshi"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "A Powerless Powerhouse / The Fundamentalists' Assault on Taslima Nasreen",
+     "byline": "SVR"
+    },
+    "to": {
+     "heading": "Cornucopia: Equal Justice for All?",
+     "byline": "Firoze Hirjikaka"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Book Review: The Kaoboys of R&AW: Down Memory Lane by B. Raman",
+     "byline": "A. V. Karnik"
+    },
+    "to": {
+     "heading": "A Powerless Powerhouse",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Between Ourselves",
+     "byline": "Editor"
+    },
+    "to": {
+     "heading": "(Lancer Publishers, 2007, Rs. 795). Karnik credits Raman",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "A Powerless Powerhouse / The Fundamentalists' Assault on Taslima Nasreen",
+     "byline": "SVR"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "Book Review: The Kaoboys of R&AW: Down Memory Lane by B. Raman",
+     "byline": "A. V. Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Essay 11",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between Ourselves",
+     "byline": "Editor"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Essay 12",
+     "byline": null
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff488",
+  "sections": 8,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Of Cabbages and Kings",
+     "byline": null
+    },
+    "to": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Of Swatantra and Socialism and \"Flogging a Dead Horse\"",
+     "byline": "S. V. Raju"
+    },
+    "to": {
+     "heading": "Of Cabbages and Kings",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Gujarat Elections",
+     "byline": "Amit Dholakia"
+    },
+    "to": {
+     "heading": "Of Swatantra and Socialism and \"Flogging a Dead Horse\"",
+     "byline": "S. V. Raju"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "What Happens if Pakistan Disintegrates",
+     "byline": "Ashish Puntambekar"
+    },
+    "to": {
+     "heading": "Gujarat Elections",
+     "byline": "Amit Dholakia"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "What Happens if Pakistan Disintegrates",
+     "byline": "Ashish Puntambekar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Too Much Politics, Too Little Citizenship",
+     "byline": "Cyrus Guzder"
+    },
+    "to": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Rites, Rituals and Festivals (2)",
+     "byline": "Suman Oak"
+    },
+    "to": {
+     "heading": "Too Much Politics, Too Little Citizenship",
+     "byline": "Cyrus Guzder"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff492",
+  "sections": 11,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   null,
+   6,
+   7,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 6,
+    "from": {
+     "heading": "National Security - The Contemporary Paradigm (4): The Concept of \"Federal Crime\" and a Federal Police Force",
+     "byline": "V. Balachandran"
+    },
+    "to": {
+     "heading": "Democratic Socialism",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Points to Ponder (Why Should a Slap make Headlines?; The Tyranny of the TRP; Why is the US Again Eyeing Afghanistan?)",
+     "byline": "Kusum Choppra"
+    },
+    "to": {
+     "heading": "National Security - The Contemporary Paradigm (4): The Concept of \"Federal Crime\" and a Federal Police Force",
+     "byline": "V. Balachandran"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Why I Like Kerala?",
+     "byline": "G. D. Karve"
+    },
+    "to": {
+     "heading": "Points to Ponder (Why Should a Slap make Headlines?; The Tyranny of the TRP; Why is the US Again Eyeing Afghanistan?)",
+     "byline": "Kusum Choppra"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ },
+ {
+  "id": "ff494",
+  "sections": 12,
+  "confirmed": 5,
+  "contradicted": 0,
+  "changes": 7,
+  "pairing": [
+   1,
+   null,
+   2,
+   3,
+   4,
+   5,
+   null,
+   6,
+   null,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Super Patriots and the Horse Market",
+     "byline": "Sharad Bailur"
+    },
+    "to": {
+     "heading": "Sam Bahadur",
+     "byline": "Eustace D'Souza"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Sam Bahadur",
+     "byline": "Eustace D'Souza"
+    },
+    "to": {
+     "heading": "s lead article on the India-US nuclear deal traces the political history of India",
+     "byline": "Sharad Bailur"
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "On Old Age",
+     "byline": null
+    },
+    "to": {
+     "heading": "Amarnath Shrine – The Land Allotment Controversy",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Reservations in Recruitment to Teaching Posts in IITs",
+     "byline": null
+    },
+    "to": {
+     "heading": "On Old Age",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Between Ourselves",
+     "byline": "Editor"
+    },
+    "to": {
+     "heading": "Reservations in Recruitment to Teaching Posts in IITs",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Many Voices",
+     "byline": null
+    },
+    "to": {
+     "heading": "Book Review",
+     "byline": "R. Srinivasan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Essay 12",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between Ourselves",
+     "byline": "Editor"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff497",
+  "sections": 13,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 4,
+  "pairing": [
+   0,
+   1,
+   2,
+   null,
+   null,
+   3,
+   4,
+   5,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "detail": [
+   {
+    "index": 3,
+    "from": {
+     "heading": "Auden Remembered (and Updated)",
+     "byline": "Xerxes Desai"
+    },
+    "to": {
+     "heading": "Point Counter Point",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Cornucopia: Parsis have Descended from Valhalla",
+     "byline": "Firoze Hirjikaka"
+    },
+    "to": {
+     "heading": "Auden Remembered (and Updated)",
+     "byline": "Xerxes Desai"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Come On, Liberals: Let's Change India! — India's Centralised Approach to Urbanization",
+     "byline": "Sanjeev Sabhlok"
+    },
+    "to": {
+     "heading": "Why Indians are Not Ambitious",
+     "byline": "M. D. Kini"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Irrelevance of Censorship",
+     "byline": "Prem Vaidya"
+    },
+    "to": {
+     "heading": "Cornucopia: Parsis have Descended from Valhalla",
+     "byline": "Firoze Hirjikaka"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff501",
+  "sections": 11,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   7,
+   8,
+   null,
+   null,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 4,
+    "from": {
+     "heading": "Obama's Presidency and Indian Foreign Policy",
+     "byline": "P. R. Dubhashi"
+    },
+    "to": {
+     "heading": "Management Approach to Terrorism Terrorists - R - Us",
+     "byline": "Sharu S. Rangnekar"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "A Demand for Indian 'Hyenas'",
+     "byline": "KASHINATH DIVECHA"
+    },
+    "to": {
+     "heading": "The Shoe Legacy",
+     "byline": "TENZIN TSUNDUE"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Management Approach to Terrorism Terrorists - R - Us",
+     "byline": "Sharu S. Rangnekar"
+    },
+    "to": {
+     "heading": "Cornucopia",
+     "byline": "Firoze Hirjikaka"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff503",
+  "sections": 10,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 9,
+  "pairing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   9,
+   null,
+   null
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "The Big Fight is for 'Izzat'",
+     "byline": "Surjit Singh"
+    },
+    "to": {
+     "heading": "Pakistan's Pet Abomination",
+     "byline": "Sharad Bailur"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 1,
+    "from": {
+     "heading": "Pakistan's Pet Abomination",
+     "byline": "Sharad Bailur"
+    },
+    "to": {
+     "heading": "Why Afghanistan is the Wrong War!",
+     "byline": "John Mueller"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Why Afghanistan is the Wrong War!",
+     "byline": "John Mueller"
+    },
+    "to": {
+     "heading": "Democracy's Frenetic Dance",
+     "byline": "Firoze Hirjikaka"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Democracy's Frenetic Dance",
+     "byline": "Firoze Hirjikaka"
+    },
+    "to": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "Intelligentsia Must Rewrite National Agenda",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Intelligentsia Must Rewrite National Agenda",
+     "byline": null
+    },
+    "to": {
+     "heading": "Equal Opportunity in the Free Society",
+     "byline": "Sanjeev Sabhlok"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Political Hypocrisy",
+     "byline": "H. R. Bapu Satyanarayana"
+    },
+    "to": {
+     "heading": "Cornucopia",
+     "byline": "Firoze Hirjikaka"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Equal Opportunity in the Free Society",
+     "byline": "Sanjeev Sabhlok"
+    },
+    "to": {
+     "heading": "Profiles of Indian Liberals: Rustom Masani",
+     "byline": "B. K. Karanjia"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Cornucopia",
+     "byline": "Firoze Hirjikaka"
+    },
+    "to": {
+     "heading": "s manifesto argues for a competent adult",
+     "byline": "Derek Humphry"
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff507",
+  "sections": 12,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 6,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   null,
+   4,
+   null,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 5,
+    "from": {
+     "heading": "Are We Heading for a 1962 Repeat?",
+     "byline": "E. D'Souza"
+    },
+    "to": {
+     "heading": "A Liberal Policy Position on Higher Education",
+     "byline": "Sanjeev Sabhlok"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "From Our Readers",
+     "byline": null
+    },
+    "to": {
+     "heading": "Are We Heading for a 1962 Repeat?",
+     "byline": "E. D'Souza"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "Women As Victories: A Politico-Scientific Discourse",
+     "byline": "Prasenjit Maiti"
+    },
+    "to": {
+     "heading": "Cornucopia",
+     "byline": "Firoze Hirjikaka"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "'Uttankita'",
+     "byline": "Gopal Krishna Gandhi"
+    },
+    "to": {
+     "heading": "From Our Readers",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Rites, Rituals and Festivals",
+     "byline": null
+    },
+    "to": {
+     "heading": "Women As Victories: A Politico-Scientific Discourse",
+     "byline": "Prasenjit Maiti"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 11,
+    "from": {
+     "heading": "Book Review",
+     "byline": null
+    },
+    "to": {
+     "heading": "'Uttankita'",
+     "byline": "Gopal Krishna Gandhi"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "ff518",
+  "sections": 11,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 10,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Between Ourselves",
+     "byline": null
+    },
+    "to": {
+     "heading": "Essay 0",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "From Our Readers",
+     "byline": null
+    },
+    "to": {
+     "heading": "Between Ourselves",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "India-Pakistan Talks - An Exercise in Futility",
+     "byline": "Nitin Raut"
+    },
+    "to": {
+     "heading": "From Our Readers",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Pakistan Deserves to be placed on the Terror List, Not on Civil Nuclear Deal",
+     "byline": "P. M. Kamath"
+    },
+    "to": {
+     "heading": "India-Pakistan Talks - An Exercise in Futility",
+     "byline": "Nitin Raut"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "to": {
+     "heading": "Pakistan Deserves to be placed on the Terror List, Not on Civil Nuclear Deal",
+     "byline": "P. M. Kamath"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "We the People",
+     "byline": "Meera Sanyal"
+    },
+    "to": {
+     "heading": "Point Counter Point",
+     "byline": "Ashok Karnik"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "My Country India",
+     "byline": "Jyoti Marwah"
+    },
+    "to": {
+     "heading": "We the People",
+     "byline": "Meera Sanyal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "The Bhopal Tragedy: Saving the Government from Further Flak",
+     "byline": "Keshav Rau"
+    },
+    "to": {
+     "heading": "My Country India",
+     "byline": "Jyoti Marwah"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Responsibilities Beyond Borders",
+     "byline": "Salil Tripathi"
+    },
+    "to": {
+     "heading": "The Bhopal Tragedy: Saving the Government from Further Flak",
+     "byline": "Keshav Rau"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Guns Across America",
+     "byline": "Firoze Hirjikaka"
+    },
+    "to": {
+     "heading": "Responsibilities Beyond Borders",
+     "byline": "Salil Tripathi"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-apr15-1960",
+  "sections": 9,
+  "confirmed": 1,
+  "contradicted": 1,
+  "changes": 0,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [],
+  "action": "skip",
+  "reason": "1 pairing(s) contradicted by the prose"
+ },
+ {
+  "id": "the-indian-libertarian-apr15-1962",
+  "sections": 11,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 2,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   null,
+   4,
+   5,
+   7,
+   8,
+   9,
+   10
+  ],
+  "detail": [
+   {
+    "index": 5,
+    "from": {
+     "heading": "Delhi Letter — Prime Minister Joins A Thriving Industry",
+     "byline": "John Kenneth Galbraith"
+    },
+    "to": {
+     "heading": "Economic Supplement — Patent Pitfalls In Planning — The Indian Experiment",
+     "byline": "Prof. S. Kesava Iyengar, Director, Indian Academy of Economics"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Book Review — The Great Awakening (John Strachey)",
+     "byline": "M. A. Venkatrao"
+    },
+    "to": {
+     "heading": "Delhi Letter — Prime Minister Joins A Thriving Industry",
+     "byline": "John Kenneth Galbraith"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-aug1-1960",
+  "sections": 9,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 3,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   null,
+   4,
+   5,
+   6,
+   8
+  ],
+  "detail": [
+   {
+    "index": 5,
+    "from": {
+     "heading": "Let Us Not Disturb the Living Voice of Life",
+     "byline": "Vaman H. Pandit"
+    },
+    "to": {
+     "heading": "RATIONALIST SUPPLEMENT (R. B. Lotvala, a Life Sketch by S. Ramanathan; A Message to My Fellow-Rationalists by R. B. Lotvala; poem by Richard J. Briggs)",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Parkinson's Law with a Vengeance",
+     "byline": "Waran"
+    },
+    "to": {
+     "heading": "Let Us Not Disturb the Living Voice of Life",
+     "byline": "Vaman H. Pandit"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "DELHI LETTER — Power Politics In Full Swing",
+     "byline": "From Our Correspondent"
+    },
+    "to": {
+     "heading": "Parkinson's Law with a Vengeance",
+     "byline": "Waran"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-dec1-1960",
+  "sections": 10,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 1,
+  "pairing": [
+   0,
+   1,
+   2,
+   3,
+   null,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "detail": [
+   {
+    "index": 5,
+    "from": {
+     "heading": "Delhi Letter — China Bamboozling India; Chaliha Riding High Horse; Kairon vs Gurnam Singh",
+     "byline": "From Our Correspondent"
+    },
+    "to": {
+     "heading": "Lokayata: Indian Materialism",
+     "byline": "S. Ramanathan"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-dec15-1961",
+  "sections": 8,
+  "confirmed": 3,
+  "contradicted": 0,
+  "changes": 4,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Nehru's New Way Of Thinking",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "Democratic Statesmanship Today",
+     "byline": "M. A. Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Economic Supplement — The Swatantra Manifesto",
+     "byline": "Prof. G. N. Lawande, M.A."
+    },
+    "to": {
+     "heading": "Nehru's New Way Of Thinking",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Economic Supplement — Equalizing Opportunities—II: Next Step for Mankind",
+     "byline": "G N Lawande"
+    },
+    "to": {
+     "heading": "Economic Supplement — The Swatantra Manifesto",
+     "byline": "Prof. G. N. Lawande, M.A."
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "Delhi Letter — Nehru Beaten By China On All Fronts",
+     "byline": "(From Our Correspondent)"
+    },
+    "to": {
+     "heading": "Economic Supplement — Equalizing Opportunities—II: Next Step for Mankind",
+     "byline": "G N Lawande"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-dec15-1962",
+  "sections": 10,
+  "confirmed": 3,
+  "contradicted": 0,
+  "changes": 8,
+  "pairing": [
+   0,
+   null,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Nehru's Noble Retreat",
+     "byline": "M. N. Tholal"
+    },
+    "to": {
+     "heading": "Rethinking Prohibition",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "ECONOMIC SUPPLEMENT — Defence Or Economic Growth; Foreign Aid—The Problem Of Utilisation",
+     "byline": "Prof. G. N. Lavande, M.A.; M. A. Master"
+    },
+    "to": {
+     "heading": "Nehru's Noble Retreat",
+     "byline": "M. N. Tholal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "The 'Achievements' (?) Of The Communist Regime In China",
+     "byline": "Yang Ship-Chan"
+    },
+    "to": {
+     "heading": "ECONOMIC SUPPLEMENT — Defence Or Economic Growth; Foreign Aid—The Problem Of Utilisation",
+     "byline": "Prof. G. N. Lavande, M.A.; M. A. Master"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "DELHI LETTER — Jaya Prakash Narain's Advice To Nehru",
+     "byline": "From our Correspondent"
+    },
+    "to": {
+     "heading": "The 'Achievements' (?) Of The Communist Regime In China",
+     "byline": "Yang Ship-Chan"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Book Review",
+     "byline": null
+    },
+    "to": {
+     "heading": "DELHI LETTER — Jaya Prakash Narain's Advice To Nehru",
+     "byline": "From our Correspondent"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Gleanings from the Press",
+     "byline": null
+    },
+    "to": {
+     "heading": "Book Review",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "News & Views",
+     "byline": null
+    },
+    "to": {
+     "heading": "Gleanings from the Press",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "Essay 10",
+     "byline": null
+    },
+    "to": {
+     "heading": "News & Views",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-dec15-1963",
+  "sections": 12,
+  "confirmed": 4,
+  "contradicted": 0,
+  "changes": 10,
+  "pairing": [
+   null,
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   11
+  ],
+  "detail": [
+   {
+    "index": 1,
+    "from": {
+     "heading": "Balance of Power And Collective Security",
+     "byline": "MA Venkata Rao"
+    },
+    "to": {
+     "heading": "EDITORIAL: The Task Before President Johnson",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 2,
+    "from": {
+     "heading": "Nehru's Fanciful Image",
+     "byline": "M. N. Tholal"
+    },
+    "to": {
+     "heading": "Balance of Power And Collective Security",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "ECONOMIC SUPPLEMENT",
+     "byline": "G N Lawande"
+    },
+    "to": {
+     "heading": "Nehru's Fanciful Image",
+     "byline": "M. N. Tholal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "A National Minimum",
+     "byline": "J. M. Lobo Prabhu"
+    },
+    "to": {
+     "heading": "ECONOMIC SUPPLEMENT",
+     "byline": "G N Lawande"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "DELHI LETTER: Ganging up Against Sucheta Kripalani",
+     "byline": "From Our Correspondent"
+    },
+    "to": {
+     "heading": "A National Minimum",
+     "byline": "J. M. Lobo Prabhu"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Workman Quarrels with his tools",
+     "byline": "C. Rajagopalachari"
+    },
+    "to": {
+     "heading": "DELHI LETTER: Ganging up Against Sucheta Kripalani",
+     "byline": "From Our Correspondent"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Book Review",
+     "byline": "C. Rajagopalachari"
+    },
+    "to": {
+     "heading": "Workman Quarrels with his tools",
+     "byline": "C. Rajagopalachari"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 8,
+    "from": {
+     "heading": "The Mind of the Nation",
+     "byline": null
+    },
+    "to": {
+     "heading": "Book Review",
+     "byline": "C. Rajagopalachari"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 9,
+    "from": {
+     "heading": "News and Views",
+     "byline": null
+    },
+    "to": {
+     "heading": "The Mind of the Nation",
+     "byline": null
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 10,
+    "from": {
+     "heading": "Dear Editor",
+     "byline": null
+    },
+    "to": {
+     "heading": "News and Views",
+     "byline": null
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-feb1-1961",
+  "sections": 12,
+  "confirmed": 1,
+  "contradicted": 0,
+  "changes": 5,
+  "pairing": [
+   0,
+   null,
+   null,
+   null,
+   1,
+   2,
+   3,
+   4,
+   8,
+   9,
+   10,
+   11
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Congress Deceiving the Country",
+     "byline": "M. N. Tholal"
+    },
+    "to": {
+     "heading": "flies in the ointment",
+     "byline": null
+    },
+    "source": "derived from prose"
+   },
+   {
+    "index": 4,
+    "from": {
+     "heading": "After Nehru, Who and What?",
+     "byline": "Sumanth Bankeshwar"
+    },
+    "to": {
+     "heading": "Republican or Socialist Pattern of Society",
+     "byline": "MA Venkata Rao"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 5,
+    "from": {
+     "heading": "Is There a Soviet Colonialism?",
+     "byline": null
+    },
+    "to": {
+     "heading": "Congress Deceiving the Country",
+     "byline": "M. N. Tholal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 6,
+    "from": {
+     "heading": "Delhi Letter",
+     "byline": null
+    },
+    "to": {
+     "heading": "Collapse of Foreign Policy",
+     "byline": "J. M. Lobo Prabhu"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 7,
+    "from": {
+     "heading": "Rationalist Supplement: Ellen Roy",
+     "byline": "S. Ramanathan"
+    },
+    "to": {
+     "heading": "After Nehru, Who and What?",
+     "byline": "Sumanth Bankeshwar"
+    },
+    "source": "aligned"
+   }
+  ],
+  "action": "skip",
+  "reason": "would repeat a heading"
+ },
+ {
+  "id": "the-indian-libertarian-jun1-1962",
+  "sections": 4,
+  "confirmed": 2,
+  "contradicted": 1,
+  "changes": 1,
+  "pairing": [
+   null,
+   1,
+   2,
+   3
+  ],
+  "detail": [
+   {
+    "index": 0,
+    "from": {
+     "heading": "Editorial",
+     "byline": null
+    },
+    "to": {
+     "heading": "Red Star Over South-East Asia,",
+     "byline": null
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "1 pairing(s) contradicted by the prose"
+ },
+ {
+  "id": "the-indian-libertarian-may1-1960",
+  "sections": 6,
+  "confirmed": 0,
+  "contradicted": 0,
+  "changes": 2,
+  "pairing": [
+   0,
+   1,
+   3,
+   null,
+   4,
+   5
+  ],
+  "detail": [
+   {
+    "index": 2,
+    "from": {
+     "heading": "Parliament In A Daze",
+     "byline": "Pothan Joseph"
+    },
+    "to": {
+     "heading": "Thy Will Be Done, Khrushchev!",
+     "byline": "M. N. Tholal"
+    },
+    "source": "aligned"
+   },
+   {
+    "index": 3,
+    "from": {
+     "heading": "Thy Will Be Done, Khrushchev!",
+     "byline": "M. N. Tholal"
+    },
+    "to": {
+     "heading": "Krishna Menon",
+     "byline": "E. H. Potter"
+    },
+    "source": "derived from prose"
+   }
+  ],
+  "action": "skip",
+  "reason": "only 0 confirmed pairing(s)"
+ }
+]

@@ -1,0 +1,166 @@
+{
+ "batch": 18,
+ "cell": { "tier": "B", "retrieval": "blind", "shape": "single" },
+ "questions": [
+  {
+   "id": "il-0171",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "In 1963, an editorial condemned a Congress revitalisation scheme that had six Central Ministers and six Chief Ministers resign, warning it concentrated power in the hands of one person. Whose removal as Finance Minister did the piece single out as especially reckless given India's financial situation, and which historical figure's appeasement policy did it compare the Prime Minister's foreign policy to?",
+   "expected": {
+    "docs": ["primary-works:ff136"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff136": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1963.pdf"
+    },
+    "answer_must_contain": ["Morarji Desai", "Chamberlain"]
+   },
+   "rationale": "Both facts come only from the lead editorial in this issue; neither the scheme nor the document is named in the question."
+  },
+  {
+   "id": "il-0172",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1972 pamphlet reprinted from a Financial Express series argued that India's black money problem stemmed from confiscatory tax rates and the licence-permit system rather than any inherent dishonesty. It criticised a government committee for leaving an income-tax exemption limit unchanged despite a sharp rise in the wholesale price index, and pointed to a foreign example that could inspire a fix for tax evasion in housing. Whose alternative, higher exemption figure did it endorse, and which country's construction tax holiday did it cite as a model?",
+   "expected": {
+    "docs": ["primary-works:wanchoo-committee-report-on-black-money-h-p-ranina"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:wanchoo-committee-report-on-black-money-h-p-ranina": "https://archive.indianliberals.in/forum-of-free-enterprise/wanchoo-committee-report-on-black-money-h-p-ranina.pdf"
+    },
+    "answer_must_contain": ["Bhoothalingam", "French"]
+   },
+   "rationale": "Bhoothalingam's exemption figure and the French tax-holiday comparison appear only in this pamphlet's discussion of the committee's recommendations."
+  },
+  {
+   "id": "il-0173",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1965 booklet based on a talk given at an international symposium in Turkey argued that developing countries dismiss the price mechanism for dogmatic, ideological reasons rather than sound economics. It named one Indian economist as the lone prominent voice consistently defending the price mechanism, in contrast to a more equivocal colleague. Who was praised as that lone defender, and which economist did the piece describe as comparatively equivocal on the same question?",
+   "expected": {
+    "docs": ["primary-works:efficient-planning-in-a-democratic-society-f-a-mehta-aug10-1965"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:efficient-planning-in-a-democratic-society-f-a-mehta-aug10-1965": "https://archive.indianliberals.in/forum-of-free-enterprise/efficient-planning-in-a-democratic-society-f-a-mehta-aug10-1965.pdf"
+    },
+    "answer_must_contain": ["Shenoy", "Dantwala"]
+   },
+   "rationale": "The Shenoy/Dantwala contrast is a specific claim unique to this essay's survey of Indian economists on the price mechanism."
+  },
+  {
+   "id": "il-0174",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1984 magazine issue included a historical profile of a Parsi merchant-philanthropist who made his fortune through hazardous trade voyages to China and later funded major civic and educational institutions in colonial Bombay, treating wealth as a personal 'trust' in a way the writer compared to a later Gandhian idea. Which two institutions did the piece credit him with founding?",
+   "expected": {
+    "docs": ["primary-works:ff373"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff373": "https://archive.indianliberals.in/freedom-first/freedom-first-mar1-1984.pdf"
+    },
+    "answer_must_contain": ["J. J. School of Art", "J. J. Hospital"]
+   },
+   "rationale": "Only this profile lists these two institutions as the philanthropist's foundations; the subject is described but never named."
+  },
+  {
+   "id": "il-0175",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1956 magazine issue reprinted, in abridged form from an American magazine, an open letter to a novelist reacting to Khrushchev's 'secret speech' about Stalin's crimes, urging him to recognise his anguished self-criticism as something more than routine dissent. From which New York magazine was the letter reprinted, and to which novelist was it addressed?",
+   "expected": {
+    "docs": ["primary-works:ff052"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff052": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-1956.pdf"
+    },
+    "answer_must_contain": ["New Leader", "Howard Fast"]
+   },
+   "rationale": "The reprint source and addressee are stated only in this open letter's own text within the issue."
+  },
+  {
+   "id": "il-0176",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A satirical poem printed in a 1972 magazine, reprinted from a student technical magazine and set to the tune of a well-known song, mocked the disruption and expense of a Prime Ministerial visit to a college's convocation -- helipads built over sports grounds, buildings repainted, and restricted parent attendance. Which student publication was the poem originally printed in, and to what song's tune was it set?",
+   "expected": {
+    "docs": ["primary-works:ff246"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff246": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1972.pdf"
+    },
+    "answer_must_contain": ["Technik", "My Favourite Things"]
+   },
+   "rationale": "The originating student magazine and the parody's borrowed tune are named only in this issue's verse item."
+  },
+  {
+   "id": "il-0177",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A booklet assessing a Union Budget presented in late February 1989 argued it left India's two core fiscal problems untouched. Which finance minister presented that budget, and what was the size of the budgetary deficit it reported, in crores of rupees?",
+   "expected": {
+    "docs": ["primary-works:union-budget-of-1989-90-provides-no-remedies-for-economic-ills-by-hp-ranina-april-12-1989"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:union-budget-of-1989-90-provides-no-remedies-for-economic-ills-by-hp-ranina-april-12-1989": "https://archive.indianliberals.in/forum-of-free-enterprise/union-budget-of-1989-90-provides-no-remedies-for-economic-ills-by-hp-ranina-april-12-1989.pdf"
+    },
+    "answer_must_contain": ["Chavan", "7,337"]
+   },
+   "rationale": "The finance minister's name and the precise deficit figure are given only in this booklet's fiscal analysis of the 1989-90 budget."
+  },
+  {
+   "id": "il-0178",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1959 fortnightly journal carried an essay arguing education had become a department of the state under both communist and fascist patterns. It praised Gandhi alongside two other independent Indian educators for staying outside government-recognised schooling. Name the other two educators singled out for praise.",
+   "expected": {
+    "docs": ["primary-works:the-indian-libertarian-jul15-1959"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-indian-libertarian-jul15-1959": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jul15-1959.pdf"
+    },
+    "answer_must_contain": ["Tagore", "Sri Aurobindo"]
+   },
+   "rationale": "This trio of praised educators appears only in this issue's essay on creative education."
+  },
+  {
+   "id": "il-0179",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A booklet reviewing a Union Budget presented in early 1993 forecast it would set the economy on course for dramatic growth, citing a sharply reduced deficit as the lowest in India's fiscal history. What was that budgetary deficit figure, in crores of rupees, and by what year did the piece predict full convertibility of the rupee on the capital account?",
+   "expected": {
+    "docs": ["primary-works:the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-hp-ranina-april-13-1993"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-hp-ranina-april-13-1993": "https://archive.indianliberals.in/forum-of-free-enterprise/the-union-budget-1993-94-laying-the-foundation-for-an-economic-miracle-by-HP-ranina-april-13-1993.pdf"
+    },
+    "answer_must_contain": ["4,314", "1998"]
+   },
+   "rationale": "The record-low deficit figure and the convertibility-timeline forecast are specific claims found only in this booklet."
+  },
+  {
+   "id": "il-0180",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 2012 anniversary issue of a long-running Indian liberal magazine, marking sixty years since its founding by a well-known political figure, carried an essay examining whether a proposed anti-terrorism body threatened the constitutional balance between the Union government and the states. Name the body examined, and the year in which the magazine was founded.",
+   "expected": {
+    "docs": ["primary-works:ff540"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff540": "https://archive.indianliberals.in/freedom-first/freedom-first-jun1-2012.pdf"
+    },
+    "answer_must_contain": ["NCTC", "1952"]
+   },
+   "rationale": "The federalism essay's subject and the magazine's founding year both appear only in this 60th-anniversary issue."
+  }
+ ]
+}

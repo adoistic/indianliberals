@@ -55,7 +55,7 @@ missing_metadata_flags:
 
 # ROLE OF PRIVATE ENTERPRISE
 
-*By By THAKORELAL M. DESAI*
+*By THAKORELAL M. DESAI*
 
 ## Summary
 

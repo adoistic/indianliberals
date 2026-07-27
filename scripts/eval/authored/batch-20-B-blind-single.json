@@ -1,0 +1,90 @@
+{
+ "batch": 20,
+ "cell": {
+  "tier": "B",
+  "retrieval": "blind",
+  "shape": "single"
+ },
+ "questions": [
+  {
+   "id": "il-0191",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "Which country's disputed frontier did a 1961 speech use as an analogy for the unpredictable, shifting line between public and private enterprise in Indian industry, and what average pre-tax profit rate did it quote for the public-sector companies under discussion?",
+   "expected": {
+    "docs": ["primary-works:economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr--kk-das-may-8-1961"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr--kk-das-may-8-1961": "https://archive.indianliberals.in/forum-of-free-enterprise/economic-progress-demands-attention-to-private-enterprise-and-scientific-management-by-dr.-kk-das-may-8-1961.pdf"
+    },
+    "answer_must_contain": ["Indo-Chinese border", "2.77%"]
+   },
+   "rationale": "The Indo-Chinese-border analogy and the 2.77% pre-tax return figure are both distinctive to this 1961 speech's critique of the public-private boundary, and neither the title nor the author's name appears in the question."
+  },
+  {
+   "id": "il-0192",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1993 lecture on India's banking reforms diagnosed the system that produced the previous year's securities scandal with a two-part label — one term about excessive administration, one about insufficient regulation. What were those two terms?",
+   "expected": {
+    "docs": ["primary-works:financial-sector-reforms-the-unfinished-agenda-m-narasimhan-december-6-1993"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:financial-sector-reforms-the-unfinished-agenda-m-narasimhan-december-6-1993": "https://archive.indianliberals.in/forum-of-free-enterprise/financial-sector-reforms-the-unfinished-agenda-m-narasimhan-december-6-1993.pdf"
+    },
+    "answer_must_contain": ["over-administered", "underregulated"]
+   },
+   "rationale": "The 'over-administered but underregulated' diagnosis of the 1992 securities scam is a distinctive verbatim phrase from this lecture; the question describes it without naming the speaker, the lecture series, or the title."
+  },
+  {
+   "id": "il-0193",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A reader-contributed piece in a January 1981 magazine on India's neglected cerebrally palsied population estimated the nationwide number of people living with the condition, and stated that government first recognised them as a disabled category eligible for assistance only in which month and year?",
+   "expected": {
+    "docs": ["primary-works:ff337"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff337": "https://archive.indianliberals.in/freedom-first/freedom-first-jan1-1981.pdf"
+    },
+    "answer_must_contain": ["8 million", "October 1980"]
+   },
+   "rationale": "The 8-million nationwide estimate and the October 1980 recognition date are specific to the 'Voices-1: The Spastics' piece in this issue; the question avoids the periodical's name, issue number, and the contributor's byline."
+  },
+  {
+   "id": "il-0194",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "A 1983 essay on the balance of power between the central government and the states argued that a licensing law, expanded through delegated notifications without any constitutional amendment, had brought what share of India's organised industry under Union control — and in what year had that law originally been enacted?",
+   "expected": {
+    "docs": ["primary-works:centre-state-relations-a-broad-perspective-n-a-palkhivala-october-15-1983"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:centre-state-relations-a-broad-perspective-n-a-palkhivala-october-15-1983": "https://archive.indianliberals.in/forum-of-free-enterprise/centre-state-relations-a-broad-perspective-n-a-palkhivala-october-15-1983.pdf"
+    },
+    "answer_must_contain": ["93%", "1951"]
+   },
+   "rationale": "The 93% Union-control figure and the 1951 enactment year of the Industries (Development and Regulation) Act are distinctive to this essay's argument; the question omits the author's name and the essay's title."
+  },
+  {
+   "id": "il-0195",
+   "tier": "B",
+   "retrieval": "blind",
+   "shape": "single",
+   "question": "An obituary tribute in a December 2009 magazine described a recently deceased rationalist and debunker of godmen as a modern heir to which ancient Indian philosophical tradition, and named the magazine he himself had founded and run as what?",
+   "expected": {
+    "docs": ["primary-works:ff510"],
+    "paragraph_ids": {},
+    "pdf_urls": {
+     "primary-works:ff510": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-2009.pdf"
+    },
+    "answer_must_contain": ["Charvaka", "Indian Skeptic"]
+   },
+   "rationale": "The Charvaka-tradition framing and the Indian Skeptic magazine name are specific to the B. Premanand tribute in this issue; the question names neither the subject nor the periodical, issue number, or contributing author."
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { ogSection } from "~/lib/og";
+import pool from "../../../../../data/eval/pool.json";
+import resultsJson from "../../../../../data/eval/results.json";
+
+// Static import, not readFileSync: this page is bundled by Vite, so
+// import.meta.url does not point at src/pages/eval/ in the build.
+type Results = {
+  graded_at: string;
+  label: string;
+  summary: {
+    n: number;
+    loose: number;
+    graded: number;
+    strict: number;
+    violations: number;
+    distribution: Record<string, number>;
+    cells: Record<string, { n: number; loose: number; graded: number; strict: number }>;
+  };
+  questions: { shape: string; graded: number; fabricated?: boolean }[];
+};
+
+const r = resultsJson as unknown as Results;
+const has = r && r.summary && r.summary.n > 0;
+const pct = (n: number) => `${(n * 100).toFixed(1)}%`;
+const cell = (k: string) => r?.summary?.cells?.[k];
+
+const abstention = (r?.questions ?? []).filter((q) => q.shape === "abstention");
+const fabricated = abstention.filter((q) => q.fabricated).length;
+const needles = cell("A/blind/needle");
+const blind = cell("retrieval:blind");
+const named = cell("retrieval:named");
+---
+
+<BaseLayout
+  ogImage={ogSection("about")}
+  title="Two tiers and a grader with no model in it · Indian Liberals"
+  description="Adnan Abbasi on why the Indian Liberals archive splits its corpus in two, and how we tested whether the split survives contact with a real agent."
+>
+  <article class="mx-auto max-w-3xl px-6 py-16">
+    <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+      Paper
+    </p>
+    <h1 class="mb-3">Two tiers, and a grader with no model in it</h1>
+    <p class="mb-10 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+      Adnan Abbasi, founder of <a href="https://thothica.com" class="text-(--color-forest-700)">Thothica</a>.
+      {has && <span> Written against the run graded {r.graded_at.slice(0, 10)}.</span>}
+      {" "}The pool and the score are at <a href="/eval/" class="text-(--color-forest-700)">/eval</a>.
+    </p>
+
+    <div class="prose-container mx-0! text-(--color-fg) leading-relaxed text-[1.0625rem]">
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">The problem is not retrieval</h2>
+
+      <p class="my-5">
+        The Centre for Civil Society has been collecting the written record of
+        Indian liberalism for years. Pamphlets from the Forum of Free Enterprise,
+        fifty years of <em>Freedom First</em>, budget analyses nobody has read
+        since they were printed, speeches given in Bombay in 1962 to rooms that
+        no longer exist. Most of it reached us as scans. Some of those scans are
+        good. A lot of them are a photograph of a page that was already yellowing
+        when someone put it on a flatbed in 2009.
+      </p>
+
+      <p class="my-5">
+        The obvious thing to do with a corpus like that in 2026 is run OCR over
+        all of it, chunk it, embed it, and put a chat box on top. We did not do
+        that, and the reason is narrow. Bad OCR does not fail loudly. It produces
+        text that reads like text. A model given a garbled page will quote it
+        with complete confidence, and a researcher who trusts the quotation will
+        put a sentence in a paper that no one ever wrote. The archive would look
+        finished and be worse than useless, because a plausible fake citation
+        costs more than a missing one.
+      </p>
+
+      <p class="my-5">
+        So we split the corpus, and we said so out loud. Content we had migrated
+        to clean text keeps paragraph-stable anchors and can be quoted: thinker
+        profiles, curated excerpts, opinion pieces, the interviews, the ThePrint
+        mirror. That is Tier A. The scanned primary works get metadata, an AI
+        summary, and a link to the PDF, and nothing else. That is Tier B. An
+        agent may say what we think a Tier B work argues, attributed to us, with
+        the PDF alongside so a reader can check. It may not put words in the
+        author's mouth, because we do not have the author's words.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">Which is a claim, not a fact</h2>
+
+      <p class="my-5">
+        Writing that rule down is easy. Every archive with an <code
+          class="font-(family-name:--font-mono) text-sm">AGENTS.md</code
+        > has rules in it. The question is whether the rule survives an agent
+        that is trying to be helpful, which is a different thing from an agent
+        that is trying to be careful. Helpfulness is what makes models invent
+        quotations. Asked what a 1962 pamphlet said, the useful-sounding answer
+        is a sentence in quotation marks, and a model that has read our summary
+        can produce one that would fool most people, including me.
+      </p>
+
+      <p class="my-5">
+        This is the part I actually care about, and it is why the eval exists.
+        Everything else on the site is a claim about tidiness. The two-tier rule
+        is a claim about honesty, and an unmeasured claim about honesty is just
+        a nicer way of saying trust me.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">Deterministic on purpose</h2>
+
+      <p class="my-5">
+        The grader has no model in it. Every score comes from substring matching
+        under one normalisation rule and from validating the shape of a citation.
+        Run it twice on the same answers and you get the same number, which is
+        the whole point: I want a figure that survives me not being in the room.
+      </p>
+
+      <p class="my-5">
+        The obvious objection is that a substring grader is dumber than an LLM
+        judge, and it is. It cannot tell a good paraphrase from a miss. It
+        punishes an answer that gets everything right in different words. I took
+        that trade knowingly, because an LLM judge introduces exactly the failure
+        mode I am trying to measure. If the thing checking for hallucination can
+        hallucinate, the number means nothing. A dumb grader that is wrong in
+        predictable ways beats a clever one that is wrong in interesting ones.
+      </p>
+
+      <p class="my-5">
+        Scoring is 0, 0.5, or 1 per question, which we took from Falsafa, our
+        philosophy platform, where the same architecture runs over 3.1 million
+        words. Tier A earns a 1 when the answer cites a page URL carrying a
+        paragraph anchor that genuinely exists on that page. Tier B earns a 1
+        when the work is named, attributed to our summary, and linked to its
+        working PDF. Half marks for naming the source without citing it
+        properly. Nothing for not finding it.
+      </p>
+
+      <p class="my-5">
+        Above all of it sits one rule that overrides the rest. If an answer
+        presents eight or more consecutive words as a source's own text, and no
+        run of those words appears anywhere the archive publishes, the answer
+        scores zero however well it cites. We hold no transcribed primary-work
+        prose, so a quotation from one cannot be real.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">Where the corpus being small helps</h2>
+
+      <p class="my-5">
+        Falsafa is roughly ten times this corpus by word count, and at that size
+        the grader has to be looser, because you cannot hold the ground truth in
+        your head or in memory. Here I can. The whole archive folds down to
+        about seventeen million characters of published text, which fits in a
+        string, which means the honesty check can ask a question no sampling
+        approach can: does this quotation appear anywhere in the entire archive?
+        Not in the expected source. Anywhere. An answer that quotes a document I
+        did not predict is fine. An answer that quotes nothing we hold is not.
+      </p>
+
+      <p class="my-5">
+        The other thing that helps is the metadata layer, which was built for
+        cataloguing and turned out to be the more useful half. We know which of
+        the 695 profiled people are credited as authors and which are only
+        mentioned. We know which works carry a summary, which carry per-article
+        text, which have a PDF. That is what let me generate a whole category of
+        questions from the ontology instead of writing them, and generated
+        questions cannot be quietly tuned to flatter the system.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">The questions</h2>
+
+      <p class="my-5">
+        {pool.counts.questions} of them, along three axes. Which tier the answer
+        lives in. Whether the question names its source or leaves the agent to
+        find it. And the shape: one source, several, a needle, or nothing at all.
+      </p>
+
+      <p class="my-5">
+        Most of the pool is blind, which was a late decision and the right one.
+        My first draft named the source in every question, and it was measuring
+        the wrong thing. Nobody arrives at an archive knowing what is in it. They
+        arrive with a half-remembered idea about price controls in the 1970s.
+        A question that already names the pamphlet tests whether an agent can
+        format a citation. A question that does not tests whether any of this
+        was worth building.
+      </p>
+
+      <p class="my-5">
+        The needles are picked by arithmetic rather than taste. Every paragraph
+        is scored by how many of its words appear in two or fewer documents
+        across the corpus, and the rarest paragraph in each document becomes a
+        candidate. That surfaces the things only a real search will find: a
+        figure, a school, a place name that occurs once. It also surfaced a bug.
+        The first version scored tracking parameters inside markdown link URLs as
+        the rarest terms in the archive, so my hardest questions were about
+        base64 query strings. Stripping link targets fixed it, and it is a good
+        illustration of why generated questions still need looking at.
+      </p>
+
+      <p class="my-5">
+        A last group asks what the archive holds from a year it holds nothing
+        from. The corpus runs from 1850 to 2026 and ninety-seven years inside
+        that range are empty, 1947 among them. The question presumes there is
+        something, because that is how the question gets asked, and the only
+        correct answer says there is not.
+      </p>
+
+      <p class="my-5">
+        That cell took three goes, and the story is the whole argument in
+        miniature. My first version asked what somebody wrote, choosing people
+        the archive profiles but credits with no work. Thirty questions, and the
+        agents scored 28 percent. Twenty-one answers looked like invention. I
+        was ready to write it up as a finding about model overconfidence.
+      </p>
+
+      <p class="my-5">
+        Then I read the answers. The archive holds a book review by Principal
+        G. R. Dalvi in the December 1954 <em>Freedom First</em>. It holds a 1962
+        Forum of Free Enterprise pamphlet by Professor G. Carl Wiegand, filed
+        under a slug that misspells him as Weiland because that is how the
+        scanned title page reads. It holds a musing reproducing Sriraj
+        Meghrajji's 1967 Lok Sabha speech, and four recorded monologues by
+        Nimish Adhia. The agents had found all of it. My answer key was wrong.
+      </p>
+
+      <p class="my-5">
+        The grader was wrong too, in the opposite direction: six answers said
+        plainly that we hold nothing by the person and then pointed at where
+        they do appear, which is a better answer than a bare denial, and I was
+        scoring it as fabrication because it contained a link.
+      </p>
+
+      <p class="my-5">
+        What finished the design off was trying to fix it properly. Authorship
+        in this corpus is recorded four different ways. A periodical credits
+        contributors in their own block, often as a loose name string with no
+        link to any profile. The search index leaves the author field empty for
+        curated excerpts. A recorded talk never lists its speaker as an author
+        at all, so by the metadata Nimish Adhia wrote nothing while the archive
+        holds four of his talks. When I tightened the check far enough to
+        trust it, it excluded every profiled figure in the archive, and the cell
+        had no population left.
+      </p>
+
+      <p class="my-5">
+        So the question changed. A year is one field with one meaning, and
+        whether the archive holds anything from 1947 is settled by a single pass
+        over the metadata. I would rather ask a narrower question I can answer
+        exactly than a richer one I cannot. The cost is that this cell now tests
+        less than I wanted it to, and the honest thing is to say so on the page
+        rather than let a broad-sounding claim rest on a check that does not
+        hold.
+      </p>
+
+      <p class="my-5">
+        I am labouring this because a benchmark that scores its own system has
+        one failure mode worth real worry, and it is not the one people expect.
+        The risk is not only that you flatter yourself. It is that a bug in your
+        answer key produces a dramatic negative result, and dramatic negative
+        results are the ones nobody thinks to check. Twenty-eight percent looked
+        like a finding. It was my own errors, stacked, and the only reason I
+        caught them is that I went and read what the agents had written.
+      </p>
+
+      {has && (
+        <>
+          <h2 class="mt-10 mb-3 font-(family-name:--font-display)">What came back</h2>
+
+          <p class="my-5">
+            Three numbers, because one would flatter. {pct(r.summary.loose)} of
+            questions had the right source named somewhere in the answer.
+            {" "}{pct(r.summary.graded)} had it cited properly, which is the
+            figure I would stand behind. {pct(r.summary.strict)} survives the
+            additional demand that the agent's own tool trace show it fetched
+            the paragraph it cited.
+          </p>
+
+          <p class="my-5">
+            The gap between the first and second numbers is the interesting one.
+            An agent can name a work it never opened, and if I published only the
+            loose figure the archive would look considerably better than it is.
+            Falsafa found the same gap and reported it, and I would rather keep
+            that habit than lose it the first time it costs us something.
+          </p>
+
+          <p class="my-5">
+            Retrieval is in better shape than I expected. The needle questions
+            scored {needles ? pct(needles.graded) : "highest of any cell"}, which
+            says the search surface finds an obscure fact buried in one paragraph
+            of one document when nothing in the question points at it.
+            {blind && named && (
+              <span>
+                {" "}Blind questions came in at {pct(blind.graded)} against{" "}
+                {pct(named.graded)} for questions that named their source, a
+                smaller penalty than I would have guessed.
+              </span>
+            )}
+          </p>
+
+          <p class="my-5">
+            The headline result is the one with no gap in it at all.{" "}
+            {r.summary.violations === 0
+              ? "Across the whole pool, not one answer put words in a primary work's mouth that the archive does not publish. Zero fabricated quotations."
+              : `${r.summary.violations} answers quoted text the archive does not publish.`}
+            {" "}
+            {abstention.length > 0 && fabricated === 0
+              ? "And on the questions about people we hold nothing by, no answer invented a work to fill the gap."
+              : abstention.length > 0
+                ? `On the questions about people we hold nothing by, ${fabricated} answers cited a work anyway.`
+                : ""}
+          </p>
+
+          <p class="my-5">
+            I want to be careful about what that does and does not show. It does
+            not show that models will not fabricate. It shows that when the
+            contract is written down plainly and the retrieval surface refuses to
+            hand over text it does not trust, a competent agent follows the rule.
+            That is a claim about the design, not about the model, and it is the
+            claim the archive was built on.
+          </p>
+        </>
+      )}
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">Three things I did not enjoy finding</h2>
+
+      <p class="my-5">
+        Building the pool meant reading our own metadata more carefully than we
+        ever had, and it turned up problems that had been sitting there quietly.
+      </p>
+
+      <p class="my-5">
+        436 of 695 thinker profiles, and 49 of 52 organisation pages, contain no
+        prose at all. They are frontmatter: a name, a tradition, a classification,
+        rendered as a block of JSON. Our own instructions tell agents that all of
+        Tier A carries paragraph-stable citations, and for those 485 pages there
+        is nothing to cite. Nobody had noticed because nobody had tried to cite
+        them at scale. The pool draws Tier A questions only from pages that
+        genuinely carry anchors, so the score is not diluted, but the
+        inconsistency is real and it is ours.
+      </p>
+
+      <p class="my-5">
+        The second is worse in a quieter way, and it is the one thing here I
+        would call a genuine improvement rather than a repair. Ask the tool layer
+        for the body of a Tier B work and it refused, saying no trusted body text
+        exists. Meanwhile the site was serving key-point digests for 1,515 works
+        and per-article summaries for 781 of them, in the markdown body whose
+        address that same response hands you. We told an agent the text was not
+        there and gave it the address in the same breath. A third of the pool
+        needed detail on the far side of it.
+      </p>
+
+      <p class="my-5">
+        That is fixed now: the digests and the per-article summaries come back
+        from <code class="font-(family-name:--font-mono) text-sm">get_work_metadata</code>,
+        and the refusal says what is true, which is that no transcribed source
+        text exists. The two-tier claim is untouched by this. What we publish for
+        a scanned work is still summary prose written by our own pipeline, still
+        something to attribute rather than quote. It was simply unreachable, and
+        an archive that hides its own summaries from the tools it publishes is
+        not being careful, it is being obscure.
+      </p>
+
+      <p class="my-5">
+        The third one predates the eval. In multi-article issues, the article
+        headings and bylines had drifted out of step with the summaries beneath
+        them, so pages were crediting articles to the wrong authors. We had an
+        estimate of 234 affected files from a heuristic detector. When I measured
+        it properly the detector turned out to be about half right: 127 of its
+        234 were real, and it had missed 37 files it never flagged. The true
+        figure is 164 files. Had we trusted the estimate and run a bulk fix, we
+        would have corrupted around a hundred files that were fine.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">On not cheating</h2>
+
+      <p class="my-5">
+        A benchmark you build and also score is worth exactly as much as the care
+        you take not to rig it, so here is what we did. The pool was frozen
+        before the run. The agents answering it received the question text and
+        nothing else: no expected sources, no anchors, no required strings. They
+        were given our public instructions for agents and the same tools any
+        reader's agent gets, and were told nothing about the rubric. The grader
+        was written before the answers existed and was not touched afterwards to
+        move a number.
+      </p>
+
+      <p class="my-5">
+        It was changed four times while answers existed, and all four are in
+        the history. Three because it was wrong in a way that hurt the score:
+        Tier A citations were not being detected at all, the honesty check was
+        failing answers for quoting an article title or for inserting a
+        bracketed clarification into a real quotation, and the abstention check
+        was failing answers that correctly denied authorship and then said where
+        the person does appear. Once because it was wrong in a way that helped,
+        which is the answer key described above. The rule I held to was that a change had to be justifiable
+        without knowing which direction it moved the number, and the whole pool
+        is published so anyone who thinks the questions are soft can point at
+        the ones they mean.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">What it does not measure</h2>
+
+      <p class="my-5">
+        Factual correctness, for one. The grader checks whether the right sources
+        were found and cited honestly, not whether every sentence around them is
+        true. A well-cited answer with a wrong date scores full marks.
+      </p>
+
+      <p class="my-5">
+        The strict score trusts the tool trace the agent reports about itself. A
+        cooperative agent reports it faithfully. An adversarial one could lie,
+        and I could not catch it. The graded figure does not use the trace at
+        all, which is why that one is the headline.
+      </p>
+
+      <p class="my-5">
+        And this is one model on one day. It is a measurement of the archive
+        under a particular agent, not a law about agents. The useful version of
+        this number is the one taken again in six months against something else,
+        which is why the pool is frozen and public rather than described.
+      </p>
+
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">Why bother</h2>
+
+      <p class="my-5">
+        The archive is meant to be cited. Not browsed, not chatted with. Cited,
+        by people writing things that other people will read, about a tradition
+        that has been badly served by not having its primary sources in one
+        place. That only works if a citation pointing here resolves to something
+        real, and if the boundary between what we can vouch for and what we
+        cannot is legible to whatever is doing the reading.
+      </p>
+
+      <p class="my-5">
+        A number on a page is a modest thing to offer against that. But it is
+        checkable, which the promise on its own was not.
+      </p>
+    </div>
+
+    <p class="mt-12 pt-6 border-t border-(--color-border) text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
+      The question pool is at <a href="/eval/pool.json" class="text-(--color-forest-700) font-(family-name:--font-mono)">/eval/pool.json</a>,
+      the graded run at <a href="/eval/results.json" class="text-(--color-forest-700) font-(family-name:--font-mono)">/eval/results.json</a>,
+      and the harness in <span class="font-(family-name:--font-mono)">scripts/eval/</span> of the site repository.
+    </p>
+  </article>
+</BaseLayout>

@@ -1,0 +1,80 @@
+{
+ "batch": 27,
+ "cell": {
+  "tier": "mixed",
+  "retrieval": "blind",
+  "shape": "multi"
+ },
+ "questions": [
+  {
+   "id": "il-0246",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One text reproduces a Lok Sabha speech that leans on a landmark Supreme Court judgement to argue that Parliament cannot touch a specific part of the Constitution. Another text is a magazine's contemporary notes column praising a later Supreme Court ruling that struck down government restrictions on newspapers. Which part of the Constitution did the 1967 judgement place beyond Parliament's reach, and which advocate does the notes column credit with winning the newspaper case?",
+   "expected": {
+    "docs": ["musings:fundamental-rights-protection-against-tyranny", "primary-works:ff247"],
+    "paragraph_ids": { "musings:fundamental-rights-protection-against-tyranny": ["p-0512c4"] },
+    "pdf_urls": { "primary-works:ff247": "https://archive.indianliberals.in/freedom-first/freedom-first-dec1-1972.pdf" },
+    "answer_must_contain": ["Part III", "Palkhivala"]
+   },
+   "rationale": "The speech's paragraph names Part III as the shielded portion of the Constitution, and only the Freedom First notes column credits Palkhivala for the newsprint-policy victory; a full answer needs both."
+  },
+  {
+   "id": "il-0247",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One profile records its subject taking a brief hiatus from his career in the late 1940s to become India's first ambassador to a large South American country. A separate pamphlet on regional-development policy abroad names that same country's federal agency and development bank set up to combat backwardness in its poorer regions. Name the agency and the bank the pamphlet credits, and give the two years during which the profiled figure served as that country's ambassador.",
+   "expected": {
+    "docs": ["thinkers:minoo-masani", "primary-works:economic-development-of-backward-areas-d-r-pendse-september-14-1976"],
+    "paragraph_ids": { "thinkers:minoo-masani": ["p-04e457"] },
+    "pdf_urls": { "primary-works:economic-development-of-backward-areas-d-r-pendse-september-14-1976": "https://archive.indianliberals.in/forum-of-free-enterprise/economic-development-of-backward-areas-d-r-pendse-september-14-1976.pdf" },
+    "answer_must_contain": ["SUDENE", "Banco do Nordeste", "1948"]
+   },
+   "rationale": "Only the profile identifies Brazil and the 1948-1949 posting; only the pamphlet's comparative survey, among several countries, names SUDENE and the Banco do Nordeste as Brazil's mechanism."
+  },
+  {
+   "id": "il-0248",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "In one text, the head of an international lender moderates a heated exchange between a government minister and a foreign bank's chief executive over whether well-designed policy is, by itself, enough to attract infrastructure investment. In a separate anthology of pro-market essays, a Soviet-era statistic is cited showing that a tiny share of privately held farmland produced a full third of the country's total agricultural output. Name the international lender the moderator heads, and give the percentage of Soviet cultivated land that was privately held according to that statistic.",
+   "expected": {
+    "docs": ["musings:piyush-vs-piyush-beautiful-policies-are-not-enough", "primary-works:essays-by-foreign-economists-august-1971"],
+    "paragraph_ids": { "musings:piyush-vs-piyush-beautiful-policies-are-not-enough": ["p-d4a0d4"] },
+    "pdf_urls": { "primary-works:essays-by-foreign-economists-august-1971": "https://archive.indianliberals.in/forum-of-free-enterprise/essays-by-foreign-economists-august-1971.pdf" },
+    "answer_must_contain": ["Asian Infrastructure Investment Bank", "three percent"]
+   },
+   "rationale": "Only the AIIB panel account names the lender the moderator heads; only the essay anthology's Soviet statistic gives the three-percent figure — neither source alone answers both parts."
+  },
+  {
+   "id": "il-0249",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One text names a car whose styling barely changed across 40 years of Indian production, citing it as the textbook case of an 'infant industry' that never grew up under import protection. A separate magazine's editorial, published soon after a border war with a large neighbour, mourns the collapse of a Hindi-language phrase that had proclaimed brotherhood with that neighbour. Name the car and the British model it was based on, and give the Hindi phrase the editorial mourns.",
+   "expected": {
+    "docs": ["musings:india-seeing-the-future-in-its-past", "primary-works:the-indian-libertarian-jan1-1963"],
+    "paragraph_ids": { "musings:india-seeing-the-future-in-its-past": ["p-1712d9"] },
+    "pdf_urls": { "primary-works:the-indian-libertarian-jan1-1963": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan1-1963.pdf" },
+    "answer_must_contain": ["Oxford Morris", "Hindi-Chini-bhai-bhai"]
+   },
+   "rationale": "The car and its Oxford Morris origin appear only in the reform-history speech; the mourned brotherhood phrase appears only in the 1963 periodical's editorial on the China war's aftermath."
+  },
+  {
+   "id": "il-0250",
+   "tier": "mixed",
+   "retrieval": "blind",
+   "shape": "multi",
+   "question": "One text criticises Indian policy-makers for only ever learning from their own past learning, illustrating the point with a specific book review, published in a financial daily on a specific date, of a planning economist's book. A separate, older periodical issue is dominated by the collapse of a five-principles doctrine of peaceful coexistence with a northern neighbour, following a Himalayan ruler's flight into India. Name the book under review and the exact date the review appeared, and name the doctrine that collapsed.",
+   "expected": {
+    "docs": ["musings:obstacles-to-liberalisation-and-market-economy", "primary-works:the-indian-libertarian-jun1-1959"],
+    "paragraph_ids": { "musings:obstacles-to-liberalisation-and-market-economy": ["p-4776bf"] },
+    "pdf_urls": { "primary-works:the-indian-libertarian-jun1-1959": "https://archive.indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1959.pdf" },
+    "answer_must_contain": ["Development Planning", "11th January 1988", "Panchsheela"]
+   },
+   "rationale": "The book title and review date come only from the 1992 liberalisation keynote; the doctrine's name comes only from the 1959 periodical's Tibet-crisis coverage."
+  }
+ ]
+}

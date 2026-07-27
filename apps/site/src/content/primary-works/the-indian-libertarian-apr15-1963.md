@@ -94,6 +94,7 @@ The Indian Libertarian, Vol. XI No. 2 (15 April 1963), is a fortnightly periodic
 ## Essays
 
 ### EDITORIAL: Who is Complacent Please, People or The Government?
+
 The unsigned editorial answers President Radhakrishnan's recent charge that the public is complacent by inverting it: the real complacency, it argues, lies in the Congress government's own conduct. Radhakrishnan's address is read as an admission that planning has failed and that the economy must lean on private effort, but the editorial contends he stopped short of naming the source of the problem — the ruling party and its leaders. It catalogues recent failures: the people's swift response to the Chinese aggression contrasted with the government's slow appeals; the 'vicious system' in the Defence Ministry that produced the Krishna Menon debacle; zig-zags between non-alignment, the Commonwealth and African solidarity; and a feeble Indian stance on the Ganges river-waters dispute with Pakistan. The editorial ends by demanding the government 'set its house in order' before lecturing citizens on complacency, and prints a sidebar of liberty quotations under the head 'Food for Thought.'
 
 - Frames President Radhakrishnan's complaint about public complacency as an indictment that properly belongs to the Congress government itself.
@@ -115,7 +116,7 @@ M. A. Venkata Rao argues that successful nation-building cannot rest on a 'herd 
 - Treats genuine nation-building as requiring continuity with the country's own civilisational inheritance.
 
 ### Ghosts of History
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal's column 'Ghosts of History' revisits long-buried All-India Congress Committee resolutions to argue that today's Congress and Swatantra Party leaderships are haunted by positions they once took and have since disowned. Tholal walks through the 1924 special session of the Congress and Mahatma Gandhi's later account of it in India Wins Freedom (he discusses Maulana Azad's framing as well), and through Working Committee decisions of 1928–29 on Bengal, Maharashtra and Muslim representation. The point is polemical: present-day quarrels about minority safeguards, language and federalism are not new, and the resolutions of the 1920s and 1930s — including ones associated with Mohamed Ali, Subhas Chandra Bose's brother, and the Bengal leadership — already laid out the trade-offs that contemporary politicians pretend to be discovering. Tholal's tone is wry; the 'ghosts' are old votes that current actors would rather forget.
 
@@ -137,7 +138,7 @@ Prof. G. N. Lawande opens the Economic Supplement with an essay arguing that the
 - Frames full employment, not heavy industry, as the proper first target of Indian planning.
 
 ### After Nehru Who?
-*By By A. G. Noorani*
+*By A. G. Noorani*
 
 An unsigned piece reprinted from The Standard (Australia) diagnoses Britain as a 'giant invalid' whose post-war decline cannot be hidden by talk of the Common Market. The article traces the long arc of British weakness — the loss of empire, dependence on imported food and raw materials, the welfare state's tax burden, recurrent sterling crises and the country's tendency to live above its means — and argues that Common Market entry, far from curing the malady, would simply transfer Britain's economic guardianship to continental partners. The piece is offered to Indian readers as a cautionary tale about over-reliance on protection, planning and external props rather than productive vigour.
 
@@ -147,6 +148,7 @@ An unsigned piece reprinted from The Standard (Australia) diagnoses Britain as a
 - Offers the British case as a warning to India about over-reliance on protection and central direction.
 
 ### DELHI LETTER: Malaviya And Mineral Ores
+
 Austen Nazareth argues that small business is the natural keystone of any developing economy, including India's. He surveys recent United States Senate findings on the role of small enterprise in American growth, citing the 1957–58 Senate Small Business Committee's documentation of small firms as drivers of employment, innovation and competitive discipline. He extends the argument to Latin America, Turkey, Pakistan and India: in each case, he contends, the visible bias of credit, foreign-exchange allocation and licensing toward large enterprise has held back the very segment that creates the most jobs per unit of investment. The remedy, in Nazareth's reading, is not subsidy but the removal of policy discrimination — credit, raw materials and licences distributed on neutral terms — so that the small entrepreneur, the most efficient absorber of labour, can do the heavy lifting of development.
 
 - Treats small business as central, not peripheral, to development strategy.
@@ -156,6 +158,7 @@ Austen Nazareth argues that small business is the natural keystone of any develo
 - Recommends neutral policy rather than subsidy as the remedy.
 
 ### Book Review
+
 A. G. Noorani opens his succession survey with a Laski-style maxim that a great leader's success is measured by how dispensable he has made himself, and proceeds to ask whether Jawaharlal Nehru has done so. He runs through the obvious candidates — Morarji Desai, Y. B. Chavan, Lal Bahadur Shastri, T. T. Krishnamachari, Indira Gandhi — and assesses each on temperament, factional support inside the Congress, and capacity to hold the party together once the founder is gone. Noorani is sceptical that any single figure commands the breadth Nehru enjoyed and warns that the immediate post-Nehru phase is likely to be one of coalitional bargaining inside the Congress Parliamentary Party rather than a clean handover. The piece is a survey, not a prediction: Noorani avoids endorsing a candidate and instead maps the field.
 
 - Asks whether Nehru has made himself dispensable in the sense Laski recommended.
@@ -163,7 +166,8 @@ A. G. Noorani opens his succession survey with a Laski-style maxim that a great 
 - Stresses internal Congress Parliamentary Party dynamics over public popularity.
 - Predicts a phase of coalitional bargaining rather than a clean handover.
 
-### Gleanings from the Press
+### From Our Correspondent,
+
 The Delhi Letter, signed 'From Our Correspondent,' walks through the K. D. Malaviya mineral-ores controversy. The Union Minister for Mines and Oil is accused of behind-the-scenes interference in contract awards relating to mineral exports, and the column tracks the political fallout inside the Congress Parliamentary Party as members demand an explanation. The correspondent reports that the Prime Minister, Jawaharlal Nehru, sought a quick way to defuse the affair, that Lal Bahadur Shastri was drawn in as a senior moderator, and that Acharya Kripalani led the parliamentary attack. The letter situates the affair within the larger pattern of corruption charges that have shadowed the Congress ministry and reads it as a test of the party's willingness to police its own.
 
 - Reports on the Malaviya mineral-ores affair as a fresh corruption test for the Congress ministry.
@@ -172,7 +176,8 @@ The Delhi Letter, signed 'From Our Correspondent,' walks through the K. D. Malav
 - Identifies Acharya Kripalani as the leading parliamentary critic.
 - Reads the episode as symptomatic of recurring ministerial scandals.
 
-### News & Views
+### s speeches and writings (published by Bharatiya Vidya Bhavan). The reviewer treats Vinoba
+
 A short book review covers Democratic Values, a collection of Acharya Vinoba Bhave's speeches and writings (published by Bharatiya Vidya Bhavan). The reviewer treats Vinoba's case for non-violent, decentralised democracy with respect but also with reservation: while welcoming his emphasis on individual moral responsibility and grassroots Sarvodaya organisation, the review questions whether a programme so dependent on voluntary self-government can survive the demands of a modern state with planning, defence and external policy obligations. The notice ends by recommending the volume as an articulate statement of Gandhian political philosophy even for readers who, like the journal, do not share its premises.
 
 - Reviews Democratic Values, a collected volume of Acharya Vinoba Bhave's speeches.
@@ -180,7 +185,8 @@ A short book review covers Democratic Values, a collection of Acharya Vinoba Bha
 - Questions whether Sarvodaya voluntarism can carry the burdens of a modern state.
 - Recommends the book as the clearest available statement of the Gandhian political case.
 
-### Dear Editor
+### Gleanings from the Press
+
 The combined 'Gleanings from the Press' and 'News & Views' pages collect press extracts and short news items. The lead gleaning, 'Reverence Overdone,' protests the elaborate ceremonial cultivated around senior politicians; another piece is headed 'Thank God I Was Tired In India.' Short news items report from Geneva (a joint Soviet-American test ban proposal), Washington (USA Food to Stand Aside from Free Nations and Kennedy), Moscow (USSR announces Red China detente moves), New York (further private American investment in newly unblocked countries), Guatemala (army units seize power), and on a sharp decline in China's trade with Red nations. The page also notes a draft bill granting associate status to foreign English-language journalism.
 
 - Carries press extracts under the heading 'Reverence Overdone' criticising political ceremony.
@@ -190,7 +196,16 @@ The combined 'Gleanings from the Press' and 'News & Views' pages collect press e
 - Reports an army seizure of power in Guatemala.
 - Reports a sharp decline in China's trade with other Red nations.
 
+### News & Views
+
+*No summary was extracted for this article. Listed for completeness.*
+
+### Dear Editor
+
+*No summary was extracted for this article. Listed for completeness.*
+
 ### Essay 11
+
 The Dear Editor page is dominated by the language controversy. A letter signed Nautamlal C. Tejpal argues against forcing Hindi on the southern states and defends the journal's masthead campaign to make English the lingua franca of India on practical, not ideological, grounds: English is already the working medium of higher education, the courts, the central administration and inter-state business, and an artificial Hindi imposition would deepen southern resentment rather than build national feeling. A short notice from the Libertarian Social Institute, Bangalore, closes the page.
 
 - Devotes the letters page to the national-language controversy.

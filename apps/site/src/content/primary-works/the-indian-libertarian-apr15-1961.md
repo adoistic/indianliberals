@@ -113,7 +113,7 @@ M. A. Venkata Rao opens a serialised civic-education essay on the historical ori
 - Frames the Indian voter's task as a moral as well as political responsibility.
 
 ### Nehru Facing Both Ways
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal accuses Nehru of facing both ways in foreign policy: courting the Soviet bloc rhetorically while seeking Western economic aid, and posturing as a peacemaker abroad while accommodating Chinese encroachments on Indian territory. Tholal contrasts Nehru with Sardar Patel, invokes Patel's deathbed warnings about Chinese intentions, and argues that the government's reaction to the loss of Aksai Chin and the McMahon line dispute shows a chronic unwillingness to take a stand. The essay ends by asking whether India is heading toward a military alliance or a non-aligned bloc of its own.
 
@@ -123,7 +123,7 @@ M. N. Tholal accuses Nehru of facing both ways in foreign policy: courting the S
 - Questions whether India can sustain non-alignment without either an alliance or a bloc of its own.
 
 ### True Conundrum Of Government
-*By By Stephen Pearl Andrews*
+*By Stephen Pearl Andrews*
 
 A reprint of Stephen Pearl Andrews's nineteenth-century essay 'True Functions of Government' argues that the only legitimate function of government is to protect the sovereignty of the individual. Andrews develops a Protestant analogy: just as the Reformation asserted the individual's right of private judgement in matters of conscience, modern political liberty rests on the individual's right of private judgement in matters of social and economic life. He contends that government overreach in regulation, taxation and 'protection' of industry inevitably produces the very disorders it claims to prevent.
 
@@ -141,7 +141,7 @@ The Economic Supplement opens with a 'Declaration Of Principle And Policy: For t
 - Frames the libertarian land programme as a path to ending involuntary poverty without redistributive coercion.
 
 ### Economic Supplement — Land Value Taxation In Practice
-*By By D. M. Kulkarni*
+*By D. M. Kulkarni*
 
 D. M. Kulkarni's 'Land Value Taxation In Practice' surveys real-world experiments with the Henry George idea. He cites the State of Pennsylvania's graded property tax, the Australian states and New Zealand, the city of Vienna under Henry George's son, and post-war German municipalities, arguing that wherever the system has been seriously tried it has improved building activity, broadened revenue and discouraged land speculation. The essay positions land-value taxation as the practical bridge between the libertarian declaration of principle and contemporary Indian fiscal reform.
 

@@ -116,7 +116,7 @@ M. A. Venkata Rao reads the Bhubaneswar session of the Congress as the moment wh
 - Warns that dialectical inevitability is being mistaken for economic argument.
 
 ### Feudal Cart Before The Socialist Horse
-*By By M. N. Tholal*
+*By M. N. Tholal*
 
 M. N. Tholal argues that India is trying to harness a socialist horse to a feudal cart: the Soviet model of collectivised, planned development assumes a developed industrial base and a disciplined wage-earning population, neither of which Indian conditions actually supply. Drawing on Khrushchev's own remarks about peaceful coexistence and on the recent record of Chinese and Pakistani conduct, Tholal contends that copying Communist methods without their pre-conditions delivers neither the productivity gains of capitalism nor the egalitarian discipline of socialism. The essay culminates in a defence of property rights as the social precondition of any genuine economic reform.
 
@@ -126,7 +126,7 @@ M. N. Tholal argues that India is trying to harness a socialist horse to a feuda
 - Property rights are framed as the missing institutional anchor for any workable Indian reform.
 
 ### International Chamber of Commerce
-*By By Morarji J. Vaiyda*
+*By Morarji J. Vaiyda*
 
 Morarji J. Vaiyda, President of the Indian Council of Foreign Trade, offers an institutional sketch of the International Chamber of Commerce and its network of national committees, including India's. He describes the ICC's seven specialised commissions — on banking, transport, restrictive business practices, distribution, advertising, taxation and arbitration — and stresses the Chamber's role at GATT, at the UN Commission on International Commodity Trade and at UNCTAD as the chief organised voice of private enterprise in multilateral economic forums. The essay treats the ICC as a model for what an organised Indian commercial community can become if it learns to speak through credible institutional channels.
 
@@ -146,7 +146,7 @@ The Delhi Letter argues that the Kamaraj Plan has functioned less as organisatio
 - Asoka Mehta's defence of the U.P.S.C. (state public sector) is treated as ideologically symptomatic.
 
 ### Picture of Nehru As a Communist
-*By By J. M. Lobo Prabhu*
+*By J. M. Lobo Prabhu*
 
 J. M. Lobo Prabhu, taking off from Sitaram Goel's recent book defending V. K. Krishna Menon, argues that the practical record of Indian foreign and economic policy under Nehru — non-alignment that tilts against the Anglo-American bloc, growing state ownership, deep economic engagement with Communist states, and rhetorical solidarity with the Soviet position — produces a picture of Nehru as a Communist in conduct if not in label. The essay reads recent gestures toward Pakistan and the handling of the Kashmir question as further evidence and treats the public sector's expansion as the domestic counterpart of that foreign orientation.
 
@@ -156,7 +156,7 @@ J. M. Lobo Prabhu, taking off from Sitaram Goel's recent book defending V. K. Kr
 - Argues the picture cannot be explained away by tactical considerations or diplomatic balance.
 
 ### Book Reveiw
-*By By John Chamberlain*
+*By John Chamberlain*
 
 The Book Review notice covers John Chamberlain's "The Sickness of Socialised Medicine," using the British National Health Service experience under Aneurin Bevan to argue that state monopolies in healthcare degrade both supply and the doctor–patient relationship. The reviewer commends Chamberlain's framing as a warning to Indian planners who think a state-run medical system would solve access and equity problems and would not produce the rationing, queueing and quality decline visible in Britain.
 

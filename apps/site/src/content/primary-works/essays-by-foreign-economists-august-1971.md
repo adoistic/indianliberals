@@ -196,7 +196,7 @@ Essays by Foreign Economists is a compilation published in August 1971 by the Fo
 ## Essays
 
 ### Myths that keep People Hungry
-*By By Prof. Milton Friedman*
+*By Prof. Milton Friedman*
 
 Drawing on a year-long journey with his wife through Eastern Europe, the Middle East and the Far East, Friedman lays out, in the rendered pages, the central contention that wherever private markets organise economic activity ordinary people enjoy material progress and personal freedom, and wherever the state controls economic life in detail the ordinary citizen becomes 'an instrument to be used for the state's purpose'. He walks the reader through a chain of comparisons — West and East Germany, Israel and Egypt, Singapore and Indonesia, Malaya and India, Yugoslavia and Russia — to argue that the difference in outcomes reflects the difference in economic organisation rather than resources or culture.
 
@@ -210,7 +210,7 @@ The heart of the essay in the rendered pages is a sustained contrast between Jap
 - He closes by warning that the prevailing climate of opinion hostile to market arrangements, transmitted from the affluent West to less-developed nations, may consign mankind to 'a renewed era of universal tyranny and misery'.
 
 ### Economic Democracy
-*By By B. A. Tarlton*
+*By B. A. Tarlton*
 
 Tarlton, an economist with the Associated Chambers of Commerce and Industries in Calcutta, opens his 1968 lecture by taking stock of India's mood after two decades of planning. In the rendered pages he notes that the 'sunlit plateaus of prosperity' once promised by the politicians have given way to disillusion: average living standards have not significantly improved, unemployment and the foreign trade deficit have risen, and India, a net international creditor of over Rs. 700 crores at the start of the Second Five Year Plan in 1956, had become a net international debtor of over Rs. 5,000 crores by 1968. The Planning Commission, he observes, has been cut down in size and confined to advisory functions, and the Fourth Plan shelved for three years.
 

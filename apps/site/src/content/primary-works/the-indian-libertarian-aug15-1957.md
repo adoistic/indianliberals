@@ -101,6 +101,12 @@ This is the Independence Day Special issue of The Indian Libertarian (Vol. V, No
 ## Essays
 
 ### Essay 0
+
+*No summary was extracted for this article. Listed for completeness.*
+
+### EDITORIAL
+*By MA Venkata Rao*
+
 The unsigned editorial groups three short leaders. The lead piece argues that India has no business condemning the British military action in Oman, calling Krishna Menon's statement that the action was 'unfortunate' an uncalled-for piece of moralising that sets back Indo-British amity. A second leader on the Indus Canal Waters dispute with Pakistan urges that the Planning Commission be obliged to weight Pakistani objections honestly rather than treat the issue as settled. A third notes Major-General Akbar Khan's plan to recover Kashmir by what the editorial calls 'subversion' and warns that the Indian government should treat the proposal as a serious threat.
 
 - Disowns Indian moral commentary on British action in Oman as gratuitous and harmful to Indo-British relations.
@@ -108,8 +114,8 @@ The unsigned editorial groups three short leaders. The lead piece argues that In
 - Asks for an honest accounting of Pakistani objections in the Indus Canal waters dispute.
 - Treats Major-General Akbar Khan's 'subversion plan' for Kashmir as a serious strategic threat.
 
-### EDITORIAL
-*By MA Venkata Rao*
+### Independence Day—Looking Before and After
+*By M. A. Venkata Rao*
 
 Venkata Rao opens the issue's reflective essays by treating the tenth Independence Day as an occasion for sober stocks-taking rather than self-congratulation. He reads the year's dominant event — the linguistic reorganisation of the States, with Karnataka, the merged Bombay-Hyderabad-Madras-into-Karnataka belt, and Madhya Pradesh emerging — as a tutorial in the dangers of yielding political design to ethnic and linguistic feeling. He warns that mass passion and 'fissiparous tendencies' are colonising the constitutional achievement of unity, and he urges that linguistic identity be channelled into cultural rather than political life. He proposes English as the federal link language and a renewed pluralism as the real defence against the Soviet style of regimented unity that he fears Nehruvian policy is approaching.
 
@@ -119,8 +125,8 @@ Venkata Rao opens the issue's reflective essays by treating the tenth Independen
 - English as a federal link language is the practical antidote to language-nationalism.
 - Soviet-style enforced unity is the wrong model; pluralist federalism is the right one.
 
-### Independence Day—Looking Before and After
-*By By M. A. Venkata Rao*
+### A Decade Of "Donated" Freedom
+*By J. K. Dhairyawan*
 
 Dhairyawan delivers the issue's sharpest polemic against the nationalist self-image. He argues that Indians have inherited a sentimental and false narrative — that freedom was 'won' by the Congress's non-violent agitation and the Quit India movement — when in reality independence was 'donated' to India by a Britain exhausted by the Second World War and ideologically committed, under the Labour government, to decolonisation. The 'last nail in the coffin of imperialism' was driven, in his telling, not by the Congress but by external military and economic facts. He treats this misreading as morally corrosive: a people who believe their freedom was earned by satyagraha alone will neither pay the price of defending it nor confront the costs of socialist drift.
 
@@ -129,8 +135,8 @@ Dhairyawan delivers the issue's sharpest polemic against the nationalist self-im
 - Treats the orthodox nationalist narrative as a national self-deception with political consequences.
 - Implies that misnaming the past inflates the moral authority of the Congress and underwrites its present policies.
 
-### A Decade Of "Donated" Freedom
-*By By J. K. Dhairyawan*
+### 1957
+*By A Ranganathan*
 
 Sanyal uses the year 1957 as a hinge between Indian history and contemporary politics. He sketches a long arc — empire, the renaissance of national life across the religious, economic and political sectors, the achievement of independence — and then sets it against the present, in which he reads totalitarian symptoms in the rise of Communist power in Kerala and in the Centre's accelerating embrace of state planning. His worry is not merely electoral but civilisational: that India's encounter with Marxism is producing a body politic in which freedom of association, of enterprise and of thought are being silently surrendered for the promise of equality.
 
@@ -139,8 +145,8 @@ Sanyal uses the year 1957 as a hinge between Indian history and contemporary pol
 - Treats Marx as a live, not historical, influence on Indian political imagination.
 - Frames the issue as one of liberty, not only of policy efficacy.
 
-### 1957
-*By A Ranganathan*
+### Independence—And After
+*By A. Ranganathan*
 
 Ranganathan asks whether the Constitution of 1950 — with its preambular promises of Justice, Liberty, Equality and Fraternity, its Fundamental Rights chapter, and its checks on executive power — has held up under a decade of socialist-leaning government. He grants the document its 'revolutionary' character but argues that the rights it enshrines have been steadily narrowed in practice by parliamentary majorities, executive expansion and a permissive jurisprudence. He treats individual rights and the rule of law not as decorative items but as the substantive content of independence; without them, he warns, India's freedom is reduced to a flag and an anthem.
 
@@ -149,8 +155,8 @@ Ranganathan asks whether the Constitution of 1950 — with its preambular promis
 - Argues that a decade of legislation has eroded those rights through amendment and majority politics.
 - Frames constitutional liberalism, not socialist redistribution, as the unfinished Indian project.
 
-### Independence—And After
-*By By A. Ranganathan*
+### Supplement of Research Department of R. L. Foundation (includes "Communism, Capitalism or Co-operation"; "Welfarism and Inequality" by B. S. Sanyal; "Profit-Shy Asians" by K. D. Valicha)
+*By Edited by B. S. Sanyal*
 
 The four-page supplement edited by B. S. Sanyal carries the issue's most explicit theoretical attack on socialism. Its opening piece, 'Communism, Capitalism or Co-operation', argues that communism is 'on the march' because the welfare democracies are smoothing its path; that 'socialism is slavery' because the abolition of private property and the centralisation of economic decision-making destroy the individual's capacity to choose work, employer or way of life; and that 'co-operation' between free citizens, not state direction, is the only humane third way. Two further pieces extend the argument: 'Welfarism and Inequality' (Sanyal) contends that welfarism, by stripping incentives, deepens the very inequalities it claims to cure; and 'Profit-Shy Asians' (Valicha) argues that the Asian aversion to private profit — and the official rhetoric that legitimises it — is the principal cultural obstacle to Indian growth.
 
@@ -160,8 +166,8 @@ The four-page supplement edited by B. S. Sanyal carries the issue's most explici
 - Argues that welfarism produces, rather than reduces, durable inequality.
 - Treats Asian distrust of profit as a self-inflicted brake on growth.
 
-### Supplement of Research Department of R. L. Foundation (includes "Communism, Capitalism or Co-operation"; "Welfarism and Inequality" by B. S. Sanyal; "Profit-Shy Asians" by K. D. Valicha)
-*By Edited by B. S. Sanyal*
+### Integral Independence
+*By "Sudarshan"*
 
 Writing under the pseudonym 'Sudarshan', the author examines what 'integral independence' should mean for a republic ten years old. He treats the Cold War as the central horizon of foreign policy and argues that India's non-alignment has too often slid into postures that benefit one side while the country protests its impartiality. He distinguishes the 'paradox of East and West' — where each bloc claims a monopoly on freedom or on equality — from the middle-class productive backbone he says actually sustains Indian society, and argues that integral independence is impossible without an integral economic policy, which in turn is impossible without the defence of profit, private initiative and a working middle class.
 
@@ -170,8 +176,8 @@ Writing under the pseudonym 'Sudarshan', the author examines what 'integral inde
 - Identifies the middle class as the political and productive backbone of an independent India.
 - Frames welfarism and central planning as silent threats to the political independence won in 1947.
 
-### Integral Independence
-*By By "Sudarshan"*
+### Strategy And Vulpine Effluxion
+*By K. D. Valicha*
 
 Valicha's second piece reads contemporary Indian strategy as a study in evasion. He argues that the government's public stance — the rhetoric of non-alignment, the courting of both Washington and Moscow, the moralism of Bandung — masks a vulpine ('fox-like') manoeuvring that ducks rather than answers the central question of where India belongs in the Cold War. He treats this as a failure of nerve in two registers: a refusal to align openly with the liberal democracies whose constitutional and economic order the Indian republic actually inherits, and a tactical posture that yields concrete advantages to the Soviet bloc while denying that it has done so. The essay closes by calling for an honest strategic doctrine grounded in liberal democracy rather than in postures of moral exception.
 
@@ -180,8 +186,7 @@ Valicha's second piece reads contemporary Indian strategy as a study in evasion.
 - Treats the inherited Westminster-constitutional order as a clue to India's natural alignment.
 - Calls for strategic honesty as the precondition of any serious foreign policy.
 
-### Strategy And Vulpine Effluxion
-*By By K. D. Valicha*
+### Indian News Parade
 
 The 'Indian News Parade' column collects short political briefs from across India and the world. The Indian items rendered here include the Pakistani Prime Minister's renewed offer of a no-war pact and rejection of the 'two-nation' framing, a Congress MLA's split with the party in Andhra Pradesh, a Sheikh Abdullah appeal from detention, and Muslim demands in Kerala for a 'Mahalla' civic representation. International items include a 'Moslem Justice' incident from Beirut, a Soviet aid pledge for India, and notices from the United States. The column functions as a running editorial sampler: each squib carries the journal's pointed framing.
 
