@@ -57,6 +57,11 @@ nothing is unrecoverable.
 Adnan is set up as super admin. Adding the rest of your team is two minutes in
 the People screen — no code, no tickets to us.
 
+One expectation worth setting with your editors: a save is instant, but the
+site takes about half an hour to show it, because the whole archive rebuilds
+and Cloudflare runs those builds one at a time. Nothing is lost in the wait and
+nobody needs to sit watching the screen. The CMS says so on the page.
+
 **Things we found and fixed along the way that were not in the brief.** The
 extraction pipeline had a misjoin that put the wrong headings against the wrong
 articles across the periodical corpus; it affected 7% of sections and is now at

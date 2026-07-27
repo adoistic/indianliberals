@@ -192,6 +192,14 @@ navigation counts all languages (1,575 primary works, 79 ThePrint) while
 `/api/meta.json` counts English only (1,531 and 56). Both are correct; neither
 says which it is.
 
+**A save takes about half an hour to appear.** A full site build runs roughly
+twenty-five minutes — 2,700-odd pages plus the Pagefind index — and Cloudflare
+runs them one at a time, so three saves in quick succession queue behind each
+other. Nothing is lost and no editor needs to wait at the screen, but the CMS
+used to promise "a few minutes", which would have read as a failure. The copy
+now says half an hour. If that ever becomes a real irritation, incremental
+builds are the fix, and they are not a small change.
+
 **Deferred by agreement, not left undone:** layout reconstruction of the
 primary-work PDFs, paragraph IDs on primary works, MCP tools that read
 primary-work bodies, and the wiki layer. All four wait on vision-language
