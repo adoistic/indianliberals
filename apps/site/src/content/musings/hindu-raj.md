@@ -36,8 +36,8 @@ This is an excerpt from an article written by P Kodanda Rao for the July 1962 is
 
 … Hindi Raj is a sinister advance guard of Hindu Raj. The Government of India, with Its Hindi mania, is, consciously or unconsciously, playing into the hands of Jan Sangh and RSS. The patriotic and nationalist Indians, who would stave off the twin calamity, must bestir themselves before it is too late and bring into operation maximum constitutional pressure on Hindi Government and Hindu RSS by agitating immediately for _English Ever: Hindi Never_.”
 
-_Access the full document [here.](http://v2.indianliberals.in/~_admin/pdflanguage?id=654359818.pdf)_
+_Access the issue [here.](/primary-works/the-indian-libertarian-jul1-1962/)_
 
-_First Published in The Indian Libertarian – September 1958_
+_First Published in The Indian Libertarian, July 1962_
 
 _Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._

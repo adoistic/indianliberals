@@ -369,6 +369,85 @@ const named = cell("retrieval:named");
         would have corrupted around a hundred files that were fine.
       </p>
 
+      <h2 class="mt-10 mb-3 font-(family-name:--font-display)">
+        The one the eval did not catch
+      </h2>
+
+      <p class="my-5">
+        Everything above measures whether an agent uses the archive honestly. It
+        assumes the archive is honest. Late on, chasing an unrelated bug, I found
+        that in a handful of places it was not, and the eval had no way of
+        knowing.
+      </p>
+
+      <p class="my-5">
+        Six issues of <em>The Indian Libertarian</em> carried summaries of a
+        different issue. Not a mislabelled section: the whole body. The record
+        for 1 May 1960 described the Paris summit collapse and Krishna Menon,
+        which are the contents of 15 June. Its own frontmatter said "Vol. VIII
+        No. 3, May 1, 1960" while its summary text opened "The June 15, 1960
+        issue". The two fields sat four lines apart and disagreed, and nothing
+        had ever compared them.
+      </p>
+
+      <p class="my-5">
+        This is the failure mode that should frighten anyone building one of
+        these. A misjoined byline looks wrong: the name above the paragraph does
+        not match the name inside it, and a careful reader notices. A wholly
+        substituted summary looks perfect. It is fluent, it is plausible, it
+        cites a real PDF, and it is about a different magazine. Every check I
+        had built, including this eval, would pass it, because every check asked
+        whether the agent used what we published faithfully, and the agent had.
+      </p>
+
+      <p class="my-5">
+        What found it was comparing works against each other rather than against
+        themselves. Two records that share most of their prose are either the
+        same work under two slugs, which is fine, or a defect. Twenty lines of
+        code, and the same sweep across the whole corpus turned up two more, in
+        the excerpts rather than the periodicals: one musing published M. A.
+        Rangoonwala's 1982 address under Abid Hussain's name and the title of
+        his 1989 lecture, and another published the same excerpt twice under two
+        titles.
+      </p>
+
+      <p class="my-5">
+        Those two are not ours. The Wayback Machine has the same wrong text on
+        the old WordPress site in captures going back to 2020, so they were
+        inherited with the corpus and faithfully migrated. That is worth stating
+        plainly rather than filing under someone else's fault, because it is the
+        more common case: most archives are not built from nothing, and a
+        migration that is careful about form will carry an error of substance
+        straight across without noticing.
+      </p>
+
+      <p class="my-5">
+        The periodical ones are ours, and the shape of them is instructive. All
+        six are the same publication, five of the six have a "may" slug, and the
+        issue each one borrowed from is a near neighbour in the sort order. That
+        is not a model hallucinating. That is an off-by-one in an ingest pass,
+        and a pipeline that did it to six works could do it to sixty.
+      </p>
+
+      <p class="my-5">
+        All six are re-read from the scans and corrected. The two inherited ones
+        are harder: the true text of the Abid Hussain lecture is not in the
+        archive and not on the old site, so there is nothing to restore. I
+        removed the misattributed body and left the record saying what it is and
+        what is missing, which is worse for a reader than the wrong text only if
+        you think a confident answer beats an honest one. The check now runs
+        over every collection and ships as
+        <code class="font-(family-name:--font-mono) text-sm">scripts/dedupe/cross_contamination.py</code>.
+      </p>
+
+      <p class="my-5">
+        The lesson I take is narrower than "test your data". It is that a
+        benchmark measuring an agent against a corpus cannot see a corpus that
+        lies, and will report a clean score while it does. The eval and the
+        contamination check answer different questions, and I had built only one
+        of them because only one of them had been asked for.
+      </p>
+
       <h2 class="mt-10 mb-3 font-(family-name:--font-display)">On not cheating</h2>
 
       <p class="my-5">

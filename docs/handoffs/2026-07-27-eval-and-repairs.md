@@ -339,3 +339,74 @@ file list is in the task description.
   do so salvaged 8 of 10 answers through an API stall.
 - `scripts/eval/corpus.json` is 31 MB and gitignored. Rebuild it from
   `apps/site/dist` after every build; the paragraph anchors exist nowhere else.
+
+
+---
+
+## 5. Cross-work contamination: a defect class nobody was looking for
+
+Found on 27 July while chasing an unrelated heading bug. Standing check:
+`scripts/dedupe/cross_contamination.py`, which now sweeps all six prose-bearing
+collections (1,799 comparable documents) and also flags any record whose summary
+names a different issue from its own slug.
+
+### What it found
+
+**Six issues of *The Indian Libertarian* carried another issue's summaries** in
+full, body and frontmatter both. `may1-1960` described the 15 June contents
+while its `publication.edition` said "Vol. VIII No. 3, May 1, 1960". All six are
+re-read from the scans and corrected, including the frontmatter (`year`,
+`series`, `editors`, `authors`, `contributors`), which was also copied from the
+wrong issue.
+
+The pattern says ingest bug, not model error: one publication, five of six with
+a "may" slug, each borrowing from a near neighbour in sort order.
+
+**Two musings were contaminated before we arrived.** `making-capital-out-of-
+consumer-goods` published M. A. Rangoonwala's 1982 Silver Jubilee address under
+Abid Hussain's name and the title of his 1989 lecture;
+`wastage-in-public-sector-enterprises` was a byte-identical copy of
+`mavenkata-rao-corruption-of-thought` under a title its text never discusses.
+The Wayback Machine has the same wrong text on the legacy WordPress site back to
+2020, so both were inherited and faithfully migrated.
+
+These matter more than the periodical cases because musings are Tier A and
+paragraph-citable: an agent could quote Rangoonwala and attribute him to Abid
+Hussain with an anchor that resolves.
+
+### What was done
+
+- The duplicate musing was merged following the existing convention: removed,
+  with a 301 in `apps/site/public/_redirects` to the canonical excerpt.
+- The misattributed lecture keeps its record and correct framing; the body now
+  states plainly that the text is not held and why. Recovering it needs the
+  Forum of Free Enterprise booklet for the 24th A. D. Shroff Memorial Lecture,
+  October 1989, which the archive does not have.
+- `hindu-raj` had a footer claiming September 1958 while its own opening said
+  P. Kodanda Rao, July 1962. Corrected, and repointed at the issue in the
+  archive.
+- All 11 musings linking to the dead `v2.indianliberals.in` PDF host were
+  repointed at the archive issue where it exists, or had the dead promise
+  removed where it does not.
+
+### What remains, and why it is fine
+
+Four pairs still show above 35% overlap, none of them defects:
+
+| Pair | Why it is not a defect |
+|---|---|
+| `balyo-bibaher-dosh` ~ `the-vice-of-child-marriages` | the same Vidyasagar essay under two slugs |
+| `the-new-class…moody-1980` ~ `…mody-october-15-1981` | the same paper under two slugs |
+| `opinions:sharad-joshi-and-the-crisis-of-trade-unions` ~ `thinkers:sharad-joshi` | the profile opens "_From CCS feature article: …_", so the reuse is disclosed |
+| `musings:pandita-ramabai…` ~ `thinkers:pandita-ramabai` | same, disclosed reuse |
+
+The two duplicate-slug pairs are dedupe candidates rather than contamination,
+and are already known.
+
+### Why this is not something `/eval` can catch
+
+`/eval` measures whether an agent uses the archive faithfully. It assumes the
+archive is honest. A wholly substituted summary is fluent, plausible, cites a
+real PDF, and is about a different magazine, so an agent that uses it correctly
+scores full marks. The two checks answer different questions and both need to
+exist. **Run `cross_contamination.py` after any bulk ingest or re-extraction.**

@@ -121,3 +121,13 @@
 # /series/ merged into /periodicals/ (2026-07-26): one "Series & Periodicals"
 # index. Per-series detail pages keep their /series/<id>/ URLs.
 /series/   /periodicals/   301
+
+# Duplicate musing merged (2026-07-27). "Wastage in Public Sector Enterprises"
+# carried a byte-identical body to "Corruption of Thought": the same excerpt of
+# M. A. Venkata Rao's September 1958 Indian Libertarian article, the same
+# pull-quote and the same source link, under a title the text never discusses.
+# The error is inherited from the legacy WordPress site, which published the
+# same excerpt twice. If CCS holds a genuine "wastage" excerpt from that
+# article, it should be added as a new musing rather than by reverting this.
+/musings/wastage-in-public-sector-enterprises/   /musings/mavenkata-rao-corruption-of-thought/   301
+

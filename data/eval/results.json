@@ -1,20 +1,20 @@
 {
  "schema_version": 1,
- "graded_at": "2026-07-27T15:16:05Z",
+ "graded_at": "2026-07-27T17:30:07Z",
  "run_file": "run.json",
  "label": "claude-sonnet-5 via the live MCP surface",
  "pool_id": "il-eval-v1",
- "pool_size": 256,
+ "pool_size": 255,
  "summary": {
-  "n": 256,
-  "loose": 0.873,
-  "graded": 0.707,
-  "strict": 0.5801,
+  "n": 255,
+  "loose": 0.8745,
+  "graded": 0.7078,
+  "strict": 0.5804,
   "violations": 0,
   "content_failures": 25,
   "distribution": {
    "1": 128,
-   "0.5": 106,
+   "0.5": 105,
    "0": 22
   },
   "cells": {
@@ -61,8 +61,8 @@
     "strict": 0.7333
    },
    "mixed/blind/multi": {
-    "n": 31,
-    "loose": 0.871,
+    "n": 30,
+    "loose": 0.8833,
     "graded": 0.5,
     "strict": 0.5
    },
@@ -79,16 +79,16 @@
     "strict": 0.4706
    },
    "reach:via_tools": {
-    "n": 239,
-    "loose": 0.887,
-    "graded": 0.7238,
-    "strict": 0.5879
+    "n": 238,
+    "loose": 0.8887,
+    "graded": 0.7248,
+    "strict": 0.5882
    },
    "retrieval:blind": {
-    "n": 179,
-    "loose": 0.8799,
-    "graded": 0.7011,
-    "strict": 0.5447
+    "n": 178,
+    "loose": 0.882,
+    "graded": 0.7022,
+    "strict": 0.5449
    },
    "retrieval:named": {
     "n": 77,
@@ -103,10 +103,10 @@
     "strict": 0.8333
    },
    "shape:multi": {
-    "n": 73,
-    "loose": 0.8836,
-    "graded": 0.6096,
-    "strict": 0.5548
+    "n": 72,
+    "loose": 0.8889,
+    "graded": 0.6111,
+    "strict": 0.5556
    },
    "shape:needle": {
     "n": 34,
@@ -133,8 +133,8 @@
     "strict": 0.7059
    },
    "tier:mixed": {
-    "n": 31,
-    "loose": 0.871,
+    "n": 30,
+    "loose": 0.8833,
     "graded": 0.5,
     "strict": 0.5
    },
@@ -7513,44 +7513,6 @@
      "pdf_linked": true,
      "attributed": true,
      "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-nov1-1955.pdf"
-    }
-   ]
-  },
-  {
-   "id": "il-0240",
-   "tier": "mixed",
-   "retrieval": "blind",
-   "shape": "multi",
-   "reach": "via_tools",
-   "loose": 0.5,
-   "graded": 0.5,
-   "strict": 0.5,
-   "content_ok": true,
-   "missing_strings": [],
-   "ungrounded_quotes": [],
-   "violation": false,
-   "docs": [
-    {
-     "doc": "musings:making-capital-out-of-consumer-goods",
-     "tier": "A",
-     "named": true,
-     "cited_anchors": [],
-     "valid_anchors": [],
-     "invented_anchors": [],
-     "unattached_anchors": [],
-     "expected_anchors": [
-      "p-e70884"
-     ],
-     "on_target": false,
-     "fetched": []
-    },
-    {
-     "doc": "primary-works:ff495",
-     "tier": "B",
-     "named": false,
-     "pdf_linked": true,
-     "attributed": true,
-     "pdf_url": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2008.pdf"
     }
    ]
   },

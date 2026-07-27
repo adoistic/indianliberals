@@ -35,8 +35,6 @@ At the core of the concept of Liberalism lies the principle of freedom. Therefor
 
 The essence of liberal belief was in fact defined in 1776 in the Virginia Declaration of Rights which formed a model for the Bill of Rights added to the U. S. Constitution 15 years later. It declared that “all men are by nature equally free and independent and have certain inherent rights” of which they cannot deprive themselves or their posterity. These were “the enjoyment of life and Liberty, with the means of acquiring and possessing property, and pursuing and obtaining happiness and safety.”
 
-_Access the full document [here](http://v2.indianliberals.in/~_admin/pdflanguage?id=477849139.pdf)._
-
 _This article is from the Liberal Times, Volume III- Number 4, published in 1995._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)

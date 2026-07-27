@@ -44,8 +44,6 @@ This is an excerpt from an article written by M A Venkata Rao for the September 
 
 Hence we find hasty policies being introduced by the ruling group. During the life of Gandhi, older ideas of life’s values were predominant though he stimulated much thought on all matters of current reconstruction. But today we find the current of _Leftist thought_ dominating everything and forcing the pace in directions that have already produced a reaction in Eur-america and are under strong criticism. We are taking over the cast-off clothes of the West!…”
 
-_Access the full document [here.](http://v2.indianliberals.in/~_admin/pdflanguage?id=654359818.pdf)_
-
-_First Published in The Indian Libertarian – September 1958_
+_First Published in The Indian Libertarian, September 1958. [Read the issue.](/primary-works/the-indian-libertarian-sept1-1958/)_
 
 _Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._

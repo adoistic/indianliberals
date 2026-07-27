@@ -45,8 +45,4 @@ Liberalism is far from being the dominant or even the mainstream school of thoug
 
 …**But history has ample evidence that liberty blossoms in the most unexpected of places and at seemingly impossible times**. The world is moving towards demolishing walls that have fragmented and distorted the world. India could not remain for long an island of statism. Indian history shows that people believe in minimal decencies and are capable of fighting against tyrants if a Gandhi comes along. An Indian Hitler will have to be exceptionally lucky to survive for any length of time. This much hope ought to be enough for seekers of liberty and equality.
 
-_Access the full document [here](http://v2.indianliberals.in/~_admin/pdflanguage?id=477849139.pdf)._
-
-_First Published in The Liberal Times – November 1995_
-
-_Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
+_First Published in The Liberal Times – November 1995Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._

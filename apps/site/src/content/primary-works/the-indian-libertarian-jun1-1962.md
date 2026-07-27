@@ -79,7 +79,7 @@ This June 1, 1962 issue (Vol. X No. 5) of The Indian Libertarian, the Bombay for
 
 ## Essays
 
-### Editorial
+### Editorial: Red Star Over South-East Asia
 The lead editorial, 'Red Star Over South-East Asia,' contends that Russia and China are playing their cards cleverly across the region, from Pakistan and India in the West to Vietnam and Laos in the East. Under cover of ideological differences and 'faked' disputes, the editorial argues, the communist powers mean to lull the wary and the gullible into a false sense of security while pressing their expansion; it treats international agreements as, for the communists, mere instruments to consolidate gains and prepare the next advance.
 
 - Frames Russia and China as coordinating communist expansion across South-East Asia.

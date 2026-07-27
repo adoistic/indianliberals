@@ -95,7 +95,7 @@ The rest of the issue carries M. A. Venkata Rao's article 'The Lengthening Shado
 
 ## Essays
 
-### EDITORIAL — Action Against Communist Propagandists Dropped; The American President-Elect: Mr. Kennedy; The P.M., The Press and Mr. Khrushchov
+### EDITORIAL: Action Against Communist Propagandists Dropped; The American President-Elect: Mr. Kennedy; The P.M., The Press and Mr. Khrushchov
 The unsigned editorial argues that Kennedy's narrow win over Nixon will make little practical difference to India and uses the occasion to attack the Nehru government for quietly dropping a Bill that would have penalised pro-Chinese Communist propaganda in India's northern border areas. The editorial cites the Delhi correspondent of 'The Hindu' reporting that the Home Minister withdrew the Bill because its measure might displease Russia and China, and treats this as proof of the 'psychological climate' of pro-Communist leanings inside the country's leadership and intelligentsia. It contrasts Nehru's softness with President Nasser's effective suppression of Egyptian and Syrian Communist Party personnel.
 
 The editorial then turns outward, listing 'Trouble Spots in the World Scene' — Cuba (Castro's drift into the Soviet bloc), Latin America, Berlin (the Khrushchev–Ulbricht squeeze), Laos, the Congo, South Vietnam, Algeria, Turkey — and appeals to the incoming Kennedy administration to abandon Eisenhower-era passivity and confront communism abroad. The piece closes with a hope that 'popular agitation and public enlightenment' will force Nehru to revive the Bill.
@@ -131,7 +131,7 @@ Tholal contrasts the rhetoric of the non-aligned with their tolerance of communi
 - Indian press and opinion-makers consistently misrepresent communism as a normal political position.
 - Tholal frames neutralism as a pose that depends on ignoring Soviet subversion.
 
-### RATIONALIST SUPPLEMENT — The Innate Weakness of Rationalism (by S. Ramanathan); The Need for Excellence; What is Humanism?; Humanism and Shelley (by Denis Cobell); Superstitions about Jewels and Stones
+### RATIONALIST SUPPLEMENT: The Innate Weakness of Rationalism (by S. Ramanathan); The Need for Excellence; What is Humanism?; Humanism and Shelley (by Denis Cobell); Superstitions about Jewels and Stones
 *By S. Ramanathan; Denis Cobell*
 
 In the Rationalist Supplement S. Ramanathan offers a self-critical account of why organised Rationalism has failed to take hold in India. He locates the failure in three factors: the absence of a galvanising founder-figure of Mr. Lotwala's stamp, the inherent weakness of Rationalism as a doctrine that offers analysis without sustenance, and the active organised opposition of religious bodies, leaders and magnates who can outspend and out-organise the rationalists. He treats Rationalism less as a settled philosophy than as a critique that must continually attach itself to ongoing reformist work to remain alive.
@@ -143,9 +143,6 @@ Ramanathan closes by arguing that the rationalist temper survives in India in di
 - Religious organisations command resources and emotional reach that small rationalist circles cannot match.
 - Ramanathan urges collaboration with cognate reform currents rather than ideological purity.
 
-### Lokayata: Indian Materialism
-*By S. Ramanathan*
-
 Denis Cabell argues that Percy Bysshe Shelley's poetry — for all its mythological surface — is in substance a vehicle for humanist and rationalist values that a modern secularist can endorse. He reads The Revolt of Islam, Queen Mab and the political poems as sustained polemic against church and crown, and notes Shelley's willingness to wear personal disgrace (the Court of Chancery removing his children from his care) rather than recant.
 
 Cabell sets Shelley against Wordsworth and Coleridge, whom he treats as poets who began as radicals and finished as apologists for Lord Eldon, Lord Sidmouth and Castlereagh. The essay ends by reprinting Shelley's short poem 'The Sinner', presenting it as a compact statement of the humanist temper the article has been describing.
@@ -155,8 +152,8 @@ Cabell sets Shelley against Wordsworth and Coleridge, whom he treats as poets wh
 - Wordsworth and Coleridge are contrasted as elder poets who 'apostatised' into apologists for Eldon, Sidmouth and Castlereagh.
 - The essay closes with Shelley's poem 'The Sinner' as a humanist credo.
 
-### Delhi Letter — China Bamboozling India; Chaliha Riding High Horse; Kairon vs Gurnam Singh
-*By From Our Correspondent*
+### Lokayata: Indian Materialism
+*By S. Ramanathan*
 
 Ramanathan's longer essay surveys Lokayata — the Indian materialist tradition — and argues that the Tantra practices long denounced as obscurantism in fact carry an older, this-worldly current that mainstream Indian historiography has misread. He sets out two contradictory readings of the Tantras: the orthodox view that treats them as decadent ritualism, and a materialist counter-reading that treats them as continuous with the Lokayata insistence on bodily life and material causes.
 
@@ -167,8 +164,8 @@ The essay then walks through evidence — textual, ritual and lexical — that t
 - Suppression of the materialist tradition was a matter of social power, not philosophical defeat.
 - Modern Indian rationalism can root itself in this lineage rather than borrow only from Europe.
 
-### Book Review — The Soviet Party and the Body Social: A Concise History of the Communist Party of the Soviet Union, by John Reshetar (Praeger)
-*By Erich Godinger*
+### Delhi Letter: China Bamboozling India; Politics of Claptrapmanship?; Akali Antics; Chaliha Riding High Horse; Kairon vs. Golwalkar
+*By From Our Correspondent*
 
 The anonymous Delhi Letter, titled 'China Bamboozling India', argues that the Nehru government keeps treating Chinese overtures at face value while Peking uses talks as cover for further military and propaganda gains in the border regions. The correspondent reads the recent flurry of diplomatic notes as a deliberate tactic to divide Indian opinion between those who want a settlement at almost any cost and those who insist on the integrity of the McMahon Line.
 
@@ -179,7 +176,9 @@ The column also surveys domestic political weather: Sardar Patil's manoeuvres, t
 - Domestic patronage politics — Patil, Krishna Menon, Kairon — are interpreted through the same lens of Nehru's reluctance to discipline allies.
 - The piece treats external and internal pliancy as a single failure of resolve.
 
-### Gleanings from the Press — English in India
+### Book Review: The Soviet Party and the Body Social: A Concise History of the Communist Party of the Soviet Union, by John Reshetar (Praeger)
+*By Erich Godhagen*
+
 Erich Godinger reviews 'A Concise History of the Communist Party of the Soviet Union' by John Boehmer (Praeger, 1960). The review treats the book as a clear-headed scholarly digest of the CPSU's evolution from the Bolshevik faction through Stalinist consolidation to the post-Stalin manoeuvres, and praises it for tracing the gap between Party doctrine and the actual instruments of coercion. Godinger reads the book as ammunition for an Indian reader who needs to see, in compact form, that the Soviet 'body social' is largely the construct of an entrenched apparatus rather than an organic expression of working-class consent.
 
 - Reviews John Boehmer's 'A Concise History of the Communist Party of the Soviet Union' (Praeger, 1960).
@@ -187,14 +186,14 @@ Erich Godinger reviews 'A Concise History of the Communist Party of the Soviet U
 - Locates the book's value in showing the Soviet state as an apparatus phenomenon, not a popular expression.
 - Framed as ammunition for Indian readers tempted by Communist claims.
 
-### News & Views — Antinomian Propaganda by Reds in Border Areas; M. L. Among Tribal Saints Named by Pol. Minister; Family Planning in India; Change of Inflection Medium in Colleges; A Bazardous Experiment; etc.
+### Gleanings from the Press: English in India
 The Gleanings column reprints short extracts from other journals — including a note on 'English in India' arguing that English is here to stay as a working medium of higher education and administration, and a defence of Hindu College Calcutta's role in the early life of Indian rationalism. The selections are curated to reinforce the journal's standing line that the lingua-franca question should be settled pragmatically rather than by linguistic chauvinism.
 
 - Reprints arguments that English remains indispensable for higher education and inter-State communication.
 - Selections curated to back the journal's standing slogan: 'Make English the lingua franca of India.'
 - Frames the language question pragmatically rather than ideologically.
 
-### Essay 10
+### News & Views: Anti-Indian Propaganda by Reds in Border Areas; MLA Among Three Named by Prime Minister; Neutralists Routed in Diet Elections in Japan; Family Planning in India; Change of Instruction Medium in Colleges a Hazardous Experiment; etc.
 The News & Views column gathers short notices on the political and intellectual events of the fortnight: anti-Indian propaganda by 'Reds' in the border areas, named after Mr. Frank Anthony in a Parliamentary exchange; rural-credit and family-planning debates; a tribute to Kennedy as the Democratic challenger to entrenched policies; and the standard appeal that the new third Plan must not crowd out private enterprise. The column's editorial frame stays inside the journal's settled positions on Cold-War alignment, planning and civil liberty.
 
 - Reports on anti-Indian propaganda by Communists in border areas via a Parliamentary exchange.

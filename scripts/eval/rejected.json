@@ -20,6 +20,13 @@
    "problems": [
     "answer_must_contain 'Issue 23' is not in the source material"
    ]
+  },
+  {
+   "id": "il-0240",
+   "question": "A 1989 address given during a business-advocacy body's Silver Jubilee celebrations refers to an ongoing annual lecture series held in memory of the body's founder — what number lecture in that series was being delivered that day? Separately, a special section on terrorism in a periodical issue from September 2008 argues for a proposed federal anti-terrorism agency by pointing to a nineteenth-century British suppression campaign against a criminal cult as a historical model — name the cult.",
+   "problems": [
+    "musings:making-capital-out-of-consumer-goods: anchor p-e70884 does not exist on that page"
+   ]
   }
  ],
  "skipped": [

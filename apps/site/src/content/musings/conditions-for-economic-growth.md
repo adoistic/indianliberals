@@ -59,8 +59,4 @@ Given the inevitable onset of a recession in the Indian economy, his ideas, pres
 
 Even after 55 years, one can clearly see that these prescriptions remain timeless and note that no Indian government has worked seriously on these long term solutions to instil rapid economic growth. Our misguided policies are largely ad-hoc and continue to lead us from one slowdown to another.
 
-_Access the full document [here](http://v2.indianliberals.in/~_admin/pdflanguage?id=1604060426.pdf)._
-
-_First Published in the _[_Forum of Free Enterprise_](http://www.forumindia.org/)_ in August 1964._
-
-_Other editions of the publication can be accessed at _[_Indian Liberals_](http://indianliberals.in/index)_, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
+_First Published in the _[_Forum of Free Enterprise_](http://www.forumindia.org/)_ in August 1964.Other editions of the publication can be accessed at _[_Indian Liberals_](http://indianliberals.in/index)_, an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._

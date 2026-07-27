@@ -67,10 +67,6 @@ The booklet examines the Gold Problem under four principal heads:
 
 - If these measures have not been successful, what alternative measures could we adopt?
 
-_Access the full document[here](http://v2.indianliberals.in/~_admin/pdflanguage?id=1750398613.pdf)._
-
-_First Published in the Forum of Free Enterprise in July 1963._
-
-_Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
+_First Published in the Forum of Free Enterprise in July 1963.Other editions of the publication can be accessed at [Indian Liberals](http://indianliberals.in/index), an open, multilingual digital archive committed to preserving liberal voices in the Indian public sphere._
 
 [Read More SO Musings](https://spontaneousorder.in/?s=SO+Musings)

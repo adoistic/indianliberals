@@ -1,13 +1,13 @@
 {
  "schema_version": 1,
  "pool_id": "il-eval-v1",
- "frozen_at": "2026-07-27T15:15:59Z",
+ "frozen_at": "2026-07-27T17:30:04Z",
  "corpus_built_from": {
-  "dist_generated_at": "2026-07-27T15:10:18.003Z",
-  "search_index_docs": 2589
+  "dist_generated_at": "2026-07-27T17:25:54.816Z",
+  "search_index_docs": 2588
  },
  "counts": {
-  "questions": 256,
+  "questions": 255,
   "by_cell": {
    "A/blind/multi": 22,
    "A/blind/needle": 34,
@@ -16,27 +16,27 @@
    "B/blind/multi": 20,
    "B/blind/single": 35,
    "B/named/single": 30,
-   "mixed/blind/multi": 31,
+   "mixed/blind/multi": 30,
    "none/named/abstention": 18
   },
   "by_tier": {
    "A": 122,
    "B": 85,
-   "mixed": 31,
+   "mixed": 30,
    "none": 18
   },
   "by_retrieval": {
    "named": 77,
-   "blind": 179
+   "blind": 178
   },
   "by_shape": {
    "single": 131,
    "needle": 34,
-   "multi": 73,
+   "multi": 72,
    "abstention": 18
   },
   "by_reach": {
-   "via_tools": 239,
+   "via_tools": 238,
    "beyond_tools": 17
   }
  },
@@ -5522,33 +5522,6 @@
     ]
    },
    "rationale": "The 1823 memorial date is specific to the thinker's biography paragraph, and the National Book Trust warning is specific to that 1955 issue's notes section; neither fact substitutes for the other.",
-   "reach": "via_tools"
-  },
-  {
-   "id": "il-0240",
-   "tier": "mixed",
-   "retrieval": "blind",
-   "shape": "multi",
-   "question": "A 1989 address given during a business-advocacy body's Silver Jubilee celebrations refers to an ongoing annual lecture series held in memory of the body's founder — what number lecture in that series was being delivered that day? Separately, a special section on terrorism in a periodical issue from September 2008 argues for a proposed federal anti-terrorism agency by pointing to a nineteenth-century British suppression campaign against a criminal cult as a historical model — name the cult.",
-   "expected": {
-    "docs": [
-     "musings:making-capital-out-of-consumer-goods",
-     "primary-works:ff495"
-    ],
-    "paragraph_ids": {
-     "musings:making-capital-out-of-consumer-goods": [
-      "p-e70884"
-     ]
-    },
-    "pdf_urls": {
-     "primary-works:ff495": "https://archive.indianliberals.in/freedom-first/freedom-first-sep1-2008.pdf"
-    },
-    "answer_must_contain": [
-     "24th",
-     "Thuggee"
-    ]
-   },
-   "rationale": "The lecture's ordinal number is stated only in the musing's opening paragraph, and the Thuggee parallel is specific to the Balachandran essay in that 2008 issue; both must be retrieved.",
    "reach": "via_tools"
   },
   {
