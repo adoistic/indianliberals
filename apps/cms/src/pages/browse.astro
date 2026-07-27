@@ -1,0 +1,251 @@
+---
+import Shell from '../layouts/Shell.astro';
+import { COLLECTIONS } from '../lib/collections';
+---
+
+<Shell title="Browse">
+  <p class="eyebrow">Find and edit</p>
+  <h1>Everything in the archive</h1>
+  <hr class="rule" />
+  <p class="lede">
+    Pick what kind of thing you are looking for, then type a few letters to narrow the list.
+    Click any entry to open it and change it.
+  </p>
+
+  <div class="picker" id="picker">
+    {
+      COLLECTIONS.map((c) => (
+        <button class="chip pick" type="button" data-collection={c.id}>
+          {c.label}
+        </button>
+      ))
+    }
+  </div>
+  <p class="hint about" id="about">
+    Pick one above and a short description of it appears here.
+  </p>
+
+  <section class="card" style="margin-top:1.5rem">
+    <div class="head">
+      <div class="grow">
+        <label for="filter">Narrow the list</label>
+        <input
+          type="text"
+          id="filter"
+          placeholder="Type part of a name"
+          autocomplete="off"
+          disabled
+        />
+      </div>
+      <p class="count tabular" id="count"></p>
+    </div>
+    <hr class="rule" />
+    <div id="list">
+      <p class="muted">Choose a kind of entry above to see what is filed under it.</p>
+    </div>
+  </section>
+
+  <style>
+    .lede { max-width: 44rem; }
+    .picker { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.5rem; }
+    .pick {
+      border: 1px solid var(--line2);
+      cursor: pointer;
+      font-family: var(--sans);
+      padding: .4rem .85rem;
+      transition: border-color .15s, background .15s;
+    }
+    .pick:hover { border-color: var(--gold); }
+    .pick[aria-pressed='true'] {
+      background: color-mix(in srgb, var(--gold) 22%, transparent);
+      color: var(--deep);
+      border-color: var(--gold);
+    }
+    .about { margin-top: .8rem; max-width: 44rem; min-height: 1.4rem; }
+    .head { display: flex; gap: 1rem; align-items: flex-end; }
+    .head .grow { max-width: 26rem; }
+    .count { margin: 0 0 .55rem auto; font-size: .88rem; white-space: nowrap; }
+    .rows { display: flex; flex-direction: column; }
+    .entry {
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      padding: .55rem .2rem;
+      border-bottom: 1px solid var(--line2);
+      text-decoration: none;
+      color: var(--brown);
+    }
+    .entry:hover { background: var(--tile); }
+    .entry .slug { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: .85rem; }
+    .entry .open {
+      margin-left: auto;
+      font-size: 11px;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: var(--body);
+    }
+    .entry:hover .open { color: var(--brown); }
+    .more { margin-top: 1rem; }
+    @media (max-width: 640px) {
+      .head { flex-direction: column; align-items: stretch; }
+      .head .grow { max-width: none; }
+      .count { margin: 0; }
+    }
+  </style>
+
+  <script>
+    import { watchUser, roleFor } from '../lib/firebase';
+    import { COLLECTIONS, collectionById } from '../lib/collections';
+    import type { User } from 'firebase/auth';
+
+    interface Entry {
+      slug: string;
+      sha: string;
+      path: string;
+    }
+
+    // Long collections run past a thousand files. Painting every row makes the
+    // page crawl and nobody reads a list that long anyway, so we show a window
+    // of it and tell them to type.
+    const WINDOW = 300;
+
+    const picker = document.getElementById('picker')!;
+    const about = document.getElementById('about')!;
+    const filter = document.getElementById('filter') as HTMLInputElement;
+    const count = document.getElementById('count')!;
+    const list = document.getElementById('list')!;
+
+    let me: User | null = null;
+    let current = '';
+    /** One fetch per collection per visit. Filtering happens in memory. */
+    const cache = new Map<string, Entry[]>();
+
+    function escape(text: string): string {
+      return text.replace(/[&<>"']/g, (c) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+      );
+    }
+
+    function render() {
+      const entries = cache.get(current);
+      if (!entries) return;
+
+      const collection = collectionById(current);
+      const noun = entries.length === 1 ? 'entry' : 'entries';
+
+      if (!entries.length) {
+        count.textContent = '';
+        list.innerHTML = `<p class="notice">Nothing has been filed under ${escape(
+          collection?.label ?? current,
+        )} yet. It will fill up as soon as somebody adds the first one.</p>`;
+        return;
+      }
+
+      const needle = filter.value.trim().toLowerCase();
+      const matches = needle
+        ? entries.filter((e) => e.slug.toLowerCase().includes(needle))
+        : entries;
+
+      count.textContent = needle
+        ? `${matches.length.toLocaleString('en-IN')} of ${entries.length.toLocaleString('en-IN')} match`
+        : `${entries.length.toLocaleString('en-IN')} ${noun}`;
+
+      if (!matches.length) {
+        list.innerHTML = `<p class="muted">Nothing here contains "${escape(
+          filter.value.trim(),
+        )}". Try fewer letters.</p>`;
+        return;
+      }
+
+      const shown = matches.slice(0, WINDOW);
+      const rows = shown
+        .map((entry) => {
+          const href = `/edit?collection=${encodeURIComponent(current)}&slug=${encodeURIComponent(entry.slug)}`;
+          return `<a class="entry" href="${href}"><span class="slug">${escape(
+            entry.slug,
+          )}</span><span class="open">Edit</span></a>`;
+        })
+        .join('');
+
+      const more =
+        matches.length > shown.length
+          ? `<p class="hint more">Showing the first ${WINDOW} of ${matches.length.toLocaleString(
+              'en-IN',
+            )}. Type a few more letters to bring the one you want into view.</p>`
+          : '';
+
+      list.innerHTML = `<div class="rows">${rows}</div>${more}`;
+    }
+
+    async function load(id: string) {
+      current = id;
+      const collection = collectionById(id);
+      about.textContent = collection?.description ?? '';
+
+      for (const button of picker.querySelectorAll<HTMLButtonElement>('.pick')) {
+        button.setAttribute('aria-pressed', String(button.dataset.collection === id));
+      }
+
+      filter.disabled = false;
+      filter.placeholder = `Type part of a ${(collection?.singular ?? 'entry').toLowerCase()} name`;
+
+      if (cache.has(id)) {
+        render();
+        return;
+      }
+
+      count.textContent = '';
+      list.innerHTML = '<p class="muted">Fetching the list.</p>';
+
+      try {
+        const token = await me!.getIdToken();
+        const response = await fetch(`/api/list?collection=${encodeURIComponent(id)}`, {
+          headers: { Authorization: `Bearer ${token}` },
+        });
+        const data = (await response.json()) as { entries?: Entry[]; error?: string };
+        if (!response.ok) throw new Error(data.error ?? `The server said ${response.status}.`);
+
+        const entries = (data.entries ?? []).sort((a, b) => a.slug.localeCompare(b.slug));
+        cache.set(id, entries);
+        if (current === id) render();
+      } catch (error) {
+        count.textContent = '';
+        list.innerHTML = `<p class="notice notice-stop">Could not read that list. ${escape(
+          (error as Error).message,
+        )}</p>`;
+      }
+    }
+
+    function choose(id: string, push = true) {
+      if (push) {
+        const url = new URL(location.href);
+        url.searchParams.set('collection', id);
+        history.replaceState(null, '', url);
+      }
+      void load(id);
+    }
+
+    picker.addEventListener('click', (event) => {
+      const button = (event.target as HTMLElement).closest<HTMLButtonElement>('.pick');
+      if (button?.dataset.collection) choose(button.dataset.collection);
+    });
+
+    filter.addEventListener('input', render);
+
+    watchUser(async (user) => {
+      if (!user) return;
+      const role = await roleFor(user);
+      if (!role) {
+        location.href = '/no-access';
+        return;
+      }
+      me = user;
+
+      // Coming back from an edit lands on the collection they were in.
+      const wanted = new URL(location.href).searchParams.get('collection');
+      const known = COLLECTIONS.some((c) => c.id === wanted);
+      if (wanted && known) choose(wanted, false);
+    });
+  </script>
+</Shell>

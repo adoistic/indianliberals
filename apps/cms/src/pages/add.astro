@@ -1,0 +1,1444 @@
+---
+import Shell from '../layouts/Shell.astro';
+import { COLLECTIONS } from '../lib/collections';
+
+// Everything an editor adds goes through this one screen, in four numbered
+// steps. The steps are numbered on purpose: the audience has never used a CMS,
+// and a numbered path is the one interface convention everybody already knows.
+---
+
+<Shell title="Add something">
+  <p class="eyebrow">Add</p>
+  <h1>Add something to the archive</h1>
+  <hr class="rule" />
+  <p class="lede">
+    Four steps. Say what you are adding, upload the document if you have one, choose how the
+    details get filled in, then check them and save. Nothing is public until you save, and you
+    can go back and change any step before you do.
+  </p>
+
+  <!-- Step 1 ─ what is it -->
+  <section class="step" id="step-1">
+    <div class="stepline">
+      <span class="num">1</span>
+      <h2>What is it</h2>
+    </div>
+    <p class="says">Pick the kind of thing you are adding. Read the descriptions: they are the difference between a work and a musing.</p>
+    <div class="kinds">
+      {
+        COLLECTIONS.map((collection) => (
+          <button type="button" class="card kind" data-kind={collection.id}>
+            <h3>{collection.singular}</h3>
+            <p>{collection.description}</p>
+          </button>
+        ))
+      }
+    </div>
+  </section>
+
+  <!-- Step 2 ─ the document -->
+  <section class="step" id="step-2" hidden>
+    <div class="stepline">
+      <span class="num">2</span>
+      <h2>The document</h2>
+      <span class="chip">Optional</span>
+    </div>
+    <p class="says">
+      Drop the scanned PDF here, or a cover picture. It goes to the archive server and you get
+      back the web address that belongs in the entry. If you have no file, skip this.
+    </p>
+
+    <div class="card drop" id="drop">
+      <p class="dropline">Drop a PDF or a picture here</p>
+      <p class="hint">PDFs and JPEG, PNG or WebP pictures. Up to 120 MB.</p>
+      <button class="btn btn-quiet" type="button" id="pickfile">Choose a file instead</button>
+      <input type="file" id="file" accept="application/pdf,image/jpeg,image/png,image/webp" hidden />
+    </div>
+
+    <div id="upstate" class="stack" style="margin-top:1rem"></div>
+
+    <div class="row" style="margin-top:1rem">
+      <button class="btn btn-primary" type="button" id="to-step-3">Carry on</button>
+      <span class="hint">You can come back and upload later.</span>
+    </div>
+  </section>
+
+  <!-- Step 3 ─ how to fill it in -->
+  <section class="step" id="step-3" hidden>
+    <div class="stepline">
+      <span class="num">3</span>
+      <h2>How to fill it in</h2>
+    </div>
+    <p class="says">
+      Three ways, all ending at the same form. None is better than the others: the entry that
+      comes out is identical whichever you choose.
+    </p>
+
+    <div class="ways">
+      <article class="card way">
+        <h3>Copy a prompt</h3>
+        <p>
+          We write out the instructions. You paste them into ChatGPT, Claude or Gemini along
+          with the document, then paste the reply back here. Free, and it uses whatever AI you
+          already have open.
+        </p>
+        <button class="btn btn-quiet" type="button" data-way="prompt">Show me the prompt</button>
+      </article>
+
+      <article class="card way">
+        <h3>Use your own key</h3>
+        <p>
+          If you have an API key, the browser sends the document to the model for you and fills
+          the form in. Fewer steps, but you pay your provider for the reading.
+        </p>
+        <button class="btn btn-quiet" type="button" data-way="key">Use my key</button>
+      </article>
+
+      <article class="card way">
+        <h3>Type it in</h3>
+        <p>
+          Straight to the form with nothing filled in. Best for a short record such as a person
+          or an organisation, where typing is quicker than explaining.
+        </p>
+        <button class="btn btn-quiet" type="button" data-way="type">Go to the form</button>
+      </article>
+    </div>
+
+    <!-- Panel a: the prompt -->
+    <div class="card panel" id="panel-prompt" hidden>
+      <h3>Copy this, paste it into your AI with the document</h3>
+      <hr class="rule" />
+      <ol class="steps-list">
+        <li>Copy the prompt below.</li>
+        <li>Open ChatGPT, Claude or Gemini and start a new chat.</li>
+        <li>Attach the document, paste the prompt, send it.</li>
+        <li>Copy the whole reply and paste it into the box underneath.</li>
+      </ol>
+      <div class="row" style="margin-bottom:.6rem">
+        <button class="btn btn-primary" type="button" id="copy-prompt">Copy the prompt</button>
+        <span class="hint" id="copy-said"></span>
+      </div>
+      <pre id="prompt" class="promptbox"></pre>
+      <div class="field" style="margin-top:1.25rem">
+        <label for="pasted">Paste the reply here</label>
+        <textarea id="pasted" rows="7" placeholder="Paste the whole reply, including any wording around the JSON. We will find the part we need."></textarea>
+        <p class="hint">
+          Paste all of it. If the AI wrapped the answer in explanation or in a code block, that
+          is fine.
+        </p>
+      </div>
+      <button class="btn btn-primary" type="button" id="read-pasted">Read that reply</button>
+      <div id="paste-problems" class="stack" style="margin-top:1rem"></div>
+    </div>
+
+    <!-- Panel b: your own key -->
+    <div class="card panel" id="panel-key" hidden>
+      <h3>Your key, your bill, your browser</h3>
+      <hr class="rule" />
+      <p class="notice">
+        The key you type here is kept in this browser only. It is never sent to us, never
+        written to our servers, and never put in a web address. The request goes straight from
+        your machine to the provider. Anyone else using this computer under your login could
+        read it, so use a work machine.
+      </p>
+
+      <div class="field" style="margin-top:1.25rem">
+        <label>Which provider</label>
+        <div class="radios">
+          <label class="radio"><input type="radio" name="provider" value="anthropic" checked /> Anthropic</label>
+          <label class="radio"><input type="radio" name="provider" value="openrouter" /> OpenRouter</label>
+        </div>
+        <p class="hint">
+          Anthropic if you have a key from console.anthropic.com. OpenRouter if you have one key
+          that reaches several companies' models.
+        </p>
+      </div>
+
+      <div class="field">
+        <label for="apikey">Your API key</label>
+        <input type="password" id="apikey" autocomplete="off" spellcheck="false" placeholder="sk-..." />
+        <p class="hint" id="keysaid">Kept in this browser so you do not have to type it again.</p>
+      </div>
+
+      <div class="field">
+        <label for="model">Which model</label>
+        <select id="model"></select>
+        <p class="hint" id="modelnote"></p>
+      </div>
+
+      <p class="notice notice-stop">
+        This costs money, and the bill is yours. Your provider charges you for every page the
+        model reads. A short pamphlet is usually a few rupees. A book of several hundred pages
+        can be a great deal more. If in doubt, use the copied prompt instead.
+      </p>
+
+      <div class="row" style="margin-top:1rem">
+        <button class="btn btn-primary" type="button" id="run-model">Read the document</button>
+        <span class="hint" id="runsaid"></span>
+      </div>
+      <div id="run-problems" class="stack" style="margin-top:1rem"></div>
+    </div>
+  </section>
+
+  <!-- Step 4 ─ check and save -->
+  <section class="step" id="step-4" hidden>
+    <div class="stepline">
+      <span class="num">4</span>
+      <h2>Check and save</h2>
+    </div>
+    <p class="says">
+      Everything an entry can hold is here. The essentials are open. The rest is folded away by
+      heading, and most of it can stay empty. Where a machine filled something in, read it
+      against the document before you save.
+    </p>
+
+    <div id="notices" class="stack"></div>
+
+    <form id="entry" autocomplete="off">
+      <div id="fields"></div>
+
+      <div class="card" id="bodycard" hidden>
+        <h3 id="bodylabel">Body</h3>
+        <hr class="rule" />
+        <p class="hint" style="margin-bottom:.6rem">
+          The markdown that sits under the details, written for readers. Headings start with two
+          hashes, bullets with a hyphen and a space.
+        </p>
+        <textarea id="bodytext" rows="16"></textarea>
+      </div>
+
+      <div class="card" style="margin-top:1.25rem">
+        <h3>The file that will be written</h3>
+        <hr class="rule" />
+        <p class="hint" style="margin-bottom:.75rem">
+          This is exactly what lands in the archive. Nothing else is added or taken away.
+        </p>
+        <pre id="preview" class="promptbox"></pre>
+      </div>
+
+      <div class="card" style="margin-top:1.25rem">
+        <h3>Where it lands</h3>
+        <hr class="rule" />
+        <div class="field">
+          <label for="slug">File name</label>
+          <input type="text" id="slug" placeholder="planning-for-scarcity-b-r-shenoy-1965" />
+          <p class="hint">
+            Lowercase words joined by hyphens. It becomes the web address, so once the page is
+            public it should not be changed. This is also written into the entry as its id.
+          </p>
+        </div>
+        <p class="landing mono" id="landing"></p>
+        <div class="field" style="margin-top:1rem">
+          <label for="summary">Note for the change log</label>
+          <input type="text" id="summary" />
+          <p class="hint">One line saying what you did. It goes in the archive history beside your name.</p>
+        </div>
+      </div>
+
+      <div class="saverow">
+        <button class="btn btn-primary" type="submit" id="save">Save it to the archive</button>
+        <button class="btn btn-quiet" type="button" id="startover">Start again</button>
+        <span class="hint" id="savesaid"></span>
+      </div>
+      <p class="notice" id="nopublish" hidden>
+        You are a contributor, so you cannot publish. Your draft has to be saved by a sub-admin
+        or an admin, who will check it first. Ask one of them to open this and press save.
+      </p>
+      <div id="saveout" class="stack" style="margin-top:1rem"></div>
+    </form>
+  </section>
+
+  <style>
+    [hidden] { display: none !important; }
+
+    .lede { max-width: 44rem; }
+    .says { max-width: 46rem; margin: .5rem 0 1.25rem; }
+
+    .step { margin-top: 2.75rem; }
+    .step:first-of-type { margin-top: 2rem; }
+    .stepline { display: flex; align-items: center; gap: .8rem; margin-bottom: .25rem; }
+    .num {
+      flex: none; width: 30px; height: 30px; border-radius: 999px;
+      display: grid; place-items: center;
+      background: var(--brown); color: var(--cream);
+      font-weight: 700; font-size: .9rem;
+    }
+
+    .kinds { display: grid; gap: .85rem; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); }
+    .kind {
+      text-align: left; font-family: var(--sans); cursor: pointer;
+      padding: 1.15rem 1.25rem; transition: border-color .15s, transform .15s;
+    }
+    .kind:hover { border-color: var(--gold); transform: translateY(-1px); }
+    .kind p { margin: .4rem 0 0; font-size: .88rem; color: var(--body); }
+    .kind.picked { border-color: var(--gold); background: var(--cream); }
+    .kind.picked h3::after { content: ' ✓'; color: var(--gold); }
+
+    .drop {
+      border: 2px dashed var(--line); text-align: center; padding: 2.25rem 1.5rem;
+      transition: border-color .15s, background .15s;
+    }
+    .drop.over { border-color: var(--gold); background: var(--cream); }
+    .dropline { font-family: var(--serif); font-size: 1.3rem; color: var(--brown); margin: 0 0 .3rem; }
+    .drop .btn { margin-top: 1rem; }
+
+    .bar { height: 6px; background: var(--tile); border-radius: 999px; overflow: hidden; }
+    .bar span { display: block; height: 100%; background: var(--gold); width: 0; transition: width .2s; }
+
+    .ways { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); }
+    .way p { font-size: .9rem; margin: .5rem 0 1.1rem; }
+    .way .btn { width: 100%; }
+    .panel { margin-top: 1.25rem; }
+    .steps-list { font-size: .92rem; padding-left: 1.2rem; margin: 0 0 1.1rem; }
+    .steps-list li { margin-bottom: .25rem; }
+    .promptbox { max-height: 26rem; overflow: auto; white-space: pre-wrap; word-break: break-word; }
+
+    .radios { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .radio { display: inline-flex; align-items: center; gap: .45rem; font-weight: 400; color: var(--brown2); margin: 0; }
+    .radio input { width: auto; }
+
+    .groupcard { margin-top: 1.25rem; }
+    .groupcard h3 { margin-bottom: 0; }
+    details.groupcard { padding: 0; }
+    details.groupcard > summary {
+      cursor: pointer; padding: 1.15rem 1.5rem; font-family: var(--serif);
+      font-size: 1.15rem; color: var(--brown); list-style: none;
+    }
+    details.groupcard > summary::-webkit-details-marker { display: none; }
+    details.groupcard > summary::before { content: '▸ '; color: var(--gold); }
+    details.groupcard[open] > summary::before { content: '▾ '; }
+    details.groupcard > summary .count { font-family: var(--sans); font-size: .8rem; color: var(--body); }
+    details.groupcard > .inner { padding: 0 1.5rem 1.5rem; }
+
+    .req { font-weight: 400; font-size: .75rem; color: var(--stop); letter-spacing: .04em; text-transform: uppercase; }
+    .check { display: flex; align-items: center; gap: .5rem; }
+    .check input { width: auto; }
+    .checks { display: grid; gap: .35rem .9rem; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); }
+
+    .listrow { display: flex; gap: .5rem; margin-bottom: .4rem; align-items: center; }
+    .listrow .btn { padding: .35rem .7rem; flex: none; }
+
+    .chips { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: .5rem; }
+    .chips .chip { text-transform: none; letter-spacing: 0; font-weight: 600; }
+    .chips button { border: 0; background: none; cursor: pointer; color: var(--brown2); padding: 0 0 0 .1rem; font-size: .9rem; }
+
+    .rowcard { border: 1px solid var(--line2); border-radius: 12px; padding: 1rem 1.1rem; margin-bottom: .75rem; background: var(--page); }
+    .rowhead { display: flex; justify-content: space-between; align-items: center; margin-bottom: .8rem; }
+    .rowhead .who { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; font-weight: 700; color: var(--brown); }
+    .rowhead .btn { padding: .3rem .7rem; }
+    .subfields { border-left: 2px solid var(--line2); padding-left: 1rem; margin-bottom: 1.2rem; }
+    .subfields > .legend { font-weight: 600; color: var(--brown2); margin-bottom: .1rem; }
+
+    .landing { background: var(--tile); border-radius: 9px; padding: .6rem .8rem; display: inline-block; }
+    .saverow { display: flex; gap: .75rem; align-items: center; flex-wrap: wrap; margin-top: 1.5rem; }
+    .ok { color: var(--ok); }
+    .bad { color: var(--stop); }
+  </style>
+
+  <script>
+    import { collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import {
+      buildPrompt,
+      parseModelOutput,
+      callModel,
+      MODELS,
+      toMarkdownFile,
+      slugify,
+      stripDashes,
+      type Provider,
+    } from '../lib/ingest';
+    import { watchUser, roleFor } from '../lib/firebase';
+    import { canPublish, type Role } from '../lib/roles';
+    import type { User } from 'firebase/auth';
+
+    // ── Who is here ────────────────────────────────────────────────────
+
+    let me: User | null = null;
+    let myRole: Role | null = null;
+
+    let markReady: () => void = () => {};
+    const ready = new Promise<void>((resolve) => {
+      markReady = resolve;
+    });
+
+    async function bearer(): Promise<string> {
+      await ready;
+      if (!me) throw new Error('You are not signed in any more. Reload the page.');
+      return `Bearer ${await me.getIdToken()}`;
+    }
+
+    watchUser(async (user) => {
+      if (!user) return; // the shell sends them to the sign-in page
+      me = user;
+      myRole = await roleFor(user);
+      markReady();
+      const save = document.getElementById('save') as HTMLButtonElement | null;
+      const warn = document.getElementById('nopublish');
+      if (save && !canPublish(myRole)) {
+        save.disabled = true;
+        warn?.removeAttribute('hidden');
+      }
+    });
+
+    // ── State ──────────────────────────────────────────────────────────
+
+    let chosen: CollectionDef | null = null;
+    let record: Record<string, unknown> = {};
+    let bodyText = '';
+    let heldFile: File | null = null;
+    let pdfUrl = '';
+    let coverUrl = '';
+    let slugEdited = false;
+    let counter = 0;
+
+    const nextId = () => `f${(counter += 1)}`;
+
+    // ── Small DOM helpers ──────────────────────────────────────────────
+    //
+    // appendChild rather than append throughout. This project's TypeScript
+    // config loads the Cloudflare Worker types, whose HTMLRewriter declares its
+    // own Element.append, and the two definitions collide. appendChild has no
+    // such twin, so it is the one that typechecks.
+
+    function add(parent: Node, ...kids: (Node | string)[]): void {
+      for (const kid of kids) {
+        parent.appendChild(typeof kid === 'string' ? document.createTextNode(kid) : kid);
+      }
+    }
+
+    function el<K extends keyof HTMLElementTagNameMap>(
+      tag: K,
+      attrs: Record<string, string> = {},
+      ...kids: (Node | string)[]
+    ): HTMLElementTagNameMap[K] {
+      const node = document.createElement(tag);
+      for (const [key, value] of Object.entries(attrs)) {
+        if (key === 'class') node.className = value;
+        else node.setAttribute(key, value);
+      }
+      for (const kid of kids) add(node, kid);
+      return node;
+    }
+
+    function say(box: Element, text: string, tone: 'plain' | 'stop' = 'plain'): void {
+      box.replaceChildren(
+        el('p', { class: tone === 'stop' ? 'notice notice-stop' : 'notice' }, text),
+      );
+    }
+
+    function sayList(box: Element, heading: string, lines: string[]): void {
+      const wrap = el('div', { class: 'notice notice-stop' }, el('strong', {}, heading));
+      const list = el('ul', { style: 'margin:.5rem 0 0;padding-left:1.1rem' });
+      for (const line of lines) add(list, el('li', {}, line));
+      add(wrap, list);
+      box.replaceChildren(wrap);
+    }
+
+    function show(id: string): void {
+      document.getElementById(id)?.removeAttribute('hidden');
+    }
+
+    function goTo(id: string): void {
+      show(id);
+      document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // ── Reading and writing a nested record ────────────────────────────
+    //
+    // Field names are dotted paths, so 'publication.year' is the year inside
+    // the publication object. The form holds one nested object shaped exactly
+    // like the frontmatter it will become, and every control reads and writes
+    // its own path into it.
+
+    type Path = (string | number)[];
+
+    function readAt(root: unknown, path: Path): unknown {
+      let cursor: unknown = root;
+      for (const step of path) {
+        if (cursor === null || typeof cursor !== 'object') return undefined;
+        cursor = (cursor as Record<string | number, unknown>)[step];
+      }
+      return cursor;
+    }
+
+    function writeAt(root: Record<string, unknown>, path: Path, value: unknown): void {
+      let cursor: Record<string | number, unknown> = root;
+      for (let i = 0; i < path.length - 1; i += 1) {
+        const step = path[i];
+        const held = cursor[step];
+        if (held === null || typeof held !== 'object') {
+          cursor[step] = typeof path[i + 1] === 'number' ? [] : {};
+        }
+        cursor = cursor[step] as Record<string | number, unknown>;
+      }
+      const last = path[path.length - 1];
+      const empty =
+        value === undefined ||
+        value === '' ||
+        (Array.isArray(value) && value.length === 0) ||
+        (typeof value === 'number' && Number.isNaN(value));
+      if (empty) delete cursor[last];
+      else cursor[last] = value;
+    }
+
+    /** Turn any dotted keys a model handed back into real nested objects. */
+    function deepen(input: unknown): unknown {
+      if (Array.isArray(input)) return input.map(deepen);
+      if (input === null || typeof input !== 'object') return input;
+      const out: Record<string, unknown> = {};
+      for (const [key, value] of Object.entries(input as Record<string, unknown>)) {
+        writeAt(out, key.split('.'), deepen(value));
+      }
+      return out;
+    }
+
+    /** Where a child of an object or a row actually lives. */
+    function childPath(parent: Field, child: Field, parentPath: Path): Path {
+      const prefix = `${parent.name}.`;
+      const relative = child.name.startsWith(prefix)
+        ? child.name.slice(prefix.length)
+        : child.name;
+      return [...parentPath, ...relative.split('.')];
+    }
+
+    // ── The pickers' source of truth ───────────────────────────────────
+
+    const listed = new Map<string, Promise<string[]>>();
+
+    function slugsFor(spec: string): Promise<string[]> {
+      const held = listed.get(spec);
+      if (held) return held;
+      const work = (async () => {
+        const found: string[] = [];
+        for (const part of spec.split('|')) {
+          try {
+            const response = await fetch(
+              `/api/list?collection=${encodeURIComponent(part)}`,
+              { headers: { Authorization: await bearer() } },
+            );
+            if (!response.ok) continue;
+            const data = (await response.json()) as { entries?: { slug: string }[] };
+            for (const entry of data.entries ?? []) found.push(entry.slug);
+          } catch {
+            // An unreachable list should not stop somebody typing the slug.
+          }
+        }
+        return found.sort();
+      })();
+      listed.set(spec, work);
+      return work;
+    }
+
+    // ── Rendering one field ────────────────────────────────────────────
+
+    function touched(): void {
+      refreshPreview();
+    }
+
+    function labelFor(field: Field, id: string): HTMLLabelElement {
+      const label = el('label', { for: id }, field.label);
+      if (field.required) add(label, ' ', el('span', { class: 'req' }, 'needed'));
+      return label;
+    }
+
+    function boxed(field: Field, id: string, control: Node): HTMLDivElement {
+      const box = el('div', { class: 'field' }, labelFor(field, id), control);
+      if (field.hint) add(box, el('p', { class: 'hint' }, field.hint));
+      return box;
+    }
+
+    function scalar(field: Field, path: Path, id: string): Node {
+      const held = readAt(record, path);
+
+      if (field.kind === 'textarea' || field.kind === 'markdown') {
+        const area = el('textarea', { id, rows: field.kind === 'markdown' ? '9' : '4' });
+        area.value = typeof held === 'string' ? held : '';
+        area.addEventListener('input', () => {
+          writeAt(record, path, area.value);
+          touched();
+        });
+        return area;
+      }
+
+      if (field.kind === 'select') {
+        const select = el('select', { id });
+        add(select, el('option', { value: '' }, field.required ? 'Choose one' : 'Not set'));
+        for (const option of field.options ?? []) {
+          add(select, el('option', { value: option }, option.replace(/_/g, ' ')));
+        }
+        select.value = typeof held === 'string' ? held : '';
+        select.addEventListener('change', () => {
+          writeAt(record, path, select.value);
+          touched();
+        });
+        return select;
+      }
+
+      const input = el('input', { id });
+      if (field.kind === 'number' || field.kind === 'year') input.type = 'number';
+      else if (field.kind === 'date') input.type = 'date';
+      else if (field.kind === 'url') input.type = 'url';
+      else input.type = 'text';
+      if (field.placeholder) input.placeholder = field.placeholder;
+      input.value = held === undefined || held === null ? '' : String(held);
+      input.addEventListener('input', () => {
+        const numeric = field.kind === 'number' || field.kind === 'year';
+        writeAt(record, path, numeric ? (input.value === '' ? undefined : Number(input.value)) : input.value);
+        touched();
+      });
+      return input;
+    }
+
+    function booleanField(field: Field, path: Path, id: string): HTMLDivElement {
+      const input = el('input', { id, type: 'checkbox' });
+      input.checked = readAt(record, path) === true;
+      input.addEventListener('change', () => {
+        writeAt(record, path, input.checked ? true : undefined);
+        touched();
+      });
+      const box = el(
+        'div',
+        { class: 'field' },
+        el('div', { class: 'check' }, input, labelFor(field, id)),
+      );
+      const label = box.querySelector('label');
+      if (label) label.style.marginBottom = '0';
+      if (field.hint) add(box, el('p', { class: 'hint' }, field.hint));
+      return box;
+    }
+
+    function multiselectField(field: Field, path: Path, id: string): HTMLDivElement {
+      const held = Array.isArray(readAt(record, path)) ? (readAt(record, path) as string[]) : [];
+      const chosenNow = new Set(held);
+      const grid = el('div', { class: 'checks', id });
+      for (const option of field.options ?? []) {
+        const box = el('input', { type: 'checkbox' });
+        box.checked = chosenNow.has(option);
+        box.addEventListener('change', () => {
+          if (box.checked) chosenNow.add(option);
+          else chosenNow.delete(option);
+          writeAt(record, path, [...chosenNow]);
+          touched();
+        });
+        const line = el('label', { class: 'check' }, box, el('span', {}, option.replace(/_/g, ' ')));
+        line.style.marginBottom = '0';
+        line.style.fontWeight = '400';
+        add(grid, line);
+      }
+      return boxed(field, id, grid);
+    }
+
+    function stringListField(field: Field, path: Path, id: string): HTMLDivElement {
+      const values: string[] = Array.isArray(readAt(record, path))
+        ? ([...(readAt(record, path) as unknown[])].map(String))
+        : [];
+      const rows = el('div', { id });
+
+      function commit(): void {
+        writeAt(record, path, values.filter((value) => value.trim() !== ''));
+        touched();
+      }
+
+      function draw(): void {
+        rows.replaceChildren();
+        values.forEach((value, index) => {
+          const input = el('input', { type: 'text' });
+          input.value = value;
+          input.addEventListener('input', () => {
+            values[index] = input.value;
+            commit();
+          });
+          const remove = el('button', { class: 'btn btn-quiet', type: 'button' }, 'Remove');
+          remove.addEventListener('click', () => {
+            values.splice(index, 1);
+            commit();
+            draw();
+          });
+          add(rows, el('div', { class: 'listrow' }, input, remove));
+        });
+        const adder = el('button', { class: 'btn btn-quiet', type: 'button' }, 'Add one more');
+        adder.addEventListener('click', () => {
+          values.push('');
+          draw();
+        });
+        add(rows, adder);
+      }
+
+      draw();
+      return boxed(field, id, rows);
+    }
+
+    /**
+     * A text box backed by every slug that already exists in the collection,
+     * loaded the first time the box is used rather than on every render. The
+     * caller places the three pieces, because a single picker and a list of
+     * them want them in different orders.
+     */
+    interface Picker {
+      input: HTMLInputElement;
+      options: HTMLDataListElement;
+      count: HTMLParagraphElement;
+    }
+
+    function pickerInput(spec: string): Picker {
+      const listId = `dl-${nextId()}`;
+      const input = el('input', { type: 'text', list: listId, placeholder: 'Start typing a name' });
+      const options = el('datalist', { id: listId });
+      const count = el('p', { class: 'hint' }, 'Loading what is already in the archive.');
+      input.addEventListener(
+        'focus',
+        () => {
+          void slugsFor(spec).then((slugs) => {
+            options.replaceChildren();
+            for (const slug of slugs) add(options, el('option', { value: slug }));
+            count.textContent = slugs.length
+              ? `${slugs.length} to choose from. Type a few letters to narrow it down. If what you want is not there, add it to the archive first.`
+              : 'Nothing filed under that type yet, so type the name you want to use.';
+          });
+        },
+        { once: true },
+      );
+      return { input, options, count };
+    }
+
+    function referenceField(field: Field, path: Path, id: string): HTMLDivElement {
+      const box = el('div', { class: 'field' }, labelFor(field, id));
+      const picker = pickerInput(field.collection ?? '');
+      picker.input.id = id;
+      const held = readAt(record, path);
+      picker.input.value = typeof held === 'string' ? held : '';
+      picker.input.addEventListener('input', () => {
+        writeAt(record, path, picker.input.value.trim());
+        touched();
+      });
+      add(box, picker.input, picker.options, picker.count);
+      if (field.hint) add(box, el('p', { class: 'hint' }, field.hint));
+      return box;
+    }
+
+    function referenceListField(field: Field, path: Path, id: string): HTMLDivElement {
+      const values: string[] = Array.isArray(readAt(record, path))
+        ? ([...(readAt(record, path) as unknown[])].map(String))
+        : [];
+      const box = el('div', { class: 'field', id }, labelFor(field, id));
+      const chips = el('div', { class: 'chips' });
+      const picker = pickerInput(field.collection ?? '');
+      const input = picker.input;
+      const adder = el('button', { class: 'btn btn-quiet', type: 'button' }, 'Add');
+
+      function commit(): void {
+        writeAt(record, path, [...values]);
+        touched();
+      }
+
+      function drawChips(): void {
+        chips.replaceChildren();
+        values.forEach((value, index) => {
+          const drop = el('button', { type: 'button', title: `Remove ${value}` }, '×');
+          drop.addEventListener('click', () => {
+            values.splice(index, 1);
+            commit();
+            drawChips();
+          });
+          add(chips, el('span', { class: 'chip' }, value, drop));
+        });
+        if (!values.length) add(chips, el('span', { class: 'hint' }, 'None chosen yet.'));
+      }
+
+      function take(): void {
+        const value = input.value.trim();
+        if (!value || values.includes(value)) return;
+        values.push(value);
+        input.value = '';
+        commit();
+        drawChips();
+      }
+
+      adder.addEventListener('click', take);
+      input.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+          event.preventDefault();
+          take();
+        }
+      });
+
+      drawChips();
+      add(box, chips, el('div', { class: 'listrow' }, input, adder), picker.options, picker.count);
+      if (field.hint) add(box, el('p', { class: 'hint' }, field.hint));
+      return box;
+    }
+
+    function objectField(field: Field, path: Path, id: string): HTMLDivElement {
+      const box = el('div', { class: 'subfields', id });
+      add(box, el('p', { class: 'legend' }, field.label));
+      if (field.hint) add(box, el('p', { class: 'hint', style: 'margin-bottom:.8rem' }, field.hint));
+      for (const child of field.fields ?? []) {
+        add(box, renderField(child, childPath(field, child, path)));
+      }
+      return box;
+    }
+
+    function objectListField(field: Field, path: Path, id: string): HTMLDivElement {
+      const rows: unknown[] = Array.isArray(readAt(record, path))
+        ? [...(readAt(record, path) as unknown[])]
+        : [];
+      const box = el('div', { class: 'subfields', id });
+      add(box, el('p', { class: 'legend' }, field.label));
+      if (field.hint) add(box, el('p', { class: 'hint', style: 'margin-bottom:.8rem' }, field.hint));
+      const holder = el('div');
+      add(box, holder);
+
+      function commit(): void {
+        writeAt(record, path, [...rows]);
+        touched();
+      }
+
+      function draw(): void {
+        holder.replaceChildren();
+        rows.forEach((_, index) => {
+          const card = el('div', { class: 'rowcard' });
+          const remove = el('button', { class: 'btn btn-quiet', type: 'button' }, 'Remove');
+          remove.addEventListener('click', () => {
+            rows.splice(index, 1);
+            commit();
+            draw();
+          });
+          add(
+            card,
+            el(
+              'div',
+              { class: 'rowhead' },
+              el('span', { class: 'who' }, `${field.label}, number ${index + 1}`),
+              remove,
+            ),
+          );
+          for (const child of field.fields ?? []) {
+            add(card, renderField(child, childPath(field, child, [...path, index])));
+          }
+          add(holder, card);
+        });
+        if (!rows.length) add(holder, el('p', { class: 'hint' }, 'None yet.'));
+      }
+
+      const adder = el('button', { class: 'btn btn-quiet', type: 'button' }, `Add ${field.label.toLowerCase()}`);
+      adder.addEventListener('click', () => {
+        rows.push({});
+        commit();
+        draw();
+      });
+
+      draw();
+      add(box, adder);
+      return box;
+    }
+
+    function renderField(field: Field, path: Path): HTMLDivElement {
+      const id = nextId();
+      switch (field.kind) {
+        case 'boolean':
+          return booleanField(field, path, id);
+        case 'multiselect':
+          return multiselectField(field, path, id);
+        case 'string-list':
+          return stringListField(field, path, id);
+        case 'reference':
+          return referenceField(field, path, id);
+        case 'reference-list':
+          return referenceListField(field, path, id);
+        case 'object':
+          return objectField(field, path, id);
+        case 'object-list':
+          return objectListField(field, path, id);
+        default:
+          return boxed(field, id, scalar(field, path, id));
+      }
+    }
+
+    // ── Building the whole form ────────────────────────────────────────
+
+    const GROUP_ORDER = ['essential', 'publication', 'people', 'classification', 'files', 'advanced'] as const;
+
+    const GROUP_LABEL: Record<string, string> = {
+      essential: 'The essentials',
+      publication: 'Publication details',
+      people: 'People',
+      classification: 'Themes and classification',
+      files: 'Files, pictures and rights',
+      advanced: 'Everything else',
+    };
+
+    const GROUP_SAYS: Record<string, string> = {
+      publication: 'Who printed it, where, and how long it is.',
+      people: 'Everyone involved, and everyone the text talks about.',
+      classification: 'How the entry is filed and found.',
+      files: 'The scan, its pictures, and what the archive may do with it.',
+      advanced: 'Machine records, translations and workflow flags. Most of this can stay empty.',
+    };
+
+    function buildForm(): void {
+      const holder = document.getElementById('fields');
+      if (!holder || !chosen) return;
+      holder.replaceChildren();
+
+      for (const group of GROUP_ORDER) {
+        // The web address name is set once, in the file name box further down,
+        // so the form never offers two places to type the same thing.
+        const fields = chosen.fields.filter((f) => f.group === group && f.name !== 'id');
+        if (!fields.length) continue;
+
+        if (group === 'essential') {
+          const card = el('div', { class: 'card groupcard' });
+          add(card, el('h3', {}, GROUP_LABEL[group]), el('hr', { class: 'rule' }));
+          for (const field of fields) add(card, renderField(field, field.name.split('.')));
+          add(holder, card);
+          continue;
+        }
+
+        const card = el('details', { class: 'card groupcard' });
+        const summary = el('summary', {}, GROUP_LABEL[group]);
+        add(summary, ' ', el('span', { class: 'count' }, `${fields.length} fields`));
+        add(card, summary);
+        const inner = el('div', { class: 'inner' });
+        if (GROUP_SAYS[group]) add(inner, el('p', { class: 'hint', style: 'margin-bottom:1rem' }, GROUP_SAYS[group]));
+        for (const field of fields) add(inner, renderField(field, field.name.split('.')));
+        add(card, inner);
+        add(holder, card);
+      }
+
+      const bodyCard = document.getElementById('bodycard');
+      const bodyLabel = document.getElementById('bodylabel');
+      const bodyBox = document.getElementById('bodytext') as HTMLTextAreaElement | null;
+      if (chosen.hasBody && bodyCard && bodyLabel && bodyBox) {
+        bodyCard.removeAttribute('hidden');
+        bodyLabel.textContent = chosen.bodyLabel ?? 'Body';
+        bodyBox.value = bodyText;
+      } else {
+        bodyCard?.setAttribute('hidden', '');
+      }
+    }
+
+    // ── The preview, the slug and where it lands ───────────────────────
+
+    function currentSlug(): string {
+      const box = document.getElementById('slug') as HTMLInputElement | null;
+      return box ? box.value.trim() : '';
+    }
+
+    /**
+     * The file exactly as it will be committed. The id comes first and comes
+     * from the file name box, so the name on disk and the id inside the file
+     * can never disagree.
+     */
+    function fileNow(): string {
+      if (!chosen) return '';
+      const slug = currentSlug();
+      const data: Record<string, unknown> = {};
+      if (slug) data.id = slug;
+      for (const [key, value] of Object.entries(record)) {
+        if (key !== 'id') data[key] = value;
+      }
+      return toMarkdownFile(data, chosen.hasBody ? bodyText : undefined);
+    }
+
+    function refreshPreview(): void {
+      // The file name is worked out first, because it is written into the
+      // entry as its id and so has to be settled before the preview is drawn.
+      const slugBox = document.getElementById('slug') as HTMLInputElement | null;
+      if (slugBox && !slugEdited && chosen) {
+        const source = readAt(record, chosen.slugFrom.split('.'));
+        if (typeof source === 'string' && source.trim()) slugBox.value = slugify(source);
+      }
+
+      const preview = document.getElementById('preview');
+      if (preview) preview.textContent = fileNow();
+
+      const landing = document.getElementById('landing');
+      if (landing && chosen) {
+        landing.textContent = `${chosen.id}/${currentSlug() || 'not-named-yet'}.md`;
+      }
+
+      const summaryBox = document.getElementById('summary') as HTMLInputElement | null;
+      if (summaryBox && !summaryBox.dataset.edited && chosen) {
+        summaryBox.value = `content(${chosen.id}): add ${currentSlug() || 'a new entry'}`;
+      }
+    }
+
+    // ── Step 1 ─────────────────────────────────────────────────────────
+
+    document.querySelectorAll<HTMLButtonElement>('[data-kind]').forEach((button) => {
+      button.addEventListener('click', () => {
+        const found = collectionById(button.dataset.kind ?? '');
+        if (!found) return;
+        chosen = found;
+        document.querySelectorAll('.kind').forEach((card) => card.classList.remove('picked'));
+        button.classList.add('picked');
+        goTo('step-2');
+      });
+    });
+
+    // ── Step 2 ─────────────────────────────────────────────────────────
+
+    interface UploadDone {
+      ok: boolean;
+      clash?: boolean;
+      url?: string;
+      key?: string;
+      error?: string;
+    }
+
+    async function sendFile(
+      file: File,
+      kind: string,
+      overwrite: boolean,
+      onProgress: (pct: number) => void,
+    ): Promise<UploadDone> {
+      // The token is fetched before the promise starts, so a signed-out editor
+      // gets a plain error rather than a progress bar that never moves.
+      const token = await bearer();
+      return new Promise((resolve) => {
+        const form = new FormData();
+        form.append('file', file);
+        form.append('kind', kind);
+        if (overwrite) form.append('overwrite', 'yes');
+
+        // XMLHttpRequest rather than fetch, because it is the only way to know
+        // how far a 100 MB scan has got.
+        const request = new XMLHttpRequest();
+        request.open('POST', '/api/upload');
+        request.setRequestHeader('Authorization', token);
+        request.upload.addEventListener('progress', (event) => {
+          if (event.lengthComputable) onProgress(Math.round((event.loaded / event.total) * 100));
+        });
+        request.addEventListener('load', () => {
+          let data: Record<string, unknown> = {};
+          try {
+            data = JSON.parse(request.responseText) as Record<string, unknown>;
+          } catch {
+            resolve({ ok: false, error: 'The server said something we could not read.' });
+            return;
+          }
+          if (request.status === 409 && data.needsConfirmation) {
+            resolve({ ok: false, clash: true, error: String(data.error ?? '') });
+            return;
+          }
+          if (request.status >= 400) {
+            resolve({ ok: false, error: String(data.error ?? `The upload failed with code ${request.status}.`) });
+            return;
+          }
+          resolve({ ok: true, url: String(data.url ?? ''), key: String(data.key ?? '') });
+        });
+        request.addEventListener('error', () => {
+          resolve({ ok: false, error: 'The upload could not reach the server. Check the connection and try again.' });
+        });
+        request.send(form);
+      });
+    }
+
+    async function handleFile(file: File, overwrite = false): Promise<void> {
+      const state = document.getElementById('upstate');
+      if (!state) return;
+      const kind = file.type === 'application/pdf' ? 'pdf' : 'cover';
+      heldFile = file;
+
+      const bar = el('span');
+      const line = el('p', { class: 'hint' }, `Sending ${file.name}, ${(file.size / 1e6).toFixed(1)} MB.`);
+      state.replaceChildren(line, el('div', { class: 'bar' }, bar));
+
+      let result: UploadDone;
+      try {
+        result = await sendFile(file, kind, overwrite, (pct) => {
+          bar.style.width = `${pct}%`;
+          line.textContent = `Sending ${file.name}. ${pct} per cent.`;
+        });
+      } catch (error) {
+        say(state, (error as Error).message, 'stop');
+        return;
+      }
+
+      if (result.ok && result.url) {
+        if (kind === 'pdf') pdfUrl = result.url;
+        else coverUrl = result.url;
+        const link = el('a', { href: result.url, target: '_blank', rel: 'noreferrer' }, result.url);
+        state.replaceChildren(
+          el(
+            'div',
+            { class: 'notice' },
+            el('strong', {}, 'It is on the archive server. '),
+            'This address goes into the entry for you: ',
+            link,
+          ),
+        );
+        return;
+      }
+
+      if (result.clash) {
+        const again = el('button', { class: 'btn btn-primary', type: 'button' }, 'Replace it');
+        again.addEventListener('click', () => void handleFile(file, true));
+        const box = el(
+          'div',
+          { class: 'notice notice-stop' },
+          el('p', { style: 'margin:0 0 .75rem' }, result.error ?? 'A file of that name is already there.'),
+        );
+        add(box, again);
+        state.replaceChildren(box);
+        return;
+      }
+
+      say(state, result.error ?? 'The upload did not work.', 'stop');
+    }
+
+    const drop = document.getElementById('drop');
+    const fileBox = document.getElementById('file') as HTMLInputElement | null;
+
+    document.getElementById('pickfile')?.addEventListener('click', () => fileBox?.click());
+    fileBox?.addEventListener('change', () => {
+      const file = fileBox.files?.[0];
+      if (file) void handleFile(file);
+    });
+
+    drop?.addEventListener('dragover', (event) => {
+      event.preventDefault();
+      drop.classList.add('over');
+    });
+    drop?.addEventListener('dragleave', () => drop.classList.remove('over'));
+    drop?.addEventListener('drop', (event) => {
+      event.preventDefault();
+      drop.classList.remove('over');
+      const file = event.dataTransfer?.files?.[0];
+      if (file) void handleFile(file);
+    });
+
+    document.getElementById('to-step-3')?.addEventListener('click', () => goTo('step-3'));
+
+    // ── Step 3 ─────────────────────────────────────────────────────────
+
+    function openPanel(which: 'prompt' | 'key' | null): void {
+      for (const name of ['prompt', 'key']) {
+        const panel = document.getElementById(`panel-${name}`);
+        if (!panel) continue;
+        if (name === which) panel.removeAttribute('hidden');
+        else panel.setAttribute('hidden', '');
+      }
+    }
+
+    document.querySelectorAll<HTMLButtonElement>('[data-way]').forEach((button) => {
+      button.addEventListener('click', () => {
+        const way = button.dataset.way;
+        if (way === 'type') {
+          // Going in empty throws away anything already read out of a document,
+          // so ask before doing it rather than after.
+          const filled = Object.keys(record).length > 0;
+          if (filled && !window.confirm('Start again with an empty form? What is filled in now will be lost.')) {
+            return;
+          }
+          openPanel(null);
+          startForm({});
+          return;
+        }
+        if (way === 'prompt') {
+          openPanel('prompt');
+          void writePrompt();
+          document.getElementById('panel-prompt')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          return;
+        }
+        openPanel('key');
+        drawModels();
+        document.getElementById('panel-key')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+
+    async function currentPrompt(): Promise<string> {
+      if (!chosen) return '';
+      let thinkers: string[] = [];
+      let organisations: string[] = [];
+      try {
+        thinkers = await slugsFor('thinkers');
+        organisations = await slugsFor('organisations');
+      } catch {
+        // A prompt without the name lists is still a working prompt.
+      }
+      return buildPrompt({
+        collection: chosen,
+        knownThinkers: thinkers,
+        knownOrganisations: organisations,
+      });
+    }
+
+    async function writePrompt(): Promise<void> {
+      const box = document.getElementById('prompt');
+      if (!box) return;
+      box.textContent = 'Writing the prompt.';
+      box.textContent = await currentPrompt();
+    }
+
+    document.getElementById('copy-prompt')?.addEventListener('click', async () => {
+      const box = document.getElementById('prompt');
+      const said = document.getElementById('copy-said');
+      if (!box) return;
+      try {
+        await navigator.clipboard.writeText(box.textContent ?? '');
+        if (said) said.textContent = 'Copied. Paste it into your AI with the document.';
+      } catch {
+        if (said) said.textContent = 'Copying was blocked. Select the text below and copy it by hand.';
+      }
+    });
+
+    document.getElementById('read-pasted')?.addEventListener('click', () => {
+      const area = document.getElementById('pasted') as HTMLTextAreaElement | null;
+      const problems = document.getElementById('paste-problems');
+      if (!area || !problems || !chosen) return;
+      if (!area.value.trim()) {
+        say(problems, 'Nothing is pasted in yet.', 'stop');
+        return;
+      }
+      const result = parseModelOutput(area.value, chosen);
+      if (!result.data) {
+        sayList(problems, 'That reply could not be read:', result.problems);
+        return;
+      }
+      problems.replaceChildren();
+      startForm(result.data, result.body, result.problems);
+    });
+
+    // Your own key. It lives in this browser, under a name that says whose it is.
+
+    const keyName = (provider: Provider) => `thothica-cms:key:${provider}`;
+
+    function pickedProvider(): Provider {
+      const picked = document.querySelector<HTMLInputElement>('input[name="provider"]:checked');
+      return (picked?.value as Provider) ?? 'anthropic';
+    }
+
+    function drawModels(): void {
+      const provider = pickedProvider();
+      const select = document.getElementById('model') as HTMLSelectElement | null;
+      const note = document.getElementById('modelnote');
+      const keyBox = document.getElementById('apikey') as HTMLInputElement | null;
+      if (!select) return;
+      select.replaceChildren();
+      for (const model of MODELS[provider]) {
+        add(select, el('option', { value: model.id }, model.label));
+      }
+      const first = MODELS[provider][0];
+      if (note && first) note.textContent = first.note;
+      if (keyBox) keyBox.value = window.localStorage.getItem(keyName(provider)) ?? '';
+    }
+
+    document.querySelectorAll<HTMLInputElement>('input[name="provider"]').forEach((radio) => {
+      radio.addEventListener('change', drawModels);
+    });
+
+    document.getElementById('model')?.addEventListener('change', () => {
+      const select = document.getElementById('model') as unknown as HTMLSelectElement;
+      const note = document.getElementById('modelnote');
+      const found = MODELS[pickedProvider()].find((model) => model.id === select.value);
+      if (note && found) note.textContent = found.note;
+    });
+
+    document.getElementById('apikey')?.addEventListener('input', () => {
+      const box = document.getElementById('apikey') as HTMLInputElement;
+      const said = document.getElementById('keysaid');
+      window.localStorage.setItem(keyName(pickedProvider()), box.value);
+      if (said) said.textContent = 'Saved in this browser only. It is never sent to us.';
+    });
+
+    document.getElementById('run-model')?.addEventListener('click', async () => {
+      const problems = document.getElementById('run-problems');
+      const said = document.getElementById('runsaid');
+      const button = document.getElementById('run-model') as HTMLButtonElement;
+      const keyBox = document.getElementById('apikey') as HTMLInputElement | null;
+      const select = document.getElementById('model') as HTMLSelectElement | null;
+      if (!problems || !chosen || !keyBox || !select) return;
+
+      const apiKey = keyBox.value.trim();
+      if (!apiKey) {
+        say(problems, 'Type your API key first.', 'stop');
+        return;
+      }
+
+      problems.replaceChildren();
+      button.disabled = true;
+      if (said) said.textContent = 'Reading. A long scan can take a few minutes.';
+
+      try {
+        const pdfBase64 = heldFile && heldFile.type === 'application/pdf'
+          ? await asBase64(heldFile)
+          : undefined;
+        const reply = await callModel({
+          provider: pickedProvider(),
+          apiKey,
+          model: select.value,
+          prompt: await currentPrompt(),
+          pdfBase64,
+        });
+        const result = parseModelOutput(reply, chosen);
+        if (!result.data) {
+          sayList(problems, 'The model replied, but not with something we could read:', result.problems);
+          return;
+        }
+        startForm(result.data, result.body, result.problems);
+      } catch (error) {
+        say(problems, `That did not work: ${(error as Error).message}`, 'stop');
+      } finally {
+        button.disabled = false;
+        if (said) said.textContent = '';
+      }
+    });
+
+    function asBase64(file: File): Promise<string> {
+      return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.addEventListener('load', () => {
+          const parts = String(reader.result).split(',');
+          resolve(parts[1] ?? '');
+        });
+        reader.addEventListener('error', () => reject(new Error('That file could not be read.')));
+        reader.readAsDataURL(file);
+      });
+    }
+
+    // ── Step 4 ─────────────────────────────────────────────────────────
+
+    function startForm(data: Record<string, unknown>, body?: string, problems: string[] = []): void {
+      if (!chosen) return;
+      record = (deepen(stripDashes(data)) as Record<string, unknown>) ?? {};
+      bodyText = body ? stripDashes(body) : '';
+      slugEdited = false;
+
+      if (pdfUrl && chosen.fields.some((field) => field.name === 'pdf_url') && !record.pdf_url) {
+        record.pdf_url = pdfUrl;
+      }
+      if (coverUrl) {
+        if (chosen.fields.some((field) => field.name === 'cover_image') && !record.cover_image) {
+          record.cover_image = coverUrl;
+        } else if (chosen.fields.some((field) => field.name === 'hero_image') && !record.hero_image) {
+          record.hero_image = coverUrl;
+        }
+      }
+
+      // A model that proposed an id has proposed a file name, and its version
+      // usually carries the author and the year. Keep it, and stop the file
+      // name from being rewritten out of the title underneath it.
+      const slugBox = document.getElementById('slug') as HTMLInputElement | null;
+      const proposed = typeof record.id === 'string' ? record.id.trim() : '';
+      if (slugBox) slugBox.value = proposed ? slugify(proposed) : '';
+      slugEdited = proposed !== '';
+
+      const notices = document.getElementById('notices');
+      if (notices) {
+        notices.replaceChildren();
+        if (problems.length) sayList(notices, 'Worth knowing before you save:', problems);
+      }
+
+      buildForm();
+      refreshPreview();
+      goTo('step-4');
+    }
+
+    document.getElementById('slug')?.addEventListener('input', () => {
+      slugEdited = true;
+      refreshPreview();
+    });
+
+    document.getElementById('summary')?.addEventListener('input', () => {
+      const box = document.getElementById('summary') as HTMLInputElement;
+      box.dataset.edited = 'yes';
+    });
+
+    document.getElementById('bodytext')?.addEventListener('input', () => {
+      const box = document.getElementById('bodytext') as HTMLTextAreaElement;
+      bodyText = box.value;
+      refreshPreview();
+    });
+
+    document.getElementById('startover')?.addEventListener('click', () => {
+      window.location.reload();
+    });
+
+    document.getElementById('entry')?.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const out = document.getElementById('saveout');
+      const button = document.getElementById('save') as HTMLButtonElement;
+      if (!out || !chosen) return;
+
+      const slug = currentSlug();
+      if (!slug) {
+        say(out, 'Give it a file name first, in the box above.', 'stop');
+        return;
+      }
+
+      const missing = chosen.fields
+        .filter((field) => field.required && field.name !== 'id')
+        .filter((field) => readAt(record, field.name.split('.')) === undefined)
+        .map((field) => field.label);
+      if (missing.length) {
+        sayList(out, 'These have to be filled in before it can be saved:', missing);
+        return;
+      }
+
+      const summaryBox = document.getElementById('summary') as HTMLInputElement | null;
+      button.disabled = true;
+      say(out, 'Saving.');
+
+      try {
+        const response = await fetch('/api/save', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json', Authorization: await bearer() },
+          body: JSON.stringify({
+            collection: chosen.id,
+            slug,
+            content: fileNow(),
+            summary: summaryBox?.value ?? '',
+          }),
+        });
+        const data = (await response.json()) as {
+          error?: string;
+          problems?: string[];
+          url?: string;
+          path?: string;
+        };
+
+        if (response.status === 422) {
+          sayList(out, data.error ?? 'The entry is not valid yet', data.problems ?? []);
+          return;
+        }
+        if (response.status === 409) {
+          say(out, data.error ?? 'Something with that name is already there.', 'stop');
+          return;
+        }
+        if (!response.ok) {
+          say(out, data.error ?? `The save failed with code ${response.status}.`, 'stop');
+          return;
+        }
+
+        const box = el('div', { class: 'notice' });
+        add(box, el('p', { style: 'margin:0 0 .5rem' }, el('strong', {}, 'Saved. ')));
+        add(
+          box,
+          el(
+            'p',
+            { class: 'hint', style: 'margin:0 0 .75rem' },
+            `It is now ${data.path ?? ''} in the archive. The site shows it once it rebuilds, which takes a couple of minutes.`,
+          ),
+        );
+        if (data.url) {
+          const link = el(
+            'a',
+            { href: data.url, target: '_blank', rel: 'noreferrer' },
+            'See the change in the archive history',
+          );
+          add(box, el('p', { style: 'margin:0 0 .75rem' }, link));
+        }
+        const another = el('button', { class: 'btn btn-primary', type: 'button' }, 'Add another');
+        another.addEventListener('click', () => window.location.reload());
+        add(box, another);
+        out.replaceChildren(box);
+      } catch (error) {
+        say(out, `That did not work: ${(error as Error).message}`, 'stop');
+      } finally {
+        button.disabled = !canPublish(myRole);
+      }
+    });
+
+  </script>
+</Shell>

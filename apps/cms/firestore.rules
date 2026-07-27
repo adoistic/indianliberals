@@ -1,0 +1,98 @@
+rules_version = '2';
+
+// Thothica CMS access rules.
+//
+// The whole roles model lives here, which is why there is no Firebase service
+// account anywhere in this project. The rules are the root of trust: the super
+// admin is pinned by email below, and nobody can grant themselves a role
+// because every write to /roles is checked against the writer's own role
+// document, which they cannot edit.
+//
+// Deploy with:  firebase deploy --only firestore:rules
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() {
+      return request.auth != null && request.auth.token.email_verified == true;
+    }
+
+    function email() {
+      return request.auth.token.email.lower();
+    }
+
+    // Pinned, not stored. Changing who this is means editing this file and
+    // redeploying the rules, which cannot be done from inside the CMS.
+    function isSuperAdmin() {
+      return signedIn() && email() == 'adnan@thothica.com';
+    }
+
+    function roleOf(addr) {
+      return get(/databases/$(database)/documents/roles/$(addr)).data.role;
+    }
+
+    function hasRoleDoc() {
+      return exists(/databases/$(database)/documents/roles/$(email()));
+    }
+
+    function myRole() {
+      return isSuperAdmin() ? 'super_admin' : (hasRoleDoc() ? roleOf(email()) : null);
+    }
+
+    function isAdmin() {
+      return isSuperAdmin() || myRole() == 'admin';
+    }
+
+    function canPublish() {
+      return isAdmin() || myRole() == 'sub_admin';
+    }
+
+    // ── Roles ────────────────────────────────────────────────────────────
+    // Document id is the person's lowercased email.
+    match /roles/{addr} {
+
+      // Anyone signed in can read the roster. Knowing who the editors are is
+      // not sensitive, and the interface needs it to show a team list.
+      allow read: if signedIn();
+
+      // An admin may create or change sub-admins and contributors. Only the
+      // super admin may touch an admin, in either direction, so an admin
+      // cannot promote a colleague to their own level or demote a peer.
+      allow create, update: if
+        (isSuperAdmin() && request.resource.data.role in ['admin', 'sub_admin', 'contributor'])
+        || (
+          myRole() == 'admin'
+          && request.resource.data.role in ['sub_admin', 'contributor']
+          && (!exists(/databases/$(database)/documents/roles/$(addr))
+              || resource.data.role in ['sub_admin', 'contributor'])
+        );
+
+      allow delete: if
+        isSuperAdmin()
+        || (myRole() == 'admin' && resource.data.role in ['sub_admin', 'contributor']);
+    }
+
+    // ── Drafts ───────────────────────────────────────────────────────────
+    // A contributor prepares work here; a sub-admin or admin publishes it,
+    // which is the moment it becomes a commit. Drafts never reach the site.
+    match /drafts/{draftId} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.author == email();
+      allow update: if signedIn() && (resource.data.author == email() || canPublish());
+      allow delete: if signedIn() && (resource.data.author == email() || isAdmin());
+    }
+
+    // ── Activity log ─────────────────────────────────────────────────────
+    // Append only, from the client, and readable by anyone signed in. Deleting
+    // history would be the first thing a careless change costs us.
+    match /activity/{entry} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.actor == email();
+      allow update, delete: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -115,3 +115,7 @@ scripts/eval/runparts/
 # content files in one pass. The repair report IS committed, because it records
 # which files were rewritten and why.
 scripts/heading-offset/measured.json
+
+# GitHub App credentials for the CMS. Holds a private key: created by
+# apps/cms/scripts/create-github-app.mjs, pushed to Cloudflare as a secret.
+.github-app.json

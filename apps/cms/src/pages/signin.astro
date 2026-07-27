@@ -1,0 +1,95 @@
+---
+import Shell from '../layouts/Shell.astro';
+---
+
+<Shell title="Sign in" bare>
+  <div class="card panel">
+    <img src="/thothica-logo.png" alt="Thothica" width="170" height="49" class="logo" />
+    <h1>Thothica CMS</h1>
+    <hr class="rule" />
+    <p class="lede">
+      The editing interface for the Indian Liberals archive. Sign in with the address you were
+      invited on. There is no password to remember.
+    </p>
+
+    <div class="stack">
+      <button class="btn btn-primary wide" id="google">Continue with Google</button>
+
+      <div class="or"><span>or have a link emailed to you</span></div>
+
+      <form id="linkform" class="stack">
+        <div class="field" style="margin:0">
+          <label for="email">Your email address</label>
+          <input type="email" id="email" required placeholder="you@ccs.in" autocomplete="email" />
+          <p class="hint">
+            We send a one time link. Opening it on this device signs you in.
+          </p>
+        </div>
+        <button class="btn btn-quiet wide" type="submit" id="send">Email me a link</button>
+      </form>
+
+      <p id="status" class="notice" hidden></p>
+    </div>
+  </div>
+
+  <style>
+    .panel { max-width: 26rem; padding: 2.5rem; }
+    .logo { height: 40px; width: auto; display: block; margin-bottom: 1.5rem; }
+    .lede { margin: 0 0 1.75rem; }
+    .wide { width: 100%; }
+    .or {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      color: var(--body);
+      font-size: 0.85rem;
+      margin: 0.25rem 0;
+    }
+    .or::before, .or::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--line2);
+    }
+  </style>
+
+  <script>
+    import { signInWithGoogle, sendMagicLink, watchUser } from '../lib/firebase';
+
+    const status = document.getElementById('status')!;
+    const show = (message: string, bad = false) => {
+      status.textContent = message;
+      status.className = bad ? 'notice notice-stop' : 'notice';
+      status.hidden = false;
+    };
+
+    // Already signed in? Do not make them do it again.
+    watchUser((user) => {
+      if (user) location.href = '/';
+    });
+
+    document.getElementById('google')?.addEventListener('click', async () => {
+      try {
+        await signInWithGoogle();
+        location.href = '/';
+      } catch (error: any) {
+        if (error?.code === 'auth/popup-closed-by-user') return;
+        show(`That did not work: ${error?.message ?? error}`, true);
+      }
+    });
+
+    document.getElementById('linkform')?.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const input = document.getElementById('email') as unknown as HTMLInputElement;
+      const button = document.getElementById('send') as unknown as HTMLButtonElement;
+      button.disabled = true;
+      try {
+        await sendMagicLink(input.value);
+        show(`Check ${input.value.trim()}. The link works once and expires.`);
+      } catch (error: any) {
+        show(`Could not send it: ${error?.message ?? error}`, true);
+        button.disabled = false;
+      }
+    });
+  </script>
+</Shell>

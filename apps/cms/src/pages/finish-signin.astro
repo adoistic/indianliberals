@@ -1,0 +1,52 @@
+---
+import Shell from '../layouts/Shell.astro';
+---
+
+<Shell title="Signing you in" bare>
+  <div class="card" style="max-width:26rem;padding:2.5rem;text-align:center">
+    <img src="/thothica-logo.png" alt="Thothica" width="150" height="43" style="height:36px;width:auto;margin-bottom:1.25rem" />
+    <h1 id="head">Signing you in</h1>
+    <hr class="rule" style="margin-inline:auto" />
+    <p id="msg">One moment.</p>
+    <p id="ask" hidden>
+      <label for="addr">Confirm the address this link was sent to</label>
+      <input type="email" id="addr" placeholder="you@ccs.in" />
+      <button class="btn btn-primary" id="go" style="margin-top:.75rem;width:100%">Continue</button>
+    </p>
+  </div>
+
+  <script>
+    import { isMagicLink, completeMagicLink } from '../lib/firebase';
+
+    const head = document.getElementById('head')!;
+    const msg = document.getElementById('msg')!;
+    const ask = document.getElementById('ask')!;
+
+    async function attempt(address?: string) {
+      try {
+        await completeMagicLink(() => address ?? null);
+        location.href = '/';
+      } catch (error: any) {
+        if (String(error?.message).includes('needs the address')) {
+          // Opened on a different device from the one that asked for the link.
+          msg.textContent = 'This link was opened on a different device, so we need the address again.';
+          ask.removeAttribute('hidden');
+          return;
+        }
+        head.textContent = 'That link did not work';
+        msg.textContent = `${error?.message ?? error}. Links expire and work once. Ask for a fresh one.`;
+      }
+    }
+
+    if (!isMagicLink()) {
+      head.textContent = 'Nothing to finish here';
+      msg.innerHTML = 'Open the link from your email, or <a href="/signin">start again</a>.';
+    } else {
+      attempt();
+    }
+
+    document.getElementById('go')?.addEventListener('click', () => {
+      attempt((document.getElementById('addr') as unknown as HTMLInputElement).value);
+    });
+  </script>
+</Shell>

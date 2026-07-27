@@ -1,0 +1,161 @@
+/* Thothica brand tokens.
+   Warm, editorial, scholarly. One family of browns with gold as seasoning,
+   never as a fill. Cormorant Garamond for voice, Teachers for clarity. */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Teachers:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap');
+
+:root {
+  --brown: #624120;
+  --brown2: #5a4530;
+  --deep: #4f3419;
+  --gold: #b8956a;
+  --sand: #e0c4ac;
+  --cream: #fcf7f1;
+  --page: #fcfcfa;
+  --card: #ffffff;
+  --tile: #f4efe8;
+  --badge: #efeeea;
+  --line: #c9c2ba;
+  --line2: #e3ddd5;
+  --body: #6f665e;
+
+  --serif: 'Cormorant Garamond', Georgia, serif;
+  --sans: 'Teachers', 'Trebuchet MS', Calibri, sans-serif;
+
+  --ok: #2d7a3e;
+  --warn: #b8860b;
+  --stop: #a33a2a;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--body);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  color: var(--brown);
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0;
+}
+
+h1 { font-size: 2.1rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.15rem; }
+
+a { color: var(--brown); }
+
+/* The signature divider: a short gold hairline, used under an eyebrow or a
+   heading. It is the one place gold appears at any size. */
+.rule {
+  width: 44px;
+  height: 1px;
+  background: var(--gold);
+  border: 0;
+  margin: 0.75rem 0 1.25rem;
+}
+
+.eyebrow {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--brown);
+  margin: 0;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line2);
+  border-radius: 15px;
+  padding: 1.5rem;
+}
+
+.tile { background: var(--tile); border-radius: 14px; }
+
+.btn {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.65rem 1.25rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: filter 0.15s, background 0.15s;
+}
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.btn-primary { background: var(--brown); color: var(--cream); }
+.btn-primary:hover:not(:disabled) { filter: brightness(1.12); }
+.btn-quiet {
+  background: var(--card);
+  color: var(--brown);
+  border-color: var(--line);
+}
+.btn-quiet:hover:not(:disabled) { background: var(--tile); }
+
+label { display: block; font-weight: 600; color: var(--brown2); margin-bottom: 0.3rem; }
+
+.hint { font-size: 0.85rem; color: var(--body); margin: 0.25rem 0 0; }
+
+input[type='text'], input[type='email'], input[type='number'], input[type='url'],
+textarea, select {
+  width: 100%;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  color: var(--brown);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  padding: 0.55rem 0.7rem;
+}
+input:focus, textarea:focus, select:focus {
+  outline: 2px solid var(--gold);
+  outline-offset: 1px;
+  border-color: var(--gold);
+}
+
+.field { margin-bottom: 1.2rem; }
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: var(--badge);
+  color: var(--brown2);
+}
+.chip-gold { background: color-mix(in srgb, var(--gold) 22%, transparent); color: var(--deep); }
+.chip-ok { background: color-mix(in srgb, var(--ok) 15%, transparent); color: var(--ok); }
+.chip-stop { background: color-mix(in srgb, var(--stop) 13%, transparent); color: var(--stop); }
+
+.tabular { font-variant-numeric: tabular-nums; }
+
+.notice {
+  border-left: 2px solid var(--gold);
+  background: var(--cream);
+  padding: 0.9rem 1.1rem;
+  border-radius: 0 10px 10px 0;
+}
+.notice-stop { border-left-color: var(--stop); }
+
+code, pre, .mono { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: 0.85em; }
+pre { background: var(--tile); padding: 1rem; border-radius: 10px; overflow-x: auto; }
+
+.muted { color: var(--body); }
+.stack > * + * { margin-top: 1rem; }
+.row { display: flex; gap: 0.75rem; align-items: center; }
+.grow { flex: 1; min-width: 0; }

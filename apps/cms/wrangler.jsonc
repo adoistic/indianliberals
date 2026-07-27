@@ -1,0 +1,28 @@
+{
+  "name": "thothica-cms",
+  "compatibility_date": "2026-05-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": "dist",
+
+  // The archive bucket the site already serves PDFs and covers from. Bound
+  // directly, so uploads need no credential of their own.
+  "r2_buckets": [
+    { "binding": "ARCHIVE", "bucket_name": "indianliberals-archive" }
+  ],
+
+  "vars": {
+    "GITHUB_OWNER": "adoistic",
+    "GITHUB_REPO": "indianliberals",
+    "GITHUB_BRANCH": "main",
+    "CONTENT_ROOT": "apps/site/src/content",
+    "FIREBASE_PROJECT_ID": "thothica-cms-for-ccs",
+    "SUPER_ADMIN_EMAIL": "adnan@thothica.com",
+    "SITE_ORIGIN": "https://indianliberals.in",
+    "ARCHIVE_ORIGIN": "https://archive.indianliberals.in"
+  }
+
+  // Secrets, set with `wrangler secret put`, never in this file:
+  //   GITHUB_APP_ID
+  //   GITHUB_APP_INSTALLATION_ID
+  //   GITHUB_APP_PRIVATE_KEY
+}

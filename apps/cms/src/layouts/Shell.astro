@@ -1,0 +1,162 @@
+---
+import '../styles/brand.css';
+
+interface Props {
+  title: string;
+  /** Set on the login screen, which has no navigation and no signed-in user. */
+  bare?: boolean;
+}
+
+const { title, bare = false } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>{title} · Thothica CMS</title>
+    <link rel="icon" href="/thothica-logo.png" />
+  </head>
+  <body>
+    {
+      bare ? (
+        <main class="bare">
+          <slot />
+        </main>
+      ) : (
+        <div class="frame">
+          <header class="bar">
+            <a class="brand" href="/">
+              <img src="/thothica-logo.png" alt="Thothica" width="140" height="40" />
+            </a>
+            <nav id="nav" hidden>
+              <a href="/">Archive</a>
+              <a href="/add">Add something</a>
+              <a href="/people" id="nav-people" hidden>People</a>
+            </nav>
+            <div class="who" id="who"></div>
+          </header>
+          <main class="page">
+            <slot />
+          </main>
+          <footer class="foot">
+            <span>Thothica CMS for the Centre for Civil Society</span>
+            <span class="muted">
+              Changes are saved to the archive repository and appear on the site after it rebuilds.
+            </span>
+          </footer>
+        </div>
+      )
+    }
+
+    <style>
+      .bare {
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 2rem;
+      }
+      .frame {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      .bar {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        padding: 0.9rem 1.75rem;
+        background: var(--card);
+        border-bottom: 1px solid var(--line2);
+      }
+      .brand {
+        display: flex;
+        align-items: center;
+        flex: none;
+      }
+      .brand img {
+        height: 34px;
+        width: auto;
+        display: block;
+      }
+      nav {
+        display: flex;
+        gap: 1.5rem;
+        flex: 1;
+      }
+      nav a {
+        text-decoration: none;
+        font-weight: 600;
+        color: var(--brown2);
+        padding: 0.2rem 0;
+        border-bottom: 2px solid transparent;
+      }
+      nav a:hover {
+        border-bottom-color: var(--gold);
+      }
+      .who {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        font-size: 0.9rem;
+      }
+      .page {
+        flex: 1;
+        width: 100%;
+        max-width: 78rem;
+        margin: 0 auto;
+        padding: 2.25rem 1.75rem 4rem;
+      }
+      .foot {
+        border-top: 1px solid var(--line2);
+        padding: 1.1rem 1.75rem;
+        display: flex;
+        gap: 1.5rem;
+        flex-wrap: wrap;
+        font-size: 0.85rem;
+        color: var(--body);
+      }
+      @media (max-width: 720px) {
+        .bar { flex-wrap: wrap; gap: 1rem; }
+        nav { order: 3; width: 100%; }
+      }
+    </style>
+
+    <script>
+      import { watchUser, roleFor, signOut } from '../lib/firebase';
+      import { ROLE_INFO, canManagePeople } from '../lib/roles';
+
+      const who = document.getElementById('who');
+      const nav = document.getElementById('nav');
+      const people = document.getElementById('nav-people');
+      if (who) {
+        watchUser(async (user) => {
+          if (!user) {
+            if (location.pathname !== '/signin' && location.pathname !== '/finish-signin') {
+              location.href = '/signin';
+            }
+            return;
+          }
+          const role = await roleFor(user);
+          if (!role) {
+            location.href = '/no-access';
+            return;
+          }
+          nav?.removeAttribute('hidden');
+          if (canManagePeople(role)) people?.removeAttribute('hidden');
+          who.innerHTML = `
+            <span class="chip chip-gold">${ROLE_INFO[role].label}</span>
+            <span class="muted">${user.email}</span>
+            <button class="btn btn-quiet" id="out" style="padding:.35rem .8rem">Sign out</button>`;
+          document.getElementById('out')?.addEventListener('click', async () => {
+            await signOut();
+            location.href = '/signin';
+          });
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1095 @@
+---
+import Shell from '../layouts/Shell.astro';
+---
+
+<Shell title="Edit an entry">
+  <p id="stage" class="muted">Opening the entry.</p>
+
+  <div id="failed" class="notice notice-stop" hidden></div>
+
+  <div id="editor" hidden>
+    <p class="eyebrow" id="kind"></p>
+    <h1 id="title">Untitled</h1>
+    <hr class="rule" />
+    <p class="lede" id="where"></p>
+
+    <p class="notice" id="readonly" hidden>
+      You can change anything on this page, but you cannot publish it yourself. A sub-admin or an
+      admin publishes your work. Make your changes, then ask one of them to save it for you.
+    </p>
+
+    <div class="layout">
+      <div class="left">
+        <div id="fields" class="stack"></div>
+
+        <section class="card" id="bodycard" hidden>
+          <h2 id="bodylabel">The written part</h2>
+          <hr class="rule" />
+          <p class="hint">
+            This is what readers see below the details. It is written in markdown, so a line
+            beginning with ## is a heading and a line beginning with a dash is a bullet.
+          </p>
+          <textarea id="body" rows="18" class="mono" spellcheck="true"></textarea>
+        </section>
+      </div>
+
+      <aside class="right">
+        <div class="card save">
+          <h2>Save your changes</h2>
+          <hr class="rule" />
+          <div class="field">
+            <label for="summary">What did you change</label>
+            <input type="text" id="summary" placeholder="Corrected the publisher" />
+            <p class="hint">
+              One short line, recorded against your name in the archive's history. Leave it blank
+              and we will write one for you.
+            </p>
+          </div>
+          <button class="btn btn-primary" id="savebtn" type="button" style="width:100%">
+            Save to the archive
+          </button>
+          <p class="hint" id="dashwarn" hidden>
+            There are long dashes in this entry. They become commas when you save, because the
+            house style does not allow them.
+          </p>
+          <div id="result"></div>
+        </div>
+
+        <details class="card preview">
+          <summary>See the file this will write</summary>
+          <p class="hint">
+            Exactly what gets stored in the archive, character for character. You do not need to
+            understand any of it to use the form. It is here so you can check.
+          </p>
+          <pre id="preview"></pre>
+        </details>
+
+        <details class="card" id="othercard" hidden>
+          <summary>Other things kept in this file</summary>
+          <p class="hint">
+            The form above has no box for these, so they are left exactly as they were and written
+            back untouched when you save.
+          </p>
+          <ul id="other" class="other"></ul>
+        </details>
+      </aside>
+    </div>
+
+    <div id="lists" hidden></div>
+  </div>
+
+  <style>
+    .lede { max-width: 46rem; }
+    .layout { display: grid; grid-template-columns: minmax(0, 1fr) 21rem; gap: 1.5rem; align-items: start; margin-top: 1.75rem; }
+    .right { position: sticky; top: 1rem; display: flex; flex-direction: column; gap: 1rem; }
+    .save h2 { font-size: 1.2rem; }
+    .preview summary, #othercard summary { font-family: var(--serif); font-size: 1.15rem; color: var(--brown); cursor: pointer; }
+    .preview pre { max-height: 26rem; overflow: auto; white-space: pre-wrap; word-break: break-word; margin-top: .75rem; }
+    .other { font-size: .85rem; padding-left: 1.1rem; margin: .5rem 0 0; }
+    .other code { color: var(--brown); }
+    #result .notice { margin-top: 1rem; }
+    #result .hint { margin-top: 1rem; }
+
+    .group > summary { font-family: var(--serif); font-size: 1.3rem; color: var(--brown); cursor: pointer; list-style: none; }
+    .group > summary::-webkit-details-marker { display: none; }
+    .group > summary::before { content: '▸'; color: var(--gold); margin-right: .4rem; }
+    .group[open] > summary::before { content: '▾'; }
+    .group > summary .n { font-size: .8rem; color: var(--body); font-family: var(--sans); margin-left: .5rem; }
+    .groupbody { margin-top: 1rem; }
+
+    .req { color: var(--stop); }
+    .tick { display: flex; align-items: center; gap: .6rem; }
+    .tick input { width: auto; }
+    .tick label { margin: 0; font-weight: 400; }
+
+    .listrow { display: flex; gap: .5rem; margin-bottom: .45rem; }
+    .tiny { padding: .35rem .75rem; font-size: .82rem; }
+    .objrow { border: 1px solid var(--line2); border-radius: 12px; padding: 1rem; margin-bottom: .75rem; background: var(--page); }
+    .objhead { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: .8rem; }
+    .objnum { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; font-weight: 700; color: var(--brown); }
+    .nest { border-left: 2px solid var(--line2); padding-left: .9rem; margin-bottom: 1.2rem; }
+    .nesthead { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; font-weight: 700; color: var(--brown); margin: 0 0 .2rem; }
+    .checks { display: flex; flex-wrap: wrap; gap: .4rem .9rem; }
+    .empty { font-size: .85rem; color: var(--body); margin: 0 0 .5rem; }
+
+    @media (max-width: 950px) {
+      .layout { grid-template-columns: minmax(0, 1fr); }
+      .right { position: static; }
+    }
+  </style>
+
+  <script>
+    import { watchUser, roleFor } from '../lib/firebase';
+    import { canPublish, type Role } from '../lib/roles';
+    import { collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import { toMarkdownFile } from '../lib/ingest';
+    import type { User } from 'firebase/auth';
+
+    // ── A small YAML reader ────────────────────────────────────────────
+    //
+    // Enough of YAML to read what this archive actually holds, and no more.
+    // The rule it must never break: a line it cannot understand is kept and
+    // written back word for word, so opening an entry and saving it again can
+    // never quietly drop something.
+
+    interface Row {
+      raw: string;
+      text: string;
+      indent: number;
+      blank: boolean;
+    }
+
+    function toRows(front: string): Row[] {
+      return front.split('\n').map((raw) => {
+        const trimmed = raw.replace(/\s+$/, '');
+        const indent = trimmed.search(/\S/);
+        return {
+          raw,
+          indent: indent < 0 ? -1 : indent,
+          text: indent < 0 ? '' : trimmed.slice(indent),
+          blank: indent < 0,
+        };
+      });
+    }
+
+    function scalar(input: string): unknown {
+      const s = input.trim();
+      if (s === '' || s === '~' || /^null$/i.test(s)) return null;
+      if (/^true$/i.test(s)) return true;
+      if (/^false$/i.test(s)) return false;
+      if (s === '[]') return [];
+      if (s === '{}') return {};
+      if (s.length > 1 && s.startsWith('"') && s.endsWith('"')) {
+        try {
+          return JSON.parse(s) as string;
+        } catch {
+          return s.slice(1, -1);
+        }
+      }
+      if (s.length > 1 && s.startsWith("'") && s.endsWith("'")) {
+        return s.slice(1, -1).replace(/''/g, "'");
+      }
+      if (s.startsWith('[') || s.startsWith('{')) {
+        try {
+          return JSON.parse(s) as unknown;
+        } catch {
+          return s;
+        }
+      }
+      // A leading zero means somebody meant the characters, not the number.
+      if (/^-?\d+$/.test(s) && !/^-?0\d/.test(s) && Math.abs(Number(s)) <= Number.MAX_SAFE_INTEGER) {
+        return Number(s);
+      }
+      if (/^-?\d*\.\d+$/.test(s)) return Number(s);
+      return s;
+    }
+
+    /** A block written with | or >, dedented back to its own left edge. */
+    function blockScalar(rows: Row[], from: number, to: number, folded: boolean): string {
+      const out: string[] = [];
+      let edge = -1;
+      for (let i = from; i < to; i++) {
+        const row = rows[i];
+        if (row.blank) {
+          out.push('');
+          continue;
+        }
+        if (edge < 0) edge = row.indent;
+        out.push(row.raw.slice(Math.min(edge, row.indent)).replace(/\s+$/, ''));
+      }
+      while (out.length && out[out.length - 1] === '') out.pop();
+      return folded ? out.join(' ').replace(/\s+/g, ' ').trim() : out.join('\n');
+    }
+
+    const BLOCK = /^[|>][-+]?\d*$/;
+    const KEYLINE = /^[^:\s][^:]*:(\s|$)/;
+
+    function endOfBlock(rows: Row[], start: number, to: number, indent: number): number {
+      let end = start;
+      while (end < to && (rows[end].blank || rows[end].indent > indent)) end++;
+      return end;
+    }
+
+    const isItem = (row: Row): boolean => row.text === '-' || row.text.startsWith('- ');
+
+    /**
+     * A list may be written at the same indentation as the key that owns it.
+     * That is ordinary YAML, and it is exactly what this archive's own writer
+     * produces, so a reader that only looks deeper than the key finds nothing.
+     */
+    function endOfValue(rows: Row[], start: number, to: number, indent: number): number {
+      const deeper = endOfBlock(rows, start, to, indent);
+      if (deeper > start) return deeper;
+
+      let first = start;
+      while (first < to && rows[first].blank) first++;
+      if (first >= to || rows[first].indent !== indent || !isItem(rows[first])) return deeper;
+
+      let end = first;
+      while (
+        end < to &&
+        (rows[end].blank ||
+          rows[end].indent > indent ||
+          (rows[end].indent === indent && isItem(rows[end])))
+      ) {
+        end++;
+      }
+      return end;
+    }
+
+    function parseMap(
+      rows: Row[],
+      from: number,
+      to: number,
+      indent: number,
+      kept: string[],
+    ): Record<string, unknown> {
+      const out: Record<string, unknown> = {};
+      let i = from;
+      while (i < to) {
+        const row = rows[i];
+        if (row.blank) {
+          i += 1;
+          continue;
+        }
+        if (row.indent < indent) break;
+        const colon = row.text.indexOf(':');
+        if (row.indent > indent || row.text.startsWith('#') || colon <= 0) {
+          kept.push(row.raw);
+          i += 1;
+          continue;
+        }
+
+        const key = row.text.slice(0, colon).trim();
+        const rest = row.text.slice(colon + 1).trim();
+        // Only a key with nothing after it can own a list written at its own
+        // indentation. Anywhere else a dash line at this level is a new thing.
+        const end =
+          rest === ''
+            ? endOfValue(rows, i + 1, to, indent)
+            : endOfBlock(rows, i + 1, to, indent);
+
+        if (rest === '') {
+          out[key] = end > i + 1 ? parseBlock(rows, i + 1, end, kept) : null;
+        } else if (BLOCK.test(rest)) {
+          out[key] = blockScalar(rows, i + 1, end, rest.startsWith('>'));
+        } else {
+          out[key] = scalar(rest);
+          for (let k = i + 1; k < end; k++) if (!rows[k].blank) kept.push(rows[k].raw);
+        }
+        i = end;
+      }
+      return out;
+    }
+
+    function parseSeq(
+      rows: Row[],
+      from: number,
+      to: number,
+      indent: number,
+      kept: string[],
+    ): unknown[] {
+      const out: unknown[] = [];
+      let i = from;
+      while (i < to) {
+        const row = rows[i];
+        if (row.blank) {
+          i += 1;
+          continue;
+        }
+        if (row.indent !== indent || !isItem(row)) {
+          kept.push(row.raw);
+          i += 1;
+          continue;
+        }
+
+        const rest = row.text.slice(1).trim();
+        const end = endOfBlock(rows, i + 1, to, indent);
+
+        if (rest === '') {
+          out.push(end > i + 1 ? parseBlock(rows, i + 1, end, kept) : null);
+        } else if (BLOCK.test(rest)) {
+          out.push(blockScalar(rows, i + 1, end, rest.startsWith('>')));
+        } else if (KEYLINE.test(rest)) {
+          // A row of a list of objects. Its first key sits on the dash line, so
+          // put that key back on a line of its own and read the row as a map.
+          let child = indent + 2;
+          for (let k = i + 1; k < end; k++) {
+            if (!rows[k].blank && rows[k].indent > indent) child = Math.min(child, rows[k].indent);
+          }
+          const head: Row = { raw: ' '.repeat(child) + rest, text: rest, indent: child, blank: false };
+          const sub = [head, ...rows.slice(i + 1, end)];
+          out.push(parseMap(sub, 0, sub.length, child, kept));
+        } else {
+          out.push(scalar(rest));
+          for (let k = i + 1; k < end; k++) if (!rows[k].blank) kept.push(rows[k].raw);
+        }
+        i = end;
+      }
+      return out;
+    }
+
+    function parseBlock(rows: Row[], from: number, to: number, kept: string[]): unknown {
+      let i = from;
+      while (i < to && rows[i].blank) i += 1;
+      if (i >= to) return null;
+      const indent = rows[i].indent;
+      return isItem(rows[i])
+        ? parseSeq(rows, i, to, indent, kept)
+        : parseMap(rows, i, to, indent, kept);
+    }
+
+    interface Split {
+      data: Record<string, unknown>;
+      body: string;
+      kept: string[];
+    }
+
+    function splitFile(raw: string): Split {
+      const kept: string[] = [];
+      const match = /^---\r?\n([\s\S]*?)\r?\n---[ \t]*\r?\n?([\s\S]*)$/.exec(raw);
+      if (!match) return { data: {}, body: raw, kept };
+      const rows = toRows(match[1]);
+      return { data: parseMap(rows, 0, rows.length, 0, kept), body: match[2].replace(/^\r?\n/, ''), kept };
+    }
+
+    // ── Reading and writing a dotted path ──────────────────────────────
+
+    function getPath(root: Record<string, unknown>, path: string): unknown {
+      let node: unknown = root;
+      for (const part of path.split('.')) {
+        if (node === null || typeof node !== 'object') return undefined;
+        node = (node as Record<string, unknown>)[part];
+      }
+      return node;
+    }
+
+    function setPath(root: Record<string, unknown>, path: string, value: unknown): void {
+      const parts = path.split('.');
+      let node: Record<string, unknown> = root;
+      for (let i = 0; i < parts.length - 1; i++) {
+        const next = node[parts[i]];
+        if (next === null || typeof next !== 'object') node[parts[i]] = {};
+        node = node[parts[i]] as Record<string, unknown>;
+      }
+      node[parts[parts.length - 1]] = value;
+    }
+
+    function clearPath(root: Record<string, unknown>, path: string): void {
+      const parts = path.split('.');
+      const chain: Record<string, unknown>[] = [root];
+      for (let i = 0; i < parts.length - 1; i++) {
+        const next = chain[i][parts[i]];
+        if (next === null || typeof next !== 'object') return;
+        chain.push(next as Record<string, unknown>);
+      }
+      delete chain[chain.length - 1][parts[parts.length - 1]];
+      // A parent left holding nothing is only noise in the file.
+      for (let i = chain.length - 1; i > 0; i--) {
+        if (Array.isArray(chain[i]) || Object.keys(chain[i]).length) break;
+        delete chain[i - 1][parts[i - 1]];
+      }
+    }
+
+    /** Empty boxes are not fields. Empty lists survive, because a file may mean one. */
+    function prune(value: unknown): unknown {
+      if (Array.isArray(value)) return value.map(prune).filter((v) => v !== undefined);
+      if (value && typeof value === 'object') {
+        const out: Record<string, unknown> = {};
+        for (const [key, inner] of Object.entries(value as Record<string, unknown>)) {
+          const kept = prune(inner);
+          if (kept !== undefined) out[key] = kept;
+        }
+        return Object.keys(out).length ? out : undefined;
+      }
+      if (value === '') return undefined;
+      return value;
+    }
+
+    function asArray(value: unknown): unknown[] {
+      if (Array.isArray(value)) return value;
+      if (value === null || value === undefined) return [];
+      return [value];
+    }
+
+    function esc(text: string): string {
+      return text.replace(/[&<>"']/g, (c) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+      );
+    }
+
+    /** Stored values are written for machines. Show them as words. */
+    function pretty(option: string): string {
+      const words = option.replace(/[_-]+/g, ' ').trim();
+      return words.charAt(0).toUpperCase() + words.slice(1);
+    }
+
+    // ── State ──────────────────────────────────────────────────────────
+
+    const params = new URL(location.href).searchParams;
+    const collectionId = params.get('collection') ?? '';
+    const slug = params.get('slug') ?? '';
+
+    const stage = document.getElementById('stage')!;
+    const failed = document.getElementById('failed')!;
+    const editor = document.getElementById('editor')!;
+    const fieldsBox = document.getElementById('fields')!;
+    const bodyCard = document.getElementById('bodycard')!;
+    const bodyInput = document.getElementById('body') as HTMLTextAreaElement;
+    const previewBox = document.getElementById('preview')!;
+    const summaryInput = document.getElementById('summary') as HTMLInputElement;
+    const saveBtn = document.getElementById('savebtn') as HTMLButtonElement;
+    const resultBox = document.getElementById('result')!;
+    const dashWarn = document.getElementById('dashwarn')!;
+    const listsBox = document.getElementById('lists')!;
+
+    let me: User | null = null;
+    let role: Role | null = null;
+    let collection: CollectionDef | null = null;
+    let data: Record<string, unknown> = {};
+    let body = '';
+    let kept: string[] = [];
+    let sha = '';
+
+    /** Every repeatable widget on the page, so a click can find its definition. */
+    const widgets = new Map<string, Field>();
+    /** One datalist per collection a picker points at. */
+    const datalists = new Map<string, string>();
+
+    function stop(message: string): void {
+      stage.hidden = true;
+      failed.hidden = false;
+      failed.textContent = message;
+    }
+
+    // ── Building the file ──────────────────────────────────────────────
+
+    function buildFile(): string {
+      const cleaned = (prune(JSON.parse(JSON.stringify(data)) as unknown) ?? {}) as Record<
+        string,
+        unknown
+      >;
+      const file = toMarkdownFile(cleaned, collection?.hasBody ? body : undefined);
+      if (!kept.length) return file;
+      const close = file.indexOf('\n---\n', 4);
+      if (close === -1) return file;
+      return `${file.slice(0, close)}\n${kept.join('\n')}${file.slice(close)}`;
+    }
+
+    let pending = 0;
+    function refresh(): void {
+      window.clearTimeout(pending);
+      pending = window.setTimeout(() => {
+        const file = buildFile();
+        previewBox.textContent = file;
+        dashWarn.hidden = !/[—–]/.test(file);
+        const heading = collection ? getPath(data, collection.titleField) : null;
+        if (typeof heading === 'string' && heading.trim()) {
+          document.getElementById('title')!.textContent = heading;
+        }
+      }, 120);
+    }
+
+    // ── One control per kind of field ──────────────────────────────────
+
+    function labelHtml(field: Field, id?: string): string {
+      const star = field.required
+        ? ' <span class="req" title="Every entry needs this one">(needed)</span>'
+        : '';
+      const forPart = id ? ` for="${esc(id)}"` : '';
+      return `<label${forPart}>${esc(field.label)}${star}</label>`;
+    }
+
+    function hintHtml(field: Field): string {
+      return field.hint ? `<p class="hint">${esc(field.hint)}</p>` : '';
+    }
+
+    function datalistFor(spec: string): string {
+      const id = `ref-${spec.replace(/\|/g, '--')}`;
+      datalists.set(spec, id);
+      return id;
+    }
+
+    function shownValue(path: string): string {
+      const value = getPath(data, path);
+      return value === null || value === undefined ? '' : String(value);
+    }
+
+    function textHtml(field: Field, path: string): string {
+      const id = `f-${path}`;
+      const shown = shownValue(path);
+      const rows = field.kind === 'markdown' ? 8 : 3;
+      return `<div class="field">${labelHtml(field, id)}<textarea id="${esc(id)}" rows="${rows}" data-path="${esc(
+        path,
+      )}" data-kind="text">${esc(shown)}</textarea>${hintHtml(field)}</div>`;
+    }
+
+    function selectHtml(field: Field, path: string): string {
+      const id = `f-${path}`;
+      const shown = shownValue(path);
+      const options = field.options ?? [];
+      const choices = options
+        .map(
+          (option) =>
+            `<option value="${esc(option)}"${option === shown ? ' selected' : ''}>${esc(
+              pretty(option),
+            )}</option>`,
+        )
+        .join('');
+      // A value nobody expected still has to appear, or saving would erase it.
+      const odd =
+        shown && !options.includes(shown)
+          ? `<option value="${esc(shown)}" selected>${esc(shown)} (not one of the usual choices)</option>`
+          : '';
+      return `<div class="field">${labelHtml(field, id)}<select id="${esc(id)}" data-path="${esc(
+        path,
+      )}" data-kind="text"><option value=""${shown ? '' : ' selected'}>Not set</option>${choices}${odd}</select>${hintHtml(
+        field,
+      )}</div>`;
+    }
+
+    function inputHtml(field: Field, path: string): string {
+      const id = `f-${path}`;
+      const shown = shownValue(path);
+      let type = 'text';
+      if (field.kind === 'number' || field.kind === 'year') type = 'number';
+      else if (field.kind === 'url') type = 'url';
+      else if (field.kind === 'date' && (shown === '' || /^\d{4}-\d{2}-\d{2}$/.test(shown))) {
+        type = 'date';
+      }
+      const list =
+        field.kind === 'reference' && field.collection
+          ? ` list="${esc(datalistFor(field.collection))}"`
+          : '';
+      const placeholder = field.placeholder ? ` placeholder="${esc(field.placeholder)}"` : '';
+      return `<div class="field">${labelHtml(field, id)}<input type="${type}" id="${esc(
+        id,
+      )}" data-path="${esc(path)}" data-kind="${type === 'number' ? 'number' : 'text'}" value="${esc(
+        shown,
+      )}"${list}${placeholder} />${hintHtml(field)}</div>`;
+    }
+
+    function tickHtml(field: Field, path: string): string {
+      const id = `f-${path}`;
+      const value = getPath(data, path);
+      const present = value !== undefined ? '1' : '0';
+      return `<div class="field"><div class="tick"><input type="checkbox" id="${esc(
+        id,
+      )}" data-path="${esc(path)}" data-kind="boolean" data-present="${present}"${
+        value === true ? ' checked' : ''
+      } /><label for="${esc(id)}">${esc(field.label)}</label></div>${hintHtml(field)}</div>`;
+    }
+
+    function checksHtml(field: Field, path: string): string {
+      const chosen = new Set(asArray(getPath(data, path)).map((v) => String(v)));
+      const boxes = (field.options ?? [])
+        .map((option) => {
+          const id = `f-${path}-${option}`;
+          return `<div class="tick"><input type="checkbox" id="${esc(id)}" data-path="${esc(
+            path,
+          )}" data-kind="multi" data-value="${esc(option)}"${
+            chosen.has(option) ? ' checked' : ''
+          } /><label for="${esc(id)}">${esc(pretty(option))}</label></div>`;
+        })
+        .join('');
+      return `<div class="field">${labelHtml(field)}<div class="checks">${boxes}</div>${hintHtml(
+        field,
+      )}</div>`;
+    }
+
+    function stringListInner(field: Field, path: string): string {
+      const values = asArray(getPath(data, path));
+      const list =
+        field.kind === 'reference-list' && field.collection
+          ? ` list="${esc(datalistFor(field.collection))}"`
+          : '';
+      const rows = values
+        .map((value, index) => {
+          const shown = value === null || value === undefined ? '' : String(value);
+          return `<div class="listrow"><input type="text" data-path="${esc(
+            path,
+          )}" data-kind="item" data-index="${index}" value="${esc(
+            shown,
+          )}"${list} /><button type="button" class="btn btn-quiet tiny" data-act="drop" data-target="${esc(
+            path,
+          )}" data-index="${index}">Remove</button></div>`;
+        })
+        .join('');
+      const none = values.length ? '' : '<p class="empty">None yet.</p>';
+      return `${none}${rows}<button type="button" class="btn btn-quiet tiny" data-act="add-text" data-target="${esc(
+        path,
+      )}">Add one</button>`;
+    }
+
+    function objectListInner(field: Field, path: string): string {
+      const rows = asArray(getPath(data, path));
+      const cards = rows
+        .map((_row, index) => {
+          const inner = (field.fields ?? [])
+            .map((child) => fieldHtml(child, `${path}.${index}.`))
+            .join('');
+          return `<div class="objrow"><div class="objhead"><span class="objnum">${esc(
+            field.label,
+          )} ${index + 1}</span><button type="button" class="btn btn-quiet tiny" data-act="drop" data-target="${esc(
+            path,
+          )}" data-index="${index}">Remove this one</button></div>${inner}</div>`;
+        })
+        .join('');
+      const none = rows.length ? '' : '<p class="empty">None yet.</p>';
+      return `${none}${cards}<button type="button" class="btn btn-quiet tiny" data-act="add-object" data-target="${esc(
+        path,
+      )}">Add one</button>`;
+    }
+
+    function widgetHtml(field: Field, path: string): string {
+      widgets.set(path, field);
+      const inner =
+        field.kind === 'object-list' ? objectListInner(field, path) : stringListInner(field, path);
+      return `<div class="field">${labelHtml(field)}<div class="widget" data-widget="${esc(
+        path,
+      )}">${inner}</div>${hintHtml(field)}</div>`;
+    }
+
+    function nestHtml(field: Field, ownPath: string, prefix: string): string {
+      const inner = (field.fields ?? [])
+        .map((child) => {
+          // Some nested groups name their children in full from the top of the
+          // file, others name them relative to the group. Both shapes are in
+          // use, so work out which one this is rather than assuming.
+          const childPrefix = child.name.startsWith(`${field.name}.`) ? prefix : `${ownPath}.`;
+          return fieldHtml(child, childPrefix);
+        })
+        .join('');
+      return `<div class="nest"><p class="nesthead">${esc(field.label)}</p>${hintHtml(
+        field,
+      )}${inner}</div>`;
+    }
+
+    function fieldHtml(field: Field, prefix: string): string {
+      const path = `${prefix}${field.name}`;
+      switch (field.kind) {
+        case 'boolean':
+          return tickHtml(field, path);
+        case 'multiselect':
+          return checksHtml(field, path);
+        case 'select':
+          return selectHtml(field, path);
+        case 'textarea':
+        case 'markdown':
+          return textHtml(field, path);
+        case 'string-list':
+        case 'reference-list':
+        case 'object-list':
+          return widgetHtml(field, path);
+        case 'object':
+          return nestHtml(field, path, prefix);
+        default:
+          return inputHtml(field, path);
+      }
+    }
+
+    // ── Groups ─────────────────────────────────────────────────────────
+
+    const GROUPS: { id: Field['group']; label: string; note: string }[] = [
+      { id: 'essential', label: 'The details that matter', note: '' },
+      { id: 'publication', label: 'Publication', note: 'Who printed it, where, and when.' },
+      { id: 'people', label: 'People and contents', note: 'Who is in it, and what is inside it.' },
+      {
+        id: 'classification',
+        label: 'Subjects and filing',
+        note: 'The tags that decide where this turns up on the site.',
+      },
+      {
+        id: 'files',
+        label: 'Files and rights',
+        note: 'The scan, the pictures, and the copyright position.',
+      },
+      {
+        id: 'advanced',
+        label: 'Machine records and settings',
+        note: 'Written by the extraction scripts. There is rarely a reason to change any of it.',
+      },
+    ];
+
+    function buildForm(def: CollectionDef): void {
+      const parts: string[] = [];
+      for (const group of GROUPS) {
+        const fields = def.fields.filter((f) => f.group === group.id);
+        if (!fields.length) continue;
+
+        if (group.id === 'essential') {
+          const inner = fields.map((field) => fieldHtml(field, '')).join('');
+          parts.push(
+            `<section class="card"><h2>${esc(group.label)}</h2><hr class="rule" />${inner}</section>`,
+          );
+          continue;
+        }
+
+        // Some of these hold hundreds of boxes, so they are built the first
+        // time somebody actually opens the section rather than up front.
+        parts.push(
+          `<details class="card group" data-group="${esc(group.id)}"><summary>${esc(
+            group.label,
+          )}<span class="n">${fields.length} fields</span></summary><div class="groupbody"><p class="hint">${esc(
+            group.note,
+          )}</p><div class="lazy"></div></div></details>`,
+        );
+      }
+      fieldsBox.innerHTML = parts.join('');
+
+      for (const box of fieldsBox.querySelectorAll<HTMLDetailsElement>('details[data-group]')) {
+        box.addEventListener('toggle', () => {
+          if (!box.open) return;
+          const slot = box.querySelector<HTMLDivElement>('.lazy');
+          if (!slot || slot.dataset.built === '1') return;
+          slot.dataset.built = '1';
+          slot.innerHTML = def.fields
+            .filter((f) => f.group === box.dataset.group)
+            .map((field) => fieldHtml(field, ''))
+            .join('');
+          syncDatalists();
+        });
+      }
+    }
+
+    function redraw(path: string): void {
+      const field = widgets.get(path);
+      const node = fieldsBox.querySelector<HTMLDivElement>(`[data-widget="${path}"]`);
+      if (!field || !node) return;
+      node.innerHTML =
+        field.kind === 'object-list' ? objectListInner(field, path) : stringListInner(field, path);
+      syncDatalists();
+    }
+
+    // ── Everything the form does back to the data ──────────────────────
+
+    function absorb(node: HTMLInputElement): void {
+      const path = node.dataset.path;
+      if (!path) return;
+
+      switch (node.dataset.kind) {
+        case 'boolean':
+          if (node.checked) setPath(data, path, true);
+          else if (node.dataset.present === '1') setPath(data, path, false);
+          else clearPath(data, path);
+          break;
+        case 'multi': {
+          const chosen: string[] = [];
+          const others = fieldsBox.querySelectorAll<HTMLInputElement>(
+            `input[data-kind="multi"][data-path="${path}"]`,
+          );
+          for (const box of others) if (box.checked) chosen.push(box.dataset.value ?? '');
+          if (chosen.length) setPath(data, path, chosen);
+          else clearPath(data, path);
+          break;
+        }
+        case 'item': {
+          const now = asArray(getPath(data, path)).slice();
+          now[Number(node.dataset.index ?? 0)] = node.value;
+          setPath(data, path, now);
+          break;
+        }
+        case 'number': {
+          const raw = node.value.trim();
+          if (raw === '') clearPath(data, path);
+          else setPath(data, path, Number(raw));
+          break;
+        }
+        default:
+          if (node.value === '') clearPath(data, path);
+          else setPath(data, path, node.value);
+      }
+      refresh();
+    }
+
+    fieldsBox.addEventListener('input', (event) => absorb(event.target as HTMLInputElement));
+    fieldsBox.addEventListener('change', (event) => absorb(event.target as HTMLInputElement));
+
+    fieldsBox.addEventListener('click', (event) => {
+      const button = (event.target as HTMLElement).closest<HTMLButtonElement>('[data-act]');
+      const target = button?.dataset.target;
+      if (!button || !target || !widgets.has(target)) return;
+
+      const now = asArray(getPath(data, target)).slice();
+      if (button.dataset.act === 'drop') now.splice(Number(button.dataset.index ?? 0), 1);
+      else if (button.dataset.act === 'add-object') now.push({});
+      else now.push('');
+
+      if (now.length) setPath(data, target, now);
+      else clearPath(data, target);
+      redraw(target);
+      refresh();
+    });
+
+    // ── The pickers ────────────────────────────────────────────────────
+
+    /** Note every collection any picker points at, before anything is drawn. */
+    function noteDatalists(fields: Field[]): void {
+      for (const field of fields) {
+        if ((field.kind === 'reference' || field.kind === 'reference-list') && field.collection) {
+          datalistFor(field.collection);
+        }
+        if (field.fields) noteDatalists(field.fields);
+      }
+    }
+
+    function syncDatalists(): void {
+      for (const id of datalists.values()) {
+        if (!document.getElementById(id)) {
+          listsBox.insertAdjacentHTML('beforeend', `<datalist id="${esc(id)}"></datalist>`);
+        }
+      }
+    }
+
+    const slugCache = new Map<string, string[]>();
+
+    async function slugsFor(name: string, token: string): Promise<string[]> {
+      const already = slugCache.get(name);
+      if (already) return already;
+      try {
+        const response = await fetch(`/api/list?collection=${encodeURIComponent(name)}`, {
+          headers: { Authorization: `Bearer ${token}` },
+        });
+        if (!response.ok) throw new Error(String(response.status));
+        const payload = (await response.json()) as { entries?: { slug: string }[] };
+        const slugs = (payload.entries ?? []).map((entry) => entry.slug);
+        slugCache.set(name, slugs);
+        return slugs;
+      } catch {
+        // A picker with no suggestions still accepts typing, so carry on.
+        slugCache.set(name, []);
+        return [];
+      }
+    }
+
+    async function fillDatalists(): Promise<void> {
+      if (!me) return;
+      const token = await me.getIdToken();
+      for (const [spec, id] of datalists) {
+        const slugs: string[] = [];
+        for (const part of spec.split('|')) slugs.push(...(await slugsFor(part, token)));
+        const node = document.getElementById(id);
+        if (!node) continue;
+        node.innerHTML = slugs
+          .sort()
+          .map((value) => `<option value="${esc(value)}"></option>`)
+          .join('');
+      }
+    }
+
+    // ── Where the entry sits on the public site ────────────────────────
+
+    const PUBLIC: Record<string, string> = {
+      'primary-works': 'primary-works',
+      thinkers: 'thinkers',
+      organisations: 'organisations',
+      contributors: 'contributors',
+      musings: 'musings',
+      opinions: 'opinions',
+      'theprint-mirror': 'theprint-mirror',
+      series: 'series',
+      periodicals: 'periodicals',
+    };
+
+    function showWhere(def: CollectionDef): void {
+      const where = document.getElementById('where')!;
+      const segment = PUBLIC[def.id];
+      if (!segment) {
+        where.textContent = `This is a ${def.singular.toLowerCase()}. Nothing of this kind has a page of its own on the site yet, so there is nothing to look at while you work.`;
+        return;
+      }
+      const url = `https://indianliberals.in/${segment}/${slug}/`;
+      where.innerHTML = `Readers see this at <a href="${esc(
+        url,
+      )}" target="_blank" rel="noopener">${esc(
+        url,
+      )}</a>. What you save appears there once the site has rebuilt, which takes a few minutes.`;
+    }
+
+    function showOthers(def: CollectionDef): void {
+      const known = new Set<string>();
+      const walk = (fields: Field[]): void => {
+        for (const field of fields) {
+          known.add(field.name.split('.')[0]);
+          if (field.kind === 'object' && field.fields) walk(field.fields);
+        }
+      };
+      walk(def.fields);
+
+      const extra = Object.keys(data).filter((key) => !known.has(key));
+      if (!extra.length && !kept.length) return;
+
+      const lines = extra.map((key) => `<li><code>${esc(key)}</code></li>`);
+      if (kept.length) {
+        lines.push(`<li>${kept.length} lines this form could not read, kept exactly as they are</li>`);
+      }
+      document.getElementById('other')!.innerHTML = lines.join('');
+      document.getElementById('othercard')!.hidden = false;
+    }
+
+    // ── Saving ─────────────────────────────────────────────────────────
+
+    function say(message: string, tone: 'plain' | 'good' | 'bad' = 'plain', extra = ''): void {
+      const cls = tone === 'plain' ? 'hint' : tone === 'bad' ? 'notice notice-stop' : 'notice';
+      resultBox.innerHTML = `<div class="${cls}">${esc(message)}${extra}</div>`;
+    }
+
+    async function refreshSha(): Promise<void> {
+      if (!me) return;
+      const token = await me.getIdToken();
+      const response = await fetch(
+        `/api/entry?collection=${encodeURIComponent(collectionId)}&slug=${encodeURIComponent(slug)}`,
+        { headers: { Authorization: `Bearer ${token}` } },
+      );
+      if (!response.ok) return;
+      const payload = (await response.json()) as { sha?: string };
+      if (payload.sha) sha = payload.sha;
+    }
+
+    async function save(): Promise<void> {
+      if (!me) return;
+      saveBtn.disabled = true;
+      say('Saving.');
+
+      try {
+        const token = await me.getIdToken();
+        const response = await fetch('/api/save', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json', Authorization: `Bearer ${token}` },
+          body: JSON.stringify({
+            collection: collectionId,
+            slug,
+            content: buildFile(),
+            // The sha this entry was opened at. Sending it back is what stops
+            // your save wiping out a change a colleague made in the meantime.
+            sha,
+            summary: summaryInput.value.trim() || undefined,
+          }),
+        });
+        const payload = (await response.json()) as {
+          error?: string;
+          problems?: string[];
+          url?: string;
+        };
+
+        if (response.status === 409) {
+          say(
+            payload.error ?? 'Somebody else has saved this since you opened it.',
+            'bad',
+            '<br /><button type="button" class="btn btn-quiet tiny" id="reload" style="margin-top:.7rem">Reload their version</button>',
+          );
+          document.getElementById('reload')?.addEventListener('click', () => location.reload());
+          return;
+        }
+
+        if (!response.ok) {
+          const problems = payload.problems?.length
+            ? `<ul style="margin:.5rem 0 0;padding-left:1.1rem">${payload.problems
+                .map((problem) => `<li>${esc(problem)}</li>`)
+                .join('')}</ul>`
+            : '';
+          say(payload.error ?? `The server said ${response.status}.`, 'bad', problems);
+          return;
+        }
+
+        const link = payload.url
+          ? `<br /><a href="${esc(payload.url)}" target="_blank" rel="noopener">See the change in the archive history</a>`
+          : '';
+        say('Saved. The site rebuilds in a few minutes and readers see it then.', 'good', link);
+        summaryInput.value = '';
+        await refreshSha();
+      } catch (error) {
+        say(`Could not save: ${(error as Error).message}`, 'bad');
+      } finally {
+        saveBtn.disabled = !canPublish(role);
+      }
+    }
+
+    // ── Start ──────────────────────────────────────────────────────────
+
+    saveBtn.addEventListener('click', () => void save());
+    bodyInput.addEventListener('input', () => {
+      body = bodyInput.value;
+      refresh();
+    });
+
+    watchUser(async (user) => {
+      if (!user) return;
+      role = await roleFor(user);
+      if (!role) {
+        location.href = '/no-access';
+        return;
+      }
+      me = user;
+
+      if (!collectionId || !slug) {
+        stop('That link is missing the entry it was meant to open. Go back and pick one from the list.');
+        return;
+      }
+
+      collection = collectionById(collectionId) ?? null;
+      if (!collection) {
+        stop(`There is no kind of entry called "${collectionId}" in the archive.`);
+        return;
+      }
+
+      try {
+        const token = await user.getIdToken();
+        const response = await fetch(
+          `/api/entry?collection=${encodeURIComponent(collectionId)}&slug=${encodeURIComponent(slug)}`,
+          { headers: { Authorization: `Bearer ${token}` } },
+        );
+        const payload = (await response.json()) as {
+          content?: string;
+          sha?: string;
+          error?: string;
+        };
+        if (!response.ok || !payload.content) {
+          stop(
+            payload.error === 'no such entry'
+              ? `Nothing called "${slug}" is filed under ${collection.label}. It may have been renamed.`
+              : (payload.error ?? `The server said ${response.status}.`),
+          );
+          return;
+        }
+
+        sha = payload.sha ?? '';
+        const split = splitFile(payload.content);
+        data = split.data;
+        body = split.body;
+        kept = split.kept;
+      } catch (error) {
+        stop(`Could not open that entry: ${(error as Error).message}`);
+        return;
+      }
+
+      document.getElementById('kind')!.textContent = collection.label;
+      const heading = getPath(data, collection.titleField);
+      document.getElementById('title')!.textContent =
+        typeof heading === 'string' && heading.trim() ? heading : slug;
+      showWhere(collection);
+
+      noteDatalists(collection.fields);
+      syncDatalists();
+      buildForm(collection);
+      showOthers(collection);
+
+      if (collection.hasBody) {
+        bodyCard.hidden = false;
+        document.getElementById('bodylabel')!.textContent =
+          collection.bodyLabel ?? 'The written part';
+        bodyInput.value = body;
+      }
+
+      if (!canPublish(role)) {
+        saveBtn.disabled = true;
+        document.getElementById('readonly')!.hidden = false;
+      }
+
+      stage.hidden = true;
+      editor.hidden = false;
+      refresh();
+      void fillDatalists();
+    });
+  </script>
+</Shell>

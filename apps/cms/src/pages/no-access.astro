@@ -1,0 +1,32 @@
+---
+import Shell from '../layouts/Shell.astro';
+---
+
+<Shell title="No access yet" bare>
+  <div class="card" style="max-width:30rem;padding:2.5rem">
+    <img src="/thothica-logo.png" alt="Thothica" width="150" height="43" style="height:36px;width:auto;margin-bottom:1.25rem" />
+    <h1>You are signed in, but not on the list</h1>
+    <hr class="rule" />
+    <p>
+      Your account works. Nobody has given it a role yet, so there is nothing you can edit.
+    </p>
+    <p>
+      Ask an administrator to add <strong id="addr">your address</strong>. They do it in the
+      People section, and it takes effect straight away.
+    </p>
+    <button class="btn btn-quiet" id="out" style="margin-top:1rem">Sign out</button>
+  </div>
+
+  <script>
+    import { watchUser, signOut } from '../lib/firebase';
+    watchUser((user) => {
+      if (!user) { location.href = '/signin'; return; }
+      const el = document.getElementById('addr');
+      if (el && user.email) el.textContent = user.email;
+    });
+    document.getElementById('out')?.addEventListener('click', async () => {
+      await signOut();
+      location.href = '/signin';
+    });
+  </script>
+</Shell>

@@ -1,0 +1,152 @@
+---
+import Shell from '../layouts/Shell.astro';
+import { ROLE_ORDER, ROLE_INFO } from '../lib/roles';
+---
+
+<Shell title="People">
+  <p class="eyebrow">People</p>
+  <h1>Who can edit the archive</h1>
+  <hr class="rule" />
+  <p class="lede">
+    Four levels of access. Add someone by their email address and they can sign in straight
+    away, with Google or with an emailed link.
+  </p>
+
+  <section class="roles">
+    {
+      ROLE_ORDER.map((id) => {
+        const role = ROLE_INFO[id];
+        return (
+          <article class="card role">
+            <div class="row" style="justify-content:space-between;align-items:flex-start">
+              <h3>{role.label}</h3>
+              {id === 'super_admin' && <span class="chip chip-gold">Fixed</span>}
+            </div>
+            <p class="summary">{role.summary}</p>
+            <p class="head">Can</p>
+            <ul>{role.can.map((line) => <li>{line}</li>)}</ul>
+            <p class="head">Cannot</p>
+            <ul class="cannot">{role.cannot.map((line) => <li>{line}</li>)}</ul>
+          </article>
+        );
+      })
+    }
+  </section>
+
+  <section class="card" style="margin-top:2rem" id="team-card">
+    <h2>The team</h2>
+    <hr class="rule" />
+    <div id="add-row" hidden>
+      <form id="addform" class="addrow">
+        <div class="grow">
+          <label for="newemail">Email address</label>
+          <input type="email" id="newemail" required placeholder="colleague@ccs.in" />
+        </div>
+        <div>
+          <label for="newrole">Role</label>
+          <select id="newrole"></select>
+        </div>
+        <button class="btn btn-primary" type="submit">Add</button>
+      </form>
+      <p class="hint">
+        They can sign in immediately. Nothing is emailed to them, so tell them the address to use.
+      </p>
+    </div>
+    <p id="readonly" class="notice" hidden>
+      You can see who has access. Adding or removing people needs an administrator.
+    </p>
+    <table class="team">
+      <thead><tr><th>Address</th><th>Role</th><th>Added</th><th></th></tr></thead>
+      <tbody id="rows"><tr><td colspan="4" class="muted">Loading.</td></tr></tbody>
+    </table>
+  </section>
+
+  <style>
+    .lede { max-width: 42rem; }
+    .roles { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); margin-top: 1.5rem; }
+    .role .summary { margin: .4rem 0 1rem; font-size: .9rem; }
+    .role .head { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; font-weight: 700; color: var(--brown); margin: .9rem 0 .3rem; }
+    .role ul { margin: 0; padding-left: 1.1rem; font-size: .87rem; }
+    .role li { margin-bottom: .25rem; }
+    .cannot { color: var(--body); }
+    .addrow { display: flex; gap: .75rem; align-items: flex-end; flex-wrap: wrap; }
+    .addrow .grow { min-width: 14rem; }
+    .team { width: 100%; border-collapse: collapse; margin-top: 1.25rem; font-size: .92rem; }
+    .team th { text-align: left; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--brown); border-bottom: 1px solid var(--line2); padding: .5rem 0; }
+    .team td { padding: .6rem 0; border-bottom: 1px solid var(--line2); }
+    .team td:last-child { text-align: right; }
+  </style>
+
+  <script>
+    import { watchUser, roleFor, listPeople, setRole, removePerson, SUPER_ADMIN_EMAIL } from '../lib/firebase';
+    import { ROLE_INFO, assignableBy, canManagePeople, type Role } from '../lib/roles';
+
+    let me: { email: string; role: Role } | null = null;
+
+    function render(people: Awaited<ReturnType<typeof listPeople>>) {
+      const rows = document.getElementById('rows')!;
+      const mayAssign = me ? assignableBy(me.role) : [];
+
+      const all = [
+        { email: SUPER_ADMIN_EMAIL, role: 'super_admin' as Role, addedAt: '', fixed: true },
+        ...people.filter((p) => p.email !== SUPER_ADMIN_EMAIL).map((p) => ({ ...p, fixed: false })),
+      ];
+
+      rows.innerHTML = all
+        .map((person) => {
+          const label = ROLE_INFO[person.role as Role]?.label ?? person.role;
+          const when = person.addedAt ? new Date(person.addedAt).toLocaleDateString('en-GB') : '';
+          const removable = !person.fixed && mayAssign.includes(person.role as Role);
+          return `<tr>
+            <td>${person.email}</td>
+            <td><span class="chip">${label}</span></td>
+            <td class="muted tabular">${when}</td>
+            <td>${removable ? `<button class="btn btn-quiet" data-remove="${person.email}" style="padding:.3rem .7rem">Remove</button>` : ''}</td>
+          </tr>`;
+        })
+        .join('');
+
+      rows.querySelectorAll('[data-remove]').forEach((button) => {
+        button.addEventListener('click', async () => {
+          const address = (button as HTMLElement).dataset.remove!;
+          if (!confirm(`Remove ${address}? They lose access immediately.`)) return;
+          await removePerson(address);
+          render(await listPeople());
+        });
+      });
+    }
+
+    watchUser(async (user) => {
+      if (!user?.email) return;
+      const role = await roleFor(user);
+      if (!role) { location.href = '/no-access'; return; }
+      me = { email: user.email.toLowerCase(), role };
+
+      const options = assignableBy(role);
+      if (canManagePeople(role) && options.length) {
+        document.getElementById('add-row')?.removeAttribute('hidden');
+        const select = document.getElementById('newrole') as unknown as HTMLSelectElement;
+        select.innerHTML = options
+          .map((r) => `<option value="${r}">${ROLE_INFO[r].label}</option>`)
+          .join('');
+      } else {
+        document.getElementById('readonly')?.removeAttribute('hidden');
+      }
+
+      render(await listPeople());
+    });
+
+    document.getElementById('addform')?.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const email = (document.getElementById('newemail') as unknown as HTMLInputElement).value;
+      const role = (document.getElementById('newrole') as unknown as HTMLSelectElement).value as Role;
+      try {
+        await setRole(email, role, me!.email);
+        (document.getElementById('newemail') as unknown as HTMLInputElement).value = '';
+        render(await listPeople());
+      } catch (error: any) {
+        alert(`Could not add them: ${error?.message ?? error}`);
+      }
+    });
+  </script>
+</Shell>
