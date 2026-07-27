@@ -105,8 +105,14 @@ console.log(`\nVerified: the app can write to ${target.full_name}.`);
 
 if (process.argv.includes("--set")) {
   const cms = resolve(REPO_ROOT, "apps/cms");
+  // Pages projects take `pages secret put --project-name`; plain
+  // `wrangler secret put` is the Workers command and fails here.
   const put = (name, value) => {
-    execSync(`npx wrangler secret put ${name}`, { cwd: cms, input: value, stdio: ["pipe", "inherit", "inherit"] });
+    execSync(`npx wrangler pages secret put ${name} --project-name thothica-cms`, {
+      cwd: cms,
+      input: value,
+      stdio: ["pipe", "inherit", "inherit"],
+    });
   };
   put("GITHUB_APP_ID", String(creds.app_id));
   put("GITHUB_APP_INSTALLATION_ID", String(installation.id));
