@@ -1012,7 +1012,7 @@ import Shell from '../layouts/Shell.astro';
         url,
       )}" target="_blank" rel="noopener">${esc(
         url,
-      )}</a>. What you save appears there once the site has rebuilt, which takes a few minutes.`;
+      )}</a>. What you save appears there once the site has rebuilt, usually within half an hour.`;
     }
 
     function showOthers(def: CollectionDef): void {
@@ -1104,7 +1104,12 @@ import Shell from '../layouts/Shell.astro';
         const link = payload.url
           ? `<br /><a href="${esc(payload.url)}" target="_blank" rel="noopener">See the change in the archive history</a>`
           : '';
-        say('Saved. The site rebuilds in a few minutes and readers see it then.', 'good', link);
+        say(
+          'Saved. The site rebuilds and readers see it then, usually within half an hour. ' +
+            'You do not need to keep this page open.',
+          'good',
+          link,
+        );
         summaryInput.value = '';
         markOpened();
         await refreshSha();
