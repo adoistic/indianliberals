@@ -3,56 +3,75 @@ import Shell from '../layouts/Shell.astro';
 import { COLLECTIONS } from '../lib/collections';
 ---
 
-<Shell title="Browse">
+<Shell title="Find and edit">
   <p class="eyebrow">Find and edit</p>
-  <h1>Everything in the archive</h1>
+  <h1>Browse the catalogue</h1>
   <hr class="rule" />
   <p class="lede">
-    Pick what kind of thing you are looking for, then type a few letters to narrow the list.
-    Click any entry to open it and change it.
+    The same titles, authors and covers a reader sees on the site. Pick a kind of entry, search
+    for it, and click through to change it.
   </p>
 
-  <div class="picker" id="picker">
+  <div class="tabs" id="tabs">
     {
       COLLECTIONS.map((c) => (
         <button class="chip pick" type="button" data-collection={c.id}>
           {c.label}
+          <span class="tabcount" data-tabcount={c.id} />
         </button>
       ))
     }
   </div>
-  <p class="hint about" id="about">
-    Pick one above and a short description of it appears here.
-  </p>
+  <p class="hint about" id="about"></p>
 
   <section class="card" style="margin-top:1.5rem">
     <div class="head">
-      <div class="grow">
-        <label for="filter">Narrow the list</label>
+      <div class="grow field">
+        <label for="filter">Search</label>
         <input
           type="text"
           id="filter"
-          placeholder="Type part of a name"
+          placeholder="Search by title, author or year"
           autocomplete="off"
-          disabled
         />
       </div>
-      <p class="count tabular" id="count"></p>
+      <div class="field sortfield">
+        <label for="sort">Sort</label>
+        <select id="sort">
+          <option value="az">A to Z</option>
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+      </div>
     </div>
+    <p class="count tabular" id="count"></p>
     <hr class="rule" />
-    <div id="list">
-      <p class="muted">Choose a kind of entry above to see what is filed under it.</p>
+    <div id="status"></div>
+    <div class="grid" id="grid"></div>
+    <div class="more" id="morewrap" hidden>
+      <button class="btn btn-quiet" id="morebtn" type="button">Show more</button>
     </div>
   </section>
 
-  <style>
+  <!-- Global rather than scoped: the rows and cards below are built at
+       runtime with innerHTML, and Astro's scoped styles only reach elements
+       that were in the template at build time. Every selector here is
+       page-specific, so global costs nothing. -->
+  <style is:global>
     .lede { max-width: 44rem; }
-    .picker { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.5rem; }
+    .tabs { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.5rem; }
     .pick {
+      display: inline-flex;
+      align-items: center;
+      gap: .45rem;
       border: 1px solid var(--line2);
+      background: var(--card);
       cursor: pointer;
       font-family: var(--sans);
+      font-size: .92rem;
+      color: var(--brown2);
       padding: .4rem .85rem;
+      border-radius: 999px;
       transition: border-color .15s, background .15s;
     }
     .pick:hover { border-color: var(--gold); }
@@ -61,65 +80,198 @@ import { COLLECTIONS } from '../lib/collections';
       color: var(--deep);
       border-color: var(--gold);
     }
-    .about { margin-top: .8rem; max-width: 44rem; min-height: 1.4rem; }
-    .head { display: flex; gap: 1rem; align-items: flex-end; }
-    .head .grow { max-width: 26rem; }
-    .count { margin: 0 0 .55rem auto; font-size: .88rem; white-space: nowrap; }
-    .rows { display: flex; flex-direction: column; }
-    .entry {
+    .tabcount {
+      font-size: .75rem;
+      font-variant-numeric: tabular-nums;
+      color: var(--body);
+      min-width: .6rem;
+    }
+    .pick[aria-pressed='true'] .tabcount { color: var(--deep); }
+    .about { margin-top: .7rem; max-width: 44rem; min-height: 1.2rem; }
+
+    .head { display: flex; gap: 1.25rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: .5rem; }
+    .head .grow { max-width: 26rem; margin-bottom: 0; }
+    .sortfield { min-width: 11rem; margin-bottom: 0; }
+    .sortfield select { margin: 0; }
+    .count { color: var(--body); font-size: .88rem; margin: 0 0 .4rem; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr));
+      gap: 1.25rem;
+      margin-top: 1rem;
+    }
+
+    .entry-card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--line2);
+      border-radius: 13px;
+      overflow: hidden;
+      background: var(--card);
+      transition: border-color .15s, transform .15s;
+    }
+    .entry-card:hover { border-color: var(--gold); }
+
+    .cover-wrap {
+      aspect-ratio: 3 / 4;
+      background: var(--tile);
+      display: block;
+    }
+    .cover-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .cover-wrap.placeholder {
       display: flex;
       align-items: center;
-      gap: .75rem;
-      padding: .55rem .2rem;
-      border-bottom: 1px solid var(--line2);
-      text-decoration: none;
+      justify-content: center;
+      font-family: var(--serif);
+      font-size: 2.6rem;
+      color: var(--gold);
+      background: linear-gradient(160deg, var(--tile), var(--sand) 220%);
+    }
+
+    .entry-body { padding: .85rem .95rem 1rem; display: flex; flex-direction: column; gap: .3rem; flex: 1; }
+    .entry-title {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 500;
       color: var(--brown);
+      line-height: 1.25;
+      margin: 0;
     }
-    .entry:hover { background: var(--tile); }
-    .entry .slug { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: .85rem; }
-    .entry .open {
-      margin-left: auto;
-      font-size: 11px;
-      letter-spacing: .16em;
-      text-transform: uppercase;
+    .entry-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .entry-title a::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+    }
+    .translit { font-size: .8rem; font-style: italic; color: var(--body); margin: 0; }
+    .entry-sub { font-size: .84rem; color: var(--brown2); margin: 0; }
+    .entry-chips { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .2rem; }
+    .view-live {
+      position: relative;
+      z-index: 2;
+      align-self: flex-start;
+      margin-top: auto;
+      padding-top: .5rem;
+      font-size: .75rem;
       font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
       color: var(--body);
+      text-decoration: none;
     }
-    .entry:hover .open { color: var(--brown); }
-    .more { margin-top: 1rem; }
+    .view-live:hover { color: var(--brown); text-decoration: underline; }
+
+    .more { margin-top: 1.5rem; text-align: center; }
+    #status .notice { margin-top: .5rem; }
+
     @media (max-width: 640px) {
       .head { flex-direction: column; align-items: stretch; }
-      .head .grow { max-width: none; }
-      .count { margin: 0; }
+      .head .grow, .sortfield { max-width: none; }
     }
   </style>
 
   <script>
     import { watchUser, roleFor } from '../lib/firebase';
     import { COLLECTIONS, collectionById } from '../lib/collections';
-    import type { User } from 'firebase/auth';
 
-    interface Entry {
-      slug: string;
-      sha: string;
-      path: string;
+    // ─── Shapes coming back from the live site ────────────────────────
+
+    interface RawWork {
+      id: string;
+      title: { main: string; subtitle?: string; original_script?: string; translit?: string } | string;
+      work_type?: string;
+      authors?: { kind: string; id: string; name: string }[];
+      year?: number | null;
+      url?: string;
+      cover_image?: string;
     }
 
-    // Long collections run past a thousand files. Painting every row makes the
-    // page crawl and nobody reads a list that long anyway, so we show a window
-    // of it and tell them to type.
-    const WINDOW = 300;
+    interface RawThinker {
+      id: string;
+      name: { canonical: string; sort?: string };
+      birth_year?: number | null;
+      death_year?: number | null;
+      tradition?: string;
+      url?: string;
+    }
 
-    const picker = document.getElementById('picker')!;
+    interface RawDoc {
+      collection: string;
+      id: string;
+      kind?: string;
+      title: string;
+      url?: string;
+      authors?: string[];
+      year?: number | null;
+    }
+
+    // ─── The one shape every card renders from ────────────────────────
+
+    interface CardEntry {
+      id: string;
+      title: string;
+      translit?: string;
+      sortKey: string;
+      authors?: string;
+      year: number | null;
+      kind?: string;
+      cover?: string;
+      liveUrl?: string;
+      isPerson?: boolean;
+      birthYear?: number | null;
+      deathYear?: number | null;
+      tradition?: string;
+    }
+
+    const WORKS_URL = 'https://indianliberals.in/api/works.json';
+    const THINKERS_URL = 'https://indianliberals.in/api/thinkers.json';
+    const SEARCH_URL = 'https://indianliberals.in/api/search-index.json';
+
+    // Friendly plural nouns for the count line, matching the words the rest
+    // of this CMS already uses (see the front page's holdings counter).
+    const NOUN: Record<string, string> = {
+      'primary-works': 'documents',
+      thinkers: 'people',
+      opinions: 'opinion pieces',
+      musings: 'excerpts',
+      organisations: 'organisations',
+      contributors: 'contributors',
+      series: 'series',
+    };
+
+    // The public catalogue does not publish contributors or series records:
+    // they exist only in the archive repository. Say so plainly rather than
+    // pretending a search box works when it has nothing to search.
+    const NO_SOURCE = new Set(['contributors', 'series']);
+
+    const WINDOW = 60;
+
+    const tabs = document.getElementById('tabs')!;
     const about = document.getElementById('about')!;
     const filter = document.getElementById('filter') as HTMLInputElement;
+    const sortSelect = document.getElementById('sort') as HTMLSelectElement;
     const count = document.getElementById('count')!;
-    const list = document.getElementById('list')!;
+    const status = document.getElementById('status')!;
+    const grid = document.getElementById('grid')!;
+    const moreWrap = document.getElementById('morewrap')!;
+    const moreBtn = document.getElementById('morebtn')!;
 
-    let me: User | null = null;
-    let current = '';
-    /** One fetch per collection per visit. Filtering happens in memory. */
-    const cache = new Map<string, Entry[]>();
+    const buckets = new Map<string, CardEntry[]>();
+    const failed = new Set<string>();
+
+    let current = 'primary-works';
+    let userChangedSort = false;
+    let shown = WINDOW;
 
     function escape(text: string): string {
       return text.replace(/[&<>"']/g, (c) =>
@@ -127,119 +279,312 @@ import { COLLECTIONS } from '../lib/collections';
       );
     }
 
+    function humanize(text: string): string {
+      return text.replace(/[_-]+/g, ' ').trim();
+    }
+
+    /** A title can arrive as {main, translit, ...} or as a plain string. */
+    function mainTitle(title: unknown): string {
+      if (title && typeof title === 'object') return (title as { main?: string }).main ?? '';
+      return typeof title === 'string' ? title : '';
+    }
+
+    function translitOf(title: unknown): string | undefined {
+      if (title && typeof title === 'object') return (title as { translit?: string }).translit;
+      return undefined;
+    }
+
+    function defaultSort(id: string): string {
+      return id === 'thinkers' ? 'az' : 'newest';
+    }
+
+    function toWorkCard(raw: RawWork): CardEntry {
+      const title = mainTitle(raw.title) || raw.id;
+      return {
+        id: raw.id,
+        title,
+        translit: translitOf(raw.title),
+        sortKey: title,
+        authors: (raw.authors ?? []).map((a) => a.name).join(', '),
+        year: raw.year ?? null,
+        kind: raw.work_type,
+        cover: raw.cover_image,
+        liveUrl: raw.url,
+      };
+    }
+
+    function toThinkerCard(raw: RawThinker): CardEntry {
+      const title = raw.name?.canonical ?? raw.id;
+      return {
+        id: raw.id,
+        title,
+        sortKey: raw.name?.sort ?? title,
+        year: raw.birth_year ?? null,
+        birthYear: raw.birth_year ?? null,
+        deathYear: raw.death_year ?? null,
+        tradition: raw.tradition,
+        liveUrl: raw.url,
+        isPerson: true,
+      };
+    }
+
+    function toDocCard(raw: RawDoc): CardEntry {
+      const title = mainTitle(raw.title) || (typeof raw.title === 'string' ? raw.title : raw.id);
+      return {
+        id: raw.id,
+        title,
+        sortKey: title,
+        authors: (raw.authors ?? []).join(', '),
+        year: raw.year ?? null,
+        kind: raw.kind,
+        liveUrl: raw.url,
+      };
+    }
+
+    function updateTabCount(id: string) {
+      const badge = tabs.querySelector<HTMLElement>(`[data-tabcount="${id}"]`);
+      if (!badge) return;
+      const entries = buckets.get(id);
+      if (entries) badge.textContent = `(${entries.length.toLocaleString('en-IN')})`;
+      else if (failed.has(id)) badge.textContent = '';
+    }
+
+    // ─── Loading the three live feeds, in parallel, once ──────────────
+
+    async function loadWorks() {
+      try {
+        const response = await fetch(WORKS_URL);
+        if (!response.ok) throw new Error(`the site said ${response.status}`);
+        const data = (await response.json()) as { works: RawWork[] };
+        buckets.set('primary-works', data.works.map(toWorkCard));
+      } catch {
+        failed.add('primary-works');
+      }
+      updateTabCount('primary-works');
+      if (current === 'primary-works') render();
+    }
+
+    async function loadThinkers() {
+      try {
+        const response = await fetch(THINKERS_URL);
+        if (!response.ok) throw new Error(`the site said ${response.status}`);
+        const data = (await response.json()) as { thinkers: RawThinker[] };
+        buckets.set('thinkers', data.thinkers.map(toThinkerCard));
+      } catch {
+        failed.add('thinkers');
+      }
+      updateTabCount('thinkers');
+      if (current === 'thinkers') render();
+    }
+
+    async function loadSearchIndex() {
+      const ids = ['opinions', 'musings', 'organisations'];
+      try {
+        const response = await fetch(SEARCH_URL);
+        if (!response.ok) throw new Error(`the site said ${response.status}`);
+        const data = (await response.json()) as { docs: RawDoc[] };
+        for (const id of ids) {
+          buckets.set(
+            id,
+            data.docs.filter((d) => d.collection === id).map(toDocCard),
+          );
+        }
+      } catch {
+        for (const id of ids) failed.add(id);
+      }
+      for (const id of ids) updateTabCount(id);
+      if (ids.includes(current)) render();
+    }
+
+    // ─── Rendering the current tab ─────────────────────────────────────
+
+    function yearOf(entry: CardEntry): number | null {
+      return entry.isPerson ? (entry.birthYear ?? entry.deathYear ?? null) : entry.year;
+    }
+
+    function sortEntries(entries: CardEntry[], mode: string): CardEntry[] {
+      const copy = entries.slice();
+      if (mode === 'az') {
+        copy.sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+      } else {
+        copy.sort((a, b) => {
+          const ay = yearOf(a);
+          const by = yearOf(b);
+          if (ay == null && by == null) return a.sortKey.localeCompare(b.sortKey);
+          if (ay == null) return 1;
+          if (by == null) return -1;
+          return mode === 'oldest' ? ay - by : by - ay;
+        });
+      }
+      return copy;
+    }
+
+    function matches(entry: CardEntry, needle: string): boolean {
+      if (entry.title.toLowerCase().includes(needle)) return true;
+      if (entry.translit?.toLowerCase().includes(needle)) return true;
+      if (entry.authors?.toLowerCase().includes(needle)) return true;
+      if (entry.tradition && humanize(entry.tradition).toLowerCase().includes(needle)) return true;
+      const year = yearOf(entry);
+      if (year != null && String(year).includes(needle)) return true;
+      return false;
+    }
+
+    function firstLetter(title: string): string {
+      const t = title.trim();
+      return t ? t[0]!.toUpperCase() : '?';
+    }
+
+    function cardHtml(entry: CardEntry): string {
+      const href = `/edit?collection=${encodeURIComponent(current)}&slug=${encodeURIComponent(entry.id)}`;
+      const cover = entry.cover
+        ? `<div class="cover-wrap"><img src="${escape(entry.cover)}" alt="" loading="lazy" decoding="async" /></div>`
+        : `<div class="cover-wrap placeholder" aria-hidden="true">${escape(firstLetter(entry.title))}</div>`;
+
+      const translit =
+        entry.translit && entry.translit !== entry.title
+          ? `<p class="translit">${escape(entry.translit)}</p>`
+          : '';
+
+      let sub = '';
+      let chips = '';
+      if (entry.isPerson) {
+        const hasYears = entry.birthYear != null || entry.deathYear != null;
+        const years = hasYears
+          ? `${entry.birthYear ?? 'year unknown'} to ${entry.deathYear ?? 'present'}`
+          : '';
+        const bits = [years, entry.tradition ? humanize(entry.tradition) : ''].filter(Boolean);
+        if (bits.length) sub = `<p class="entry-sub">${escape(bits.join(', '))}</p>`;
+      } else {
+        if (entry.authors) sub = `<p class="entry-sub">${escape(entry.authors)}</p>`;
+        const pieces: string[] = [];
+        if (entry.year != null) pieces.push(`<span class="chip">${entry.year}</span>`);
+        if (entry.kind) pieces.push(`<span class="chip">${escape(humanize(entry.kind))}</span>`);
+        if (pieces.length) chips = `<p class="entry-chips">${pieces.join('')}</p>`;
+      }
+
+      const viewLive = entry.liveUrl
+        ? `<a class="view-live" href="https://indianliberals.in${entry.liveUrl}" target="_blank" rel="noopener">View live page</a>`
+        : '';
+
+      return `<article class="entry-card">
+        ${cover}
+        <div class="entry-body">
+          <h3 class="entry-title"><a href="${href}">${escape(entry.title)}</a></h3>
+          ${translit}
+          ${sub}
+          ${chips}
+          ${viewLive}
+        </div>
+      </article>`;
+    }
+
     function render() {
-      const entries = cache.get(current);
-      if (!entries) return;
+      moreWrap.hidden = true;
 
       const collection = collectionById(current);
-      const noun = entries.length === 1 ? 'entry' : 'entries';
+      about.textContent = collection?.description ?? '';
+
+      if (NO_SOURCE.has(current)) {
+        count.textContent = '';
+        status.innerHTML = `<p class="notice">The live site does not publish a catalogue of ${escape(
+          (collection?.label ?? current).toLowerCase(),
+        )}, so they cannot be searched here yet. They still live in the archive repository.</p>`;
+        grid.innerHTML = '';
+        return;
+      }
+
+      const entries = buckets.get(current);
+
+      if (!entries) {
+        if (failed.has(current)) {
+          count.textContent = '';
+          status.innerHTML =
+            '<p class="notice notice-stop">Could not reach the site to fetch this list. Reload the page to try again.</p>';
+          grid.innerHTML = '';
+          return;
+        }
+        count.textContent = '';
+        status.innerHTML = '<p class="muted">Fetching the catalogue from the site.</p>';
+        grid.innerHTML = '';
+        return;
+      }
+
+      status.innerHTML = '';
 
       if (!entries.length) {
         count.textContent = '';
-        list.innerHTML = `<p class="notice">Nothing has been filed under ${escape(
+        status.innerHTML = `<p class="notice">Nothing has been filed under ${escape(
           collection?.label ?? current,
-        )} yet. It will fill up as soon as somebody adds the first one.</p>`;
+        )} yet.</p>`;
+        grid.innerHTML = '';
         return;
       }
 
       const needle = filter.value.trim().toLowerCase();
-      const matches = needle
-        ? entries.filter((e) => e.slug.toLowerCase().includes(needle))
-        : entries;
+      const found = needle ? entries.filter((e) => matches(e, needle)) : entries;
 
+      const noun = NOUN[current] ?? (collection?.label ?? current).toLowerCase();
       count.textContent = needle
-        ? `${matches.length.toLocaleString('en-IN')} of ${entries.length.toLocaleString('en-IN')} match`
-        : `${entries.length.toLocaleString('en-IN')} ${noun}`;
+        ? `${found.length.toLocaleString('en-IN')} matching '${filter.value.trim()}'`
+        : `${found.length.toLocaleString('en-IN')} ${noun}`;
 
-      if (!matches.length) {
-        list.innerHTML = `<p class="muted">Nothing here contains "${escape(
+      if (!found.length) {
+        grid.innerHTML = '';
+        status.innerHTML = `<p class="muted">Nothing here matches "${escape(
           filter.value.trim(),
         )}". Try fewer letters.</p>`;
         return;
       }
 
-      const shown = matches.slice(0, WINDOW);
-      const rows = shown
-        .map((entry) => {
-          const href = `/edit?collection=${encodeURIComponent(current)}&slug=${encodeURIComponent(entry.slug)}`;
-          return `<a class="entry" href="${href}"><span class="slug">${escape(
-            entry.slug,
-          )}</span><span class="open">Edit</span></a>`;
-        })
-        .join('');
+      const sorted = sortEntries(found, sortSelect.value);
+      const visible = sorted.slice(0, shown);
+      grid.innerHTML = visible.map(cardHtml).join('');
 
-      const more =
-        matches.length > shown.length
-          ? `<p class="hint more">Showing the first ${WINDOW} of ${matches.length.toLocaleString(
-              'en-IN',
-            )}. Type a few more letters to bring the one you want into view.</p>`
-          : '';
-
-      list.innerHTML = `<div class="rows">${rows}</div>${more}`;
+      if (sorted.length > visible.length) {
+        moreWrap.hidden = false;
+        moreBtn.textContent = `Show more (${(sorted.length - visible.length).toLocaleString('en-IN')} left)`;
+      }
     }
 
-    async function load(id: string) {
-      current = id;
-      const collection = collectionById(id);
-      about.textContent = collection?.description ?? '';
+    // ─── Wiring ─────────────────────────────────────────────────────
 
-      for (const button of picker.querySelectorAll<HTMLButtonElement>('.pick')) {
+    function selectCollection(id: string, push = true) {
+      current = id;
+      shown = WINDOW;
+
+      for (const button of tabs.querySelectorAll<HTMLButtonElement>('.pick')) {
         button.setAttribute('aria-pressed', String(button.dataset.collection === id));
       }
+      if (!userChangedSort) sortSelect.value = defaultSort(id);
 
-      filter.disabled = false;
-      filter.placeholder = `Type part of a ${(collection?.singular ?? 'entry').toLowerCase()} name`;
-
-      if (cache.has(id)) {
-        render();
-        return;
-      }
-
-      count.textContent = '';
-      list.innerHTML = '<p class="muted">Fetching the list.</p>';
-
-      try {
-        const token = await me!.getIdToken();
-        const response = await fetch(`/api/list?collection=${encodeURIComponent(id)}`, {
-          headers: { Authorization: `Bearer ${token}` },
-        });
-        const data = (await response.json()) as { entries?: Entry[]; error?: string };
-        // A collection nobody has filed anything under has no folder in the
-        // archive at all, so asking for it comes back as a miss. That is not
-        // an error worth showing anybody: it is simply empty.
-        const missing = response.status === 404 || /\b404\b/.test(data.error ?? '');
-        if (!response.ok && !missing) {
-          throw new Error(data.error ?? `The server said ${response.status}.`);
-        }
-
-        const entries = (missing ? [] : (data.entries ?? [])).sort((a, b) =>
-          a.slug.localeCompare(b.slug),
-        );
-        cache.set(id, entries);
-        if (current === id) render();
-      } catch (error) {
-        count.textContent = '';
-        list.innerHTML = `<p class="notice notice-stop">Could not read that list. ${escape(
-          (error as Error).message,
-        )}</p>`;
-      }
-    }
-
-    function choose(id: string, push = true) {
       if (push) {
         const url = new URL(location.href);
         url.searchParams.set('collection', id);
         history.replaceState(null, '', url);
       }
-      void load(id);
+      render();
     }
 
-    picker.addEventListener('click', (event) => {
+    tabs.addEventListener('click', (event) => {
       const button = (event.target as HTMLElement).closest<HTMLButtonElement>('.pick');
-      if (button?.dataset.collection) choose(button.dataset.collection);
+      if (button?.dataset.collection) selectCollection(button.dataset.collection);
     });
 
-    filter.addEventListener('input', render);
+    filter.addEventListener('input', () => {
+      shown = WINDOW;
+      render();
+    });
+
+    sortSelect.addEventListener('change', () => {
+      userChangedSort = true;
+      shown = WINDOW;
+      render();
+    });
+
+    moreBtn.addEventListener('click', () => {
+      shown += WINDOW;
+      render();
+    });
 
     watchUser(async (user) => {
       if (!user) return;
@@ -248,12 +593,14 @@ import { COLLECTIONS } from '../lib/collections';
         location.href = '/no-access';
         return;
       }
-      me = user;
 
-      // Coming back from an edit lands on the collection they were in.
       const wanted = new URL(location.href).searchParams.get('collection');
       const known = COLLECTIONS.some((c) => c.id === wanted);
-      if (wanted && known) choose(wanted, false);
+      selectCollection(wanted && known ? wanted : 'primary-works', false);
     });
+
+    void loadWorks();
+    void loadThinkers();
+    void loadSearchIndex();
   </script>
 </Shell>

@@ -23,7 +23,7 @@ import { COLLECTIONS } from '../lib/collections';
       <span class="num">1</span>
       <h2>What is it</h2>
     </div>
-    <p class="says">Pick the kind of thing you are adding. Read the descriptions: they are the difference between a work and a musing.</p>
+    <p class="says">Pick what you are adding. If you are not sure, the descriptions below say what belongs in each.</p>
     <div class="kinds">
       {
         COLLECTIONS.map((collection) => (
@@ -965,16 +965,49 @@ import { COLLECTIONS } from '../lib/collections';
 
     // ── Step 1 ─────────────────────────────────────────────────────────
 
+    function choose(id: string, jump = true) {
+      const found = collectionById(id);
+      if (!found) return false;
+      chosen = found;
+      document.querySelectorAll('.kind').forEach((card) => card.classList.remove('picked'));
+      document.querySelector(`[data-kind="${id}"]`)?.classList.add('picked');
+      if (jump) goTo('step-2');
+      return true;
+    }
+
     document.querySelectorAll<HTMLButtonElement>('[data-kind]').forEach((button) => {
-      button.addEventListener('click', () => {
-        const found = collectionById(button.dataset.kind ?? '');
-        if (!found) return;
-        chosen = found;
-        document.querySelectorAll('.kind').forEach((card) => card.classList.remove('picked'));
-        button.classList.add('picked');
-        goTo('step-2');
-      });
+      button.addEventListener('click', () => choose(button.dataset.kind ?? ''));
     });
+
+    // The home screen sends people here by the job they came to do rather than
+    // by the kind of record it turns into. Somebody holding a scanned pamphlet
+    // should be looking at an upload box, not at a taxonomy question they have
+    // no reason to be able to answer.
+    const JOBS: Record<string, string[]> = {
+      document: ['primary-works'],
+      person: ['thinkers', 'organisations', 'contributors'],
+      writing: ['musings', 'opinions'],
+    };
+
+    const job = new URLSearchParams(location.search).get('job') ?? '';
+    const wanted = JOBS[job];
+    if (wanted) {
+      if (wanted.length === 1) {
+        // One obvious answer, so do not ask the question at all.
+        choose(wanted[0]);
+        document.getElementById('step-1')?.setAttribute('hidden', '');
+      } else {
+        // Narrow the choice to the few that fit, and say what was hidden.
+        document.querySelectorAll<HTMLElement>('.kind').forEach((card) => {
+          if (!wanted.includes(card.dataset.kind ?? '')) card.hidden = true;
+        });
+        const says = document.querySelector('#step-1 .says');
+        if (says) {
+          says.textContent =
+            'Which of these is it? Only the kinds that fit what you came to do are shown.';
+        }
+      }
+    }
 
     // ── Step 2 ─────────────────────────────────────────────────────────
 

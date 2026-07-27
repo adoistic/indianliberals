@@ -1,67 +1,110 @@
 ---
 import Shell from '../layouts/Shell.astro';
+
+/**
+ * The home screen asks what you want to do, not which kind of record you would
+ * like to create.
+ *
+ * Nobody arrives here thinking "I should like to author a primary-work entity".
+ * They arrive holding a scanned pamphlet, or having noticed that a page credits
+ * the wrong author. Those are the two jobs, and they are what this offers. The
+ * taxonomy still exists underneath, but it is something the software works out,
+ * not a question the archivist has to answer first.
+ */
+
+const jobs = [
+  {
+    href: '/add?job=document',
+    title: 'Put a document online',
+    lede: 'A scanned book, pamphlet, speech or magazine issue. Upload the file and the details can be filled in for you.',
+    meta: 'The commonest job',
+    primary: true,
+  },
+  {
+    href: '/browse',
+    title: 'Fix something that is wrong',
+    lede: 'Find any page in the archive and correct it. A wrong author, a missing year, a summary that reads badly.',
+    meta: 'Every change is recorded against your name',
+  },
+  {
+    href: '/add?job=person',
+    title: 'Add a person or an organisation',
+    lede: 'Someone the archive mentions but does not yet have a page for, or the institution they wrote for.',
+  },
+  {
+    href: '/add?job=writing',
+    title: 'Add an excerpt or an opinion piece',
+    lede: 'A passage lifted from a longer work, or a present-day article written for the site.',
+  },
+];
 ---
 
 <Shell title="Archive">
-  <p class="eyebrow">Indian Liberals</p>
-  <h1>What would you like to do</h1>
-  <hr class="rule" />
-  <p class="lede">
-    Everything in the archive is here. Add something new, or find what you want to change.
-  </p>
-
-  <div class="actions">
-    <a class="card action" href="/add">
-      <h3>Add something new</h3>
-      <p>
-        A book, a pamphlet, an issue of a periodical, a thinker, an organisation. Upload the
-        document and let AI read it for you, or type the details in yourself.
-      </p>
-      <span class="go">Start</span>
-    </a>
-    <a class="card action" href="/browse">
-      <h3>Find and edit</h3>
-      <p>
-        Search everything already in the archive and change it. Every edit is recorded with
-        your name against it.
-      </p>
-      <span class="go">Browse</span>
-    </a>
+  <div class="head">
+    <p class="eyebrow">Indian Liberals</p>
+    <h1>What would you like to do</h1>
+    <hr class="rule" />
   </div>
 
-  <section style="margin-top:2.5rem">
-    <h2>The archive today</h2>
-    <hr class="rule" />
-    <div class="counts" id="counts">
-      <p class="muted">Counting.</p>
-    </div>
+  <div class="jobs">
+    {
+      jobs.map((job) => (
+        <a class={`card job${job.primary ? ' first' : ''}`} href={job.href}>
+          {job.meta && <span class="meta">{job.meta}</span>}
+          <h2>{job.title}</h2>
+          <p>{job.lede}</p>
+        </a>
+      ))
+    }
+  </div>
+
+  <section class="holdings">
+    <h2 class="small">What is in the archive</h2>
+    <div class="counts" id="counts"><p class="muted">Counting.</p></div>
   </section>
 
   <style>
-    .lede { max-width: 40rem; }
-    .actions { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); margin-top: 1.75rem; }
-    .action { text-decoration: none; display: block; transition: border-color .15s, transform .15s; }
-    .action:hover { border-color: var(--gold); transform: translateY(-1px); }
-    .action p { margin: .5rem 0 1rem; font-size: .92rem; }
-    .go { font-size: 11px; letter-spacing: .16em; text-transform: uppercase; font-weight: 700; color: var(--brown); }
-    .counts { display: grid; gap: .75rem; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); }
-    .count { background: var(--tile); border-radius: 14px; padding: 1rem 1.1rem; }
-    .count .n { font-family: var(--serif); font-size: 1.8rem; color: var(--brown); line-height: 1; font-variant-numeric: tabular-nums; }
-    .count .k { font-size: .82rem; margin-top: .3rem; }
+    .head { max-width: 40rem; }
+    .jobs { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); margin-top: 1.75rem; }
+    .job {
+      text-decoration: none;
+      display: block;
+      position: relative;
+      transition: border-color .15s, transform .15s, box-shadow .15s;
+    }
+    .job:hover { border-color: var(--gold); transform: translateY(-2px); box-shadow: 0 6px 20px rgba(98, 65, 32, .07); }
+    .job.first { grid-column: 1 / -1; background: var(--cream); border-color: var(--sand); }
+    .job.first h2 { font-size: 1.75rem; }
+    .job h2 { margin-bottom: .4rem; }
+    .job p { margin: 0; font-size: .95rem; max-width: 40rem; }
+    .meta {
+      display: inline-block;
+      font-size: 11px;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: .5rem;
+    }
+    .holdings { margin-top: 3rem; }
+    .small { font-size: 1.05rem; margin-bottom: 1rem; }
+    .counts { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
+    .count { background: var(--tile); border-radius: 12px; padding: .85rem 1rem; }
+    .count .n { font-family: var(--serif); font-size: 1.5rem; color: var(--brown); line-height: 1; font-variant-numeric: tabular-nums; }
+    .count .k { font-size: .78rem; margin-top: .25rem; }
   </style>
 
   <script>
-    // Counts come from the live site's own metadata endpoint rather than from
-    // the repository, so this page shows what readers can actually see.
+    // Counted from the live site rather than the repository, so this reflects
+    // what a reader can actually see today.
     const LABELS: Record<string, string> = {
-      primary_works: 'Primary works',
+      primary_works: 'Documents',
+      thinkers: 'People',
+      periodical_issues: 'Magazine issues',
       interviews: 'Interviews',
-      periodical_issues: 'Periodical issues',
-      thinkers: 'Thinkers',
+      musings: 'Excerpts',
+      opinions: 'Opinion pieces',
       organisations: 'Organisations',
-      musings: 'Musings',
-      opinions: 'Opinions',
-      theprint_mirror: 'From ThePrint',
     };
 
     const box = document.getElementById('counts')!;
@@ -69,9 +112,10 @@ import Shell from '../layouts/Shell.astro';
       .then((r) => r.json() as Promise<{ counts: Record<string, number> }>)
       .then((meta) => {
         box.innerHTML = Object.entries(meta.counts)
+          .filter(([key]) => key in LABELS)
           .map(
             ([key, value]) =>
-              `<div class="count"><div class="n">${value.toLocaleString('en-IN')}</div><div class="k">${LABELS[key] ?? key}</div></div>`,
+              `<div class="count"><div class="n">${value.toLocaleString('en-IN')}</div><div class="k">${LABELS[key]}</div></div>`,
           )
           .join('');
       })

@@ -61,7 +61,11 @@ import { ROLE_ORDER, ROLE_INFO } from '../lib/roles';
     </table>
   </section>
 
-  <style>
+  <!-- Global rather than scoped: the rows and cards below are built at
+       runtime with innerHTML, and Astro's scoped styles only reach elements
+       that were in the template at build time. Every selector here is
+       page-specific, so global costs nothing. -->
+  <style is:global>
     .lede { max-width: 42rem; }
     .roles { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); margin-top: 1.5rem; }
     .role .summary { margin: .4rem 0 1rem; font-size: .9rem; }

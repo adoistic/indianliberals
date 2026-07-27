@@ -963,38 +963,6 @@ const series: CollectionDef = {
   ],
 };
 
-const theprintMirror: CollectionDef = {
-  id: 'theprint-mirror',
-  label: 'ThePrint articles',
-  singular: 'ThePrint article',
-  description: 'A copy of an article published on ThePrint, kept here for readers and deliberately hidden from search engines so the original keeps its ranking.',
-  path: 'apps/site/src/content/theprint-mirror',
-  titleField: 'title',
-  slugFrom: 'title',
-  hasBody: true,
-  bodyLabel: 'The article',
-  fields: [
-    idField('why-indias-liberals-lost-the-argument', 'this article'),
-    { name: 'title', label: 'Title', kind: 'text', required: true, group: 'essential', hint: 'The headline as ThePrint published it. Do not reword it.' },
-    { name: 'pubDate', label: 'Date published', kind: 'date', required: true, group: 'essential', hint: 'The date it appeared on ThePrint.' },
-    { name: 'author_name', label: 'Byline', kind: 'text', required: true, group: 'essential', hint: 'The writer as credited on ThePrint.' },
-    { name: 'theprint_url', label: 'Address on ThePrint', kind: 'url', required: true, group: 'essential', hint: 'The full web address of the original article. Every copy has to credit and link back to it.' },
-
-    { name: 'hero_image', label: 'Picture at the top', kind: 'url', required: false, group: 'files', hint: 'The address of the picture on ThePrint\'s own servers. It is linked, not copied, because the photographs are licensed to them.' },
-
-    { name: 'related_thinkers', label: 'People it concerns', kind: 'reference-list', required: false, collection: 'thinkers', group: 'people' },
-    thinkerMentionsField(),
-    { name: 'related_works', label: 'Works it discusses', kind: 'reference-list', required: false, collection: 'primary-works', group: 'classification', hint: 'Documents in the archive the article talks about.' },
-    THEMES_FIELD,
-
-    { name: 'noindex', label: 'Hide from search engines', kind: 'boolean', required: false, group: 'advanced', hint: 'Leave this ticked. It keeps search engines off the copy so ThePrint keeps the traffic for its own article, while readers here can still read it.' },
-    ...legacySummaryFields(),
-    ...languageFields('theprint-mirror'),
-    ...aiProvenanceFields(),
-    ...workflowFields('Tick this when the copy came across badly and needs comparing against the original.'),
-  ],
-};
-
 const themes: CollectionDef = {
   id: 'themes',
   label: 'Themes',
@@ -1144,6 +1112,35 @@ const graphEdges: CollectionDef = {
   ],
 };
 
+// ThePrint mirror is deliberately not editable here.
+//
+// It is a federated mirror of an external column, refilled every Saturday by
+// .github/workflows/theprint-ingest.yml. An entry typed in the CMS would be
+// overwritten by the next run, and the text is not ours to change in any case:
+// the canonical article lives at ThePrint and every record cites back to it.
+// Maintaining those pages is a job for the ingest, not for an editor.
+
+// What the CMS offers, and why it is seven things rather than thirteen.
+//
+// A first screen listing every collection in the schema reads as a quiz. Worse,
+// five of those choices could not be completed:
+//
+//   periodicals     has no directory at all. The 719 periodical issues in the
+//                   archive are primary works with work_type: periodical_issue,
+//                   so choosing "periodical issue" here would write a file the
+//                   site never reads.
+//   themes          zero entries
+//   period-windows  zero entries
+//   reading-paths   zero entries
+//   graph-edges     zero entries
+//
+// The last four are future scope from the proposal, not editorial surfaces.
+// Offering them invites someone to spend an afternoon filling in a form whose
+// output nothing renders. They stay in ALL_COLLECTIONS below so tooling can
+// still describe them, and out of COLLECTIONS so nobody is asked to choose one.
+//
+// ThePrint mirror is absent for a different reason: see the note above.
+
 export const COLLECTIONS: CollectionDef[] = [
   primaryWorks,
   thinkers,
@@ -1152,8 +1149,15 @@ export const COLLECTIONS: CollectionDef[] = [
   organisations,
   contributors,
   series,
+];
+
+/**
+ * Everything the archive can hold, including the parts no editor should be
+ * offered. Kept so tooling can still describe a record it encounters.
+ */
+export const ALL_COLLECTIONS: CollectionDef[] = [
+  ...COLLECTIONS,
   periodicals,
-  theprintMirror,
   themes,
   periodWindows,
   readingPaths,
@@ -1161,5 +1165,5 @@ export const COLLECTIONS: CollectionDef[] = [
 ];
 
 export function collectionById(id: string): CollectionDef | undefined {
-  return COLLECTIONS.find((collection) => collection.id === id);
+  return ALL_COLLECTIONS.find((collection) => collection.id === id);
 }
