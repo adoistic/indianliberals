@@ -1,117 +1,104 @@
-# Work completion email — draft
+# Work completion email
 
-**To:** Kumar Anand, Arjun
-**Cc:** (FNF, if the partnership contact should see it)
-**Subject:** Indian Liberals — the rebuild is finished
+**To:** kumar@ccs.in, arjun@ccs.in, aayushi@ccs.in, harsh.singh@ccs.in
+**From:** adnan@thothica.com
+**Subject:** Indian Liberals is done, and you can all log in now
 
 ---
 
-Kumar, Arjun,
+Kumar, Arjun, Aayushi, Harsh,
 
-The Indian Liberals rebuild is done. Everything in the proposal is live, and
-this note is the account of it.
+The rebuild is finished. I've already set all four of you up as admins, so you
+don't need anything from me to start poking at it. Go to
+cms.indianliberals.in, sign in with your CCS Google address, and you're in. If
+it refuses you, tell me and I'll sort it out the same day.
 
-**The archive.** 1,575 primary works, 725 thinkers, 195 excerpts, 79 ThePrint
-pieces, 59 opinion pieces, 52 organisations, 12 contributors, 10 series. 1,457
-PDFs serving from Cloudflare, 3.51 GB, none of them empty or truncated. Every
-one of the 993 PDFs you sent us is accounted for — 65 of them arrived twice and
-collapse to one record each, which is deduplication working rather than
-anything lost. No duplicate ids, no drafts sitting unpublished, nothing filed
-in two places.
+Start with the CMS, since that's the part you'll actually live with. It doesn't
+ask you what kind of database record you want to create. It asks what you came
+to do: put a document online, fix something that's wrong, add a person, get
+through a folder of scans. Every save becomes a commit in the archive's history
+under your name, so nothing is anonymous and nothing is unrecoverable.
 
-**The site.** indianliberals.in, on Astro and Cloudflare. Search runs across
-English, Hindi, Gujarati and Marathi with the right analyzer for each. Every
-URL the old WordPress site ever had now redirects rather than 404s.
+Two things in there worth knowing about before you try them. Anything you start
+can be put down and picked up later, on a shelf that readers never see, with a
+note of what it still needs. And you can drop a whole folder of scans in at
+once: each file goes onto the archive server first so nothing is ever lost if
+the reading fails, then they're read one at a time and wait on that same shelf
+until somebody has checked them. Publishing the lot is one action.
 
-**The agent layer.** mcp.indianliberals.in exposes ten tools — two more than we
-quoted, so the corpus answers to ChatGPT's deep research as well as Claude and
-Cursor. Every page has a markdown sibling declaring which tier it belongs to,
-and there are `/llms.txt`, `/llms-full.txt`, `/AGENTS.md` and `/SKILL.md` for
-agents arriving without a client.
+One expectation to set with whoever else ends up using it: the save is instant,
+but the site takes about half an hour to show it. The whole archive rebuilds
+and Cloudflare runs those builds one after another. Nothing is lost in the wait
+and nobody has to sit watching the screen. It's also why a batch publishes in
+one go rather than fifty; fifty separate saves would tie the thing up until the
+next day.
 
-**The eval, at indianliberals.in/eval.** This was the last thing outstanding
-and it is the piece I would most like you to look at. We quoted 200 questions;
-it ships 255. Nothing is judged by a model — the grader is arithmetic, the
-question pool is public, and anyone can re-run it and get the same number.
+The archive itself: 1,575 primary works, 725 people, 195 excerpts, 79 ThePrint
+pieces, 59 opinion pieces, 52 organisations, 10 series. 1,457 PDFs, 3.5 GB,
+none of them empty or truncated. Every one of the 993 files you sent us is
+accounted for. Sixty-five of them arrived twice and collapse to a single record
+each, which is deduplication doing its job rather than anything going missing.
 
-The headline is 70.8%. The number that matters more is the other one: across
-255 questions, **zero answers quoted text the archive does not publish.** The
-whole design rests on one line — that an agent may quote the clean content down
-to the paragraph, and must summarise and link the scanned PDFs rather than
-pretend to read them. That line held. Where the agent does worse is citation
-discipline: it finds the right obscure fact and then sometimes cites the
-paragraph without having actually fetched it. That is a real weakness and it is
-written up rather than smoothed over. The method is at
+The piece I'd most like you to look at is indianliberals.in/eval. We quoted a
+200-question evaluation; it ships with 255. Nothing in it is judged by a model.
+The grader is arithmetic, the questions are public, and anyone can re-run it
+and get the same number.
+
+The headline is 70.8%, which I'd call decent rather than good. The number I
+actually care about is the other one: across 255 questions, zero answers quoted
+text the archive doesn't publish. The whole design rests on one line, that an
+agent may quote the clean content down to the paragraph and must summarise and
+link the scanned PDFs instead of pretending to have read them. That line held.
+Where it does worse is citation discipline. It finds the right obscure fact and
+then sometimes cites the paragraph without having actually fetched it. That's a
+real weakness and it's written up rather than smoothed over, at
 indianliberals.in/eval/paper.
 
-**The CMS, at cms.indianliberals.in.** We proposed an off-the-shelf editor and
-built you a purpose-built one instead, at no change to the price. The reason is
-that the off-the-shelf option would have shown an archivist a database schema.
-This one asks what they want to do — put a document online, fix something that
-is wrong, add a person — and works backwards from there. Sign in with Google or
-a magic link. Four roles, with what each can and cannot do written out on the
-page rather than in a manual. Every save becomes a commit in the archive's
-history under the name of the person who made it, so nothing is anonymous and
-nothing is unrecoverable.
+A few things we found and fixed that weren't in the brief. The extraction
+pipeline had a fault that attached the wrong headings to the wrong articles
+across the periodical corpus; it affected 7% of sections and is now at 0.1%,
+repaired without altering a line of the underlying text. A sweep of all 1,799
+prose documents turned up six periodicals carrying another issue's content. One
+budget PDF had uploaded as a 36-page truncation of a 43-page document, and the
+full file now serves at the same address. We also built a transcription
+pipeline for video, which is where the 18 lectures came from.
 
-There are two ways in besides the one-at-a-time form. Anything started can be
-put down and picked up later: it goes on a shelf that readers never see, with a
-note of what it still needs. And a whole folder of scans can go in at once. Each
-file is put on the archive server first, so nothing is ever lost if the reading
-fails; then they are read one after another and wait on the same shelf. When
-somebody has checked them, publishing the lot is one action.
-
-Adnan is set up as super admin. Adding the rest of your team is two minutes in
-the People screen — no code, no tickets to us.
-
-One expectation worth setting with your editors: a save is instant, but the
-site takes about half an hour to show it, because the whole archive rebuilds
-and Cloudflare runs those builds one at a time. Nothing is lost in the wait and
-nobody needs to sit watching the screen. The CMS says so on the page. This is
-also why a batch publishes as one action rather than fifty: fifty separate
-saves would queue builds into the following day.
-
-**Things we found and fixed along the way that were not in the brief.** The
-extraction pipeline had a misjoin that put the wrong headings against the wrong
-articles across the periodical corpus; it affected 7% of sections and is now at
-0.1%, repaired without altering a single line of the underlying prose. A sweep
-of all 1,799 prose documents found six periodicals carrying another issue's
-content. One budget PDF had uploaded as a 36-page truncation of a 43-page
-document — the full file now serves at the same address. We also built a video
-transcription pipeline, which is where the 18 lectures came from, and branded
-social cards for every page so links render properly when they are shared.
-
-**One thing I want to flag rather than bury.** The API and the agent tools
-currently list English records only. The 44 Marathi, Gujarati and Hindi primary
-works are live and readable on the site, and search finds them — but an agent
-asking for a catalogue will not see them listed. Removing that filter is
-straightforward. Deciding whether an agent should be told to treat a Marathi
-scan the same way it treats an English one is a judgement I would rather make
-with you than for you. Say the word and it is a short piece of work.
+One thing I want to flag rather than bury. The API and the agent tools
+currently list English records only. The 44 Marathi, Gujarati and Hindi works
+are live and readable on the site and search finds them, but an agent asking
+for a catalogue won't see them listed. Taking that filter out is easy. Deciding
+whether an agent should treat a Marathi scan under the same citation rules as
+an English one is a judgement I'd rather make with you than for you. Say the
+word and it's a short piece of work.
 
 Layout reconstruction of the scanned PDFs, paragraph-level citation inside the
-primary works, and the wiki layer on top of them remain where the proposal put
-them — waiting on vision models good enough that the work will not need doing
-twice. When that changes I will tell you, and it will be a separate
-conversation rather than an invoice arriving unannounced.
+primary works, and the wiki layer on top of them are all still where the
+proposal left them, waiting on vision models good enough that the work won't
+need doing twice. When that changes I'll tell you, and it'll be a conversation
+rather than an invoice arriving unannounced.
 
-Three months of support run from today. Anything that breaks, anything that
-reads wrongly, anything an editor gets stuck on — send it to me directly.
+Three months of support starts today. Anything that breaks, anything that reads
+wrongly, anything one of your editors gets stuck on, send it straight to me.
 
-It has been a genuine pleasure. This is an archive worth the trouble.
+Thanks for a genuinely good project. I've enjoyed this one.
+
+Adnan
 
 Adnan Abbasi
-Founder, Thothica
+Thothica
 adnan@thothica.com
 
 ---
 
-## Attachments / links to include
+## Links to include
 
-- The site — https://indianliberals.in
-- The eval — https://indianliberals.in/eval
-- The paper — https://indianliberals.in/eval/paper
-- The CMS — https://cms.indianliberals.in
-- The MCP server — https://mcp.indianliberals.in
-- `docs/2026-07-28-final-report.md` — the full account of what was built against what was promised
+- The site: https://indianliberals.in
+- The CMS: https://cms.indianliberals.in
+- The eval: https://indianliberals.in/eval
+- The method: https://indianliberals.in/eval/paper
+- The MCP server: https://mcp.indianliberals.in
+
+## Attach or link if you want the detail
+
+- `docs/2026-07-28-final-report.md` — everything built, against everything promised
 - `docs/FINALISATION-2026-07-26.md` — the corpus reconciliation audit
