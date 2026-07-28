@@ -80,9 +80,24 @@ and `/SKILL.md`. Every page has a markdown sibling declaring its tier.
 registry generates the MCP surface, the REST surface and the OpenAPI document,
 so the three cannot drift apart.
 
-**`apps/cms`** — 27 source files, 8,019 lines, at `cms.indianliberals.in`.
+**`apps/cms`** — 28 source files, 8,192 lines, at `cms.indianliberals.in`.
 Firebase sign-in, four roles, schema-driven forms, R2 uploads, GitHub commits
 credited to the editor, a draft shelf and a batch intake.
+
+**The CMS security model** — there is no Firebase service account anywhere in
+this project, deliberately. `firestore.rules` is the root of trust: the super
+admin is pinned by email, nobody can grant themselves a role, and the API
+routes read a caller's role over REST using that caller's own token, so a rule
+that would refuse them in the browser refuses them on the server too. Nineteen
+cases now run against the real rules file in the emulator.
+
+**Test suites** — `npm test` runs on every CMS build and covers YAML quoting
+against all 2,707 real content files and the private-key conversion at two key
+sizes. `npm run test:rules` runs the nineteen security-rule cases in the
+Firestore emulator. `npm run test:github` exercises the real commit paths
+against the real repository on a throwaway branch, thirteen cases including a
+Devanagari and Gujarati round trip. `scripts/eval/test_grade.py` holds
+twenty-five cases for the grader.
 
 **`scripts/`** — 14 pipelines: extraction, deduplication, heading repair,
 authority control, translation combination, video transcription, series
@@ -240,6 +255,21 @@ single selection were queued twice, which matters because CCS's deliveries
 contain duplicates; and the CMS told editors the site would update "in a few
 minutes" when the real figure is about half an hour.
 
+**The shelf was readable and writable by any stranger who could sign in**
+(28 July). Read and write on the drafts collection were gated on `signedIn()`,
+and anybody at all can sign in with a Google account. The interface would have
+bounced them to `/no-access`, but the rules would still have accepted a direct
+write to Firestore, so an outsider could have filled the shelf with rubbish or
+read unpublished work. Both are now gated on holding a role, which only an
+admin can grant. Found by writing the rules tests, which had never existed;
+the rules had been deployed and trusted for weeks without one.
+
+Writing those tests also caught two faults in the tests themselves, worth
+naming because they are the kind that make a suite worse than useless:
+asserting that a delete fails against a document that was already deleted
+passes for entirely the wrong reason, and two cases were checking the wrong
+owner.
+
 **Earlier in the engagement**: a grader bug that would have understated the
 eval headline badly; 53 false ungrounded-quote violations from too short a
 quote threshold; an abstention cell that scored 28% and looked like a finding
@@ -285,15 +315,33 @@ done
 ```
 
 ```bash
-# The eval, re-run from the published pool
-python3 scripts/eval/grade.py
+# Regrade the published run and get the published numbers back
+python3 scripts/eval/grade.py scripts/eval/runs/run.json --pool data/eval/pool.json
 ```
+
+That prints loose 0.875, graded 0.708, strict 0.580, which are the figures on
+`/eval` to the digit. `scripts/eval/runs/` also holds an earlier run from the
+same day that scored 0.698; the published one is `run.json`. Grading is pure
+arithmetic over a saved run, so it gives the same answer every time. Producing
+a *new* run means putting a model back through the live MCP surface, which
+costs whatever that model costs.
 
 ```bash
 # The CMS commit paths, against the real repository on a throwaway branch
 cd apps/cms && npm run test:github
 ```
 
-The eval pool is at `/eval/pool.json`, the results at `data/eval/results.json`,
-and the grader at `scripts/eval/grade.py`. The corpus reconciliation is in
+```bash
+# The security rules, against the real rules file in the emulator
+cd apps/cms && npm run test:rules
+```
+
+```bash
+# YAML quoting and the private-key conversion, no network needed
+cd apps/cms && npm test
+```
+
+The eval pool is at `/eval/pool.json`, the answers that were graded at
+`scripts/eval/runs/run.json`, the results at `data/eval/results.json`, and the
+grader at `scripts/eval/grade.py`. The corpus reconciliation is in
 `docs/FINALISATION-2026-07-26.md`.
