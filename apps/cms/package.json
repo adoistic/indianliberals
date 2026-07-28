@@ -10,7 +10,8 @@
     "deploy": "npm run build && wrangler pages deploy dist --project-name thothica-cms --branch main",
     "lint:dashes": "node scripts/lint-dashes.mjs",
     "check": "astro check",
-    "test": "node scripts/test-yaml-quoting.mjs"
+    "test": "node scripts/test-yaml-quoting.mjs && node scripts/test-private-key.mjs",
+    "test:github": "node scripts/test-github-commit.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.6",

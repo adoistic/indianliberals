@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { requireRole, refuse, json, type Env } from '../../lib/guard';
 import { commitFile, readFile, type GitHubEnv } from '../../lib/github';
+import { frontmatterProblems } from '../../lib/frontmatter';
 
 /**
  * Save an entry: validate it, then commit it.
@@ -23,36 +24,6 @@ interface SaveBody {
   /** The sha the editor loaded, absent when creating something new. */
   sha?: string;
   summary?: string;
-}
-
-/** A cheap structural check. The real schema lives in the site's build. */
-function frontmatterProblems(content: string): string[] {
-  const problems: string[] = [];
-  if (!content.startsWith('---\n')) {
-    problems.push('The file must open with a frontmatter block, three dashes on their own line.');
-    return problems;
-  }
-  const end = content.indexOf('\n---', 4);
-  if (end === -1) {
-    problems.push('The frontmatter block is never closed with three dashes.');
-    return problems;
-  }
-  const block = content.slice(4, end);
-  if (!block.trim()) problems.push('The frontmatter block is empty.');
-
-  block.split('\n').forEach((line, index) => {
-    if (!line.trim() || line.startsWith('#')) return;
-    // Tabs are the classic invisible YAML break, and the error a build gives
-    // for one is not obviously about tabs.
-    if (line.includes('\t')) {
-      problems.push(`Line ${index + 1} of the frontmatter has a tab. YAML needs spaces.`);
-    }
-  });
-
-  if (!/^id:\s*\S/m.test(block)) {
-    problems.push('The frontmatter has no id, which every entry needs.');
-  }
-  return problems;
 }
 
 export const POST: APIRoute = async ({ request, locals }) => {

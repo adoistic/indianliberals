@@ -237,9 +237,14 @@ import { COLLECTIONS } from '../lib/collections';
 
       <div class="saverow">
         <button class="btn btn-primary" type="submit" id="save">Save it to the archive</button>
+        <button class="btn btn-quiet" type="button" id="shelve">Save for later</button>
         <button class="btn btn-quiet" type="button" id="startover">Start again</button>
         <span class="hint" id="savesaid"></span>
       </div>
+      <p class="hint" style="margin-top:.5rem">
+        <strong>Save for later</strong> puts this on <a href="/drafts">the shelf</a> exactly as it
+        stands, with nothing filled in that you have not filled in. Readers never see the shelf.
+      </p>
       <p class="notice" id="nopublish" hidden>
         You are a contributor, so you cannot publish. Your draft has to be saved by a sub-admin
         or an admin, who will check it first. Ask one of them to open this and press save.
@@ -337,6 +342,8 @@ import { COLLECTIONS } from '../lib/collections';
   <script>
     import { collectionById, type CollectionDef, type Field } from '../lib/collections';
     import { GROUP_ORDER, groupLabel, groupNote } from '../lib/groups';
+    import { sendFile, asBase64, kindOf, type UploadDone } from '../lib/upload';
+    import { saveDraft, getDraft, deleteDraft, draftId, type DraftInput } from '../lib/drafts';
     import {
       buildPrompt,
       parseModelOutput,
@@ -372,6 +379,11 @@ import { COLLECTIONS } from '../lib/collections';
       me = user;
       myRole = await roleFor(user);
       markReady();
+
+      // Arriving from the shelf: reopen that draft instead of starting blank.
+      const wanted = new URLSearchParams(location.search).get('draft');
+      if (wanted) void resume(wanted);
+
       const save = document.getElementById('save') as HTMLButtonElement | null;
       const warn = document.getElementById('nopublish');
       if (save && !canPublish(myRole)) {
@@ -965,6 +977,105 @@ import { COLLECTIONS } from '../lib/collections';
       }
     }
 
+
+    // ── The shelf ──────────────────────────────────────────────────────
+    //
+    // Saving to the archive demands every required field, and rightly: a live
+    // entry missing its title is a broken page. But an archivist holding a
+    // pamphlet whose author they cannot identify has to be able to put it
+    // down. That is what this is. It validates nothing, it publishes nothing,
+    // and it is the same shelf the batch screen fills.
+
+    /** Set when this form was opened from an existing draft, so it updates rather than duplicates. */
+    let openedDraft: string | null = null;
+
+    /** Required fields still empty, by their human label. */
+    function stillMissing(): string[] {
+      if (!chosen) return [];
+      return chosen.fields
+        .filter((field) => field.required && field.name !== 'id')
+        .filter((field) => readAt(record, field.name.split('.')) === undefined)
+        .map((field) => field.label);
+    }
+
+    async function shelve(): Promise<void> {
+      const out = document.getElementById('saveout');
+      if (!me || !chosen || !out) return;
+
+      const slug = currentSlug();
+      const id = openedDraft ?? draftId(null, slug || String(record.id ?? '') || 'untitled');
+
+      const draft: DraftInput = {
+        collection: chosen.id,
+        slug,
+        data: record,
+        body: bodyText,
+        // Lowercased to match the rules, which compare against
+        // request.auth.token.email.lower(). An address with a capital letter
+        // in it would otherwise be refused its own draft.
+        author: (me.email ?? '').toLowerCase(),
+        status: 'needs_work',
+        missing: stillMissing(),
+        batchId: null,
+        filename: heldFile?.name ?? null,
+        pdfUrl: pdfUrl || null,
+        error: null,
+      };
+
+      try {
+        await saveDraft(id, draft);
+        openedDraft = id;
+        // Leaving is no longer a loss, so the unload guard stands down.
+        saved = true;
+        const box = el('div', { class: 'notice' });
+        add(box, el('p', { style: 'margin:0 0 .5rem' }, el('strong', {}, 'Put on the shelf. ')));
+        add(
+          box,
+          el(
+            'p',
+            { class: 'hint', style: 'margin:0 0 .75rem' },
+            draft.missing.length
+              ? `It still needs: ${draft.missing.join(', ')}. Nobody can see it until it is finished and published.`
+              : 'It is complete. Publish it from the shelf whenever you are ready.',
+          ),
+        );
+        add(box, el('a', { class: 'btn btn-quiet', href: '/drafts' }, 'Go to the shelf'));
+        out.replaceChildren(box);
+      } catch (error) {
+        say(out, `Could not save it to the shelf: ${(error as Error).message}`, 'stop');
+      }
+    }
+
+    /** Reopen something from the shelf, straight into the form. */
+    async function resume(id: string): Promise<void> {
+      let draft;
+      try {
+        draft = await getDraft(id);
+      } catch (error) {
+        return;
+      }
+      if (!draft) return;
+
+      if (!choose(draft.collection, false)) return;
+      openedDraft = draft.id;
+      pdfUrl = draft.pdfUrl ?? '';
+      startForm(draft.data ?? {}, draft.body ?? '');
+
+      const slugBox = document.getElementById('slug') as HTMLInputElement | null;
+      if (slugBox && draft.slug) {
+        slugBox.value = draft.slug;
+        slugEdited = true;
+      }
+
+      // Publishing from here removes it from the shelf, so it does not sit
+      // there as a ghost of something already in the archive.
+      shelved = draft.id;
+      goTo('step-4');
+    }
+
+    /** The draft this form came from, cleared off the shelf once it is published. */
+    let shelved: string | null = null;
+
     // ── Step 1 ─────────────────────────────────────────────────────────
 
     function choose(id: string, jump = true) {
@@ -980,6 +1091,8 @@ import { COLLECTIONS } from '../lib/collections';
     document.querySelectorAll<HTMLButtonElement>('[data-kind]').forEach((button) => {
       button.addEventListener('click', () => choose(button.dataset.kind ?? ''));
     });
+
+    document.getElementById('shelve')?.addEventListener('click', () => void shelve());
 
     // The home screen sends people here by the job they came to do rather than
     // by the kind of record it turns into. Somebody holding a scanned pamphlet
@@ -1013,66 +1126,10 @@ import { COLLECTIONS } from '../lib/collections';
 
     // ── Step 2 ─────────────────────────────────────────────────────────
 
-    interface UploadDone {
-      ok: boolean;
-      clash?: boolean;
-      url?: string;
-      key?: string;
-      error?: string;
-    }
-
-    async function sendFile(
-      file: File,
-      kind: string,
-      overwrite: boolean,
-      onProgress: (pct: number) => void,
-    ): Promise<UploadDone> {
-      // The token is fetched before the promise starts, so a signed-out editor
-      // gets a plain error rather than a progress bar that never moves.
-      const token = await bearer();
-      return new Promise((resolve) => {
-        const form = new FormData();
-        form.append('file', file);
-        form.append('kind', kind);
-        if (overwrite) form.append('overwrite', 'yes');
-
-        // XMLHttpRequest rather than fetch, because it is the only way to know
-        // how far a 100 MB scan has got.
-        const request = new XMLHttpRequest();
-        request.open('POST', '/api/upload');
-        request.setRequestHeader('Authorization', token);
-        request.upload.addEventListener('progress', (event) => {
-          if (event.lengthComputable) onProgress(Math.round((event.loaded / event.total) * 100));
-        });
-        request.addEventListener('load', () => {
-          let data: Record<string, unknown> = {};
-          try {
-            data = JSON.parse(request.responseText) as Record<string, unknown>;
-          } catch {
-            resolve({ ok: false, error: 'The server said something we could not read.' });
-            return;
-          }
-          if (request.status === 409 && data.needsConfirmation) {
-            resolve({ ok: false, clash: true, error: String(data.error ?? '') });
-            return;
-          }
-          if (request.status >= 400) {
-            resolve({ ok: false, error: String(data.error ?? `The upload failed with code ${request.status}.`) });
-            return;
-          }
-          resolve({ ok: true, url: String(data.url ?? ''), key: String(data.key ?? '') });
-        });
-        request.addEventListener('error', () => {
-          resolve({ ok: false, error: 'The upload could not reach the server. Check the connection and try again.' });
-        });
-        request.send(form);
-      });
-    }
-
     async function handleFile(file: File, overwrite = false): Promise<void> {
       const state = document.getElementById('upstate');
       if (!state) return;
-      const kind = file.type === 'application/pdf' ? 'pdf' : 'cover';
+      const kind = kindOf(file);
       heldFile = file;
 
       const bar = el('span');
@@ -1081,10 +1138,10 @@ import { COLLECTIONS } from '../lib/collections';
 
       let result: UploadDone;
       try {
-        result = await sendFile(file, kind, overwrite, (pct) => {
+        result = await sendFile(file, kind, await bearer(), (pct) => {
           bar.style.width = `${pct}%`;
           line.textContent = `Sending ${file.name}. ${pct} per cent.`;
-        });
+        }, overwrite);
       } catch (error) {
         say(state, (error as Error).message, 'stop');
         return;
@@ -1320,18 +1377,6 @@ import { COLLECTIONS } from '../lib/collections';
       }
     });
 
-    function asBase64(file: File): Promise<string> {
-      return new Promise((resolve, reject) => {
-        const reader = new FileReader();
-        reader.addEventListener('load', () => {
-          const parts = String(reader.result).split(',');
-          resolve(parts[1] ?? '');
-        });
-        reader.addEventListener('error', () => reject(new Error('That file could not be read.')));
-        reader.readAsDataURL(file);
-      });
-    }
-
     // ── Step 4 ─────────────────────────────────────────────────────────
 
     function startForm(data: Record<string, unknown>, body?: string, problems: string[] = []): void {
@@ -1447,6 +1492,16 @@ import { COLLECTIONS } from '../lib/collections';
         }
 
         saved = true;
+        // It is in the archive now, so it has no business still being on the
+        // shelf. Failing to remove it is not worth failing the save over.
+        if (shelved) {
+          try {
+            await deleteDraft(shelved);
+          } catch {
+            /* the shelf will show it as already published; harmless */
+          }
+          shelved = null;
+        }
         const box = el('div', { class: 'notice' });
         add(box, el('p', { style: 'margin:0 0 .5rem' }, el('strong', {}, 'Saved. ')));
         add(

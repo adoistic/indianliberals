@@ -1,0 +1,365 @@
+---
+import Shell from '../layouts/Shell.astro';
+
+/**
+ * The shelf.
+ *
+ * Everything started and not finished, whether it was put down halfway through
+ * or arrived fifty at a time. Nothing here is public and nothing here has been
+ * committed; the archive does not know these exist yet.
+ *
+ * Publishing several together is the point of the screen. The site takes about
+ * twenty-five minutes to rebuild and Cloudflare builds one at a time, so
+ * approving fifty entries one by one would occupy the archive until tomorrow.
+ * Approved together, they are a single commit and a single build.
+ */
+---
+
+<Shell title="The shelf">
+  <div class="head">
+    <p class="eyebrow">Indian Liberals</p>
+    <h1>Waiting to be finished</h1>
+    <hr class="rule" />
+    <p class="lede">
+      Work that has been started but not published. Readers cannot see any of it. Open one to finish
+      it, or tick several that are ready and publish them together.
+    </p>
+  </div>
+
+  <div id="stage"><p class="muted">Looking on the shelf.</p></div>
+
+  <div id="shelf" hidden>
+    <div class="bar" id="bar">
+      <label class="tick">
+        <input type="checkbox" id="all" />
+        <span>Select all that are ready</span>
+      </label>
+      <span class="grow"></span>
+      <span class="muted" id="count"></span>
+      <button type="button" class="btn btn-primary" id="publish" disabled>
+        Publish the selected
+      </button>
+    </div>
+    <div id="result"></div>
+    <div id="groups"></div>
+  </div>
+
+  <div id="empty" hidden>
+    <section class="card">
+      <h2>Nothing is waiting</h2>
+      <hr class="rule" />
+      <p>
+        Everything that has been started is finished. Put something new online from
+        <a href="/add">Add something</a>, or bring in a folder of scans with
+        <a href="/batch">Add many at once</a>.
+      </p>
+    </section>
+  </div>
+
+  <style is:global>
+    .head { max-width: 44rem; }
+    .lede { font-size: 1.05rem; }
+
+    .bar {
+      display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
+      position: sticky; top: 0; z-index: 5;
+      background: var(--bg); padding: .9rem 0; border-bottom: 1px solid var(--line2);
+      margin-bottom: 1.25rem;
+    }
+    .bar .grow { flex: 1; }
+    .tick { display: flex; align-items: center; gap: .5rem; }
+    .tick input { width: auto; }
+
+    .group { margin-bottom: 2rem; }
+    .group > h2 { font-size: 1.15rem; margin-bottom: .2rem; }
+    .group > .when { font-size: .85rem; color: var(--body); margin: 0 0 .9rem; }
+
+    .draft {
+      display: grid; grid-template-columns: auto 1fr auto; gap: .9rem; align-items: start;
+      background: var(--card); border: 1px solid var(--line2); border-radius: 12px;
+      padding: .9rem 1.1rem; margin-bottom: .6rem;
+    }
+    .draft.ready { border-color: var(--sand); background: var(--cream); }
+    .draft input[type='checkbox'] { width: auto; margin-top: .3rem; }
+    .draft h3 { font-size: 1.05rem; margin: 0 0 .2rem; }
+    .draft .meta { font-size: .82rem; color: var(--body); margin: 0; }
+    .draft .needs { font-size: .82rem; color: var(--stop); margin: .35rem 0 0; }
+    .draft .broke { font-size: .82rem; color: var(--stop); margin: .35rem 0 0; }
+    .draft .doing { display: flex; flex-direction: column; gap: .4rem; align-items: stretch; }
+    .draft .doing .btn { white-space: nowrap; }
+    .pill {
+      display: inline-block; font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+      font-weight: 700; padding: .12rem .45rem; border-radius: 5px; margin-left: .5rem;
+      background: var(--tile); color: var(--body);
+    }
+    .pill.ok { background: #e4efe0; color: #37602b; }
+    @media (max-width: 640px) {
+      .draft { grid-template-columns: auto 1fr; }
+      .draft .doing { grid-column: 2; flex-direction: row; }
+    }
+  </style>
+
+  <script>
+    import { watchUser, roleFor } from '../lib/firebase';
+    import { canPublish, type Role } from '../lib/roles';
+    import { collectionById } from '../lib/collections';
+    import { toMarkdownFile } from '../lib/ingest';
+    import { listDrafts, deleteDraft, byBatch, type Draft } from '../lib/drafts';
+    import type { User } from 'firebase/auth';
+
+    let me: User | null = null;
+    let role: Role | null = null;
+    let drafts: Draft[] = [];
+    const picked = new Set<string>();
+
+    const $ = (id: string) => document.getElementById(id);
+    const esc = (value: string) =>
+      value.replace(/[&<>"']/g, (c) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+      );
+
+    /** A draft is ready when nothing required is empty and it has a filename. */
+    const isReady = (draft: Draft) => !draft.missing?.length && Boolean(draft.slug);
+
+    function draw(): void {
+      const groups = $('groups');
+      if (!groups) return;
+
+      if (!drafts.length) {
+        $('shelf')?.setAttribute('hidden', '');
+        $('empty')?.removeAttribute('hidden');
+        return;
+      }
+      $('empty')?.setAttribute('hidden', '');
+      $('shelf')?.removeAttribute('hidden');
+
+      const parts: string[] = [];
+      for (const [batchId, group] of byBatch(drafts)) {
+        const ready = group.filter(isReady).length;
+        parts.push('<section class="group">');
+        parts.push(
+          batchId
+            ? `<h2>A batch of ${group.length}</h2>`
+            : `<h2>Started one at a time</h2>`,
+        );
+        parts.push(
+          `<p class="when">${ready} of ${group.length} ${ready === 1 ? 'is' : 'are'} ready to publish.</p>`,
+        );
+        for (const draft of group) parts.push(card(draft));
+        parts.push('</section>');
+      }
+      groups.innerHTML = parts.join('');
+
+      for (const box of groups.querySelectorAll<HTMLInputElement>('input[data-id]')) {
+        box.addEventListener('change', () => {
+          if (box.checked) picked.add(box.dataset.id!);
+          else picked.delete(box.dataset.id!);
+          refresh();
+        });
+      }
+      for (const button of groups.querySelectorAll<HTMLButtonElement>('button[data-drop]')) {
+        button.addEventListener('click', () => void drop(button.dataset.drop!));
+      }
+      refresh();
+    }
+
+    function card(draft: Draft): string {
+      const def = collectionById(draft.collection);
+      const ready = isReady(draft);
+      const title = titleOf(draft) || draft.filename || draft.slug || 'Untitled';
+
+      return `
+        <article class="draft${ready ? ' ready' : ''}">
+          <input type="checkbox" data-id="${esc(draft.id)}" ${ready ? '' : 'disabled'} />
+          <div>
+            <h3>${esc(title)}${ready ? '<span class="pill ok">ready</span>' : '<span class="pill">unfinished</span>'}</h3>
+            <p class="meta">
+              ${esc(def?.singular ?? draft.collection)}
+              ${draft.slug ? ` · <code>${esc(draft.slug)}</code>` : ''}
+              ${draft.author ? ` · started by ${esc(draft.author)}` : ''}
+            </p>
+            ${
+              draft.missing?.length
+                ? `<p class="needs">Still needs: ${draft.missing.map(esc).join(', ')}.</p>`
+                : ''
+            }
+            ${draft.error ? `<p class="broke">${esc(draft.error)}</p>` : ''}
+            ${
+              draft.pdfUrl
+                ? `<p class="meta"><a href="${esc(draft.pdfUrl)}" target="_blank" rel="noreferrer">The file is on the archive server</a></p>`
+                : ''
+            }
+          </div>
+          <div class="doing">
+            <a class="btn btn-quiet tiny" href="/add?draft=${encodeURIComponent(draft.id)}">Open</a>
+            <button type="button" class="btn btn-quiet tiny" data-drop="${esc(draft.id)}">Discard</button>
+          </div>
+        </article>`;
+    }
+
+    function titleOf(draft: Draft): string {
+      const def = collectionById(draft.collection);
+      const path = def?.titleField ?? 'title.main';
+      const value = path
+        .split('.')
+        .reduce<unknown>((at, part) => (at as Record<string, unknown>)?.[part], draft.data);
+      return typeof value === 'string' ? value : '';
+    }
+
+    function refresh(): void {
+      const button = $('publish') as HTMLButtonElement;
+      const count = $('count');
+      const ready = drafts.filter(isReady).length;
+      if (count) {
+        count.textContent = picked.size
+          ? `${picked.size} selected`
+          : `${ready} ready, ${drafts.length - ready} still unfinished`;
+      }
+      button.disabled = picked.size === 0 || !canPublish(role);
+      button.textContent = picked.size > 1 ? `Publish these ${picked.size}` : 'Publish the selected';
+    }
+
+    async function drop(id: string): Promise<void> {
+      const draft = drafts.find((d) => d.id === id);
+      const what = draft ? titleOf(draft) || draft.filename || draft.slug : 'this';
+      if (!window.confirm(`Discard "${what}"? The file stays on the archive server; only the unfinished entry goes.`)) {
+        return;
+      }
+      await deleteDraft(id);
+      picked.delete(id);
+      drafts = drafts.filter((d) => d.id !== id);
+      draw();
+    }
+
+    function say(html: string, tone: 'good' | 'bad'): void {
+      const box = $('result');
+      if (box) {
+        box.innerHTML = `<div class="notice" style="${
+          tone === 'bad' ? 'border-color:var(--stop)' : ''
+        }">${html}</div>`;
+      }
+    }
+
+    /**
+     * Publish everything ticked, as one commit.
+     *
+     * Drafts are only removed from the shelf once GitHub has confirmed the
+     * commit. If the call fails halfway, the work is still here.
+     */
+    async function publish(): Promise<void> {
+      if (!me || !picked.size) return;
+      const button = $('publish') as HTMLButtonElement;
+      button.disabled = true;
+      say('Publishing.', 'good');
+
+      const chosen = drafts.filter((draft) => picked.has(draft.id));
+      const entries = chosen.map((draft) => ({
+        collection: draft.collection,
+        slug: draft.slug,
+        content: toMarkdownFile(draft.data, draft.body),
+        draftId: draft.id,
+      }));
+
+      try {
+        const token = await me.getIdToken();
+        const response = await fetch('/api/publish-batch', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json', Authorization: `Bearer ${token}` },
+          body: JSON.stringify({
+            entries,
+            summary:
+              entries.length === 1
+                ? `content(${entries[0].collection}): add ${entries[0].slug}`
+                : `content: add ${entries.length} entries`,
+          }),
+        });
+        const payload = (await response.json()) as {
+          ok?: boolean;
+          error?: string;
+          rejected?: { slug: string; problems: string[] }[];
+          published?: number;
+          url?: string;
+        };
+
+        if (!response.ok) {
+          const detail = payload.rejected?.length
+            ? `<ul style="margin:.5rem 0 0;padding-left:1.1rem">${payload.rejected
+                .map((item) => `<li><strong>${esc(item.slug)}</strong>: ${esc(item.problems.join(' '))}</li>`)
+                .join('')}</ul>`
+            : '';
+          say(`${esc(payload.error ?? `The server said ${response.status}.`)}${detail}`, 'bad');
+          return;
+        }
+
+        // Only now, with the commit confirmed, does anything leave the shelf.
+        for (const draft of chosen) await deleteDraft(draft.id);
+        drafts = drafts.filter((draft) => !picked.has(draft.id));
+        picked.clear();
+
+        say(
+          `<strong>Published ${payload.published}.</strong> They are in the archive now and readers ` +
+            `see them once the site rebuilds, usually within half an hour. ` +
+            (payload.url
+              ? `<a href="${esc(payload.url)}" target="_blank" rel="noreferrer">See the change</a>.`
+              : ''),
+          'good',
+        );
+        draw();
+      } catch (error) {
+        say(`Could not publish: ${esc((error as Error).message)}`, 'bad');
+      } finally {
+        refresh();
+      }
+    }
+
+    $('publish')?.addEventListener('click', () => void publish());
+    $('all')?.addEventListener('change', (event) => {
+      const on = (event.target as HTMLInputElement).checked;
+      picked.clear();
+      if (on) for (const draft of drafts.filter(isReady)) picked.add(draft.id);
+      for (const box of document.querySelectorAll<HTMLInputElement>('input[data-id]')) {
+        if (!box.disabled) box.checked = on;
+      }
+      refresh();
+    });
+
+    watchUser(async (user) => {
+      if (!user) return;
+      role = await roleFor(user);
+      if (!role) {
+        location.href = '/no-access';
+        return;
+      }
+      me = user;
+
+      try {
+        drafts = await listDrafts();
+      } catch (error) {
+        // Firestore says "Missing or insufficient permissions", which tells an
+        // archivist nothing they can act on. Say what it means instead.
+        const raw = (error as Error).message;
+        const denied = /permission/i.test(raw);
+        const stage = $('stage');
+        if (stage) {
+          stage.innerHTML = `<div class="notice" style="border-color:var(--stop)">${
+            denied
+              ? 'The shelf would not open for this account. Sign out and back in; if it keeps ' +
+                'happening, ask an admin to check that you still have a role.'
+              : `Could not read the shelf: ${esc(raw)}`
+          }</div>`;
+        }
+        return;
+      }
+
+      $('stage')?.setAttribute('hidden', '');
+      draw();
+
+      if (!canPublish(role)) {
+        say(
+          'You can prepare entries and leave them here, but publishing is done by an admin or sub-admin.',
+          'good',
+        );
+      }
+    });
+  </script>
+</Shell>

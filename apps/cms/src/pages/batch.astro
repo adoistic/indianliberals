@@ -1,0 +1,576 @@
+---
+import Shell from '../layouts/Shell.astro';
+
+/**
+ * Many documents at once.
+ *
+ * The single-document screen assumes you have one thing and will see it
+ * through. This screen assumes the opposite: a folder of scans arrived, nobody
+ * knows what most of them are, and the job is to get them all far enough along
+ * that a person can finish them one at a time later.
+ *
+ * Two rules shape everything here. Every file goes to the archive bucket
+ * before anything else happens, so a failure downstream never loses a
+ * document. And every entry lands on the shelf the moment it is ready, so
+ * closing the tab costs you the one in flight and nothing more.
+ */
+---
+
+<Shell title="Add many at once">
+  <div class="head">
+    <p class="eyebrow">Indian Liberals</p>
+    <h1>Add many documents at once</h1>
+    <hr class="rule" />
+    <p class="lede">
+      Choose a folder full of scans. Each one is put on the archive server, then read in turn, and
+      what comes back waits on the shelf until somebody checks it. Nothing reaches the public site
+      from this screen.
+    </p>
+  </div>
+
+  <!-- Step 1 -->
+  <section class="card step" id="step-1">
+    <h2><span class="num">1</span> What are these</h2>
+    <hr class="rule" />
+    <p class="hint">
+      All the files in one batch become the same kind of entry. If the folder is mixed, do it in two
+      goes.
+    </p>
+    <div id="kinds" class="kinds"></div>
+  </section>
+
+  <!-- Step 2 -->
+  <section class="card step" id="step-2" hidden>
+    <h2><span class="num">2</span> Choose the files</h2>
+    <hr class="rule" />
+    <p class="hint">
+      PDFs and images, up to 120 MB each. You can pick a whole folder at once, and you can add more
+      before starting.
+    </p>
+    <input
+      type="file"
+      id="files"
+      accept="application/pdf,image/jpeg,image/png,image/webp"
+      multiple
+      hidden
+    />
+    <div class="drop" id="drop">
+      <p><strong>Drop the files here</strong></p>
+      <p class="hint">or</p>
+      <button type="button" class="btn btn-quiet" id="choose">Choose files</button>
+    </div>
+    <div id="picked"></div>
+  </section>
+
+  <!-- Step 3 -->
+  <section class="card step" id="step-3" hidden>
+    <h2><span class="num">3</span> How they should be read</h2>
+    <hr class="rule" />
+    <p class="hint">
+      Reading a document costs money on your own account, at your provider's rates. The key stays in
+      this browser and is never sent to us. If you would rather not, skip it: every file still gets
+      uploaded and filed, just with nothing filled in.
+    </p>
+
+    <div class="field">
+      <label for="provider">Which provider</label>
+      <select id="provider">
+        <option value="anthropic">Anthropic</option>
+        <option value="openrouter">OpenRouter</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="key">Your API key</label>
+      <input type="password" id="key" autocomplete="off" placeholder="sk-..." />
+      <p class="hint">Kept in this browser only. Clear it by emptying the box.</p>
+    </div>
+
+    <div class="field">
+      <label for="model">Which model</label>
+      <select id="model"></select>
+      <p class="hint" id="modelnote"></p>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn btn-primary" id="start">Start reading</button>
+      <button type="button" class="btn btn-quiet" id="skip">Just upload and file them</button>
+    </div>
+    <div id="startout"></div>
+  </section>
+
+  <!-- Step 4 -->
+  <section class="card step" id="step-4" hidden>
+    <h2><span class="num">4</span> Working</h2>
+    <hr class="rule" />
+    <p class="hint" id="progress-note">
+      Leave this tab open while it works. Anything already finished is saved and stays saved.
+    </p>
+    <div class="tally" id="tally"></div>
+    <ol class="queue" id="queue"></ol>
+    <div class="actions">
+      <button type="button" class="btn btn-quiet" id="stop" hidden>Stop after this one</button>
+      <a class="btn btn-primary" id="toshelf" href="/drafts" hidden>Go to the shelf</a>
+    </div>
+  </section>
+
+  <style is:global>
+    .head { max-width: 44rem; }
+    .lede { font-size: 1.05rem; }
+    .step { margin-top: 1.25rem; }
+    .step h2 { display: flex; align-items: center; gap: .7rem; }
+    .num {
+      display: inline-grid; place-items: center;
+      width: 1.9rem; height: 1.9rem; border-radius: 50%;
+      background: var(--brown); color: #fff;
+      font-family: var(--sans); font-size: .95rem; font-weight: 700;
+      flex: none;
+    }
+
+    .kinds { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+    .kind {
+      text-align: left; background: var(--card); border: 1px solid var(--line2);
+      border-radius: 12px; padding: .9rem 1rem; cursor: pointer;
+    }
+    .kind:hover { border-color: var(--gold); }
+    .kind[aria-pressed='true'] { border-color: var(--brown); background: var(--cream); }
+    .kind strong { display: block; font-family: var(--serif); font-size: 1.1rem; color: var(--brown); }
+    .kind span { font-size: .85rem; color: var(--body); }
+
+    .drop {
+      border: 2px dashed var(--line2); border-radius: 14px;
+      padding: 2rem 1rem; text-align: center; margin: 1rem 0;
+    }
+    .drop.over { border-color: var(--gold); background: var(--cream); }
+    .drop p { margin: .2rem 0; }
+
+    .tally { display: flex; gap: 1.25rem; flex-wrap: wrap; margin-bottom: 1rem; font-size: .9rem; }
+    .tally b { font-family: var(--serif); font-size: 1.3rem; color: var(--brown); display: block; line-height: 1.1; }
+
+    .queue { list-style: none; padding: 0; margin: 0; display: grid; gap: .4rem; }
+    .row {
+      display: grid; grid-template-columns: 1fr auto; gap: .75rem; align-items: center;
+      padding: .6rem .85rem; background: var(--tile); border-radius: 10px;
+    }
+    .row .name { font-size: .9rem; word-break: break-all; }
+    .row .state { font-size: .8rem; color: var(--body); white-space: nowrap; }
+    .row.done { background: #eef4ec; }
+    .row.failed { background: #fbeeec; }
+    .row .why { grid-column: 1 / -1; font-size: .8rem; color: var(--stop); margin: .2rem 0 0; }
+    .actions { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: 1.1rem; align-items: center; }
+  </style>
+
+  <script>
+    import { watchUser, roleFor } from '../lib/firebase';
+    import { COLLECTIONS, collectionById, type CollectionDef } from '../lib/collections';
+    import { buildPrompt, parseModelOutput, callModel, slugify, stripDashes, MODELS, type Provider } from '../lib/ingest';
+    import { sendFile, asBase64, kindOf } from '../lib/upload';
+    import { saveDraft, draftId, newBatchId, type DraftInput } from '../lib/drafts';
+    import type { User } from 'firebase/auth';
+
+    // ── State ──────────────────────────────────────────────────────────
+
+    interface Item {
+      file: File;
+      /** Where it got to. Each state is a place it can safely be left. */
+      state: 'waiting' | 'uploading' | 'uploaded' | 'reading' | 'shelved' | 'failed';
+      pdfUrl?: string;
+      why?: string;
+      node?: HTMLLIElement;
+      stateNode?: HTMLElement;
+    }
+
+    let me: User | null = null;
+    let chosen: CollectionDef | null = null;
+    let items: Item[] = [];
+    let batchId = '';
+    let stopping = false;
+    let running = false;
+
+    const $ = (id: string) => document.getElementById(id);
+    const show = (id: string) => $(id)?.removeAttribute('hidden');
+
+    // ── Step 1: what kind ──────────────────────────────────────────────
+    //
+    // The same seven offered on the single-document screen. Batching a
+    // thinker profile makes as much sense as batching a pamphlet.
+
+    function drawKinds(): void {
+      const box = $('kinds');
+      if (!box) return;
+      for (const def of COLLECTIONS) {
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'kind';
+        button.setAttribute('aria-pressed', 'false');
+        button.innerHTML = `<strong></strong><span></span>`;
+        button.querySelector('strong')!.textContent = def.singular;
+        button.querySelector('span')!.textContent = def.description;
+        button.addEventListener('click', () => {
+          chosen = def;
+          for (const other of box.querySelectorAll('.kind')) {
+            other.setAttribute('aria-pressed', String(other === button));
+          }
+          show('step-2');
+          $('step-2')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+        box.appendChild(button);
+      }
+    }
+
+    // ── Step 2: the files ──────────────────────────────────────────────
+
+    function addFiles(list: FileList | null): void {
+      if (!list?.length) return;
+      const already = new Set(items.map((item) => `${item.file.name}:${item.file.size}`));
+      let skipped = 0;
+      for (const file of Array.from(list)) {
+        // The same file twice is a slip, not an instruction, whether it was
+        // chosen in an earlier go or sits twice in the folder chosen now.
+        // Folders of scans really do arrive that way.
+        const fingerprint = `${file.name}:${file.size}`;
+        if (already.has(fingerprint)) {
+          skipped++;
+          continue;
+        }
+        already.add(fingerprint);
+        items.push({ file, state: 'waiting' });
+      }
+      duplicatesSkipped += skipped;
+      drawPicked();
+      if (items.length) show('step-3');
+    }
+
+    /** Counted so the tally can say so rather than quietly losing files. */
+    let duplicatesSkipped = 0;
+
+    function drawPicked(): void {
+      const box = $('picked');
+      if (!box) return;
+      if (!items.length) {
+        box.textContent = '';
+        return;
+      }
+      const bytes = items.reduce((sum, item) => sum + item.file.size, 0);
+      box.innerHTML =
+        `<p class="hint"><strong>${items.length} file${items.length === 1 ? '' : 's'}</strong>, ` +
+        `${(bytes / 1e6).toFixed(1)} MB in total.` +
+        (duplicatesSkipped
+          ? ` ${duplicatesSkipped} duplicate${duplicatesSkipped === 1 ? '' : 's'} left out.`
+          : '') +
+        `</p>`;
+    }
+
+    // ── Step 3: the key ────────────────────────────────────────────────
+
+    const keyName = (provider: string) => `thothica-cms:key:${provider}`;
+    const provider = () => (($('provider') as HTMLSelectElement)?.value as Provider) ?? 'anthropic';
+
+    function drawModels(): void {
+      const select = $('model') as HTMLSelectElement | null;
+      const note = $('modelnote');
+      if (!select) return;
+      select.innerHTML = '';
+      for (const model of MODELS[provider()]) {
+        const option = document.createElement('option');
+        option.value = model.id;
+        option.textContent = model.label;
+        select.appendChild(option);
+      }
+      if (note) note.textContent = MODELS[provider()][0]?.note ?? '';
+      const box = $('key') as HTMLInputElement | null;
+      if (box) box.value = window.localStorage.getItem(keyName(provider())) ?? '';
+    }
+
+    // ── The queue ──────────────────────────────────────────────────────
+
+    function drawQueue(): void {
+      const list = $('queue');
+      if (!list) return;
+      list.replaceChildren();
+      for (const item of items) {
+        const row = document.createElement('li');
+        row.className = 'row';
+        const name = document.createElement('span');
+        name.className = 'name';
+        name.textContent = item.file.name;
+        const state = document.createElement('span');
+        state.className = 'state';
+        state.textContent = 'waiting';
+        row.append(name, state);
+        item.node = row;
+        item.stateNode = state;
+        list.appendChild(row);
+      }
+      drawTally();
+    }
+
+    const WORDS: Record<Item['state'], string> = {
+      waiting: 'waiting',
+      uploading: 'sending',
+      uploaded: 'on the server',
+      reading: 'reading',
+      shelved: 'on the shelf',
+      failed: 'needs a hand',
+    };
+
+    function paint(item: Item, extra = ''): void {
+      if (item.stateNode) item.stateNode.textContent = extra || WORDS[item.state];
+      if (item.node) {
+        item.node.classList.toggle('done', item.state === 'shelved');
+        item.node.classList.toggle('failed', item.state === 'failed');
+        const old = item.node.querySelector('.why');
+        if (old) old.remove();
+        if (item.why) {
+          const why = document.createElement('p');
+          why.className = 'why';
+          why.textContent = item.why;
+          item.node.appendChild(why);
+        }
+      }
+      drawTally();
+    }
+
+    function drawTally(): void {
+      const box = $('tally');
+      if (!box) return;
+      const count = (state: Item['state']) => items.filter((item) => item.state === state).length;
+      const shelved = count('shelved');
+      const failed = count('failed');
+      const left = items.length - shelved - failed;
+      box.innerHTML =
+        `<div><b>${shelved}</b>on the shelf</div>` +
+        `<div><b>${left}</b>to go</div>` +
+        (failed ? `<div><b>${failed}</b>need a hand</div>` : '');
+    }
+
+    /**
+     * Work through the queue.
+     *
+     * Sequential on purpose. Running four at once would be faster and would
+     * also make a rate-limited provider fail four documents instead of one,
+     * with no way to tell which. Slow and legible beats fast and confusing
+     * when somebody is watching a progress list.
+     */
+    async function run(read: boolean): Promise<void> {
+      if (running || !chosen || !me) return;
+      running = true;
+      stopping = false;
+      batchId = batchId || newBatchId();
+
+      show('step-4');
+      $('step-4')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      drawQueue();
+      $('stop')?.removeAttribute('hidden');
+      ($('start') as HTMLButtonElement).disabled = true;
+      ($('skip') as HTMLButtonElement).disabled = true;
+
+      const key = (($('key') as HTMLInputElement)?.value ?? '').trim();
+      const model = ($('model') as HTMLSelectElement)?.value ?? '';
+      if (read && key) window.localStorage.setItem(keyName(provider()), key);
+
+      // Fetched once. A token lasts an hour, which is longer than any batch a
+      // person will sit through.
+      const prompt = buildPrompt({ collection: chosen });
+
+      for (const item of items) {
+        if (stopping) break;
+        if (item.state === 'shelved') continue;
+
+        // ── Upload ────────────────────────────────────────────────────
+        if (!item.pdfUrl) {
+          item.state = 'uploading';
+          paint(item, 'sending');
+          const token = await me.getIdToken();
+          const done = await sendFile(item.file, kindOf(item.file), token, (pct) => {
+            paint(item, `sending ${pct}%`);
+          });
+          if (!done.ok) {
+            // A name clash is not a failure: the file is already in the
+            // archive, which is what we wanted.
+            if (done.clash) {
+              item.why = 'A file of this name was already on the server; using that one.';
+            } else {
+              item.state = 'failed';
+              item.why = done.error ?? 'The upload failed.';
+              paint(item);
+              continue;
+            }
+          }
+          item.pdfUrl = done.url ?? '';
+          item.state = 'uploaded';
+          paint(item);
+        }
+
+        // ── Read ──────────────────────────────────────────────────────
+        let data: Record<string, unknown> = {};
+        let body = '';
+        let error: string | null = null;
+
+        if (read && key && model) {
+          item.state = 'reading';
+          paint(item);
+          try {
+            const pdfBase64 =
+              item.file.type === 'application/pdf' ? await asBase64(item.file) : undefined;
+            const reply = await callModel({
+              provider: provider(),
+              apiKey: key,
+              model,
+              prompt,
+              pdfBase64,
+            });
+            const parsed = parseModelOutput(reply, chosen);
+            if (parsed.ok && parsed.data) {
+              data = stripDashes(parsed.data);
+              body = parsed.body ? stripDashes(parsed.body) : '';
+            } else {
+              error = parsed.problems[0] ?? 'The reply could not be read as an entry.';
+            }
+          } catch (thrown) {
+            error = (thrown as Error).message;
+          }
+        }
+
+        // ── Shelve ────────────────────────────────────────────────────
+        //
+        // Always. A document the model could not read still goes on the
+        // shelf, carrying its file and the reason, because the alternative
+        // is that the work quietly disappears.
+        const title = titleOf(data) || item.file.name.replace(/\.[a-z0-9]+$/i, '');
+        const slug = slugify(String(data.id || title));
+        if (!data.id) data.id = slug;
+        if (item.pdfUrl && !data.pdf_url) data.pdf_url = item.pdfUrl;
+
+        const draft: DraftInput = {
+          collection: chosen.id,
+          slug,
+          data,
+          body,
+          // Lowercased to match the rules, which compare against
+          // request.auth.token.email.lower(). An address with a capital
+          // letter in it would otherwise be refused its own draft.
+          author: (me.email ?? '').toLowerCase(),
+          status: 'needs_work',
+          missing: missingFrom(chosen, data),
+          batchId,
+          filename: item.file.name,
+          pdfUrl: item.pdfUrl ?? null,
+          error,
+        };
+
+        try {
+          await saveDraft(draftId(batchId, item.file.name), draft);
+          item.state = error ? 'failed' : 'shelved';
+          item.why = error ? `${error} The file is saved; fill it in by hand.` : item.why;
+          paint(item);
+        } catch (thrown) {
+          item.state = 'failed';
+          item.why = `Could not put it on the shelf: ${(thrown as Error).message}`;
+          paint(item);
+        }
+      }
+
+      running = false;
+      $('stop')?.setAttribute('hidden', '');
+      $('toshelf')?.removeAttribute('hidden');
+      const note = $('progress-note');
+      if (note) {
+        const shelved = items.filter((item) => item.state === 'shelved').length;
+        note.textContent = stopping
+          ? `Stopped. ${shelved} are on the shelf and will stay there.`
+          : `Finished. ${shelved} of ${items.length} are on the shelf, waiting for someone to check them.`;
+      }
+    }
+
+    /** The first title-ish string the model gave us, whatever shape it used. */
+    function titleOf(data: Record<string, unknown>): string {
+      const title = data.title as unknown;
+      if (typeof title === 'string') return title;
+      if (title && typeof title === 'object') {
+        const main = (title as Record<string, unknown>).main;
+        if (typeof main === 'string') return main;
+      }
+      const name = data.name as unknown;
+      if (name && typeof name === 'object') {
+        const canonical = (name as Record<string, unknown>).canonical;
+        if (typeof canonical === 'string') return canonical;
+      }
+      return typeof name === 'string' ? name : '';
+    }
+
+    /** Required fields with nothing in them, by their human label. */
+    function missingFrom(def: CollectionDef, data: Record<string, unknown>): string[] {
+      return def.fields
+        .filter((field) => field.required && field.name !== 'id')
+        .filter((field) => {
+          const value = field.name
+            .split('.')
+            .reduce<unknown>((at, part) => (at as Record<string, unknown>)?.[part], data);
+          return value === undefined || value === null || value === '';
+        })
+        .map((field) => field.label);
+    }
+
+    // ── Wiring ─────────────────────────────────────────────────────────
+
+    drawKinds();
+    drawModels();
+    $('provider')?.addEventListener('change', drawModels);
+    $('choose')?.addEventListener('click', () => ($('files') as HTMLInputElement)?.click());
+    $('files')?.addEventListener('change', (event) => {
+      addFiles((event.target as HTMLInputElement).files);
+    });
+
+    const drop = $('drop');
+    drop?.addEventListener('dragover', (event) => {
+      event.preventDefault();
+      drop.classList.add('over');
+    });
+    drop?.addEventListener('dragleave', () => drop.classList.remove('over'));
+    drop?.addEventListener('drop', (event) => {
+      event.preventDefault();
+      drop.classList.remove('over');
+      addFiles((event as DragEvent).dataTransfer?.files ?? null);
+    });
+
+    $('start')?.addEventListener('click', () => {
+      const key = (($('key') as HTMLInputElement)?.value ?? '').trim();
+      const out = $('startout');
+      if (!key) {
+        if (out) {
+          out.innerHTML =
+            '<p class="hint" style="color:var(--stop)">Put your key in, or choose ' +
+            '&ldquo;just upload and file them&rdquo; to skip the reading.</p>';
+        }
+        return;
+      }
+      if (out) out.textContent = '';
+      void run(true);
+    });
+    $('skip')?.addEventListener('click', () => void run(false));
+    $('stop')?.addEventListener('click', () => {
+      stopping = true;
+      const note = $('progress-note');
+      if (note) note.textContent = 'Stopping after the one in progress. Nothing already saved is lost.';
+    });
+
+    // Leaving mid-run costs the document in flight and nothing else, but
+    // saying so is better than letting somebody find out.
+    window.addEventListener('beforeunload', (event) => {
+      if (!running) return;
+      event.preventDefault();
+      event.returnValue = '';
+    });
+
+    watchUser(async (user) => {
+      if (!user) return;
+      const role = await roleFor(user);
+      if (!role) {
+        location.href = '/no-access';
+        return;
+      }
+      me = user;
+    });
+  </script>
+</Shell>

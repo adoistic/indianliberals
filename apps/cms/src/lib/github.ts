@@ -22,14 +22,70 @@ export interface GitHubEnv {
 
 let tokenCache: { token: string; expires: number } | null = null;
 
+/** DER length octets: short form below 128, long form above it. */
+function derLength(length: number): number[] {
+  if (length < 0x80) return [length];
+  const bytes: number[] = [];
+  let rest = length;
+  while (rest > 0) {
+    bytes.unshift(rest & 0xff);
+    rest >>= 8;
+  }
+  return [0x80 | bytes.length, ...bytes];
+}
+
+/**
+ * Wrap a PKCS#1 RSAPrivateKey in the PKCS#8 envelope.
+ *
+ * This is load-bearing. GitHub hands out App keys as PKCS#1, the format whose
+ * header reads "BEGIN RSA PRIVATE KEY", and WebCrypto's importKey only accepts
+ * PKCS#8. Node's crypto.sign takes either, which is why the setup scripts have
+ * always worked and why this went unnoticed: nothing that ran outside a Worker
+ * ever exercised it.
+ *
+ * The envelope is a SEQUENCE of three things: an INTEGER version of zero, the
+ * algorithm identifier for rsaEncryption, and the original key as an OCTET
+ * STRING.
+ */
+function pkcs1ToPkcs8(key: Uint8Array): Uint8Array<ArrayBuffer> {
+  // SEQUENCE { OID 1.2.840.113549.1.1.1 (rsaEncryption), NULL }
+  const algorithm = [
+    0x30, 0x0d, 0x06, 0x09, 0x2a, 0x86, 0x48, 0x86, 0xf7, 0x0d, 0x01, 0x01, 0x01, 0x05, 0x00,
+  ];
+  const version = [0x02, 0x01, 0x00];
+  const octet = [0x04, ...derLength(key.length)];
+  const inner = version.length + algorithm.length + octet.length + key.length;
+  const header = [0x30, ...derLength(inner)];
+
+  const out = new Uint8Array(new ArrayBuffer(header.length + inner));
+  out.set(header, 0);
+  let at = header.length;
+  out.set(version, at);
+  at += version.length;
+  out.set(algorithm, at);
+  at += algorithm.length;
+  out.set(octet, at);
+  at += octet.length;
+  out.set(key, at);
+  return out;
+}
+
+/**
+ * The private key as the bytes WebCrypto wants, whichever form it arrived in.
+ *
+ * Both are accepted because both are things a person can plausibly paste into
+ * a secret: PKCS#1 is what GitHub gives you, PKCS#8 is what you get if you have
+ * run the key through openssl at some point.
+ */
 function pemToPkcs8(pem: string): Uint8Array<ArrayBuffer> {
+  const isPkcs1 = /BEGIN RSA PRIVATE KEY/.test(pem);
   const body = pem
     .replace(/-----(BEGIN|END) (RSA )?PRIVATE KEY-----/g, '')
     .replace(/\s+/g, '');
   const binary = atob(body);
   const bytes = new Uint8Array(new ArrayBuffer(binary.length));
   for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
-  return bytes;
+  return isPkcs1 ? pkcs1ToPkcs8(bytes) : bytes;
 }
 
 const b64url = (bytes: Uint8Array | string) => {
@@ -162,6 +218,104 @@ export async function commitFile(env: GitHubEnv, request: CommitRequest) {
       author: { name: request.actor.name || request.actor.email, email: request.actor.email },
     }),
   });
+}
+
+export interface BatchFile {
+  path: string;
+  content: string;
+}
+
+/**
+ * Write many files as a single commit.
+ *
+ * The contents API used above writes one file per commit, which is right for a
+ * person correcting a publisher and wrong for someone approving fifty scanned
+ * pamphlets at once: fifty commits means fifty site builds, and the site takes
+ * about twenty-five minutes to build. This goes through the git data API
+ * instead: a blob per file, one tree, one commit, one move of the branch ref,
+ * so a batch of any size costs exactly one rebuild.
+ *
+ * It is also atomic in the way that matters. Everything is staged against the
+ * branch head we read at the start, and the only mutating step is the final ref
+ * update. If anything fails before then, nothing has moved; if the ref update
+ * itself fails because somebody committed while we worked, it fails cleanly
+ * rather than half-writing the batch.
+ */
+export async function commitFiles(
+  env: GitHubEnv,
+  files: BatchFile[],
+  summary: string,
+  actor: { email: string; name?: string },
+) {
+  if (!files.length) throw new Error('commitFiles was given nothing to commit');
+
+  const who = actor.name ? `${actor.name} <${actor.email}>` : actor.email;
+  const message = `${summary}\n\nEdited in Thothica CMS by ${who}.`;
+
+  // Where the branch is now. Everything below is built on this exact commit,
+  // so a concurrent push makes the final step fail instead of silently
+  // clobbering their work.
+  const ref = await api(
+    env,
+    repoPath(env, `git/ref/heads/${encodeURIComponent(env.GITHUB_BRANCH)}`),
+  );
+  const headSha = ref.object.sha as string;
+  const headCommit = await api(env, repoPath(env, `git/commits/${headSha}`));
+
+  // A blob per file, sent as base64 so a Marathi title survives the trip.
+  // Eight at a time: enough to be quick over fifty files, few enough that
+  // GitHub's secondary rate limit never sees a burst worth throttling.
+  const blobs: { path: string; sha: string }[] = [];
+  for (let i = 0; i < files.length; i += 8) {
+    const slice = await Promise.all(
+      files.slice(i, i + 8).map(async (file) => {
+        const bytes = new TextEncoder().encode(file.content);
+        let binary = '';
+        for (const byte of bytes) binary += String.fromCharCode(byte);
+        const blob = await api(env, repoPath(env, 'git/blobs'), {
+          method: 'POST',
+          body: JSON.stringify({ content: btoa(binary), encoding: 'base64' }),
+        });
+        return { path: file.path, sha: blob.sha as string };
+      }),
+    );
+    blobs.push(...slice);
+  }
+
+  const tree = await api(env, repoPath(env, 'git/trees'), {
+    method: 'POST',
+    body: JSON.stringify({
+      base_tree: headCommit.tree.sha,
+      tree: blobs.map((blob) => ({
+        path: blob.path,
+        mode: '100644',
+        type: 'blob',
+        sha: blob.sha,
+      })),
+    }),
+  });
+
+  const commit = await api(env, repoPath(env, 'git/commits'), {
+    method: 'POST',
+    body: JSON.stringify({
+      message,
+      tree: tree.sha,
+      parents: [headSha],
+      committer: { name: 'Thothica CMS', email: 'cms@thothica.com' },
+      author: { name: actor.name || actor.email, email: actor.email },
+    }),
+  });
+
+  await api(env, repoPath(env, `git/refs/heads/${encodeURIComponent(env.GITHUB_BRANCH)}`), {
+    method: 'PATCH',
+    body: JSON.stringify({ sha: commit.sha, force: false }),
+  });
+
+  return {
+    sha: commit.sha as string,
+    url: `https://github.com/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/commit/${commit.sha}`,
+    files: files.length,
+  };
 }
 
 export async function deleteFile(

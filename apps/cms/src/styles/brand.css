@@ -92,6 +92,8 @@ a { color: var(--brown); }
   cursor: pointer;
   transition: filter 0.15s, background 0.15s;
 }
+/* A link styled as a button should not also be underlined like a link. */
+a.btn { text-decoration: none; }
 .btn:disabled { opacity: 0.45; cursor: not-allowed; }
 .btn-primary { background: var(--brown); color: var(--cream); }
 .btn-primary:hover:not(:disabled) { filter: brightness(1.12); }
