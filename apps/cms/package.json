@@ -11,7 +11,8 @@
     "lint:dashes": "node scripts/lint-dashes.mjs",
     "check": "astro check",
     "test": "node scripts/test-yaml-quoting.mjs && node scripts/test-private-key.mjs",
-    "test:github": "node scripts/test-github-commit.mjs"
+    "test:github": "node scripts/test-github-commit.mjs",
+    "test:rules": "firebase emulators:exec --only firestore --project thothica-cms-rules-test \"node scripts/test-rules.mjs\""
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.6",

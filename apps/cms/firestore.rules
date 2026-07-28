@@ -39,6 +39,14 @@ service cloud.firestore {
       return isSuperAdmin() ? 'super_admin' : (hasRoleDoc() ? roleOf(email()) : null);
     }
 
+    // Signing in is not the same as belonging here. Anyone with a Google
+    // account can authenticate; only somebody an admin has added has a role
+    // document. The shelf holds unpublished work, so it is gated on the
+    // second, not the first.
+    function belongs() {
+      return signedIn() && (isSuperAdmin() || hasRoleDoc());
+    }
+
     function isAdmin() {
       return isSuperAdmin() || myRole() == 'admin';
     }
@@ -76,18 +84,18 @@ service cloud.firestore {
     // A contributor prepares work here; a sub-admin or admin publishes it,
     // which is the moment it becomes a commit. Drafts never reach the site.
     match /drafts/{draftId} {
-      allow read: if signedIn();
-      allow create: if signedIn() && request.resource.data.author == email();
-      allow update: if signedIn() && (resource.data.author == email() || canPublish());
-      allow delete: if signedIn() && (resource.data.author == email() || isAdmin());
+      allow read: if belongs();
+      allow create: if belongs() && request.resource.data.author == email();
+      allow update: if belongs() && (resource.data.author == email() || canPublish());
+      allow delete: if belongs() && (resource.data.author == email() || isAdmin());
     }
 
     // ── Activity log ─────────────────────────────────────────────────────
     // Append only, from the client, and readable by anyone signed in. Deleting
     // history would be the first thing a careless change costs us.
     match /activity/{entry} {
-      allow read: if signedIn();
-      allow create: if signedIn() && request.resource.data.actor == email();
+      allow read: if belongs();
+      allow create: if belongs() && request.resource.data.actor == email();
       allow update, delete: if false;
     }
 
