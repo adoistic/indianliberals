@@ -2,6 +2,11 @@
 
 Written 28 July 2026, against the v3 rebuild proposal of May 2026.
 
+> **Superseded by `../2026-07-28-final-report.md`**, written later the same day.
+> That document covers everything here and adds the draft shelf, the batch
+> intake, and the defects found while building them, including one that had
+> stopped the CMS committing anything at all since it went up.
+
 Three questions, in order: what the proposal committed us to, what actually
 exists today, and what we built that nobody asked for. Every figure below was
 read out of production or out of the repository on the day of writing, not

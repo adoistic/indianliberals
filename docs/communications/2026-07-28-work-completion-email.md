@@ -54,13 +54,22 @@ page rather than in a manual. Every save becomes a commit in the archive's
 history under the name of the person who made it, so nothing is anonymous and
 nothing is unrecoverable.
 
+There are two ways in besides the one-at-a-time form. Anything started can be
+put down and picked up later: it goes on a shelf that readers never see, with a
+note of what it still needs. And a whole folder of scans can go in at once. Each
+file is put on the archive server first, so nothing is ever lost if the reading
+fails; then they are read one after another and wait on the same shelf. When
+somebody has checked them, publishing the lot is one action.
+
 Adnan is set up as super admin. Adding the rest of your team is two minutes in
 the People screen — no code, no tickets to us.
 
 One expectation worth setting with your editors: a save is instant, but the
 site takes about half an hour to show it, because the whole archive rebuilds
 and Cloudflare runs those builds one at a time. Nothing is lost in the wait and
-nobody needs to sit watching the screen. The CMS says so on the page.
+nobody needs to sit watching the screen. The CMS says so on the page. This is
+also why a batch publishes as one action rather than fifty: fifty separate
+saves would queue builds into the following day.
 
 **Things we found and fixed along the way that were not in the brief.** The
 extraction pipeline had a misjoin that put the wrong headings against the wrong
@@ -104,5 +113,5 @@ adnan@thothica.com
 - The paper — https://indianliberals.in/eval/paper
 - The CMS — https://cms.indianliberals.in
 - The MCP server — https://mcp.indianliberals.in
-- `docs/handoffs/2026-07-28-scope-vs-delivery.md` — the full scope-versus-delivery breakdown
+- `docs/2026-07-28-final-report.md` — the full account of what was built against what was promised
 - `docs/FINALISATION-2026-07-26.md` — the corpus reconciliation audit
