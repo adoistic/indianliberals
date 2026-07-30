@@ -1,59 +1,59 @@
 ---
-id: "lokmanya-tilak-a-conservative-liberal"
+id: lokmanya-tilak-a-conservative-liberal
 title: "Lokmanya Tilak : A Conservative Liberal?"
-pubDate: "2023-10-11T22:15:37Z"
-themes:
-  - "liberalism"
-language: "en"
+pubDate: 2023-10-11T22:15:37Z
+themes: 
+- liberalism
+language: en
 needs_review: true
 draft: false
-author: "bal-gangadhar-tilak"
-hero_image: "/musings/covers/lokmanya-tilak-a-conservative-liberal.webp"
-thinker_mentions:
-  - thinker: gopal-krishna-gokhale
-    role: mention
-    reasoning: "Gokhale is contrasted with Tilak as the leader of moderate liberalism who believed in elite-led reform and constitutional means, serving as the foil to Tilak's mass-based approach."
-    evidence:
-      - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
-        context: names Gokhale as the central figure in the moderate liberal leadership
-      - quote: Gokhale firmly believed that the ordinary citizens of the country must not become a part of the struggle against the imperial state
-        context: "defines Gokhale's elitist approach as the foil to Tilak's mass mobilisation strategy"
-    key_passages: []
-  - thinker: dadabhai-naoroji
-    role: mention
-    reasoning: Dadabhai Naoroji is listed among the moderate liberal leaders of the late 19th century who formed the political context in which Tilak operated.
-    evidence:
-      - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
-        context: "situates Naoroji within the constellation of moderate liberals against whom Tilak's distinctiveness is measured"
-    key_passages: []
-  - thinker: pherozeshah-mehta
-    role: mention
-    reasoning: "Pherozeshah Mehta is named among the moderate liberal leadership of the late 19th century, part of the political context that shaped and constrained Tilak's reception."
-    evidence:
-      - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
-        context: lists Mehta as one of the English-educated moderate leaders whose approach Tilak challenged
-    key_passages: []
+hero_image: /musings/covers/lokmanya-tilak-a-conservative-liberal.webp
+thinker_mentions: 
+- thinker: gopal-krishna-gokhale
+  role: mention
+  reasoning: Gokhale is contrasted with Tilak as the leader of moderate liberalism who believed in elite-led reform and constitutional means, serving as the foil to Tilak's mass-based approach.
+  evidence: 
+  - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
+    context: names Gokhale as the central figure in the moderate liberal leadership
+  - quote: Gokhale firmly believed that the ordinary citizens of the country must not become a part of the struggle against the imperial state
+    context: defines Gokhale's elitist approach as the foil to Tilak's mass mobilisation strategy
+  key_passages: []
+- thinker: dadabhai-naoroji
+  role: mention
+  reasoning: Dadabhai Naoroji is listed among the moderate liberal leaders of the late 19th century who formed the political context in which Tilak operated.
+  evidence: 
+  - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
+    context: situates Naoroji within the constellation of moderate liberals against whom Tilak's distinctiveness is measured
+  key_passages: []
+- thinker: pherozeshah-mehta
+  role: mention
+  reasoning: Pherozeshah Mehta is named among the moderate liberal leadership of the late 19th century, part of the political context that shaped and constrained Tilak's reception.
+  evidence: 
+  - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
+    context: lists Mehta as one of the English-educated moderate leaders whose approach Tilak challenged
+  key_passages: []
 related_thinkers: 
-  - dadabhai-naoroji
-  - gopal-krishna-gokhale
-  - pherozeshah-mehta
-source_channel: "so-musings"
-proposed_themes:
-  - "historiography"
-  - "nationalism"
-key_concepts:
-  - "father-of-indian-unrest"
-  - "conservative-liberal"
-  - "ab-shah"
-  - "miscarriage-of-historical-scholarship"
+- dadabhai-naoroji
+- gopal-krishna-gokhale
+- pherozeshah-mehta
+source_channel: so-musings
+proposed_themes: 
+- historiography
+- nationalism
+key_concepts: 
+- father-of-indian-unrest
+- conservative-liberal
+- ab-shah
+- miscarriage-of-historical-scholarship
 pull_quote: He has often been interpreted and largely misinterpreted as a revolutionary, an extremist, and a nationalist leader who supported the use of violence.
 stance: profiles
 kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "maharashtra"
+  places: 
+  - maharashtra
+author: Avanti Lele
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._
@@ -90,7 +90,7 @@ Lokmanya Tilak is an amalgamation of a variety of political thoughts. A staunch 
 
 **Endnotes**
 
-[1] Shah, A. B. (1983). Tilak and secularism [Print]. In _Political Thought and Leadership of Lokmanya Tilak_ (pp. 201–220). Concept.
+[1] Shah, A. B. (1983). Tilak and secularism [Print]. In _Political Thought and Leadership of Lokmanya Tilak_ (pp. 201, 220). Concept.
 
 [2] See Arthur Crawford’s _Our Troubles in Poona and the Deccan_ (1897). Gayatri Pagdi refers to Crawford as ‘a man maddened by racism’ (2011).
 
@@ -108,7 +108,7 @@ Lokmanya Tilak is an amalgamation of a variety of political thoughts. A staunch 
 
 [9] Thomas More was an English judge, philosopher, bureaucrat and a humanist. He opposed King Henry VIII’s takeover of the church which in his view was a violation of secular principles. Along with many other dissidents, More was executed in 1535.
 
-**References **
+**References**
 
 Barrier, N. G. (1974). _Banned; Controversial Literature and Political control in British India, 1907-1947_. [Columbia] : University of Missouri Press.
 
@@ -118,17 +118,17 @@ Inamdar, N. R. (Ed.). (1982). _Political Thought and Leadership of Lokmanya Tila
 
 Kelkar, N. C. (Ed.). (1908). _Full and Authentic Report of the Tilak Trial_. Indu-Prakash Steam Press.
 
-Lyall, A. C. (1910). Introduction [Print]. In _Indian Unrest_ (pp. viii–xvi). Macmillan and Co. Limited.
+Lyall, A. C. (1910). Introduction [Print]. In _Indian Unrest_ (pp. viii, xvi). Macmillan and Co. Limited.
 
-Mukherjee, M. (2017). Sedition, Law, and the British Empire in India: The Trial of Tilak (1908). _Law, Culture and the Humanities_, _16_(3), 454–476. https://doi.org/10.1177/1743872116685034
+Mukherjee, M. (2017). Sedition, Law, and the British Empire in India: The Trial of Tilak (1908). _Law, Culture and the Humanities_, _16_(3), 454, 476. https://doi.org/10.1177/1743872116685034
 
 Pagdi, G. (2011). _Lokmanya Tilak: The First National Leader_ [Print]. Indus Source Books.
 
-Shah, A. B. (1983). Tilak and secularism [Print]. In _Political Thought and Leadership of Lokmanya Tilak_ (pp. 201–220). Concept.
+Shah, A. B. (1983). Tilak and secularism [Print]. In _Political Thought and Leadership of Lokmanya Tilak_ (pp. 201, 220). Concept.
 
 [_Previous musing: Gopal Ganesh Agarkar and the Vindication of Women’s Education_](https://indianliberals.in/content/gopal-ganesh-agarkar-and-the-vindication-of-womens-education/)
 
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
-Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
+is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
