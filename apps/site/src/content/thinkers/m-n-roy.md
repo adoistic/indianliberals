@@ -23,7 +23,7 @@ nationality: india
 themes: []
 affiliations: []
 bio_source: imported
-needs_review: true
+needs_review: false
 draft: false
 ai: 
   drafted_by: claude-sonnet-4.5
