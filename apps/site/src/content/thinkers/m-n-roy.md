@@ -13,7 +13,7 @@ name:
   - এম. এন. রায়
   - মানবেন্দ্র নাথ রায়
 tradition: non_liberal
-canon_status: referenced
+canon_status: unclassified
 featured: false
 portrait: 
   duotone: /thinkers/duotone/m-n-roy.webp
