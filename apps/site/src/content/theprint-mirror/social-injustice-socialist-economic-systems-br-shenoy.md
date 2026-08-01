@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/social-injustice-socialist-economic-systems-br-shenoy/2884958/) on 2026-07-25. Originally published 2026-03-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/social-injustice-socialist-economic-systems-br-shenoy/2884958/) on 2026-08-01. Originally published 2026-03-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Social injustice is inevitable under socialist economic systems: BR Shenoy
 

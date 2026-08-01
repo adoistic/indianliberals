@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/power-of-trade-unions-mh-mody/936385/) on 2026-07-25. Originally published 2026-02-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/power-of-trade-unions-mh-mody/936385/) on 2026-08-01. Originally published 2026-02-21. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # ट्रेड यूनियनों की शक्ति पर नियंत्रण के लिए कानूनी प्रावधान क्यों जरूरी हैं: एमएच मोदी
 

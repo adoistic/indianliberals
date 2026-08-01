@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/power-careerism-and-compromise-questioning-the-credibility-of-indian-economists/982091/) on 2026-07-25. Originally published 2026-06-06. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/power-careerism-and-compromise-questioning-the-credibility-of-indian-economists/982091/) on 2026-08-01. Originally published 2026-06-06. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # भारतीय अर्थशास्त्रियों का पतन उनकी अपनी ही देन है: एमआर पाई
 

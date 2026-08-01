@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/when-government-decides-welfare-g-jaychandaran/941501/) on 2026-07-25. Originally published 2026-03-07. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/when-government-decides-welfare-g-jaychandaran/941501/) on 2026-08-01. Originally published 2026-03-07. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # जब सरकार सबका कल्याण तय करती है, तब स्वतंत्रता और नागरिक भागीदारी कमजोर होती है—जी. जयचंद्रन
 

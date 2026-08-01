@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/communism-assumptions-gn-lawande/2878812/) on 2026-07-25. Originally published 2026-03-14. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/communism-assumptions-gn-lawande/2878812/) on 2026-08-01. Originally published 2026-03-14. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Communism is based on self-deluding assumptions, it can’t be realised in practice: GN Lawande
 

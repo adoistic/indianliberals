@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/state-controls-thought-freedom-ends-ma-venkata-rao/962773/) on 2026-07-25. Originally published 2026-04-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/state-controls-thought-freedom-ends-ma-venkata-rao/962773/) on 2026-08-01. Originally published 2026-04-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # जहां राज्य विचार नियंत्रित करता है, वहां स्वतंत्रता का अंत होता है — एमए. वेंकट राव
 

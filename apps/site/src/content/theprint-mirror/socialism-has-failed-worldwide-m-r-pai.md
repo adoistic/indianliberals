@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/socialism-has-failed-worldwide-m-r-pai/988460/) on 2026-07-25. Originally published 2026-06-20. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/socialism-has-failed-worldwide-m-r-pai/988460/) on 2026-08-01. Originally published 2026-06-20. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # समाजवाद दुनिया भर में नाकाम रहा, भारत में भी उसका भविष्य नहीं है: एमआर पाई
 
