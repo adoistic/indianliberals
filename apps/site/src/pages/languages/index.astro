@@ -9,7 +9,20 @@ import { ogSection } from "~/lib/og";
 import { getLanguageShelves } from "~/lib/languages";
 
 const shelves = await getLanguageShelves();
-const total = shelves.reduce((n, s) => n + s.items.length, 0);
+const total = shelves.reduce((n, s) => n + s.total, 0);
+
+// Built here rather than inline: adjacent JSX expressions get whitespace
+// between them, which put a space before the comma in "5 works , 24 columns".
+function summarise(s: (typeof shelves)[number]): string {
+  const parts: string[] = [];
+  // Periodical issues are works too. Counting only the standalone ones showed
+  // Marathi as 25 when it holds 78, and left Gujarati blank, its whole shelf
+  // being one magazine run.
+  const works = s.workCount + s.issueCount;
+  if (works > 0) parts.push(`${works} ${works === 1 ? "work" : "works"}`);
+  if (s.columns.length > 0) parts.push(`${s.columns.length} ThePrint columns`);
+  return parts.join(", ") + (s.yearRange ? ` · ${s.yearRange}` : "");
+}
 ---
 
 <BaseLayout
@@ -22,7 +35,7 @@ const total = shelves.reduce((n, s) => n + s.items.length, 0);
   ]}
   ogImage={ogSection("primary-works")}
   title="Languages · Indian Liberals"
-  description={`${total} works in the Indian languages: ${shelves.map((s) => s.english).join(", ")}.`}
+  description={`${total} items in the Indian languages: ${shelves.map((s) => s.english).join(", ")}.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -35,7 +48,7 @@ const total = shelves.reduce((n, s) => n + s.items.length, 0);
         collected here by the language they were published in.
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
-        {total} works across {shelves.length} languages
+        {total} items across {shelves.length} languages
       </p>
     </div>
   </section>
@@ -48,14 +61,14 @@ const total = shelves.reduce((n, s) => n + s.items.length, 0);
             href={`/languages/${s.code}/`}
             class="flex h-full flex-col p-6 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-md transition-all group"
           >
-            <span class="font-(family-name:--font-display) text-3xl text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-none">
+            <span
+              lang={s.code}
+              class="font-(family-name:--font-display) text-3xl text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-none"
+            >
               {s.native}
             </span>
             <span class="mt-2 text-sm font-semibold text-(--color-fg)">{s.english}</span>
-            <span class="mt-1 text-xs text-(--color-fg-muted)">
-              {s.items.length} {s.items.length === 1 ? "work" : "works"}
-              {s.yearRange && ` · ${s.yearRange}`}
-            </span>
+            <span class="mt-1 text-xs text-(--color-fg-muted)">{summarise(s)}</span>
           </a>
         </li>
       ))}

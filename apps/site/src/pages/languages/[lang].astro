@@ -1,11 +1,17 @@
 ---
-// One language's shelf: every work published in it, oldest first.
+// One language's shelf.
+//
+// This deliberately mirrors the treatment on /primary-works/: a cover-led 3:4
+// grid grouped by decade, with the byline, year and work type under each card.
+// The first version listed titles as plain text rows, which threw away the
+// covers and PDFs these works already have and made 78 Marathi items read as
+// an undifferentiated list.
 
 import type { GetStaticPaths } from "astro";
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
-import { getLanguageShelves, type LanguageShelf } from "~/lib/languages";
+import { getLanguageShelves, prettyType, type LanguageShelf } from "~/lib/languages";
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const shelves = await getLanguageShelves();
@@ -17,6 +23,17 @@ interface Props {
 }
 
 const { shelf } = Astro.props as Props;
+const summaryParts: string[] = [];
+if (shelf.issueCount > 0) {
+  summaryParts.push(
+    `${shelf.issueCount} periodical issues across ${shelf.runs.length} ${shelf.runs.length === 1 ? "run" : "runs"}`,
+  );
+}
+for (const t of shelf.workTypes.slice(0, 3)) {
+  summaryParts.push(`${t.count} ${prettyType(t.type)}${t.count === 1 ? "" : "s"}`);
+}
+if (shelf.columns.length > 0) summaryParts.push(`${shelf.columns.length} ThePrint columns`);
+const summary = summaryParts.join(", ");
 ---
 
 <BaseLayout
@@ -30,7 +47,7 @@ const { shelf } = Astro.props as Props;
   ]}
   ogImage={ogSection("primary-works")}
   title={`${shelf.english} · Languages · Indian Liberals`}
-  description={`${shelf.items.length} works published in ${shelf.english}${shelf.yearRange ? `, ${shelf.yearRange}` : ""}.`}
+  description={`${shelf.total} items published in ${shelf.english}${shelf.yearRange ? `, ${shelf.yearRange}` : ""}.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -41,39 +58,160 @@ const { shelf } = Astro.props as Props;
         <span lang={shelf.code}>{shelf.native}</span>
       </h1>
       <p class="text-(--color-fg-muted) font-(family-name:--font-ui)">
-        {shelf.english} &middot; {shelf.items.length}
-        {shelf.items.length === 1 ? " work" : " works"}
-        {shelf.yearRange && ` · ${shelf.yearRange}`}
+        {shelf.english}
+        {shelf.yearRange && <> &middot; {shelf.yearRange}</>}
       </p>
+      {summary && (
+        <p class="text-(--color-fg-muted) text-sm mt-3 font-(family-name:--font-ui)">{summary}</p>
+      )}
     </div>
   </section>
 
-  <div class="mx-auto max-w-6xl px-6 py-12">
-    <ul class="space-y-3 font-(family-name:--font-ui)">
-      {shelf.items.map((w) => (
-        <li>
-          <a
-            href={`/primary-works/${w.id}/`}
-            class="flex gap-4 p-4 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
-          >
-            <div class="min-w-0 flex-1">
-              <h2
-                class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug"
+  {/* Periodical runs first. 53 of the 78 Marathi items are issues of one
+      magazine, all carrying the same title, so listing them individually gave
+      53 identical cards. The run links to /periodicals/ where the issues are
+      already indexed one by one. */}
+  {shelf.runs.length > 0 && (
+    <div class="mx-auto max-w-6xl px-6 pt-12">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6">
+        {shelf.runs.length === 1 ? "Periodical run" : "Periodical runs"}
+      </h2>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 font-(family-name:--font-ui)">
+        {shelf.runs.map((r) => (
+          <li>
+            <a
+              href={r.href}
+              class="flex gap-4 h-full p-4 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-md transition-all group"
+            >
+              <div class="shrink-0 w-16 aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted)">
+                {r.cover && (
+                  <img
+                    src={r.cover}
+                    alt=""
+                    width="120"
+                    height="160"
+                    loading="lazy"
+                    decoding="async"
+                    class="w-full h-full object-cover object-top"
+                  />
+                )}
+              </div>
+              <div class="min-w-0">
+                <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight">
+                  {r.native ? <span lang={shelf.code}>{r.native}</span> : r.name}
+                </h3>
+                {r.native && <p class="text-xs text-(--color-fg-muted) mt-0.5">{r.name}</p>}
+                <p class="text-xs text-(--color-fg-muted) mt-1.5">
+                  {r.issueCount} {r.issueCount === 1 ? "issue" : "issues"}
+                  {r.yearRange && ` · ${r.yearRange}`}
+                </p>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {shelf.decades.length > 0 && (
+    <div class="mx-auto max-w-6xl px-6 py-12">
+      {shelf.runs.length > 0 && (
+        <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6">
+          Books, essays and pamphlets
+        </h2>
+      )}
+      {shelf.decades.map((d) => (
+        <section class="mb-14">
+          <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-6 sticky top-[4.75rem] bg-(--color-bg) py-2 z-10 border-b border-(--color-border)">
+            {d.label}
+          </h2>
+          <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-8 font-(family-name:--font-ui)">
+            {d.works.map((w) => (
+              <li>
+                <a href={w.href} class="group block no-underline h-full">
+                  <div class="aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) transition-shadow group-hover:shadow-md relative">
+                    {w.cover ? (
+                      <img
+                        src={w.cover}
+                        alt=""
+                        width="240"
+                        height="320"
+                        loading="lazy"
+                        decoding="async"
+                        class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300"
+                      />
+                    ) : (
+                      <div class="w-full h-full flex flex-col items-center justify-center gap-2 px-3 text-center">
+                        <span aria-hidden="true" class="font-(family-name:--font-display) text-3xl text-(--color-saffron-700)/60 leading-none" lang={shelf.code}>
+                          {w.title.replace(/^(the|a|an) /i, "").charAt(0)}
+                        </span>
+                        <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted)">
+                          {prettyType(w.workType)}
+                        </span>
+                      </div>
+                    )}
+                  </div>
+                  <h3
+                    class="mt-2.5 text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-2"
+                    lang={shelf.code}
+                  >
+                    {w.title}
+                  </h3>
+                  {(w.romanised || w.translation) && (
+                    <p class="mt-0.5 text-xs text-(--color-fg-muted) leading-snug line-clamp-1">
+                      {w.romanised ?? w.translation}
+                    </p>
+                  )}
+                  <p class="mt-1 text-xs text-(--color-fg-muted) leading-snug">
+                    {w.byline && <span class="line-clamp-1">{w.byline}</span>}
+                    <span>
+                      {w.year && <>{w.year} &middot; </>}
+                      <span class="uppercase tracking-wider">{prettyType(w.workType)}</span>
+                    </span>
+                  </p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+  )}
+
+  {/* The Hindi ThePrint column. A separate collection, and without this the
+      only body of vernacular writing being added to the site every week would
+      have no doorway of its own. */}
+  {shelf.columns.length > 0 && (
+    <div class="mx-auto max-w-6xl px-6 pb-16">
+      <h2 class="text-(--color-fg) font-(family-name:--font-display) mb-2">
+        From ThePrint
+      </h2>
+      <p class="text-(--color-fg-muted) text-sm mb-6 font-(family-name:--font-ui) max-w-prose">
+        The &ldquo;Indian Liberals Matter&rdquo; column, published in {shelf.english} and
+        mirrored here each week.
+      </p>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 font-(family-name:--font-ui)">
+        {shelf.columns.map((c) => (
+          <li>
+            <a
+              href={c.href}
+              class="flex h-full flex-col p-4 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+            >
+              <h3
+                class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-3"
                 lang={shelf.code}
               >
-                {w.data.title.main}
-              </h2>
-              {w.data.title.translation && (
-                <p class="text-sm text-(--color-fg-muted) mt-0.5">{w.data.title.translation}</p>
-              )}
-              <p class="text-xs text-(--color-fg-muted) mt-1.5">
-                {w.data.publication?.year ?? "Undated"}
-                {w.data.publication?.publisher_name && ` · ${w.data.publication.publisher_name}`}
+                {c.title}
+              </h3>
+              <p class="mt-2 text-xs text-(--color-fg-muted)">
+                {c.author && <span lang={shelf.code}>{c.author}</span>}
+                {c.author && " · "}
+                {c.year}
               </p>
-            </div>
-          </a>
-        </li>
-      ))}
-    </ul>
-  </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 </BaseLayout>

@@ -37,9 +37,9 @@ const seriesWorkCount = works.filter((w) => w.data.publication?.series_id).lengt
 // Works published in an Indian language. `publication.language` is the language
 // of the work; the entry's own `language` describes the page and defaults to
 // English, so counting that one would report 22 Marathi works instead of 78.
-const nonEnglishWorkCount = works.filter(
-  (w) => w.data.publication?.language && w.data.publication.language !== "en",
-).length;
+const nonEnglishWorkCount =
+  works.filter((w) => w.data.publication?.language && w.data.publication.language !== "en")
+    .length + theprint.filter((p) => p.data.language && p.data.language !== "en").length;
 
 type NavItem = { label: string; href: string; desc: string; count: number };
 type NavGroup = { id: string; label: string; items: NavItem[] };
@@ -82,7 +82,7 @@ const groups: NavGroup[] = [
       {
         label: "Languages",
         href: "/languages/",
-        desc: "Marathi, Gujarati, Hindi, and Bengali works",
+        desc: "Marathi, Gujarati, Hindi, and Bengali writing",
         count: nonEnglishWorkCount,
       },
     ],
