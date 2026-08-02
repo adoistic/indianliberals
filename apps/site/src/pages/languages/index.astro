@@ -1,0 +1,64 @@
+---
+// Languages: the archive by the language its works were published in.
+// CCS round-3 feedback, 3.5. See lib/languages.ts for why this reads the
+// corpus rather than naming three languages.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+import { getLanguageShelves } from "~/lib/languages";
+
+const shelves = await getLanguageShelves();
+const total = shelves.reduce((n, s) => n + s.items.length, 0);
+---
+
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/languages/", name: "Languages" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Languages", "/languages/"],
+    ]),
+  ]}
+  ogImage={ogSection("primary-works")}
+  title="Languages · Indian Liberals"
+  description={`${total} works in the Indian languages: ${shelves.map((s) => s.english).join(", ")}.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <h1 class="text-(--color-fg) mb-4">Languages</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Most of this archive argues in English, because that is the language its
+        authors chose for a national audience. Not all of it. The Marathi
+        farmers&rsquo; movement, the Gujarati commercial press and the Bengali
+        social reformers wrote for readers closer to home, and those works are
+        collected here by the language they were published in.
+      </p>
+      <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
+        {total} works across {shelves.length} languages
+      </p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-5 font-(family-name:--font-ui)">
+      {shelves.map((s) => (
+        <li>
+          <a
+            href={`/languages/${s.code}/`}
+            class="flex h-full flex-col p-6 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-md transition-all group"
+          >
+            <span class="font-(family-name:--font-display) text-3xl text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-none">
+              {s.native}
+            </span>
+            <span class="mt-2 text-sm font-semibold text-(--color-fg)">{s.english}</span>
+            <span class="mt-1 text-xs text-(--color-fg-muted)">
+              {s.items.length} {s.items.length === 1 ? "work" : "works"}
+              {s.yearRange && ` · ${s.yearRange}`}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

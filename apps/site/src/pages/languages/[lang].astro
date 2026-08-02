@@ -1,0 +1,79 @@
+---
+// One language's shelf: every work published in it, oldest first.
+
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+import { getLanguageShelves, type LanguageShelf } from "~/lib/languages";
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const shelves = await getLanguageShelves();
+  return shelves.map((shelf) => ({ params: { lang: shelf.code }, props: { shelf } }));
+};
+
+interface Props {
+  shelf: LanguageShelf;
+}
+
+const { shelf } = Astro.props as Props;
+---
+
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: `/languages/${shelf.code}/`, name: shelf.english }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Languages", "/languages/"],
+      [shelf.english, `/languages/${shelf.code}/`],
+    ]),
+  ]}
+  ogImage={ogSection("primary-works")}
+  title={`${shelf.english} · Languages · Indian Liberals`}
+  description={`${shelf.items.length} works published in ${shelf.english}${shelf.yearRange ? `, ${shelf.yearRange}` : ""}.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-sm text-(--color-fg-muted) font-(family-name:--font-ui) mb-3">
+        <a href="/languages/" class="hover:text-(--color-fg)">Languages</a>
+      </p>
+      <h1 class="text-(--color-fg) mb-2">
+        <span lang={shelf.code}>{shelf.native}</span>
+      </h1>
+      <p class="text-(--color-fg-muted) font-(family-name:--font-ui)">
+        {shelf.english} &middot; {shelf.items.length}
+        {shelf.items.length === 1 ? " work" : " works"}
+        {shelf.yearRange && ` · ${shelf.yearRange}`}
+      </p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="space-y-3 font-(family-name:--font-ui)">
+      {shelf.items.map((w) => (
+        <li>
+          <a
+            href={`/primary-works/${w.id}/`}
+            class="flex gap-4 p-4 bg-(--color-bg) border border-(--color-border) rounded-lg no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+          >
+            <div class="min-w-0 flex-1">
+              <h2
+                class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug"
+                lang={shelf.code}
+              >
+                {w.data.title.main}
+              </h2>
+              {w.data.title.translation && (
+                <p class="text-sm text-(--color-fg-muted) mt-0.5">{w.data.title.translation}</p>
+              )}
+              <p class="text-xs text-(--color-fg-muted) mt-1.5">
+                {w.data.publication?.year ?? "Undated"}
+                {w.data.publication?.publisher_name && ` · ${w.data.publication.publisher_name}`}
+              </p>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

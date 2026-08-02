@@ -1,0 +1,119 @@
+---
+// Events.
+//
+// CCS asked for the annual lecture and the essay competition to come out of
+// Opinions and live somewhere of their own (round-3 feedback, 7.3). Opinions
+// is argument; these are announcements and write-ups of things that happened,
+// and mixing them meant the newest "opinion" was often a call for entries.
+//
+// The selector is `kind: event-coverage`, which the four qualifying entries
+// already carried, so nothing had to be re-tagged: the annual lecture, the
+// essay contest, its results, and the Vaad Vivad on decentralisation.
+//
+// Their detail pages deliberately stay at /opinions/<slug>/. Those URLs are
+// already public, linked, indexed, and covered by the legacy redirect map from
+// the WordPress site. Moving them would break all of that to gain nothing a
+// reader would notice. What changes is where they are listed.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+import { getCollection } from "astro:content";
+import { inlineMd } from "~/lib/inline-md";
+import { imageSize } from "~/lib/image-size";
+import { EVENT_KIND } from "~/lib/events";
+
+const events = (
+  await getCollection(
+    "opinions",
+    (o) => !o.data.draft && o.data.language === "en" && o.data.kind === EVENT_KIND,
+  )
+).sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
+
+const years = events.map((e) => new Date(e.data.pubDate).getFullYear());
+const span = years.length
+  ? Math.min(...years) === Math.max(...years)
+    ? `${years[0]}`
+    : `${Math.min(...years)} to ${Math.max(...years)}`
+  : "";
+---
+
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/events/", name: "Events" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Events", "/events/"],
+    ]),
+  ]}
+  ogImage={ogSection("opinions")}
+  title="Events · Indian Liberals"
+  description="Lectures, essay competitions and public debates held by the Indian Liberals archive and the Centre for Civil Society."
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <h1 class="text-(--color-fg) mb-4">Events</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        The annual lecture, the essay competitions and the public debates run
+        around this archive. Announcements, results, and what was said.
+      </p>
+      {events.length > 0 && (
+        <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
+          {events.length} {events.length === 1 ? "event" : "events"}{span && `, ${span}`}
+        </p>
+      )}
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    {events.length === 0 ? (
+      <p class="text-(--color-fg-muted) font-(family-name:--font-ui) py-12 text-center">
+        Nothing here yet.
+      </p>
+    ) : (
+      <ul class="grid gap-x-6 gap-y-10 sm:grid-cols-2">
+        {events.map((e, idx) => {
+          const lead = idx === 0;
+          const dim = e.data.hero_image ? imageSize(e.data.hero_image) : null;
+          return (
+            <li class={lead ? "sm:col-span-2" : ""}>
+              <a href={`/opinions/${e.id}/`} class="block no-underline group h-full">
+                {e.data.hero_image && (
+                  <div class="overflow-hidden rounded-sm border border-(--color-border) bg-(--color-bg-muted) mb-4 transition-shadow group-hover:shadow-md">
+                    <img
+                      src={e.data.hero_image}
+                      alt=""
+                      width={dim?.width ?? (lead ? 1024 : 640)}
+                      height={dim?.height ?? (lead ? 488 : 400)}
+                      loading={lead ? "eager" : "lazy"}
+                      decoding="async"
+                      class={`w-full h-auto object-cover object-top group-hover:scale-[1.02] transition-transform duration-300 ${lead ? "max-h-[26rem]" : "max-h-[30rem]"}`}
+                    />
+                  </div>
+                )}
+                <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
+                  {new Date(e.data.pubDate).toLocaleDateString("en-IN", {
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric",
+                  })}
+                </p>
+                <h2
+                  class={`font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug ${lead ? "text-2xl md:text-3xl max-w-2xl" : "text-xl"}`}
+                >
+                  {e.data.title}
+                </h2>
+                {e.data.pull_quote && (
+                  <p
+                    class="text-sm text-(--color-fg-muted) italic mt-2 line-clamp-2"
+                    set:html={`&ldquo;${inlineMd(e.data.pull_quote)}&rdquo;`}
+                  />
+                )}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    )}
+  </div>
+</BaseLayout>

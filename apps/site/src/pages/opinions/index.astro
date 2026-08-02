@@ -1,13 +1,42 @@
 ---
+// Opinions index.
+//
+// On the featured images (CCS round-3 feedback, 7.2). The complaint is right:
+// they were displaying badly. The stated cause is not. The old site used a 3:4
+// portrait canvas, but the covers themselves are not portrait. All 59 were
+// recovered from the Wayback Machine and they measure:
+//
+//   landscape 1.15 to 1.6 : 24      square : 8
+//   wide, over 1.6        : 20      portrait, under 0.9 : 7
+//
+// from 192x306 (0.63) to 1024x329 (3.11). Putting that set behind a 3:4 box
+// would crop the 44 landscape and wide covers far harder than the 21:10 and
+// 16:10 boxes it replaced, so it would have made the thing CCS is looking at
+// worse rather than better.
+//
+// The fault was never which ratio. It was that one fixed ratio plus
+// object-cover cannot serve a set that ranges over five times in shape. So no
+// cover is forced into a box any more: each keeps its own proportions, with
+// its true pixel size on the tag so nothing shifts while the page loads.
+
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { inlineMd } from "~/lib/inline-md";
+import { imageSize } from "~/lib/image-size";
+import { EVENT_KIND } from "~/lib/events";
 
-const opinions = (await getCollection("opinions", (o) => !o.data.draft && o.data.language === "en")).sort(
-  (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
-);
+// Events live at /events/ now, not here (CCS round-3 feedback, 7.3): the
+// annual lecture, the essay contest and its results, the Vaad Vivad debate.
+// Their pages are still at /opinions/<slug>/, which is why this filters the
+// listing rather than the collection.
+const opinions = (
+  await getCollection(
+    "opinions",
+    (o) => !o.data.draft && o.data.language === "en" && o.data.kind !== EVENT_KIND,
+  )
+).sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate));
 
 // Facet vocabularies for the filter chips.
 const themeCounts = new Map<string, number>();
@@ -74,15 +103,42 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
       "
       aria-label="Filter opinions"
     >
-      <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
-        <button id="o-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
-          Reset
-        </button>
+      {/* Sort, and filters behind a disclosure on small screens (CCS round-3
+          feedback, 11). On a phone the facet chips ran to several screens of
+          scrolling before the first article, which is why the page felt
+          unusable there. The <details> is open in the markup, so a reader
+          without JavaScript sees exactly what they saw before; the script
+          closes it below the md breakpoint and the summary is hidden above it. */}
+      <div class="mb-4 md:mb-5">
+        <label for="o-sort" class="block text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-1.5">
+          Sort
+        </label>
+        <select
+          id="o-sort"
+          class="w-full rounded-md border border-(--color-border) bg-(--color-bg) px-3 py-2 text-sm text-(--color-fg) font-(family-name:--font-ui)"
+        >
+          <option value="newest">Newest to oldest</option>
+          <option value="oldest">Oldest to newest</option>
+        </select>
       </div>
-      <p class="text-xs text-(--color-fg-muted) mb-5">
-        Showing <strong id="o-counter-visible" class="text-(--color-fg)">{opinions.length}</strong> of <strong>{opinions.length}</strong>
-      </p>
+
+      <details id="o-filters" open>
+        <summary class="o-summary md:hidden cursor-pointer list-none flex items-center justify-between rounded-md border border-(--color-border) bg-(--color-bg) px-3 py-2 mb-4">
+          <span class="text-sm text-(--color-fg)">
+            Filter <span id="o-active-count" class="text-(--color-fg-muted)"></span>
+          </span>
+          <span aria-hidden="true" class="o-caret text-(--color-fg-muted) transition-transform">&#9662;</span>
+        </summary>
+
+        <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
+          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+          <button id="o-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+            Reset
+          </button>
+        </div>
+        <p class="text-xs text-(--color-fg-muted) mb-5">
+          Showing <strong id="o-counter-visible" class="text-(--color-fg)">{opinions.length}</strong> of <strong>{opinions.length}</strong>
+        </p>
 
       <div class="mb-5">
         <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Decade</h3>
@@ -176,6 +232,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           </ul>
         </details>
       )}
+      </details>
     </aside>
 
     {/* Listing column — image-led magazine grid (restored from the legacy
@@ -198,6 +255,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           return (
             <li
               class={`o-item ${lead ? "sm:col-span-2" : ""}`}
+              data-date={o.data.pubDate}
               data-decade={String(dec)}
               data-themes={(o.data.themes ?? []).join(" ")}
               data-kind={o.data.kind ?? ""}
@@ -205,26 +263,36 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
               data-key-concepts={(o.data.key_concepts ?? []).join(" ")}
             >
               <a href={`/opinions/${o.id}/`} class="block no-underline group h-full">
-                {o.data.hero_image && (
-                  <div
-                    class={`${lead ? "aspect-[21/10]" : "aspect-[16/10]"} overflow-hidden rounded-sm border border-(--color-border) bg-(--color-bg-muted) mb-4 transition-shadow group-hover:shadow-md`}
-                  >
-                    <img
-                      src={o.data.hero_image}
-                      alt=""
-                      width={lead ? "1024" : "640"}
-                      height={lead ? "488" : "400"}
-                      loading={lead ? "eager" : "lazy"}
-                      decoding="async"
-                      class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300"
-                    />
-                  </div>
-                )}
+                {o.data.hero_image && (() => {
+                  // Each cover keeps its own shape. See the note at the top of
+                  // this file: these images are not one canvas, and a single
+                  // aspect box was cropping most of them. The real width and
+                  // height go on the tag so the browser reserves the right
+                  // space and nothing reflows as the page loads. The max
+                  // heights are a guard for the few very tall covers, not a
+                  // crop applied to everything: an image shorter than the cap
+                  // is never cut at all.
+                  const dim = imageSize(o.data.hero_image);
+                  return (
+                    <div class="overflow-hidden rounded-sm border border-(--color-border) bg-(--color-bg-muted) mb-4 transition-shadow group-hover:shadow-md">
+                      <img
+                        src={o.data.hero_image}
+                        alt=""
+                        width={dim?.width ?? (lead ? 1024 : 640)}
+                        height={dim?.height ?? (lead ? 488 : 400)}
+                        loading={lead ? "eager" : "lazy"}
+                        decoding="async"
+                        class={`w-full h-auto object-cover object-top group-hover:scale-[1.02] transition-transform duration-300 ${lead ? "max-h-[26rem]" : "max-h-[30rem]"}`}
+                      />
+                    </div>
+                  );
+                })()}
                 <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
                   {new Date(o.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
                   {byline && (<><span> · </span>{byline}</>)}
                 </p>
                 <h2
+                  data-o-title
                   class={`font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug ${lead ? "text-2xl md:text-3xl max-w-2xl" : "text-xl"}`}
                 >
                   {o.data.title}
@@ -246,6 +314,17 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
     </div>
   </div>
 
+  <style>
+    /* The filter disclosure is a phone affordance only. Above md the summary
+       is gone and the panel is always open, so the sidebar behaves exactly as
+       it did. */
+    #o-filters > summary::-webkit-details-marker { display: none; }
+    #o-filters[open] > .o-summary .o-caret { transform: rotate(180deg); }
+    @media (min-width: 768px) {
+      #o-filters > .o-summary { display: none; }
+    }
+  </style>
+
   <script is:inline>
     (function () {
       const state = {
@@ -256,6 +335,50 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         keyConcept: new Set(),
       };
       const items = Array.from(document.querySelectorAll('.o-item'));
+      const listEl = document.getElementById('o-list');
+      const sortEl = document.getElementById('o-sort');
+      const filtersEl = document.getElementById('o-filters');
+      const activeCountEl = document.getElementById('o-active-count');
+      const LEAD_H2 = ['text-2xl', 'md:text-3xl', 'max-w-2xl'];
+
+      // Collapse the filters on a phone. Open in the markup so that without
+      // JavaScript nothing is hidden; only narrow viewports get the collapse.
+      const narrow = window.matchMedia('(max-width: 767px)');
+      function syncDisclosure(e) {
+        if (filtersEl) filtersEl.open = !(e || narrow).matches;
+      }
+      syncDisclosure();
+      narrow.addEventListener('change', syncDisclosure);
+
+      /* The lead treatment belongs to whatever is first, not to whichever
+         article was newest when the page was built. Re-apply it after any
+         sort or filter so the top of the list always reads as the lead. */
+      function applyLead() {
+        let first = true;
+        for (const li of items) {
+          const isLead = first && li.style.display !== 'none';
+          if (isLead) first = false;
+          li.classList.toggle('sm:col-span-2', isLead);
+          const h2 = li.querySelector('[data-o-title]');
+          if (!h2) continue;
+          h2.classList.toggle('text-xl', !isLead);
+          LEAD_H2.forEach((c) => h2.classList.toggle(c, isLead));
+        }
+      }
+
+      function applySort() {
+        if (!listEl || !sortEl) return;
+        const dir = sortEl.value === 'oldest' ? 1 : -1;
+        items
+          .slice()
+          .sort((a, b) => dir * (Date.parse(a.dataset.date || '') - Date.parse(b.dataset.date || '')))
+          .forEach((li) => listEl.appendChild(li));
+        // `items` keeps build order; re-read so applyLead walks the DOM order.
+        items.length = 0;
+        items.push.apply(items, Array.from(listEl.querySelectorAll('.o-item')));
+        applyLead();
+      }
+      if (sortEl) sortEl.addEventListener('change', applySort);
       const totalEl = document.getElementById('o-counter-visible');
       const resetBtn = document.getElementById('o-reset');
       const emptyEl = document.getElementById('o-empty');
@@ -291,10 +414,12 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         }
         if (totalEl) totalEl.textContent = String(visible);
         if (emptyEl) emptyEl.classList.toggle('hidden', visible !== 0);
-        if (resetBtn) {
-          const anyActive = Object.values(state).some((s) => s.size > 0);
-          resetBtn.classList.toggle('hidden', !anyActive);
-        }
+        const chosen = Object.values(state).reduce((n, s) => n + s.size, 0);
+        if (resetBtn) resetBtn.classList.toggle('hidden', chosen === 0);
+        // With the panel shut on a phone, the summary is the only place a
+        // reader can see that a filter is on at all.
+        if (activeCountEl) activeCountEl.textContent = chosen ? `(${chosen})` : '';
+        applyLead();
         syncURL();
       }
 

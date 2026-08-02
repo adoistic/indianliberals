@@ -74,15 +74,40 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
       "
       aria-label="Filter musings"
     >
-      <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
-        <button id="m-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
-          Reset
-        </button>
+      {/* Sort, and filters behind a disclosure on small screens (CCS round-3
+          feedback, 11). The <details> is open in the markup, so a reader
+          without JavaScript sees what they saw before; the script closes it
+          below the md breakpoint and the summary is hidden above it. */}
+      <div class="mb-4 md:mb-5">
+        <label for="m-sort" class="block text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-1.5">
+          Sort
+        </label>
+        <select
+          id="m-sort"
+          class="w-full rounded-md border border-(--color-border) bg-(--color-bg) px-3 py-2 text-sm text-(--color-fg) font-(family-name:--font-ui)"
+        >
+          <option value="newest">Newest to oldest</option>
+          <option value="oldest">Oldest to newest</option>
+        </select>
       </div>
-      <p class="text-xs text-(--color-fg-muted) mb-5">
-        Showing <strong id="m-counter-visible" class="text-(--color-fg)">{musings.length}</strong> of <strong>{musings.length}</strong>
-      </p>
+
+      <details id="m-filters" open>
+        <summary class="m-summary md:hidden cursor-pointer list-none flex items-center justify-between rounded-md border border-(--color-border) bg-(--color-bg) px-3 py-2 mb-4">
+          <span class="text-sm text-(--color-fg)">
+            Filter <span id="m-active-count" class="text-(--color-fg-muted)"></span>
+          </span>
+          <span aria-hidden="true" class="m-caret text-(--color-fg-muted) transition-transform">&#9662;</span>
+        </summary>
+
+        <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
+          <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+          <button id="m-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+            Reset
+          </button>
+        </div>
+        <p class="text-xs text-(--color-fg-muted) mb-5">
+          Showing <strong id="m-counter-visible" class="text-(--color-fg)">{musings.length}</strong> of <strong>{musings.length}</strong>
+        </p>
 
       <div class="mb-5">
         <h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">Decade</h3>
@@ -176,6 +201,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           </ul>
         </details>
       )}
+      </details>
     </aside>
 
     {/* Listing column — image-led magazine grid (restored from the legacy
@@ -191,6 +217,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           return (
             <li
               class={`m-item ${lead ? "sm:col-span-2" : ""}`}
+              data-date={m.data.pubDate}
               data-decade={String(dec)}
               data-themes={(m.data.themes ?? []).join(" ")}
               data-kind={m.data.kind ?? ""}
@@ -214,7 +241,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
                 <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui) mb-1">
                   {new Date(m.data.pubDate).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}
                 </p>
-                <h2 class={`font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug ${lead ? "text-2xl md:text-3xl max-w-2xl" : "text-xl"}`}>
+                <h2 data-m-title class={`font-(family-name:--font-display) text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug ${lead ? "text-2xl md:text-3xl max-w-2xl" : "text-xl"}`}>
                   {m.data.title}
                 </h2>
                 {m.data.pull_quote && (
@@ -234,6 +261,16 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
     </div>
   </div>
 
+  <style>
+    /* The filter disclosure is a phone affordance only. Above md the summary
+       is gone and the panel is always open. */
+    #m-filters > summary::-webkit-details-marker { display: none; }
+    #m-filters[open] > .m-summary .m-caret { transform: rotate(180deg); }
+    @media (min-width: 768px) {
+      #m-filters > .m-summary { display: none; }
+    }
+  </style>
+
   <script is:inline>
     (function () {
       const state = {
@@ -244,6 +281,48 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         keyConcept: new Set(),
       };
       const items = Array.from(document.querySelectorAll('.m-item'));
+      const listEl = document.getElementById('m-list');
+      const sortEl = document.getElementById('m-sort');
+      const filtersEl = document.getElementById('m-filters');
+      const activeCountEl = document.getElementById('m-active-count');
+      const LEAD_H2 = ['text-2xl', 'md:text-3xl', 'max-w-2xl'];
+
+      // Collapse the filters on a phone. Open in the markup so that without
+      // JavaScript nothing is hidden; only narrow viewports get the collapse.
+      const narrow = window.matchMedia('(max-width: 767px)');
+      function syncDisclosure(e) {
+        if (filtersEl) filtersEl.open = !(e || narrow).matches;
+      }
+      syncDisclosure();
+      narrow.addEventListener('change', syncDisclosure);
+
+      /* The lead treatment belongs to whatever is first, not to whichever
+         musing was newest when the page was built. */
+      function applyLead() {
+        let first = true;
+        for (const li of items) {
+          const isLead = first && li.style.display !== 'none';
+          if (isLead) first = false;
+          li.classList.toggle('sm:col-span-2', isLead);
+          const h2 = li.querySelector('[data-m-title]');
+          if (!h2) continue;
+          h2.classList.toggle('text-xl', !isLead);
+          LEAD_H2.forEach((c) => h2.classList.toggle(c, isLead));
+        }
+      }
+
+      function applySort() {
+        if (!listEl || !sortEl) return;
+        const dir = sortEl.value === 'oldest' ? 1 : -1;
+        items
+          .slice()
+          .sort((a, b) => dir * (Date.parse(a.dataset.date || '') - Date.parse(b.dataset.date || '')))
+          .forEach((li) => listEl.appendChild(li));
+        items.length = 0;
+        items.push.apply(items, Array.from(listEl.querySelectorAll('.m-item')));
+        applyLead();
+      }
+      if (sortEl) sortEl.addEventListener('change', applySort);
       const totalEl = document.getElementById('m-counter-visible');
       const resetBtn = document.getElementById('m-reset');
       const emptyEl = document.getElementById('m-empty');
@@ -279,10 +358,12 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         }
         if (totalEl) totalEl.textContent = String(visible);
         if (emptyEl) emptyEl.classList.toggle('hidden', visible !== 0);
-        if (resetBtn) {
-          const anyActive = Object.values(state).some((s) => s.size > 0);
-          resetBtn.classList.toggle('hidden', !anyActive);
-        }
+        const chosen = Object.values(state).reduce((n, s) => n + s.size, 0);
+        if (resetBtn) resetBtn.classList.toggle('hidden', chosen === 0);
+        // With the panel shut on a phone, the summary is the only place a
+        // reader can see that a filter is on at all.
+        if (activeCountEl) activeCountEl.textContent = chosen ? `(${chosen})` : '';
+        applyLead();
         syncURL();
       }
 
