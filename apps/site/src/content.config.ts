@@ -188,6 +188,8 @@ const organisations = defineCollection({
     // "our" liberal organisations. CCS round-2 feedback #13/#14 — hide, not
     // delete.
     hide_from_index: z.boolean().default(false),
+    /** Why it is hidden, so the next person does not have to guess. */
+    hide_reason: z.string().optional(),
   }),
 });
 
@@ -488,6 +490,17 @@ const primaryWorks = defineCollection({
     ...i18nFields,
     needs_review: z.boolean().default(true),
     draft: z.boolean().default(false),
+    // Keep the work in the archive and its page resolving, but take it out of
+    // every listing and every count. Same principle as `hide_from_index` on
+    // organisations: hide, not delete.
+    //
+    // Set on the six works whose source PDF was never digitised, three of
+    // which carry a summary written from a different document. The page stays
+    // reachable so nothing already linked breaks, but it withholds the body
+    // and is noindexed while the flag is set. See
+    // docs/missing-pdfs-and-bad-summaries.md. Clear the flag once CCS supplies
+    // the scan and the entry has been re-extracted from it.
+    hide_from_index: z.boolean().default(false),
   }),
 });
 

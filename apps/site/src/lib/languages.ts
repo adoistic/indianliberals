@@ -28,6 +28,7 @@ import { getCollection } from "astro:content";
 import { LANG_NAMES, pathForEntry, type LangCode } from "./i18n";
 import { resolveAuthorEntries } from "./resolve-author-entries";
 import { seriesFor, SERIES_META, issueYear } from "./periodicals";
+import { isListed } from "./listable";
 
 export interface LanguageWork {
   id: string;
@@ -92,7 +93,7 @@ function rangeOf(years: number[]): string {
 }
 
 export async function getLanguageShelves(): Promise<LanguageShelf[]> {
-  const works = await getCollection("primary-works", (w) => !w.data.draft);
+  const works = await getCollection("primary-works", isListed);
   const columns = await getCollection("theprint-mirror", (p) => !p.data.draft);
 
   const worksByLang = new Map<LangCode, typeof works>();

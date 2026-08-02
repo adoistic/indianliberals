@@ -1,13 +1,14 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { isListed } from "~/lib/listable";
 
 export const GET: APIRoute = async () => {
   const thinkers = await getCollection("thinkers", (t) => !t.data.draft);
-  const works = await getCollection("primary-works", (w) => !w.data.draft);
+  const works = await getCollection("primary-works", isListed);
   const musings = await getCollection("musings", (m) => !m.data.draft);
   const opinions = await getCollection("opinions", (o) => !o.data.draft);
   // Interviews are now folded into primary-works with work_type='interview'.
-  const interviews = (await getCollection("primary-works", (w) => !w.data.draft)).filter(
+  const interviews = (await getCollection("primary-works", isListed)).filter(
     (w) => w.data.work_type === "interview",
   );
   const orgs = await getCollection("organisations", (o) => !o.data.draft);

@@ -31,7 +31,7 @@ paragraph_ids: []
 manifestations: []
 language: "mr"
 translation_status: "original"
-needs_review: false
+needs_review: true
 draft: false
 pdf_staging_path: "PDFs-by-publisher/marathi/banken-lutal-shetkanyala-anant-umrikar.pdf"
 needs_extraction: false
@@ -48,6 +48,8 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+hide_from_index: true
+hide_reason: "No source PDF; the summary on file describes a different document or was inferred from the title. See docs/missing-pdfs-and-bad-summaries.md. Clear once CCS supplies the scan."
 ---
 
 ## Summary

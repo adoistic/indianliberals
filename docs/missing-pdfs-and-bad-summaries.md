@@ -135,11 +135,34 @@ false positive: it is genuinely a combined November 2005 to February 2006 issue.
 So the summary problem is confined to the PDF-less works, plus one duplicate
 record. By these tests the other 1,547 are clean.
 
-## 5. What to do
+## 5. Status: all six are hidden as of 2 August 2026
 
-1. **Ask CCS for the six scans.** Nothing else recovers them.
-2. **Replace the four summaries that read as descriptions of the work.** Three
-   describe a different document and one is a guess presented as fact. An
-   honest "not yet digitised" note is better than either.
-3. **Set `needs_review: true`** on `doan-pavlant-bali-patalat-by-anant-umrikar`.
-4. Check the `"The New Class"` pair for duplication.
+Hidden rather than rewritten, so the record on file is preserved exactly as it
+is for whoever reviews it, and nothing was invented to replace it.
+
+Each of the six carries `hide_from_index: true`, `needs_review: true`, and a
+`hide_reason` naming this document. That means:
+
+- gone from every listing and every count: the language shelves, primary works,
+  the periodical runs, the home page figures, the navigation, thinker and
+  organisation pages, and the agent-facing manifests
+- gone from site search, and marked `noindex`
+- the page still resolves, so nothing already linked or indexed breaks
+- the page shows a short "not yet digitised" note instead of the summary, and
+  the untrusted text is not in the HTML at all, including the meta description,
+  the social cards and the structured-data abstract
+
+Counts moved by exactly six: 1,575 works to 1,569, Marathi 78 to 75, Gujarati
+24 to 21.
+
+**To restore one:** delete its `hide_from_index` and `hide_reason` lines. That
+is the whole operation.
+
+## 6. Still open
+
+1. **Ask CCS for the six scans.** Nothing else recovers them, and the entries
+   stay hidden until the source exists.
+2. **Re-extract each summary from its scan** when it arrives. Three of the six
+   currently hold a description of a different document; that text should not
+   be trusted even as a starting point.
+3. Check the `"The New Class"` pair for duplication.

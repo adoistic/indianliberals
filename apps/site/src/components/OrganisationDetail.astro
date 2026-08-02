@@ -51,6 +51,7 @@ import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
 import OrgMark from "~/components/OrgMark.astro";
 import { orgMentions } from "~/lib/org-mentions";
+import { isListed } from "~/lib/listable";
 
 interface Props {
   entry: CollectionEntry<"organisations">;
@@ -83,7 +84,7 @@ const datesStr =
 // (the localised detail page); English ones link to /primary-works/<slug>/.
 const allWorks = await getCollection(
   "primary-works",
-  (w) => !w.data.draft,
+  isListed,
 );
 // A work belongs on this page when the org published/issued it OR authored/
 // edited it (party manifestos, institutional pamphlets — authors[] can

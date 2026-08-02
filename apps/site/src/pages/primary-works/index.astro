@@ -9,6 +9,7 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
+import { isListed } from "~/lib/listable";
 import { LANG_NAMES, pathForEntry, type LangCode } from "~/lib/i18n";
 import { getPeriodicalSeries } from "~/lib/periodicals";
 import { getSeries, countAll } from "~/lib/series";
@@ -24,7 +25,7 @@ import { getSeries, countAll } from "~/lib/series";
 const allWorks = await getCollection(
   "primary-works",
   (w) =>
-    !w.data.draft &&
+    isListed(w) &&
     w.data.work_type !== "interview" &&
     w.data.work_type !== "lecture" &&
     w.data.work_type !== "periodical_issue",

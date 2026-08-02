@@ -17,8 +17,9 @@
 import Search from "~/components/Search.astro";
 import { getCollection } from "astro:content";
 import { EVENT_KIND } from "~/lib/events";
+import { isListed } from "~/lib/listable";
 
-const works = await getCollection("primary-works", (w) => !w.data.draft);
+const works = await getCollection("primary-works", isListed);
 const thinkers = await getCollection(
   "thinkers",
   (t) => !t.data.draft && t.data.language === "en",

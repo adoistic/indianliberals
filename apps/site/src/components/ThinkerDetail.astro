@@ -43,6 +43,7 @@ import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
+import { isListed } from "~/lib/listable";
 
 interface Props {
   entry: CollectionEntry<"thinkers">;
@@ -69,7 +70,7 @@ const [allTheprint, allOpinions, allMusings, allWorks] = await Promise.all([
   getCollection("theprint-mirror", (e) => !e.data.draft),
   getCollection("opinions", (e) => !e.data.draft),
   getCollection("musings", (e) => !e.data.draft),
-  getCollection("primary-works", (e) => !e.data.draft && e.data.language === DEFAULT_LOCALE),
+  getCollection("primary-works", (e) => isListed(e) && e.data.language === DEFAULT_LOCALE),
 ]);
 // Interviews are now stored as primary-works with work_type='interview'.
 // The interviewee (formerly `subject`) is migrated into `authors[0]`.

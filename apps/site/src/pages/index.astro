@@ -11,6 +11,7 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { getPeriodicalSeries } from "~/lib/periodicals";
+import { isListed } from "~/lib/listable";
 
 const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 
@@ -35,7 +36,7 @@ const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.dr
 // from the content. Thinker count covers the liberal tradition itself
 // (canon core + extended), not the referenced/unclassified figures who
 // appear in the corpus only through citation.
-const allWorks = await getCollection("primary-works", (w) => !w.data.draft);
+const allWorks = await getCollection("primary-works", isListed);
 const allMusings = await getCollection("musings", (m) => !m.data.draft);
 const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
 const interviewCount = allWorks.filter((w) => w.data.work_type === "interview").length;

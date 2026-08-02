@@ -95,6 +95,12 @@ const themesPretty = (fm.themes ?? []).map((t) => t.replace(/-/g, " "));
 // step writes those fields INTO the markdown body, so the existing <Content/>
 // render handles them. We branch here to avoid double-rendering for PDFs.
 // `lecture` shares the interview shape (diarized transcript + frontmatter summary).
+// A work flagged hide_from_index has no trustworthy source behind it: its PDF
+// was never digitised, and in three cases the summary on file was written from
+// a different document. The page still resolves so nothing already linked
+// breaks, but it says that rather than showing the text.
+// See docs/missing-pdfs-and-bad-summaries.md.
+const withheld = fm.hide_from_index === true;
 const isInterview = fm.work_type === "interview" || fm.work_type === "lecture";
 const interviewSummary = isInterview ? (fm.summary ?? "").trim() : "";
 const interviewKeyPoints = isInterview ? (fm.key_points ?? []) : [];
@@ -134,9 +140,14 @@ const mentionPullQuotes = (fm.thinker_mentions ?? []).flatMap((mn: any) => {
 });
 const pullQuotes = [...structuredPullQuotes, ...mentionPullQuotes];
 
-const descriptionForMeta = fm.summary
-  ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
-  : fm.title.main;
+// A withheld work must not leak the untrusted summary through the meta
+// description, the social cards or the JSON-LD abstract, which is where it was
+// still showing after the body was removed.
+const descriptionForMeta = withheld
+  ? `${fm.title.main}: a catalogue record. The source document has not been digitised.`
+  : fm.summary
+    ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
+    : fm.title.main;
 
 // Slug lists for the PeopleInPiece chip section.
 const authorSlugs = authorEntries
@@ -166,11 +177,18 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
   description={descriptionForMeta}
   lang={fm.language}
   hreflang={hreflang}
-  noindex={shouldNoindex(fm.translation_status)}
+  noindex={shouldNoindex(fm.translation_status) || withheld}
   ogImage={ogWork(entry.id, Boolean(fm.cover_image))}
   ogType={["book", "edited_volume", "reference"].includes(fm.work_type) ? "book" : "article"}
   schema={[
-    workNode(entry, authorEntries, Astro.url.pathname),
+    // Withheld works get no structured abstract, for the same reason.
+    workNode(
+      withheld
+        ? ({ ...entry, data: { ...entry.data, summary: undefined, ai_summary: undefined } } as typeof entry)
+        : entry,
+      authorEntries,
+      Astro.url.pathname,
+    ),
     breadcrumbNode([
       ["Home", "/"],
       ["Primary works", "/primary-works/"],
@@ -363,11 +381,25 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
           Transcript
         </h2>
       )}
+      {withheld && (
+        <div class="mb-10 rounded-lg border border-(--color-border) bg-(--color-bg-muted) p-5 font-(family-name:--font-ui)">
+          <p class="text-sm font-semibold text-(--color-fg) mb-1">Not yet digitised</p>
+          <p class="text-sm text-(--color-fg-muted) leading-relaxed">
+            The archive holds a catalogue record for this work but not the
+            document itself, so there is nothing here to read yet and the
+            description previously shown could not be relied on. The entry is
+            kept so the reference survives. It will be restored once the source
+            has been scanned.
+          </p>
+        </div>
+      )}
+      {!withheld && (
       <div class="prose-container mb-10">
         <div class="text-(--color-fg) leading-relaxed [&_>_h1]:hidden [&_p]:my-4 [&_p]:text-[1.0625rem] [&_h2]:text-xs [&_h2]:uppercase [&_h2]:tracking-widest [&_h2]:text-(--color-fg-muted) [&_h2]:font-(family-name:--font-ui) [&_h2]:font-semibold [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_ul_li]:my-2 [&_ul_li]:text-[1.0625rem] [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_em]:italic">
           <Content />
         </div>
       </div>
+      )}
 
       {/* Pull quotes */}
       {pullQuotes.length > 0 && (

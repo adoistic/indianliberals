@@ -1,9 +1,10 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { isListed } from "~/lib/listable";
 
 export const GET: APIRoute = async () => {
   const thinkers = await getCollection("thinkers", (t) => !t.data.draft);
-  const works = await getCollection("primary-works", (w) => !w.data.draft);
+  const works = await getCollection("primary-works", isListed);
 
   const lines: string[] = [
     "# Indian Liberals",

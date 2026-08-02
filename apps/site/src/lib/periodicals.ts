@@ -11,6 +11,7 @@
 // fields (CCS round-2 feedback #8: prefer an explicit field over slug regex).
 
 import { getCollection } from "astro:content";
+import { isListed } from "./listable";
 import type { CollectionEntry } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
 
@@ -158,7 +159,7 @@ function coverOf(items: Issue[]): string | null {
 export async function getPeriodicalSeries(): Promise<SeriesGroup[]> {
   const issues = await getCollection(
     "primary-works",
-    (w) => !w.data.draft && w.data.work_type === "periodical_issue",
+    (w) => isListed(w) && w.data.work_type === "periodical_issue",
   );
   const bySeries = new Map<string, Issue[]>();
   for (const w of issues) {

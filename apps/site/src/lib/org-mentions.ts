@@ -15,6 +15,7 @@
 
 import { getCollection } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
+import { isListed } from "./listable";
 
 export interface OrgMention {
   kind: "thinker" | "opinion" | "musing" | "work";
@@ -91,7 +92,7 @@ async function buildIndex(): Promise<Map<string, OrgMention[]>> {
       mention: { kind: "musing", id: m.id, title: m.data.title, href: `/musings/${m.id}/` },
     });
   }
-  for (const w of await getCollection("primary-works", (e) => !e.data.draft && en(e))) {
+  for (const w of await getCollection("primary-works", (e) => isListed(e) && en(e))) {
     sources.push({
       text: w.body ?? "",
       mention: {

@@ -49,6 +49,8 @@ authors_resolution:
   stubs_created: []
   stubs_referenced: []
   collisions_logged: []
+hide_from_index: true
+hide_reason: "No source PDF; the summary on file describes a different document or was inferred from the title. See docs/missing-pdfs-and-bad-summaries.md. Clear once CCS supplies the scan."
 ---
 
 ## Summary

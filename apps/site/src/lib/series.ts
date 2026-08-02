@@ -15,6 +15,7 @@
 import { getCollection, getEntry } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
+import { isListed } from "./listable";
 
 export type SeriesEntry = CollectionEntry<"series">;
 export type Item = CollectionEntry<"primary-works">;
@@ -151,7 +152,7 @@ export function countAll(g: SeriesGroup): number {
 export async function getSeries(): Promise<SeriesGroup[]> {
   const [entries, works] = await Promise.all([
     getCollection("series", (s) => !s.data.draft),
-    getCollection("primary-works", (w) => !w.data.draft),
+    getCollection("primary-works", isListed),
   ]);
 
   const byseries = new Map<string, Item[]>();
