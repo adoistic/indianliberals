@@ -18,7 +18,10 @@ featured: false
 portrait: 
   duotone: /thinkers/duotone/m-n-roy.webp
   photo: /thinkers/photos/m-n-roy-wiki.jpg
-vocations: "[philosopher, writer, activist]"
+vocations: 
+- philosopher
+- writer
+- activist
 nationality: india
 themes: []
 affiliations: []
