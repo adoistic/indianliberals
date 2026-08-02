@@ -10,7 +10,7 @@
     "deploy": "npm run build && wrangler pages deploy dist --project-name thothica-cms --branch main",
     "lint:dashes": "node scripts/lint-dashes.mjs",
     "check": "astro check",
-    "test": "node scripts/test-yaml-quoting.mjs && node scripts/test-private-key.mjs",
+    "test": "node scripts/test-yaml-quoting.mjs && node scripts/test-yaml-flow.mjs && node scripts/test-private-key.mjs",
     "test:github": "node scripts/test-github-commit.mjs",
     "test:rules": "firebase emulators:exec --only firestore --project thothica-cms-rules-test \"node scripts/test-rules.mjs\""
   },
@@ -29,5 +29,8 @@
     "@types/react-dom": "^19.2.1",
     "typescript": "^5.9.3",
     "wrangler": "^4.42.0"
+  },
+  "engines": {
+    "node": ">=22.18"
   }
 }

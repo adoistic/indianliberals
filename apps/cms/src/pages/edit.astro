@@ -135,6 +135,10 @@ import Shell from '../layouts/Shell.astro';
     import { collectionById, type CollectionDef, type Field } from '../lib/collections';
     import { GROUPS } from '../lib/groups';
     import { toMarkdownFile } from '../lib/ingest';
+    // The scalar reader lives in its own module so it can be tested. It was
+    // untestable inside this file, and a flow sequence it misread stopped the
+    // site's deploys for six days before anyone saw it.
+    import { scalar } from '../lib/yaml-scalar';
     import type { User } from 'firebase/auth';
 
     // ── A small YAML reader ────────────────────────────────────────────
@@ -162,38 +166,6 @@ import Shell from '../layouts/Shell.astro';
           blank: indent < 0,
         };
       });
-    }
-
-    function scalar(input: string): unknown {
-      const s = input.trim();
-      if (s === '' || s === '~' || /^null$/i.test(s)) return null;
-      if (/^true$/i.test(s)) return true;
-      if (/^false$/i.test(s)) return false;
-      if (s === '[]') return [];
-      if (s === '{}') return {};
-      if (s.length > 1 && s.startsWith('"') && s.endsWith('"')) {
-        try {
-          return JSON.parse(s) as string;
-        } catch {
-          return s.slice(1, -1);
-        }
-      }
-      if (s.length > 1 && s.startsWith("'") && s.endsWith("'")) {
-        return s.slice(1, -1).replace(/''/g, "'");
-      }
-      if (s.startsWith('[') || s.startsWith('{')) {
-        try {
-          return JSON.parse(s) as unknown;
-        } catch {
-          return s;
-        }
-      }
-      // A leading zero means somebody meant the characters, not the number.
-      if (/^-?\d+$/.test(s) && !/^-?0\d/.test(s) && Math.abs(Number(s)) <= Number.MAX_SAFE_INTEGER) {
-        return Number(s);
-      }
-      if (/^-?\d*\.\d+$/.test(s)) return Number(s);
-      return s;
     }
 
     /** A block written with | or >, dedented back to its own left edge. */
