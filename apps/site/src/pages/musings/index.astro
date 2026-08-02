@@ -74,10 +74,13 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
       "
       aria-label="Filter musings"
     >
-      {/* Sort, and filters behind a disclosure on small screens (CCS round-3
-          feedback, 11). The <details> is open in the markup, so a reader
-          without JavaScript sees what they saw before; the script closes it
-          below the md breakpoint and the summary is hidden above it. */}
+      {/* Sort, and filters behind a toggle on small screens (CCS round-3
+          feedback, 11). On a phone the facet chips ran to several screens of
+          scrolling before the first musing, which is why the page felt
+          unusable there. The panel ships expanded, so a reader without
+          JavaScript loses nothing, and the rule that can hide it exists only
+          below md: the desktop sidebar cannot be collapsed by any state the
+          script gets into. */}
       <div class="mb-4 md:mb-5">
         <label for="m-sort" class="block text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-1.5">
           Sort
@@ -91,14 +94,20 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         </select>
       </div>
 
-      <details id="m-filters" open>
-        <summary class="m-summary md:hidden cursor-pointer list-none flex items-center justify-between rounded-md border border-(--color-border) bg-(--color-bg) px-3 py-2 mb-4">
-          <span class="text-sm text-(--color-fg)">
-            Filter <span id="m-active-count" class="text-(--color-fg-muted)"></span>
-          </span>
-          <span aria-hidden="true" class="m-caret text-(--color-fg-muted) transition-transform">&#9662;</span>
-        </summary>
+      <button
+        type="button"
+        id="m-filter-toggle"
+        aria-expanded="true"
+        aria-controls="m-filter-panel"
+        class="md:hidden w-full flex items-center justify-between rounded-md border border-(--color-border) bg-(--color-bg) px-3 py-2 mb-4"
+      >
+        <span class="text-sm text-(--color-fg)">
+          Filter <span id="m-active-count" class="text-(--color-fg-muted)"></span>
+        </span>
+        <span aria-hidden="true" class="m-caret text-(--color-fg-muted) transition-transform">&#9662;</span>
+      </button>
 
+      <div id="m-filter-panel">
         <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
           <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
           <button id="m-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
@@ -201,7 +210,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           </ul>
         </details>
       )}
-      </details>
+      </div>
     </aside>
 
     {/* Listing column — image-led magazine grid (restored from the legacy
@@ -264,11 +273,15 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
   <style>
     /* The filter disclosure is a phone affordance only. Above md the summary
        is gone and the panel is always open. */
-    #m-filters > summary::-webkit-details-marker { display: none; }
-    #m-filters[open] > .m-summary .m-caret { transform: rotate(180deg); }
-    @media (min-width: 768px) {
-      #m-filters > .m-summary { display: none; }
+    /* The collapse rule exists only below md. Above it there is no rule that
+       can hide the panel, so the desktop sidebar cannot be broken by whatever
+       state the script ends up in: a first attempt used <details> and relied on
+       a script to re-open it, and a browser resized narrow and back left the
+       filters closed with their summary hidden, which is unreachable. */
+    @media (max-width: 767px) {
+      #m-filter-panel[data-collapsed="true"] { display: none; }
     }
+    #m-filter-toggle[aria-expanded="true"] .m-caret { transform: rotate(180deg); }
   </style>
 
   <script is:inline>
@@ -283,18 +296,27 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
       const items = Array.from(document.querySelectorAll('.m-item'));
       const listEl = document.getElementById('m-list');
       const sortEl = document.getElementById('m-sort');
-      const filtersEl = document.getElementById('m-filters');
+      const panelEl = document.getElementById('m-filter-panel');
+      const toggleEl = document.getElementById('m-filter-toggle');
       const activeCountEl = document.getElementById('m-active-count');
       const LEAD_H2 = ['text-2xl', 'md:text-3xl', 'max-w-2xl'];
 
       // Collapse the filters on a phone. Open in the markup so that without
       // JavaScript nothing is hidden; only narrow viewports get the collapse.
       const narrow = window.matchMedia('(max-width: 767px)');
-      function syncDisclosure(e) {
-        if (filtersEl) filtersEl.open = !(e || narrow).matches;
+      function setCollapsed(collapsed) {
+        if (!panelEl || !toggleEl) return;
+        if (collapsed) panelEl.setAttribute('data-collapsed', 'true');
+        else panelEl.removeAttribute('data-collapsed');
+        toggleEl.setAttribute('aria-expanded', String(!collapsed));
       }
-      syncDisclosure();
-      narrow.addEventListener('change', syncDisclosure);
+      setCollapsed(narrow.matches);
+      narrow.addEventListener('change', (e) => setCollapsed(e.matches));
+      if (toggleEl) {
+        toggleEl.addEventListener('click', () =>
+          setCollapsed(!panelEl.hasAttribute('data-collapsed')),
+        );
+      }
 
       /* The lead treatment belongs to whatever is first, not to whichever
          musing was newest when the page was built. */
