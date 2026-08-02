@@ -30,7 +30,8 @@ So:
 The entry is repaired and your edits to it are intact. The CMS is fixed as well,
 which matters more, since 448 files could have hit the same fault on any save.
 There is now a check on every change that fails visibly, so a broken file cannot
-stop publishing quietly.
+stop publishing quietly. That was the actual gap: six days instead of ten
+minutes because nothing was watching.
 
 # The numbers
 
