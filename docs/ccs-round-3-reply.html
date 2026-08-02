@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Indian Liberals: round-3 feedback</title>
+  <style>
+
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">body {
+font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+font-size: 15px;
+line-height: 1.62;
+color: #1a1a1a;
+max-width: 720px;
+margin: 0 auto;
+padding: 32px 24px 64px;
+background: #ffffff;
+}
+h1 {
+font-size: 20px;
+font-weight: 700;
+margin: 34px 0 12px;
+padding-bottom: 7px;
+border-bottom: 2px solid #c8622a;
+color: #111111;
+}
+h2 {
+font-size: 16px;
+font-weight: 700;
+margin: 26px 0 8px;
+color: #1f4d3a;
+}
+p { margin: 0 0 13px; }
+ul, ol { margin: 0 0 13px; padding-left: 22px; }
+li { margin-bottom: 6px; }
+strong { font-weight: 700; color: #111111; }
+code {
+font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+font-size: 13px;
+background: #f3f1ec;
+padding: 1px 4px;
+border-radius: 3px;
+}
+table {
+border-collapse: collapse;
+width: 100%;
+margin: 6px 0 18px;
+font-size: 14px;
+}
+th, td {
+border: 1px solid #d8d4cc;
+padding: 7px 10px;
+text-align: left;
+vertical-align: top;
+}
+th { background: #f3f1ec; font-weight: 700; }
+tr:nth-child(even) td { background: #faf9f6; }
+hr { border: 0; border-top: 1px solid #e0dcd4; margin: 28px 0; }
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Indian Liberals: round-3 feedback</h1>
+</header>
+<p>Dear Arjun,</p>
+<p>Thank you for this. It is a good list, and most of it is
+straightforwardly buildable. Before we meet I want to give you one
+finding that changes how three of your items should be read, then what
+is already done and live, what I need from you tomorrow, and what is
+left.</p>
+<h1 id="three-of-your-items-were-one-bug-and-it-is-fixed">Three of your
+items were one bug, and it is fixed</h1>
+<p>Your request to remove M. N. Roy, point 8 about backend changes not
+appearing, and point 9 about ThePrint not updating are the same
+fault.</p>
+<p>On 30 July a save from the CMS wrote one field on the M. N. Roy entry
+incorrectly. The field <code>vocations</code> holds a list. It was
+written as a piece of text that looks like a list. The site is built as
+static pages, so a single file that fails validation fails the whole
+build and Cloudflare stops publishing. The previously published site
+stays up and looks perfectly healthy, which is why nobody saw it.
+Cloudflare’s own record shows seven production builds in a row failing,
+from 30 July until this afternoon.</p>
+<p>What follows from that:</p>
+<ul>
+<li><strong>M. N. Roy had already been removed.</strong> Aayushi made
+the change herself on 31 July. It was correct and it is still in place.
+It simply could not reach the live site. He is off the Thinkers list
+now.</li>
+<li><strong>Point 8 is not caching.</strong> Nothing published at all
+between 30 July and this afternoon. It was not slow, it was
+stopped.</li>
+<li><strong>Point 9 is not a broken integration.</strong> The ThePrint
+import ran normally and on schedule, including on 1 August when it
+collected two new pieces. They were in the repository the whole time,
+unpublishable.</li>
+</ul>
+<p>Three things have been done about it. The entry is repaired, and
+every editorial change CCS made to it stands. The CMS itself is fixed,
+which matters more: 448 files in the archive were exposed to the same
+fault, and any one of them opened and saved would have done the same
+thing. And a check now runs on every change and fails loudly if a file
+breaks, so the site cannot freeze silently again.</p>
+<p>That last part is the real lesson. The bug cost six days rather than
+ten minutes because nothing was watching. I am sorry it took your email
+to surface it.</p>
+<h1 id="the-numbers-are-not-wrong-and-it-is-worth-being-exact-about-why">The
+numbers are not wrong, and it is worth being exact about why</h1>
+<p>You asked us to correct figures that look inaccurate. We have been
+through every one. <strong>None of them is miscounted.</strong> Nothing
+on the site is typed in by hand; every figure is counted from the
+content each time the site builds.</p>
+<p>Here is precisely what each counts, as of today:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Shown as</th>
+<th>What it counts</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary works</td>
+<td>every primary work that is not a draft</td>
+<td>1,575</td>
+</tr>
+<tr>
+<td>Periodical issues</td>
+<td>of those, the ones marked as a periodical issue</td>
+<td>740</td>
+</tr>
+<tr>
+<td>Interviews</td>
+<td>of those, the ones marked as an interview</td>
+<td>92</td>
+</tr>
+<tr>
+<td>Thinkers profiled</td>
+<td>every thinker classified as core or extended in the tradition</td>
+<td>194</td>
+</tr>
+<tr>
+<td>Excerpts and opinions</td>
+<td>every musing plus every opinion</td>
+<td>254</td>
+</tr>
+</tbody>
+</table>
+<p>The reason they feel wrong is real, though, and it is this: three of
+those tiles are links, and they open a page showing a different
+number.</p>
+<ul>
+<li><strong>Thinkers profiled: 194</strong> opens a page listing 23
+people. Both are true. The tile counts everyone classified as part of
+the tradition; the page shows only the curated canon. The other 171 are
+real records, reachable by search and by their own pages, just not
+listed there.</li>
+<li><strong>Excerpts and opinions: 254</strong> opens Opinions, which
+has 55.</li>
+<li><strong>Periodical issues: 740</strong> opens a page that also
+counts the Forum of Free Enterprise booklets, which are not periodical
+issues.</li>
+</ul>
+<p>So the question is not arithmetic. It is which number you want a
+reader to land on. My recommendation is to point each tile at the page
+that holds what it counts, rather than shrink the numbers, because 194
+is the honest scale of the archive and 23 is not.</p>
+<p><strong>On the total page count you asked us to add:</strong> the
+figure available today is <strong>22,715 pages across 1,423
+works</strong>. 110 works have no pages at all, being the interviews and
+lectures, which are video. 42 paginated works have no count recorded. So
+we can publish “over 22,000 pages”, which is true today and stays true,
+or spend a day counting the source PDFs exactly first.</p>
+<p>One thing to settle, because it will come up. The old site’s essay
+contest page says the archive “presently hosts up to 50,000 digitized
+pages”. That does not match anything we can measure. If 50,000 is a
+number CCS has used publicly, I would like to know where it came from
+before we print a different one.</p>
+<h1 id="two-corrections-worth-making">Two corrections worth making</h1>
+<p><strong>The featured images, point 7.2.</strong> Your diagnosis is
+right: they display badly. The stated cause is not, and it matters,
+because acting on it would have made things worse.</p>
+<p>The old site used a 3:4 portrait canvas. The images themselves are
+not portrait. All 59 covers were recovered from the Wayback Machine, and
+they measure: 24 landscape, 20 wide, 8 square, 7 portrait. They run from
+192 by 306 at one end to 1024 by 329 at the other. Putting that set
+behind a 3:4 box would have cropped the 44 landscape and wide covers far
+harder than the boxes it replaced.</p>
+<p>The fault was never which ratio. It was that one fixed ratio cannot
+serve a set that varies five times over in shape. So no cover is forced
+into a box any more. Each keeps its own proportions, with its true pixel
+size on the page so nothing jumps as it loads. That is done and live,
+and I think it is what you were actually asking for.</p>
+<p><strong>Renaming to Periodicals, point 3.1.</strong> Done. But most
+of what is on that page is not a periodical: the roughly 600 Forum of
+Free Enterprise booklets, the annual budget analyses and the memorial
+lectures all live there, which is what “Series and Periodicals” was for.
+If a reader goes to Periodicals looking for the Forum booklets, the name
+now works against them. Easy to revisit, and worth thirty seconds
+tomorrow.</p>
+<h1 id="what-is-done-and-live">What is done and live</h1>
+<ul>
+<li>M. N. Roy removed from the Thinkers list.</li>
+<li>Thinkers listed alphabetically.</li>
+<li>Organisations hidden from the navigation. Nothing is deleted: all
+106 organisation pages still exist and still resolve.</li>
+<li>About: the contributors section renamed to “People who helped in
+building this Archive” and moved above “What You’ll Find Here”.</li>
+<li>“Series and Periodicals” renamed to “Periodicals”, and “The runs”
+removed.</li>
+<li>Opinions page titled “Opinions”.</li>
+<li>The repeated article in “Related across the archive” is fixed. It
+affected 76 entries and 88 duplicate links.</li>
+<li>Count-up animation on the home page figures.</li>
+<li>The search bar is larger and reads as a search field rather than a
+menu item.</li>
+<li><strong>Featured images</strong> now keep their own shape, as
+above.</li>
+<li><strong>Events</strong> is a section of its own, with the annual
+lecture, the essay contest, its results, and the Vaad Vivad on
+decentralisation moved out of Opinions. Their pages keep their existing
+addresses so nothing already linked or indexed breaks; what changed is
+where they are listed.</li>
+<li><strong>Languages</strong> is a new section. It covers Marathi (78
+works), Gujarati (24), Hindi (5) and Bengali (2), each with its own
+page.</li>
+<li><strong>Mobile sort and filter.</strong> Sort is new on both
+Opinions and Musings: newest to oldest, or oldest to newest. On a phone
+the filters are now behind a single “Filter” control that shows how many
+are active. On a desktop nothing changed.</li>
+</ul>
+<p>Two notes on those last two. You asked for Hindi, Bengali and
+Marathi; I have included <strong>Gujarati</strong> as well, because
+there is more Gujarati in the archive than Hindi and Bengali put
+together and leaving it out would look odd. And you listed Languages
+among the filters for Opinions and Musings: those two collections are
+entirely in English, so a language filter there would have exactly one
+option. It belongs on the works, which is where it now is.</p>
+<h1 id="what-i-need-from-you-tomorrow">What I need from you
+tomorrow</h1>
+<p>Things I cannot start without you:</p>
+<ol type="1">
+<li>The revised copy for the Home page, About page and Thinkers
+description.</li>
+<li>The black-and-white image of Raja Ram Mohan Roy.</li>
+<li>Which numbers you felt were wrong, against the table above.</li>
+<li>Whether the page count says “over 22,000” now or waits for an exact
+count, and where the 50,000 figure came from.</li>
+<li>Which interview pages are filed under the person being discussed
+rather than the person speaking. I need you to name them; there are 92
+and I cannot tell from the outside which are wrong.</li>
+<li>Whether Periodicals keeps that name given what is actually on the
+page.</li>
+</ol>
+<h1 id="what-is-left-and-exactly-where-each-one-stands">What is left,
+and exactly where each one stands</h1>
+<h2 id="grouping-collections-by-publication-house-3.3">Grouping
+Collections by publication house (3.3)</h2>
+<p><strong>Where we are.</strong> The data is better than I expected.
+Every work carries a resolved publisher, and there are 23 publishing
+houses in the archive, not hundreds. The shape is very top-heavy: Forum
+of Free Enterprise 577 works, Freedom First 500, The Indian Libertarian
+138, Shetkari Sanghatana 48. Those four are 92% of everything
+attributed. Eight houses have ten or more works; eight have exactly
+one.</p>
+<p><strong>What needs a conversation.</strong> Two things. <strong>206
+works have no publisher recorded</strong>, so we need to decide whether
+they sit in an “Other” shelf, stay in a flat list alongside the houses,
+or get researched and attributed first. And the eight houses with a
+single work: own section each, or folded into “Other”? A page with four
+large sections and fifteen near-empty ones will read as broken.</p>
+<p><strong>The idea.</strong> Collections becomes a list of houses
+rather than a list of formats. Freedom First opens onto everything
+Freedom First published, its magazine issues and anything else, instead
+of those being scattered across “periodicals” and “series” by
+cataloguing type. This is close to what you described and I think it is
+right: the reader thinks in institutions, not in formats.</p>
+<h2 id="oral-histories-with-four-sub-sections-3.7">Oral Histories with
+four sub-sections (3.7)</h2>
+<p><strong>Where we are.</strong> Most of the structure exists. The
+section already groups interviews by figure, and already has separate
+shelves for talks, explainers and conversations, which maps almost
+exactly onto the four you listed. Renaming and regrouping is a day.</p>
+<p><strong>What needs a conversation.</strong> The classification
+underneath is thin. Of the 92 interviews, only 27 carry an explicit
+group; <strong>the other 65 are sorted by a rule that reads their
+filename.</strong> That works well enough for the current three shelves,
+and it will not hold up under four named sub-sections that a reader is
+invited to browse.</p>
+<p><strong>The idea.</strong> We propose a group for each of the 65 and
+send you the list to correct, rather than either of us classifying 92
+items from scratch. This is also the natural moment to fix the
+interviews filed under the wrong person, since that is the same pass
+over the same 92 records.</p>
+<h2 id="interviews-and-talks-on-a-thinkers-page-5.1">Interviews and
+talks on a thinker’s page (5.1)</h2>
+<p><strong>Where we are.</strong> The archive already knows which
+thinkers a work mentions, and the thinker pages already have a
+“mentioned in” area, so the plumbing exists.</p>
+<p><strong>What needs a conversation.</strong> What counts. Zareen
+Masani’s interview about Minoo Masani clearly belongs on Minoo Masani’s
+page. A talk that mentions him once in passing does not. That is an
+editorial threshold, not a technical one, and if we set it too low every
+page fills with noise.</p>
+<p><strong>The idea.</strong> A section on the thinker page for recorded
+material about them, above the ordinary mentions, with a deliberately
+conservative rule: the thinker is the subject, not merely named. We will
+show you what it catches before it goes live.</p>
+<h2 id="author-information-on-musings-6.2">Author information on Musings
+(6.2)</h2>
+<p><strong>Where we are.</strong> 98 of the 195 musings have no author
+recorded, and none of them has a link back to the primary work it was
+excerpted from either, so there is no field to derive it from. The good
+news: <strong>74 of those 98 name the source in the text
+itself</strong>, in sentences like “In a 1986 article published in
+Freedom First, the prolific Marathi editor Govind Talwalkar”.</p>
+<p><strong>What needs a conversation.</strong> The remaining 24 have
+nothing to go on. Those need either the original WordPress posts or
+somebody at CCS who remembers.</p>
+<p><strong>The idea.</strong> Extract a proposed author for the 74 from
+their own text, and send them to you as a list to approve rather than
+publishing them unchecked. An attribution that is wrong is worse than
+one that is missing, in an archive.</p>
+<h2 id="visual-separation-on-the-home-page-2.2">Visual separation on the
+Home page (2.2)</h2>
+<p><strong>Where we are.</strong> Not started. The point is fair: the
+page is one continuous cream field and the sections run together.</p>
+<p><strong>What needs a conversation.</strong> This is a design
+direction, not a fix, and it is the one thing on your list I would
+rather show you than describe. You mentioned the 1947 Partition Archive
+as a reference.</p>
+<p><strong>The idea.</strong> Alternating section backgrounds and firmer
+rules between them, using the palette already on the site rather than
+introducing new colour. I will bring two or three versions to look
+at.</p>
+<h2 id="contact-details-feedback-form-gallery-testimonials-10.1-to-10.4">Contact
+details, feedback form, Gallery, Testimonials (10.1 to 10.4)</h2>
+<p><strong>Where we are.</strong> None of these exist yet. The first two
+are small. The Gallery and Testimonials are the ones worth planning,
+because they change what the home page is for.</p>
+<p><strong>What needs a conversation.</strong> For the Gallery: what the
+photographs actually are, how many, and whether they are of the physical
+archive, the digitisation work, or the events. For Testimonials: how
+many you have, and whether they carry names and photographs, because
+three named testimonials read as credibility and ten anonymous ones read
+as marketing.</p>
+<p><strong>The idea.</strong> Contact details and a feedback form on
+their own page, linked in the footer, not on the home page. Testimonials
+as a single quiet band on the home page, three at a time. Gallery as its
+own section. I would rather not add all four to the landing page at
+once.</p>
+<h2 id="the-wider-point-in-section-12">The wider point in section
+12</h2>
+<p><strong>Where we are.</strong> I agree with your users, and it is the
+most useful thing in your email. The site does explain itself before it
+speaks. That is a consequence of how it was built: the descriptive
+standfirsts and the section labels exist so that search engines and AI
+agents can parse the archive, and it worked, but it has leaked into the
+reading experience.</p>
+<p><strong>What needs a conversation.</strong> Which pages matter most
+to you. A copy pass across the whole site is a large job and I do not
+want to spend it on pages nobody reads.</p>
+<p><strong>The idea.</strong> Treat this as one piece of work rather
+than scattered fixes. Start with the Home page, About and the four
+section landing pages, cut the standfirsts that restate the heading, and
+keep the machine-readable description in the page metadata where it
+belongs and no reader sees it. Your new copy for Home, About and
+Thinkers is the natural start.</p>
+<p>See you tomorrow.</p>
+<p>Best, Adnan</p>
+</body>
+</html>
