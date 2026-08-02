@@ -38,7 +38,6 @@ const latestTheprint = (await getCollection("theprint-mirror", (p) => !p.data.dr
 const allWorks = await getCollection("primary-works", (w) => !w.data.draft);
 const allMusings = await getCollection("musings", (m) => !m.data.draft);
 const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
-const allOrgs = await getCollection("organisations", (o) => !o.data.draft);
 const interviewCount = allWorks.filter((w) => w.data.work_type === "interview").length;
 const periodicalCount = allWorks.filter((w) => w.data.work_type === "periodical_issue").length;
 const stats = [
@@ -57,7 +56,12 @@ const stats = [
     label: "Excerpts & opinions",
     href: "/opinions/",
   },
-  { value: allOrgs.length, label: "Organisations", href: "/organisations/" },
+  // The Organisations tile is out while the section is hidden (CCS round-3
+  // feedback, 5.3). Leaving the archive's largest doorway into a hidden
+  // section on the landing page would have made "hidden" mean nothing. The
+  // pages themselves are untouched; restoring this is one line:
+  //   { value: (await getCollection("organisations", (o) => !o.data.draft)).length,
+  //     label: "Organisations", href: "/organisations/" },
 ];
 
 // Works-per-decade histogram for the stats band. publication.year is the
@@ -227,11 +231,18 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
       </div>
 
       {/* Key numbers, each links into its section of the archive */}
-      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 lg:divide-x divide-(--color-border)" data-reveal style="--reveal-delay: 80ms">
+      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 lg:divide-x divide-(--color-border)" data-reveal style="--reveal-delay: 80ms">
         {stats.map((s) => (
           <div class="lg:px-6 first:lg:pl-0 last:lg:pr-0 py-2 lg:py-0">
             <a href={s.href} class="group block no-underline">
-              <dd class="font-(family-name:--font-display) font-semibold text-4xl md:text-[2.75rem] leading-none text-(--color-fg) tabular-nums group-hover:text-(--color-saffron-700) transition-colors">
+              {/* The final number is what is rendered. The count-up (CCS
+                  round-3 feedback, 2.1c) only runs where JS is present and
+                  motion is welcome, so a reader without either, or a crawler,
+                  still gets the real figure and never a zero. */}
+              <dd
+                data-countup={s.value}
+                class="font-(family-name:--font-display) font-semibold text-4xl md:text-[2.75rem] leading-none text-(--color-fg) tabular-nums group-hover:text-(--color-saffron-700) transition-colors"
+              >
                 {s.value.toLocaleString("en-IN")}
               </dd>
               <dt class="mt-2 text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) group-hover:text-(--color-fg) transition-colors">
@@ -627,6 +638,47 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         { rootMargin: "0px 0px -8% 0px", threshold: 0.08 },
       );
       targets.forEach((el) => io.observe(el));
+    })();
+
+    // Count-up on the stats band: each number runs 0 to its value once, the
+    // first time the band is scrolled into view.
+    (function () {
+      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+      const cells = document.querySelectorAll("[data-countup]");
+      if (!cells.length || !("IntersectionObserver" in window)) return;
+
+      const format = (n) => n.toLocaleString("en-IN");
+      const DURATION = 1100;
+
+      function run(cell) {
+        const target = Number(cell.getAttribute("data-countup"));
+        if (!Number.isFinite(target) || target <= 0) return;
+        // Hold the width the finished number needs, so counting cannot
+        // reflow the row under the reader.
+        cell.style.minWidth = cell.getBoundingClientRect().width + "px";
+        const started = performance.now();
+        function step(now) {
+          const t = Math.min(1, (now - started) / DURATION);
+          // Ease out cubic: quick off the mark, settling onto the real figure.
+          const eased = 1 - Math.pow(1 - t, 3);
+          cell.textContent = format(Math.round(target * eased));
+          if (t < 1) requestAnimationFrame(step);
+          else cell.textContent = format(target);
+        }
+        requestAnimationFrame(step);
+      }
+
+      const io = new IntersectionObserver(
+        (entries) => {
+          for (const e of entries) {
+            if (!e.isIntersecting) continue;
+            io.unobserve(e.target);
+            run(e.target);
+          }
+        },
+        { threshold: 0.5 },
+      );
+      cells.forEach((cell) => io.observe(cell));
     })();
   </script>
 </BaseLayout>

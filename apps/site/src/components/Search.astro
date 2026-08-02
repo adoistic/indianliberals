@@ -25,19 +25,25 @@ interface Props {
 const { label = "Search the archive", placeholder = "Search thinkers, works, themes…" } = Astro.props;
 ---
 
+{/* CCS round-3 feedback, 12.2: the search bar read as too small to notice.
+    It was a pill the size of a nav link and said only "Search", so it looked
+    like one more menu item. It now reads as a field: taller, wider from the
+    large breakpoint on, and carrying the sentence it actually does. Growth is
+    held back until lg so the grouped nav does not crowd at laptop widths. */}
 <button
   type="button"
   id="search-trigger"
   aria-label={label}
   aria-haspopup="dialog"
-  class="inline-flex items-center gap-2 px-3 py-1.5 text-sm font-(family-name:--font-ui) text-(--color-fg-muted) bg-(--color-bg-muted) border border-(--color-border) rounded-full hover:border-(--color-fg) hover:text-(--color-fg) transition-colors"
+  class="group inline-flex items-center gap-2.5 px-4 py-2.5 lg:min-w-[17rem] lg:justify-start text-sm lg:text-[0.9375rem] font-(family-name:--font-ui) text-(--color-fg-muted) bg-(--color-bg-muted) border border-(--color-border) rounded-full hover:border-(--color-fg) hover:text-(--color-fg) focus-visible:border-(--color-fg) transition-colors"
 >
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+  <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="shrink-0" aria-hidden="true">
     <circle cx="11" cy="11" r="7"></circle>
     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
   </svg>
-  <span>Search</span>
-  <kbd class="hidden sm:inline-block px-1.5 py-0.5 ml-1 text-[10px] bg-(--color-bg) border border-(--color-border) rounded font-(family-name:--font-mono)">
+  <span class="lg:hidden">Search</span>
+  <span class="hidden lg:inline whitespace-nowrap">Search the archive</span>
+  <kbd class="hidden lg:inline-block ml-auto px-1.5 py-0.5 text-[10px] bg-(--color-bg) border border-(--color-border) rounded font-(family-name:--font-mono)">
     /
   </kbd>
 </button>

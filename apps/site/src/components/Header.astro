@@ -22,7 +22,6 @@ const thinkers = await getCollection(
   "thinkers",
   (t) => !t.data.draft && t.data.language === "en",
 );
-const orgs = await getCollection("organisations", (o) => !o.data.draft);
 const musings = await getCollection("musings", (m) => !m.data.draft);
 const opinions = await getCollection("opinions", (o) => !o.data.draft);
 const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
@@ -50,7 +49,7 @@ const groups: NavGroup[] = [
         count: works.length,
       },
       {
-        label: "Series & Periodicals",
+        label: "Periodicals",
         href: "/periodicals/",
         desc: "Forum booklets, Freedom First, budgets, memorial lectures",
         count: periodicalCount + seriesWorkCount,
@@ -82,18 +81,18 @@ const groups: NavGroup[] = [
       {
         label: "Thinkers",
         href: "/thinkers/",
-        desc: "The curated canon, chronologically",
+        desc: "The curated canon, alphabetically",
         count: featuredCount,
       },
       // "Full directory" (/thinkers/directory/) is intentionally hidden from
       // the nav per CCS direction; the page still builds and is reachable by
       // direct URL, it is just not surfaced. Do not delete it.
-      {
-        label: "Organisations",
-        href: "/organisations/",
-        desc: "Forums, institutes, parties, and presses",
-        count: orgs.length,
-      },
+      //
+      // Organisations is hidden the same way, and for the same reason: CCS
+      // asked for it to be out of sight "for the time being" (round-3
+      // feedback, 5.3). Every organisation page still builds, still resolves,
+      // and is still linked from the works and thinkers that reference it, so
+      // nothing in the archive is lost and putting it back is one line.
     ],
   },
   {

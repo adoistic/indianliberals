@@ -93,10 +93,51 @@ function monogram(name: string): string {
       </p>
     </div>
 
+    {/* With gratitude — volunteers who built the archive's content. Rendered
+        outside .prose-container to keep the card chrome (no link underlines). */}
+    <section class="mt-14 font-(family-name:--font-ui)">
+      <div class="flex items-center gap-3 mb-3">
+        <span aria-hidden="true" class="h-px w-8 bg-gradient-to-r from-(--color-saffron-500) to-(--color-forest-500)"></span>
+        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-semibold">
+          With gratitude
+        </p>
+      </div>
+      <h2 class="text-(--color-fg) font-(family-name:--font-display)">
+        People who helped in building this Archive
+      </h2>
+      <p class="mt-2 mb-8 text-(--color-fg-muted) leading-relaxed max-w-2xl">
+        Much of what is here was found by volunteers: scholars and
+        archivists who knew where the rare material was, and were willing to
+        spend their own time getting hold of it. The archive would be
+        considerably thinner without them.
+      </p>
+
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        {contributors.map((c) => (
+          <li class="group flex items-center gap-3.5 rounded-xl border border-(--color-border) bg-(--color-bg) p-3.5 transition-all hover:border-(--color-saffron-500)/60 hover:shadow-sm">
+            <span
+              aria-hidden="true"
+              class="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-gradient-to-br from-(--color-saffron-500)/20 to-(--color-forest-500)/20 font-(family-name:--font-display) text-sm font-semibold text-(--color-fg) ring-1 ring-inset ring-(--color-border) group-hover:ring-(--color-saffron-500)/40 transition-colors"
+            >
+              {monogram(c.name)}
+            </span>
+            <span class="min-w-0">
+              <span class="block font-semibold text-(--color-fg) leading-tight group-hover:text-(--color-saffron-700) transition-colors text-[0.9375rem]">
+                {c.name}
+              </span>
+              <span class="mt-0.5 block text-xs text-(--color-fg-muted) leading-snug">
+                {c.org}
+              </span>
+            </span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
     {/* What you'll find here - the eight content kinds, grouped by tier.
         Rendered outside .prose-container so the cards keep chrome-link
         styling (no underline). */}
-    <section class="mt-14 font-(family-name:--font-ui)">
+    <section class="mt-16 font-(family-name:--font-ui)">
       <h2 class="text-(--color-fg) font-(family-name:--font-display)">What you&rsquo;ll find here</h2>
       <p class="mt-2 mb-8 text-(--color-fg-muted) leading-relaxed">
         Eight content kinds, organised in two tiers.
@@ -135,46 +176,6 @@ function monogram(name: string): string {
       ))}
     </section>
 
-    {/* With gratitude — volunteers who built the archive's content. Rendered
-        outside .prose-container to keep the card chrome (no link underlines). */}
-    <section class="mt-16 font-(family-name:--font-ui)">
-      <div class="flex items-center gap-3 mb-3">
-        <span aria-hidden="true" class="h-px w-8 bg-gradient-to-r from-(--color-saffron-500) to-(--color-forest-500)"></span>
-        <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-semibold">
-          With gratitude
-        </p>
-      </div>
-      <h2 class="text-(--color-fg) font-(family-name:--font-display)">
-        The people who built this archive
-      </h2>
-      <p class="mt-2 mb-8 text-(--color-fg-muted) leading-relaxed max-w-2xl">
-        Much of what is here was found by volunteers: scholars and
-        archivists who knew where the rare material was, and were willing to
-        spend their own time getting hold of it. The archive would be
-        considerably thinner without them.
-      </p>
-
-      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        {contributors.map((c) => (
-          <li class="group flex items-center gap-3.5 rounded-xl border border-(--color-border) bg-(--color-bg) p-3.5 transition-all hover:border-(--color-saffron-500)/60 hover:shadow-sm">
-            <span
-              aria-hidden="true"
-              class="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-gradient-to-br from-(--color-saffron-500)/20 to-(--color-forest-500)/20 font-(family-name:--font-display) text-sm font-semibold text-(--color-fg) ring-1 ring-inset ring-(--color-border) group-hover:ring-(--color-saffron-500)/40 transition-colors"
-            >
-              {monogram(c.name)}
-            </span>
-            <span class="min-w-0">
-              <span class="block font-semibold text-(--color-fg) leading-tight group-hover:text-(--color-saffron-700) transition-colors text-[0.9375rem]">
-                {c.name}
-              </span>
-              <span class="mt-0.5 block text-xs text-(--color-fg-muted) leading-snug">
-                {c.org}
-              </span>
-            </span>
-          </li>
-        ))}
-      </ul>
-    </section>
 
     <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] mt-16">
       <h2 class="mb-4 text-(--color-fg)">For researchers and AI agents</h2>

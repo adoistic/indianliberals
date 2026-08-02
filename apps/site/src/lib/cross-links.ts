@@ -21,13 +21,48 @@ export interface CrossLink {
 
 const RAW: Record<string, CrossLink[]> = crossLinksJson as Record<string, CrossLink[]>;
 
+/** Same title, ignoring case, punctuation and spacing. */
+function titleKey(title: string): string {
+  return title
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .trim();
+}
+
 /**
  * Look up the top-N TF-IDF-similar entries for a (collection, slug) pair.
  * Returns an empty array if the entry has no related-list (rare; only true
  * for entries with very thin body content the TF-IDF script discards).
+ *
+ * Entries repeating a title are collapsed to the first, which is the
+ * highest-scoring since the source is emitted in descending score. CCS
+ * reported the same article appearing twice in "Related across the archive"
+ * (round-3 feedback, 6.1); it affects 76 of the 851 entries and removes 88
+ * repeated links in all. Two causes sit underneath, and only one of them is a
+ * display problem:
+ *
+ *   - The same work really is in the corpus twice under two slugs, as
+ *     `...m-a-rangoonwaala-june-15-1982` and `...by-ma-rangoonwala-1982`.
+ *     Two musings are duplicates of each other the same way.
+ *   - Two different works carry the same title, because one of them has the
+ *     wrong title: `the-challenge-of-rural-development...` is recorded as
+ *     "The Basic Truth About Inflation".
+ *
+ * Collapsing here stops a reader being offered the same link twice whichever
+ * cause applies. It does not clean the records, which is a separate data pass
+ * and is on the list for CCS.
  */
 export function getCrossLinks(collection: string, slug: string): CrossLink[] {
-  return RAW[`${collection}:${slug}`] ?? [];
+  const links = RAW[`${collection}:${slug}`] ?? [];
+  const best = new Map<string, CrossLink>();
+  for (const link of links) {
+    const key = titleKey(link.title);
+    const held = best.get(key);
+    if (!held || link.score > held.score) best.set(key, link);
+  }
+  // TF-IDF emits in descending score and the map preserves insertion order,
+  // so the surviving links stay in the order they were ranked.
+  return [...best.values()];
 }
 
 /**

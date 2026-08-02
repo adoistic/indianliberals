@@ -25,11 +25,15 @@ const allThinkers = await getCollection(
 const stats = await getThinkerStats();
 
 const featured = allThinkers.filter((t) => t.data.featured);
-// Chronological, the canon reads as the story of the tradition.
-const byBirth = (a: typeof featured[number], b: typeof featured[number]) =>
-  (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999) ||
-  a.data.name.sort.localeCompare(b.data.name.sort);
-const canon = featured.filter((t) => t.data.nationality === "india").sort(byBirth);
+// Alphabetical by sort name, so "M. N. Roy" files under R (CCS round-3
+// feedback, 5.4). This page used to run chronologically, which read as the
+// story of the tradition but made a named person hard to find; a reader who
+// arrives looking for one thinker should not have to know which decade they
+// belong to. The birth years are still shown on every card, and the timeline
+// on the home page still carries the chronology.
+const byName = (a: typeof featured[number], b: typeof featured[number]) =>
+  a.data.name.sort.localeCompare(b.data.name.sort, "en");
+const canon = featured.filter((t) => t.data.nationality === "india").sort(byName);
 // International influences (Mill, Hayek, Mises, Friedman, Bauer) stay in the
 // archive and the unified search below, but are no longer shown on this page:
 // the Indian liberals themselves are the canon this page presents (Adnan,
@@ -112,11 +116,14 @@ const prettifyVocation = (v: string): string => {
         Thinkers
       </p>
       <h1 class="text-(--color-fg) mb-4">The Indian liberal canon</h1>
+      {/* Holding copy. The ordering claim had to go with the switch to
+          alphabetical, and CCS is sending replacement copy for this page
+          (round-3 feedback, 4.2), so this says the true thing and no more
+          rather than inventing prose that is about to be thrown away. */}
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
         The reformers, economists, statesmen and editors who built the case for
-        individual liberty and free enterprise in modern India, in chronological
-        order, beginning with the early social reformers and ending with the
-        farmers&rsquo; movement of the 1980s.
+        individual liberty and free enterprise in modern India, listed
+        alphabetically.
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {canon.length} canonical thinkers

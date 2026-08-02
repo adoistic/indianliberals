@@ -29,22 +29,23 @@ const totalWorks = issueCount + seriesWorkCount;
 
 <BaseLayout
   schema={[
-    collectionPageNode({ pagePath: "/periodicals/", name: "Series & Periodicals" }),
+    collectionPageNode({ pagePath: "/periodicals/", name: "Periodicals" }),
     breadcrumbNode([
       ["Home", "/"],
-      ["Series & Periodicals", "/periodicals/"],
+      ["Periodicals", "/periodicals/"],
     ]),
   ]}
   ogImage={ogSection("periodicals")}
-  title="Series & Periodicals · Indian Liberals"
+  title="Periodicals · Indian Liberals"
   description={`${totalWorks} works across ${runCount} runs: the Forum of Free Enterprise booklets, Freedom First, The Indian Libertarian, Khoj, Shetkari Sanghatak, the annual budget analyses and the memorial lectures, indexed item by item.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
-      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Series &amp; Periodicals
-      </p>
-      <h1 class="text-(--color-fg) mb-4">The runs</h1>
+      {/* CCS asked for the section to be called Periodicals and for "The runs"
+          to go (round-3 feedback, 3.1 and 3.2). The eyebrow went with it: with
+          the heading now carrying the plain section name, a label above it
+          saying the same word twice is just decoration. */}
+      <h1 class="text-(--color-fg) mb-4">Periodicals</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
         Most of this archive was not published as one-off books. It came out in
         runs: a fortnightly journal, a booklet series that lasted fifty years, a
@@ -138,9 +139,13 @@ const totalWorks = issueCount + seriesWorkCount;
     ))}
   </div>
 
+  {/* Named "Periodicals" until the page itself took that name. A page headed
+      Periodicals containing a section headed Periodicals tells a reader
+      nothing, so this group is now called what it actually holds: the dated
+      magazines and journals, as against the booklet series above. */}
   <div class="mx-auto max-w-6xl px-6 pt-14">
     <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-1">
-      Periodicals
+      Magazines &amp; journals
     </h2>
     <p class="text-(--color-fg-muted) text-sm mb-6 font-(family-name:--font-ui)">
       {issueCount} issues · {periodicalGroups.length} runs, indexed issue by issue
