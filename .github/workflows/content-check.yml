@@ -1,0 +1,62 @@
+name: Content check
+
+# The gate that was missing.
+#
+# The site is statically built, so a single content file that fails the schema
+# fails the whole build, and Cloudflare Pages simply stops publishing. Nothing
+# on the site says so: the last good build stays up, looking healthy. On
+# 30 July 2026 a CMS save turned `vocations: [philosopher, writer, activist]`
+# into a quoted string, every Pages build failed from that commit onward, and
+# six days of editors' work sat in the repo unpublished. CCS reported it as
+# "changes made from the backend do not appear on the live website" and as
+# ThePrint articles no longer updating. Both were this.
+#
+# `astro sync` loads and validates every content collection against its schema
+# and takes a couple of seconds. Running it on push means a bad save is caught
+# and attributed in a minute, and someone is told, instead of the site quietly
+# freezing.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: content-check-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  schema:
+    name: Validate content against the site schema
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: apps/site/package-lock.json
+
+      - name: Install site dependencies
+        working-directory: apps/site
+        run: npm ci --no-audit --no-fund
+
+      - name: Validate every content collection
+        working-directory: apps/site
+        run: npx astro sync
+
+      - name: Say what broke
+        if: failure()
+        run: |
+          echo "::error::A content file does not match its collection schema."
+          echo "Cloudflare Pages will not publish while this is true, and the live"
+          echo "site will keep serving the last good build with no visible error."
+          echo "The failure above names the file and the field. Fix that file and"
+          echo "push again. If it was saved from the CMS, the CMS wrote something"
+          echo "the schema refuses: check apps/cms/src/lib/yaml-scalar.ts."
