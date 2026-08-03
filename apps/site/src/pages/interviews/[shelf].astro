@@ -37,14 +37,19 @@ const kindLabel = s.kind === "figure" ? "conversation" : "recording";
 ---
 
 <BaseLayout
-  title={`${s.title} · Interviews · Indian Liberals`}
+  title={`${s.title} · Oral history · Indian Liberals`}
   description={`${count} ${kindLabel}${count === 1 ? "" : "s"}${s.yearRange ? ` (${s.yearRange})` : ""}: ${s.title}, from the Indian Liberals recorded-voices archive.`}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        <a href="/interviews/" class="hover:text-(--color-fg)">Interviews</a>
-        <span aria-hidden> / </span>{s.kind === "figure" ? "By figure" : "Collections"}
+        <a href="/interviews/" class="hover:text-(--color-fg)">Oral history</a>
+        <span aria-hidden> / </span>
+        {s.kind === "figure" ? (
+          <a href="/interviews/people/" class="hover:text-(--color-fg)">Interviews</a>
+        ) : (
+          "Collections"
+        )}
       </p>
       <div class="flex items-start gap-5">
         {s.kind === "figure" && (

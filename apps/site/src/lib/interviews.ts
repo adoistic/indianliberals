@@ -161,7 +161,11 @@ export async function getInterviewShelves(): Promise<InterviewShelves> {
   );
   // Guarantee unique URLs: figure slugs must not collide with each other or
   // with the reserved collection slugs (Astro getStaticPaths throws on dupes).
-  const usedSlugs = new Set<string>(Object.keys(COLLECTION_META));
+  // "people" is reserved too — it is the static /interviews/people/ route that
+  // lists the figures. A static route silently shadows a dynamic one in Astro,
+  // so a figure that happened to slugify to "people" would lose its page
+  // without any build error to warn us.
+  const usedSlugs = new Set<string>([...Object.keys(COLLECTION_META), "people"]);
   for (const shelf of figures) {
     let slug = shelf.slug;
     for (let n = 2; usedSlugs.has(slug); n++) slug = `${shelf.slug}-${n}`;

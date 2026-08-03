@@ -1,0 +1,85 @@
+---
+// The interviewees: every figure whose oral history runs across several
+// sittings, as a wall of portrait cards. This is the "Interviews" box on
+// /interviews/ (Adnan, 2026-08) — the grid itself is the one that used to sit
+// under "By figure" on that landing page, moved here unchanged so the landing
+// page could become four peer doorways.
+//
+// The slug "people" is reserved in ~/lib/interviews.ts so a figure can never
+// shadow this route.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+import { getInterviewShelves } from "~/lib/interviews";
+
+const { figures } = await getInterviewShelves();
+const recordings = figures.reduce((n, f) => n + f.items.length, 0);
+---
+
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/interviews/people/", name: "Interviews" }),
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Oral history", "/interviews/"],
+      ["Interviews", "/interviews/people/"],
+    ]),
+  ]}
+  ogImage={ogSection("interviews")}
+  title="Interviews · Oral history · Indian Liberals"
+  description={`${recordings} oral-history conversations with ${figures.length} figures of the Indian liberal tradition, each with a cleaned transcript and the original video.`}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        <a href="/interviews/" class="hover:text-(--color-fg)">Oral history</a>
+        <span aria-hidden> / </span>Interviews
+      </p>
+      <h1 class="text-(--color-fg) mb-4">Interviews</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
+        Interviewees whose oral histories run across several sittings: the
+        people who lived the licence raj and the 1991 reforms, sitting down to
+        tell it. Open a figure to see every conversation with them in one place.
+      </p>
+      <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
+        {figures.length} {figures.length === 1 ? "interviewee" : "interviewees"} ·
+        {" "}{recordings} {recordings === 1 ? "conversation" : "conversations"}
+      </p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-8 font-(family-name:--font-ui) list-none pl-0">
+      {figures.map((f) => (
+        <li>
+          <a href={`/interviews/${f.slug}/`} class="group block no-underline">
+            <div class="aspect-[3/4] bg-(--color-bg-muted) border border-(--color-border) rounded-sm overflow-hidden flex items-end justify-center transition-shadow group-hover:shadow-md">
+              {f.portrait ? (
+                <img
+                  src={f.portrait}
+                  alt=""
+                  width="240"
+                  height="320"
+                  loading="lazy"
+                  class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
+                />
+              ) : (
+                <span aria-hidden="true" class="text-(--color-saffron-700) text-4xl font-(family-name:--font-display) font-semibold opacity-60">
+                  {f.title.charAt(0)}
+                </span>
+              )}
+            </div>
+            <h2 class="mt-3 text-(--color-fg) font-semibold text-sm leading-tight group-hover:text-(--color-saffron-700) transition-colors">
+              {f.title}
+            </h2>
+            <p class="text-xs text-(--color-fg-muted) mt-0.5">
+              {f.items.length === 1 ? "1 conversation" : `${f.items.length} conversations`}
+              {f.yearRange && ` · ${f.yearRange}`}
+            </p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

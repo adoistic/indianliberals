@@ -58,9 +58,13 @@ const pageTotal = pdfWorks.reduce(
 );
 
 const stats: { value: number; label: string; href?: string }[] = [
+  // The one tile that is a fact rather than a doorway: there is no "pages"
+  // section to send a reader to, and pointing it at /primary-works/ would
+  // give the row two tiles with the same destination.
+  { value: pageTotal, label: "Pages" },
   { value: allWorks.length, label: "Primary works", href: "/primary-works/" },
   { value: periodicalCount, label: "Periodical issues", href: "/periodicals/" },
-  { value: interviewCount, label: "Interviews", href: "/interviews/" },
+  { value: interviewCount, label: "Oral history", href: "/interviews/" },
   {
     value: allThinkers.filter((t) =>
       ["core", "extended"].includes(t.data.canon_status),
@@ -73,10 +77,6 @@ const stats: { value: number; label: string; href?: string }[] = [
     label: "Excerpts & opinions",
     href: "/opinions/",
   },
-  // The one tile that is a fact rather than a doorway: there is no "pages"
-  // section to send a reader to, and pointing it at /primary-works/ would
-  // give the row two tiles with the same destination.
-  { value: pageTotal, label: "Pages scanned" },
   // The Organisations tile is out while the section is hidden (CCS round-3
   // feedback, 5.3). Leaving the archive's largest doorway into a hidden
   // section on the landing page would have made "hidden" mean nothing. The
@@ -108,6 +108,12 @@ for (let d = decadeMin; d <= decadeMax; d += 10) {
   decades.push({ decade: d, count: decadeCounts.get(d) ?? 0 });
 }
 const decadePeak = Math.max(...decades.map((d) => d.count));
+// Works the histogram can actually place, which is fewer than allWorks: 43
+// items carry neither a publication year nor a year in their slug, mostly
+// undated Forum pamphlets and speeches. The caption therefore says "N of M
+// works carry a date" rather than a bare total — two different unexplained
+// numbers on one band (1,526 under a tile reading 1,569) read as a bug
+// (Adnan, 2026-08). Any work that gains a date joins the chart on next build.
 const datedWorksCount = decades.reduce((sum, d) => sum + d.count, 0);
 const spanYears = decadeMax + 9 - decadeMin;
 
@@ -179,7 +185,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
           Two centuries of the liberal argument for India.
         </h1>
         <p class="mt-6 text-lg leading-relaxed text-(--color-fg-muted) max-w-prose" data-reveal style="--reveal-delay: 120ms">
-          {datedWorksCount.toLocaleString("en-IN")} dated works, from the Bengal
+          {allWorks.length.toLocaleString("en-IN")} works, from the Bengal
           Renaissance to the 1991 reforms: the pamphlets and journals that
           carried the argument for individual liberty and free enterprise, and
           the people who made it.
@@ -313,7 +319,7 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         <figcaption class="mt-2 flex items-baseline justify-between text-[11px] text-(--color-fg-muted) font-(family-name:--font-ui)">
           <span>{decadeMin}s</span>
           <span class="hidden sm:inline">
-            {datedWorksCount.toLocaleString("en-IN")} dated works per decade, from the Bengal Renaissance to the reform era and beyond
+            {datedWorksCount.toLocaleString("en-IN")} of {allWorks.length.toLocaleString("en-IN")} works carry a date, from the Bengal Renaissance to the reform era and beyond
           </span>
           <span>{decadeMax}s</span>
         </figcaption>
