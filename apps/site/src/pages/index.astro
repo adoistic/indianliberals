@@ -12,6 +12,7 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { getPeriodicalSeries } from "~/lib/periodicals";
 import { isListed } from "~/lib/listable";
+import { isCanonThinker } from "~/lib/canon";
 
 const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 
@@ -21,7 +22,7 @@ const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 // and their own pages, but they are not surfaced on the landing imagery — the
 // emphasis belongs to the Indian tradition (Adnan, 2026-07).
 const featuredThinkers = allThinkers
-  .filter((t) => t.data.featured && t.data.portrait?.duotone && t.data.nationality === "india")
+  .filter((t) => isCanonThinker(t) && t.data.portrait?.duotone)
   .sort((a, b) => (a.data.birth_year ?? 9999) - (b.data.birth_year ?? 9999));
 
 // Latest 6 ThePrint articles, links go out to theprint.in (the canonical

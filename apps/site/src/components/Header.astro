@@ -18,6 +18,7 @@ import Search from "~/components/Search.astro";
 import { getCollection } from "astro:content";
 import { EVENT_KIND } from "~/lib/events";
 import { isListed } from "~/lib/listable";
+import { isCanonThinker } from "~/lib/canon";
 
 const works = await getCollection("primary-works", isListed);
 const thinkers = await getCollection(
@@ -28,7 +29,9 @@ const musings = await getCollection("musings", (m) => !m.data.draft);
 const opinions = await getCollection("opinions", (o) => !o.data.draft);
 const theprint = await getCollection("theprint-mirror", (p) => !p.data.draft);
 
-const featuredCount = thinkers.filter((t) => t.data.featured).length;
+// Must match what /thinkers/ actually renders, hence the shared predicate:
+// counting bare `featured` here said 28 while the page showed 23.
+const canonCount = thinkers.filter(isCanonThinker).length;
 const interviewCount = works.filter((w) => w.data.work_type === "interview").length;
 const lectureCount = works.filter((w) => w.data.work_type === "lecture").length;
 const periodicalCount = works.filter((w) => w.data.work_type === "periodical_issue").length;
@@ -42,7 +45,10 @@ const nonEnglishWorkCount =
   works.filter((w) => w.data.publication?.language && w.data.publication.language !== "en")
     .length + theprint.filter((p) => p.data.language && p.data.language !== "en").length;
 
-type NavItem = { label: string; href: string; desc: string; count: number };
+// `count` is optional: the About cluster holds pages that are not collections
+// (About Us) or are not built yet (Gallery, Testimonials, Contact), and a
+// hard-coded "0" beside them would read as an empty section rather than a page.
+type NavItem = { label: string; href: string; desc: string; count?: number };
 type NavGroup = { id: string; label: string; items: NavItem[] };
 
 const groups: NavGroup[] = [
@@ -96,7 +102,7 @@ const groups: NavGroup[] = [
         label: "Thinkers",
         href: "/thinkers/",
         desc: "The curated canon, alphabetically",
-        count: featuredCount,
+        count: canonCount,
       },
       // "Full directory" (/thinkers/directory/) is intentionally hidden from
       // the nav per CCS direction; the page still builds and is reachable by
@@ -119,12 +125,10 @@ const groups: NavGroup[] = [
         desc: "Essays and tributes from the archive",
         count: opinions.filter((o) => o.data.kind !== EVENT_KIND).length,
       },
-      {
-        label: "Events",
-        href: "/events/",
-        desc: "The annual lecture, essay contests, and public debates",
-        count: opinions.filter((o) => o.data.kind === EVENT_KIND).length,
-      },
+      // Events moved to the About cluster (Adnan, 2026-08): it is programme
+      // rather than argument, and sits with the rest of "who we are and what
+      // we run". The page itself stays at /events/ — only its home in the nav
+      // changed, so no URL, redirect, or link anywhere else is affected.
       {
         label: "From ThePrint",
         href: "/theprint-mirror/",
@@ -133,12 +137,43 @@ const groups: NavGroup[] = [
       },
     ],
   },
+  {
+    id: "about",
+    label: "About",
+    items: [
+      {
+        label: "About Us",
+        href: "/about/",
+        desc: "What this archive is, and how it is built",
+      },
+      {
+        label: "Gallery",
+        href: "/gallery/",
+        desc: "Photographs from the archive and its events",
+      },
+      {
+        label: "Events",
+        href: "/events/",
+        desc: "The annual lecture, essay contests, and public debates",
+        count: opinions.filter((o) => o.data.kind === EVENT_KIND).length,
+      },
+      {
+        label: "Testimonials",
+        href: "/testimonials/",
+        desc: "What readers and scholars say about the archive",
+      },
+      {
+        label: "Contact Us",
+        href: "/contact/",
+        desc: "Reach the team behind the archive",
+      },
+    ],
+  },
 ];
 
 const path = Astro.url.pathname;
 const isActive = (href: string) => path === href || (href !== "/" && path.startsWith(href));
 const groupActive = (g: NavGroup) => g.items.some((i) => isActive(i.href));
-const aboutActive = isActive("/about/");
 ---
 
 <header class="sticky top-0 z-50 bg-(--color-bg)/95 backdrop-blur-sm supports-[backdrop-filter]:bg-(--color-bg)/80">
@@ -209,9 +244,11 @@ const aboutActive = isActive("/about/");
                         </span>
                         <span class="block text-xs text-(--color-fg-muted) mt-0.5 leading-snug">{item.desc}</span>
                       </span>
-                      <span class="shrink-0 text-xs tabular-nums text-(--color-fg-muted) font-(family-name:--font-mono)">
-                        {item.count.toLocaleString("en-IN")}
-                      </span>
+                      {item.count !== undefined && (
+                        <span class="shrink-0 text-xs tabular-nums text-(--color-fg-muted) font-(family-name:--font-mono)">
+                          {item.count.toLocaleString("en-IN")}
+                        </span>
+                      )}
                     </a>
                   </li>
                 ))}
@@ -219,18 +256,6 @@ const aboutActive = isActive("/about/");
             </div>
           </div>
         ))}
-        <a
-          href="/about/"
-          aria-current={aboutActive ? "page" : undefined}
-          class:list={[
-            "px-3 py-2 text-sm rounded-full no-underline transition-colors",
-            aboutActive
-              ? "text-(--color-saffron-700) font-semibold"
-              : "text-(--color-fg-muted) hover:text-(--color-fg)",
-          ]}
-        >
-          About
-        </a>
       </nav>
 
       <div class="flex items-center gap-2">
@@ -275,23 +300,17 @@ const aboutActive = isActive("/about/");
                       isActive(item.href) ? "text-(--color-saffron-700)" : "text-(--color-fg)",
                     ]}
                   >{item.label}</span>
-                  <span class="text-xs tabular-nums text-(--color-fg-muted) font-(family-name:--font-mono)">
-                    {item.count.toLocaleString("en-IN")}
-                  </span>
+                  {item.count !== undefined && (
+                    <span class="text-xs tabular-nums text-(--color-fg-muted) font-(family-name:--font-mono)">
+                      {item.count.toLocaleString("en-IN")}
+                    </span>
+                  )}
                 </a>
               </li>
             ))}
           </ul>
         </div>
       ))}
-      <a href="/about/" class="py-1 no-underline">
-        <span
-          class:list={[
-            "text-[15px] font-(family-name:--font-display) font-semibold",
-            aboutActive ? "text-(--color-saffron-700)" : "text-(--color-fg)",
-          ]}
-        >About</span>
-      </a>
     </div>
   </nav>
 

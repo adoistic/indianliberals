@@ -1,0 +1,77 @@
+---
+// Placeholder for a section that has a home in the nav but no content yet
+// (Gallery, Testimonials, Contact Us — requested 2026-08).
+//
+// Deliberately a real page rather than a dead nav link: a reader who clicks
+// Gallery should land somewhere that tells them what will be there and gives
+// them a way back into the archive, not a 404. `noindex` keeps these thin
+// pages out of search results until they carry something worth finding.
+//
+// Replacing one is a normal page write: delete the <ComingSoon> wrapper and
+// build the section. Nothing else in the nav needs to change.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { breadcrumbNode } from "~/lib/schema";
+
+interface Props {
+  /** Section name, e.g. "Gallery". Used in the <h1> and the page title. */
+  title: string;
+  /** URL path of this page, e.g. "/gallery/". */
+  path: string;
+  /** One sentence on what this section will hold, in the site's voice. */
+  blurb: string;
+}
+
+const { title, path, blurb } = Astro.props;
+
+// Somewhere to go instead of the back button.
+const elsewhere = [
+  { label: "About the archive", href: "/about/" },
+  { label: "Events", href: "/events/" },
+  { label: "Primary works", href: "/primary-works/" },
+  { label: "Thinkers", href: "/thinkers/" },
+].filter((l) => l.href !== path);
+---
+
+<BaseLayout
+  noindex
+  schema={[
+    breadcrumbNode([
+      ["Home", "/"],
+      [title, path],
+    ]),
+  ]}
+  title={`${title} · Indian Liberals`}
+  description={blurb}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        Coming soon
+      </p>
+      <h1 class="text-(--color-fg) mb-4">{title}</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{blurb}</p>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12">
+    <div class="max-w-prose">
+      <p class="text-(--color-fg-muted) leading-relaxed">
+        This section is being prepared and will open here. In the meantime, the
+        rest of the archive is open:
+      </p>
+      <ul class="mt-5 flex flex-wrap gap-3 font-(family-name:--font-ui) list-none pl-0">
+        {elsewhere.map((l) => (
+          <li>
+            <a
+              href={l.href}
+              class="inline-block px-4 py-2 text-sm rounded-full border border-(--color-border) no-underline text-(--color-fg) hover:border-(--color-saffron-500) hover:text-(--color-saffron-700) transition-colors"
+            >
+              {l.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</BaseLayout>

@@ -17,6 +17,7 @@ import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { getThinkerStats, type ThinkerStat } from "~/lib/thinker-stats";
+import { isCanonThinker } from "~/lib/canon";
 
 const allThinkers = await getCollection(
   "thinkers",
@@ -24,22 +25,27 @@ const allThinkers = await getCollection(
 );
 const stats = await getThinkerStats();
 
-const featured = allThinkers.filter((t) => t.data.featured);
-// Alphabetical by sort name, so "M. N. Roy" files under R (CCS round-3
-// feedback, 5.4). This page used to run chronologically, which read as the
-// story of the tradition but made a named person hard to find; a reader who
-// arrives looking for one thinker should not have to know which decade they
-// belong to. The birth years are still shown on every card, and the timeline
-// on the home page still carries the chronology.
-const byName = (a: typeof featured[number], b: typeof featured[number]) =>
-  a.data.name.sort.localeCompare(b.data.name.sort, "en");
-const canon = featured.filter((t) => t.data.nationality === "india").sort(byName);
-// International influences (Mill, Hayek, Mises, Friedman, Bauer) stay in the
-// archive and the unified search below, but are no longer shown on this page:
-// the Indian liberals themselves are the canon this page presents (Adnan,
-// 2026-07). They remain reachable via search and their own detail pages.
-
-const directoryCount = allThinkers.length;
+// Alphabetical by the name as displayed, i.e. by first name: "Dadabhai
+// Naoroji" files under D, not N (Adnan, 2026-08). This supersedes the earlier
+// sort-name ordering from CCS round-3 feedback 5.4, which filed everyone under
+// their surname while the card showed the full name — so the eye scanned for
+// "Dadabhai" down a column that was actually ordered by "Naoroji", and the
+// sequence looked arbitrary. Sorting on the string a reader can actually see
+// is the intuitive thing. `name.sort` is untouched and still available for any
+// index that genuinely wants surname order.
+//
+// The page used to run chronologically, which read as the story of the
+// tradition but made a named person hard to find. Birth years are still on
+// every card, and the home-page timeline still carries the chronology.
+//
+// Membership is `isCanonThinker`: featured + Indian. The international
+// influences (Mill, Hayek, Mises, Friedman, Bauer) stay in the archive, in the
+// search below, and on their own detail pages, but this page presents the
+// Indian canon (Adnan, 2026-07). The nav count reads the same predicate, so
+// the number beside "Thinkers" and the list here cannot disagree.
+const byFirstName = (a: typeof allThinkers[number], b: typeof allThinkers[number]) =>
+  a.data.name.canonical.localeCompare(b.data.name.canonical, "en");
+const canon = allThinkers.filter(isCanonThinker).sort(byFirstName);
 
 // Unified people search: the canon page only *shows* the curated list, but
 // search must cover the entire thinkers database (CCS round-2 feedback:
@@ -132,12 +138,12 @@ const prettifyVocation = (v: string): string => {
       {/* Unified people search, covers the whole database, not just this page */}
       <div class="mt-6 max-w-md font-(family-name:--font-ui)" data-pagefind-ignore>
         <label class="relative block">
-          <span class="sr-only">Search all {directoryCount} people in the archive</span>
+          <span class="sr-only">Search people in the archive</span>
           <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" class="absolute left-3 top-1/2 -translate-y-1/2 text-(--color-fg-muted)"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
           <input
             id="people-search"
             type="search"
-            placeholder={`Search all ${directoryCount} people, canon, extended, referenced…`}
+            placeholder="Search people"
             autocomplete="off"
             aria-describedby="people-search-hint"
             class="w-full pl-9 pr-3 py-2 text-sm bg-(--color-bg) border border-(--color-border) rounded-full outline-none focus:border-(--color-saffron-500) transition-colors"

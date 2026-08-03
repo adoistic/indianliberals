@@ -41,9 +41,14 @@ export default defineConfig({
       // the SEO weight); listing them in the sitemap contradicts that signal
       // and triggers "submitted URL marked noindex" warnings. The section
       // landing page stays.
+      //
+      // The coming-soon placeholders (Gallery, Testimonials, Contact Us) are
+      // noindex for the same reason — they hold no content yet — so they are
+      // excluded here too. Drop the path from this list when its section ships.
       filter: (page) =>
-        !page.includes('/theprint-mirror/') ||
-        page.endsWith('/theprint-mirror/'),
+        (!page.includes('/theprint-mirror/') ||
+          page.endsWith('/theprint-mirror/')) &&
+        !/\/(gallery|testimonials|contact)\/$/.test(page),
       // Emit hreflang alternates per Google's multilingual guidelines.
       // Each URL in the sitemap gets <xhtml:link rel="alternate" hreflang="X">
       // for every available language version. We provide the map directly so
