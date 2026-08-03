@@ -366,10 +366,13 @@ const primaryWorks = defineCollection({
         page_count_visible: z.number().int().optional(),  // legacy v1.0 field — superseded by pages_rendered/total
         pages_rendered: z.number().int().optional(),  // v1.2 D1 — pages the model actually saw across all chunks
         pages_total: z.number().int().optional(),  // v1.2 D1 — total page count of the source PDF
-        pages_total_source: z.enum(['pypdfium2', 'pdfinfo', 'toc_max', 'unknown']).optional(),  // v1.2 D1 provenance
+        pages_total_source: z.enum(['pypdfium2', 'pdfinfo', 'pypdf', 'toc_max', 'unknown']).optional(),  // v1.2 D1 provenance
         // 'pdfinfo' added 2026-07-27: the re-extraction of the contaminated
         // Indian Libertarian issues counted pages with pdfinfo, and recording
         // which tool produced the count is the point of this field.
+        // 'pypdf' added 2026-08-03: the two Forum of Free Enterprise pamphlets
+        // that never carried a count were measured off the R2 copy with pypdf,
+        // so the archive-wide page total covers every PDF we serve.
         format: z.string().optional(),
       })
       .optional(),
@@ -543,7 +546,7 @@ const periodicals = defineCollection({
         page_count_visible: z.number().int().optional(),  // legacy v1.0 field
         pages_rendered: z.number().int().optional(),  // v1.2 D1
         pages_total: z.number().int().optional(),  // v1.2 D1
-        pages_total_source: z.enum(['pypdfium2', 'pdfinfo', 'toc_max', 'unknown']).optional(),  // v1.2 D1
+        pages_total_source: z.enum(['pypdfium2', 'pdfinfo', 'pypdf', 'toc_max', 'unknown']).optional(),  // v1.2 D1
         format: z.string().optional(),
       })
       .optional(),

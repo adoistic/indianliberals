@@ -15,6 +15,9 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: unknown
+physical:
+  pages_total: 24
+  pages_total_source: pypdf
 pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/market-by-the-dock-by-pt-bauer-january-1981.pdf
 cover_image: "https://archive.indianliberals.in/covers/market-by-the-dock-by-pt-bauer-january-1981.webp"
 rights:

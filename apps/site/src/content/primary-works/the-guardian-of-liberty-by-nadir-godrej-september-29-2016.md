@@ -24,6 +24,9 @@ provenance:
   source: ccs_archive
   notes: filename-attested stub; source PDF not yet imported
   scan_quality: unknown
+physical:
+  pages_total: 8
+  pages_total_source: pypdf
 pdf_url: https://archive.indianliberals.in/forum-of-free-enterprise/the-guardian-of-liberty-by-nadir-godrej-september-29-2016.pdf
 cover_image: "https://archive.indianliberals.in/covers/the-guardian-of-liberty-by-nadir-godrej-september-29-2016.webp"
 rights:

@@ -41,7 +41,22 @@ const allMusings = await getCollection("musings", (m) => !m.data.draft);
 const allOpinions = await getCollection("opinions", (o) => !o.data.draft);
 const interviewCount = allWorks.filter((w) => w.data.work_type === "interview").length;
 const periodicalCount = allWorks.filter((w) => w.data.work_type === "periodical_issue").length;
-const stats = [
+
+// Pages held in the scanned archive. Every listed work that has a PDF now
+// carries a measured `physical.pages_total` (pypdfium2 at extraction time,
+// pdfinfo for the re-extracted Indian Libertarian issues, pypdf for the last
+// two Forum of Free Enterprise pamphlets), so this sum is the real extent of
+// the scans and not an estimate. The works without a PDF — the recorded
+// interviews and lectures — contribute nothing, which is correct: they have
+// no pages. If a future ingest lands a PDF without a count, this figure
+// quietly undercounts rather than inventing pages.
+const pdfWorks = allWorks.filter((w) => w.data.pdf_url);
+const pageTotal = pdfWorks.reduce(
+  (sum, w) => sum + (w.data.physical?.pages_total ?? w.data.physical?.page_count ?? 0),
+  0,
+);
+
+const stats: { value: number; label: string; href?: string }[] = [
   { value: allWorks.length, label: "Primary works", href: "/primary-works/" },
   { value: periodicalCount, label: "Periodical issues", href: "/periodicals/" },
   { value: interviewCount, label: "Interviews", href: "/interviews/" },
@@ -57,6 +72,10 @@ const stats = [
     label: "Excerpts & opinions",
     href: "/opinions/",
   },
+  // The one tile that is a fact rather than a doorway: there is no "pages"
+  // section to send a reader to, and pointing it at /primary-works/ would
+  // give the row two tiles with the same destination.
+  { value: pageTotal, label: "Pages scanned" },
   // The Organisations tile is out while the section is hidden (CCS round-3
   // feedback, 5.3). Leaving the archive's largest doorway into a hidden
   // section on the landing page would have made "hidden" mean nothing. The
@@ -231,27 +250,42 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         </p>
       </div>
 
-      {/* Key numbers, each links into its section of the archive */}
-      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 lg:divide-x divide-(--color-border)" data-reveal style="--reveal-delay: 80ms">
-        {stats.map((s) => (
-          <div class="lg:px-6 first:lg:pl-0 last:lg:pr-0 py-2 lg:py-0">
-            <a href={s.href} class="group block no-underline">
-              {/* The final number is what is rendered. The count-up (CCS
-                  round-3 feedback, 2.1c) only runs where JS is present and
-                  motion is welcome, so a reader without either, or a crawler,
-                  still gets the real figure and never a zero. */}
-              <dd
-                data-countup={s.value}
-                class="font-(family-name:--font-display) font-semibold text-4xl md:text-[2.75rem] leading-none text-(--color-fg) tabular-nums group-hover:text-(--color-saffron-700) transition-colors"
-              >
-                {s.value.toLocaleString("en-IN")}
-              </dd>
-              <dt class="mt-2 text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) group-hover:text-(--color-fg) transition-colors">
-                {s.label} <span aria-hidden class="opacity-0 group-hover:opacity-100 transition-opacity">→</span>
-              </dt>
-            </a>
-          </div>
-        ))}
+      {/* Key numbers. Most link into their section of the archive; the pages
+          figure is a plain stat, so it renders without link affordances. */}
+      <dl class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 lg:divide-x divide-(--color-border)" data-reveal style="--reveal-delay: 80ms">
+        {stats.map((s) => {
+          const Cell = s.href ? "a" : "div";
+          return (
+            <div class="lg:px-4 first:lg:pl-0 last:lg:pr-0 py-2 lg:py-0">
+              <Cell href={s.href} class="group block no-underline">
+                {/* The final number is what is rendered. The count-up (CCS
+                    round-3 feedback, 2.1c) only runs where JS is present and
+                    motion is welcome, so a reader without either, or a crawler,
+                    still gets the real figure and never a zero. */}
+                <dd
+                  data-countup={s.value}
+                  class:list={[
+                    "font-(family-name:--font-display) font-semibold text-4xl md:text-[2.75rem] lg:text-[2rem] xl:text-[2.4rem] leading-none text-(--color-fg) tabular-nums transition-colors",
+                    s.href && "group-hover:text-(--color-saffron-700)",
+                  ]}
+                >
+                  {s.value.toLocaleString("en-IN")}
+                </dd>
+                <dt
+                  class:list={[
+                    "mt-2 text-xs uppercase tracking-wider text-(--color-fg-muted) font-(family-name:--font-ui) transition-colors",
+                    s.href && "group-hover:text-(--color-fg)",
+                  ]}
+                >
+                  {s.label}{" "}
+                  {s.href && (
+                    <span aria-hidden class="opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+                  )}
+                </dt>
+              </Cell>
+            </div>
+          );
+        })}
       </dl>
 
       {/* Works per decade, the corpus drawn as a shelf of bars */}
