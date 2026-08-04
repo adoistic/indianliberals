@@ -16,9 +16,12 @@ the few-KB fragments it needs.
 python3 scripts/fulltext/export-works-meta.py works_meta.json
 
 # 2. Per-page text of every PDF -> fulltext.jsonl (~100 MB, keep out of git).
-#    The extractor lives in the session scratchpad (extract_fulltext.py); it
-#    streams each pdf_url and writes {"key", "pages": [...]} per line.
-#    It is resumable - rerunning only fetches works missing from the JSONL.
+#    A gzipped copy of the current corpus lives at
+#    https://archive.indianliberals.in/search/corpus.jsonl.gz - download and
+#    gunzip it, then extract text for NEW works only and append lines
+#    ({"key": "<r2 key>", "pages": ["page text", ...]}, one JSON per line;
+#    PyMuPDF page.get_text("text") per page). Re-upload the refreshed
+#    corpus.jsonl.gz alongside the rebuilt bundle.
 
 # 3. Build the Pagefind bundle
 node scripts/fulltext/build-index.mjs works_meta.json fulltext.jsonl search_bundle
