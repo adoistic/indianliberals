@@ -1,0 +1,436 @@
+---
+// /search/ — advanced full-text search across the archive's source documents.
+//
+// This is a different thing from the header quick search. That one queries the
+// site-build Pagefind index: page metadata, summaries, clean-text content. This
+// page queries a second, independently built Pagefind bundle whose records are
+// the FULL TEXT of every PDF in the archive (1,455 works, ~36,500 pages,
+// five languages), built by scripts/fulltext/build-index.mjs and hosted on
+// Cloudflare R2 behind archive.indianliberals.in/search/. Static files, zero
+// query-time compute; the client fetches only the few-KB fragments a query
+// needs, so it is fast and costs nothing to run.
+//
+// Search modes: all words (Pagefind's default AND), any word (per-word
+// searches merged client-side), exact phrase (Pagefind quoted search).
+// Filters mirror /primary-works/: type, language, decade, collection, theme —
+// but come from the index itself via pagefind.filters(), so this page needs no
+// build-time knowledge of the corpus.
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { breadcrumbNode } from "~/lib/schema";
+import { ogSection } from "~/lib/og";
+
+const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
+---
+
+<BaseLayout
+  schema={[
+    breadcrumbNode([
+      ["Home", "/"],
+      ["Search", "/search/"],
+    ]),
+  ]}
+  ogImage={ogSection("primary-works")}
+  title="Full-text search · Indian Liberals"
+  description="Search inside every digitised document in the archive: 1,455 works and 36,000+ pages of pamphlets, books and periodicals, across English, Marathi, Hindi, Gujarati and Bengali."
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-5xl px-6 py-16">
+      <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
+        The archive
+      </p>
+      <h1 class="text-(--color-fg) leading-tight">Search the full text</h1>
+      <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
+        Every word of every digitised document: the pamphlets, books, speeches
+        and periodical issues, in English, Marathi, Hindi, Gujarati and
+        Bengali. This searches inside the documents themselves; for thinkers,
+        themes and summaries use the quick search (<kbd class="px-1.5 py-0.5 text-xs bg-(--color-bg-muted) border border-(--color-border) rounded font-(family-name:--font-mono)">/</kbd>)
+        in the header.
+      </p>
+
+      <form id="fts-form" class="mt-8 max-w-2xl" role="search" aria-label="Full-text search">
+        <div class="flex items-center gap-3 px-4 py-3 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors shadow-sm">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-(--color-fg-muted) shrink-0" aria-hidden="true">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <label for="fts-input" class="sr-only">Search inside the documents</label>
+          <input
+            id="fts-input"
+            type="search"
+            placeholder="Search inside the documents…"
+            autocomplete="off"
+            autocapitalize="off"
+            spellcheck="false"
+            class="flex-1 bg-transparent border-0 outline-0 text-base text-(--color-fg) placeholder:text-(--color-fg-muted) font-(family-name:--font-ui)"
+          />
+          <button type="submit" class="px-4 py-1.5 text-sm font-(family-name:--font-ui) font-semibold bg-(--color-fg) text-(--color-bg) rounded-md hover:opacity-85 transition-opacity">
+            Search
+          </button>
+        </div>
+
+        {/* Match modes. "All words" is Pagefind's native AND; the other two are
+            composed client-side. Radios (not pills) because the mode changes
+            the meaning of the query, not just its scope. */}
+        <fieldset class="mt-3 flex flex-wrap gap-x-5 gap-y-2 font-(family-name:--font-ui) text-sm text-(--color-fg-muted)">
+          <legend class="sr-only">Match</legend>
+          <label class="inline-flex items-center gap-1.5 cursor-pointer hover:text-(--color-fg)">
+            <input type="radio" name="fts-mode" value="all" checked class="accent-(--color-saffron-500)" />
+            All words
+          </label>
+          <label class="inline-flex items-center gap-1.5 cursor-pointer hover:text-(--color-fg)">
+            <input type="radio" name="fts-mode" value="any" class="accent-(--color-saffron-500)" />
+            Any word
+          </label>
+          <label class="inline-flex items-center gap-1.5 cursor-pointer hover:text-(--color-fg)">
+            <input type="radio" name="fts-mode" value="phrase" class="accent-(--color-saffron-500)" />
+            Exact phrase
+          </label>
+        </fieldset>
+      </form>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12 md:grid md:grid-cols-[220px_1fr] md:gap-10">
+    {/* Filter rail — same skeleton as /primary-works/, but the chips are
+        rendered at runtime from pagefind.filters() counts. */}
+    <aside
+      class="
+        font-(family-name:--font-ui) text-sm mb-8 md:mb-0
+        md:sticky md:top-[5.5rem] md:self-start
+        md:max-h-[calc(100vh-6rem)] md:overflow-y-auto md:pr-2
+      "
+      aria-label="Filter search results"
+    >
+      <div class="flex items-baseline justify-between gap-3 mb-3 pb-3 border-b border-(--color-border)">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Filter</h2>
+        <button id="fts-reset" type="button" class="text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg) hidden">
+          Reset
+        </button>
+      </div>
+      <p id="fts-count" class="text-xs text-(--color-fg-muted) mb-5">Type a query to search.</p>
+      <div id="fts-filters"></div>
+    </aside>
+
+    {/* Results column — cover-led cards, the same card grammar as the
+        primary-works grid, with a matched-text excerpt underneath. */}
+    <div class="min-w-0">
+      <div id="fts-status" class="text-(--color-fg-muted) font-(family-name:--font-ui) text-sm py-4 hidden"></div>
+      <ul id="fts-results" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-x-5 gap-y-8 font-(family-name:--font-ui)"></ul>
+      <p id="fts-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
+        No documents match. Try fewer or different words, or switch the match mode to “Any word”.
+      </p>
+      <div class="text-center mt-10">
+        <button id="fts-more" type="button" class="hidden px-5 py-2.5 text-sm font-(family-name:--font-ui) font-semibold border border-(--color-border) rounded-md hover:border-(--color-fg) transition-colors">
+          Show more results
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script is:inline define:vars={{ INDEX_URL }}>
+    (function () {
+      const input = document.getElementById("fts-input");
+      const form = document.getElementById("fts-form");
+      const resultsEl = document.getElementById("fts-results");
+      const emptyEl = document.getElementById("fts-empty");
+      const statusEl = document.getElementById("fts-status");
+      const countEl = document.getElementById("fts-count");
+      const filtersEl = document.getElementById("fts-filters");
+      const resetBtn = document.getElementById("fts-reset");
+      const moreBtn = document.getElementById("fts-more");
+
+      const FACET_LABELS = {
+        type: "Type",
+        language: "Language",
+        decade: "Decade",
+        collection: "Collection",
+        theme: "Theme",
+      };
+      const LANG_LABELS = { en: "English", mr: "Marathi", hi: "Hindi", gu: "Gujarati", bn: "Bengali" };
+      const PAGE_SIZE = 24;
+
+      let pagefind = null;
+      const state = {
+        q: "",
+        mode: "all",
+        filters: { type: new Set(), language: new Set(), decade: new Set(), collection: new Set(), theme: new Set() },
+        results: [],
+        shown: 0,
+      };
+
+      async function ensurePagefind() {
+        if (pagefind) return pagefind;
+        statusEl.classList.remove("hidden");
+        statusEl.textContent = "Loading the search index…";
+        try {
+          const dynamicImport = new Function("url", "return import(url)");
+          // Dev backdoor: on localhost only, ?index=<url> points the page at a
+          // locally served bundle so the index can be tested before upload.
+          const override =
+            ["localhost", "127.0.0.1"].includes(location.hostname) &&
+            new URLSearchParams(location.search).get("index");
+          pagefind = await dynamicImport(override || INDEX_URL);
+          await pagefind.options({ excerptLength: 30 });
+          statusEl.classList.add("hidden");
+          return pagefind;
+        } catch (e) {
+          statusEl.textContent = "The search index could not be loaded. Please try again in a moment.";
+          console.warn("full-text index load failed", e);
+          return null;
+        }
+      }
+
+      function activeFilterObject() {
+        const out = {};
+        for (const [facet, set] of Object.entries(state.filters)) {
+          if (set.size === 1) out[facet] = [...set][0];
+          else if (set.size > 1) out[facet] = { any: [...set] };
+        }
+        return Object.keys(out).length ? out : undefined;
+      }
+
+      // "any" mode: one Pagefind search per word, merged by result id; a
+      // document matching more of the words ranks first, score breaks ties.
+      async function runAny(pf, q, filters) {
+        const words = q.split(/\s+/).filter(Boolean).slice(0, 8);
+        const merged = new Map();
+        for (const w of words) {
+          const r = await pf.search(w, { filters });
+          if (!r) continue;
+          for (const res of r.results) {
+            const prev = merged.get(res.id);
+            if (prev) {
+              prev.hits += 1;
+              prev.score += res.score;
+            } else {
+              merged.set(res.id, { result: res, hits: 1, score: res.score });
+            }
+          }
+        }
+        return [...merged.values()]
+          .sort((a, b) => b.hits - a.hits || b.score - a.score)
+          .map((x) => x.result);
+      }
+
+      let searchSeq = 0;
+      async function runSearch() {
+        const q = state.q.trim();
+        const seq = ++searchSeq;
+        if (!q) {
+          resultsEl.innerHTML = "";
+          emptyEl.classList.add("hidden");
+          moreBtn.classList.add("hidden");
+          countEl.textContent = "Type a query to search.";
+          return;
+        }
+        const pf = await ensurePagefind();
+        if (!pf || seq !== searchSeq) return;
+        countEl.textContent = "Searching…";
+        const filters = activeFilterObject();
+        let results;
+        if (state.mode === "any") {
+          results = await runAny(pf, q, filters);
+        } else {
+          const term = state.mode === "phrase" ? `"${q.replace(/"/g, "")}"` : q.replace(/"/g, "");
+          const r = await pf.search(term, { filters });
+          results = r ? r.results : [];
+        }
+        if (seq !== searchSeq) return;
+        state.results = results;
+        state.shown = 0;
+        resultsEl.innerHTML = "";
+        emptyEl.classList.toggle("hidden", results.length !== 0);
+        countEl.innerHTML =
+          results.length === 0
+            ? "No matches."
+            : `<strong class="text-(--color-fg)">${results.length.toLocaleString("en-IN")}</strong> document${results.length === 1 ? "" : "s"} match`;
+        await showMore(seq);
+        refreshFilters(pf);
+        syncURL();
+      }
+
+      async function showMore(seq) {
+        const batch = state.results.slice(state.shown, state.shown + PAGE_SIZE);
+        const data = await Promise.all(batch.map((r) => r.data()));
+        if (seq !== searchSeq) return;
+        state.shown += batch.length;
+        for (const d of data) resultsEl.insertAdjacentHTML("beforeend", card(d));
+        moreBtn.classList.toggle("hidden", state.shown >= state.results.length);
+      }
+
+      function card(d) {
+        const m = d.meta || {};
+        const title = esc(m.title || d.url);
+        const byline = esc(m.byline || "");
+        const year = esc(m.year || "");
+        const type = esc((m.type || "").replace(/_/g, " "));
+        const pagesN = m.pages ? `${esc(m.pages)} pp` : "";
+        const cover = m.image
+          ? `<img src="${escAttr(m.image)}" alt="" loading="lazy" decoding="async" class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300" />`
+          : `<div class="w-full h-full flex flex-col items-center justify-center gap-2 px-3 text-center">
+               <span aria-hidden="true" class="font-(family-name:--font-display) text-3xl text-(--color-saffron-700)/60 leading-none">${title.replace(/^(the|a|an) /i, "").charAt(0)}</span>
+               <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted)">${type}</span>
+             </div>`;
+        const pdfLink = m.pdf
+          ? `<a href="${escAttr(m.pdf)}" class="text-(--color-forest-700) hover:text-(--color-fg) no-underline" target="_blank" rel="noopener">PDF ↗</a>`
+          : "";
+        return `<li class="col-span-1">
+          <div class="group h-full flex flex-col">
+            <a href="${escAttr(d.url)}" class="block no-underline">
+              <div class="aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) transition-shadow group-hover:shadow-md relative">${cover}</div>
+              <h3 class="mt-2.5 text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-2">${title}</h3>
+            </a>
+            <p class="mt-1 text-xs text-(--color-fg-muted) leading-snug">
+              ${byline ? `<span class="line-clamp-1">${byline}</span>` : ""}
+              <span>${[year, type, pagesN].filter(Boolean).join(" · ")} ${pdfLink ? "· " + pdfLink : ""}</span>
+            </p>
+            <p class="mt-2 text-xs text-(--color-fg-muted) leading-relaxed border-l-2 border-(--color-saffron-500)/40 pl-2 [&_mark]:bg-(--color-saffron-500)/25 [&_mark]:text-inherit [&_mark]:font-semibold [&_mark]:rounded-[2px]">${d.excerpt || ""}</p>
+          </div>
+        </li>`;
+      }
+
+      // Facet chips from the index itself. Counts refresh per query
+      // (pagefind.filters() gives corpus-wide counts; per-query counts come
+      // back on the search response as totalFilters — use those when present).
+      let filtersRendered = false;
+      async function refreshFilters(pf) {
+        try {
+          const counts = await pf.filters();
+          if (!filtersRendered) {
+            renderFilterRail(counts);
+            filtersRendered = true;
+          }
+        } catch (e) {
+          console.warn("filters unavailable", e);
+        }
+      }
+
+      function renderFilterRail(counts) {
+        const order = ["type", "language", "decade", "collection", "theme"];
+        filtersEl.innerHTML = order
+          .filter((f) => counts[f] && Object.keys(counts[f]).length)
+          .map((facet) => {
+            let entries = Object.entries(counts[facet]);
+            entries = facet === "decade" || facet === "collection"
+              ? entries.sort((a, b) => a[0].localeCompare(b[0]))
+              : entries.sort((a, b) => b[1] - a[1]);
+            if (facet === "theme") entries = entries.slice(0, 30);
+            const chips = entries
+              .map(([val, n]) => {
+                const label = facet === "language" ? (LANG_LABELS[val] || val) : val.replace(/[_-]/g, " ");
+                return `<li><button type="button" class="fts-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors" data-facet="${escAttr(facet)}" data-value="${escAttr(val)}">${esc(label)} <span class="opacity-70">(${n})</span></button></li>`;
+              })
+              .join("");
+            const inner = `<ul class="flex flex-wrap gap-1.5">${chips}</ul>`;
+            if (facet === "theme" || facet === "collection") {
+              return `<details class="mb-5"><summary class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) cursor-pointer select-none hover:text-(--color-fg) mb-2">${FACET_LABELS[facet]} ▾</summary>${inner}</details>`;
+            }
+            return `<div class="mb-5"><h3 class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-2">${FACET_LABELS[facet]}</h3>${inner}</div>`;
+          })
+          .join("");
+        filtersEl.querySelectorAll(".fts-chip").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            const set = state.filters[btn.dataset.facet];
+            const v = btn.dataset.value;
+            const on = set.has(v);
+            if (on) set.delete(v); else set.add(v);
+            btn.classList.toggle("bg-(--color-saffron-500)", !on);
+            btn.classList.toggle("text-white", !on);
+            btn.classList.toggle("border-(--color-saffron-500)", !on);
+            resetBtn.classList.toggle("hidden", !anyFilterActive());
+            runSearch();
+          });
+        });
+      }
+
+      function anyFilterActive() {
+        return Object.values(state.filters).some((s) => s.size > 0);
+      }
+
+      resetBtn.addEventListener("click", () => {
+        Object.values(state.filters).forEach((s) => s.clear());
+        filtersEl.querySelectorAll(".fts-chip").forEach((btn) => {
+          btn.classList.remove("bg-(--color-saffron-500)", "text-white", "border-(--color-saffron-500)");
+        });
+        resetBtn.classList.add("hidden");
+        runSearch();
+      });
+
+      moreBtn.addEventListener("click", () => showMore(searchSeq));
+
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        state.q = input.value;
+        runSearch();
+      });
+      let debounce;
+      input.addEventListener("input", () => {
+        clearTimeout(debounce);
+        debounce = setTimeout(() => {
+          state.q = input.value;
+          runSearch();
+        }, 250);
+      });
+      document.querySelectorAll('input[name="fts-mode"]').forEach((r) => {
+        r.addEventListener("change", () => {
+          state.mode = document.querySelector('input[name="fts-mode"]:checked').value;
+          runSearch();
+        });
+      });
+
+      // The query lives in the URL: shareable, back-button-safe, and the
+      // header quick search hands off here with ?q=.
+      function syncURL() {
+        const usp = new URLSearchParams();
+        const idx = new URLSearchParams(location.search).get("index");
+        if (idx) usp.set("index", idx);
+        if (state.q.trim()) usp.set("q", state.q.trim());
+        if (state.mode !== "all") usp.set("mode", state.mode);
+        for (const [facet, set] of Object.entries(state.filters)) {
+          if (set.size) usp.set(facet, [...set].join(","));
+        }
+        const qs = usp.toString();
+        history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+      }
+
+      (function initFromURL() {
+        const usp = new URLSearchParams(location.search);
+        const q = usp.get("q");
+        const mode = usp.get("mode");
+        if (mode && ["all", "any", "phrase"].includes(mode)) {
+          state.mode = mode;
+          const radio = document.querySelector(`input[name="fts-mode"][value="${mode}"]`);
+          if (radio) radio.checked = true;
+        }
+        for (const facet of Object.keys(state.filters)) {
+          const v = usp.get(facet);
+          if (v) v.split(",").filter(Boolean).forEach((x) => state.filters[facet].add(x));
+        }
+        if (q) {
+          input.value = q;
+          state.q = q;
+          runSearch().then(() => {
+            // re-mark active chips once the rail exists
+            filtersEl.querySelectorAll(".fts-chip").forEach((btn) => {
+              if (state.filters[btn.dataset.facet]?.has(btn.dataset.value)) {
+                btn.classList.add("bg-(--color-saffron-500)", "text-white", "border-(--color-saffron-500)");
+              }
+            });
+            resetBtn.classList.toggle("hidden", !anyFilterActive());
+          });
+        } else {
+          // Pre-warm the index and show the filter rail so the page is not bare.
+          ensurePagefind().then((pf) => pf && refreshFilters(pf, ""));
+        }
+        input.focus();
+      })();
+
+      function esc(s) {
+        return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+      }
+      function escAttr(s) {
+        return esc(s).replace(/'/g, "&#39;");
+      }
+    })();
+  </script>
+</BaseLayout>

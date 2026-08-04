@@ -86,8 +86,13 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
     {/* pill needs a dedicated filter facet - deferred to the interview-detail-UI follow-up spec. */}
   </div>
   <div id="search-results" class="max-h-[60vh] overflow-y-auto"></div>
-  <p class="px-4 py-3 text-xs text-(--color-fg-muted) border-t border-(--color-border) font-(family-name:--font-ui)">
-    Tip: search runs across all languages; results are tokenised per-page using the document's <code class="font-(family-name:--font-mono)">lang</code> attribute.
+  <p class="px-4 py-3 text-xs text-(--color-fg-muted) border-t border-(--color-border) font-(family-name:--font-ui) flex items-center justify-between gap-3 flex-wrap">
+    <span>Tip: search runs across all languages; results are tokenised per-page using the document's <code class="font-(family-name:--font-mono)">lang</code> attribute.</span>
+    {/* Handoff to the full-text page: this dialog searches titles, summaries
+        and site content; /search/ searches inside the source PDFs. */}
+    <a id="search-fulltext-link" href="/search/" class="shrink-0 font-semibold text-(--color-forest-700) no-underline hover:text-(--color-fg)">
+      Search inside the documents →
+    </a>
   </p>
 </dialog>
 
@@ -237,6 +242,15 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
     }
 
     input.addEventListener("input", () => runSearch(input.value));
+
+    // Keep the full-text handoff link carrying the current query.
+    const fulltextLink = document.getElementById("search-fulltext-link") as HTMLAnchorElement | null;
+    if (fulltextLink) {
+      input.addEventListener("input", () => {
+        const q = input.value.trim();
+        fulltextLink.href = q ? `/search/?q=${encodeURIComponent(q)}` : "/search/";
+      });
+    }
 
     function escapeHtml(s: string): string {
       return s.replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c] as string));
