@@ -1,51 +1,50 @@
 ---
-id: "n-dandekar-on-the-role-of-the-indian-navy"
-title: "N. Dandekar on the Role of the Indian Navy"
-pubDate: "2024-07-05T12:49:38Z"
-themes:
-  - "governance"
-language: "en"
+id: n-dandekar-on-the-role-of-the-indian-navy
+title: N. Dandekar on the Role of the Indian Navy
+pubDate: 2024-07-05T12:49:38Z
+themes: 
+- governance
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/n-dandekar-on-the-role-of-the-indian-navy.webp"
-subject: "n-dandekar"
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "defence-policy"
-  - "naval-strategy"
-  - "non-alignment"
-key_concepts:
-  - "aggressively-defensive-posture"
-  - "swatantra-party"
-  - "two-fleets"
-  - "indo-pakistan-war-1965"
-  - "non-alignment"
+author_name: Editorial Team
+hero_image: /opinions/covers/n-dandekar-on-the-role-of-the-indian-navy.webp
+subject: n-dandekar
+source_channel: editorial-opinions
+proposed_themes: 
+- defence-policy
+- naval-strategy
+- non-alignment
+key_concepts: 
+- aggressively-defensive-posture
+- swatantra-party
+- two-fleets
+- indo-pakistan-war-1965
+- non-alignment
 pull_quote: Dandekar asserted that an appropriate posture for the armed forces would involve defence from strength.
 stance: argues-for
 kind: commentary
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "china"
-    - "pakistan"
-thinker_mentions:
-  - thinker: n-dandekar
-    role: subject
-    reasoning: "An editorial reconstruction of N. Dandekar's 1967 Lok Sabha speech, in which the Swatantra Party MP attacked India's passive naval posture after the 1965 war and laid out a programme of two fleets, aircraft-carrier-led eastern command, and fortified Andamans — a blueprint partially realised in the decades since."
-    evidence: []
-    key_passages:
-      - quote: The weaknesses in this strategic thinking were exposed by Narayan Dandekar, a Member of Parliament representing the Swatantra Party in the Lok Sabha.
-        what_it_shows: introduces Dandekar as the parliamentary voice who first challenged the post-1965 defensive naval doctrine
-      - quote: Dandekar asserted that an appropriate posture for the armed forces would involve defence from strength. He described it as an aggressively defensive posture.
-        what_it_shows: "captures his signature doctrinal contribution: 'aggressive defence' as a reframing of non-aligned security policy"
-      - quote: In his speech, Dandekar identified Pakistan and China as two hostile countries. He expected India to prepare to defend itself against these two either acting separately or jointly or simultaneously.
-        what_it_shows: shows the realist threat assessment that grounded his naval prescriptions — a two-front posture decades before it became conventional wisdom
-      - quote: The evolving role of the Indian Navy is in tandem with his approach of acting from the position of strength.
-        what_it_shows: "closing editorial verdict; vindicates Dandekar's 1967 doctrine in light of the navy's modern force posture"
+  places: 
+  - china
+  - pakistan
+thinker_mentions: 
+- thinker: n-dandekar
+  role: subject
+  reasoning: An editorial reconstruction of N. Dandekar's 1967 Lok Sabha speech, in which the Swatantra Party MP attacked India's passive naval posture after the 1965 war and laid out a programme of two fleets, aircraft-carrier-led eastern command, and fortified Andamans, a blueprint partially realised in the decades since.
+  evidence: []
+  key_passages: 
+  - quote: The weaknesses in this strategic thinking were exposed by Narayan Dandekar, a Member of Parliament representing the Swatantra Party in the Lok Sabha.
+    what_it_shows: introduces Dandekar as the parliamentary voice who first challenged the post-1965 defensive naval doctrine
+  - quote: Dandekar asserted that an appropriate posture for the armed forces would involve defence from strength. He described it as an aggressively defensive posture.
+    what_it_shows: "captures his signature doctrinal contribution: 'aggressive defence' as a reframing of non-aligned security policy"
+  - quote: In his speech, Dandekar identified Pakistan and China as two hostile countries. He expected India to prepare to defend itself against these two either acting separately or jointly or simultaneously.
+    what_it_shows: shows the realist threat assessment that grounded his naval prescriptions, a two-front posture decades before it became conventional wisdom
+  - quote: The evolving role of the Indian Navy is in tandem with his approach of acting from the position of strength.
+    what_it_shows: closing editorial verdict; vindicates Dandekar's 1967 doctrine in light of the navy's modern force posture
 related_thinkers: []
-
 ---
 
 When the world was divided between the communist and the capitalist blocs, India chose to remain non-aligned. The Indian government decided to use its resources primarily to undertake developmental programmes. Considerations of defence and security were always secondary. The accepted objective of the Indian armed forces was the defence of the country. The problems associated with strict adherence to this objective came to the fore after the Indo-Pakistan War of 1965.
@@ -70,13 +69,13 @@ In his speech, Dandekar identified Pakistan and China as two hostile countries. 
 
 - If the enemy was already present in the Bay of Bengal, the navy had to protect the commercial sea routes in the Bay of Bengal and Indian Ocean.
 
-**Centrality of Aircraft Carriers in the Fleets****
+**Centrality of Aircraft Carriers in the Fleets**
 
-**Further, N. Dandekar discussed the composition of the proposed fleet protecting the East Coast. He highlighted the need to have two aircraft carriers for the Eastern Fleet. In case having two aircraft carriers was not possible, India needed at least one aircraft carrier in the Eastern Command. The fleet would also have an appropriate number of fast, well-armed protective units for each one of these aircraft carriers. These smaller faster well-armed offensive units would include destroyers, corvettes, and frigates poised to intrude vessels and especially submarines. While surface naval units would rarely intrude into Indian waters, Dandekar raised concerns about hostile submarines moving freely through the Indian waters.
+Further, N. Dandekar discussed the composition of the proposed fleet protecting the East Coast. He highlighted the need to have two aircraft carriers for the Eastern Fleet. In case having two aircraft carriers was not possible, India needed at least one aircraft carrier in the Eastern Command. The fleet would also have an appropriate number of fast, well-armed protective units for each one of these aircraft carriers. These smaller faster well-armed offensive units would include destroyers, corvettes, and frigates poised to intrude vessels and especially submarines. While surface naval units would rarely intrude into Indian waters, Dandekar raised concerns about hostile submarines moving freely through the Indian waters.
 
-**Fortification of Andamans****
+**Fortification of Andamans**
 
-**Interestingly, Dandekar strongly recommended the fortification of Andamans. He wanted Andamans to be converted into a first-class Advance Base. He wanted this to become the Defence Ministry’s top consideration. This base would have highly trained units of the army, navy and air force. They should be constantly alert and routinely carry out combined exercises. In addition to this, he emphasised the need for the chain of airfields on the eastern coast of India from where long-range land-based reconnaissance air force units could keep an eye on incoming intruders.               
+Interestingly, Dandekar strongly recommended the fortification of Andamans. He wanted Andamans to be converted into a first-class Advance Base. He wanted this to become the Defence Ministry’s top consideration. This base would have highly trained units of the army, navy and air force. They should be constantly alert and routinely carry out combined exercises. In addition to this, he emphasised the need for the chain of airfields on the eastern coast of India from where long-range land-based reconnaissance air force units could keep an eye on incoming intruders.               
 
 **Relevance of Dandekar’s Ideas in Peacetime**
 
