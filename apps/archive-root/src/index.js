@@ -58,10 +58,26 @@ export default {
     object.writeHttpMetadata(headers);
     headers.set("etag", object.httpEtag);
     headers.set("accept-ranges", "bytes");
+    // The full-text search bundle under search/ is imported cross-origin by
+    // indianliberals.in (dynamic import of pagefind.js + fetch of its wasm and
+    // fragment files), which the browser only allows with CORS. The archive is
+    // public, so open it to any origin.
+    headers.set("access-control-allow-origin", "*");
     // The landing page changes as the archive grows; the documents never do.
+    // The search/ bundle sits in between: it is rebuilt after each ingestion.
+    // Pagefind content-hashes the filenames under fragment/ and index/, so
+    // those stay immutable; everything else in search/ (pagefind.js, the
+    // entry json, the per-language wasm) is overwritten in place on rebuild
+    // and must stay fresh.
+    const isSearchMutable =
+      key.startsWith("search/") &&
+      !key.startsWith("search/fragment/") &&
+      !key.startsWith("search/index/");
     headers.set(
       "cache-control",
-      key === INDEX_KEY ? "public, max-age=300" : "public, max-age=31536000, immutable",
+      key === INDEX_KEY || isSearchMutable
+        ? "public, max-age=300"
+        : "public, max-age=31536000, immutable",
     );
 
     // A precondition that matched: R2 returns the metadata with no body.
