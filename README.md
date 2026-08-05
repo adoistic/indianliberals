@@ -32,7 +32,7 @@ The site **builds locally and renders production-quality output**. End-to-end co
 | Search | Pagefind wired; `/` keyboard shortcut; type-filter pills; per-language tokenization (Devanagari, Gujarati, etc.). |
 | Agent layer | `.md` siblings on every Tier-A detail page (~580 files). `/llms.txt` (curated index) and `/llms-full.txt` (4 MB single-file corpus dump) emit at build time. `/AGENTS.md` documents the citation rules + tier system. |
 | ThePrint federation | RSS-ingest Cloudflare Worker scaffolded + 16/16 vitest passing. List page and homepage feed link **out** to theprint.in for humans; per-article mirror pages strip the body and keep only metadata + outbound CTA. The body is preserved in the `.md` sibling for AI agents. NOT yet deployed. |
-| Sveltia CMS auth proxy | Worker scaffolded (`apps/auth/`). NOT yet deployed. |
+| CMS | Purpose-built Thothica CMS live at `cms.indianliberals.in` (`apps/cms/`): Firebase sign-in, Firestore roles, R2 uploads, GitHub App commits. |
 
 ### What remains before launch
 
@@ -46,7 +46,6 @@ These are tracked in `docs/superpowers/specs/` and the engagement plan at `~/.gs
 3. **Day 10-13 deployment work**:
    - R2 upload of all ~944 PDFs with resumable batch script (PDFs are still on a curator's external drive)
    - Cloudflare Pages staging deploy
-   - Sveltia CMS config + GitHub OAuth app wiring
    - ThePrint cron worker deploy + secrets
    - DNS cutover prep
 
@@ -65,7 +64,7 @@ This is a deliberate list of what is NOT yet good enough. Each is either deferre
 - **125 stub thinker bios** are minimal one-liners marked `bio_source: ai_drafted_stub`. Real bios are a Phase 1.5 task.
 - **The full corpus is not yet extracted.** ~220 of ~944 PDFs are baked; the rest are still queued in the overnight runner. Bio pages will grow more works/mentions as the queue drains over the coming days.
 - **Periodicals collection is empty.** Periodical issues live inside primary-works (`work_type: periodical_issue`) and are browsable by series at `/periodicals/`; migrating them into the dedicated collection is deferred.
-- **Editorial review of AI-extracted content is sparse.** `needs_review: true` is set on AI-emitted entries to flag this; CCS editorial works through them over time via Sveltia.
+- **Editorial review of AI-extracted content is sparse.** `needs_review: true` is set on AI-emitted entries to flag this; CCS editorial works through them over time via the CMS.
 - **MCP server is live** at `mcp.indianliberals.in` (2026-07): the 8-tool surface (`get_work_metadata`, `read_clean_content`, `get_passage`, `find_related`, etc.) plus ChatGPT-connector `search`/`fetch` aliases, served as a stateless Cloudflare Worker (`apps/mcp`) over the site's build-generated `/api/*.json` endpoints — new content flows in automatically on every deploy.
 
 ## Stack
@@ -75,7 +74,7 @@ Every choice below is already in production on either [Falsafa](https://falsafa.
 | Layer | Choice |
 |---|---|
 | Site generator | Astro 5 with Cloudflare adapter |
-| CMS | Sveltia CMS (Decap rewrite, Git-based) |
+| CMS | Thothica CMS (purpose-built, Git-backed via a GitHub App; `apps/cms/`) |
 | Hosting | Cloudflare Pages + Workers + R2 |
 | Search | Pagefind with per-language analyzers |
 | Metadata extraction | Frontier LLM via headless `claude -p` CLI, parallelised, rate-limit-aware |
@@ -95,7 +94,7 @@ apps/
       components/   Cards, Search dialog, Related sections, Header, Footer
       layouts/      BaseLayout with hreflang + Pagefind body marker
   theprint-ingest/  Cloudflare Worker — daily RSS cron mirror with admin-edit guard
-  auth/             Cloudflare Worker — Sveltia OAuth proxy (scaffolded)
+  cms/              Thothica CMS — the editing interface at cms.indianliberals.in
 
 scripts/
   llm-extract/      v1.5 extraction pipeline (driver.py, run_overnight.py)

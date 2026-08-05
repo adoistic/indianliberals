@@ -17,7 +17,7 @@
  *
  * Palette derived from the project's existing brand mark (the origami
  * crane in the Indian tricolor — saffron beak, slate body, deep-green
- * legs and wing-tip). Tokens are CSS variables so Sveltia CMS can
+ * legs and wing-tip). Tokens are CSS variables so the CMS can
  * theoretically swap them at build time without code edits.
  *
  * Liberty Lighthouse pattern: typography + colour as configurable

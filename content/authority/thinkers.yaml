@@ -2,7 +2,7 @@
 #
 # Canonical IDs for every person referenced in the Indian Liberals corpus.
 # Used by the extraction pipeline to normalise author / contributor names
-# against a controlled vocabulary, and surfaced in Sveltia CMS for editors.
+# against a controlled vocabulary, and surfaced in the CMS for editors.
 #
 # Status: FIRST CUT (2026-05-16). Adnan to review, fill gaps, correct dates.
 # Entries marked [NEEDS REVIEW] need a librarian decision before locking.

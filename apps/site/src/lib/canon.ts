@@ -20,7 +20,7 @@ type CanonThinker = {
 /**
  * True when a thinker belongs on /thinkers/ and in the count that advertises it.
  *
- * `featured` is the editorial flag (Sveltia-editable, presentation-only) and
+ * `featured` is the editorial flag (CMS-editable, presentation-only) and
  * `nationality === "india"` is the this-is-the-*Indian*-liberals-archive rule
  * (Adnan, 2026-07): the international influences stay in the archive, in search
  * and on their own detail pages, but the canon page presents Indians.

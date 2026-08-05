@@ -4,7 +4,7 @@ compatibility_date = "2026-05-01"
 
 # Weekly cron — Saturdays at 04:30 UTC = 10:00 IST (CCS round-2 feedback #16b:
 # "auto-update every Saturday"). Mid-morning IST so admins see new articles
-# surface and can edit them via Sveltia before the post propagates anywhere.
+# surface and can edit them via the CMS before the post propagates anywhere.
 # Cron field order is: minute hour day-of-month month day-of-week; dow 6 = Sat.
 [triggers]
 crons = ["30 4 * * 6"]

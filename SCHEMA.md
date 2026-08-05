@@ -4,7 +4,7 @@ The cataloging schema for the Indian Liberals corpus.
 
 This document is the source of truth for two things at once:
 1. **The librarian-grade input** to the AI metadata extraction prompts in `scripts/extract.ts`.
-2. **The editor handbook** for CCS staff adding new records through Sveltia CMS.
+2. **The editor handbook** for CCS staff adding new records through the CMS.
 
 It is written in this order deliberately: extraction reads first, editors read second. If a question is unclear to either audience, the answer in this document is wrong.
 
@@ -35,7 +35,7 @@ run but are not periodical issues: the Forum of Free Enterprise booklets, the
 A. D. Shroff Memorial Lecture, the annual union-budget analyses. Before this
 they rendered as loose standalone works, because `publication.series` was
 free-text consumed by nothing but the agent API. `series_id` is a real
-`reference('series')`, so grouping is editor-controllable from Sveltia rather
+`reference('series')`, so grouping is editor-controllable from the CMS rather
 than by slug regex.
 
 **Field split on `publication`:**

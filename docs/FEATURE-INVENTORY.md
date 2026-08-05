@@ -21,7 +21,6 @@ its own roadmap.
 | `mcp.indianliberals.in` | MCP + REST + OpenAPI server, stateless Worker | `apps/mcp` |
 | `archive.indianliberals.in` | R2 bucket front (PDFs, covers, OG cards) + statistics landing page | `apps/archive-root` |
 | `www.indianliberals.in` | Canonical-host redirect Worker | `apps/www-redirect` |
-| `auth.indianliberals.in` | GitHub OAuth proxy for the legacy Sveltia CMS | `apps/auth` |
 | ThePrint ingest | Weekly RSS + WP-REST mirror, runs on GitHub Actions | `.github/workflows/theprint-ingest.yml` |
 | Content check | `astro sync` schema gate on every push and PR | `.github/workflows/content-check.yml` |
 
@@ -360,11 +359,13 @@ copied out of a browser; `finish-github-app.mjs --set` writes the secrets. Plus
 standalone tests for the private key, commits, YAML flow and quoting, and the
 Firestore rules.
 
-### Still present, superseded
+### The previous generation, removed
 
-The Sveltia CMS at `/admin/` and its OAuth proxy (`apps/auth`) are still in the
-repository, with `docs/CMS-WORKFLOW.md` describing them. They are the previous
-generation. The live editing surface is `cms.indianliberals.in`.
+The Sveltia CMS (`/admin/`), its never-deployed OAuth proxy (`apps/auth`),
+its allowlist (`data/admins.json`) and its guide (`docs/CMS-WORKFLOW.md`)
+were removed on 2026-08-05. The only editing surface is
+`cms.indianliberals.in`; git history keeps the old code if it is ever
+wanted for reference.
 
 ## Built since this list was first drawn (2026-08-05)
 

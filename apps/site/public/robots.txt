@@ -8,7 +8,6 @@
 
 User-agent: *
 Allow: /
-Disallow: /admin/
 
 # AI crawlers, explicitly welcome (redundant with * but unambiguous)
 User-agent: GPTBot

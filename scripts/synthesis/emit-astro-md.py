@@ -10,7 +10,7 @@ Frontmatter follows the Zod schemas in apps/site/src/content.config.ts.
 The body of each MD file is a "needs review" stub for now — the editorial
 team will fill bio/intro content separately. The frontmatter is the
 machine-tractable canonical record; the body is a placeholder that
-preserves enough of the AI summary to be useful for the Sveltia editor.
+preserves enough of the AI summary to be useful for the CMS editor.
 
 Usage:
     python3 scripts/synthesis/emit-astro-md.py
@@ -436,7 +436,7 @@ def emit_primary_work(slug: str) -> Path | None:
             # `rights_statement` keys are preserved for backwards compat but the
             # Zod gate is on `status`. takedown_on_request is the conservative
             # default for in-copyright works hosted under archival access;
-            # editorial can re-classify per-work in Sveltia later.
+            # editorial can re-classify per-work in the CMS later.
             "status": "takedown_on_request",
             "license": "in-copyright",
             "license_url": None,
@@ -446,7 +446,7 @@ def emit_primary_work(slug: str) -> Path | None:
         "summary": _short_summary(summ),
         # needs_review remains true: this is the editorial signal that an
         # entry is AI-extracted and hasn't had a human-reviewed pass yet.
-        # Sveltia surfaces "needs_review: true" entries to editors first.
+        # The CMS surfaces "needs_review: true" entries to editors first.
         "needs_review": True,
         # draft stays FALSE: Tier B primary works ship publicly with the
         # "metadata is AI-extracted, under editorial review" disclaimer

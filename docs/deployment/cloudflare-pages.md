@@ -73,7 +73,7 @@ Set this up once when you're ready to land on production. Every push to `main` a
    - Build output directory: `apps/site/dist`
    - Root directory: `/` (the repo root)
    - Node version: 20 (set via `NODE_VERSION=20` env var)
-5. **Environment variables:** none required for the current build. If/when secrets are added (Sveltia OAuth, etc.), set them here as Plain text or Secret.
+5. **Environment variables:** none required for the current build. If/when secrets are added, set them here as Plain text or Secret.
 6. **Deploy.** First build takes 3-5 min; subsequent builds ~2 min.
 
 Preview deploys auto-fire on PRs against `main`; they get a URL like `<commit-sha>.indianliberals.pages.dev`.
@@ -144,6 +144,5 @@ Each should return a 200 (or appropriate response) within ~200ms thanks to Cloud
 ## What's NOT deployed yet
 
 - `apps/theprint-ingest/` — daily cron worker mirroring ThePrint's RSS. Separate `wrangler deploy` from inside that directory; tests pass (16/16) but the worker is not yet pushed.
-- `apps/auth/` — Sveltia CMS OAuth proxy. Not yet deployed; not blocking the static-site preview.
 
 These are tracked as separate deployment units; both can wait for the static-site preview to land first.

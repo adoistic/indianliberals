@@ -35,7 +35,7 @@ export function rssItemToMarkdown(item: RssItem, opts: MdEmitOpts): string {
 function emitFrontmatter(item: RssItem, opts: MdEmitOpts): string {
   // Themes derive from RSS <category> tags, slugged. The Indian Liberals
   // Matter column emits topical tags ("socialism", "free-markets", etc.)
-  // that we map directly. Editorial can refine later via Sveltia.
+  // that we map directly. Editorial can refine later via the CMS.
   const themes = item.categories
     .map((c) => slugifyTheme(c))
     .filter((c, i, arr) => c && arr.indexOf(c) === i);

@@ -9,7 +9,7 @@
 // appears on two of the three.
 //
 // Membership is explicit: publication.series_id references the `series`
-// collection, so editors control it from Sveltia rather than by slug regex.
+// collection, so editors control it from the CMS rather than by slug regex.
 // publication.series stays as the free-text label printed on the item.
 
 import { getCollection, getEntry } from "astro:content";

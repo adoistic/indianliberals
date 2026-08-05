@@ -6,7 +6,7 @@
 // reserved for a future migration). We group them into named runs (series).
 //
 // Series detection is keyed FIRST on the explicit publication.issuer_id /
-// publisher_id fields (robust, editor-controllable via Sveltia) and only
+// publisher_id fields (robust, editor-controllable via the CMS) and only
 // falls back to title/slug heuristics for older issues that predate those
 // fields (CCS round-2 feedback #8: prefer an explicit field over slug regex).
 

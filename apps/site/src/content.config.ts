@@ -114,7 +114,7 @@ const thinkers = defineCollection({
     ...i18nFields,
     needs_review: z.boolean().default(false),
     ai: aiProvenance,
-    // For Sveltia editorial workflow
+    // For the CMS editorial workflow
     draft: z.boolean().default(false),
   }),
 });
@@ -172,7 +172,7 @@ const organisations = defineCollection({
     ideology: z.array(z.string()).default([]),
     // 1–2 sentence editorial description shown on the index cards and as
     // the detail-page lede. AI-drafted 2026-06 (CCS feedback item 3);
-    // editorial refines via Sveltia.
+    // editorial refines via the CMS.
     description: z.string().optional(),
     // Path under /public, e.g. "/organisations/logos/ccs.svg". Cards and
     // detail headers render a monogram tile when absent — most defunct
