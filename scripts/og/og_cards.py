@@ -433,6 +433,9 @@ def put_endpoint(endpoint: str, token: str, key: str, path: str) -> bool:
         headers={
             "X-Og-Token": token,
             "Content-Type": "application/json" if key.endswith(".json") else "image/jpeg",
+            # Cloudflare's browser integrity check 403s urllib's default
+            # agent (error 1010) before the Worker ever sees the request.
+            **UA,
         },
     )
     try:
