@@ -2,13 +2,17 @@
 // Render the TF-IDF "Related" section on a detail page.
 //
 // Reads from data/synthesis/cross-links.json via lib/cross-links.ts.
-// Renders as a labelled card list with a per-link collection chip and
-// the entry title. URL paths respect the viewer's language so users
-// stay in-locale where a translated sibling exists.
+// Each link renders as an image-led card (cover / hero / portrait looked
+// up from the target entry at build time, with an initial tile fallback)
+// plus a collection chip and the entry title - the same visual grammar as
+// the rest of the redesigned detail pages, replacing the old text-only
+// boxed rows (Adnan, 2026-08). URL paths respect the viewer's language so
+// users stay in-locale where a translated sibling exists.
 //
 // Empty entries (no related items above the MIN_SCORE threshold) render
 // nothing - no awkward "No related items" placeholder.
 
+import { getEntry } from "astro:content";
 import { getCrossLinks, urlForCrossLink, COLLECTION_LABEL, type CrossLink } from "~/lib/cross-links";
 import type { LangCode } from "~/lib/i18n";
 import { siteCopy, label as uiLabel } from "~/lib/site-copy";
@@ -32,6 +36,34 @@ const {
   limit = 5,
 } = Astro.props;
 const links: CrossLink[] = getCrossLinks(collection, slug).slice(0, limit);
+
+// Look up each target's image. Cheap: at most `limit` getEntry calls per
+// page, against collections already loaded in the build.
+type Thumb = { src: string; kind: "portrait" | "wide" } | null;
+async function thumbFor(link: CrossLink): Promise<Thumb> {
+  try {
+    const e = (await getEntry(link.collection as never, link.slug as never)) as
+      | { data: Record<string, any> }
+      | undefined;
+    if (!e) return null;
+    const d = e.data;
+    if (link.collection === "thinkers") {
+      const p = d.portrait?.caricature ?? d.portrait?.ring_portrait ?? d.portrait?.photo;
+      return p ? { src: p, kind: "portrait" } : null;
+    }
+    if (link.collection === "primary-works") {
+      return d.cover_image ? { src: d.cover_image, kind: "portrait" } : null;
+    }
+    if (link.collection === "organisations") {
+      return d.logo ? { src: d.logo, kind: "wide" } : null;
+    }
+    // musings / opinions / theprint-mirror
+    return d.hero_image ? { src: d.hero_image, kind: "wide" } : null;
+  } catch {
+    return null;
+  }
+}
+const thumbs = await Promise.all(links.map(thumbFor));
 ---
 
 {
@@ -41,19 +73,33 @@ const links: CrossLink[] = getCrossLinks(collection, slug).slice(0, limit);
         {heading}
       </h2>
       <ul class="grid sm:grid-cols-2 gap-3">
-        {links.map((link) => {
+        {links.map((link, i) => {
           const label = COLLECTION_LABEL[link.collection] ?? link.collection;
+          const thumb = thumbs[i];
           return (
             <li>
               <a
                 href={urlForCrossLink(link, viewerLang)}
-                class="block p-3 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-colors group"
+                class="flex items-center gap-3 p-2.5 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-colors group h-full"
               >
-                <span class="inline-block text-[10px] uppercase tracking-wider px-1.5 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded mr-2 text-(--color-fg-muted)">
-                  {label}
+                <span
+                  class={`${thumb?.kind === "wide" ? "w-16 aspect-[16/10]" : "w-10 aspect-[3/4]"} shrink-0 rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center`}
+                >
+                  {thumb ? (
+                    <img src={thumb.src} alt="" loading="lazy" decoding="async" class="w-full h-full object-cover object-top" />
+                  ) : (
+                    <span aria-hidden="true" class="font-(family-name:--font-display) text-base text-(--color-saffron-700)/50 leading-none">
+                      {link.title.replace(/^(the|a|an) /i, "").charAt(0)}
+                    </span>
+                  )}
                 </span>
-                <span class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-sm">
-                  {link.title}
+                <span class="min-w-0">
+                  <span class="block text-[10px] uppercase tracking-wider text-(--color-fg-muted) mb-0.5">
+                    {label}
+                  </span>
+                  <span class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-sm leading-snug line-clamp-2">
+                    {link.title}
+                  </span>
                 </span>
               </a>
             </li>

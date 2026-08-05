@@ -1,0 +1,61 @@
+---
+// CollapsibleBio.astro - collapses long biography/history prose to a
+// readable height with a fade + toggle. Shared by ThinkerDetail and
+// OrganisationDetail.
+//
+// The script only activates the collapse when the rendered prose
+// meaningfully exceeds the cap, so short bios never show the button;
+// without JS the prose simply stays fully expanded. One instance per
+// page (fixed element ids).
+
+interface Props {
+  /** Toggle label while collapsed, e.g. "Read the full biography". */
+  moreLabel?: string;
+}
+
+const { moreLabel = "Read the full biography" } = Astro.props;
+---
+
+<div class="prose-container">
+  <div id="page-bio" class="relative">
+    <slot />
+    <div id="page-bio-fade" class="hidden absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-(--color-bg) to-transparent pointer-events-none" aria-hidden="true"></div>
+  </div>
+  <button
+    id="page-bio-toggle"
+    type="button"
+    aria-expanded="false"
+    data-more-label={moreLabel}
+    class="hidden mt-3 px-4 py-2 text-sm font-(family-name:--font-ui) font-semibold border border-(--color-border) rounded-md text-(--color-fg) hover:border-(--color-fg) transition-colors"
+  >
+    {moreLabel}
+  </button>
+</div>
+
+<script is:inline>
+  (function () {
+    const bio = document.getElementById("page-bio");
+    const toggle = document.getElementById("page-bio-toggle");
+    const fade = document.getElementById("page-bio-fade");
+    if (!bio || !toggle || !fade) return;
+    const CAP = 416; // px, ≈ 26rem
+    if (bio.scrollHeight < CAP * 1.35) return;
+    const COLLAPSED = ["max-h-[26rem]", "overflow-hidden"];
+    let open = false;
+    function render() {
+      COLLAPSED.forEach((c) => bio.classList.toggle(c, !open));
+      fade.classList.toggle("hidden", open);
+      toggle.textContent = open ? "Show less" : toggle.dataset.moreLabel;
+      toggle.setAttribute("aria-expanded", String(open));
+    }
+    toggle.classList.remove("hidden");
+    render();
+    toggle.addEventListener("click", () => {
+      open = !open;
+      render();
+      // Collapsing can leave the viewport past the shrunken prose; bring
+      // the reader back to its top.
+      if (!open) bio.scrollIntoView({ block: "nearest" });
+    });
+  })();
+</script>

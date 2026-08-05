@@ -20,13 +20,14 @@
 //     we only add lang= where text language differs from the page language,
 //     which is only the original_script paragraph (already in English template).
 //   BOTH routes (kept as-is):
-//     - data-pagefind-filter / data-pagefind-meta on article element
+//     - PagefindFilters spans (filters + meta) inside the article element
 //     - noindex={shouldNoindex(translation_status)}
 //     - hreflangAlternates / lang / hreflang passed to BaseLayout
 //     - byline logic (resolveAuthorEntries + bylineFallback)
 //     - descriptionForMeta (200-char slice; no-summary fallback is language-neutral: fm.title.main)
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import PagefindFilters from "~/components/PagefindFilters.astro";
 import { ogWork } from "~/lib/og";
 import { workNode, breadcrumbNode } from "~/lib/schema";
 import { render } from "astro:content";
@@ -151,6 +152,25 @@ const descriptionForMeta = withheld
     ? fm.summary.slice(0, 200) + (fm.summary.length > 200 ? "…" : "")
     : fm.title.main;
 
+// Organisations tied to this work, for the org:<id> Pagefind facet that
+// scopes the organisation page's works search. Same membership rule as
+// OrganisationDetail's publishedHere: publisher, issuer, or an org that
+// authored/edited the work.
+const orgRefIds = (refs?: Array<{ collection?: string; id?: string }>) =>
+  (refs ?? [])
+    .filter((r) => r && r.collection === "organisations" && r.id)
+    .map((r) => r.id as string);
+const orgSlugs = [
+  ...new Set(
+    [
+      fm.publication?.publisher_id,
+      fm.publication?.issuer_id,
+      ...orgRefIds(fm.authors as never),
+      ...orgRefIds(fm.editors as never),
+    ].filter((s): s is string => Boolean(s)),
+  ),
+];
+
 // Slug lists for the PeopleInPiece chip section.
 const authorSlugs = authorEntries
   .filter((e): e is Extract<AuthorEntry, { kind: "thinker" }> => e.kind === "thinker")
@@ -200,9 +220,11 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"
-    data-pagefind-filter={`type:primary-work,lang:${fm.language}`}
-    data-pagefind-meta={`work_type:${fm.work_type},year:${yearStr}`}
   >
+    <PagefindFilters
+      filters={{ type: "primary-work", lang: fm.language, author: authorSlugs, org: orgSlugs }}
+      meta={{ work_type: fm.work_type, year: yearStr }}
+    />
     <header class="border-b border-(--color-border) pb-10 mb-10 md:grid md:grid-cols-[1fr_auto] md:gap-8 items-start">
       <div>
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">

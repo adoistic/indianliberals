@@ -21,7 +21,7 @@
 //     - pubDate formatted with en-IN locale.
 //     - key_concepts chips.
 //     - prose-container block with musing-specific styling.
-//     - data-pagefind-filter="type:musing,lang:X" on <article>.
+//     - PagefindFilters spans (type/lang/author) inside <article>.
 //     - noindex={shouldNoindex(translation_status)}.
 //     - hreflangAlternates / lang / hreflang passed to BaseLayout.
 //   LANG-CONDITIONAL:
@@ -31,6 +31,7 @@
 //   rely on BaseLayout's own default).
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import PagefindFilters from "~/components/PagefindFilters.astro";
 import { articleNode, breadcrumbNode } from "~/lib/schema";
 import { metaExcerpt } from "~/lib/excerpt";
 import { ogMusing } from "~/lib/og";
@@ -104,7 +105,8 @@ const descriptionForMeta = m.data.pull_quote?.trim() || metaExcerpt(m.body ?? ""
     ]),
   ]}
 >
-  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:musing,lang:${m.data.language}`}>
+  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16">
+    <PagefindFilters filters={{ type: "musing", lang: m.data.language, author: authorEntry?.id }} />
     <header class="border-b border-(--color-border) pb-8 mb-10">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
         Musing · excerpt

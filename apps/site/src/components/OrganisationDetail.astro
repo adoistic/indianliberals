@@ -6,7 +6,8 @@
 //     - full name italic paragraph (name.full when different from canonical)
 //     - Also known as line (name.also_known_as)
 //     - Works published / issued section (iterates all primary-works, filters by
-//       publisher_id or issuer_id, language-aware link via workHref helper, caps at 30)
+//       publisher_id / issuer_id / org authorship; rendered by WorksExplorer,
+//       cover-led + searchable + filterable, no cap)
 //     - Affiliated thinkers section (filters thinkers by affiliations.includes(o.id))
 //     - Ideology aside (o.data.ideology tags)
 //     - RelatedSection component
@@ -21,7 +22,7 @@
 //     div was redundant. Dropped here.
 //   BOTH routes (kept as-is):
 //     - type chip, h1 canonical name, datesStr paragraph
-//     - data-pagefind-filter type:organisation,lang:X on article element
+//     - PagefindFilters spans (type/lang) inside the article element
 //     - noindex={shouldNoindex(translation_status)}
 //     - hreflangAlternates / lang / hreflang passed to BaseLayout
 //     - prose-container block with org-specific styling class block
@@ -44,6 +45,10 @@
 //   <slug>/; English works link to /primary-works/<slug>/.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import PagefindFilters from "~/components/PagefindFilters.astro";
+import WorksExplorer from "~/components/WorksExplorer.astro";
+import CollapsibleBio from "~/components/CollapsibleBio.astro";
+import EvidenceLink from "~/components/EvidenceLink.astro";
 import { organisationDetailNode, breadcrumbNode } from "~/lib/schema";
 import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -93,7 +98,7 @@ const allWorks = await getCollection(
 // reference organisations, which the old publisher-only filter missed).
 const orgRef = (refs?: { collection: string; id: string }[]) =>
   (refs ?? []).some((r) => r.collection === "organisations" && r.id === o.id);
-const publishedHere = allWorks
+const publishedAll = allWorks
   .filter(
     (w) =>
       w.data.publication?.publisher_id === o.id ||
@@ -102,12 +107,12 @@ const publishedHere = allWorks
       orgRef(w.data.editors as never),
   )
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
-
-function workHref(w: typeof publishedHere[number]): string {
-  return w.data.language && w.data.language !== DEFAULT_LOCALE
-    ? `/${w.data.language}/primary-works/${w.id}/`
-    : `/primary-works/${w.id}/`;
-}
+// Periodical issues swamp the grid (Freedom First alone has ~1,000) and,
+// as on /primary-works/, they belong to their runs at /periodicals/. The
+// grid shows the individual documents; a note under the heading points at
+// the runs when issues exist.
+const periodicalIssues = publishedAll.filter((w) => w.data.work_type === "periodical_issue");
+const publishedHere = publishedAll.filter((w) => w.data.work_type !== "periodical_issue");
 
 const allThinkers = await getCollection(
   "thinkers",
@@ -147,9 +152,9 @@ const MENTION_LABEL: Record<string, string> = {
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"
-    data-pagefind-filter={`type:organisation,lang:${o.data.language}`}
   >
-    <header class="border-b border-(--color-border) pb-10 mb-10 flex gap-6 items-start">
+    <PagefindFilters filters={{ type: "organisation", lang: o.data.language }} />
+    <header class="border-b border-(--color-border) pb-10 mb-10 flex flex-wrap gap-6 items-start">
       <OrgMark name={o.data.name.canonical} logo={o.data.logo} class="w-16 h-16 md:w-20 md:h-20 mt-1" textClass="text-2xl" />
       <div class="min-w-0">
         <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
@@ -175,92 +180,138 @@ const MENTION_LABEL: Record<string, string> = {
           </p>
         )}
       </div>
+      {/* Stat strip: what the archive holds for this organisation, as jump
+          links. Counts reuse the section variables so they cannot disagree
+          with the headings they point at. */}
+      {(publishedAll.length > 0 || affiliatedThinkers.length > 0 || mentionedIn.length > 0) && (
+        <nav aria-label="On this page" class="basis-full flex flex-wrap gap-2 font-(family-name:--font-ui) text-sm">
+          {publishedHere.length > 0 && (
+            <a href="#works" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              <strong>{publishedHere.length}</strong> {publishedHere.length === 1 ? "work" : "works"}
+            </a>
+          )}
+          {periodicalIssues.length > 0 && (
+            <a href="/periodicals/" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              <strong>{periodicalIssues.length}</strong> periodical {periodicalIssues.length === 1 ? "issue" : "issues"}
+            </a>
+          )}
+          {affiliatedThinkers.length > 0 && (
+            <a href="#thinkers" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              <strong>{affiliatedThinkers.length}</strong> affiliated {affiliatedThinkers.length === 1 ? "thinker" : "thinkers"}
+            </a>
+          )}
+          {mentionedIn.length > 0 && (
+            <a href="#mentions" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              Mentioned in <strong>{mentionedIn.length}</strong>
+            </a>
+          )}
+        </nav>
+      )}
     </header>
 
-    <div class="prose-container">
+    {/* Long histories collapse behind a fade + toggle; see CollapsibleBio. */}
+    <CollapsibleBio moreLabel="Read the full history">
       <div class="text-(--color-fg) leading-relaxed [&_p]:my-5 [&_p]:text-[1.0625rem] [&_h2]:mt-10 [&_h2]:mb-4 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6">
         <Content />
       </div>
-    </div>
+    </CollapsibleBio>
 
-    {/* Works published by this organisation */}
-    {publishedHere.length > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border)">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
-          {label(labels, "org.works", "Works published / issued")} ({publishedHere.length})
+    {/* Works published by this organisation: the full cover-led explorer,
+        searchable and filterable, no truncation. Deep search scopes the
+        Pagefind query with the org:<id> facet emitted by PrimaryWorkDetail. */}
+    {publishedAll.length > 0 && (
+      <section id="works" class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) scroll-mt-24">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-2">
+          {label(labels, "org.works", "Works published / issued")} ({publishedHere.length > 0 ? publishedHere.length : periodicalIssues.length})
         </h2>
-        <ul class="divide-y divide-(--color-border)">
-          {publishedHere.slice(0, 30).map((w) => (
-            <li class="py-3">
-              <a href={workHref(w)} class="block no-underline group">
-                <div class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
-                  {w.data.title.main}
-                  {w.data.language && w.data.language !== DEFAULT_LOCALE && (
-                    <span class="ml-2 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded text-(--color-fg-muted)">
-                      {w.data.language}
-                    </span>
-                  )}
-                </div>
-                <div class="text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-                  {w.data.publication?.year} · {w.data.work_type.replace(/_/g, " ")}
-                </div>
-              </a>
-            </li>
-          ))}
-        </ul>
-        {publishedHere.length > 30 && (
-          <p class="mt-4 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-            …and {publishedHere.length - 30} more
+        {periodicalIssues.length > 0 && (
+          <p class="text-sm text-(--color-fg-muted) leading-relaxed mb-6 max-w-prose">
+            {periodicalIssues.length.toLocaleString("en-IN")} periodical
+            {periodicalIssues.length === 1 ? " issue is" : " issues are"} catalogued
+            under their runs in <a href="/periodicals/" class="text-(--color-forest-700)">Series &amp; periodicals</a>.
           </p>
+        )}
+        {publishedHere.length > 0 && (
+          <div class={periodicalIssues.length > 0 ? "" : "mt-4"}>
+            <WorksExplorer
+              name={o.data.name.canonical}
+              scope={{ facet: "org", id: o.id }}
+              works={publishedHere}
+            />
+          </div>
         )}
       </section>
     )}
 
-    {/* Affiliated thinkers */}
+    {/* Affiliated thinkers, with portraits so the row reads as people,
+        not a tag cloud. */}
     {affiliatedThinkers.length > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border)">
+      <section id="thinkers" class="mt-12 pt-8 border-t border-(--color-border) scroll-mt-24">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
           {label(labels, "org.thinkers", "Affiliated thinkers")} ({affiliatedThinkers.length})
         </h2>
         <ul class="flex flex-wrap gap-2 font-(family-name:--font-ui)">
-          {affiliatedThinkers.map((t) => (
-            <li>
-              <a
-                href={`/thinkers/${t.id}/`}
-                class="inline-block px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-sm text-(--color-fg) no-underline hover:border-(--color-fg)"
-              >
-                {t.data.name.canonical}
-              </a>
-            </li>
-          ))}
+          {affiliatedThinkers.map((t) => {
+            const portrait =
+              t.data.portrait?.caricature ?? t.data.portrait?.ring_portrait ?? t.data.portrait?.photo;
+            return (
+              <li>
+                <a
+                  href={`/thinkers/${t.id}/`}
+                  class="inline-flex items-center gap-2 pl-1.5 pr-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-sm text-(--color-fg) no-underline hover:border-(--color-fg)"
+                >
+                  <span class="w-6 h-6 rounded-full overflow-hidden bg-(--color-bg) border border-(--color-border) flex items-center justify-center shrink-0">
+                    {portrait ? (
+                      <img src={portrait} alt="" width="24" height="24" loading="lazy" class="w-full h-full object-cover object-top" />
+                    ) : (
+                      <span aria-hidden="true" class="text-[10px] text-(--color-fg-muted)">{t.data.name.canonical.charAt(0)}</span>
+                    )}
+                  </span>
+                  {t.data.name.canonical}
+                </a>
+              </li>
+            );
+          })}
         </ul>
       </section>
     )}
 
-    {/* Prose mentions across the archive (see ~/lib/org-mentions) */}
+    {/* Prose mentions across the archive (see ~/lib/org-mentions). Rows carry
+        the mention's cover/hero/portrait; the remainder folds into a native
+        <details> so nothing is unreachable and expansion works without JS. */}
     {mentionedIn.length > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border)">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
+      <section id="mentions" class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) scroll-mt-24">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
           {label(labels, "org.mentioned", "Mentioned in")} ({mentionedIn.length})
         </h2>
-        <ul class="divide-y divide-(--color-border)">
-          {mentionedIn.slice(0, 30).map((m) => (
-            <li class="py-3">
-              <a href={m.href} class="flex items-baseline gap-3 no-underline group">
-                <span class="shrink-0 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg-muted) border border-(--color-border) rounded text-(--color-fg-muted) font-(family-name:--font-ui)">
-                  {MENTION_LABEL[m.kind]}
-                </span>
-                <span class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors">
-                  {m.title}
-                </span>
-              </a>
-            </li>
+        <ul class="space-y-3">
+          {mentionedIn.slice(0, 12).map((m) => (
+            <EvidenceLink
+              href={m.href}
+              title={m.title}
+              badge={MENTION_LABEL[m.kind]}
+              thumb={m.image ?? null}
+              thumbKind={m.imageKind ?? "portrait"}
+            />
           ))}
         </ul>
-        {mentionedIn.length > 30 && (
-          <p class="mt-4 text-sm text-(--color-fg-muted) font-(family-name:--font-ui)">
-            …and {mentionedIn.length - 30} more
-          </p>
+        {mentionedIn.length > 12 && (
+          <details class="mt-2">
+            <summary class="cursor-pointer select-none text-sm font-semibold text-(--color-saffron-700) hover:text-(--color-fg)">
+              Show all {mentionedIn.length}
+            </summary>
+            <ul class="space-y-3 mt-3">
+              {mentionedIn.slice(12).map((m) => (
+                <EvidenceLink
+                  href={m.href}
+                  title={m.title}
+                  badge={MENTION_LABEL[m.kind]}
+                  thumb={m.image ?? null}
+                  thumbKind={m.imageKind ?? "portrait"}
+                />
+              ))}
+            </ul>
+          </details>
         )}
       </section>
     )}

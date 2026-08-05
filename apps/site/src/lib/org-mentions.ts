@@ -22,6 +22,10 @@ export interface OrgMention {
   id: string;
   title: string;
   href: string;
+  /** Thumbnail for the mention row: portrait/cover/hero, when one exists. */
+  image?: string;
+  /** portrait = 3:4 (covers, portraits); wide = 16:10 (hero images). */
+  imageKind?: "portrait" | "wide";
 }
 
 const KIND_ORDER: Record<OrgMention["kind"], number> = {
@@ -77,19 +81,39 @@ async function buildIndex(): Promise<Map<string, OrgMention[]>> {
         id: t.id,
         title: t.data.name.canonical,
         href: `/thinkers/${t.id}/`,
+        image:
+          t.data.portrait?.caricature ??
+          t.data.portrait?.ring_portrait ??
+          t.data.portrait?.photo ??
+          undefined,
+        imageKind: "portrait",
       },
     });
   }
   for (const p of await getCollection("opinions", (e) => !e.data.draft && en(e))) {
     sources.push({
       text: p.body ?? "",
-      mention: { kind: "opinion", id: p.id, title: p.data.title, href: `/opinions/${p.id}/` },
+      mention: {
+        kind: "opinion",
+        id: p.id,
+        title: p.data.title,
+        href: `/opinions/${p.id}/`,
+        image: p.data.hero_image ?? undefined,
+        imageKind: "wide",
+      },
     });
   }
   for (const m of await getCollection("musings", (e) => !e.data.draft && en(e))) {
     sources.push({
       text: m.body ?? "",
-      mention: { kind: "musing", id: m.id, title: m.data.title, href: `/musings/${m.id}/` },
+      mention: {
+        kind: "musing",
+        id: m.id,
+        title: m.data.title,
+        href: `/musings/${m.id}/`,
+        image: m.data.hero_image ?? undefined,
+        imageKind: "wide",
+      },
     });
   }
   for (const w of await getCollection("primary-works", (e) => isListed(e) && en(e))) {
@@ -100,6 +124,8 @@ async function buildIndex(): Promise<Map<string, OrgMention[]>> {
         id: w.id,
         title: w.data.title.main,
         href: `/primary-works/${w.id}/`,
+        image: w.data.cover_image ?? undefined,
+        imageKind: "portrait",
       },
     });
   }

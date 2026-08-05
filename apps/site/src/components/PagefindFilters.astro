@@ -1,0 +1,44 @@
+---
+// PagefindFilters.astro - emits search facets the ONLY way Pagefind parses.
+//
+// Pagefind (verified against 1.5.2) does NOT split data-pagefind-filter on
+// commas: the whole string after the first colon becomes a single value, so
+// the old `data-pagefind-filter="type:primary-work,lang:en"` produced the
+// garbage facet value "primary-work,lang:en" and every filtered search
+// (the header dialog's type pills included) silently returned nothing.
+// One key:value pair per element is the syntax the indexer understands.
+//
+// The spans are empty, so they contribute no indexable text; they only
+// need to sit inside the page's data-pagefind-body region.
+//
+// data-pagefind-meta has the identical no-comma-splitting behaviour, so the
+// optional `meta` prop gets the same one-pair-per-element treatment.
+//
+// Values may be a single string or an array; null/undefined entries are
+// dropped, so callers can pass optional facets without ceremony.
+
+type PairMap = Record<string, string | null | undefined | Array<string | null | undefined>>;
+
+interface Props {
+  filters?: PairMap;
+  meta?: PairMap;
+}
+
+const { filters = {}, meta = {} } = Astro.props;
+
+function toPairs(map: PairMap): Array<[string, string]> {
+  const pairs: Array<[string, string]> = [];
+  for (const [key, value] of Object.entries(map)) {
+    for (const v of Array.isArray(value) ? value : [value]) {
+      if (v) pairs.push([key, v]);
+    }
+  }
+  return pairs;
+}
+
+const filterPairs = toPairs(filters);
+const metaPairs = toPairs(meta);
+---
+
+{filterPairs.map(([k, v]) => <span data-pagefind-filter={`${k}:${v}`}></span>)}
+{metaPairs.map(([k, v]) => <span data-pagefind-meta={`${k}:${v}`}></span>)}

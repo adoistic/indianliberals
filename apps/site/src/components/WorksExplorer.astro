@@ -1,0 +1,421 @@
+---
+// WorksExplorer.astro - the searchable, filterable, cover-led grid of every
+// work tied to one person or organisation, embedded on their detail page.
+//
+// Replaces the old truncated text lists ("…and N more") on thinker and
+// organisation pages. Shows EVERY work as a WorkCard (same 3:4 grammar as
+// /primary-works/), with:
+//   - a search box: instant metadata match (title/subtitle/year/type/themes,
+//     AND-of-words against a per-card haystack), plus a debounced Pagefind
+//     query scoped via `scope` (`filters: { author: <id> }` on thinker pages,
+//     `filters: { org: <id> }` on organisation pages) that surfaces
+//     excerpt-level matches from summaries, key points, transcripts and page
+//     prose in a panel under the grid;
+//   - facet chips (Type / Decade / Language / Theme) with the same visual and
+//     JS grammar as /primary-works/: AND across facets, OR within one.
+//
+// The scope facets are emitted by PrimaryWorkDetail / OpinionDetail /
+// MusingDetail through PagefindFilters, so they only exist after a full
+// `pnpm build`; in dev the deep-search panel degrades to a hint while the
+// metadata filter keeps working.
+//
+// The whole region is data-pagefind-ignore so the owner's own search
+// record isn't polluted by 179 card titles.
+
+import type { CollectionEntry } from "astro:content";
+import WorkCard from "~/components/WorkCard.astro";
+import { pathForEntry, LANG_NAMES, type LangCode } from "~/lib/i18n";
+
+interface Props {
+  /** Display name used in the placeholder, e.g. "MA Venkata Rao". */
+  name: string;
+  /** Pagefind facet the deep search is scoped by. */
+  scope: { facet: "author" | "org"; id: string };
+  /** Primary works (callers pre-filter, e.g. thinkers exclude interviews). */
+  works: CollectionEntry<"primary-works">[];
+  /** Authored opinion pieces (thinker pages; empty for organisations). */
+  opinions?: CollectionEntry<"opinions">[];
+}
+
+const { name, scope, works, opinions = [] } = Astro.props;
+
+type Card = {
+  href: string;
+  cover: string | null;
+  title: string;
+  meta: string;
+  typeLabel: string;
+  langBadge: string | null;
+  // facet + search attributes
+  type: string;
+  decade: string;
+  lang: string;
+  themes: string[];
+  hay: string;
+  year: number | null;
+};
+
+const typeLabelOf = (t: string) => t.replace(/_/g, " ");
+
+const workCards: Card[] = works.map((w) => {
+  const year = w.data.publication?.year ?? null;
+  const lang = w.data.publication?.language ?? w.data.language ?? "en";
+  const title = w.data.title.main;
+  const typeLabel = typeLabelOf(w.data.work_type);
+  const themes = w.data.themes ?? [];
+  const hayParts = [
+    title,
+    w.data.title.subtitle,
+    w.data.title.translit,
+    w.data.title.translation,
+    year != null ? String(year) : "",
+    typeLabel,
+    ...themes.map((th) => th.replace(/[_-]/g, " ")),
+  ];
+  return {
+    href: pathForEntry("primary-works", w.id, (w.data.language ?? "en") as LangCode),
+    cover: w.data.cover_image ?? null,
+    title,
+    meta: `${year ?? "n.d."} · ${typeLabel}`,
+    typeLabel,
+    langBadge: w.data.language && w.data.language !== "en" ? w.data.language : null,
+    type: w.data.work_type,
+    decade: year != null ? String(Math.floor(year / 10) * 10) : "undated",
+    lang,
+    themes,
+    hay: hayParts.filter(Boolean).join(" ").toLowerCase(),
+    year,
+  };
+});
+
+const opinionCards: Card[] = opinions.map((o) => {
+  const year = o.data.pubDate.getFullYear();
+  const themes = o.data.themes ?? [];
+  return {
+    href: `/opinions/${o.id}/`,
+    cover: o.data.hero_image ?? null,
+    title: o.data.title,
+    meta: `${year} · opinion piece`,
+    typeLabel: "opinion piece",
+    langBadge: null,
+    type: "opinion_piece",
+    decade: String(Math.floor(year / 10) * 10),
+    lang: o.data.language ?? "en",
+    themes,
+    hay: [o.data.title, String(year), "opinion piece", ...themes.map((th) => th.replace(/[_-]/g, " "))]
+      .join(" ")
+      .toLowerCase(),
+    year,
+  };
+});
+
+// Newest first; undated works sink to the end; title breaks ties.
+const cards: Card[] = [...workCards, ...opinionCards].sort((a, b) => {
+  const ya = a.year ?? -Infinity;
+  const yb = b.year ?? -Infinity;
+  if (ya !== yb) return yb - ya;
+  return a.title.localeCompare(b.title);
+});
+
+// ─── Facet vocabularies ──────────────────────────────────────────────
+const count = (map: Map<string, number>, key: string) => map.set(key, (map.get(key) ?? 0) + 1);
+const typeCounts = new Map<string, number>();
+const decadeCounts = new Map<string, number>();
+const langCounts = new Map<string, number>();
+const themeCounts = new Map<string, number>();
+for (const c of cards) {
+  count(typeCounts, c.type);
+  count(decadeCounts, c.decade);
+  count(langCounts, c.lang);
+  for (const th of c.themes) count(themeCounts, th);
+}
+
+const typeOptions = [...typeCounts.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+const decadeOptions = [...decadeCounts.entries()].sort((a, b) => {
+  if (a[0] === "undated") return 1;
+  if (b[0] === "undated") return -1;
+  return Number(b[0]) - Number(a[0]);
+});
+const langOptions = [...langCounts.entries()].sort((a, b) => {
+  if (a[0] === "en") return -1;
+  if (b[0] === "en") return 1;
+  return b[1] - a[1];
+});
+const themeOptions = [...themeCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
+
+// A single-value facet filters nothing; hide that chip group.
+const showType = typeOptions.length > 1;
+const showDecade = decadeOptions.length > 1;
+const showLang = langOptions.length > 1;
+const showTheme = themeOptions.length > 0 && cards.filter((c) => c.themes.length > 0).length >= 2;
+const showToolbar = cards.length > 6;
+
+const chipClass =
+  "twx-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors";
+
+---
+
+<div id="twx" data-facet-key={scope.facet} data-facet-value={scope.id} data-pagefind-ignore class="font-(family-name:--font-ui)">
+  {showToolbar && (
+    <div class="mb-6">
+      <div class="flex items-center gap-3 px-3.5 py-2.5 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors max-w-xl">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-(--color-fg-muted) shrink-0" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <label for="twx-q" class="sr-only">Search within {name}'s works</label>
+        <input
+          id="twx-q"
+          type="search"
+          placeholder={`Search within ${name}'s works…`}
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          class="flex-1 bg-transparent border-0 outline-0 text-sm text-(--color-fg) placeholder:text-(--color-fg-muted)"
+        />
+      </div>
+
+      <div class="mt-4 flex flex-col gap-3 text-sm">
+        {showType && (
+          <div class="flex flex-wrap items-baseline gap-1.5">
+            <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16 shrink-0">Type</span>
+            {typeOptions.map(([t, n]) => (
+              <button type="button" data-facet="type" data-value={t} aria-pressed="false" class={chipClass}>
+                {typeLabelOf(t)} <span class="opacity-70">({n})</span>
+              </button>
+            ))}
+          </div>
+        )}
+        {showDecade && (
+          <div class="flex flex-wrap items-baseline gap-1.5">
+            <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16 shrink-0">Decade</span>
+            {decadeOptions.map(([d, n]) => (
+              <button type="button" data-facet="decade" data-value={d} aria-pressed="false" class={chipClass}>
+                {d === "undated" ? "Undated" : `${d}s`} <span class="opacity-70">({n})</span>
+              </button>
+            ))}
+          </div>
+        )}
+        {showLang && (
+          <div class="flex flex-wrap items-baseline gap-1.5">
+            <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16 shrink-0">Language</span>
+            {langOptions.map(([lang, n]) => (
+              <button type="button" data-facet="lang" data-value={lang} aria-pressed="false" class={chipClass}>
+                {LANG_NAMES[lang as LangCode]?.english ?? lang} <span class="opacity-70">({n})</span>
+              </button>
+            ))}
+          </div>
+        )}
+        {showTheme && (
+          <div class="flex flex-wrap items-baseline gap-1.5">
+            <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16 shrink-0">Theme</span>
+            {themeOptions.map(([th, n]) => (
+              <button type="button" data-facet="theme" data-value={th} aria-pressed="false" class={chipClass}>
+                {th.replace(/[_-]/g, " ")} <span class="opacity-70">({n})</span>
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
+
+      <p class="mt-4 text-xs text-(--color-fg-muted)">
+        Showing <strong id="twx-visible" class="text-(--color-fg)">{cards.length}</strong> of {cards.length}
+        <button id="twx-reset" type="button" class="hidden ml-3 text-[10px] uppercase tracking-wider text-(--color-saffron-700) font-semibold hover:text-(--color-fg)">
+          Reset
+        </button>
+      </p>
+    </div>
+  )}
+
+  <ul id="twx-grid" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-8">
+    {cards.map((c) => (
+      <li
+        class="twx-item"
+        data-type={c.type}
+        data-decade={c.decade}
+        data-lang={c.lang}
+        data-themes={c.themes.join(" ")}
+        data-hay={c.hay}
+      >
+        <WorkCard
+          href={c.href}
+          cover={c.cover}
+          title={c.title}
+          meta={c.meta}
+          typeLabel={c.typeLabel}
+          langBadge={c.langBadge}
+        />
+      </li>
+    ))}
+  </ul>
+  <p id="twx-empty" class="hidden py-10 text-center text-sm text-(--color-fg-muted)">
+    Nothing here matches. Clear the search or remove some filters.
+  </p>
+
+  {/* Excerpt-level matches from the scope-filtered Pagefind query. */}
+  <section id="twx-deep" class="hidden mt-10 pt-6 border-t border-(--color-border)" aria-live="polite">
+    <h3 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">
+      Matches inside {name}'s works and pages
+    </h3>
+    <div id="twx-deep-results" class="border border-(--color-border) rounded divide-y divide-(--color-border)"></div>
+    <p id="twx-deep-status" class="hidden text-sm text-(--color-fg-muted) py-2"></p>
+  </section>
+</div>
+
+<script is:inline>
+  (function () {
+    const root = document.getElementById("twx");
+    if (!root) return;
+    const facetKey = root.dataset.facetKey;
+    const facetValue = root.dataset.facetValue;
+    const input = document.getElementById("twx-q");
+    const items = Array.from(root.querySelectorAll(".twx-item"));
+    const visibleEl = document.getElementById("twx-visible");
+    const emptyEl = document.getElementById("twx-empty");
+    const resetBtn = document.getElementById("twx-reset");
+    const deepEl = document.getElementById("twx-deep");
+    const deepResults = document.getElementById("twx-deep-results");
+    const deepStatus = document.getElementById("twx-deep-status");
+    const chips = Array.from(root.querySelectorAll(".twx-chip"));
+
+    const state = { q: "", type: new Set(), decade: new Set(), lang: new Set(), theme: new Set() };
+    const ACTIVE = ["bg-(--color-saffron-500)", "text-white", "border-(--color-saffron-500)"];
+
+    function applyFilters() {
+      const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+      let visible = 0;
+      for (const li of items) {
+        const themes = (li.dataset.themes || "").split(/\s+/).filter(Boolean);
+        const show =
+          (state.type.size === 0 || state.type.has(li.dataset.type)) &&
+          (state.decade.size === 0 || state.decade.has(li.dataset.decade)) &&
+          (state.lang.size === 0 || state.lang.has(li.dataset.lang)) &&
+          (state.theme.size === 0 || themes.some((x) => state.theme.has(x))) &&
+          words.every((w) => (li.dataset.hay || "").includes(w));
+        li.style.display = show ? "" : "none";
+        if (show) visible++;
+      }
+      if (visibleEl) visibleEl.textContent = String(visible);
+      if (emptyEl) emptyEl.classList.toggle("hidden", visible !== 0);
+      if (resetBtn) {
+        const any =
+          state.q.trim().length > 0 ||
+          state.type.size + state.decade.size + state.lang.size + state.theme.size > 0;
+        resetBtn.classList.toggle("hidden", !any);
+      }
+    }
+
+    chips.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const set = state[btn.dataset.facet];
+        const value = btn.dataset.value;
+        if (set.has(value)) {
+          set.delete(value);
+          btn.setAttribute("aria-pressed", "false");
+          ACTIVE.forEach((c) => btn.classList.remove(c));
+        } else {
+          set.add(value);
+          btn.setAttribute("aria-pressed", "true");
+          ACTIVE.forEach((c) => btn.classList.add(c));
+        }
+        applyFilters();
+      });
+    });
+
+    if (resetBtn) {
+      resetBtn.addEventListener("click", () => {
+        state.q = "";
+        if (input) input.value = "";
+        for (const k of ["type", "decade", "lang", "theme"]) state[k].clear();
+        chips.forEach((btn) => {
+          btn.setAttribute("aria-pressed", "false");
+          ACTIVE.forEach((c) => btn.classList.remove(c));
+        });
+        applyFilters();
+        hideDeep();
+      });
+    }
+
+    // ── Deep search: author-scoped Pagefind over the site index ──────
+    let pagefind = null;
+    let pfFailed = false;
+    async function ensurePagefind() {
+      if (pagefind || pfFailed) return pagefind;
+      try {
+        const dynamicImport = new Function("url", "return import(url)");
+        pagefind = await dynamicImport("/pagefind/pagefind.js");
+      } catch (e) {
+        pfFailed = true;
+      }
+      return pagefind;
+    }
+
+    function hideDeep() {
+      if (deepEl) deepEl.classList.add("hidden");
+      if (deepResults) deepResults.innerHTML = "";
+    }
+
+    function esc(s) {
+      return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+    }
+
+    let seq = 0;
+    async function runDeepSearch() {
+      const q = state.q.trim();
+      const mySeq = ++seq;
+      if (q.length < 3) {
+        hideDeep();
+        return;
+      }
+      const pf = await ensurePagefind();
+      if (mySeq !== seq) return;
+      if (!pf) {
+        // Dev without a built index: metadata filtering above still works.
+        deepEl.classList.remove("hidden");
+        deepResults.innerHTML = "";
+        deepStatus.textContent = "Excerpt search needs the built search index (pnpm build).";
+        deepStatus.classList.remove("hidden");
+        return;
+      }
+      const r = await pf.debouncedSearch(q, { filters: { [facetKey]: facetValue } });
+      if (!r || mySeq !== seq) return;
+      const top = r.results.slice(0, 8);
+      if (top.length === 0) {
+        deepEl.classList.remove("hidden");
+        deepResults.innerHTML = "";
+        deepStatus.textContent = "No excerpt-level matches.";
+        deepStatus.classList.remove("hidden");
+        return;
+      }
+      const data = await Promise.all(top.map((x) => x.data()));
+      if (mySeq !== seq) return;
+      deepStatus.classList.add("hidden");
+      deepEl.classList.remove("hidden");
+      deepResults.innerHTML = data
+        .map((d) => {
+          const types = (d.filters && d.filters.type) || [];
+          const badge = types[0]
+            ? `<span class="text-[10px] uppercase tracking-wider px-1.5 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded mr-2">${esc(types[0].replace(/-/g, " "))}</span>`
+            : "";
+          return `<a href="${esc(d.url)}" class="block px-4 py-3 no-underline hover:bg-(--color-bg-muted)">
+            <div class="flex items-baseline gap-1 mb-1">
+              ${badge}
+              <span class="font-(family-name:--font-display) font-semibold text-(--color-fg)">${esc(d.meta && d.meta.title ? d.meta.title : d.url)}</span>
+            </div>
+            <p class="text-sm text-(--color-fg-muted) leading-snug">${d.excerpt}</p>
+          </a>`;
+        })
+        .join("");
+    }
+
+    let timer = null;
+    if (input) {
+      input.addEventListener("input", () => {
+        state.q = input.value;
+        applyFilters();
+        if (timer) clearTimeout(timer);
+        timer = setTimeout(runDeepSearch, 300);
+      });
+    }
+  })();
+</script>

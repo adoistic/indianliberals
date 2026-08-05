@@ -94,15 +94,32 @@ Evidence-bearing text lists stay (the quotes are the value), but every
 expander: first 8 rows visible, the rest inside `<details>` with summary
 "Show all N". Nothing is unreachable anymore.
 
-### 6. Pagefind author facet
+### 6. Pagefind author facet — and a production bug found on the way
 
-`data-pagefind-filter` gains `author:<thinker-id>` entries on:
+The author facet is emitted on work/opinion/musing detail pages:
 - `PrimaryWorkDetail.astro` — one per thinker in `authors[]`;
 - `OpinionDetail.astro` — the `author` contributor ref id when present;
 - `MusingDetail.astro` — the `author` thinker ref id when present.
 
-IDs (slugs), not display names: stable, no comma/escaping issues.
+IDs (slugs), not display names: stable, no escaping issues.
 The explorer queries this facet. Cost: a few bytes per page in the index.
+
+**Discovered while wiring this up (verified against Pagefind 1.5.2 with a
+minimal reproduction, and against production):** Pagefind does NOT split
+`data-pagefind-filter` on commas. `data-pagefind-filter="type:primary-work,
+lang:en"` indexes ONE filter named `type` with the garbage value
+`"primary-work,lang:en"` — so every filtered search on the live site
+(including the header search dialog's type pills) has been silently
+returning zero results. `data-pagefind-meta` mis-parses the same way.
+
+Fix: `PagefindFilters.astro`, which renders one empty
+`<span data-pagefind-filter="key:value">` per pair (the only syntax the
+indexer parses) plus the same treatment for meta pairs. All six former
+comma-syntax sites now go through it (thinker, organisation, musing,
+opinion, primary-work, theprint-mirror detail pages). The thinkers
+directory's per-row filters were removed outright: row filters merge into
+one meaningless multi-valued facet on the listing page record, and no UI
+consumes them.
 
 ## Alternatives considered
 
@@ -119,10 +136,27 @@ The explorer queries this facet. Cost: a few bytes per page in the index.
   role partition (by / excerpts / about / mentioned-in) is editorially
   meaningful and already understood by CCS.
 
+## Round 2 (same day, on Adnan's feedback)
+
+- **Organisation pages get the same treatment** (Adnan: "The same thing can
+  be done for organizations"). `ThinkerWorksExplorer` generalised into
+  `WorksExplorer` with a `scope` prop (`author:<id>` on thinker pages,
+  `org:<id>` on organisation pages); `PrimaryWorkDetail` emits the `org`
+  facet for publisher / issuer / org-author / org-editor. OrganisationDetail
+  gains the stat strip, `CollapsibleBio` ("Read the full history"), the full
+  works explorer (old cap of 30 removed), portrait chips for affiliated
+  thinkers, and thumbnail rows + `<details>` expander for prose mentions
+  (`org-mentions.ts` now carries each mention's image).
+- **De-foldering the list sections** (Adnan, with screenshots: "these two
+  sections... still use the folder style of UI"). `EvidenceLink` rows now
+  lead with a cover/hero/portrait thumbnail (initial-tile fallback keeps
+  columns aligned) and support a kind badge; `RelatedSection` renders
+  image-led cards with a collection chip instead of text-only boxed rows.
+- The bio collapse moved into a shared `CollapsibleBio.astro` used by both
+  thinker and organisation pages.
+
 ## Out of scope (follow-ups)
 
-- `OrganisationDetail.astro` has the same truncation disease; port the
-  explorer pattern there next.
-- R2 full-text author facet (above).
+- R2 full-text author/org facets (above).
 - i18n copy keys for the new labels default to English via the existing
   `label()` fallback mechanism, as elsewhere on the site.

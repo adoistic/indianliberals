@@ -12,6 +12,7 @@
 // "AI-readable, human-redirected" intent.
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
+import PagefindFilters from "~/components/PagefindFilters.astro";
 import { getCollection, getEntry } from "astro:content";
 import { hreflangAlternates } from "~/lib/i18n";
 import PeopleInPiece from "~/components/PeopleInPiece.astro";
@@ -48,7 +49,8 @@ const mentionSlugs = (p.data.thinker_mentions ?? [])
   noindex={p.data.noindex}
   ogImage={p.data.hero_image}
 >
-  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16" data-pagefind-filter={`type:theprint-mirror,lang:${p.data.language}`}>
+  <article class="mx-auto max-w-3xl px-6 py-12 md:py-16">
+    <PagefindFilters filters={{ type: "theprint-mirror", lang: p.data.language }} />
     <header class="border-b border-(--color-border) pb-8 mb-10">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
         ThePrint federated mirror

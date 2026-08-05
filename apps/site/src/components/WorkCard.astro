@@ -1,0 +1,56 @@
+---
+// WorkCard.astro - the cover-led 3:4 card used for a single work.
+//
+// Same card grammar as the /primary-works/ grid: portrait cover (or an
+// initial + type spine tile when no cover is rendered), title, meta line.
+// Pure presentation; the caller owns the surrounding <li> and any data-*
+// attributes that drive filtering.
+
+interface Props {
+  href: string;
+  cover: string | null;
+  title: string;
+  /** Meta line under the title, e.g. "1957 · pamphlet". */
+  meta: string;
+  /** Type label for the no-cover spine tile, e.g. "pamphlet". */
+  typeLabel: string;
+  /** Two-letter code shown as a corner badge for non-English works. */
+  langBadge?: string | null;
+}
+
+const { href, cover, title, meta, typeLabel, langBadge = null } = Astro.props;
+---
+
+<a href={href} class="group block no-underline h-full">
+  <div class="aspect-[3/4] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) transition-shadow group-hover:shadow-md relative">
+    {cover ? (
+      <img
+        src={cover}
+        alt=""
+        width="240"
+        height="320"
+        loading="lazy"
+        decoding="async"
+        class="w-full h-full object-cover object-top group-hover:scale-[1.02] transition-transform duration-300"
+      />
+    ) : (
+      <div class="w-full h-full flex flex-col items-center justify-center gap-2 px-3 text-center">
+        <span aria-hidden="true" class="font-(family-name:--font-display) text-3xl text-(--color-saffron-700)/60 leading-none">
+          {title.replace(/^(the|a|an) /i, "").charAt(0)}
+        </span>
+        <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted)">
+          {typeLabel}
+        </span>
+      </div>
+    )}
+    {langBadge && (
+      <span class="absolute top-1.5 right-1.5 px-1.5 py-0.5 text-[10px] uppercase tracking-wider bg-(--color-bg)/85 border border-(--color-border) rounded">
+        {langBadge}
+      </span>
+    )}
+  </div>
+  <h3 class="mt-2.5 text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-2">
+    {title}
+  </h3>
+  <p class="mt-1 text-xs text-(--color-fg-muted) leading-snug">{meta}</p>
+</a>

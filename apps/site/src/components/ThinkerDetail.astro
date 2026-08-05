@@ -24,7 +24,7 @@
 //     - portrait treatment (caricature → ring_portrait → photo fallback chain)
 //     - tradition label chip
 //     - h1 canonical name + datesStr
-//     - data-pagefind-filter type:thinker,lang:X on article element
+//     - PagefindFilters spans (type/lang) inside the article element
 //     - noindex={shouldNoindex(translation_status)}
 //     - hreflangAlternates / lang / hreflang passed to BaseLayout
 //     - prose-container block with [&_p]:my-5 styling (thinker variant, NOT the
@@ -43,6 +43,10 @@ import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
+import WorksExplorer from "~/components/WorksExplorer.astro";
+import EvidenceLink from "~/components/EvidenceLink.astro";
+import PagefindFilters from "~/components/PagefindFilters.astro";
+import CollapsibleBio from "~/components/CollapsibleBio.astro";
 import { isListed } from "~/lib/listable";
 import { siteCopy, label, fmt } from "~/lib/site-copy";
 
@@ -111,8 +115,12 @@ const contributedWorks = allWorks
     (w.data.contributors ?? []).some((c) => refMatches(c.thinker, t.id)),
   )
   .sort((a, b) => (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0));
-const musingsByThisThinker = allMusings.filter((m) => refMatches(m.data.author, t.id));
-const opinionsByThisThinker = allOpinions.filter((o) => refMatches(o.data.author, t.id));
+const musingsByThisThinker = allMusings
+  .filter((m) => refMatches(m.data.author, t.id))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const opinionsByThisThinker = allOpinions
+  .filter((o) => refMatches(o.data.author, t.id))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const theprintByThisThinker = allTheprint.filter((p) =>
   (p.data.related_thinkers ?? []).some((r) => refMatches(r, t.id))
 );
@@ -249,9 +257,9 @@ const bioSourceLabel =
 >
   <article
     class="mx-auto max-w-4xl px-6 py-12 md:py-16"
-    data-pagefind-filter={`type:thinker,lang:${t.data.language}`}
     data-pagefind-meta={`tradition:${t.data.tradition}`}
   >
+    <PagefindFilters filters={{ type: "thinker", lang: t.data.language }} />
     <header class="border-b border-(--color-border) pb-10 mb-10 grid md:grid-cols-[auto_1fr] gap-8 items-start">
       {treatment && (
         <div class="w-40 md:w-48 aspect-[3/4] bg-(--color-bg-muted) rounded-sm overflow-hidden flex items-end justify-center">
@@ -288,6 +296,33 @@ const bioSourceLabel =
           </p>
         )}
       </div>
+      {/* Stat strip: what the archive holds for this person, as jump links.
+          Counts reuse the role-partition variables above, so they cannot
+          disagree with the section headings they point at. */}
+      {(authorshipCount > 0 || excerptCount > 0 || aboutCount > 0 || mentionCount > 0) && (
+        <nav aria-label="On this page" class="md:col-span-2 flex flex-wrap gap-2 font-(family-name:--font-ui) text-sm">
+          {authorshipCount > 0 && (
+            <a href="#works" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              <strong>{authorshipCount}</strong> {authorshipCount === 1 ? "work" : "works"}
+            </a>
+          )}
+          {excerptCount > 0 && (
+            <a href="#excerpts" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              <strong>{excerptCount}</strong> {excerptCount === 1 ? "excerpt" : "excerpts"}
+            </a>
+          )}
+          {aboutCount > 0 && (
+            <a href="#about" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              <strong>{aboutCount}</strong> {aboutCount === 1 ? "piece" : "pieces"} about
+            </a>
+          )}
+          {mentionCount > 0 && (
+            <a href="#mentions" class="px-3 py-1.5 bg-(--color-bg-muted) border border-(--color-border) rounded-full no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors">
+              Mentioned in <strong>{mentionCount}</strong>
+            </a>
+          )}
+        </nav>
+      )}
     </header>
 
     {t.data.canon_status === "referenced" && (
@@ -302,11 +337,13 @@ const bioSourceLabel =
       </aside>
     )}
 
-    <div class="prose-container">
+    {/* Long bios (a handful exceed 1,000 words) collapse behind a fade +
+        "Read the full biography" toggle; see CollapsibleBio. */}
+    <CollapsibleBio>
       <div class="text-(--color-fg) leading-relaxed [&_p]:my-5 [&_p]:text-[1.0625rem] [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_ul]:my-5 [&_ul]:list-disc [&_ul]:pl-6 [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted)">
         <Content />
       </div>
-    </div>
+    </CollapsibleBio>
 
     {(t.data.themes.length > 0 || t.data.affiliations.length > 0) && (
       <aside class="mt-12 pt-8 border-t border-(--color-border) grid md:grid-cols-2 gap-8 font-(family-name:--font-ui) text-sm">
@@ -394,45 +431,20 @@ const bioSourceLabel =
     )}
 
     {/* ── Section 1: Works BY this thinker ────────────────────────── */}
+    {/* Every authored work as a cover-led card: searchable (metadata match
+        plus author-scoped Pagefind excerpts), filterable by type / decade /
+        language / theme, never truncated. See ThinkerWorksExplorer. */}
     {authorshipCount > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
+      <section id="works" class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) scroll-mt-24">
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-6">
           {fmt(label(labels, "thinker.by", "By {name} ({count})"), { name: t.data.name.canonical, count: authorshipCount })}
         </h2>
-        <div class="grid gap-6 md:grid-cols-2">
-          {worksByThisThinker.length > 0 && (
-            <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.works", "Primary works")} ({worksByThisThinker.length})</h3>
-              <ul class="space-y-2">
-                {worksByThisThinker.slice(0, 15).map((w) => (
-                  <li>
-                    <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {w.data.title.main}
-                      <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
-                    </a>
-                  </li>
-                ))}
-                {worksByThisThinker.length > 15 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {worksByThisThinker.length - 15} more</li>
-                )}
-              </ul>
-            </div>
-          )}
-          {opinionsByThisThinker.length > 0 && (
-            <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.opinions", "Opinion pieces")} ({opinionsByThisThinker.length})</h3>
-              <ul class="space-y-2">
-                {opinionsByThisThinker.map((o) => (
-                  <li>
-                    <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {o.data.title}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
-        </div>
+        <WorksExplorer
+          name={t.data.name.canonical}
+          scope={{ facet: "author", id: t.id }}
+          works={worksByThisThinker}
+          opinions={opinionsByThisThinker}
+        />
       </section>
     )}
 
@@ -441,20 +453,40 @@ const bioSourceLabel =
         here may be a quoted passage, a summary, or an editorial description,
         not necessarily prose the thinker wrote (Adnan, 2026-07). */}
     {excerptCount > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+      <section id="excerpts" class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) scroll-mt-24">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-2">
           {label(labels, "thinker.excerpts", "Excerpts")} ({excerptCount})
         </h2>
-        <p class="text-sm text-(--color-fg-muted) leading-relaxed mb-4 max-w-prose">
+        <p class="text-sm text-(--color-fg-muted) leading-relaxed mb-5 max-w-prose">
           Short passages from the archive associated with {t.data.name.canonical}.
           An excerpt may be a quoted passage, a summary, or an editorial
           description, so these are kept separate from the works {t.data.name.canonical} authored.
         </p>
-        <ul class="grid gap-x-6 gap-y-2 md:grid-cols-2">
+        <ul class="grid grid-cols-2 sm:grid-cols-3 gap-x-5 gap-y-6">
           {musingsByThisThinker.map((m) => (
             <li>
-              <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                {m.data.title}
+              <a href={`/musings/${m.id}/`} class="group block no-underline h-full">
+                <div class="aspect-[16/10] rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) transition-shadow group-hover:shadow-md">
+                  {m.data.hero_image ? (
+                    <img
+                      src={m.data.hero_image}
+                      alt=""
+                      width="320"
+                      height="200"
+                      loading="lazy"
+                      decoding="async"
+                      class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
+                    />
+                  ) : (
+                    <div class="w-full h-full flex items-center justify-center">
+                      <span aria-hidden="true" class="font-(family-name:--font-display) text-3xl text-(--color-saffron-700)/50 leading-none">"</span>
+                    </div>
+                  )}
+                </div>
+                <h3 class="mt-2 text-sm font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-snug line-clamp-2">
+                  {m.data.title}
+                </h3>
+                <p class="mt-0.5 text-xs text-(--color-fg-muted)">{m.data.pubDate.getFullYear()}</p>
               </a>
             </li>
           ))}
@@ -464,7 +496,7 @@ const bioSourceLabel =
 
     {/* ── Section 2: Profile pieces / interviews ABOUT this thinker ─── */}
     {aboutCount > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+      <section id="about" class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) scroll-mt-24">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
           {fmt(label(labels, "thinker.about", "About {name}"), { name: t.data.name.canonical })} ({aboutCount})
         </h2>
@@ -472,11 +504,20 @@ const bioSourceLabel =
           {interviewsAbout.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.interviews", "Interviews")} ({interviewsAbout.length})</h3>
-              <ul class="space-y-2">
+              <ul class="space-y-3">
                 {interviewsAbout.map((i) => (
                   <li>
-                    <a href={`/primary-works/${i.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {typeof i.data.title === "string" ? i.data.title : i.data.title?.main ?? i.id}
+                    <a href={`/primary-works/${i.id}/`} class="group flex items-start gap-3 no-underline">
+                      <span class="w-10 aspect-[3/4] shrink-0 rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center">
+                        {i.data.cover_image ? (
+                          <img src={i.data.cover_image} alt="" width="40" height="53" loading="lazy" decoding="async" class="w-full h-full object-cover object-top" />
+                        ) : (
+                          <span aria-hidden="true" class="text-[10px] text-(--color-fg-muted)">▸</span>
+                        )}
+                      </span>
+                      <span class="text-sm text-(--color-forest-700) group-hover:underline leading-snug pt-0.5">
+                        {typeof i.data.title === "string" ? i.data.title : i.data.title?.main ?? i.id}
+                      </span>
                     </a>
                   </li>
                 ))}
@@ -486,14 +527,21 @@ const bioSourceLabel =
           {opinionsAbout.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.profiles", "Profile pieces")} ({opinionsAbout.length})</h3>
-              <ul class="space-y-2">
+              <ul class="space-y-3">
                 {opinionsAbout.map((o) => {
                   const tm = mentionFor(o, t.id);
                   const passages = (tm?.role === 'subject' ? tm.key_passages ?? [] : []).slice(0, 2);
                   return (
                     <li>
-                      <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                        {o.data.title}
+                      <a href={`/opinions/${o.id}/`} class="group flex items-start gap-3 no-underline">
+                        {o.data.hero_image && (
+                          <span class="w-16 aspect-[16/10] shrink-0 rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted)">
+                            <img src={o.data.hero_image} alt="" width="64" height="40" loading="lazy" decoding="async" class="w-full h-full object-cover" />
+                          </span>
+                        )}
+                        <span class="text-sm text-(--color-forest-700) group-hover:underline leading-snug pt-0.5">
+                          {o.data.title}
+                        </span>
                       </a>
                       {passages.length > 0 && (
                         <ul class="mt-1 space-y-1 ml-2">
@@ -516,8 +564,12 @@ const bioSourceLabel =
     )}
 
     {/* ── Section 3: Mentioned in (Phase A: only structured related_thinkers; Phase B will populate from in-prose NER) ── */}
+    {/* Every list shows its first rows and folds the remainder into a
+        native <details> ("Show all N"), so nothing is unreachable and the
+        expansion works without JS. EvidenceLink keeps the two halves of
+        each list rendering identical rows. */}
     {mentionCount > 0 && (
-      <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
+      <section id="mentions" class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) scroll-mt-24">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
           {label(labels, "thinker.mentioned", "Mentioned in")} ({mentionCount})
         </h2>
@@ -525,125 +577,157 @@ const bioSourceLabel =
           {workMentions.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.works", "Primary works")} ({workMentions.length})</h3>
-              <ul class="space-y-2">
-                {workMentions.slice(0, 15).map((w) => {
-                  const tm = mentionFor(w, t.id);
-                  const quotes = (tm?.evidence ?? []).slice(0, 2);
-                  return (
-                    <li>
-                      <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                        {w.data.title.main}
-                        <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
-                      </a>
-                      {quotes.length > 0 && (
-                        <ul class="mt-1 space-y-1 ml-2">
-                          {quotes.map((ev: any) => (
-                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
-                              "{ev.quote}"
-                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">· {ev.context}</span>}
-                            </li>
-                          ))}
-                        </ul>
-                      )}
-                    </li>
-                  );
-                })}
-                {workMentions.length > 15 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {workMentions.length - 15} more</li>
-                )}
+              <ul class="space-y-3">
+                {workMentions.slice(0, 8).map((w) => (
+                  <EvidenceLink
+                    href={`/primary-works/${w.id}/`}
+                    title={w.data.title.main}
+                    year={w.data.publication?.year ?? "n.d."}
+                    thumb={w.data.cover_image ?? null}
+                    quotes={(mentionFor(w, t.id)?.evidence ?? []).slice(0, 2).map((ev: any) => ({ quote: ev.quote, note: ev.context }))}
+                  />
+                ))}
               </ul>
+              {workMentions.length > 8 && (
+                <details class="mt-2">
+                  <summary class="cursor-pointer select-none text-sm font-semibold text-(--color-saffron-700) hover:text-(--color-fg)">
+                    Show all {workMentions.length}
+                  </summary>
+                  <ul class="space-y-3 mt-3">
+                    {workMentions.slice(8).map((w) => (
+                      <EvidenceLink
+                        href={`/primary-works/${w.id}/`}
+                        title={w.data.title.main}
+                        year={w.data.publication?.year ?? "n.d."}
+                        thumb={w.data.cover_image ?? null}
+                        quotes={(mentionFor(w, t.id)?.evidence ?? []).slice(0, 2).map((ev: any) => ({ quote: ev.quote, note: ev.context }))}
+                      />
+                    ))}
+                  </ul>
+                </details>
+              )}
             </div>
           )}
           {opinionMentions.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.opinions", "Opinion pieces")} ({opinionMentions.length})</h3>
-              <ul class="space-y-2">
-                {opinionMentions.slice(0, 10).map((o) => {
-                  const tm = mentionFor(o, t.id);
-                  const quotes = (tm?.evidence ?? []).slice(0, 2);
-                  return (
-                    <li>
-                      <a href={`/opinions/${o.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                        {o.data.title}
-                      </a>
-                      {quotes.length > 0 && (
-                        <ul class="mt-1 space-y-1 ml-2">
-                          {quotes.map((ev: any) => (
-                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
-                              "{ev.quote}"
-                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">· {ev.context}</span>}
-                            </li>
-                          ))}
-                        </ul>
-                      )}
-                    </li>
-                  );
-                })}
+              <ul class="space-y-3">
+                {opinionMentions.slice(0, 8).map((o) => (
+                  <EvidenceLink
+                    href={`/opinions/${o.id}/`}
+                    title={o.data.title}
+                    thumb={o.data.hero_image ?? null}
+                    thumbKind="wide"
+                    quotes={(mentionFor(o, t.id)?.evidence ?? []).slice(0, 2).map((ev: any) => ({ quote: ev.quote, note: ev.context }))}
+                  />
+                ))}
               </ul>
+              {opinionMentions.length > 8 && (
+                <details class="mt-2">
+                  <summary class="cursor-pointer select-none text-sm font-semibold text-(--color-saffron-700) hover:text-(--color-fg)">
+                    Show all {opinionMentions.length}
+                  </summary>
+                  <ul class="space-y-3 mt-3">
+                    {opinionMentions.slice(8).map((o) => (
+                      <EvidenceLink
+                        href={`/opinions/${o.id}/`}
+                        title={o.data.title}
+                        thumb={o.data.hero_image ?? null}
+                        thumbKind="wide"
+                        quotes={(mentionFor(o, t.id)?.evidence ?? []).slice(0, 2).map((ev: any) => ({ quote: ev.quote, note: ev.context }))}
+                      />
+                    ))}
+                  </ul>
+                </details>
+              )}
             </div>
           )}
           {musingMentions.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.excerpts", "Excerpts")} ({musingMentions.length})</h3>
-              <ul class="space-y-2">
-                {musingMentions.slice(0, 10).map((m) => {
-                  const tm = mentionFor(m, t.id);
-                  const quotes = (tm?.evidence ?? []).slice(0, 2);
-                  return (
-                    <li>
-                      <a href={`/musings/${m.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                        {m.data.title}
-                      </a>
-                      {quotes.length > 0 && (
-                        <ul class="mt-1 space-y-1 ml-2">
-                          {quotes.map((ev: any) => (
-                            <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
-                              "{ev.quote}"
-                              {ev.context && <span class="not-italic text-(--color-fg-muted) ml-1">· {ev.context}</span>}
-                            </li>
-                          ))}
-                        </ul>
-                      )}
-                    </li>
-                  );
-                })}
+              <ul class="space-y-3">
+                {musingMentions.slice(0, 8).map((m) => (
+                  <EvidenceLink
+                    href={`/musings/${m.id}/`}
+                    title={m.data.title}
+                    thumb={m.data.hero_image ?? null}
+                    thumbKind="wide"
+                    quotes={(mentionFor(m, t.id)?.evidence ?? []).slice(0, 2).map((ev: any) => ({ quote: ev.quote, note: ev.context }))}
+                  />
+                ))}
               </ul>
+              {musingMentions.length > 8 && (
+                <details class="mt-2">
+                  <summary class="cursor-pointer select-none text-sm font-semibold text-(--color-saffron-700) hover:text-(--color-fg)">
+                    Show all {musingMentions.length}
+                  </summary>
+                  <ul class="space-y-3 mt-3">
+                    {musingMentions.slice(8).map((m) => (
+                      <EvidenceLink
+                        href={`/musings/${m.id}/`}
+                        title={m.data.title}
+                        thumb={m.data.hero_image ?? null}
+                        thumbKind="wide"
+                        quotes={(mentionFor(m, t.id)?.evidence ?? []).slice(0, 2).map((ev: any) => ({ quote: ev.quote, note: ev.context }))}
+                      />
+                    ))}
+                  </ul>
+                </details>
+              )}
             </div>
           )}
           {contributedWorks.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Contributed to ({contributedWorks.length})</h3>
-              <ul class="space-y-2">
-                {contributedWorks.slice(0, 15).map((w) => (
-                  <li>
-                    <a href={`/primary-works/${w.id}/`} class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {w.data.title.main}
-                      <span class="text-(--color-fg-muted) ml-1">· {w.data.publication?.year ?? "n.d."}</span>
-                    </a>
-                  </li>
+              <ul class="space-y-3">
+                {contributedWorks.slice(0, 8).map((w) => (
+                  <EvidenceLink
+                    href={`/primary-works/${w.id}/`}
+                    title={w.data.title.main}
+                    year={w.data.publication?.year ?? "n.d."}
+                    thumb={w.data.cover_image ?? null}
+                  />
                 ))}
-                {contributedWorks.length > 15 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {contributedWorks.length - 15} more</li>
-                )}
               </ul>
+              {contributedWorks.length > 8 && (
+                <details class="mt-2">
+                  <summary class="cursor-pointer select-none text-sm font-semibold text-(--color-saffron-700) hover:text-(--color-fg)">
+                    Show all {contributedWorks.length}
+                  </summary>
+                  <ul class="space-y-3 mt-3">
+                    {contributedWorks.slice(8).map((w) => (
+                      <EvidenceLink
+                        href={`/primary-works/${w.id}/`}
+                        title={w.data.title.main}
+                        year={w.data.publication?.year ?? "n.d."}
+                        thumb={w.data.cover_image ?? null}
+                      />
+                    ))}
+                  </ul>
+                </details>
+              )}
             </div>
           )}
           {theprintByThisThinker.length > 0 && (
             <div>
               <h3 class="text-sm font-semibold text-(--color-fg) mb-2">In ThePrint ({theprintByThisThinker.length})</h3>
-              <ul class="space-y-2">
-                {theprintByThisThinker.slice(0, 10).map((p) => (
-                  <li>
-                    <a href={p.data.theprint_url} target="_blank" rel="noopener canonical" class="text-sm text-(--color-forest-700) no-underline hover:underline">
-                      {p.data.title}
-                      <span aria-hidden class="text-(--color-fg-muted) ml-1">↗</span>
-                    </a>
-                  </li>
+              <ul class="space-y-3">
+                {theprintByThisThinker.slice(0, 8).map((p) => (
+                  <EvidenceLink href={p.data.theprint_url} title={p.data.title} thumb={p.data.hero_image ?? null} thumbKind="wide" external />
                 ))}
-                {theprintByThisThinker.length > 10 && (
-                  <li class="text-sm text-(--color-fg-muted)">…and {theprintByThisThinker.length - 10} more</li>
-                )}
               </ul>
+              {theprintByThisThinker.length > 8 && (
+                <details class="mt-2">
+                  <summary class="cursor-pointer select-none text-sm font-semibold text-(--color-saffron-700) hover:text-(--color-fg)">
+                    Show all {theprintByThisThinker.length}
+                  </summary>
+                  <ul class="space-y-3 mt-3">
+                    {theprintByThisThinker.slice(8).map((p) => (
+                      <EvidenceLink href={p.data.theprint_url} title={p.data.title} thumb={p.data.hero_image ?? null} thumbKind="wide" external />
+                    ))}
+                  </ul>
+                </details>
+              )}
             </div>
           )}
         </div>

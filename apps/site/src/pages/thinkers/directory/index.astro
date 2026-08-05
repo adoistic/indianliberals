@@ -186,8 +186,13 @@ const sectionCounts = new Map<CanonStatus, number>(
               const searchKey = [t.data.name.canonical, ...(t.data.name.also_known_as ?? [])]
                 .join(" ")
                 .toLowerCase();
-              const pagefindVocations = (t.data.vocations ?? []).map((v) => `vocation:${v}`).join(",");
 
+              // The rows used to carry data-pagefind-filter with canon-status
+              // and vocations. Pagefind attaches filters to the PAGE record,
+              // so 725 rows merged into one meaningless multi-valued facet on
+              // this listing page - and the comma syntax never parsed anyway
+              // (see PagefindFilters.astro). No UI consumes those facets;
+              // dropped rather than fixed.
               return (
                 <li
                   class="dir-row"
@@ -198,7 +203,6 @@ const sectionCounts = new Map<CanonStatus, number>(
                   <a
                     href={`/thinkers/${t.id}/`}
                     class="flex items-center gap-3 py-2 px-2 -mx-2 rounded no-underline group hover:bg-(--color-bg-muted) transition-colors"
-                    data-pagefind-filter={`canon-status:${t.data.canon_status}${pagefindVocations ? "," + pagefindVocations : ""}`}
                   >
                     <span class="shrink-0 w-10 h-10 rounded-full overflow-hidden bg-(--color-bg-muted) border border-(--color-border) flex items-center justify-center">
                       {thumb ? (

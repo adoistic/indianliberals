@@ -1,0 +1,91 @@
+---
+// EvidenceLink.astro - one row in the "Mentioned in" / "Contributed to" /
+// "In ThePrint" lists on thinker and organisation pages: a cover/hero
+// thumbnail, an optional kind badge, the linked title with an optional
+// year, and up to a couple of evidence quotes beneath. Extracted so the
+// lists can render their first rows and their <details>-expanded remainder
+// from the same markup.
+//
+// The thumbnail keeps these lists out of "folder listing" territory
+// (Adnan, 2026-08): works show their PDF cover (portrait), opinions and
+// musings their hero image (wide), and rows with no image get a small
+// initial tile so the column still aligns.
+
+interface Quote {
+  quote: string;
+  note?: string | null;
+}
+
+interface Props {
+  href: string;
+  title: string;
+  year?: string | number | null;
+  external?: boolean;
+  quotes?: Quote[];
+  /** Thumbnail image URL (cover_image / hero_image / portrait). */
+  thumb?: string | null;
+  /** portrait = 3:4 book cover; wide = 16:10 hero crop. */
+  thumbKind?: "portrait" | "wide";
+  /** Small uppercase kind chip, e.g. "Opinion" (organisation mentions). */
+  badge?: string | null;
+}
+
+const {
+  href,
+  title,
+  year = null,
+  external = false,
+  quotes = [],
+  thumb = null,
+  thumbKind = "portrait",
+  badge = null,
+} = Astro.props;
+
+const thumbSizing = thumbKind === "wide" ? "w-16 aspect-[16/10]" : "w-10 aspect-[3/4]";
+---
+
+<li class="flex gap-3">
+  <a
+    href={href}
+    target={external ? "_blank" : undefined}
+    rel={external ? "noopener canonical" : undefined}
+    tabindex="-1"
+    aria-hidden="true"
+    class={`${thumbSizing} shrink-0 rounded-sm overflow-hidden border border-(--color-border) bg-(--color-bg-muted) flex items-center justify-center no-underline`}
+  >
+    {thumb ? (
+      <img src={thumb} alt="" loading="lazy" decoding="async" class="w-full h-full object-cover object-top" />
+    ) : (
+      <span aria-hidden="true" class="font-(family-name:--font-display) text-base text-(--color-saffron-700)/50 leading-none">
+        {title.replace(/^(the|a|an) /i, "").charAt(0)}
+      </span>
+    )}
+  </a>
+  <div class="min-w-0 pt-0.5">
+    {badge && (
+      <span class="inline-block text-[10px] uppercase tracking-wider px-1.5 py-0.5 bg-(--color-bg-muted) border border-(--color-border) rounded mr-1.5 text-(--color-fg-muted) align-[2px]">
+        {badge}
+      </span>
+    )}
+    <a
+      href={href}
+      target={external ? "_blank" : undefined}
+      rel={external ? "noopener canonical" : undefined}
+      class="text-sm text-(--color-forest-700) no-underline hover:underline"
+    >
+      {title}
+      {year != null && <span class="text-(--color-fg-muted) ml-1">· {year}</span>}
+      {external && <span aria-hidden class="text-(--color-fg-muted) ml-1">↗</span>}
+    </a>
+    {quotes.length > 0 && (
+      <ul class="mt-1 space-y-1">
+        {quotes.map((q) => (
+          <li class="text-xs italic text-(--color-fg-muted) pl-2 border-l border-(--color-saffron-200)">
+            "{q.quote}"
+            {q.note && <span class="not-italic text-(--color-fg-muted) ml-1">· {q.note}</span>}
+          </li>
+        ))}
+      </ul>
+    )}
+  </div>
+</li>
