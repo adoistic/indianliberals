@@ -1,0 +1,56 @@
+name: OG cards
+
+# Social cards, kept in step with the content by a machine.
+#
+# Every detail page advertises itself with a branded 1200x630 card on R2
+# (og/ prefix), addressed by convention from apps/site/src/lib/og.ts. This
+# workflow runs scripts/og/og_cards.py after every content push: the script
+# compares each card's inputs (title, eyebrow, byline, source image) against
+# the manifest on R2 and re-renders only what changed — a new work, a
+# corrected title, a replaced cover. Nobody has to remember that changing a
+# title changes the card; the card follows within minutes.
+#
+# Uploads go through the CMS Worker's /api/og-put with a shared secret
+# (OG_PUSH_TOKEN, set both here and on the Worker), because the Worker
+# already holds the bucket and Actions holds no Cloudflare credential.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "apps/site/src/content/primary-works/**"
+      - "apps/site/src/content/thinkers/**"
+      - "apps/site/src/content/musings/**"
+      - "apps/site/src/content/opinions/**"
+      - "scripts/og/**"
+  workflow_dispatch:
+
+# A queued run re-reads everything it needs, so only the newest matters.
+concurrency:
+  group: og-cards
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pillow and pyyaml
+        run: pip install --quiet pillow pyyaml
+
+      - name: Render and upload changed cards
+        env:
+          OG_PUSH_TOKEN: ${{ secrets.OG_PUSH_TOKEN }}
+        run: |
+          python3 scripts/og/og_cards.py sync \
+            --out /tmp/og_out \
+            --endpoint https://cms.indianliberals.in/api/og-put \
+            --token "$OG_PUSH_TOKEN"

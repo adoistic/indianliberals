@@ -73,11 +73,17 @@ export default {
       key.startsWith("search/") &&
       !key.startsWith("search/fragment/") &&
       !key.startsWith("search/index/");
+    // OG cards and covers are re-rendered in place when a title or picture
+    // changes (the og-cards workflow, and cover replacement in the CMS), so
+    // they must be allowed to go stale within a day rather than never.
+    const isOverwritable = key.startsWith("og/") || key.startsWith("covers/");
     headers.set(
       "cache-control",
       key === INDEX_KEY || isSearchMutable
         ? "public, max-age=300"
-        : "public, max-age=31536000, immutable",
+        : isOverwritable
+          ? "public, max-age=86400"
+          : "public, max-age=31536000, immutable",
     );
 
     // A precondition that matched: R2 returns the metadata with no body.
