@@ -15,7 +15,19 @@
 /brand/*
   Cache-Control: public, max-age=2592000
 
-/thinkers/*
+# Portrait assets only. This rule used to be a blanket /thinkers/* which
+# ALSO matched every thinker HTML page: Pages stacks all matching rules,
+# so pages went out with a conflicting, browser-side 30-day max-age and
+# returning visitors kept stale pages for up to a month after a deploy.
+# Scoped to the four asset subdirectories, the HTML pages fall through
+# to the /* default (max-age=300) like the rest of the site.
+/thinkers/caricatures/*
+  Cache-Control: public, max-age=2592000
+/thinkers/duotone/*
+  Cache-Control: public, max-age=2592000
+/thinkers/photos/*
+  Cache-Control: public, max-age=2592000
+/thinkers/ring-portraits/*
   Cache-Control: public, max-age=2592000
 
 /legacy-media/*
