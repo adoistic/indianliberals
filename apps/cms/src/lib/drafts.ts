@@ -60,6 +60,15 @@ export interface Draft {
   pdfUrl?: string | null;
   /** Why the machine could not read it, when that is what happened. */
   error?: string | null;
+  /**
+   * Pictures dropped on the form, waiting in the bucket's staging area.
+   * Keyed by field path; each holds where the picture will be committed
+   * and where it sits meanwhile, so reopening the draft finds them again.
+   */
+  stagedImages?: Record<
+    string,
+    { repoPath: string; stagingKey: string; url: string }
+  > | null;
   createdAt?: unknown;
   updatedAt?: unknown;
 }
@@ -103,6 +112,7 @@ export async function saveDraft(id: string, input: DraftInput): Promise<void> {
       filename: input.filename ?? null,
       pdfUrl: input.pdfUrl ?? null,
       error: input.error ?? null,
+      stagedImages: input.stagedImages ?? null,
       ...(existing.exists() ? {} : { createdAt: serverTimestamp() }),
       updatedAt: serverTimestamp(),
     },

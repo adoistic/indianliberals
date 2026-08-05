@@ -24,6 +24,27 @@ interface BatchEntry {
   content: string;
   /** Carried through untouched so the browser can mark the right draft done. */
   draftId?: string;
+  /** Pictures staged in the bucket, committed beside the entry. */
+  images?: { path: string; stagingKey: string }[];
+}
+
+/** The slice of R2 this route reads staged pictures from. */
+interface Bucket {
+  get(key: string): Promise<{ arrayBuffer(): Promise<ArrayBuffer> } | null>;
+  delete(key: string): Promise<void>;
+}
+
+const IMAGE_PATH = /^apps\/site\/public\/[a-z0-9/_-]+\.(jpg|jpeg|png|webp|svg)$/;
+const STAGING_KEY = /^staging\/[a-z0-9./-]+$/;
+
+function toBase64(buffer: ArrayBuffer): string {
+  const bytes = new Uint8Array(buffer);
+  let binary = '';
+  const CHUNK = 0x8000;
+  for (let i = 0; i < bytes.length; i += CHUNK) {
+    binary += String.fromCharCode(...bytes.subarray(i, i + CHUNK));
+  }
+  return btoa(binary);
 }
 
 interface BatchBody {
@@ -61,7 +82,13 @@ export const POST: APIRoute = async ({ request, locals }) => {
     // entries should tell you which two.
     const rejected: { slug: string; problems: string[] }[] = [];
     const seen = new Map<string, string>();
-    const planned: { path: string; content: string; slug: string; draftId?: string }[] = [];
+    const planned: {
+      path: string;
+      content: string;
+      slug: string;
+      draftId?: string;
+      images: { path: string; stagingKey: string }[];
+    }[] = [];
 
     for (const entry of entries) {
       const slug = String(entry.slug || '');
@@ -74,6 +101,13 @@ export const POST: APIRoute = async ({ request, locals }) => {
         problems.push('The file name may only use letters, numbers and hyphens.');
       }
       problems.push(...frontmatterProblems(entry.content || ''));
+
+      const images = Array.isArray(entry.images) ? entry.images.slice(0, 12) : [];
+      for (const image of images) {
+        if (!IMAGE_PATH.test(image.path || '') || !STAGING_KEY.test(image.stagingKey || '')) {
+          problems.push('A picture attached to this entry is not one we staged.');
+        }
+      }
 
       const path = `${env.CONTENT_ROOT}/${entry.collection}/${slug}.md`;
 
@@ -90,7 +124,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
         rejected.push({ slug: slug || '(no name)', problems });
         continue;
       }
-      planned.push({ path, content: entry.content, slug, draftId: entry.draftId });
+      planned.push({ path, content: entry.content, slug, draftId: entry.draftId, images });
     }
 
     // Anything already in the archive is somebody else's work. Publishing a
@@ -124,12 +158,41 @@ export const POST: APIRoute = async ({ request, locals }) => {
       body.summary?.trim() ||
       `content: add ${planned.length} ${planned.length === 1 ? 'entry' : 'entries'}`;
 
-    const result = await commitFiles(
-      env,
-      planned.map((item) => ({ path: item.path, content: item.content })),
-      summary,
-      { email: actor.email, name: actor.name },
-    );
+    // Staged pictures ride in the same commit as the entries that use them.
+    const bucket = (env as unknown as { ARCHIVE: Bucket }).ARCHIVE;
+    const files: { path: string; content?: string; base64?: string }[] = planned.map((item) => ({
+      path: item.path,
+      content: item.content,
+    }));
+    const stagedKeys: string[] = [];
+    for (const item of planned) {
+      for (const image of item.images) {
+        const held = await bucket.get(image.stagingKey);
+        if (!held) {
+          return json(
+            {
+              error: `A picture for ${item.slug} has gone missing from staging. Open the draft and drop it again.`,
+            },
+            409,
+          );
+        }
+        files.push({ path: image.path, base64: toBase64(await held.arrayBuffer()) });
+        stagedKeys.push(image.stagingKey);
+      }
+    }
+
+    const result = await commitFiles(env, files, summary, {
+      email: actor.email,
+      name: actor.name,
+    });
+
+    for (const key of stagedKeys) {
+      try {
+        await bucket.delete(key);
+      } catch {
+        /* crumbs in staging are harmless */
+      }
+    }
 
     return json({
       ok: true,

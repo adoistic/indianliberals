@@ -356,6 +356,13 @@ import { COLLECTIONS } from '../lib/collections';
     } from '../lib/ingest';
     import { watchUser, roleFor } from '../lib/firebase';
     import { canPublish, type Role } from '../lib/roles';
+    import {
+      imageField,
+      imageFieldStyles,
+      stagedForSave,
+      type StagedImage,
+    } from '../lib/image-field';
+    import { captureFirstPage } from '../lib/pdf-cover';
     import type { User } from 'firebase/auth';
 
     // ── Who is here ────────────────────────────────────────────────────
@@ -400,6 +407,9 @@ import { COLLECTIONS } from '../lib/collections';
     let heldFile: File | null = null;
     let pdfUrl = '';
     let coverUrl = '';
+    /** Pictures dropped on the form, held in staging until the save commits them. */
+    const stagedImages = new Map<string, StagedImage>();
+    let imageStylesIn = false;
     let slugEdited = false;
     let counter = 0;
     /** Set once the entry has been written, so leaving afterwards is not a loss. */
@@ -865,9 +875,39 @@ import { COLLECTIONS } from '../lib/collections';
       return box;
     }
 
+    function imageFieldBox(field: Field, path: Path, id: string): HTMLDivElement {
+      if (!imageStylesIn) {
+        imageStylesIn = true;
+        const style = document.createElement('style');
+        style.textContent = imageFieldStyles();
+        document.head.appendChild(style);
+      }
+      const pathKey = path.join('.');
+      const widget = imageField({
+        field,
+        path: pathKey,
+        value: () => {
+          const held = readAt(record, path);
+          return typeof held === 'string' ? held : '';
+        },
+        setValue: (value) => {
+          writeAt(record, path, value || undefined);
+          touched();
+        },
+        slug: currentSlug,
+        pdfUrl: () => pdfUrl || String(readAt(record, ['pdf_url']) ?? ''),
+        token: async () => (await bearer()).replace(/^Bearer /, ''),
+        staged: stagedImages,
+      });
+      widget.id = id;
+      return boxed(field, id, widget);
+    }
+
     function renderField(field: Field, path: Path): HTMLDivElement {
       const id = nextId();
       switch (field.kind) {
+        case 'image':
+          return imageFieldBox(field, path, id);
         case 'boolean':
           return booleanField(field, path, id);
         case 'multiselect':
@@ -1020,6 +1060,7 @@ import { COLLECTIONS } from '../lib/collections';
         filename: heldFile?.name ?? null,
         pdfUrl: pdfUrl || null,
         error: null,
+        stagedImages: stagedImages.size ? Object.fromEntries(stagedImages) : null,
       };
 
       try {
@@ -1059,6 +1100,12 @@ import { COLLECTIONS } from '../lib/collections';
       if (!choose(draft.collection, false)) return;
       openedDraft = draft.id;
       pdfUrl = draft.pdfUrl ?? '';
+      // Pictures dropped before the draft was shelved are still in staging;
+      // pick them back up so the eventual save commits them.
+      stagedImages.clear();
+      for (const [key, held] of Object.entries(draft.stagedImages ?? {})) {
+        stagedImages.set(key, held);
+      }
       startForm(draft.data ?? {}, draft.body ?? '');
 
       const slugBox = document.getElementById('slug') as HTMLInputElement | null;
@@ -1151,6 +1198,7 @@ import { COLLECTIONS } from '../lib/collections';
         if (kind === 'pdf') pdfUrl = result.url;
         else coverUrl = result.url;
         const link = el('a', { href: result.url, target: '_blank', rel: 'noreferrer' }, result.url);
+        const captureLine = el('p', { class: 'hint', style: 'margin:.6rem 0 0' });
         state.replaceChildren(
           el(
             'div',
@@ -1158,8 +1206,36 @@ import { COLLECTIONS } from '../lib/collections';
             el('strong', {}, 'It is on the archive server. '),
             'This address goes into the entry for you: ',
             link,
+            captureLine,
           ),
         );
+        // A document's cover is its first page, so capture it now, in the
+        // browser, and put it beside the PDF. The editor can drop a
+        // different picture on the cover field later if this one is wrong.
+        if (kind === 'pdf' && !coverUrl) {
+          void (async () => {
+            try {
+              captureLine.textContent = 'Capturing the first page as the cover picture.';
+              const cover = await captureFirstPage(file);
+              const stem = file.name.replace(/\.[a-z0-9]+$/i, '')
+                .toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'cover';
+              const named = new File([cover.blob], `${stem}.${cover.ext}`, { type: cover.blob.type });
+              const sent = await sendFile(named, 'cover', await bearer(), () => {}, true);
+              if (sent.ok && sent.url) {
+                coverUrl = sent.url;
+                if (chosen?.fields.some((f) => f.name === 'cover_image') && !record.cover_image) {
+                  record.cover_image = coverUrl;
+                  refreshPreview();
+                }
+                captureLine.textContent = 'The first page was captured as the cover picture.';
+              } else {
+                captureLine.textContent = 'The cover could not be captured; the entry works without one.';
+              }
+            } catch {
+              captureLine.textContent = 'The cover could not be captured; the entry works without one.';
+            }
+          })();
+        }
         return;
       }
 
@@ -1469,6 +1545,8 @@ import { COLLECTIONS } from '../lib/collections';
             slug,
             content: fileNow(),
             summary: summaryBox?.value ?? '',
+            // Pictures dropped on the form, committed beside the entry.
+            images: stagedForSave(stagedImages),
           }),
         });
         const data = (await response.json()) as {

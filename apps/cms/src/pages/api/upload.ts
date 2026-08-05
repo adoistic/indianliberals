@@ -29,9 +29,20 @@ const PREFIXES: Record<string, string> = {
   marathi: 'marathi',
   'freedom-first': 'freedom-first',
   other: 'other-publications',
+  // A holding pen for pictures that belong in the site repository rather
+  // than the bucket. They sit here between being dropped on a form and the
+  // save that commits them, so a draft can hold a picture without the
+  // picture being anywhere permanent yet.
+  staging: 'staging',
 };
 
-const ALLOWED = new Set(['application/pdf', 'image/jpeg', 'image/png', 'image/webp']);
+const ALLOWED = new Set([
+  'application/pdf',
+  'image/jpeg',
+  'image/png',
+  'image/webp',
+  'image/svg+xml',
+]);
 const MAX_BYTES = 120 * 1024 * 1024;
 
 /** Filenames become URLs, so they get the same treatment as slugs. */
@@ -73,9 +84,14 @@ export const POST: APIRoute = async ({ request, locals }) => {
     }
 
     const prefix = PREFIXES[kind] ?? PREFIXES.other;
-    const key = `${prefix}/${tidyName(file.name)}`;
+    // Staged pictures get a unique name, because two editors dropping
+    // photos both called portrait.jpg is normal, not a clash.
+    const key =
+      kind === 'staging'
+        ? `${prefix}/${Date.now().toString(36)}-${Math.floor(Math.random() * 46656).toString(36)}-${tidyName(file.name)}`
+        : `${prefix}/${tidyName(file.name)}`;
 
-    const existing = await env.ARCHIVE.head(key);
+    const existing = kind === 'staging' ? null : await env.ARCHIVE.head(key);
     if (existing && form.get('overwrite') !== 'yes') {
       return json(
         {

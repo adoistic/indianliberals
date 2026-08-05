@@ -165,6 +165,7 @@ import Shell from '../layouts/Shell.astro';
     import { COLLECTIONS, collectionById, type CollectionDef } from '../lib/collections';
     import { buildPrompt, parseModelOutput, callModel, slugify, stripDashes, MODELS, type Provider } from '../lib/ingest';
     import { sendFile, asBase64, kindOf } from '../lib/upload';
+    import { captureFirstPage } from '../lib/pdf-cover';
     import { saveDraft, draftId, newBatchId, type DraftInput } from '../lib/drafts';
     import type { User } from 'firebase/auth';
 
@@ -441,6 +442,28 @@ import Shell from '../layouts/Shell.astro';
         const slug = slugify(String(data.id || title));
         if (!data.id) data.id = slug;
         if (item.pdfUrl && !data.pdf_url) data.pdf_url = item.pdfUrl;
+
+        // A document's cover is its first page. Capture it here, while the
+        // file is still in hand, so every batch entry lands with a cover
+        // and the shelf reads as a shelf. A failure costs nothing but the
+        // picture.
+        if (
+          item.file.type === 'application/pdf' &&
+          !data.cover_image &&
+          chosen.fields.some((field) => field.name === 'cover_image')
+        ) {
+          try {
+            paint(item, 'capturing the cover');
+            const cover = await captureFirstPage(item.file);
+            const named = new File([cover.blob], `${slug}.${cover.ext}`, {
+              type: cover.blob.type,
+            });
+            const sent = await sendFile(named, 'cover', await me.getIdToken(), () => {}, true);
+            if (sent.ok && sent.url) data.cover_image = sent.url;
+          } catch {
+            /* an entry without a cover still works */
+          }
+        }
 
         const draft: DraftInput = {
           collection: chosen.id,

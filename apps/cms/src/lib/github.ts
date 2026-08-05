@@ -222,7 +222,10 @@ export async function commitFile(env: GitHubEnv, request: CommitRequest) {
 
 export interface BatchFile {
   path: string;
-  content: string;
+  /** Text content. Give exactly one of content or base64. */
+  content?: string;
+  /** Binary content, already base64-encoded: pictures ride along this way. */
+  base64?: string;
 }
 
 /**
@@ -269,12 +272,16 @@ export async function commitFiles(
   for (let i = 0; i < files.length; i += 8) {
     const slice = await Promise.all(
       files.slice(i, i + 8).map(async (file) => {
-        const bytes = new TextEncoder().encode(file.content);
-        let binary = '';
-        for (const byte of bytes) binary += String.fromCharCode(byte);
+        let encoded = file.base64;
+        if (encoded === undefined) {
+          const bytes = new TextEncoder().encode(file.content ?? '');
+          let binary = '';
+          for (const byte of bytes) binary += String.fromCharCode(byte);
+          encoded = btoa(binary);
+        }
         const blob = await api(env, repoPath(env, 'git/blobs'), {
           method: 'POST',
-          body: JSON.stringify({ content: btoa(binary), encoding: 'base64' }),
+          body: JSON.stringify({ content: encoded, encoding: 'base64' }),
         });
         return { path: file.path, sha: blob.sha as string };
       }),

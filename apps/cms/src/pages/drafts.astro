@@ -258,6 +258,12 @@ import Shell from '../layouts/Shell.astro';
         slug: draft.slug,
         content: toMarkdownFile(draft.data, draft.body),
         draftId: draft.id,
+        // Pictures dropped on the draft's form, still in staging: they are
+        // committed beside the entry.
+        images: Object.values(draft.stagedImages ?? {}).map((held) => ({
+          path: held.repoPath,
+          stagingKey: held.stagingKey,
+        })),
       }));
 
       try {
