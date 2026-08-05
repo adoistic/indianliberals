@@ -149,3 +149,21 @@ a {
   outline-offset: 2px;
   border-radius: 2px;
 }
+
+/* ── Scroll-lazy rendering ──────────────────────────────────────────
+ * The archive's listing pages carry hundreds of cards (837 on
+ * /primary-works/, 743 directory rows, 580 on the FFE page). All of the
+ * HTML ships — SEO, find-in-page and no-JS stay intact — but
+ * content-visibility lets the browser skip layout and paint for
+ * everything offscreen and render it only as it scrolls into view.
+ * The intrinsic-size estimate reserves scroll-bar-accurate space until
+ * then; the `auto` keyword pins each item to its real size after its
+ * first paint so scrolling back up never shifts.
+ * Browsers without content-visibility simply render everything, which
+ * is today's behaviour.
+ *
+ * .cv-card — cover-led grid cards (3:4 cover + two text lines)
+ * .cv-row  — one-line list rows (directory)
+ */
+.cv-card { content-visibility: auto; contain-intrinsic-size: auto 180px auto 340px; }
+.cv-row  { content-visibility: auto; contain-intrinsic-size: auto 640px auto 57px; }

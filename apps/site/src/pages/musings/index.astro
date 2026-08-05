@@ -228,7 +228,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
           const lead = idx === 0;
           return (
             <li
-              class={`m-item ${lead ? "sm:col-span-2" : ""}`}
+              class={`m-item cv-card ${lead ? "sm:col-span-2" : ""}`}
               data-date={m.data.pubDate}
               data-decade={String(dec)}
               data-themes={(m.data.themes ?? []).join(" ")}

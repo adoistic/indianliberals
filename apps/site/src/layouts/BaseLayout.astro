@@ -79,6 +79,12 @@ const jsonLd = JSON.stringify({
     <title>{title}</title>
     <meta name="description" content={description} />
 
+    {/* Cover images live on the archive host; warming the connection
+        saves a TLS round-trip before the first cover paints. No
+        crossorigin: <img> fetches are no-cors, which uses the plain
+        connection pool. */}
+    <link rel="preconnect" href="https://archive.indianliberals.in" />
+
     <!-- Canonical: self-referential per Google guidance for multilingual.
          Each language version is canonical to itself, not to a "master". -->
     <link rel="canonical" href={resolvedCanonical} />
