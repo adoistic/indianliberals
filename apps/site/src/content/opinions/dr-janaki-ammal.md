@@ -1,51 +1,51 @@
 ---
-id: "dr-janaki-ammal"
+id: dr-janaki-ammal
 title: "Dr Janaki Ammal: India’s First Woman Botanist"
-pubDate: "2022-02-11T06:51:55Z"
-themes:
-  - "social-reform"
-language: "en"
+pubDate: 2022-02-11T06:51:55Z
+themes: 
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/dr-janaki-ammal.webp"
-subject: "janaki-ammal"
-thinker_mentions:
-  - thinker: janaki-ammal
-    role: subject
-    reasoning: "The essay is a full-length profile of Dr. Janaki Ammal celebrating her life as India's first woman botanist, her scientific achievements in sugarcane genetics, her environmental activism, and her exemplary defiance of gender and caste barriers."
-    evidence: []
-    key_passages:
-      - quote: "Edavaleth Kakkat Janaki Ammal, a botanist and cytogeneticist, best known for putting sweetness in India's sugarcane varieties through her scientific methods, remains unknown outside of academia"
-        what_it_shows: introduces the central irony of her obscurity despite her transformative scientific contribution
-      - quote: Janaki was among the few women who chose her career over marriage. A rather brave decision in those times
-        what_it_shows: frames her professional choice as an act of individual liberal agency against social norms
-      - quote: Janaki Ammal was awarded the Padma Shri in 1977
-        what_it_shows: official state recognition of her scientific contribution
-      - quote: Janaki leaves her presence in the smell of Magnolia and her individuality in the sugar of Indian sugarcane
-        what_it_shows: poetic summation of her enduring legacy in both horticulture and Indian agriculture
+author_name: Editorial Team
+hero_image: /opinions/covers/dr-janaki-ammal.webp
+subject: janaki-ammal
+thinker_mentions: 
+- thinker: janaki-ammal
+  role: subject
+  reasoning: The essay is a full-length profile of Dr. Janaki Ammal celebrating her life as India's first woman botanist, her scientific achievements in sugarcane genetics, her environmental activism, and her exemplary defiance of gender and caste barriers.
+  evidence: []
+  key_passages: 
+  - quote: Edavaleth Kakkat Janaki Ammal, a botanist and cytogeneticist, best known for putting sweetness in India's sugarcane varieties through her scientific methods, remains unknown outside of academia
+    what_it_shows: introduces the central irony of her obscurity despite her transformative scientific contribution
+  - quote: Janaki was among the few women who chose her career over marriage. A rather brave decision in those times
+    what_it_shows: frames her professional choice as an act of individual liberal agency against social norms
+  - quote: Janaki Ammal was awarded the Padma Shri in 1977
+    what_it_shows: official state recognition of her scientific contribution
+  - quote: Janaki leaves her presence in the smell of Magnolia and her individuality in the sugar of Indian sugarcane
+    what_it_shows: poetic summation of her enduring legacy in both horticulture and Indian agriculture
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "women-education"
-  - "women-in-science"
-key_concepts:
-  - "cytogenetics"
-  - "sugarcane-breeding"
-  - "women-in-science"
-  - "padma-shri"
-  - "barbour-scholarship"
+source_channel: editorial-opinions
+proposed_themes: 
+- women-education
+- women-in-science
+key_concepts: 
+- cytogenetics
+- sugarcane-breeding
+- women-in-science
+- padma-shri
+- barbour-scholarship
 pull_quote: Janaki was among the few women who chose her career over marriage.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "kerala"
-    - "madras-presidency"
-    - "tamil-nadu"
-    - "united-states"
+  places: 
+  - kerala
+  - madras-presidency
+  - tamil-nadu
+  - united-states
 ---
 
 The following essay celebrates the life and works of Indian botanist and cytogeneticist, Dr Janaki Ammal. A brilliant scientist and often the only woman in a room full of men, Dr Janaki was awarded the Padma Shri in 1977.At a time where the country focuses on the importance of women’s education and employment, Edavaleth Kakkat Janaki Ammal, a botanist and cytogeneticist, best known for putting sweetness in India’s sugarcane varieties through her scientific methods, remains unknown outside of academia. 
@@ -66,15 +66,11 @@ Janaki did not limit herself to a certain sect of the society and was always int
 
 Janaki was also an environmental activist. She took part in various protests that were held against environmental damage, one of which was the protest held against the building of a hydropower dam across the river Kunthipuzha in Kerala’s Silent Valley. Her active participation brought the credibility of a scientist to activism.
 
- Janaki was also the only woman invitee to the landmark international symposium on environmental history, “[Man’s Role in Changing the Face of the Earth](http://www.wennergren.org/history/conferences-seminars-symposia/wenner-gren-symposia/wenner-gren-symposia1952-1960/mans-role-c)” organized by the Wenner Gren Foundation for Anthropological Research at Princeton in 1955. Creating a space for women at a conference which had “Man’s Role” in its title.
+ Janaki was also the only woman invitee to the landmark international symposium on environmental history, “Man’s Role in Changing the Face of the Earth” organized by the Wenner Gren Foundation for Anthropological Research at Princeton in 1955. Creating a space for women at a conference which had “Man’s Role” in its title.
 
 It was Janaki’s individuality and belief in her ideas that led her to participate in conferences, protests, and events that had no space for women and were reserved for the privileged. She crossed every hindrance that life threw at her. Even her age could not stop her. After retirement, she continued researching. She served for a short period at the Atomic Research Station at Trombay before serving as an Emeritus Scientist at the Centre for Advanced Study in Botany, University of Madras. Few know that during her last years, Janaki’s main interest had been the rearing of a large family of cats and kittens. 
 
 For her exemplary contribution to science in India, Dr. Janaki Ammal was awarded the Padma Shri in 1977. In 2000, the Ministry of Environment and Forestry created the National Award of Taxonomy in her name. Janaki leaves her presence in the smell of Magnolia and her individuality in the sugar of Indian sugarcane reminding us that the result of believing in oneself is often sweet. 
 
-Books by Janaki
-
-[_The Chromosome Atlas of Cultivated Plants_](https://www.journals.uchicago.edu/doi/abs/10.1086/395326)
-
-**![](https://indianliberals.in/wp-content/uploads/2021/09/bio.png)Naina Ojha **
-Naina is a writer from Ghazibad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.
+(https://indianliberals.in/wp-content/uploads/2021/09/bio.png)Naina Ojha
+is a writer from Ghazibad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.
