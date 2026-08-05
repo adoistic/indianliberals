@@ -133,12 +133,19 @@ import Shell from '../layouts/Shell.astro';
     import { watchUser, roleFor } from '../lib/firebase';
     import { canPublish, type Role } from '../lib/roles';
     import { collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import { surfaceFor } from '../lib/site-surfaces';
     import { GROUPS } from '../lib/groups';
     import { toMarkdownFile } from '../lib/ingest';
     // The scalar reader lives in its own module so it can be tested. It was
     // untestable inside this file, and a flow sequence it misread stopped the
     // site's deploys for six days before anyone saw it.
     import { scalar } from '../lib/yaml-scalar';
+    import {
+      imageField,
+      imageFieldStyles,
+      stagedForSave,
+      type StagedImage,
+    } from '../lib/image-field';
     import type { User } from 'firebase/auth';
 
     // ── A small YAML reader ────────────────────────────────────────────
@@ -466,6 +473,10 @@ import Shell from '../layouts/Shell.astro';
     const widgets = new Map<string, Field>();
     /** One datalist per collection a picker points at. */
     const datalists = new Map<string, string>();
+    /** Pictures dropped on the form, held in staging until the save commits them. */
+    const stagedImages = new Map<string, StagedImage>();
+    /** Image fields awaiting a live widget after their HTML landed. */
+    const imageDefs = new Map<string, Field>();
 
     function stop(message: string): void {
       stage.hidden = true;
@@ -767,9 +778,58 @@ import Shell from '../layouts/Shell.astro';
       )}${inner}</div>`;
     }
 
+    function imageHtml(field: Field, path: string): string {
+      imageDefs.set(path, field);
+      return `<div class="field">${labelHtml(field)}<div class="imgmount" data-image="${esc(
+        path,
+      )}"></div>${hintHtml(field)}</div>`;
+    }
+
+    /**
+     * The image widgets are real DOM built by a shared module, not HTML
+     * strings, so they are mounted after each innerHTML pass. Styles ride in
+     * once, the first time one appears.
+     */
+    let imageStylesIn = false;
+    function mountImages(): void {
+      if (!me) return;
+      const my = me;
+      for (const slot of fieldsBox.querySelectorAll<HTMLElement>('[data-image]')) {
+        if (slot.dataset.mounted === '1') continue;
+        slot.dataset.mounted = '1';
+        const path = slot.dataset.image ?? '';
+        const field = imageDefs.get(path);
+        if (!field) continue;
+        if (!imageStylesIn) {
+          imageStylesIn = true;
+          const style = document.createElement('style');
+          style.textContent = imageFieldStyles();
+          document.head.appendChild(style);
+        }
+        slot.appendChild(
+          imageField({
+            field,
+            path,
+            value: () => shownValue(path),
+            setValue: (value) => {
+              if (value) setPath(data, path, value);
+              else clearPath(data, path);
+              refresh();
+            },
+            slug: () => slug,
+            pdfUrl: () => String(getPath(data, 'pdf_url') ?? ''),
+            token: () => my.getIdToken(),
+            staged: stagedImages,
+          }),
+        );
+      }
+    }
+
     function fieldHtml(field: Field, prefix: string): string {
       const path = `${prefix}${field.name}`;
       switch (field.kind) {
+        case 'image':
+          return imageHtml(field, path);
         case 'boolean':
           return tickHtml(field, path);
         case 'multiselect':
@@ -829,8 +889,10 @@ import Shell from '../layouts/Shell.astro';
             .map((field) => fieldHtml(field, ''))
             .join('');
           syncDatalists();
+          mountImages();
         });
       }
+      mountImages();
     }
 
     function redraw(path: string): void {
@@ -840,6 +902,7 @@ import Shell from '../layouts/Shell.astro';
       node.innerHTML =
         field.kind === 'object-list' ? objectListInner(field, path) : stringListInner(field, path);
       syncDatalists();
+      mountImages();
     }
 
     // ── Everything the form does back to the data ──────────────────────
@@ -974,6 +1037,11 @@ import Shell from '../layouts/Shell.astro';
 
     function showWhere(def: CollectionDef): void {
       const where = document.getElementById('where')!;
+      if (def.id === 'site') {
+        const said = (def as { where?: string }).where ?? 'These words appear on the public site.';
+        where.textContent = `${said} What you save appears once the site has rebuilt, usually within half an hour. An emptied box goes back to the site's built-in wording, so you cannot blank a page.`;
+        return;
+      }
       const segment = PUBLIC[def.id];
       if (!segment) {
         where.textContent = `This is a ${def.singular.toLowerCase()}. Nothing of this kind has a page of its own on the site yet, so there is nothing to look at while you work.`;
@@ -1045,6 +1113,8 @@ import Shell from '../layouts/Shell.astro';
             // your save wiping out a change a colleague made in the meantime.
             sha,
             summary: summaryInput.value.trim() || undefined,
+            // Pictures dropped on the form, committed beside the entry.
+            images: stagedForSave(stagedImages),
           }),
         });
         const payload = (await response.json()) as {
@@ -1083,6 +1153,7 @@ import Shell from '../layouts/Shell.astro';
           link,
         );
         summaryInput.value = '';
+        stagedImages.clear();
         markOpened();
         await refreshSha();
       } catch (error) {
@@ -1115,7 +1186,12 @@ import Shell from '../layouts/Shell.astro';
         return;
       }
 
-      collection = collectionById(collectionId) ?? null;
+      // The website's own words: one form per surface, all filed under the
+      // site collection, each with its own fields rather than one shared set.
+      collection =
+        collectionId === 'site'
+          ? (surfaceFor(slug) ?? null)
+          : (collectionById(collectionId) ?? null);
       if (!collection) {
         stop(`There is no kind of entry called "${collectionId}" in the archive.`);
         return;

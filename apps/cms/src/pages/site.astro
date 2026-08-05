@@ -1,0 +1,96 @@
+---
+import Shell from '../layouts/Shell.astro';
+import { SURFACES } from '../lib/site-surfaces';
+
+/**
+ * The website's own words.
+ *
+ * Every static sentence on the site, gathered in one place: the homepage,
+ * the menus, each section's introduction, the about page, the shelf blurbs
+ * and the interface labels. Each card opens the ordinary edit screen on
+ * that surface's file, so changing the site's wording works exactly like
+ * correcting a publisher: type, save, and the site rebuilds.
+ */
+
+// A little grouping so twenty-odd cards read as a page, not a pile.
+const GROUPS: { title: string; note: string; slugs: string[] }[] = [
+  {
+    title: 'The big pages',
+    note: 'The front page, the about page, and the site\'s name and description.',
+    slugs: ['home', 'about', 'identity', 'navigation'],
+  },
+  {
+    title: 'Section introductions',
+    note: 'The headline and introduction at the top of each listing page.',
+    slugs: [
+      'section-primary-works',
+      'section-thinkers',
+      'section-thinkers-directory',
+      'section-organisations',
+      'section-opinions',
+      'section-musings',
+      'section-periodicals',
+      'section-interviews',
+      'section-interviews-people',
+      'section-lectures',
+      'section-languages',
+      'section-theprint',
+      'section-events',
+      'section-contributors',
+      'section-search',
+    ],
+  },
+  {
+    title: 'Everything else',
+    note: 'Shelf descriptions, the placeholder pages, and the small recurring labels.',
+    slugs: ['shelves', 'coming-soon', 'labels'],
+  },
+];
+
+const bySlug = new Map(SURFACES.map((s) => [s.slug, s]));
+---
+
+<Shell title="The website's own words">
+  <p class="eyebrow">The site</p>
+  <h1>Change the website's own words</h1>
+  <hr class="rule" />
+  <p class="lede">
+    Everything the site says about itself: headlines, introductions, menu labels, blurbs.
+    Open a card, change the words, save. The site rebuilds and readers see the new wording,
+    usually within half an hour. Emptying a box is always safe: the site goes back to its
+    built-in wording rather than showing a blank.
+  </p>
+
+  {
+    GROUPS.map((group) => (
+      <section class="grouping">
+        <h2>{group.title}</h2>
+        <p class="hint">{group.note}</p>
+        <div class="cards">
+          {group.slugs.map((slug) => {
+            const s = bySlug.get(slug);
+            if (!s) return null;
+            return (
+              <a class="card surface" href={`/edit?collection=site&slug=${slug}`}>
+                <h3>{s.label}</h3>
+                <p>{s.where}</p>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    ))
+  }
+
+  <style>
+    .lede { max-width: 46rem; }
+    .grouping { margin-top: 2.25rem; }
+    .grouping h2 { font-size: 1.35rem; }
+    .grouping .hint { margin: 0.2rem 0 1rem; }
+    .cards { display: grid; gap: 0.85rem; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); }
+    .surface { text-decoration: none; display: block; padding: 1.05rem 1.2rem; transition: border-color 0.15s, transform 0.15s; }
+    .surface:hover { border-color: var(--gold); transform: translateY(-1px); }
+    .surface h3 { margin: 0 0 0.35rem; font-size: 1.1rem; }
+    .surface p { margin: 0; font-size: 0.85rem; color: var(--body); }
+  </style>
+</Shell>
