@@ -7,6 +7,11 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getLanguageShelves } from "~/lib/languages";
+import { siteCopy, t, fmt } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-languages");
+const LEDE_FALLBACK =
+  "Most of this archive argues in English, because that is the language its authors chose for a national audience. Not all of it. The Marathi farmers&rsquo; movement, the Gujarati commercial press and the Bengali social reformers wrote for readers closer to home, and those works are collected here by the language they were published in.";
 
 const shelves = await getLanguageShelves();
 const total = shelves.reduce((n, s) => n + s.total, 0);
@@ -34,19 +39,19 @@ function summarise(s: (typeof shelves)[number]): string {
     ]),
   ]}
   ogImage={ogSection("primary-works")}
-  title="Languages · Indian Liberals"
-  description={`${total} items in the Indian languages: ${shelves.map((s) => s.english).join(", ")}.`}
+  title={t(copy, "title", "Languages · Indian Liberals")}
+  description={fmt(t(copy, "description", "{count} items in the Indian languages: {langs}."), {
+    count: total,
+    langs: shelves.map((s) => s.english).join(", "),
+  })}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
-      <h1 class="text-(--color-fg) mb-4">Languages</h1>
-      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        Most of this archive argues in English, because that is the language its
-        authors chose for a national audience. Not all of it. The Marathi
-        farmers&rsquo; movement, the Gujarati commercial press and the Bengali
-        social reformers wrote for readers closer to home, and those works are
-        collected here by the language they were published in.
-      </p>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Languages")}</h1>
+      <p
+        class="text-(--color-fg-muted) leading-relaxed max-w-prose"
+        set:html={t(copy, "lede", LEDE_FALLBACK)}
+      />
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {total} items across {shelves.length} languages
       </p>

@@ -1,5 +1,34 @@
 ---
+import { n, siteCopy, t } from "~/lib/site-copy";
+
 const year = new Date().getFullYear();
+
+// Sitewide identity + navigation copy (site collection). Every string keeps
+// its original wording as the inline fallback.
+const identity = await siteCopy("identity");
+const nav = await siteCopy("navigation");
+
+const footerBlurb = t(
+  identity,
+  "footer_blurb",
+  "An online archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, interviews, and curated excerpts from the figures who built the case for liberty in modern India.",
+);
+const orgName = t(identity, "org_name", "Centre for Civil Society");
+const orgUrl = t(identity, "org_url", "https://ccs.in");
+const orgUrlLabel = orgUrl.replace(/^https?:\/\//, "").replace(/\/$/, "");
+const builderName = t(identity, "builder_name", "Thothica");
+const builderUrl = t(identity, "builder_url", "https://thothica.com");
+const copyrightStart = n(identity, "copyright_start", 2009);
+
+const builtinFooterLinks = [
+  { label: "Terms of use", href: "/terms-of-use/" },
+  { label: "Privacy policy", href: "/privacy-policy/" },
+  { label: "/llms.txt", href: "/llms.txt" },
+  { label: "/AGENTS.md", href: "/AGENTS.md" },
+];
+const seedFooterLinks = nav.footer_links as { label: string; href: string }[] | undefined;
+const footerLinks =
+  seedFooterLinks && seedFooterLinks.length ? seedFooterLinks : builtinFooterLinks;
 ---
 
 <footer class="border-t border-(--color-border) mt-20 bg-(--color-bg-muted)">
@@ -10,27 +39,26 @@ const year = new Date().getFullYear();
         <span class="font-(family-name:--font-display) font-semibold text-(--color-fg)">Indian Liberals</span>
       </div>
       <p class="text-(--color-fg-muted) leading-relaxed">
-        An online archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, interviews, and curated excerpts from the figures who built the case for liberty in modern India.
+        {footerBlurb}
       </p>
     </div>
     <div>
       <h2 class="font-(family-name:--font-ui) text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Maintained by</h2>
-      <p class="text-(--color-fg) font-medium mb-1">Centre for Civil Society</p>
-      <a href="https://ccs.in" class="text-(--color-fg-muted) hover:text-(--color-fg)">ccs.in</a>
+      <p class="text-(--color-fg) font-medium mb-1">{orgName}</p>
+      <a href={orgUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{orgUrlLabel}</a>
       <p class="text-(--color-fg-muted) text-xs leading-relaxed mt-3">
-        Site rebuilt by <a href="https://thothica.com" class="text-(--color-fg-muted) hover:text-(--color-fg)">Thothica</a>.
+        Site rebuilt by <a href={builderUrl} class="text-(--color-fg-muted) hover:text-(--color-fg)">{builderName}</a>.
       </p>
     </div>
   </div>
   <div class="border-t border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-      <p>© 2009–<span id="copyright-year" data-build-year={year}>{year}</span> Centre for Civil Society. All rights reserved.</p>
+      <p>© {copyrightStart}–<span id="copyright-year" data-build-year={year}>{year}</span> {orgName}. All rights reserved.</p>
       <nav aria-label="Footer">
         <ul class="flex items-center gap-4">
-          <li><a href="/terms-of-use/" class="hover:text-(--color-fg)">Terms of use</a></li>
-          <li><a href="/privacy-policy/" class="hover:text-(--color-fg)">Privacy policy</a></li>
-          <li><a href="/llms.txt" class="hover:text-(--color-fg)">/llms.txt</a></li>
-          <li><a href="/AGENTS.md" class="hover:text-(--color-fg)">/AGENTS.md</a></li>
+          {footerLinks.map((l) => (
+            <li><a href={l.href} class="hover:text-(--color-fg)">{l.label}</a></li>
+          ))}
         </ul>
       </nav>
     </div>

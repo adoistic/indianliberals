@@ -10,6 +10,7 @@
 // from any name in the piece to that thinker's bio.
 
 import { getCollection } from "astro:content";
+import { siteCopy, label } from "~/lib/site-copy";
 
 interface Props {
   authorSlugs?: string[];
@@ -18,11 +19,13 @@ interface Props {
   title?: string;
 }
 
+const labels = await siteCopy("labels");
+
 const {
   authorSlugs = [],
   subjectSlugs = [],
   mentionSlugs = [],
-  title = "People in this piece",
+  title = label(labels, "people.heading", "People in this piece"),
 } = Astro.props;
 
 const allThinkers = await getCollection("thinkers");

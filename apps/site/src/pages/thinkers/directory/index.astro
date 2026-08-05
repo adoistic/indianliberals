@@ -15,6 +15,12 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { getThinkerStats, type ThinkerStat } from "~/lib/thinker-stats";
+import { siteCopy, t, keyed } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-thinkers-directory");
+const dw = (key: string) => keyed(copy, "doorways", key);
+const LEDE_FALLBACK =
+  'The complete index of people this archive engages with. Not everyone listed here is a liberal thinker; the corpus also references the statesmen, critics, and opponents the liberals wrote about and argued with. Each section below says which is which. For the curated canon, see the <a href="/thinkers/" class="text-(--color-forest-700)">thinkers page</a>.';
 
 // Hide thinkers with zero inbound reference material (`draft: true` is set
 // by /tmp/auto_hide_orphans.py when nothing in the corpus references the
@@ -41,30 +47,42 @@ type CanonStatus = "core" | "extended" | "referenced" | "unclassified";
 const sections: { id: CanonStatus; title: string; blurb: string; isAwaiting: boolean }[] = [
   {
     id: "core",
-    title: "Liberal canon",
-    blurb:
+    title: t(dw("core"), "label", "Liberal canon"),
+    blurb: t(
+      dw("core"),
+      "blurb",
       "Central figures in the story this site tells: thinkers whose ideas, governance, scholarship, or enterprise form the foundation of the case for individual liberty, free enterprise, and constitutional governance in modern India. The most significant appear on the curated thinkers page.",
+    ),
     isAwaiting: false,
   },
   {
     id: "extended",
-    title: "Extended liberal tradition",
-    blurb:
+    title: t(dw("extended"), "label", "Extended liberal tradition"),
+    blurb: t(
+      dw("extended"),
+      "blurb",
       "The broader cast in the liberal story: thinkers, statesmen, scholars, and figures of practice whose work belongs here without being at the very centre. Includes constitutional liberals, contemporary commentators, reform-era thinkers, and practitioners whom the liberal tradition honors, scientists, jurists, industrialists whose work has shaped the Indian liberal imagination.",
+    ),
     isAwaiting: false,
   },
   {
     id: "referenced",
-    title: "Referenced figures, not part of the liberal tradition",
-    blurb:
+    title: t(dw("referenced"), "label", "Referenced figures, not part of the liberal tradition"),
+    blurb: t(
+      dw("referenced"),
+      "blurb",
       "People from outside the liberal tradition who appear in the corpus because liberal writers cited, debated, criticised, or occasionally admired them, from socialist statesmen to industrialists to ideological opponents. They are indexed here so the cross-reference graph stays honest; inclusion is documentation, not endorsement.",
+    ),
     isAwaiting: false,
   },
   {
     id: "unclassified",
-    title: "Awaiting classification",
-    blurb:
+    title: t(dw("unclassified"), "label", "Awaiting classification"),
+    blurb: t(
+      dw("unclassified"),
+      "blurb",
       "Classification pass in progress; these entries will move into the sections above as curator review completes.",
+    ),
     isAwaiting: true,
   },
 ];
@@ -81,8 +99,8 @@ const sectionCounts = new Map<CanonStatus, number>(
 ---
 
 <BaseLayout
-  title="Full directory of people · Indian Liberals"
-  description="The complete directory of every person the Indian Liberals archive engages with, the liberal canon, the extended tradition, and referenced figures from outside it."
+  title={t(copy, "title", "Full directory of people · Indian Liberals")}
+  description={t(copy, "description", "The complete directory of every person the Indian Liberals archive engages with, the liberal canon, the extended tradition, and referenced figures from outside it.")}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -90,14 +108,11 @@ const sectionCounts = new Map<CanonStatus, number>(
         <a href="/thinkers/" class="no-underline text-inherit hover:text-(--color-fg)">Thinkers</a>
         <span aria-hidden> / </span>Directory
       </p>
-      <h1 class="text-(--color-fg) mb-4">Everyone in the archive</h1>
-      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        The complete index of people this archive engages with. Not everyone
-        listed here is a liberal thinker; the corpus also references the
-        statesmen, critics, and opponents the liberals wrote about and argued
-        with. Each section below says which is which. For the curated canon,
-        see the <a href="/thinkers/" class="text-(--color-forest-700)">thinkers page</a>.
-      </p>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Everyone in the archive")}</h1>
+      <p
+        class="text-(--color-fg-muted) leading-relaxed max-w-prose"
+        set:html={t(copy, "lede", LEDE_FALLBACK)}
+      />
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {statLine}
       </p>
@@ -217,7 +232,7 @@ const sectionCounts = new Map<CanonStatus, number>(
             })}
           </ul>
           <p class="dir-section-empty hidden text-sm text-(--color-fg-muted) font-(family-name:--font-ui) italic">
-            No one in this section matches the filter.
+            {t(copy, "empty_state", "No one in this section matches the filter.")}
           </p>
           {sectionThinkers.length > 24 && (
             <button

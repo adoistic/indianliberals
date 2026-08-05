@@ -36,6 +36,7 @@ import { resolveAuthorEntries, type AuthorEntry } from "~/lib/resolve-author-ent
 import RelatedSection from "~/components/RelatedSection.astro";
 import PeopleInPiece from "~/components/PeopleInPiece.astro";
 import { seriesOf } from "~/lib/series";
+import { siteCopy, label, fmt } from "~/lib/site-copy";
 
 interface Props {
   entry: CollectionEntry<"primary-works">;
@@ -44,6 +45,7 @@ interface Props {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const fm = entry.data;
+const labels = await siteCopy("labels");
 
 const hreflang = hreflangAlternates(
   "primary-works",
@@ -298,7 +300,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
                  focus:outline-none focus-visible:ring-2 focus-visible:ring-(--color-saffron-500)
                  -mb-px transition-colors"
         >
-          Summary
+          {label(labels, "work.summary", "Summary")}
         </button>
         <button
           role="tab"
@@ -312,7 +314,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
                  focus:outline-none focus-visible:ring-2 focus-visible:ring-(--color-saffron-500)
                  -mb-px transition-colors"
         >
-          {pageCount ? `Read full PDF · ${pageCount} pages` : "Read full PDF"}
+          {pageCount ? fmt(label(labels, "work.read_pdf", "Read full PDF · {pages} pages"), { pages: pageCount }) : "Read full PDF"}
         </button>
       </div>
     )}
@@ -347,7 +349,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       {isInterview && interviewSummary && (
         <section class="mb-10">
           <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) font-semibold mb-4">
-            Summary
+            {label(labels, "work.summary", "Summary")}
           </h2>
           <div class="prose-container">
             {interviewSummary.split(/\n\n+/).map((para) => (
@@ -360,7 +362,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       {isInterview && interviewKeyPoints.length > 0 && (
         <section class="mb-10">
           <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) font-semibold mb-4">
-            Key points
+            {label(labels, "work.key_points", "Key points")}
           </h2>
           <ul class="list-disc pl-6 space-y-2">
             {interviewKeyPoints.map((kp: string) => (
@@ -378,18 +380,14 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
           H1 (the page header above already shows the title). */}
       {isInterview && (
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) font-semibold mb-4">
-          Transcript
+          {label(labels, "work.transcript", "Transcript")}
         </h2>
       )}
       {withheld && (
         <div class="mb-10 rounded-lg border border-(--color-border) bg-(--color-bg-muted) p-5 font-(family-name:--font-ui)">
-          <p class="text-sm font-semibold text-(--color-fg) mb-1">Not yet digitised</p>
+          <p class="text-sm font-semibold text-(--color-fg) mb-1">{label(labels, "work.withheld_title", "Not yet digitised")}</p>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed">
-            The archive holds a catalogue record for this work but not the
-            document itself, so there is nothing here to read yet and the
-            description previously shown could not be relied on. The entry is
-            kept so the reference survives. It will be restored once the source
-            has been scanned.
+            {label(labels, "work.withheld_body", "The archive holds a catalogue record for this work but not the document itself, so there is nothing here to read yet and the description previously shown could not be relied on. The entry is kept so the reference survives. It will be restored once the source has been scanned.")}
           </p>
         </div>
       )}
@@ -405,7 +403,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
       {pullQuotes.length > 0 && (
         <section class="mb-10">
           <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
-            Notable passages
+            {label(labels, "work.passages", "Notable passages")}
           </h2>
           <div class="space-y-6">
             {pullQuotes.map((q) => (
@@ -451,7 +449,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
     {/* Themes */}
     {themesPretty.length > 0 && (
       <aside class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) text-sm">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Themes</h2>
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">{label(labels, "work.themes", "Themes")}</h2>
         <ul class="flex flex-wrap gap-2">
           {themesPretty.map((th) => (
             <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg)">{th}</li>
@@ -471,7 +469,7 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
     <PeopleInPiece
       authorSlugs={authorSlugs}
       mentionSlugs={[...contributorSlugs, ...mentionSlugs, ...relatedThinkerSlugs]}
-      title="People in this work"
+      title={label(labels, "work.people", "People in this work")}
     />
 
     <RelatedSection collection="primary-works" slug={entry.id} viewerLang={entry.data.language} />

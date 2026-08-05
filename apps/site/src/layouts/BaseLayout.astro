@@ -5,6 +5,7 @@ import Footer from "~/components/Footer.astro";
 import { BCP47, OG_LOCALE, type LangCode } from "~/lib/i18n";
 import { OG_HOME } from "~/lib/og";
 import { organizationNode, webSiteNode } from "~/lib/schema";
+import { siteCopy, t } from "~/lib/site-copy";
 
 interface HreflangAlternate {
   hreflang: string;
@@ -33,9 +34,18 @@ interface Props {
   schema?: Record<string, unknown>[];
 }
 
+// Sitewide identity copy (site collection, `identity` entry). Every field
+// falls back to the original hardcoded wording when the entry is missing.
+const copy = await siteCopy("identity");
+const siteDescription = t(
+  copy,
+  "site_description",
+  "A digital archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, and curated excerpts from the figures who built the case for liberty in modern India.",
+);
+
 const {
-  title = "Indian Liberals: An Online Archive of Indian Liberal Works",
-  description = "A digital archive of the Indian liberal tradition. Primary works, thinker profiles, organisations, opinions, and curated excerpts from the figures who built the case for liberty in modern India.",
+  title = t(copy, "site_title", "Indian Liberals: An Online Archive of Indian Liberal Works"),
+  description = siteDescription,
   lang = "en",
   noindex = false,
   hreflang = [],
@@ -57,7 +67,7 @@ const htmlLang = BCP47[lang as LangCode] ?? "en-IN";
 // page-specific nodes (work, person, article, breadcrumbs, ...).
 const jsonLd = JSON.stringify({
   "@context": "https://schema.org",
-  "@graph": [organizationNode(), webSiteNode(), ...schema],
+  "@graph": [organizationNode(siteDescription), webSiteNode(siteDescription), ...schema],
 });
 ---
 

@@ -13,6 +13,15 @@ import { getCollection } from "astro:content";
 import { getPeriodicalSeries } from "~/lib/periodicals";
 import { isListed } from "~/lib/listable";
 import { isCanonThinker } from "~/lib/canon";
+import { fmt, keyed, siteCopy, t } from "~/lib/site-copy";
+
+// Homepage copy (site collection, `home` entry). Every string keeps its
+// original wording as the inline fallback; computed counts flow into the
+// edited sentences through {token} placeholders via fmt().
+const copy = await siteCopy("home");
+const tile = (key: string, fallback: string) => t(keyed(copy, "tiles", key), "label", fallback);
+const card = (key: string, field: string, fallback: string) =>
+  t(keyed(copy, "cards", key), field, fallback);
 
 const allThinkers = await getCollection("thinkers", (t) => !t.data.draft);
 
@@ -61,20 +70,20 @@ const stats: { value: number; label: string; href?: string }[] = [
   // The one tile that is a fact rather than a doorway: there is no "pages"
   // section to send a reader to, and pointing it at /primary-works/ would
   // give the row two tiles with the same destination.
-  { value: pageTotal, label: "Pages" },
-  { value: allWorks.length, label: "Primary works", href: "/primary-works/" },
-  { value: periodicalCount, label: "Periodical issues", href: "/periodicals/" },
-  { value: interviewCount, label: "Oral history", href: "/interviews/" },
+  { value: pageTotal, label: tile("pages", "Pages") },
+  { value: allWorks.length, label: tile("works", "Primary works"), href: "/primary-works/" },
+  { value: periodicalCount, label: tile("issues", "Periodical issues"), href: "/periodicals/" },
+  { value: interviewCount, label: tile("oral", "Oral history"), href: "/interviews/" },
   {
     value: allThinkers.filter((t) =>
       ["core", "extended"].includes(t.data.canon_status),
     ).length,
-    label: "Thinkers profiled",
+    label: tile("thinkers", "Thinkers profiled"),
     href: "/thinkers/",
   },
   {
     value: allMusings.length + allOpinions.length,
-    label: "Excerpts & opinions",
+    label: tile("pieces", "Excerpts & opinions"),
     href: "/opinions/",
   },
   // The Organisations tile is out while the section is hidden (CCS round-3
@@ -179,29 +188,29 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
     <div class="mx-auto max-w-6xl px-6 pt-8 pb-16 md:pt-12 md:pb-24 lg:grid lg:grid-cols-[1.1fr_0.9fr] lg:gap-16 lg:items-center">
       <div class="relative z-10">
         <p class="text-lg md:text-xl text-(--color-saffron-700) font-(family-name:--font-ui) font-medium mb-4" data-reveal>
-          A digital archive of the Indian liberal tradition
+          {t(copy, "hero_eyebrow", "A digital archive of the Indian liberal tradition")}
         </p>
         <h1 class="text-(--color-fg) max-w-xl text-4xl md:text-5xl lg:text-[3.4rem] leading-[1.05] tracking-tight" data-reveal style="--reveal-delay: 60ms">
-          Two centuries of the liberal argument for India.
+          {t(copy, "hero_heading", "Two centuries of the liberal argument for India.")}
         </h1>
         <p class="mt-6 text-lg leading-relaxed text-(--color-fg-muted) max-w-prose" data-reveal style="--reveal-delay: 120ms">
-          {allWorks.length.toLocaleString("en-IN")} works, from the Bengal
-          Renaissance to the 1991 reforms: the pamphlets and journals that
-          carried the argument for individual liberty and free enterprise, and
-          the people who made it.
+          {fmt(
+            t(copy, "hero_lede", "{works} works, from the Bengal Renaissance to the 1991 reforms: the pamphlets and journals that carried the argument for individual liberty and free enterprise, and the people who made it."),
+            { works: allWorks.length.toLocaleString("en-IN") },
+          )}
         </p>
         <div class="mt-8 flex flex-wrap gap-3 font-(family-name:--font-ui)" data-reveal style="--reveal-delay: 180ms">
           <a
             href="/primary-works/"
             class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-white! rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors"
           >
-            Explore the archive <span aria-hidden>→</span>
+            {t(copy, "cta_primary", "Explore the archive")} <span aria-hidden>→</span>
           </a>
           <a
             href="/thinkers/"
             class="inline-flex items-center gap-2 px-5 py-2.5 border border-(--color-border) rounded-full text-sm font-semibold no-underline text-(--color-fg) hover:border-(--color-fg) transition-colors"
           >
-            Meet the thinkers
+            {t(copy, "cta_secondary", "Meet the thinkers")}
           </a>
         </div>
 
@@ -250,10 +259,14 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
     <div class="mx-auto max-w-6xl px-6 pt-12 pb-10">
       <div class="flex items-baseline justify-between flex-wrap gap-2 mb-8" data-reveal>
         <h2 class="text-xs uppercase tracking-widest text-(--color-forest-700) font-(family-name:--font-ui) font-semibold">
-          The archive at a glance
+          {t(copy, "glance_heading", "The archive at a glance")}
         </h2>
         <p class="text-xs text-(--color-fg-muted) font-(family-name:--font-ui)">
-          {spanYears > 100 ? "Two centuries" : "Decades"} of the liberal argument, {decadeMin}–{decadeMax + 9}
+          {fmt(t(copy, "glance_span", "{span} of the liberal argument, {from}–{to}"), {
+            span: spanYears > 100 ? "Two centuries" : "Decades",
+            from: decadeMin,
+            to: decadeMax + 9,
+          })}
         </p>
       </div>
 
@@ -319,7 +332,13 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         <figcaption class="mt-2 flex items-baseline justify-between text-[11px] text-(--color-fg-muted) font-(family-name:--font-ui)">
           <span>{decadeMin}s</span>
           <span class="hidden sm:inline">
-            {datedWorksCount.toLocaleString("en-IN")} of {allWorks.length.toLocaleString("en-IN")} works carry a date, from the Bengal Renaissance to the reform era and beyond
+            {fmt(
+              t(copy, "histogram_caption", "{dated} of {works} works carry a date, from the Bengal Renaissance to the reform era and beyond"),
+              {
+                dated: datedWorksCount.toLocaleString("en-IN"),
+                works: allWorks.length.toLocaleString("en-IN"),
+              },
+            )}
           </span>
           <span>{decadeMax}s</span>
         </figcaption>
@@ -331,11 +350,9 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-16">
       <div class="mb-10 max-w-prose" data-reveal>
-        <h2 class="text-(--color-fg)">Browse the collection</h2>
+        <h2 class="text-(--color-fg)">{t(copy, "browse_heading", "Browse the collection")}</h2>
         <p class="text-(--color-fg-muted) mt-2">
-          Four sections, organised by what you are looking for: the individual
-          works, the periodical runs, the recorded interviews, and the people
-          behind them.
+          {t(copy, "browse_lede", "Four sections, organised by what you are looking for: the individual works, the periodical runs, the recorded interviews, and the people behind them.")}
         </p>
       </div>
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5 font-(family-name:--font-ui)">
@@ -349,9 +366,12 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
             <span class="w-5 h-22 rounded-t-sm bg-(--color-forest-700)/80 group-hover:h-26 transition-all duration-300 delay-200"></span>
             <span class="w-5 h-27 rounded-t-sm bg-(--color-saffron-700)/80 group-hover:h-31 transition-all duration-300 delay-300"></span>
           </div>
-          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">Primary works</h3>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">{card("primary-works", "heading", "Primary works")}</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            {allWorks.length} books, pamphlets, essays, and speeches, with AI-extracted metadata, summaries, and the source PDFs.
+            {fmt(
+              card("primary-works", "blurb", "{count} books, pamphlets, essays, and speeches, with AI-extracted metadata, summaries, and the source PDFs."),
+              { count: allWorks.length },
+            )}
           </p>
         </a>
 
@@ -375,9 +395,12 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
               />
             ))}
           </div>
-          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">The periodical runs</h3>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">{card("periodicals", "heading", "The periodical runs")}</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            {periodicalCount} issues of Khoj, The Indian Libertarian, Liberal Times, and Shetkari Sanghatak, indexed issue by issue.
+            {fmt(
+              card("periodicals", "blurb", "{count} issues of Khoj, The Indian Libertarian, Liberal Times, and Shetkari Sanghatak, indexed issue by issue."),
+              { count: periodicalCount },
+            )}
           </p>
         </a>
 
@@ -393,9 +416,12 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
               </span>
             </span>
           </div>
-          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">Recorded voices</h3>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">{card("interviews", "heading", "Recorded voices")}</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            {interviewCount} interviews, oral histories, and historic addresses, from Palkhivala&rsquo;s 1992 budget speech onward, with transcripts.
+            {fmt(
+              card("interviews", "blurb", "{count} interviews, oral histories, and historic addresses, from Palkhivala’s 1992 budget speech onward, with transcripts."),
+              { count: interviewCount },
+            )}
           </p>
         </a>
 
@@ -419,9 +445,9 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
               +{featuredThinkers.length - 3}
             </span>
           </div>
-          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">The thinkers</h3>
+          <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors text-lg">{card("thinkers", "heading", "The thinkers")}</h3>
           <p class="text-sm text-(--color-fg-muted) leading-relaxed mt-1.5">
-            The curated canon, plus a full directory of every person the corpus engages, clearly labelled.
+            {card("thinkers", "blurb", "The curated canon, plus a full directory of every person the corpus engages, clearly labelled.")}
           </p>
         </a>
       </div>
@@ -434,14 +460,13 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
       <div class="mx-auto max-w-6xl px-6 py-16">
         <div class="flex items-end justify-between mb-8 flex-wrap gap-4" data-reveal>
           <div>
-            <h2 class="text-(--color-fg)">The canon, in order</h2>
+            <h2 class="text-(--color-fg)">{t(copy, "canon_heading", "The canon, in order")}</h2>
             <p class="text-(--color-fg-muted) mt-2 max-w-prose">
-              From Raja Ram Mohan Roy to the Swatantra-era classical liberals:
-              the thinkers at the heart of this archive, chronologically.
+              {t(copy, "canon_blurb", "From Raja Ram Mohan Roy to the Swatantra-era classical liberals: the thinkers at the heart of this archive, chronologically.")}
             </p>
           </div>
           <a href="/thinkers/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
-            All thinkers →
+            {t(copy, "canon_cta", "All thinkers →")}
           </a>
         </div>
         <div class="rail relative -mx-6 px-6" data-reveal style="--reveal-delay: 80ms">
@@ -483,15 +508,15 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         <div class="flex items-end justify-between mb-8 flex-wrap gap-4" data-reveal>
           <div>
             <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-2">
-              From the federated column
+              {t(copy, "theprint_eyebrow", "From the federated column")}
             </p>
-            <h2 class="text-(--color-fg)">Latest from ThePrint</h2>
+            <h2 class="text-(--color-fg)">{t(copy, "theprint_heading", "Latest from ThePrint")}</h2>
             <p class="text-(--color-fg-muted) mt-2 max-w-prose">
-              A regular series on ThePrint surfacing the Indian liberal tradition for a contemporary readership. Each piece opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.
+              {t(copy, "theprint_blurb", "A regular series on ThePrint surfacing the Indian liberal tradition for a contemporary readership.")} Each piece opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.
             </p>
           </div>
           <a href="/theprint-mirror/" class="text-sm font-(family-name:--font-ui) font-semibold no-underline text-(--color-forest-700) hover:text-(--color-fg)">
-            See all →
+            {t(copy, "theprint_cta", "See all →")}
           </a>
         </div>
         <ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6" data-reveal style="--reveal-delay: 80ms">
@@ -540,9 +565,9 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
       <div class="grid md:grid-cols-2 gap-12">
         <div data-reveal>
           <p class="text-xs uppercase tracking-widest text-(--color-gold-300) font-(family-name:--font-ui) font-semibold mb-3">
-            For researchers and AI agents
+            {t(copy, "researchers_eyebrow", "For researchers and AI agents")}
           </p>
-          <h2 class="text-white! mb-4">A citation-grade source you can trust.</h2>
+          <h2 class="text-white! mb-4">{t(copy, "researchers_heading", "A citation-grade source you can trust.")}</h2>
           <p class="text-white/75 leading-relaxed mb-4">
             Every page has a <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">.md</code> sibling for machine readers. The corpus is indexed at <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">/llms.txt</code> and <code class="font-(family-name:--font-mono) text-sm bg-white/10 text-white px-1.5 py-0.5 rounded">/llms-full.txt</code> following the llms.txt spec.
           </p>
@@ -552,14 +577,14 @@ const heroStripPortraits = featuredThinkers.slice(0, 8).map((t) => ({
         </div>
         <div data-reveal style="--reveal-delay: 100ms">
           <p class="text-xs uppercase tracking-widest text-(--color-gold-300) font-(family-name:--font-ui) font-semibold mb-3">
-            The two-tier model
+            {t(copy, "tier_eyebrow", "The two-tier model")}
           </p>
-          <h2 class="text-white! mb-4">Honest about what we know.</h2>
+          <h2 class="text-white! mb-4">{t(copy, "tier_heading", "Honest about what we know.")}</h2>
           <p class="text-white/75 leading-relaxed mb-4">
-            Curated excerpts, opinion pieces, interviews, and profiles are fully searchable and paragraph-citable.
+            {t(copy, "tier_para_a", "Curated excerpts, opinion pieces, interviews, and profiles are fully searchable and paragraph-citable.")}
           </p>
           <p class="text-white/75 leading-relaxed">
-            Primary-work PDFs surface with rich metadata and AI-generated summaries. Paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.
+            {t(copy, "tier_para_b", "Primary-work PDFs surface with rich metadata and AI-generated summaries. Paragraph-level citation inside the original works is deferred to a future engagement, when vision-language layout reconstruction is reliable enough to clear editorial review.")}
           </p>
         </div>
       </div>

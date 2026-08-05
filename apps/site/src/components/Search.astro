@@ -15,6 +15,8 @@
 //
 // Open via the button rendered below; the dialog is keyboard-trappable.
 
+import { siteCopy, label as uiLabel } from "~/lib/site-copy";
+
 interface Props {
   /** Accessible label for the trigger button. */
   label?: string;
@@ -22,7 +24,17 @@ interface Props {
   placeholder?: string;
 }
 
-const { label = "Search the archive", placeholder = "Search thinkers, works, themes…" } = Astro.props;
+const labels = await siteCopy("labels");
+
+const {
+  label = uiLabel(labels, "search.label", "Search the archive"),
+  placeholder = uiLabel(labels, "search.placeholder", "Search thinkers, works, themes…"),
+} = Astro.props;
+
+// The tip line carries a small piece of inline HTML (the <code> chip around
+// "lang"), so it is injected with set:html below. The fallback is the exact
+// markup this component rendered before the copy moved to the site collection.
+const tipFallback = `Tip: search runs across all languages; results are tokenised per-page using the document's <code class="font-(family-name:--font-mono)">lang</code> attribute.`;
 ---
 
 {/* CCS round-3 feedback, 12.2: the search bar read as too small to notice.
@@ -42,7 +54,7 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
   </svg>
   <span class="lg:hidden">Search</span>
-  <span class="hidden lg:inline whitespace-nowrap">Search the archive</span>
+  <span class="hidden lg:inline whitespace-nowrap">{uiLabel(labels, "search.label", "Search the archive")}</span>
   <kbd class="hidden lg:inline-block ml-auto px-1.5 py-0.5 text-[10px] bg-(--color-bg) border border-(--color-border) rounded font-(family-name:--font-mono)">
     /
   </kbd>
@@ -68,30 +80,30 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
       spellcheck="false"
       class="flex-1 bg-transparent border-0 outline-0 text-base text-(--color-fg) placeholder:text-(--color-fg-muted) font-(family-name:--font-ui)"
     />
-    <button type="button" id="search-close" aria-label="Close search" class="text-(--color-fg-muted) hover:text-(--color-fg)">
+    <button type="button" id="search-close" aria-label={uiLabel(labels, "search.close", "Close search")} class="text-(--color-fg-muted) hover:text-(--color-fg)">
       <kbd class="px-1.5 py-0.5 text-xs bg-(--color-bg-muted) border border-(--color-border) rounded font-(family-name:--font-mono)">esc</kbd>
     </button>
   </div>
   <div id="search-filters" class="px-4 py-3 border-b border-(--color-border) flex flex-wrap gap-2 font-(family-name:--font-ui) text-xs">
-    <span class="text-(--color-fg-muted) self-center mr-1">Filter:</span>
+    <span class="text-(--color-fg-muted) self-center mr-1">{uiLabel(labels, "search.filter", "Filter:")}</span>
     <!-- Type pills (mutually exclusive) -->
-    <button type="button" data-filter-type="" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)" data-active>All</button>
-    <button type="button" data-filter-type="thinker" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Thinkers</button>
-    <button type="button" data-filter-type="primary-work" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Works</button>
-    <button type="button" data-filter-type="organisation" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Orgs</button>
-    <button type="button" data-filter-type="musing" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Excerpts</button>
-    <button type="button" data-filter-type="opinion" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">Opinions</button>
+    <button type="button" data-filter-type="" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)" data-active>{uiLabel(labels, "search.pill.all", "All")}</button>
+    <button type="button" data-filter-type="thinker" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">{uiLabel(labels, "search.pill.thinkers", "Thinkers")}</button>
+    <button type="button" data-filter-type="primary-work" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">{uiLabel(labels, "search.pill.works", "Works")}</button>
+    <button type="button" data-filter-type="organisation" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">{uiLabel(labels, "search.pill.orgs", "Orgs")}</button>
+    <button type="button" data-filter-type="musing" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">{uiLabel(labels, "search.pill.excerpts", "Excerpts")}</button>
+    <button type="button" data-filter-type="opinion" class="px-2.5 py-1 rounded-full border border-(--color-border) bg-(--color-bg-muted) hover:border-(--color-fg) data-[active]:bg-(--color-fg) data-[active]:text-(--color-bg) data-[active]:border-(--color-fg)">{uiLabel(labels, "search.pill.opinions", "Opinions")}</button>
     {/* Interviews pill removed: interviews are now primary-works with work_type='interview'. */}
     {/* The pagefind type filter no longer surfaces them as a separate type. Restoring this */}
     {/* pill needs a dedicated filter facet - deferred to the interview-detail-UI follow-up spec. */}
   </div>
-  <div id="search-results" class="max-h-[60vh] overflow-y-auto"></div>
+  <div id="search-results" class="max-h-[60vh] overflow-y-auto" data-empty-label={uiLabel(labels, "search.empty", "No results for “{q}”.")}></div>
   <p class="px-4 py-3 text-xs text-(--color-fg-muted) border-t border-(--color-border) font-(family-name:--font-ui) flex items-center justify-between gap-3 flex-wrap">
-    <span>Tip: search runs across all languages; results are tokenised per-page using the document's <code class="font-(family-name:--font-mono)">lang</code> attribute.</span>
+    <span set:html={uiLabel(labels, "search.tip", tipFallback)} />
     {/* Handoff to the full-text page: this dialog searches titles, summaries
         and site content; /search/ searches inside the source PDFs. */}
     <a id="search-fulltext-link" href="/search/" class="shrink-0 font-semibold text-(--color-forest-700) no-underline hover:text-(--color-fg)">
-      Search inside the documents →
+      {uiLabel(labels, "search.fulltext", "Search inside the documents →")}
     </a>
   </p>
 </dialog>
@@ -203,6 +215,7 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
 
     let lastQuery = "";
     async function runSearch(term: string) {
+      if (!resultsEl) return;
       lastQuery = term;
       const pf = await ensurePagefind();
       if (!pf) {
@@ -219,7 +232,8 @@ const { label = "Search the archive", placeholder = "Search thinkers, works, the
         return;
       }
       if (!results.length) {
-        resultsEl.innerHTML = `<p class="p-6 text-sm text-(--color-fg-muted)">No results for &ldquo;${escapeHtml(term)}&rdquo;.</p>`;
+        const emptyLabel = resultsEl.dataset.emptyLabel || "No results for “{q}”.";
+        resultsEl.innerHTML = `<p class="p-6 text-sm text-(--color-fg-muted)">${emptyLabel.replace("{q}", () => escapeHtml(term))}</p>`;
         return;
       }
       const top = results.slice(0, 12);

@@ -28,6 +28,7 @@ import { getCollection } from "astro:content";
 import { LANG_NAMES, pathForEntry, type LangCode } from "./i18n";
 import { resolveAuthorEntries } from "./resolve-author-entries";
 import { seriesFor, SERIES_META, issueYear } from "./periodicals";
+import { siteCopy, keyed } from "~/lib/site-copy";
 import { isListed } from "./listable";
 
 export interface LanguageWork {
@@ -116,6 +117,8 @@ export async function getLanguageShelves(): Promise<LanguageShelf[]> {
 
   const codes = new Set<LangCode>([...worksByLang.keys(), ...columnsByLang.keys()]);
   const shelves: LanguageShelf[] = [];
+  // Run names can be restated from the CMS's shelves entry; seed wins per key.
+  const shelfCopy = await siteCopy("shelves");
 
   for (const code of codes) {
     const all = worksByLang.get(code) ?? [];
@@ -133,11 +136,18 @@ export async function getLanguageShelves(): Promise<LanguageShelf[]> {
     const runs: LanguageRun[] = [...runBuckets.entries()]
       .map(([id, items]) => {
         const meta = SERIES_META[id];
+        const row = keyed(shelfCopy, "periodical_shelves", id);
         const years = items.map((w) => issueYear(w)).filter((y): y is number => !!y);
         return {
           id,
-          name: meta?.name ?? id.replace(/-/g, " "),
-          native: meta?.native,
+          name:
+            (typeof row.name === "string" && row.name.trim() ? (row.name as string) : undefined) ??
+            meta?.name ??
+            id.replace(/-/g, " "),
+          native:
+            (typeof row.native === "string" && row.native.trim()
+              ? (row.native as string)
+              : undefined) ?? meta?.native,
           issueCount: items.length,
           yearRange: rangeOf(years),
           cover: items.find((w) => w.data.cover_image)?.data.cover_image,

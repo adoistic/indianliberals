@@ -11,6 +11,7 @@
 
 import { getCrossLinks, urlForCrossLink, COLLECTION_LABEL, type CrossLink } from "~/lib/cross-links";
 import type { LangCode } from "~/lib/i18n";
+import { siteCopy, label as uiLabel } from "~/lib/site-copy";
 
 interface Props {
   collection: string;
@@ -22,7 +23,14 @@ interface Props {
   limit?: number;
 }
 
-const { collection, slug, viewerLang = "en", heading = "Related across the archive", limit = 5 } = Astro.props;
+const labels = await siteCopy("labels");
+const {
+  collection,
+  slug,
+  viewerLang = "en",
+  heading = uiLabel(labels, "related.heading", "Related across the archive"),
+  limit = 5,
+} = Astro.props;
 const links: CrossLink[] = getCrossLinks(collection, slug).slice(0, limit);
 ---
 

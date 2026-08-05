@@ -783,7 +783,124 @@ const graphEdges = defineCollection({
   }),
 });
 
+// ─── Site copy: the website's own words ────────────────────────────────
+//
+// One entry per editable surface (homepage, navigation, each section's
+// standfirst, the about page, shelf blurbs, interface labels). The pages
+// read these at build time and fall back to their original hardcoded
+// strings when a field is absent, so a thin or damaged entry can never
+// blank a page. Edited from the CMS's "The website's own words" screen.
+//
+// Every field is optional on purpose: each entry uses only its own slice
+// of this superset, and a missing field means "keep the built-in wording".
+
+const navItem = z.object({
+  label: z.string(),
+  href: z.string(),
+  desc: z.string().optional(),
+});
+
+const keyedBlurb = z.object({
+  key: z.string(),
+  name: z.string().optional(),
+  label: z.string().optional(),
+  title: z.string().optional(),
+  native: z.string().optional(),
+  heading: z.string().optional(),
+  blurb: z.string().optional(),
+});
+
+const site = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/site' }),
+  schema: z.object({
+    id: z.string(),
+
+    // identity
+    site_title: z.string().optional(),
+    site_description: z.string().optional(),
+    footer_blurb: z.string().optional(),
+    org_name: z.string().optional(),
+    org_url: z.string().optional(),
+    builder_name: z.string().optional(),
+    builder_url: z.string().optional(),
+    copyright_start: z.number().int().optional(),
+    contact_email: z.string().optional(),
+
+    // navigation
+    groups: z
+      .array(z.object({ label: z.string(), items: z.array(navItem).default([]) }))
+      .optional(),
+    footer_links: z.array(navItem).optional(),
+
+    // homepage
+    hero_eyebrow: z.string().optional(),
+    hero_heading: z.string().optional(),
+    hero_lede: z.string().optional(),
+    cta_primary: z.string().optional(),
+    cta_secondary: z.string().optional(),
+    glance_heading: z.string().optional(),
+    glance_span: z.string().optional(),
+    histogram_caption: z.string().optional(),
+    tiles: z.array(z.object({ key: z.string(), label: z.string() })).optional(),
+    browse_heading: z.string().optional(),
+    browse_lede: z.string().optional(),
+    cards: z.array(keyedBlurb).optional(),
+    canon_heading: z.string().optional(),
+    canon_blurb: z.string().optional(),
+    canon_cta: z.string().optional(),
+    theprint_eyebrow: z.string().optional(),
+    theprint_heading: z.string().optional(),
+    theprint_blurb: z.string().optional(),
+    theprint_cta: z.string().optional(),
+    researchers_eyebrow: z.string().optional(),
+    researchers_heading: z.string().optional(),
+    researchers_body: z.string().optional(),
+    tier_eyebrow: z.string().optional(),
+    tier_heading: z.string().optional(),
+    tier_sub: z.string().optional(),
+    tier_para_a: z.string().optional(),
+    tier_para_b: z.string().optional(),
+
+    // about
+    heading: z.string().optional(),
+    gratitude_heading: z.string().optional(),
+    gratitude_sub: z.string().optional(),
+    gratitude_note: z.string().optional(),
+    acknowledgements: z
+      .array(z.object({ name: z.string(), org: z.string().optional() }))
+      .optional(),
+
+    // section standfirsts
+    title: z.string().optional(),
+    description: z.string().optional(),
+    eyebrow: z.string().optional(),
+    lede: z.string().optional(),
+    empty_state: z.string().optional(),
+    doorways: z.array(keyedBlurb).optional(),
+
+    // shelves
+    periodical_shelves: z.array(keyedBlurb).optional(),
+    lecture_shelves: z.array(keyedBlurb).optional(),
+    interview_shelves: z.array(keyedBlurb).optional(),
+
+    // coming soon
+    contact_title: z.string().optional(),
+    contact_blurb: z.string().optional(),
+    gallery_title: z.string().optional(),
+    gallery_blurb: z.string().optional(),
+    testimonials_title: z.string().optional(),
+    testimonials_blurb: z.string().optional(),
+    note: z.string().optional(),
+
+    // interface labels
+    pairs: z
+      .array(z.object({ key: z.string(), about: z.string().optional(), value: z.string() }))
+      .optional(),
+  }),
+});
+
 export const collections = {
+  site,
   thinkers,
   contributors,
   organisations,

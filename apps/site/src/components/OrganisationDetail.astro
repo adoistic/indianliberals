@@ -52,6 +52,7 @@ import RelatedSection from "~/components/RelatedSection.astro";
 import OrgMark from "~/components/OrgMark.astro";
 import { orgMentions } from "~/lib/org-mentions";
 import { isListed } from "~/lib/listable";
+import { siteCopy, label } from "~/lib/site-copy";
 
 interface Props {
   entry: CollectionEntry<"organisations">;
@@ -61,6 +62,7 @@ const { entry } = Astro.props;
 // Alias for ergonomics - existing template logic uses `o`.
 const o = entry;
 const { Content } = await render(o);
+const labels = await siteCopy("labels");
 
 const hreflang = hreflangAlternates(
   "organisations",
@@ -185,7 +187,7 @@ const MENTION_LABEL: Record<string, string> = {
     {publishedHere.length > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
-          Works published / issued ({publishedHere.length})
+          {label(labels, "org.works", "Works published / issued")} ({publishedHere.length})
         </h2>
         <ul class="divide-y divide-(--color-border)">
           {publishedHere.slice(0, 30).map((w) => (
@@ -218,7 +220,7 @@ const MENTION_LABEL: Record<string, string> = {
     {affiliatedThinkers.length > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
-          Affiliated thinkers ({affiliatedThinkers.length})
+          {label(labels, "org.thinkers", "Affiliated thinkers")} ({affiliatedThinkers.length})
         </h2>
         <ul class="flex flex-wrap gap-2 font-(family-name:--font-ui)">
           {affiliatedThinkers.map((t) => (
@@ -239,7 +241,7 @@ const MENTION_LABEL: Record<string, string> = {
     {mentionedIn.length > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) font-(family-name:--font-ui) mb-4">
-          Mentioned in ({mentionedIn.length})
+          {label(labels, "org.mentioned", "Mentioned in")} ({mentionedIn.length})
         </h2>
         <ul class="divide-y divide-(--color-border)">
           {mentionedIn.slice(0, 30).map((m) => (
@@ -266,7 +268,7 @@ const MENTION_LABEL: Record<string, string> = {
     {/* Ideology tags */}
     {(o.data.ideology ?? []).length > 0 && (
       <aside class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui) text-sm">
-        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Ideological orientation</h2>
+        <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">{label(labels, "org.ideology", "Ideological orientation")}</h2>
         <ul class="flex flex-wrap gap-2">
           {o.data.ideology.map((i) => (
             <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg)">{i.replace(/_/g, " ")}</li>

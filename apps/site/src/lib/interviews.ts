@@ -25,6 +25,7 @@ import {
   thumbOf,
   slugify,
 } from "~/lib/video";
+import { siteCopy, keyed, t } from "~/lib/site-copy";
 
 export {
   type Entry,
@@ -110,6 +111,9 @@ export interface InterviewShelves {
 }
 
 export async function getInterviewShelves(): Promise<InterviewShelves> {
+  // The CMS "shelves" entry can restate a collection's name or blurb (seed
+  // wins per key+field); the built-in COLLECTION_META stays the fallback.
+  const copy = await siteCopy("shelves");
   const interviews = await getCollection(
     "primary-works",
     (w) => !w.data.draft && w.data.work_type === "interview",
@@ -192,15 +196,18 @@ export async function getInterviewShelves(): Promise<InterviewShelves> {
   };
   const collections = Object.entries(collectionItems)
     .filter(([, items]) => items.length > 0)
-    .map(([id, items]) => ({
-      slug: id,
-      kind: "collection" as const,
-      title: COLLECTION_META[id].title,
-      blurb: COLLECTION_META[id].blurb,
-      items,
-      yearRange: yearRangeOf(items),
-      thumb: thumbOf(items),
-    }))
+    .map(([id, items]) => {
+      const row = keyed(copy, "interview_shelves", id);
+      return {
+        slug: id,
+        kind: "collection" as const,
+        title: t(row, "name", COLLECTION_META[id].title),
+        blurb: t(row, "blurb", COLLECTION_META[id].blurb),
+        items,
+        yearRange: yearRangeOf(items),
+        thumb: thumbOf(items),
+      };
+    })
     .sort((a, b) => COLLECTION_META[a.slug].order - COLLECTION_META[b.slug].order);
 
   const total = interviews.length;

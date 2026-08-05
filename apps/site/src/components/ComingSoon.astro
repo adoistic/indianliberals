@@ -12,6 +12,7 @@
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { breadcrumbNode } from "~/lib/schema";
+import { siteCopy, t } from "~/lib/site-copy";
 
 interface Props {
   /** Section name, e.g. "Gallery". Used in the <h1> and the page title. */
@@ -23,6 +24,15 @@ interface Props {
 }
 
 const { title, path, blurb } = Astro.props;
+
+// Shared copy for the placeholder pages (site collection, `coming-soon`).
+const copy = await siteCopy("coming-soon");
+const note = t(copy, "note", "This section is being prepared and will open here. In the meantime, the rest of the archive is open:");
+
+// The contact address lives in the `identity` entry and is empty until CCS
+// provides one; once set, the contact page gains a mailto line under its blurb.
+const identity = await siteCopy("identity");
+const contactEmail = path === "/contact/" ? t(identity, "contact_email", "") : "";
 
 // Somewhere to go instead of the back button.
 const elsewhere = [
@@ -51,14 +61,18 @@ const elsewhere = [
       </p>
       <h1 class="text-(--color-fg) mb-4">{title}</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{blurb}</p>
+      {contactEmail && (
+        <p class="text-(--color-fg-muted) leading-relaxed max-w-prose mt-3">
+          Write to us at <a href={`mailto:${contactEmail}`} class="text-(--color-forest-700)">{contactEmail}</a>.
+        </p>
+      )}
     </div>
   </section>
 
   <div class="mx-auto max-w-6xl px-6 py-12">
     <div class="max-w-prose">
       <p class="text-(--color-fg-muted) leading-relaxed">
-        This section is being prepared and will open here. In the meantime, the
-        rest of the archive is open:
+        {note}
       </p>
       <ul class="mt-5 flex flex-wrap gap-3 font-(family-name:--font-ui) list-none pl-0">
         {elsewhere.map((l) => (

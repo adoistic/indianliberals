@@ -17,6 +17,9 @@ import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getPeriodicalSeries } from "~/lib/periodicals";
 import { getSeries, KIND_LABEL, countAll } from "~/lib/series";
+import { siteCopy, t, fmt } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-periodicals");
 
 const periodicalGroups = await getPeriodicalSeries();
 const seriesGroups = await getSeries();
@@ -36,8 +39,11 @@ const totalWorks = issueCount + seriesWorkCount;
     ]),
   ]}
   ogImage={ogSection("periodicals")}
-  title="Periodicals · Indian Liberals"
-  description={`${totalWorks} works across ${runCount} runs: the Forum of Free Enterprise booklets, Freedom First, The Indian Libertarian, Khoj, Shetkari Sanghatak, the annual budget analyses and the memorial lectures, indexed item by item.`}
+  title={t(copy, "title", "Periodicals · Indian Liberals")}
+  description={fmt(
+    t(copy, "description", "{works} works across {runs} runs: the Forum of Free Enterprise booklets, Freedom First, The Indian Libertarian, Khoj, Shetkari Sanghatak, the annual budget analyses and the memorial lectures, indexed item by item."),
+    { works: totalWorks, runs: runCount },
+  )}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -45,13 +51,9 @@ const totalWorks = issueCount + seriesWorkCount;
           to go (round-3 feedback, 3.1 and 3.2). The eyebrow went with it: with
           the heading now carrying the plain section name, a label above it
           saying the same word twice is just decoration. */}
-      <h1 class="text-(--color-fg) mb-4">Periodicals</h1>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Periodicals")}</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        Most of this archive was not published as one-off books. It came out in
-        runs: a fortnightly journal, a booklet series that lasted fifty years, a
-        budget analysis every spring, a memorial lecture every autumn. Read in
-        sequence they show an argument being made and remade over decades. Choose
-        a run to browse it; every item links its original PDF.
+        {t(copy, "lede", "Most of this archive was not published as one-off books. It came out in runs: a fortnightly journal, a booklet series that lasted fifty years, a budget analysis every spring, a memorial lecture every autumn. Read in sequence they show an argument being made and remade over decades. Choose a run to browse it; every item links its original PDF.")}
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {totalWorks} works · {runCount} runs

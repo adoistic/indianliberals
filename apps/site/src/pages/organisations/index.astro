@@ -6,6 +6,9 @@ import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import OrgMark from "~/components/OrgMark.astro";
+import { siteCopy, t, fmt } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-organisations");
 
 // Hide organisations with zero inbound reference material (`draft: true`
 // is set by /tmp/auto_hide_orphans.py when no work has the org as its
@@ -61,21 +64,23 @@ const typeGroups = TYPE_ORDER.filter((t) => byType.has(t)).map((t) => ({
     ]),
   ]}
   ogImage={ogSection("organisations")}
-  title="Organisations · Indian Liberals"
-  description={`${orgs.length} organisations, think tanks, publishers, political parties, and reform societies that built the Indian liberal tradition.`}
+  title={t(copy, "title", "Organisations · Indian Liberals")}
+  description={fmt(
+    t(copy, "description", "{count} organisations, think tanks, publishers, political parties, and reform societies that built the Indian liberal tradition."),
+    { count: orgs.length },
+  )}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-5xl px-6 py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        The institutional record
+        {t(copy, "eyebrow", "The institutional record")}
       </p>
-      <h1 class="text-(--color-fg) leading-tight">Organisations</h1>
+      <h1 class="text-(--color-fg) leading-tight">{t(copy, "heading", "Organisations")}</h1>
       <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
-        {orgs.length} organisations, think tanks, publishers, political
-        parties, reform societies, and professional bodies that hosted,
-        published, or were debated by Indian liberal thinkers. Each profile
-        cross-links the works published or issued by the organisation and
-        the thinkers affiliated with it.
+        {fmt(
+          t(copy, "lede", "{count} organisations, think tanks, publishers, political parties, reform societies, and professional bodies that hosted, published, or were debated by Indian liberal thinkers. Each profile cross-links the works published or issued by the organisation and the thinkers affiliated with it."),
+          { count: orgs.length },
+        )}
       </p>
     </div>
   </section>

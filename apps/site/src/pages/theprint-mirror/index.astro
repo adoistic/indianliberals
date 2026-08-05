@@ -12,6 +12,11 @@
 
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import { siteCopy, t } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-theprint");
+const LEDE_FALLBACK =
+  'A regular column on ThePrint surfacing the Indian liberal tradition for a contemporary readership, in English and Hindi. We catalogue every piece here and link out to ThePrint where the canonical version lives. Each article opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.';
 
 const posts = (await getCollection("theprint-mirror", (p) => !p.data.draft)).sort(
   (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
@@ -30,21 +35,19 @@ const filters = [
 ---
 
 <BaseLayout
-  title="From ThePrint · Indian Liberals Matter"
-  description="The Indian Liberals Matter column on ThePrint, a regular surface for the Indian liberal tradition, in English and Hindi. Each article links to ThePrint."
+  title={t(copy, "title", "From ThePrint · Indian Liberals Matter")}
+  description={t(copy, "description", "The Indian Liberals Matter column on ThePrint, a regular surface for the Indian liberal tradition, in English and Hindi. Each article links to ThePrint.")}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Federated column · indianliberals × theprint
+        {t(copy, "eyebrow", "Federated column · indianliberals × theprint")}
       </p>
-      <h1 class="text-(--color-fg) mb-4">Indian Liberals Matter</h1>
-      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        A regular column on ThePrint surfacing the Indian liberal tradition
-        for a contemporary readership, in English and Hindi. We catalogue every
-        piece here and link out to ThePrint where the canonical version lives.
-        Each article opens at <a href="https://theprint.in/category/opinion/indian-liberals-matter/" class="text-(--color-forest-700)">theprint.in</a>.
-      </p>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Indian Liberals Matter")}</h1>
+      <p
+        class="text-(--color-fg-muted) leading-relaxed max-w-prose"
+        set:html={t(copy, "lede", LEDE_FALLBACK)}
+      />
     </div>
   </section>
   {/* Image-led card grid (Adnan, 2026-07): with featured images now coming
@@ -118,7 +121,7 @@ const filters = [
         ))}
       </ul>
       <p id="tp-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
-        No pieces in this language yet.
+        {t(copy, "empty_state", "No pieces in this language yet.")}
       </p>
     </div>
   </section>

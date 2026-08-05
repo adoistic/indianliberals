@@ -4,6 +4,9 @@ import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { inlineMd } from "~/lib/inline-md";
+import { siteCopy, t } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-musings");
 
 const musings = (await getCollection("musings", (m) => !m.data.draft && m.data.language === "en")).sort(
   (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
@@ -49,17 +52,17 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
     ]),
   ]}
   ogImage={ogSection("musings")}
-  title="Musings · Indian Liberals"
-  description="Curated excerpts from the primary works of the Indian liberal tradition. Paragraph-citable, full-text searchable."
+  title={t(copy, "title", "Musings · Indian Liberals")}
+  description={t(copy, "description", "Curated excerpts from the primary works of the Indian liberal tradition. Paragraph-citable, full-text searchable.")}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Musings
+        {t(copy, "eyebrow", "Musings")}
       </p>
-      <h1 class="text-(--color-fg) mb-4">Curated excerpts from the primary works</h1>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Curated excerpts from the primary works")}</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        Short, focused passages from books, pamphlets, and essays in the corpus: paragraph-citable, full-text searchable, linked back to the source work.
+        {t(copy, "lede", "Short, focused passages from books, pamphlets, and essays in the corpus: paragraph-citable, full-text searchable, linked back to the source work.")}
       </p>
     </div>
   </section>
@@ -265,7 +268,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         })}
       </ul>
       <p id="m-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
-        No musings match the current filter. Try removing some criteria.
+        {t(copy, "empty_state", "No musings match the current filter. Try removing some criteria.")}
       </p>
     </div>
   </div>

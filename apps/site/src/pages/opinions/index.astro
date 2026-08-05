@@ -26,6 +26,9 @@ import { getCollection } from "astro:content";
 import { inlineMd } from "~/lib/inline-md";
 import { imageSize } from "~/lib/image-size";
 import { EVENT_KIND } from "~/lib/events";
+import { siteCopy, t } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-opinions");
 
 // Events live at /events/ now, not here (CCS round-3 feedback, 7.3): the
 // annual lecture, the essay contest and its results, the Vaad Vivad debate.
@@ -78,17 +81,17 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
     ]),
   ]}
   ogImage={ogSection("opinions")}
-  title="Opinions · Indian Liberals"
-  description="First-party opinion pieces and commentary from the Indian liberal tradition."
+  title={t(copy, "title", "Opinions · Indian Liberals")}
+  description={t(copy, "description", "First-party opinion pieces and commentary from the Indian liberal tradition.")}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       {/* "First-party opinion pieces" was a cataloguer's phrase, and CCS asked
           for the plain word (round-3 feedback, 7.1). The eyebrow went with it
           rather than repeat the heading immediately above itself. */}
-      <h1 class="text-(--color-fg) mb-4">Opinions</h1>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Opinions")}</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        Contemporary commentary published on Indian Liberals: feature essays, reviews of historical episodes, and reflections on figures in the tradition.
+        {t(copy, "lede", "Contemporary commentary published on Indian Liberals: feature essays, reviews of historical episodes, and reflections on figures in the tradition.")}
       </p>
     </div>
   </section>
@@ -316,7 +319,7 @@ const keyConceptOptions = [...keyConceptCounts.entries()].sort((a, b) => b[1] - 
         })}
       </ul>
       <p id="o-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
-        No opinions match the current filter. Try removing some criteria.
+        {t(copy, "empty_state", "No opinions match the current filter. Try removing some criteria.")}
       </p>
     </div>
   </div>

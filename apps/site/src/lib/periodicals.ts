@@ -14,6 +14,7 @@ import { getCollection } from "astro:content";
 import { isListed } from "./listable";
 import type { CollectionEntry } from "astro:content";
 import { DEFAULT_LOCALE } from "~/lib/i18n";
+import { siteCopy, keyed, t } from "~/lib/site-copy";
 
 export type Issue = CollectionEntry<"primary-works">;
 
@@ -154,9 +155,20 @@ function coverOf(items: Issue[]): string | null {
   return (withCover?.data.cover_image as string) ?? null;
 }
 
+// The CMS "shelves" entry can restate a run's name, native masthead or blurb
+// (seed wins per key+field); the built-in SERIES_META stays the fallback.
+function overlaidMeta(id: string, copy: Record<string, unknown>): SeriesMeta {
+  const row = keyed(copy, "periodical_shelves", id);
+  const base = SERIES_META[id];
+  const native =
+    typeof row.native === "string" && row.native.trim() ? (row.native as string) : base.native;
+  return { name: t(row, "name", base.name), native, blurb: t(row, "blurb", base.blurb) };
+}
+
 // Group all periodical issues into ordered series. Each series' issues are
 // sorted chronologically.
 export async function getPeriodicalSeries(): Promise<SeriesGroup[]> {
+  const copy = await siteCopy("shelves");
   const issues = await getCollection(
     "primary-works",
     (w) => isListed(w) && w.data.work_type === "periodical_issue",
@@ -172,6 +184,6 @@ export async function getPeriodicalSeries(): Promise<SeriesGroup[]> {
   }
   return SERIES_ORDER.filter((s) => bySeries.has(s)).map((s) => {
     const items = bySeries.get(s)!;
-    return { id: s, meta: SERIES_META[s], items, yearRange: yearRangeOf(items), cover: coverOf(items) };
+    return { id: s, meta: overlaidMeta(s, copy), items, yearRange: yearRangeOf(items), cover: coverOf(items) };
   });
 }

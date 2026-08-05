@@ -12,6 +12,9 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getInterviewShelves } from "~/lib/interviews";
+import { siteCopy, t, fmt } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-interviews-people");
 
 const { figures } = await getInterviewShelves();
 const recordings = figures.reduce((n, f) => n + f.items.length, 0);
@@ -27,8 +30,11 @@ const recordings = figures.reduce((n, f) => n + f.items.length, 0);
     ]),
   ]}
   ogImage={ogSection("interviews")}
-  title="Interviews · Oral history · Indian Liberals"
-  description={`${recordings} oral-history conversations with ${figures.length} figures of the Indian liberal tradition, each with a cleaned transcript and the original video.`}
+  title={t(copy, "title", "Interviews · Oral history · Indian Liberals")}
+  description={fmt(
+    t(copy, "description", "{conversations} oral-history conversations with {figures} figures of the Indian liberal tradition, each with a cleaned transcript and the original video."),
+    { conversations: recordings, figures: figures.length },
+  )}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
@@ -36,11 +42,9 @@ const recordings = figures.reduce((n, f) => n + f.items.length, 0);
         <a href="/interviews/" class="hover:text-(--color-fg)">Oral history</a>
         <span aria-hidden> / </span>Interviews
       </p>
-      <h1 class="text-(--color-fg) mb-4">Interviews</h1>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Interviews")}</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        Interviewees whose oral histories run across several sittings: the
-        people who lived the licence raj and the 1991 reforms, sitting down to
-        tell it. Open a figure to see every conversation with them in one place.
+        {t(copy, "lede", "Interviewees whose oral histories run across several sittings: the people who lived the licence raj and the 1991 reforms, sitting down to tell it. Open a figure to see every conversation with them in one place.")}
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {figures.length} {figures.length === 1 ? "interviewee" : "interviewees"} ·

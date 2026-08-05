@@ -18,6 +18,9 @@ import { ogSection } from "~/lib/og";
 import { getCollection } from "astro:content";
 import { getThinkerStats, type ThinkerStat } from "~/lib/thinker-stats";
 import { isCanonThinker } from "~/lib/canon";
+import { siteCopy, t } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-thinkers");
 
 const allThinkers = await getCollection(
   "thinkers",
@@ -113,23 +116,21 @@ const prettifyVocation = (v: string): string => {
     ]),
   ]}
   ogImage={ogSection("thinkers")}
-  title="Thinkers · Indian Liberals"
-  description="The curated canon of the Indian liberal tradition, from Raja Ram Mohan Roy through the Swatantra-era classical liberals."
+  title={t(copy, "title", "Thinkers · Indian Liberals")}
+  description={t(copy, "description", "The curated canon of the Indian liberal tradition, from Raja Ram Mohan Roy through the Swatantra-era classical liberals.")}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Thinkers
+        {t(copy, "eyebrow", "Thinkers")}
       </p>
-      <h1 class="text-(--color-fg) mb-4">The Indian liberal canon</h1>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "The Indian liberal canon")}</h1>
       {/* Holding copy. The ordering claim had to go with the switch to
           alphabetical, and CCS is sending replacement copy for this page
           (round-3 feedback, 4.2), so this says the true thing and no more
           rather than inventing prose that is about to be thrown away. */}
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        The reformers, economists, statesmen and editors who built the case for
-        individual liberty and free enterprise in modern India, listed
-        alphabetically.
+        {t(copy, "lede", "The reformers, economists, statesmen and editors who built the case for individual liberty and free enterprise in modern India, listed alphabetically.")}
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {canon.length} canonical thinkers

@@ -16,6 +16,7 @@
 
 import Search from "~/components/Search.astro";
 import { getCollection } from "astro:content";
+import { siteCopy, t } from "~/lib/site-copy";
 import { EVENT_KIND } from "~/lib/events";
 import { isListed } from "~/lib/listable";
 import { isCanonThinker } from "~/lib/canon";
@@ -51,7 +52,7 @@ const nonEnglishWorkCount =
 type NavItem = { label: string; href: string; desc: string; count?: number };
 type NavGroup = { id: string; label: string; items: NavItem[] };
 
-const groups: NavGroup[] = [
+const builtinGroups: NavGroup[] = [
   {
     id: "collection",
     label: "Collections",
@@ -176,6 +177,32 @@ const groups: NavGroup[] = [
   },
 ];
 
+// Navigation copy (site collection, `navigation` entry). Labels, hrefs, and
+// descriptions come from the seed when it exists; the built-in array above
+// stays the fallback. Counts stay computed here and are joined onto seed
+// items by href, so editing a label can never break a live count.
+const copy = await siteCopy("navigation");
+const countByHref = new Map<string, number>();
+for (const g of builtinGroups)
+  for (const item of g.items)
+    if (item.count !== undefined) countByHref.set(item.href, item.count);
+
+type SeedGroup = { label: string; items: { label: string; href: string; desc?: string }[] };
+const seedGroups = copy.groups as SeedGroup[] | undefined;
+const groups: NavGroup[] =
+  seedGroups && seedGroups.length
+    ? seedGroups.map((g, i) => ({
+        id: builtinGroups[i]?.id ?? `group-${i}`,
+        label: g.label,
+        items: g.items.map((item) => ({
+          label: item.label,
+          href: item.href,
+          desc: item.desc ?? "",
+          count: countByHref.get(item.href),
+        })),
+      }))
+    : builtinGroups;
+
 const path = Astro.url.pathname;
 const isActive = (href: string) => path === href || (href !== "/" && path.startsWith(href));
 const groupActive = (g: NavGroup) => g.items.some((i) => isActive(i.href));
@@ -189,7 +216,7 @@ const groupActive = (g: NavGroup) => g.items.some((i) => isActive(i.href));
       <a href="/" class="flex items-center gap-3 no-underline shrink-0" aria-label="Indian Liberals home">
         <img src="/brand/brand-mark-crane.png" alt="" class="h-9 w-9" width="36" height="36" />
         <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg) whitespace-nowrap">
-          Indian Liberals
+          {t(copy, "title", "Indian Liberals")}
         </span>
       </a>
 

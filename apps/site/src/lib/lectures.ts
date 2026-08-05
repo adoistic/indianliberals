@@ -17,6 +17,7 @@ import {
   yearRangeOf,
   thumbOf,
 } from "~/lib/video";
+import { siteCopy, keyed, t } from "~/lib/site-copy";
 
 export interface LectureSeries {
   slug: string; // URL slug under /lectures/<slug>/
@@ -68,6 +69,9 @@ export interface LectureShelves {
 }
 
 export async function getLectureSeries(): Promise<LectureShelves> {
+  // The CMS "shelves" entry can restate a series' name or blurb (seed wins
+  // per key+field); the built-in SERIES_META stays the fallback.
+  const copy = await siteCopy("shelves");
   const lectures = await getCollection(
     "primary-works",
     (w) => !w.data.draft && w.data.work_type === "lecture",
@@ -87,10 +91,11 @@ export async function getLectureSeries(): Promise<LectureShelves> {
           ? (a.data.publication?.year ?? 9999) - (b.data.publication?.year ?? 9999)
           : (b.data.publication?.year ?? 0) - (a.data.publication?.year ?? 0),
       );
+      const row = keyed(copy, "lecture_shelves", slug);
       return {
         slug,
-        title: SERIES_META[slug].title,
-        blurb: SERIES_META[slug].blurb,
+        title: t(row, "name", SERIES_META[slug].title),
+        blurb: t(row, "blurb", SERIES_META[slug].blurb),
         items,
         yearRange: yearRangeOf(items),
         thumb: thumbOf(items),

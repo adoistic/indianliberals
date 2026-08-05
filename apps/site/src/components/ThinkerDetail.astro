@@ -44,6 +44,7 @@ import type { CollectionEntry } from "astro:content";
 import { hreflangAlternates, shouldNoindex, DEFAULT_LOCALE } from "~/lib/i18n";
 import RelatedSection from "~/components/RelatedSection.astro";
 import { isListed } from "~/lib/listable";
+import { siteCopy, label, fmt } from "~/lib/site-copy";
 
 interface Props {
   entry: CollectionEntry<"thinkers">;
@@ -53,6 +54,7 @@ const { entry } = Astro.props;
 // Alias for ergonomics - all existing template logic uses `t`.
 const t = entry;
 const { Content } = await render(t);
+const labels = await siteCopy("labels");
 
 // Compute the three-role aggregations at build time. Each Tier-A entry
 // has a structured ref pointing to one or more thinkers; we partition
@@ -310,7 +312,7 @@ const bioSourceLabel =
       <aside class="mt-12 pt-8 border-t border-(--color-border) grid md:grid-cols-2 gap-8 font-(family-name:--font-ui) text-sm">
         {t.data.themes.length > 0 && (
           <div>
-            <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Themes</h2>
+            <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">{label(labels, "thinker.themes", "Themes")}</h2>
             <ul class="flex flex-wrap gap-2">
               {t.data.themes.map((th) => (
                 <li class="px-2.5 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded-full text-(--color-fg)">{th.replace(/_/g, " ")}</li>
@@ -320,7 +322,7 @@ const bioSourceLabel =
         )}
         {t.data.affiliations.length > 0 && (
           <div>
-            <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">Affiliations</h2>
+            <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-3">{label(labels, "thinker.affiliations", "Affiliations")}</h2>
             <ul class="space-y-1">
               {t.data.affiliations.map((a) => (
                 <li><a href={`/organisations/${a}/`} class="text-(--color-forest-700)">{a.replace(/-/g, " ")}</a></li>
@@ -395,12 +397,12 @@ const bioSourceLabel =
     {authorshipCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
-          By {t.data.name.canonical} ({authorshipCount})
+          {fmt(label(labels, "thinker.by", "By {name} ({count})"), { name: t.data.name.canonical, count: authorshipCount })}
         </h2>
         <div class="grid gap-6 md:grid-cols-2">
           {worksByThisThinker.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Primary works ({worksByThisThinker.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.works", "Primary works")} ({worksByThisThinker.length})</h3>
               <ul class="space-y-2">
                 {worksByThisThinker.slice(0, 15).map((w) => (
                   <li>
@@ -418,7 +420,7 @@ const bioSourceLabel =
           )}
           {opinionsByThisThinker.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionsByThisThinker.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.opinions", "Opinion pieces")} ({opinionsByThisThinker.length})</h3>
               <ul class="space-y-2">
                 {opinionsByThisThinker.map((o) => (
                   <li>
@@ -441,7 +443,7 @@ const bioSourceLabel =
     {excerptCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-2">
-          Excerpts ({excerptCount})
+          {label(labels, "thinker.excerpts", "Excerpts")} ({excerptCount})
         </h2>
         <p class="text-sm text-(--color-fg-muted) leading-relaxed mb-4 max-w-prose">
           Short passages from the archive associated with {t.data.name.canonical}.
@@ -464,12 +466,12 @@ const bioSourceLabel =
     {aboutCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
-          About {t.data.name.canonical} ({aboutCount})
+          {fmt(label(labels, "thinker.about", "About {name}"), { name: t.data.name.canonical })} ({aboutCount})
         </h2>
         <div class="grid gap-6 md:grid-cols-2">
           {interviewsAbout.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Interviews ({interviewsAbout.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.interviews", "Interviews")} ({interviewsAbout.length})</h3>
               <ul class="space-y-2">
                 {interviewsAbout.map((i) => (
                   <li>
@@ -483,7 +485,7 @@ const bioSourceLabel =
           )}
           {opinionsAbout.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Profile pieces ({opinionsAbout.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.profiles", "Profile pieces")} ({opinionsAbout.length})</h3>
               <ul class="space-y-2">
                 {opinionsAbout.map((o) => {
                   const tm = mentionFor(o, t.id);
@@ -517,12 +519,12 @@ const bioSourceLabel =
     {mentionCount > 0 && (
       <section class="mt-12 pt-8 border-t border-(--color-border) font-(family-name:--font-ui)">
         <h2 class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-4">
-          Mentioned in ({mentionCount})
+          {label(labels, "thinker.mentioned", "Mentioned in")} ({mentionCount})
         </h2>
         <div class="grid gap-6 md:grid-cols-2">
           {workMentions.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Primary works ({workMentions.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.works", "Primary works")} ({workMentions.length})</h3>
               <ul class="space-y-2">
                 {workMentions.slice(0, 15).map((w) => {
                   const tm = mentionFor(w, t.id);
@@ -554,7 +556,7 @@ const bioSourceLabel =
           )}
           {opinionMentions.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Opinion pieces ({opinionMentions.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.opinions", "Opinion pieces")} ({opinionMentions.length})</h3>
               <ul class="space-y-2">
                 {opinionMentions.slice(0, 10).map((o) => {
                   const tm = mentionFor(o, t.id);
@@ -582,7 +584,7 @@ const bioSourceLabel =
           )}
           {musingMentions.length > 0 && (
             <div>
-              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">Excerpts ({musingMentions.length})</h3>
+              <h3 class="text-sm font-semibold text-(--color-fg) mb-2">{label(labels, "thinker.excerpts", "Excerpts")} ({musingMentions.length})</h3>
               <ul class="space-y-2">
                 {musingMentions.slice(0, 10).map((m) => {
                   const tm = mentionFor(m, t.id);

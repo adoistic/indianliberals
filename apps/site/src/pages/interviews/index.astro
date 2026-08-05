@@ -16,6 +16,10 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getInterviewShelves } from "~/lib/interviews";
+import { siteCopy, t, fmt, keyed } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-interviews");
+const doorway = (key: string) => keyed(copy, "doorways", key);
 
 const { figures, collections, total, yearSpan } = await getInterviewShelves();
 
@@ -39,19 +43,22 @@ const boxes: Box[] = [
     ? [
         {
           href: "/interviews/people/",
-          title: "Interviews",
+          title: t(doorway("interviews"), "title", "Interviews"),
           meta: `${figures.length} ${figures.length === 1 ? "interviewee" : "interviewees"} · ${figureRecordings} ${figureRecordings === 1 ? "conversation" : "conversations"}`,
-          blurb:
+          blurb: t(
+            doorway("interviews"),
+            "blurb",
             "Sit-down oral histories with the people who lived the licence raj and the 1991 reforms, each running across several sittings. Open a name to hear their whole conversation in one place.",
+          ),
           thumb: figures[0]?.thumb,
         },
       ]
     : []),
   ...collections.map((c) => ({
     href: `/interviews/${c.slug}/`,
-    title: c.title,
+    title: t(doorway(c.slug), "title", c.title),
     meta: `${c.items.length} ${c.items.length === 1 ? "recording" : "recordings"}${c.yearRange ? ` · ${c.yearRange}` : ""}`,
-    blurb: c.blurb,
+    blurb: t(doorway(c.slug), "blurb", c.blurb),
     thumb: c.thumb,
   })),
 ];
@@ -66,20 +73,20 @@ const boxes: Box[] = [
     ]),
   ]}
   ogImage={ogSection("interviews")}
-  title="Oral history · Indian Liberals"
-  description={`${total} recorded interviews, oral histories, talks, and explainers spanning ${yearSpan}. Open the interviews to hear a figure's oral history, or browse the themed collections.`}
+  title={t(copy, "title", "Oral history · Indian Liberals")}
+  description={fmt(
+    t(copy, "description", "{count} recorded interviews, oral histories, talks, and explainers spanning {span}. Open the interviews to hear a figure's oral history, or browse the themed collections."),
+    { count: total, span: yearSpan },
+  )}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        Recorded voices
+        {t(copy, "eyebrow", "Recorded voices")}
       </p>
-      <h1 class="text-(--color-fg) mb-4">Oral history</h1>
+      <h1 class="text-(--color-fg) mb-4">{t(copy, "heading", "Oral history")}</h1>
       <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">
-        The spoken record of the Indian liberal tradition: the people who lived
-        the licence raj and the 1991 reforms, sitting down to tell it, alongside
-        topical talks, animated explainers, and conversations. Every recording
-        carries a cleaned transcript, an AI summary, and the original video.
+        {t(copy, "lede", "The spoken record of the Indian liberal tradition: the people who lived the licence raj and the 1991 reforms, sitting down to tell it, alongside topical talks, animated explainers, and conversations. Every recording carries a cleaned transcript, an AI summary, and the original video.")}
       </p>
       <p class="text-(--color-fg-muted) text-sm mt-4 font-(family-name:--font-ui)">
         {total} recordings · {yearSpan} · transcripts included

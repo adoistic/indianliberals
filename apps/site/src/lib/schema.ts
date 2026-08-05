@@ -36,8 +36,11 @@ const compact = (o: Node): Node =>
 const abs = (path: string): string =>
   path.startsWith("http") ? path : `${SITE_URL}${path}`;
 
-/** Sitewide publisher node, same @id on every page. */
-export function organizationNode(): Node {
+/** Sitewide publisher node, same @id on every page.
+ *  `description` lets BaseLayout pass the CMS-edited site description
+ *  (site content collection, `identity` entry) so this node and the meta
+ *  description can never drift; the built-in wording stays the default. */
+export function organizationNode(description: string = SITE_DESCRIPTION): Node {
   return {
     "@type": "Organization",
     "@id": ORG_ID,
@@ -47,7 +50,7 @@ export function organizationNode(): Node {
       "@type": "ImageObject",
       url: `${SITE_URL}/brand/favicon-512.png`,
     },
-    description: SITE_DESCRIPTION,
+    description,
     parentOrganization: {
       "@type": "NGO",
       name: "Centre for Civil Society",
@@ -56,15 +59,16 @@ export function organizationNode(): Node {
   };
 }
 
-/** Sitewide WebSite node, same @id on every page. */
-export function webSiteNode(): Node {
+/** Sitewide WebSite node, same @id on every page. Takes the same optional
+ *  CMS-edited description as organizationNode. */
+export function webSiteNode(description: string = SITE_DESCRIPTION): Node {
   return {
     "@type": "WebSite",
     "@id": WEBSITE_ID,
     url: `${SITE_URL}/`,
     name: "Indian Liberals",
     alternateName: "Indian Liberals: An Online Archive of Indian Liberal Works",
-    description: SITE_DESCRIPTION,
+    description,
     publisher: { "@id": ORG_ID },
     inLanguage: ["en-IN", "hi-IN", "mr-IN", "gu-IN"],
   };

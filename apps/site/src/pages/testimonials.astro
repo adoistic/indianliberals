@@ -1,9 +1,12 @@
 ---
 import ComingSoon from "~/components/ComingSoon.astro";
+import { siteCopy, t } from "~/lib/site-copy";
+
+const copy = await siteCopy("coming-soon");
 ---
 
 <ComingSoon
-  title="Testimonials"
+  title={t(copy, "testimonials_title", "Testimonials")}
   path="/testimonials/"
-  blurb="What readers, scholars, and the institutions that hold this material say about the archive and its use."
+  blurb={t(copy, "testimonials_blurb", "What readers, scholars, and the institutions that hold this material say about the archive and its use.")}
 />

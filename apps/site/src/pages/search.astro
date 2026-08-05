@@ -18,6 +18,11 @@
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import { breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
+import { siteCopy, t } from "~/lib/site-copy";
+
+const copy = await siteCopy("section-search");
+const LEDE_FALLBACK =
+  'Every word of every digitised document: the pamphlets, books, speeches and periodical issues, in English, Marathi, Hindi, Gujarati and Bengali. This searches inside the documents themselves; for thinkers, themes and summaries use the quick search (<kbd class="px-1.5 py-0.5 text-xs bg-(--color-bg-muted) border border-(--color-border) rounded font-(family-name:--font-mono)">/</kbd>) in the header.';
 
 const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
 ---
@@ -30,22 +35,19 @@ const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
     ]),
   ]}
   ogImage={ogSection("primary-works")}
-  title="Full-text search · Indian Liberals"
-  description="Search inside every digitised document in the archive: 1,455 works and 36,000+ pages of pamphlets, books and periodicals, across English, Marathi, Hindi, Gujarati and Bengali."
+  title={t(copy, "title", "Full-text search · Indian Liberals")}
+  description={t(copy, "description", "Search inside every digitised document in the archive: 1,455 works and 36,000+ pages of pamphlets, books and periodicals, across English, Marathi, Hindi, Gujarati and Bengali.")}
 >
   <section class="border-b border-(--color-border)">
     <div class="mx-auto max-w-5xl px-6 py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
-        The archive
+        {t(copy, "eyebrow", "The archive")}
       </p>
-      <h1 class="text-(--color-fg) leading-tight">Search the full text</h1>
-      <p class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed">
-        Every word of every digitised document: the pamphlets, books, speeches
-        and periodical issues, in English, Marathi, Hindi, Gujarati and
-        Bengali. This searches inside the documents themselves; for thinkers,
-        themes and summaries use the quick search (<kbd class="px-1.5 py-0.5 text-xs bg-(--color-bg-muted) border border-(--color-border) rounded font-(family-name:--font-mono)">/</kbd>)
-        in the header.
-      </p>
+      <h1 class="text-(--color-fg) leading-tight">{t(copy, "heading", "Search the full text")}</h1>
+      <p
+        class="mt-4 text-(--color-fg-muted) max-w-prose leading-relaxed"
+        set:html={t(copy, "lede", LEDE_FALLBACK)}
+      />
 
       <form id="fts-form" class="mt-8 max-w-2xl" role="search" aria-label="Full-text search">
         <div class="flex items-center gap-3 px-4 py-3 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors shadow-sm">
@@ -117,7 +119,7 @@ const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
       <div id="fts-status" class="text-(--color-fg-muted) font-(family-name:--font-ui) text-sm py-4 hidden"></div>
       <ul id="fts-results" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-x-5 gap-y-8 font-(family-name:--font-ui)"></ul>
       <p id="fts-empty" class="hidden text-center py-12 text-(--color-fg-muted) font-(family-name:--font-ui)">
-        No documents match. Try fewer or different words, or switch the match mode to “Any word”.
+        {t(copy, "empty_state", "No documents match. Try fewer or different words, or switch the match mode to “Any word”.")}
       </p>
       <div class="text-center mt-10">
         <button id="fts-more" type="button" class="hidden px-5 py-2.5 text-sm font-(family-name:--font-ui) font-semibold border border-(--color-border) rounded-md hover:border-(--color-fg) transition-colors">
