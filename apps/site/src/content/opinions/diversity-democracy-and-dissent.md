@@ -39,7 +39,7 @@ geographic_scope:
   scale: national
   places: 
   - maharashtra
-author: Dileep-P-Chandran
+author: Lakshmi-Ramanandan
 ---
 
 **DIVERSITY, DEMOCRACY AND DISSENT**
