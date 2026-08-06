@@ -1,49 +1,49 @@
 ---
-id: "shareefa-hamid-ali"
+id: shareefa-hamid-ali
 title: "Shareefa Hamid Ali: A Pioneer of Intersectional Feminism"
-pubDate: "2022-09-19T09:37:52Z"
-themes:
-  - "civil-liberties"
-  - "liberalism"
-  - "social-reform"
-language: "en"
+pubDate: 2022-09-19T09:37:52Z
+themes: 
+- civil-liberties
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/shareefa-hamid-ali.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/shareefa-hamid-ali.webp
 author: naina-ojha
-subject: "shareefa-hamid-ali"
-thinker_mentions:
-  - thinker: shareefa-hamid-ali
-    role: subject
-    reasoning: "The article is a full profile of Shareefa Hamid Ali, covering her life, feminist advocacy, and role as president of the All India Women's Conference and founding member of the UN Commission on the Status of Women."
-    evidence: []
-    key_passages:
-      - quote: Ali was born on December 12, 1883, to a progressive Muslim family in Gujarat.
-        what_it_shows: establishes her background and liberal family roots
-      - quote: Ali argued that child marriage restricts women from identifying their individuality and often denies them their basic right to education.
-        what_it_shows: captures her core feminist argument linking child marriage to denial of individual rights
-      - quote: "Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women."
-        what_it_shows: establishes her institutional leadership at national and international levels
+subject: shareefa-hamid-ali
+thinker_mentions: 
+- thinker: shareefa-hamid-ali
+  role: subject
+  reasoning: The article is a full profile of Shareefa Hamid Ali, covering her life, feminist advocacy, and role as president of the All India Women's Conference and founding member of the UN Commission on the Status of Women.
+  evidence: []
+  key_passages: 
+  - quote: Ali was born on December 12, 1883, to a progressive Muslim family in Gujarat.
+    what_it_shows: establishes her background and liberal family roots
+  - quote: Ali argued that child marriage restricts women from identifying their individuality and often denies them their basic right to education.
+    what_it_shows: captures her core feminist argument linking child marriage to denial of individual rights
+  - quote: Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women.
+    what_it_shows: establishes her institutional leadership at national and international levels
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "intersectional-feminism"
-  - "women-rights"
-key_concepts:
-  - "purdah"
-  - "all-india-womens-conference"
-  - "individual-rights"
-  - "swadeshi-movement"
-  - "women-emancipation"
+source_channel: editorial-opinions
+proposed_themes: 
+- intersectional-feminism
+- women-rights
+key_concepts: 
+- purdah
+- all-india-womens-conference
+- individual-rights
+- swadeshi-movement
+- women-emancipation
 pull_quote: She firmly believed that to break the shackles of societal categories it was important for people to recognize their individual rights and value their personal liberty.
 stance: commemorates
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "gujarat"
+  places: 
+  - gujarat
 ---
 
 The following essay revisits the life and legacy of a largely neglected Indian liberal, Shareefa Hamid Ali. A prominent advocate of an intersectional approach to feminism and individual rights, Ali was the president of the All India Women's Conference and a founding member of the United Nations Commission on the Status of Women.
@@ -52,7 +52,7 @@ We often come across inspiring tales of those who have made a mark in Indian his
 
 Ali was born on December 12, 1883, to a progressive Muslim family in Gujarat. Surrounded by family members whose ideologies were inherently liberal, Ali grew up with similar beliefs and ideas. Her father [Abbas J. Tyabji](https://heritagetimes.in/abbas-tyabji/), an Indian freedom fighter who also served as the Chief Justice of Baroda state (now known as Vadodara), and her mother [Ameena Tyabji](https://thewire.in/women/women-dandi-march-gandhi), among the first and most prominent Muslim women to disavow _purdah_, sowed the liberal seeds of individuality and justice in the mind of young Ali.
 
-Ali, like her mother, also explicitly disavowed the practice of _purdah _as she believed that the practice concealed a woman’s individuality and personality both literally and metaphorically.  
+Ali, like her mother, also explicitly disavowed the practice of purdah as she believed that the practice concealed a woman’s individuality and personality both literally and metaphorically.  
 
 Owing to her parents’ liberal outlook, Ali was among the few fortunate women who received an education at the time. She became well versed in Urdu, Marathi, Persian, French, and English. 
 
